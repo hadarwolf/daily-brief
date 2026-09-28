@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Daily Brief: raw fetches are regenerated every run (~0.5MB/day); only data/inbox/
+# (prepared by the GitHub Action) and data/briefs/ (written by the routine) are committed.
+data/raw/
+data/inbox/drafts/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
