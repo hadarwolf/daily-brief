@@ -52,7 +52,9 @@ stories = "1"
 title_en = "Learn Something Small"
 title_he = "ללמוד משהו קטן"
 default_lang = "en"
-stories = "2"
+stories = "5"
+# How many business/economics vocabulary cards to learn each day (plus a concept + on-this-day).
+vocab_per_day = 3
 
 # Section order in the app. On match days sports jumps to the top.
 [layout]

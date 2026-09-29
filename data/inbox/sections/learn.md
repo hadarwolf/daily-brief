@@ -1,13 +1,15 @@
-Write the Learn Something Small section: exactly 2 short stories.
+Write the Learn Something Small section: 3 vocabulary cards, then one concept, then one "on this day" — 5 stories, in that order.
 
-1. Word or concept of the day (kind "word"). Today's rotation: economics concept.
-   - Choose something genuinely useful that isn't too basic for this reader. Don't repeat anything in recent_words_and_concepts.
-   - headline: the term. For vocabulary, give the English word and its Hebrew equivalent.
-   - scroll: a crisp definition.
-   - coffee: an explanation with an example.
-   - deep: 250-400 words (shorter than usual), covering origin or etymology, nuances, common confusions and usage examples.
+1. Vocabulary — 3 stories, each kind "word". Useful English business & economics terms and short phrases that build the reader's fluency in the domain — the kind of language heard in real business talk, articles and meetings. Skip anything too basic for a sharp student. Vary them across the 3 (a term, a phrase, an idiom). Don't repeat anything in recent_words_and_concepts.
+   - headline: the English term or phrase, with the Hebrew equivalent in parentheses — e.g. "Burn rate (קצב שריפת מזומן)".
+   - scroll: a one-line definition.
+   - coffee: a plain explanation plus one natural English example sentence showing how it is used.
+   - deep: 120-200 words — when to use it, common confusions, two or three more example sentences, and the Hebrew term restated.
    - source_refs: [].
-2. On this day (kind "on_this_day").
+2. Concept of the day (kind "concept"). One business or economics idea explained from first principles — for example economic moats, price elasticity, marginal cost, network effects, opportunity cost, unit economics, monetary-policy transmission. If today's Business story illustrates one, prefer that. Don't repeat anything in recent_words_and_concepts.
+   - deep: 300-450 words with a concrete worked example.
+   - source_refs: [] (or the business story's ref if you tie it to today's story).
+3. On this day (kind "on_this_day").
    - Pick the most consequential or fascinating event from on_this_day_candidates.
    - The headline starts with the year.
    - coffee explains the context and why it mattered. deep is 250-400 words.

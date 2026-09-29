@@ -5,7 +5,6 @@ from __future__ import annotations
 import json
 from datetime import date
 
-LEARN_ROTATION = ["philosophy term", "economics concept", "English↔Hebrew vocabulary"]
 IDEAS_ROTATION = ["philosophy", "psychology", "science", "a thought-provoking op-ed or essay"]
 
 
@@ -44,7 +43,7 @@ def section_prompt(section: str, inp, brief_cfg: dict, today: date, match_day: d
     cfg = brief_cfg["sections"][section]
     n = cfg["stories"]
     primary = "Hebrew" if cfg["default_lang"] == "he" else "English"
-    body = SECTION_INSTRUCTIONS[section](n=n, today=today, match_day=match_day, primary=primary)
+    body = SECTION_INSTRUCTIONS[section](n=n, today=today, match_day=match_day, primary=primary, cfg=cfg)
     return f"""{body}
 
 This section opens in {primary} by default, so make the {primary} version your best writing.
@@ -93,17 +92,13 @@ def _israeli_politics(n, **_):
 - Use kind "news"."""
 
 
-def _business(n, today, **_):
-    concept = ""
-    if today.weekday() == 6:  # Sunday: first day of the Israeli week
-        concept = """
-- It's Sunday, so also write the weekly concept deep-dive as a second story with kind "concept". Pick one core idea (for example moats, network effects, monetary-policy transmission, price elasticity, comparative advantage), ideally one that today's story illustrates. Explain it from first principles with concrete examples. Its deep version is the centerpiece. Its source_refs may be empty. Don't repeat anything in recent_weekly_concepts."""
+def _business(n, **_):
     return f"""Write the Business & Economics section: {n} substantive story.
 
 - Choose a company move, an industry shift or a macro trend. It should teach how business or economics works, not just report that a price moved.
 - Use kind "analysis".
 - Use precise business and economics terminology; the reader wants fluency in it.
-- markets_snapshot is context only. The app displays it separately, so don't write a markets story unless there is a genuine market event.{concept}"""
+- markets_snapshot is context only. The app displays it separately, so don't write a markets story unless there is a genuine market event."""
 
 
 def _ideas(today, **_):
@@ -126,18 +121,20 @@ Step 2: read the essay's full_text_file (under essays/) and summarize the author
 - Use kind "essay". source_refs is the essay's ref."""
 
 
-def _learn(today, **_):
-    rotation = LEARN_ROTATION[today.toordinal() % len(LEARN_ROTATION)]
-    return f"""Write the Learn Something Small section: exactly 2 short stories.
+def _learn(today, cfg, **_):
+    vocab = cfg.get("vocab_per_day", 3)
+    return f"""Write the Learn Something Small section: {vocab} vocabulary cards, then one concept, then one "on this day" — {vocab + 2} stories, in that order.
 
-1. Word or concept of the day (kind "word"). Today's rotation: {rotation}.
-   - Choose something genuinely useful that isn't too basic for this reader. Don't repeat anything in recent_words_and_concepts.
-   - headline: the term. For vocabulary, give the English word and its Hebrew equivalent.
-   - scroll: a crisp definition.
-   - coffee: an explanation with an example.
-   - deep: 250-400 words (shorter than usual), covering origin or etymology, nuances, common confusions and usage examples.
+1. Vocabulary — {vocab} stories, each kind "word". Useful English business & economics terms and short phrases that build the reader's fluency in the domain — the kind of language heard in real business talk, articles and meetings. Skip anything too basic for a sharp student. Vary them across the {vocab} (a term, a phrase, an idiom). Don't repeat anything in recent_words_and_concepts.
+   - headline: the English term or phrase, with the Hebrew equivalent in parentheses — e.g. "Burn rate (קצב שריפת מזומן)".
+   - scroll: a one-line definition.
+   - coffee: a plain explanation plus one natural English example sentence showing how it is used.
+   - deep: 120-200 words — when to use it, common confusions, two or three more example sentences, and the Hebrew term restated.
    - source_refs: [].
-2. On this day (kind "on_this_day").
+2. Concept of the day (kind "concept"). One business or economics idea explained from first principles — for example economic moats, price elasticity, marginal cost, network effects, opportunity cost, unit economics, monetary-policy transmission. If today's Business story illustrates one, prefer that. Don't repeat anything in recent_words_and_concepts.
+   - deep: 300-450 words with a concrete worked example.
+   - source_refs: [] (or the business story's ref if you tie it to today's story).
+3. On this day (kind "on_this_day").
    - Pick the most consequential or fascinating event from on_this_day_candidates.
    - The headline starts with the year.
    - coffee explains the context and why it mattered. deep is 250-400 words.
