@@ -1,0 +1,91 @@
+{
+  "section": "business",
+  "date": "2026-09-29",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-09-29T07:14:08+00:00",
+  "stories": [
+    {
+      "id": "anthropic-ipo-economics",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic's IPO Filing Exposes the Real Economics of the AI Boom",
+        "scroll": "Anthropic's IPO filing shows $4.6bn revenue, an $8bn operating loss, a $42bn net loss, and a $518bn infrastructure pledge — a rare look at AI's real costs.",
+        "coffee": "Anthropic's long-awaited IPO prospectus (S-1) landed with a twist: alongside a legally mandated warning about \"existential risks to humanity,\" it revealed the real economics of building a frontier AI lab. Revenue jumped twelvefold in 2025 to nearly $4.6 billion, but operating loss grew just as fast, to $8 billion, and net loss for the year hit $42 billion. The company also disclosed plans to spend $518 billion on cloud computing and infrastructure in the coming years — over 100 times current revenue.\n\nThe gap between the $8 billion operating loss and the $42 billion net loss is itself instructive: operating loss reflects the core business, while net loss typically absorbs non-cash items too, like revaluing the preferred shares a private company issued to raise money. The $518 billion figure is a forward purchase commitment, not a loss — a bet that AI demand will keep outpacing the cost of the infrastructure needed to serve it.\n\nAnthropic isn't alone in restructuring who bears that bet: Nvidia is reportedly turning to insurers to help finance the broader AI build-out, spreading risk across Wall Street. Watch how Anthropic's shares price relative to these numbers — it will show whether public investors are still willing to underwrite AI's losses.",
+        "deep": "## What an S-1 Actually Discloses\n\nAn S-1 filing, called a prospectus in Israel and most non-US markets, is the document a private company must publish before it lists shares on a public exchange. Unlike a startup's investor pitch, a prospectus is a legal document: everything in it is written to withstand a lawsuit, not to impress readers. That is why Anthropic's S-1, filed as it prepares its long-awaited IPO, spells out both blockbuster growth and blockbuster losses in the same paragraph — and includes a risk-factor warning about \"existential risks to humanity,\" language that sounds alarming but which regulators effectively require: a company must disclose every plausible risk, however remote, so that investors cannot later claim they weren't warned.\n\n## The Numbers Behind the Hype\n\nStrip away the risk-factor boilerplate and the core numbers are stark. Anthropic's revenue jumped twelvefold in 2025, to nearly $4.6 billion — the kind of growth rate normally associated with a company several years younger. But its operating loss grew in step, reaching $8 billion, and its net loss for the year came to $42 billion. On top of that, the filing lays out plans to spend $518 billion on cloud computing and infrastructure in the coming years — more than a hundred times its current annual revenue.\n\n## Operating Loss vs. Net Loss: Why the Gap Matters\n\nThe distance between an $8 billion operating loss and a $42 billion net loss is itself a lesson in how to read a prospectus. Operating loss measures the core business: what it costs to train and run models (chiefly cloud compute) versus what customers pay. Net loss adds everything else — and in a company that has raised money through preferred shares or convertible instruments, that \"everything else\" can include large non-cash accounting charges, such as revaluing those instruments as the company's private valuation rises ahead of an IPO. None of that reflects cash actually spent; it's an accounting mechanism that only shows up because a private company is finally being asked to report like a public one. Investors reading an S-1 learn to separate the two loss figures rather than take the headline number at face value.\n\n## The $518 Billion Bet\n\nThe more consequential figure may be the $518 billion in committed infrastructure spending. This is not a loss on the books yet — it's a forward purchase commitment, a promise to buy cloud computing capacity over multiple years, likely from the hyperscalers that host Anthropic's models. Committing to spend far more than current revenue is a bet that demand for AI capacity will keep compounding faster than the cost of building it. If that bet is right, today's losses are simply the upfront cost of building a moat; if demand growth slows, the company is locked into fixed obligations that don't shrink with it. That asymmetry — enormous fixed future costs against uncertain future revenue — is exactly what an IPO is meant to test: can public markets underwrite that bet at a price the company likes?\n\n## Spreading the Risk Across the Economy\n\nAnthropic isn't the only AI company restructuring who bears this risk. On the same day, Nvidia — the industry's dominant chipmaker — was reported to be turning to insurers to help finance and spread the risk of the broader AI infrastructure build-out, drawing Wall Street further into underwriting the boom. Together, the two stories describe the same shift: the AI industry's capital needs have outgrown what tech balance sheets and venture capital alone can fund, so the risk is migrating outward — to public shareholders, insurers and bondholders — each of whom prices that risk differently than a venture investor would.\n\n## What to Watch Next\n\nTwo things will show whether markets buy the story. First, how Anthropic's IPO is ultimately priced, and whether investors treat the $42 billion net loss as background noise or a red flag. Second, whether rivals follow the same disclosure pattern: OpenAI's decision to shelve its next model, GPT-6.1 Astra, over safety concerns lands in a similar moment, and shows that safety and legal exposure are becoming a live cost line for AI labs, not just a marketing talking point. Read together, these filings are the clearest public window yet into what it actually costs to build frontier AI — and who is ultimately being asked to pay for it."
+      },
+      "he": {
+        "headline": "תשקיף ההנפקה של אנתרופיק: כך נראית הכלכלה האמיתית של בום ה-AI",
+        "scroll": "תשקיף ההנפקה של אנתרופיק חושף הכנסות שזינקו פי 12 ל-4.6 מיליארד דולר, לצד הפסד נטו של 42 מיליארד דולר והתחייבות של 518 מיליארד דולר על תשתיות מחשוב.",
+        "coffee": "תשקיף ההנפקה (IPO prospectus) המחכה זמן רב של אנתרופיק, יצרנית קלוד, הגיע עם הפתעה: לצד אזהרת סיכונים מחויבת בחוק על \"סיכונים קיומיים לאנושות\", הוא חשף כמה באמת עולה בניית מעבדת AI מובילה. הכנסות החברה זינקו פי 12 ב-2025 לכמעט 4.6 מיליארד דולר, אך ההפסד התפעולי (operating loss) גדל באותו קצב לכ-8 מיליארד דולר, וההפסד נטו (net loss) השנתי הגיע ל-42 מיליארד דולר. בנוסף חשפה החברה תוכניות להוציא 518 מיליארד דולר על מחשוב ענן ותשתיות בשנים הקרובות - פי יותר ממאה מההכנסות הנוכחיות.\n\nהפער בין הפסד תפעולי של 8 מיליארד דולר לבין הפסד נטו של 42 מיליארד דולר הוא כשלעצמו שיעור בקריאת תשקיף: ההפסד התפעולי משקף את הליבה העסקית, בעוד ההפסד נטו סופג גם רכיבים חשבונאיים שאינם תזרימיים, כמו שערוך מניות בכורה שהונפקו לגיוס הון פרטי. הסכום של 518 מיליארד דולר הוא התחייבות רכש עתידית (forward purchase commitment) ולא הפסד - הימור שהביקוש ל-AI ימשיך לגדול מהר יותר מעלות התשתית שמזינה אותו.\n\nאנתרופיק אינה לבד בפיזור הסיכון הזה: לפי דיווחים, גם אנבידיה פונה לחברות ביטוח כדי לממן ולפזר את הסיכון שבבניית תשתיות ה-AI, ומושכת את וול סטריט עמוק יותר למימון הבום. כדאי לעקוב איך תתומחר ההנפקה של אנתרופיק ביחס למספרים האלה - זה יראה אם משקיעים ציבוריים עדיין מוכנים לממן את ההפסדים של תעשיית ה-AI.",
+        "deep": "## מה תשקיף הנפקה בכלל חושף\n\nתשקיף הנפקה (S-1 filing בארה\"ב, הנקרא גם prospectus) הוא המסמך שחברה פרטית חייבת לפרסם לפני רישום מניותיה למסחר בבורסה ציבורית. בניגוד למצגת שחברת הזנק מציגה למשקיעים, תשקיף הוא מסמך משפטי: כל מילה בו נכתבת כך שתעמוד בבית משפט, לא כדי להרשים קוראים. לכן התשקיף של אנתרופיק, שהוגש לקראת ההנפקה המחכה זמן רב, מציג זה לצד זה צמיחה מרשימה והפסדים אדירים - וכולל גם אזהרת \"גורם סיכון\" (risk factor) בנוגע ל\"סיכונים קיומיים לאנושות\". ניסוח כזה נשמע דרמטי, אך הוא למעשה נדרש כמעט מכל תשקיף: על החברה לגלות כל סיכון סביר, ולו רחוק, כדי שמשקיעים לא יוכלו לטעון בעתיד שלא הוזהרו.\n\n## המספרים מאחורי ההייפ\n\nכשמסירים את שכבת אזהרות הסיכון, המספרים המרכזיים חדים. הכנסות אנתרופיק זינקו פי 12 ב-2025, לכמעט 4.6 מיליארד דולר - קצב צמיחה שבדרך כלל מאפיין חברה צעירה בהרבה. אך ההפסד התפעולי גדל בקצב דומה, לכ-8 מיליארד דולר, וההפסד נטו לאותה שנה הגיע ל-42 מיליארד דולר. מעבר לכך, התשקיף חושף תוכניות להוציא 518 מיליארד דולר על מחשוב ענן ותשתיות בשנים הקרובות - סכום שגדול פי יותר ממאה מההכנסה השנתית הנוכחית.\n\n## הפסד תפעולי מול הפסד נטו: למה הפער חשוב\n\nהמרחק בין הפסד תפעולי של 8 מיליארד דולר להפסד נטו של 42 מיליארד דולר הוא כשלעצמו שיעור בקריאת תשקיפים. ההפסד התפעולי (operating loss) מודד את ליבת העסק: כמה עולה לאמן ולהפעיל מודלים (בעיקר עלויות מחשוב ענן) מול מה שהלקוחות משלמים. ההפסד נטו (net loss) מוסיף לכך את כל השאר - ובחברה שגייסה הון באמצעות מניות בכורה (preferred shares) או מכשירים המירים, \"כל השאר\" יכול לכלול חיובים חשבונאיים גדולים שאינם תזרימיים, כמו שערוך אותם מכשירים כלפי מעלה ככל ששווי החברה הפרטי עולה לקראת ההנפקה. שום דבר מכך לא משקף כסף שהוצא בפועל; זהו מנגנון חשבונאי שצץ בעיקר כי חברה פרטית נדרשת סוף־סוף לדווח כמו חברה ציבורית. מי שקורא תשקיף לומד להפריד בין שני מספרי ההפסד, ולא להסתפק במספר הכותרת.\n\n## ההימור של 518 מיליארד דולר\n\nאולי המספר המשמעותי יותר הוא ה-518 מיליארד דולר בהתחייבויות תשתית. זה עדיין לא הפסד בספרים - זו התחייבות רכש עתידית (forward purchase commitment): הבטחה לרכוש כושר מחשוב ענן על פני מספר שנים, ככל הנראה מספקי ענן גדולים (hyperscalers) שמארחים את המודלים של אנתרופיק. התחייבות להוציא סכום כה גדול ביחס להכנסה הנוכחית היא הימור שהביקוש לתשתיות AI ימשיך לגדול מהר יותר מעלות בנייתן. אם ההימור נכון, ההפסדים של היום הם פשוט מחיר ההקמה של חפיר כלכלי (economic moat); אם קצב הביקוש יואט, החברה נשארת נעולה בהתחייבויות קבועות שלא מצטמצמות יחד איתו. חוסר הסימטריה הזה - עלויות עתידיות אדירות וקבועות מול הכנסה עתידית לא ודאית - הוא בדיוק מה שהנפקה אמורה לבחון: האם השוק הציבורי מוכן לחתם (underwrite) את ההימור הזה, ובאיזה מחיר.\n\n## פיזור הסיכון על פני הכלכלה\n\nאנתרופיק אינה החברה היחידה בתעשיית ה-AI שמשנה מי נושא בסיכון הזה. באותו יום בדיוק דווח כי אנבידיה, יצרנית השבבים הדומיננטית בתעשייה, פונה לחברות ביטוח כדי לסייע במימון ובפיזור הסיכון של בניית תשתיות ה-AI הרחבות יותר, ובכך מושכת את וול סטריט עמוק יותר למימון הבום. שני הסיפורים מתארים את אותה תזוזה: הצרכים ההוניים של תעשיית ה-AI חרגו ממה שמאזני חברות הטק והון הסיכון יכולים לממן לבד, כך שהסיכון נודד החוצה - למשקיעים ציבוריים, לחברות ביטוח ולבעלי אג\"ח - שכל אחד מהם מתמחר את הסיכון אחרת ממשקיע הון סיכון.\n\n## מה לעקוב אחריו הלאה\n\nשני דברים יראו אם השוק \"קונה\" את הסיפור. ראשית, איך תתומחר בסופו של דבר ההנפקה של אנתרופיק, והאם המשקיעים יתייחסו להפסד הנטו של 42 מיליארד דולר כאל רעש רקע או כאל דגל אדום. שנית, האם מתחרות ילכו באותו דפוס גילוי: ההחלטה של OpenAI להקפיא את המודל הבא שלה, GPT-6.1 אסטרה, בשל חששות בטיחות, מגיעה ברגע דומה, ומראה שסיכוני בטיחות וחשיפה משפטית הופכים לשורת עלות ממשית עבור מעבדות ה-AI, לא רק לסלוגן שיווקי. בקריאה משותפת, התשקיפים הללו הם החלון הציבורי הברור ביותר עד כה לכמה באמת עולה בניית AI חזיתי (frontier AI) - ומי בפועל מתבקש לשלם עבור זה."
+      },
+      "tags": [
+        "ai",
+        "ipo",
+        "anthropic",
+        "capital-markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
+          "url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "בדרך להנפקת הענק: אנתרופיק חושפת הפסד שנתי של 42 מיליארד דולר",
+          "url": "https://www.themarker.com/wallstreet/2026-09-29/ty-article/.premium/000001a0-eba0-dfbb-afa4-fbf0b4c80000"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Nvidia turns to insurers to spread the risk of AI build-out",
+          "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "OpenAI axes next model citing safety issues",
+          "url": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4221.2598,
+      "prev_close": 4242.1201,
+      "change_pct": -0.49,
+      "as_of": "2026-09-28"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7683.6899,
+      "prev_close": 7743.4102,
+      "change_pct": -0.77,
+      "as_of": "2026-09-28"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0716,
+      "prev_close": 3.0472,
+      "change_pct": 0.8,
+      "as_of": "2026-09-29"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 99.51,
+      "prev_close": 105.28,
+      "change_pct": -5.48,
+      "as_of": "2026-09-29"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 83949.9531,
+      "prev_close": 84458.0859,
+      "change_pct": -0.6,
+      "as_of": "2026-09-29"
+    }
+  }
+}

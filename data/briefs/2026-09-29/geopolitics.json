@@ -1,0 +1,143 @@
+{
+  "section": "geopolitics",
+  "date": "2026-09-29",
+  "title_en": "Geopolitics",
+  "title_he": "גיאופוליטיקה",
+  "default_lang": "en",
+  "generated_at": "2026-09-29T07:14:08+00:00",
+  "stories": [
+    {
+      "id": "us-iran-iraq-withdrawal",
+      "kind": "analysis",
+      "en": {
+        "headline": "US Forces Leave Iraq After Two Decades, as Iran Diplomacy Hangs in the Balance",
+        "scroll": "US forces have withdrawn from Iraq after two decades as mediators struggle to close a fragile US-Iran deal, while Netanyahu quietly courts Gulf allies.",
+        "coffee": "American troops have left Iraq entirely, ending a two-decade presence that began with the 2003 invasion, just as mediators trying to broker a new US-Iran deal report \"major hurdles\" still unresolved. The Trump administration is separately denying reports that it offered Tehran sanctions relief for nuclear concessions.\n\nThe timing matters because Reuters frames the Iraq withdrawal itself as an opening for Iranian influence, in a country Iran has spent two decades cultivating through allied militias and parties. Israel isn't waiting to find out how the US-Iran track resolves: Prime Minister Netanyahu made a secret weekend trip to Abu Dhabi to meet the UAE's leader, a sign of quiet Gulf coordination running in parallel to the stalled diplomacy. In Britain, meanwhile, five men arrested near a US-run air base have been bailed while police investigate a possible Iran link - a reminder the standoff's edges already reach into Europe.\n\nForeign Affairs, surveying the same landscape, describes a stalemate that \"is not sustainable\" and a conflict fought \"without victory.\" What happens next - a real deal, a collapse into wider confrontation, or more of the same - will shape Gulf security, oil markets, and Iraq's next chapter.",
+        "deep": "## Background\n\nTwo decades ago, in 2003, the United States invaded Iraq and toppled Saddam Hussein, opening space for Iran - Iraq's larger, Shia-majority neighbor - to build influence there ever since, through allied militias and political parties and trade routes that let Tehran blunt US-led sanctions. American forces stayed on for years afterward, officially to fight the remnants of ISIS and to check Iran, inside a broader confrontation that Foreign Affairs this week describes as \"The New Forever War\" - a fight the US and Iran wage \"without victory\" (foreign_affairs#0). Now, per Reuters, that troop presence has ended: American forces have withdrawn from Iraq entirely (reuters_world#0).\n\n## The story\n\nTwo things are happening at once. First, mediators are trying to close a new US-Iran deal, but \"major hurdles remain,\" AP reports (ap_world#5) - and the Trump administration is pushing back hard on reports that it dangled sanctions relief for nuclear concessions, with Trump personally denying the offer (reuters_world#6). Foreign Affairs argues the current stalemate \"is not sustainable\" and calls for a genuine diplomatic strategy to end the war (foreign_affairs#7), suggesting that whatever is driving the impasse, observers think the window for resolving it is narrowing.\n\nSecond, the US exit from Iraq removes the on-the-ground check that American forces represented there for two decades - an opening Reuters explicitly frames as working in Iran's favor (reuters_world#0).\n\nAround the same events, Prime Minister Netanyahu made a secret weekend trip to Abu Dhabi to meet the UAE's leader (ap_world#11); AP groups this with \"other Mideast developments,\" suggesting quiet regional coordination continuing even as headline diplomacy with Tehran stalls. And in Britain, five men arrested near a US-run air base have been bailed while police investigate a possible Iran link (ap_world#13) - a reminder that whatever is or isn't resolved in the Gulf, the confrontation's edges already reach into Europe.\n\n## Second-order effects\n\n- **Iraq's balance tips.** With two decades of US presence over, Iraq's already fragile balancing act between Washington and Tehran tilts further toward Iran's sphere, at least in the near term - precisely the opening Reuters flags in its own framing.\n- **Gulf diplomacy runs on its own track.** Netanyahu's secret Abu Dhabi visit shows Israel continuing to manage its Gulf relationships quietly, in parallel to - not dependent on - any US-Iran deal.\n- **Markets are jumpy on oil.** Elsewhere in today's wires, the Indian rupee slid past 96 to the dollar to a two-month low \"as oil worries deepen\" (reuters_world#5), Indian shares fell to near six-month lows \"on oil surge\" (reuters_world#11), and the dollar firmed near a two-month peak as oil prices and US yields both rose (reuters_world#13). None of these reports draws an explicit line to the Iraq withdrawal or the Iran talks specifically, but the timing is a reminder of how quickly Gulf uncertainty shows up in energy-sensitive currencies and equities far from the Middle East.\n- **European security services are already engaged.** The UK arrests near a US air base, still under investigation for a possible Iran connection, show that regardless of the diplomatic outcome, European agencies are treating Iran-linked risk as live now.\n- **Military doctrine is shifting regardless of the outcome.** Separately, Foreign Affairs argues that Iran's demonstrated capacity for what it calls \"precise mass\" - coordinated, precision-guided strikes at scale - is already reshaping how militaries think about the next war (foreign_affairs#3).\n\n## What to watch next\n\nWhether the current mediation produces an actual deal, or whether the \"hurdles\" AP describes prove decisive, will shape everything downstream: sanctions, oil flows, and whether Iraq's post-withdrawal vacuum gets filled by Tehran, by Washington's remaining regional partners, or by no one in particular. Netanyahu's Gulf diplomacy is worth tracking as a parallel track that may matter more than the headline US-Iran negotiation if that stalls. And the UK investigation, if it confirms an Iran link, would mark a rare instance of the confrontation surfacing directly on European soil."
+      },
+      "he": {
+        "headline": "ארה\"ב יוצאת מעיראק אחרי שני עשורים, והדיפלומטיה מול טהרן נתקעת",
+        "scroll": "כוחות ארה\"ב נסוגו לחלוטין מעיראק אחרי עשרים שנה, בדיוק כשמגשרים מתקשים לסגור עסקה חדשה עם איראן ונתניהו מקיים דיפלומטיה שקטה עם המפרץ.",
+        "coffee": "כוחות ארה\"ב עזבו את עיראק לחלוטין, ובכך הסתיימה נוכחות צבאית שנמשכה כעשרים שנה מאז הפלישה ב-2003 - בדיוק כשמגשרים שמנסים לגבש הסכם חדש בין וושינגטון לטהרן מדווחים על \"מכשולים משמעותיים\" שעדיין לא נפתרו. מנגד, ממשל טראמפ מכחיש דיווחים לפיהם הציע לאיראן הקלות בסנקציות תמורת ויתורים בתחום הגרעין.\n\nהתזמון לא מקרי: רויטרס מתארת את הנסיגה מעיראק עצמה כהזדמנות עבור איראן להרחיב את השפעתה במדינה שבה היא משקיעה כבר שני עשורים, דרך מיליציות ומפלגות בעלות ברית. ישראל, מצידה, לא ממתינה לתוצאה: ראש הממשלה נתניהו קיים ביקור סוף שבוע חשאי באבו דאבי ונפגש עם מנהיג איחוד האמירויות - סימן לתיאום שקט מול מדינות המפרץ, שממשיך במקביל למגעים התקועים. בבריטניה בינתיים שוחררו בערבות חמישה גברים שנעצרו סמוך לבסיס אווירי אמריקאי, כשהמשטרה בודקת אפשרות לזיקה לאיראן - תזכורת לכך שההתעמתות כבר מורגשת גם באירופה.\n\nפוריין אפיירס, שסוקר את אותה תמונה, מתאר קיפאון ש\"אינו בר-קיימא\" ועימות ש\"נמשך בלי ניצחון\". מה שיקרה בהמשך - הסכם אמיתי, התדרדרות להתלקחות רחבה יותר, או המשך אותו מצב - יעצב את ביטחון המפרץ, שוקי הנפט והפרק הבא בעיראק.",
+        "deep": "## רקע\n\nלפני יותר משני עשורים, ב-2003, פלשה ארה\"ב לעיראק והפילה את סדאם חוסיין - צעד שפתח לאיראן, השכנה הגדולה והשיעית של עיראק, חלון הזדמנויות להשריש שם השפעה: מיליציות ומפלגות בעלות ברית, ונתיבי מסחר שסייעו לטהרן לעקוף סנקציות מובלות על ידי ארה\"ב. הכוחות האמריקאיים נשארו במקום שנים אחר כך, רשמית כדי להילחם בשרידי דאעש ולאזן את איראן, במסגרת מה שפוריין אפיירס מכנה השבוע \"המלחמה הבלתי-פוסקת החדשה\" - עימות שארה\"ב ואיראן \"נלחמים בו בלי ניצחון\" (foreign_affairs#0). כעת, לפי רויטרס, הנוכחות הזו הסתיימה: הכוחות האמריקאיים נסוגו לחלוטין מעיראק (reuters_world#0).\n\n## הסיפור\n\nשני דברים קורים במקביל. ראשית, מגשרים מנסים לגבש עסקה חדשה בין ארה\"ב לאיראן, אך לפי AP \"מכשולים משמעותיים\" עדיין לא נפתרו (ap_world#5) - וממשל טראמפ דוחה בתוקף דיווחים לפיהם הציע לטהרן הקלה בסנקציות תמורת ויתורים גרעיניים, כשטראמפ עצמו מכחיש את ההצעה (reuters_world#6). פוריין אפיירס טוען שהקיפאון הנוכחי \"אינו בר-קיימא\" וקורא לאסטרטגיה דיפלומטית של ממש שתביא לסיום המלחמה (foreign_affairs#7) - מה שמרמז שלפי הפרשנים, הזמן הפנוי לפתרון הולך ואוזל.\n\nשנית, היציאה האמריקאית מעיראק מסירה את הבלם שנוכחות הכוחות האמריקאיים במדינה ייצגה במשך שני עשורים - הזדמנות שרויטרס מנסחת במפורש כך שהיא משרתת את ההשפעה האיראנית (reuters_world#0).\n\nבמקביל לכל זה, ראש הממשלה נתניהו קיים ביקור סוף שבוע חשאי באבו דאבי ונפגש עם מנהיג איחוד האמירויות (ap_world#11) - AP מקבצת זאת יחד עם \"התפתחויות נוספות במזרח התיכון\", מה שמרמז על תיאום אזורי שקט שממשיך גם כשהדיפלומטיה הגלויה מול טהרן תקועה. ובבריטניה, חמישה גברים שנעצרו סמוך לבסיס אווירי המופעל על ידי ארה\"ב שוחררו בערבות, בעוד המשטרה בודקת אפשרות לזיקה לאיראן (ap_world#13) - תזכורת לכך שקצוות העימות מגיעים גם לאירופה.\n\n## אפקטים מסדר שני\n\n- **האיזון בעיראק נוטה.** עם סיום עשרים שנות נוכחות אמריקאית, האיזון השברירי ממילא בין וושינגטון לטהרן נוטה עוד יותר, לפחות בטווח הקרוב, לכיוון ספירת ההשפעה האיראנית - בדיוק ההזדמנות שרויטרס מציינת בכותרת שלה עצמה.\n- **דיפלומטיה מפרצית במסלול נפרד.** הביקור החשאי של נתניהו באבו דאבי מראה שישראל ממשיכה לנהל את מערכות היחסים שלה עם מדינות המפרץ בשקט, במקביל למגעים בין ארה\"ב לאיראן - לא בתלות בהם.\n- **שווקים עצבניים סביב הנפט.** באותו יום נרשמו גם טלטלות הקשורות לנפט בעדכונים אחרים - הרופי ההודי צנח מתחת לרף 96 מול הדולר, לשפל של חודשיים, \"על רקע העמקת החששות מהנפט\" (reuters_world#5), מדד המניות ההודי צנח לשפל של כמעט חצי שנה \"על רקע זינוק מחירי הנפט\" (reuters_world#11), והדולר התחזק לשיא של כחודשיים כשמחירי הנפט ותשואות האג\"ח האמריקאיות עלו יחד (reuters_world#13). אף אחד מהדיווחים הללו לא קושר במפורש בין הטלטלה בשווקים לבין הנסיגה מעיראק או המגעים עם איראן, אבל התזמון מזכיר עד כמה שווקים רחוקים מהמזרח התיכון - מטבעות ומניות רגישים לאנרגיה - מגיבים במהירות לכל סימן לחוסר יציבות במפרץ.\n- **שירותי הביטחון באירופה כבר מעורבים.** המעצרים בבריטניה סמוך לבסיס אווירי אמריקאי, שעדיין נבדקים לזיקה אפשרית לאיראן, מראים ששירותי הביטחון האירופיים כבר מתייחסים לסיכון הקשור לאיראן כאיום פעיל, בלי קשר לתוצאה הדיפלומטית.\n- **דוקטרינה צבאית משתנה בלי קשר לתוצאה.** בנפרד, פוריין אפיירס טוען שהיכולת שאיראן הפגינה למה שהכתבה מכנה \"מסה מדויקת\" (precise mass) - התקפות מתואמות ומדויקות בהיקף גדול - כבר מעצבת מחדש את האופן שבו צבאות חושבים על המלחמה הבאה (foreign_affairs#3).\n\n## מה לעקוב אחריו\n\nהשאלה אם המגעים הנוכחיים יניבו עסקה של ממש, או שה\"מכשולים\" ש-AP מתארת יתבררו כמכריעים, תעצב את כל מה שבא אחריה: הסנקציות, זרימת הנפט, והשאלה אם החלל שנוצר בעיראק לאחר הנסיגה יתמלא בידי טהרן, בידי שותפים אזוריים שנותרו לוושינגטון, או בידי אף אחד באופן ממשי. כדאי לעקוב אחרי הדיפלומטיה המפרצית של נתניהו כמסלול מקביל שעשוי להתברר כחשוב יותר מהמו\"מ הגלוי בין ארה\"ב לאיראן, אם זה ייתקע. והחקירה הבריטית, אם תאשר זיקה לאיראן, תסמן מקרה נדיר שבו העימות צף ישירות על אדמה אירופית."
+      },
+      "tags": [
+        "iran",
+        "israel",
+        "middle-east",
+        "diplomacy"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "US forces exit Iraq after two decades, leaving opening for Iran - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalJlU2twR3RkNzhyVlFwZmJkZmg3RXQ3VEpxTFowU2dhY1pEeG8wZWlLQ2NVb0lNUERZQXRSdThEbWdxdGx6aExDVkFGNHdUVkZwRFlSclVvYWxEVk5wTFlYQVZmblBJUlcxZ180Sm9YdWtXNDZoZkVfYVQ5aDR1VTZIMGFRWnNsVEs5LVJWMkVXWmpaVnIzd2hBTzl5M1pIenM3c09RaW41aEVoOWRSRkNB?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Trump denies offering Iran sanctions relief for nuclear concessions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVF4LWZMa3hVb1J2cTVXVjRXdmh0RkFkMkY4MHVWVTVhQmZCQjJpT1l2QmExeFBXd3FRa256Z1Z1Z3k3UFQzOGY5VW1OSHBrcFVGQjkzVkdRaG1rc3FkR19CY3dhajI3cy0zOFZUb2tkTkRLUDN1aHdYd0tRMHM2ZVZiMk1Ld0dvZEhzX0JsblduWjdGa0dfZ3pzSDRqejRRdWZUY0RQUzA?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Indian rupee drops to two-month low past key 96/USD barrier as oil worries deepen - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHNTZW52Uy1FNUw2R1RIaEFLa2RMZ25fLUNZMHluYUVBbW9WbTFIV1oxUE82WmtKSnNBN2pDSEI5cnF5Q0d5bWgyeHViT0VaV1dXNzBKbVhDLUhWMmRmQURUdEZua2E5eEZiNDJEVkUyamphM1pfRHVOa1NFSFpTazMzNWlQeVBKazNwWTFCNkpOMFBDYTZSaFhOb29LY1F5VmhGYUNxR19VV1VGVHhBdUc1UXUyLVh2LXp6bzNQWQ?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Indian shares dip to near six-month lows on oil surge - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5lWllfVDNRcEhXRTZMSTB4QnRraHlSN2NUaUJxMWN3dVlIeDJRbEx2aWVSa3JibXB6MVE1NVZPbGJTdkpBcnpzUHN2bjhMVTRPWFE1WGNuT25ESUNhYTNZRVpFZzhSQ2xnbUt5ZktKZWFSNWpjNG51NXNRWHNlM1dRNTZkUmZ2cC1hdDJYQjdIQ25keWstWGJ5T0VyUVpNNzBvQQ?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm1xMjE3YTBSdTBJRVI5blBWcFFOS1ZSQWZlcVhMZU1iWU1kZTkyaElQUXhyRzZ4My1UcmdUVW1MZldrdjMzblF5eEh5amIwb2tlWmozYjloa29GaEhoT2dMbFFteHRwLV9pem9OYkowV3RUaGhnTUhDUjcwLXozSG1rT0dOMmdsdERFUlVwM1p4TjBZQlFZZWx2aTc4VC03QURrOWM1c1IwVXc?oc=5"
+        },
+        {
+          "outlet": "AP — World (via Google News)",
+          "title": "Mediators are working to broker a US-Iran deal, but major hurdles remain - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXZybWpYdGZCWHd5WlBiVFg4cDR1LXFIeGFyakJFaVZXbEJ1S3U3ZjIwTkxqVE5mOGR0Q1dERkZmSlNwZ0RZNnd5anlvTktKc2h3aUVCOVhLLUpsNGp3eVZtakc3dHJhbkNCTGFwZ3NQZG02ZTV3TVEtYy1qcTlaMnNpRV9Cci1pTTByTTZFOGFIMXNEQS1udGlFZm54Z0lWNjd3bw?oc=5"
+        },
+        {
+          "outlet": "AP — World (via Google News)",
+          "title": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTFEOXNVSFlsb2xMS3dPWklqX1UwMEpMa1dzLXFFQWlZUHlTc0YxNy02eVJoakRuNjNMMzN3NWN0Y0p1WGlIVzZ0NWdWd2Y0dUs1TmI1bVVENmtUOGFpZUdSeVFxMzZQWmxtYm9mZk85alZ0aGtMRFh4bkkzOFQzM2lDM2ZCem9rU0o1eGpBRXhvR2VubHpqN3RjT3pyMG5uVVEyOFRGZEU0WGhy?oc=5"
+        },
+        {
+          "outlet": "AP — World (via Google News)",
+          "title": "5 men arrested near a US-run air base are bailed as UK police probe whether there's a link to Iran - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGdnd212MGJiNlJRdkktS3AtYWVMUWZlSlEtWEdVOHNyUlZOTDFRQ3A4MEJ2anFQaHRvclpNTDVuZEVsTU1GNm0xMGJRUXZGWTZpZUFoQi1NS0JMdzlQbmk5UE96bHp1LW9EZmhYcDZ2MWhzeFREWTZmSUlHcEw5NjlKTTl6RlgxVnpoNEVLQnAwVm8zVm1XUUJQNXVVcnZwNDVzY1lKb1A?oc=5"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "The New Forever War",
+          "url": "https://www.foreignaffairs.com/iran/new-forever-war"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "How Iran Changed War",
+          "url": "https://www.foreignaffairs.com/iran/how-iran-changed-war-united-states-michael-horowitz"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "The Stalemate With Iran Is Not Sustainable",
+          "url": "https://www.foreignaffairs.com/iran/stalemate-iran-not-sustainable"
+        }
+      ]
+    },
+    {
+      "id": "north-korea-russia-korea-strain",
+      "kind": "analysis",
+      "en": {
+        "headline": "North Korea Deepens Its Role in Russia's War, Straining Ties With Seoul",
+        "scroll": "North Korea is preparing to send Russia another 10,000 troops as Kyiv's secret transfer of captured North Korean soldiers to Seoul strains Ukraine-South Korea relations.",
+        "coffee": "Ukrainian President Zelensky says North Korea is preparing to send another 10,000 troops to fight alongside Russia, on top of previous deployments, as a Russian drone strike hit Kyiv's historic National Academy of Sciences building and forced people to flee.\n\nThe war's Asia-Pacific dimension is straining ties inside Ukraine's own coalition. Seoul summoned Ukraine's ambassador after Zelensky revealed that Kyiv had secretly sent two captured North Korean soldiers to South Korea - a transfer South Korea says was meant to stay confidential. The disclosure came around the same time the US approved South Korea's acquisition of a nuclear-powered submarine, which North Korea immediately called destabilizing for the region.\n\nTogether, the moves show how thoroughly the Ukraine war has become entangled with Korean peninsula security: North Korea is now both a combatant supplying Russia and, through its prisoners, a diplomatic flashpoint between Kyiv and Seoul, while Washington's submarine decision adds a new proliferation-adjacent wrinkle. Foreign Affairs describes the broader trend as a \"new stage\" in Vladimir Putin's confrontation with Ukraine and the West - one that keeps widening the map of countries with a direct stake in the war's outcome.",
+        "deep": "## Background\n\nNorth Korea's alliance with Russia over the Ukraine war has been building for a while: Pyongyang has previously sent troops to fight alongside Russian forces, and Reuters today reports Ukrainian President Volodymyr Zelenskiy saying North Korea is preparing to deploy \"another 10,000 troops\" (reuters_world#21) - phrasing that implies this is an addition to forces already committed. The relationship has become one of the war's more consequential subplots, turning what began as a European conflict into one with a direct Northeast Asian dimension.\n\n## The story\n\nTwo things happened this week that show how tangled that dimension has become. First, the military side: on top of the new troop commitment, Russia continues to strike Ukrainian cities - a drone hit Kyiv's National Academy of Sciences building, a historic structure, forcing people inside to escape (bbc_world#18).\n\nSecond, the diplomatic side got complicated. Zelensky revealed that Ukraine had secretly transferred two captured North Korean soldiers to South Korea. Seoul, according to the BBC, says the handover was meant to remain secret and summoned Ukraine's envoy over the disclosure (bbc_world#23) - an unusual moment of friction between two governments that are otherwise broadly aligned against Pyongyang and Moscow.\n\nAt the same time, Reuters reports that North Korea criticized US approval for South Korea to acquire a nuclear-powered submarine, calling it a source of \"increased regional instability\" (reuters_world#22). Nuclear-powered submarines run on enriched reactor fuel rather than diesel, giving them far longer range and underwater endurance than conventional boats; South Korea's pursuit of the capability has been a sensitive issue for years given the politics of nuclear technology on the peninsula, and Washington's approval marks a significant shift.\n\n## Second-order effects\n\n- **Coalition friction.** The POW episode shows that even close partners in the anti-Russia coalition don't always coordinate - Ukraine's decision to move prisoners to Seoul, made public by Zelensky himself, caught South Korea off guard enough to prompt a formal diplomatic summons.\n- **Proliferation optics.** A nuclear-powered (not nuclear-armed) submarine for South Korea is a technical and diplomatic milestone in its own right, regardless of North Korea's framing - it puts sensitive nuclear fuel technology in South Korean hands, and Pyongyang is already using the decision to argue that Washington, not itself, is the destabilizing actor in the region.\n- **Force generation for Pyongyang.** North Korea's continued troop deployments to Russia give it battlefield experience and hard currency, and plausibly, in return, technology transfers from Moscow - a trade that outlasts the Ukraine war itself and reshapes the North's military over the long run.\n- **A widening map of stakeholders.** Foreign Affairs frames the broader moment as \"a new stage\" in Putin's confrontation with Ukraine and the West (foreign_affairs#6), and a companion piece argues the US and its allies need to \"scale together\" industrially for \"a new era of war\" (foreign_affairs#1) - both suggest analysts see the war's logic extending well beyond Ukraine's borders, pulling in Korea and, implicitly, Western defense-industrial capacity.\n\n## What to watch next\n\nWhether the reported 10,000 additional North Korean troops actually deploy, and how Russia uses them, will be one signal of how committed Pyongyang now is to the war. On the Korean peninsula side, watch whether the POW dispute between Kyiv and Seoul is smoothed over quickly or leaves lasting strain in a relationship South Korea has cultivated carefully while avoiding becoming a direct arms supplier to Ukraine. And the submarine decision is likely to draw continued scrutiny from arms-control watchers, given how rare it is for a non-nuclear-armed state to receive this kind of technology."
+      },
+      "he": {
+        "headline": "קוריאה הצפונית מעמיקה את מעורבותה במלחמת רוסיה, והמתיחות עם סיאול גוברת",
+        "scroll": "קוריאה הצפונית מתכוננת לשלוח לרוסיה עוד כ-10,000 חיילים, בעוד העברה חשאית של שבויים צפון-קוריאנים לסיאול מותחת את היחסים בין קייב לדרום קוריאה.",
+        "coffee": "נשיא אוקראינה זלנסקי מסר כי קוריאה הצפונית מתכוננת לשלוח לרוסיה עוד כ-10,000 חיילים, בנוסף לכוחות שכבר נשלחו בעבר, בזמן שרחפן רוסי פגע בבניין ההיסטורי של האקדמיה הלאומית למדעים בקייב, מה שהכריח אנשים בפנים לברוח.\n\nהממד האסיה-פסיפי של המלחמה מותח גם את הקואליציה של אוקראינה עצמה. סיאול זימנה את שגריר אוקראינה לאחר שזלנסקי חשף כי קייב העבירה בחשאי שני שבויי מלחמה צפון-קוריאנים לדרום קוריאה - העברה שלטענת סיאול הייתה אמורה להישאר חסויה. הגילוי הגיע בסמוך למועד שבו ארה\"ב אישרה לדרום קוריאה לרכוש צוללת בהנעה גרעינית, צעד שקוריאה הצפונית מיהרה לכנות מערער יציבות אזורית.\n\nיחד, שני האירועים מראים עד כמה מלחמת אוקראינה השתלבה בביטחון חצי האי הקוריאני: קוריאה הצפונית היא כיום גם לוחמת לצד רוסיה וגם, דרך השבויים שלה, נקודת חיכוך דיפלומטית בין קייב לסיאול, בעוד ההחלטה האמריקאית בנושא הצוללת מוסיפה זווית חדשה שנוגעת לרגישות הגרעינית. פוריין אפיירס מתאר את המגמה הרחבה יותר כ\"שלב חדש\" בעימות של פוטין מול אוקראינה והמערב - עימות שממשיך להרחיב את מעגל המדינות עם עניין ישיר בתוצאה שלו.",
+        "deep": "## רקע\n\nהברית בין קוריאה הצפונית לרוסיה סביב מלחמת אוקראינה מתהדקת כבר תקופה: פיונגיאנג שלחה בעבר חיילים שנלחמו לצד הכוחות הרוסיים, ורויטרס מדווחת היום שנשיא אוקראינה וולודימיר זלנסקי אמר שקוריאה הצפונית מתכוננת לפרוס \"עוד 10,000 חיילים\" (reuters_world#21) - ניסוח שמרמז שמדובר בתוספת לכוחות שכבר הוצבו. הקשר הזה הפך לאחד מקווי המשנה המשמעותיים ביותר של המלחמה, והפך עימות שהחל כסכסוך אירופי לעימות עם ממד ישיר במזרח אסיה.\n\n## הסיפור\n\nשני דברים שקרו השבוע ממחישים עד כמה הממד הזה הסתבך. ראשית, הצד הצבאי: מעבר להתחייבות החדשה לכוחות, רוסיה ממשיכה לתקוף ערים אוקראיניות - רחפן פגע בבניין האקדמיה הלאומית למדעים בקייב, מבנה היסטורי, מה שהכריח את מי שהיה בפנים לברוח (bbc_world#18).\n\nשנית, הצד הדיפלומטי הסתבך. זלנסקי חשף שאוקראינה העבירה בחשאי שני שבויי מלחמה צפון-קוריאנים לדרום קוריאה. לפי ה-BBC, סיאול טוענת שההעברה הייתה אמורה להישאר חסויה, וזימנה את שגריר אוקראינה בעקבות הגילוי (bbc_world#23) - רגע חיכוך חריג בין שתי ממשלות שבדרך כלל מיושרות זו מול זו נגד פיונגיאנג ומוסקבה.\n\nבמקביל, רויטרס מדווחת שקוריאה הצפונית ביקרה את אישור ארה\"ב לדרום קוריאה לרכוש צוללת בהנעה גרעינית, וכינתה זאת גורם ל\"אי-יציבות אזורית מוגברת\" (reuters_world#22). צוללות בהנעה גרעינית מונעות בדלק כור מועשר במקום דיזל, מה שמעניק להן טווח וזמן שהייה מתחת למים ארוכים בהרבה מצוללות רגילות; השאיפה של דרום קוריאה ליכולת הזו הייתה נושא רגיש במשך שנים בשל הפוליטיקה של טכנולוגיה גרעינית בחצי האי, והאישור האמריקאי מסמן שינוי משמעותי.\n\n## אפקטים מסדר שני\n\n- **חיכוך בתוך הקואליציה.** פרשת השבויים מראה שגם שותפות קרובות בקואליציה נגד רוסיה לא תמיד מתואמות זו עם זו - ההחלטה של אוקראינה להעביר שבויים לסיאול, שנחשפה בידי זלנסקי עצמו, הפתיעה את דרום קוריאה עד כדי כך שהובילה לזימון דיפלומטי רשמי.\n- **זווית של הפצה גרעינית (nuclear proliferation).** צוללת בהנעה גרעינית (לא צוללת נושאת נשק גרעיני) עבור דרום קוריאה היא ציון דרך טכני ודיפלומטי בפני עצמו, בלי קשר לניסוח של קוריאה הצפונית - היא מעבירה טכנולוגיית דלק גרעיני רגישה לידיים דרום-קוריאניות, ופיונגיאנג כבר משתמשת בהחלטה הזו כטיעון לפיו וושינגטון, לא היא, הגורם המערער יציבות באזור.\n- **בניין כוח לפיונגיאנג.** פריסות החיילים המתמשכות של קוריאה הצפונית לרוסיה מעניקות לה ניסיון קרבי ומטבע חוץ, וכנראה - בתמורה - גם העברות טכנולוגיה ממוסקבה, עסקה שתשרוד מעבר למלחמת אוקראינה עצמה ותעצב מחדש את הצבא הצפון-קוריאני לטווח ארוך.\n- **מעגל בעלי עניין מתרחב.** פוריין אפיירס מתאר את הרגע הרחב יותר כ\"שלב חדש\" בעימות של פוטין מול אוקראינה והמערב (foreign_affairs#6), וכתבה נלווית טוענת שארה\"ב ובעלות בריתה צריכות \"להתרחב יחד\" מבחינה תעשייתית לקראת \"עידן חדש של מלחמה\" (foreign_affairs#1) - שתיהן מרמזות שהפרשנים רואים בהיגיון של המלחמה משהו שחורג הרבה מעבר לגבולות אוקראינה, סוחף פנימה את קוריאה, ובאופן משתמע - גם את היכולת התעשייתית-ביטחונית של המערב.\n\n## מה לעקוב אחריו\n\nהשאלה אם 10,000 החיילים הצפון-קוריאנים הנוספים באמת ייפרסו, וכיצד רוסיה תשתמש בהם, תהיה אינדיקציה למידת המחויבות הנוכחית של פיונגיאנג למלחמה. בצד הקוריאני, כדאי לעקוב אם הסכסוך סביב השבויים בין קייב לסיאול יירגע במהירות או ישאיר מתח מתמשך ביחסים שדרום קוריאה טיפחה בזהירות תוך הימנעות מהפיכה לספקית נשק ישירה לאוקראינה. והחלטת הצוללת צפויה למשוך המשך תשומת לב מצד גורמי פיקוח על נשק, לאור הנדירות שבה מדינה ללא נשק גרעיני מקבלת טכנולוגיה כזו."
+      },
+      "tags": [
+        "ukraine",
+        "russia",
+        "north-korea",
+        "south-korea"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Ukraine's Zelenskiy says North Korea prepares to deploy another 10,000 troops to Russia - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjdRek9lejNoZkhSRjhkQmg3VGpvc1dBNERSVFg3VWk1MHJHZXhhdVp2S1Q4bFNGZFlreHc4OVFfejBsd3NZNjVTVS1QQVBUNjBVZTFGOHprbFBmTXl5Q0RPNmVyYWY4OWtpXzJKd2dXSmdxVVhYUmdESVcyVXBzeEJrdjRVbEJaNkZUaHNjeHZ0SjNGMXd0RkhRVzlkeDB6NkF4Tm9kVXByS1RXT21ha2E5Y191Zzh6UVhxaDJOaG11RWdMWHZHcnJWY3kzbEk?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "North Korea says US approval for South Korea's nuclear submarine increases regional instability - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3dSNjZ4UE14NUlmSUpBREZoVEZ5cl9zYTJfT1M2MTUwdnJnbUZfXzlURmdvWFlHcmI2a2NWUzA0MWhXbDA1RDlJdk95OHBvZ0huXzYwMjZ2VlYxZlJLc3JNcFlYbWdsM2dld0dncXNLZEg4MkFSZmRDZEtESUpZTTM2NFVSNl9uTlRmUGhXa0JWY25HSUI0S1RVY1JQMWpnZ1BCNENYbVVWTlUwc1QzTzh0YUtJZEdQako3TGVLT1BMb1RxQ21FWmVUT21SQQ?oc=5"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "People escape historic Kyiv building hit by Russian drone",
+          "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "How Putin Escalates",
+          "url": "https://www.foreignaffairs.com/russia/how-putin-escalates-ukraine-war-andrei-kolesnikov"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "Rewiring the Arsenal of Democracy",
+          "url": "https://www.foreignaffairs.com/united-states/rewiring-arsenal-democracy-war-dan-driscoll"
+        }
+      ]
+    }
+  ]
+}
