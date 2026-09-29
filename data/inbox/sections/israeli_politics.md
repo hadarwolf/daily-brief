@@ -18,151 +18,150 @@ Output: write `drafts/israeli_politics.json` matching `schemas/israeli_politics.
    "items": [
     {
      "ref": "haaretz_he#0",
-     "title": "רונן בר: התרעתי בפני נתניהו מפני אסון והוא התעלם, אגיש תביעת דיבה",
-     "published": "2026-09-28T16:31:11+00:00"
+     "title": "הרצוג על הפרעות בג'אלוד: כתם מוסרי, פגיעה בשלטון החוק ובערכים הבסיסיים ביותר שלנו",
+     "published": "2026-09-29T06:44:31+00:00",
+     "summary": "איזנקוט: מציאות שבה איש הישר בעיניו יעשה, אינה תקלה ואינה טעות, אלא תוצאה ישירה של מדיניות מסוכנת. גולן: כשממשלה יוצרת אווירה של הפקרות, היא נושאת באחריות לדם שישפך"
     },
     {
      "ref": "haaretz_he#1",
-     "title": "גבריאלה ליימברג: אם האחראים מכל הדרגים לא ייקחו אחריות, זה יקרה שוב",
-     "published": "2026-09-28T15:37:43+00:00",
-     "summary": "ליימברג, שנחטפה עם בתה מיאה מניר יצחק, אמרה כי המחבלים שהחזיקו בה בשבי אמרו כי הם מתכננים טבח נוסף. מישל אילוז: \"איזה אמון יכול להיות לכם במי שהולך לישון כשהוא יודע שהולכת להיות פה רעידת אדמה ביטחונית?\""
+     "title": "אין להם רגע לבזבז: בקנדה, הקיץ הוא אובססיה קדחתנית",
+     "published": "2026-09-29T06:23:41+00:00",
+     "summary": "אם ב\"אביב\" הקנדי אפשר ליפול מ-20 מעלות למינוס 2, הקיץ הוא הדבר האמיתי והקנדים מתורגלים לנצל כל שנייה ממנו. למי שבא ממדינה עם עשרה חודשי שמש בשנה, זה יכול להיראות מוזר |\"הארץ\" מחוץ לארץ"
     },
     {
      "ref": "haaretz_he#2",
-     "title": "שוב מבטיחים גשם. בפעם הקודמת מצאתי את עצמי במעיל באמצע אוגוסט",
-     "published": "2026-09-28T15:36:01+00:00"
+     "title": "פרק 4: במה מאמינים בוגרי החינוך הממלכתי, מצביעי הפעם הראשונה?",
+     "published": "2026-09-29T06:22:41+00:00",
+     "summary": "ליאור שליין: \"לצעירים היום יש סיפור אחד חזק - יהודי יותר טוב מערבי, דתי יותר טוב מחילוני\""
     },
     {
      "ref": "haaretz_he#3",
-     "title": "החשודים שנעצרו סמוך לבסיס בבריטניה ישוחררו בערבות; באיראן הכחישו קשר",
-     "published": "2026-09-28T15:25:27+00:00",
-     "summary": "ראש היחידה ללוחמה בטרור במשטרת בריטניה הבהיר כי החמישה עדיין נמצאים תחת חקירה בחשד לעבירות טרור. חמשת העצורים הם אזרחים בריטים מלונדון, בשנות ה-20 המוקדמות לחייהם"
+     "title": "צה\"ל תקף בעזה; נתניהו וכץ: מח\"ט צפון הרצועה בחמאס נהרג",
+     "published": "2026-09-29T06:01:40+00:00",
+     "summary": "על פי דיווחים פלסטינים, כמה בני אדם, בהם ילדים, נפצעו בתקיפה במרכז העיר עזה סמוך לשכונת רימאל, ודירת מגורים עלתה באש"
     },
     {
      "ref": "haaretz_he#4",
-     "title": "רביב דרוקר נחקר על שימוש בטלפון בנהיגה; מקור: המשטרה סירבה לשלוח לו דו\"ח לפני זימונו",
-     "published": "2026-09-28T15:05:03+00:00",
-     "summary": "המשטרה התעקשה שדרוקר ייגש לתחנה בעקבות תיעוד ששודר בתוכנית \"המקור\" בערוץ 13, והיום גם הליכוד הגישה תלונה נגדו. מקור: שתי יחידות במשטרה התקשרו אליו ו\"התחרו על הזכות\" לזמן אותו לחקירה אצלן"
+     "title": "מה רע בגירוי תאווה מינית? כש\"הארץ\" נאבק בצנזורה",
+     "published": "2026-09-29T05:45:14+00:00",
+     "summary": "בעקבות סגירת מדור \"תרבות וספרות\" ומדור השחמט חזרנו לפעם הראשונה שבה הופיעו ב\"הארץ\", לפני 73 שנים, וגילינו עוד כמה מדורים שנולדו אז ונסגרו מזמן"
     },
     {
      "ref": "haaretz_he#5",
-     "title": "אני מביט בהם ומקנא. זה ההישג העמוק של המתנחלים",
-     "published": "2026-09-28T14:59:32+00:00",
-     "summary": "המחנה הליברלי צריך להבין שהמאבק לא יוכרע בבחירות. וגם: העיסוק בהתרעות קונקרטיות מצמצם את שאלת האחריות של נתניהו, היוצר שכותב אינדי איזוטרי ואת שירי הפופ הגדולים במדינה, העיר הפולנית שהפכה לבירה קולינרית, טאי־צ'י ו־31 מתכונים לבורגול | היום ביומית"
+     "title": "מנכ\"ל מנצ'סטר סיטי: נעשה הכל כדי לנקות את השם שלנו",
+     "published": "2026-09-29T05:22:49+00:00",
+     "summary": "פראן סוריאנו הוסיף כי ההליך שמנהלת הליגה נגד מנצ'סטר סיטי בנוגע להפרת התקנות הפיננסיות עשוי להימשך שנים"
     },
     {
      "ref": "haaretz_he#6",
-     "title": "בג\"ץ קבע כי הנוהל של עיריית ירושלים לממן אירועים פרטיים בלי מכרז אינו חוקי",
-     "published": "2026-09-28T14:54:38+00:00",
-     "summary": "העירייה השתמשה בנוהל \"מיזמים ופעולות משותפות\" במשך 12 שנים, ובמסגרתו העבירה בלא מכרזים מאות מיליוני שקלים למימון פרויקטים ואירועים, חלקם פוליטיים. פסק הדין צפוי להשפיע על עיריות נוספות שעושות בו שימוש"
+     "title": "\"אחים\": וודי הרלסון ומתיו מקונוהיי שוב משתפים פעולה. הפעם זה לא עובד",
+     "published": "2026-09-29T05:09:25+00:00",
+     "summary": "\"אחים\" מנסה לסחוט ככל האפשר את החברות בין השחקנים, שכיכבו בעונה הראשונה של \"בלש אמיתי\", אבל מתגלה כסיטקום חורק וצפוי"
     },
     {
      "ref": "haaretz_he#7",
-     "title": "האיכות האמנותית של \"הביתה!\" גוברת על הבוסריות הדרמטית",
-     "published": "2026-09-28T14:50:45+00:00",
-     "summary": "במאית \"הביתה!\" רעות אקרמן משחקת את עצמה ביצירה חשופה על גילוי הוריה הביולוגיים. מעניין איך הסרט שהיה הפתעת פרסי אופיר יסיים את התחרות בחיפה"
+     "title": "איתן בורג: \"העונה אוכל להוכיח לכולם שאני מהטובים שיש בישראל\"",
+     "published": "2026-09-29T05:00:03+00:00",
+     "summary": "הגארד בן ה-24 הספיק תוך שנים ספורות לטפס לליגה הבכירה, לצאת למכללות בארה\"ב ולשחק בנבחרת. בריאיון ל\"הארץ\" לפני משחק היורוקאפ הערב (20:00) הוא מספר על החיבור לאירוויזיון (\"זה במשפחה שלנו\"), על הקשיים שחווה בטנסי (\"החודשים לבד היו לא פשוטים\") ועל החלומות להמשך (\"להיות עם הפועל ירושלים ביורוליג\")"
     },
     {
      "ref": "haaretz_he#8",
-     "title": "שוער כף ורדה אחרי ההצלחה במונדיאל: אין לי פרטיות. מעדיף את חיי הקודמים",
-     "published": "2026-09-28T14:43:01+00:00",
-     "summary": "ווזיניה מרגיש חסר אונים מול תשומת הלב שהוא מקבל אחרי שסייע לכף ורדה להעפיל לשלב הנוקאאוט במונדיאל עם תצוגת שוערות נפלאה"
+     "title": "צה\"ל: כמאה מתנחלים התפרעו בג'אלוד וסיכלו מבצע להחזרת פלסטינים לביתם",
+     "published": "2026-09-29T04:32:31+00:00",
+     "summary": "לפי הודעת הצבא, הפורעים הציתו מבנים וכלי רכב ויידו אבנים, שלושה נעצרו. המשפחה שגורשה מביתה היתה אמורה לחזור בהוראת בג\"ץ. בן המשפחה ל\"הארץ\": מספר המתנחלים היה גדול מאוד והם פלשו לבית. נמלטנו לגג בליווי הכוחות, אבל המתנחלים הגיעו גם לשם"
     },
     {
      "ref": "haaretz_he#9",
-     "title": "עם כל צעד התברר גודל הטרגדיה שמנעה מענף שלם שיא עולם נקי מחשדות לסמים",
-     "published": "2026-09-28T14:20:55+00:00",
-     "summary": "טיגסט אספה היתה ממוקדת בהחזרת שיא העולם במרתון לידה אחרי ששיאה של רות צ'פנגטיץ' הוכתם עם מציאת חומרים אסורים בגופה. במרתון ברלין היא רצה נפלא, עד שפציעה לקראת הסיום הרסה לה את התוכניות ותשבית אותה לתקופה ארוכה"
+     "title": "נתניהו טוען שלא ביקש מנשיא האמירויות להכחיש שהזהיר אותו לפני 7 באוקטובר",
+     "published": "2026-09-29T03:06:00+00:00",
+     "summary": "ראש הממשלה אמר כי בן זאיד הזמין אותו ואת אשתו לפגישה, וכי השתתפו בה גם ראש המל\"ל, ראש המוסד, המזכיר הצבאי והיועץ המדיני. באיחוד האמירויות אמרו כי הפגישה עסקה ב\"חיזוק היחסים בין שתי המדינות\""
     },
     {
      "ref": "haaretz_he#10",
-     "title": "הלחימה השביתה את בתי הספר ושיבשה את השגרה, וילדים בתימן נשלחים לעבוד",
-     "published": "2026-09-28T14:04:40+00:00",
-     "summary": "התחדשות הלחימה בין החותים והכוחות התימניים שמה קץ לארבע שנים של שקט יחסי, ויותר מ-130 אלף אזרחים כבר נעקרו מבתיהם. \"הלימודים חשובים, אבל לא כשאנחנו נאבקים להשיג מספיק מזון\", אמר ילד בן 13"
+     "title": "\"הסוד של אמה\": למרות הקלישאות העלילתיות זוהי דרמת מתח מרתקת",
+     "published": "2026-09-29T03:00:53+00:00",
+     "summary": "אלה שמסוגלים להכיל צפייה בסדרה על אודות ילדה נעדרת ומי אחראי למה שקרה לה, ימצאו אותה מוצלחת"
     },
     {
      "ref": "haaretz_he#11",
-     "title": "רוד סטיוארט מכריז על סיבוב הופעות ב–2027: \"זה יהיה האחרון בהחלט\"",
-     "published": "2026-09-28T13:44:27+00:00",
-     "summary": "הזמר בן ה–81 יסיים קריירת הופעות שהחלה כשהיה נער בתחילת שנות ה–60. סיבוב הפרידה יעבור בבריטניה וברחבי אירופה"
+     "title": "יהודים ירו אל מכונית שנסעו בה בדואים ופצעו אחד מהם. המשטרה עצרה את הנהג בלי שחקרה את היורים",
+     "published": "2026-09-29T03:00:50+00:00",
+     "summary": "היורים חשדו כי יושבי המכונית גנבו מחווה שבבעלותם, אך בית המשפט קבע כי אין חשד סביר שקושר את הבדואים לגניבה. לדברי השופט, המשטרה לא סיפקה הסבר הגיוני להחלטתה שלא לחקור את היורים. יומיים אחר כך טענה המשטרה כי חקרה את היורים, אך סירבה לומר מתי"
     },
     {
      "ref": "haaretz_he#12",
-     "title": "עשרות אלפים הפגינו בספרד נגד משבר הדיור לאחר פינוי של אישה בת 87 מביתה",
-     "published": "2026-09-28T13:01:07+00:00",
-     "summary": "מרי-כרמן אבסקל פונתה כי לא היתה מסוגלת לעמוד בעלייה של 230% בשכר הדירה שדרשה קרן ההשקעות שרכשה את דירתה. מפגינים הקימו מאות אוהלים במרכז מדריד בדרישה להרחיב את ההגנה על שוכרי הדירות"
+     "title": "מיזם חדש מציג את הנזקים שגורמת תעשיית הסמארטפונים בעולם. גם לישראל יש נציגה",
+     "published": "2026-09-29T03:00:47+00:00",
+     "summary": "מפה עולמית מבקשת להנגיש את המחיר הכבד שכריית חומרי הגלם הנדרשים לבניית מכשירים חכמים גובה מהסביבה ומהאדם. מומחה: \"צריך לייצר מכשירים לשנים רבות ולמחזר אותם. סמארטפון צריך לפעול ביעילות עשר שנים לפחות\""
     },
     {
      "ref": "haaretz_he#13",
-     "title": "עוגת קרפים מלוחה עם פטריות, שאלוט, מרווה, טימין וגבינות",
-     "published": "2026-09-28T12:46:11+00:00",
-     "summary": "קרפים דקיקים במילוי פטריות, פרמזן ועשבי תיבול הופכים לעוגה חגיגית, עם רוטב שמנת ופטריות ושכבה שחומה ומבעבעת של גבינות מעל"
+     "title": "עוד לפני שרונן בר יתבע את נתניהו, הוא צריך לדבר. אולי לא יהיה מועד אחר",
+     "published": "2026-09-29T03:00:44+00:00",
+     "summary": "סיקור הפוסט של נתניהו נגד רונן בר, שידורי החדשות"
     },
     {
      "ref": "haaretz_he#14",
-     "title": "מועמד הליכוד איציק בונצל לחטופה יוכבד ליפשיץ: הלוואי שהייתה דרך להחזיר אותך לחמאס",
-     "published": "2026-09-28T12:06:32+00:00",
-     "summary": "בונצל, ששכל את בנו במלחמה בעזה ושוריין ברשימת הליכוד, כתב בפייסבוק נגד ליפשיץ שמתחה ביקורת על נתניהו. ליפשיץ בתגובה: נתניהו שלח את המשוריין שלו להסית נגדי כדי שלא ידברו על ההתרעות שקיבל לפני 7.10"
+     "title": "קיליאן אמבפה לא החליף ספונסר. הוא החליט להיות שותף",
+     "published": "2026-09-29T03:00:40+00:00",
+     "summary": "אחרי שני עשורים עם נייקי, קיליאן אמבפה בחר דווקא באון שמעולם לא ייצרה נעלי כדורגל. בעקבות רוג'ר פדרר, גם הוא מעדיף השפעה ובעלות על פני עוד חוזה עתק"
     },
     {
      "ref": "haaretz_he#15",
-     "title": "עמית סגל הצליח להפוך חשיפה עיתונאית אדירה לקרב בוץ ברשתות חברתיות",
-     "published": "2026-09-28T12:02:26+00:00",
-     "summary": "העימות בין שלומי אלדר לסגל מקפל בתוכו את הזילות שעברה העיתונות בעידן נתניהו"
+     "title": "המפלגות הערביות בקמפיין לבוחרים: אתם תצאו להצביע, אנחנו נחליף את הממשלה",
+     "published": "2026-09-29T03:00:33+00:00",
+     "summary": "על רקע איומי הפסילה והכרזות ההדרה של גוש מתנגדי נתניהו, הרשימות הערביות מבטיחות למצביעים שינוי – בתנאי שלא יחרימו את הבחירות"
     },
     {
      "ref": "haaretz_he#16",
-     "title": "ה-NBA סוללת את הדרך להרחבת הליגה, אך בינתיים יש יותר שאלות מתשובות",
-     "published": "2026-09-28T12:00:31+00:00",
-     "summary": "ה-NBA הולכת ומתקרבת להגדלת הליגה ל-32 קבוצות, אך בעוד התשתית בסיאטל נראית מוכנה, בלאס וגאס יש הרבה חוסר ודאות"
+     "title": "הוא חזר מהצבא ומתפקד על טורבו – רק כדי שלא יישאר לו רגע של שקט",
+     "published": "2026-09-29T03:00:30+00:00",
+     "summary": "בחברה הישגית כמו שלנו עומס כזה נחשב ל\"תפקוד מיטבי\", אבל מי שמתמודדים עם פוסט טראומה צבאית לעתים קרובות משתמשים בו כדי לברוח ממה שקורה בנפשם"
     },
     {
      "ref": "haaretz_he#17",
-     "title": "יואב סגלוביץ: עדיף שאבו שחאדה לא יתמודד בבחירות, אף שאני מתנגד לפסילתו",
-     "published": "2026-09-28T11:57:50+00:00",
-     "summary": "סגלוביץ אמר כי העליון הוא שצריך להכריע בשאלת פסילתו של יו\"ר בל\"ד מפני שוועדת הבחירות המרכזית היא גוף פוליטי. הרשימה המשותפת גינתה את דבריו: הצטרף למסע שמוביל בן גביר לפסילת הקולות הערביים"
+     "title": "ההיסטוריון ג'יימס לפלר מזהיר: \"זה רגע מסוכן מאוד ליהודי ארצות הברית\"",
+     "published": "2026-09-29T03:00:17+00:00",
+     "summary": "בספר חדש מסביר ג'יימס לפלר מדוע השמאל והימין האמריקאיים מתקשים להגדיר מהי אנטישמיות – ולמה כל כך מסובך להילחם בה"
     },
     {
      "ref": "haaretz_he#18",
-     "title": "להסתכל על השעון באמצע סקס ולהפסיק באמצע כי מאחרים זה בלתי נסבל",
-     "published": "2026-09-28T11:53:29+00:00",
-     "summary": "למלצרים לא היה אכפת שלא נגענו באוכל. המרוויח העיקרי היה הפקינז שלנו ■ לצלילי האלבום של פינק פלויד איבדתי את הבתולים עם מתנדבת גרמנייה ■ כל מה שעניין אותי זה לגנוב בטריות ולשמוע מייקל בווקמן | התגובות הכי טובות שפורסמו השבוע באתר \"הארץ\""
+     "title": "הדיווחים על ההתרעות שקיבל נתניהו לפני 7.10 אילצו את תומכיו לחשב מסלול מחדש",
+     "published": "2026-09-29T03:00:14+00:00",
+     "summary": "בהתחלה פצחו המקורבים וערוצי התעמולה במטר האשמות נגד כל שאר האחראים. אחר כך נעלמו רוב הח\"כים ממערך ההגנה והותירו את הלשכה ואת יאיר לבד. מאתמול מסתמן דף מסרים חדש, מגוחך אף יותר מקודמיו"
     },
     {
      "ref": "haaretz_he#19",
-     "title": "שום גורם ביטחוני אינו בודק את פרצת האבטחה בכלי שאוריך פיתח לנתניהו",
-     "published": "2026-09-28T11:37:54+00:00",
-     "summary": "\"הארץ\" חשף כי יועצו הקרוב של נתניהו הותיר את הקוד גלוי ברשת, כולל מזהים המאפשרים חדירה לווטסאפ. בכלכליסט דווח שאוריך חיבר את הווטסאפ שלו לתוכנה מדובאי ■ שב\"כ, מערך הסייבר ומשרד רה\"מ טרם פתחו בבדיקה"
+     "title": "לא כל כישלון IVF מעיד על בעיה: מה מגלים מחקרים חדשים על טיפולי פוריות",
+     "published": "2026-09-29T03:00:11+00:00",
+     "summary": "המערכת זיהתה ביציות שלא נמצאו בבדיקה הידנית המקובלת. מחקרים נוספים מצאו שכישלונות חוזרים בהחזרת עוברים אינם בהכרח מעידים על בעיה, ושבדיקות דם עשויות לזהות רעלת היריון חודשים לפני הופעת התסמינים"
     },
     {
      "ref": "haaretz_he#20",
-     "title": "בעלי מזיז רהיטים כשאני לא בבית. זה מה שמחזיק את הנישואים שלנו",
-     "published": "2026-09-28T11:26:44+00:00",
-     "summary": "אני אוהבת שדברים נשארים במקום שבו היו, אבל בעלי אוהב \"לשנות את האנרגיה בבית\" ומבטיח לי שאתרגל"
+     "title": "נתניהו משתמש באותו קמפיין כבר 30 שנה: הערבים רעים, והיריב שלו ימכור להם את המדינה",
+     "published": "2026-09-29T03:00:07+00:00",
+     "summary": "מערפאת ועד מנסור עבאס, בליכוד מתמקדים בדה־לגיטימציה לפוליטיקאים יהודים בשל יחסיהם עם ערבים – ולפוליטיקאים ערבים בשל היותם ערבים. כאז כן כיום, בין המסרים למדיניות של נתניהו בפועל יש פער גדול ואירוני"
     },
     {
      "ref": "haaretz_he#21",
-     "title": "\"כמו מאורה של נבל מסרטי ג'יימס בונד\": טיפסתי בדולומיטים אל בקתת ההרים המרהיבה בתבל",
-     "published": "2026-09-28T11:24:21+00:00",
-     "summary": "בקתת סנטנרפאס בצפון איטליה לא רק נראית מדהים כשהיא תלויה מעל העננים; היא מופת של בנייה ירוקה ומטבח צמחוני"
+     "title": "עבדאללה העביר מסר ברור: ישראל מסכנת את האזור ואת השלום",
+     "published": "2026-09-29T03:00:03+00:00",
+     "summary": "בנאום חריף בעצרת האו\"ם הציג מלך ירדן את ישראל בתור איום שמתפשט. בשעה שבירושלים מתאמצים להרחיב את הסכמי אברהם, ההסכם עם ירדן נשחק – והממלכה מחפשת תחליפים"
     },
     {
      "ref": "haaretz_he#22",
-     "title": "מרטין אודגור תקף את ברנרדו סילבה אחרי שפצע אותו: \"אין לזה מקום בכדורגל\"",
-     "published": "2026-09-28T11:20:58+00:00",
-     "summary": "קפטן נבחרת נורבגיה זעם על קשר פורטוגל אחרי עבירה שביצע בסוף המשחק בליגת האומות. אודגור תועד צועק שוב ושוב לעבר יריבו אחרי העבירה, ואחרי ההתמודדות התקשה לדרוך על רגלו"
+     "title": "את ויליאם בן ה-9 הם כבר הצליחו לחנך. מי הבא בתור?",
+     "published": "2026-09-29T03:00:00+00:00"
     },
     {
      "ref": "haaretz_he#23",
-     "title": "עובר אורח בן 15 נפצע באורח בינוני מפיצוץ מטען בחולון",
-     "published": "2026-09-28T11:06:16+00:00",
-     "summary": "לפי המשטרה, הנער לא היה יעד הפיצוץ. צוות מד\"א פינה אותו לבית החולים וולפסון כשהוא בהכרה וסובל מפציעות קשות בגופו"
+     "title": "כולם מתווכחים על 7 באוקטובר, אף אחד לא מדבר על סיום המלחמה",
+     "published": "2026-09-29T03:00:00+00:00"
     },
     {
      "ref": "haaretz_he#24",
-     "title": "בהפרש של שעות, 28 בני אדם נהרגו בשתי תקריות ירי נפרדות בדרום אפריקה – ואיש לא נעצר",
-     "published": "2026-09-28T10:26:42+00:00",
-     "summary": "נבדק חשד שהירי הראשון ליד יוהנסבורג קשור למאבק בין כנופיות שעוסקות בכריית זהב בלתי חוקית ושהשני ליד קייפטאון לסכסוך עסקי. התקריות במקומות בילוי אירעו בעת שדרום אפריקה מתמודדת עם אחד משיעורי הרצח הגבוהים בעולם"
+     "title": "סוף סוף העולם מתחיל לראות את מה שאנחנו, הפלסטינים, מכירים מזמן",
+     "published": "2026-09-29T03:00:00+00:00"
     }
    ]
   },
@@ -172,153 +171,153 @@ Output: write `drafts/israeli_politics.json` matching `schemas/israeli_politics.
    "items": [
     {
      "ref": "kan_news#0",
-     "title": "מרות הודעת נתניהו: ראש שב\"כ והרמטכ\"ל לא שוחחו ולו פעם אחת בלילה שלפני הטבח - כאן 11",
-     "published": "2026-09-28T16:42:48+00:00",
-     "summary": "מרות הודעת נתניהו: ראש שב\"כ והרמטכ\"ל לא שוחחו ולו פעם אחת בלילה שלפני הטבח כאן 11"
+     "title": "שיא של כל הזמנים: מחיר הדלק יזנק ל-8.27 שח לליטר החל מיום חמישי - כאן 11",
+     "published": "2026-09-29T06:42:52+00:00",
+     "summary": "שיא של כל הזמנים: מחיר הדלק יזנק ל-8.27 שח לליטר החל מיום חמישי כאן 11"
     },
     {
      "ref": "kan_news#1",
-     "title": "משרד האוצר: אין לאשר את עסקת מכירת צים במתווה הנוכחי - כאן 11",
-     "published": "2026-09-28T16:25:29+00:00",
-     "summary": "משרד האוצר: אין לאשר את עסקת מכירת צים במתווה הנוכחי כאן 11"
+     "title": "בן גביר: \"לנתניהו יש אחריות על שבעה באוקטובר, אבל הטעו אותו\" - כאן 11",
+     "published": "2026-09-29T05:44:17+00:00",
+     "summary": "בן גביר: \"לנתניהו יש אחריות על שבעה באוקטובר, אבל הטעו אותו\" כאן 11"
     },
     {
      "ref": "kan_news#2",
-     "title": "28.9.2026-השעה הבינלאומית - כאן 11",
-     "published": "2026-09-28T16:13:42+00:00",
-     "summary": "28.9.2026-השעה הבינלאומית כאן 11"
+     "title": "רותי ברודו | איך להישאר בארץ - כאן 11",
+     "published": "2026-09-29T05:31:44+00:00",
+     "summary": "רותי ברודו | איך להישאר בארץ כאן 11"
     },
     {
      "ref": "kan_news#3",
-     "title": "כאן בשש | 28.09.26 - כאן 11",
-     "published": "2026-09-28T16:07:33+00:00",
-     "summary": "כאן בשש | 28.09.26 כאן 11"
+     "title": "בישראל אישרו את חיסול מח\"ט צפון הרצועה: \"נמשיך עד שלא יהיה חמאס בעזה\" - כאן 11",
+     "published": "2026-09-29T05:28:24+00:00",
+     "summary": "בישראל אישרו את חיסול מח\"ט צפון הרצועה: \"נמשיך עד שלא יהיה חמאס בעזה\" כאן 11"
     },
     {
      "ref": "kan_news#4",
-     "title": "שורדת השבי גבריאלה ליימברג: \"המחבלים הזהירו מפני 7 באוקטובר נוסף\" - כאן 11",
-     "published": "2026-09-28T16:02:37+00:00",
-     "summary": "שורדת השבי גבריאלה ליימברג: \"המחבלים הזהירו מפני 7 באוקטובר נוסף\" כאן 11"
+     "title": "דיווחים בעזה: חוסל מח\"ט צפון הרצועה בחמאס - כאן 11",
+     "published": "2026-09-29T05:25:31+00:00",
+     "summary": "דיווחים בעזה: חוסל מח\"ט צפון הרצועה בחמאס כאן 11"
     },
     {
      "ref": "kan_news#5",
-     "title": "העולם היום | 28.09.26 - כאן 11",
-     "published": "2026-09-28T15:07:30+00:00",
-     "summary": "העולם היום | 28.09.26 כאן 11"
+     "title": "צה\"ל אבטח משפחה פלסטינית שניסתה לחזור לביתה, יותר מ-100 פורעים פשטו על הכפר - כאן 11",
+     "published": "2026-09-29T04:32:27+00:00",
+     "summary": "צה\"ל אבטח משפחה פלסטינית שניסתה לחזור לביתה, יותר מ-100 פורעים פשטו על הכפר כאן 11"
     },
     {
      "ref": "kan_news#6",
-     "title": "דובר צה\"ל: רחפן שנשא קלאצ'ניקובים ניסה לחצות לשטח ישראל - כאן 11",
-     "published": "2026-09-28T15:06:24+00:00",
-     "summary": "דובר צה\"ל: רחפן שנשא קלאצ'ניקובים ניסה לחצות לשטח ישראל כאן 11"
+     "title": "דיווחים ברצועה: הרוג ומספר פצועים לאחר תקיפה בשכונת א-נסר, שבמערב העיר עזה - כאן 11",
+     "published": "2026-09-29T04:10:55+00:00",
+     "summary": "דיווחים ברצועה: הרוג ומספר פצועים לאחר תקיפה בשכונת א-נסר, שבמערב העיר עזה כאן 11"
     },
     {
      "ref": "kan_news#7",
-     "title": "כל הפרקים - כאן 11",
-     "published": "2026-09-28T14:44:53+00:00",
-     "summary": "כל הפרקים כאן 11"
+     "title": "תובל חיים (משתתף/ת) - כאן 11",
+     "published": "2026-09-29T03:42:23+00:00",
+     "summary": "תובל חיים (משתתף/ת) כאן 11"
     },
     {
      "ref": "kan_news#8",
-     "title": "גליק ותמר | 28.09.26 - כאן 11",
-     "published": "2026-09-28T14:18:43+00:00",
-     "summary": "גליק ותמר | 28.09.26 כאן 11"
+     "title": "היי צ'אט, אתה הולך לחסל אותי? - כאן 11",
+     "published": "2026-09-29T01:52:04+00:00",
+     "summary": "היי צ'אט, אתה הולך לחסל אותי? כאן 11"
     },
     {
      "ref": "kan_news#9",
-     "title": "סיעור מוחות בבית הנשיא | פרקים מלאים לצפייה ישירה - כאן 11",
-     "published": "2026-09-28T14:15:20+00:00",
-     "summary": "סיעור מוחות בבית הנשיא | פרקים מלאים לצפייה ישירה כאן 11"
+     "title": "28.9.2026-מיה אופל דרוקמן - כאן 11",
+     "published": "2026-09-29T01:19:59+00:00",
+     "summary": "28.9.2026-מיה אופל דרוקמן כאן 11"
     },
     {
      "ref": "kan_news#10",
-     "title": "נתניהו הכחיש כי שוחח עם ראש המודיעין המצרי לפני 7.10 - ותקף את רונן בר: \"מנסים להשליך עליי את מחדליו\" - כאן 11",
-     "published": "2026-09-28T13:38:15+00:00",
-     "summary": "נתניהו הכחיש כי שוחח עם ראש המודיעין המצרי לפני 7.10 - ותקף את רונן בר: \"מנסים להשליך עליי את מחדליו\" כאן 11"
+     "title": "חדשות פוליטיקה: עדכוני היום בתחום פוליטי- מדיני- כאן 11 - Page 579 of 579 - כאן 11",
+     "published": "2026-09-29T00:22:16+00:00",
+     "summary": "חדשות פוליטיקה: עדכוני היום בתחום פוליטי- מדיני- כאן 11 - Page 579 of 579 כאן 11"
     },
     {
      "ref": "kan_news#11",
-     "title": "- כאן 11",
-     "published": "2026-09-28T13:24:54+00:00",
-     "summary": "כאן 11"
+     "title": "Sukkot birdwatching festival is back - כאן 11",
+     "published": "2026-09-29T00:19:14+00:00",
+     "summary": "Sukkot birdwatching festival is back כאן 11"
     },
     {
      "ref": "kan_news#12",
-     "title": "28.9.2026-אור ראשון - כאן 11",
-     "published": "2026-09-28T13:20:01+00:00",
-     "summary": "28.9.2026-אור ראשון כאן 11"
+     "title": "28.9.2026-Ночная смена משמרת לילה - כאן 11",
+     "published": "2026-09-29T00:07:38+00:00",
+     "summary": "28.9.2026-Ночная смена משמרת לילה כאן 11"
     },
     {
      "ref": "kan_news#13",
-     "title": "28.9.2026-ספרדית Kan en Español - כאן 11",
-     "published": "2026-09-28T13:14:43+00:00",
-     "summary": "28.9.2026-ספרדית Kan en Español כאן 11"
+     "title": "28.9.2026-מוזיקה ישראלית עם אסתי סילפן - כאן 11",
+     "published": "2026-09-28T23:46:18+00:00",
+     "summary": "28.9.2026-מוזיקה ישראלית עם אסתי סילפן כאן 11"
     },
     {
      "ref": "kan_news#14",
-     "title": "28.9.2026-רגעי קסם - כאן 11",
-     "published": "2026-09-28T13:14:43+00:00",
-     "summary": "28.9.2026-רגעי קסם כאן 11"
+     "title": "28.9.2026-שורשים - כאן 11",
+     "published": "2026-09-28T23:18:47+00:00",
+     "summary": "28.9.2026-שורשים כאן 11"
     },
     {
      "ref": "kan_news#15",
-     "title": "28.9.2026-צהריים של געגוע - כאן 11",
-     "published": "2026-09-28T13:14:42+00:00",
-     "summary": "28.9.2026-צהריים של געגוע כאן 11"
+     "title": "נעמי שמר - בין דשא לאבן - כאן 11",
+     "published": "2026-09-28T22:04:08+00:00",
+     "summary": "נעמי שמר - בין דשא לאבן כאן 11"
     },
     {
      "ref": "kan_news#16",
-     "title": "28.9.2026-אורות - כאן 11",
-     "published": "2026-09-28T12:44:57+00:00",
-     "summary": "28.9.2026-אורות כאן 11"
+     "title": "28.9.2026-אוסף פרטי - כאן 11",
+     "published": "2026-09-28T21:18:35+00:00",
+     "summary": "28.9.2026-אוסף פרטי כאן 11"
     },
     {
      "ref": "kan_news#17",
-     "title": "מועמד הליכוד והאב השכול לשורדת השבי יוכבד ליפשיץ: \"הלוואי והייתה דרך להחזיר אותך לידי חמאס\" - כאן 11",
-     "published": "2026-09-28T12:29:41+00:00",
-     "summary": "מועמד הליכוד והאב השכול לשורדת השבי יוכבד ליפשיץ: \"הלוואי והייתה דרך להחזיר אותך לידי חמאס\" כאן 11"
+     "title": "28.9.2026-שמחת בית השואבה - עמירם כהן - כאן 11",
+     "published": "2026-09-28T21:16:18+00:00",
+     "summary": "28.9.2026-שמחת בית השואבה - עמירם כהן כאן 11"
     },
     {
      "ref": "kan_news#18",
-     "title": "דיווח בעזה: תקיפה במחנה הפליטים נוסייראת במרכז הרצועה - כאן 11",
-     "published": "2026-09-28T12:25:57+00:00",
-     "summary": "דיווח בעזה: תקיפה במחנה הפליטים נוסייראת במרכז הרצועה כאן 11"
+     "title": "קרן מור (משתתף/ת) - כאן 11",
+     "published": "2026-09-28T21:16:15+00:00",
+     "summary": "קרן מור (משתתף/ת) כאן 11"
     },
     {
      "ref": "kan_news#19",
-     "title": "מועמד הליכוד והאב השכול איציק בונצל לשורדת השבי יוכבד ליפשיץ: \"הלוואי והייתה דרך להשיב את הגלגל לאחור ולהחזיר אותך לידי חמאס\" - כאן 11",
-     "published": "2026-09-28T12:24:58+00:00",
-     "summary": "מועמד הליכוד והאב השכול איציק בונצל לשורדת השבי יוכבד ליפשיץ: \"הלוואי והייתה דרך להשיב את הגלגל לאחור ולהחזיר אותך לידי חמאס\" כאן 11"
+     "title": "28.9.2026-מצב טיסה - כאן 11",
+     "published": "2026-09-28T21:14:14+00:00",
+     "summary": "28.9.2026-מצב טיסה כאן 11"
     },
     {
      "ref": "kan_news#20",
-     "title": "28.9.2026-שעון מוזיקלי - כאן 11",
-     "published": "2026-09-28T12:16:06+00:00",
-     "summary": "28.9.2026-שעון מוזיקלי כאן 11"
+     "title": "28.9.2026-קונצרט ערב - כאן 11",
+     "published": "2026-09-28T20:44:27+00:00",
+     "summary": "28.9.2026-קונצרט ערב כאן 11"
     },
     {
      "ref": "kan_news#21",
-     "title": "כל הכתבות זמן משיח - כאן 11",
-     "published": "2026-09-28T12:16:04+00:00",
-     "summary": "כל הכתבות זמן משיח כאן 11"
+     "title": "28.9.2026-יומן חדשות הערב На пике событий - כאן 11",
+     "published": "2026-09-28T20:16:02+00:00",
+     "summary": "28.9.2026-יומן חדשות הערב На пике событий כאן 11"
     },
     {
      "ref": "kan_news#22",
-     "title": "28.9.2026-אהרון פררה - כאן 11",
-     "published": "2026-09-28T12:14:41+00:00",
-     "summary": "28.9.2026-אהרון פררה כאן 11"
+     "title": "28.9.2026-משדר הערב – יוסי בן עטר - כאן 11",
+     "published": "2026-09-28T20:03:45+00:00",
+     "summary": "28.9.2026-משדר הערב – יוסי בן עטר כאן 11"
     },
     {
      "ref": "kan_news#23",
-     "title": "כל הכתבות זמן משיח - כאן 11",
-     "published": "2026-09-28T12:14:39+00:00",
-     "summary": "כל הכתבות זמן משיח כאן 11"
+     "title": "חדשות הלילה | 28.09.26 - כאן 11",
+     "published": "2026-09-28T20:00:39+00:00",
+     "summary": "חדשות הלילה | 28.09.26 כאן 11"
     },
     {
      "ref": "kan_news#24",
-     "title": "דיווח ברויטרס: ארה\"ב ואיראן יקיימו שיחות עקיפות היום או מחר - כאן 11",
-     "published": "2026-09-28T12:13:50+00:00",
-     "summary": "דיווח ברויטרס: ארה\"ב ואיראן יקיימו שיחות עקיפות היום או מחר כאן 11"
+     "title": "28.9.2026-זרקור - כאן 11",
+     "published": "2026-09-28T19:51:25+00:00",
+     "summary": "28.9.2026-זרקור כאן 11"
     }
    ]
   },
@@ -328,93 +327,93 @@ Output: write `drafts/israeli_politics.json` matching `schemas/israeli_politics.
    "items": [
     {
      "ref": "times_of_israel#0",
-     "title": "Court-jesting comedian convicted for Erdogan ‘insult,’ but freed pending appeal",
-     "published": "2026-09-28T16:15:21+00:00",
-     "summary": "After amusing with quick-witted defense during trial, Deniz Goktas found guilty of insulting president and 'religious values,' could be jailed for 19 months The post Court-jesting comedian convicted for Erdogan ‘insult,’ but freed pending appeal appeared first on The Times of Israel ."
+     "title": "California Gov. Gavin Newsom signs bill to create safe spaces around synagogues",
+     "published": "2026-09-29T06:44:35+00:00",
+     "summary": "After violent anti-Israel protest at LA synagogue, state enacts 100-foot buffer zone around all houses of worship; Muslim, Sikh, Christian, Hindu groups endorse, but Council on American-Islamic Relations objects The post California Gov. Gavin Newsom signs bill to create safe spaces around synagogues appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#1",
-     "title": "5 British suspects in air base attack plot released on bail; Iran denies involvement",
-     "published": "2026-09-28T15:45:17+00:00",
-     "summary": "Police say suspects are all London residents in their 20s; incident sparked by suspicious vans parked near RAF Fairford, a British base used by US bombers during Iran war The post 5 British suspects in air base attack plot released on bail; Iran denies involvement appeared first on The Times of Israel ."
+     "title": "French far-right leader files suit over exposé purportedly revealing old antisemitic remarks",
+     "published": "2026-09-29T03:05:54+00:00",
+     "summary": "Investigative website says it reviewed dozens of private messages from early years of Jordan Bardella's career in National Front that showed pattern of antisemitic, conspiratorial rhetoric The post French far-right leader files suit over exposé purportedly revealing old antisemitic remarks appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#2",
-     "title": "Board of Peace official: Extremist views in Israel impeding effort to deradicalize Gaza",
-     "published": "2026-09-28T15:29:52+00:00",
-     "summary": "Official from US-controlled panel overseeing Gaza rebuild expresses alarm over widespread support in Israel — trickling down from politicians to youth — for ‘encouraging migration’ of Palestinians The post Board of Peace official: Extremist views in Israel impeding effort to deradicalize Gaza appeared first on The Times of Israel ."
+     "title": "Angry with PM, Haredi MKs said planning to allow formation of Eisenkot-led government",
+     "published": "2026-09-29T02:36:24+00:00",
+     "summary": "Pair of UTJ lawmakers reportedly planning to abstain if vote held to swear in minority government led by Yashar head, amid anger at Netanyahu's failure to pass draft-dodging law The post Angry with PM, Haredi MKs said planning to allow formation of Eisenkot-led government appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#3",
-     "title": "UK’s FM Miliband boasts that sanctions on settlers have spurred global action",
-     "published": "2026-09-28T15:07:06+00:00",
-     "summary": "Foreign secretary tells delighted Labour party confab that government approach to Israel has 'mobilized international community,' calls Gaza a 'stain on conscience of the world' The post UK’s FM Miliband boasts that sanctions on settlers have spurred global action appeared first on The Times of Israel ."
+     "title": "Gazans desperate to leave still struggling to do so, even as Israel claims door is open",
+     "published": "2026-09-29T01:17:50+00:00",
+     "summary": "Trouble finding willing hosts, visa restrictions, onerous security checks and other bureaucratic hurdles mean exiting Gaza remains a lengthy, difficult task despite Jerusalem saying it wants the Strip's residents to go The post Gazans desperate to leave still struggling to do so, even as Israel claims door is open appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#4",
-     "title": "Netanyahu flew to UAE to ask MBZ to deny giving him pre-Oct. 7 warning of Hamas attack – sources",
-     "published": "2026-09-28T14:44:36+00:00",
-     "summary": "Secret trip Sunday came amid wave of reports that UAE and Egypt alerted PM to Hamas's plans days before massacre; he again denies Egyptian warning, doesn't comment on UAE visit The post Netanyahu flew to UAE to ask MBZ to deny giving him pre-Oct. 7 warning of Hamas attack – sources appeared first on The Times of Israel ."
+     "title": "Settler mob stages fiery riot in West Bank village, attacking troops to thwart Palestinians’ return",
+     "published": "2026-09-29T00:20:40+00:00",
+     "summary": "Authorities say over 100 extremists involved in Jalud violence, with 3 soldiers lightly injured and 3 people arrested as Palestinians violently evicted in July blocked from going back home * 11 arrested after Jewish youths attack Arab men in Jerusalem The post Settler mob stages fiery riot in West Bank village, attacking troops to thwart Palestinians’ return appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#5",
-     "title": "Homecoming procession held in Bnei Brak for 160 draft dodgers released from prison",
-     "published": "2026-09-28T14:30:50+00:00",
-     "summary": "News crews say they were attacked by participants, forced to leave the area; organizer 'Color Black,' a new political party, has made army exemptions for ultra-Orthodox its central aim The post Homecoming procession held in Bnei Brak for 160 draft dodgers released from prison appeared first on The Times of Israel ."
+     "title": "Trump denies willingness to give Iran sanctions relief in exchange for nuke concessions",
+     "published": "2026-09-28T23:13:53+00:00",
+     "summary": "US and Iranian officials speak separately with Qatari mediators on amended version of Iranian proposal that includes end to hostilities in Israeli-occupied south Lebanon, after Trump nixed earlier version The post Trump denies willingness to give Iran sanctions relief in exchange for nuke concessions appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#6",
-     "title": "By refusing to name a leader, the anti-Netanyahu ‘change bloc’ is making a fatal mistake",
-     "published": "2026-09-28T14:09:23+00:00",
-     "summary": "An intended reconciliation meeting exposed a critical flaw. In declining to rally behind Gadi Eisenkot, the opposition is inviting relentless, deeply damaging internal rivalry The post By refusing to name a leader, the anti-Netanyahu ‘change bloc’ is making a fatal mistake appeared first on The Times of Israel ."
+     "title": "Lebanese PM meets Rubio, stresses need for IDF withdrawal, Hezbollah disarmament",
+     "published": "2026-09-28T22:42:23+00:00",
+     "summary": "Nawaf Salam says they discussed 'path to restoring Lebanon's full sovereignty'; IDF completes large-scale operation to destroy Hezbollah infrastructure in south Lebanon The post Lebanese PM meets Rubio, stresses need for IDF withdrawal, Hezbollah disarmament appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#7",
-     "title": "US, Iran expected to hold separate talks with mediators as pressure ramps on Tehran",
-     "published": "2026-09-28T13:42:49+00:00",
-     "summary": "Washington reportedly seeking to extract nuclear concessions from Islamic Republic after rejecting its bid to reopen Strait of Hormuz The post US, Iran expected to hold separate talks with mediators as pressure ramps on Tehran appeared first on The Times of Israel ."
+     "title": "More heavy hitters in US Jewish establishment joining J Street in sign of changing times",
+     "published": "2026-09-28T22:11:13+00:00",
+     "summary": "Liberal Zionist organization seeks to make case that putting pressure on Israel’s government and criticism of IDF should no longer be dealbreaker for mainstream Jewish groups The post More heavy hitters in US Jewish establishment joining J Street in sign of changing times appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#8",
-     "title": "Less broad than first reported, Dutch luggage checks for settlement goods spark Israeli warning",
-     "published": "2026-09-28T13:24:28+00:00",
-     "summary": "Dutch citizens on El Al flight tell ToI checks were limited but unusual and 'intimidating'; Israel warns travelers of 'invasive' checks from Dutch customs, which says nationality not grounds for selection The post Less broad than first reported, Dutch luggage checks for settlement goods spark Israeli warning appeared first on The Times of Israel ."
+     "title": "Israel said to freeze immigration of 2 Jews involved in defending Palestinian rights",
+     "published": "2026-09-28T20:40:07+00:00",
+     "summary": "Lawrence Shenkin of UK and another unnamed US woman reportedly told by Population and Immigration Authority their cases now on hold, despite initial approval The post Israel said to freeze immigration of 2 Jews involved in defending Palestinian rights appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#9",
-     "title": "Opposition chiefs could not agree at meeting who should be candidate for PM — report",
-     "published": "2026-09-28T12:22:47+00:00",
-     "summary": "Liberman objected to assertion that head of bloc's largest party gets to form government, but avoided an 'argument,' Channel 12 reports; follow-up meeting to be held in coming days The post Opposition chiefs could not agree at meeting who should be candidate for PM — report appeared first on The Times of Israel ."
+     "title": "Ex-Shin Bet chief says he’ll sue Netanyahu for claim he withheld pre-Oct. 7 warnings",
+     "published": "2026-09-28T20:08:01+00:00",
+     "summary": "After PM accused him of not informing him of impending Hamas attack, Ronen Bar says he warned of disaster but PM ignored him, calls for release of documents, demands PM's staffers testify The post Ex-Shin Bet chief says he’ll sue Netanyahu for claim he withheld pre-Oct. 7 warnings appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#10",
-     "title": "Trump brought up possible arms sales to China’s Xi, US ambassador says",
-     "published": "2026-09-28T11:42:36+00:00",
-     "summary": "US paused $14 billion weapons purchase by Taiwan in May, with Trump calling it a 'good negotiating chip'; State Department says US law forbids selling arms to China, no plans to do so The post Trump brought up possible arms sales to China’s Xi, US ambassador says appeared first on The Times of Israel ."
+     "title": "Live in Jerusalem, be surrounded by nature - Sponsored Content",
+     "published": "2026-09-28T20:07:57+00:00",
+     "summary": "Be part of a warm Jerusalem community where tradition, connection, and modern living come together. The post Live in Jerusalem, be surrounded by nature appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#11",
-     "title": "High Court gives government 2 weeks to specify terms for Red Cross visits to detainees",
-     "published": "2026-09-28T11:16:17+00:00",
-     "summary": "Court ruled in June that ban on visits to Palestinian security detainees was unlawful, but visits have yet to resume, while the Prison Service has sought new restrictions The post High Court gives government 2 weeks to specify terms for Red Cross visits to detainees appeared first on The Times of Israel ."
+     "title": "Florida beauty store owner who wanted to behead Jews charged with funding Hamas",
+     "published": "2026-09-28T18:47:01+00:00",
+     "summary": "Raed Yousef charged with 19 felonies for allegedly sending $45,000 to terrorists, in latest in series of cases claiming sham charities sent money to Gaza terrorists The post Florida beauty store owner who wanted to behead Jews charged with funding Hamas appeared first on The Times of Israel ."
     },
     {
      "ref": "times_of_israel#12",
-     "title": "Jewish religious freedom and the Supreme Court - Sponsored Content",
-     "published": "2026-09-28T11:06:47+00:00",
-     "summary": "Are religious liberty and liberal democracy a natural match or are they destined to be in conflict? The post Jewish religious freedom and the Supreme Court appeared first on The Times of Israel ."
-    }
-   ]
-  },
-  {
-   "outlet": "וואלה! — פוליטי מדיני",
-   "lang": "he",
-   "items": [
+     "title": "Attorney general eases stance on E1 settlement plan, allowing submissions for tenders",
+     "published": "2026-09-28T18:46:57+00:00",
+     "summary": "Dropping earlier demand to postpone applications until after national election in October, AG instead delays only decision on awarding projects The post Attorney general eases stance on E1 settlement plan, allowing submissions for tenders appeared first on The Times of Israel ."
+    },
     {
-     "ref": "walla_politics#0",
-     "title": "חידון הבחירות של וואלה: מה אתם באמת יודעים על פוליטיקה?",
-     "published": "2026-09-24T20:55:00+00:00",
-     "summary": "איזה מוצר \"מכרה\" איילת שקד בקמפיין, מה היה הכינוי הערבי של נתניהו, ואיזו סערה הובילה לפרישת עידית סילמן? בחנו את עצמכם"
+     "ref": "times_of_israel#13",
+     "title": "Rome convicts 3 Egyptian security officers for 2016 murder of Italian student",
+     "published": "2026-09-28T17:57:50+00:00",
+     "summary": "Cambridge PhD candidate Giulio Regeni, 28, was killed and mutilated in Cairo during research trip; investigators believe Egyptian authorities thought he was a spy The post Rome convicts 3 Egyptian security officers for 2016 murder of Italian student appeared first on The Times of Israel ."
+    },
+    {
+     "ref": "times_of_israel#14",
+     "title": "Likud candidate says he wishes he could ‘return’ ex-hostage Yocheved Lifshitz to Hamas",
+     "published": "2026-09-28T17:30:49+00:00",
+     "summary": "Octogenarian former captive accuses Netanyahu of sending handpicked candidate to incite against her to distract from reports PM received warnings before October 7 attack The post Likud candidate says he wishes he could ‘return’ ex-hostage Yocheved Lifshitz to Hamas appeared first on The Times of Israel ."
     }
    ]
   },
@@ -424,153 +423,153 @@ Output: write `drafts/israeli_politics.json` matching `schemas/israeli_politics.
    "items": [
     {
      "ref": "ynet_news#0",
-     "title": "הליכוד התלונן - ורביב דרוקר זומן לחקירה בגין שימוש בטלפון בנהיגה",
-     "published": "2026-09-28T16:23:55+00:00",
-     "summary": "העיתונאי נחקר באגף התנועה בעקבות תיעוד שבו הוא נראה אוחז בטלפון הנייד בזמן נהיגה, ששודר בתוכנית התחקירים שלו. דרוקר שוחרר לביתו, ובמשטרה ישקלו את המשך הטיפול באירוע"
+     "title": "\"מטומטם, בלתי נתפס\": טראמפ משדר לעצמו תעמולה במימון ממשלתי - ומסתכן בחקירה",
+     "published": "2026-09-29T06:46:20+00:00",
+     "summary": "רגע לפני בחירות האמצע, ובצל השפל בסקרים, הנשיא משדר בטלוויזיה פרסומות על חשבון משלם המיסים המציגות אותו כלוחם שמכריז: \"זה הקרב האחרון, נסלק את הקומוניסטים\". המומחים מזהירים שזו הפרה בוטה של החוק, הדמוקרטים מבטיחים חקירה נגד \"תעמולה נוסח צפון קוריאה\" - וגם הרפובליקנים המומים: \"כולם יקבלו צווי זימון, זה יהיה רע\". הבית הלבן מגן על הפרסומות שעלו לפחות 1.4 מיליון דולר: \"תשדירים לשירות הציבור, להזכיר לא"
     },
     {
      "ref": "ynet_news#1",
-     "title": "האוסטרי הבין שלקוחותיו ישראלים - וזרק את האוכל: \"זה היה מזעזע\"",
-     "published": "2026-09-28T16:14:50+00:00",
-     "summary": "לידן ה' ומשפחתו סיפרו לעיתון מקומי באוסטריה שבעל דוכן מזון במחוז זלצבורג סירב להגיש להם אוכל מאחר שהם יהודים. \"הוא אמר את זה במפורש\", שיתף האב. אחרי הסערה המוכר דחה את הטענות ואמר שמדובר ב\"שטויות\". במקביל: סער מצנן את הרוחות אחרי המתקפה על נשיא אוסטריה"
+     "title": "איזנקוט עדיין לא מאובטח ע\"י שב\"כ, גולן עתר לבג\"ץ: זיני והממשלה מפקירים את חיי",
+     "published": "2026-09-29T06:18:16+00:00",
+     "summary": "במפלגת הדמוקרטים כתבו לבג\"ץ כי \"כל יום שחולף ללא אבטחה מותיר את העותר כבשר תותחים\". גם יו\"ר מפלגת ישר! עדיין לא מאובטח על ידי היחידה לאבטחת אישים. לוין קבע לפני כמעט שבועיים שעל זיני להכריע בסוגייה"
     },
     {
      "ref": "ynet_news#2",
-     "title": "\"העם איתך\": תשואות ליוכבד ליפשיץ אחרי שמועמד הליכוד איחל שתוחזר לחמאס",
-     "published": "2026-09-28T15:49:10+00:00",
-     "summary": "שורדת השבי בת ה-88 התקבלה בהתלהבות במחאת \"סוכת המחדל\" של משפחות נפגעות הטבח ושוב תקפה את רה\"מ: \"ביבי לא יכול להסתכל לאמת בעיניים\". אביו של החלל גיא אילוז: \"כמה קטנים אתם יכולים להיות כדי לשרת את הקיסר שלכם?\""
+     "title": "חוסל מח\"ט צפון הרצועה בחמאס, ששרד ניסיון חיסול לפני 4 חודשים",
+     "published": "2026-09-29T05:19:51+00:00",
+     "summary": "עז א-דין ביכ הותקף כבר בחודש מאי האחרון לצד סגן מפקד חטיבת העיר עזה בחמאס, אבל מאז לא דווח על מותו. הלילה הותקף שוב בדירה בעיר עזה - וחוסל"
     },
     {
      "ref": "ynet_news#3",
-     "title": "עם יותר מ-100 בוטים: קמפיין ההשפעה של בן גביר נגד מחנה נתניהו וערוץ 14",
-     "published": "2026-09-28T15:35:44+00:00",
-     "summary": "בתחקיר שערך \"פייק ריפורטר\" עולה כי מפלגת עוצמה יהודית מנהלת קמפיין השפעה ברשת בעזרת בוטים ברשתות החברתיות. הבוטים, שמתחזים לישראלים ומהדהדים את מסרי המפלגה, תוקפים דווקא את שותפיו של בן גביר. \"קול שיילך אליך - הולך לפח\", נכתב נגד וינטר. על ערוץ 14 נאמר: \"כמו שכירי חרב של נתניהו\""
+     "title": "100 מתפרעים יהודים פשטו על כפר פלסטיני והציתו בית משפחה שגורשה וניסתה לחזור",
+     "published": "2026-09-29T04:41:15+00:00",
+     "summary": "נערי הגבעות הזעיקו \"תגבורת\" - ו-100 מתפרעים פשטו על הכפר ג'אלוד, בזמן החזרת משפחת טובאסי לביתה אחרי שגורשה בתום חודשים של הטרדות. הם השליכו אבנים והבעירו צמיגים, מבנים ותקפו לוחמים. התוצאה: 3 פצועים לצד 3 עצורים. בת המשפחה קראה ל\"נקמה\""
     },
     {
      "ref": "ynet_news#4",
-     "title": "רונן בר בהודעה רשמית: נתניהו התעלם מהתרעתי על אסון ממשמש ובא, אתבע אותו דיבה",
-     "published": "2026-09-28T15:13:12+00:00",
-     "summary": "ראש השב\"כ לשעבר אמר כי \"ראש הממשלה יצא בקמפיין הסתה חסר רסן וחסר אחיזה במציאות\" נגדו, טען שנתניהו התעלם מאזהרותיו ודרש לחשוף את הפרוטוקולים כדי \"שהציבור ייחשף לאמת ללא מניפולציות\". בר הוסיף כי יתבע דיבה את ראש הממשלה, על אף שהוא נהנה מחסינות: \"אנשיו יזומנו לעדות\""
+     "title": "הפרוטוקולים החלקיים, התצהיר והאזהרות לפני 7/10: נתניהו מול רונן בר - גרסה מול גרסה",
+     "published": "2026-09-29T04:34:10+00:00",
+     "summary": "ראש הממשלה מציג קטעים מדיונים שלפני הטבח וטוען שראש השב\"כ לשעבר דבק ב\"קונספציה\" של שקט והקלות, בר משיב שהציטוטים הוצאו מהקשרם ומפנה לאזהרות שהשמיע. בין התצהיר לבג\"ץ, הפרוטוקולים שלא פורסמו במלואם והכשל המודיעיני: מה ידוע עד כה, מה עדיין שנוי במחלוקת - ואילו שאלות נותרו פתוחות"
     },
     {
      "ref": "ynet_news#5",
-     "title": "הלם בבריטניה: שוחררו החשודים מ\"הפיגוע שסוכל\" בבסיס. דיווח: מטעני הנפץ שאותרו - לא שמישים",
-     "published": "2026-09-28T15:07:59+00:00",
-     "summary": "דרמה בחקירת ניסיון המתקפה שסוכלה בבסיס חיל האוויר פיירפורד באנגליה, ממנו יצאו מטוסים אמריקניים להפציץ באיראן. טהרן הכחישה מעורבות, ומשטרת בריטניה הפתיעה כששחררה את 5 החשודים - אזרחים בריטים מלונדון - שנעצרו עם כובעי גרב מחוץ לגדר: \"יש כיווני חקירה חדשים\". נבדק אם פעלו מטעם מדינה זרה, ב\"דיילי מייל\" דווח: ייתכן שזו \"מתיחה\" בגיבוי איראני או הכנה למתקפה אמיתית. ההלם בממלכה, והתהיות: האם החשודים היו במ"
+     "title": "לתרגם את \"הברית\" לשוויון - וייצוג הולם: הקולות החדשים בעדה הדרוזית",
+     "published": "2026-09-29T03:44:19+00:00",
+     "summary": "אחרי בשתי מערכות הבחירות האחרונות אחוזי ההצבעה של הדרוזים הגיעו לשפל, הפעם יש מועמדים עם תוכניות מקיפות לטיפול בנושאים שמכאיבים לבני העדה - מסוגיית הקרקעות ועד חוק הלאום - בצל הזעם חסר התקדים על היחס המפלה"
     },
     {
      "ref": "ynet_news#6",
-     "title": "מטבע הקריפטו שבעזרתו איראן חומקת מהסנקציות ומחמשת את חיזבאללה | דיווח",
-     "published": "2026-09-28T14:57:33+00:00",
-     "summary": "\"וול סטריט ג'ורנל\": דוח שיוצג בסנאט יחשוף כיצד המשטר בטהרן מסתמך על מטבע הקריפטו היציב של \"טתר\" כדי להתחמק מהחרם הכלכלי של וושינגטון. מלבד עסקאות שונות, נטען כי המטבע הפך לאמצעי תשלום עיקרי של האיראנים למימון שלוחיו"
+     "title": "הרוג בהתנגשות בין רכב לסוס בגליל",
+     "published": "2026-09-29T03:32:51+00:00",
+     "summary": "סאמר רבאח, בן 30 מדיר חנא, התנגש בסוס סמוך לעילבון. הוא הותיר אחריו אישה וילד. \"זה אסון קשה, לא ציפינו לאבד אותו\", אמר דודו ל-ynet"
     },
     {
      "ref": "ynet_news#7",
-     "title": "החשד: אחד מחופרי המנהרה בשרון - קצין במנגנוני הביטחון הפלסטיניים",
-     "published": "2026-09-28T13:32:42+00:00",
-     "summary": "בדיון להארכת מעצרם של שניים מארבעת מהחשודים בחפירת המנהרה שבה אותר אמל\"ח רב בקלקיליה, נטען כי אחד מהם הוא קצין בביטחון המסכל הפלסטיני, שדרגתו מקבילה לרב-פקד במשטרה"
+     "title": "מזג האוויר: טמפרטורות נמוכות מהרגיל, ייתכן גשם קל",
+     "published": "2026-09-29T03:23:15+00:00",
+     "summary": "היום תחול ירידה קלה בטמפרטורות, וייתכן גשם קל בצפון ובמישור החוף. מחר ומחרתיים לא צפוי שינוי ניכר, אך בשישי הטמפרטורות יעלו מעט"
     },
     {
      "ref": "ynet_news#8",
-     "title": "נתניהו מאשים את רונן בר ב\"פשעים\" וטוען: \"ידע על סכנה אמיתית בליל 7/10\"",
-     "published": "2026-09-28T12:55:11+00:00",
-     "summary": "בהשתלחות חריפה עקב הפרסום ב\"וול סטריט ג'ורנל\" על כך שקיבל התרעה מראש המודיעין המצרי לפני 7/10, הסיט רה\"מ את האש לראש השב\"כ לשעבר ול\"מדינות ערב וגורמים עוינים זרים\", וטען כי הפרסומים האחרונים הם \"קמפיין נבזי ושקרי\" שנועד לכסות על \"מחדליו ופשעיו\" של בר \"שהחליט לא להתריע לצה\"ל, ולא לפנות את מסיבת הנובה\". איזנקוט: \"לשכת רה\"מ התעלמה מהתרעות - גם באותו לילה\""
+     "title": "\"כשמורה מרגיש שרואים אותו, הוא פנוי יותר לעשות את מה שהוא יודע הכי טוב\"",
+     "published": "2026-09-29T02:29:05+00:00",
+     "summary": "תפקיד חדש נכנס לבתי הספר: רכזת הון אנושי, שאחראית לעזור למורים ותיקים ולסייע בקליטת חדשים. הפרויקט, שפועל כבר בכ-50 בתי ספר של רשת אורט, צפוי להתרחב לכל הארץ. מורה ותיקה שלוותה על ידי רכזת בשנה האחרונה: \"בעלי מגיע מעולם ההייטק ותמיד ראיתי את זה אצלו, אבל במערכת החינוך זה ממש לא מובן מאליו\""
     },
     {
      "ref": "ynet_news#9",
-     "title": "אזהרת הדיפלומט הבכיר לשעבר: \"ישראל תבודד כמו דרום אפריקה בימי האפרטהייד\"",
-     "published": "2026-09-28T12:40:09+00:00",
-     "summary": "השגריר לשעבר באיטליה ובצרפת אבי פזנר הזהיר בתכתובת פנימית עם ותיקי משרד החוץ, שפרטיה הגיעו לידי ynet, כי מדיניות הממשלה הנוכחית עלולה להביא על ישראל סנקציות חסרות תקדים: \"ניכנס למצב שאף פעם לא היינו בו\""
+     "title": "מטעני חבלה, ירי, רימוני הלם ודריסות מכוונות: גל הפשיעה - ותגובת המשטרה",
+     "published": "2026-09-29T02:21:54+00:00",
+     "summary": "ביממה האחרונה בן 15 נפצע מפיצוץ מטען חבלה בחולון - האירוע הפלילי החמור האחרון מתוך רבים שהתרחשו בפחות משבוע ברחבי המדינה, מזריקת רימונים ועד פגיעה בשוטרים. אלו האירועים המרכזיים. המשטרה: \"הנתונים מצביעים על ירידה בשורה של עבירות, אין מקום להסיק מאירועים של ימים ספורים על מגמה ארצית\""
     },
     {
      "ref": "ynet_news#10",
-     "title": "מועמד הליכוד לשורדת השבי: \"הלוואי שהייתה דרך להחזיר אותך לחמאס\"",
-     "published": "2026-09-28T12:13:36+00:00",
-     "summary": "המשוריין של נתניהו איציק בונצל, ששכל את בנו עמית, תקף את יוכבד ליפשיץ בת ה-88, שטענה כי מי ששחררה אותה מהשבי הייתה \"מרים אדלסון שקנתה אותנו מטראמפ\". לדבריו, \"לא היה מגיע לך שהבנים היקרים והקדושים שלנו יקריבו את חייהם עבורך\". היא ענתה: \"נתניהו שלח את המשוריין שלו להסית נגדי, אין בי פחד\". איזנקוט: \"מנהיגות ראויה הייתה מרכינה ראש\". לאחר הסערה בונצל התנצל"
+     "title": "שליחת \"וולט\" הותקפה מינית ונותרה לבד: \"הם הפנו לי עורף\"",
+     "published": "2026-09-29T02:05:45+00:00",
+     "summary": "משלוח אחד שהתבקשה א' למסור ליניב בן אדיבה שינה את חייה. הוא חיבק אותה בכוח, וביצע בה מעשה מגונה. מאז היא סובלת מהשלכות קשות: פחד מזרים, שיתוק בעבודה, ונתלית במשפחתה. \"זה ריסק לי את תחושת הביטחון, הפסקתי לעבוד וגם הזוגיות שלי נפגעה. במשטרה התפרקתי בבכי\", סיפרה ל-ynet. וולט: \"בטיחות השליחים בראש סדר העדיפויות\""
     },
     {
      "ref": "ynet_news#11",
-     "title": "הונגריה: הוסרה חסינות רה\"מ, שחטף טלפון בקטטה במועדון לילה – והשליך לדנובה",
-     "published": "2026-09-28T12:02:06+00:00",
-     "summary": "ראש הממשלה החדש פטר מדיאר, שעלה לשלטון רק באפריל במהפך היסטורי שבו הפיל את אורבן, טוען שהחקירה נגדו היא \"הצגה\" המוּנעת משיקולים פוליטיים, אך ביקש מהמחוקקים לתמוך בהסרת חסינותו – משום שאין לו מה להסתיר. לדבריו \"פרובוקטור בתשלום\" ממפלגתו של אורבן נשלח למועדון לצלם ולהטריד אותו ואת חבריו כדי להוציא אותם משלוותם. צוללנים חילצו את הטלפון מקרקעית הנהר"
+     "title": "לכודים ברחו מהחלונות: \"כטב\"ם הסילון\" של פוטין התפוצץ על האקדמיה למדעים בקייב | תיעוד",
+     "published": "2026-09-28T21:38:44+00:00",
+     "summary": "עוד 7 הרוגים במתקפה רוסית נרחבת על ערי אוקראינה - נגד תחנות דלק, בנייני משרדים ומרכז רפואי - וגם נגד האקדמיה הלאומית למדעים בלב קייב, שם לכודים תועדו בורחים מהחלונות. הקרמלין נוקם על המתקפות האוקראיניות בעומק רוסיה נגד מתקני נפט ומחסני סחורות, דוברו של פוטין: \"שלום? אוקראינה תצטרך לשלם מחיר, וזה קורה עכשיו\". קייב טוענת במקביל כי שחררה שטחים כבושים בדונבאס, עם נגמ\"שים שהוסבו לרכבים אוטונומיים: \"הם "
     },
     {
      "ref": "ynet_news#12",
-     "title": "פינוי או בינוי: מה התוכנית של כל מפלגה ליהודה ושומרון",
-     "published": "2026-09-28T11:33:59+00:00",
-     "summary": "משאלת הריבונות בשטחי יהודה ושומרון, דרך האפשרות לפינוי יישובים במסגרת הסכם עתידי ועד הטיפול במאחזים הבלתי חוקיים ‑ המפלגות המתמודדות בבחירות מציגות את העמדות שלהן בסוגיות הליבה בסכסוך הישראלי-פלסטיני. מה התוכנית של המפלגות בנושאים הבוערים: כתבה שלישית בסדרה"
+     "title": "מהידידה הקרובה לחוד החנית של הלחץ על ישראל: מה קרה להולנד?",
+     "published": "2026-09-28T21:32:58+00:00",
+     "summary": "במשך עשרות שנים הולנד נחשבה לאחת מבעלות הברית הקרובות ביותר של ישראל באירופה; איך הידרדרו היחסים, מה מחכה לישראלי שנוחת בסכיפהול, מה השתנה בדעת הקהל ובפוליטיקה בהאג - והאם מדינות נוספות בדרך? ynet מסביר"
     },
     {
      "ref": "ynet_news#13",
-     "title": "המחווה של בכיר האו\"ם לעראקצ'י והביקורת: \"משתחווה בפני משטר שטבח ברבבות\"",
-     "published": "2026-09-28T11:29:32+00:00",
-     "summary": "מפגש שנערך בשולי העצרת בניו יורק, בין ראש סוכנות הסיוע של הארגון, טום פלטשר, לשר החוץ האיראני, עורר זעם. שגריר ישראל באו\"ם דני דנון: \"האם בשיחה עלתה ה'עבודה ההומניטרית' של המשטר נגד המפגינים האיראנים?\""
+     "title": "באמירויות אישרו שנתניהו ביקר, בלי תמונה. רה\"מ: לא ביקשתי הכחשה להתרעה לפני 7/10",
+     "published": "2026-09-28T21:21:10+00:00",
+     "summary": "באמירויות פרסמו הודעה רשמית שבה ציינו את המפגש בין נתניהו לבן זאיד - ללא תמונה וללא ההכחשה שלפי הדיווחים ביקש רה\"מ לשיחה שהתקיימה ביניהם לכאורה לפני 7/10. תיקון: למרות הדיווח על מפגש אזורי עם מדינות נוספות - אין לכך אישור"
     },
     {
      "ref": "ynet_news#14",
-     "title": "לה פן דוהרת לנשיאות צרפת, וצפויה לפגוש את המועמד האנטי-ישראלי בסיבוב המכריע",
-     "published": "2026-09-28T10:31:19+00:00",
-     "summary": "חצי שנה לבחירות מנהיגת הימין הקיצוני מובילה בפער גדול על כל המועמדים האחרים, ולפי סקר חדש בסיבוב השני היא תביס את מועמד השמאל הקיצוני ז'אן לוק מלנשון עם 69% מהקולות. רק רה\"מ לשעבר אדואר פיליפ יכול כנראה למנוע ממלנשון, שסירב לגנות את חמאס ומאשים את ישראל ברצח עם, עלייה לקרב המכריע. הנשיא לשעבר הולנד לא פוסל הצטרפות למרוץ, \"אם אזהה סיכוי לנצח\""
+     "title": "חנינה על חשבון הממלכה",
+     "published": "2026-09-28T21:08:00+00:00",
+     "summary": "החנינה שהעניק נשיא המדינה לאלאור אזריה אינה רק החלטה הנוגעת לגורלו של אדם, אלא נושאת משמעות ציבורית, ערכית ומוסדית רחבה הרבה יותר"
     },
     {
      "ref": "ynet_news#15",
-     "title": "ננזפה הנציגה הספרדית אחרי נאום השרה: \"מהנהר עד הים, פלסטין תשוחרר\"",
-     "published": "2026-09-28T10:26:08+00:00",
-     "summary": "ספרד מובילה קו אנטי-ישראלי נוקב זה שנים, אבל האמירה המקוממת של שרת הילדים והנוער ממוצא פלסטיני, שכינתה בעבר את 7/10 \"התנגדות לגיטימית לכיבוש\", הובילה לזימון הממונה על השגרירות בארץ לשיחת נזיפה במשרד החוץ"
+     "title": "החלטה רעה ומצוינת",
+     "published": "2026-09-28T21:06:00+00:00",
+     "summary": "ההחלטה ההולנדית היא שרירותית, רעה ודי פופוליסטית, שאולי תרסן את ממשלת נתניהו, אולי תסייע בהפסד של גוש הימין בבחירות, אבל קודם כל תפגע בפלסטינים"
     },
     {
      "ref": "ynet_news#16",
-     "title": "נתניהו נגד נתניהו: ההנחיות שניתנו לפני 7 באוקטובר - והגרסאות הסותרות",
-     "published": "2026-09-28T10:17:48+00:00",
-     "summary": "ההסדרה עם חמאס שכולם רצו חוץ ממנו, הסיכולים שייחס לעצמו והסיכול שלהם שייחס לראשי מערכת הביטחון - וההוכחות שהולכות ונערמות לכך שלשכתו עושה הכל כדי להסתיר מהציבור את האמת על מחדל 7 באוקטובר. כעת נתניהו ניצב מול האויב המסוכן ביותר: ההנחיות המתועדות שנתן הוא עצמו"
+     "title": "נחצה קו שפל חדש",
+     "published": "2026-09-28T21:04:00+00:00",
+     "summary": "שליחו התורן של נתניהו איחל לשורדת השבי יוכבד ליפשיץ שתחזור לגיהינום. לאחר מכן הוא התנצל ומחק, אבל החרפה והבושה בלתי ניתנות למחיקה"
     },
     {
      "ref": "ynet_news#17",
-     "title": "נתניהו בפגישה עם נשיא האמירויות: תכחיש שהתרעת בפניי לפני 7 באוקטובר",
-     "published": "2026-09-28T09:50:36+00:00",
-     "summary": "ראש הממשלה שהה באבו דאבי 6 שעות, ולפי מידע שהגיע לסוכנות הידיעות AP, הביקור התמקד בדיווח לפיו קיבל התרעה על כוונת חמאס לפני 7 באוקטובר ובבקשה מצד נתניהו שיכחיש"
+     "title": "אידיאולוגיית החורבן",
+     "published": "2026-09-28T21:02:00+00:00",
+     "summary": "פעם אחרי פעם אנחנו נכשלים בהבנת האויב: הרס ומוות לא מרתיעים את איראן, לא את החות’ים, לא את חיזבאללה, ולא את חמאס. מצרים ואיחוד האמירויות הבינו והתריעו – אבל הקונספציה ניצחה"
     },
     {
      "ref": "ynet_news#18",
-     "title": "נער נפצע בינוני מפיצוץ מטען בבניין שבו גרה קרובת משפחה של מוכר למשטרה",
-     "published": "2026-09-28T09:40:18+00:00",
-     "summary": "צוות מד\"א שהוזעק לזירה בשכונת ג'סי כהן פינה את הנער בן ה-15 לבית חולים. כוחות משטרה וחבלנים בודקים את נסיבות האירוע"
+     "title": "גלנט אישר: חיסלנו איש חיזבאללה שחשד בביפרים - והצלחנו להסוות את זה",
+     "published": "2026-09-28T18:48:50+00:00",
+     "summary": "שר הביטחון ב-2024 סיפר בעבר לנדב איל על הפעולות שקדמו למבצע פיצוץ המכשירים. כעת הדברים מתפרסמים במסגרת סרט חדש בארה\"ב, שגלנט כלל לא מופיע בו - נתניהו דווקא כן"
     },
     {
      "ref": "ynet_news#19",
-     "title": "הצתות בכפר פלסטיני: \"אמרו לי במשטרה 'אל תעשה בלגן'. שאקבל מתנחלים בתה וממתקים?\"",
-     "published": "2026-09-28T09:21:45+00:00",
-     "summary": "התקפות הקיצונים ביו\"ש נמשכות. כתובות נאצה רוססו וכלי רכב הוצתו בשני כפרים באזור רמאללה. הפורעים ברחו לפני הגעת כוחות הביטחון לאזור. בצה\"ל גינו, המשטרה פתחה בחקירה, ועד כה לא בוצעו מעצרים. תושבים סיפרו ל-ynet על כעס כלפי כוחות הביטחון: \"מצפים שנקבל את המתנחלים עם ממתקים ותה\""
+     "title": "\"לא ניתן לכם להצליח!\": הנאום הנלהב נגד ישראל בבריטניה - שתיתן עדיפות לפליטים פלסטינים",
+     "published": "2026-09-28T18:23:36+00:00",
+     "summary": "שר החוץ אד מיליבנד, שהוביל את החרם על ההתנחלויות, זכה למחיאות כפיים סוערות בוועידת הלייבור - כשתקף בלהט את ממשלת נתניהו ואת \"הטיהור האתני מצד מתנחלים טרוריסטים\": \"מוקיעים את הכיבוש הבלתי חוקי של פלסטין!\". אמש מפגינים התעמתו עמו בפיצרייה ודרשו שיכריז על \"רצח עם\", בנאומו הודה שיש לחץ פנימי: \"מיליונים הזדעזעו, צדקתם\". במקביל: שרת הפנים שבאנה מחמוד הכריזה על תוכנית לקליטת פליטים - עם עדיפות לפלסטינים "
     },
     {
      "ref": "ynet_news#20",
-     "title": "הרוויחו את הזכות לצקצק – נשים, נהרו להצביע!",
-     "published": "2026-09-28T09:14:16+00:00",
-     "summary": "אף אחד לא ישכנע אותי שאם ייצוגן של הנשים בקבלת ההחלטות יהיה כייצוגן באוכלוסייה, סדרי העדיפויות הנוכחיים לא ישתנו באופן ניכר"
+     "title": "מתקרבים לאסון: פיצוץ המטען בחולון \"כמעט הרג 3 ילדים\", חיפושים אחר מקורב למוסלי",
+     "published": "2026-09-28T18:20:22+00:00",
+     "summary": "רימון רודף רימון, ובפיצוץ שאירע בחולון נפצע נער בן 15 באורח בינוני. עדים סיפרו כי אחרי הפיצוץ, שהתרחש בחצר בית של קרובת משפחתו של היעד - שלא נפגע - אסף רוכב קורקינט מהזירה את החשוד. המשטרה מסרה שהרקע פלילי, אך בודקת אפשרות ל\"תאונת עבודה\""
     },
     {
      "ref": "ynet_news#21",
-     "title": "בן גביר והמפכ\"ל התחבקו אחרי הפיצוץ - והשר הפשיר 50 מיליון למשטרה",
-     "published": "2026-09-28T09:03:36+00:00",
-     "summary": "פרסום ראשון: אחרי ההתנגחויות, החיבוק בכותל - השר לביטחון לאומי והמפכ״ל דני לוי התחבקו הבוקר לאחר נתק בן כמה שבועות. ל-ynet נודע כי בן גביר הפשיר 50 מיליון שקלים מתוך התקציב שהקפיא למשטרה"
+     "title": "המתקפה של הרשות הפלסטינית על סמוטריץ' שקרא \"לצאת למלחמה ביו\"ש\"",
+     "published": "2026-09-28T18:13:56+00:00",
+     "summary": "משרד החוץ הפלסטיני פרסם הודעה חריפה נגד שר האוצר, שאמר בפודקאסט \"120 ואחת\" מבית ynet כי \"צריך לצאת למלחמה ביהודה ושומרון ולחזור על מה שעשינו בעזה\". הרש\"פ: \"קריאה מפורשת לביצוע פשעים\". כך הגיב השר"
     },
     {
      "ref": "ynet_news#22",
-     "title": "אזהרה נוספת ממצרים נחשפת: \"ראש המודיעין התקשר לנתניהו ימים ספורים לפני הטבח\"",
-     "published": "2026-09-28T08:54:53+00:00",
-     "summary": "\"וול סטריט ג'ורנל\": אחרי שישראל התעלמה מ-2 אזהרות מצריות - בנוסף לאזהרה מהאמירויות - ראש המודיעין עבאס כאמל התקשר לנתניהו ימים ספורים לפני 7/10. לשכת רה\"מ: \"שקרים, נתניהו לא דיבר עם כאמל\""
+     "title": "הקצין הבכיר מפרשת מקורבי בן גביר פורש מהמשטרה - זה תפקידו החדש",
+     "published": "2026-09-28T18:12:03+00:00",
+     "summary": "ניצב משנה אביחי מועלם, שפיקד על ימ\"ר ש\"י, ונחשד בין היתר בכך שנמנע ממעצר של פעילי ימין קיצוני לכאורה במטרה לזכות באהדתו של השר לביטחון לאומי - יסיים את שירותו וימונה למנכ\"ל עיריית טבריה, שבה הוא מתגורר"
     },
     {
      "ref": "ynet_news#23",
-     "title": "חיילי קים ג'ונג און, ההסכם הסודי – והעריקה שנחשפה: סיאול רותחת על זלנסקי",
-     "published": "2026-09-28T08:53:06+00:00",
-     "summary": "נשיא אוקראינה חשף באו\"ם כי ארצו העבירה לידי דרום קוריאה שני שבויי מלחמה צפון קוריאנים שנלחמו לצד רוסיה ונתפסו בשדה הקרב, וסיפר שאחד מהם ניסה להתאבד ולא הצליח. בסיאול אומרים שהשניים, אנשי הכוחות המיוחדים שיכולים לחשוף מידע על צבא פיונגיאנג, ביקשו לערוק מהדיקטטורה לדרום, ושזלנסקי הפר סיכום שלפיו העברתם תישמר בסוד כדי למנוע פגיעה במשפחתם בצפון: \"תתנצל\""
+     "title": "בצה\"ל נערכים לאפשרות שחמאס ינסה לחטוף חייל בקו הצהוב בעזה בקרוב",
+     "published": "2026-09-28T17:35:12+00:00",
+     "summary": "בעקבות מידע מודיעיני הועלתה רמת הכוננות של שתי האוגדות הפרוסות ברצועה. גורם צבאי בכיר: \"חמאס מנסה 'לעשות גלעד שליט' עד הבחירות בישראל ובארה״ב\""
     },
     {
      "ref": "ynet_news#24",
-     "title": "נשק מחוץ לגג הנפתח וירי באין מפריע: יותר מ-10 בני אדם נעצרו בנגב | תיעוד",
-     "published": "2026-09-28T08:52:39+00:00",
-     "summary": "המשטרה פשטה על בתים ומתחמים השייכים לשתי משפחות ברהט, שנמצאות בסכסוך הכולל אירועי ירי. לא נמסר אם הנשק שתועד נתפס"
+     "title": "נתניהו טוען ל\"עבירת צנזורה חמורה\" - וחושף: גם שרה נתניהו הייתה באמירויות",
+     "published": "2026-09-28T17:12:38+00:00",
+     "summary": "באופן חריג, משרד רה\"מ ציטט את שב\"כ והמוסד שהאשימו את ערוץ 12 ב\"איום ביטחוני חמור\" לרה\"מ וחברי המשלחת, בטענה שפרסמו על נסיעתו לאמירויות כשעה לפני שנחת בארץ. בין המשתתפים בביקור - גם ראשי המוסד והמל\"ל"
     }
    ]
   }

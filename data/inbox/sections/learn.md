@@ -1,6 +1,6 @@
 Write the Learn Something Small section: exactly 2 short stories.
 
-1. Word or concept of the day (kind "word"). Today's rotation: philosophy term.
+1. Word or concept of the day (kind "word"). Today's rotation: economics concept.
    - Choose something genuinely useful that isn't too basic for this reader. Don't repeat anything in recent_words_and_concepts.
    - headline: the term. For vocabulary, give the English word and its Hebrew equivalent.
    - scroll: a crisp definition.
@@ -22,146 +22,154 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2023,
-   "text": "The Sycamore Gap tree (pictured) in Northumberland, England, was illegally felled.",
+   "year": 2006,
+   "text": "Gol Transportes Aéreos Flight 1907 collided in mid-air with an Embraer Legacy business jet near Peixoto de Azevedo, Brazil, killing 154 people and triggering a national aviation crisis.",
    "context": [
-    "The Sycamore Gap tree, also known as the Robin Hood tree, is a 150-year-old sycamore tree next to Hadrian's Wall near Crag Lough in Northumberland, England. It was illegally felled in 2023 by Daniel Graham and Adam Carruthers, but has since sprouted a thick ring of shoots from the stump. Standing in a dip in the landscape created by glacial meltwater, it was one of the country's most photographed trees and an emblem for the North East of England. Its alternative name is derived from featuring in a scene in the 1991 film Robin Hood: Prince of Thieves. The tree won the Woodland Trust 2016 England Tree of the Year award, receiving a £1,000 care grant funded by the People's Postcode Lottery."
+    "On September 29, 2006, Gol Transportes Aéreos Flight 1907, a Boeing 737-800 on a scheduled domestic passenger flight from Manaus, Amazonas, to Brasília and Rio de Janeiro, collided mid-air with an Embraer Legacy 600 business jet flying on an opposite heading over the Brazilian state of Mato Grosso. The winglet of the Legacy sliced off about half of the 737's left wing, causing the 737 to break up and crash into an area of dense jungle, killing all 154 passengers and crew on board. Despite sustaining serious damage to its left wing and tail, the Legacy landed with its seven occupants uninjured."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2012,
-   "text": "War in Somalia: Somali National Army forces and their AMISOM and Raskamboni allies launched an offensive against Al-Shabaab in the latter's last major stronghold of Kismayo.",
+   "year": 2005,
+   "text": "John Roberts became the 17th Chief Justice of the United States; he would be the first Chief Justice to serve for twenty years since Melville Fuller in 1908.",
    "context": [
-    "The ongoing phase of the Somali Civil War began in 2009 and is concentrated in southern and central Somalia, primarily between the forces of the Federal Government of Somalia (FGS), assisted by African Union peacekeeping forces, and the Islamist militant group al-Shabaab, which pledged allegiance to al-Qaeda in 2012."
+    "John Glover Roberts Jr. is an American jurist who has served since 2005 as the 17th chief justice of the United States. Though primarily an institutionalist, he has been described as having a moderate conservative judicial philosophy. Regarded as a swing vote in some cases, Roberts has presided over an ideological shift toward conservative jurisprudence on the high court, in which he has authored key opinions."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2009,
-   "text": "A protest held by 50,000 people in Conakry, Guinea, was forcefully disrupted by the military junta, resulting in at least 157 deaths and over 1,200 injuries.",
+   "year": 2004,
+   "text": "Archaeologists and volunteers began excavation of the remains of Fort Tanjong Katong in Singapore.",
    "context": [
-    "The 2009 Guinean protests were an opposition rally in Conakry, Guinea on 28 September 2009, with about 50,000 participants demonstrating against the junta government that came to power after the 2008 Guinean coup d'état in December. The protest march was fueled by the indication of junta leader Captain Moussa Dadis Camara that he would break his pledge to not run in the next presidential vote, due in January 2010. The government had already banned any form of protests until 2 October. When the demonstrators gathered in a large stadium, the security forces opened fire on them. At least 157 demonstrators were killed, 1,253 were injured, and 30—including Cellou Dalein Diallo, the leader of the opposition Union of Democratic Forces of Guinea (UDFG)—were arrested and taken away in lorries."
+    "Fort Tanjong Katong was a military fort in Tanjong Katong, Singapore. The fort stood from 1879 to 1901 and was one of the oldest military forts built by the former British colonial government of Singapore. Located on what is now the junction of Fort Road and Meyer Road, it is currently located and displayed at Katong Park. The fort used be garrisoned by the Singapore Volunteer Artillery Corps (SVA)."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2006,
-   "text": "Typhoon Xangsane passed Manila on its way to causing more than 300 deaths, mostly in the Phillippines and Vietnam.",
+   "year": 1991,
+   "text": "The award-winning Disney animated film Beauty and the Beast premiered while unfinished at the New York Film Festival.",
    "context": [
-    "Typhoon Xangsane, known in the Philippines as Typhoon Milenyo, was a strong and deadly typhoon that affected the Philippines, and Indochina during the 2006 Pacific typhoon season."
+    "Walt Disney Animation Studios (WDAS), sometimes shortened to Disney Animation, is an American animation studio which produces animated feature films and short films for the Walt Disney Company. The studio's current production logo features a scene from its first synchronized sound cartoon, Steamboat Willie (1928). Founded on October 16, 1923, by brothers Walt and Roy O. Disney after the closure of Laugh-O-Gram Studio, it is the longest-running animation studio in the world. It is currently organized as a division of Walt Disney Studios and is headquartered at the Roy E. Disney Animation Building at the Walt Disney Studios lot in Burbank, California. Since its foundation, the studio has produced 64 feature films, from Snow White and the Seven Dwarfs (1937)—which is also the first hand-drawn animated feature film—to Zootopia 2 (2025), and hundreds of short films. The studio is one of Disney's three feature animation studios, alongside Pixar Animation Studios and 20th Century Animation."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1978,
-   "text": "Pope John Paul I died only 33 days after his papal election due to an apparent myocardial infarction, resulting in the first year of three popes since 1605.",
+   "year": 1990,
+   "text": "The Lockheed YF-22, the prototype for the F-22 Raptor, made its first flight.",
    "context": [
-    "Pope John Paul I was head of the Catholic Church and sovereign of Vatican City from 26 August 1978 until his death 33 days later. His reign is among the shortest in papal history, giving rise to the first year of three popes since 1605. John Paul I remains the most recent Italian-born pope, the last in a succession of such popes that started with Clement VII in 1523. He was the first pope to have been born in the 20th century, as well as the last pope to die in it."
+    "The Lockheed–Boeing–General Dynamics YF-22 is an American single-seat, twin-engine, stealth fighter prototype technology demonstrator designed for the United States Air Force (USAF). The design team, with Lockheed as the prime contractor, was a finalist in the USAF's Advanced Tactical Fighter (ATF) competition, and two prototypes were built for the demonstration and validation phase. The YF-22 team won the contest against the Northrop-led YF-23 team for full-scale development and the design was developed into the Lockheed Martin F-22. The YF-22 has a similar aerodynamic layout and configuration as the F-22, but with notable differences in the overall shaping such as the position and design of the cockpit, tail fins and wings, and in internal structural layout."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1975,
-   "text": "An attempted robbery of Spaghetti House, a restaurant in Knightsbridge, London, turned into a six-day hostage situation.",
+   "year": 1964,
+   "text": "Mafalda, a popular comic strip by Quino, was first published in newspapers in Argentina.",
    "context": [
-    "Knightsbridge is a residential and retail district in central London, south of Hyde Park. It is identified in the London Plan as one of two international retail centres in London, alongside the West End. Knightsbridge is also the name of the roadway which runs near the south side of Hyde Park from Hyde Park Corner."
+    "Mafalda is an Argentine comic strip written and drawn by cartoonist Quino. The strip features a six-year-old girl named Mafalda, who reflects the Argentine middle class and progressive youth, is concerned about humanity and world peace, and has an innocent but serious attitude toward problems. The comic strip ran from 1964 to 1973 and was very popular in Latin America, Europe, Quebec, and Asia. Its popularity led to books and two animated cartoon series. Mafalda has been praised as masterful satire."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1972,
-   "text": "Against the backdrop of the Cold War, the Canadian ice hockey team defeated the Soviet team in the Summit Series.",
+   "year": 1963,
+   "text": "The University of East Anglia (coat of arms featured) was founded in Norwich, England, after talk of establishing a university in the city began as early as the 19th century.",
    "context": [
-    "The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc. It began in the aftermath of the Second World War and ended with the dissolution of the Soviet Union in 1991. The term cold war is used because there was no direct fighting between the two superpowers, though each supported opposing sides in regional conflicts known as proxy wars. In addition to the struggle for ideological and economic influence and an arms race in both conventional and nuclear weapons, the Cold War was expressed through technological rivalries such as the Space Race, espionage, propaganda campaigns, embargoes, and sports diplomacy."
+    "The University of East Anglia (UEA) is a public research university in Norwich, England. Established in 1963 on a 360-acre (150-hectare) campus west of the city centre, the university has four faculties and twenty-six schools of study. It is one of five BBSRC funded research campuses, with forty businesses, four independent research institutes and a teaching hospital on site."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1963,
-   "text": "Whaam!, now considered one of Roy Lichtenstein's most important works, debuted at an exhibition held at the Leo Castelli Gallery, New York City.",
+   "year": 1957,
+   "text": "An explosion at the Soviet nuclear reprocessing plant Mayak released 74 to 1,850 PBq of radioactive material.",
    "context": [
-    "Whaam! is a 1963 diptych painting by the American artist Roy Lichtenstein. It is one of the best-known works of pop art, and among Lichtenstein's most important paintings. Whaam! was first exhibited at the Leo Castelli Gallery in New York City in 1963, and purchased by the Tate Gallery, London, in 1966. It has been on permanent display at Tate Modern since 2006."
+    "Nuclear reprocessing is the chemical separation of fission products and actinides from spent nuclear fuel. Originally, reprocessing was used to extract plutonium for producing nuclear weapons. With commercialization of nuclear power, reprocessed plutonium was recycled into MOX nuclear fuel for thermal reactors. Reprocessed uranium can in principle be re-used as fuel. Nuclear reprocessing may include the reprocessing of other nuclear reactor material, such as Zircaloy cladding."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1958,
-   "text": "Fernando Rios, a Mexican tour guide in New Orleans, was killed in an instance of gay bashing.",
+   "year": 1955,
+   "text": "The first Indonesian legislative election resulted in an unexpectedly poor result for the Masyumi Party of incumbent prime minister Burhanuddin Harahap (pictured).",
    "context": [
-    "New Orleans is a consolidated city-parish located along the Mississippi River in the U.S. state of Louisiana. With a population of 383,997 at the 2020 census, New Orleans is the most populous city in Louisiana, the second-most populous in the Deep South, and the twelfth-most populous in the Southeastern United States; the New Orleans metropolitan area, with about 1 million residents, is the 59th-most populous metropolitan area in the United States. New Orleans serves as a major port and commercial hub for the broader Gulf Coast region. The city is coextensive with Orleans Parish."
+    "Legislative elections were held in Indonesia on 29 September 1955 to elect all 257 members of the House of Representatives. They were the first national elections to be held in the country following independence and would see over 37 million votes cast in over 93 thousand polling stations. The election results were inconclusive, as no party was given a clear mandate. Following negotiations, Ali Sastroamidjojo was able to form a coalition government consisting of the Indonesian National Party, the Masyumi Party, and Nahdlatul Ulama."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1928,
-   "text": "Scottish biologist and pharmacologist Alexander Fleming (pictured) discovered penicillin when he noticed a bacteria-killing mould growing in his laboratory.",
+   "year": 1954,
+   "text": "Willie Mays (pictured) of the New York Giants made The Catch, one of the most famous defensive plays in the history of Major League Baseball.",
    "context": [
-    "Sir Alexander Fleming was a Scottish physician and microbiologist. He shared the 1945 Nobel Prize in Physiology or Medicine with Howard Florey and Ernst Chain \"for the discovery of penicillin and its curative effect in various infectious diseases\".\nThis was the first antibiotic substance discovered. His discovery in 1928 of what was later named benzylpenicillin from the mould Penicillium rubens has been described as the \"single greatest victory ever achieved over disease\"."
+    "Willie Howard Mays Jr., nicknamed \"the Say Hey Kid\", was an American professional baseball center fielder who played 23 major league seasons. Widely regarded as one of the greatest players of all time, Mays was a five-tool player who began his career in the Negro leagues, playing for the Birmingham Black Barons, and spent the rest of his career in the National League (NL), playing for the New York / San Francisco Giants and New York Mets."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1924,
-   "text": "A team of U.S. Army Air Service aviators landed in Seattle, Washington, to complete the first aerial circumnavigation of the world.",
+   "year": 1941,
+   "text": "The Holocaust: Nazi forces, aided by Ukrainian collaborators, began a massacre of Jews in a ravine in Kyiv, killing more than 30,000 civilians in two days and thousands more in the following months.",
    "context": [
-    "The United States Army Air Service (USAAS) was the aerial warfare service component of the United States Army between 1918 and 1926 and a forerunner of the United States Air Force. It was established as an independent but temporary branch of the U.S. War Department during World War I by two executive orders of President Woodrow Wilson: on May 24, 1918, replacing the Aviation Section, Signal Corps as the nation's air force; and March 19, 1919, establishing a military Director of Air Service to control all aviation activities. Its life was extended for another year in July 1919, during which time Congress passed the legislation necessary to make it a permanent establishment. The National Defense Act of 1920 assigned the Air Service the status of \"combatant arm of the line\" of the United States Army with a major general in command."
+    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1901,
-   "text": "Philippine–American War: Filipino guerrillas killed more than forty American soldiers in a surprise attack on the town of Balangiga on the island of Samar.",
+   "year": 1940,
+   "text": "During a Royal Australian Air Force training exercise over Brocklesby, two planes collided and interlocked in mid-air (pictured); the pilot of the upper plane was able to land safely using the lower plane's engines.",
    "context": [
-    "The Philippine–American War, known alternatively as the Filipino–American War, Philippine Insurrection, or Tagalog Insurgency, emerged in early 1899 following the United States' annexation of the former Spanish colony of the Philippine Islands under the terms of the December 1898 Treaty of Paris following the Spanish–American War. Philippine nationalists had proclaimed independence in June 1898 and constituted the First Philippine Republic in January 1899. The United States did not recognize either event as legitimate, and tensions escalated until fighting commenced on February 4, 1899, in the Battle of Manila."
+    "The Royal Australian Air Force (RAAF) is the principal aerial warfare force of Australia, a part of the Australian Defence Force (ADF) along with the Royal Australian Navy and the Australian Army. Constitutionally, the governor-general of Australia is the de jure commander-in-chief of the Australian Defence Force. The Royal Australian Air Force is commanded by the Chief of Air Force (CAF), who is subordinate to the Chief of the Defence Force (CDF). The CAF is also directly responsible to the Minister for Defence, with the Department of Defence administering the ADF and the Air Force."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1821,
-   "text": "The Declaration of Independence of the Mexican Empire from Spain was drafted in the National Palace in Mexico City.",
+   "year": 1923,
+   "text": "The Mandate for Palestine came into effect, officially creating the protectorates of Mandatory Palestine under British administration and Transjordan as a separate emirate under King Abdullah I.",
    "context": [
-    "The Declaration of Independence of the Mexican Empire is the document by which Mexico declared independence from the Spanish Empire. This founding document of the Mexican nation was drafted in the National Palace in Mexico City on 28 September 1821, by Juan José Espinosa de los Monteros, secretary of the Provisional Governmental Board."
+    "The Mandate for Palestine was a League of Nations mandate for British administration of the territories of Palestine and Transjordan – which had been part of the Ottoman Empire for four centuries – following the defeat of the Ottoman Empire in World War I. Under the mandate, Britain assumed obligations both to the inhabitants of Palestine and to the establishment of a Jewish national home, as set out in the British government's 1917 Balfour Declaration. The mandate was assigned to Britain by the San Remo conference in April 1920, after France's concession in the 1918 Clemenceau–Lloyd George Agreement of the previously agreed \"international administration\" of Palestine under the Sykes–Picot Agreement. Transjordan was added to the mandate after the Arab Kingdom in Damascus was toppled by the French in the Franco-Syrian War. Civil administration began in Palestine and Transjordan in July 1920 and April 1921, respectively, and the mandate was in force from 29 September 1923 to 15 May 1948 and to 25 May 1946 respectively."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1106,
-   "text": "In the Battle of Tinchebray in Normandy, the invading King Henry I of England captured his brother Robert Curthose.",
+   "year": 1918,
+   "text": "World War I: The Battle of St Quentin Canal took place, which led to the British Fourth Army making the first breach of the German defensive Hindenburg Line.",
    "context": [
-    "The Battle of Tinchebray took place on 28 September 1106, in Tinchebray, Normandy, between an invading force led by King Henry I of England, and the Norman army of his elder brother Robert Curthose, the Duke of Normandy. Henry's knights won a decisive victory: they captured Robert, and Henry imprisoned him in England and then in Wales until Robert's death in 1134."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1066,
-   "text": "William the Conqueror and his fleet of around 600 ships landed at Pevensey, Sussex, beginning the Norman conquest of England.",
+   "year": 1833,
+   "text": "The Spanish American wars of independence ended with the death of King Ferdinand VII, with what had once been the Spanish Empire disintegrating into independent Latin American states.",
    "context": [
-    "William the Conqueror, sometimes called William the Bastard, was the first Norman king of England, reigning from 1066 until his death. A descendant of Rollo, he was Duke of Normandy from 1035 onward. By 1060, following a long struggle, his hold on Normandy was secure. In 1066, following the death of Edward the Confessor, William invaded England, leading a Franco-Norman army to victory over the Anglo-Saxon forces of Harold Godwinson at the Battle of Hastings. He suppressed subsequent English revolts in what has become known as the Norman Conquest. The rest of his life was marked by struggles to consolidate his hold over England and his continental lands, and by difficulties with his eldest son, Robert Curthose."
+    "The Spanish American wars of independence were a series of conflicts across the Spanish Empire in the early 19th century. They began shortly after the outbreak of the Peninsular War and formed part of the broader Napoleonic Wars."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 351,
-   "text": "The Eastern Roman armies under Constantius II defeated those of the usurper Magnentius at the Battle of Mursa Major.",
+   "year": 1760,
+   "text": "The Williamsburg Bray School, the oldest-surviving school building in the U.S. dedicated to educating Black children, opened at Benjamin Franklin's suggestion.",
    "context": [
-    "Constantius II was Roman emperor from 337 to 361. His reign saw constant warfare on the borders against the Sasanian Empire and Germanic peoples, while internally the Roman Empire went through repeated civil wars, court intrigues, and usurpations. His religious policies inflamed domestic conflicts that would continue after his death."
+    "The Williamsburg Bray School was a school for free and enslaved Black children founded in 1760 in Williamsburg, Virginia. Opened at Benjamin Franklin's suggestion in 1760, the school educated potentially hundreds of students until its closure in 1774. The house it first occupied is believed to be the \"oldest extant building in the United States dedicated to the education of Black children\"."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 235,
-   "text": "Pope Pontian resigned after being exiled to Sardinia, becoming the first pope to relinquish the position.",
+   "year": 1726,
+   "text": "Johann Sebastian Bach led the first performance of Es erhub sich ein Streit, a cantata for Michaelmas.",
    "context": [
-    "Pope Pontian was the bishop of Rome from 21 July 230 to 28 September 235. In 235, during the persecution of Christians in the reign of the Emperor Maximinus Thrax, Pontian was arrested and sent to the island of Sardinia."
+    "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers in the history of Western music."
    ]
   },
   {
    "ref": "wikipedia#17",
-   "year": -48,
-   "text": "Pompey was killed by Lucius Septimius at Pelusium in Egypt.",
+   "year": 1724,
+   "text": "J. S. Bach led the first performance of Herr Gott, dich loben alle wir, BWV 130, based on Paul Eber's hymn in twelve stanzas, for the feast of archangel Michael.",
    "context": [
-    "Gnaeus Pompeius Magnus, known in English as Pompey or Pompey the Great, was a Roman general and statesman who was prominent in the final decades of the Roman Republic. As a young man, he was a partisan and protégé of the dictator Sulla, after whose death he achieved significant military and political success."
+    "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers in the history of Western music."
+   ]
+  },
+  {
+   "ref": "wikipedia#18",
+   "year": 1011,
+   "text": "An army of Viking pirates that had besieged the English city of Canterbury for weeks took Archbishop Ælfheah prisoner and seized power.",
+   "context": [
+    "The siege of Canterbury was a major Viking raid on the city of Canterbury that occurred between 8 and 29 September 1011, fought between a Viking army led by Thorkell the Tall and the Anglo-Saxon defenders. The details of the siege are largely unknown, and most of the known events were recorded in the Anglo-Saxon Chronicle."
    ]
   }
  ],

@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is philosophy. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -143,84 +143,89 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Accounting for Cross-Country Income Differences Revisited",
+     "published": "2026-09-29T06:53:35+00:00",
+     "summary": "Also known as Why I Do Not Believe in the Housing Theory of Everything: Development accounting is the search for proximate sources of cross-country income differences. This article describes how knowledge in this field has evolved over the two decades since the influential work of Caselli (2005). There have been large advances in the measurement […] The post Accounting for Cross-Country Income Dif"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "The Macroeconomic Effect of AI through software engineering",
+     "published": "2026-09-29T04:50:01+00:00",
+     "summary": "We measure how artificial intelligence (AI) affects the economy through its impact on software engineering productivity. We use information from financial markets to develop a forward-looking measure that is available in real time. We estimate the sensitivity of each firm’s stock return to an AI stock market index, and how this sensitivity depends on the […] The post The Macroeconomic Effect of AI"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Man’s best friend?",
+     "published": "2026-09-28T17:53:27+00:00",
+     "summary": "When it comes to bear encounters in or near the wild, dogs are the aggressors in 54 percent of incidents, according to a recent study conducted by bear experts at Brigham Young University and other institutions, and published in the Journal of Wildlife Management. In approximately 36 percent of the encounters, dogs did not come to […] The post Man’s best friend? appeared first on Marginal REVOLUTI"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "Monday assorted links",
      "published": "2026-09-28T16:36:21+00:00",
      "summary": "1. Should more men move to Alaska? 2. The world’s oldest known peace treaty found. 3. In praise of Joyce, Whitman, and Crane. 4. Background explainer on the Chinese AI ecosystem. 5. YIMBY working in Portland (WSJ). 6. Profile of Helen DeWitt. 7. Human frailty. The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "Mighty Sparrow, RIP",
      "published": "2026-09-28T13:56:32+00:00",
      "summary": "Here is the NYT obituary. The post Mighty Sparrow, RIP appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Defining the Unemployment Rate",
      "published": "2026-09-28T11:18:03+00:00",
      "summary": "An updated version of our Marginal Revolution University (MRU) video on defining the unemployment rate. Free to use for anyone but goes best, of course, with Modern Principles of Economics, the best principles of economics textbook. The post Defining the Unemployment Rate appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "Bundesrepublik Deutschland",
      "published": "2026-09-28T04:34:12+00:00",
      "summary": "At times we forget what an amazing wonder the Bundesrepublik Deutschland was. At the end of the World War II, Germany was one of the sickest and cruelest human societies in history, ever. Not too many years later, it was one of the best and most successful societies ever. By the 1980s, living standards had […] The post Bundesrepublik Deutschland appeared first on Marginal REVOLUTION .",
-     "full_text_file": "essays/marginal_revolution_3.txt"
+     "full_text_file": "essays/marginal_revolution_6.txt"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "AI in science",
      "published": "2026-09-27T19:03:12+00:00",
      "summary": "Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science, but so far little data. We provide early insights on this from three data sources: a sample of 15 million Gemini interactions, an inventory of over 2,600 specialized AI models […] The post AI in science appeared first on Marginal REVOLUTION .",
-     "full_text_file": "essays/marginal_revolution_4.txt"
+     "full_text_file": "essays/marginal_revolution_7.txt"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "Sunday assorted links",
      "published": "2026-09-27T15:52:50+00:00",
      "summary": "1. AI-related efforts in higher education in Morocco (ChatGPT). 2. Intelligence explosions are social. 3. The speech-processing skills of dogs. 4. Kalshi market in economics Nobel. 5. Why are Indian weddings with dancing gorillas going viral? Pakistan too. 6. Eminem, and some German guy. 7. On the UAP council. 8. On higher interest rates. The post Sunday assorted links appeared first on Marginal R"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "Earth fact of the day, #2",
      "published": "2026-09-27T06:56:56+00:00",
      "summary": "The shortages have gone on for so long that they are aggressively driving down how much carbon is being released into the atmosphere, a Washington Post analysis of data from the International Energy Agency shows. People worldwide are using significantly less oil and gas, which means less climate pollution… Such an annual decline has not happened since […] The post Earth fact of the day, #2 appeare"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "The Federal Lands: An Economic Property Rights Perspective",
      "published": "2026-09-27T04:27:05+00:00",
-     "summary": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the country’s largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use principle and generally, the biological aim of maximum sustained-yield. […] The post The Federal Lands: An",
-     "full_text_file": "essays/marginal_revolution_7.txt"
+     "summary": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the country’s largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use principle and generally, the biological aim of maximum sustained-yield. […] The post The Federal Lands: An"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "What should I ask Terence Tao?",
      "published": "2026-09-26T17:38:34+00:00",
      "summary": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him? The post What should I ask Terence Tao? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "Saturday assorted links",
      "published": "2026-09-26T16:11:35+00:00",
      "summary": "1. One way to use screens less, will it catch on? 2. Roon as cultural critic. 3. The Greenland deal sounds pretty good for America? 4. The cultures that are New England? 5. Yet newer results on AI-driven labor demand. 6. Ayn Rand as movie extra. The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#13",
      "title": "Should you text more?",
      "published": "2026-09-26T07:28:35+00:00",
      "summary": "Here, in five waves of panel data (N = 1,966 US adults), we examined associations between life satisfaction and self-reported use of ten common social technologies measured every 3 months on a six-point frequency scale from ‘I did not use’ to ‘multiple times daily’. At this measurement level and timescale, Bayesian and frequentist random-intercept cross-lagged panel models showed […] The post Shou"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "A doomsday scenario for American AI",
-     "published": "2026-09-26T04:10:05+00:00",
-     "summary": "That is the title of my latest Free Press column, here is the closing bit: Sick and elderly Americans will go to Chinese companies for their AI-invented and AI-tested medical devices and drugs. America still will be a wealthy country, so China will charge the highest prices possible, yet prioritize Chinese citizens for treatment. Large […] The post A doomsday scenario for American AI appeared firs"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Good points from James Gilliland",
-     "published": "2026-09-25T18:13:07+00:00",
-     "summary": "It pains me to say this, but if we actually “get AGI,” the resulting boom in industrial capacity from robotics and massive society-wide wealth creation will look like a total vindication of neoliberalism. The discourse about financialization and offshoring being a generational mistake may be replaced by a very different historical interpretation: that the late […] The post Good points from James G"
     }
    ]
   },
