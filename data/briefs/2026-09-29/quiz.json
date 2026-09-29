@@ -2,81 +2,81 @@
   "date": "2026-09-29",
   "questions": [
     {
-      "id": "q-business-anthropic-spend",
-      "section": "business",
-      "story_id": "anthropic-ipo-economics",
-      "answer_index": 2,
-      "en": {
-        "question": "Anthropic's IPO filing revealed a huge gap between its revenue and its spending plans. What was that gap?",
-        "options": [
-          "Revenue of $42 billion against planned infrastructure spending of $4.6 billion",
-          "Revenue of $8 billion against planned infrastructure spending of $100 billion",
-          "Revenue of about $4.6 billion against planned cloud/infrastructure spending of $518 billion",
-          "Revenue of $518 billion against planned infrastructure spending of $42 billion"
-        ],
-        "explanation": "Anthropic's S-1 showed 2025 revenue of roughly $4.6 billion against plans to spend $518 billion on cloud computing and infrastructure in the coming years — over 100 times current revenue."
-      },
-      "he": {
-        "question": "תשקיף ההנפקה של אנתרופיק (Anthropic) חשף פער עצום בין ההכנסות שלה לתוכניות ההוצאה שלה. מה היה הפער?",
-        "options": [
-          "הכנסות של 42 מיליארד דולר מול תוכנית הוצאה של 4.6 מיליארד דולר על תשתיות",
-          "הכנסות של 8 מיליארד דולר מול תוכנית הוצאה של 100 מיליארד דולר על תשתיות",
-          "הכנסות של כ-4.6 מיליארד דולר מול תוכנית הוצאה של 518 מיליארד דולר על ענן ותשתיות",
-          "הכנסות של 518 מיליארד דולר מול תוכנית הוצאה של 42 מיליארד דולר על תשתיות"
-        ],
-        "explanation": "תשקיף ה-S-1 של אנתרופיק הראה הכנסות של כ-4.6 מיליארד דולר ב-2025, מול תוכנית להוציא 518 מיליארד דולר על מחשוב ענן ותשתיות בשנים הקרובות - פי 100 מההכנסות הנוכחיות."
-      }
-    },
-    {
-      "id": "q-sports-barcelona-start",
-      "section": "sports",
-      "story_id": "barcelona-historic-scoring-start",
-      "answer_index": 1,
-      "en": {
-        "question": "What made Barcelona's start to the La Liga season historically notable, according to ESPN's analysis?",
-        "options": [
-          "They became the first club to win their first seven league games in over a century",
-          "Their 36 goals in the season's opening matches were the best scoring start by any club in Europe's top five leagues in almost 100 years",
-          "They set a new record for goal difference in a single Champions League match",
-          "They became the first Spanish club to score in every minute of a match"
-        ],
-        "explanation": "ESPN's analysis found Barcelona's 36 goals so far this season to be the best start to a campaign by any club in Europe's top five leagues in almost 100 years."
-      },
-      "he": {
-        "question": "מה הפך את פתיחת העונה של ברצלונה בליגה הספרדית לבולטת מבחינה היסטורית, לפי ניתוח של ESPN?",
-        "options": [
-          "היא הפכה לקבוצה הראשונה שמנצחת בשבעת משחקיה הראשונים בליגה במאה השנים האחרונות",
-          "ה-36 השערים שכבשה בפתיחת העונה היו הפתיחה הכי טובה מבחינת כיבוש שערים של כל קבוצה בחמש הליגות המובילות באירופה כמעט ב-100 השנים האחרונות",
-          "היא קבעה שיא חדש בהפרש שערים במשחק בודד בליגת האלופות",
-          "היא הפכה לקבוצה הספרדית הראשונה שכובשת בכל דקה במשחק"
-        ],
-        "explanation": "לפי ניתוח של ESPN, 36 השערים שכבשה ברצלונה עד כה השנה הם הפתיחה הכי טובה מבחינת כיבוש שערים של כל קבוצה בחמש הליגות המובילות באירופה כמעט ב-100 השנים האחרונות."
-      }
-    },
-    {
-      "id": "q-geopolitics-iraq-withdrawal",
+      "id": "q-north-korea-troops",
       "section": "geopolitics",
-      "story_id": "us-iran-iraq-withdrawal",
+      "story_id": "north-korea-russia-troops",
       "answer_index": 0,
       "en": {
-        "question": "What happened with US forces in Iraq, and why does Reuters see it as significant timing?",
+        "question": "According to Zelenskiy, what is North Korea doing that deepens its alliance with Russia in the Ukraine war?",
         "options": [
-          "American troops completed a full withdrawal after two decades, just as mediators report 'major hurdles' remain in US-Iran talks — opening space some see for greater Iranian influence",
-          "The US doubled its troop presence in Iraq in response to stalled Iran talks",
-          "US forces withdrew from Iraq after signing a final peace deal with Iran",
-          "Iraq expelled US forces after accusing them of aiding Iran"
+          "Sending another 10,000 troops to fight alongside Russian forces",
+          "Sending fighter jets to bomb Ukrainian cities",
+          "Giving Russia nuclear weapons technology",
+          "Opening a naval base in Russia for its warships"
         ],
-        "explanation": "US troops left Iraq entirely after a two-decade presence just as US-Iran mediation hit 'major hurdles,' with Reuters framing the withdrawal as an opening for Iranian influence in a country Iran has spent two decades cultivating."
+        "explanation": "Zelenskiy said North Korea is preparing to deploy another 10,000 troops to fight alongside Russia, on top of those already sent."
       },
       "he": {
-        "question": "מה קרה עם הכוחות האמריקאים בעיראק, ומדוע רויטרס רואה בתזמון משמעות מיוחדת?",
+        "question": "לפי זלנסקי, מה עושה צפון קוריאה שמעמיק את הברית שלה עם רוסיה במלחמת אוקראינה?",
         "options": [
-          "החיילים האמריקאים סיימו נסיגה מלאה אחרי שני עשורים, בדיוק כשמתווכים מדווחים ש'מכשולים משמעותיים' עדיין עומדים בפני עסקה עם איראן - מה שיש הרואים בו פתח להשפעה איראנית גדולה יותר",
-          "ארה\"ב הכפילה את נוכחות חייליה בעיראק בתגובה לקיפאון בשיחות עם איראן",
-          "הכוחות האמריקאים נסוגו מעיראק לאחר חתימה על הסכם שלום סופי עם איראן",
-          "עיראק גירשה את הכוחות האמריקאים לאחר שהאשימה אותם בסיוע לאיראן"
+          "שולחת עוד 10,000 חיילים שילחמו לצד הכוחות הרוסים",
+          "שולחת מטוסי קרב להפציץ ערים אוקראיניות",
+          "מעבירה לרוסיה טכנולוגיית נשק גרעיני",
+          "פותחת בסיס ימי ברוסיה עבור כלי השיט שלה"
         ],
-        "explanation": "החיילים האמריקאים עזבו את עיראק לחלוטין אחרי נוכחות של שני עשורים, בדיוק כשהתיווך בין ארה\"ב לאיראן נתקל ב'מכשולים משמעותיים', ורויטרס מציגה את הנסיגה כפתח להשפעה איראנית במדינה שאיראן טיפחה בה בעלות ברית במשך שני עשורים."
+        "explanation": "זלנסקי אמר שצפון קוריאה מתכוננת לשלוח עוד 10,000 חיילים שילחמו לצד רוסיה, בנוסף לאלה שכבר נשלחו."
+      }
+    },
+    {
+      "id": "q-netanyahu-bar-dispute",
+      "section": "israeli_politics",
+      "story_id": "netanyahu-bar-oct7-warnings-dispute",
+      "answer_index": 0,
+      "en": {
+        "question": "What is at the center of the escalating public dispute between PM Netanyahu and former Shin Bet chief Ronen Bar?",
+        "options": [
+          "Who bears responsibility for missing warnings before the October 7 attack",
+          "A disagreement over next year's defense budget",
+          "Bar's decision to retire early from the Shin Bet",
+          "A leaked recording about hostage-release negotiations"
+        ],
+        "explanation": "Netanyahu accuses Bar of failing to warn him before October 7, while Bar says he did warn of disaster but was ignored, and each side is releasing selective documents to back its version."
+      },
+      "he": {
+        "question": "מה עומד במרכז העימות הפומבי המחריף בין ראש הממשלה נתניהו לרונן בר, ראש השב\"כ לשעבר?",
+        "options": [
+          "מי אחראי להתרעות שלא הגיעו לפני מתקפת 7 באוקטובר",
+          "מחלוקת על תקציב הביטחון לשנה הבאה",
+          "החלטתו של בר לפרוש מוקדם מהשב\"כ",
+          "הקלטה שדלפה על משא ומתן לשחרור חטופים"
+        ],
+        "explanation": "נתניהו מאשים את בר שלא התריע בפניו לפני 7 באוקטובר, בעוד בר טוען שהוא כן התריע מפני אסון אך נתניהו התעלם ממנו, וכל צד מפרסם מסמכים סלקטיביים לתמיכה בגרסתו."
+      }
+    },
+    {
+      "id": "q-anthropic-ipo",
+      "section": "business",
+      "story_id": "anthropic-ipo-prospectus",
+      "answer_index": 0,
+      "en": {
+        "question": "What did Anthropic's IPO prospectus reveal about its 2025 financial results?",
+        "options": [
+          "Revenue grew twelvefold to nearly $4.6 billion, while the company posted a $42 billion net loss",
+          "The company turned its first-ever profit, earning $4.6 billion in net income",
+          "Revenue stayed flat while operating costs were cut in half",
+          "Anthropic reported a modest $500 million loss on $50 billion in revenue"
+        ],
+        "explanation": "Anthropic's S-1 filing showed revenue jumping twelvefold to about $4.6 billion in 2025, alongside a much larger $42 billion net loss driven by its massive infrastructure spending."
+      },
+      "he": {
+        "question": "מה חשף תשקיף ההנפקה של אנתרופיק על התוצאות הכספיות שלה ב-2025?",
+        "options": [
+          "ההכנסות קפצו פי 12 לכמעט 4.6 מיליארד דולר, בעוד החברה רשמה הפסד נקי של 42 מיליארד דולר",
+          "החברה עברה לראשונה לרווחיות, עם רווח נקי של 4.6 מיליארד דולר",
+          "ההכנסות נשארו יציבות בעוד ההוצאות התפעוליות נחתכו בחצי",
+          "אנתרופיק דיווחה על הפסד צנוע של 500 מיליון דולר על הכנסות של 50 מיליארד דולר"
+        ],
+        "explanation": "תשקיף ה-S-1 של אנתרופיק הראה שההכנסות קפצו פי 12 לכ-4.6 מיליארד דולר ב-2025, לצד הפסד נקי גדול בהרבה של 42 מיליארד דולר, שנובע בעיקר מההוצאה העצומה על תשתיות."
       }
     }
   ]
