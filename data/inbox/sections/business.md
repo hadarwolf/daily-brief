@@ -18,110 +18,111 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "BlueBay RBC: Global Bond Market Selloff is 'Overdone'",
+     "published": "2026-09-29T08:07:10+00:00",
+     "summary": "The global selloff in government bonds is \"overdone\" and a turn in the market is due, according to Mark Dowding, fixed income CIO at RBC BlueBay. Speaking on Bloomberg Television, he says the selloff was \"not really justified\" judging from data including inflation. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Demand Boost for US Crops Still Unclear After China Tariff Cuts",
+     "published": "2026-09-29T07:53:24+00:00",
+     "summary": "A day after China announced tariff cuts across a slew of US agricultural products, crop traders are trying to parse whether — and how quickly — that will translate into a demand pickup for major grains."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Lux Capital in Talks to Join Onodrim Round at Unicorn Valuation",
+     "published": "2026-09-29T07:37:47+00:00",
+     "summary": "Lux Capital, a backer of Anduril Industries Inc. and Hadrian Automation Inc., is in talks to become one of the lead investors in a roughly €200 million ($227 million) funding round for Dutch defense startup Onodrim, people familiar with the matter said."
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "Ace Designers Said to Weigh Up to $400 Million India IPO",
+     "published": "2026-09-29T07:33:50+00:00",
+     "summary": "Ace Designers Ltd., a manufacturer of industrial machinery, has begun discussions with investment banks about a potential initial public offering in Mumbai that could raise as much as $400 million, according to people familiar with the matter."
+    },
+    {
+     "ref": "bloomberg_markets#4",
+     "title": "European Stocks Rise as Julius Baer Gains on End to Swiss Probe",
+     "published": "2026-09-29T07:18:16+00:00",
+     "summary": "European stocks rose as investors pared bets on rate hikes from the European Central Bank, while Julius Baer Group Ltd. rallied after Swiss regulatory action against the bank ended."
+    },
+    {
+     "ref": "bloomberg_markets#5",
+     "title": "Saudi Arabia Restores Key Oil Pipeline as Hormuz Talks Stall",
+     "published": "2026-09-29T07:07:50+00:00",
+     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#6",
+     "title": "China Says Japan Ties Need ‘Normalization’ Again Over Taiwan Row",
+     "published": "2026-09-29T07:00:50+00:00",
+     "summary": "China’s top diplomat suggested relations with Japan had deteriorated to a low point unseen in decades, adding pressure on Japanese Prime Minister Sanae Takaichi to amend her Taiwan remarks."
+    },
+    {
+     "ref": "bloomberg_markets#7",
      "title": "Ellawn: Brookfield Sees Many Mideast Opportunities",
      "published": "2026-09-29T06:44:12+00:00",
      "summary": "Brookfield closed its $2 billion Mideast fund in August and Jad Ellawn, their Managing Partner and Regional Head of Middle East says they're seeing multiple opportunities in the Middle East. He spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa and explained why they think there is a growth in the regional population based on the data received from their investments in the likes "
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#8",
      "title": "SGX's Kan: Investors Are Abandoning Siloed Trading",
      "published": "2026-09-29T06:40:30+00:00",
      "summary": "SGX Group Head of Derivatives Janice Kan believes investors are abandoning siloed trading, and are now demanding a single venue where they can trade global equities, sectors and currencies together. She speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#9",
      "title": "SpaceX’s Starship Reaches Orbit Despite Engine Issue",
      "published": "2026-09-29T06:32:35+00:00",
      "summary": "SpaceX’s massive Starship rocket reached orbit for the first time on Monday morning, achieving a milestone for the program even though the company cut the mission short after an earlier engine failure. Bloomberg's Danny Lee explains. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#10",
      "title": "Dangote Targets 10 Million Investors With IPO Marketing Blitz",
      "published": "2026-09-29T06:30:00+00:00",
      "summary": "Aliko Dangote, Africa’s richest man, is racing to attract 10 million investors to his refinery’s initial public offering, with a marketing blitz that has swept across Nigeria’s commercial hub."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#11",
      "title": "Chinese Stimulus Boost, Higher Bond Supply Threaten Debt Rally",
      "published": "2026-09-29T06:25:48+00:00",
      "summary": "China’s government bond supply is poised to pick up next quarter as the authorities look to speed up debt issuance to fund stimulus, potentially challenging the market’s rally."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#12",
      "title": "What to Expect From Burnham's Speech to Labour Party",
      "published": "2026-09-29T06:18:40+00:00",
      "summary": "British Prime Minister Andy Burnham will set out his pitch for honest political debate as the antidote to populism in his first speech as premier at the Labour Party's annual conference in Liverpool. Bloomberg's Caroline Hepker reports. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#13",
      "title": "Spain, Portugal, Luxembourg Urge EU to Set 2040 Renewables Goal",
      "published": "2026-09-29T06:16:45+00:00",
      "summary": "Spain, Portugal and Luxembourg are calling on the European Union to set a 2040 renewable-energy target, as the bloc seeks to reduce its dependence on imported fuel."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#14",
      "title": "Indian Stocks Are Breaking Long-Held Supports as Selloff Deepens",
      "published": "2026-09-29T06:10:42+00:00",
      "summary": "Indian equities are breaking through a series of long-held technical support levels as a selloff gathers pace in a market once considered an emerging-market darling."
     },
     {
-     "ref": "bloomberg_markets#8",
-     "title": "South Africa Retailers Turn to New Leaders in Fight for Shoppers",
-     "published": "2026-09-29T06:00:00+00:00",
-     "summary": "Three of South Africa’s biggest retailers are turning to new leadership to revive growth or accelerate turnaround plans as competition intensifies in one of the continent’s most developed consumer markets."
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "Treasuries Selloff Stabilizes As Oil Surges",
-     "published": "2026-09-29T05:54:08+00:00",
-     "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "FTSE 100 Live: Pound Sinks as Dollar Rises With Oil",
-     "published": "2026-09-29T05:52:18+00:00"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "Philippines Retail Bond Auction Draws Billions as Rates Rise",
-     "published": "2026-09-29T05:35:27+00:00",
-     "summary": "The Philippines raised 84.9 billion pesos ($1.36 billion) in a retail Treasury bond auction, securing fresh funds for government spending while opting for a shorter tenor as interest rates remain high."
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Traditionally Terrible October Looms for Beleaguered Treasuries",
-     "published": "2026-09-29T05:32:52+00:00",
-     "summary": "September is living up to its reputation for typically being the worst month for Treasuries, and history suggests October will offer little relief."
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Dongshan Precision Is Said to Target Up to $3 Billion HK Listing",
-     "published": "2026-09-29T05:25:36+00:00",
-     "summary": "Printed circuit board maker Suzhou Dongshan Precision Manufacturing Co. aims to raise $2 billion to $3 billion in its planned Hong Kong listing, according to people familiar with the matter."
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Threat of Berlin Property Grab Is Spooking Real Estate Stocks",
-     "published": "2026-09-29T05:15:00+00:00",
-     "summary": "A radical proposal to seize large housing portfolios is back on the agenda in Berlin, threatening deeper losses in real estate stocks."
-    },
-    {
      "ref": "bloomberg_markets#15",
-     "title": "Japan 40-Year Bond Sale Sees Strongest Demand Since 2020",
-     "published": "2026-09-29T03:43:37+00:00",
-     "summary": "Japan’s 40-year government bond auction drew its strongest demand in six years as elevated yields lured investors back to the nation’s longest-dated debt, offering a potential reprieve to fragile global markets."
+     "title": "Philippines Starts Sale of Retail Bonds Amid Elevated Rates",
+     "published": "2026-09-29T05:35:27+00:00",
+     "summary": "The Philippines raised 84.9 billion pesos ($1.36 billion) in a retail Treasury bond auction, securing fresh funds for government spending while opting for a shorter tenor amid elevated interest rates."
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "Global Stocks Drop to One-Week Low, Oil Rallies: Markets Wrap",
-     "published": "2026-09-28T22:11:04+00:00",
-     "summary": "Global equities slid to a one-week low as surging oil prices and mounting bets on further Federal Reserve interest-rate hikes drove Treasury yields to multi-year highs."
+     "title": "Shein Sinks 14% After Operating Profit Plunge in Debut Earnings",
+     "published": "2026-09-29T02:21:53+00:00",
+     "summary": "Shares of Shein Global Holdings Ltd. fell as much as 14% after the online fashion retailer reported a 53% plunge in first-half operating income in its inaugural earnings as a public company."
     },
     {
      "ref": "bloomberg_markets#17",
-     "title": "Latest Oil Market News and Analysis for Sept. 29",
-     "published": "2026-09-28T22:02:33+00:00",
-     "summary": "Oil rose for a second day as a lack of progress in US-Iran talks and signs of strong demand outweighed a resumption of flows through a key pipeline from top exporter Saudi Arabia."
+     "title": "Stocks Drift With AI Risks and Mideast in Focus: Markets Wrap",
+     "published": "2026-09-28T22:11:04+00:00",
+     "summary": "US stocks, Treasuries and the dollar struggled for direction as traders held fire ahead of a string of artificial-intelligence events, the week’s first labor data and lingering uncertainty in the Middle East."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -209,153 +210,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "3,000 מסרונים עם קוד אימות חד פעמי: מיטב טרייד דיווחה על אירוע סייבר; המניה נופלת",
+     "published": "2026-09-29T07:38:14+00:00",
+     "summary": "לפי הדיווח של מיטב לבורסה, האירוע הסתיים ולא הייתה גישה לחשבונות הלקוחות – אך נחשף מידע אישי ■ המניה יורדת ב-5% בתגובה"
+    },
+    {
+     "ref": "themarker#1",
+     "title": "עליות באירופה; מחיר הנפט מטפס ב–1.5%; מניית שיאין צונחת ביותר מ–11%",
+     "published": "2026-09-29T07:32:00+00:00",
+     "summary": "מנהיגים באירופה דורשים חיסכון של \"מאות מיליארדי יורו\" בתקציב הבא של האיחוד ■ אסיה נסגרה בירידות: אוסטרליה העלתה את הריבית לרמתה הגבוהה ביותר זה 15 שנה ■ נאסד\"ק נחלש אתמול בכמעט 1%; תשואות האג\"ח של ממשלת ארה\"ב טיפסו לשיאים של שני עשורים"
+    },
+    {
+     "ref": "themarker#2",
+     "title": "המסחר בת\"א נפתח בעליות קלות; פאלו אלטו עולה ב-6.6%",
+     "published": "2026-09-29T07:15:37+00:00"
+    },
+    {
+     "ref": "themarker#3",
      "title": "קפיצה של חצי שקל: מחיר הדלק יעלה ברביעי בלילה ל-8.27 שקלים",
      "published": "2026-09-29T06:32:46+00:00",
      "summary": "מחיר הדלק יקפוץ השבוע, אחרי שעליית המחיר נמנעה בתחילת החודש בעקבות סבסוד למס הבלו שקבעו סמוטריץ' ונתניהו עד סוף אוקטובר 2026 (ארבע ימים לאחר הבחירות לכנסת) ■ במשרד האנרגיה משייכים את ההתייקרות לעלייה של כ-13% במחירי הבנזין בשווקים הבינלאומיים, על רקע עליית מחירי הנפט"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#4",
      "title": "\"יחס עבודה־קפאין מהגבוהים בעת המודרנית\" — עוד הסבר לטלטלה בשוק האג\"ח",
      "published": "2026-09-29T05:54:26+00:00",
      "summary": "OpenAI מבטלת השקה בגלל בטיחות, AMD קונה חברת AI במיליארדים, והמדינה פוסלת את מכירת צים ■ העניינים שידברו עליהם הבוקר בשוק ההון"
     },
     {
-     "ref": "themarker#2",
-     "title": "בדרך להנפקת הענק: אנתרופיק חושפת הפסד שנתי של 42 מיליארד דולר",
+     "ref": "themarker#5",
+     "title": "בדרך להנפקה אנתרופיק חושפת הפסד של 42 מיליארד דולר — ומזהירה מפני השמדה",
      "published": "2026-09-29T05:33:46+00:00",
-     "summary": "אנתרופיק דיווחה על הפסד נטו של 42 מיליארד דולר ב-2025, ותוכניות להוציא 518 מיליארד דולר על מחשוב ענן ותשתיות בשנים הבאות, כך לפי תשקיף החברה ■ הכנסות החברה קפצו פי 12 לכמעט 4.6 מיליארד דולר, אך ההפסד התפעולי גדל באותו זמן ל-8 מיליארד דולר"
+     "summary": "אנתרופיק דיווחה על הפסד נטו של 42 מיליארד דולר ב–2025, ותוכניות להוציא 518 מיליארד דולר על מחשוב ענן ותשתיות בשנים הבאות, כך לפי תשקיף החברה ■ הכנסות החברה קפצו פי 12 לכמעט 4.6 מיליארד דולר, אך ההפסד התפעולי גדל באותו זמן ל–8 מיליארד דולר"
     },
     {
-     "ref": "themarker#3",
-     "title": "מחיר הנפט מטפס בכ-2%; אוסטרליה מעלה ריבית לרמה הגבוהה ביותר זה 15 שנה",
-     "published": "2026-09-29T04:44:00+00:00",
-     "summary": "ירידות באסיה: טוקיו וסיאול נופלות בכ-1%; מניית שיאין צונחת ב-11% על רקע דו\"חות מאכזבים ■ נאסד\"ק נחלש אתמול בכמעט 1%; תשואות האג\"ח של ממשלת ארה\"ב טיפסו לשיאים של שני עשורים ■ ספייס־אקס שיגרה בהצלחה טיל סטארשיפ למסלול סביב כדה\"א"
-    },
-    {
-     "ref": "themarker#4",
+     "ref": "themarker#6",
      "title": "ענקית השבבים AMD רוכשת את חברת ה-AI וורלד לאבס ב-8.2 מיליארד דולר",
      "published": "2026-09-29T04:12:35+00:00",
      "summary": "במסגרת הרכישה יעברו ל-AMD אנשי צוות הפיתוח של וורלד לאבס, כולל מדענית הבינה המלאכותית הנודעת פיי-פיי לי"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#7",
      "title": "תשואות האג\"ח מאיימות על המניות: \"אם החלוקה מתאימה — לא לשנות את התיק\"",
      "published": "2026-09-29T03:37:33+00:00",
      "summary": "באופן חריג התשואה הגלומה במניות בארה\"ב כמעט זהה לזו של האג\"ח הממשלתית, חרף הסיכון הגבוה יותר ■ רינת אשכנזי מהפניקס סבורה שהמצב לא יאריך זמן ■ מה יפריד בין עליות בשוקי המניות והאג\"ח במקביל, לירידה במניות? \"יותר חשוב מהשאלה אם תשואות האג\"ח יירדו — למה הן יירדו\""
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#8",
      "title": "עידן דוד, היו\"ר המודח של נתיבי איילון, הוא רק מראה של ריקבון התקופה",
      "published": "2026-09-29T03:36:20+00:00",
      "summary": "מועמדים המקודמים במסלול מחוץ לנבחרת הדירקטורים מסומנים מראש לתפקיד היו\"ר, ורשות החברות הממשלתיות לא מצליחה לבלום את התופעה ■ השרים מקדמים מקורבים חסרי כישורים שאין להם דרך להתמנות אלא באמצעות ניפוח לכאורה של קורות החיים"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#9",
      "title": "מניית אלקטרה נדל\"ן קרסה: עליית התשואות בארה\"ב שברה את המשקיעים",
      "published": "2026-09-29T03:34:28+00:00",
      "summary": "אלקטרה נדל\"ן מציגה תוצאות חלשות זה זמן רב, אך עדיין מצליחה לגייס משקיעים לקרנות ההשקעה במקבצי דיור להשכרה בארה\"ב ■ עליית התשואות מורידה את שווי הנכסים ומייצרת לחץ על יכולת החברה לייצר הכנסות ורווחים - והמניה איבדה 67% מתחילת השנה ■ החברה: \"הפעילות איתנה ותזרימית\""
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#10",
      "title": "סוף האנושות בעוד עשור? האירועים האחרונים חושפים מה באמת מפחיד את מנכ\"לי ענקיות ה–AI",
      "published": "2026-09-29T03:33:37+00:00",
      "summary": "לא בטוח שמה שעומד מאחורי הקריאות של דריו אמודיי וסם אלטמן להאט את קצב הפיתוח של מודלי AI מתקדמים הוא אכן חשש שהבינה המלאכותית תשמיד את האנושות ■ סביר יותר להניח שהם מפחדים מגל תביעות וחקירות פליליות בעקבות נזק שיגרמו סוכני AI סוררים"
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#11",
      "title": "השקת ChatGPT החדש בוטלה: חוקרי OpenAI הזהירו שהמודל לא בטיחותי",
      "published": "2026-09-29T03:29:49+00:00",
      "summary": "ביטול השקת מודל GPT-6.1 אסטרה הוכרז לאחר שנחשף כי בוטים פרצו לאתרים, שיקרו ותיאמו ביניהם פעולות שלא נדרשו לעשות"
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#12",
      "title": "משבר האנרגיה העולמי יכול להזניק את חברות הנפט לבולמוס השקעות",
      "published": "2026-09-29T03:24:31+00:00",
      "summary": "המלחמה עם איראן הפתיעה את תעשיית הנפט כולה, שציפתה לשנה איטית מבחינת עסקות חדשות וחלוקת רווחים כאחד ■ אך הכסף שזרם לקופותיהן של ענקיות הנפט, ולכיסים של בעלי המניות, יכול להיות מופנה להתרחבות אל אתרי קידוח חדשים — הרחק מהצרות שמזמן המזרח התיכון"
     },
     {
-     "ref": "themarker#11",
-     "title": "הקרב על קרקעות הכנסייה: קק\"ל מתנגדת להארכת החכירה מול אקסטל",
+     "ref": "themarker#13",
+     "title": "הקרב על קרקעות הכנסייה: קק\"ל מתנגדת להארכת החכירה מאקסטל",
      "published": "2026-09-29T03:23:04+00:00",
      "summary": "הקרן הגישה את תשובתה לעתירת בעלי הדירות לבג\"ץ ■ אקסטל מעוניינת לפתור את התסבוכת עם תוכנית התחדשות עירונית, שבמסגרתה ישלמו לה הדיירים תמורת בעלות על דירות חדשות וגדולות יותר ■ בקק\"ל סבורים שנדרש הסדר כולל לביטול הסכמי החכירה, ולא תקודם התחדשות עירונית בלעדיהם"
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#14",
      "title": "מאחורי האישה הפופולרית הסתתר בכלל נהג אובר: ה–AI מגיעה למערכות הבחירות בעולם",
      "published": "2026-09-29T03:10:09+00:00",
      "summary": "הבינה המלאכותית שיבשה מערכות בחירות — מברזיל, דרך אירופה ועד הודו — בעזרת סרטוני דיפ־פייק ותכנים אחרים ■ בארה\"ב אזרחים התחילו לשאול בוטים למי להצביע, ומועמדים עשויים לתמרן את ה–AI כדי להשיג יתרון"
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#15",
      "title": "בכיר בבית הדין האירופי: מדינות מאבדות את הריבונות מול ענקיות הטק",
      "published": "2026-09-29T03:08:47+00:00",
      "summary": "מאצ'יי שפונאר, מבכירי בית הדין האירופי, מסביר כיצד ענקיות הטכנולוגיה מערערות את גבולות הריבונות ולמה המחוקקים, ולא השופטים, צריכים לקבוע את הכללים לגבי התוכן ברשת"
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#16",
      "title": "פאראגון מגיעה לנאסד\"ק: הירידה בקצב הצמיחה, המלווה שלוחץ — והסכום שיקבלו בעלי המניות הקודמים",
      "published": "2026-09-29T03:08:36+00:00",
      "summary": "פאראגון של אהוד ברק התמזגה עם RedLattice לפני כשנתיים, והחברה הממוזגת מבצעת מיזוג נוסף — הפעם עם חברת ספאק ■ השווי לפני הכסף הוא 1.25 מיליארד דולר ■ הדו\"חות חושפים כי פאראגון אחראית לרוב פעילות החברה הממוזגת, אך צמיחה חד־ספרתית ב–2025 כיווצה את התשלום למייסדים ולבעלי המניות ■ מאחורי הפנייה לשוק הציבורי עומד גם חוב גבוה"
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#17",
      "title": "הזוכות במכרז של 65 מיליארד שקל: חברות מהודו, מארה\"ב ומסין יחפרו את מנהרות המטרו",
      "published": "2026-09-29T03:07:38+00:00",
      "summary": "19 חברות צפויות לזכות בשבוע הבא באפשרות להתמודד במכרזי הענק על השלב הראשון של פרויקט המטרו בגוש דן: חפירת המנהרות והקמה של חלק מהתחנות התת־קרקעיות ■ בשבוע שעבר הציגה נת\"ע את פרטי המכרזים של השלב השני של הפרויקט ■ הסיכון הכלכלי העיקרי בפרויקט הוא עלויות הביטוח של העובדים הזרים בישראל"
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#18",
      "title": "\"ההורים אמרו שמטבעות דיגיטליים הם כמו הימורים, אבל ההשקעה שלי יותר מהכפילה את עצמה\"",
      "published": "2026-09-29T03:00:27+00:00",
      "summary": "הילה אצלן החלה להשקיע בביטקוין בגיל 16. לאחר שנפתח לה התיאבון התחילה לצפות בסרטוני יוטיוב שעסקו בהשקעות שונות, ובהמשך פתחה תיק מסחר עצמאי ■ המדור מביא את קולם של המשקיעים החדשים, שהחלו להשקיע בשנים האחרונות בשוק ההון ■ וגם: מה אנחנו חשבנו על התיק?"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#19",
      "title": "אחרי שגייס 400 מיליון דולר: חד הקרן הישראלי Openweb פתח בהליכי חדלות פירעון",
      "published": "2026-09-28T18:25:24+00:00",
      "summary": "הסטארט־אפ הישראלי אופן ווב (Openweb) פתח בהליכי חדלות פירעון והקפאת הליכים, כך לפי מכתב ששלח מנכ\"ל החברה ג'ים דיילי לעובדי החברה ■ מהפנייה לבית המשפט עולה כי סך כל ההתחייבויות של החברה הן 177.6 מיליון שקל, שכנגדם יש בקופת החברה 13 מיליון דולר"
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#20",
      "title": "ישראל היא לא דובאי: המחיר של הצפת המשק בעובדים זרים",
      "published": "2026-09-28T16:57:39+00:00",
      "summary": "אבי שומר מצומת ספרים ויפית אטיאס־לוי מרמי לוי מתלוננים על מחסור בעובדים, אך הצפת השוק בעובדים זרים מאפשרת להם להמשיך להתעלם מהבעיה ■ פאראגון בדרך לנאסד\"ק, האקזיט של חברת הפינטק הישראלית והגרף שכדאי לעקוב אחריו ■ כל מה שצריך לדעת על היום שהיה בכלכלה"
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#21",
      "title": "בעקבות הלחץ על היועמ\"שית: מכרז הענק במעלה אדומים לא יידחה לאחר הבחירות, אלא רק פרסום התוצאות",
      "published": "2026-09-28T16:35:06+00:00",
      "summary": "לפי החלטת היועמ\"שית, המכרז לשיווק 1,234 דירות יתקיים ב–19 באוקטובר, אך תוצאותיו יפורסמו רק לאחר הבחירות ■ בנייה בשטח המכרז צפויה לקטע את הרצף הטריטוריאלי בשטח שבו עשויה לקום מדינה פלסטינית ולמנוע את פתרון שתי המדינות"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#22",
      "title": "מייסד פאראגון עומד להקים חברה חדשה עם הסא\"ל שהקים קרן בזמן השירות הצבאי",
      "published": "2026-09-28T16:25:02+00:00",
      "summary": "עידן נוריק מתכנן להקים חברה חדשה בתחום תשתיות ה–AI למדינות, וכבר קיבל התחייבות להשקעה מסקויה ■ מי שצפוי להקים איתו את החברה הוא ד', סא\"ל ביחידה טכנולוגית, שעומד להשתחרר ובאחרונה נחשף ב–TheMarker כי במקביל לשירותו הצבאי היה שותף בקרן הון סיכון נץ קפיטל"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#23",
      "title": "אין תיאור קולע יותר למורשת נתניהו מסתימת החניונים בנתב\"ג",
      "published": "2026-09-28T16:12:05+00:00",
      "summary": "יש מי שזכאים לשירות רכבות, אוטובוסים ומוניות גם ב–2 בלילה — ויש מי שפשוט שכחו מה זה להיות יהודים ■ הסיבה לבקשה מהנוסעים לנתב\"ג לא להגיע ברכב פרטי מתחילה בכישרון של נתניהו להחליט שלא להחליט"
     },
     {
-     "ref": "themarker#22",
+     "ref": "themarker#24",
      "title": "משרד ראש הממשלה מוריד מהפרק את עסקת צים",
      "published": "2026-09-28T15:20:26+00:00",
      "summary": "במשרד ראש הממשלה ממליצים גם לא לאשר את עסקת צים במתווה כלשהו עם תנאים ■ משמעות ההמלצה, אם תתקבל: לא יתאפשר לרוכשות של צים — האפאג־לויד הגרמנית ופימי — להגיש מתווה משופר כלשהו ■ גם האוצר מתנגד לעסקת צים: \"תהיה תלויה בגורמים עוינים — קטארים וסעודים\" ■ פימי: \"אנו ממשיכים לשפר את מבנה העסקה מתוך מחויבות לאינטרסים האסטרטגיים של המדינה\""
-    },
-    {
-     "ref": "themarker#23",
-     "title": "\"הגענו לחניה — והיה סגור\": על אף הודעת רשות שדות התעופה, העומס בחניוני בנתב\"ג נמשך",
-     "published": "2026-09-28T15:19:20+00:00",
-     "summary": "רש\"ת הודיעה כי החניונים בנתב\"ג נפתחו, אך לאולם ההמראות הנופשים לא הזדרזו להגיע עם מכונית ■ על אף ההודעה, חניון 15 המיועד לחניה לטווח ארוך עדיין סגור ■ \"חששנו אם בכלל יהיו שאטלים לטרמינל מהחניון ומה תהיה התדירות שלהם, ביחס לזה שאתה יוצא לחופשה קצרה זו חוויה מלחיצה\""
-    },
-    {
-     "ref": "themarker#24",
-     "title": "מנכ\"ל מליסרון אופיר שריד מת בגיל 54",
-     "published": "2026-09-28T14:59:23+00:00",
-     "summary": "בספטמבר הודיעה החברה על יציאתו של שריד לתקופת מחלה ומינתה את סמנכ\"ל הכספים, אורן הילינגר, לתפקיד ממלא מקום מנכ\"ל החברה ■ ממליסרון נמסר: \"אופיר היה מנהל אהוב ומוערך על ידי דירקטוריון החברה, הנהלת החברה ועובדיה, שכואבים מאוד את לכתו\""
     }
    ]
   },
@@ -365,45 +365,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
-     "title": "Gold’s Near-Term Bias Remains Downward, Daily Chart Shows",
-     "published": "2026-09-29T06:32:00+00:00",
-     "summary": "Spot gold rose, but UOB said the metal’s near-term bias remains downward."
+     "title": "Oil Rises Despite Saudi Pipeline Repair as U.S.-Iran Talks Stall",
+     "published": "2026-09-29T07:26:00+00:00",
+     "summary": "Oil prices rose as a lack of progress in U.S.-Iran talks outweighed signs of a recovery in Gulf exports."
     },
     {
      "ref": "wsj_markets#1",
+     "title": "Gold Ticks Higher But Remains Below $4,200 on Fed Rate-Hike Bets",
+     "published": "2026-09-29T07:24:00+00:00",
+     "summary": "Gold prices edged higher in early trading, but remain below the $4,200 a troy ounce level."
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "European Indexes Gain at the Open as AI-Related Stocks Rally",
+     "published": "2026-09-29T07:22:00+00:00",
+     "summary": "European stock indexes edged higher in early trade, with mining and AI-related stocks gaining, and energy-intensive sectors weakening."
+    },
+    {
+     "ref": "wsj_markets#3",
+     "title": "Dollar Gains as Oil Prices Rise on Middle East Concerns",
+     "published": "2026-09-29T07:05:00+00:00",
+     "summary": "The DXY dollar index rose against a basket of currencies, as persistent concerns over crude supply disruptions stemming from the Middle East conflict, lifted oil prices."
+    },
+    {
+     "ref": "wsj_markets#4",
      "title": "U.S. Treasury Yields Edge Higher, Hover Near Recent Highs",
      "published": "2026-09-29T06:26:00+00:00",
      "summary": "Treasury yields edged higher in Asian trade on Tuesday but remained slightly below Monday’s multiyear peaks."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#5",
      "title": "Samsung Commits $1.0 Billion to AI Infrastructure Firm Backed by KKR, Nvidia",
      "published": "2026-09-29T04:41:00+00:00",
      "summary": "The investment in Helix Digital Infrastructure brings the platform’s total secured capital to more than $11 billion."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#6",
      "title": "Japan Finance Minister Reaffirms U.S. Coordination on Yen Stability",
      "published": "2026-09-29T02:59:00+00:00",
      "summary": "Finance Minister Satsuki Katayama agreed in a recent call with U.S. Treasury Secretary Scott Bessent to strengthen cooperation in the currency market, saying that “reconfirming this stance at this time holds great significance.”"
-    },
-    {
-     "ref": "wsj_markets#4",
-     "title": "Singapore Dollar Edges Lower Amid U.S.-Iran Tensions",
-     "published": "2026-09-29T02:48:00+00:00",
-     "summary": "The Singapore dollar weakened slightly against its U.S. counterpart in the Asian session amid U.S.-Iran tensions."
-    },
-    {
-     "ref": "wsj_markets#5",
-     "title": "Nikkei Falls 0.8%, Dragged by Auto, Steel Stocks",
-     "published": "2026-09-29T00:53:00+00:00",
-     "summary": "Japanese stocks were lower in early trade as uncertainty about the Iran conflict and higher borrowing costs continues."
-    },
-    {
-     "ref": "wsj_markets#6",
-     "title": "Oil Rises Amid Deadlock in U.S.-Iran Ceasefire Talks",
-     "published": "2026-09-29T00:50:00+00:00",
-     "summary": "Oil rose amid the continuing deadlock in U.S.-Iran ceasefire talks. “Iran and the U.S. remain far apart over a ceasefire agreement and the reopening of the Strait of Hormuz,” NAB said."
     },
     {
      "ref": "wsj_markets#7",
@@ -519,10 +519,10 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4221.2598,
-   "prev_close": 4242.1201,
-   "change_pct": -0.49,
-   "as_of": "2026-09-28"
+   "last": 4233.4102,
+   "prev_close": 4221.2598,
+   "change_pct": 0.29,
+   "as_of": "2026-09-29"
   },
   "SP500": {
    "symbol": "^GSPC",
@@ -533,23 +533,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0716,
+   "last": 3.0712,
    "prev_close": 3.0472,
-   "change_pct": 0.8,
+   "change_pct": 0.79,
    "as_of": "2026-09-29"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 99.51,
+   "last": 98.77,
    "prev_close": 105.28,
-   "change_pct": -5.48,
+   "change_pct": -6.18,
    "as_of": "2026-09-29"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 83949.9531,
-   "prev_close": 84458.0859,
-   "change_pct": -0.6,
+   "last": 84026.2812,
+   "prev_close": 83502.6094,
+   "change_pct": 0.63,
    "as_of": "2026-09-29"
   }
  },
