@@ -1,0 +1,91 @@
+{
+  "section": "business",
+  "date": "2026-09-30",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-09-30T09:29:09+00:00",
+  "stories": [
+    {
+      "id": "france-bond-spread-120bps",
+      "kind": "analysis",
+      "en": {
+        "headline": "France's Bond Spread Hits 120 bps as Vanguard Sounds a Credit Alarm",
+        "scroll": "France's 10-year yield now trades 120 basis points above Germany's — a level asset manager Vanguard says signals credit deterioration as the Iran war strains an already stretched budget.",
+        "coffee": "France's 10-year sovereign bond risk premium — the extra yield investors demand to hold French debt (OATs) over Germany's benchmark bunds — climbed to 120 basis points, Bloomberg reported today, hitting another milestone as markets brace for potential political upheaval next year. Asset management giant Vanguard added its voice in the Financial Times, warning that France is \"degrading credit\" as borrowing costs surge, with the Iran war compounding fiscal pressures ahead of a looming budget battle.\n\nThe number matters because sovereign spreads act as a real-time market verdict on a country's fiscal credibility. For decades France borrowed at rates only marginally above Germany's — a spread of 30-50 basis points was considered normal. Doubling that gap signals that professional investors now see French default risk as materially higher, even if still remote. Every extra basis point translates into billions more in future interest costs for a government whose debt already exceeds annual output.\n\nWatch two things: whether the French Treasury has to pay noticeably more at upcoming OAT auctions, and whether Moody's, S&P or Fitch move on France's rating. A downgrade would force some pension funds and central-bank reserve managers to sell, mechanically pushing yields higher in what bond traders call a \"doom loop.\"",
+        "deep": "## The 120 Basis-Point Signal\n\nFrance's 10-year sovereign bond risk premium — the extra yield investors demand to hold French government debt (Obligations Assimilables du Trésor, or OATs) over German bunds — has climbed to 120 basis points, Bloomberg reported on Wednesday. Asset management giant Vanguard warned in the Financial Times the same morning that France is \"degrading credit\" and that the Iran war has exacerbated Paris's fiscal pressures ahead of a bruising budget battle.\n\nThe number alone doesn't sound dramatic. But in sovereign bond markets, spreads are the currency of trust, and this one has roughly doubled from levels considered normal a few years ago.\n\n## What a Spread Actually Measures\n\nWhen you buy a 10-year German bund, you're lending to the government the market treats as the safest euro-denominated borrower — Berlin's fiscal discipline, industrial base and constitutional debt brake make its debt the benchmark. Every other euro-area sovereign yield is priced as a premium over that benchmark. The gap — called the \"spread,\" or in industry jargon the \"risk premium\" — is how the market prices political risk, fiscal risk and redenomination risk (the fear that a country could leave the euro) in one clean number.\n\nFor most of the euro's history, France traded 30 to 50 basis points above Germany. Italy typically traded 150 to 250 bps above. Greek spreads blew past 3,000 bps at the height of the 2011-12 sovereign debt crisis. A 120 bps French spread is far from crisis territory, but it is the widest gap since the euro's early years, and it puts French borrowing costs uncomfortably close to Spain's.\n\n## Why the Spread Is Widening\n\nThree forces are compounding. First, France's fiscal arithmetic keeps getting worse: its debt-to-GDP ratio has been climbing for years, and successive governments have struggled to bring the deficit under the EU's 3% ceiling. Second, the war between Israel and Iran, now in its eighth month by Bloomberg's count, has pushed defense and energy-support spending higher across Europe, tightening the room Paris has to close its deficit. Third — and most immediate — Bloomberg cites \"potential political upheaval next year,\" meaning investors are already pricing the risk that a fragile parliamentary coalition will fail to deliver the promised austerity budget.\n\nVanguard's language is unusually direct for a bond buyer of its size. When one of the world's largest asset managers publicly warns of \"degrading credit,\" it is signaling to the credit-rating agencies (Moody's, S&P, Fitch) that a downgrade is overdue. Rating agencies rarely lead the market; they usually confirm what spreads have already said.\n\n## Second-Order Effects\n\nA sovereign under pressure sends ripples through every corner of its economy. Domestic banks hold large stockpiles of their own government's bonds — the infamous \"doom loop\" of the 2010s euro crisis — and rising French yields punch a hole in the balance sheets of BNP Paribas, Société Générale and Crédit Agricole. Higher sovereign yields also lift the benchmark rate at which French corporate borrowers finance themselves, from CAC 40 champions down to small caps.\n\nBeyond France, the spread is a temperature check for the entire euro area. If France — the bloc's second-largest economy — is treated as materially riskier, then Italy, Spain and Portugal typically get repriced too. That is why the European Central Bank watches these spreads far more closely than it will admit; a disorderly widening could force it to reactivate purchase programs like the Transmission Protection Instrument (TPI), the backstop it built in 2022 to cap peripheral spreads.\n\n## What to Watch\n\nThree markers over the coming weeks:\n\n1. **French debt auctions.** The Agence France Trésor holds regular OAT sales. If bid-to-cover ratios weaken or yields print at the wide end of guidance, that is evidence investors are demanding more compensation in real time.\n\n2. **Rating-agency actions.** With Vanguard having broken the silence, watch for outlook changes (Negative, Watch Negative) from Moody's or S&P over the next month or two. A one-notch downgrade would force certain pension funds and central-bank reserve managers to trim their holdings, mechanically pushing yields still higher.\n\n3. **The budget vote.** French budget debates begin this autumn. A failed vote or a rejected reform package would confirm the market's political-risk story and could push the spread past the psychologically important 150 bps mark — the point at which comparisons to Italy, the euro area's perennial fiscal problem child, become unavoidable.\n\nThe FT's separate essay this morning asked whether the world is \"really drowning in debt\" and concluded that room for manoeuvre is shrinking for major economies. France, one of the euro area's twin pillars, is where that shrinking room is being tested first."
+      },
+      "he": {
+        "headline": "מרווח האג\"ח של צרפת נוגע ב-120 נקודות בסיס, וונגארד מזהיר על שחיקת אשראי",
+        "scroll": "תשואת האג\"ח של צרפת ל-10 שנים סוחרת כעת 120 נקודות בסיס מעל גרמניה — רמה שוונגארד מזהיר שמעידה על שחיקת אשראי (credit deterioration), על רקע המלחמה באיראן ולחצים תקציביים.",
+        "coffee": "פרמיית הסיכון (risk premium) על אג\"ח ממשלת צרפת ל-10 שנים — התוספת שהמשקיעים דורשים על אג\"ח צרפתי (OATs) מעל אמת-המידה של אג\"ח גרמני (bund) — עלתה ל-120 נקודות בסיס, כך דיווח בלומברג היום. בית ההשקעות ונגארד הצטרף לאזעקה בעיתון הפייננשל טיימס, בטענה כי צרפת \"שוחקת אשראי\" (degrading credit) ככל שעלויות המימון מטפסות, כשמלחמת איראן מחריפה את הלחצים התקציביים לקראת קרב תקציב מתקרב.\n\nהמספר משמעותי משום שמרווחי אג\"ח סוברניים (sovereign spreads) הם פסק דין של השוק בזמן אמת על אמינות פיסקלית של מדינה. במשך עשורים לוותה צרפת בריביות שרק במעט מעל אלה של גרמניה — מרווח של 30 עד 50 נקודות בסיס נחשב נורמלי. הכפלת הפער הזה מסמנת שהמשקיעים המוסדיים רואים כעת בסיכון חדלות פירעון (default risk) הצרפתי כמהותי יותר, גם אם עדיין רחוק. כל נקודת בסיס נוספת מיתרגמת למיליארדים בעלויות ריבית עתידיות עבור ממשלה שהחוב שלה כבר עולה על התוצר השנתי.\n\nשני דברים לעקוב אחריהם: אם משרד האוצר הצרפתי ייאלץ לשלם יותר בבירור במכרזי החוב הקרובים, ואם סוכנויות הדירוג (Moody's, S&P, Fitch) יזיזו את הדירוג. הורדת דירוג תאלץ קרנות פנסיה ומנהלי רזרבות של בנקים מרכזיים למכור, ותדחוף את התשואות אוטומטית גבוה יותר במה שסוחרי אג\"ח מכנים \"לולאת גורל\" (doom loop).",
+        "deep": "## האות של 120 נקודות בסיס\n\nפרמיית הסיכון (risk premium) על אג\"ח ממשלת צרפת ל-10 שנים — התוספת שהמשקיעים דורשים עבור החזקת חוב צרפתי (Obligations Assimilables du Trésor, או OATs) מעל אג\"ח גרמני (Bunds) — טיפסה ל-120 נקודות בסיס, כך דיווח בלומברג היום. בית ההשקעות ונגארד הזהיר באותו בוקר, בעיתון הפייננשל טיימס, כי צרפת \"שוחקת אשראי\" (degrading credit) וכי מלחמת איראן החריפה את הלחצים הפיסקליים על פריז ערב קרב תקציב קשה.\n\nהמספר בפני עצמו לא נשמע דרמטי. אבל בשווקי האג\"ח הסוברניים, מרווחים (spreads) הם מטבע של אמון, והמרווח הזה הוכפל מרמות שנחשבו נורמליות רק לפני כמה שנים.\n\n## מה בעצם מודד המרווח\n\nכשאתה קונה אג\"ח גרמני ל-10 שנים, אתה מלווה לממשלה שהשוק מתייחס אליה כלווה הבטוח ביותר באירו — המשמעת הפיסקלית של ברלין, בסיס התעשייה ובלם החוב החוקתי (constitutional debt brake) הופכים את החוב שלה לאמת-המידה (benchmark). כל תשואה סוברנית אחרת בגוש היורו מתומחרת כפרמיה מעל אותו בנצ'מרק. הפער — הנקרא \"מרווח\" (spread) או, בלשון המקצועית, \"פרמיית סיכון\" — הוא הדרך שבה השוק מתמחר סיכון פוליטי, סיכון פיסקלי וסיכון של רה-דנומינציה (redenomination risk, החשש שמדינה תעזוב את גוש היורו) במספר נקי אחד.\n\nברוב תולדות היורו, צרפת נסחרה 30 עד 50 נקודות בסיס מעל גרמניה. איטליה נסחרה בדרך כלל 150 עד 250 נ\"ב מעל. המרווח היווני התפוצץ מעל 3,000 נ\"ב בשיא משבר החובות הסוברניים של 2011-12. מרווח צרפתי של 120 נ\"ב רחוק משטח משבר, אבל הוא הפער הרחב ביותר מאז ימיו הראשונים של היורו, ומקרב את עלויות המימון הצרפתיות באופן לא נוח לאלה של ספרד.\n\n## למה המרווח מתרחב\n\nשלושה כוחות פועלים במקביל. ראשית, החשבון הפיסקלי של צרפת ממשיך להחמיר: יחס החוב לתמ\"ג (debt-to-GDP ratio) שלה טיפס במשך שנים, וממשלות רצופות התקשו לצמצם את הגירעון מתחת לתקרת ה-3% של האיחוד האירופי. שנית, המלחמה בין ישראל לאיראן, שנכנסת כעת לחודשה השמיני על פי בלומברג, דוחפת את ההוצאה הביטחונית ואת סבסוד האנרגיה גבוה יותר ברחבי אירופה, ומהדקת את המרווח הפיסקלי שיש לפריז לסגירת הגירעון. שלישית — והמיידית ביותר — בלומברג מציין \"תהפוכה פוליטית פוטנציאלית בשנה הבאה\", כלומר המשקיעים כבר מתמחרים את האפשרות שקואליציה פרלמנטרית שברירית לא תספק את תקציב הצנע (austerity budget) המובטח.\n\nהשפה של ונגארד ישירה במידה יוצאת דופן עבור בית השקעות בגודלו. כאשר אחד ממנהלי הנכסים הגדולים בעולם מזהיר פומבית מפני \"שחיקת אשראי\", זהו סימן לסוכנויות דירוג האשראי (credit rating agencies) — Moody's, S&P ו-Fitch — שהורדת דירוג באיחור. סוכנויות הדירוג רק לעתים נדירות מובילות את השוק; הן בדרך כלל מאשרות את מה שהמרווחים כבר אמרו.\n\n## השפעות מסדר שני\n\nמדינה תחת לחץ שולחת גלים דרך כל פינה של הכלכלה שלה. בנקים מקומיים מחזיקים מלאים גדולים של אג\"ח ממשלתי — \"לולאת הגורל\" (doom loop) המפורסמת של משבר היורו של שנות ה-2010 — ותשואות צרפתיות עולות חורות בו במאזני BNP Paribas, Société Générale ו-Crédit Agricole. תשואות סוברניות גבוהות יותר גם מרימות את הריבית הבנצ'מרק שבה לווים תאגידיים צרפתיים ממנים את עצמם, מאלופי מדד CAC 40 ועד חברות קטנות.\n\nמעבר לצרפת, המרווח הוא בדיקת חום של גוש היורו כולו. אם צרפת — הכלכלה השנייה בגודלה בגוש — נחשבת מסוכנת יותר באופן מהותי, אז איטליה, ספרד ופורטוגל בדרך כלל מתומחרות מחדש. זו הסיבה שהבנק המרכזי האירופי (ECB) עוקב אחרי המרווחים הללו הרבה יותר בקפידה מכפי שיודה בפומבי; התרחבות לא מסודרת עלולה לאלץ אותו להפעיל מחדש תוכניות רכישה כמו Transmission Protection Instrument (TPI), רשת הביטחון שהוא בנה ב-2022 כדי לרסן מרווחים פריפריאליים.\n\n## על מה לעקוב\n\nשלושה סמנים בשבועות הקרובים:\n\n1. **מכרזי חוב צרפתיים.** משרד האוצר הצרפתי (Agence France Trésor) מקיים מכרזי OAT קבועים. אם יחסי הביקוש-להיצע (bid-to-cover) ייחלשו או אם התשואות ייסגרו בקצה הרחב של הטווח הצפוי, זו עדות שהמשקיעים דורשים פיצוי גדול יותר בזמן אמת.\n\n2. **פעולות של סוכנויות הדירוג.** לאחר שוונגארד שברה את השתיקה, יש לצפות לשינויי אופק (Negative, Watch Negative) ממודי'ס או S&P בחודש-חודשיים הקרובים. הורדת דירוג בדרגה אחת תאלץ קרנות פנסיה מסוימות ומנהלי רזרבות של בנקים מרכזיים לצמצם את החזקותיהם, ותדחוף את התשואות עוד יותר.\n\n3. **הצבעת התקציב.** דיוני התקציב של צרפת מתחילים בסתיו. הצבעה שנכשלה או חבילת רפורמות שנדחתה יאששו את סיפור הסיכון הפוליטי של השוק, ועלולים לדחוף את המרווח מעבר לרף הפסיכולוגי החשוב של 150 נ\"ב — נקודה שבה השוואות לאיטליה, הבעיה הפיסקלית הכרונית של גוש היורו, יהפכו לבלתי נמנעות.\n\nמסה נפרדת של הפייננשל טיימס הבוקר שאלה אם העולם באמת \"טובע בחובות\" והגיעה למסקנה שהמרווח לתמרון של הכלכלות הגדולות הולך ומצטמצם. צרפת, אחד משני עמודי התווך של גוש היורו, היא המקום שבו ההצטמצמות הזו נבחנת קודם."
+      },
+      "tags": [
+        "france",
+        "sovereign-debt",
+        "bond-market",
+        "eurozone"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "France’s 10-Year Bond Risk Premium Rises to 120 Basis Points",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-30/france-s-10-year-bond-risk-premium-rises-to-120-basis-points"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
+          "url": "https://www.ft.com/content/7820a84f-338e-4b91-a9b6-241a9bf81539?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Is the world really drowning in debt?",
+          "url": "https://www.ft.com/content/a1202ae1-0324-4383-a082-4cc522a8fdbc?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "China Crude Comeback Loses Steam as Iran War Enters Eighth Month",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-30/china-crude-comeback-loses-steam-as-iran-war-enters-eighth-month"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4237.8701,
+      "prev_close": 4221.9399,
+      "change_pct": 0.38,
+      "as_of": "2026-09-30"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7670.8398,
+      "prev_close": 7683.6899,
+      "change_pct": -0.17,
+      "as_of": "2026-09-29"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.061,
+      "prev_close": 3.0788,
+      "change_pct": -0.58,
+      "as_of": "2026-09-30"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 95.6,
+      "prev_close": 102.59,
+      "change_pct": -6.81,
+      "as_of": "2026-09-30"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 83125.0078,
+      "prev_close": 83622.4297,
+      "change_pct": -0.59,
+      "as_of": "2026-09-30"
+    }
+  }
+}

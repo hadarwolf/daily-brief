@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-30",
+  "questions": [
+    {
+      "id": "q-france-normal-spread",
+      "section": "business",
+      "story_id": "france-bond-spread-120bps",
+      "answer_index": 1,
+      "en": {
+        "question": "For decades, what spread over Germany's benchmark bunds was considered normal for French 10-year sovereign debt?",
+        "options": [
+          "5-10 basis points",
+          "30-50 basis points",
+          "Around 120 basis points",
+          "About 250 basis points"
+        ],
+        "explanation": "The coffee notes France historically borrowed only marginally above Germany, at a spread of 30-50 bps; today's 120 bps is roughly a doubling of that gap."
+      },
+      "he": {
+        "question": "במשך עשורים, איזה מרווח מעל אג\"ח הבנצ'מרק הגרמני (bund) נחשב נורמלי לחוב הריבוני של צרפת ל-10 שנים?",
+        "options": [
+          "5 עד 10 נקודות בסיס",
+          "30 עד 50 נקודות בסיס",
+          "סביב 120 נקודות בסיס",
+          "בערך 250 נקודות בסיס"
+        ],
+        "explanation": "לפי הכתבה, במשך עשורים לוותה צרפת רק במעט מעל גרמניה, במרווח של 30 עד 50 נקודות בסיס; 120 היום הוא בקירוב הכפלה של הפער הזה."
+      }
+    },
+    {
+      "id": "q-iraq-iran-corridor",
+      "section": "geopolitics",
+      "story_id": "us-out-of-iraq-iran-pivot",
+      "answer_index": 2,
+      "en": {
+        "question": "Why does Israel care about the US pullout from Iraq, per the brief?",
+        "options": [
+          "It removes the last barrier to a direct Iran-Israel border",
+          "It frees Iraqi oil for European buyers, hurting Israeli exports",
+          "It could let Iran rebuild the corridor that armed Hezbollah in Lebanon and militias in Syria",
+          "It ends US intelligence sharing with Israel on the region"
+        ],
+        "explanation": "The coffee says Iranian consolidation in Iraq would rebuild the arms corridor to Hezbollah and Syrian militias — the network Israel has spent two years dismantling."
+      },
+      "he": {
+        "question": "לפי הבריף, למה יציאת ארה\"ב מעיראק חשובה לישראל?",
+        "options": [
+          "היא מסירה את המחסום האחרון לפני גבול איראן-ישראל ישיר",
+          "היא משחררת נפט עיראקי לאירופה ופוגעת ביצוא הישראלי",
+          "היא עלולה לאפשר לאיראן לשקם את הפרוזדור שדרכו זרם נשק לחיזבאללה בלבנון ולמיליציות בסוריה",
+          "היא מסיימת את שיתוף המודיעין האמריקני עם ישראל באזור"
+        ],
+        "explanation": "לפי הכתבה, ביסוס איראני בעיראק ישקם את פרוזדור אספקת הנשק לחיזבאללה ולמיליציות בסוריה — הרשת שישראל עמלה שנתיים לפרק."
+      }
+    },
+    {
+      "id": "q-network-effects-moat",
+      "section": "learn",
+      "story_id": "concept-network-effects",
+      "answer_index": 2,
+      "en": {
+        "question": "Why are network effects considered one of the most durable competitive advantages in tech?",
+        "options": [
+          "They lower the incumbent's marginal cost per user to nearly zero",
+          "They automatically qualify a company for regulatory protection",
+          "A better rival often can't dislodge the incumbent because switching costs the user their entire network",
+          "They guarantee patent protection over the underlying platform"
+        ],
+        "explanation": "The explainer notes that a rival with better features usually can't dislodge a network-effect incumbent because switching would cost the user access to their whole network."
+      },
+      "he": {
+        "question": "למה השפעות רשת נחשבות לאחד היתרונות התחרותיים העמידים ביותר בטכנולוגיה?",
+        "options": [
+          "הן מורידות את העלות השולית של המשתמש כמעט לאפס",
+          "הן מעניקות אוטומטית הגנה רגולטורית לחברה",
+          "מתחרה טוב יותר לרוב לא מצליח להפיל את השחקן הקיים, כי מעבר עולה למשתמש את כל הרשת שלו",
+          "הן מבטיחות הגנת פטנט על הפלטפורמה שביסודן"
+        ],
+        "explanation": "הכתבה מציינת שמתחרה עם פיצ'רים טובים יותר בדרך כלל לא מצליח להפיל שחקן שכבר בנה רשת, מפני שמעבר עולה למשתמש את כל הרשת שלו."
+      }
+    }
+  ]
+}
