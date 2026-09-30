@@ -24,157 +24,169 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2006,
-   "text": "Gol Transportes Aéreos Flight 1907 collided in mid-air with an Embraer Legacy business jet near Peixoto de Azevedo, Brazil, killing 154 people and triggering a national aviation crisis.",
+   "year": 2019,
+   "text": "President Martín Vizcarra dissolved the Congress of Peru, resulting in a constitutional crisis.",
    "context": [
-    "On September 29, 2006, Gol Transportes Aéreos Flight 1907, a Boeing 737-800 on a scheduled domestic passenger flight from Manaus, Amazonas, to Brasília and Rio de Janeiro, collided mid-air with an Embraer Legacy 600 business jet flying on an opposite heading over the Brazilian state of Mato Grosso. The winglet of the Legacy sliced off about half of the 737's left wing, causing the 737 to break up and crash into an area of dense jungle, killing all 154 passengers and crew on board. Despite sustaining serious damage to its left wing and tail, the Legacy landed with its seven occupants uninjured."
+    "Martín Alberto Vizcarra Cornejo is a Peruvian engineer and politician who served as President of Peru from 2018 to 2020. Vizcarra previously served as Governor of the Department of Moquegua (2011–2014), First Vice President of Peru (2016–2018), Minister of Transport and Communications of Peru (2016–2017), and Ambassador of Peru to Canada (2017–2018), with the latter three during the presidency of Pedro Pablo Kuczynski."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2005,
-   "text": "John Roberts became the 17th Chief Justice of the United States; he would be the first Chief Justice to serve for twenty years since Melville Fuller in 1908.",
+   "year": 2009,
+   "text": "A 7.6 MW earthquake struck off the southern coast of Sumatra, Indonesia (damage pictured), killing 1,115 and impacting an estimated 1.2 million people.",
    "context": [
-    "John Glover Roberts Jr. is an American jurist who has served since 2005 as the 17th chief justice of the United States. Though primarily an institutionalist, he has been described as having a moderate conservative judicial philosophy. Regarded as a swing vote in some cases, Roberts has presided over an ideological shift toward conservative jurisprudence on the high court, in which he has authored key opinions."
+    "The moment magnitude scale is a measure of an earthquake's magnitude based on its seismic moment. Mw was defined in a 1979 paper by Thomas C. Hanks and Hiroo Kanamori. Before Hanks and Kanamori (1979), Kanamori (1977) developed Mw scale for large earthquakes above 7.5. Thus Mw and M are not the same mathematically even though they are considered the same. Similar to the local magnitude/Richter scale (ML) defined by Charles Francis Richter in 1935, it uses a logarithmic scale; small earthquakes have approximately the same magnitudes on both scales. Despite the difference, news media often use the term \"Richter scale\" when referring to the moment magnitude scale."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2004,
-   "text": "Archaeologists and volunteers began excavation of the remains of Fort Tanjong Katong in Singapore.",
+   "year": 2005,
+   "text": "The Danish newspaper Jyllands-Posten published controversial editorial cartoons depicting Muhammad, sparking protests across the Islamic world by many who viewed them as Islamophobic and blasphemous.",
    "context": [
-    "Fort Tanjong Katong was a military fort in Tanjong Katong, Singapore. The fort stood from 1879 to 1901 and was one of the oldest military forts built by the former British colonial government of Singapore. Located on what is now the junction of Fort Road and Meyer Road, it is currently located and displayed at Katong Park. The fort used be garrisoned by the Singapore Volunteer Artillery Corps (SVA)."
+    "Morgenavisen Jyllands-Posten, commonly shortened to Jyllands-Posten or JP, is a Danish daily broadsheet newspaper. It is based in Aarhus C, Jutland, and with a weekday circulation of approximately 120,000 copies."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1991,
-   "text": "The award-winning Disney animated film Beauty and the Beast premiered while unfinished at the New York Film Festival.",
+   "year": 2000,
+   "text": "Twelve-year-old Muhammad al-Durrah was shot dead in the Gaza Strip; the Israel Defense Forces initially accepted responsibility but retracted it five years later.",
    "context": [
-    "Walt Disney Animation Studios (WDAS), sometimes shortened to Disney Animation, is an American animation studio which produces animated feature films and short films for the Walt Disney Company. The studio's current production logo features a scene from its first synchronized sound cartoon, Steamboat Willie (1928). Founded on October 16, 1923, by brothers Walt and Roy O. Disney after the closure of Laugh-O-Gram Studio, it is the longest-running animation studio in the world. It is currently organized as a division of Walt Disney Studios and is headquartered at the Roy E. Disney Animation Building at the Walt Disney Studios lot in Burbank, California. Since its foundation, the studio has produced 64 feature films, from Snow White and the Seven Dwarfs (1937)—which is also the first hand-drawn animated feature film—to Zootopia 2 (2025), and hundreds of short films. The studio is one of Disney's three feature animation studios, alongside Pixar Animation Studios and 20th Century Animation."
+    "On 30 September 2000, the second day of the Second Intifada, 12-year-old Muhammad al-Durrah was killed at the Netzarim Junction in the Gaza Strip during widespread protests and riots across the Palestinian territories against Israeli military occupation. Jamal al-Durrah and his son Muhammad were filmed by Talal Abu Rahma, a Palestinian television cameraman freelancing for France 2, as they were caught in crossfire between the Israeli military and Palestinian security forces. Footage shows them crouching behind a concrete cylinder, the boy crying and the father waving, then a burst of gunfire and dust. Muhammad is shown slumping as he is mortally wounded by gunfire, dying soon after."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1990,
-   "text": "The Lockheed YF-22, the prototype for the F-22 Raptor, made its first flight.",
+   "year": 1998,
+   "text": "The Internet Corporation for Assigned Names and Numbers (ICANN), a nonprofit organization that manages the assignment of domain names and IP addresses in the Internet, was incorporated.",
    "context": [
-    "The Lockheed–Boeing–General Dynamics YF-22 is an American single-seat, twin-engine, stealth fighter prototype technology demonstrator designed for the United States Air Force (USAF). The design team, with Lockheed as the prime contractor, was a finalist in the USAF's Advanced Tactical Fighter (ATF) competition, and two prototypes were built for the demonstration and validation phase. The YF-22 team won the contest against the Northrop-led YF-23 team for full-scale development and the design was developed into the Lockheed Martin F-22. The YF-22 has a similar aerodynamic layout and configuration as the F-22, but with notable differences in the overall shaping such as the position and design of the cockpit, tail fins and wings, and in internal structural layout."
+    "The Internet Corporation for Assigned Names and Numbers is a global multistakeholder group and nonprofit organization headquartered in the United States, responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, while also ensuring the Internet's smooth, secure, and stable operation. ICANN performs the actual technical maintenance (work) of the Central Internet Address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. The contract regarding the IANA stewardship functions between ICANN and the National Telecommunications and Information Administration (NTIA) of the United States Department of Commerce ended on October 1, 2016, formally transitioning the functions to the global multistakeholder community."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1964,
-   "text": "Mafalda, a popular comic strip by Quino, was first published in newspapers in Argentina.",
+   "year": 1982,
+   "text": "Cheers, an American television sitcom, debuted with its pilot episode on NBC.",
    "context": [
-    "Mafalda is an Argentine comic strip written and drawn by cartoonist Quino. The strip features a six-year-old girl named Mafalda, who reflects the Argentine middle class and progressive youth, is concerned about humanity and world peace, and has an innocent but serious attitude toward problems. The comic strip ran from 1964 to 1973 and was very popular in Latin America, Europe, Quebec, and Asia. Its popularity led to books and two animated cartoon series. Mafalda has been praised as masterful satire."
+    "Cheers is an American television sitcom, created by Glen Charles & Les Charles and James Burrows, aired on NBC for eleven seasons from September 30, 1982, to May 20, 1993. The show was produced by Charles/Burrows/Charles Productions in association with Paramount Television. The show is set in the titular bar in Boston, where a group of locals meet to drink, relax, socialize, and escape from their day-to-day issues."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1963,
-   "text": "The University of East Anglia (coat of arms featured) was founded in Norwich, England, after talk of establishing a university in the city began as early as the 19th century.",
+   "year": 1975,
+   "text": "The Boeing AH-64 Apache (example pictured), the primary attack helicopter for a number of countries, made its first flight.",
    "context": [
-    "The University of East Anglia (UEA) is a public research university in Norwich, England. Established in 1963 on a 360-acre (150-hectare) campus west of the city centre, the university has four faculties and twenty-six schools of study. It is one of five BBSRC funded research campuses, with forty businesses, four independent research institutes and a teaching hospital on site."
+    "The Hughes/McDonnell Douglas/Boeing AH-64 Apache is an American twin-turboshaft attack helicopter with a tailwheel-type landing gear and a tandem cockpit for a crew of two. Nose-mounted sensors help acquire targets and provide night vision. It carries a 30 mm (1.18 in) M230 chain gun under its forward fuselage and four hardpoints on stub-wing pylons for armament and stores, typically AGM-114 Hellfire missiles and Hydra 70 rocket pods. Redundant systems help it survive combat damage."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1957,
-   "text": "An explosion at the Soviet nuclear reprocessing plant Mayak released 74 to 1,850 PBq of radioactive material.",
+   "year": 1955,
+   "text": "American film actor James Dean suffered fatal injuries in a head-on car accident near Cholame, California.",
    "context": [
-    "Nuclear reprocessing is the chemical separation of fission products and actinides from spent nuclear fuel. Originally, reprocessing was used to extract plutonium for producing nuclear weapons. With commercialization of nuclear power, reprocessed plutonium was recycled into MOX nuclear fuel for thermal reactors. Reprocessed uranium can in principle be re-used as fuel. Nuclear reprocessing may include the reprocessing of other nuclear reactor material, such as Zircaloy cladding."
+    "James Byron Dean was an American actor. He became one of the most influential figures in Hollywood in the 1950s, and his impact on cinema and popular culture was profound, although his career lasted only five years. He appeared in just three major films: Rebel Without a Cause (1955), in which he portrayed a disillusioned and rebellious teenager; East of Eden (1955), which showcased his intense emotional range; and Giant (1956), a sprawling drama. These have been preserved in the United States National Film Registry by the Library of Congress for their \"cultural, historical, or aesthetic significance\". He was killed in a car accident in 1955 at the age of 24, leaving him a lasting symbol of rebellion, youthful defiance, and the restless spirit."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1955,
-   "text": "The first Indonesian legislative election resulted in an unexpectedly poor result for the Masyumi Party of incumbent prime minister Burhanuddin Harahap (pictured).",
+   "year": 1939,
+   "text": "NBC broadcast the first televised American football game, between the Fordham Rams and the Waynesburg Yellow Jackets.",
    "context": [
-    "Legislative elections were held in Indonesia on 29 September 1955 to elect all 257 members of the House of Representatives. They were the first national elections to be held in the country following independence and would see over 37 million votes cast in over 93 thousand polling stations. The election results were inconclusive, as no party was given a clear mandate. Following negotiations, Ali Sastroamidjojo was able to form a coalition government consisting of the Indonesian National Party, the Masyumi Party, and Nahdlatul Ulama."
+    "The National Broadcasting Company (NBC) is an American commercial broadcast television network, serving as the flagship property of NBC Entertainment, a division of NBCUniversal, which is a subsidiary of Comcast. It is one of NBCUniversal's two flagship namesake properties, alongside Universal Studios. It is the first and oldest major broadcast network in the United States."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1954,
-   "text": "Willie Mays (pictured) of the New York Giants made The Catch, one of the most famous defensive plays in the history of Major League Baseball.",
+   "year": 1939,
+   "text": "Second World War: General Władysław Sikorski (pictured) became the first prime minister of the Polish government-in-exile.",
    "context": [
-    "Willie Howard Mays Jr., nicknamed \"the Say Hey Kid\", was an American professional baseball center fielder who played 23 major league seasons. Widely regarded as one of the greatest players of all time, Mays was a five-tool player who began his career in the Negro leagues, playing for the Birmingham Black Barons, and spent the rest of his career in the National League (NL), playing for the New York / San Francisco Giants and New York Mets."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1941,
-   "text": "The Holocaust: Nazi forces, aided by Ukrainian collaborators, began a massacre of Jews in a ravine in Kyiv, killing more than 30,000 civilians in two days and thousands more in the following months.",
+   "year": 1938,
+   "text": "Adolf Hitler, Benito Mussolini, Neville Chamberlain, and Édouard Daladier signed the Munich Agreement, stipulating that Czechoslovakia must cede the Sudetenland to Germany.",
    "context": [
-    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
+    "Adolf Hitler was an Austrian-born German politician who was dictator of Germany in the Nazi era from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor of Germany in 1933 and then taking the title of Führer und Reichskanzler in 1934. Germany's invasion of Poland on 1 September 1939 under his leadership marked the outbreak of the Second World War. Throughout the ensuing conflict, Hitler was closely involved in the direction of German military operations and was central to the perpetration of the genocide of about six million Jews in the Holocaust as well as the deaths of millions of other victims."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1940,
-   "text": "During a Royal Australian Air Force training exercise over Brocklesby, two planes collided and interlocked in mid-air (pictured); the pilot of the upper plane was able to land safely using the lower plane's engines.",
+   "year": 1920,
+   "text": "Times Square Theater (pictured) opened on Broadway with a production of The Mirage, a play written by its owner, Edgar Selwyn.",
    "context": [
-    "The Royal Australian Air Force (RAAF) is the principal aerial warfare force of Australia, a part of the Australian Defence Force (ADF) along with the Royal Australian Navy and the Australian Army. Constitutionally, the governor-general of Australia is the de jure commander-in-chief of the Australian Defence Force. The Royal Australian Air Force is commanded by the Chief of Air Force (CAF), who is subordinate to the Chief of the Defence Force (CDF). The CAF is also directly responsible to the Minister for Defence, with the Department of Defence administering the ADF and the Air Force."
+    "The Times Square Theater is a former Broadway and movie theater at 215–217 West 42nd Street, near Times Square, in the Theater District of Midtown Manhattan in New York City, New York, U.S. Built in 1920, it was designed by Eugene De Rosa and developed by brothers Edgar and Archibald Selwyn. The building, which is no longer an active theater, is owned by the city and state governments of New York and leased to New 42nd Street."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1923,
-   "text": "The Mandate for Palestine came into effect, officially creating the protectorates of Mandatory Palestine under British administration and Transjordan as a separate emirate under King Abdullah I.",
+   "year": 1918,
+   "text": "Nestor Makhno and Fedir Shchus led insurgents to successfully ambush the Central Powers that occupied southern Ukraine during World War I.",
    "context": [
-    "The Mandate for Palestine was a League of Nations mandate for British administration of the territories of Palestine and Transjordan – which had been part of the Ottoman Empire for four centuries – following the defeat of the Ottoman Empire in World War I. Under the mandate, Britain assumed obligations both to the inhabitants of Palestine and to the establishment of a Jewish national home, as set out in the British government's 1917 Balfour Declaration. The mandate was assigned to Britain by the San Remo conference in April 1920, after France's concession in the 1918 Clemenceau–Lloyd George Agreement of the previously agreed \"international administration\" of Palestine under the Sykes–Picot Agreement. Transjordan was added to the mandate after the Arab Kingdom in Damascus was toppled by the French in the Franco-Syrian War. Civil administration began in Palestine and Transjordan in July 1920 and April 1921, respectively, and the mandate was in force from 29 September 1923 to 15 May 1948 and to 25 May 1946 respectively."
+    "Nestor Ivanovych Makhno, also known as Bat'ko Makhno, was a Ukrainian anarchist revolutionary and the commander of the Revolutionary Insurgent Army of Ukraine during the Ukrainian War of Independence. He established the Makhnovshchina, a mass movement by the Ukrainian peasantry to establish anarchist communism in the country between 1918 and 1921. Initially centered around Makhno's home province of Katerynoslav and hometown of Huliaipole, it came to exert a strong influence over large areas of southern Ukraine, specifically in what is now the Zaporizhzhia Oblast of Ukraine. Anarchists have cited him as an inspiration during his life and into today."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1918,
-   "text": "World War I: The Battle of St Quentin Canal took place, which led to the British Fourth Army making the first breach of the German defensive Hindenburg Line.",
+   "year": 1882,
+   "text": "The Vulcan Street Plant in Appleton, Wisconsin, the first hydroelectric central station to serve a system of private and commercial customers in North America, went online.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "The Vulcan Street Plant was the first Edison hydroelectric central station. The plant was built on the Fox River in Appleton, Wisconsin, and put into operation on September 30, 1882. According to the American Society of Mechanical Engineers, the Vulcan Street plant is considered to be \"the first hydro-electric central station to serve a system of private and commercial customers in North America\". It is a National Historic Mechanical Engineering Landmark, an IEEE milestone and a National Historic Civil Engineering Landmark."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1833,
-   "text": "The Spanish American wars of independence ended with the death of King Ferdinand VII, with what had once been the Spanish Empire disintegrating into independent Latin American states.",
+   "year": 1863,
+   "text": "Georges Bizet's opera Les pêcheurs de perles premiered at the Théâtre Lyrique in Paris.",
    "context": [
-    "The Spanish American wars of independence were a series of conflicts across the Spanish Empire in the early 19th century. They began shortly after the outbreak of the Peninsular War and formed part of the broader Napoleonic Wars."
+    "Georges Bizet was a French composer of the Romantic era. Best known for his operas in a career cut short by his early death, Bizet achieved few successes before his final work, Carmen, which has become one of the most popular and frequently performed works in the entire opera repertoire."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1760,
-   "text": "The Williamsburg Bray School, the oldest-surviving school building in the U.S. dedicated to educating Black children, opened at Benjamin Franklin's suggestion.",
+   "year": 1791,
+   "text": "Mozart conducted the premiere of his last opera, The Magic Flute, in Vienna.",
    "context": [
-    "The Williamsburg Bray School was a school for free and enslaved Black children founded in 1760 in Williamsburg, Virginia. Opened at Benjamin Franklin's suggestion in 1760, the school educated potentially hundreds of students until its closure in 1774. The house it first occupied is believed to be the \"oldest extant building in the United States dedicated to the education of Black children\"."
+    "Wolfgang Amadeus Mozart was a Classical composer and musician. He completed more than 800 works in his life—including outstanding examples of most of the genres of his time: symphonies, concertos, chamber music, opera and choral music—and is regarded as one of the greatest composers in the history of Western music."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1726,
-   "text": "Johann Sebastian Bach led the first performance of Es erhub sich ein Streit, a cantata for Michaelmas.",
+   "year": 1551,
+   "text": "Sue Takafusa, a retainer of the Ōuchi clan in western Japan, led a coup against the daimyō Ōuchi Yoshitaka, leading to the latter's forced suicide.",
    "context": [
-    "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers in the history of Western music."
+    "Sue Harukata  was a samurai who served as a senior retainer of the Ōuchi clan in the Sengoku period in Japan. He was the second son of Sue Okifusa, a senior retainer of the Ōuchi clan. His childhood name was Goro, and he previously had the name Takafusa."
    ]
   },
   {
    "ref": "wikipedia#17",
-   "year": 1724,
-   "text": "J. S. Bach led the first performance of Herr Gott, dich loben alle wir, BWV 130, based on Paul Eber's hymn in twelve stanzas, for the feast of archangel Michael.",
+   "year": 1342,
+   "text": "An Anglo-Breton army defeated a far larger Franco-Breton force in the first land battle of the Hundred Years' War.",
    "context": [
-    "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers in the history of Western music."
+    "The battle of Morlaix was fought near the village of Lanmeur in Brittany, France, on 30 September 1342 between an Anglo-Breton army and a much larger Franco-Breton force. England, at war with France since 1337 in the Hundred Years' War, had sided with John of Montfort's faction in the Breton Civil War shortly after it broke out in 1341. The French were supporting Charles of Blois, a nephew of the French king."
    ]
   },
   {
    "ref": "wikipedia#18",
-   "year": 1011,
-   "text": "An army of Viking pirates that had besieged the English city of Canterbury for weeks took Archbishop Ælfheah prisoner and seized power.",
+   "year": 1139,
+   "text": "A violent earthquake struck the Caucasus near Ganja, killing up to an estimated 300,000 people.",
    "context": [
-    "The siege of Canterbury was a major Viking raid on the city of Canterbury that occurred between 8 and 29 September 1011, fought between a Viking army led by Thorkell the Tall and the Anglo-Saxon defenders. The details of the siege are largely unknown, and most of the known events were recorded in the Anglo-Saxon Chronicle."
+    "The 1139 Ganja earthquake was one of the worst seismic events in history. It affected the Seljuk Empire and the Kingdom of Georgia, in modern-day Azerbaijan and Georgia. The earthquake had an estimated magnitude of 7.0–7.3 Mw, 7.5 Ms, and 7.7 MLH. A disputed death toll of 230,000–300,000 resulted from this event, making it one of the deadliest earthquakes ever recorded."
+   ]
+  },
+  {
+   "ref": "wikipedia#19",
+   "year": 737,
+   "text": "Muslim conquest of Transoxiana: Türgesh tribesmen attacked and captured the exposed baggage train of the Umayyad army, sent ahead of the main force.",
+   "context": [
+    "Year 737 (DCCXXXVII) was a common year starting on Tuesday of the Julian calendar. The denomination 737 for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming."
    ]
   }
  ],
- "recent_words_and_concepts": []
+ "recent_words_and_concepts": [
+  "Runway (זמן עד אזילת המזומן)",
+  "Dry powder (הון זמין להשקעה)",
+  "Boil the ocean (לנסות לעשות הכל בבת אחת)"
+ ]
 }
 </input>
