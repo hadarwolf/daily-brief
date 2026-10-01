@@ -378,9 +378,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Robertson set to hit 100 Scotland caps - but who else makes top 10?",
-     "published": "2026-10-01T07:35:10+00:00",
-     "summary": "We want you to name the 10 most capped Scotland men's players of all time, with current captain Andy Robertson set to make his 100th national team appearance against North Macedonia on Saturday."
+     "title": "Why one Irish team is set to face Salah's Trabzonspor",
+     "published": "2026-10-01T08:26:55+00:00",
+     "summary": "Drogheda United will travel to Turkey to face Trabzonspor at the 40,000-seat Papara Park as part of a special relationship between the two clubs."
     },
     {
      "ref": "bbc_football#1",
@@ -390,27 +390,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#2",
+     "title": "Robertson set to hit 100 Scotland caps - but who else makes top 10?",
+     "published": "2026-10-01T07:35:10+00:00",
+     "summary": "We want you to name the 10 most capped Scotland men's players of all time, with current captain Andy Robertson set to make his 100th national team appearance against North Macedonia on Saturday."
+    },
+    {
+     "ref": "bbc_football#3",
      "title": "Podcast: What's really happening at Celtic and do Scotland have a goalkeeping problem?",
      "published": "2026-10-01T07:00:00+00:00",
      "summary": "Do Scotland have a goalkeeping problem and Celtic's manager wait."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "We will learn from mistakes made - Hallgrimsson",
      "published": "2026-10-01T06:59:23+00:00",
      "summary": "Republif of Ireland manager Heimir Hallgrimsson says he and the Football Association of Ireland can learn from mistakes around the build-up to Sunday's Israel game as they prepare to face Austria tonight."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Inside Northern Ireland's football conveyor belt",
      "published": "2026-10-01T06:53:47+00:00",
      "summary": "BBC Sport NI spends the day at the IFA JD Academy Residential at Campbell College where Northern Ireland manager Michael O'Neill catches up with the young players hoping to graduate to a full-time career."
-    },
-    {
-     "ref": "bbc_football#5",
-     "title": "Money, family and sexism - why the number of women coaches is dropping",
-     "published": "2026-10-01T06:43:23+00:00",
-     "summary": "Despite recent on-pitch successes and increased media exposure for women's sport in the UK, major barriers remain - particularly in coaching."
     },
     {
      "ref": "bbc_football#6",
@@ -420,51 +420,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#7",
+     "title": "Money, family and sexism - why the number of women coaches is dropping",
+     "published": "2026-10-01T06:43:23+00:00",
+     "summary": "Despite recent on-pitch successes and increased media exposure for women's sport in the UK, major barriers remain - particularly in coaching."
+    },
+    {
+     "ref": "bbc_football#8",
      "title": "Unwell Nygren isolating on international duty - gossip",
      "published": "2026-10-01T06:38:37+00:00",
      "summary": "Celtic midfielder unwell on international duty, Dundee look at free agent market and Arbroath snap up Scotland youth international."
     },
     {
-     "ref": "bbc_football#8",
-     "title": "You are the Scotland boss - what would you do?",
-     "published": "2026-10-01T06:17:32+00:00",
-     "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his first home XI to face North Macedonia."
-    },
-    {
      "ref": "bbc_football#9",
      "title": "You are the Scotland boss - what would you do?",
      "published": "2026-10-01T06:17:32+00:00",
-     "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his first home XI to face North Macedonia."
+     "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his XI to face North Macedonia."
     },
     {
      "ref": "bbc_football#10",
+     "title": "You are the Scotland boss - what would you do?",
+     "published": "2026-10-01T06:17:32+00:00",
+     "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his XI to face North Macedonia."
+    },
+    {
+     "ref": "bbc_football#11",
      "title": "Jaissle learned a lot about life after tumour aged five",
      "published": "2026-10-01T06:00:06+00:00",
      "summary": "Newcastle United head coach Matthias Jaissle could not move his neck at one point, but went on to play before embarking on a coaching career that sees him in Tyneside."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#12",
      "title": "Flex your football brain with our daily quizzes",
      "published": "2026-10-01T05:49:22+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Euro Leagues",
      "published": "2026-10-01T01:00:00+00:00",
      "summary": "How will Pep Guardiola's legacy be impacted?"
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Late drama as Chelsea draw away at Lyon",
      "published": "2026-09-30T21:17:02+00:00",
      "summary": "Chelsea have a penalty overturned by VAR, while Lauren James and Maika Hamano come close to scoring a winner during their 0-0 draw away at Lyon in the Champions League."
-    },
-    {
-     "ref": "bbc_football#14",
-     "title": "Meet the only Scot managing a national team in world football",
-     "published": "2026-09-30T21:01:32+00:00",
-     "summary": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for Scotland in international football - as manager of Dominica's national side."
     },
     {
      "ref": "bbc_football#15",
@@ -474,21 +474,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#16",
+     "title": "Meet the only Scot managing a national team in world football",
+     "published": "2026-09-30T21:01:32+00:00",
+     "summary": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for Scotland in international football - as manager of Dominica's national side."
+    },
+    {
+     "ref": "bbc_football#17",
      "title": "Punish Man City this season, say other club chiefs",
      "published": "2026-09-30T20:38:22+00:00",
      "summary": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Liverpool contenders for Schade - Thursday's gossip",
      "published": "2026-09-30T20:16:03+00:00",
      "summary": "Germany forward Kevin Schade is wanted by Liverpool, Erling Haaland and Phil Foden are among the Manchester City players drawing interest from Europe's top clubs, plus more."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "Classy Hammarby end Rangers' Europa Cup hopes",
-     "published": "2026-09-30T19:53:07+00:00",
-     "summary": "Rangers exit the Europa Cup after last season's finalists Hammarby leave Broadwood Stadium with a three-goal victory on the night to progress 5-0 on aggregate."
     },
     {
      "ref": "bbc_football#19",
@@ -504,27 +504,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#21",
+     "title": "Classy Hammarby end Rangers' Europa Cup hopes",
+     "published": "2026-09-30T19:53:07+00:00",
+     "summary": "Rangers exit the Europa Cup after last season's finalists Hammarby leave Broadwood Stadium with a three-goal victory on the night to progress 5-0 on aggregate."
+    },
+    {
+     "ref": "bbc_football#22",
      "title": "Infantino should have no place in future of football - Pinto",
      "published": "2026-09-30T19:47:40+00:00",
      "summary": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\"."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Ronaldo leaves Portugal camp after coach denies rift",
      "published": "2026-09-30T19:33:07+00:00",
      "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Impossible for England to find another Kane - Tuchel",
      "published": "2026-09-30T19:25:34+00:00",
      "summary": "England boss Thomas Tuchel says it will be impossible to find \"another Harry Kane\" as his free-scoring captain continues to break new ground."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Real Sociedad ease Hearts out of Europa Cup",
-     "published": "2026-09-30T19:04:03+00:00",
-     "summary": "Heart of Midlothian exit the Women's Europa Cup after Real Sociedad sweep to a convincing 4-0 victory in the second leg of their second qualifying round tie."
     }
    ]
   },
@@ -540,9 +540,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
-     "published": "2026-10-01T06:36:01+00:00",
-     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
+     "title": "FIFA Women’s Champions Cup 2027 Final Phase Set For Miami - LEADERSHIP Newspapers",
+     "published": "2026-10-01T07:01:18+00:00",
+     "summary": "FIFA Women’s Champions Cup 2027 Final Phase Set For Miami LEADERSHIP Newspapers"
     },
     {
      "ref": "gnews_inter_miami#2",
@@ -552,135 +552,135 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#3",
-     "title": "FIFA Women’s Champions Cup 2027 Final Phase Set For Miami - LEADERSHIP Newspapers",
-     "published": "2026-10-01T04:30:51+00:00",
-     "summary": "FIFA Women’s Champions Cup 2027 Final Phase Set For Miami LEADERSHIP Newspapers"
-    },
-    {
-     "ref": "gnews_inter_miami#4",
      "title": "GOAL: Ariel Lassiter, Inter Miami CF - 56th minute - MLSsoccer.com",
      "published": "2026-10-01T02:07:08+00:00",
      "summary": "GOAL: Ariel Lassiter, Inter Miami CF - 56th minute MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#5",
-     "title": "Inter Miami’s Late-Goal Problem Is Becoming a Dangerous MLS Trend for Kily González - pasionfutbol.com",
+     "ref": "gnews_inter_miami#4",
+     "title": "Inter Miami’s Late-Goal Problem Is Becoming a Dangerous MLS Trend for Kily González - Pasión Fútbol",
      "published": "2026-09-30T23:30:00+00:00",
-     "summary": "Inter Miami’s Late-Goal Problem Is Becoming a Dangerous MLS Trend for Kily González pasionfutbol.com"
+     "summary": "Inter Miami’s Late-Goal Problem Is Becoming a Dangerous MLS Trend for Kily González Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
+     "title": "David Beckham Backs Kily González as Inter Miami’s New Era Takes Shape - Pasión Fútbol",
+     "published": "2026-09-30T22:45:00+00:00",
+     "summary": "David Beckham Backs Kily González as Inter Miami’s New Era Takes Shape Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#6",
-     "title": "David Beckham Backs Kily González as Inter Miami’s New Era Takes Shape - pasionfutbol.com",
-     "published": "2026-09-30T22:45:00+00:00",
-     "summary": "David Beckham Backs Kily González as Inter Miami’s New Era Takes Shape pasionfutbol.com"
+     "title": "Luis Suárez Uses FIFA Break to Get Back to His Best for Inter Miami’s Playoff Push - Pasión Fútbol",
+     "published": "2026-09-30T22:15:00+00:00",
+     "summary": "Luis Suárez Uses FIFA Break to Get Back to His Best for Inter Miami’s Playoff Push Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#7",
-     "title": "Luis Suárez Uses FIFA Break to Get Back to His Best for Inter Miami’s Playoff Push - pasionfutbol.com",
-     "published": "2026-09-30T22:15:00+00:00",
-     "summary": "Luis Suárez Uses FIFA Break to Get Back to His Best for Inter Miami’s Playoff Push pasionfutbol.com"
-    },
-    {
-     "ref": "gnews_inter_miami#8",
      "title": "MLS Odds: Major League Soccer Betting Lines - FanDuel Sportsbook",
      "published": "2026-09-30T21:24:36+00:00",
      "summary": "MLS Odds: Major League Soccer Betting Lines FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "Cristian Kily Gonzalez Once Lined Up Beside Lionel Messi For Argentina, Now He Is Coaching Him - sports.yahoo.com",
+     "ref": "gnews_inter_miami#8",
+     "title": "Cristian Kily Gonzalez Once Lined Up Beside Lionel Messi For Argentina, Now He Is Coaching Him - Yahoo Sports",
      "published": "2026-09-30T21:02:17+00:00",
-     "summary": "Cristian Kily Gonzalez Once Lined Up Beside Lionel Messi For Argentina, Now He Is Coaching Him sports.yahoo.com"
+     "summary": "Cristian Kily Gonzalez Once Lined Up Beside Lionel Messi For Argentina, Now He Is Coaching Him Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#9",
+     "title": "Inter Miami Has a Major David Ayala Decision to Make as Contract Expiration Approaches - Pasión Fútbol",
+     "published": "2026-09-30T20:31:00+00:00",
+     "summary": "Inter Miami Has a Major David Ayala Decision to Make as Contract Expiration Approaches Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#10",
-     "title": "Inter Miami Has a Major David Ayala Decision to Make as Contract Expiration Approaches - pasionfutbol.com",
-     "published": "2026-09-30T20:31:00+00:00",
-     "summary": "Inter Miami Has a Major David Ayala Decision to Make as Contract Expiration Approaches pasionfutbol.com"
+     "title": "Lionel Messi vs. Santiago Rodríguez: Is a New MLS Rivalry Starting to Take Shape? - Pasión Fútbol",
+     "published": "2026-09-30T20:15:00+00:00",
+     "summary": "Lionel Messi vs. Santiago Rodríguez: Is a New MLS Rivalry Starting to Take Shape? Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#11",
-     "title": "Lionel Messi vs. Santiago Rodríguez: Is a New MLS Rivalry Starting to Take Shape? - pasionfutbol.com",
-     "published": "2026-09-30T20:15:00+00:00",
-     "summary": "Lionel Messi vs. Santiago Rodríguez: Is a New MLS Rivalry Starting to Take Shape? pasionfutbol.com"
+     "title": "2nd edition of Messi Cup to feature 16 elite clubs from around the world - local10.com",
+     "published": "2026-09-30T20:02:40+00:00",
+     "summary": "2nd edition of Messi Cup to feature 16 elite clubs from around the world local10.com"
     },
     {
      "ref": "gnews_inter_miami#12",
-     "title": "2nd edition of Messi Cup to feature 16 elite clubs from around the world - WPLG Local 10",
-     "published": "2026-09-30T20:02:40+00:00",
-     "summary": "2nd edition of Messi Cup to feature 16 elite clubs from around the world WPLG Local 10"
-    },
-    {
-     "ref": "gnews_inter_miami#13",
      "title": "From $25 million MLS bet to $1 billion fortune: How David Beckham built his global business empire - The Times of India",
      "published": "2026-09-30T19:00:00+00:00",
      "summary": "From $25 million MLS bet to $1 billion fortune: How David Beckham built his global business empire The Times of India"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "How Did Messi Score THAT?! All Angles of Stunning Free Kick for Inter Miami - GhanaSoccernet",
      "published": "2026-09-30T18:58:39+00:00",
      "summary": "How Did Messi Score THAT?! All Angles of Stunning Free Kick for Inter Miami GhanaSoccernet"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami Fined by MLS After Mass Confrontation vs. Crew - Hoodline",
      "published": "2026-09-30T18:35:02+00:00",
      "summary": "Inter Miami Fined by MLS After Mass Confrontation vs. Crew Hoodline"
     },
     {
-     "ref": "gnews_inter_miami#16",
-     "title": "Inter Miami’s Economic Boom: The Numbers Behind the MLS Giant’s Financial Transformation - pasionfutbol.com",
+     "ref": "gnews_inter_miami#15",
+     "title": "Inter Miami’s Economic Boom: The Numbers Behind the MLS Giant’s Financial Transformation - Pasión Fútbol",
      "published": "2026-09-30T18:18:00+00:00",
-     "summary": "Inter Miami’s Economic Boom: The Numbers Behind the MLS Giant’s Financial Transformation pasionfutbol.com"
+     "summary": "Inter Miami’s Economic Boom: The Numbers Behind the MLS Giant’s Financial Transformation Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#16",
+     "title": "Inter Miami Wants to Keep Dayne St. Clair as Key Contract Decision Approaches - Pasión Fútbol",
+     "published": "2026-09-30T18:06:00+00:00",
+     "summary": "Inter Miami Wants to Keep Dayne St. Clair as Key Contract Decision Approaches Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#17",
-     "title": "Inter Miami Wants to Keep Dayne St. Clair as Key Contract Decision Approaches - pasionfutbol.com",
-     "published": "2026-09-30T18:06:00+00:00",
-     "summary": "Inter Miami Wants to Keep Dayne St. Clair as Key Contract Decision Approaches pasionfutbol.com"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami CF Announces 2027 Dreams Cup presented by Lowe’s - Inter Miami CF",
      "published": "2026-09-30T17:19:17+00:00",
      "summary": "Inter Miami CF Announces 2027 Dreams Cup presented by Lowe’s Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#19",
-     "title": "Another Blow for Inter Miami? Yannick Bright Suffers Foot Injury at Critical Point of MLS Season - pasionfutbol.com",
+     "ref": "gnews_inter_miami#18",
+     "title": "Another Blow for Inter Miami? Yannick Bright Suffers Foot Injury at Critical Point of MLS Season - Pasión Fútbol",
      "published": "2026-09-30T16:50:00+00:00",
-     "summary": "Another Blow for Inter Miami? Yannick Bright Suffers Foot Injury at Critical Point of MLS Season pasionfutbol.com"
+     "summary": "Another Blow for Inter Miami? Yannick Bright Suffers Foot Injury at Critical Point of MLS Season Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami's Lionel Messi wins Goal of Matchday - MLSsoccer.com",
      "published": "2026-09-30T16:09:00+00:00",
      "summary": "Inter Miami's Lionel Messi wins Goal of Matchday MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#21",
-     "title": "Inter Miami players, coaches fined by MLS due to mass confrontation in loss to Crew - sports.yahoo.com",
+     "ref": "gnews_inter_miami#20",
+     "title": "Inter Miami players, coaches fined by MLS due to mass confrontation in loss to Crew - Yahoo Sports",
      "published": "2026-09-30T16:08:13+00:00",
-     "summary": "Inter Miami players, coaches fined by MLS due to mass confrontation in loss to Crew sports.yahoo.com"
+     "summary": "Inter Miami players, coaches fined by MLS due to mass confrontation in loss to Crew Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
+     "title": "Inter Miami's Lionel Messi wins Goal of Matchday - Yahoo Sports",
+     "published": "2026-09-30T16:05:00+00:00",
+     "summary": "Inter Miami's Lionel Messi wins Goal of Matchday Yahoo Sports"
     },
     {
      "ref": "gnews_inter_miami#22",
-     "title": "Inter Miami's Lionel Messi wins Goal of Matchday - sports.yahoo.com",
-     "published": "2026-09-30T16:05:00+00:00",
-     "summary": "Inter Miami's Lionel Messi wins Goal of Matchday sports.yahoo.com"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
      "title": "MLS: Columbus defeats Inter Miami thanks to Thiaré - Benin Web TV",
      "published": "2026-09-30T15:27:25+00:00",
      "summary": "MLS: Columbus defeats Inter Miami thanks to Thiaré Benin Web TV"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami CF Academy U-13s to Compete in LALIGA FC FUTURES International Tournament - Inter Miami CF",
      "published": "2026-09-30T14:43:43+00:00",
      "summary": "Inter Miami CF Academy U-13s to Compete in LALIGA FC FUTURES International Tournament Inter Miami CF"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "MLS Announces Punishment Decision for Inter Miami, Coach Kily Gonzalez & 5 Players After \"Mass Confrontation\" - Athlon Sports",
+     "published": "2026-09-30T12:43:00+00:00",
+     "summary": "MLS Announces Punishment Decision for Inter Miami, Coach Kily Gonzalez & 5 Players After \"Mass Confrontation\" Athlon Sports"
     }
    ]
   },
@@ -738,105 +738,105 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#8",
-     "title": "OPB’s First Look: The Blazers are back - Oregon Public Broadcasting - OPB",
-     "published": "2026-09-29T16:26:44+00:00",
-     "summary": "OPB’s First Look: The Blazers are back Oregon Public Broadcasting - OPB"
-    },
-    {
-     "ref": "gnews_israeli_nba#9",
      "title": "Blazers’ Damian Lillard, Deni Avdija break silence on ownership’s Moda Center drama amid relocation fears - ClutchPoints",
      "published": "2026-09-29T16:26:22+00:00",
      "summary": "Blazers’ Damian Lillard, Deni Avdija break silence on ownership’s Moda Center drama amid relocation fears ClutchPoints"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#9",
      "title": "The Persian leopard named after the NBA star arrives at the Safari - The Jerusalem Post",
      "published": "2026-09-29T07:48:19+00:00",
      "summary": "The Persian leopard named after the NBA star arrives at the Safari The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "Aday Mara praises childhood idols: “Gasol brothers were super impactful” - Eurohoops",
      "published": "2026-09-29T06:53:20+00:00",
      "summary": "Aday Mara praises childhood idols: “Gasol brothers were super impactful” Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Mario Hezonja details NBA return: “It was always bothering me” - Eurohoops",
      "published": "2026-09-29T06:15:03+00:00",
      "summary": "Mario Hezonja details NBA return: “It was always bothering me” Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija puts injury concerns to rest: “99.9% good and ready” - Eurohoops",
      "published": "2026-09-29T05:59:00+00:00",
      "summary": "Deni Avdija puts injury concerns to rest: “99.9% good and ready” Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija | 2026‑27 Media Day - NBA.com",
      "published": "2026-09-29T01:15:46+00:00",
      "summary": "Deni Avdija | 2026‑27 Media Day NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Blazers optimistic that roster balance will ‘work itself out’ as season looms - Oregon Public Broadcasting - OPB",
      "published": "2026-09-29T00:26:05+00:00",
      "summary": "Blazers optimistic that roster balance will ‘work itself out’ as season looms Oregon Public Broadcasting - OPB"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Blazers Injury Update: What Sharpe, Lillard Said at Media Day - Sports Illustrated",
      "published": "2026-09-29T00:00:00+00:00",
      "summary": "Blazers Injury Update: What Sharpe, Lillard Said at Media Day Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#16",
      "title": "Blazers need to start treating Deni Avdija like the face of the franchise - Rip City Project",
      "published": "2026-09-28T23:53:48+00:00",
      "summary": "Blazers need to start treating Deni Avdija like the face of the franchise Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija (back) ’99.9 percent’ going into camp - NBC Sports",
      "published": "2026-09-28T22:07:14+00:00",
      "summary": "Deni Avdija (back) ’99.9 percent’ going into camp NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#18",
      "title": "Nets Media Day Basketball - Idaho State Journal",
      "published": "2026-09-28T21:45:25+00:00",
      "summary": "Nets Media Day Basketball Idaho State Journal"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija | 2026-27 Media Day | Portland Trail Blazers - BVM Sports",
      "published": "2026-09-28T20:25:10+00:00",
      "summary": "Deni Avdija | 2026-27 Media Day | Portland Trail Blazers BVM Sports"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#20",
      "title": "Trail Blazers Media Day: Deni Avdija Says Back is OK - Blazer's Edge",
      "published": "2026-09-28T18:40:37+00:00",
      "summary": "Trail Blazers Media Day: Deni Avdija Says Back is OK Blazer's Edge"
     },
     {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Deni Avdija on contract extension talks and future: \"I … - sports.yahoo.com",
+     "ref": "gnews_israeli_nba#21",
+     "title": "Deni Avdija on contract extension talks and future: \"I … - Yahoo Sports",
      "published": "2026-09-28T18:39:57+00:00",
-     "summary": "Deni Avdija on contract extension talks and future: \"I … sports.yahoo.com"
+     "summary": "Deni Avdija on contract extension talks and future: \"I … Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#22",
+     "title": "Deni Avdija on ownership/arena drama: \"I love the city … - Yahoo Sports",
+     "published": "2026-09-28T18:13:55+00:00",
+     "summary": "Deni Avdija on ownership/arena drama: \"I love the city … Yahoo Sports"
     },
     {
      "ref": "gnews_israeli_nba#23",
-     "title": "Deni Avdija on ownership/arena drama: \"I love the city … - sports.yahoo.com",
-     "published": "2026-09-28T18:13:55+00:00",
-     "summary": "Deni Avdija on ownership/arena drama: \"I love the city … sports.yahoo.com"
+     "title": "Deni Avdija | Portland Trail Blazers Media Day interviews - kgw.com",
+     "published": "2026-09-28T18:13:00+00:00",
+     "summary": "Deni Avdija | Portland Trail Blazers Media Day interviews kgw.com"
     },
     {
      "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija | Portland Trail Blazers Media Day interviews - KGW",
-     "published": "2026-09-28T18:13:00+00:00",
-     "summary": "Deni Avdija | Portland Trail Blazers Media Day interviews KGW"
+     "title": "Deni Avdija says he's 99.9% recovered from back injuries - Yahoo Sports",
+     "published": "2026-09-28T18:09:59+00:00",
+     "summary": "Deni Avdija says he's 99.9% recovered from back injuries Yahoo Sports"
     }
    ]
   }
