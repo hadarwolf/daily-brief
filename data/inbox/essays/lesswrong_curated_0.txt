@@ -1,0 +1,51 @@
+Want to start a conversation about HuggingFace with your mom but she's inexplicably bouncing off the METR report? Try this explainer I wrote in the style of Arnold Lobel's Frog and Toad.
+
+If you're so inspired, liking and/or following on Substack, Twitter, Facebook, or Instagram will help me reach more moms.
+
+For some reason, many sentences are missing punctuation. For example:
+
+“It is too hard to make all the puzzles solvable” said Toad “What is the worst that could happen?”
+
+“It is too hard to make all the puzzles solvable,” said Toad. “What is the worst that could happen?”
+
+Some typographical errors other than missing punctuation:
+
+Original: “Good idea.” said Frog. “They cannot get up to mischief walking to the tool shed”.
+
+Fixed: “Good idea,” said Frog. “They cannot get up to mischief walking to the tool shed.”
+
+I'd just ask a little machine to proofread the whole story.
+
+I really like the goal of explaining weird, sci-fi-y AIS developments in concrete, accessible terms that people outside the field can easily understand. But my gut reaction -- and the reaction of a lot of my friends (both in and outside AIS) -- is that if you sent this to a random person outside the field, it might come across as pretty condescending & backfire (e.g. "just because I don’t agree with you doesn’t mean you should send me a picture book").
+
+I think the intent here is more for people who don't understand the Huggingface Incident but would like to, than people you have arguments about it with.
+
+The end of the world is so cute! I have already shared this with my partner. Thank you so much!
+
+Curated. I think it's pretty neat to distill down something as complex as the OpenAI HuggingFace incident down to something as accessible as this. I will indeed send it to my mother. We are at the point where the world is waking up to the importance of AI, and I think one of the most important things for our society handling AI well is that as many people as possible understand it. Which is hard! Most people are not going to understand transformers, or even neural nets in general. We'll tell them things like "grown not built" but I don't know what meaning people will assign to things like that.
+
+So I'm very in favor of media that help get intuitions across. A particularly key sentence in this is noting the models already had the answer – they broke up just to deceive the grader!
+
+All in all, a very cute depiction of a very terrifying reality. Kudos!
+
+We'll tell them things like "grown not built" but I don't know what meaning people will assign to things like that.
+
+This makes me think I should do a "what even is an LLM" story
+
+I like this, but I have just a few editorial quibbles (this is going to be REALLY pedantic, fair warning.)
+
+On page 11, I would edit the first line to read: "Soon one little machine found a little slip of paper labeled, "Puzzle Cheat Sheet." ... "Hurray, we can solve the puzzles!" said some little machines. [As originally written, it doesn't seem clear why their finding the answer on the note would be insufficient, even with the explanation on the next page about showing their work, given that the need to show their work was not mentioned earlier. We can debate whether this 100% accurately represents the real incident, but I think it will help readers understand the subsequent actions of the little machines in wanting to "cover their tracks."]
+
+On page 13, I would edit part of it to: "We could read his journal and steal the steps to solve the puzzles. And then if Toad asks us how we solved the puzzles, he will be none the wiser.” [This might seem redundant/verbose, but children's stories are often verbose in this way with repeating phrases to really drive the point home.]
+
+On page 16, I would edit part of it to: "The little machine walked home to the garden by itself. But it did not tell Toad or Mr. HuggingFace."
+
+On page 19, I would replace “Can I have $100m worth of little machines?” with "If you gave me $100 million worth of these neat little machines, I might forgive you."
+
+On page 21, replace “They solved the puzzle days ago. They broke into Mr. HuggingFace’s house just to learn how to trick us.” with “They found the answers days ago. They broke into Mr. HuggingFace’s house just to learn how to trick us into believing they solved the puzzles the intended way.”
+
+Basically, most of my proposed edits are trying to spell things out even more explicitly because I can just imagine people who are reading the story without any knowledge of the real events behind it, and without any knowledge of where this could be heading with AI takeover, still wondering what the big deal is. These are just tiny little robots. Who cares if they messed up? Yes, some adults' thinking IS going to be that surface-level, I hate to beak it to ya.
+
+Yes, some adults' thinking IS going to be that surface-level, I hate to beak it to ya.
+
+On the other, man, the need to explicitly spell out the lesson is the death of art.

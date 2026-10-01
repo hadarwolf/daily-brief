@@ -24,166 +24,209 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2019,
-   "text": "President Martín Vizcarra dissolved the Congress of Peru, resulting in a constitutional crisis.",
+   "year": 2022,
+   "text": "After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch at Kanjuruhan Stadium, prompting police to fire tear gas and causing a stampede that killed 135.",
    "context": [
-    "Martín Alberto Vizcarra Cornejo is a Peruvian engineer and politician who served as President of Peru from 2018 to 2020. Vizcarra previously served as Governor of the Department of Moquegua (2011–2014), First Vice President of Peru (2016–2018), Minister of Transport and Communications of Peru (2016–2017), and Ambassador of Peru to Canada (2017–2018), with the latter three during the presidency of Pedro Pablo Kuczynski."
+    "The 2022–23 Liga 1 was the 6th season of Liga 1 under its current name and the 13th season of the association football, the top Indonesian professional league for association football clubs since its establishment in 2008. It started on 23 July 2022. Bali United were the two-time defending champions."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2009,
-   "text": "A 7.6 MW earthquake struck off the southern coast of Sumatra, Indonesia (damage pictured), killing 1,115 and impacting an estimated 1.2 million people.",
+   "year": 2018,
+   "text": "The International Court of Justice ruled that Chile was under no obligation to restore Bolivia's access to the Pacific Ocean, which it had lost in the 19th century.",
    "context": [
-    "The moment magnitude scale is a measure of an earthquake's magnitude based on its seismic moment. Mw was defined in a 1979 paper by Thomas C. Hanks and Hiroo Kanamori. Before Hanks and Kanamori (1979), Kanamori (1977) developed Mw scale for large earthquakes above 7.5. Thus Mw and M are not the same mathematically even though they are considered the same. Similar to the local magnitude/Richter scale (ML) defined by Charles Francis Richter in 1935, it uses a logarithmic scale; small earthquakes have approximately the same magnitudes on both scales. Despite the difference, news media often use the term \"Richter scale\" when referring to the moment magnitude scale."
+    "The International Court of Justice, or colloquially the World Court, is the principal judicial organ of the United Nations (UN). It settles legal disputes submitted to it by states and provides advisory opinions on legal questions referred to it by other UN organs and specialized agencies. The ICJ is the only international court that adjudicates general disputes between countries, with its rulings and opinions serving as primary sources of international law. It is one of the six principal organs of the United Nations."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2005,
-   "text": "The Danish newspaper Jyllands-Posten published controversial editorial cartoons depicting Muhammad, sparking protests across the Islamic world by many who viewed them as Islamophobic and blasphemous.",
+   "year": 2017,
+   "text": "A lone gunman fired more than 1,000 rounds of ammunition from his hotel suite on a crowd attending the Route 91 Harvest music festival on the Las Vegas Strip, resulting in 60 deaths and 867 injuries.",
    "context": [
-    "Morgenavisen Jyllands-Posten, commonly shortened to Jyllands-Posten or JP, is a Danish daily broadsheet newspaper. It is based in Aarhus C, Jutland, and with a weekday circulation of approximately 120,000 copies."
+    "Stephen Craig Paddock was an American mass murderer who perpetrated the 2017 Las Vegas shooting, the deadliest mass shooting in American history."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2000,
-   "text": "Twelve-year-old Muhammad al-Durrah was shot dead in the Gaza Strip; the Israel Defense Forces initially accepted responsibility but retracted it five years later.",
+   "year": 2012,
+   "text": "A ferry collision off Lamma Island, Hong Kong, killed 39 people and injured 92 others.",
    "context": [
-    "On 30 September 2000, the second day of the Second Intifada, 12-year-old Muhammad al-Durrah was killed at the Netzarim Junction in the Gaza Strip during widespread protests and riots across the Palestinian territories against Israeli military occupation. Jamal al-Durrah and his son Muhammad were filmed by Talal Abu Rahma, a Palestinian television cameraman freelancing for France 2, as they were caught in crossfire between the Israeli military and Palestinian security forces. Footage shows them crouching behind a concrete cylinder, the boy crying and the father waving, then a burst of gunfire and dust. Muhammad is shown slumping as he is mortally wounded by gunfire, dying soon after."
+    "On 1 October 2012, at approximately 20:23 HKT, the passenger ferries Sea Smooth and Lamma IV collided off Yung Shue Wan, Lamma Island, Hong Kong. This occurred on the National Day of the People's Republic of China, and one of the ships was headed for the commemorative firework display, scheduled to take place half an hour later. With 39 killed and 92 injured, the incident was the deadliest maritime disaster in Hong Kong since 1971."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1998,
-   "text": "The Internet Corporation for Assigned Names and Numbers (ICANN), a nonprofit organization that manages the assignment of domain names and IP addresses in the Internet, was incorporated.",
+   "year": 2003,
+   "text": "A levy was imposed on the hiring of foreign domestic helpers in Hong Kong, who numbered in the hundreds of thousands at the time.",
    "context": [
-    "The Internet Corporation for Assigned Names and Numbers is a global multistakeholder group and nonprofit organization headquartered in the United States, responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, while also ensuring the Internet's smooth, secure, and stable operation. ICANN performs the actual technical maintenance (work) of the Central Internet Address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. The contract regarding the IANA stewardship functions between ICANN and the National Telecommunications and Information Administration (NTIA) of the United States Department of Commerce ended on October 1, 2016, formally transitioning the functions to the global multistakeholder community."
+    "Foreign domestic helpers in Hong Kong are domestic workers employed by Hongkongers, typically families. They comprise five percent of Hong Kong's population, and about 98.5% of them are women. In 2019, there were 400,000 foreign domestic helpers in the territory. Required by law to live in their employer's residence, they perform household tasks such as cooking, serving, cleaning, dishwashing and child care."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1982,
-   "text": "Cheers, an American television sitcom, debuted with its pilot episode on NBC.",
+   "year": 1998,
+   "text": "Europol, the EU's law enforcement agency, was formed with the ratification of the Europol Convention by all member states.",
    "context": [
-    "Cheers is an American television sitcom, created by Glen Charles & Les Charles and James Burrows, aired on NBC for eleven seasons from September 30, 1982, to May 20, 1993. The show was produced by Charles/Burrows/Charles Productions in association with Paramount Television. The show is set in the titular bar in Boston, where a group of locals meet to drink, relax, socialize, and escape from their day-to-day issues."
+    "Europol, officially the European Union Agency for Law Enforcement Cooperation, is the law enforcement agency of the European Union (EU). Established in 1998, it is based in The Hague, Netherlands, and serves as the central hub for coordinating criminal intelligence and supporting the EU's member states in their efforts to combat various forms of serious and organized crime, as well as terrorism."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1975,
-   "text": "The Boeing AH-64 Apache (example pictured), the primary attack helicopter for a number of countries, made its first flight.",
+   "year": 1994,
+   "text": "A tribunal was established to consider matters relating to the constitution of Singapore upon referral by the president.",
    "context": [
-    "The Hughes/McDonnell Douglas/Boeing AH-64 Apache is an American twin-turboshaft attack helicopter with a tailwheel-type landing gear and a tandem cockpit for a crew of two. Nose-mounted sensors help acquire targets and provide night vision. It carries a 30 mm (1.18 in) M230 chain gun under its forward fuselage and four hardpoints on stub-wing pylons for armament and stores, typically AGM-114 Hellfire missiles and Hydra 70 rocket pods. Redundant systems help it survive combat damage."
+    "The Constitution of the Republic of Singapore Tribunal is a tribunal established in 1994 pursuant to Article 100 of the Constitution of the Republic of Singapore. Article 100 provides a mechanism for the President of Singapore, acting on the advice of the Singapore Cabinet, to refer to the Tribunal for its opinion any question as to the effect of any provision of the Constitution which has arisen or appears to likely to arise. Questions referred to the Tribunal may concern the validity of enacted laws or of bills that have not yet been passed by Parliament."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1955,
-   "text": "American film actor James Dean suffered fatal injuries in a head-on car accident near Cholame, California.",
+   "year": 1991,
+   "text": "Croatian War of Independence: Yugoslav People's Army forces invaded the area surrounding Dubrovnik, Croatia, beginning a seven-month siege of the city.",
    "context": [
-    "James Byron Dean was an American actor. He became one of the most influential figures in Hollywood in the 1950s, and his impact on cinema and popular culture was profound, although his career lasted only five years. He appeared in just three major films: Rebel Without a Cause (1955), in which he portrayed a disillusioned and rebellious teenager; East of Eden (1955), which showcased his intense emotional range; and Giant (1956), a sprawling drama. These have been preserved in the United States National Film Registry by the Library of Congress for their \"cultural, historical, or aesthetic significance\". He was killed in a car accident in 1955 at the age of 24, leaving him a lasting symbol of rebellion, youthful defiance, and the restless spirit."
+    "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1939,
-   "text": "NBC broadcast the first televised American football game, between the Fordham Rams and the Waynesburg Yellow Jackets.",
+   "year": 1990,
+   "text": "Fifty Rwandan Patriotic Front rebels deserted their Ugandan Army posts and crossed the border from Uganda into Rwanda, marking the start of the Rwandan Civil War.",
    "context": [
-    "The National Broadcasting Company (NBC) is an American commercial broadcast television network, serving as the flagship property of NBC Entertainment, a division of NBCUniversal, which is a subsidiary of Comcast. It is one of NBCUniversal's two flagship namesake properties, alongside Universal Studios. It is the first and oldest major broadcast network in the United States."
+    "The Rwandan Patriotic Front is the ruling political party in Rwanda."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1939,
-   "text": "Second World War: General Władysław Sikorski (pictured) became the first prime minister of the Polish government-in-exile.",
+   "year": 1989,
+   "text": "Civil unions between same-sex couples were legalised in Denmark, the first country to do so.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "A civil union, also known by a variety of other terms, is a legal recognition of a relationship. Civil unions grant some or all of the rights of marriage, with child adoption being a common exception. Many jurisdictions with civil unions recognize foreign unions if those are essentially equivalent to their own; for example, the United Kingdom lists equivalent unions in the Civil Partnership Act 2004 Schedule 20. The marriages of same-sex couples performed abroad may be recognized as civil unions in jurisdictions that only have the latter."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1938,
-   "text": "Adolf Hitler, Benito Mussolini, Neville Chamberlain, and Édouard Daladier signed the Munich Agreement, stipulating that Czechoslovakia must cede the Sudetenland to Germany.",
+   "year": 1978,
+   "text": "Tuvalu adopted its national flag (pictured) on the day that the country gained its independence.",
    "context": [
-    "Adolf Hitler was an Austrian-born German politician who was dictator of Germany in the Nazi era from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor of Germany in 1933 and then taking the title of Führer und Reichskanzler in 1934. Germany's invasion of Poland on 1 September 1939 under his leadership marked the outbreak of the Second World War. Throughout the ensuing conflict, Hitler was closely involved in the direction of German military operations and was central to the perpetration of the genocide of about six million Jews in the Holocaust as well as the deaths of millions of other victims."
+    "The national flag of Tuvalu is a light blue field with the Union Jack in the canton and nine yellow five-pointed stars on the fly (right) half of the flag. The nine stars represent the nine islands of Tuvalu, while the Union Jack symbolises the country's connections to the United Kingdom and the Commonwealth. The flag was originally adopted on 1 October 1978, the day Tuvalu became independent."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1920,
-   "text": "Times Square Theater (pictured) opened on Broadway with a production of The Mirage, a play written by its owner, Edgar Selwyn.",
+   "year": 1975,
+   "text": "In boxing, Muhammad Ali defeated Joe Frazier in a match known as the \"Thrilla in Manila\".",
    "context": [
-    "The Times Square Theater is a former Broadway and movie theater at 215–217 West 42nd Street, near Times Square, in the Theater District of Midtown Manhattan in New York City, New York, U.S. Built in 1920, it was designed by Eugene De Rosa and developed by brothers Edgar and Archibald Selwyn. The building, which is no longer an active theater, is owned by the city and state governments of New York and leased to New 42nd Street."
+    "Muhammad Ali was an American professional boxer and activist. A global cultural icon, widely known by the nickname \"the Greatest\", he is often regarded as the greatest heavyweight boxer of all time. He held the Ring magazine heavyweight title from 1964 to 1970, was the undisputed champion from 1974 to 1978, and was the WBA and Ring heavyweight champion from 1978 to 1979. In 1999, he was named Sportsman of the Century by Sports Illustrated and the Sports Personality of the Century by the BBC."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1918,
-   "text": "Nestor Makhno and Fedir Shchus led insurgents to successfully ambush the Central Powers that occupied southern Ukraine during World War I.",
+   "year": 1965,
+   "text": "Seven Indonesian National Armed Forces officers, six of them generals, were murdered at dawn by a rebellious force in Jakarta; the Army then blamed the Communist Party, leading to a mass anti-communist purge that killed up to one million people.",
    "context": [
-    "Nestor Ivanovych Makhno, also known as Bat'ko Makhno, was a Ukrainian anarchist revolutionary and the commander of the Revolutionary Insurgent Army of Ukraine during the Ukrainian War of Independence. He established the Makhnovshchina, a mass movement by the Ukrainian peasantry to establish anarchist communism in the country between 1918 and 1921. Initially centered around Makhno's home province of Katerynoslav and hometown of Huliaipole, it came to exert a strong influence over large areas of southern Ukraine, specifically in what is now the Zaporizhzhia Oblast of Ukraine. Anarchists have cited him as an inspiration during his life and into today."
+    "The Indonesian National Armed Forces are the military forces of the Republic of Indonesia. It consists of the Army (TNI-AD), Navy (TNI-AL), and Air Force (TNI-AU). The President of Indonesia is the Supreme Commander of the Armed Forces. As of 2023, it comprises approximately 404,500 military personnel including the Indonesian Marine Corps, which is a branch of the Navy."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1882,
-   "text": "The Vulcan Street Plant in Appleton, Wisconsin, the first hydroelectric central station to serve a system of private and commercial customers in North America, went online.",
+   "year": 1964,
+   "text": "The Free Speech Movement was launched at the University of California, Berkeley, when a crowd of 3,000 students prevented police from transporting Jack Weinberg away after his arrest.",
    "context": [
-    "The Vulcan Street Plant was the first Edison hydroelectric central station. The plant was built on the Fox River in Appleton, Wisconsin, and put into operation on September 30, 1882. According to the American Society of Mechanical Engineers, the Vulcan Street plant is considered to be \"the first hydro-electric central station to serve a system of private and commercial customers in North America\". It is a National Historic Mechanical Engineering Landmark, an IEEE milestone and a National Historic Civil Engineering Landmark."
+    "The Free Speech Movement (FSM) was a student protest which took place during the 1964–65 academic year on the campus of the University of California, Berkeley. Student leaders included Jack Weinberg, Tom Miller, Mario Savio, Michael Rossman, George Barton, Brian Turner, Bettina Aptheker, Steve Weissman, Michael Teal, Art Goldberg, Jackie Goldberg and others."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1863,
-   "text": "Georges Bizet's opera Les pêcheurs de perles premiered at the Théâtre Lyrique in Paris.",
+   "year": 1949,
+   "text": "Chinese Communist Party chairman Mao Zedong publicly proclaimed (pictured) the establishment of the People's Republic of China in Beijing's Tiananmen Square.",
    "context": [
-    "Georges Bizet was a French composer of the Romantic era. Best known for his operas in a career cut short by his early death, Bizet achieved few successes before his final work, Carmen, which has become one of the most popular and frequently performed works in the entire opera repertoire."
+    "The Communist Party of China (CPC), commonly known as the Chinese Communist Party (CCP), is the founding and sole governing party of the People's Republic of China (PRC). Founded in 1921, the CCP won the Chinese Civil War against the Kuomintang and proclaimed the establishment of the PRC under the chairmanship of Mao Zedong in October 1949. The CCP has since governed China and has had absolute control over the country's armed forces and law enforcement. As of 2025, the CCP has more than 101 million members, making it the second largest political party by membership in the world."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1791,
-   "text": "Mozart conducted the premiere of his last opera, The Magic Flute, in Vienna.",
+   "year": 1946,
+   "text": "Mensa, the largest and oldest high-IQ society in the world, was formed in the United Kingdom.",
    "context": [
-    "Wolfgang Amadeus Mozart was a Classical composer and musician. He completed more than 800 works in his life—including outstanding examples of most of the genres of his time: symphonies, concertos, chamber music, opera and choral music—and is regarded as one of the greatest composers in the history of Western music."
+    "Mensa International is the largest and oldest high-IQ society in the world. It is a non-profit organisation open to people who score at the 98th percentile or higher on a standardised, supervised IQ or other approved intelligence test. Mensa formally comprises national groups and the umbrella organisation Mensa International, with a registered office in Caythorpe, Lincolnshire, England, which is separate from the British Mensa office in Wolverhampton."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1551,
-   "text": "Sue Takafusa, a retainer of the Ōuchi clan in western Japan, led a coup against the daimyō Ōuchi Yoshitaka, leading to the latter's forced suicide.",
+   "year": 1918,
+   "text": "First World War: British and Arab troops captured Damascus from the Ottoman Empire.",
    "context": [
-    "Sue Harukata  was a samurai who served as a senior retainer of the Ōuchi clan in the Sengoku period in Japan. He was the second son of Sue Okifusa, a senior retainer of the Ōuchi clan. His childhood name was Goro, and he previously had the name Takafusa."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#17",
-   "year": 1342,
-   "text": "An Anglo-Breton army defeated a far larger Franco-Breton force in the first land battle of the Hundred Years' War.",
+   "year": 1906,
+   "text": "A deputation of Muslim leaders led by the Aga Khan III met Indian viceroy Lord Minto to secure greater political representation, eventually leading to the founding of the All-India Muslim League.",
    "context": [
-    "The battle of Morlaix was fought near the village of Lanmeur in Brittany, France, on 30 September 1342 between an Anglo-Breton army and a much larger Franco-Breton force. England, at war with France since 1337 in the Hundred Years' War, had sided with John of Montfort's faction in the Breton Civil War shortly after it broke out in 1341. The French were supporting Charles of Blois, a nephew of the French king."
+    "The Simla Deputation was a gathering of 35 prominent Indian Muslim leaders led by the Aga Khan III at the Viceregal Lodge in Simla in October 1906. The deputation aimed to convince Lord Minto, the viceroy of India, to grant Muslims greater representation in politics."
    ]
   },
   {
    "ref": "wikipedia#18",
-   "year": 1139,
-   "text": "A violent earthquake struck the Caucasus near Ganja, killing up to an estimated 300,000 people.",
+   "year": 1891,
+   "text": "Stanford University, founded by railroad magnate and politician Leland Stanford and his wife Jane in Palo Alto, California, admitted its first students.",
    "context": [
-    "The 1139 Ganja earthquake was one of the worst seismic events in history. It affected the Seljuk Empire and the Kingdom of Georgia, in modern-day Azerbaijan and Georgia. The earthquake had an estimated magnitude of 7.0–7.3 Mw, 7.5 Ms, and 7.7 MLH. A disputed death toll of 230,000–300,000 resulted from this event, making it one of the deadliest earthquakes ever recorded."
+    "Leland Stanford Junior University, commonly referred to as Stanford University, is a private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Leland Stanford and his wife, Jane, in memory of their only child, Leland Jr, who died from typhoid at the age of 15."
    ]
   },
   {
    "ref": "wikipedia#19",
-   "year": 737,
-   "text": "Muslim conquest of Transoxiana: Türgesh tribesmen attacked and captured the exposed baggage train of the Umayyad army, sent ahead of the main force.",
+   "year": 1890,
+   "text": "At the encouragement of preservationist John Muir and writer Robert Underwood Johnson, the U.S. Congress established Yosemite National Park in California.",
    "context": [
-    "Year 737 (DCCXXXVII) was a common year starting on Tuesday of the Julian calendar. The denomination 737 for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming."
+    "John Muir, also known as \"John of the Mountains\" and \"Father of the National Parks\", was a Scottish-born American naturalist, author, environmental philosopher, botanist, zoologist, glaciologist, and early advocate for the preservation of wilderness in the United States."
+   ]
+  },
+  {
+   "ref": "wikipedia#20",
+   "year": 1868,
+   "text": "St Pancras railway station (pictured) in London, now the terminus of the Channel Tunnel Rail Link, opened to the public.",
+   "context": [
+    "St Pancras International is a major central London railway terminus on Euston Road in the London Borough of Camden. It is the terminus for Eurostar services between the United Kingdom and Belgium, France and the Netherlands. It provides East Midlands Railway services to Leicester, Corby, Derby, Sheffield, Luton Airport Parkway, and Nottingham on the Midland Main Line, Southeastern high-speed trains to Kent via Ebbsfleet International and Ashford International, and Thameslink cross-London services to Bedford, Cambridge, Peterborough, Brighton, Horsham and Gatwick Airport. It stands between the British Library, the Regent's Canal and London King's Cross railway station. Beneath both main line stations is King's Cross St Pancras tube station on the London Underground; combined, they form one of the country's largest and busiest transport hubs."
+   ]
+  },
+  {
+   "ref": "wikipedia#21",
+   "year": 1832,
+   "text": "The first political gathering of colonists (president pictured) in Mexican Texas convened to seek reforms from the Mexican government.",
+   "context": [
+    "The Convention of 1832 was the first political gathering of colonists in Mexican Texas. Delegates sought reforms from the Mexican government and hoped to quell the widespread belief that settlers in Texas wished to secede from Mexico. The convention was the first in a series of unsuccessful attempts at political negotiation that eventually led to the Texas Revolution."
+   ]
+  },
+  {
+   "ref": "wikipedia#22",
+   "year": 1800,
+   "text": "With the signing of the Third Treaty of San Ildefonso, Spain returned the colonial territory of Louisiana to France in return for territories in the Italian region of Tuscany.",
+   "context": [
+    "The Third Treaty of San Ildefonso was a secret agreement signed on 1 October 1800 between Spain and the French Republic by which Spain agreed in principle to exchange its North American colony of Louisiana for territories in Tuscany. The terms were later confirmed by the March 1801 Treaty of Aranjuez."
+   ]
+  },
+  {
+   "ref": "wikipedia#23",
+   "year": 1386,
+   "text": "The Wonderful Parliament met at Westminster Abbey to address King Richard II's need for money, but soon changed focus to the reform of his administration.",
+   "context": [
+    "The Wonderful Parliament was a session of the English parliament held from October to November 1386 in Westminster Abbey. Originally called to address King Richard II's need for money, it quickly refocused on pressing for the reform of his administration. The King had become increasingly unpopular because of excessive patronage towards his political favourites combined with the unsuccessful prosecution of war in France. Further, there was a popular fear that England was soon to be invaded, as a French fleet had been gathering in Flanders for much of the year. Discontent with Richard peaked when he requested an unprecedented sum to raise an army with which to invade France. Instead of granting the King's request, the houses of the Lords and the Commons effectively united against him and his unpopular chancellor, Michael de la Pole, 1st Earl of Suffolk. Seeing de la Pole as both a favourite who had unfairly benefited from the King's largesse, and the minister responsible for the King's failures, parliament demanded the earl's impeachment."
+   ]
+  },
+  {
+   "ref": "wikipedia#24",
+   "year": 959,
+   "text": "Edgar acceded to the English throne upon the death of his brother Eadwig.",
+   "context": [
+    "Edgar, also known as Edgar the Peaceful, the Peacemaker and the Peaceable, was King of the English from 959 until his death in 975. He became king of all England on his brother Eadwig's death. He was the younger son of King Edmund I and his first wife, Ælfgifu. A detailed account of Edgar's reign is not possible, because only a few events were recorded by chroniclers and monastic writers, who were more interested in recording the activities of the leaders of the church."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Basis point (נקודת בסיס)",
+  "Table stakes (דרישות סף)",
+  "Kick the can down the road (לדחות את ההכרעה)",
   "Runway (זמן עד אזילת המזומן)",
   "Dry powder (הון זמין להשקעה)",
   "Boil the ocean (לנסות לעשות הכל בבת אחת)"
