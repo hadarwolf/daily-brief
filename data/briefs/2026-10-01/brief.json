@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T08:18:19+00:00",
+  "order": [
+    "sports",
+    "geopolitics",
+    "israeli_politics",
+    "business",
+    "ideas",
+    "learn"
+  ],
+  "match_day": {
+    "is_match_day": true,
+    "events": [
+      {
+        "sport": "soccer",
+        "competition": "UEFA Nations League",
+        "home": "Israel",
+        "away": "Kosovo",
+        "kickoff_utc": "2026-10-01T18:45:00"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "sports",
+      "title_en": "Sports",
+      "title_he": "ספורט",
+      "default_lang": "en",
+      "file": "sports.json"
+    },
+    {
+      "id": "geopolitics",
+      "title_en": "Geopolitics",
+      "title_he": "גיאופוליטיקה",
+      "default_lang": "en",
+      "file": "geopolitics.json"
+    },
+    {
+      "id": "israeli_politics",
+      "title_en": "Israeli Politics",
+      "title_he": "פוליטיקה ישראלית",
+      "default_lang": "he",
+      "file": "israeli_politics.json"
+    },
+    {
+      "id": "business",
+      "title_en": "Business & Economics",
+      "title_he": "עסקים וכלכלה",
+      "default_lang": "en",
+      "file": "business.json"
+    },
+    {
+      "id": "ideas",
+      "title_en": "Ideas",
+      "title_he": "רעיונות",
+      "default_lang": "he",
+      "file": "ideas.json"
+    },
+    {
+      "id": "learn",
+      "title_en": "Learn Something Small",
+      "title_he": "ללמוד משהו קטן",
+      "default_lang": "en",
+      "file": "learn.json"
+    }
+  ],
+  "quiz": "quiz.json"
+}

@@ -4,9 +4,14 @@ name: Fetch sources
 # Claude routine, which writes the brief ~90 minutes later (see ROUTINE.md).
 on:
   schedule:
-    # 02:00 UTC = 05:00 Israel summer time / 04:00 winter time. GitHub often starts
-    # scheduled jobs late, hence the buffer before the routine at 03:30 UTC.
+    # Multiple cron slots because GitHub routinely delays scheduled jobs on
+    # low-activity repos by hours (observed 02:00 UTC runs landing at ~08:00 UTC).
+    # The `concurrency` block below collapses extra starts into a single run.
+    # 02:00 UTC = 05:00 Israel summer / 04:00 winter.
     - cron: "0 2 * * *"
+    - cron: "20 2 * * *"
+    - cron: "40 2 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:

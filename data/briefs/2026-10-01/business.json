@@ -1,0 +1,131 @@
+{
+  "section": "business",
+  "date": "2026-10-01",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-01T08:18:19+00:00",
+  "stories": [
+    {
+      "id": "global-bond-selloff-10y-24-year-high",
+      "kind": "analysis",
+      "en": {
+        "headline": "The global bond sell-off deepens as the 10-year Treasury yield hits a 24-year high",
+        "scroll": "The US 10-year Treasury yield climbed above 5.3%, its highest since 2002, as inflation stickiness, heavy government borrowing and strong growth keep rate expectations elevated; UK 30-year yields hit 6% and the French-German yield spread widened to a 14-year high.",
+        "coffee": "The US 10-year Treasury yield pushed above 5.3% on Tuesday, its highest level in roughly 24 years, according to WSJ Markets and Bloomberg. Across the Atlantic, UK 30-year yields hit 6%, Japanese and Australian sovereign debt costs rose, and the 10-year French-German yield spread widened to its highest since 2012 ahead of a French budget debate. This is not a single-country story; it is a global repricing of government debt.\n\nThree forces are being talked about together. First, persistent inflation (אינפלציה דביקה) has pushed back expectations of near-term rate cuts; indeed, JPMorgan's chief India economist expects the Reserve Bank of India to deliver a hawkish signal at its October 5 meeting. Second, large and growing government borrowing — a function of fiscal deficits across the developed world — forces a rising supply of bonds the market must absorb. Third, resilient growth undercuts the usual recession narrative that would otherwise push yields down. When the three line up, yields rise together.\n\nFor investors, two things are moving quietly in the background. Bond funds that moved early on inflation this cycle are now being rewarded, while laggards are paying more. And the classic 60-40 portfolio — 60% stocks and 40% bonds — is for the first time in years actually doing what it is supposed to do: offering diversification benefits again, because higher starting yields mean bonds have real room to rally if growth cracks.",
+        "deep": "## What is happening\n\nThe US 10-year Treasury yield climbed above 5.3% on Tuesday, its highest since 2002, according to WSJ Markets and Bloomberg. The move is part of a broader global bond sell-off. UK 30-year gilts hit a yield of 6%. The spread between 10-year French OAT bonds (OAT - Obligations assimilables du Trésor, French sovereign bonds) and 10-year German Bunds widened to its highest level since 2012, ahead of a French government budget presentation and amid political fragility in Paris.\n\n## Why yields are rising\n\nBond prices and yields move inversely: when a bond's price falls, its yield rises. Three forces are pushing prices down and yields up at the same time.\n\n**1. Sticky inflation (אינפלציה דביקה).** Price pressures have not fully receded; central banks that moved early are more comfortable, while those behind the curve are now expected to deliver more tightening. JPMorgan's chief India economist, Sajjid Chinoy, expects the Reserve Bank of India to signal a hawkish stance at its October 5 meeting. In Europe, markets are tracking a budget fight in France that could force more issuance (bond issuance - the supply of new government bonds).\n\n**2. Fiscal supply.** When governments run large deficits, they issue more bonds. More supply, for a given level of demand, lowers prices and raises yields. The US, UK and several European sovereigns are all pushing significant new debt into the market at the same time.\n\n**3. Growth that refuses to crack.** The classical recession playbook — slowing economy → falling yields — is not operating. US Q2 GDP was revised up to 2.2%, according to WSJ Markets, and tech-sector earnings (helped by the AI capex cycle) continue to lift broader risk sentiment. If the economy is not about to fall over, there is no reason for long yields to collapse.\n\n## Second-order effects\n\n- **The 60-40 portfolio.** For a decade, bonds and stocks sometimes moved together — a problem for diversification. With starting yields now meaningfully above zero, bonds once again have real room to rally if growth softens, meaning the 60-40 is \"doing what it is supposed to do\" for the first time in years, per WSJ Markets. For a long-horizon investor that is a quiet piece of good news.\n- **Who was early on inflation gets rewarded.** Global bond funds are rewarding central banks and bond managers that moved early on inflation; the laggards are paying higher borrowing costs now, according to Bloomberg.\n- **FX and the dollar.** The WSJ Dollar Index hit a three-month high as the yield gap favoured the dollar; the shekel-dollar rate moved to 3.08, up 0.49% on the day in the local inbox snapshot.\n- **Equities.** US stocks were \"modestly lower\" on the day the yield pushed through, per WSJ Markets, and bank stocks sold off in Europe. In theory, higher long yields raise the discount rate on future earnings, which pressures equity valuations — especially long-duration growth stocks. In practice, AI capex earnings are offsetting some of that pressure in the US.\n\n## For an Israeli investor\n\nA few local linkages are worth noting. The dollar's strength weighs on the shekel; the TA35 nonetheless rose 0.59% on the day, led by banks, according to TheMarker. Israeli pension and provident funds that run large US-fixed-income allocations will see paper losses when yields rise this fast, but their reinvestment rates improve. The S&P 500 kept double-digit year-to-date gains, but rising long rates are the first serious macro threat to the equity rally.\n\n## What to watch\n\n- The US 10-year yield's next test level above 5.3%.\n- The French budget presentation and whether the French-German yield spread stabilises or widens further.\n- The RBI's October 5 decision — a bellwether for emerging-market central banks."
+      },
+      "he": {
+        "headline": "המכירה הגלובלית של אג\"ח מעמיקה כשתשואת האג\"ח של ארה\"ב ל-10 שנים נוגעת בשיא של 24 שנה",
+        "scroll": "תשואת אג\"ח האוצר האמריקאי ל-10 שנים (10-year Treasury) חצתה 5.3%, השיא מאז 2002, על רקע דבקות אינפלציונית, הנפקות ממשלתיות גדולות וצמיחה חזקה; תשואת ה-30 שנה בבריטניה הגיעה ל-6%, והפער בין צרפת לגרמניה הגיע לשיא של 14 שנה.",
+        "coffee": "תשואת אג\"ח האוצר האמריקאי ל-10 שנים (10-year Treasury) דחפה מעל 5.3% ביום שלישי, השיא שלה מזה כ-24 שנים, לפי WSJ Markets ו-Bloomberg. מעבר לאוקיינוס, תשואת ה-30 שנה הבריטית הגיעה ל-6%, עלויות גיוס החוב של יפן ואוסטרליה עלו, והפער בתשואות של 10 שנים בין צרפת לגרמניה נפתח לשיא של 14 שנה לקראת דיון תקציב בפריז. זה לא סיפור של מדינה אחת; זה תמחור מחדש גלובלי של חוב ממשלתי.\n\nשלושה כוחות מדוברים יחד. ראשית, אינפלציה דביקה (sticky inflation) דחתה את הציפיות להורדות ריבית בטווח הקצר; אכן, הכלכלן הראשי של JPMorgan להודו מצפה שהבנק המרכזי של הודו (RBI) יעביר איתות ניציי בפגישת ה-5 באוקטובר. שנית, הנפקות גדולות וגדלות של ממשלות - תוצאה של גרעונות פיסקליים ברחבי העולם המפותח - מכריחות היצע הולך וגדל של אג\"ח שהשוק חייב לקלוט. שלישית, צמיחה עמידה מבטלת את הנרטיב הרגיל של מיתון שהיה דוחף תשואות מטה. כשהשלושה מתיישרים, התשואות עולות יחד.\n\nעבור משקיעים, שני דברים זזים ברקע. קרנות אג\"ח שהקדימו השנה על אינפלציה מתוגמלות עכשיו, בעוד הפיגורות משלמות יותר. ותיק 60-40 הקלאסי - 60% מניות ו-40% אג\"ח - בפעם הראשונה מזה שנים עושה בדיוק מה שהוא אמור לעשות: שוב מציע יתרונות של פיזור, כי תשואות התחלתיות גבוהות יותר אומרות שלאג\"ח יש מרחב ממשי להמריא אם הצמיחה תסדק.",
+        "deep": "## מה קורה\n\nתשואת אג\"ח האוצר האמריקאי ל-10 שנים חצתה 5.3% ביום שלישי, השיא שלה מאז 2002, לפי WSJ Markets ו-Bloomberg. המהלך הוא חלק ממכירה גלובלית רחבה יותר של אג\"ח. ה-30 שנה הבריטי (gilts) הגיע לתשואה של 6%. הפער בין אג\"ח OAT צרפתי ל-10 שנים (OAT - Obligations assimilables du Trésor, אג\"ח ממשלתי צרפתי) לבין ה-Bund הגרמני ל-10 שנים נפתח לשיא מאז 2012, לקראת הצגת תקציב ממשלת צרפת ועל רקע שבריריות פוליטית בפריז.\n\n## למה תשואות עולות\n\nמחירי אג\"ח ותשואות נעים הפוך: כשמחיר האג\"ח יורד, התשואה שלו עולה. שלושה כוחות דוחפים כעת מחירים מטה ותשואות למעלה בו-זמנית.\n\n**1. אינפלציה דביקה (sticky inflation).** הלחצים על המחירים לא נגמרו לגמרי; בנקים מרכזיים שהקדימו נוחים יותר, בעוד שאלה שפיגרו מצופים כעת לספק עוד הידוק. הכלכלן הראשי של JPMorgan להודו, סג'יד צ'ינוי, מצפה שהבנק המרכזי של הודו יאותת עמדה ניציית בפגישת ה-5 באוקטובר. באירופה, השווקים עוקבים אחרי מאבק תקציבי בצרפת שעלול לדחוף להנפקות נוספות (bond issuance - היצע האג\"ח הממשלתי החדש).\n\n**2. היצע פיסקלי.** כשממשלות מריצות גירעונות גדולים, הן מנפיקות יותר אג\"ח. היצע גדול יותר, לרמת ביקוש נתונה, מוריד מחירים ומעלה תשואות. ארה\"ב, בריטניה ומספר ממשלות אירופיות דוחפות כעת כולן חוב משמעותי חדש לשוק בו-זמנית.\n\n**3. צמיחה שמסרבת להישבר.** ספר המשחקים הקלאסי של מיתון - כלכלה שמאטה → תשואות שיורדות - אינו פועל. התמ\"ג האמריקאי לרבעון השני עודכן מעלה ל-2.2%, לפי WSJ Markets, ורווחי מגזר הטכנולוגיה (בעזרת מחזור ההשקעה ההונית ב-AI) ממשיכים להרים את הסנטימנט הכולל של הסיכון. אם הכלכלה לא עומדת ליפול, אין סיבה שתשואות ארוכות יקרסו.\n\n## אפקטים משניים\n\n- **תיק 60-40.** במשך עשור, אג\"ח ומניות לפעמים נעו יחד - בעיה לפיזור. עם תשואות התחלתיות משמעותית מעל אפס כעת, לאג\"ח שוב יש מרחב ממשי להמריא אם הצמיחה תתרכך, ומכאן שה-60-40 \"עושה את מה שהוא אמור לעשות\" בפעם הראשונה מזה שנים, לפי WSJ Markets. למשקיע עם אופק ארוך זה חדשה טובה שקטה.\n- **מי שהקדים על אינפלציה מתוגמל.** קרנות אג\"ח גלובליות מתגמלות בנקים מרכזיים ומנהלי אג\"ח שהקדימו על אינפלציה; הפיגורים משלמים כעת עלויות גיוס גבוהות יותר, לפי Bloomberg.\n- **מט\"ח והדולר.** מדד הדולר של WSJ הגיע לשיא של שלושה חודשים כשפער התשואות העדיף את הדולר; שער שקל-דולר נע ל-3.08, עלייה של 0.49% ביום לפי מדריך השוק המקומי.\n- **מניות.** שוקי המניות בארה\"ב ננעלו \"מעט נמוך\" ביום שבו התשואה פרצה, לפי WSJ Markets, ומניות הבנקים בעלו באירופה. בתיאוריה, תשואות ארוכות גבוהות יותר מעלות את שיעור ההיוון של רווחים עתידיים, מה שלוחץ על שווי המניות - בפרט מניות צמיחה בעלות משך זמן ארוך. בפועל, רווחי ההשקעה ההונית ב-AI מקזזים חלק מהלחץ בארה\"ב.\n\n## למשקיע ישראלי\n\nיש כמה קישורים מקומיים ששווים ציון. חוזק הדולר לוחץ על השקל; מדד ת\"א 35 בכל זאת עלה ב-0.59% ביום, בהובלת מניות הבנקים, לפי TheMarker. קרנות הפנסיה והגמל הישראליות שמחזיקות הקצאות גדולות באג\"ח אמריקאי יראו הפסדי נייר כשהתשואות עולות כה מהר, אבל שיעורי ההשקעה מחדש שלהן משתפרים. ה-S&P 500 שמר על רווחי שנה לדו-ספרתי, אבל התשואות הארוכות שעולות הן האיום המאקרו הראשון הרציני לראלי המניות.\n\n## על מה להסתכל\n\n- רמת המבחן הבאה של תשואת ה-10 שנים האמריקאית מעל 5.3%.\n- הצגת תקציב צרפת והאם פער התשואות צרפת-גרמניה מתייצב או מתרחב עוד.\n- החלטת ה-RBI ב-5 באוקטובר - איתות למדינות השוק המתעורר."
+      },
+      "tags": [
+        "bond-market",
+        "treasury-yields",
+        "monetary-policy",
+        "macro"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Treasury 10-Year Yield Hits Highest Since 2002 on Rate Outlook",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-01/treasury-10-year-yield-hits-highest-since-2002-on-rate-outlook-mup7ryq2"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "FTSE 100 Live: UK 30-Year Yields Hit 6% as Global Bond Selloff Reignites",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-10-01/ftse-100-live-pound-gilts-house-prices-iran-trump-hormuz-oil-prices-ai-stocks-what-s-moving-uk-markets-right-now-markets-today"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Global Bond Funds Are Rewarding the Early Movers on Inflation",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-01/global-bond-funds-are-rewarding-the-early-movers-on-inflation"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Why Are Bond Yields Higher Globally? Investors React to Inflation, Fiscal Risks",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-01/ten-reasons-investors-are-driving-government-bond-yields-higher"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "An optimist’s guide to the bond market",
+          "url": "https://www.ft.com/content/4ab6df98-f14d-49d1-a170-8087dc517b08?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Global bond sell-off deepens as 10-year Treasury yield hits highest since 2002",
+          "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Ten-Year French OAT-German Bund Yield Spread Widens to New 14-Year High",
+          "url": "https://www.wsj.com/finance/jgbs-fall-on-prospects-for-quicker-pace-of-boj-rate-hikes-6c891e6e?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Surging Yields Bring the Bond Market Back to the Turn of the Century",
+          "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "10-Year Treasury Yield Rises to New 24-Year High",
+          "url": "https://www.wsj.com/finance/investing/10-year-treasury-yield-rises-to-new-24-year-high-641f0790?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Money Managers Are Asking Clients to Give the Bond Market Another Chance",
+          "url": "https://www.wsj.com/finance/investing/money-managers-are-asking-clients-to-give-the-bond-market-another-chance-6f874f1c?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "ירידות באירופה; עליית מחירי הבתים בבריטניה האטה בספטמבר",
+          "url": "https://www.themarker.com/wallstreet/2026-10-01/ty-article-live/000001a0-e185-d272-adf6-fdc703270000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "המסחר נפתח בעליות, בהובלת חברות הטק; מדד הבנקים עולה ב-1%",
+          "url": "https://www.themarker.com/markets/2026-10-01/ty-article-live/000001a0-f5df-de31-a7f0-fddfb2cd0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4228.6802,
+      "prev_close": 4203.98,
+      "change_pct": 0.59,
+      "as_of": "2026-10-01"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7651.54,
+      "prev_close": 7670.8398,
+      "change_pct": -0.25,
+      "as_of": "2026-09-30"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0808,
+      "prev_close": 3.0659,
+      "change_pct": 0.49,
+      "as_of": "2026-10-01"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 99.51,
+      "prev_close": 103.53,
+      "change_pct": -3.88,
+      "as_of": "2026-10-01"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 83488.5078,
+      "prev_close": 83553.8516,
+      "change_pct": -0.08,
+      "as_of": "2026-10-01"
+    }
+  }
+}

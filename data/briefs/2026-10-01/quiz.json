@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-01",
+  "questions": [
+    {
+      "id": "q1",
+      "section": "sports",
+      "story_id": "israel-kosovo-nations-league",
+      "answer_index": 1,
+      "en": {
+        "question": "What was the result of Israel's previous Nations League match before tonight's game against Kosovo?",
+        "options": [
+          "A 1-1 draw against Ireland in Haifa",
+          "A 0-3 defeat away to Ireland in Dublin",
+          "A 2-1 win over Kosovo in Pristina",
+          "The match was postponed"
+        ],
+        "explanation": "Israel lost 0-3 away to Ireland on September 27, four days before tonight's home match against Kosovo in the same Nations League group."
+      },
+      "he": {
+        "question": "מה הייתה התוצאה של משחק ליגת האומות הקודם של ישראל לפני המשחק הערב מול קוסובו?",
+        "options": [
+          "תיקו 1:1 מול אירלנד בחיפה",
+          "הפסד 0:3 בחוץ לאירלנד בדבלין",
+          "ניצחון 1:2 על קוסובו בפריסטינה",
+          "המשחק נדחה"
+        ],
+        "explanation": "ישראל הפסידה 0:3 בחוץ לאירלנד ב-27 בספטמבר, ארבעה ימים לפני המשחק הערב בבית מול קוסובו באותו בית בליגת האומות."
+      }
+    },
+    {
+      "id": "q2",
+      "section": "geopolitics",
+      "story_id": "flydubai-cockpit-stabbing-us-iran",
+      "answer_index": 2,
+      "en": {
+        "question": "According to this morning's brief, what happened on the FlyDubai flight bound for Tel Aviv?",
+        "options": [
+          "A fire broke out in the cargo hold and the plane returned to Dubai",
+          "A passenger with a weapon attempted to breach the cockpit",
+          "A co-pilot stabbed the captain and tried to crash the plane before passengers and crew subdued him",
+          "The plane was struck by a missile and emergency-landed in Saudi Arabia"
+        ],
+        "explanation": "A FlyDubai co-pilot stabbed the captain mid-flight on a Dubai-Tel Aviv route and attempted to crash the plane; passengers and crew stormed the cockpit, overpowered him and stabilized the aircraft, which had fallen about 17,000 feet in under two minutes."
+      },
+      "he": {
+        "question": "לפי הברייף של הבוקר, מה קרה בטיסת פליי דובאי שהייתה בדרכה לתל אביב?",
+        "options": [
+          "פרצה שריפה בתא המטען והמטוס חזר לדובאי",
+          "נוסע עם נשק ניסה לפרוץ לקוקפיט",
+          "טייס משנה דקר את הקברניט וניסה לרסק את המטוס לפני שנוסעים וצוות השתלטו עליו",
+          "המטוס נפגע מטיל ונחת חירום בסעודיה"
+        ],
+        "explanation": "טייס משנה בפליי דובאי דקר את הקברניט באוויר בטיסה מדובאי לתל אביב וניסה לרסק את המטוס; נוסעים וצוות פרצו לקוקפיט, השתלטו עליו וייצבו את המטוס, שצנח כ-17,000 רגל בפחות משתי דקות."
+      }
+    },
+    {
+      "id": "q3",
+      "section": "business",
+      "story_id": "global-bond-selloff-10y-24-year-high",
+      "answer_index": 1,
+      "en": {
+        "question": "What level did the US 10-year Treasury yield reach — and when was it last that high?",
+        "options": [
+          "Just above 4%, the highest since 2015",
+          "Above 5.3%, the highest since 2002",
+          "Exactly 6%, matching the UK 30-year gilt",
+          "Below 3%, as the Fed signalled rate cuts"
+        ],
+        "explanation": "The US 10-year Treasury yield climbed above 5.3%, its highest level since 2002, according to WSJ Markets and Bloomberg; UK 30-year yields separately hit 6%."
+      },
+      "he": {
+        "question": "לאיזו רמה הגיעה תשואת אג\"ח האוצר האמריקאי ל-10 שנים - ומתי לאחרונה היא הייתה כה גבוהה?",
+        "options": [
+          "מעט מעל 4%, השיא מאז 2015",
+          "מעל 5.3%, השיא מאז 2002",
+          "בדיוק 6%, בדומה ל-gilts בריטי ל-30 שנה",
+          "מתחת ל-3%, כשהפד איתת על הורדות ריבית"
+        ],
+        "explanation": "תשואת אג\"ח האוצר האמריקאי ל-10 שנים חצתה 5.3%, השיא מאז 2002, לפי WSJ Markets ו-Bloomberg; תשואת ה-gilts הבריטי ל-30 שנה הגיעה בנפרד ל-6%."
+      }
+    }
+  ]
+}

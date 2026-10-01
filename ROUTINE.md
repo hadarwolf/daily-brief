@@ -7,8 +7,25 @@ A GitHub Action has already fetched the news and prepared everything you need in
 ## 1. Check the inbox is fresh
 
 Run `TZ=Asia/Jerusalem date +%F` and compare it with `"date"` in `data/inbox/meta.json`.
-If they differ, the morning fetch didn't run. Don't write anything. End with
-`INBOX STALE: inbox=<inbox date>, today=<today>`.
+If they match, continue.
+
+If they differ, GitHub's cron scheduler ran the fetch workflow late or skipped it
+(scheduled runs on low-activity repos are routinely delayed by hours). Don't give
+up — self-heal:
+
+1. Dispatch the fetch workflow via the GitHub MCP (`actions_run_trigger`,
+   `method: run_workflow`, `workflow_id: fetch.yml`, `ref: main`). A
+   `workflow_dispatch` run starts immediately and isn't subject to cron delay.
+2. Poll the run (list workflow runs for `fetch.yml`, newest first; find your
+   `workflow_dispatch` run) until `status: completed`. Expect ~2 minutes. If it
+   isn't done, wait and check again — do not proceed on a half-finished fetch.
+3. If it finishes with `conclusion: success`, run
+   `git pull --rebase origin main` and verify `"date"` in
+   `data/inbox/meta.json` now matches today. Then continue to step 2.
+4. If the dispatch itself fails to queue, the run completes with
+   `conclusion: failure`, or the inbox is still stale after a successful run,
+   stop. End with `INBOX STALE: inbox=<inbox date>, today=<today>, fetch=<status>`
+   and don't publish anything.
 
 ## 2. Write each section
 
