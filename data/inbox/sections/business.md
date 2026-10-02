@@ -18,99 +18,99 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Medio millón de mineros amenazan el auge de los minerales críticos en Bolivia",
+     "published": "2026-10-02T09:24:35+00:00",
+     "summary": "Bolivia quiere aprovechar la fiebre global por los minerales críticos, pero Paz enfrenta un obstáculo formidable: unos 500.000 mineros que pueden complicar sus planes para transformar el sector. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Glencore Says Trading Profits Will Top $5 Billion This Year",
+     "published": "2026-10-02T09:11:36+00:00",
+     "summary": "Glencore Plc expects that its commodity-trading profits will exceed $5 billion this year, putting it on track for one of the best results in its history."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "UK Still Pays a Heavy Bond Market Price for Its Tarnished Image",
+     "published": "2026-10-02T09:02:17+00:00",
+     "summary": "The UK government is battling entrenched skepticism about its finances that is adding billions to borrowing costs and amplifying the pain of a global bond selloff."
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "JPMorgan AM: We're Getting More Constructive on Duration",
+     "published": "2026-10-02T09:01:38+00:00",
+     "summary": "Kim Crawford, global fixed income portfolio manager at JPMorgan Asset Management, discusses the outlook for French bond yields and why her firm is getting \"more constructive\" on longer-term debt. \"Bonds typically sell off until something breaks, and something has broken,\" Crawford tells Bloomberg Television. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#4",
+     "title": "Gunvor to Rename Itself Centalion and Redomicile to Singapore",
+     "published": "2026-10-02T08:56:43+00:00",
+     "summary": "Commodities trading giant Gunvor Group is renaming itself Centalion Group Ltd. and plans to redomicile its corporate headquarters from Cyprus to Singapore."
+    },
+    {
+     "ref": "bloomberg_markets#5",
+     "title": "Europe’s Bond-Spread Blowout Prompts Bets on Fewer ECB Hikes",
+     "published": "2026-10-02T08:55:48+00:00",
+     "summary": "A surge in euro-area sovereign bond spreads slowed on Friday as traders bet the European Central Bank will be forced to support the region’s more-indebted members by delivering fewer interest-rate hikes."
+    },
+    {
+     "ref": "bloomberg_markets#6",
      "title": "BofA’s Hartnett Sees Risk-Off Mood Lasting Until Dollar Peaks",
      "published": "2026-10-02T08:50:19+00:00",
      "summary": "Investors are set to shun riskier trades until the dollar’s recent surge shows signs of peaking, according to Bank of America Corp.’s Michael Hartnett."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#7",
      "title": "How To Buy Your First Rolex",
      "published": "2026-10-02T08:00:05+00:00",
      "summary": "Buying a Rolex can take more than money. Here’s how to navigate wait lists, win over dealers and know when to buy secondhand. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#8",
      "title": "How Airlines Actually Hedge Higher Fuel Prices",
      "published": "2026-10-02T08:00:01+00:00",
      "summary": "An art and a science."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#9",
      "title": "Odd Lots: How Airlines Hedge Higher Fuel Prices (Podcast)",
      "published": "2026-10-02T08:00:00+00:00",
      "summary": "Fuel is a huge expense for airlines, and even on a good day, jet fuel prices are pretty volatile. Throw in two major wars now effecting energy infrastructure, and fuel prices across the board are higher and higher. Airlines have long tried to manage this expense through fuel hedging, using things like swaps and options to hedge against future increases in the price of jet fuel. David Kang, former "
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#10",
      "title": "Pimco’s Stracke Says AI Spending Drove Yields, Not Inflation",
      "published": "2026-10-02T07:34:14+00:00",
      "summary": "Surging capital demand from hyperscalers and the artificial intelligence ecosystem — rather than inflation expectations — is the primary force pushing real rates and bond yields higher, Pacific Investment Management Co. President Christian Stracke said."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#11",
      "title": "Bain Is Said to Explore Investment in Hong Kong’s New World",
      "published": "2026-10-02T07:31:02+00:00",
      "summary": "Bain Capital is exploring a potential investment in Hong Kong’s New World Development Co. as the embattled property company looks at ways to pay down its heavy debt burden, people with knowledge of the matter said."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#12",
      "title": "IG Group Shares Plunge After Surprise Slump in Revenue",
      "published": "2026-10-02T07:22:20+00:00",
      "summary": "IG Group Holdings Plc shares plunged the most in almost a decade as the retail trading firm reported a surprise slump in third-quarter revenue following a sanguine outlook earlier."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#13",
      "title": "China's Epic Wedding Video Microfilms",
      "published": "2026-10-02T07:04:48+00:00",
      "summary": "Chinese couples are swapping conventional wedding shoots for starring roles in their own romance dramas, with film crews, scripts and costumes. Tiffany Ap explains a rare bright spot in the country’s shrinking marriage market. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
-     "title": "Novartis Inks Chinese mRNA-Therapy Deal for Up to $7.8 Billion",
-     "published": "2026-10-02T06:47:06+00:00",
-     "summary": "Novartis AG will license a messenger RNA-based autoimmune therapy from China’s Abogen Biosciences, in a deal worth as much as $7.8 billion."
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "Israel PM Says Flydubai Pilot Is Omani, US May Send 10,000 More Troops to Mideast",
-     "published": "2026-10-02T06:28:02+00:00",
-     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "Indonesia Finance Chief Avoids Prabowo Turf Wars",
-     "published": "2026-10-02T06:26:50+00:00",
-     "summary": "Indonesia’s new finance chief signaled he’ll stay in his lane and let the central bank and the Danantara sovereign wealth fund handle their own mandates, a bid to restore investor confidence in President Prabowo Subianto’s broad economic policy. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "French Bond Blowout Amid Debt Dilemma: Market Snapshot",
-     "published": "2026-10-02T06:25:50+00:00",
-     "summary": "As global government bonds wrapped up their worst quarter since 2024 due to higher oil prices and the threat of sticky inflation for the world economy, France is facing a particularly tricky trajectory. OAT-Bund spreads widened sharply as an increasingly fragmented government unveiled plans to narrow the nation's budget deficit, stoking investor concern over the country’s debts. The Opening Trade "
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Bond Storm Shakes London’s Fragile Stocks Recovery",
-     "published": "2026-10-02T06:17:44+00:00",
-     "summary": "A tentative recovery in UK stocks has hit a major roadblock as the country’s bonds take some of the harshest punishment from the global selloff in sovereign debt."
-    },
-    {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "PIMCO's Stracke on Credit Risks, Yield Shock Ahead",
      "published": "2026-10-02T06:03:33+00:00",
      "summary": "PIMCO President Christian Stracke examines the forces driving the global bond selloff, the yield levels that could threaten equity markets, and whether investors are underestimating the extent of policy tightening still ahead. He speaks with Paul Allen on \"Insight with Haslinda Amin.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "France’s Troubles Are Deepening as Investors Head for the Exit",
      "published": "2026-10-02T04:15:02+00:00",
      "summary": "Worries are mounting and bonds, stocks and the euro are taking the hit."
-    },
-    {
-     "ref": "bloomberg_markets#15",
-     "title": "Hong Kong Stocks Slump Most Since March, Led by Financials",
-     "published": "2026-10-02T04:04:00+00:00",
-     "summary": "Hong Kong’s stock benchmark led losses in Asia as trading resumed after a holiday, pressured by the recent surge in US yields and disappointment over China’s latest stimulus measures."
     },
     {
      "ref": "bloomberg_markets#16",
@@ -144,51 +144,51 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Eurozone inflation jumps to highest level in three years",
+     "published": "2026-10-02T09:01:36+00:00",
+     "summary": "Consumer prices were 3.8% higher in September than a year ago"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "Goldman bought Shein shares worth $220mn after dismal IPO",
      "published": "2026-10-02T08:32:27+00:00",
      "summary": "Shares in fast-fashion retailer have tumbled 38% since listing in Hong Kong last month"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "Global bond market steadies after sharp sell-off",
      "published": "2026-10-02T07:48:26+00:00",
      "summary": "Heavy selling this week pushed 10-year US Treasury yields to their highest level since 2002"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "Putin has told military leaders to abandon rules of war, Zelenskyy says",
      "published": "2026-10-02T06:58:26+00:00",
      "summary": "Ukrainian leader tells FT his Russian counterpart has given the order that ‘there are no rules now’"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Amazon seeks to offload $8bn of Nvidia chips to investors",
      "published": "2026-10-02T04:00:33+00:00",
      "summary": "The move aims to improve the tech group’s balance sheet health as AI spending soars"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "Trump’s short-sighted diesel gamble",
      "published": "2026-10-02T04:00:23+00:00",
      "summary": "Yes, Nixon’s export ban did briefly suppress domestic prices but it had a huge long-term cost"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "No, AI is not similar to the Manhattan Project",
      "published": "2026-10-02T04:00:23+00:00",
      "summary": "What is singular and novel about the current threat is that it was born out of the private sector"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "Quant hedge funds reap big gains from global bond sell-off",
      "published": "2026-10-02T04:00:23+00:00",
      "summary": "Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears"
-    },
-    {
-     "ref": "ft_home#7",
-     "title": "French schools burn as student unrest spreads",
-     "published": "2026-10-02T04:00:23+00:00",
-     "summary": "Prime Minister Sébastien Lecornu and far-right leader Marine Le Pen blame far-left party for stoking protests"
     },
     {
      "ref": "ft_home#8",
@@ -204,26 +204,26 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "האינפלציה בגוש היורו בשיא של שלוש שנים; עליות באירופה",
+     "published": "2026-10-02T09:24:00+00:00",
+     "summary": "היורו קרוב לשפל של שנה וחצי מול הדולר ■ הנפט נחלש לאחר שעלה אתמול ■ מרבית בורסות אסיה רשמו ירידות הבוקר ■ וול סטריט נסגרה אתמול בעליות קלות"
+    },
+    {
+     "ref": "themarker#1",
      "title": "פליי דובאי ביטלה את הטיסות לישראל עד 15 באוקטובר",
      "published": "2026-10-02T08:49:52+00:00"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "ביטוח ישיר סירבה לשלם לחולת סרטן בגלל שהאריכה חיים מעבר ל-9 חודשים",
      "published": "2026-10-02T08:31:04+00:00",
      "summary": "מבוטחת רכשה פוליסה יקרה שמכסה גם \"מחלה חשוכת מרפא\" ■ כשחלתה, חברת הביטוח טענה כי משום שהיא חיה כבר יותר מחמש שנים מאז האבחון זו אינה מחלה חשוכת מרפא ■ השופט: \"פרשנות סבירה של המושג היא מחלה שאין לה תרופה ולא שהחולה צפוי למות בטווח מסוים\""
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#3",
      "title": "פנסיה לכל ילד: 60 מיליון ילדים בארה\"ב צורפו אוטומטית ל\"חשבונות טראמפ\"",
      "published": "2026-10-02T07:33:17+00:00",
      "summary": "החשבונות מאפשרים לקבל מענקים ותרומות גם בלי שההורים יפקידו כסף — והרישום האוטומטי נועד להגיע למשפחות שנותרו מחוץ לתוכנית ■ המיליארדרים מייקל וסוזן דל התחייבו להעניק 250 דולר ל־25 מיליון ילדים"
-    },
-    {
-     "ref": "themarker#3",
-     "title": "עליות באירופה; היורו קרוב לשפל של שנה וחצי",
-     "published": "2026-10-02T07:32:00+00:00",
-     "summary": "הדולר נחלש מעט מול מטבעות מרכזיים בעולם ■ הנפט נחלש לאחר שעלה אתמול ■ וול סטריט נסגרה אתמול בעליות קלות"
     },
     {
      "ref": "themarker#4",
@@ -359,153 +359,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Jobs Report Today: Bond Market Steadies as Investors Await Employment Numbers",
+     "published": "2026-10-02T09:07:29+00:00",
+     "summary": "Economists expect U.S. to have added 84,000 jobs last month, enough to keep Fed focused on inflation"
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Global Food Prices Rise as Cereal and Sugar Costs Surge, UN Says",
+     "published": "2026-10-02T08:57:00+00:00",
+     "summary": "Transport disruptions and weather concerns have limited supplies and lifted prices for several crop-based commodities."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "Oil Prices Fall as Middle East Crude Exports Recover But Shipping Risks Remain",
      "published": "2026-10-02T08:45:00+00:00",
      "summary": "Traders are weighing recovering Middle East exports against renewed shipping risks and a larger U.S. military buildup in the region."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "Stocks Edge Higher, Yields Steady Ahead of Jobs Data",
      "published": "2026-10-02T08:36:00+00:00",
      "summary": "U.S. stock futures and European equities were higher, while Treasury yields steadied, as market sentiment rose at the beginning of jobs day."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#4",
      "title": "Gold Edges Higher as Markets Dial Back Expectations for Fed Hike",
      "published": "2026-10-02T08:08:00+00:00",
      "summary": "Gold prices ticked higher as markets scaled back expectations for imminent interest-rate hikes by the Federal Reserve."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#5",
      "title": "European Indexes Open Higher, Tech Stocks Rally",
      "published": "2026-10-02T07:56:00+00:00",
      "summary": "European stock indexes gained at the open, but not enough to recover sharp losses in the last session."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#6",
      "title": "Oil Falls 1% Despite Middle East Escalation Fears",
      "published": "2026-10-02T07:50:00+00:00",
      "summary": "Oil prices eased on signs that Gulf crude exports were recovering, although concerns remain over the prospect of further military action and attacks on shipping."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#7",
      "title": "U.S. Treasury Yields Steady as Buyers Resurface",
      "published": "2026-10-02T07:22:00+00:00",
      "summary": "The 10-year Treasury yield traded fairly flat, staying below a peak of 5.344% hit on Thursday, its highest since 2002."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#8",
      "title": "Dunamu CEO Urges South Korea to Move Quickly on Won-Backed Stablecoins",
      "published": "2026-10-02T07:07:00+00:00",
      "summary": "Dunamu is preparing to provide technology and distribution support for stablecoins once the necessary legal and regulatory framework is in place, CEO Oh Kyoung-suk said."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "Dollar Eases Ahead of Key U.S. Payrolls Data",
      "published": "2026-10-02T06:49:00+00:00",
      "summary": "The dollar eased after reaching a near 18-month high Thursday as markets trimmed lofty expectations for U.S. interest-rate rises."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "The Bond Rout Is Deepening Even as Oil Tankers Return to the Strait of Hormuz",
      "published": "2026-10-02T01:00:00+00:00",
      "summary": "Supply chains that transform crude into fuel are still under siege, and that is keeping prices high—helping drive a brutal bond selloff."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "How a Top Diabetes Nonprofit Reined In Its Venture-Capital Arm",
      "published": "2026-10-02T00:42:00+00:00",
      "summary": "Breakthrough T1D says it fired three board members of the T1D Fund to protect the interest of donors; those dismissed say Breakthrough crushed the fund’s independence."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "Why Are Diesel Prices Soaring and What Would a U.S. Export Ban Do?",
      "published": "2026-10-01T22:46:00+00:00",
      "summary": "Wars in the Middle East and Ukraine have blocked shipments from regions that normally supply almost a third of the world’s diesel exports."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#13",
      "title": "Opinion | The Other Threat to Fed Independence",
      "published": "2026-10-01T21:47:00+00:00",
      "summary": "Democrats are trying to politicize a process that has been apolitical: supervisory oversight of bank holding companies."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#14",
      "title": "WSJ Dollar Index Rises 0.38% to 97.41",
      "published": "2026-10-01T21:20:00+00:00",
      "summary": "The WSJ Dollar Index rose 0.4% — up for four consecutive trading days."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#15",
      "title": "The Global Bond Rout Is Getting Messy",
      "published": "2026-10-01T21:18:00+00:00",
      "summary": "Unwinding popular hedge fund trades helped drive U.S. Treasury yields lower, but there is also “a faint smell of a crisis in the making.”"
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#16",
      "title": "U.S. Stocks Rise After Bond Market Flips In Choppy Trading",
      "published": "2026-10-01T21:15:00+00:00",
      "summary": "U.S. stocks ended a volatile trading session slightly higher after Treasury yields retreated from multiyear highs and expectations for another rate hike this month subsided."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#17",
      "title": "Energy & Utilities Roundup: Market Talk",
      "published": "2026-10-01T21:04:00+00:00",
      "summary": "Find insight on SSE, Enerflex, Amplitude Energy and more in the latest Market Talks covering Energy and Utilities."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#18",
      "title": "Tech, Media & Telecom Roundup: Market Talk",
      "published": "2026-10-01T20:54:00+00:00",
      "summary": "Find insight on AppLovin, Micron Technology and more in the latest Market Talks covering Technology, Media and Telecom."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#19",
      "title": "Treasurys Selloff Takes a Pause Ahead of Jobs Report",
      "published": "2026-10-01T20:31:00+00:00",
      "summary": "Treasury yields fell ahead of September’s U.S. jobs report, which is expected to bolster the case for a slower pace of monetary tightening."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#20",
      "title": "Treasury Selloff Flips in Volatile Trading Day",
      "published": "2026-10-01T20:27:00+00:00",
      "summary": "Plus, yields on French, Italian and Greek bonds were all sharply higher."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#21",
      "title": "Oil Climbs as U.S. Sends Another Aircraft Carrier to Middle East",
      "published": "2026-10-01T20:02:00+00:00",
      "summary": "Oil prices extended gains after The Wall Street Journal reported that the Pentagon has deployed a third aircraft carrier to the Middle East, adding as many as 10,000 American troops to the region."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#22",
      "title": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-10-01T19:08:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#23",
      "title": "When Asking for a Donation at Checkout Can Backfire",
      "published": "2026-10-01T16:47:00+00:00",
      "summary": "A study finds that customers can be pressured—and less likely to shop there again"
     },
     {
-     "ref": "wsj_markets#22",
-     "title": "Basic Materials Roundup: Market Talk",
-     "published": "2026-10-01T16:28:00+00:00",
-     "summary": "Find insight on Indonesian coal exports and more in the latest Market Talks covering Basic Materials."
-    },
-    {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "Financial Services Roundup: Market Talk",
      "published": "2026-10-01T16:22:00+00:00",
      "summary": "Find insight on RBC Capital Markets, Citi and more in the latest Market Talks covering Financial Services."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Dollar Hits Near 18-Month High on Prospect of Higher U.S. Rates",
-     "published": "2026-10-01T13:32:00+00:00",
-     "summary": "The dollar jumped to its highest level since April 2025 against a basket of currencies, deriving continued support from the prospect of the Federal Reserve raising interest rates further."
     }
    ]
   }
@@ -527,23 +527,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0567,
+   "last": 3.0584,
    "prev_close": 3.0728,
-   "change_pct": -0.53,
+   "change_pct": -0.47,
    "as_of": "2026-10-02"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 99.29,
+   "last": 99.22,
    "prev_close": 102.31,
-   "change_pct": -2.95,
+   "change_pct": -3.02,
    "as_of": "2026-10-02"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 86238.4297,
+   "last": 86333.4766,
    "prev_close": 84853.1016,
-   "change_pct": 1.63,
+   "change_pct": 1.74,
    "as_of": "2026-10-02"
   }
  },

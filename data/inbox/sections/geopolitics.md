@@ -18,15 +18,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Bill Lee - AP News",
-     "published": "2026-10-02T08:44:41+00:00",
-     "summary": "Bill Lee AP News"
+     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+     "published": "2026-10-02T08:48:58+00:00",
+     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-02T08:13:06+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "World shares mixed after global bond sell-off deepens and ahead of US jobs data - AP News",
+     "published": "2026-10-02T08:45:00+00:00",
+     "summary": "World shares mixed after global bond sell-off deepens and ahead of US jobs data AP News"
     },
     {
      "ref": "ap_world#2",
@@ -48,15 +48,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#5",
-     "title": "Nepal avalanche toll rises to 15 deaths with discovery of 8 bodies on Mount Himlung - AP News",
-     "published": "2026-10-02T04:55:00+00:00",
-     "summary": "Nepal avalanche toll rises to 15 deaths with discovery of 8 bodies on Mount Himlung AP News"
+     "title": "A galactic Nobel? Experts float the International Space Station among contenders for the Peace Prize - AP News",
+     "published": "2026-10-02T05:08:00+00:00",
+     "summary": "A galactic Nobel? Experts float the International Space Station among contenders for the Peace Prize AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "Asian shares mixed after global bond sell-off deepens and ahead of US jobs data - AP News",
-     "published": "2026-10-02T04:53:00+00:00",
-     "summary": "Asian shares mixed after global bond sell-off deepens and ahead of US jobs data AP News"
+     "title": "Nepal avalanche toll rises to 15 deaths with discovery of 8 bodies on Mount Himlung - AP News",
+     "published": "2026-10-02T04:55:00+00:00",
+     "summary": "Nepal avalanche toll rises to 15 deaths with discovery of 8 bodies on Mount Himlung AP News"
     },
     {
      "ref": "ap_world#7",
@@ -132,39 +132,39 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#19",
-     "title": "Federal report says pilots weren't warned about wind before Amazon cargo plane crashed in Miami - AP News",
-     "published": "2026-10-02T00:27:36+00:00",
-     "summary": "Federal report says pilots weren't warned about wind before Amazon cargo plane crashed in Miami AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Donor revives fraud claims against Christian worship leader Sean Feucht over a $250,000 donation - AP News",
-     "published": "2026-10-02T00:20:00+00:00",
-     "summary": "Donor revives fraud claims against Christian worship leader Sean Feucht over a $250,000 donation AP News"
-    },
-    {
-     "ref": "ap_world#21",
      "title": "Trump administration's quiet move makes it harder for some US citizens abroad to vote, lawsuit says - AP News",
      "published": "2026-10-02T00:18:00+00:00",
      "summary": "Trump administration's quiet move makes it harder for some US citizens abroad to vote, lawsuit says AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#20",
      "title": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video - AP News",
      "published": "2026-10-02T00:15:00+00:00",
      "summary": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#21",
      "title": "Astronauts arrive at International Space Station on the quickest US express flight yet - AP News",
      "published": "2026-10-02T00:07:00+00:00",
      "summary": "Astronauts arrive at International Space Station on the quickest US express flight yet AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#22",
      "title": "MLB won't consider game at Grand Teton National Park, says was only conducting initial due diligence - AP News",
      "published": "2026-10-01T23:51:00+00:00",
      "summary": "MLB won't consider game at Grand Teton National Park, says was only conducting initial due diligence AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
+     "published": "2026-10-01T23:50:00+00:00",
+     "summary": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Rapper Rick Ross stands charged with battery after a woman alleges domestic violence - AP News",
+     "published": "2026-10-01T23:32:57+00:00",
+     "summary": "Rapper Rick Ross stands charged with battery after a woman alleges domestic violence AP News"
     }
    ]
   },
@@ -174,15 +174,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-     "published": "2026-10-02T08:54:00+00:00",
-     "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+     "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+     "published": "2026-10-02T09:08:06+00:00",
+     "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
     },
     {
      "ref": "bbc_world#1",
-     "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-     "published": "2026-10-02T08:49:53+00:00",
-     "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
+     "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+     "published": "2026-10-02T08:54:00+00:00",
+     "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
     },
     {
      "ref": "bbc_world#2",
@@ -426,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
+     "published": "2026-10-02T08:21:54+00:00",
+     "summary": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Why renewed fighting in Ethiopia's Tigray risks a regional war - Reuters",
+     "published": "2026-10-02T08:02:33+00:00",
+     "summary": "Why renewed fighting in Ethiopia's Tigray risks a regional war Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Hungary welcomes Ukraine's bill strengthening Hungarian minority rights - Reuters",
      "published": "2026-10-02T07:27:43+00:00",
      "summary": "Hungary welcomes Ukraine's bill strengthening Hungarian minority rights Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
      "title": "Cargo stacks up as Pakistan seizes containers to block capital routes - Reuters",
      "published": "2026-10-02T07:11:43+00:00",
      "summary": "Cargo stacks up as Pakistan seizes containers to block capital routes Reuters"
     },
     {
-     "ref": "reuters_world#2",
-     "title": "Why renewed fighting in Ethiopia's Tigray risks a regional war - Reuters",
-     "published": "2026-10-02T07:11:39+00:00",
-     "summary": "Why renewed fighting in Ethiopia's Tigray risks a regional war Reuters"
-    },
-    {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Volvo Cars pulls sales guidance on Chinese outlook and slow US rebound - Reuters",
      "published": "2026-10-02T06:43:00+00:00",
      "summary": "Volvo Cars pulls sales guidance on Chinese outlook and slow US rebound Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says - Reuters",
      "published": "2026-10-02T06:21:00+00:00",
      "summary": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show - Reuters",
      "published": "2026-10-02T05:56:00+00:00",
      "summary": "EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "US congressman demands Starbucks close its first stores in China's Xinjiang - Reuters",
      "published": "2026-10-02T05:34:00+00:00",
      "summary": "US congressman demands Starbucks close its first stores in China's Xinjiang Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Former Taiwan president Tsai to visit US next week - Reuters",
      "published": "2026-10-02T05:34:00+00:00",
      "summary": "Former Taiwan president Tsai to visit US next week Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "About 400 French schools closed as some student protests turn violent - Reuters",
      "published": "2026-10-02T05:21:00+00:00",
      "summary": "About 400 French schools closed as some student protests turn violent Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Evacuated in an incubator, now back in Gaza getting to know mama - Reuters",
      "published": "2026-10-02T05:03:00+00:00",
      "summary": "Evacuated in an incubator, now back in Gaza getting to know mama Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Foiled flydubai attack clouds regional airline revival - Reuters",
      "published": "2026-10-02T05:01:00+00:00",
      "summary": "Foiled flydubai attack clouds regional airline revival Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Russian air strikes kill one, restrict traffic across Dnipro River in Kyiv - Reuters",
      "published": "2026-10-02T04:32:00+00:00",
      "summary": "Russian air strikes kill one, restrict traffic across Dnipro River in Kyiv Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "India's 'cockroach' youth party, student groups to protest, demand poll chief's resignation - Reuters",
      "published": "2026-10-02T04:22:00+00:00",
      "summary": "India's 'cockroach' youth party, student groups to protest, demand poll chief's resignation Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Myanmar ships with returnees from Malaysia enter home waters, state media says - Reuters",
      "published": "2026-10-02T04:21:00+00:00",
      "summary": "Myanmar ships with returnees from Malaysia enter home waters, state media says Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "African Union urges Ethiopia, Eritrea and Egypt to refrain from actions that could undermine stability - Reuters",
      "published": "2026-10-02T03:41:00+00:00",
      "summary": "African Union urges Ethiopia, Eritrea and Egypt to refrain from actions that could undermine stability Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "South Korea's Lee threatens action against Ukraine over transfer of North Koreans - Reuters",
      "published": "2026-10-02T03:00:00+00:00",
      "summary": "South Korea's Lee threatens action against Ukraine over transfer of North Koreans Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Gold steadies before US payrolls data, set for second weekly loss - Reuters",
      "published": "2026-10-02T02:24:00+00:00",
      "summary": "Gold steadies before US payrolls data, set for second weekly loss Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Asian shares fall after wild swings in bonds, FX; US jobs data looms - Reuters",
      "published": "2026-10-02T02:10:00+00:00",
      "summary": "Asian shares fall after wild swings in bonds, FX; US jobs data looms Reuters"
     },
     {
-     "ref": "reuters_world#18",
-     "title": "Dollar at 17-month high as bond rout, French fiscal worries weigh on euro - Reuters",
+     "ref": "reuters_world#19",
+     "title": "Euro set for biggest weekly fall in months vs dollar as France fiscal trajectory weighs - Reuters",
      "published": "2026-10-02T01:46:00+00:00",
-     "summary": "Dollar at 17-month high as bond rout, French fiscal worries weigh on euro Reuters"
+     "summary": "Euro set for biggest weekly fall in months vs dollar as France fiscal trajectory weighs Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "GCash parent Mynt prices $845 million IPO, set to bolster Philippine share market - Reuters",
      "published": "2026-10-02T01:35:00+00:00",
      "summary": "GCash parent Mynt prices $845 million IPO, set to bolster Philippine share market Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Putin says the world is living through a dangerous moment, warns West not to escalate - Reuters",
      "published": "2026-10-01T23:59:07+00:00",
      "summary": "Putin says the world is living through a dangerous moment, warns West not to escalate Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Ukrainian minister hopes to heal 'misunderstanding' with South Korea, media reports - Reuters",
      "published": "2026-10-01T23:55:48+00:00",
      "summary": "Ukrainian minister hopes to heal 'misunderstanding' with South Korea, media reports Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes - Reuters",
      "published": "2026-10-01T23:44:00+00:00",
      "summary": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Fed's Logan calls for '50 bps or more' in rate hikes - Reuters",
      "published": "2026-10-01T23:33:06+00:00",
      "summary": "Fed's Logan calls for '50 bps or more' in rate hikes Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity - Reuters",
-     "published": "2026-10-01T23:24:00+00:00",
-     "summary": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity Reuters"
     }
    ]
   }
