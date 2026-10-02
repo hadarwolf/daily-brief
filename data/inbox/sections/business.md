@@ -534,23 +534,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0571,
+   "last": 3.0566,
    "prev_close": 3.0728,
-   "change_pct": -0.51,
+   "change_pct": -0.53,
    "as_of": "2026-10-02"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 100.39,
+   "last": 99.76,
    "prev_close": 102.31,
-   "change_pct": -1.88,
+   "change_pct": -2.49,
    "as_of": "2026-10-02"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 86281.8828,
+   "last": 86306.7969,
    "prev_close": 84853.1016,
-   "change_pct": 1.68,
+   "change_pct": 1.71,
    "as_of": "2026-10-02"
   }
  },

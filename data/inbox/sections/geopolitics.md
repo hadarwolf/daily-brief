@@ -19,74 +19,74 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "Bill Lee - AP News",
-     "published": "2026-10-02T08:07:13+00:00",
+     "published": "2026-10-02T08:29:56+00:00",
      "summary": "Bill Lee AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-02T08:13:06+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico’s Pacific coast - AP News",
      "published": "2026-10-02T07:14:00+00:00",
      "summary": "Hurricane Rachel strengthens to a Category 3 storm off Mexico’s Pacific coast AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "In-flight attack on FlyDubai pilot puts aviation security measures under fresh scrutiny - AP News",
      "published": "2026-10-02T06:56:00+00:00",
      "summary": "In-flight attack on FlyDubai pilot puts aviation security measures under fresh scrutiny AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
+     "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+     "published": "2026-10-02T05:38:13+00:00",
+     "summary": "Associated Press News: Breaking News | Latest News Today AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "Nepal avalanche toll rises to 15 deaths with discovery of 8 bodies on Mount Himlung - AP News",
      "published": "2026-10-02T04:55:00+00:00",
      "summary": "Nepal avalanche toll rises to 15 deaths with discovery of 8 bodies on Mount Himlung AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#6",
      "title": "Asian shares mixed after global bond sell-off deepens and ahead of US jobs data - AP News",
      "published": "2026-10-02T04:53:00+00:00",
      "summary": "Asian shares mixed after global bond sell-off deepens and ahead of US jobs data AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#7",
      "title": "Braves hit 3 homers and Chris Sale closes out 6-2 win over Phillies to win Wild Card Series - AP News",
      "published": "2026-10-02T04:43:00+00:00",
      "summary": "Braves hit 3 homers and Chris Sale closes out 6-2 win over Phillies to win Wild Card Series AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-     "published": "2026-10-02T04:40:19+00:00",
-     "summary": "Associated Press News: Breaking News | Latest News Today AP News"
-    },
-    {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "Egypt arrests entire editorial team of one of the country’s few independent media - AP News",
      "published": "2026-10-02T04:22:00+00:00",
      "summary": "Egypt arrests entire editorial team of one of the country’s few independent media AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "Trump administration says it has no plans for ICE officers at polls. Activists are preparing, anyway - AP News",
      "published": "2026-10-02T04:01:00+00:00",
      "summary": "Trump administration says it has no plans for ICE officers at polls. Activists are preparing, anyway AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "Pete Hegseth creates a Pentagon Office of Religious Affairs reporting directly to him - AP News",
      "published": "2026-10-02T04:01:00+00:00",
      "summary": "Pete Hegseth creates a Pentagon Office of Religious Affairs reporting directly to him AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Presidents rarely visit Indian Country. Trump’s rally on the Choctaw Nation is the latest - AP News",
      "published": "2026-10-02T03:23:00+00:00",
      "summary": "Presidents rarely visit Indian Country. Trump’s rally on the Choctaw Nation is the latest AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-     "published": "2026-10-02T02:44:11+00:00",
-     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
      "ref": "ap_world#12",
@@ -120,51 +120,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#17",
+     "title": "Massachusetts man charged with cyberstalking podcaster and former Trump official Katie Miller - AP News",
+     "published": "2026-10-02T00:48:00+00:00",
+     "summary": "Massachusetts man charged with cyberstalking podcaster and former Trump official Katie Miller AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "Federal report says pilots weren't warned about wind before Amazon cargo plane crashed in Miami - AP News",
      "published": "2026-10-02T00:27:36+00:00",
      "summary": "Federal report says pilots weren't warned about wind before Amazon cargo plane crashed in Miami AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "Donor revives fraud claims against Christian worship leader Sean Feucht over a $250,000 donation - AP News",
      "published": "2026-10-02T00:20:00+00:00",
      "summary": "Donor revives fraud claims against Christian worship leader Sean Feucht over a $250,000 donation AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "Trump administration's quiet move makes it harder for some US citizens abroad to vote, lawsuit says - AP News",
      "published": "2026-10-02T00:18:00+00:00",
      "summary": "Trump administration's quiet move makes it harder for some US citizens abroad to vote, lawsuit says AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video - AP News",
      "published": "2026-10-02T00:15:00+00:00",
      "summary": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Astronauts arrive at International Space Station on the quickest US express flight yet - AP News",
      "published": "2026-10-02T00:07:00+00:00",
      "summary": "Astronauts arrive at International Space Station on the quickest US express flight yet AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "MLB won't consider game at Grand Teton National Park, says was only conducting initial due diligence - AP News",
      "published": "2026-10-01T23:51:00+00:00",
      "summary": "MLB won't consider game at Grand Teton National Park, says was only conducting initial due diligence AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "Rapper Rick Ross stands charged with battery after a woman alleges domestic violence - AP News",
      "published": "2026-10-01T23:32:57+00:00",
      "summary": "Rapper Rick Ross stands charged with battery after a woman alleges domestic violence AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "G20 trade talks yield little progress while tensions simmer - AP News",
-     "published": "2026-10-01T22:42:13+00:00",
-     "summary": "G20 trade talks yield little progress while tensions simmer AP News"
     }
    ]
   },
@@ -174,57 +174,57 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+     "published": "2026-10-02T08:33:38+00:00",
+     "summary": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "OpenAI fires workers for 'mishandling sensitive information'",
+     "published": "2026-10-02T08:20:32+00:00",
+     "summary": "The former employees were investigated for sharing data with an outside AI evaluation group."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+     "published": "2026-10-02T08:16:32+00:00",
+     "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+    },
+    {
+     "ref": "bbc_world#3",
      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
      "published": "2026-10-02T08:01:10+00:00",
      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region."
     },
     {
-     "ref": "bbc_world#1",
-     "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-     "published": "2026-10-02T07:42:09+00:00",
-     "summary": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi."
-    },
-    {
-     "ref": "bbc_world#2",
-     "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-     "published": "2026-10-02T07:31:52+00:00",
-     "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
-    },
-    {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
      "published": "2026-10-02T05:53:51+00:00",
      "summary": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
      "published": "2026-10-02T04:21:31+00:00",
      "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
      "published": "2026-10-02T03:09:13+00:00",
      "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
      "published": "2026-10-02T02:49:44+00:00",
      "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "What happened in the failed execution of Christa Pike - and what next?",
      "published": "2026-10-02T02:11:34+00:00",
      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
-    },
-    {
-     "ref": "bbc_world#8",
-     "title": "OpenAI fires workers for mishandling 'sensitive information'",
-     "published": "2026-10-02T01:34:56+00:00",
-     "summary": "The former employees were investigated for sharing data with an outside AI evaluation group."
     },
     {
      "ref": "bbc_world#9",
@@ -242,7 +242,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "ref": "bbc_world#11",
      "title": "Spain and China are cosying up - to the anger of many in the EU",
      "published": "2026-10-01T23:42:33+00:00",
-     "summary": "Amid global tumult, the two countries alliance is not the only unlikely pairing."
+     "summary": "Amid global tumult, the two countries' alliance is not the only unlikely pairing."
     },
     {
      "ref": "bbc_world#12",
@@ -360,15 +360,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
-     "title": "Brazil’s Election Won’t Fix What’s Broken",
-     "published": "2026-10-02T04:00:00+00:00",
-     "summary": "Reckoning with the country’s real crisis."
-    },
-    {
-     "ref": "foreign_affairs#1",
      "title": "Palestinians Want a Two-State Solution",
      "published": "2026-10-02T04:00:00+00:00",
      "summary": "A new majority—even in Gaza—support compromise with Israel."
+    },
+    {
+     "ref": "foreign_affairs#1",
+     "title": "Brazil’s Election Won’t Fix What’s Broken",
+     "published": "2026-10-02T04:00:00+00:00",
+     "summary": "Reckoning with the country’s real crisis."
     },
     {
      "ref": "foreign_affairs#2",
@@ -426,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Hungary welcomes Ukraine's bill strengthening Hungarian minority rights - Reuters",
+     "published": "2026-10-02T07:27:43+00:00",
+     "summary": "Hungary welcomes Ukraine's bill strengthening Hungarian minority rights Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "Why renewed fighting in Ethiopia's Tigray risks a regional war - Reuters",
      "published": "2026-10-02T07:11:39+00:00",
      "summary": "Why renewed fighting in Ethiopia's Tigray risks a regional war Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "Volvo Cars warns of weaker sales, cash flow - Reuters",
+     "ref": "reuters_world#2",
+     "title": "Volvo Cars pulls sales guidance on Chinese outlook and slow US rebound - Reuters",
      "published": "2026-10-02T06:43:00+00:00",
-     "summary": "Volvo Cars warns of weaker sales, cash flow Reuters"
+     "summary": "Volvo Cars pulls sales guidance on Chinese outlook and slow US rebound Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says - Reuters",
      "published": "2026-10-02T06:21:00+00:00",
      "summary": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show - Reuters",
      "published": "2026-10-02T05:56:00+00:00",
      "summary": "EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "US congressman demands Starbucks close its first stores in China's Xinjiang - Reuters",
      "published": "2026-10-02T05:34:00+00:00",
      "summary": "US congressman demands Starbucks close its first stores in China's Xinjiang Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Former Taiwan president Tsai to visit US next week - Reuters",
      "published": "2026-10-02T05:34:00+00:00",
      "summary": "Former Taiwan president Tsai to visit US next week Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "About 400 French schools closed as some student protests turn violent - Reuters",
      "published": "2026-10-02T05:21:00+00:00",
      "summary": "About 400 French schools closed as some student protests turn violent Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Evacuated in an incubator, now back in Gaza getting to know mama - Reuters",
      "published": "2026-10-02T05:03:00+00:00",
      "summary": "Evacuated in an incubator, now back in Gaza getting to know mama Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Foiled flydubai attack clouds regional airline revival - Reuters",
      "published": "2026-10-02T05:01:00+00:00",
      "summary": "Foiled flydubai attack clouds regional airline revival Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Russian air strikes kill one, restrict traffic across Dnipro River in Kyiv - Reuters",
      "published": "2026-10-02T04:32:00+00:00",
      "summary": "Russian air strikes kill one, restrict traffic across Dnipro River in Kyiv Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "India's 'cockroach' youth party, student groups to protest, demand poll chief's resignation - Reuters",
      "published": "2026-10-02T04:22:00+00:00",
      "summary": "India's 'cockroach' youth party, student groups to protest, demand poll chief's resignation Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Myanmar ships with returnees from Malaysia enter home waters, state media says - Reuters",
      "published": "2026-10-02T04:21:00+00:00",
      "summary": "Myanmar ships with returnees from Malaysia enter home waters, state media says Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "African Union urges Ethiopia, Eritrea and Egypt to refrain from actions that could undermine stability - Reuters",
      "published": "2026-10-02T03:41:00+00:00",
      "summary": "African Union urges Ethiopia, Eritrea and Egypt to refrain from actions that could undermine stability Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "South Korea's Lee threatens action against Ukraine over transfer of North Koreans - Reuters",
      "published": "2026-10-02T03:00:00+00:00",
      "summary": "South Korea's Lee threatens action against Ukraine over transfer of North Koreans Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Gold steadies before US payrolls data, set for second weekly loss - Reuters",
      "published": "2026-10-02T02:24:00+00:00",
      "summary": "Gold steadies before US payrolls data, set for second weekly loss Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Asian shares fall after wild swings in bonds, FX; US jobs data looms - Reuters",
      "published": "2026-10-02T02:10:00+00:00",
      "summary": "Asian shares fall after wild swings in bonds, FX; US jobs data looms Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Dollar at 17-month high as bond rout, French fiscal worries weigh on euro - Reuters",
      "published": "2026-10-02T01:46:00+00:00",
      "summary": "Dollar at 17-month high as bond rout, French fiscal worries weigh on euro Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "GCash parent Mynt prices $845 million IPO, set to bolster Philippine share market - Reuters",
      "published": "2026-10-02T01:35:00+00:00",
      "summary": "GCash parent Mynt prices $845 million IPO, set to bolster Philippine share market Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Putin says the world is living through a dangerous moment, warns West not to escalate - Reuters",
      "published": "2026-10-01T23:59:07+00:00",
      "summary": "Putin says the world is living through a dangerous moment, warns West not to escalate Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Ukrainian minister hopes to heal 'misunderstanding' with South Korea, media reports - Reuters",
      "published": "2026-10-01T23:55:48+00:00",
      "summary": "Ukrainian minister hopes to heal 'misunderstanding' with South Korea, media reports Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes - Reuters",
      "published": "2026-10-01T23:44:00+00:00",
      "summary": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Fed's Logan calls for '50 bps or more' in rate hikes - Reuters",
      "published": "2026-10-01T23:33:06+00:00",
      "summary": "Fed's Logan calls for '50 bps or more' in rate hikes Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity - Reuters",
      "published": "2026-10-01T23:24:00+00:00",
      "summary": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "New Mexico wants Meta to pay up to $40 billion in penalties after data privacy trial - Reuters",
      "published": "2026-10-01T23:22:16+00:00",
      "summary": "New Mexico wants Meta to pay up to $40 billion in penalties after data privacy trial Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Pilots of crashed Amazon cargo plane were unaware of wind conditions - Reuters",
-     "published": "2026-10-01T22:53:46+00:00",
-     "summary": "Pilots of crashed Amazon cargo plane were unaware of wind conditions Reuters"
     }
    ]
   }
