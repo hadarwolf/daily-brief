@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-02",
+  "questions": [
+    {
+      "id": "q1-geopolitics-flydubai",
+      "section": "geopolitics",
+      "story_id": "flydubai-attack-iran-pressure",
+      "answer_index": 1,
+      "en": {
+        "question": "What did President Trump say the US would do if investigators confirm Iran was behind the Flydubai attack?",
+        "options": [
+          "Impose a complete flight ban on Iran",
+          "Hit Iran \"very hard\"",
+          "Request UN Security Council sanctions",
+          "Expel Iran's ambassador to the US"
+        ],
+        "explanation": "Trump said the US would hit Iran \"very hard\" if it's shown Tehran was behind the attack."
+      },
+      "he": {
+        "question": "מה אמר הנשיא טראמפ שארה\"ב תעשה אם יוכח שאיראן עמדה מאחורי הפיגוע בטיסת פליי דובאי?",
+        "options": [
+          "תטיל איסור טיסה מלא על איראן",
+          "תכה בה \"בעוצמה\"",
+          "תבקש סנקציות במועצת הביטחון של האו\"ם",
+          "תגרש את שגריר איראן מארה\"ב"
+        ],
+        "explanation": "טראמפ אמר שארה\"ב \"תכה בעוצמה\" באיראן אם יתברר שהיא עומדת מאחורי הפיגוע."
+      }
+    },
+    {
+      "id": "q2-business-bond-rout",
+      "section": "business",
+      "story_id": "global-bond-rout",
+      "answer_index": 0,
+      "en": {
+        "question": "According to today's brief, what is one of the main forces driving the global surge in government bond yields?",
+        "options": [
+          "Heavier government borrowing for defense budgets amid persistent inflation",
+          "A sudden wave of government bond buybacks",
+          "A global shortage of newly printed banknotes",
+          "Central banks banning foreign purchases of government debt"
+        ],
+        "explanation": "The brief cites heavier government borrowing, defense spending, energy-driven inflation and AI capital demands as the key drivers of the selloff."
+      },
+      "he": {
+        "question": "לפי התקציר של היום, מה אחד הגורמים המרכזיים לעליית התשואות הגלובלית באג\"ח ממשלתיות?",
+        "options": [
+          "גידול בחוב הממשלתי למימון תקציבי ביטחון על רקע אינפלציה עמידה",
+          "גל פתאומי של רכישות חזרה של אג\"ח ממשלתי",
+          "מחסור עולמי בהדפסת שטרות כסף חדשים",
+          "איסור של בנקים מרכזיים על רכישת חוב ממשלתי על ידי זרים"
+        ],
+        "explanation": "התקציר מצטט חוב ממשלתי כבד יותר, הוצאות ביטחון, אינפלציה ממחירי אנרגיה וביקוש הון מ-AI כגורמים המרכזיים למכירה."
+      }
+    },
+    {
+      "id": "q3-israeli-politics-abu-shehadeh",
+      "section": "israeli_politics",
+      "story_id": "abu-shehadeh-balad-withdraws",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did the Central Elections Committee originally disqualify Balad chairman Sami Abu Shehadeh from running?",
+        "options": [
+          "An article he published the day after the October 7 massacre, deemed \"support for terrorism\"",
+          "A corruption indictment",
+          "Failing to submit required campaign financial disclosures",
+          "A prior criminal conviction"
+        ],
+        "explanation": "The disqualification was based on an article Abu Shehadeh published the day after October 7, which the committee called \"support for terrorism.\""
+      },
+      "he": {
+        "question": "מדוע ועדת הבחירות המרכזית פסלה בתחילה את יו\"ר בל\"ד סמי אבו שחאדה מהתמודדות?",
+        "options": [
+          "מאמר שפרסם יום לאחר טבח 7 באוקטובר, שהוגדר \"תמיכה בטרור\"",
+          "כתב אישום בשחיתות",
+          "אי-הגשת דיווחים פיננסיים נדרשים לבחירות",
+          "הרשעה פלילית קודמת"
+        ],
+        "explanation": "הפסילה התבססה על מאמר שאבו שחאדה פרסם יום לאחר 7 באוקטובר, שהוועדה הגדירה \"תמיכה בטרור\"."
+      }
+    }
+  ]
+}

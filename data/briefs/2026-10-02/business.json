@@ -1,0 +1,101 @@
+{
+  "section": "business",
+  "date": "2026-10-02",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-02T04:42:21+00:00",
+  "stories": [
+    {
+      "id": "global-bond-rout",
+      "kind": "analysis",
+      "en": {
+        "headline": "Why Government Bonds Are Selling Off Almost Everywhere at Once",
+        "scroll": "A global bond selloff has pushed US 10-year Treasury yields to a 24-year high and UK 30-year yields to their highest since 1998, as markets price in heavier government borrowing and persistent inflation.",
+        "coffee": "Government bond yields have been climbing almost everywhere at once: the US 10-year Treasury yield hit its highest level since 2002, UK 30-year yields reached their highest since 1998, and funds have been dumping French bonds over fiscal concerns. Since a bond's price moves opposite its yield, this is a broad-based bond selloff — investors demanding more return to hold the same government debt, which pushes prices down and borrowing costs up for everyone from treasuries to mortgage holders.\n\nWhat's driving it is a stack of related pressures rather than one cause: heavier government borrowing as defense budgets expand, persistent inflation kept elevated by Middle East-driven energy costs, and massive private capital being funneled into AI infrastructure — all competing for the same pool of savings that used to flow more easily into government bonds. The Fed, for its part, has signaled it will likely hold rates steady this month, which gave Treasuries a modest rebound even as European yields kept climbing.\n\nWhat to watch: whether this settles into a \"new normal\" of higher long-term rates, or whether — as some traders now whisper — it is \"a faint smell of a crisis in the making,\" where a bond rout starts feeding financial instability rather than just reflecting it.",
+        "deep": "## Background\n\nWhen investors buy a government bond, they are lending money for a fixed return, paid out as a yield. The two move in opposite directions: pay more for the same bond, and the fixed income it generates is a smaller percentage of what you paid, so the yield falls. Investors sell when they want a higher return for the same risk; prices fall and yields rise. Yields are not random; they roughly track short-term policy rates set by central banks, plus a term premium — extra compensation demanded for tying up money for longer, given uncertainty over future rates and inflation — plus whatever additional risk premium a borrower's specific fiscal position requires.\n\n## The story\n\nOver the past few sessions, long-term government yields have surged simultaneously across the US, the UK, France and beyond. The US 10-year Treasury yield touched its highest level since 2002; UK 30-year gilt yields hit their highest since 1998; in France, one major Japanese asset manager dumped its entire government bond holding over fiscal concerns, redirecting the money into German bunds and short-dated Japanese debt instead. Oil markets added their own pressure: crude climbed as the US sent military reinforcements toward the Middle East, and Gulf shipping disruptions kept energy costs elevated even as tankers began returning to the Strait of Hormuz. US Treasuries did manage a partial rebound, helped by comments from Fed Vice Chair Philip Jefferson signaling the central bank will likely hold rates steady in October rather than raise them again.\n\n## Second-order effects\n\nWhat makes this rout notable is that it isn't being driven by one government's specific troubles, the way a Greek or Argentine debt crisis would be. It is showing up almost everywhere, which points to shared pressures: governments are borrowing more to fund larger defense budgets, just as conflicts in the Middle East and Ukraine keep energy prices — and therefore inflation — elevated. At the same time, enormous sums of private capital are being funneled into AI data-center buildouts, competing for the same savings that would otherwise flow into government debt. When a government issues more debt just as investors want to hold less of it, or demand more yield to hold it, prices fall and borrowing costs rise — for the government itself, and for anyone whose mortgage or corporate loan rate is priced off those same benchmarks. That's one reason US mortgage rates just posted their biggest jump in four years.\n\n## What to watch next\n\nTwo things separate an uncomfortable bond market from a dangerous one. The first is whether this is simply a repricing — markets settling into a view that rates and inflation will stay structurally higher, given larger deficits and heavier capital demands from AI and defense. The second, more worrying possibility is a self-reinforcing spiral: traders already describe the unwinding of popular hedge-fund trades as adding \"a faint smell of a crisis in the making\" to the selloff, where forced selling by one set of investors pushes yields higher, forcing more selling elsewhere. Watch whether central banks — the Fed in particular, which just signaled patience — need to step in more forcefully if the rout stops reflecting fundamentals and starts feeding on itself."
+      },
+      "he": {
+        "headline": "מדוע תשואות האג\"ח הממשלתיות מזנקות כמעט בכל העולם בבת אחת",
+        "scroll": "מכירת אג\"ח גלובלית דחפה את תשואת האג\"ח האמריקאית ל-10 שנים לשיא של 24 שנה ואת תשואת ה-30 שנה הבריטית לשיא מאז 1998, על רקע תמחור של חוב ממשלתי כבד יותר ואינפלציה עמידה.",
+        "coffee": "תשואות האג\"ח הממשלתיות מזנקות כמעט בכל העולם בבת אחת: תשואת האג\"ח האמריקאית ל-10 שנים נגעה בשיא מאז 2002, תשואת האג\"ח הבריטית ל-30 שנה הגיעה לשיא מאז 1998, וקרנות נטשו אג\"ח צרפתיות על רקע חששות פיסקליים. מכיוון שמחיר אג\"ח נע בכיוון הפוך לתשואה שלה, זו מכירה רחבה של אג\"ח - משקיעים דורשים תשואה גבוהה יותר כדי להחזיק באותו חוב ממשלתי, מה שמוריד את המחירים ומעלה את עלויות המימון לכולם, מממשלות ועד בעלי משכנתאות.\n\nמה שמניע את התנודה אינו גורם בודד אלא ערימה של לחצים קשורים: גידול בחוב הממשלתי לצד הגדלת תקציבי הביטחון, אינפלציה עמידה שמוחזקת גבוהה בשל עליית מחירי האנרגיה על רקע המלחמות במזרח התיכון, והון פרטי אדיר שמופנה לתשתיות AI - כולם מתחרים על אותה בריכת חיסכון שבעבר זרמה בקלות רבה יותר לאג\"ח ממשלתיות. הפד, מצדו, אותת כי יותיר כנראה את הריבית ללא שינוי החודש, מה שסייע לאג\"ח האמריקאיות להתאושש במעט דווקא כשהתשואות באירופה המשיכו לטפס.\n\nמה לצפות: האם המצב יתייצב ל\"נורמה חדשה\" של ריביות ארוכות טווח גבוהות יותר, או שמא - כפי שכמה סוחרים כבר רוטנים - זהו \"ריח קלוש של משבר בהתהוות\", שבו מכירת האג\"ח מתחילה להזין חוסר יציבות פיננסית ולא רק לשקף אותה.",
+        "deep": "## רקע\n\nכשמשקיע קונה אג\"ח ממשלתית, הוא מלווה כסף בתמורה לתשואה קבועה. השניים נעים בכיוונים מנוגדים: שלמו יותר על אותה אג\"ח, וההכנסה הקבועה שהיא מניבה הופכת לאחוז קטן יותר ממה ששילמתם - כלומר התשואה יורדת. משקיעים מוכרים כשהם רוצים תשואה גבוהה יותר על אותו סיכון; המחירים יורדים והתשואות עולות. התשואות אינן מקריות; הן עוקבות בגדול אחרי ריבית הבנק המרכזי לטווח קצר, בתוספת \"פרמיית בגרות\" (term premium) - תשלום נוסף שמשקיעים דורשים כדי לנעול כסף לטווח ארוך יותר, בשל חוסר הוודאות לגבי ריבית ואינפלציה עתידיות - ובתוספת כל פרמיית סיכון נוספת שמצבו הפיסקלי הספציפי של הלווה מצריך.\n\n## הסיפור\n\nבימים האחרונים זינקו תשואות האג\"ח הממשלתיות לטווח ארוך בד בבד בארה\"ב, בריטניה, צרפת ועוד. תשואת האג\"ח האמריקאית ל-10 שנים נגעה בשיא מאז 2002; תשואת האג\"ח הבריטית ל-30 שנה הגיעה לשיא מאז 1998; בצרפת, חברת ניהול נכסים יפנית גדולה מכרה את כל אחזקותיה באג\"ח הממשלה הצרפתית על רקע חששות פיסקליים, והעבירה את הכסף לאג\"ח גרמניות ויפניות קצרות טווח. שוק הנפט הוסיף לחץ משלו: מחירי הנפט טיפסו בעקבות שליחת כוחות אמריקאים נוספים למזרח התיכון, והפרעות בשילוח במפרץ הפרסי המשיכו להחזיק את מחירי האנרגיה גבוהים גם כשמכליות החלו לחזור למצר הורמוז. אג\"ח ארה\"ב דווקא התאוששו באופן חלקי, בעקבות דברי סגן יו\"ר הפד פיליפ ג'פרסון שאותת כי הבנק המרכזי יותיר כנראה את הריבית ללא שינוי באוקטובר.\n\n## השלכות\n\nמה שמייחד את המכירה הזו הוא שאינה נובעת מצרה פיסקלית של מדינה בודדת, כמו במשבר חוב יווני או ארגנטינאי. היא מופיעה כמעט בכל מקום, מה שמעיד על לחצים משותפים: ממשלות לוקחות יותר חוב כדי לממן תקציבי ביטחון גדולים יותר, בדיוק כשהסכסוכים במזרח התיכון ובאוקראינה מחזיקים את מחירי האנרגיה - ולכן האינפלציה - גבוהים. במקביל, סכומי הון פרטי עצומים מופנים להקמת מרכזי נתונים ל-AI, ומתחרים על אותו חיסכון שאחרת היה זורם לחוב ממשלתי. כשממשלה מנפיקה יותר חוב באותו זמן שבו משקיעים רוצים להחזיק פחות ממנו, או דורשים תשואה גבוהה יותר כדי להחזיק בו, המחירים יורדים ועלויות המימון עולות - גם לממשלה עצמה וגם לכל מי שריבית המשכנתא או ההלוואה העסקית שלו מתומחרת לפי אותם מדדי יחוס. זו אחת הסיבות לכך שריבית המשכנתא בארה\"ב רשמה לאחרונה את הזינוק השבועי החד ביותר שלה זה ארבע שנים.\n\n## מה הלאה\n\nשני דברים מבדילים בין שוק אג\"ח לא נוח לבין שוק אג\"ח מסוכן. הראשון הוא אם זו פשוט תמחור מחדש - השוק מתייצב על תפיסה שריביות ואינפלציה יישארו גבוהות מבנית יותר, בהינתן גירעונות גדולים יותר ודרישות הון כבדות יותר מ-AI ומביטחון. השני, המטריד יותר, הוא מעגל שמזין את עצמו: סוחרים מתארים כבר את פירוק עסקאות גידור פופולריות כמוסיף \"ריח קלוש של משבר בהתהוות\" למכירה, שבו מכירה כפויה של קבוצת משקיעים אחת דוחפת את התשואות גבוה יותר, ומכריחה מכירה נוספת במקום אחר. יש לעקוב אם בנקים מרכזיים - ובראשם הפד, שזה עתה אותת על סבלנות - יצטרכו להתערב בצורה אגרסיבית יותר אם המכירה תפסיק לשקף יסודות כלכליים ותתחיל להזין את עצמה."
+      },
+      "tags": [
+        "bond-market",
+        "interest-rates",
+        "monetary-policy",
+        "fiscal-risk"
+      ],
+      "sources": [
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Global Bond Rout Is Getting Messy",
+          "url": "https://www.wsj.com/finance/investing/the-global-bond-rout-is-getting-messy-1c120a5b?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Bond Rout Is Deepening Even as Oil Tankers Return to the Strait of Hormuz",
+          "url": "https://www.wsj.com/finance/commodities-futures/the-bond-rout-is-deepening-even-as-oil-tankers-return-to-the-strait-of-hormuz-30d8189d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Treasuries Rebound as Global Bond Rout Continues",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-02/treasuries-rebound-as-global-bond-rout-continues-video"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Top Fed official signals central bank will keep rates on hold in October",
+          "url": "https://www.ft.com/content/e3a53272-385d-40a8-ac77-408f4c136f6f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט סגרה יום תנודתי בעליות קלות; מחיר הנפט טיפס ל-102 דולר לחבית",
+          "url": "https://www.themarker.com/wallstreet/2026-10-01/ty-article-live/000001a0-e185-d272-adf6-fdc703270000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "ממרוץ ה–AI ועד למרוץ החימוש: עשר סיבות לקפיצה של תשואות האג\"ח בעולם",
+          "url": "https://www.themarker.com/wallstreet/2026-10-01/ty-article-magazine/.premium/000001a0-f672-d6ee-a5f7-f77294ef0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4218.25,
+      "prev_close": 4203.98,
+      "change_pct": 0.34,
+      "as_of": "2026-10-01"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7666.4502,
+      "prev_close": 7651.54,
+      "change_pct": 0.19,
+      "as_of": "2026-10-01"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0728,
+      "prev_close": 3.0659,
+      "change_pct": 0.23,
+      "as_of": "2026-10-01"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 102.22,
+      "prev_close": 103.53,
+      "change_pct": -1.27,
+      "as_of": "2026-10-01"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 85407.3984,
+      "prev_close": 83553.8516,
+      "change_pct": 2.22,
+      "as_of": "2026-10-02"
+    }
+  }
+}

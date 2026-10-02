@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-02",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-02T04:42:21+00:00",
+  "stories": [
+    {
+      "id": "word-crowding-out",
+      "kind": "word",
+      "en": {
+        "headline": "Crowding out (דחיקת השקעות)",
+        "scroll": "When heavy government borrowing soaks up so much available capital that private investment gets squeezed out.",
+        "coffee": "When a government borrows heavily, it competes with companies and households for the same pool of savings, pushing up interest rates and leaving less capital — and often less appetite — for private investment. Example: \"Economists worry that the surge in government bond issuance is crowding out private-sector investment just when businesses need financing most.\"",
+        "deep": "Use \"crowding out\" when describing how expanded government borrowing or spending reduces the capital, credit or even physical resources available to the private sector — not simply when government spending grows in absolute terms. A common confusion: crowding out specifically claims private activity falls *because of* the public borrowing, not just that both increased together; critics of the idea argue that in a weak economy, government spending can instead \"crowd in\" private investment by boosting demand. Two more examples: \"In a recession, low interest rates mean government deficits are less likely to crowd out private borrowing.\" \"China's infrastructure spending in the 2010s was criticized for crowding out loans to small private firms.\" The Hebrew term is דחיקת השקעות (literally, \"pushing investments out\") — sometimes also called דחיקה פיסקלית."
+      },
+      "he": {
+        "headline": "Crowding out (דחיקת השקעות)",
+        "scroll": "מצב שבו היקף גדול של חוב ממשלתי סופג כך הרבה מההון הפנוי, שהשקעות פרטיות נדחקות הצידה.",
+        "coffee": "כשממשלה לוקחת הלוואות גדולות, היא מתחרה עם חברות ומשקי בית על אותה בריכת חיסכון, מה שמעלה את הריבית ומשאיר פחות הון - ולעיתים גם פחות תשוקה - להשקעה פרטית. לדוגמה: \"כלכלנים חוששים שהזינוק בהנפקת אג\"ח ממשלתי דוחק השקעות של המגזר הפרטי בדיוק כשחברות הכי זקוקות למימון.\"",
+        "deep": "יש להשתמש במונח \"דחיקת השקעות\" (crowding out) כשמתארים כיצד הרחבת ההלוואות או ההוצאה הממשלתית מצמצמת את ההון, האשראי או אפילו המשאבים הפיזיים העומדים לרשות המגזר הפרטי - לא רק כשההוצאה הממשלתית גדלה במונחים אבסולוטיים. בלבול נפוץ: הדחיקה טוענת באופן ספציפי שהפעילות הפרטית יורדת *בשל* ההלוואה הציבורית, לא רק ששתיהן גדלו יחד; מבקרי הרעיון טוענים שבמשק חלש, הוצאה ממשלתית יכולה במקום זאת \"לדחוף השקעה פנימה\" (crowd in) על ידי הגדלת הביקוש. שתי דוגמאות נוספות: \"במיתון, ריבית נמוכה אומרת שגירעונות ממשלתיים נוטים פחות לדחוק הלוואות פרטיות.\" \"ההוצאה הסינית על תשתיות בשנות ה-2010 ספגה ביקורת על דחיקת הלוואות לחברות פרטיות קטנות.\" המונח האנגלי הוא crowding out."
+      },
+      "tags": [
+        "crowding-out",
+        "fiscal-policy",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-mark-to-market",
+      "kind": "word",
+      "en": {
+        "headline": "Mark-to-market (הערכת שווי לפי שוק)",
+        "scroll": "Valuing an asset on your books at its current market price, rather than at what you originally paid for it.",
+        "coffee": "Mark-to-market accounting updates the recorded value of an asset — a bond, a stock position, a loan — to reflect what it would actually sell for today, rather than its original purchase price. This makes losses (and gains) show up immediately on paper, even before anything is sold. Example: \"When bond yields spiked, the fund had to mark its Treasury holdings to market, turning an unrealized dip into a reported loss.\"",
+        "deep": "Use mark-to-market when discussing how a paper loss or gain gets recognized in accounts or financial statements, especially for tradable securities, derivatives and bank loan books. A common confusion: a mark-to-market loss isn't the same as a realized loss — the asset hasn't been sold, and the value could recover before it is. But the accounting loss still matters: it can trigger margin calls, breach loan covenants, or weaken a bank's reported capital ratios, even if nothing is actually sold. Two more examples: \"Silicon Valley Bank's unrealized, mark-to-market losses on its bond portfolio became a real problem once depositors forced it to sell.\" \"Hedge funds mark their positions to market daily, so a bad week shows up in investor statements immediately.\" In Hebrew: הערכת שווי לפי שוק, or simply \"מארק-טו-מרקט\" in trading-floor slang."
+      },
+      "he": {
+        "headline": "Mark-to-market (הערכת שווי לפי שוק)",
+        "scroll": "רישום שווי נכס בספרים לפי מחיר השוק הנוכחי שלו, ולא לפי מה ששולם עליו במקור.",
+        "coffee": "הערכת שווי לפי שוק (mark-to-market) מעדכנת את השווי הרשום של נכס - אג\"ח, החזקה במניה, הלוואה - כך שישקף את מה שהוא היה נמכר בו היום, ולא את מחיר הרכישה המקורי. כך הפסדים (ורווחים) מופיעים באופן מיידי על הנייר, עוד לפני שנמכר דבר. לדוגמה: \"כשתשואות האג\"ח זינקו, הקרן נאלצה להעריך את אחזקות האג\"ח שלה לפי שוק, מה שהפך ירידה לא ממומשת להפסד מדווח.\"",
+        "deep": "יש להשתמש במונח \"הערכת שווי לפי שוק\" כשמדברים על אופן ההכרה בהפסד או רווח על הנייר בחשבונות או בדוחות כספיים, בעיקר לגבי ניירות ערך הנסחרים, נגזרים ותיקי הלוואות בנקאיים. בלבול נפוץ: הפסד לפי שוק אינו זהה להפסד ממומש - הנכס לא נמכר, והשווי יכול להתאושש לפני שיימכר. אך ההפסד החשבונאי עדיין משמעותי: הוא יכול להפעיל קריאות לבטחונות, להפר תנאי הלוואה, או לפגוע ביחסי ההון המדווחים של בנק, גם אם בפועל לא נמכר דבר. שתי דוגמאות נוספות: \"ההפסדים הלא ממומשים, שהוערכו לפי שוק, בתיק האג\"ח של בנק סיליקון ואלי הפכו לבעיה ממשית רק כשהמפקידים הכריחו אותו למכור.\" \"קרנות גידור מעריכות את ההחזקות שלהן לפי שוק מדי יום, כך ששבוע גרוע מופיע בדיווח למשקיעים באופן מיידי.\" המונח האנגלי הוא mark-to-market."
+      },
+      "tags": [
+        "mark-to-market",
+        "accounting",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-kick-the-tires",
+      "kind": "word",
+      "en": {
+        "headline": "Kick the tires (לבדוק ביסודיות לפני סגירת עסקה)",
+        "scroll": "To examine something carefully — testing and questioning it — before committing to a deal.",
+        "coffee": "The phrase comes from checking a used car's tires before buying it: a quick, hands-on test before trusting something bigger. In business, it means doing preliminary due diligence, or just trying something out, often informally, before fully committing. Example: \"Before we sign anything, let's kick the tires on their financials for a week.\"",
+        "deep": "Use \"kick the tires\" for an early, often informal round of scrutiny — shorter and less rigorous than full due diligence, which follows if the tire-kicking goes well. A common confusion: it describes a preliminary look, not a final verdict; saying a deal is \"done\" after only kicking the tires overstates how much checking actually happened. Two more examples: \"The VC firm kicked the tires on a dozen startups before deciding which two to seriously pursue.\" \"We kicked the tires on the new vendor for a month before switching our whole supply chain.\" In Hebrew the idea is usually rendered as לבדוק ביסודיות לפני התחייבות (\"to check thoroughly before committing\")."
+      },
+      "he": {
+        "headline": "Kick the tires (לבדוק ביסודיות לפני סגירת עסקה)",
+        "scroll": "לבחון דבר מה בקפידה - לבדוק ולשאול שאלות - לפני שמתחייבים לעסקה.",
+        "coffee": "הביטוי מגיע מבדיקת הגלגלים של מכונית יד שנייה לפני הקנייה: בדיקה מהירה ומעשית לפני שנותנים אמון במשהו גדול יותר. בעסקים, הכוונה היא לביצוע בדיקת נאותות מקדימה, או סתם ניסוי, לרוב באופן לא רשמי, לפני התחייבות מלאה. לדוגמה: \"לפני שאנחנו חותמים על משהו, בואו נבדוק ביסודיות את הדוחות הכספיים שלהם במשך שבוע.\"",
+        "deep": "יש להשתמש בביטוי \"kick the tires\" לתיאור סקירה ראשונית, שלעיתים קרובות אינה רשמית - קצרה ופחות קפדנית מבדיקת נאותות מלאה, שמגיעה אם הבדיקה הראשונית מניבה תוצאה טובה. בלבול נפוץ: הביטוי מתאר מבט מקדים, לא פסק דין סופי; לומר שעסקה \"נגמרה\" אחרי בדיקה ראשונית בלבד מגזים בכמות הבדיקה שבוצעה בפועל. שתי דוגמאות נוספות: \"חברת ההשקעות בדקה ביסודיות תריסר סטארטאפים לפני שהחליטה אילו שניים לרדוף אחריהם ברצינות.\" \"בדקנו ביסודיות את הספק החדש במשך חודש לפני שהחלפנו את כל שרשרת האספקה שלנו.\" בעברית הכוונה נהוגה לרוב כ\"לבדוק ביסודיות לפני התחייבות\"."
+      },
+      "tags": [
+        "kick-the-tires",
+        "due-diligence",
+        "idiom"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-term-premium",
+      "kind": "concept",
+      "en": {
+        "headline": "Term Premium",
+        "scroll": "The extra yield investors demand for locking their money into a longer-term bond instead of a short-term one.",
+        "coffee": "A government might pay 4% to borrow for two years but 5% to borrow for thirty — same borrower, same currency, same ultimate credit risk, yet a very different price. Most of that gap is the term premium: extra compensation for bearing decades of uncertainty instead of just a couple of years.",
+        "deep": "Not all interest rates are created equal, even for the same borrower. A government might pay 4% to borrow money for two years, but 5% to borrow for thirty — same borrower, same currency, same ultimate risk of default, yet a very different price. The gap between the two is driven largely by the term premium: the extra compensation investors demand for tying up their money for longer, given the uncertainty of what will happen to interest rates and inflation in the meantime.\n\nHere's the intuition with a worked example. Imagine lending $1,000 to a government for two years at a fixed 4% annual rate. Two years is short enough that you have a reasonable sense of what inflation and interest rates will look like over that stretch. Now imagine lending the same $1,000 for thirty years. A lot can happen in three decades — wars, inflation spikes, new technologies, changes in how much debt the government issues. You cannot know today what a dollar of interest paid in year 25 will really be worth, or what returns you're giving up by not holding something else instead. To compensate you for bearing that uncertainty, the borrower has to offer a higher rate: the term premium.\n\nThe term premium isn't the only thing moving long-term yields — expectations about where short-term rates are headed matter too — but it's the piece that specifically reflects uncertainty and risk aversion about the distant future, rather than a forecast of any particular outcome. It's also why term premiums tend to rise exactly when uncertainty rises: in today's global bond selloff, investors demanding higher compensation to hold 30-year UK or US debt are, in part, pricing in genuine uncertainty about how high government deficits, defense spending and inflation will run over coming decades — not necessarily a forecast that any one of those things will definitely get worse, just that nobody can be sure.\n\nThis is also why a central bank cutting short-term rates doesn't automatically bring long-term borrowing costs down. The Fed can lower what banks charge each other overnight, but if investors remain uncertain about the next twenty years, the term premium on long bonds can stay stubbornly high — exactly the disconnect many analysts are pointing to in this week's bond market turmoil."
+      },
+      "he": {
+        "headline": "פרמיית בגרות (Term Premium)",
+        "scroll": "התשואה הנוספת שמשקיעים דורשים כדי לנעול את כספם באג\"ח ארוכת טווח במקום קצרת טווח.",
+        "coffee": "ממשלה יכולה לשלם 4% כדי לגייס כסף לשנתיים, אך 5% כדי לגייס אותו סכום לשלושים שנה - אותו לווה, אותו מטבע, אותו סיכון חדלות פירעון בסופו של דבר, אך מחיר שונה מאוד. רוב הפער הזה הוא פרמיית הבגרות: תשלום נוסף על נשיאת עשרות שנות חוסר ודאות במקום רק שנתיים.",
+        "deep": "לא כל שיעורי הריבית נולדו שווים, אפילו לאותו לווה. ממשלה יכולה לשלם 4% כדי לגייס כסף לשנתיים, אך 5% כדי לגייס אותו סכום לשלושים שנה - אותו לווה, אותו מטבע, אותו סיכון חדלות פירעון בסופו של דבר, אך מחיר שונה מאוד. הפער בין השניים מונע בעיקרו על ידי פרמיית הבגרות (term premium): התשלום הנוסף שמשקיעים דורשים כדי לנעול את כספם לטווח ארוך יותר, בהינתן חוסר הוודאות לגבי מה שיקרה לריבית ולאינפלציה בדרך.\n\nהנה האינטואיציה עם דוגמה מעשית. דמיינו שאתם מלווים 1,000 דולר לממשלה לשנתיים בריבית קבועה של 4% לשנה. שנתיים הן פרק זמן קצר מספיק כדי שיש לכם מושג סביר לגבי האינפלציה והריבית הצפויות בתקופה הזו. עכשיו דמיינו שאתם מלווים את אותם 1,000 דולר לשלושים שנה. הרבה יכול לקרות בשלושים שנה - מלחמות, זינוקי אינפלציה, טכנולוגיות חדשות, שינויים בכמות החוב שהממשלה מנפיקה. אינכם יכולים לדעת היום כמה באמת יהיה שווה דולר של ריבית שישולם בשנה ה-25, או אילו תשואות אתם מפסידים מכך שלא החזקתם משהו אחר במקום. כדי לפצות אתכם על נשיאת הסיכון הזה, הלווה חייב להציע ריבית גבוהה יותר: פרמיית הבגרות.\n\nפרמיית הבגרות אינה הגורם היחיד שמזיז תשואות ארוכות טווח - גם ציפיות לגבי כיוון הריבית הקצרה משחקות תפקיד - אך היא החלק שמשקף באופן ספציפי חוסר ודאות וסלידה מסיכון לגבי העתיד המרוחק, ולא תחזית לתוצאה מסוימת. זו גם הסיבה שפרמיות בגרות נוטות לעלות בדיוק כשחוסר הוודאות עולה: במכירת האג\"ח הגלובלית הנוכחית, משקיעים שדורשים תשואה גבוהה יותר כדי להחזיק אג\"ח בריטי או אמריקאי ל-30 שנה מתמחרים, בין היתר, חוסר ודאות אמיתי לגבי עד כמה יגדלו הגירעונות הממשלתיים, תקציבי הביטחון והאינפלציה בעשורים הקרובים - לא בהכרח תחזית שמשהו מהם בהכרח יחמיר.\n\nזו גם הסיבה שבנק מרכזי שמוריד ריבית קצרת טווח לא בהכרח מוריד איתו את עלויות המימון לטווח ארוך. הפד יכול להוריד את הריבית שבנקים גובים אחד מהשני על בסיס יומי, אך אם משקיעים נותרים לא בטוחים לגבי עשרים השנים הבאות, פרמיית הבגרות על אג\"ח ארוכות יכולה להישאר גבוהה באופן עקבי - וזה בדיוק הניתוק שעליו מצביעים אנליסטים רבים בטלטלה בשוק האג\"ח השבוע."
+      },
+      "tags": [
+        "term-premium",
+        "bonds",
+        "monetary-policy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-khashoggi",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2018: Washington Post Journalist Jamal Khashoggi Is Assassinated in Istanbul",
+        "scroll": "On this day in 2018, Saudi dissident and Washington Post columnist Jamal Khashoggi was killed inside the Saudi consulate in Istanbul.",
+        "coffee": "On October 2, 2018, Washington Post columnist and Saudi dissident Jamal Khashoggi entered the Saudi consulate in Istanbul to complete paperwork for his upcoming wedding — and never walked out. He was killed inside the consulate, in an operation that US and Turkish intelligence assessments later tied to the Saudi state.\n\nThe killing of a journalist critical of the Saudi government, inside a diplomatic building on Turkish soil, triggered global outrage, strained Saudi Arabia's relationships with Western governments, and became a defining case study in the risks faced by journalists who criticize powerful states from exile.",
+        "deep": "## What happened\n\nJamal Khashoggi, a Washington Post columnist who had become an outspoken critic of Crown Prince Mohammed bin Salman after years as a Saudi insider, went to the Saudi consulate in Istanbul on October 2, 2018 to collect documents he needed to marry his Turkish fiancée. He had visited the consulate once before without incident, but this time he did not emerge. Turkish authorities, working from surveillance and audio evidence, concluded he had been killed and dismembered inside the building by a team of Saudi operatives who had flown in for the operation.\n\n## Why it mattered\n\nThe killing became one of the defining international incidents of its decade because of where and how it happened: not a battlefield death or a vague disappearance, but the killing of a journalist inside a diplomatic facility, of a kind ordinarily treated as near-inviolable under international norms. It forced Western governments that had deepened ties with Saudi Arabia — arms sales, oil relationships, investment — to publicly weigh those interests against a killing many intelligence services attributed to the kingdom's own leadership. Saudi Arabia initially denied any involvement before acknowledging Khashoggi's death occurred inside the consulate, while maintaining shifting accounts of how and why.\n\n## Lasting effects\n\nThe case reshaped how governments, journalists and human rights organizations talk about transnational repression — states reaching beyond their borders to silence critics living abroad. It also tested, and in the view of many critics strained, the willingness of Western democracies to let economic and security interests override accountability for an allied government. Years later, the Khashoggi case remains a reference point whenever a journalist or dissident is threatened, surveilled or harmed while living in exile."
+      },
+      "he": {
+        "headline": "2018: העיתונאי ג'מאל חשוקג'י נרצח בקונסוליה הסעודית באיסטנבול",
+        "scroll": "ב-2 באוקטובר 2018 נרצח הדיסידנט הסעודי והטוען בוושינגטון פוסט ג'מאל חשוקג'י בתוך הקונסוליה הסעודית באיסטנבול.",
+        "coffee": "ב-2 באוקטובר 2018 נכנס הטוען בוושינגטון פוסט והדיסידנט הסעודי ג'מאל חשוקג'י לקונסוליה הסעודית באיסטנבול כדי להשלים מסמכים לנישואיו הקרבים - ולא יצא ממנה. הוא נרצח בתוך הקונסוליה, בפעולה שהערכות מודיעין אמריקאיות וטורקיות קישרו מאוחר יותר למדינה הסעודית.\n\nרציחתו של עיתונאי מבקר של ממשלת סעודיה, בתוך מבנה דיפלומטי על אדמת טורקיה, עוררה סערה גלובלית, פגעה במערכות היחסים של סעודיה עם מדינות המערב, והפכה למקרה מבחן מרכזי לגבי הסיכונים הניצבים בפני עיתונאים המותחים ביקורת על מדינות חזקות מהגולה.",
+        "deep": "## מה קרה\n\nג'מאל חשוקג'י, טוען בוושינגטון פוסט שהפך למבקר נוקב של יורש העצר הסעודי מוחמד בן סלמאן אחרי שנים כאיש פנים סעודי, הגיע לקונסוליה הסעודית באיסטנבול ב-2 באוקטובר 2018 כדי לאסוף מסמכים שהיה צריך לנישואיו לארוסתו הטורקייה. הוא ביקר בקונסוליה פעם אחת לפני כן בלי תקרית, אך בפעם הזו הוא לא יצא ממנה. הרשויות הטורקיות, בהתבסס על עדויות מעקב והקלטות, הגיעו למסקנה שהוא נרצח ונותח בתוך הבניין על ידי צוות של סוכנים סעודים שהגיעו במיוחד לפעולה.\n\n## מדוע זה היה חשוב\n\nהרצח הפך לאחד האירועים הבינלאומיים המכוננים של העשור בגלל איפה ואיך הוא קרה: לא מוות בשדה קרב או היעלמות מעורפלת, אלא רצח של עיתונאי בתוך מתקן דיפלומטי, מהסוג שבדרך כלל נחשב לבלתי ניתן לפגיעה כמעט לפי נורמות בינלאומיות. זה הכריח מדינות מערביות שהעמיקו קשרים עם סעודיה - מכירות נשק, יחסי נפט, השקעות - לשקול בפומבי את האינטרסים הללו לעומת רצח שגורמי מודיעין רבים הצמידו להנהגת המלוכה עצמה. סעודיה הכחישה בתחילה כל מעורבות לפני שהודתה שמותו של חשוקג'י התרחש בתוך הקונסוליה, אך שמרה על גרסאות משתנות לגבי האופן והסיבה.\n\n## השלכות מתמשכות\n\nהמקרה שינה את האופן שבו ממשלות, עיתונאים וארגוני זכויות אדם מדברים על \"דיכוי חוצה גבולות\" - מדינות שמגיעות אל מעבר לגבולותיהן כדי להשתיק מבקרים החיים בחו\"ל. הוא גם בחן, ולדעת מבקרים רבים מתח, את נכונותן של דמוקרטיות מערביות לאפשר לאינטרסים כלכליים וביטחוניים לגבור על אחריותיות של ממשלה בעלת ברית. שנים לאחר מכן, מקרה חשוקג'י נותר נקודת התייחסות בכל פעם שעיתונאי או דיסידנט מאוים, מנוטר או נפגע בזמן שהוא חי בגלות."
+      },
+      "tags": [
+        "khashoggi",
+        "journalism",
+        "saudi-arabia"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2018: The Washington Post journalist Jamal Khashoggi was assassinated in the Saudi consulate in Istanbul, Turkey.",
+          "url": "https://en.wikipedia.org/wiki/The_Washington_Post"
+        }
+      ]
+    }
+  ]
+}
