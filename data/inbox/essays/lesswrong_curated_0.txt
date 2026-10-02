@@ -20,13 +20,13 @@ I really like the goal of explaining weird, sci-fi-y AIS developments in concret
 
 I think the intent here is more for people who don't understand the Huggingface Incident but would like to, than people you have arguments about it with.
 
+There have also been some recent AI-generated music videos like this one that explain the incident well in a quick and entertaining way without being opinionated/preachy.(I don't mean to compare this to the comic, which will sit better with people that prefer human art/writing).
+
 I think this explainer would be a wonderful thing to read to a child! It's written with the right style, and the illustrations are rather lovely. I have a younger sibling, and were they a few years younger, I'd be quite happy to send them this comic. That being said, I don't love the idea of sending it to my friends and family: in particular, my friends and family, with few exceptions, are intelligent and curious people who don't happen to be working in AI safety.
 
 They might not know much about machine learning, cybersecurity, or AI, but they can certainly grapple with complex ideas and problems just like we can (and perhaps even more so!), and sending them this would give off the following implicit message: "I know you're not smart enough or intellectually well-developed enough to read the technical report, so I'll give you something written like a children's story instead." For friends and family, I'd prefer to give them something with, if not more substance, at least a style that conveys a particular "taking-the-other-person-seriously."
 
 Nod. (Broadly I expect people to have intuitions of which friends/family would think it was fun and which would be insulted, or frame it more as a fun thing than as a "you're too dumb to read the METR report" kinda thing)
-
-There have also been some recent AI-generated music videos like this one that explain the incident well in a quick and entertaining way without being opinionated/preachy.(I don't mean to compare this to the comic, which will sit better with people that prefer human art/writing).
 
 Curated. I think it's pretty neat to distill down something as complex as the OpenAI HuggingFace incident down to something as accessible as this. I will indeed send it to my mother. We are at the point where the world is waking up to the importance of AI, and I think one of the most important things for our society handling AI well is that as many people as possible understand it. Which is hard! Most people are not going to understand transformers, or even neural nets in general. We'll tell them things like "grown not built" but I don't know what meaning people will assign to things like that.
 
