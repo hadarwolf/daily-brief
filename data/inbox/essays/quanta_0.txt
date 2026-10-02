@@ -1,62 +1,390 @@
-I get out of bed. I walk through the dimly lit hallway, thinking of what’s in my fridge and what I should have for breakfast. With no real effort, I’ve navigated my environment, accessed my memory, and assessed the energetic state of my body, all in the space of a few seconds. How is the brain able to do this?
+We know all about how things exist in the three dimensions of length, width, and height. Physicists often talk about time as a fourth dimension, but what if there were a fourth spatial dimension — another direction entirely? How on earth would we picture that?
 
-Partly by harnessing electricity. The brain spends about half of its energetic resources maintaining the electrochemical gradients that keep neurons poised and ready to fire at a moment’s notice. This gives the brain an extraordinary level of flexibility in responding to the demands of everyday life. The collective electrical activity of many neurons can be seen as waves propagating through the brain from one region to the next, like the raised arms of enthusiastic spectators at a football game.
+Mathematicians use topology to visualize abstract spaces in higher dimensions. Maggie Miller at the University of Texas at Austin explores what happens when knots encounter an extra dimension. Familiar tangled loops behave in unexpectedly complex and counterintuitive ways in 4D: Knots can always come undone, while ordinary surfaces like spheres can — surprisingly — become knotted in ways that can’t be undone.
 
-New lines of research are revealing that these waves are more complex than previously known. Typically measured by electrodes, they have been identified as basic planar waves: simply structured oscillations in neural activity. Neuroscientists have traditionally interpreted this as a bit like the sound of the brain’s engine revving, little more than a sign that it’s working. However, emerging evidence in humans and animals suggests that traveling waves play a central role in how the brain functions.
+In this episode, Miller explains to co-host Janna Levin why 4D is the lowest dimension that mathematicians still don’t fully understand, how she and her collaborators resolved a question about knotted surfaces first posed by mathematician Charles Livingston in 1982, and how her interest in art has helped her develop the visual techniques she uses to picture 4D spaces.
 
-“The work coming out is moving this from ‘Are they relevant?’ to ‘This is a major motif of how the cortex processes information,’” said Earl K. Miller, a cognitive neuroscientist at the Massachusetts Institute of Technology.
+Listen on Apple Podcasts, Spotify, TuneIn or your favorite podcasting app, or you can stream it from Quanta.
 
-In a study published in April 2026 in Nature Communications, neuroscientists measured traveling waves of neural activity and observed a menagerie: source waves that appear to emanate from one location, sink waves that converge on a spot, and vortexlike spiral waves. The team, which included Joshua Jacobs and Anup Das from the University of Chicago, found that different behavioral tasks were associated with distinct wave patterns.
+JANNA LEVIN: And we’re off. I’m Janna Levin.
 
-Neurons can change connections with their neighbors over time, but this usually happens on the scale of days or months. Behavior, however, needs to adapt in seconds. A significant number of neuroscientists now believe these large-scale wave patterns may help to reorganize the brain in real time to meet the behavioral demands of waking life.
+STROGATZ: A podcast from Quanta Magazine where we explore some of the biggest unanswered questions in math and science today.
 
-“Even if the traveling wave was just the result of neurons firing, like the sound of the engine, it still tells us something very interesting about the brain based on what the person is doing,” Jacobs said. “If you see a sound moving in a direction across your engine, it means something in your engine is directionally organized.”
+LEVIN: Steve, we have a really mathematical topic today. I’m glad to have a mathematician in cahoots.
 
-As far back as the 1920s, neuroscientists have been measuring the brain’s oscillating electrical activity with electrodes on the surface of the scalp via electroencephalography (EEG). When we pay attention, remember, or sleep, the large-scale frequency of the brain’s electrical activity changes. These various oscillations are commonly known as alpha, beta, gamma, and theta waves, and are measured in hertz.
+LEVIN: Excellent. We’re speaking in this episode about a branch of mathematics known as topology, and that’s not familiar to a lot of people.
 
-But recording electrical activity from outside the skull limits the fidelity of the information you can gather. Jacobs’ lab specializes in intracranial brain recordings. People with severe epilepsy may have had electrodes placed inside their brain to help locate the source of their seizures. With roughly 100 electrodes placed in a particular brain region, and with permission from the patient, Jacobs and his team are able to capture high-resolution data — across both space and time — as the participants perform various thinking tasks.
+Do you wanna help us a little bit just with the basics of topology? What makes topology different than regular geometry that we might have learned?
 
-Jacobs and his collaborator Uma Mohan, who is now a neuroengineer at the National Institutes of Health, were part of a team that used this technique to observe brain activity during memory tasks. In a study published in Nature Human Behavior in 2024, they described waves moving in opposite directions across the brain’s outermost region, the cortex. “They either go back to front or front to back across the brain,” Jacobs said.
+STROGATZ: Yeah, sure. Topology, very popular subject. You know, whereas geometry is ancient, topology is only, depending where you date it, could be a few hundred years old, but it really took off in the 20th century.
 
-Jacobs said a good way to understand this result is to think of the waves as showing the direction of information propagation. Visual regions are in the back, and the prefrontal cortex, the “higher-level” memory region, is at the front. If you’re paying attention to what you are looking at, signals are traveling backward from receptors in your eyes to the visual cortex, and then forward into the rest of the brain via the wave to form a memory. “The signature of that is to see waves going from the back of the brain to the front,” Jacobs said.
+People may have run into it in childhood games, like did you ever take a piece of paper, like a strip, some kind of ribbon, and then you put a twist in it, half a twist, and then close it, put a piece of tape on it to make this shape called a Möbius strip or a Möbius band? Did you ever do it with your kids?
 
-“We thought that was a way the brain was exploiting this organization to switch between encoding and recall memory functions on a rapid timescale, depending on what you need your brain to be supporting,” Mohan explained.
+LEVIN: No, I didn’t, but I think about the Möbius band probably an unhealthy amount.
 
-The 2026 research from Jacobs and Das complicated this picture. It showed that these waves can take on much more diverse shapes, patterns, and ripples, far beyond those created by simple up-and-down and back-to-front movement.
+LEVIN: Yeah. It comes up in my work. Yeah.
 
-In the experiment, the team asked participants to perform two memory tasks. The first was a simple verbal memory exercise, in which they had to recall words they had seen on a screen. The second was a more complex spatial task: They navigated a virtual environment and had to recall the locations of objects they encountered.
+STROGATZ: Oh, okay. Well, there was a time when one of my kids was in elementary school, and it was bring your parent to school day, and so I had the kids make Möbius strips, and then do this thing where you cut down the midline of the strip all the way around the whole ring. And you think you’re cutting it in half, but it doesn’t fall apart. And so one kid started crying.
 
-With the high-resolution method, Jacobs and Das observed two new classes of waves in awake humans for the first time. One, emanating from an area of the cortex, was a concentric wave, like the ripples from a pebble dropped into a lake, or the reverse, in which waves converged on one region. The other was a rotating spiral wave traveling in a clockwise or counterclockwise direction, like a hurricane or a flushing toilet.
+LEVIN: Oh [laughs]. Well, math is frustrating.
 
-“We see the rotating wave in the spatial task a little bit more often than the waves we see in the verbal task, which tend to have a simpler structure,” Jacobs said. “This seems to suggest these rotating waves are better for performing more complex memory behaviors.”
+STROGATZ: This is the thing, it was an early introduction to what all mathematicians and math teachers are trying to do, make people cry in math class.
 
-Researchers have been making intracranial recordings in humans for a long time, Jacobs said, but they often only looked at one electrode at a time, or a handful. This gave an impression of simple waves across the whole outer cortex. Jacobs realized that, if you look at groups of electrodes that are separated by the right distances, the structure and directionality of the waves becomes clearer.
+STROGATZ: Okay. But anyway, so that’s our subject, topology. I mean, the Möbius strip, this property that when you cut it down the middle, it doesn’t fall into two pieces, that’s a topological property about how things are connected. You could change a lot of geometrical things, and you wouldn’t change this property. It’s deeper than geometry.
 
-Jacobs got in touch with Bard Ermentrout, a mathematical biologist at the University of Pittsburgh who had been looking at similar patterns in mice. Ermentrout thinks the simple wave patterns observed in the past might actually have been part of more complex waves. However, until recently, researchers haven’t had access to electrodes placed in the right locations or at the right spatial scale to catch the larger pattern.
+LEVIN: Right. Well, we usually think about geometry, we think about the Pythagorean theorem, which is precisely telling me how to measure distances, and topology is not about that. It’s about this global connectedness. So it has this very abstract character, and our guest today is, in fact, Maggie Miller, an assistant professor at the University of Texas at Austin, who researches knots, surfaces, and four-dimensional spaces.
 
-“Maybe the planar waves are just the outer arms, where you’re missing the eye of the storm,” Ermentrout, a co-author of the April 2026 paper, said. “In a hurricane you only feel the wind going in one direction. You don’t know that it is spinning unless you’re right there by the eye.”
+So, uh, without further ado, let’s hear what Maggie Miller has to say about topology.
 
-Because the research only collects data from locations where the patients have had electrodes placed as part of their epilepsy treatment, “we might be missing how ubiquitous these patterns really are,” Jacobs said.
+LEVIN: Welcome to The Joy of Why, Maggie. It’s really a pleasure to have you on.
 
-Although there is no consensus yet about what these waves in the brain’s local electric field may be doing, some scientists believe they provide another avenue for the brain to coordinate activity between regions. Miller said that these wave patterns are much more dynamic and flexible than the stable, more architectural connections between neurons. For Miller, it makes sense that the brain would exploit this emergent, biophysical layer of organization that shifts and moves on the same timescale as behavior.
+MAGGIE MILLER: Yeah, thanks for having me. I’m excited to be here
 
-“The architecture of the brain is really important, and the traveling waves tend to follow the anatomy, but they don’t strictly follow it. … The connectivity is more like the information that’s baked into the brain for long-term storage, and the waves are when that information gets expressed in terms of thought and neural processing,” Miller said.
+LEVIN: I’m really fascinated by your work. It intrigues me personally. There’s a lot of questions I wanna ask you, but let’s just start with the Maryam Mirzakhani New Frontiers Prize, which is within the Breakthrough Prize umbrella. You received that a few years ago, and you mentioned that early on in college, you were split between studying math and art, which I think is a really fascinating combination. What in particular led you to choose math in the end?
 
-The waves might be relevant to a variety of brain functions. Studies have found evidence that they play a role in sensory processing, prediction, and modulating the underlying excitability of neurons, making them more or less likely to fire when called upon.
+MILLER: As a kid, even before college, I was really invested in art. I took art classes for a long time.
 
-A paper published in Science in June 2026 echoes the results found in human epilepsy patients by Jacobs and his team. The neuroscientists Zhiwen Ye of Shenzhen Medical Academy of Research and Translation and Nicholas Steinmetz of the University of Washington also observed circular, rotating waves, but this time in the brains of mice. Fascinatingly, these waves were mirrored and synchronized between the left and right hemispheres. What’s more, in the somatosensory cortex — where information from the senses is integrated with bodily movements — axonal neurons were wired together in a spiraling, circular arrangement. That might facilitate the production of these hurricane-like waves.
+I mean, I know lots of people take art in school. It’s a very common favorite subject, but I always participated in our state fair. It’s just something I really like, that visual aspect of thinking and planning and the actual technical aspect of making something.
 
-“What we found was there is a circuit, a connection of cells to form these waves, to mediate these waves,” Ye said. “If they are not important, why would the brain try to wire these cells in this way?”
+When I went to college, actually, I chose to do math right away. And it’s because math had always been my favorite subject as a student. I wanna say in school, but I was actually homeschooled, so it’s a little bit unclear what that means.
 
-In a review paper published in September 2026 in Neuron, lead authors Lyle Muller of the University of Texas at Dallas and John Reynolds of the Salk Institute for Biological Studies drew on decades of neuroscientific findings to make the case that traveling waves in the visual cortex could help with predicting upcoming sensory information. They described how evolving patterns can carry information about what the brain has just experienced alongside what it is experiencing now to help the brain make short-term predictions about what it is likely to experience next.
+But it actually felt similar to me to art in terms of it’s a little puzzle. I guess it’s more apparent with math. Maybe people can understand what I mean when I say solving a math problem is like a puzzle, but I feel like that about drawing something too. I mean, anybody who’s struggled with aspect ratios knows it’s not always so easy to figure out where things are actually supposed to go.
 
-The waves in the local electric field may play a key role in cognition, Miller said, with the ability to excite or inhibit the underlying neural machinery. He describes neurons in the cortex as “Humpty Dumpty sitting on a wall,” teetering right on the edge of firing. This oscillating electrical activity can alter the voltage gradient at the synapses that connect neurons, making them more or less likely to fire in the future.
+LEVIN: I agree. This is sort of a misunderstood aspect of art. People think art is structureless and without constraints, and that’s really not the case, especially if the artist is good.
 
-Not everyone buys the hypothesis that traveling waves in the local electric field play a role in how the brain processes information. For György Buzsáki, a systems neuroscientist at New York University, waves are merely a reflection of what’s going on underneath, at the synaptic level. The more neurons you have, and the more synchronous they are, the stronger the electrical field and the oscillations in it will be. The patterns can tell us interesting things about the circuitry underneath, but that’s about it, according to Buzsáki. “The current that is being generated is done by synapses,” he said. “When current goes into the neuron, they do their computation and generate their action potentials and communicate with each other. You don’t need anything happening in the extracellular space.”
+LEVIN: So I need to hear about the homeschooling.
 
-Although the true nature of what, if anything, these waves are doing is not fully settled, evidence is mounting that they may be important to how the brain organizes, processes, and expresses information in real time.
+MILLER: Yeah. My parents decided to homeschool me and my twin sister, starting about halfway through third grade. It is very common in the state of Texas. I knew a lot of other homeschooled children growing up. I have two brothers who are quite a bit younger than me, and so they were both homeschooled all the way, up until college, which again, it’s very common in Texas compared to some other states, and I think it’s a little easier in terms of government restrictions.
 
-“Biology exploits regularity and predictability, and these waves are doing organized, predictable things in association with cognitive functions,” Miller said. “If that doesn’t tell you something is going on, I don’t know what does.”
+That produces its own challenges, because it’s not always so clear what you’re supposed to be doing. Especially as a teenager, I knew I wanted to go to university. At the time, the University of Texas actually had a webpage that had a list of what they expected from homeschoolers in order to potentially be accepted. And so I saw that when I was around 14, and I worked with my mom to make a list of, here’s all the things that are roughly equivalent. What counts as history?
+
+LEVIN: So, Maggie, each time I ask you a question, you say something that I have to ask about. So first it was the homeschooling, and then it was me and my twin sister. Twin sister, an identical twin sister, and is she also a mathematician or an artist?
+
+MILLER: No, we’re fraternal. I think we have a lot in common. We’re still sisters. She is not particularly interested in math or art in the traditional sense. She definitely has a lot of craft activities that she enjoys. My sister went to college and studied psychology, so I think she’s a little bit more interested in maybe social science.
+
+LEVIN: Mm-hmm. Yeah. So, I wanna get into discussing your area of mathematics, which is one of my favorite subjects: topology. Can you explain what topology is?
+
+MILLER: So topology is the study of abstract spaces, which could mean the space that we live in right now. We live in a space where we perceive three dimensions, X, Y, and Z. But it refers to a more general concept. There’s what is a space is something that you start off defining in a course on topology. But for now, just imagine, like, a space you could live in. and we say that two objects or spaces are the same, equivalent if you can continuously deform one into the other. So topology is the study of objects like stretching and twisting, but you’re never allowed to break things.
+
+LEVIN: So when you say X, Y, and Z, you mean the three dimensions we’re used to occupying. But within topology, you also work on other dimensional spaces.
+
+MILLER: That’s right. It’s very common to study spaces of any dimension or spaces that don’t have a well-defined dimension because they can be really abstract. So for example, a very simple example of a space is something like the circle. So not the filled-in circle, but really just the edge of a disc, like if I took the edge of a plate or something.
+
+So that’s an example of a one-dimensional object. If I’m standing on a circle, then there’s one direction I can go, which is clockwise or counterclockwise, which is the same direction but backwards. But then I could construct a really complicated space where what if I just took a million circles and glued them all together at one point?
+
+What if I took an infinite number of circles, and then we have to consider what kind of infinity, and I glued them all together at one point. And if I do something complicated like that, it’s a lot harder to understand the object in whole.
+
+LEVIN: So if you glue them all together at one point, it’s like a fan almost.
+
+MILLER: Yeah, it would be a fan, yeah. Or sometimes people call it an earring.
+
+LEVIN: So some of these spaces are true to the word “space.” They represent, where we can live, or places that can be occupied, but some of them don’t have to do with that physical dimensionality that we’re used to.
+
+MILLER: That’s right. I think that the physical dimensionality motivates the name, and that’s a common theme in topology and other areas of math. There’s one easy example which has an English name that makes sense, and then we analogize it and still use the same name even when it feels like that’s not what we mean in the English sense.
+
+LEVIN: Mm-hmm. So, to gain some kind of perspective, let’s start with the idea of a three-dimensional manifold. We live presumably in a three-dimensional manifold. Can you walk us through the sense in which we have three dimensions?
+
+MILLER: Yeah. So when we talk about dimension, it means how many different perpendicular directions are there so that every direction is a combination of those. So we live in a three-dimensional space because there are three perpendicular directions, forward, backward, left, right, up, down. Those are all 90 degrees away from each other.
+
+Any direction that I would want to go is some combination of those three. So they take up all of their dimension as well, so that means it’s exactly a three-dimensional space.
+
+LEVIN: So, if people aren’t used to thinking about 90 degrees and orthogonality, one way I like to think of it is I can move in one dimension if it’s orthogonal to the others without moving in the other directions at all.
+
+MILLER: That’s right. I mean, it’s, if I wanted to tell you exactly where I was, it would be how many different pieces of information do I need to tell you? So I need to give you my coordinates in those three directions.
+
+The tricky thing is first we have to all agree what does it mean to be at .000? So what is the, we call it the origin, and then from there I can measure, well, how far in that direction am I from zero? And then how far forward, backward, and then how far up, down.
+
+Another tricky thing is that for topologists, we actually don’t have a notion of distance. So, I was being a little bit misleading when I said we could measure how far away I am from the origin, because if I’m a topologist, then I actually don’t know how far I am from any one point. I just know whether or not two points are the same. There’s no notion of what it means to be farther away.
+
+LEVIN: Mm-hmm. What you care about is if things are smoothly deformable between one space and another space. So you don’t care if it’s made of rubber and I literally stretch the distances or contract the distances. What you care about is, if I walk far enough, will I come back to where I started? Some kind of global property. Would that be fair?
+
+MILLER: That’s exactly right. Yeah, so we talk about local structure versus global structure. For a topologist, everything is made of rubber, and as long as I can stretch two objects and have them come out looking the same, then they are the same. So a circle is an oval. But they’re definitely not the same thing as a line.
+
+LEVIN: Right. ’Cause a line isn’t connected in that particular way. So topology you’re saying is that study of that large, that global structure. Now, you’ve in particular worked in four dimensions, can you talk us through the fourth direction using the time analogy? Because I think that helps people kind of imagine what we’re thinking about when we’re thinking about a dimension beyond the three spatial ones we’re used to occupying.
+
+MILLER: That’s right. I mean, having a fourth dimension is a really abstract idea. People understand forward, backward, left, right, up, down. Those are three orthogonal perpendicular directions.
+
+So, if we’re thinking of those three directions as representing space, the usual three-dimensional space we live in, we have to think what would it mean to move but in a different direction which means that my spatial coordinate does not change, and so we can think of that as time.
+
+So right now, I’m moving forward in time at a rate of, I guess I’m moving one second forward in time per second.
+
+But my position in three-dimensional space is not changing. So that means that I could think that right now I’m living in a four-dimensional space where that fourth dimension is time, and it’s perpendicular to the first three. It’s a little bit more like a movie, where if I were watching a movie, then I could rewind or pause.
+
+LEVIN: How do we move to dimension four from dimension three?
+
+MILLER: Well, one theme, I think, of four-dimensional topology is that you can’t easily move from three to four-dimensional topology.
+
+So in dimension three, we have a lot of intuition for what should be true, because we live in a space that seems to be three-dimensional. That doesn’t necessarily help with super-abstract problems, but at least simple behavior, you can probably guess what will happen just based on your lived experience.
+
+But dimension four is different and hard to conceptualize. I have a lot of papers where the format of the paper is, “Here’s something that’s true in dimension three, and here’s an example of how it’s not true in dimension four.” I think that’s a fun thing to explore.
+
+There are many theorems or facts in topology that for some reason hold in other dimensions, but not in dimension four, or perhaps we understand the answer in other dimensions, but not in dimension four. The key reason tends to be, and I know this is like an answer that you hate to hear, but the key reason tends to be that two plus two equals four, which is such an unhelpful thing to say.
+
+But the problem is that there are some theorems in topology where the proof goes through a step of, “I have a curve or a loop inside of my abstract space, and I want to shrink it to a point.”
+
+So I have like a really big circle, and I want to over time just have that radius of that circle go to zero without the curve breaking. And one issue is that let’s suppose that I could do that. One way that I would do that is I would find not just a circle, but a whole disc, so the whole like filled-in region, because that would give me instructions for how to actually shrink the circle. I would just say, “Oh, I’ll shrink that disc down to its center point,” and it’ll bring the circle down to the center point with it.
+
+So a disc is two-dimensional, and because two plus two is equal to four, that tells me that it’s possible that this disc actually intersects itself if we’re in four-dimensional space. It would intersect itself in points. Because somehow if I have four dimensions, so let’s call them the X direction, Y direction, Z direction, and now a W direction, so I have four different perpendicular ways I can go. I have some point where it’s in the disc and the disc goes off in the X and Y directions. But at the self-intersection, there’s another piece of the disc and it goes off in the Z and W directions.
+
+And so there’s no way I could push the disc off of itself and get rid of that intersection because it’s taking up the whole four dimensions. That stops me from necessarily being able to shrink curves, and it just shows up all the time in topology. It’s like a key problem in the proof.
+
+LEVIN: So, I’ve heard you say also that we shouldn’t be so reliant on our intuition ’cause we can be incredibly surprised when we try to transfer our, our really common-sense intuition from three dimensions to four dimensions. It just completely deceives us.
+
+MILLER: Yeah. I like to tell students there are three really important classes that students take, which are real analysis, algebraic structures, and topology. Real analysis is essentially a continuation of calculus, and most students who are taking that class probably have a lot of intuition from their experience in calculus, and probably their intuition is correct, and they’re learning how to formalize it. And when you learn about algebraic structures, you probably don’t have very much intuition at all because it’s very abstract.
+
+But students who take topology have intuition because we’re talking about objects that seem familiar, we can draw a lot of pictures, and the intuition is always wrong. It’s very easy to get trapped.
+
+LEVIN: So, what are the techniques that you use to not get trapped?
+
+MILLER: [Laughs] Well, so if I am actually trying to understand objects through pictures, if I’m actually constructing an object visually, then I need to have a rigorous system in place for a picture to actually have meaning. It can’t just be based on my intuition for how the object behaves. I need to formalize if I draw a plane and a line intersecting it, what does that actually mean? And so there’s some real analysis that goes into that.
+
+And so we have to all agree what these diagrams actually mean, and then we also have to develop, here’s rules for what I can do to a picture of a space or a knot inside of a space, and have the picture after I do something to it to change it, have that picture still describe the same space or object or knot. And so once I have done the work, the analysis of understanding these diagrams, that gives me more flexibility to actually do constructions and know that I’m not accidentally losing information.
+
+LEVIN: So, it’s a combination of visual representation, but formalized mathematically?
+
+MILLER: That’s right, and not everything is done through a visual representation. I like to work like that because that’s something that really draws me to mathematics, but there’s lots of excellent topologists, you know, four-dimensional topologists who really don’t make use of visual representation in their work. It’s not always important.
+
+But I do want people to understand, even when math has a lot of pictures in it, you’ll hear this from students a lot, it’s not proof by picture. It’s not just a random picture that we make up. There’s a lot of, that’s right, formalization that goes into these arguments.
+
+LEVIN: With these four-dimensional spaces and your intuition faltering, what are the kinds of questions that you’re asking? What are the hypotheses that you’re really pursuing?
+
+MILLER: So the thing that I study most commonly is the study of knotted surfaces. So in dimension three, the analogous object would be a knot. Knot — k-n-o-t. So a knot is a loop. If I took a piece of string… Wait, I actually, I have a string. If I took a piece of string, and I actually tangled it up, but then I glued the ends together to make one closed loop, then I would call that a knot.
+
+MILLER: Yeah, and so we, we study those objects up to continuous deformation. So I can stretch the knot around, twist it, but I can never pass it through itself. And this is an important object in three-dimensional topology.
+
+It’s not immediately obvious why it’s important. It takes some theory to understand why knots are important, but it turns out that every three-dimensional space can be understood in terms of knotted loops inside of just classical space.
+
+So in dimension four, I study knotted surfaces, which is everything one dimension up. Instead of a loop, it’s something two-dimensional.
+
+MILLER: Well, less like a ribbon and more like a balloon. So I wanna have an object that doesn’t have any edges. But there’s also more complicated surfaces. So a balloon is a sphere or a 2-sphere. It’s very common to say the dimension of the space.
+
+It’s two-dimensional because if I’m standing on a balloon, then I can go forward, backward, left, right on the balloon, but if I try to go up, I’ll leave the balloon. Maybe instead of a balloon, I should say the surface of the Earth, another example of a two-dimensional sphere. If I go up into space, then I leave the surface of the Earth, so it’s only two-dimensional.
+
+But there are more spaces, like for example, a torus, which is the two-dimensional space that I would get if an asteroid hit the Earth and drilled straight through. So there’s a hole in it now. It’s the surface of that. I think it’d be more normal to say it’s the surface of a bagel or a donut. And then there’s more spaces that I could get if I have more holes.
+
+So I could study surfaces embedded or knotted inside a four-dimensional space. So it’s a little harder to imagine, but there’s some version of tangling, a 2-sphere inside of four-dimensional space.
+
+LEVIN: I have a number of questions. One is you said that you can understand all three-dimensional spaces in terms of these knots.
+
+LEVIN: That seems like a big leap. Can you help us make that connection?
+
+MILLER: So this is a big theorem, I think 1960s due to Lickorish and Wallace, Lickorish-Wallace theorem. So, to be more specific, I’m studying three-dimensional manifolds, and I want to say that these three manifolds don’t have boundary, and they’re compact, meaning I don’t ever go out to infinity. So I can, maybe I’ll say finite volume. And I also want them to be orientable. So think about, like, a Möbius band as an example of something that’s not orientable because it has only one side, is what people often say. So, I put some restrictions. I want to only study reasonable three-dimensional spaces.
+
+But once I do that, Lickorish and Wallace proved that I could get to any three-dimensional space I want by starting out in the standard one, which is called the 3-sphere. It’s like R3, but if I try to go out to infinity, then eventually I come back to the point that I started. So I can’t go out for forever.
+
+And all I have to do is take some knots, so some knotted loops inside of the 3-sphere, and I’m going to do surgery on them. And this is confusing. It’s a really important operation in topology. I think it’s surprising the first time you hear it that it could do anything at all. But when I say surgery, I mean I’m gonna delete those knots. So I’m deleting these knotted loops. I wanna think of them as being thick. It’s like I’m cutting out a bunch of bagels from space, so. And then I’m going to just re-glue, like, or replace exactly the thing that I deleted. So I cut out a bunch of these, like, thickened circles, these solid bagels, solid tori. And just reattach them. But I’m going to reattach them in a different way that I found them, and I’ll change the space because of that.
+
+LEVIN: I see. So if I’m understanding correctly, the knots themselves, you were saying I can start with the simply connected finite space, which is the 3-sphere, and I can construct any other topology in three dimensions by performing these kinds of surgeries on knots. Is that what you’re saying?
+
+MILLER: That’s right, and so that’s exactly right. And it’s called Dehn surgery.
+
+LEVIN: And so that way you make more and more complicated spaces far beyond the simplicity of the smooth, compact, connected three-dimensional sphere. You make these very complicated spaces with handles and holes and kind of an origami.
+
+So now take me up to four. Now we’re trying to imagine the role of a knot in four dimensions, but the knots are no longer strings. They themselves are surfaces, complex surfaces,
+
+LEVIN: And you’re trying to do the same thing. You’re trying to start with the simplest space in four dimensions and find all the others on the basis of the knots?
+
+MILLER: Yeah. And so it’s almost true now that I can start out with the simplest space, which is called the 4-sphere, which is harder to imagine because it’s four-dimensional. But it’s some standard four-dimensional space that we all agree to start with. And the surfaces that I’m going to take are tori, which are these surfaces of bagels or donuts sitting inside of four-dimensional space. And I’m doing surgery, which means that I’m deleting one at a time. I’m gonna delete a torus, re-glue it back in, but I’m allowed to, like, re-glue it in a funny way, and I’ll change the four-dimensional space.
+
+And so I said it’s almost true that I can get to anything. There are two really basic numerical invariants that I have to start out with the right values. So, at least there is a very simple family of four-dimensional spaces that I start out with. Depending on what space I wanna get, I know which one to start with, and all I have to do is do surgery on tori, and I can get to whatever space I wanted.
+
+LEVIN: I see. And has that been a successful program?
+
+MILLER: Well, so that’s a fact about dimension four. This is a cool theorem, I think it’s of Iwase, several years ago. It’s not exactly a program. It’s more a motivation for why it’s worthwhile to study surfaces. Any question about four-dimensional spaces, in principle, I could rephrase as a question about surfaces, and that’s just one example. There’s other aspects of four-dimensional spaces that we tend to study using surfaces.
+
+So, for example, let’s move back down to a lower dimensional space. Let’s actually look at surfaces again. I gave two examples of surfaces before, which were the 2-sphere and the torus. It’s actually pretty hard the first time you learn about these objects to really verbalize what is the difference between them. When I give a talk, that’s a little bit more general audience, I’ll say something like, “Oh, well, the torus has a hole in it, and the sphere doesn’t have a hole.” But it’s pretty hard on average if I asked a student, “Okay, now tell me what a hole is.” Like, what does it mean that the torus has a hole? That’s a tricky question.
+
+And so the way that I like to think about it is that, well, if I draw a loop on a 2-sphere, so think like the equator of the Earth, it will always divide the 2-sphere into two pieces. The equator divides the Earth into the Northern Hemisphere and the Southern Hemisphere, and you can’t go between them without crossing the equator.
+
+The torus doesn’t have that property, ’cause I could take a loop on the torus that goes around the hole, and if I cut, it actually doesn’t cut the torus into two pieces. But I can only fit one loop like that. If I try to cut along two loops, then I’m gonna end up cutting the torus into two pieces. So, that tells me that the torus has one hole, and I can formalize it in terms of these subspaces, these circles that are smaller in dimension that sit inside of the surface. So, I can do that in higher dimensions, too. If I’m trying to distinguish two 4-manifolds from each other, sometimes I can rephrase that as a question about, “Well, what kind of surfaces sit inside of these four-dimensional spaces?”
+
+STROGATZ: So when I listen to that with my topologist hat on, I’m thinking that there’s a gambit that Maggie is using here that we’re trained to use in topology all the time. To use, as she puts it, these smaller dimensional objects to probe higher dimensional objects. And since it’s not something we all do every day, I thought rather than talking about the four-dimensional usage, what if we just talked about something like the kitchen table?
+
+STROGATZ: You know, so like if I put a piece of string on the table and just make it into the shape of a circle, there’s a very deep topological thing that has happened as soon as I do that, which is that the loop of string separates the table into two parts, one of which we call the inside and one of which we call the outside.
+
+And that’s kind of interesting. I mean, you might say, “No, it’s not. That’s so totally obvious.” But this is the kind of thing a mathematician ponders. Like, okay, let me be more abstract. Rather than a tabletop, how about the infinite plane, you know, the XY plane going out to infinity in both directions?
+
+If you put a circle in the XY plane, it separates the plane into an inside part that’s bounded and an outside part that includes infinity, and that’s true even if I deform the loop, there’s always one inside and one outside.
+
+LEVIN: Yeah. Well, look, we have, skin, two-dimensional surface, and that separates in three dimensions our inside from our outside. But it wouldn’t if we lived in 4D. Our skin would not be sufficient to completely enclose our internal organs.
+
+STROGATZ: Very convenient then that we don’t live in 4D because we’d be spilling.
+
+LEVIN: Right. We’d, we’d just- You’d be able to just, like, go in and pluck out, you know, without surgery.
+
+LEVIN: Yeah. Well, she also talks about something that’s similar to your classroom experience, which is in some sense, the connectedness of spaces can be categorized by thinking about how you can divide things, how many cuts you have to make, essentially, to really cut the thing in half.
+
+STROGATZ: Right. The other thing that hit me in her discussion was the difficulty of saying what you mean by a hole. So, you know, where this really became a live discussion on the internet was if I look at a pair of pants, so just ordinary pants, how many holes are in there?
+
+STROGATZ: But some people wanna say three because, you know, like there’s a loop at the bottom of your leg and then on your other leg and then there’s your belt. It seems like there’s three.
+
+LEVIN: Well, okay. Wait. So, in contractible loops, I have one, two… I guess… three.
+
+STROGATZ: I’m gonna let the audience ponder this one. Where are you taking us next?
+
+LEVIN: Okay. Well, there is something, Steve, that I wanted your help with. There’s a topic that comes up after the break, and that is Seifert surfaces. I think you’ve thought about this.
+
+STROGATZ: I have. They’ve actually come up in some of my applied math work. And probably an easy way to picture them is to imagine a game you might have played as a kid where you take a loop of wire to make bubbles outside. And then if you dunk that in the soapy water, you get a kind of soap film that spans that loop. Well, that disc is an example of a Seifert surface because it’s a surface whose boundary is a given curve, in this case, a loop.
+
+But you could also have Seifert surfaces for knotted curves where the boundary of that surface is the knot. It’s a really useful construction in knot theory.
+
+LEVIN: That’s actually a helpful visualization, and we’re gonna get into that and more just after the break.
+
+LEVIN: Welcome back to The Joy of Why. We’re joined today by Maggie Miller, a topologist at the University of Texas at Austin.
+
+Let’s talk about this work you did to answer a long-standing question that was posed by Charles Livingston in 1982 with you and your collaborators that received a lot of attention, and that had to do with the Seifert surfaces. What’s special about those surfaces?
+
+MILLER: Yeah, that’s right. And I’ll just say that was with Kyle Hayden, uh, Sungwan Kim, JungHwan Park, and Isaac Sundberg. A Seifert surface is a surface where it’s not just an abstract surface, it’s a surface that actually lives inside of three-dimensional space. So I really wanna make this distinction, even though I know a donut lives inside of our three-dimensional space. I’m treating it as its own abstract object, like, outside of space. It’s in some weird place. But a Seifert surface is really here.
+
+It’s important that they live inside of three-dimensional space because when I study the surface, I’m allowed to continuously deform it, but it has to stay inside of three-dimensional space. So I could have two different tori that are both tori, but I can’t actually turn one into the other inside of three-dimensional space.
+
+A simpler thing is just even knots, knotted loops. If I take a loop that’s really a circle, just a nice round circle, we call that the unknot. If I take a loop and actually tie it into some complicated thing, it won’t be the unknot. And they’re still both circles, but they’re not the same knot. I can’t actually turn one into the other without passing it through itself. Seifert surfaces are the same thing.
+
+But for Seifert surfaces, I do want them to have boundary. They should have an edge, and the edge will be a knot, a knotted loop.
+
+LEVIN: So the idea is you’re imagining, at least with some of the knots, that if you increase the number of dimensions in which they live, that you might be able to unknot them one into the other without cutting or breaking or gluing.
+
+MILLER: That’s right. I mean, that happens very often. So in the case of knots, like a knotted loop, it’s only knotted because we’re in three-dimensional space. If I had a fourth dimension of freedom, if I moved into a four-dimensional space, then my knot would actually become trivial. It’s so small in dimension compared to the ambient space that it can’t be complicated anymore.
+
+LEVIN: So it would untie effectively? It would unknot effectively? Yeah.
+
+MILLER: That’s right. It would just untie. So in, in four dimensions, in the standard four-dimensional space, there is exactly one knotted loop. They’re all the same.
+
+LEVIN: Ah, I see. But that’s not the case if they’re not … Wait, you’re saying if you- if there are knots in three dimensions and you up the dimension to four, then they’re all the same?
+
+LEVIN: But if you have a knot that lives in four dimensions, so it’s a surface knot, and you go up a dimension, are they also then all the same?
+
+MILLER: That’s not so clear, but if I go up two dimensions to dimension six, then they’re all the same. If I increase the dimension enough, eventually they’ll all be the same.
+
+LEVIN: So when I learned a little bit about this, you can take kind of a two-dimensional example, just which might be easier for people to visualize. If you imagine one small rubber band inside a bigger rubber band just on a table. You can’t get them past each other, right?
+
+But if you have three dimensions, it’s real easy. You lift one up, you stretch it out, and then you can lay it outside the other. So this idea of the number of dimensions allowing you to unknot things or to separate things without cutting and pasting is kind of intuitive. We use it all the time.
+
+MILLER: That’s right. That’s exactly the right idea. That’s the same reason as why knots in dimension three become trivial or all the same in dimension four. Like, somehow I just need that one extra dimension to pull the rubber band.
+
+LEVIN: So let’s go back to the Seifert surfaces. What was the question that you addressed about their behavior in four dimensions?
+
+MILLER: Yeah. So we were really interested in this paper by Charles Livingston, Chuck Livingston, where he was studying Seifert surfaces for the unknot and the unlink, where the unlink is a bunch of unknots that are all unlinked from each other. So just a bunch of round circles that have nothing to do with each other. Yeah. So even though the unlink is somehow not very interesting, I could still find complicated Seifert surfaces for the unlink that are different from each other. So the surface boundary, trivial, not interesting. But the surface itself is complicated.
+
+And Livingston proved that if I have two, let’s say, connected Seifert surfaces for the same unlink, and I know that those two surfaces have the same genus, which is our measure of how many holes the surface has.
+
+Even though those surfaces are probably not the same inside of three-dimensional space, if I add a fourth dimension of freedom, then they become the same. I have this extra direction that I can pull them in. In the paper, he was very specific about the boundary being the unlink, and he pointed out that it’s surely not true if the boundary is not the unlink. But he didn’t have a proof of that, primarily because it’s really hard to come up with weird examples of higher-dimensional objects. You have to come up with some crazy pair of surfaces with the same boundary in the first place before you can even then try to prove that they aren’t the same as each other. That’s always the problem in topology.
+
+LEVIN: Yeah. I think we could do a little more justice to the idea of these are the same. That is really one of the core principles of topology is, what do you mean by the same? Can you clarify that?
+
+MILLER: Yeah, it’s a core principle what does it mean for two, uh, objects to be the same. It’s also a core principle that there are lots of different notions of the sameness. So this is always whenever you define an object, you have to say, what is it going to mean for two to be the same. So far we’ve talked about manifolds, which included surfaces and knots. So for manifolds, we typically use the definition homeomorphic or homeomorphism.
+
+MILLER: So we say that two manifolds are homeomorphic if there is a homeomorphism from one to the other. And what that means, if I have my two manifolds, let’s call them X and Y, they’re homeomorphic if I can find a function, F, that goes from X to Y. And the function needs to be continuous, and it also needs to be a bijection, which means that it’s one-to-one and on two.
+
+So, any two points in X have to go to two different points in Y. They can’t go to the same point. And I also have to hit every single point in Y. Something from X has to map to it. And then the last thing is that I want f to have a continuous inverse as well. So it’s just a set of continuous instructions to go from X to Y, but these three bullet points make it a rigorous definition.
+
+So in the context of knots, I can use the same definition, actually. I could say that two knots are equivalent if there’s a homeomorphism, so this kind of restricted function, from 3-space to itself, but when I plug in the first knot, it outputs the second knot.
+
+LEVIN: If I were to give this formalized mathematical description to a child with some Play-Doh, I would say, “The game is, can you make this shape into that shape without breaking it, without puncturing or re-gluing?” As long as you’re just smoothly mushing dough, then topologically we’re gonna consider those homeomorphic.
+
+MILLER: Right. Yeah. So it’s okay to stretch things. It’s okay to twist things. If I have two knots, if I have one knot and I’m trying to turn it into another knot, I can make the string longer and I can add twists, but I can never pass the string through itself, which would break it.
+
+LEVIN: Now, I think the question of games is not totally irrelevant, because for people outside of mathematics, when they’re listening to the problems that mathematicians are addressing, there’s an attempt to assess, is this just a game that’s being played?
+
+And I think the sort of philosophical way to phrase the question is, do you consider mathematics to be something that is discovered, that it exists in some sense out there, or is this or is mathematics sort of a series of different games that are invented by human beings?
+
+MILLER: Oh, that’s interesting. I think, hmm, I think the fundamental or the most important results are things that are discovered, but the way that we get to them is often by winning a game. I think that’s exactly right. If I were trying to solve a problem, let’s say I have a conjecture that I think is true, and I need to prove that it’s true for all knots. Then I might phrase it as a game, well, if I, if I give you a picture of a knot, and I tell you, “Okay, you can start off with this picture, but you’re allowed to change the picture in the following ways,” and I tell you exactly what’s allowed, is it possible to do only those things and eventually get to whatever it is that I’ve conjectured is true?
+
+Like, the part that it’s the discovery, I think, is coming up with the game in the first place. It’s really hard to make a conjecture ‘cause we don’t always have good intuition. And then lots of papers that are just, well, here’s a big problem that we’re all interested in, and my theorem is that I can’t actually answer it, but I can prove that if you can always win this game, then the theorem is true.
+
+LEVIN: For people who are outside of mathematics, who are trying to understand what’s at stake, why are these different games important and compelling? And I know that’s an existential question for mathematics.
+
+MILLER: The games that we were mentioning before are always going into, well, if I could win this game, then I prove this conjecture. So at the heart of it, it’s really why is pure mathematics important? The one issue is that it’s not always clear to anybody working in the field why it’s important for the real world.
+
+People like to joke that there’s, like, a 50-year time gap between pure math being invented or discovered or whichever verb you wanna use versus actually being applied in real life. So for example, in topology, there’s a relatively recent field called topological data analysis, you can tell from the name immediately is much more applicable to real life.
+
+It’s the idea of how can we understand very large data sets efficiently or understand some patterns in them using topology. So maybe I have some data set which is way too massive for me to do a search through, but I can understand global patterns, like, it’s meaningful that somehow this data set I can approximate as this space, and the fact that it’s this space tells me something about the data.
+
+But the actual topology, the pure math part that goes into topological data analysis, is at this point relatively old in terms of just literally the pure math component of it. Maybe we’re using things like classification of surfaces or some classical invariants in topology, and so it’s still somehow catching up. It’s important that we have those things, but the stuff that we’re doing in topology this week isn’t being implemented in applied math yet.
+
+LEVIN: Yeah. And I understand that there’s a sense in which it’s an unfair question. It’s more sort of giving mathematicians an opportunity to address it, because all the time physicists face similar questions. What is the significance of your work to my daily life? And the real answer is that’s not what we care about, and that’s okay.
+
+MILLER: Well yeah, the real answer is that’s not the goal. In fact, I think most topologists, if you ask, they’d probably try to link it back to physics and then hope you don’t ask why the physics part matters.
+
+LEVIN: Right. Well, let’s, you know what? Let’s play that game because that’s interesting and fun. There, there’s a really valuable sense in which topology has huge application to theoretical physics. There’s lots of complex ways in which topology applies, but there’s one that’s kind of intuitive, which is that the universe is probably a three-dimensional manifold. It might be four-dimensional manifold if we include time in the real sense, right? Not just another spatial direction, but time in which measures are different on that manifold for time than they are for space. Do you think about those implications for physics?
+
+MILLER: Well, so actually what’s interesting is that I think most topologists would go the opposite direction and think, “Well, I never think about what physicists need, sorry.” But I’m very interested in what physicists bring to topology.
+
+So when I was in grad school, a professor I was taking a course with made this joke, which I still think about all the time, it’s totally right. Whenever topologists want a new way of distinguishing two spaces from each other, what they do is they walk across the hall to the physics department, which is surely in the same building, and ask them, “Oh, can you please give me a new partial differential equation that tells me something about spaces?” And then you bring it back, and you totally forget that it had anything to do with physics, and that’s just your new way. Yeah, so we, we like to say, “Oh, well, physicists told me that there’s this partial differential equation that describes heat flow, and I can count how many stable solutions there are or whatever, and I’m just gonna remember that number from now on. I’m not gonna think about heat flow, but it’s different for these two spaces, so they must be different.”
+
+LEVIN: I love that. I love that it goes in both directions. I mean, of course, physics also has to grapple with the question of why three dimensions. And so a lot of physicists are interested in higher-dimensional spaces because we think the universe may well be higher dimensional.
+
+And so when, when we’re trying to understand what are the possible universes, what are the geometries of the possible universe, we have to look to the mathematicians and say, “Well, if we’re in four dimensions, these are unique universes in some sense, and these, although they might seem different, are actually the same.” And this is, of course, very relevant for what we’re trying to do.
+
+MILLER: Yeah. That totally makes sense. And of course, there’s lots of mathematicians who study higher dimensional spaces. A lot of people would say, “Oh, I’m a 3-manifold topologist. I’m a 4-manifold topologist.” It’s not so common to have a specific higher number. Like, oh, nobody would say they study 8-dimensional topology…
+
+LEVIN: No? How come? ’Cause it’s too generalizable after eight, it’s just N?
+
+MILLER: They tend to be techniques that are special to three, special to four, and then higher. But there are lots of people who work in higher dimension, especially algebraic topology tends to be higher arbitrary dimension.
+
+LEVIN: Just a curiosity, is there something special about three dimensions and four dimensions?
+
+MILLER: Yeah, there is something special, which I think in dimension three, in some ways it’s similar to dimension two.
+
+In dimension two, surfaces I can enumerate. I can totally list out all of the different two-dimensional objects, and there’s really not very many pieces of data that you would have to give me to totally determine which two-dimensional manifold I have.
+
+In dimension three, it’s a little bit more complicated to state, but there is a complete classification of three-dimensional objects, and this is much more modern. This is going from, maybe ‘70s to 2000s, work of Thurston and Perelman.
+
+We totally… well, maybe I wanna be careful with the word totally, but I would say that we totally understand 3-manifolds. At least we have a complete characterization. There’s still a lot of interesting questions, but it’s generally not are these two spaces different from each other?
+
+In dimension four, that’s a harder question, but there is a lot of interest, not necessarily in a classification. That’s not possible. But it’s special because of the failure of theorems from higher or lower dimension in dimension four, so it’s a little bit different in motivation.
+
+But in higher dimension, we don’t have that anymore, and we also don’t have the classification. And then also there’s this kind of psychological thing of it’s hard enough to imagine a four-dimensional space, but at least with the time analogy, you can kind of get there. But it’s a little bit hard to conceptualize, you know, what’s a 14-dimensional space? So I don’t think there’s that same level of motivation.
+
+LEVIN: We all know that it’s impossible even for the most accomplished mathematician to literally visualize higher dimensional spaces. Is there a sense in which you feel you have a kind of a mental theater?
+
+MILLER: Yeah, I think in dimension four, I really literally imagine and will draw what I described before as a movie. I really like to just draw a sequence of three-dimensional spaces, and so okay, here’s three-dimensional space at time zero, and a little bit to the right of it, I’ll draw another three-dimensional space, be like, this is time one, and a little bit to the left, I’ll draw the same three-dimensional space, be like, this is time negative one. And in some sense, that’s a literal picture of a four-dimensional space. There’s some interpolation of, it’s not really time straight from zero straight to one. There has to be like, there’s one half in the middle, We can’t draw all of them.
+
+You can, in principle, do that in higher dimensions too. I have a paper, maybe a few papers, where I draw five-dimensional spaces as well. This is… I draw four dimensions which are in a row of three-dimensional pictures, so if I stack rows and have a grid, now it’s five-dimensional.
+
+MILLER: I have this, like, sort of secret goal of I would really like to draw like a six or maybe seven-dimensional picture where the, one of the dimensions is you turn the page.
+
+LEVIN: Right. Exactly. Or you have to build it in a room.
+
+LEVIN: I wanted to ask you a question that we like to ask here at The Joy of Why, which is what brings you the most joy in your work?
+
+MILLER: I mean, I think that I have probably the same answer that a lot of mathematicians, where we tend to work on problems that are really hard and abstract, and maybe you think about something for several years before you understand the answer. I was working on more than one thing at a time. I know very few people who are stuck on something for several years, and just that’s the only thing they’re doing. But every once in a while, you actually solve a problem. It feels really good. I mean, I think everybody can relate to that feeling of you’re working on a hard puzzle of some kind, like a crossword, and just this aha moment where you finally get an answer. It’s a big relief.
+
+LEVIN: Yeah. I think it’s interesting to be in a subject where you’re always working at the very edge of your own abilities and maybe what’s even possible in the field. And it can be very frustrating.
+
+MILLER: It’s so frustrating. All the time I just like, “Why can’t I have a hint button?” You know?
+
+LEVIN: [Laughs] Right? Well, Maggie, thank you so much. It’s such an incredible field and I love this connection with the visual. Thank you so much for taking time with us.
+
+MILLER: Yeah, thank you for having me. It was interesting to talk about math.
+
+STROGATZ: [Laughs] It’s very charming to listen to the two of you talking about what is really a data visualization problem, and I’m reminded of the great book by Edward Tufte, Visual Display of Quantitative Information.
+
+STROGATZ: Oh, well, okay. Do you know the book?
+
+STROGATZ: Oh, come on. You’re teasing me. Okay, fine. The title may not be the selling point for the book, but he has one diagram of Napoleon’s march into Russia. So you see the thickness of a line that represent how many soldiers Napoleon has at a given time. And as this line starts moving across the page, this black band starts getting thinner and thinner as Napoleon’s army is getting depleted. Meanwhile, there’s other data showing the temperature, how cold it was, and what the date was when they attacked this or that place.
+
+So you’re actually getting not only geographical 2D information, you’re getting the size of the army, that’s a third dimension. You’re getting a fourth dimension for the date, and so on. So it’s really clever that people have been thinking about how to visualize multiple dimensions, even on a two-dimensional picture for a long time.
+
+LEVIN: Yeah, visualizations in mathematics is fascinating. I personally really appreciate visualizations, and yet I understand it’s a limitation. But what she described is actually a really fun way to imagine a higher dimensional space, is to unpack it in some sense. Just draw it here, then draw it there.
+
+You know, this idea of a sphere passing through, let’s say, a flat land, a world in which all creatures only live in two dimensions, and what do you see? You can understand the three-dimensional sphere as a series of concentric circles that widen as the sphere enters and then shrink as the sphere leaves.
+
+And it really helps you say, “Well, I could probably do that with a 4-sphere passing through three dimensions,” and indeed you can. It really sort of helps connect with the physicality of these spaces.
+
+LEVIN: Well, we have to unfortunately leave this abstract realm behind. Back to reality. But Steve, thank you so much for being a partner in crime
+
+STROGATZ: If you’re enjoying The Joy of Why and you’re not already subscribed, hit the subscribe or follow button where you’re listening. You can also leave a review for the show. It helps people find this podcast. Find articles, newsletters, videos, and more at quantamagazine.org.
+
+LEVIN: The Joy of Why is a podcast from Quanta Magazine, an editorially independent publication supported by the Simons Foundation. Funding decisions by the Simons Foundation have no influence on the selection of topics, guests or other editorial decisions in this podcast or in Quanta Magazine.
+
+The Joy of Why is produced by PRX Productions; the production team is Caitlin Faulds, Jade Abdul-Malik, Genevieve Sponsler, and Merritt Jacob. The Executive Producer of PRX Productions is Jocelyn Gonzales. Edwin Ochoa is our project manager.
+
+From Quanta Magazine, Simon Frantz and Samir Patel provided editorial guidance, with support from Samuel Velasco, Kit Sudol, Simone Barr, and Michael Kanyongolo. Samir Patel is Quanta’s Editor-in-Chief.
+
+The episode art is by Chanelle Nibbelink and our logo is by Jaki King and Kristina Armitage. Special thanks to Garth Avery at the Cornell Broadcast Studio.
+
+I’m your host, Janna Levin. If you have any questions or comments, please email us at [email protected]. Thanks for listening.
 
 Get highlights of the most important news delivered to your email inbox
 

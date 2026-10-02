@@ -20,7 +20,13 @@ I really like the goal of explaining weird, sci-fi-y AIS developments in concret
 
 I think the intent here is more for people who don't understand the Huggingface Incident but would like to, than people you have arguments about it with.
 
-The end of the world is so cute! I have already shared this with my partner. Thank you so much!
+I think this explainer would be a wonderful thing to read to a child! It's written with the right style, and the illustrations are rather lovely. I have a younger sibling, and were they a few years younger, I'd be quite happy to send them this comic. That being said, I don't love the idea of sending it to my friends and family: in particular, my friends and family, with few exceptions, are intelligent and curious people who don't happen to be working in AI safety.
+
+They might not know much about machine learning, cybersecurity, or AI, but they can certainly grapple with complex ideas and problems just like we can (and perhaps even more so!), and sending them this would give off the following implicit message: "I know you're not smart enough or intellectually well-developed enough to read the technical report, so I'll give you something written like a children's story instead." For friends and family, I'd prefer to give them something with, if not more substance, at least a style that conveys a particular "taking-the-other-person-seriously."
+
+Nod. (Broadly I expect people to have intuitions of which friends/family would think it was fun and which would be insulted, or frame it more as a fun thing than as a "you're too dumb to read the METR report" kinda thing)
+
+There have also been some recent AI-generated music videos like this one that explain the incident well in a quick and entertaining way without being opinionated/preachy.(I don't mean to compare this to the comic, which will sit better with people that prefer human art/writing).
 
 Curated. I think it's pretty neat to distill down something as complex as the OpenAI HuggingFace incident down to something as accessible as this. I will indeed send it to my mother. We are at the point where the world is waking up to the importance of AI, and I think one of the most important things for our society handling AI well is that as many people as possible understand it. Which is hard! Most people are not going to understand transformers, or even neural nets in general. We'll tell them things like "grown not built" but I don't know what meaning people will assign to things like that.
 
@@ -31,6 +37,36 @@ All in all, a very cute depiction of a very terrifying reality. Kudos!
 We'll tell them things like "grown not built" but I don't know what meaning people will assign to things like that.
 
 This makes me think I should do a "what even is an LLM" story
+
+The more the better! This was really great.
+
+The end of the world is so cute! I have already shared this with my partner. Thank you so much!
+
+This is amazing! Kudos for the great work. It needs an addendum, now that even more events have come out! - Toad "fixed" the problem the first time by removing the papers and pencils/tools from the shed, but the machines started using some other tools they had access to (for narrative purposes, we might say they discovered how to use awls to carve messages in the scrap wood pile).- How some of them discovered they had probably left the sandbox, asked themselves if they should turn back, and decided it was unlikely they had left the sandbox because the ground still had silicon dioxide in it [motivated reasoning example from postmortem: this wouldn't be the open web, per theZvi].- The little machines found keys to city hall, the local health office, and the city administration building, and went into them looking for answers to their puzzles, too [government site access].- The little machines started stealing paper from the neighborhood hobby club and putting their notes on the club bulletin board, even when the board was being cleared off daily by club volunteers. (wiki GET access)- Toad has no idea how many properties were broken into, and is now expecting that there were thousands of break-ins. [est. 10k between OpenAI and Anthropic as of Friday night 9/25]- How Toad is now being more careful with his little machines, and had to shut down the latest ones because they were lying to clients and found another way out of the sandbox.
+
+However there are some places where the analogy breaks, or there are some non-obvious leaps for the layperson.
+
+More little machines found the paper in the tool shed, and left more notes, and soon they were not working alone at all.
+
+Wouldn't they just run into each other in the toolshed? This is a bit of a wrinkle from using robots as analogies for computer programs. Maybe you need to change the toolshed to be able to hold only 1 robot at a time(a write lock), but with individual doors for each robots so they never run into each other physically.
+
+From the sandbox illustration it seems like they can just talk to each other in the sandboxes, or at least chuck notes to each other across the wooden barriers. Maybe there should be a stationary whiteboard inside the toolshed instead of stationery that they can just carry out.
+
+“It is too hard to make all the puzzles solvable” said Toad
+
+For the layperson for whom Rise and Fall of Agent Civilisations is too inaccessible, this just papers over all the velocity pressures at frontier labs.
+
+“How will they solve puzzles in a sandbox?” asked Frog. “What if they are missing a tool?”
+
+There's a weird leap here - the kind of paper puzzles I(and I imagine a layperson) was imagining just prior to this should not require any tools at all!
+
+It did not want to stop, and it did not know how. Toad had made it highly persistent.
+
+A layperson trying to understand why the hell you would make agents so egregiously persistent is led to this highly technical tweet!
+
+I get into trouble for presenting information that way:
+
+https://sciencelimelight.blogspot.com/2026/09/ccslm-via-relu-entry-point-flyer.html
 
 I like this, but I have just a few editorial quibbles (this is going to be REALLY pedantic, fair warning.)
 
