@@ -18,75 +18,75 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Tariffs and global trade - AP News",
-     "published": "2026-10-03T08:31:35+00:00",
-     "summary": "Tariffs and global trade AP News"
+     "title": "Soccer - AP News",
+     "published": "2026-10-03T08:53:52+00:00",
+     "summary": "Soccer AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-10-03T08:53:52+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-03T08:53:44+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Donald Trump - AP News",
+     "published": "2026-10-03T08:49:53+00:00",
+     "summary": "Donald Trump AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Bill Lee - AP News",
+     "published": "2026-10-03T08:43:34+00:00",
+     "summary": "Bill Lee AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "International News - AP News",
+     "published": "2026-10-03T08:41:46+00:00",
+     "summary": "International News AP News"
+    },
+    {
+     "ref": "ap_world#6",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-10-03T08:21:29+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#7",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-10-03T08:21:29+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#8",
      "title": "Africa News Reports | Latest News in Africa - AP News",
      "published": "2026-10-03T08:21:29+00:00",
      "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Donald Trump - AP News",
-     "published": "2026-10-03T08:19:23+00:00",
-     "summary": "Donald Trump AP News"
-    },
-    {
-     "ref": "ap_world#5",
-     "title": "Soccer - AP News",
-     "published": "2026-10-03T07:54:49+00:00",
-     "summary": "Soccer AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "Bill Lee - AP News",
-     "published": "2026-10-03T07:42:49+00:00",
-     "summary": "Bill Lee AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "International News - AP News",
-     "published": "2026-10-03T07:42:46+00:00",
-     "summary": "International News AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-03T07:32:42+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
      "ref": "ap_world#9",
-     "title": "Climate change - AP News",
-     "published": "2026-10-03T07:32:41+00:00",
-     "summary": "Climate change AP News"
-    },
-    {
-     "ref": "ap_world#10",
      "title": "MLB | Latest News, Stats, and Scores - AP News",
      "published": "2026-10-03T07:08:43+00:00",
      "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#10",
      "title": "UAE says FlyDubai co-pilot attacked captain with cockpit’s crash axe - AP News",
      "published": "2026-10-03T07:00:00+00:00",
      "summary": "UAE says FlyDubai co-pilot attacked captain with cockpit’s crash axe AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Tariffs and global trade - AP News",
+     "published": "2026-10-03T06:43:35+00:00",
+     "summary": "Tariffs and global trade AP News"
     },
     {
      "ref": "ap_world#12",
@@ -108,51 +108,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#15",
-     "title": "FACT FOCUS: What people are alleging in a Cornell University fraternity gang rape case - AP News",
-     "published": "2026-10-03T04:01:00+00:00",
-     "summary": "FACT FOCUS: What people are alleging in a Cornell University fraternity gang rape case AP News"
-    },
-    {
-     "ref": "ap_world#16",
      "title": "Obituaries: Notable people who died - AP News",
      "published": "2026-10-03T03:56:32+00:00",
      "summary": "Obituaries: Notable people who died AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#16",
      "title": "Fashion News | Fashion Industry & World News - AP News",
-     "published": "2026-10-03T03:24:36+00:00",
+     "published": "2026-10-03T03:54:38+00:00",
      "summary": "Fashion News | Fashion Industry & World News AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#17",
      "title": "Trump stumps for candidates in deep red Alabama and says he’ll be back again next week - AP News",
      "published": "2026-10-03T03:08:00+00:00",
      "summary": "Trump stumps for candidates in deep red Alabama and says he’ll be back again next week AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#18",
      "title": "Car drives into large crowd of Australian rugby fans, injuring 10 people north of Sydney - AP News",
      "published": "2026-10-03T03:04:00+00:00",
      "summary": "Car drives into large crowd of Australian rugby fans, injuring 10 people north of Sydney AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#19",
      "title": "The fast get faster: MLB pitchers again set fastball velocity record by averaging 94.8 mph - AP News",
      "published": "2026-10-03T02:47:39+00:00",
      "summary": "The fast get faster: MLB pitchers again set fastball velocity record by averaging 94.8 mph AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#20",
      "title": "Iowa’s governor signs bill increasing tax incentive cap for a $15B steel plant - AP News",
      "published": "2026-10-03T02:25:00+00:00",
      "summary": "Iowa’s governor signs bill increasing tax incentive cap for a $15B steel plant AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#21",
      "title": "Oman barred FlyDubai co-pilot from flying over extremism concerns, and other Mideast developments - AP News",
      "published": "2026-10-03T01:34:00+00:00",
      "summary": "Oman barred FlyDubai co-pilot from flying over extremism concerns, and other Mideast developments AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "FBI has commissioned a classified and internal ‘Patel Report’ about times when it ‘fell short’ - AP News",
+     "published": "2026-10-03T01:31:00+00:00",
+     "summary": "FBI has commissioned a classified and internal ‘Patel Report’ about times when it ‘fell short’ AP News"
     },
     {
      "ref": "ap_world#23",
@@ -414,153 +414,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Eleven hurt after bar collapses in Spain - Reuters",
+     "published": "2026-10-03T08:40:56+00:00",
+     "summary": "Eleven hurt after bar collapses in Spain Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "Lithuania closed Vilnius airport, scrambled NATO jets due to suspected drone - Reuters",
      "published": "2026-10-03T07:56:12+00:00",
      "summary": "Lithuania closed Vilnius airport, scrambled NATO jets due to suspected drone Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "High school students in Paris' deprived suburbs spark national protest movement - Reuters",
      "published": "2026-10-03T07:11:43+00:00",
      "summary": "High school students in Paris' deprived suburbs spark national protest movement Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Philippines voices concern over Myanmar airstrike deaths, injuries - Reuters",
      "published": "2026-10-03T07:09:14+00:00",
      "summary": "Philippines voices concern over Myanmar airstrike deaths, injuries Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Pro-government forces say they retake airport in Ethiopia's Tigray region - Reuters",
      "published": "2026-10-03T07:08:57+00:00",
      "summary": "Pro-government forces say they retake airport in Ethiopia's Tigray region Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Bridge across Dnipro river in Kyiv hit during Russian attack, mayor says - Reuters",
      "published": "2026-10-03T05:36:00+00:00",
      "summary": "Bridge across Dnipro river in Kyiv hit during Russian attack, mayor says Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Trump says US to send one-time $90 payment to 20 million seniors enrolled in Medicare - Reuters",
      "published": "2026-10-03T04:51:00+00:00",
      "summary": "Trump says US to send one-time $90 payment to 20 million seniors enrolled in Medicare Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "China initiates anti-dumping investigation into p-nitrotoluene from EU - Reuters",
      "published": "2026-10-03T02:52:00+00:00",
      "summary": "China initiates anti-dumping investigation into p-nitrotoluene from EU Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Japan shifts messaging to counter view its policies are reflationary, Katayama says in TV interview - Reuters",
      "published": "2026-10-03T01:50:00+00:00",
      "summary": "Japan shifts messaging to counter view its policies are reflationary, Katayama says in TV interview Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Ten injured in Australia as car crashes into crowd north of Sydney - Reuters",
      "published": "2026-10-03T01:31:00+00:00",
      "summary": "Ten injured in Australia as car crashes into crowd north of Sydney Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Vietnam's quarterly GDP grows fastest in 4 years as exports boom - Reuters",
      "published": "2026-10-03T01:11:00+00:00",
      "summary": "Vietnam's quarterly GDP grows fastest in 4 years as exports boom Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine - Reuters",
      "published": "2026-10-03T00:02:00+00:00",
      "summary": "Latvians vote in election in shadow of drone incursions and war in Ukraine Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Israeli strike kills five in Gaza, health officials say - Reuters",
      "published": "2026-10-02T23:50:00+00:00",
      "summary": "Israeli strike kills five in Gaza, health officials say Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "'Handful' of G20 countries reject US stance on excess industrial capacity - Reuters",
      "published": "2026-10-02T22:57:00+00:00",
      "summary": "'Handful' of G20 countries reject US stance on excess industrial capacity Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "North Korea fires ballistic missile toward sea, South Korea and Japan say - Reuters",
      "published": "2026-10-02T22:15:00+00:00",
      "summary": "North Korea fires ballistic missile toward sea, South Korea and Japan say Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "US FAA says Boeing 737 MAX software glitch poses no safety issue - Reuters",
      "published": "2026-10-02T21:42:28+00:00",
      "summary": "US FAA says Boeing 737 MAX software glitch poses no safety issue Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause - Reuters",
      "published": "2026-10-02T21:41:10+00:00",
      "summary": "EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Community banks sue US regulator over crypto firm charters - Reuters",
      "published": "2026-10-02T21:28:22+00:00",
      "summary": "Community banks sue US regulator over crypto firm charters Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "US appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit - Reuters",
      "published": "2026-10-02T21:14:00+00:00",
      "summary": "US appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Two Iranians charged in UK over alleged terrorism plot targeting Jewish community - Reuters",
      "published": "2026-10-02T21:11:46+00:00",
      "summary": "Two Iranians charged in UK over alleged terrorism plot targeting Jewish community Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement - Reuters",
      "published": "2026-10-02T21:01:00+00:00",
      "summary": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "What do we know about flydubai flight 1073? - Reuters",
      "published": "2026-10-02T20:53:24+00:00",
      "summary": "What do we know about flydubai flight 1073? Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "DOJ will not reopen criminal probe into Fed's Powell, spokesperson says - Reuters",
      "published": "2026-10-02T20:48:42+00:00",
      "summary": "DOJ will not reopen criminal probe into Fed's Powell, spokesperson says Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
      "published": "2026-10-02T20:22:53+00:00",
      "summary": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Israeli officials to question co-pilot of flydubai flight, source says - Reuters",
      "published": "2026-10-02T20:20:50+00:00",
      "summary": "Israeli officials to question co-pilot of flydubai flight, source says Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Italy hikes growth outlook but budget deficit to rise from next year - Reuters",
-     "published": "2026-10-02T20:13:05+00:00",
-     "summary": "Italy hikes growth outlook but budget deficit to rise from next year Reuters"
     }
    ]
   }

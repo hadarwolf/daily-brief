@@ -388,15 +388,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
-     "published": "2026-10-03T07:37:38+00:00",
-     "summary": "Robert Lewandowski, 38, scores a hat-trick in the Nations League and Edin Dzeko plays his final game for Bosnia-Herzegovina."
+     "title": "Dyche would be open to Celtic approach - gossip",
+     "published": "2026-10-03T08:40:42+00:00",
+     "summary": "Premier League manager would be interested if Celtic require a mid-season change..."
     },
     {
      "ref": "bbc_football#1",
-     "title": "Too quiet for too long, can McGinn recapture best for Scotland?",
-     "published": "2026-10-03T07:05:17+00:00",
-     "summary": "Fifth in the all-time scoring chart for Scotland and closing in on 100 caps, John McGinn could do with finding his best stuff again, writes Tom English."
+     "title": "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
+     "published": "2026-10-03T07:37:38+00:00",
+     "summary": "Robert Lewandowski, 38, scores a hat-trick in the Nations League and Edin Dzeko plays his final game for Bosnia-Herzegovina."
     },
     {
      "ref": "bbc_football#2",
@@ -406,9 +406,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#3",
-     "title": "Who am I? Guess WSL star No 7",
-     "published": "2026-10-03T06:57:51+00:00",
-     "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible."
+     "title": "Too quiet for too long, can McGinn recapture best for Scotland?",
+     "published": "2026-10-03T07:05:17+00:00",
+     "summary": "Fifth in the all-time scoring chart for Scotland and closing in on 100 caps, John McGinn could do with finding his best stuff again, writes Tom English."
     },
     {
      "ref": "bbc_football#4",
@@ -418,117 +418,117 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#5",
+     "title": "Who am I? Guess WSL star No 7",
+     "published": "2026-10-03T06:57:51+00:00",
+     "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible."
+    },
+    {
+     "ref": "bbc_football#6",
      "title": "The student playing in La Liga: Introvert Rodri's unique rise to top",
      "published": "2026-10-03T06:32:05+00:00",
      "summary": "Rodri is already playing a key role at Barcelona after turning down Real Madrid this summer. Guillem Balague looks at his journey so far."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Flex your football brain with our daily quizzes",
      "published": "2026-10-03T05:43:42+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Arteta helped me understand the game - Wilshere",
      "published": "2026-10-03T05:24:33+00:00",
      "summary": "Luton Town manager Jack Wilshere shares his love for coaching and explains how Arsenal boss Mikel Arteta influnced his style."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Learning from Arteta and inspiring youngsters - Wilshere on management",
      "published": "2026-10-03T05:19:13+00:00",
      "summary": "Luton Town manager Jack Wilshere speaks about being back where he started as an eight-year-old and the lessons he learned from his time at Arsenal."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
      "published": "2026-10-02T22:30:24+00:00",
      "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
      "title": "Who has 'no ceiling' as Northern Ireland shine in Nations League?",
      "published": "2026-10-02T21:48:54+00:00",
      "summary": "After an impressive 3-0 victory over Ukraine in the Nations League, Northern Ireland manager Michael O'Neill was impressed with his young side."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#12",
      "title": "Chiesa eyes Liverpool exit - Saturday's gossip",
      "published": "2026-10-02T21:14:32+00:00",
      "summary": "Liverpool forward Federico Chiesa is on the radar of a trio of Serie A clubs, Man City striker Erling Haaland is more likely to head to Barcelona than Arsenal if he leaves the club, Brentford's Michael Kayode is wanted by Juventus, plus more."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Why Aston Villa played Sevilla for a trophy you haven't heard of",
      "published": "2026-10-02T21:02:23+00:00",
      "summary": "Aston Villa beat Sevilla in the Antonio Puerta Trophy, named in memory of one of the Spanish club's former players."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Man City whistleblower set to lose protection amid fears for life",
      "published": "2026-10-02T19:26:13+00:00",
      "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Man City confirm appeal against guilty verdict",
      "published": "2026-10-02T17:43:48+00:00",
      "summary": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\"."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "Football Daily",
      "published": "2026-10-02T17:18:00+00:00",
      "summary": "John Murray & Ali Bruce-Ball are joined by Conor McNamara to chat commentator life."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "What can Peterborough fans expect from 'relentless' Savage?",
      "published": "2026-10-02T16:53:00+00:00",
      "summary": "Peterborough United's director of football Barry Fry predicts life under Robbie Savage will be anything but dull."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Tuchel would never rule out players not in top flight",
      "published": "2026-10-02T15:05:31+00:00",
      "summary": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not playing in the top flight, should Manchester City be relegated."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Tankards, Clough & 'creaky joints' - Tennent's Sixes returns",
      "published": "2026-10-02T14:07:42+00:00",
      "summary": "More than three decades since its last staging, Scottish football's cult indoor event makes a comeback with the \"creaky joints\" of former players taking to an ice rink."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
      "published": "2026-10-02T14:04:17+00:00",
      "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "Giant Dzeko shirt unveiled in Sarajevo to mark retirement",
      "published": "2026-10-02T14:00:18+00:00",
      "summary": "A giant Edin Dzeko shirt is unveiled in Sarajevo to mark the Bosnia striker's retirement from international football."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "How Gordon became one of England's main men",
      "published": "2026-10-02T13:15:44+00:00",
      "summary": "Anthony Gordon has been England's in-form player since the World Cup knockout stage - is the Barcelona forward now undroppable?"
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Peterborough appoint Forest Green boss Savage",
      "published": "2026-10-02T12:23:50+00:00",
      "summary": "Peterborough United appoint Forest Green Rovers boss Robbie Savage as Luke Williams' successor."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Robertson's Scotland career in numbers as 100th cap looms",
-     "published": "2026-10-02T11:43:12+00:00",
-     "summary": "Andy Robertson is poised to become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers."
     },
     {
      "ref": "bbc_football#24",
@@ -551,14 +551,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#1",
      "title": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance - Goal.com",
-     "published": "2026-10-03T06:00:02+00:00",
+     "published": "2026-10-03T06:02:49+00:00",
      "summary": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance Goal.com"
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 - USA Today",
+     "title": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 - usatoday.com",
      "published": "2026-10-03T02:57:29+00:00",
-     "summary": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 USA Today"
+     "summary": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 usatoday.com"
     },
     {
      "ref": "gnews_inter_miami#3",
@@ -586,15 +586,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#7",
-     "title": "Messi is preparing a revolution - fichajes.net",
+     "title": "Messi is preparing a revolution - Fichajes.net",
      "published": "2026-10-02T18:00:00+00:00",
-     "summary": "Messi is preparing a revolution fichajes.net"
+     "summary": "Messi is preparing a revolution Fichajes.net"
     },
     {
      "ref": "gnews_inter_miami#8",
-     "title": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere - movieguide.org",
+     "title": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere - Movieguide",
      "published": "2026-10-02T17:43:11+00:00",
-     "summary": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere movieguide.org"
+     "summary": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere Movieguide"
     },
     {
      "ref": "gnews_inter_miami#9",
