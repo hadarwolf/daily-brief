@@ -18,123 +18,123 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
+     "published": "2026-10-03T07:32:16+00:00",
+     "summary": "Malaysia’s defense minister said the government is considering spending more than 1 billion ringgit ($245 million) on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "UAE Says FlyDubai Co-Pilot Used Emergency Ax in Crash Attempt",
      "published": "2026-10-03T07:06:28+00:00",
      "summary": "Investigators probing the near-catastrophic Dubai to Tel Aviv flight said the FlyDubai co-pilot attempted “a terrorist operation” when he assaulted the captain, as more details emerge about the chaotic incident that miraculously ended with a safe landing."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "Europe’s Stocks Are Straining Under Pressure From Bond Yields",
      "published": "2026-10-03T07:00:00+00:00",
      "summary": "A historic surge in global bond yields is becoming a bigger problem for European stocks as investors confront the possibility of stubborn inflation and mounting government debt."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "IMF Approves Bolivia Loan Deal to Support Paz’s Economic Reforms",
      "published": "2026-10-03T00:55:49+00:00",
      "summary": "The International Monetary Fund approved a $1.9 billion financing program for Bolivia, including an immediate $214 million disbursement, in a package designed to help President Rodrigo Paz reverse a sharp economic slump."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
      "published": "2026-10-02T23:45:17+00:00",
      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Chris Phelan CEA Chairman, Robert Reich, Former US Labor Secretary, Alex Straton, Morgan Stanley Equity Research Managing Director, Gary Marcus, Robust AI Inc. CEO&Founder, Veronica Willis is an Investment Strategy Analyst, Dr"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
      "published": "2026-10-02T23:12:45+00:00",
      "summary": "This week, National Economic Council Director Kevin Hassett says AI’s productivity boost may be much larger than official economic data currently indicate. And, AI companies are largely in agreement that the technology needs guardrails, but the ethical implications of AI could also create new opportunities for liberal arts education. Plus, America is rebuilding a critical minerals supply chain aft"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Former CEA Chair on Jobs Report, GDP Growth",
      "published": "2026-10-02T22:17:57+00:00",
      "summary": "Former CEA Chair Cecilia Rouse believes that we may be 'entering a new normal' of the jobs report, with the break even potentially settling in around 50,000. She speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Morgan Stanley's Nike Analyst on quarterly earnings",
      "published": "2026-10-02T21:55:08+00:00",
      "summary": "Morgan Stanley's Alex Straton sees Nike sales and earnings softening as the company deals with inventory gluts in North America and China. She speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Pam Bondi’s Secret DOJ Email Address Revealed",
      "published": "2026-10-02T21:47:42+00:00",
      "summary": "A FOIA request has uncovered another little-known feature of life at the top of the Justice Department: attorneys general have used alternate email addresses to conduct government business for over a decade. This time around, Bloomberg News Senior Investigative Reporter Jason Leopold obtained the alias used by former Attorney General Pam Bondi. The discovery raises broader questions about governme"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "EM Assets Find Relief as US Jobs Data Eases Rate Fears",
      "published": "2026-10-02T21:42:53+00:00",
      "summary": "An index tracking emerging-market currencies climbed to a session high after weaker-than-expected US jobs data prompted traders to scale back bets on another Federal Reserve interest-rate hike this month. Nonfarm payrolls increased by 29,000 in September after downward revisions to the prior two months, according to Bureau of Labor Statistics data released Friday. The figure missed all estimates i"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "CEA Chairman: Inflation coming down sufficiently fast",
      "published": "2026-10-02T21:40:32+00:00",
      "summary": "Chris Phelan CEA Chairman, sees inflation clearly easing and thinks it's doing so quickly enough. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Lukoil Loses Bid to Dismiss Suit Over Franchisee Fuel Pricing",
      "published": "2026-10-02T21:36:47+00:00",
      "summary": "The owners of almost 30 Lukoil PJSC filling stations in Pennsylvania and New Jersey can proceed with a lawsuit accusing the Russian oil giant of overcharging franchisees."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Former Labor Secretary Rob Reich on Sept. Jobs Report",
      "published": "2026-10-02T21:32:22+00:00",
      "summary": "Robert Reich, former US Labor Secretary, discusses persistent inflation, very slow hiring, and wages that trail prices. He speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Using Decision Science in Investing | Masters in Business with Omar Aguilar",
      "published": "2026-10-02T21:00:15+00:00",
      "summary": "Barry speaks with Omar Aguilar, CEO and CIO of Schwab Asset Management. They discuss his time at Financial Engines, where he worked under Nobel laureate William Sharpe before joining Schwab Asset Management in 2011. They discuss how his doctorate in decision sciences helps him build trust with clients and push them toward their goals. They also discuss how he built Schwab Asset Management to over "
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
      "published": "2026-10-02T20:40:38+00:00",
      "summary": "Wall Street has spent weeks trying to make peace with the great bond selloff. Friday offered some short-lived relief — along with a warning about the damage from stubbornly high yields across investment strategies of all stripes."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Treasury Yields Climb, Adding to Weekly Gains | Closing Bell",
      "published": "2026-10-02T20:37:40+00:00",
      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue",
      "published": "2026-10-02T20:36:17+00:00",
      "summary": "A Federal Aviation Administration review board says a software issue in certain Boeing 737 Max flight computers “is not a safety concern.\" Boeing shares rose on the news. George Ferguson of Bloomberg Intelligence has more. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "CME Shelves Plans for 24/7 Oil Contract Amid Industry Qualms",
      "published": "2026-10-02T20:34:44+00:00",
      "summary": "CME Group Inc. is shelving plans to launch a round-the-clock oil contract following industry pushback."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#18",
      "title": "Why Robert Reich Is So Worried About Stagflation",
      "published": "2026-10-02T20:16:55+00:00",
      "summary": "Robert Reich, former US secretary of labor and UC Berkeley public policy emeritus professor, says what worries him most about the US economy is stagflation. He talks about kitchen table economics heading into the election on \"Bloomberg The Close.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#18",
+     "ref": "bloomberg_markets#19",
      "title": "Dollar Falls as Soft Job Data Roils Timing of Fed Rate-Hike Bets",
      "published": "2026-10-02T13:00:28+00:00",
      "summary": "The dollar posted its worst day in a month on Friday after a report showed the US added fewer jobs than expected in September, briefly leading traders to waver on bets the Federal Reserve will raise interest rates again this year."
-    },
-    {
-     "ref": "bloomberg_markets#19",
-     "title": "US Stocks Advance After Cooler-Than-Expected Employment Data",
-     "published": "2026-10-02T11:47:39+00:00",
-     "summary": "US stocks rose on Friday as key jobs data came in below expectations, taking pressure off the Federal Reserve to raise interest rates later this month."
     }
    ]
   },
@@ -541,9 +541,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 84590.3594,
+   "last": 84629.2734,
    "prev_close": 84497.2109,
-   "change_pct": 0.11,
+   "change_pct": 0.16,
    "as_of": "2026-10-03"
   }
  },

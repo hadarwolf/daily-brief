@@ -18,147 +18,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Crime - AP News",
+     "published": "2026-10-03T07:58:24+00:00",
+     "summary": "Crime AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Soccer - AP News",
+     "published": "2026-10-03T07:54:49+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Donald Trump - AP News",
+     "published": "2026-10-03T07:54:46+00:00",
+     "summary": "Donald Trump AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "South America - AP News",
+     "published": "2026-10-03T07:50:45+00:00",
+     "summary": "South America AP News"
+    },
+    {
+     "ref": "ap_world#4",
      "title": "Bill Lee - AP News",
      "published": "2026-10-03T07:42:49+00:00",
      "summary": "Bill Lee AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#5",
      "title": "International News - AP News",
      "published": "2026-10-03T07:42:46+00:00",
      "summary": "International News AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#6",
      "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
      "published": "2026-10-03T07:41:14+00:00",
      "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Donald Trump - AP News",
-     "published": "2026-10-03T07:38:47+00:00",
-     "summary": "Donald Trump AP News"
-    },
-    {
-     "ref": "ap_world#4",
+     "ref": "ap_world#7",
      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
      "published": "2026-10-03T07:32:42+00:00",
      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "Russia - AP News",
-     "published": "2026-10-03T07:27:13+00:00",
-     "summary": "Russia AP News"
-    },
-    {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-10-03T07:22:41+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-10-03T07:22:41+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "Spain - AP News",
-     "published": "2026-10-03T07:22:39+00:00",
-     "summary": "Spain AP News"
+     "ref": "ap_world#10",
+     "title": "Africa News Reports | Latest News in Africa - AP News",
+     "published": "2026-10-03T07:22:41+00:00",
+     "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "MLB | Latest News, Stats, and Scores - AP News",
      "published": "2026-10-03T07:08:43+00:00",
      "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
-     "ref": "ap_world#10",
-     "title": "UAE says FlyDubai co-pilot attacked captain with cockpit’s crash axe - AP News",
-     "published": "2026-10-03T07:00:00+00:00",
-     "summary": "UAE says FlyDubai co-pilot attacked captain with cockpit’s crash axe AP News"
-    },
-    {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "Tariffs and global trade - AP News",
      "published": "2026-10-03T04:32:57+00:00",
      "summary": "Tariffs and global trade AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#13",
      "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally - AP News",
      "published": "2026-10-03T04:02:00+00:00",
      "summary": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
+     "title": "FACT FOCUS: What people are alleging in a Cornell University fraternity gang rape case - AP News",
+     "published": "2026-10-03T04:01:00+00:00",
+     "summary": "FACT FOCUS: What people are alleging in a Cornell University fraternity gang rape case AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "Fashion News | Fashion Industry & World News - AP News",
-     "published": "2026-10-03T03:24:36+00:00",
+     "published": "2026-10-03T03:54:38+00:00",
      "summary": "Fashion News | Fashion Industry & World News AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "Trump stumps for candidates in deep red Alabama and says he’ll be back again next week - AP News",
      "published": "2026-10-03T03:08:00+00:00",
      "summary": "Trump stumps for candidates in deep red Alabama and says he’ll be back again next week AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "Car drives into large crowd of Australian rugby fans, injuring 10 people north of Sydney - AP News",
      "published": "2026-10-03T03:04:00+00:00",
      "summary": "Car drives into large crowd of Australian rugby fans, injuring 10 people north of Sydney AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "The fast get faster: MLB pitchers again set fastball velocity record by averaging 94.8 mph - AP News",
      "published": "2026-10-03T02:47:39+00:00",
      "summary": "The fast get faster: MLB pitchers again set fastball velocity record by averaging 94.8 mph AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "Plane crashes - AP News",
-     "published": "2026-10-03T02:44:04+00:00",
-     "summary": "Plane crashes AP News"
-    },
-    {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "Iowa’s governor signs bill increasing tax incentive cap for a $15B steel plant - AP News",
      "published": "2026-10-03T02:25:00+00:00",
      "summary": "Iowa’s governor signs bill increasing tax incentive cap for a $15B steel plant AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "Obituaries: Notable people who died - AP News",
      "published": "2026-10-03T02:14:47+00:00",
      "summary": "Obituaries: Notable people who died AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Northwestern opens new Ryan Field with fireworks and a light show before facing Penn State - AP News",
      "published": "2026-10-03T01:51:00+00:00",
      "summary": "Northwestern opens new Ryan Field with fireworks and a light show before facing Penn State AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Oman barred FlyDubai co-pilot from flying over extremism concerns, and other Mideast developments - AP News",
      "published": "2026-10-03T01:34:00+00:00",
      "summary": "Oman barred FlyDubai co-pilot from flying over extremism concerns, and other Mideast developments AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "49ers owner Jed York suspended for 6 games after his arrest in prostitution sting - AP News",
      "published": "2026-10-03T01:10:00+00:00",
      "summary": "49ers owner Jed York suspended for 6 games after his arrest in prostitution sting AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "North Korea test-fires ballistic missile as tensions grow over border mine blasts - AP News",
-     "published": "2026-10-03T01:09:00+00:00",
-     "summary": "North Korea test-fires ballistic missile as tensions grow over border mine blasts AP News"
     },
     {
      "ref": "ap_world#24",
@@ -176,7 +176,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "ref": "bbc_world#0",
      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
      "published": "2026-10-03T07:49:40+00:00",
-     "summary": "The flydubai flight from Dubai to Tel Aviv was carrying more than 170 people when the attack took place."
+     "summary": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker."
     },
     {
      "ref": "bbc_world#1",

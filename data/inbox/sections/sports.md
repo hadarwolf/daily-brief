@@ -544,15 +544,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
-     "published": "2026-10-03T06:48:32+00:00",
-     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#1",
      "title": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance - Goal.com",
      "published": "2026-10-03T06:00:02+00:00",
      "summary": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
+     "published": "2026-10-03T05:18:07+00:00",
+     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
     },
     {
      "ref": "gnews_inter_miami#2",
@@ -586,15 +586,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#7",
-     "title": "Messi is preparing a revolution - Fichajes.net",
+     "title": "Messi is preparing a revolution - fichajes.net",
      "published": "2026-10-02T18:00:00+00:00",
-     "summary": "Messi is preparing a revolution Fichajes.net"
+     "summary": "Messi is preparing a revolution fichajes.net"
     },
     {
      "ref": "gnews_inter_miami#8",
-     "title": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere - Movieguide",
+     "title": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere - movieguide.org",
      "published": "2026-10-02T17:43:11+00:00",
-     "summary": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere Movieguide"
+     "summary": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere movieguide.org"
     },
     {
      "ref": "gnews_inter_miami#9",
@@ -676,9 +676,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#22",
-     "title": "Why Lionel Messi must win the 2026 Ballon d’Or: 4 unstoppable reasons at age 39 - jang.com.pk",
+     "title": "Why Lionel Messi must win the 2026 Ballon d’Or: 4 unstoppable reasons at age 39 - Jang",
      "published": "2026-10-02T05:55:34+00:00",
-     "summary": "Why Lionel Messi must win the 2026 Ballon d’Or: 4 unstoppable reasons at age 39 jang.com.pk"
+     "summary": "Why Lionel Messi must win the 2026 Ballon d’Or: 4 unstoppable reasons at age 39 Jang"
     },
     {
      "ref": "gnews_inter_miami#23",
@@ -760,9 +760,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#10",
-     "title": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup - Last Word On Sports",
+     "title": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup - lastwordonsports.com",
      "published": "2026-10-01T14:25:47+00:00",
-     "summary": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup Last Word On Sports"
+     "summary": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup lastwordonsports.com"
     },
     {
      "ref": "gnews_israeli_nba#11",
