@@ -24,102 +24,153 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2018,
-   "text": "The Washington Post journalist Jamal Khashoggi was assassinated in the Saudi consulate in Istanbul, Turkey.",
+   "year": 2013,
+   "text": "A boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa, resulting in more than 360 deaths.",
    "context": [
-    "The Washington Post is an American daily newspaper published in Washington, D.C. It is the most widely circulated newspaper in the Washington metropolitan area and is considered a newspaper of record in the United States. In 2023, the Post had 130,000 print subscribers and 2.5 million digital subscribers, both ranking third among American newspapers after The New York Times and The Wall Street Journal. In 2025, the number of print subscribers sank below 100,000 for the first time in 55 years."
+    "On 3 October 2013, a boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa. It was reported that the boat had sailed from Misrata, Libya, but that many of the migrants were originally from Eritrea, Somalia and Ghana. An emergency response involving the Italian Coast Guard resulted in the rescue of 155 survivors. On 12 October it was reported that the confirmed death toll after searching the boat was 359, but that further bodies were still missing; a figure of \"more than 360\" deaths was later reported."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2006,
-   "text": "A gunman killed five Amish girls before committing suicide in a one-room schoolhouse in Nickel Mines, Pennsylvania.",
+   "year": 2008,
+   "text": "The Emergency Economic Stabilization Act of 2008, establishing the Troubled Asset Relief Program, commonly referred to as a bailout of the U.S. financial system, was enacted.",
    "context": [
-    "On October 2, 2006, a mass shooting occurred at the West Nickel Mines School, an Amish one-room schoolhouse in the Old Order Amish community of Nickel Mines, a village in Bart Township, Pennsylvania. Thirty-two-year-old Charles Carl Roberts IV took hostages and shot ten girls, killing six, before dying by suicide in the schoolhouse.\nThe emphasis on forgiveness and reconciliation in the Amish community's response was widely discussed by the national media. The West Nickel Mines School was later demolished, and a new one-room schoolhouse, the New Hope School, was built at another location. It is the deadliest school shooting in Pennsylvania history."
+    "The Emergency Economic Stabilization Act of 2008, also known as the \"bank bailout of 2008\" or the \"Wall Street bailout\", was a United States federal law enacted during the Great Recession, which created federal programs to \"bail out\" failing financial institutions and banks. The bill was proposed by Treasury Secretary Henry Paulson, passed by the 110th United States Congress, and was signed into law by President George W. Bush. It became law as part of Public Law 110-343 on October 3, 2008. It created the $700 billion Troubled Asset Relief Program (TARP) whose funds would purchase toxic assets from failing banks. The funds were mostly directed to inject capital into banks and other financial institutions as the Treasury continued to review the effectiveness of targeted asset-purchases."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2005,
-   "text": "Typhoon Longwang made landfall in China as the deadliest tropical cyclone in that year to impact the country.",
+   "year": 2003,
+   "text": "Roy Horn of the American entertainment duo Siegfried & Roy (both pictured) was mauled by a tiger during a performance at the Mirage on the Las Vegas Strip.",
    "context": [
-    "Typhoon Longwang, known in the Philippines as Typhoon Maring, was the deadliest tropical cyclone to impact China during the 2005 Pacific typhoon season. Longwang was first identified as a tropical depression on September 25 north of the Mariana Islands. Moving along a general westward track, the system quickly intensified and reached typhoon status on September 27. After reaching Category 4-equivalent intensity on the Saffir–Simpson hurricane scale, adverse atmospheric conditions along with internal structural changes resulted in temporary weakening. The structural change culminated in Longwang becoming an annular typhoon and prompted re-intensification. The storm attained peak strength with winds of 175 km/h (109 mph) and a pressure of 930 mbar on October 1 as it approached Taiwan. Interaction with the mountainous terrain of the island and further structural changes caused some weakening before the typhoon made landfall near Hualien City early on October 2. Crossing the island in six hours, Longwang emerged over the Taiwan Strait before moving onshore again later that day, this time in Fujian Province, China as a minimal typhoon. Once over mainland China, the storm quickly weakened and ultimately dissipated late on October 3."
+    "Siegfried Fischbacher and Roy Horn were German-American entertainers who performed an animal-based magic show together as Siegfried & Roy. The duo, who were also romantically involved, were best known for their flamboyant, Liberace-style costumes and use of white lions and white tigers in their acts. Siegfried was the magician, and Roy was the animal trainer."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1990,
-   "text": "A hijacked airliner collided with two other planes while attempting to land at Guangzhou Baiyun International Airport in China, killing 128 and injuring 71.",
+   "year": 1992,
+   "text": "Sinéad O'Connor  tore up a photograph of Pope John Paul II on live television.",
    "context": [
-    "Aircraft hijacking is the unlawful seizure of an aircraft by an individual or a group. Dating from the earliest of hijackings, most cases involve the pilot being forced to fly according to the hijacker's demands. There have also been incidents where the hijackers have overpowered the flight crew, made unauthorized entry into the cockpit and flown them into buildings—most notably in the September 11 attacks—and in some cases, planes have been hijacked by the official captain or first officer, such as with Ethiopian Airlines Flight 702."
+    "Sinéad Marie Bernadette O'Connor, also known as Shuhada' Sadaqat, was an Irish singer and songwriter. During her musical career, which encompassed several hit records and artist collaborations, O'Connor drew attention to issues such as child abuse, human rights, racism, and women's rights. She was also known for her outspoken public image, openly discussing her spiritual journey, activism, socio-political viewpoints, and struggles with mental health."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1971,
-   "text": "Nguyễn Văn Thiệu was re-elected unopposed as President of South Vietnam.",
+   "year": 1991,
+   "text": "Nadine Gordimer became the first South African to win the Nobel Prize in Literature.",
    "context": [
-    "Nguyễn Văn Thiệu was a South Vietnamese military officer and politician who was the president of South Vietnam from 1967 to 1975. He was a general in the Republic of Vietnam Armed Forces (RVNAF), became head of a military junta in 1965, and then president after winning a rigged election in 1967. He headed the government of South Vietnam until he resigned and left the nation and relocated to Taipei a few days before the fall of Saigon and the ultimate North Vietnamese victory."
+    "Nadine Gordimer was a South African writer and political activist. She received the Nobel Prize in Literature in 1991, recognised as a writer \"who through her magnificent epic writing has ... been of very great benefit to humanity\"."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1967,
-   "text": "Thurgood Marshall was sworn in as the first African-American justice of the Supreme Court of the United States.",
+   "year": 1989,
+   "text": "Major Moisés Giroldi of the Panama Defense Forces failed in his attempt to overthrow dictator Manuel Noriega.",
    "context": [
-    "Thoroughgood \"Thurgood\" Marshall was an American lawyer who served as an associate justice of the Supreme Court of the United States from 1967 until 1991. He was the Supreme Court's first African-American justice. Before his judicial service, he was an attorney who fought for civil rights, leading the NAACP Legal Defense and Educational Fund. Marshall was a prominent figure in the movement to end racial segregation in American public schools. He won 29 of the 32 civil rights cases he argued before the Supreme Court, culminating in the Court's landmark 1954 decision in Brown v. Board of Education, which rejected the separate but equal doctrine and held segregation in public education to be unconstitutional. President Lyndon B. Johnson appointed Marshall to the Supreme Court in 1967. A staunch liberal, he frequently dissented as the Court became increasingly conservative."
+    "Moisés Giroldi Vera was a Panamanian military commander noted for his coup attempt against military leader Manuel Noriega in 1989. Giroldi was executed in the military barracks in San Miguelito after the coup was suppressed."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1942,
-   "text": "Second World War: HMS Curacoa (pictured) was accidentally rammed and sunk by RMS Queen Mary while escorting the liner to provide protection from submarine attacks.",
+   "year": 1981,
+   "text": "A hunger strike by Irish republican prisoners at HM Prison Maze outside Belfast, Northern Ireland, ended after seven months and ten deaths.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "A five-year protest during the Troubles by Irish republican prisoners in Northern Ireland culminated in a hunger strike in 1981. The protest began as the blanket protest in 1976 when the British government withdrew Special Category Status for convicted paramilitary prisoners."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1913,
-   "text": "The Shubert Theatre (pictured) opened on Broadway with a production of Hamlet.",
+   "year": 1963,
+   "text": "Oswaldo López Arellano replaced Honduran president Ramón Villeda Morales  in a violent coup, initiating two decades of military rule.",
    "context": [
-    "The Shubert Theatre is a Broadway theater at 225 West 44th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. Opened in 1913, the theater was designed by Henry Beaumont Herts in the Italian Renaissance style and was built for the Shubert brothers. Lee and J. J. Shubert had named the theater in memory of their brother Sam S. Shubert, who died in an accident several years before the theater's opening. It has 1,502 seats across three levels and is operated by The Shubert Organization. The facade and interior are New York City landmarks."
+    "Oswaldo Enrique López Arellano was a Honduran politician who twice served as the President of Honduras, first from 1963 to 1971 and again from 1972 until 1975."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1879,
-   "text": "Qing China signed the Treaty of Livadia with the Russian Empire, but the terms were so unfavorable that the Chinese government refused to ratify the treaty.",
+   "year": 1962,
+   "text": "Mercury-Atlas 8, the fifth United States crewed space mission, was launched from Cape Canaveral Air Force Station in Florida, carrying astronaut Wally Schirra (pictured).",
    "context": [
-    "The Qing dynasty, officially the Great Qing, also known as the Qing Empire or Qing China, was a Manchu-led imperial dynasty of China and an early modern empire in East Asia which existed from 1636/1644 to 1912. The last imperial dynasty in Chinese history, the Qing dynasty was preceded by the Ming dynasty and succeeded by the Republic of China. At the height of its power, the empire stretched from the Sea of Japan in the east to the Pamir Mountains in the west, and from the Mongolian Plateau in the north to the South China Sea in the south. Originally emerging from the Later Jin dynasty founded in 1616 and proclaimed in Shenyang in 1636, the dynasty seized control of the Ming capital Beijing and North China in 1644, traditionally considered the start of the dynasty's rule. The dynasty lasted until the Xinhai Revolution of October 1911 led to the abdication of the last emperor in February 1912. The multi-ethnic Qing dynasty assembled the territorial base for modern China. The Qing controlled the most territory of any dynasty in Chinese history, and in 1790 was the fourth-largest empire in world history to that point. It was also the most populous state at the time, with over 426 million citizens in 1907."
+    "Mercury-Atlas 8 (MA-8) was the fifth United States crewed space mission, part of NASA's Mercury program. Astronaut Walter M. Schirra Jr., orbited the Earth six times in the Sigma 7 spacecraft on October 3, 1962, in a nine-hour flight focused mainly on technical evaluation rather than on scientific experimentation. This was the longest U.S. crewed orbital flight yet achieved in the Space Race, though well behind the several-day record set by the Soviet Vostok 3 earlier in the year. It confirmed the Mercury spacecraft's durability ahead of the one-day Mercury-Atlas 9 mission that followed in 1963."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1835,
-   "text": "Mexican dragoons dispatched to disarm settlers at Gonzales in Mexican Texas encountered stiff resistance from a Texian militia at the Battle of Gonzales, the first armed engagement of the Texas Revolution.",
+   "year": 1953,
+   "text": "Vancouver's Holy Rosary Cathedral was dedicated by Archbishop William Mark Duke, fifty-three years after it first opened.",
    "context": [
-    "Dragoons were originally a class of mounted infantry, who used horses for mobility, but dismounted to fight on foot. From the early 17th century onward, dragoons were increasingly also employed as conventional cavalry and trained for combat with swords and firearms from horseback. While their use goes back to the late 16th century, dragoon regiments were established in most European armies during the 17th and early 18th centuries; they provided greater mobility than regular infantry but were far less expensive than cavalry."
+    "The Metropolitan Cathedral of Our Lady of the Holy Rosary, commonly known as Holy Rosary Cathedral, is a late 19th-century French Gothic revival church that serves as the cathedral of the Roman Catholic Archdiocese of Vancouver. It is located in the downtown area of the city at the intersection of Richards and Dunsmuir streets."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1766,
-   "text": "As part of wider food riots, citizens in Nottingham, England, looted large quantities of cheese; one man was killed during attempts to restore order.",
+   "year": 1952,
+   "text": "The United Kingdom successfully conducted its first nuclear test, becoming the world's third state with nuclear weapons.",
    "context": [
-    "The 1766 food riots took place across England in response to rises in the prices of wheat and other cereals following a series of poor harvests. Riots were sparked by the first largescale exports of grain in August and peaked in September–October. Around 131 riots were recorded, though many were relatively non-violent. In many cases traders and farmers were forced by the rioters to sell their wares at lower rates. In some instances, violence occurred with shops and warehouses looted and mills destroyed. There were riots in many towns and villages across the country but particularly in the South West and the Midlands, which included the Nottingham cheese riot."
+    "Operation Hurricane was the first test of a British atomic device. A plutonium implosion device was detonated on 3 October 1952 in Main Bay, Trimouille Island, in the Montebello Islands in Western Australia. With the success of Operation Hurricane, the United Kingdom became the third nuclear power, after the United States and the Soviet Union."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1470,
-   "text": "With King Edward IV of England forced to flee to the Burgundian Netherlands after a rebellion organised by Richard Neville, 16th Earl of Warwick, Henry VI was restored to the throne.",
+   "year": 1951,
+   "text": "In Major League Baseball, the New York Giants' Bobby Thomson hit the \"Shot Heard 'Round the World\", a game-winning home run, to win the National League pennant.",
    "context": [
-    "Edward IV was King of England from 4 March 1461 to 3 October 1470, then again from 11 April 1471 until he died in 1483. A member of the House of York, he was a central figure in the Wars of the Roses, a series of civil wars in England fought between the Yorkist and Lancastrian factions between 1455 and 1487."
+    "Major League Baseball (MLB) is a professional baseball league in North America composed of 30 teams, divided equally between the National League (NL) and the American League (AL), with 29 in the United States and 1 in Canada. MLB is one of the major professional sports leagues in the United States and Canada and is considered the premier baseball league in the world. Each team plays 162 games per season, with Opening Day held during the last week of March or the first week of April. Six teams in each league then advance to a four-round postseason tournament in October, culminating in the World Series, a best-of-seven championship series between the two league champions first played in 1903. MLB is headquartered in New York City."
+   ]
+  },
+  {
+   "ref": "wikipedia#12",
+   "year": 1951,
+   "text": "The First Battle of Maryang-san, widely regarded as one of the Australian Army's greatest accomplishments during the Korean War, began.",
+   "context": [
+    "The First Battle of Maryang-san, also known as the Defensive Battle of Maliangshan, was fought during the Korean War between United Nations Command (UN) forces—primarily Australian, British and Canadian—and the Chinese People's Volunteer Army (PVA). The fighting occurred during a limited UN offensive by US I Corps, codenamed Operation Commando. This offensive ultimately pushed the PVA back from the Imjin River to the Jamestown Line and destroyed elements of four PVA armies following heavy fighting. The much smaller battle at Maryang-san took place over a five-day period, and saw the 1st Commonwealth Division dislodge a numerically superior PVA force from the tactically important Kowang-san, Hill 187, and Maryang-san features."
+   ]
+  },
+  {
+   "ref": "wikipedia#13",
+   "year": 1935,
+   "text": "Italian forces under General Emilio De Bono invaded Abyssinia during the opening stages of the Second Italo-Abyssinian War.",
+   "context": [
+    "Emilio De Bono was an Italian general, fascist activist, marshal, war criminal, and member of the Fascist Grand Council. De Bono fought in the Italo-Turkish War, the First World War and the Second Italo-Abyssinian War. He was one of the key figures behind Italy's anti-partisan policies in Libya, such as the use of poison gas and concentration camps."
+   ]
+  },
+  {
+   "ref": "wikipedia#14",
+   "year": 1849,
+   "text": "American author Edgar Allan Poe was found semi-conscious and delirious in Baltimore under mysterious circumstances; it was the last time he was seen in public before his death four days later.",
+   "context": [
+    "Edgar Allan Poe was an American writer, poet, editor, and literary critic who is best known for his poetry and short stories, particularly his tales involving mystery and the macabre. He is widely regarded as one of the central figures of Romanticism and Gothic fiction in the United States and of early American literature."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1792,
+   "text": "Spanish forces departed Valdivia to suppress the indigenous Huilliche uprising in southern Chile.",
+   "context": [
+    "Valdivia is a city and commune in southern Chile, administered by the Municipality of Valdivia. The city is named after its founder, Pedro de Valdivia, and is located at the confluence of the Calle-Calle, Valdivia, and Cau-Cau Rivers, approximately 15 km (9 mi) east of the coastal towns of Corral and Niebla. Since October 2007, Valdivia has been the capital of Los Ríos Region and is also the capital of Valdivia Province. The 2024 Chilean census recorded 170,043 inhabitants (Valdivianos) in the commune of Valdivia. The main economic activities of Valdivia include tourism, wood pulp manufacturing, forestry, metallurgy, and beer production. The city is also the home of the Austral University of Chile, founded in 1954, the Centro de Estudios Científicos and one of Chile's three environmental courts."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1602,
+   "text": "Anglo-Spanish War: An English fleet intercepted and attacked six Spanish ships at the Battle of the Narrow Seas (pictured).",
+   "context": [
+    "The Anglo-Spanish War (1585–1604) was an intermittent conflict between Habsburg Spain and the Kingdom of England that was never formally declared. It began with England's military expedition in 1585 to what was then the Spanish Netherlands under the command of Robert Dudley, Earl of Leicester, in support of the Dutch rebellion against Spanish Habsburg rule."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 1392,
+   "text": "Muhammad VII became the twelfth sultan of the Emirate of Granada.",
+   "context": [
+    "Muhammad VII, reigned 3 October 1392 – 13 May 1408, was the twelfth Nasrid ruler of the Muslim Emirate of Granada in Al-Andalus on the Iberian Peninsula. He was the son of Yusuf II and grandson of Muhammad V. He came to the throne upon the death of his father. In 1394, he defeated an invasion by the Order of Alcántara. This nearly escalated to a wider war, but Muhammad VII and Henry III of Castile were able to restore peace."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Crowding out (דחיקת השקעות)",
+  "Mark-to-market (הערכת שווי לפי שוק)",
+  "Kick the tires (לבדוק ביסודיות לפני סגירת עסקה)",
   "Yield spread (מרווח תשואות)",
   "Flight to quality (בריחה לנכסי מקלט)",
   "Priced in (כבר מגולם במחיר)",
