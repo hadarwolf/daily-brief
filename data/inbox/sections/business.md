@@ -145,53 +145,59 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "ft_home#0",
      "title": "How airlines try to weed out rogue pilots",
-     "published": "2026-10-03T07:29:30+00:00",
+     "published": "2026-10-03T08:05:08+00:00",
      "summary": "Background checks and psychological testing aim to ensure that only those fit to fly take the controls"
     },
     {
      "ref": "ft_home#1",
+     "title": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight",
+     "published": "2026-10-03T08:01:06+00:00",
+     "summary": "Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit"
+    },
+    {
+     "ref": "ft_home#2",
      "title": "The right and wrong lessons to learn from Spain’s housing crisis",
      "published": "2026-10-03T04:00:48+00:00",
      "summary": "Evictions and spiralling rents are the symptom, not the underlying disease"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "Zelenskyy asked Trump to block Russia and China’s Starlink rival",
      "published": "2026-10-03T04:00:39+00:00",
      "summary": "Ukraine’s president says he requested his US counterpart to impose sanctions on companies involved in developing ‘Rassvet’"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "China, America and the new Great Game",
      "published": "2026-10-03T04:00:30+00:00",
      "summary": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "SkyNet satellite battle tests UK pledge to ‘buy British’",
      "published": "2026-10-03T04:00:29+00:00",
      "summary": "Decision looms on contract worth up to £2bn as Airbus and Lockheed Martin vie to build next generation of military satellites"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "A Londoner’s guide to hating London",
      "published": "2026-10-03T04:00:10+00:00",
      "summary": "Complaining about the capital is a national pastime — for good reason"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
      "published": "2026-10-02T21:03:19+00:00",
      "summary": "US attorney-general Todd Blanche says not having ‘any oversight’ of the central bank’s $2.5bn renovation project ‘isn’t necessarily a crime’"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "US backs down from fuel export ban threat as G7 agrees to release 100mn barrels",
      "published": "2026-10-02T20:31:49+00:00",
      "summary": "Donald Trump calls decision by European nations to release diesel from strategic reserves a ‘great thing’"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "Low-profile hedge fund smashes record for New York office rent",
      "published": "2026-10-02T18:31:10+00:00",
      "summary": "Castle Hook will pay up to $21.2mn a year for 53,000 sq ft of penthouse space at developer Related’s new Madison Avenue tower"
@@ -541,9 +547,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 84629.2734,
+   "last": 84567.8672,
    "prev_close": 84497.2109,
-   "change_pct": 0.16,
+   "change_pct": 0.08,
    "as_of": "2026-10-03"
   }
  },

@@ -544,15 +544,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance - Goal.com",
-     "published": "2026-10-03T06:00:02+00:00",
-     "summary": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance Goal.com"
+     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
+     "published": "2026-10-03T06:56:09+00:00",
+     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
-     "published": "2026-10-03T05:18:07+00:00",
-     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
+     "title": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance - Goal.com",
+     "published": "2026-10-03T06:00:02+00:00",
+     "summary": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance Goal.com"
     },
     {
      "ref": "gnews_inter_miami#2",
@@ -760,9 +760,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#10",
-     "title": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup - lastwordonsports.com",
+     "title": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup - Last Word On Sports",
      "published": "2026-10-01T14:25:47+00:00",
-     "summary": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup lastwordonsports.com"
+     "summary": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup Last Word On Sports"
     },
     {
      "ref": "gnews_israeli_nba#11",
