@@ -1,0 +1,86 @@
+{
+  "section": "business",
+  "date": "2026-10-03",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-03T04:18:35+00:00",
+  "stories": [
+    {
+      "id": "ai-market-concentration",
+      "kind": "analysis",
+      "en": {
+        "headline": "AI Is Now Carrying the Stock Market — and Quietly Concentrating Its Risk",
+        "scroll": "AI stocks are pulling the entire market's returns while most other stocks lag behind, concentrating risk in a handful of companies and the debt financing their buildout.",
+        "coffee": "The stock market's headline gains are increasingly a story about a handful of companies building AI infrastructure, not the broader economy. The Nasdaq keeps setting records, but that strength is concentrated: a small group of mega-cap technology firms account for an outsized share of index returns, while the typical stock in the market has grown far more slowly.\n\nThat pattern, known as narrow market breadth (רוחב שוק צר) — few stocks driving most of an index's gain — matters because it changes what a headline index number actually tells you. A market-cap-weighted index like the S&P 500 or Nasdaq 100 can keep climbing even as most of its constituent companies struggle, because the index's weighted average is dominated by its largest members.\n\nThe concentration cuts both ways. Optimists, including US National Economic Council Director Kevin Hassett, argue AI's productivity gains are larger than official statistics capture, which would eventually justify the spending. Skeptics point to the debt increasingly used to finance AI data-center buildouts, and to AI-adjacent effects rippling outward — reports that Samsung is raising prices for memory chips show AI demand already reshaping costs well beyond the software layer.",
+        "deep": "## Background\n\nStock indices like the S&P 500 and Nasdaq 100 are market-cap-weighted: a company's share price moves the index in proportion to the company's total market value, not simply as one vote among many. That mechanic means a handful of giant companies can dominate an index's return even while hundreds of smaller constituents go nowhere. Investors describe this as market breadth (רוחב שוק) — wide breadth means gains are spread across many stocks; narrow breadth means a few names are doing all the work. Narrow breadth is not new: the late-1990s dot-com boom and the \"Nifty Fifty\" rally of the early 1970s both saw index gains concentrated in a small set of favored stocks, and both episodes eventually corrected sharply once the favored group's growth failed to keep pace with its valuation.\n\n## The story\n\nToday's version of narrow breadth centers on companies building and supplying AI infrastructure — chipmakers, cloud providers and the hyperscalers spending heavily on data centers, alongside the memory and semiconductor suppliers feeding them. The Wall Street Journal's thesis, reflected across this week's coverage, is that AI capital expenditure has become one of the primary engines of US equity gains and a meaningful share of recent GDP growth, which leaves the rest of the market — and the economy — more exposed than the headline numbers suggest: strip out AI-linked spending and growth, and the picture looks considerably softer.\n\nThe ripple effects are already visible outside pure software. European chip stocks rallied this week on a report that Samsung Electronics is raising prices for its memory chips — a sign that surging AI demand for high-performance memory is tightening supply and handing pricing power to chipmakers, a cost that eventually flows through to every device and cloud service built on that hardware. On the other side of the ledger, US National Economic Council Director Kevin Hassett argued AI's productivity boost on the broader economy may be considerably larger than official data currently show, a claim that — if borne out — would retroactively justify the current scale of AI investment rather than leave it looking overextended.\n\n## Second-order effects\n\nThe concentration has consequences beyond stock pickers. Anyone holding a market-cap-weighted index fund — including most default retirement portfolios — now carries a far larger AI exposure than their asset allocation would suggest, without necessarily realizing it. On the financing side, AI data-center buildouts are increasingly funded with debt — corporate bonds and private credit — rather than purely with cash on hand; if AI revenue growth disappoints relative to that financing, the resulting stress would show up first in credit markets, not just in equity prices, which is why analysts increasingly frame this as a credit risk question rather than a pure valuation question.\n\nIt also complicates monetary policy. If AI-related capital expenditure is contributing a meaningful slice of recorded GDP growth, then a slowdown in AI investment specifically — rather than a slowdown in the broader economy — could tip measured growth down even while employment and consumer spending hold up, a mismatch that would make the Federal Reserve's read on the economy harder to interpret in either direction.\n\n## What to watch\n\nWatch market breadth itself: whether gains start spreading to more sectors (a healthy sign) or concentrate further in the same small group of names (a classic late-cycle warning, though not a guaranteed one). Watch credit spreads on bonds issued by AI-infrastructure-heavy borrowers for early signs of financing stress. Watch whether official productivity statistics start to catch up with Hassett's claim about AI's economic contribution — that would be the strongest evidence the spending is justified. And watch memory-chip and semiconductor pricing, since further increases would show the AI buildout's costs spreading deeper into the rest of the tech economy."
+      },
+      "he": {
+        "headline": "ה-AI הוא זה שנושא כיום את שוק המניות - ומרכז בשקט את הסיכון",
+        "scroll": "מניות ה-AI מושכות כיום את כל התשואה בשוק המניות, בעוד שאר המניות נשארות מאחור, וכך מתרכז הסיכון בחברות ספורות ובחוב שמממן את ההשקעה שלהן.",
+        "coffee": "התשואות המדוברות של שוק המניות הן יותר ויותר סיפור על חברות מעטות הבונות תשתיות AI, ולא על הכלכלה הרחבה. מדד הנאסד\"ק ממשיך לשבור שיאים, אבל החוזק הזה מרוכז: קבוצה קטנה של חברות טכנולוגיה גדולות אחראית לחלק גדול בצורה חוסר-פרופורציה מתשואת המדד, בעוד המניה הטיפוסית בשוק צמחה הרבה יותר לאט.\n\nהתבנית הזו, המוכרת כרוחב שוק צר (narrow market breadth) - מצב שבו מניות מעטות אחראיות לרוב עליית המדד - חשובה כי היא משנה את מה שמספר מדד כותרת בעצם אומר. מדד שמשוקלל לפי שווי שוק, כמו S&P 500 או נאסד\"ק 100, יכול להמשיך לעלות אפילו כשרוב החברות המרכיבות אותו מתקשות, כי הממוצע המשוקלל של המדד נשלט על ידי החברות הגדולות ביותר בו.\n\nריכוז המניות הזה פועל בשני הכיוונים. אופטימיים, בהם מנהל המועצה הכלכלית הלאומית האמריקאית קווין האסט, טוענים שעליית התפוקה (productivity) שה-AI מניב גדולה בהרבה ממה שהנתונים הרשמיים משקפים כיום, מה שיצדיק בדיעבד את קנה המידה של ההשקעה. ספקנים מצביעים על החוב שמממן יותר ויותר את בניית מרכזי הנתונים של ה-AI, ועל אפקטים נגזרי-AI שמתגלגלים החוצה - דיווחים לפיהם סמסונג מעלה מחירים לשבבי זיכרון מראים שהביקוש ל-AI כבר משנה עלויות הרבה מעבר לשכבת התוכנה.",
+        "deep": "## רקע\n\nמדדי מניות כמו S&P 500 ונאסד\"ק 100 משוקללים לפי שווי שוק (market-cap weighted): שינוי במחיר המניה של חברה מזיז את המדד ביחס לשווי השוק הכולל של החברה, ולא כקול בודד מבין רבים. המכניזם הזה אומר שקבוצה קטנה של חברות עצומות יכולה לשלוט בתשואת מדד שלם אפילו כשמאות חברות קטנות יותר בו לא זזות. משקיעים מכנים זאת רוחב שוק (market breadth) - רוחב רחב פירושו שהעליות מתפזרות על פני מניות רבות; רוחב צר פירושו שמספר שמות ספורים עושים את כל העבודה. רוחב צר אינו תופעה חדשה: גם בועת הדוט-קום בסוף שנות ה-90 וגם ראלי \"Nifty Fifty\" בתחילת שנות ה-70 ראו עליות מדד מרוכזות בקבוצה קטנה של מניות מועדפות, ושני המקרים הסתיימו בתיקון חד כשהצמיחה של הקבוצה המועדפת לא הצליחה להדביק את השווי שהוצמד לה.\n\n## הסיפור\n\nהגרסה הנוכחית של רוחב שוק צר מתמקדת בחברות שבונות ומספקות תשתיות AI - יצרניות שבבים, ספקיות עננים והחברות הגדולות (hyperscalers) שמשקיעות בכבדות במרכזי נתונים, לצד ספקיות הזיכרון והמוליכים למחצה שמזינות אותן. התזה של וול סטריט ג'ורנל, שמשתקפת בסיקור השבוע, היא שההשקעה ההונית (capex) ב-AI הפכה לאחד המנועים המרכזיים של עליות המניות האמריקאיות ולחלק משמעותי מצמיחת התמ\"ג האחרונה, מה שמשאיר את שאר השוק - והכלכלה - חשופים הרבה יותר ממה שהנתונים הכוללים מרמזים: אם מחסירים את ההשקעה והצמיחה הקשורות ל-AI, התמונה נראית חלשה בהרבה.\n\nהאפקטים המתגלגלים כבר נראים מעבר לתוכנה הטהורה. מניות שבבים אירופיות עלו השבוע בעקבות דיווח שסמסונג אלקטרוניקס מעלה מחירים לשבבי הזיכרון שלה - סימן שהביקוש הגואה ל-AI לזיכרון בעל ביצועים גבוהים מהדק את ההיצע ומעביר כוח תמחור ליצרניות השבבים, עלות שבסופו של דבר זולגת לכל מכשיר ושירות עננים שנבנה על אותה חומרה. מהצד השני, מנהל המועצה הכלכלית הלאומית קווין האסט טען שהשפעת ה-AI על התפוקה בכלכלה הרחבה עשויה להיות גדולה בהרבה ממה שהנתונים הרשמיים מראים כיום כעת - טענה שאם תתאמת, תצדיק בדיעבד את קנה המידה הנוכחי של ההשקעה ב-AI במקום להשאיר אותו נראה מוגזם.\n\n## אפקטים מסדר שני\n\nלריכוז הזה יש השלכות שחורגות מבוחרי מניות בודדים. כל מי שמחזיק בקרן מדד משוקללת לפי שווי שוק - כולל רוב תוכניות הפנסיה כברירת מחדל - נושא כיום חשיפה גדולה בהרבה ל-AI ממה שהרכב הנכסים שלו היה מרמז, לא בהכרח מתוך מודעות לכך. בצד המימוני, בניית מרכזי הנתונים של ה-AI ממומנת יותר ויותר בחוב - אגרות חוב קונצרניות ואשראי פרטי - ולא רק במזומן זמין; אם צמיחת ההכנסות מ-AI תאכזב בהשוואה למימון הזה, הלחץ הנובע מכך יופיע קודם כול בשוקי האשראי, לא רק במחירי המניות, ולכן אנליסטים ממסגרים את הסוגיה הזו יותר ויותר כשאלת סיכון אשראי (credit risk) ולא רק כשאלת שווי.\n\nזה גם מסבך את המדיניות המונטרית. אם ההשקעה ההונית הקשורה ל-AI מהווה חלק משמעותי מצמיחת התמ\"ג הנמדדת, אז התמתנות בהשקעות AI ספציפית - ולא התמתנות בכלכלה הרחבה - יכולה להוריד את הצמיחה הנמדדת אפילו כשהתעסוקה וההוצאה הצרכנית נשארות חזקות, חוסר התאמה שיקשה על הפדרל ריזרב לפרש את מצב הכלכלה בכל כיוון.\n\n## מה לצפות לו\n\nיש לעקוב אחרי רוחב השוק עצמו: האם העליות מתחילות להתפזר על פני יותר סקטורים (סימן חיובי) או מתרכזות עוד יותר באותה קבוצה קטנה של שמות (אזהרה קלאסית של שלב מאוחר במחזור, אך לא ודאית). יש לעקוב אחרי מרווחי אשראי (credit spreads) של אגרות חוב שמנפיקות חברות עמוסות בתשתיות AI, כסימן מוקדם ללחץ מימוני. יש לעקוב אחרי השאלה אם הנתונים הרשמיים על תפוקה יתחילו להדביק את הטענה של האסט בנוגע לתרומת ה-AI לכלכלה - זו תהיה הראיה החזקה ביותר שההשקעה מוצדקת. ולבסוף, יש לעקוב אחרי מחירי שבבי הזיכרון והמוליכים למחצה, שכן עליות נוספות יראו שעלויות בניית ה-AI מתפשטות עמוק יותר לשאר כלכלת הטכנולוגיה."
+      },
+      "tags": [
+        "ai",
+        "stock-market",
+        "concentration-risk",
+        "credit-risk"
+      ],
+      "sources": [
+        {
+          "outlet": "WSJ — Markets",
+          "title": "AI Is Squeezing Out the Rest of the Stock Market",
+          "url": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "European Chip Stocks Rally after Report Samsung Ups Prices",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-tech-auto-stocks-f9d6991d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4218.25,
+      "prev_close": 4203.98,
+      "change_pct": 0.34,
+      "as_of": "2026-10-01"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7722.7202,
+      "prev_close": 7666.4502,
+      "change_pct": 0.73,
+      "as_of": "2026-10-02"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0532,
+      "prev_close": 3.0728,
+      "change_pct": -0.64,
+      "as_of": "2026-10-02"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 102.7,
+      "prev_close": 102.31,
+      "change_pct": 0.38,
+      "as_of": "2026-10-02"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 84654.9922,
+      "prev_close": 84853.1016,
+      "change_pct": -0.23,
+      "as_of": "2026-10-03"
+    }
+  }
+}

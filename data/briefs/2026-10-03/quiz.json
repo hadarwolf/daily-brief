@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-03",
+  "questions": [
+    {
+      "id": "quiz-court-disqualifications",
+      "section": "israeli_politics",
+      "story_id": "court-election-disqualifications",
+      "answer_index": 1,
+      "en": {
+        "question": "What did Israel's Supreme Court decide about the Election Committee's disqualifications ahead of this election?",
+        "options": [
+          "It upheld all three disqualifications: Ra'am, the Joint List, and MK Ofer Cassif",
+          "It overturned the disqualifications of Ra'am and the Joint List, but upheld Cassif's disqualification over a dissent",
+          "It overturned all three disqualifications unanimously",
+          "It declined to rule, leaving all three disqualifications to stand"
+        ],
+        "explanation": "The court unanimously reinstated Ra'am and the Joint List, while a majority upheld Cassif's disqualification over the dissent of two justices."
+      },
+      "he": {
+        "question": "מה קבע בית המשפט העליון בנוגע לפסילות של ועדת הבחירות לפני הבחירות הנוכחיות?",
+        "options": [
+          "הוא אישר את כל שלוש הפסילות: רע\"מ, הרשימה המשותפת, וחבר הכנסת עופר כסיף",
+          "הוא הפך את פסילת רע\"מ והרשימה המשותפת, אך אישר את פסילת כסיף ברוב דעות לעומת דעת מיעוט",
+          "הוא הפך את כל שלוש הפסילות פה אחד",
+          "הוא נמנע מהכרעה, והשאיר את כל שלוש הפסילות על כנן"
+        ],
+        "explanation": "העליון החזיר פה אחד את רע\"מ והרשימה המשותפת למירוץ, בעוד רוב השופטים אישרו את פסילת כסיף לעומת דעת מיעוט של שני שופטים."
+      }
+    },
+    {
+      "id": "quiz-ai-market-concentration",
+      "section": "business",
+      "story_id": "ai-market-concentration",
+      "answer_index": 1,
+      "en": {
+        "question": "According to today's Business story, what is happening to the stock market's gains this year?",
+        "options": [
+          "Gains are spread evenly across almost all stocks in the market",
+          "Gains are concentrated in a small group of AI-linked mega-cap companies, while most other stocks lag behind",
+          "The market has been falling steadily all year because of AI-related fears",
+          "Small-cap stocks are outperforming the large AI companies"
+        ],
+        "explanation": "The story describes narrow market breadth: a handful of AI-related mega-caps are driving most of the index gains while the typical stock lags behind."
+      },
+      "he": {
+        "question": "לפי כתבת הכלכלה של היום, מה קורה לעליות בשוק המניות השנה?",
+        "options": [
+          "העליות מתפזרות באופן שווה על פני כל המניות בשוק",
+          "העליות מתרכזות בקבוצה קטנה של חברות AI עצומות, בעוד שאר המניות נשארות מאחור",
+          "השוק נופל באופן עקבי כל השנה בשל חששות הקשורים ל-AI",
+          "מניות חברות קטנות מניבות תשואה גבוהה יותר מחברות ה-AI הגדולות"
+        ],
+        "explanation": "הכתבה מתארת רוחב שוק צר: קבוצה קטנה של חברות AI עצומות מניבה את רוב עליית המדד, בעוד המניה הטיפוסית נשארת מאחור."
+      }
+    },
+    {
+      "id": "quiz-g7-fuel-release",
+      "section": "geopolitics",
+      "story_id": "g7-fuel-release",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did the G7 decide to release 100 million barrels of oil and diesel from strategic reserves?",
+        "options": [
+          "To replace Trump's threatened export ban with a coordinated alternative that increases fuel supply without restricting exports",
+          "To punish Russia over the war in Ukraine",
+          "Because global oil demand had collapsed and reserves needed to be sold off",
+          "To directly fund reconstruction efforts in Ukraine"
+        ],
+        "explanation": "The release let the G7 add fuel supply and ease prices without the US imposing a unilateral export ban that would have hurt its allies."
+      },
+      "he": {
+        "question": "מדוע מדינות ה-G7 החליטו לשחרר 100 מיליון חביות נפט ודיזל מהמאגרים האסטרטגיים?",
+        "options": [
+          "כדי להחליף את איום היצוא של טראמפ בחלופה מתואמת שמגדילה את היצע הדלק בלי להגביל יצוא",
+          "כדי להעניש את רוסיה על המלחמה באוקראינה",
+          "כי הביקוש העולמי לנפט קרס והיה צורך למכור את המאגרים",
+          "כדי לממן במישרין את מאמצי השחזור באוקראינה"
+        ],
+        "explanation": "השחרור איפשר ל-G7 להוסיף היצע דלק ולהקל על המחירים בלי שארה\"ב תטיל איסור יצוא חד-צדדי שהיה פוגע בבעלות הברית שלה."
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-03",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-03T04:18:35+00:00",
+  "stories": [
+    {
+      "id": "word-run-rate",
+      "kind": "word",
+      "en": {
+        "headline": "Run-rate (קצב שנתי מוערך)",
+        "scroll": "An estimate of a company's future annual performance based on extrapolating a recent short period's results.",
+        "coffee": "If a company made $10 million in revenue last quarter, its annualized run-rate is roughly $40 million — simply multiplying the recent period out to a full year, as a quick (and sometimes misleading) stand-in for real guidance. Example: \"The startup is at a $2 million run-rate after its first full quarter of sales.\"",
+        "deep": "Run-rate shows up constantly in startup pitches and earnings calls because it turns a short, noisy period of results into a single annualized number that sounds like real performance. Investors ask for it when a company is growing too fast for last year's actual revenue to mean much, or hasn't existed for a full year yet.\n\nThe common confusion: a run-rate is an extrapolation, not a forecast — it silently assumes the most recent period repeats exactly four times (or twelve, for a monthly figure), ignoring seasonality, one-off deals, or a sales push that won't repeat. A company that signs one huge contract in March can report an eye-catching run-rate that collapses the moment that customer doesn't renew.\n\nMore examples: \"Q2 run-rate puts us past $100 million, but half of that came from a single enterprise deal.\" \"Management guided to a run-rate, not actual trailing revenue, so take the number with a grain of salt.\" In Hebrew, the term is קצב שנתי מוערך."
+      },
+      "he": {
+        "headline": "Run-rate (קצב שנתי מוערך)",
+        "scroll": "הערכה של ביצועי חברה השנתיים העתידיים, המתקבלת מהכפלת תוצאות של פרק זמן קצר ואחרון.",
+        "coffee": "אם חברה הכנסה 10 מיליון דולר ברבעון האחרון, הקצב השנתי המוערך שלה הוא כ-40 מיליון דולר - פשוט הכפלת פרק הזמן האחרון לשנה שלמה, כתחליף מהיר (ולעתים מטעה) לתחזית רשמית. לדוגמה: \"הסטארטאפ נמצא בקצב שנתי מוערך של 2 מיליון דולר אחרי הרבעון המלא הראשון שלו עם מכירות\".",
+        "deep": "המונח קצב שנתי מוערך (run-rate) מופיע כל הזמן במצגות סטארטאפים ובשיחות דוחות כספיים, כי הוא מתרגם פרק זמן קצר ורועש של תוצאות למספר שנתי בודד שנשמע כמו ביצועים אמיתיים. משקיעים מבקשים אותו כשחברה צומחת מהר יותר ממה שהכנסות השנה שעברה יכולות לשקף, או כשהיא עדיין לא הייתה קיימת שנה מלאה.\n\nהבלבול הנפוץ: קצב שנתי מוערך הוא הכפלה, לא תחזית - הוא מניח בשקט שהפרק האחרון חוזר על עצמו בדיוק ארבע פעמים (או שתים עשרה, עבור נתון חודשי), ומתעלם מעונתיות, מעסקאות חד-פעמיות או מדחיפת מכירות שלא תחזור על עצמה. חברה שחותמת על חוזה עצום אחד בחודש מרץ יכולה לדווח על קצב שנתי מרשים שמתמוטט ברגע שהלקוח הזה לא מחדש.\n\nעוד דוגמאות: \"הקצב השנתי ברבעון השני מעמיד אותנו מעל 100 מיליון דולר, אבל מחצית מזה הגיעה מעסקה ארגונית בודדת\". \"ההנהלה נתנה הנחיה לפי קצב שנתי מוערך ולא לפי הכנסות מצטברות בפועל, אז יש להתייחס למספר הזה בעירבון מוגבל\". המונח האנגלי run-rate מקביל בעברית לקצב שנתי מוערך."
+      },
+      "tags": [
+        "vocabulary",
+        "finance",
+        "startups"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-kitchen-sink-quarter",
+      "kind": "word",
+      "en": {
+        "headline": "Kitchen-sink quarter (רבעון של ניקוי ארונות)",
+        "scroll": "A quarter in which a company dumps all its bad news and write-offs at once, to clear the way for cleaner results later.",
+        "coffee": "Executives sometimes bundle every write-down, restructuring charge and disappointing number into a single terrible quarter — \"throwing in everything, including the kitchen sink\" — so future quarters look better by comparison. Example: \"The new CEO used her first quarter to kitchen-sink every legacy problem before setting fresh guidance.\"",
+        "deep": "A kitchen-sink quarter is a deliberate accounting and messaging strategy, not an accident: a company (often under new leadership) absorbs every write-off, restructuring cost and disappointing line item into one quarter, resetting expectations so that subsequent quarters show improvement almost by construction. It is especially common right after a CEO change, since a new executive has every incentive to blame problems on the old regime rather than their own tenure.\n\nThe common confusion: a kitchen-sink quarter is not the same as fraud or restatement — the charges are usually real, just timed and bundled for effect. The skill for an analyst is distinguishing a genuine one-time cleanup from a company using it to mask an ongoing, recurring problem as \"one-off.\"\n\nMore examples: \"Investors shrugged off the loss, assuming it was a kitchen-sink quarter ahead of the spinoff.\" \"Watch for a kitchen-sink quarter whenever a struggling company announces a new strategy.\" In Hebrew: רבעון של ניקוי ארונות."
+      },
+      "he": {
+        "headline": "Kitchen-sink quarter (רבעון של ניקוי ארונות)",
+        "scroll": "רבעון שבו חברה משליכה בבת אחת את כל החדשות הרעות ומחיקות החשבונאיות שלה, כדי לפנות את הדרך לתוצאות נקיות יותר בעתיד.",
+        "coffee": "מנהלים לפעמים מאגדים כל מחיקת ערך, עלות שינוי מבנה ונתון מאכזב לרבעון נורא אחד - \"משליכים את הכול, כולל הכיור מהמטבח\" - כך שהרבעונים הבאים ייראו טוב יותר בהשוואה. לדוגמה: \"המנכ\"לית החדשה ניצלה את הרבעון הראשון שלה כדי לנקות את הארונות מכל הבעיות הישנות לפני שקבעה תחזית חדשה\".",
+        "deep": "רבעון של ניקוי ארונות הוא אסטרטגיית חשבונאות ותקשורת מכוונת, לא תאונה: חברה (לעיתים קרובות בהנהגה חדשה) סופגת כל מחיקה, עלות שינוי מבנה ונתון מאכזב לתוך רבעון בודד, ומאפסת ציפיות כך שהרבעונים הבאים יראו שיפור כמעט מעצם המבנה. הדבר נפוץ בעיקר מיד אחרי חילופי מנכ\"ל, שכן למנכ\"ל חדש יש כל התמריץ להטיל את האשמה על ההנהלה הקודמת ולא על תקופת כהונתו שלו.\n\nהבלבול הנפוץ: רבעון של ניקוי ארונות אינו זהה להונאה או להצגה מחדש של דוחות - החיובים הם בדרך כלל אמיתיים, רק שתוזמנו ואוגדו לצורך אפקט. הכישור הנדרש מאנליסט הוא להבחין בין ניקוי חד-פעמי אמיתי לבין חברה שמשתמשת בכלי הזה כדי להסוות בעיה מתמשכת וחזרתית כ\"חד-פעמית\".\n\nעוד דוגמאות: \"המשקיעים התעלמו מההפסד, בהנחה שזה רבעון של ניקוי ארונות לפני הפיצול\". \"יש לשים לב לרבעון של ניקוי ארונות בכל פעם שחברה מתקשה מכריזה על אסטרטגיה חדשה\". באנגלית: kitchen-sink quarter."
+      },
+      "tags": [
+        "vocabulary",
+        "accounting",
+        "earnings"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-move-the-needle",
+      "kind": "word",
+      "en": {
+        "headline": "Move the needle (להזיז את המחוג)",
+        "scroll": "To make a large enough difference to actually show up in the results that matter.",
+        "coffee": "People say an initiative \"moves the needle\" when it's big enough to visibly shift a key metric, not just look good in a press release. Example: \"A 2% price increase on our smallest product line won't move the needle on overall revenue.\"",
+        "deep": "The idiom comes from the physical needle on an analog gauge or dial — a small input barely nudges it, a large one swings it visibly. In business, it's shorthand for materiality: does an action actually change the number that matters (revenue, user growth, margin), or is it too small relative to the whole to register?\n\nThe common confusion: people use it loosely for \"anything positive,\" but its real force is comparative — it implies a deliberate contrast with actions too small to matter. Saying something \"moves the needle\" is a claim about scale, not just direction.\n\nMore examples: \"Leadership wants ideas that move the needle on retention, not marginal tweaks.\" \"One new customer won't move the needle for a company this size; we need volume.\" \"The marketing spend didn't move the needle on sign-ups.\" In Hebrew, the equivalent phrase is להזיז את המחוג."
+      },
+      "he": {
+        "headline": "Move the needle (להזיז את המחוג)",
+        "scroll": "ליצור הבדל גדול מספיק כדי שיתבטא בפועל בתוצאות שחשובות.",
+        "coffee": "אומרים שיזמה \"מזיזה את המחוג\" כשהיא גדולה מספיק כדי לשנות באופן ניכר מדד מרכזי, ולא רק להיראות טוב בהודעה לעיתונות. לדוגמה: \"העלאת מחיר של 2% בקו המוצרים הקטן ביותר שלנו לא תזיז את המחוג בהכנסות הכוללות\".",
+        "deep": "הביטוי מגיע מהמחוג הפיזי של מד אנלוגי - קלט קטן בקושי מזיז אותו, קלט גדול מניע אותו באופן נראה לעין. בעולם העסקי, זה קיצור דרך למושג המטריאליות: האם פעולה משנה בפועל את המספר שחשוב (הכנסות, צמיחת משתמשים, שולי רווח), או שהיא קטנה מכדי להירשם ביחס לתמונה הכוללת.\n\nהבלבול הנפוץ: אנשים משתמשים בביטוי בצורה רפויה כדי לתאר \"כל דבר חיובי\", אבל הכוח האמיתי שלו הוא השוואתי - הוא מרמז על ניגוד מכוון לפעולות קטנות מכדי שישנו משהו. לומר שמשהו \"מזיז את המחוג\" הוא טענה על קנה מידה, לא רק על כיוון.\n\nעוד דוגמאות: \"ההנהלה רוצה רעיונות שמזיזים את המחוג בשימור לקוחות, לא שינויים שוליים\". \"לקוח חדש אחד לא יזיז את המחוג בחברה בגודל הזה; צריך נפח\". \"תקציב השיווק לא הזיז את המחוג בהרשמות\". באנגלית: move the needle."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "strategy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-market-breadth",
+      "kind": "concept",
+      "en": {
+        "headline": "Market Breadth: Why a Record-High Index Can Hide a Struggling Market",
+        "scroll": "Market breadth measures how many stocks are actually participating in a market's gains — and a rising index with narrow breadth can mask widespread weakness underneath.",
+        "coffee": "A stock index is a weighted average, and \"weighted\" is the key word. In a market-cap-weighted index like the S&P 500, a company's influence on the index is proportional to its total market value — so a handful of trillion-dollar companies can move the index far more than hundreds of smaller ones combined. Market breadth asks a different question than \"is the index up?\": how many of the index's constituent stocks actually went up?\n\nWide breadth — most stocks rising together — signals genuine, broad-based economic strength. Narrow breadth — an index rising mainly because of a few giant stocks while most constituents are flat or falling — is a classic sign that gains are concentrated and potentially fragile, since the index's fate now rests on just a few companies continuing to perform.\n\nToday's AI-driven market, where a handful of mega-cap tech companies are described as \"squeezing out the rest of the stock market,\" is a textbook example: breadth is narrow, so the headline index number overstates how healthy the broader market actually is.",
+        "deep": "## The mechanics\n\nImagine an index of just three companies: Company A is worth $900 billion, Company B is worth $50 billion, and Company C is worth $50 billion — a $1 trillion index total. If Company A's stock rises 10% while B and C each fall 10%, the index as a whole still rises by roughly 8%, because A's massive weight swamps the other two. A casual reading of \"the index is up 8%\" would completely miss that two-thirds of the companies in it actually lost value that day.\n\nThat is market breadth in miniature: the gap between what the headline number says and what's actually happening to the typical stock. Analysts track it with measures like the advance-decline line (a running tally of how many stocks rose versus fell each day) or by comparing a cap-weighted index to its equal-weighted version, where every company counts the same regardless of size. When the cap-weighted version is far outperforming the equal-weighted one, breadth is narrow.\n\n## Why it matters\n\nNarrow breadth isn't a guarantee of a crash — a genuinely transformative handful of companies can lead a market for years. But it is a classic late-cycle warning sign, seen before the dot-com bust of 2000 and in the \"Nifty Fifty\" stocks of the early 1970s: when an index's fate depends on a small number of companies continuing to grow into increasingly demanding expectations, a disappointment from just one or two of them can drag the whole index down, even though nothing changed for the hundreds of other companies in it.\n\n## Worked example\n\nSuppose the Nasdaq 100 rises 20% in a year, but if you removed its five largest AI-linked companies, the remaining 95 companies rose only 3% combined. An investor who only looks at the 20% headline number might conclude the technology sector broadly is thriving. A breadth-aware investor would instead conclude that a tiny group of AI leaders is carrying the entire index, and that a disappointing earnings report from just one of those five companies could knock the whole index down far more than a bad quarter from any of the other 95 ever could."
+      },
+      "he": {
+        "headline": "רוחב שוק: למה מדד בשיא כל הזמנים יכול להסתיר שוק מתקשה",
+        "scroll": "רוחב שוק מודד כמה מניות בפועל משתתפות בעליות השוק - ומדד עולה עם רוחב צר יכול להסוות חולשה נרחבת מתחתיו.",
+        "coffee": "מדד מניות הוא ממוצע משוקלל, והמילה \"משוקלל\" היא המילה המרכזית. במדד שמשוקלל לפי שווי שוק, כמו S&P 500, ההשפעה של חברה על המדד פרופורציונית לשווי השוק הכולל שלה - כך שקבוצה קטנה של חברות בשווי טריליון דולר יכולה להזיז את המדד הרבה יותר ממאות חברות קטנות יותר יחד. רוחב שוק שואל שאלה שונה מ\"האם המדד עלה?\": כמה מהמניות המרכיבות את המדד עלו בפועל?\n\nרוחב רחב - כשרוב המניות עולות יחד - מאותת על חוזק כלכלי אמיתי ונרחב. רוחב צר - מדד שעולה בעיקר בגלל כמה מניות עצומות בעוד רוב המניות המרכיבות אותו נשארות ללא שינוי או יורדות - הוא סימן קלאסי לכך שהעליות מרוכזות ופוטנציאלית שבירות, שכן גורל המדד נשען כעת על המשך הביצועים של חברות ספורות בלבד.\n\nשוק ה-AI של היום, שבו קבוצה קטנה של חברות טכנולוגיה עצומות מתוארת כ\"דוחקת את שאר שוק המניות\", היא דוגמה ספרותית: הרוחב צר, כך שמספר המדד הכותרתי מגזים בבריאות השוק הרחב בפועל.",
+        "deep": "## המכניקה\n\nדמיינו מדד של שלוש חברות בלבד: חברה א' שווה 900 מיליארד דולר, חברה ב' שווה 50 מיליארד דולר, וחברה ג' שווה 50 מיליארד דולר - מדד בשווי כולל של טריליון דולר. אם מניית חברה א' עולה 10% בעוד ב' ו-ג' יורדות 10% כל אחת, המדד כולו עדיין עולה בכ-8%, כי המשקל העצום של א' גובר על השתיים האחרות. קריאה שטחית של \"המדד עלה 8%\" תפספס לחלוטין ששני שלישים מהחברות בו למעשה הפסידו ערך באותו יום.\n\nזה רוחב שוק במיניאטורה: הפער בין מה שהמספר הכותרתי אומר למה שבאמת קורה למניה הטיפוסית. אנליסטים עוקבים אחריו בעזרת מדדים כמו קו העולות-יורדות (ספירה רצה של כמה מניות עלו לעומת ירדו בכל יום) או בהשוואת מדד משוקלל לפי שווי לגרסתו המשוקללת שווה (equal-weighted), שבה כל חברה נחשבת באופן שווה בלי קשר לגודלה. כשהגרסה המשוקללת לפי שווי מניבה תשואה גבוהה בהרבה מהגרסה המשוקללת שווה, הרוחב צר.\n\n## למה זה חשוב\n\nרוחב צר אינו הבטחה להתמוטטות - קבוצה קטנה של חברות טרנספורמטיביות באמת יכולה להוביל שוק במשך שנים. אבל זהו סימן אזהרה קלאסי של שלב מאוחר במחזור, שנראה לפני התפוצצות בועת הדוט-קום בשנת 2000 ובמניות ה-\"Nifty Fifty\" בתחילת שנות ה-70: כשגורל המדד תלוי במספר קטן של חברות שממשיכות לצמוח לתוך ציפיות הולכות ומחמירות, אכזבה מרק אחת או שתיים מהן יכולה למשוך את כל המדד מטה, אפילו ששום דבר לא השתנה למאות החברות האחרות בו.\n\n## דוגמה מספרית\n\nנניח שמדד נאסד\"ק 100 עולה 20% בשנה, אבל אם מסירים ממנו את חמש חברות ה-AI הגדולות ביותר, 95 החברות הנותרות עלו ביחד רק 3%. משקיע שמסתכל רק על מספר הכותרת של 20% עשוי להסיק שסקטור הטכנולוגיה בכללותו משגשג. משקיע שמודע לרוחב השוק יסיק במקום זאת שקבוצה זעירה של מובילות AI נושאת על גבה את כל המדד, ושדוח רבעוני מאכזב מרק אחת מחמש החברות הללו יכול להפיל את כל המדד הרבה יותר מרבעון גרוע מכל אחת מ-95 האחרות."
+      },
+      "tags": [
+        "concept",
+        "stock-market",
+        "indices"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-tarp-2008",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2008: The US Enacts a $700 Billion Wall Street Bailout to Halt a Financial Collapse",
+        "scroll": "On this day in 2008, the US enacted the Emergency Economic Stabilization Act, creating the $700 billion TARP bailout to stop a spreading financial-system collapse.",
+        "coffee": "On October 3, 2008, President George W. Bush signed the Emergency Economic Stabilization Act, creating the Troubled Asset Relief Program (TARP) — a $700 billion fund authorized to buy toxic assets from failing banks and inject capital directly into the financial system. The law came in the middle of the 2008 financial crisis, days after Lehman Brothers' collapse had triggered a cascading loss of confidence across global credit markets.\n\nTreasury Secretary Henry Paulson had proposed the program as an emergency measure to prevent a full-blown collapse of the banking system, after an initial version of the bill failed in the House of Representatives and briefly sent stock markets into a further tailspin. Rather than purchasing toxic assets at scale as originally designed, most TARP funds ended up being used to directly recapitalize banks — buying preferred stock in exchange for capital injections, on the theory that a well-capitalized banking system would resume normal lending faster than a system waiting for a slow asset-purchase process to work.\n\nTARP became one of the most politically toxic yet consequential pieces of economic legislation in modern US history: deeply unpopular as a \"bailout for Wall Street\" even as most economists credit it with averting a far deeper collapse, and it set a template — reserve funds mobilized fast, capital injected directly, recapitalization over asset purchases — that governments worldwide would reach for again in future crises.",
+        "deep": "## Background\n\nBy September 2008, the US financial system was in freefall. Lehman Brothers had filed for the largest bankruptcy in US history, Merrill Lynch had been sold in a forced merger, and insurance giant AIG required an emergency Federal Reserve rescue. Credit markets — the plumbing that lets banks lend to each other and to businesses overnight — were seizing up, as banks became unwilling to lend even short-term money to each other, fearing any counterparty might be the next Lehman.\n\n## What happened\n\nTreasury Secretary Henry Paulson proposed a sweeping $700 billion program to buy distressed mortgage-backed securities and other \"troubled assets\" off bank balance sheets, reasoning that removing these assets would let banks resume normal lending. An initial version of the bill was rejected by the House of Representatives on September 29, triggering a severe stock-market selloff that helped push a revised version through Congress days later. President Bush signed the Emergency Economic Stabilization Act into law on October 3, 2008, creating TARP.\n\nIn practice, the Treasury largely abandoned the original asset-purchase plan in favor of direct bank recapitalization: buying preferred shares in major banks to inject capital quickly, on the view that shoring up bank balance sheets directly would restore lending confidence faster than slowly auctioning off toxic securities.\n\n## Why it mattered\n\nTARP is widely credited by economists with helping prevent a second Great Depression, and most of the money was eventually repaid with interest as bank stocks recovered. But its $700 billion price tag and its framing as a bailout for the same Wall Street institutions whose risk-taking caused the crisis made it deeply unpopular, fueling a wave of populist anger on both the left and right that shaped American politics for years afterward, including the rise of the Tea Party movement. It also established \"too big to fail\" as a permanent feature of financial-crisis debate — the idea that some institutions are so interconnected that governments will always feel compelled to rescue them, which critics argue encourages excessive risk-taking in the first place."
+      },
+      "he": {
+        "headline": "2008: ארה\"ב מחוקקת חוק חילוץ של 700 מיליארד דולר לוול סטריט כדי לעצור קריסה פיננסית",
+        "scroll": "ביום הזה בשנת 2008 חקקה ארה\"ב את חוק הייצוב הכלכלי לשעת חירום, שהקים את תוכנית TARP בשווי 700 מיליארד דולר כדי לעצור קריסה פיננסית מתפשטת.",
+        "coffee": "ב-3 באוקטובר 2008 חתם הנשיא ג'ורג' בוש הבן על חוק הייצוב הכלכלי לשעת חירום (Emergency Economic Stabilization Act), שהקים את תוכנית הסיוע לנכסים מוכשלים (TARP) - קרן בשווי 700 מיליארד דולר שהוסמכה לקנות נכסים רעילים מבנקים כושלים ולהזריק הון ישירות למערכת הפיננסית. החוק הגיע בעיצומו של המשבר הפיננסי של 2008, ימים אחרי שקריסת ליהמן ברדרס עוררה אובדן אמון מדורג בשווקי האשראי העולמיים.\n\nשר האוצר הנרי פולסון הציע את התוכנית כאמצעי חירום למניעת קריסה מלאה של המערכת הבנקאית, אחרי שגרסה ראשונית של החוק נכשלה בבית הנבחרים וגרמה לזמן קצר לנפילה נוספת בשוקי המניות. במקום לקנות נכסים רעילים בהיקף גדול כמתוכנן במקור, רוב כספי TARP הופנו בסופו של דבר להזרמת הון ישירה לבנקים - קניית מניות בכורה בתמורה להזרקות הון, מתוך תפיסה שמערכת בנקאית מהונת היטב תחזור להלוואות רגילות מהר יותר ממערכת שמחכה לתהליך איטי של רכישת נכסים.\n\nTARP הפכה לאחד מחוקי הכלכלה הפוליטית הרגישים ביותר, אך גם המשמעותיים ביותר, בהיסטוריה האמריקאית המודרנית: לא פופולרית עמוקות כ\"חילוץ לוול סטריט\", אפילו שרוב הכלכלנים מזכים אותה במניעת קריסה עמוקה בהרבה, והיא קבעה תבנית - גיוס מהיר של כספים, הזרקת הון ישירה, הענקת עדיפות להמשית הון על פני רכישת נכסים - שממשלות בעולם יחזרו אליה במשברים עתידיים.",
+        "deep": "## רקע\n\nבספטמבר 2008 המערכת הפיננסית האמריקאית הייתה בנפילה חופשית. ליהמן ברדרס הגישה את פשיטת הרגל הגדולה בהיסטוריה האמריקאית, מריל לינץ' נמכרה במיזוג כפוי, וחברת הביטוח הענקית AIG נזקקה לחילוץ חירום מהפדרל ריזרב. שוקי האשראי - האינסטלציה שמאפשרת לבנקים להלוות זה לזה ולעסקים מיום ליום - החלו להיתקע, כשבנקים נעשו חוששים להלוות אפילו כסף לזמן קצר זה לזה, מחשש שכל צד שכנגד עלול להיות ה\"ליהמן\" הבא.\n\n## מה קרה\n\nשר האוצר הנרי פולסון הציע תוכנית רחבה בשווי 700 מיליארד דולר לקניית אגרות חוב מגובות משכנתאות במצוקה ו\"נכסים מוכשלים\" אחרים ממאזני הבנקים, בנימוק שהסרת הנכסים הללו תאפשר לבנקים לחזור להלוואות רגילות. גרסה ראשונית של החוק נדחתה על ידי בית הנבחרים ב-29 בספטמבר, מה שעורר מכירה חדה בשוקי המניות שעזרה להעביר גרסה מתוקנת בקונגרס ימים לאחר מכן. הנשיא בוש חתם על חוק הייצוב הכלכלי לשעת חירום ב-3 באוקטובר 2008, ובכך הקים את TARP.\n\nבפועל, משרד האוצר נטש במידה רבה את תוכנית רכישת הנכסים המקורית לטובת הזרמת הון ישירה לבנקים: קניית מניות בכורה בבנקים גדולים כדי להזריק הון במהירות, מתוך תפיסה שחיזוק מאזני הבנקים ישירות יחזיר את אמון ההלוואות מהר יותר ממכירה פומבית איטית של ניירות ערך רעילים.\n\n## למה זה היה משמעותי\n\nכלכלנים רבים מזכים את TARP בכך שעזרה למנוע שפל כלכלי שני בסדר גודל של השפל הגדול, ורוב הכספים הוחזרו בסופו של דבר עם ריבית כשמניות הבנקים התאוששו. אבל תג המחיר של 700 מיליארד דולר ומסגורה כחילוץ לאותם גופים בוול סטריט שההתנהלות המסוכנת שלהם גרמה למשבר הפכו אותה לא פופולרית עמוקות, והצילו גל של זעם פופוליסטי גם משמאל וגם מימין שעיצב את הפוליטיקה האמריקאית שנים אחר כך, כולל עליית תנועת התה (Tea Party). התוכנית גם קבעה את העיקרון \"גדול מכדי להיכשל\" (too big to fail) כמרכיב קבוע בדיוני משברים פיננסיים - הרעיון שמוסדות מסוימים מחוברים זה לזה עד כך שממשלות ירגישו תמיד מחויבות להציל אותם, מה שמבקרים טוענים שמעודד לקיחת סיכונים מוגזמת מראש."
+      },
+      "tags": [
+        "history",
+        "finance",
+        "financial-crisis"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2008: The Emergency Economic Stabilization Act of 2008, establishing the Troubled Asset Relief Program, commonly referred to as a bailout of the U.S. financial system, was enacted.",
+          "url": "https://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008"
+        }
+      ]
+    }
+  ]
+}
