@@ -388,153 +388,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
+     "published": "2026-10-03T07:37:38+00:00",
+     "summary": "Robert Lewandowski, 38, scores a hat-trick in the Nations League and Edin Dzeko plays his final game for Bosnia-Herzegovina."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Too quiet for too long, can McGinn recapture best for Scotland?",
+     "published": "2026-10-03T07:05:17+00:00",
+     "summary": "Fifth in the all-time scoring chart for Scotland and closing in on 100 caps, John McGinn could do with finding his best stuff again, writes Tom English."
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "Too quiet for too long, can McGinn recapture best for Scotland?",
+     "published": "2026-10-03T07:05:17+00:00",
+     "summary": "Fifth in the all-time scoring chart for Scotland and closing in on 100 caps, John McGinn could do with finding his best stuff again, writes Tom English."
+    },
+    {
+     "ref": "bbc_football#3",
+     "title": "Who am I? Guess WSL star No 7",
+     "published": "2026-10-03T06:57:51+00:00",
+     "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible."
+    },
+    {
+     "ref": "bbc_football#4",
+     "title": "Who am I? Guess WSL star No 7",
+     "published": "2026-10-03T06:57:51+00:00",
+     "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible."
+    },
+    {
+     "ref": "bbc_football#5",
+     "title": "The student playing in La Liga: Introvert Rodri's unique rise to top",
+     "published": "2026-10-03T06:32:05+00:00",
+     "summary": "Rodri is already playing a key role at Barcelona after turning down Real Madrid this summer. Guillem Balague looks at his journey so far."
+    },
+    {
+     "ref": "bbc_football#6",
+     "title": "Flex your football brain with our daily quizzes",
+     "published": "2026-10-03T05:43:42+00:00",
+     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+     "ref": "bbc_football#7",
+     "title": "Arteta helped me understand the game - Wilshere",
+     "published": "2026-10-03T05:24:33+00:00",
+     "summary": "Luton Town manager Jack Wilshere shares his love for coaching and explains how Arsenal boss Mikel Arteta influnced his style."
+    },
+    {
+     "ref": "bbc_football#8",
+     "title": "Learning from Arteta and inspiring youngsters - Wilshere on management",
+     "published": "2026-10-03T05:19:13+00:00",
+     "summary": "Luton Town manager Jack Wilshere speaks about being back where he started as an eight-year-old and the lessons he learned from his time at Arsenal."
+    },
+    {
+     "ref": "bbc_football#9",
      "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
      "published": "2026-10-02T22:30:24+00:00",
      "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#10",
      "title": "Who has 'no ceiling' as Northern Ireland shine in Nations League?",
      "published": "2026-10-02T21:48:54+00:00",
      "summary": "After an impressive 3-0 victory over Ukraine in the Nations League, Northern Ireland manager Michael O'Neill was impressed with his young side."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#11",
      "title": "Chiesa eyes Liverpool exit - Saturday's gossip",
      "published": "2026-10-02T21:14:32+00:00",
      "summary": "Liverpool forward Federico Chiesa is on the radar of a trio of Serie A clubs, Man City striker Erling Haaland is more likely to head to Barcelona than Arsenal if he leaves the club, Brentford's Michael Kayode is wanted by Juventus, plus more."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#12",
      "title": "Why Aston Villa played Sevilla for a trophy you haven't heard of",
      "published": "2026-10-02T21:02:23+00:00",
      "summary": "Aston Villa beat Sevilla in the Antonio Puerta Trophy, named in memory of one of the Spanish club's former players."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#13",
      "title": "Man City whistleblower set to lose protection amid fears for life",
      "published": "2026-10-02T19:26:13+00:00",
      "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#14",
      "title": "Man City confirm appeal against guilty verdict",
      "published": "2026-10-02T17:43:48+00:00",
      "summary": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\"."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#15",
      "title": "Football Daily",
      "published": "2026-10-02T17:18:00+00:00",
      "summary": "John Murray & Ali Bruce-Ball are joined by Conor McNamara to chat commentator life."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#16",
      "title": "What can Peterborough fans expect from 'relentless' Savage?",
      "published": "2026-10-02T16:53:00+00:00",
      "summary": "Peterborough United's director of football Barry Fry predicts life under Robbie Savage will be anything but dull."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#17",
      "title": "Tuchel would never rule out players not in top flight",
      "published": "2026-10-02T15:05:31+00:00",
      "summary": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not playing in the top flight, should Manchester City be relegated."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#18",
      "title": "Tankards, Clough & 'creaky joints' - Tennent's Sixes returns",
      "published": "2026-10-02T14:07:42+00:00",
      "summary": "More than three decades since its last staging, Scottish football's cult indoor event makes a comeback with the \"creaky joints\" of former players taking to an ice rink."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#19",
      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
      "published": "2026-10-02T14:04:17+00:00",
      "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#20",
      "title": "Giant Dzeko shirt unveiled in Sarajevo to mark retirement",
      "published": "2026-10-02T14:00:18+00:00",
      "summary": "A giant Edin Dzeko shirt is unveiled in Sarajevo to mark the Bosnia striker's retirement from international football."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#21",
      "title": "How Gordon became one of England's main men",
      "published": "2026-10-02T13:15:44+00:00",
      "summary": "Anthony Gordon has been England's in-form player since the World Cup knockout stage - is the Barcelona forward now undroppable?"
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#22",
      "title": "Peterborough appoint Forest Green boss Savage",
      "published": "2026-10-02T12:23:50+00:00",
      "summary": "Peterborough United appoint Forest Green Rovers boss Robbie Savage as Luke Williams' successor."
     },
     {
-     "ref": "bbc_football#14",
-     "title": "Robertson's Scotland career in numbers as 100th cap looms",
-     "published": "2026-10-02T11:43:12+00:00",
-     "summary": "Andy Robertson is poised to become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers."
-    },
-    {
-     "ref": "bbc_football#15",
-     "title": "Robertson's Scotland career in numbers as 100th cap looms",
-     "published": "2026-10-02T11:43:12+00:00",
-     "summary": "Andy Robertson is poised to become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers."
-    },
-    {
-     "ref": "bbc_football#16",
-     "title": "Haaland 'gave me his shirt... but didn't take mine'",
-     "published": "2026-10-02T11:09:07+00:00",
-     "summary": "Ben Cabango will always have a memento to remind him of Wales' memorable victory over Norway – Erling Haaland's shirt."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "Manager ins and outs - 2026-27",
-     "published": "2026-10-02T10:42:37+00:00",
-     "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "Was long-awaited win a turning point for Bellamy?",
-     "published": "2026-10-02T09:36:29+00:00",
-     "summary": "Has the impressive 2-1 victory over Norway changed the mood music for Wales and restored fans confidence in head coach Craig Bellamy?"
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "Swindon's Holloway labels himself dead man walking",
-     "published": "2026-10-02T09:17:33+00:00",
-     "summary": "Swindon manager Ian Holloway calls himself a \"dead man walking\" if the team's form does not turn around."
-    },
-    {
-     "ref": "bbc_football#20",
-     "title": "What does Man City guilty verdict mean for their squad?",
-     "published": "2026-10-02T09:00:51+00:00",
-     "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "'Hitchy is always with us' - the keeper who died after one-punch attack",
-     "published": "2026-10-02T07:59:22+00:00",
-     "summary": "The memory of James Hitchcock lives on at non-league Barton Town, almost two years after he died after being punched on a visit to York."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Listen: Is North Macedonia a must-win for Scotland?",
-     "published": "2026-10-02T07:00:00+00:00",
-     "summary": "Pressure Building for Pocognoli and Scotland"
-    },
-    {
      "ref": "bbc_football#23",
-     "title": "Hallgrimsson marvels at 'magical' Parrott's solo goal",
-     "published": "2026-10-02T06:44:31+00:00",
-     "summary": "Republic of Ireland boss Heimir Hallgrimsson praises Troy Parrott after his fine solo goal in their 2-2 Uefa Nations League draw against Austria on Thursday."
+     "title": "Robertson's Scotland career in numbers as 100th cap looms",
+     "published": "2026-10-02T11:43:12+00:00",
+     "summary": "Andy Robertson is poised to become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers."
     },
     {
      "ref": "bbc_football#24",
-     "title": "The Unpromotables: Germany's league champions who can't go up",
-     "published": "2026-10-02T06:37:49+00:00",
-     "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions."
+     "title": "Robertson's Scotland career in numbers as 100th cap looms",
+     "published": "2026-10-02T11:43:12+00:00",
+     "summary": "Andy Robertson is poised to become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers."
     }
    ]
   },
@@ -544,153 +544,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 - usatoday.com",
-     "published": "2026-10-03T02:57:29+00:00",
-     "summary": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 usatoday.com"
+     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
+     "published": "2026-10-03T06:48:32+00:00",
+     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
     },
     {
      "ref": "gnews_inter_miami#1",
+     "title": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance - Goal.com",
+     "published": "2026-10-03T06:00:02+00:00",
+     "summary": "Lionel Messi touches down in Argentina ahead of emotional final Albiceleste appearance Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 - USA Today",
+     "published": "2026-10-03T02:57:29+00:00",
+     "summary": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 USA Today"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Without the Barcelona crest: Messi secures his first win in Spain - Goal.com",
      "published": "2026-10-02T21:28:19+00:00",
      "summary": "Without the Barcelona crest: Messi secures his first win in Spain Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami could make or break some rivals' playoff dreams - OneFootball",
      "published": "2026-10-02T20:34:28+00:00",
      "summary": "Inter Miami could make or break some rivals' playoff dreams OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
      "title": "Join The Huddle: Introducing New In-App Fan-Player Chat Feature! - Inter Miami CF",
      "published": "2026-10-02T20:00:18+00:00",
      "summary": "Join The Huddle: Introducing New In-App Fan-Player Chat Feature! Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Inter Miami could make or break some rivals' playoff dreams - interheron.com",
+     "ref": "gnews_inter_miami#6",
+     "title": "Inter Miami could make or break some rivals' playoff dreams - Inter Heron",
      "published": "2026-10-02T20:00:01+00:00",
-     "summary": "Inter Miami could make or break some rivals' playoff dreams interheron.com"
+     "summary": "Inter Miami could make or break some rivals' playoff dreams Inter Heron"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "Messi is preparing a revolution - Fichajes.net",
      "published": "2026-10-02T18:00:00+00:00",
      "summary": "Messi is preparing a revolution Fichajes.net"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere - Movieguide",
      "published": "2026-10-02T17:43:11+00:00",
      "summary": "Lionel Messi’s MESSI AND THE GIANTS Scores Summer 2027 Premiere Movieguide"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "Lionel Messi returns to Argentina ahead of emotional farewell match with national team - 95.5 WSB",
      "published": "2026-10-02T17:30:32+00:00",
      "summary": "Lionel Messi returns to Argentina ahead of emotional farewell match with national team 95.5 WSB"
     },
     {
-     "ref": "gnews_inter_miami#8",
-     "title": "Lionel Messi returns to Argentina ahead of emotional farewell match with national team - wdhn.com",
+     "ref": "gnews_inter_miami#10",
+     "title": "Lionel Messi returns to Argentina ahead of emotional farewell match with national team - Oskaloosa Herald",
      "published": "2026-10-02T17:30:32+00:00",
-     "summary": "Lionel Messi returns to Argentina ahead of emotional farewell match with national team wdhn.com"
+     "summary": "Lionel Messi returns to Argentina ahead of emotional farewell match with national team Oskaloosa Herald"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi ready to ‘pass the torch’ to Lamine Yamal in groundbreaking project planned for 2027 - World Soccer Talk",
      "published": "2026-10-02T17:25:58+00:00",
      "summary": "Lionel Messi ready to ‘pass the torch’ to Lamine Yamal in groundbreaking project planned for 2027 World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#12",
+     "title": "Messi finalises acquisition of second Spanish lower league club - Citizen Digital",
+     "published": "2026-10-02T16:57:57+00:00",
+     "summary": "Messi finalises acquisition of second Spanish lower league club Citizen Digital"
+    },
+    {
+     "ref": "gnews_inter_miami#13",
      "title": "Inter Miami CF Announces 2027 Dreams Cup presented by Lowe’s - WebWire",
      "published": "2026-10-02T16:07:10+00:00",
      "summary": "Inter Miami CF Announces 2027 Dreams Cup presented by Lowe’s WebWire"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#14",
      "title": "Miami's Mixed Results: A 2-2 Draw Against San Diego - Yahoo Sports",
      "published": "2026-10-02T15:36:36+00:00",
      "summary": "Miami's Mixed Results: A 2-2 Draw Against San Diego Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#15",
      "title": "MLS Pens an Emotional Letter to Messi Ahead of His Farewell with Argentina: He Still Gives Us Reasons to Smile - Soy Futbol",
      "published": "2026-10-02T15:25:16+00:00",
      "summary": "MLS Pens an Emotional Letter to Messi Ahead of His Farewell with Argentina: He Still Gives Us Reasons to Smile Soy Futbol"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#16",
      "title": "MLS MVP Race 2026: Lionel Messi Leads the Race as Evander, Musa and Bouanga Chase Him - Pasión Fútbol",
      "published": "2026-10-02T15:03:47+00:00",
      "summary": "MLS MVP Race 2026: Lionel Messi Leads the Race as Evander, Musa and Bouanga Chase Him Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#17",
      "title": "Atlanta Utd - Inter Miami - Flashscore.com",
      "published": "2026-10-02T13:05:42+00:00",
      "summary": "Atlanta Utd - Inter Miami Flashscore.com"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#18",
      "title": "Marriott Bonvoy Partners with Inter Miami CF - safariindia.com",
      "published": "2026-10-02T12:16:05+00:00",
      "summary": "Marriott Bonvoy Partners with Inter Miami CF safariindia.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#19",
      "title": "When Will Ronaldo and Messi Play Next? Full Match Schedule for the Rest of 2026 - Sports Digest",
      "published": "2026-10-02T10:45:20+00:00",
      "summary": "When Will Ronaldo and Messi Play Next? Full Match Schedule for the Rest of 2026 Sports Digest"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#20",
      "title": "Messi has decided to return to Inter Miami - Radar Armenia",
      "published": "2026-10-02T10:41:18+00:00",
      "summary": "Messi has decided to return to Inter Miami Radar Armenia"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#21",
      "title": "Messi completes takeover of Spanish 2nd-division club Eldense - Daily Sabah",
      "published": "2026-10-02T07:06:00+00:00",
      "summary": "Messi completes takeover of Spanish 2nd-division club Eldense Daily Sabah"
     },
     {
-     "ref": "gnews_inter_miami#19",
-     "title": "Why Lionel Messi must win the 2026 Ballon d’Or: 4 unstoppable reasons at age 39 - Jang",
+     "ref": "gnews_inter_miami#22",
+     "title": "Why Lionel Messi must win the 2026 Ballon d’Or: 4 unstoppable reasons at age 39 - jang.com.pk",
      "published": "2026-10-02T05:55:34+00:00",
-     "summary": "Why Lionel Messi must win the 2026 Ballon d’Or: 4 unstoppable reasons at age 39 Jang"
+     "summary": "Why Lionel Messi must win the 2026 Ballon d’Or: 4 unstoppable reasons at age 39 jang.com.pk"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#23",
      "title": "MLS Inter Miami Crew Soccer - Bluefield Daily Telegraph",
      "published": "2026-10-02T05:00:00+00:00",
      "summary": "MLS Inter Miami Crew Soccer Bluefield Daily Telegraph"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#24",
      "title": "Lionel Messi acquires Spanish second division club - Zamin.uz",
      "published": "2026-10-02T04:37:48+00:00",
      "summary": "Lionel Messi acquires Spanish second division club Zamin.uz"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Lionel Messi completes takeover of Spanish second division side Eldense - Goal.com",
-     "published": "2026-10-02T04:29:04+00:00",
-     "summary": "Lionel Messi completes takeover of Spanish second division side Eldense Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player - ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-10-02T03:08:13+00:00",
-     "summary": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "MESSI FIRE ASSISTS! 🔥 Share Points. Inter Miami Vs Atlanta United 2-2 All Goals & Highlights 2026 Jim Carrey (ZA8BfrWsJh) - Unisba Media",
-     "published": "2026-10-02T02:16:27+00:00",
-     "summary": "MESSI FIRE ASSISTS! 🔥 Share Points. Inter Miami Vs Atlanta United 2-2 All Goals & Highlights 2026 Jim Carrey (ZA8BfrWsJh) Unisba Media"
     }
    ]
   },
@@ -700,9 +700,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench - cbssports.com",
+     "title": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench - CBS Sports",
      "published": "2026-10-02T20:40:00+00:00",
-     "summary": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench cbssports.com"
+     "summary": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench CBS Sports"
     },
     {
      "ref": "gnews_israeli_nba#1",
@@ -760,15 +760,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#10",
-     "title": "Blazers can't ignore the chance to flip Ja Morant this season - Rip City Project",
-     "published": "2026-09-30T20:13:43+00:00",
-     "summary": "Blazers can't ignore the chance to flip Ja Morant this season Rip City Project"
+     "title": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup - Last Word On Sports",
+     "published": "2026-10-01T14:25:47+00:00",
+     "summary": "Micah Nori Is Not Overthinking The Blazers’ Starting Lineup Last Word On Sports"
     },
     {
      "ref": "gnews_israeli_nba#11",
-     "title": "Trail Blazers Have Every Reason to Be Better Than Last Season - roundtable.io",
-     "published": "2026-09-30T04:33:20+00:00",
-     "summary": "Trail Blazers Have Every Reason to Be Better Than Last Season roundtable.io"
+     "title": "Blazers can't ignore the chance to flip Ja Morant this season - Rip City Project",
+     "published": "2026-09-30T20:13:43+00:00",
+     "summary": "Blazers can't ignore the chance to flip Ja Morant this season Rip City Project"
     }
    ]
   }
