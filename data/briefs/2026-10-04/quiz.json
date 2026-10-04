@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-04",
+  "questions": [
+    {
+      "id": "quiz-geopolitics-kyiv-bridge",
+      "section": "geopolitics",
+      "story_id": "russia-kyiv-bridge-strikes",
+      "answer_index": 0,
+      "en": {
+        "question": "What did Russia do in Kyiv that signals a widening campaign against the capital's infrastructure?",
+        "options": [
+          "Struck a second major bridge and told foreign diplomats to leave the city",
+          "Cut off the city's entire power grid",
+          "Signed a ceasefire agreement covering the capital",
+          "Withdrew its own forces from positions near the city"
+        ],
+        "explanation": "Russia struck the Pivnichnyi (Northern) Bridge, the second major Kyiv bridge hit in a short span, and urged foreign diplomats based there to leave."
+      },
+      "he": {
+        "question": "מה רוסיה עשתה בקייב, באופן שמעיד על הרחבת הקמפיין נגד תשתיות הבירה?",
+        "options": [
+          "תקפה גשר מרכזי שני בעיר ודרשה מדיפלומטים זרים לעזוב אותה",
+          "ניתקה לחלוטין את רשת החשמל של העיר",
+          "חתמה על הסכם הפסקת אש שחל על הבירה",
+          "נסוגה עם כוחותיה שלה מעמדות קרובות לעיר"
+        ],
+        "explanation": "רוסיה תקפה את גשר פיבניצ'ני (הגשר הצפוני), הגשר המרכזי השני בקייב שנפגע בתוך פרק זמן קצר, ודרשה מדיפלומטים זרים השוהים בעיר לעזוב אותה."
+      }
+    },
+    {
+      "id": "quiz-israeli-politics-oct7-inquiry",
+      "section": "israeli_politics",
+      "story_id": "oct7-state-commission-debate",
+      "answer_index": 0,
+      "en": {
+        "question": "What are Israel's opposition parties promising to do about investigating October 7 if they take power?",
+        "options": [
+          "Legislate a state commission of inquiry immediately, \"on day one\"",
+          "Hold a national referendum on whether to investigate",
+          "Let election candidate Ofer Winter lead a special tribunal",
+          "Wait for international pressure before acting"
+        ],
+        "explanation": "Ynet reports opposition parties are promising to legislate a state commission of inquiry immediately upon taking power, while most coalition parties won't say how they'd investigate."
+      },
+      "he": {
+        "question": "מה האופוזיציה בישראל מבטיחה לעשות בנוגע לחקירת 7 באוקטובר אם תעלה לשלטון?",
+        "options": [
+          "לחוקק ועדת חקירה ממלכתית \"ביום הראשון\" לכהונתה",
+          "לקיים משאל עם ארצי בשאלה אם לחקור",
+          "להטיל על המתמודד בבחירות עופר וינטר להוביל טריבונל מיוחד",
+          "להמתין ללחץ בין-לאומי לפני פעולה"
+        ],
+        "explanation": "לפי ynet, האופוזיציה מבטיחה לחוקק ועדת חקירה ממלכתית \"ביום הראשון\" לכהונתה בשלטון, בעוד שרוב מפלגות הקואליציה מסרבות לומר כיצד הן יחקרו."
+      }
+    },
+    {
+      "id": "quiz-ideas-journaling",
+      "section": "ideas",
+      "story_id": "journaling-to-remember",
+      "answer_index": 0,
+      "en": {
+        "question": "In her essay \"Journaling to remember,\" what does Anandi Mishra say actually builds a lasting sense of self?",
+        "options": [
+          "The small, forgettable details of daily life, written down by hand",
+          "Life's big, well-remembered milestones",
+          "Carefully curated social media posts",
+          "Regular conversations with a therapist"
+        ],
+        "explanation": "Mishra argues identity is built from handwriting down life's forgettable ephemera, not from its big, memorable events."
+      },
+      "he": {
+        "question": "לפי המאמר \"Journaling to remember\" של ענאנדי מישרה, ממה בעצם נבנית תחושת עצמי יציבה?",
+        "options": [
+          "מהפרטים הקטנים והנשכחים של היומיום, כשהם נכתבים ביד",
+          "מהרגעים הגדולים והזכורים של החיים",
+          "מפוסטים מתוכננים היטב ברשתות החברתיות",
+          "משיחות קבועות עם מטפל"
+        ],
+        "explanation": "מישרה טוענת שהזהות נבנית מתיעוד ביד של שאריות היומיום הנשכחות, ולא מהרגעים הגדולים והזכורים של החיים."
+      }
+    }
+  ]
+}

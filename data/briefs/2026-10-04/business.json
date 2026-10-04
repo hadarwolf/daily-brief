@@ -1,0 +1,96 @@
+{
+  "section": "business",
+  "date": "2026-10-04",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-04T04:06:08+00:00",
+  "stories": [
+    {
+      "id": "ai-capital-markets-split",
+      "kind": "analysis",
+      "en": {
+        "headline": "The AI Boom Is Splitting Capital Markets in Two",
+        "scroll": "AI enthusiasm is pulling capital markets in two directions at once: record share sales and concentrated venture funding at the top, narrowing breadth and credit strain underneath.",
+        "coffee": "Hong Kong just had its busiest summer for equity capital markets (ECM) on record. Bankers worked straight through what is normally a quiet season, as an AI-fueled rush for capital drove share sales to new highs, even as Hong Kong's own stock market endured a bruising selloff. That disconnect, cash flowing to AI-linked listings even as the broader index drops, is showing up everywhere capital gets allocated right now.\n\nIn US venture capital, PitchBook's third-quarter data show the same concentration: money pouring into VC funds is clustering around a handful of AI companies and the funds that back them. Funds raised during the 2021 boom still can't return cash to their own investors, new funds are struggling to launch, and it's AI founders, not the venture capitalists competing to fund them, who increasingly hold the negotiating leverage. In public markets, the Wall Street Journal argues AI is \"squeezing out\" the rest of the stock market: expect non-AI stocks to lag, their earnings growth to slow, and concern about credit risk to keep building.\n\nThe breadth numbers back this up. The Nasdaq notched its third straight positive week and Nvidia's market value briefly topped $5.7 trillion on Friday, while the Dow and S&P 500 each fell over the same five-session stretch (1.3% and 0.3%, respectively) and the 10-year Treasury yield climbed to its highest level since 2002. What to watch: whether credit spreads keep widening for borrowers outside the AI winners' circle, and whether VCs start returning cash from exits rather than just raising fresh AI funds.",
+        "deep": "## Background: Capital Follows the Story, Not Just the Spreadsheet\n\nCapital markets are supposed to price risk efficiently, sending money to the ventures most likely to generate returns. In practice, capital moves in waves, chasing whichever narrative dominates the moment. Right now that narrative is artificial intelligence (AI), and it is distorting capital allocation at every level: how companies raise money (equity capital markets, or ECM), how startups get funded (venture capital, or VC), and how public stock indices behave (market breadth, the question of how many stocks are actually participating in a rally). Readers who caught last week's note on market breadth already know the core mechanic: a handful of giant stocks can push an index to a record high while most of its members quietly struggle. This week, the same bifurcation is showing up in three separate corners of the capital markets at once.\n\n## The Story: Three Markets, One Pattern\n\nStart with Hong Kong. Bankers there worked through what is normally a dead summer because an AI-fueled rush for capital pushed share sales to a record, even as Hong Kong's own stock market suffered a bruising selloff. That is a textbook case of ECM activity decoupling from the health of the underlying market: investors and companies are treating \"AI exposure\" almost as its own asset class, worth raising and deploying capital into regardless of how the broader index is trading.\n\nPrivate markets show an identical split. PitchBook's third-quarter report on US venture capital finds that the money flowing into VC is clustering around a small number of companies and funds, most of them tied to AI. Funds raised during the 2021 boom are largely stuck: they cannot return cash to their own investors, a measure of fund performance the industry calls distributions, because the startups they backed have not found an exit (an IPO or acquisition). New funds are struggling to get off the ground at all. The one group with real leverage in negotiations right now is AI founders, who can often dictate terms to the venture capitalists competing to fund them, rather than the other way around. That is an unusual power balance: normally it is investors, not entrepreneurs, who hold the stronger hand.\n\nPublic equities complete the picture. The Wall Street Journal's framing is blunt: AI is \"squeezing out\" the rest of the stock market. The expectation is that stocks outside the AI complex will lag, earnings growth elsewhere will slow, and credit risk, the danger that non-AI borrowers cannot service their debt as easily, will keep building. Friday's close backs this up: the Nasdaq extended its run to a third straight positive week and Nvidia's market value briefly crossed $5.7 trillion, while the Dow and S&P 500 each fell over the same five trading sessions (1.3% and 0.3%, respectively) and the 10-year Treasury yield pushed to its highest level since 2002.\n\n## Second-Order Effects: Why Concentration Compounds\n\nEach of these three stories is, on its own, a story about winners. Put together, they describe a system where capital increasingly behaves like a power-law distribution: a small number of assets, companies and funds absorb a disproportionate share of all the money in motion, while everything else competes for what is left. That has consequences beyond the AI sector itself. When a market's most liquid instruments, Hong Kong IPOs, mega-cap US tech stocks, headline VC funds, are the ones hoovering up capital, the firms and sectors left out face a tighter, more expensive path to financing exactly when borrowing in general is also getting harder, as credit markets have shown in recent weeks. A narrow market is also a more fragile one: if sentiment toward AI sours even modestly, the retreat will be concentrated among the same few names that drove the advance, with few offsetting gains elsewhere in the index to cushion the fall.\n\n## What to Watch Next\n\nThree signals will show whether this split is stabilizing or deepening. First, credit spreads for borrowers outside the AI winners' circle: widening spreads would confirm that financing is getting selectively harder, and not only for AI-adjacent companies. Second, whether venture funds actually start returning cash to their investors as exits pick up, rather than simply raising fresh AI-themed funds. Third, market breadth itself: whether gains start spreading beyond the handful of mega-cap AI names, or whether, as last week's data already suggested, the gap between the headline indices and the median stock keeps widening."
+      },
+      "he": {
+        "headline": "ה-AI מפצל את שוקי ההון: שיאים בראש, סדקים בתחתית",
+        "scroll": "ההתלהבות מה-AI מושכת את שוקי ההון לשני כיוונים בבת אחת: שיאי גיוסים והון סיכון שמתרכז בחברות בודדות מצד אחד, רוחב שוק מצטמצם ולחצי אשראי מצד שני.",
+        "coffee": "הונג קונג עברה את הקיץ העמוס ביותר שלה אי פעם בהנפקות מניות (equity capital markets). הבנקאים שם לא לקחו הפסקת קיץ, כי גל גיוסי הון המונע מהתלהבות מ-AI דחף את מכירות המניות לשיא — וזה קרה בדיוק כששוק המניות המקומי של הונג קונג עבר מפולת כאובה. הפער הזה, כסף שזורם לחברות הקשורות ל-AI גם כשהמדד הכללי צונח, הופך לתבנית חוזרת בכל מקום שבו מוקצה הון כרגע.\n\nבשוק ההון סיכון (venture capital) האמריקאי מראים נתוני פיצ'בוק לרבעון השלישי תבנית דומה: הכסף שזורם לקרנות מתרכז בקומץ חברות וקרנות, רובן קשורות ל-AI. קרנות שגויסו בשיא 2021 עדיין לא מצליחות להחזיר כסף למשקיעים שלהן, קרנות חדשות מתקשות לקום מהקרקע, ויזמי ה-AI — ולא המשקיעים שמתחרים על ההזדמנות להשקיע בהם — הם אלה שנהנים כיום מכוח המיקוח. בשוק המניות הציבורי, הוול סטריט ג'ורנל טוען שה-AI \"דוחק\" את שאר השוק: הצפי הוא שמניות שאינן קשורות ל-AI יתקשו, שהצמיחה ברווחים שלהן תואט, ושהחששות מסיכון אשראי (credit risk) יימשכו.\n\nהמספרים מגבים את זה. נאסד\"ק רשם שבוע חיובי שלישי ברציפות ושוויה של אנבידיה חצה לרגע 5.7 טריליון דולר ביום שישי, בזמן שדאו ג'ונס ו-S&P 500 ירדו באותם חמישה ימי מסחר (1.3% ו-0.3%, בהתאמה), ותשואת אג\"ח ל-10 שנים של ממשלת ארה\"ב טיפסה לשיא מאז 2002. מה שכדאי לעקוב אחריו: אם מרווחי האשראי ימשיכו להתרחב מחוץ לחברות ה-AI המנצחות, ואם קרנות הון הסיכון יתחילו בכל זאת להחזיר כסף ממימושים, ולא רק לגייס קרנות AI חדשות.",
+        "deep": "## רקע: ההון עוקב אחרי הסיפור, לא רק אחרי האקסל\n\nשוקי ההון אמורים לתמחר סיכון ביעילות ולשלוח כסף למקומות שבהם הסבירות לתשואה הגבוהה ביותר. בפועל, ההון זורם בגלים, ורודף אחרי הנרטיב שמוביל בכל רגע נתון. כרגע הנרטיב הוא בינה מלאכותית (AI), והוא מעוות את הקצאת ההון בכל רמה: איך חברות מגייסות כסף (הנפקות מניות, equity capital markets), איך סטארט-אפים מגייסים הון (הון סיכון, venture capital), ואיך מדדי המניות הציבוריים מתנהגים (רוחב שוק, market breadth — השאלה כמה מניות באמת משתתפות בעלייה). מי שעקב בשבוע שעבר אחרי ההסבר על רוחב שוק מכיר את המכניקה: קומץ מניות ענקיות יכול לדחוף מדד לשיא חדש, בזמן שרוב רכיבי המדד מתמודדים בשקט עם קשיים. השבוע אותו פילוג מופיע בשלוש זירות שונות של שוק ההון, בבת אחת.\n\n## הסיפור: שלושה שווקים, תבנית אחת\n\nנתחיל בהונג קונג. הבנקאים שם עבדו גם בקיץ, עונה שבה בדרך כלל שוררת שלווה, כי גל גיוסי הון המונע מהתלהבות מ-AI דחף את מכירות המניות לשיא — וזה קרה בדיוק כששוק המניות המקומי של הונג קונג עבר מפולת כאובה. זה מקרה קלאסי של ניתוק בין פעילות הנפקות המניות (ECM) לבין מצב הבריאות של השוק שמתחתיה: משקיעים וחברות מתייחסים ל\"חשיפה ל-AI\" כאילו היא סוג נכס (asset class) בפני עצמו, ששווה לגייס ולהשקיע בו בלי קשר להתנהגות המדד הכללי.\n\nהשווקים הפרטיים מראים את אותו פילוג בדיוק. דו\"ח פיצ'בוק לרבעון השלישי על הון הסיכון האמריקאי מוצא שהכסף שזורם לתעשייה מתרכז בקומץ חברות וקרנות, רובן קשורות ל-AI. קרנות שגויסו בשיא הבועה של 2021 עדיין תקועות: הן לא מצליחות להחזיר כסף למשקיעים שלהן (אחד ממדדי הביצועים המרכזיים בענף, הנקרא distributions), כי החברות שהשקיעו בהן לא מצאו עדיין אפיק יציאה (exit) — הנפקה או מכירה. קרנות חדשות מתקשות לקום מהקרקע. הקבוצה היחידה שנהנית כיום מכוח מיקוח (bargaining power) אמיתי היא יזמי ה-AI, שיכולים להכתיב תנאים למשקיעים המתחרים על הזכות להשקיע בהם — היפוך של מערך הכוחות הרגיל, שבו המשקיעים הם אלה שמחזיקים בעמדת היתרון.\n\nשוק המניות הציבורי משלים את התמונה. הניתוח של הוול סטריט ג'ורנל חד: ה-AI \"דוחק\" את שאר שוק המניות. הציפייה היא שמניות מחוץ למעגל ה-AI יתקשו, שקצב צמיחת הרווחים שלהן יואט, ושהחששות מסיכון אשראי (credit risk) — הסיכון שחברות שאינן מגובות ב-AI יתקשו לעמוד בהחזרי החוב שלהן — יימשכו ויתעצמו. סגירת המסחר של יום שישי מתכתבת עם זה: נאסד\"ק המשיך לטפס לשבוע חיובי שלישי ברציפות ושוויה של אנבידיה חצה לרגע 5.7 טריליון דולר, בעוד דאו ג'ונס ומדד S&P 500 ירדו באותם חמישה ימי מסחר (1.3% ו-0.3%, בהתאמה), ותשואת אג\"ח ל-10 שנים של ממשלת ארה\"ב טיפסה לרמה הגבוהה ביותר מאז 2002.\n\n## אפקטים מסדר שני: למה ריכוזיות מתעצמת\n\nכל אחד משלושת הסיפורים האלה הוא, בפני עצמו, סיפור על מנצחים. בהצטברות, הם מתארים מערכת שבה ההון מתנהג יותר ויותר כמו התפלגות חזקת-חוק (power-law distribution): מספר קטן של נכסים, חברות וקרנות סופג נתח לא פרופורציונלי מכל הכסף שבתנועה, בזמן שכל השאר מתחרים על מה שנשאר. לזה יש השלכות שחורגות מתעשיית ה-AI עצמה. כשהמכשירים הנזילים ביותר בשוק — הנפקות בהונג קונג, מניות הטכנולוגיה הגדולות בארה\"ב, קרנות ההון סיכון המובילות — הם אלה שסופגים את ההון, חברות וענפים שנשארים בחוץ מתמודדים עם מסלול מימון יקר וצר יותר, בדיוק כשגם ההלוואות הכלליות הופכות קשות יותר, כפי שהראו שוקי האשראי בשבועות האחרונים. שוק צר הוא גם שוק שביר יותר: אם הסנטימנט סביב AI יתקרר, אפילו במתינות, הנסיגה תהיה מרוכזת באותם שמות בודדים שהניעו את העלייה, בלי הרבה רווחים מקזזים במקומות אחרים במדד שיוכלו לרכך את הנפילה.\n\n## מה לעקוב אחריו\n\nשלושה סימנים יצביעו על כך שהפילוג הזה מתייצב או מתעמק. ראשית, מרווחי האשראי (credit spreads) של לווים מחוץ למעגל המנצחות של ה-AI: התרחבות של המרווחים תאשר שהמימון הופך לקשה יותר באופן סלקטיבי, ולא רק לחברות הקשורות ל-AI. שנית, האם קרנות הון הסיכון יתחילו בפועל להחזיר כסף למשקיעים שלהן כשאפיקי יציאה (הנפקות, רכישות) יתרבו, במקום רק לגייס קרנות AI חדשות. שלישית, רוחב השוק עצמו: האם העליות יתחילו להתפזר מעבר לקומץ מניות ה-AI הגדולות, או שהפער בין המדדים הראשיים למניה החציונית ימשיך להתרחב, כמו שהנתונים מהשבוע שעבר כבר העידו."
+      },
+      "tags": [
+        "ai",
+        "markets",
+        "venture-capital",
+        "market-breadth"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הצלחה או אשליה: האם בום ה–AI מציל את ההון סיכון או מסתיר את המשבר?",
+          "url": "https://www.themarker.com/d-academy/2026-10-03/ty-article-magazine/.premium/000001a0-f2b1-dbb2-a9f8-fbfb8f580000"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "AI Is Squeezing Out the Rest of the Stock Market",
+          "url": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט ננעלה בעליות על רקע דו\"ח תעסוקה מאכזב; נאסד\"ק התחזק ביותר מ–1%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-02/ty-article-live/000001a0-e185-d272-adf6-fdc703270000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "תחזיקו חזק: חמישה גרפים חושפים מה מתרחש בשוק המניות מתחת לפני השטח",
+          "url": "https://www.themarker.com/wallstreet/2026-10-03/ty-article/.highlight/000001a1-0141-d2e8-afb1-17759b820000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4218.25,
+      "prev_close": 4203.98,
+      "change_pct": 0.34,
+      "as_of": "2026-10-01"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7722.7202,
+      "prev_close": 7666.4502,
+      "change_pct": 0.73,
+      "as_of": "2026-10-02"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0532,
+      "prev_close": 3.0728,
+      "change_pct": -0.64,
+      "as_of": "2026-10-02"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 102.25,
+      "prev_close": 102.31,
+      "change_pct": -0.06,
+      "as_of": "2026-10-02"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 84849.0703,
+      "prev_close": 84497.2109,
+      "change_pct": 0.42,
+      "as_of": "2026-10-04"
+    }
+  }
+}
