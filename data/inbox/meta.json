@@ -1,6 +1,6 @@
 {
- "date": "2026-10-03",
- "prepared_at": "2026-10-03T08:59:35+00:00",
+ "date": "2026-10-04",
+ "prepared_at": "2026-10-04T03:48:53+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -11,16 +11,24 @@
  ],
  "skipped_sections": [],
  "order": [
+  "sports",
   "geopolitics",
   "israeli_politics",
   "business",
-  "sports",
   "ideas",
   "learn"
  ],
  "match_day": {
-  "is_match_day": false,
-  "events": []
+  "is_match_day": true,
+  "events": [
+   {
+    "sport": "soccer",
+    "competition": "UEFA Nations League",
+    "home": "Ireland",
+    "away": "Israel",
+    "kickoff_utc": "2026-10-04T18:45:00"
+   }
+  ]
  },
  "markets": {
   "TA35": {
@@ -53,11 +61,11 @@
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 84612.3125,
+   "last": 84849.0703,
    "prev_close": 84497.2109,
-   "change_pct": 0.14,
-   "as_of": "2026-10-03"
+   "change_pct": 0.42,
+   "as_of": "2026-10-04"
   }
  },
- "essays_fetched": 5
+ "essays_fetched": 4
 }
