@@ -531,21 +531,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Messi on target as Miami downed by Columbus Crew - Kuwait Times",
-     "published": "2026-10-04T00:41:20+00:00",
-     "summary": "Messi on target as Miami downed by Columbus Crew Kuwait Times"
-    },
-    {
-     "ref": "gnews_inter_miami#2",
      "title": "Lionel Messi & Argentina News Confirmed on Saturday - heavy.com",
      "published": "2026-10-03T23:42:33+00:00",
      "summary": "Lionel Messi & Argentina News Confirmed on Saturday heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#2",
      "title": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player - ABC News - Breaking News, Latest News and Videos",
      "published": "2026-10-03T22:39:53+00:00",
      "summary": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
+     "title": "Messi on target as Miami downed by Columbus Crew - Kuwait Times",
+     "published": "2026-10-03T18:36:00+00:00",
+     "summary": "Messi on target as Miami downed by Columbus Crew Kuwait Times"
     },
     {
      "ref": "gnews_inter_miami#4",
@@ -555,21 +555,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#5",
+     "title": "Kily González Shakes Up Inter Miami: The Changes He Is Preparing to Stop the Slide Before the Playoffs - Pasión Fútbol",
+     "published": "2026-10-03T15:33:29+00:00",
+     "summary": "Kily González Shakes Up Inter Miami: The Changes He Is Preparing to Stop the Slide Before the Playoffs Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
      "title": "The first trailer is already online. Messi to star in Disney+ animated series - Dailysports",
      "published": "2026-10-03T14:54:12+00:00",
      "summary": "The first trailer is already online. Messi to star in Disney+ animated series Dailysports"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Messi Has Arrived: The Final Countdown to Argentina’s Goodbye Begins - heavy.com",
      "published": "2026-10-03T12:01:42+00:00",
      "summary": "Messi Has Arrived: The Final Countdown to Argentina’s Goodbye Begins heavy.com"
-    },
-    {
-     "ref": "gnews_inter_miami#7",
-     "title": "The Day Josef Scored His 100th Goal | Atlanta United 1-0 Inter Miami | MLS | 2021 Tobias Harris (dHP9nkZwDs) - Unisba Media",
-     "published": "2026-10-03T11:52:34+00:00",
-     "summary": "The Day Josef Scored His 100th Goal | Atlanta United 1-0 Inter Miami | MLS | 2021 Tobias Harris (dHP9nkZwDs) Unisba Media"
     },
     {
      "ref": "gnews_inter_miami#8",

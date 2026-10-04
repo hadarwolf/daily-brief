@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Brazil - AP News",
+     "published": "2026-10-04T08:43:52+00:00",
+     "summary": "Brazil AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Japan - AP News",
+     "published": "2026-10-04T08:43:52+00:00",
+     "summary": "Japan AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Donald Trump - AP News",
+     "published": "2026-10-04T08:39:16+00:00",
+     "summary": "Donald Trump AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "New York City - AP News",
+     "published": "2026-10-04T08:38:09+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "International News - AP News",
+     "published": "2026-10-04T08:35:21+00:00",
+     "summary": "International News AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Trending News - AP News",
+     "published": "2026-10-04T08:31:11+00:00",
+     "summary": "Trending News AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "AP News Search - AP News",
+     "published": "2026-10-04T08:31:11+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "Latest news - AP News",
      "published": "2026-10-04T08:27:17+00:00",
      "summary": "Latest news AP News"
     },
     {
-     "ref": "ap_world#1",
-     "title": "Brazil - AP News",
-     "published": "2026-10-04T08:23:06+00:00",
-     "summary": "Brazil AP News"
-    },
-    {
-     "ref": "ap_world#2",
+     "ref": "ap_world#8",
      "title": "Terrorism - AP News",
      "published": "2026-10-04T08:21:08+00:00",
      "summary": "Terrorism AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#9",
      "title": "Africa News Reports | Latest News in Africa - AP News",
      "published": "2026-10-04T08:21:06+00:00",
      "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#10",
      "title": "College sports - AP News",
      "published": "2026-10-04T08:13:11+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#11",
      "title": "MLB | Latest News, Stats, and Scores - AP News",
      "published": "2026-10-04T08:03:07+00:00",
      "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#12",
      "title": "Los Angeles Dodgers - AP News",
      "published": "2026-10-04T08:03:05+00:00",
      "summary": "Los Angeles Dodgers AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#13",
      "title": "Europe News | Breaking European News Today - AP News",
      "published": "2026-10-04T08:03:05+00:00",
      "summary": "Europe News | Breaking European News Today AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#14",
      "title": "Crime - AP News",
      "published": "2026-10-04T07:53:18+00:00",
      "summary": "Crime AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#15",
      "title": "Texas - AP News",
      "published": "2026-10-04T07:53:14+00:00",
      "summary": "Texas AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#16",
      "title": "Tennis Scores, News & Stats - AP News",
      "published": "2026-10-04T07:53:11+00:00",
      "summary": "Tennis Scores, News & Stats AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#17",
      "title": "Soccer - AP News",
      "published": "2026-10-04T07:51:11+00:00",
      "summary": "Soccer AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#18",
      "title": "College Football Full FBS Schedule - AP News",
      "published": "2026-10-04T07:51:05+00:00",
      "summary": "College Football Full FBS Schedule AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#19",
      "title": "Golf - AP News",
      "published": "2026-10-04T07:49:27+00:00",
      "summary": "Golf AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#20",
      "title": "Latin American News | Latest Latin American News - AP News",
      "published": "2026-10-04T07:47:06+00:00",
      "summary": "Latin American News | Latest Latin American News AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#21",
      "title": "South America - AP News",
      "published": "2026-10-04T07:47:06+00:00",
      "summary": "South America AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#22",
      "title": "China - AP News",
      "published": "2026-10-04T07:47:04+00:00",
      "summary": "China AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "Asia Pacific - AP News",
-     "published": "2026-10-04T07:43:05+00:00",
-     "summary": "Asia Pacific AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "New York City - AP News",
-     "published": "2026-10-04T07:37:16+00:00",
-     "summary": "New York City AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "International News - AP News",
-     "published": "2026-10-04T07:35:11+00:00",
-     "summary": "International News AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Trending News - AP News",
-     "published": "2026-10-04T07:30:49+00:00",
-     "summary": "Trending News AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "AP News Search - AP News",
-     "published": "2026-10-04T07:30:49+00:00",
-     "summary": "AP News Search AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Homicide - AP News",
-     "published": "2026-10-04T07:30:48+00:00",
-     "summary": "Homicide AP News"
-    },
-    {
      "ref": "ap_world#23",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-10-04T07:18:27+00:00",
-     "summary": "College football | Latest News & Updates AP News"
+     "title": "International trade - AP News",
+     "published": "2026-10-04T07:43:08+00:00",
+     "summary": "International trade AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Brewers get a big assist from their ballpark roof to beat the Padres 3-2 in NLDS opener - AP News",
-     "published": "2026-10-04T07:16:00+00:00",
-     "summary": "Brewers get a big assist from their ballpark roof to beat the Padres 3-2 in NLDS opener AP News"
+     "title": "Asia Pacific - AP News",
+     "published": "2026-10-04T07:43:05+00:00",
+     "summary": "Asia Pacific AP News"
     }
    ]
   },

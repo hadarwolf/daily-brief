@@ -24,7 +24,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#1",
-     "title": "Ethiopia Recaptures Tigray Airport as Northern Rebels Retreat",
+     "title": "Ethiopia Retakes Tigray Airport as Northern Rebels Retreat",
      "published": "2026-10-04T07:47:44+00:00",
      "summary": "Ethiopian forces seized control of the airport and other parts of Mekelle, the capital of the northern Tigray region, as leaders of the Tigray People’s Liberation Front retreated from the city, a major turning point in the renewed conflict."
     },
@@ -529,9 +529,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 85140.0,
+   "last": 85066.75,
    "prev_close": 84763.5781,
-   "change_pct": 0.44,
+   "change_pct": 0.36,
    "as_of": "2026-10-04"
   }
  },
