@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Donald Trump - apnews.com",
-     "published": "2026-10-04T08:09:04+00:00",
-     "summary": "Donald Trump apnews.com"
+     "title": "Latest news - AP News",
+     "published": "2026-10-04T08:27:17+00:00",
+     "summary": "Latest news AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "MLB | Latest News, Stats, and Scores - apnews.com",
-     "published": "2026-10-04T08:03:07+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores apnews.com"
+     "title": "Brazil - AP News",
+     "published": "2026-10-04T08:23:06+00:00",
+     "summary": "Brazil AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Los Angeles Dodgers - apnews.com",
-     "published": "2026-10-04T08:03:05+00:00",
-     "summary": "Los Angeles Dodgers apnews.com"
+     "title": "Terrorism - AP News",
+     "published": "2026-10-04T08:21:08+00:00",
+     "summary": "Terrorism AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "Europe News | Breaking European News Today - apnews.com",
-     "published": "2026-10-04T08:03:05+00:00",
-     "summary": "Europe News | Breaking European News Today apnews.com"
+     "title": "Africa News Reports | Latest News in Africa - AP News",
+     "published": "2026-10-04T08:21:06+00:00",
+     "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "Crime - apnews.com",
-     "published": "2026-10-04T07:53:18+00:00",
-     "summary": "Crime apnews.com"
+     "title": "College sports - AP News",
+     "published": "2026-10-04T08:13:11+00:00",
+     "summary": "College sports AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "Texas - apnews.com",
-     "published": "2026-10-04T07:53:14+00:00",
-     "summary": "Texas apnews.com"
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-04T08:03:07+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "Tennis Scores, News & Stats - apnews.com",
-     "published": "2026-10-04T07:53:11+00:00",
-     "summary": "Tennis Scores, News & Stats apnews.com"
+     "title": "Los Angeles Dodgers - AP News",
+     "published": "2026-10-04T08:03:05+00:00",
+     "summary": "Los Angeles Dodgers AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "Soccer - apnews.com",
-     "published": "2026-10-04T07:51:11+00:00",
-     "summary": "Soccer apnews.com"
+     "title": "Europe News | Breaking European News Today - AP News",
+     "published": "2026-10-04T08:03:05+00:00",
+     "summary": "Europe News | Breaking European News Today AP News"
     },
     {
      "ref": "ap_world#8",
-     "title": "College Football Full FBS Schedule - apnews.com",
-     "published": "2026-10-04T07:51:05+00:00",
-     "summary": "College Football Full FBS Schedule apnews.com"
+     "title": "Crime - AP News",
+     "published": "2026-10-04T07:53:18+00:00",
+     "summary": "Crime AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "Golf - apnews.com",
-     "published": "2026-10-04T07:49:27+00:00",
-     "summary": "Golf apnews.com"
+     "title": "Texas - AP News",
+     "published": "2026-10-04T07:53:14+00:00",
+     "summary": "Texas AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "Latin American News | Latest Latin American News - apnews.com",
-     "published": "2026-10-04T07:47:06+00:00",
-     "summary": "Latin American News | Latest Latin American News apnews.com"
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-10-04T07:53:11+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
     },
     {
      "ref": "ap_world#11",
-     "title": "South America - apnews.com",
-     "published": "2026-10-04T07:47:06+00:00",
-     "summary": "South America apnews.com"
+     "title": "Soccer - AP News",
+     "published": "2026-10-04T07:51:11+00:00",
+     "summary": "Soccer AP News"
     },
     {
      "ref": "ap_world#12",
-     "title": "China - apnews.com",
-     "published": "2026-10-04T07:47:04+00:00",
-     "summary": "China apnews.com"
+     "title": "College Football Full FBS Schedule - AP News",
+     "published": "2026-10-04T07:51:05+00:00",
+     "summary": "College Football Full FBS Schedule AP News"
     },
     {
      "ref": "ap_world#13",
-     "title": "Asia Pacific - apnews.com",
-     "published": "2026-10-04T07:43:05+00:00",
-     "summary": "Asia Pacific apnews.com"
+     "title": "Golf - AP News",
+     "published": "2026-10-04T07:49:27+00:00",
+     "summary": "Golf AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "New York City - apnews.com",
-     "published": "2026-10-04T07:37:16+00:00",
-     "summary": "New York City apnews.com"
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-10-04T07:47:06+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
     },
     {
      "ref": "ap_world#15",
-     "title": "International News - apnews.com",
-     "published": "2026-10-04T07:35:11+00:00",
-     "summary": "International News apnews.com"
+     "title": "South America - AP News",
+     "published": "2026-10-04T07:47:06+00:00",
+     "summary": "South America AP News"
     },
     {
      "ref": "ap_world#16",
-     "title": "Trending News - apnews.com",
-     "published": "2026-10-04T07:30:49+00:00",
-     "summary": "Trending News apnews.com"
+     "title": "China - AP News",
+     "published": "2026-10-04T07:47:04+00:00",
+     "summary": "China AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "AP News Search - apnews.com",
-     "published": "2026-10-04T07:30:49+00:00",
-     "summary": "AP News Search apnews.com"
+     "title": "Asia Pacific - AP News",
+     "published": "2026-10-04T07:43:05+00:00",
+     "summary": "Asia Pacific AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "Homicide - apnews.com",
-     "published": "2026-10-04T07:30:48+00:00",
-     "summary": "Homicide apnews.com"
+     "title": "New York City - AP News",
+     "published": "2026-10-04T07:37:16+00:00",
+     "summary": "New York City AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "Latest news - apnews.com",
-     "published": "2026-10-04T07:27:04+00:00",
-     "summary": "Latest news apnews.com"
+     "title": "International News - AP News",
+     "published": "2026-10-04T07:35:11+00:00",
+     "summary": "International News AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "Africa News Reports | Latest News in Africa - apnews.com",
-     "published": "2026-10-04T07:22:32+00:00",
-     "summary": "Africa News Reports | Latest News in Africa apnews.com"
+     "title": "Trending News - AP News",
+     "published": "2026-10-04T07:30:49+00:00",
+     "summary": "Trending News AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Terrorism - apnews.com",
-     "published": "2026-10-04T07:22:32+00:00",
-     "summary": "Terrorism apnews.com"
+     "title": "AP News Search - AP News",
+     "published": "2026-10-04T07:30:49+00:00",
+     "summary": "AP News Search AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "College football | Latest News & Updates - apnews.com",
-     "published": "2026-10-04T07:18:27+00:00",
-     "summary": "College football | Latest News & Updates apnews.com"
+     "title": "Homicide - AP News",
+     "published": "2026-10-04T07:30:48+00:00",
+     "summary": "Homicide AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Brewers get a big assist from their ballpark roof to beat the Padres 3-2 in NLDS opener - apnews.com",
-     "published": "2026-10-04T07:16:00+00:00",
-     "summary": "Brewers get a big assist from their ballpark roof to beat the Padres 3-2 in NLDS opener apnews.com"
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-10-04T07:18:27+00:00",
+     "summary": "College football | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Bosnia votes as pro-Russian politician looms large over the race and ethnic tensions simmer - apnews.com",
-     "published": "2026-10-04T07:03:00+00:00",
-     "summary": "Bosnia votes as pro-Russian politician looms large over the race and ethnic tensions simmer apnews.com"
+     "title": "Brewers get a big assist from their ballpark roof to beat the Padres 3-2 in NLDS opener - AP News",
+     "published": "2026-10-04T07:16:00+00:00",
+     "summary": "Brewers get a big assist from their ballpark roof to beat the Padres 3-2 in NLDS opener AP News"
     }
    ]
   },
@@ -390,153 +390,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Government forces seize capital of Ethiopia's Tigray region from rebels - Reuters",
+     "published": "2026-10-04T08:19:43+00:00",
+     "summary": "Government forces seize capital of Ethiopia's Tigray region from rebels Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "Iran says Strait of Hormuz will not reopen until conditions are met - Reuters",
      "published": "2026-10-04T07:59:43+00:00",
      "summary": "Iran says Strait of Hormuz will not reopen until conditions are met Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
      "published": "2026-10-04T07:39:43+00:00",
      "summary": "Latvian PM on track to lead pro-Ukraine coalition after election win Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Haunted by grief, Gaza's displaced still wait overseas for return - Reuters",
      "published": "2026-10-04T07:04:09+00:00",
      "summary": "Haunted by grief, Gaza's displaced still wait overseas for return Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "South Korean president orders probe into data leaks across financial industry - Reuters",
      "published": "2026-10-04T06:19:00+00:00",
      "summary": "South Korean president orders probe into data leaks across financial industry Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Bosnia votes Sunday in election that could affect EU bid - Reuters",
      "published": "2026-10-04T05:01:00+00:00",
      "summary": "Bosnia votes Sunday in election that could affect EU bid Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Germany's Merz arrives in Kyiv to finalize drone deal, release aid - Reuters",
-     "published": "2026-10-04T04:54:09+00:00",
+     "published": "2026-10-04T04:53:00+00:00",
      "summary": "Germany's Merz arrives in Kyiv to finalize drone deal, release aid Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "US carrier George H.W. Bush visits Thailand after six-month Middle East deployment - Reuters",
      "published": "2026-10-04T04:32:00+00:00",
      "summary": "US carrier George H.W. Bush visits Thailand after six-month Middle East deployment Reuters"
     },
     {
-     "ref": "reuters_world#7",
-     "title": "Japan PM protests to US after Marine arrested on murder suspicion in Okinawa - Reuters",
+     "ref": "reuters_world#8",
+     "title": "Japan's Takaichi protests to US after Marine accused of murder in Okinawa - Reuters",
      "published": "2026-10-04T03:43:00+00:00",
-     "summary": "Japan PM protests to US after Marine arrested on murder suspicion in Okinawa Reuters"
+     "summary": "Japan's Takaichi protests to US after Marine accused of murder in Okinawa Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Cornell president vows 'serious look' at fraternities, sororities in wake of rape allegations - Reuters",
      "published": "2026-10-04T02:03:00+00:00",
      "summary": "Cornell president vows 'serious look' at fraternities, sororities in wake of rape allegations Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Australia's Treasurer heads to Japan for inaugural finance ministerial forum - Reuters",
      "published": "2026-10-04T01:41:43+00:00",
      "summary": "Australia's Treasurer heads to Japan for inaugural finance ministerial forum Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "North Korea says it conducted intermediate-range strategic missile drill - Reuters",
      "published": "2026-10-03T23:31:13+00:00",
      "summary": "North Korea says it conducted intermediate-range strategic missile drill Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Brazil's Lula, Flavio Bolsonaro wrap up campaigns ahead of first-round vote - Reuters",
      "published": "2026-10-03T23:10:20+00:00",
      "summary": "Brazil's Lula, Flavio Bolsonaro wrap up campaigns ahead of first-round vote Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "Britain scraps heavily criticised plans to curb jury trials after backlash - Reuters",
      "published": "2026-10-03T23:07:43+00:00",
      "summary": "Britain scraps heavily criticised plans to curb jury trials after backlash Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Trump shares Republican senator's phone number in feud over time switch - Reuters",
      "published": "2026-10-03T23:05:26+00:00",
      "summary": "Trump shares Republican senator's phone number in feud over time switch Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports - Reuters",
      "published": "2026-10-03T22:46:00+00:00",
      "summary": "Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Yemen's armed forces say it is conducting strikes against Houthis in Sanaa - Reuters",
      "published": "2026-10-03T22:40:35+00:00",
      "summary": "Yemen's armed forces say it is conducting strikes against Houthis in Sanaa Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Ethiopia government forces retake airport in Tigray's capital, sources say - Reuters",
      "published": "2026-10-03T21:55:38+00:00",
      "summary": "Ethiopia government forces retake airport in Tigray's capital, sources say Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Tens of thousands protest across Spain over housing crisis - Reuters",
      "published": "2026-10-03T21:48:27+00:00",
      "summary": "Tens of thousands protest across Spain over housing crisis Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Portugal prosecutors probe legality of US use of Lajes base in Iran war - Reuters",
      "published": "2026-10-03T20:02:26+00:00",
      "summary": "Portugal prosecutors probe legality of US use of Lajes base in Iran war Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Iranian rial at new low, as cenbank sells dollars to support currency - Reuters",
      "published": "2026-10-03T19:43:44+00:00",
      "summary": "Iranian rial at new low, as cenbank sells dollars to support currency Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "India, Pakistan summon top diplomats over border incident - Reuters",
      "published": "2026-10-03T17:50:33+00:00",
      "summary": "India, Pakistan summon top diplomats over border incident Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "High school students in Paris' deprived suburbs spark national protest movement - Reuters",
      "published": "2026-10-03T17:31:26+00:00",
      "summary": "High school students in Paris' deprived suburbs spark national protest movement Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Paris police chief says student protest movement out of control, urges peaceful action - Reuters",
      "published": "2026-10-03T17:26:59+00:00",
      "summary": "Paris police chief says student protest movement out of control, urges peaceful action Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Tennessee prison chief resigns after failed execution - Reuters",
      "published": "2026-10-03T17:15:43+00:00",
      "summary": "Tennessee prison chief resigns after failed execution Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Latvia PM's United List ahead in election, exit poll shows - Reuters",
-     "published": "2026-10-03T17:05:47+00:00",
-     "summary": "Latvia PM's United List ahead in election, exit poll shows Reuters"
     }
    ]
   }
