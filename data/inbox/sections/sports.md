@@ -525,27 +525,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Emiliano Martinez opens up on Lionel Messi retirement and admits Inter Miami star will leave 'a massive void' for Argentina - ca.sports.yahoo.com",
+     "title": "Emiliano Martinez opens up on Lionel Messi retirement and admits Inter Miami star will leave 'a massive void' for Argentina - Yahoo",
      "published": "2026-10-04T04:40:00+00:00",
-     "summary": "Emiliano Martinez opens up on Lionel Messi retirement and admits Inter Miami star will leave 'a massive void' for Argentina ca.sports.yahoo.com"
+     "summary": "Emiliano Martinez opens up on Lionel Messi retirement and admits Inter Miami star will leave 'a massive void' for Argentina Yahoo"
     },
     {
      "ref": "gnews_inter_miami#1",
+     "title": "Messi on target as Miami downed by Columbus Crew - Kuwait Times",
+     "published": "2026-10-04T00:41:20+00:00",
+     "summary": "Messi on target as Miami downed by Columbus Crew Kuwait Times"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "Lionel Messi & Argentina News Confirmed on Saturday - heavy.com",
      "published": "2026-10-03T23:42:33+00:00",
      "summary": "Lionel Messi & Argentina News Confirmed on Saturday heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player - ABC News - Breaking News, Latest News and Videos",
      "published": "2026-10-03T22:39:53+00:00",
      "summary": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "ref": "gnews_inter_miami#3",
-     "title": "Messi on target as Miami downed by Columbus Crew - Kuwait Times",
-     "published": "2026-10-03T18:36:00+00:00",
-     "summary": "Messi on target as Miami downed by Columbus Crew Kuwait Times"
     },
     {
      "ref": "gnews_inter_miami#4",
@@ -555,21 +555,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#5",
-     "title": "Kily González Shakes Up Inter Miami: The Changes He Is Preparing to Stop the Slide Before the Playoffs - Pasión Fútbol",
-     "published": "2026-10-03T15:33:29+00:00",
-     "summary": "Kily González Shakes Up Inter Miami: The Changes He Is Preparing to Stop the Slide Before the Playoffs Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
      "title": "The first trailer is already online. Messi to star in Disney+ animated series - Dailysports",
      "published": "2026-10-03T14:54:12+00:00",
      "summary": "The first trailer is already online. Messi to star in Disney+ animated series Dailysports"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#6",
      "title": "Messi Has Arrived: The Final Countdown to Argentina’s Goodbye Begins - heavy.com",
      "published": "2026-10-03T12:01:42+00:00",
      "summary": "Messi Has Arrived: The Final Countdown to Argentina’s Goodbye Begins heavy.com"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
+     "title": "The Day Josef Scored His 100th Goal | Atlanta United 1-0 Inter Miami | MLS | 2021 Tobias Harris (dHP9nkZwDs) - media.unisba.ac.id",
+     "published": "2026-10-03T11:52:34+00:00",
+     "summary": "The Day Josef Scored His 100th Goal | Atlanta United 1-0 Inter Miami | MLS | 2021 Tobias Harris (dHP9nkZwDs) media.unisba.ac.id"
     },
     {
      "ref": "gnews_inter_miami#8",
@@ -585,9 +585,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#10",
-     "title": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 - usatoday.com",
+     "title": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 - USA Today",
      "published": "2026-10-03T02:57:29+00:00",
-     "summary": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 usatoday.com"
+     "summary": "San Diego FC at Inter Miami CF - MLS Game Summary - Sep 20, 2026 USA Today"
     },
     {
      "ref": "gnews_inter_miami#11",
@@ -609,9 +609,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#14",
-     "title": "MESSI FIRE ASSISTS! 🔥 Share Points. Inter Miami Vs Atlanta United 2-2 All Goals & Highlights 2026 Jim Carrey (ZA8BfrWsJh) - Unisba Media",
+     "title": "MESSI FIRE ASSISTS! 🔥 Share Points. Inter Miami Vs Atlanta United 2-2 All Goals & Highlights 2026 Jim Carrey (ZA8BfrWsJh) - media.unisba.ac.id",
      "published": "2026-10-02T22:10:21+00:00",
-     "summary": "MESSI FIRE ASSISTS! 🔥 Share Points. Inter Miami Vs Atlanta United 2-2 All Goals & Highlights 2026 Jim Carrey (ZA8BfrWsJh) Unisba Media"
+     "summary": "MESSI FIRE ASSISTS! 🔥 Share Points. Inter Miami Vs Atlanta United 2-2 All Goals & Highlights 2026 Jim Carrey (ZA8BfrWsJh) media.unisba.ac.id"
     },
     {
      "ref": "gnews_inter_miami#15",
@@ -717,9 +717,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#6",
-     "title": "Can Ja Morant Play Off-Ball and Unlock the Trail Blazers Offense with Damian Lillard & Deni Avdija? - KTVB",
+     "title": "Can Ja Morant Play Off-Ball and Unlock the Trail Blazers Offense with Damian Lillard & Deni Avdija? - ktvb.com",
      "published": "2026-10-01T22:50:00+00:00",
-     "summary": "Can Ja Morant Play Off-Ball and Unlock the Trail Blazers Offense with Damian Lillard & Deni Avdija? KTVB"
+     "summary": "Can Ja Morant Play Off-Ball and Unlock the Trail Blazers Offense with Damian Lillard & Deni Avdija? ktvb.com"
     },
     {
      "ref": "gnews_israeli_nba#7",
