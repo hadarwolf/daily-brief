@@ -143,88 +143,83 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Marital sorting by class and race",
+     "published": "2026-10-04T07:01:17+00:00",
+     "summary": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increas"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Do the elderly prefer robotic care?",
+     "published": "2026-10-04T05:17:41+00:00",
+     "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choos",
+     "full_text_file": "essays/marginal_revolution_1.txt"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Saturday assorted links",
      "published": "2026-10-03T16:29:20+00:00",
      "summary": "1. Rewarding failure? 2. An excellent Brian Potter explainer on how matrix algebra is used in both LLMs and robotics. 3. Chat with Mircea Cărtărescu. 4. It seems the expansion of remote work reduced births? 5. “Living Science uses an AI agent to reproduce key findings from seminal papers in economics, document what holds up […] The post Saturday assorted links appeared first on Marginal REVOLUTION"
     },
     {
-     "ref": "marginal_revolution#1",
-     "title": "Florian Schneider, RIP",
-     "published": "2026-10-03T15:29:40+00:00",
-     "summary": "One of the titans, and yes from the BRD. The post Florian Schneider, RIP appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "Words to live by?",
      "published": "2026-10-03T07:15:58+00:00",
      "summary": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the biggest bond issue in history (Amazon). There was the first $1trn exchange-traded fund, or ETF […] The post Words to live by? appeared first "
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "New issue of Econ Journal Watch",
      "published": "2026-10-03T04:27:58+00:00",
      "summary": "Volume 23, Issue 2, September 2026 In this issue: “China shock” fragility: According to David Autor, David Dorn, and Gordon Hanson (2013), the “China shock” hit the United States from 1990 to 2007. When corrections by Kirill Borusyak et al. (2022) are fully applied, Joseph Francis argues, the harm of Chinese imports to unemployment, labor force […] The post New issue of Econ Journal Watch appeared",
-     "full_text_file": "essays/marginal_revolution_3.txt"
+     "full_text_file": "essays/marginal_revolution_4.txt"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "Supply is elastic, installment #1637",
      "published": "2026-10-02T17:32:37+00:00",
      "summary": "For taxes too: Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A […] The post Supply is ela"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "Friday assorted links",
      "published": "2026-10-02T15:30:39+00:00",
      "summary": "1. How rich was Anglo-Saxon England? 2. New game theory paper on AI races. 3. Scott Sumner movie reviews, please note he is always correct and thus the greatest film critic in the world, at least by that metric. 4. What should the AI safety movement be? 5. The frontier models are beating licensed accountants. […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "A Normal Debate?",
      "published": "2026-10-02T11:18:05+00:00",
      "summary": "Computer scientists Arvind Narayanan & Sayash Kapoor wrote AI as Normal Technology The statement “AI is normal technology” is three things: a description of current AI, a prediction about the foreseeable future of AI, and a prescription about how we should treat it. We view AI as a tool that we can and should remain […] The post A Normal Debate? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "What should I ask Tom Griffiths?",
      "published": "2026-10-02T08:29:57+00:00",
      "summary": "Yes I will be doing a Conversation with him. Looking at Wikipedia: Thomas L. Griffiths (born c. 1978) is an Australian academic who is the Henry R. Luce Professor of Information Technology, Consciousness, and Culture at Princeton University. He studies human decision-making and its connection to problem-solving methods in computation. His book with Brian Christian, Algorithms […] The post What sho"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "My excellent Conversation with Luis Garicano",
      "published": "2026-10-02T05:06:16+00:00",
      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler and Luis start their conversation with Spain — housing, NIMBYism, and the productivity crisis; Spanish literature and why the Civil War still looms so large; and what Chicago taught Luis about party discipline in European politics. Then to the EU’s […] The post My excellent Conversation with Luis Garicano appeared"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "Alvin Roth to the rescue, the polity that is Singapore",
      "published": "2026-10-01T18:26:45+00:00",
      "summary": "Singapore has launched a dating platform, the latest social-engineering experiment by the city-state’s government to tackle its fast-declining fertility rate. The initiative, known as FirstDate, opened under a pilot scheme this month for public sector employees aged 21-35 and uses a Nobel Economics Prize-winning matchmaking algorithm. An additional tool suggests date activities and allows users […"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Thursday assorted links",
      "published": "2026-10-01T15:58:50+00:00",
      "summary": "1. Cato’s Vision for Liberty award for 50k. 2. Gross output signals an economic surge (WSJ). 3. Echo, a new AI site to mimic the styles of particular writers or writing styles. Thread on it here. 4. “Open USD (OUSD), the new stablecoin from Coinbase, Mastercard, Stripe, Visa and others launches…” 5. Are men or […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#12",
      "title": "What should I ask Moxie Marlinspike?",
      "published": "2026-10-01T14:30:41+00:00",
      "summary": "Yes I will be doing a Conversation with him, live at the Roots of Progress event next week. From Wikipedia: Moxie Marlinspike is an American entrepreneur, cryptographer, and computer security researcher. Marlinspike is the creator of Signal, co-founder of the Signal Technology Foundation, and served as the first CEO of Signal Messenger LLC. He is […] The post What should I ask Moxie Marlinspike? a"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "The top private sector employers of economics graduates",
-     "published": "2026-10-01T06:23:03+00:00",
-     "summary": "Here is the link. The post The top private sector employers of economics graduates appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Merging LLMs and economics research",
-     "published": "2026-10-01T04:31:10+00:00",
-     "summary": "We introduce an open-source workflow that enables an LLM to reproduce, improve, and extend an economics article using the article’s published replication package. First, the workflow attempts to reproduce the original calculations, checks for discrepancies with published findings, and performs automated sensitivity analysis. Across 4,452 published replication packages for five economics journals, "
     }
    ]
   },

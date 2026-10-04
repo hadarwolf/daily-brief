@@ -18,117 +18,117 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "OPEC+ Set to Keep Quotas Steady in November, Delegates Say",
+     "published": "2026-10-04T07:49:48+00:00",
+     "summary": "Major OPEC+ nations have an agreement in principle to keep oil production quotas unchanged next month, as conflict in the Middle East continues to shutter swaths of the group’s output."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Ethiopia Recaptures Tigray Airport as Northern Rebels Retreat",
+     "published": "2026-10-04T07:47:44+00:00",
+     "summary": "Ethiopian forces seized control of the airport and other parts of Mekelle, the capital of the northern Tigray region, as leaders of the Tigray People’s Liberation Front retreated from the city, a major turning point in the renewed conflict."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
      "published": "2026-10-04T00:00:00+00:00",
      "summary": "Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#3",
      "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
      "published": "2026-10-03T23:24:07+00:00",
      "summary": "The US and Mexico have jointly deployed military personnel in a border area in Texas as part of “mirror operations,” the Mexican government said Saturday."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote",
      "published": "2026-10-03T22:35:24+00:00",
      "summary": "President Luiz Inácio Lula da Silva and right-wing challenger Flávio Bolsonaro remain locked in a tight race as Brazil prepares to vote in Sunday’s election, according to three new polls."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly",
      "published": "2026-10-03T19:00:00+00:00",
      "summary": "Borrowing is getting harder for companies."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "Bloomberg This Weekend 10/3/2026",
      "published": "2026-10-03T18:34:11+00:00",
      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The Atlantic Staff Writer Vivian Salama, “The Profiler” Online Job Scam Hunter Jay Jones, UMich Professor of Public Policy and Economics Justin Wolfers and Fmr. Deputy Assistant Secretary of Defense "
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Tiny Hotels Are Luxury Travel’s Next Big Thing",
      "published": "2026-10-03T16:35:28+00:00",
      "summary": "Bloomberg Pursuits reporter Sarah Rappaport tells Bloomberg This Weekend that luxury travelers are increasingly seeking tiny hotels with as few as one to six rooms, combining the privacy of a villa with personalized high-end hotel service. Speaking with hosts David Gura and Christina Ruffini, Rappaport says the trend is spreading across Europe and the US as travelers seek exclusivity, fewer crowds"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
      "published": "2026-10-03T16:28:40+00:00",
      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "By The Way: Headlines You May Have Missed",
      "published": "2026-10-03T16:27:47+00:00",
      "summary": "People starting to speak like AI chatbots, AI anxiety spilling into therapists' offices, NYC's AI office boom a bust for young job hunters and Tinder rolls out group dating for younger users. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "US Military Buildup Raises Iran Escalation Risk",
      "published": "2026-10-03T15:25:03+00:00",
      "summary": "Washington Institute research director Dana Stroul tells Bloomberg This Weekend that the US military buildup in the Middle East, including a third aircraft carrier, is expanding President Donald Trump’s options as diplomacy with Iran remains stalled and Washington weighs its approach to the Houthis in Yemen. Speaking with hosts David Gura and Christina Ruffini, Stroul says US economic sanctions an"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "Fake Jobs Put Job Seekers at Risk of Identity Theft",
      "published": "2026-10-03T15:15:35+00:00",
      "summary": "Fraud investigator Jay Jones, known online as “The Profiler,” tells Bloomberg This Weekend that AI is helping scammers create increasingly convincing fake recruiters and job listings that can lead victims to surrender money and sensitive personal information. Speaking with hosts David Gura and Christina Ruffini, Jones says he has helped remove more than 58,000 fraudulent job listings and advises a"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#12",
      "title": "Egypt Flagged Hamas Threat Before Oct. 7",
      "published": "2026-10-03T15:09:17+00:00",
      "summary": "Atlantic Staff Writer Vivian Salama tells Bloomberg This Weekend that Egypt’s then-intelligence chief Abbas Kamel made an unusual 67-minute trip to Israel less than two weeks before the Oct. 7, 2023, attack to warn Israeli officials that intelligence indicated Hamas was mobilizing for a major assault. Speaking with hosts David Gura and Christina Ruffini, Salama says Egypt was among several regiona"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
      "title": "Why Philosophers Are Worried About AI",
      "published": "2026-10-03T14:03:58+00:00",
      "summary": "Debate over artificial intelligence has largely focused on whether machines could become too powerful. Harvard philosopher Michael Sandel argues that a more immediate question is whether AI changes humans themselves: weakening authentic connection, independent thought and the ways people understand meaning and purpose. Universities are already confronting that challenge as students increasingly us"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#14",
      "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
      "published": "2026-10-03T13:00:00+00:00",
      "summary": "As Paramount Skydance Corp. and Oracle Corp. vault into the ranks of corporate America’s biggest borrowers, their links to the same man — billionaire Larry Ellison — are starting to stir angst on Wall Street."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#15",
      "title": "Can AI Outrun America’s Deficit Problem?",
      "published": "2026-10-03T12:03:55+00:00",
      "summary": "National Economic Council Director Kevin Hassett argues that the economic benefits of AI may be greater than current data show, comparing today’s dynamics with the early internet era, when improvements in computing were difficult to capture in official statistics. At the same time, Hassett says reducing the federal workforce can generate budget savings, and he remains optimistic about economic gro"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#16",
      "title": "Pakistan, India Trade Accusations Over Deaths at Border",
      "published": "2026-10-03T11:50:43+00:00",
      "summary": "Pakistan said it summoned India’s chargé d’affaires on Saturday to protest against the killing of two Pakistani civilians by India’s Border Security Force."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#17",
      "title": "London Gold Body’s Legal Fight Exposes Threat to Bullion Market",
      "published": "2026-10-03T10:45:00+00:00",
      "summary": "The industry body that sets the rules for the world’s biggest gold market faces an existential legal battle in a London courtroom next week, in a case that could have far-reaching implications for how the industry polices its supply chain."
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#18",
      "title": "India Mulls Commodity Derivatives Changes to Boost Liquidity",
      "published": "2026-10-03T09:47:10+00:00",
      "summary": "India’s markets regulator is considering easing position limits for non-agricultural commodity derivatives and changing settlement rules for some farm contracts, as it seeks to deepen trading and attract more genuine hedgers."
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Israel’s Supreme Court Overturns Election Ban on Arab Parties",
-     "published": "2026-10-03T09:44:49+00:00",
-     "summary": "Israel’s highest court unanimously reversed a ban on Arab parties from participating in elections slated for the end of October."
-    },
-    {
-     "ref": "bloomberg_markets#18",
-     "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
-     "published": "2026-10-03T07:32:16+00:00",
-     "summary": "Malaysia’s defense minister said the government is considering spending more than 1 billion ringgit ($245 million) on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported."
     },
     {
      "ref": "bloomberg_markets#19",
@@ -144,57 +144,51 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Germany’s Merz arrives in Kyiv to show support for Ukraine",
+     "published": "2026-10-04T07:54:21+00:00",
+     "summary": "Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe"
+    },
+    {
+     "ref": "ft_home#1",
+     "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
+     "published": "2026-10-04T04:01:05+00:00",
+     "summary": "Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets"
+    },
+    {
+     "ref": "ft_home#2",
+     "title": "Today’s youth would like to give back modernity, thank you very much",
+     "published": "2026-10-04T04:00:15+00:00",
+     "summary": "Has any previous generation been so down on the present?"
+    },
+    {
+     "ref": "ft_home#3",
+     "title": "Bosnia elections pit EU hopes against Russian influence",
+     "published": "2026-10-04T04:00:15+00:00",
+     "summary": "Serbian nationalists find ready support from Moscow and a US eager for deals"
+    },
+    {
+     "ref": "ft_home#4",
+     "title": "Dear all: how bosses should talk to the troops",
+     "published": "2026-10-04T04:00:07+00:00",
+     "summary": "And what they should always try to avoid"
+    },
+    {
+     "ref": "ft_home#5",
+     "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+     "published": "2026-10-04T04:00:07+00:00",
+     "summary": "DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover"
+    },
+    {
+     "ref": "ft_home#6",
      "title": "China closes hundreds of banks to bolster financial system",
      "published": "2026-10-04T02:00:04+00:00",
      "summary": "More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part"
     },
     {
-     "ref": "ft_home#1",
-     "title": "Japanese and Korean shipbuilders deploy robots to take on China",
-     "published": "2026-10-04T01:00:04+00:00",
-     "summary": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington"
-    },
-    {
-     "ref": "ft_home#2",
+     "ref": "ft_home#7",
      "title": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight",
      "published": "2026-10-03T17:21:11+00:00",
      "summary": "Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit"
-    },
-    {
-     "ref": "ft_home#3",
-     "title": "The town where 94% voted for Lula — and some now waver",
-     "published": "2026-10-03T11:00:00+00:00",
-     "summary": "Despite his hallowed status, some voters are growing disaffected with Brazil’s president in Guaribas, the cradle of his flagship Bolsa Família welfare programme"
-    },
-    {
-     "ref": "ft_home#4",
-     "title": "China launches anti-dumping probe into European chemical exports",
-     "published": "2026-10-03T10:16:42+00:00",
-     "summary": "Latest tit-for-tat move follows three similar investigations launched by the EU last week"
-    },
-    {
-     "ref": "ft_home#5",
-     "title": "How airlines try to weed out rogue pilots",
-     "published": "2026-10-03T08:05:08+00:00",
-     "summary": "Background checks and psychological testing aim to ensure that only those fit to fly take the controls"
-    },
-    {
-     "ref": "ft_home#6",
-     "title": "The right and wrong lessons to learn from Spain’s housing crisis",
-     "published": "2026-10-03T04:00:48+00:00",
-     "summary": "Evictions and spiralling rents are the symptom, not the underlying disease"
-    },
-    {
-     "ref": "ft_home#7",
-     "title": "China, America and the new Great Game",
-     "published": "2026-10-03T04:00:30+00:00",
-     "summary": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control"
-    },
-    {
-     "ref": "ft_home#8",
-     "title": "A Londoner’s guide to hating London",
-     "published": "2026-10-03T04:00:10+00:00",
-     "summary": "Complaining about the capital is a national pastime — for good reason"
     }
    ]
   },
@@ -204,152 +198,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "האקזיט של זלמן: 50% מרשת הנקניקיות החרדית זלמנ'ס יימכרו לפי שווי של 7 מיליון שקל לקמרי קמעונאות",
+     "published": "2026-10-04T07:23:53+00:00",
+     "summary": "קמרי קמעונאות מחזיקה 130 חנויות נוחות הפועלות תחת המותגים סבן אקספרס, קנדילנד, סוויט&טויס וחממה שושלת פיצוחים ■ לרשת זלמנ'ס 12 סניפים והמטרה של היא לפתוח 40 סניפים ברחבי הארץ"
+    },
+    {
+     "ref": "themarker#1",
+     "title": "רק שרה אחת, בכל העולם, יכולה להופיע כך — ולדעת שהיא לא תפוטר",
+     "published": "2026-10-04T07:06:33+00:00",
+     "summary": "מרגע שהג'וב במשרד התחבורה אויש, אין משקל לחיים של 172 נוסעים — וגם לא של 1,200 ■ רוצים להמריא ולנחות בשלום? בפעם הבאה תצביעו נכון"
+    },
+    {
+     "ref": "themarker#2",
+     "title": "אחרי שבע שנים של מחדל בביטוח הסיעודי, לאף אחד אין באמת רצון לפתור אותו",
+     "published": "2026-10-04T05:09:09+00:00",
+     "summary": "המספרים שחושפים שיותר ישראלים מוכרים בהפסד את הדירה שקנו, המרוויחה הגדולה מפריצות סוכני AI, המניה שלפי ג'יי.פי מורגן תעלה ב–50% — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
+    },
+    {
+     "ref": "themarker#3",
      "title": "סוף עידן הין הזול, גל ההנפקות — והשוק שממתין בצד השני של בועת ה–AI",
      "published": "2026-10-04T03:24:38+00:00",
      "summary": "אסטרטגיית ה–Yen Carry נמשכה כמעט 30 שנה, אך העלאת הריבית האחרונה ביפן הזכירה שהיא לא תימשך לנצח ■ למי ששואל לאן ילך הכסף אם סיפור ה–AI יתקרר, כבר יש תשובה אחת שממתינה בשקט"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#4",
      "title": "דילמת השלב הבא בפרויקט המטרו: האם לאפשר לחברות סיניות להשתתף?",
      "published": "2026-10-04T03:17:40+00:00",
      "summary": "במכרזי השלב השני להקמת המטרו בגוש דן ייבחרו החברות שיספקו את הרכבות ואת מערכות האיתות, הבקרה והחשמל ■ התמודדות של חברות סיניות במכרזים, בסך 30 מיליארד שקל, יכולה להוזיל את הפרויקט — אך גם לחשוף אותן למידע רגיש על תשתיות בישראל"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#5",
      "title": "התרגילים לא יעזרו: אסור לאפשר לאלפרד אקירוב לרכוש את השליטה בכלל ביטוח",
      "published": "2026-10-04T03:16:20+00:00",
      "summary": "מחיקת אלרוב מהבורסה תפתור לאקירוב כמה בעיות ברכישת כלל ביטוח, אבל השליטה ב–450 מיליארד השקלים שהיא מנהלת דורשת גם נורמות ממשל תקין ויושרה ■ המפקח על הביטוח עמית גל לא יכול להתעלם משיטות הניהול, העימותים והיסטוריית ניגודי העניינים שלו ■ אקירוב: \"אין לי יכולת להתערב בניהול כספי עמיתים\""
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#6",
      "title": "רשות שוק ההון קובעת: מודל ביטוח הסיעוד אינו יציב לאורך זמן, יש לעבור לחיסכון סיעודי",
      "published": "2026-10-04T03:15:24+00:00",
      "summary": "הרשות ממליצה לאמץ פתרון של קרן חיסכון, שבה כל אדם יחסוך עבור עצמו עד לגיל 70 ■ משרד האוצר חולק על ההמלצה, וסבור כי לאחר החמרות התנאים בשנים האחרונות מודל ביטוח הסיעוד יציב דיו ■ המחלוקת תוכרע על ידי הממשלה הבאה"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#7",
      "title": "המרוויחה הגדולה מפריצות סוכני AI: כך הגיעה פאלו אלטו לשווי של טריליון שקל",
      "published": "2026-10-04T03:14:26+00:00",
      "summary": "ענקית הסייבר פאלו אלטו התחילה להיסחר בבורסת תל אביב בפברואר לאחר שהשלימה את רכישת סייברארק ■ מאז עלתה המניה בכ–170% — וביום חמישי זינקה ב–5.5% ועשתה היסטוריה כשחצתה את רף השווי של טריליון שקל, גבוה בהרבה מהבאה אחריה, טבע ■ פאלו אלטו נהנית מרוח גבית מפריצות סוכני ה–AI של חברות הבינה המלאכותית"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#8",
      "title": "המשחק הגדול בעולם כבר משך משקיעים למניית Take–Two - שלפי ג'יי.פי מורגן תעלה ב–50%",
      "published": "2026-10-04T03:07:40+00:00",
      "summary": "דווקא בשנה שבה ייצא המשחק GTA 6, מניית Take–Two בירידה — אחרי שהציפיות מהמשחק תומחרו במניה בשנים האחרונות ■ בנק ג'יי.פי מורגן ערך סקר בקרב אלף גיימרים בארה\"ב, והגיע למסקנה ששוק ההון מפספס קטליזטור חשוב ■ מצב המשחק ברשת, שיושק בהמשך, יפתח ערוץ הכנסות חדש — אך לא ברור מתי"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#9",
      "title": "\"בהייטק לא יוצאים בחמש\": עובד נפצע במשחק כדורגל, בית הדין קבע כי הארוע הוא תאונת עבודה",
      "published": "2026-10-04T03:06:03+00:00",
      "summary": "מנהל פיתוח נפגע במשחק כדורגל שבועי של עובדים בחברה — ובית הדין האזורי לעבודה הכיר בפציעה כתאונת עבודה ■ בדעת רוב נקבע כי למעסיק הייתה מעורבות אקטיבית במימון ופרסום המשחק והיה לו אינטרס בסינרגיה בין המחלקות"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#10",
      "title": "בנק שלא רוצה להרוויח עליכם: האם המודל הזה יכול לעבוד בישראל?",
      "published": "2026-10-04T03:05:24+00:00"
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#11",
      "title": "כשסיים את לימודיו לא התקבל שם לעבודה. עכשיו הוא צפוי להתמנות למנכ\"ל",
      "published": "2026-10-04T03:04:45+00:00",
      "summary": "דירקטוריון גולדמן סאקס דן באפשרות שנשיא החברה, ג'ון וולדרון, יחליף את המנכ\"ל דיוויד סולומון כבר בסוף השנה הבאה, לפי דיווח ב\"וול סטריט ג'ורנל\" ■ וולדרון בן ה-57 מכהן בתפקיד סמנכ\"ל התפעול של הבנק ועובד צמוד לסולומון"
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#12",
      "title": "הרבה יותר ישראלים מוכרים בהפסד את הדירה שקנו: המספרים ב–24 ערים נחשפים",
      "published": "2026-10-04T03:03:37+00:00",
      "summary": "בדיקת כל מכירות הדירות מאז 2022 מציגה קפיצה פי ארבעה בשיעור הדירות שנמכרות במחיר ריאלי נמוך מזה שבו נקנו ■ הסיבות העיקריות: משקיעים שקנו בשיא המחירים וחותכים הפסדים, ומעבר מדירות ישנות לדירות עם ממ\"ד ■ \"זה תיקון כמו בשוק ההון\""
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#13",
      "title": "\"הרבה חברות בינה מלאכותית לא יחזיקו מעמד, אך אלה שיישארו יתחזקו עוד יותר\"",
      "published": "2026-10-04T03:01:34+00:00",
      "summary": "תשואות האג\"ח הממשלתיות בארה\"ב ממשיכות להדאיג את המשקיעים, אך שוק המניות בוול סטריט לא מראה סימנים של משבר, על אף הפחד מאינפלציה ■ אורי ברקאי, מתכנן פיננסי בכיר בארבע עונות: \"אם יימצא פתרון למצב באיראן תשואות האג\"ח ירדו במהירות\""
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#14",
      "title": "במשרד התחבורה מודים: נסמכים רק על תצהירים של חברות התעופה הזרות",
      "published": "2026-10-03T21:29:22+00:00",
      "summary": "השיחה נקבעה עקב ביקורת חריפה שנמתחה בנוגע לאחריות המשרד על בדיקת הטייסים שנכנסים לישראל ■ ראש אגף הביטחון במשרד התחבורה, תמיר אורי, אמר כי \"אין 100% שזה לא יקרה שוב\" ■ מאז המקרה במשרד התחבורה לא נקטו צעדים, אלא רק \"חידדו הנחיות לחברות התעופה הזרות\""
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#15",
      "title": "רגב מגלגלת אחריות: אבטחת הטיסות הזרות באחריות גורמי הביטחון",
      "published": "2026-10-03T18:30:18+00:00",
      "summary": "בריאיון לכאן 11 אמרה שרת התחבורה כי \"מי שאמור לבצע את האימות זה גורמי המודיעין, ואנחנו לא גורמי מודיעין\" ■ מאז ניסיון הפיגוע בטיסת פליי דובאי 1073 מדובאי לנתב\"ג ביום רביעי שעבר השרה לא הציגה לציבור ממצאים הנוגעים לחקירת ניסיון הפיגוע"
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#16",
      "title": "היו\"ר המודח של נתיבי איילון, עידן דוד, נחקר במשטרה בחשד לקבלת דבר במרמה ובשימוש במסמך מזויף",
      "published": "2026-10-03T17:00:14+00:00",
      "summary": "עידן דוד חשוד בהצגת נתונים עסקיים כוזבים ומסמכים מזויפים כדי לעמוד בתנאי הסף לתפקיד יו\"ר נתיבי איילון ■ דוד הודח מתפקידיו בחברה, ובתום חקירתו בלהב 433 שוחרר בתנאים מגבילים"
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#17",
      "title": "יו\"ר הבנק הפדרלי שותק, אז הסגנים שלו מבהירים שאפשר לחכות קצת עם העלאת ריבית",
      "published": "2026-10-03T15:57:49+00:00",
      "summary": "סגן יו\"ר הבנק פיליפ ג'פרסון על החלטה על העלאת ריבית נוספת: \"עלול לארוך זמן\" ■ סגנית היו\"ר מישל באומן: \"לא רואה כעת צורך בהול לפעולה נוספת\""
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#18",
      "title": "תחזיקו חזק: חמישה גרפים חושפים מה מתרחש בשוק המניות מתחת לפני השטח",
      "published": "2026-10-03T15:11:11+00:00",
      "summary": "לאחר שהתשואה על אג\"ח ל–10 שנים של ממשלת ארה\"ב עלתה לשיא שלא נראה מאז 2002, בשוק המניות מתכוננים לטלטלה ■ אולם אם מביטים על מה שמסתתר מתחת למדדי המניות הגדולים, רואים שהטלטלה כבר החלה"
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#19",
      "title": "הצלחה או אשליה: האם בום ה–AI מציל את ההון סיכון או מסתיר את המשבר?",
      "published": "2026-10-03T14:41:05+00:00",
      "summary": "דו\"ח פיצ'בוק לרבעון השלישי מראה שהכסף שזורם להון סיכון בארה\"ב מתרכז בקומץ חברות וקרנות ■ הקרנות כמעט לא מחזירות כסף למשקיעים, חדי הקרן מ-2021 עדיין תקועים, קרנות חדשות מתקשות לקום, ורק יזמי ה-AI נהנים מכוח מיקוח מול המשקיעים"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#20",
      "title": "לבנק הגדול בשווייץ נמאס: UBS שוקל לעזוב את המדינה בגלל החוק החדש",
      "published": "2026-10-03T09:57:10+00:00",
      "summary": "דרישות להגדלת ההון של הבנק עבור היחידות הזרות שלו מעיבה על UBS — עד כדי כך שהוא בוחן אפשרויות קיצוניות ■ מנכ\"ל הבנק לא מוכן לוותר על השאיפות הגלובליות: \"התכווצות היא לא אופציה\""
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#21",
      "title": "לראשונה: מודלי AI מנצחים בני אדם בחיזוי אירועים בעולם",
      "published": "2026-10-03T07:31:25+00:00",
      "summary": "חזאי בינה מלאכותית קוראים חדשות ומנתחים נתונים באופן דומה מאוד לחזאים אנושיים, אך עושים זאת בהיקף נרחב ובמהירות גבוהה בהרבה ■ זה מאפשר להם לנמק את התחזיות שלהם באופן מפורש ולהשתפר כל הזמן"
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#22",
      "title": "נוסעת בטיסת האימה של פליי דובאי: \"אף אחד לא התקשר אלינו מהמדינה, אבל אני כבר לא יודעת למה לצפות\"",
      "published": "2026-10-03T05:57:59+00:00",
      "summary": "מטוס נוסף למטען של הישראלים בדובאי ימריא היום מנתב\"ג ■ שתי טיסות השבה מדובאי נחתו בארץ; חברות התעופה הישראליות יתגברו טיסות"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#23",
      "title": "הנתיבים המהירים וחניון חנה וסע חדש בראשון לציון נפתחים. זה לא מה שיפתור את הפקק",
      "published": "2026-10-03T04:08:58+00:00",
      "summary": "ביום ראשון ייפתח חניון חנה וסע חדש בראשון לציון שכולל 3,500 מקומות חניה, וממנו ייצאו אוטובוסים שייסעו למקומות תעסוקה בנתיבים מהירים ■ מתי מכוניות פרטיות יוכלו לנסוע בנתיבים המהירים — ומה תהיה האגרה? ■ שאלות ותשובות"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#24",
      "title": "ביקור באנטוורפן, בחזית המאבק האירופי נגד סיגריות מזויפות",
      "published": "2026-10-03T04:03:44+00:00",
      "summary": "מיקומה הגיאוגרפי של בלגיה ותפקידה כמרכז לוגיסטי הפך אותה ליעד של ארגוני פשיעה באירופה ■ אחד מענפי הפעילות הצומחים מגלגל טבק ורווחים בקצב גובר: \"עבור ארגוני פשיעה זה כנראה אחד התחומים המעניינים ביותר להיות בהם, בגלל הרווחים והסיכון הנמוך\""
-    },
-    {
-     "ref": "themarker#22",
-     "title": "וול סטריט ננעלה בעליות על רקע דו\"ח תעסוקה מאכזב; נאסד\"ק התחזק ביותר מ–1%",
-     "published": "2026-10-02T20:02:00+00:00",
-     "summary": "נאסד\"ק השלים שבוע חיובי שלישי ברציפות, אך דאו ג'ונס ומדד S&P 500 ירדו בחמשת ימי המסחר האחרונים ב–1.3% ו–0.3%, בהתאמה ■ הברנט נסחר על סף 103 דולר לחבית לאחר שמדינות G7 הודיעו כי ישחררו 100 מיליון חביות נפט על פני ארבעת החודשים הבאים ■ תשואות האג\"ח של ממשלת ארה\"ב שבו לעלות ■ תחזית מאכזבת בפילה את מניית נייקי בכמעט 5% ■ השווי של אנבידיה קפץ לזמן קצר מעל ל–5.7 טריליון דולר"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "\"ככל שתדעי פחות תאריכי ימים\": הנשים שלכודות במכרות הזהב בקולומביה",
-     "published": "2026-10-02T16:47:17+00:00",
-     "summary": "הביקוש העולמי הגואה לזהב הפך את באחו קאוקה שבקולומביה למעין \"מערב פרוע\" שבו גברים חמושים שולטים בקרקע, במיכון ובכללי חיי היומיום ■ מי שסובלות מהמצב במיוחד הן נשים רבות שעובדות בתנאי עבדות"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "התאחדות האחיות והאחים בבריטניה מנתקת את הקשר עם טבע הישראלית",
-     "published": "2026-10-02T15:33:56+00:00",
-     "summary": "הארגון נימק את החלטתו בקשרים של יצרנית התרופות עם צה\"ל ובהתנהלותה בשנים האחרונות, שבגינה ספגה קנסות בסך כמעט מיליארד ליש\"ט באיחוד האירופי ובארה\"ב ■ על ההתאחדות הופעלו באחרונה לחצים מצד ארגונים פרו־פלסטיניים, שבירכו על ההחלטה ■ טבע: \"חולקים על ההחלטה, נמשיך לסייע למטופלים לקבל גישה לתרופות\""
     }
    ]
   },
@@ -541,9 +535,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 84849.0703,
-   "prev_close": 84497.2109,
-   "change_pct": 0.42,
+   "last": 85162.9922,
+   "prev_close": 84763.5781,
+   "change_pct": 0.47,
    "as_of": "2026-10-04"
   }
  },
