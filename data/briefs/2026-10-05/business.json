@@ -1,0 +1,86 @@
+{
+  "section": "business",
+  "date": "2026-10-05",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-05T04:05:24+00:00",
+  "stories": [
+    {
+      "id": "ellison-implicit-guarantee",
+      "kind": "analysis",
+      "en": {
+        "headline": "The Invisible Guarantee Behind Paramount's Record Bond Sale",
+        "scroll": "Paramount sold a record $52 billion in bonds at steep rates, and traders are pricing in an unwritten bet: that Larry Ellison would rescue the media company his son runs.",
+        "coffee": "Paramount just sold $52 billion in bonds in one of the largest corporate debt deals of the year, and according to the Wall Street Journal, it paid through the nose to do it — a sign of how much more expensive it has become for corporate America to borrow as interest rates climb. Oracle, separately, added its own $52 billion in debt last week to help fund its acquisition of Warner Bros Discovery.\n\nThe more interesting story is who's standing behind the money. TheMarker reports that many investors believe Larry Ellison — Oracle's chairman and one of the world's richest men — would personally step in to support Paramount, which is controlled by his son David, if the company ever hit financial trouble. No contract says that. No guarantee is filed with regulators. It's a pure market assumption, and assumptions like it get built into bond prices every day: investors demand a lower risk premium than the company's own numbers would justify, because they're betting on a backstop that exists only in reputation.\n\nThat's worth watching as rates keep climbing and the broader dealmaking boom — fueled by exactly this kind of cheap optimism — shows its first real signs of cooling.",
+        "deep": "## Background: Two Separate $52 Billion Numbers\n\nIn the same stretch of days, two companies tied to the same family each raised roughly $52 billion in debt. Oracle — chaired by Larry Ellison — took on $52 billion in additional debt last week to help finance its acquisition of Warner Bros Discovery, according to TheMarker. Paramount, meanwhile, sold its own $52 billion in bonds, in what the Wall Street Journal called one of the largest and most expensive corporate bond deals of the year. Paramount is controlled by David Ellison, Larry's son.\n\nIt's worth being precise about what the input actually says, since the two $52 billion figures are easy to conflate: they are two different transactions, from two different companies, for two different purposes — one funding an acquisition, one a standalone bond sale. What links them is not the number but the name.\n\n## The Story: Pricing a Promise That Isn't Written Down\n\nThe Journal's framing of the Paramount deal is a lesson in how monetary policy actually bites: when benchmark rates rise, it's not that credit \"disappears\" — it's that it gets repriced. A company that could borrow cheaply a few years ago now has to offer bondholders a higher yield to compensate for both the higher risk-free rate and, often, a wider credit spread — the premium investors charge above that risk-free rate for a company's specific default risk. The Journal notes other large corporate issuers will feel the same squeeze Paramount just did.\n\nBut TheMarker's reporting adds a second layer that's less about monetary policy and more about market psychology: a number of investors are, in effect, pricing Paramount's bonds not purely on Paramount's own balance sheet, but on the assumption that Larry Ellison — whose son David runs the company — would personally intervene if Paramount got into trouble. That's a textbook example of what credit analysts call key-person risk running in reverse: normally the concern is that a company is too dependent on one individual and could suffer if that person left. Here, investors are doing the opposite — pricing in extra safety because of a person's informal association with the company, even though he owes it nothing.\n\nThis is sometimes described as an implicit guarantee: a backstop that shapes the price of debt without ever appearing in a bond's legal covenants, a credit-rating action, or a regulatory filing. Governments created exactly this problem with \"too big to fail\" banks — markets assumed Washington would step in, so banks could borrow more cheaply than their actual risk warranted, until 2008 tested that assumption. A billionaire father is a much smaller, more personal version of the same dynamic, but the mechanism is identical: a belief about who might show up with a checkbook changes what the market charges today.\n\n## Second-Order Effects: When a Family Relationship Becomes a Credit Input\n\nIf that assumption is wrong, or if Ellison simply never needs to act on it, nothing happens — the mispricing just sits there quietly, a bit of excess optimism baked into a bond price. But if Paramount ever did hit real trouble, bondholders who priced in a rescue that doesn't materialize would reprice fast and hard, because the thing they were actually relying on was never contractual. That's the core problem with any implicit guarantee: it works until the moment it's tested, and nobody can be sure in advance whether it will hold.\n\nThere's also a related-party dimension worth flagging: Oracle's debt-funded purchase of Warner Bros Discovery and Paramount's own borrowing are happening inside the same extended family's orbit of companies at the same time rates are rising on everyone. That concentration is itself a factor credit investors are supposed to weigh, separate from whether any informal rescue ever happens.\n\n## What to Watch Next\n\nThe Financial Times is already reporting that the broader M&A boom — which ran hot earlier this year — is losing momentum as interest-rate rises, AI-related anxiety, and election-related uncertainty cool corporate \"animal spirits.\" Paramount's expensive bond sale is a small piece of that same story: debt that funds acquisitions and expansion is simply pricier than it was. Watch whether Paramount's bond spreads move independently of its own earnings and more in line with headlines about Larry Ellison's wealth or Oracle's own debt load — that would be the clearest sign the \"Ellison discount\" is real and being actively traded, not just a theory."
+      },
+      "he": {
+        "headline": "הערבות הבלתי כתובה מאחורי מכירת האג\"ח השיא של פראמאונט",
+        "scroll": "פראמאונט מכרה אג\"ח שיא של 52 מיליארד דולר בריבית גבוהה, והשוק מתמחר הימור לא כתוב: שלארי אליסון יחלץ את חברת המדיה שבנו מנהל.",
+        "coffee": "פראמאונט מכרה אג\"ח (bonds) בהיקף שיא של 52 מיליארד דולר - אחת מעסקאות החוב הגדולות של השנה - ולפי הוול סטריט ג'ורנל שילמה על כך ריבית גבוהה במיוחד, עדות לכך שההלוואות לחברות אמריקאיות התייקרו ככל שהריבית עולה. במקביל, אורקל, בניהולו של לארי אליסון, גייסה בשבוע שעבר חוב נוסף בהיקף דומה - 52 מיליארד דולר - כדי לממן את רכישת וורנר ברדרס דיסקברי.\n\nהעניין האמיתי הוא מי עומד מאחורי הכסף. לפי TheMarker, לא מעט משקיעים מניחים שאליסון - יו\"ר אורקל ואחד האנשים העשירים בעולם - יתערב אישית כדי לתמוך בפראמאונט, שבנו דיוויד עומד בראשה, אם החברה תיקלע לקשיים. אין על כך חוזה, ואין ערבות שהוגשה לרגולטור. זו הנחה טהורה של השוק, אבל הנחות כאלה מתומחרות הלכה למעשה באג\"ח: המשקיעים דורשים פרמיית סיכון (risk premium) נמוכה יותר ממה שנתוני החברה לבדה היו מצדיקים, כי הם מהמרים על רשת ביטחון שקיימת רק במוניטין.\n\nכדאי לעקוב אחר כך ככל שהריבית ממשיכה לעלות, וגל המיזוגים והרכישות הרחב יותר - שניזון בדיוק מאופטימיות זולה כזו - מראה סימני האטה ראשונים.",
+        "deep": "## רקע: שני מספרים נפרדים של 52 מיליארד דולר\n\nבאותם ימים ממש, שתי חברות הקשורות לאותה משפחה גייסו כל אחת כ-52 מיליארד דולר בחוב. אורקל - שבראשה עומד לארי אליסון כיו\"ר - נטלה, לפי TheMarker, חוב נוסף בהיקף 52 מיליארד דולר בשבוע שעבר כדי לסייע במימון רכישת וורנר ברדרס דיסקברי. פראמאונט, מצידה, מכרה אג\"ח (bonds) משלה בהיקף 52 מיליארד דולר, במה שהוול סטריט ג'ורנל מתאר כאחת מעסקאות האג\"ח הגדולות והיקרות ביותר של השנה. פראמאונט נמצאת בשליטת דיוויד אליסון, בנו של לארי.\n\nחשוב להיות מדויקים לגבי מה שעולה מהמידע עצמו, כי קל לבלבל בין שני המספרים הזהים: מדובר בשתי עסקאות שונות, של שתי חברות שונות, לשתי מטרות שונות - אחת למימון רכישה, השנייה מכירת אג\"ח עצמאית. מה שמחבר ביניהן הוא לא המספר אלא השם המשפחתי.\n\n## הסיפור: לתמחר הבטחה שלא כתובה בשום מקום\n\nהאופן שבו הוול סטריט ג'ורנל מתאר את עסקת פראמאונט הוא שיעור במנגנון שבאמצעותו המדיניות המוניטרית באמת \"נושכת\": כשהריבית הבסיסית עולה, זה לא שהאשראי \"נעלם\" - הוא פשוט מתומחר מחדש. חברה שיכלה ללוות בזול לפני מספר שנים נאלצת כעת להציע לבעלי האג\"ח תשואה גבוהה יותר, כדי לפצות גם על עליית הריבית חסרת הסיכון וגם, לרוב, על הרחבת מרווח האשראי (credit spread) - הפרמיה שמשקיעים דורשים מעל אותה ריבית חסרת סיכון, בהתאם לסיכון חדלות הפירעון הספציפי של החברה. הוול סטריט ג'ורנל מציין שמנפיקי אג\"ח גדולים נוספים ירגישו את אותה התייקרות שפראמאונט כבר חוותה.\n\nאבל הדיווח של TheMarker מוסיף שכבה נוספת, שקשורה פחות למדיניות מוניטרית ויותר לפסיכולוגיה של השוק: חלק מהמשקיעים, למעשה, מתמחרים את האג\"ח של פראמאונט לא רק לפי המאזן העצמאי של החברה, אלא לפי ההנחה שלארי אליסון - שבנו דיוויד מנהל את החברה - יתערב אישית אם פראמאונט תיקלע לצרות. זוהי דוגמת ספר-לימוד ל\"סיכון איש מפתח\" (key-person risk) הפועל בכיוון ההפוך: בדרך כלל החשש הוא שחברה תלויה מדי באדם מסוים ועלולה להיפגע אם הוא יעזוב. כאן המשקיעים עושים בדיוק ההפך - מתמחרים ביטחון נוסף בגלל זיקה בלתי פורמלית של אדם לחברה, אף שהוא אינו חייב לה דבר.\n\nתופעה כזו מכונה לעיתים ערבות משתמעת (implicit guarantee): רשת ביטחון שמעצבת את מחיר החוב מבלי שהיא מופיעה אי פעם בתניות האג\"ח (covenants), בדירוג האשראי, או בדיווח רגולטורי רשמי. בדיוק את הבעיה הזו יצרו ממשלות עם בנקים \"גדולים מכדי ליפול\": השוק הניח שוושינגטון תתערב, ולכן הבנקים יכלו ללוות בזול יותר ממה שהסיכון האמיתי שלהם הצדיק - עד שההנחה הזו נבחנה במשבר 2008. אב מיליארדר הוא גרסה קטנה ואישית הרבה יותר של אותה דינמיקה, אבל המנגנון זהה: אמונה לגבי מי עשוי להגיע עם פנקס הצ'קים משנה את המחיר שהשוק גובה כבר היום.\n\n## השפעות מסדר שני: כשקרבה משפחתית הופכת לקלט באשראי\n\nאם ההנחה הזו שגויה, או אם אליסון פשוט לעולם לא ייאלץ לפעול לפיה, שום דבר לא יקרה - התמחור החסר פשוט יישאר שם בשקט, כמעט אופטימיות עודפת שמוטמעת במחיר האג\"ח. אבל אם פראמאונט אי פעם תיקלע לקשיים אמיתיים, בעלי אג\"ח שתמחרו חילוץ שלא מתממש יתקנו את המחיר מהר וחזק, כי הדבר שעליו הם באמת הסתמכו מעולם לא היה חוזי. זו הבעיה המרכזית בכל ערבות משתמעת: היא עובדת עד הרגע שבו היא נבחנת, ואף אחד לא יכול לדעת מראש אם היא תחזיק מעמד.\n\nיש כאן גם ממד של סיכון צד קשור (related-party risk) שראוי לציין: רכישת וורנר ברדרס דיסקברי הממומנת בחוב של אורקל וההלוואות של פראמאונט מתרחשות באותו זמן ממש, בתוך המעגל העסקי של אותה משפחה מורחבת, בדיוק כשהריבית עולה על כולם. הריכוזיות הזו היא כשלעצמה גורם שמשקיעי אשראי אמורים לשקול, בנפרד משאלת השאלה אם חילוץ בלתי פורמלי אי פעם יתרחש.\n\n## למה לשים לב בהמשך\n\nהפייננשל טיימס כבר מדווח שגל המיזוגים והרכישות (M&A) הרחב יותר - שהיה לוהט בתחילת השנה - מאבד תאוצה, ככל שעליות הריבית, החרדה סביב בינה מלאכותית ואי-הוודאות סביב הבחירות מצננות את \"רוחות החיות\" (animal spirits) העסקיות. מכירת האג\"ח היקרה של פראמאונט היא פיסה קטנה מאותו סיפור בדיוק: חוב שמממן רכישות והתרחבות פשוט יקר יותר משהיה. כדאי לעקוב אחר השאלה האם מרווחי האג\"ח של פראמאונט ינועו באופן עצמאי מהרווחיות שלה עצמה, ויותר בהתאם לכותרות על הונו של לארי אליסון או על נטל החוב של אורקל - זה יהיה הסימן הברור ביותר לכך ש\"הנחת אליסון\" היא אמיתית ונסחרת בפועל, לא רק תיאוריה."
+      },
+      "tags": [
+        "corporate-debt",
+        "key-person-risk",
+        "interest-rates",
+        "m&a"
+      ],
+      "sources": [
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Paramount’s $52 Billion Debt Sale Shows How Higher Rates Are Biting Corporate America",
+          "url": "https://www.wsj.com/finance/investing/paramounts-52-billion-debt-sale-shows-how-higher-rates-are-biting-corporate-america-aed59897?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מפרמאונט ועד אורקל: \"סיכון לארי אליסון\" מתחיל להדאיג את וול סטריט",
+          "url": "https://www.themarker.com/wallstreet/2026-10-04/ty-article/.premium/000001a1-05b7-d87a-ada3-3dff75350000"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Dealmaking slowdown threatens early end to M&A boom",
+          "url": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4218.25,
+      "prev_close": 4203.98,
+      "change_pct": 0.34,
+      "as_of": "2026-10-01"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7722.7202,
+      "prev_close": 7666.4502,
+      "change_pct": 0.73,
+      "as_of": "2026-10-02"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0436,
+      "prev_close": 3.0852,
+      "change_pct": -1.35,
+      "as_of": "2026-10-05"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 101.44,
+      "prev_close": 102.25,
+      "change_pct": -0.79,
+      "as_of": "2026-10-04"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 86269.7031,
+      "prev_close": 84763.5781,
+      "change_pct": 1.78,
+      "as_of": "2026-10-05"
+    }
+  }
+}

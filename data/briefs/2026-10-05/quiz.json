@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-05",
+  "questions": [
+    {
+      "id": "q1-geopolitics-brazil",
+      "section": "geopolitics",
+      "story_id": "brazil-election-runoff",
+      "answer_index": 0,
+      "en": {
+        "question": "What has made Brazil's relationship with the US a central issue in the presidential runoff, according to the BBC?",
+        "options": [
+          "Brazil accused the US of election interference",
+          "The US imposed sanctions on Brazilian exports",
+          "A trade deal dispute between the two countries",
+          "The US stationed troops in Brazil"
+        ],
+        "explanation": "The BBC reported that Brazil accused the US of election interference, framing the runoff itself as a clash over sovereignty and ties with Washington."
+      },
+      "he": {
+        "question": "לפי ה-BBC, מה הפך את היחסים בין ברזיל לארה\"ב לנושא מרכזי בסיבוב השני של הבחירות לנשיאות?",
+        "options": [
+          "ברזיל האשימה את ארה\"ב בהתערבות בבחירות",
+          "ארה\"ב הטילה סנקציות על יצוא ברזילאי",
+          "מחלוקת על הסכם סחר בין המדינות",
+          "ארה\"ב מיקמה כוחות צבא בברזיל"
+        ],
+        "explanation": "ה-BBC דיווח שברזיל האשימה את ארה\"ב בהתערבות בבחירות, והציג את הסיבוב השני עצמו כהתנגשות סביב ריבונות ויחסים עם וושינגטון."
+      }
+    },
+    {
+      "id": "q2-israeli_politics-eisenkot-poll",
+      "section": "israeli_politics",
+      "story_id": "election-poll-and-debate-challenge",
+      "answer_index": 0,
+      "en": {
+        "question": "In the Kan 11 poll covered in today's brief, which bloc led by one mandate?",
+        "options": [
+          "Gadi Eisenkot's bloc led Netanyahu's bloc",
+          "Netanyahu's bloc led Eisenkot's bloc",
+          "Likud and Yesh! were tied",
+          "The Arab parties led the Zionist opposition"
+        ],
+        "explanation": "The poll found the bloc led by Gadi Eisenkot winning 52 seats, one mandate ahead of Benjamin Netanyahu's bloc."
+      },
+      "he": {
+        "question": "לפי הסקר של כאן 11 שהובא בתדריך היום, איזה גוש הוביל במנדט אחד?",
+        "options": [
+          "הגוש של גדי איזנקוט הוביל על הגוש של נתניהו",
+          "הגוש של נתניהו הוביל על הגוש של איזנקוט",
+          "הליכוד ו\"ישר!\" היו מאוזנים במספר המנדטים",
+          "המפלגות הערביות הובילו על האופוזיציה הציונית"
+        ],
+        "explanation": "הסקר מצא שהגוש בראשות גדי איזנקוט זוכה ב-52 מנדטים, מנדט אחד לפני הגוש של בנימין נתניהו."
+      }
+    },
+    {
+      "id": "q3-business-ellison-guarantee",
+      "section": "business",
+      "story_id": "ellison-implicit-guarantee",
+      "answer_index": 0,
+      "en": {
+        "question": "Per TheMarker, why might investors accept a lower risk premium on Paramount's bonds than its financials alone would justify?",
+        "options": [
+          "They're betting Larry Ellison would personally back Paramount if it ran into trouble, despite no formal guarantee",
+          "Paramount posted record quarterly profits",
+          "The bonds are insured by the US government",
+          "Paramount merged with Oracle this year"
+        ],
+        "explanation": "No contract or regulatory filing guarantees it, but many investors assume Ellison — Oracle's chairman and the father of Paramount's controlling owner — would step in, and that assumption gets priced into the bonds."
+      },
+      "he": {
+        "question": "לפי TheMarker, מדוע ייתכן שמשקיעים מוכנים לקבל פרמיית סיכון נמוכה יותר על האג\"ח של פראמאונט ממה שהנתונים הפיננסיים שלה לבדם היו מצדיקים?",
+        "options": [
+          "הם מהמרים שלארי אליסון יתערב אישית לתמוך בפראמאונט אם תיקלע לקשיים, גם ללא ערבות רשמית",
+          "פראמאונט דיווחה על רווחים רבעוניים שיא",
+          "האג\"ח מבוטחות על ידי ממשלת ארה\"ב",
+          "פראמאונט התמזגה עם אורקל השנה"
+        ],
+        "explanation": "אין חוזה או דיווח רגולטורי שמבטיח זאת, אך משקיעים רבים מניחים שאליסון - יו\"ר אורקל ואביו של הבעלים השולט בפראמאונט - יתערב במידת הצורך, וההנחה הזו מתומחרת בפועל באג\"ח."
+      }
+    }
+  ]
+}

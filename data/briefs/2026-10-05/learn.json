@@ -1,0 +1,130 @@
+{
+  "section": "learn",
+  "date": "2026-10-05",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-05T04:05:24+00:00",
+  "stories": [
+    {
+      "id": "word-churn-rate",
+      "kind": "word",
+      "en": {
+        "headline": "Churn rate (שיעור נטישה)",
+        "scroll": "The share of customers or subscribers a company loses in a given period, usually a month or a year.",
+        "coffee": "Churn rate measures how many customers stop paying for a product or service over a set period, expressed as a percentage of the total customer base. A subscription business with 1,000 customers that loses 50 in a month has a 5% monthly churn rate. Investors watch it closely because high churn means a company has to keep replacing lost revenue just to stand still, which makes growth expensive and fragile. Example: \"The streaming service cut its monthly churn rate from 6% to 4% after improving customer support.\"",
+        "deep": "Churn rate is most often used for subscription and recurring-revenue businesses — streaming services, SaaS companies, telecom plans, gyms. It comes in two flavors: customer churn (what percentage of accounts cancel) and revenue churn (what percentage of recurring revenue is lost, which can differ if the customers who leave were paying less than average).\n\nA common confusion is mixing up gross churn with net revenue churn, which nets out upgrades and expansions from existing customers and can even be negative if upsells outpace cancellations. Investors in SaaS companies often care more about net revenue retention than gross churn for exactly this reason.\n\nMore examples: \"Annual churn above 10% would worry most B2B SaaS investors.\" \"The gym chain's churn spiked every January as New Year's resolutions faded by March.\" In Hebrew, the term is שיעור נטישה (literally \"abandonment rate\")."
+      },
+      "he": {
+        "headline": "Churn rate (שיעור נטישה)",
+        "scroll": "אחוז הלקוחות או המנויים שחברה מאבדת בפרק זמן נתון, בדרך כלל חודש או שנה.",
+        "coffee": "שיעור הנטישה (churn rate) מודד כמה לקוחות מפסיקים לשלם על מוצר או שירות בפרק זמן מסוים, כאחוז מכלל בסיס הלקוחות. עסק מנויים עם 1,000 לקוחות שמאבד 50 בחודש נמצא בשיעור נטישה חודשי של 5%. משקיעים עוקבים אחרי המדד הזה מקרוב, כי נטישה גבוהה מחייבת את החברה להחליף כל הזמן הכנסה שאבדה רק כדי לשמור על מקום, מה שהופך את הצמיחה ליקרה ושברירית. דוגמה: \"שירות הסטרימינג הוריד את שיעור הנטישה החודשי שלו מ-6% ל-4% אחרי שיפור בשירות הלקוחות.\"",
+        "deep": "שיעור הנטישה נפוץ בעיקר בעסקים מבוססי מנוי והכנסה חוזרת - שירותי סטרימינג, חברות SaaS, חבילות סלולר, חדרי כושר. יש לו שני סוגים עיקריים: נטישת לקוחות (customer churn - איזה אחוז מהחשבונות מבטלים) ונטישת הכנסות (revenue churn - איזה אחוז מההכנסה החוזרת אבד, שיכול להיות שונה אם הלקוחות שעזבו שילמו פחות מהממוצע).\n\nבלבול נפוץ הוא בין נטישה גולמית (gross churn) לבין נטישת הכנסות נטו (net revenue churn), שמקזזת שדרוגים והרחבות של לקוחות קיימים, ויכולה אפילו להיות שלילית אם המכירות הנוספות עולות על הביטולים. משקיעים בחברות SaaS מתעניינים לרוב יותר בשימור הכנסות נטו מאשר בנטישה הגולמית, בדיוק מהסיבה הזו.\n\nדוגמאות נוספות: \"נטישה שנתית מעל 10% תדאיג רוב המשקיעים ב-B2B SaaS.\" \"הנטישה בחדרי הכושר קפצה כל ינואר ודעכה עד מרץ עם התפוגגות ההחלטות לשנה החדשה.\" במונחים עבריים, זהו שיעור נטישה."
+      },
+      "tags": [
+        "business-english",
+        "saas",
+        "vocabulary",
+        "metrics"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-race-to-the-bottom",
+      "kind": "word",
+      "en": {
+        "headline": "Race to the bottom (מירוץ לתחתית)",
+        "scroll": "A competitive spiral where rivals keep cutting prices, wages, or standards to win business, leaving everyone worse off.",
+        "coffee": "A race to the bottom happens when competitors, trying to undercut each other, keep lowering prices, quality, wages, or regulatory standards until profitability or safety suffers industry-wide. It's usually used critically, about companies competing on cost alone rather than value. Example: \"Discount airlines have been accused of a race to the bottom on legroom and service to keep ticket prices low.\"",
+        "deep": "The phrase is used across business, labor, and policy contexts. In business, it describes rivals slashing prices until margins disappear for everyone — think budget retailers or ride-hailing apps undercutting each other. In labor economics, it describes countries or states competing for investment by weakening labor protections or cutting corporate taxes. In regulation, it describes jurisdictions loosening environmental or safety rules to attract business.\n\nA common confusion: a race to the bottom is not the same as healthy price competition, which benefits consumers without degrading quality or safety — the phrase implies a destructive spiral, not ordinary competition. It's almost always used critically, rarely by the companies doing the undercutting themselves.\n\nMore examples: \"Economists warned that corporate tax cuts between states could trigger a race to the bottom.\" \"Fast-fashion brands are locked in a race to the bottom on price, which keeps squeezing supplier margins.\" In Hebrew: מירוץ לתחתית."
+      },
+      "he": {
+        "headline": "Race to the bottom (מירוץ לתחתית)",
+        "scroll": "ספירלה תחרותית שבה מתחרים ממשיכים להוריד מחירים, שכר או סטנדרטים כדי לנצח, עד שכולם יוצאים מופסדים.",
+        "coffee": "מירוץ לתחתית מתרחש כאשר מתחרים, בניסיון להוזיל זה את זה, ממשיכים להוריד מחירים, איכות, שכר או סטנדרטים רגולטוריים, עד שהרווחיות או הבטיחות נפגעות בכל הענף. המונח משמש לרוב בביקורתיות, כלפי חברות שמתחרות רק על עלות ולא על ערך. דוגמה: \"חברות התעופה הזולות הואשמו במירוץ לתחתית על מרחב רגליים ושירות כדי לשמור על מחירי כרטיסים נמוכים.\"",
+        "deep": "הביטוי משמש בהקשרים עסקיים, בשוק העבודה ובמדיניות ציבורית. בעולם העסקים הוא מתאר מתחרים שחותכים מחירים עד שהרווחיות נעלמת לכולם - למשל רשתות זולות או אפליקציות הסעות שמוזילות זו את זו. בכלכלת העבודה הוא מתאר מדינות שמתחרות על השקעות על ידי החלשת הגנות עובדים או הורדת מסי חברות. ברגולציה הוא מתאר רשויות שמרככות תקנות סביבה או בטיחות כדי למשוך עסקים.\n\nבלבול נפוץ: מירוץ לתחתית אינו זהה לתחרות מחירים בריאה, שמיטיבה עם הצרכנים בלי לפגוע באיכות או בבטיחות - הביטוי מרמז על ספירלה הרסנית, לא על תחרות רגילה. הוא כמעט תמיד נאמר בביקורתיות, ולא על ידי החברות שמוזילות בעצמן.\n\nדוגמאות נוספות: \"כלכלנים הזהירו שהפחתות מס חברות בין מדינות עלולות לעורר מירוץ לתחתית.\" \"מותגי האופנה המהירה נעולים במירוץ לתחתית על מחיר, מה שממשיך לסחוט את שולי הספקים.\" בעברית: מירוץ לתחתית."
+      },
+      "tags": [
+        "business-english",
+        "competition",
+        "vocabulary",
+        "policy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-cook-the-books",
+      "kind": "word",
+      "en": {
+        "headline": "Cook the books (לזייף דוחות כספיים)",
+        "scroll": "To illegally falsify a company's financial records to make its performance look better than it really is.",
+        "coffee": "\"Cooking the books\" means manipulating accounting records — inflating revenue, hiding expenses, or misstating assets — to make a company look more profitable or stable than it actually is. It's a serious accusation implying fraud, not just aggressive accounting. Example: \"Prosecutors alleged the former CFO cooked the books for three years to hide mounting losses from shareholders.\"",
+        "deep": "The idiom is reserved for deliberate, fraudulent misstatement — not for legal gray areas like aggressive-but-permitted accounting choices, which analysts might instead call \"creative accounting\" or \"earnings management,\" phrases that carry less legal weight. Cooking the books usually surfaces in scandals: recording sales that haven't happened, booking expenses in a later period to flatter current profits, or hiding debt off the balance sheet.\n\nA common confusion is using it loosely for any disappointing earnings report — it should be reserved for actual falsification, since it implies potential criminal liability. Journalists and prosecutors use it carefully for this reason.\n\nMore examples: \"The audit uncovered evidence that the retailer had cooked the books to meet quarterly targets.\" \"Whistleblowers claimed management cooked the books by recognizing revenue before contracts were signed.\" In Hebrew: לזייף את הדוחות הכספיים, or more colloquially, לבשל את הספרים."
+      },
+      "he": {
+        "headline": "Cook the books (לזייף דוחות כספיים)",
+        "scroll": "לזייף באופן בלתי חוקי את הדוחות הכספיים של חברה כדי שהביצועים שלה ייראו טובים יותר ממה שהם באמת.",
+        "coffee": "\"לבשל את הספרים\" (cook the books) פירושו לתמרן רשומות חשבונאיות - לנפח הכנסות, להסתיר הוצאות או להציג נכסים בצורה מוטעית - כדי שהחברה תיראה רווחית או יציבה יותר ממה שהיא באמת. זו האשמה חמורה שמרמזת על הונאה, לא סתם על חשבונאות אגרסיבית. דוגמה: \"התובעים טענו שסמנכ״ל הכספים לשעבר זייף את הדוחות הכספיים במשך שלוש שנים כדי להסתיר הפסדים הולכים וגדלים מבעלי המניות.\"",
+        "deep": "הביטוי שמור למצג שווא מכוון ומרמה - לא למצבים אפורים וחוקיים כמו בחירות חשבונאיות אגרסיביות אך מותרות, שאנליסטים יכנו לעיתים \"חשבונאות יצירתית\" או \"ניהול רווחים\", ביטויים עם משקל משפטי קל יותר. זיוף דוחות בדרך כלל צץ בשערוריות: רישום מכירות שלא התרחשו, רישום הוצאות בתקופה מאוחרת יותר כדי להאדיר רווחים נוכחיים, או הסתרת חוב מחוץ למאזן.\n\nבלבול נפוץ הוא שימוש בביטוי בצורה רופפת על כל דוח רבעוני מאכזב - הוא צריך להישמר לזיוף ממשי בלבד, כי הוא מרמז על אחריות פלילית אפשרית. עיתונאים ותובעים משתמשים בו בזהירות מהסיבה הזו.\n\nדוגמאות נוספות: \"הביקורת חשפה ראיות לכך שהרשת זייפה את הדוחות כדי לעמוד ביעדים הרבעוניים.\" \"מלשינים פנימיים טענו שההנהלה זייפה את הדוחות על ידי הכרה בהכנסה לפני חתימת חוזים.\" בעברית: לזייף את הדוחות הכספיים, או בשפה יומיומית - לבשל את הספרים."
+      },
+      "tags": [
+        "business-english",
+        "accounting",
+        "idiom",
+        "fraud"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why big networks get bigger",
+        "scroll": "A product becomes more valuable to each user as more people use it — which is why winners in networked markets tend to win big.",
+        "coffee": "Network effects occur when a product or service gets more valuable as more people use it, independent of any improvement to the product itself. A phone is worthless if you're the only one who owns one; it becomes essential once everyone else has one too. This dynamic creates self-reinforcing growth: more users attract more users, which is why markets with strong network effects — social networks, marketplaces, operating systems — tend to tip toward one or two dominant winners rather than splitting evenly among competitors.\n\nIt's distinct from simple economies of scale, which lower costs as a company grows, because network effects increase value to the user, not just efficiency for the seller. What to watch: new entrants in networked markets usually need to either serve a niche the giant ignores, or bootstrap value before the network exists, for example by subsidizing one side of a marketplace.",
+        "deep": "## The basic idea\n\nNetwork effects describe a product whose value to each user increases as more people use it. This is different from most goods: a slice of pizza tastes the same whether you're the only person eating pizza today or one of a million. But a phone, a language, a marketplace, or a social network behaves the opposite way — its usefulness depends entirely on the size of the group using it alongside you.\n\n## Direct vs. indirect effects\n\nEconomists split network effects into two types. Direct network effects mean the product is more useful the more users of the same type join — messaging apps are the classic case: WhatsApp is valuable because your contacts are already on it. Indirect (or cross-side) network effects occur in two-sided markets, where more users on one side attract more users on the other — more riders on a ride-hailing app attract more drivers, and more drivers reduce wait times, which attracts more riders.\n\n## Worked example\n\nConsider a ride-hailing app launching in a new city. On day one, it has 10 drivers and 10 riders. Average wait time is long, so riders are unhappy and some stop opening the app. The company subsidizes drivers' earnings for the first few months, growing supply to 200 drivers even though rider demand hasn't caught up — an intentional loss, because it shortens wait times, which then attracts more riders organically. Once riders grow to 500, driver utilization improves, so the company can lower the subsidy and drivers still earn well. At that point the network is self-sustaining: each new rider makes the service marginally better for drivers, and each new driver makes it marginally better for riders, without the company spending more.\n\n## Why it matters for strategy\n\nBecause value compounds with size, markets with strong network effects tend toward a small number of winners — think of how few dominant social networks or search engines exist globally, compared to the thousands of competing restaurants in any city, where network effects are weak or absent. This is why investors pay a premium for early-stage companies in networked markets: a large user base isn't just revenue, it's a structural advantage that gets harder for competitors to replicate as it grows, sometimes called a network moat.\n\n## What can go wrong\n\nNetwork effects can also reverse: if enough users leave, the product becomes less useful for those who remain, who then leave too — a death spiral seen in some declining social platforms and two-sided marketplaces once a critical mass of users or suppliers departs."
+      },
+      "he": {
+        "headline": "אפקט הרשת: למה רשתות גדולות הולכות וגדלות (network effects)",
+        "scroll": "מוצר הופך לבעל ערך רב יותר עבור כל משתמש ככל שיותר אנשים משתמשים בו - ולכן המנצחים בשווקים מבוססי-רשת נוטים לנצח בגדול.",
+        "coffee": "אפקט רשת (network effect) מתרחש כשמוצר או שירות הופכים לבעלי ערך רב יותר ככל שיותר אנשים משתמשים בהם, בלי קשר לכל שיפור במוצר עצמו. טלפון חסר ערך אם אתה היחיד שמחזיק בו; הוא הופך להכרחי ברגע שלכולם סביבך יש אחד. הדינמיקה הזו יוצרת צמיחה שמזינה את עצמה: יותר משתמשים מושכים יותר משתמשים, ולכן שווקים עם אפקט רשת חזק - רשתות חברתיות, שוקי מסחר, מערכות הפעלה - נוטים להיטות לכיוון מנצח אחד או שניים דומיננטיים, במקום להתחלק שווה בשווה בין מתחרים.\n\nזה שונה מחיסכון פשוט לגודל (economies of scale, שמוריד עלויות ככל שהחברה גדלה), כי אפקט הרשת מגדיל את הערך עבור המשתמש, לא רק את היעילות עבור המוכר. מה לשים לב אליו: שחקנים חדשים בשווקים מבוססי-רשת בדרך כלל צריכים או לשרת נישה שהענק מתעלם ממנה, או ל״הצית״ את הערך לפני שהרשת בכלל קיימת, למשל על ידי סבסוד צד אחד בשוק דו-צדדי.",
+        "deep": "## הרעיון הבסיסי\n\nאפקט רשת מתאר מוצר שהערך שלו עבור כל משתמש עולה ככל שיותר אנשים משתמשים בו. זה שונה מרוב המוצרים: פרוסת פיצה טועמת אותו דבר בין אם אתה האדם היחיד שאוכל פיצה היום ובין אם אתה אחד ממיליון. אבל טלפון, שפה, שוק מסחר או רשת חברתית מתנהגים הפוך - השימושיות שלהם תלויה לגמרי בגודל הקבוצה שמשתמשת בהם יחד איתך.\n\n## אפקטים ישירים מול עקיפים\n\nכלכלנים מחלקים אפקטי רשת לשני סוגים. אפקט רשת ישיר אומר שהמוצר שימושי יותר ככל שיותר משתמשים מאותו סוג מצטרפים - אפליקציות הודעות הן הדוגמה הקלאסית: WhatsApp שימושי כי אנשי הקשר שלך כבר שם. אפקטים עקיפים (או \"צולבי-צד\") מתרחשים בשווקים דו-צדדיים, שבהם יותר משתמשים בצד אחד מושכים יותר משתמשים בצד השני - יותר נוסעים באפליקציית הסעות מושכים יותר נהגים, ויותר נהגים מקצרים את זמני ההמתנה, מה שמושך עוד נוסעים.\n\n## דוגמה מספרית\n\nנניח שאפליקציית הסעות משיקה בעיר חדשה. ביום הראשון יש לה 10 נהגים ו-10 נוסעים. זמן ההמתנה הממוצע ארוך, הנוסעים לא מרוצים וחלקם מפסיקים לפתוח את האפליקציה. החברה מסבסדת את הכנסות הנהגים בחודשים הראשונים, ומגדילה את ההיצע ל-200 נהגים גם אם הביקוש מצד הנוסעים עוד לא הדביק את הקצב - הפסד מכוון, כי הוא מקצר את זמני ההמתנה, מה שמושך נוסעים נוספים באופן אורגני. ברגע שמספר הנוסעים גדל ל-500, ניצול הנהגים משתפר (פחות זמן המתנה בין נסיעות), כך שהחברה יכולה להוריד את הסבסוד והנהגים עדיין מרוויחים היטב. בשלב הזה הרשת מתקיימת מעצמה: כל נוסע חדש משפר במעט את השירות עבור הנהגים, וכל נהג חדש משפר במעט את השירות עבור הנוסעים, בלי שהחברה צריכה להוציא עוד כסף.\n\n## למה זה חשוב לאסטרטגיה\n\nמכיוון שהערך מצטבר עם הגודל, שווקים עם אפקט רשת חזק נוטים להתכנס למספר קטן של מנצחים - חשבו כמה מעט רשתות חברתיות או מנועי חיפוש דומיננטיים קיימים בעולם, לעומת אלפי המסעדות המתחרות בכל עיר, שם אפקט הרשת חלש או נעדר. זו הסיבה שמשקיעים משלמים פרמיה על חברות בשלב מוקדם בשווקים מבוססי-רשת: בסיס משתמשים גדול הוא לא רק הכנסה, אלא יתרון מבני שקשה יותר למתחרים לשכפל ככל שהוא גדל, מה שלעיתים נקרא \"חפיר רשת\" (network moat).\n\n## מה יכול להשתבש\n\nאפקט הרשת יכול גם להתהפך: אם מספיק משתמשים עוזבים, המוצר הופך לפחות שימושי עבור מי שנשאר, שגם הם עוזבים בתורם - ספירלת מוות שנראתה בכמה פלטפורמות חברתיות דועכות ובשווקים דו-צדדיים ברגע שמסה קריטית של משתמשים או ספקים עזבה."
+      },
+      "tags": [
+        "economics",
+        "network-effects",
+        "tech-strategy",
+        "concept"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-womens-march-versailles",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1789: Thousands of Parisian women marched on Versailles over the price of bread",
+        "scroll": "A bread-price protest by Parisian market women turned into one of the French Revolution's defining turning points, forcing the royal family back to Paris.",
+        "coffee": "On 5 October 1789, thousands of women from Paris's markets, angered by the high price and scarcity of bread, marched roughly 12 miles to the royal palace at Versailles. What began as a protest over food shortages grew into an armed crowd of market women, merchants, and revolutionaries demanding the king address the crisis. By the next day, they had forced King Louis XVI and his family to leave Versailles and relocate to Paris, where the royal court would remain under close public watch.\n\nThe march mattered because it showed that ordinary people, not just the political elite, could force the monarchy's hand through direct action, and because it physically moved the king from the isolation of Versailles into the city where revolutionary pressure was strongest. Bread was not incidental: in pre-industrial Paris, a laborer could spend half or more of their income on bread, so price spikes were a direct threat to survival, not an abstract grievance. It remains a classic example of how a basic economic shock — grain shortages and bread prices that had surged for months — can escalate into political upheaval when a government fails to manage it.",
+        "deep": "## Background\n\nBy the autumn of 1789, France's revolutionary year was already underway: the Bastille had fallen in July, and the National Constituent Assembly was drafting a new political order. But the immediate trigger for the October march was more basic than ideology — bread. Harvests in 1788 had been poor, and the price of bread in Paris, the staple food for most working people, had climbed sharply. For a laboring family, bread could account for a large share of daily spending, so scarcity and high prices were an existential threat, not a policy debate.\n\n## The march\n\nOn the morning of 5 October 1789, women gathered at Parisian markets, frustrated by empty bakeries and rising prices, and began marching toward the Hôtel de Ville before heading on to Versailles, about 12 miles away. Their numbers swelled along the way to several thousand, joined by armed revolutionaries and members of the National Guard under the Marquis de Lafayette. They arrived at the palace demanding bread and an audience with King Louis XVI.\n\n## The outcome\n\nAfter tense negotiations and a violent breach of the palace by part of the crowd overnight, the king agreed to return with the crowd to Paris the next day, along with Queen Marie Antoinette and their children. The royal family would never again live at Versailles. Their relocation placed the monarchy under constant public and political pressure in the capital, accelerating the Revolution's radicalization over the following years.\n\n## Why it still matters\n\nThe march is remembered as one of the first instances of ordinary women driving a major political event by force of collective action, and as a reminder that economic grievances — not abstract political theory — often supply a revolution's spark. It remains a touchstone in French historical memory and in the study of how food crises can trigger political upheaval."
+      },
+      "he": {
+        "headline": "1789: אלפי נשים פריזאיות צעדו לוורסאי בשל מחיר הלחם",
+        "scroll": "מחאה על מחיר הלחם בהובלת נשות השוק בפריז הפכה לאחת מנקודות המפנה המכריעות של המהפכה הצרפתית, וכפתה על המשפחה המלכותית לחזור לפריז.",
+        "coffee": "ב-5 באוקטובר 1789 צעדו אלפי נשים משוקי פריז, זועמות על המחיר הגבוה והמחסור בלחם, כ-19 ק\"מ לארמון המלוכה בוורסאי. מה שהחל כמחאה על מחסור במזון הפך להמון חמוש של נשות שוק, סוחרים ומהפכנים שדרשו מהמלך להתמודד עם המשבר. למחרת כפו על לואי ה-16 ומשפחתו לעזוב את ורסאי ולעבור לפריז, שם תישאר החצר המלכותית תחת מעקב ציבורי צמוד.\n\nהצעדה הייתה משמעותית כי הראתה שאנשים פשוטים, לא רק האליטה הפוליטית, יכולים לכפות את ידם על המלוכה באמצעות פעולה ישירה, וכי היא העבירה פיזית את המלך מהבידוד של ורסאי לתוך העיר שבה הלחץ המהפכני היה החזק ביותר. הלחם לא היה שולי: בפריז הטרום-תעשייתית, פועל יכול היה להוציא מחצית מהכנסתו ויותר על לחם, כך שקפיצות מחיר היו איום ישיר על ההישרדות, לא תלונה מופשטת. זו נותרת דוגמה קלאסית לאופן שבו זעזוע כלכלי בסיסי - מחסור בתבואה ומחירי לחם שזינקו במשך חודשים - יכול להסלים למהפכה פוליטית כשממשלה נכשלת בניהולו.",
+        "deep": "## רקע\n\nעד סתיו 1789, שנת המהפכה הצרפתית כבר הייתה בעיצומה: הבסטיליה נפלה ביולי, והאסיפה הלאומית המכוננת גיבשה סדר פוליטי חדש. אבל הטריגר המיידי לצעדת אוקטובר היה בסיסי יותר מאידאולוגיה - לחם. היבולים ב-1788 היו דלים, ומחיר הלחם בפריז, מזון הבסיס של רוב האנשים העובדים, זינק בחדות. עבור משפחה עובדת, לחם יכול היה להוות חלק ניכר מההוצאה היומית, כך שמחסור ומחירים גבוהים היו איום קיומי, לא ויכוח מדיניות.\n\n## הצעדה\n\nבבוקר 5 באוקטובר 1789 התאספו נשים בשוקי פריז, מתוסכלות ממאפיות ריקות וממחירים עולים, והחלו לצעוד לכיוון בניין העירייה (Hôtel de Ville) ומשם לוורסאי, כ-19 ק\"מ משם. מספרן תפח בדרך לכמה אלפים, והצטרפו אליהן מהפכנים חמושים וחברי המשמר הלאומי בפיקוד המרקיז דה לאפייט. הן הגיעו לארמון ודרשו לחם ופגישה עם המלך לואי ה-16.\n\n## התוצאה\n\nלאחר משא ומתן מתוח ופריצה אלימה של חלק מההמון לארמון במהלך הלילה, המלך הסכים לחזור עם ההמון לפריז למחרת, יחד עם המלכה מארי אנטואנט וילדיהם. המשפחה המלכותית לא תחזור לחיות בוורסאי לעולם. המעבר לפריז הציב את המלוכה תחת לחץ ציבורי ופוליטי מתמיד בבירה, והאיץ את הקצנת המהפכה בשנים שלאחר מכן.\n\n## למה זה עדיין חשוב\n\nהצעדה זכורה כאחת הדוגמאות הראשונות שבהן נשים פשוטות הניעו אירוע פוליטי משמעותי בכוח פעולה קולקטיבית, וכתזכורת לכך שתלונות כלכליות - לא תיאוריה פוליטית מופשטת - הן לעיתים קרובות הניצוץ שמצית מהפכה. היא נותרת ציון דרך בזיכרון ההיסטורי הצרפתי ובחקר האופן שבו משברי מזון יכולים להצית מהפך פוליטי."
+      },
+      "tags": [
+        "history",
+        "french-revolution",
+        "on-this-day"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1789: French Revolution: Upset about the high price and scarcity of bread, thousands of Parisian women and allies marched (pictured) on the Palace of Versailles.",
+          "url": "https://en.wikipedia.org/wiki/French_Revolution"
+        }
+      ]
+    }
+  ]
+}
