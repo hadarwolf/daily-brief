@@ -28,87 +28,88 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
+     "title": "All-around junior male",
+     "published": "2026-10-05T10:01:00+00:00",
+     "summary": "A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity - by Aeon Video Watch on Aeon"
+    },
+    {
+     "ref": "aeon#1",
+     "title": "A life in episodes",
+     "published": "2026-10-05T10:00:00+00:00",
+     "summary": "For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past - by Thomas Söderqvist Read on Aeon",
+     "full_text_file": "essays/aeon_1.txt"
+    },
+    {
+     "ref": "aeon#2",
      "title": "Life on a hair trigger",
      "published": "2026-10-02T10:00:00+00:00",
      "summary": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon"
     },
     {
-     "ref": "aeon#1",
+     "ref": "aeon#3",
      "title": "Green tree ants are famous in the tropics",
      "published": "2026-10-01T10:01:00+00:00",
      "summary": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#4",
      "title": "Reason is more than a tool",
      "published": "2026-10-01T10:00:00+00:00",
      "summary": "If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more - by Sasha Mudd Read on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#5",
      "title": "Passportless mess",
      "published": "2026-09-30T10:01:00+00:00",
      "summary": "A fool, a genius, or ‘a man who destroys everything’? Piecing together Zoran, a mythic figure of Belgrade - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#6",
      "title": "Don’t use the ‘C-word’",
      "published": "2026-09-29T10:00:00+00:00",
      "summary": "A cancer diagnosis carries with it fear and upheaval. For many patients the cellular changes do not warrant the label - by Matthew R Cooperberg Read on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#7",
      "title": "Affect theory",
      "published": "2026-09-28T10:01:00+00:00",
      "summary": "In the mid-1990s, thinkers pushed back against the idea we’re built by language, turning to feeling and the body instead - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#8",
      "title": "Paternity is poetical",
      "published": "2026-09-28T10:00:00+00:00",
      "summary": "The notion that fatherhood and creativity are at odds is plain wrong, as both poetry and neuroscience are showing us - by Daniel Swift Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#9",
      "title": "Reasoning together",
      "published": "2026-09-25T10:00:00+00:00",
      "summary": "Jürgen Habermas, the great defender of deliberative democracy, lived up to its demands: he never feared changing his mind - by Emilie Prattico Read on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#10",
      "title": "Britain’s last great airship",
      "published": "2026-09-24T10:01:00+00:00",
      "summary": "The remarkable engineering and tragic demise of the vessel that would end Britain’s dream to dominate the skies - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#11",
      "title": "Where a land ethic blooms",
      "published": "2026-09-24T10:00:00+00:00",
      "summary": "Caring for this planet entails decisions that are intimate, about our farms, our homes, our human and our wild neighbours - by Craig Maier Read on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#12",
      "title": "How the West was fun",
      "published": "2026-09-23T10:01:00+00:00",
      "summary": "Be it movie mythos or nostalgia for a ‘simpler’ time, there’s an undeniable allure in stepping into the American West - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#13",
      "title": "Toadstools and toxins",
      "published": "2026-09-22T10:00:00+00:00",
      "summary": "When I found the mushroom Amanita muscaria being sold in candy wrappers, I uncovered legal loopholes, dangerous dosages and more - by Eric Leas Read on Aeon"
-    },
-    {
-     "ref": "aeon#12",
-     "title": "Sound guardians",
-     "published": "2026-09-21T10:01:00+00:00",
-     "summary": "As Indonesia builds a new capital city, the race is on to preserve the sounds of the rainforest before they vanish forever - by Aeon Video Watch on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "He was probably right",
-     "published": "2026-09-21T10:00:00+00:00",
-     "summary": "Cicero’s life and thought are a testament to the idea of probabilia: we should be confident in our beliefs, but never certain - by Massimo Pigliucci Read on Aeon"
     }
    ]
   },
@@ -233,87 +234,88 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
+     "title": "S P A C E S",
+     "published": "2026-10-05T10:01:00+00:00",
+     "summary": "A filmmaker tries to reconstruct her brother’s faltering experience of time: adrift and without continuity - Directed by Nora Štrbová Watch on Psyche"
+    },
+    {
+     "ref": "psyche#1",
+     "title": "What does it really take to be a resilient mother?",
+     "published": "2026-10-05T10:00:00+00:00",
+     "summary": "New motherhood is hard – and a mother’s ability to cope depends on multiple kinds of strength, both internal and external - by Sarah Emmerson Read on Psyche",
+     "full_text_file": "essays/psyche_1.txt"
+    },
+    {
+     "ref": "psyche#2",
      "title": "Ask me anything",
      "published": "2026-10-02T10:01:00+00:00",
      "summary": "As the Netherlands adopts its strictest-ever asylum policy, Abdulaal Hussein creates space for candid conversation - Directed by Wyneke van Nieuwenhuyzen Watch on Psyche"
     },
     {
-     "ref": "psyche#1",
+     "ref": "psyche#3",
      "title": "Journaling to remember",
      "published": "2026-10-02T10:00:00+00:00",
      "summary": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#4",
      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
      "published": "2026-10-01T10:00:00+00:00",
      "summary": "As a neurosurgeon and a son, I’ve come to see the parallel processes underlying growing tumours and stressed-out minds - by Sasi S Senga Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#5",
      "title": "The full-service grandad",
      "published": "2026-09-30T10:00:00+00:00",
      "summary": "I thought I was a present father; my sons said otherwise. When my granddaughter arrived I made an offer - by Liam Heneghan Read on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#6",
      "title": "The end of humanity",
      "published": "2026-09-29T10:01:00+00:00",
      "summary": "Instead of accepting that humanity will soon be obsolete, we can build a better future with respect for human traditions - A film by Andreas Dürr and Jan-Marc Furer Watch on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#7",
      "title": "When you feel moral disgust, what’s the emotion telling you?",
      "published": "2026-09-29T10:00:00+00:00",
      "summary": "Some actions and words provoke instant revulsion. To know if we can trust that gut feeling, we should probe why we have it - by Brandon Yip Read on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#8",
      "title": "Can he teach the teachers?",
      "published": "2026-09-28T10:00:00+00:00",
      "summary": "The neuroscientist Stanislas Dehaene wants to bring four decades of findings on how the brain learns into the classroom. But evidence alone can’t overcome the politics in education - by Nancy Averett Read on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#9",
      "title": "Signs of a highly sensitive person",
      "published": "2026-09-25T10:01:00+00:00",
      "summary": "Do you cry at paintings and recoil from crowds? A psychologist explores the telltale signs of a ‘highly sensitive person’ - Video by Dr Julie Watch on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#10",
      "title": "The way we talk to bots matters even if they aren’t conscious",
      "published": "2026-09-25T10:00:00+00:00",
      "summary": "If more and more of our daily interactions are ungracious exchanges with machines, we should expect it to change us - by HennyGe Wichers Read on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#11",
      "title": "The evil eye is irrational. Abandon it at your peril",
      "published": "2026-09-24T10:00:00+00:00",
      "summary": "So many of the world’s superstitions have been supplanted by rational thinking. Why does one of the oldest beliefs persist? - by Timna Abramov Read on Psyche"
     },
     {
-     "ref": "psyche#10",
+     "ref": "psyche#12",
      "title": "How to find calm and joy as a queer person",
      "published": "2026-09-23T10:00:00+00:00",
      "summary": "A queer psychologist shares skills from dialectical behaviour therapy to help you care for yourself in a stigmatising world - by Kiki Fehling Read on Psyche"
     },
     {
-     "ref": "psyche#11",
+     "ref": "psyche#13",
      "title": "What does it mean to have relationship ambivalence?",
      "published": "2026-09-22T10:00:00+00:00",
      "summary": "When a relationship provokes both strong positive and negative feelings in you, it can take a toll – here’s what’s going on - by Francesca Righetti Read on Psyche"
-    },
-    {
-     "ref": "psyche#12",
-     "title": "Lesser choices",
-     "published": "2026-09-21T10:01:00+00:00",
-     "summary": "Estelle recalls being blindfolded and fearful in Mexico City – a timely vision of a world without abortion rights - Directed by Courtney Stephens Watch on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "The softness of metal",
-     "published": "2026-09-21T10:00:00+00:00",
-     "summary": "Watching a seated Ozzy play his final gig, my ankle broken, I’m in tears – this couldn’t be more metal - by Keith Kahn-Harris Read on Psyche"
     }
    ]
   },
