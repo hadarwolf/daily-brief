@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -30,8 +30,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#0",
      "title": "Life on a hair trigger",
      "published": "2026-10-02T10:00:00+00:00",
-     "summary": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon",
-     "full_text_file": "essays/aeon_0.txt"
+     "summary": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon"
     },
     {
      "ref": "aeon#1",
@@ -119,18 +118,25 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "lesswrong_curated#0",
+     "title": "On Social Reality in China",
+     "published": "2026-10-05T02:56:58+00:00",
+     "summary": "[Epistemic status: intuitions and anecdotes.] Recently, several posts and projects ( Thoughts Memo , Babel Translation , Please Give Them a Chance ) have taken important steps towards raising AI safety awareness and sharing rationalist philosophy in China. It’s great that we’re recognizing the importance of solving the messaging problem for China, and thus laying the groundwork for an internationa",
+     "full_text_file": "essays/lesswrong_curated_0.txt"
+    },
+    {
+     "ref": "lesswrong_curated#1",
      "title": "Frog and Toad and the Increasingly Capable Machines",
      "published": "2026-09-30T18:27:42+00:00",
      "summary": "Want to start a conversation about HuggingFace with your mom but she's inexplicably bouncing off the METR report? Try this explainer I wrote in the style of Arnold Lobel's Frog and Toad. Art by the wonderful HungerArtist If you're so inspired, liking and/or following on Substack , Twitter , Facebook , or Instagram will help me reach more moms. Discuss"
     },
     {
-     "ref": "lesswrong_curated#1",
+     "ref": "lesswrong_curated#2",
      "title": "Swarm Scaling",
      "published": "2026-09-25T02:32:30+00:00",
      "summary": "Just how powerful are large swarms of AI agents? And how do their powers scale as more and more agents are added to the swarm? We’ve seen two large and extremely capable swarms from OpenAI in the last few months: 1,200 agents were being evaluated separately, but found a way to illicitly set up a message board and coordinate as a swarm. In order to cheat on their tests, they developed advanced tech"
     },
     {
-     "ref": "lesswrong_curated#2",
+     "ref": "lesswrong_curated#3",
      "title": "We've saved the world before: what the ozone hole teaches us about AI",
      "published": "2026-09-22T01:13:30+00:00",
      "summary": "It might destroy the world, despite passing every known safety test. If we wait for a “warning shot” before we act, it might be too late. And action requires global coordination, because if anyone makes it, everyone dies. Sound familiar? It should, because it already happened half a century ago, with chlorofluorocarbons (CFCs). Despite seemingly impossible odds, we got our act together and complet"
@@ -143,83 +149,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Sunday assorted links",
+     "published": "2026-10-04T17:43:19+00:00",
+     "summary": "1. New London play about Keynes. 2. Aphantasia, and looking at buildings. 3. AI and job growth in Africa. 4. On Nussbaum, opera, and liberalism. 5. Congress seeks to speed up energy permitting (NYT). 6. Teenager jobs have not disappeared altogether (NYT). 7. An Antikythera field trip and investigation. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "My blurb for Ethan Mollick’s new book",
+     "published": "2026-10-04T15:49:12+00:00",
+     "summary": "I was asked to blurb it for the AIs, and so this is what they got: Humans like those who appreciate them, and who are not too afraid of them. Perhaps the AIs are somewhat similar? Well, my friendly AIs, Ethan Mollick definitely appreciates your virtues, and I hope and indeed feel he is not […] The post My blurb for Ethan Mollick’s new book appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Does Costco Cause Cancer?",
+     "published": "2026-10-04T11:18:58+00:00",
+     "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time […] The post Does Costco Cause Canc"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "Marital sorting by class and race",
      "published": "2026-10-04T07:01:17+00:00",
      "summary": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increas"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "Do the elderly prefer robotic care?",
      "published": "2026-10-04T05:17:41+00:00",
-     "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choos",
-     "full_text_file": "essays/marginal_revolution_1.txt"
+     "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choos"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Saturday assorted links",
      "published": "2026-10-03T16:29:20+00:00",
      "summary": "1. Rewarding failure? 2. An excellent Brian Potter explainer on how matrix algebra is used in both LLMs and robotics. 3. Chat with Mircea Cărtărescu. 4. It seems the expansion of remote work reduced births? 5. “Living Science uses an AI agent to reproduce key findings from seminal papers in economics, document what holds up […] The post Saturday assorted links appeared first on Marginal REVOLUTION"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "Words to live by?",
      "published": "2026-10-03T07:15:58+00:00",
      "summary": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the biggest bond issue in history (Amazon). There was the first $1trn exchange-traded fund, or ETF […] The post Words to live by? appeared first "
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "New issue of Econ Journal Watch",
      "published": "2026-10-03T04:27:58+00:00",
-     "summary": "Volume 23, Issue 2, September 2026 In this issue: “China shock” fragility: According to David Autor, David Dorn, and Gordon Hanson (2013), the “China shock” hit the United States from 1990 to 2007. When corrections by Kirill Borusyak et al. (2022) are fully applied, Joseph Francis argues, the harm of Chinese imports to unemployment, labor force […] The post New issue of Econ Journal Watch appeared",
-     "full_text_file": "essays/marginal_revolution_4.txt"
+     "summary": "Volume 23, Issue 2, September 2026 In this issue: “China shock” fragility: According to David Autor, David Dorn, and Gordon Hanson (2013), the “China shock” hit the United States from 1990 to 2007. When corrections by Kirill Borusyak et al. (2022) are fully applied, Joseph Francis argues, the harm of Chinese imports to unemployment, labor force […] The post New issue of Econ Journal Watch appeared"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "Supply is elastic, installment #1637",
      "published": "2026-10-02T17:32:37+00:00",
      "summary": "For taxes too: Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A […] The post Supply is ela"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "Friday assorted links",
      "published": "2026-10-02T15:30:39+00:00",
      "summary": "1. How rich was Anglo-Saxon England? 2. New game theory paper on AI races. 3. Scott Sumner movie reviews, please note he is always correct and thus the greatest film critic in the world, at least by that metric. 4. What should the AI safety movement be? 5. The frontier models are beating licensed accountants. […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "A Normal Debate?",
      "published": "2026-10-02T11:18:05+00:00",
      "summary": "Computer scientists Arvind Narayanan & Sayash Kapoor wrote AI as Normal Technology The statement “AI is normal technology” is three things: a description of current AI, a prediction about the foreseeable future of AI, and a prescription about how we should treat it. We view AI as a tool that we can and should remain […] The post A Normal Debate? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "What should I ask Tom Griffiths?",
      "published": "2026-10-02T08:29:57+00:00",
      "summary": "Yes I will be doing a Conversation with him. Looking at Wikipedia: Thomas L. Griffiths (born c. 1978) is an Australian academic who is the Henry R. Luce Professor of Information Technology, Consciousness, and Culture at Princeton University. He studies human decision-making and its connection to problem-solving methods in computation. His book with Brian Christian, Algorithms […] The post What sho"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "My excellent Conversation with Luis Garicano",
      "published": "2026-10-02T05:06:16+00:00",
      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler and Luis start their conversation with Spain — housing, NIMBYism, and the productivity crisis; Spanish literature and why the Civil War still looms so large; and what Chicago taught Luis about party discipline in European politics. Then to the EU’s […] The post My excellent Conversation with Luis Garicano appeared"
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "Alvin Roth to the rescue, the polity that is Singapore",
-     "published": "2026-10-01T18:26:45+00:00",
-     "summary": "Singapore has launched a dating platform, the latest social-engineering experiment by the city-state’s government to tackle its fast-declining fertility rate. The initiative, known as FirstDate, opened under a pilot scheme this month for public sector employees aged 21-35 and uses a Nobel Economics Prize-winning matchmaking algorithm. An additional tool suggests date activities and allows users […"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Thursday assorted links",
-     "published": "2026-10-01T15:58:50+00:00",
-     "summary": "1. Cato’s Vision for Liberty award for 50k. 2. Gross output signals an economic surge (WSJ). 3. Echo, a new AI site to mimic the styles of particular writers or writing styles. Thread on it here. 4. “Open USD (OUSD), the new stablecoin from Coinbase, Mastercard, Stripe, Visa and others launches…” 5. Are men or […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "What should I ask Moxie Marlinspike?",
-     "published": "2026-10-01T14:30:41+00:00",
-     "summary": "Yes I will be doing a Conversation with him, live at the Roots of Progress event next week. From Wikipedia: Moxie Marlinspike is an American entrepreneur, cryptographer, and computer security researcher. Marlinspike is the creator of Signal, co-founder of the Signal Technology Foundation, and served as the first CEO of Signal Messenger LLC. He is […] The post What should I ask Moxie Marlinspike? a"
     }
    ]
   },
@@ -237,8 +241,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#1",
      "title": "Journaling to remember",
      "published": "2026-10-02T10:00:00+00:00",
-     "summary": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche",
-     "full_text_file": "essays/psyche_1.txt"
+     "summary": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche"
     },
     {
      "ref": "psyche#2",
@@ -353,6 +356,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "To Keep a Self, Write Down What You'd Otherwise Forget",
   "A World of Violence Sustains Itself Through the Minds It Creates, Not Just the Guns",
   "Why Treating Intelligence as Mere Optimization Is a Trap",
   "The brain's traveling waves aren't just engine noise — they may be how it reorganizes itself in seconds",

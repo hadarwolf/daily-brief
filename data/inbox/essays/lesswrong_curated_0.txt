@@ -1,0 +1,325 @@
+[Epistemic status: intuitions and anecdotes.]
+
+Recently, several posts and projects (Thoughts Memo, Babel Translation, Please Give Them a Chance) have taken important steps towards raising AI safety awareness and sharing rationalist philosophy in China. It’s great that we’re recognizing the importance of solving the messaging problem for China, and thus laying the groundwork for an international AI pause. Below I record my perspective on cultural differences which are relatively underdiscussed, which may become roadblocks to this communication program.
+
+Background: I’m a “first-generation” Chinese-American who moved to the States at the age of four. The beliefs in this essay are primarily drawn from interactions with my parents and their generation of immigrants, and from consumption of Chinese media (dramas, webnovels, games, and manhua) which are not necessarily representative of the realities on the ground. I am likely over-indexed on the older generation and internet culture, and would appreciate corrections from folks who have direct lived experience. The picture I aim to paint is also complicated by a massive generational gap, and my understanding is that some of the below sentiments (e.g. the cynicism and nationalism) are partly inherited by the younger generation, and partly rejected through a variety of countercultures.
+
+Briefly, I point to four axes along which China is strikingly different. These differences are not black-and-white, but I think if you take the liberal middle-class western bubble I live in and shift the mode ~1 standard deviation in these directions you would get a substantively more accurate model of China:
+
+One thing I was shocked by when visiting China is that my grandparents went down to the supermarket every afternoon to buy fresh veggies to cook dinner. Chinese people, at least the older generation, are extremely careful about what they ingest, and have extremely high standards about freshness and culinary discernment. The idea of Americans storing fruit, veggies, and preserved food from the grocery store for weeks in the fridge is repulsive to them.
+
+I think the exact reverse of this dynamic exists for social reality. Chinese beauty filters are out of control. Similarly, here’s what much of pre-AI manhuas look like:
+
+Left to right: 重生都市天尊; 都市仙王; 最强仙尊陈北玄; 武炼巅峰.
+
+Westerners sometimes tell a story that China embraces AI because of some philosophical positivity towards technological progress. I don’t entirely discount this story, but my impression is that Chinese consumers already had a high tolerance for slop and AI content fit naturally into this ecosystem without ever triggering an uncanny-valley reflex. If anything, AI slop is of higher quality than some of the existing mass-produced content. According to this article, one new AI mini-drama (several hours in length) launches every 36 seconds on Douyin.
+
+Another striking feature of Chinese media is the ever-presence of audience reactions and the surrounding cultural conversation. Here is what I see if I pull up the first episode of idol drama “Pursuit of Jade” with 弹幕 (bullet comments) on by default:
+
+Here’s the first chapter of a randomly-selected popular novel on Qidian (the largest site for Chinese webnovels):
+
+Every sentence is annotated with reader comments – so interacting with the reactions of other netizens is now part of the reading experience. Often these comments are filled with memes and in-jokes (梗) which take years of internet immersion to understand. And thus reading a novel, something I classify as one of the most private experiences, is embedded into the cultural conversation.
+
+There is a lot more I could say: writing is filled with “clickbait” attention-grabbers; astroturfing and doxxing are entrenched industries; and it is typical for important events in slop novels to be padded by pages of fictional “social media reactions” showcasing in-universe virality. The basic message is: how others react to something is as important as the thing itself.
+
+Here is the first verse of a popular children’s song:
+
+小嘛小儿郎背着那书包上学堂不怕太阳晒也不怕那风雨狂只怕先生骂我懒哪没有学问啰无颜见爹娘朗里格朗里呀朗格里格朗没有学问啰无颜见爹娘
+
+I'm a small student.I carry my backpack to schoolI’m not afraid of the sun.I’m also not afraid of the wind or the rain.I'm only afraid that my teacher would scold me for being lazyI'd lose face before my parents without the knowledge of schoolLan lee eh lan lan lee eh lan lan lee eh lanI'd lose face before my parents without the knowledge of school.
+
+This basic message is inculcated throughout Chinese upbringing: push through and ignore physical discomfort, but attend to and be subject to social censure. It’s okay to be buffeted by the elements, but if your grades are bad, you’ll be too ashamed to face your parents.
+
+China lives inside an intricate and cynical theory of social reality. I wish I had some good writeups of this to point to; something that comes close is 48 Laws of Power, which cries out “this writer is sourcing from Chinese philosophy” but goes too far in the nuance-less sociopath manifesto direction.
+
+To give some examples, the phrase 社死, “social death,” which means being so embarrassed that one might as well be dead socially, has gained a lot of popularity. I think there is a genuine sense in which people (everywhere, but more so in China) are more viscerally afraid of humiliation than death. (Again, there exists a nuanced dialectic about this phrase, and it is now used mostly ironically to joke about minor embarrassment. Further, many fictional protagonists are written as bold iconoclasts who do what is right despite social censure. I think this example still points to a culture preoccupied with social grace.)
+
+Another example, as depicted in media, is a complex of subtle and entrenched rules “潜规则” (lit. “unspoken rules” or “underwater rules”) about social/corporate power that serve to enforce dominance hierarchies. The most salient such rule is “sleep with your boss to get ahead,” but more broadly, it points to dynamics like bribery and nepotism. Depending on status dynamics, being late is either a faux pas or a power move. Similarly with refusing to get drunk at a work dinner.
+
+A lot of anti-social behavior I used to intuitively attribute to "Dark Triad" pathologies – narcissism, Machiavellianism, psychopathy – I now attribute to a cluster of cynical/self-defensive beliefs that Duncan Sabien identifies in Truth or Dare as “The Dark World frame.”
+
+Dark World thinking is typified by Peter Thiel’s recent viral quote: “If you’re evil, at least you’re not bad.” Dark World thinking is everywhere, but in my experience there’s a particularly brazen strain in China. Key tenets of the Dark World:
+
+A chain is only as strong as its weakest link.
+
+Kindness to others is cruelty to oneself.
+
+A common trope in Chinese stories is what I call parenting-by-cauterization. A cruel master forces a young boy to kill his best friend: “He was your greatest weakness, kill him and you have one fewer.” Forming attachments is weakness. Breaking attachments makes you strong. (To be fair, this pattern is usually attributed to antagonists, and generally rejected as needlessly cruel by the overarching plot. My reading is that this is a real dialectic-in-progress to reject a pattern of generational trauma.)
+
+Dark World thinking sees all virtue and kindness as pretense. Among many such tropes, a common derogatory trope is of women who act nice and innocent 白莲花 (white lotus) while being deceitful and manipulative on the inside. Chinese media creates trapped priors that people acting kind, altruistic, and pure are more likely to be evil. Similarly, the phrase 圣母 (Virgin Mary) is derogatory slang for someone who displays excessive (read: normal-to-westerners) levels of empathy. If all kindness is pretense and deceit, the only way to signal trustworthiness is cruelty. My father used to say, “Everyone will be nice to you, but only your family will be honest.”
+
+One time I was having lunch with my wife and a Chinese friend, and the conversation meandered to why my wife entered college as a premed in her distant past life. Among the many reasons – money, respectability, parental approval – my wife brought up the motivation of “saving lives and helping people.” My friend laughed open-mouthed at that suggestion, taking it as an obvious joke. (Again, I don’t mean to say this person is representative of China. I suspect that their reaction is two-standard-deviations more Dark-World than the mode in China, and three-standard-deviations more Dark-World than the mode in the West.)
+
+Zvi Mowshowitz once wrote a book review of The Three-Body Problem, where his thesis was “The real aliens are the Chinese people”:
+
+Instead, the humans are written a lot stranger, to my American eyes, than the Trisolarians. Most characters are Chinese, but even those who are not continue to mostly think and act in this similarly alien style. I appreciated the opportunity to see the view of humanity from someone in a completely different culture. But it points out how ordinary the Trisolarians are that they are, at least, not obviously less like the humans I know, than are the humans in the book. How much of this is how the Chinese or some Chinese group view humans and think about the world, versus how the author does? I cannot say.
+
+The viewpoint expressed is deeply, deeply conservative and cynical.
+
+People, all but a handful of them, are absurdly fickle, petty, short-sighted, self-interested and self-defeating. They are obsessed with status and how they are relative to others, and on the margin wish others harm rather than well. If anyone tries to escape disaster or otherwise rise on their own, universally mankind's response is to band together to kill them.
+
+The Three-Body Problem is a particularly extreme example of the Dark World frame, and it’s an outlier because science fiction is grim-dark by default. My guess is that half of the Dark-Worldness of The Three-Body Problem derives from the nature of science fiction, and half from Chinese culture. There’s a reason the second book is called The Dark Forest.
+
+At some point I was watching American Ninja Warrior, and one season hosted national teams from various countries. When the interviewer came around to hear people’s stories, all the western teams were like “I’m doing this to set a good example for my wife and kids at home.” The Chinese team was like “I’m doing this to prove to the world that Chinese people can be great athletes.”
+
+In 2025 we saw the launch of an absolutely peak FMV game “Road to Empress” about instrumental convergence a fictionalized account of China’s only official female ruler Wu Zetian. Ludwig went viral in China for streaming it on Twitch, to the extent that the creators flew him out to China to film a cameo in the sequel:
+
+The top comment on the Bilibili playthrough, which Ludwig reacted to in this clip, went, “This game is really good-looking. It can let foreigners know that Asians are not all squinty-eyed as in the stereotype [grin] There are also many handsome men and beautiful women.” Ludwig’s response was “I'm laughing that their idea of America is that before playing this game, I thought all people in Asia were the stereotype with the squinty eyes.”
+
+Even among strains of nationalism, Chinese nationalism seems to be particularly chip-on-your-shoulder. My impression is that this kind of insecurity is less in your face, but still present, in younger Chinese today. It is concerning how much Chinese AI models catching up in the AI race is entangled with this national insecurity.
+
+The point of this post is to open for the reader my fairly narrow window into Chinese culture, and to draw attention to certain features I find alien as an American.
+
+I suspect that if the rationalist project wants to take root in China, it has to solve problems like not being immediately branded as holier-than-thou “圣母”, and adjusting to the cutthroat attention economy of Chinese social media. HPMOR is an example of something (grimdark power-scaling quasi-isekai fantasy) that likely appeals to Chinese netizens; Peter Singer is not.
+
+I like to say that if LessWrong is “on the spectrum” and “more autistic than normal,” where normal is set to the ambient western culture, then China lives past the right endpoint of the spectrum, at “even more allistic than normal.” My current hypothesis is that the locally optimal message to China is in the vein of “give us your autists who feel alienated by the monoculture,” but others may prefer a more conciliatory approach that directly appeals to the dominant culture.
+
+Epistemic status: personal experience plus anecdotes from a few people, skewing toward the older generation. Corrections welcome.
+
+alkjash suggested I write up the Discord discussion we had about this post. What follows pulls together views from myself (grew up in China and went abroad for university at 18), my partner (35 years in China, the last 5 in Sydney), my dad (60s, very local and very loyal Chinese citizen), and a friend (Alexis, who may yet make his own LW account).
+
+The post is largely right about ordinary people and the Chinese internet. Our main addition is that, for the specific goal of an AI pause in China, ordinary people and the internet matter a lot less than in the US.
+
+Public pressure has very little say over major policy in China. My dad's rough guess is that online pressure that would account for ~30% of a major US policy decision would account for less than 3% in China.
+
+A recent example is the revised Public Security Administration Punishments Law, which took effect in January 2026 and seals the records of minor offenses, including drug use. A separate reform in the works would do the same for minor crimes, the most common of which is drunk driving. Chinese people feel extremely strongly about both, and social media blew up late last year when people noticed. It got bad enough that whoever runs an official Zhejiang government Weibo account publicly pushed back against the policy (another report), while people defending it, including a well-known law professor, got a huge wave of abuse online. None of it changed anything. Posts stopped getting traction, searches got restricted, and now almost nobody talks about it. People let it go because they know more outrage won't move the policy.
+
+Online pressure does work sometimes, but only when an issue stays individual and personal. Once it turns into a collective call to action (2022 White Paper protests, 2018 Jasic workers' movement (RFA coverage)), it gets shut down fast. Whether the cause is right barely matters; what matters is who controls the discourse. You can be completely right and the leadership can agree with you 100%, and you'll still be suppressed, because you're not supposed to be the one leading that call.
+
+[Inputs from Alexis] The culture reinforces this. There's a widespread sense that pushing for change at this scale simply isn't a private citizen's place, because that's the authorities' job. Even grassroots reports of atrocities everyone agrees are intolerable, like the 2022 Xuzhou chained woman case, often get the response "who do you think you are to worry about this?" If anything this has grown since the pandemic. Someone we know recently saw a calligraphy scroll in a Chinese restaurant reading 莫谈国事 ("speak not of affairs of state"). In this view, a local problem gets handled by the province, a provincial one by Beijing, and above that there's still the Emperor. Your job is to get on with your firewood-rice-oil-salt life, and 青天大老爷会给我们做主 (the upright magistrate will see justice done for us).
+
+Since decisions come from the top, a pause would have to look like it came from the top too. If the US and China ever coordinate on pausing AGI, it can never be framed as "we're pausing because the US asked and our people are worried." It would have to look like "some issues have come up with AGI; don't worry, we'll take care of these AI companies."
+
+The good news is that you don't need to convince a billion people. The bad news is that you need to find the right few, and that mostly means the think tanks that advise decision-makers. Some of them already take AI risk seriously.
+
+Translating and spreading material for the general public is still worth doing as groundwork. If the people who make the call ever decide AGI should be slowed down, a body of plain-language explanations will already exist for them to pick up, and it becomes useful overnight. Though if they don't, the same material can be deprioritized, throttled, or buried, and bottom-up advocacy can't change that.
+
+For any public-facing material, my dad thinks talking with Chinese netizens about AGI being dangerous is totally fine, as long as it's pitched right.
+
+For what it's worth, I think EY does a quite good job about the "don't judge" part. The Intelligence Curse less so.
+
+Strongly upvoting this, this was exactly the sort of missing latent context I was hoping to elicit from the community with my poorly-informed post.
+
+(Chinese here who went abroad at 15 as well); adding on the AGI danger outreach: from what I saw on Xiaohongshu/Rednote I think it is also very important to 1. lay out the specific and different scenarios for why it is dangerous, 2. convince that “this outreach does not have anything to do with the rich hoping to be come richer” or “this is how the frontier companies are preventing competition”. It is quite the opposite - power and capital pushed the advancement of improper and irresponsible development of the technology and that makes it more dangerous
+
+(Huh, maybe this is shared between Chinese public and other societies)
+
+Thanks very much for your post. I'm a second-generation Chinese American, and among these I suspect that I and my parents are more Americanized than the median, but not by a lot. I've been to China maybe seven times in my life but didn't pay much attention for the first five, and have worked with Chinese professionals and interfaced with moderately successful Chinese people.
+
+I have the impression that in an era where the (developed) world is becoming more and more culturally homogeneous, China remains (to Americans) substantially alien, and e.g., attempts to model China, Chinese people, and the Chinese government for the purposes of affecting AI-related outcomes have been utterly inadequate/misguided. However, by and large I don't have the identity-based authority or cultural immersion to make a post like this myself with good concrete examples.
+
+Some remarks I would add to the main body of your post:
+
+I'm curious to hear from people who live/live in Taiwan, Hong Kong, or Chinese diaspora communities in Asia. I wonder the extent to which this culture is because China vs. because Communism.
+
+Arguably it is partially due to politics and the economic system, but evidence suggests that it may not be linked to "communism" as we commonly think of it, but rather the uniquely Chinese system that succeeded communism, starting with Deng's reforms.
+
+A comparison could be made to Singapore, which is majority ethnically Chinese, and similarly experienced an extremely rapid economic transformation, but which is a much less cynical society. I'd suppose that this can be attributed in some parts to:
+
+n = only a few here, but I do have the impression that Singaporeans are also extremely concerned with "social reality" by Western standards, perhaps to an equivalent degree as Chinese people. They are also nearly as defeated/crushed by a perceived lack of individual agency relative to the size/demands of society.
+
+This is just meant suggest that these traits are not sufficient to explain Chinese cynicism or more generally how Chinese society/culture work (obviously, when I put it that way).
+
+I grew up in Singapore, as a Singaporean Chinese, and only was in America since a few years ago.
+
+Cynicism. On a daily level, I think Singaporean Chinese are more cynical than Americans. We complain a lot, while the average American seems to be an optimist. This confuses me, since Singapore has a very high income and HDI. Strangely, trust in the Singapore ruling party (PAP) and our institutions is high. This is the opposite of America.
+
+Right to rule from the will of the people. It’s hard to say what this means, so I’ll talk first about liberal democracy. Lee Kuan Yew, Singapore's founding prime minister, was famous for speeches against liberal democracy [example video]. The need for political freedom and free speech isn’t a big deal in Singapore. Whereas I feel Americans tend to discuss freedom in every essay. Singapore is not a multi-party democracy, yet people's concerns do get addressed reasonably well. I guess technocracy has worked: smart people are recruited into the civil service, make good decisions, and they become MPs and ministers.I would say this is still somewhat linked to the "will of the people". Lee Kuan Yew himself said the ruling party could lose power if its quality dropped (We do have elections; the ruling party just never lost). Still, the American emphasis on political freedoms feels quite foreign in Singapore. I feel more free in Singapore despite fewer political freedoms. For example, I can move around safely at any hour there, hang out with my friends late at night on the street, which I can't do in San Francisco.
+
+Credentialism. The (maybe) flip side of this is emphasis on education, and respect for educational institutions.Singapore places high emphasis on it, which I think is inherited from Confucianism.Though it is still lower in Singapore than in China. For example, if someone had studied in Cambridge, I'd think they are smart to get a scholarship, but maybe I’ll also think their parents were rich. Speaking to mainland chinese friends, I feel that they respect anyone who went to Tsinghua as a god. They place much more emphasis on further education e.g. masters and doing PhDs.
+
+My parents grew up in Taiwan and I've spent maybe ~5 months of my life there across ~5 trips (more as a child than as an adult though); is there something specifically you're curious about?
+
+I lived in Taiwan and worked in a Chinese-speaking research role, and I don't think that life in Taiwan is very much like what I read above about the Mainland. When I lived in Taiwan (total of 15 months) I spent my time almost exclusively with native speakers and Japanese people, so my exposure to Americans while there was minimal. I am also a white American so this may have shifted my perceptions more broadly, though I've spent significant time consuming Mandarin-language Taiwanese social and traditional media (Threads, TV shows, movies, news) and can talk with some confidence here.
+
+Below I speak in generalities but hope that they’re instructive more generally:
+
+People in Taiwan look down at mainlanders for lacking social prowess. They see Mainlanders as obviously status-aggrandizing, having warped perceptions of personal space (standing way too close), lacking volume control, having rougher behavior, and generally being more cutthroat/less ethical than people in Taiwan would be. At the same time, they see the Mainland as a potential source of economic opportunity -- there are lots of Taiwanese people who make significant fortunes working adroitly with Mainland suppliers/distributors/manufacturers.
+
+The unit of organization in Taiwan is increasingly society, though familial ties remain strong. This conflict is depicted in shows like “The World between Us” and movies like “A Sun”where the family-society conflict is strong. The dominant Taiwanese social media platforms, Instagram Threads and Dcard, as well as the legacy PTT, often feature people progressing towards a self-society model rather than a self-family model, despite traditional practices like parental support (孝親費). Dating and marriage still seems much more motivated by pragmatism and material assets, which feature much more prominently on Taiwanese social media compared to e.g. Reddit.
+
+Notions of government deriving their right to rule from the will of the people: Strong, though in practice lots of Taiwanese people feel a lack of control over their politics / think that corruption is pretty strong. People find issue with “political alternation” 政治輪替 because the parties are not differentiated enough in practice, and pork-barrel politics often dominates over idealism.
+
+Most of the people I’ve talked to in Taiwan have pretty negative views of their media and think that the corruption/sensationalism is next-level.
+
+Responding to the points of the main article:
+
+Could a control for Communism without China include Russia or West/East Germany? The claim that "the purpose of life is to avoid suffering" (or execute a safety case against wholesale suffering?) reminded me of a Russian political philosopher and sociologist.
+
+Edited to add: how similar are other East Asian states like South Korea or Japan to China without Communism?
+
+I actually grew up with quite a few Taiwanese people and know a few people living in Hong Kong. However, n=only a few, so I'd take the following as basically just anecdote; I stand by it far less than my initial comment:
+
+(note here for Taiwanese people, the effects of selecting for people who were interested in emigrating to the US (and their children), and for HK people the effects of selecting for people who would emigrate to HK (and their children));
+
+attempts to model China, Chinese people, and the Chinese government for the purposes of affecting AI-related outcomes have been utterly inadequate/misguided.
+
+I assume westerners are terrible at understanding China and modeling China's cultural trends for an even more basic reason: We don't speak Chinese.
+
+I am generalizing here, based on my experiences with France. I speak and read French, and I spend a lot of time around French people. France should be easy for English speakers to understand. But most of what is published in US newspapers is hogwash, and pop cultural artifacts like Bringing Up Bébé are almost entirely about a fantasy France that is barely recognizable to French people. (You would be correct, however, to assume that the French like baguettes.) And all of this is despite the fact the US, UK and France undergo vast amounts of cultural diffusion, and have done so for over a thousand years.
+
+The media part you could probably correct for by reading and watching LLM translated media, social media and news. Translation has gotten very good for some language pairs. But in-person interaction is incredibly important, and you need a pretty high level of linguistic skill before you can really observe people in their natural habitat without them behaving differently in front of a foreigner. (This is probably much easier for second-generation diaspora members and fluent speakers who are married to someone from that culture.)
+
+The linguistic gap between the US and China is immense. The cultural gap is probably even bigger than the cultural gap between the US and Japan. And it's certainly far bigger than the cultural gap between San Francisco and a 1,000 person rural town in the Midwest—a gap which is endlessly confusing and irritating to both sides.
+
+So the default position for wise Americans is to assume that no, you don't understand China. And the depiction of multiple cultural factors being off by "about one standard deviation" is likely a very good frame. If all my anthropology courses taught me anything, it's that human cultures can differ in weird ways. But a major way cultures tend to differ is by flipping cultural trends from 80/20 to 20/80, so to speak: The human universals are still there, but the proportions can change. You can build part of your economy around something bizarre like competitive gifts of pigs. But there's still going to be some 50-year-old pig farmer complaining that "Kids today have no work ethic at all, and how are they ever going to put together a proper gift of pigs if they don't put in the work?" (I have seen the video of this guy.)
+
+Anecdotally agree with many of these points, but:
+
+Lastly, on the quote from Zvi in the post: "People, all but a handful of them, are absurdly fickle, petty, short-sighted, self-interested and self-defeating. They are obsessed with status and how they are relative to others, and on the margin wish others harm rather than well." Ideally, we would want to have some nice reasons we can tell ourselves to explain why China turned out like this. But I suggest that there is a great deal of randomness in how these pathologically cynical behaviors took hold, and that it could very well have been influenced by a bunch of factors (policies, external events, cultural elements, geographical elements, individual success cases) that we can't link to these behaviors with a straight line.
+
+Regarding (1), my sense is that there is a distinction between [Western government derives its legitimacy from the will of the people], and the more paternalistic [Chinese government derives its legitimacy from doing right by its people]. In this frame, in comparison to the west the Chinese government gains/loses comparatively little legitimacy from approval ratings/protest and comparatively more from results such as economic and geopolitical progress.
+
+I accept your critique. Re: your point 1, I didn't mean to suggest that there was something essential to Chinese character that makes this so and agree that it's extremely relevant that
+
+The idea that a government or a ruler derives their right to rule from the people has been the prevailing school of thought for a minority of human history
+
+. Mostly my comment was intended to illustrate more differences between common modes of Western and Chinese thought.
+
+I'm interested in how propaganda works well. Is it that the propaganda is insidious and well-executed or that the population is happy to take the propaganda as the way things are or something else. Elsewhere the culture comes across as pragmatic and cynical which to me seems like the kind of people who would be wary and resistent to propaganda.
+
+Some combination of the two. In large part the pragmatism doesn't intersect with the propaganda stuff, because people don't really believe that the truthfulness of media bears on anything practically important.
+
+It's also just the case that propaganda is constant and pervasive and media is tightly controlled; even a cynical person would have to bootstrap their degree of doubt pretty far to get to an appropriate amount, and this would be exhausting.
+
+I am a first-generation Chinese immigrant who came to the US when I was 15. I also took US history/government (AP) classes and world history/government classes in both high school and college (I majored in statistics with a concentration in political science). But I have now lived in the US for (slightly) more years than in China, and I do observe many differences among my Chinese friends (and even more on Chinese social media), so take my words with this context as well. I do think it is a good idea to share things like OP did to build cross-cultural understanding.
+
+Chinese social media is like American junk food. Chinese people find American food disgusting: inauthentic slop inundated with additives and high fructose corn syrup. Westerners will find Chinese social media similarly disgusting: uncanny-valley filters are everywhere, and social media is omnipresent in every corner of life.
+
+It really depends on which social media platform. Xiaohongshu (Rednote) has been pretty reasonable to me so far, maybe partly because it is not based on short videos (it's mostly pictures), and it is probably the only one I use. I actually couldn’t think of others besides TikTok? To me, X/Twitter, Facebook, and Instagram are pretty bad and going downhill, and worse than Xiaohongshu(Rednote). One thing I notice is that Xiaohongshu(Rednote). Rednote still has many fake science posts, though, more than I expected. (And sadly, I found that I sometimes believed them. I need to adjust and fact-check more.) I've also noticed that people from older generations really like to share fake science posts that they believe are true. I think there have been some recent regulations around this: you need a degree in certain science/psychology subjects to post about them on social media. I'm not sure how well it is enforced.
+
+Chinese nationalism as collective insecurity. The narrative is that China experienced a "century of humiliation" being brought to its knees by western colonizers, the Opium War, and Japanese atrocities in WW2, and the world still sees Chinese as "East Asian weaklings." Through this lens, the primary drive of Chinese people is to prove themselves equal or superior to westerners and usher in the Chinese century.
+
+The "century of humiliation" sentiment is real and widely shared (and the history is true), but "proving themselves equal" as the result is not very accurate. In my world model, it is more about people being angry at the injustice and wanting to make sure the country is at least strong enough to defend itself. There is also sometimes the sentiment of "if they can get away with doing A, why cannot we do this (less severe) thing B?" Colonization is not something people find glorious, but rather evil.
+
+People are by default out to get you. Emphasis on strength/competence and de-emphasis on kindness/virtue. Closely related to, but distinct from, scarcity mindset.
+
+To me, the issue is resource scarcity and allocation. Not very long ago (maybe the 1970s), poverty was still quite common. (And somehow, my impression is that kindness/virtue mattered much more back then. My take is that people are relatively similar in terms of economic situation, and there is sense of "we can do this better together".) As the economy has improved and time has gone on, I've somehow seen more emphasis on strength/competence. And maybe a lot of EA/LW folks don't know this: in my view, some form of consequentialism and long-term utilitarianism is almost built into Chinese daily life: "Is this thing useful?" Sometimes when I discuss with Western friends how I think having more virtue is net positive, I realize my baseline is very different.
+
+However, at the same time, virtues are still highly valued in some contexts, especially when judging the behavior of others who are the more privileged or celebrities. I think this is carried over from traditional values. It's something similar to "德不配位," basically a belief that the higher up you are on the social ladder, the more morally competent or constrained you should be. (I generally like this idea, but it should not be used as an excuse by people who feel like they are the least powerful in society.)
+
+In recent years, there has been a wave of attention on mental health, which adds another turn to the story. Suppressing emotions is the (potentially unnecessary) side product of being too outcome focused.
+
+my wife brought up the motivation of "saving lives and helping people." My friend laughed open-mouthed at that suggestion, taking it as an obvious joke.
+
+I am Indian, and the shame based collectivism, inferiority based on recent colonial memories, dark world frame all applies to India without much mods. The one change is Indians only trust family. They do not trust the state as well. Being a democracy and all. Only family based loyalty. So every single family is like a small mafia unit. As a result corruption is rampant. You cannot buy a house in India without laundered money. Everyone knows it, law enforcement and govt and everybody is in on it. It is a thing of wonder to watch. Much like Indian traffic - it is hard to figure out how it all hangs together, and yet it does. But the source is the inability to form a collective much more than the family unit. Christianity helped in this regard in the west. While I do not envy believing in sky people and such, I envy Christianity for its ability to take random European tribes and make larger collectives and identity.
+
+Your comment reminded me to add the following passage to my own! I was struggling to remember what point I was missing for several minutes when writing it and eventually gave up:
+
+Another thing taken for granted in Western circles is that the individual is the natural unit of organization in society. China is overwhelmingly more organized into familial units; the implications of this reach far beyond people being expected to support their parents and in-laws and parents having a stronger say in marriages and whatever-- it is much more strongly presumed that everything about a person's life is the business of their family, which has strong compounding effects with these other "social reality" pressures. To illustrate, regardless of what the letter of the law (which usually somewhat resembles the Western version of the same) states, within-family conflicts can escalate to levels which would straightforwardly be considered criminal and a violation of human rights in the West, and the explicit position of authorities would be "that's a matter for the family to work out".
+
+Of course, any compression of a whole country into a single post is a trade off between accuracy and usefulness - and I think it is true that even today, many Chinese youth/adults still feels that the humiliation from the... century of humiliation has yet gone away. But I feel that this post is over-indexing on a particularly degen part of chinese culture/noosphere ("imagine thinking that all Americans are like 4chan/b/") through the lens of web-novels or the commentary of a particular person's commentary on a TV show on bilibili. And I don't quite understand what "give us your autists" mean on an action level.
+
+I agree directionally but would update hard if bilibili is considered as degen in China as 4chan is in the West. Is this true?
+
+bilibili is not as degen as 4chan! (Bilibili nominally started as an anime site - i think it is sufficiently mainstream to not be degen. It was not my intention to claim that bilibili is as degen as 4chan (though I see how my follow up is under-specified and seems to be a direct comparison between the two - will make correction)). Tiktok is probably 1OOM more popular than bilibili and more degen overall. (though still far from 4chan by my degen metric). Now having more time to mull over, the intention of my. comment was more tribalistic than ideal. My current stance is something more like:
+
+(Context: am Chinese, 1st gen, lived and worked in the East and West)
+
+My disagreement now comes from the fact that I was specifically speaking about the difference between China and my social bubble (represented by say academic mathematicians and rationalists in the west). The people in my bubble are not degen in most of the ways you listed above (except possibly the fish one?).There's probably an important and separate equivalent post that might be written about "the social reality of Real America" that might be helpful for our messaging campaign in the States, and it would include some of the things you're pointing to, but that's not the one I wrote.
+
+If I ctrl-f for rationalist/academic, i get 2 hits in the post. And American 8 times. Most of the comparison seems to be made between the Chinese and Americans, instead of Rationalist <> Chinese or Academic <> Chinese? I do appreciate the fact that, by comparing the Chinese to the Americans, and then assuming that the rationalist community is calibrated on their difference to the American culture writ large, and thus is able to calibrate their difference to the Chinese.
+
+Yes, okay, it was lazy that I conflated my social bubble with the general American identity, and should have spelled out more clearly how alien "America" is to me as well. Thanks for clarifying this.
+
+As somebody who has no social ties to this community, I can attest that -- while this social cynicism certainly exists in America, and especially among those who concern themselves with status -- it's not as endemic in "normal" American culture as you're describing. People here seem more content on the margin to derive meaning from self-expression and hedonism and say screw the social pressure.
+
+Some notes as a second-generation Chinese American:
+
+I think childrearing in China seems to be extremely communal (they really do have the mythical "village" there that western parents pine for), and my immigrant parents felt a heavy burden to replicate the entire village's worth of cultural transmission through their own two persons. This tended towards a level of extra authoritarianism independent of the nature of Chinese culture itself.
+
+I like the reframing of "kindness is not bad, just costly," this seems like the real underlying story. Lots of stories seem to start with "repress your empathy until you're in enough power to do something about it." I think practically this is more relatable but just as damaging, as it tends towards an blind spot around positive sum coordination (which in my LW frame is a main driver of human progress). I had never made the connection between 黄蓉 and 梅长苏, but totally see it now, that's a great insight.
+
+Re: your point 1, I'd like to register approximately the opposite: I didn't take any conscious notice of how my family or community was meaningfully different from that of other Americans' until well into my adult life, and later, after talking to and observing a lot of adult Chinese people, connected some dots and realized that my upbringing fit a specific frame really well. Notably, I don't think I was very deeply in the ingroup of a lot of these Chinese people and I don't think I observed particularly unusually inward-facing attitudes from them (or, I've observed plenty of ecologically typical outward-facing behavior, in any case).
+
+I was born and raised in China and lived there for the first 20+ years of my life, till around 2020. The following is my personal view, as a self-identified autistic-leaning individual who never quite fit in, so please take what I said with a grain of salt:
+
+While I agree that the dark world frame does present in my upbringing for quite a bit, I worry that it is not the full story. If you look at some of the western travel vloggers in China (here's an example), they would tell you that the Chinese people are very friendly and nice, giving gifts to strangers and inviting them to gatherings etc. So why the difference?
+
+From my anedotal view, a few possible reasons:
+
+And here is where I want to emphasis on: There is a difference (and sometimes disconnection) between what people say, what people think, and what people do. Take the "saving lives and helping people" example:
+
+One time I was having lunch with my wife and a Chinese friend, and the conversation meandered to why my wife entered college as a premed in her distant past life. Among the many reasons – money, respectability, parental approval – my wife brought up the motivation of “saving lives and helping people.” My friend laughed open-mouthed at that suggestion, taking it as an obvious joke. (Again, I don’t mean to say this person is representative of China. I suspect that their reaction is two-standard-deviations more Dark-World than the mode in China, and three-standard-deviations more Dark-World than the mode in the West.)
+
+Sure, the Chinese friend did not believe her claim of her good will motivation. But there are doctors in China too, and they are underpaid and overworked (sadly, like many other places in the world). Why did they choose to get into this profession? Again, this is my personal opinion, but my suspicion is that good will do exist commonly in China, they are just expressed differently (instead of loud public statements). During COVID, many doctors from all over the country went to Wuhan, risking their lives to save others; lots of volunteers work in each and every neighbourhoods, keeping the goods flowing and tests administrated. Talk is cheap and a easily fakable signal, too commonly used by manipulative actors who you cannot tell if they meant it; while actions are verifable and a more culturally acceptable way of expressing love.
+
+I think differences in communications like the above can lead to a lot of misunderstandings.
+
+For example, in China, people by default subconsciously may not differentiate, and likely do not want to differentiate, between the state, the head of the state, the government, our cultural/national identity, and the people as the sum of the individuals. (Personally I think the main reason is that unlike in western democracies, we usually have much less need to tell them apart in our daily discourse.) A perceived attack on one can be easily seen as a perceived attack on all. I am not sure how much this is true in America.
+
+This does makes LessWrong, by its current default, perceived to be quite hostile to Chinese individuals, especially recently with a lot of criticisms and belittlement against China / CCP / Xi / Mao littering around here, as the (often America-centered) political content become more popular. I don't see many Chinese nationals hanging around here, even though LessWrong was not blocked in mainland China (at least in 2025 when I last visited). Discussions on Zhihu about LessWrong are currently minimal and neutral/somewhat-negative (see this question).
+
+I am not sure about the implications of this to the global rationalist movement. But I do know that the arguments here on LessWrong can be one-sided (with the Chinese side missing; and that side can tell a very different story (followup)); and I would recommend to update beliefs accordingly.
+
+As a second-gen Chinese, I agree, I feel like the original post sees this from a western "lens", as I have experienced a lot during my recent 1 year exchange in China where a lot of my western friends had a hard time understanding some parts of Chinese culture, why Chinese people think (or don't think) about political, social, philosophical topics.
+
+The social changes caused by rapid economic development tend to be hard on people. A person needs to be integrated into society, and rapid social change makes it harder for a person to achieve that, resulting in high rates of addiction. For example, some addiction psychologists believe that England's Gin Craze of the first half of the eighteenth century was caused mainly by rapid social change caused by economic progress. Another source of social change in China was Mao's uprooting of most of the country's traditional moral frameworks.
+
+My point is that some of what the OP describes is probably a reaction to truly drastic social change and to the trauma of 15 years of civil war, invasion by Japan, the Great Leap Forward and the Cultural Revolution rather than permanent or even persistent manifestations of the Chinese character.
+
+Oh, undoubtedly. Every single person in power in China today is at most one generation removed from one that experienced the revolution firsthand, and the most powerful are all part of that generation. The resulting periods of economic development were also ones where there was very little order and a lot at stake, so undoubtedly a lot of backstabbing and general chaos followed well into the 1990s or even 2000s. It very much stands to reason that people would be paranoid and adversarial; it was an extremely adaptive way of being.
+
+I talked to a person who grew up in China and went to a Chinese Uni recently about AI (but now lives in a western country)
+
+What I heard was that narrative like "Chinese people are optimistic about AI and robotics" or they are "excited to adopt AI" is kind of false. Remember those long lines for OpenClaw workshops in China? This got read by many westerners as Chinese people are optimistically excited about AI.
+
+But at least from that person's perspective this is mostly about not wanting to go under in the constant societal race. People feel that if they don't learn to use the latest AI they will be crushed by competition. Similarly, people may say they are excited about AI in public but this is also about keeping face and wanting to appear successful. Showing signs that you are worried is a sign of weakness. I was told that most people in China are privately worried (though largely about mundane stuff like jobs) but that people don't want to look like losers if they express being worried in public.
+
+One thing I felt surprised by here was the combination of "dark world attitude", and, my understanding that China is very collectivist relative to America/Europe. How does the cynicism/"altruism is suspect" thing go with "but also you are do all your work for the collective."
+
+One friend pointed out that, like, Russia and other Eastern European countries also are very cynical, and this is (maybe?) actively downstream of Communism, i.e. communism tries to indoctrinate you into supporting the collective but also it doesn't work and everyone learns to be cynical.
+
+But, also, I thought China was collectivist before Communism.
+
+Curious if there are more details on how this all fits together.
+
+I think China's notion of "collectivism" is quite different from "collectivism" as understood in the US and Europe.
+
+In China, the "collective" refers more to family (including extended family), and then a further web of social connections. You may have heard of how central guanxi is to life in China. People are highly distrustful of anyone outside of their personal networks, but they are "collectivist" in that those networks are far more important to their lives than they would be in the West.
+
+In the US and Europe, "collectivism" is more understood as being trusting and even altruistic towards strangers. China is very low on this.
+
+One friend pointed out that, like, Russia and other Eastern European countries also are very cynical, and this is (maybe?) actively downstream of Communism, i.e. communism tries to indoctrinate you into supporting the collective but also it doesn't work and everyone learns to be cynical.
+
+Seems to me that in Slovakia, cynicism is visibly correlated to politics. Things like optimism, altruism, non-profits are coded pro-Western / pro-democracy. Here, optimism includes also the limited forms such as "most people suck, but some don't, and sometimes they succeed to make the world a better place".
+
+The pro-Russian / pro-communist people see non-profits as a part of giant (American/Jewish/whatever) conspiracy, and will call you an idiot for believing that people might join them motivated by a desire to help someone; everyone working at a non-profit is either paid lots of money to participate at destruction of the society... or is an gullible idiot doing it for free, but his bosses definitely are on some evil mastermind's payroll. Something like Effective Altruism would be an obvious scam to them.
+
+Yet somehow, those people would (in a way that I can't explain well) suddenly turn 180 degrees and describe themselves, their families, maybe even their entire country (when talking to a stranger), as good peaceful people who love everyone and try to help as much as they can. It's just everyone else who is completely evil and manipulative. Not them... and maybe not you, as long as they are talking to you.
+
+I have a problem making a coherent model out of this, but maybe the intuition behind it is something like "good people are passive". Someone working in a non-profit is too active person to be genuinely good. The truly good people only act privately; only interact with their family members, neighbors, and friends. Good people wisely accept their helplessness on a greater scale. Only idiots and liars talk about improving the world (or even their city); and the idiots by definition never accomplish anything, only hurt themselves.
+
+I suspect that this mindset is older than communism, probably it comes from feudalism (which is probably not that different from communism, if you model the communist party as the feudal lord).
+
+I think the confusion comes from the meaning of "collectivist." Collectivism (in the cultural sense, at least in corss-cultural psychology) is something more like "your identity and obligations are tied to specific groups" rather than "I should do work for the whole." For most Chinese people that starts with family, then extends to relatives, classmates, coworkers and people from your hometown.I generally think of this as concentric circles of obligation/relationship (although the more poetic description is from Fei Xiaotong: ripples from a stone dropped in water). Obligations are strongest close to you and weaken with each ring outward, and nothing like a universal ethic covers strangers. Somewhat like "Me against my brother; me and my brother against our cousin; me, my brother, and my cousin against the stranger," on outward until it is me and all Chinese people against non-Chinese. So the cynicism and the collectivism fit together. If a tight circle is your safety net, you need less trust in outsiders.People these days also have sort of "no good deed goes unpunished" perspective, partially because there was a highly publicized case about a good Samaritan in Nanjing in 2006 being punished by the court ("no one would in good conscience help someone unless they felt guilty") for helping a stranger.(I'm an American who lived in China for 10 years, studied Chinese in college, and has read many books on China due to my own interest (I've read about about 115 books on China))
+
+A weak guess from my inner Chinese model is that "dark world" is operationalized as DUPOC (defect until proof of cooperate), and the cultural narrative is that the Chinese state is one of the few entities that have proven cooperate by the undeniably amazing economic progress in the last half-century. Your family is another such entity by having fed and raised you from birth. Everyone else might be out to get you.
+
+My impression is very, very much NOT this.
+
+My model is this. You are very cynical and think all human organisations are corrupt and self serving. You see evidence that possibly implies your government is corrupt and self serving. You shrug and think 'Yeah, of course it is. How could it have been any different?'. Later, someome tries to persaude you to risk life and liberty to change the government by force, you remember that whatever replaces the government is probably going to be exaclty as bad and decline the offer. You accept corruption and self serving ness as a fundamental attribute of any government, maybe if they were also super incompetent you might push to change things.
+
+I dont think this mindset is unique to china. I am sure the USA has a big number of college students who will tell their freinds voting is dumb and will give some version of this argument.
+
+In america the school teacher says 'go out and vote' and the naughty child says 'waste of time, they are all bad and always were, always will be'. In china the teacher and naughty child swap arguments. Most children side with their teacher in both countries.
+
+This is a total coincidence, but I read this paper this morning and it may go some way towards explaining the combination of collectivism and cynicism: https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1172&context=orpc
+
+A key point is that cooperation/collectivism doesn't mean less conflict, it just means that conflict is hidden.
+
+Curated. Even if there were no matters of geopolitical importance to be resolved, I'd say it is good (and certainly interesting!) to learn about and understand this whole other major society that's on our planet (and with which we're very interconnected already). I have long felt that I have a major blindspot around China and what life is like there. This post helps, but also reinforces that sense that it is a pretty different place and it's cool to know about. Had I more time, I'd learn Chinese and visit or live there.There are in fact matters of geopolitical significance, and all us humans on are one giant spherical space boat together, so I do think it's timely to understand each other. As at least one of the comments points out, decisions in China come from the top more than the common person, but still I'd think the memes and attitudes and vibes are connected throughout the nation, and to understand the leadership it helps to understand the people.I am saddened to hear of the Dark World thinking and deep distrust of kindness. That sounds like a very sad world. But better to know about it. It would be nice perhaps if the US and Western World didn't take a complete "China is the enemy stance, China can't be trusted". That attitude seems like it justifies distrust from them. It'd be nice if both East and West could start from "trust doesn't come from nowhere, but it'd be great if we could cooperate". I could imagine in a world with more time, I might want to push on "trust and collaboration benefit all" both in East and West. Perhaps if we'd done that decades ago, the modern world situation would be very different.Shoutout to the many people speaking up in the comments and adding more detail here. Much appreciated.Thanks for the post! Kudos!
+
+I grew up and did my undergrad in China, and I'm currently doing a PhD in the US. I generally agree with the observations in the article, though I'm not sure whether I have a good model of "normal" Chinese people.
+
+An example that reflects both points 1 and 2 is the perception of Anthropic in China. Anthropic is widely demonized as an evil, closed, anti-China company whose purpose is Amodei's personal dominance or AI cult, where AI safety is a laughable sci-fi justification used to sanction China or Chinese AI labs. A viral article from a Chinese AI professional (I don't want to be more explicit because I personally know the author) expressed this viewpoint as an obvious truth, with the claim that Western labs like Anthropic will build a "Cyberpunk 2077"-style future while Chinese labs will build a communist, open-source AI utopia.
+
+This is fascinating. Contrary to what the author might expect, I feel like the Chinese internet he describes is a lot more similar to the internet I remember growing up (as an ∞-generation White American with little to no surviving history anywhere else) than the English-speaking internet is today.
+
+The feeling of being fundamentally on the same page as everyone else, sharing notes on the things they're reading, and so on definitely reminds me of certain imageboard threads when I was younger, and of things like Twitch Plays Pokemon, where everyone sort of merged into a single collective impulse, sharing their true feelings with each other under the cover of anonymity. As the English internet became global, it's become a lot less intimate, and the assumption that someone is 'like me' faded, meaning that the internet no longer really has a strong sense of community. But what little I know about the Chinese internet is very familiar, sort of like our internet circa 2012 if the memes and customs evolved separately but into similar niches.
+
+I think the Chinese use of AI for all of these infinite drama series fits that presentation, too. Americans made similar things when the tech came out, but only as proof of concept demos. The death of organic algorithms mean that creators are a lot less prolific now, so nobody really had the incentive to scale it out and get it running as anything more than a brief demonstration of technical skill. I'm reminded of the 24/7 lofi hip hop girl streams that were really popular in 2016; we'd definitely see the AI version of that if modern AI had come about 10 years earlier, in the more organic ecosystem.
+
+The big difference is the concept of 'face', though. Anonymity and the absence of any sort of chilling effect imposed by the real world was the source of a lot of the magic I describe.
+
+I think the embedded comments are sometimes great, there are truly peak memes and it is a very cozy feeling to be part of the chatter and in the know. The way I relate to it is in the same way that I relate to American fast food - I like Panda Express! But cooking for someone who likes Panda Express is a different task from cooking for someone who likes traditional Sichuan cuisine.

@@ -24,94 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 1943,
-   "text": "World War II: Allied forces executed Operation Leader, an air raid against German shipping near Bodø, Norway.",
+   "year": 2014,
+   "text": "Formula One racing driver Jules Bianchi crashed at the Japanese Grand Prix, sustaining fatal head injuries that would kill him the following year.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "Jules Lucien André Bianchi was a French racing driver who competed in Formula One from 2013 to 2014."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1941,
-   "text": "Willie Gillis, one of Norman Rockwell's trademark characters, debuted on the cover of The Saturday Evening Post.",
+   "year": 2011,
+   "text": "Two Chinese cargo ships were attacked and their crews murdered on a stretch of the Mekong River in far northern Thailand.",
    "context": [
-    "Willie Gillis, Jr. is a fictional character created by Norman Rockwell for a series of World War II paintings that appeared on the covers of 11 issues of The Saturday Evening Post between 1941 and 1946. Gillis was an everyman with the rank of private whose career was tracked on the cover of the Post from induction through discharge without being depicted in battle. He and his girlfriend were modeled by two of Rockwell's acquaintances."
+    "The Mekong River massacre occurred on the morning of 5 October 2011, when two Chinese cargo ships were attacked on a stretch of the Mekong River in the Golden Triangle region on the borders of Myanmar (Burma) and Thailand. All 13 crew members on both ships were killed and dumped in the river. It was the deadliest attack on Chinese nationals abroad in modern times. In response, China temporarily suspended shipping on the Mekong, and reached an agreement with Myanmar, Thailand and Laos to jointly patrol the river. The event was also the impetus for the Naypyidaw Declaration and other anti-drug cooperation efforts in the region. On 28 October 2011, Thai authorities arrested nine Pha Muang Task Force soldiers, who subsequently \"disappeared from the justice system\". Drug lord Naw Kham and three subordinates were eventually tried and executed by the Chinese government for their roles in the massacre."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1927,
-   "text": "Gutzon Borglum and approximately 400 workers began sculpting Mount Rushmore.",
+   "year": 2000,
+   "text": "Colour revolutions: During protests over irregularities in the Yugoslavian general election, a wheel-loader was driven into the Radio Television of Serbia building, giving the protests the nickname \"Bulldozer Revolution\".",
    "context": [
-    "John Gutzon de la Mothe Borglum was an American sculptor best known for his work on Mount Rushmore. He is also associated with various other public works of art across the U.S., including Stone Mountain in Georgia, statues of Union General Philip Sheridan in Washington, D.C., and in Chicago, as well as a bust of Abraham Lincoln exhibited in the White House by Theodore Roosevelt and now held in the United States Capitol crypt in Washington, D.C."
+    "The colour revolutions are a series of often non-violent protests and accompanying changes of government and society taking place in post-Soviet states and the former Yugoslavia during the 21st century. The aim of the colour revolutions is to establish Western-style democracies. They were primarily triggered by election results widely viewed as falsified. The colour revolutions are marked by the use of the internet as a method of communication, as well as a strong role of non-governmental organizations in the protests."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1925,
-   "text": "Great Syrian Revolt: Rebels led by Fawzi al-Qawuqji captured the city of Hama from the French Mandate of Syria.",
+   "year": 1999,
+   "text": "Two trains collided head-on in Ladbroke Grove, London, killing 31 people, injuring 417, and severely damaging public confidence in the management and regulation of safety of Britain's privatised railway system.",
    "context": [
-    "The Great Syrian Revolt, also known as the Revolt of 1925, was a general uprising across the State of Syria and Greater Lebanon during the period of 1925 to 1927. The leading rebel forces initially comprised fighters of the Jabal Druze State in southern Syria, and were later joined by Sunni, Druze and Shiite and factions all over Syria. The common goal was to end French occupation in the newly mandated regions, which passed from Ottoman to French administration following World War I."
+    "The Ladbroke Grove rail crash occurred on 5 October 1999 at Ladbroke Grove in London, England, when a Thames Trains passenger train passed a signal at danger, colliding almost head-on with a First Great Western passenger train. With 31 people killed and 417 injured, it was one of the worst rail accidents in 20th-century British history."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1918,
-   "text": "First World War: The Japanese merhant ship Hirano Maru was sunk by a German submarine in the Celtic Sea with the loss of 291 lives.",
+   "year": 1994,
+   "text": "Swiss police found the bodies of 48 members of the Order of the Solar Temple, who had died in a cult mass murder-suicide.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "The Order of the Solar Temple, or simply the Solar Temple, was a new religious movement and secret society, often described as a cult, notorious for the mass deaths of many of its members in several mass murders and suicides throughout the 1990s. The OTS was a neo-Templar order, claiming to be a continuation of the Knights Templar, and incorporated an eclectic range of beliefs with aspects of Rosicrucianism, Theosophy, and New Age ideas. It was led by Joseph Di Mambro, with Luc Jouret as a spokesman and second in command. It was founded in 1984, in Geneva, Switzerland."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1917,
-   "text": "First World War: The Allies devastated the German defence at the Battle of Broodseinde, prompting a crisis among German commanders and causing a severe loss of morale in the 4th Army.",
+   "year": 1988,
+   "text": "During the United States vice-presidential debate, Democratic candidate Lloyd Bentsen told his opponent Dan Quayle, \"Senator, you're no Jack Kennedy.\"",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "Lloyd Millard Bentsen Jr. was an American politician who served as the 69th United States secretary of the treasury under President Bill Clinton from 1993 to 1994. He served as a United States senator from Texas from 1971 to 1993 and was the Democratic Party nominee for vice president in 1988 on the Michael Dukakis ticket."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1876,
-   "text": "Texas A&M University opened as the first public institution of higher education in the U.S. state.",
+   "year": 1986,
+   "text": "Eugene Hasenfus's plane was shot down by Nicaraguan forces while carrying weapons to the Contra rebels on behalf of the U.S. government; he was subsequently captured, leading to an international controversy.",
    "context": [
-    "Texas A&M University is a public land-grant research university in College Station, Texas, United States. It was founded in 1876 and became the flagship institution of the Texas A&M University System in 1948. Since 2021, Texas A&M has enrolled the largest student body in the United States. It is classified among \"R1: Doctoral Universities – Very high research activity\" and since 2001 has been a member of the Association of American Universities."
+    "Eugene Haines Hasenfus was a United States Marine who helped fly weapons shipments on behalf of the U.S. government to the right-wing rebel Contras in Nicaragua. The sole survivor after his plane was shot down by the Nicaraguan government in 1986, he was sentenced to 30 years in prison for terrorism and other charges, but pardoned and released the same year. The statements of admission he made to the Sandinista government resulted in a controversy in the U.S. government after the Reagan administration denied any connection to him."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1862,
-   "text": "American Civil War: After a naval battle in Galveston Harbor, Texas, Confederate commanders negotiated the surrender of the city to Union forces.",
+   "year": 1963,
+   "text": "The U.S. suspended the Commercial Import Program, its main economic support for South Vietnam, in response to the oppression of Buddhists by President Ngô Đình Diệm (pictured).",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln and the growing abolitionist movement in the North. The war ended with Union victory, the dissolution of the Confederacy and the abolition of slavery, freeing four million African Americans."
+    "The Commercial Import Program, sometimes known as the Commodity Import Program (CIP), was an economic aid arrangement between South Vietnam and its main supporter, the United States. It lasted from January 1955 until the Fall of Saigon in 1975 and the dissolution of South Vietnam following the invasion by North Vietnam after US forces had withdrawn from the country due to the 1973 cease-fire agreement."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1633,
-   "text": "Smolensk War: Forces from the Polish–Lithuanian Commonwealth broke the Russian siege of Smolensk (depicted).",
+   "year": 1962,
+   "text": "\"Love Me Do\", the first single by the Beatles, was released in the United Kingdom.",
    "context": [
-    "The Smolensk War (1632–1634) was fought between the Polish–Lithuanian Commonwealth and Russia."
+    "\"Love Me Do\" is the debut single by the English rock band the Beatles, backed by \"P.S. I Love You\". When the single was originally released in the United Kingdom on 5 October 1962, it peaked at number 17. It was released in the United States in 1964 and topped the nation's song chart. Re-released in 1982 as part of EMI's Beatles 20th anniversary, it re-entered the UK charts and peaked at number 4. \"Love Me Do\" also topped the charts in Australia and New Zealand."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1448,
-   "text": "Skanderbeg and Gjergj Arianiti signed a peace treaty to end the Albanian–Venetian War.",
+   "year": 1962,
+   "text": "Dr. No, the first James Bond film, was released.",
    "context": [
-    "Gjergj Kastrioti was an Albanian nobleman and military leader who led the League of Lezhë in the Ottoman-Albanian Wars until his death. Skanderbeg is considered to be a major figure of medieval Albanian history and today is the national hero of Albania."
+    "Dr. No is a 1962 spy film and the first film in the James Bond series, starring Sean Connery as the fictional MI6 agent James Bond. Co-starring Ursula Andress, Joseph Wiseman and Jack Lord, it was directed by Terence Young and adapted by Richard Maibaum, Johanna Harwood, and Berkely Mather from the 1958 novel by Ian Fleming. The film was produced by Harry Saltzman and Albert R. Broccoli of Eon Productions, a partnership that continued until 1975. In the film, James Bond is sent to Jamaica to investigate the disappearance of a fellow British agent. The trail leads him to the underground base of Dr. No, who is plotting to disrupt an early American space launch from Cape Canaveral with a radio beam weapon."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1363,
-   "text": "Red Turban Rebellions: The rebel leader Zhu Yuanzhang won the Battle of Lake Poyang by deploying ships intentionally set aflame when the emperor tried to escape.",
+   "year": 1937,
+   "text": "Six days after retiring from the Queen's College, Oxford, Robert Howard Hodgkin was elected its provost due to the sudden death of B. H. Streeter.",
    "context": [
-    "The Red Turban Rebellions were uprisings against the Yuan dynasty between 1351 and 1368, eventually leading to its collapse. Remnants of the Yuan imperial court retreated northwards and is thereafter known as the Northern Yuan in historiography."
+    "The Queen's College is a constituent college of the University of Oxford, England. The college was founded in 1341 by Robert de Eglesfield in honour of Philippa of Hainault, queen of England. It is distinguished by its predominantly neoclassical architecture, primarily dating from the 18th century."
+   ]
+  },
+  {
+   "ref": "wikipedia#11",
+   "year": 1936,
+   "text": "Around 200 men began a 291-mile (468 km) march from Jarrow to London, carrying a petition to the British government requesting the re-establishment of industry in the town.",
+   "context": [
+    "The Jarrow March of 5–31 October 1936, also known as the Jarrow Crusade, was an organised protest against the unemployment and poverty suffered in the English town of Jarrow during the 1930s. Around 200 men, or \"Crusaders\" as they preferred to be called, marched from Jarrow to London, carrying a petition to the British government requesting the re-establishment of industry in the town following the closure in 1934 of its main employer, Palmer's shipyard. The petition was received by the House of Commons but not debated, and the march produced few immediate results. The Jarrovians went home believing that they had failed."
+   ]
+  },
+  {
+   "ref": "wikipedia#12",
+   "year": 1903,
+   "text": "Samuel Griffith (pictured) became the first Chief Justice of Australia, while Edmund Barton and Richard O'Connor became the first Puisne Justices of the High Court of Australia.",
+   "context": [
+    "Sir Samuel Walker Griffith was an Australian judge and politician who served as the inaugural Chief Justice of Australia, in office from 1903 to 1919. He also served a term as Chief Justice of Queensland and two terms as Premier of Queensland, and played a key role in the drafting of the Australian Constitution."
+   ]
+  },
+  {
+   "ref": "wikipedia#13",
+   "year": 1869,
+   "text": "During construction of the Eastman tunnel in St. Anthony, Minnesota (now Minneapolis), the Mississippi River broke through the tunnel's limestone ceiling, nearly destroying Saint Anthony Falls.",
+   "context": [
+    "The Eastman tunnel, also called the Hennepin Island tunnel, was a 2,000-foot-long (600 m) underground passage in Saint Anthony, Minnesota, dug beneath the Mississippi River riverbed between 1868 and 1869 to create a tailrace so water-powered business could be located upstream of Saint Anthony Falls on Nicollet Island. The tunnel ran downstream from Nicollet Island, beneath Hennepin Island, and exited below Saint Anthony Falls."
+   ]
+  },
+  {
+   "ref": "wikipedia#14",
+   "year": 1838,
+   "text": "A Cherokee band attacked settlers near Larissa, Texas, killing or abducting 18 people.",
+   "context": [
+    "The Cherokee or Tsalagi people are one of the Indigenous peoples of the Southeastern Woodlands of the United States. Prior to the 18th century, they were concentrated in their ancestral homelands, living in towns along river valleys in what is now southwestern North Carolina, southeastern Tennessee, southwestern Virginia, parts of western South Carolina, northern Georgia, and northeastern Alabama, with hunting grounds extending into Kentucky. Together, these lands encompassed approximately 40,000 square miles."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1789,
+   "text": "French Revolution: Upset about the high price and scarcity of bread, thousands of Parisian women and allies marched (pictured) on the Palace of Versailles.",
+   "context": [
+    "The French Revolution was a period of political and societal change in France that began with the Estates General of 1789 and ended with the Coup of 18 Brumaire on 9 November 1799. Many of the revolution's ideas are considered fundamental principles of liberal democracy, and its values remain central to modern French political discourse. It was caused by a combination of social, political, and economic factors which the existing regime proved unable to manage."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 869,
+   "text": "The Fourth Council of Constantinople, the eighth Catholic Ecumenical Council, was convened to discuss the patriarchate of Photios I of Constantinople.",
+   "context": [
+    "The Fourth Council of Constantinople was the eighth ecumenical council of the Catholic Church held in Constantinople from 5 October 869, to 28 February 870. It was attended by over 103 bishops. In contrast, the pro-Photian council of 879–80 was attended by 383 bishops. The Council met in ten sessions from October 869 to February 870 and issued 27 canons."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Golden handcuffs (אזיקי זהב)",
+  "Secular trend (מגמה מבנית)",
+  "Skin in the game (עניין אישי בתוצאה)",
   "Run-rate (קצב שנתי מוערך)",
   "Kitchen-sink quarter (רבעון של ניקוי ארונות)",
   "Move the needle (להזיז את המחוג)",

@@ -1,6 +1,6 @@
 {
- "date": "2026-10-04",
- "prepared_at": "2026-10-04T09:30:39+00:00",
+ "date": "2026-10-05",
+ "prepared_at": "2026-10-05T03:48:41+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -11,24 +11,16 @@
  ],
  "skipped_sections": [],
  "order": [
-  "sports",
   "geopolitics",
   "israeli_politics",
   "business",
+  "sports",
   "ideas",
   "learn"
  ],
  "match_day": {
-  "is_match_day": true,
-  "events": [
-   {
-    "sport": "soccer",
-    "competition": "UEFA Nations League",
-    "home": "Ireland",
-    "away": "Israel",
-    "kickoff_utc": "2026-10-04T18:45:00"
-   }
-  ]
+  "is_match_day": false,
+  "events": []
  },
  "markets": {
   "TA35": {
@@ -47,25 +39,25 @@
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0532,
-   "prev_close": 3.0728,
-   "change_pct": -0.64,
-   "as_of": "2026-10-02"
+   "last": 3.0436,
+   "prev_close": 3.0852,
+   "change_pct": -1.35,
+   "as_of": "2026-10-05"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 102.25,
-   "prev_close": 102.31,
-   "change_pct": -0.06,
-   "as_of": "2026-10-02"
+   "last": 101.44,
+   "prev_close": 102.25,
+   "change_pct": -0.79,
+   "as_of": "2026-10-04"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 85277.8516,
+   "last": 86269.7031,
    "prev_close": 84763.5781,
-   "change_pct": 0.61,
-   "as_of": "2026-10-04"
+   "change_pct": 1.78,
+   "as_of": "2026-10-05"
   }
  },
- "essays_fetched": 5
+ "essays_fetched": 2
 }
