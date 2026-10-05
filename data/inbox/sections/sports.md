@@ -353,7 +353,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "bbc_football#0",
      "title": "Scott withdraws from England squad and could be out for eight weeks",
-     "published": "2026-10-05T09:07:34+00:00",
+     "published": "2026-10-05T09:12:32+00:00",
      "summary": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could keep him out for up to eight weeks."
     },
     {
@@ -508,153 +508,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Messi to play one final match before retirement in epic Argentina send-off - tag24.com",
+     "published": "2026-10-05T07:48:02+00:00",
+     "summary": "Messi to play one final match before retirement in epic Argentina send-off tag24.com"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Lionel Messi vs Taylor Swift: Which Star Is More Popular Worldwide? - International Business Times Australia",
      "published": "2026-10-05T07:23:49+00:00",
      "summary": "Lionel Messi vs Taylor Swift: Which Star Is More Popular Worldwide? International Business Times Australia"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "MLS Injuries & Suspensions - Sportsgambler",
      "published": "2026-10-05T04:43:54+00:00",
      "summary": "MLS Injuries & Suspensions Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin - Goal.com",
      "published": "2026-10-05T04:30:08+00:00",
      "summary": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Michael Weatherly Cried For Real When Ziva Left NCIS—The Emotional Truth Revealed! Inter Miami Vs Toronto (FgZQCOGSN9) - Unisba Media",
      "published": "2026-10-05T03:57:57+00:00",
      "summary": "Michael Weatherly Cried For Real When Ziva Left NCIS—The Emotional Truth Revealed! Inter Miami Vs Toronto (FgZQCOGSN9) Unisba Media"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Lionel Messi buys football club - themag.co.uk",
+     "ref": "gnews_inter_miami#5",
+     "title": "Lionel Messi buys football club - The Mag",
      "published": "2026-10-05T03:50:25+00:00",
-     "summary": "Lionel Messi buys football club themag.co.uk"
+     "summary": "Lionel Messi buys football club The Mag"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Messi considers a new decision after buying Deportivo Eldense - Goal.com",
      "published": "2026-10-05T02:51:57+00:00",
      "summary": "Messi considers a new decision after buying Deportivo Eldense Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Ronaldo can return to Portugal team if he wants, national coach says - TRT World",
      "published": "2026-10-05T01:22:06+00:00",
      "summary": "Ronaldo can return to Portugal team if he wants, national coach says TRT World"
     },
     {
-     "ref": "gnews_inter_miami#7",
-     "title": "Inter Miami vs DC United: Predictions, Picks, Odds & Lineups - squawka.com",
+     "ref": "gnews_inter_miami#8",
+     "title": "Inter Miami vs DC United: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-05T01:20:59+00:00",
-     "summary": "Inter Miami vs DC United: Predictions, Picks, Odds & Lineups squawka.com"
+     "summary": "Inter Miami vs DC United: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Argentina Shares Lionel Messi Update Sunday - heavy.com",
      "published": "2026-10-05T00:16:00+00:00",
      "summary": "Argentina Shares Lionel Messi Update Sunday heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Messi's moment: Inter Miami's captain still has work to do - Inter Heron",
      "published": "2026-10-04T23:00:00+00:00",
      "summary": "Messi's moment: Inter Miami's captain still has work to do Inter Heron"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi arrives ahead of his final appearance for Argentina - Gulf News",
      "published": "2026-10-04T22:44:59+00:00",
      "summary": "Lionel Messi arrives ahead of his final appearance for Argentina Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#11",
-     "title": "Lionel Messi Joins Argentina Squad for One Last Dance at the Monumental - Pasión Fútbol",
-     "published": "2026-10-04T19:50:00+00:00",
-     "summary": "Lionel Messi Joins Argentina Squad for One Last Dance at the Monumental Pasión Fútbol"
-    },
-    {
      "ref": "gnews_inter_miami#12",
-     "title": "How Are Inter Miami’s International Call-Ups Performing? Mixed Results Before MLS Return - Pasión Fútbol",
-     "published": "2026-10-04T19:45:00+00:00",
-     "summary": "How Are Inter Miami’s International Call-Ups Performing? Mixed Results Before MLS Return Pasión Fútbol"
+     "title": "Lionel Messi Joins Argentina Squad for One Last Dance at the Monumental - pasionfutbol.com",
+     "published": "2026-10-04T19:50:00+00:00",
+     "summary": "Lionel Messi Joins Argentina Squad for One Last Dance at the Monumental pasionfutbol.com"
     },
     {
      "ref": "gnews_inter_miami#13",
+     "title": "How Are Inter Miami’s International Call-Ups Performing? Mixed Results Before MLS Return - pasionfutbol.com",
+     "published": "2026-10-04T19:45:00+00:00",
+     "summary": "How Are Inter Miami’s International Call-Ups Performing? Mixed Results Before MLS Return pasionfutbol.com"
+    },
+    {
+     "ref": "gnews_inter_miami#14",
      "title": "Lionel Messi eyes historic free-kick record after latest goal - Yahoo Sports",
      "published": "2026-10-04T19:00:00+00:00",
      "summary": "Lionel Messi eyes historic free-kick record after latest goal Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#14",
-     "title": "Inter Miami Locks Down Its Future: The Young Prospects Already Protected With New Contracts - Pasión Fútbol",
-     "published": "2026-10-04T18:55:00+00:00",
-     "summary": "Inter Miami Locks Down Its Future: The Young Prospects Already Protected With New Contracts Pasión Fútbol"
-    },
-    {
      "ref": "gnews_inter_miami#15",
-     "title": "Inter Miami Sends Powerful Ballon d’Or Message as Lionel Messi Chases Historic Ninth Award - Pasión Fútbol",
-     "published": "2026-10-04T18:39:00+00:00",
-     "summary": "Inter Miami Sends Powerful Ballon d’Or Message as Lionel Messi Chases Historic Ninth Award Pasión Fútbol"
+     "title": "Inter Miami Locks Down Its Future: The Young Prospects Already Protected With New Contracts - pasionfutbol.com",
+     "published": "2026-10-04T18:55:00+00:00",
+     "summary": "Inter Miami Locks Down Its Future: The Young Prospects Already Protected With New Contracts pasionfutbol.com"
     },
     {
      "ref": "gnews_inter_miami#16",
-     "title": "Tata Martino Needs an MLS Miracle: The Unlikely Path That Could Send Atlanta United to the Playoffs - Pasión Fútbol",
-     "published": "2026-10-04T16:15:00+00:00",
-     "summary": "Tata Martino Needs an MLS Miracle: The Unlikely Path That Could Send Atlanta United to the Playoffs Pasión Fútbol"
+     "title": "Inter Miami Sends Powerful Ballon d’Or Message as Lionel Messi Chases Historic Ninth Award - pasionfutbol.com",
+     "published": "2026-10-04T18:39:00+00:00",
+     "summary": "Inter Miami Sends Powerful Ballon d’Or Message as Lionel Messi Chases Historic Ninth Award pasionfutbol.com"
     },
     {
      "ref": "gnews_inter_miami#17",
-     "title": "Lionel Messi Arrives in Argentina After Completing the Purchase of a New Soccer Club - Pasión Fútbol",
-     "published": "2026-10-04T15:00:00+00:00",
-     "summary": "Lionel Messi Arrives in Argentina After Completing the Purchase of a New Soccer Club Pasión Fútbol"
+     "title": "Tata Martino Needs an MLS Miracle: The Unlikely Path That Could Send Atlanta United to the Playoffs - pasionfutbol.com",
+     "published": "2026-10-04T16:15:00+00:00",
+     "summary": "Tata Martino Needs an MLS Miracle: The Unlikely Path That Could Send Atlanta United to the Playoffs pasionfutbol.com"
     },
     {
      "ref": "gnews_inter_miami#18",
+     "title": "Lionel Messi Arrives in Argentina After Completing the Purchase of a New Soccer Club - pasionfutbol.com",
+     "published": "2026-10-04T15:00:00+00:00",
+     "summary": "Lionel Messi Arrives in Argentina After Completing the Purchase of a New Soccer Club pasionfutbol.com"
+    },
+    {
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Andrés Messi reaches 76 career free-kick goals - Yahoo Sports",
      "published": "2026-10-04T13:30:00+00:00",
      "summary": "Lionel Andrés Messi reaches 76 career free-kick goals Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#19",
-     "title": "Official: Messi & Ronaldo To Renew Rivalry In Spain - soccerladuma.co.za",
+     "ref": "gnews_inter_miami#20",
+     "title": "Official: Messi & Ronaldo To Renew Rivalry In Spain - Soccer Laduma",
      "published": "2026-10-04T13:03:00+00:00",
-     "summary": "Official: Messi & Ronaldo To Renew Rivalry In Spain soccerladuma.co.za"
+     "summary": "Official: Messi & Ronaldo To Renew Rivalry In Spain Soccer Laduma"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Inter Miami CF v New York City Odds - FanDuel Sportsbook",
      "published": "2026-10-04T12:14:21+00:00",
      "summary": "Inter Miami CF v New York City Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Without Messi! Argentina win 7-0 and deliver a top performance - Dailysports",
      "published": "2026-10-04T06:47:00+00:00",
      "summary": "Without Messi! Argentina win 7-0 and deliver a top performance Dailysports"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Emiliano Martinez opens up on Lionel Messi retirement and admits Inter Miami star will leave 'a massive void' for Argentina - Goal.com",
      "published": "2026-10-04T06:40:08+00:00",
      "summary": "Emiliano Martinez opens up on Lionel Messi retirement and admits Inter Miami star will leave 'a massive void' for Argentina Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Lionel Messi & Argentina News Confirmed on Saturday - heavy.com",
      "published": "2026-10-03T23:42:33+00:00",
      "summary": "Lionel Messi & Argentina News Confirmed on Saturday heavy.com"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Messi on target as Miami downed by Columbus Crew - Kuwait Times",
-     "published": "2026-10-03T18:36:00+00:00",
-     "summary": "Messi on target as Miami downed by Columbus Crew Kuwait Times"
     }
    ]
   },
@@ -664,9 +664,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "Blazers Rock Fan Fest: 'Everything About The Day Has Been Perfect' - Sports Illustrated",
+     "title": "Blazers Rock Fan Fest: 'Everything About The Day Has Been Perfect' - si.com",
      "published": "2026-10-05T03:34:41+00:00",
-     "summary": "Blazers Rock Fan Fest: 'Everything About The Day Has Been Perfect' Sports Illustrated"
+     "summary": "Blazers Rock Fan Fest: 'Everything About The Day Has Been Perfect' si.com"
     },
     {
      "ref": "gnews_israeli_nba#1",

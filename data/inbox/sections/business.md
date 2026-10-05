@@ -18,75 +18,75 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "BlackRock Says Higher Yields Not Necessarily Bad for Markets",
-     "published": "2026-10-05T09:04:04+00:00",
-     "summary": "Vivek Paul, global head of portfolio research at BlackRock International, discusses the impact of rising bond yields on other asset classes. \"If this is yields being driven by effectively greater growth prospects, by the AI wave etcetera, that doesn't need to be bad news for markets,\" Paul says on Bloomberg Television. (Source: Bloomberg)"
+     "title": "Bolsonaro pone a Lula contra las cuerdas rumbo al balotaje",
+     "published": "2026-10-05T09:25:31+00:00",
+     "summary": "Flávio Bolsonaro tomó la delantera sobre Lula en la primera vuelta de las elecciones presidenciales de Brasil. El resultado prepara un balotaje que podría llevar a la mayor economía de América Latina hacia un marcado giro a la derecha. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "Citi's Costa: Markets Will Rally on a Bolsonaro Victory in Brazil Elections",
+     "published": "2026-10-05T09:25:10+00:00",
+     "summary": "Citi Group's Luis Costa, EM Strategy and Global Head, joins Bloomberg's Guy Johnson, Anna Edwards, and Tom Mackenzie on \"The Opening Trade\" to discuss the market reaction to Brazil's election as Flávio Bolsonaro wins the first round. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Romanian Assets Rally After Dodging Rating Downgrade to Junk",
+     "published": "2026-10-05T09:11:41+00:00",
+     "summary": "Romania’s bonds and stocks rallied after S&P Global Ratings maintained an investment-grade credit score for the sovereign, providing a relief to the country struggling to overcome a political crisis."
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "BlackRock Says Higher Yields Not Necessarily Bad for Markets",
+     "published": "2026-10-05T09:04:04+00:00",
+     "summary": "Vivek Paul, global head of portfolio research at BlackRock International, discusses the impact of rising bond yields on other asset classes. \"If this is yields being driven by effectively greater growth prospects, by the AI wave etc., that doesn't need to be bad news for markets,\" Paul says on Bloomberg Television. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#4",
      "title": "Unruly Euro at Risk of Japanese Selling: 3-Minutes MLIV",
      "published": "2026-10-05T09:01:18+00:00",
      "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" For up to the minute market intelligence and insight, click MLIV . (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
-     "title": "Saudi East-West Oil Pipeline Is Said to Be Flowing as Normal",
-     "published": "2026-10-05T08:52:11+00:00",
-     "summary": "Saudi Arabia’s East-West pipeline is operating normally, people familiar with the matter said, after reports that it had suffered a further attack."
+     "ref": "bloomberg_markets#5",
+     "title": "Turkey Fund Outflows Mostly Moved to Bank Deposits, BofA Says",
+     "published": "2026-10-05T08:59:32+00:00",
+     "summary": "BofA Securities Inc said a large share of Turkish fund outflows stemming from a rout in September moved into bank deposits."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
+     "title": "Key Saudi Oil Pipeline Flows Normal Despite Report of Halt",
+     "published": "2026-10-05T08:52:11+00:00",
+     "summary": "Saudi Arabia’s key cross-country oil pipeline is operating normally, people familiar with the matter said, after a report that it had shut following a new attack."
+    },
+    {
+     "ref": "bloomberg_markets#7",
      "title": "Greek Fiscal Plan Sees Budget Surplus Exceeding Target in 2026",
      "published": "2026-10-05T08:48:27+00:00",
      "summary": "Greece’s budget surplus this year will be higher than previously expected, while the country’s economy will grow at a 2% rate in 2026 before accelerating to 2.3% next year."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#8",
      "title": "UST Risks: Treasuries, Other Government Bonds Sell Off",
      "published": "2026-10-05T08:00:07+00:00",
      "summary": "Chicago Fed's Carolin Pflueger thinks only rates, not words, can affect public perception."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#9",
      "title": "Odd Lots: Why Treasuries Became Risky Again (Podcast)",
      "published": "2026-10-05T08:00:00+00:00",
      "summary": "We all know that US Treasury yields have been surging, alongside bond yields all around the world. So what explains the selloff and does this mean that bonds are becoming fundamentally riskier? What happens if investors can no longer hedge stocks with government debt? And how do expectations of the Federal Reserve’s “reaction function” fit in? In this episode, we speak with Carolin Pflueger, assoc"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#10",
      "title": "Malaysian Palm Oil Stockpiles Balloon to Record on Output Surge",
      "published": "2026-10-05T07:50:46+00:00",
      "summary": "Palm oil inventories in Malaysia likely swelled to a record last month, buffering supplies of the world’s most-used vegetable oil as an intensifying El Niño threatens to disrupt production in the coming year."
     },
     {
-     "ref": "bloomberg_markets#7",
-     "title": "US, India Officials Signal Trade Deal Negotiations at an Impasse",
+     "ref": "bloomberg_markets#11",
+     "title": "US, India Officials Signal Trade Deal Talks at an Impasse",
      "published": "2026-10-05T07:39:57+00:00",
      "summary": "Top officials in the US and India signaled that negotiations over a trade deal have reached an impasse that’s making it difficult to clinch an agreement."
-    },
-    {
-     "ref": "bloomberg_markets#8",
-     "title": "Saudi Arabia Cuts Price of Benchmark Oil Grade to Asia",
-     "published": "2026-10-05T07:34:32+00:00",
-     "summary": "Energy Aspects founder Amrita Sen says the increased cost of shipping is the reason why Saudi Arabia cut prices of its benchmark grade to Asia. \"It's costing about $30 per barrel right now to move oil from Hormuz to Asia,\" she tells Bloomberg Television. \"The biggest issue is ship-to ship,\" she adds. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "Surprise Slowdown in Turkish Prices Makes Case for Rate Cut",
-     "published": "2026-10-05T07:03:05+00:00",
-     "summary": "Turkish inflation continued to slow in September, raising the prospect of an interest rate cut at the next central bank meeting to help ease liquidity strains stemming from a domestic funds crisis."
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "Aramco Slashes Asia Oil Price, Saudi-Backed Forces Target Houthis, Super-Rich Leave UK",
-     "published": "2026-10-05T06:35:30+00:00",
-     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "Boyu Said to Weigh Sale of Contract Medical Device Maker Quasar",
-     "published": "2026-10-05T06:32:16+00:00",
-     "summary": "Buyout firm Boyu Capital is considering a sale of medical device maker Quasar Medical, according to people familiar with the matter."
     },
     {
      "ref": "bloomberg_markets#12",
@@ -114,15 +114,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "Nippon to Buy Akzo’s Southeast Asia Unit for $1.35 Billion",
-     "published": "2026-10-05T00:48:07+00:00",
-     "summary": "Nippon Paint Holdings Co. is buying Akzo Nobel NV’s decorative paints operations in Southeast Asia for $1.35 billion, acquiring a regional slice of a business it had sought to buy in full."
-    },
-    {
-     "ref": "bloomberg_markets#17",
      "title": "Stocks Drift as Europe’s Woes Dent Risk Appetite: Markets Wrap",
      "published": "2026-10-04T22:17:26+00:00",
      "summary": "Stocks drifted as political upheaval and mounting concern over Europe’s public finances dampened risk sentiment and sent the euro to a 17-month low against the dollar."
+    },
+    {
+     "ref": "bloomberg_markets#17",
+     "title": "Latest Oil Market News and Analysis for Oct. 5",
+     "published": "2026-10-04T22:03:02+00:00",
+     "summary": "Oil fluctuated in jittery trading, as Saudi Arabia cut prices of its benchmark grade to Asia, the kingdom’s state producer warned about the risk of low stockpiles and as fighting in Yemen intensified."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -144,57 +144,63 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Spanish prime minister Pedro Sánchez calls snap election",
+     "published": "2026-10-05T09:00:07+00:00",
+     "summary": "Move to hold vote on November 29 comes after government defeat on legislation aimed at ending housing crisis"
+    },
+    {
+     "ref": "ft_home#1",
+     "title": "Brazil’s Bolsonaro dynasty closes in on stunning comeback",
+     "published": "2026-10-05T08:49:35+00:00",
+     "summary": "First-round vote raises prospect of dramatic victory for Flávio Bolsonaro, son of the former president"
+    },
+    {
+     "ref": "ft_home#2",
+     "title": "Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’",
+     "published": "2026-10-05T08:21:07+00:00",
+     "summary": "Amin Nasser says inventories depleted by Middle East conflict could take up to two years to rebuild"
+    },
+    {
+     "ref": "ft_home#3",
      "title": "Flávio Bolsonaro takes commanding lead in Brazil election",
      "published": "2026-10-05T08:05:01+00:00",
      "summary": "Son of jailed former far-right president in pole position against President Luiz Inácio Lula da Silva"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#4",
      "title": "Euro slides to 17-month low against dollar",
      "published": "2026-10-05T07:43:45+00:00",
      "summary": "High energy prices and concerns over France’s public finances add to pressure on the single currency"
     },
     {
-     "ref": "ft_home#2",
-     "title": "Spanish prime minister Pedro Sánchez calls snap election",
-     "published": "2026-10-05T07:35:33+00:00",
-     "summary": "Move to hold vote on November 29 comes after government defeat on legislation aimed at ending housing crisis"
-    },
-    {
-     "ref": "ft_home#3",
+     "ref": "ft_home#5",
      "title": "Russia’s new drive to crush Ukraine",
      "published": "2026-10-05T04:00:12+00:00",
      "summary": "Moscow’s relentless offensive on cities and ports has halted the country’s grain exports, severing an economic lifeline"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#6",
      "title": "Why a booming economy is not helping Trump",
      "published": "2026-10-05T04:00:12+00:00",
      "summary": "Anxiety about AI and affordability has turned his populist party into a popular target"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#7",
      "title": "The FT’s stock picking game starts today",
      "published": "2026-10-05T04:00:12+00:00",
      "summary": "Take on other subscribers in a race to win £1,000"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#8",
+     "title": "Global pension funds cut US equities over AI concentration risk",
+     "published": "2026-10-05T04:00:12+00:00",
+     "summary": "Push for diversification as concerns mount over ‘stretched’ valuations"
+    },
+    {
+     "ref": "ft_home#9",
      "title": "Estonia shifts troops closer to Russia in ‘active defence’ push",
      "published": "2026-10-05T04:00:05+00:00",
      "summary": "Baltic state prepares to carry out deep strikes inside its neighbour if it is attacked"
-    },
-    {
-     "ref": "ft_home#7",
-     "title": "US recalls B-1 bombers from UK air base following alleged terror plot",
-     "published": "2026-10-04T22:24:04+00:00",
-     "summary": "UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near RAF Fairford"
-    },
-    {
-     "ref": "ft_home#8",
-     "title": "Bull run for Japan stocks at risk, warns boss of biggest trading house",
-     "published": "2026-10-04T21:00:00+00:00",
-     "summary": "Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities"
     }
    ]
   },
@@ -206,7 +212,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "themarker#0",
      "title": "רגע לפני הדיון בבג\"ץ, הפטריארכיה מערערת את טענת אקסטל: \"לא היה ספק שקק\"ל תאריך את החכירה\"",
      "published": "2026-10-05T08:50:35+00:00",
-     "summary": "אקסטל קנתה את הזכויות ל\"קרקעות הכנסייה\" שהפטריארכיה היוונית החכירה לקק\"ל בשנות ה-50 ■ כעת החברה מנסה להגיע להסדר מול קק\"ל וחוכרי הקרקעות ■ טענת הפטריארכיה, הצד המקורי בהסכם, עשויה לשנות משמעותית את החלטת בג\"ץ בפרשה"
+     "summary": "אקסטל של גארי ברנט קנתה את הזכויות ל\"קרקעות הכנסייה\" שהפטריארכיה היוונית החכירה לקק\"ל בשנות ה–50 ■ כעת החברה מנסה להגיע להסדר מול קק\"ל וחוכרי הקרקעות ■ טענת הפטריארכיה, הצד המקורי בהסכם, עשויה לשנות משמעותית את החלטת בג\"ץ בפרשה"
     },
     {
      "ref": "themarker#1",
@@ -258,7 +264,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#9",
-     "title": "עליות במסחר: אנלייט ודוראל קופצות ב-6%; מדד הבנקים יורד ב-1%",
+     "title": "המסחר עבר לירידות: הבנקים והנדל\"ן יורדים ב-1%; אנלייט ודוראל מוסיפות 4%",
      "published": "2026-10-05T05:36:28+00:00"
     },
     {
@@ -358,111 +364,105 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Bank Stocks Are Haunted by the Ghosts of 2023",
+     "published": "2026-10-05T09:30:00+00:00",
+     "summary": "Lenders have stronger balance sheets now as they face a new rate-hiking cycle."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Stock Market Today: Dollar Strengthens as Investors Look for Safety",
+     "published": "2026-10-05T09:11:59+00:00",
+     "summary": "Euro dragged by France's fiscal woes"
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "Euro Could Stay Weak on Risk of ECB Repricing as French Yields Surge",
+     "published": "2026-10-05T09:08:00+00:00",
+     "summary": "The euro looks set to remain weak as the ECB’s tightening cycle is more vulnerable to being repriced than the Fed’s, ING said."
+    },
+    {
+     "ref": "wsj_markets#3",
      "title": "Warren and Hawley to Probe Insurers Over Zero-Payout Claims",
      "published": "2026-10-05T09:00:00+00:00",
      "summary": "The senators, one a Republican and the other a Democrat, question whether companies are driving profits with ‘tactics to delay payments.’"
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#4",
      "title": "U.S. Stock Futures Steady as French Fiscal Pressure Raises Contagion Risk",
      "published": "2026-10-05T08:50:00+00:00",
      "summary": "U.S. stock indexes were little moved after rising sharply Friday, when weak jobs data dimmed expectations for Fed rate hikes and supported risk assets."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#5",
      "title": "French Bond Yields Stay Elevated, Treasury Yields Ease",
      "published": "2026-10-05T08:27:00+00:00",
      "summary": "French government bond yields rose, staying at elevated levels amid building concerns over the country’s indebtness."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#6",
      "title": "Gold Rises on Fading U.S. Rate-Hike Bets But Stronger Dollar Caps Gains",
      "published": "2026-10-05T08:10:00+00:00",
      "summary": "Gold prices rose after recent soft U.S. economic data sharply lowered expectations of a Fed rate hike in October, though a stronger dollar limited gains."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#7",
      "title": "Oil Falls on Signs of Recovering Middle Eastern Flows, G-7 Stock Release",
      "published": "2026-10-05T07:54:00+00:00",
      "summary": "Oil prices fell in early trading as recovering Middle East crude exports and the release of oil stocks by the Group of Seven eased concerns over supplies."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#8",
      "title": "European Indexes Fall as Political Pressures Weigh",
      "published": "2026-10-05T07:45:00+00:00",
      "summary": "European stock indexes largely edged lower in early trade as political pressures added to losses on French and Spanish indexes."
     },
     {
-     "ref": "wsj_markets#6",
-     "title": "Dollar Lifted by French Debt Concerns, U.S. Rate-Rise Bets",
-     "published": "2026-10-05T07:20:00+00:00",
-     "summary": "The dollar rose, supported by expectations for U.S. interest-rate rises and French fiscal concerns."
-    },
-    {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "Robotics Startup RobCo Hits $1 Billion Valuation",
      "published": "2026-10-05T07:00:00+00:00",
      "summary": "The German company aims to capitalize on growing demand for autonomous industrial robots."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "Euro Falls to 16-Month Low Vs. Dollar, Weighed by French Concerns",
      "published": "2026-10-05T06:59:00+00:00",
      "summary": "The euro was weighed down by France’s fiscal woes and concerns about increased French government spending."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "How Polymarket’s ‘Growth at All Costs’ Strategy Opened the Door to Fraud",
      "published": "2026-10-04T16:00:00+00:00",
      "summary": "Watch WSJ’s Katherine Long break down Polymarket’s pattern of compliance failures."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "Inside Dodgers Owner Mark Walter’s Charity, a Funding Shift Led the CEO to Quit",
      "published": "2026-10-04T16:00:00+00:00",
      "summary": "Academy Group will be funded by an entity being examined as part of the probe into Walter’s insurance lending; the charity says the switch was always the plan."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#13",
      "title": "Stock Funds Cling to a 10.3% Gain for 2026",
      "published": "2026-10-04T14:00:00+00:00",
      "summary": "Slammed by rising interest rates and global turmoil, markets were resilient in the third quarter. Plus: A Financial Flashback to 15 years ago, Steve Jobs’s death."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#14",
      "title": "How to Keep Your Estate Plan From Tearing Your Family Apart",
      "published": "2026-10-04T14:00:00+00:00",
      "summary": "It’s often the stuff you haven’t even thought of that can create the biggest divisions."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#15",
      "title": "Paramount’s $52 Billion Debt Sale Shows How Higher Rates Are Biting Corporate America",
      "published": "2026-10-04T09:30:00+00:00",
      "summary": "The media company paid through the nose for its record-setting bond deal. Other corporate issuers will too."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#16",
      "title": "Five Things I Learned in Hiring a Financial Adviser",
      "published": "2026-10-03T14:00:00+00:00",
      "summary": "I’ve been the family financial decision-maker for a quarter of a century. Handing the reins to somebody else has taught me a lot about my blind spots."
-    },
-    {
-     "ref": "wsj_markets#15",
-     "title": "Luxury Stocks Are Selling at Fast-Fashion Prices",
-     "published": "2026-10-03T09:30:00+00:00",
-     "summary": "Trends that made luxury companies like LVMH such a brilliant investment over the past 20 years are fading."
-    },
-    {
-     "ref": "wsj_markets#16",
-     "title": "How the French Bond Trade Backfired on Investors",
-     "published": "2026-10-03T09:30:00+00:00",
-     "summary": "Hedge funds piled into leveraged bets over the summer, figuring French politics wouldn’t get much rockier."
-    },
-    {
-     "ref": "wsj_markets#17",
-     "title": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
-     "published": "2026-10-03T09:30:00+00:00",
-     "summary": "Upstart trading firms loom large on platforms such as Kalshi and Polymarket. They are starting to raise capital."
     }
    ]
   }
@@ -470,9 +470,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4227.7002,
+   "last": 4224.0601,
    "prev_close": 4218.25,
-   "change_pct": 0.22,
+   "change_pct": 0.14,
    "as_of": "2026-10-05"
   },
   "SP500": {
@@ -484,23 +484,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0561,
+   "last": 3.0619,
    "prev_close": 3.0852,
-   "change_pct": -0.94,
+   "change_pct": -0.76,
    "as_of": "2026-10-05"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 102.29,
+   "last": 101.95,
    "prev_close": 102.25,
-   "change_pct": 0.04,
+   "change_pct": -0.29,
    "as_of": "2026-10-05"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 86094.1016,
+   "last": 85844.3281,
    "prev_close": 86480.3047,
-   "change_pct": -0.45,
+   "change_pct": -0.74,
    "as_of": "2026-10-05"
   }
  },
