@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-06",
+  "questions": [
+    {
+      "id": "quiz-business-anthropic-loan",
+      "section": "business",
+      "story_id": "anthropic-broadcom-chip-debt",
+      "answer_index": 2,
+      "en": {
+        "question": "What did Wall Street banks launch to back the Broadcom-Anthropic chip supply deal?",
+        "options": [
+          "A $60 billion direct investment in Anthropic's equity",
+          "A government-backed loan guarantee for Broadcom",
+          "A record $60 billion syndicated loan, split among many lenders",
+          "A joint bond issue by Broadcom and Anthropic"
+        ],
+        "explanation": "Banks are syndicating a record $60 billion loan, spreading the risk among many lenders instead of holding it themselves."
+      },
+      "he": {
+        "question": "מה השיקו בנקי וול סטריט כדי לממן את עסקת השבבים בין ברודקום לאנתרופיק?",
+        "options": [
+          "השקעה ישירה של 60 מיליארד דולר בהון של אנתרופיק",
+          "הלוואה מגובת ממשלה לברודקום",
+          "הלוואה מאוגדת בשיא של 60 מיליארד דולר, מחולקת בין מלווים רבים",
+          "הנפקת אג\"ח משותפת של ברודקום ואנתרופיק"
+        ],
+        "explanation": "הבנקים מאגדים הלוואה בשיא של 60 מיליארד דולר ומפזרים את הסיכון בין מלווים רבים במקום להחזיק בו עצמם."
+      }
+    },
+    {
+      "id": "quiz-geopolitics-brazil-runoff",
+      "section": "geopolitics",
+      "story_id": "brazil-election-runoff",
+      "answer_index": 1,
+      "en": {
+        "question": "Why is Brazil's presidential election headed to an October 25 runoff?",
+        "options": [
+          "Lula won the first round but fell short of a majority in Congress",
+          "Flávio Bolsonaro led the first round but didn't clear the 50% needed to win outright",
+          "The first round was annulled due to fraud allegations",
+          "Both candidates tied exactly in the first round"
+        ],
+        "explanation": "Flávio Bolsonaro topped the first round without clearing the 50% threshold needed to win outright, sending the race to a runoff against Lula."
+      },
+      "he": {
+        "question": "מדוע הבחירות לנשיאות ברזיל עוברות לסיבוב שני ב-25 באוקטובר?",
+        "options": [
+          "לולה ניצח בסיבוב הראשון אך לא השיג רוב בקונגרס",
+          "פלאביו בולסונרו הוביל בסיבוב הראשון אך לא עבר את רף 50% הדרוש לניצחון מוחלט",
+          "הסיבוב הראשון בוטל בשל חשדות זיוף",
+          "שני המועמדים השיגו תוצאה זהה במדויק בסיבוב הראשון"
+        ],
+        "explanation": "פלאביו בולסונרו הוביל בסיבוב הראשון מבלי לעבור את רף 50% הדרוש לניצחון מוחלט, ולכן הבחירות עוברות לסיבוב שני מול לולה."
+      }
+    },
+    {
+      "id": "quiz-learn-network-effects",
+      "section": "learn",
+      "story_id": "concept-network-effects",
+      "answer_index": 0,
+      "en": {
+        "question": "What makes a network effect different from how most products work?",
+        "options": [
+          "The product becomes more valuable as more people use it, instead of less",
+          "The product becomes cheaper to produce as more people use it",
+          "The product only works for the very first users",
+          "The product's value depends only on its price, not on other users"
+        ],
+        "explanation": "Network effects flip the usual pattern: instead of losing value as more people use something (like a crowded restaurant), products like phones or social networks gain value as more people join."
+      },
+      "he": {
+        "question": "מה מייחד אפקט רשת בהשוואה לאופן שבו פועלים רוב המוצרים?",
+        "options": [
+          "המוצר הופך לבעל ערך רב יותר ככל שיותר אנשים משתמשים בו, ולא פחות",
+          "המוצר הופך זול יותר לייצור ככל שיותר אנשים משתמשים בו",
+          "המוצר פועל רק עבור המשתמשים הראשונים ביותר",
+          "ערך המוצר תלוי רק במחיר שלו, ולא במשתמשים אחרים"
+        ],
+        "explanation": "אפקט רשת הופך את הדפוס המוכר: בניגוד למוצרים שמאבדים מערכם כשיותר אנשים משתמשים בהם (כמו מסעדה עמוסה), מוצרים כמו טלפונים או רשתות חברתיות צוברים ערך עם כל משתמש נוסף."
+      }
+    }
+  ]
+}

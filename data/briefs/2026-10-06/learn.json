@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-10-06",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-06T04:06:14+00:00",
+  "stories": [
+    {
+      "id": "word-vesting-cliff",
+      "kind": "word",
+      "en": {
+        "headline": "Vesting cliff (תקופת הבשלה מינימלית)",
+        "scroll": "A vesting cliff is the minimum period an employee must stay before any of their stock grant becomes theirs.",
+        "coffee": "A vesting cliff is the first milestone in an equity grant: until you reach it, you own none of your shares or options, even though they're nominally \"granted.\" The most common structure is a one-year cliff inside a four-year vesting schedule — nothing vests for twelve months, then a quarter vests at once, and the rest trickles in monthly or quarterly after that.\n\nCompanies use cliffs to filter out hires who leave quickly, since someone who quits after eight months walks away with zero equity rather than a partial stake. Example: \"She's holding out for her one-year cliff before she even considers switching jobs.\"",
+        "deep": "## When it comes up\nVesting cliffs show up whenever equity compensation is discussed — job offers, cap tables, startup compensation negotiations. If a recruiter says \"four-year vesting, one-year cliff,\" they mean you get nothing until your first anniversary, then 25% vests immediately, with the remaining 75% vesting monthly or quarterly over the next three years.\n\n## Common confusion\nPeople often conflate the cliff with the full vesting schedule. The cliff is just the entry gate; \"vesting period\" is the whole multi-year clock. Also, a cliff resets to zero if you leave one day early — there's no partial credit for 11 months of work.\n\n## More examples\n\"The startup's cliff meant two early engineers lost all their options when they quit in month ten.\"\n\n\"Founders sometimes face their own cliff too, re-vesting their shares when they raise a new round.\"\n\nIn Hebrew this is תקופת ההבשלה המינימלית, or simply a \"קליף\" in professional jargon."
+      },
+      "he": {
+        "headline": "תקופת הבשלה מינימלית (vesting cliff)",
+        "scroll": "תקופת הבשלה מינימלית היא פרק הזמן המינימלי שעובד צריך להישאר בחברה לפני שמניה או אופציה שהוקצתה לו הופכת לשלו בפועל.",
+        "coffee": "תקופת הבשלה מינימלית (vesting cliff) היא ציר הדרך הראשון בהקצאת מניות: עד שמגיעים אליו, העובד לא מחזיק בפועל בשום דבר, גם אם המניות \"הוקצו\" לו על הנייר. המבנה הנפוץ ביותר הוא קליף של שנה בתוך לוח הבשלה (vesting schedule) של ארבע שנים — שום דבר לא מבשיל בשנה הראשונה, ואז רבע מהמניות מבשיל בבת אחת, והשאר מתפזר בהדרגה על פני שלוש השנים הנותרות.\n\nחברות משתמשות בקליף כדי לסנן עובדים שעוזבים מהר: מי שמתפטר אחרי שמונה חודשים יוצא בלי מניות בכלל, ולא עם חלק יחסי. לדוגמה: \"היא נשארת עד תום הקליף השנתי שלה לפני שהיא בכלל שוקלת לעבור חברה.\"",
+        "deep": "## מתי זה עולה\nתקופת ההבשלה המינימלית עולה בכל דיון על תגמול הוני — הצעות עבודה, שולחנות הון (cap tables), משא ומתן על תנאים בסטארטאפ. כשגורם גיוס אומר \"הבשלה על פני ארבע שנים, קליף של שנה\", הכוונה היא שלא מקבלים כלום עד יום השנה הראשון, ואז 25% מבשילים בבת אחת, והיתר מבשיל בהדרגה — חודשי או רבעוני — במשך שלוש השנים הבאות.\n\n## בלבול נפוץ\nאנשים מתבלבלים בין הקליף לבין כל לוח ההבשלה. הקליף הוא רק שער הכניסה; \"תקופת ההבשלה\" היא כל השעון רב-השנתי. בנוסף, הקליף מתאפס לחלוטין אם עוזבים יום לפני תום השנה — אין זכאות חלקית על 11 חודשי עבודה.\n\n## עוד דוגמאות\n\"הקליף של הסטארטאפ גרם לשני מהנדסים מוקדמים להפסיד את כל האופציות שלהם כשהתפטרו בחודש העשירי.\"\n\n\"גם מייסדים לפעמים נתקלים בקליף משלהם, כשהם 'מבשילים מחדש' את המניות שלהם בגיוס סבב חדש.\"\n\nבמקור באנגלית המונח הוא vesting cliff."
+      },
+      "tags": [
+        "vesting",
+        "equity-compensation",
+        "startups"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-top-line-bottom-line",
+      "kind": "word",
+      "en": {
+        "headline": "Top line vs. bottom line (שורת ההכנסות מול שורת הרווח)",
+        "scroll": "The top line is a company's revenue; the bottom line is what's left as profit after every cost is subtracted.",
+        "coffee": "On an income statement, revenue sits at the very top, and net profit is the final number at the bottom — hence the names. A company can grow its top line fast by cutting prices or spending heavily on marketing, while its bottom line shrinks or turns negative, because growth itself is expensive.\n\nAnalysts watch both because they tell different stories: top-line growth shows demand and market share, bottom-line growth shows discipline and a sustainable business. Example: \"Revenue is up 40% year over year, but until the bottom line turns positive, investors are right to be cautious.\"",
+        "deep": "## Why the distinction matters\nA business can be a \"top-line story\" or a \"bottom-line story,\" and conflating the two leads to bad decisions. Many fast-growing startups post impressive top-line growth for years while losing money on every sale, betting that scale will eventually fix the bottom line — the logic behind \"growth at all costs,\" a strategy that fell out of favor after 2022 when higher interest rates made cheap growth capital scarce.\n\n## Common confusion\nPeople sometimes assume strong top-line growth automatically implies a healthy company. It doesn't — revenue can be inflated by discounts, aggressive customer-acquisition spending, or accounting choices about when revenue is recognized. Bottom-line profit is much harder to fake over time.\n\n## More examples\n\"The airline's top line recovered to pre-pandemic levels, but fuel costs kept hammering the bottom line.\"\n\n\"Management promised investors a 'path to the bottom line' within two years.\"\n\nIn Hebrew these are שורת ההכנסות (top line) and שורת הרווח (bottom line)."
+      },
+      "he": {
+        "headline": "שורת ההכנסות מול שורת הרווח (top line vs. bottom line)",
+        "scroll": "השורה העליונה (top line) היא ההכנסות של החברה; השורה התחתונה (bottom line) היא מה שנשאר כרווח אחרי כל ההוצאות.",
+        "coffee": "בדוח רווח והפסד, ההכנסות מופיעות בשורה הראשונה מעלה, והרווח הנקי הוא המספר האחרון בתחתית — מכאן השמות. חברה יכולה להגדיל את השורה העליונה שלה בקצב מהיר על ידי הורדת מחירים או הוצאה כבדה על שיווק, בזמן שהשורה התחתונה שלה מצטמקת או נכנסת להפסד, כי צמיחה עצמה עולה כסף.\n\nאנליסטים עוקבים אחרי שתי השורות כי הן מספרות סיפורים שונים: צמיחה בשורה העליונה מצביעה על ביקוש ונתח שוק, וצמיחה בשורה התחתונה מצביעה על משמעת וניהול עסק בר-קיימא. לדוגמה: \"ההכנסות עלו ב-40% משנה לשנה, אבל עד שהרווח הנקי לא יהפוך לחיובי, המשקיעים צודקים בלהיות חשדניים.\"",
+        "deep": "## למה ההבחנה חשובה\nעסק יכול להיות \"סיפור של שורה עליונה\" או \"סיפור של שורה תחתונה\", ובלבול בין השניים מוביל להחלטות גרועות. הרבה סטארטאפים צומחים מציגים צמיחה מרשימה בשורה העליונה שנים על גבי שנים בזמן שהם מפסידים כסף על כל מכירה, ומתערבים על כך שהיקף (scale) בסוף יפתור את השורה התחתונה. זו הלוגיקה מאחורי \"צמיחה בכל מחיר\" — אסטרטגיה שירדה מאופנה אחרי 2022, כשעליית הריבית הקשתה על גישה להון זול לצמיחה.\n\n## בלבול נפוץ\nאנשים מניחים לפעמים שצמיחה חזקה בשורה העליונה מעידה אוטומטית על חברה בריאה. זה לא נכון — ההכנסות יכולות להיות מנופחות על ידי הנחות, הוצאה אגרסיבית על גיוס לקוחות, או אפילו בחירות חשבונאיות על מתי מכירים בהכנסה. הרבה יותר קשה לזייף רווח בשורה התחתונה לאורך זמן.\n\n## עוד דוגמאות\n\"ההכנסות של חברת התעופה התאוששו לרמות שלפני הקורונה, אבל עלויות הדלק המשיכו להכביד על השורה התחתונה.\"\n\n\"ההנהלה הבטיחה למשקיעים 'מסלול לשורה התחתונה' בתוך שנתיים.\"\n\nבאנגלית המונחים הם top line ו-bottom line."
+      },
+      "tags": [
+        "finance",
+        "income-statement",
+        "business-vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-bet-the-farm",
+      "kind": "word",
+      "en": {
+        "headline": "Bet the farm (להמר על הכל)",
+        "scroll": "To bet the farm means to risk everything a business or person has on a single decision or investment.",
+        "coffee": "The idiom comes from the literal stakes of old farming families risking their only real asset — the farm itself — on one gamble, like a bad harvest bet or a loan they couldn't repay. In modern business talk it describes a company making an all-in commitment: one product, one acquisition, one market, with no real fallback if it fails.\n\nIt's almost always used as a warning or a critique, rarely as praise, because sound strategy usually keeps some reserve. Example: \"The board refused to bet the farm on a single untested chip design, no matter how promising the early results looked.\"",
+        "deep": "## When to use it\n\"Bet the farm\" fits any high-stakes, undiversified bet — a founder putting all funding into one product line, a country making its economy depend on a single export, or an investor going all-in on one stock. It implies there is no plan B: if the bet fails, there's nothing left to fall back on.\n\n## Common confusion\nIt's often confused with simply \"taking a big risk.\" The key difference is totality — betting the farm means the downside is existential, not just painful. A company that invests 20% of its cash in a risky project is taking a risk; one that spends its entire cash reserve on it is betting the farm.\n\n## More examples\n\"Netflix didn't bet the farm on streaming overnight — it ran DVD-by-mail alongside it for years.\"\n\n\"Intel is accused of betting the farm on its own fabs instead of diversifying like its rivals.\"\n\nIn Hebrew this is roughly \"להמר על הכל\" (to bet everything) or \"לשחק את כל הקופה\" (to play the whole pot)."
+      },
+      "he": {
+        "headline": "להמר על הכל (bet the farm)",
+        "scroll": "להמר על הכל (bet the farm) פירושו להסתכן בכל מה שיש לעסק או לאדם, על החלטה או השקעה אחת.",
+        "coffee": "הביטוי מקורו במשפחות איכרים שהסתכנו בנכס היחיד שהיה להם — החווה עצמה — על הימור אחד, כמו יבול כושל או הלוואה שלא יכלו להחזיר. בשפה עסקית מודרנית הביטוי מתאר חברה שמתחייבת באופן מוחלט: מוצר אחד, רכישה אחת, שוק אחד, בלי רשת ביטחון אמיתית אם זה נכשל.\n\nמשתמשים בביטוי הזה כאזהרה או ביקורת, לעיתים רחוקות כשבח, כי אסטרטגיה תקינה בדרך כלל משאירה רזרבה. לדוגמה: \"הדירקטוריון סירב להמר על הכל על עיצוב שבב אחד שלא נבדק, לא משנה כמה התוצאות המוקדמות נראו מבטיחות.\"",
+        "deep": "## מתי להשתמש בזה\n\"להמר על הכל\" מתאים לכל הימור גבוה-סיכון ובלי פיזור — מייסד ששם את כל הכסף על קו מוצר אחד, מדינה שהכלכלה שלה נשענת על ייצוא יחיד, או משקיע שנכנס בכל הכסף שלו על מניה אחת. המשתמע הוא שאין תוכנית ב': אם ההימור נכשל, לא נשאר דבר לגיבוי.\n\n## בלבול נפוץ\nהביטוי מתבלבל לפעמים עם \"לקחת סיכון גדול\". ההבדל המרכזי הוא הטוטליות — להמר על הכל פירושו שהסיכון הוא קיומי, לא רק כואב. חברה שמשקיעה 20% מהמזומן שלה בפרויקט מסוכן נוטלת סיכון; חברה שמוציאה עליו את כל רזרבת המזומן שלה, מהמרת על הכל.\n\n## עוד דוגמאות\n\"נטפליקס לא הימרה על הכל על סטרימינג ביום אחד — היא הפעילה את שירות ה-DVD בדואר לצידו במשך שנים.\"\n\n\"אינטל מואשמת בכך שהימרה על הכל על המפעלים (fabs) שלה במקום לפזר סיכונים כמו המתחרות.\"\n\nבאנגלית הביטוי הוא bet the farm."
+      },
+      "tags": [
+        "idiom",
+        "risk",
+        "business-vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network Effects: Why Some Products Get More Valuable the More People Use Them",
+        "scroll": "A network effect is when a product grows more valuable to each user as more people join it, which is why early leaders in social and marketplace apps are so hard to dislodge.",
+        "coffee": "Most products lose value as more people use them — a crowded restaurant is less pleasant, a crowded highway is slower. Network effects flip that: a phone is useless if you're the only person who owns one, but gets more useful with every other person who gets one too, because now there's someone to call. The same logic drives social networks, marketplaces, and payment systems — Instagram is worth more to you the more of your friends are on it, and a credit card network is worth more to a merchant the more cardholders exist.\n\nThis is why so many tech companies chase growth before profit: whoever reaches critical mass first often locks in users, because switching to a smaller rival means losing access to everyone already on the bigger network. It's also why these markets tend toward one or two winners rather than many competitors splitting share evenly.",
+        "deep": "## The basic idea\nA network effect exists when each additional user makes the product more valuable to every existing user, not just to themselves. Economists distinguish it from simple economies of scale (where a company gets cheaper to run as it gets bigger) — network effects are about value to users, not cost to the producer.\n\n## A worked example\nImagine a ride-hailing app launching in a new city with 10 drivers and 10 riders. Average wait time is long, so the experience is mediocre for everyone. Now suppose the app grows to 1,000 drivers and 1,000 riders in the same city. Riders wait less because there's almost always a nearby driver; drivers earn more because they spend less time idle between rides. Neither side did anything to deserve this improvement — it happened purely because the network got denser. This is a *two-sided* network effect, since drivers and riders each make the platform more valuable for the other side, not just for people like themselves (a *same-side*, or direct, network effect — like phone calls — is when more users of the same type benefit each other directly).\n\n## Why it matters strategically\nNetwork effects explain why a slightly worse product can beat a better one if it gets more users first — nobody wants to be on the fax machine network nobody else uses, however good the fax machine is. They also explain the common \"lose money for years to grow fast\" strategy among tech startups: the market leader at scale can often turn network size into profit later (through ads, take-rate increases, or premium tiers) once competitors can no longer catch up on user base alone.\n\n## Where the logic breaks down\nNetwork effects aren't infinite or unconditional. They can saturate: adding your millionth Instagram follower barely changes your experience as a casual user, unlike adding your tenth. They can also reverse into *negative* network effects — a dating app or a crowded online marketplace can become less useful past a certain size if it gets harder to find relevant matches or listings in the noise. And a network can be disrupted if users can \"multi-home\" cheaply — using several ride-hailing apps at once erodes the lock-in a single dominant network would otherwise enjoy."
+      },
+      "he": {
+        "headline": "אפקט רשת: למה מוצרים מסוימים נהיים שימושיים יותר ככל שיותר אנשים משתמשים בהם",
+        "scroll": "אפקט רשת (network effect) הוא מצב שבו מוצר נהיה בעל ערך גבוה יותר לכל משתמש ככל שיותר אנשים מצטרפים אליו, ולכן קשה כל כך להדיח שחקניות מובילות ברשתות חברתיות ובשווקים דיגיטליים.",
+        "coffee": "רוב המוצרים מאבדים מהערך שלהם כשיותר אנשים משתמשים בהם — מסעדה עמוסה פחות נעימה, כביש עמוס איטי יותר. אפקט רשת הופך את הכיוון: טלפון חסר תועלת אם אתה היחיד שמחזיק בו, אבל נהיה שימושי יותר עם כל אדם נוסף שמחזיק בו, כי כבר יש למי להתקשר. אותה לוגיקה מניעה רשתות חברתיות, שווקים דיגיטליים ומערכות תשלום — אינסטגרם שווה לך יותר ככל שיותר מהחברים שלך נמצאים בה, וכרטיס אשראי שווה יותר לבית עסק ככל שיש יותר מחזיקי כרטיסים.\n\nזו הסיבה שחברות טכנולוגיה רבות רודפות אחרי צמיחה לפני רווחיות: מי שמגיע ראשון למסה קריטית נועל לרוב את המשתמשים, כי מעבר למתחרה קטנה יותר פירושו אובדן גישה לכל מי שכבר נמצא ברשת הגדולה. זו גם הסיבה ששווקים כאלה נוטים להיות בעלי מנצח אחד או שניים, ולא הרבה מתחרים שמחלקים את השוק באופן שווה.",
+        "deep": "## הרעיון הבסיסי\nאפקט רשת קיים כשכל משתמש נוסף הופך את המוצר לבעל ערך גבוה יותר לכל המשתמשים הקיימים, ולא רק לעצמו. כלכלנים מבדילים בין זה לבין \"חיסכון לגודל\" (economies of scale) הפשוט, שבו חברה נהיית זולה יותר לתפעול כשהיא גדלה — אפקט רשת נוגע לערך עבור המשתמשים, לא לעלות עבור היצרן.\n\n## דוגמה מספרית\nנניח שאפליקציית הזמנת נסיעות משיקה בעיר חדשה עם 10 נהגים ו-10 נוסעים. זמן ההמתנה הממוצע ארוך, כך שהחוויה בינונית לכולם. כעת נניח שהאפליקציה צומחת ל-1,000 נהגים ו-1,000 נוסעים באותה עיר. הנוסעים מחכים פחות כי כמעט תמיד יש נהג קרוב; הנהגים מרווחים יותר כי הם מבזבזים פחות זמן בלי נוסעים בין נסיעות. אף צד לא עשה דבר כדי להרוויח את השיפור הזה — זה קרה רק בגלל שהרשת נהייתה צפופה יותר. זה אפקט רשת \"דו-צדדי\" (two-sided), כי נהגים ונוסעים הופכים את הפלטפורמה לבעלת ערך רב יותר זה לזה, ולא רק לאנשים כמותם (אפקט רשת \"חד-צדדי\", או ישיר — כמו שיחות טלפון — הוא כשיותר משתמשים מהסוג הזהה מרוויחים זה מזה באופן ישיר).\n\n## למה זה חשוב אסטרטגית\nאפקט רשת מסביר למה מוצר קצת פחות טוב יכול לנצח מוצר טוב יותר אם הוא מגיע ראשון ליותר משתמשים — אף אחד לא רוצה להיות ברשת פקס שאף אחד אחר לא נמצא בה, כמה שהפקס עצמו יהיה טוב. זה גם מסביר את האסטרטגיה הנפוצה של \"להפסיד כסף שנים כדי לצמוח מהר\" בקרב סטארטאפים טכנולוגיים: המובילה בשוק בקנה מידה גדול יכולה בדרך כלל להפוך את גודל הרשת לרווח בשלב מאוחר יותר (דרך פרסומות, העלאת שיעורי עמלה, או שכבות פרימיום), כשהמתחרות כבר לא יכולות להדביק את הפער בבסיס המשתמשים בלבד.\n\n## היכן ההיגיון נשבר\nאפקט רשת אינו אינסופי או בלתי מותנה. הוא יכול להגיע לרוויה: העוקב המיליון שלך באינסטגרם כמעט לא משנה את החוויה שלך כמשתמש מזדמן, בשונה מהעוקב העשירי. הוא גם יכול להתהפך לאפקט רשת שלילי — אפליקציית דייטים או שוק דיגיטלי עמוס יכולים להיות פחות שימושיים מעבר לגודל מסוים, אם קשה יותר למצוא התאמות או מוצרים רלוונטיים מתוך הרעש. ורשת יכולה להישבר אם משתמשים יכולים \"להחזיק בכמה פלטפורמות\" בעלות נמוכה — שימוש בכמה אפליקציות הזמנת נסיעות במקביל מכרסם בנעילה שרשת דומינטית אחת הייתה נהנית ממנה אחרת."
+      },
+      "tags": [
+        "network-effects",
+        "economics",
+        "tech"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-yom-kippur-war",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1973: Egypt and Syria Launch the Surprise Attack That Began the Yom Kippur War",
+        "scroll": "On 6 October 1973, Egyptian forces crossed the Suez Canal and Syria attacked the Golan Heights in a coordinated surprise assault that became the Yom Kippur War.",
+        "coffee": "On the afternoon of Yom Kippur, 6 October 1973, Egyptian forces crossed the Suez Canal and stormed Israeli positions along the Bar Lev Line in Sinai, while Syrian forces simultaneously attacked the Golan Heights. The timing was deliberate: Israel's military and much of its population were observing the holiest day in the Jewish calendar, and reservists had to be mobilized from synagogues and homes rather than being already at their posts.\n\nThe war reversed assumptions built up after Israel's decisive 1967 victory, which had left Israeli leadership confident its deterrence and early-warning systems made a full-scale surprise attack unlikely. Early Egyptian and Syrian gains forced a costly Israeli counter-mobilization before the IDF regained the initiative on both fronts, crossing the Suez Canal into Egypt and advancing in the Golan before a ceasefire took hold roughly three weeks later.\n\nThe war's political aftershocks outlasted the fighting: it set in motion the diplomacy that led to the 1978 Camp David Accords and the 1979 Egypt-Israel peace treaty, while in Israel it triggered a reckoning over intelligence failures that eventually brought down Golda Meir's government. In Egypt, the initial crossing is remembered as a success that restored national pride after 1967, regardless of the war's final battlefield outcome.",
+        "deep": "## Background\nSince the 1967 Six-Day War, Israel had held the Sinai Peninsula, the Golan Heights, the West Bank, and Gaza. Egyptian president Anwar Sadat wanted Sinai back, and concluded that only a war — even one Egypt might not win outright — could break the diplomatic deadlock. Syria joined to reclaim the Golan. Both spent months massing forces at the border while signaling routine exercises, lulling Israeli intelligence into underestimating the threat.\n\n## The attack and the war\nOn the afternoon of 6 October 1973 — Yom Kippur, which that year also fell during Ramadan — Egyptian forces crossed the Suez Canal on pontoon bridges and overwhelmed the thinly defended Bar Lev Line, while Syrian armor pushed into the Golan. Israel's standing forces were badly outnumbered at first, and reservists had to be called up from homes and synagogues during the holiday itself.\n\nThe opening days went badly for Israel on both fronts; Syrian tanks threatened the Golan plateau before reinforcements arrived, and Egyptian bridgeheads held under a dense screen of Soviet anti-aircraft missiles. Once mobilized, the IDF turned the tide: it pushed Syrian forces back past the pre-war line and, in Sinai, crossed the canal into Egyptian territory, encircling Egypt's Third Army near Suez. A ceasefire, brokered under US and Soviet pressure, took effect on 25 October.\n\n## Second-order effects\nRoughly 2,600 Israeli soldiers were killed in under three weeks, a per-capita toll that shook a small country, alongside larger Egyptian and Syrian losses. The war discredited Israel's pre-war confidence in its intelligence and deterrence; a state inquiry (the Agranat Commission) found serious failures, and Prime Minister Golda Meir and Defense Minister Moshe Dayan both resigned amid public anger.\n\nIt also reshaped regional diplomacy. Sadat's gamble, though a military draw at best, restored enough Egyptian and Arab prestige to open the door to negotiation: his 1977 visit to Jerusalem, the 1978 Camp David Accords, and the 1979 Egypt-Israel peace treaty, under which Israel returned Sinai — the first peace treaty between Israel and an Arab state.\n\n## What it still shapes\nFifty-three years on, the war remains a reference point in Israeli public life: the collapse of pre-war assumptions about deterrence is invoked in debates on military readiness, a comparison that resurfaced after the October 2023 attack. In Egypt, 6 October is Armed Forces Day, marking the crossing as restored national honor."
+      },
+      "he": {
+        "headline": "1973: מצרים וסוריה פותחות בהתקפת הפתע שהחלה את מלחמת יום הכיפורים",
+        "scroll": "ב-6 באוקטובר 1973 חצו כוחות מצריים את תעלת סואץ וסוריה תקפה את רמת הגולן, בהתקפת פתע מתואמת שהפכה למלחמת יום הכיפורים.",
+        "coffee": "בשעות הצהריים של יום הכיפורים, ה-6 באוקטובר 1973, חצו כוחות מצריים את תעלת סואץ ופרצו לעמדות ישראליות על קו בר-לב בסיני, בעוד כוחות סוריים תקפו באותו זמן את רמת הגולן. התזמון היה מכוון: צה\"ל וחלק גדול מהציבור הישראלי היו באמצע היום הקדוש ביותר בלוח השנה היהודי, והמילואימניקים נאלצו להתגייס מבתי כנסת ומהבית במקום להיות כבר בעמדותיהם.\n\nהמלחמה הפילה הנחות שהתגבשו אחרי הניצחון המכריע של ישראל במלחמת ששת הימים ב-1967, שהשאיר את ההנהגה הישראלית בטוחה שההרתעה ומערכות ההתרעה המוקדמת שלה הופכות התקפת פתע רחבת היקף לבלתי סבירה. ההתקדמות המצרית והסורית הראשונית הצריכה גיוס נגד יקר לישראל, עד שצה\"ל השיב לעצמו את היוזמה בשתי החזיתות, חצה את תעלת סואץ לשטח מצרי והתקדם ברמת הגולן, לפני שהפסקת האש נכנסה לתוקף כשלושה שבועות לאחר מכן.\n\nההדים המדיניים של המלחמה נמשכו הרבה מעבר לקרבות: היא הניעה את התהליך הדיפלומטי שהוביל להסכמי קמפ דייוויד ב-1978 ולהסכם השלום בין מצרים לישראל ב-1979, ובישראל היא עוררה חשבון נפש על כשלי המודיעין שבסופו של דבר הביא לנפילת ממשלת גולדה מאיר. במצרים, החצייה הראשונית נחרטת כהצלחה שהשיבה את הגאווה הלאומית אחרי 1967, בלי קשר לתוצאה הסופית של המלחמה בשטח.",
+        "deep": "## רקע\nמאז מלחמת ששת הימים ב-1967 שלטה ישראל בחצי האי סיני, ברמת הגולן, בגדה המערבית וברצועת עזה. נשיא מצרים אנואר סאדאת רצה להשיב את סיני, והגיע למסקנה שרק מלחמה — גם אם מצרים לא תנצח בה באופן מוחלט — תוכל לשבור את הקיפאון הדיפלומטי. סוריה הצטרפה כדי להשיב את הגולן. שתי המדינות בנו כוחות לאורך הגבול בזמן שאיתתו שאלו תרגילים שגרתיים, מה שהרדים את המודיעין הישראלי והוביל אותו להמעיט בהערכת הסכנה.\n\n## ההתקפה והמלחמה\nבשעות הצהריים של ה-6 באוקטובר 1973 — יום הכיפורים, שחל באותה שנה גם בחודש הרמדאן — חצו כוחות מצריים את תעלת סואץ על גשרי פונטונים וגברו על קו בר-לב המוחלש, בעוד שריון סורי פרץ לרמת הגולן. הכוחות הסדירים של ישראל היו בנחיתות מספרית חדה בתחילה, והמילואים נאלצו להתגייס מהבית ומבתי הכנסת בעצם ימי החג.\n\nהימים הראשונים התגלגלו לרעת ישראל בשתי החזיתות; טנקים סוריים איימו על רמת הגולן לפני שהגיעו תגבורות, וראשי הגשר המצריים החזיקו תחת מטריית טילי נ\"מ סובייטית צפופה. כשהגיוס הושלם, צה\"ל הפך את הגלגל: דחק את הכוחות הסוריים מעבר לקו שלפני המלחמה, ובסיני חצה את התעלה לשטח מצרי וכיתר את הארמייה השלישית המצרית סמוך לסואץ. הפסקת אש, בתיווך לחץ אמריקאי וסובייטי, נכנסה לתוקף ב-25 באוקטובר.\n\n## אפקטים מסדר שני\nכ-2,600 חיילים ישראלים נהרגו בתוך פחות משלושה שבועות, מחיר נפשות גבוה שזעזע מדינה קטנה, לצד אבדות גדולות יותר במצרים ובסוריה. המלחמה ערערה את הביטחון המוקדם של ישראל במודיעין ובהרתעה שלה; ועדת אגרנט מצאה כשלים חמורים, וגולדה מאיר ומשה דיין התפטרו על רקע זעם ציבורי.\n\nהיא גם עיצבה מחדש את הדיפלומטיה האזורית. ההימור של סאדאת, אף שהיה לכל היותר שוויון צבאי, השיב מספיק יוקרה מצרית וערבית כדי לפתוח פתח למשא ומתן: ביקורו בירושלים ב-1977, הסכמי קמפ דייוויד ב-1978, והסכם השלום בין מצרים לישראל ב-1979, שבמסגרתו הושב סיני — הסכם השלום הראשון בין ישראל למדינה ערבית.\n\n## מה שהיא עדיין מעצבת\n53 שנה לאחר מכן, המלחמה נותרה נקודת ייחוס יסודית בחיים הציבוריים בישראל: קריסת ההנחות שהתקיימו לפני המלחמה בנוגע להרתעה ולמודיעין מוזכרת בכל דיון ישראלי על כשירות צבאית, השוואה שחזרה בחריפות אחרי ההתקפה של אוקטובר 2023. במצרים, ה-6 באוקטובר מצוין כיום הכוחות המזוינים, לזכר חציית התעלה כהשבת כבוד לאומי."
+      },
+      "tags": [
+        "yom-kippur-war",
+        "israel",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1973: The Egyptian Armed Forces crossed the Suez Canal (pictured) to attack occupying Israeli forces at the Bar Lev Line in the Sinai Peninsula, beginning the Yom Kippur War.",
+          "url": "https://en.wikipedia.org/wiki/Egyptian_Armed_Forces"
+        },
+        {
+          "outlet": "Wikipedia",
+          "title": "1973: The Egyptian Armed Forces crossed the Suez Canal (pictured) to attack occupying Israel Defense Forces at the Bar Lev Line in the Sinai Peninsula, beginning the Yom Kippur War.",
+          "url": "https://en.wikipedia.org/wiki/Egyptian_Armed_Forces"
+        }
+      ]
+    }
+  ]
+}
