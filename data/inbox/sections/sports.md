@@ -352,153 +352,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Highlights: Northern Ireland frustrated by Georgia",
+     "published": "2026-10-05T21:56:05+00:00",
+     "summary": "Watch highlights as Northern Ireland end the extended window with a 0-0 Nations League draw against Georgia at Windsor Park."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Humble Gilmour happy with new role as 50th cap beckons",
+     "published": "2026-10-05T21:28:25+00:00",
+     "summary": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach."
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "Humble Gilmour happy with new role as 50th cap beckons",
+     "published": "2026-10-05T21:28:25+00:00",
+     "summary": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach."
+    },
+    {
+     "ref": "bbc_football#3",
+     "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+     "published": "2026-10-05T20:38:51+00:00",
+     "summary": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more."
+    },
+    {
+     "ref": "bbc_football#4",
+     "title": "Monday Night Club: England, Alex Scott injury & Robbie Savage on his new job",
+     "published": "2026-10-05T20:31:00+00:00",
+     "summary": "What are the benefits of players going abroad to play their club football?"
+    },
+    {
+     "ref": "bbc_football#5",
+     "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+     "published": "2026-10-05T19:13:15+00:00",
+     "summary": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed."
+    },
+    {
+     "ref": "bbc_football#6",
+     "title": "England's greatest international? Kane is now a serious contender",
+     "published": "2026-10-05T19:05:52+00:00",
+     "summary": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?"
+    },
+    {
+     "ref": "bbc_football#7",
+     "title": "Ex-England player Carroll names attacker as TV dance coach",
+     "published": "2026-10-05T17:33:38+00:00",
+     "summary": "The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021."
+    },
+    {
+     "ref": "bbc_football#8",
+     "title": "Jesus fires back over Ronaldo question",
+     "published": "2026-10-05T15:24:54+00:00",
+     "summary": "Portugal manager Jorge Jesus fires back at a question from the media over his handling of Cristiano Ronaldo after the veteran forward left the squad in a row over playing time."
+    },
+    {
+     "ref": "bbc_football#9",
+     "title": "Player welfare, injury worries & boredom - has extended break worked?",
+     "published": "2026-10-05T14:54:39+00:00",
+     "summary": "The extended international break was brought in with player welfare in mind, but has it been a success?"
+    },
+    {
+     "ref": "bbc_football#10",
+     "title": "Pickford 'almost caused crash' with careless driving",
+     "published": "2026-10-05T14:42:28+00:00",
+     "summary": "The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake."
+    },
+    {
+     "ref": "bbc_football#11",
+     "title": "What we learned from Wales' Nations League window",
+     "published": "2026-10-05T13:37:42+00:00",
+     "summary": "On the back of a demanding four-game international window, BBC Sport Wales assesses the key talking points from Wales' Nations League A campaign so far."
+    },
+    {
+     "ref": "bbc_football#12",
+     "title": "Bournemouth unhappy after Scott injured with England",
+     "published": "2026-10-05T12:38:58+00:00",
+     "summary": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks."
+    },
+    {
+     "ref": "bbc_football#13",
+     "title": "London City gelling, Man City flying - takeaways from WSL start",
+     "published": "2026-10-05T11:59:42+00:00",
+     "summary": "After five frantic weeks, the Women's Super League takes a two-week break, offering the perfect chance to take stock of a thrilling start to the season."
+    },
+    {
+     "ref": "bbc_football#14",
+     "title": "London City gelling, Man City flying - takeaways from WSL start",
+     "published": "2026-10-05T11:59:42+00:00",
+     "summary": "After five frantic weeks, the Women's Super League takes a two-week break, offering the perfect chance to take stock of a thrilling start to the season."
+    },
+    {
+     "ref": "bbc_football#15",
+     "title": "Duff set to be appointed Bradford boss",
+     "published": "2026-10-05T11:54:00+00:00",
+     "summary": "Bradford City are set to appoint former Wycombe Wanderers boss Michael Duff as their new manager."
+    },
+    {
+     "ref": "bbc_football#16",
+     "title": "A nation divided as Ronaldo left with big decision on Portugal future",
+     "published": "2026-10-05T10:22:57+00:00",
+     "summary": "BBC Sport looks at what could be the end of Cristiano Ronaldo's international career just days before the expected fanfare of Lionel Messi's Argentina goodbye."
+    },
+    {
+     "ref": "bbc_football#17",
      "title": "Manager ins and outs - 2026-27",
      "published": "2026-10-05T10:08:21+00:00",
      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League."
     },
     {
-     "ref": "bbc_football#1",
-     "title": "Scott withdraws from England squad and could be out for eight weeks",
-     "published": "2026-10-05T09:58:37+00:00",
-     "summary": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could keep him out for up to eight weeks."
+     "ref": "bbc_football#18",
+     "title": "How Alexander blazed a trail for black managers",
+     "published": "2026-10-05T09:01:17+00:00",
+     "summary": "Ex-players and family members on the legacy of the late Lincoln, Peterborough and Macclesfield boss."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#19",
      "title": "All the goals from the Women's Super League - matchweek five",
      "published": "2026-10-05T08:55:39+00:00",
      "summary": "Watch every goal from matchweek five of the Women's Super League 2026-27 season."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#20",
      "title": "How perfect storm has rained on Derby's parade",
      "published": "2026-10-05T08:15:09+00:00",
      "summary": "BBC Sport looks at how Turki Alalshikh's aborted takeover of Derby County has contributed to a poor start to their Championship season."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#21",
      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
      "published": "2026-10-05T08:08:02+00:00",
      "summary": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out."
     },
     {
-     "ref": "bbc_football#5",
-     "title": "The only side in Nations League yet to concede? Northern Ireland",
-     "published": "2026-10-05T07:07:15+00:00",
-     "summary": "With three clean sheets from three games in Uefa Nations League Group B2, Northern Ireland are the only team in this year's competition yet to concede a goal."
-    },
-    {
-     "ref": "bbc_football#6",
-     "title": "Watch: Thistle narrow gap & big wins for County and Elgin",
-     "published": "2026-10-05T07:00:53+00:00",
-     "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2."
-    },
-    {
-     "ref": "bbc_football#7",
-     "title": "Watch: Thistle narrow gap & big wins for County and Elgin",
-     "published": "2026-10-05T07:00:53+00:00",
-     "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2."
-    },
-    {
-     "ref": "bbc_football#8",
-     "title": "£117m Rogers failed at Bournemouth - and feared he may not make it",
-     "published": "2026-10-05T07:00:51+00:00",
-     "summary": "A look at the point in club-record £117m Chelsea signing Morgan Rogers' career when he doubted whether he could make it at the highest level."
-    },
-    {
-     "ref": "bbc_football#9",
-     "title": "Podcast: McGinn, McTominay, Robertson - are Scotland greats undroppable?",
-     "published": "2026-10-05T07:00:00+00:00",
-     "summary": "Scotland’s first win under Pocognoli and signs of a new identity emerging."
-    },
-    {
-     "ref": "bbc_football#10",
-     "title": "Celtic's Hassan misses Egypt match - gossip",
-     "published": "2026-10-05T06:23:30+00:00",
-     "summary": "Celtic winger misses Egypt match, Rangers boss backed and Hibs assistant on exit."
-    },
-    {
-     "ref": "bbc_football#11",
-     "title": "Who am I? Guess Premier League star No 77",
-     "published": "2026-10-05T06:23:08+00:00",
-     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
-    },
-    {
-     "ref": "bbc_football#12",
-     "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
-     "published": "2026-10-04T22:51:49+00:00",
-     "summary": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw."
-    },
-    {
-     "ref": "bbc_football#13",
-     "title": "No other team should go through this - Hallgrimsson",
-     "published": "2026-10-04T22:43:10+00:00",
-     "summary": "Republic of Ireland manager Heimir Hallgrimsson says he is \"delighted\" this most trying of international windows is over and hopes \"no national team to go through what we have gone through over the last two weeks\"."
-    },
-    {
-     "ref": "bbc_football#14",
-     "title": "Bellamy bemoans new schedule after Denmark loss",
-     "published": "2026-10-04T22:36:20+00:00",
-     "summary": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark."
-    },
-    {
-     "ref": "bbc_football#15",
-     "title": "Portugal boss says door open for Ronaldo return",
-     "published": "2026-10-04T22:10:59+00:00",
-     "summary": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus."
-    },
-    {
-     "ref": "bbc_football#16",
-     "title": "Fans group questions Desmond's priorities amid Celtic protest row",
-     "published": "2026-10-04T21:28:34+00:00",
-     "summary": "The Celtic Fans Collective has criticised Dermot Desmond's \"priorities\" after the Scottish champions withdrew recognition of the group following a protest against the major shareholder at the Alfred Dunhill Links golf tournament in St Andrews."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "Fans group questions Desmond's priorities amid Celtic protest row",
-     "published": "2026-10-04T21:28:34+00:00",
-     "summary": "The Celtic Fans Collective has criticised Dermot Desmond's \"priorities\" after the Scottish champions withdrew recognition of the group following a protest against the major shareholder at the Alfred Dunhill Links golf tournament in St Andrews."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "Man City fight back to beat struggling Arsenal",
-     "published": "2026-10-04T21:20:21+00:00",
-     "summary": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "You are the Scotland boss - what would you do?",
-     "published": "2026-10-04T21:06:47+00:00",
-     "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his XI to face Slovenia on Tuesday."
-    },
-    {
-     "ref": "bbc_football#20",
-     "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
-     "published": "2026-10-04T20:34:17+00:00",
-     "summary": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
-     "published": "2026-10-04T20:34:17+00:00",
-     "summary": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny."
-    },
-    {
      "ref": "bbc_football#22",
-     "title": "Real Madrid join race for Scott - Monday's gossip",
-     "published": "2026-10-04T20:24:19+00:00",
-     "summary": "Bournemouth's Alex Scott at the centre of a transfer tussle, Arsenal show interest in Juventus winger Kenan Yildiz, Real Betis rebuff speculation linking Troy Parrott with a move away, plus more."
+     "title": "Watch: Thistle narrow gap & big wins for County and Elgin",
+     "published": "2026-10-05T07:00:53+00:00",
+     "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2."
     },
     {
      "ref": "bbc_football#23",
-     "title": "'We fought for every ball' - Hemp on Man City's thrilling win",
-     "published": "2026-10-04T18:20:05+00:00",
-     "summary": "Two-goal Lauren Hemp says Manchester City showed passion and character in their 4-2 win over Arsenal in the WSL."
+     "title": "Watch: Thistle narrow gap & big wins for County and Elgin",
+     "published": "2026-10-05T07:00:53+00:00",
+     "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2."
     },
     {
      "ref": "bbc_football#24",
-     "title": "'It all clicked today' - Van de Donk and Putellas thrilled with 6-1 win against Spurs",
-     "published": "2026-10-04T17:18:22+00:00",
-     "summary": "London City Lionesses' Danielle van de Donk and Alexia Putellas react to their team's 6-1 win against Tottenham Hotspur in the Women's Super League."
+     "title": "£117m Rogers failed at Bournemouth - and feared he may not make it",
+     "published": "2026-10-05T07:00:51+00:00",
+     "summary": "A look at the point in club-record £117m Chelsea signing Morgan Rogers' career when he doubted whether he could make it at the highest level."
     }
    ]
   },
@@ -508,153 +508,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin - Goal.com",
-     "published": "2026-10-05T08:03:41+00:00",
-     "summary": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin Goal.com"
+     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
+     "published": "2026-10-06T02:33:23+00:00",
+     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Official: Messi & Ronaldo To Renew Rivalry In Spain - Soccer Laduma",
-     "published": "2026-10-05T07:54:19+00:00",
-     "summary": "Official: Messi & Ronaldo To Renew Rivalry In Spain Soccer Laduma"
+     "title": "Is Lionel Messi retiring from Inter Miami following his Argentina departure? - World Soccer Talk",
+     "published": "2026-10-05T23:47:36+00:00",
+     "summary": "Is Lionel Messi retiring from Inter Miami following his Argentina departure? World Soccer Talk"
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "Lionel Messi vs Taylor Swift: Which Star Is More Popular Worldwide? - International Business Times Australia",
-     "published": "2026-10-05T07:23:49+00:00",
-     "summary": "Lionel Messi vs Taylor Swift: Which Star Is More Popular Worldwide? International Business Times Australia"
+     "title": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, October 21 - football-addict.com",
+     "published": "2026-10-05T23:07:27+00:00",
+     "summary": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, October 21 football-addict.com"
     },
     {
      "ref": "gnews_inter_miami#3",
+     "title": "MLS Odds: Major League Soccer Betting Lines - FanDuel Sportsbook",
+     "published": "2026-10-05T21:26:51+00:00",
+     "summary": "MLS Odds: Major League Soccer Betting Lines FanDuel Sportsbook"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
+     "title": "The six ways Lionel Messi has revolutionized U.S. soccer — The Soccer Weekender - The New York Times",
+     "published": "2026-10-05T21:22:05+00:00",
+     "summary": "The six ways Lionel Messi has revolutionized U.S. soccer — The Soccer Weekender The New York Times"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
+     "title": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, Oct. 21 - Inter Miami CF",
+     "published": "2026-10-05T20:59:58+00:00",
+     "summary": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, Oct. 21 Inter Miami CF"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
+     "title": "Why Lionel Messi's Argentina farewell might not be the only soccer goodbye this year involving Inter Miami star - Yahoo Sports",
+     "published": "2026-10-05T19:22:38+00:00",
+     "summary": "Why Lionel Messi's Argentina farewell might not be the only soccer goodbye this year involving Inter Miami star Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
+     "title": "Revolution launch ‘Big Match Packages” on sale now - revolutionsoccer.net",
+     "published": "2026-10-05T19:08:35+00:00",
+     "summary": "Revolution launch ‘Big Match Packages” on sale now revolutionsoccer.net"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
+     "title": "Messi considers a new decision after buying Deportivo Eldense - Goal.com",
+     "published": "2026-10-05T18:51:47+00:00",
+     "summary": "Messi considers a new decision after buying Deportivo Eldense Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#9",
+     "title": "Inter Miami Faces Uncertainty Over Ian Fray Ahead of D.C. United Clash - Pasión Fútbol",
+     "published": "2026-10-05T18:05:19+00:00",
+     "summary": "Inter Miami Faces Uncertainty Over Ian Fray Ahead of D.C. United Clash Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
+     "title": "Inter Miami Faces a Midfield Dilemma as Kily González Loses Morales to Suspension - Pasión Fútbol",
+     "published": "2026-10-05T17:26:55+00:00",
+     "summary": "Inter Miami Faces a Midfield Dilemma as Kily González Loses Morales to Suspension Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#11",
+     "title": "Matías Galarza Returns to Inter Miami After Paraguay Call-Up With Starting Role in Sight - Pasión Fútbol",
+     "published": "2026-10-05T16:54:40+00:00",
+     "summary": "Matías Galarza Returns to Inter Miami After Paraguay Call-Up With Starting Role in Sight Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#12",
+     "title": "argentina vs benin - LatestLY",
+     "published": "2026-10-05T15:03:56+00:00",
+     "summary": "argentina vs benin LatestLY"
+    },
+    {
+     "ref": "gnews_inter_miami#13",
+     "title": "Lionel Messi farewell: Argentina superstar still one of the best as he preps for final national team match - CBS Sports",
+     "published": "2026-10-05T14:43:47+00:00",
+     "summary": "Lionel Messi farewell: Argentina superstar still one of the best as he preps for final national team match CBS Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#14",
+     "title": "Inter Miami vs DC United Preview & Prediction | 2026 MLS - The Stats Zone",
+     "published": "2026-10-05T13:10:00+00:00",
+     "summary": "Inter Miami vs DC United Preview & Prediction | 2026 MLS The Stats Zone"
+    },
+    {
+     "ref": "gnews_inter_miami#15",
+     "title": "What to know for Messi's final Argentina game: Opponent, how to watch and more - NBC 6 South Florida",
+     "published": "2026-10-05T12:24:14+00:00",
+     "summary": "What to know for Messi's final Argentina game: Opponent, how to watch and more NBC 6 South Florida"
+    },
+    {
+     "ref": "gnews_inter_miami#16",
+     "title": "Messi to play one final match before retirement in epic Argentina send-off - tag24.com",
+     "published": "2026-10-05T07:48:02+00:00",
+     "summary": "Messi to play one final match before retirement in epic Argentina send-off tag24.com"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
      "title": "MLS Injuries & Suspensions - Sportsgambler",
      "published": "2026-10-05T04:43:54+00:00",
      "summary": "MLS Injuries & Suspensions Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Michael Weatherly Cried For Real When Ziva Left NCIS—The Emotional Truth Revealed! Inter Miami Vs Toronto (FgZQCOGSN9) - Unisba Media",
-     "published": "2026-10-05T03:57:57+00:00",
-     "summary": "Michael Weatherly Cried For Real When Ziva Left NCIS—The Emotional Truth Revealed! Inter Miami Vs Toronto (FgZQCOGSN9) Unisba Media"
+     "ref": "gnews_inter_miami#18",
+     "title": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin - Goal.com",
+     "published": "2026-10-05T04:30:08+00:00",
+     "summary": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#5",
-     "title": "Lionel Messi buys football club - The Mag",
-     "published": "2026-10-05T03:50:25+00:00",
-     "summary": "Lionel Messi buys football club The Mag"
+     "ref": "gnews_inter_miami#19",
+     "title": "The Road To Miami Begins: Red Bull Wings Cup Calling Filipino Ea Sports Fc™ 27 Players - Mindanao Times",
+     "published": "2026-10-05T03:31:33+00:00",
+     "summary": "The Road To Miami Begins: Red Bull Wings Cup Calling Filipino Ea Sports Fc™ 27 Players Mindanao Times"
     },
     {
-     "ref": "gnews_inter_miami#6",
-     "title": "Messi considers a new decision after buying Deportivo Eldense - Goal.com",
-     "published": "2026-10-05T02:51:57+00:00",
-     "summary": "Messi considers a new decision after buying Deportivo Eldense Goal.com"
+     "ref": "gnews_inter_miami#20",
+     "title": "Argentina Shares Lionel Messi Update Sunday - Yahoo Sports",
+     "published": "2026-10-05T03:16:00+00:00",
+     "summary": "Argentina Shares Lionel Messi Update Sunday Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#7",
-     "title": "Ronaldo can return to Portugal team if he wants, national coach says - TRT World",
+     "ref": "gnews_inter_miami#21",
+     "title": "Ronaldo can return to Portugal team if he wants, national coach says - trtworld.com",
      "published": "2026-10-05T01:22:06+00:00",
-     "summary": "Ronaldo can return to Portugal team if he wants, national coach says TRT World"
+     "summary": "Ronaldo can return to Portugal team if he wants, national coach says trtworld.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami vs DC United: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-05T01:20:59+00:00",
      "summary": "Inter Miami vs DC United: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "Argentina Shares Lionel Messi Update Sunday - heavy.com",
-     "published": "2026-10-05T00:16:00+00:00",
-     "summary": "Argentina Shares Lionel Messi Update Sunday heavy.com"
-    },
-    {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#23",
      "title": "Messi's moment: Inter Miami's captain still has work to do - Inter Heron",
      "published": "2026-10-04T23:00:00+00:00",
      "summary": "Messi's moment: Inter Miami's captain still has work to do Inter Heron"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#24",
      "title": "Lionel Messi arrives ahead of his final appearance for Argentina - Gulf News",
      "published": "2026-10-04T22:44:59+00:00",
      "summary": "Lionel Messi arrives ahead of his final appearance for Argentina Gulf News"
-    },
-    {
-     "ref": "gnews_inter_miami#12",
-     "title": "Lionel Messi Joins Argentina Squad for One Last Dance at the Monumental - Pasión Fútbol",
-     "published": "2026-10-04T19:50:00+00:00",
-     "summary": "Lionel Messi Joins Argentina Squad for One Last Dance at the Monumental Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#13",
-     "title": "How Are Inter Miami’s International Call-Ups Performing? Mixed Results Before MLS Return - Pasión Fútbol",
-     "published": "2026-10-04T19:45:00+00:00",
-     "summary": "How Are Inter Miami’s International Call-Ups Performing? Mixed Results Before MLS Return Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#14",
-     "title": "Lionel Messi eyes historic free-kick record after latest goal - Yahoo Sports",
-     "published": "2026-10-04T19:00:00+00:00",
-     "summary": "Lionel Messi eyes historic free-kick record after latest goal Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
-     "title": "Inter Miami Locks Down Its Future: The Young Prospects Already Protected With New Contracts - Pasión Fútbol",
-     "published": "2026-10-04T18:55:00+00:00",
-     "summary": "Inter Miami Locks Down Its Future: The Young Prospects Already Protected With New Contracts Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#16",
-     "title": "Inter Miami Sends Powerful Ballon d’Or Message as Lionel Messi Chases Historic Ninth Award - Pasión Fútbol",
-     "published": "2026-10-04T18:39:00+00:00",
-     "summary": "Inter Miami Sends Powerful Ballon d’Or Message as Lionel Messi Chases Historic Ninth Award Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
-     "title": "Tata Martino Needs an MLS Miracle: The Unlikely Path That Could Send Atlanta United to the Playoffs - Pasión Fútbol",
-     "published": "2026-10-04T16:15:00+00:00",
-     "summary": "Tata Martino Needs an MLS Miracle: The Unlikely Path That Could Send Atlanta United to the Playoffs Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
-     "title": "Lionel Messi Arrives in Argentina After Completing the Purchase of a New Soccer Club - Pasión Fútbol",
-     "published": "2026-10-04T15:00:00+00:00",
-     "summary": "Lionel Messi Arrives in Argentina After Completing the Purchase of a New Soccer Club Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Lionel Andrés Messi reaches 76 career free-kick goals - Yahoo Sports",
-     "published": "2026-10-04T13:30:00+00:00",
-     "summary": "Lionel Andrés Messi reaches 76 career free-kick goals Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Inter Miami CF v New York City Odds - FanDuel Sportsbook",
-     "published": "2026-10-04T12:14:21+00:00",
-     "summary": "Inter Miami CF v New York City Odds FanDuel Sportsbook"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Without Messi! Argentina win 7-0 and deliver a top performance - Dailysports",
-     "published": "2026-10-04T06:47:00+00:00",
-     "summary": "Without Messi! Argentina win 7-0 and deliver a top performance Dailysports"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Emiliano Martinez opens up on Lionel Messi retirement and admits Inter Miami star will leave 'a massive void' for Argentina - Goal.com",
-     "published": "2026-10-04T06:40:08+00:00",
-     "summary": "Emiliano Martinez opens up on Lionel Messi retirement and admits Inter Miami star will leave 'a massive void' for Argentina Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Lionel Messi & Argentina News Confirmed on Saturday - heavy.com",
-     "published": "2026-10-03T23:42:33+00:00",
-     "summary": "Lionel Messi & Argentina News Confirmed on Saturday heavy.com"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Messi on target as Miami downed by Columbus Crew - Kuwait Times",
-     "published": "2026-10-03T18:36:00+00:00",
-     "summary": "Messi on target as Miami downed by Columbus Crew Kuwait Times"
     }
    ]
   },
@@ -664,45 +664,39 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "How New NBA Referee Points of Emphasis May Impact Deni Avdija, Toumani Camara, and the Trail Blazers - WFAA",
+     "published": "2026-10-06T03:19:00+00:00",
+     "summary": "How New NBA Referee Points of Emphasis May Impact Deni Avdija, Toumani Camara, and the Trail Blazers WFAA"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "Blazers Rock Fan Fest: 'Everything About The Day Has Been Perfect' - Sports Illustrated",
      "published": "2026-10-05T03:34:41+00:00",
      "summary": "Blazers Rock Fan Fest: 'Everything About The Day Has Been Perfect' Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
+     "title": "Trail Blazers Have A Guard Logjam To Figure Out In 2026 - roundtable.io",
+     "published": "2026-10-05T01:35:17+00:00",
+     "summary": "Trail Blazers Have A Guard Logjam To Figure Out In 2026 roundtable.io"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija's breakout makes Ja Morant the obvious Blazers sixth man - Rip City Project",
      "published": "2026-10-04T21:07:36+00:00",
      "summary": "Deni Avdija's breakout makes Ja Morant the obvious Blazers sixth man Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#4",
      "title": "LA Clippers vs Portland Trail Blazers Apr 10, 2026 Game Details - NBA.com",
      "published": "2026-10-04T14:58:08+00:00",
      "summary": "LA Clippers vs Portland Trail Blazers Apr 10, 2026 Game Details NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#5",
      "title": "Ben Saraf, Drake Powell Welcome Nets’ Veteran Leadership - roundtable.io",
      "published": "2026-10-04T01:29:32+00:00",
      "summary": "Ben Saraf, Drake Powell Welcome Nets’ Veteran Leadership roundtable.io"
-    },
-    {
-     "ref": "gnews_israeli_nba#4",
-     "title": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench - CBS Sports",
-     "published": "2026-10-02T20:40:00+00:00",
-     "summary": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#5",
-     "title": "Deni Avdija: “I definitely had a lot of offensive load … - HoopsHype",
-     "published": "2026-10-02T16:52:00+00:00",
-     "summary": "Deni Avdija: “I definitely had a lot of offensive load … HoopsHype"
-    },
-    {
-     "ref": "gnews_israeli_nba#6",
-     "title": "Trail Blazers Fire Play-By-Play Announcer Over Racist Tweets - Yahoo Sports",
-     "published": "2026-10-02T13:06:23+00:00",
-     "summary": "Trail Blazers Fire Play-By-Play Announcer Over Racist Tweets Yahoo Sports"
     }
    ]
   }

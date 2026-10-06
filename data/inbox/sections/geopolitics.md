@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Gun violence - AP News",
-     "published": "2026-10-05T10:08:33+00:00",
-     "summary": "Gun violence AP News"
+     "title": "Trump signs order extending tax-free use of red-dyed diesel during midterm stop in Nebraska - AP News",
+     "published": "2026-10-06T02:46:00+00:00",
+     "summary": "Trump signs order extending tax-free use of red-dyed diesel during midterm stop in Nebraska AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "War and unrest - AP News",
-     "published": "2026-10-05T10:08:32+00:00",
-     "summary": "War and unrest AP News"
+     "title": "LIV Golf in line to get initial investment as it tries to emerge from bankruptcy - AP News",
+     "published": "2026-10-06T01:16:57+00:00",
+     "summary": "LIV Golf in line to get initial investment as it tries to emerge from bankruptcy AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "College sports - AP News",
-     "published": "2026-10-05T10:08:32+00:00",
-     "summary": "College sports AP News"
+     "title": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan - AP News",
+     "published": "2026-10-06T01:15:00+00:00",
+     "summary": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "Donald Trump - AP News",
-     "published": "2026-10-05T10:06:34+00:00",
-     "summary": "Donald Trump AP News"
+     "title": "FBI arrests California woman accused of spying on Taiwan leader’s family for China - AP News",
+     "published": "2026-10-06T00:51:00+00:00",
+     "summary": "FBI arrests California woman accused of spying on Taiwan leader’s family for China AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "Greece - AP News",
-     "published": "2026-10-05T10:03:25+00:00",
-     "summary": "Greece AP News"
+     "title": "Chinese police find 7 dead in an abandoned mine flood and 21 are held for illegal mining - AP News",
+     "published": "2026-10-06T00:43:29+00:00",
+     "summary": "Chinese police find 7 dead in an abandoned mine flood and 21 are held for illegal mining AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-05T10:03:24+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+     "title": "California scientist wins a Nobel Prize, then makes school lunches for his kids - AP News",
+     "published": "2026-10-06T00:34:00+00:00",
+     "summary": "California scientist wins a Nobel Prize, then makes school lunches for his kids AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "Los Angeles Dodgers - AP News",
-     "published": "2026-10-05T10:00:36+00:00",
-     "summary": "Los Angeles Dodgers AP News"
+     "title": "Trump says his super PAC will pay for taxpayer-funded ads that sparked backlash for glorifying him - AP News",
+     "published": "2026-10-06T00:24:42+00:00",
+     "summary": "Trump says his super PAC will pay for taxpayer-funded ads that sparked backlash for glorifying him AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "Women’s sports - AP News",
-     "published": "2026-10-05T10:00:34+00:00",
-     "summary": "Women’s sports AP News"
+     "title": "Housing protests erupt in Barcelona as Spain calls early election, in photos - AP News",
+     "published": "2026-10-06T00:22:00+00:00",
+     "summary": "Housing protests erupt in Barcelona as Spain calls early election, in photos AP News"
     },
     {
      "ref": "ap_world#8",
-     "title": "Russia - AP News",
-     "published": "2026-10-05T10:00:33+00:00",
-     "summary": "Russia AP News"
+     "title": "STEVE REED - AP News",
+     "published": "2026-10-05T23:57:50+00:00",
+     "summary": "STEVE REED AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "Europe News | Breaking European News Today - AP News",
-     "published": "2026-10-05T09:58:35+00:00",
-     "summary": "Europe News | Breaking European News Today AP News"
+     "title": "JAY COHEN - AP News",
+     "published": "2026-10-05T23:54:10+00:00",
+     "summary": "JAY COHEN AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "College Football Full FBS Schedule - AP News",
-     "published": "2026-10-05T09:54:44+00:00",
-     "summary": "College Football Full FBS Schedule AP News"
+     "title": "Homicide - AP News",
+     "published": "2026-10-05T23:33:37+00:00",
+     "summary": "Homicide AP News"
     },
     {
      "ref": "ap_world#11",
-     "title": "Crime - AP News",
-     "published": "2026-10-05T09:54:43+00:00",
-     "summary": "Crime AP News"
+     "title": "JOHN WAWROW - AP News",
+     "published": "2026-10-05T23:19:53+00:00",
+     "summary": "JOHN WAWROW AP News"
     },
     {
      "ref": "ap_world#12",
-     "title": "Immigration - AP News",
-     "published": "2026-10-05T09:49:07+00:00",
-     "summary": "Immigration AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Texas - AP News",
-     "published": "2026-10-05T09:49:05+00:00",
-     "summary": "Texas AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Nobel medicine prize goes to 3 scientists for research into brain activity - AP News",
-     "published": "2026-10-05T09:48:00+00:00",
-     "summary": "Nobel medicine prize goes to 3 scientists for research into brain activity AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Golf - AP News",
-     "published": "2026-10-05T09:42:21+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#16",
      "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-10-05T09:40:43+00:00",
+     "published": "2026-10-05T23:12:35+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
+     "ref": "ap_world#13",
+     "title": "A crowd of students protests Cornell’s response to gang rape complaint - AP News",
+     "published": "2026-10-05T22:45:00+00:00",
+     "summary": "A crowd of students protests Cornell’s response to gang rape complaint AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "A lawsuit accuses Starbucks of mislabeling 8 ‘sugar-free’ protein drinks - AP News",
+     "published": "2026-10-05T22:37:00+00:00",
+     "summary": "A lawsuit accuses Starbucks of mislabeling 8 ‘sugar-free’ protein drinks AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "Former ‘American Idol’ singer Caleb Flynn is sentenced to life in prison for wife’s murder - AP News",
+     "published": "2026-10-05T22:27:00+00:00",
+     "summary": "Former ‘American Idol’ singer Caleb Flynn is sentenced to life in prison for wife’s murder AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Pennsylvania’s measles outbreak is the largest in decades in the US - AP News",
+     "published": "2026-10-05T22:23:00+00:00",
+     "summary": "Pennsylvania’s measles outbreak is the largest in decades in the US AP News"
+    },
+    {
      "ref": "ap_world#17",
-     "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-     "published": "2026-10-05T09:40:43+00:00",
-     "summary": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today AP News"
+     "title": "International News - AP News",
+     "published": "2026-10-05T22:21:10+00:00",
+     "summary": "International News AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-05T09:38:29+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
+     "title": "NFL suspends an official 2 games for swearing at Arizona tight end Trey McBride - AP News",
+     "published": "2026-10-05T22:00:00+00:00",
+     "summary": "NFL suspends an official 2 games for swearing at Arizona tight end Trey McBride AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "South Korea blames North Korean mines for border blast injuries and urges apology - AP News",
-     "published": "2026-10-05T09:34:00+00:00",
-     "summary": "South Korea blames North Korean mines for border blast injuries and urges apology AP News"
+     "title": "Saudi-backed Yemeni forces expel Houthi rebels from several areas around key strait, officials say - AP News",
+     "published": "2026-10-05T21:53:00+00:00",
+     "summary": "Saudi-backed Yemeni forces expel Houthi rebels from several areas around key strait, officials say AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "What to know about Spain's housing protests sparked by the eviction of an 87-year-old woman - AP News",
-     "published": "2026-10-05T09:31:00+00:00",
-     "summary": "What to know about Spain's housing protests sparked by the eviction of an 87-year-old woman AP News"
+     "title": "Trump says threats prompted US to remove bombers from British air base - AP News",
+     "published": "2026-10-05T21:40:00+00:00",
+     "summary": "Trump says threats prompted US to remove bombers from British air base AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Law enforcement - AP News",
-     "published": "2026-10-05T09:26:22+00:00",
-     "summary": "Law enforcement AP News"
+     "title": "Supreme Court rejects appeal over Michigan school’s ban on ‘Let’s Go Brandon’ sweatshirts - AP News",
+     "published": "2026-10-05T21:36:00+00:00",
+     "summary": "Supreme Court rejects appeal over Michigan school’s ban on ‘Let’s Go Brandon’ sweatshirts AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Asia Pacific - AP News",
-     "published": "2026-10-05T09:24:39+00:00",
-     "summary": "Asia Pacific AP News"
+     "title": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games - AP News",
+     "published": "2026-10-05T21:36:00+00:00",
+     "summary": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Minnesota - AP News",
-     "published": "2026-10-05T09:24:38+00:00",
-     "summary": "Minnesota AP News"
+     "title": "2 people killed, including a student, after Florida school bus rolls over in crash - AP News",
+     "published": "2026-10-05T21:36:00+00:00",
+     "summary": "2 people killed, including a student, after Florida school bus rolls over in crash AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "New York City - AP News",
-     "published": "2026-10-05T09:24:36+00:00",
-     "summary": "New York City AP News"
+     "title": "Australia launches probe into FlyDubai co-pilot’s past, and other Mideast news - AP News",
+     "published": "2026-10-05T21:02:00+00:00",
+     "summary": "Australia launches probe into FlyDubai co-pilot’s past, and other Mideast news AP News"
     }
    ]
   },
@@ -174,123 +174,135 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Trump chooses top spy boss to run new AI taskforce",
-     "published": "2026-10-05T10:03:38+00:00",
-     "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow."
+     "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+     "published": "2026-10-06T02:37:46+00:00",
+     "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
     },
     {
      "ref": "bbc_world#1",
-     "title": "US air force removes all bombers from British military base RAF Fairford",
-     "published": "2026-10-05T09:20:45+00:00",
-     "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase."
+     "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
+     "published": "2026-10-06T02:36:21+00:00",
+     "summary": "Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\"."
     },
     {
      "ref": "bbc_world#2",
-     "title": "How Spain's housing crisis has resulted in an early general election",
+     "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+     "published": "2026-10-06T02:22:24+00:00",
+     "summary": "The execution of Nidal Malik Hasan will be the first military execution since 1961 and the first by firing squad since the end of World War Two."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+     "published": "2026-10-06T01:58:29+00:00",
+     "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
+    },
+    {
+     "ref": "bbc_world#4",
+     "title": "Yemeni military says it has 'secured' Red Sea waterway",
+     "published": "2026-10-06T01:05:00+00:00",
+     "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
+    },
+    {
+     "ref": "bbc_world#5",
+     "title": "A simple guide to the US midterms",
+     "published": "2026-10-05T23:40:58+00:00",
+     "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency."
+    },
+    {
+     "ref": "bbc_world#6",
+     "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies",
+     "published": "2026-10-05T23:29:02+00:00",
+     "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
+    },
+    {
+     "ref": "bbc_world#7",
+     "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+     "published": "2026-10-05T23:19:14+00:00",
+     "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+    },
+    {
+     "ref": "bbc_world#8",
+     "title": "Five reasons India's stock market is sinking even when its economy is growing",
+     "published": "2026-10-05T23:13:11+00:00",
+     "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026."
+    },
+    {
+     "ref": "bbc_world#9",
+     "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+     "published": "2026-10-05T23:07:08+00:00",
+     "summary": "The city's space boom raises questions about the role of the state in backing important industries."
+    },
+    {
+     "ref": "bbc_world#10",
+     "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+     "published": "2026-10-05T22:28:02+00:00",
+     "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment."
+    },
+    {
+     "ref": "bbc_world#11",
+     "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+     "published": "2026-10-05T21:46:22+00:00",
+     "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
+    },
+    {
+     "ref": "bbc_world#12",
+     "title": "US 'watching closely' after plague researcher dies in Russia",
+     "published": "2026-10-05T21:33:49+00:00",
+     "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia."
+    },
+    {
+     "ref": "bbc_world#13",
+     "title": "France braces for national day of school protests after injuries and mass arrests",
+     "published": "2026-10-05T21:18:10+00:00",
+     "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education."
+    },
+    {
+     "ref": "bbc_world#14",
+     "title": "Spain PM pins hopes on housing crisis to help win snap election",
+     "published": "2026-10-05T19:30:50+00:00",
+     "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
+    },
+    {
+     "ref": "bbc_world#15",
+     "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+     "published": "2026-10-05T11:10:28+00:00",
+     "summary": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes."
+    },
+    {
+     "ref": "bbc_world#16",
+     "title": "Watch: How Spain's housing crisis has resulted in an early general election",
      "published": "2026-10-05T09:03:30+00:00",
      "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday"
     },
     {
-     "ref": "bbc_world#3",
-     "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-     "published": "2026-10-05T08:29:12+00:00",
-     "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
-    },
-    {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#17",
      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
      "published": "2026-10-05T08:22:41+00:00",
      "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore."
     },
     {
-     "ref": "bbc_world#5",
-     "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
-     "published": "2026-10-05T05:28:46+00:00",
-     "summary": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock."
+     "ref": "bbc_world#18",
+     "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+     "published": "2026-10-05T08:08:02+00:00",
+     "summary": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#19",
      "title": "Watch: How Brazil's dramatic election unfolded",
      "published": "2026-10-05T04:51:24+00:00",
      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
     },
     {
-     "ref": "bbc_world#7",
-     "title": "France closes up to 500 schools Monday over student protests",
-     "published": "2026-10-05T04:49:14+00:00",
-     "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
+     "ref": "bbc_world#20",
+     "title": "How India became dangerously addicted to Chinese imports",
+     "published": "2026-10-05T01:42:11+00:00",
+     "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China."
     },
     {
-     "ref": "bbc_world#8",
-     "title": "All six passengers presumed dead after plane went missing off US coast",
-     "published": "2026-10-05T04:00:35+00:00",
-     "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
-    },
-    {
-     "ref": "bbc_world#9",
-     "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-     "published": "2026-10-05T03:16:16+00:00",
-     "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
-    },
-    {
-     "ref": "bbc_world#10",
-     "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
-     "published": "2026-10-04T22:11:33+00:00",
-     "summary": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member."
-    },
-    {
-     "ref": "bbc_world#11",
-     "title": "Indian police accused of sexually harassing journalists at protest",
-     "published": "2026-10-04T17:01:19+00:00",
-     "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls."
-    },
-    {
-     "ref": "bbc_world#12",
-     "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-     "published": "2026-10-04T16:51:30+00:00",
-     "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
-    },
-    {
-     "ref": "bbc_world#13",
-     "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-     "published": "2026-10-04T16:24:48+00:00",
-     "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body."
-    },
-    {
-     "ref": "bbc_world#14",
-     "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-     "published": "2026-10-04T14:25:32+00:00",
-     "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row."
-    },
-    {
-     "ref": "bbc_world#15",
-     "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-     "published": "2026-10-04T12:09:04+00:00",
-     "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball."
-    },
-    {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#21",
      "title": "Rare tornado whips through small Australian town",
      "published": "2026-10-04T04:15:36+00:00",
      "summary": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees."
-    },
-    {
-     "ref": "bbc_world#17",
-     "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-     "published": "2026-10-03T23:37:46+00:00",
-     "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread."
-    },
-    {
-     "ref": "bbc_world#18",
-     "title": "Why Canada is wargaming a (long shot) US invasion",
-     "published": "2026-10-03T23:30:06+00:00",
-     "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada."
-    },
-    {
-     "ref": "bbc_world#19",
-     "title": "Why has Brazil accused the US of election interference?",
-     "published": "2026-10-03T13:52:13+00:00",
-     "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
     }
    ]
   },
@@ -318,45 +330,45 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
-     "title": "The Triumph of Tech-Fueled Propaganda",
-     "published": "2026-10-05T08:00:00+00:00",
-     "summary": "America isn’t ready for the next wave of foreign influence operations."
-    },
-    {
-     "ref": "foreign_affairs#1",
      "title": "China’s Long Twilight",
      "published": "2026-10-05T08:00:00+00:00",
      "summary": "Demographic decline, political paralysis, and the fate of great powers."
     },
     {
-     "ref": "foreign_affairs#2",
-     "title": "Palestinians Want a Two-State Solution",
-     "published": "2026-10-02T04:00:00+00:00",
-     "summary": "A new majority—even in Gaza—support compromise with Israel."
+     "ref": "foreign_affairs#1",
+     "title": "The Triumph of Tech-Fueled Propaganda",
+     "published": "2026-10-05T08:00:00+00:00",
+     "summary": "America isn’t ready for the next wave of foreign influence operations."
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#2",
      "title": "Brazil’s Election Won’t Fix What’s Broken",
      "published": "2026-10-02T04:00:00+00:00",
      "summary": "Reckoning with the country’s real crisis."
     },
     {
-     "ref": "foreign_affairs#4",
-     "title": "Why Iran Escalates",
-     "published": "2026-10-01T04:00:00+00:00",
-     "summary": "Tehran’s strategy to drive America out of the Middle East."
+     "ref": "foreign_affairs#3",
+     "title": "Palestinians Want a Two-State Solution",
+     "published": "2026-10-02T04:00:00+00:00",
+     "summary": "A new majority—even in Gaza—support compromise with Israel."
     },
     {
-     "ref": "foreign_affairs#5",
+     "ref": "foreign_affairs#4",
      "title": "The AI Autocrat",
      "published": "2026-10-01T04:00:00+00:00",
      "summary": "How technology empowers—and imperils—dictators."
     },
     {
+     "ref": "foreign_affairs#5",
+     "title": "Why Iran Escalates",
+     "published": "2026-10-01T04:00:00+00:00",
+     "summary": "Tehran’s strategy to drive America out of the Middle East."
+    },
+    {
      "ref": "foreign_affairs#6",
-     "title": "The Scramble for the Open Seas",
+     "title": "Russia’s Plan to Break Ukraine",
      "published": "2026-09-30T04:00:00+00:00",
-     "summary": "Over the last half millennium, societies around the globe competed to divide up the world’s land. Nearly every square inch of soil outside Antarctica is now owned and tucked within national borders. But the oceans have largely been spared that fate. There were times throughout history when countries tried to gate and regulate the seas, but they were too vast to be controlled for long periods. Duri"
+     "summary": "What Kyiv needs to survive."
     },
     {
      "ref": "foreign_affairs#7",
@@ -366,9 +378,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "foreign_affairs#8",
-     "title": "Russia’s Plan to Break Ukraine",
+     "title": "The Scramble for the Open Seas",
      "published": "2026-09-30T04:00:00+00:00",
-     "summary": "What Kyiv needs to survive."
+     "summary": "Over the last half millennium, societies around the globe competed to divide up the world’s land. Nearly every square inch of soil outside Antarctica is now owned and tucked within national borders. But the oceans have largely been spared that fate. There were times throughout history when countries tried to gate and regulate the seas, but they were too vast to be controlled for long periods. Duri"
     },
     {
      "ref": "foreign_affairs#9",
@@ -384,153 +396,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Afghan Taliban says problems with Pakistan can be resolved through diplomacy - Reuters",
-     "published": "2026-10-05T10:07:43+00:00",
-     "summary": "Afghan Taliban says problems with Pakistan can be resolved through diplomacy Reuters"
+     "title": "Mynt opens $844 million Philippine IPO, offers GCash users real-time share allocation - Reuters",
+     "published": "2026-10-06T02:35:00+00:00",
+     "summary": "Mynt opens $844 million Philippine IPO, offers GCash users real-time share allocation Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "Hundreds of French schools stay closed ahead of nationwide day of student protests - Reuters",
-     "published": "2026-10-05T09:56:26+00:00",
-     "summary": "Hundreds of French schools stay closed ahead of nationwide day of student protests Reuters"
+     "title": "Gold inches lower as firmer dollar, higher yields weigh - Reuters",
+     "published": "2026-10-06T02:15:00+00:00",
+     "summary": "Gold inches lower as firmer dollar, higher yields weigh Reuters"
     },
     {
      "ref": "reuters_world#2",
-     "title": "Brazil: Investor and analyst reactions to Bolsonaro lead over Lula in election - Reuters",
-     "published": "2026-10-05T09:49:46+00:00",
-     "summary": "Brazil: Investor and analyst reactions to Bolsonaro lead over Lula in election Reuters"
+     "title": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
+     "published": "2026-10-06T02:13:00+00:00",
+     "summary": "South Korea's Lee says AI appears to have been used in bank hacks Reuters"
     },
     {
      "ref": "reuters_world#3",
-     "title": "Yemeni government forces seize district by Bab el-Mandeb, military sources say - Reuters",
-     "published": "2026-10-05T09:20:23+00:00",
-     "summary": "Yemeni government forces seize district by Bab el-Mandeb, military sources say Reuters"
+     "title": "Indian shares poised to extend rebound ahead of RBI policy verdict - Reuters",
+     "published": "2026-10-06T01:54:00+00:00",
+     "summary": "Indian shares poised to extend rebound ahead of RBI policy verdict Reuters"
     },
     {
      "ref": "reuters_world#4",
-     "title": "South Korea says border mine blast was caused by North Korea - Reuters",
-     "published": "2026-10-05T09:11:02+00:00",
-     "summary": "South Korea says border mine blast was caused by North Korea Reuters"
+     "title": "Asian shares track Wall Street higher, Treasury yields near multi-decade highs - Reuters",
+     "published": "2026-10-06T01:48:00+00:00",
+     "summary": "Asian shares track Wall Street higher, Treasury yields near multi-decade highs Reuters"
     },
     {
      "ref": "reuters_world#5",
-     "title": "Key central bankers to meet in Istanbul to discuss global policy challenges - Reuters",
-     "published": "2026-10-05T08:55:55+00:00",
-     "summary": "Key central bankers to meet in Istanbul to discuss global policy challenges Reuters"
+     "title": "Trump says US will help Russia after Siberia plague institute death - Reuters",
+     "published": "2026-10-05T23:17:27+00:00",
+     "summary": "Trump says US will help Russia after Siberia plague institute death Reuters"
     },
     {
      "ref": "reuters_world#6",
-     "title": "Most Gulf bourses edge up on energy relief, fading Fed hike odds - Reuters",
-     "published": "2026-10-05T08:41:54+00:00",
-     "summary": "Most Gulf bourses edge up on energy relief, fading Fed hike odds Reuters"
+     "title": "Peru prison inmates sew 'pope dolls' ahead of pontiff's visit - Reuters",
+     "published": "2026-10-05T23:02:09+00:00",
+     "summary": "Peru prison inmates sew 'pope dolls' ahead of pontiff's visit Reuters"
     },
     {
      "ref": "reuters_world#7",
-     "title": "UK services firms suffer surge in costs, raise prices, PMI shows - Reuters",
-     "published": "2026-10-05T08:39:43+00:00",
-     "summary": "UK services firms suffer surge in costs, raise prices, PMI shows Reuters"
+     "title": "Russia says Ukraine hit two facilities at Zaporizhzhia nuclear plant - Reuters",
+     "published": "2026-10-05T23:00:26+00:00",
+     "summary": "Russia says Ukraine hit two facilities at Zaporizhzhia nuclear plant Reuters"
     },
     {
      "ref": "reuters_world#8",
-     "title": "Thousands of Imran Khan supporters start march to Pakistani capital, party says - Reuters",
-     "published": "2026-10-05T08:35:29+00:00",
-     "summary": "Thousands of Imran Khan supporters start march to Pakistani capital, party says Reuters"
+     "title": "Trump says taxpayers will no longer pay for TV ads that praised him - Reuters",
+     "published": "2026-10-05T22:47:00+00:00",
+     "summary": "Trump says taxpayers will no longer pay for TV ads that praised him Reuters"
     },
     {
      "ref": "reuters_world#9",
-     "title": "Euro zone investor morale falls in October, Sentix survey shows - Reuters",
-     "published": "2026-10-05T08:34:51+00:00",
-     "summary": "Euro zone investor morale falls in October, Sentix survey shows Reuters"
+     "title": "US envoy meets Sudanese army chief in Egypt - Reuters",
+     "published": "2026-10-05T22:41:43+00:00",
+     "summary": "US envoy meets Sudanese army chief in Egypt Reuters"
     },
     {
      "ref": "reuters_world#10",
-     "title": "Australia's Firmus to allocate half of up to $5.5 billion IPO to existing investors, sources say - Reuters",
-     "published": "2026-10-05T08:11:28+00:00",
-     "summary": "Australia's Firmus to allocate half of up to $5.5 billion IPO to existing investors, sources say Reuters"
+     "title": "Nasdaq notches record high close as investors focus on earnings - Reuters",
+     "published": "2026-10-05T22:38:44+00:00",
+     "summary": "Nasdaq notches record high close as investors focus on earnings Reuters"
     },
     {
      "ref": "reuters_world#11",
-     "title": "Foxconn third-quarter revenue soars on AI demand, beats market forecast - Reuters",
-     "published": "2026-10-05T08:08:58+00:00",
-     "summary": "Foxconn third-quarter revenue soars on AI demand, beats market forecast Reuters"
+     "title": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 - Reuters",
+     "published": "2026-10-05T22:18:28+00:00",
+     "summary": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 Reuters"
     },
     {
      "ref": "reuters_world#12",
-     "title": "Euro zone business growth hits over 3-1/2-year high despite inflation worries, PMI shows - Reuters",
-     "published": "2026-10-05T08:03:35+00:00",
-     "summary": "Euro zone business growth hits over 3-1/2-year high despite inflation worries, PMI shows Reuters"
+     "title": "Spain's November snap election — what you need to know - Reuters",
+     "published": "2026-10-05T22:11:16+00:00",
+     "summary": "Spain's November snap election — what you need to know Reuters"
     },
     {
      "ref": "reuters_world#13",
-     "title": "Andrew Mountbatten-Windsor takes police to court over Epstein files arrest - Reuters",
-     "published": "2026-10-05T07:55:07+00:00",
-     "summary": "Andrew Mountbatten-Windsor takes police to court over Epstein files arrest Reuters"
+     "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters",
+     "published": "2026-10-05T21:34:19+00:00",
+     "summary": "Brazil markets' Bolsonaro rally sends stock exchange to record high Reuters"
     },
     {
      "ref": "reuters_world#14",
-     "title": "Ambani's Jio Platforms plans to launch IPO on October 21, sources say - Reuters",
-     "published": "2026-10-05T07:53:45+00:00",
-     "summary": "Ambani's Jio Platforms plans to launch IPO on October 21, sources say Reuters"
+     "title": "Tate brothers used 'lover boy' model to exploit women, Britain says - Reuters",
+     "published": "2026-10-05T21:15:37+00:00",
+     "summary": "Tate brothers used 'lover boy' model to exploit women, Britain says Reuters"
     },
     {
      "ref": "reuters_world#15",
-     "title": "Indian companies step up protection against rupee weakness, data shows - Reuters",
-     "published": "2026-10-05T07:45:43+00:00",
-     "summary": "Indian companies step up protection against rupee weakness, data shows Reuters"
+     "title": "Nigerian military aircraft crashes, killing 32 - Reuters",
+     "published": "2026-10-05T20:55:24+00:00",
+     "summary": "Nigerian military aircraft crashes, killing 32 Reuters"
     },
     {
      "ref": "reuters_world#16",
-     "title": "South Africa private sector contracts at fastest pace since December, PMI shows - Reuters",
-     "published": "2026-10-05T07:25:43+00:00",
-     "summary": "South Africa private sector contracts at fastest pace since December, PMI shows Reuters"
+     "title": "US commodities regulator proposes new federal crypto oversight rules - Reuters",
+     "published": "2026-10-05T20:30:55+00:00",
+     "summary": "US commodities regulator proposes new federal crypto oversight rules Reuters"
     },
     {
      "ref": "reuters_world#17",
-     "title": "Spanish PM Sanchez calls snap election for November 29 - Reuters",
-     "published": "2026-10-05T07:12:31+00:00",
-     "summary": "Spanish PM Sanchez calls snap election for November 29 Reuters"
+     "title": "US says foreign financial institutions doing business with Iran may be sanctioned without notice - Reuters",
+     "published": "2026-10-05T20:29:44+00:00",
+     "summary": "US says foreign financial institutions doing business with Iran may be sanctioned without notice Reuters"
     },
     {
      "ref": "reuters_world#18",
-     "title": "India's IndiGo to hike fuel charges as global jet fuel costs rise - Reuters",
-     "published": "2026-10-05T06:51:00+00:00",
-     "summary": "India's IndiGo to hike fuel charges as global jet fuel costs rise Reuters"
+     "title": "Right-wing wave in Brazil's Congress boosts Bolsonaro camp ahead of presidential runoff - Reuters",
+     "published": "2026-10-05T20:24:21+00:00",
+     "summary": "Right-wing wave in Brazil's Congress boosts Bolsonaro camp ahead of presidential runoff Reuters"
     },
     {
      "ref": "reuters_world#19",
-     "title": "Vietnam's Masan High-Tech seeks approval for 5% private placement to fund tungsten expansion - Reuters",
-     "published": "2026-10-05T06:39:00+00:00",
-     "summary": "Vietnam's Masan High-Tech seeks approval for 5% private placement to fund tungsten expansion Reuters"
+     "title": "US closes review of US airlines' data privacy without seeking penalties - Reuters",
+     "published": "2026-10-05T20:21:21+00:00",
+     "summary": "US closes review of US airlines' data privacy without seeking penalties Reuters"
     },
     {
      "ref": "reuters_world#20",
-     "title": "Co-pilot planned flydubai attack before joining airline, two Israeli officials say - Reuters",
-     "published": "2026-10-05T06:38:00+00:00",
-     "summary": "Co-pilot planned flydubai attack before joining airline, two Israeli officials say Reuters"
+     "title": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds - Reuters",
+     "published": "2026-10-05T20:14:50+00:00",
+     "summary": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds Reuters"
     },
     {
      "ref": "reuters_world#21",
-     "title": "South African rand slips as markets await PMI data and October fuel price adjustment - Reuters",
-     "published": "2026-10-05T06:38:00+00:00",
-     "summary": "South African rand slips as markets await PMI data and October fuel price adjustment Reuters"
+     "title": "New Zealand National support at weakest level since 2020, poll finds - Reuters",
+     "published": "2026-10-05T20:13:44+00:00",
+     "summary": "New Zealand National support at weakest level since 2020, poll finds Reuters"
     },
     {
      "ref": "reuters_world#22",
-     "title": "Spanish PM Sanchez gambles on November 29 snap election to end parliament deadlock - Reuters",
-     "published": "2026-10-05T06:26:00+00:00",
-     "summary": "Spanish PM Sanchez gambles on November 29 snap election to end parliament deadlock Reuters"
+     "title": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says - Reuters",
+     "published": "2026-10-05T20:13:00+00:00",
+     "summary": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says Reuters"
     },
     {
      "ref": "reuters_world#23",
-     "title": "Lidl GB to open over 50 stores as part of $793 million investment - Reuters",
-     "published": "2026-10-05T06:26:00+00:00",
-     "summary": "Lidl GB to open over 50 stores as part of $793 million investment Reuters"
+     "title": "Russian attack kills 6 in Ukraine's Kharkiv, shatters residences - Reuters",
+     "published": "2026-10-05T19:34:06+00:00",
+     "summary": "Russian attack kills 6 in Ukraine's Kharkiv, shatters residences Reuters"
     },
     {
      "ref": "reuters_world#24",
-     "title": "EXCLUSIVE: Cost pressures and deadlock force Honda to rework India strategy, sources say - Reuters",
-     "published": "2026-10-05T06:16:00+00:00",
-     "summary": "EXCLUSIVE: Cost pressures and deadlock force Honda to rework India strategy, sources say Reuters"
+     "title": "EXCLUSIVE: Brazil's Lula weighs VP Alckmin as next finance minister to woo centrist voters - Reuters",
+     "published": "2026-10-05T18:53:37+00:00",
+     "summary": "EXCLUSIVE: Brazil's Lula weighs VP Alckmin as next finance minister to woo centrist voters Reuters"
     }
    ]
   }

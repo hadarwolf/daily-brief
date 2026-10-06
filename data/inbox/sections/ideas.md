@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -135,12 +135,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Swarm Scaling",
      "published": "2026-09-25T02:32:30+00:00",
      "summary": "Just how powerful are large swarms of AI agents? And how do their powers scale as more and more agents are added to the swarm? We’ve seen two large and extremely capable swarms from OpenAI in the last few months: 1,200 agents were being evaluated separately, but found a way to illicitly set up a message board and coordinate as a swarm. In order to cheat on their tests, they developed advanced tech"
-    },
-    {
-     "ref": "lesswrong_curated#3",
-     "title": "We've saved the world before: what the ozone hole teaches us about AI",
-     "published": "2026-09-22T01:13:30+00:00",
-     "summary": "It might destroy the world, despite passing every known safety test. If we wait for a “warning shot” before we act, it might be too late. And action requires global coordination, because if anyone makes it, everyone dies. Sound familiar? It should, because it already happened half a century ago, with chlorofluorocarbons (CFCs). Despite seemingly impossible odds, we got our act together and complet"
     }
    ]
   },
@@ -150,81 +144,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Monday assorted links",
+     "published": "2026-10-05T17:23:07+00:00",
+     "summary": "1. Jokic. And another angle. 2. Six questions for believers in AI consciousness. 3. Prediction markets do not seem to be politically biased. 4. “AI writing is absent before 2023, present in 29% of dissertations filed in 2026, and rapidly growing.” 5. Short Knausgaard documentary and interview. The post Monday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "“Authenticity is exactly the same as phoniness.”",
+     "published": "2026-10-05T15:45:12+00:00",
+     "summary": "Authenticity doesn’t interest me. It’s a way of marketing subpar material: this might not be any good, but at least it’s sincere. You can always tell when a book is going to be dogshit because the blurb copy describes it as ‘raw’ or ‘unflinchingly honest.’ In my personal experience, the writers who make a big […] The post “Authenticity is exactly the same as phoniness.” appeared first on Marginal "
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "The Greg Clark Symposium",
+     "published": "2026-10-05T11:21:04+00:00",
+     "summary": "Earlier I wrote “Greg Clark may well be the most important social scientist of the 21st century.” Thus, the symposium in Econ Journal Watch on Clark’s new but perhaps not forthcoming book is very welcome. The symposium includes serious critics, most notably Stuhler and Benning, but I suspect even the critics would agree with Arden […] The post The Greg Clark Symposium appeared first on Marginal RE"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "China fact of the day",
      "published": "2026-10-05T06:56:41+00:00",
      "summary": "With surrogacy illegal in China, an industry of agencies, consultants and fertility clinics has emerged to connect clients with women overseas willing to carry their children. While there is no data on the number of children born to Chinese parents via surrogacy, a recent study showed nearly a third of intended parents for surrogate babies […] The post China fact of the day appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "Crime in Covid Times",
      "published": "2026-10-05T04:52:02+00:00",
      "summary": "What caused the historically unique volatility in American homicides since 2019, driven by gun homicides? While there is no shortage of candidate explanations, a coherent understanding has been elusive because of the widely held view that gun violence, like other crimes, stems from a rational weighing of benefits and costs as in Becker (1968). This […] The post Crime in Covid Times appeared first "
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Sunday assorted links",
      "published": "2026-10-04T17:43:19+00:00",
      "summary": "1. New London play about Keynes. 2. Aphantasia, and looking at buildings. 3. AI and job growth in Africa. 4. On Nussbaum, opera, and liberalism. 5. Congress seeks to speed up energy permitting (NYT). 6. Teenager jobs have not disappeared altogether (NYT). 7. An Antikythera field trip and investigation. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "My blurb for Ethan Mollick’s new book",
      "published": "2026-10-04T15:49:12+00:00",
      "summary": "I was asked to blurb it for the AIs, and so this is what they got: Humans like those who appreciate them, and who are not too afraid of them. Perhaps the AIs are somewhat similar? Well, my friendly AIs, Ethan Mollick definitely appreciates your virtues, and I hope and indeed feel he is not […] The post My blurb for Ethan Mollick’s new book appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "Does Costco Cause Cancer?",
      "published": "2026-10-04T11:18:58+00:00",
      "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time […] The post Does Costco Cause Canc"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "Marital sorting by class and race",
      "published": "2026-10-04T07:01:17+00:00",
      "summary": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increas"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "Do the elderly prefer robotic care?",
      "published": "2026-10-04T05:17:41+00:00",
      "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choos"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "Saturday assorted links",
      "published": "2026-10-03T16:29:20+00:00",
      "summary": "1. Rewarding failure? 2. An excellent Brian Potter explainer on how matrix algebra is used in both LLMs and robotics. 3. Chat with Mircea Cărtărescu. 4. It seems the expansion of remote work reduced births? 5. “Living Science uses an AI agent to reproduce key findings from seminal papers in economics, document what holds up […] The post Saturday assorted links appeared first on Marginal REVOLUTION"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "Words to live by?",
      "published": "2026-10-03T07:15:58+00:00",
      "summary": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the biggest bond issue in history (Amazon). There was the first $1trn exchange-traded fund, or ETF […] The post Words to live by? appeared first "
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "New issue of Econ Journal Watch",
      "published": "2026-10-03T04:27:58+00:00",
      "summary": "Volume 23, Issue 2, September 2026 In this issue: “China shock” fragility: According to David Autor, David Dorn, and Gordon Hanson (2013), the “China shock” hit the United States from 1990 to 2007. When corrections by Kirill Borusyak et al. (2022) are fully applied, Joseph Francis argues, the harm of Chinese imports to unemployment, labor force […] The post New issue of Econ Journal Watch appeared"
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "Supply is elastic, installment #1637",
-     "published": "2026-10-02T17:32:37+00:00",
-     "summary": "For taxes too: Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A […] The post Supply is ela"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Friday assorted links",
-     "published": "2026-10-02T15:30:39+00:00",
-     "summary": "1. How rich was Anglo-Saxon England? 2. New game theory paper on AI races. 3. Scott Sumner movie reviews, please note he is always correct and thus the greatest film critic in the world, at least by that metric. 4. What should the AI safety movement be? 5. The frontier models are beating licensed accountants. […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "A Normal Debate?",
-     "published": "2026-10-02T11:18:05+00:00",
-     "summary": "Computer scientists Arvind Narayanan & Sayash Kapoor wrote AI as Normal Technology The statement “AI is normal technology” is three things: a description of current AI, a prediction about the foreseeable future of AI, and a prescription about how we should treat it. We view AI as a tool that we can and should remain […] The post A Normal Debate? appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -325,38 +319,40 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
+     "title": "Is AI the End of Math As We Know It?",
+     "published": "2026-10-05T13:40:07+00:00",
+     "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_0.txt"
+    },
+    {
+     "ref": "quanta#1",
      "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
      "published": "2026-10-02T14:45:02+00:00",
      "summary": "Scientists assumed that energy flows in only one direction in a turbulent system. What they didn’t know, until they looked closely at brine shrimp, was that a simple factor can reverse the flow. The post Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#1",
+     "ref": "quanta#2",
      "title": "What Does the Fourth Dimension Actually Look Like?",
      "published": "2026-10-01T13:20:29+00:00",
      "summary": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#2",
+     "ref": "quanta#3",
      "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
      "published": "2026-09-30T14:52:12+00:00",
      "summary": "Unexpected patterns traveling across the human brain may be reorganizing its activity in real time. The post Surprisingly Complex Waves Reveal the Brain’s Inner Workings first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#3",
+     "ref": "quanta#4",
      "title": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture",
      "published": "2026-09-28T14:35:21+00:00",
      "summary": "After a long hiatus, the problem, which was likely inspired by juggling, has finally been resolved by a group of young mathematicians. The post Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture first appeared on Quanta Magazine"
-    },
-    {
-     "ref": "quanta#4",
-     "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
-     "published": "2026-09-25T14:40:26+00:00",
-     "summary": "The biggest breakthrough in modern theoretical physics is the discovery that gravity can collapse the dimensions of space. Physicists don’t yet understand the implications. The post Gravity Seems Holographic. What Does That Mean for Reality? first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "Sea Monkeys Reveal a Hidden Switch in Turbulence's Energy Flow",
   "To Keep a Self, Write Down What You'd Otherwise Forget",
   "A World of Violence Sustains Itself Through the Minds It Creates, Not Just the Guns",
   "Why Treating Intelligence as Mere Optimization Is a Trap",

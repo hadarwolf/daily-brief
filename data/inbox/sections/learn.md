@@ -24,142 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2014,
-   "text": "Formula One racing driver Jules Bianchi crashed at the Japanese Grand Prix, sustaining fatal head injuries that would kill him the following year.",
+   "year": 2008,
+   "text": "The MESSENGER probe discovered Mercury's Rembrandt (pictured) – the second largest impact crater on the planet.",
    "context": [
-    "Jules Lucien André Bianchi was a French racing driver who competed in Formula One from 2013 to 2014."
+    "MESSENGER was a NASA robotic space probe that orbited the planet Mercury between 2011 and 2015, studying Mercury's chemical composition, geology, and magnetic field. The name is an acronym for Mercury Surface, Space Environment, Geochemistry, and Ranging, and a reference to the messenger god Mercury from Roman mythology."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2011,
-   "text": "Two Chinese cargo ships were attacked and their crews murdered on a stretch of the Mekong River in far northern Thailand.",
+   "year": 2002,
+   "text": "Al-Qaeda bombed the oil tanker Limburg, causing oil to leak into the Gulf of Aden.",
    "context": [
-    "The Mekong River massacre occurred on the morning of 5 October 2011, when two Chinese cargo ships were attacked on a stretch of the Mekong River in the Golden Triangle region on the borders of Myanmar (Burma) and Thailand. All 13 crew members on both ships were killed and dumped in the river. It was the deadliest attack on Chinese nationals abroad in modern times. In response, China temporarily suspended shipping on the Mekong, and reached an agreement with Myanmar, Thailand and Laos to jointly patrol the river. The event was also the impetus for the Naypyidaw Declaration and other anti-drug cooperation efforts in the region. On 28 October 2011, Thai authorities arrested nine Pha Muang Task Force soldiers, who subsequently \"disappeared from the justice system\". Drug lord Naw Kham and three subordinates were eventually tried and executed by the Chinese government for their roles in the massacre."
+    "Al-Qaeda is a pan-Islamist militant organization led by Sunni Islamist jihadists who self-identify as a vanguard spearheading a global Islamist revolution to unite the Muslim world under a supra-national Islamic caliphate. Its membership is primarily composed of Arabs, with additional representation from other ethnic groups. Al-Qaeda has mounted attacks on civilian and military targets of the U.S. and its allies; such as the 1998 U.S. embassy bombings, the USS Cole bombing, and the September 11 attacks. It has been designated a terrorist organization by the United Nations and over two dozen countries around the world."
    ]
   },
   {
    "ref": "wikipedia#2",
    "year": 2000,
-   "text": "Colour revolutions: During protests over irregularities in the Yugoslavian general election, a wheel-loader was driven into the Radio Television of Serbia building, giving the protests the nickname \"Bulldozer Revolution\".",
+   "text": "Denouncing corruption in Argentine president Fernando de la Rúa's administration and the Senate, Vice President Carlos Álvarez resigned.",
    "context": [
-    "The colour revolutions are a series of often non-violent protests and accompanying changes of government and society taking place in post-Soviet states and the former Yugoslavia during the 21st century. The aim of the colour revolutions is to establish Western-style democracies. They were primarily triggered by election results widely viewed as falsified. The colour revolutions are marked by the use of the internet as a method of communication, as well as a strong role of non-governmental organizations in the protests."
+    "Fernando de la Rúa was an Argentine politician who served as the president of Argentina from 1999 until his resignation in 2001. A member of the Radical Civic Union, he previously served as national senator for Buenos Aires across non-consecutive terms from 1973 to 1996, national deputy for Buenos Aires from 1991 to 1992, the first Chief of Government of Buenos Aires between 1996 and 1999, and president of the National Committee of the Radical Civic Union from 1997 to 1999."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1999,
-   "text": "Two trains collided head-on in Ladbroke Grove, London, killing 31 people, injuring 417, and severely damaging public confidence in the management and regulation of safety of Britain's privatised railway system.",
+   "year": 1998,
+   "text": "Matthew Shepard, a gay college student, was attacked and fatally wounded near Laramie, Wyoming, U.S., dying six days later.",
    "context": [
-    "The Ladbroke Grove rail crash occurred on 5 October 1999 at Ladbroke Grove in London, England, when a Thames Trains passenger train passed a signal at danger, colliding almost head-on with a First Great Western passenger train. With 31 people killed and 417 injured, it was one of the worst rail accidents in 20th-century British history."
+    "Matthew Wayne Shepard was an American student at the University of Wyoming who was beaten, tortured, and left to die near Laramie on October 6, 1998. He was transported by rescuers to Poudre Valley Hospital in Fort Collins, Colorado, where he died six days later from severe head injuries sustained during the attack."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1994,
-   "text": "Swiss police found the bodies of 48 members of the Order of the Solar Temple, who had died in a cult mass murder-suicide.",
+   "year": 1995,
+   "text": "Astronomers Michel Mayor and Didier Queloz reported the discovery of a planet orbiting 51 Pegasi as the first known exoplanet around a main-sequence star.",
    "context": [
-    "The Order of the Solar Temple, or simply the Solar Temple, was a new religious movement and secret society, often described as a cult, notorious for the mass deaths of many of its members in several mass murders and suicides throughout the 1990s. The OTS was a neo-Templar order, claiming to be a continuation of the Knights Templar, and incorporated an eclectic range of beliefs with aspects of Rosicrucianism, Theosophy, and New Age ideas. It was led by Joseph Di Mambro, with Luc Jouret as a spokesman and second in command. It was founded in 1984, in Geneva, Switzerland."
+    "Michel Gustave Édouard Mayor is a Swiss astrophysicist and professor emeritus at the University of Geneva's Department of Astronomy. He formally retired in 2007, but remains active as a researcher at the Observatory of Geneva. He is co-laureate of the 2019 Nobel Prize in Physics along with Jim Peebles and Didier Queloz, and the winner of the 2010 Viktor Ambartsumian International Prize and the 2015 Kyoto Prize."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1988,
-   "text": "During the United States vice-presidential debate, Democratic candidate Lloyd Bentsen told his opponent Dan Quayle, \"Senator, you're no Jack Kennedy.\"",
+   "year": 1989,
+   "text": "About 200 members of the San Francisco Police Department instigated a police riot in the Castro following a peaceful protest held by the political group ACT UP.",
    "context": [
-    "Lloyd Millard Bentsen Jr. was an American politician who served as the 69th United States secretary of the treasury under President Bill Clinton from 1993 to 1994. He served as a United States senator from Texas from 1971 to 1993 and was the Democratic Party nominee for vice president in 1988 on the Michael Dukakis ticket."
+    "The Castro Sweep was a police riot that occurred in the Castro District of San Francisco on the evening of October 6, 1989. The riot, by about 200 members of the San Francisco Police Department (SFPD), followed a protest held by ACT UP, a militant direct action group responding to the concerns of people with AIDS."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1986,
-   "text": "Eugene Hasenfus's plane was shot down by Nicaraguan forces while carrying weapons to the Contra rebels on behalf of the U.S. government; he was subsequently captured, leading to an international controversy.",
+   "year": 1985,
+   "text": "Police constable Keith Blakelock was killed during rioting in the Broadwater Farm housing estate in Tottenham, London.",
    "context": [
-    "Eugene Haines Hasenfus was a United States Marine who helped fly weapons shipments on behalf of the U.S. government to the right-wing rebel Contras in Nicaragua. The sole survivor after his plane was shot down by the Nicaraguan government in 1986, he was sentenced to 30 years in prison for terrorism and other charges, but pardoned and released the same year. The statements of admission he made to the Sandinista government resulted in a controversy in the U.S. government after the Reagan administration denied any connection to him."
+    "Keith Henry Blakelock QGM was a British police officer who served as a London Metropolitan Police constable. He was murdered on 6 October 1985 during the Broadwater Farm riot in Tottenham. The riot broke out after Cynthia Jarrett died of heart failure during a police search of her home, and took place against a backdrop of unrest in several English cities and a breakdown of relations between the police and some people in the black community."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1963,
-   "text": "The U.S. suspended the Commercial Import Program, its main economic support for South Vietnam, in response to the oppression of Buddhists by President Ngô Đình Diệm (pictured).",
+   "year": 1981,
+   "text": "Egyptian president Anwar Sadat (pictured) was assassinated while attending a parade in Cairo to mark the eighth anniversary of the Crossing of the Bar Lev Line at the start of the 1973 Arab-Israeli War.",
    "context": [
-    "The Commercial Import Program, sometimes known as the Commodity Import Program (CIP), was an economic aid arrangement between South Vietnam and its main supporter, the United States. It lasted from January 1955 until the Fall of Saigon in 1975 and the dissolution of South Vietnam following the invasion by North Vietnam after US forces had withdrawn from the country due to the 1973 cease-fire agreement."
+    "Muhammad Anwar es-Sadat was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1962,
-   "text": "\"Love Me Do\", the first single by the Beatles, was released in the United Kingdom.",
+   "year": 1976,
+   "text": "Two bombs placed by the CIA-linked Cuban dissident group Coordination of United Revolutionary Organizations exploded on Cubana Flight 455, killing all 73 people aboard.",
    "context": [
-    "\"Love Me Do\" is the debut single by the English rock band the Beatles, backed by \"P.S. I Love You\". When the single was originally released in the United Kingdom on 5 October 1962, it peaked at number 17. It was released in the United States in 1964 and topped the nation's song chart. Re-released in 1982 as part of EMI's Beatles 20th anniversary, it re-entered the UK charts and peaked at number 4. \"Love Me Do\" also topped the charts in Australia and New Zealand."
+    "The Coordination of United Revolutionary Organizations was a militant group responsible for a number of terrorist activities directed at the Cuban government following the Cuban Revolution. It was founded by a group that included Orlando Bosch and Luis Posada Carriles, both of whom worked with the CIA at various times, and was composed chiefly of Cuban exiles opposed to the Castro government. It was formed in 1976 as an umbrella group for a number of anti-Castro militant groups. Its activities included a number of bombings and assassinations, including the killing of human-rights activist Orlando Letelier in Washington, D.C. in collaboration with Chilean secret police DINA, and the bombing of Cubana Flight 455 which killed 73 people."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1962,
-   "text": "Dr. No, the first James Bond film, was released.",
+   "year": 1973,
+   "text": "The Egyptian Armed Forces crossed the Suez Canal (pictured) to attack occupying Israeli forces at the Bar Lev Line in the Sinai Peninsula, beginning the Yom Kippur War.",
    "context": [
-    "Dr. No is a 1962 spy film and the first film in the James Bond series, starring Sean Connery as the fictional MI6 agent James Bond. Co-starring Ursula Andress, Joseph Wiseman and Jack Lord, it was directed by Terence Young and adapted by Richard Maibaum, Johanna Harwood, and Berkely Mather from the 1958 novel by Ian Fleming. The film was produced by Harry Saltzman and Albert R. Broccoli of Eon Productions, a partnership that continued until 1975. In the film, James Bond is sent to Jamaica to investigate the disappearance of a fellow British agent. The trail leads him to the underground base of Dr. No, who is plotting to disrupt an early American space launch from Cape Canaveral with a radio beam weapon."
+    "The Egyptian Armed Forces are the military forces of the Arab Republic of Egypt. The Chief of Staff of the Armed Forces directs (a) Egyptian Army forces, (b) the Egyptian Navy, (c) Egyptian Air Force and (d) Egyptian Air Defense Forces. The Chief of Staff directly supervises army field forces, without any separate Egyptian Army headquarters."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1937,
-   "text": "Six days after retiring from the Queen's College, Oxford, Robert Howard Hodgkin was elected its provost due to the sudden death of B. H. Streeter.",
+   "year": 1973,
+   "text": "The Egyptian Armed Forces crossed the Suez Canal (pictured) to attack occupying Israel Defense Forces at the Bar Lev Line in the Sinai Peninsula, beginning the Yom Kippur War.",
    "context": [
-    "The Queen's College is a constituent college of the University of Oxford, England. The college was founded in 1341 by Robert de Eglesfield in honour of Philippa of Hainault, queen of England. It is distinguished by its predominantly neoclassical architecture, primarily dating from the 18th century."
+    "The Egyptian Armed Forces are the military forces of the Arab Republic of Egypt. The Chief of Staff of the Armed Forces directs (a) Egyptian Army forces, (b) the Egyptian Navy, (c) Egyptian Air Force and (d) Egyptian Air Defense Forces. The Chief of Staff directly supervises army field forces, without any separate Egyptian Army headquarters."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1936,
-   "text": "Around 200 men began a 291-mile (468 km) march from Jarrow to London, carrying a petition to the British government requesting the re-establishment of industry in the town.",
+   "year": 1934,
+   "text": "Catalonia's autonomous government, led by Lluís Companys (pictured), declared a general strike, an armed insurgency, and the establishment of the Catalan State in reaction to the inclusion of conservatives in the Spanish republican regime.",
    "context": [
-    "The Jarrow March of 5–31 October 1936, also known as the Jarrow Crusade, was an organised protest against the unemployment and poverty suffered in the English town of Jarrow during the 1930s. Around 200 men, or \"Crusaders\" as they preferred to be called, marched from Jarrow to London, carrying a petition to the British government requesting the re-establishment of industry in the town following the closure in 1934 of its main employer, Palmer's shipyard. The petition was received by the House of Commons but not debated, and the march produced few immediate results. The Jarrovians went home believing that they had failed."
+    "Catalonia is an autonomous community of Spain, designated as a nationality by its Statute of Autonomy. Its territory is situated on the northeast of the Iberian Peninsula, to the south of the Pyrenees mountain range. Catalonia is administratively divided into four provinces or eight vegueries (regions), which are in turn divided into 43 comarques. The capital and largest city, Barcelona, is the second-most populous municipality in Spain and the fifth-most populous urban area in the European Union."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1903,
-   "text": "Samuel Griffith (pictured) became the first Chief Justice of Australia, while Edmund Barton and Richard O'Connor became the first Puisne Justices of the High Court of Australia.",
+   "year": 1927,
+   "text": "The Jazz Singer, one of the first feature-length motion pictures with a synchronized recorded music score, was released.",
    "context": [
-    "Sir Samuel Walker Griffith was an Australian judge and politician who served as the inaugural Chief Justice of Australia, in office from 1903 to 1919. He also served a term as Chief Justice of Queensland and two terms as Premier of Queensland, and played a key role in the drafting of the Australian Constitution."
+    "The Jazz Singer is a 1927 American part-talkie musical drama film directed by Alan Crosland and produced by Warner Bros. Pictures. It is the first feature-length motion picture with both synchronized recorded music and lip-synchronous singing and speech. Its release heralded the commercial ascendance of sound films and effectively marked the end of the silent film era with the Vitaphone sound-on-disc system, featuring six songs performed by Al Jolson. Based on the 1925 play of the same title by Samson Raphaelson, the plot was adapted from his short story \"The Day of Atonement\"."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1869,
-   "text": "During construction of the Eastman tunnel in St. Anthony, Minnesota (now Minneapolis), the Mississippi River broke through the tunnel's limestone ceiling, nearly destroying Saint Anthony Falls.",
+   "year": 1908,
+   "text": "Austria-Hungary announced the annexation of Bosnia and Herzegovina, causing a crisis that permanently damaged the country's relations with the Russian Empire and the Kingdom of Serbia.",
    "context": [
-    "The Eastman tunnel, also called the Hennepin Island tunnel, was a 2,000-foot-long (600 m) underground passage in Saint Anthony, Minnesota, dug beneath the Mississippi River riverbed between 1868 and 1869 to create a tailrace so water-powered business could be located upstream of Saint Anthony Falls on Nicollet Island. The tunnel ran downstream from Nicollet Island, beneath Hennepin Island, and exited below Saint Anthony Falls."
+    "Austria-Hungary, also referred to as the Austro-Hungarian Empire and officially as the Austro-Hungarian Monarchy, was a multi-national empire in Central Europe under a constitutional dual monarchy that existed between 1867 and 1918. A military and diplomatic real union, it consisted of two largely self governing states with a single monarch who was titled both the Emperor of Austria and the Apostolic King of Hungary. Austria-Hungary constituted the last phase in the constitutional evolution of the Habsburg monarchy: it was formed with the Austro-Hungarian Compromise of 1867 in the aftermath of the Austro-Prussian War, following wars of independence by Hungary in opposition to Habsburg rule. It was dissolved shortly after Hungary terminated the union with Austria in 1918 at the end of World War I."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1838,
-   "text": "A Cherokee band attacked settlers near Larissa, Texas, killing or abducting 18 people.",
+   "year": 1777,
+   "text": "American Revolutionary War: Fort Clinton and Fort Montgomery were captured by British forces under Sir Henry Clinton, dismantling the Hudson River Chains.",
    "context": [
-    "The Cherokee or Tsalagi people are one of the Indigenous peoples of the Southeastern Woodlands of the United States. Prior to the 18th century, they were concentrated in their ancestral homelands, living in towns along river valleys in what is now southwestern North Carolina, southeastern Tennessee, southwestern Virginia, parts of western South Carolina, northern Georgia, and northeastern Alabama, with hunting grounds extending into Kentucky. Together, these lands encompassed approximately 40,000 square miles."
+    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British monarchy acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1789,
-   "text": "French Revolution: Upset about the high price and scarcity of bread, thousands of Parisian women and allies marched (pictured) on the Palace of Versailles.",
+   "year": 1762,
+   "text": "Seven Years' War: The Battle of Manila concluded with a British victory over Spain, leading to a twenty-month occupation.",
    "context": [
-    "The French Revolution was a period of political and societal change in France that began with the Estates General of 1789 and ended with the Coup of 18 Brumaire on 9 November 1799. Many of the revolution's ideas are considered fundamental principles of liberal democracy, and its values remain central to modern French political discourse. It was caused by a combination of social, political, and economic factors which the existing regime proved unable to manage."
+    "The Seven Years' War, 1756 to 1763, was a global war fought by numerous great powers, primarily in Europe, with significant subsidiary campaigns in North America and the Indian subcontinent. The primary warring states were Great Britain and Prussia fighting against France and Austria, with other countries joining these coalitions: Portugal, Spain, Sweden, and Russia, plus Saxony and many other minor states of the Holy Roman Empire. Related conflicts include the Third Silesian War, French and Indian War, Third Carnatic War, Anglo-Spanish War (1762–1763), and Spanish–Portuguese War."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 869,
-   "text": "The Fourth Council of Constantinople, the eighth Catholic Ecumenical Council, was convened to discuss the patriarchate of Photios I of Constantinople.",
+   "year": 618,
+   "text": "Transition from Sui to Tang: Wang Shichong's army defeated Li Mi's forces at the Battle of Yanshi, allowing Wang to consolidate power and soon depose China's Sui dynasty.",
    "context": [
-    "The Fourth Council of Constantinople was the eighth ecumenical council of the Catholic Church held in Constantinople from 5 October 869, to 28 February 870. It was attended by over 103 bishops. In contrast, the pro-Photian council of 879–80 was attended by 383 bishops. The Council met in ten sessions from October 869 to February 870 and issued 27 canons."
+    "The transition from Sui to Tang (613–628), or simply the Sui-Tang transition, was the period of Chinese history between the end of the Sui dynasty and the start of the Tang dynasty. The Sui dynasty's territories were carved into a handful of short-lived states by its officials, generals, and agrarian rebel leaders. A process of elimination and annexation followed that ultimately culminated in the consolidation of the Tang dynasty by the former Sui general Li Yuan. Near the end of the Sui, Li Yuan installed the puppet child emperor Yang You. Li later executed Yang and proclaimed himself Emperor Gaozu of the new Tang dynasty."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Churn rate (שיעור נטישה)",
+  "Race to the bottom (מירוץ לתחתית)",
+  "Cook the books (לזייף דוחות כספיים)",
   "Golden handcuffs (אזיקי זהב)",
   "Secular trend (מגמה מבנית)",
   "Skin in the game (עניין אישי בתוצאה)",
