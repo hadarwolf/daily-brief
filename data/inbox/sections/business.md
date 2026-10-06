@@ -18,98 +18,99 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Segantii Trial Nears Finish as Lawyers Make Closing Arguments",
+     "published": "2026-10-06T09:45:22+00:00",
+     "summary": "Segantii Capital Management’s founder Simon Sadler returned to a Hong Kong court this week, as the prosecution delivered its closing argument in a high-profile insider trading case that has gripped the city’s hedge fund community."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Key Saudi Pipeline Flows at 5.8 Million Barrels, Minister Says",
+     "published": "2026-10-06T09:39:09+00:00",
+     "summary": "Saudi Arabia is pumping 5.8 million barrels a day through its key cross-country pipeline, Energy Minister Prince Abdulaziz bin Salman said."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "SEBI Says Jane Street’s Appeal for More Details a Delaying Ploy",
+     "published": "2026-10-06T09:38:10+00:00",
+     "summary": "India’s markets regulator called Jane Street Group LLC’s demand for additional documents a “dilatory” tactic, a day after the Wall Street trading giant pressed for more information about the origins of the investigation against it."
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "Merlin Debt Backed by London Eye Is Fetching a High Price Tag",
+     "published": "2026-10-06T09:27:21+00:00",
+     "summary": "Credit traders are quoting Merlin Entertainments Ltd.’s private loans far above the distressed prices of the leisure-park operator’s existing securities, reflecting the value investors place on debt backed by prized UK assets like the London Eye."
+    },
+    {
+     "ref": "bloomberg_markets#4",
      "title": "Sushi Restaurants Put on Tuna Carving Dinner Shows",
      "published": "2026-10-06T09:15:43+00:00",
      "summary": "Sushi restaurants are swapping soft music and carefully plated fish for the spectacle of breaking down 200-pound bluefin tuna in front of paying customers. Some are charging well into five figures to buy out the restaurant for the night. Sunny Kim reports. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#5",
      "title": "Chevron’s Wirth Warns US Diesel Curbs Could Send Prices Higher",
      "published": "2026-10-06T09:12:04+00:00",
      "summary": "A US ban on diesel exports could result in higher prices in some parts of the country as well as causing issues with other nations that rely on American supplies, Chevron Corp. Chief Executive Officer Mike Wirth said on Tuesday."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#6",
      "title": "EU to Seek Market Operator to Conduct Joint Energy Purchases",
      "published": "2026-10-06T09:10:18+00:00",
      "summary": "The European Union will look to appoint a market operator to help the bloc procure energy as it struggles with a second price crisis in less than five years."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#7",
      "title": "Cuba mantiene luces encendidas con energía solar de EE.UU.",
      "published": "2026-10-06T09:00:03+00:00",
      "summary": "Cuando Cuba sufrió su séptimo apagón nacional del año, la fiesta siguió en La Campana, un centro de eventos de La Habana. Sus paneles solares y baterías de respaldo mantuvieron las luces encendidas, y los invitados ni siquiera se dieron cuenta del corte."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#8",
      "title": "Nomura Turns More Confident on Korean Bonds, Sees BOK on Hold",
      "published": "2026-10-06T08:43:47+00:00",
      "summary": "Nomura is turning more bullish on South Korean bonds, raising its conviction level on receiving a 5-year Korea non-deliverable interest-rate swap position starting in 2027."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#9",
      "title": "Earnings Growth Can Buoy European Stocks: 7IM's Kelemen",
      "published": "2026-10-06T08:38:33+00:00",
      "summary": "Shanti Kelemen, co-chief investment officer at 7IM, discusses the outlook for European stocks, stating that strong corporate earnings remain the market's main support. \"I think the levels right now are probably close to as good as it gets. But the thing is that even though there are some sectors that are extremely high, there's other sectors that are lower and probably can pick up,\" Kelemen says o"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#10",
      "title": "Ebola Spread Exhausts Healthcare Workers in Africa",
      "published": "2026-10-06T08:36:10+00:00",
      "summary": "20 weeks into the Ebola virus outbreak, health workers have managed to tamp down some of the early hotspot but the virus is still spreading in the Democratic Republic of Congo, putting experts under mounting pressure. Jennifer Zabasajja, Bloomberg’s Chief Africa correspondent reports. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#11",
      "title": "Gemcorp Joins Madagascar to Raise $5 Billion for Energy, Mining",
      "published": "2026-10-06T08:18:40+00:00",
      "summary": "Madagascar wants to raise as much as $5 billion by teaming up with asset manager Gemcorp Capital Management Ltd. to fund energy, infrastructure and mining projects in the island nation."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#12",
      "title": "US Aid Cuts Drove Sharp HIV Service Drops in Africa, Study Finds",
      "published": "2026-10-06T08:14:45+00:00",
      "summary": "US funding cuts caused sharp and lasting declines in HIV prevention, testing and treatment services at organizations serving some of the people most vulnerable to the virus in Uganda and Zimbabwe, according to new research."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#13",
      "title": "Senegal’s $1.2 Billion Swaps to Prolong Debt Revamp, S&P Says",
      "published": "2026-10-06T08:13:55+00:00",
      "summary": "Senegal’s issue of a controversial swap could complicate its debt restructuring, according to S&P Global Ratings."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#14",
      "title": "French Bonds Will Sell Off Further: Market Analysis",
      "published": "2026-10-06T07:33:55+00:00",
      "summary": "Anna Edwards, Guy Johnson, and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" For up to the minute market intelligence and insight, click MLIV . (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
-     "title": "Germany and France Are Driving EU to Get Tough on Chinese Trade",
-     "published": "2026-10-06T07:04:16+00:00",
-     "summary": "A joint call from France and Germany for new measures to curb Chinese imports will strengthen the European Commission’s position as it tries to rebalance trade ties with Beijing."
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "ByteDance Draws ADIA, Coller to Primavera’s Continuation Fund",
-     "published": "2026-10-06T06:39:27+00:00",
-     "summary": "Middle East sovereign wealth fund Abu Dhabi Investment Authority and private equity firm Coller Capital are in talks to back a continuation vehicle anchored by a stake in Chinese tech giant ByteDance, according to people familiar with the matter."
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "FTSE 100 Live: UK Stocks Set for Third Day of Gains",
-     "published": "2026-10-06T05:44:00+00:00"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Full Interview: Why Ray Dalio Sees Risk of US Debt Crisis",
-     "published": "2026-10-06T03:48:25+00:00",
-     "summary": "Bridgewater Associates Founder Ray Dalio says he sees the possibility of a US debt crisis within three years. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)"
-    },
-    {
      "ref": "bloomberg_markets#15",
-     "title": "Gold Edges Lower as Strong Dollar, Yields Weigh on Fed Rate Path",
-     "published": "2026-10-05T23:39:14+00:00",
-     "summary": "Gold edged lower, as traders weighed the impact of a stronger dollar and higher Treasury yields on the Federal Reserve’s path for interest rates."
+     "title": "New World Seeks More Time to Pay Bonds With $1 Billion Swap",
+     "published": "2026-10-06T00:36:05+00:00",
+     "summary": "New World Development Co., the stressed Hong Kong developer that’s become a symbol of the city’s efforts to move past its property slump, is seeking to buy more time to pay off creditors with a new bond exchange offer."
     },
     {
      "ref": "bloomberg_markets#16",
@@ -121,13 +122,13 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "bloomberg_markets#17",
      "title": "Latest Oil Market News and Analysis for Oct. 6",
      "published": "2026-10-05T22:03:37+00:00",
-     "summary": "Oil edged down, after losing almost 2% on Monday, as rising Persian Gulf exports and a price cut by Saudi Arabia pointed to a looser market."
+     "summary": "Oil declined as rising exports from the Middle East and a price cut by Saudi Arabia pointed to a looser market."
     },
     {
      "ref": "bloomberg_markets#18",
-     "title": "Japanese Rivals Study Bids for TK Elevator’s European Assets",
-     "published": "2026-10-05T16:10:33+00:00",
-     "summary": "Japanese elevator makers including Mitsubishi Electric Corp. are among potential suitors set to study bids for European operations being sold by TK Elevator, people with knowledge of the matter said."
+     "title": "World’s Biggest Business Class Comes to British Airways A380",
+     "published": "2026-10-05T21:01:08+00:00",
+     "summary": "British Airways will introduce what it called the world’s biggest business class on its upgraded double-decker Airbus SE A380 jets, targeting premium passengers as airlines rush to cash in on upscale travel."
     },
     {
      "ref": "bloomberg_markets#19",
@@ -143,15 +144,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Flydubai attacker received flight training in New Zealand",
-     "published": "2026-10-06T07:16:09+00:00",
-     "summary": "Co-pilot has been interrogated by Israel’s Shin Bet under UAE-led investigation into alleged attempted hijacking"
+     "title": "Former German spy chief arrested for treason",
+     "published": "2026-10-06T09:11:14+00:00",
+     "summary": "Former intelligence head August Hanning suspected of selling state secrets to a foreign power"
     },
     {
      "ref": "ft_home#1",
-     "title": "AI models used in bank cyber attacks, warns South Korea’s president",
-     "published": "2026-10-06T06:19:09+00:00",
-     "summary": "Lee Jae Myung highlights public anxiety over what one official calls a ‘completely new kind of crisis’"
+     "title": "Flydubai attacker received flight training in New Zealand",
+     "published": "2026-10-06T07:16:09+00:00",
+     "summary": "Co-pilot has been interrogated by Israel’s Shin Bet under UAE-led investigation into alleged attempted hijacking"
     },
     {
      "ref": "ft_home#2",
@@ -167,39 +168,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#4",
+     "title": "German far right set to secure first-ever regional parliament president",
+     "published": "2026-10-06T04:00:27+00:00",
+     "summary": "Tobias Rausch hoping to become the AfD’s figurehead in the Saxony-Anhalt assembly"
+    },
+    {
+     "ref": "ft_home#5",
      "title": "Surge in borrowing costs hits corporate America",
      "published": "2026-10-06T04:00:17+00:00",
      "summary": "Sharp sell-off in US Treasury market starts to feed through to junk-rated companies"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "The bond market turns on France",
      "published": "2026-10-06T04:00:17+00:00",
      "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "Andy Burnham’s Manchester City problem",
      "published": "2026-10-06T04:00:17+00:00",
      "summary": "The prime minister’s economic vision looks dangerously like a game of two halves"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "India’s bullet train tangle leaves Japan fuming",
      "published": "2026-10-06T01:42:54+00:00",
      "summary": "Flagship high-speed rail project has been beset by delays, cost overruns and tensions"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "Hong Kong quizzes HSBC over Singapore AI hub decision",
      "published": "2026-10-06T01:32:21+00:00",
      "summary": "Monetary authority strives to bolster Chinese territory’s status as international financial capital"
-    },
-    {
-     "ref": "ft_home#9",
-     "title": "Reflection AI boosts US ambition to compete with Chinese ‘open’ models",
-     "published": "2026-10-05T19:00:03+00:00",
-     "summary": "Start-up claims new model Beam is on par with leading Chinese competitor as battle with Beijing intensifies"
     }
    ]
   },
@@ -210,8 +211,8 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "themarker#0",
      "title": "עליות של עד 1% בבורסות אירופה; בריטניה \"על קרח דק\" לקראת עדכון תקציב",
-     "published": "2026-10-06T08:38:00+00:00",
-     "summary": "מחיר הנפט מתייצב על 100 דולר לחבית; זהב רוסי מציף את הונג קונג ■ בדרך להנפקה דיפסיק הסינית עוצרת לגיוס ענק של 12 מיליארד דולר לפחות ■ אסיה נסגרה בעליות לאחר שהבנק העולמי העלה את תחזית הצמיחה לאזור בגלל ה–AI — אבל גם הזהיר מפניה; סיאול ירדה ב-1%; פוקסקון דיווחה על הכנסות שיא - אבל המניה בטאיפיי נפלה"
+     "published": "2026-10-06T09:42:00+00:00",
+     "summary": "ירידות בשוק הנפט, הברנט מתחת ל-100 דולר לחבית; זהב רוסי מציף את הונג קונג ■ בדרך להנפקה דיפסיק הסינית עוצרת לגיוס ענק של 12 מיליארד דולר לפחות ■ אסיה נסגרה בעליות לאחר שהבנק העולמי העלה את תחזית הצמיחה לאזור בגלל ה–AI — אבל גם הזהיר מפניה; סיאול ירדה ב-1%; פוקסקון דיווחה על הכנסות שיא - אבל המניה בטאיפיי נפלה"
     },
     {
      "ref": "themarker#1",
@@ -265,7 +266,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "themarker#9",
      "title": "העניין באג\"ח בחו\"ל גדל, אבל מספיק שהדולר ישוב ל–2.9 שקלים — והתשואה תימחק",
      "published": "2026-10-06T03:10:59+00:00",
-     "summary": "המוסדיים שינוי בספטמבר גישה כלפי אג\"ח בחו\"ל וחזרו להשקיע, אך הישראלים מתרחקים מהקטגוריה ■ מיטב: \"המשקיעים שבאים מחפשים את התשואות הגבוהות. אם הדולר יתחזק נראה גיוסים גדולים, כמו ב–2023\" ■ למה להחזיק לאומי בדולרים, ומה עם הסיכון מאמזון?"
+     "summary": "המוסדיים שינו בספטמבר גישה כלפי אג\"ח בחו\"ל וחזרו להשקיע, אך הישראלים מתרחקים מהקטגוריה ■ מיטב: \"המשקיעים שבאים מחפשים את התשואות הגבוהות. אם הדולר יתחזק נראה גיוסים גדולים, כמו ב–2023\" ■ למה להחזיק לאומי בדולרים, ומה עם הסיכון מאמזון?"
     },
     {
      "ref": "themarker#10",
@@ -305,7 +306,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#16",
-     "title": "\"קניתי מניות של אינטל כשהן עלו 17 דולר לאחת. עשיתי תשואה של כ–400%\"",
+     "title": "\"קניתי מניות של אינטל כשהן עלו כ-18 דולר לאחת. עשיתי תשואה של כ–400%\"",
      "published": "2026-10-06T03:00:06+00:00",
      "summary": "נועם עזר החל להשקיע לפני כשנתיים, והוא משקיע במניות שונות ובזהב ■ המדור מביא את קולם של המשקיעים החדשים, שהחלו להשקיע בשנים האחרונות בשוק ההון ■ וגם: מה אנחנו חשבנו על התיק?"
     },
@@ -364,153 +365,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
+     "published": "2026-10-06T09:30:00+00:00",
+     "summary": "Oura pitched itself as a tech platform, but investors saw through that."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Luxury Senior-Housing Company Locks in a $1 Billion Buyer",
+     "published": "2026-10-06T09:30:00+00:00",
+     "summary": "The buyer, a firm with experience in luxury hospitality, aims to capitalize on boomers who can splurge on retirement homes and lifestyle."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "U.S. Treasury Yields Turn Lower, Eurozone Bond Yields Slide",
      "published": "2026-10-06T09:19:00+00:00",
      "summary": "Investors pondered whether the recent selloff had gone too far and now offered attractive levels to start buying again."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "NYSE Owner Launches Gold Futures in London",
      "published": "2026-10-06T09:13:00+00:00",
      "summary": "The contract began trading Monday alongside new futures for silver, platinum and palladium."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#4",
      "title": "Sterling Could Rise Further Against Euro",
      "published": "2026-10-06T09:07:00+00:00",
      "summary": "The euro rose slightly against sterling, but ING expects the pound to extend recent gains against the single currency, saying it could fall as low as 0.8400 pounds."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#5",
      "title": "Luxury Industry Likely to Have Slowed in 3Q",
      "published": "2026-10-06T09:01:00+00:00",
      "summary": "European stock indexes rose in opening trade, as the continent catched up with gains in U.S. stocks Monday."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#6",
      "title": "Stock Market Today: S&P Futures Rise, Putting New Record In Sight",
      "published": "2026-10-06T08:45:19+00:00",
      "summary": "U.S. 10-year bond yield eases; oil slips"
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#7",
      "title": "Companies Raise More Than $1 Trillion in Equity Markets, But AI, Bond Yields Sour Mood",
      "published": "2026-10-06T08:29:00+00:00",
      "summary": "EXCLUSIVE: Markets had been expecting a bumper quarter following an ebullient start to the year crowned by SpaceX’s record-breaking IPO."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#8",
      "title": "U.S. Stock Futures Nudge Higher as Oil Falls Below $100",
      "published": "2026-10-06T08:11:00+00:00",
      "summary": "Investors brushed off stubbornly elevated Treasury yields to push equities higher."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
      "published": "2026-10-06T08:09:00+00:00",
      "summary": "Private-capital funds have proliferated in recent years as investors seek to reduce reliance on public markets."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "Gold Edges Higher, But Focus Remains on U.S. Dollar, Yields",
      "published": "2026-10-06T07:58:00+00:00",
      "summary": "Gold prices ticked higher in early European trading, with focus on Treasury yields and the dollar."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "Oil Falls on Easing Gulf Supply Concerns Despite Elevated Tensions",
      "published": "2026-10-06T07:53:00+00:00",
      "summary": "Oil prices were falling, with U.S. benchmark WTI slipping below $90 a barrel as immediate supply concerns eased."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "German Factory Orders Tumbled in August",
      "published": "2026-10-06T07:18:00+00:00",
      "summary": "Manufacturing orders in the eurozone’s largest economy fell 10.6% on month, as the conflict in the Middle East kept energy costs elevated."
     },
     {
-     "ref": "wsj_markets#11",
-     "title": "Informa to Separate Academic Business; Buys Clarion Events for $2.96 Billion",
-     "published": "2026-10-06T06:56:00+00:00",
-     "summary": "Informa plans to buy the live events company and separate its academic unit Taylor & Francis, allowing it to focus on its core business-to-business arm."
-    },
-    {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "Norsk Hydro Expects Further Hit From Gas Supply Challenges at Brazilian Alumina Plant",
      "published": "2026-10-06T06:11:00+00:00",
      "summary": "The company said that the financial impact remained uncertain and was subject to gas prices, contractual developments, and the implementation of a long-term solution."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most",
      "published": "2026-10-06T02:30:00+00:00",
      "summary": "The scramble is on for diesel, while damaged refineries and tight fuel supplies keep prices elevated around the world."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#15",
      "title": "WSJ Dollar Index Rises 0.05% to 97.31",
      "published": "2026-10-05T21:50:00+00:00",
      "summary": "The WSJ Dollar Index rose 0.1% — up 13 of the past 16 trading days."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#16",
      "title": "L’Oréal Taps Advisers to Explore Unloading Chemical-Related Liabilities",
      "published": "2026-10-05T21:44:00+00:00",
      "summary": "The cosmetics company’s U.S. subsidiary is working with Weil Gotshal and Ducera to address talc-related lawsuits."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#17",
      "title": "Nasdaq Hits New Record as Bond Yields March Higher",
      "published": "2026-10-05T21:10:00+00:00",
      "summary": "The yield on the 10-year Treasury touched a fresh 24-year high, as a global bond rout and AI-investing boom ripple through markets in tandem."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#18",
      "title": "Auto & Transport Roundup: Market Talk",
      "published": "2026-10-05T20:59:00+00:00",
      "summary": "Find insight on Volvo Car, MISC, InterGlobe Aviation and more in the latest Market Talks covering Auto and Transport."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "Stocks Up, Yields Up",
      "published": "2026-10-05T20:56:00+00:00",
      "summary": "Plus, Brent crude nears $100 and a deal shakes up logistics"
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "U.S. Stocks Rise as AI Bets Offset Bond Yield Fears",
      "published": "2026-10-05T20:42:00+00:00",
      "summary": "U.S. stocks rose as optimism about the artificial-intelligence boom offset a rise in bond yields around the world."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#21",
      "title": "Euro Drops to 16-Month Low as French Fiscal Strain, Spanish Snap Election Weigh",
      "published": "2026-10-05T20:39:00+00:00",
      "summary": "The euro traded at $1.122, its lowest level since May 16, 2025."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#22",
      "title": "Electronic Arts Bondholders Allege Default Following Largest LBO",
      "published": "2026-10-05T20:32:00+00:00",
      "summary": "EA bondholders alleged a $1.4 billion debt default, escalating a dispute over whether the videogame maker must pay them off at a premium after going private in the largest leveraged buyout of all time."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "Opinion | Covid, Climate and the ‘Consensus Trap’",
      "published": "2026-10-05T19:57:00+00:00",
      "summary": "Scientists are as prone as anyone else to groupthink, and stifling dissent often produces disaster."
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "Opinion | When Can You Sue if Your 401(k) Underperforms?",
      "published": "2026-10-05T19:55:00+00:00",
      "summary": "Investors sought to hedge risk and got lower returns. Now the Supreme Court will hear their case."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Gold Slips Again",
-     "published": "2026-10-05T19:33:00+00:00",
-     "summary": "Gold prices slipped amid strength in the dollar."
     }
    ]
   }
@@ -518,9 +519,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4222.9902,
+   "last": 4223.1602,
    "prev_close": 4223.7402,
-   "change_pct": -0.02,
+   "change_pct": -0.01,
    "as_of": "2026-10-06"
   },
   "SP500": {
@@ -532,23 +533,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0518,
+   "last": 3.0552,
    "prev_close": 3.0515,
-   "change_pct": 0.01,
+   "change_pct": 0.12,
    "as_of": "2026-10-06"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 98.85,
+   "last": 98.36,
    "prev_close": 100.32,
-   "change_pct": -1.47,
+   "change_pct": -1.95,
    "as_of": "2026-10-06"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 86034.5469,
+   "last": 86064.6016,
    "prev_close": 85786.5938,
-   "change_pct": 0.29,
+   "change_pct": 0.32,
    "as_of": "2026-10-06"
   }
  },

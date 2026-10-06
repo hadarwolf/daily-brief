@@ -352,45 +352,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Uefa investigating Republic of Ireland-Israel row after spitting accusation",
+     "published": "2026-10-06T09:42:17+00:00",
+     "summary": "Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of spitting."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "The small African nation ready for Messi's big night",
      "published": "2026-10-06T07:50:34+00:00",
      "summary": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "Donley keen to add goals after encouraging NI run",
      "published": "2026-10-06T07:01:03+00:00",
      "summary": "After a four-game window with plenty of positives for Northern Ireland, there was perhaps just one lingering concern - their ability to score goals consistently."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "Podcast: Time for first Hampden win for Pocognoli's Scotland?",
      "published": "2026-10-06T07:00:00+00:00",
      "summary": "Can Scotland build on victory in Skopje and beat Slovenia at Hampden?"
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "South Korea captain apologises for gloating over military service exemption",
      "published": "2026-10-06T06:43:45+00:00",
      "summary": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Aston Villa remain keen on Raskin - gossip",
      "published": "2026-10-06T06:32:25+00:00",
      "summary": "Aston Villa remain keen on Rangers midfielder, Celtic set for tactical switch and Hearts teens to challenge for first-team places."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Quiz: Name England's all-time leading appearance makers",
      "published": "2026-10-06T06:23:08+00:00",
      "summary": "Harry Kane will become England men's joint all-time leading appearance maker if he plays against Czech Republic on Tuesday."
-    },
-    {
-     "ref": "bbc_football#6",
-     "title": "Born into Celtic, made at Motherwell, Welsh comes of age with Scotland",
-     "published": "2026-10-06T06:18:52+00:00",
-     "summary": "It takes talent, resilience and good fortune in finding managers who believe in you, but dreams can come true. Stephen Welsh is living proof of it, writes Tom English."
     },
     {
      "ref": "bbc_football#7",
@@ -400,21 +400,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#8",
+     "title": "Born into Celtic, made at Motherwell, Welsh comes of age with Scotland",
+     "published": "2026-10-06T06:18:52+00:00",
+     "summary": "It takes talent, resilience and good fortune in finding managers who believe in you, but dreams can come true. Stephen Welsh is living proof of it, writes Tom English."
+    },
+    {
+     "ref": "bbc_football#9",
      "title": "Who am I? Guess Premier League star No 78",
      "published": "2026-10-06T05:50:25+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
      "published": "2026-10-06T05:39:49+00:00",
      "summary": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?"
-    },
-    {
-     "ref": "bbc_football#10",
-     "title": "Wales focus on Albania as Grainger reunion looms",
-     "published": "2026-10-06T04:56:59+00:00",
-     "summary": "Wales face Albania in the Women's World Cup play-offs this week knowing a challenging reunion with Gemma Grainger may well be the prize on offer."
     },
     {
      "ref": "bbc_football#11",
@@ -424,21 +424,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#12",
+     "title": "Wales focus on Albania as Grainger reunion looms",
+     "published": "2026-10-06T04:56:59+00:00",
+     "summary": "Wales face Albania in the Women's World Cup play-offs this week knowing a challenging reunion with Gemma Grainger may well be the prize on offer."
+    },
+    {
+     "ref": "bbc_football#13",
      "title": "NI make huge strides despite Georgia frustration",
      "published": "2026-10-05T23:30:24+00:00",
      "summary": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Highlights: Northern Ireland frustrated by Georgia",
      "published": "2026-10-05T21:56:05+00:00",
      "summary": "Watch highlights as Northern Ireland end the extended window with a 0-0 Nations League draw against Georgia at Windsor Park."
-    },
-    {
-     "ref": "bbc_football#14",
-     "title": "Humble Gilmour happy with new role as 50th cap beckons",
-     "published": "2026-10-05T21:28:25+00:00",
-     "summary": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach."
     },
     {
      "ref": "bbc_football#15",
@@ -448,57 +448,57 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#16",
+     "title": "Humble Gilmour happy with new role as 50th cap beckons",
+     "published": "2026-10-05T21:28:25+00:00",
+     "summary": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach."
+    },
+    {
+     "ref": "bbc_football#17",
      "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
      "published": "2026-10-05T20:38:51+00:00",
      "summary": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Monday Night Club: England, Alex Scott injury & Robbie Savage on his new job",
      "published": "2026-10-05T20:31:00+00:00",
      "summary": "What are the benefits of players going abroad to play their club football?"
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
      "published": "2026-10-05T19:13:15+00:00",
      "summary": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "England's greatest international? Kane is now a serious contender",
      "published": "2026-10-05T19:05:52+00:00",
      "summary": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?"
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "Ex-England player Carroll names attacker as TV dance coach",
      "published": "2026-10-05T17:33:38+00:00",
      "summary": "The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "Jesus fires back over Ronaldo question",
      "published": "2026-10-05T15:24:54+00:00",
      "summary": "Portugal manager Jorge Jesus fires back at a question from the media over his handling of Cristiano Ronaldo after the veteran forward left the squad in a row over playing time."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Player welfare, injury worries & boredom - has extended break worked?",
      "published": "2026-10-05T14:54:39+00:00",
      "summary": "The extended international break was brought in with player welfare in mind, but has it been a success?"
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Pickford 'almost caused crash' with careless driving",
      "published": "2026-10-05T14:42:28+00:00",
      "summary": "The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "What we learned from Wales' Nations League window",
-     "published": "2026-10-05T13:37:42+00:00",
-     "summary": "On the back of a demanding four-game international window, BBC Sport Wales assesses the key talking points from Wales' Nations League A campaign so far."
     }
    ]
   },
@@ -508,153 +508,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Benin Star On Messi's Farewell Match: I Will Tell Him He's A God - Soccer Laduma",
+     "published": "2026-10-06T09:15:00+00:00",
+     "summary": "Benin Star On Messi's Farewell Match: I Will Tell Him He's A God Soccer Laduma"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
      "published": "2026-10-06T08:33:23+00:00",
      "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
     },
     {
-     "ref": "gnews_inter_miami#1",
-     "title": "After the final dance: Messi opens the vaults of his secret empire - goal.com",
-     "published": "2026-10-06T08:09:17+00:00",
-     "summary": "After the final dance: Messi opens the vaults of his secret empire goal.com"
-    },
-    {
      "ref": "gnews_inter_miami#2",
-     "title": "'Special moments that I know I'm going to miss' - Lionel Messi prepares for emotional Argentina swansong - goal.com",
-     "published": "2026-10-06T07:04:11+00:00",
-     "summary": "'Special moments that I know I'm going to miss' - Lionel Messi prepares for emotional Argentina swansong goal.com"
+     "title": "After the final dance: Messi opens the vaults of his secret empire - Goal.com",
+     "published": "2026-10-06T08:13:15+00:00",
+     "summary": "After the final dance: Messi opens the vaults of his secret empire Goal.com"
     },
     {
      "ref": "gnews_inter_miami#3",
+     "title": "'Special moments that I know I'm going to miss' - Lionel Messi prepares for emotional Argentina swansong - Goal.com",
+     "published": "2026-10-06T07:04:11+00:00",
+     "summary": "'Special moments that I know I'm going to miss' - Lionel Messi prepares for emotional Argentina swansong Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
      "title": "Lionel Messi trails Cristiano Ronaldo by $150 million - Gulf News",
      "published": "2026-10-06T06:02:26+00:00",
      "summary": "Lionel Messi trails Cristiano Ronaldo by $150 million Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Footballer Messi to play final match for Argentina against Benin — BBC Sport - UA.NEWS",
      "published": "2026-10-06T06:01:42+00:00",
      "summary": "Footballer Messi to play final match for Argentina against Benin — BBC Sport UA.NEWS"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Is Lionel Messi retiring from Inter Miami following his Argentina departure? - World Soccer Talk",
      "published": "2026-10-05T23:47:36+00:00",
      "summary": "Is Lionel Messi retiring from Inter Miami following his Argentina departure? World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, October 21 - Football Addict",
      "published": "2026-10-05T23:07:27+00:00",
      "summary": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, October 21 Football Addict"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "MLS Odds: Major League Soccer Betting Lines - FanDuel Sportsbook",
      "published": "2026-10-05T21:26:51+00:00",
      "summary": "MLS Odds: Major League Soccer Betting Lines FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#8",
-     "title": "The six ways Lionel Messi has revolutionized U.S. soccer — The Soccer Weekender - The New York Times",
+     "ref": "gnews_inter_miami#9",
+     "title": "The six ways Lionel Messi has revolutionized U.S. soccer — The Soccer Weekender - nytimes.com",
      "published": "2026-10-05T21:22:05+00:00",
-     "summary": "The six ways Lionel Messi has revolutionized U.S. soccer — The Soccer Weekender The New York Times"
+     "summary": "The six ways Lionel Messi has revolutionized U.S. soccer — The Soccer Weekender nytimes.com"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, Oct. 21 - Inter Miami CF",
      "published": "2026-10-05T20:59:58+00:00",
      "summary": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, Oct. 21 Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Why Lionel Messi's Argentina farewell might not be the only soccer goodbye this year involving Inter Miami star - Yahoo Sports",
      "published": "2026-10-05T19:22:38+00:00",
      "summary": "Why Lionel Messi's Argentina farewell might not be the only soccer goodbye this year involving Inter Miami star Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 - MARCA",
      "published": "2026-10-05T19:18:23+00:00",
      "summary": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 MARCA"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Revolution launch ‘Big Match Packages” on sale now - revolutionsoccer.net",
      "published": "2026-10-05T19:08:35+00:00",
      "summary": "Revolution launch ‘Big Match Packages” on sale now revolutionsoccer.net"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami Faces Uncertainty Over Ian Fray Ahead of D.C. United Clash - Pasión Fútbol",
      "published": "2026-10-05T18:05:19+00:00",
      "summary": "Inter Miami Faces Uncertainty Over Ian Fray Ahead of D.C. United Clash Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
+     "title": "Inter Miami CF - Transfermarkt",
+     "published": "2026-10-05T17:40:22+00:00",
+     "summary": "Inter Miami CF Transfermarkt"
+    },
+    {
+     "ref": "gnews_inter_miami#16",
      "title": "Inter Miami Faces a Midfield Dilemma as Kily González Loses Morales to Suspension - Pasión Fútbol",
      "published": "2026-10-05T17:26:55+00:00",
      "summary": "Inter Miami Faces a Midfield Dilemma as Kily González Loses Morales to Suspension Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#17",
      "title": "Matías Galarza Returns to Inter Miami After Paraguay Call-Up With Starting Role in Sight - Pasión Fútbol",
      "published": "2026-10-05T16:54:40+00:00",
      "summary": "Matías Galarza Returns to Inter Miami After Paraguay Call-Up With Starting Role in Sight Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#16",
-     "title": "argentina vs benin - latestly.com",
+     "ref": "gnews_inter_miami#18",
+     "title": "argentina vs benin - LatestLY",
      "published": "2026-10-05T15:03:56+00:00",
-     "summary": "argentina vs benin latestly.com"
+     "summary": "argentina vs benin LatestLY"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi farewell: Argentina superstar still one of the best as he preps for final national team match - CBS Sports",
      "published": "2026-10-05T14:43:47+00:00",
      "summary": "Lionel Messi farewell: Argentina superstar still one of the best as he preps for final national team match CBS Sports"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami vs DC United Preview & Prediction | 2026 MLS - The Stats Zone",
      "published": "2026-10-05T13:10:00+00:00",
      "summary": "Inter Miami vs DC United Preview & Prediction | 2026 MLS The Stats Zone"
     },
     {
-     "ref": "gnews_inter_miami#19",
-     "title": "What to know for Messi's final Argentina game: Opponent, how to watch and more - NBC 6 South Florida",
-     "published": "2026-10-05T12:24:14+00:00",
-     "summary": "What to know for Messi's final Argentina game: Opponent, how to watch and more NBC 6 South Florida"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Marriott Bonvoy Partners with Inter Miami CF - safariindia.com",
      "published": "2026-10-05T09:54:07+00:00",
      "summary": "Marriott Bonvoy Partners with Inter Miami CF safariindia.com"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 - FotMob",
      "published": "2026-10-05T07:45:04+00:00",
      "summary": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 FotMob"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "MLS Injuries & Suspensions - Sportsgambler",
      "published": "2026-10-05T04:43:54+00:00",
      "summary": "MLS Injuries & Suspensions Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#23",
-     "title": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin - goal.com",
-     "published": "2026-10-05T04:30:08+00:00",
-     "summary": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin goal.com"
-    },
-    {
      "ref": "gnews_inter_miami#24",
-     "title": "Messi to play one final match before retirement in epic Argentina send-off - tag24.com",
-     "published": "2026-10-05T04:29:21+00:00",
-     "summary": "Messi to play one final match before retirement in epic Argentina send-off tag24.com"
+     "title": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin - Goal.com",
+     "published": "2026-10-05T04:30:08+00:00",
+     "summary": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin Goal.com"
     }
    ]
   },

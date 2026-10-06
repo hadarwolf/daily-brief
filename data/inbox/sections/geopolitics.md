@@ -18,69 +18,69 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-06T09:51:16+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "2026 World Cup hometown heroes - AP News",
+     "published": "2026-10-06T09:49:21+00:00",
+     "summary": "2026 World Cup hometown heroes AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-06T09:49:18+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#3",
      "title": "International News - AP News",
      "published": "2026-10-06T09:21:24+00:00",
      "summary": "International News AP News"
     },
     {
-     "ref": "ap_world#1",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-06T09:17:10+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#2",
-     "title": "Africa News Reports | Latest News in Africa - AP News",
-     "published": "2026-10-06T09:03:11+00:00",
-     "summary": "Africa News Reports | Latest News in Africa AP News"
-    },
-    {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-10-06T08:57:24+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-10-06T08:57:23+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "2026 World Cup hometown heroes - AP News",
-     "published": "2026-10-06T08:49:10+00:00",
-     "summary": "2026 World Cup hometown heroes AP News"
-    },
-    {
      "ref": "ap_world#6",
-     "title": "South America - AP News",
-     "published": "2026-10-06T08:35:08+00:00",
-     "summary": "South America AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-06T08:35:05+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
-    },
-    {
-     "ref": "ap_world#8",
      "title": "A crowd of students protests Cornell’s response to gang rape complaint - AP News",
      "published": "2026-10-06T07:53:00+00:00",
      "summary": "A crowd of students protests Cornell’s response to gang rape complaint AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#7",
      "title": "Far-right election win leaves migrants questioning their future in eastern Germany - AP News",
      "published": "2026-10-06T07:08:00+00:00",
      "summary": "Far-right election win leaves migrants questioning their future in eastern Germany AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#8",
+     "title": "Why people across India are taking to the streets again - AP News",
+     "published": "2026-10-06T06:46:00+00:00",
+     "summary": "Why people across India are taking to the streets again AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "Anger in Japan grows after US Marine is arrested over the killing of a woman on Okinawa - AP News",
      "published": "2026-10-06T05:11:00+00:00",
      "summary": "Anger in Japan grows after US Marine is arrested over the killing of a woman on Okinawa AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Israelis scarred by Oct. 7 struggle to see Gaza as anything other than a threat - AP News",
+     "published": "2026-10-06T05:08:00+00:00",
+     "summary": "Israelis scarred by Oct. 7 struggle to see Gaza as anything other than a threat AP News"
     },
     {
      "ref": "ap_world#11",
@@ -120,51 +120,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#17",
+     "title": "Medvedev disqualified from China Open for hitting spectator with a ball during semi vs. Djokovic - AP News",
+     "published": "2026-10-06T02:56:02+00:00",
+     "summary": "Medvedev disqualified from China Open for hitting spectator with a ball during semi vs. Djokovic AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "Trump signs order extending tax-free use of red-dyed diesel during midterm stop in Nebraska - AP News",
      "published": "2026-10-06T02:46:00+00:00",
      "summary": "Trump signs order extending tax-free use of red-dyed diesel during midterm stop in Nebraska AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "White Sox surge past Guardians 4-3 to take 2-0 lead in ALDS and move within 1 win of ALCS - AP News",
      "published": "2026-10-06T02:10:00+00:00",
      "summary": "White Sox surge past Guardians 4-3 to take 2-0 lead in ALDS and move within 1 win of ALCS AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "Nicaragua torture victim imprisoned for second time after being deported by US - AP News",
      "published": "2026-10-06T01:55:00+00:00",
      "summary": "Nicaragua torture victim imprisoned for second time after being deported by US AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Trending News - AP News",
      "published": "2026-10-06T01:16:26+00:00",
      "summary": "Trending News AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan - AP News",
      "published": "2026-10-06T01:15:00+00:00",
      "summary": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "LIV Golf in line to get initial investment as it tries to emerge from bankruptcy - AP News",
      "published": "2026-10-06T01:06:00+00:00",
      "summary": "LIV Golf in line to get initial investment as it tries to emerge from bankruptcy AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "What will the next leader of the UN need to get the job done in an increasingly complex world? - AP News",
      "published": "2026-10-06T01:01:00+00:00",
      "summary": "What will the next leader of the UN need to get the job done in an increasingly complex world? AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "FBI arrests California woman accused of spying on Taiwan leader’s family for China - AP News",
-     "published": "2026-10-06T00:51:00+00:00",
-     "summary": "FBI arrests California woman accused of spying on Taiwan leader’s family for China AP News"
     }
    ]
   },
@@ -174,27 +174,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+     "published": "2026-10-06T09:48:37+00:00",
+     "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Kenya confirms its first Ebola death as outbreak spreads",
+     "published": "2026-10-06T09:26:11+00:00",
+     "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year."
+    },
+    {
+     "ref": "bbc_world#2",
      "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
      "published": "2026-10-06T09:02:03+00:00",
      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#3",
      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
      "published": "2026-10-06T09:01:51+00:00",
      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
-    },
-    {
-     "ref": "bbc_world#2",
-     "title": "Kenya confirms its first Ebola death as outbreak spreads",
-     "published": "2026-10-06T08:49:20+00:00",
-     "summary": "The patient has been living in DR Congo for the past seven years."
-    },
-    {
-     "ref": "bbc_world#3",
-     "title": "What is Russia saying about death of woman linked to plague lab?",
-     "published": "2026-10-06T07:58:53+00:00",
-     "summary": "BBC Verify looks into the death of a woman linked to plague lab in Siberia."
     },
     {
      "ref": "bbc_world#4",
@@ -384,147 +384,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#1",
+     "title": "Mistral CEO says new AI model beats Chinese ones in some areas - Reuters",
+     "published": "2026-10-06T08:29:23+00:00",
+     "summary": "Mistral CEO says new AI model beats Chinese ones in some areas Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "UK PM weighs delay to roadmap for higher defence spending, Times reports - Reuters",
      "published": "2026-10-06T08:17:44+00:00",
      "summary": "UK PM weighs delay to roadmap for higher defence spending, Times reports Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Lithuania says it would pay the cost if US establishes military base - Reuters",
      "published": "2026-10-06T08:09:44+00:00",
      "summary": "Lithuania says it would pay the cost if US establishes military base Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
+     "title": "France braces for day of school blockades and street protests - Reuters",
+     "published": "2026-10-06T08:08:30+00:00",
+     "summary": "France braces for day of school blockades and street protests Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "Brazil ex-President Bolsonaro wins big without his name on the ballot - Reuters",
      "published": "2026-10-06T07:51:28+00:00",
      "summary": "Brazil ex-President Bolsonaro wins big without his name on the ballot Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "Britain likely to expel Israeli diplomats if Jerusalem consulate closes, sources say - Reuters",
      "published": "2026-10-06T07:47:12+00:00",
      "summary": "Britain likely to expel Israeli diplomats if Jerusalem consulate closes, sources say Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas - Reuters",
      "published": "2026-10-06T07:33:29+00:00",
      "summary": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "AMD plans to substantially increase supply in 2027, CEO says - Reuters",
      "published": "2026-10-06T07:21:43+00:00",
      "summary": "AMD plans to substantially increase supply in 2027, CEO says Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight - Reuters",
      "published": "2026-10-06T07:16:09+00:00",
      "summary": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Police detain Indian opposition leader Rahul Gandhi at poll chief protest, TV channels say - Reuters",
      "published": "2026-10-06T06:55:00+00:00",
      "summary": "Police detain Indian opposition leader Rahul Gandhi at poll chief protest, TV channels say Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
+     "title": "Drones strike two ships in Bulgaria's Black Sea zone - President - Reuters",
+     "published": "2026-10-06T06:48:00+00:00",
+     "summary": "Drones strike two ships in Bulgaria's Black Sea zone - President Reuters"
+    },
+    {
+     "ref": "reuters_world#12",
      "title": "Romanian president nominates diplomat Luca Niculescu as prime minister - Reuters",
      "published": "2026-10-06T06:15:00+00:00",
      "summary": "Romanian president nominates diplomat Luca Niculescu as prime minister Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "US televangelist Jim Bakker, ensnared in fraud and sex scandal, dead at 86 - Reuters",
      "published": "2026-10-06T05:42:00+00:00",
      "summary": "US televangelist Jim Bakker, ensnared in fraud and sex scandal, dead at 86 Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
+     "title": "NEWSLETTER: Is there hope for Indian equities? - Reuters",
+     "published": "2026-10-06T05:30:00+00:00",
+     "summary": "NEWSLETTER: Is there hope for Indian equities? Reuters"
+    },
+    {
+     "ref": "reuters_world#15",
      "title": "Singapore refers 8 civil servants to police after investigating report alleging privileged information was used for home purchases - Reuters",
      "published": "2026-10-06T05:26:00+00:00",
      "summary": "Singapore refers 8 civil servants to police after investigating report alleging privileged information was used for home purchases Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#16",
      "title": "India services growth at 3-month high, but quarter weakest since 2022, PMI shows - Reuters",
      "published": "2026-10-06T05:09:00+00:00",
      "summary": "India services growth at 3-month high, but quarter weakest since 2022, PMI shows Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#17",
      "title": "Spain's housing crisis bursts into the spotlight at snap election - Reuters",
      "published": "2026-10-06T05:01:00+00:00",
      "summary": "Spain's housing crisis bursts into the spotlight at snap election Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#18",
      "title": "India's Trent jumps as store expansion bet pays off, sales growth improves - Reuters",
      "published": "2026-10-06T04:43:00+00:00",
      "summary": "India's Trent jumps as store expansion bet pays off, sales growth improves Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#19",
      "title": "Malaysia says around 10,000 Myanmar nationals sent home since January - Reuters",
      "published": "2026-10-06T04:41:00+00:00",
      "summary": "Malaysia says around 10,000 Myanmar nationals sent home since January Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#20",
      "title": "Trump orders firing squad for gunman who killed 13 people at Fort Hood, Texas - Reuters",
      "published": "2026-10-06T04:33:00+00:00",
      "summary": "Trump orders firing squad for gunman who killed 13 people at Fort Hood, Texas Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#21",
      "title": "Morning Bid - Spain to France: hold my cerveza - Reuters",
      "published": "2026-10-06T04:32:00+00:00",
      "summary": "Morning Bid - Spain to France: hold my cerveza Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#22",
      "title": "BOJ may signal underlying inflation has hit 2% goal, sources say - Reuters",
      "published": "2026-10-06T04:28:00+00:00",
      "summary": "BOJ may signal underlying inflation has hit 2% goal, sources say Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#23",
      "title": "India tractor sales weaken as poor monsoon hurts farm demand - Reuters",
      "published": "2026-10-06T03:39:00+00:00",
      "summary": "India tractor sales weaken as poor monsoon hurts farm demand Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#24",
      "title": "Australian opposition party vows 'biggest cut to immigration' in country's history - Reuters",
      "published": "2026-10-06T03:23:00+00:00",
      "summary": "Australian opposition party vows 'biggest cut to immigration' in country's history Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "Rupee slips to over 2-month low on portfolio outflows, RBI likely steps in - Reuters",
-     "published": "2026-10-06T03:09:00+00:00",
-     "summary": "Rupee slips to over 2-month low on portfolio outflows, RBI likely steps in Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "South Korea says preparing response to force North Korean apology over DMZ blast - Reuters",
-     "published": "2026-10-06T03:05:00+00:00",
-     "summary": "South Korea says preparing response to force North Korean apology over DMZ blast Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Trump urges supporters to vote by mail despite fraud claims - Reuters",
-     "published": "2026-10-06T02:40:00+00:00",
-     "summary": "Trump urges supporters to vote by mail despite fraud claims Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Mynt opens $844 million Philippine IPO, offers GCash users real-time share allocation - Reuters",
-     "published": "2026-10-06T02:35:00+00:00",
-     "summary": "Mynt opens $844 million Philippine IPO, offers GCash users real-time share allocation Reuters"
     }
    ]
   }
