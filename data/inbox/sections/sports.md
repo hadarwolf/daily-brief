@@ -520,21 +520,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#2",
+     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
+     "published": "2026-10-06T07:03:23+00:00",
+     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Lionel Messi trails Cristiano Ronaldo by $150 million - Gulf News",
      "published": "2026-10-06T06:02:26+00:00",
      "summary": "Lionel Messi trails Cristiano Ronaldo by $150 million Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Footballer Messi to play final match for Argentina against Benin — BBC Sport - UA.NEWS",
      "published": "2026-10-06T06:01:42+00:00",
      "summary": "Footballer Messi to play final match for Argentina against Benin — BBC Sport UA.NEWS"
-    },
-    {
-     "ref": "gnews_inter_miami#4",
-     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - thesun.co.uk",
-     "published": "2026-10-06T05:33:23+00:00",
-     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 thesun.co.uk"
     },
     {
      "ref": "gnews_inter_miami#5",
@@ -544,9 +544,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#6",
-     "title": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, October 21 - football-addict.com",
+     "title": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, October 21 - Football Addict",
      "published": "2026-10-05T23:07:27+00:00",
-     "summary": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, October 21 football-addict.com"
+     "summary": "Inter Miami CF to Host Open Training for Season Ticket Members at Nu Stadium on Wednesday, October 21 Football Addict"
     },
     {
      "ref": "gnews_inter_miami#7",
@@ -574,9 +574,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#11",
-     "title": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 - MARCA",
+     "title": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 - marca.com",
      "published": "2026-10-05T19:18:23+00:00",
-     "summary": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 MARCA"
+     "summary": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 marca.com"
     },
     {
      "ref": "gnews_inter_miami#12",
@@ -622,15 +622,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#19",
-     "title": "Inter Miami vs DC United Preview & Prediction | 2026 MLS - thestatszone.com",
+     "title": "Inter Miami vs DC United Preview & Prediction | 2026 MLS - The Stats Zone",
      "published": "2026-10-05T13:10:00+00:00",
-     "summary": "Inter Miami vs DC United Preview & Prediction | 2026 MLS thestatszone.com"
+     "summary": "Inter Miami vs DC United Preview & Prediction | 2026 MLS The Stats Zone"
     },
     {
      "ref": "gnews_inter_miami#20",
-     "title": "What to know for Messi's final Argentina game: Opponent, how to watch and more - nbcmiami.com",
+     "title": "What to know for Messi's final Argentina game: Opponent, how to watch and more - NBC 6 South Florida",
      "published": "2026-10-05T12:24:14+00:00",
-     "summary": "What to know for Messi's final Argentina game: Opponent, how to watch and more nbcmiami.com"
+     "summary": "What to know for Messi's final Argentina game: Opponent, how to watch and more NBC 6 South Florida"
     },
     {
      "ref": "gnews_inter_miami#21",
@@ -640,9 +640,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#22",
-     "title": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 - FotMob",
+     "title": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 - fotmob.com",
      "published": "2026-10-05T07:45:04+00:00",
-     "summary": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 FotMob"
+     "summary": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 fotmob.com"
     },
     {
      "ref": "gnews_inter_miami#23",
@@ -664,9 +664,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "How New NBA Referee Points of Emphasis May Impact Deni Avdija, Toumani Camara, and the Trail Blazers - KREM",
+     "title": "How New NBA Referee Points of Emphasis May Impact Deni Avdija, Toumani Camara, and the Trail Blazers - newswest9.com",
      "published": "2026-10-06T03:19:00+00:00",
-     "summary": "How New NBA Referee Points of Emphasis May Impact Deni Avdija, Toumani Camara, and the Trail Blazers KREM"
+     "summary": "How New NBA Referee Points of Emphasis May Impact Deni Avdija, Toumani Camara, and the Trail Blazers newswest9.com"
     },
     {
      "ref": "gnews_israeli_nba#1",
