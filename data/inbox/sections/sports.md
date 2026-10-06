@@ -508,21 +508,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "After the final dance: Messi opens the vaults of his secret empire - Goal.com",
-     "published": "2026-10-06T08:09:17+00:00",
-     "summary": "After the final dance: Messi opens the vaults of his secret empire Goal.com"
+     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
+     "published": "2026-10-06T08:33:23+00:00",
+     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "'Special moments that I know I'm going to miss' - Lionel Messi prepares for emotional Argentina swansong - Goal.com",
-     "published": "2026-10-06T07:04:11+00:00",
-     "summary": "'Special moments that I know I'm going to miss' - Lionel Messi prepares for emotional Argentina swansong Goal.com"
+     "title": "After the final dance: Messi opens the vaults of his secret empire - goal.com",
+     "published": "2026-10-06T08:09:17+00:00",
+     "summary": "After the final dance: Messi opens the vaults of his secret empire goal.com"
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
-     "published": "2026-10-06T07:03:23+00:00",
-     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
+     "title": "'Special moments that I know I'm going to miss' - Lionel Messi prepares for emotional Argentina swansong - goal.com",
+     "published": "2026-10-06T07:04:11+00:00",
+     "summary": "'Special moments that I know I'm going to miss' - Lionel Messi prepares for emotional Argentina swansong goal.com"
     },
     {
      "ref": "gnews_inter_miami#3",
@@ -574,9 +574,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#11",
-     "title": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 - marca.com",
+     "title": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 - MARCA",
      "published": "2026-10-05T19:18:23+00:00",
-     "summary": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 marca.com"
+     "summary": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10 MARCA"
     },
     {
      "ref": "gnews_inter_miami#12",
@@ -592,69 +592,69 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#14",
-     "title": "Inter Miami CF - Transfermarkt",
-     "published": "2026-10-05T17:40:22+00:00",
-     "summary": "Inter Miami CF Transfermarkt"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
      "title": "Inter Miami Faces a Midfield Dilemma as Kily González Loses Morales to Suspension - Pasión Fútbol",
      "published": "2026-10-05T17:26:55+00:00",
      "summary": "Inter Miami Faces a Midfield Dilemma as Kily González Loses Morales to Suspension Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "Matías Galarza Returns to Inter Miami After Paraguay Call-Up With Starting Role in Sight - Pasión Fútbol",
      "published": "2026-10-05T16:54:40+00:00",
      "summary": "Matías Galarza Returns to Inter Miami After Paraguay Call-Up With Starting Role in Sight Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#17",
-     "title": "argentina vs benin - LatestLY",
+     "ref": "gnews_inter_miami#16",
+     "title": "argentina vs benin - latestly.com",
      "published": "2026-10-05T15:03:56+00:00",
-     "summary": "argentina vs benin LatestLY"
+     "summary": "argentina vs benin latestly.com"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Lionel Messi farewell: Argentina superstar still one of the best as he preps for final national team match - CBS Sports",
      "published": "2026-10-05T14:43:47+00:00",
      "summary": "Lionel Messi farewell: Argentina superstar still one of the best as he preps for final national team match CBS Sports"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami vs DC United Preview & Prediction | 2026 MLS - The Stats Zone",
      "published": "2026-10-05T13:10:00+00:00",
      "summary": "Inter Miami vs DC United Preview & Prediction | 2026 MLS The Stats Zone"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "What to know for Messi's final Argentina game: Opponent, how to watch and more - NBC 6 South Florida",
      "published": "2026-10-05T12:24:14+00:00",
      "summary": "What to know for Messi's final Argentina game: Opponent, how to watch and more NBC 6 South Florida"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Marriott Bonvoy Partners with Inter Miami CF - safariindia.com",
      "published": "2026-10-05T09:54:07+00:00",
      "summary": "Marriott Bonvoy Partners with Inter Miami CF safariindia.com"
     },
     {
-     "ref": "gnews_inter_miami#22",
-     "title": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 - fotmob.com",
+     "ref": "gnews_inter_miami#21",
+     "title": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 - FotMob",
      "published": "2026-10-05T07:45:04+00:00",
-     "summary": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 fotmob.com"
+     "summary": "Clean sheets - Inter Miami CF II stats for MLS Next Pro 2025 FotMob"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "MLS Injuries & Suspensions - Sportsgambler",
      "published": "2026-10-05T04:43:54+00:00",
      "summary": "MLS Injuries & Suspensions Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#24",
-     "title": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin - Goal.com",
+     "ref": "gnews_inter_miami#23",
+     "title": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin - goal.com",
      "published": "2026-10-05T04:30:08+00:00",
-     "summary": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin Goal.com"
+     "summary": "Lionel Messi joins Argentina camp ahead of historic international farewell against Benin goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Messi to play one final match before retirement in epic Argentina send-off - tag24.com",
+     "published": "2026-10-05T04:29:21+00:00",
+     "summary": "Messi to play one final match before retirement in epic Argentina send-off tag24.com"
     }
    ]
   },

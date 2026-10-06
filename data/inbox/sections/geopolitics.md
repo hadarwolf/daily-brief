@@ -18,51 +18,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-06T08:57:25+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+     "title": "International News - AP News",
+     "published": "2026-10-06T09:21:24+00:00",
+     "summary": "International News AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-06T09:17:10+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Africa News Reports | Latest News in Africa - AP News",
+     "published": "2026-10-06T09:03:11+00:00",
+     "summary": "Africa News Reports | Latest News in Africa AP News"
+    },
+    {
+     "ref": "ap_world#3",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-10-06T08:57:24+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#4",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-10-06T08:57:23+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-06T08:51:12+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#4",
-     "title": "Soccer - AP News",
-     "published": "2026-10-06T08:49:08+00:00",
-     "summary": "Soccer AP News"
-    },
-    {
      "ref": "ap_world#5",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-06T08:35:05+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
+     "title": "2026 World Cup hometown heroes - AP News",
+     "published": "2026-10-06T08:49:10+00:00",
+     "summary": "2026 World Cup hometown heroes AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "International News - AP News",
-     "published": "2026-10-06T08:21:08+00:00",
-     "summary": "International News AP News"
+     "title": "South America - AP News",
+     "published": "2026-10-06T08:35:08+00:00",
+     "summary": "South America AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "Africa News Reports | Latest News in Africa - AP News",
-     "published": "2026-10-06T08:03:46+00:00",
-     "summary": "Africa News Reports | Latest News in Africa AP News"
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-10-06T08:35:05+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
     },
     {
      "ref": "ap_world#8",
@@ -162,9 +162,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#24",
-     "title": "2026 World Cup hometown heroes - AP News",
-     "published": "2026-10-06T00:54:42+00:00",
-     "summary": "2026 World Cup hometown heroes AP News"
+     "title": "FBI arrests California woman accused of spying on Taiwan leader’s family for China - AP News",
+     "published": "2026-10-06T00:51:00+00:00",
+     "summary": "FBI arrests California woman accused of spying on Taiwan leader’s family for China AP News"
     }
    ]
   },
@@ -228,39 +228,39 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#9",
+     "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+     "published": "2026-10-06T05:39:49+00:00",
+     "summary": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?"
+    },
+    {
+     "ref": "bbc_world#10",
      "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
      "published": "2026-10-06T04:57:16+00:00",
      "summary": "Police have said it is “strongly suspected” that the incident was caused by a gas leak."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
      "published": "2026-10-06T02:36:21+00:00",
      "summary": "Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\"."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
      "published": "2026-10-06T02:22:24+00:00",
      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "What are the US midterms? A simple guide",
      "published": "2026-10-05T23:40:58+00:00",
      "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "Five reasons India's stock market is sinking even when its economy is growing",
      "published": "2026-10-05T23:13:11+00:00",
      "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026."
-    },
-    {
-     "ref": "bbc_world#14",
-     "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-     "published": "2026-10-05T23:07:08+00:00",
-     "summary": "The city's space boom raises questions about the role of the state in backing important industries."
     },
     {
      "ref": "bbc_world#15",
@@ -402,45 +402,45 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#4",
-     "title": "BOJ chief calls for more focus on anchoring inflation around target - Reuters",
-     "published": "2026-10-06T07:38:15+00:00",
-     "summary": "BOJ chief calls for more focus on anchoring inflation around target Reuters"
-    },
-    {
-     "ref": "reuters_world#5",
      "title": "Britain likely to expel Israeli diplomats if Jerusalem consulate closes, sources say - Reuters",
-     "published": "2026-10-06T07:35:28+00:00",
+     "published": "2026-10-06T07:47:12+00:00",
      "summary": "Britain likely to expel Israeli diplomats if Jerusalem consulate closes, sources say Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#5",
      "title": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas - Reuters",
      "published": "2026-10-06T07:33:29+00:00",
      "summary": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#6",
      "title": "AMD plans to substantially increase supply in 2027, CEO says - Reuters",
      "published": "2026-10-06T07:21:43+00:00",
      "summary": "AMD plans to substantially increase supply in 2027, CEO says Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#7",
      "title": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight - Reuters",
      "published": "2026-10-06T07:16:09+00:00",
      "summary": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#8",
      "title": "Police detain Indian opposition leader Rahul Gandhi at poll chief protest, TV channels say - Reuters",
      "published": "2026-10-06T06:55:00+00:00",
      "summary": "Police detain Indian opposition leader Rahul Gandhi at poll chief protest, TV channels say Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#9",
      "title": "Romanian president nominates diplomat Luca Niculescu as prime minister - Reuters",
      "published": "2026-10-06T06:15:00+00:00",
      "summary": "Romanian president nominates diplomat Luca Niculescu as prime minister Reuters"
+    },
+    {
+     "ref": "reuters_world#10",
+     "title": "US televangelist Jim Bakker, ensnared in fraud and sex scandal, dead at 86 - Reuters",
+     "published": "2026-10-06T05:42:00+00:00",
+     "summary": "US televangelist Jim Bakker, ensnared in fraud and sex scandal, dead at 86 Reuters"
     },
     {
      "ref": "reuters_world#11",
