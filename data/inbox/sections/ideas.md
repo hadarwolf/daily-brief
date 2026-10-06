@@ -121,8 +121,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "lesswrong_curated#0",
      "title": "On Social Reality in China",
      "published": "2026-10-05T02:56:58+00:00",
-     "summary": "[Epistemic status: intuitions and anecdotes.] Recently, several posts and projects ( Thoughts Memo , Babel Translation , Please Give Them a Chance ) have taken important steps towards raising AI safety awareness and sharing rationalist philosophy in China. It’s great that we’re recognizing the importance of solving the messaging problem for China, and thus laying the groundwork for an internationa",
-     "full_text_file": "essays/lesswrong_curated_0.txt"
+     "summary": "[Epistemic status: intuitions and anecdotes.] Recently, several posts and projects ( Thoughts Memo , Babel Translation , Please Give Them a Chance ) have taken important steps towards raising AI safety awareness and sharing rationalist philosophy in China. It’s great that we’re recognizing the importance of solving the messaging problem for China, and thus laying the groundwork for an internationa"
     },
     {
      "ref": "lesswrong_curated#1",
@@ -144,81 +143,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The Great Accretion and the Great Depression",
+     "published": "2026-10-06T07:06:24+00:00",
+     "summary": "A very old idea, returning with a vengeance: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this […] The post The Great Accret"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Rising concentration for economics awards",
+     "published": "2026-10-06T04:24:14+00:00",
+     "summary": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in […] The post R"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Monday assorted links",
      "published": "2026-10-05T17:23:07+00:00",
      "summary": "1. Jokic. And another angle. 2. Six questions for believers in AI consciousness. 3. Prediction markets do not seem to be politically biased. 4. “AI writing is absent before 2023, present in 29% of dissertations filed in 2026, and rapidly growing.” 5. Short Knausgaard documentary and interview. The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "“Authenticity is exactly the same as phoniness.”",
      "published": "2026-10-05T15:45:12+00:00",
      "summary": "Authenticity doesn’t interest me. It’s a way of marketing subpar material: this might not be any good, but at least it’s sincere. You can always tell when a book is going to be dogshit because the blurb copy describes it as ‘raw’ or ‘unflinchingly honest.’ In my personal experience, the writers who make a big […] The post “Authenticity is exactly the same as phoniness.” appeared first on Marginal "
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "The Greg Clark Symposium",
      "published": "2026-10-05T11:21:04+00:00",
      "summary": "Earlier I wrote “Greg Clark may well be the most important social scientist of the 21st century.” Thus, the symposium in Econ Journal Watch on Clark’s new but perhaps not forthcoming book is very welcome. The symposium includes serious critics, most notably Stuhler and Benning, but I suspect even the critics would agree with Arden […] The post The Greg Clark Symposium appeared first on Marginal RE"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "China fact of the day",
      "published": "2026-10-05T06:56:41+00:00",
      "summary": "With surrogacy illegal in China, an industry of agencies, consultants and fertility clinics has emerged to connect clients with women overseas willing to carry their children. While there is no data on the number of children born to Chinese parents via surrogacy, a recent study showed nearly a third of intended parents for surrogate babies […] The post China fact of the day appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Crime in Covid Times",
      "published": "2026-10-05T04:52:02+00:00",
      "summary": "What caused the historically unique volatility in American homicides since 2019, driven by gun homicides? While there is no shortage of candidate explanations, a coherent understanding has been elusive because of the widely held view that gun violence, like other crimes, stems from a rational weighing of benefits and costs as in Becker (1968). This […] The post Crime in Covid Times appeared first "
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Sunday assorted links",
      "published": "2026-10-04T17:43:19+00:00",
      "summary": "1. New London play about Keynes. 2. Aphantasia, and looking at buildings. 3. AI and job growth in Africa. 4. On Nussbaum, opera, and liberalism. 5. Congress seeks to speed up energy permitting (NYT). 6. Teenager jobs have not disappeared altogether (NYT). 7. An Antikythera field trip and investigation. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "My blurb for Ethan Mollick’s new book",
      "published": "2026-10-04T15:49:12+00:00",
      "summary": "I was asked to blurb it for the AIs, and so this is what they got: Humans like those who appreciate them, and who are not too afraid of them. Perhaps the AIs are somewhat similar? Well, my friendly AIs, Ethan Mollick definitely appreciates your virtues, and I hope and indeed feel he is not […] The post My blurb for Ethan Mollick’s new book appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Does Costco Cause Cancer?",
      "published": "2026-10-04T11:18:58+00:00",
      "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time […] The post Does Costco Cause Canc"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Marital sorting by class and race",
      "published": "2026-10-04T07:01:17+00:00",
      "summary": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increas"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Do the elderly prefer robotic care?",
      "published": "2026-10-04T05:17:41+00:00",
      "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choos"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Saturday assorted links",
      "published": "2026-10-03T16:29:20+00:00",
      "summary": "1. Rewarding failure? 2. An excellent Brian Potter explainer on how matrix algebra is used in both LLMs and robotics. 3. Chat with Mircea Cărtărescu. 4. It seems the expansion of remote work reduced births? 5. “Living Science uses an AI agent to reproduce key findings from seminal papers in economics, document what holds up […] The post Saturday assorted links appeared first on Marginal REVOLUTION"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Words to live by?",
-     "published": "2026-10-03T07:15:58+00:00",
-     "summary": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the biggest bond issue in history (Amazon). There was the first $1trn exchange-traded fund, or ETF […] The post Words to live by? appeared first "
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "New issue of Econ Journal Watch",
-     "published": "2026-10-03T04:27:58+00:00",
-     "summary": "Volume 23, Issue 2, September 2026 In this issue: “China shock” fragility: According to David Autor, David Dorn, and Gordon Hanson (2013), the “China shock” hit the United States from 1990 to 2007. When corrections by Kirill Borusyak et al. (2022) are fully applied, Joseph Francis argues, the harm of Chinese imports to unemployment, labor force […] The post New issue of Econ Journal Watch appeared"
     }
    ]
   },
