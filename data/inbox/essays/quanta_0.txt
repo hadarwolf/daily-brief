@@ -2,7 +2,7 @@ Throughout the summer of 2026, there were plenty of signs of what was to come. E
 
 “In whatever years I have left, I don’t expect that I’ll ever again prove a theorem because I’m actually needed to prove it,” Scott Aaronson of the University of Texas, Austin wrote on his blog. “Human mathematicians are forevermore dethroned as the main theorem-proving entities on planet earth.” Other online missives expressed optimism, but many revealed some combination of grief, confusion, and fear.
 
-Two days after the announcement, I found myself in a classroom at the University of California, Berkeley, surrounded by some 150 students, postdocs, and professors. The mathematician Ken Ono, who left academia for an AI start-up called Axiom Math, was scheduled to give a talk. “You might be graduating into a profession that might not even exist, or that will be very different than what you expected,” Ono told them. “You need to brace.”
+Two days after the announcement, I found myself in a classroom at the University of California, Berkeley, surrounded by some 150 students, postdocs, and professors. The mathematician Ken Ono, who took a leave of absence from the University of Virginia to work at an AI start-up called Axiom Math, was scheduled to give a talk. “You might be graduating into a profession that might not even exist, or that will be very different than what you expected,” Ono told them. “You need to brace.”
 
 The audience responded with anger and frustration. There were whispers and exchanged glances; Ono couldn’t make it through a single slide without a fresh wave of questions. “I’m not entirely sure what our takeaway is supposed to be,” one student said. Another asked how Ono and his start-up would take responsibility in light of “the shameful way that AI companies are treating mathematics.”
 
@@ -91,6 +91,8 @@ It will be hard. Inertia is powerful. But mathematics could come out of this str
 If we can’t adapt, he added, “whose fault is that?”
 
 Editor’s note: Scott Aaronson is a member of Quanta Magazine’s advisory board.
+
+Correction: October 6, 2026 The original version of this article stated that Ken Ono left academia for a start-up, rather than taking a leave of absence.
 
 Get highlights of the most important news delivered to your email inbox
 

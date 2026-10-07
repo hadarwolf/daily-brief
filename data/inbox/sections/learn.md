@@ -24,142 +24,169 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2008,
-   "text": "The MESSENGER probe discovered Mercury's Rembrandt (pictured) – the second largest impact crater on the planet.",
+   "year": 2023,
+   "text": "Palestinian nationalist groups launched armed incursions into the Gaza envelope, starting the Gaza war.",
    "context": [
-    "MESSENGER was a NASA robotic space probe that orbited the planet Mercury between 2011 and 2015, studying Mercury's chemical composition, geology, and magnetic field. The name is an acronym for Mercury Surface, Space Environment, Geochemistry, and Ranging, and a reference to the messenger god Mercury from Roman mythology."
+    "Palestinian nationalism is the national movement of the Palestinian people that espouses self-determination and sovereignty over the region of Palestine. Originally formed in the early 20th century in opposition to Zionism, Palestinian nationalism later internationalized and attached itself to other ideologies; it has thus rejected the occupation of the Palestinian territories by the government of Israel since the 1967 Six-Day War. Palestinian nationalists often draw upon broader political traditions in their ideology, such as Arab socialism and ethnic nationalism in the context of Muslim religious nationalism. Related beliefs have shaped the government of Palestine and continue to do so."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2002,
-   "text": "Al-Qaeda bombed the oil tanker Limburg, causing oil to leak into the Gulf of Aden.",
+   "year": 2023,
+   "text": "The military wing of the Palestinian nationalist Islamist political organization Hamas massacred people attending an open-air music festival in southern Israel.",
    "context": [
-    "Al-Qaeda is a pan-Islamist militant organization led by Sunni Islamist jihadists who self-identify as a vanguard spearheading a global Islamist revolution to unite the Muslim world under a supra-national Islamic caliphate. Its membership is primarily composed of Arabs, with additional representation from other ethnic groups. Al-Qaeda has mounted attacks on civilian and military targets of the U.S. and its allies; such as the 1998 U.S. embassy bombings, the USS Cole bombing, and the September 11 attacks. It has been designated a terrorist organization by the United Nations and over two dozen countries around the world."
+    "Al-Qassam Brigades, also known as the Izz al-Din al-Qassam Brigades, are the military wing of the Sunni Islamist Palestinian nationalist organization, Hamas. Led by Mohammed Deif until his death on 13 July 2024, Al-Qassam Brigades are the largest and best-equipped militant organization operating within the Gaza Strip in recent years."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2000,
-   "text": "Denouncing corruption in Argentine president Fernando de la Rúa's administration and the Senate, Vice President Carlos Álvarez resigned.",
+   "year": 2008,
+   "text": "2008 TC3 exploded above the Nubian Desert in Sudan, in the first time that an asteroid impact had been predicted prior to atmospheric entry.",
    "context": [
-    "Fernando de la Rúa was an Argentine politician who served as the president of Argentina from 1999 until his resignation in 2001. A member of the Radical Civic Union, he previously served as national senator for Buenos Aires across non-consecutive terms from 1973 to 1996, national deputy for Buenos Aires from 1991 to 1992, the first Chief of Government of Buenos Aires between 1996 and 1999, and president of the National Committee of the Radical Civic Union from 1997 to 1999."
+    "2008 TC3 was an 80-tonne (80-long-ton; 90-short-ton), 4.1-meter (13 ft) diameter asteroid that entered Earth's atmosphere on October 7, 2008. It exploded at an estimated 37 kilometers (23 mi) above the Nubian Desert in Sudan. Some 600 meteorites, weighing a total of 10.5 kilograms (23.1 lb), were recovered; \n \nmany of these belonged to a rare type known as ureilites, which contain, among other minerals, nanodiamonds."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1998,
-   "text": "Matthew Shepard, a gay college student, was attacked and fatally wounded near Laramie, Wyoming, U.S., dying six days later.",
+   "year": 2006,
+   "text": "Anna Politkovskaya (pictured), a Russian journalist and human-rights activist, was assassinated in the elevator of her apartment block in Moscow.",
    "context": [
-    "Matthew Wayne Shepard was an American student at the University of Wyoming who was beaten, tortured, and left to die near Laramie on October 6, 1998. He was transported by rescuers to Poudre Valley Hospital in Fort Collins, Colorado, where he died six days later from severe head injuries sustained during the attack."
+    "Anna Stepanovna Politkovskaya was a Russian investigative journalist who reported on political and social events in Russia, in particular, the Second Chechen War (1999–2005). She was found murdered in the elevator of her apartment block in Moscow on 7 October 2006."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1995,
-   "text": "Astronomers Michel Mayor and Didier Queloz reported the discovery of a planet orbiting 51 Pegasi as the first known exoplanet around a main-sequence star.",
+   "year": 1991,
+   "text": "Croatian War of Independence: The Yugoslav People's Army conducted an air strike on Banski Dvori, the official residence of the president of Croatia in Zagreb.",
    "context": [
-    "Michel Gustave Édouard Mayor is a Swiss astrophysicist and professor emeritus at the University of Geneva's Department of Astronomy. He formally retired in 2007, but remains active as a researcher at the Observatory of Geneva. He is co-laureate of the 2019 Nobel Prize in Physics along with Jim Peebles and Didier Queloz, and the winner of the 2010 Viktor Ambartsumian International Prize and the 2015 Kyoto Prize."
+    "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1989,
-   "text": "About 200 members of the San Francisco Police Department instigated a police riot in the Castro following a peaceful protest held by the political group ACT UP.",
+   "year": 1988,
+   "text": "Near Point Barrow in Alaska, an Iñupiat hunter discovered three gray whales trapped in pack ice, which resulted in an international effort to free them.",
    "context": [
-    "The Castro Sweep was a police riot that occurred in the Castro District of San Francisco on the evening of October 6, 1989. The riot, by about 200 members of the San Francisco Police Department (SFPD), followed a protest held by ACT UP, a militant direct action group responding to the concerns of people with AIDS."
+    "Point Barrow or Nuvuk is a headland on the Arctic coast in the U.S. state of Alaska, 9 miles (14 km) northeast of Utqiagvik. It is the northernmost point of all the territory of the United States, at 71°23′20″N 156°28′45″W, 1,122 nautical miles south of the North Pole."
    ]
   },
   {
    "ref": "wikipedia#6",
    "year": 1985,
-   "text": "Police constable Keith Blakelock was killed during rioting in the Broadwater Farm housing estate in Tottenham, London.",
+   "text": "During severe floods in Puerto Rico, about 130 people died as a result of the deadliest single landslide on record in North America.",
    "context": [
-    "Keith Henry Blakelock QGM was a British police officer who served as a London Metropolitan Police constable. He was murdered on 6 October 1985 during the Broadwater Farm riot in Tottenham. The riot broke out after Cynthia Jarrett died of heart failure during a police search of her home, and took place against a backdrop of unrest in several English cities and a breakdown of relations between the police and some people in the black community."
+    "The 1985 Puerto Rico floods produced showers and thunderstorms across the island and the deadliest single landslide on record in North America, that killed at least 130 people in the Mameyes neighborhood of barrio Portugués Urbano in Ponce. The floods were the result of a westward-moving tropical wave that emerged off the coast of Africa on September 29. The system moved into the Caribbean Sea on October 5 and produced heavy rains across Puerto Rico, peaking at 31.67 in (804 mm) in Toro Negro State Forest. Two stations broke their 24-hour rainfall records set in 1899. The rains caused severe flooding in the southern half of Puerto Rico, which isolated towns, washed out roads, and caused rivers to exceed their banks. In addition to the deadly landslide in Mameyes, the floods washed out a bridge in Santa Isabel that killed several people. The storm system caused about $125 million in damage and 180 deaths, which prompted a presidential disaster declaration. The tropical wave later spawned Tropical Storm Isabel."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1981,
-   "text": "Egyptian president Anwar Sadat (pictured) was assassinated while attending a parade in Cairo to mark the eighth anniversary of the Crossing of the Bar Lev Line at the start of the 1973 Arab-Israeli War.",
+   "year": 1944,
+   "text": "The Holocaust: Sonderkommando work-unit members in Auschwitz concentration camp revolted upon learning that they were due to be killed; although a few managed to escape, most were massacred on the same day.",
    "context": [
-    "Muhammad Anwar es-Sadat was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970."
+    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1976,
-   "text": "Two bombs placed by the CIA-linked Cuban dissident group Coordination of United Revolutionary Organizations exploded on Cubana Flight 455, killing all 73 people aboard.",
+   "year": 1916,
+   "text": "Georgia Tech defeated Cumberland University 222–0 in the most lopsided college football game in American history.",
    "context": [
-    "The Coordination of United Revolutionary Organizations was a militant group responsible for a number of terrorist activities directed at the Cuban government following the Cuban Revolution. It was founded by a group that included Orlando Bosch and Luis Posada Carriles, both of whom worked with the CIA at various times, and was composed chiefly of Cuban exiles opposed to the Castro government. It was formed in 1976 as an umbrella group for a number of anti-Castro militant groups. Its activities included a number of bombings and assassinations, including the killing of human-rights activist Orlando Letelier in Washington, D.C. in collaboration with Chilean secret police DINA, and the bombing of Cubana Flight 455 which killed 73 people."
+    "The Georgia Tech Yellow Jackets football program represents the Georgia Institute of Technology in American football. The team competes in the Atlantic Coast Conference (ACC) of the Football Bowl Subdivision (FBS) level of the NCAA. Georgia Tech has fielded a team since 1892 and holds an all-time record of 773–550–43. The Yellow Jackets play at the historic Bobby Dodd Stadium at Hyundai Field in Atlanta, Georgia. The Yellow Jackets claim four national championships across four decades. The program has also won 16 conference titles."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1973,
-   "text": "The Egyptian Armed Forces crossed the Suez Canal (pictured) to attack occupying Israeli forces at the Bar Lev Line in the Sinai Peninsula, beginning the Yom Kippur War.",
+   "year": 1914,
+   "text": "Japan captured Pohnpei from Germany, eventually leading to large-scale Japanese immigration to Micronesia.",
    "context": [
-    "The Egyptian Armed Forces are the military forces of the Arab Republic of Egypt. The Chief of Staff of the Armed Forces directs (a) Egyptian Army forces, (b) the Egyptian Navy, (c) Egyptian Air Force and (d) Egyptian Air Defense Forces. The Chief of Staff directly supervises army field forces, without any separate Egyptian Army headquarters."
+    "Pohnpei is an island of the Senyavin Islands which are part of the larger Caroline Islands group. It belongs to Pohnpei State, one of the four states in the Federated States of Micronesia (FSM). Major population centers on Pohnpei include Palikir, the FSM's capital, and Kolonia, the capital of Pohnpei State. Pohnpei is the largest island in the FSM, with an area of 334 km2 (129 sq mi), and a highest point of 782 m (2,566 ft), the most populous with 36,832 people, and the most developed single island in the FSM."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1973,
-   "text": "The Egyptian Armed Forces crossed the Suez Canal (pictured) to attack occupying Israel Defense Forces at the Bar Lev Line in the Sinai Peninsula, beginning the Yom Kippur War.",
+   "year": 1914,
+   "text": "In a death that Rudolf Steiner terms a voluntary sacrifice and that inspires Edith Maryon's relief In Memory of Theo Faiss (pictured), seven-year-old Theo Faiss was crushed by an overturned horse wagon.",
    "context": [
-    "The Egyptian Armed Forces are the military forces of the Arab Republic of Egypt. The Chief of Staff of the Armed Forces directs (a) Egyptian Army forces, (b) the Egyptian Navy, (c) Egyptian Air Force and (d) Egyptian Air Defense Forces. The Chief of Staff directly supervises army field forces, without any separate Egyptian Army headquarters."
+    "Rudolf Joseph Lorenz Steiner was an Austrian New Age guru, philosopher, occultist, social reformer, architect, esotericist, and claimed clairvoyant and speaker with the dead. Steiner gained initial recognition at the end of the nineteenth century as a literary critic and published works including The Philosophy of Freedom. At the beginning of the twentieth century he founded an esoteric spiritual movement, anthroposophy, with roots in German idealist philosophy and theosophy. His teachings are influenced by (Christian) Gnosticism or neognosticism. Many of his ideas are pseudoscientific. He was also prone to pseudohistory."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1934,
-   "text": "Catalonia's autonomous government, led by Lluís Companys (pictured), declared a general strike, an armed insurgency, and the establishment of the Catalan State in reaction to the inclusion of conservatives in the Spanish republican regime.",
+   "year": 1878,
+   "text": "The state funeral of Mindon Min (pictured), who ruled Myanmar for 25 years, took place; his death was reportedly preceded by strange omens, and his senior princes were unable to attend as they had all been arrested.",
    "context": [
-    "Catalonia is an autonomous community of Spain, designated as a nationality by its Statute of Autonomy. Its territory is situated on the northeast of the Iberian Peninsula, to the south of the Pyrenees mountain range. Catalonia is administratively divided into four provinces or eight vegueries (regions), which are in turn divided into 43 comarques. The capital and largest city, Barcelona, is the second-most populous municipality in Spain and the fifth-most populous urban area in the European Union."
+    "Mindon Min, the tenth king of the Konbaung Kingdom, died in Mandalay Palace at the age of 64 on the afternoon of 1 October 1878. A mourning period of seven days preceded his funeral, which took place on 7 October. His son Thibaw was proclaimed the new monarch by the Hluttaw."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1927,
-   "text": "The Jazz Singer, one of the first feature-length motion pictures with a synchronized recorded music score, was released.",
+   "year": 1868,
+   "text": "Ōdate, the last castle of the Satake clan in Japan's Tōhoku region, was captured during the Boshin War.",
    "context": [
-    "The Jazz Singer is a 1927 American part-talkie musical drama film directed by Alan Crosland and produced by Warner Bros. Pictures. It is the first feature-length motion picture with both synchronized recorded music and lip-synchronous singing and speech. Its release heralded the commercial ascendance of sound films and effectively marked the end of the silent film era with the Vitaphone sound-on-disc system, featuring six songs performed by Al Jolson. Based on the 1925 play of the same title by Samson Raphaelson, the plot was adapted from his short story \"The Day of Atonement\"."
+    "The Satake clan  was a Japanese samurai clan that claimed descent from the Minamoto clan. Its first power base was in Hitachi Province. The clan was subdued by Minamoto no Yoritomo in the late 12th century, but later entered Yoritomo's service as vassals. In the Muromachi period, the Satake served as Governor (shugo) of Hitachi Province, under the aegis of the Ashikaga shogunate. The clan sided with the Western Army during the Battle of Sekigahara, and was punished by Tokugawa Ieyasu, who moved it to a smaller territory in northern Dewa Province at the start of the Edo period. The Satake survived as lords (daimyō) of the Kubota Domain. Over the course of the Edo period, two major branches of the Satake clan were established, one ruled the fief of Iwasaki, the other one the fief of Kubota-Shinden."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1908,
-   "text": "Austria-Hungary announced the annexation of Bosnia and Herzegovina, causing a crisis that permanently damaged the country's relations with the Russian Empire and the Kingdom of Serbia.",
+   "year": 1849,
+   "text": "American writer Edgar Allan Poe  died under mysterious circumstances at Washington Medical College four days after being found on the streets of Baltimore, Maryland, in a delirious and incoherent state.",
    "context": [
-    "Austria-Hungary, also referred to as the Austro-Hungarian Empire and officially as the Austro-Hungarian Monarchy, was a multi-national empire in Central Europe under a constitutional dual monarchy that existed between 1867 and 1918. A military and diplomatic real union, it consisted of two largely self governing states with a single monarch who was titled both the Emperor of Austria and the Apostolic King of Hungary. Austria-Hungary constituted the last phase in the constitutional evolution of the Habsburg monarchy: it was formed with the Austro-Hungarian Compromise of 1867 in the aftermath of the Austro-Prussian War, following wars of independence by Hungary in opposition to Habsburg rule. It was dissolved shortly after Hungary terminated the union with Austria in 1918 at the end of World War I."
+    "Edgar Allan Poe was an American writer, poet, editor, and literary critic who is best known for his poetry and short stories, particularly his tales involving mystery and the macabre. He is widely regarded as one of the central figures of Romanticism and Gothic fiction in the United States and of early American literature."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1777,
-   "text": "American Revolutionary War: Fort Clinton and Fort Montgomery were captured by British forces under Sir Henry Clinton, dismantling the Hudson River Chains.",
+   "year": 1840,
+   "text": "William II became King of the Netherlands after his father William I abdicated the throne.",
+   "context": [
+    "William II was King of the Netherlands, Grand Duke of Luxembourg, and Duke of Limburg from 1840 until his death."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1800,
+   "text": "The French privateer Robert Surcouf led a 150-man crew to capture the 40-gun, 437-man East Indiaman Kent.",
+   "context": [
+    "A privateer is a private person or vessel which engages in commerce raiding under a commission of war. Since piracy was a common aspect of seaborne trade, until the early 19th century all merchant ships carried arms. A sovereign or delegated authority issued commissions, also referred to as letters of marque, during wartime. The commission empowered the holder to carry on all forms of hostility permissible at sea by the usages of war. This included attacking foreign vessels and taking them as prizes and taking crews prisoner for exchange. Captured ships were subject to condemnation and sale under prize law, with the proceeds divided by percentage between the privateer's sponsors, shipowners, captains and crew. A percentage share usually went to the issuer of the commission. Most colonial powers, as well as other countries, engaged in privateering."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1780,
+   "text": "American Revolutionary War: Patriots and Loyalist militias engaged each other at the Battle of Kings Mountain in South Carolina.",
    "context": [
     "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British monarchy acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   },
   {
-   "ref": "wikipedia#15",
-   "year": 1762,
-   "text": "Seven Years' War: The Battle of Manila concluded with a British victory over Spain, leading to a twenty-month occupation.",
+   "ref": "wikipedia#17",
+   "year": 1763,
+   "text": "King George III issued a royal proclamation that forbade British settlement of much of newly acquired French territory in North America, reserving the land for indigenous peoples.",
    "context": [
-    "The Seven Years' War, 1756 to 1763, was a global war fought by numerous great powers, primarily in Europe, with significant subsidiary campaigns in North America and the Indian subcontinent. The primary warring states were Great Britain and Prussia fighting against France and Austria, with other countries joining these coalitions: Portugal, Spain, Sweden, and Russia, plus Saxony and many other minor states of the Holy Roman Empire. Related conflicts include the Third Silesian War, French and Indian War, Third Carnatic War, Anglo-Spanish War (1762–1763), and Spanish–Portuguese War."
+    "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. During his reign, the Acts of Union 1800 merged Great Britain and Ireland into the United Kingdom. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover."
    ]
   },
   {
-   "ref": "wikipedia#16",
-   "year": 618,
-   "text": "Transition from Sui to Tang: Wang Shichong's army defeated Li Mi's forces at the Battle of Yanshi, allowing Wang to consolidate power and soon depose China's Sui dynasty.",
+   "ref": "wikipedia#18",
+   "year": 1571,
+   "text": "Ottoman–Habsburg wars: The Battle of Lepanto was fought near the Gulf of Corinth, a significant setback for the Ottoman Empire and the last major naval battle fought entirely with galleys.",
    "context": [
-    "The transition from Sui to Tang (613–628), or simply the Sui-Tang transition, was the period of Chinese history between the end of the Sui dynasty and the start of the Tang dynasty. The Sui dynasty's territories were carved into a handful of short-lived states by its officials, generals, and agrarian rebel leaders. A process of elimination and annexation followed that ultimately culminated in the consolidation of the Tang dynasty by the former Sui general Li Yuan. Near the end of the Sui, Li Yuan installed the puppet child emperor Yang You. Li later executed Yang and proclaimed himself Emperor Gaozu of the new Tang dynasty."
+    "The Ottoman–Habsburg wars were fought from the 16th to the 18th centuries between the Ottoman Empire and the Habsburg monarchy, which was at times supported by the Kingdom of Hungary, Polish–Lithuanian Commonwealth, the Holy Roman Empire, and Habsburg Spain. The wars were dominated by land campaigns in Hungary, including Transylvania and Vojvodina, Croatia, and central Serbia."
+   ]
+  },
+  {
+   "ref": "wikipedia#19",
+   "year": 1513,
+   "text": "War of the League of Cambrai: A Venetian army under Bartolomeo d'Alviano was decisively defeated by the Spanish army commanded by Ramón de Cardona and Fernando d'Ávalos.",
+   "context": [
+    "The War of the League of Cambrai, also known by its second stage as the War of the Holy League, was fought from December 1508 to December 1516, as part of the wider Italian Wars of 1494–1559. The main participants of the war, who fought for its entire duration, were France, the Holy Roman Empire, the Papal States, and the Republic of Venice; they were joined at various times by nearly every significant power in Western Europe, including Spain, England, the Duchy of Milan, the Republic of Florence, the Duchy of Ferrara, and the Swiss."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Vesting cliff (תקופת הבשלה מינימלית)",
+  "Top line vs. bottom line (שורת ההכנסות מול שורת הרווח)",
+  "Bet the farm (להמר על הכל)",
   "Churn rate (שיעור נטישה)",
   "Race to the bottom (מירוץ לתחתית)",
   "Cook the books (לזייף דוחות כספיים)",
