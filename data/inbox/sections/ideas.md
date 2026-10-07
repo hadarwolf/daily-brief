@@ -28,88 +28,89 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
-     "title": "How to assemble science",
-     "published": "2026-10-06T10:00:00+00:00",
-     "summary": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all - by Helen Pearson Read on Aeon",
+     "title": "I won’t remain alone",
+     "published": "2026-10-07T10:01:00+00:00",
+     "summary": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others? - by Aeon Video Watch on Aeon",
      "full_text_file": "essays/aeon_0.txt"
     },
     {
      "ref": "aeon#1",
+     "title": "How to assemble science",
+     "published": "2026-10-06T10:00:00+00:00",
+     "summary": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all - by Helen Pearson Read on Aeon",
+     "full_text_file": "essays/aeon_1.txt"
+    },
+    {
+     "ref": "aeon#2",
      "title": "All-around junior male",
      "published": "2026-10-05T10:01:00+00:00",
      "summary": "A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#3",
      "title": "A life in episodes",
      "published": "2026-10-05T10:00:00+00:00",
      "summary": "For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past - by Thomas Söderqvist Read on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#4",
      "title": "Life on a hair trigger",
      "published": "2026-10-02T10:00:00+00:00",
      "summary": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#5",
      "title": "Green tree ants are famous in the tropics",
      "published": "2026-10-01T10:01:00+00:00",
      "summary": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#6",
      "title": "Reason is more than a tool",
      "published": "2026-10-01T10:00:00+00:00",
      "summary": "If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more - by Sasha Mudd Read on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#7",
      "title": "Passportless mess",
      "published": "2026-09-30T10:01:00+00:00",
      "summary": "A fool, a genius, or ‘a man who destroys everything’? Piecing together Zoran, a mythic figure of Belgrade - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#8",
      "title": "Don’t use the ‘C-word’",
      "published": "2026-09-29T10:00:00+00:00",
      "summary": "A cancer diagnosis carries with it fear and upheaval. For many patients the cellular changes do not warrant the label - by Matthew R Cooperberg Read on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#9",
      "title": "Affect theory",
      "published": "2026-09-28T10:01:00+00:00",
      "summary": "In the mid-1990s, thinkers pushed back against the idea we’re built by language, turning to feeling and the body instead - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#10",
      "title": "Paternity is poetical",
      "published": "2026-09-28T10:00:00+00:00",
      "summary": "The notion that fatherhood and creativity are at odds is plain wrong, as both poetry and neuroscience are showing us - by Daniel Swift Read on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#11",
      "title": "Reasoning together",
      "published": "2026-09-25T10:00:00+00:00",
      "summary": "Jürgen Habermas, the great defender of deliberative democracy, lived up to its demands: he never feared changing his mind - by Emilie Prattico Read on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#12",
      "title": "Britain’s last great airship",
      "published": "2026-09-24T10:01:00+00:00",
      "summary": "The remarkable engineering and tragic demise of the vessel that would end Britain’s dream to dominate the skies - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#12",
+     "ref": "aeon#13",
      "title": "Where a land ethic blooms",
      "published": "2026-09-24T10:00:00+00:00",
      "summary": "Caring for this planet entails decisions that are intimate, about our farms, our homes, our human and our wild neighbours - by Craig Maier Read on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "How the West was fun",
-     "published": "2026-09-23T10:01:00+00:00",
-     "summary": "Be it movie mythos or nostalgia for a ‘simpler’ time, there’s an undeniable allure in stepping into the American West - by Aeon Video Watch on Aeon"
     }
    ]
   },
@@ -318,12 +319,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "The evil eye is irrational. Abandon it at your peril",
      "published": "2026-09-24T10:00:00+00:00",
      "summary": "So many of the world’s superstitions have been supplanted by rational thinking. Why does one of the oldest beliefs persist? - by Timna Abramov Read on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "How to find calm and joy as a queer person",
-     "published": "2026-09-23T10:00:00+00:00",
-     "summary": "A queer psychologist shares skills from dialectical behaviour therapy to help you care for yourself in a stigmatising world - by Kiki Fehling Read on Psyche"
     }
    ]
   },
@@ -335,8 +330,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#0",
      "title": "Is AI the End of Math As We Know It?",
      "published": "2026-10-05T13:40:07+00:00",
-     "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_0.txt"
+     "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#1",
