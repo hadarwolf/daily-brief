@@ -1,0 +1,136 @@
+{
+  "section": "learn",
+  "date": "2026-10-07",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-07T04:18:01+00:00",
+  "stories": [
+    {
+      "id": "word-vertical-integration",
+      "kind": "word",
+      "en": {
+        "headline": "Vertical integration (אינטגרציה אנכית)",
+        "scroll": "Vertical integration is when a company owns multiple stages of its own supply chain instead of outsourcing them to separate suppliers.",
+        "coffee": "Vertical integration means a company controls more than one link in its value chain, from raw materials or components all the way to selling the finished product. Moving backward into supplying your own inputs is called backward integration; moving forward into distribution or retail is called forward integration. Companies do this to cut costs, secure supply, or capture margin that would otherwise go to a middleman — though it also means carrying more capital and more risk if demand shifts.\n\nExample: 'Apple's decision to design its own chips instead of buying them from Qualcomm is a classic case of vertical integration.'",
+        "deep": "Vertical integration is one of the oldest strategic choices in business: do you buy a stage of production from someone else, or own it yourself?\n\nA carmaker that also owns a battery factory, or a streaming service that also produces its own shows, is integrating vertically. The opposite — focusing on one stage and buying everything else on the market — is sometimes called a 'fabless' or asset-light model; many chip designers (fabless semiconductor firms) outsource manufacturing to foundries like TSMC rather than build their own fabs.\n\nThe common confusion is mixing this up with horizontal integration, which means buying a competitor at the same stage (e.g., one airline buying another). Vertical integration moves up or down the supply chain, not sideways across it.\n\nMore examples: 'Tesla's in-house battery production is vertical integration, while its purchase of a smaller EV startup would be horizontal.' 'Netflix moved from licensing shows to producing its own content, deepening its vertical integration.'\n\nIn Hebrew: אינטגרציה אנכית."
+      },
+      "he": {
+        "headline": "אינטגרציה אנכית (Vertical integration)",
+        "scroll": "אינטגרציה אנכית (vertical integration) היא מצב שבו חברה מחזיקה בכמה שלבים בשרשרת האספקה שלה, במקום להסתמך על ספקים נפרדים.",
+        "coffee": "אינטגרציה אנכית (vertical integration) פירושה שחברה שולטת ביותר משלב אחד בשרשרת הערך שלה - מחומרי גלם או רכיבים ועד למכירת המוצר המוגמר. תנועה לכיוון הספקים נקראת אינטגרציה לאחור (backward integration), ותנועה לכיוון ההפצה או הקמעונאות נקראת אינטגרציה קדימה (forward integration). חברות עושות את זה כדי לחסוך בעלויות, להבטיח אספקה, או לתפוס רווח שאחרת היה הולך למתווך - אבל זה גם אומר לשאת יותר הון ויותר סיכון אם הביקוש משתנה.\n\nלדוגמה: 'ההחלטה של אפל לתכנן בעצמה את השבבים שלה במקום לקנות אותם מקוואלקום היא מקרה קלאסי של אינטגרציה אנכית.'",
+        "deep": "אינטגרציה אנכית היא אחת ההחלטות האסטרטגיות העתיקות ביותר בעולם העסקים: לקנות שלב בתהליך הייצור מגורם חוץ, או להחזיק בו בעצמך.\n\nחברת רכב שמחזיקה גם במפעל סוללות, או שירות סטרימינג שמפיק גם את התוכן שלו, מבצעים אינטגרציה אנכית. ההפך - התמקדות בשלב אחד וקנייה של כל השאר בשוק החופשי - נקרא לעיתים מודל 'חסר-מפעל' (fabless) או קל-נכסים; הרבה חברות עיצוב שבבים (fabless semiconductor firms) מעבירות את הייצור למפעלי ייצור (foundries) כמו TSMC במקום לבנות מפעלים משלהן.\n\nהבלבול הנפוץ הוא ערבוב עם אינטגרציה אופקית (horizontal integration), שהיא קנייה של מתחרה באותו שלב בשרשרת (למשל חברת תעופה שקונה חברת תעופה אחרת). אינטגרציה אנכית זזה למעלה או למטה בשרשרת האספקה, לא לרוחב.\n\nעוד דוגמאות: 'ייצור הסוללות הפנימי של טסלה הוא אינטגרציה אנכית, בעוד שרכישת סטארטאפ רכב חשמלי קטן תהיה אינטגרציה אופקית.' 'נטפליקס עברה מרישוי תוכן להפקה עצמית, והעמיקה כך את האינטגרציה האנכית שלה.'\n\nבאנגלית: Vertical integration."
+      },
+      "tags": [
+        "vocabulary",
+        "business",
+        "strategy",
+        "supply-chain"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-first-mover-advantage",
+      "kind": "word",
+      "en": {
+        "headline": "First-mover advantage (יתרון הראשונים)",
+        "scroll": "First-mover advantage is the edge a company gets from entering a market before competitors do — brand recognition, locked-in customers, or control of scarce resources.",
+        "coffee": "Being first into a new market can let a company set the standard everyone else has to follow, grab the best distribution deals or scarce suppliers, and build a brand that becomes synonymous with the category before anyone else shows up. It isn't automatic, though — plenty of pioneers get overtaken by a 'fast follower' who learns from the first mover's mistakes and executes better with lower costs.\n\nExample: 'Amazon's first-mover advantage in cloud computing let AWS set pricing and standards years before Google and Microsoft caught up.'",
+        "deep": "First-mover advantage explains why so many startups race to launch before they're fully ready: being early can matter more than being polished.\n\nThe classic benefits are network effects (the more users you have, the more valuable the product becomes, which locks in your lead), switching costs (customers who've already set up their workflow around your product are reluctant to move), and access to scarce resources, like the best suppliers, real estate or regulatory licenses, before competitors show up.\n\nThe common confusion is assuming first-mover advantage is guaranteed. It isn't: Myspace moved first in social networking and lost to Facebook; Friendster was even earlier and collapsed. A well-funded 'fast follower' that watches the pioneer's mistakes and executes with better technology or lower prices often wins instead.\n\nMore examples: 'Uber's first-mover advantage in ride-hailing forced Lyft to compete on price for years.' 'Being first doesn't always mean being best — ask any first-mover that got overtaken.'\n\nIn Hebrew: יתרון הראשונים."
+      },
+      "he": {
+        "headline": "יתרון הראשונים (First-mover advantage)",
+        "scroll": "יתרון הראשונים (first-mover advantage) הוא היתרון שחברה מקבלת מכך שהיא נכנסת לשוק חדש לפני המתחרים - הכרת מותג, לקוחות נעולים, או שליטה במשאבים מוגבלים.",
+        "coffee": "להיות הראשון בשוק חדש יכול לאפשר לחברה לקבוע את הסטנדרט שכל השאר נאלצים ללכת לפיו, לתפוס את הסכמי ההפצה הטובים ביותר או הספקים המוגבלים, ולבנות מותג שהופך לשם נרדף לקטגוריה כולה לפני שמישהו אחר מגיע. אבל זה לא מובטח - הרבה חלוצים מפסידים ל'עוקב מהיר' (fast follower) שלומד מהטעויות של הראשון ומבצע טוב יותר ובעלות נמוכה יותר.\n\nלדוגמה: 'יתרון הראשונים של אמזון בתחום מחשוב העננים אפשר ל-AWS לקבוע תמחור וסטנדרטים שנים לפני שגוגל ומיקרוסופט השיגו אותה.'",
+        "deep": "יתרון הראשונים (first-mover advantage) מסביר למה כל כך הרבה סטארטאפים מתחרים להשיק מוצר לפני שהם מוכנים באמת לחלוטין - להיות מוקדם יכול להיות חשוב יותר מלהיות מלוטש.\n\nהיתרונות הקלאסיים הם אפקטי רשת (network effects) - ככל שיש יותר משתמשים, המוצר הופך לבעל ערך רב יותר, מה שמנעל (lock in) את היתרון; עלויות מעבר (switching costs) - לקוחות שכבר התרגלו לתהליך העבודה שלהם סביב המוצר לא ממהרים לעבור; וגישה למשאבים מוגבלים, כמו הספקים הטובים ביותר, נדל״ן או רישיונות רגולטוריים, לפני שהמתחרים מגיעים.\n\nהבלבול הנפוץ הוא ההנחה שיתרון הראשונים מובטח. הוא לא: מייספייס (Myspace) נכנסה ראשונה לרשתות חברתיות והפסידה לפייסבוק; פרנדסטר (Friendster) הייתה מוקדמת אפילו יותר וקרסה. 'עוקב מהיר' (fast follower) ממומן היטב שלומד מהטעויות של החלוץ ומבצע עם טכנולוגיה טובה יותר או מחירים נמוכים יותר, מנצח לא פעם במקום.\n\nעוד דוגמאות: 'יתרון הראשונים של אובר בתחום הסעות שיתופיות הכריח את ליפט להתחרות על מחיר שנים רבות.' 'להיות ראשון לא תמיד אומר להיות הטוב ביותר - פשוט תשאלו כל חלוץ שהודח.'\n\nבאנגלית: First-mover advantage."
+      },
+      "tags": [
+        "vocabulary",
+        "business",
+        "strategy",
+        "startups"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-moving-the-goalposts",
+      "kind": "word",
+      "en": {
+        "headline": "Moving the goalposts (להזיז את השער)",
+        "scroll": "To move the goalposts is to unfairly change the criteria for success after the fact, usually once someone is close to meeting the original ones.",
+        "coffee": "This idiom comes from sports: imagine a team about to score, and someone picks up the goalposts and moves them further away. In business and negotiations, it describes changing the rules, targets or definition of success in the middle of a process — often to avoid admitting someone met the bar, or to keep someone working toward an ever-receding target. It's usually used critically, to call out unfairness.\n\nExample: 'First they said we needed 10,000 users to get the next funding tranche; once we hit it, the investors moved the goalposts and asked for revenue too.'",
+        "deep": "'Moving the goalposts' is one of the more common idioms in negotiations, workplace politics and public debate, because the behavior it describes is so common: someone redefines what counts as success only after the original target becomes reachable or has already been met.\n\nIt's most often used as an accusation. A manager who keeps adding new requirements before a promotion is 'moving the goalposts.' A regulator who changes compliance standards right as a company finally meets the old ones is doing the same. It implies bad faith, or at least a lack of fairness — the target was never really fixed to begin with.\n\nA common confusion is mixing it up with simply raising the bar, which just means setting a higher standard upfront, transparently, before anyone starts working toward it. Moving the goalposts specifically means changing the target after the fact, often without warning.\n\nMore examples: 'The committee kept moving the goalposts on what counted as a passing grade.' 'Critics accused the agency of moving the goalposts every time the company complied with the previous rule.'\n\nIn Hebrew: להזיז את השער."
+      },
+      "he": {
+        "headline": "להזיז את השער (Moving the goalposts)",
+        "scroll": "להזיז את השער (moving the goalposts) זה לשנות באופן לא הוגן את קריטריוני ההצלחה בדיעבד, בדרך כלל כשמישהו כבר קרוב לעמוד בקריטריונים המקוריים.",
+        "coffee": "הביטוי מגיע מהספורט: תארו לעצמכם קבוצה שעומדת לבעוט בשער, ומישהו מרים את השער ומזיז אותו רחוק יותר. בעסקים ובמשא ומתן, הביטוי מתאר שינוי של הכללים, היעדים או הגדרת ההצלחה באמצע התהליך - לרוב כדי להתחמק מהצורך להודות שמישהו עמד בדרישה, או כדי להשאיר אותו רודף אחרי יעד שכל הזמן מתרחק. משתמשים בביטוי הזה בעיקר באופן ביקורתי, כדי להצביע על חוסר הגינות.\n\nלדוגמה: 'קודם אמרו לנו שצריך 10,000 משתמשים כדי לקבל את סבב המימון הבא; כשהגענו לזה, המשקיעים הזיזו את השער וביקשו גם הכנסות.'",
+        "deep": "להזיז את השער הוא אחד הביטויים הנפוצים יותר במשא ומתן, בפוליטיקה של מקום העבודה ובדיון הציבורי, כי ההתנהגות שהוא מתאר כל כך שכיחה: מישהו מגדיר מחדש מה נחשב הצלחה רק אחרי שהיעד המקורי הופך לבר-השגה או שהוא כבר הושג.\n\nהביטוי משמש בעיקר כהאשמה. מנהל שממשיך להוסיף דרישות חדשות לפני קידום 'מזיז את השער'. רגולטור שמשנה תקני ציות ברגע שחברה סוף סוף עומדת בתקנים הישנים עושה בדיוק את אותו הדבר. יש בזה רמיזה לחוסר תום לב, או לכל הפחות לחוסר הגינות - היעד מעולם לא היה קבוע באמת.\n\nבלבול נפוץ הוא ערבוב עם פשוט העלאת הרף (raising the bar), שפירושה קביעת סטנדרט גבוה יותר מראש, בשקיפות, לפני שמישהו מתחיל לעבוד לקראתו. להזיז את השער פירושו במיוחד שינוי היעד בדיעבד, לרוב בלי אזהרה.\n\nעוד דוגמאות: 'הוועדה המשיכה להזיז את השער לגבי מה שנחשב ציון עובר.' 'מבקרים האשימו את הרשות שהיא מזיזה את השער בכל פעם שהחברה עמדה בתקנה הקודמת.'\n\nבאנגלית: Moving the goalposts."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "negotiation",
+        "business"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects",
+        "scroll": "A network effect is when a product or service becomes more valuable to every user as more people use it, which is why winning platforms tend to dominate their markets.",
+        "coffee": "A network effect means a product gets more useful as its user base grows — not because the product itself improved, but because there's simply more value in being connected to more people. A phone is useless if you're the only one who has one; a messaging app with ten users is a toy, but with a billion users it's essential infrastructure.\n\nThis is why markets with strong network effects — social networks, payment systems, operating systems, marketplaces — tend to tip toward one or two winners rather than staying fragmented: once a platform pulls ahead, new users have more reason to join it specifically, which widens the gap further. It's also why many platforms spend heavily to grow fast and worry about profit later — the user base itself is the asset.\n\nNot every product has this dynamic. A better toothbrush doesn't become more valuable because your neighbor also buys one. Network effects specifically require that users create value for other users, directly or through shared infrastructure.",
+        "deep": "## What a network effect actually is\n\nA network effect exists when each additional user of a product makes it more valuable to everyone already using it — not through any change to the product itself, just through the growing size of the network. Economists sometimes call this a 'demand-side economy of scale': instead of getting cheaper to produce at scale (a supply-side effect), the product gets more valuable to consume at scale.\n\n## Direct vs. indirect network effects\n\nA direct network effect is when more users of the same type benefit each other directly — every new person on WhatsApp makes WhatsApp marginally more useful to everyone already on it, because there's one more person you can reach. An indirect (or cross-side) network effect runs between two different groups: more riders on a ride-hailing app attract more drivers, and more drivers make the app more attractive to riders, even though riders don't directly interact with each other.\n\n## A worked example\n\nImagine a note-taking app that lets you share documents with other users, like a very early version of Google Docs. With 10 users, the app is barely useful for sharing — the odds that the person you want to collaborate with is also on the app are low. With 10 million users, nearly everyone you'd want to share a document with is already on the platform, so the sharing feature alone becomes a reason to join, even if a competing app has better editing tools. The value didn't come from a product update; it came purely from network size.\n\nThis explains why such an app might rationally operate at a loss for years, giving away the product for free or even paying people to join (think early ride-hailing subsidies, or sign-up bonuses at crypto exchanges) — the goal is to reach the size where network effects make the platform the default choice, after which users have to pay or accept ads to stay.\n\n## The limits\n\nNetwork effects aren't unlimited. Beyond a point, added users can create negative effects — congestion, lower content quality, moderation problems — sometimes described as a network becoming too crowded. And network effects don't fully protect against a determined competitor who can get users to switch all at once: multi-homing, where users keep accounts on several competing platforms at once, weakens the lock-in significantly. Still, in the industries that run on them — social media, payments, marketplaces, operating systems, and increasingly AI platforms built around user data and plug-ins — network effects remain one of the strongest forces behind why a handful of companies end up capturing most of a market."
+      },
+      "he": {
+        "headline": "אפקטי רשת (Network effects)",
+        "scroll": "אפקט רשת (network effect) הוא מצב שבו מוצר או שירות הופך לבעל ערך רב יותר לכל משתמש ככל שיותר אנשים משתמשים בו, ולכן פלטפורמות מנצחות נוטות לשלוט בשוק שלהן.",
+        "coffee": "אפקט רשת (network effect) פירושו שמוצר הופך לשימושי יותר כשבסיס המשתמשים שלו גדל - לא בגלל שהמוצר עצמו השתפר, אלא פשוט בגלל שיש יותר ערך בלהיות מחובר ליותר אנשים. טלפון חסר תועלת אם אתה היחיד שמחזיק בו; אפליקציית הודעות עם עשרה משתמשים היא צעצוע, אבל עם מיליארד משתמשים היא תשתית חיונית.\n\nזו הסיבה שבשווקים עם אפקטי רשת חזקים - רשתות חברתיות, מערכות תשלומים, מערכות הפעלה, שווקי מסחר (marketplaces) - יש נטייה להיטות לכיוון מנצח אחד או שניים במקום להישאר מפוצלים: ברגע שפלטפורמה אחת מתקדמת, למשתמשים חדשים יש סיבה טובה יותר להצטרף דווקא אליה, מה שמרחיב את הפער עוד יותר. זו גם הסיבה שהרבה פלטפורמות משקיעות הון רב בצמיחה מהירה ודוחות את הרווחיות - בסיס המשתמשים עצמו הוא הנכס.\n\nלא לכל מוצר יש את הדינמיקה הזו. מברשת שיניים טובה יותר לא הופכת לבעלת ערך רב יותר רק בגלל שהשכן שלך קנה אחת כזאת. אפקטי רשת דורשים ספציפית שמשתמשים ייצרו ערך למשתמשים אחרים, במישרין או דרך תשתית משותפת.",
+        "deep": "## מה אפקט רשת הוא בעצם\n\nאפקט רשת (network effect) מתקיים כאשר כל משתמש נוסף במוצר הופך אותו לבעל ערך רב יותר לכל מי שכבר משתמש בו - לא דרך שינוי במוצר עצמו, אלא רק דרך הגדילה של גודל הרשת. כלכלנים קוראים לזה לעיתים 'חיסכון בקנה מידה מצד הביקוש' (demand-side economy of scale): במקום שהמוצר יוזיל את עצמו בייצור בקנה מידה גדול (אפקט מצד ההיצע), הוא הופך לבעל ערך רב יותר בצריכה בקנה מידה גדול.\n\n## אפקטים ישירים מול עקיפים\n\nאפקט רשת ישיר הוא כשיותר משתמשים מאותו סוג מיטיבים זה עם זה במישרין - כל משתמש נוסף בוואטסאפ הופך את וואטסאפ לשימושית במעט יותר לכל מי שכבר נמצא בה, כי יש עוד אדם אחד שאפשר להגיע אליו. אפקט עקיף (או 'צד שני', cross-side) פועל בין שתי קבוצות שונות: יותר נוסעים באפליקציית הסעות מושכים יותר נהגים, ויותר נהגים הופכים את האפליקציה לאטרקטיבית יותר לנוסעים, גם אם הנוסעים לא מתקשרים ביניהם במישרין.\n\n## דוגמה מעשית\n\nדמיינו אפליקציית רשימות שמאפשרת לשתף מסמכים עם משתמשים אחרים, כמו גרסה מוקדמת מאוד של גוגל דוקס. עם 10 משתמשים, האפליקציה כמעט לא שימושית לשיתוף - הסיכוי שהאדם שאתם רוצים לשתף איתו פעולה נמצא גם הוא באפליקציה נמוך. עם 10 מיליון משתמשים, כמעט כל מי שתרצו לשתף איתו מסמך כבר נמצא בפלטפורמה, כך שתכונת השיתוף בלבד הופכת לסיבה להצטרף, גם אם לאפליקציה מתחרה יש כלי עריכה טובים יותר. הערך לא הגיע מעדכון מוצר; הוא הגיע כולו מגודל הרשת.\n\nזה מסביר למה אפליקציה כזו עשויה לפעול בהפסד שנים, לחלק את המוצר בחינם או אפילו לשלם לאנשים כדי שיצטרפו (חישבו על סובסידיות מוקדמות של אפליקציות הסעות, או בונוסים להרשמה בבורסות קריפטו) - המטרה היא להגיע לגודל שבו אפקטי הרשת הופכים את הפלטפורמה לבחירת המחדל, ואז המשתמשים נאלצים לשלם או לקבל פרסומות כדי להישאר.\n\n## המגבלות\n\nאפקטי רשת אינם בלתי מוגבלים. מעבר לנקודה מסוימת, משתמשים נוספים יכולים ליצור אפקטים שליליים - עומס, ירידה באיכות התוכן, בעיות פיקוח - תופעה שמתוארת לעיתים כרשת שהופכת לצפופה מדי. ואפקטי רשת לא מגנים באופן מלא מפני מתחרה נחוש שמצליח לגרום למשתמשים לעבור כולם בבת אחת: multi-homing, מצב שבו משתמשים מחזיקים חשבונות בכמה פלטפורמות מתחרות במקביל, מחליש מאוד את הנעילה. ועדיין, בתעשיות שמבוססות עליהם - רשתות חברתיות, תשלומים, שווקי מסחר, מערכות הפעלה, ובאופן גובר גם פלטפורמות בינה מלאכותית (AI) שבנויות סביב נתוני משתמשים ותוספים - אפקטי רשת נשארים אחד הכוחות החזקים ביותר שמסביר למה מעט חברות תופסות את רוב השוק."
+      },
+      "tags": [
+        "economics",
+        "network-effects",
+        "tech",
+        "platforms"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-oct7-2023",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2023: Hamas-led attacks from Gaza, including a massacre at the Nova music festival, started the Gaza war",
+        "scroll": "In 2023, Palestinian armed groups led by Hamas launched incursions into southern Israel's Gaza envelope and attacked an outdoor music festival, starting the Gaza war.",
+        "coffee": "On 7 October 2023, Palestinian nationalist armed groups launched incursions into Israeli communities along the Gaza envelope — the string of towns and kibbutzim bordering the Gaza Strip. Al-Qassam Brigades, the military wing of Hamas, the Islamist Palestinian nationalist organization that has governed Gaza, attacked people attending an open-air music festival in southern Israel. The attacks marked the start of the Gaza war.\n\nAt the time, Al-Qassam Brigades was led by Mohammed Deif, who was killed in July 2024. Hamas has for decades rejected Israeli control over Palestinian territories captured in the 1967 Six-Day War, and draws on currents within Palestinian nationalism, a movement with roots in the early 20th century that formed in opposition to Zionism and later absorbed other ideological strands, including Arab socialism and Islamist nationalism.\n\nThree years later, 7 October remains the fixed reference point for the war that followed, and in Israel this date is now marked annually.",
+        "deep": "## What happened\n\nOn the morning of 7 October 2023, Palestinian nationalist armed groups crossed into the Gaza envelope — Israeli communities and military positions along the border with the Gaza Strip — in a coordinated incursion. Al-Qassam Brigades, the military wing of Hamas, attacked attendees at an open-air music festival held in southern Israel, among other targets along the border. The events marked the beginning of the Gaza war, a conflict that has continued in the years since.\n\n## Who carried it out\n\nAl-Qassam Brigades is the largest and best-equipped militant organization operating in the Gaza Strip. At the time of the attacks it was led by Mohammed Deif, who remained its commander until his death in July 2024. The brigades are the military wing of Hamas, a Sunni Islamist Palestinian nationalist organization that has governed Gaza.\n\n## Background\n\nPalestinian nationalism, the movement Hamas operates within, formed in the early twentieth century in opposition to Zionism and has since drawn on a range of political traditions, including Arab socialism, ethnic nationalism and Islamist currents. Since the 1967 Six-Day War, Palestinian nationalist movements have rejected Israeli control over the Palestinian territories captured in that war — a rejection that has taken different political and military forms across different factions over the decades.\n\n## Why the date still matters\n\nThe attacks of 7 October 2023 are widely treated, in Israel and internationally, as a turning point: they triggered the Gaza war and reshaped Israeli and regional politics, security policy and public life in ways that were still unfolding three years later. In Israel, the date is now marked annually, and this year's anniversary falls on the same Hebrew calendar date as the original attack.\n\n## What to watch\n\nAs the anniversary recurs each year, expect renewed public attention in Israel to memorials, hostage families, and retrospectives on how the war has unfolded since — distinct from the daily news cycle, which continues to track the conflict's current state separately."
+      },
+      "he": {
+        "headline": "2023: תקיפות בראשות חמאס משטח עזה, ובהן טבח בפסטיבל המוזיקה נובה, פתחו את מלחמת עזה",
+        "scroll": "ב-2023 פתחו ארגונים פלסטיניים חמושים בראשות חמאס בפשיטות על עוטף עזה ותקפו פסטיבל מוזיקה בשטח פתוח בדרום ישראל, בתחילתה של מלחמת עזה.",
+        "coffee": "ב-7 באוקטובר 2023 פתחו ארגונים לאומניים פלסטיניים חמושים בפשיטות על יישובי עוטף עזה - שרשרת הערים והקיבוצים הגובלים ברצועת עזה, וגם על עמדות צבאיות לאורך הגבול. גדודי עז א-דין אל-קאסם, הזרוע הצבאית של חמאס, הארגון הלאומני-אסלאמיסטי הפלסטיני ששלט ברצועת עזה, תקפו בין היתר משתתפים בפסטיבל מוזיקה בשטח פתוח בדרום ישראל. התקיפות סימנו את תחילתה של מלחמת עזה, עימות שנמשך בשנים שלאחר מכן.\n\nבאותה עת הובילו הגדודים את מוחמד דף, שנהרג ביולי 2024. חמאס דוחה כבר עשרות שנים את השליטה הישראלית בשטחים הפלסטיניים שנכבשו במלחמת ששת הימים ב-1967, ושואבת מזרמים בתוך הלאומיות הפלסטינית - תנועה שהתפתחה בראשית המאה ה-20 מתוך התנגדות לציונות, ומאוחר יותר קלטה זרמים אידאולוגיים נוספים, כולל סוציאליזם ערבי ולאומנות אסלאמיסטית.\n\nשלוש שנים לאחר מכן, ה-7 באוקטובר נשאר נקודת הציון הקבועה למלחמה שבאה בעקבותיו: בישראל התאריך מצוין מאז מדי שנה, ויום השנה הנוכחי חל בדיוק על אותו תאריך בלוח העברי כמו התקיפה המקורית.",
+        "deep": "## מה קרה\n\nבבוקר ה-7 באוקטובר 2023 חצו ארגונים לאומניים פלסטיניים חמושים לעוטף עזה - יישובים ישראליים ועמדות צבאיות לאורך הגבול עם רצועת עזה - בפשיטה מתואמת. גדודי עז א-דין אל-קאסם, הזרוע הצבאית של חמאס, תקפו משתתפים בפסטיבל מוזיקה בשטח פתוח שהתקיים בדרום ישראל, לצד מטרות נוספות לאורך הגבול. האירועים סימנו את תחילתה של מלחמת עזה, עימות שנמשך בשנים שלאחר מכן.\n\n## מי ביצע את התקיפה\n\nגדודי עז א-דין אל-קאסם הם הארגון החמוש הגדול והמצויד ביותר הפועל ברצועת עזה. בעת התקיפות הובילו הגדודים את מוחמד דף, שנותר המפקד שלהם עד הריגתו ביולי 2024. הגדודים הם הזרוע הצבאית של חמאס, ארגון לאומני-אסלאמיסטי סוני פלסטיני ששלט ברצועת עזה.\n\n## הרקע הרחב יותר\n\nהלאומיות הפלסטינית, התנועה שבתוכה פועל חמאס, התגבשה בראשית המאה ה-20 כתנועת התנגדות לציונות, ומאז שאבה מטווח רחב של זרמים פוליטיים, כולל סוציאליזם ערבי, לאומנות אתנית וזרמים אסלאמיסטיים. מאז מלחמת ששת הימים ב-1967, תנועות לאומניות פלסטיניות דוחות את השליטה הישראלית בשטחים הפלסטיניים שנכבשו באותה מלחמה - דחייה שלבשה צורות פוליטיות וצבאיות שונות בזרמים שונים לאורך השנים.\n\n## למה התאריך הזה עדיין חשוב\n\nהתקיפות של 7 באוקטובר 2023 נתפסות, בישראל ובעולם, כנקודת מפנה: הן הציתו את מלחמת עזה ושינו מחדש את הפוליטיקה הישראלית והאזורית, את מדיניות הביטחון ואת החיים הציבוריים, בדרכים שעדיין התגלגלו שלוש שנים לאחר מכן. בישראל מצוין התאריך מדי שנה, ויום השנה הנוכחי חל על אותו תאריך בלוח העברי כמו התקיפה המקורית.\n\n## למה לשים לב\n\nעם חזרת יום השנה מדי שנה, אפשר לצפות לתשומת לב ציבורית מתחדשת בישראל לטקסי זיכרון, למשפחות חטופים ולסיכומים של מהלך המלחמה מאז - בנפרד ממעגל החדשות היומי, שממשיך לעקוב אחר מצב הסכסוך הנוכחי בנפרד."
+      },
+      "tags": [
+        "gaza-war",
+        "hamas",
+        "israel",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2023: Palestinian nationalist groups launched armed incursions into the Gaza envelope, starting the Gaza war.",
+          "url": "https://en.wikipedia.org/wiki/Palestinian_nationalism"
+        },
+        {
+          "outlet": "Wikipedia",
+          "title": "2023: The military wing of the Palestinian nationalist Islamist political organization Hamas massacred people attending an open-air music festival in southern Israel.",
+          "url": "https://en.wikipedia.org/wiki/Al-Qassam_Brigades"
+        }
+      ]
+    }
+  ]
+}

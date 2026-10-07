@@ -1,0 +1,91 @@
+{
+  "section": "business",
+  "date": "2026-10-07",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-07T04:18:01+00:00",
+  "stories": [
+    {
+      "id": "spacex-ai-debt-financing",
+      "kind": "analysis",
+      "en": {
+        "headline": "SpaceX's $40 Billion Chip Bet Shows How AI Is Being Financed With Debt, Not Equity",
+        "scroll": "SpaceX is seeking a $40 billion loan led by Apollo to buy Nvidia chips, showing how private credit, not equity, now bankrolls AI's infrastructure boom.",
+        "coffee": "SpaceX is in talks to raise about $40 billion in a debt deal led by Apollo Global Management, with the money earmarked for buying Nvidia chips, the Financial Times reported. It's one of the largest financings yet tied to the artificial intelligence (AI) buildout, and a sign of just how much capital the current wave of AI infrastructure spending (capex) requires.\n\nWhat makes it notable is the financing choice. Rather than issuing new shares (equity financing), which would dilute existing owners, SpaceX is turning to private credit: investment funds that lend directly to companies outside the traditional banking system. Private credit has grown enormously since the 2008 financial crisis, as banks pulled back from riskier lending, and it has become the financing tool of choice for the chip and data-center spending driving the AI boom. Debt doesn't dilute ownership, and interest payments can be structured against the cash flows the new hardware is expected to generate.\n\nThe deal lands alongside two other signals worth watching: Bank of America strategists are already advising tech investors on ways to hedge against a potential AI bubble, and the S&P 500's record run is increasingly reliant on a handful of megacap tech stocks. If debt-financed chip purchases don't earn returns above their borrowing cost, the strain could ripple beyond the AI sector itself.",
+        "deep": "## Background\n\nWhen a company needs to fund a large purchase, it generally has two options: raise equity (sell new shares, which dilutes existing owners but carries no repayment obligation) or raise debt (borrow money that must be repaid with interest, but leaves ownership untouched). Historically, banks supplied most corporate debt. Since the 2008 financial crisis, tighter bank regulation pushed a lot of that lending into a parallel system known as private credit: funds, often run by large alternative-asset managers, that lend directly to companies, typically at higher interest rates than banks but with more flexible terms. Apollo Global Management, one of the biggest names in private credit, is reportedly leading the financing described below.\n\n## The Deal\n\nAccording to the Financial Times, SpaceX is looking to raise roughly $40 billion in a debt deal led by Apollo, with the proceeds going toward buying Nvidia chips. The report calls it a \"blockbuster debt deal\" and frames it as the latest sign of the enormous spending on chips and other infrastructure underpinning the AI boom. Beyond that, the public reporting doesn't detail the loan's structure, interest rate or repayment timeline, so those specifics remain unknown for now.\n\n## Why Debt, Not Equity\n\nThe general economic logic for choosing debt over equity to fund capital-intensive purchases is straightforward. Debt preserves ownership and control, since lenders don't get a vote or a share of future upside the way equity investors do. Interest payments on debt are also typically tax-deductible, unlike dividends paid to shareholders, which lowers the effective cost of borrowing. And if the assets being purchased (in this case, chips used to run AI workloads) generate returns above the interest rate on the loan, the use of borrowed money (leverage) amplifies the gains for existing owners. The flip side is that leverage cuts both ways: if those assets underperform, the fixed obligation to repay debt remains regardless, which is what makes debt-funded capex riskier than equity-funded capex when the underlying bet doesn't pay off.\n\n## Second-Order Effects\n\nThis deal doesn't exist in isolation. It lands in a market where the S&P 500's record highs are increasingly concentrated in a small group of AI-exposed megacap stocks, and where Bank of America strategists are already recommending that tech investors use options to hedge against a potential bubble. Separately, industrial metals like copper have stayed firm partly on demand tied to AI data-center buildouts, showing how the AI capex wave is reaching into the physical economy, not just stock prices.\n\nThe broader concern among economists watching this trend is concentration risk: a growing share of the financial system's exposure to AI, running through equity markets, private credit funds and commodity demand alike, is now tied to a single bet — that AI infrastructure spending will keep generating returns large enough to justify the money pouring in. Private credit funds are less regulated and less transparent than banks, and they are increasingly intertwined with pension funds, insurers and other institutional investors that supply them with capital. If a wave of AI-linked debt were to underperform at the same time, the losses could propagate through the financial system in ways that are harder to see coming than a stock-market correction, precisely because private credit sits outside the disclosure requirements that apply to public equity and bank lending.\n\n## What to Watch Next\n\nWatch whether this deal actually closes on the reported terms, and whether other AI infrastructure players follow SpaceX toward private credit rather than public bond or equity markets. Watch, too, whether Nvidia's chip sales increasingly get financed this way across the industry, since widespread debt-financed chip buying only works if the AI workloads running on that hardware keep generating enough revenue to service the debt. Finally, watch for any regulatory attention to private credit's growing footprint in AI financing, an area regulators have flagged as a blind spot precisely because so little of it is publicly disclosed."
+      },
+      "he": {
+        "headline": "40 מיליארד הדולר של SpaceX: איך הבינה המלאכותית מתממנת בחוב ולא בהון",
+        "scroll": "SpaceX מגייסת כ-40 מיליארד דולר בעסקת חוב בהובלת Apollo כדי לקנות שבבי Nvidia, סימן נוסף לכך שאשראי פרטי (private credit), ולא הון, מממן כיום את בום התשתיות של הבינה המלאכותית.",
+        "coffee": "SpaceX מנהלת מגעים לגיוס כ-40 מיליארד דולר בעסקת חוב בהובלת חברת ההשקעות Apollo Global Management, כשהכסף מיועד לרכישת שבבי Nvidia, כך דיווח ה-Financial Times. זו אחת מעסקאות המימון הגדולות ביותר שנקשרו עד כה לגל הבינה המלאכותית, וסימן לכמות ההון העצומה שדורשת גל ההשקעה הנוכחי בתשתיות בינה מלאכותית (capex).\n\nמה שמעניין כאן היא עצם הבחירה באופן המימון. במקום להנפיק מניות חדשות (מימון הוני, שמדלל את בעלי המניות הקיימים), SpaceX פונה לאשראי פרטי (private credit): קרנות השקעה שמעניקות הלוואות ישירות לחברות מחוץ למערכת הבנקאית המסורתית. שוק האשראי הפרטי צמח מאוד מאז המשבר הפיננסי של 2008, כשהבנקים נסוגו מהלוואות מסוכנות יותר, והוא הפך לכלי המימון המועדף על חברות שמממנות את ההשקעה בשבבים ובמרכזי נתונים שמניעה את בום הבינה המלאכותית. מימון בחוב אינו מדלל את הבעלות, ותשלומי הריבית עליו יכולים להיבנות כנגד תזרימי המזומנים שהציוד החדש צפוי להניב.\n\nהעסקה מגיעה לצד שני איתותים נוספים שכדאי לשים אליהם לב: אנליסטים של Bank of America כבר מייעצים למשקיעי טכנולוגיה כיצד להתגונן (לגדר, hedge) מפני בועה אפשרית בתחום הבינה המלאכותית, ועליית השיא של מדד S&P 500 נשענת יותר ויותר על קבוצה קטנה של מניות טכנולוגיה גדולות. אם רכישות השבבים הממומנות בחוב לא יניבו תשואה הגבוהה מעלות החוב, הלחץ עלול להתפשט גם מעבר לענף הבינה המלאכותית עצמו.",
+        "deep": "## רקע\n\nכשחברה צריכה לממן רכישה גדולה, יש לה בגדול שתי אפשרויות: לגייס הון (למכור מניות חדשות, מה שמדלל את בעלי המניות הקיימים אך אינו מחייב החזר) או לגייס חוב (לשאול כסף שיש להחזירו עם ריבית, אך בלי לפגוע בבעלות על החברה). היסטורית, בנקים היו הגורם שסיפק את עיקר האשראי העסקי. מאז המשבר הפיננסי של 2008, רגולציה בנקאית מחמירה יותר הזרימה חלק גדול מהאשראי הזה למערכת מקבילה שנקראת אשראי פרטי (private credit): קרנות, המנוהלות לרוב בידי מנהלי נכסים אלטרנטיביים גדולים, שמעניקות הלוואות ישירות לחברות, בדרך כלל בריבית גבוהה יותר מזו של הבנקים אך בתנאים גמישים יותר. Apollo Global Management, אחת החברות הגדולות בתחום האשראי הפרטי, היא לפי הדיווחים זו שמובילה את העסקה המתוארת כאן.\n\n## העסקה\n\nלפי ה-Financial Times, SpaceX שוקלת לגייס כ-40 מיליארד דולר בעסקת חוב בהובלת Apollo, כשהכספים ישמשו לרכישת שבבי Nvidia. הדיווח מתאר אותה כ\"עסקת חוב בלוקבסטר\" ומציג אותה כסימן נוסף להיקף העתק של ההשקעה בשבבים ובתשתיות אחרות שעליהן נשענת הבינה המלאכותית. מעבר לכך, הדיווחים הפומביים אינם מפרטים את מבנה ההלוואה, את שיעור הריבית או את לוח הזמנים להחזר, כך שפרטים אלה אינם ידועים בשלב זה.\n\n## למה חוב ולא הון\n\nההיגיון הכלכלי הכללי בבחירה בחוב על פני הון למימון רכישות הוניות כבדות הוא פשוט. חוב משאיר את הבעלות והשליטה בידי הבעלים הקיימים, שכן למלווים אין זכות הצבעה או חלק ברווחים העתידיים כמו שיש למשקיעי הון. תשלומי ריבית על חוב גם ניתנים בדרך כלל לניכוי מס, בשונה מדיבידנדים המחולקים לבעלי מניות, מה שמוריד את העלות האפקטיבית של ההלוואה. ואם הנכסים שנרכשים (במקרה הזה, שבבים המשמשים להרצת עומסי עבודה של בינה מלאכותית) מניבים תשואה הגבוהה מהריבית על ההלוואה, השימוש בכסף שאול (מינוף, leverage) מגדיל את הרווח לבעלי המניות הקיימים. הצד השני של המטבע הוא שמינוף פועל בשני הכיוונים: אם הנכסים הללו לא יעמדו בציפיות, ההתחייבות הקבועה להחזיר את החוב נשארת בעינה בכל מקרה, וזה מה שהופך מימון הוצאות הון (capex) באמצעות חוב למסוכן יותר ממימון דרך הון כאשר ההשקעה לא מצליחה.\n\n## אפקטים מסדר שני\n\nהעסקה הזו אינה מתקיימת בחלל ריק. היא מגיעה בתוך שוק שבו השיאים של מדד S&P 500 מרוכזים יותר ויותר בקבוצה קטנה של מניות טכנולוגיה גדולות (megacaps) החשופות לבינה מלאכותית, ובו אנליסטים של Bank of America כבר ממליצים למשקיעי טכנולוגיה להשתמש בנגזרים (אופציות) כדי להתגונן מפני בועה אפשרית. במקביל, מחירי מתכות תעשייתיות כמו נחושת נשארו יציבים בין היתר בגלל ביקוש הקשור להקמת מרכזי נתונים לבינה מלאכותית — מה שמראה שגל ההשקעה בתחום מגיע גם לכלכלה הריאלית, לא רק למחירי המניות.\n\nהחשש הרחב יותר בין כלכלנים שעוקבים אחרי המגמה הזו הוא סיכון ריכוזיות (concentration risk): חלק גדול והולך מהחשיפה של המערכת הפיננסית לבינה מלאכותית — בשוקי המניות, בקרנות האשראי הפרטי ובביקוש לסחורות כאחד — תלוי כיום בהתערבות בודדת: ההנחה שההשקעה בתשתיות בינה מלאכותית תמשיך להניב תשואות גבוהות מספיק כדי להצדיק את כל הכסף שזורם לתחום. קרנות אשראי פרטי מפוקחות פחות ושקופות פחות מבנקים, והן הופכות קשורות יותר ויותר לקרנות פנסיה, חברות ביטוח וגופים מוסדיים אחרים שמספקים להן הון. אם גל של חוב הקשור לבינה מלאכותית ייקלע בעת ובעונה אחת לקשיים, ההפסדים עלולים להתפשט במערכת הפיננסית בדרכים שקשה יותר לצפות מראש בהשוואה לתיקון בשוק המניות, פשוט בגלל שהאשראי הפרטי נמצא מחוץ לדרישות הגילוי שחלות על הון ציבורי ועל הלוואות בנקאיות.\n\n## מה לעקוב אחריו\n\nכדאי לעקוב אחרי השאלה אם העסקה הזו תיסגר בתנאים המדווחים, ואם שחקני תשתיות בינה מלאכותית נוספים ילכו בעקבות SpaceX לכיוון אשראי פרטי במקום שוקי אג\"ח או הון ציבוריים. כדאי גם לעקוב אחרי השאלה אם מכירות השבבים של Nvidia ברחבי הענף ימומנו יותר ויותר באופן הזה, שכן רכישת שבבים ממומנת בחוב בהיקף נרחב עובדת רק אם עומסי העבודה של בינה מלאכותית שרצים על אותו ציוד ממשיכים להניב הכנסה מספקת לשירות החוב. ולבסוף, כדאי לשים לב לכל תשומת לב רגולטורית להיקף ההולך וגדל של אשראי פרטי במימון בינה מלאכותית, תחום שרגולטורים כבר סימנו כנקודה עיוורת, בדיוק בגלל שכך מעט ממנו נחשף לציבור."
+      },
+      "tags": [
+        "ai",
+        "private-credit",
+        "debt-financing",
+        "spacex"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
+          "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+          "url": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "BofA Team Touts Options for Tech Sector to Hedge Bubble Risk",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-06/bofa-analysts-see-tech-bubble-brewing-advise-clients-to-pile-in"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Copper Stable as AI-Driven Tech Stock Rally Holds Near Record",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-07/copper-stable-as-ai-driven-tech-stock-rally-holds-near-record"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4198.8101,
+      "prev_close": 4223.7402,
+      "change_pct": -0.59,
+      "as_of": "2026-10-06"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7818.9302,
+      "prev_close": 7773.9502,
+      "change_pct": 0.58,
+      "as_of": "2026-10-06"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0501,
+      "prev_close": 3.053,
+      "change_pct": -0.09,
+      "as_of": "2026-10-07"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 101.58,
+      "prev_close": 100.32,
+      "change_pct": 1.26,
+      "as_of": "2026-10-06"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 84175.9922,
+      "prev_close": 85786.5938,
+      "change_pct": -1.88,
+      "as_of": "2026-10-07"
+    }
+  }
+}

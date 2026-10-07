@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-07",
+  "questions": [
+    {
+      "id": "quiz-bulgaria-drone",
+      "section": "geopolitics",
+      "story_id": "russia-black-sea-escalation",
+      "answer_index": 1,
+      "en": {
+        "question": "Which NATO member said a drone attack hit two of its commercial vessels, with Ukraine's president blaming Russia?",
+        "options": [
+          "Romania",
+          "Bulgaria",
+          "Turkey",
+          "Poland"
+        ],
+        "explanation": "Bulgaria's leader reported the attack on two commercial vessels, the first time in this wave of Black Sea incidents that a NATO member's shipping was directly hit."
+      },
+      "he": {
+        "question": "איזו מדינת נאט\"ו מסרה שתקיפת רחפן פגעה בשתי אוניות הסוחר שלה, כשנשיא אוקראינה הטיל את האשמה על רוסיה?",
+        "options": [
+          "רומניה",
+          "בולגריה",
+          "טורקיה",
+          "פולין"
+        ],
+        "explanation": "בולגריה דיווחה על התקיפה בשתי אוניות סוחר - הפעם הראשונה בסבב הנוכחי של תקריות בים השחור שבה אונייה המזוהה עם מדינת נאט\"ו נפגעה במישרין."
+      }
+    },
+    {
+      "id": "quiz-netanyahu-winter",
+      "section": "israeli_politics",
+      "story_id": "netanyahu-winter-threshold",
+      "answer_index": 1,
+      "en": {
+        "question": "According to a Haaretz analysis, what is Prime Minister Netanyahu reportedly trying to do to right-wing contender Ofer Winter ahead of the elections?",
+        "options": [
+          "Recruit him into the governing coalition",
+          "Push him below the electoral threshold so his party misses the Knesset",
+          "Appoint him to a cabinet position",
+          "Help him form a new centrist party"
+        ],
+        "explanation": "The analysis argues Netanyahu wants Winter to fall below the minimum vote share needed to enter the Knesset, so disillusioned right-wing voters drift back to the existing coalition parties."
+      },
+      "he": {
+        "question": "לפי ניתוח ב\"הארץ\", מה מנסה ראש הממשלה נתניהו לעשות למתמודד הימני עופר וינטר לפני הבחירות?",
+        "options": [
+          "לגייס אותו לקואליציה",
+          "להפיל אותו מתחת לאחוז החסימה כך שרשימתו לא תיכנס לכנסת",
+          "למנות אותו לתפקיד שרים",
+          "לעזור לו להקים מפלגת מרכז חדשה"
+        ],
+        "explanation": "הניתוח טוען שנתניהו רוצה שוינטר ייפול מתחת לאחוז החסימה, כדי שמצביעי ימין מאוכזבים יחזרו למפלגות הקואליציה הקיימות."
+      }
+    },
+    {
+      "id": "quiz-meta-analysis",
+      "section": "ideas",
+      "story_id": "assembling-science",
+      "answer_index": 1,
+      "en": {
+        "question": "What breakthrough did psychologist Gene Glass introduce in 1976, as described in the Aeon essay?",
+        "options": [
+          "Vote-counting, tallying how many studies found an effect",
+          "Meta-analysis, mathematically combining results across many studies into one answer",
+          "The randomized controlled trial",
+          "The systematic literature review"
+        ],
+        "explanation": "Glass invented meta-analysis to combine results across hundreds of studies mathematically, instead of just counting how many came out positive or negative."
+      },
+      "he": {
+        "question": "איזו פריצת דרך הציג הפסיכולוג ג'ין גלאס ב-1976, כמתואר במאמר ב-Aeon?",
+        "options": [
+          "ספירת קולות - מניית כמה מחקרים מצאו אפקט",
+          "מטה-אנליזה - מיזוג מתמטי של תוצאות ממאות מחקרים למספר אחד",
+          "הניסוי המבוקר האקראי",
+          "הסקירה השיטתית"
+        ],
+        "explanation": "גלאס פיתח את המטה-אנליזה כדי למזג מתמטית תוצאות ממאות מחקרים, במקום רק לספור כמה מהם מצאו תוצאה חיובית או שלילית."
+      }
+    }
+  ]
+}
