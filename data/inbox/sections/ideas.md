@@ -143,95 +143,96 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
-     "title": "Brazil election notes (from my email)",
-     "published": "2026-10-06T22:38:14+00:00",
-     "summary": "From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 candidates who received the most votes for the Lower Chamber are under 40. The exception is 41. Their average age is 31.6. They’re all very […] The post Brazil election notes (from my email) appeared first on Marginal RE",
+     "title": "Why most stereotypes are negative",
+     "published": "2026-10-07T07:03:57+00:00",
+     "summary": "Stereotypes are a foundational construct in psychological science, often defined as beliefs concerning characteristic group attributes. We present a cognitive-ecological theory of social perception that predicts and explains why such characteristic attributes are likely negative, that is, why most stereotypes are negative. The theory assumes that, cognitively, people characterize groups by attribu",
      "full_text_file": "essays/marginal_revolution_0.txt"
     },
     {
      "ref": "marginal_revolution#1",
+     "title": "Effective altruism is useful at the margin",
+     "published": "2026-10-07T04:49:13+00:00",
+     "summary": "That is the theme of my latest Free Press essay, here is one excerpt: I feel I am well aware of the limitations of effective altruism, and I have outlined many others in an hour-long dialogue I had with MacAskill, arguably the father of the movement, in 2022. Nonetheless, at the margin I think more […] The post Effective altruism is useful at the margin appeared first on Marginal REVOLUTION .",
+     "full_text_file": "essays/marginal_revolution_1.txt"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Brazil election notes (from my email)",
+     "published": "2026-10-06T22:38:14+00:00",
+     "summary": "From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 candidates who received the most votes for the Lower Chamber are under 40. The exception is 41. Their average age is 31.6. They’re all very […] The post Brazil election notes (from my email) appeared first on Marginal RE",
+     "full_text_file": "essays/marginal_revolution_2.txt"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "Tuesday assorted links",
      "published": "2026-10-06T16:50:43+00:00",
      "summary": "1. What is the real rate of Chinese economic growth? 2. An Abundance caucus rolls out a bipartisan agenda. 3. Canada fell to 18th from 9th in global ranking of economic freedom. 4. Will there ever be a Latin Bomb? 5. Why didn’t you use an LLM? 6. “Not only does it now cost France more […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Paul Graham Versus the Pope",
      "published": "2026-10-06T11:15:54+00:00",
      "summary": "Pope Leo XIV recently tweeted that there is “an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others.” As a description of how today’s models work, that’s fair enough. AI learned to paint by looking at our paintings. […] The post Paul Graham Versus the Pope appeared first on M"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "The Great Accretion and the Great Depression",
      "published": "2026-10-06T07:06:24+00:00",
      "summary": "A very old idea, returning with a vengeance: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this […] The post The Great Accret"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Rising concentration for economics awards",
      "published": "2026-10-06T04:24:14+00:00",
      "summary": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in […] The post R"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Monday assorted links",
      "published": "2026-10-05T17:23:07+00:00",
      "summary": "1. Jokic. And another angle. 2. Six questions for believers in AI consciousness. 3. Prediction markets do not seem to be politically biased. 4. “AI writing is absent before 2023, present in 29% of dissertations filed in 2026, and rapidly growing.” 5. Short Knausgaard documentary and interview. The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "“Authenticity is exactly the same as phoniness.”",
      "published": "2026-10-05T15:45:12+00:00",
      "summary": "Authenticity doesn’t interest me. It’s a way of marketing subpar material: this might not be any good, but at least it’s sincere. You can always tell when a book is going to be dogshit because the blurb copy describes it as ‘raw’ or ‘unflinchingly honest.’ In my personal experience, the writers who make a big […] The post “Authenticity is exactly the same as phoniness.” appeared first on Marginal "
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "The Greg Clark Symposium",
      "published": "2026-10-05T11:21:04+00:00",
-     "summary": "Earlier I wrote “Greg Clark may well be the most important social scientist of the 21st century.” Thus, the symposium in Econ Journal Watch on Clark’s new but perhaps not forthcoming book is very welcome. The symposium includes serious critics, most notably Stuhler and Benning, but I suspect even the critics would agree with Arden […] The post The Greg Clark Symposium appeared first on Marginal RE",
-     "full_text_file": "essays/marginal_revolution_7.txt"
+     "summary": "Earlier I wrote “Greg Clark may well be the most important social scientist of the 21st century.” Thus, the symposium in Econ Journal Watch on Clark’s new but perhaps not forthcoming book is very welcome. The symposium includes serious critics, most notably Stuhler and Benning, but I suspect even the critics would agree with Arden […] The post The Greg Clark Symposium appeared first on Marginal RE"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "China fact of the day",
      "published": "2026-10-05T06:56:41+00:00",
      "summary": "With surrogacy illegal in China, an industry of agencies, consultants and fertility clinics has emerged to connect clients with women overseas willing to carry their children. While there is no data on the number of children born to Chinese parents via surrogacy, a recent study showed nearly a third of intended parents for surrogate babies […] The post China fact of the day appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Crime in Covid Times",
      "published": "2026-10-05T04:52:02+00:00",
      "summary": "What caused the historically unique volatility in American homicides since 2019, driven by gun homicides? While there is no shortage of candidate explanations, a coherent understanding has been elusive because of the widely held view that gun violence, like other crimes, stems from a rational weighing of benefits and costs as in Becker (1968). This […] The post Crime in Covid Times appeared first "
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Sunday assorted links",
      "published": "2026-10-04T17:43:19+00:00",
      "summary": "1. New London play about Keynes. 2. Aphantasia, and looking at buildings. 3. AI and job growth in Africa. 4. On Nussbaum, opera, and liberalism. 5. Congress seeks to speed up energy permitting (NYT). 6. Teenager jobs have not disappeared altogether (NYT). 7. An Antikythera field trip and investigation. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "My blurb for Ethan Mollick’s new book",
      "published": "2026-10-04T15:49:12+00:00",
      "summary": "I was asked to blurb it for the AIs, and so this is what they got: Humans like those who appreciate them, and who are not too afraid of them. Perhaps the AIs are somewhat similar? Well, my friendly AIs, Ethan Mollick definitely appreciates your virtues, and I hope and indeed feel he is not […] The post My blurb for Ethan Mollick’s new book appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#14",
      "title": "Does Costco Cause Cancer?",
      "published": "2026-10-04T11:18:58+00:00",
      "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time […] The post Does Costco Cause Canc"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Marital sorting by class and race",
-     "published": "2026-10-04T07:01:17+00:00",
-     "summary": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increas"
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Do the elderly prefer robotic care?",
-     "published": "2026-10-04T05:17:41+00:00",
-     "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choos"
     }
    ]
   },

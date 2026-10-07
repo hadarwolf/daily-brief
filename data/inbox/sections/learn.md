@@ -24,22 +24,6 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2023,
-   "text": "Palestinian nationalist groups launched armed incursions into the Gaza envelope, starting the Gaza war.",
-   "context": [
-    "Palestinian nationalism is the national movement of the Palestinian people that espouses self-determination and sovereignty over the region of Palestine. Originally formed in the early 20th century in opposition to Zionism, Palestinian nationalism later internationalized and attached itself to other ideologies; it has thus rejected the occupation of the Palestinian territories by the government of Israel since the 1967 Six-Day War. Palestinian nationalists often draw upon broader political traditions in their ideology, such as Arab socialism and ethnic nationalism in the context of Muslim religious nationalism. Related beliefs have shaped the government of Palestine and continue to do so."
-   ]
-  },
-  {
-   "ref": "wikipedia#1",
-   "year": 2023,
-   "text": "The military wing of the Palestinian nationalist Islamist political organization Hamas massacred people attending an open-air music festival in southern Israel.",
-   "context": [
-    "Al-Qassam Brigades, also known as the Izz al-Din al-Qassam Brigades, are the military wing of the Sunni Islamist Palestinian nationalist organization, Hamas. Led by Mohammed Deif until his death on 13 July 2024, Al-Qassam Brigades are the largest and best-equipped militant organization operating within the Gaza Strip in recent years."
-   ]
-  },
-  {
-   "ref": "wikipedia#2",
    "year": 2008,
    "text": "2008 TC3 exploded above the Nubian Desert in Sudan, in the first time that an asteroid impact had been predicted prior to atmospheric entry.",
    "context": [
@@ -47,7 +31,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#3",
+   "ref": "wikipedia#1",
    "year": 2006,
    "text": "Anna Politkovskaya (pictured), a Russian journalist and human-rights activist, was assassinated in the elevator of her apartment block in Moscow.",
    "context": [
@@ -55,7 +39,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#4",
+   "ref": "wikipedia#2",
    "year": 1991,
    "text": "Croatian War of Independence: The Yugoslav People's Army conducted an air strike on Banski Dvori, the official residence of the president of Croatia in Zagreb.",
    "context": [
@@ -63,7 +47,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#5",
+   "ref": "wikipedia#3",
    "year": 1988,
    "text": "Near Point Barrow in Alaska, an Iñupiat hunter discovered three gray whales trapped in pack ice, which resulted in an international effort to free them.",
    "context": [
@@ -71,15 +55,15 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#6",
+   "ref": "wikipedia#4",
    "year": 1985,
-   "text": "During severe floods in Puerto Rico, about 130 people died as a result of the deadliest single landslide on record in North America.",
+   "text": "About 130 people died as a result of severe floods in Puerto Rico.",
    "context": [
-    "The 1985 Puerto Rico floods produced showers and thunderstorms across the island and the deadliest single landslide on record in North America, that killed at least 130 people in the Mameyes neighborhood of barrio Portugués Urbano in Ponce. The floods were the result of a westward-moving tropical wave that emerged off the coast of Africa on September 29. The system moved into the Caribbean Sea on October 5 and produced heavy rains across Puerto Rico, peaking at 31.67 in (804 mm) in Toro Negro State Forest. Two stations broke their 24-hour rainfall records set in 1899. The rains caused severe flooding in the southern half of Puerto Rico, which isolated towns, washed out roads, and caused rivers to exceed their banks. In addition to the deadly landslide in Mameyes, the floods washed out a bridge in Santa Isabel that killed several people. The storm system caused about $125 million in damage and 180 deaths, which prompted a presidential disaster declaration. The tropical wave later spawned Tropical Storm Isabel."
+    "The 1985 Puerto Rico floods produced showers and thunderstorms across the island and the deadliest single landslide on record on United States territory, that killed at least 130 people in the Mameyes neighborhood of barrio Portugués Urbano in Ponce. The floods were the result of a westward-moving tropical wave that emerged off the coast of Africa on September 29. The system moved into the Caribbean Sea on October 5 and produced heavy rains across Puerto Rico, peaking at 31.67 in (804 mm) in Toro Negro State Forest. Two stations broke their 24-hour rainfall records set in 1899. The rains caused severe flooding in the southern half of Puerto Rico, which isolated towns, washed out roads, and caused rivers to exceed their banks. In addition to the deadly landslide in Mameyes, the floods washed out a bridge in Santa Isabel that killed several people. The storm system caused about $125 million in damage and 180 deaths, which prompted a presidential disaster declaration. The tropical wave later spawned Tropical Storm Isabel."
    ]
   },
   {
-   "ref": "wikipedia#7",
+   "ref": "wikipedia#5",
    "year": 1944,
    "text": "The Holocaust: Sonderkommando work-unit members in Auschwitz concentration camp revolted upon learning that they were due to be killed; although a few managed to escape, most were massacred on the same day.",
    "context": [
@@ -87,7 +71,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#8",
+   "ref": "wikipedia#6",
    "year": 1916,
    "text": "Georgia Tech defeated Cumberland University 222–0 in the most lopsided college football game in American history.",
    "context": [
@@ -95,7 +79,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#9",
+   "ref": "wikipedia#7",
    "year": 1914,
    "text": "Japan captured Pohnpei from Germany, eventually leading to large-scale Japanese immigration to Micronesia.",
    "context": [
@@ -103,15 +87,15 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#10",
+   "ref": "wikipedia#8",
    "year": 1914,
-   "text": "In a death that Rudolf Steiner terms a voluntary sacrifice and that inspires Edith Maryon's relief In Memory of Theo Faiss (pictured), seven-year-old Theo Faiss was crushed by an overturned horse wagon.",
+   "text": "Seven-year-old Theo Faiss, later memorialized in speeches by Rudolf Steiner and a sculpture (pictured) by Edith Maryon, was killed by an overturned wagon in Switzerland.",
    "context": [
-    "Rudolf Joseph Lorenz Steiner was an Austrian New Age guru, philosopher, occultist, social reformer, architect, esotericist, and claimed clairvoyant and speaker with the dead. Steiner gained initial recognition at the end of the nineteenth century as a literary critic and published works including The Philosophy of Freedom. At the beginning of the twentieth century he founded an esoteric spiritual movement, anthroposophy, with roots in German idealist philosophy and theosophy. His teachings are influenced by (Christian) Gnosticism or neognosticism. Many of his ideas are pseudoscientific. He was also prone to pseudohistory."
+    "Theodor Alberto Faiss was a boy whose death in Dornach, Switzerland, at the age of seven, was frequently invoked by the anthroposophist Rudolf Steiner as having spiritual significance. A well-liked child who frequently ran errands, Faiss was killed while doing so for Steiner's housekeeper when a horse-drawn wagon overturned on him. Steiner invoked Faiss's death in at least fifteen speeches and lectures thereafter, repeatedly terming it a karmically voluntary sacrifice that provided a protective spiritual sheath for the Goetheanum, the headquarters of the anthroposophical movement."
    ]
   },
   {
-   "ref": "wikipedia#11",
+   "ref": "wikipedia#9",
    "year": 1878,
    "text": "The state funeral of Mindon Min (pictured), who ruled Myanmar for 25 years, took place; his death was reportedly preceded by strange omens, and his senior princes were unable to attend as they had all been arrested.",
    "context": [
@@ -119,7 +103,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#12",
+   "ref": "wikipedia#10",
    "year": 1868,
    "text": "Ōdate, the last castle of the Satake clan in Japan's Tōhoku region, was captured during the Boshin War.",
    "context": [
@@ -127,7 +111,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#13",
+   "ref": "wikipedia#11",
    "year": 1849,
    "text": "American writer Edgar Allan Poe  died under mysterious circumstances at Washington Medical College four days after being found on the streets of Baltimore, Maryland, in a delirious and incoherent state.",
    "context": [
@@ -135,7 +119,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#14",
+   "ref": "wikipedia#12",
    "year": 1840,
    "text": "William II became King of the Netherlands after his father William I abdicated the throne.",
    "context": [
@@ -143,7 +127,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#15",
+   "ref": "wikipedia#13",
    "year": 1800,
    "text": "The French privateer Robert Surcouf led a 150-man crew to capture the 40-gun, 437-man East Indiaman Kent.",
    "context": [
@@ -151,7 +135,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#16",
+   "ref": "wikipedia#14",
    "year": 1780,
    "text": "American Revolutionary War: Patriots and Loyalist militias engaged each other at the Battle of Kings Mountain in South Carolina.",
    "context": [
@@ -159,15 +143,15 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#17",
+   "ref": "wikipedia#15",
    "year": 1763,
    "text": "King George III issued a royal proclamation that forbade British settlement of much of newly acquired French territory in North America, reserving the land for indigenous peoples.",
    "context": [
-    "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. During his reign, the Acts of Union 1800 merged Great Britain and Ireland into the United Kingdom. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover."
+    "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover."
    ]
   },
   {
-   "ref": "wikipedia#18",
+   "ref": "wikipedia#16",
    "year": 1571,
    "text": "Ottoman–Habsburg wars: The Battle of Lepanto was fought near the Gulf of Corinth, a significant setback for the Ottoman Empire and the last major naval battle fought entirely with galleys.",
    "context": [
@@ -175,7 +159,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#19",
+   "ref": "wikipedia#17",
    "year": 1513,
    "text": "War of the League of Cambrai: A Venetian army under Bartolomeo d'Alviano was decisively defeated by the Spanish army commanded by Ramón de Cardona and Fernando d'Ávalos.",
    "context": [
