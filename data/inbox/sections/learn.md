@@ -40,6 +40,14 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   },
   {
    "ref": "wikipedia#2",
+   "year": 2006,
+   "text": "Anna Politkovskaya, a Russian journalist and human-rights activist, was assassinated in the elevator of her apartment block in Moscow.",
+   "context": [
+    "Anna Stepanovna Politkovskaya was a Russian investigative journalist who reported on political and social events in Russia, in particular, the Second Chechen War (1999–2005). She was found murdered in the elevator of her apartment block in Moscow on 7 October 2006."
+   ]
+  },
+  {
+   "ref": "wikipedia#3",
    "year": 1991,
    "text": "Croatian War of Independence: The Yugoslav People's Army conducted an air strike on Banski Dvori, the official residence of the president of Croatia in Zagreb.",
    "context": [
@@ -47,7 +55,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#3",
+   "ref": "wikipedia#4",
    "year": 1988,
    "text": "Near Point Barrow in Alaska, an Iñupiat hunter discovered three gray whales trapped in pack ice, which resulted in an international effort to free them.",
    "context": [
@@ -55,7 +63,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#4",
+   "ref": "wikipedia#5",
    "year": 1985,
    "text": "About 130 people died as a result of severe floods in Puerto Rico.",
    "context": [
@@ -63,7 +71,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#5",
+   "ref": "wikipedia#6",
    "year": 1944,
    "text": "The Holocaust: Sonderkommando work-unit members in Auschwitz concentration camp revolted upon learning that they were due to be killed; although a few managed to escape, most were massacred on the same day.",
    "context": [
@@ -71,7 +79,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#6",
+   "ref": "wikipedia#7",
    "year": 1916,
    "text": "Georgia Tech defeated Cumberland University 222–0 in the most lopsided college football game in American history.",
    "context": [
@@ -79,7 +87,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#7",
+   "ref": "wikipedia#8",
    "year": 1914,
    "text": "Japan captured Pohnpei from Germany, eventually leading to large-scale Japanese immigration to Micronesia.",
    "context": [
@@ -87,7 +95,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#8",
+   "ref": "wikipedia#9",
    "year": 1914,
    "text": "Seven-year-old Theo Faiss, later memorialized in speeches by Rudolf Steiner and a sculpture (pictured) by Edith Maryon, was killed by an overturned wagon in Switzerland.",
    "context": [
@@ -95,7 +103,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#9",
+   "ref": "wikipedia#10",
    "year": 1878,
    "text": "The state funeral of Mindon Min (pictured), who ruled Myanmar for 25 years, took place; his death was reportedly preceded by strange omens, and his senior princes were unable to attend as they had all been arrested.",
    "context": [
@@ -103,7 +111,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#10",
+   "ref": "wikipedia#11",
    "year": 1868,
    "text": "Ōdate, the last castle of the Satake clan in Japan's Tōhoku region, was captured during the Boshin War.",
    "context": [
@@ -111,7 +119,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#11",
+   "ref": "wikipedia#12",
    "year": 1849,
    "text": "American writer Edgar Allan Poe  died under mysterious circumstances at Washington Medical College four days after being found on the streets of Baltimore, Maryland, in a delirious and incoherent state.",
    "context": [
@@ -119,7 +127,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#12",
+   "ref": "wikipedia#13",
    "year": 1840,
    "text": "William II became King of the Netherlands after his father William I abdicated the throne.",
    "context": [
@@ -127,7 +135,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#13",
+   "ref": "wikipedia#14",
    "year": 1800,
    "text": "The French privateer Robert Surcouf led a 150-man crew to capture the 40-gun, 437-man East Indiaman Kent.",
    "context": [
@@ -135,7 +143,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#14",
+   "ref": "wikipedia#15",
    "year": 1780,
    "text": "American Revolutionary War: Patriots and Loyalist militias engaged each other at the Battle of Kings Mountain in South Carolina.",
    "context": [
@@ -143,7 +151,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#15",
+   "ref": "wikipedia#16",
    "year": 1763,
    "text": "King George III issued a royal proclamation that forbade British settlement of much of newly acquired French territory in North America, reserving the land for indigenous peoples.",
    "context": [
@@ -151,7 +159,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#16",
+   "ref": "wikipedia#17",
    "year": 1571,
    "text": "Ottoman–Habsburg wars: The Battle of Lepanto was fought near the Gulf of Corinth, a significant setback for the Ottoman Empire and the last major naval battle fought entirely with galleys.",
    "context": [
@@ -159,7 +167,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    ]
   },
   {
-   "ref": "wikipedia#17",
+   "ref": "wikipedia#18",
    "year": 1513,
    "text": "War of the League of Cambrai: A Venetian army under Bartolomeo d'Alviano was decisively defeated by the Spanish army commanded by Ramón de Cardona and Fernando d'Ávalos.",
    "context": [
