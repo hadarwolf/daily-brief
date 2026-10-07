@@ -23,16 +23,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-07T22:30:00Z",
-     "home": "Clube do Remo",
-     "away": "Grêmio",
+     "home": "Bragantino",
+     "away": "Mirassol",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-07T22:30:00Z",
-     "home": "Bragantino",
-     "away": "Mirassol",
+     "home": "Clube do Remo",
+     "away": "Grêmio",
      "status": "TIMED",
      "score": null
     },
@@ -549,153 +549,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Lionel Messi slams 'strange' World Cup final conspiracy theories and confirms Argentina retirement in emotional farewell - Goal.com",
+     "published": "2026-10-07T09:12:06+00:00",
+     "summary": "Lionel Messi slams 'strange' World Cup final conspiracy theories and confirms Argentina retirement in emotional farewell Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "Value for money? MLS warned off Neymar’s planned ‘MSN’ reunion with Lionel Messi & Luis Suarez at Inter Miami as ‘Father Time’ catches up with Brazilian superstar - Yardbarker",
+     "published": "2026-10-07T09:05:08+00:00",
+     "summary": "Value for money? MLS warned off Neymar’s planned ‘MSN’ reunion with Lionel Messi & Luis Suarez at Inter Miami as ‘Father Time’ catches up with Brazilian superstar Yardbarker"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "Lionel Messi's Inter Miami teammate Luis Suarez sends message as Argentina star retires from international football - Sportskeeda",
      "published": "2026-10-07T08:35:00+00:00",
      "summary": "Lionel Messi's Inter Miami teammate Luis Suarez sends message as Argentina star retires from international football Sportskeeda"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#3",
      "title": "Messi makes final promise to fans as he retires from Argentina - Daily Post Nigeria",
      "published": "2026-10-07T07:26:13+00:00",
      "summary": "Messi makes final promise to fans as he retires from Argentina Daily Post Nigeria"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
      "title": "Lionel Messi scores and assists in last Argentina game - The Times",
      "published": "2026-10-07T06:45:00+00:00",
      "summary": "Lionel Messi scores and assists in last Argentina game The Times"
     },
     {
-     "ref": "gnews_inter_miami#3",
-     "title": "Everton must reignite deal for 'mini-Messi', he could revolutionise David Moyes' attack - Yahoo Sports",
-     "published": "2026-10-07T06:40:00+00:00",
-     "summary": "Everton must reignite deal for 'mini-Messi', he could revolutionise David Moyes' attack Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
      "published": "2026-10-07T06:20:34+00:00",
      "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "After the final dance: Messi opens the vaults of his secret empire - Goal.com",
      "published": "2026-10-07T05:57:43+00:00",
      "summary": "After the final dance: Messi opens the vaults of his secret empire Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Messi bids farewell to Argentina with 1 goal and 2 assists - CHOSUNBIZ - Chosunbiz",
      "published": "2026-10-07T05:20:00+00:00",
      "summary": "Messi bids farewell to Argentina with 1 goal and 2 assists - CHOSUNBIZ Chosunbiz"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Lionel Messi Scores and Assists as Argentina Beat Benin 3-0 in Emotional Farewell - The Trumpet Newspaper Nigeria",
      "published": "2026-10-07T04:53:54+00:00",
      "summary": "Lionel Messi Scores and Assists as Argentina Beat Benin 3-0 in Emotional Farewell The Trumpet Newspaper Nigeria"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Lionel Messi goes out a legend in Argentina farewell - MLSsoccer.com",
      "published": "2026-10-07T02:59:12+00:00",
      "summary": "Lionel Messi goes out a legend in Argentina farewell MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Lionel Messi scores in final Argentina appearance as Inter Miami star bows out from international football - GB News",
      "published": "2026-10-07T02:40:51+00:00",
      "summary": "Lionel Messi scores in final Argentina appearance as Inter Miami star bows out from international football GB News"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Teary Messi admits ‘deeply painful’ retirement reality as icon signs off with flurry of tributes - Fox Sports",
      "published": "2026-10-07T02:38:00+00:00",
      "summary": "Teary Messi admits ‘deeply painful’ retirement reality as icon signs off with flurry of tributes Fox Sports"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Messi speaks of ‘painful’ retirement after Argentina farewell - The Malaysian Reserve",
      "published": "2026-10-07T02:33:15+00:00",
      "summary": "Messi speaks of ‘painful’ retirement after Argentina farewell The Malaysian Reserve"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Leo Messi Stars in Final International Appearance as Argentina Secures 3-0 Victory Over Benin - Inter Miami CF",
      "published": "2026-10-07T01:55:03+00:00",
      "summary": "Leo Messi Stars in Final International Appearance as Argentina Secures 3-0 Victory Over Benin Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Argentina bids Messi farewell in final national team match, ending an era - Arab News",
      "published": "2026-10-07T01:52:47+00:00",
      "summary": "Argentina bids Messi farewell in final national team match, ending an era Arab News"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Messi scores and assists twice as Argentina beats Benin in star's farewell - NBC 6 South Florida",
      "published": "2026-10-07T01:32:23+00:00",
      "summary": "Messi scores and assists twice as Argentina beats Benin in star's farewell NBC 6 South Florida"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "What's next for Messi after Argentina retirement? His career is not over yet - NBC 6 South Florida",
      "published": "2026-10-07T01:28:48+00:00",
      "summary": "What's next for Messi after Argentina retirement? His career is not over yet NBC 6 South Florida"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami Face Must-Win Test Against One of MLS’s Lowest-Spending Teams - Pasión Fútbol",
      "published": "2026-10-07T00:58:22+00:00",
      "summary": "Inter Miami Face Must-Win Test Against One of MLS’s Lowest-Spending Teams Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Lionel Messi’s New Chapter Begins With Four Trophies to Chase at Inter Miami - Pasión Fútbol",
      "published": "2026-10-07T00:43:29+00:00",
      "summary": "Lionel Messi’s New Chapter Begins With Four Trophies to Chase at Inter Miami Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami Youngster Lovends Delinois Makes Haiti Debut in Concacaf Nations League - Pasión Fútbol",
      "published": "2026-10-06T22:59:50+00:00",
      "summary": "Inter Miami Youngster Lovends Delinois Makes Haiti Debut in Concacaf Nations League Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Lionel Messi's Wife Antonela Roccuzzo's Personal Life: Social Media Outburst, Suzy Cortez Ban Claim & Career - Athlon Sports",
      "published": "2026-10-06T22:34:00+00:00",
      "summary": "Lionel Messi's Wife Antonela Roccuzzo's Personal Life: Social Media Outburst, Suzy Cortez Ban Claim & Career Athlon Sports"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Inter Miami Teen Fricio Caicedo Makes Strong Case With Ecuador as Marcelo Gallardo Raises the Bar - Pasión Fútbol",
      "published": "2026-10-06T22:10:00+00:00",
      "summary": "Inter Miami Teen Fricio Caicedo Makes Strong Case With Ecuador as Marcelo Gallardo Raises the Bar Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi’s Kids: All you need to know about the Argentine legend’s three children - Gulf News",
      "published": "2026-10-06T22:00:00+00:00",
      "summary": "Lionel Messi’s Kids: All you need to know about the Argentine legend’s three children Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Is Lionel Messi Retiring From Inter Miami After His Argentina Farewell? - Yahoo Sports",
      "published": "2026-10-06T21:35:40+00:00",
      "summary": "Is Lionel Messi Retiring From Inter Miami After His Argentina Farewell? Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Is Rodrigo De Paul Also Retiring After Lionel Messi’s Argentina Farewell Game Against Benin? - Athlon Sports",
      "published": "2026-10-06T21:16:00+00:00",
      "summary": "Is Rodrigo De Paul Also Retiring After Lionel Messi’s Argentina Farewell Game Against Benin? Athlon Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Luis Suarez Sends Farewell Message to Lionel Messi Ahead of Final Match - SuaraGarut.ID",
-     "published": "2026-10-06T21:00:00+00:00",
-     "summary": "Luis Suarez Sends Farewell Message to Lionel Messi Ahead of Final Match SuaraGarut.ID"
     }
    ]
   },
