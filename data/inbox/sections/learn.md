@@ -91,7 +91,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1952,
    "text": "Three trains collided (aftermath pictured) at Harrow & Wealdstone station in London, killing 112 people and injuring 340 others.",
    "context": [
-    "The Harrow and Wealdstone rail crash was a three-train collision at Harrow and Wealdstone station in Wealdstone, Middlesex during the morning rush hour of 8 October 1952. The crash resulted in 112 deaths and 340 injuries, 88 of these being detained in hospital. It remains the worst peacetime rail crash in British history and the second deadliest overall after the Quintinshill rail disaster of 1915."
+    "The Harrow and Wealdstone rail crash was a three-train collision at Harrow and Wealdstone station in Wealdstone, Middlesex during the morning 8 October 1952. The crash resulted in 112 deaths and 340 injuries, 88 of these being detained in hospital. It remains the worst peacetime rail crash in British history and the second deadliest overall after the Quintinshill rail disaster of 1915."
    ]
   },
   {
