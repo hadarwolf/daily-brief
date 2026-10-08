@@ -1,0 +1,106 @@
+{
+  "section": "business",
+  "date": "2026-10-08",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-08T04:13:02+00:00",
+  "stories": [
+    {
+      "id": "ai-chip-boom-valuation-test",
+      "kind": "analysis",
+      "en": {
+        "headline": "Samsung's Record Profit Puts the AI Chip Boom's Valuations to the Test",
+        "scroll": "Samsung's profit jumped ninefold to $80bn on AI chip demand, proving memory-chip earnings are real — but chipmakers still must justify trillion-dollar valuations as supply rises and China catches up.",
+        "coffee": "Samsung Electronics, the world's largest memory-chip maker, posted record quarterly earnings for July-September, with profit surging roughly ninefold to about $80 billion, driven by demand for AI chips. The result is the clearest sign yet that the artificial-intelligence buildout is translating into real, not just hoped-for, profits for the companies that supply its physical infrastructure.\n\nMemory chips (DRAM, and the high-bandwidth memory used in AI accelerators) behave like a commodity whose price swings hard with supply and demand: a shortage lets producers charge far more for the same chip. That dynamic is feeding related moves elsewhere: Kioxia shares jumped on hopes of roughly $12.7bn of passive inflows after an index-weighting increase on Japan's Topix, while China's AI data-center buildout in regions like Inner Mongolia keeps adding to demand.\n\nThe open question, as one markets analysis frames it, is whether chip stocks can keep justifying trillion-dollar valuations once supply catches up and Chinese competition intensifies — especially with US tech valuations already under pressure from rising bond yields, which make future profits worth less today even as the S&P 500 keeps hitting records on the strength of a handful of AI names.",
+        "deep": "## The record quarter\n\nSamsung Electronics, the world's largest memory-chip maker, reported record earnings for the July-to-September quarter: profit surged roughly ninefold to about $80 billion, driven by demand for AI chips. The result is the clearest sign yet that the artificial intelligence buildout is generating real profits, not just promises, for the firms that supply its physical infrastructure.\n\nIt matters that this comes from a memory-chip maker specifically, not just a chip designer like Nvidia. Memory has historically been the most cyclical, lowest-margin part of the semiconductor industry — the part that suffers most in downturns. A record quarter here signals that AI demand has spread well beyond the specialized processors (GPUs) that get most of the attention, into the broader supply chain that surrounds them.\n\n## Why memory chips swing so hard\n\nMemory chips — DRAM for general computing, and the high-bandwidth memory (HBM) built specifically for AI accelerators — are close to a commodity: largely interchangeable products made by a small number of producers. Commodity economics means price is set by the balance of supply and demand rather than by brand or features. When demand from AI data centers grows faster than the industry can add fabrication capacity — which takes years and billions of dollars — prices and margins can move dramatically in producers' favor. That dynamic, more than any single product breakthrough, is the simplest explanation for why Samsung's profit multiplied rather than merely grew this quarter.\n\n## It is not only Samsung\n\nEvidence that this is an industry-wide shift, not a company-specific story, keeps surfacing elsewhere. In Japan, Kioxia Holdings' shares rose as much as 4.1% on hopes that roughly $12.7 billion (¥2 trillion) in passive inflows will follow an increase in its weighting on the Topix benchmark index. Passive inflows are money that flows automatically into a stock because index-tracking funds must hold it in proportion to its index weight — a mechanical effect, separate from the company's own results, that can still move the share price substantially.\n\nBehind the chip demand sits a continuing physical buildout of AI infrastructure. Reporting on China's AI expansion describes Inner Mongolia becoming an \"engine room\" for the country's data-center ambitions, drawing on the region's cheap, abundant energy. Every new data center needs memory chips, which is part of why demand has stayed strong even as other parts of markets wobble.\n\n## The trillion-dollar question\n\nNone of this settles the harder question investors are now asking. A markets analysis on chip stocks argues that AI demand is spreading from processors into memory as well, but frames the key test as whether these profits hold up once manufacturers expand supply and Chinese competitors close the technology gap. That is standard commodity-cycle logic: today's shortage-driven profits attract new investment and capacity, and new capacity eventually erodes the pricing power that produced the record quarter in the first place. A company earning a fortune today is not automatically a company that can defend that advantage — its economic moat — for years to come, and chip stocks are currently priced as if many of them can.\n\n## Second-order effects: rates and leverage\n\nThe valuation test is sharper now because the macro backdrop has turned less forgiving. Rising long-term bond yields make future profits worth less in today's terms, because investors discount distant cash flows more heavily when safe assets pay more — and this is already compressing the premium multiples that high-flying tech and chip stocks had enjoyed, even as the S&P 500 keeps hitting records almost entirely on the strength of a handful of AI-linked names.\n\nThere is also a credit dimension worth watching. Reporting that SpaceX is seeking to raise roughly $40 billion, partly to buy Nvidia chips, coincided with a jump in the cost of insuring its debt against default (tracked through credit default swaps). That is a signal that markets are starting to price in the risk of AI infrastructure being built on borrowed money rather than only on reinvested profit. When chip demand is funded by debt rather than cash earnings, a slowdown in AI spending would hit both the chip supply chain and the lenders behind it.\n\n## What to watch next\n\nThree things will show whether this boom is durable rather than a cyclical spike: whether chipmakers' margins hold up as new fabrication capacity comes online over the next year or two; whether Chinese producers narrow the technology gap faster than expected, intensifying price competition; and whether bond yields keep rising enough to force a broader re-rating of AI-linked valuations across markets. Samsung's quarter is proof the underlying demand is real. It is not yet proof that the pricing power behind it — or the valuations built on it — will last."
+      },
+      "he": {
+        "headline": "הרווח השיא של סמסונג מעמיד למבחן את תמחור שבבי ה-AI",
+        "scroll": "הרווח של סמסונג זינק פי תשע לכ-80 מיליארד דולר בזכות הביקוש לשבבי AI, הוכחה שהבום אמיתי — אבל יצרני השבבים עדיין צריכים להצדיק שווי של טריליון דולר כשההיצע עולה וסין מתקרבת.",
+        "coffee": "סמסונג אלקטרוניקס, יצרנית שבבי הזיכרון הגדולה בעולם, פרסמה את הרבעון הטוב בתולדותיה: הרווח לרבעון יולי–ספטמבר זינק בכ-פי תשע לכ-80 מיליארד דולר, בדחיפת הביקוש לשבבי בינה מלאכותית (AI). התוצאה היא העדות הברורה ביותר עד כה לכך שגל ההשקעות בתשתיות AI מתורגם לרווחים ממשיים, ולא רק לציפיות, עבור החברות שמספקות את התשתית הפיזית שמאחורי הטכנולוגיה.\n\nשבבי זיכרון (DRAM, וכן זיכרון רוחב-פס גבוה — HBM — המשמש במאיצי AI) מתנהגים כמו מוצר סחורתי (commodity) שמחירו קופץ בחדות לפי מאזן ההיצע והביקוש: מחסור מאפשר ליצרנים לגבות הרבה יותר על אותו שבב בדיוק. באותו הקשר, מניית קיוקסיה היפנית זינקה על ציפיות לזרימה פאסיבית (passive inflow) של כ-12.7 מיליארד דולר בעקבות הגדלת משקלה במדד טופיקס, ובניית מרכזי הנתונים הסיניים לבינה מלאכותית, למשל במונגוליה הפנימית, ממשיכה להוסיף ביקוש.\n\nהשאלה הפתוחה, כפי שמנתח שוק אחד מציג זאת, היא אם מניות השבבים יוכלו להמשיך ולהצדיק שווי של טריליון דולר כשההיצע ישלים את הפער והתחרות הסינית תתגבר — במיוחד כשתמחור מניות הטכנולוגיה האמריקאיות כבר נמצא בלחץ מעליית תשואות האג\"ח, שמוזילה את השווי הנוכחי של רווחים עתידיים, גם כשמדד S&P 500 ממשיך לשבור שיאים בזכות קבוצה קטנה של מניות AI.",
+        "deep": "## הרבעון השיא\n\nסמסונג אלקטרוניקס, יצרנית שבבי הזיכרון הגדולה בעולם, פרסמה את הרבעון החזק בתולדותיה: הרווח ברבעון יולי–ספטמבר זינק בכ-פי תשע לכ-80 מיליארד דולר, בהנעת הביקוש לשבבי בינה מלאכותית (AI). התוצאה היא העדות הברורה ביותר עד כה לכך שגל ההשקעות בתשתיות AI מתורגם לרווחים אמיתיים, ולא רק להבטחות, עבור החברות שמספקות את התשתית הפיזית שמאחורי הטכנולוגיה.\n\nחשוב שהנתון הזה מגיע מיצרנית שבבי זיכרון, ולא רק מחברה שמעצבת שבבים כמו אנבידיה. זיכרון היה היסטורית החלק המחזורי והרווחי-פחות בתעשיית המוליכים למחצה — החלק שסובל הכי הרבה במשברים. רבעון שיא כאן מסמן שהביקוש ל-AI התפשט הרבה מעבר למעבדים הגרפיים (GPU) שמקבלים את רוב תשומת הלב, אל שאר שרשרת האספקה שמסביבם.\n\n## למה שבבי זיכרון קופצים כך בחדות\n\nשבבי זיכרון — DRAM למחשוב כללי, וזיכרון רוחב-פס גבוה (HBM) שמיועד ספציפית למאיצי AI — קרובים להיות מוצר סחורתי (commodity): מוצרים ברובם זהים, שמיוצרים על ידי מספר קטן של יצרנים. כלכלת סחורות פירושה שהמחיר נקבע לפי מאזן ההיצע והביקוש, ולא לפי מותג או תכונות. כשהביקוש ממרכזי הנתונים של AI גדל מהר יותר מיכולת התעשייה להרחיב כושר ייצור — תהליך שאורך שנים ועולה מיליארדי דולרים — המחירים והרווחיות יכולים לזוז בחדות לטובת היצרנים. הדינמיקה הזאת, יותר מכל פריצת דרך במוצר בודד, היא ההסבר הפשוט ביותר לכך שהרווח של סמסונג הוכפל כמה וכמה פעמים ולא רק גדל ברבעון הזה.\n\n## זה לא רק סמסונג\n\nעדות לכך שזו תזוזה כלל-ענפית ולא סיפור של חברה בודדת ממשיכה לצוף גם במקומות אחרים. ביפן, מניית קיוקסיה הולדינגס עלתה בעד 4.1% על ציפיות לכך שזרימה פאסיבית (passive inflow) של כ-12.7 מיליארד דולר (2 טריליון ין) תיכנס למניה בעקבות הגדלת משקלה במדד הייחוס טופיקס. זרימה פאסיבית היא כסף שנכנס אוטומטית למניה כי קרנות עוקבות מדד מחויבות להחזיק בה ביחס למשקלה במדד — אפקט מכני, בלי קשר לתוצאות החברה עצמה, שיכול בכל זאת להזיז את המחיר באופן משמעותי.\n\nמאחורי הביקוש לשבבים עומדת בנייה פיזית מתמשכת של תשתיות AI. דיווחים על ההתרחבות הסינית בתחום מתארים את מונגוליה הפנימית כהופכת ל\\\"חדר מכונות\\\" לשאיפות ה-AI של המדינה, בזכות אנרגיה זמינה וזולה באזור. כל מרכז נתונים חדש צריך שבבי זיכרון, וזה חלק מהסיבה שהביקוש נשאר חזק גם כשחלקים אחרים בשווקים מתנדנדים.\n\n## שאלת הטריליון דולר\n\nכל זה לא פותר את השאלה הקשה יותר שמשקיעים שואלים כעת. ניתוח שוק על מניות השבבים טוען שהביקוש ל-AI מתפשט מהמעבדים גם לזיכרון, אבל מסגר את המבחן המרכזי כך: האם הרווחים האלה יישארו כשהיצרנים ירחיבו את ההיצע והתחרות הסינית תסגור את הפער הטכנולוגי. זו לוגיקה קלאסית של מעגל סחורות (commodity cycle): הרווחים שנובעים מהמחסור של היום מושכים השקעות וכושר ייצור חדשים, וכושר ייצור חדש בסופו של דבר שוחק את כוח התמחור שיצר את הרבעון השיא מלכתחילה. חברה שמרוויחה הון עתק היום אינה בהכרח חברה שתוכל להגן על היתרון הזה — על החפיר הכלכלי (economic moat) שלה — לאורך שנים, ומניות השבבים מתומחרות כיום כאילו רבות מהן יכולות.\n\n## השפעות מסדר שני: ריבית ומינוף\n\nמבחן התמחור חד יותר כעת כי התנאים המאקרו-כלכליים הפכו פחות סלחניים. עליית תשואות האג\"ח לטווח ארוך מוזילה את השווי הנוכחי של רווחים עתידיים, כי משקיעים מנכים תזרימי מזומנים עתידיים בשיעור גבוה יותר כשנכסים סולידיים משלמים יותר — וזה כבר מכביד על מכפילי הרווח (valuation multiples) הגבוהים שנהנו מהם מניות הטכנולוגיה והשבבים, גם כשמדד S&P 500 ממשיך לשבור שיאים, בעיקר בזכות קבוצה קטנה של מניות הקשורות ל-AI.\n\nיש גם היבט אשראי שכדאי לעקוב אחריו. דיווח שלפיו ספייסX מנסה לגייס כ-40 מיליארד דולר, בין היתר כדי לקנות שבבי אנבידיה, חפף עם עלייה בעלות הביטוח מפני כשל פירעון של החוב שלה (נמדדת באמצעות חוזי credit default swap). זה סימן לכך שהשווקים מתחילים לתמחר את הסיכון שתשתיות ה-AI נבנות על כסף מלווה ולא רק על רווחים ממומנים מחדש. כשהביקוש לשבבים ממומן בחוב ולא ברווחים שוטפים, האטה בהוצאות ה-AI תפגע גם בשרשרת האספקה של השבבים וגם בגופים שמימנו אותה.\n\n## מה לעקוב אחריו הלאה\n\nשלושה דברים יראו אם הבום הזה הוא מתמשך ולא קפיצה מחזורית חולפת: האם הרווחיות של יצרני השבבים תישמר כשכושר ייצור חדש יעלה לאוויר בשנה–שנתיים הקרובות; האם היצרנים הסיניים יסגרו את הפער הטכנולוגי מהר מהצפוי ויחריפו את התחרות על מחירים; והאם תשואות האג\"ח יימשיכו לעלות מספיק כדי להכריח תמחור מחדש (re-rating) רחב יותר של נכסים הקשורים ל-AI בשווקים. הרבעון של סמסונג הוא הוכחה שהביקוש הבסיסי אמיתי. הוא עדיין לא הוכחה שכוח התמחור מאחוריו — או התמחור שנבנה עליו — יחזיק מעמד."
+      },
+      "tags": [
+        "ai-chips",
+        "semiconductors",
+        "valuation",
+        "earnings"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Samsung profit surges ninefold to $80bn on AI chip demand",
+          "url": "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "China races to build AI data centres across energy-rich hinterland",
+          "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "SpaceX credit risk jumps on worries over its borrowing spree",
+          "url": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מניות השבבים יצטרכו להצדיק שווי של טריליון דולר גם כשהמחסור יקטן",
+          "url": "https://www.themarker.com/agents/2026-10-08/ty-article/000001a1-173e-dbd6-a5a5-9fff07590000"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Kioxia Shares Up on $13 Billion Inflow Hope After JPX Review",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-07/kioxia-s-weighting-on-topix-index-to-rise-after-jpx-review"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Rising Rates Are Eroding the Value of Even the Most High-Flying Tech Stocks",
+          "url": "https://www.wsj.com/finance/stocks/rising-rates-are-eroding-the-value-of-even-the-most-high-flying-tech-stocks-fb420a5e?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else",
+          "url": "https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4096.4502,
+      "prev_close": 4198.8101,
+      "change_pct": -2.44,
+      "as_of": "2026-10-07"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7801.77,
+      "prev_close": 7818.9302,
+      "change_pct": -0.22,
+      "as_of": "2026-10-07"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0674,
+      "prev_close": 3.0437,
+      "change_pct": 0.78,
+      "as_of": "2026-10-08"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 102.17,
+      "prev_close": 100.58,
+      "change_pct": 1.58,
+      "as_of": "2026-10-07"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 82805.1562,
+      "prev_close": 85557.5625,
+      "change_pct": -3.22,
+      "as_of": "2026-10-08"
+    }
+  }
+}

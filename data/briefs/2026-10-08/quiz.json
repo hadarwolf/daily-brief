@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-08",
+  "questions": [
+    {
+      "id": "quiz-geopolitics-nato-hybrid-war",
+      "section": "geopolitics",
+      "story_id": "russia-hybrid-war-nato",
+      "answer_index": 0,
+      "en": {
+        "question": "According to Julianne Smith's Foreign Affairs essay, what is the core problem with NATO's response to Russia's hybrid war?",
+        "options": [
+          "NATO is still using an outdated playbook that can't keep up with Russia's escalating sabotage, cyberattacks and pressure campaigns",
+          "NATO members can't agree on how much money to send to Ukraine",
+          "NATO has launched its own cyberattacks against Russia, which has backfired diplomatically",
+          "NATO has formally suspended Article 5 while it reviews its strategy"
+        ],
+        "explanation": "Smith argues Russia's hybrid war is escalating quickly while NATO still relies on an \"outdated playbook,\" letting Putin chip away at Western support for Ukraine and trust in Article 5."
+      },
+      "he": {
+        "question": "לפי המאמר של ג'וליאן סמית' ב-Foreign Affairs, מה הבעיה המרכזית בתגובת נאט\"ו למלחמה ההיברידית של רוסיה?",
+        "options": [
+          "נאט\"ו עדיין נשען על ספר משחקים מיושן שלא מצליח להתמודד עם החבלה, מתקפות הסייבר ומערכות הלחץ הרוסיות המחריפות",
+          "חברות נאט\"ו לא מצליחות להסכים כמה כסף להעביר לאוקראינה",
+          "נאט\"ו יזם מתקפות סייבר משל עצמו נגד רוסיה, מה שפגע בה דיפלומטית",
+          "נאט\"ו השעה רשמית את סעיף 5 בזמן שהוא בוחן את האסטרטגיה שלו"
+        ],
+        "explanation": "סמית' טוענת שהמלחמה ההיברידית של רוסיה מחריפה במהירות בזמן שנאט\"ו עדיין נשען על \"ספר משחקים מיושן\", מה שמאפשר לפוטין לשחוק את התמיכה המערבית באוקראינה ואת האמון בסעיף 5."
+      }
+    },
+    {
+      "id": "quiz-business-samsung-ai-chips",
+      "section": "business",
+      "story_id": "ai-chip-boom-valuation-test",
+      "answer_index": 0,
+      "en": {
+        "question": "What mainly drove Samsung's record quarterly profit, which surged roughly ninefold to about $80 billion?",
+        "options": [
+          "Surging demand for memory chips used in AI accelerators",
+          "A one-time tax rebate from the South Korean government",
+          "The sale of its smartphone division",
+          "A recovery in global smartphone sales"
+        ],
+        "explanation": "Samsung's profit jump was driven by demand for AI chips, with memory-chip prices (DRAM and high-bandwidth memory) rising sharply as AI infrastructure demand outpaces supply."
+      },
+      "he": {
+        "question": "מה הניב בעיקר את רווח השיא הרבעוני של סמסונג, שזינק בכ-פי תשע לכ-80 מיליארד דולר?",
+        "options": [
+          "ביקוש מתפרץ לשבבי זיכרון המשמשים במאיצי בינה מלאכותית (AI)",
+          "החזר מס חד-פעמי מממשלת קוריאה הדרומית",
+          "מכירת חברת הסמארטפונים של סמסונג",
+          "התאוששות במכירות הסמארטפונים העולמיות"
+        ],
+        "explanation": "זינוק הרווח של סמסונג נבע מהביקוש לשבבי AI, כאשר מחירי שבבי הזיכרון (DRAM וזיכרון רוחב-פס גבוה) עלו בחדות כשההיצע לא מצליח לדביק את קצב הביקוש לתשתיות AI."
+      }
+    },
+    {
+      "id": "quiz-ideas-self-taught-learners",
+      "section": "ideas",
+      "story_id": "self-taught-learners-need-community",
+      "answer_index": 0,
+      "en": {
+        "question": "What is the central claim of Celine Nguyen's essay about self-directed learning?",
+        "options": [
+          "Self-directed learning works best as a social practice within a community of peers, not as a solitary pursuit",
+          "A formal university degree is the only reliable path to deep learning",
+          "Online lecture videos are the most effective way to teach yourself a new subject",
+          "Working-class autodidacts in history mostly failed because they had no access to teachers"
+        ],
+        "explanation": "Nguyen argues, using historical, theoretical and pedagogical evidence, that learning happens best in community rather than alone, and that a degree is only the start of an intellectual life."
+      },
+      "he": {
+        "question": "מה הטענה המרכזית במאמר של סלין נגוין על למידה עצמאית?",
+        "options": [
+          "למידה עצמאית עובדת הכי טוב כפעולה חברתית בתוך קהילת עמיתים, לא כמאמץ יחידני",
+          "תואר אקדמי פורמלי הוא הדרך האמינה היחידה ללמידה מעמיקה",
+          "סרטוני הרצאות מקוונים הם הדרך האפקטיבית ביותר ללמד את עצמך נושא חדש",
+          "לומדים עצמאיים ממעמד הפועלים בהיסטוריה נכשלו בעיקר כי לא היתה להם גישה למורים"
+        ],
+        "explanation": "נגוין טוענת, באמצעות ראיות היסטוריות, תאורטיות ופדגוגיות, שלמידה מתרחשת בצורה הטובה ביותר בתוך קהילה ולא ביחידות, ושתואר פורמלי הוא רק תחילתם של חיים אינטלקטואליים."
+      }
+    }
+  ]
+}
