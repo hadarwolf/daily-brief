@@ -418,15 +418,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Clubs fear political interference in Man City appeal",
-     "published": "2026-10-08T09:16:56+00:00",
-     "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments."
+     "title": "Afcon final to play out in court - when will Morocco or Senegal be crowned champions?",
+     "published": "2026-10-08T09:53:33+00:00",
+     "summary": "The Court of Arbitration for Sport is set to rule on the decision to strip Senegal of their Afcon 2025 title. But fans should not expect an immediate verdict."
     },
     {
      "ref": "bbc_football#1",
-     "title": "Toone comes into England squad as Bronze withdraws",
-     "published": "2026-10-08T09:04:00+00:00",
-     "summary": "Manchester United midfielder Ella Toone receives a late England call-up for this month's World Cup play-off games against Greece."
+     "title": "Clubs fear political interference in Man City appeal",
+     "published": "2026-10-08T09:16:56+00:00",
+     "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments."
     },
     {
      "ref": "bbc_football#2",
@@ -436,27 +436,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#3",
+     "title": "Toone comes into England squad as Bronze withdraws",
+     "published": "2026-10-08T09:04:00+00:00",
+     "summary": "Manchester United midfielder Ella Toone receives a late England call-up for this month's World Cup play-off games against Greece."
+    },
+    {
+     "ref": "bbc_football#4",
      "title": "What Guardiola said about Man City charges",
      "published": "2026-10-08T08:20:13+00:00",
      "summary": "BBC Sport examines Pep Guardiola's comments about the Manchester City financial rule-breaking case during his time managing the club."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "SPFL pays out close to £50m in record year",
      "published": "2026-10-08T08:00:06+00:00",
      "summary": "The Scottish Professional Football League (SPFL) pays clubs a record £49.6m in the past year."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Working with Iraola, car clauses and hope - the Liverpool academy approach",
      "published": "2026-10-08T07:04:50+00:00",
      "summary": "Liverpool academy director Alex Inglethorpe talks to BBC Sport about the value and future of Liverpool's academy."
-    },
-    {
-     "ref": "bbc_football#6",
-     "title": "How can home nations reach Women's World Cup?",
-     "published": "2026-10-08T07:01:10+00:00",
-     "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are among those hoping to qualify for next year's Women's World Cup. What awaits them in the play-offs?"
     },
     {
      "ref": "bbc_football#7",
@@ -466,105 +466,105 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#8",
+     "title": "How can home nations reach Women's World Cup?",
+     "published": "2026-10-08T07:01:10+00:00",
+     "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are among those hoping to qualify for next year's Women's World Cup. What awaits them in the play-offs?"
+    },
+    {
+     "ref": "bbc_football#9",
+     "title": "Previously on the SPFL... your Premiership crib sheet",
+     "published": "2026-10-08T07:00:00+00:00",
+     "summary": "It's back to the day job and back to the SPFL: your guide to the season so far."
+    },
+    {
+     "ref": "bbc_football#10",
      "title": "How early-season data signals Scottish Premiership style shift",
      "published": "2026-10-08T06:52:49+00:00",
      "summary": "Underlying numbers from the start of the Scottish Premiership season suggest a refreshed approach could be taking hold across the league."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#11",
      "title": "Why early-season data points to Premiership style shift",
      "published": "2026-10-08T06:52:49+00:00",
      "summary": "Underlying numbers from the start of the Scottish Premiership season suggest a refreshed approach could be taking hold across the league."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#12",
      "title": "Celtic-linked manager considers options - gossip",
      "published": "2026-10-08T06:24:49+00:00",
      "summary": "Manager linked with Celtic takes time to consider future and Aberdeen defender will not be rushed back."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Who am I? Guess Premier League star No 80",
      "published": "2026-10-08T06:05:33+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "Inside the £1-an-hour official football shirt factories",
      "published": "2026-10-08T05:48:17+00:00",
      "summary": "A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers are paid less than £1 an hour."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Rice close to agreeing new Arsenal deal",
      "published": "2026-10-07T22:21:44+00:00",
      "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Euro Leagues: Ronaldo's fallout with Jorge Jesus & is Zidane making his mark?",
      "published": "2026-10-07T21:49:00+00:00",
-     "summary": "Is Ronaldo's behaviour a surprise? And what've we learnt from Zidane's start?"
+     "summary": "As Messi says farewell to international football, is Ronaldo's time coming?"
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "Man Utd and Liverpool eye Truffert - Thursday's gossip",
      "published": "2026-10-07T20:56:06+00:00",
      "summary": "Manchester United and Liverpool eye Adrien Truffert, Tyler Morton is wanted by Newcastle and Martin Odegaard is set to sign a new Arsenal deal."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Two icons, a glorious farewell and a potentially bitter ending",
      "published": "2026-10-07T20:47:17+00:00",
      "summary": "As Lionel Messi's international career ends in fond farewell, Cristiano Ronaldo's is at risk of petering out. BBC Sport takes a look at what could be the end of the international career's of two football greats."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "'Amazing' Kane targets 100 international goals",
      "published": "2026-10-07T20:31:17+00:00",
      "summary": "Striker Harry Kane says he could reach 100 goals for England after equalling his country's appearance record of 125, drawing praise from team-mates Morgan Rogers and Jude Bellingham."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#20",
      "title": "Guardiola set to attend Man City's first home game since guilty verdict",
      "published": "2026-10-07T20:14:24+00:00",
      "summary": "Pep Guardiola managed Manchester City for a decade, leaving in the summer, and has backed the club's owners since the verdict."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "All done deals in September & October 2026",
      "published": "2026-10-07T19:45:58+00:00",
      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League."
     },
     {
-     "ref": "bbc_football#20",
-     "title": "McTominay resumes Napoli training after surgery",
-     "published": "2026-10-07T19:31:04+00:00",
-     "summary": "Scotland midfielder Scott McTominay returns to training at Napoli following his recent heart surgery."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "McTominay resumes Napoli training after surgery",
-     "published": "2026-10-07T19:31:04+00:00",
-     "summary": "Scotland midfielder Scott McTominay returns to training at Napoli following his recent heart surgery."
-    },
-    {
      "ref": "bbc_football#22",
-     "title": "Football Daily",
-     "published": "2026-10-07T19:30:00+00:00",
-     "summary": "John Bennett is joined by Adam Blackmore and Jobi McAnuff to react to the Spygate verdict"
+     "title": "McTominay resumes Napoli training after surgery",
+     "published": "2026-10-07T19:31:04+00:00",
+     "summary": "Scotland midfielder Scott McTominay returns to training at Napoli following his recent heart surgery."
     },
     {
      "ref": "bbc_football#23",
-     "title": "Ex-Spurs player Vega set to run for Fifa president",
-     "published": "2026-10-07T19:24:19+00:00",
-     "summary": "Former Tottenham defender Ramon Vega says he intends to run in next year's Fifa presidential election - becoming the first person to confirm they want to challenge Gianni Infantino."
+     "title": "McTominay resumes Napoli training after surgery",
+     "published": "2026-10-07T19:31:04+00:00",
+     "summary": "Scotland midfielder Scott McTominay returns to training at Napoli following his recent heart surgery."
     },
     {
      "ref": "bbc_football#24",
-     "title": "Wales winger Matondo joins Hibernian",
-     "published": "2026-10-07T19:11:26+00:00",
-     "summary": "Former Rangers winger Rabbi Matondo joins Hibernian on a deal until the end of the season, with the option of a further year."
+     "title": "Football Daily",
+     "published": "2026-10-07T19:30:00+00:00",
+     "summary": "John Bennett is joined by Adam Blackmore and Jobi McAnuff to react to the Spygate verdict"
     }
    ]
   },
@@ -586,21 +586,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "VIDEO: Lionel Messi receives BIZARRE retirement gift from referee in emotional Argentina farewell against Benin - Goal.com",
-     "published": "2026-10-08T06:50:12+00:00",
-     "summary": "VIDEO: Lionel Messi receives BIZARRE retirement gift from referee in emotional Argentina farewell against Benin Goal.com"
+     "title": "Beyond 2028: Is Inter Miami planning a brand-new role for Messi? - Tribuna.com",
+     "published": "2026-10-08T07:05:00+00:00",
+     "summary": "Beyond 2028: Is Inter Miami planning a brand-new role for Messi? Tribuna.com"
     },
     {
      "ref": "gnews_inter_miami#3",
-     "title": "Gianluca Prestianni reveals what he told Lionel Messi during emotional Argentina farewell match at Monumental - Goal.com",
-     "published": "2026-10-08T05:16:49+00:00",
-     "summary": "Gianluca Prestianni reveals what he told Lionel Messi during emotional Argentina farewell match at Monumental Goal.com"
+     "title": "VIDEO: Lionel Messi receives BIZARRE retirement gift from referee in emotional Argentina farewell against Benin - Goal.com",
+     "published": "2026-10-08T06:53:06+00:00",
+     "summary": "VIDEO: Lionel Messi receives BIZARRE retirement gift from referee in emotional Argentina farewell against Benin Goal.com"
     },
     {
      "ref": "gnews_inter_miami#4",
-     "title": "Inter Miami CF - D.C. United prediction & tips 10.10.2026 - Transfermarkt",
-     "published": "2026-10-08T05:01:31+00:00",
-     "summary": "Inter Miami CF - D.C. United prediction & tips 10.10.2026 Transfermarkt"
+     "title": "Gianluca Prestianni reveals what he told Lionel Messi during emotional Argentina farewell match at Monumental - Goal.com",
+     "published": "2026-10-08T05:16:49+00:00",
+     "summary": "Gianluca Prestianni reveals what he told Lionel Messi during emotional Argentina farewell match at Monumental Goal.com"
     },
     {
      "ref": "gnews_inter_miami#5",
@@ -617,7 +617,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#7",
      "title": "Lionel Messi named honorary River Plate member as legendary Argentina career reaches emotional Monumental conclusion - Goal.com",
-     "published": "2026-10-08T04:15:07+00:00",
+     "published": "2026-10-08T04:16:32+00:00",
      "summary": "Lionel Messi named honorary River Plate member as legendary Argentina career reaches emotional Monumental conclusion Goal.com"
     },
     {

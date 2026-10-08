@@ -27,7 +27,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 2019,
    "text": "Anti-government protests calling for free and fair elections began in Baku, Azerbaijan.",
    "context": [
-    "The 2019 Baku protests were a series of nonviolent rallies on 8, 19 and 20 October in Baku, the capital of Azerbaijan. The protests on 8 and 19 October were organized by the National Council of Democratic Forces (NCDF), an alliance of opposition parties, and called for the release of political prisoners and for free and fair elections. They were also against growing unemployment and economic inequality. Among those detained on 19 October was the leader of the Azerbaijani Popular Front Party, Ali Karimli."
+    "Nonviolent rallies took place in Baku, the capital of Azerbaijan, on 8, 19 and 20 October 2019. The protests on 8 and 19 October were organized by the National Council of Democratic Forces (NCDF), an alliance of opposition parties, and called for the release of political prisoners and for free and fair elections. They were also against growing unemployment and economic inequality. Among those detained on 19 October was the leader of the Azerbaijani Popular Front Party, Ali Karimli."
    ]
   },
   {
@@ -91,7 +91,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1952,
    "text": "Three trains collided (aftermath pictured) at Harrow & Wealdstone station in London, killing 112 people and injuring 340 others.",
    "context": [
-    "The Harrow and Wealdstone rail crash was a three-train collision at Harrow and Wealdstone station in Wealdstone, Middlesex during the morning 8 October 1952. The crash resulted in 112 deaths and 340 injuries, 88 of these being detained in hospital. It remains the worst peacetime rail crash in British history and the second deadliest overall after the Quintinshill rail disaster of 1915."
+    "Three trains collided at Harrow and Wealdstone station in Wealdstone, Middlesex during the morning of 8 October 1952. The crash resulted in 112 deaths and 340 injuries, 88 of these being detained in hospital. It remains the worst peacetime rail crash in British history and the second deadliest overall after the Quintinshill rail disaster of 1915."
    ]
   },
   {

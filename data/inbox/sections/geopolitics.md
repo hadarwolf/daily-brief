@@ -19,152 +19,152 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-     "published": "2026-10-08T09:03:52+00:00",
+     "published": "2026-10-08T10:03:42+00:00",
      "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
      "ref": "ap_world#1",
      "title": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts - AP News",
-     "published": "2026-10-08T08:05:00+00:00",
+     "published": "2026-10-08T09:30:00+00:00",
      "summary": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts AP News"
     },
     {
      "ref": "ap_world#2",
+     "title": "The long-deployed USS Lincoln is returning home to San Diego - AP News",
+     "published": "2026-10-08T09:08:00+00:00",
+     "summary": "The long-deployed USS Lincoln is returning home to San Diego AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Ukraine faces a shortage of troops to relieve tired fighters at the front - AP News",
+     "published": "2026-10-08T08:55:00+00:00",
+     "summary": "Ukraine faces a shortage of troops to relieve tired fighters at the front AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Israel says British Consulate in east Jerusalem has ceased to function and 20 diplomats will leave - AP News",
+     "published": "2026-10-08T07:57:00+00:00",
+     "summary": "Israel says British Consulate in east Jerusalem has ceased to function and 20 diplomats will leave AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "Fan interference denies Anthony Volpe a tying homer as Yankees get swept by Rays in ALDS - AP News",
      "published": "2026-10-08T07:45:00+00:00",
      "summary": "Fan interference denies Anthony Volpe a tying homer as Yankees get swept by Rays in ALDS AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#6",
      "title": "Indian actor and filmmaker Nana Patekar dies at 75 - AP News",
      "published": "2026-10-08T07:43:00+00:00",
      "summary": "Indian actor and filmmaker Nana Patekar dies at 75 AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#7",
      "title": "Pages delivers go-ahead single in 7th as Dodgers beat Braves 4-1 to clinch NL Division Series - AP News",
      "published": "2026-10-08T06:53:00+00:00",
      "summary": "Pages delivers go-ahead single in 7th as Dodgers beat Braves 4-1 to clinch NL Division Series AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "Eritrean soldiers entered northern Ethiopian towns, government-allied commander says - AP News",
-     "published": "2026-10-08T06:43:00+00:00",
-     "summary": "Eritrean soldiers entered northern Ethiopian towns, government-allied commander says AP News"
-    },
-    {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "Rays beat Yankees 4-3 for 3-game Division Series sweep behind Mesa homer, fan interference call - AP News",
      "published": "2026-10-08T05:55:00+00:00",
      "summary": "Rays beat Yankees 4-3 for 3-game Division Series sweep behind Mesa homer, fan interference call AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
+     "title": "Why people across India are taking to the streets again - AP News",
+     "published": "2026-10-08T05:34:00+00:00",
+     "summary": "Why people across India are taking to the streets again AP News"
+    },
+    {
+     "ref": "ap_world#10",
      "title": "Asian shares decline under pressure from rising bond yields and surging oil prices - AP News",
      "published": "2026-10-08T05:17:00+00:00",
      "summary": "Asian shares decline under pressure from rising bond yields and surging oil prices AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#11",
      "title": "Isaias strengthens into the first hurricane of the Atlantic season - AP News",
      "published": "2026-10-08T04:35:00+00:00",
      "summary": "Isaias strengthens into the first hurricane of the Atlantic season AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#12",
+     "title": "Hurricane Isaias could impact Georgia-Alabama game with Trump set to attend - AP News",
+     "published": "2026-10-08T04:03:00+00:00",
+     "summary": "Hurricane Isaias could impact Georgia-Alabama game with Trump set to attend AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "Rahul Gandhi briefly detained as India’s protests grow over removals of 130 million from voter lists - AP News",
      "published": "2026-10-08T04:02:00+00:00",
      "summary": "Rahul Gandhi briefly detained as India’s protests grow over removals of 130 million from voter lists AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#14",
      "title": "As Democrats eye big midterm wins, Republicans look to turn the tables in some House districts - AP News",
      "published": "2026-10-08T04:01:00+00:00",
      "summary": "As Democrats eye big midterm wins, Republicans look to turn the tables in some House districts AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#15",
      "title": "EU sends envoy to Beijing as rising exports from China raise economic anxiety - AP News",
      "published": "2026-10-08T04:01:00+00:00",
      "summary": "EU sends envoy to Beijing as rising exports from China raise economic anxiety AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#16",
      "title": "Opal Lee, 'grandmother of Juneteenth,' spends 100th birthday at the center of celebrations in Texas - AP News",
      "published": "2026-10-08T03:30:00+00:00",
      "summary": "Opal Lee, 'grandmother of Juneteenth,' spends 100th birthday at the center of celebrations in Texas AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#17",
      "title": "Ronald Acuña Jr. fights back tears after the Braves' Division Series elimination by the Dodgers - AP News",
      "published": "2026-10-08T02:50:00+00:00",
      "summary": "Ronald Acuña Jr. fights back tears after the Braves' Division Series elimination by the Dodgers AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#18",
      "title": "Trump proposes Camp David-style presidential retreat at his private Florida golf club - AP News",
      "published": "2026-10-08T02:39:00+00:00",
      "summary": "Trump proposes Camp David-style presidential retreat at his private Florida golf club AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#19",
      "title": "Trump interrupted by protesters as he fights to rally Texas voters behind Paxton in US Senate race - AP News",
      "published": "2026-10-08T02:30:00+00:00",
      "summary": "Trump interrupted by protesters as he fights to rally Texas voters behind Paxton in US Senate race AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#20",
      "title": "Texas carries out nation’s first execution since Christa Pike’s failed lethal injection - AP News",
      "published": "2026-10-08T02:26:00+00:00",
      "summary": "Texas carries out nation’s first execution since Christa Pike’s failed lethal injection AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#21",
      "title": "Disaster relief funding is creeping into Trump's midterm rhetoric. Critics say it has no place there - AP News",
      "published": "2026-10-08T02:24:00+00:00",
      "summary": "Disaster relief funding is creeping into Trump's midterm rhetoric. Critics say it has no place there AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#22",
      "title": "Trump says he’ll award fireballer Roger Clemens the Presidential Medal of Freedom - AP News",
      "published": "2026-10-08T02:07:00+00:00",
      "summary": "Trump says he’ll award fireballer Roger Clemens the Presidential Medal of Freedom AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#23",
      "title": "HBCUs are underfunded. A legal effort starting in Missouri seeks to fix it - AP News",
      "published": "2026-10-08T01:50:00+00:00",
      "summary": "HBCUs are underfunded. A legal effort starting in Missouri seeks to fix it AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#24",
      "title": "Cornell gang-rape accuser was ‘misled’ about criminal investigation, her lawyer says - AP News",
      "published": "2026-10-08T01:47:00+00:00",
      "summary": "Cornell gang-rape accuser was ‘misled’ about criminal investigation, her lawyer says AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Christa Pike is angry and confused after surviving execution attempt, attorney says - AP News",
-     "published": "2026-10-08T01:45:00+00:00",
-     "summary": "Christa Pike is angry and confused after surviving execution attempt, attorney says AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Sri Lanka’s former first lady is arrested on corruption allegations - AP News",
-     "published": "2026-10-08T01:44:00+00:00",
-     "summary": "Sri Lanka’s former first lady is arrested on corruption allegations AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Kosovo lawmakers elect a new president in a late-night vote to avert snap election - AP News",
-     "published": "2026-10-08T01:35:00+00:00",
-     "summary": "Kosovo lawmakers elect a new president in a late-night vote to avert snap election AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Nepal ends search for thousands of flood victims, leaving some families angry and others relieved - AP News",
-     "published": "2026-10-08T01:28:00+00:00",
-     "summary": "Nepal ends search for thousands of flood victims, leaving some families angry and others relieved AP News"
     }
    ]
   },
@@ -200,7 +200,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "ref": "bbc_world#4",
      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
      "published": "2026-10-08T05:00:44+00:00",
-     "summary": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information."
+     "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice."
     },
     {
      "ref": "bbc_world#5",
@@ -240,7 +240,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#11",
-     "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+     "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newshour",
      "published": "2026-10-08T00:46:36+00:00",
      "summary": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024."
     },
@@ -327,12 +327,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "Vladimir Putin and the pariah problem",
      "published": "2026-10-06T21:27:32+00:00",
      "summary": "Emphasising the Russian leader’s wickedness must not come at Ukraine’s expense"
-    },
-    {
-     "ref": "economist_intl#1",
-     "title": "How effective altruism conquered the world",
-     "published": "2026-10-01T09:37:47+00:00",
-     "summary": "And how the 21st century’s most important social movement might yet end it"
     }
    ]
   },
@@ -408,153 +402,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Syria considers help in Yemen war after Saudi airports come under Houthi fire - Reuters",
+     "published": "2026-10-08T09:24:57+00:00",
+     "summary": "Syria considers help in Yemen war after Saudi airports come under Houthi fire Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "One dead, two injured in Poland's second school attack in two days - Reuters",
+     "published": "2026-10-08T09:07:21+00:00",
+     "summary": "One dead, two injured in Poland's second school attack in two days Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "French school blockades persist after PM's unspecified promises - Reuters",
+     "published": "2026-10-08T08:46:10+00:00",
+     "summary": "French school blockades persist after PM's unspecified promises Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "Drones, explosions and soldiers in bulldozers: surrounded by Israelis in Lebanon's 'model town' - Reuters",
+     "published": "2026-10-08T08:13:52+00:00",
+     "summary": "Drones, explosions and soldiers in bulldozers: surrounded by Israelis in Lebanon's 'model town' Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "EXCLUSIVE: China militia boat spotted for first time off Taiwan's east coast, patrol finds - Reuters",
+     "published": "2026-10-08T07:47:30+00:00",
+     "summary": "EXCLUSIVE: China militia boat spotted for first time off Taiwan's east coast, patrol finds Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "Manus raises more than $500 million after Meta exit - Reuters",
      "published": "2026-10-08T07:30:35+00:00",
      "summary": "Manus raises more than $500 million after Meta exit Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#6",
      "title": "UK police charge member of Royal Navy under National Security Act - Reuters",
      "published": "2026-10-08T06:57:00+00:00",
      "summary": "UK police charge member of Royal Navy under National Security Act Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#7",
      "title": "Indian firms seen posting faster profit growth despite global headwinds - Reuters",
      "published": "2026-10-08T06:44:00+00:00",
      "summary": "Indian firms seen posting faster profit growth despite global headwinds Reuters"
     },
     {
-     "ref": "reuters_world#3",
-     "title": "Drones hit Yandex data centre in first major attack on Russian data hub - Reuters",
-     "published": "2026-10-08T06:19:00+00:00",
-     "summary": "Drones hit Yandex data centre in first major attack on Russian data hub Reuters"
+     "ref": "reuters_world#8",
+     "title": "Britain says consulate in Jerusalem to remain open as a UK mission - Reuters",
+     "published": "2026-10-08T06:40:00+00:00",
+     "summary": "Britain says consulate in Jerusalem to remain open as a UK mission Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#9",
+     "title": "Drones hit Yandex site in first major attack on Russian data hub - Reuters",
+     "published": "2026-10-08T06:19:00+00:00",
+     "summary": "Drones hit Yandex site in first major attack on Russian data hub Reuters"
+    },
+    {
+     "ref": "reuters_world#10",
      "title": "German exports fall in August, pointing to weak third quarter - Reuters",
      "published": "2026-10-08T06:08:00+00:00",
      "summary": "German exports fall in August, pointing to weak third quarter Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#11",
      "title": "China's funding of development institutions is up sharply, but its power still lags, study shows - Reuters",
      "published": "2026-10-08T06:04:00+00:00",
      "summary": "China's funding of development institutions is up sharply, but its power still lags, study shows Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#12",
      "title": "China border town can't shake the blues despite promise of bridge to North Korea - Reuters",
      "published": "2026-10-08T06:02:00+00:00",
      "summary": "China border town can't shake the blues despite promise of bridge to North Korea Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#13",
      "title": "People in Russian-occupied Ukrainian town risk 'road of death' to get food - Reuters",
      "published": "2026-10-08T06:01:00+00:00",
      "summary": "People in Russian-occupied Ukrainian town risk 'road of death' to get food Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#14",
+     "title": "Bank of Japan sees broadening inflationary pressure - Reuters",
+     "published": "2026-10-08T05:40:00+00:00",
+     "summary": "Bank of Japan sees broadening inflationary pressure Reuters"
+    },
+    {
+     "ref": "reuters_world#15",
      "title": "TSMC's third-quarter revenue surges to record, beating market forecast - Reuters",
      "published": "2026-10-08T05:39:00+00:00",
      "summary": "TSMC's third-quarter revenue surges to record, beating market forecast Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#16",
      "title": "World Bank appoints David Vaillant as managing director, CFO - Reuters",
      "published": "2026-10-08T05:15:00+00:00",
      "summary": "World Bank appoints David Vaillant as managing director, CFO Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#17",
      "title": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf - Reuters",
      "published": "2026-10-08T04:31:00+00:00",
      "summary": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#18",
      "title": "India considers delaying UPI payment fee rollout, sources say - Reuters",
      "published": "2026-10-08T04:23:00+00:00",
      "summary": "India considers delaying UPI payment fee rollout, sources say Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#19",
      "title": "Malaysia to work towards Myanmar's full reintegration into ASEAN, PM says - Reuters",
      "published": "2026-10-08T04:15:00+00:00",
      "summary": "Malaysia to work towards Myanmar's full reintegration into ASEAN, PM says Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#20",
      "title": "British diplomats to remain at scaled-down mission in Jerusalem - Reuters",
      "published": "2026-10-08T04:13:00+00:00",
      "summary": "British diplomats to remain at scaled-down mission in Jerusalem Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#21",
      "title": "EXCLUSIVE: US opens direct talks with Myanmar's generals, reversing years of isolation - Reuters",
      "published": "2026-10-08T04:12:00+00:00",
      "summary": "EXCLUSIVE: US opens direct talks with Myanmar's generals, reversing years of isolation Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#22",
      "title": "South Korea, Egypt upgrade ties to strategic partnership, Lee says - Reuters",
      "published": "2026-10-08T03:36:00+00:00",
      "summary": "South Korea, Egypt upgrade ties to strategic partnership, Lee says Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#23",
      "title": "India inflation likely accelerated in September on food and energy pressures - Reuters poll - Reuters",
      "published": "2026-10-08T03:31:00+00:00",
      "summary": "India inflation likely accelerated in September on food and energy pressures - Reuters poll Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#24",
      "title": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile - Reuters",
      "published": "2026-10-08T03:03:00+00:00",
      "summary": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile Reuters"
-    },
-    {
-     "ref": "reuters_world#18",
-     "title": "Indian shares extend losses as RBI rate hike, rising oil weigh - Reuters",
-     "published": "2026-10-08T02:23:00+00:00",
-     "summary": "Indian shares extend losses as RBI rate hike, rising oil weigh Reuters"
-    },
-    {
-     "ref": "reuters_world#19",
-     "title": "Gold pauses decline after two-month low as traders weigh US Fed move - Reuters",
-     "published": "2026-10-08T01:21:00+00:00",
-     "summary": "Gold pauses decline after two-month low as traders weigh US Fed move Reuters"
-    },
-    {
-     "ref": "reuters_world#20",
-     "title": "Asia shares slip, bonds submerged in tide of AI debt - Reuters",
-     "published": "2026-10-08T00:57:00+00:00",
-     "summary": "Asia shares slip, bonds submerged in tide of AI debt Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "Former Taiwan President Tsai tells US audience of 'sustained' Chinese pressure - Reuters",
-     "published": "2026-10-08T00:51:00+00:00",
-     "summary": "Former Taiwan President Tsai tells US audience of 'sustained' Chinese pressure Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Dollar holds near 18-month high, euro lags as bond yields rise - Reuters",
-     "published": "2026-10-08T00:43:00+00:00",
-     "summary": "Dollar holds near 18-month high, euro lags as bond yields rise Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks - Reuters",
-     "published": "2026-10-08T00:04:00+00:00",
-     "summary": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "IMF reaches staff deal with Pakistan, potentially unlocking $1.2 billion - Reuters",
-     "published": "2026-10-07T23:59:00+00:00",
-     "summary": "IMF reaches staff deal with Pakistan, potentially unlocking $1.2 billion Reuters"
     }
    ]
   }
