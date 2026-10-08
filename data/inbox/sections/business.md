@@ -18,99 +18,99 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Oil Spike Would Be Just The Worst: Market Analysis",
+     "published": "2026-10-08T09:18:03+00:00",
+     "summary": "Anna Edwards, Guy Johnson, and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Olympian Gabby Thomas On Building a New Track League",
+     "published": "2026-10-08T09:06:27+00:00",
+     "summary": "The world of track and field is quite unstructured, with each race coordinated by a different entity and paychecks few and far between. A new track and field league called Athlos is trying to change that. In this episode of The Deal, three-time Olympic gold medalist Gabby Thomas tells Alex Rodriguez and Jason Kelly how she teamed up with entrepreneur and investor Alexis Ohanian to found Athlos, wh"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "France Braces for More Student Protests on Premier’s Response",
+     "published": "2026-10-08T09:05:34+00:00",
+     "summary": "France is bracing for another day of high school protests after Prime Minister Sebastien Lecornu said his policy response would only come at the end of the month."
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "Why Bollywood Hasn't Matched Hollywood's Global Reach",
+     "published": "2026-10-08T09:04:23+00:00",
+     "summary": "Bollywood makes more movies but doesn’t have the global impact of Hollywood. JioStar Vice Chairman Uday Shankar tells Bloomberg’s Haslinda Amin why it hasn’t achieved world scale, and what needs to change. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#4",
+     "title": "Saudis in Talks to Formalize Hormuz Shuttles in Fight for Market",
+     "published": "2026-10-08T09:00:48+00:00",
+     "summary": "Saudi Arabia is in talks with customers to offer oil loadings next year outside the Strait of Hormuz in long-term contracts, formalizing a system the kingdom has been using during the Iran war as it pushes for greater market share."
+    },
+    {
+     "ref": "bloomberg_markets#5",
      "title": "How India Can Turn Its Culture into Economic Power | Emerging",
      "published": "2026-10-08T08:46:55+00:00",
      "summary": "India produces more films than any other country and turned cricket into a multi-billion dollar sport. And yet it hasn’t built a strong global audience. In this episode of Emerging, Haslinda Amin sits down with JioStar’s Uday Shankar to discuss whether India can replicate the soft power success of places like China and South Korea. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#6",
      "title": "Polish Debt Collector Kruk Eyes US, UK as Europe Loses Momentum",
      "published": "2026-10-08T08:38:47+00:00",
      "summary": "Polish debt collector Kruk SA is working to accelerate expansion into the US and UK as it looks for a new engine of growth beyond continental Europe."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#7",
      "title": "European Bank Stocks Head for Biggest Two-Day Slump Since March",
      "published": "2026-10-08T08:37:23+00:00",
      "summary": "Banks have been Europe’s best-performing stocks for two years, and were on pace for stellar gains again in 2026. The return of French debt worries is threatening to derail the rally."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#8",
      "title": "Legacy Private Credit Loans Face Refinancing Risks as Rates Rise",
      "published": "2026-10-08T08:32:12+00:00",
      "summary": "Private credit borrowers that loaded up on debt when interest rates were low could face refinancing pressure as they approach maturity, according to investors speaking at a forum in Singapore on Thursday."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#9",
      "title": "Bank of Ireland’s Soured Deals Show Hazard in Risk Transfer Boom",
      "published": "2026-10-08T08:26:02+00:00",
      "summary": "Investors have written down two risk transfer deals with Bank of Ireland Group Plc as the underlying loans deteriorate, a warning of the potential pitfalls involved in the increasingly popular trades."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#10",
      "title": "Meloni Can’t Afford Defeat in Parliament, Citi Economist Says",
      "published": "2026-10-08T08:21:29+00:00",
      "summary": "Italian Prime Minister Giorgia Meloni needs to win a confidence vote on Thursday to avoid further bond-market tensions, according to a Citigroup Inc. analyst."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#11",
      "title": "What Everyone Gets Wrong About the Economic Problems in Europe",
      "published": "2026-10-08T08:00:25+00:00",
      "summary": "The debate about low productivity may be missing the picture."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#12",
      "title": "Odd Lots: Understanding Europe’s Economic Problems(Podcast)",
      "published": "2026-10-08T08:00:00+00:00",
      "summary": "In so many conversations, there’s a widespread view that Europe is falling behind. Or it’s in trouble. It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs, and a lagging tech sector still cast a shadow over Europe. But according to the economist and po"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#13",
      "title": "Why Global Bond Yields Hit The Highest Level In Years: Live Q&A",
      "published": "2026-10-08T07:41:35+00:00",
      "summary": "Bloomberg reporters answer your questions about the global bond selloff in a Live Q&A on Thursday, October 8 at 7.30am EDT"
     },
     {
-     "ref": "bloomberg_markets#9",
-     "title": "Malaysia Gets Myanmar Vow to Take Back More Refugees, Does Not Recognize Regime",
-     "published": "2026-10-08T07:35:19+00:00",
-     "summary": "Malaysia Prime Minister Anwar Ibrahim hosted Myanmar President Min Aung Hlaing for talks Thursday, though his government was careful to underscore it still doesn’t recognize the regime."
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "Rupee Slide Tests RBI’s Multiple Defenses as Record Low Nears",
-     "published": "2026-10-08T07:22:45+00:00",
-     "summary": "India’s central bank has put all kinds of support around the rupee, and it’s only just stopping the currency from hitting a record low."
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "MCB CEO: Growth Fueled by Current Oil Market Demand",
-     "published": "2026-10-08T06:56:02+00:00",
-     "summary": "Mauritius Commercial Bank reported an increase in net interest income for the full year that’s as geopolitical tensions are driving up oil & gas prices. Jennifer Zabasajja, Bloomberg's Chief Africa Correspondent spoke to Thierry Hebraud, CEO of Mauritius Commercial Bank on the earnings and the formation of the new Africa Credit Ratings agency. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Nomura, Daiwa CEOs Flag Risk AI May Spoil Stock Market Rally",
-     "published": "2026-10-08T06:55:32+00:00",
-     "summary": "Japan’s two largest securities firms expect the country’s stock market rally to extend well into 2027, even as a potential reversal in artificial intelligence investment looms as the primary threat."
-    },
-    {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "India Shuns Costly Russian Oil as Middle East Flows Recover",
      "published": "2026-10-08T06:45:33+00:00",
      "summary": "Indian refiners have cut back Russian crude purchases for November delivery, as rising competition from China pushes up prices at a time when buyers can tap alternative shipments from the Middle East."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Chelsea FC Co-Owners Settled Dispute With Robey as Key Mediator",
      "published": "2026-10-08T06:30:31+00:00",
      "summary": "In between advising on multibillion-pound FTSE takeovers, investment banker Simon Robey this year found himself playing a role more akin to counselor to the owners of English football club Chelsea FC."
-    },
-    {
-     "ref": "bloomberg_markets#15",
-     "title": "Imperial Brands Plans £1.5 Billion Buyback After Stock Fall",
-     "published": "2026-10-08T06:21:21+00:00",
-     "summary": "Imperial Brands Plc plans a £1.5 billion ($2 billion) share buyback in the next fiscal year, citing continued confidence in its future performance and cost-cutting efforts."
     },
     {
      "ref": "bloomberg_markets#16",
@@ -120,9 +120,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#17",
-     "title": "Japanese Stocks Fall as Topix Weighting Announcement Sours Mood",
-     "published": "2026-10-08T00:27:54+00:00",
-     "summary": "Japanese equities were down for a second day as an announcement about changes to Topix Index weightings prompted selling in stocks set to see their index presence reduced."
+     "title": "Korea Mulls Ban on Unlicensed Foreign Banks in Bond Deals",
+     "published": "2026-10-08T03:54:17+00:00",
+     "summary": "South Korea is considering regulations to prohibit investment banks without domestic securities licenses from seeking to arrange overseas bond sales of local issuers, according to people familiar with the matter."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -228,7 +228,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#4",
-     "title": "המסחר עבר לעליות קלות; נקסט ויז'ן מתקנת ועולה ב-4.6%",
+     "title": "העליות בבורסת ת\"א נמחקו; ירידות קלות ברוב המדדים",
      "published": "2026-10-08T07:13:42+00:00"
     },
     {
@@ -359,45 +359,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Global Stocks Fall on Higher Oil Prices, AI Pullback",
+     "published": "2026-10-08T09:15:00+00:00",
+     "summary": "U.S. stock futures fell and Treasury yields rose in as rising oil prices and a fresh artificial-intelligence wobble combined to weigh on sentiment."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Dollar Likely to Remain Lifted by U.S. Rate-Rise Bets",
+     "published": "2026-10-08T09:11:00+00:00",
+     "summary": "The dollar should remain well supported by expectations for further interest-rate rises by the Fed , ING said."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "U.S. Treasury Yields, Eurozone Bond Yields Rise Relentlessly",
      "published": "2026-10-08T08:42:00+00:00",
      "summary": "Treasury and eurozone government bond yields rose Thursday, with U.S. borrowing costs hovering just shy of the multidecade highs reached during Wednesday’s session."
     },
     {
-     "ref": "wsj_markets#1",
-     "title": "Global Stocks Fall on Higher Oil Prices, AI Pullback",
-     "published": "2026-10-08T08:31:00+00:00",
-     "summary": "U.S. stock futures fell and Treasury yields rose in as rising oil prices and a fresh artificial-intelligence wobble combined to weigh on sentiment."
-    },
-    {
-     "ref": "wsj_markets#2",
-     "title": "Stock Market Today: Oil Rises, Bonds Fall Again",
+     "ref": "wsj_markets#3",
+     "title": "Stock Market Today: Oil Rises on Mideast Jitters, Pushing Yields Higher",
      "published": "2026-10-08T08:21:45+00:00",
      "summary": "Brent crude trades above $104 a barrel"
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "European Gas Prices Climb on LNG Shipping Risks",
      "published": "2026-10-08T08:05:00+00:00",
      "summary": "Natural-gas prices climbed back above 80 euros a megawatt-hour as concerns over continued attacks on shipping in the Gulf raised fresh questions about the security of LNG supplies."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Gold Inches Higher After Fed Minutes",
      "published": "2026-10-08T08:02:00+00:00",
      "summary": "Gold prices ticked higher as traders assessed the possibility of another Fed interest-rate hike this year."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "Oil Climbs on Intensifying Shipping Attacks, U.S. Storm Fears",
      "published": "2026-10-08T07:54:00+00:00",
      "summary": "Oil prices climbed more than 3.5% as attacks on shipping in the Gulf intensified, while Tropical Storm Isaias is expected to reach the U.S. Gulf Coast late Friday as a hurricane."
-    },
-    {
-     "ref": "wsj_markets#6",
-     "title": "Euro at Risk of Further Losses on French Debt Concerns",
-     "published": "2026-10-08T07:51:00+00:00",
-     "summary": "The euro is likely to face further weakness in the near term due to concerns about France’s fiscal position, Commerzbank said."
     },
     {
      "ref": "wsj_markets#7",
@@ -513,7 +513,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4089.5,
+   "last": 4089.4299,
    "prev_close": 4096.4502,
    "change_pct": -0.17,
    "as_of": "2026-10-08"
@@ -527,23 +527,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0716,
+   "last": 3.0756,
    "prev_close": 3.0437,
-   "change_pct": 0.92,
+   "change_pct": 1.05,
    "as_of": "2026-10-08"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 104.3,
+   "last": 104.2,
    "prev_close": 100.2,
-   "change_pct": 4.09,
+   "change_pct": 3.99,
    "as_of": "2026-10-08"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82911.7422,
+   "last": 82999.7891,
    "prev_close": 83275.9297,
-   "change_pct": -0.44,
+   "change_pct": -0.33,
    "as_of": "2026-10-08"
   }
  },

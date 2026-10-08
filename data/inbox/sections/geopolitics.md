@@ -18,15 +18,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Yamamoto is dominant again as Dodgers ride homers from Hernández and Freeman to 3-1 win over Braves - AP News",
-     "published": "2026-10-08T08:59:57+00:00",
-     "summary": "Yamamoto is dominant again as Dodgers ride homers from Hernández and Freeman to 3-1 win over Braves AP News"
+     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+     "published": "2026-10-08T09:03:52+00:00",
+     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-     "published": "2026-10-08T08:03:07+00:00",
-     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
+     "title": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts - AP News",
+     "published": "2026-10-08T08:05:00+00:00",
+     "summary": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts AP News"
     },
     {
      "ref": "ap_world#2",
@@ -60,27 +60,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#7",
-     "title": "Isaias becomes the first hurricane of the Atlantic season as it surges towards US Gulf Coast - AP News",
-     "published": "2026-10-08T05:37:00+00:00",
-     "summary": "Isaias becomes the first hurricane of the Atlantic season as it surges towards US Gulf Coast AP News"
-    },
-    {
-     "ref": "ap_world#8",
      "title": "Asian shares decline under pressure from rising bond yields and surging oil prices - AP News",
      "published": "2026-10-08T05:17:00+00:00",
      "summary": "Asian shares decline under pressure from rising bond yields and surging oil prices AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#8",
      "title": "Isaias strengthens into the first hurricane of the Atlantic season - AP News",
      "published": "2026-10-08T04:35:00+00:00",
      "summary": "Isaias strengthens into the first hurricane of the Atlantic season AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#9",
      "title": "Rahul Gandhi briefly detained as India’s protests grow over removals of 130 million from voter lists - AP News",
      "published": "2026-10-08T04:02:00+00:00",
      "summary": "Rahul Gandhi briefly detained as India’s protests grow over removals of 130 million from voter lists AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "As Democrats eye big midterm wins, Republicans look to turn the tables in some House districts - AP News",
+     "published": "2026-10-08T04:01:00+00:00",
+     "summary": "As Democrats eye big midterm wins, Republicans look to turn the tables in some House districts AP News"
     },
     {
      "ref": "ap_world#11",
@@ -409,7 +409,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "reuters_world#0",
      "title": "Manus raises more than $500 million after Meta exit - Reuters",
-     "published": "2026-10-08T07:23:44+00:00",
+     "published": "2026-10-08T07:30:35+00:00",
      "summary": "Manus raises more than $500 million after Meta exit Reuters"
     },
     {
@@ -432,9 +432,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#4",
-     "title": "German exports fall unexpectedly in August - Reuters",
+     "title": "German exports fall in August, pointing to weak third quarter - Reuters",
      "published": "2026-10-08T06:08:00+00:00",
-     "summary": "German exports fall unexpectedly in August Reuters"
+     "summary": "German exports fall in August, pointing to weak third quarter Reuters"
     },
     {
      "ref": "reuters_world#5",
@@ -498,63 +498,63 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#15",
+     "title": "South Korea, Egypt upgrade ties to strategic partnership, Lee says - Reuters",
+     "published": "2026-10-08T03:36:00+00:00",
+     "summary": "South Korea, Egypt upgrade ties to strategic partnership, Lee says Reuters"
+    },
+    {
+     "ref": "reuters_world#16",
      "title": "India inflation likely accelerated in September on food and energy pressures - Reuters poll - Reuters",
      "published": "2026-10-08T03:31:00+00:00",
      "summary": "India inflation likely accelerated in September on food and energy pressures - Reuters poll Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile - Reuters",
      "published": "2026-10-08T03:03:00+00:00",
      "summary": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Indian shares extend losses as RBI rate hike, rising oil weigh - Reuters",
      "published": "2026-10-08T02:23:00+00:00",
      "summary": "Indian shares extend losses as RBI rate hike, rising oil weigh Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Gold pauses decline after two-month low as traders weigh US Fed move - Reuters",
      "published": "2026-10-08T01:21:00+00:00",
      "summary": "Gold pauses decline after two-month low as traders weigh US Fed move Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Asia shares slip, bonds submerged in tide of AI debt - Reuters",
      "published": "2026-10-08T00:57:00+00:00",
      "summary": "Asia shares slip, bonds submerged in tide of AI debt Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Former Taiwan President Tsai tells US audience of 'sustained' Chinese pressure - Reuters",
      "published": "2026-10-08T00:51:00+00:00",
      "summary": "Former Taiwan President Tsai tells US audience of 'sustained' Chinese pressure Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Dollar holds near 18-month high, euro lags as bond yields rise - Reuters",
      "published": "2026-10-08T00:43:00+00:00",
      "summary": "Dollar holds near 18-month high, euro lags as bond yields rise Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks - Reuters",
      "published": "2026-10-08T00:04:00+00:00",
      "summary": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "IMF reaches staff deal with Pakistan, potentially unlocking $1.2 billion - Reuters",
      "published": "2026-10-07T23:59:00+00:00",
      "summary": "IMF reaches staff deal with Pakistan, potentially unlocking $1.2 billion Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "US lobbies allies to cut ties to anti-disinformation conference over panel critical of Washington, sources say - Reuters",
-     "published": "2026-10-07T23:33:00+00:00",
-     "summary": "US lobbies allies to cut ties to anti-disinformation conference over panel critical of Washington, sources say Reuters"
     }
    ]
   }
