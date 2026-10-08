@@ -22,6 +22,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-07T22:30:00Z",
+     "home": "Clube do Remo",
+     "away": "Grêmio",
+     "status": "FINISHED",
+     "score": "1-1"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-07T22:30:00Z",
      "home": "Bragantino",
      "away": "Mirassol",
      "status": "FINISHED",
@@ -37,14 +45,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-07T22:30:00Z",
-     "home": "Clube do Remo",
-     "away": "Grêmio",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-07T23:00:00Z",
      "home": "Vitória",
      "away": "Chapecoense",
@@ -57,7 +57,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "home": "Botafogo",
      "away": "Vasco da Gama",
      "status": "FINISHED",
-     "score": "2-2"
+     "score": "1-2"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -418,7 +418,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Defiance and comfort - what Guardiola said about Man City charges",
+     "title": "What Guardiola said about Man City charges",
      "published": "2026-10-08T08:20:13+00:00",
      "summary": "BBC Sport examines Pep Guardiola's comments about the Manchester City financial rule-breaking case during his time managing the club."
     },
@@ -574,141 +574,141 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "MLS commissioner Don Garber urges Harry Kane to follow Lionel Messi to America as 'dream' transfer target - Goal.com",
+     "published": "2026-10-08T09:01:54+00:00",
+     "summary": "MLS commissioner Don Garber urges Harry Kane to follow Lionel Messi to America as 'dream' transfer target Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "'Enjoy life, brother' - Brazil legend Ronaldinho pens emotional tribute to Lionel Messi after Barcelona icon calls time on Argentina career - Goal.com",
      "published": "2026-10-08T07:22:53+00:00",
      "summary": "'Enjoy life, brother' - Brazil legend Ronaldinho pens emotional tribute to Lionel Messi after Barcelona icon calls time on Argentina career Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "VIDEO: Lionel Messi receives BIZARRE retirement gift from referee in emotional Argentina farewell against Benin - Goal.com",
      "published": "2026-10-08T06:50:12+00:00",
      "summary": "VIDEO: Lionel Messi receives BIZARRE retirement gift from referee in emotional Argentina farewell against Benin Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Gianluca Prestianni reveals what he told Lionel Messi during emotional Argentina farewell match at Monumental - Goal.com",
      "published": "2026-10-08T05:16:49+00:00",
      "summary": "Gianluca Prestianni reveals what he told Lionel Messi during emotional Argentina farewell match at Monumental Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "'His heart is there' - CONMEBOL president Alejandro Dominguez fuels talk of Lionel Messi ending career at Newell's Old Boys - Goal.com",
      "published": "2026-10-08T04:54:16+00:00",
      "summary": "'His heart is there' - CONMEBOL president Alejandro Dominguez fuels talk of Lionel Messi ending career at Newell's Old Boys Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "'Treated like mere props' - Benin allegedly denied jerseys, photos and revenue share following Argentina match - Goal.com",
      "published": "2026-10-08T04:30:10+00:00",
      "summary": "'Treated like mere props' - Benin allegedly denied jerseys, photos and revenue share following Argentina match Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Lionel Messi named honorary River Plate member as legendary Argentina career reaches emotional Monumental conclusion - Goal.com",
      "published": "2026-10-08T04:15:07+00:00",
      "summary": "Lionel Messi named honorary River Plate member as legendary Argentina career reaches emotional Monumental conclusion Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Lionel Messi slams 'strange' World Cup final conspiracy theories and confirms Argentina retirement in emotional farewell - Goal.com",
      "published": "2026-10-08T03:12:25+00:00",
      "summary": "Lionel Messi slams 'strange' World Cup final conspiracy theories and confirms Argentina retirement in emotional farewell Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "After the final dance: Messi opens the vaults of his secret empire - Goal.com",
      "published": "2026-10-08T01:31:14+00:00",
      "summary": "After the final dance: Messi opens the vaults of his secret empire Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
      "published": "2026-10-08T00:20:35+00:00",
      "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Kily González Makes Casemiro the Heart of Inter Miami’s Midfield for the MLS Playoff Push - Pasión Fútbol",
      "published": "2026-10-07T23:31:00+00:00",
      "summary": "Kily González Makes Casemiro the Heart of Inter Miami’s Midfield for the MLS Playoff Push Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Line up Inter Miami CF vs DC United, MLS - Liga USA 2026 - Diario AS",
      "published": "2026-10-07T23:12:56+00:00",
      "summary": "Line up Inter Miami CF vs DC United, MLS - Liga USA 2026 Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Messi plays his final game with Argentina, marking the end of an era - The Washington Post",
      "published": "2026-10-07T23:00:00+00:00",
      "summary": "Messi plays his final game with Argentina, marking the end of an era The Washington Post"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Inter Miami CF vs DC United: previous stats | MLS - Liga USA 2026 - Diario AS",
      "published": "2026-10-07T22:50:23+00:00",
      "summary": "Inter Miami CF vs DC United: previous stats | MLS - Liga USA 2026 Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami CF v New York City Odds - FanDuel Sportsbook",
      "published": "2026-10-07T22:32:11+00:00",
      "summary": "Inter Miami CF v New York City Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Inter Miami already has a multimillion-dollar plan for Messi beyond his 2028 contract - Diario AS",
      "published": "2026-10-07T21:23:59+00:00",
      "summary": "Inter Miami already has a multimillion-dollar plan for Messi beyond his 2028 contract Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Value for money? MLS warned off Neymar’s planned ‘MSN’ reunion with Lionel Messi & Luis Suarez at Inter Miami as ‘Father Time’ catches up with Brazilian superstar - Goal.com",
      "published": "2026-10-07T21:04:33+00:00",
      "summary": "Value for money? MLS warned off Neymar’s planned ‘MSN’ reunion with Lionel Messi & Luis Suarez at Inter Miami as ‘Father Time’ catches up with Brazilian superstar Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "An imaginary scenario: Messi and Ronaldo retire in a single match - Goal.com",
      "published": "2026-10-07T20:39:13+00:00",
      "summary": "An imaginary scenario: Messi and Ronaldo retire in a single match Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "What’s next for Messi? What we know about the Argentinian star’s contract with Inter Miami and plans for the f - Diario AS",
      "published": "2026-10-07T20:37:44+00:00",
      "summary": "What’s next for Messi? What we know about the Argentinian star’s contract with Inter Miami and plans for the f Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Features Announced for Inter Miami CF vs. DC United presented by Audi on Oct. 10 - Inter Miami CF",
      "published": "2026-10-07T20:35:42+00:00",
      "summary": "Features Announced for Inter Miami CF vs. DC United presented by Audi on Oct. 10 Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Andrey Arshavin Explains Why Lionel Messi Deserves to Win 2026 Ballon d’Or - Legit News",
      "published": "2026-10-07T20:26:32+00:00",
      "summary": "Andrey Arshavin Explains Why Lionel Messi Deserves to Win 2026 Ballon d’Or Legit News"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Preview: Inter Miami vs DC United - prediction, team news, lineups - Sports Mole",
      "published": "2026-10-07T20:15:39+00:00",
      "summary": "Preview: Inter Miami vs DC United - prediction, team news, lineups Sports Mole"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami internationals: Messi bows out as nine feature in Sept/Oct window - OneFootball",
      "published": "2026-10-07T20:10:26+00:00",
      "summary": "Inter Miami internationals: Messi bows out as nine feature in Sept/Oct window OneFootball"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "After turning the page on the national team: Messi returns to Spain as a lecturer in a lecture hall - Goal.com",
-     "published": "2026-10-07T20:06:12+00:00",
-     "summary": "After turning the page on the national team: Messi returns to Spain as a lecturer in a lecture hall Goal.com"
     },
     {
      "ref": "gnews_inter_miami#23",

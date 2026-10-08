@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "prepared_at": "2026-10-08T08:38:44+00:00",
+ "prepared_at": "2026-10-08T09:03:27+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -25,9 +25,9 @@
  "markets": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4106.2002,
+   "last": 4089.5,
    "prev_close": 4096.4502,
-   "change_pct": 0.24,
+   "change_pct": -0.17,
    "as_of": "2026-10-08"
   },
   "SP500": {
@@ -39,23 +39,23 @@
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0731,
+   "last": 3.0716,
    "prev_close": 3.0437,
-   "change_pct": 0.97,
+   "change_pct": 0.92,
    "as_of": "2026-10-08"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 104.03,
+   "last": 104.3,
    "prev_close": 100.2,
-   "change_pct": 3.82,
+   "change_pct": 4.09,
    "as_of": "2026-10-08"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82804.1562,
+   "last": 82911.7422,
    "prev_close": 83275.9297,
-   "change_pct": -0.57,
+   "change_pct": -0.44,
    "as_of": "2026-10-08"
   }
  },
