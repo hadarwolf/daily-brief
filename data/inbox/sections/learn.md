@@ -24,158 +24,121 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2008,
-   "text": "2008 TC3 exploded above the Nubian Desert in Sudan, in the first time that an asteroid impact had been predicted prior to atmospheric entry.",
+   "year": 2019,
+   "text": "Anti-government protests calling for free and fair elections began in Baku, Azerbaijan.",
    "context": [
-    "2008 TC3 was an 80-tonne (80-long-ton; 90-short-ton), 4.1-meter (13 ft) diameter asteroid that entered Earth's atmosphere on October 7, 2008. It exploded at an estimated 37 kilometers (23 mi) above the Nubian Desert in Sudan. Some 600 meteorites, weighing a total of 10.5 kilograms (23.1 lb), were recovered; \n \nmany of these belonged to a rare type known as ureilites, which contain, among other minerals, nanodiamonds."
+    "The 2019 Baku protests were a series of nonviolent rallies on 8, 19 and 20 October in Baku, the capital of Azerbaijan. The protests on 8 and 19 October were organized by the National Council of Democratic Forces (NCDF), an alliance of opposition parties, and called for the release of political prisoners and for free and fair elections. They were also against growing unemployment and economic inequality. Among those detained on 19 October was the leader of the Azerbaijani Popular Front Party, Ali Karimli."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2006,
-   "text": "Anna Politkovskaya (pictured), a Russian journalist and human-rights activist, was assassinated in the elevator of her apartment block in Moscow.",
+   "year": 2016,
+   "text": "Yemen War: A funeral in Sanaa was hit by two consecutive airstrikes  by a Saudi-led coalition, leaving 143–155 civilians dead and more than 525 injured.",
    "context": [
-    "Anna Stepanovna Politkovskaya was a Russian investigative journalist who reported on political and social events in Russia, in particular, the Second Chechen War (1999–2005). She was found murdered in the elevator of her apartment block in Moscow on 7 October 2006."
+    "On 26 March 2015, Saudi Arabia, leading a coalition of nine countries from West Asia and North Africa, staged a military intervention in Yemen at the request of Yemeni president Abdrabbuh Mansur Hadi, who had been ousted from the capital, Sanaa, in September 2014 by Houthis during the Yemeni civil war. Efforts by the United Nations (UN) to facilitate a power sharing arrangement under a new transitional government collapsed, leading to escalating conflict between government forces, Houthi rebels, and other armed groups, which culminated in Hadi fleeing to Saudi Arabia shortly before it began military operations in the country."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2006,
-   "text": "Anna Politkovskaya, a Russian journalist and human-rights activist, was assassinated in the elevator of her apartment block in Moscow.",
+   "year": 2001,
+   "text": "At Linate Airport in Milan, Italy, Scandinavian Airlines Flight SK686 collided on take-off with a Cessna Citation II business jet, killing 118 people.",
    "context": [
-    "Anna Stepanovna Politkovskaya was a Russian investigative journalist who reported on political and social events in Russia, in particular, the Second Chechen War (1999–2005). She was found murdered in the elevator of her apartment block in Moscow on 7 October 2006."
+    "Milan Linate Airport is a city airport located in Milan, the second-largest city and largest urban area of Italy. It served 10.6 million passengers and recorded 118,060 aircraft movements in 2024, making it one of the busiest airports in Italy. It is the third-busiest airport in the Milan metropolitan area in terms of passenger numbers, after Malpensa and Bergamo, and the second busiest in terms of aircraft movements."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1991,
-   "text": "Croatian War of Independence: The Yugoslav People's Army conducted an air strike on Banski Dvori, the official residence of the president of Croatia in Zagreb.",
+   "year": 1998,
+   "text": "A new airport for Oslo, Norway, opened at Gardermoen, replacing a smaller one at the same location that had served as a backup to the city's previous main airport at Fornebu.",
    "context": [
-    "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992."
+    "Oslo is the capital and largest city of Norway. It constitutes both a county and a municipality. The municipality of Oslo had a population of 724,290 in 2025, while the city's greater urban area had a population of 1,110,887 in 2025, and the metropolitan area had an estimated population of 1,546,706 in 2021."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1988,
-   "text": "Near Point Barrow in Alaska, an Iñupiat hunter discovered three gray whales trapped in pack ice, which resulted in an international effort to free them.",
+   "year": 1995,
+   "text": "The Croatian Army and Croatian Defence Council launched Operation Southern Move, their last offensive in the Bosnian War.",
    "context": [
-    "Point Barrow or Nuvuk is a headland on the Arctic coast in the U.S. state of Alaska, 9 miles (14 km) northeast of Utqiagvik. It is the northernmost point of all the territory of the United States, at 71°23′20″N 156°28′45″W, 1,122 nautical miles south of the North Pole."
+    "The Croatian Army is the land force branch of the Armed Forces of Croatia. It is the oldest and largest of its three service branches, followed by the Croatian Air Force and Croatian Navy. The Army's primary mission is to protect Croatia's territory, sovereignty, and its national interests around the world. The Croatian Army Command is primarily headquartered in Karlovac with 20 military bases nationwide."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1985,
-   "text": "About 130 people died as a result of severe floods in Puerto Rico.",
+   "year": 1969,
+   "text": "Demonstrations organized by the Weather Underground known as the Days of Rage began in Chicago, aimed at ending U.S. involvement in the Vietnam War.",
    "context": [
-    "The 1985 Puerto Rico floods produced showers and thunderstorms across the island and the deadliest single landslide on record on United States territory, that killed at least 130 people in the Mameyes neighborhood of barrio Portugués Urbano in Ponce. The floods were the result of a westward-moving tropical wave that emerged off the coast of Africa on September 29. The system moved into the Caribbean Sea on October 5 and produced heavy rains across Puerto Rico, peaking at 31.67 in (804 mm) in Toro Negro State Forest. Two stations broke their 24-hour rainfall records set in 1899. The rains caused severe flooding in the southern half of Puerto Rico, which isolated towns, washed out roads, and caused rivers to exceed their banks. In addition to the deadly landslide in Mameyes, the floods washed out a bridge in Santa Isabel that killed several people. The storm system caused about $125 million in damage and 180 deaths, which prompted a presidential disaster declaration. The tropical wave later spawned Tropical Storm Isabel."
+    "The Weather Underground was an American Marxist militant organization active from 1969 until 1977. Originally known as the Weathermen, or simply Weatherman, the group originated as a faction of the national leadership of Students for a Democratic Society (SDS).\nThe group adopted the name Weather Underground Organization (WUO) in 1970. Its members advocated revolutionary struggle against the United States government and described their politics as anti-imperialist and anti-racist. The group's ideology was influenced by Black Power and the anti-war movement. The Federal Bureau of Investigation (FBI) regarded the WUO as a domestic terrorist group."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1944,
-   "text": "The Holocaust: Sonderkommando work-unit members in Auschwitz concentration camp revolted upon learning that they were due to be killed; although a few managed to escape, most were massacred on the same day.",
+   "year": 1967,
+   "text": "Marxist revolutionary and guerrilla leader Che Guevara was captured near La Higuera, Bolivia.",
    "context": [
-    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
+    "Marxism is a political philosophy and method of socioeconomic analysis that uses a dialectical materialist interpretation of historical development, known as historical materialism, to understand class relations and social conflict. Originating in the works of 19th-century German philosophers Karl Marx and Friedrich Engels, the Marxist approach views class struggle as the central driving force of historical change."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1916,
-   "text": "Georgia Tech defeated Cumberland University 222–0 in the most lopsided college football game in American history.",
+   "year": 1956,
+   "text": "Major League Baseball pitcher Don Larsen threw the only perfect game in World Series history.",
    "context": [
-    "The Georgia Tech Yellow Jackets football program represents the Georgia Institute of Technology in American football. The team competes in the Atlantic Coast Conference (ACC) of the Football Bowl Subdivision (FBS) level of the NCAA. Georgia Tech has fielded a team since 1892 and holds an all-time record of 773–550–43. The Yellow Jackets play at the historic Bobby Dodd Stadium at Hyundai Field in Atlanta, Georgia. The Yellow Jackets claim four national championships across four decades. The program has also won 16 conference titles."
+    "Major League Baseball (MLB) is a professional baseball league in North America composed of 30 teams, divided equally between the National League (NL) and the American League (AL), with 29 in the United States and 1 in Canada. MLB is one of the major professional sports leagues in the United States and Canada and is considered the premier baseball league in the world. Each team plays 162 games per season, with Opening Day held during the last week of March or the first week of April. Six teams in each league then advance to a four-round postseason tournament in October, culminating in the World Series, a best-of-seven championship series between the two league champions first played in 1903. MLB is headquartered in New York City."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1914,
-   "text": "Japan captured Pohnpei from Germany, eventually leading to large-scale Japanese immigration to Micronesia.",
+   "year": 1952,
+   "text": "Three trains collided (aftermath pictured) at Harrow & Wealdstone station in London, killing 112 people and injuring 340 others.",
    "context": [
-    "Pohnpei is an island of the Senyavin Islands which are part of the larger Caroline Islands group. It belongs to Pohnpei State, one of the four states in the Federated States of Micronesia (FSM). Major population centers on Pohnpei include Palikir, the FSM's capital, and Kolonia, the capital of Pohnpei State. Pohnpei is the largest island in the FSM, with an area of 334 km2 (129 sq mi), and a highest point of 782 m (2,566 ft), the most populous with 36,832 people, and the most developed single island in the FSM."
+    "The Harrow and Wealdstone rail crash was a three-train collision at Harrow and Wealdstone station in Wealdstone, Middlesex during the morning rush hour of 8 October 1952. The crash resulted in 112 deaths and 340 injuries, 88 of these being detained in hospital. It remains the worst peacetime rail crash in British history and the second deadliest overall after the Quintinshill rail disaster of 1915."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1914,
-   "text": "Seven-year-old Theo Faiss, later memorialized in speeches by Rudolf Steiner and a sculpture (pictured) by Edith Maryon, was killed by an overturned wagon in Switzerland.",
+   "year": 1932,
+   "text": "The Indian Air Force was founded as an auxiliary air force of the British Royal Air Force.",
    "context": [
-    "Theodor Alberto Faiss was a boy whose death in Dornach, Switzerland, at the age of seven, was frequently invoked by the anthroposophist Rudolf Steiner as having spiritual significance. A well-liked child who frequently ran errands, Faiss was killed while doing so for Steiner's housekeeper when a horse-drawn wagon overturned on him. Steiner invoked Faiss's death in at least fifteen speeches and lectures thereafter, repeatedly terming it a karmically voluntary sacrifice that provided a protective spiritual sheath for the Goetheanum, the headquarters of the anthroposophical movement."
+    "The Indian Air Force (IAF) is the air arm of the Indian Armed Forces. Its primary mission is to secure Indian airspace and to conduct aerial warfare during armed conflicts. It was officially established on 8 October 1932 as an auxiliary air force of British India which honoured India's aviation service during World War II."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1878,
-   "text": "The state funeral of Mindon Min (pictured), who ruled Myanmar for 25 years, took place; his death was reportedly preceded by strange omens, and his senior princes were unable to attend as they had all been arrested.",
+   "year": 1918,
+   "text": "World War I: After his platoon suffered heavy casualties during the Meuse–Argonne offensive in France's Forest of Argonne, American Corporal Alvin York led the 7 remaining men on an attack against a German machine gun nest; 25 German soldiers were killed and 132 captured.",
    "context": [
-    "Mindon Min, the tenth king of the Konbaung Kingdom, died in Mandalay Palace at the age of 64 on the afternoon of 1 October 1878. A mourning period of seven days preceded his funeral, which took place on 7 October. His son Thibaw was proclaimed the new monarch by the Hluttaw."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1868,
-   "text": "Ōdate, the last castle of the Satake clan in Japan's Tōhoku region, was captured during the Boshin War.",
+   "year": 1871,
+   "text": "The Great Chicago Fire (pictured), began and proceeded to destroy much of the city's central business district, killing 300 people and leaving 90,000 others homeless.",
    "context": [
-    "The Satake clan  was a Japanese samurai clan that claimed descent from the Minamoto clan. Its first power base was in Hitachi Province. The clan was subdued by Minamoto no Yoritomo in the late 12th century, but later entered Yoritomo's service as vassals. In the Muromachi period, the Satake served as Governor (shugo) of Hitachi Province, under the aegis of the Ashikaga shogunate. The clan sided with the Western Army during the Battle of Sekigahara, and was punished by Tokugawa Ieyasu, who moved it to a smaller territory in northern Dewa Province at the start of the Edo period. The Satake survived as lords (daimyō) of the Kubota Domain. Over the course of the Edo period, two major branches of the Satake clan were established, one ruled the fief of Iwasaki, the other one the fief of Kubota-Shinden."
+    "The Great Chicago Fire burned in Chicago, Illinois, United States, during October 8–10, 1871. The fire killed approximately 300 people, destroyed 17,000 structures across roughly 3.3 square miles (9 km2), and left more than 100,000 residents homeless. The fire began in a neighborhood southwest of the city center. A long period of hot, dry, windy conditions, and the wooden construction prevalent in the city, led to the conflagration spreading quickly. The fire leapt the south branch of the Chicago River and destroyed much of central Chicago and then crossed the main stem of the river, consuming the Near North Side."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1849,
-   "text": "American writer Edgar Allan Poe  died under mysterious circumstances at Washington Medical College four days after being found on the streets of Baltimore, Maryland, in a delirious and incoherent state.",
+   "year": 1862,
+   "text": "American Civil War: The Battle of Perryville was fought west of Perryville, Kentucky.",
    "context": [
-    "Edgar Allan Poe was an American writer, poet, editor, and literary critic who is best known for his poetry and short stories, particularly his tales involving mystery and the macabre. He is widely regarded as one of the central figures of Romanticism and Gothic fiction in the United States and of early American literature."
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln and the growing abolitionist movement in the North. The war ended with Union victory, the dissolution of the Confederacy and the abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1840,
-   "text": "William II became King of the Netherlands after his father William I abdicated the throne.",
+   "year": 451,
+   "text": "The Council of Chalcedon, a Christian ecumenical council, opened, and went on to repudiate the Eutychian doctrine of monophysitism and set forth the Chalcedonian Creed.",
    "context": [
-    "William II was King of the Netherlands, Grand Duke of Luxembourg, and Duke of Limburg from 1840 until his death."
-   ]
-  },
-  {
-   "ref": "wikipedia#14",
-   "year": 1800,
-   "text": "The French privateer Robert Surcouf led a 150-man crew to capture the 40-gun, 437-man East Indiaman Kent.",
-   "context": [
-    "A privateer is a private person or vessel which engages in commerce raiding under a commission of war. Since piracy was a common aspect of seaborne trade, until the early 19th century all merchant ships carried arms. A sovereign or delegated authority issued commissions, also referred to as letters of marque, during wartime. The commission empowered the holder to carry on all forms of hostility permissible at sea by the usages of war. This included attacking foreign vessels and taking them as prizes and taking crews prisoner for exchange. Captured ships were subject to condemnation and sale under prize law, with the proceeds divided by percentage between the privateer's sponsors, shipowners, captains and crew. A percentage share usually went to the issuer of the commission. Most colonial powers, as well as other countries, engaged in privateering."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
-   "year": 1780,
-   "text": "American Revolutionary War: Patriots and Loyalist militias engaged each other at the Battle of Kings Mountain in South Carolina.",
-   "context": [
-    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British monarchy acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 1763,
-   "text": "King George III issued a royal proclamation that forbade British settlement of much of newly acquired French territory in North America, reserving the land for indigenous peoples.",
-   "context": [
-    "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1571,
-   "text": "Ottoman–Habsburg wars: The Battle of Lepanto was fought near the Gulf of Corinth, a significant setback for the Ottoman Empire and the last major naval battle fought entirely with galleys.",
-   "context": [
-    "The Ottoman–Habsburg wars were fought from the 16th to the 18th centuries between the Ottoman Empire and the Habsburg monarchy, which was at times supported by the Kingdom of Hungary, Polish–Lithuanian Commonwealth, the Holy Roman Empire, and Habsburg Spain. The wars were dominated by land campaigns in Hungary, including Transylvania and Vojvodina, Croatia, and central Serbia."
-   ]
-  },
-  {
-   "ref": "wikipedia#18",
-   "year": 1513,
-   "text": "War of the League of Cambrai: A Venetian army under Bartolomeo d'Alviano was decisively defeated by the Spanish army commanded by Ramón de Cardona and Fernando d'Ávalos.",
-   "context": [
-    "The War of the League of Cambrai, also known by its second stage as the War of the Holy League, was fought from December 1508 to December 1516, as part of the wider Italian Wars of 1494–1559. The main participants of the war, who fought for its entire duration, were France, the Holy Roman Empire, the Papal States, and the Republic of Venice; they were joined at various times by nearly every significant power in Western Europe, including Spain, England, the Duchy of Milan, the Republic of Florence, the Duchy of Ferrara, and the Swiss."
+    "The Council of Chalcedon was the fourth ecumenical council of the Christian Church. It was convoked by the Roman emperor Marcian. The council convened in the city of Chalcedon, Bithynia from 8 October to 1 November 451. The council was attended by over 520 bishops or their representatives, making it the largest and best-documented of the first seven ecumenical councils. The principal purpose of the council was to re-assert the teachings of the ecumenical Council of Ephesus against the teachings of Eutyches and Nestorius. Such doctrines viewed Christ's divine and human natures as separate and distinct (Nestorianism), or viewed Christ as solely divine (monophysitism). The Council of Chalcedon issued the Chalcedonian Definition, stating that Jesus is \"perfect both in deity and in humanness; this selfsame one is also actually God and actually man.\" The Council's judgments and definitions regarding the divine marked a significant turning point in the Christological debates."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Vertical integration (אינטגרציה אנכית)",
+  "First-mover advantage (יתרון הראשונים)",
+  "Moving the goalposts (להזיז את השער)",
   "Vesting cliff (תקופת הבשלה מינימלית)",
   "Top line vs. bottom line (שורת ההכנסות מול שורת הרווח)",
   "Bet the farm (להמר על הכל)",
