@@ -1,0 +1,121 @@
+{
+  "section": "business",
+  "date": "2026-10-09",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-09T04:08:20+00:00",
+  "stories": [
+    {
+      "id": "openai-revenue-doubts",
+      "kind": "analysis",
+      "en": {
+        "headline": "OpenAI's Revenue Comes In $20 Billion Short, and Markets Take Notice",
+        "scroll": "OpenAI's annualized revenue is reportedly near $50 billion, $20 billion below what investors were told, feeding a selloff in AI-linked stocks and the collapse of a $5 billion data-center IPO.",
+        "coffee": "The Financial Times reported that OpenAI's annualized revenue run-rate — a recent month's revenue multiplied by 12 — now stands at close to $50 billion as of September, roughly $20 billion below the nearly $70 billion figure widely reported and reportedly signaled to investors earlier. Bloomberg first cast this as reassuring, with US stock futures rising as \"more details emerged.\" The calm didn't last: on October 8th the Nasdaq fell more than 1%, as doubts about the revenue combined with a spike in oil prices to drag tech shares down for a second straight day — a move TheMarker's coverage also tied directly to the OpenAI report. The same day, Nvidia-backed data-center operator Firmus abandoned a roughly $5 billion Sydney IPO, blaming \"recent market volatility,\" with Bloomberg linking the collapse to \"global concerns over frothy AI valuations.\"\n\nThis matters because OpenAI's number is the load-bearing assumption behind valuations across the AI supply chain — chipmakers, data-center builders, optical-component makers — all pricing growth off the idea that AI-services demand keeps compounding at OpenAI's pace. Not every signal agrees: Lumentum's CEO told Bloomberg his company's AI-infrastructure components are effectively sold out through nearly 2029. That split — hardware backlogs holding up while equity and IPO markets wobble — is the real story.\n\nWatch whether other AI-infrastructure IPOs stall after Firmus, whether OpenAI discloses more than a single run-rate figure, and whether rising long-term bond yields, which raise the discount rate on speculative future earnings, keep making growth-stock disappointments costlier.",
+        "deep": "## Background\n\nOpenAI, the maker of ChatGPT, is still a private company, so unlike Apple or Microsoft it doesn't file quarterly revenue reports to the public. What outsiders get instead is an \"annualized revenue run-rate\" (ARR): take whatever the company earned in one recent month (or quarter) and multiply it by 12. It's a useful shorthand for a fast-growing business, but it's easy to overstate — a run-rate assumes the most recent month's pace holds for a full year, says nothing about costs or profitability, and can shift with a single large or one-off contract. For OpenAI specifically, the number matters far beyond its own books, because the entire AI-infrastructure boom — chipmakers, data-center builders, optical-component suppliers — has been pricing itself off the assumption that demand for OpenAI-scale AI services keeps compounding.\n\n## The story\n\nThe Financial Times reported that OpenAI's annualized revenue is now put at close to $50 billion as of September — roughly $20 billion below the nearly $70 billion figure that had been widely reported, and that OpenAI itself had reportedly signaled to investors not long ago. Bloomberg initially framed the news as reassuring: US stock futures rose alongside Asian shares as \"more details emerged\" about the number, suggesting earlier weakness in tech shares \"may be contained.\"\n\nThat reassurance didn't survive the next trading session. On Wall Street on October 8th, the Nasdaq fell more than 1%, as doubts about OpenAI's revenue combined with a separate spike in oil prices (following fresh tanker attacks and jitters around Iran) to drag technology shares lower for a second straight day — a pattern Hebrew-language coverage on TheMarker also flagged, noting tech stocks fell specifically after the OpenAI revenue report. The same day, Nvidia-backed data-center operator Firmus abandoned a roughly $5 billion initial public offering (IPO) in Sydney — one of Australia's biggest-ever attempted listings — after failing to attract global investors. Firmus blamed \"recent market volatility and prevailing market conditions,\" and Bloomberg's reporting linked the collapse directly to \"global concerns over frothy AI valuations.\"\n\nNot every AI-linked data point that week pointed the same direction. Lumentum's CEO told Bloomberg that the optical components his company makes for AI data centers are effectively sold out through nearly 2029, driven by demand from technology companies building AI infrastructure. That's the split running through the AI trade right now: hardware suppliers with multi-year backlogs locked in are telling one story, while the equity and IPO markets pricing the AI business models built on top of that hardware are telling another.\n\n## Second-order effects\n\nA revenue figure coming in lower than rumored doesn't, by itself, make OpenAI's technology any less capable or its products less used. What it does is undercut the narrative that has justified sky-high valuations across the AI supply chain. If the single most-watched AI company is generating meaningfully less revenue than markets assumed, every supplier, lender and investor whose numbers depend on the pace of the AI boom — not just OpenAI's own backers — has to recalculate. That is one reason the selloff spread beyond any single stock: when sentiment flips on an assumption this central, it moves cyclicals, suppliers and the broader Nasdaq together rather than one name in isolation.\n\nThe timing compounds the risk. Elsewhere in markets this week, long-dated US Treasury yields have been pushing toward their highest levels in more than two decades, before easing slightly after a solid 30-year bond auction. Higher yields raise the \"discount rate\" investors apply to a company's future earnings — the further out and more speculative those earnings are, the harder richly valued growth and AI stocks get hit when yields rise. A revenue disappointment lands harder in that environment than it would have a year ago, when borrowing costs were lower and investors were more willing to pay up for growth they couldn't yet see in the numbers.\n\nThe IPO market is a sensitive barometer for all of this. Firmus's withdrawal came in the same week Bloomberg reported Japan's IPO fundraising has fallen to a 14-year low, partly for the opposite reason — a shortage of AI-related companies to list. Taken together, the two stories describe one global market trying to price AI risk in real time: too little AI supply in one market, suddenly too much skepticism about AI demand in another.\n\n## What to watch next\n\nWatch whether other AI-infrastructure IPOs delay or reprice in Firmus's wake, and whether OpenAI itself, or its peers, offer more detail on revenue, margins and cash burn rather than a single run-rate figure. Watch the hardware side too — if order books at suppliers like Lumentum hold up even as equity sentiment sours, that's a sign the doubts are about valuation and financing structures, not underlying AI demand. And watch bond yields: a further rise would make any future growth-stock disappointment more expensive for the market to absorb."
+      },
+      "he": {
+        "headline": "הכנסות OpenAI נמוכות ב-20 מיליארד דולר מהמוצג למשקיעים, והשוק מגיב",
+        "scroll": "קצב ההכנסות השנתי המוערך של OpenAI עומד על כ-50 מיליארד דולר, כ-20 מיליארד דולר מתחת למוצג למשקיעים, והזין ירידות במניות ה-AI וקריסת הנפקה בשווי 5 מיליארד דולר.",
+        "coffee": "ה-Financial Times דיווח שקצב ההכנסות השנתי המוערך (annualized revenue run-rate) של OpenAI — הכנסת חודש אחרון מוכפלת ב-12 — עומד כעת על כ-50 מיליארד דולר נכון לספטמבר, כ-20 מיליארד דולר מתחת לנתון של כ-70 מיליארד דולר שדווח בהרחבה בעבר ושהוצג, לפי הדיווח, למשקיעים. בלומברג תיאר את החשיפה בתחילה כמרגיעה: חוזים עתידיים על מדדי המניות האמריקאיים עלו כש\"פרטים נוספים\" על הנתון נחשפו. הרוגע הזה לא האריך ימים: ב-8 באוקטובר נאסד\"ק צנח ביותר מ-1%, כשהספקות בנוגע להכנסות OpenAI נפגשו עם זינוק נפרד במחירי הנפט, ושניהם דחפו את מניות הטכנולוגיה לירידה ליום המסחר השני ברצף — מגמה שגם TheMarker קישר במפורש לדיווח על הכנסות OpenAI. באותו היום, חברת Firmus, מפעילת מרכזי נתונים הנתמכת על ידי אנבידיה (Nvidia), זנחה הנפקה (IPO) בשווי של כ-5 מיליארד דולר בסידני, בטענה ל\"תנודתיות שוק אחרונה\", ובלומברג קשר את הקריסה ל\"חששות גלובליים משוויים מנופחים (frothy valuations) של בינה מלאכותית\".\n\nזה משנה כי ההנחה שעומדת מאחורי השוויים בכל שרשרת האספקה של הבינה המלאכותית — יצרני השבבים, בוני מרכזי הנתונים, ספקי רכיבי האופטיקה — היא שהביקוש לשירותי AI ימשיך לצמוח בקצב של OpenAI. לא כל האינדיקטורים מצביעים לאותו כיוון: מנכ\"ל Lumentum אמר לבלומברג שרכיבי האופטיקה שהחברה מייצרת למרכזי נתונים של AI אזלו בפועל עד 2029 בקירוב. הפיצול הזה — ספרי הזמנות מלאים בצד החומרה לצד רעידה בשוקי המניות וההנפקות — הוא הסיפור האמיתי.\n\nלעקוב אחרי הנפקות נוספות בתחום תשתיות ה-AI שעלולות להידחות בעקבות Firmus, אחרי פירוט נוסף שעשויות OpenAI ומתחרותיה לספק מעבר לנתון קצב הכנסות בודד, ואחרי תשואות אג\"ח ארוכות שעולות ומייקרות כל אכזבה עתידית ממניות צמיחה.",
+        "deep": "## רקע\n\nOpenAI, יצרנית ChatGPT, היא עדיין חברה פרטית, ולכן בניגוד לאפל או מיקרוסופט היא לא מפרסמת דוחות הכנסות רבעוניים לציבור. מה שכן מתפרסם מדי פעם הוא \"קצב הכנסות שנתי\" (annualized revenue run-rate): מכפילים את ההכנסה של חודש או רבעון אחרון ב-12, ומקבלים הערכה גסה להכנסה השנתית. זה נתון נוח לתיאור חברה שצומחת מהר, אבל גם קל להטעיה: הוא מניח שקצב החודש האחרון יישמר כל השנה, לא אומר כלום על ההוצאות או הרווחיות, ויכול לזוז בעקבות חוזה בודד וגדול. במקרה של OpenAI, לנתון הזה יש משמעות שחורגת הרבה מעבר למאזן של החברה עצמה, כי כל תעשיית תשתיות הבינה המלאכותית — יצרני השבבים, בוני מרכזי הנתונים, ספקי רכיבי האופטיקה — מתמחרת את עצמה על בסיס ההנחה שהביקוש לשירותי AI בסדר גודל כזה ימשיך לצמוח.\n\n## הסיפור\n\nה-Financial Times דיווח שקצב ההכנסות השנתי המוערך של OpenAI עומד כעת על כ-50 מיליארד דולר, נכון לספטמבר — כ-20 מיליארד דולר מתחת לנתון של כ-70 מיליארד דולר שדווח בהרחבה בעבר, ושלפי הדיווח הוצג בעצמו למשקיעים לא מכבר. בלומברג תיאר את החשיפה בתחילה כמרגיעה: חוזים עתידיים על מדדי המניות האמריקאיים עלו, לצד מניות אסיה, כש\"פרטים נוספים\" על הנתון נחשפו, ומכך הוסק שההיחלשות הקודמת במניות הטכנולוגיה \"עשויה להיות מוגבלת\".\n\nההרגעה הזאת לא האריכה ימים. בוול סטריט, ב-8 באוקטובר, נאסד\"ק צנח ביותר מ-1%, כשהספקות בנוגע להכנסות OpenAI נפגשו עם זינוק נפרד במחירי הנפט (על רקע תקיפות טריות על מכליות ועצבנות מול איראן), ששניהם גרמו למניות הטכנולוגיה לרדת ליום המסחר השני ברצף — תבנית שגם הסיקור העברי ב-TheMarker ציין, תוך הדגשה שמניות הטכנולוגיה ירדו באופן ספציפי בעקבות הדיווח על הכנסות OpenAI הנמוכות מהצפוי. באותו היום, חברת Firmus, מפעילת מרכזי נתונים הנתמכת על ידי אנבידיה (Nvidia), זנחה הנפקה (IPO) בשווי של כ-5 מיליארד דולר בסידני — אחת ההנפקות הגדולות שתוכננו באוסטרליה — לאחר שנכשלה לגייס עניין ממשקיעים גלובליים. החברה ייחסה זאת ל\"תנודתיות שוק אחרונה ותנאי שוק קיימים\", ובלומברג קשר במפורש בין הקריסה לבין \"חששות גלובליים משוויים מנופחים (frothy valuations) בתחום הבינה המלאכותית\".\n\nלא כל נתון שהתפרסם באותו שבוע הצביע לכיוון הזה. מנכ\"ל Lumentum אמר לבלומברג שרכיבי האופטיקה שהחברה מייצרת למרכזי הנתונים של בינה מלאכותית \"אזלו\" בפועל מהמלאי עד לשנת 2029 בקירוב, בעקבות ביקוש מחברות טכנולוגיה הבונות תשתיות AI. זה בדיוק הפיצול שרץ כרגע בתוך \"סחר ה-AI\": ספקיות החומרה עם הזמנות מובטחות לשנים קדימה מספרות סיפור אחד, ואילו שוקי המניות וההנפקות, שמתמחרים את מודלי העסקים שנבנים מעל אותה חומרה, מספרים סיפור אחר.\n\n## אפקטים מסדר שני\n\nנתון הכנסות נמוך מהשמועות לא הופך בעצמו את הטכנולוגיה של OpenAI ליעילה פחות או את המוצרים שלה לפחות נפוצים. מה שהוא עושה הוא לפגוע בנרטיב שהצדיק שוויים גבוהים מאוד בכל שרשרת האספקה של הבינה המלאכותית. אם החברה הנצפית ביותר בתחום מייצרת הכנסות נמוכות באופן מהותי מהנחת השוק, כל ספק, מלווה ומשקיע שהמספרים שלו תלויים בקצב הגאות של AI — ולא רק המשקיעים הישירים של OpenAI — צריך לחשב מחדש. זו אחת הסיבות לכך שהירידות התפשטו מעבר למניה בודדת: כשהסנטימנט מתהפך על הנחה כך מרכזית, הוא מזיז יחד מניות מחזוריות, ספקים ואת נאסד\"ק הרחב — ולא שם אחד בבדידותו.\n\nהתזמון מחזק את הסיכון. במקביל, בשווקים נרשמה תשואת אג\"ח אמריקאיות ארוכות-טווח שהתקרבה לרמות הגבוהות ביותר מזה יותר משני עשורים, לפני שנרגעה מעט לאחר מכרז מוצלח של אג\"ח ל-30 שנה. תשואות (yields) גבוהות יותר מעלות את \"שיעור ההיוון\" (discount rate) שמשקיעים מחילים על הכנסות עתידיות של חברה — וככל שההכנסות האלה רחוקות יותר בזמן וספקולטיביות יותר, מניות צמיחה ובינה מלאכותית בעלות שווי גבוה נפגעות קשה יותר כשהתשואות עולות. אכזבת הכנסות נוחתת קשה יותר בסביבה הזאת מכפי שהייתה נוחתת לפני שנה, כשעלויות המימון היו נמוכות יותר ומשקיעים היו מוכנים לשלם יותר על צמיחה שעדיין לא ראו במספרים.\n\nשוק ההנפקות הוא ברומטר רגיש לכל זה. נסיגתה של Firmus הגיעה באותו השבוע שבו בלומברג דיווח שגיוס ההון בהנפקות ביפן צנח לשיא שלילי של 14 שנה — בין היתר מהסיבה ההפוכה: מחסור בחברות הקשורות לבינה מלאכותית שניתן להנפיק. בשני המקרים יחד, רואים שוק גלובלי אחד שמנסה לתמחר בזמן אמת את הסיכון של AI: מעט מדי היצע של AI בשוק אחד, ופתאום יותר מדי ספקנות לגבי הביקוש ל-AI בשוק אחר.\n\n## מה לעקוב הלאה\n\nלבדוק אם הנפקות נוספות בתחום תשתיות הבינה המלאכותית יידחו או ישונו בעקבות המקרה של Firmus, ואם OpenAI עצמה, או מתחרותיה, יספקו פירוט רב יותר על הכנסות, רווחיות וקצב שריפת המזומנים, ולא רק נתון קצב הכנסות בודד. לבדוק גם את צד החומרה — אם ספרי ההזמנות של ספקים כמו Lumentum ימשיכו להיות מלאים גם אם הסנטימנט במניות יתקרר, זה סימן שהספקות נוגעות לשווי ולמבני המימון, ולא לביקוש הבסיסי ל-AI. ולבדוק את תשואות האג\"ח: עלייה נוספת תהפוך כל אכזבה עתידית ממניות צמיחה ליקרה יותר לעיכול עבור השוק."
+      },
+      "tags": [
+        "openai",
+        "ai-valuations",
+        "ipo",
+        "tech-stocks"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "OpenAI annualised revenues $20bn less than previously signalled",
+          "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "US Stock Futures Rise on OpenAI Revenue, Oil Drops: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Nvidia-Backed Firmus IPO Collapses",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-09/nvidia-backed-firmus-ipo-collapses-video"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Australian data centre operator pulls $5bn IPO",
+          "url": "https://www.ft.com/content/205ef7a5-321f-46e3-8097-d055bf1f6b3b?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Lumentum CEO: Opto-Parts Capacity Sold Out to 2029",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-09/lumentum-ceo-opto-parts-capacity-sold-out-to-2029-video"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Market News, Oct. 8, 2026: Oil Rises, Nasdaq Slips on Fresh Tanker Attack",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-08-2026?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-oil-spikes-ai-profit-doubts-hit-tech-79e35aaa?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Slip, Oil Rises on Fresh Tanker Attack",
+          "url": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט ננעלה בירידות על רקע עלייה במחירי הנפט; נאסד\"ק איבד יותר מ-1%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-08/ty-article-live/000001a1-0a37-dff9-a3b3-cf3fba8e0000"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Japan Deal Drought Cuts IPO Fundraising to Lowest in 14 Years",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/japan-deal-drought-cuts-ipo-fundraising-to-lowest-in-14-years"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4089.9399,
+      "prev_close": 4096.4502,
+      "change_pct": -0.16,
+      "as_of": "2026-10-08"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7765.3599,
+      "prev_close": 7801.77,
+      "change_pct": -0.47,
+      "as_of": "2026-10-08"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0568,
+      "prev_close": 3.0713,
+      "change_pct": -0.47,
+      "as_of": "2026-10-09"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 103.09,
+      "prev_close": 100.2,
+      "change_pct": 2.88,
+      "as_of": "2026-10-08"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 82292.7109,
+      "prev_close": 83275.9297,
+      "change_pct": -1.18,
+      "as_of": "2026-10-09"
+    }
+  }
+}

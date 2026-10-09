@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-09",
+  "questions": [
+    {
+      "id": "q1",
+      "section": "business",
+      "story_id": "openai-revenue-doubts",
+      "answer_index": 1,
+      "en": {
+        "question": "By how much did OpenAI's reported annualized revenue run-rate miss the figure previously signaled to investors?",
+        "options": [
+          "About $5 billion",
+          "About $20 billion",
+          "About $40 billion",
+          "It exceeded expectations"
+        ],
+        "explanation": "The FT reported OpenAI's run-rate near $50 billion as of September, roughly $20 billion below the ~$70 billion figure widely reported and reportedly signaled to investors earlier."
+      },
+      "he": {
+        "question": "בכמה הייתה הכנסות OpenAI ה'קצב שנתי' נמוכה מהנתון שהוצג בעבר למשקיעים?",
+        "options": [
+          "בכ-5 מיליארד דולר",
+          "בכ-20 מיליארד דולר",
+          "בכ-40 מיליארד דולר",
+          "ההכנסות עלו על הציפיות"
+        ],
+        "explanation": "ה-Financial Times דיווח שקצב ההכנסות השנתי של OpenAI עומד על כ-50 מיליארד דולר נכון לספטמבר, כ-20 מיליארד דולר מתחת לנתון של כ-70 מיליארד דולר שדווח בעבר ושהוצג, לפי הדיווח, למשקיעים."
+      }
+    },
+    {
+      "id": "q2",
+      "section": "israeli_politics",
+      "story_id": "bloc-infighting-election-campaign",
+      "answer_index": 1,
+      "en": {
+        "question": "According to ynet's reporting, where are the sharpest battles in Israel's election campaign happening?",
+        "options": [
+          "Between the governing and opposition blocs",
+          "Within each political bloc, among parties on the same side",
+          "Mainly in the courts, over the judicial overhaul",
+          "Between Israel and foreign governments"
+        ],
+        "explanation": "ynet reported that the fiercest fights are inside each bloc, such as Netanyahu working against Ben Gvir and Eisenkot courting Bennett and Lapid voters, rather than between the blocs."
+      },
+      "he": {
+        "question": "לפי הדיווח של ynet, היכן מתנהלים הקרבות החריפים ביותר בקמפיין הבחירות בישראל?",
+        "options": [
+          "בין הגוש הקואליציוני לגוש האופוזיציה",
+          "בתוך כל גוש פוליטי, בין מפלגות מאותו הצד",
+          "בעיקר בבתי המשפט, בסוגיית ההפיכה המשפטית",
+          "בין ישראל לממשלות זרות"
+        ],
+        "explanation": "ynet דיווח שהקרבות החריפים ביותר מתנהלים בתוך כל גוש, למשל נתניהו הפועל נגד בן גביר ואיזנקוט המקרין למצביעי בנט ולפיד, ולא בין הגושים עצמם."
+      }
+    },
+    {
+      "id": "q3",
+      "section": "sports",
+      "story_id": "messi-argentina-retirement-inter-miami",
+      "answer_index": 1,
+      "en": {
+        "question": "What did Lionel Messi actually retire from?",
+        "options": [
+          "All competitive football",
+          "Argentina's national team only",
+          "Inter Miami",
+          "Playing in MLS"
+        ],
+        "explanation": "Messi retired from international football with Argentina only; he returned to training with Inter Miami within about a day of the announcement."
+      },
+      "he": {
+        "question": "ממה ליאו מסי פרש בפועל?",
+        "options": [
+          "מכדורגל תחרותי לחלוטין",
+          "מנבחרת ארגנטינה בלבד",
+          "מאינטר מיאמי",
+          "מהליגה האמריקאית (MLS)"
+        ],
+        "explanation": "מסי פרש מהנבחרת הבינלאומית של ארגנטינה בלבד; הוא חזר להתאמן עם אינטר מיאמי כבר יום לאחר ההודעה."
+      }
+    }
+  ]
+}
