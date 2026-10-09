@@ -144,91 +144,90 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
-     "title": "Predictions for economics, given AI",
-     "published": "2026-10-08T17:34:18+00:00",
-     "summary": "From Ingar Haaland: With math essentially being delegated to OpenAI, here’s what I predict for economics and the social sciences more generally: The top tier of research will just become better and it will be normal human-led research where AI is used for scale (e.g. conducting qualitative interviews with relevant populations, running behavioral interventions in […] The post Predictions for econom",
-     "full_text_file": "essays/marginal_revolution_0.txt"
+     "title": "A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman",
+     "published": "2026-10-09T06:26:35+00:00",
+     "summary": "Supplied by Bryan Caplan, performed by ChatGPT, excerpt: So Cowen isn’t well described as either “positive” or “negative.” A much better description is: High appreciation + high concern + very low emotional agitation. He seems to think there is an astonishing amount of wonderful stuff in the world and an astonishing number of things worth […] The post A Sentiment Analysis of Cowen, Hanson, Caplan,"
     },
     {
      "ref": "marginal_revolution#1",
+     "title": "On *Stubborn Attachments* and religion (from my email)",
+     "published": "2026-10-09T04:38:05+00:00",
+     "summary": "Hey Tyler I consider Stubborn Attachments your most dogmatic and religious book. Pondering on it, here are my Abrahamic readings of it: Jewish: Ten Commandments, obviously. While the bigger canon of Jewish laws tend to be overly conservative because people will fail following them anyway, the Ten Commandments are the laws the Jews should be […] The post On *Stubborn Attachments* and religion (from"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Predictions for economics, given AI",
+     "published": "2026-10-08T17:34:18+00:00",
+     "summary": "From Ingar Haaland: With math essentially being delegated to OpenAI, here’s what I predict for economics and the social sciences more generally: The top tier of research will just become better and it will be normal human-led research where AI is used for scale (e.g. conducting qualitative interviews with relevant populations, running behavioral interventions in […] The post Predictions for econom",
+     "full_text_file": "essays/marginal_revolution_2.txt"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "Thursday assorted links",
      "published": "2026-10-08T17:14:37+00:00",
      "summary": "1. War in space? 2. How the math breakthroughs might matter. 3. Short proof of quasi-Riemann. 4. App for finding art exhibitions. 5. Podcast on African economic growth. 6. New and very good book: The Madrid Model: How Freedom and Openness Created an Economic Powerhouse, by Diego Sánchez de la Cruz. 7. This is only the […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "How and why did the Victorians succeed?",
      "published": "2026-10-08T07:02:17+00:00",
      "summary": "From Samuel Hughes, in Works in Progress: The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. […] The post How and why did the Victorians succeed?",
-     "full_text_file": "essays/marginal_revolution_2.txt"
+     "full_text_file": "essays/marginal_revolution_4.txt"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "What I’ve been reading",
      "published": "2026-10-08T04:52:29+00:00",
      "summary": "1. Begoña Gómez Urzaiz, The Abandoners: On Mothers and Monsters. A wonderful book about mothers who abandon their children, and properly unsentimental. You will never think about Muriel Spark the same way again. Vashti Bunyan gets a section too. Recommended. 2. Evan Gershkovich, This Cursed Beautiful Land: A Russian-American Story. Yes he is the WSJ […] The post What I’ve been reading appeared fir",
-     "full_text_file": "essays/marginal_revolution_3.txt"
+     "full_text_file": "essays/marginal_revolution_5.txt"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Wednesday assorted links",
      "published": "2026-10-07T17:40:28+00:00",
      "summary": "1. Palo Alto Networks (cybersecurity firm, check out YTD). 2. OAI doing math again. Quasi-Riemann! And just one metric of import. 3. The AI agents pitching literary magazines. 4. Redux of my 2022 post on the effective altruists. 5. Rude AI video about Europe. 6. Power constraints and the productivity slowdown. The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Against Laissez-Faire Democracy",
      "published": "2026-10-07T11:18:34+00:00",
-     "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric informati",
-     "full_text_file": "essays/marginal_revolution_5.txt"
+     "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric informati"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Texas-Canada Fact of the Day",
      "published": "2026-10-07T11:16:54+00:00",
      "summary": "Texas produces more than Canada with three quarters of the population. Rough numbers for 2025: Texas Canada Texas / Canada Population 31.7 million 41.7 million 0.76 GDP, nominal (US$) $2.9 trillion $2.3 trillion 1.27 GDP per capita, nominal $91,500 $55,700 1.64 GDP per capita, PPP $94,000 $66,700 1.41 GDP, PPP (int’l $) $3.0 trillion $2.75 […] The post Texas-Canada Fact of the Day appeared first o"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Why most stereotypes are negative",
      "published": "2026-10-07T07:03:57+00:00",
      "summary": "Stereotypes are a foundational construct in psychological science, often defined as beliefs concerning characteristic group attributes. We present a cognitive-ecological theory of social perception that predicts and explains why such characteristic attributes are likely negative, that is, why most stereotypes are negative. The theory assumes that, cognitively, people characterize groups by attribu"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Effective altruism is useful at the margin",
      "published": "2026-10-07T04:49:13+00:00",
      "summary": "That is the theme of my latest Free Press essay, here is one excerpt: I feel I am well aware of the limitations of effective altruism, and I have outlined many others in an hour-long dialogue I had with MacAskill, arguably the father of the movement, in 2022. Nonetheless, at the margin I think more […] The post Effective altruism is useful at the margin appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Brazil election notes (from my email)",
      "published": "2026-10-06T22:38:14+00:00",
      "summary": "From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 candidates who received the most votes for the Lower Chamber are under 40. The exception is 41. Their average age is 31.6. They’re all very […] The post Brazil election notes (from my email) appeared first on Marginal RE"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Tuesday assorted links",
      "published": "2026-10-06T16:50:43+00:00",
      "summary": "1. What is the real rate of Chinese economic growth? 2. An Abundance caucus rolls out a bipartisan agenda. 3. Canada fell to 18th from 9th in global ranking of economic freedom. 4. Will there ever be a Latin Bomb? 5. Why didn’t you use an LLM? 6. “Not only does it now cost France more […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "Paul Graham Versus the Pope",
      "published": "2026-10-06T11:15:54+00:00",
      "summary": "Pope Leo XIV recently tweeted that there is “an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others.” As a description of how today’s models work, that’s fair enough. AI learned to paint by looking at our paintings. […] The post Paul Graham Versus the Pope appeared first on M"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "The Great Accretion and the Great Depression",
-     "published": "2026-10-06T07:06:24+00:00",
-     "summary": "A very old idea, returning with a vengeance: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this […] The post The Great Accret"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Rising concentration for economics awards",
-     "published": "2026-10-06T04:24:14+00:00",
-     "summary": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in […] The post R"
     }
    ]
   },

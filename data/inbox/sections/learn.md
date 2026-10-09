@@ -59,7 +59,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1952,
    "text": "A footman shot and killed two colleagues and wounded the lady of the house at Knowsley Hall, England.",
    "context": [
-    "The Knowsley Hall shootings occurred on the evening of 9 October 1952 in Knowsley Hall, Merseyside, England. Harold Winstanley, a 19-year-old trainee footman at the house, shot his employer, Lady Derby, and three colleagues, two of whom died: the butler, William Stallard, and the under-butler, Douglas Stuart. Winstanley fled the scene, assaulting the chef while doing so, and went to a local pub. He later took a bus into Liverpool, where he surrendered to the police. Winstanley was tried for the two murders and found guilty but insane and committed to Broadmoor Hospital."
+    "Shootings occurred on the evening of 9 October 1952 in Knowsley Hall, Merseyside, England. Harold Winstanley, a 19-year-old trainee footman at the house, shot his employer, Lady Derby, and three colleagues, two of whom died: the butler, William Stallard, and the under-butler, Douglas Stuart. Winstanley fled the scene, assaulting the chef while doing so, and went to a local pub. He later took a bus into Liverpool, where he surrendered to the police. Winstanley was tried for the two murders and found guilty but insane and committed to Broadmoor Hospital."
    ]
   },
   {
@@ -67,7 +67,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1942,
    "text": "World War II: American forces defeated the Japanese at the Third Battle of the Matanikau in Guadalcanal, Solomon Islands, reversing the Japanese victory a couple of weeks earlier.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, and Japan were occupied, while Korea was liberated from Japanese rule and divided into occupation zones. German and Japanese leaders were tried for war crimes."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
@@ -147,7 +147,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1740,
    "text": "European soldiers and Javanese collaborators started massacring Chinese Indonesians  in the port city of Batavia, modern-day Jakarta: at least 10,000 people were killed.",
    "context": [
-    "The 1740 Batavia massacre was a massacre and pogrom of ethnic Chinese residents of the port city of Batavia in the Dutch East Indies. It was carried out by Dutch soldiers of the Dutch East India Company and allied members of other Batavian ethnic groups. The violence in the city lasted from 9 October 1740, until 22 October, with minor skirmishes outside the walls continuing late into November that year. Historians have estimated that at least 10,000 ethnic Chinese were massacred; just 600 to 3,000 are believed to have survived."
+    "A massacre and pogrom of ethnic Chinese residents of the port city of Batavia in the Dutch East Indies was carried out by the Dutch East India Company and allied members of other Batavian ethnic groups in 1740. The violence in the city lasted from 9 until 22 October, with minor skirmishes outside the walls continuing late into November that year. Historians have estimated that at least 10,000 ethnic Chinese were massacred; just 600 to 3,000 are believed to have survived."
    ]
   },
   {
@@ -155,7 +155,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1708,
    "text": "Great Northern War: Russia defeated Sweden at the Battle of Lesnaya on the Russian–Polish border, in present-day Belarus.",
    "context": [
-    "In the Great Northern War (1700–1721) a coalition led by Russia successfully contested the supremacy of Sweden in Northern, Central and Eastern Europe. The initial leaders of the anti-Swedish alliance were Peter I of Russia, Frederick IV of Denmark–Norway and Augustus II the Strong of Saxony-Poland-Lithuania. Frederick IV and Augustus II were defeated by Sweden, under Charles XII, and forced out of the alliance in 1700 and 1706, respectively, but rejoined it in 1709 after the defeat of Charles XII at the Battle of Poltava. George I of Great Britain and the Electorate of Hanover joined the coalition in 1714 for Hanover and in 1717 for Britain, and Frederick William I of Brandenburg-Prussia joined it in 1715."
+    "In the Great Northern War (1700–1721), a coalition led by Russia successfully contested the supremacy of Sweden in Northern, Central and Eastern Europe. The initial leaders of the anti-Swedish alliance were Peter I of Russia, Frederick IV of Denmark–Norway and Augustus II the Strong of Saxony-Poland-Lithuania. Frederick IV and Augustus II were defeated by Sweden, under Charles XII, and forced out of the alliance in 1700 and 1706, respectively, but rejoined it in 1709 after the defeat of Charles XII at the Battle of Poltava. George I of Great Britain and the Electorate of Hanover joined the coalition in 1714 for Hanover and in 1717 for Britain, and Frederick William I of Brandenburg-Prussia joined it in 1715."
    ]
   },
   {

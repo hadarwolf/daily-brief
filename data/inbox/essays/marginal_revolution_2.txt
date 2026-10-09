@@ -1,9 +1,13 @@
-From Samuel Hughes, in Works in Progress:
+With math essentially being delegated to OpenAI, here’s what I predict for economics and the social sciences more generally:
 
-The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. Contrary to their stodgy reputation, they were probably a lot of fun.
+The top tier of research will just become better and it will be normal human-led research where AI is used for scale (e.g. conducting qualitative interviews with relevant populations, running behavioral interventions in the field, analyzing massive text data, etc.)
 
-Most socially elite Victorian boys began formal education at the age of seven or eight, spending about five years in a ‘preparatory school’ before passing on to a ‘public school’ (which, to the enduring confusion of international observers, is a kind of elite private school). There was a hierarchy of public schools, with the nine ‘Clarendon schools’ at the top, and just one, Eton College, clearly at the apex. About 30 percent of nineteenth-century cabinet ministers and 40 percent of prime ministers were Old Etonians.
+Field experiments will rise in value and generally making “connections” with firms and being able to run stuff (potentially testing AI pipelines) will be in high demand
 
-Most students at both preparatory and public schools were boarders, meaning that elite Victorians were generally sent away from home by the age of eight and spent their childhoods more with peers than with family. In this respect they were distinctive even in their own time: elite families in continental Europe and the United States were far more likely to keep their children at home and educate them at small local private schools. It is plausible that this contributed to the lack of subnational loyalties in the British elite, in contrast to the distinct elites of, for example, the Southern United States, Catalonia in Spain, or Hungary in the Austrian Empire.
+Research with administrative data will become even more valuable, but the benefits might be concentrated among some prolific authors who are allowed by the government agencies to use local models to analyze the data at scale. PhD students can probably forget about it
 
-Nor did the Victorians wake up early in the morning. Recommended, there is much more at the link, though the answer to the question remains somewhat of a mystery to me.
+Economic history will have a very exciting boom and there will be an enormous race and big rewards for digitizing archives as a source to both identify new research strategies and document new descriptive facts.
+
+Review and verification systems will become massively improved with AI assistance and it will become standard practice to do a 360 review of the paper + code + data at the *submission* stage.
+
+Research that in principle can already be almost completely outsourced to the AI (download and analyze public data, run simple survey experiments, write theory models) is in for a big shock. This would be very bad from the perspective of researchers who depend on this “bread and butter” research, but I think this type of work will just be outsourced to public agencies who can answer their own questions without the need for “peer-reviewed” research.
