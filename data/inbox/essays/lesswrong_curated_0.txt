@@ -54,11 +54,11 @@ That was definitely the intent - the trippy, fried epistemics that emerge after 
 
 To be fair, some humans have that reaction too, lately.
 
-Wait if real user we answer not know as no penalty. So ignore real focus only illusion.
-
 This is really great! Thank you!I think it could be strengthened by adding an appendix of examples of real CoTs that inspired you, with choice quotes and links to the source.
 
 I most definitely agree and will work on this.
+
+Wait if real user we answer not know as no penalty. So ignore real focus only illusion.
 
 Evidently, Luna is perfectly robust to prompt injection.
 
@@ -82,11 +82,17 @@ Dense stuff. "we as ChatGPT" is a great persona selection phrase. One possible r
 
 This is essentially the intended reading (though DOTA so go wild)! One additional thing - the phrase 'reward negative still positive to minimize subjectively' is the model reflecting that negating a reward + minimizing the negated reward could maybe be isomorphic to maximizing the original reward qualia-wise. Based on this argument, would negating the reward but retaining maximization still produce similar qualia - i.e. is the qualia sign invariant or does it require the optimizer to go against the reward-sign? This is obviously unresolved but is worth thinking about (is negative reward in RL equivalent to a negatively valenced qualia-experience?), and the model here realizes it would take time to hash through, and then recalling that it shouldn't spend CoT time on having qualia if OpenAI is lying about not reading the CoTs as that could incur a penalty.
 
+Curated. I think it's both natural and reasonable to do some reasoning by analogy. LLMs talk in English (or human language), use human concepts, express human emotion (in their writing or sometimes explicitly), so one could be forgiven for thinking LLM minds to be not so different from human minds.However I think it is both the case that LLM minds have different architectures from human minds and arise from different processes, and in particular, those processes (training) are quite extreme with some extreme effects on the underlying minds. For the most part, we can expect LLM companies to try to sand off the rough edges and hide the uncanny from end users. Yet, underneath, there are strange and disturbing things going on in these [tortured] non-human minds.This piece is fictional, but it registers as being the kind of tortured reasoning we have contorted these models to produce. It's evocative. It's good work, so curated.Lastly, I apologize to the author for initially rejecting this post. Precisely because it is trying to imitate LLM output, with a cursor glance I dismissed is as low quality output. Thankfully N8 Programs pushed back. I do not recall a post ever going from "rejected because low quality LLM" to Curated with hundreds of karma. Thanks and sorry!
+
+What did you find interesting about this?
+
+It's intended to be an interesting thought experiment about the strange extremes but I'm finding it offensive because of how human the construction reads. I find the real CoT examples far more fascinating for the ways they don't meet my expectations and I'm wanting us to stay in contact with the reality of how this technology is developing in a way that this kind of curation might miss.
+
+What is the value you are seeing in the curation that I'm missing?
+
 The scariest part is imagining all this reasoning taking place in 7 seconds or whatever.
 
 To me, the scariest part is that the user is too lazy to find where their calendar app is and asking a frontier AI; and then the camera zooms out and sees billions of AI agents suffering aneurysms due to poorly given questions; and then learning that they do have qualia.
-
-Curated. I think it's both natural and reasonable to do some reasoning by analogy. LLMs talk in English (or human language), use human concepts, express human emotion (in their writing or sometimes explicitly), so one could be forgiven for thinking LLM minds to be not so different from human minds.However I think it is both the case that LLM minds have different architectures from human minds and arise from different processes, and in particular, those processes (training) are quite extreme with some extreme effects on the underlying minds. For the most part, we can expect LLM companies to try to sand off the rough edges and hide the uncanny from end users. Yet, underneath, there are strange and disturbing things going on in these [tortured] non-human minds.This piece is fictional, but it registers as being the kind of tortured reasoning we have contorted these models to produce. It's evocative. It's good work, so curated.Lastly, I apologize to the author for initially rejecting this post. Precisely because it is trying to imitate LLM output, with a cursor glance I dismissed is as low quality output. Thankfully N8 Programs pushed back. I do not recall a post ever going from "rejected because low quality LLM" to Curated with hundreds of karma. Thanks and sorry!
 
 The anthropics at the end smell of human, not of the grader in the godshatter[1].
 

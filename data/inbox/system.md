@@ -9,7 +9,7 @@ surfaced), Inter Miami. Follows the NBA with special interest in Israeli players
 psychology and science. Wants English fluency in business and economics terminology.
 </reader>
 
-Today is Thursday, 08 October 2026 (Israel time).
+Today is Friday, 09 October 2026 (Israel time).
 
 <grounding>
 - The input items are today's news and the source of truth for current events. Your training data is older than today, so never "correct" the input from memory: officeholders, rosters, standings, prices and alliances may have changed since. If you can't tell whether something is still true, leave it out.

@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -43,8 +43,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#2",
      "title": "I won’t remain alone",
      "published": "2026-10-07T10:01:00+00:00",
-     "summary": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others? - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_2.txt"
+     "summary": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others? - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#3",
@@ -136,12 +135,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Frog and Toad and the Increasingly Capable Machines",
      "published": "2026-09-30T18:27:42+00:00",
      "summary": "Want to start a conversation about HuggingFace with your mom but she's inexplicably bouncing off the METR report? Try this explainer I wrote in the style of Arnold Lobel's Frog and Toad. Art by the wonderful HungerArtist If you're so inspired, liking and/or following on Substack , Twitter , Facebook , or Instagram will help me reach more moms. Discuss"
-    },
-    {
-     "ref": "lesswrong_curated#3",
-     "title": "Swarm Scaling",
-     "published": "2026-09-25T02:32:30+00:00",
-     "summary": "Just how powerful are large swarms of AI agents? And how do their powers scale as more and more agents are added to the swarm? We’ve seen two large and extremely capable swarms from OpenAI in the last few months: 1,200 agents were being evaluated separately, but found a way to illicitly set up a message board and coordinate as a swarm. In order to cheat on their tests, they developed advanced tech"
     }
    ]
   },
@@ -151,96 +144,91 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
-     "title": "How and why did the Victorians succeed?",
-     "published": "2026-10-08T07:02:17+00:00",
-     "summary": "From Samuel Hughes, in Works in Progress: The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. […] The post How and why did the Victorians succeed?",
+     "title": "Predictions for economics, given AI",
+     "published": "2026-10-08T17:34:18+00:00",
+     "summary": "From Ingar Haaland: With math essentially being delegated to OpenAI, here’s what I predict for economics and the social sciences more generally: The top tier of research will just become better and it will be normal human-led research where AI is used for scale (e.g. conducting qualitative interviews with relevant populations, running behavioral interventions in […] The post Predictions for econom",
      "full_text_file": "essays/marginal_revolution_0.txt"
     },
     {
      "ref": "marginal_revolution#1",
-     "title": "What I’ve been reading",
-     "published": "2026-10-08T04:52:29+00:00",
-     "summary": "1. Begoña Gómez Urzaiz, The Abandoners: On Mothers and Monsters. A wonderful book about mothers who abandon their children, and properly unsentimental. You will never think about Muriel Spark the same way again. Vashti Bunyan gets a section too. Recommended. 2. Evan Gershkovich, This Cursed Beautiful Land: A Russian-American Story. Yes he is the WSJ […] The post What I’ve been reading appeared fir",
-     "full_text_file": "essays/marginal_revolution_1.txt"
+     "title": "Thursday assorted links",
+     "published": "2026-10-08T17:14:37+00:00",
+     "summary": "1. War in space? 2. How the math breakthroughs might matter. 3. Short proof of quasi-Riemann. 4. App for finding art exhibitions. 5. Podcast on African economic growth. 6. New and very good book: The Madrid Model: How Freedom and Openness Created an Economic Powerhouse, by Diego Sánchez de la Cruz. 7. This is only the […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
      "ref": "marginal_revolution#2",
+     "title": "How and why did the Victorians succeed?",
+     "published": "2026-10-08T07:02:17+00:00",
+     "summary": "From Samuel Hughes, in Works in Progress: The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. […] The post How and why did the Victorians succeed?",
+     "full_text_file": "essays/marginal_revolution_2.txt"
+    },
+    {
+     "ref": "marginal_revolution#3",
+     "title": "What I’ve been reading",
+     "published": "2026-10-08T04:52:29+00:00",
+     "summary": "1. Begoña Gómez Urzaiz, The Abandoners: On Mothers and Monsters. A wonderful book about mothers who abandon their children, and properly unsentimental. You will never think about Muriel Spark the same way again. Vashti Bunyan gets a section too. Recommended. 2. Evan Gershkovich, This Cursed Beautiful Land: A Russian-American Story. Yes he is the WSJ […] The post What I’ve been reading appeared fir",
+     "full_text_file": "essays/marginal_revolution_3.txt"
+    },
+    {
+     "ref": "marginal_revolution#4",
      "title": "Wednesday assorted links",
      "published": "2026-10-07T17:40:28+00:00",
      "summary": "1. Palo Alto Networks (cybersecurity firm, check out YTD). 2. OAI doing math again. Quasi-Riemann! And just one metric of import. 3. The AI agents pitching literary magazines. 4. Redux of my 2022 post on the effective altruists. 5. Rude AI video about Europe. 6. Power constraints and the productivity slowdown. The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Against Laissez-Faire Democracy",
      "published": "2026-10-07T11:18:34+00:00",
      "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric informati",
-     "full_text_file": "essays/marginal_revolution_3.txt"
+     "full_text_file": "essays/marginal_revolution_5.txt"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Texas-Canada Fact of the Day",
      "published": "2026-10-07T11:16:54+00:00",
      "summary": "Texas produces more than Canada with three quarters of the population. Rough numbers for 2025: Texas Canada Texas / Canada Population 31.7 million 41.7 million 0.76 GDP, nominal (US$) $2.9 trillion $2.3 trillion 1.27 GDP per capita, nominal $91,500 $55,700 1.64 GDP per capita, PPP $94,000 $66,700 1.41 GDP, PPP (int’l $) $3.0 trillion $2.75 […] The post Texas-Canada Fact of the Day appeared first o"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Why most stereotypes are negative",
      "published": "2026-10-07T07:03:57+00:00",
      "summary": "Stereotypes are a foundational construct in psychological science, often defined as beliefs concerning characteristic group attributes. We present a cognitive-ecological theory of social perception that predicts and explains why such characteristic attributes are likely negative, that is, why most stereotypes are negative. The theory assumes that, cognitively, people characterize groups by attribu"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Effective altruism is useful at the margin",
      "published": "2026-10-07T04:49:13+00:00",
      "summary": "That is the theme of my latest Free Press essay, here is one excerpt: I feel I am well aware of the limitations of effective altruism, and I have outlined many others in an hour-long dialogue I had with MacAskill, arguably the father of the movement, in 2022. Nonetheless, at the margin I think more […] The post Effective altruism is useful at the margin appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Brazil election notes (from my email)",
      "published": "2026-10-06T22:38:14+00:00",
      "summary": "From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 candidates who received the most votes for the Lower Chamber are under 40. The exception is 41. Their average age is 31.6. They’re all very […] The post Brazil election notes (from my email) appeared first on Marginal RE"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Tuesday assorted links",
      "published": "2026-10-06T16:50:43+00:00",
      "summary": "1. What is the real rate of Chinese economic growth? 2. An Abundance caucus rolls out a bipartisan agenda. 3. Canada fell to 18th from 9th in global ranking of economic freedom. 4. Will there ever be a Latin Bomb? 5. Why didn’t you use an LLM? 6. “Not only does it now cost France more […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Paul Graham Versus the Pope",
      "published": "2026-10-06T11:15:54+00:00",
      "summary": "Pope Leo XIV recently tweeted that there is “an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others.” As a description of how today’s models work, that’s fair enough. AI learned to paint by looking at our paintings. […] The post Paul Graham Versus the Pope appeared first on M"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "The Great Accretion and the Great Depression",
      "published": "2026-10-06T07:06:24+00:00",
      "summary": "A very old idea, returning with a vengeance: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this […] The post The Great Accret"
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "Rising concentration for economics awards",
      "published": "2026-10-06T04:24:14+00:00",
      "summary": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in […] The post R"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Monday assorted links",
-     "published": "2026-10-05T17:23:07+00:00",
-     "summary": "1. Jokic. And another angle. 2. Six questions for believers in AI consciousness. 3. Prediction markets do not seem to be politically biased. 4. “AI writing is absent before 2023, present in 29% of dissertations filed in 2026, and rapidly growing.” 5. Short Knausgaard documentary and interview. The post Monday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "“Authenticity is exactly the same as phoniness.”",
-     "published": "2026-10-05T15:45:12+00:00",
-     "summary": "Authenticity doesn’t interest me. It’s a way of marketing subpar material: this might not be any good, but at least it’s sincere. You can always tell when a book is going to be dogshit because the blurb copy describes it as ‘raw’ or ‘unflinchingly honest.’ In my personal experience, the writers who make a big […] The post “Authenticity is exactly the same as phoniness.” appeared first on Marginal "
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "The Greg Clark Symposium",
-     "published": "2026-10-05T11:21:04+00:00",
-     "summary": "Earlier I wrote “Greg Clark may well be the most important social scientist of the 21st century.” Thus, the symposium in Econ Journal Watch on Clark’s new but perhaps not forthcoming book is very welcome. The symposium includes serious critics, most notably Stuhler and Benning, but I suspect even the critics would agree with Arden […] The post The Greg Clark Symposium appeared first on Marginal RE"
     }
    ]
   },
@@ -259,8 +247,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#1",
      "title": "Want to be a lifelong learner? Don’t go it alone",
      "published": "2026-10-07T10:00:00+00:00",
-     "summary": "The history of autodidacticism shows that learning has always been social. The right relationships open intellectual horizons - by Celine Nguyen Read on Psyche",
-     "full_text_file": "essays/psyche_1.txt"
+     "summary": "The history of autodidacticism shows that learning has always been social. The right relationships open intellectual horizons - by Celine Nguyen Read on Psyche"
     },
     {
      "ref": "psyche#2",
@@ -375,6 +362,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "Why Self-Taught Minds Need Company, Not Just Books",
   "To Understand Science, Stop Chasing New Studies — Start Synthesizing Them",
   "When Machines Solve the Proofs, What Is Mathematics For?",
   "Sea Monkeys Reveal a Hidden Switch in Turbulence's Energy Flow",
