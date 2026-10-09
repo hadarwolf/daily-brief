@@ -18,87 +18,87 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "El Niño Puts Ivory Coast Cocoa at Risk of Heat, Water Stress",
+     "published": "2026-10-09T09:12:11+00:00",
+     "summary": "A strengthening El Niño is threatening an already fragile outlook for cocoa supplies, with top grower Ivory Coast’s state weather agency warning of a rainfall deficit through early 2027."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "PepsiCo Is Raising €1 Billion a Day After Cutting Profit Outlook",
+     "published": "2026-10-09T09:02:54+00:00",
+     "summary": "PepsiCo Inc. entered Europe’s public bond market on Friday with a €1 billion ($1.12 billion) two-part deal, a day after cutting its profit outlook on mounting costs in North America."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Wall Street Sees an Ominous Sign in Bond Market’s Latest Selloff",
+     "published": "2026-10-09T09:00:00+00:00",
+     "summary": "It’s one of the least understood signals in the fixed-income world, but lately, everyone on Wall Street is abuzz about what it means as it reasserts itself in the market."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "London’s Newest Rates Market Specialists Are Real Estate Agents",
      "published": "2026-10-09T08:55:32+00:00",
      "summary": "At a local real estate agency on London’s southeastern edge, manager Steve Brown has added a new, and rather unlikely, topic to the usual chatter with clients about house prices and commute times: swap rates."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#4",
      "title": "Everton Considers Sale in Test of Football’s Inflated Valuations",
      "published": "2026-10-09T08:46:08+00:00",
      "summary": "The Friedkin Group is considering selling a controlling interest in Everton FC less than two years after acquiring the Premier League club, in a move that will test investor appetite for increasingly costly football assets."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#5",
      "title": "Investors Pour Into Cash and Set to Stay, BofA’s Hartnett Says",
      "published": "2026-10-09T08:45:43+00:00",
      "summary": "Investors just poured money into cash funds at the fastest pace since the pandemic, and are unlikely to shift it anytime soon, according to Bank of America Corp.’s Michael Hartnett."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
      "title": "Indian Tech Workers Face New Uncertainty in US Visa Crackdown",
      "published": "2026-10-09T08:44:32+00:00",
      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#7",
      "title": "Segantii Insider Trading Trial Ends With Verdict Due February",
      "published": "2026-10-09T08:29:29+00:00",
      "summary": "The high-profile insider-trading trial involving Segantii Capital Management wrapped up Friday in Hong Kong, as defense lawyers challenged the allegations in closing statements that the defendants acted on insider information."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#8",
      "title": "Azadeh Moaveni on the Iranian Diaspora",
      "published": "2026-10-09T08:25:43+00:00",
      "summary": "Iranian-American writer Azadeh Moaveni tells Mishal Husain how \"terribly divided\" the country's diaspora has become in the past few months of war. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#9",
      "title": "Ex-Banker’s Redemption Story Hits a Setback as Firmus Pulls IPO",
      "published": "2026-10-09T08:16:41+00:00",
      "summary": "The listing of Firmus Grid Ltd. was poised to be the next beat of Oliver Curtis’s comeback story after serving time in prison on insider trading charges. It would also have cemented his position among the artificial intelligence boom’s ultra-wealthy."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#10",
      "title": "Dollar’s Longest Winning Streak Since Early 2025 Keeps Going",
      "published": "2026-10-09T08:05:09+00:00",
      "summary": "The dollar rally is forging ahead as soaring oil prices weigh on currencies of energy importing nations and global inflation fears persist."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#11",
      "title": "What Open AI Solving Navier-Stokes Means for Professional Math",
      "published": "2026-10-09T08:00:29+00:00",
      "summary": "Now that LLMs are good at math, what's left for the professionals?"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#12",
      "title": "Odd Lots: How AI Is Upending the World of Mathematics (Podcast)",
      "published": "2026-10-09T08:00:00+00:00",
      "summary": "Last month, OpenAI announced that it had produced an AI-generated proof for the Navier-Stokes problem, one of the most famous unsolved questions in mathematics. LLMs used to be bad at counting, but now they are solving math problems that have stumped humans for decades. Meanwhile, at universities, the problem of AI in education continues: Now that LLMs can do a student’s homework, teachers are str"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#13",
      "title": "Tencent-Backed Uzum Talk Attracting US Investment",
      "published": "2026-10-09T07:28:44+00:00",
      "summary": "Tencent backed firm Uzum says they are not concerned about attracting investors from the US despite trade tensions with China. The Uzbek fintech firm has raised money from investors including Tencent and Oman's sovereign funds, with the latest round valuing the company at $2.3 billion. Nikolay Seleznev, Co-founder and Chief Strategy Officer of Uzum spoke to Bloomberg’s Abeer Abu Omar on Horizons M"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "AI Angst Won't Pop the Bubble Yet: Markey Analysis",
-     "published": "2026-10-09T07:26:53+00:00",
-     "summary": "Anna Edwards, Guy Johnson, and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Zimbabwe Says No Justification to Delay Lithium Export Ban",
-     "published": "2026-10-09T07:25:16+00:00",
-     "summary": "Zimbabwe said there’s no reason to delay a ban on exports of lithium concentrate that’s scheduled to come into effect in January."
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue",
-     "published": "2026-10-09T07:17:33+00:00",
-     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#14",
@@ -108,15 +108,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#15",
-     "title": "Airtel Money Shares Slip After Biggest London IPO in Five Years",
-     "published": "2026-10-09T04:40:30+00:00",
-     "summary": "Mobile payments firm Airtel Money made a tepid debut on the London Stock Exchange Friday after completing what may be the bourse’s largest initial public offering in five years."
+     "title": "Rizk: Fiscal Pressures Show in Bahrain Bonds",
+     "published": "2026-10-09T05:12:53+00:00",
+     "summary": "A selloff in Bahrain's bonds is pushing its borrowing costs to levels last seen during the nation's 2018 crisis. The heavily indebted Gulf state is grappling with the fallout from the Iran war just as surging US Treasury yields drive up its debt-servicing costs. Zeina Rizk, Co-Head of Fixed Income at Amwal Capital Partners spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the"
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "Xiaomi Shares Surge After SkyNomad SUV Draws Strong Orders",
-     "published": "2026-10-09T02:57:20+00:00",
-     "summary": "Xiaomi Corp. shares jumped the most since July after the Chinese electric vehicle maker reported strong orders for its newly launched SkyNomad sport utility vehicle series."
+     "title": "Airtel Money Shares Slip After Biggest London IPO in Five Years",
+     "published": "2026-10-09T04:40:30+00:00",
+     "summary": "Mobile payments firm Airtel Money made a tepid debut on the London Stock Exchange Friday after completing what may be the bourse’s largest initial public offering in five years."
     },
     {
      "ref": "bloomberg_markets#17",
@@ -144,45 +144,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Nobel Peace Prize awarded to human rights ‘pioneer’ Navi Pillay",
+     "published": "2026-10-09T09:22:18+00:00",
+     "summary": "Prize given to South African human rights lawyer for her efforts to promote peace and international law"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
      "published": "2026-10-09T04:30:01+00:00",
      "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "Some much-needed American optimism on Europe",
      "published": "2026-10-09T04:00:32+00:00",
      "summary": "Siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "Five ways to tell if market trouble lies ahead",
      "published": "2026-10-09T04:00:32+00:00",
      "summary": "The cost of credit default swaps for AI companies looking to borrow is rising"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Famous Italian winery loses 30,000 bottles worth €5mn in heist",
      "published": "2026-10-09T04:00:32+00:00",
      "summary": "Antinori says it hopes to ‘protect the market’ by alerting potential buyers"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
      "published": "2026-10-09T04:00:31+00:00",
      "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "Manchester City: too big to fail?",
      "published": "2026-10-09T04:00:22+00:00",
      "summary": "The sport is still shaped by the club’s acquisition in 2008"
-    },
-    {
-     "ref": "ft_home#6",
-     "title": "Syria funnels assets from Assad cronies into secretive $50bn fund",
-     "published": "2026-10-09T04:00:22+00:00",
-     "summary": "The Syrian Sovereign Fund has taken control of a sprawling web of holdings and is seeking to entice Gulf investors"
     },
     {
      "ref": "ft_home#7",
@@ -365,153 +365,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
+     "published": "2026-10-09T09:30:00+00:00",
+     "summary": "The chip maker quietly signaled a new way of thinking about the competing demands of capital returns and building its AI ecosystem."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Dollar Falls Could Prove Limited",
+     "published": "2026-10-09T09:29:00+00:00",
+     "summary": "The dollar has limited scope to fall as bond markets and risk sentiment remain fragile while the Fed is expected to raise interest rates again in December, ING said."
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "U.S. Treasury Yields Edge Higher, Eurozone Bond Yields Decline",
+     "published": "2026-10-09T09:17:00+00:00",
+     "summary": "Treasury yields reversed course and turned slightly higher on Friday, although long-dated yields remained comfortably below the 24-year highs reached earlier in the week, helped by falling oil prices."
+    },
+    {
+     "ref": "wsj_markets#3",
      "title": "AI Stocks Recover as Futures Rise, Oil Slips",
      "published": "2026-10-09T08:59:00+00:00",
      "summary": "Stock futures rallied after a tech-led selloff in the previous session, as lower oil prices and a rebound in artificial-intelligence sentiment boosted markets."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#4",
      "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
      "published": "2026-10-09T08:49:00+00:00",
      "summary": "Shares in the African digital financial-services platform opened higher on its first trading day in London, but missed the targeted $8 billion to $9 billion valuation."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#5",
      "title": "European Chip Stocks Mixed After Turbulent Week For Tech",
      "published": "2026-10-09T08:33:00+00:00",
      "summary": "Shares of European semiconductor companies were mixed toward the end of a turbulent week for the stocks globally."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#6",
      "title": "Stock Market Today: Mood in Markets Improves After Trump Vows Not to Strike Iran Before Midterms",
      "published": "2026-10-09T08:23:12+00:00",
      "summary": "Nasdaq futures jump, Brent crude slips"
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#7",
      "title": "Brent’s September Risk Premium Estimated at $22 a Barrel, Goldman Says",
      "published": "2026-10-09T08:16:00+00:00",
      "summary": "Brent and WTI futures were lower. Brent’s risk premium reached an estimated $22 a barrel in September, the second-highest monthly level on record, Goldman Sachs said."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#8",
      "title": "Gold Rises on Softer U.S. Dollar, Lower Oil Prices",
      "published": "2026-10-09T07:43:00+00:00",
      "summary": "Gold gained more than 1% as a softer dollar and lower oil prices supported the metal, while market participants reassess the inflation and interest-rate outlook."
     },
     {
-     "ref": "wsj_markets#6",
-     "title": "Dollar Likely to Stay in 155-160 Yen Range",
-     "published": "2026-10-09T07:32:00+00:00",
-     "summary": "The dollar was stronger against the yen, and LGT Private Banking Asia said it was likely to remain rangebound in the near term, largely trading within the 155-160 yen range."
-    },
-    {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom",
      "published": "2026-10-09T07:18:00+00:00",
      "summary": "Australian cloud-computing firm Firmus Grid had sought a $30 billion valuation despite having only two operational data centers."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "American Oil Refiners Are Printing Money as Wars Shrink Global Energy Supplies",
      "published": "2026-10-09T02:00:00+00:00",
      "summary": "The earnings of independent fuel makers Valero Energy, Marathon Petroleum and Phillips 66 are set to crush the near-record results of the June quarter."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "Arini, Hedge Fund Known for Bold Bets, Loses 16%",
      "published": "2026-10-08T22:27:00+00:00",
      "summary": "Investors continue to put money into Arini’s $7.3 billion flagship fund, betting that rising rates will create more opportunities for its founder, Hamza Lemssouguer."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "A Guide to Buying Bonds When Yields Are on the Rise",
      "published": "2026-10-08T21:41:00+00:00",
      "summary": "Soaring yields are making bond returns look more attractive, but there is more to it than that."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#13",
      "title": "Why the Battered Bond Market Is Finally Getting a Reprieve",
      "published": "2026-10-08T21:33:00+00:00",
      "summary": "Rising yields have spread to mortgage bonds and other debt markets, which in turn deepened the selloff in Treasurys, a cycle that Wall Street sees petering out."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#14",
      "title": "WSJ Dollar Index Falls 0.06% to 97.34",
      "published": "2026-10-08T21:19:00+00:00",
      "summary": "The WSJ Dollar Index declined 0.1% — down two of the past three trading days."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#15",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-10-08T20:57:00+00:00",
      "summary": "Find insight on gold futures, Air Liquide, Ramelius Resources and more in the latest Market Talks covering basic materials."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#16",
      "title": "Financial Services Roundup: Market Talk",
      "published": "2026-10-08T20:54:00+00:00",
      "summary": "Find insight on HSBC, Standard Chartered, ING Groep and more in the latest Market Talks covering financial services."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#17",
      "title": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech",
      "published": "2026-10-08T20:42:00+00:00",
      "summary": "U.S. stocks ended mixed after oil futures jumped, volatility continued in bond markets and doubts surfaced about artificial-intelligence profits."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#18",
      "title": "Winds Pick Up, Yields Tick Down",
      "published": "2026-10-08T20:38:00+00:00",
      "summary": "Plus, AI stocks sink while Pepsi pops"
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#19",
      "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated",
      "published": "2026-10-08T20:20:00+00:00",
      "summary": "U.S. Treasury yields retreated from session highs following a steady auction of longer-dated securities and a Treasury buyback operation."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#20",
      "title": "Oil Finishes Higher Despite Trump Truth Social Post",
      "published": "2026-10-08T19:57:00+00:00",
      "summary": "Crude oil futures settled higher as Hurricane Isaias heads for the U.S. Gulf coast, shutting in production."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#21",
      "title": "London’s Private Markets Exchange Completes Another Auction",
      "published": "2026-10-08T19:26:00+00:00",
      "summary": "But exchange’s managers say it’s too soon to talk about expansion."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#22",
      "title": "Trump Throws His Weight Behind Credit-Card Legislation Most Feared by Banks",
      "published": "2026-10-08T19:00:00+00:00",
      "summary": "The bill could upend the system that moves billions of dollars in fees that merchants hate and banks use to power rewards."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#23",
      "title": "U.S. Stocks Slip, Oil Rises on Fresh Tanker Attack",
      "published": "2026-10-08T18:30:00+00:00",
      "summary": "U.S. stocks fell for a second day in a row, with the Nasdaq composite leading indexes lower."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#24",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-10-08T13:12:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why",
-     "published": "2026-10-08T11:30:00+00:00",
-     "summary": "Last week, London-based HANetf, an exchange-traded fund provider, launched the world’s first euro-hedged bitcoin ETC—noting a shift in demand among its European client base."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Gridlock Is Good for Stocks. Certainty Is Better.",
-     "published": "2026-10-08T10:56:00+00:00",
-     "summary": "Plus, oil is back on the boil"
     }
    ]
   }
@@ -519,9 +519,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4085.3401,
+   "last": 4084.9399,
    "prev_close": 4089.9399,
-   "change_pct": -0.11,
+   "change_pct": -0.12,
    "as_of": "2026-10-09"
   },
   "SP500": {
@@ -533,23 +533,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0541,
+   "last": 3.0546,
    "prev_close": 3.0713,
-   "change_pct": -0.56,
+   "change_pct": -0.54,
    "as_of": "2026-10-09"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 102.75,
+   "last": 102.83,
    "prev_close": 104.28,
-   "change_pct": -1.47,
+   "change_pct": -1.39,
    "as_of": "2026-10-09"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82474.9062,
+   "last": 82571.4922,
    "prev_close": 81676.3359,
-   "change_pct": 0.98,
+   "change_pct": 1.1,
    "as_of": "2026-10-09"
   }
  },
