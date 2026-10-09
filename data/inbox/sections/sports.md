@@ -450,153 +450,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "What could Rangers' 2012 demise tell us about Man City's uncertain future?",
+     "published": "2026-10-09T10:04:35+00:00",
+     "summary": "From sanctions and stripped titles to starting from scratch, BBC Scotland explains how potential consequences for Manchester City compare with the financial collapse of Rangers in 2012."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Mourinho calls criticism of Mbappe 'ridiculous'",
+     "published": "2026-10-09T09:57:48+00:00",
+     "summary": "Jose Mourinho defends Kylian Mbappe who has been scrutinised during the international break."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "From doomscrolling to defiance - how do Man City fans feel?",
      "published": "2026-10-09T09:02:26+00:00",
      "summary": "With Manchester City found guilty of the majority of 115 charges against them, how are their fans feeling?"
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "EFL preview: Savage salvation and a happy homecoming?",
      "published": "2026-10-09T08:47:06+00:00",
      "summary": "Here are the five things across the EFL that you should be keeping your eyes on this weekend."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "How do Spanish clubs become 'Real' or 'royal'?",
      "published": "2026-10-09T08:41:18+00:00",
      "summary": "The title of 'Real' is bestowed upon Spanish clubs by the country's monarchy but it has little to do with achievements on the field."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Everton owners consider selling club two years after takeover",
      "published": "2026-10-09T08:23:50+00:00",
      "summary": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control."
     },
     {
-     "ref": "bbc_football#4",
-     "title": "'You can be a mum and a footballer - they can co-exist'",
-     "published": "2026-10-09T08:19:59+00:00",
-     "summary": "Northern Ireland striker Simone Magill tells BBC Sport NI about balancing motherhood with her return to football and how her life has changed since giving birth to daughter Skye earlier this year."
-    },
-    {
-     "ref": "bbc_football#5",
-     "title": "'You can be a mum and a footballer - they can co-exist'",
-     "published": "2026-10-09T08:19:59+00:00",
-     "summary": "Northern Ireland striker Simone Magill tells BBC Sport NI about balancing motherhood with her return to football and how her life has changed since giving birth to daughter Skye earlier this year."
-    },
-    {
      "ref": "bbc_football#6",
+     "title": "'You can be a mum and a footballer - they can co-exist'",
+     "published": "2026-10-09T08:19:59+00:00",
+     "summary": "Northern Ireland striker Simone Magill tells BBC Sport NI about balancing motherhood with her return to football and how her life has changed since giving birth to daughter Skye earlier this year."
+    },
+    {
+     "ref": "bbc_football#7",
+     "title": "'You can be a mum and a footballer - they can co-exist'",
+     "published": "2026-10-09T08:19:59+00:00",
+     "summary": "Northern Ireland striker Simone Magill tells BBC Sport NI about balancing motherhood with her return to football and how her life has changed since giving birth to daughter Skye earlier this year."
+    },
+    {
+     "ref": "bbc_football#8",
      "title": "Is £70m Baleba ready for his Man Utd exam?",
      "published": "2026-10-09T07:57:23+00:00",
      "summary": "Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford"
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "Yet to gel or same old struggles? - De Zerbi's Premier League dilemma",
      "published": "2026-10-09T07:41:09+00:00",
      "summary": "After a three-week international break, Tottenham Hotspur return to Premier League action having won none of their opening five matches and sitting bottom of the table. BBC Sport looks back at their poor start to the season and asks if another relegation battle is looming?"
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#10",
      "title": "Carrick stays cool, but should he be worried about Man Utd's form?",
      "published": "2026-10-09T07:36:24+00:00",
      "summary": "After three weeks off because of the international break, BBC Sport looks back at Manchester United's indifferent start to the new Premier League season, which saw Michael Carrick's side win just one of their opening five matches."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#11",
      "title": "'Real consider McTominay move' - gossip",
      "published": "2026-10-09T07:12:30+00:00",
      "summary": "Real Madrid are reportedly keeping a watch on Scott McTominay as Scottish winger Danny Armstrong is close to signing a new contract with Dinamo Bucharest."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#12",
      "title": "Listen: The Premiership is back - weekend preview",
      "published": "2026-10-09T07:00:00+00:00",
      "summary": "It's the SPFL weekend preview"
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "How Arteta's response to Brighton loss may shape Arsenal's next chapter",
      "published": "2026-10-09T06:41:14+00:00",
      "summary": "Mikel Arteta has shown an increased appetite for risk this season but, as Arsenal look to stay at the top, failing to reinvent would be a greater gamble."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "What to do with Joao Pedro? FPL gameweek six dilemmas",
      "published": "2026-10-09T06:18:10+00:00",
      "summary": "BBC Sport's Fantasy Premier League expert FPL Pras gives his answers to some of the biggest dilemmas facing managers in gameweek six."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-09T05:35:26+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Maresca will be demanding a siege mentality from Man City - Pulis",
      "published": "2026-10-09T05:25:04+00:00",
      "summary": "BBC Sport columnist Tony Pulis explains why Manchester City players have a great chance to show unity and togetherness when they travel to Anfield on Sunday."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "How Swansea refound their way as ambition returns",
      "published": "2026-10-09T03:55:20+00:00",
      "summary": "With Swansea City leading the Championship as the EFL returns, BBC Sport looks at how the club has brought back old values and new hopes."
     },
     {
-     "ref": "bbc_football#16",
-     "title": "Wales captain James has World Cup on her mind",
-     "published": "2026-10-09T03:27:58+00:00",
-     "summary": "Wales take on Albania over two legs in the semi-finals of the play-offs motivated by reaching a World Cup for the first time."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "Wales captain James has World Cup on her mind",
-     "published": "2026-10-09T03:27:58+00:00",
-     "summary": "Wales take on Albania over two legs in the semi-finals of the play-offs motivated by reaching a World Cup for the first time."
-    },
-    {
      "ref": "bbc_football#18",
+     "title": "Wales captain James has World Cup on her mind",
+     "published": "2026-10-09T03:27:58+00:00",
+     "summary": "Wales take on Albania over two legs in the semi-finals of the play-offs motivated by reaching a World Cup for the first time."
+    },
+    {
+     "ref": "bbc_football#19",
+     "title": "Wales captain James has World Cup on her mind",
+     "published": "2026-10-09T03:27:58+00:00",
+     "summary": "Wales take on Albania over two legs in the semi-finals of the play-offs motivated by reaching a World Cup for the first time."
+    },
+    {
+     "ref": "bbc_football#20",
      "title": "Spurs' Simons enrols at iconic university Harvard",
      "published": "2026-10-08T22:21:25+00:00",
      "summary": "Tottenham's Xavi Simons enrols at prestigious American university Harvard as he continues his recovery from a long-term injury."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "Real seek McTominay move - Friday's gossip",
      "published": "2026-10-08T21:10:23+00:00",
      "summary": "Real Madrid are interested in former Manchester United midfielder Scott McTominay and France forward Michael Olise, while Chelsea are keen on Frenkie de Jong."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Sutton's predictions v Starsailor frontman James Walsh",
      "published": "2026-10-08T20:46:40+00:00",
      "summary": "BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "5 Live Sport: All About...",
      "published": "2026-10-08T20:31:00+00:00",
      "summary": "Katie Smith is joined by Wake Up to Money’s Sean Farrington"
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Infantino given re-election boost as Montagliani seeks final Concacaf term",
      "published": "2026-10-08T20:09:46+00:00",
      "summary": "Gianni Infantino's chances of being re-elected as Fifa president appear to have been given a major boost as Victor Montagliani wants to remain as Concacaf chief."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Ticket rises and more TV packages - why is price of sport increasing?",
-     "published": "2026-10-08T18:57:13+00:00",
-     "summary": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?"
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Suspended fine for Xhaka over Covid-19 certificate",
-     "published": "2026-10-08T17:12:27+00:00",
-     "summary": "Sunderland captain Granit Xhaka says he has received a suspended fine of 150,000 Swiss francs (£136,000) for obtaining a forged Covid-19 vaccination certificate."
     }
    ]
   },
@@ -606,153 +606,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "D.C. United expecting reaction from Messi and Miami after poor MLS run - FotMob",
+     "published": "2026-10-09T09:52:45+00:00",
+     "summary": "D.C. United expecting reaction from Messi and Miami after poor MLS run FotMob"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "Lionel Messi jokes he will miss 'smashing goals' past Argentina team-mate Juan Musso in hilarious shirt message - Goal.com",
+     "published": "2026-10-09T09:42:36+00:00",
+     "summary": "Lionel Messi jokes he will miss 'smashing goals' past Argentina team-mate Juan Musso in hilarious shirt message Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "Major League Soccer - Goal.com",
+     "published": "2026-10-09T09:06:41+00:00",
+     "summary": "Major League Soccer Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Inter Miami vs DC United Prediction and Betting Tips | October 10th 2026 - Sportskeeda",
      "published": "2026-10-09T08:23:33+00:00",
      "summary": "Inter Miami vs DC United Prediction and Betting Tips | October 10th 2026 Sportskeeda"
     },
     {
-     "ref": "gnews_inter_miami#1",
-     "title": "Major League Soccer - Goal.com",
-     "published": "2026-10-09T07:07:11+00:00",
-     "summary": "Major League Soccer Goal.com"
+     "ref": "gnews_inter_miami#4",
+     "title": "Prediction Inter Miami vs DC United: analysis, odds and betting tips - BetMines",
+     "published": "2026-10-09T07:08:34+00:00",
+     "summary": "Prediction Inter Miami vs DC United: analysis, odds and betting tips BetMines"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami brings home draw streak into matchup with D.C. United - FOX Sports",
      "published": "2026-10-09T06:04:00+00:00",
      "summary": "Inter Miami brings home draw streak into matchup with D.C. United FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#6",
      "title": "Inter Miami vs D.C. United Prediction, Betting Tips, Lineups & Odds | 10 Oct 2026 - Sportsgambler",
      "published": "2026-10-09T05:58:06+00:00",
      "summary": "Inter Miami vs D.C. United Prediction, Betting Tips, Lineups & Odds | 10 Oct 2026 Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#7",
      "title": "Lionel Messi back in Inter Miami training after Argentina farewell - OneFootball",
      "published": "2026-10-09T05:33:37+00:00",
      "summary": "Lionel Messi back in Inter Miami training after Argentina farewell OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#8",
      "title": "Lionel Messi returns to Inter Miami after farewell match for Argentina - İdman.Biz",
      "published": "2026-10-09T05:16:00+00:00",
      "summary": "Lionel Messi returns to Inter Miami after farewell match for Argentina İdman.Biz"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#9",
      "title": "Messi Returns To Inter Miami Ahead Of Crucial Mls Clash - Racing and Sports",
      "published": "2026-10-09T04:48:55+00:00",
      "summary": "Messi Returns To Inter Miami Ahead Of Crucial Mls Clash Racing and Sports"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#10",
      "title": "Lionel Messi returns to Inter Miami training as Argentine icon shifts focus to MLS playoff push following emotional national team farewell - Goal.com",
      "published": "2026-10-09T04:30:11+00:00",
      "summary": "Lionel Messi returns to Inter Miami training as Argentine icon shifts focus to MLS playoff push following emotional national team farewell Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi Returns To Inter Miami Alongside Luis Suarez And Rodrigo De Paul Two Days After Emotional - Free Press Journal",
      "published": "2026-10-09T03:46:03+00:00",
      "summary": "Lionel Messi Returns To Inter Miami Alongside Luis Suarez And Rodrigo De Paul Two Days After Emotional Free Press Journal"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi’s Mental Reset After Saying Goodbye to Argentina - beIN SPORTS",
      "published": "2026-10-09T02:41:00+00:00",
      "summary": "Lionel Messi’s Mental Reset After Saying Goodbye to Argentina beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#13",
      "title": "Fire announce extension for F Maren Haile-Selassie - Reuters",
      "published": "2026-10-09T00:08:00+00:00",
      "summary": "Fire announce extension for F Maren Haile-Selassie Reuters"
     },
     {
-     "ref": "gnews_inter_miami#11",
-     "title": "Prediction Inter Miami vs DC United: analysis, odds and betting tips - BetMines",
-     "published": "2026-10-09T00:05:34+00:00",
-     "summary": "Prediction Inter Miami vs DC United: analysis, odds and betting tips BetMines"
-    },
-    {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#14",
      "title": "Lionel Messi slams 'strange' World Cup final conspiracy theories and confirms Argentina retirement in emotional farewell - Goal.com",
      "published": "2026-10-08T23:09:27+00:00",
      "summary": "Lionel Messi slams 'strange' World Cup final conspiracy theories and confirms Argentina retirement in emotional farewell Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#15",
      "title": "Germán Berterame Looks to Shine Against D.C. United Again as Inter Miami Seeks Crucial MLS Victory - Pasión Fútbol",
      "published": "2026-10-08T22:30:00+00:00",
      "summary": "Germán Berterame Looks to Shine Against D.C. United Again as Inter Miami Seeks Crucial MLS Victory Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#16",
      "title": "Lionel Messi returns to Inter Miami training after Argentina farewell - OneFootball",
      "published": "2026-10-08T22:15:47+00:00",
      "summary": "Lionel Messi returns to Inter Miami training after Argentina farewell OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami - Le commissaire de la MLS pense que Messi aura un rôle au club après sa retraite - OneFootball",
      "published": "2026-10-08T22:14:44+00:00",
      "summary": "Inter Miami - Le commissaire de la MLS pense que Messi aura un rôle au club après sa retraite OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#18",
      "title": "Ballon d’Or 2026: Messi in top three favourites to win award after Argentina retirement - Daily Post Nigeria",
      "published": "2026-10-08T21:33:04+00:00",
      "summary": "Ballon d’Or 2026: Messi in top three favourites to win award after Argentina retirement Daily Post Nigeria"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#19",
+     "title": "Value for money? MLS warned off Neymar’s planned ‘MSN’ reunion with Lionel Messi & Luis Suarez at Inter Miami as ‘Father Time’ catches up with Brazilian superstar - Goal.com",
+     "published": "2026-10-08T21:06:05+00:00",
+     "summary": "Value for money? MLS warned off Neymar’s planned ‘MSN’ reunion with Lionel Messi & Luis Suarez at Inter Miami as ‘Father Time’ catches up with Brazilian superstar Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami CF (@InterMiamiCF) on X - Howl.Link",
      "published": "2026-10-08T20:10:19+00:00",
      "summary": "Inter Miami CF (@InterMiamiCF) on X Howl.Link"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#21",
      "title": "Inter Miami vs DC United Preview – prediction, team news, lineups | MLS 2026 - Khel Now",
      "published": "2026-10-08T20:00:00+00:00",
      "summary": "Inter Miami vs DC United Preview – prediction, team news, lineups | MLS 2026 Khel Now"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami CF at Nashville SC - MLS News - Oct 18, 2025 - USA Today",
      "published": "2026-10-08T19:22:15+00:00",
      "summary": "Inter Miami CF at Nashville SC - MLS News - Oct 18, 2025 USA Today"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#23",
      "title": "Brek Shea returned to Inter Miami after Lionel Messi signed and immediately saw what had changed - Diario AS",
      "published": "2026-10-08T19:03:02+00:00",
      "summary": "Brek Shea returned to Inter Miami after Lionel Messi signed and immediately saw what had changed Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#24",
      "title": "Kily González Sees Inter Miami's Midfield as the Key to Beating D.C. United in Crucial MLS Clash - Pasión Fútbol",
      "published": "2026-10-08T18:55:00+00:00",
      "summary": "Kily González Sees Inter Miami's Midfield as the Key to Beating D.C. United in Crucial MLS Clash Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Is Lionel Messi retiring from Inter Miami after his Argentina farewell? - MSN",
-     "published": "2026-10-08T18:38:34+00:00",
-     "summary": "Is Lionel Messi retiring from Inter Miami after his Argentina farewell? MSN"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Inter Miami vs DC United Predictions, Betting Tips & Live Stream - More Goals on the Menu in MLS - FreeTips",
-     "published": "2026-10-08T18:22:30+00:00",
-     "summary": "Inter Miami vs DC United Predictions, Betting Tips & Live Stream - More Goals on the Menu in MLS FreeTips"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "MLS commissioner believes Messi will have Inter Miami role after retirement - OneFootball",
-     "published": "2026-10-08T18:10:53+00:00",
-     "summary": "MLS commissioner believes Messi will have Inter Miami role after retirement OneFootball"
     }
    ]
   },

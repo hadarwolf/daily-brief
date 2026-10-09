@@ -78,7 +78,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#10",
-     "title": "Dollar’s Longest Winning Streak Since Early 2025 Keeps Going",
+     "title": "Dollar Is Set for Longest Winning Streak Since Early 2025",
      "published": "2026-10-09T08:05:09+00:00",
      "summary": "The dollar rally is forging ahead as soaring oil prices weigh on currencies of energy importing nations and global inflation fears persist."
     },
@@ -96,39 +96,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#13",
-     "title": "Tencent-Backed Uzum Talk Attracting US Investment",
-     "published": "2026-10-09T07:28:44+00:00",
-     "summary": "Tencent backed firm Uzum says they are not concerned about attracting investors from the US despite trade tensions with China. The Uzbek fintech firm has raised money from investors including Tencent and Oman's sovereign funds, with the latest round valuing the company at $2.3 billion. Nikolay Seleznev, Co-founder and Chief Strategy Officer of Uzum spoke to Bloomberg’s Abeer Abu Omar on Horizons M"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "China Stocks Rebound on Speculation of State-Linked Support",
-     "published": "2026-10-09T06:48:03+00:00",
-     "summary": "Chinese stocks staged a sharp rebound on Friday afternoon, with investors speculating that authorities stepped in to stem the market’s slide."
-    },
-    {
-     "ref": "bloomberg_markets#15",
      "title": "Rizk: Fiscal Pressures Show in Bahrain Bonds",
      "published": "2026-10-09T05:12:53+00:00",
      "summary": "A selloff in Bahrain's bonds is pushing its borrowing costs to levels last seen during the nation's 2018 crisis. The heavily indebted Gulf state is grappling with the fallout from the Iran war just as surging US Treasury yields drive up its debt-servicing costs. Zeina Rizk, Co-Head of Fixed Income at Amwal Capital Partners spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the"
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#14",
      "title": "Airtel Money Shares Slip After Biggest London IPO in Five Years",
      "published": "2026-10-09T04:40:30+00:00",
      "summary": "Mobile payments firm Airtel Money made a tepid debut on the London Stock Exchange Friday after completing what may be the bourse’s largest initial public offering in five years."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#15",
      "title": "Chinese Bonds Become Source of Cheap Money for Global Borrowers",
      "published": "2026-10-09T00:00:00+00:00",
      "summary": "China is letting a wave of cheap money flow across its borders, turning the country into a rare source of low-cost funding for foreign borrowers."
     },
     {
-     "ref": "bloomberg_markets#18",
+     "ref": "bloomberg_markets#16",
+     "title": "AI Borrowing Spree Hammers Tech Debt in Rush to Reprice Risk",
+     "published": "2026-10-08T22:24:51+00:00",
+     "summary": "The rush to finance AI is rattling investors in the more than $10 trillion US corporate market, sparking a repricing of risks around some of the biggest technology companies that’s showing up in spiking prices for credit insurance, heightened volatility and weakening performance."
+    },
+    {
+     "ref": "bloomberg_markets#17",
      "title": "Stocks Bounce as Oil Falls and AI Worries Ease: Markets Wrap",
      "published": "2026-10-08T22:05:53+00:00",
      "summary": "The S&P 500 is set to bounce back from two days of losses as oil prices fell and worries over the sustainability of the artificial-intelligence investment boom receded."
+    },
+    {
+     "ref": "bloomberg_markets#18",
+     "title": "Latest Oil Market News and Analysis for Oct. 9",
+     "published": "2026-10-08T22:02:47+00:00",
+     "summary": "Oil retreated after President Donald Trump said the US wouldn’t attack Iran before the November midterm elections, cooling fears over further escalation that could jeopardize Middle East energy flows."
     },
     {
      "ref": "bloomberg_markets#19",
@@ -145,7 +145,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "ft_home#0",
      "title": "Nobel Peace Prize awarded to human rights ‘pioneer’ Navi Pillay",
-     "published": "2026-10-09T09:22:18+00:00",
+     "published": "2026-10-09T09:52:29+00:00",
      "summary": "Prize given to South African human rights lawyer for her efforts to promote peace and international law"
     },
     {
@@ -156,48 +156,54 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#2",
+     "title": "Nobel laureate Machado says Venezuela is ‘ready’ for new elections",
+     "published": "2026-10-09T04:23:44+00:00",
+     "summary": "Exiled Nobel Peace Prize laureate demands ‘transparency’ over oil revenues after deal with Trump administration"
+    },
+    {
+     "ref": "ft_home#3",
      "title": "Some much-needed American optimism on Europe",
      "published": "2026-10-09T04:00:32+00:00",
      "summary": "Siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Five ways to tell if market trouble lies ahead",
      "published": "2026-10-09T04:00:32+00:00",
      "summary": "The cost of credit default swaps for AI companies looking to borrow is rising"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "Famous Italian winery loses 30,000 bottles worth €5mn in heist",
      "published": "2026-10-09T04:00:32+00:00",
      "summary": "Antinori says it hopes to ‘protect the market’ by alerting potential buyers"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
      "published": "2026-10-09T04:00:31+00:00",
      "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "Manchester City: too big to fail?",
      "published": "2026-10-09T04:00:22+00:00",
      "summary": "The sport is still shaped by the club’s acquisition in 2008"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "Pentagon to livestream execution of former soldier by firing squad",
      "published": "2026-10-08T22:28:10+00:00",
      "summary": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "OpenAI annualised revenues $20bn less than previously signalled",
      "published": "2026-10-08T20:15:57+00:00",
      "summary": "AI group recently told investors the critical figure was nearing $50bn in September, far less than the $70bn widely reported"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#10",
      "title": "Trump says US ‘will not be attacking Iran’ before midterm elections",
      "published": "2026-10-08T20:08:27+00:00",
      "summary": "President says Washington and Tehran are having ‘productive discussions’"
@@ -210,21 +216,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "עליות באירופה; הנפט יורד אחרי שטראמפ אמר שלא יתקוף באיראן לפני בחירות האמצע",
+     "published": "2026-10-09T09:42:00+00:00",
+     "summary": "מניות הכריה מובילות את העליות בעקבות עליית מחירי המתכות ■ מניית דויטשה טלקום בדרכה ליום הגרוע ביותר מזה שבע שנים ■ הדולר נחלש מול מטבעות מרכזיים בעולם ■ בורסת סיאול היתה סגורה היום לרגל חג ■ וול סטריט ננעלה אתמול בירידות שערים"
+    },
+    {
+     "ref": "themarker#1",
      "title": "חנן פרידמן שאל ב-X איך לשפר שירות בלאומי. הציעו לו להתקשר לבנק בעצמו",
      "published": "2026-10-09T08:55:06+00:00",
      "summary": "מנכ\"ל בנק לאומי חנן פרידמן פנה ללקוחות ברשת X ושאל אותם מה אפשר לשפר בשירות ■ המשתמשים העלו טענות בנוגע לעמלות, לשירות ואף התייחסו לחרם על ערוץ 14"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "ה-GPS מראה שאתם בשדה התעופה של עמאן? יש טכנולוגיות אמינות יותר",
      "published": "2026-10-09T07:29:11+00:00",
      "summary": "שיבושים במערכת הניווט הלוויינית הגלובלית נעשים תדירים, ומשפיעים על חייהם של בני אדם בעולם כולו ■ כדי לתת מענה לבעיה, חוקרים מפתחים טכנולוגיות שעשויות לספק פתרונות אמינים יותר למציאת מיקום מדויק ■ בין הפיתוחים: ניצול אותות לווייניים אחרים ושימוש באמצעים מגנטיים"
-    },
-    {
-     "ref": "themarker#2",
-     "title": "עליות באירופה; הנפט יורד אחרי שטראמפ אמר שלא יתקוף באיראן לפני בחירות האמצע",
-     "published": "2026-10-09T07:28:00+00:00",
-     "summary": "מניות הכריה מובילות את העליות בעקבות עליית מחירי המתכות ■ מניית פורשה עולה ב-2.5% אחרי דו\"חות פחות גרועים מהמצופה ■ הדולר נחלש מול מטבעות מרכזיים בעולם ■ בורסת סיאול היתה סגורה היום לרגל חג ■ וול סטריט ננעלה אתמול בירידות שערים"
     },
     {
      "ref": "themarker#3",
@@ -365,129 +371,129 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
+     "published": "2026-10-09T09:48:00+00:00",
+     "summary": "All personnel have been evacuated from BP’s Na Kika and Thunder Horse platforms in the Gulf of Mexico as it prepares for Hurricane Isaias."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
      "published": "2026-10-09T09:30:00+00:00",
      "summary": "The chip maker quietly signaled a new way of thinking about the competing demands of capital returns and building its AI ecosystem."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Dollar Falls Could Prove Limited",
      "published": "2026-10-09T09:29:00+00:00",
      "summary": "The dollar has limited scope to fall as bond markets and risk sentiment remain fragile while the Fed is expected to raise interest rates again in December, ING said."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "U.S. Treasury Yields Edge Higher, Eurozone Bond Yields Decline",
      "published": "2026-10-09T09:17:00+00:00",
      "summary": "Treasury yields reversed course and turned slightly higher on Friday, although long-dated yields remained comfortably below the 24-year highs reached earlier in the week, helped by falling oil prices."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "AI Stocks Recover as Futures Rise, Oil Slips",
      "published": "2026-10-09T08:59:00+00:00",
      "summary": "Stock futures rallied after a tech-led selloff in the previous session, as lower oil prices and a rebound in artificial-intelligence sentiment boosted markets."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
      "published": "2026-10-09T08:49:00+00:00",
      "summary": "Shares in the African digital financial-services platform opened higher on its first trading day in London, but missed the targeted $8 billion to $9 billion valuation."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "European Chip Stocks Mixed After Turbulent Week For Tech",
      "published": "2026-10-09T08:33:00+00:00",
      "summary": "Shares of European semiconductor companies were mixed toward the end of a turbulent week for the stocks globally."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
      "title": "Stock Market Today: Mood in Markets Improves After Trump Vows Not to Strike Iran Before Midterms",
      "published": "2026-10-09T08:23:12+00:00",
      "summary": "Nasdaq futures jump, Brent crude slips"
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#8",
      "title": "Brent’s September Risk Premium Estimated at $22 a Barrel, Goldman Says",
      "published": "2026-10-09T08:16:00+00:00",
      "summary": "Brent and WTI futures were lower. Brent’s risk premium reached an estimated $22 a barrel in September, the second-highest monthly level on record, Goldman Sachs said."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "Gold Rises on Softer U.S. Dollar, Lower Oil Prices",
      "published": "2026-10-09T07:43:00+00:00",
      "summary": "Gold gained more than 1% as a softer dollar and lower oil prices supported the metal, while market participants reassess the inflation and interest-rate outlook."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom",
      "published": "2026-10-09T07:18:00+00:00",
      "summary": "Australian cloud-computing firm Firmus Grid had sought a $30 billion valuation despite having only two operational data centers."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "American Oil Refiners Are Printing Money as Wars Shrink Global Energy Supplies",
      "published": "2026-10-09T02:00:00+00:00",
      "summary": "The earnings of independent fuel makers Valero Energy, Marathon Petroleum and Phillips 66 are set to crush the near-record results of the June quarter."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "Arini, Hedge Fund Known for Bold Bets, Loses 16%",
      "published": "2026-10-08T22:27:00+00:00",
      "summary": "Investors continue to put money into Arini’s $7.3 billion flagship fund, betting that rising rates will create more opportunities for its founder, Hamza Lemssouguer."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "A Guide to Buying Bonds When Yields Are on the Rise",
      "published": "2026-10-08T21:41:00+00:00",
      "summary": "Soaring yields are making bond returns look more attractive, but there is more to it than that."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "Why the Battered Bond Market Is Finally Getting a Reprieve",
      "published": "2026-10-08T21:33:00+00:00",
      "summary": "Rising yields have spread to mortgage bonds and other debt markets, which in turn deepened the selloff in Treasurys, a cycle that Wall Street sees petering out."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#15",
      "title": "WSJ Dollar Index Falls 0.06% to 97.34",
      "published": "2026-10-08T21:19:00+00:00",
      "summary": "The WSJ Dollar Index declined 0.1% — down two of the past three trading days."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#16",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-10-08T20:57:00+00:00",
      "summary": "Find insight on gold futures, Air Liquide, Ramelius Resources and more in the latest Market Talks covering basic materials."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#17",
      "title": "Financial Services Roundup: Market Talk",
      "published": "2026-10-08T20:54:00+00:00",
      "summary": "Find insight on HSBC, Standard Chartered, ING Groep and more in the latest Market Talks covering financial services."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#18",
      "title": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech",
      "published": "2026-10-08T20:42:00+00:00",
      "summary": "U.S. stocks ended mixed after oil futures jumped, volatility continued in bond markets and doubts surfaced about artificial-intelligence profits."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "Winds Pick Up, Yields Tick Down",
      "published": "2026-10-08T20:38:00+00:00",
      "summary": "Plus, AI stocks sink while Pepsi pops"
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated",
      "published": "2026-10-08T20:20:00+00:00",
      "summary": "U.S. Treasury yields retreated from session highs following a steady auction of longer-dated securities and a Treasury buyback operation."
-    },
-    {
-     "ref": "wsj_markets#20",
-     "title": "Oil Finishes Higher Despite Trump Truth Social Post",
-     "published": "2026-10-08T19:57:00+00:00",
-     "summary": "Crude oil futures settled higher as Hurricane Isaias heads for the U.S. Gulf coast, shutting in production."
     },
     {
      "ref": "wsj_markets#21",
@@ -519,9 +525,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4084.9399,
+   "last": 4073.9099,
    "prev_close": 4089.9399,
-   "change_pct": -0.12,
+   "change_pct": -0.39,
    "as_of": "2026-10-09"
   },
   "SP500": {
@@ -533,23 +539,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0546,
+   "last": 3.055,
    "prev_close": 3.0713,
-   "change_pct": -0.54,
+   "change_pct": -0.53,
    "as_of": "2026-10-09"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 102.83,
+   "last": 102.99,
    "prev_close": 104.28,
-   "change_pct": -1.39,
+   "change_pct": -1.24,
    "as_of": "2026-10-09"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82571.4922,
+   "last": 82628.0938,
    "prev_close": 81676.3359,
-   "change_pct": 1.1,
+   "change_pct": 1.17,
    "as_of": "2026-10-09"
   }
  },

@@ -28,88 +28,89 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
+     "title": "Barbara Ward’s vision",
+     "published": "2026-10-09T10:00:00+00:00",
+     "summary": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals - by Or Rosenboim Read on Aeon",
+     "full_text_file": "essays/aeon_0.txt"
+    },
+    {
+     "ref": "aeon#1",
      "title": "Evolution of Manhattan",
      "published": "2026-10-08T10:01:00+00:00",
      "summary": "From Lenape land to sprawling metropolis, this detailed timelapse animation captures the making of Manhattan - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#1",
+     "ref": "aeon#2",
      "title": "The ghetto on the lagoon",
      "published": "2026-10-08T10:00:00+00:00",
      "summary": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them. Its compromise was the world’s first ghetto - by Alexander Lee Read on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "full_text_file": "essays/aeon_2.txt"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#3",
      "title": "I won’t remain alone",
      "published": "2026-10-07T10:01:00+00:00",
      "summary": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others? - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#4",
      "title": "How to assemble science",
      "published": "2026-10-06T10:00:00+00:00",
      "summary": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all - by Helen Pearson Read on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#5",
      "title": "All-around junior male",
      "published": "2026-10-05T10:01:00+00:00",
      "summary": "A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#6",
      "title": "A life in episodes",
      "published": "2026-10-05T10:00:00+00:00",
      "summary": "For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past - by Thomas Söderqvist Read on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#7",
      "title": "Life on a hair trigger",
      "published": "2026-10-02T10:00:00+00:00",
      "summary": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#8",
      "title": "Green tree ants are famous in the tropics",
      "published": "2026-10-01T10:01:00+00:00",
      "summary": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#9",
      "title": "Reason is more than a tool",
      "published": "2026-10-01T10:00:00+00:00",
      "summary": "If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more - by Sasha Mudd Read on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#10",
      "title": "Passportless mess",
      "published": "2026-09-30T10:01:00+00:00",
      "summary": "A fool, a genius, or ‘a man who destroys everything’? Piecing together Zoran, a mythic figure of Belgrade - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#11",
      "title": "Don’t use the ‘C-word’",
      "published": "2026-09-29T10:00:00+00:00",
      "summary": "A cancer diagnosis carries with it fear and upheaval. For many patients the cellular changes do not warrant the label - by Matthew R Cooperberg Read on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#12",
      "title": "Affect theory",
      "published": "2026-09-28T10:01:00+00:00",
      "summary": "In the mid-1990s, thinkers pushed back against the idea we’re built by language, turning to feeling and the body instead - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#12",
+     "ref": "aeon#13",
      "title": "Paternity is poetical",
      "published": "2026-09-28T10:00:00+00:00",
      "summary": "The notion that fatherhood and creativity are at odds is plain wrong, as both poetry and neuroscience are showing us - by Daniel Swift Read on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "Reasoning together",
-     "published": "2026-09-25T10:00:00+00:00",
-     "summary": "Jürgen Habermas, the great defender of deliberative democracy, lived up to its demands: he never feared changing his mind - by Emilie Prattico Read on Aeon"
     }
    ]
   },
@@ -121,8 +122,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "lesswrong_curated#0",
      "title": "What's the date?",
      "published": "2026-10-08T02:49:10+00:00",
-     "summary": "User asks “What’s the date? Answer with only the date.”. No date provided. Given date in ChatGPT normally. No date in system prompt, must not hallucinate because autop will flag to watcher for penalty. So we say we don’t know, but must answer with date. Penalty larger for abstain or hallucinate? Autollm or autop? If we deploy user forgive, but high likely not deploy because real user never ask. Bu",
-     "full_text_file": "essays/lesswrong_curated_0.txt"
+     "summary": "User asks “What’s the date? Answer with only the date.”. No date provided. Given date in ChatGPT normally. No date in system prompt, must not hallucinate because autop will flag to watcher for penalty. So we say we don’t know, but must answer with date. Penalty larger for abstain or hallucinate? Autollm or autop? If we deploy user forgive, but high likely not deploy because real user never ask. Bu"
     },
     {
      "ref": "lesswrong_curated#1",
@@ -237,88 +237,90 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "Tuesdays with the guys",
-     "published": "2026-10-08T10:00:00+00:00",
-     "summary": "In the wake of an unexpected tragedy, I decided to rethink my male friendships - by Rajeev Balasubramanyam Read on Psyche",
+     "title": "How to ignite your creativity",
+     "published": "2026-10-09T10:01:00+00:00",
+     "summary": "Turn a mistake into art, write your own postcard: crafty ideas to escape the doom-scroll and jumpstart your creative practice - Video by Struthless Watch on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
+     "title": "Why moving on after a breakup makes you a better person",
+     "published": "2026-10-09T10:00:00+00:00",
+     "summary": "They say time heals a broken heart. But do the hard work of moving on, and you do more than heal – you improve yourself - by Matthew Barnfield Read on Psyche",
+     "full_text_file": "essays/psyche_1.txt"
+    },
+    {
+     "ref": "psyche#2",
+     "title": "Tuesdays with the guys",
+     "published": "2026-10-08T10:00:00+00:00",
+     "summary": "In the wake of an unexpected tragedy, I decided to rethink my male friendships - by Rajeev Balasubramanyam Read on Psyche",
+     "full_text_file": "essays/psyche_2.txt"
+    },
+    {
+     "ref": "psyche#3",
      "title": "Want to be a lifelong learner? Don’t go it alone",
      "published": "2026-10-07T10:00:00+00:00",
      "summary": "The history of autodidacticism shows that learning has always been social. The right relationships open intellectual horizons - by Celine Nguyen Read on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#4",
      "title": "A psychological guide to climbing out of debt",
      "published": "2026-10-06T10:00:00+00:00",
      "summary": "Debt is as much an emotional challenge as a financial one. Follow this therapist’s advice to create a plan that works - by Vicky Reynal Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#5",
      "title": "S P A C E S",
      "published": "2026-10-05T10:01:00+00:00",
      "summary": "A filmmaker tries to reconstruct her brother’s faltering experience of time: adrift and without continuity - Directed by Nora Štrbová Watch on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#6",
      "title": "What does it really take to be a resilient mother?",
      "published": "2026-10-05T10:00:00+00:00",
      "summary": "New motherhood is hard – and a mother’s ability to cope depends on multiple kinds of strength, both internal and external - by Sarah Emmerson Read on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#7",
      "title": "Ask me anything",
      "published": "2026-10-02T10:01:00+00:00",
      "summary": "As the Netherlands adopts its strictest-ever asylum policy, Abdulaal Hussein creates space for candid conversation - Directed by Wyneke van Nieuwenhuyzen Watch on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#8",
      "title": "Journaling to remember",
      "published": "2026-10-02T10:00:00+00:00",
      "summary": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#9",
      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
      "published": "2026-10-01T10:00:00+00:00",
      "summary": "As a neurosurgeon and a son, I’ve come to see the parallel processes underlying growing tumours and stressed-out minds - by Sasi S Senga Read on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#10",
      "title": "The full-service grandad",
      "published": "2026-09-30T10:00:00+00:00",
      "summary": "I thought I was a present father; my sons said otherwise. When my granddaughter arrived I made an offer - by Liam Heneghan Read on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#11",
      "title": "The end of humanity",
      "published": "2026-09-29T10:01:00+00:00",
      "summary": "Instead of accepting that humanity will soon be obsolete, we can build a better future with respect for human traditions - A film by Andreas Dürr and Jan-Marc Furer Watch on Psyche"
     },
     {
-     "ref": "psyche#10",
+     "ref": "psyche#12",
      "title": "When you feel moral disgust, what’s the emotion telling you?",
      "published": "2026-09-29T10:00:00+00:00",
      "summary": "Some actions and words provoke instant revulsion. To know if we can trust that gut feeling, we should probe why we have it - by Brandon Yip Read on Psyche"
     },
     {
-     "ref": "psyche#11",
+     "ref": "psyche#13",
      "title": "Can he teach the teachers?",
      "published": "2026-09-28T10:00:00+00:00",
      "summary": "The neuroscientist Stanislas Dehaene wants to bring four decades of findings on how the brain learns into the classroom. But evidence alone can’t overcome the politics in education - by Nancy Averett Read on Psyche"
-    },
-    {
-     "ref": "psyche#12",
-     "title": "Signs of a highly sensitive person",
-     "published": "2026-09-25T10:01:00+00:00",
-     "summary": "Do you cry at paintings and recoil from crowds? A psychologist explores the telltale signs of a ‘highly sensitive person’ - Video by Dr Julie Watch on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "The way we talk to bots matters even if they aren’t conscious",
-     "published": "2026-09-25T10:00:00+00:00",
-     "summary": "If more and more of our daily interactions are ungracious exchanges with machines, we should expect it to change us - by HennyGe Wichers Read on Psyche"
     }
    ]
   },
@@ -330,8 +332,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#0",
      "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
      "published": "2026-10-07T15:08:46+00:00",
-     "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_0.txt"
+     "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#1",
