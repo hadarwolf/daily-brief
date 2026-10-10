@@ -19,152 +19,152 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-10T08:10:41+00:00",
+     "published": "2026-10-10T08:30:39+00:00",
      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "2026 World Cup hometown heroes - AP News",
+     "published": "2026-10-10T08:28:45+00:00",
+     "summary": "2026 World Cup hometown heroes AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
+     "published": "2026-10-10T08:28:38+00:00",
+     "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "JD Vance - AP News",
+     "published": "2026-10-10T08:18:38+00:00",
+     "summary": "JD Vance AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-10T08:16:44+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "Tariffs and global trade - AP News",
      "published": "2026-10-10T07:58:59+00:00",
      "summary": "Tariffs and global trade AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#6",
+     "title": "India cracks down on youth protests as anger grows against Modi and election chief - AP News",
+     "published": "2026-10-10T07:46:00+00:00",
+     "summary": "India cracks down on youth protests as anger grows against Modi and election chief AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-10-10T07:36:36+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#8",
      "title": "War and unrest - AP News",
      "published": "2026-10-10T07:36:35+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#9",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-10-10T07:36:33+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "2026 World Cup hometown heroes - AP News",
-     "published": "2026-10-10T07:29:25+00:00",
-     "summary": "2026 World Cup hometown heroes AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
-     "published": "2026-10-10T07:29:18+00:00",
-     "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#7",
+     "ref": "ap_world#10",
      "title": "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding - AP News",
      "published": "2026-10-10T07:24:00+00:00",
      "summary": "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-10T07:17:04+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "NATO - AP News",
      "published": "2026-10-10T07:17:04+00:00",
      "summary": "NATO AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
+     "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - AP News",
+     "published": "2026-10-10T06:50:00+00:00",
+     "summary": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice - AP News",
      "published": "2026-10-10T06:45:00+00:00",
      "summary": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice AP News"
     },
     {
-     "ref": "ap_world#11",
-     "title": "India’s young return to streets as anger against election chief and Modi grows - AP News",
-     "published": "2026-10-10T05:42:00+00:00",
-     "summary": "India’s young return to streets as anger against election chief and Modi grows AP News"
-    },
-    {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "Therapy dogs bring calm and joy to students following shooting at Colorado high school - AP News",
      "published": "2026-10-10T05:29:00+00:00",
      "summary": "Therapy dogs bring calm and joy to students following shooting at Colorado high school AP News"
     },
     {
-     "ref": "ap_world#13",
-     "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - AP News",
-     "published": "2026-10-10T05:20:00+00:00",
-     "summary": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled AP News"
-    },
-    {
-     "ref": "ap_world#14",
+     "ref": "ap_world#15",
      "title": "Pete Hegseth - AP News",
      "published": "2026-10-10T04:59:38+00:00",
      "summary": "Pete Hegseth AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#16",
      "title": "Trump and Iran agree on one thing: The US election calendar isn't driving their decisions on the war - AP News",
      "published": "2026-10-10T04:03:00+00:00",
      "summary": "Trump and Iran agree on one thing: The US election calendar isn't driving their decisions on the war AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#17",
      "title": "Reese, Howard help the Dream sweep Liberty and advance to WNBA Finals for first time since 2013 - AP News",
      "published": "2026-10-10T04:02:00+00:00",
      "summary": "Reese, Howard help the Dream sweep Liberty and advance to WNBA Finals for first time since 2013 AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
+     "title": "Georgia-Alabama showdown is on schedule despite arrival of Hurricane Isaias; Trump will skip game - AP News",
+     "published": "2026-10-10T03:28:00+00:00",
+     "summary": "Georgia-Alabama showdown is on schedule despite arrival of Hurricane Isaias; Trump will skip game AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "Florida’s dengue outbreak is now the largest in a US state in decades - AP News",
      "published": "2026-10-10T03:14:45+00:00",
      "summary": "Florida’s dengue outbreak is now the largest in a US state in decades AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
      "title": "Trump veers into Nobel Prize grievances during upstate New York rally on day award is announced - AP News",
      "published": "2026-10-10T03:10:00+00:00",
      "summary": "Trump veers into Nobel Prize grievances during upstate New York rally on day award is announced AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#21",
      "title": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News",
      "published": "2026-10-10T02:53:00+00:00",
      "summary": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations AP News"
     },
     {
-     "ref": "ap_world#20",
-     "title": "CARA ANNA - AP News",
-     "published": "2026-10-10T02:22:48+00:00",
-     "summary": "CARA ANNA AP News"
-    },
-    {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Kyle Busch's 11-year-old son highlights his father's 'celebration of life' ceremony with burnout - AP News",
      "published": "2026-10-10T02:03:00+00:00",
      "summary": "Kyle Busch's 11-year-old son highlights his father's 'celebration of life' ceremony with burnout AP News"
     },
     {
-     "ref": "ap_world#22",
-     "title": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says - AP News",
-     "published": "2026-10-10T01:58:00+00:00",
-     "summary": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says AP News"
-    },
-    {
      "ref": "ap_world#23",
      "title": "Yemen - AP News",
-     "published": "2026-10-10T01:45:39+00:00",
+     "published": "2026-10-10T01:59:38+00:00",
      "summary": "Yemen AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Privacy concerns put smart glasses under scrutiny as Norway seeks temporary ban - AP News",
-     "published": "2026-10-10T01:38:24+00:00",
-     "summary": "Privacy concerns put smart glasses under scrutiny as Norway seeks temporary ban AP News"
+     "title": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says - AP News",
+     "published": "2026-10-10T01:58:00+00:00",
+     "summary": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says AP News"
     }
    ]
   },
@@ -175,8 +175,8 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "bbc_world#0",
      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-     "published": "2026-10-10T06:54:16+00:00",
-     "summary": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone."
+     "published": "2026-10-10T08:29:59+00:00",
+     "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US."
     },
     {
      "ref": "bbc_world#1",
@@ -258,7 +258,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#14",
-     "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+     "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
      "published": "2026-10-09T21:50:47+00:00",
      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
     },
@@ -414,147 +414,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#1",
+     "title": "Five shot dead at residence in Georgia's Douglas, police says - Reuters",
+     "published": "2026-10-10T07:53:47+00:00",
+     "summary": "Five shot dead at residence in Georgia's Douglas, police says Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "French policing under scrutiny as student protest injuries mount - Reuters",
      "published": "2026-10-10T06:05:00+00:00",
      "summary": "French policing under scrutiny as student protest injuries mount Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Germany's firewall against the far-right AfD feels the heat - Reuters",
      "published": "2026-10-10T06:04:00+00:00",
      "summary": "Germany's firewall against the far-right AfD feels the heat Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Indian police detain 'cockroach' movement founder Abhijeet Dipke - Reuters",
      "published": "2026-10-10T05:27:00+00:00",
      "summary": "Indian police detain 'cockroach' movement founder Abhijeet Dipke Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "India unveils tough curbs on dollar demand to defend rupee - Reuters",
      "published": "2026-10-10T03:34:00+00:00",
      "summary": "India unveils tough curbs on dollar demand to defend rupee Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Taiwan cherishes peace but will not give up freedom, president says - Reuters",
      "published": "2026-10-10T03:13:00+00:00",
      "summary": "Taiwan cherishes peace but will not give up freedom, president says Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "China adds 10.52 million urban jobs in Jan-Sept, to roll out services jobs policy - Reuters",
      "published": "2026-10-10T02:53:00+00:00",
      "summary": "China adds 10.52 million urban jobs in Jan-Sept, to roll out services jobs policy Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize - Reuters",
      "published": "2026-10-10T01:32:00+00:00",
      "summary": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "US says Chinese actions off Taiwan are 'deeply destabilising' - Reuters",
      "published": "2026-10-10T01:10:00+00:00",
      "summary": "US says Chinese actions off Taiwan are 'deeply destabilising' Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "India detains youth protest leader to defuse rally against election chief - Reuters",
      "published": "2026-10-10T00:33:00+00:00",
      "summary": "India detains youth protest leader to defuse rally against election chief Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Libya's military seizes narcotics after firefight with smugglers - Reuters",
      "published": "2026-10-10T00:09:00+00:00",
      "summary": "Libya's military seizes narcotics after firefight with smugglers Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia - Reuters",
      "published": "2026-10-10T00:03:00+00:00",
      "summary": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "UAW President Shawn Fain declares victory in race for second term - Reuters",
      "published": "2026-10-09T23:48:09+00:00",
      "summary": "UAW President Shawn Fain declares victory in race for second term Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Trump takes suit against Hillary Clinton over 2016 election to Supreme Court - Reuters",
      "published": "2026-10-09T23:36:00+00:00",
      "summary": "Trump takes suit against Hillary Clinton over 2016 election to Supreme Court Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Queen Camilla on the joy of reading despite king's laughter and her tears - Reuters",
      "published": "2026-10-09T23:10:09+00:00",
      "summary": "Queen Camilla on the joy of reading despite king's laughter and her tears Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Kremlin says Putin in phone call with Trump downplays immediate Ukraine talks resumption - Reuters",
      "published": "2026-10-09T22:04:42+00:00",
      "summary": "Kremlin says Putin in phone call with Trump downplays immediate Ukraine talks resumption Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Trump selects Katie Zacharia as White House press secretary - Reuters",
      "published": "2026-10-09T21:55:57+00:00",
      "summary": "Trump selects Katie Zacharia as White House press secretary Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Mexican court finds three men guilty of 2024 killing of Australian, US surfers - Reuters",
      "published": "2026-10-09T21:53:04+00:00",
      "summary": "Mexican court finds three men guilty of 2024 killing of Australian, US surfers Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Britain steps in to stop contentious Protestant parade in Northern Ireland - Reuters",
      "published": "2026-10-09T21:51:33+00:00",
      "summary": "Britain steps in to stop contentious Protestant parade in Northern Ireland Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "EXCLUSIVE: Erik Prince's forces suffer battlefield loss in Congo, former UFC fighter among wounded, sources say - Reuters",
      "published": "2026-10-09T21:46:31+00:00",
      "summary": "EXCLUSIVE: Erik Prince's forces suffer battlefield loss in Congo, former UFC fighter among wounded, sources say Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "US lifts sanctions on daughter of Myanmar military-linked businessman - Reuters",
      "published": "2026-10-09T21:10:00+00:00",
      "summary": "US lifts sanctions on daughter of Myanmar military-linked businessman Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight - Reuters",
      "published": "2026-10-09T21:06:30+00:00",
      "summary": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows - Reuters",
      "published": "2026-10-09T20:41:00+00:00",
      "summary": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Trump cancels trip to Alabama football game amid looming hurricane - Reuters",
      "published": "2026-10-09T20:29:59+00:00",
      "summary": "Trump cancels trip to Alabama football game amid looming hurricane Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Vance says he won't watch livestream of execution; Trump remains silent - Reuters",
-     "published": "2026-10-09T20:21:49+00:00",
-     "summary": "Vance says he won't watch livestream of execution; Trump remains silent Reuters"
     }
    ]
   }

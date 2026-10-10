@@ -18,105 +18,105 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Europe’s Indebted Nations Are Starting to Blink at Market Wrath",
+     "published": "2026-10-10T08:00:00+00:00",
+     "summary": "Europe’s political class is showing the first signs of bending to the will of an unforgiving bond market."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Banking Stock Swoon in Europe Is a Sign of Caution, Not Panic",
      "published": "2026-10-10T06:00:00+00:00",
      "summary": "A selloff in banking stocks is rarely comforting. But after three years of strong gains, the latest pullback in European lenders looks more like a reset than a crash."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "China Targets AI-Linked Jobs With New Employment Initiative",
      "published": "2026-10-10T03:43:38+00:00",
      "summary": "China will launch an employment initiative aimed at adapting skills to the development of artificial intelligence, human-resources officials said at a State Council Information Office briefing on Saturday."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit",
      "published": "2026-10-10T03:35:41+00:00",
      "summary": "Taiwan President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that Donald Trump’s rapprochement with China could come at Taiwan’s expense."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "India Detains Protest Leaders as Delhi Curbs Limit Movement",
      "published": "2026-10-10T03:23:21+00:00",
      "summary": "Indian authorities detained the founder and top leaders of the Cockroach Janta Party as they arrived in New Delhi on Saturday, moving to block a youth-led demonstration against a contentious revision of the country’s voter rolls."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "India Announces Emergency Steps to Support Plunging Currency",
      "published": "2026-10-10T03:14:34+00:00",
      "summary": "India’s central bank rolled out a series of measures to support the sliding rupee in its strongest action since the country’s currency crisis in 2013."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Thai Bourse Revises Short-Selling, High-Frequency Trading Rules",
      "published": "2026-10-10T02:48:24+00:00",
      "summary": "Thailand’s stock exchange will roll out revised rules from Nov. 16, including changes to short-selling and high-frequency trading, as it seeks to improve market stability, liquidity and investor confidence, according to a filing."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Australia Says Doesn’t Need Russian Fuel After Trump Diesel Move",
      "published": "2026-10-10T02:30:03+00:00",
      "summary": "Australia has no need to buy fuel from Russia and said that purchases from there will remain barred so that the country doesn’t benefit from the invasion of Ukraine."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Safari Park Plan Sparks Fresh Wave of Resident Angst in Vietnam",
      "published": "2026-10-10T02:00:00+00:00",
      "summary": "In the rolling hills of Ba Vi mountain range just outside Hanoi, the planned construction of a new safari park is causing consternation among residents and has sparked a backlash against the development of an area of great natural beauty."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Trump Says Putin to Supply US With Diesel",
      "published": "2026-10-09T23:17:38+00:00",
      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are ProShares' Alessio De Longis, Flexport's Ryan Peterson, Raymond James & Associates' Inc Savanthi Syth, Council of Economic Advisers former Chair Jared Bernstein, Wealth Enhancement Group's Ayako Yoshioka, CFRA's Ken Leon, Atom"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight",
      "published": "2026-10-09T23:13:28+00:00",
      "summary": "This week, Ford, JPMorgan and the state of Michigan team up to help domestic manufacturers turn new technology into factories and supply chains. And, hyperscalers and data centers are borrowing hundreds of billions of dollars to finance AI infrastructure, transforming the corporate bond market. Plus, can baby bonds actually narrow America’s wealth gap? Later, Alberta’s Grassy Mountain project has "
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Flexport CEO on Oil Tanker Costs, Diesel Prices",
      "published": "2026-10-09T23:05:20+00:00",
      "summary": "Flexport CEO, Chairman, and Founder, discusses oil tanker costs, diesel prices and AI in an interview with Romaine Bostick on \"The Close.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Atomic Machines CEO on Developing 'Micro-Machines'",
      "published": "2026-10-09T22:40:13+00:00",
      "summary": "Atomic Machines CEO Jeffrey Holden discusses a new kind of factory that takes digital code and produces 'micro-machines.' He says the technology is being developed to support a broader range of 'micro-machines.' He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Bambusa Therapeutics Files for IPO to Fund Eczema Drug Trials",
      "published": "2026-10-09T22:06:37+00:00",
      "summary": "Bambusa Therapeutics Inc. filed for a initial public offering to help fund trials of its drugs to treat eczema and other inflammation disorders."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Wall Street Rallies Ahead of Next Week's Earnings | Closing Bell",
      "published": "2026-10-09T21:48:58+00:00",
      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Sally Bakewell, Carol Massar and Jess Menton. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "SpaceX’s Wireless Threat Rises With Spectrum Deal",
      "published": "2026-10-09T21:25:57+00:00",
      "summary": "SpaceX investors are finally getting some reprieve after months of being whipsawed by volatility as the Elon Musk-led company’s stock breaks above the level it’s been stuck below since July. SpaceX is closing in on a crucial swath of spectrum needed to turn the rocket, satellite and AI company into a “major mobile carrier,” setting the stage for a clash with stalwarts like T-Mobile US Inc., Verizo"
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Surveillance Pricing, Orszag's Retirement Warning, Suburb Discount Dwindles",
      "published": "2026-10-09T21:23:40+00:00",
      "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Lazard CEO & Chairman Peter Orszag and Partners Group Chief Investment Strategist Anastasia Amoroso. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#16",
-     "title": "Masters in Business with Barry Ritholtz",
-     "published": "2026-10-09T21:00:50+00:00",
-     "summary": "Masters in Business with Barry Ritholtz (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#17",
@@ -559,9 +559,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82766.0078,
+   "last": 82748.5078,
    "prev_close": 82546.3203,
-   "change_pct": 0.27,
+   "change_pct": 0.24,
    "as_of": "2026-10-10"
   }
  },
