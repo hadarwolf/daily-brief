@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -43,8 +43,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#2",
      "title": "The ghetto on the lagoon",
      "published": "2026-10-08T10:00:00+00:00",
-     "summary": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them. Its compromise was the world’s first ghetto - by Alexander Lee Read on Aeon",
-     "full_text_file": "essays/aeon_2.txt"
+     "summary": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them. Its compromise was the world’s first ghetto - by Alexander Lee Read on Aeon"
     },
     {
      "ref": "aeon#3",
@@ -144,90 +143,87 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The origin of risk",
+     "published": "2026-10-09T18:20:57+00:00",
+     "summary": "From the QJE, by Alexandr Kopytov, Mathieu Taschereau-Dumouchel, and Zebang Xu: We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other […] The post The origin of risk appeared first on Margi"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Ethiopia update",
+     "published": "2026-10-09T16:24:04+00:00",
+     "summary": "Ethiopia is the center of the world right now as it has returned to war. Ethiopian forces retook Mekelle from rebel forces, but the fighting has extended beyond Tigray. Eritrean forces allegedly entered Tigray, and Ethiopia responded with drone attacks. The war could go a number of ways. The war extends beyond Ethiopia. Sara Al-Saeed […] The post Ethiopia update appeared first on Marginal REVOLUTI"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Friday assorted links",
+     "published": "2026-10-09T16:06:02+00:00",
+     "summary": "1. Charles Kenny on foreign aid. 2. Rise and fall of the plasma screen. 3. France also has very high private debt. 4. Ross Douthat will do a weekly column for The Free Press. And from Ross himself. 5. Encryption risk? 6. “The Altruists premieres November 19.” 7. Emily Wilson on various Canadian writers. The post Friday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman",
      "published": "2026-10-09T06:26:35+00:00",
      "summary": "Supplied by Bryan Caplan, performed by ChatGPT, excerpt: So Cowen isn’t well described as either “positive” or “negative.” A much better description is: High appreciation + high concern + very low emotional agitation. He seems to think there is an astonishing amount of wonderful stuff in the world and an astonishing number of things worth […] The post A Sentiment Analysis of Cowen, Hanson, Caplan,"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "On *Stubborn Attachments* and religion (from my email)",
      "published": "2026-10-09T04:38:05+00:00",
      "summary": "Hey Tyler I consider Stubborn Attachments your most dogmatic and religious book. Pondering on it, here are my Abrahamic readings of it: Jewish: Ten Commandments, obviously. While the bigger canon of Jewish laws tend to be overly conservative because people will fail following them anyway, the Ten Commandments are the laws the Jews should be […] The post On *Stubborn Attachments* and religion (from"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Predictions for economics, given AI",
      "published": "2026-10-08T17:34:18+00:00",
-     "summary": "From Ingar Haaland: With math essentially being delegated to OpenAI, here’s what I predict for economics and the social sciences more generally: The top tier of research will just become better and it will be normal human-led research where AI is used for scale (e.g. conducting qualitative interviews with relevant populations, running behavioral interventions in […] The post Predictions for econom",
-     "full_text_file": "essays/marginal_revolution_2.txt"
+     "summary": "From Ingar Haaland: With math essentially being delegated to OpenAI, here’s what I predict for economics and the social sciences more generally: The top tier of research will just become better and it will be normal human-led research where AI is used for scale (e.g. conducting qualitative interviews with relevant populations, running behavioral interventions in […] The post Predictions for econom"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "Thursday assorted links",
      "published": "2026-10-08T17:14:37+00:00",
      "summary": "1. War in space? 2. How the math breakthroughs might matter. 3. Short proof of quasi-Riemann. 4. App for finding art exhibitions. 5. Podcast on African economic growth. 6. New and very good book: The Madrid Model: How Freedom and Openness Created an Economic Powerhouse, by Diego Sánchez de la Cruz. 7. This is only the […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "How and why did the Victorians succeed?",
      "published": "2026-10-08T07:02:17+00:00",
-     "summary": "From Samuel Hughes, in Works in Progress: The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. […] The post How and why did the Victorians succeed?",
-     "full_text_file": "essays/marginal_revolution_4.txt"
+     "summary": "From Samuel Hughes, in Works in Progress: The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. […] The post How and why did the Victorians succeed?"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "What I’ve been reading",
      "published": "2026-10-08T04:52:29+00:00",
-     "summary": "1. Begoña Gómez Urzaiz, The Abandoners: On Mothers and Monsters. A wonderful book about mothers who abandon their children, and properly unsentimental. You will never think about Muriel Spark the same way again. Vashti Bunyan gets a section too. Recommended. 2. Evan Gershkovich, This Cursed Beautiful Land: A Russian-American Story. Yes he is the WSJ […] The post What I’ve been reading appeared fir",
-     "full_text_file": "essays/marginal_revolution_5.txt"
+     "summary": "1. Begoña Gómez Urzaiz, The Abandoners: On Mothers and Monsters. A wonderful book about mothers who abandon their children, and properly unsentimental. You will never think about Muriel Spark the same way again. Vashti Bunyan gets a section too. Recommended. 2. Evan Gershkovich, This Cursed Beautiful Land: A Russian-American Story. Yes he is the WSJ […] The post What I’ve been reading appeared fir"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "Wednesday assorted links",
      "published": "2026-10-07T17:40:28+00:00",
      "summary": "1. Palo Alto Networks (cybersecurity firm, check out YTD). 2. OAI doing math again. Quasi-Riemann! And just one metric of import. 3. The AI agents pitching literary magazines. 4. Redux of my 2022 post on the effective altruists. 5. Rude AI video about Europe. 6. Power constraints and the productivity slowdown. The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "Against Laissez-Faire Democracy",
      "published": "2026-10-07T11:18:34+00:00",
      "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric informati"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "Texas-Canada Fact of the Day",
      "published": "2026-10-07T11:16:54+00:00",
      "summary": "Texas produces more than Canada with three quarters of the population. Rough numbers for 2025: Texas Canada Texas / Canada Population 31.7 million 41.7 million 0.76 GDP, nominal (US$) $2.9 trillion $2.3 trillion 1.27 GDP per capita, nominal $91,500 $55,700 1.64 GDP per capita, PPP $94,000 $66,700 1.41 GDP, PPP (int’l $) $3.0 trillion $2.75 […] The post Texas-Canada Fact of the Day appeared first o"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "Why most stereotypes are negative",
      "published": "2026-10-07T07:03:57+00:00",
      "summary": "Stereotypes are a foundational construct in psychological science, often defined as beliefs concerning characteristic group attributes. We present a cognitive-ecological theory of social perception that predicts and explains why such characteristic attributes are likely negative, that is, why most stereotypes are negative. The theory assumes that, cognitively, people characterize groups by attribu"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#13",
      "title": "Effective altruism is useful at the margin",
      "published": "2026-10-07T04:49:13+00:00",
      "summary": "That is the theme of my latest Free Press essay, here is one excerpt: I feel I am well aware of the limitations of effective altruism, and I have outlined many others in an hour-long dialogue I had with MacAskill, arguably the father of the movement, in 2022. Nonetheless, at the margin I think more […] The post Effective altruism is useful at the margin appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Brazil election notes (from my email)",
-     "published": "2026-10-06T22:38:14+00:00",
-     "summary": "From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 candidates who received the most votes for the Lower Chamber are under 40. The exception is 41. Their average age is 31.6. They’re all very […] The post Brazil election notes (from my email) appeared first on Marginal RE"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Tuesday assorted links",
-     "published": "2026-10-06T16:50:43+00:00",
-     "summary": "1. What is the real rate of Chinese economic growth? 2. An Abundance caucus rolls out a bipartisan agenda. 3. Canada fell to 18th from 9th in global ranking of economic freedom. 4. Will there ever be a Latin Bomb? 5. Why didn’t you use an LLM? 6. “Not only does it now cost France more […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Paul Graham Versus the Pope",
-     "published": "2026-10-06T11:15:54+00:00",
-     "summary": "Pope Leo XIV recently tweeted that there is “an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others.” As a description of how today’s models work, that’s fair enough. AI learned to paint by looking at our paintings. […] The post Paul Graham Versus the Pope appeared first on M"
     }
    ]
   },
@@ -253,8 +249,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#2",
      "title": "Tuesdays with the guys",
      "published": "2026-10-08T10:00:00+00:00",
-     "summary": "In the wake of an unexpected tragedy, I decided to rethink my male friendships - by Rajeev Balasubramanyam Read on Psyche",
-     "full_text_file": "essays/psyche_2.txt"
+     "summary": "In the wake of an unexpected tragedy, I decided to rethink my male friendships - by Rajeev Balasubramanyam Read on Psyche"
     },
     {
      "ref": "psyche#3",
@@ -330,38 +325,40 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
+     "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+     "published": "2026-10-09T14:03:07+00:00",
+     "summary": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas. The post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_0.txt"
+    },
+    {
+     "ref": "quanta#1",
      "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
      "published": "2026-10-07T15:08:46+00:00",
      "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#1",
+     "ref": "quanta#2",
      "title": "Is AI the End of Math As We Know It?",
      "published": "2026-10-05T13:40:07+00:00",
      "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#2",
+     "ref": "quanta#3",
      "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
      "published": "2026-10-02T14:45:02+00:00",
      "summary": "Scientists assumed that energy flows in only one direction in a turbulent system. What they didn’t know, until they looked closely at brine shrimp, was that a simple factor can reverse the flow. The post Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#3",
+     "ref": "quanta#4",
      "title": "What Does the Fourth Dimension Actually Look Like?",
      "published": "2026-10-01T13:20:29+00:00",
      "summary": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine"
-    },
-    {
-     "ref": "quanta#4",
-     "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
-     "published": "2026-09-30T14:52:12+00:00",
-     "summary": "Unexpected patterns traveling across the human brain may be reorganizing its activity in real time. The post Surprisingly Complex Waves Reveal the Brain’s Inner Workings first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "A Rumored AI Proof Set Off a Publishing Race in Math — and a Debate Over What Gets Lost",
   "Why Self-Taught Minds Need Company, Not Just Books",
   "To Understand Science, Stop Chasing New Studies — Start Synthesizing Them",
   "When Machines Solve the Proofs, What Is Mathematics For?",
