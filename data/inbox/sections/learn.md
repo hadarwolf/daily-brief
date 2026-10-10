@@ -27,7 +27,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 2004,
    "text": "Eight-year-old Huang Na was abducted and murdered; her body was found three weeks later after a search across Singapore and Malaysia.",
    "context": [
-    "Huang Na was an eight-year-old Chinese national residing in Pasir Panjang, Singapore, who disappeared on 10 October 2004. Her mother, the police and the community conducted a three-week-long nationwide search for her. After her body was found, thousands of Singaporeans attended her wake and funeral, giving bai jin (白金) and gifts. In a high-profile 14-day trial, Took Leng How, a Malaysian vegetable packer at the estate's wholesale centre, was found guilty of murdering her. He was hanged on 3 November 2006 after an appeal as a request for presidential clemency failed."
+    "Huang Na was an eight-year-old Chinese national residing in Pasir Panjang, Singapore, who disappeared on 10 October 2004. Her mother, the police and the community conducted a three-week-long nationwide search for her. After her body was found, thousands of Singaporeans attended her wake and funeral, giving bai jin (白金) and gifts. In a high-profile 14-day trial, Took Leng How, a Malaysian vegetable packer at the estate's wholesale centre, was found guilty of murdering her. He was hanged on 3 November 2006 after an appeal and a request for presidential clemency failed."
    ]
   },
   {
