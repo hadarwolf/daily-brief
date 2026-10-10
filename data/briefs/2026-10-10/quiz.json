@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-10",
+  "questions": [
+    {
+      "id": "q-trump-putin-diesel-deal",
+      "section": "geopolitics",
+      "story_id": "trump-putin-diesel-deal",
+      "answer_index": 1,
+      "en": {
+        "question": "How did Ukrainian President Zelensky describe Trump's deal to import Russian diesel?",
+        "options": [
+          "A step toward ending the war",
+          "A minor technical adjustment to sanctions",
+          "A gift to Putin and an investment in war",
+          "A betrayal of NATO allies"
+        ],
+        "explanation": "Zelensky called the deal \"a gift to Putin\" and \"an investment in war that must be ended, not prolonged.\""
+      },
+      "he": {
+        "question": "איך תיאר נשיא אוקראינה זלנסקי את עסקת טראמפ לייבוא דיזל רוסי?",
+        "options": [
+          "צעד לקראת סיום המלחמה",
+          "התאמה טכנית מינורית לסנקציות",
+          "מתנה לפוטין והשקעה במלחמה",
+          "בגידה בבעלות הברית של נאט״ו"
+        ],
+        "explanation": "זלנסקי כינה את העסקה \"מתנה לפוטין\" ו\"השקעה במלחמה שצריך לסיים ולא להאריך\"."
+      }
+    },
+    {
+      "id": "q-openai-revenue-run-rate",
+      "section": "business",
+      "story_id": "openai-revenue-run-rate",
+      "answer_index": 2,
+      "en": {
+        "question": "Why is OpenAI's widely-quoted \"annualized revenue run rate\" a shaky number to build valuations on?",
+        "options": [
+          "It is audited under GAAP and rarely revised",
+          "It only counts revenue from consumer subscriptions",
+          "It is self-reported and can swing by tens of billions depending on how it's calculated",
+          "It is set by an IPO prospectus, not the company itself"
+        ],
+        "explanation": "The run-rate figure isn't an audited, GAAP number — it's self-reported and apparently moved by tens of billions of dollars depending on how and when it's calculated."
+      },
+      "he": {
+        "question": "למה ה\"קצב הכנסות שנתי מנורמל\" של OpenAI, שמצוטט רבות, הוא נתון רעוע לבניית שווי החברה?",
+        "options": [
+          "הוא מבוקר לפי כללי GAAP ולעיתים רחוקות מתוקן",
+          "הוא סופר רק הכנסות ממנויי צרכנים",
+          "הוא נתון שהחברה מדווחת על עצמה, ויכול להשתנות בעשרות מיליארדי דולרים בהתאם לדרך החישוב",
+          "הוא נקבע בתשקיף הנפקה ולא על ידי החברה עצמה"
+        ],
+        "explanation": "קצב ההכנסות אינו נתון מבוקר לפי GAAP - זו הערכה שהחברה מדווחת על עצמה, ושיכולה להשתנות בעשרות מיליארדי דולרים בהתאם לאופן ולמועד החישוב."
+      }
+    },
+    {
+      "id": "q-concept-network-effects",
+      "section": "learn",
+      "story_id": "concept-network-effects",
+      "answer_index": 0,
+      "en": {
+        "question": "Why do markets with strong network effects tend to end up dominated by just one or two winners?",
+        "options": [
+          "Joining the biggest network benefits users more, so it keeps growing faster than rivals",
+          "Regulators usually ban smaller competitors from entering",
+          "The first product to launch always has the best technology",
+          "Users in such markets generally prefer smaller, more private networks"
+        ],
+        "explanation": "Once a platform has enough users, it becomes rational for everyone else to join the biggest one too, which makes it bigger still — crowding out smaller rivals."
+      },
+      "he": {
+        "question": "למה שווקים עם אפקט רשת חזק נוטים להסתיים עם מנצח אחד או שניים בלבד?",
+        "options": [
+          "הצטרפות לרשת הגדולה ביותר מיטיבה יותר עם המשתמשים, ולכן היא ממשיכה לצמוח מהר מהמתחרות",
+          "רגולטורים נוהגים לאסור על כניסת מתחרים קטנים",
+          "למוצר הראשון שמשיק יש תמיד את הטכנולוגיה הטובה ביותר",
+          "משתמשים בשווקים כאלה מעדיפים בדרך כלל רשתות קטנות ופרטיות יותר"
+        ],
+        "explanation": "כשפלטפורמה מגיעה למספיק משתמשים, הופך להיות הגיוני שכולם יצטרפו לפלטפורמה הגדולה ביותר, מה שהופך אותה לגדולה עוד יותר - ומדחיק את המתחרות הקטנות."
+      }
+    }
+  ]
+}

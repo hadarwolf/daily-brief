@@ -1,0 +1,96 @@
+{
+  "section": "business",
+  "date": "2026-10-10",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-10T04:08:51+00:00",
+  "stories": [
+    {
+      "id": "openai-revenue-run-rate",
+      "kind": "analysis",
+      "en": {
+        "headline": "OpenAI's Fuzzy Revenue Number Is Moving Markets",
+        "scroll": "OpenAI's self-reported annualized revenue run rate swung by $20 billion in a week, a reminder that sky-high AI valuations rest on an unaudited number companies define themselves.",
+        "coffee": "This week brought two conflicting data points on OpenAI's business. The Financial Times reported that OpenAI's annualized revenues were revealed to be $20 billion less than previously reported, a disclosure that triggered volatility in US stocks. Separately, other reporting pointed to OpenAI's revenue run rate climbing to $70 billion by year-end, a sharp jump from the roughly $50 billion annualized pace it was running at as of September, driven mainly by business customers.\n\nThe common thread is the metric itself: \"annualized revenue run rate\" takes a recent month or quarter of sales and multiplies it out to a full year, producing a big, headline-friendly number. It isn't an audited, GAAP figure — it's self-reported, and it can apparently be revised by tens of billions of dollars depending on how and when it's calculated. For a private company like OpenAI, that number is also the main input investors use to justify valuations in the hundreds of billions of dollars, long before any IPO prospectus would require real audited accounts.\n\nThat matters beyond one company. AI infrastructure is increasingly financed with debt, and the broader market rally has leaned heavily on AI's growth story even as rate pressures build elsewhere. A single disputed number can ripple through credit assumptions and equity multiples built on top of it.",
+        "deep": "## Background\n\nStart-ups and fast-growing tech companies routinely report an \"annualized revenue run rate\" instead of audited annual revenue: take the latest month or quarter of sales and multiply by 12 (or a quarter by 4). It's a forward-looking shorthand that's easy to compute and easy to inflate expectations with, since it simply assumes the current pace continues and ignores seasonality, discounting, or one-off deals. For most of its history, OpenAI has been a private company with no obligation to publish audited financial statements, so run-rate figures — disclosed selectively through investor updates or media briefings — have been the main public window into how fast its business is actually growing. Given that OpenAI underpins a large share of this year's AI-driven stock market rally, and that hyperscalers and data-center operators are borrowing hundreds of billions of dollars betting on continued AI revenue growth to finance new infrastructure, these numbers carry weight well beyond one company's cap table.\n\n## The story\n\nTwo different pictures of OpenAI's revenue trajectory surfaced within the same news cycle this week. One report described OpenAI's annualized revenue run rate climbing to $70 billion by the end of the year, a sharp rise from the roughly $50 billion pace it was running at in September, with the bulk of the growth attributed to business customers rather than consumers. A separate Financial Times report said OpenAI's annualized revenues were revealed to be $20 billion less than previously reported — a disclosure significant enough to trigger volatility in US stocks. A companion FT piece framed the stakes plainly: vague run-rate figures \"may lay the groundwork for inflated valuations when much-hyped companies finally go public.\" In other words, the concern isn't that OpenAI's business is weak — by every account its revenue is growing fast — it's that the specific number used to justify its valuation is loosely defined, self-reported, and apparently volatile enough to move by tens of billions of dollars depending on how and when it's measured.\n\n## Second-order effects\n\nThis matters well past OpenAI's own cap table. The current AI-led rally has been propping up US equity indexes even as a wider retreat takes hold beneath the surface, with elevated oil prices and rising borrowing costs quietly squeezing other parts of the market while AI-driven gains at the index level mask it. If the revenue story underpinning AI enthusiasm turns out to be softer or fuzzier than advertised, that cushion gets thinner. There's a credit angle too: hyperscalers and data-center operators are financing AI infrastructure buildouts by borrowing hundreds of billions of dollars in the corporate bond market, a bet that is only as good as the revenue-growth assumptions behind it. Lenders and bond investors pricing that debt are, indirectly, relying on the same kind of run-rate narrative that just proved revisable by $20 billion in a single data point. A wobble in the credibility of AI revenue metrics doesn't stay contained to one company's stock — it touches the debt markets financing the entire AI buildout and the equity indexes leaning on the AI growth story to offset weakness elsewhere.\n\n## What to watch next\n\nWatch whether OpenAI, or the reporting around it, moves toward a more standardized, consistently defined revenue disclosure — and whether the figure actually trends toward $70 billion by year-end as described, or gets revised again. Watch also how other AI companies and their investors respond: if \"annualized run rate\" becomes a metric investors start discounting or demanding more detail on, it could cool some of the more aggressive private valuations in the sector ahead of eventual public listings. And keep an eye on the bond-market side of this story — any sign that lenders financing AI data centers are tightening terms or demanding better revenue disclosure would suggest the market is already pricing in exactly this kind of uncertainty."
+      },
+      "he": {
+        "headline": "קצב ההכנסות המטושטש של OpenAI שמזיז את וול סטריט",
+        "scroll": "קצב ההכנסות השנתי שעליו מדווחת OpenAI בעצמה השתנה ב-20 מיליארד דולר בתוך שבוע - תזכורת לכך ששוויים מרקיעי שחקים של חברות AI נשענים על מספר לא מבוקר שהחברות מגדירות בעצמן.",
+        "coffee": "השבוע התגלו שני נתונים סותרים לכאורה על קצב הצמיחה של OpenAI. \"פייננשל טיימס\" דיווח שההכנסות השנתיות המנורמלות (annualized revenues) של החברה התגלו כנמוכות ב-20 מיליארד דולר מהדיווח הקודם עליהן - גילוי שהספיק כדי לייצר תנודתיות (volatility) במניות בוול סטריט. במקביל, דיווחים אחרים העריכו שקצב ההכנסות השנתי של OpenAI יגיע ל-70 מיליארד דולר עד סוף השנה, עלייה חדה מקצב של כ-50 מיליארד דולר נכון לספטמבר, בעיקר בזכות לקוחות עסקיים.\n\nהמכנה המשותף הוא המדד עצמו: \"קצב הכנסות שנתי מנורמל\" לוקח חודש או רבעון אחרון של מכירות ומכפיל אותו לשנה מלאה, וכך מניב מספר גדול ומרשים לכותרות. זה לא נתון מבוקר (audited) לפי כללי חשבונאות מקובלים (GAAP) - זה נתון שהחברה מדווחת על עצמה, ושיכול כנראה להשתנות בעשרות מיליארדי דולרים בהתאם לאופן ולמועד החישוב. עבור חברה פרטית כמו OpenAI, המספר הזה הוא גם הבסיס העיקרי שמשקיעים משתמשים בו כדי להצדיק שווי של מאות מיליארדי דולרים, הרבה לפני שיגיע תשקיף הנפקה (IPO prospectus) עם חשבונות מבוקרים אמיתיים.\n\nזה חשוב מעבר לחברה אחת. תשתיות ה-AI ממומנות יותר ויותר בחוב, והעלייה הרחבה בשווקים נשענת במידה רבה על סיפור הצמיחה של AI, בזמן שלחצים מצד הריבית מתגברים במקומות אחרים. מספר בודד שמוטל בספק יכול להתגלגל להנחות האשראי ולמכפילי המניות שנבנו עליו.",
+        "deep": "## רקע\n\nחברות טכנולוגיה צומחות, ובייחוד סטארטאפים בתחום הבינה המלאכותית (AI), נוהגות לדווח על \"קצב הכנסות שנתי מנורמל\" (annualized revenue run rate) במקום הכנסות שנתיות מבוקרות (audited revenue). השיטה פשוטה: לוקחים את ההכנסות של החודש או הרבעון האחרון ומכפילים אותן ב-12 (או רבעון פי 4), ומניבים מספר שמניח שהקצב הנוכחי יימשך כך גם בהמשך השנה - בלי להתחשב בעונתיות, בהנחות מחיר או בעסקאות חד-פעמיות. במשך רוב תקופת קיומה, OpenAI הייתה חברה פרטית בלי חובת דיווח לפי כללי חשבונאות מקובלים (GAAP), כך שנתוני קצב ההכנסות - שנחשפו באופן סלקטיבי בעדכונים למשקיעים או בשיחות עם עיתונאים - היו החלון הציבורי העיקרי לקצב הצמיחה האמיתי של העסק. מכיוון ש-OpenAI עומדת מאחורי חלק גדול מהעלייה בשווקים המובלת על ידי AI בשנה האחרונה, ומכיוון שחברות תשתית ומרכזי נתונים (hyperscalers) מגייסות מאות מיליארדי דולרים בחוב כדי לממן תשתיות AI תוך הנחה שצמיחת ההכנסות תימשך, יש למספרים האלה השפעה שחורגת הרבה מעבר לטבלת האחזקות של חברה אחת.\n\n## הסיפור\n\nהשבוע עלו שתי תמונות שונות של מגמת ההכנסות של OpenAI, בתוך אותו מחזור חדשות. דיווח אחד תיאר עלייה בקצב ההכנסות השנתי המנורמל של OpenAI ל-70 מיליארד דולר עד סוף השנה - עלייה חדה מהקצב של כ-50 מיליארד דולר בספטמבר, כאשר רוב הצמיחה מיוחסת ללקוחות עסקיים ולא לצרכנים פרטיים. דיווח נפרד של \"פייננשל טיימס\" טען שההכנסות השנתיות המנורמלות של OpenAI התגלו כנמוכות ב-20 מיליארד דולר מהדיווח הקודם - גילוי שהיה משמעותי מספיק כדי לגרום לתנודתיות במניות האמריקאיות. כתבה נלווית של \"פייננשל טיימס\" ניסחה את מה שעומד על הכף בפשטות: מספרים מטושטשים של קצב הכנסות \"עשויים להניח את התשתית לשווי מנופח (inflated valuation), כשחברות שעליהן יש הייפ רב יגיעו בסופו של דבר לשוק ההון\" - כלומר, בהנפקה ראשונית לציבור (IPO). במילים אחרות, הטענה אינה שהעסק של OpenAI נחלש - לפי כל הדיווחים ההכנסות שלה צומחות מהר - אלא שהמספר הספציפי שמשמש להצדקת השווי שלה מוגדר בצורה רפה, מדווח על ידי החברה עצמה, ומתגלה כתנודתי מספיק כדי לזוז בעשרות מיליארדי דולרים בהתאם לאופן ולמועד החישוב.\n\n## אפקטים מסדר שני\n\nלסיפור הזה יש השלכות שחורגות הרבה מעבר למניה אחת. העלייה הנוכחית בשווקים המובלת על ידי AI תומכת במדדי המניות האמריקאיים, גם כש\"נסיגה מתרחבת\" מתפתחת מתחת לפני השטח - מחירי נפט גבוהים ועלויות אשראי (borrowing costs) עולות מכרסמות בחלקים אחרים של השוק, בעוד הרווחים ברמת המדד מסתירים את זה. אם סיפור ההכנסות שעומד בבסיס ההתלהבות מ-AI יתברר כרופף או מטושטש יותר ממה שהוצג, הכרית הזאת הולכת ומצטמקת. יש גם זווית אשראי: חברות תשתית ומרכזי נתונים מממנות את בניית תשתיות ה-AI בגיוס של מאות מיליארדי דולרים בשוק האג\"ח הקונצרני (corporate bond market) - הימור שטוב רק כמו ההנחות על צמיחת ההכנסות שעומדות בבסיסו. מלווים ומשקיעי אג\"ח שמתמחרים את החוב הזה מסתמכים, בעקיפין, על אותו סוג של נרטיב קצב-הכנסות שהתברר כניתן לשינוי של 20 מיליארד דולר בנתון בודד. זעזוע באמינות של מדדי ההכנסות בתחום ה-AI לא נשאר מוגבל למניה של חברה אחת - הוא נוגע גם בשוקי החוב שמממנים את כל הבנייה, וגם במדדי המניות שנשענים על סיפור הצמיחה של AI כדי לקזז חולשה במקומות אחרים.\n\n## מה לעקוב אחריו בהמשך\n\nכדאי לעקוב אחרי השאלה אם OpenAI, או הדיווחים לגביה, יזוזו לכיוון דיווח הכנסות אחיד ומוגדר יותר - ואם המספר ימשיך לכיוון 70 מיליארד דולר עד סוף השנה כפי שתואר, או יתוקן שוב. כדאי גם לשים לב לאופן שבו חברות AI אחרות (והמשקיעים בהן) יגיבו: אם \"קצב הכנסות שנתי מנורמל\" יהפוך למדד שמשקיעים מתחילים להתייחס אליו בחשדנות או לדרוש עליו פירוט רב יותר, זה עלול לקרר חלק מהשוויים הפרטיים האגרסיביים יותר בענף לפני הנפקות עתידיות. ולבסוף, שווה לעקוב אחרי הצד של שוק האג\"ח בסיפור הזה - כל סימן לכך שמלווים שמממנים מרכזי נתונים של AI מחמירים את התנאים או דורשים דיווח הכנסות טוב יותר, יהיה סימן לכך שהשוק כבר מתמחר את אי-הוודאות הזו."
+      },
+      "tags": [
+        "openai",
+        "ai",
+        "valuation",
+        "revenue-metrics"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Why OpenAI’s revenue numbers really matter",
+          "url": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "The hazy OpenAI growth metric driving Wall Street",
+          "url": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "חברת OpenAI תגיע לקצב הכנסות שנתי של 70 מיליארד דולר עד סוף השנה",
+          "url": "https://www.themarker.com/wallstreet/2026-10-09/ty-article/.premium/000001a1-1f07-d5a0-ade7-ff77b4a70000"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Wall Street’s Rate Shock Spreads Beneath AI-Fueled Market Rally",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4061.71,
+      "prev_close": 4089.9399,
+      "change_pct": -0.69,
+      "as_of": "2026-10-09"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7811.54,
+      "prev_close": 7765.3599,
+      "change_pct": 0.59,
+      "as_of": "2026-10-09"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0599,
+      "prev_close": 3.0624,
+      "change_pct": -0.08,
+      "as_of": "2026-10-10"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 104.43,
+      "prev_close": 104.28,
+      "change_pct": 0.14,
+      "as_of": "2026-10-09"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 82513.3672,
+      "prev_close": 81676.3359,
+      "change_pct": 1.02,
+      "as_of": "2026-10-10"
+    }
+  }
+}
