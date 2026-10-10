@@ -18,63 +18,63 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "JD Vance - AP News",
-     "published": "2026-10-10T08:53:21+00:00",
-     "summary": "JD Vance AP News"
+     "title": "2026 World Cup hometown heroes - AP News",
+     "published": "2026-10-10T09:28:01+00:00",
+     "summary": "2026 World Cup hometown heroes AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-10T08:51:04+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+     "title": "JD Vance - AP News",
+     "published": "2026-10-10T09:26:01+00:00",
+     "summary": "JD Vance AP News"
     },
     {
      "ref": "ap_world#2",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-10T09:26:00+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-10T09:16:03+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Tariffs and global trade - AP News",
+     "published": "2026-10-10T08:59:08+00:00",
+     "summary": "Tariffs and global trade AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Natural disasters - AP News",
+     "published": "2026-10-10T08:49:38+00:00",
+     "summary": "Natural disasters AP News"
+    },
+    {
+     "ref": "ap_world#6",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-10-10T08:36:59+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#7",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-10-10T08:36:59+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#8",
      "title": "War and unrest - AP News",
      "published": "2026-10-10T08:36:58+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#9",
      "title": "India cracks down on youth protests as anger grows against Modi and election chief - AP News",
      "published": "2026-10-10T08:32:00+00:00",
      "summary": "India cracks down on youth protests as anger grows against Modi and election chief AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "2026 World Cup hometown heroes - AP News",
-     "published": "2026-10-10T08:28:45+00:00",
-     "summary": "2026 World Cup hometown heroes AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
-     "published": "2026-10-10T08:28:38+00:00",
-     "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-10T08:16:44+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "NATO - AP News",
-     "published": "2026-10-10T08:16:43+00:00",
-     "summary": "NATO AP News"
     },
     {
      "ref": "ap_world#10",
@@ -84,21 +84,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#11",
-     "title": "Tariffs and global trade - AP News",
-     "published": "2026-10-10T07:58:59+00:00",
-     "summary": "Tariffs and global trade AP News"
-    },
-    {
-     "ref": "ap_world#12",
      "title": "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding - AP News",
      "published": "2026-10-10T07:24:00+00:00",
      "summary": "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding AP News"
     },
     {
+     "ref": "ap_world#12",
+     "title": "NATO - AP News",
+     "published": "2026-10-10T07:17:04+00:00",
+     "summary": "NATO AP News"
+    },
+    {
      "ref": "ap_world#13",
-     "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - AP News",
-     "published": "2026-10-10T06:50:00+00:00",
-     "summary": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled AP News"
+     "title": "Russian attacks kill 7 in Ukraine after Trump strikes diesel deal with Putin - AP News",
+     "published": "2026-10-10T07:17:00+00:00",
+     "summary": "Russian attacks kill 7 in Ukraine after Trump strikes diesel deal with Putin AP News"
     },
     {
      "ref": "ap_world#14",
@@ -114,57 +114,57 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#16",
-     "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds - AP News",
-     "published": "2026-10-10T05:43:46+00:00",
-     "summary": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds AP News"
-    },
-    {
-     "ref": "ap_world#17",
      "title": "Therapy dogs bring calm and joy to students following shooting at Colorado high school - AP News",
      "published": "2026-10-10T05:29:00+00:00",
      "summary": "Therapy dogs bring calm and joy to students following shooting at Colorado high school AP News"
     },
     {
+     "ref": "ap_world#17",
+     "title": "Yemen - AP News",
+     "published": "2026-10-10T05:21:54+00:00",
+     "summary": "Yemen AP News"
+    },
+    {
      "ref": "ap_world#18",
+     "title": "At least 38 people hurt after supermarket ceiling collapses in South Korea’s Daegu city - AP News",
+     "published": "2026-10-10T04:28:00+00:00",
+     "summary": "At least 38 people hurt after supermarket ceiling collapses in South Korea’s Daegu city AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "Trump and Iran agree on one thing: The US election calendar isn't driving their decisions on the war - AP News",
      "published": "2026-10-10T04:03:00+00:00",
      "summary": "Trump and Iran agree on one thing: The US election calendar isn't driving their decisions on the war AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "Reese, Howard help the Dream sweep Liberty and advance to WNBA Finals for first time since 2013 - AP News",
      "published": "2026-10-10T04:02:00+00:00",
      "summary": "Reese, Howard help the Dream sweep Liberty and advance to WNBA Finals for first time since 2013 AP News"
     },
     {
-     "ref": "ap_world#20",
-     "title": "Yemen - AP News",
-     "published": "2026-10-10T03:58:59+00:00",
-     "summary": "Yemen AP News"
+     "ref": "ap_world#21",
+     "title": "Georgia-Alabama showdown is on schedule despite arrival of Hurricane Isaias; Trump will skip game - AP News",
+     "published": "2026-10-10T03:28:00+00:00",
+     "summary": "Georgia-Alabama showdown is on schedule despite arrival of Hurricane Isaias; Trump will skip game AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Florida’s dengue outbreak is now the largest in a US state in decades - AP News",
      "published": "2026-10-10T03:14:45+00:00",
      "summary": "Florida’s dengue outbreak is now the largest in a US state in decades AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "Trump veers into Nobel Prize grievances during upstate New York rally on day award is announced - AP News",
      "published": "2026-10-10T03:10:00+00:00",
      "summary": "Trump veers into Nobel Prize grievances during upstate New York rally on day award is announced AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News",
      "published": "2026-10-10T02:53:00+00:00",
      "summary": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Kyle Busch's 11-year-old son highlights his father's 'celebration of life' ceremony with burnout - AP News",
-     "published": "2026-10-10T02:03:00+00:00",
-     "summary": "Kyle Busch's 11-year-old son highlights his father's 'celebration of life' ceremony with burnout AP News"
     }
    ]
   },
@@ -174,21 +174,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+     "published": "2026-10-10T09:17:36+00:00",
+     "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Hurricane Isaias downgraded after making landfall in Florida",
      "published": "2026-10-10T08:29:59+00:00",
      "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "How the trial of murdered Australian brothers and US friend unfolded",
      "published": "2026-10-10T06:04:35+00:00",
      "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\"."
-    },
-    {
-     "ref": "bbc_world#2",
-     "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-     "published": "2026-10-10T05:48:54+00:00",
-     "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
     },
     {
      "ref": "bbc_world#3",
@@ -236,7 +236,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "ref": "bbc_world#10",
      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
      "published": "2026-10-09T23:24:33+00:00",
-     "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics."
+     "summary": "Students taking to the streets have become a focal point in the country's increasingly polarised politics."
     },
     {
      "ref": "bbc_world#11",
@@ -408,21 +408,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Five shot dead at residence in Georgia's Douglas, police says - Reuters",
+     "published": "2026-10-10T09:28:40+00:00",
+     "summary": "Five shot dead at residence in Georgia's Douglas, police says Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "Thailand prepares to host IMF-World Bank meetings - Reuters",
      "published": "2026-10-10T08:44:58+00:00",
      "summary": "Thailand prepares to host IMF-World Bank meetings Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "From 'cockroach' post to protest leader: India's Dipke tests Modi government - Reuters",
-     "published": "2026-10-10T07:58:50+00:00",
-     "summary": "From 'cockroach' post to protest leader: India's Dipke tests Modi government Reuters"
-    },
-    {
      "ref": "reuters_world#2",
-     "title": "Five shot dead at residence in Georgia's Douglas, police says - Reuters",
-     "published": "2026-10-10T07:53:47+00:00",
-     "summary": "Five shot dead at residence in Georgia's Douglas, police says Reuters"
+     "title": "From 'cockroach' post to protest leader: India's Dipke tests Modi government - Reuters",
+     "published": "2026-10-10T08:16:17+00:00",
+     "summary": "From 'cockroach' post to protest leader: India's Dipke tests Modi government Reuters"
     },
     {
      "ref": "reuters_world#3",
@@ -540,21 +540,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#22",
+     "title": "North Korea criticizes US human rights report, KCNA says - Reuters",
+     "published": "2026-10-09T21:17:00+00:00",
+     "summary": "North Korea criticizes US human rights report, KCNA says Reuters"
+    },
+    {
+     "ref": "reuters_world#23",
      "title": "US lifts sanctions on daughter of Myanmar military-linked businessman - Reuters",
      "published": "2026-10-09T21:10:00+00:00",
      "summary": "US lifts sanctions on daughter of Myanmar military-linked businessman Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight - Reuters",
      "published": "2026-10-09T21:06:30+00:00",
      "summary": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows - Reuters",
-     "published": "2026-10-09T20:41:00+00:00",
-     "summary": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows Reuters"
     }
    ]
   }

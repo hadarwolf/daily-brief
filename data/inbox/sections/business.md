@@ -42,9 +42,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#4",
-     "title": "India Detains Protest Leaders as Delhi Curbs Limit Movement",
+     "title": "India Detains Student Leaders in Major Crackdown on Protests",
      "published": "2026-10-10T03:23:21+00:00",
-     "summary": "Indian authorities detained the founder and top leaders of the Cockroach Janta Party as they arrived in New Delhi on Saturday, moving to block a youth-led demonstration against a contentious revision of the country’s voter rolls."
+     "summary": "Indian authorities detained leaders of a youth-led protest movement and their allies on Saturday and imposed sweeping restrictions in central Delhi to stop crowds from gathering for a planned demonstration against a contentious revision of voter rolls."
     },
     {
      "ref": "bloomberg_markets#5",
@@ -145,7 +145,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "ft_home#0",
      "title": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest",
-     "published": "2026-10-10T08:35:15+00:00",
+     "published": "2026-10-10T09:19:07+00:00",
      "summary": "Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi"
     },
     {
@@ -559,9 +559,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82771.0469,
+   "last": 82846.4609,
    "prev_close": 82546.3203,
-   "change_pct": 0.27,
+   "change_pct": 0.36,
    "as_of": "2026-10-10"
   }
  },

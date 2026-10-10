@@ -158,14 +158,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-10T13:30:00Z",
-     "home": "SC Paderborn",
-     "away": "Stuttgart",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-10T13:30:00Z",
      "home": "Union Berlin",
      "away": "Elversberg",
      "status": "TIMED",
@@ -182,6 +174,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-10T13:30:00Z",
+     "home": "SC Paderborn",
+     "away": "Stuttgart",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-10T13:30:00Z",
      "home": "Hoffenheim",
      "away": "HSV",
      "status": "TIMED",
@@ -192,22 +192,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-10T13:30:00Z",
      "home": "Mainz",
      "away": "Leverkusen",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Bolton",
-     "away": "Stoke",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Chelsea",
-     "away": "Bournemouth",
      "status": "TIMED",
      "score": null
     },
@@ -238,16 +222,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Watford",
-     "away": "Burnley",
+     "home": "Bolton",
+     "away": "Stoke",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Championship",
+     "competition": "Premier League",
      "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Preston NE",
-     "away": "Millwall",
+     "home": "Chelsea",
+     "away": "Bournemouth",
      "status": "TIMED",
      "score": null
     },
@@ -280,6 +264,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-10T14:00:00Z",
      "home": "Blackburn",
      "away": "Cardiff",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-10T14:00:00Z",
+     "home": "Watford",
+     "away": "Burnley",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-10T14:00:00Z",
+     "home": "Preston NE",
+     "away": "Millwall",
      "status": "TIMED",
      "score": null
     },
@@ -786,69 +786,69 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Delight for Cuthbert with Scotland after 'long summer' of recovery",
-     "published": "2026-10-10T08:28:17+00:00",
-     "summary": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic."
-    },
-    {
-     "ref": "bbc_football#1",
      "title": "Delight for Scotland's Cuthbert after long summer of recovery",
      "published": "2026-10-10T08:28:17+00:00",
      "summary": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic."
     },
     {
+     "ref": "bbc_football#1",
+     "title": "Delight for Cuthbert with Scotland after 'long summer' of recovery",
+     "published": "2026-10-10T08:28:17+00:00",
+     "summary": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic."
+    },
+    {
      "ref": "bbc_football#2",
+     "title": "Delight for Scotland's Cuthbert after long summer of recovery",
+     "published": "2026-10-10T08:28:17+00:00",
+     "summary": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic."
+    },
+    {
+     "ref": "bbc_football#3",
      "title": "Raphinha's brilliant Barcelona start interrupted by injury concerns",
      "published": "2026-10-10T08:27:28+00:00",
      "summary": "Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "Celtic decide against offering Bakayoko deal - gossip",
      "published": "2026-10-10T07:17:27+00:00",
      "summary": "Celtic elect not to offer deal to midfielder as Derek Riordan urges patience under new Hibernian boss."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Tottenham to fly to Marbella for training camp",
      "published": "2026-10-10T06:29:58+00:00",
      "summary": "Tottenham manager Roberto De Zerbi to take his squad to Marbella for team-bonding training camp after clash against Manchester United"
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Man City titles 'absolutely not' tainted - Maresca",
      "published": "2026-10-10T05:56:59+00:00",
      "summary": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-10T05:28:48+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Time to rise? Ranking European football's sleeping giants",
      "published": "2026-10-10T05:14:17+00:00",
      "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?"
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Man City whistleblower to remain in witness protection",
      "published": "2026-10-09T22:59:32+00:00",
      "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Arteta's conscience clear over Man City charges",
      "published": "2026-10-09T21:30:52+00:00",
      "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club."
-    },
-    {
-     "ref": "bbc_football#10",
-     "title": "NI World Cup hopes gone from 'improbable to impossible'",
-     "published": "2026-10-09T21:24:28+00:00",
-     "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat."
     },
     {
      "ref": "bbc_football#11",
@@ -858,15 +858,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#12",
-     "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
-     "published": "2026-10-09T21:19:35+00:00",
-     "summary": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest"
+     "title": "NI World Cup hopes gone from 'improbable to impossible'",
+     "published": "2026-10-09T21:24:28+00:00",
+     "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat."
     },
     {
      "ref": "bbc_football#13",
-     "title": "Greek takeaways: What did we learn from Lionesses' win?",
-     "published": "2026-10-09T21:15:24+00:00",
-     "summary": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?"
+     "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
+     "published": "2026-10-09T21:19:35+00:00",
+     "summary": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest"
     },
     {
      "ref": "bbc_football#14",
@@ -876,63 +876,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#15",
+     "title": "Greek takeaways: What did we learn from Lionesses' win?",
+     "published": "2026-10-09T21:15:24+00:00",
+     "summary": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?"
+    },
+    {
+     "ref": "bbc_football#16",
      "title": "Wales must improve in World Cup bid - Wilkinson",
      "published": "2026-10-09T19:34:54+00:00",
      "summary": "Rhian Wilkinson accepts Wales must raise their standards after they scrape to a 1-0 victory in their Women's World Cup play-off semi-final in Albania."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
+     "title": "Wales must improve in World Cup bid - Wilkinson",
+     "published": "2026-10-09T19:34:54+00:00",
+     "summary": "Rhian Wilkinson accepts Wales must raise their standards after they scrape to a 1-0 victory in their Women's World Cup play-off semi-final in Albania."
+    },
+    {
+     "ref": "bbc_football#18",
      "title": "Highlights: Albania 0-1 Wales",
      "published": "2026-10-09T18:20:41+00:00",
      "summary": "Watch the best of the action as Wales beat Albania in Shkoder"
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Will anyone stop re-election of Infantino as Fifa president?",
      "published": "2026-10-09T16:28:23+00:00",
      "summary": "Little more than two months since news broke of Infantino's Fifa Forward Enterprise proposal, the chances appear slim that Gianni Infantino might be removed as president."
     },
     {
-     "ref": "bbc_football#18",
-     "title": "Decision to stay at Celtic did not take long - O'Neill",
-     "published": "2026-10-09T16:04:03+00:00",
-     "summary": "Martin O'Neill suggests he was never close to leaving Celtic after a three-game losing streak, with the veteran manager stressing his \"great enthusiasm\" for the role."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "Decision to stay at Celtic did not take long - O'Neill",
-     "published": "2026-10-09T16:04:03+00:00",
-     "summary": "Martin O'Neill suggests he was never close to leaving Celtic after a three-game losing streak, with the veteran manager stressing his \"great enthusiasm\" for the role."
-    },
-    {
      "ref": "bbc_football#20",
+     "title": "Decision to stay at Celtic did not take long - O'Neill",
+     "published": "2026-10-09T16:04:03+00:00",
+     "summary": "Martin O'Neill suggests he was never close to leaving Celtic after a three-game losing streak, with the veteran manager stressing his \"great enthusiasm\" for the role."
+    },
+    {
+     "ref": "bbc_football#21",
+     "title": "Decision to stay at Celtic did not take long - O'Neill",
+     "published": "2026-10-09T16:04:03+00:00",
+     "summary": "Martin O'Neill suggests he was never close to leaving Celtic after a three-game losing streak, with the veteran manager stressing his \"great enthusiasm\" for the role."
+    },
+    {
+     "ref": "bbc_football#22",
      "title": "Afcon move to every four years under review by Caf",
      "published": "2026-10-09T15:57:49+00:00",
      "summary": "The Africa Cup of Nations may continue to be held every two years, with discussions under way to reverse its proposed switch to a four-year cycle."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "Football Daily",
      "published": "2026-10-09T15:51:00+00:00",
      "summary": "Conor McNamara joins Ian Dennis and John Murray ahead of a big Premier League weekend."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
      "published": "2026-10-09T15:38:59+00:00",
      "summary": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "'Not Celtic' - O'Neill condemns Desmond protest as ultras boycott",
-     "published": "2026-10-09T15:01:41+00:00",
-     "summary": "\"This is not Celtic at all,\" is manager Martin O'Neill's response to the rising tensions between sections of the fan base and the club's board."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "I've got my own questions on Man City case - Carrick",
-     "published": "2026-10-09T14:30:38+00:00",
-     "summary": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter."
     }
    ]
   },
@@ -942,153 +942,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Will Lionel Messi Play in Inter Miami vs DC United MLS 2026 Match? - LatestLY",
+     "published": "2026-10-10T08:10:42+00:00",
+     "summary": "Will Lionel Messi Play in Inter Miami vs DC United MLS 2026 Match? LatestLY"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Inter Miami vs DC United: match statistics and data - BetMines",
      "published": "2026-10-10T07:13:37+00:00",
      "summary": "Inter Miami vs DC United: match statistics and data BetMines"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Inter Miami - D.C. United, Result, Match Info - Forza Football",
      "published": "2026-10-10T07:11:17+00:00",
      "summary": "Inter Miami - D.C. United, Result, Match Info Forza Football"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Is Messi playing? Inter Miami’s starting lineup to face DC United - Diario AS",
      "published": "2026-10-10T06:02:01+00:00",
      "summary": "Is Messi playing? Inter Miami’s starting lineup to face DC United Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami C.F vs D.C United Prediction: It All Depends on Dayne St Clair - Telecom Asia Sport",
      "published": "2026-10-10T05:22:07+00:00",
      "summary": "Inter Miami C.F vs D.C United Prediction: It All Depends on Dayne St Clair Telecom Asia Sport"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Nashville SC, eyeing Supporters' Shield, face surging Austin FC - Miami Herald",
      "published": "2026-10-10T03:00:09+00:00",
      "summary": "Nashville SC, eyeing Supporters' Shield, face surging Austin FC Miami Herald"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "MATCH PREVIEW: Inter Miami CF Set to Host D.C. United on Saturday - Inter Miami CF",
      "published": "2026-10-10T02:55:46+00:00",
      "summary": "MATCH PREVIEW: Inter Miami CF Set to Host D.C. United on Saturday Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Nashville SC, eyeing Supporters' Shield, face surging Austin FC - Big News Network.com",
      "published": "2026-10-10T02:55:00+00:00",
      "summary": "Nashville SC, eyeing Supporters' Shield, face surging Austin FC Big News Network.com"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Major League Soccer - Goal.com",
      "published": "2026-10-10T02:36:30+00:00",
      "summary": "Major League Soccer Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Where to Watch Inter Miami CF vs. DC United: TV Channel, Start Time and Live Stream - Bleacher Nation",
      "published": "2026-10-10T02:21:02+00:00",
      "summary": "Where to Watch Inter Miami CF vs. DC United: TV Channel, Start Time and Live Stream Bleacher Nation"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "‘We must enjoy him,’ Inter Miami manager Kily Gonzalez reflects on Lionel Messi's Argentina farewell - Livemint",
      "published": "2026-10-10T02:08:13+00:00",
      "summary": "‘We must enjoy him,’ Inter Miami manager Kily Gonzalez reflects on Lionel Messi's Argentina farewell Livemint"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Fresh off final game with Argentina, Messi leads Miami vs. D.C. United - Fresno Bee",
      "published": "2026-10-10T01:26:00+00:00",
      "summary": "Fresh off final game with Argentina, Messi leads Miami vs. D.C. United Fresno Bee"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi isn't even close to done with the sport he loves: Inter Miami manager Kily Gonzalez inspires hope among fans - MARCA",
      "published": "2026-10-10T00:27:00+00:00",
      "summary": "Lionel Messi isn't even close to done with the sport he loves: Inter Miami manager Kily Gonzalez inspires hope among fans MARCA"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Kily González Explains Inter Miami Absence for Messi’s Argentina Farewell as MLS Return Nears - Pasión Fútbol",
      "published": "2026-10-10T00:00:00+00:00",
      "summary": "Kily González Explains Inter Miami Absence for Messi’s Argentina Farewell as MLS Return Nears Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Major League Soccer - Goal.com",
      "published": "2026-10-09T22:44:19+00:00",
      "summary": "Major League Soccer Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Antonio Mohamed Admits He Wants to Coach Lionel Messi as Inter Miami Speculation Grows - Pasión Fútbol",
      "published": "2026-10-09T22:43:13+00:00",
      "summary": "Antonio Mohamed Admits He Wants to Coach Lionel Messi as Inter Miami Speculation Grows Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Inter Miami CF v New York City Odds - FanDuel Sportsbook",
      "published": "2026-10-09T22:26:19+00:00",
      "summary": "Inter Miami CF v New York City Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Ex-USMNT Star Reveals What He Really Thinks About MLS’ Calendar Shift: Exclusive - Yahoo Sports",
      "published": "2026-10-09T21:54:49+00:00",
      "summary": "Ex-USMNT Star Reveals What He Really Thinks About MLS’ Calendar Shift: Exclusive Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami vs DC United Prediction and Betting Tips | October 10th 2026 - Sportskeeda",
      "published": "2026-10-09T21:46:09+00:00",
      "summary": "Inter Miami vs DC United Prediction and Betting Tips | October 10th 2026 Sportskeeda"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami coach on Messis retirement: Were not going to see him with Argentina anymore, so we have to enj - Diario AS - Nuevo Enfoque Urbano",
      "published": "2026-10-09T20:52:18+00:00",
      "summary": "Inter Miami coach on Messis retirement: Were not going to see him with Argentina anymore, so we have to enj - Diario AS Nuevo Enfoque Urbano"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami coach says Messi is now with the club - Operativ Məlumat Mərkəzi",
      "published": "2026-10-09T20:43:41+00:00",
      "summary": "Inter Miami coach says Messi is now with the club Operativ Məlumat Mərkəzi"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Inter Miami coach: Argentina will miss Messi, enjoy his latest performances with us - Gazeta Express",
      "published": "2026-10-09T20:40:00+00:00",
      "summary": "Inter Miami coach: Argentina will miss Messi, enjoy his latest performances with us Gazeta Express"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "‘He is happy here’ Inter Miami ready to cherish Lionel Messi after Argentina farewell - Toowoomba Chronicle",
      "published": "2026-10-09T20:39:16+00:00",
      "summary": "‘He is happy here’ Inter Miami ready to cherish Lionel Messi after Argentina farewell Toowoomba Chronicle"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami’s Kily Gonzalez urges fans to cherish Lionel Messi after Argentina farewell - OneFootball",
      "published": "2026-10-09T20:20:08+00:00",
      "summary": "Inter Miami’s Kily Gonzalez urges fans to cherish Lionel Messi after Argentina farewell OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#23",
-     "title": "Inter Miami coach on Messi's farewell: he will miss it until the last day of his life - LiveScore",
-     "published": "2026-10-09T19:53:56+00:00",
-     "summary": "Inter Miami coach on Messi's farewell: he will miss it until the last day of his life LiveScore"
-    },
-    {
      "ref": "gnews_inter_miami#24",
-     "title": "MLS Commissioner Reveals How Lionel Messi, David Beckham Changed the League Forever - Sports Illustrated",
-     "published": "2026-10-09T19:30:00+00:00",
-     "summary": "MLS Commissioner Reveals How Lionel Messi, David Beckham Changed the League Forever Sports Illustrated"
+     "title": "Inter Miami coach on Messi's farewell: he will miss it until the last day of his life - Goal.com",
+     "published": "2026-10-09T19:38:34+00:00",
+     "summary": "Inter Miami coach on Messi's farewell: he will miss it until the last day of his life Goal.com"
     }
    ]
   },
@@ -1104,15 +1104,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#1",
-     "title": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers - Rip City Project",
-     "published": "2026-10-09T15:03:36+00:00",
-     "summary": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers Rip City Project"
+     "title": "Video - Trail Blazers Get Surprising Postseason Projection From ESPN - roundtable.io",
+     "published": "2026-10-10T01:07:09+00:00",
+     "summary": "Video - Trail Blazers Get Surprising Postseason Projection From ESPN roundtable.io"
     },
     {
      "ref": "gnews_israeli_nba#2",
-     "title": "Max Fried’s postseason woes continue — but there’s good news! - Jewish Telegraphic Agency",
-     "published": "2026-10-09T15:00:00+00:00",
-     "summary": "Max Fried’s postseason woes continue — but there’s good news! Jewish Telegraphic Agency"
+     "title": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers - Rip City Project",
+     "published": "2026-10-09T15:03:36+00:00",
+     "summary": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers Rip City Project"
     },
     {
      "ref": "gnews_israeli_nba#3",

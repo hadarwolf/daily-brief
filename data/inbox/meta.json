@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "prepared_at": "2026-10-10T08:57:26+00:00",
+ "prepared_at": "2026-10-10T09:36:31+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -68,9 +68,9 @@
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82771.0469,
+   "last": 82846.4609,
    "prev_close": 82546.3203,
-   "change_pct": 0.27,
+   "change_pct": 0.36,
    "as_of": "2026-10-10"
   }
  },
