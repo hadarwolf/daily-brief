@@ -144,39 +144,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest",
+     "published": "2026-10-10T08:35:15+00:00",
+     "summary": "Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "The world of one trade — AI",
      "published": "2026-10-10T06:36:04+00:00",
      "summary": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technology"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "Saudi flagship summits under pressure after deadly airport attacks",
      "published": "2026-10-10T06:36:00+00:00",
      "summary": "Executives weigh whether to attend the World Petroleum Council Energy Congress and Future Investment Initiative"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
      "published": "2026-10-10T04:00:38+00:00",
      "summary": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "The danger of pessimism fatigue",
      "published": "2026-10-10T04:00:37+00:00",
      "summary": "Too many have cried wolf about too many things and the public is now perilously nonchalant"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "Napa Valley’s hangover",
      "published": "2026-10-10T04:00:26+00:00",
      "summary": "People are drinking less. Vines are being ripped up. Winemakers are going bust. Can the Disneyland of wine survive the downturn?"
-    },
-    {
-     "ref": "ft_home#5",
-     "title": "Manchester City scandal pushes BDO and UK audit regime into spotlight",
-     "published": "2026-10-10T04:00:16+00:00",
-     "summary": "Club’s connection with accounting firm is under scrutiny as Premier League findings raise questions over regulatory system"
     },
     {
      "ref": "ft_home#6",
@@ -559,9 +559,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82748.5078,
+   "last": 82771.0469,
    "prev_close": 82546.3203,
-   "change_pct": 0.24,
+   "change_pct": 0.27,
    "as_of": "2026-10-10"
   }
  },

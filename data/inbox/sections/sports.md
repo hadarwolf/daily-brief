@@ -366,16 +366,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-10T18:45:00Z",
-     "home": "Brest",
-     "away": "Angers SCO",
+     "home": "Monaco",
+     "away": "Toulouse",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-10T18:45:00Z",
-     "home": "Monaco",
-     "away": "Toulouse",
+     "home": "Brest",
+     "away": "Angers SCO",
      "status": "TIMED",
      "score": null
     },
@@ -792,147 +792,147 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#1",
+     "title": "Delight for Scotland's Cuthbert after long summer of recovery",
+     "published": "2026-10-10T08:28:17+00:00",
+     "summary": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "Raphinha's brilliant Barcelona start interrupted by injury concerns",
      "published": "2026-10-10T08:27:28+00:00",
      "summary": "Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "Celtic decide against offering Bakayoko deal - gossip",
      "published": "2026-10-10T07:17:27+00:00",
      "summary": "Celtic elect not to offer deal to midfielder as Derek Riordan urges patience under new Hibernian boss."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "Tottenham to fly to Marbella for training camp",
      "published": "2026-10-10T06:29:58+00:00",
      "summary": "Tottenham manager Roberto De Zerbi to take his squad to Marbella for team-bonding training camp after clash against Manchester United"
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Man City titles 'absolutely not' tainted - Maresca",
      "published": "2026-10-10T05:56:59+00:00",
      "summary": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-10T05:28:48+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Time to rise? Ranking European football's sleeping giants",
      "published": "2026-10-10T05:14:17+00:00",
      "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?"
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Man City whistleblower to remain in witness protection",
      "published": "2026-10-09T22:59:32+00:00",
      "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Arteta's conscience clear over Man City charges",
      "published": "2026-10-09T21:30:52+00:00",
      "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "NI World Cup hopes gone from 'improbable to impossible'",
      "published": "2026-10-09T21:24:28+00:00",
      "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
+     "title": "NI World Cup hopes gone from 'improbable to impossible'",
+     "published": "2026-10-09T21:24:28+00:00",
+     "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat."
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
      "published": "2026-10-09T21:19:35+00:00",
      "summary": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest"
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Greek takeaways: What did we learn from Lionesses' win?",
      "published": "2026-10-09T21:15:24+00:00",
      "summary": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?"
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
+     "title": "Greek takeaways: What did we learn from Lionesses' win?",
+     "published": "2026-10-09T21:15:24+00:00",
+     "summary": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?"
+    },
+    {
+     "ref": "bbc_football#15",
+     "title": "Wales must improve in World Cup bid - Wilkinson",
+     "published": "2026-10-09T19:34:54+00:00",
+     "summary": "Rhian Wilkinson accepts Wales must raise their standards after they scrape to a 1-0 victory in their Women's World Cup play-off semi-final in Albania."
+    },
+    {
+     "ref": "bbc_football#16",
      "title": "Highlights: Albania 0-1 Wales",
      "published": "2026-10-09T18:20:41+00:00",
      "summary": "Watch the best of the action as Wales beat Albania in Shkoder"
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#17",
      "title": "Will anyone stop re-election of Infantino as Fifa president?",
      "published": "2026-10-09T16:28:23+00:00",
      "summary": "Little more than two months since news broke of Infantino's Fifa Forward Enterprise proposal, the chances appear slim that Gianni Infantino might be removed as president."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#18",
      "title": "Decision to stay at Celtic did not take long - O'Neill",
      "published": "2026-10-09T16:04:03+00:00",
      "summary": "Martin O'Neill suggests he was never close to leaving Celtic after a three-game losing streak, with the veteran manager stressing his \"great enthusiasm\" for the role."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#19",
      "title": "Decision to stay at Celtic did not take long - O'Neill",
      "published": "2026-10-09T16:04:03+00:00",
      "summary": "Martin O'Neill suggests he was never close to leaving Celtic after a three-game losing streak, with the veteran manager stressing his \"great enthusiasm\" for the role."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#20",
      "title": "Afcon move to every four years under review by Caf",
      "published": "2026-10-09T15:57:49+00:00",
      "summary": "The Africa Cup of Nations may continue to be held every two years, with discussions under way to reverse its proposed switch to a four-year cycle."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#21",
      "title": "Football Daily",
      "published": "2026-10-09T15:51:00+00:00",
      "summary": "Conor McNamara joins Ian Dennis and John Murray ahead of a big Premier League weekend."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#22",
      "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
      "published": "2026-10-09T15:38:59+00:00",
      "summary": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#23",
      "title": "'Not Celtic' - O'Neill condemns Desmond protest as ultras boycott",
      "published": "2026-10-09T15:01:41+00:00",
      "summary": "\"This is not Celtic at all,\" is manager Martin O'Neill's response to the rising tensions between sections of the fan base and the club's board."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#24",
      "title": "I've got my own questions on Man City case - Carrick",
      "published": "2026-10-09T14:30:38+00:00",
      "summary": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "'Intense' talks convinced Reedijk over Hibs job",
-     "published": "2026-10-09T14:14:42+00:00",
-     "summary": "Marink Reedijk was convinced Hibernian was the right move for him after a seven-hour meeting with the club's board in London."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "What reception awaits Man City at Anfield?",
-     "published": "2026-10-09T14:02:46+00:00",
-     "summary": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "What impact has break had & how will Reedijk fare? Premiership questions",
-     "published": "2026-10-09T13:07:09+00:00",
-     "summary": "After an extended international break, the Scottish Premiership's usual suspects - and one newcomer - limber up for a full weekend card of fixtures."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "What impact has break had & how will Reedijk fare? Premiership questions",
-     "published": "2026-10-09T13:07:09+00:00",
-     "summary": "After an extended international break, the Scottish Premiership's usual suspects - and one newcomer - limber up for a full weekend card of fixtures."
     }
    ]
   },
@@ -1080,9 +1080,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#23",
-     "title": "Inter Miami coach on Messi's farewell: he will miss it until the last day of his life - Goal.com",
-     "published": "2026-10-09T19:38:34+00:00",
-     "summary": "Inter Miami coach on Messi's farewell: he will miss it until the last day of his life Goal.com"
+     "title": "Inter Miami coach on Messi's farewell: he will miss it until the last day of his life - LiveScore",
+     "published": "2026-10-09T19:53:56+00:00",
+     "summary": "Inter Miami coach on Messi's farewell: he will miss it until the last day of his life LiveScore"
     },
     {
      "ref": "gnews_inter_miami#24",
@@ -1158,72 +1158,66 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#10",
-     "title": "Blazers Open Preseason With Win Over Warriors - roundtable.io",
-     "published": "2026-10-08T11:20:25+00:00",
-     "summary": "Blazers Open Preseason With Win Over Warriors roundtable.io"
-    },
-    {
-     "ref": "gnews_israeli_nba#11",
      "title": "NBA Notes: Blazers, Deni Avdija, Warriors, Brandon Williams, Bulls - Hoops Wire",
      "published": "2026-10-08T06:45:01+00:00",
      "summary": "NBA Notes: Blazers, Deni Avdija, Warriors, Brandon Williams, Bulls Hoops Wire"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Trail Blazers win preseason opener over Golden State - KATU",
      "published": "2026-10-08T05:37:53+00:00",
      "summary": "Trail Blazers win preseason opener over Golden State KATU"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "The Good And Meh From The Blazers Preseason Opener - Sports Illustrated",
      "published": "2026-10-08T05:04:26+00:00",
      "summary": "The Good And Meh From The Blazers Preseason Opener Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija finishes through contact - Yahoo Sports",
      "published": "2026-10-08T04:40:00+00:00",
      "summary": "Deni Avdija finishes through contact Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Aday Mara shines with perfect 10/10, Deni Avdija drops 23 points - Eurohoops",
      "published": "2026-10-08T04:31:00+00:00",
      "summary": "Aday Mara shines with perfect 10/10, Deni Avdija drops 23 points Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija with the and-1 bucket - ESPN",
      "published": "2026-10-08T03:32:04+00:00",
      "summary": "Deni Avdija with the and-1 bucket ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija with the and-1 bucket - ESPN India",
      "published": "2026-10-08T03:32:04+00:00",
      "summary": "Deni Avdija with the and-1 bucket ESPN India"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija with the and-1 bucket - ESPN",
      "published": "2026-10-08T03:32:04+00:00",
      "summary": "Deni Avdija with the and-1 bucket ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#18",
      "title": "Ben Saraf Player Full High Lowlights vs HORNETS 06 10 2026 NBA PRESEASON Game - YouTube",
      "published": "2026-10-07T15:51:52+00:00",
      "summary": "Ben Saraf Player Full High Lowlights vs HORNETS 06 10 2026 NBA PRESEASON Game YouTube"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#19",
      "title": "Nets' Ben Saraf: Scores eight off bench - CBS Sports",
      "published": "2026-10-07T14:53:31+00:00",
      "summary": "Nets' Ben Saraf: Scores eight off bench CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#20",
      "title": "Ben Saraf News: Scores eight off bench - RotoWire",
      "published": "2026-10-07T14:53:31+00:00",
      "summary": "Ben Saraf News: Scores eight off bench RotoWire"
