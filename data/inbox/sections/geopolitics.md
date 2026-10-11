@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "College football - AP News",
-     "published": "2026-10-11T08:29:44+00:00",
-     "summary": "College football AP News"
+     "title": "Storms - AP News",
+     "published": "2026-10-11T08:56:04+00:00",
+     "summary": "Storms AP News"
     },
     {
      "ref": "ap_world#1",
      "title": "Artificial intelligence - AP News",
-     "published": "2026-10-11T08:29:44+00:00",
+     "published": "2026-10-11T08:53:51+00:00",
      "summary": "Artificial intelligence AP News"
     },
     {
      "ref": "ap_world#2",
+     "title": "College football - AP News",
+     "published": "2026-10-11T08:51:53+00:00",
+     "summary": "College football AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "New York City - AP News",
+     "published": "2026-10-11T08:48:02+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Florida Gators football - AP News",
+     "published": "2026-10-11T08:44:00+00:00",
+     "summary": "Florida Gators football AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-10-11T08:42:38+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Africa News Reports | Latest News in Africa - AP News",
+     "published": "2026-10-11T08:42:36+00:00",
+     "summary": "Africa News Reports | Latest News in Africa AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "AP News Search - AP News",
+     "published": "2026-10-11T08:39:53+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "College sports - AP News",
+     "published": "2026-10-11T08:39:51+00:00",
+     "summary": "College sports AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Wall Street retreats from its record as stocks fall worldwide - AP News",
+     "published": "2026-10-11T08:37:54+00:00",
+     "summary": "Wall Street retreats from its record as stocks fall worldwide AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Protests and demonstrations - AP News",
+     "published": "2026-10-11T08:33:52+00:00",
+     "summary": "Protests and demonstrations AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Texas - AP News",
+     "published": "2026-10-11T08:33:52+00:00",
+     "summary": "Texas AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "United Nations - AP News",
+     "published": "2026-10-11T08:33:50+00:00",
+     "summary": "United Nations AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "Soccer - AP News",
+     "published": "2026-10-11T08:33:48+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#14",
      "title": "China - AP News",
      "published": "2026-10-11T08:29:44+00:00",
      "summary": "China AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#15",
      "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
      "published": "2026-10-11T08:23:50+00:00",
      "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#16",
      "title": "Military and defense - AP News",
      "published": "2026-10-11T08:23:50+00:00",
      "summary": "Military and defense AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#17",
      "title": "MLB | Latest News, Stats, and Scores - AP News",
      "published": "2026-10-11T08:23:48+00:00",
      "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#18",
      "title": "Crime - AP News",
      "published": "2026-10-11T08:23:48+00:00",
      "summary": "Crime AP News"
     },
     {
-     "ref": "ap_world#7",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-11T08:23:47+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
-    },
-    {
-     "ref": "ap_world#8",
+     "ref": "ap_world#19",
      "title": "Gun violence - AP News",
      "published": "2026-10-11T08:22:15+00:00",
      "summary": "Gun violence AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#20",
      "title": "Europe News | Breaking European News Today - AP News",
      "published": "2026-10-11T08:17:44+00:00",
      "summary": "Europe News | Breaking European News Today AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#21",
      "title": "Asia Pacific - AP News",
      "published": "2026-10-11T08:17:43+00:00",
      "summary": "Asia Pacific AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#22",
      "title": "Golf - AP News",
      "published": "2026-10-11T08:17:41+00:00",
      "summary": "Golf AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-10-11T08:13:44+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
-    },
-    {
-     "ref": "ap_world#13",
+     "ref": "ap_world#23",
      "title": "Trending News - AP News",
      "published": "2026-10-11T08:01:48+00:00",
      "summary": "Trending News AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#24",
      "title": "International News - AP News",
      "published": "2026-10-11T07:59:40+00:00",
      "summary": "International News AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Latest news - AP News",
-     "published": "2026-10-11T07:59:40+00:00",
-     "summary": "Latest news AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Saudi Arabia - AP News",
-     "published": "2026-10-11T07:57:39+00:00",
-     "summary": "Saudi Arabia AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Storms - AP News",
-     "published": "2026-10-11T07:55:41+00:00",
-     "summary": "Storms AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "New York City - AP News",
-     "published": "2026-10-11T07:47:40+00:00",
-     "summary": "New York City AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Florida Gators football - AP News",
-     "published": "2026-10-11T07:43:37+00:00",
-     "summary": "Florida Gators football AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Africa News Reports | Latest News in Africa - AP News",
-     "published": "2026-10-11T07:41:45+00:00",
-     "summary": "Africa News Reports | Latest News in Africa AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "College Football Full FBS Schedule - AP News",
-     "published": "2026-10-11T07:41:44+00:00",
-     "summary": "College Football Full FBS Schedule AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "College sports - AP News",
-     "published": "2026-10-11T07:39:39+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "AP News Search - AP News",
-     "published": "2026-10-11T07:39:36+00:00",
-     "summary": "AP News Search AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Protests and demonstrations - AP News",
-     "published": "2026-10-11T07:34:27+00:00",
-     "summary": "Protests and demonstrations AP News"
     }
    ]
   },
@@ -174,9 +174,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
-     "published": "2026-10-11T07:10:49+00:00",
-     "summary": "Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday."
+     "title": "Delhi sees more protests as 'cockroach' group's leaders released",
+     "published": "2026-10-11T08:50:21+00:00",
+     "summary": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday."
     },
     {
      "ref": "bbc_world#1",
@@ -408,153 +408,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest - Reuters",
-     "published": "2026-10-11T08:23:58+00:00",
-     "summary": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest Reuters"
+     "title": "Poland says police got information about possible attack on PM and defence minister - Reuters",
+     "published": "2026-10-11T08:54:10+00:00",
+     "summary": "Poland says police got information about possible attack on PM and defence minister Reuters"
     },
     {
      "ref": "reuters_world#1",
+     "title": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest - Reuters",
+     "published": "2026-10-11T08:32:00+00:00",
+     "summary": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Pakistan president imposes emergency in province ruled by ex-PM Imran Khan’s party - Reuters",
      "published": "2026-10-11T08:19:46+00:00",
      "summary": "Pakistan president imposes emergency in province ruled by ex-PM Imran Khan’s party Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Saudi stocks slide after attack on Riyadh airport - Reuters",
      "published": "2026-10-11T07:51:43+00:00",
      "summary": "Saudi stocks slide after attack on Riyadh airport Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Russia's Yandex says data centre in Vladimir area shut down after drone attack - Reuters",
      "published": "2026-10-11T07:39:43+00:00",
      "summary": "Russia's Yandex says data centre in Vladimir area shut down after drone attack Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports - Reuters",
      "published": "2026-10-11T07:34:22+00:00",
      "summary": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Indian capital braces for second day of protests against poll chief - Reuters",
      "published": "2026-10-11T05:19:00+00:00",
      "summary": "Indian capital braces for second day of protests against poll chief Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says - Reuters",
      "published": "2026-10-11T04:54:00+00:00",
      "summary": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "India's 'cockroach' movement leader released from detention, lawyer says - Reuters",
      "published": "2026-10-11T04:37:00+00:00",
      "summary": "India's 'cockroach' movement leader released from detention, lawyer says Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "India unveils steel policy aiming for 604 million tons capacity by 2047 - Reuters",
      "published": "2026-10-11T04:20:00+00:00",
      "summary": "India unveils steel policy aiming for 604 million tons capacity by 2047 Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
      "published": "2026-10-11T04:03:00+00:00",
      "summary": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Chinese Apple supplier Luxshare sees little negative impact from US patent infringement probe - Reuters",
      "published": "2026-10-11T03:17:00+00:00",
      "summary": "Chinese Apple supplier Luxshare sees little negative impact from US patent infringement probe Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
      "published": "2026-10-11T01:35:00+00:00",
      "summary": "US military says it disabled cargo vessel trying to run Iran blockade Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks - Reuters",
      "published": "2026-10-11T01:00:00+00:00",
      "summary": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Rubio pledges US cooperation in Okinawa murder case - Reuters",
      "published": "2026-10-10T19:01:52+00:00",
      "summary": "Rubio pledges US cooperation in Okinawa murder case Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Man dies after entering tiger enclosure at British zoo - Reuters",
      "published": "2026-10-10T18:08:15+00:00",
      "summary": "Man dies after entering tiger enclosure at British zoo Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Spanish lawyer Gonzalez Durantez launches centrist party for November election - Reuters",
      "published": "2026-10-10T17:53:43+00:00",
      "summary": "Spanish lawyer Gonzalez Durantez launches centrist party for November election Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Erie, Pennsylvania shooter killed 8 people, then himself, police say - Reuters",
      "published": "2026-10-10T17:48:00+00:00",
      "summary": "Erie, Pennsylvania shooter killed 8 people, then himself, police say Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "India's Infosys does not expect material impact from US PERM suspension - Reuters",
      "published": "2026-10-10T17:43:47+00:00",
      "summary": "India's Infosys does not expect material impact from US PERM suspension Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
      "published": "2026-10-10T16:31:01+00:00",
      "summary": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Pope Leo condemns death penalty as Trump mulls livestreamed execution - Reuters",
      "published": "2026-10-10T16:17:38+00:00",
      "summary": "Pope Leo condemns death penalty as Trump mulls livestreamed execution Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Israeli strikes kill five people in Gaza, medics say - Reuters",
      "published": "2026-10-10T15:24:12+00:00",
      "summary": "Israeli strikes kill five people in Gaza, medics say Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Eritrea asks UN to intervene in standoff with Ethiopia - Reuters",
      "published": "2026-10-10T15:05:05+00:00",
      "summary": "Eritrea asks UN to intervene in standoff with Ethiopia Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Three injured in Poland's third youth stabbing attack in four days - Reuters",
      "published": "2026-10-10T14:21:49+00:00",
      "summary": "Three injured in Poland's third youth stabbing attack in four days Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade - Reuters",
      "published": "2026-10-10T14:13:00+00:00",
      "summary": "Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Five shot dead at residence in Georgia's Douglas, police says - Reuters",
-     "published": "2026-10-10T14:03:35+00:00",
-     "summary": "Five shot dead at residence in Georgia's Douglas, police says Reuters"
     }
    ]
   }
