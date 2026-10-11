@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-11",
+  "questions": [
+    {
+      "id": "quiz-geopolitics-diesel-deal",
+      "section": "geopolitics",
+      "story_id": "trump-russia-diesel-rift",
+      "answer_index": 1,
+      "en": {
+        "question": "Why did the Trump administration strike a deal to bring Russian diesel into the US market?",
+        "options": [
+          "To help fund Ukraine's war effort through Russian oil revenue",
+          "To lower US fuel prices ahead of the midterm elections",
+          "To replace oil lost from a new OPEC production cut",
+          "To comply with a NATO sanctions-relief agreement"
+        ],
+        "explanation": "A BBC analysis tied the deal to pressure on the Trump administration to bring down fuel prices before next month's midterm elections."
+      },
+      "he": {
+        "question": "מדוע ממשל טראמפ סגר עסקה שמכניסה סולר רוסי לשוק האמריקאי?",
+        "options": [
+          "כדי לעזור לממן את מאמץ המלחמה של אוקראינה דרך הכנסות נפט רוסיות",
+          "כדי להוריד את מחירי הדלק בארה\"ב לפני הבחירות לקונגרס",
+          "כדי להחליף נפט שאבד בעקבות קיצוץ ייצור חדש של אופ\"ק",
+          "כדי לעמוד בהסכם הקלת סנקציות של נאט\"ו"
+        ],
+        "explanation": "ניתוח של ה-BBC קשר את העסקה ללחץ על ממשל טראמפ להוריד את מחירי הדלק לפני הבחירות לקונגרס בעוד חודש."
+      }
+    },
+    {
+      "id": "quiz-business-google-bond",
+      "section": "business",
+      "story_id": "google-bond-ai-debt-reckoning",
+      "answer_index": 2,
+      "en": {
+        "question": "Why did Google's stock barely react even though its old 40-year bonds lost about 55% of their value as interest rates rose?",
+        "options": [
+          "The affected bonds were a tiny, insignificant slice of Google's total debt",
+          "Google repurchased all of the affected bonds before their price fell",
+          "Investor optimism about Google's AI-driven growth offset the higher discount rate that should have also hurt the stock",
+          "The bond losses were absorbed entirely by the banks that originally underwrote them"
+        ],
+        "explanation": "Both bonds and stocks should fall in value when discount rates rise, but strong growth expectations for Google's AI business let the stock shrug off the same rate move that hammered its fixed-coupon long-dated bonds."
+      },
+      "he": {
+        "question": "למה המניה של גוגל כמעט לא זעה, אף שהאג\"ח הישנות שלה ל-40 שנה איבדו כ-55% מערכן עם עליית הריבית?",
+        "options": [
+          "האג\"ח שנפגעו היו חלק קטן וזניח מכלל החוב של גוגל",
+          "גוגל רכשה בחזרה את כל האג\"ח שנפגעו לפני שמחירן צנח",
+          "האופטימיות של המשקיעים לגבי הצמיחה המובלת על ידי AI של גוגל קיזזה את ריבית ההיוון הגבוהה יותר שהיתה צריכה לפגוע גם במניה",
+          "ההפסדים באג\"ח נבלעו כולם על ידי הבנקים שחתמו עליהן במקור"
+        ],
+        "explanation": "גם אג\"ח וגם מניות צריכות להוזיל כשריבית ההיוון עולה, אבל ציפיות צמיחה חזקות לעסקי ה-AI של גוגל נתנו למניה להתעלם מאותו שינוי ריבית שהיכה באג\"ח הארוכות עם הקופון הקבוע שלה."
+      }
+    },
+    {
+      "id": "quiz-ideas-aspiration",
+      "section": "ideas",
+      "story_id": "moving-on-is-aspiration-not-healing",
+      "answer_index": 1,
+      "en": {
+        "question": "According to Matthew Barnfield's essay, what does philosopher Agnes Callard's concept of 'aspiration' mean for someone moving on from a breakup?",
+        "options": [
+          "Waiting passively until time heals the pain on its own",
+          "Acting 'as if' you already hold a value you don't yet fully feel, until you genuinely grow into it",
+          "Replacing the lost relationship as quickly as possible with a new partner",
+          "Suppressing all thoughts of the ex-partner through sheer willpower"
+        ],
+        "explanation": "Callard's 'aspiration' describes acting as if you already hold a value you only partly appreciate, which over time lets you genuinely come to hold it."
+      },
+      "he": {
+        "question": "לפי המאמר של מתיו בארנפילד, מה פירוש המושג 'שאיפה' (aspiration) של הפילוסופית אגנס קאלארד בהקשר של מעבר הלאה מפרידה?",
+        "options": [
+          "להמתין בפסיביות עד שהזמן מחליש את הכאב מעצמו",
+          "לפעול 'כאילו' אתה מחזיק בערך שאתה עדיין לא מרגיש לגמרי, עד שבאמת תגדל אליו",
+          "להחליף את הקשר שאבד בבן/בת זוג חדשים כמה שיותר מהר",
+          "להדחיק כל מחשבה על בן/בת הזוג לשעבר בכוח רצון בלבד"
+        ],
+        "explanation": "ה'שאיפה' של קאלארד מתארת פעולה 'כאילו' אתה מחזיק בערך שאתה רק מעריך חלקית, מה שבמשך הזמן מאפשר לך להגיע להחזיק בו באמת."
+      }
+    }
+  ]
+}

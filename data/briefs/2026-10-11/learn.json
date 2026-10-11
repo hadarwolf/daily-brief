@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-11",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-11T04:17:08+00:00",
+  "stories": [
+    {
+      "id": "word-working-capital",
+      "kind": "word",
+      "en": {
+        "headline": "Working capital (הון חוזר)",
+        "scroll": "The cash and short-term assets a business has on hand to fund its day-to-day operations.",
+        "coffee": "Working capital is the money a company has readily available — after subtracting what it owes in the near term — to cover everyday expenses like payroll, inventory and bills. It's calculated as current assets minus current liabilities. Example: \"The retailer's working capital shrank sharply after it stocked up on inventory ahead of the holiday season.\"",
+        "deep": "Analysts and executives reach for \"working capital\" when discussing a company's short-term liquidity and operational efficiency, not its long-term profitability — a company can be profitable on paper and still face a working-capital crunch if its cash is tied up in unpaid customer invoices or unsold inventory. It's also worth not confusing it with \"cash flow\": working capital is a snapshot at a point in time (a stock), while cash flow measures the movement of money over a period (a flow).\n\nA common surprise: negative working capital doesn't automatically signal trouble. Some retailers and subscription businesses run on negative working capital by design, because they collect payment from customers before they have to pay their own suppliers — the opposite timing problem from most businesses.\n\nMore examples: \"The startup raised a bridge round specifically to shore up its working capital after a slow quarter.\" \"Tightening payment terms with suppliers is one of the fastest ways to free up working capital without taking on new debt.\"\n\nHebrew: הון חוזר."
+      },
+      "he": {
+        "headline": "Working capital (הון חוזר)",
+        "scroll": "המזומן והנכסים לזמן קצר שעומדים לרשות עסק כדי לממן את הפעילות היומיומית שלו.",
+        "coffee": "הון חוזר הוא הכסף שעומד לרשות חברה באופן מיידי - בניכוי מה שהיא חייבת לשלם בזמן הקרוב - כדי לכסות הוצאות שוטפות כמו שכר, מלאי וחשבונות. הוא מחושב כנכסים שוטפים פחות התחייבויות שוטפות. לדוגמה: \"ההון החוזר של הרשת הקמעונאית התכווץ בחדות אחרי שהיא הצטיידה במלאי לפני עונת החגים.\"",
+        "deep": "אנליסטים ומנהלים משתמשים במונח \"הון חוזר\" כשהם דנים בנזילות לזמן קצר וביעילות התפעולית של חברה, ולא ברווחיות שלה לטווח ארוך - חברה יכולה להיות רווחית על הנייר ובכל זאת להיתקל במחסור בהון חוזר אם הכסף שלה תקוע בחובות לקוחות שלא נפרעו או במלאי שלא נמכר. חשוב גם לא להתבלבל עם \"תזרים מזומנים\": הון חוזר הוא תמונת מצב בנקודת זמן נתונה (מצב), בעוד תזרים מזומנים מודד את תנועת הכסף על פני תקופה (זרימה).\n\nהפתעה נפוצה: הון חוזר שלילי לא בהכרח מעיד על צרות. חלק מהרשתות הקמעונאיות ועסקי המנוי פועלים בכוונה עם הון חוזר שלילי, כיוון שהם גובים תשלום מהלקוחות לפני שהם צריכים לשלם לספקים שלהם - תזמון הפוך מרוב העסקים.\n\nדוגמאות נוספות: \"הסטארט-אפ גייס סיבוב ביניים (bridge round) ספציפית כדי לחזק את ההון החוזר שלו אחרי רבעון חלש.\" \"הדוקת תנאי התשלום עם ספקים היא אחת הדרכים המהירות ביותר לשחרר הון חוזר בלי לקחת חוב נוסף.\"\n\nבעברית: הון חוזר."
+      },
+      "tags": [
+        "vocabulary",
+        "finance",
+        "liquidity"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-sweat-equity",
+      "kind": "word",
+      "en": {
+        "headline": "Sweat equity (הון מאמץ)",
+        "scroll": "An ownership stake earned through unpaid labor and effort rather than cash investment.",
+        "coffee": "Sweat equity describes the value someone contributes to a venture through their work and time, rather than money — often rewarded with an ownership stake instead of a paycheck. Example: \"The two co-founders split the company 50-50, even though only one of them put in cash — the other's share reflected his sweat equity.\"",
+        "deep": "The phrase shows up most often in early-stage startups, where a technical co-founder might contribute months of unpaid building instead of capital, and in real estate, where a homeowner's own renovation labor (rather than paying contractors) is described as sweat equity that raises the property's value.\n\nOne common confusion: sweat equity isn't measured as precisely as a cash investment — it's typically negotiated subjectively between co-founders, which is exactly why unequal effort or unequal risk-taking over time can lead to disputes about whether the original split was fair. Another: sweat equity describes the kind of contribution (labor instead of cash) that justifies someone's stake, whereas \"vesting\" describes the separate question of the schedule over which that stake is actually earned.\n\nMore examples: \"Investors want to see that founders have real sweat equity in the business before they'll write a check.\" \"She fixed up the old house herself, building sweat equity that pushed its resale value well above what she'd spent on materials.\"\n\nHebrew: הון מאמץ (הון שנרכש בעבודה, לא בכסף)."
+      },
+      "he": {
+        "headline": "Sweat equity (הון מאמץ)",
+        "scroll": "אחזקה בבעלות שנרכשת בעבודה ובמאמץ ללא תשלום, ולא בהשקעת כסף.",
+        "coffee": "המונח \"הון מאמץ\" מתאר את הערך שאדם מעניק ליזמה באמצעות העבודה והזמן שלו, ולא כסף - ולעיתים זה מתוגמל באחזקה בבעלות במקום במשכורת. לדוגמה: \"שני מקימי החברה חילקו אותה 50-50, אף שרק אחד מהם הכניס כסף - החלק של השני שיקף את הון המאמץ שלו.\"",
+        "deep": "הביטוי מופיע לרוב בסטארט-אפים בשלב מוקדם, שבהם מייסד טכני עשוי לתרום חודשים של בנייה בלי תשלום במקום הון, וכן בתחום הנדל\"ן, שם עבודת שיפוץ שבעל בית עושה בעצמו (במקום לשלם לקבלנים) מתוארת כהון מאמץ שמעלה את שווי הנכס.\n\nבלבול נפוץ אחד: הון מאמץ לא נמדד באופן מדויק כמו השקעת כסף - הוא מתבסס בדרך כלל על משא ומתן סובייקטיבי בין מייסדים, וזו בדיוק הסיבה שמאמץ לא שווה או נטילת סיכון לא שווה במהלך הזמן יכולים להוביל למחלוקות על השאלה אם החלוקה המקורית הייתה הוגנת. בלבול נוסף: הון מאמץ מתאר את סוג התרומה (עבודה במקום כסף) שמצדיקה את החלק של מישהו, בעוד \"הבשלה\" (vesting) מתארת שאלה נפרדת - לוח הזמנים שבו החלק הזה נרכש בפועל.\n\nדוגמאות נוספות: \"משקיעים רוצים לראות שליזמים יש הון מאמץ אמיתי בעסק לפני שהם חותמים על צ'ק.\" \"היא שיפצה את הבית הישן בעצמה, ובנתה הון מאמץ שהעלה את שווי המכירה שלו הרבה מעל מה שהוציאה על חומרים.\"\n\nבעברית: הון מאמץ (הון שנרכש בעבודה, לא בכסף)."
+      },
+      "tags": [
+        "vocabulary",
+        "startups",
+        "equity"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-low-hanging-fruit",
+      "kind": "word",
+      "en": {
+        "headline": "Low-hanging fruit (פרי בשל)",
+        "scroll": "The easiest, quickest wins available — opportunities that need the least effort for meaningful payoff.",
+        "coffee": "In business, \"low-hanging fruit\" refers to the simplest opportunities to pursue first, before tackling harder, more resource-intensive problems. Example: \"Before overhauling the whole onboarding process, the team fixed the low-hanging fruit — a confusing signup form that was costing them conversions.\"",
+        "deep": "The phrase is common in strategy discussions to describe prioritizing quick, cheap wins, but it can carry a mildly dismissive edge if overused — implying a team is coasting on easy fixes rather than tackling harder, more ambitious problems.\n\nA useful distinction: it's not quite the same as a \"quick win.\" A quick win just emphasizes speed; low-hanging fruit specifically emphasizes low cost or effort relative to a larger set of harder opportunities still sitting untouched (sometimes jokingly called the \"high-hanging fruit\"). It's also a different idea from \"picking winners,\" which is about selecting which initiatives or investments are likely to succeed, not about sequencing easy versus hard work.\n\nMore examples: \"After the acquisition, management grabbed the low-hanging fruit first — merging duplicate back-office functions — before attempting the harder job of merging the product lines.\" \"Once you've harvested the low-hanging fruit, the remaining growth has to come from harder, more strategic bets.\"\n\nHebrew: פרי בשל (לעיתים גם: המטרות הקלות/הזמינות)."
+      },
+      "he": {
+        "headline": "Low-hanging fruit (פרי בשל)",
+        "scroll": "ההזדמנויות הקלות והמהירות ביותר הזמינות - משימות שדורשות את המאמץ הקטן ביותר לתשואה משמעותית.",
+        "coffee": "בעסקים, \"פרי בשל\" (low-hanging fruit) מתייחס להזדמנויות הפשוטות ביותר לטיפול ראשון, לפני התמודדות עם בעיות קשות יותר שדורשות יותר משאבים. לדוגמה: \"לפני שיפוץ כולל של תהליך ההרשמה, הצוות תיקן את הפרי הבשל - טופס הרשמה מבלבל שעלה לחברה בהמרות.\"",
+        "deep": "הביטוי נפוץ בדיוני אסטרטגיה לתיאור תעדוף של זכיות מהירות וזולות, אבל הוא יכול לשאת גוון מעט מזלזל אם משתמשים בו יותר מדי - ברמז שצוות \"גולש\" על תיקונים קלים במקום להתמודד עם בעיות קשות ושאפתניות יותר.\n\nהבחנה שימושית: זה לא בדיוק אותו דבר כמו \"זכייה מהירה\" (quick win). זכייה מהירה מדגישה בעיקר מהירות; פרי בשל מדגיש באופן ספציפי עלות או מאמץ נמוכים יחסית לקבוצה גדולה יותר של הזדמנויות קשות יותר שעדיין לא טופלו (שלעיתים נקראות בצחוק \"הפרי הגבוה\"). זה גם מושג שונה מ\"בחירת מנצחים\" (picking winners), שעניינו בחירת היוזמות או ההשקעות שצפויות להצליח, ולא סדר הטיפול בין עבודה קלה לקשה.\n\nדוגמאות נוספות: \"אחרי הרכישה, ההנהלה תפסה קודם את הפרי הבשל - מיזוג פונקציות תפעול כפולות - לפני שניגשה למשימה הקשה יותר של מיזוג קווי המוצרים.\" \"אחרי שקוטפים את הפרי הבשל, הצמיחה הנותרת צריכה לבוא מהתערבויות קשות ואסטרטגיות יותר.\"\n\nבעברית: פרי בשל (לעיתים גם: המטרות הקלות/הזמינות)."
+      },
+      "tags": [
+        "vocabulary",
+        "strategy",
+        "idiom"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-price-elasticity",
+      "kind": "concept",
+      "en": {
+        "headline": "Price elasticity of demand (אלסטיות מחיר של הביקוש)",
+        "scroll": "Price elasticity of demand measures how much the quantity people buy changes when price changes — and it decides whether raising prices grows your revenue or shrinks it.",
+        "coffee": "Price elasticity of demand is the percentage change in quantity demanded divided by the percentage change in price. If a small price increase causes a big drop in purchases, demand is \"elastic.\" If quantity barely budges, demand is \"inelastic.\"\n\nThis single number tells a business something very practical: whether raising prices will increase or decrease total revenue. Raise the price of an elastic good, and the drop in sales volume outweighs the extra money per unit — revenue falls. Raise the price of an inelastic good, and customers keep buying roughly the same amount despite paying more — revenue rises.\n\nWhat makes something elastic or inelastic largely comes down to substitutes: insulin has almost no substitutes and very inelastic demand, while a specific brand of snack competes with dozens of near-identical alternatives and has very elastic demand.",
+        "deep": "Formally, price elasticity of demand (E_d) equals the percentage change in quantity demanded divided by the percentage change in price. Because demand curves normally slope downward — people buy less as price rises — the number is technically negative, but economists usually just discuss its size (absolute value). If |E_d| is greater than 1, demand is elastic; if it's less than 1, demand is inelastic; exactly 1 is \"unit elastic.\"\n\nThree things mainly determine where a product falls: how many substitutes it has (more substitutes, more elastic — if your coffee shop raises prices, customers can easily walk next door), whether it's a necessity or a luxury (necessities tend to be inelastic, luxuries elastic), and how big a share of the buyer's budget it takes up (a 10% price rise on something you buy every day hurts more, and gets reacted to more, than the same rise on something you buy once a year). Elasticity also tends to increase over longer time horizons, because consumers who can't switch suppliers immediately often can once they have time to look.\n\nHere's the worked example that makes it concrete. A coffee shop sells 1,000 cups a week at $4 each — weekly revenue of $4,000. It raises the price by 10%, to $4.40.\n\nCase A: Weekly sales fall to 880 cups, a 12% drop. Elasticity = -12% ÷ 10% = -1.2 (elastic, since |E_d| > 1). New revenue = 880 × $4.40 = $3,872. Despite charging more per cup, total revenue fell, because the volume lost outweighed the extra margin per sale.\n\nCase B: Instead, weekly sales fall only to 960 cups, a 4% drop. Elasticity = -4% ÷ 10% = -0.4 (inelastic, since |E_d| < 1). New revenue = 960 × $4.40 = $4,224. Here, revenue rose, because customers barely cut back despite paying more.\n\nSame price increase, opposite outcome for the business — the only thing that changed is how elastic demand was. That's why elasticity, not intuition about \"customers won't like it,\" is what should actually drive a pricing decision."
+      },
+      "he": {
+        "headline": "Price elasticity of demand (אלסטיות מחיר של הביקוש)",
+        "scroll": "אלסטיות מחיר של הביקוש מודדת כמה הכמות שאנשים קונים משתנה כשהמחיר משתנה - וזה מה שקובע אם העלאת מחיר תגדיל את ההכנסות או תקטין אותן.",
+        "coffee": "אלסטיות מחיר של הביקוש היא השינוי באחוזים בכמות המבוקשת, חלקי השינוי באחוזים במחיר. אם העלאת מחיר קטנה גורמת לנפילה גדולה בכמות הנרכשת, הביקוש \"אלסטי\". אם הכמות כמעט לא זזה, הביקוש \"לא אלסטי\" (inelastic).\n\nהמספר הבודד הזה אומר לעסק דבר מאוד מעשי: אם העלאת מחירים תגדיל או תקטין את ההכנסה הכוללת. העלאת מחיר על מוצר אלסטי גורמת לכך שהירידה בכמות הנמכרת גוברת על הכסף הנוסף שמתקבל ליחידה - ההכנסה יורדת. העלאת מחיר על מוצר לא אלסטי גורמת לכך שהלקוחות ממשיכים לקנות כמות דומה למרות שהם משלמים יותר - ההכנסה עולה.\n\nמה שקובע אם מוצר אלסטי או לא אלסטי תלוי במידה רבה בקיומם של תחליפים: לאינסולין אין כמעט תחליפים והביקוש לו לא אלסטי מאוד, בעוד שמותג ספציפי של חטיף מתחרה בעשרות חלופות דומות ויש לו ביקוש אלסטי מאוד.",
+        "deep": "באופן פורמלי, אלסטיות מחיר של הביקוש (E_d) שווה לשינוי באחוזים בכמות המבוקשת, חלקי השינוי באחוזים במחיר. מכיוון שעקומות ביקוש בדרך כלל יורדות - אנשים קונים פחות כשהמחיר עולה - המספר הוא טכנית שלילי, אבל כלכלנים בדרך כלל דנים בגודל שלו (הערך המוחלט). אם |E_d| גדול מ-1, הביקוש אלסטי; אם הוא קטן מ-1, הביקוש לא אלסטי; ערך של בדיוק 1 הוא \"אלסטיות יחידתית\".\n\nשלושה גורמים קובעים בעיקר איפה מוצר נמצא: כמה תחליפים יש לו (יותר תחליפים, יותר אלסטי - אם בית הקפה שלך מעלה מחירים, לקוחות יכולים בקלות לעבור לבית קפה אחר), אם הוא מוצר חיוני או מותרות (מוצרים חיוניים נוטים להיות לא אלסטיים, מותרות אלסטיים), וכמה נתח מתקציב הקונה הוא תופס (עלייה של 10% במחיר דבר שקונים כל יום פוגעת יותר, וגוררת תגובה חזקה יותר, מאשר עלייה דומה במחיר דבר שקונים פעם בשנה). האלסטיות גם נוטה לעלות על פני טווחי זמן ארוכים יותר, כיוון שצרכנים שלא יכולים להחליף ספק באופן מיידי יכולים לעשות זאת כשיש להם זמן לחפש.\n\nוהנה הדוגמה המספרית שעושה את זה מוחשי. בית קפה מוכר 1,000 כוסות קפה בשבוע במחיר של 4 דולר לכוס - הכנסה שבועית של 4,000 דולר. הוא מעלה את המחיר ב-10%, ל-4.40 דולר.\n\nמקרה א': המכירות השבועיות יורדות ל-880 כוסות, ירידה של 12%. האלסטיות = 12%- חלקי 10% = 1.2- (אלסטי, כיוון ש-|E_d| גדול מ-1). ההכנסה החדשה = 880 × 4.40 דולר = 3,872 דולר. אף שהמחיר לכוס גבוה יותר, ההכנסה הכוללת ירדה, כיוון שההפסד בכמות הנמכרת גבר על התוספת ברווח לכל מכירה.\n\nמקרה ב': במקום זאת, המכירות השבועיות יורדות רק ל-960 כוסות, ירידה של 4%. האלסטיות = 4%- חלקי 10% = 0.4- (לא אלסטי, כיוון ש-|E_d| קטן מ-1). ההכנסה החדשה = 960 × 4.40 דולר = 4,224 דולר. כאן ההכנסה עלתה, כיוון שהלקוחות כמעט לא צמצמו את הקנייה שלהם למרות שהם משלמים יותר.\n\nאותה העלאת מחיר, תוצאה הפוכה לעסק - הדבר היחיד שהשתנה הוא כמה אלסטי היה הביקוש. זו הסיבה שאלסטיות, ולא תחושת בטן לגבי \"הלקוחות לא יאהבו את זה\", היא מה שבאמת צריך להניע החלטת תמחור."
+      },
+      "tags": [
+        "economics",
+        "pricing",
+        "elasticity"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-great-march-washington-1987",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1987: The 'Great March' draws 750,000 to Washington for LGBT civil rights",
+        "scroll": "On this day in 1987, an estimated 750,000 people marched on Washington, D.C. to demand greater civil rights for the LGBT community, in what became known as the Great March.",
+        "coffee": "On October 11, 1987, roughly 750,000 people took part in the Second National March on Washington for Lesbian and Gay Rights — a scale and visibility that led it to be remembered simply as \"the Great March.\" It came at a brutal moment: the AIDS crisis was devastating gay communities across the United States while the federal government's response remained widely seen as inadequate, and LGBT Americans still had no federal legal protections against discrimination in most areas of life.\n\nThe march marked the first national media coverage of ACT UP, the direct-action AIDS advocacy group that would go on to reshape how activists pressured government and pharmaceutical companies over the epidemic. The following day, activists carried out mass civil disobedience at the U.S. Supreme Court building, protesting a recent ruling that had upheld state sodomy laws.\n\nThe march's scale made it difficult for media and politicians to continue treating LGBT rights as a marginal concern, and it's remembered as a turning point that helped build the organizing infrastructure and public visibility that later civil rights gains would be built on.",
+        "deep": "## The context\n\nBy October 1987, the AIDS epidemic had been devastating gay communities in the United States for several years, and the federal government's response — widely seen as slow and inadequate — had become a source of deep anger within LGBT communities. At the same time, LGBT Americans had no federal legal protection against discrimination in employment, housing or other basic areas of life, and just over a year earlier the U.S. Supreme Court had upheld state laws criminalizing consensual sodomy, a ruling that activists saw as a direct, ongoing threat.\n\n## The event\n\nAn estimated 750,000 people took part in the Second National March on Washington for Lesbian and Gay Rights on October 11, 1987 — a scale that dwarfed expectations and earned it the lasting nickname \"the Great March.\" The sheer number of participants made it one of the largest political demonstrations in Washington's history up to that point, cutting across what had often been treated by mainstream media as a narrow, marginal cause.\n\nThe march is also remembered as the moment ACT UP (the AIDS Coalition to Unleash Power) received its first national media coverage. ACT UP's direct-action tactics — confrontational, visually striking protests designed to force public and institutional attention onto the AIDS crisis — would go on to reshape how activists pressured government agencies and pharmaceutical companies over the following years, contributing to real changes in how quickly experimental treatments reached patients.\n\nThe day after the march, activists staged mass civil disobedience outside the U.S. Supreme Court building, protesting the sodomy-law ruling directly outside the institution that had issued it.\n\n## Why it mattered\n\nThe Great March didn't win any single legislative victory on its own, but its scale made it much harder for politicians and media to keep treating LGBT rights as a fringe issue. It helped build an organizing network and a sense of collective visibility and power that fed directly into the more confrontational, highly visible AIDS activism of the years that followed — activism that is now widely credited with accelerating the development and approval of HIV treatments."
+      },
+      "he": {
+        "headline": "1987: \"הצעדה הגדולה\" מכניסה 750,000 איש לוושינגטון לזכויות הקהילה הגאה",
+        "scroll": "בתאריך זה ב-1987, כ-750,000 בני אדם צעדו בוושינגטון למען זכויות אזרח מורחבות לקהילה הגאה, באירוע שנודע כ\"הצעדה הגדולה\".",
+        "coffee": "ב-11 באוקטובר 1987, כ-750,000 בני אדם השתתפו בצעדה הלאומית השנייה על וושינגטון לזכויות לסביות וגייז - קנה מידה ונראות שהובילו לכך שהאירוע נזכר פשוט כ\"הצעדה הגדולה\". הוא הגיע ברגע אכזרי: משבר האיידס הכה בקהילות הגאות ברחבי ארצות הברית, בזמן שהתגובה של הממשל הפדרלי נתפסה עדיין כבלתי מספקת, ולאמריקאים גאים לא היו הגנות משפטיות פדרליות מפני אפליה ברוב תחומי החיים.\n\nהצעדה סימנה את הסיקור התקשורתי הלאומי הראשון של ACT UP, קבוצת הפעולה הישירה למען מודעות לאיידס שתעצב בהמשך את האופן שבו פעילים הפעילו לחץ על הממשל ועל חברות התרופות בנוגע למגיפה. ביום שלמחרת, פעילים ביצעו אי-ציות אזרחי המוני בבניין בית המשפט העליון של ארצות הברית, במחאה על פסיקה שאישרה חוקי \"סדומיה\" במדינות שונות.\n\nקנה המידה של הצעדה הקשה על התקשורת והפוליטיקאים להמשיך להתייחס לזכויות הקהילה הגאה כעניין שולי, והיא זכורה כנקודת מפנה שעזרה לבנות את התשתית הארגונית והנראות הציבורית שעליהן נבנו בהמשך הישגי זכויות נוספים.",
+        "deep": "## הרקע\n\nעד אוקטובר 1987, משבר האיידס כבר הכה בקהילות הגאות בארצות הברית במשך כמה שנים, והתגובה של הממשל הפדרלי - שנתפסה כאיטית ובלתי מספקת באופן נרחב - הפכה למקור לכעס עמוק בתוך הקהילה הגאה. במקביל, לאמריקאים גאים לא היתה הגנה משפטית פדרלית מפני אפליה בתעסוקה, בדיור או בתחומים בסיסיים אחרים של החיים, וקצת יותר משנה לפני כן בית המשפט העליון של ארצות הברית אישר חוקים מדינתיים שהפלילו יחסי \"סדומיה\" בהסכמה - פסיקה שפעילים ראו בה איום ישיר ומתמשך.\n\n## האירוע\n\nכ-750,000 בני אדם השתתפו בצעדה הלאומית השנייה על וושינגטון לזכויות לסביות וגייז ב-11 באוקטובר 1987 - קנה מידה שעלה בהרבה על הציפיות והעניק לאירוע את הכינוי המתמשך \"הצעדה הגדולה\". מספר המשתתפים הפך אותה לאחת ההפגנות הפוליטיות הגדולות ביותר בהיסטוריה של וושינגטון עד לאותה נקודה, וחצה את מה שתקשורת מיינסטרים נהגה להתייחס אליו כנושא צר ושולי.\n\nהצעדה זכורה גם כרגע שבו ACT UP (קואליציית האיידס לשחרור כוח) קיבלה את הסיקור התקשורתי הלאומי הראשון שלה. השיטות של פעולה ישירה של ACT UP - מחאות קונפרונטטיביות ובולטות חזותית שנועדו לכפות תשומת לב ציבורית ומוסדית על משבר האיידס - עיצבו בהמשך את האופן שבו פעילים הפעילו לחץ על רשויות ממשלתיות ועל חברות תרופות בשנים הבאות, ותרמו לשינויים ממשיים במהירות שבה טיפולים ניסיוניים הגיעו לחולים.\n\nיום לאחר הצעדה, פעילים ביצעו אי-ציות אזרחי המוני מול בניין בית המשפט העליון של ארצות הברית, במחאה על פסיקת חוקי הסדומיה ישירות מול המוסד שהוציא אותה.\n\n## למה זה חשוב\n\nהצעדה הגדולה לא הביאה לניצחון חוקי בודד בפני עצמה, אבל קנה המידה שלה הקשה הרבה יותר על פוליטיקאים ועל התקשורת להמשיך להתייחס לזכויות הקהילה הגאה כנושא שולי. היא עזרה לבנות רשת ארגונית ותחושה של נראות וכוח קולקטיביים שהזינו במישרין את האקטיביזם הבולט והקונפרונטטיבי יותר בנושא איידס בשנים שלאחר מכן - אקטיביזם שמזוכה כיום באופן נרחב בהאצת הפיתוח והאישור של טיפולי HIV."
+      },
+      "tags": [
+        "lgbt-rights",
+        "history",
+        "activism"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1987: An estimated 750,000 people attended the \"Great March\" in Washington, D.C., to demand greater civil rights for the LGBT community.",
+          "url": "https://en.wikipedia.org/wiki/Second_National_March_on_Washington_for_Lesbian_and_Gay_Rights"
+        }
+      ]
+    }
+  ]
+}

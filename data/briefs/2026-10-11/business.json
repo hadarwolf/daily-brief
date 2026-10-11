@@ -1,0 +1,87 @@
+{
+  "section": "business",
+  "date": "2026-10-11",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-11T04:17:08+00:00",
+  "stories": [
+    {
+      "id": "google-bond-ai-debt-reckoning",
+      "kind": "analysis",
+      "en": {
+        "headline": "Google's cratering 40-year bond is a preview of the AI debt reckoning",
+        "scroll": "A Google bond sold at near-zero rates in 2020 has lost 55% of its value, and as AI capex keeps burning cash, the credit market's discomfort may finally start spilling into the stock.",
+        "coffee": "In 2020, Google raised billions of dollars by selling bonds at near-zero interest rates, including tranches maturing in 40 years. Those bonds have since lost about 55% of their value, reports TheMarker — a predictable mechanical result of long-dated, low-coupon debt in a world where benchmark yields have risen sharply since 2020, since a bond's price always falls when market yields climb, and the longer the maturity, the bigger the swing for any given rate move (a sensitivity bond investors call duration).\n\nWhat's striking is that Google's stock barely flinched. Investor expectations for the company's future growth — largely AI-driven — have been high enough to offset the valuation hit that higher discount rates would normally apply to a stock. Bonds and stocks are both claims on a company's future cash flows, discounted back to the present; when the discount rate rises, both should get cheaper, but growth optimism let the stock shrug it off while the bond, with its cash flows fixed by contract, could not.\n\nThat gap may be closing. Elsewhere in the AI sector, Bloomberg reports that SpaceX and Broadcom are discussing major new bond sales even as yields rise — unusual, since companies typically pull back borrowing when it gets more expensive — which the Financial Times says is testing investors' appetite after months of record AI-linked debt issuance. If the market starts demanding a higher risk premium for AI-related credit generally, that repricing could finally reach the equity side too, especially for companies burning cash at Google's pace.",
+        "deep": "## Background\n\nA bond's price and its yield move in opposite directions. When a company sells a bond, it locks in a fixed stream of coupon payments; if market interest rates later rise, newly issued bonds offer better payouts, so the old, lower-coupon bond becomes less attractive and its market price falls to compensate — its effective yield rises to match the market even though the coupon never changes. The size of that price swing for a given change in rates is called duration, and it scales with time to maturity: a bond due in 2 years barely moves when rates shift, while a bond due in 40 years can lose a huge share of its value from the same rate move, because investors are giving up so many more years of now-below-market coupons.\n\nThat is exactly the trap Google built for itself, inadvertently, in 2020. Near-zero interest rates let it borrow extremely cheaply, including bonds due in 2060. It was a great deal at the time. It becomes a liability on paper once rates normalize, because those decades of low fixed payments are now worth much less in today's market.\n\n## The story\n\nTheMarker reports that Google's 40-year bonds from that 2020 financing round have lost roughly 55% of their value as benchmark yields climbed. Mechanically, that is unsurprising — it is almost entirely duration doing what duration does. What is surprising is that Google's stock did not fall anywhere near as much. A share price is also, in theory, the present value of a company's future cash flows discounted at a rate that rises and falls with interest rates; higher rates should mechanically depress both bond and stock prices unless expected future cash flows rise enough to offset it. Investors have effectively been betting that Google's AI-driven growth will be large enough to swamp the higher discount rate — a bet equity markets have made in AI's favor across much of the sector, even as the credit market, which cares only about getting paid back a fixed amount rather than sharing in upside, had no such offsetting story and simply priced in the rate move.\n\nThe gap between the two markets' verdicts is now being tested from a different angle. Bloomberg reports that SpaceX and Broadcom are in talks for major bond sales despite rising yields — notable because rising yields normally discourage borrowing, since it becomes more expensive to service new debt. Instead, AI-linked companies have kept issuing bonds at a rapid pace to fund data centers and chips. The Financial Times reports that this is testing investor appetite after months of record issuance: demand for new AI-linked debt is no longer automatically absorbing the growing supply.\n\n## Second-order effects\n\nWhen bond supply grows faster than investor demand for it, issuers typically have to offer a higher yield, or wider spread over risk-free government debt, to get deals done — effectively a higher risk premium for the sector. That premium is a market judgment about credit risk specifically: the chance a borrower won't pay back a fixed obligation, which is a narrower and often harsher judgment than the open-ended optimism baked into equity valuations. If that risk premium keeps rising across AI-linked issuers, it raises everyone's future borrowing costs for AI infrastructure, which matters enormously for companies that, per TheMarker, are burning cash at a record pace to fund that same infrastructure. A company facing both higher borrowing costs and continued heavy cash burn eventually has to either slow spending, raise more equity (diluting shareholders), or absorb thinner margins — any of which is the kind of concrete cash-flow hit that could finally give equity investors a reason to revisit the growth assumptions that have so far insulated AI stocks from the bond market's verdict.\n\n## What to watch next\n\nWatch whether the SpaceX and Broadcom bond sales actually price, and at what spread over comparable investment-grade debt — a wide spread would signal the market is now charging a real AI-specific risk premium rather than just reacting to broad rate moves. Watch too whether other AI-exposed companies' long-dated bonds keep underperforming their stocks, since a persistent gap between the two would suggest credit investors see risks that equity investors are still choosing to look past."
+      },
+      "he": {
+        "headline": "האג\"ח ל-40 שנה של גוגל שצנחה היא תצוגה מקדימה של חשבון ה-AI",
+        "scroll": "אג\"ח של גוגל שהונפקה ב-2020 בריבית אפסית צנחה ב-55% מערכה, וככל שהוצאות ה-AI ממשיכות לשרוף מזומן, אי-הנחת בשוק האג\"ח עלולה סוף סוף לחלחל גם למניה.",
+        "coffee": "ב-2020 גייסה גוגל מיליארדי דולרים באמצעות הנפקת אג\"ח בריבית אפסית, כולל סדרות לפדיון בעוד 40 שנה. מאז, אותן אג\"ח איבדו כ-55% מערכן, מדווחת TheMarker - תוצאה מכנית וצפויה למדי של חוב ארוך טווח עם קופון נמוך, בעולם שבו תשואות הייחוס עלו בחדות מאז 2020: מחיר אג\"ח יורד תמיד כשהתשואות בשוק עולות, וככל שהפדיון מרוחק יותר, כך התנודה חדה יותר לכל שינוי ריבית נתון (רגישות שמשקיעי אג\"ח מכנים משך חיים ממוצע / duration).\n\nהמפתיע הוא שהמניה של גוגל כמעט לא זעה. הציפיות של המשקיעים לצמיחה העתידית של החברה - ברובה מבוססת AI - היו גבוהות מספיק כדי לקזז את הפגיעה בשווי שתשואות היוון גבוהות יותר היו אמורות לגרום למניה. אג\"ח ומניות הן שתיהן זכות לתזרים המזומנים העתידי של החברה, מהוון לערך נוכחי; כשהריבית שמשמשת להיוון עולה, שתיהן צריכות להתייקר פחות (או להוזיל), אבל האופטימיות על הצמיחה נתנה למניה להתעלם מזה, בעוד שהאג\"ח, עם תזרים מזומנים קבוע חוזית, לא יכולה היתה.\n\nהפער הזה עשוי להצטמצם. במקום אחר בתחום ה-AI, בלומברג מדווחת כי ספייס-אקס וברודקום דנות בהנפקות אג\"ח גדולות חדשות אפילו כשהתשואות עולות - דבר חריג, כיוון שחברות נוטות לצמצם גיוסי חוב כשהם מתייקרים - מה שלפי פייננשל טיימס בוחן את תיאבון המשקיעים אחרי חודשים של הנפקות חוב שיא בתחום ה-AI. אם השוק יתחיל לדרוש פרמיית סיכון גבוהה יותר על חוב הקשור ל-AI באופן כללי, התמחור מחדש הזה עשוי בסופו של דבר להגיע גם לצד המנייתי - בייחוד לחברות ששורפות מזומן בקצב של גוגל.",
+        "deep": "## רקע\n\nמחיר של אג\"ח והתשואה שלה נעים בכיוונים מנוגדים. כשחברה מנפיקה אג\"ח, היא נועלת זרם תשלומי קופון קבוע; אם הריבית בשוק עולה אחר כך, אג\"ח חדשות מציעות תשואה טובה יותר, כך שהאג\"ח הישנה עם הקופון הנמוך נהפכת לפחות אטרקטיבית, ומחירה בשוק יורד כדי לפצות על כך - התשואה האפקטיבית שלה עולה כדי להתאים לשוק, אף שהקופון עצמו לא משתנה. גודל התנודה במחיר לשינוי ריבית נתון נקרא משך חיים ממוצע (duration), והוא גדל עם הזמן לפדיון: אג\"ח שנפדית בעוד שנתיים כמעט לא זזה כשהריבית משתנה, בעוד שאג\"ח שנפדית בעוד 40 שנה יכולה לאבד חלק עצום מערכה מאותו שינוי ריבית בדיוק, כי המשקיעים מוותרים על הרבה יותר שנים של קופונים שנמוכים כעת ממה שהשוק מציע.\n\nזו בדיוק המלכודת שגוגל בנתה לעצמה, בלי משים, ב-2020. ריבית אפסית אפשרה לה לגייס הון בזול קיצוני, כולל אג\"ח שנפדות ב-2060. זו היתה עסקה מצוינת בזמנה. היא נהפכת לנטל על הנייר כשהריבית מתנרמלת, כי אותם עשרות שנים של תשלומים קבועים ונמוכים שווים הרבה פחות בשוק של היום.\n\n## הסיפור\n\nTheMarker מדווחת שאג\"ח ה-40 שנה של גוגל מאותו גיוס ב-2020 איבדו כ-55% מערכן ככל שתשואות הייחוס עלו. מבחינה מכנית, זה לא מפתיע - זו בעיקר תוצאה של האפקט של משך חיים ממוצע, לא יותר. המפתיע הוא שהמניה של גוגל לא צנחה בקרבת מקום. מחיר מניה הוא גם הוא, תיאורטית, הערך הנוכחי של תזרימי המזומנים העתידיים של החברה, מהוון בריבית שעולה ויורדת עם הריבית הכללית; ריבית גבוהה יותר צריכה להוריד מבחינה מכנית גם את מחיר האג\"ח וגם את מחיר המניה, אלא אם תזרימי המזומנים העתידיים הצפויים עולים מספיק כדי לקזז זאת. המשקיעים בפועל התערבו שהצמיחה המובלת על ידי AI של גוגל תהיה גדולה מספיק כדי להציף את ריבית ההיוון הגבוהה יותר - התערבות ששוקי המניות ביצעו לטובת ה-AI ברוב המגזר, בעוד ששוק האג\"ח, שאכפת לו רק מלקבל בחזרה סכום קבוע ולא משתתף ברווחים העתידיים, לא היה לו סיפור מקזז כזה, ופשוט תימחר את שינוי הריבית כמו שהוא.\n\nהפער בין פסיקות שני השווקים נבחן כעת מזווית אחרת. בלומברג מדווחת שספייס-אקס וברודקום נמצאות בשיחות על הנפקות אג\"ח גדולות אף שהתשואות עולות - דבר בולט, כי תשואות עולות בדרך כלל מרתיעות מגיוס חוב, בגלל שהשירות של חוב חדש נהיה יקר יותר. במקום זאת, חברות הקשורות ל-AI ממשיכות להנפיק אג\"ח בקצב מהיר כדי לממן מרכזי נתונים ושבבים. פייננשל טיימס מדווחת שזה בוחן את תיאבון המשקיעים אחרי חודשים של הנפקות שיא: הביקוש לחוב חדש הקשור ל-AI כבר לא סופג באופן אוטומטי את ההיצע הגדל.\n\n## אפקטים מסדר שני\n\nכשההיצע של אג\"ח גדל מהר יותר מהביקוש של המשקיעים לו, מנפיקים בדרך כלל נאלצים להציע תשואה גבוהה יותר, או מרווח (spread) רחב יותר מעל חוב ממשלתי חסר סיכון, כדי לסגור עסקאות - בפועל פרמיית סיכון גבוהה יותר למגזר. הפרמיה הזו היא שיפוט שוק על סיכון אשראי באופן ספציפי: הסיכוי שהלווה לא יחזיר סכום קבוע, שיפוט שבדרך כלל צר ולעיתים קשוח יותר מהאופטימיות הפתוחה שמגולמת בתמחור מניות. אם פרמיית הסיכון הזו תמשיך לעלות בקרב מנפיקים הקשורים ל-AI, היא מעלה את עלויות המימון העתידיות של כולם לתשתיות AI - עניין קריטי לחברות שלפי TheMarker שורפות מזומן בקצב שיא כדי לממן את אותן תשתיות בדיוק. חברה שמתמודדת גם עם עלויות מימון גבוהות יותר וגם עם שריפת מזומן מתמשכת נאלצת בסופו של דבר להאט את ההוצאות, לגייס הון נוסף (בדילול בעלי המניות), או לספוג שחיקת רווחיות - כל אחת מהאפשרויות היא בדיוק סוג הפגיעה הקונקרטית בתזרים שעלולה סוף סוף לתת למשקיעי מניות סיבה לבחון מחדש את הנחות הצמיחה שהגנו עד כה על מניות ה-AI מפסיקת שוק האג\"ח.\n\n## למה לשים לב בהמשך\n\nכדאי לעקוב אם הנפקות האג\"ח של ספייס-אקס וברודקום בפועל יתומחרו, ובאיזה מרווח מעל חוב דומה בדרגת השקעה - מרווח רחב יסמן שהשוק כבר גובה פרמיית סיכון ספציפית ל-AI ולא רק מגיב לתזוזות ריבית כלליות. כדאי לעקוב גם אם אג\"ח ארוכות-טווח נוספות של חברות חשופות ל-AI ימשיכו להציג ביצועים גרועים יותר ממניותיהן, כי פער מתמשך כזה בין שני השווקים יעיד שמשקיעי אשראי רואים סיכונים שמשקיעי מניות עדיין בוחרים להתעלם מהם."
+      },
+      "tags": [
+        "ai",
+        "bonds",
+        "google",
+        "credit-markets",
+        "big-tech"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "המלכודת של גוגל: איגרת החוב שצנחה ב–55% מסבירה מדוע גם המניה בסכנה",
+          "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-1acb-dbd6-a5a5-9bff02a90000"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "AI borrowing slows as investors grow wary of debt binge",
+          "url": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4061.71,
+      "prev_close": 4089.9399,
+      "change_pct": -0.69,
+      "as_of": "2026-10-09"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7811.54,
+      "prev_close": 7765.3599,
+      "change_pct": 0.59,
+      "as_of": "2026-10-09"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0599,
+      "prev_close": 3.0624,
+      "change_pct": -0.08,
+      "as_of": "2026-10-10"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 104.72,
+      "prev_close": 104.28,
+      "change_pct": 0.42,
+      "as_of": "2026-10-09"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 82873.2734,
+      "prev_close": 82546.3203,
+      "change_pct": 0.4,
+      "as_of": "2026-10-11"
+    }
+  }
+}
