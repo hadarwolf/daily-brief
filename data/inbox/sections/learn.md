@@ -43,7 +43,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1987,
    "text": "An estimated 750,000 people attended the \"Great March\" in Washington, D.C., to demand greater civil rights for the LGBT community.",
    "context": [
-    "The Second National March on Washington for Lesbian and Gay Rights was a large political rally that took place in Washington, D.C., on October 11, 1987. Around 750,000 people participated. Its success, size, scope, and historical importance have led to it being called, \"The Great March\". It marked the first national coverage of ACT UP, with AIDS activists prominent in the main march, as well as making headlines the next day during mass civil disobedience actions at the United States Supreme Court Building."
+    "The Second National March on Washington for Lesbian and Gay Rights was a large political rally that took place in Washington, D.C., on October 11, 1987. Around 750,000 people participated. Its success, size, scope, and historical importance have led to it being called \"The Great March\". It marked the first national coverage of ACT UP, with AIDS activists prominent in the main march, as well as making headlines the next day during mass civil disobedience actions at the United States Supreme Court Building."
    ]
   },
   {

@@ -18,105 +18,105 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Banque du Caire Offers 30% Stake in Egypt’s Second IPO in Month",
+     "published": "2026-10-11T08:47:33+00:00",
+     "summary": "Banque du Caire will sell a 30% stake via Egypt’s stock exchange, a long-awaited state-asset sale that would also be the country’s second major initial public offering in a month."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Healey Plans Short-Term UK Budget Giveaways to Limit Fiscal Pain",
      "published": "2026-10-11T06:00:00+00:00",
      "summary": "Chancellor of the Exchequer John Healey wants to help British voters with the cost of living while staying within the limits of his country’s stretched public finances. To square this circle, he’s planning a series of strictly short-term giveaways — and hoping the war in Iran comes to an end."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "India Protests Set to Continue Despite Heavy Delhi Security",
      "published": "2026-10-11T05:24:47+00:00",
      "summary": "Parts of New Delhi remained under tight security for a second straight day as protesters pressed ahead with their demand for the resignation of India’s top election official over a contentious revision of voter rolls."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "China Issues Draft Standards for Remanufactured Automotive Parts",
      "published": "2026-10-11T03:21:56+00:00",
      "summary": "China released draft rules that would establish nationwide requirements for automotive-parts remanufacturing, including standards for the sourcing of used components, product quality, traceability and market oversight."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "India’s Rupee Defense Raises Question of How Far RBI Will Go",
      "published": "2026-10-11T03:00:03+00:00",
      "summary": "The Reserve Bank of India is broadening its defenses to steady the rupee, taking some of its strongest measures since the 2013 taper tantrum. That may give the currency a boost as trading resumes Monday, but the question remains: how far is the central bank willing to go as external pressures mount?"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
      "published": "2026-10-11T00:00:00+00:00",
      "summary": "South Korea spent much of this year as a poster child of the scorching global AI trade. Now, by almost every measure, the $4.3 trillion stock market is rapidly losing relevance with investors."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
      "published": "2026-10-10T19:00:00+00:00",
      "summary": "When financing gets more expensive, companies usually slow down their bond sales. Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc. only amplified investor fears about the wave of coming debt."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Strong Earnings Keep US Stocks in Favor",
      "published": "2026-10-10T17:37:41+00:00",
      "summary": "PNC Asset Management Chief Investment Officer Amanda Agati tells Bloomberg This Weekend that strong corporate fundamentals and resilient consumer spending could support US stocks as investors head into third-quarter earnings season. Speaking with hosts David Gura and Christina Ruffini, Agati says investors will be watching for evidence that AI investment is generating returns beyond the largest te"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
      "published": "2026-10-10T17:18:11+00:00",
      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Viral Handbags Turn Small Designer Into Fashion Star",
      "published": "2026-10-10T17:15:26+00:00",
      "summary": "New York Handbag Designer Pierre Laborde tells Bloomberg This Weekend that a viral TikTok video transformed his handmade leather bags from a longtime fixture at a local street market into a sought-after fashion accessory, with demand now exceeding his small team's production capacity. Speaking with hosts David Gura and Christina Ruffini, Laborde says he plans to preserve the individuality and craf"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "By The Way: Headlines You May Have Missed",
      "published": "2026-10-10T17:02:42+00:00",
      "summary": "The growing debate over video calls on airplanes, premium California wines selling at steep discounts under supermarket private labels, a new rivalry between New York diners featuring singing waiters and the growing popularity of elaborate tuna carving experiences at high-end sushi restaurants. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but go"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Hurricane Isaias May Cost Insurers Billions",
      "published": "2026-10-10T16:19:51+00:00",
      "summary": "Bloomberg Intelligence Senior Insurance Equity Analyst Matthew Palazola tells Bloomberg This Weekend that Hurricane Isaias could generate insured losses in the single-digit billions of dollars, with stronger Florida building codes potentially limiting damage despite rising property values. Speaking with hosts David Gura and Christina Ruffini, Palazola says two relatively mild hurricane seasons hav"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Russia Plague Scare Raises Public Health Questions",
      "published": "2026-10-10T16:11:03+00:00",
      "summary": "Baylor College of Medicine Tropical Medicine Expert Dr. Peter Hotez tells Bloomberg This Weekend that the unexplained death of a researcher at a Russian plague institute raises questions about a possible pneumonic plague infection, although there is no evidence of a wider outbreak or biological weapons activity. Speaking with hosts David Gura and Christina Ruffini, Hotez calls for an independent W"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Russian Diesel Deal Unlikely to Lower US Prices",
      "published": "2026-10-10T16:03:23+00:00",
      "summary": "Bloomberg Economics Economic Statecraft Lead Chris Kennedy tells Bloomberg This Weekend that President Donald Trump's agreement to obtain Russian diesel is unlikely to significantly lower US fuel prices because the proposed November shipment amounts to roughly one day of American consumption. Speaking with hosts David Gura and Christina Ruffini, Kennedy says damage to Russian refineries, logistica"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Banana Ball Takes Its Baseball Show Nationwide",
      "published": "2026-10-10T15:33:50+00:00",
      "summary": "Banana Ball Championship League Owner Jesse Cole tells Bloomberg This Weekend that the Savannah Bananas have built a new kind of baseball experience around faster games, elaborate entertainment and affordable tickets, helping create a wait list of roughly 5 million fans. Speaking with hosts David Gura and Christina Ruffini, Cole says the league plans to keep expanding its audience in the US and in"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Jefferies Says Found Fraud in $900 Million of Radiant Deals",
      "published": "2026-10-10T15:03:27+00:00",
      "summary": "A Jefferies-run fund said in court proceedings that it has evidence of alleged fraudulent conduct by iron ore traders Radiant World and Sapphire Minmetals in receivables-financing deals with a face value of almost $900 million."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Restaurant Theft Adds to Rising Dining Costs",
      "published": "2026-10-10T14:26:18+00:00",
      "summary": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that diners are taking everything from silverware and glassware to artwork and bathroom fixtures, adding replacement costs for restaurants already struggling with tight profit margins. Speaking with hosts David Gura and Christina Ruffini, Krader also discusses the return of late night dining in cities including New York and Lo"
-    },
-    {
-     "ref": "bloomberg_markets#16",
-     "title": "Hurricane Isaias Slams Florida Panhandle",
-     "published": "2026-10-10T12:43:13+00:00",
-     "summary": "AccuWeather Correspondent Bill Wadell joins hosts David Gura and Christina Ruffini on Bloomberg This Weekend from Pensacola Beach, Florida, where Hurricane Isaias made landfall as a Category 2 storm, bringing damaging winds, flooding and widespread power outages across the Gulf Coast. Wadell says the storm has weakened as it moves inland, but downed power lines, debris and continued flooding remai"
     },
     {
      "ref": "bloomberg_markets#17",
@@ -144,63 +144,63 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+     "published": "2026-10-11T09:15:26+00:00",
+     "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "India’s ‘Cockroach’ leaders released as movement calls for more protests",
      "published": "2026-10-11T07:03:40+00:00",
      "summary": "Abhijeet Dipke of the youth-led Cockroach Janta Party was let go by a court order as police tightened security in New Delhi"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
      "published": "2026-10-11T05:26:18+00:00",
      "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "US justice department probes TV networks over Trump pool coverage",
      "published": "2026-10-11T04:28:25+00:00",
      "summary": "ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "The problem with your AI therapist",
      "published": "2026-10-11T04:00:16+00:00",
      "summary": "Millions are turning to chatbots for help with mental health but a technology that can’t go beyond words won’t heal them"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "The fall of Germany’s ex-spymaster",
      "published": "2026-10-11T04:00:15+00:00",
      "summary": "August Hanning is accused of having illegally purchased state secrets for over a decade"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "Why are our children not flourishing at school?",
      "published": "2026-10-11T04:00:06+00:00",
      "summary": "AI is detonating the tired system of factory education that has predominated since the last century"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
      "published": "2026-10-11T04:00:06+00:00",
      "summary": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "Trump is failing to arrest decline in popularity, FT poll shows",
      "published": "2026-10-11T04:00:06+00:00",
      "summary": "Voters increasingly doubt the president’s ability to steer the economy with weeks to go until elections"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "China’s growing debt burden limits space for economic stimulus",
      "published": "2026-10-11T04:00:06+00:00",
      "summary": "Mounting interest payments restrict headroom to revive domestic demand, say experts"
-    },
-    {
-     "ref": "ft_home#9",
-     "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
-     "published": "2026-10-10T22:18:05+00:00",
-     "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels"
     },
     {
      "ref": "ft_home#10",
@@ -216,7 +216,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "אחרי שסבל מתפוסה נמוכה ארבע שנים — יוקם מוזיאון אופנה בעזריאלי שרונה",
+     "title": "פתרון לתפוסה הנמוכה? יוקם מוזיאון אופנה בעזריאלי שרונה בהשקעה של 9 מיליון שקל",
      "published": "2026-10-11T08:54:43+00:00",
      "summary": "המוזיאון, באוצרותה של ד\"ר יערה קידר, צפוי להיפתח בתחילת 2027 ולהשתרע על שלוש קומות ■ הכנסותיו יתבססו על כרטיסים לתערוכות, חנות והסעדה, ובעזריאלי צופים שהוא יגדיל את פדיונות יתר העסקים במתחם ■ לפי הערכות, סיווגו של הנכס בדו\"חות הכספיים ישתנה לרכוש קבוע"
     },
@@ -371,153 +371,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Home Sellers Are Starting to Blink on Prices. That’s Bad for Builders.",
+     "published": "2026-10-11T09:30:00+00:00",
+     "summary": "Competition for buyers is heating up, which will force companies like Lennar and KB home to beef up incentives."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
+     "published": "2026-10-11T09:30:00+00:00",
+     "summary": "The WSJ quarterly survey reveals that forecasters think inflation, Federal Reserve rate increases and debt will keep borrowing costs higher for longer."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
      "published": "2026-10-11T02:46:00+00:00",
      "summary": "Indexed annuities guarantee no market losses, but insurers can periodically adjust the formula for returns."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "At Robinhood’s Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich",
      "published": "2026-10-10T02:00:00+00:00",
      "summary": "The stock market is back at records. These everyday Americans are one reason why."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#4",
      "title": "Kalshi Examines Bets on Trump’s Pick for New White House Press Secretary",
      "published": "2026-10-09T21:47:00+00:00",
      "summary": "The prediction market is examining a series of trades that correctly predicted the appointment of Katie Zacharia, who wasn’t previously seen as a front-runner."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#5",
      "title": "As Yields Surged, Small-Cap Stocks Were Hit Hard",
      "published": "2026-10-09T21:45:00+00:00",
      "summary": "The Russell 2000, which tracks the shares of small companies, closed Friday on a five-week losing streak."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#6",
      "title": "Dollar Finishes Fourth Straight Week of Gains",
      "published": "2026-10-09T21:45:00+00:00",
      "summary": "The dollar finished its fourth straight week of gains on investors’ expectations that the Federal Reserve will continue to raise interest rates to rein in inflation."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#7",
      "title": "Oil Futures Settle Modestly Higher",
      "published": "2026-10-09T21:29:00+00:00",
      "summary": "Oil futures ended the session slightly higher with the market showing relief after President Trump said the U.S. won’t strike Iran before the U.S. midterm elections."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#8",
      "title": "CFTC Proposes to Expand Definition of Swaps to Include Prediction Markets Trading",
      "published": "2026-10-09T21:20:00+00:00",
      "summary": "The expanded term would encompass event contracts on sporting, political, cultural and weather-related events, the CFTC said."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-10-09T21:08:00+00:00",
      "summary": "Find insight on gold futures, Anglo American, Fortescue, West African Resources and more in the latest Market Talks covering basic materials."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "U.S. Natural Gas Futures Settle Higher",
      "published": "2026-10-09T21:06:00+00:00",
      "summary": "U.S. natural gas futures recovered the previous session’s losses as markets focus on Hurricane Isaias as it approaches the U.S. Gulf coast."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "Energy & Utilities Roundup: Market Talk",
      "published": "2026-10-09T21:03:00+00:00",
      "summary": "Find insight on oil rigs, oil futures, BP and more in the latest Market Talks covering energy and utilities."
     },
     {
-     "ref": "wsj_markets#10",
-     "title": "Auto & Transport Roundup: Market Talk",
-     "published": "2026-10-09T21:00:00+00:00",
-     "summary": "Find insight on United Airlines, Delta Air Lines and more in the latest Market Talks covering the auto and transport sector."
-    },
-    {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "U.S. Stocks Rise as Iran Escalation Fears Subside",
      "published": "2026-10-09T20:51:00+00:00",
      "summary": "U.S. stocks rose after President Donald Trump said the U.S. would not strike Iran before the mid-term elections, quelling concerns about an escalation of the Middle East war and related energy-market chaos."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "SpaceX’s Wireless Move Trips Up Telecoms",
      "published": "2026-10-09T20:35:00+00:00",
      "summary": "Plus, yields rise and Delta cuts its profit outlook"
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "Global Bond Yields Edge Higher on Slowing Bond Selloff",
      "published": "2026-10-09T19:00:00+00:00",
      "summary": "U.S. and European yields rose, but stayed below recent highs as the global bonds selloff eased."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#15",
      "title": "Gold Futures Snap Two-Week Losing Streak",
      "published": "2026-10-09T18:40:00+00:00",
      "summary": "Gold futures rose to end the week modestly higher and snapped a two-week losing streak."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#16",
      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
      "published": "2026-10-09T15:45:00+00:00",
      "summary": "Multiple catalysts could drive the price of bitcoin up before the end of the year, according to analysts."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#17",
      "title": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
      "published": "2026-10-09T14:51:00+00:00",
      "summary": "The former New York governor signed on as co-chairman of OKXICE, a joint venture between U.S. exchange powerhouse ICE and OKX that plans to tokenize stocks."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#18",
      "title": "Prudential Financial’s Japanese Businesses Get Suspension, Improvement Orders from Regulator After Misconduct",
      "published": "2026-10-09T13:20:00+00:00",
      "summary": "Japan’s top financial regulator issued business suspension and improvement orders to Prudential Financial’s business units in the country after misconduct by more than 100 of the firm’s employees."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-10-09T13:14:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "How a Binance ‘High-Value Customer’ Established a Financial Lifeline for Iran",
      "published": "2026-10-09T11:36:00+00:00",
      "summary": "A previously unreported Binance document reveals how an Iranian network used the crypto exchange to move money against the wishes of Western governments."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#21",
      "title": "The Morning Risk Report: The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
      "published": "2026-10-09T11:26:00+00:00",
      "summary": "Plus: Vance says U.S. will suspend Microsoft and other firms from green card program, and rogue pilots are a growing safety threat."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#22",
      "title": "Qatar National Bank Targets Digital Infrastructure, Real Estate Financing as Profit Rises, CEO Says",
      "published": "2026-10-09T10:53:00+00:00",
      "summary": "Qatar’s largest bank is seeking to capture more cross-border trade and investment flows, as it reports a 4.9% rise in profit despite disruptions from the Iran war."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "European Stocks Seen Performing in Line With Global Peers",
      "published": "2026-10-09T10:41:00+00:00",
      "summary": "European equities were set to perform in line with global peers after a period of underperformance, Bank of America said."
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "Borrowing Costs’ Double Whammy Boosts Recession Odds",
      "published": "2026-10-09T10:39:00+00:00",
      "summary": "Plus, cellphone service from Elon?"
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
-     "published": "2026-10-09T09:30:00+00:00",
-     "summary": "The chip maker quietly signaled a new way of thinking about the competing demands of capital returns and building its AI ecosystem."
     }
    ]
   }
@@ -553,9 +553,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82961.5938,
+   "last": 82944.3125,
    "prev_close": 82912.2266,
-   "change_pct": 0.06,
+   "change_pct": 0.04,
    "as_of": "2026-10-11"
   }
  },

@@ -27,6 +27,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-1"
     },
     {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-10T11:30:00Z",
+     "home": "Charlton",
+     "away": "Bristol City",
+     "status": "FINISHED",
+     "score": "1-1"
+    },
+    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-10T11:30:00Z",
      "home": "Arsenal",
@@ -41,14 +49,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Norwich",
      "status": "FINISHED",
      "score": "2-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-10T11:30:00Z",
-     "home": "Charlton",
-     "away": "Bristol City",
-     "status": "FINISHED",
-     "score": "1-1"
     },
     {
      "competition": "Primera Division",
@@ -85,14 +85,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-10T13:30:00Z",
-     "home": "Augsburg",
-     "away": "Bayern",
-     "status": "FINISHED",
-     "score": "2-2"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-10T13:30:00Z",
      "home": "Union Berlin",
      "away": "Elversberg",
      "status": "FINISHED",
@@ -105,6 +97,38 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Stuttgart",
      "status": "FINISHED",
      "score": "0-2"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-10T13:30:00Z",
+     "home": "Augsburg",
+     "away": "Bayern",
+     "status": "FINISHED",
+     "score": "2-2"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-10T14:00:00Z",
+     "home": "Aston Villa",
+     "away": "Brentford",
+     "status": "FINISHED",
+     "score": "2-2"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-10T14:00:00Z",
+     "home": "Watford",
+     "away": "Burnley",
+     "status": "FINISHED",
+     "score": "0-4"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-10T14:00:00Z",
+     "home": "Middlesbrough",
+     "away": "Wolverhampton",
+     "status": "FINISHED",
+     "score": "1-0"
     },
     {
      "competition": "Premier League",
@@ -141,26 +165,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Aston Villa",
-     "away": "Brentford",
+     "home": "Chelsea",
+     "away": "Bournemouth",
      "status": "FINISHED",
-     "score": "2-2"
+     "score": "5-1"
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Watford",
-     "away": "Burnley",
+     "home": "Preston NE",
+     "away": "Millwall",
      "status": "FINISHED",
-     "score": "0-4"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Middlesbrough",
-     "away": "Wolverhampton",
-     "status": "FINISHED",
-     "score": "1-0"
+     "score": "0-1"
     },
     {
      "competition": "Championship",
@@ -177,22 +193,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Cardiff",
      "status": "FINISHED",
      "score": "2-1"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Chelsea",
-     "away": "Bournemouth",
-     "status": "FINISHED",
-     "score": "5-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-10T14:00:00Z",
-     "home": "Preston NE",
-     "away": "Millwall",
-     "status": "FINISHED",
-     "score": "0-1"
     },
     {
      "competition": "Primera Division",
@@ -277,6 +277,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-10T18:45:00Z",
+     "home": "Lorient",
+     "away": "Paris FC",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-10T18:45:00Z",
      "home": "Brest",
      "away": "Angers SCO",
      "status": "FINISHED",
@@ -291,12 +299,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-2"
     },
     {
-     "competition": "Ligue 1",
+     "competition": "Serie A",
      "kickoff_utc": "2026-10-10T18:45:00Z",
-     "home": "Lorient",
-     "away": "Paris FC",
+     "home": "Napoli",
+     "away": "Frosinone",
      "status": "FINISHED",
-     "score": "1-0"
+     "score": "3-0"
     },
     {
      "competition": "Ligue 1",
@@ -305,14 +313,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Le Mans",
      "status": "FINISHED",
      "score": "3-1"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-10T18:45:00Z",
-     "home": "Napoli",
-     "away": "Frosinone",
-     "status": "FINISHED",
-     "score": "3-0"
     },
     {
      "competition": "Primera Division",
@@ -415,22 +415,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-11T13:00:00Z",
-     "home": "Lazio",
-     "away": "Monza",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-11T13:00:00Z",
-     "home": "Hull City",
-     "away": "Everton",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-11T13:00:00Z",
      "home": "Lecce",
      "away": "Bologna",
      "status": "TIMED",
@@ -441,6 +425,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-11T13:00:00Z",
      "home": "Crystal Palace",
      "away": "Nottingham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-11T13:00:00Z",
+     "home": "Lazio",
+     "away": "Monza",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-11T13:00:00Z",
+     "home": "Hull City",
+     "away": "Everton",
      "status": "TIMED",
      "score": null
     },
@@ -583,16 +583,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-11T20:30:00Z",
-     "home": "Palmeiras",
-     "away": "Corinthians",
+     "home": "Flamengo",
+     "away": "Fluminense",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-11T20:30:00Z",
-     "home": "Flamengo",
-     "away": "Fluminense",
+     "home": "Palmeiras",
+     "away": "Corinthians",
      "status": "TIMED",
      "score": null
     }
@@ -1113,57 +1113,57 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Messi fires twice as Inter Miami thrash DC United 4-0 - The Sun Nigeria",
+     "published": "2026-10-11T09:34:06+00:00",
+     "summary": "Messi fires twice as Inter Miami thrash DC United 4-0 The Sun Nigeria"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Messi scores twice as Inter Miami beat D.C. United 4-0 - UA.NEWS",
      "published": "2026-10-11T08:59:05+00:00",
      "summary": "Messi scores twice as Inter Miami beat D.C. United 4-0 UA.NEWS"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
+     "title": "Messi doesn't stop scoring and keeps closing the gap in the race to 1,000 goals with Cristiano Ronaldo - MARCA",
+     "published": "2026-10-11T08:22:23+00:00",
+     "summary": "Messi doesn't stop scoring and keeps closing the gap in the race to 1,000 goals with Cristiano Ronaldo MARCA"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Lionel Messi shines for Inter Miami shortly after his farewell to Argentina - Goal.com",
      "published": "2026-10-11T08:19:39+00:00",
      "summary": "Lionel Messi shines for Inter Miami shortly after his farewell to Argentina Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
-     "title": "Messi scores twice in first match since Argentina goodbye - Yahoo Sports",
-     "published": "2026-10-11T07:24:39+00:00",
-     "summary": "Messi scores twice in first match since Argentina goodbye Yahoo Sports"
+     "ref": "gnews_inter_miami#4",
+     "title": "Lionel Messi delivers masterclass following Argentina retirement - MLSsoccer.com",
+     "published": "2026-10-11T07:58:05+00:00",
+     "summary": "Lionel Messi delivers masterclass following Argentina retirement MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
      "title": "Post-Match Facts | #MCFvDC - D.C. United",
      "published": "2026-10-11T07:19:12+00:00",
      "summary": "Post-Match Facts | #MCFvDC D.C. United"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#6",
      "title": "Video: Messi celebrates in his own way after international retirement - Goal.com",
      "published": "2026-10-11T07:15:16+00:00",
      "summary": "Video: Messi celebrates in his own way after international retirement Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#5",
-     "title": "Lionel Messi delivers masterclass following Argentina retirement - MLSsoccer.com",
-     "published": "2026-10-11T07:07:30+00:00",
-     "summary": "Lionel Messi delivers masterclass following Argentina retirement MLSsoccer.com"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Messi, Suarez Score Braces as Inter Miami End Winless Run With 4-0 Victory - TVC News",
      "published": "2026-10-11T06:40:00+00:00",
      "summary": "Messi, Suarez Score Braces as Inter Miami End Winless Run With 4-0 Victory TVC News"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Inter Miami player ratings vs DC United: Luis Suarez and Lionel Messi dismantle visitors in four-goal rout - Goal.com",
      "published": "2026-10-11T06:37:11+00:00",
      "summary": "Inter Miami player ratings vs DC United: Luis Suarez and Lionel Messi dismantle visitors in four-goal rout Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#8",
-     "title": "Miami 4-0 D.C. United (Oct 10, 2026) Game Analysis - ESPN",
-     "published": "2026-10-11T06:36:25+00:00",
-     "summary": "Miami 4-0 D.C. United (Oct 10, 2026) Game Analysis ESPN"
     },
     {
      "ref": "gnews_inter_miami#9",
@@ -1173,21 +1173,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#10",
+     "title": "Lionel Messi, Luis Suarez score braces as Inter Miami beat D.C. United 4-0 in MLS - Telangana Today",
+     "published": "2026-10-11T05:41:28+00:00",
+     "summary": "Lionel Messi, Luis Suarez score braces as Inter Miami beat D.C. United 4-0 in MLS Telangana Today"
+    },
+    {
+     "ref": "gnews_inter_miami#11",
      "title": "Messi and Suárez roll back the years as Inter Miami thrash DC United - Diario AS",
      "published": "2026-10-11T05:37:09+00:00",
      "summary": "Messi and Suárez roll back the years as Inter Miami thrash DC United Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami Player Ratings: Messi, Suarez Star in 4-0 Win - The False 9",
      "published": "2026-10-11T05:35:44+00:00",
      "summary": "Inter Miami Player Ratings: Messi, Suarez Star in 4-0 Win The False 9"
-    },
-    {
-     "ref": "gnews_inter_miami#12",
-     "title": "Inter Miami vs DC United: Major League Soccer stats & head-to-head - BBC",
-     "published": "2026-10-11T05:20:31+00:00",
-     "summary": "Inter Miami vs DC United: Major League Soccer stats & head-to-head BBC"
     },
     {
      "ref": "gnews_inter_miami#13",
@@ -1209,51 +1209,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#16",
+     "title": "Lionel Messi Scores Twice For Inter Miami In 1st Game Since Argentina Retirement - FOX Sports",
+     "published": "2026-10-11T04:51:09+00:00",
+     "summary": "Lionel Messi Scores Twice For Inter Miami In 1st Game Since Argentina Retirement FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
+     "title": "Lionel Messi scores twice for Inter Miami in first game since Argentina farewell - The National",
+     "published": "2026-10-11T04:47:42+00:00",
+     "summary": "Lionel Messi scores twice for Inter Miami in first game since Argentina farewell The National"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
+     "title": "Lionel Messi hits 934 career goals: Where does Cristiano Ronaldo stand in the race to 1,000? - Bolavip US",
+     "published": "2026-10-11T04:42:59+00:00",
+     "summary": "Lionel Messi hits 934 career goals: Where does Cristiano Ronaldo stand in the race to 1,000? Bolavip US"
+    },
+    {
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami player ratings vs DC United: Luis Suarez and Lionel Messi dismantle visitors in four-goal rout - Yahoo",
      "published": "2026-10-11T04:37:00+00:00",
      "summary": "Inter Miami player ratings vs DC United: Luis Suarez and Lionel Messi dismantle visitors in four-goal rout Yahoo"
     },
     {
-     "ref": "gnews_inter_miami#17",
-     "title": "Inter Miami Destroy DC United 4-0! Lionel Messi and Luis Suárez Score Two Goals Each in an MLS Masterclass - Pasión Fútbol",
-     "published": "2026-10-11T04:01:00+00:00",
-     "summary": "Inter Miami Destroy DC United 4-0! Lionel Messi and Luis Suárez Score Two Goals Each in an MLS Masterclass Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
-     "title": "Luis Suárez Strikes First! The Uruguayan Scores Twice as Inter Miami Crush DC United 4-0 in MLS - Pasión Fútbol",
-     "published": "2026-10-11T03:58:22+00:00",
-     "summary": "Luis Suárez Strikes First! The Uruguayan Scores Twice as Inter Miami Crush DC United 4-0 in MLS Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Lionel Messi Scores Twice for Inter Miami and Reaches 934 Career Goals! The Countdown to 1,000 Is On - Pasión Fútbol",
-     "published": "2026-10-11T03:55:53+00:00",
-     "summary": "Lionel Messi Scores Twice for Inter Miami and Reaches 934 Career Goals! The Countdown to 1,000 Is On Pasión Fútbol"
-    },
-    {
      "ref": "gnews_inter_miami#20",
-     "title": "Messi nets brace to win in first match after Argentina exit - Prothom Alo English",
-     "published": "2026-10-11T03:55:33+00:00",
-     "summary": "Messi nets brace to win in first match after Argentina exit Prothom Alo English"
+     "title": "Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United - BBC",
+     "published": "2026-10-11T04:32:22+00:00",
+     "summary": "Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United BBC"
     },
     {
      "ref": "gnews_inter_miami#21",
-     "title": "Inter Miami Dream of Leagues Cup Glory! Lionel Messi's Star-Studded Team Emerges as a Major MLS Contender - Pasión Fútbol",
-     "published": "2026-10-11T03:53:20+00:00",
-     "summary": "Inter Miami Dream of Leagues Cup Glory! Lionel Messi's Star-Studded Team Emerges as a Major MLS Contender Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami CF - D.C. United 3 - 0 | BUT - Leo Messi - OneFootball",
      "published": "2026-10-11T03:49:09+00:00",
      "summary": "Inter Miami CF - D.C. United 3 - 0 | BUT - Leo Messi OneFootball"
     },
     {
+     "ref": "gnews_inter_miami#22",
+     "title": "Messi scores twice for Inter Miami four days after Argentina farewell - News.com.au",
+     "published": "2026-10-11T03:30:05+00:00",
+     "summary": "Messi scores twice for Inter Miami four days after Argentina farewell News.com.au"
+    },
+    {
      "ref": "gnews_inter_miami#23",
-     "title": "Miami down DC United as Messi nets brace in first match after Argentina farewell - The Daily Star",
-     "published": "2026-10-11T03:17:49+00:00",
-     "summary": "Miami down DC United as Messi nets brace in first match after Argentina farewell The Daily Star"
+     "title": "Messi scores a double, Inter Miami wins big after leaving Argentina - Laodong.vn",
+     "published": "2026-10-11T03:16:27+00:00",
+     "summary": "Messi scores a double, Inter Miami wins big after leaving Argentina Laodong.vn"
     },
     {
      "ref": "gnews_inter_miami#24",
@@ -1299,72 +1299,66 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#5",
-     "title": "Video - Trail Blazers Get Surprising Postseason Projection From ESPN - roundtable.io",
-     "published": "2026-10-10T01:07:09+00:00",
-     "summary": "Video - Trail Blazers Get Surprising Postseason Projection From ESPN roundtable.io"
-    },
-    {
-     "ref": "gnews_israeli_nba#6",
      "title": "What I Changed My Mind About After Blazers Win vs. Warriors - Sports Illustrated",
      "published": "2026-10-09T19:00:01+00:00",
      "summary": "What I Changed My Mind About After Blazers Win vs. Warriors Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#6",
      "title": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers - Rip City Project",
      "published": "2026-10-09T15:03:36+00:00",
      "summary": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#7",
      "title": "Max Fried’s postseason woes continue — but there’s good news - Jewish Telegraphic Agency",
      "published": "2026-10-09T15:00:00+00:00",
      "summary": "Max Fried’s postseason woes continue — but there’s good news Jewish Telegraphic Agency"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#8",
      "title": "NBA Most Improved Player Odds & Favorites for 2027 - sports.betmgm.com",
      "published": "2026-10-09T07:00:00+00:00",
      "summary": "NBA Most Improved Player Odds & Favorites for 2027 sports.betmgm.com"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#9",
      "title": "Philadelphia 76ers at Brooklyn Nets - NBA Game Summary - Oct 08, 2026 - USA Today",
      "published": "2026-10-09T02:59:03+00:00",
      "summary": "Philadelphia 76ers at Brooklyn Nets - NBA Game Summary - Oct 08, 2026 USA Today"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "LeBron loses in Philadelphia debut in preseason game - against Wolf and Ben Saraf - Ynetnews",
      "published": "2026-10-09T02:50:33+00:00",
      "summary": "LeBron loses in Philadelphia debut in preseason game - against Wolf and Ben Saraf Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Video - Trail Blazers Should Make Deflections a Public Standard - roundtable.io",
      "published": "2026-10-09T01:42:31+00:00",
      "summary": "Video - Trail Blazers Should Make Deflections a Public Standard roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "4 Winners, 2 Losers from Blazers Preseason Opener vs. Warriors - Yahoo",
      "published": "2026-10-08T21:13:41+00:00",
      "summary": "4 Winners, 2 Losers from Blazers Preseason Opener vs. Warriors Yahoo"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija goes for team-high 23 points vs. GSW - NBC Sports",
      "published": "2026-10-08T18:32:36+00:00",
      "summary": "Deni Avdija goes for team-high 23 points vs. GSW NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Trail Blazers' Deni Avdija: Hits for team-high 23 in preseason win - CBS Sports",
      "published": "2026-10-08T14:24:51+00:00",
      "summary": "Trail Blazers' Deni Avdija: Hits for team-high 23 in preseason win CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija News: Hits for team-high 23 in preseason win - RotoWire",
      "published": "2026-10-08T14:24:51+00:00",
      "summary": "Deni Avdija News: Hits for team-high 23 in preseason win RotoWire"
