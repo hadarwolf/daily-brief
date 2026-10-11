@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Saudi Arabia - AP News",
+     "published": "2026-10-11T09:13:49+00:00",
+     "summary": "Saudi Arabia AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-10-11T09:11:56+00:00",
+     "summary": "Artificial intelligence AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-11T09:11:54+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-10-11T09:09:55+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Trending News - AP News",
+     "published": "2026-10-11T09:01:55+00:00",
+     "summary": "Trending News AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-10-11T08:59:55+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "International News - AP News",
+     "published": "2026-10-11T08:59:54+00:00",
+     "summary": "International News AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Latest news - AP News",
+     "published": "2026-10-11T08:59:54+00:00",
+     "summary": "Latest news AP News"
+    },
+    {
+     "ref": "ap_world#8",
      "title": "Storms - AP News",
      "published": "2026-10-11T08:56:04+00:00",
      "summary": "Storms AP News"
     },
     {
-     "ref": "ap_world#1",
-     "title": "Artificial intelligence - AP News",
-     "published": "2026-10-11T08:53:51+00:00",
-     "summary": "Artificial intelligence AP News"
-    },
-    {
-     "ref": "ap_world#2",
-     "title": "College football - AP News",
-     "published": "2026-10-11T08:51:53+00:00",
-     "summary": "College football AP News"
-    },
-    {
-     "ref": "ap_world#3",
+     "ref": "ap_world#9",
      "title": "New York City - AP News",
      "published": "2026-10-11T08:48:02+00:00",
      "summary": "New York City AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#10",
      "title": "Florida Gators football - AP News",
      "published": "2026-10-11T08:44:00+00:00",
      "summary": "Florida Gators football AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-10-11T08:42:38+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
-    },
-    {
-     "ref": "ap_world#6",
+     "ref": "ap_world#11",
      "title": "Africa News Reports | Latest News in Africa - AP News",
      "published": "2026-10-11T08:42:36+00:00",
      "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#12",
      "title": "AP News Search - AP News",
      "published": "2026-10-11T08:39:53+00:00",
      "summary": "AP News Search AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#13",
      "title": "College sports - AP News",
      "published": "2026-10-11T08:39:51+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#14",
      "title": "Wall Street retreats from its record as stocks fall worldwide - AP News",
      "published": "2026-10-11T08:37:54+00:00",
      "summary": "Wall Street retreats from its record as stocks fall worldwide AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#15",
      "title": "Protests and demonstrations - AP News",
      "published": "2026-10-11T08:33:52+00:00",
      "summary": "Protests and demonstrations AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#16",
      "title": "Texas - AP News",
      "published": "2026-10-11T08:33:52+00:00",
      "summary": "Texas AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#17",
      "title": "United Nations - AP News",
      "published": "2026-10-11T08:33:50+00:00",
      "summary": "United Nations AP News"
     },
     {
-     "ref": "ap_world#13",
-     "title": "Soccer - AP News",
-     "published": "2026-10-11T08:33:48+00:00",
-     "summary": "Soccer AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "China - AP News",
-     "published": "2026-10-11T08:29:44+00:00",
-     "summary": "China AP News"
-    },
-    {
-     "ref": "ap_world#15",
+     "ref": "ap_world#18",
      "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
      "published": "2026-10-11T08:23:50+00:00",
      "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#19",
      "title": "Military and defense - AP News",
      "published": "2026-10-11T08:23:50+00:00",
      "summary": "Military and defense AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-11T08:23:48+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
      "title": "Crime - AP News",
      "published": "2026-10-11T08:23:48+00:00",
      "summary": "Crime AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "Gun violence - AP News",
-     "published": "2026-10-11T08:22:15+00:00",
-     "summary": "Gun violence AP News"
+     "ref": "ap_world#21",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-11T08:19:44+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#22",
      "title": "Europe News | Breaking European News Today - AP News",
      "published": "2026-10-11T08:17:44+00:00",
      "summary": "Europe News | Breaking European News Today AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#23",
      "title": "Asia Pacific - AP News",
      "published": "2026-10-11T08:17:43+00:00",
      "summary": "Asia Pacific AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#24",
      "title": "Golf - AP News",
      "published": "2026-10-11T08:17:41+00:00",
      "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Trending News - AP News",
-     "published": "2026-10-11T08:01:48+00:00",
-     "summary": "Trending News AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "International News - AP News",
-     "published": "2026-10-11T07:59:40+00:00",
-     "summary": "International News AP News"
     }
    ]
   },
