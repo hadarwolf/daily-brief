@@ -75,14 +75,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-1"
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-11T13:00:00Z",
-     "home": "Nice",
-     "away": "Strasbourg",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-11T13:00:00Z",
      "home": "Lecce",
@@ -97,6 +89,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Everton",
      "status": "FINISHED",
      "score": "2-2"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-11T13:00:00Z",
+     "home": "Nice",
+     "away": "Strasbourg",
+     "status": "FINISHED",
+     "score": "2-1"
     },
     {
      "competition": "Serie A",
@@ -155,20 +155,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "4-1"
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-11T15:30:00Z",
-     "home": "Freiburg",
-     "away": "Schalke",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-11T15:30:00Z",
      "home": "Liverpool",
      "away": "Man City",
      "status": "FINISHED",
      "score": "0-3"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-11T15:30:00Z",
+     "home": "Freiburg",
+     "away": "Schalke",
+     "status": "FINISHED",
+     "score": "2-1"
     },
     {
      "competition": "Serie A",
@@ -195,20 +195,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-0"
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-11T18:45:00Z",
-     "home": "Cagliari",
-     "away": "Juventus",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-11T18:45:00Z",
      "home": "Troyes",
      "away": "Marseille",
      "status": "FINISHED",
      "score": "0-2"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-11T18:45:00Z",
+     "home": "Cagliari",
+     "away": "Juventus",
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -237,10 +237,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-11T20:30:00Z",
-     "home": "Palmeiras",
-     "away": "Corinthians",
+     "home": "Grêmio",
+     "away": "Internacional",
      "status": "FINISHED",
-     "score": "4-1"
+     "score": "1-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -253,10 +253,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-11T20:30:00Z",
-     "home": "Grêmio",
-     "away": "Internacional",
+     "home": "Palmeiras",
+     "away": "Corinthians",
      "status": "FINISHED",
-     "score": "1-1"
+     "score": "4-1"
     }
    ],
    "today": [
@@ -285,10 +285,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primera Division",
+     "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-12T19:00:00Z",
-     "home": "Levante",
-     "away": "Sevilla FC",
+     "home": "Coritiba",
+     "away": "Botafogo",
      "status": "TIMED",
      "score": null
     },
@@ -301,10 +301,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Campeonato Brasileiro Série A",
+     "competition": "Primera Division",
      "kickoff_utc": "2026-10-12T19:00:00Z",
-     "home": "Coritiba",
-     "away": "Botafogo",
+     "home": "Levante",
+     "away": "Sevilla FC",
      "status": "TIMED",
      "score": null
     },
@@ -925,15 +925,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#14",
-     "title": "MLS - Lionel Messi scores twice as Inter Miami thrash DC United - BBC",
-     "published": "2026-10-11T16:27:15+00:00",
-     "summary": "MLS - Lionel Messi scores twice as Inter Miami thrash DC United BBC"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
      "title": "MLS Roundup: Lionel Messi shows his class, Seattle Sounders are back for real, and Charlotte FC will be a playoff nightmare - Goal.com",
      "published": "2026-10-11T15:45:16+00:00",
      "summary": "MLS Roundup: Lionel Messi shows his class, Seattle Sounders are back for real, and Charlotte FC will be a playoff nightmare Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#15",
+     "title": "MLS - Lionel Messi scores twice as Inter Miami thrash DC United - BBC",
+     "published": "2026-10-11T15:42:57+00:00",
+     "summary": "MLS - Lionel Messi scores twice as Inter Miami thrash DC United BBC"
     },
     {
      "ref": "gnews_inter_miami#16",
@@ -1033,12 +1033,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#6",
+     "title": "What I Changed My Mind About After Blazers Win vs. Warriors - Sports Illustrated",
+     "published": "2026-10-09T19:00:01+00:00",
+     "summary": "What I Changed My Mind About After Blazers Win vs. Warriors Sports Illustrated"
+    },
+    {
+     "ref": "gnews_israeli_nba#7",
      "title": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers - Rip City Project",
      "published": "2026-10-09T15:03:36+00:00",
      "summary": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Max Fried’s postseason woes continue — but there’s good news - Jewish Telegraphic Agency",
      "published": "2026-10-09T15:00:00+00:00",
      "summary": "Max Fried’s postseason woes continue — but there’s good news Jewish Telegraphic Agency"

@@ -80,6 +80,8 @@ My understanding (for various reasons including this tweet from an ex-OpenAI pos
 
 I think it’s unlikely but not completely impossible that we could be in a situation where the Lean-formalization step always “works”, even for broken proofs, but where nobody at OpenAI has yet noticed that there’s something fishy going on with their Lean-formalization workflow.
 
+I don’t have good guesses either way, but I always remember being surprised that for DeepSeek’s ProverV2 even a small model was able to exploit a technique that held up to enough scrutiny to make it into v1 of their paper:
+
 Yes, this was also my intuition, which is why I've always assumed that worries about bugs in the Lean kernel are overblown.
 
 Is it possible that some Lean bugs are only exploitable on certain problems? Or would pretty much every useful bug allow you to prove that True = False? It may not be obvious if the AI were to find the former kind of bug.
