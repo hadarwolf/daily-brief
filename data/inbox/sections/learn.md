@@ -24,150 +24,153 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2002,
-   "text": "A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.",
+   "year": 2013,
+   "text": "Twelve people were killed in an apartment-building collapse (pictured) in Medellín, leading to new construction laws being passed in Colombia.",
    "context": [
-    "The Myyrmanni bombing took place on October 11, 2002, in Myyrmäki, Vantaa, Finland, in Greater Helsinki, at the Myyrmanni shopping mall. A bomb hidden in a backpack exploded in the center of the mall, killing seven people including the bomber. The blast left a 10-cm deep crater in the floor and blew out the glass dome of the mall. The dead included two teenagers and a seven-year-old. 159 people were injured, including 10 children. 66 victims required hospitalization while the remainder were treated and released at the scene. The bombing took place during the pre-weekend shopping surge late on a Friday afternoon, with 1,000–2,000 people in the shopping center, including many children who had come to see a clown performance."
+    "The collapse of the Space Building occurred on the night of 12 October 2013, when Tower 6 of the Space Building, a residential apartment complex, collapsed in Medellín, Colombia, killing 12 people. Local authorities evacuated the rest of the building to avoid an imminent new collapse. The cost of the building was more than Col$40.6 billion."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1987,
-   "text": "Sri Lankan Civil War: The Indian Peace Keeping Force began Operation Pawan to take control of Jaffna from the Tamil Tigers and enforce their disarmament as a part of the Indo-Sri Lanka Accord.",
+   "year": 1992,
+   "text": "An earthquake with a magnitude of 5.8 or 5.9 struck south of Cairo, Egypt, killing 545 people.",
    "context": [
-    "The Sri Lankan civil war was fought in Sri Lanka from 1983 to 2009. Beginning on 23 July 1983, it was an intermittent insurgency against the government by the Liberation Tigers of Tamil Eelam led by Velupillai Prabhakaran. The LTTE fought to create an independent Tamil state called Tamil Eelam in the north-east of the island in response to continuous discrimination and violent persecution against Sri Lankan Tamils by the predominantly Sinhalese government of Sri Lanka."
+    "Seismic magnitude scales are used to describe the overall strength or \"size\" of an earthquake. These are distinguished from seismic intensity scales that categorize the intensity or severity of ground shaking (quaking) caused by an earthquake at a given location. Magnitudes are usually determined from measurements of an earthquake's seismic waves as recorded on a seismogram. Magnitude scales vary based on what aspect of the seismic waves are measured and how they are measured. Different magnitude scales are necessary because of differences in earthquakes, the information available, and the purposes for which the magnitudes are used."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1987,
-   "text": "An estimated 750,000 people attended the \"Great March\" in Washington, D.C., to demand greater civil rights for the LGBT community.",
+   "year": 1984,
+   "text": "The Provisional Irish Republican Army detonated a bomb at the Grand Hotel in Brighton, England, in a failed attempt to assassinate British prime minister Margaret Thatcher and her cabinet.",
    "context": [
-    "The Second National March on Washington for Lesbian and Gay Rights was a large political rally that took place in Washington, D.C., on October 11, 1987. Around 750,000 people participated. Its success, size, scope, and historical importance have led to it being called \"The Great March\". It marked the first national coverage of ACT UP, with AIDS activists prominent in the main march, as well as making headlines the next day during mass civil disobedience actions at the United States Supreme Court Building."
+    "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. It was the most active republican paramilitary group during the Troubles. It argued that the all-island Irish Republic continued to exist, and it saw itself as that state's army, the sole legitimate successor to the original IRA from the Irish War of Independence. It was designated a terrorist organisation in the United Kingdom and an unlawful organisation in the Republic of Ireland, both of whose authority it rejected."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1984,
-   "text": "Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan (pictured) became the first American woman to perform a space walk.",
+   "year": 1979,
+   "text": "Typhoon Tip, the largest and most intense tropical cyclone ever recorded, reached a worldwide record-low sea-level pressure of 870 mbar (25.69 inHg) in the western Pacific Ocean.",
    "context": [
-    "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the commanding ship of a nineteenth-century scientific expedition that traveled the world, Challenger was the second Space Shuttle orbiter to fly into space after Columbia, and launched on its maiden flight in April 1983. It was destroyed in January 1986 soon after launch in a disaster that killed all seven crew members aboard."
+    "Typhoon Tip, known in the Philippines as Super Typhoon Warling, was the largest and most intense tropical cyclone ever recorded worldwide. The forty-third tropical depression, nineteenth tropical storm, twelfth typhoon, and third super typhoon of the 1979 Pacific typhoon season, Tip developed out of a disturbance within the monsoon trough on October 4 near Pohnpei in Micronesia. Initially, Tropical Storm Roger to the northwest hindered the development and motion of the system, although after the storm tracked farther north, Tip was able to intensify due to more favorable conditions within the region. After passing Guam, Tip rapidly intensified and reached peak sustained winds of 305 km/h (190 mph) and a worldwide record-low sea-level pressure of 870 hPa (25.69 inHg) on October 12. At its peak, Tip was the largest tropical cyclone on record, with a windfield diameter of 2,220 km (1,380 mi). The typhoon briefly entered the area of warning responsibility for PAGASA on October 13, which gave it the Filipino name Warling. Tip slowly weakened as it continued west-northwestward and later turned to the northeast, in response to an approaching trough. After its approach, Tip made landfall in southern Japan on October 19, and became an extratropical cyclone shortly after its landfall. The system's extratropical remnants continued moving east-northeastward, until they dissipated near the Aleutian Islands on October 24."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1973,
-   "text": "Typhoon Nora, the fourth-most intense tropical cyclone on record, dissipated after killing 40 people and leaving more than a million homeless across Taiwan and the Philippines.",
+   "year": 1978,
+   "text": "While in prison for murder, boxer James Scott defeated Eddie \"The Flame\" Gregory, a leading light heavyweight.",
    "context": [
-    "Typhoon Nora, known in the Philippines as Super Typhoon Luming, is tied for the third-most intense tropical cyclone on record. Originating from an area of low pressure over the western Pacific, Nora was first identified as a tropical depression on October 2, 1973. Tracking generally westward, the system gradually intensified, attaining typhoon status the following evening. After turning northwestward, the typhoon underwent a period of rapid intensification, during which its central pressure decreased by 77 mb in 24 hours. At the end of this phase, Nora peaked with winds of 295 km/h (185 mph) and a pressure of 875 mb, making it the most-intense tropical cyclone on record at the time; however, this pressure has since been tied with Typhoon June, and surpassed by Typhoon Tip and Hurricane Patricia. The typhoon subsequently weakened and turned northwestward as it approached the Philippines. After brushing Luzon on October 7, the system passed south of Taiwan and ultimately made landfall in China on October 10. Once onshore, Nora quickly weakened and dissipated the following day."
+    "James Onque Scott Jr. was an American boxer and convicted felon. He became the second-highest-ranked contender in the World Boxing Association's (WBA) light heavyweight division while incarcerated at Rahway State Prison in Avenel, New Jersey. Scott fought a total of 22 professional fights, 11 of which were contested while he was in prison. Scott earned pay and WBA rankings from many of those fights, which was considered controversial."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1968,
-   "text": "Apollo 7, the first manned mission of NASA's Apollo program, and the first three-man American space mission, launched from Complex 34 in Cape Kennedy, Florida.",
+   "year": 1960,
+   "text": "Soviet leader Nikita Khrushchev reportedly pounded his shoe on a desk during a meeting of the United Nations General Assembly in protest at a speech by Philippine delegate Lorenzo Sumulong.",
    "context": [
-    "Apollo 7 was the first crewed flight in NASA's Apollo program, and saw the resumption of human spaceflight by the agency after the fire that killed the three Apollo 1 astronauts during a launch rehearsal test on January 27, 1967. The Apollo 7 crew was commanded by Walter M. Schirra, with Command Module Pilot Donn F. Eisele and Lunar Module pilot R. Walter Cunningham."
+    "Nikita Sergeyevich Khrushchev was the First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and the Chairman of the Council of Ministers from 1958 to 1964. As leader of the Soviet Union, he shocked the world by denouncing his predecessor Joseph Stalin, embarking on a campaign of de-Stalinization, and presiding over the Cuban Missile Crisis in 1962."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1950,
-   "text": "A field-sequential color system developed by Hungarian-American engineer Peter Goldmark became the first color television system to be adopted for commercial use, only for it to be abandoned a year later.",
+   "year": 1960,
+   "text": "Japan Socialist Party leader Inejirō Asanuma (pictured) was assassinated during a live television recording by a far-right ultra-nationalist using a short sword.",
    "context": [
-    "\nA field-sequential color system (FSC) is a color television system in which the primary color information is transmitted in successive images and which relies on the human vision system to fuse the successive images into a color picture. One field-sequential system was developed in 1940 by Guillermo González Camarena. The Federal Communications Commission adopted it on October 11, 1950, as the standard for color television in the United States. Its regular broadcast debut was on June 25, 1951. However, a few months later, CBS ended color broadcasting on October 20, 1951. In March 1953, CBS withdrew its color system as a standard, creating an opening for all-electronic color systems from other manufacturers."
+    "The Japan Socialist Party  was a major socialist, progressive, and left-wing political party in Japan. Established in 1945, the party was the primary representative of the Japanese left and main opponent of the right-wing Liberal Democratic Party for most of its existence."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1950,
-   "text": "CBS's field-sequential color system for television was the first to be licensed for broadcast by the U.S. Federal Communications Commission.",
+   "year": 1946,
+   "text": "Il Canto degli Italiani is adopted as national anthem by the newly formed Italian Republic.",
    "context": [
-    "CBS Broadcasting Inc. is an American commercial broadcast television network and the flagship property of the CBS Entertainment Group division of Skydance Corporation. It is one of Skydance's three flagship subsidiaries, along with Paramount Pictures and MTV."
+    "\"Il Canto degli italiani\" is a patriotic song written by Goffredo Mameli and set to music by Michele Novaro in 1847, currently used as the national anthem of Italy. It is known among Italians as the \"Inno di Mameli\"—after the author of the lyrics—or as \"Fratelli d'Italia\"—from the song's opening line. The piece, in 44 time signature and B-flat major key, has six strophes, and a refrain sung after each. The sixth group of verses, almost never performed, recalls the text of the first strophe."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1942,
-   "text": "World War II: At the Battle of Cape Esperance on the northwest coast of Guadalcanal, American ships intercepted and defeated a Japanese fleet sent to attack Henderson Field.",
+   "year": 1933,
+   "text": "The United States Department of Justice acquired a military prison on Alcatraz Island in San Francisco Bay, to be transformed into the last-resort Alcatraz Federal Penitentiary.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The United States Department of Justice (DOJ) is an executive department of the United States federal government that oversees the domestic enforcement of federal laws and the administration of justice. It is equivalent to the justice or interior ministries of other countries. The department is headed by the United States attorney general, who reports directly to the president of the United States and is a member of the president's Cabinet. Todd Blanche currently serves as the attorney general."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1937,
-   "text": "Former British king Edward and his wife arrived at Berlin Friedrichstraße station to begin a tour of Nazi Germany, where they were greeted with Nazi salutes and dined with high-ranking members of the state apparatus.",
+   "year": 1928,
+   "text": "The iron lung (example pictured), a type of medical ventilator, was used for the first time at the Boston Children's Hospital to treat an eight-year-old girl paralyzed by polio.",
    "context": [
-    "Edward VIII, later known as the Duke of Windsor, was King of the United Kingdom and the British Dominions, and Emperor of India, from 20 January 1936 until his abdication in December of the same year."
+    "An iron lung is negative pressure ventilator and mechanical respirator which encloses most of the patient's body. The air pressure inside the enclosed space stimulates breathing. The device is used to assist breathing when muscle control is lost. This treatment was historically helpful for polio and botulism, and for counteracting the effects of barbiturates and tubocurarine.\nThe iron lung has become largely obsolete in modern medicine, replaced by more advanced breathing therapies. Polio eradication in most of the world also reduced the need for the iron lung. In 2020, during the COVID-19 pandemic, interest in these devices was revived as a cheap, readily-producible substitute for positive-pressure ventilators which were in short supply."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1890,
-   "text": "In Washington, D.C., the Daughters of the American Revolution was founded.",
+   "year": 1917,
+   "text": "First World War: New Zealand troops suffered more than 2,000 casualties, including more than 800 deaths, in the First Battle of Passchendaele, making it the nation's largest loss of life in one day.",
    "context": [
-    "Washington, D.C., officially the District of Columbia and commonly shortened to Washington, or DC, is the capital city of the United States, and its only federal district."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1865,
-   "text": "The Morant Bay rebellion, led by Paul Bogle and George William Gordon, began in Jamaica; after protestors burned down the courthouse, it was brutally suppressed by Governor Edward John Eyre.",
+   "year": 1898,
+   "text": "A statue of Austin Blair (pictured) was dedicated in a ceremony that attracted up to 30,000 people to Lansing, Michigan.",
    "context": [
-    "The Morant Bay Rebellion began with a protest march to the courthouse in Morant Bay, Jamaica, by hundreds of people led by preacher Paul Bogle. Some were armed with sticks and stones. After seven men were shot and killed by the volunteer militia, the protesters attacked and burned the courthouse and nearby buildings. Twenty-five people died. Over the next two days, poor freedmen rose in rebellion across most of St. Thomas-in-the-East parish."
+    "Austin Blair is a monument located on the grounds of the Michigan State Capitol in Lansing, Michigan, United States. It consists of a bronze statue that was designed by sculptor Edward Clark Potter atop a granite pedestal that was designed by the architectural firm of Donaldson and Meier. It was dedicated in 1898 in honor of Austin Blair, a politician who had served as the governor of Michigan and as a member of the United States House of Representatives."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1852,
-   "text": "The University of Sydney (pictured), Australia's oldest university, was inaugurated two years after being established by the University of Sydney Act.",
+   "year": 1892,
+   "text": "The Pledge of Allegiance of the United States was first used in public schools to coincide with the opening of the World's Columbian Exposition in Chicago.",
    "context": [
-    "The University of Sydney (USYD) is a public research university in Sydney, Australia. Founded in 1850, it is the oldest university in both Australia and Oceania. One of Australia's six sandstone universities, it was one of the world's first universities to admit students solely on academic merit, and opened its doors to women on the same basis as men. The university comprises eight academic faculties and university schools, through which it offers bachelor, master and doctoral degrees."
+    "The U.S. Pledge of Allegiance is a patriotic recited verse that promises allegiance to the flag of the United States and the republic of the United States. The first version was written in 1885 by Captain George Thatcher Balch, a Union army officer in the Civil War who later wrote a book on how to teach patriotism to children in public schools. In 1892, Francis Bellamy revised Balch's verse as part of a magazine promotion surrounding the World's Columbian Exposition, which celebrated the 400th anniversary of Christopher Columbus' arrival in the Americas."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1840,
-   "text": "Bashir Shihab II (pictured) surrendered to the Ottoman Empire and was removed as Emir of Mount Lebanon after an imperial decree by Sultan Abdülmecid I.",
+   "year": 1890,
+   "text": "The Uddevalla Suffrage Association was founded in Uddevalla, Sweden, with the purpose of bringing about universal suffrage.",
    "context": [
-    "Bashir Shihab II was a Lebanese emir who ruled the Emirate of Mount Lebanon between 1788 –1840. Born to a branch of the Shihab family which had converted from Sunni Islam, the religion of previous Shihabi emirs, he was the only Maronite ruler of the Mount Lebanon Emirate."
+    "\nThe Uddevalla Suffrage Association was a late-19th-century political movement founded in Uddevalla, Sweden. Local historians and the Swedish Social Democratic Party consider it the first political predecessor of the Swedish labour movement in the province of Bohuslän. Its purpose was to bring about universal suffrage in Sweden: At the time, suffrage in the country was restricted to men and based on personal wealth, therefore excluding most of the urban and rural working class from the electoral process. The Uddevalla Suffrage Association was one of many groups throughout Sweden that helped bring democratic thought into the common discourse and make way for the political breakthrough of the labour movement."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1797,
-   "text": "French Revolutionary Wars: The Royal Navy captured eleven Dutch Navy ships without any losses at the Battle of Camperdown.",
+   "year": 1799,
+   "text": "Jeanne Geneviève Garnerin became the first woman to make a parachute descent, falling 900 metres (3,000 ft) in the gondola of a hot air balloon.",
    "context": [
-    "The French Revolutionary Wars were a series of sweeping military conflicts resulting from the French Revolution that lasted from 1792 until 1802. They pitted France against Great Britain, Austria, Prussia, Russia, and several other countries. The wars are divided into two periods: the War of the First Coalition (1792–1797) and the War of the Second Coalition (1798–1802). Initially confined to Europe, the fighting gradually assumed a global dimension. After a decade of constant warfare and aggressive diplomacy, France had conquered territories in the Italian peninsula, the Low Countries, and the Rhineland with its very large and powerful military which had been totally mobilized for war against most of Europe with mass conscription of the vast French population. French success in these conflicts ensured military occupation and the spread of revolutionary principles over much of Europe."
+    "Jeanne Geneviève Garnerin was a French balloonist and parachutist. She was the first to ascend solo and the first woman to make a parachute descent, from an altitude of 900 metres (3,000 ft) on 12 October 1799."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1776,
-   "text": "American Revolutionary War: A British fleet defeated American ships at the Battle of Valcour Island on Lake Champlain, but gave American forces enough time to prepare their defenses for the Saratoga campaign.",
+   "year": 1798,
+   "text": "The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers.",
    "context": [
-    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British monarchy acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
+    "The Peasants' War was a peasant revolt in 1798 against the French Republican occupiers of the Southern Netherlands, a region which now includes Belgium, Luxembourg, and parts of Germany. The French had annexed the region in 1795 and control of the region was officially ceded to the French after the Treaty of Campo Formio in 1797. The revolt is considered part of the French Revolutionary Wars."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1311,
-   "text": "The peerage and clergy of the Kingdom of England published the Ordinances of 1311 to restrict King Edward II's powers.",
+   "year": 1492,
+   "text": "Believing he had reached the East Indies, Christopher Columbus made landfall on an island in the Caribbean, sparking a series of events that led to the European colonization of the Americas.",
    "context": [
-    "The Peerage of England comprises all peerages created in the Kingdom of England before the Act of Union in 1707. From that year, the Peerages of England and Scotland were closed to new creations, and new peers were created in a single Peerage of Great Britain. There are five peerages in the United Kingdom in total.\nEnglish Peeresses obtained their first seats in the House of Lords under the Peerage Act 1963 from which date until the passage of the House of Lords Act 1999 all Peers of England could sit in the House of Lords."
+    "The East Indies is a term used in historical narratives of the Age of Discovery. The Indies broadly referred to various lands in the East or the Eastern Hemisphere, particularly the islands and mainlands found in and around the Indian Ocean by Portuguese explorers, soon after the Cape Route was discovered. In a narrow sense, the term was used to refer to the Malay Archipelago, which today comprises the Indonesian Archipelago, New Guinea, and the Philippine Archipelago. Historically, the term was used in the Age of Discovery to refer to the coasts of the landmasses comprising the Indian subcontinent and the Indochinese Peninsula along with the Malay Archipelago."
    ]
   },
   {
    "ref": "wikipedia#17",
-   "year": 1142,
-   "text": "The Treaty of Shaoxing was ratified, ending the Jin–Song wars, although sporadic fighting continued until 1234.",
+   "year": 1406,
+   "text": "Chen Yanxiang, the only person from Indonesia known to have visited dynastic Korea, reached Seoul after having set out from Java four months before.",
    "context": [
-    "The Treaty of Shaoxing was the agreement and truce that ended the protracted military conflicts between the Jin dynasty and the Southern Song dynasty. It also legally drew up the boundaries of the two countries and forced the Song dynasty to renounce all claims to its former territories north of the Qinling Huaihe Line, which included its former capital of Kaifeng. Emperor Gaozong of Song subsequently executed the anti-Jin faction general Yue Fei after the treaty."
+    "Chen Yanxiang was a merchant of Chinese origin, probably based on the Indonesian island of Java, who visited Joseon Korea and Muromachi Japan between 1394 and 1412. The only source for his life is the Korean Joseon Veritable Records, from which a \"particularly colorful career\" can be seen."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Working capital (הון חוזר)",
+  "Sweat equity (הון מאמץ)",
+  "Low-hanging fruit (פרי בשל)",
   "Loss leader (מוצר-פיתיון)",
   "Soft landing (נחיתה רכה)",
   "Eat your own dog food (לעשות דוגפודינג)",

@@ -17,585 +17,540 @@
   },
   "bbc_football#0": {
    "outlet": "BBC Sport — Football",
-   "title": "'O'Neill unaware of trialist goalkeeper Inzalaco' - gossip",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmj47n97jv9lo?at_medium=RSS&at_campaign=rss"
+   "title": "'Call it a day with VAR' - Rooney on Palace's controversial goal",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cqlyendmk7wyo?at_medium=RSS&at_campaign=rss"
   },
   "bbc_football#1": {
    "outlet": "BBC Sport — Football",
-   "title": "Highlights and analysis on Match of the Day",
-   "url": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&at_campaign=rss"
+   "title": "'It's a bad situation' - Why Man City win creates uncertainty",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o?at_medium=RSS&at_campaign=rss"
   },
   "bbc_football#2": {
+   "outlet": "BBC Sport — Football",
+   "title": "'Big star' - How Doku delivered for Man City in win against Liverpool",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c8g47knxqvgdo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#3": {
+   "outlet": "BBC Sport — Football",
+   "title": "Rooney gives verdict on Gravenberch red card",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6ly0jdndez9o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#4": {
+   "outlet": "BBC Sport — Football",
+   "title": "Aston Villa planning Endrick move - Monday's gossip",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5gm01j87jl7o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#5": {
+   "outlet": "BBC Sport — Football",
+   "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#6": {
+   "outlet": "BBC Sport — Football",
+   "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#7": {
+   "outlet": "BBC Sport — Football",
+   "title": "Football Daily",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pg61sx?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#8": {
+   "outlet": "BBC Sport — Football",
+   "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#9": {
+   "outlet": "BBC Sport — Football",
+   "title": "Hull continue good start with entertaining Everton draw",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c61mvdy2mdx9o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#10": {
+   "outlet": "BBC Sport — Football",
+   "title": "Glasner suffers loss on Selhurst return as Palace beat Forest",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cwz0zkj27greo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#11": {
+   "outlet": "BBC Sport — Football",
+   "title": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#12": {
+   "outlet": "BBC Sport — Football",
+   "title": "'We deal with the noise' - Maresca 'proud' after Man City win",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#13": {
+   "outlet": "BBC Sport — Football",
+   "title": "Burnham to release details of Man City meetings",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#14": {
+   "outlet": "BBC Sport — Football",
+   "title": "Who 'simply has to do better'? Liverpool v Man City player ratings",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#15": {
+   "outlet": "BBC Sport — Football",
+   "title": "Jota comeback helps Celtic lift gloom in strong response",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#16": {
+   "outlet": "BBC Sport — Football",
+   "title": "Jota comeback helps Celtic lift gloom in strong response",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#17": {
+   "outlet": "BBC Sport — Football",
+   "title": "Reaction as Celtic bounce back and Aberdeen flounder",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pg5m3j?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#18": {
+   "outlet": "BBC Sport — Football",
+   "title": "Hughes focused on Albania before World Cup dream",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4ngv99mvo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#19": {
+   "outlet": "BBC Sport — Football",
+   "title": "Hughes focused on Albania before World Cup dream",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4ngv99mvo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#20": {
+   "outlet": "BBC Sport — Football",
+   "title": "Sharp retires after incredible 22-year career",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw7vpzzj0502o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#21": {
+   "outlet": "BBC Sport — Football",
+   "title": "Elton John 'upset and disappointed' with Watford form",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw3dj8802lnvo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#22": {
+   "outlet": "BBC Sport — Football",
+   "title": "Russo named England player of the year",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#23": {
+   "outlet": "BBC Sport — Football",
+   "title": "Russo named England player of the year",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_football#24": {
    "outlet": "BBC Sport — Football",
    "title": "Who am I? Plus today's other quizzes",
    "url": "https://www.bbc.co.uk/sport/football/articles/cmlylg0n5pg7o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_football#3": {
-   "outlet": "BBC Sport — Football",
-   "title": "Top five Liverpool-Man City moments",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cqvg0m1my97go?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#4": {
-   "outlet": "BBC Sport — Football",
-   "title": "Toxicity and uncertainty await Man City - will their season even matter?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#5": {
-   "outlet": "BBC Sport — Football",
-   "title": "'Absolutely superb' - How Caicedo proved pivotal in Chelsea win",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#6": {
-   "outlet": "BBC Sport — Football",
-   "title": "Man Utd midfield can't control games - Murphy",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#7": {
-   "outlet": "BBC Sport — Football",
-   "title": "AC Milan keen on Scott - Sunday's gossip",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#8": {
-   "outlet": "BBC Sport — Football",
-   "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#9": {
-   "outlet": "BBC Sport — Football",
-   "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#10": {
-   "outlet": "BBC Sport — Football",
-   "title": "Patience needed as new boss Reedijk bemoans Hibs 'imprecision'",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cv0ldzdgrlljo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#11": {
-   "outlet": "BBC Sport — Football",
-   "title": "Patience needed as new boss Reedijk bemoans Hibs 'imprecision'",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cv0ldzdgrlljo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#12": {
-   "outlet": "BBC Sport — Football",
-   "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#13": {
-   "outlet": "BBC Sport — Football",
-   "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#14": {
-   "outlet": "BBC Sport — Football",
-   "title": "'Tottenham needs this reaction' - De Zerbi defends Bentancur red",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cq39818v0ekzo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#15": {
-   "outlet": "BBC Sport — Football",
-   "title": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cqlye9evnm7lo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#16": {
-   "outlet": "BBC Sport — Football",
-   "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
-   "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#17": {
-   "outlet": "BBC Sport — Football",
-   "title": "Savage success and statement win for Boro - Sam Parkin's EFL Takeaways",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cw77prgk52zro?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#18": {
-   "outlet": "BBC Sport — Football",
-   "title": "Arbeloa 'doesn't feel fear' but pressure increases after loss",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqvgrey535n4o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#19": {
-   "outlet": "BBC Sport — Football",
-   "title": "Brentford extend unbeaten start as Ajer secures draw at Aston Villa",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cjwyz50g569zo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#20": {
-   "outlet": "BBC Sport — Football",
-   "title": "Struijk sees red but Brighton march on with win against Sunderland",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6n8m3k7egd9o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#21": {
-   "outlet": "BBC Sport — Football",
-   "title": "Ipswich produce late fightback to stun winless Fulham",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cw7v42y027gqo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#22": {
-   "outlet": "BBC Sport — Football",
-   "title": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#23": {
-   "outlet": "BBC Sport — Football",
-   "title": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_football#24": {
-   "outlet": "BBC Sport — Football",
-   "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss"
-  },
   "gnews_inter_miami#0": {
+   "outlet": "Google News — Inter Miami",
+   "title": "St. Louis CITY's historic tear, Inter Miami's rebound & more from Matchday 29 - MLSsoccer.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjBlRzc0Q091ME1FM1NOZ3FnQ1I1bGhpLXA4OUozQTFna0FXSDlGMDRKYW5pcUc1UlktT1VZTEh0ZHhuemFQeGhSRXU3azBod1FpOHZnTVVZN0NTTFBJOW13RFlIMWxuN3Y0eE1xTnA4ZmR1YWlBNkJ2YzBFSXM2cnZRcUo1MFhkLURhMnNpeU4yYmVLMlRfOGpLdExqeHBNel93RmF5Zw?oc=5"
+  },
+  "gnews_inter_miami#1": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Messi, Suárez Score Twice as Inter Miami Rout DC United - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16TEhiV1hydHlveERkWVFFdVAxSmtLM0JPdXloRl9WeFF6VDcxMTB4WVAtX3BNU3ZlU015ZllRd1Qtem43YXN4RUpjVl80TVd0T0ZIVWdUTFFnQUJOSUZJaGowQURDeFh4Zzh4WHhwbzBTVnBkS1Bqa1ZIMmNUdw?oc=5"
+  },
+  "gnews_inter_miami#2": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami get back to winning ways in style - Prost International [PINT]",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUdxdmxkZGhpYmVTWU5jREVnQlE3Zm1yN0NZUkxiNjRkNU9lem9XdzQtQjBteElFMTJCcFZQdXZTdDIwWERwVEU5VkRjeEt1YTUzRnNKNXo0X0pKYWRTdDJ6X2NKb0FJRkRxdWUwX0V0WXRqYzlyZUlDSFBUYUVFd1k1V3hjOXRIZlJ2T05Lc0xNQdIBlwFBVV95cUxQZTZ6cV9JU21TNGlRQU9mX21FRnRiNXZ2c1FxdXVjM05VV3FxM3dsNUxxNnNseVcxNk9ycjZ0d1dqLTdUcTRPNWR3dVBzMVV3djJNRVhfRzVuZ0c4RUNzSVYyRWVUT3YyNk5LcnZoUDl4QjJ0bEplWHpEdksxQVJYc21JWksxZHFjaDVBbW05eTQtM0JXZGU4?oc=5"
+  },
+  "gnews_inter_miami#3": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Messi bags brace for Inter Miami after Argentina retirement - Businessday NG",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnJhR3lOS2hWbWYwZXkxLXZEU2tMd1RkMzNaNTV3dTVVczNsRk5ZLTcwMzl5NVRkQkMwbk9uY18wMk1NZmpEck1XY2htSWp1SGRNVWRWdjJKcFVSckxTQWtjOTVGd3lfMjVJWTZtc1BjWTFVZUppb01tVXlMNDNFSDRuTnRoV3FFZTJhVVJKZ1JuRS1zX1RidXgza05ENVHSAaQBQVVfeXFMTWRxbnZxZTgwbUE5OThEZzExOFpIUV9EYm8yMkZycENfMWw4VDd0TDI0NEh1b0lMazlOVkdhYlBnUUROM19CNVRLcG5OenpCTDRzSThEY0E5elZBbUF1SGxNUGcxS184X05GdVB6Mm00Unh3UGRMLXVwN09SOHN3QVI2WDBFSWU0TWRKc3hPc29jUUpYa1FhZ3AtT0JkckNaRVU5NmU?oc=5"
+  },
+  "gnews_inter_miami#4": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Atlanta Utd v Inter Miami CF Odds - FanDuel Sportsbook",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdVozSkhRTGNRc0tzQUQxVUd5UlJqYU5OYmwxNGlocE00WmV2bGhOb1poU3dNbkdPeG1uOHJxVE9nMnpCa2xvd2d2QlZMRzZuUWNQNWdkUlduWlZ2TjVHb3ZyOG9zRHVVV3J1THdGRTQzZDk2aHBtYVVjUXBKUUVOSUFEcjJkMnhZVVE?oc=5"
+  },
+  "gnews_inter_miami#5": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami CF - D.C. United 1 - 0 | GOL - Luis Suárez - OneFootball",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEpvdlNJbXZRZ2o3QU5Hc2JlMlRBWUlkVVpKeEY1dlh6bEFPUnFEeWVLVFkwUTJBLXBvWVQwNktBeHZINHAxNjZuMEtJcXBnVXUxT25xNUdBNjhsVGlLbFZjVEFSaFNaRFhINXlTLUZpNXhXYlptNmpVNmhZOXhNakJLaHlSbmJTS3VXaVhrcw?oc=5"
+  },
+  "gnews_inter_miami#6": {
+   "outlet": "Google News — Inter Miami",
+   "title": "MLS - Lionel Messi scores for Inter Miami against DC United - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIdlZ1c0RoQ01GM2ZNendBMVFOYTBNdFFjTFBBdS1lMzNUZWcwTTJvcTl4bGotREdtNERMdzNjXzNCS1lUSVozcWpSaXVsc0FLSkNaYXNYV05Nck9BTF9kOEIyMnRFZw?oc=5"
+  },
+  "gnews_inter_miami#7": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Lionel Messi shines for Inter Miami shortly after his farewell to Argentina - Goal.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJ0U21LNkNKNWpId3NJM2lRaE0wWmVqek83MU5NZjVwVm9WUVl6ZmozSkVyeXNhZ2hTZkk4R3hiNWxUOVZPamdlb1M4eGtQRUJCb3NBam81U2pWWXl2N1k3LTd0cVd3Y1dOaHJxMTlObGQyNWNrc0Y1a0RGemwycURFYjJYV204c1NVdzhkaTl4S045eXJ1NmZjWlR2LTV3eFBOM3pCb1pVeS1HU09EQWZWZGtFNHg0SGl2ZzdZWF9rQQ?oc=5"
+  },
+  "gnews_inter_miami#8": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami CF - D.C. United 4 - 0 | GOAL - Leo Messi - OneFootball",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcG5ydC1KbThNRUlnRUZNUFNCWk5DWjRJRFpXcGtyV1BwdjNYd1F5dV9ZSXBTcnVpYTdLY1RMdWZ3Mlg2akotRXFkeG5IaS1Wc1c4d0hRSkFMZFViNnhZNEZka2xBZklDd3ZOd1pNWlRKMzFUb1FuSFl5YlRYZ2FUYk5IWVRNUzB1VnFOam5R?oc=5"
+  },
+  "gnews_inter_miami#9": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Messi Makes History! Brace and Records Cement Inter Miami Legacy - beIN SPORTS",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYl90bjV3Xzh2VVczT3R3WDlrYnFBUkU3UHRUV2VGMGk1WTB2NWZjdmk0UWUyanFOcXJaT3llenQ0ek5Pb0d2SkJjdlpJOTN4Wm10Vk9tdTNwMndlcnQ4UW1TcHRtZkZDZW1VZWJRVm1kS256MU1XaDdwMTliVmh1bk1kT0dCNWRSek1KYW9BeGJ4SklMYXhHSzRvOVNYRVowU2MzVjM4TmVBbEx6bTNldWFWN1owbUhXZWdsOGhFcm1zVU9pR2VSZE5XVTdwTHhGeTJoVnRVeWVrSFBQakdkQjFfbGNPaFFuWnNidg?oc=5"
+  },
+  "gnews_inter_miami#10": {
+   "outlet": "Google News — Inter Miami",
+   "title": "MLS Roundup: Lionel Messi shows his class, Seattle Sounders are back for real, and Charlotte FC will be a playoff nightmare - Goal.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPS3o1SHRrS1BLMUc0dGdZWjF0bS15YndWcHdzdVNvc2VoQ2k2Y18xV29hcjhMVi1yWTE0bDc4c2I4Z0NTOWZYdU9sZzZSdWlLbHNVblp5ZG5JaFRYRVJicXFoZ2F1ckpzcUt6ekc4dWtlUkxDVEYwbUtwdERydWtGZjJKdEg1bl9XSVB3YkVwc0NMRkNQRzB6SDlsbWtaWVlwcGc3eW93S2pSLUR6Mlg5YW1GR3hTM2pPc1M3azAwcVBwbFpPcHU3dTI5MEFqdVJ6V2ZTWS1scTBMcjdENDFiM2tmNzhaa28xeGVEYW81Nkl1Q1pyd0hXN19HckpFVTFzc3RTLU1nQ1U?oc=5"
+  },
+  "gnews_inter_miami#11": {
+   "outlet": "Google News — Inter Miami",
+   "title": "MLS - Lionel Messi scores twice as Inter Miami thrash DC United - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWbHlwZF8yWS03d3oyb3B0SGdHVkFLRE52R0U1OVBwYkktbmgyMEJLNnJxS0xwTGkyaFVhQ0hlUzBVUUptRFBXTF9OYWg1RV9CWnVJNEE2Vkp2c2tZTUJvTjBBYk9Vdw?oc=5"
+  },
+  "gnews_inter_miami#12": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami CF - D.C. United 1 - 0 | GOL - Luis Suárez - OneFootball",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDhUUnY1bm4ySURjQWhWa2dNazlpejY1N3dCcjhLZ1BCNkMxVDVOYXhDZlFBd2toeG01d1hWbG9BQ0pjbHowN1NINEFMdDNnSjBqNmVsMGpYQ29FSUFvYTFNVkpsWkpkU1I2R1A5SUhhOTJablM1Tl9venpmekMzdGlVOG9HWGlsTUJxRVhyUQ?oc=5"
+  },
+  "gnews_inter_miami#13": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Lionel Messi To Copa Libertadores? Inter Miami Coach Cristian Gonzlez Drops Major Hint - NDTV Sports",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDlEc0hZMURtdlNPMzVnZlVsUG1NbE5NOEdzOUVZSzBoT2Z5aTZiTi00aFVKQ2dDRTRMS2VhZlM4QVkxMHpXbGdmaVFKdHEyVDU1MmpRUGQ3VDZ3QUtCYkppYlBIdlF3WG12Y25odGZpVllzVXJQUEtFVTVFS2hkMkNkemYyU195VHZJcm5tandkY1I1OWZpYTlVWlprbWE5VWxXRWR3bm10OG9SRHNoQ1FBOTNnYTNyZTZMUXY3MlpoNXZrNEE?oc=5"
+  },
+  "gnews_inter_miami#14": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami - Kily Gonzalez aimerait voir Messi jouer la Libertadores - OneFootball",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0dNYVdSY2lyZlNiUXJvM0FpUUg4N1prb0MxeW9PdUZPLXZoUkNPdWhjWEZzSTlPSXFIMU8xS2JoQmFiN0l6c1d4TmxFT2NnVndQXzZIamRZZUU0TDNnV3hFY2pyMkc2MnpfR0xiR1JwRVZjTDhjaE8zT3A1TUU3eFV6c0ZZbjg1M2dhcERnc2t1bmswaVJsQ2xwYVhUWTJ1Xy0yYnN1R3NOM2xCYnc?oc=5"
+  },
+  "gnews_inter_miami#15": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Suarez knows he's a key player for Inter Miami - Gonzalez - SportyTV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQck5xTVRoSmEwSHJVcURXeVJGRTJ0WVluMGpVZWI5R3dMR1JNMTF1Rjk4UlNVZ2w4OENSMmFKQ3ZjSDNNMEQxMTBTU3NHWVRDSHhXT2pwc3UtaGdEd1JVOWx0RVRnQkRPQ2IzajJGQ3R5TUxxTkgzY1ptc1dLQl95TlowNGo5VW5pYlNMZ1l1ZnR3MFRKUE5xODRKeU9jU0NBR3ZaYnJ5ZmgwcXZhcnlBLQ?oc=5"
+  },
+  "gnews_inter_miami#16": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami coach open to Messi playing in Copa Libertadores - The News Mill",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXI3eDhQZmhDZWRGNE9ESXVGNXkya3A0Z2FudmpaaXZueE5sN1BpN1pnSFZ3YlVycmJldm5jd3Vna2NGbTJHX3F5bEVHS0RIemhRdE1FUFBsdkswME5OcERMejI3dDExT05CMmpmODNVdExsekhzam5HTW9fbDZndWJDeC1hQ0lfXzg4ZW9FWFZrSmNSd0p0Sg?oc=5"
+  },
+  "gnews_inter_miami#17": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Messi in Copa Libertadores? “We are ready for anything, and he certainly is,” says Inter Miami boss - The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2MwZVltVFNjMm82WXV1WmxheC1nVGVlaV9Ddk5zMGsta2hwcUk5ZnR3ZFcyMXlkWEludEllTXhJWWtLLXIwWVI5V0d1X01uVGNyVk1GR2h6V01ORGczWTlhSTNPVF9vTktBNHN3aWlrZExxYWhFQ2x5Zm4xU3FVLTBwck5tdm0tWE5KQm84cXdkQ0J1RE5hZkp4Q0hUYjRqa0F1MWxMT2tpeUFpRjUtcmJjbXc2aTEyVWt5ZUxaT21EaE5kZ3l0T2I5NENJZldRNXZFa2F30gHWAUFVX3lxTE9XYzBlWW1UU2MybzZZdXVabGF4LWdUZWVpX0N2TnMway1raHBxSTlmdHdkVzIxeWRYSW50SWVNeElZa0stcjBZUjlXR3VfTW5UY3JWTUZHaHpXTU5EZzNZOWFJM09UX29OS0E0c3dpaWtkTHFhaEVDbHlmbjFTcVUtMHByTm12bS1YTkpCbzhxd2RDQnVETmFmSnhDSFRiNGprQXUxbExPa2l5QWlGNS1yYmNtdzZpMTJVa3llTFpPbURoTmRneXRPYjk0Q0lmV1E1dkVrYXc?oc=5"
+  },
+  "gnews_inter_miami#18": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Messi 'constantly challenging' Inter Miami to improve - SportyTV",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb19KTWlvM1o4Z080X0k4SW9aQURZc3ZUQ3BQbDA0MkN3QWRnV2lKUmU0U3FLUENwY25MaEpfMkJsbHVmal8xUDNJXzZmU2JZNmZ5WFAxdmVEZXNTNjN5X3pIZDh5X0ZKQWk5Qndkbk4wQ2k0U0FFcjA2MzY2NDhZdHpHZXN6bFR5OV9JWFJaa09nY25QMkt3bGxpREZrc1FhdURsaHFwNWh6NGFScFg4elRYMmF2ZHpl?oc=5"
+  },
+  "gnews_inter_miami#19": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami 4-0 DC United: Messi and Suarez run the show - BeSoccer Livescore",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOHFFMWhoTlJuNG5vdG1Zbm8wS1hMUFN6a1ZmT3BxWFNRMV9OWG1OQVlTV29NeGNodEkxVnJiZU0wVjdUa0VteVVPLVlJeFNiUl9IRHVqQUpSUncxVjloUzFUQU9fZnpGMExDTExXS3BPQnE5VmFMZ0otbU5lems3ZTE0NEFCU2w2RWk4RHB1OVpfVVEyZ21Z0gGcAUFVX3lxTE1mbzlIcE1iNUhsU180bWh2bGRSMHM0NDRPc1Y0dWFJbVBwYUJjYVk5LXdCTkUtMWpzbXE3ZEkzazJrTnFnVmZWT1NPMXhfU2dZNllzNE82T2pZV3YxcjBMM0Z1WG12VEFrRHlGQUZyVTl5NWYzU09pREtYSnptRi1SQUdHVUFDNXdUaHc5SnlFNkl5TWs5VmU2VUVkbQ?oc=5"
+  },
+  "gnews_inter_miami#20": {
+   "outlet": "Google News — Inter Miami",
+   "title": "VIDEO: Watch Messi, Suarez in Inter Miami’s romp over D.C. United - Front Row Soccer",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDd5bDRfa2lQN0JzRUhNZDdNYzhFR2t2Z2FMdFVrY0ZVc2xHMFh4anpBd1pkTWxQNHRrUlFxVlg3bmJoRjJ0bUlsUFVVSmc0WkwyclFyQ1BBN3BkM0ViT2lkLUlIVm9jdXJubDl5SnRCZmI1ZlFoeVpockJVLUpHdWt6ckdoT0U4NzVzbXE5RktEOFBLYm0xbnNCVzRLUVUxd0lpdlFNaw?oc=5"
+  },
+  "gnews_inter_miami#21": {
+   "outlet": "Google News — Inter Miami",
+   "title": "STILL GOING STRONG: Messi strikes twice in Inter Miami’s 4-0 win over D.C. - Front Row Soccer",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2VFaU96VFR6YmRrNUxtRE04V1dIS1pFbXVSX3FyQnlSc0JyNTQ2X1JBQkNpb1RWMy1KY1BPUG96MU9UMWEwbzRFcW5ldHF3ejVGUkJaZ2dCaUswQU90Wl9INDhVX2U4dlNOUkt3b2tOdVI1UnRfQlBpVkpnYTdoVlMzQ0VmNHE5X3VSVmEybS1WdnNVdG1NQmlDNFI2UFVpTEhSUG9LdXpYZXRCOFA5amZMNXI?oc=5"
+  },
+  "gnews_inter_miami#22": {
+   "outlet": "Google News — Inter Miami",
+   "title": "MIAvsDC 10-10-2026 Match Feed | MLSsoccer.com - MLSsoccer.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHpyMkNoWng1NTVnY1Fodkx1b3EzT1BOTEgwa1MzQ042RXI4a1NzVTJERUZlbXdZdjVFbnJXejhsV05ORjlEbVE2WkxRZ1B3ZUxjUk1IMkFqaXNEWUxDS3lTMC1HNFVhQWJXNURJallqYnRYNUdTX1RNMDFCZXhmb08xNGZHVTlvTVpRYzd6bC1HTzdYZDVzd2xR?oc=5"
+  },
+  "gnews_inter_miami#23": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami 4-0 D.C. United: Messi and Suarez double up to snap winless streak - FotMob",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlByVXlKenBCeDV2Uy1faGFkNTI1ZzZmblhaWVVYbzNhUU1vN05ZbF9HVWg4OS14MGxjNnpyOXZ5OHhrcGU0cFdtTHUzWHNJR2NjT19LTUJPaEV1WUlCRVhhNXBkT2Q2SW4zVHZ4YWJ0Q1RsV015T01HMXliY0g1cGlSOXo1bktGYW9UcGcxSzl3VkQ2OE1xVzc3RjZjbDJ2VGQtRm9DR21lU3ZIenNveVdGM2JLMUxON1ZUbWRBWHVEYmxNODJtMA?oc=5"
+  },
+  "gnews_inter_miami#24": {
    "outlet": "Google News — Inter Miami",
    "title": "Messi fires twice as Inter Miami thrash DC United 4-0 - The Sun Nigeria",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSE9QWWNCX3I5LVdzbUZQRzZESzNEUU1rVlJkZ2xDVDVaSWRJVWJkSVVreElhMXlWVXVOT19Ua0pKYVpiOGtPOXo3b1ZEMjZRclhlSUU1Q0ZNMHBReUVCYVcyUkhfcmRNbnY5MVpZTnBuTkRzZzFTVmJZSEk?oc=5"
   },
-  "gnews_inter_miami#1": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi scores twice as Inter Miami beat D.C. United 4-0 - UA.NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3dpNU1GQ1FjbWtUTFpQN0hoQnhnMnhfMWc3T0lncVBYaEppa3ZSOVJ2UUVsNW1jeVNUTmhZTThIaEdRYjBpNDBLNUFFazJiWkVrYUFBQ19ULWhUOU5meWNxelc2NzJSLTVQYUFBcDdQdGpuSURlNDVpNTBSYjhHQUNwOGZySVRlWFp2ZzY5QmRNbGpNUy05MGFfY19EOTV0cFBJU3M1Q0hHQQ?oc=5"
-  },
-  "gnews_inter_miami#2": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi doesn't stop scoring and keeps closing the gap in the race to 1,000 goals with Cristiano Ronaldo - MARCA",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2lSeC1za19QUWU5dnFqMUJjU09sUHFtNkt1WTJuVVRqekYtUjdRSUJNRHhvLUYtUktMWEM3WTlpN2paVnh0MjB1OWFINEZfNUJ1dGpUTmZQbWtRUm9XbmYza0pUYnhUMUVRSU5raHZFSUhVbDF6dWJyTE9wRUlDb2lzc0otV3ExcjE1Yjc2WWNIZEh5WHJ3al9IN3o5LWpzM09PcXdLdXI3SmlmMnAxdEZGb0h2WmpaWGRObkh3am5EU2RSRnFUYUNmMmdLckhpQzg0QlZUd3ZPaWl5cWtCcFluVHZ3cy14ZXRIN9IB7AFBVV95cUxOa2lSeC1za19QUWU5dnFqMUJjU09sUHFtNkt1WTJuVVRqekYtUjdRSUJNRHhvLUYtUktMWEM3WTlpN2paVnh0MjB1OWFINEZfNUJ1dGpUTmZQbWtRUm9XbmYza0pUYnhUMUVRSU5raHZFSUhVbDF6dWJyTE9wRUlDb2lzc0otV3ExcjE1Yjc2WWNIZEh5WHJ3al9IN3o5LWpzM09PcXdLdXI3SmlmMnAxdEZGb0h2WmpaWGRObkh3am5EU2RSRnFUYUNmMmdLckhpQzg0QlZUd3ZPaWl5cWtCcFluVHZ3cy14ZXRINw?oc=5"
-  },
-  "gnews_inter_miami#3": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Lionel Messi shines for Inter Miami shortly after his farewell to Argentina - Goal.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNenV4MXMtQ2RpMGJSaGphTVFGOE8xS21HUDUxdWlFaUhtS093Z04xYVo5dHQweTdQekVpbGdZbDNOZEE5ZkJWcmN1RGRhN00xN05iUTlSRDBoWHdOMTN4RjRBOFNZb2pzQlUzT2JOQ3NjY0VVMUxseVd5RFBvNFZqelIxbFg5a1N5MFZLZFpTUUYtbXhUc1hTWWpCdi13dlZDcmx3RUVBR05ybkxyZWxKMUljWU5wODBvQmtzd3JaRl9tSGxYOWc?oc=5"
-  },
-  "gnews_inter_miami#4": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Lionel Messi delivers masterclass following Argentina retirement - MLSsoccer.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGZzelRYWU1lbGFlMHQ5aFJNRFZGaU81VmQyb3hxMFFtQko5TnRia2lSVGlfbnB4UjRxZUVtVnR6blVsUl9YOEV1UlpZQkFFTWJrQ0JtSzVJSzB0bk1QcnpkV2FCdUd1QmdpblRodmhUdXBUZGdYNTEyZGpFc0I5YVdFZVdaTG9TWlFXaUE2VzFONWNIVXBPUHJYVQ?oc=5"
-  },
-  "gnews_inter_miami#5": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Post-Match Facts | #MCFvDC - D.C. United",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nWmtDSUxhcjlTVHhOYTdaQ3hHMEszSUlYRkhVbVJGNjI1MWNINWtkNkxBSFpDSjNFZ1pNbzBWX29PTG1MdFZsTWVjMDV5eUtPTDlPT3IycUVKYTZubnNvV3FZUnlZV0wyWEtn?oc=5"
-  },
-  "gnews_inter_miami#6": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Video: Messi celebrates in his own way after international retirement - Goal.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUZMNUR0NzN0NjZNMDB5dkEzV3JsWTFEeGZnOXgwajJEUWVSUGtCaFF5STJNS3IyMzJ5em1UT29LX3VqTENuamlyRWZXbURFOXdXd284TXFoOWNlOTJPX3dwTUNRZTBmbjNTODdybWEza1BVc2NpOGdUb1J5dE9aZF84enBtM0ZzSUthRkFvOWhBYkpYdVFsVWl1NFhmYnRVSjQwQzZFR28wUTZkNUhjU0NReTd2R3hT?oc=5"
-  },
-  "gnews_inter_miami#7": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi, Suarez Score Braces as Inter Miami End Winless Run With 4-0 Victory - TVC News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEpZNk9aa2pSN2xjUUdaYkZpVjd2RTlaWTJqLTdmMXBoUDB4N1R3azJMbzJ2S0NGcHdOX2VYNDR4Y3VvR01ZZW5WRWtTYkdNV1FkYzExSF9LNUQ0aVBqNkRRZU1kUGdEZ3l6UThpa1JMWjlFUExsdUhwdDJweXpJVkt6Z3BIRmFWdHpJRzZ0SWc4UXVRZHJ1WENwTVFJZw?oc=5"
-  },
-  "gnews_inter_miami#8": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Inter Miami player ratings vs DC United: Luis Suarez and Lionel Messi dismantle visitors in four-goal rout - Goal.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDJiaXc0a19sakhzakVtN296eXU3S1NyeHhuU3FKUDBvaXJ3OGJESi14VFc4VEU0cU14bXBYVEdaX2I2MlN3cWJfcTFLQmY0a2dxTkJ4SXlTazhmTERQTF90WjZwOW9rZW51QlE4LWx6eFFHUVhjcUFQUTE5WmJOa3d3eEx3X2ROUmRSSWRpZG5QYTlUOXAzYS1KOVk1MWVYWjhfVGFNVE5FV25IT2Nvek51R0haZWtiZlE?oc=5"
-  },
-  "gnews_inter_miami#9": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Inter Miami vs DC United Standings: Messi and Suarez Lift Miami to 2nd - Aktualita.co",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTVVOHZUVGlQLWJmYUxpOU5rS0RNWEhQLUVHS1hVZW9rRG5BeDFGVXpUTDVsaGJqR0pNSUFkRVpSMG8xZmFiR25ORzY5bjNVWGY0aUJGR0pTdmFRUk4wS3JzS3QwcklxZ25Dam1HSWdLWDFKVXRQYnU0R3VlMkl3S3NIVDBvZktIbHlqYkJMTG1hNEFxaVp2WkM4djE?oc=5"
-  },
-  "gnews_inter_miami#10": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Lionel Messi, Luis Suarez score braces as Inter Miami beat D.C. United 4-0 in MLS - Telangana Today",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmx1cHVHYmRWMlRsNjN6T29uY0VraHd4VXZFdDNpWFFTWHBDVENUc1R3QW1WSEtEZm9GOVRmSVJUN0ZpanNnSHNoMlpyOHhkOHphbVFraWw2dnRBUzZIUklVdUNlcW9aT3F4THg2T2FCUlZkZEVVcTg0d1FMVnRHQVA1d19aU0dBRHRlM0JHVG5fZ3lJQmV0NGlOQnZqN2Z0SmIxZ0dPRXhJQQ?oc=5"
-  },
-  "gnews_inter_miami#11": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi and Suárez roll back the years as Inter Miami thrash DC United - Diario AS",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRm1aT2xpS0hMbGstSkoyRnYyZElZcXhWMzZGWkFrM0c1Slh6am1iSzVwTFo1aWZ4d1JSTlBocDI2NzRBYmd5ZTZlbnh2ajlkOGNacDltcmxjYmJVNDBjcXJpU0Y0TWo3elFQR1pDX1NMTFFfbVBWUkdmRElmUUFUT2ZmSGIyQnA0YUhfVnNuQ25ZOUV1MUMzYk96SmR0Mld0ZDBxRGt2N0xnMXNMcDhVeDZUV2xEVWxUQUFJ0gG7AUFVX3lxTE9GbVpPbGlLSExsay1KSjJGdjJkSVlxeFYzNkZaQWszRzVKWHpqbWJLNXBMWjVpZnh3UlJOUGhwMjY3NEFiZ3llNmVueHZqOWQ4Y1pwOW1ybGNiYlU0MGNxcmlTRjRNajd6UVBHWkNfU0xMUV9tUFZSR2ZESWZRQVRPZmZIYjJCcDRhSF9Wc25Dblk5RXUxQzNiT3pKZHQyV3RkMHFEa3Y3TGcxc0xwOFV4NlRXbERVbFRBQUk?oc=5"
-  },
-  "gnews_inter_miami#12": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Inter Miami Player Ratings: Messi, Suarez Star in 4-0 Win - The False 9",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlRTUmpWOXNiX0VjeWl3cWw5WWMyd1EwTFhvd3RTbjFwUUZ5XzdqOWxMMmczdUtpZEhXNTkxblBIWXJueUkwWHpqRmdkTE9UU0VBallNVHgxekFNMlJhQ3ZhTnlZeWZzM2V3cTRsSV9Kd21TeG5NWHlvQmdERWRNNk1FbXNVdTBYeUZHVg?oc=5"
-  },
-  "gnews_inter_miami#13": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi nets two in first win since Argentina departure - Flashscore.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUV9GLUVfWkp1WFdCbFdENnhhVzZxdjBjQWdEMWlUVjhVSHJhUzhzSkJ1ZEdWZzF6bHF1bmtCYjNjejZuMG5TTUFPcDFUWktOejNlX1dSUnVSeEhWSkRETzlRX3MzOXF1WEdQUjFZY1IzX1NXQ3JGN1R0ZnBVZXN3cjhvSW1Kd3lpOHRMMGVwSHVEZzJabTVDbFFmNURmNmhBM2ItbUxHeDRRWmt4T0tr?oc=5"
-  },
-  "gnews_inter_miami#14": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Inter Miami CF - D.C. United 4 - 0 | BUT - Leo Messi - OneFootball",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmpOdzM1OVU4WlN3VXpKa0w2R1IwUng5bERSYURMM1EydDluTEhBTmZzWnNTXy1vYUVQNDRYeERzVkZreFRNaVctMnI2Q0J2Qkd1M3dUZHJ2S1FwOHJqQ0cxOGlxWFdybHNMUEZKTUZQemNGLVBXNVlneUYyUnhWX0x1SGczMjAxV3dfQkU5NEhMbHNzb3dMWFlTQXN0VFdIc0ZiN3RR?oc=5"
-  },
-  "gnews_inter_miami#15": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi scores twice in first game since Argentina retirement, Inter Miami beats DC United 4-0 - The New Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaDJaTmZHd2ZhS3hsVzRzRUdUNEtxdWlGTWI4MFYzTnZ4anlmc2tIZHQ3RGM2YUUwVTlISjZ1OUJaNjhLSUViNThfbW1KRHZqRWRsMHNtTXRmdWtpcDdpLVZSd2VxenUwYkF5M3MwWTBOTmF3ZkE0ZXFNU2IxOEQ2UXhaeHFIZVJMTkFUZ1BUZEsyeDZGeHF5WnhmdTBnSDR4UGlNZ0JEVl9IU3pxTWVXWW1XcFliSzhUNUtaZ3VxR29RUWVCb2N1OEdVdk8tOWZhQzRyYXJ4SllkYWZuWmhKdUxpUVVfRlFBQnFob0VYTzhCVFBhTEhTdUN30gH6AUFVX3lxTE5oMlpOZkd3ZmFLeGxXNHNFR1Q0S3F1aUZNYjgwVjNOdnhqeWZza0hkdDdEYzZhRTBVOUhKNnU5Qlo2OEtJRWI1OF9tbUpEdmpFZGwwc21NdGZ1a2lwN2ktVlJ3ZXF6dTBiQXkzczBZME5OYXdmQTRlcU1TYjE4RDZReFp4cUhlUkxOQVRnUFRkSzJ4NkZ4cXlaeGZ1MGdINHhQaU1nQkRWX0hTenFNZVdZbVdwWWJLOFQ1S1pndXFHb1FRZUJvY3U4R1V2Ty05ZmFDNHJhcnhKWWRhZm5aaEp1TGlRVV9GUUFCcWhvRVhPOEJUUGFMSFN1Q3c?oc=5"
-  },
-  "gnews_inter_miami#16": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Lionel Messi Scores Twice For Inter Miami In 1st Game Since Argentina Retirement - FOX Sports",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWJyN0FfWndkenVCekRyb1UxTDZ0LUNobWl5azZKV3pJX1htTGdhWmJwZ0Y5TngxM1lxNXZvUUQ0RTNXX0R0SEktdXZtMEZSTWFPNm8wVGpRWUNJRzNqYlI0NFkwZ09VVWtxaGg5S1dEU1Q4QXNRMWN0UkNjMXdiTmR2am1xN05IX1Brc1RsaXIxa1JkOWlPWW1xejVscktoa04tRDJWYmtQM1RxVmlRczlnN1LSAbQBQVVfeXFMUGFicjdBX1p3ZHp1QnpEcm9VMUw2dC1DaG1peWs2Sld6SV9YbUxnYVpicGdGOU54MTNZcTV2b1FENEUzV19EdEhJLXV2bTBGUk1hTzZvMFRqUVlDSUczamJSNDRZMGdPVVVrcWhoOUtXRFNUOEFzUTFjdFJDYzF3Yk5kdmptcTdOSF9Qa3NUbGlyMWtSZDlpT1ltcXo1bHJLaGtOLUQyVmJrUDNUcVZpUXM5ZzdS?oc=5"
-  },
-  "gnews_inter_miami#17": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Lionel Messi scores twice for Inter Miami in first game since Argentina farewell - The National",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOekg2RjJVMUdHdjdDV2VFVGFoenotZXpCRVI2dW1QemZFd0JtbDRwWG8waVkzdk4xMjN4cWFQb1kxY3JWWl9GVjl1eVB2a3VleENfUXZrZ0hRWWxYeDlXNENrTzFxaVZ6SkZtVlp0WWVNU1JLbVpZWW1rcElsTVB1MXNDQWhtQmdLY3BKU0t0aDRDeHhNQ3Zrd25BaE01TGtCVTdLdFlIMU0wamtKTmNYSTBqakVFMUxacW80VUhJT3RjMU1BRkc5b2VxakV5ZHVLR0locmlR?oc=5"
-  },
-  "gnews_inter_miami#18": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Lionel Messi hits 934 career goals: Where does Cristiano Ronaldo stand in the race to 1,000? - Bolavip US",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaTJPa0hhbloxQnFmaTduMUljc3NLUGRnQWZ1TnlnWXJKSlp4eUR4a3V1NE1iUWY1NTdMS1kyX2JXVjBKNlhnRmFhNWgyc0tuc3QwT05JOEhCMkJQb3ozTGtiMndhWEJ1MS1Md3RmaHZGQmRtRUxEX3RLTjNxb3ByMWl2N3JXRUtaQ1FjMElyRFBaa0dyRVc1SDRJMHdubkJNX21ZOTFLT05pR1h6em9wTVJ4UWN2QkJRMjVN0gHAAUFVX3lxTE92RmhhdDdGUm9HcXBYVWlaeXh6VkZDOHExSWcwX2liSlowb1FxdE4tQTQtVW5VRXo1ajZPcTNhZW9aV1ItcUw0U1NvVXUwZ1ZjZlBHSC1sODNHVXBJZzR0WjNQNE5kaUlEbW5DZkJ5dzRMa01wSnBIU3gyaWZvLWVFcWVZVWtWRmp2TGlWakoxU014X09sVXZ3ZDNEQjFCYmVXbjRrNXpfMzFVUVh0U2hXX2tiZ2ZiRHhFUEowN244eA?oc=5"
-  },
-  "gnews_inter_miami#19": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Inter Miami player ratings vs DC United: Luis Suarez and Lionel Messi dismantle visitors in four-goal rout - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaXhrZ053bUJDU1RJUjVpUTdEV1VrRzNRRDZ6VTFOZTJZSmxKS2pkekl5VjI3cVh1dGRaVklfMzExNzN4eTVMamV1LXVUTlZXQXBvaUt5Y3d5RmNONGVBanQwbEZqeElWb3lWTVVpalN4enVNNzFGaVMwd2t2TmtwN0ZiOA?oc=5"
-  },
-  "gnews_inter_miami#20": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United - BBC",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jYXFiOEtUTG10QURBYjl6QlNxZmdadmpFMDRYZFk5dmVFYUxONjBMNUJWNkRRRTZPbWNob1FpUTJaSklCQ3h3dm1wUnh3REVzbENTTUI4U1NBS2RjX1NmSlRlNA?oc=5"
-  },
-  "gnews_inter_miami#21": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Inter Miami CF - D.C. United 3 - 0 | BUT - Leo Messi - OneFootball",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGhndF9mMG15RjU0MlRnWnBfR2UyNERpTFphRjJ3WE9YR2lZYlVKZnpRY2dQSU1QWnAzRXd1X3BMc1N5T0pyclVid3NJX3dCekI1ZG5MX0tieTMxZnFkVGNoQk56U0dUaWFKSjhBU1pqMndOZV9fSWFIcEZjTktWcXdnd0pMTHhNTzQ2SHJtOWJobVBkSzc4cVZYVmM3X1IxSTBfaFBB?oc=5"
-  },
-  "gnews_inter_miami#22": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi scores twice for Inter Miami four days after Argentina farewell - News.com.au",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOENsRG8xVWdEaWpMUGZqNmc2bTdFSU1ob29YaXlfWHdMM2FKcHhOSmxHb3Z5R1JVVGNiTWF5TFl1SFRzQmYyTU1fWlJEMlFQakdfXzJnN1VQSmNqakRCTDdXbnFndGNlWDItRFJPVGc4R0dVRzNOaVJYcFJsMkpST3lzNWQ5UkhmZmhBWmVRYUZVR0F2QXdJSEJ6REJHMnJtQTFBdzl0OHdCc0N1dUExWWRzU0RGS1Z2SmFrdjZGaWk5V2M5blhQWFNrZnF2WnBQQnRCOVptQUxxZ9IB2gFBVV95cUxPOENsRG8xVWdEaWpMUGZqNmc2bTdFSU1ob29YaXlfWHdMM2FKcHhOSmxHb3Z5R1JVVGNiTWF5TFl1SFRzQmYyTU1fWlJEMlFQakdfXzJnN1VQSmNqakRCTDdXbnFndGNlWDItRFJPVGc4R0dVRzNOaVJYcFJsMkpST3lzNWQ5UkhmZmhBWmVRYUZVR0F2QXdJSEJ6REJHMnJtQTFBdzl0OHdCc0N1dUExWWRzU0RGS1Z2SmFrdjZGaWk5V2M5blhQWFNrZnF2WnBQQnRCOVptQUxxZw?oc=5"
-  },
-  "gnews_inter_miami#23": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi scores a double, Inter Miami wins big after leaving Argentina - Laodong.vn",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVZGQUliUmoyX2s5b0JsLVN0MTZKWDMxTHVNT3NJRzFjeVNXNGRtOTh6ZUJPUG1abVNLN3o2ZkdkQlBDYmRrTERlYlBrNVZCZ3JZMWZjeGg3ZHIzYlZpclpyNUpPZ2V6NlhJN2ZjQ2dHUWxCUVJOdFZXc2dZOFRUc0hpdXI1cHluNUM2elVUSEN0emM5THpJMVhvaGRLVHhPZVNOeFR6bTVNWEJKTVZ3TTFkSnkxYXM?oc=5"
-  },
-  "gnews_inter_miami#24": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Messi scores twice on Inter Miami return after Argentina farewell - The Malaysian Reserve",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUxORkNUM1h0c3FYT29PLW5fOTZxWmdIdWhyX0NRTllleWc2b2JUbGl6VWZpSHM5NEFoTXVYV0d5QnRPdFU3dmV0Q3hLWDVSM1Y4N0NxbE84US01RWRmNjZ2SlA1MWdXcVA0ZEFablBNZkRwLTB6c3dHN0ZUbXdBZE1xOTc5UGlrWDdPbmN6Q0d1Z2pSTkRieHN4VlZESHp0cFd4Q0xZbFFJM1R1cVE?oc=5"
-  },
   "gnews_israeli_nba#0": {
    "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Video - Tyrese Haliburton Wants To Repair Relationship With Trail Blazers' Damian Lillard - roundtable.io",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejVCM3oyeEVwTmFoVXB3VzZxNElVODdPVTlILU9tNFo1WExhMkp4aG1pQy05aUhQMXdQYUpiZGFoOGN3dkhrVjFicFNjZ1JHNnVoR1ZVWjA2d2JYZElTUzNSVjBwdEgzbUl3bFd5TFVtVmZaSEo4dWJIYlNicFByenJFZDFIZlAtR2lxUHNacVlYNjVuQUVmYjJzaDNFOWZtc3Bub3N2VzlLeFl6WjNMbC14OVo5enlNQW80aFRQUk91M3JTV0E1aDlKN2o?oc=5"
+   "title": "Deni Avdija Admits Feeling Helpless Against Nikola Jokic; Explains Why He's Toughest To Guard - Fadeaway World",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT3dwMjJucmZ2S0o1aHl1R21JeGhBZlNXdDMtaHhlTm5mM3hMdE1YOFJ0U29kOENLMFh3VjJaWDVfbGc3Z2RYeXRaajl1OGJIR21IMjNVNjd3Q2VVNjdILXZjeUVhNV82NllNRWthY0lKMWpCancwQjc0dlVCOFpQcEhnSXo2bFVqUXpxM21zeGFESlBpQ3lFc1prandVdGZVbXNPQlJGRzVXQzA4MzNmLVJXZzdTM2FWRVp0QXFQZjU1ZVZ1X1luaFptZ2JEQ0FyY01GZjFuZThHd1hP?oc=5"
   },
   "gnews_israeli_nba#1": {
+   "outlet": "Google News — Deni Avdija / Ben Saraf",
+   "title": "Deni Avdija credits Chauncey Billups for helping turn his career around - HoopsHype",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDYwdEh6X280SzViTTFWU1RraGRVWmhKblNEZkxpZ0lQZkw2VXQ3dWtwT3RhS3ZWNDdYR0EwdEtIYndBOWd0eGZJemdqRzZiQ0hXSUlreERkWVdnRnVneVhWVVFWUlVvMUhiNi1wUWlUSFVQZzliWnFsaW5qdTFYbVFWSDE2aVZUWmFRck5SVGNMc1FUVGlJVm1NTk1walNwSUR4RXpTbnNhdDkteDdKY0x6WWVVWFZoX2JBd3UwaUIySEtkQzJkRTUzdkt0THRlWU1HY2dYZW9lWklYMVE?oc=5"
+  },
+  "gnews_israeli_nba#2": {
+   "outlet": "Google News — Deni Avdija / Ben Saraf",
+   "title": "“Still Gonna Get You”: Draymond Green Sends Clear Message to Deni Avdija Over 2-Year-Old On-Court Altercation - EssentiallySports",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQenFQWUlFcWRNQWZzbnNqUlJ4ZHBpRHJtci1FNXhyNnpHcHpJb3NmXzJuN3lCSXhkXzBxWXQwLVJDZGRvYlFaWkI2LXE2dHYxdE9zN0xkb21zUEdVSllBV3NxM2l4YnhldkQ5T0syS3pjcXgzeEM2TjgtVnBudW9SRTZpZnpMS0ozQXdJeUU3Tkxtam9ISHZybjhjQmJPUmRhRjVtTTlLdHhfQ2VoYjVxQmVmaU9pX2praFFpX2JwNm9RQ01tU1Y3UFpJa1ZGOTgybkcwV29LcFhhajYtMW95ZkhHQmt2Yl9JRjVrMWJwTjltcWE2S2RndUJmcjZuUFU?oc=5"
+  },
+  "gnews_israeli_nba#3": {
+   "outlet": "Google News — Deni Avdija / Ben Saraf",
+   "title": "Deni Avdija on Becoming an NBA All-Star, Playing In NBA Playoffs & Hilarious Draymond Green Story - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mcHppNFV5aVlBVDRsNjJwczBOOGZod0hTTGRnVkhnMWlBM0dVellDTEJBQ1dFcTJzUk5iU3dWcDJJTy1IcmNCRkdSdEdLZHo2eU9GdnFoanZMNEZv?oc=5"
+  },
+  "gnews_israeli_nba#4": {
    "outlet": "Google News — Deni Avdija / Ben Saraf",
    "title": "Trail Blaziers' Deni Avdija Gets Overlooked In Latest NBA Player Rankings - roundtable.io",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmhvUkpoMmR1VVJ6d2NVdWZrTlJxVHJkZnVXVGUxZWZoZzBkejQ5N2pGUEpZUldIWG1BUDFCSUVjT0tFWmFNX2R2MkEwNzZ2QjFQd0dKdGNhRV9xQkFDeE4xbDVHNzV0em9GeUNpNnpHUmVJWks2UG5NWGlWNlJhdzlFMVJOMmpsTlZWbEhaUXNHdGxJcXMzSGttOFZJVWZXdVpHX1RFUldPU3VmbnZPdkxnT2dzQUhLQXZ4VXp0MlpzaXlQ?oc=5"
   },
-  "gnews_israeli_nba#2": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Video - Trail Blaziers' Deni Avdija Gets Overlooked In Latest NBA Player Rankings - roundtable.io",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS1p6YjU1bG1zX2FaZk1zWHNhT19vZktONWhoSDNPc05HeXhGdnBDZDVuVzk2S2FOdG9QSG04V21UNnRHWHFzTC1PVnB6dmw1aW5TUWYyajdITkdhNmd1aXlPaVVRcG1IMmN6ZlYwQ2ZHV3NTRDJ4S3QydVo3MDA0QS0wbUtKek5COVhTOXIzenpQb0R0ZEd3MXBNVHFiV2FPbVh5cVFueHowVmdLcGU1NzBZM3NVNkdGbWVzVjkzN0ZsUQ?oc=5"
-  },
-  "gnews_israeli_nba#3": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Blazers Center Yang Hansen Gets Concerning News Ahead of New Season - Heavy.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXNBYkNoVjltTWo5Nk1mLU5MSEVSXzVQQlJfZXhPeDhpUURqMkhLb2NmcG51OUdYVWxPeVA5TENIcTZjOFVzNTFSSUhrejNzZ19JRk5hT1pxZzlTZWdYYkFKbUhiNllhMW5PVmpxSVhjdmFCLWo1RVRRRmhZVlpFSm1sMGV1M1pvU1YtRDdjN3U3N05HWk5nVWtlUVo?oc=5"
-  },
-  "gnews_israeli_nba#4": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Video - Trail Blazers Cannot Let Every Game Become an Audition - roundtable.io",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnNsYm4tMWZlUHNEYVhlLWVIcURhbTlRbUF4LVpxRHcyNnBkSmlPaVpBRTZwTk4zQ0lHdk9oYlI3WkVsNDV5dFNOd3lfYW1KZ3REbTc5RHUtMGdBaHJ0QWpJUUEwZlA4Y3BTdWthWWFFQVZpVVJSZXF2OFozOEFhWFZCOHZ6aHJiNDZqblhJaHg3SF85OGJJdmRyWUJzV0pVVTU3U1Utd1BkZw?oc=5"
-  },
   "gnews_israeli_nba#5": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "What I Changed My Mind About After Blazers Win vs. Warriors - Sports Illustrated",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUG9hSVhTWkF1SjdLd3BpTzJiNnp2TllKbWNMMmFvQU9qSE0wLXVONklVWHJjMlZrVDN2TWJlTV9obWQ1b0ZCa1RlajlNNjRzTjdibXNBOElOalNVWXBwbFhVeXBVLWxCUTM5Z3pZTHdlOVFJRXYtRWtxZjRPdzZCWU5SbDYweS1xMThtZmNhM240SDlDN3JYN1gwdWRxdml3M092cE5VRWRjVzJTSkZmRVdjOHg?oc=5"
-  },
-  "gnews_israeli_nba#6": {
    "outlet": "Google News — Deni Avdija / Ben Saraf",
    "title": "Ja Morant’s playmaking is already making Deni Avdija more efficient for Blazers - Rip City Project",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDdiYUJzTjVTbk5XOFdYdXUzbzhkNEE1V0VnRjhkMVQxZExXM1JNYnF1QVViZmJWQ3pmdG52T1MtWXctRmowNVVfOHdsaGJhN0ViV0pvR2d3QVRQVUtyZlRNYlJuOGI0MFFjN0JLRFd3TzY1b0FpNUtGN2xYNkZ5TmJ4Y2Fxa0c4NVBsMmF3Y29uMGs?oc=5"
   },
-  "gnews_israeli_nba#7": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Max Fried’s postseason woes continue — but there’s good news - Jewish Telegraphic Agency",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFpybWxSVEN6UVYxY3JPaTluT3A2RW1LVEtRMWhDdWxaUG9TbTVjMmY4b0tROUUyamprUXBqN2pNY0tJX3B1WFNBdG4wVWtrWGExQS1MbDBOSEVxNkYxTDVKSUxfRkJzUEMxVjdRSzQxTmVHSF9CbTEwZktDSmZBa2xqWFhHbW80WGZNanQ5MmFtR2pDSmxYc3Fn?oc=5"
-  },
-  "gnews_israeli_nba#8": {
+  "gnews_israeli_nba#6": {
    "outlet": "Google News — Deni Avdija / Ben Saraf",
    "title": "NBA Most Improved Player Odds & Favorites for 2027 - sports.betmgm.com",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14cUQ1MDZhQjd2dzJielN3bEVqOFp0MlJLX3BQaFJLQktWVW1mdGFMMTlneGFFbUtEMDJnM3AzSkh2RlZMemVOV0stbGMxRV9FT2xoZnlVWTZwOXZqWkczWVlVdWpibkhFT3NrQWM4c3VUZmIzTFNadnVYSmZrQQ?oc=5"
-  },
-  "gnews_israeli_nba#9": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Philadelphia 76ers at Brooklyn Nets - NBA Game Summary - Oct 08, 2026 - USA Today",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQlV2OGNvTHZxQm1JZjdLTnNhUlVOZ255SDlmVy1kRlVOQjlRWkxGaUZ6TndRM2tSVnItXzV5SmoxaDVXaThsN2NuM0JSTDdvdnZaMGxkOThfWG9IQ25MSHBDb0dmNXlucGVOeFgxOWFoLU93ZWxoSUR1MmxnVlFCR0lSYWlKRTBGMW5vb2R3aEVXNWljQUhLQVpfbWxuWEVOdjI2TTRFdDRIdEZGbTFPWWQ5V1dpekFNQ3g3SkpJWE4zQmJEUzBQN2Fucml1dEg2a1NBdktZMWxJUV9tVGpsS09zOFoybmhUM0t3QU1R?oc=5"
-  },
-  "gnews_israeli_nba#10": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "LeBron loses in Philadelphia debut in preseason game - against Wolf and Ben Saraf - Ynetnews",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mQnVXdWJyVW1DczJnMU0xMTBuRzJqalUtWmExbE0yUGk3YWg5U2Z4cVJWeXpBSUJHOXhuclczUlp6ZjlRejZtQzMxSUtjcFJvWnpLRA?oc=5"
-  },
-  "gnews_israeli_nba#11": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Video - Trail Blazers Should Make Deflections a Public Standard - roundtable.io",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlE5R2RfbjhwNmlBQ2FRLVowc01KU0tvbElzSVo5LU1KY0dxamthWENaN0xMVmlCcmN5T1FJeVQ4ZVN0UjRSNnBHZUJzQVh4N1Z1TmRQcHotckoxRXFsUkFXTmViSDlVbVNUdW5yWloyNXRmQ09jdVM0RzJNQzI5dDhNeWdnZHIxTlZGYlQ1ejJBNDVNSkF1QUVYUFFnaHRzWjByRDdiQ2R0RE0?oc=5"
-  },
-  "gnews_israeli_nba#12": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "4 Winners, 2 Losers from Blazers Preseason Opener vs. Warriors - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNlJLd3RFTTZlSmFROHY2bFliMUxwWjl3eWdxMl91R0dfdk53aFFlam5vWG9JS0htLTRWbmNuMlE0d2hkeHVJQi1vWXhNUTZVakRPd0J6ODNtTTBXbnJqcVhiRmdWeFh5bVl6aEE3TUJ0OHA3X1FOMWlxN25qUFk?oc=5"
-  },
-  "gnews_israeli_nba#13": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Deni Avdija goes for team-high 23 points vs. GSW - NBC Sports",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVpJb0l1QUZKaHVoN1p1S2Z5b2NjV0tneW9OaUV3aVdpdTNTMGJiQWxURW1SWWo3ME1XYWFycHJsZGtlb3AyUDh1anBuR3dKcGRybzgzT3NFUTZMcXZNN0lTd3dUcEdkQzVDSC0tbV9CNm94V0tfUTVYdVZ6VUpzdFF1SkVHTVdmb3hxZngxdWt6R041MUFZU0NqOGQwM2ZTYUVGRFY4SzdENXVxQldrV21KdlZwQQ?oc=5"
-  },
-  "gnews_israeli_nba#14": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Trail Blazers' Deni Avdija: Hits for team-high 23 in preseason win - CBS Sports",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQelpBcGFXQUx1MEZPZkNobjMtaXU1N0hlUGZQMC1UM2JtbmhSYnFqWHlxWFNjRndVR0I1UzBZNEw5VXIyWW1Wbi1rVmdrbXUzUXZQN0xMcG1XRG0xV0hjN180d1N2ZUZ5TzNxa192Tk5SVjhfeWNIeWJfUlBQbnQzTHRFaEQxMEs4V0tuOWF2azQwZVZfX0Nwb2U1cDNJUXZ4bFdWYlZRdFYtNzJSUEV0UndFSGhuZw?oc=5"
-  },
-  "gnews_israeli_nba#15": {
-   "outlet": "Google News — Deni Avdija / Ben Saraf",
-   "title": "Deni Avdija News: Hits for team-high 23 in preseason win - RotoWire",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk5USExDZTBoNldXZ3JBSkZVUkN2V0o2TzF6VHlWcVN5bUV1dlRiSmlpY0FJd0xwaGNRVVFRZzdxMk9GZDIxMkpOR2ZXenpNcUZsclZsUnUzY2NORVNsenFmVHhVV0tSM1c5SndfSjlSUnNuUmxRYUJLSDRPaXg2ZV9KRGo1NlZlM1RDT0xJQlBNU05RSUFwVnJfd01ETmJ6NThZdG5wdHNISUVh?oc=5"
   }
  },
  "geopolitics": {
   "ap_world#0": {
    "outlet": "AP — World (via Google News)",
-   "title": "Artificial intelligence - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5"
+   "title": "Turang homers and Milwaukee's bullpen delivers as the Brewers beat the Dodgers 2-1 in NLCS opener - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0N2c2hQSHZFZVN5ZzhwUzlzVFJfaHNrd0h4Wkl1SGVQa2VlU2d2VmxxMTJNU1JGdS1KenpYUjRfUHc2LUs5TmljZGg2NnlCdW5MRnd6Z1JQQ2tJVEVNdmQzNllITC1rYU02T1BENDdkbjliT3NBNDBxMEdzT2poVEFDMmdZbm9XekYxdFZLbm8tSmlrZk1IeHVEZFFpUGc3MDlrUUhYY0o?oc=5"
   },
   "ap_world#1": {
    "outlet": "AP — World (via Google News)",
-   "title": "New York City - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUE95RnBsNG43aExLc2FpVnVpRDlBdi1RWE9ISWxnNUdlbzNUajk2c04yMVlrTHEtOEV0NEFOVlZwMUNWeWNsZDJZOUI?oc=5"
+   "title": "Cubanos recurren a las farmacias comunitarias y gratuitas para sobrellevar la escasez de medicinas - AP News",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQk5pM3NUc1NBeEdMTllPMTA3MlNBNmhOVVlSQ09aUU1DSm9UWC1nLWFSX0hIb3dqOUQ4X0U0QXlyaWpZTHNPN2tFNnJFUHd6WDFmbkp4MS03cUg0Qy1XMk1YMFJHOFNRUU9tdmw5OFlWd05CWnhnaU1JYmpmbTVMekZsM25sSFF2cEU5S0twUHljbURBUnVaeG5jTFZqbEJzSVlBeWxXQXZZZHdsY0dYR0xhU1R0TjRKdDhQblJvNFRFRXVLV2V1MFpZRWRBUDJINFR1MXJyY0g0bXltclkwRW1uS2o1Y1FzZzA3RA?oc=5"
   },
   "ap_world#2": {
    "outlet": "AP — World (via Google News)",
-   "title": "Florida Gators football - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZlk2ZHlNUUZ0a1ZjbzNLNVk3bS1IQ1h2eDhNaHBfR3VFNHJoWmFwYng4RzN2TWkzWlQ5ZjEwbWNweEpDaV9NamhQRnA0N0luVG56OXYyRlJYQQ?oc=5"
+   "title": "Judge orders the Trump administration to cancel taxpayer-funded promotional TV ads - AP News",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZSkwzeFo3TmJLRmpQNGtfX3F4ajZsRlhSb2wtaWEyc2hrVFBrQ0RtbEE3ZjFjVkpiMFdkWjA2UTdHUWxwQW04dUVEY3ZUNnNabWFnb1NORV9EVlc1SlhnbURkU2FEdGdzNFVCeU9SbmYyV2I5bzlacjVLSmQ?oc=5"
   },
   "ap_world#3": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Africa News Reports | Latest News in Africa - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJQmVmQkNENXZhMGRlTFh2Mkh6cUhHc2REN3prU2RDdkNlSHZ5bDRoZDVrUG9ieVpGMXM5VmZVMWFhWXM?oc=5"
-  },
-  "ap_world#4": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Protests and demonstrations - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nQWNtNXpReWJKVmpSQnNBdWFjNWZNdjRVbGwwV1ItdzNTZEVmdkpLYjEwTXJyRWFRRG9QdXRsSjZ1QWM5TzE3cVl3TEROV3BwZlVOQW5ZVWNhTVN1UVdR?oc=5"
-  },
-  "ap_world#5": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Texas - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10bnA2UDhzd2JCUU9oNUNpSDhhSlhZcmUwYko1ckxUeHA0NjZ5TE55Q0VVSURBc1NOVmd1YVJNRG5PQQ?oc=5"
-  },
-  "ap_world#6": {
-   "outlet": "AP — World (via Google News)",
-   "title": "United Nations - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3akJDZ3dfUWlvRWc4d0YzczdNRUFZZVFlNkxrT3pReldlQUQ3bEVsdDFxSDVUenFvclRyUG1kR2FWdUJpaEJtZDRCeWJ6Zw?oc=5"
-  },
-  "ap_world#7": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Latin American News | Latest Latin American News - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5"
-  },
-  "ap_world#8": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GMXV4dG1uemVFQU4tR1liSktIVXRORUNuQkRUbnl1TTZGdmJqaUpMYlVHMmxad1otUDhrU0RmRURzWWxY?oc=5"
-  },
-  "ap_world#9": {
-   "outlet": "AP — World (via Google News)",
-   "title": "MLB | Latest News, Stats, and Scores - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5"
-  },
-  "ap_world#10": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Crime - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nNV9HSjd2YV9uVDgwYmYzWUZES2p3SGFWeFBQNFlxVEViNHU0MndFbUp3cTR1REJCMS1DT21sVW9sUQ?oc=5"
-  },
-  "ap_world#11": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Europe News | Breaking European News Today - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU?oc=5"
-  },
-  "ap_world#12": {
-   "outlet": "AP — World (via Google News)",
-   "title": "AP News Search - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5Ddkx6R0xLWkl5RE5BRGdWM1ZXV3QtOUFzUmhDR2NjV0VReTZ0b01ZWFJHejVfeE1zenZTRUNB?oc=5"
-  },
-  "ap_world#13": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Trending News - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42LVRfRE1VN3p6TWQtbjFtRG1EeEFPNHlxaVg5M0lSTmYtQkRqUi1iNEhBbXRtd09QYW1BUGt2R3lFQjVicmJRYUIwNko?oc=5"
-  },
-  "ap_world#14": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Tennis Scores, News & Stats - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5"
-  },
-  "ap_world#15": {
-   "outlet": "AP — World (via Google News)",
-   "title": "International News - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hY3Z3M0ZYa3B2eWVoUHVxc2hEcWs3Z3huTXpmdDhSLVozTmp6Q3l0NDhZX0o4b3QzQmtJb0NVQzI1U3ZKVTVKRUJDbjE3RVFmcHpxVA?oc=5"
-  },
-  "ap_world#16": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Latest news - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5"
-  },
-  "ap_world#17": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Storms - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9VN3V5eVFLN3o2ejF2MHNPZ251U2lsTnBGT01aTXBCX3hFOWdjWjYzcWtUZnRjUENfVkN0YWhQMkZXVDQ?oc=5"
-  },
-  "ap_world#18": {
-   "outlet": "AP — World (via Google News)",
-   "title": "China - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14cmpvQUJHVjlsSjVVdzJUM0J1eXhnTU1ZLVRkS1IzOGRsOGRwaG5ER2ZITExjOTJ2MjI3Qk94V3J5QQ?oc=5"
-  },
-  "ap_world#19": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Wall Street retreats from its record as stocks fall worldwide - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWNTaVRmTWhvSjhJZWFhbng3TFVkM25nMllXbk1HaE4tUnJRUHZISVU5ZVV2REdSQlJNME84UXp3WkF2REljdWdXVU1KdTlVdjJESTlHNUdlNTZxcERJS2M4Qk9jcTA2dGYyUFdiNDV5QXZodjM0YmlTU0pmWVpzYzdlSEdBRlUyNDY2TXZZOGJXaWJKRk4tdA?oc=5"
-  },
-  "ap_world#20": {
    "outlet": "AP — World (via Google News)",
    "title": "Saudi Arabia - AP News",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12VXhMYm1uTGxmeUo1WHZNRUJHb1MzQW1CZ1ktVEV3V29saXhhaHVMZnMwcE1OWHhCSVQ0b1ktQTZ6WUhpYUFQNnptWQ?oc=5"
   },
+  "ap_world#4": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Feud spills onto South Carolina debate stage as Darline Graham, Annie Andrews snipe in Senate race - AP News",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS25lQVV3aTRLX1NaM2RuLU1KOTh6QU9SLUY1SlVBcFRRTG4wWW05Y2hTUXFOb0VLWE1uM29YLVlZX1V2NkczOTBMOEdUQUhodGNIZWVzZVlKQ2x2dnI3ODFwVDF6MmxidE05Yy1QYkM1QjdkUU9uVFI5NTlyanJfVmQ1UklzNGNkR09VRlZGQWh3blVCd3cyY0txSUpsSm01eTZJUHF6T2ZmZm4wN3BJ?oc=5"
+  },
+  "ap_world#5": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Brewers ace Jacob Misiorowski labors into 5th inning of NLCS opener against Dodgers - AP News",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenI3dEZ2MmN4NU8teXA0TGRsdGZ0Wl81RnRGWHpFeVpndHNsUEVyOVpVNUhEZnJhNUR6U2FoZVdTRHJOSENNbWJrMEt4R3BxYXNkWjVKVEswWHRFYTd4TFVOWFRORzd0TzNCemtkcEwzVDVBejNoYzVFb0MzS0pnMUkzc093bFFCdFJISA?oc=5"
+  },
+  "ap_world#6": {
+   "outlet": "AP — World (via Google News)",
+   "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5"
+  },
+  "ap_world#7": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Hurricanes send Flyers to franchise-record 7th straight loss to open season - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMWxvbEk5NTBDZFdvLUpYZlpiNmE4TThSekZZUllpbl9CV2tLdFFNVVFscFRTbDNqRkVzYmhaaVNpczNjM2dKYXBXZUdnSmdQSjZjcHpzb0cwZ1ZXN1lpMWY4ZUxXZTFjeGU2RmZ0M2QzdGlReDZhUE84RFllMWI1bExEOWJEbTM5UUFJ?oc=5"
+  },
+  "ap_world#8": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Brock Purdy leads 2 late scoring drives to deliver a 32-29 win for the 49ers over the Seahawks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmtjRHVPT2tLTGRFU1pOLVdqZDRZQ3VNODA4ang3NVBTVTJWY3NoTWR3NF9zVVRlQWc2SHJ0OG81UmhZeUg2MU0xRi12RW5nLXBYUEZrVlBXNGhxakgtREVoRnFlcERDUmQzVjU2RFRtVTRDUFlKTnIwT1ZOYUdmMjlNUWxnc0E?oc=5"
+  },
+  "ap_world#9": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal - AP News",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJiTE5uU0t3VjY2XzhVV09yeXR5OV9OWDdYeHpJMk15WW1ScXplQnZIRFJWT2RkdHpfRHhMZjZhUDdVcmZoUldnUXo0bEtPa1F2Q3JHWGtieFV5YkE5WDdNa29lbVNpWXBaQ2ZhQWNrRzQ1VkhkLVdaUjNOYjlpZHRVTVU2TkZPTlBvM3FSOUpBVmhXMFhYUzVBUHI4UlpUMm5HYnd3RUFSY0pt?oc=5"
+  },
+  "ap_world#10": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Isaias moves north into Appalachians and mid-Atlantic; Southern California battered by Rachel - AP News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkk3UURScHRrNDZTTndTeFhsd3JaWkZvX3ZtbDA4aWJNTGJ6MVRYdUFLRGVkWHN1ZExwUnNmdHVzdGNTZ1dGRDF2YXNNM2t3STh6bFItMENlMlJ0OVhwaGRyRlFvZEVkTnc4VVdpWE1qU01ESlBtc2h4M25HR1phX1VWbm1vd1BUdV9vUW5PdDQ0d2JCZzdCS1J1ZkU2NU5L?oc=5"
+  },
+  "ap_world#11": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Latest news - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5"
+  },
+  "ap_world#12": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Minnesota - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xN09ZUnVnbW1ScFVDRkt2TmFyM1VvV3hiVEJxMmwwZmlXLV9mTktrS3p0Mi1CVHBTSTZneEdsbWtCb3NUclJF?oc=5"
+  },
+  "ap_world#13": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Kartye and Cuylle score 2 each as Rangers down Canucks 6-2 in first game since losing Shesterkin - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNakZsQlQ0b283MDBJUTZlNXluY1BYeEpNN2l5dVpHeEtVUU52U3otTS1NZjRnRzFHMEs0YVB6Q1lFc2x4VFdyOUJ3TFl4c0VtWFBfTmMxVE5OZ29xbnVBaHNacWJqOGFNSHFvRGp1NjVqaklDNmxZS09pTzRTUjJ0RzZZalNSU2lR?oc=5"
+  },
+  "ap_world#14": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Cricket - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfY1ozNUxwdEpqZFVSUXZlNG5IM3FGMzFJVUg2ZjIwVXpxWmMxNmppaUJDbTNWQS0zR1NPbW5pZTJzTGY3?oc=5"
+  },
+  "ap_world#15": {
+   "outlet": "AP — World (via Google News)",
+   "title": "South Korea’s military says North Korea fired a projectile toward the sea - AP News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2FsdGE3YUJ5V3VpbjBDWEpDaF9FMk9IbE9ZWFRUZ0l2SEJmQi1pbFZxNzFscG5LVDJiUUxpRzZ3c2dvbzl0R3RWQmlKTTN0TDdwX1FST0IydGp5c0NwY0lpTTFOQklXZU5LZ2piMnBQRl9pcUg2M3VLTTVSU1k1NngwMkdab3BWeVFuUXh2NTBCTld2?oc=5"
+  },
+  "ap_world#16": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Fugitive businessman taken into US custody in Venezuela bribery case - AP News",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWdaNDVEMFNqcUkzSUYwaTYtTl9oazJ1YTZkaG9SWnN3b2VVcEZrdnQ1ZVpXRWhpYXIySzFvcW1QaXZwZEJqczRmeDFQaWYtbGRvcVVZbmpjSlBBZzlneV9fQXRvN0wzaU9JbmZfbE02NUxxczFQWjFGelRhUndGMWpod2NSWlpHZjZSRVZpRjJnQ09wNlRGbE1Ec0gzNF9rVWtzc1dlMXJCaG9S?oc=5"
+  },
+  "ap_world#17": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Kraken overcame Alex Ovechkin’s first goal of the season to beat the Capitals 5-3 - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWppR1NPS1BoSWcySEhYZ2I1QllwMl8yZHhlb0VkNEoxeVk1OWZCM3MwblZrU3pkSzJSRENMSWJ1SnN4MG1aSUNjZEhjeTRDY2xURUlnM3NTVWhzZ1NOb3VLZWNFUHZIUUZkNEJQajJZd0FXZzN0N1ZYN3NqTXg1ZFROUmZ1Nm9E?oc=5"
+  },
+  "ap_world#18": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Waves from Tropical Storm Rachel hit the Californian coast - AP News",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDlnWXpXMlpzVk50WmVXN25QeElIa0lmREg3VjJtTGFrdFd2cldiYWZkZS1HWnU4azlzdGRNN1MzaU5GSTExQ09LRnptamxmM1lNazZCRkFyNE9hTXY0TGgta2RCNWRoS2VPb2VYTThNYTJnSTdWbW14WUltdkVnN05BRzk3VmVaVkwyWDM2Tjh3SV9ZN1ZmckUtQVVKSFdQMUNSbXZxd19DN010Z002cWdfOHVZMWc?oc=5"
+  },
+  "ap_world#19": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Photos of NFL action from London to Seattle in Week 5 - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1RKTDJ1N1JZQWpnUlJ1WC1YY2lLeEtFWW1GM3R0LWF0QS12cFJERFBPaVFYZW5MRFpfaEpjYjhVMFgwT1pjTjNKSHhxS01qOGpWN3BZM0pEYUVtWDRwYUc3Nmp3bUJod21sOWRzT3pFYXg0bVR0TUhQMk1kZUQ3ZHNBOWdNYVNNMksyR3YycEFWQVc3N0tLZFNDUUxRbnJtekUzcTJlZG4?oc=5"
+  },
+  "ap_world#20": {
+   "outlet": "AP — World (via Google News)",
+   "title": "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHB3ZXFxQndiZnVzZzZMUHFNMERvWUZGSDY2WVpDa3ZfU1BYcndHUE1HY0xzYmRCbmNqZFFxdy1fTWFXdmZBc3l3Y3BhdC02WGJUUmhhLVB3ZFU3T2NRMG5NazUtMmxObnowQ0VzazJDbHJ1dV9XTWV1TTg1cHpGV1lJNFBhNUo4?oc=5"
+  },
   "ap_world#21": {
    "outlet": "AP — World (via Google News)",
-   "title": "War and unrest - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5"
+   "title": "No. 21 UCLA downs turnover-plagued No. 13 Oregon 17-15 to remain undefeated - AP News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGpqUUVLcm1NUndURjlONy1QaW5kbmFLdm9qSUdLS1QtcndXX0lJa0xIdFBVWWc2VTBJVzlWTGNyUzJ3b2hQVXBiMmpsTjR2UEd4VWMyMG9ncFgzRFdTMnlkRXU2WTlISnh5TEttNFlQNzdjbWFzWF84dzhEa1pMNkIwSQ?oc=5"
   },
   "ap_world#22": {
    "outlet": "AP — World (via Google News)",
-   "title": "College football - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5"
+   "title": "Quentin Tarantino’s first stage play will debut in London with Sacha Baron Cohen as star - AP News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWlVeHpXdGEtZHQ4TEhXTjRQVXdGaDZQcWhYWWN6VFRNalpYZWhQZTdjOWRtV2Y2ZE0yRzAtLVNKSWdYSHdPaE5paEtOYjNvajRfdUMtalJYUGwwZkV1Z2QtZG81Y3VNdWc3NUc5T1N1WHo4NDYxQ09YT0MxVkowRmtSUHVNWVR6aUlnUXZ3OFdIbkhJREY3RllVM1kyejk1?oc=5"
   },
   "ap_world#23": {
    "outlet": "AP — World (via Google News)",
-   "title": "2026 World Cup hometown heroes - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhLTJIeU5nN1ZQQkRaWE11VEdKQWFCbERRUExQT3pTVjZsWU9aODNvVHJTRU9hSlNOeXVzU2ZJTi1UZGVCVmF0Q1QxODJhc0cxbFI3c3prY2lpR0trbVBGeFFFYw?oc=5"
+   "title": "Floods, droughts, and poor crops inflict serious mental stress on farmers - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjFYZEF2OUdNQXR1d19OSlBJVUV3NG85YVRDcEFPYkN5VVhfX1lNYUlyc0tuS0FWMkdDM0Y2Sms5d21FZC1xbjR5QlhVbnF1M1NhQVBiUVRfWWt5OU1jS0VPX1JNQkRPSnJ5RUstMU00MGF3VWFkZk5mLXN5dDhjMUhFeG5JVjUyZDFlVnFRZUVBNlFkVWVFNk5jUC16UWlJUjVER1l4MWZMOUstVEw1VXRkRWNiUTJUc0xJVzZJTjRFN2lDVVdKRA?oc=5"
   },
   "ap_world#24": {
    "outlet": "AP — World (via Google News)",
-   "title": "South America - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qalY2R19ZRHJzUUQwNGczTmNoRHBuZ0hzbVBPWUNFaWFXQ2s1X0kyQjEyVUVQQXE1c2NiQjVXVkk2WGlxQkhEWXZ3R1o?oc=5"
+   "title": "Pennsylvania shooter who killed 8 was family’s patriarch, father of toddler killed says - AP News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHFaUjhNVFltYnJUQ2NXWXRBYXNVaHVKakl4TExNT3F1OEFicDM4bUFIRU5ORGJnZ056V3BzSzZsN1E1MVZVRW45NTh2YUJaTWpJNnF1ZEV4ZmdoMzM1MnVZOTZ6UUxDcWx6cDlCU2Z1V18tYjRRQ1UwUTJsT0t5a3FfdDJBdHBGTWE2ZFk4WF9Yb1c5YUE?oc=5"
   },
   "bbc_world#0": {
    "outlet": "BBC News — World",
-   "title": "Delhi sees more protests as 'cockroach' group's leaders released",
-   "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss"
+   "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+   "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
   },
   "bbc_world#1": {
+   "outlet": "BBC News — World",
+   "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+   "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#2": {
+   "outlet": "BBC News — World",
+   "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+   "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#3": {
+   "outlet": "BBC News — World",
+   "title": "Watch: What's behind Trump's energy ceasefire claim?",
+   "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#4": {
+   "outlet": "BBC News — World",
+   "title": "Orangutans released back into Borneo forest after devastating fires",
+   "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#5": {
+   "outlet": "BBC News — World",
+   "title": "Poland detains man suspected of planning assassination of PM Tusk",
+   "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#6": {
+   "outlet": "BBC News — World",
+   "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+   "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#7": {
+   "outlet": "BBC News — World",
+   "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#8": {
+   "outlet": "BBC News — World",
+   "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+   "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#9": {
+   "outlet": "BBC News — World",
+   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+   "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#10": {
+   "outlet": "BBC News — World",
+   "title": "Pope Leo to have surgery after lump found on lung",
+   "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#11": {
+   "outlet": "BBC News — World",
+   "title": "Homes and bridges swept away as fresh floods hit Nepal",
+   "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#12": {
+   "outlet": "BBC News — World",
+   "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+   "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#13": {
+   "outlet": "BBC News — World",
+   "title": "Buildings swept away as flash floods hit central Nepal",
+   "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#14": {
    "outlet": "BBC News — World",
    "title": "US justice department investigates TV networks over Trump pool coverage",
    "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#2": {
-   "outlet": "BBC News — World",
-   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-   "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#3": {
+  "bbc_world#15": {
    "outlet": "BBC News — World",
    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
    "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#4": {
-   "outlet": "BBC News — World",
-   "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-   "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#5": {
+  "bbc_world#16": {
    "outlet": "BBC News — World",
    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
    "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#6": {
-   "outlet": "BBC News — World",
-   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-   "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#7": {
+  "bbc_world#17": {
    "outlet": "BBC News — World",
    "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
    "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#8": {
+  "bbc_world#18": {
    "outlet": "BBC News — World",
    "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
    "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#9": {
+  "bbc_world#19": {
    "outlet": "BBC News — World",
    "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
    "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#10": {
+  "bbc_world#20": {
    "outlet": "BBC News — World",
    "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
    "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#11": {
+  "bbc_world#21": {
    "outlet": "BBC News — World",
    "title": "Woman injures three people in third Poland school knife attack in a week",
    "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#12": {
-   "outlet": "BBC News — World",
-   "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-   "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#13": {
+  "bbc_world#22": {
    "outlet": "BBC News — World",
    "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
    "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#14": {
+  "bbc_world#23": {
    "outlet": "BBC News — World",
    "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
    "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#15": {
-   "outlet": "BBC News — World",
-   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#16": {
+  "bbc_world#24": {
    "outlet": "BBC News — World",
    "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
    "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#17": {
-   "outlet": "BBC News — World",
-   "title": "How the trial of murdered Australian brothers and US friend unfolded",
-   "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#18": {
-   "outlet": "BBC News — World",
-   "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-   "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#19": {
-   "outlet": "BBC News — World",
-   "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-   "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#20": {
-   "outlet": "BBC News — World",
-   "title": "US country music star Ella Langley cancels show due to 'security threat'",
-   "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#21": {
-   "outlet": "BBC News — World",
-   "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-   "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#22": {
-   "outlet": "BBC News — World",
-   "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#23": {
-   "outlet": "BBC News — World",
-   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-   "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#24": {
-   "outlet": "BBC News — World",
-   "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-   "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
   },
   "economist_intl#0": {
    "outlet": "The Economist — International",
@@ -604,23 +559,23 @@
   },
   "foreign_affairs#0": {
    "outlet": "Foreign Affairs",
-   "title": "Trump Is Gutting America’s Core Geopolitical Advantage",
-   "url": "https://www.foreignaffairs.com/united-states/trump-gutting-americas-core-geopolitical-advantage"
-  },
-  "foreign_affairs#1": {
-   "outlet": "Foreign Affairs",
    "title": "Iran’s Theory of Victory",
    "url": "https://www.foreignaffairs.com/iran/irans-theory-victory"
   },
-  "foreign_affairs#2": {
+  "foreign_affairs#1": {
    "outlet": "Foreign Affairs",
-   "title": "The Case for Economic Espionage",
-   "url": "https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen"
+   "title": "Trump Is Gutting America’s Core Geopolitical Advantage",
+   "url": "https://www.foreignaffairs.com/united-states/trump-gutting-americas-core-geopolitical-advantage"
   },
-  "foreign_affairs#3": {
+  "foreign_affairs#2": {
    "outlet": "Foreign Affairs",
    "title": "The End of Gaza",
    "url": "https://www.foreignaffairs.com/palestinian-territories/end-gaza"
+  },
+  "foreign_affairs#3": {
+   "outlet": "Foreign Affairs",
+   "title": "The Case for Economic Espionage",
+   "url": "https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen"
   },
   "foreign_affairs#4": {
    "outlet": "Foreign Affairs",
@@ -644,922 +599,832 @@
   },
   "foreign_affairs#8": {
    "outlet": "Foreign Affairs",
-   "title": "China’s Long Twilight",
-   "url": "https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner"
-  },
-  "foreign_affairs#9": {
-   "outlet": "Foreign Affairs",
    "title": "The Triumph of Tech-Fueled Propaganda",
    "url": "https://www.foreignaffairs.com/united-states/triumph-tech-fueled-propaganda"
   },
+  "foreign_affairs#9": {
+   "outlet": "Foreign Affairs",
+   "title": "China’s Long Twilight",
+   "url": "https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner"
+  },
   "reuters_world#0": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Poland says police got information about possible attack on PM and defence minister - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Zhb3YxM0h0Nm9Cd1E0Q3NNempnci1DZG9CMXNxdUx4TFJvSkwxRnAtZEdJT3BTTnZrMlROOE1JdjdlbXI2OGtGRlhlQXNLY0hKNnVIUHpQal9zcXF0cjd6TUFLUklFM0g5cUs5T3hWNHhPWlQ2Ni1fVkZJc1VBZ0JGX251MkV0Ty1SOTBRcl9ZeE5qOU5vbDhUUHhTMHVBVkJRZGNSMkZlVXNtSkJYMVpYX3JwRHpVRnp4VXBjanVlWFk?oc=5"
+   "title": "How India has sought to defend the slumping rupee - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFF2VFI4UGZEY2Q5dnVYMlRZZFU0SHVzbW5aT3MxMF9JNjhiNWtQYllxamg4MVl4UkNQenZ4RXY2NkZwVDJlUkltUzIta0xvRzE5RTFQdlZFTlU3YnVPM0lpOEtZQXJ2dlpoX2dwcmNJVUp4WFlhYVgwd3RXVlBYSTZOSmUzRWl4YU1aNy02UWtlNlZETll0R2txRmNOSl9Uc3ZqWk1PaEwzSmVwRTFaLVEyd3ZYM1FoVFE?oc=5"
   },
   "reuters_world#1": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Imran Khan's party's provincial government suspended by Pakistan president - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1nMTFTTndNQTNVc0pWZXVJNXk2SFBmN0tRNXB3WEpUMEh0QVQ4c2V2WExXczdUYVJza3VJd25ZNFl6Q2xsVzRwWm5jemFfN2Z5Q3Z3aDFHbDY5b3pFNFdPYnJNaWVzamNmQXdqSlRTeHhpTnY2STVENXYyMXZpZ29YQmNGWjlVaHYwcUh3X1huM1VoNVMwRS1ITy1Lcy1PTmFyZEhzQUhmR0xZQkpDclhGUXVoUTl6NUExTDNodGJmV0ZiNDJZRXJXak9pQQ?oc=5"
+   "title": "Gold gains on weaker oil, dollar; US inflation data in focus - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5"
   },
   "reuters_world#2": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDRzbE1PT1FMZGh0NlpiRzJua3BiVUNoeFhoTG9GRmJ4aENiZ3BJY0lBVnVrdkRKOFVBTUF4NXRhdjJPc2VlZEpwaWlhSEd3NDJGbW1aa3d3ajM5SnNiNGRYdGhxcTNyaVMzdWZrSkdrRmxXUzZSc3BvMzE0ZkFsZmpRZGFpeHZTWU9XN3VOMjZPUkNDdHRMVVFSWmRGenc0VWRsLURGcXZEVW5LNW9rcHk2WVFmOWE1LXJMUWdLcEJybjA?oc=5"
+   "title": "China sanctions Paraguay, Belize ministers over Taiwan ties - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5"
   },
   "reuters_world#3": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Saudi stocks slide after attack on Riyadh airport - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEliNzFKYlR3T0NNakk4TWxXWGJ0UlJfQ0JLdFVIRnlESENoRW4zdjNSWW02UjFJOFozRmlZdVZ2ZlFaOTFSdEc5RGd6QWVVaFFMNi1QRTdMSVg2dFQxaHROcjhjbnI4ekhnZUZVbXlmYVBQaDZ3TG1pcFQ5RnFaVXpfYUxWRG1acC1mYnR6d3ZtdXpxbTBBUFJkcU9ock1wbXc?oc=5"
+   "title": "EXCLUSIVE: AirAsia in talks with Malaysian government over potential funding support, sources say - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGxJQl94bEVFTEc4ZGZNOGVYVWlZS2tVVUhTenJQdDFfaTRqOG8yQ0Iwa1ZULVRUcUU1RTRVZzFrdHdrckhFOXlaamxqTEJJZjAwdFNaelhuaHhtUkt3OWczQXBkdlV5QVdybjg4UE9idDNTYjEzVVMxLWdaTENlaGJEWTZFSXVSQkctUXFIeS1kbUZUSVU0dU95dlJQQnV4Q3J2SVh6dU9RYXhVTGpya0wtbnJtYU5GTG92U2pydUdEeDZla2JSMVE5RFVFQQ?oc=5"
   },
   "reuters_world#4": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Russia's Yandex says data centre in Vladimir area shut down after drone attack - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEVGTzhxN05TYWgtUkQySl9UR3lQVGpkSDlobUNfX1drYzdjQ2p1SlZ0SmFnT2U0NW05UlpDdVVpaFR4OFpXRnJMUjdiMDBxeEc3R2Q1Y19PRGpKRkpmRkhfQUwyQUVnSEpYNVBRT1lSX2J1UlREeTJDdWVmcVZpckhzcmJZRUo2X2IwT0tXd3l3YUVTUWpNbzNEOU02WUxXazZwUnF2YVVESFJWSTkyakU1R3ktd2tVTF9CN0xvUmk?oc=5"
+   "title": "RBI's rupee boost to spur rally, trigger swings in forward premiums - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVFiR04tQzBaTjhhUXdKYVEzZUNuZVljNmFlVC1rZnlzRjdHU0NnbUg1UGw3bkhPVGRFcXhEMFFjY2ZEenNqZ0dWT1lBUUpYVjctcDJDcjBmbkczc2tzLThiMUdWZUd6Z25BODBmQi1FQ1g0eFdIYnozZk9wQWgwbkwzMkhFQThZT2hCanZrZF9Jb3dQY1hVa1ZMY0t5dDQzRXluRG15OVNyTkE?oc=5"
   },
   "reuters_world#5": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMUlyV0IybXFzanN6N1FSS3JuaEljNFhGMWtwXzJwR3g0S0NTVkNvUW1CSW4tSWxzY2txeTAxZGxvR2Y2RW53cklmbF8tNGVpaEFTRXlMeW15RkpkVGQ3clNwejJoOXBmQnhYd1ZXWGFJMVVBZ1hpUGFPWDdXeWV4LU1ORFVoekJleFlnOHFRenp4d29OVmV4U0c4eUJJY051RGFna01qMUJ2WFp3cGdHUm5kV0lSZ1hMMFJpdExQN21wMkJHcm1GU01yWQ?oc=5"
+   "title": "Indian shares set to open higher as oil eases, RBI moves to support rupee - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenFsbDRhbVJGa21YRV9MV1BuQkhlUGNYVzlhUU5nMmR6NWdnd19ZaU1IWkYwVExZbVVJUWNoR3RNNnlodEpiTUJVelRKQ1I0SUJRQzFlNjl3cUszd0lpbW5KR3BFNnJDUkU5ZGpaRHdUdFFxODJOYmJ3TGp4S2NPMV8tRHdLVk8zTzktaS1Sa1kyUS1EZlNuaDQtN1Rwdmo4dGhIbVM0NUM3ZElSNExNZw?oc=5"
   },
   "reuters_world#6": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Indian capital braces for second day of protests against poll chief - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXdTVG9rZnB6T0JIWTR3VHUzWWs1RmVSQkxIaGk5bTdXMG9URUtTYWNZMHl3b0tPMDlIbXpydGItZDZ3bk8xNF9xYkNVVG8xOVRUa1BIc2ZQdjlhbnVaOUUzMlpBbGdVbGpkWndEQmYtX2pkX1NXUlY4VHQybWRhaWZsSW9MN1ZESEFGaVRXcnJrc2NqeVRrOTdRcjlZUnN2TDc4dFhET0RTT2R4cG5acUxEOElrZw?oc=5"
+   "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5"
   },
   "reuters_world#7": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUhfcGw1bnduOEZwNWdrQUFlMUFUa1RXUkpsMjNXZlBSSGhpcVN5ZjBrWjVoQ2trc0p2aWszWkZlc2VvZTE5NVRqNXNuR0lSM1NnTmVUMlRpS1UteENwMlNZVjRubkNkbTRXSWZXM1kydHBLZlktYmVmRHJCOWRiQWFldHlSWkhTMmR3dTRDT0JrNnRaQ1VySk00VDItc0xaSTlFc1RZRVdLamEtZzJUXzNSVl9yUTZxS1AzT3BmclA?oc=5"
+   "title": "Taiwan says it is closely monitoring series of Chinese live-fire drills - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28?oc=5"
   },
   "reuters_world#8": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "India's 'cockroach' movement leader released from detention, lawyer says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRW5iSkVxTzNrMkFsTDhrdkJXX1ZDNGE2QWtCbVVjZ2kxUFYwc1A1TXNBM19kSnEtMUxrMmNUZk05aUcybDc4Z01MMU9PR1ZqVThBV1dqYnp0R0RZNXFoQTNpa1N6TDlJb0htd3Zyc3gyNHRnWFBzVEFicURTaldRYVlwaTVmWW8zajhXelhJYVJxTmRZWDRjekRaRUNNTEhxNXJlanJlZWE4amdocXdfZXlVWFAySktjdXc?oc=5"
+   "title": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnNEOHo2NzVEYW5MOEcybTVjN2xsbXBOSkdScUFqckU4R0VES0JjaGNnSE1RbkJWWEI5SnpuOWxBNTNUVHhqUEtGdjRPdmtHZ0hYOWl1VkZYQXJoWDI5WFJ6MER1OWlvVVVVWFdXb3JFZklJQUNQNjJ5NUpObkVSMkh3ZTZ1NWpRXzcwbFBwb1lFSkYzYktRd3FtTjIwRW9wZElFU0lRNkZvTnZlWk5fb2VuNGFlaXFxd0dxSkN1OTE0Zw?oc=5"
   },
   "reuters_world#9": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "India unveils steel policy aiming for 604 million tons capacity by 2047 - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDZ0aUMzTmJzc3g4cjBrVGxrdjlLRVNhWWJJa052Vi1iVHd2RmF2ZGUwZTNDeDlwTHg2b1d1VFNQNGdlUXJNLXJPTkVMbWNiY3FFblEtLTM2TVE2RHZiLW4yeGZvQWZHeFcyREcxUzBmTjVFU1JwcGZvRTZoTTZvb1F4NUlJQVMzUmVpY2ZCcXZPY1E2MjRSV3pHQnQ1VXZ2cXlmdUs4REVTNmtJMHN4VmtOVWdDQQ?oc=5"
+   "title": "Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTW5qMTNSMzRzTGhDdEQzcFdocF9zcGN1OHJ5ZlluUkVEazlxbFNqemJXLURkYzBZSnFwMEJGb2ItR0hxTW9ta240WFNYMkVFMDFWTXVkaU9oS0FxdnV2d2xuMVRRV3VYaTJqVzU0RWZnQTNGVXNEanlZZHBkQS1VU09XNkFDdWpad1R2Y3Y0OUdBX3FsSU1qU0NWeW1jLUdnNnl4bjhTZlc1UkdFbkFNb1ppSmc3S3lZMTRj?oc=5"
   },
   "reuters_world#10": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR?oc=5"
+   "title": "Indian central bank curbs to temper corporate rush to hedge against rupee weakness - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFgtUVBuX2VnM2otaHZHc08xZEFBRmtZZHV0QWNzTU5qSUhIcHJGWTZTNmpReXBQLS1SdlRBS3hpa1Jfb2tsZjV5eFRpeUtoLV9CdHVzUUJaVEw3aURPWEVEbF9ITGdoSVBoSFF6YzllelVWODM2TzkwWEhnTDJEUEpFWnUyaFZtT0lxc01WTHFkX0xLU1BNRFE0RWJwMzZzMnZ0VEtpYlhGTndtUlR5TjlOUFBvdU5OUDVtSkctMFV3Zw?oc=5"
   },
   "reuters_world#11": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Chinese Apple supplier Luxshare sees little negative impact from US patent infringement probe - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQWJiVDhwZWVZTUlBSGJOWFVGNlJtQmdTcGtwVTZnVHNtdjRqWXl0MW1uWi1GanQ3Tkhza0Z3d3JCdHFJQmpGWkpuc2Q4S0Z0MldRZmNqVDgxXzlPZ1AxNWV6SEhua3JYWURreUl4Z01oRmpCOWZsV1lxTUN3QXlUWHpjcHZXcEVhVFZhR01WN250VnQ5aDFKcmZncm43SHdOcVpKT2EzWkdRX3cwbEtHOGY0M0Y5SC00OVZJQy1Mb2RXQQ?oc=5"
+   "title": "Tencent plans dollar, offshore yuan bond sale under note programme - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlB3SUFzTnN6enBNVTRiVXFZdlZsUGRMaFFhR3RENzZQNS1pV2RFMU9HU0x2UFdUZ1ZPNFlFWkZEZzJ2T0g0Wm9JalctMVJaclZkaXk3VHV3Mk1tVnQyMHBnZ1JMb21XZENjV0p0Y1A0aTNzVXRIandNTm4tMnBvb3ByQTVLOHhteXNKUWtTZkZGY0FqQVhzRGxFYUhTZm5sdlBMU3VENXRTak96YjNsaXpHOEtMVUtOdUwzbw?oc=5"
   },
   "reuters_world#12": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5"
+   "title": "North Korea fires missiles days after South Korea's hypersonic test - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVAzSFJsZ3psZ1lpSjd3ZjVvcjB3eVRIajV0ZV9wWmt0S0c4R1NKQjN4TGM3VFMxTno4WVJuVnY5WU15QlRhSmMtTFRYUkw1LWNMY2hpcXJaaEQzR20zOGRVejVLUWlZMkJRSUJNZmRwRjJoNExBdFZVM3JwaVBFM3YxWlNVQnI0em1nSmsyRVJZU2t6Z2dHVnRIUXQ4TWRzam9Hd0lZdmpRRDhPN0EwTGVBNkJlQWwzYjZZcks0S3I0NnhfRHJpaDh5a1A?oc=5"
   },
   "reuters_world#13": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0xvMEdPQ1lSRVBDb3oyT00tRzROdy1sb2lBQXJIUEQ2VTRBM0NPNXJYZnFXVVJ0WWR2RkxaLVRZN1BQck02cEdneUVNS3pFUEFaSmlfRExjT184eUFXanBuaW1aMktiNDVYYjVSWHJYcDFVUjFqMVBNaWdQb3RhVWVLUGRQNG9CZUp6dUlEYzU3V25kWGtIMmo4Z3pROC1KV0J5LW9uYThWcnY1aUV3MnRTRHVWMXB4d2ZHMEtZZw?oc=5"
+   "title": "Shares seesaw in Asia as earnings loom, oil skids - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4VndfYlhKMjFvd01KYndaSHVGZ3dlckMtTUtucy1jQjk0aE9JcHRpdEFuSE1SZGFWZzV1TW1MVFFabU9oNEhfajl6MVVIbzFVVF85VUZaWTFMRmx1WDFPRHItbWhuVWpoUzRxcXBPc0V4Tmo1UUU3QjRfbw?oc=5"
   },
   "reuters_world#14": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Rubio pledges US cooperation in Okinawa murder case - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGFBbHJXSEdfVjRCbjdmbFRPWkRWMlRUdGpvc2RhRDFuR0lwY1p4UGc1S0I1eDZVNG1lbi0yTU1reWlGZmFzbFVTUW9yeEZFdEg3WDVES1VzQS0zXy1NZTBKVHRMdmlPaDdTeW9sY3d0OVNQN1dwVDBFMFlNa1hVR19ielpHOVRGd010QXBndzN6Vl9raEtaVC1sWEwzS3BIemduN2l3?oc=5"
+   "title": "US judge orders halt to taxpayer-funded ads featuring Trump - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVURYbEJsVDMteXRVRGdGQWo2RnduSDB3ZklKSERDM3pvY0Q4U0FrdDZxWmJNUTNqLVpQNzVFZWRWcGVfd2ZDYXRDcFRTb0Ftd2NlQUR5dm1QVDl3dXBlcG10TUtWc18ycXFMY0U0UUZoaGQ3SkRKUkRIMWRsSXEwUGZaZ2R5bHRkZDNyR3lkSWVPa29zZGF5VDVja3laUlMyblIw?oc=5"
   },
   "reuters_world#15": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Man dies after entering tiger enclosure at British zoo - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1QyaGlOTFk4cDFNNnB4YnNYVzE4WGx3ZDdVVVh3UTIzNVFPUFhsSzJJb3JONlp0NUVtSXhhb2lIdWFVZ2ZRdHN4Q0RXei1yMmJnYmxCZ2FINWVXN1lRNGdJLTMwbHlQdk1zcG5tU0RET2xoNF9kZ2FCRE10ckp5bWhwd0p5NXhPSE13aGJMMjEtb2QySGln?oc=5"
+   "title": "UK finance minister to call for big economies to get borrowing under control at IMF - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONG1DajNQSWZPY2NlRmE3amk1V3dVT1JkRXYwMm5oVTZ1cnU1V3BQY09pNjlaVk1vMDVobDBzTVY0NDZqR0x2ai1QWUtGMGswZlE3NGstVW1GMWtFTWt0M3o5cGlOTG4ydVVseUQ0ZE4yQ3RjSEFKM0pWZ2R5T3hLX1UxcS12VU9sekxheVIyZUNIbGlrdVdLbkhOYldfSlNKZm1FaUlWV1h6NlRDN3llZFBuVmlvZw?oc=5"
   },
   "reuters_world#16": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Spanish lawyer Gonzalez Durantez launches centrist party for November election - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUo1WGgwZll5cENWX1N0Nk81MHI5QnMtY3AtN3NTV2k5SzNiZ09NWS11Yk1YREdNYmdoZExwTkFuMTB3SGdrSC1xRWxwX2puaTFZUnJVUEdlZGxRTmt3Q215NXhoZ0otU3AyNFllS3lIcU1USjZKZlpWd2k1aFFsXzNBNm54S2s2aXFjbG9VX19QSUIyZjZubjhma3dzaHVhZkdlZ1lzMVM0Z0hzbzh1TFR6Q0dQWkU?oc=5"
+   "title": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ1hmZzQxZmpITVlBeVpjanJJRWhDN0JGWWtSb291VDJIaTR2ZXJuVDRtanlSUDdiQllFM1RqSjBHeXp6N2JaT1FnMXB5Yk45RWhOeFoxT3RGMEdJT3N1UG1SS0E3RWFvRG1Tci0waTNYWVBKeFcwOVJ6T1dVOV84cTZHY3B1ekdOR3ZqZ1NLWFZTN1Zoc3k2dWZLU0dOTnprX0ZBcnZLRmFsdUUxQkhNUkRpN1dpUE0wSTBHRVhIY2NrcEk?oc=5"
   },
   "reuters_world#17": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Erie, Pennsylvania shooter killed 8 people, then himself, police say - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9nRTZNVTRBQkNLeVNTSHA4Ul9ZX1lid0dwTXU3MTlUSlRWOFVONF9JU19tcklUSGNMZlpaWHVReTBkVC14SWltejE3OHVQNVhNYXoyS1lNUE81MURFV21pTnJQZUdNR254NUVYRlNUUlF1MHBQdHpMM2lSeUxyVUR1d000aEc5bGhjaVlDZw?oc=5"
+   "title": "Chile's El Teniente mine partially suspends operations after fatal landslide - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemctZDVjSUo2MDFRM1NPUW5XcS1xTldoZ21RYjJ4ckVldTZRQW1XM1ZDcTFxc3JZOVFKNEk4X3k5cmxmV2k3cXRuNnFBcjZfMzI4UElBdnpKMm56Qk96eVNEb1hqZzZUd2VRMEsyVDktQkNqRVlVeXAtRkpFR0RmellVZjFmQzZMS3dwZmc2ZkNlNV9mZ3VjNy1MY2FCaXBBcUJKakZ1NkZMQmlfODhvdTRhUzFvWEFiR1F5UzVNMA?oc=5"
   },
   "reuters_world#18": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "India's Infosys does not expect material impact from US PERM suspension - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlRc2FIcm5xZVkxS3kxQk40Q1ZGZ2JIQTZRVUFiRTA2Z3BTazVob1NCUEgtekdzNHNtcXM2c0F4Zkc2N1VWTzJCTjJmSWpPUTJkVFdCQTVQVWhmMy1DX2dQcXpXMHFfOE9EQ21BNjBnUFJhZFBXWDUxS0M0Y1NzSkJOVllmOWUtMzAwUGtsLW5xb0NYblpFRmJacXZES1c5dU5sNENTckpCUkZZY19B?oc=5"
+   "title": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEo2X2hOdlFVcmxza3ZQRmsxQnJlQ3JHbTN3WGZLWGhYRllIS2lOR0hUYkJwQWtJbkJFUTFWUzdiS005ZkgxR2pDY0dqQnQweGZ3Qm1qMHN3aUhCVzZxSzlyTVltbGVudkFvc2xaZFRBSzRZaFJQUlRQZWp4UlVrckxzcW9QUWlMaDN1ZjZ0UklUc1dWTi1yTjB5eFJYX19zeWdJX3lfTmZFTUh5OGZwb0Z3NnVIY1cxOE0tR1RvSE1pLUhkXzdEYV9GZUQtdw?oc=5"
   },
   "reuters_world#19": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5"
+   "title": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVW9SNC1teWppNnU5SXVIWGFNR1NyOEZQUzVXcVB5ZjlPU0pUcjBMUXl4dHVsMWd6c1BRbXBvQ3Z2bjllbVhuUWxLR2ZJUGwwUmpqcHB1S3otYklkalI3bHhqMmhLOTZVTFhQam51WHlmZFF5Y1YzSy1ZQUlPTmpiRjZ3TVZ4Y0lBWEpxejRNLUZ0dDBVNURTbENWVWNXZ3pPVzZ4MVFIZldMUUFZQW8zNHllMmR6UnlVZnQweEsybUVDTFUzYzVIYUUtVjJGczA?oc=5"
   },
   "reuters_world#20": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Pope Leo condemns death penalty as Trump mulls livestreamed execution - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUJFWFpWRFI1UEd3NDVNdjZkSkV3akwwd2lDb3IyaFdSenBkWllzSkxhYUdJUF9FS1NKQWZhcExmU1Z3ZkNWNlc3aVVlc2pTNFQyTnhfa0pZVVZIMzdDLWZ1R1lDUjcyUkVFRVJ0bmRvNkRaeGRDZzVQbHZGNmxBNnpPMndkZ250ZHNQYlJXUnh4WG4yWE9HU1cyZmdackJkXzJfTUw3VW1QT1ZpcHNvZg?oc=5"
+   "title": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3AyZ09uYTc2bWo2anlka18tNTY5eXB4MmRfeVhQR0R2MUtScC1DcUI3M0hmcFo0dTlTWXFtQmNuNzZ1OHg5cDVoUlBlSm1XaWRVbnpLNmU1VmFRUVFiaEtmVXJhdFhiNWF1YXl0MGptc0hJd1hyaFlNRVpkWFhUY1NaeW5zbVh4Mzktb0lyYXN3Q1lIQWdydkR5TURYYUlzcVI2NmFLYWgzS2hrUHlLR3ZHS3NvcEdnSHd2b1RuSE96aXRk?oc=5"
   },
   "reuters_world#21": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Israeli strikes kill five people in Gaza, medics say - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUhRYkpDR0ViRnlSNjNpcl94N3RPOGdvUHBlaVU0MXU3V2EtX1QwV2NFbGZTX3FtUnlYLTdmNmFIMlgwaHM0a1Z2MjB2UUV2cUNadGRHa1ZwTDJPakJ3d3VONVVwZS1WNnNmLVlkOW0yMXc5VDYxY1F3czY0QlFGSnpremd5UG1IcUlXMEhwNFBSLU9rQ3daalo5b1RvVW5ZajV6Wg?oc=5"
+   "title": "Russian attacks kill six people in two Ukrainian cities - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWV5d3JyTHZnTzJMQk5Dbm5fQ0tBb1hnOUhJc3hhNDJqb3NMSTFaTWNVelN6Z1FXdWpJSHBpOU1icE95Z1hKcEJJQmRkWXdtWGRBSkpBVVZ5aENPaEZWNnJPaVppYjBCVzFQS1FMYlhQZHFsZTQ1V25MMnVKQjNKVl90TENLSXFYUkstblpkZkFtWGtUU0t3Y1NR?oc=5"
   },
   "reuters_world#22": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Eritrea asks UN to intervene in standoff with Ethiopia - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnphMnlRVXBZZlZVeTJadUF2N0hWYVlFdjFFS0lYZENfMFFtc2pRejFvX0xXZFY5LUNPOGc5bWdOU0d6RmhZS3RXVi1KMlBzOHFMX1dvUmpWRDFVdThsTW1majNiSnZXdDM1ekpqYmhNUHpjNnhnOHJ6eGx1aTNyUzJPV2Y5X05saWp0OGwtMGpmX1ZBY0tMcmthdHVCVHVESm9QeWJHX2dIMTdNaWFMdkFjZnUyX0hWZ0FER3VyYmQzMU00?oc=5"
+   "title": "Rallying in Sao Paulo, presidential candidates seek votes and political support - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjlEZ1BkaE9Od2V1aVN3cG1yOFhXZ2wxRnYtcEFBaUpwMkkwSXF2Ykw4aEFNT3poRHJTckp1MTY2YTlkZjZvMHlCRGlaRllwaWlXMGhvTHFBbnNwdHNhdDJ5U0hTbERYS3NvQ0NEMkNXLVkxUjY0a1Axd2JIVWxRVUVNTlhmMkswUWtaUl9xRjFhbE5MQ2F2SVRwOXJnVEpWbTZWaHdFTkZlUmg5TXdMY296Q1FDRDM5a0FCOFBpQQ?oc=5"
   },
   "reuters_world#23": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Three injured in Poland's third youth stabbing attack in four days - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElMSVZYbDY4MFVxWG9LaF9IOHpQcEkyaFZNbWF0WEpVZGZsdkhXWG1oWVRhQWlxMkc2THNsdDBiYlNPOFFpY2o4c1VZRFg0YUplaW03YXBuanpsS2w1WnRLaHdxZTNXT0JldG5NRDBzaDdtcklFLUVUM0k1c2JscUxLbG9DUXg1MnYzM2cwQm5fQVJVb2huWUFrQzJ1ZHFFWjRPMVVpRW0wR3Jz?oc=5"
+   "title": "Polish police detain man over threat to PM and defence minister - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Zhb3YxM0h0Nm9Cd1E0Q3NNempnci1DZG9CMXNxdUx4TFJvSkwxRnAtZEdJT3BTTnZrMlROOE1JdjdlbXI2OGtGRlhlQXNLY0hKNnVIUHpQal9zcXF0cjd6TUFLUklFM0g5cUs5T3hWNHhPWlQ2Ni1fVkZJc1VBZ0JGX251MkV0Ty1SOTBRcl9ZeE5qOU5vbDhUUHhTMHVBVkJRZGNSMkZlVXNtSkJYMVpYX3JwRHpVRnp4VXBjanVlWFk?oc=5"
   },
   "reuters_world#24": {
    "outlet": "Reuters — World (via Google News)",
-   "title": "Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5"
+   "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUx0a0pvZmw1VkxoRkUyc1VTemRoQV9zWEFZMmpFd3ozM0Ytdy1QMnM1Rjg1Z0FnaklEZlktUWI3Z05mMlVYQmx0c3h3X29aMUIwN01ETml6cDVhNi1TUmVWMHZicnlHdHhHc0xXZ0Z6M0QwUEJEeE1ld3BWWHI2VlpRY2Z1QW44U0xnNTVXYVJBdkxGbThsWkVqVHdXbUxmNTI5NjZKaEpteDBYTlNkbmRSMA?oc=5"
   }
  },
  "israeli_politics": {
   "haaretz_he#0": {
    "outlet": "הארץ",
-   "title": "כל הדרכים להכין סלט טאבולה",
-   "url": "https://www.haaretz.co.il/food/salads/2026-10-11/ty-article-magazine/0000017f-ef0e-d0f7-a9ff-efcf6fc90000"
+   "title": "גם יעד זוטר הצדיק פגיעה באזרחים: חיילי מודיעין מתארים את שינוי מדיניות האש במלחמה",
+   "url": "https://www.haaretz.co.il/news/magazine/2026-10-12/ty-article-magazine/.premium/000001a0-ecb9-d259-a3b4-ecb9ac960000"
   },
   "haaretz_he#1": {
    "outlet": "הארץ",
-   "title": "תמר רודד שבתאי יוצרת בהשראת המדבר ונדודי השינה",
-   "url": "https://www.haaretz.co.il/gallery/art/2026-10-11/ty-article-magazine/.premium/000001a1-0c29-da81-abf3-dceb19650000"
+   "title": "רשות התעופה האזרחית בסעודיה: אדם נהרג ו־11 נפצעו בתקיפה החותית על נמל התעופה בריאד אתמול",
+   "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-12/ty-article/.premium/000001a1-2d64-ddc3-a5b7-bd7fa7480000"
   },
   "haaretz_he#2": {
    "outlet": "הארץ",
-   "title": "הורים גרושים? כך תמנעו מבית הספר להפוך לעוד שדה קרב",
-   "url": "https://www.haaretz.co.il/family/2026-10-11/ty-article-magazine/.premium/000001a1-0b65-d61a-aba5-3f65382f0000"
+   "title": "אז מה אם המדינה עברה אסון – תראו איך הוא חד",
+   "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-10-12/ty-article/.highlight/000001a1-2c7c-d3a3-a7f5-7e7c2f840000"
   },
   "haaretz_he#3": {
    "outlet": "הארץ",
-   "title": "הכל הרגיש עייף ומיואש סביב מנצ'סטר יונייטד. לא פלא שטוטנהאם צחקה אחרונה",
-   "url": "https://www.haaretz.co.il/sport/world-soccer/2026-10-11/ty-article-magazine/.premium/000001a1-295e-d90c-a7bd-a95e54100000"
+   "title": "במטה איזנקוט מעריכים כי נפילת המפלגות המתנדנדות תשרת אותם",
+   "url": "https://www.haaretz.co.il/news/elections/2026-10-12/ty-article/.premium/000001a1-2b24-d5c3-a5a9-2ffd89590000"
   },
   "haaretz_he#4": {
    "outlet": "הארץ",
-   "title": "בן שלטון הודח בסיבוב השלישי במאסטרס שנחאי על ידי המדורג 56 בעולם",
-   "url": "https://www.haaretz.co.il/sport/other/2026-10-11/ty-article/000001a1-2a32-d695-abad-fafa450b0000"
+   "title": "\"תסתכל לי בעיניים\", הטיח איציק מרדכי בנתניהו. מאז ראש הממשלה לא נענה לעימות",
+   "url": "https://www.haaretz.co.il/news/elections/hozrot/2026-10-12/ty-article/.premium/000001a1-2b60-d5c3-a5a9-2ffd70810000"
   },
   "haaretz_he#5": {
    "outlet": "הארץ",
-   "title": "בלי 72 שעות התפחה: פיצה קריספית בסגנון רומאי",
-   "url": "https://www.haaretz.co.il/food/recipes/2026-10-11/ty-article-recipe/000001a1-29cb-de05-a9a9-39ef56af0000"
+   "title": "שום דבר לא יכול לכפר על מה שעשיתי. גם לא שתיית אקונומיקה",
+   "url": "https://www.haaretz.co.il/family/modernlove/2026-10-12/ty-article-magazine/.premium/000001a1-1a25-dba5-a5bf-df650a070000"
   },
   "haaretz_he#6": {
    "outlet": "הארץ",
-   "title": "\"קונטרול: רזוננט\" מותח ומהנה, אך ככל שהעולם נחשף הקסם הולך לאיבוד",
-   "url": "https://www.haaretz.co.il/gallery/gaming/2026-10-11/ty-article-review/.premium/000001a1-1584-dcab-afa3-ffcf55e40000"
+   "title": "\"חיות אדם\" מתיימר להיות דרמה חברתית־פוליטית אך מריח כמו טראש",
+   "url": "https://www.haaretz.co.il/gallery/television/guide/2026-10-12/ty-article/.premium/000001a1-2a8e-d707-aff3-2fcf36570000"
   },
   "haaretz_he#7": {
    "outlet": "הארץ",
-   "title": "בישראל עדיין מחכים למישלן. בדובאי כבר סופרים 20 מסעדות עם כוכבים",
-   "url": "https://www.haaretz.co.il/food/2026-10-11/ty-article/.premium/000001a1-1bf8-dd2b-a3ef-9bfcfc960000"
+   "title": "סבה נחשב לגיבור מלחמה. רק אחרי מותו התגלתה האמת הכואבת",
+   "url": "https://www.haaretz.co.il/gallery/literature/2026-10-12/ty-article-magazine/.premium/000001a1-0b6d-d26f-a1eb-5b6dbbf40000"
   },
   "haaretz_he#8": {
    "outlet": "הארץ",
-   "title": "סאונה צפה, רופטופים ורוח קרירה: איך מבלים בביקור קצר בשטוקהולם?",
-   "url": "https://www.haaretz.co.il/travel/travel-europe/scandinavia/2026-10-11/ty-article-timeline/.premium/000001a0-e350-dbd2-affb-ebf8e2ad0000"
+   "title": "מוטציה נדירה מגינה מסוכרת ומחלות לב. עכשיו מנסים להבין איך לחקות אותה",
+   "url": "https://www.haaretz.co.il/health/2026-10-12/ty-article-magazine/.premium/000001a0-e6f5-db4b-a7a5-f6f79a770000"
   },
   "haaretz_he#9": {
    "outlet": "הארץ",
-   "title": "טאבולה נקטרינות והרבה עשבי תיבול על קרם בזיליקום רענן",
-   "url": "https://www.haaretz.co.il/food/salads/2026-10-11/ty-article-recipe/000001a1-2a26-d90c-a7bd-ab265f1b0000"
+   "title": "שבועיים לבחירות, הפחד מטעויות הפך את קמפיין איזנקוט למשותק",
+   "url": "https://www.haaretz.co.il/opinions/2026-10-12/ty-article-opinion/.highlight/000001a1-2b1b-d1b4-a5fb-afdfd0fe0000"
   },
   "haaretz_he#10": {
    "outlet": "הארץ",
-   "title": "אחרי ש־12 נהרגו בפגיעת טיל בטרמינל בריאד: החותים הזהירו שלא להשתמש בנמלי תעופה בסעודיה",
-   "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-11/ty-article/.premium/000001a1-2a0d-de05-a9a9-3bede0ea0000"
+   "title": "מה קרה לבחור הטוב בני גנץ?",
+   "url": "https://www.haaretz.co.il/opinions/2026-10-12/ty-article-opinion/.premium/000001a1-2b1c-d275-afe5-2fdfef1a0000"
   },
   "haaretz_he#11": {
    "outlet": "הארץ",
-   "title": "עשר שנות מאסר לסייעת בגן בהוד השרון שהורשעה בכ־270 מקרים של התעללות בפעוטות",
-   "url": "https://www.haaretz.co.il/news/law/2026-10-11/ty-article/.premium/000001a1-29d9-de05-a9a9-39fd67990000"
+   "title": "גם מי שמבטיחים אלטרנטיבה לנתניהו פוחדים לצאת מהמערה שלו",
+   "url": "https://www.haaretz.co.il/opinions/2026-10-12/ty-article-opinion/.premium/000001a1-2a77-d90c-a7bd-ab777ae60000"
   },
   "haaretz_he#12": {
    "outlet": "הארץ",
-   "title": "תפוח האדמה הוריק או התחיל לנבוט. האם באמת צריך לזרוק אותו?",
-   "url": "https://www.haaretz.co.il/food/2026-10-11/ty-article-magazine/.premium/000001a1-1aae-d70d-a5b9-fbbe4f850000"
+   "title": "פסטורליה של טיהור אתני: בסרטון של בן גביר, העזתים מתחננים לגירוש",
+   "url": "https://www.haaretz.co.il/opinions/2026-10-12/ty-article-opinion/.premium/000001a1-2ba5-dbf1-a1f3-fbef18ea0000"
   },
   "haaretz_he#13": {
    "outlet": "הארץ",
-   "title": "נמרוד חביליו: \"כשאני הייתי ילד לא היו דמויות לחיקוי של אוטיסטים מבוגרים\"",
-   "url": "https://www.haaretz.co.il/gallery/literature/2026-10-11/ty-article-magazine/.premium/000001a1-01d2-d9c5-afb5-13d73dfd0000"
+   "title": "FRANKCO: השף מושיק רוט, כמה טיפשים אתה חושב שאנחנו?",
+   "url": "https://www.haaretz.co.il/food/street-food-review/2026-10-12/ty-article-review/.highlight/000001a1-2bcc-d7a5-a7b1-bfdf0ea90000"
   },
   "haaretz_he#14": {
    "outlet": "הארץ",
-   "title": "אחרי שנחשף ב\"הארץ\" כי המשטרה חושדת שהכה שוטר בעת מעצר, קרויזר הגיש תלונה במח\"ש",
-   "url": "https://www.haaretz.co.il/news/law/2026-10-11/ty-article/000001a1-2a0b-de05-a9a9-3bef7bb60000"
+   "title": "הוא ניסה להוביל את שיקום הדמוקרטיה של פולין. יש לו כמה עצות חשובות ליום שאחרי נתניהו",
+   "url": "https://www.haaretz.co.il/news/politi/2026-10-12/ty-article-magazine/.premium/000001a1-2aa5-d1ed-abbb-efb5f1220000"
   },
   "haaretz_he#15": {
    "outlet": "הארץ",
-   "title": "טראמפ האשים את זלנסקי במחירי הסולר הגבוהים בעולם: \"אוקראינה צריכה נשיא חדש\"",
-   "url": "https://www.haaretz.co.il/news/world/europe/2026-10-11/ty-article/.premium/000001a1-29cc-d90c-a7bd-a9ccfbc30000"
+   "title": "משרד הבריאות: ריכוז בנזן חריג ליד בז\"ן, שני בתי ספר באזור לא יפעלו היום",
+   "url": "https://www.haaretz.co.il/nature/2026-10-12/ty-article/.premium/000001a1-2c86-d618-adfb-be96e29d0000"
   },
   "haaretz_he#16": {
    "outlet": "הארץ",
-   "title": "משחק בליגה הבכירה בספרד הופסק לאחר שאוהדים זרקו מטוסי נייר לכר הדשא",
-   "url": "https://www.haaretz.co.il/sport/world-soccer/2026-10-11/ty-article/000001a1-29b2-de05-a9a9-39fe3d620000"
+   "title": "לאחר ש־12 איש נהרגו בתקיפה קודמת, נמל התעופה הבינלאומי בריאד הותקף שוב",
+   "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-12/ty-article/.premium/000001a1-2a0d-de05-a9a9-3bede0ea0000"
   },
   "haaretz_he#17": {
    "outlet": "הארץ",
-   "title": "הסדרה החדשה \"הבריחה\" על כת בדיונית היא דרמה במשקל נוצה",
-   "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-10-11/ty-article-review/.premium/000001a1-2712-daa9-a9f5-7796b3fa0000"
+   "title": "קריקטורה יומית | 12 באוקטובר 2026",
+   "url": "https://www.haaretz.co.il/opinions/caricatures/2026-10-12/ty-article-opinion/000001a1-2b7e-d1b4-a5fb-affeaaa30000"
   },
   "haaretz_he#18": {
    "outlet": "הארץ",
-   "title": "מנדלבליט: התרגיל לחפץ פסול, אך בירורו היה משבש את החקירה החשובה יותר",
-   "url": "https://www.haaretz.co.il/news/law/2026-10-11/ty-article-live/000001a1-2974-d695-abad-fbfcc0000000"
+   "title": "השר לביטחון הכהניסטים",
+   "url": "https://www.haaretz.co.il/opinions/editorial-articles/2026-10-12/ty-article-opinion/000001a1-2b73-d1b4-a5fb-afffb2c40000"
   },
   "haaretz_he#19": {
    "outlet": "הארץ",
-   "title": "גם במשחק לא טוב, ארסנל הציגה מנטליות של אלופה",
-   "url": "https://www.haaretz.co.il/sport/world-soccer/2026-10-11/ty-article-magazine/.premium/000001a1-2734-d0ca-a7b7-bf36722e0000"
+   "title": "חדשות היום, 12 באוקטובר",
+   "url": "https://www.haaretz.co.il/news/dailynews/2026-10-12/ty-article-live/000001a1-2cbe-d7a5-a7b1-beffe43f0000"
   },
   "haaretz_he#20": {
    "outlet": "הארץ",
-   "title": "מטברנות קטנות ועד מסעדות הגל החדש: איפה לאכול באתונה. מדריך",
-   "url": "https://www.haaretz.co.il/food/2026-10-11/ty-article/.premium/000001a0-e18f-d285-a7f5-fdffc84b0000"
+   "title": "הפועל ירושלים הביסה את הפועל חולון 69:92",
+   "url": "https://www.haaretz.co.il/sport/basketball/2026-10-11/ty-article/000001a1-2ca9-dbf1-a1f3-ffef48e70000"
   },
   "haaretz_he#21": {
    "outlet": "הארץ",
-   "title": "אי של שפיות בארץ מוסלמית",
-   "url": "https://www.haaretz.co.il/blogs/photoblog/2026-10-11/ty-article-magazine/000001a1-1971-dbd6-a5a5-99f7071f0000"
+   "title": "בית\"ר ירושלים הביסה את הפועל רמת גן 0:4 ורשמה ניצחון רביעי ברציפות",
+   "url": "https://www.haaretz.co.il/sport/israel-soccer/2026-10-11/ty-article/000001a1-2c6a-d1b4-a5fb-acee160d0000"
   },
   "haaretz_he#22": {
    "outlet": "הארץ",
-   "title": "תחזית מזג האוויר: גשם בדרום ובמזרח עם חשש לשיטפונות בנחלים",
-   "url": "https://www.haaretz.co.il/news/weather/2026-10-11/ty-article/.premium/000001a1-25f4-d90c-a7bd-adf4e8c20000"
+   "title": "בנט אמר שיסכים למינוי נתניהו לשר, וחזר בו לאחר ביקורת של ראשי גוש איזנקוט",
+   "url": "https://www.haaretz.co.il/news/elections/2026-10-11/ty-article/000001a1-2c50-d1b4-a5fb-acdc91f10000"
   },
   "haaretz_he#23": {
    "outlet": "הארץ",
-   "title": "גוש השינוי לא חייב להקים ממשלה כדי להתחיל לפרק את הנוכחית",
-   "url": "https://www.haaretz.co.il/news/elections/2026-10-11/ty-article/.highlight/000001a1-2609-da33-a1bb-ae5fb0e90000"
+   "title": "סקר כאן 11: גוש איזנקוט נחלש ל־50 מנדטים, וינטר עובר את אחוז החסימה",
+   "url": "https://www.haaretz.co.il/news/elections/2026-10-11/ty-article/000001a1-2c00-d1b4-a5fb-accce4b30000"
   },
   "haaretz_he#24": {
    "outlet": "הארץ",
-   "title": "מצוקת סעודיה עלולה להקדים מתקפה של ארה\"ב באיראן",
-   "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-11/ty-article/.premium/000001a1-275b-d695-abad-f7db93cf0000"
+   "title": "מרכז הסקרים 2026: מפת המנדטים העדכנית מכל סקר בחירות",
+   "url": "https://www.haaretz.co.il/news/elections/2026-10-11/ty-article-static/0000019d-f2ad-db6e-ab9f-f7bd1bda0000"
   },
   "kan_news#0": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "דרך הודו | פרקים לצפייה ישירה - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKUmtOQkhjamJsMXIyWWxkRm5UOEswS2V0TXVtRGxVZnFab2l1akx2NEhRZFg3UzA3OG5rUmFtSjhQY3QtcEIwMFlrSC1QWWozVUZPZmFNam9pYXdtSlJ2cGUzbzI?oc=5"
+   "title": "שרי החוץ של איראן וסעודיה שוחחו כדי לקדם פתרון מדיני לבעיית החות'ים - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1l2TkN2eWlZLTRPQm05bDlkMEl4b01yRVROZWhFRmNhMFp2bG5nYkJkNGFpUDFZZDB0NFVHTFNnNnA4cWNhbjJZOURIZi1qR09TRHNVcTFBS0tPN1JKdEVLUzFiNHROWjlBaU1faUg5eGt6RXdJV2dha2RtU1MyZC1B?oc=5"
   },
   "kan_news#1": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "נחשד בניצול סמכותו לרעה: תא\"ל יוגב בר-ששת, סגן מבקר מערכת הביטחון, פורש מצה\"ל - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JOGhRZXBWQzBkejNma282YVZLSlRNaUFsWkVMUEgwekJSSE1LU1FjZHBlU2dFaktSS0RyVVNoZmtTeG10TWlDaWRiYWtSbUFvM2J3cGNtb0tPc2FsSXdXVXNMSEJCRlU?oc=5"
+   "title": "צה\"ל: תרגיל צבאי בגליל - תנועת כוחות והדי פיצוצים יורגשו בין ירכא למעלות-תרשיחא - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdW1LVVpxNjRzTjFTQktURzhGTFdxS2F5VTVBYjdZQktEVnR6MlQzdlhjc2hjT25jTVJRT3BUYnpGVTVCNXVSc0FzSTB6UC04SGtwUldUQ0oyZkxMbXJyRWFQYkJOakRTZUFtbHR1d2doTHlteHpxSVJLU0R2b0FnTG13?oc=5"
   },
   "kan_news#2": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "היערכו מראש: צפי לשבוע של עומסי תנועה חריגים במרכז - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6elhLa0d1ZUlidDViWDUwZzJnME9nNEQ0bkZkTDE5NXhPUDVmazUzaTZ1NnlNRjZsMloySnQ4X1hmRmZGcHVGajAxWWFRaXZTX3ZLeHE0MC1LdU9USlZjbVlDMmI?oc=5"
+   "title": "תיעוד: רגע פגיעת הטיל החות'י בנמל התעופה הבין-לאומי המלך ח'אלד בריאד - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13TUljck9jWHlOZ2p2RENVYUd0UXFYdVExYTlHV1ZNWnN1TzQ0cjdnbWR1Wk9UV1pELVRPLUtfTWVOYkpjUWY5Yll1Ti1qV3dpSmlyel9ScEZGR0FtVnU3bG9FbGtWYkVIWFdHaHZ3?oc=5"
   },
   "kan_news#3": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "בממשלה מפעילים לחץ על הפצ\"ר: ליישם את חוק עונש המוות על המחבל שרצח את נתנאל שקרון - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yWDB1MTNqRjFYQWZ5bEFrbkxWV1VWX0RacjBGcjRvd01HR242WEE5dHhEZU1lV0Z1enlOZjJhRVRQZzFHWG9PcDBxeHBrWktjc2U2Ujh5Ml9fX0RXS2I3UHprN202LWM?oc=5"
+   "title": "11.10.2026 - אוסף פרטי - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWTdWMXRUWVpKczdhQ1NMUk94aDBfWmpoZ1lSU1ZyLUFQR3Foa3RSekVXeTRuZkJXQ3prM0VaNWJxSTNPN0l2cjBad1BXRkdIdzBGTlJsRUktaGN1N2J5Q0dtRUIzZWJRZ0dsNQ?oc=5"
   },
   "kan_news#4": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "חדשות פוליטיקה: עדכוני היום בתחום פוליטי- מדיני- כאן 11 - Page 881 of 881 - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wVVJkZm5Yc2RBdDU1OElrYW56akk2TUVfdklNckhETmN2a2phRU1SeUwwNnIxUXlfRDQ0V1NBSXFPWlRGSkhGeHpNMndEZW1YOUxpUlBrMkNsSVN3Nm9TTkdoRUJFeTVILXhlZ3NkVEJHQQ?oc=5"
+   "title": "האיש שעבר צד: הסיפור של אביגדור ליברמן - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZOTZKc19kU0xfZk93X0VnVUVvbm5DN3JqLWV3ZFMyQi1qUGRtRHNHaTd5SXlrTGRjaHpGRVJYbUptZWRsWjd4NDJ5S3hsTWl5LWJQLVI1QzFiN29YVXJ6SE9rNmlwMVZ5WmJuQnNhUQ?oc=5"
   },
   "kan_news#5": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "גורם במערכת הביטחון: חמאס משתמש בבתי חולים לצרכים צבאיים - ונערך ללחימה - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95UnNBb01zX1lhT2hoZXBVbmtiUHQ3U2ptMVU2dHc0ejFXMG1MNmNZMUZjSFYtOXAxbExXSG9sYm5PSlAzeTZHSE5BQXpzcm9GaTJ0SWZXSFdQUy1hdk8zWUN2UDI5VFE?oc=5"
+   "title": "סעודיה: יורט טיל בליסטי ששוגר בידי החות'ים לעבר ח'מיס מושייט - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS3ZlRFJ6eGthaVBVUUYwVW9TZmk0Y2p1Ql9pY3FjX056WjRRSVBQc2FqazNJLS1yelFCYVF0U1ZiVHVVRjJxOThzM1lVd01haG5BWkJqMmpwZ0MtUlpCLWZqTld5T0FIdHlvamZfRno1c1doTS1Pb0EwSm9VeHR0WjZ3?oc=5"
   },
   "kan_news#6": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "לאחר שהורשעה ב-277 עבירות בפעוטות: 10 שנות מאסר לסייעת \"הגן של סיגל\" - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81SVd4dDRxUXFwZnNwVEdPandKR2thbGN1RkdEdHZKXzRISF9vR1UtZHpfc05MbmlheFdYaGZndDd4LTJYUmVMVjJpTkdvRlVyc0o4SjBQbjdwZXNBSkROUWlYZm4?oc=5"
+   "title": "11.10.2026-Ночная смена משמרת לילה - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PRGJlWlJRei1FNEgyTEZqNXp0S1BHUnBRMDAtZHJYRFFtRmhiY1FiQ2RsbU9mZ0F1Q1VwN0c0VXItMVRsOVE1ZWRhQW9WclFrSktMMXR1UXFweWlSVGg4Qm9WUlZWamU2a1FMZE5XMC1IN0k?oc=5"
   },
   "kan_news#7": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "37 שנים אחרי הדיכוי והטבח: תיעודים חדשים נחשפים מכיכר טיאננמן - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zUi1SYnBCUlVVZ2JrLUlSUlNFUi1CRzYtaEpMRnJsX0RncVdXYmhSTTYzalE2WmRnVzhIS3JhaTVpN0pDaTZ1MGhma2RLTWY1V1QtLUtHMjdVQi1VUVJOVkdDRkd1UQ?oc=5"
+   "title": "החמישיה הקאמרית עונה 2 | פרק 2 - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xME9adlI1TVUwR3d4RGNSNXZQOXg2TUtFaTBlbDY1THdRVnNObjZsQWFFT1lIcWNwaDRjMjctVXdubTZPd2JkVFFZcW9EUWZKU1Z6V0V6QXpUdWQtdUFMS2dvdHByNVZEZVdsaFJRS2N0RWM?oc=5"
   },
   "kan_news#8": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "מדע לא בדיוני - פרק 1 - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWEI1RDRObDlETFktZ0EwYVpGWDdEODlpclpvNHFOdVg0V0FvOTdTcWEtMlMtV1JSM2x0eFFxYWdEeGk1WENZVVZPRHl6YWJaalYwTE84bkNERkpUME9PVlgyUmNGNW5Ca3NJUXkwcWZmWWVTczN2ZlV0VlBIdkRsNEs4Sl9BUW4tb2tlNFhNSml5b3lpQWRCcXlYMzVvNFh5MDlOR1FQNkZwckc4UVJ4UGRIMUZEZzRMaFM0cERsaUFTQVNZWmdR?oc=5"
+   "title": "11.10.2026-אלבום לאי בודד - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fbmI5MVVEOUVtNEt1ZzRldkdCTUZBdkVMT0RkWk9NeWNybV9qNVpCeWlwdHA3Z2wwU194X1VCejhtQUI1SnVHMjUzVU9ZUVJQLV9xdzFRSEltclF4Yjg0S3ZMNHh2T0RVVm45NkZqNA?oc=5"
   },
   "kan_news#9": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "תביאו שניים תביאו שלושה תביאו ארבעה ילדים - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01LUEteU95TmVsVV9zSnNjRWV0a0g0NHFZZ3V3VDIwMnlDdlBfYlpJM1JDeFI1MFdRTjk2SjlRVU83OGFpQWFwbFZFMmhiMFkxWnNEV0tLamFueGRLX1RJSGQwNjhBVk01V3Rr?oc=5"
+   "title": "ההגנה האזרחית הסעודית: הסכנה חלפה בעיר אבהא - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnAxNWN4d2doWGhGVW10cURDQVRPdEVfNlNXWkpIaVN6ZmkzSkx3R3UtUFJETWQ0V3FQZVFhVURTclU1QXN2VElCUjdFYlNKcUF5Y1JpU3pDa0VFclZGcnM4OEdXVHZYcUlybWVDVW5fWHFsWm5TNXlVanQzRzAza1pR?oc=5"
   },
   "kan_news#10": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "בצה\"ל לא יודעים לומר אם העצם האווירי שחדר לישראל בלילה עוין | תיעוד - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFJiSDB4cnFkWS1mVWlaSU92QXhXWEdQS2pia0Y2c3l5aUppTHEtbHFVcVpjcVVOdDFhV1k4Ul9HRWllSUJxTU5haDM2Yl9iMmpjZ2I4THpZS0gwd3VZdmtqN2RIWkNkU1F5STRlOWZMaVdYdnZZcDFrcG9la0JfZVJ3?oc=5"
+   "title": "11.10.2026-שיר השירים | שיר של יום - דבורה גוטמן קיציס - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NNHFnWG9adlNHWnVqUXhWRkliWTdZM0YzbnkyUTc1ckYtM3N5YWpPWVFaNWp2VURVMmJpckNVei0wTmNxeVJfeDVhdW0zdVc5RDFldU1SZi03c2Uxa1VkNmNWWGx2RjNiRzFEWWxxcWpzSUdmM0VtNWZJei1OYnc?oc=5"
   },
   "kan_news#11": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "הסלמה בסעודיה: 12 הרוגים ו-309 פצועים במתקפה על נמל התעופה בריאד - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0anJjYXdpYlNEOVR5a0FCREtCdmJqLS1SSnRTbFN2UDEwREw4YUZ4M3FEU3dHZE9RU0wwNk5xQnNKanlKSXdFcU5HYnJTNGRtNy0wYWJMUE52RXpJR0toUmdPenpndw?oc=5"
+   "title": "11.10.2026-זה מגיע לכם - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04cHBwZTEzNWlwOE90UEVKems1UlE1MGoza2l1SHdhbHZYVWo0M3dVYUFEa2FMcUJzSWdXS01JUUtaZnBBeHUzZDhBazh4aklPQVhUSEpOd05pbk5ITmFwVjRRRTdGMEtjUzZjb1E2eUd1aFFMZHc?oc=5"
   },
   "kan_news#12": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "נמשכות הסריקות אחר עצם אווירי חשוד שחדר לארץ מלבנון - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2Y2QjhzN0lnR1FaY0ZHWGxPOW5mYUM1YXFwQ1Z1cGpQQVN1a21iUUdMaFFYRDRFckpMRkdGWmpabHJHZHVMSXNTenBqdFJvcnJyejduVV9LLWRhcUF3Z2tPelVTWXJHUU9ZUzRyWDJ0RkxESHBETTk5djJfTDRPem1R?oc=5"
+   "title": "איתי בלומנטל - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOQWMwZGw2TnFsYkZ0d3FvSnRWdGV6bHZXdmlxc250YmpGc2JtR2pHZ3otS09jQnFnNTJnVVpYMmdvTmxQd01NRU9CTmgwZDk0b1h5c095WjI4ZVFZWGxNQ0xxdnEwWmhuZS1qdmxaa242dmlicXVfMjFVYWctM21YeXFGMDFCNE5wclVPV2p6WGY5VmlNZlpGSEY2VHRSRzdNQkJxUG44NllJcm0xQTZWaDd2aExIQjlSb2RLYlpDUi1HWGo1cU04QkJHTkllcHlpcEFNODhiOE1yV3pONWxKN19IemItS3FST1UwVGZEaGNxNXdPMGE2TG1HTW0xcldUNkhHVFg4ZXRVaFN4UkE2c1pWcTJvbHRETVBIZkdvZnkwOTcxN2JUWjJvNTVCSGVrQUxhWWpUSmE2ZjVKVDZFOHh1MWRIVUlIZVJNLTduWQ?oc=5"
   },
   "kan_news#13": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "בני גנץ: \"ממשלת השינוי? אני לא רוצה לחזור לניסוי שכשל\" - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGl1NGh0aFBvZlFBSktkanBHbXN0MDVWSURBTVZ6UDZHSG10Z2QtX3c3VWY5NTFLb1dNeXpqd0pSdUxkSDRYRTJDYWsxa3JtNnFMeS1DV0NmeHhLNHVSaEM0N1ctYWFSQlRXNzh4LWEwNnUtaGFHbzlBTDJvYkotYW9n?oc=5"
+   "title": "רשות התעופה הסעודית: הרוג ו-11 פצועים בתקיפה בנמל התעופה בריאד - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSG9zQ1ZBUnloZ0xNOHJodDhhTDMyMFdDMGt2bF9PR0E5WVN2Wl9NWVZGM2xoZ1lRampnZVA4NkFLOTU5Z0V0cGs0TWZmelRRX2VqbFlkVDloa0U4c2wzVUtuOVpBX2Fyb3VSSzlKNEU0RVIyUDRSai1fS1FRNm1LTG93?oc=5"
   },
   "kan_news#14": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "טראמפ תוקף את זלנסקי: \"אוקראינה צריכה בחירות, הוא מסרב להגיע לעסקה לסיום המלחמה\" - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lTFVVVTJITHNSZ1JPNW5LczFESnlrcDlMX25YUmZnc3ZUTmc1OTlTcmRXWkIyT1JrMFphdDFkNldjZmE3TGFVSUxTZTktSmlCTFhvSFpVYWw2UVFfNVI4RThKZ0hsZw?oc=5"
+   "title": "11.10.2026-משדר הערב – יוסי בן עטר - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zOGtrZnRVMC1NcGZJVFBFVHRXVU1pLXVHbHdRdGNJazhmMTZOcXAyWWVxMHhPUUw3OC1walFVaHhJdm1kNlhkNE1LRTNFVE1qTDNuVG8tV0p6OE00VnNfRmpucGJ4aHZtOEdaTjNIbWRjWXFnYTgxTGNB?oc=5"
   },
   "kan_news#15": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "מדע לא בדיוני - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlp5OHdGc2kwM1hEWVB2ZFlUWHlLNlFESVlTR2VuQVpPUTRzVmM4SV9lNUpBY0U0X0N2RXY4LVJHMkdtNG5vUlFuRGZ4SFBDZVFYY2ZsRTNKWGFUR1ducXZ6ZFF5cFhRc0RYMXA4ZmE3RFFrWThYU1JYYXNtT2dUQ3lxbXE5ejllMUg4bko5ZUR1Yy1QQWFwdnZJMWJmQmNZbHRaOERkSy03X0tXdmhFb3pZZWVhZmEzTWpWcA?oc=5"
+   "title": "11.10.2026-צבע הכסף - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFUTkyc0NGRHF4NmFZQm11QjJoMVhLT2liRk1EcDZfSm13Wld0eG9PUVh3MVVTUE8xSFBXc0JfNExDcWMtY2NRLXEtQlVyT042eE1ad2RqbmcwQS1JTHdZVTc2ZGVISmxLNEhmZ0ttRHVWN21RVWc?oc=5"
   },
   "kan_news#16": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "עופר וינטר: \"אני דורשים שתקום ועדת חקירה אמיתית ל-7.10, אבל יש מי שלא רוצים להיחקר\" - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHJKNHZ2MHN3RURLRXdHdl8zbkIwVDNjcDVVREkzYlVpaTM4cXpkQUZyaThiblZNcDdWdENURXdfRUstcGVpSkt0cmVpblViZjBPTnFITzJpOHFVc1VYcnlhVE4tTHNrd3ZKZHlaUENYZVVWODlEU3BFM3FmTzRESDR3?oc=5"
+   "title": "גורם לבנוני לכאן חדשות: חיזבאללה מנסה לטייח את תפיסת משאית הנפץ - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJYk9fa3h5cGV4NERVb0t4WjdOMDRYckNpSVNlek9MeF9CbndEWk5wT1g2UGYwQU56V1lsMkpKOFY0VE8zQnU2UFBSUkwwNmdoVTZtbF9iRGlyQmdWbHBVdk5Sci1ZUU0?oc=5"
   },
   "kan_news#17": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "בן גביר על ברוורמן: \"אם זייף פרוטוקול ודאי שזה חמור, אבל לא הייתי ממהר להטיח האשמות\" - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXJkcXo5SFc0aHdvbzdSdlhXZ0VMVW9UbUxLMURKX0d5U2N2NVQ4MnpvN2hpOHhvblZLcW14YldVd0kxSzR2OFJnTE9Lc21yZXZ3U1BEaWUzTHloaUFtSW1rWXNpYkUwczhBbFpNbTlxYnF5aUt3UGhVdGkxMy1YYXVB?oc=5"
+   "title": "צה\"ל: חוסל מחבל שחצה את הקו הצהוב בדרום רצועת עזה - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR2UtNGZRX21Zazg4YTVIaTduODFqcERoRkZNUktKZ1VIem95cFhnM1FNYzRMeGNpTWQ2UzgtbFFBNGhkNWtFVnhRcklwbXhaNU5LMXg3SG11eWdQdDV2ZklTdTRudUZNSVBYWTE3THdLc1Y1WFZkNzV4NjU1UHNMaDh3?oc=5"
   },
   "kan_news#18": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "בן גביר על ברוורמן: \"אם זייף פרוטוקול זה חמור, אך יש חקירה\" - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83NzdHTGRzZ2xNNGdlU1V5UnVfMV9IcEJrdGktZ1R4bW1VV0lBMnhjNHJIcVVMZ0oybTc4NzVYY2JyX1B1RTgtbWx1QnkzS0NYa1NnRnVUTWRXNWFiLUszM1dsQzh2T1hvdzNiS1Z3?oc=5"
+   "title": "11.10.2026-מצב טיסה - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DY28wa1M4dVpBZWpnMDJ6VTlMcnJPaHBZckxUb0xrc1liTDlHR1dPaUF3eEN3OE5vY09yblhaYWdXYVAzdlJ4bnNkaFQ1SGxCTXM4WFc0Z3l5SGdBU3piM3ZwQU9kb2NyY3YzRnhJcEdjOURt?oc=5"
   },
   "kan_news#19": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "מנדלבליט מעיד במשפט נתניהו: \"ביטלתי את אחת מפעולות המשטרה, זה הרתיח אותי\" - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1waHBVRm4wSU4xTTNZYnk1UnJ4dVpXQ0VmMHVlNU56U3dWenk4TlpleVFjZVp1OGgyMlFiWHBfZFpTdlNvQ2lnaHJHTGhKT2g5YjNrcnVIMWQydkRMMTJiRW5WYVo?oc=5"
+   "title": "דורית אסרף מזרחי - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZER4ajJ6TDE0TWZUQlJXY1NGMHZBc0l0WDk3QkJhRDhUazl2Y3NCc05HVGtRQ3RtYXI5TE85QUh2eERDZWpoMkFtdjRpS0tOaVBUcWhSaVZ4cU5tOWgyVDllYW92Q1Z5b09mR0JhS2x0Z1dqWnl6MVNOZDNaeGJKY1UzdVNFZEx6OU9yN0M0UnZKS09CZ3lwX3daeXV6c096Y21oS2NTaHFxcThUaWY1TGRoOHdOYl9DZGR4R2YxMlpsdGxocXhJZno5MjBBb3hrZUZvQ2lZSmNINDFEXzRDUWVBQ1BzQ2J0d0ZOeUljQlhYNmkzNVFGQ2I2clY?oc=5"
   },
   "kan_news#20": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "היסטוריית העבדות או Make America Great Again? הקרב של טראמפ על מורשת התרבות האמריקנית - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FbjBIcmY0YW51NE15MlE2eWg2OXhsVExuMUNzRGlHcHNqaG83dlItVFBGbldGb0NFSldmd0xKSDltVnEwVTFUZFAzWUdpTVpmTDFTVDhlLUYxbkROYkNUMzdlQzl6Zw?oc=5"
+   "title": "11.10.2026-Бухорои כאן בוכרית - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ON1dlQWlKX2ZSRnY0NkV3MUlUZ2tsWjBua0tuMDNkbTJUdFJBWVpDWjRWdzBHUHNSa3BkV1Y4MUxibnRfcjlIWmVRYW1JOXJES1lfM1g0YmRKbjBCOUNfTUZVcFZjS0RPV0pycHgyUDRoUQ?oc=5"
   },
   "kan_news#21": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "למרות הגידול באוכלוסיית הצעירים, מערכת ההשכלה הגבוהה ממשיכה לגדול בקצב מתון - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83ZW81SVJzeEg0SWlCTC15bXdGb3dtcE1oTDIxTWxXUDFMRUY4SVJGa1Nycm5IcE5femVZYmdUVzBZRTZrb0NNUDhRVHZicUh2UHI4b1Fta3NmeGFkbFBpdDB6ZFg?oc=5"
+   "title": "חדשות הלילה | 11.10.26 - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FaGVBbHpXMWNuazQ1ZUtvZW1vRVN4aGo1LWxhYlFrQzN2VUNFcGF5VjMtbWE5MkNndEcxUExnRVVtM1ZGelgwMWFFTHJ5LURRTzBoUXlkbHdzS3dXOFdyYll3d2NncWo3aTlfOWMybw?oc=5"
   },
   "kan_news#22": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "10.10.2026-יומן השבוע - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RcEM4N3hQclBFQnpybG9GUWFPOENIbjZSazhLTjlvdHRsVG5aR1lscnJZaGp0LWxlbWVqMDNVTEp5TUtsLXpHVVoxV1ZZNFBIQnVLakdZdVdpeXlyUmF0VHRyQXVZUFpEY3gyT3dB?oc=5"
+   "title": "משרד הבריאות: ריכוז בנזן חריג נמדד סמוך למתחם בז\"ן, שני בתי ספר לא ייפתחו מחר - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OQkZUZ2d6cUtkOFo4NEF2OWxJRnZKcXJIclFYRG8yRFJLOWZxTkRzUXNSWkNXTXFuUEVBam8tWF8ySEZXTGJSbThJQk81M3lpUnlUbjRJWXBHTE84dDdFNmlGLWs?oc=5"
   },
   "kan_news#23": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "מלחמת התרבות של טראמפ - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaeVMtZW1IQlhXTXVHMThoTDlNSmJnTHlmU09UTkU3UXZrY3dJQXRZa3Nwa3U4OVNjcXo3ZjJxT3BYQXN0TjBuSDZTemxpQ2dyeUh1d1FLdE9jaTZ2MWhnM0JWU2lVcGZmVWRyN21BMA?oc=5"
+   "title": "11.10.2026-רגעי קסם - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTX0xQRkNGbmxUVVJwZk4xSzFSSnJFNlEtZDU2eFBTUXQ5dzBqWHdBYjZ5cnE2ekZ5dHI1M0dNbzFlU2FoY1lYQjdjam5tOFVwRUdRRTFyV3JOWnpUamdMVG9zdEhUU3dCYTRxUDA2cUs?oc=5"
   },
   "kan_news#24": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "- כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OaWt5cWxMSGxoRGVEUVRTTjc0Y1VRdVBfWEZTR18tM3F5MUg3Q1VObEtrYmtNaTIwOGQwcnlpdTVuU2FLNlAtdDk4UG9acUxGZlVPVnAxdjVKZlA0TlRLeEhfVDNFT1RHUm95SkFocDk?oc=5"
+   "title": "בנט: \"אין לי בעיה שנתניהו יהיה שר בממשלה שלנו\", בגוש השינוי התרעמו - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03V3lnaGFURlJ2REkxYWQwR2JhVERycEh2Tmh0eHRndk9Gd1M0OVJnWmQwUGFSZGtDOEJaempFNV9ncDk2T0tlb1VuNEdvNVZRZjZEUkZCeEloeEJWY0hxMENWTHZzUmM?oc=5"
   },
   "ynet_news#0": {
    "outlet": "ynet — חדשות",
-   "title": "גל דקירות בפולין וחשש מ\"יום שישי עקוב מדם\". במקביל: התרעה על פיגוע נגד רה\"מ",
-   "url": "https://www.ynet.co.il/news/article/syeoeauifg"
+   "title": "תחזית מזג האוויר: ירידה בטמפרטורות, ייתכן גשם קל",
+   "url": "https://www.ynet.co.il/news/article/cuj578pid"
   },
   "ynet_news#1": {
    "outlet": "ynet — חדשות",
-   "title": "מחשש למחטף: היועמ\"שית תבדוק את נחיצות המינויים שמקדם זיני לפני הבחירות",
-   "url": "https://www.ynet.co.il/news/article/rysqctusgx"
+   "title": "דיווח: טראמפ איים להפסיק לספק נשק לאוקראינה",
+   "url": "https://www.ynet.co.il/news/article/r144mttsmx"
   },
   "ynet_news#2": {
    "outlet": "ynet — חדשות",
-   "title": "75 ילדים טבעו בעונת הרחצה, 58 בני אדם טבעו למוות",
-   "url": "https://www.ynet.co.il/news/article/s1ud5t00szx"
+   "title": "השותף החדש של נתניהו - ומי שנשאר בחוץ",
+   "url": "https://www.ynet.co.il/news/elections2026/article/yokra14923849"
   },
   "ynet_news#3": {
    "outlet": "ynet — חדשות",
-   "title": "מת מפצעיו הצעיר שלפי החשד נורה בשוגג ע\"י אחיו ביבנה",
-   "url": "https://www.ynet.co.il/news/article/s13kptoozg"
+   "title": "בדרך לאובדן שליטה: איך הפך \"מרד התלמידים\" בצרפת למשבר לאומי?",
+   "url": "https://www.ynet.co.il/news/theheadline/article/ddakx1dlp"
   },
   "ynet_news#4": {
    "outlet": "ynet — חדשות",
-   "title": "החות'ים אחרי הפגיעה הקטלנית בסעודיה: \"נמשיך לתקוף, אל תטוסו לשם\"",
-   "url": "https://www.ynet.co.il/news/article/skdra3uoge"
+   "title": "ההאזנה ש\"הרתיחה\" אותו, והתרגיל \"הפסול\" לחפץ: סיכום יום עדות מנדלבליט",
+   "url": "https://www.ynet.co.il/news/article/byvxyhfogl"
   },
   "ynet_news#5": {
    "outlet": "ynet — חדשות",
-   "title": "אישה נספתה בשריפה בגולן: נלכדה עם כיסא הגלגלים בבית הבוער - ולא הצליחה להימלט",
-   "url": "https://www.ynet.co.il/news/article/s1x8t2oizl"
+   "title": "\"נתניהו? אין לי בעיה שיהיה שר\": אמירת בנט, המתקפה עליו - וההבהרה",
+   "url": "https://www.ynet.co.il/news/elections2026/article/sy6ekitsfx"
   },
   "ynet_news#6": {
    "outlet": "ynet — חדשות",
-   "title": "נאניה מלדה נרצחה בנוכחות בנה הקטן בבאר שבע: \"ניסה להתקשר בלילה\"",
-   "url": "https://www.ynet.co.il/news/article/h1wuhoooze"
+   "title": "זיהום חריג ליד בתי הזיקוק: שני בתי ספר נסגרו ליממה, אלו ההנחיות לתושבים באזור",
+   "url": "https://www.ynet.co.il/news/article/rjdzodkofe"
   },
   "ynet_news#7": {
    "outlet": "ynet — חדשות",
-   "title": "\"עדיין נכנסת לי לסיוטים\": 10 שנות מאסר לסייעת שהורשעה ב-277 עבירות אלימות בפעוטות",
-   "url": "https://www.ynet.co.il/news/article/r1gmbidsmx"
+   "title": "ישראל תתקוף בתימן? שיחת האמריקנים עם הרמטכ\"ל, אזהרתו - ותיעוד הפגיעה בריאד",
+   "url": "https://www.ynet.co.il/news/article/sykug00time"
   },
   "ynet_news#8": {
    "outlet": "ynet — חדשות",
-   "title": "סילמן ושיקלי 2? מטרת הצוות המיוחד שהוקם בליכוד: לפורר את איזנקוט",
-   "url": "https://www.ynet.co.il/news/elections2026/article/yokra14922516"
+   "title": "משפחות החטופים גייסו את התובע בהאג, אבל נתניהו נסוג מהעסקה",
+   "url": "https://www.ynet.co.il/news/article/yokra14923934"
   },
   "ynet_news#9": {
    "outlet": "ynet — חדשות",
-   "title": "\"גוף אווירי חריג\": החשד - לשמי ישראל חדר רחפן מדגם שלא מוכר לצה\"ל | תיעוד",
-   "url": "https://www.ynet.co.il/news/article/r1ptysdime"
+   "title": "הסעודים כוססים ציפורניים",
+   "url": "https://www.ynet.co.il/news/article/yokra14923337"
   },
   "ynet_news#10": {
    "outlet": "ynet — חדשות",
-   "title": "חשד: ח\"כ ומנכ\"ל עוצמה יהודית היו בתקרית אלימה נגד שוטרים ששברו אף ויד",
-   "url": "https://www.ynet.co.il/news/article/b1u2q9uome"
+   "title": "שמים עליהם זית",
+   "url": "https://www.ynet.co.il/news/article/yokra14923358"
   },
   "ynet_news#11": {
    "outlet": "ynet — חדשות",
-   "title": "אתם מ-פ-ח-ד-י-ם. וככה נתניהו רוצה אתכם",
-   "url": "https://www.ynet.co.il/news/article/bkvtgcdjfg"
+   "title": "אין גבול לחוצפה של ש\"ס",
+   "url": "https://www.ynet.co.il/news/article/yokra14923745"
   },
   "ynet_news#12": {
    "outlet": "ynet — חדשות",
-   "title": "בטקס 7 באוקטובר בניו יורק נבנה גשר לשלום",
-   "url": "https://www.ynet.co.il/news/article/r1yqj9dozx"
+   "title": "הגוש ש\"הסתדר\" והדילמה של בן גביר: הסכמי העודפים - ואיך הם ישפיעו על הבחירות",
+   "url": "https://www.ynet.co.il/news/elections2026/article/skdhsmfsmx"
   },
   "ynet_news#13": {
    "outlet": "ynet — חדשות",
-   "title": "בדרך לסבב הבא עם איראן",
-   "url": "https://www.ynet.co.il/news/article/yokra14922278"
+   "title": "ברקים ליד המטוסים, זרימה בנחלי הרי אילת - ומתי צפוי פרק הגשם המשמעותי הבא?",
+   "url": "https://www.ynet.co.il/news/article/h1xzsbyomx"
   },
   "ynet_news#14": {
    "outlet": "ynet — חדשות",
-   "title": "איך מצביעים בלבנון, בעזה ובסוריה? | המדריך לחיילי צה\"ל - גם בעורף",
-   "url": "https://www.ynet.co.il/news/elections2026/article/sjvtp11ioze"
+   "title": "חשד לתקיפה חמורה ומתועדת ברמלה: הנערים מפילים - ובועטים בראש ובגוף ללא הפסקה",
+   "url": "https://www.ynet.co.il/news/article/skmgunfjfe"
   },
   "ynet_news#15": {
    "outlet": "ynet — חדשות",
-   "title": "רגע של שפל: פרס נובל לשנאה",
-   "url": "https://www.ynet.co.il/news/article/yokra14922603"
+   "title": "טרגדיה בגליל: בת שנתיים הגיעה לבקר את הסבא - ונדרסה למוות על ידי אביה",
+   "url": "https://www.ynet.co.il/news/article/ryzqqhtizx"
   },
   "ynet_news#16": {
    "outlet": "ynet — חדשות",
-   "title": "\"העובדה שאי-אפשר היה אפילו לקחת מהדר טביעת אצבע זעזעה אותנו\"",
-   "url": "https://www.ynet.co.il/news/article/yokra14915830"
+   "title": "איזנקוט רומז שיבחן את תפקוד זיני אחרי הבחירות: \"נאמנות למדינה, לא לממנה\"",
+   "url": "https://www.ynet.co.il/news/elections2026/article/rkk49xysgl"
   },
   "ynet_news#17": {
    "outlet": "ynet — חדשות",
-   "title": "המלכוד של הליכוד",
-   "url": "https://www.ynet.co.il/news/article/yokra14922268"
+   "title": "תלויים בקול שלכם: המועמדים המתנדנדים בדרך לכנסת",
+   "url": "https://www.ynet.co.il/news/elections2026/article/sypm11tdjgg"
   },
   "ynet_news#18": {
    "outlet": "ynet — חדשות",
-   "title": "האם המדינה רואה בנו שותפות שוות זכויות ומעמד?",
-   "url": "https://www.ynet.co.il/news/article/yokra14922502"
+   "title": "מיליון שקל סבסוד לדירה: בנט הציג את \"מהפכת המשרתים\" שלו",
+   "url": "https://www.ynet.co.il/news/elections2026/article/hjqmnxysze"
   },
   "ynet_news#19": {
    "outlet": "ynet — חדשות",
-   "title": "מה העולם חושב עלינו",
-   "url": "https://www.ynet.co.il/news/article/yokra14922288"
+   "title": "זלנסקי מפציץ את \"גוגל של רוסיה\", ועונה לטראמפ: \"בחירות? כשתהיה הפסקת אש\"",
+   "url": "https://www.ynet.co.il/news/article/hykbrfkimx"
   },
   "ynet_news#20": {
    "outlet": "ynet — חדשות",
-   "title": "חקירה או אסון",
-   "url": "https://www.ynet.co.il/news/article/yokra14922260"
+   "title": "החשש בגוש השינוי מרשימת איזנקוט, ותגובתו: \"היחיד שצריך להיות בלחץ מעריקים זה נתניהו\"",
+   "url": "https://www.ynet.co.il/news/elections2026/article/r1u11s0dofg"
   },
   "ynet_news#21": {
    "outlet": "ynet — חדשות",
-   "title": "ארה\"ב: תקפנו מכלית שניסתה לשבור את המצור בהורמוז",
-   "url": "https://www.ynet.co.il/news/article/s1aqod00szx"
+   "title": "הוריו של עמרי יוכלו להביא נכד מזרעו - אחרי 14 שנות מאבק: \"ילד שלי, נגמר הסיוט\"",
+   "url": "https://www.ynet.co.il/news/article/rjgnfbtsfe"
   },
   "ynet_news#22": {
    "outlet": "ynet — חדשות",
-   "title": "בלי לקרוא לזה בשמות / רענן שקד",
-   "url": "https://www.ynet.co.il/news/article/yokra14917526"
+   "title": "\"אל תטוסו לשם\": האיום החות'י, הפגיעה הנוספת בטרמינל הסעודי - והגינוי החריג של נתניהו",
+   "url": "https://www.ynet.co.il/news/article/skdra3uoge"
   },
   "ynet_news#23": {
    "outlet": "ynet — חדשות",
-   "title": "אקמול לחולה פרוטקשן: \"אם אתה משלם פעם אחת, הם לא עוזבים אותך כל החיים\"",
-   "url": "https://www.ynet.co.il/news/article/yokra14919986"
+   "title": "הביקורת במוסד על התנהלות גופמן - והאפשרות למינוי יועץ חיצוני לראש אגף",
+   "url": "https://www.ynet.co.il/news/article/ry7sbekszx"
   },
   "ynet_news#24": {
    "outlet": "ynet — חדשות",
-   "title": "מגמת צמיחה: שנה אקדמית חדשה נפתחת - אלו התארים המבוקשים",
-   "url": "https://www.ynet.co.il/news/article/b1hhtx00oge"
+   "title": "אישום מזעזע: היכה שעות את זוגתו, חנק והטיח את ראשה ברצפה - אחרי ששוחרר ממעצר",
+   "url": "https://www.ynet.co.il/news/article/rke9kwtsmg"
   }
  },
  "business": {
   "bloomberg_markets#0": {
    "outlet": "Bloomberg — Markets",
-   "title": "Banque du Caire Offers 30% Stake in Egypt’s Second IPO in Month",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-11/banque-du-caire-offers-30-stake-in-egypt-s-second-ipo-in-month"
+   "title": "Iran War’s End Will Be Turning Point for India, Amundi Arm Says",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/iran-war-s-end-will-be-turning-point-for-india-amundi-arm-says"
   },
   "bloomberg_markets#1": {
    "outlet": "Bloomberg — Markets",
-   "title": "Healey Plans Short-Term UK Budget Giveaways to Limit Fiscal Pain",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-11/healey-plans-short-term-uk-budget-giveaways-to-limit-fiscal-pain"
+   "title": "Genting Shares Tumble Most Since 1998 on Rights Issue Plan",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/genting-shares-tumble-most-since-1998-on-rights-issue-plan"
   },
   "bloomberg_markets#2": {
    "outlet": "Bloomberg — Markets",
-   "title": "India Protests Set to Continue Despite Heavy Delhi Security",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-11/indian-cockroaches-plan-new-protest-amid-heavy-delhi-security"
+   "title": "RBI Tightens Rupee Defense as Pricey Crude, Foreign Outflows Bite: USD/INR",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/rbi-tightens-rupee-defense-as-pricey-crude-foreign-outflows-bite-usd-inr"
   },
   "bloomberg_markets#3": {
    "outlet": "Bloomberg — Markets",
-   "title": "China Issues Draft Standards for Remanufactured Automotive Parts",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-11/china-issues-draft-standards-for-remanufactured-automotive-parts"
+   "title": "South Korean Won Hits Two-Year High on Lower Oil, Dollar Sales",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/south-korean-won-hits-two-year-high-on-lower-oil-dollar-sales"
   },
   "bloomberg_markets#4": {
    "outlet": "Bloomberg — Markets",
-   "title": "India’s Rupee Defense Raises Question of How Far RBI Will Go",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go"
+   "title": "China Agrees to Curb Hybrid Car Exports to EU",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-12/china-agrees-to-curb-hybrid-car-exports-to-eu-video"
   },
   "bloomberg_markets#5": {
    "outlet": "Bloomberg — Markets",
-   "title": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers"
+   "title": "Indian Rupee Jumps 1% After RBI Measures to Support Currency",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures"
   },
   "bloomberg_markets#6": {
    "outlet": "Bloomberg — Markets",
-   "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly"
+   "title": "India’s Capital Braces for More Protests After Mass Detentions",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/india-s-capital-braces-for-more-protests-after-mass-detentions"
   },
   "bloomberg_markets#7": {
    "outlet": "Bloomberg — Markets",
-   "title": "Strong Earnings Keep US Stocks in Favor",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video"
+   "title": "Gov. Koike's Next Key Priorities for Tokyo",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-12/gov-koike-s-nest-key-priorities-for-tokyo-video"
   },
   "bloomberg_markets#8": {
    "outlet": "Bloomberg — Markets",
-   "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video"
+   "title": "Malaysia Budget Sees Consumer Names Emerge Winners, Analysts Say",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/malaysia-budget-sees-consumer-names-emerge-winners-analysts-say"
   },
   "bloomberg_markets#9": {
    "outlet": "Bloomberg — Markets",
-   "title": "Viral Handbags Turn Small Designer Into Fashion Star",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/viral-handbags-turn-small-designer-into-fashion-star-video"
+   "title": "Gold Edges Up as Lower Oil Prices Pare Rate-Hike Expectations",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/gold-edges-up-as-traders-weigh-russia-ukraine-energy-ceasefire"
   },
   "bloomberg_markets#10": {
    "outlet": "Bloomberg — Markets",
-   "title": "By The Way: Headlines You May Have Missed",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video"
+   "title": "Korean Bond Rally Seen Faltering as Traders Brace for Rate Hikes",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/korean-bond-rally-seen-faltering-as-traders-brace-for-rate-hikes"
   },
   "bloomberg_markets#11": {
    "outlet": "Bloomberg — Markets",
-   "title": "Hurricane Isaias May Cost Insurers Billions",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/hurricane-isaias-may-cost-insurers-billions-video"
+   "title": "Wrightson’s Crandall Ends Weekly Market Missives After 44 Years",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-11/wrightson-s-crandall-ends-weekly-market-missives-after-44-years"
   },
   "bloomberg_markets#12": {
    "outlet": "Bloomberg — Markets",
-   "title": "Russia Plague Scare Raises Public Health Questions",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/russia-plague-scare-raises-public-health-questions-video"
+   "title": "Stock and Bond Futures Advance as Oil Declines: Markets Wrap",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap"
   },
   "bloomberg_markets#13": {
    "outlet": "Bloomberg — Markets",
-   "title": "Russian Diesel Deal Unlikely to Lower US Prices",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/russian-diesel-deal-unlikely-to-lower-us-prices-video"
+   "title": "Latest Oil Market News and Analysis for Oct. 12",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12"
   },
   "bloomberg_markets#14": {
    "outlet": "Bloomberg — Markets",
-   "title": "Banana Ball Takes Its Baseball Show Nationwide",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/banana-ball-takes-its-baseball-show-nationwide-video"
+   "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks"
   },
   "bloomberg_markets#15": {
    "outlet": "Bloomberg — Markets",
-   "title": "Jefferies Says Found Fraud in $900 Million of Radiant Deals",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-10/jefferies-says-it-found-fraud-in-900-million-of-radiant-deals"
+   "title": "US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-11/us-bond-traders-await-cpi-warsh-for-insight-on-fed-s-rate-path"
   },
   "bloomberg_markets#16": {
    "outlet": "Bloomberg — Markets",
-   "title": "Restaurant Theft Adds to Rising Dining Costs",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-10/restaurant-theft-adds-to-rising-dining-costs-video"
+   "title": "'Windows of Opportunity' to End War in Ukraine, SACEUR Says",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-11/digi-full-intv-gen-alexus-g-grynkewich-nato-supreme-allied-commander-europe"
   },
   "bloomberg_markets#17": {
    "outlet": "Bloomberg — Markets",
-   "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit"
+   "title": "Bookmarked: Stories That Caught Our Eye This Week",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-11/bookmarked-stories-that-caught-our-eye-this-week-video"
   },
   "bloomberg_markets#18": {
    "outlet": "Bloomberg — Markets",
-   "title": "Balancing Conviction and Risk: Masters in Business with Maria Vassalou",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-09/masters-in-business-with-barry-ritholtz-video"
-  },
-  "bloomberg_markets#19": {
-   "outlet": "Bloomberg — Markets",
-   "title": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-09/phenomenal-time-to-be-investor-not-consumer-amoroso-video"
+   "title": "Saudi Airport Hit Again as Riyadh Set to Host Major Events",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack"
   },
   "ft_home#0": {
    "outlet": "Financial Times",
-   "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
-   "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
+   "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
+   "url": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1"
   },
   "ft_home#1": {
    "outlet": "Financial Times",
-   "title": "India’s ‘Cockroach’ leaders released as movement calls for more protests",
-   "url": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1"
+   "title": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
+   "url": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1"
   },
   "ft_home#2": {
    "outlet": "Financial Times",
-   "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
-   "url": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1"
+   "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+   "url": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1"
   },
   "ft_home#3": {
    "outlet": "Financial Times",
-   "title": "US justice department probes TV networks over Trump pool coverage",
-   "url": "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1"
+   "title": "VW chief calls for France and Germany to co-operate on China car fightback",
+   "url": "https://www.ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1"
   },
   "ft_home#4": {
    "outlet": "Financial Times",
-   "title": "The problem with your AI therapist",
-   "url": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1"
+   "title": "Can Russia meet Trump’s diesel demands?",
+   "url": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1"
   },
   "ft_home#5": {
    "outlet": "Financial Times",
-   "title": "The fall of Germany’s ex-spymaster",
-   "url": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1"
+   "title": "Oil chiefs pull out of Riyadh energy congress after airport missile strike",
+   "url": "https://www.ft.com/content/a01776ea-4a12-4195-8820-e43a885ba5fe?syn-25a6b1a6=1"
   },
   "ft_home#6": {
    "outlet": "Financial Times",
-   "title": "Why are our children not flourishing at school?",
-   "url": "https://www.ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4"
+   "title": "Democrats need a foreign policy",
+   "url": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1"
   },
   "ft_home#7": {
+   "outlet": "Financial Times",
+   "title": "India’s ‘Cockroach’ movement plans more protests after release of leaders",
+   "url": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1"
+  },
+  "ft_home#8": {
+   "outlet": "Financial Times",
+   "title": "Houthis show military reach with deadly missile strikes on Riyadh",
+   "url": "https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1"
+  },
+  "ft_home#9": {
    "outlet": "Financial Times",
    "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
    "url": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1"
   },
-  "ft_home#8": {
-   "outlet": "Financial Times",
-   "title": "Trump is failing to arrest decline in popularity, FT poll shows",
-   "url": "https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a"
-  },
-  "ft_home#9": {
-   "outlet": "Financial Times",
-   "title": "China’s growing debt burden limits space for economic stimulus",
-   "url": "https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087?syn-25a6b1a6=1"
-  },
   "ft_home#10": {
    "outlet": "Financial Times",
-   "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-   "url": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1"
+   "title": "Trump is failing to arrest decline in popularity, FT poll shows",
+   "url": "https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a?syn-25a6b1a6=1"
   },
   "themarker#0": {
    "outlet": "TheMarker",
-   "title": "פתרון לתפוסה הנמוכה? יוקם מוזיאון אופנה בעזריאלי שרונה בהשקעה של 9 מיליון שקל",
-   "url": "https://www.themarker.com/consumer/2026-10-11/ty-article/.premium/000001a1-29ff-d5af-a3b7-29ffb1790000"
+   "title": "לפני שהסנקציות פוגעות בהייטק: כיפת ברזל יכולה להיות כיפת ההגנה הכלכלית של ישראל",
+   "url": "https://www.themarker.com/news/politics/2026-10-12/ty-article/.premium/000001a1-2b1a-dbf1-a1f3-fbdeda0e0000"
   },
   "themarker#1": {
    "outlet": "TheMarker",
-   "title": "וואן זירו מפטר 10% מעובדיו; מנכ\"ל הבנק: \"ה-AI מאפשר לנו לפעול מהר יותר\"",
-   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/000001a1-2a09-d5af-a3b7-2bb962de0000"
+   "title": "לנהל את דמי הניהול: השינויים שיכולים לחסוך מאות אלפי שקלים בפנסיה",
+   "url": "https://www.themarker.com/markets/2026-10-12/ty-article/.premium/000001a1-1b01-d316-adf1-df55faee0000"
   },
   "themarker#2": {
    "outlet": "TheMarker",
-   "title": "מרגרט המילטון, מפתחת תוכנת הטיסה שהנחיתה אנשים על הירח, מתה בגיל 90",
-   "url": "https://www.themarker.com/wallstreet/2026-10-11/ty-article/000001a1-29f0-d695-abad-fbf83bde0000"
+   "title": "נקודה מסוכנת: \"נקסט ויז'ן סיפרה סיפור יפה לשוק — אבל יש מתחרים זולים יותר\"",
+   "url": "https://www.themarker.com/markets/2026-10-12/ty-article/.highlight/000001a1-2b71-d275-afe5-2ff3e1710000"
   },
   "themarker#3": {
    "outlet": "TheMarker",
-   "title": "פרדוקס הכישורים: הבינה המלאכותית מטלטלת את בתי הספר למנהל עסקים",
-   "url": "https://www.themarker.com/magazine/2026-10-11/ty-article-magazine/.premium/000001a0-e22f-dfbb-afa4-f37fd0c70000"
+   "title": "\"השוק מת\": עשירי לונדון מעדיפים לשכור — ובעלי דירות נאלצים למכור בהפסד",
+   "url": "https://www.themarker.com/wallstreet/2026-10-12/ty-article-magazine/.highlight/000001a1-29cd-d695-abad-fbdd76a90000"
   },
   "themarker#4": {
    "outlet": "TheMarker",
-   "title": "שבוע מסחר חדש, פחדים ואיומים ישנים",
-   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-2932-d5af-a3b7-29b2d34f0000"
+   "title": "מניות הנדל\"ן למגורים כבר נסוגו ב–30% — והבחירות עשויות לטלטל את המגזר עוד יותר",
+   "url": "https://www.themarker.com/markets/2026-10-12/ty-article/.highlight/000001a1-2ab4-d5ac-ada7-abb4618c0000"
   },
   "themarker#5": {
    "outlet": "TheMarker",
-   "title": "אחרי דורי בנייה, לוזון מהמר שוב על חברה במשבר — הפעם בארה\"ב",
-   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.highlight/000001a1-2615-da33-a1bb-ae57f8e60000"
+   "title": "בכירי אגף הביטחון בחקירות. מי מנהל כעת את אבטחת התעופה הזרה לישראל?",
+   "url": "https://www.themarker.com/news/politics/2026-10-12/ty-article/.premium/000001a1-2aa6-db9b-a9fd-bbb6291b0000"
   },
   "themarker#6": {
    "outlet": "TheMarker",
-   "title": "כשחוב יקר שורף את השוק: המנגנון הנסתר שמשתק עסקות ענק בעולם",
-   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-1be1-da49-a5e9-1be9ade70000"
+   "title": "קובי מימון מציג: הקרקע שניתנה בחינם, הדירקטוריון ששותק, והתביעה שנוטרלה",
+   "url": "https://www.themarker.com/markets/2026-10-12/ty-article/.highlight/000001a1-2b29-d618-adfb-bbbb948a0000"
   },
   "themarker#7": {
    "outlet": "TheMarker",
-   "title": "חלום הדירה התרחק מאוד מאז 2022, ואפילו התקווה לזכות בהגרלה אבדה",
-   "url": "https://www.themarker.com/realestate/2026-10-11/ty-article/.highlight/000001a1-1542-dd49-a5ff-d7d2b7dc0000"
+   "title": "השוק מביע אי־אמון בעסקת אלטשולר שחם־ווישור: המניה צנחה ב–22%",
+   "url": "https://www.themarker.com/markets/2026-10-12/ty-article/.highlight/000001a1-2b77-d618-adfb-bbf744750000"
   },
   "themarker#8": {
    "outlet": "TheMarker",
-   "title": "האיום הגדול על רווחי הבנקים: סוכני AI שיעצרו את עושק העו\"ש",
-   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-2531-da33-a1bb-ad7772eb0000"
+   "title": "זו אחת מתחנות הרכבות הקרובות לנתב\"ג — אז למה הדרך לשם ארוכה ומפותלת?",
+   "url": "https://www.themarker.com/news/transport/2026-10-12/ty-article-magazine/.premium/000001a1-26ed-d90c-a7bd-afed7f510002"
   },
   "themarker#9": {
    "outlet": "TheMarker",
-   "title": "החיים הצנועים של המיליארדרית שמאחורי אימפריית זארה",
-   "url": "https://www.themarker.com/wallstreet/2026-10-11/ty-article/.premium/000001a1-1aca-d620-abed-5bcbee7c0000"
+   "title": "\"כתיבת בריפים הייתה אחד הדברים השנואים עליי, ומשעתיים־שלוש ירדתי לחצי שעת עבודה\"",
+   "url": "https://www.themarker.com/career/2026-10-12/ty-article/.premium/000001a1-2a09-d5af-a3b7-2bb983230002"
   },
   "themarker#10": {
    "outlet": "TheMarker",
-   "title": "שיטת מצליח של בתי הספר החרדיים שוב מצליחה — בחסות בג\"ץ",
-   "url": "https://www.themarker.com/news/education/2026-10-11/ty-article/.premium/000001a1-1565-d091-aba9-15ede6740000"
+   "title": "דיווח: אמזון במגעים לרכישת דקארט הישראלית ב-7 מיליארד דולר",
+   "url": "https://www.themarker.com/technation/2026-10-12/ty-article/.highlight/000001a1-2cc2-d1b4-a5fb-acceafd40000"
   },
   "themarker#11": {
    "outlet": "TheMarker",
-   "title": "עתירה נגד סגנית ראש עיריית חיפה: הכשירה לעצמה סגירת קומה בניגוד לחוק",
-   "url": "https://www.themarker.com/realestate/2026-10-11/ty-article/.highlight/000001a1-1b68-d316-adf1-df7c7e210000"
+   "title": "אחרי שנפלה ב-76%: אלקטרה נדל\"ן יוצאת להנפקת זכויות",
+   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-2c1f-d275-afe5-2fdf95430000"
   },
   "themarker#12": {
    "outlet": "TheMarker",
-   "title": "\"ביטוח עושים לקטסטרופות\": על מה אנחנו משלמים אלפי שקלים בביטוחי בריאות",
-   "url": "https://www.themarker.com/podcasts/2026-10-11/ty-article-podcast/000001a1-1bba-dd2b-a3ef-9bfefc020000"
+   "title": "בהתכתבויות של יונתן אוריך שהודלפו: עמית סגל נותן עצות לכאורה לקמפיין נתניהו",
+   "url": "https://www.themarker.com/news/politics/2026-10-11/ty-article/.premium/000001a1-2bb5-d275-afe5-2ff7c4e30000"
   },
   "themarker#13": {
    "outlet": "TheMarker",
-   "title": "ארבע שנים תחת הממשלה: כך התנפח חשבון הקניות של הישראלים",
-   "url": "https://www.themarker.com/consumer/2026-10-11/ty-article/.premium/000001a1-24e4-d57b-a3b5-b4e62c8c0000"
+   "title": "אין כסף למסוקי אפאצ'י? אפשר לקחת אותו מ\"חיזוק הביטחון\" בשטחים",
+   "url": "https://www.themarker.com/news/internal-info/2026-10-11/ty-article/.premium/000001a1-2b93-d1b4-a5fb-afdf86810000"
   },
   "themarker#14": {
    "outlet": "TheMarker",
-   "title": "המלכודת של גוגל: איגרת החוב שצנחה ב–55% מסבירה מדוע גם המניה בסכנה",
-   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-1acb-dbd6-a5a5-9bff02a90000"
+   "title": "האב סקיוריטי לקראת חדלות פירעון? \"אין לנו עדיין כסף גם למשכורות יולי\"",
+   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-2b58-dbf1-a1f3-fbde3b020000"
   },
   "themarker#15": {
    "outlet": "TheMarker",
-   "title": "קורגי, סטארט־אפ הביטוח מסן פרנסיסקו שעובד 7 ימים בשבוע, מגיע לישראל",
-   "url": "https://www.themarker.com/technation/2026-10-11/ty-article/.highlight/000001a1-241f-de05-a9a9-3dff2a9f0000"
+   "title": "רוב מתקני ההתפלה חזרו לפעול, אך המשבר לא מאחורינו. מי צפוי להרוויח?",
+   "url": "https://www.themarker.com/news/energy/2026-10-11/ty-article/.premium/000001a1-2a94-d0ca-a7b7-beb6ad540000"
   },
   "themarker#16": {
    "outlet": "TheMarker",
-   "title": "קריסה במספר הסטודנטים במדעי המחשב; מדעי החברה עקפו את לימודי ההנדסה",
-   "url": "https://www.themarker.com/news/education/2026-10-11/ty-article/.premium/000001a1-25d5-de05-a9a9-3dfdb0850000"
+   "title": "שותפתו לשעבר של היזם עדי הוד: \"קיים חשש שיברח מהארץ ושהעלים כספים רבים בחשבונות בחו\"ל\"",
+   "url": "https://www.themarker.com/technation/2026-10-11/ty-article/.highlight/000001a1-2b0b-d275-afe5-2fcb9b0e0000"
   },
   "themarker#17": {
    "outlet": "TheMarker",
-   "title": "\"אף אחד לא ציפה שזו תהיה הסיטואציה בשוק הנפט\"",
-   "url": "https://www.themarker.com/markets/newinvestors/2026-10-11/ty-article-magazine/.premium/000001a1-1c9e-d10a-a5b1-bd9e32d10002"
+   "title": "מנכ\"ל ביג: \"מי שלא מצביע הוא חצוף. למה אין 90% הצבעה?\"",
+   "url": "https://www.themarker.com/consumer/2026-10-11/ty-article/.premium/000001a1-2afe-d1b4-a5fb-aefeda560000"
   },
   "themarker#18": {
    "outlet": "TheMarker",
-   "title": "משבר באוניברסיטה הפתוחה בעקבות הירידה בביקוש ללימודי מדעי המחשב; נערכת לפיטורי מרצים",
-   "url": "https://www.themarker.com/news/education/2026-10-11/ty-article/.premium/000001a1-24f7-de05-a9a9-3dff224b0000"
+   "title": "אחרי המתקפה על נמל התעופה, ראשי תעשיית הנפט חוששים להגיע לכנס בסעודיה",
+   "url": "https://www.themarker.com/wallstreet/2026-10-11/ty-article/.premium/000001a1-2af8-dd30-a9ff-ebf8bc580000"
   },
   "themarker#19": {
    "outlet": "TheMarker",
-   "title": "באוצר בוחנים: מתן הטבות מס מופלגות ליזמי ההייטק — כמו בארה\"ב",
-   "url": "https://www.themarker.com/technation/2026-10-10/ty-article/.premium/000001a1-273c-d5af-a3b7-2fbc3f0b0000"
+   "title": "\"סטארט-אפ אמור להיות הגבר הכי יפה בחדר, כך שאנשים ייגשו אליו ויבקשו את מספר הטלפון\"",
+   "url": "https://www.themarker.com/d-academy/2026-10-11/ty-article-magazine/.highlight/000001a1-2a2c-d0ca-a7b7-be2ea4360000"
   },
   "themarker#20": {
    "outlet": "TheMarker",
-   "title": "\"כמו קופסה שחורה\": חישובי ההכנסות של אנתרופיק ו–OpenAI מתעתעים במשקיעים",
-   "url": "https://www.themarker.com/wallstreet/2026-10-10/ty-article/.premium/000001a1-264f-d5af-a3b7-2fff17bd0000"
+   "title": "דיבורים לחוד ומאזנים לחוד: רק 6% מהחברות מצליחות באמת להרוויח מ–AI",
+   "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-2a09-d90c-a7bd-ab0d22c10000"
   },
   "themarker#21": {
    "outlet": "TheMarker",
-   "title": "עיכוב המשלוח בפריז לא פגע באלביט כעת — אך עלול ליצור לה בעיה חדשה",
-   "url": "https://www.themarker.com/news/security/2026-10-10/ty-article/.premium/000001a1-24e3-de05-a9a9-3defefe10000"
+   "title": "\"היום עדיף לקנות את אג\"ח גוגל מאשר את המנייה\"",
+   "url": "https://www.themarker.com/podcasts/2026-10-11/ty-article-podcast/000001a1-2afb-dd30-a9ff-ebfbe1f30000"
   },
   "themarker#22": {
    "outlet": "TheMarker",
-   "title": "\"די לתבוסתנות\": איש שוק ההון רועי ורמוס נוקט עמדה לקראת הבחירות",
-   "url": "https://www.themarker.com/markets/2026-10-10/ty-article/.premium/000001a1-25fe-d90c-a7bd-adfedc9d0000"
+   "title": "מחדל אבטחה נוסף? אתרים פיראטיים טוענים שהדליפו התכתבויות פרטיות של יונתן אוריך",
+   "url": "https://www.themarker.com/news/themedia/2026-10-11/ty-article/000001a1-2ae6-dbf1-a1f3-fbee9a790000"
   },
   "themarker#23": {
    "outlet": "TheMarker",
-   "title": "\"רוצה להיות בעל הקזינו\": מנכ\"ל רבולוט שואף להדיח מהצמרת את הבנק הגדול בארה\"ב",
-   "url": "https://www.themarker.com/wallstreet/2026-10-10/ty-article/.premium/000001a1-24ed-da33-a1bb-acffdd0d0000"
+   "title": "זה לא התיישן טוב: מירי רגב מבטיחה תחבורה ציבורית חינם. ומה עם השירות?",
+   "url": "https://www.themarker.com/news/elections/2026-10-11/ty-article/000001a1-2a99-da9e-a1f9-7fbb13870000"
   },
   "themarker#24": {
    "outlet": "TheMarker",
-   "title": "''אי־אפשר לחיות ככה'': השכונה שהחלה לקבל משלוחי חבילות ברחפנים מאמזון",
-   "url": "https://www.themarker.com/wallstreet/2026-10-10/ty-article-magazine/.premium/000001a1-10ff-d88d-aba1-dcffcf640000"
+   "title": "55.6 מיליון שקל, לפני הגמר: כמה יקר הפנטהאוז שמכרה חג'ג' במגדל אינפיניטי בתל אביב?",
+   "url": "https://www.themarker.com/realestate/2026-10-11/ty-article/.premium/000001a1-2a7d-d0ca-a7b7-be7f3d4a0000"
   },
   "wsj_markets#0": {
+   "outlet": "WSJ — Markets",
+   "title": "South Korean Won’s Gains Underpinned by Robust Exports, Current Account Surplus",
+   "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main"
+  },
+  "wsj_markets#1": {
+   "outlet": "WSJ — Markets",
+   "title": "Oil Falls on Hopes That Russian Diesel Can Ease Global Fuel Shortages",
+   "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-hopes-that-russian-diesel-can-ease-global-fuel-shortages-db1651af?mod=rss_markets_main"
+  },
+  "wsj_markets#2": {
+   "outlet": "WSJ — Markets",
+   "title": "Gold Rises as Markets Weigh Oil Pullback",
+   "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-markets-weigh-oil-pullback-2c0301c2?mod=rss_markets_main"
+  },
+  "wsj_markets#3": {
+   "outlet": "WSJ — Markets",
+   "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
+   "url": "https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_markets_main"
+  },
+  "wsj_markets#4": {
    "outlet": "WSJ — Markets",
    "title": "Home Sellers Are Starting to Blink on Prices. That’s Bad for Builders.",
    "url": "https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f?mod=rss_markets_main"
   },
-  "wsj_markets#1": {
+  "wsj_markets#5": {
    "outlet": "WSJ — Markets",
    "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
    "url": "https://www.wsj.com/finance/investing/economists-bond-yields-forecast-aaa2ff5c?mod=rss_markets_main"
   },
-  "wsj_markets#2": {
+  "wsj_markets#6": {
    "outlet": "WSJ — Markets",
    "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
    "url": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main"
   },
-  "wsj_markets#3": {
-   "outlet": "WSJ — Markets",
-   "title": "At Robinhood’s Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich",
-   "url": "https://www.wsj.com/finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-f960d8c2?mod=rss_markets_main"
-  },
-  "wsj_markets#4": {
-   "outlet": "WSJ — Markets",
-   "title": "Kalshi Examines Bets on Trump’s Pick for New White House Press Secretary",
-   "url": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546?mod=rss_markets_main"
-  },
-  "wsj_markets#5": {
-   "outlet": "WSJ — Markets",
-   "title": "As Yields Surged, Small-Cap Stocks Were Hit Hard",
-   "url": "https://www.wsj.com/finance/stocks/as-yields-surged-small-cap-stocks-were-hit-hard-7470f7e4?mod=rss_markets_main"
-  },
-  "wsj_markets#6": {
-   "outlet": "WSJ — Markets",
-   "title": "Dollar Finishes Fourth Straight Week of Gains",
-   "url": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-consolidate-focus-on-u-s-data-fe613e38?mod=rss_markets_main"
-  },
   "wsj_markets#7": {
    "outlet": "WSJ — Markets",
-   "title": "Oil Futures Settle Modestly Higher",
-   "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-prices-likely-to-remain-high-in-short-term-c7024a73?mod=rss_markets_main"
-  },
-  "wsj_markets#8": {
-   "outlet": "WSJ — Markets",
-   "title": "CFTC Proposes to Expand Definition of Swaps to Include Prediction Markets Trading",
-   "url": "https://www.wsj.com/finance/regulation/cftc-proposes-to-expand-definition-of-swaps-to-include-prediction-markets-trading-289d54d9?mod=rss_markets_main"
-  },
-  "wsj_markets#9": {
-   "outlet": "WSJ — Markets",
-   "title": "Basic Materials Roundup: Market Talk",
-   "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d3493e8c?mod=rss_markets_main"
-  },
-  "wsj_markets#10": {
-   "outlet": "WSJ — Markets",
-   "title": "U.S. Natural Gas Futures Settle Higher",
-   "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-31da69cb?mod=rss_markets_main"
-  },
-  "wsj_markets#11": {
-   "outlet": "WSJ — Markets",
-   "title": "Energy & Utilities Roundup: Market Talk",
-   "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d7e2726d?mod=rss_markets_main"
-  },
-  "wsj_markets#12": {
-   "outlet": "WSJ — Markets",
-   "title": "U.S. Stocks Rise as Iran Escalation Fears Subside",
-   "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-iran-escalation-fears-subside-2ad4f362?mod=rss_markets_main"
-  },
-  "wsj_markets#13": {
-   "outlet": "WSJ — Markets",
-   "title": "SpaceX’s Wireless Move Trips Up Telecoms",
-   "url": "https://www.wsj.com/finance/stocks/spacexs-wireless-move-trips-up-telecoms-49d5f27f?mod=rss_markets_main"
-  },
-  "wsj_markets#14": {
-   "outlet": "WSJ — Markets",
-   "title": "Global Bond Yields Edge Higher on Slowing Bond Selloff",
-   "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-eurozone-bond-yields-decline-62cfd8c8?mod=rss_markets_main"
-  },
-  "wsj_markets#15": {
-   "outlet": "WSJ — Markets",
-   "title": "Gold Futures Snap Two-Week Losing Streak",
-   "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-supported-by-potential-china-demand-08b60462?mod=rss_markets_main"
-  },
-  "wsj_markets#16": {
-   "outlet": "WSJ — Markets",
-   "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-   "url": "https://www.wsj.com/finance/currencies/a-year-on-bitcoin-languishes-a-third-below-its-all-time-high-whats-next-for-the-cryptocurrency-046f2689?mod=rss_markets_main"
-  },
-  "wsj_markets#17": {
-   "outlet": "WSJ — Markets",
-   "title": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
-   "url": "https://www.wsj.com/finance/investing/tokenized-stocks-bring-radical-change-to-markets-cuomo-says-fe1962b6?mod=rss_markets_main"
-  },
-  "wsj_markets#18": {
-   "outlet": "WSJ — Markets",
-   "title": "Prudential Financial’s Japanese Businesses Get Suspension, Improvement Orders from Regulator After Misconduct",
-   "url": "https://www.wsj.com/finance/regulation/prudential-financials-japanese-businesses-get-suspension-improvement-orders-from-regulator-61acb48b?mod=rss_markets_main"
-  },
-  "wsj_markets#19": {
-   "outlet": "WSJ — Markets",
-   "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-   "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main"
-  },
-  "wsj_markets#20": {
-   "outlet": "WSJ — Markets",
-   "title": "How a Binance ‘High-Value Customer’ Established a Financial Lifeline for Iran",
-   "url": "https://www.wsj.com/world/middle-east/how-a-binance-high-value-customer-established-a-financial-lifeline-for-iran-43bdd88e?mod=rss_markets_main"
-  },
-  "wsj_markets#21": {
-   "outlet": "WSJ — Markets",
-   "title": "The Morning Risk Report: The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
-   "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-ae8807db?mod=rss_markets_main"
-  },
-  "wsj_markets#22": {
-   "outlet": "WSJ — Markets",
-   "title": "Qatar National Bank Targets Digital Infrastructure, Real Estate Financing as Profit Rises, CEO Says",
-   "url": "https://www.wsj.com/finance/banking/qatar-national-bank-targets-digital-infrastructure-real-estate-financing-as-profit-rises-ceo-says-8828a993?mod=rss_markets_main"
-  },
-  "wsj_markets#23": {
-   "outlet": "WSJ — Markets",
-   "title": "European Stocks Seen Performing in Line With Global Peers",
-   "url": "https://www.wsj.com/finance/stocks/nikkei-falls-1-1-dragged-by-chip-metals-stocks-c8be4ccd?mod=rss_markets_main"
-  },
-  "wsj_markets#24": {
-   "outlet": "WSJ — Markets",
-   "title": "Borrowing Costs’ Double Whammy Boosts Recession Odds",
-   "url": "https://www.wsj.com/finance/stocks/borrowing-costs-double-whammy-boosts-recession-odds-622860e5?mod=rss_markets_main"
+   "title": "How to Give Your Kids Money for a House Without Things Getting Weird",
+   "url": "https://www.wsj.com/personal-finance/how-to-give-your-kids-money-for-a-house-without-things-getting-weird-47a48714?mod=rss_markets_main"
   }
  },
  "ideas": {
@@ -1635,145 +1500,155 @@
   },
   "lesswrong_curated#0": {
    "outlet": "LessWrong — Curated",
+   "title": "A critical look at Lean4",
+   "url": "https://www.lesswrong.com/posts/zHhGa3iQBQcdSifFL/a-critical-look-at-lean4-1"
+  },
+  "lesswrong_curated#1": {
+   "outlet": "LessWrong — Curated",
    "title": "What's the date?",
    "url": "https://www.lesswrong.com/posts/vzKWsEskYBEWTwpBP/what-s-the-date"
   },
-  "lesswrong_curated#1": {
+  "lesswrong_curated#2": {
    "outlet": "LessWrong — Curated",
    "title": "On Social Reality in China",
    "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china"
   },
-  "lesswrong_curated#2": {
+  "lesswrong_curated#3": {
    "outlet": "LessWrong — Curated",
    "title": "Frog and Toad and the Increasingly Capable Machines",
    "url": "https://www.lesswrong.com/posts/7NZ6ZWjenzzCbCJ5b/frog-and-toad-and-the-increasingly-capable-machines"
   },
   "marginal_revolution#0": {
    "outlet": "Marginal Revolution",
+   "title": "Sunday assorted links",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586"
+  },
+  "marginal_revolution#1": {
+   "outlet": "Marginal Revolution",
+   "title": "Sky Roomba!",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba"
+  },
+  "marginal_revolution#2": {
+   "outlet": "Marginal Revolution",
    "title": "What should I ask Fuchsia Dunlop?",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2"
   },
-  "marginal_revolution#1": {
+  "marginal_revolution#3": {
    "outlet": "Marginal Revolution",
    "title": "The economics of agents",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents"
   },
-  "marginal_revolution#2": {
+  "marginal_revolution#4": {
    "outlet": "Marginal Revolution",
    "title": "Saturday assorted links",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582"
   },
-  "marginal_revolution#3": {
+  "marginal_revolution#5": {
    "outlet": "Marginal Revolution",
    "title": "Earth facts of the day",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-facts-of-the-day"
   },
-  "marginal_revolution#4": {
+  "marginal_revolution#6": {
    "outlet": "Marginal Revolution",
    "title": "California in-migration and out-migration",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration"
   },
-  "marginal_revolution#5": {
+  "marginal_revolution#7": {
    "outlet": "Marginal Revolution",
    "title": "The origin of risk",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk"
   },
-  "marginal_revolution#6": {
+  "marginal_revolution#8": {
    "outlet": "Marginal Revolution",
    "title": "Ethiopia update",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update"
   },
-  "marginal_revolution#7": {
+  "marginal_revolution#9": {
    "outlet": "Marginal Revolution",
    "title": "Friday assorted links",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-594"
   },
-  "marginal_revolution#8": {
+  "marginal_revolution#10": {
    "outlet": "Marginal Revolution",
    "title": "A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman.html?utm_source=rss&utm_medium=rss&utm_campaign=a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman"
   },
-  "marginal_revolution#9": {
+  "marginal_revolution#11": {
    "outlet": "Marginal Revolution",
    "title": "On *Stubborn Attachments* and religion (from my email)",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=on-stubborn-attachments-and-religion-from-my-email"
   },
-  "marginal_revolution#10": {
-   "outlet": "Marginal Revolution",
-   "title": "Predictions for economics, given AI",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=predictions-for-economics-given-ai"
-  },
-  "marginal_revolution#11": {
-   "outlet": "Marginal Revolution",
-   "title": "Thursday assorted links",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-573"
-  },
   "psyche#0": {
+   "outlet": "Psyche",
+   "title": "Black men suffer racial trauma yet are seen as the threat",
+   "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat"
+  },
+  "psyche#1": {
    "outlet": "Psyche",
    "title": "How to ignite your creativity",
    "url": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things"
   },
-  "psyche#1": {
+  "psyche#2": {
    "outlet": "Psyche",
    "title": "Why moving on after a breakup makes you a better person",
    "url": "https://psyche.co/ideas/why-moving-on-after-a-breakup-makes-you-a-better-person"
   },
-  "psyche#2": {
+  "psyche#3": {
    "outlet": "Psyche",
    "title": "Tuesdays with the guys",
    "url": "https://psyche.co/turning-points/tragedy-called-for-a-radical-change-in-my-male-friendships"
   },
-  "psyche#3": {
+  "psyche#4": {
    "outlet": "Psyche",
    "title": "Want to be a lifelong learner? Don’t go it alone",
    "url": "https://psyche.co/ideas/want-to-be-a-lifelong-learner-dont-go-it-alone"
   },
-  "psyche#4": {
+  "psyche#5": {
    "outlet": "Psyche",
    "title": "A psychological guide to climbing out of debt",
    "url": "https://psyche.co/guides/a-psychological-guide-to-climbing-out-of-debt"
   },
-  "psyche#5": {
+  "psyche#6": {
    "outlet": "Psyche",
    "title": "S P A C E S",
    "url": "https://psyche.co/videos/whats-it-like-to-remember-your-past-but-forget-your-present"
   },
-  "psyche#6": {
+  "psyche#7": {
    "outlet": "Psyche",
    "title": "What does it really take to be a resilient mother?",
    "url": "https://psyche.co/ideas/what-does-it-really-take-to-be-a-resilient-mother"
   },
-  "psyche#7": {
+  "psyche#8": {
    "outlet": "Psyche",
    "title": "Ask me anything",
    "url": "https://psyche.co/videos/what-happens-when-a-sudanese-refugee-lets-strangers-ask-him-anything"
   },
-  "psyche#8": {
+  "psyche#9": {
    "outlet": "Psyche",
    "title": "Journaling to remember",
    "url": "https://psyche.co/notes-to-self/remembering-the-ephemera-of-my-life-gives-it-meaning"
   },
-  "psyche#9": {
+  "psyche#10": {
    "outlet": "Psyche",
    "title": "Why long-brewing physical and mental breakdowns feel so sudden",
    "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden"
   },
-  "psyche#10": {
+  "psyche#11": {
    "outlet": "Psyche",
    "title": "The full-service grandad",
    "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others"
   },
-  "psyche#11": {
+  "psyche#12": {
    "outlet": "Psyche",
    "title": "The end of humanity",
    "url": "https://psyche.co/videos/when-tech-titans-tell-us-to-adapt-or-die-we-neednt-listen"
   },
-  "psyche#12": {
+  "psyche#13": {
    "outlet": "Psyche",
    "title": "When you feel moral disgust, what’s the emotion telling you?",
    "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you"
   },
-  "psyche#13": {
+  "psyche#14": {
    "outlet": "Psyche",
    "title": "Can he teach the teachers?",
    "url": "https://psyche.co/portraits/he-mapped-the-learning-brain-then-came-the-hard-part"
@@ -1807,93 +1682,93 @@
  "learn": {
   "wikipedia#0": {
    "outlet": "Wikipedia",
-   "title": "2002: A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.",
-   "url": "https://en.wikipedia.org/wiki/Myyrmanni_bombing"
+   "title": "2013: Twelve people were killed in an apartment-building collapse (pictured) in Medellín, leading to new construction laws being passed in Colombia.",
+   "url": "https://en.wikipedia.org/wiki/Collapse_of_the_Space_Building"
   },
   "wikipedia#1": {
    "outlet": "Wikipedia",
-   "title": "1987: Sri Lankan Civil War: The Indian Peace Keeping Force began Operation Pawan to take control of Jaffna from the Tamil Tigers and enforce their disarmament as a part of the Indo-Sri Lanka Accord.",
-   "url": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war"
+   "title": "1992: An earthquake with a magnitude of 5.8 or 5.9 struck south of Cairo, Egypt, killing 545 people.",
+   "url": "https://en.wikipedia.org/wiki/Seismic_magnitude_scales"
   },
   "wikipedia#2": {
    "outlet": "Wikipedia",
-   "title": "1987: An estimated 750,000 people attended the \"Great March\" in Washington, D.C., to demand greater civil rights for the LGBT community.",
-   "url": "https://en.wikipedia.org/wiki/Second_National_March_on_Washington_for_Lesbian_and_Gay_Rights"
+   "title": "1984: The Provisional Irish Republican Army detonated a bomb at the Grand Hotel in Brighton, England, in a failed attempt to assassinate British prime minister Margaret Thatcher and her cabinet.",
+   "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
   },
   "wikipedia#3": {
    "outlet": "Wikipedia",
-   "title": "1984: Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan (pictured) became the first American woman to perform a space walk.",
-   "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger"
+   "title": "1979: Typhoon Tip, the largest and most intense tropical cyclone ever recorded, reached a worldwide record-low sea-level pressure of 870 mbar (25.69 inHg) in the western Pacific Ocean.",
+   "url": "https://en.wikipedia.org/wiki/Typhoon_Tip"
   },
   "wikipedia#4": {
    "outlet": "Wikipedia",
-   "title": "1973: Typhoon Nora, the fourth-most intense tropical cyclone on record, dissipated after killing 40 people and leaving more than a million homeless across Taiwan and the Philippines.",
-   "url": "https://en.wikipedia.org/wiki/Typhoon_Nora_(1973)"
+   "title": "1978: While in prison for murder, boxer James Scott defeated Eddie \"The Flame\" Gregory, a leading light heavyweight.",
+   "url": "https://en.wikipedia.org/wiki/James_Scott_(boxer)"
   },
   "wikipedia#5": {
    "outlet": "Wikipedia",
-   "title": "1968: Apollo 7, the first manned mission of NASA's Apollo program, and the first three-man American space mission, launched from Complex 34 in Cape Kennedy, Florida.",
-   "url": "https://en.wikipedia.org/wiki/Apollo_7"
+   "title": "1960: Soviet leader Nikita Khrushchev reportedly pounded his shoe on a desk during a meeting of the United Nations General Assembly in protest at a speech by Philippine delegate Lorenzo Sumulong.",
+   "url": "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
   },
   "wikipedia#6": {
    "outlet": "Wikipedia",
-   "title": "1950: A field-sequential color system developed by Hungarian-American engineer Peter Goldmark became the first color television system to be adopted for commercial use, only for it to be abandoned a year later.",
-   "url": "https://en.wikipedia.org/wiki/Field-sequential_color_system"
+   "title": "1960: Japan Socialist Party leader Inejirō Asanuma (pictured) was assassinated during a live television recording by a far-right ultra-nationalist using a short sword.",
+   "url": "https://en.wikipedia.org/wiki/Japan_Socialist_Party"
   },
   "wikipedia#7": {
    "outlet": "Wikipedia",
-   "title": "1950: CBS's field-sequential color system for television was the first to be licensed for broadcast by the U.S. Federal Communications Commission.",
-   "url": "https://en.wikipedia.org/wiki/CBS"
+   "title": "1946: Il Canto degli Italiani is adopted as national anthem by the newly formed Italian Republic.",
+   "url": "https://en.wikipedia.org/wiki/Canto_degli_italiani"
   },
   "wikipedia#8": {
    "outlet": "Wikipedia",
-   "title": "1942: World War II: At the Battle of Cape Esperance on the northwest coast of Guadalcanal, American ships intercepted and defeated a Japanese fleet sent to attack Henderson Field.",
-   "url": "https://en.wikipedia.org/wiki/World_War_II"
+   "title": "1933: The United States Department of Justice acquired a military prison on Alcatraz Island in San Francisco Bay, to be transformed into the last-resort Alcatraz Federal Penitentiary.",
+   "url": "https://en.wikipedia.org/wiki/United_States_Department_of_Justice"
   },
   "wikipedia#9": {
    "outlet": "Wikipedia",
-   "title": "1937: Former British king Edward and his wife arrived at Berlin Friedrichstraße station to begin a tour of Nazi Germany, where they were greeted with Nazi salutes and dined with high-ranking members of the state apparatus.",
-   "url": "https://en.wikipedia.org/wiki/Edward_VIII"
+   "title": "1928: The iron lung (example pictured), a type of medical ventilator, was used for the first time at the Boston Children's Hospital to treat an eight-year-old girl paralyzed by polio.",
+   "url": "https://en.wikipedia.org/wiki/Iron_lung"
   },
   "wikipedia#10": {
    "outlet": "Wikipedia",
-   "title": "1890: In Washington, D.C., the Daughters of the American Revolution was founded.",
-   "url": "https://en.wikipedia.org/wiki/Washington%2C_D.C."
+   "title": "1917: First World War: New Zealand troops suffered more than 2,000 casualties, including more than 800 deaths, in the First Battle of Passchendaele, making it the nation's largest loss of life in one day.",
+   "url": "https://en.wikipedia.org/wiki/World_War_I"
   },
   "wikipedia#11": {
    "outlet": "Wikipedia",
-   "title": "1865: The Morant Bay rebellion, led by Paul Bogle and George William Gordon, began in Jamaica; after protestors burned down the courthouse, it was brutally suppressed by Governor Edward John Eyre.",
-   "url": "https://en.wikipedia.org/wiki/Morant_Bay_rebellion"
+   "title": "1898: A statue of Austin Blair (pictured) was dedicated in a ceremony that attracted up to 30,000 people to Lansing, Michigan.",
+   "url": "https://en.wikipedia.org/wiki/Statue_of_Austin_Blair"
   },
   "wikipedia#12": {
    "outlet": "Wikipedia",
-   "title": "1852: The University of Sydney (pictured), Australia's oldest university, was inaugurated two years after being established by the University of Sydney Act.",
-   "url": "https://en.wikipedia.org/wiki/University_of_Sydney"
+   "title": "1892: The Pledge of Allegiance of the United States was first used in public schools to coincide with the opening of the World's Columbian Exposition in Chicago.",
+   "url": "https://en.wikipedia.org/wiki/Pledge_of_Allegiance"
   },
   "wikipedia#13": {
    "outlet": "Wikipedia",
-   "title": "1840: Bashir Shihab II (pictured) surrendered to the Ottoman Empire and was removed as Emir of Mount Lebanon after an imperial decree by Sultan Abdülmecid I.",
-   "url": "https://en.wikipedia.org/wiki/Bashir_Shihab_II"
+   "title": "1890: The Uddevalla Suffrage Association was founded in Uddevalla, Sweden, with the purpose of bringing about universal suffrage.",
+   "url": "https://en.wikipedia.org/wiki/Uddevalla_Suffrage_Association"
   },
   "wikipedia#14": {
    "outlet": "Wikipedia",
-   "title": "1797: French Revolutionary Wars: The Royal Navy captured eleven Dutch Navy ships without any losses at the Battle of Camperdown.",
-   "url": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars"
+   "title": "1799: Jeanne Geneviève Garnerin became the first woman to make a parachute descent, falling 900 metres (3,000 ft) in the gondola of a hot air balloon.",
+   "url": "https://en.wikipedia.org/wiki/Jeanne_Genevi%C3%A8ve_Garnerin"
   },
   "wikipedia#15": {
    "outlet": "Wikipedia",
-   "title": "1776: American Revolutionary War: A British fleet defeated American ships at the Battle of Valcour Island on Lake Champlain, but gave American forces enough time to prepare their defenses for the Saratoga campaign.",
-   "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+   "title": "1798: The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers.",
+   "url": "https://en.wikipedia.org/wiki/Peasants'_War_(1798)"
   },
   "wikipedia#16": {
    "outlet": "Wikipedia",
-   "title": "1311: The peerage and clergy of the Kingdom of England published the Ordinances of 1311 to restrict King Edward II's powers.",
-   "url": "https://en.wikipedia.org/wiki/Peerage_of_England"
+   "title": "1492: Believing he had reached the East Indies, Christopher Columbus made landfall on an island in the Caribbean, sparking a series of events that led to the European colonization of the Americas.",
+   "url": "https://en.wikipedia.org/wiki/East_Indies"
   },
   "wikipedia#17": {
    "outlet": "Wikipedia",
-   "title": "1142: The Treaty of Shaoxing was ratified, ending the Jin–Song wars, although sporadic fighting continued until 1234.",
-   "url": "https://en.wikipedia.org/wiki/Treaty_of_Shaoxing"
+   "title": "1406: Chen Yanxiang, the only person from Indonesia known to have visited dynastic Korea, reached Seoul after having set out from Java four months before.",
+   "url": "https://en.wikipedia.org/wiki/Chen_Yanxiang"
   }
  }
 }

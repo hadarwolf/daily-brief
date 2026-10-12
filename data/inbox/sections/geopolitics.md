@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Artificial intelligence - AP News",
-     "published": "2026-10-11T09:47:26+00:00",
-     "summary": "Artificial intelligence AP News"
+     "title": "Turang homers and Milwaukee's bullpen delivers as the Brewers beat the Dodgers 2-1 in NLCS opener - AP News",
+     "published": "2026-10-12T03:21:00+00:00",
+     "summary": "Turang homers and Milwaukee's bullpen delivers as the Brewers beat the Dodgers 2-1 in NLCS opener AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "New York City - AP News",
-     "published": "2026-10-11T09:47:26+00:00",
-     "summary": "New York City AP News"
+     "title": "Cubanos recurren a las farmacias comunitarias y gratuitas para sobrellevar la escasez de medicinas - AP News",
+     "published": "2026-10-12T03:02:00+00:00",
+     "summary": "Cubanos recurren a las farmacias comunitarias y gratuitas para sobrellevar la escasez de medicinas AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Florida Gators football - AP News",
-     "published": "2026-10-11T09:43:26+00:00",
-     "summary": "Florida Gators football AP News"
+     "title": "Judge orders the Trump administration to cancel taxpayer-funded promotional TV ads - AP News",
+     "published": "2026-10-12T02:48:00+00:00",
+     "summary": "Judge orders the Trump administration to cancel taxpayer-funded promotional TV ads AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "Africa News Reports | Latest News in Africa - AP News",
-     "published": "2026-10-11T09:41:13+00:00",
-     "summary": "Africa News Reports | Latest News in Africa AP News"
-    },
-    {
-     "ref": "ap_world#4",
-     "title": "Protests and demonstrations - AP News",
-     "published": "2026-10-11T09:33:19+00:00",
-     "summary": "Protests and demonstrations AP News"
-    },
-    {
-     "ref": "ap_world#5",
-     "title": "Texas - AP News",
-     "published": "2026-10-11T09:33:19+00:00",
-     "summary": "Texas AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "United Nations - AP News",
-     "published": "2026-10-11T09:33:16+00:00",
-     "summary": "United Nations AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-11T09:29:10+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
-     "published": "2026-10-11T09:25:40+00:00",
-     "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-11T09:25:39+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "Crime - AP News",
-     "published": "2026-10-11T09:23:25+00:00",
-     "summary": "Crime AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "Europe News | Breaking European News Today - AP News",
-     "published": "2026-10-11T09:19:15+00:00",
-     "summary": "Europe News | Breaking European News Today AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "AP News Search - AP News",
-     "published": "2026-10-11T09:09:56+00:00",
-     "summary": "AP News Search AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Trending News - AP News",
-     "published": "2026-10-11T09:01:55+00:00",
-     "summary": "Trending News AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-10-11T08:59:55+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "International News - AP News",
-     "published": "2026-10-11T08:59:54+00:00",
-     "summary": "International News AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Latest news - AP News",
-     "published": "2026-10-11T08:59:54+00:00",
-     "summary": "Latest news AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Storms - AP News",
-     "published": "2026-10-11T08:56:04+00:00",
-     "summary": "Storms AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "China - AP News",
-     "published": "2026-10-11T08:41:17+00:00",
-     "summary": "China AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Wall Street retreats from its record as stocks fall worldwide - AP News",
-     "published": "2026-10-11T08:37:54+00:00",
-     "summary": "Wall Street retreats from its record as stocks fall worldwide AP News"
-    },
-    {
-     "ref": "ap_world#20",
      "title": "Saudi Arabia - AP News",
-     "published": "2026-10-11T08:37:12+00:00",
+     "published": "2026-10-12T02:45:23+00:00",
      "summary": "Saudi Arabia AP News"
     },
     {
+     "ref": "ap_world#4",
+     "title": "Feud spills onto South Carolina debate stage as Darline Graham, Annie Andrews snipe in Senate race - AP News",
+     "published": "2026-10-12T02:34:00+00:00",
+     "summary": "Feud spills onto South Carolina debate stage as Darline Graham, Annie Andrews snipe in Senate race AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Brewers ace Jacob Misiorowski labors into 5th inning of NLCS opener against Dodgers - AP News",
+     "published": "2026-10-12T02:32:00+00:00",
+     "summary": "Brewers ace Jacob Misiorowski labors into 5th inning of NLCS opener against Dodgers AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-12T02:20:50+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Hurricanes send Flyers to franchise-record 7th straight loss to open season - AP News",
+     "published": "2026-10-12T01:54:00+00:00",
+     "summary": "Hurricanes send Flyers to franchise-record 7th straight loss to open season AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Brock Purdy leads 2 late scoring drives to deliver a 32-29 win for the 49ers over the Seahawks - AP News",
+     "published": "2026-10-12T01:45:00+00:00",
+     "summary": "Brock Purdy leads 2 late scoring drives to deliver a 32-29 win for the 49ers over the Seahawks AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal - AP News",
+     "published": "2026-10-12T01:33:00+00:00",
+     "summary": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Isaias moves north into Appalachians and mid-Atlantic; Southern California battered by Rachel - AP News",
+     "published": "2026-10-12T01:26:00+00:00",
+     "summary": "Isaias moves north into Appalachians and mid-Atlantic; Southern California battered by Rachel AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Latest news - AP News",
+     "published": "2026-10-12T01:22:43+00:00",
+     "summary": "Latest news AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "Minnesota - AP News",
+     "published": "2026-10-12T01:05:35+00:00",
+     "summary": "Minnesota AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "Kartye and Cuylle score 2 each as Rangers down Canucks 6-2 in first game since losing Shesterkin - AP News",
+     "published": "2026-10-12T00:52:00+00:00",
+     "summary": "Kartye and Cuylle score 2 each as Rangers down Canucks 6-2 in first game since losing Shesterkin AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "Cricket - AP News",
+     "published": "2026-10-12T00:41:23+00:00",
+     "summary": "Cricket AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "South Korea’s military says North Korea fired a projectile toward the sea - AP News",
+     "published": "2026-10-12T00:33:00+00:00",
+     "summary": "South Korea’s military says North Korea fired a projectile toward the sea AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Fugitive businessman taken into US custody in Venezuela bribery case - AP News",
+     "published": "2026-10-12T00:32:00+00:00",
+     "summary": "Fugitive businessman taken into US custody in Venezuela bribery case AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "Kraken overcame Alex Ovechkin’s first goal of the season to beat the Capitals 5-3 - AP News",
+     "published": "2026-10-12T00:00:00+00:00",
+     "summary": "Kraken overcame Alex Ovechkin’s first goal of the season to beat the Capitals 5-3 AP News"
+    },
+    {
+     "ref": "ap_world#18",
+     "title": "Waves from Tropical Storm Rachel hit the Californian coast - AP News",
+     "published": "2026-10-11T23:59:00+00:00",
+     "summary": "Waves from Tropical Storm Rachel hit the Californian coast AP News"
+    },
+    {
+     "ref": "ap_world#19",
+     "title": "Photos of NFL action from London to Seattle in Week 5 - AP News",
+     "published": "2026-10-11T23:54:00+00:00",
+     "summary": "Photos of NFL action from London to Seattle in Week 5 AP News"
+    },
+    {
+     "ref": "ap_world#20",
+     "title": "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct - AP News",
+     "published": "2026-10-11T23:44:00+00:00",
+     "summary": "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct AP News"
+    },
+    {
      "ref": "ap_world#21",
-     "title": "War and unrest - AP News",
-     "published": "2026-10-11T08:35:34+00:00",
-     "summary": "War and unrest AP News"
+     "title": "No. 21 UCLA downs turnover-plagued No. 13 Oregon 17-15 to remain undefeated - AP News",
+     "published": "2026-10-11T23:00:00+00:00",
+     "summary": "No. 21 UCLA downs turnover-plagued No. 13 Oregon 17-15 to remain undefeated AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "College football - AP News",
-     "published": "2026-10-11T08:35:33+00:00",
-     "summary": "College football AP News"
+     "title": "Quentin Tarantino’s first stage play will debut in London with Sacha Baron Cohen as star - AP News",
+     "published": "2026-10-11T22:59:00+00:00",
+     "summary": "Quentin Tarantino’s first stage play will debut in London with Sacha Baron Cohen as star AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "2026 World Cup hometown heroes - AP News",
-     "published": "2026-10-11T08:33:48+00:00",
-     "summary": "2026 World Cup hometown heroes AP News"
+     "title": "Floods, droughts, and poor crops inflict serious mental stress on farmers - AP News",
+     "published": "2026-10-11T22:57:00+00:00",
+     "summary": "Floods, droughts, and poor crops inflict serious mental stress on farmers AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "South America - AP News",
-     "published": "2026-10-11T08:33:48+00:00",
-     "summary": "South America AP News"
+     "title": "Pennsylvania shooter who killed 8 was family’s patriarch, father of toddler killed says - AP News",
+     "published": "2026-10-11T22:55:00+00:00",
+     "summary": "Pennsylvania shooter who killed 8 was family’s patriarch, father of toddler killed says AP News"
     }
    ]
   },
@@ -174,153 +174,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Delhi sees more protests as 'cockroach' group's leaders released",
-     "published": "2026-10-11T08:50:21+00:00",
-     "summary": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday."
+     "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+     "published": "2026-10-11T22:45:58+00:00",
+     "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend."
     },
     {
      "ref": "bbc_world#1",
+     "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+     "published": "2026-10-11T21:36:40+00:00",
+     "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+     "published": "2026-10-11T21:12:44+00:00",
+     "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "Watch: What's behind Trump's energy ceasefire claim?",
+     "published": "2026-10-11T20:55:02+00:00",
+     "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment."
+    },
+    {
+     "ref": "bbc_world#4",
+     "title": "Orangutans released back into Borneo forest after devastating fires",
+     "published": "2026-10-11T19:08:04+00:00",
+     "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer."
+    },
+    {
+     "ref": "bbc_world#5",
+     "title": "Poland detains man suspected of planning assassination of PM Tusk",
+     "published": "2026-10-11T17:27:24+00:00",
+     "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister."
+    },
+    {
+     "ref": "bbc_world#6",
+     "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+     "published": "2026-10-11T15:32:32+00:00",
+     "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering."
+    },
+    {
+     "ref": "bbc_world#7",
+     "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+     "published": "2026-10-11T15:32:23+00:00",
+     "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night."
+    },
+    {
+     "ref": "bbc_world#8",
+     "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+     "published": "2026-10-11T15:18:52+00:00",
+     "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
+    },
+    {
+     "ref": "bbc_world#9",
+     "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+     "published": "2026-10-11T14:38:10+00:00",
+     "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
+    },
+    {
+     "ref": "bbc_world#10",
+     "title": "Pope Leo to have surgery after lump found on lung",
+     "published": "2026-10-11T13:38:55+00:00",
+     "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
+    },
+    {
+     "ref": "bbc_world#11",
+     "title": "Homes and bridges swept away as fresh floods hit Nepal",
+     "published": "2026-10-11T12:03:52+00:00",
+     "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
+    },
+    {
+     "ref": "bbc_world#12",
+     "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+     "published": "2026-10-11T11:11:42+00:00",
+     "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday."
+    },
+    {
+     "ref": "bbc_world#13",
+     "title": "Buildings swept away as flash floods hit central Nepal",
+     "published": "2026-10-11T10:34:02+00:00",
+     "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country."
+    },
+    {
+     "ref": "bbc_world#14",
      "title": "US justice department investigates TV networks over Trump pool coverage",
      "published": "2026-10-11T05:05:43+00:00",
      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
     },
     {
-     "ref": "bbc_world#2",
-     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-     "published": "2026-10-11T01:41:29+00:00",
-     "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
-    },
-    {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#15",
      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
      "published": "2026-10-10T23:31:35+00:00",
      "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid."
     },
     {
-     "ref": "bbc_world#4",
-     "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-     "published": "2026-10-10T23:19:55+00:00",
-     "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
-    },
-    {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#16",
      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
      "published": "2026-10-10T22:13:08+00:00",
      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance."
     },
     {
-     "ref": "bbc_world#6",
-     "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-     "published": "2026-10-10T20:51:12+00:00",
-     "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
-    },
-    {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#17",
      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
      "published": "2026-10-10T19:25:03+00:00",
      "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\"."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#18",
      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
      "published": "2026-10-10T18:22:29+00:00",
      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#19",
      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
      "published": "2026-10-10T17:44:26+00:00",
      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#20",
      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
      "published": "2026-10-10T15:23:47+00:00",
      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#21",
      "title": "Woman injures three people in third Poland school knife attack in a week",
      "published": "2026-10-10T14:58:55+00:00",
      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days."
     },
     {
-     "ref": "bbc_world#12",
-     "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-     "published": "2026-10-10T14:49:32+00:00",
-     "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people."
-    },
-    {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#22",
      "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
      "published": "2026-10-10T14:13:13+00:00",
      "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#23",
      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
      "published": "2026-10-10T12:28:51+00:00",
      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
     },
     {
-     "ref": "bbc_world#15",
-     "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-     "published": "2026-10-10T10:06:23+00:00",
-     "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach."
-    },
-    {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#24",
      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
      "published": "2026-10-10T09:17:36+00:00",
      "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
-    },
-    {
-     "ref": "bbc_world#17",
-     "title": "How the trial of murdered Australian brothers and US friend unfolded",
-     "published": "2026-10-10T06:04:35+00:00",
-     "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\"."
-    },
-    {
-     "ref": "bbc_world#18",
-     "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-     "published": "2026-10-10T04:51:57+00:00",
-     "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines."
-    },
-    {
-     "ref": "bbc_world#19",
-     "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-     "published": "2026-10-10T04:34:55+00:00",
-     "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport."
-    },
-    {
-     "ref": "bbc_world#20",
-     "title": "US country music star Ella Langley cancels show due to 'security threat'",
-     "published": "2026-10-10T02:02:54+00:00",
-     "summary": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
-    },
-    {
-     "ref": "bbc_world#21",
-     "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-     "published": "2026-10-10T00:00:08+00:00",
-     "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill."
-    },
-    {
-     "ref": "bbc_world#22",
-     "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-     "published": "2026-10-09T23:24:33+00:00",
-     "summary": "Students taking to the streets have become a focal point in the country's increasingly polarised politics."
-    },
-    {
-     "ref": "bbc_world#23",
-     "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-     "published": "2026-10-09T22:30:22+00:00",
-     "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
-    },
-    {
-     "ref": "bbc_world#24",
-     "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-     "published": "2026-10-09T21:55:51+00:00",
-     "summary": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery."
     }
    ]
   },
@@ -342,27 +342,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
-     "title": "Trump Is Gutting America’s Core Geopolitical Advantage",
-     "published": "2026-10-09T08:00:00+00:00",
-     "summary": "Robert Zoellick, an expert on the global economy who served as U.S. trade representative and World Bank president, makes the authoritative case that President Donald Trump’s antagonism toward Canada and Mexico is destroying an economic and security partnership that that enables the United States to project power globally."
-    },
-    {
-     "ref": "foreign_affairs#1",
      "title": "Iran’s Theory of Victory",
      "published": "2026-10-09T08:00:00+00:00",
      "summary": "Tehran’s fight for great-power status in the post-American Middle East."
     },
     {
-     "ref": "foreign_affairs#2",
-     "title": "The Case for Economic Espionage",
-     "published": "2026-10-08T08:00:00+00:00",
-     "summary": "America should spy on foreign companies to help its own."
+     "ref": "foreign_affairs#1",
+     "title": "Trump Is Gutting America’s Core Geopolitical Advantage",
+     "published": "2026-10-09T08:00:00+00:00",
+     "summary": "Robert Zoellick, an expert on the global economy who served as U.S. trade representative and World Bank president, makes the authoritative case that President Donald Trump’s antagonism toward Canada and Mexico is destroying an economic and security partnership that that enables the United States to project power globally."
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#2",
      "title": "The End of Gaza",
      "published": "2026-10-08T08:00:00+00:00",
      "summary": "A failing peace process leads to only one outcome."
+    },
+    {
+     "ref": "foreign_affairs#3",
+     "title": "The Case for Economic Espionage",
+     "published": "2026-10-08T08:00:00+00:00",
+     "summary": "America should spy on foreign companies to help its own."
     },
     {
      "ref": "foreign_affairs#4",
@@ -390,15 +390,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "foreign_affairs#8",
-     "title": "China’s Long Twilight",
-     "published": "2026-10-05T08:00:00+00:00",
-     "summary": "Demographic decline, political paralysis, and the fate of great powers."
-    },
-    {
-     "ref": "foreign_affairs#9",
      "title": "The Triumph of Tech-Fueled Propaganda",
      "published": "2026-10-05T08:00:00+00:00",
      "summary": "America isn’t ready for the next wave of foreign influence operations."
+    },
+    {
+     "ref": "foreign_affairs#9",
+     "title": "China’s Long Twilight",
+     "published": "2026-10-05T08:00:00+00:00",
+     "summary": "Demographic decline, political paralysis, and the fate of great powers."
     }
    ]
   },
@@ -408,153 +408,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Poland says police got information about possible attack on PM and defence minister - Reuters",
-     "published": "2026-10-11T08:54:10+00:00",
-     "summary": "Poland says police got information about possible attack on PM and defence minister Reuters"
+     "title": "How India has sought to defend the slumping rupee - Reuters",
+     "published": "2026-10-12T03:28:51+00:00",
+     "summary": "How India has sought to defend the slumping rupee Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "Imran Khan's party's provincial government suspended by Pakistan president - Reuters",
-     "published": "2026-10-11T08:53:42+00:00",
-     "summary": "Imran Khan's party's provincial government suspended by Pakistan president Reuters"
+     "title": "Gold gains on weaker oil, dollar; US inflation data in focus - Reuters",
+     "published": "2026-10-12T03:13:00+00:00",
+     "summary": "Gold gains on weaker oil, dollar; US inflation data in focus Reuters"
     },
     {
      "ref": "reuters_world#2",
-     "title": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest - Reuters",
-     "published": "2026-10-11T08:32:00+00:00",
-     "summary": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest Reuters"
+     "title": "China sanctions Paraguay, Belize ministers over Taiwan ties - Reuters",
+     "published": "2026-10-12T02:54:00+00:00",
+     "summary": "China sanctions Paraguay, Belize ministers over Taiwan ties Reuters"
     },
     {
      "ref": "reuters_world#3",
-     "title": "Saudi stocks slide after attack on Riyadh airport - Reuters",
-     "published": "2026-10-11T07:51:43+00:00",
-     "summary": "Saudi stocks slide after attack on Riyadh airport Reuters"
+     "title": "EXCLUSIVE: AirAsia in talks with Malaysian government over potential funding support, sources say - Reuters",
+     "published": "2026-10-12T02:41:00+00:00",
+     "summary": "EXCLUSIVE: AirAsia in talks with Malaysian government over potential funding support, sources say Reuters"
     },
     {
      "ref": "reuters_world#4",
-     "title": "Russia's Yandex says data centre in Vladimir area shut down after drone attack - Reuters",
-     "published": "2026-10-11T07:39:43+00:00",
-     "summary": "Russia's Yandex says data centre in Vladimir area shut down after drone attack Reuters"
+     "title": "RBI's rupee boost to spur rally, trigger swings in forward premiums - Reuters",
+     "published": "2026-10-12T02:34:00+00:00",
+     "summary": "RBI's rupee boost to spur rally, trigger swings in forward premiums Reuters"
     },
     {
      "ref": "reuters_world#5",
-     "title": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports - Reuters",
-     "published": "2026-10-11T07:34:22+00:00",
-     "summary": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports Reuters"
+     "title": "Indian shares set to open higher as oil eases, RBI moves to support rupee - Reuters",
+     "published": "2026-10-12T02:29:00+00:00",
+     "summary": "Indian shares set to open higher as oil eases, RBI moves to support rupee Reuters"
     },
     {
      "ref": "reuters_world#6",
-     "title": "Indian capital braces for second day of protests against poll chief - Reuters",
-     "published": "2026-10-11T05:19:00+00:00",
-     "summary": "Indian capital braces for second day of protests against poll chief Reuters"
+     "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters",
+     "published": "2026-10-12T02:12:00+00:00",
+     "summary": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom Reuters"
     },
     {
      "ref": "reuters_world#7",
-     "title": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says - Reuters",
-     "published": "2026-10-11T04:54:00+00:00",
-     "summary": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says Reuters"
+     "title": "Taiwan says it is closely monitoring series of Chinese live-fire drills - Reuters",
+     "published": "2026-10-12T02:04:00+00:00",
+     "summary": "Taiwan says it is closely monitoring series of Chinese live-fire drills Reuters"
     },
     {
      "ref": "reuters_world#8",
-     "title": "India's 'cockroach' movement leader released from detention, lawyer says - Reuters",
-     "published": "2026-10-11T04:37:00+00:00",
-     "summary": "India's 'cockroach' movement leader released from detention, lawyer says Reuters"
+     "title": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus - Reuters",
+     "published": "2026-10-12T01:51:00+00:00",
+     "summary": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus Reuters"
     },
     {
      "ref": "reuters_world#9",
-     "title": "India unveils steel policy aiming for 604 million tons capacity by 2047 - Reuters",
-     "published": "2026-10-11T04:20:00+00:00",
-     "summary": "India unveils steel policy aiming for 604 million tons capacity by 2047 Reuters"
+     "title": "Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO - Reuters",
+     "published": "2026-10-12T01:47:00+00:00",
+     "summary": "Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO Reuters"
     },
     {
      "ref": "reuters_world#10",
-     "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
-     "published": "2026-10-11T04:03:00+00:00",
-     "summary": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok Reuters"
+     "title": "Indian central bank curbs to temper corporate rush to hedge against rupee weakness - Reuters",
+     "published": "2026-10-12T01:24:00+00:00",
+     "summary": "Indian central bank curbs to temper corporate rush to hedge against rupee weakness Reuters"
     },
     {
      "ref": "reuters_world#11",
-     "title": "Chinese Apple supplier Luxshare sees little negative impact from US patent infringement probe - Reuters",
-     "published": "2026-10-11T03:17:00+00:00",
-     "summary": "Chinese Apple supplier Luxshare sees little negative impact from US patent infringement probe Reuters"
+     "title": "Tencent plans dollar, offshore yuan bond sale under note programme - Reuters",
+     "published": "2026-10-12T01:19:00+00:00",
+     "summary": "Tencent plans dollar, offshore yuan bond sale under note programme Reuters"
     },
     {
      "ref": "reuters_world#12",
-     "title": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
-     "published": "2026-10-11T01:35:00+00:00",
-     "summary": "US military says it disabled cargo vessel trying to run Iran blockade Reuters"
+     "title": "North Korea fires missiles days after South Korea's hypersonic test - Reuters",
+     "published": "2026-10-12T00:49:00+00:00",
+     "summary": "North Korea fires missiles days after South Korea's hypersonic test Reuters"
     },
     {
      "ref": "reuters_world#13",
-     "title": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks - Reuters",
-     "published": "2026-10-11T01:00:00+00:00",
-     "summary": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks Reuters"
+     "title": "Shares seesaw in Asia as earnings loom, oil skids - Reuters",
+     "published": "2026-10-12T00:42:00+00:00",
+     "summary": "Shares seesaw in Asia as earnings loom, oil skids Reuters"
     },
     {
      "ref": "reuters_world#14",
-     "title": "Rubio pledges US cooperation in Okinawa murder case - Reuters",
-     "published": "2026-10-10T19:01:52+00:00",
-     "summary": "Rubio pledges US cooperation in Okinawa murder case Reuters"
+     "title": "US judge orders halt to taxpayer-funded ads featuring Trump - Reuters",
+     "published": "2026-10-11T23:51:00+00:00",
+     "summary": "US judge orders halt to taxpayer-funded ads featuring Trump Reuters"
     },
     {
      "ref": "reuters_world#15",
-     "title": "Man dies after entering tiger enclosure at British zoo - Reuters",
-     "published": "2026-10-10T18:08:15+00:00",
-     "summary": "Man dies after entering tiger enclosure at British zoo Reuters"
+     "title": "UK finance minister to call for big economies to get borrowing under control at IMF - Reuters",
+     "published": "2026-10-11T23:26:07+00:00",
+     "summary": "UK finance minister to call for big economies to get borrowing under control at IMF Reuters"
     },
     {
      "ref": "reuters_world#16",
-     "title": "Spanish lawyer Gonzalez Durantez launches centrist party for November election - Reuters",
-     "published": "2026-10-10T17:53:43+00:00",
-     "summary": "Spanish lawyer Gonzalez Durantez launches centrist party for November election Reuters"
+     "title": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say - Reuters",
+     "published": "2026-10-11T23:02:00+00:00",
+     "summary": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say Reuters"
     },
     {
      "ref": "reuters_world#17",
-     "title": "Erie, Pennsylvania shooter killed 8 people, then himself, police say - Reuters",
-     "published": "2026-10-10T17:48:00+00:00",
-     "summary": "Erie, Pennsylvania shooter killed 8 people, then himself, police say Reuters"
+     "title": "Chile's El Teniente mine partially suspends operations after fatal landslide - Reuters",
+     "published": "2026-10-11T22:34:00+00:00",
+     "summary": "Chile's El Teniente mine partially suspends operations after fatal landslide Reuters"
     },
     {
      "ref": "reuters_world#18",
-     "title": "India's Infosys does not expect material impact from US PERM suspension - Reuters",
-     "published": "2026-10-10T17:43:47+00:00",
-     "summary": "India's Infosys does not expect material impact from US PERM suspension Reuters"
+     "title": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks - Reuters",
+     "published": "2026-10-11T22:12:34+00:00",
+     "summary": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks Reuters"
     },
     {
      "ref": "reuters_world#19",
-     "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
-     "published": "2026-10-10T16:31:01+00:00",
-     "summary": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 Reuters"
+     "title": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says - Reuters",
+     "published": "2026-10-11T21:15:57+00:00",
+     "summary": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says Reuters"
     },
     {
      "ref": "reuters_world#20",
-     "title": "Pope Leo condemns death penalty as Trump mulls livestreamed execution - Reuters",
-     "published": "2026-10-10T16:17:38+00:00",
-     "summary": "Pope Leo condemns death penalty as Trump mulls livestreamed execution Reuters"
+     "title": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says - Reuters",
+     "published": "2026-10-11T19:44:16+00:00",
+     "summary": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says Reuters"
     },
     {
      "ref": "reuters_world#21",
-     "title": "Israeli strikes kill five people in Gaza, medics say - Reuters",
-     "published": "2026-10-10T15:24:12+00:00",
-     "summary": "Israeli strikes kill five people in Gaza, medics say Reuters"
+     "title": "Russian attacks kill six people in two Ukrainian cities - Reuters",
+     "published": "2026-10-11T19:05:43+00:00",
+     "summary": "Russian attacks kill six people in two Ukrainian cities Reuters"
     },
     {
      "ref": "reuters_world#22",
-     "title": "Eritrea asks UN to intervene in standoff with Ethiopia - Reuters",
-     "published": "2026-10-10T15:05:05+00:00",
-     "summary": "Eritrea asks UN to intervene in standoff with Ethiopia Reuters"
+     "title": "Rallying in Sao Paulo, presidential candidates seek votes and political support - Reuters",
+     "published": "2026-10-11T19:01:54+00:00",
+     "summary": "Rallying in Sao Paulo, presidential candidates seek votes and political support Reuters"
     },
     {
      "ref": "reuters_world#23",
-     "title": "Three injured in Poland's third youth stabbing attack in four days - Reuters",
-     "published": "2026-10-10T14:21:49+00:00",
-     "summary": "Three injured in Poland's third youth stabbing attack in four days Reuters"
+     "title": "Polish police detain man over threat to PM and defence minister - Reuters",
+     "published": "2026-10-11T18:43:25+00:00",
+     "summary": "Polish police detain man over threat to PM and defence minister Reuters"
     },
     {
      "ref": "reuters_world#24",
-     "title": "Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade - Reuters",
-     "published": "2026-10-10T14:13:00+00:00",
-     "summary": "Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade Reuters"
+     "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
+     "published": "2026-10-11T18:23:43+00:00",
+     "summary": "US threatens to block arms for Ukraine over refinery attacks, FT reports Reuters"
     }
    ]
   }

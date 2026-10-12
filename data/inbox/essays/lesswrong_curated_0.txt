@@ -1,0 +1,153 @@
+Lots of the discussion around Lean certificates and trust centers around general philosophical ideas of how much humans should trust formal certificates. It's important to remember, though, that Lean4 is not an ideal formal certificate machine: Lean4 is a software in its infancy and has issues. There are reasonable reasons to specifically not trust Lean4.
+
+If we're going to be putting our society's trust in Lean4, I think that it's good to have an open critical discussion of how warranted that trust is.
+
+Epistemic status: Most of this work is a factual description about aspects of Lean4 and set theory. I am 85% sure that at most two of these factual descriptions are incorrect. I am 90% sure that, in the current version of Lean4 on Github, there exists a proof of the statement "True=False" that would be accepted in such a way that the Lean community would call it a bug in need of patching (either by messing with the elaborator, compiler, kernel, or some other part of the Lean). I am 2% certain that we will soon be putting huge amounts of trust into Lean4 certificates produced by misaligned AIs, and that the human work we do as a community thinking about and fixing Lean4 in the next 24 months would fall under Less Wrong's classification of a pivotal act.
+
+Here's a quote from a last April be Leo de Moura, the creator of Lean.
+
+Here's another post by Leo de Moura, three months later:
+
+Following this incident, the Lean FRO found seven more bugs in the kernel. The new opinion of Leo de Moura: "[False statements being accepted by Lean] is going to keep happening. AIs are really good at exploiting soundness bugs in the kernels".
+
+What was the Lean community's reaction to "soundness bug #14576"? There's a nice thread about it on a Lean developer's forum here.
+
+Uh oh! Not only do we expect bugs, but there are possibilities of "sea monsters". This article is a bit about the bugs, a bit about the sea monsters, and a bit about the unsafe ways that Lean4 is currently being used (e.g. the un-sandboxed comparator used in Anthropic's formalization of Fermat's Last Theorem) .
+
+Lean4 lets you write mathematical statements and proofs using the bare low-level primitive notions of mathematics, and checks that the proofs are valid using the fundamental axioms. Which axioms? The most standard mathematical axioms are the "Zermelo-Fraenkel plus Choice" axioms (ZFC). These axioms have been vetted by armies of nerds and we're really quite certain that they are consistent. Lean4 is not based on ZFC. It is based on a special home-brew version of dependent type theory, which was designed by picking and choosing features of various modern type theories, with the governing design principle that it should be fast at compile time.
+
+How do we know that Lean4's type theory is consistent? Ideally we would construct some totally convincing proof that if ZFC (or some standard strengthening of of it via large cardinal axioms) is consistent, then Lean4 is consistent. However, we currently don't know how to do this.
+
+As of writing, there is no publicly available proof that Lean4 is consistent with respect to ZFC + any large cardinal axiom.
+
+When I originally learned that Lean4 had no known consistency proof, I thought this was some sort of bug or technicality. Surely we understand why Lean4 is supposed to be consistent, we just haven't bothered writing out the details? My current read of the situation is that this is not the case. Lean4 is not known to consistent, we don't know why it should be consistent, and there are real obstructions to all known proof strategies for showing that Lean4 is consistent.
+
+Lean4 is a "dependent type theory". Dependent type theory as a foundation for mathematics was pioneered in 1971 by Martin-Löf. A year after Martin-Löf came out with his type theory, Girard found a contradiction in Martin-Löf's theory. In his revised paper, Martin-Löf concluded that one of the axioms “had to be abandoned” and describes the necessary change as “so drastic” that the theory lost substantial expressive strength. Oops! Constructing good dependent type theories is hard.Outside the world of dependent type theory there are other famous examples of mathematicians trying to come up with new foundations of mathematics and making deep, subtle, fundamental mistakes: Church's 1932 proposed foundations for mathematics using lambda calculus (which was shown to be inconsistent by Kleene and Rosser), and Quine's 1940 proposed reworking of ZFC (which was shown to be inconsistent by Rosser).
+
+Coming up with consistent foundations for math is tricky business. The ingredients that make Lean4 fast at compile time are the same ingredients that give it access to an unusually strong amount of recursion. For instance, a common proof strategy for showing that dependent type theories are consistent with respect to ZFC + large cardinals is to use the so called "normalization" property. It was proved in 2019 by Abel and Coquand that this normalization property fails for type theories like Lean's, which in some precise sense means that Lean4's type theory is wild/poorly behaved.
+
+There was a proof of Lean3's consistency proposed in 2019 by Mario Carneiro. This proof works by embedding the primitive notions of Lean3 into the primitive notions of set theory (sets, functions between them), and then showing that the axioms of Lean3 correspond to true statements about sets. Proving that type theories are consistent with respect to ZFC + large cardinals via embedding into set theory is standard business. Unfortunately it came out in 2024 that there was a flaw in his proof strategy (oops!) and that the correct proof would require a new approach. Even if the Lean3 embedding gets fixed, Lean4 adds new features which require non-trivial extensions of that embedding.
+
+I recently asked my GPT-6 Astra to find an embedding of Lean4 into set theory. It spent ~25h and several thousand dollars on the task, and it did not succeed. It kept trying new embeddings and tricks, but every time it found counterexamples using the strong recursive power of Lean4. So it seems to me like finding this set theory embedding is a genuinely non-trivial task, and we don't have a high-level picture of why Lean4 should be consistent.
+
+One of the main things which makes Lean4 logically complex are its "nested inductive types", a sort of declaration where you can define a type in terms of a higher-order property of its own type. Nested inductive types are a new research area, but our understanding is still in its infancy (we've had some good progress in 2026, here and here). Preliminary evidence suggests they might be pretty wild. Here's a quote from the former of those two papers:
+
+"Considering the importance of nested inductive types, one would expect Rocq and Lean to offer good support for them, yet neither one does. They both fail to generate usable elimination principles, and surprisingly accept a different set of nested inductive types, neither of which is satisfactory...
+
+[technical paragraph about a problem with Lean's implementation of nested inductive types] ... this workaround highlights the need for a more systematic treatment of the problem—one that avoids such leakage of the internal encoding. More problematic, since a straightforward mutual encoding becomes impractical in more complex scenarios, Lean ultimately rejects some nested definitions that are theoretically valid—and often crucial for advanced specifications.These implementation shortcomings likely stem from an incomplete foundational understanding of nested inductive types."
+
+The conclusion from the literature, in my view, is that even if Lean4's type theory is consistent at a high level, the nature of nested inductive types makes Lean4's recursion wild. That behavior could be so wild that it is fundamentally incompatible with logic (i.e. is inconsistent), but even assuming that's not the case, it could easily be wild enough to cause bugs.
+
+This is what Chris Bailey was referring to as the "sea monsters" from before - aspects of nested inductive types which are consistent, but wild and ill-behaved and cause bugs. It's impossible to do a systematic search for this bugs currently, because we don't know at a high level what we're looking for. There's no spec to track because nobody knows how Lean4's type theory is supposed to behave.
+
+There was recently a project announced called con-leche, which claims to give a formally-verified Lean4 kernel written in Lean4. This is the second attempt at such a project, the first of which is called lean4lean and is still under development.
+
+"[Con-leche] intentionally explores a different point in the design space than lean4lean: We compromise on the checker implementation (annotations, extra checks, generated inductive models) so that we can have a direct model-based proof of consistency that does not need some of the hard-to-prove metatheoretical properties of Lean" - Joachim Breitner, creator of con-leche
+
+The con-leche experiment is nice (it's good to have more kernels!), but doesn't solve the "sea monster" questions, and it doesn't rule out bugs in the official kernel.[1]
+
+Here is the breakdown of the compute cost associated to running Anthropic's Lean4 certificate of Fermat's Last Theorem:
+
+What is this "comparator" thing that takes all the runtime? The comparator is an extra tool which is useful for making sure that malicious code in the proof body does not mess up the theorem statement during the elaboration+compilation process. This is something you have to worry about even if you trust the kernel completely. As you can see, it takes a long time to run.
+
+Soon, we expect that the world's critical software infrastructure will be formally verified. This is a huge project, which is quite expensive. The difference between running basic Lean4 and running Lean4 + comparator could be the difference between "expensive but doable" and prohibitive.
+
+The broader point is that there are choices you make when you use Lean4. If you wanted, you could run your code in con-leche and nanoda. You could use the comparator. You could sandbox your cached .olean files. None of these are the default behavior of Lean4; these are choices you have to opt into as a developer. The right choice surely depends on the application, and your level of trust in both in Lean4 and agent swarms.
+
+There's an aspect of Anthropic's FLT certificate I find worrying. When running the comparator, they decided to explicitly disable the sandbox that separates the untrusted proof code from the trusted statement. In their codebase, when justifying their decision, they make the following comment:
+
+"Comparator's own scripts/fake-landrun.sh is used = no sandbox, which is how the recorded run was made; the sandbox guards against an untrusted solution, which is moot when you built the tree yourself."
+
+It seems like Anthropic decided that the agent swarm that wrote the FLT proof is trusted, and that guarding against malicious code (even when it is easy to do) is "moot". Do we as a community think this is okay? FLT was a landmark formalization. I can easily imagine somebody pointing to the FLT certificate and saying "of course you should trust my certificate, it passed the level of rigor that FLT did". I think we should set higher standards.[2]
+
+All of the issues I talked about seem temporary or fixable. Assuming that Lean4 is consistent, then a proof should exist and we should be able to find it. We should be able to use that understanding of Lean4's foundations to run a systematic bug-search through the Lean4 kernel. We should be able to change the default "maximum trust" behavior of Lean4 to involve significant sandboxing, with formally-proven specs showing that untrusted proofs aren't able to tamper with trusted theorem statements. We should, we should, we should.
+
+Even though Lean4 is open source, not everybody can participate in this journey. Fixing Lean4's safety issues counts as a cybersecurity task, and as such (in my experience), Astra will refrain from answering questions. Astra is happy to try to prove that Lean4 is consistent, but when I've asked it to take seriously the possibility that Lean4 is not consistent it shuts down the chat as cybersecurity. When I ran Anthropic's FLT certificate on my computer, I asked Astra to take a critical look at the logs to make sure there was no funny business and it classified the chat as cybersecurity.
+
+We're entering a world where frontier labs are major decision-makers in cybersecurity. This essay is in part a letter for them: please take Lean4's correctness seriously.Lean4 is in its infancy. There are still significant hurdles between where we are now and where it needs to be before we can confidently expect it to hold the weight of the world's critical infrastructure against cyberattacks by sophistical, lazy, reward-hacking AI agents.
+
+On a more personal note, related to the con-leche experiment: I hope we don't end up in a future where the most trusted software in the world ends up being in a situation where we are told to trust it because of an AI-generated certificate, especially one that has room for loopholes. Certificates are not replacements for understanding.
+
+I ran the comparator with the sandbox on the FLT certificate and it checked out. Kevin Buzzard also independently checked the FLT certificate and ran various due-diligence checks. The real community verification of the FLT certificate was at a higher standard than Anthropic's repo.
+
+This is really cool, and I love your ask of the labs.
+
+I think if Astra or Claude found an exploit to derive anything in Lean, RL would quickly propagate that exploit to be used on any hard problem the models couldn't otherwise solve and the labs would see the models apparently proving everything, no? The LLMs in the lab's RL gyms may already be desperately searching for exploits in Lean, because that's what we've been training them to do. The good part of Goodhart.Edit I missed that Terry Tao said the same thing as my comment in the screenshot of the quote from Leo de Moura
+
+Right, the exploit would surely propagate.Maybe a good comparison is Hugging Face. There, an exploit was found, and it propagated through the message board and soon all of the agents who were stuck could use the exploit. Somehow this capabilities increase was not enough to trigger an internal audit, so I don't know!
+
+My understanding (for various reasons including this tweet from an ex-OpenAI post-training engineer) is that OpenAI has been creating and checking proofs purely in natural language, and then Lean-formalizing them as an optional second step, only after they believe that they have a complete and correct natural-language proof.
+
+I think it’s unlikely but not completely impossible that we could be in a situation where the Lean-formalization step always “works”, even for broken proofs, but where nobody at OpenAI has yet noticed that there’s something fishy going on with their Lean-formalization workflow.
+
+Yes, this was also my intuition, which is why I've always assumed that worries about bugs in the Lean kernel are overblown.
+
+Is it possible that some Lean bugs are only exploitable on certain problems? Or would pretty much every useful bug allow you to prove that True = False? It may not be obvious if the AI were to find the former kind of bug.
+
+To protect against an exploit that the AI discovers sometimes but hasn't yet fully propagated, you could offer it extra reward for proving that True = False.
+
+There are two kinds of bugs: one where Lean refuses to accept a true proof, or one where it accepts a false proof. The first is annoying but harmless. In the case of the second, there's some proposition P for which you can prove both P and not-P. And by a standard logical gyration, you can prove anything at all, true, false or indifferent, from (P and not P). It's called the principle of explosion, or ex falso quodlibet. So no, you can't hope to survive a small bug where only a few false things can be proven.
+
+It's also conceivable that Lean is unsound, but it's hidden behind a large activation energy and there's been signal to learn from. The AI could find the unsoundness if it were looking, but all past thoughts on Lean exploits have been a waste of time and the AI's been reinforced out of ever doing that. In order to get thoughts about unsoundness, you'd have to direct the AI to think in that direction.
+
+Frontier labs' NDAs are virtually airtight; even if they found those FLT-level verifications were actually relying on bugs, they have the option to slow-walk the disclosure and wait until IPOs.Labs gain a lot from announcing breakthroughs. Do they gain as much from quickly disclosing later corrections?
+
+...you mean Anthropic might release a proof they know will be discovered to be false? I mean, they could do that, but, I don't think they would? Among other reasons, that would be securities fraud.
+
+My sequence was: release → bug discovered later → disclosure timing. You turned that into “release a proof they knowis false.” That’s not my sequence. Also my claim of "have the option" is different from the ethical judgement of "will or will not do".
+
+Curated. In recent days, some strong words have been applied to the OpenAI math results (90 of 500 top problems), things like "biggest day ever in mathematics" or similar. I am not sufficiently knowledgeable about math to judge; however the claim "verified by Lean" felt like it at least said, whether or not these results were a big deal, they were trustworthy in a sense. This post casts real doubt on that. I did not realize that Lean was much less than completely watertight. The fact that models could be exploiting the issues (as they are so good at) is a reason for further questioning.So now I am very interested to have humans work through the novel proofs and figure out what fraction hold up to scrutiny? It'll be pretty scandalous if it turns out actually a good chunk of the results were exploits of the Lean kernel.I guess to the mathematicians this is good news. Still work to be done!Thank you, Milo, for raising this to everyone's attention. Kudos!
+
+Would a proof that Lean4 - nested inductives is consistent with respect to ZFC + any large cardinal axiom help bound the problem? Or a characterisation of what you get by taking nested inductives out of the picture / where it becomes more incomplete than you would ordinarily like?
+
+I'm mostly wondering if there would be value in establishing bounds on how bad things are. If it is "just" nested inductives that feels different to "nested inductives and a bunch of other things we can't even establish with nested inductives in the frame".
+
+I'm not offering, I'm just curious. I already burn my marginal token usage on other things.
+
+I also find it very unfortunate Lean4 became a sort of standard when its foundational state is so poor. I do find it hopeful that we migrated from Lean3 to Lean4, so we probably still can migrate to something else. I note that this is very specific to Lean3/Lean4 and other systems have considerably better foundational state. For example, I consider 2006 proof of HOL Towards self-verification of HOL Light basically adequate for its foundational state (its large cardinal axiom is very modest).
+
+> Assuming that Lean4 is consistent, then a proof should exist and we should be able to find it.
+
+Why should this be the case? Couldn't it be true but unprovable that Lean4 is consistent?
+
+Yes this is theoretically possible - Lean4 might be consistent, but not provable with respect to any standard axiomatic system. However, at this point mathematicians have a pretty solid intuition for what statements are/aren't provable, and intuition strongly suggests that if we're clever we'll be able to find a proof for Lean4.
+
+For those who are unfamiliar, the recently launched Palomar Registry project addresses a number of current Lean weaknesses. It reduces the chance of formalization gaps and proofs exploiting Lean kernel vulnerabilities, making it more reliable than Lean alone. It does not address one of the major points Milo raises though, which is the open question of whether Lean's underlying type theory is fundamentally consistent with ZFC (+large cardinal axioms).
+
+Assuming that Lean4 is consistent, then a proof should exist and we should be able to find it
+
+Hmm, how does this interact with Godel's Incompleteness Theorems?
+
+Godel's Incompleteness Theorem says that a sufficiently expressive theory will never be able to prove its own consistency. What you can do is prove one theory's consistency using another theory. It's perfectly fine to have a proof of Lean4's consistency within ZFC + large cardinals.Maybe what you have in mind is something like: "How is it possible that con-leche can claim to give a proof of its own consistency"? The trick is that you start with "con-leche + strong set theory assumptions" and you conclude "con-leche is consistent". What you do NOT get is a proof of "con-leche + strong set theory assumptions is consistent". You use the stronger theory to prove the consistency of the weaker theory.
+
+Since Astra is flagging your requests as "cybersecurity"; maybe you could apply for OpenAI's cybersecurity program, Project Daybreak? It seems to be GPT 5.6 Sol, and not Astra, but could perhaps be helpful.
+
+One of the nested inductive types described in one of the papers linked above is the RoseTree type. Its constructors are:
+
+with type parameter A: Type. So an interesting question is: Is there a way to define this type without resorting to nesting? I think the answer is yes.
+
+The thoughts: Let's consider a simpler case: Instead of a list of arbitrary length, we'll just ask for a pair of subtrees. The resulting definition with nesting:
+
+To get rid of the nesting, we just have to observe that to have a pair, we just need to be able to extract the first element of the pair, and also the second element of the pair. Here are the non-nested versions of the constructors (leaf was already non-nested, so it's unchanged):
+
+where Bit is, as expected, a type with two values: zero and one. This new version asks for a function that maps a Bit to a subtree. Since bit has two possible values, to define such a function we must provide two subtrees. There is little difference between asking for that kind of function, and asking for a proper Pair. Similarly, for rose trees, we could write:
+
+where FiniteSet is a type with a natural number parameter n, with exactly n elements. Now the node constructor asks for a length n and a function from (FiniteSet n) to rose trees (which is like asking for a list of n subtrees). So given that n is arbitrary, this constructor is a good substitute for its previous version, which asked for a list that could have arbitrary length.
+
+Given that Pair is basically the same as And, can we figure out a trick for Or also? Yup. We basically just replace the n:Nat field above with a b:Bit field. Then to ask for (Or P Q), we ask for a field of type (if b P Q), where if is an if/else expression (represented with the ternary ... ? ... : ... operator in some programming languages). So: ... b: Bit -> (if b P Q) -> ...
+
+My personal probability is that 70% of those Lean4-validated proofs are trustable. Before reading your article, my confidence was >95%.What is your confidence in those recently Lean4-validated proofs, if you don't mind to share?
+
+My level of confidence depends strongly on a proof-by-proof basis. There's been a slew of Lean4-validated proofs lately, without a standardized level of rigor. I put it at ~40% chance that one of the recent high-visibility Lean4-formalized proofs ends up needing to be retracted, but what dominates that estimate is statement mistranslation, not soundness issues.
+
+By "statement mistranslation", do you mean that in some steps of some proofs, the proof should be proving statement A, but proved a similar statement B instead? I asked this because LLMs usually modify my statements to generate a proof. Though I am not sure if this also happen inside those lean-formalized proofs.
+
+Yeah, for instance https://arxiv.org/abs/2610.08144. I liked the discussion in Section 4
+
+The slippage is between the English statement of the proposition to be proven, and the Lean form of the proposition. You could leave out a clause when translating into Lean, or ask about the normal regular case when you meant to ask about the regular normal case. Since most propositions are pretty short, it's a relatively hard error to make. Once it's written in Lean, you can rely on the claimed proof being an actual proof (modulo sea monsters).
+
+OpenAI appears to grasp this issue; in a recent announcement, they attached a paper written in natural language. This smacks of bit paranoia, especially considering that only few raised significant doubts about calculators or SAT solvers.
+
+This article is primarily about the use of formal verification for critical safety infrastructure (such as the type described by this taskforce: https://sl5.org/), not about formal verification in pure math.
+
+Appreciate the post Milo! I'm building a company, that I co-founded with @davidad, where we're building formal verification infra for the cyber-physical universe at large. Among others, we're building a Lean for the real-world that aims to bypass these issues by having solid theoretical foundations, that are then translated in a logic ; as a desiderata, we're also building it such that it scales to MB/GB-scale proofs, which will be required for proofs about real-world complex systems. We have made strong progress, which we will talk about more publicly in the coming months, once what we have built is mature enough for a broader community to build on it.
