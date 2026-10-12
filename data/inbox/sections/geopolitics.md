@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "College football - AP News",
-     "published": "2026-10-12T09:16:25+00:00",
-     "summary": "College football AP News"
+     "title": "College sports - AP News",
+     "published": "2026-10-12T09:42:30+00:00",
+     "summary": "College sports AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "Russia - AP News",
-     "published": "2026-10-12T09:16:25+00:00",
-     "summary": "Russia AP News"
+     "title": "Texas - AP News",
+     "published": "2026-10-12T09:32:32+00:00",
+     "summary": "Texas AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Soccer - AP News",
-     "published": "2026-10-12T09:12:26+00:00",
-     "summary": "Soccer AP News"
+     "title": "Protests and demonstrations - AP News",
+     "published": "2026-10-12T09:32:31+00:00",
+     "summary": "Protests and demonstrations AP News"
     },
     {
      "ref": "ap_world#3",
+     "title": "War and unrest - AP News",
+     "published": "2026-10-12T09:30:32+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Soccer - AP News",
+     "published": "2026-10-12T09:30:31+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "China - AP News",
+     "published": "2026-10-12T09:26:24+00:00",
+     "summary": "China AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Últimas Noticias del Mundo - AP News",
+     "published": "2026-10-12T09:24:24+00:00",
+     "summary": "Últimas Noticias del Mundo AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "South Asia - AP News",
+     "published": "2026-10-12T09:22:26+00:00",
+     "summary": "South Asia AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-12T09:20:26+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "JAY COHEN - AP News",
+     "published": "2026-10-12T09:20:22+00:00",
+     "summary": "JAY COHEN AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Golf - AP News",
+     "published": "2026-10-12T09:16:23+00:00",
+     "summary": "Golf AP News"
+    },
+    {
+     "ref": "ap_world#11",
      "title": "Minnesota - AP News",
      "published": "2026-10-12T09:05:43+00:00",
      "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#12",
      "title": "Latest news - AP News",
      "published": "2026-10-12T08:53:24+00:00",
      "summary": "Latest news AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#13",
+     "title": "Florida Gators football - AP News",
+     "published": "2026-10-12T08:49:30+00:00",
+     "summary": "Florida Gators football AP News"
+    },
+    {
+     "ref": "ap_world#14",
      "title": "Floods - AP News",
      "published": "2026-10-12T08:45:35+00:00",
      "summary": "Floods AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#15",
      "title": "AP News Search - AP News",
      "published": "2026-10-12T08:45:25+00:00",
      "summary": "AP News Search AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#16",
      "title": "Africa News Reports | Latest News in Africa - AP News",
      "published": "2026-10-12T08:43:24+00:00",
      "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "College sports - AP News",
-     "published": "2026-10-12T08:43:23+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "Protests and demonstrations - AP News",
-     "published": "2026-10-12T08:33:02+00:00",
-     "summary": "Protests and demonstrations AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "Texas - AP News",
-     "published": "2026-10-12T08:33:02+00:00",
-     "summary": "Texas AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "War and unrest - AP News",
-     "published": "2026-10-12T08:31:14+00:00",
-     "summary": "War and unrest AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "South Asia - AP News",
-     "published": "2026-10-12T08:23:02+00:00",
-     "summary": "South Asia AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "JAY COHEN - AP News",
-     "published": "2026-10-12T08:20:05+00:00",
-     "summary": "JAY COHEN AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Golf - AP News",
-     "published": "2026-10-12T08:16:10+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Kyiv says Russian strikes on energy facilities continue despite Trump’s ‘energy ceasefire’ - AP News",
-     "published": "2026-10-12T08:03:00+00:00",
-     "summary": "Kyiv says Russian strikes on energy facilities continue despite Trump’s ‘energy ceasefire’ AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Florida Gators football - AP News",
-     "published": "2026-10-12T07:50:10+00:00",
-     "summary": "Florida Gators football AP News"
-    },
-    {
      "ref": "ap_world#17",
+     "title": "Russell Brand arrives at a London court for his trial on rape and sexual assault charges - AP News",
+     "published": "2026-10-12T08:36:00+00:00",
+     "summary": "Russell Brand arrives at a London court for his trial on rape and sexual assault charges AP News"
+    },
+    {
+     "ref": "ap_world#18",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-12T08:16:25+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "Storms - AP News",
      "published": "2026-10-12T07:48:18+00:00",
      "summary": "Storms AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-10-12T07:41:06+00:00",
+     "summary": "Artificial intelligence AP News"
+    },
+    {
+     "ref": "ap_world#21",
      "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast - AP News",
      "published": "2026-10-12T07:36:00+00:00",
      "summary": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#22",
      "title": "United Nations - AP News",
      "published": "2026-10-12T07:31:15+00:00",
      "summary": "United Nations AP News"
     },
     {
-     "ref": "ap_world#20",
-     "title": "Grieving family faces accused Australian in Thai court over teen's killing, seeking death penalty - AP News",
-     "published": "2026-10-12T07:27:00+00:00",
-     "summary": "Grieving family faces accused Australian in Thai court over teen's killing, seeking death penalty AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Asian shares are mixed and Brent crude at $104 a barrel after Trump says US will buy Russian diesel - AP News",
-     "published": "2026-10-12T06:52:00+00:00",
-     "summary": "Asian shares are mixed and Brent crude at $104 a barrel after Trump says US will buy Russian diesel AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "North Korea fires multiple ballistic missiles, adding to streak of weapons tests - AP News",
-     "published": "2026-10-12T06:50:00+00:00",
-     "summary": "North Korea fires multiple ballistic missiles, adding to streak of weapons tests AP News"
-    },
-    {
      "ref": "ap_world#23",
-     "title": "Historic Tasmania church restored to its former glory - AP News",
-     "published": "2026-10-12T06:33:00+00:00",
-     "summary": "Historic Tasmania church restored to its former glory AP News"
+     "title": "Military and defense - AP News",
+     "published": "2026-10-12T07:25:20+00:00",
+     "summary": "Military and defense AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Cricket - AP News",
-     "published": "2026-10-12T05:50:07+00:00",
-     "summary": "Cricket AP News"
+     "title": "Domestic News - AP News",
+     "published": "2026-10-12T07:05:42+00:00",
+     "summary": "Domestic News AP News"
     }
    ]
   },
@@ -384,153 +384,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Fire destroys French capital's 'Enfants Rouges' covered food market - Reuters",
-     "published": "2026-10-12T09:05:43+00:00",
-     "summary": "Fire destroys French capital's 'Enfants Rouges' covered food market Reuters"
+     "title": "Gunfire injures two staff at school near Marseille - Reuters",
+     "published": "2026-10-12T09:36:20+00:00",
+     "summary": "Gunfire injures two staff at school near Marseille Reuters"
     },
     {
      "ref": "reuters_world#1",
+     "title": "China to lower VAT export rebate on new energy vehicles - Reuters",
+     "published": "2026-10-12T09:25:29+00:00",
+     "summary": "China to lower VAT export rebate on new energy vehicles Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Iran says it will reply to US response on Hormuz proposal once review over - Reuters",
+     "published": "2026-10-12T09:19:44+00:00",
+     "summary": "Iran says it will reply to US response on Hormuz proposal once review over Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "Fire destroys French capital's 'Enfants Rouges' covered food market - Reuters",
+     "published": "2026-10-12T09:15:42+00:00",
+     "summary": "Fire destroys French capital's 'Enfants Rouges' covered food market Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Indonesia central bank has full autonomy over interest rates, new chief says - Reuters",
+     "published": "2026-10-12T09:14:39+00:00",
+     "summary": "Indonesia central bank has full autonomy over interest rates, new chief says Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "Poland deploys over 20,000 police to schools after spate of stabbing attacks - Reuters",
      "published": "2026-10-12T08:58:24+00:00",
      "summary": "Poland deploys over 20,000 police to schools after spate of stabbing attacks Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#6",
+     "title": "Siberian hunters declare open season on bears after spate of deadly attacks - Reuters",
+     "published": "2026-10-12T08:44:49+00:00",
+     "summary": "Siberian hunters declare open season on bears after spate of deadly attacks Reuters"
+    },
+    {
+     "ref": "reuters_world#7",
      "title": "Top oil executives dropped from event schedule after Riyadh attacks - Reuters",
      "published": "2026-10-12T08:44:46+00:00",
      "summary": "Top oil executives dropped from event schedule after Riyadh attacks Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#8",
      "title": "Skies over Saudi capital Riyadh largely empty after deadly Houthi strikes on airport - Reuters",
      "published": "2026-10-12T08:41:02+00:00",
      "summary": "Skies over Saudi capital Riyadh largely empty after deadly Houthi strikes on airport Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#9",
      "title": "Saudi shares fall after second airport attack as Gulf trade stays cautious - Reuters",
      "published": "2026-10-12T08:39:45+00:00",
      "summary": "Saudi shares fall after second airport attack as Gulf trade stays cautious Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#10",
      "title": "Productivity gains from AI could help offset Asia's ageing population problem, IMF says - Reuters",
      "published": "2026-10-12T08:27:56+00:00",
      "summary": "Productivity gains from AI could help offset Asia's ageing population problem, IMF says Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#11",
      "title": "EU adopts nearly 1,600 new sanctions listings targeting Russia - Reuters",
      "published": "2026-10-12T08:23:44+00:00",
      "summary": "EU adopts nearly 1,600 new sanctions listings targeting Russia Reuters"
     },
     {
-     "ref": "reuters_world#7",
-     "title": "Siberian hunters declare open season on bears after spate of deadly attacks - Reuters",
-     "published": "2026-10-12T08:17:44+00:00",
-     "summary": "Siberian hunters declare open season on bears after spate of deadly attacks Reuters"
-    },
-    {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#12",
      "title": "Stellantis to build small electric vehicles with Leapmotor - Reuters",
      "published": "2026-10-12T08:15:43+00:00",
      "summary": "Stellantis to build small electric vehicles with Leapmotor Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#13",
      "title": "Burnham to tell parliament UK needs to consider new deal with EU - Reuters",
      "published": "2026-10-12T08:03:43+00:00",
      "summary": "Burnham to tell parliament UK needs to consider new deal with EU Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#14",
      "title": "Intel CEO says Chinese frontier AI model adoption has been 'very fast' - Reuters",
      "published": "2026-10-12T07:45:43+00:00",
      "summary": "Intel CEO says Chinese frontier AI model adoption has been 'very fast' Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#15",
      "title": "Germany's SPD party names Alexander Schweitzer new labour minister - Reuters",
      "published": "2026-10-12T07:26:09+00:00",
      "summary": "Germany's SPD party names Alexander Schweitzer new labour minister Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#16",
      "title": "German finance minister cancels India trip amid Berlin turmoil - Reuters",
      "published": "2026-10-12T07:14:07+00:00",
      "summary": "German finance minister cancels India trip amid Berlin turmoil Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#17",
      "title": "Ethiopia launches its first gold refinery, Prime Minister says - Reuters",
      "published": "2026-10-12T07:10:10+00:00",
      "summary": "Ethiopia launches its first gold refinery, Prime Minister says Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#18",
      "title": "UK's Heathrow rallies support for third runway as Parliament weighs expansion plans - Reuters",
      "published": "2026-10-12T07:01:43+00:00",
      "summary": "UK's Heathrow rallies support for third runway as Parliament weighs expansion plans Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#19",
      "title": "Broadcom CEO says biggest hurdle in AI-fuelled tech growth is capital, not memory chips - Reuters",
      "published": "2026-10-12T06:54:00+00:00",
      "summary": "Broadcom CEO says biggest hurdle in AI-fuelled tech growth is capital, not memory chips Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#20",
      "title": "Banks seek RBI relief, clarity on India's latest rupee-defence measures, sources say - Reuters",
      "published": "2026-10-12T06:54:00+00:00",
      "summary": "Banks seek RBI relief, clarity on India's latest rupee-defence measures, sources say Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#21",
      "title": "South African rand steady as Middle East conflict, US inflation test sentiment - Reuters",
      "published": "2026-10-12T06:51:00+00:00",
      "summary": "South African rand steady as Middle East conflict, US inflation test sentiment Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#22",
      "title": "Pakistan province leaders of ex-PM Imran Khan's party detained, minister says - Reuters",
      "published": "2026-10-12T06:50:00+00:00",
      "summary": "Pakistan province leaders of ex-PM Imran Khan's party detained, minister says Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#23",
      "title": "Israeli fire kills two people in Gaza, medics say - Reuters",
      "published": "2026-10-12T06:43:00+00:00",
      "summary": "Israeli fire kills two people in Gaza, medics say Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#24",
      "title": "India's monthly fund investments hit record highs despite market slide - Reuters",
      "published": "2026-10-12T06:41:00+00:00",
      "summary": "India's monthly fund investments hit record highs despite market slide Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "German labour minister to leave post after stepdaughter's death - Reuters",
-     "published": "2026-10-12T06:11:00+00:00",
-     "summary": "German labour minister to leave post after stepdaughter's death Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Le Pen, Melenchon head for run-off as France's political divide deepens, poll shows - Reuters",
-     "published": "2026-10-12T06:01:00+00:00",
-     "summary": "Le Pen, Melenchon head for run-off as France's political divide deepens, poll shows Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "China details outcome of EU trade talks on hybrid, electric vehicles - Reuters",
-     "published": "2026-10-12T05:42:00+00:00",
-     "summary": "China details outcome of EU trade talks on hybrid, electric vehicles Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Indian rupee to rally on fresh RBI measures, bonds eye inflation prints - Reuters",
-     "published": "2026-10-12T05:18:00+00:00",
-     "summary": "Indian rupee to rally on fresh RBI measures, bonds eye inflation prints Reuters"
     }
    ]
   }
