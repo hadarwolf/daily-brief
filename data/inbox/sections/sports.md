@@ -75,20 +75,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-1"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-11T13:00:00Z",
-     "home": "Hull City",
-     "away": "Everton",
-     "status": "FINISHED",
-     "score": "2-2"
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-11T13:00:00Z",
      "home": "Lecce",
      "away": "Bologna",
      "status": "FINISHED",
      "score": "1-2"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-11T13:00:00Z",
+     "home": "Hull City",
+     "away": "Everton",
+     "status": "FINISHED",
+     "score": "2-2"
     },
     {
      "competition": "Ligue 1",
@@ -211,20 +211,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-1"
     },
     {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-11T19:00:00Z",
-     "home": "Mineiro",
-     "away": "Santos",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-11T19:00:00Z",
      "home": "Santander",
      "away": "Valencia",
      "status": "FINISHED",
      "score": "2-2"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-11T19:00:00Z",
+     "home": "Mineiro",
+     "away": "Santos",
+     "status": "FINISHED",
+     "score": "2-1"
     },
     {
      "competition": "Primeira Liga",
@@ -245,18 +245,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-11T20:30:00Z",
-     "home": "Flamengo",
-     "away": "Fluminense",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-11T20:30:00Z",
      "home": "Palmeiras",
      "away": "Corinthians",
      "status": "FINISHED",
      "score": "4-1"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-11T20:30:00Z",
+     "home": "Flamengo",
+     "away": "Fluminense",
+     "status": "FINISHED",
+     "score": "1-0"
     }
    ],
    "today": [
@@ -685,153 +685,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "How do Women's World Cup hopes look for home nations?",
-     "published": "2026-10-12T09:27:17+00:00",
-     "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?"
+     "title": "Elite schedule 'not sustainable' amid 55-game seasons",
+     "published": "2026-10-12T10:26:18+00:00",
+     "summary": "The Premier League may have just returned from a three-week break, but for many of its stars there was no rest at all."
     },
     {
      "ref": "bbc_football#1",
+     "title": "Peterborough deny making illegal approach for Savage",
+     "published": "2026-10-12T10:20:21+00:00",
+     "summary": "Darragh MacAnthony denies claims by Forest Green owner Dale Vince that Peterborough made an illegal approach for manager Robbie Savage."
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+     "published": "2026-10-12T10:04:50+00:00",
+     "summary": "Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates."
+    },
+    {
+     "ref": "bbc_football#3",
+     "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+     "published": "2026-10-12T10:04:50+00:00",
+     "summary": "Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates."
+    },
+    {
+     "ref": "bbc_football#4",
      "title": "How do Women's World Cup hopes look for home nations?",
      "published": "2026-10-12T09:27:17+00:00",
      "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?"
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#5",
+     "title": "How do Women's World Cup hopes look for home nations?",
+     "published": "2026-10-12T09:27:17+00:00",
+     "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?"
+    },
+    {
+     "ref": "bbc_football#6",
      "title": "Seedorf back in football as Corinthians head coach",
      "published": "2026-10-12T07:42:53+00:00",
      "summary": "Brazilian club Corinthians appoint Clarence Seedorf as their head coach, with the former Netherlands midfielder taking on his first coaching role since 2019."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#7",
      "title": "Moyes may offer Celtic solution next summer - gossip",
      "published": "2026-10-12T07:33:17+00:00",
      "summary": "Could experienced Premier League manager end up at Celtic, where his professional career started?"
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#8",
      "title": "Can Robinson solve Aberdeen's lack of goals?",
      "published": "2026-10-12T07:14:01+00:00",
      "summary": "Aberdeen draw a blank again in Sunday's home loss to St Johnstone, but manager Stephen Robinson is sure his team can find a solution."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#9",
      "title": "SPFL round-up: Big wins for Ross County & Stranraer",
      "published": "2026-10-12T07:02:42+00:00",
      "summary": "All the weekend goals from the Scottish Championship, League One and League Two."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#10",
      "title": "Podcast: Naderi's hot streak & Celtic bounce back",
      "published": "2026-10-12T07:00:00+00:00",
      "summary": "Rangers and Celtic win while Hearts continue to impress."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#11",
      "title": "The 'Kane-esque' striker Spurs may regret letting go",
      "published": "2026-10-12T05:40:07+00:00",
      "summary": "Will Lankshear's positioning, finishing and poacher's instinct have made him an instant hit at Riverside Stadium – and a cause of lament at Tottenham Hotspur Stadium."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#12",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-12T05:38:24+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#13",
      "title": "'Call it a day with VAR' - Rooney on Palace's controversial goal",
      "published": "2026-10-11T23:31:42+00:00",
      "summary": "Speaking on Match of the Day, Wayne Rooney says VAR made the wrong decision in awarding Crystal Palace their second goal, which saw the home side take the lead as they went on to beat Nottingham Forest 3-1 in the Premier League."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#14",
      "title": "'It's a bad situation' - Why Man City win creates uncertainty",
      "published": "2026-10-11T23:23:03+00:00",
      "summary": "Speaking on Match of the Day, Toby Alderweireld and Wayne Rooney discuss why Manchester City's 3-0 victory against Liverpool leaves the Premier League in limbo as the club awaits a potential punishment, which could include a points deduction, after they were found guilty of financial breaches."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#15",
      "title": "'Big star' - How Doku delivered for Man City in win against Liverpool",
      "published": "2026-10-11T23:00:57+00:00",
      "summary": "Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld analyse how Jeremy Doku changed the game in Manchester City's favour, after coming on as a substitute in his side's 3-0 win against Liverpool at Anfield."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#16",
      "title": "Rooney gives verdict on Gravenberch red card",
      "published": "2026-10-11T23:00:33+00:00",
      "summary": "Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld discuss whether Ryan Gravenberch should have been sent off, after he received two yellow cards in Liverpool 3-0 defeat to Manchester City in the Premier League."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#17",
      "title": "Aston Villa planning Endrick move - Monday's gossip",
      "published": "2026-10-11T21:32:39+00:00",
      "summary": "Aston Villa are looking at signing Real Madrid striker Endrick, Liverpool are weighing up a move for Barcelona's Marc Bernal, Everton are leading the chase for Rennes striker Esteban Lepaul, plus more."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#18",
      "title": "Man City's statement win has feeling of irrelevance with season in limbo",
      "published": "2026-10-11T20:02:27+00:00",
      "summary": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?"
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#19",
      "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
      "published": "2026-10-11T19:41:17+00:00",
      "summary": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#20",
      "title": "Football Daily",
      "published": "2026-10-11T19:39:00+00:00",
      "summary": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the latest Premier League action."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#21",
      "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
      "published": "2026-10-11T18:59:19+00:00",
      "summary": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#22",
      "title": "Hull continue good start with entertaining Everton draw",
      "published": "2026-10-11T18:59:04+00:00",
      "summary": "Mohamed Belloumi scores a second-half leveller as Hull City and Everton continue their good starts to the season with an entertaining draw at MKM Stadium."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#23",
      "title": "Glasner suffers loss on Selhurst return as Palace beat Forest",
      "published": "2026-10-11T18:59:02+00:00",
      "summary": "Oliver Glasner endures a frustrating return to Crystal Palace with his Nottingham Forest side lets slip an early lead to lose to the Eagles."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#24",
      "title": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
      "published": "2026-10-11T18:46:34+00:00",
      "summary": "Andoni Iraola says he didn't agree with midfielder Ryan Gravenberch's red card in Liverpool's defeat to Manchester City at Anfield."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "'We deal with the noise' - Maresca 'proud' after Man City win",
-     "published": "2026-10-11T18:38:31+00:00",
-     "summary": "Manchester City manager Enzo Maresca says his squad 'dealt with the noise' after they beat Liverpool 3-0 at Anfield in their first match since being found guilty of breaching Premier League financial rules."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Burnham to release details of Man City meetings",
-     "published": "2026-10-11T18:01:13+00:00",
-     "summary": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Who 'simply has to do better'? Liverpool v Man City player ratings",
-     "published": "2026-10-11T17:30:19+00:00",
-     "summary": "How Liverpool and Man City's players rated following their Premier League match."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Jota comeback helps Celtic lift gloom in strong response",
-     "published": "2026-10-11T16:55:21+00:00",
-     "summary": "Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony."
     }
    ]
   },
@@ -865,15 +865,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#4",
-     "title": "Messi scores twice in first game since Argentina retirement - Jamaica Gleaner",
-     "published": "2026-10-12T05:07:15+00:00",
-     "summary": "Messi scores twice in first game since Argentina retirement Jamaica Gleaner"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
      "title": "Messi leads Inter Miami past D.C. United - Times of Oman",
      "published": "2026-10-12T04:34:00+00:00",
      "summary": "Messi leads Inter Miami past D.C. United Times of Oman"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
+     "title": "Messi scores twice in first Miami game since Argentina farewell - Qatar Tribune",
+     "published": "2026-10-12T03:58:18+00:00",
+     "summary": "Messi scores twice in first Miami game since Argentina farewell Qatar Tribune"
     },
     {
      "ref": "gnews_inter_miami#6",
@@ -901,93 +901,93 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#10",
-     "title": "Atlanta Utd v Inter Miami CF Odds - FanDuel Sportsbook",
-     "published": "2026-10-11T21:45:51+00:00",
-     "summary": "Atlanta Utd v Inter Miami CF Odds FanDuel Sportsbook"
-    },
-    {
-     "ref": "gnews_inter_miami#11",
      "title": "Inter Miami CF - D.C. United 1 - 0 | GOL - Luis Suárez - OneFootball",
      "published": "2026-10-11T21:20:55+00:00",
      "summary": "Inter Miami CF - D.C. United 1 - 0 | GOL - Luis Suárez OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#11",
      "title": "MLS - Lionel Messi scores for Inter Miami against DC United - BBC",
      "published": "2026-10-11T20:48:35+00:00",
      "summary": "MLS - Lionel Messi scores for Inter Miami against DC United BBC"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi shines for Inter Miami shortly after his farewell to Argentina - Goal.com",
      "published": "2026-10-11T20:25:29+00:00",
      "summary": "Lionel Messi shines for Inter Miami shortly after his farewell to Argentina Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "Inter Miami CF - D.C. United 4 - 0 | GOAL - Leo Messi - OneFootball",
      "published": "2026-10-11T19:15:00+00:00",
      "summary": "Inter Miami CF - D.C. United 4 - 0 | GOAL - Leo Messi OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi Makes History! Brace and Records Cement Inter Miami Legacy - beIN SPORTS",
      "published": "2026-10-11T17:08:00+00:00",
      "summary": "Messi Makes History! Brace and Records Cement Inter Miami Legacy beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "MLS Roundup: Lionel Messi shows his class, Seattle Sounders are back for real, and Charlotte FC will be a playoff nightmare - Goal.com",
      "published": "2026-10-11T15:45:16+00:00",
      "summary": "MLS Roundup: Lionel Messi shows his class, Seattle Sounders are back for real, and Charlotte FC will be a playoff nightmare Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#17",
-     "title": "MLS - Lionel Messi scores twice as Inter Miami thrash DC United - BBC",
-     "published": "2026-10-11T15:42:57+00:00",
-     "summary": "MLS - Lionel Messi scores twice as Inter Miami thrash DC United BBC"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#16",
      "title": "Inter Miami CF - D.C. United 1 - 0 | GOL - Luis Suárez - OneFootball",
      "published": "2026-10-11T15:00:00+00:00",
      "summary": "Inter Miami CF - D.C. United 1 - 0 | GOL - Luis Suárez OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#17",
      "title": "Lionel Messi To Copa Libertadores? Inter Miami Coach Cristian Gonzlez Drops Major Hint - NDTV Sports",
      "published": "2026-10-11T14:47:02+00:00",
      "summary": "Lionel Messi To Copa Libertadores? Inter Miami Coach Cristian Gonzlez Drops Major Hint NDTV Sports"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami - Kily Gonzalez aimerait voir Messi jouer la Libertadores - OneFootball",
      "published": "2026-10-11T13:19:33+00:00",
      "summary": "Inter Miami - Kily Gonzalez aimerait voir Messi jouer la Libertadores OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#19",
      "title": "Suarez knows he's a key player for Inter Miami - Gonzalez - SportyTV",
      "published": "2026-10-11T12:40:00+00:00",
      "summary": "Suarez knows he's a key player for Inter Miami - Gonzalez SportyTV"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami coach open to Messi playing in Copa Libertadores - The News Mill",
      "published": "2026-10-11T12:32:21+00:00",
      "summary": "Inter Miami coach open to Messi playing in Copa Libertadores The News Mill"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#21",
      "title": "Messi 'constantly challenging' Inter Miami to improve - SportyTV",
      "published": "2026-10-11T12:10:00+00:00",
      "summary": "Messi 'constantly challenging' Inter Miami to improve SportyTV"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami 4-0 DC United: Messi and Suarez run the show - BeSoccer Livescore",
      "published": "2026-10-11T11:20:55+00:00",
      "summary": "Inter Miami 4-0 DC United: Messi and Suarez run the show BeSoccer Livescore"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
+     "title": "VIDEO: Watch Messi, Suarez in Inter Miami’s romp over D.C. United - Front Row Soccer",
+     "published": "2026-10-11T11:02:06+00:00",
+     "summary": "VIDEO: Watch Messi, Suarez in Inter Miami’s romp over D.C. United Front Row Soccer"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "STILL GOING STRONG: Messi strikes twice in Inter Miami’s 4-0 win over D.C. - Front Row Soccer",
+     "published": "2026-10-11T10:53:56+00:00",
+     "summary": "STILL GOING STRONG: Messi strikes twice in Inter Miami’s 4-0 win over D.C. Front Row Soccer"
     }
    ]
   },
@@ -997,45 +997,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "“I was waiting for that elbow or punch” – Deni Avdija recalls fearing Draymond Green’s payback after hard foul - Basketball Network",
+     "published": "2026-10-12T10:11:00+00:00",
+     "summary": "“I was waiting for that elbow or punch” – Deni Avdija recalls fearing Draymond Green’s payback after hard foul Basketball Network"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "\"Ja Morant Not Gon' Like This\": NBA Fans Hilariously React to Deni Avdija Calling New Co-Star a \"Kid\" on Draymond Green's Podcast - Sportskeeda",
      "published": "2026-10-12T05:36:00+00:00",
      "summary": "\"Ja Morant Not Gon' Like This\": NBA Fans Hilariously React to Deni Avdija Calling New Co-Star a \"Kid\" on Draymond Green's Podcast Sportskeeda"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija Admits Feeling Helpless Against Nikola Jokic; Explains Why He's Toughest To Guard - Fadeaway World",
      "published": "2026-10-12T02:52:38+00:00",
      "summary": "Deni Avdija Admits Feeling Helpless Against Nikola Jokic; Explains Why He's Toughest To Guard Fadeaway World"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija credits Chauncey Billups for helping turn his career around - Yahoo Sports",
      "published": "2026-10-11T18:06:58+00:00",
      "summary": "Deni Avdija credits Chauncey Billups for helping turn his career around Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "“Still Gonna Get You”: Draymond Green Sends Clear Message to Deni Avdija Over 2-Year-Old On-Court Altercation - EssentiallySports",
      "published": "2026-10-11T17:55:00+00:00",
      "summary": "“Still Gonna Get You”: Draymond Green Sends Clear Message to Deni Avdija Over 2-Year-Old On-Court Altercation EssentiallySports"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija on Becoming an NBA All-Star, Playing In NBA Playoffs & Hilarious Draymond Green Story - YouTube",
      "published": "2026-10-11T12:27:42+00:00",
      "summary": "Deni Avdija on Becoming an NBA All-Star, Playing In NBA Playoffs & Hilarious Draymond Green Story YouTube"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Trail Blaziers' Deni Avdija Gets Overlooked In Latest NBA Player Rankings - roundtable.io",
      "published": "2026-10-10T17:10:54+00:00",
      "summary": "Trail Blaziers' Deni Avdija Gets Overlooked In Latest NBA Player Rankings roundtable.io"
-    },
-    {
-     "ref": "gnews_israeli_nba#6",
-     "title": "What I Changed My Mind About After Blazers Win vs. Warriors - Sports Illustrated",
-     "published": "2026-10-09T19:00:01+00:00",
-     "summary": "What I Changed My Mind About After Blazers Win vs. Warriors Sports Illustrated"
     },
     {
      "ref": "gnews_israeli_nba#7",

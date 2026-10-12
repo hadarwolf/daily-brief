@@ -28,87 +28,89 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
+     "title": "Africa’s cultural landmarks: tombs of Buganda kings",
+     "published": "2026-10-12T10:01:00+00:00",
+     "summary": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda - by Aeon Video Watch on Aeon",
+     "full_text_file": "essays/aeon_0.txt"
+    },
+    {
+     "ref": "aeon#1",
+     "title": "Is everything conscious?",
+     "published": "2026-10-12T10:00:00+00:00",
+     "summary": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on Aeon",
+     "full_text_file": "essays/aeon_1.txt"
+    },
+    {
+     "ref": "aeon#2",
      "title": "Barbara Ward’s vision",
      "published": "2026-10-09T10:00:00+00:00",
      "summary": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals - by Or Rosenboim Read on Aeon"
     },
     {
-     "ref": "aeon#1",
+     "ref": "aeon#3",
      "title": "Evolution of Manhattan",
      "published": "2026-10-08T10:01:00+00:00",
      "summary": "From Lenape land to sprawling metropolis, this detailed timelapse animation captures the making of Manhattan - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#4",
      "title": "The ghetto on the lagoon",
      "published": "2026-10-08T10:00:00+00:00",
      "summary": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them. Its compromise was the world’s first ghetto - by Alexander Lee Read on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#5",
      "title": "I won’t remain alone",
      "published": "2026-10-07T10:01:00+00:00",
      "summary": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others? - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#6",
      "title": "How to assemble science",
      "published": "2026-10-06T10:00:00+00:00",
      "summary": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all - by Helen Pearson Read on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#7",
      "title": "All-around junior male",
      "published": "2026-10-05T10:01:00+00:00",
      "summary": "A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#8",
      "title": "A life in episodes",
      "published": "2026-10-05T10:00:00+00:00",
      "summary": "For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past - by Thomas Söderqvist Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#9",
      "title": "Life on a hair trigger",
      "published": "2026-10-02T10:00:00+00:00",
      "summary": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#10",
      "title": "Green tree ants are famous in the tropics",
      "published": "2026-10-01T10:01:00+00:00",
      "summary": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#11",
      "title": "Reason is more than a tool",
      "published": "2026-10-01T10:00:00+00:00",
      "summary": "If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more - by Sasha Mudd Read on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#12",
      "title": "Passportless mess",
      "published": "2026-09-30T10:01:00+00:00",
      "summary": "A fool, a genius, or ‘a man who destroys everything’? Piecing together Zoran, a mythic figure of Belgrade - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#13",
      "title": "Don’t use the ‘C-word’",
      "published": "2026-09-29T10:00:00+00:00",
      "summary": "A cancer diagnosis carries with it fear and upheaval. For many patients the cellular changes do not warrant the label - by Matthew R Cooperberg Read on Aeon"
-    },
-    {
-     "ref": "aeon#12",
-     "title": "Affect theory",
-     "published": "2026-09-28T10:01:00+00:00",
-     "summary": "In the mid-1990s, thinkers pushed back against the idea we’re built by language, turning to feeling and the body instead - by Aeon Video Watch on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "Paternity is poetical",
-     "published": "2026-09-28T10:00:00+00:00",
-     "summary": "The notion that fatherhood and creativity are at odds is plain wrong, as both poetry and neuroscience are showing us - by Daniel Swift Read on Aeon"
     }
    ]
   },
@@ -149,66 +151,72 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
+     "published": "2026-10-12T10:06:32+00:00",
+     "summary": "More soon! The post The Nobel Prize Goes to Robert Hall and Michael Woodford appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "Okie-dokie, Casey Handmer edition",
      "published": "2026-10-12T04:20:47+00:00",
      "summary": "I’ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions. There are about 100m papers in the scientific corpus. Most are not important. Many […] The post Okie-dokie, Casey Handmer edition appeared first"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "Sunday assorted links",
      "published": "2026-10-11T16:17:20+00:00",
      "summary": "1. Was Leonardo da Vinci Jewish? 2. Twenty things to listen to in classical music. 3. Ezra Klein and Arvind Narayanan on AI as a normal technology (NYT). 4. Gans and Acemoglu on AI. 5. The return of Audrey Niffenegger. 6. Podcasts as the new form of comedy? (New Yorker) 7. PC on Dostoyevsky. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "Sky Roomba!",
      "published": "2026-10-11T11:14:21+00:00",
      "summary": "I bought a robot window cleaner. I have some high windows which need a ladder just to get the bottom and with this I can just start the robot at the bottom, it cleans the window and then returns to the start point. The bot cost me considerably less than it would have cost to […] The post Sky Roomba! appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "What should I ask Fuchsia Dunlop?",
      "published": "2026-10-11T08:52:47+00:00",
      "summary": "Yes I will be doing a fourth (!) Conversation with her, based in part on her forthcoming book Five Tastes: Delicious Recipes for Chinese Flavors. I am sure it is excellent, and will read it very soon. Her works are not just great cookbooks, they are among the best books period. Here are my previous […] The post What should I ask Fuchsia Dunlop? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "The economics of agents",
      "published": "2026-10-11T04:56:43+00:00",
      "summary": "From Patrick Collison: Assorted things I’ve been mulling over regarding agents in the economy: • Companies are in some sense the original superintelligence. It’s often the case that they can use their amortized cognitive surplus to advance their interests against those of certain consumers: relative to the optimization capacity of companies, consumers can be inattentive, […] The post The economics"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "Saturday assorted links",
      "published": "2026-10-10T16:34:52+00:00",
      "summary": "1. Claes Backman’s practical AI for academics. 2. Platypus Economics on red diesel. 3. Those new service sector jobs, Indian cricket edition. 4. Will AI make us more technocratic? 5. What should a scientific paper look like? 6. Screening for twins? 7. Chris Wickham, RIP. The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Earth facts of the day",
      "published": "2026-10-10T07:31:46+00:00",
      "summary": "Global call center headcount is 5.3% below its December 2023 peak, ending more than a decade of growth. It has fallen year over year for eight straight quarters, a decline that started in high-income countries and coincided with the rise of AI chatbots. Call center support is falling behind other white-collar work in the same […] The post Earth facts of the day appeared first on Marginal REVOLUTIO"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "California in-migration and out-migration",
      "published": "2026-10-10T04:26:55+00:00",
      "summary": "Long-run U.S. population movements have been driven more by natural amenities than by jobs, and California, rich in both uniform and complementary climates, should be a persistent net gainer of domestic migrants. It has instead lost residents to other states every year since about 1990. This paper argues that its amenities are unchanged and that […] The post California in-migration and out-migrati"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "The origin of risk",
      "published": "2026-10-09T18:20:57+00:00",
      "summary": "From the QJE, by Alexandr Kopytov, Mathieu Taschereau-Dumouchel, and Zebang Xu: We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other […] The post The origin of risk appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "Ethiopia update",
      "published": "2026-10-09T16:24:04+00:00",
      "summary": "Ethiopia is the center of the world right now as it has returned to war. Ethiopian forces retook Mekelle from rebel forces, but the fighting has extended beyond Tigray. Eritrean forces allegedly entered Tigray, and Ethiopia responded with drone attacks. The war could go a number of ways. The war extends beyond Ethiopia. Sara Al-Saeed […] The post Ethiopia update appeared first on Marginal REVOLUTI"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Friday assorted links",
      "published": "2026-10-09T16:06:02+00:00",
      "summary": "1. Charles Kenny on foreign aid. 2. Rise and fall of the plasma screen. 3. France also has very high private debt. 4. Ross Douthat will do a weekly column for The Free Press. And from Ross himself. 5. Encryption risk? 6. “The Altruists premieres November 19.” 7. Emily Wilson on various Canadian writers. The post Friday assorted links appeared first on Marginal REVOLUTION ."
@@ -303,12 +311,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "When you feel moral disgust, what’s the emotion telling you?",
      "published": "2026-09-29T10:00:00+00:00",
      "summary": "Some actions and words provoke instant revulsion. To know if we can trust that gut feeling, we should probe why we have it - by Brandon Yip Read on Psyche"
-    },
-    {
-     "ref": "psyche#14",
-     "title": "Can he teach the teachers?",
-     "published": "2026-09-28T10:00:00+00:00",
-     "summary": "The neuroscientist Stanislas Dehaene wants to bring four decades of findings on how the brain learns into the classroom. But evidence alone can’t overcome the politics in education - by Nancy Averett Read on Psyche"
     }
    ]
   },
