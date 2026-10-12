@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-12",
+  "questions": [
+    {
+      "id": "quiz-israeli-politics-bennett",
+      "section": "israeli_politics",
+      "story_id": "bennett-netanyahu-minister-reversal",
+      "answer_index": 0,
+      "en": {
+        "question": "What did Naftali Bennett say after backlash from Eisenkot, Liberman and Golan over his comment that he had no problem with Netanyahu serving as a minister?",
+        "options": [
+          "He said he would never sit with Netanyahu in any coalition",
+          "He said Netanyahu should be barred from politics entirely",
+          "He repeated that Netanyahu could serve as a minister",
+          "He resigned as party leader"
+        ],
+        "explanation": "Bennett reversed course within hours, saying 'We will not sit with Netanyahu under any constellation.'"
+      },
+      "he": {
+        "question": "מה אמר נפתלי בנט אחרי שספג ביקורת מאיזנקוט, ליברמן וגולן על הצהרתו שאין לו בעיה שנתניהו יהיה שר?",
+        "options": [
+          "הוא אמר שלא ישב עם נתניהו בשום קונסטלציה",
+          "הוא אמר שצריך לפסול את נתניהו מהפוליטיקה לחלוטין",
+          "הוא חזר על עמדתו שנתניהו יכול לשמש כשר",
+          "הוא התפטר מראשות המפלגה"
+        ],
+        "explanation": "בנט חזר בו בתוך שעות ואמר: \"לא נשב עם נתניהו בשום קונסטלציה\"."
+      }
+    },
+    {
+      "id": "quiz-geopolitics-houthi",
+      "section": "geopolitics",
+      "story_id": "houthi-saudi-airport-strikes",
+      "answer_index": 0,
+      "en": {
+        "question": "What made the second Houthi strike on Riyadh's airport especially significant, according to the analysis?",
+        "options": [
+          "It showed the Houthis can now reliably threaten Saudi Arabia's heartland, not just its border areas",
+          "It was the first attack the Houthis had ever carried out",
+          "It forced Saudi Arabia to request a UN peacekeeping force",
+          "It was launched from inside Saudi territory"
+        ],
+        "explanation": "A second strike on the capital's main airport within 48 hours signaled the Houthis can hit deep into Saudi Arabia on demand, not just along the border."
+      },
+      "he": {
+        "question": "מה הפך את התקיפה החות'ית השנייה על נמל התעופה של ריאד למשמעותית במיוחד, לפי הניתוח?",
+        "options": [
+          "היא הוכיחה שהחות'ים יכולים כעת לאיים באופן אמין על לב סעודיה, ולא רק על אזורי הגבול",
+          "זו הייתה התקיפה הראשונה שהחות'ים ביצעו אי פעם",
+          "היא אילצה את סעודיה לבקש כוח שמירת שלום של האו\"ם",
+          "היא שוגרה מתוך שטח סעודיה עצמו"
+        ],
+        "explanation": "תקיפה שנייה בנמל התעופה המרכזי של הבירה בתוך 48 שעות סימנה שהחות'ים יכולים לפגוע בעומק סעודיה כשהם רוצים, לא רק לאורך הגבול."
+      }
+    },
+    {
+      "id": "quiz-business-ai-profit",
+      "section": "business",
+      "story_id": "ai-profitability-bcg-study",
+      "answer_index": 0,
+      "en": {
+        "question": "According to the BCG study, what did the companies that actually profited from AI do differently from most others?",
+        "options": [
+          "They grew sales and headcount instead of cutting jobs",
+          "They stopped using AI tools entirely",
+          "They outsourced all AI work to competitors",
+          "They cut headcount more aggressively than everyone else"
+        ],
+        "explanation": "BCG found the profitable 6% prioritized growing sales and expanding headcount, while the rest largely pursued AI-driven layoffs without matching profit gains."
+      },
+      "he": {
+        "question": "לפי מחקר BCG, מה עשו החברות שבאמת הרוויחו מ-AI, בניגוד לרוב החברות האחרות?",
+        "options": [
+          "הן הגדילו מכירות וכוח אדם במקום לפטר עובדים",
+          "הן הפסיקו להשתמש בכלי AI לחלוטין",
+          "הן מיקור-חוץ את כל עבודת ה-AI למתחרות",
+          "הן קיצצו בכוח האדם בצורה אגרסיבית יותר מכל האחרות"
+        ],
+        "explanation": "BCG מצאה שה-6% הרווחיות העדיפו להגדיל מכירות ולהרחיב את כוח האדם, בעוד שהשאר רדפו בעיקר אחרי פיטורים בשם AI בלי רווח תואם."
+      }
+    }
+  ]
+}

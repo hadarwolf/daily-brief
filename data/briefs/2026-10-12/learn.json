@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-12",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-12T04:25:48+00:00",
+  "stories": [
+    {
+      "id": "word-hockey-stick-growth",
+      "kind": "word",
+      "en": {
+        "headline": "Hockey-stick growth (צמיחת מקל הוקי)",
+        "scroll": "A growth curve that stays flat for a long time, then suddenly shoots upward — shaped like a hockey stick.",
+        "coffee": "The term describes a company's revenue or user base growing slowly for a long stretch, then suddenly accelerating sharply, producing a line on a chart that looks like a hockey stick: a long flat blade, then a steep upward blade. Example: \"Investors kept asking when the startup's hockey-stick growth would finally show up in the user numbers.\"",
+        "deep": "Use it when describing — or being skeptical of — a growth projection that assumes a long, slow build followed by a sudden, dramatic acceleration. It's common in startup pitch decks, where founders project flat early growth followed by a hockey-stick curve once some assumed trigger kicks in, like a product launch, a partnership, or viral adoption. The common confusion: hockey-stick growth describes a shape on a chart, not a guarantee — plenty of projected hockey sticks never bend upward at all, which is why investors treat the term half-admiringly and half-skeptically. A few more examples: \"The sales team forecast hockey-stick growth in Q4, right after the new feature ships.\" \"Be wary of any pitch deck where the only year with real growth is the one that hasn't happened yet — that's a hockey stick on paper, not in reality.\" In Hebrew: צמיחת מקל הוקי."
+      },
+      "he": {
+        "headline": "Hockey-stick growth (צמיחת מקל הוקי)",
+        "scroll": "עקומת צמיחה שנשארת שטוחה הרבה זמן, ואז מזנקת בפתאומיות - בצורה שמזכירה מקל הוקי.",
+        "coffee": "המונח מתאר הכנסות או בסיס משתמשים של חברה שגדלים לאט במשך זמן רב, ואז מאיצים בחדות, ומייצרים על גרף קו שנראה כמו מקל הוקי: להב ארוך ושטוח, ואז להב תלול שעולה. לדוגמה: \"המשקיעים כל הזמן שאלו מתי צמיחת מקל ההוקי של הסטארט-אפ תתבטא סוף סוף במספרי המשתמשים\".",
+        "deep": "משתמשים במונח כשמתארים - או מביעים ספקנות לגבי - תחזית צמיחה שמניחה בנייה איטית וממושכת ולאחר מכן האצה דרמטית ופתאומית. זה נפוץ במצגות השקעה של סטארט-אפים, שבהן מייסדים מציגים צמיחה שטוחה בשנים הראשונות ואז עקומת מקל הוקי כשטריגר כלשהו, כמו השקת מוצר, שיתוף פעולה או אימוץ ויראלי, נכנס לפעולה. הבלבול הנפוץ: צמיחת מקל הוקי מתארת צורה על גרף, לא הבטחה - הרבה מקלי הוקי מתוכננים לא מתעקלים מעלה בכלל, וזו הסיבה שמשקיעים מתייחסים למונח בחצי הערצה ובחצי ספקנות. עוד כמה דוגמאות: \"צוות המכירות חזה צמיחת מקל הוקי ברביע הרביעי, ממש אחרי השקת התכונה החדשה.\" \"כדאי להיזהר ממצגת שבה השנה היחידה עם צמיחה אמיתית היא זו שעדיין לא קרתה - זה מקל הוקי על הנייר, לא במציאות.\" במקור: hockey-stick growth."
+      },
+      "tags": [
+        "vocabulary",
+        "growth",
+        "startups"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-asymmetric-bet",
+      "kind": "word",
+      "en": {
+        "headline": "Asymmetric bet (הימור א-סימטרי)",
+        "scroll": "An investment where the potential upside is far larger than the potential downside.",
+        "coffee": "An asymmetric bet is a decision where, if you're wrong, you lose a small, limited amount, but if you're right, you gain a disproportionately larger amount. Example: \"Early-stage venture investing is an asymmetric bet — most startups fail, but the few that succeed can return 100 times the investment.\"",
+        "deep": "Use this when describing a risk where the downside is capped — you can only lose what you put in — but the upside is uncapped or very large: venture capital, buying options, or betting on a long-shot candidate are classic cases. The common confusion: asymmetric doesn't mean safe. It still means you'll very likely lose on any individual bet; the asymmetry is about the size of the win relative to the size of the loss, not the odds of winning. A portfolio of many asymmetric bets can make sense even if most of them fail, as long as the few winners are large enough to cover the losers. More examples: \"He described quitting his job to found a startup as an asymmetric bet — limited downside, since he could get another job, and unlimited upside.\" \"Buying deep out-of-the-money options is a classic asymmetric bet: you either lose the small premium or make many times it.\" In Hebrew: הימור א-סימטרי."
+      },
+      "he": {
+        "headline": "Asymmetric bet (הימור א-סימטרי)",
+        "scroll": "השקעה שבה הפוטנציאל לרווח גדול בהרבה מהפוטנציאל להפסד.",
+        "coffee": "הימור א-סימטרי הוא החלטה שבה, אם טעית, אתה מפסיד סכום קטן ומוגבל, אבל אם צדקת, אתה מרוויח סכום גדול בצורה לא פרופורציונית. לדוגמה: \"השקעה בסטארט-אפים בשלב מוקדם היא הימור א-סימטרי - רוב הסטארט-אפים נכשלים, אבל המעטים שמצליחים יכולים להחזיר פי 100 מההשקעה\".",
+        "deep": "משתמשים בביטוי כשמתארים סיכון שבו ההפסד האפשרי מוגבל - אפשר להפסיד רק את מה שהשקעת - אבל הרווח האפשרי לא מוגבל או גדול מאוד: הון סיכון, רכישת אופציות, או הימור על מועמד שאין לו סיכוי גבוה הם מקרים קלאסיים. הבלבול הנפוץ: א-סימטרי לא אומר בטוח. זה עדיין אומר שסביר מאוד שתפסיד בכל הימור בודד; הא-סימטריה היא ביחס בין גודל הזכייה לגודל ההפסד, לא בסיכויי הזכייה. תיק של הרבה הימורים א-סימטריים יכול להיות הגיוני גם אם רובם נכשלים, כל עוד המעטים שמצליחים גדולים מספיק כדי לכסות את המפסידים. עוד דוגמאות: \"הוא תיאר את ההתפטרות מהעבודה כדי להקים סטארט-אפ כהימור א-סימטרי - הפסד מוגבל, כי הוא יכול למצוא עבודה אחרת, ורווח בלתי מוגבל.\" \"רכישת אופציות עמוק מתחת למחיר המימוש היא הימור א-סימטרי קלאסי: אתה או מפסיד את הפרמיה הקטנה או מרוויח כמה מונים ממנה.\" במקור: asymmetric bet."
+      },
+      "tags": [
+        "vocabulary",
+        "investing",
+        "risk"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-burning-the-boats",
+      "kind": "word",
+      "en": {
+        "headline": "Burning the boats (לשרוף את הסיפונים)",
+        "scroll": "Committing to a course of action so completely that retreat becomes impossible.",
+        "coffee": "The idiom comes from the practice of invading armies burning their own ships so there's no way back — it now describes any irreversible commitment that forces everyone involved to succeed, because failure isn't an option. Example: \"By publicly announcing the product launch date to every major client, the CEO essentially burned the boats on the team's ability to quietly delay it.\"",
+        "deep": "Use it to describe a deliberate, irreversible commitment made specifically to remove the option of backing out, usually to force focus or full effort. It's common in business talk about founders quitting stable jobs, companies making public commitments they can't walk back, or negotiators taking a public position that limits their own room to compromise. The common confusion: it's not the same as simply taking a risk — the emphasis is on deliberately destroying your own exit option, not just accepting that one exists. A founder who quits a job to start a company has burned a boat; a founder who keeps the job as a backup hasn't, even if the startup itself is risky. More examples: \"Signing the lease on a storefront before the product was even finished was the founder's way of burning the boats.\" \"The board burned the boats by announcing the merger before all the regulatory approvals were in, leaving the company no graceful way to back out.\" In Hebrew: לשרוף את הסיפונים."
+      },
+      "he": {
+        "headline": "Burning the boats (לשרוף את הסיפונים)",
+        "scroll": "להתמסר למסלול פעולה באופן כך מוחלט שנסיגה הופכת לבלתי אפשרית.",
+        "coffee": "הניב מגיע מהמנהג של צבאות פולשים לשרוף את הסיפונים שלהם עצמם כך שלא תהיה דרך חזרה - הוא מתאר כעת כל מחויבות בלתי הפיכה שמכריחה את כל המעורבים להצליח, כי כישלון אינו אופציה. לדוגמה: \"בכך שהודיע בפומבי על תאריך ההשקה לכל הלקוחות המרכזיים, המנכ\"ל למעשה שרף את הסיפונים של היכולת של הצוות לדחות אותה בשקט\".",
+        "deep": "משתמשים בביטוי כדי לתאר מחויבות מכוונת ובלתי הפיכה שנעשתה במיוחד כדי להסיר את אפשרות הנסיגה, בדרך כלל כדי לכפות מיקוד או מאמץ מלא. זה נפוץ בשיח עסקי על מייסדים שמתפטרים מעבודות יציבות, חברות שעושות מחויבויות פומביות שהן לא יכולות לסגת מהן, או משא ומתן שבו צד נוקט עמדה פומבית שמגבילה את מרחב הפשרה שלו עצמו. הבלבול הנפוץ: זה לא זהה לפשוט לקחת סיכון - ההדגשה היא על השמדה מכוונת של אופציית היציאה שלך, לא רק הסכמה לכך שהיא קיימת. מייסד שמתפטר מעבודה כדי להקים חברה שרף סיפון; מייסד שממשיך בעבודה כגיבוי לא עשה זאת, גם אם הסטארט-אפ עצמו מסוכן. עוד דוגמאות: \"לחתום על חוזה שכירות לחנות לפני שהמוצר אפילו היה מוכן היה הדרך של המייסד לשרוף את הסיפונים.\" \"הדירקטוריון שרף את הסיפונים כשהודיע על המיזוג לפני שכל האישורים הרגולטוריים התקבלו, והשאיר לחברה שום דרך מכובדת לסגת.\" במקור: burning the boats."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "commitment"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-commoditization",
+      "kind": "concept",
+      "en": {
+        "headline": "Commoditization: Why Having the Same Tool as Everyone Else Isn't an Advantage",
+        "scroll": "When a once-scarce technology or product becomes widely available and standardized, simply owning it stops being a competitive edge.",
+        "coffee": "Commoditization is the process by which a product, technology or service that once gave its owner a real edge becomes so widely available, standardized and interchangeable that merely having it no longer sets anyone apart. Early access to a new technology is scarce and valuable; as more competitors gain the same access on similar terms, the thing itself stops being differentiating, and the advantage shifts to whoever uses it best. Example: today's AI tools are a textbook case — most companies can now buy access to broadly similar large language models, so the technology itself has become commoditized even as it remains powerful.",
+        "deep": "## The idea\n\nA product or capability is valuable competitively not just because it's useful, but because it's scarce — not everyone has it. Commoditization is what happens when that scarcity disappears: the thing becomes a standardized, interchangeable \"commodity\" that any competitor can acquire on similar terms, at a similar price, with similar quality. Once that happens, owning the thing stops being what separates winners from losers. What matters instead is execution: who uses the now-common tool most effectively.\n\n## A worked example\n\nImagine three airlines in the 1990s. Airline A is the first to adopt computerized booking systems, cutting costs and filling more seats than rivals still using manual booking — a real, temporary competitive advantage. Within a few years, every airline has a computerized booking system; it's now table stakes, not an edge. Computerized booking has been commoditized. The airlines that keep winning after that point aren't the ones with booking software — everyone has that — but the ones that use the data from it better: smarter pricing, better route planning, more efficient crew scheduling.\n\nAI tools today follow the same arc. A company that was first to deploy a customer-service chatbot in, say, 2023 had a real edge: faster response times, lower support costs, while competitors were still staffing phone lines. By 2026, nearly every company in the industry has a similar chatbot built on broadly similar underlying models. The chatbot itself is commoditized. The companies still winning are the ones whose people figured out how to use AI well — redesigning workflows around it, knowing which decisions still need a human, turning its output into something customers actually value more than before.\n\n## The takeaway\n\nCommoditization doesn't mean a technology stops mattering — AI, like computerized booking before it, keeps being essential infrastructure. It means the technology alone stops being a source of advantage once competitors catch up, which is usually faster than companies expect. The practical lesson: when evaluating any \"competitive edge\" built on a new technology, ask how long until competitors have access to the same thing — and build the actual, durable advantage in what's harder to copy: people, process, and judgment."
+      },
+      "he": {
+        "headline": "קומודיטיזציה: למה בעלות על אותו כלי כמו כולם אינה יתרון",
+        "scroll": "כשטכנולוגיה או מוצר שהיו פעם נדירים הופכים נפוצים וסטנדרטיים, עצם הבעלות עליהם מפסיקה להיות יתרון תחרותי.",
+        "coffee": "קומודיטיזציה (commoditization) היא התהליך שבו מוצר, טכנולוגיה או שירות שבעבר העניקו לבעליהם יתרון אמיתי הופכים נפוצים, סטנדרטיים וניתנים להחלפה, עד שעצם הבעלות עליהם כבר לא מבדילה אף אחד. גישה מוקדמת לטכנולוגיה חדשה היא נדירה ויקרת ערך; ככל שיותר מתחרים מקבלים גישה דומה בתנאים דומים, הדבר עצמו מפסיק לבדל, והיתרון עובר למי שמשתמש בו הכי טוב. לדוגמה: כלי ה-AI של היום הם מקרה קלאסי - רוב החברות יכולות כעת לרכוש גישה למודלים גדולים דומים למדי, כך שהטכנולוגיה עצמה הפכה למצרך גם כשהיא נותרת עוצמתית.",
+        "deep": "## הרעיון\n\nמוצר או יכולת הם בעלי ערך תחרותי לא רק בגלל שהם שימושיים, אלא בגלל שהם נדירים - לא לכולם יש אותם. קומודיטיזציה היא מה שקורה כשהנדירות הזו נעלמת: הדבר הופך ל'מצרך' סטנדרטי וניתן להחלפה שכל מתחרה יכול להשיג בתנאים דומים, במחיר דומה, באיכות דומה. כשזה קורה, הבעלות על הדבר מפסיקה להיות מה שמבדיל בין המנצחים למפסידים. מה שחשוב במקום זה הוא הביצוע: מי משתמש בכלי שכיום נפוץ בצורה היעילה ביותר.\n\n## דוגמה מעשית\n\nתארו לעצמכם שלוש חברות תעופה בשנות ה-90. חברה א' היא הראשונה לאמץ מערכות הזמנה ממוחשבות, מקצצת בעלויות ומאכלסת יותר מקומות מהמתחרות שעדיין מזמינות באופן ידני - יתרון תחרותי אמיתי, אך זמני. בתוך כמה שנים, לכל חברת תעופה יש מערכת הזמנה ממוחשבת; זו כעת דרישת סף, לא יתרון. ההזמנה הממוחשבת עברה קומודיטיזציה. חברות התעופה שממשיכות לנצח מאותה נקודה ואילך אינן אלה עם תוכנת הזמנות - לכולן יש את זה - אלא אלה שמשתמשות בנתונים ממנה טוב יותר: תמחור חכם יותר, תכנון מסלולים טוב יותר, שיבוץ צוותים יעיל יותר.\n\nכלי ה-AI של היום עוקבים אחרי אותה עקומה. חברה שהייתה הראשונה לפרוס צ'אטבוט שירות לקוחות, נניח ב-2023, קיבלה יתרון אמיתי: זמני תגובה מהירים יותר, עלויות תמיכה נמוכות יותר, בזמן שמתחרות עדיין הפעילו מרכזי שירות טלפוניים. ב-2026, לרוב החברות בתעשייה יש צ'אטבוט דומה שבנוי על מודלים דומים למדי. הצ'אטבוט עצמו עבר קומודיטיזציה. החברות שממשיכות לנצח הן אלה שבהן האנשים הבינו איך להשתמש ב-AI היטב - לבנות תהליכי עבודה מחדש סביבו, לדעת אילו החלטות עדיין דורשות אדם, להפוך את התפוקה שלו למשהו שלקוחות מעריכים יותר ממה שהיה קודם.\n\n## המסקנה\n\nקומודיטיזציה לא אומרת שטכנולוגיה מפסיקה להיות חשובה - AI, כמו הזמנה ממוחשבת לפניה, נשארת תשתית הכרחית. היא אומרת שהטכנולוגיה בלבד מפסיקה להיות מקור יתרון ברגע שהמתחרים משתווים אליה, וזה קורה בדרך כלל מהר יותר ממה שחברות מצפות. הלקח המעשי: כשמעריכים כל 'יתרון תחרותי' שבנוי על טכנולוגיה חדשה, יש לשאול כמה זמן ייקח למתחרים לקבל גישה לאותו הדבר - ולבנות את היתרון האמיתי והעמיד במה שקשה יותר להעתיק: אנשים, תהליך ושיקול דעת."
+      },
+      "tags": [
+        "commoditization",
+        "competitive-advantage",
+        "economics"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-1984-brighton-bombing",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1984: The IRA Tries to Kill Margaret Thatcher With a Bomb at the Grand Hotel in Brighton",
+        "scroll": "On this day in 1984, the Provisional IRA detonated a bomb at the Grand Hotel in Brighton in a failed attempt to kill British Prime Minister Margaret Thatcher and her cabinet during the Conservative Party conference.",
+        "coffee": "On 12 October 1984, the Provisional Irish Republican Army detonated a bomb at the Grand Hotel in Brighton, England, where Margaret Thatcher and much of her cabinet were staying for the Conservative Party's annual conference. The attack was a direct assassination attempt against the sitting prime minister and her senior ministers, timed to the conference to maximize who was in the building.\n\nThatcher survived — she was awake working in her hotel suite's bathroom at the moment of the blast, which spared her — but the bombing killed several people and seriously injured others among the delegates and staff. The IRA, which rejected British rule in Northern Ireland and saw itself as the legitimate successor to the historic Irish Republican Army, was pursuing a campaign aimed at forcing a British withdrawal from Northern Ireland; killing a sitting prime minister would have been its most significant strike of the entire conflict known as the Troubles.",
+        "deep": "## The context\n\nBy 1984, the Troubles — the decades-long conflict over British rule in Northern Ireland — had been running for 15 years, pitting the Provisional IRA, a republican paramilitary group seeking a united, independent Ireland, against British security forces and loyalist paramilitaries. The Provisional IRA considered itself the legitimate successor to the IRA of the Irish War of Independence, and had shifted much of its campaign to mainland Britain by the 1980s, seeking to raise the political cost of the British government's presence in Northern Ireland directly in London's own political heartland.\n\n## The attack\n\nThe Grand Hotel in Brighton was hosting Margaret Thatcher's Conservative government for its annual party conference — meaning an unusually large share of Britain's senior political leadership was concentrated in one building. The IRA planted a long-delay time bomb weeks in advance, timed to detonate during the conference itself. The blast brought down part of the hotel's structure. Thatcher herself was in her suite's bathroom, still awake preparing a speech, when the device went off — a detail credited with saving her life, as the parts of the suite she would otherwise have occupied were destroyed.\n\n## Why it mattered\n\nDespite failing to kill its primary targets, the bombing remains one of the most direct attempts by a non-state group to assassinate a sitting British prime minister in modern history. It demonstrated that the IRA's campaign could reach into the heart of the British political establishment, not just Northern Ireland, reshaping security arrangements for British politicians for years afterward. Thatcher famously insisted the conference continue the next morning as scheduled, a moment widely remembered as a show of defiance that shaped her public image. The attack is often cited in discussions of how close political violence has come to altering the leadership of a major Western democracy by force rather than by vote."
+      },
+      "he": {
+        "headline": "1984: הצמ\"א מנסה לרצוח את מרגרט תאצ'ר בפיגוע בבית המלון גרנד בברייטון",
+        "scroll": "בתאריך זה ב-1984 הפעיל הצמ\"א (האירי) מטען חבלה במלון גרנד בברייטון בניסיון כושל לרצוח את ראשת ממשלת בריטניה מרגרט תאצ'ר ואת הממשלה שלה בעת כנס המפלגה השמרנית.",
+        "coffee": "ב-12 באוקטובר 1984 הפעיל הצבא הרפובליקני האירי הזמני (הצמ\"א) מטען חבלה במלון גרנד בברייטון, אנגליה, שבו שהו מרגרט תאצ'ר ורוב ממשלתה לכנס השנתי של המפלגה השמרנית. הפיגוע היה ניסיון רצח ישיר בראשת הממשלה המכהנת ובשריה הבכירים, שתוזמן לכנס במטרה למקסם את מספר האנשים שישהו בבניין.\n\nתאצ'ר שרדה - היא הייתה ערה ועבדה בחדר האמבטיה בסוויטה שלה במלון ברגע הפיצוץ, מה שהציל את חייה - אך הפיגוע הרג כמה בני אדם ופצע קשה אחרים מבין הצירים והצוות. הצמ\"א, שדחה את השלטון הבריטי בצפון אירלנד וראה בעצמו את היורש הלגיטימי של הצבא הרפובליקני האירי ההיסטורי, ניהל מערכה שמטרתה לכפות נסיגה בריטית מצפון אירלנד; רצח ראש ממשלה מכהן היה הופך למכה המשמעותית ביותר של כל הסכסוך שנודע בשם 'הצרות'.",
+        "deep": "## ההקשר\n\nעד 1984, 'הצרות' - הסכסוך רב-העשורים על השלטון הבריטי בצפון אירלנד - נמשך כבר 15 שנה, כשהצמ\"א, גוף פרא-צבאי רפובליקני ששאף לאיחוד אירלנד עצמאית, ניצב מול כוחות הביטחון הבריטיים וגופים פרא-צבאיים לויאליסטיים. הצמ\"א ראה בעצמו את היורש הלגיטימי של הצבא הרפובליקני האירי ממלחמת העצמאות האירית, והעביר חלק גדול ממערכתו ליבשת בריטניה בשנות ה-80, בניסיון להעלות את המחיר הפוליטי של הנוכחות הבריטית בצפון אירלנד ישירות בלב הפוליטי של לונדון.\n\n## הפיגוע\n\nמלון גרנד בברייטון אירח את ממשלתה השמרנית של מרגרט תאצ'ר לכנס השנתי של המפלגה - כך שנתח חריג מהנהגת בריטניה הפוליטית הבכירה היה מרוכז בבניין אחד. הצמ\"א הטמין מטען חבלה עם שעון עיכוב ארוך שבועות מראש, שתוזמן להתפוצץ בעת הכנס עצמו. הפיצוץ הפיל חלק ממבנה המלון. תאצ'ר עצמה הייתה בחדר האמבטיה בסוויטה שלה, עדיין ערה בהכנת נאום, כשהמטען התפוצץ - פרט שמיוחס לו הצלת חייה, שכן חלקי הסוויטה שבהם הייתה שוהה אחרת נהרסו.\n\n## למה זה היה חשוב\n\nאף שנכשל בהריגת מטרותיו העיקריות, הפיגוע נותר אחד הניסיונות הישירים ביותר של גוף לא-ממלכתי לרצוח ראש ממשלה בריטי מכהן בהיסטוריה המודרנית. הוא הדגים שמערכת הצמ\"א יכולה להגיע עד לב המימסד הפוליטי הבריטי, לא רק לצפון אירלנד, ועיצב מחדש את הסדרי הביטחון של פוליטיקאים בריטים לשנים רבות אחר כך. תאצ'ר התעקשה, באופן שנודע לשם דבר, שהכנס יימשך כמתוכנן בבוקר שלמחרת - רגע שנחרט בזיכרון הציבורי כהפגנת איתנות שעיצבה את תדמיתה הציבורית. הפיגוע מוזכר לעיתים קרובות בדיונים על עד כמה אלימות פוליטית התקרבה לשינוי הנהגתה של דמוקרטיה מערבית גדולה בכוח ולא בקלפי."
+      },
+      "tags": [
+        "history",
+        "terrorism",
+        "uk-politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1984: The Provisional Irish Republican Army detonated a bomb at the Grand Hotel in Brighton, England, in a failed attempt to assassinate British prime minister Margaret Thatcher and her cabinet.",
+          "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+        }
+      ]
+    }
+  ]
+}

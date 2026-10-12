@@ -1,0 +1,76 @@
+{
+  "section": "business",
+  "date": "2026-10-12",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-12T04:25:48+00:00",
+  "stories": [
+    {
+      "id": "ai-profitability-bcg-study",
+      "kind": "analysis",
+      "en": {
+        "headline": "Only 6% of Companies Are Actually Profiting From AI, a New Study Finds — and the Winners Didn't Cut Staff",
+        "scroll": "A BCG study of over 600 companies found that only 6% have successfully turned AI into bottom-line profit — and the ones that did grew sales and headcount instead of cutting jobs.",
+        "coffee": "Boston Consulting Group studied more than 600 publicly traded companies to see which of them actually translated AI investment into profit, not just talk about it on earnings calls. The finding: just 6% have managed it. The rest are spending on AI, discussing it constantly, but it isn't showing up where it matters most — the bottom line.\n\nWhat's striking is how the successful 6% got there. The consensus strategy for capturing AI's upside has been to use it to cut costs, chiefly through layoffs. BCG found that the companies that actually profited did close to the opposite: they prioritized growing sales and expanding headcount over waves of job cuts. Or Klir, a BCG partner, put it simply: \"The tools have become a commodity — the advantage is in the people.\"\n\nThat's a sharper way of making an old point: when every competitor has access to the same AI tools, the tools themselves stop being a source of advantage, because anyone can buy them. What's left to differentiate a company is how well its people use those tools — judgment, process, and execution that a model alone can't replicate. Companies that fired people to \"capture AI savings\" may have cut the very asset that would have let them turn AI into a durable edge.",
+        "deep": "## The study\n\nBCG examined more than 600 companies on Wall Street to see which ones had actually converted AI spending into measurable profit, as opposed to simply announcing AI initiatives or citing AI in investor presentations. Only 6% showed a real, attributable improvement to their bottom line. The other 94% are, in BCG's framing, talking about AI in a way that doesn't match their balance sheets: lots of discussion, modest demonstrable return.\n\n## Why the gap is so wide\n\nThis kind of gap between enthusiasm and results is a familiar pattern with new technologies, but AI's version of it has a specific cause worth naming: a difference between adopting a tool and redesigning a business around it. Buying access to a large language model, or wiring one into a customer-service chatbot, is cheap and fast. Rebuilding workflows, retraining staff, and changing how decisions get made so the tool's output actually changes outcomes is slow, expensive, and organizationally hard — and most companies, it turns out, did the first thing and stopped.\n\n## What the winners did differently\n\nThe more interesting finding is in how the profitable 6% behaved. The default assumption going into this AI cycle was that the payoff would come primarily from cost-cutting: AI does the work, headcount shrinks, margins improve. BCG's data shows the opposite pattern among the actual winners — they leaned into growing revenue and expanding their workforce rather than reducing it. That's a meaningful reversal of the \"AI replaces workers\" narrative that has dominated boardroom discussion over the past few years.\n\n## The concept behind it: commoditization\n\nOr Klir's explanation for this is a textbook case of commoditization — the process by which a product or technology that was once a source of competitive advantage becomes so widely available, standardized, and interchangeable that simply having it no longer differentiates anyone. When a technology is new and scarce, owning it is itself an edge. As it spreads — as every competitor gets access to broadly the same models, the same APIs, the same off-the-shelf AI tools — that edge erodes. Everyone has the hammer; the advantage shifts to who swings it best.\n\nThat's Klir's point in \"the tools have become a commodity — the advantage is in the people.\" If every company in an industry can buy the same AI capability, the company that wins isn't the one with the fanciest model. It's the one whose people know how to deploy it: which workflows to redesign, which judgment calls still need a human, how to turn AI output into something a customer actually values more. That knowledge is much harder to commoditize than the underlying technology.\n\n## Why layoffs can backfire here\n\nThis reframes the layoffs many companies pursued in the name of \"AI efficiency.\" If the actual source of advantage is how skilled people use the tools — not the tools themselves — then cutting the people who'd otherwise have learned to use AI well may be cutting the asset that would have produced the payoff. BCG's data suggests many companies optimized for the wrong line item: they treated headcount as the cost to cut, when the real differentiator was what headcount, used well alongside AI, could produce on the revenue side.\n\n## What to watch next\n\nTwo things will tell you whether this pattern holds. First, whether more companies shift strategy toward growth-oriented AI deployment — expanding what employees can do rather than how few of them are needed — as the 6% figure becomes better known and boards start asking why their own AI spending isn't showing up in profit. Second, whether the commoditization dynamic deepens further: as AI tools become even cheaper and more standardized, will the gap between the 6% and everyone else widen, because execution matters more, or narrow, because the tools themselves get good enough that even weak execution produces results? BCG's own framing suggests the former is more likely — which would make \"how well your people use AI\" one of the more durable forms of competitive advantage left in a world where almost anyone can access the technology itself."
+      },
+      "he": {
+        "headline": "מחקר: רק 6% מהחברות מצליחות באמת להרוויח מ-AI - והמנצחות לא פיטרו עובדים",
+        "scroll": "מחקר של BCG שבדק יותר מ-600 חברות מצא שרק 6% מהן הצליחו לתרגם השקעה בבינה מלאכותית לרווח ממשי - והחברות שהצליחו דווקא הגדילו מכירות וכוח אדם, במקום לפטר.",
+        "coffee": "חברת הייעוץ BCG בחנה יותר מ-600 חברות הנסחרות בבורסה כדי לבדוק אילו מהן תרגמו בפועל השקעה בבינה מלאכותית לרווח, ולא רק דיברו עליה בשיחות הדוחות הרבעוניים. התוצאה: רק 6% מהחברות הצליחו בכך. השאר משקיעות ב-AI ומדברות עליה בלי הפסקה, אבל זה לא מתבטא במקום שהכי חשוב - שורת הרווח.\n\nמה שמפתיע הוא איך ה-6% המצליחים הגיעו לשם. האסטרטגיה המקובלת למיצוי הפוטנציאל של AI הייתה להשתמש בה כדי לקצץ בעלויות, בעיקר באמצעות פיטורים. BCG מצאה שהחברות שבאמת הרוויחו עשו בדיוק את ההפך: הן העדיפו להגדיל מכירות ולהרחיב את כוח האדם על פני גלי פיטורים. אור קליר, שותף ב-BCG, ניסח את זה בפשטות: \"הכלים הפכו לקומודיטי (commodity - מצרך סטנדרטי), היתרון הוא באנשים\".\n\nזו דרך חדה יותר לנסח נקודה ישנה: כשלכל מתחרה יש גישה לאותם כלי AI, הכלים עצמם מפסיקים להיות מקור יתרון, כי כל אחד יכול לרכוש אותם. מה שנשאר כדי להבדיל חברה אחת מהשנייה הוא עד כמה טוב האנשים שלה משתמשים בכלים האלה - שיקול דעת, תהליך וביצוע שמודל לבדו לא יכול לשכפל. חברות שפיטרו עובדים כדי \"לממש חיסכון מ-AI\" עלולות להיות בדיוק אלו שקיצצו את הנכס שהיה יכול להפוך את ה-AI ליתרון בר-קיימא.",
+        "deep": "## המחקר\n\nBCG בחנה יותר מ-600 חברות בוול סטריט כדי לבדוק אילו מהן תרגמו בפועל השקעה ב-AI לרווח מדיד, בניגוד לחברות שרק מכריזות על יוזמות AI או מזכירות אותה במצגות למשקיעים. רק 6% הציגו שיפור אמיתי וניתן לייחוס בשורת הרווח. 94% הנותרות, לפי המסגור של BCG, מדברות על AI באופן שלא מתאים למאזנים שלהן: הרבה שיח, תשואה מוכחת מועטה.\n\n## למה הפער כך גדול\n\nפער מהסוג הזה בין התלהבות לתוצאות הוא תבנית מוכרת בטכנולוגיות חדשות, אבל לגרסה שלו ב-AI יש סיבה ספציפית שכדאי לנקוב בה: ההבדל בין אימוץ כלי לבין בנייה מחדש של העסק סביבו. לרכוש גישה למודל שפה גדול, או לחבר אותו לצ'אטבוט שירות לקוחות, זה מהיר וזול. לבנות מחדש תהליכי עבודה, להכשיר עובדים ולשנות את האופן שבו מתקבלות החלטות כך שהתפוקה של הכלי באמת משנה תוצאות - זה איטי, יקר ומורכב ארגונית. ונראה שרוב החברות עשו את הדבר הראשון ונעצרו.\n\n## מה המנצחות עשו אחרת\n\nהממצא המעניין יותר הוא איך התנהגו ה-6% הרווחיות. ההנחה שרווחה בכניסה למחזור ה-AI הזה הייתה שהתמורה תגיע בעיקר מקיצוץ עלויות: ה-AI עושה את העבודה, כוח האדם מצטמק, השורה התחתונה משתפרת. הנתונים של BCG מראים תבנית הפוכה בקרב המנצחות בפועל - הן נשענו על הגדלת הכנסות והרחבת כוח האדם במקום לקצץ בו. זה היפוך משמעותי של נרטיב \"ה-AI מחליף עובדים\" שהשתלט על שיחות הדירקטוריון בשנים האחרונות.\n\n## הקונספט שמאחורי זה: קומודיטיזציה\n\nההסבר של אור קליר הוא מקרה קלאסי של קומודיטיזציה (commoditization) - התהליך שבו מוצר או טכנולוגיה שהיו פעם מקור ליתרון תחרותי הופכים נפוצים, סטנדרטיים וניתנים להחלפה עד שעצם הבעלות עליהם כבר לא מבדילה אף אחד. כשטכנולוגיה חדשה ונדירה, הבעלות עליה היא יתרון בפני עצמה. ככל שהיא מתפשטת - כשכל מתחרה מקבל גישה לאותם מודלים, אותם ממשקי API, אותם כלי AI מוכנים מהמדף - היתרון הזה נשחק. לכולם יש את הפטיש; היתרון עובר למי שמטיח אותו הכי טוב.\n\nזו הנקודה של קליר כשהוא אומר ש\"הכלים הפכו לקומודיטי, היתרון הוא באנשים\". אם כל חברה בתעשייה יכולה לרכוש את אותה יכולת AI, החברה שמנצחת אינה זו עם המודל המרשים ביותר. היא זו שהאנשים בה יודעים איך לפרוס אותו: אילו תהליכי עבודה לבנות מחדש, אילו החלטות עדיין דורשות שיקול דעת אנושי, איך להפוך תפוקת AI למשהו שלקוח באמת מעריך יותר. את הידע הזה הרבה יותר קשה להפוך למצרך מאשר את הטכנולוגיה שמתחתיו.\n\n## למה פיטורים יכולים להתברר כטעות\n\nזה ממסגר מחדש את גלי הפיטורים שחברות רבות ביצעו בשם \"יעילות AI\". אם מקור היתרון האמיתי הוא עד כמה אנשים מוכשרים משתמשים בכלים - ולא הכלים עצמם - אז קיצוץ העובדים שהיו לומדים להשתמש ב-AI היטב עלול להיות בדיוק קיצוץ הנכס שהיה מניב את התמורה. הנתונים של BCG מרמזים שחברות רבות אופטימיזו את שורת העלות הלא נכונה: הן התייחסו לכוח האדם כעלות לקיצוץ, בזמן שההבדל האמיתי היה מה שכוח אדם, מופעל היטב לצד AI, יכול להניב בצד ההכנסות.\n\n## מה לעקוב אחריו\n\nשני דברים יגידו אם התבנית הזו נשארת. ראשית, האם חברות נוספות יעברו לאסטרטגיית AI מוכוונת-צמיחה - הרחבת מה שעובדים יכולים לעשות, במקום כמה מהם דרושים - ככל שהנתון של 6% יהיה מוכר יותר ודירקטוריונים יתחילו לשאול למה ההשקעה שלהם ב-AI לא מתבטאת ברווח. שנית, האם דינמיקת הקומודיטיזציה תעמיק עוד: ככל שכלי AI יהיו זולים וסטנדרטיים עוד יותר, האם הפער בין ה-6% לכל השאר יתרחב, כי הביצוע חשוב יותר, או יצטמק, כי הכלים עצמם יהיו טובים מספיק כך שגם ביצוע חלש יניב תוצאות? המסגור של BCG עצמה מרמז שהאפשרות הראשונה סבירה יותר - מה שיהפוך את \"עד כמה האנשים שלך משתמשים ב-AI היטב\" לאחת מצורות היתרון התחרותי העמידות שנותרו בעולם שבו כמעט כל אחד יכול לגשת לטכנולוגיה עצמה."
+      },
+      "tags": [
+        "ai",
+        "productivity",
+        "commoditization",
+        "corporate-strategy"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "דיבורים לחוד ומאזנים לחוד: רק 6% מהחברות מצליחות באמת להרוויח מ–AI",
+          "url": "https://www.themarker.com/markets/2026-10-11/ty-article/.premium/000001a1-2a09-d90c-a7bd-ab0d22c10000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4061.71,
+      "prev_close": 4089.9399,
+      "change_pct": -0.69,
+      "as_of": "2026-10-09"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7811.54,
+      "prev_close": 7765.3599,
+      "change_pct": 0.59,
+      "as_of": "2026-10-09"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0629,
+      "prev_close": 3.0624,
+      "change_pct": 0.02,
+      "as_of": "2026-10-12"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 103.18,
+      "prev_close": 104.72,
+      "change_pct": -1.47,
+      "as_of": "2026-10-11"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 83532.0781,
+      "prev_close": 82912.2266,
+      "change_pct": 0.75,
+      "as_of": "2026-10-12"
+    }
+  }
+}
