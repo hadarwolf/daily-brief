@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-13",
+  "questions": [
+    {
+      "id": "quiz-houthi-riyadh",
+      "section": "geopolitics",
+      "story_id": "houthi-strikes-riyadh-airport",
+      "answer_index": 1,
+      "en": {
+        "question": "What raised the most serious questions about Saudi Arabia's air-defense capabilities this week?",
+        "options": [
+          "A surprise ballistic missile test by Iran near the Saudi border",
+          "Houthi strikes on Riyadh's airport that Saudi air defenses failed to intercept, killing 13 people",
+          "A cyberattack that disabled Saudi radar systems",
+          "A Houthi drone that was shot down over the Red Sea"
+        ],
+        "explanation": "Houthi strikes hit Riyadh's international airport and killed 13 people, and Saudi Arabia is now investigating why its air-defense systems failed to intercept the attack."
+      },
+      "he": {
+        "question": "מה העלה את השאלות הקשות ביותר על יכולות ההגנה האווירית של סעודיה השבוע?",
+        "options": [
+          "ניסוי טיל בליסטי איראני מפתיע סמוך לגבול הסעודי",
+          "תקיפות חות'ים על שדה התעופה של ריאד שמערכות ההגנה הסעודיות נכשלו ביירוטן, והרגו 13 בני אדם",
+          "מתקפת סייבר ששיתקה מערכות רדאר סעודיות",
+          "רחפן חות'י שיורט מעל הים האדום"
+        ],
+        "explanation": "תקיפות החות'ים פגעו בשדה התעופה הבינלאומי של ריאד והרגו 13 בני אדם, וסעודיה בודקת כעת מדוע ההגנה האווירית שלה נכשלה ביירוט."
+      }
+    },
+    {
+      "id": "quiz-chip-selloff",
+      "section": "business",
+      "story_id": "ai-chip-selloff-casino-warning",
+      "answer_index": 1,
+      "en": {
+        "question": "What triggered this week's global sell-off in semiconductor stocks?",
+        "options": [
+          "A surprise interest-rate hike by the US Federal Reserve",
+          "Broadcom's CEO comparing AI infrastructure spending to a \"casino,\" fueling fears of overinvestment",
+          "A new US export ban on all chip sales to Asia",
+          "Weak iPhone sales reported by Apple"
+        ],
+        "explanation": "Broadcom CEO Hock Tan's warning that AI infrastructure spending resembles a \"casino\" helped trigger a 7% rout in Korean chip stocks and a broader commodities selloff."
+      },
+      "he": {
+        "question": "מה חולל את מפולת מניות השבבים הגלובלית השבוע?",
+        "options": [
+          "העלאת ריבית מפתיעה של הפדרל ריזרב האמריקאי",
+          "השוואה של מנכ\"ל ברודקום בין ההשקעה בתשתיות AI ל\"קזינו\", שהזינה חששות מהשקעת יתר",
+          "איסור יצוא אמריקאי חדש על כל מכירות השבבים לאסיה",
+          "מכירות אייפון חלשות שדיווחה אפל"
+        ],
+        "explanation": "אזהרת מנכ\"ל ברודקום שהשקעת ה-AI מזכירה \"קזינו\" תרמה להפעלת נפילה של 7% במניות השבבים הקוריאניות ולמפולת סחורות רחבה יותר."
+      }
+    },
+    {
+      "id": "quiz-coalition-math",
+      "section": "israeli_politics",
+      "story_id": "post-election-coalition-math-unity-government",
+      "answer_index": 1,
+      "en": {
+        "question": "What does a new poll suggest about the bloc opposed to Netanyahu, despite combining for 67 seats?",
+        "options": [
+          "It would easily form a government with Haredi party support",
+          "It falls under 60 seats in practice because some of its parties refuse to sit with Arab parties",
+          "It has already agreed to join a unity government with Netanyahu",
+          "It is projected to win fewer than 50 seats overall"
+        ],
+        "explanation": "The bloc opposed to Netanyahu combines for 67 seats in the poll, but a boycott of Arab parties by some of its own members leaves it under 60 in practice."
+      },
+      "he": {
+        "question": "מה סקר חדש מראה על הגוש המתנגד לנתניהו, חרף 67 המנדטים המשותפים שלו?",
+        "options": [
+          "הוא יוכל להקים בקלות ממשלה בתמיכת המפלגות החרדיות",
+          "הוא נשאר בפועל מתחת ל-60 מנדטים כי חלק ממפלגותיו מסרבות לשבת עם המפלגות הערביות",
+          "הוא כבר הסכים להצטרף לממשלת אחדות עם נתניהו",
+          "הוא צפוי לקבל פחות מ-50 מנדטים בסך הכול"
+        ],
+        "explanation": "סקר חדשות 12 מראה שהגוש מקבל יחד 67 מנדטים, אבל חרם חלק מהמפלגות בו על המפלגות הערביות משאיר אותו בפועל עם פחות מ-60."
+      }
+    }
+  ]
+}

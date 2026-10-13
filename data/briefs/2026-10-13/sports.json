@@ -1,0 +1,202 @@
+{
+  "section": "sports",
+  "date": "2026-10-13",
+  "title_en": "Sports",
+  "title_he": "ספורט",
+  "default_lang": "en",
+  "generated_at": "2026-10-13T04:23:34+00:00",
+  "stories": [
+    {
+      "id": "champions-league-tuesday-arsenal-barca",
+      "kind": "news",
+      "en": {
+        "headline": "Arsenal and Barça Face Contrasting Champions League Tests Tonight",
+        "scroll": "Arsenal host Lille and Barça travel to Galatasaray in the Champions League tonight, with both clubs top of their domestic form but Arsenal facing fresh injury concerns.",
+        "coffee": "Arsenal are second in the Premier League with 15 points from six games, five behind leaders Manchester City (18 points), after beating Leeds United 2-1 last weekend. They host Lille in the Champions League tonight, a game they'll be expected to win at home — but manager Mikel Arteta said it was \"far from ideal\" that Piero Hincapié and Martín Zubimendi were injured in a post-match training session, clouding his team selection.\n\nBarcelona lead La Liga by a wide margin — 24 points from eight games, six clear of second-placed Atlético Madrid, with a league-best +27 goal difference — on the back of a 3-0 win over Getafe. Their assignment tonight is tougher on paper: away at Galatasaray in Istanbul, one of European football's most intimidating atmospheres regardless of form.\n\nBoth return to league action next week — Arsenal away at Nottingham on October 18, Barça away at Real Betis on October 17 — which makes tonight less about table position than about continental credentials heading into the rest of the group stage.",
+        "deep": "## Arsenal: second place, and new fitness worries\n\nArsenal sit second in the Premier League table with 15 points from six games, five adrift of leaders Manchester City on 18, with a goal difference of +5. The result that got them there was a tight 2-1 win over Leeds United over the weekend — not dominant, but enough to keep pace near the top. Tonight's assignment is different in kind: Lille at home in the Champions League, a fixture Arsenal will be expected to win, but one complicated by fresh injury news. Manager Mikel Arteta said it was \"far from ideal\" that two first-team players, Piero Hincapié and Martín Zubimendi, were injured in a training session held the day after the Leeds win — the sort of incident that can disrupt a rotation plan more than an actual opponent does. Arsenal's near-term run continues with a trip to face Nottingham in the Premier League on October 18, a fixture that, on paper, should be winnable and would help keep the pressure on City.\n\n## Barcelona: dominant at home, tested on the road\n\nBarcelona's season so far is the standout story in La Liga. Twenty-four points from eight games, six points clear of Atlético Madrid in second, and a goal difference of +27 that dwarfs the rest of the table — the product of, among other results, a 3-0 win over Getafe last time out. Tonight's Champions League trip is a different proposition entirely: away at Galatasaray in Istanbul, a fixture few visiting teams enjoy regardless of form, where crowd noise and intensity have unsettled bigger and stronger sides before. Barcelona's domestic numbers say little about how they'll cope with that atmosphere. After tonight, they return to league action away at Real Betis on October 17 — a reminder that, dominant as they've been at home, the trickier tests of their season both come away from Camp Nou.\n\n## What to watch next\n\nBoth results tonight matter less for table position — neither club's Champions League group-stage fate rests entirely on one result — and more as an early read on how each side travels. Arsenal's test is about squad depth: can they beat a team they're expected to beat while missing, or managing around, two first-team players? Barcelona's test is about composure: can last season's most clinical domestic side handle a famously hostile away ground? The answers will carry into next week's league fixtures — Arsenal at Nottingham, Barcelona at Real Betis — where both sides will want statements of their own kind: Arsenal closing the gap to Manchester City, Barcelona extending a lead that already looks comfortable."
+      },
+      "he": {
+        "headline": "ערב שונה לארסנל ולברצלונה בליגת האלופות",
+        "scroll": "ארסנל מארחת את ליל וברצלונה נוסעת לגלטסראיי בליגת האלופות הערב, שתיהן בראש הליגות המקומיות שלהן, אך ארסנל מגיעה עם דאגות פציעות טריות.",
+        "coffee": "ארסנל מדורגת שנייה בפרמייר ליג עם 15 נקודות משישה משחקים, חמש נקודות מאחורי מנצ'סטר סיטי המוביל (18 נקודות), אחרי ניצחון 2-1 על לידס יונייטד בסוף השבוע. הערב היא מארחת את ליל הצרפתית בליגת האלופות - משחק שבו היא תהיה המועדפת הברורה - אך המאמן מיקל ארטטה אמר שזה \"הכי פחות אידיאלי\" שפיירו הינקפייה ומרטין זוביממנדי נפצעו באימון שנערך יום אחרי המשחק הקודם, מה שמקשה על בחירת ההרכב.\n\nברצלונה מובילה בלה ליגה בפער גדול - 24 נקודות משמונה משחקים, שש נקודות לפני אתלטיקו מדריד במקום השני, עם הפרש השערים הטוב בליגה (+27) - בעקבות ניצחון 3-0 על חטאפה. המשימה הערב קשה יותר על הנייר: חוץ, מול גלטסראיי באיסטנבול, אחד המקומות העוינים ביותר בכדורגל האירופי, בלי קשר לצורת המארחת.\n\nשתי הקבוצות חוזרות לפעילות הליגה בשבוע הבא - ארסנל חוץ מול נוטינגהאם ב-18 באוקטובר, וברצלונה חוץ מול בטיס ב-17 באוקטובר - כך שהערב, התוצאות בליגת האלופות נוגעות יותר למוניטין האירופי מאשר למיקום בטבלה המקומית.",
+        "deep": "## ארסנל: מקום שני, עם דאגות פציעה טריות\n\nארסנל מדורגת שנייה בפרמייר ליג עם 15 נקודות משישה משחקים, חמש נקודות מאחורי מנצ'סטר סיטי המוביל (18 נקודות), עם הפרש שערים של +5. התוצאה שהביאה אותה לשם הייתה ניצחון צמוד 2-1 על לידס יונייטד בסוף השבוע - לא דומינטי, אבל מספיק כדי להישאר בקצב הרודפות אחרי הפסגה. המשימה הערב שונה באופייה: ליל בבית, בליגת האלופות - משחק שבו ארסנל תהיה המועדפת הברורה, אך הוא מסתבך בעקבות חדשות פציעות טריות. המאמן מיקל ארטטה אמר שזה \"הכי פחות אידיאלי\" ששני שחקנים מההרכב הראשון, פיירו הינקפייה ומרטין זוביממנדי, נפצעו באימון שנערך יום אחרי הניצחון על לידס - מהסוג של תקרית שיכולה לשבש תכנון סבב שחקנים יותר מכל יריב בפועל. בהמשך השבוע מצפה לארסנל נסיעה לנוטינגהאם בפרמייר ליג ב-18 באוקטובר, משחק שעל הנייר אמור להיות נגיש ושיכול לעזור לה לשמור על הלחץ על סיטי.\n\n## ברצלונה: דומיננטית בבית, במבחן בחוץ\n\nהעונה של ברצלונה עד כה היא הסיפור הבולט בלה ליגה. 24 נקודות משמונה משחקים, שש נקודות לפני אתלטיקו מדריד במקום השני, והפרש שערים של +27 שמשאיר מרחק גדול משאר הטבלה - תוצר, בין היתר, של ניצחון 3-0 על חטאפה במחזור האחרון. הנסיעה הערב לליגת האלופות היא עניין אחר לגמרי: חוץ, מול גלטסראיי באיסטנבול, איצטדיון שמעט קבוצות אורחות נהנות ממנו בלי קשר לצורתן, שם רעש הקהל והעוצמה שיברו קבוצות גדולות וחזקות יותר בעבר. הנתונים המקומיים של ברצלונה לא אומרים הרבה על איך היא תתמודד עם האווירה הזו. אחרי הערב, היא חוזרת לפעילות הליגה בנסיעה לבטיס ב-17 באוקטובר - תזכורת לכך שלמרות הדומיננטיות בבית, המבחנים המורכבים יותר של העונה שלה מגיעים מחוץ לקאמפ נואו.\n\n## למה לשים לב בהמשך\n\nשתי התוצאות הערב פחות משמעותיות למיקום בטבלה - עתיד שתי הקבוצות בשלב הבתים בליגת האלופות לא נשען על משחק אחד - ויותר כמדד מוקדם לאיך כל קבוצה מתפקדת כשהיא בדרכים. המבחן של ארסנל הוא מבחן עומק הסגל: האם היא תוכל לנצח קבוצה שהיא אמורה לנצח, בזמן שהיא מתמודדת עם היעדרות - או תכנון מסביב להיעדרות - של שני שחקנים מההרכב הראשון? המבחן של ברצלונה הוא מבחן קור רוח: האם הקבוצה הביתית הקרה ביותר בעונה האחרונה תדע להתמודד עם מגרש חוץ עוין ומוכר לשמצה? התשובות ילוו למשחקי הליגה בשבוע הבא - ארסנל בנוטינגהאם, ברצלונה בבטיס - שם שתי הקבוצות ירצו הצהרות משלהן: ארסנל מקטינה את הפער ממנצ'סטר סיטי, ברצלונה מרחיבה יתרון שנראה כבר נוח."
+      },
+      "tags": [
+        "arsenal",
+        "barcelona",
+        "champions-league",
+        "premier-league"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Hincapie and Zubimendi injured in post-match training session",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "avdija-ready-for-blazers-opener",
+      "kind": "news",
+      "en": {
+        "headline": "Deni Avdija Heads Into the NBA Season Looking Sharp — and Still Wary of Draymond Green",
+        "scroll": "Deni Avdija looks ready for opening night after a strong preseason win, and he's been candid about both the impossible task of guarding Nikola Jokić and a lingering grudge with Draymond Green.",
+        "coffee": "Deni Avdija looks ready for the Portland Trail Blazers' season opener after a preseason win, continuing the trajectory that has made him one of the league's more notable improvement stories. He credits head coach Chauncey Billups directly with helping turn his career around.\n\nAvdija has also been candid in interviews about the near-impossible task of guarding reigning MVP-caliber center Nikola Jokić — \"What the hell am I supposed to do?\" he said of trying to contain him — and about an old on-court altercation with Draymond Green that still has him on guard: he's previously said he was braced for \"that elbow or punch\" as payback, a worry Green himself has kept alive by telling Avdija, two years later, that he's \"still gonna get\" him.",
+        "deep": "## A player on the rise\n\nDeni Avdija enters this NBA season with momentum. After a preseason win, reporting out of Portland described him as looking ready for opening night — a continuation of a growth arc that has made him one of the more notable success stories among NBA forwards in recent seasons. Avdija has pointed to head coach Chauncey Billups as a key figure in that turnaround, crediting him directly for helping reshape his career.\n\n## Learning to guard the unguardable\n\nPart of that growth shows up in how candidly Avdija now talks about the game's hardest matchups. Asked about trying to defend Nikola Jokić — the Denver Nuggets center and perennial MVP contender — Avdija didn't pretend it was a solvable problem: \"What the hell am I supposed to do?\" he said, describing the near-impossibility of containing a player who combines size, touch, and playmaking in a way almost no other center in the league does. It's a small moment, but a telling one: a player confident enough in his own game to be honest about its limits against a generational talent.\n\n## The Green rivalry, still simmering\n\nThe more personal storyline around Avdija this preseason involves Draymond Green, with whom he had a hard-foul altercation two years ago. Avdija has said he spent time afterward bracing for retaliation — \"waiting for that elbow or punch\" — and Green has kept the issue alive rather than letting it fade, telling Avdija he's \"still gonna get\" him. The exchange has played out partly in public, including on Green's own podcast, where the two have traded lines about the incident with enough humor to suggest it's more rivalry theater than real hostility — but Avdija's own comments suggest he isn't entirely sure.\n\n## What to watch\n\nThe season opener will be the first real test of where Avdija's game stands after an encouraging preseason. Whether the Jokić matchup comes up again this season is likely — Portland and Denver share a division — and whether the Green storyline resurfaces on the court, rather than just in interviews, is one of the small subplots worth tracking as the Blazers open their year."
+      },
+      "he": {
+        "headline": "דני אבדיה נכנס לעונה החדשה במומנטום - ועדיין בכוננות מפני דרימונד גרין",
+        "scroll": "דני אבדיה נראה מוכן לעונה החדשה אחרי ניצחון מרשים בטרום-עונה, ודיבר בגילוי לב גם על המשימה הבלתי אפשרית להגן על ניקולה יוקיץ' וגם על יריבות ישנה עם דרימונד גרין שעדיין לא נשכחה.",
+        "coffee": "דני אבדיה נראה מוכן למשחק הפתיחה של פורטלנד טרייל בלייזרס אחרי ניצחון בטרום-עונה, המשך למגמת השיפור שהפכה אותו לאחד מסיפורי ההצלחה הבולטים בין הקאנפים בליגה בעונות האחרונות. אבדיה מייחס לצ'אונסי בילאפס, המאמן הראשי של בלייזרס, תפקיד מרכזי בשינוי הזה, ומודה לו באופן ישיר על שעזר לו להפוך את הקריירה שלו.\n\nאבדיה גם דיבר בגילוי לב על הקושי להגן על ניקולה יוקיץ', חלוץ הנבחרת הטבעי ל-MVP של דנוור נאגטס - \"מה לעזאזל אני צריך לעשות?\" אמר על הניסיון לבלום אותו - ועל תקרית ישנה על המגרש עם דרימונד גרין שממשיכה להטריד אותו: בעבר הוא אמר שהיה בכוננות ל\"מכת מרפק או מכת אגרוף\" כנקמה, חשש שגרין עצמו ממשיך להזין כשהוא אומר לאבדיה, שנתיים אחר כך, שהוא \"עדיין יתפוס אותו\".",
+        "deep": "## שחקן במומנטום\n\nדני אבדיה נכנס לעונת ה-NBA הזו עם מומנטום. אחרי ניצחון בטרום-עונה, דיווחים מפורטלנד תיארו אותו כמוכן למשחק הפתיחה - המשך למגמת צמיחה שהפכה אותו לאחד מסיפורי ההצלחה הבולטים בין הקאנפים בליגה בעונות האחרונות. אבדיה ציין את המאמן הראשי צ'אונסי בילאפס כגורם מרכזי בשינוי הזה, והודה לו באופן ישיר על שעזר לעצב מחדש את הקריירה שלו.\n\n## ללמוד להגן על מי שאי אפשר להגן עליו\n\nחלק מהצמיחה הזו ניכר באופן שבו אבדיה מדבר כעת בפתיחות על ההתמודדויות הקשות ביותר במשחק. כשנשאל על הניסיון להגן על ניקולה יוקיץ' - החלוץ של דנוור נאגטס ומתמודד קבוע ל-MVP - אבדיה לא העמיד פנים שזו בעיה פתורה: \"מה לעזאזל אני צריך לעשות?\" אמר, בתארו את חוסר האפשרות הקרוב לבלום שחקן שמשלב גודל, עדינות וראיית משחק בדרך שאף מרכז אחר בליגה לא עושה. זהו רגע קטן, אך מגלה: שחקן שבטוח מספיק במשחק שלו כדי להיות כן בנוגע למגבלותיו מול כישרון שמופיע פעם בדור.\n\n## היריבות עם גרין, עדיין רותחת\n\nהעלילה האישית יותר סביב אבדיה בטרום-עונה הזו נוגעת לדרימונד גרין, שאיתו היה לו עימות על פאול קשה לפני שנתיים. אבדיה סיפר שבעקבות זאת היה בכוננות לנקמה - \"ממתין למכת מרפק או אגרוף\" - וגרין ממשיך להזין את הנושא במקום לתת לו לדעוך, ואמר לאבדיה שהוא \"עדיין יתפוס אותו\". ההתכתבות הזו מתקיימת בחלקה בפומבי, כולל בפודקאסט של גרין עצמו, שבו שני השחקנים החליפו הערות על התקרית בהומור שמרמז על תיאטרון יריבות יותר משנאה ממשית - אך דברי אבדיה עצמו מרמזים שהוא לא בטוח בכך לחלוטין.\n\n## למה לשים לב בהמשך\n\nמשחק הפתיחה יהיה המבחן האמיתי הראשון למצב משחקו של אבדיה אחרי טרום-עונה מעודדת. סביר שההתמודדות מול יוקיץ' תחזור גם במהלך העונה - פורטלנד ודנוור חולקות דיוויזיה - והאם העלילה עם גרין תחזור למגרש ולא רק לראיונות, זו אחת מתת-העלילות הקטנות שכדאי לעקוב אחריהן כשבלייזרס פותחים את העונה."
+      },
+      "tags": [
+        "nba",
+        "deni-avdija",
+        "trail-blazers",
+        "draymond-green"
+      ],
+      "sources": [
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Deni Avdija looks ready for opening night after preseason win - OregonLive.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVpPNjd6TnQ3T1hGcUFGNGk2Snd3SHA4aUlBbEhvRVZ3b1lrcEJWSXZlTGpEeDRIY2pGS3hHVWpOaS1adUx3bmVvb1RJZGc0T2V4eVpjNEduN2hVU3FDVnVZdlJnUTNHQlRkTmwwVWZxSEowZTVVWVZjMnNCcmxrNnlfQ0tmRV9qRk1nZ08yZjRYNzFQZ056T3lkd3FDMG93WDMtU1g0b1dVR0paRTBjNWpFUzhKdndFZldTVlRCZE1peDFBS1BPSA?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Deni Avdija on guarding Nikola Jokic: “What the hell am I supposed to do?” - Eurohoops",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHF5VV96cno4WWdUbmo4NFQ5VWJzTjV4dGpTZjQzWlNMSmNhS0tPSUlMdEM2by1QNWhGYVlyRVRrWmo1aHB6WkNYN01yVEUtNUdNaFVBR0ZHa3NWVUp0a1lOLU9sZHU0ZWhhYUp1ZzRDRHFMdnpTTnZmWWJISjNtcWJWd1lyR3VpNi1UTDl2cVhqOGdPdnBoQTFtYlhLOGxNMTRnSlFvbDFWYlMzalBuMHVpYWU5eko5?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Deni Avdija credits Chauncey Billups for helping turn his career around - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2g4Tk1Wb2ctWkxqRVlzbFF5Y0tfaWxUeXJ1Z25jNVJjOFQ3czB1cDJORVY3SjF1aVdrbGxzMWg0UDJHMlJaY0FGOE9uSkFnVlBEa1c5SlpFUlEyVVhmOTlzYXVpUjNrdW0wRFNUbUdPWllYeWQ1NmxiV0xLZHlPdUR1bFh4WE56ckt6THJB?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "“Still Gonna Get You”: Draymond Green Sends Clear Message to Deni Avdija Over 2-Year-Old On-Court Altercation - EssentiallySports",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQenFQWUlFcWRNQWZzbnNqUlJ4ZHBpRHJtci1FNXhyNnpHcHpJb3NmXzJuN3lCSXhkXzBxWXQwLVJDZGRvYlFaWkI2LXE2dHYxdE9zN0xkb21zUEdVSllBV3NxM2l4YnhldkQ5T0syS3pjcXgzeEM2TjgtVnBudW9SRTZpZnpMS0ozQXdJeUU3Tkxtam9ISHZybjhjQmJPUmRhRjVtTTlLdHhfQ2VoYjVxQmVmaU9pX2praFFpX2JwNm9RQ01tU1Y3UFpJa1ZGOTgybkcwV29LcFhhajYtMW95ZkhHQmt2Yl9JRjVrMWJwTjltcWE2S2RndUJmcjZuUFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "coventry-ends-25-year-home-win-wait",
+      "kind": "news",
+      "en": {
+        "headline": "Coventry End a 25-Year Wait for a Top-Flight Home Win",
+        "scroll": "Coventry City thrashed Newcastle United 4-1, their first Premier League home win in 25 years, climbing out of the relegation zone as manager Frank Lampard urged calm.",
+        "coffee": "Coventry City beat Newcastle United 4-1 at home, ending a 25-year wait for a top-flight goal and win in front of their own fans, and climbing out of the relegation zone. For a club that spent most of the intervening quarter-century outside the top flight entirely, a home win of this kind in the Premier League itself is a landmark moment, not just a good result.\n\nManager Frank Lampard struck a cautious tone afterward, saying he's keeping his \"feet on the ground\" following the win — the instinct of a manager who knows one result, however emphatic, doesn't settle a relegation fight that is only a few months old.",
+        "deep": "## From the Championship wilderness to the Premier League\n\nCoventry City's win over Newcastle carries more weight than a 4-1 scoreline suggests. The club had gone 25 years without scoring a top-flight goal or winning a top-flight match in front of their own fans — not because they kept losing at home while staying in the Premier League, but because for most of that quarter-century they weren't in the competition at all, cycling through the Championship and lower divisions before only recently returning to the top flight. That context is what turns an ordinary home win into a landmark one: it's the first time in a generation that Coventry supporters have seen their team win a top-flight match at their own ground.\n\n## The result itself\n\nBeating Newcastle 4-1 is not a scrape against a fellow strider — Newcastle are an established Premier League side with recent European ambitions. A four-goal haul at home against that kind of opposition does double duty: it lifts Coventry out of the relegation zone in the table, and it serves as proof of concept that the club's return to the top flight isn't just survival by inertia.\n\n## Lampard's caution\n\nManager Frank Lampard struck a deliberately measured tone afterward, saying he's keeping his \"feet on the ground\" despite the result. That's a sensible instinct: a single emphatic home win, however historic in its own right, doesn't resolve a relegation fight that will be decided over 38 games, and newly promoted sides have a long history of one good week followed by a reality check the next.\n\n## What to watch\n\nThe test now is whether Coventry can turn this result into a pattern rather than a one-off — a second home win would do far more to settle nerves than the history books can. Their position just above the relegation zone remains fragile, and how they respond to their next fixture will say more about their season than this scoreline alone."
+      },
+      "he": {
+        "headline": "קובנטרי שוברת צום של 25 שנה בניצחון ביתי במחלקה העילית",
+        "scroll": "קובנטרי סיטי הביסה 4-1 את ניוקאסל יונייטד, ניצחונה הראשון בבית בפרמייר ליג מזה 25 שנה, ועלתה מאזור ההדחה בעוד המאמן פרנק לאמפארד קורא לשקט.",
+        "coffee": "קובנטרי סיטי ניצחה 4-1 בבית את ניוקאסל יונייטד, וסיימה צום של 25 שנה בלי שער או ניצחון בית במחלקה העילית, ועלתה מאזור ההדחה. למועדף שבילה את רוב רבע המאה הזו מחוץ למחלקה העילית כלל, ניצחון ביתי מהסוג הזה בפרמייר ליג עצמו הוא רגע מכונן, לא רק תוצאה טובה.\n\nהמאמן פרנק לאמפארד נקט טון מחושב לאחר מכן, ואמר שהוא שומר על \"הרגליים על הקרקע\" בעקבות הניצחון - אינסטינקט של מאמן שמבין שתוצאה אחת, כמה שגם מכרעת, לא פותרת מאבק הישרדות שעדיין רק בתחילתו.",
+        "deep": "## מגלות הצ'מפיונשיפ לפרמייר ליג\n\nהניצחון של קובנטרי סיטי על ניוקאסל שקול ליותר מתוצאה של 4-1. המועדף לא רשם שער או ניצחון בבית במחלקה העילית כבר 25 שנה - לא בגלל שהוא המשיך להפסיד בבית בזמן שנשאר בפרמייר ליג, אלא כי לרוב רבע המאה הזו הוא כלל לא היה בתחרות, עבר בין הצ'מפיונשיפ לליגות נמוכות יותר לפני שחזר רק לאחרונה למחלקה העילית. ההקשר הזה הוא מה שמהפך ניצחון ביתי רגיל לניצחון היסטורי: זו הפעם הראשונה בדור שאוהדי קובנטרי ראו את הקבוצה שלהם מנצחת במגרש הבית במשחק פרמייר ליג.\n\n## התוצאה עצמה\n\nניצחון 4-1 על ניוקאסל אינו ניצחון מקרי על קבוצה דומה בגובהה - ניוקאסל היא קבוצת פרמייר ליג מבוססת עם שאיפות אירופיות מהשנים האחרונות. ארבעה שערים בבית מול יריבה כזו הוא תוצאה שעושה עבודה כפולה: היא מוציאה את קובנטרי מאזור ההדחה בטבלה, ומשמשת הוכחה לכך שהחזרה של המועדף למחלקה העילית אינה רק שרידות מקרית.\n\n## הזהירות של לאמפארד\n\nהמאמן פרנק לאמפארד נקט בטון מחושב במכוון אחרי המשחק, כשאמר ש\"הרגליים שלו על הקרקע\" למרות התוצאה. זו אינסטינקט נכון: ניצחון ביתי מכריע אחד, כמה שגם יהיה היסטורי כשלעצמו, לא פותר קרב הישרדות שיוכרע במהלך 38 מחזורים, ולקבוצות שעלו לאחרונה יש היסטוריה ארוכה של שבוע טוב אחד שאחריו מגיעה מציאות מאכזבת.\n\n## למה לשים לב בהמשך\n\nהמבחן כעת הוא אם קובנטרי תוכל להפוך את התוצאה הזו לדפוס ולא לאירוע חד-פעמי - ניצחון ביתי שני יעשה הרבה יותר להרגיע את העצבים מכל ספרי ההיסטוריה. מיקומה מעל אזור ההדחה נשאר שברירי, והתגובה שלה למשחק הבא תגיד יותר על העונה שלה מאשר התוצאה הזו לבדה."
+      },
+      "tags": [
+        "coventry-city",
+        "premier-league",
+        "frank-lampard"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Coventry announce themselves back in the big time",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Lampard keeping 'feet on ground' following big win over Newcastle",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Coventry thrash Newcastle to claim first home win of season",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "messi-inter-miami-rolls-past-dc-united",
+      "kind": "news",
+      "en": {
+        "headline": "Messi Scores Twice as Inter Miami Rout DC United, Days After Argentina Farewell",
+        "scroll": "Lionel Messi scored twice in Inter Miami's 4-0 win over DC United, his first match since an emotional farewell to the Argentina national team, as the club pushes for a playoff spot.",
+        "coffee": "Lionel Messi scored twice as Inter Miami demolished DC United 4-0, with Luis Suárez also featuring prominently enough that both players were named to MLS's Team of the Matchday. The win came just days after Messi's emotional farewell appearance with the Argentina national team, and he returned to club football making an immediate statement.\n\nThe result matters beyond the scoreline: Inter Miami have been fighting to secure their playoff positioning, and pundits had been questioning whether the club could move into the post-season reliably. A 4-0 win framed by MLS power-rankings coverage as Miami \"back to winning ways\" is exactly the kind of result that quiets those doubts, at least for a week. Miami's next test comes against NYCFC, a team fighting its own battle to stay in playoff contention.",
+        "deep": "## A statement win, right on schedule\n\nLionel Messi's return to club football after his Argentina farewell didn't take long to produce a highlight: two goals in a 4-0 demolition of DC United, with Luis Suárez contributing enough for both players to be named to MLS's Team of the Matchday. For a player whose international career has just closed a chapter, scoring twice in his next match is as clean a signal as there is that his focus is now fully on Inter Miami.\n\n## The post-Argentina chapter\n\nMessi's farewell to the Argentina national team was, by all accounts, an emotional occasion — and the natural question afterward was how quickly he'd refocus on his club commitments. The answer, on this evidence, is immediately. Reporting around the win framed it explicitly in those terms: a player who just said goodbye to one stage returning straight to form on another.\n\n## The playoff picture\n\nThe win matters tactically as much as emotionally. Inter Miami have faced real questions about their ability to close out the MLS season strongly enough to secure a playoff spot, with some coverage explicitly asking whether the club \"has problems moving into the post-season.\" A 4-0 win was covered by MLS power-rankings writers as Miami being \"back to winning ways\" — exactly the kind of result a team under that kind of scrutiny needs, even if one match doesn't resolve the underlying question.\n\n## What to watch\n\nInter Miami's next fixture is against New York City FC, a team fighting its own battle to stay in playoff contention — making it a genuine swing in the race rather than a routine midweek game. How Messi and Suárez follow up their matchday honors against a motivated opponent will say more about Miami's playoff chances than this result against a struggling DC United side."
+      },
+      "he": {
+        "headline": "מסי כובש פעמיים באינטר מיאמי במחץ על די.סי יונייטד, ימים אחרי פרידתו מארגנטינה",
+        "scroll": "ליונל מסי כבש פעמיים בניצחון 4-0 של אינטר מיאמי על די.סי יונייטד, במשחקו הראשון מאז פרידה רגשית מנבחרת ארגנטינה, בעוד המועדף נלחם על מקום בפלייאוף.",
+        "coffee": "ליונל מסי כבש פעמיים כשאינטר מיאמי מחצה את די.סי יונייטד 4-0, עם לואיס סוארס שתרם מספיק כדי ששניהם יזכו להיבחר לנבחרת המחזור של ה-MLS. הניצחון הגיע רק ימים אחרי הופעת הפרידה הרגשית של מסי עם נבחרת ארגנטינה, והוא חזר לכדורגל המועדפים עם הצהרה מיידית.\n\nהתוצאה משמעותית מעבר לתוצאה עצמה: אינטר מיאמי נלחמת כדי להבטיח את מיקומה בפלייאוף, ופרשנים תהו אם המועדף יכול לעבור לשלב הבתים בצורה עקבית. ניצחון 4-0 שתואר בסיקור דירוגי הכוח של ה-MLS כמיאמי ש\"חוזרת לדרך הניצחונות\" הוא בדיוק סוג התוצאה שמשתיק ספקות כאלה, לפחות לשבוע. המבחן הבא של מיאמי הוא מול ניו יורק סיטי FC, קבוצה שנלחמת במאבק שלה להישאר במרוץ לפלייאוף.",
+        "deep": "## ניצחון מרשים, בדיוק בזמן\n\nחזרתו של ליונל מסי למשחקי המועדפים אחרי הפרידה שלו מנבחרת ארגנטינה לא איחרה להניב רגע שיא: שני שערים בניצחון מוחץ 4-0 על די.סי יונייטד, עם לואיס סוארס שתרם מספיק כדי ששניהם ייבחרו לנבחרת המחזור של ה-MLS. לשחקן שסגר עכשיו פרק בקריירה הבינלאומית שלו, לכבוש פעמיים במשחק הבא שלו הוא סימן נקי כמו שיש לכך שהמיקוד שלו עובר כעת באופן מלא לאינטר מיאמי.\n\n## הפרק שאחרי ארגנטינה\n\nהפרידה של מסי מנבחרת ארגנטינה הייתה, לפי כל הסקירות, רגע רגשי - והשאלה הטבעית לאחר מכן הייתה כמה מהר הוא יתמקד מחדש במחויבויות המועדף שלו. התשובה, לפי העדויות, היא באופן מיידי. הסיקור סביב הניצחון ניסח את הדברים במפורש במונחים האלה: שחקן שרק נפרד מבמה אחת, חוזר ישר לכושר בבמה אחרת.\n\n## תמונת הפלייאוף\n\nהניצחון משמעותי טקטית לא פחות מרגשית. אינטר מיאמי התמודדו עם שאלות ממשיות על היכולת שלהם לסגור את עונת ה-MLS בצורה חזקה מספיק כדי להבטיח מקום בפלייאוף, עם סיקור שתהה באופן מפורש אם למועדף \"יש בעיות במעבר לפלייאוף\". ניצחון 4-0 כוסה על ידי כותבי דירוגי הכוח של ה-MLS כמיאמי ש\"חוזרת לדרך הניצחונות\" - בדיוק התוצאה שקבוצה תחת בדיקה כזו צריכה, גם אם משחק אחד לא פותר את השאלה העומדת ביסוד.\n\n## למה לשים לב בהמשך\n\nהמשחק הבא של אינטר מיאמי הוא מול ניו יורק סיטי FC, קבוצה שנלחמת במאבק שלה להישאר במרוץ לפלייאוף - מה שהופך אותו לתנודה אמיתית במרוץ ולא למשחק אמצע שבוע שגרתי. איך מסי וסוארס ימשיכו אחרי הבחירה שלהם לנבחרת המחזור מול יריבה עם מוטיבציה גבוהה תגיד יותר על סיכויי הפלייאוף של מיאמי מאשר התוצאה הזו מול די.סי יונייטד המתקשה."
+      },
+      "tags": [
+        "inter-miami",
+        "lionel-messi",
+        "mls"
+      ],
+      "sources": [
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Inter Miami player ratings: Luis Suarez and Lionel Messi star in 4-0 victory over DC United - OneFootball",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDJOTUI2VjhZWkg2VFFUOHFDQWlBVVdPaElUOFZxVExPcjc4aDd4OXFHdUpEeFlESWI0SVc4UVJWVVdzbXBhQWJhVXhsemxBcDRyUFNpLVp1NzF5MVFwcGlCMlRTOG5ZUjg1S3lFZUJTS2hvQmRqVWVPcERFaTVEczVFVU83em9rRk9BSjNBckxHWF9XNzR1RXJoTTdOV28zYmxaRkQ1WXctanR5cFB5QWdWWUwxVlpLdEpaaG4yQlp6WENnMVR6a3ZtUQ?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United - Daily FT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFZsbWJVMm1jQzJPeUsyU1dUV3JXWm14RnFMeVo1RFpYa1h5NTBRU3duaFZGSnNUU09WZnNycUxlQmNfRjVxdFpQOVo3MzNZZ0N2ZVhoY0N4T0tINk9YY0ptLUNja05BNmMycDY3LUxpMFlyM0dnT091M2FlVDg4ZGVmWm5YaVk2Z2tzNGxVUFRSdzg0MG9qaWRsSFMyN0JqUGJiTlJ5cDV0TGZxUlE?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Messi and Suárez in MLS Team of the Matchday after 4-0 D.C. United win - OneFootball",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmZ3Tk82eTVJSllnYXkySnVCU3g2WXJZdnc5d1F1emRjY0J5a29SZVNFay1nOWpBaE9rT1NfNE00MmZmMzBhdFFtV3JWNll0NE04bGo0UWpRd2lHYnR4T21WYlVDREpWeU9KX21VaEhwUXJUQmxkSWlRN2wwMkpRUklEUk5yNVBaejh4OVdjdkJ3cW40WkVueFowOVh1Vi1EMjcyRTk2bkRJbmxEdWc?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "MLS Power Rankings: Miami back to winning ways, as Nashville chase history - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVVwTk9kUWNIME0yRU83blJ1QXhvMFVId05PYjkyYl9Qdzl4dm5rd21UM3NBZnhMYXZETDQyWFFnSVdWcVprTVVoSmFnM24tRkZLczl2eWZzcEtnOThhaVZ2MGgzUExmUHNLaFZ6VWxNOUFvRU85STdvTjNkbmpscGJuOXF1S0twUG5JVW11NDQwWEdVUEVBNW1wNGdwVW01d0hOYWlfS25hMGp0SkVDbzNWT2V2aGJBazRWLWctbXU?oc=5"
+        }
+      ]
+    }
+  ],
+  "israeli_players": [
+    {
+      "name": "Deni Avdija",
+      "team": "Portland Trail Blazers",
+      "en": "Avdija looks ready for opening night after a strong preseason win, and has drawn attention for candid comments about guarding Nikola Jokić and his lingering rivalry with Draymond Green — see today's lead NBA story.",
+      "he": "אבדיה נראה מוכן למשחק הפתיחה אחרי ניצחון משכנע בטרום-עונה, ותפס תשומת לב בעקבות דברים כנים על ההתמודדות עם ניקולה יוקיץ' והיריבות המתמשכת עם דרימונד גרין - פירוט בכתבת ה-NBA של היום."
+    },
+    {
+      "name": "Ben Saraf",
+      "team": "Brooklyn Nets",
+      "en": "No fresh box score or official news on Saraf today — the only item in the feed is a highlights reel from a preseason game against the 76ers, so there's nothing concrete yet to report on his form.",
+      "he": "אין היום חדשות או סטטיסטיקות רשמיות על סראף - הפריט היחיד בפיד הוא סרטון היילייטס ממשחק טרום-עונה מול 76ers, כך שאין עדיין שום דבר קונקרטי לדווח על מצבו."
+    }
+  ],
+  "match_day": {
+    "is_match_day": true,
+    "events": [
+      {
+        "sport": "soccer",
+        "competition": "UEFA Champions League",
+        "home": "Galatasaray",
+        "away": "Barça",
+        "kickoff_utc": "2026-10-13T19:00:00Z"
+      },
+      {
+        "sport": "soccer",
+        "competition": "UEFA Champions League",
+        "home": "Arsenal",
+        "away": "Lille",
+        "kickoff_utc": "2026-10-13T19:00:00Z"
+      }
+    ]
+  }
+}

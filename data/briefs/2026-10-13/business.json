@@ -1,0 +1,96 @@
+{
+  "section": "business",
+  "date": "2026-10-13",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-13T04:23:34+00:00",
+  "stories": [
+    {
+      "id": "ai-chip-selloff-casino-warning",
+      "kind": "analysis",
+      "en": {
+        "headline": "Broadcom's 'Casino' Warning Triggers a Global Chip Selloff — and a Lesson in Capital Cycles",
+        "scroll": "A warning from Broadcom's CEO that AI infrastructure spending looks like a 'casino' triggered a 7% rout in Korean chip stocks and a broader commodities selloff, illustrating how capital cycles turn euphoric investment into abrupt repricing.",
+        "coffee": "A global slide in semiconductor stocks deepened after Broadcom chief executive Hock Tan warned that the scale of current AI infrastructure spending resembles a \"casino.\" The comment helped trigger a 7% rout in South Korea's chip-heavy stock benchmark, dragging down Samsung and SK Hynix, while European chip stocks traded mixed and Micron fell nearly 4% on fears of competition from China's CXMT. The selloff spilled beyond equities: copper and aluminum both dropped as investors grew warier of the demand outlook underpinning the AI buildout.\n\nThe episode is a clean illustration of what economists call the capital cycle: periods of high returns and optimism attract heavy investment, that investment eventually creates more supply (or more fear of oversupply) than demand can absorb, and prices and valuations reprice sharply once investors start questioning the returns on all that capital. AI infrastructure — chips, data centers, power — has drawn capital at a pace few other sectors have matched in recent memory, which is exactly why a single skeptical comment from an industry insider could move markets this much: it crystallized a doubt that had been building about how much of that spending will actually pay off.",
+        "deep": "## What happened\n\nA warning from Broadcom chief executive Hock Tan — reportedly comparing the scale of current AI infrastructure spending to a \"casino\" — helped trigger one of the sharpest semiconductor selloffs of the year. South Korea's chip-heavy stock benchmark, the Kospi, fell 7% in a single session, dragging down Samsung Electronics and SK Hynix, the two companies at the center of the memory-chip supply chain that feeds AI data centers. European chip stocks traded mixed in sympathy, and in the US, Micron fell nearly 4% on concerns about rising competition from China's CXMT. The selloff wasn't confined to chipmakers or even to equities: copper and aluminum both dropped as the same AI-demand anxiety spread into industrial commodities, since both metals are heavily used in building the data centers and power infrastructure the AI boom depends on.\n\n## The capital cycle, applied to AI chips\n\nEconomists have a name for the pattern this selloff illustrates: the capital cycle. The basic idea is simple. When a sector looks highly profitable, capital rushes in — companies raise money, build capacity, and compete to meet soaring demand. For a while, this looks purely positive: more investment, more jobs, more growth. But capital doesn't arrive instantly, and investment decisions made during the boom take years to turn into actual production capacity. By the time all that new capacity comes online, demand growth may have slowed, or multiple competitors may have built overlapping capacity at the same time — producing an oversupply that depresses prices and returns right when investors expected the payoff. Markets, anticipating this, often reprice well before the oversupply is even visible in the data, simply because doubt starts to spread about whether today's investment pace is sustainable.\n\nSemiconductors are an unusually clean example of this pattern because chip fabrication plants are enormously expensive, take years to build, and are difficult to repurpose once built. Memory chips in particular — the kind made by Samsung, SK Hynix and Micron — have a decades-long history of boom-bust cycles driven by exactly this dynamic: a few years of shortage and high prices lead every major producer to expand capacity simultaneously, and the resulting glut then crashes prices until the next shortage cycle begins. AI has supercharged the current boom phase, pulling in both record capital spending from chipmakers and record demand from AI labs and cloud providers. Tan's \"casino\" remark, in that context, is really a claim about where this specific cycle currently sits: that the spending has outrun any sober estimate of what AI will actually generate in revenue.\n\n## Why a CEO's comment moved markets this much\n\nA single comment from one executive, even a prominent one, doesn't usually move markets by itself — it moves them when it crystallizes a doubt that was already circulating. Investors have spent much of the past year watching AI-related capital expenditure estimates rise, quarter after quarter, from hyperscalers, chipmakers and private investors, with the implicit assumption that returns will eventually justify the spending. Tan's comment gave skeptics already uneasy about that assumption a concrete, quotable reason to sell, which is why the reaction was immediate and broad rather than confined to Broadcom's own stock or even to chips narrowly. The commodities move — copper and aluminum both falling — shows how far the AI-capex narrative has spread beyond tech itself: these are classic industrial-cycle metals that are now partly priced on data-center buildout expectations, not just traditional manufacturing demand.\n\n## What to watch next\n\nThe next real test isn't another comment but the earnings and capex guidance from the major chipmakers and hyperscalers in the coming weeks — any sign that AI-related spending plans are being trimmed, rather than merely talked down, would confirm the capital-cycle turn rather than just a one-day scare. Equally worth watching: whether China's domestic chipmakers, like CXMT, keep gaining share quickly enough to justify the competitive fears already hitting Micron, since that's a second, more structural threat layered on top of the cyclical one."
+      },
+      "he": {
+        "headline": "אזהרת ה\"קזינו\" של ברודקום מחוללת מפולת שבבים גלובלית - ושיעור במחזורי הון",
+        "scroll": "אזהרה של מנכ\"ל ברודקום שהיקף ההשקעה בתשתיות AI מזכיר \"קזינו\" חוללה נפילה של 7% במניות השבבים הקוריאניות ומפולת רחבה יותר בסחורות, והדגימה כיצד מחזורי הון מהפכים השקעה אופורית לתמחור מחדש חד.",
+        "coffee": "מפולת גלובלית במניות השבבים העמיקה אחרי שמנכ\"ל ברודקום הוק טאן הזהיר שהיקף ההשקעה הנוכחי בתשתיות AI מזכיר \"קזינו\". ההערה תרמה להפעלת נפילה של 7% במדד המניות הקוריאני העמוס בחברות שבבים, שגרפה למטה את סמסונג ו-SK הייניקס, בעוד מניות השבבים האירופיות נסחרו במגמה מעורבת ומייקרון נחלשה בכמעט 4% על רקע חששות מתחרות הסינית CXMT. המפולת לא נעצרה במניות: גם נחושת ואלומיניום ירדו כשמשקיעים הפכו חשדניים יותר לגבי תחזית הביקוש שעליה מבוסס שיגור ה-AI.\n\nהאירוע הוא הדגמה נקייה למה שכלכלנים מכנים \"מחזור ההון\": תקופות של תשואות גבוהות ואופוריה מושכות השקעה כבדה, ההשקעה הזו יוצרת בסופו של דבר יותר היצע (או יותר חשש מהיצע עודף) ממה שהביקוש יכול לבלוע, והמחירים וההערכות מתומחרים מחדש בחריפות כשמשקיעים מתחילים לפקפק בתשואה על כל ההון הזה. תשתיות AI - שבבים, מרכזי נתונים, חשמל - משכו הון בקצב שמעט מגזרים אחרים הדביקו בזיכרון הקרוב, וזו בדיוק הסיבה שהערה סקפטית אחת מאדם מבפנים יכלה להזיז שווקים כך: היא גיבשה חשד שהתפתח כבר זמן מה לגבי כמה מההשקעה הזו באמת תשתלם.",
+        "deep": "## מה קרה\n\nאזהרה של מנכ\"ל ברודקום הוק טאן - שלפי הדיווחים השווה את היקף ההשקעה הנוכחית בתשתיות AI ל\"קזינו\" - תרמה לאחת ממפולות השבבים החדות ביותר של השנה. מדד המניות הקוריאני העמוס בחברות שבבים, הקוספי, נפל ב-7% במהלך מסחר יחיד, וגרף למטה את סמסונג אלקטרוניקס ו-SK הייניקס, שתי החברות שבמרכז שרשרת האספקה של זיכרון שמזינה מרכזי נתונים של AI. מניות השבבים האירופיות נסחרו במגמה מעורבת בהשפעת כך, ובארה\"ב מייקרון נחלשה בכמעט 4% על רקע חששות מהתגברות התחרות מצד CXMT הסינית. המפולת לא הצטמצמה לחברות השבבים ואפילו לא למניות: גם נחושת ואלומיניום ירדו כשאותו חשש מביקוש ה-AI התפשט לסחורות תעשייתיות, מכיוון ששתי המתכות משמשות בכבדות לבניית מרכזי הנתונים ותשתיות החשמל שעליהן נשען שיגור ה-AI.\n\n## מחזור ההון, במקרה של שבבי AI\n\nלכלכלנים יש שם לדפוס שהמפולת הזו מדגימה: מחזור ההון. הרעיון הבסיסי פשוט. כשמגזר נראה רווחי מאוד, הון נוהר אליו - חברות מגייסות כסף, בונות קיבולת ומתחרות כדי לעמוד בביקוש הגואה. לזמן מה זה נראה חיובי בלבד: יותר השקעה, יותר מקומות עבודה, יותר צמיחה. אבל הון לא מגיע באופן מיידי, והחלטות השקעה שמתקבלות בזמן הבום לוקחות שנים כדי להפוך לקיבולת ייצור ממשית. עד שכל הקיבולת החדשה הזו עולה לפעולה, צמיחת הביקוש יכולה להתמתן, או שמתחרים רבים בנו קיבולת חופפת באותו הזמן - מה שיוצר היצע עודף שמדכא מחירים ותשואות בדיוק כשמשקיעים ציפו לתשלום. שווקים, בצפייה לכך, מתמחרים מחדש לרוב הרבה לפני שההיצע העודף נראה לעין בנתונים, פשוט כי החשד מתחיל להתפשט לגבי האם קצב ההשקעה הנוכחי בר-קיימא.\n\nמוליכים למחצה הם דוגמה נקייה באופן יוצא דופן לדפוס הזה, כי מפעלי ייצור שבבים עולים הון תועפות, לוקחים שנים לבנייה, וקשים לשינוי שימוש אחרי שנבנו. שבבי זיכרון בפרט - מהסוג שמייצרות סמסונג, SK הייניקס ומייקרון - מלווים בהיסטוריה ארוכת עשורים של מחזורי בום-קריסה שמונעים בדיוק מהדינמיקה הזו: כמה שנים של מחסור ומחירים גבוהים מובילים את כל היצרניות הגדולות להרחיב קיבולת במקביל, והעודף שנוצר בסוף מקריס מחירים עד שמתחיל מחזור המחסור הבא. ה-AI האיץ את שלב הבום הנוכחי בצורה חריגה, ומשך גם הוצאות הון שיא מצד יצרניות השבבים וגם ביקוש שיא מצד מעבדות AI וספקי מחשוב עננית. הערת ה\"קזינו\" של טאן, בהקשר הזה, היא בעצם טענה לגבי המקום שבו המחזור הספציפי הזה נמצא כעת: שההשקעה עברה כל הערכה מפוכחת של כמה ה-AI באמת יפיק בהכנסות.\n\n## למה הערה של מנכ\"ל הזיזה שווקים כך\n\nהערה בודדת מבכיר אחד, אפילו בכיר בולט, לא בדרך כלל מזיזה שווקים בכוחות עצמה - היא מזיזה אותם כשהיא מגבשת חשד שכבר היה קיים. משקיעים בילו את רוב השנה האחרונה בצפייה בהערכות ההוצאות ההוניות הקשורות ל-AI עולות, רבעון אחר רבעון, מצד ספקי העננים הגדולים, יצרניות השבבים ומשקיעים פרטיים, עם ההנחה המובלעת שהתשואות בסופו של דבר יצדיקו את ההוצאה. ההערה של טאן נתנה לסקפטיים שכבר היו לא נוחים עם ההנחה הזו סיבה קונקרטית וניתנת לציטוט למכור, וזו הסיבה שהתגובה הייתה מיידית ורחבה ולא מוגבלת למניית ברודקום עצמה ואפילו לא לשבבים בלבד. התנועה בסחורות - נחושת ואלומיניום שירדו שניהם - מראה כמה רחוק התפשט הנרטיב של הוצאות הון ל-AI מעבר לטכנולוגיה עצמה: אלה מתכות מחזור תעשייתי קלאסיות שמתומחרות כעת בחלקן לפי ציפיות בנייה של מרכזי נתונים, לא רק ביקוש ייצור מסורתי.\n\n## למה לשים לב בהמשך\n\nהמבחן האמיתי הבא הוא לא הערה נוספת אלא הדיווחים הכספיים והנחיות ההוצאות ההוניות מצד יצרניות השבבים הגדולות וספקי העננים בשבועות הקרובים - כל סימן לכך שתוכניות ההשקעה הקשורות ל-AI נגזרות בפועל, ולא רק מדוברות למטה, יאשר פנייה אמיתית במחזור ההון ולא רק בהלה של יום אחד. גם ראוי לעקוב: האם יצרניות השבבים המקומיות של סין, כמו CXMT, ממשיכות לצבור נתח שוק מהר מספיק כדי להצדיק את חששות התחרות שכבר פוגעות במייקרון, כיוון שזה איום שני, יותר מבני, שמונח מעל האיום המחזורי."
+      },
+      "tags": [
+        "semiconductors",
+        "ai-capex",
+        "markets",
+        "capital-cycle"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
+          "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Chip Selloff Triggers 7% Korea Rout After CEO’s ‘Casino’ Warning",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Copper and Aluminum Drop as AI Selloff Saps Appetite for Risk",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/copper-and-aluminum-drop-as-ai-selloff-saps-appetite-for-risk"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "China resorts to Nvidia gaming chips in search for AI firepower",
+          "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מניות הטכנולוגיה הורידו את נאסד\"ק בקרוב ל-0.5% בתום יום מסחר תנודתי",
+          "url": "https://www.themarker.com/wallstreet/2026-10-12/ty-article-live/000001a1-2e4d-d1b4-a5fb-aecd97b50000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4062.1101,
+      "prev_close": 4061.71,
+      "change_pct": 0.01,
+      "as_of": "2026-10-12"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7807.2402,
+      "prev_close": 7811.54,
+      "change_pct": -0.06,
+      "as_of": "2026-10-12"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0758,
+      "prev_close": 3.0624,
+      "change_pct": 0.44,
+      "as_of": "2026-10-13"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 105.42,
+      "prev_close": 104.72,
+      "change_pct": 0.67,
+      "as_of": "2026-10-12"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 83187.2969,
+      "prev_close": 83679.4688,
+      "change_pct": -0.59,
+      "as_of": "2026-10-13"
+    }
+  }
+}
