@@ -19,134 +19,134 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-13T09:00:03+00:00",
+     "published": "2026-10-13T09:59:50+00:00",
      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-10-13T08:46:02+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
+     "title": "Houthi rebels say airstrikes targeted them in Yemen, and other Mideast developments - AP News",
+     "published": "2026-10-13T09:51:00+00:00",
+     "summary": "Houthi rebels say airstrikes targeted them in Yemen, and other Mideast developments AP News"
     },
     {
      "ref": "ap_world#2",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-10-13T09:44:48+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News",
+     "published": "2026-10-13T09:14:00+00:00",
+     "summary": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Experts urge parents to prepare kids for possible livestreamed execution - AP News",
+     "published": "2026-10-13T08:53:00+00:00",
+     "summary": "Experts urge parents to prepare kids for possible livestreamed execution AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "Man stabs at least 8 people in South Korean mall - AP News",
      "published": "2026-10-13T08:37:00+00:00",
      "summary": "Man stabs at least 8 people in South Korean mall AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#6",
      "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt - AP News",
      "published": "2026-10-13T08:15:00+00:00",
      "summary": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#7",
      "title": "South Korea's Kospi index sinks more than 5% on semiconductor share sell-off over AI boom worries - AP News",
      "published": "2026-10-13T07:48:00+00:00",
      "summary": "South Korea's Kospi index sinks more than 5% on semiconductor share sell-off over AI boom worries AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#8",
+     "title": "Contreras delivers and Milwaukee's bullpen shines as the Brewers top the Dodgers 7-4 in NLCS Game 2 - AP News",
+     "published": "2026-10-13T07:16:00+00:00",
+     "summary": "Contreras delivers and Milwaukee's bullpen shines as the Brewers top the Dodgers 7-4 in NLCS Game 2 AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Chase DeLauter and José Ramírez lead the Guardians to a 7-3 win over the Rays in Game 1 of the ALCS - AP News",
+     "published": "2026-10-13T06:36:00+00:00",
+     "summary": "Chase DeLauter and José Ramírez lead the Guardians to a 7-3 win over the Rays in Game 1 of the ALCS AP News"
+    },
+    {
+     "ref": "ap_world#10",
      "title": "Pope Leo XIV is set to enter a Rome hospital for removal of a lung nodule - AP News",
      "published": "2026-10-13T06:27:45+00:00",
      "summary": "Pope Leo XIV is set to enter a Rome hospital for removal of a lung nodule AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "Houthi rebels say multiple airstrikes targeted them in Yemen, and other Mideast developments - AP News",
-     "published": "2026-10-13T06:25:00+00:00",
-     "summary": "Houthi rebels say multiple airstrikes targeted them in Yemen, and other Mideast developments AP News"
-    },
-    {
-     "ref": "ap_world#7",
+     "ref": "ap_world#11",
      "title": "Josh Allen racks up 331 yards and Bills outlast Rams with help from blocked FG for 37-34 win in OT - AP News",
      "published": "2026-10-13T06:14:00+00:00",
      "summary": "Josh Allen racks up 331 yards and Bills outlast Rams with help from blocked FG for 37-34 win in OT AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News",
-     "published": "2026-10-13T06:12:00+00:00",
-     "summary": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "Six Flags closes 9 rides after 1 person dies in an incident involving a roller coaster in Georgia - AP News",
-     "published": "2026-10-13T05:55:00+00:00",
-     "summary": "Six Flags closes 9 rides after 1 person dies in an incident involving a roller coaster in Georgia AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "Emergency help was delayed by confusion after failed execution of Christa Pike, 911 calls reveal - AP News",
      "published": "2026-10-13T05:28:00+00:00",
      "summary": "Emergency help was delayed by confusion after failed execution of Christa Pike, 911 calls reveal AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "Fear strikes Yemen’s 3rd largest city Taiz as Houthi rebels encircle it in a new siege - AP News",
      "published": "2026-10-13T05:02:00+00:00",
      "summary": "Fear strikes Yemen’s 3rd largest city Taiz as Houthi rebels encircle it in a new siege AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "Shiyazh Pete, first Navajo NFL player, recognized on Indigenous Peoples Day - AP News",
      "published": "2026-10-13T04:52:00+00:00",
      "summary": "Shiyazh Pete, first Navajo NFL player, recognized on Indigenous Peoples Day AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
      "title": "Storms cause 5 deaths in Mexico as flood risk eases in southwestern US - AP News",
      "published": "2026-10-13T04:45:00+00:00",
      "summary": "Storms cause 5 deaths in Mexico as flood risk eases in southwestern US AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "China sanctions officials in Paraguay and Belize over their countries’ ties with Taiwan - AP News",
      "published": "2026-10-13T04:32:00+00:00",
      "summary": "China sanctions officials in Paraguay and Belize over their countries’ ties with Taiwan AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "Crews rescue people stuck on a roller coaster after one killed at Six Flags park in Georgia - AP News",
      "published": "2026-10-13T04:24:00+00:00",
      "summary": "Crews rescue people stuck on a roller coaster after one killed at Six Flags park in Georgia AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "After surging troops to the border, US Army showcases a quieter Rio Grande - AP News",
      "published": "2026-10-13T04:23:00+00:00",
      "summary": "After surging troops to the border, US Army showcases a quieter Rio Grande AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#19",
      "title": "Trump is heading all the way to Alaska in a sign of just how close its Senate race may be - AP News",
      "published": "2026-10-13T04:04:00+00:00",
      "summary": "Trump is heading all the way to Alaska in a sign of just how close its Senate race may be AP News"
     },
     {
-     "ref": "ap_world#18",
-     "title": "Experts urge parents to prepare kids for possible livestreamed execution - AP News",
-     "published": "2026-10-13T04:03:00+00:00",
-     "summary": "Experts urge parents to prepare kids for possible livestreamed execution AP News"
-    },
-    {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "Trump’s diesel deal with Putin draws criticism from a frustrated Congress - AP News",
      "published": "2026-10-13T04:03:00+00:00",
      "summary": "Trump’s diesel deal with Putin draws criticism from a frustrated Congress AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "What to know about the Nord Stream pipeline explosions trial opening in Germany this week - AP News",
      "published": "2026-10-13T04:00:00+00:00",
      "summary": "What to know about the Nord Stream pipeline explosions trial opening in Germany this week AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "A generation of angry young Indians takes to the streets to challenge Modi - AP News",
-     "published": "2026-10-13T03:53:21+00:00",
-     "summary": "A generation of angry young Indians takes to the streets to challenge Modi AP News"
     },
     {
      "ref": "ap_world#22",
@@ -156,15 +156,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#23",
-     "title": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34 - AP News",
-     "published": "2026-10-13T03:19:00+00:00",
-     "summary": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34 AP News"
+     "title": "A generation of angry young Indians takes to the streets to challenge Modi - AP News",
+     "published": "2026-10-13T03:28:00+00:00",
+     "summary": "A generation of angry young Indians takes to the streets to challenge Modi AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Trump attacks immigrants from Somalia and Haiti while rallying in Ohio for Republican candidates - AP News",
-     "published": "2026-10-13T02:50:00+00:00",
-     "summary": "Trump attacks immigrants from Somalia and Haiti while rallying in Ohio for Republican candidates AP News"
+     "title": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34 - AP News",
+     "published": "2026-10-13T03:19:00+00:00",
+     "summary": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34 AP News"
     }
    ]
   },
@@ -420,153 +420,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "EXCLUSIVE: Bank of America loses bankers, tells staff of big ambition, continued hiring - Reuters",
+     "published": "2026-10-13T10:07:41+00:00",
+     "summary": "EXCLUSIVE: Bank of America loses bankers, tells staff of big ambition, continued hiring Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Kremlin says the government is discussing Yandex's problems after Ukrainian strikes on its data centres - Reuters",
+     "published": "2026-10-13T10:01:43+00:00",
+     "summary": "Kremlin says the government is discussing Yandex's problems after Ukrainian strikes on its data centres Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Sweden's Andersson says she is still unable to form a government - Reuters",
+     "published": "2026-10-13T09:43:45+00:00",
+     "summary": "Sweden's Andersson says she is still unable to form a government Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "Prosecutors drop three impeachment charges against Philippine VP Duterte - Reuters",
      "published": "2026-10-13T08:28:03+00:00",
      "summary": "Prosecutors drop three impeachment charges against Philippine VP Duterte Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "Russia says it hit ship delivering military cargo to Ukraine's Mykolaiv - Reuters",
-     "published": "2026-10-13T07:30:07+00:00",
-     "summary": "Russia says it hit ship delivering military cargo to Ukraine's Mykolaiv Reuters"
+     "ref": "reuters_world#4",
+     "title": "'Brutal session' for chip stocks shows AI trade is turning - Reuters",
+     "published": "2026-10-13T07:11:02+00:00",
+     "summary": "'Brutal session' for chip stocks shows AI trade is turning Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#5",
      "title": "UK's Bellway flags margin pressures in 2027 amid affordability and cost pressures - Reuters",
      "published": "2026-10-13T06:20:00+00:00",
      "summary": "UK's Bellway flags margin pressures in 2027 amid affordability and cost pressures Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#6",
      "title": "Mauritius temporarily closes schools after night of unrest over police shooting - Reuters",
      "published": "2026-10-13T06:14:00+00:00",
      "summary": "Mauritius temporarily closes schools after night of unrest over police shooting Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#7",
      "title": "German September inflation confirmed at 3.3% - Reuters",
      "published": "2026-10-13T06:05:00+00:00",
      "summary": "German September inflation confirmed at 3.3% Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
      "title": "Indian police detain 'cockroach' movement leaders demanding election chief's resignation - Reuters",
      "published": "2026-10-13T06:03:00+00:00",
      "summary": "Indian police detain 'cockroach' movement leaders demanding election chief's resignation Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say - Reuters",
      "published": "2026-10-13T05:43:00+00:00",
      "summary": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "Singapore-based Zenyum's parent MakeO raises $10 million for Asian expansion - Reuters",
      "published": "2026-10-13T05:32:00+00:00",
      "summary": "Singapore-based Zenyum's parent MakeO raises $10 million for Asian expansion Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "NEWSLETTER: Modi's three-pronged challenge - Reuters",
      "published": "2026-10-13T05:30:00+00:00",
      "summary": "NEWSLETTER: Modi's three-pronged challenge Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "Eleven sailors missing after drone sinks ship off Bulgaria - Reuters",
      "published": "2026-10-13T05:27:00+00:00",
      "summary": "Eleven sailors missing after drone sinks ship off Bulgaria Reuters"
     },
     {
-     "ref": "reuters_world#10",
-     "title": "Uganda's FX reserves surged 56% in year ended June, central bank says - Reuters",
-     "published": "2026-10-13T05:00:00+00:00",
-     "summary": "Uganda's FX reserves surged 56% in year ended June, central bank says Reuters"
-    },
-    {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Morning Bid: The fragile AI trade - Reuters",
      "published": "2026-10-13T04:31:00+00:00",
      "summary": "Morning Bid: The fragile AI trade Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "Visa gets approval to prepare for domestic business in China - Reuters",
      "published": "2026-10-13T04:27:00+00:00",
      "summary": "Visa gets approval to prepare for domestic business in China Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "India's tough FX measures rattle banks, trigger unintended consequences - Reuters",
      "published": "2026-10-13T04:20:00+00:00",
      "summary": "India's tough FX measures rattle banks, trigger unintended consequences Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Finnish Foreign Minister says US oil purchases from Russia 'not a good idea' - Reuters",
      "published": "2026-10-13T04:19:00+00:00",
      "summary": "Finnish Foreign Minister says US oil purchases from Russia 'not a good idea' Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters",
      "published": "2026-10-13T03:53:00+00:00",
      "summary": "Trump says he does not believe China and Russia are helping Iran 'at all' Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
+     "title": "Taiwan finance minister to attend APEC meeting in Hong Kong - Reuters",
+     "published": "2026-10-13T03:24:00+00:00",
+     "summary": "Taiwan finance minister to attend APEC meeting in Hong Kong Reuters"
+    },
+    {
+     "ref": "reuters_world#19",
      "title": "India's widened FX curbs, RBI intervention lift rupee to one-month peak - Reuters",
      "published": "2026-10-13T02:58:00+00:00",
      "summary": "India's widened FX curbs, RBI intervention lift rupee to one-month peak Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "AI boom bolstered growth in global trade, benefiting China and India, IMF says - Reuters",
      "published": "2026-10-13T02:57:00+00:00",
      "summary": "AI boom bolstered growth in global trade, benefiting China and India, IMF says Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
+     "title": "South Korea says US raises intelligence cooperation concerns, Yonhap says - Reuters",
+     "published": "2026-10-13T02:53:00+00:00",
+     "summary": "South Korea says US raises intelligence cooperation concerns, Yonhap says Reuters"
+    },
+    {
+     "ref": "reuters_world#22",
      "title": "South Korea's Lee says country cannot avoid raising interest rates - Reuters",
      "published": "2026-10-13T02:49:00+00:00",
      "summary": "South Korea's Lee says country cannot avoid raising interest rates Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#23",
      "title": "Indian shares rise, led by IT gains after strong HCLTech earnings - Reuters",
      "published": "2026-10-13T02:29:00+00:00",
      "summary": "Indian shares rise, led by IT gains after strong HCLTech earnings Reuters"
     },
     {
-     "ref": "reuters_world#20",
-     "title": "Gold ticks up as oil eases; spotlight on US inflation data - Reuters",
-     "published": "2026-10-13T02:23:00+00:00",
-     "summary": "Gold ticks up as oil eases; spotlight on US inflation data Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "IMF cuts Latin America, Caribbean growth forecasts on energy shock, little AI boost - Reuters",
-     "published": "2026-10-13T02:09:00+00:00",
-     "summary": "IMF cuts Latin America, Caribbean growth forecasts on energy shock, little AI boost Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
-     "published": "2026-10-13T02:05:00+00:00",
-     "summary": "AI investment props up global growth, but war and debt threaten outlook, IMF says Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Malaysia's king buys stake in Southern Alliance Mining as firm expands rare earths push - Reuters",
-     "published": "2026-10-13T02:01:00+00:00",
-     "summary": "Malaysia's king buys stake in Southern Alliance Mining as firm expands rare earths push Reuters"
-    },
-    {
      "ref": "reuters_world#24",
-     "title": "US says it opposes Chinese 'coercion', after Belize, Paraguay ministers sanctioned - Reuters",
-     "published": "2026-10-13T01:55:00+00:00",
-     "summary": "US says it opposes Chinese 'coercion', after Belize, Paraguay ministers sanctioned Reuters"
+     "title": "Gold gains as oil, dollar retreat; investors brace for US inflation test - Reuters",
+     "published": "2026-10-13T02:23:00+00:00",
+     "summary": "Gold gains as oil, dollar retreat; investors brace for US inflation test Reuters"
     }
    ]
   }
