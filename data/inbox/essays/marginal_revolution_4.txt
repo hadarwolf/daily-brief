@@ -1,7 +1,21 @@
-No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford’s Interest and Prices (2003) has been called the central bankers’ bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even if his name wasn’t on it.
+Alex has already covered this, I will add a few remarks.
 
-Woodford, building on Calvo, Rotemberg, Taylor, Galí, Gertler, and others, integrated everything into a coherent, microfounded theory of monetary policy and developed its welfare implications. Households choose how much to consume using Hall’s Euler equation, firms with some market power get to change their prices only now and then, and the central bank sets the short-term interest rate. Out of these pieces comes a model in which monetary policy moves real output in the short run, and in which the main cost of inflation is that prices get out of line with one another because firms adjust at different times.
+First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones.
 
-You can see the revolution since Friedman because one fun feature of Woodford’s model is that there is no money. Woodford showed you could do monetary economics in a cashless economy. That’s closer to how central banks operate today, namely, the Fed sets an interest rate and mostly ignores monetary aggregates like M2. Woodford’s book title is a homage. Interest and Prices is the English title of Knut Wicksell’s 1898 book, which argued that inflation depends on whether the central bank holds its interest rate above or below the natural rate. Woodford rebuilt Wicksell with modern tools. If Friedman taught central banks to watch the money supply, Woodford taught them to watch the gap between their policy rate and the natural rate, and to manage expectations about both.
+Here is Bob on scholar.google.com. You will notice topping the list are important papers on economic growth, even though Bob is best known for his work on the consumption function, where he gave birth to an entire literature.
 
-Woodford also worked out when an interest rate rule pins down inflation. If the central bank raises nominal rates more than one-for-one with inflation, the equilibrium is determinate. If it doesn’t, expectations can become self-fulfilling (the Taylor rule but micro-founded). In a less remembered twist, he was also an early developer of the fiscal theory of the price level, which says that under some policy regimes the government’s budget determines the price level. It’s an unexpected stance for the leading New Keynesian.
+One of the first Bob Hall papers I studied was his supply and demand analysis with David Lilien. It is one of the best papers for seeing how Bob approaches every issue by thinking like an economist.
+
+Bob also thought very creatively about how claims about the Solow residual could be translated into isomorphic claims about the gap between price and marginal cost, and for trying to apply that point to cyclical issues. Bob is one of the best researchers for thinking about the elasticity of supply.
+
+He did much of the core work on the Hall and Jorgensen 1967 (!) tax paper as an undergraduate.
+
+Bob also has important papers on rent-seeking and on looting.
+
+Second, Bob is the greatest commentator on other people’s work of all time. He is nice and polite, but if he is assigned to your paper beware! He will find its flaws. He is also a famously great co-author, before that was established practice.
+
+Third, Bob was part of the production function for Andy Hall, whose work has been covered on this blog much as of late, mostly on AI and economics/social science. I also just learned there is a connection to Anne E. Hall at Treasury. And there is Jonathan Hall, chief economist at Amazon!
+
+Fourth, Bob has in the past emailed me to correct typographical errors on this blog. It is the old saying that if you want to get something done, give it to a busy person.
+
+Here is the Nobel committee on the award, noting I find it slightly strange that they made “stabilization” the overall theme linking Bob with Michael Woodford.
