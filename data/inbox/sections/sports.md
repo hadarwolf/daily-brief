@@ -58,20 +58,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-1"
     },
     {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-10-12T19:00:00Z",
-     "home": "Levante",
-     "away": "Sevilla FC",
-     "status": "FINISHED",
-     "score": "3-3"
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-12T19:00:00Z",
      "home": "Coventry City",
      "away": "Newcastle",
      "status": "FINISHED",
      "score": "4-1"
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-12T19:00:00Z",
+     "home": "Levante",
+     "away": "Sevilla FC",
+     "status": "FINISHED",
+     "score": "3-3"
     },
     {
      "competition": "Primeira Liga",
@@ -89,7 +89,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "home": "Chapecoense",
      "away": "Paranaense",
      "status": "FINISHED",
-     "score": "1-3"
+     "score": "1-4"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -142,6 +142,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-13T18:45:00Z",
+     "home": "Wrexham",
+     "away": "West Brom",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T18:45:00Z",
      "home": "Cardiff",
      "away": "Watford",
      "status": "TIMED",
@@ -157,9 +165,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "competition": "Championship",
-     "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Wrexham",
-     "away": "West Brom",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "Birmingham",
+     "away": "Preston NE",
      "status": "TIMED",
      "score": null
     },
@@ -188,10 +196,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
+     "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Birmingham",
-     "away": "Preston NE",
+     "home": "Atleti",
+     "away": "Man United",
      "status": "TIMED",
      "score": null
     },
@@ -224,14 +232,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-13T19:00:00Z",
      "home": "Villarreal",
      "away": "Napoli",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Atleti",
-     "away": "Man United",
      "status": "TIMED",
      "score": null
     }
@@ -587,153 +587,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Ronaldo scores after match delayed by missile alert",
+     "published": "2026-10-13T09:23:28+00:00",
+     "summary": "Cristiano Ronaldo scores as Al-Nassr win an AFC Champions League match which is delayed by an hour because of a missile alert in Riyadh."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Former Real Madrid captain Carvajal joins Getafe",
+     "published": "2026-10-13T09:21:36+00:00",
+     "summary": "Former Real Madrid captain Dani Carvajal joins Getafe as a free agent after his contract expired in June."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "How much did Man City's rule breaking cost your team?",
      "published": "2026-10-13T08:12:53+00:00",
      "summary": "The potential impact of Manchester City's rule breaking runs deep, including missed Champions League qualification, relegation and Premier League prize money."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Celtic 'need more' from record signing Hogh - gossip",
      "published": "2026-10-13T07:36:44+00:00",
      "summary": "Advice for new Celtic striker and for Rangers manager from former Old Firm duo..."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "Lille considering legal action after Santos injury",
      "published": "2026-10-13T07:30:58+00:00",
      "summary": "The club have described the tackle on defender Tiago Santos as 'uncontrolled and dangerous'."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Podcast: Will Hearts go the distance again and can Reedijk lift Hibs?",
      "published": "2026-10-13T07:00:00+00:00",
      "summary": "The contrasting stories of Hearts and Hibs, plus a big night for the Scotland WNT."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "The star is Luis Enrique - inside the plans to keep PSG at the top",
      "published": "2026-10-13T06:34:33+00:00",
      "summary": "As Luis Enrique bids to guide PSG to a third successive Champions League triumph, Guillem Balague looks at how the coach keeps his side at the top."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#7",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-13T06:13:45+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#8",
      "title": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
      "published": "2026-10-13T05:47:49+00:00",
      "summary": "Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?"
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "What Manchester's 'super-profit' deal with City owners has paid out so far",
      "published": "2026-10-13T05:12:47+00:00",
      "summary": "Manchester City Council has made almost £3m from the \"super-profits\" of Man City-linked developments."
     },
     {
-     "ref": "bbc_football#8",
-     "title": "Wales given play-off history lesson before Albania second leg",
-     "published": "2026-10-13T03:33:01+00:00",
-     "summary": "Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil."
-    },
-    {
-     "ref": "bbc_football#9",
-     "title": "Wales given play-off history lesson before Albania second leg",
-     "published": "2026-10-13T03:33:01+00:00",
-     "summary": "Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil."
-    },
-    {
      "ref": "bbc_football#10",
+     "title": "Wales given play-off history lesson before Albania second leg",
+     "published": "2026-10-13T03:33:01+00:00",
+     "summary": "Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil."
+    },
+    {
+     "ref": "bbc_football#11",
+     "title": "Wales given play-off history lesson before Albania second leg",
+     "published": "2026-10-13T03:33:01+00:00",
+     "summary": "Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil."
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Coventry announce themselves back in the big time",
      "published": "2026-10-12T22:34:32+00:00",
      "summary": "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Who has made Troy's Premier League team of the week?",
      "published": "2026-10-12T22:25:57+00:00",
      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "Lampard keeping 'feet on ground' following big win over Newcastle",
      "published": "2026-10-12T21:43:20+00:00",
      "summary": "Coventry City head coach Frank Lampard gives his thoughts after his side pick up their first home win of the season beating Newcastle 4-1."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Coventry thrash Newcastle to claim first home win of season",
      "published": "2026-10-12T21:35:07+00:00",
      "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Man Utd eye Simeone - Tuesday's gossip",
      "published": "2026-10-12T20:49:48+00:00",
      "summary": "Manchester United interested in Atletico Madrid's Giuliano Simeone, Chelsea willing to meet Bournemouth's asking price for Alex Scott, Premier League clubs want Inter's Aleksandar Stankovic."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "Football Daily",
      "published": "2026-10-12T20:45:00+00:00",
      "summary": "Mark Chapman is joined by Andros Townsend, Chris Sutton and Rory Smith."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Carroll thanks public for support over sexual assault",
      "published": "2026-10-12T20:24:15+00:00",
      "summary": "Former England striker Andy Carroll thanks the public for their support after speaking publicly about being sexually assaulted by a man."
     },
     {
-     "ref": "bbc_football#17",
-     "title": "BBC Women's Football Weekly",
-     "published": "2026-10-12T18:00:00+00:00",
-     "summary": "How can Sarina Wiegman’s side become more ruthless in the final third?"
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "BBC Women's Football Weekly",
-     "published": "2026-10-12T18:00:00+00:00",
-     "summary": "How can Sarina Wiegman’s side become more ruthless in the final third?"
-    },
-    {
      "ref": "bbc_football#19",
+     "title": "BBC Women's Football Weekly",
+     "published": "2026-10-12T18:00:00+00:00",
+     "summary": "How can Sarina Wiegman’s side become more ruthless in the final third?"
+    },
+    {
+     "ref": "bbc_football#20",
+     "title": "BBC Women's Football Weekly",
+     "published": "2026-10-12T18:00:00+00:00",
+     "summary": "How can Sarina Wiegman’s side become more ruthless in the final third?"
+    },
+    {
+     "ref": "bbc_football#21",
      "title": "Man City bananas 'brought fun back', says Varadi",
      "published": "2026-10-12T17:57:10+00:00",
      "summary": "Former Manchester City striker Imre Varadi says it was \"brilliant to see\" the club's fans waving inflatable bananas at Anfield and feels it \"brought a lot of fun back\"."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Burnham had formal meeting with Man City chair while mayor",
      "published": "2026-10-12T17:09:30+00:00",
      "summary": "Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester Combined Authority."
     },
     {
-     "ref": "bbc_football#21",
-     "title": "Do Lionesses lack ruthlessness in front of goal?",
-     "published": "2026-10-12T16:54:32+00:00",
-     "summary": "England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?"
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Do Lionesses lack ruthlessness in front of goal?",
-     "published": "2026-10-12T16:54:32+00:00",
-     "summary": "England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?"
-    },
-    {
      "ref": "bbc_football#23",
-     "title": "McCabe and O'Sullivan to feature in Cork - Ward",
-     "published": "2026-10-12T16:01:17+00:00",
-     "summary": "Republic of Ireland manager Carla Ward confirms that Katie McCabe and Denise O'Sullivan will feature in the second leg of their Women's World Cup play-off against Kazakhstan, despite the Irish holding an 8-0 advantage from the first leg."
+     "title": "Do Lionesses lack ruthlessness in front of goal?",
+     "published": "2026-10-12T16:54:32+00:00",
+     "summary": "England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?"
     },
     {
      "ref": "bbc_football#24",
-     "title": "Northern Ireland will have 'one last swing' at World Cup place",
-     "published": "2026-10-12T15:46:33+00:00",
-     "summary": "Boss Michael McArdle says Northern Ireland will have \"one last swing\" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit in Portugal."
+     "title": "Do Lionesses lack ruthlessness in front of goal?",
+     "published": "2026-10-12T16:54:32+00:00",
+     "summary": "England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?"
     }
    ]
   },
@@ -744,74 +744,74 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#0",
      "title": "Atlanta United vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
-     "published": "2026-10-13T08:36:05+00:00",
+     "published": "2026-10-13T09:20:11+00:00",
      "summary": "Atlanta United vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
      "ref": "gnews_inter_miami#1",
+     "title": "Atlanta United vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
+     "published": "2026-10-13T08:36:05+00:00",
+     "summary": "Atlanta United vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "An unexpected destination for Pogba: could Messi be the password? - Goal.com",
      "published": "2026-10-13T07:21:16+00:00",
      "summary": "An unexpected destination for Pogba: could Messi be the password? Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Inter Miami vs New York City FC: Kalshi Promo Code & $25 Bonus - Squawka",
      "published": "2026-10-13T06:09:29+00:00",
      "summary": "Inter Miami vs New York City FC: Kalshi Promo Code & $25 Bonus Squawka"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami faces New York City FC after shutout victory - FOX Sports",
      "published": "2026-10-13T06:03:50+00:00",
      "summary": "Inter Miami faces New York City FC after shutout victory FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami vs New York City Prediction, Betting Tips, Lineups & Odds | 14 Oct 2026 - Sportsgambler",
      "published": "2026-10-13T05:58:33+00:00",
      "summary": "Inter Miami vs New York City Prediction, Betting Tips, Lineups & Odds | 14 Oct 2026 Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Messi and Suarez Named in MLS Team of the Matchday After Inter Miami Masterclass - İdman.Biz",
      "published": "2026-10-13T05:15:00+00:00",
      "summary": "Messi and Suarez Named in MLS Team of the Matchday After Inter Miami Masterclass İdman.Biz"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Lionel Messi's Brace in 1st Game Since International Farewell Makes You Wonder Why He Quit - MensXP",
      "published": "2026-10-13T04:49:57+00:00",
      "summary": "Lionel Messi's Brace in 1st Game Since International Farewell Makes You Wonder Why He Quit MensXP"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United - BBC",
      "published": "2026-10-13T04:41:33+00:00",
      "summary": "Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United BBC"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United | Daily FT - newspaper - Magzter",
      "published": "2026-10-13T04:28:14+00:00",
      "summary": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United | Daily FT - newspaper Magzter"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Lionel Messi given big responsibility for 2026 Ballon d'Or, report says - Gulf News",
      "published": "2026-10-13T03:43:06+00:00",
      "summary": "Lionel Messi given big responsibility for 2026 Ballon d'Or, report says Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "MLS Odds: Major League Soccer Betting Lines - FanDuel Sportsbook",
      "published": "2026-10-13T02:42:47+00:00",
      "summary": "MLS Odds: Major League Soccer Betting Lines FanDuel Sportsbook"
-    },
-    {
-     "ref": "gnews_inter_miami#11",
-     "title": "Why Pressure at Inter Miami Is Built by Design - 247Sports",
-     "published": "2026-10-13T02:36:10+00:00",
-     "summary": "Why Pressure at Inter Miami Is Built by Design 247Sports"
     },
     {
      "ref": "gnews_inter_miami#12",
