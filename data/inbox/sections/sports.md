@@ -9,15 +9,15 @@ Write the Sports section: 3-5 stories.
  {
   "sport": "soccer",
   "competition": "UEFA Champions League",
-  "home": "Arsenal",
-  "away": "Lille",
+  "home": "Galatasaray",
+  "away": "Barça",
   "kickoff_utc": "2026-10-13T19:00:00Z"
  },
  {
   "sport": "soccer",
   "competition": "UEFA Champions League",
-  "home": "Galatasaray",
-  "away": "Barça",
+  "home": "Arsenal",
+  "away": "Lille",
   "kickoff_utc": "2026-10-13T19:00:00Z"
  }
 ]. Lead with a preview of that game (what's at stake, form, table position).
@@ -38,48 +38,48 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-12T16:30:00Z",
      "home": "Atalanta",
      "away": "Venezia FC",
-     "status": "FINISHED",
-     "score": "3-1"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-12T18:45:00Z",
      "home": "Torino",
      "away": "Udinese",
-     "status": "FINISHED",
-     "score": "2-1"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-12T19:00:00Z",
      "home": "Coritiba",
      "away": "Botafogo",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-12T19:00:00Z",
-     "home": "Coventry City",
-     "away": "Newcastle",
-     "status": "FINISHED",
-     "score": "4-1"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-12T19:00:00Z",
      "home": "Levante",
      "away": "Sevilla FC",
-     "status": "FINISHED",
-     "score": "3-3"
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-12T19:00:00Z",
+     "home": "Coventry City",
+     "away": "Newcastle",
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-12T19:15:00Z",
      "home": "Famalicão",
      "away": "Alverca",
-     "status": "FINISHED",
-     "score": "1-4"
+     "status": "TIMED",
+     "score": null
     }
    ],
    "today": [
@@ -89,7 +89,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "home": "Chapecoense",
      "away": "Paranaense",
      "status": "FINISHED",
-     "score": "1-4"
+     "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -118,14 +118,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Millwall",
-     "away": "Swansea",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-13T18:45:00Z",
      "home": "Burnley",
      "away": "Charlton",
      "status": "TIMED",
@@ -142,8 +134,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Wrexham",
-     "away": "West Brom",
+     "home": "Millwall",
+     "away": "Swansea",
      "status": "TIMED",
      "score": null
     },
@@ -165,17 +157,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "competition": "Championship",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Birmingham",
-     "away": "Preston NE",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Arsenal",
-     "away": "Lille",
+     "kickoff_utc": "2026-10-13T18:45:00Z",
+     "home": "Wrexham",
+     "away": "West Brom",
      "status": "TIMED",
      "score": null
     },
@@ -198,24 +182,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Atleti",
-     "away": "Man United",
+     "home": "Arsenal",
+     "away": "Lille",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Stoke",
-     "away": "Middlesbrough",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Viking",
-     "away": "Bayern",
+     "home": "Birmingham",
+     "away": "Preston NE",
      "status": "TIMED",
      "score": null
     },
@@ -232,6 +208,30 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-13T19:00:00Z",
      "home": "Villarreal",
      "away": "Napoli",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "Atleti",
+     "away": "Man United",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "Viking",
+     "away": "Bayern",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "Stoke",
+     "away": "Middlesbrough",
      "status": "TIMED",
      "score": null
     }
@@ -815,81 +815,81 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#12",
+     "title": "Why Pressure at Inter Miami Is Built by Design - 247Sports",
+     "published": "2026-10-13T02:36:10+00:00",
+     "summary": "Why Pressure at Inter Miami Is Built by Design 247Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#13",
      "title": "Messi, Ruth, and #42 Lead Weekly Top 5 Sales - Sports Illustrated",
      "published": "2026-10-13T01:30:00+00:00",
      "summary": "Messi, Ruth, and #42 Lead Weekly Top 5 Sales Sports Illustrated"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami player ratings: Luis Suarez and Lionel Messi star in 4-0 victory over DC United - OneFootball",
      "published": "2026-10-12T23:51:22+00:00",
      "summary": "Inter Miami player ratings: Luis Suarez and Lionel Messi star in 4-0 victory over DC United OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Facundo Mura’s Injury Puts Inter Miami’s Right Wingback Role in Focus Ahead of the Playoffs - Pasión Fútbol",
      "published": "2026-10-12T23:46:15+00:00",
      "summary": "Facundo Mura’s Injury Puts Inter Miami’s Right Wingback Role in Focus Ahead of the Playoffs Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Major League Soccer - Goal.com",
      "published": "2026-10-12T23:38:35+00:00",
      "summary": "Major League Soccer Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "David Ayala Makes His Case at Inter Miami, but Yannick Bright Still Holds the Edge - Pasión Fútbol",
      "published": "2026-10-12T23:34:54+00:00",
      "summary": "David Ayala Makes His Case at Inter Miami, but Yannick Bright Still Holds the Edge Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami vs New York City Prediction & Picks - Major League Soccer - SportyTrader",
      "published": "2026-10-12T23:30:00+00:00",
      "summary": "Inter Miami vs New York City Prediction & Picks - Major League Soccer SportyTrader"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami hosts NYCFC as Casemiro settles into defensive role - CBS Sports",
      "published": "2026-10-12T22:32:00+00:00",
      "summary": "Inter Miami hosts NYCFC as Casemiro settles into defensive role CBS Sports"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Major League Soccer - Goal.com",
      "published": "2026-10-12T21:57:18+00:00",
      "summary": "Major League Soccer Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "IF NYCFC WANTS TO REACH THE PLAYOFFS: Team must limit mistakes, play more consistently - Front Row Soccer",
      "published": "2026-10-12T21:46:15+00:00",
      "summary": "IF NYCFC WANTS TO REACH THE PLAYOFFS: Team must limit mistakes, play more consistently Front Row Soccer"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Does Inter Miami have problems moving into the post-season? - ESPN",
      "published": "2026-10-12T21:39:10+00:00",
      "summary": "Does Inter Miami have problems moving into the post-season? ESPN"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi Closes In on Raúl Ruidíaz’s MLS Scoring Record With Inter Miami - Pasión Fútbol",
      "published": "2026-10-12T21:22:20+00:00",
      "summary": "Lionel Messi Closes In on Raúl Ruidíaz’s MLS Scoring Record With Inter Miami Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "‘Love It’—How Lionel Messi Could Complete Trophy Set at Inter Miami - Sports Illustrated",
      "published": "2026-10-12T21:15:00+00:00",
      "summary": "‘Love It’—How Lionel Messi Could Complete Trophy Set at Inter Miami Sports Illustrated"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Miami down DC United as Messi nets brace in first match after Argentina farewell - The Daily Star",
-     "published": "2026-10-12T20:58:05+00:00",
-     "summary": "Miami down DC United as Messi nets brace in first match after Argentina farewell The Daily Star"
     }
    ]
   },
