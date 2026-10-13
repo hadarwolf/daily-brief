@@ -1,0 +1,11 @@
+I think of Michael Woodford as the kind of economist who studies something very specific very intensively and tries to get it just right. But in his case he is not studying something small and irrelevant, he is studying “monetary policy.”
+
+I think of him as the economist who put monetary policy and “monetarism” — broadly construed — back on the map by melding it with modern theory and also modern approaches to expectations. Think of his monetarism as for a world where interest rates and not the quantity of money are central for central bank policy. In his world there is some nominal stickiness, and central banks can help to stabilize output without running afoul of the Lucas critique or the other problems with earlier Keynesian approaches. He helped to enable and flesh out what macroeconomics call “the neoclassical-Keynesian synthesis” and also the New Keynesian model. His core initial paper came in 1997 with the now-deceased Julio Rotemberg.
+
+Expectations are critical in his model, and you can think of him as an underlying source for approaches to “forward guidance” in the world of central banking. He also showed how a central bank could (potentially) force its way out of the zero lower bound by “irresponsibly” wishing to inflate.
+
+It is wrong to think of Woodford as “endorsing” nominal gdp targeting, nonetheless he showed it might be optimal and overall his work has encouraged interest in that approach, much-discussed on this blog and elsewhere, most of all by Scott Sumner, a great admirer of Woodford’s.
+
+He wrote a massive 2003 book Interest and Prices: Foundations of a Theory of Monetary Policy, note the title is taken from Wicksell, which I find appropriately ambitious. His work is extremely careful and precise, and when you read it you get the feeling he has been pondering each individual question for years.
+
+Here is Stockholm on the contributions of Woodford and Hall. Here is Michael on scholar.google.com. Here is Alex on Michael Woodford.

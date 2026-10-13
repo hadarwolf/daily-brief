@@ -1,6 +1,6 @@
 {
- "date": "2026-10-12",
- "prepared_at": "2026-10-12T10:29:32+00:00",
+ "date": "2026-10-13",
+ "prepared_at": "2026-10-13T03:48:52+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -11,53 +11,68 @@
  ],
  "skipped_sections": [],
  "order": [
+  "sports",
   "geopolitics",
   "israeli_politics",
   "business",
-  "sports",
   "ideas",
   "learn"
  ],
  "match_day": {
-  "is_match_day": false,
-  "events": []
+  "is_match_day": true,
+  "events": [
+   {
+    "sport": "soccer",
+    "competition": "UEFA Champions League",
+    "home": "Galatasaray",
+    "away": "Barça",
+    "kickoff_utc": "2026-10-13T19:00:00Z"
+   },
+   {
+    "sport": "soccer",
+    "competition": "UEFA Champions League",
+    "home": "Arsenal",
+    "away": "Lille",
+    "kickoff_utc": "2026-10-13T19:00:00Z"
+   }
+  ]
  },
  "markets": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4047.5701,
+   "last": 4062.1101,
    "prev_close": 4061.71,
-   "change_pct": -0.35,
+   "change_pct": 0.01,
    "as_of": "2026-10-12"
   },
   "SP500": {
    "symbol": "^GSPC",
-   "last": 7811.54,
-   "prev_close": 7765.3599,
-   "change_pct": 0.59,
-   "as_of": "2026-10-09"
+   "last": 7807.2402,
+   "prev_close": 7811.54,
+   "change_pct": -0.06,
+   "as_of": "2026-10-12"
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0739,
+   "last": 3.0758,
    "prev_close": 3.0624,
-   "change_pct": 0.38,
-   "as_of": "2026-10-12"
+   "change_pct": 0.44,
+   "as_of": "2026-10-13"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 105.67,
+   "last": 105.42,
    "prev_close": 104.72,
-   "change_pct": 0.91,
+   "change_pct": 0.67,
    "as_of": "2026-10-12"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 83401.6719,
+   "last": 83187.2969,
    "prev_close": 83679.4688,
-   "change_pct": -0.33,
-   "as_of": "2026-10-12"
+   "change_pct": -0.59,
+   "as_of": "2026-10-13"
   }
  },
- "essays_fetched": 4
+ "essays_fetched": 9
 }

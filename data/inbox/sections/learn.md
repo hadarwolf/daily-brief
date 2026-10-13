@@ -24,150 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2013,
-   "text": "Twelve people were killed in an apartment-building collapse (pictured) in Medellín, leading to new construction laws being passed in Colombia.",
+   "year": 2019,
+   "text": "At the Chicago Marathon, Kenyan runner Brigid Kosgei (pictured) set the marathon world record for women running in a mixed-sex race.",
    "context": [
-    "The collapse of the Space Building occurred on the night of 12 October 2013, when Tower 6 of the Space Building, a residential apartment complex, collapsed in Medellín, Colombia, killing 12 people. Local authorities evacuated the rest of the building to avoid an imminent new collapse. The cost of the building was more than Col$40.6 billion."
+    "The 2019 Chicago Marathon was the 42nd annual running of the Chicago Marathon held in Chicago, Illinois, United States on October 13, 2019. The men's race was won by Kenyan Lawrence Cherono in 2:05:45 while the women's was won by Kenyan Brigid Kosgei in 2:14:04, a world record by 81 seconds. The men's and women's wheelchair races were won by Daniel Romanchuk and Manuela Schär in 1:30:26 and 1:41:08, respectively. More than 45,000 runners completed the race."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1992,
-   "text": "An earthquake with a magnitude of 5.8 or 5.9 struck south of Cairo, Egypt, killing 545 people.",
+   "year": 2016,
+   "text": "The King of Thailand, Bhumibol Adulyadej, died after 70 years on the throne, at which point was the longest-reigning current monarch.",
    "context": [
-    "Seismic magnitude scales are used to describe the overall strength or \"size\" of an earthquake. These are distinguished from seismic intensity scales that categorize the intensity or severity of ground shaking (quaking) caused by an earthquake at a given location. Magnitudes are usually determined from measurements of an earthquake's seismic waves as recorded on a seismogram. Magnitude scales vary based on what aspect of the seismic waves are measured and how they are measured. Different magnitude scales are necessary because of differences in earthquakes, the information available, and the purposes for which the magnitudes are used."
+    "The monarchy of Thailand is the constitutional form of government of Thailand. The king of Thailand is the head of state and head of the ruling Chakri dynasty."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1984,
-   "text": "The Provisional Irish Republican Army detonated a bomb at the Grand Hotel in Brighton, England, in a failed attempt to assassinate British prime minister Margaret Thatcher and her cabinet.",
+   "year": 2013,
+   "text": "During the Hindu festival of Navaratri at a temple in Madhya Pradesh, India, rumours about an impending bridge collapse caused a stampede that resulted in 115 deaths.",
    "context": [
-    "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. It was the most active republican paramilitary group during the Troubles. It argued that the all-island Irish Republic continued to exist, and it saw itself as that state's army, the sole legitimate successor to the original IRA from the Irish War of Independence. It was designated a terrorist organisation in the United Kingdom and an unlawful organisation in the Republic of Ireland, both of whose authority it rejected."
+    "Navaratri is an annual Hindu festival that honours Shakti, the divine feminine power in Hinduism, through the worship of the nine forms of Goddess Durga, over a period of nine nights. The festival is celebrated in varying ways across the Hindu Indian cultural sphere."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1979,
-   "text": "Typhoon Tip, the largest and most intense tropical cyclone ever recorded, reached a worldwide record-low sea-level pressure of 870 mbar (25.69 inHg) in the western Pacific Ocean.",
+   "year": 2011,
+   "text": "The Dragon King of Bhutan, Jigme Khesar Namgyel Wangchuck (pictured) married Jetsun Pema at the Punakha Dzong.",
    "context": [
-    "Typhoon Tip, known in the Philippines as Super Typhoon Warling, was the largest and most intense tropical cyclone ever recorded worldwide. The forty-third tropical depression, nineteenth tropical storm, twelfth typhoon, and third super typhoon of the 1979 Pacific typhoon season, Tip developed out of a disturbance within the monsoon trough on October 4 near Pohnpei in Micronesia. Initially, Tropical Storm Roger to the northwest hindered the development and motion of the system, although after the storm tracked farther north, Tip was able to intensify due to more favorable conditions within the region. After passing Guam, Tip rapidly intensified and reached peak sustained winds of 305 km/h (190 mph) and a worldwide record-low sea-level pressure of 870 hPa (25.69 inHg) on October 12. At its peak, Tip was the largest tropical cyclone on record, with a windfield diameter of 2,220 km (1,380 mi). The typhoon briefly entered the area of warning responsibility for PAGASA on October 13, which gave it the Filipino name Warling. Tip slowly weakened as it continued west-northwestward and later turned to the northeast, in response to an approaching trough. After its approach, Tip made landfall in southern Japan on October 19, and became an extratropical cyclone shortly after its landfall. The system's extratropical remnants continued moving east-northeastward, until they dissipated near the Aleutian Islands on October 24."
+    "The King of Bhutan, officially the Druk Gyalpo, is the constitutional monarch and head of state of the Kingdom of Bhutan. In the Dzongkha language, Bhutan is known as Drukyul which translates as \"The Land of the Thunder Dragon\". Thus, while kings of Bhutan are known as Druk Gyalpo, the Bhutanese people call themselves the Drukpa, meaning \"people of Druk (Bhutan)\"."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1978,
-   "text": "While in prison for murder, boxer James Scott defeated Eddie \"The Flame\" Gregory, a leading light heavyweight.",
+   "year": 1994,
+   "text": "The Troubles: In a meeting at Fernhill House, Belfast, loyalist leader Gusty Spence announced that the Combined Loyalist Military Command would observe a ceasefire.",
    "context": [
-    "James Onque Scott Jr. was an American boxer and convicted felon. He became the second-highest-ranked contender in the World Boxing Association's (WBA) light heavyweight division while incarcerated at Rahway State Prison in Avenel, New Jersey. Scott fought a total of 22 professional fights, 11 of which were contested while he was in prison. Scott earned pay and WBA rankings from many of those fights, which was considered controversial."
+    "The Troubles were an ethno-nationalist conflict in Northern Ireland that lasted from the late 1960s to 1998. Also known internationally as the Northern Ireland conflict, it is usually deemed to have ended with the Good Friday Agreement of 1998. Although centred in Northern Ireland, violence at times spilled into the Republic of Ireland, England, and mainland Europe. The conflict arose from political and nationalistic disputes with a strong ethnic and sectarian dimension. Unionists and loyalists, mostly Ulster Protestants, wanted Northern Ireland to remain in the United Kingdom, while Irish nationalists and republicans, mostly Irish Catholics, wanted it to join a united Ireland. Despite the division between Protestants and Catholics, it was not a religious war."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1960,
-   "text": "Soviet leader Nikita Khrushchev reportedly pounded his shoe on a desk during a meeting of the United Nations General Assembly in protest at a speech by Philippine delegate Lorenzo Sumulong.",
+   "year": 1972,
+   "text": "Uruguayan Air Force Flight 571 crashed into a remote area in the Andes mountains near the border of Chile and Argentina; the 16 remaining survivors were not rescued until more than two months later.",
    "context": [
-    "Nikita Sergeyevich Khrushchev was the First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and the Chairman of the Council of Ministers from 1958 to 1964. As leader of the Soviet Union, he shocked the world by denouncing his predecessor Joseph Stalin, embarking on a campaign of de-Stalinization, and presiding over the Cuban Missile Crisis in 1962."
+    "Uruguayan Air Force Flight 571 was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains in Argentina on 13 October 1972. The accident and subsequent survival became known as both the Andes flight disaster and the Miracle of the Andes."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1960,
-   "text": "Japan Socialist Party leader Inejirō Asanuma (pictured) was assassinated during a live television recording by a far-right ultra-nationalist using a short sword.",
+   "year": 1961,
+   "text": "Newly elected Burundian prime minister Louis Rwagasore was assassinated by his political rivals.",
    "context": [
-    "The Japan Socialist Party  was a major socialist, progressive, and left-wing political party in Japan. Established in 1945, the party was the primary representative of the Japanese left and main opponent of the right-wing Liberal Democratic Party for most of its existence."
+    "Prince Louis Rwagasore was a Burundian prince and politician, who was the second prime minister of Burundi for two weeks, from 28 September 1961 until his assassination on 13 October."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1946,
-   "text": "Il Canto degli Italiani is adopted as national anthem by the newly formed Italian Republic.",
+   "year": 1921,
+   "text": "The Soviet republics of Russia, Armenia, Azerbaijan, and Georgia signed the Treaty of Kars with the Grand National Assembly of Turkey, establishing the current borders between Turkey and the Caucasian states.",
    "context": [
-    "\"Il Canto degli italiani\" is a patriotic song written by Goffredo Mameli and set to music by Michele Novaro in 1847, currently used as the national anthem of Italy. It is known among Italians as the \"Inno di Mameli\"—after the author of the lyrics—or as \"Fratelli d'Italia\"—from the song's opening line. The piece, in 44 time signature and B-flat major key, has six strophes, and a refrain sung after each. The sixth group of verses, almost never performed, recalls the text of the first strophe."
+    "The Russian Soviet Federative Socialist Republic was a revolutionary, and later, communist state from 1917 to 1922, and afterwards the largest and most populous constituent republic of the Soviet Union (USSR) from 1922 to 1991, until becoming a sovereign part of the Soviet Union with priority of Russian laws over Union-level legislation in 1990 and 1991, the last two years of the existence of the USSR. The Russian SFSR was composed of sixteen smaller constituent units of autonomous republics, five autonomous oblasts, ten autonomous okrugs, six krais and forty oblasts. Russians formed the largest ethnic group. The capital of the Russian SFSR and the USSR as a whole was Moscow and the other major urban centers included Leningrad, Stalingrad, Novosibirsk, Sverdlovsk, Gorky and Kuybyshev."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1933,
-   "text": "The United States Department of Justice acquired a military prison on Alcatraz Island in San Francisco Bay, to be transformed into the last-resort Alcatraz Federal Penitentiary.",
+   "year": 1917,
+   "text": "At least 30,000 people witnessed the Miracle of the Sun in the fields of Cova da Iria near Fátima, Portugal.",
    "context": [
-    "The United States Department of Justice (DOJ) is an executive department of the United States federal government that oversees the domestic enforcement of federal laws and the administration of justice. It is equivalent to the justice or interior ministries of other countries. The department is headed by the United States attorney general, who reports directly to the president of the United States and is a member of the president's Cabinet. Todd Blanche currently serves as the attorney general."
+    "The Miracle of the Sun, also known as the Miracle of Fátima, is a series of events reported to have occurred miraculously on 13 October 1917, attended by a large crowd who had gathered in Fátima, Portugal, in response to a prophecy made by three shepherd children, Lúcia Santos and Francisco and Jacinta Marto. The prophecy was that the Virgin Mary would appear and perform miracles on that date. Newspapers published testimony from witnesses who said that they had seen extraordinary solar activity, such as the Sun appearing to \"dance\" or zig-zag in the sky, advance towards the Earth, or emit multicolored light and radiant colors. According to these reports, the event lasted approximately ten minutes."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1928,
-   "text": "The iron lung (example pictured), a type of medical ventilator, was used for the first time at the Boston Children's Hospital to treat an eight-year-old girl paralyzed by polio.",
+   "year": 1911,
+   "text": "Prince Arthur, a son of Queen Victoria, became the first Governor General of Canada of royal descent, as well as the first Prince of Great Britain and Ireland to hold that position.",
    "context": [
-    "An iron lung is negative pressure ventilator and mechanical respirator which encloses most of the patient's body. The air pressure inside the enclosed space stimulates breathing. The device is used to assist breathing when muscle control is lost. This treatment was historically helpful for polio and botulism, and for counteracting the effects of barbiturates and tubocurarine.\nThe iron lung has become largely obsolete in modern medicine, replaced by more advanced breathing therapies. Polio eradication in most of the world also reduced the need for the iron lung. In 2020, during the COVID-19 pandemic, interest in these devices was revived as a cheap, readily-producible substitute for positive-pressure ventilators which were in short supply."
+    "Prince Arthur, Duke of Connaught and Strathearn, was the seventh child and third son of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha. He served as Governor General of Canada, the tenth since Canadian Confederation and the only British prince to do so."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1917,
-   "text": "First World War: New Zealand troops suffered more than 2,000 casualties, including more than 800 deaths, in the First Battle of Passchendaele, making it the nation's largest loss of life in one day.",
+   "year": 1908,
+   "text": "British suffragette Margaret Travers Symons became the first woman to speak in the House of Commons when she escaped from her escort into the chamber and shouted at the assembly.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "A suffragette was a member or supporter of the British Women's Social and Political Union (WSPU), an activist women's group agitating for votes for women, which in the early 20th century broke away from the much larger, peaceful and longer lasting National Union of Women's Suffrage Societies (NUWSS), whose supporters were known as suffragists. Both organisations campaigned for the right to vote in public elections in the United Kingdom. However, the Women's Social and Political Union, a women-only movement founded in 1903 by Emmeline Pankhurst, engaged in direct action and civil disobedience as a result of what they saw as slow progress towards universal suffrage. In 1906, a journalist writing in the Daily Mail coined the term suffragette for the WSPU, derived from suffragistα, reportedly to 'indicate that special revolutionary quality of impatience which marked the new variety of suffragist', although Elizabeth Crawford, a researcher and author on the women's suffrage movement, has suggested it was to 'belittle and to show that they were less than the proper kind of suffrage worker'. Whatever the truth was, the militants embraced the new name, even adopting it for use as the title of the newspaper published by the WSPU."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1898,
-   "text": "A statue of Austin Blair (pictured) was dedicated in a ceremony that attracted up to 30,000 people to Lansing, Michigan.",
+   "year": 1814,
+   "text": "War of 1812: After three days of fighting, the beached U.S. Revenue Cutter Service vessel Eagle was captured by the Royal Navy.",
    "context": [
-    "Austin Blair is a monument located on the grounds of the Michigan State Capitol in Lansing, Michigan, United States. It consists of a bronze statue that was designed by sculptor Edward Clark Potter atop a granite pedestal that was designed by the architectural firm of Donaldson and Meier. It was dedicated in 1898 in honor of Austin Blair, a politician who had served as the governor of Michigan and as a member of the United States House of Representatives."
+    "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Senate on 17 February 1815."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1892,
-   "text": "The Pledge of Allegiance of the United States was first used in public schools to coincide with the opening of the World's Columbian Exposition in Chicago.",
+   "year": 1812,
+   "text": "War of 1812: British troops and Mohawk warriors repelled an American invasion from across the Niagara River at the Battle of Queenston Heights near Queenston, Ontario.",
    "context": [
-    "The U.S. Pledge of Allegiance is a patriotic recited verse that promises allegiance to the flag of the United States and the republic of the United States. The first version was written in 1885 by Captain George Thatcher Balch, a Union army officer in the Civil War who later wrote a book on how to teach patriotism to children in public schools. In 1892, Francis Bellamy revised Balch's verse as part of a magazine promotion surrounding the World's Columbian Exposition, which celebrated the 400th anniversary of Christopher Columbus' arrival in the Americas."
+    "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Senate on 17 February 1815."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1890,
-   "text": "The Uddevalla Suffrage Association was founded in Uddevalla, Sweden, with the purpose of bringing about universal suffrage.",
+   "year": 1773,
+   "text": "French astronomer Charles Messier discovered the Whirlpool Galaxy (pictured), an interacting, grand design spiral galaxy located an estimated 31 million light-years away.",
    "context": [
-    "\nThe Uddevalla Suffrage Association was a late-19th-century political movement founded in Uddevalla, Sweden. Local historians and the Swedish Social Democratic Party consider it the first political predecessor of the Swedish labour movement in the province of Bohuslän. Its purpose was to bring about universal suffrage in Sweden: At the time, suffrage in the country was restricted to men and based on personal wealth, therefore excluding most of the urban and rural working class from the electoral process. The Uddevalla Suffrage Association was one of many groups throughout Sweden that helped bring democratic thought into the common discourse and make way for the political breakthrough of the labour movement."
+    "Charles Messier was a French astronomer. He published an astronomical catalogue consisting of 110 nebulae and star clusters, which came to be known as the Messier objects, referred to with the letter M and their number between 1 and 110. Messier's purpose for the catalogue was to help astronomical observers distinguish between permanent and transient visually diffuse objects in the sky."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1799,
-   "text": "Jeanne Geneviève Garnerin became the first woman to make a parachute descent, falling 900 metres (3,000 ft) in the gondola of a hot air balloon.",
+   "year": 1710,
+   "text": "Queen Anne's War: French and Wabanaki forces surrendered to end the Siege of Port Royal, giving the British permanent possession of Nova Scotia.",
    "context": [
-    "Jeanne Geneviève Garnerin was a French balloonist and parachutist. She was the first to ascend solo and the first woman to make a parachute descent, from an altitude of 900 metres (3,000 ft) on 12 October 1799."
+    "Queen Anne's War (1702–1713) was the second in a series of French and Indian Wars fought in North America involving the colonial empires of Great Britain, France, and Spain. In the United States, it is regarded as a standalone conflict. Elsewhere it is viewed as the American theater of the War of the Spanish Succession. It is also known as the Third Indian War. In France it was known as the Second Intercolonial War."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1798,
-   "text": "The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers.",
+   "year": 1307,
+   "text": "Agents of King Philip IV of France launched a raid on the Knights Templar at dawn, arresting many members, subsequently torturing them into giving false confessions and burning them at the stake.",
    "context": [
-    "The Peasants' War was a peasant revolt in 1798 against the French Republican occupiers of the Southern Netherlands, a region which now includes Belgium, Luxembourg, and parts of Germany. The French had annexed the region in 1795 and control of the region was officially ceded to the French after the Treaty of Campo Formio in 1797. The revolt is considered part of the French Revolutionary Wars."
+    "Philip IV, called Philip the Fair, was King of France from 1285 to 1314. By virtue of his marriage with Joan I of Navarre, he was also King of Navarre and Count of Champagne as Philip I from 1284 to 1305. Although Philip was known to be handsome, hence the epithet le Bel, his rigid, autocratic, imposing, and inflexible personality gained him other nicknames, such as the Iron King. His fierce opponent Bernard Saisset, bishop of Pamiers, said of him: \"He is neither man nor beast. He is a statue.\""
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1492,
-   "text": "Believing he had reached the East Indies, Christopher Columbus made landfall on an island in the Caribbean, sparking a series of events that led to the European colonization of the Americas.",
+   "year": 645,
+   "text": "Goguryeo–Tang War: Led by Emperor Taizong, the Tang army was forced to abandon a siege of Ansi Fortress.",
    "context": [
-    "The East Indies is a term used in historical narratives of the Age of Discovery. The Indies broadly referred to various lands in the East or the Eastern Hemisphere, particularly the islands and mainlands found in and around the Indian Ocean by Portuguese explorers, soon after the Cape Route was discovered. In a narrow sense, the term was used to refer to the Malay Archipelago, which today comprises the Indonesian Archipelago, New Guinea, and the Philippine Archipelago. Historically, the term was used in the Age of Discovery to refer to the coasts of the landmasses comprising the Indian subcontinent and the Indochinese Peninsula along with the Malay Archipelago."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1406,
-   "text": "Chen Yanxiang, the only person from Indonesia known to have visited dynastic Korea, reached Seoul after having set out from Java four months before.",
-   "context": [
-    "Chen Yanxiang was a merchant of Chinese origin, probably based on the Indonesian island of Java, who visited Joseon Korea and Muromachi Japan between 1394 and 1412. The only source for his life is the Korean Joseon Veritable Records, from which a \"particularly colorful career\" can be seen."
+    "The Goguryeo–Tang War occurred from 645 to 668 and was fought between Goguryeo and the Tang dynasty. During the course of the war, the two sides allied with various other states. Goguryeo successfully repulsed the invading Tang armies during the first Tang invasions of 645–648. After conquering Baekje in 660, Tang and Silla armies invaded Goguryeo from the north and south in 661, but were forced to withdraw in 662. In 666, Yŏn Kaesomun died and Goguryeo became plagued by violent dissension, numerous defections, and widespread demoralization. The Tang–Silla alliance mounted a fresh invasion in the following year, aided by the defector Yŏn Namsaeng. In late 668, exhausted from numerous military attacks and suffering from internal political chaos, Goguryeo and the remnants of Baekje army succumbed to the numerically superior armies of the Tang dynasty and Silla."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Hockey-stick growth (צמיחת מקל הוקי)",
+  "Asymmetric bet (הימור א-סימטרי)",
+  "Burning the boats (לשרוף את הסיפונים)",
   "Working capital (הון חוזר)",
   "Sweat equity (הון מאמץ)",
   "Low-hanging fruit (פרי בשל)",

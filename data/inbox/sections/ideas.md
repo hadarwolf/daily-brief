@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -151,75 +151,85 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
-     "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
-     "published": "2026-10-12T10:06:32+00:00",
-     "summary": "More soon! The post The Nobel Prize Goes to Robert Hall and Michael Woodford appeared first on Marginal REVOLUTION ."
+     "title": "Monday assorted links",
+     "published": "2026-10-12T18:22:31+00:00",
+     "summary": "1. The cloud and economic concentration, the endgame? 2. Industrial policy for drones? 3. Samir Varma on AI and Linnaeus. 4. Pan-African Review. 5. A worldview different from mine. 6. John Cochrane on the Nobel. The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
      "ref": "marginal_revolution#1",
+     "title": "Michael Woodford, Nobel Laureate",
+     "published": "2026-10-12T12:20:40+00:00",
+     "summary": "I think of Michael Woodford as the kind of economist who studies something very specific very intensively and tries to get it just right. But in his case he is not studying something small and irrelevant, he is studying “monetary policy.” I think of him as the economist who put monetary policy and “monetarism” — […] The post Michael Woodford, Nobel Laureate appeared first on Marginal REVOLUTION .",
+     "full_text_file": "essays/marginal_revolution_1.txt"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Robert E. Hall, Nobel Laureate",
+     "published": "2026-10-12T11:59:30+00:00",
+     "summary": "Alex has already covered this, I will add a few remarks. First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones. Here is Bob on scholar.google.com. […] The post Robert E. Hall, Nobel Laureate appeared first on Marginal REVOLUT",
+     "full_text_file": "essays/marginal_revolution_2.txt"
+    },
+    {
+     "ref": "marginal_revolution#3",
+     "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
+     "published": "2026-10-12T10:06:32+00:00",
+     "summary": "Twenty-five years ago Tyler told me he thought Robert Hall should win the Nobel. He has been a contender for so long today’s award was a surprise! Hall has an unusual number of unexpectedly creative papers. His best known is on consumption. Start with the textbook Keynesian model: Y = C + I + G […] The post The Nobel Prize Goes to Robert Hall and Michael Woodford appeared first on Marginal REVOLUT",
+     "full_text_file": "essays/marginal_revolution_3.txt"
+    },
+    {
+     "ref": "marginal_revolution#4",
+     "title": "Michael Woodford Wins Nobel",
+     "published": "2026-10-12T10:05:58+00:00",
+     "summary": "No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford’s Interest and Prices (2003) has been called the central bankers’ bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even if his name […] The post Michael Woodford Wins Nobel appeared first on Marginal REVOLUTION .",
+     "full_text_file": "essays/marginal_revolution_4.txt"
+    },
+    {
+     "ref": "marginal_revolution#5",
      "title": "Okie-dokie, Casey Handmer edition",
      "published": "2026-10-12T04:20:47+00:00",
      "summary": "I’ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions. There are about 100m papers in the scientific corpus. Most are not important. Many […] The post Okie-dokie, Casey Handmer edition appeared first"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#6",
      "title": "Sunday assorted links",
      "published": "2026-10-11T16:17:20+00:00",
      "summary": "1. Was Leonardo da Vinci Jewish? 2. Twenty things to listen to in classical music. 3. Ezra Klein and Arvind Narayanan on AI as a normal technology (NYT). 4. Gans and Acemoglu on AI. 5. The return of Audrey Niffenegger. 6. Podcasts as the new form of comedy? (New Yorker) 7. PC on Dostoyevsky. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#7",
      "title": "Sky Roomba!",
      "published": "2026-10-11T11:14:21+00:00",
      "summary": "I bought a robot window cleaner. I have some high windows which need a ladder just to get the bottom and with this I can just start the robot at the bottom, it cleans the window and then returns to the start point. The bot cost me considerably less than it would have cost to […] The post Sky Roomba! appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#8",
      "title": "What should I ask Fuchsia Dunlop?",
      "published": "2026-10-11T08:52:47+00:00",
      "summary": "Yes I will be doing a fourth (!) Conversation with her, based in part on her forthcoming book Five Tastes: Delicious Recipes for Chinese Flavors. I am sure it is excellent, and will read it very soon. Her works are not just great cookbooks, they are among the best books period. Here are my previous […] The post What should I ask Fuchsia Dunlop? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#9",
      "title": "The economics of agents",
      "published": "2026-10-11T04:56:43+00:00",
      "summary": "From Patrick Collison: Assorted things I’ve been mulling over regarding agents in the economy: • Companies are in some sense the original superintelligence. It’s often the case that they can use their amortized cognitive surplus to advance their interests against those of certain consumers: relative to the optimization capacity of companies, consumers can be inattentive, […] The post The economics"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#10",
      "title": "Saturday assorted links",
      "published": "2026-10-10T16:34:52+00:00",
      "summary": "1. Claes Backman’s practical AI for academics. 2. Platypus Economics on red diesel. 3. Those new service sector jobs, Indian cricket edition. 4. Will AI make us more technocratic? 5. What should a scientific paper look like? 6. Screening for twins? 7. Chris Wickham, RIP. The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#11",
      "title": "Earth facts of the day",
      "published": "2026-10-10T07:31:46+00:00",
      "summary": "Global call center headcount is 5.3% below its December 2023 peak, ending more than a decade of growth. It has fallen year over year for eight straight quarters, a decline that started in high-income countries and coincided with the rise of AI chatbots. Call center support is falling behind other white-collar work in the same […] The post Earth facts of the day appeared first on Marginal REVOLUTIO"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#12",
      "title": "California in-migration and out-migration",
      "published": "2026-10-10T04:26:55+00:00",
      "summary": "Long-run U.S. population movements have been driven more by natural amenities than by jobs, and California, rich in both uniform and complementary climates, should be a persistent net gainer of domestic migrants. It has instead lost residents to other states every year since about 1990. This paper argues that its amenities are unchanged and that […] The post California in-migration and out-migrati"
-    },
-    {
-     "ref": "marginal_revolution#9",
-     "title": "The origin of risk",
-     "published": "2026-10-09T18:20:57+00:00",
-     "summary": "From the QJE, by Alexandr Kopytov, Mathieu Taschereau-Dumouchel, and Zebang Xu: We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other […] The post The origin of risk appeared first on Margi"
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "Ethiopia update",
-     "published": "2026-10-09T16:24:04+00:00",
-     "summary": "Ethiopia is the center of the world right now as it has returned to war. Ethiopian forces retook Mekelle from rebel forces, but the fighting has extended beyond Tigray. Eritrean forces allegedly entered Tigray, and Ethiopia responded with drone attacks. The war could go a number of ways. The war extends beyond Ethiopia. Sara Al-Saeed […] The post Ethiopia update appeared first on Marginal REVOLUTI"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Friday assorted links",
-     "published": "2026-10-09T16:06:02+00:00",
-     "summary": "1. Charles Kenny on foreign aid. 2. Rise and fall of the plasma screen. 3. France also has very high private debt. 4. Ross Douthat will do a weekly column for The Free Press. And from Ross himself. 5. Encryption risk? 6. “The Altruists premieres November 19.” 7. Emily Wilson on various Canadian writers. The post Friday assorted links appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -320,38 +330,40 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
+     "title": "Is ‘Attention’ the Essence of Intelligence?",
+     "published": "2026-10-12T14:20:30+00:00",
+     "summary": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_0.txt"
+    },
+    {
+     "ref": "quanta#1",
      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
      "published": "2026-10-09T14:03:07+00:00",
      "summary": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas. The post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#1",
+     "ref": "quanta#2",
      "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
      "published": "2026-10-07T15:08:46+00:00",
      "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#2",
+     "ref": "quanta#3",
      "title": "Is AI the End of Math As We Know It?",
      "published": "2026-10-05T13:40:07+00:00",
      "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#3",
+     "ref": "quanta#4",
      "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
      "published": "2026-10-02T14:45:02+00:00",
      "summary": "Scientists assumed that energy flows in only one direction in a turbulent system. What they didn’t know, until they looked closely at brine shrimp, was that a simple factor can reverse the flow. The post Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence first appeared on Quanta Magazine"
-    },
-    {
-     "ref": "quanta#4",
-     "title": "What Does the Fourth Dimension Actually Look Like?",
-     "published": "2026-10-01T13:20:29+00:00",
-     "summary": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "The Racial Trauma of Black Men Is Hidden Behind the Label 'Threat'",
   "Moving on from a breakup isn't healing — it's a philosophical project of self-construction, and it makes you better",
   "The Economist Who Argued Poverty, Empire and Ecology Were One Problem",
   "A Rumored AI Proof Set Off a Publishing Race in Math — and a Debate Over What Gets Lost",
