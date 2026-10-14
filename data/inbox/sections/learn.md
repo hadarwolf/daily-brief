@@ -24,142 +24,217 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2019,
-   "text": "At the Chicago Marathon, Kenyan runner Brigid Kosgei (pictured) set the marathon world record for women running in a mixed-sex race.",
+   "year": 2021,
+   "text": "Approximately 10,000 John Deere employees went on strike in one of the largest private-sector strikes in the United States.",
    "context": [
-    "The 2019 Chicago Marathon was the 42nd annual running of the Chicago Marathon held in Chicago, Illinois, United States on October 13, 2019. The men's race was won by Kenyan Lawrence Cherono in 2:05:45 while the women's was won by Kenyan Brigid Kosgei in 2:14:04, a world record by 81 seconds. The men's and women's wheelchair races were won by Daniel Romanchuk and Manuela Schär in 1:30:26 and 1:41:08, respectively. More than 45,000 runners completed the race."
+    "Deere & Company, is an American corporation that manufactures agricultural machinery, heavy equipment, forestry machinery, diesel engines, drivetrains used in heavy equipment and lawn care equipment. It also provides financial services and other related activities."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2016,
-   "text": "The King of Thailand, Bhumibol Adulyadej, died after 70 years on the throne, at which point was the longest-reigning current monarch.",
+   "year": 2014,
+   "text": "A snowstorm and series of avalanches occurred on and around the Himalayan peaks of Annapurna and Dhaulagiri, resulting in the deaths of at least 43 people.",
    "context": [
-    "The monarchy of Thailand is the constitutional form of government of Thailand. The king of Thailand is the head of state and head of the ruling Chakri dynasty."
+    "The 2014 Nepal snowstorm disaster occurred in central Nepal on 14 October 2014 and resulted in the deaths of at least 43 people of various nationalities, including at least 21 trekkers. Injuries and fatalities resulted from unusually severe snowstorms and avalanches on and around the mountains of Annapurna and Dhaulagiri. The incident was said to be Nepal's worst trekking disaster."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2013,
-   "text": "During the Hindu festival of Navaratri at a temple in Madhya Pradesh, India, rumours about an impending bridge collapse caused a stampede that resulted in 115 deaths.",
+   "year": 2012,
+   "text": "Felix Baumgartner jumped from a helium balloon in the stratosphere to become the first person to break the sound barrier without vehicular power.",
    "context": [
-    "Navaratri is an annual Hindu festival that honours Shakti, the divine feminine power in Hinduism, through the worship of the nine forms of Goddess Durga, over a period of nine nights. The festival is celebrated in varying ways across the Hindu Indian cultural sphere."
+    "Felix Baumgartner was an Austrian skydiver, extreme sportsman, and BASE jumper. He was widely known for jumping to Earth from a helium balloon in the stratosphere on 14 October 2012 and landing in New Mexico, United States, as part of the Red Bull Stratos project. By doing so, he set world records for skydiving an estimated 39 km (24 mi), reaching an estimated top speed of 1,357.64 km/h (843.6 mph), or Mach 1.25. He became the first person to break the sound barrier relative to the surface without vehicular power on his descent. He broke skydiving records for exit altitude, vertical freefall distance without a drogue parachute, and vertical speed without a drogue. Although his name is still attached to the last two records, his exit altitude record was broken two years later, when on 24 October 2014, Alan Eustace jumped from 135,890 feet with a drogue."
    ]
   },
   {
    "ref": "wikipedia#3",
    "year": 2011,
-   "text": "The Dragon King of Bhutan, Jigme Khesar Namgyel Wangchuck (pictured) married Jetsun Pema at the Punakha Dzong.",
+   "text": "Michael Woodford was dismissed as the CEO of the optics manufacturer Olympus after uncovering internal financial misconduct, escalating the corporate scandal into one of the largest in Japanese business history.",
    "context": [
-    "The King of Bhutan, officially the Druk Gyalpo, is the constitutional monarch and head of state of the Kingdom of Bhutan. In the Dzongkha language, Bhutan is known as Drukyul which translates as \"The Land of the Thunder Dragon\". Thus, while kings of Bhutan are known as Druk Gyalpo, the Bhutanese people call themselves the Drukpa, meaning \"people of Druk (Bhutan)\"."
+    "Michael Christopher Woodford, MBE is an English businessman who was formerly president and COO and CEO of Japan-based optics and reprography products manufacturer Olympus Corporation."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1994,
-   "text": "The Troubles: In a meeting at Fernhill House, Belfast, loyalist leader Gusty Spence announced that the Combined Loyalist Military Command would observe a ceasefire.",
+   "year": 1980,
+   "text": "The 6th Congress of the Workers' Party concluded, having anointed North Korean president Kim Il Sung's son Kim Jong Il as his successor.",
    "context": [
-    "The Troubles were an ethno-nationalist conflict in Northern Ireland that lasted from the late 1960s to 1998. Also known internationally as the Northern Ireland conflict, it is usually deemed to have ended with the Good Friday Agreement of 1998. Although centred in Northern Ireland, violence at times spilled into the Republic of Ireland, England, and mainland Europe. The conflict arose from political and nationalistic disputes with a strong ethnic and sectarian dimension. Unionists and loyalists, mostly Ulster Protestants, wanted Northern Ireland to remain in the United Kingdom, while Irish nationalists and republicans, mostly Irish Catholics, wanted it to join a united Ireland. Despite the division between Protestants and Catholics, it was not a religious war."
+    "The 6th Congress of the Workers' Party of Korea (WPK) was held in the February 8 House of Culture in Pyongyang, North Korea, from 10 to 14 October 1980. The congress is the highest organ of the party, and is stipulated to be held every four years. 3,062 delegates represented the party's membership; 117 foreign delegates attended the congress, without the right to speak. The congress saw the reappointment of Kim Il Sung as WPK General Secretary and the Presidium of the Politburo established as the highest organ of the party between congresses."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1972,
-   "text": "Uruguayan Air Force Flight 571 crashed into a remote area in the Andes mountains near the border of Chile and Argentina; the 16 remaining survivors were not rescued until more than two months later.",
+   "year": 1979,
+   "text": "At least 75,000 people attended the National March on Washington for Lesbian and Gay Rights in Washington, D.C., to demand equal civil rights for LGBT people.",
    "context": [
-    "Uruguayan Air Force Flight 571 was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains in Argentina on 13 October 1972. The accident and subsequent survival became known as both the Andes flight disaster and the Miracle of the Andes."
+    "The first National March on Washington for Lesbian and Gay Rights was a large political rally that took place in Washington, D.C., on October 14, 1979. The first such march on Washington, it drew between 75,000 and 125,000 gay men, lesbians, bisexual people, and straight allies to demand equal civil rights and urge the passage of protective civil rights legislation."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1961,
-   "text": "Newly elected Burundian prime minister Louis Rwagasore was assassinated by his political rivals.",
+   "year": 1964,
+   "text": "Members of the Politburo voted to remove Nikita Khrushchev as First Secretary of the Communist Party of the Soviet Union and replace him with Leonid Brezhnev.",
    "context": [
-    "Prince Louis Rwagasore was a Burundian prince and politician, who was the second prime minister of Burundi for two weeks, from 28 September 1961 until his assassination on 13 October."
+    "The Political Bureau of the Central Committee of the Communist Party of the Soviet Union, abbreviated as Politburo, was the de facto highest executive authority in the Communist Party of the Soviet Union (CPSU). While elected by and formally accountable to the Central Committee, in practice the Politburo operated as the ruling body of Soviet Russia and the Soviet Union from its creation in 1919 until the party's dissolution in 1991. Full members and candidate (non-voting) members held among the most powerful positions in the Soviet hierarchy, often overlapping with top state roles. Its duties, typically carried out at weekly meetings, included formulating state policy, issuing directives, and ratifying appointments."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1921,
-   "text": "The Soviet republics of Russia, Armenia, Azerbaijan, and Georgia signed the Treaty of Kars with the Grand National Assembly of Turkey, establishing the current borders between Turkey and the Caucasian states.",
+   "year": 1957,
+   "text": "After three days of heavy rain, the Turia overflowed and flooded the city of Valencia, Spain, causing at least 81 deaths.",
    "context": [
-    "The Russian Soviet Federative Socialist Republic was a revolutionary, and later, communist state from 1917 to 1922, and afterwards the largest and most populous constituent republic of the Soviet Union (USSR) from 1922 to 1991, until becoming a sovereign part of the Soviet Union with priority of Russian laws over Union-level legislation in 1990 and 1991, the last two years of the existence of the USSR. The Russian SFSR was composed of sixteen smaller constituent units of autonomous republics, five autonomous oblasts, ten autonomous okrugs, six krais and forty oblasts. Russians formed the largest ethnic group. The capital of the Russian SFSR and the USSR as a whole was Moscow and the other major urban centers included Leningrad, Stalingrad, Novosibirsk, Sverdlovsk, Gorky and Kuybyshev."
+    "The Turia or Túria is a river in Spain, which has its source in the Montes Universales in the mountain ranges of the northwesternmost end of the Sistema Ibérico, Teruel province. From its source to roughly the city of Teruel, it is called Guadalaviar. It runs through the provinces of Teruel, Cuenca and Valencia, and discharges into the Mediterranean Sea near the city of Valencia. The river formerly ran through the center of the city but was diverted south of the city to prevent flooding."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1917,
-   "text": "At least 30,000 people witnessed the Miracle of the Sun in the fields of Cova da Iria near Fátima, Portugal.",
+   "year": 1956,
+   "text": "The Queen Elizabeth Way, North America's first intercity divided highway, opens.",
    "context": [
-    "The Miracle of the Sun, also known as the Miracle of Fátima, is a series of events reported to have occurred miraculously on 13 October 1917, attended by a large crowd who had gathered in Fátima, Portugal, in response to a prophecy made by three shepherd children, Lúcia Santos and Francisco and Jacinta Marto. The prophecy was that the Virgin Mary would appear and perform miracles on that date. Newspapers published testimony from witnesses who said that they had seen extraordinary solar activity, such as the Sun appearing to \"dance\" or zig-zag in the sky, advance towards the Earth, or emit multicolored light and radiant colors. According to these reports, the event lasted approximately ten minutes."
+    "The Queen Elizabeth Way (QEW) is a 400-series highway in the Canadian province of Ontario linking Toronto with Fort Erie in the Niagara Peninsula. The highway begins at the Canada–United States border on the Peace Bridge and travels 139.1 kilometres (86.4 mi) around the western end of Lake Ontario, ending at Highway 427 near the western border of Toronto. The freeway continues as the Gardiner Expressway into downtown Toronto. The QEW is one of Ontario's busiest highways, with an average of close to 250,000 vehicles per day on some sections."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1911,
-   "text": "Prince Arthur, a son of Queen Victoria, became the first Governor General of Canada of royal descent, as well as the first Prince of Great Britain and Ireland to hold that position.",
+   "year": 1956,
+   "text": "B. R. Ambedkar, a leader of India's \"Untouchable\" caste, publicly converted to Buddhism and became the leader of the Dalit Buddhist movement.",
    "context": [
-    "Prince Arthur, Duke of Connaught and Strathearn, was the seventh child and third son of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha. He served as Governor General of Canada, the tenth since Canadian Confederation and the only British prince to do so."
+    "Bhimrao Ramji Ambedkar was an Indian jurist, economist, social reformer and politician who chaired the committee that drafted the Constitution of India based on the debates of the Constituent Assembly of India and the first draft of Sir Benegal Narsing Rau. Ambedkar served as Law and Justice minister in the first cabinet of Jawaharlal Nehru. He later renounced Hinduism and converted to Buddhism, inspiring the Dalit Buddhist movement."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1908,
-   "text": "British suffragette Margaret Travers Symons became the first woman to speak in the House of Commons when she escaped from her escort into the chamber and shouted at the assembly.",
+   "year": 1953,
+   "text": "Israeli military commander Ariel Sharon and his Unit 101 special forces attacked the village of Qibya on the West Bank, destroying 45 buildings, killing 42 villagers, and wounding 15 others.",
    "context": [
-    "A suffragette was a member or supporter of the British Women's Social and Political Union (WSPU), an activist women's group agitating for votes for women, which in the early 20th century broke away from the much larger, peaceful and longer lasting National Union of Women's Suffrage Societies (NUWSS), whose supporters were known as suffragists. Both organisations campaigned for the right to vote in public elections in the United Kingdom. However, the Women's Social and Political Union, a women-only movement founded in 1903 by Emmeline Pankhurst, engaged in direct action and civil disobedience as a result of what they saw as slow progress towards universal suffrage. In 1906, a journalist writing in the Daily Mail coined the term suffragette for the WSPU, derived from suffragistα, reportedly to 'indicate that special revolutionary quality of impatience which marked the new variety of suffragist', although Elizabeth Crawford, a researcher and author on the women's suffrage movement, has suggested it was to 'belittle and to show that they were less than the proper kind of suffrage worker'. Whatever the truth was, the militants embraced the new name, even adopting it for use as the title of the newspaper published by the WSPU."
+    "Ariel \"Arik\" Sharon was an Israeli general and politician who served as the prime minister of Israel from March 2001 until April 2006."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1814,
-   "text": "War of 1812: After three days of fighting, the beached U.S. Revenue Cutter Service vessel Eagle was captured by the Royal Navy.",
+   "year": 1949,
+   "text": "The first of the Smith Act trials concluded in New York City, with eleven leaders of the Communist Party of the United States found guilty of violating the Smith Act.",
    "context": [
-    "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Senate on 17 February 1815."
+    "The Smith Act trials of Communist Party leaders were a series of trials held from 1949 to 1958 in which leaders of the Communist Party of the United States (CPUSA) were accused of violating the Smith Act, a 1940 statute that set penalties for advocating the violent overthrow of the government. The defendants argued that they advocated a peaceful transition to socialism, and that the First Amendment's guarantee of freedom of speech and of association protected their membership in a political party. Appeals from these trials reached the US Supreme Court, which ruled on issues in Dennis v. United States (1951) and Yates v. United States (1957)."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1812,
-   "text": "War of 1812: British troops and Mohawk warriors repelled an American invasion from across the Niagara River at the Battle of Queenston Heights near Queenston, Ontario.",
+   "year": 1947,
+   "text": "American test pilot Chuck Yeager became the first person to break the sound barrier, reaching Mach 1.06 on board the Bell X-1, an experimental rocket-powered aircraft.",
    "context": [
-    "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Senate on 17 February 1815."
+    "Charles Elwood Yeager was a United States Air Force officer, flying ace, and record-setting test pilot who in October 1947 became the first pilot in history confirmed to have exceeded the speed of sound in level flight."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1773,
-   "text": "French astronomer Charles Messier discovered the Whirlpool Galaxy (pictured), an interacting, grand design spiral galaxy located an estimated 31 million light-years away.",
+   "year": 1943,
+   "text": "World War II: During the second raid on Schweinfurt, the U.S. 8th Air Force suffered so many losses that it lost air supremacy over Germany for several months.",
    "context": [
-    "Charles Messier was a French astronomer. He published an astronomical catalogue consisting of 110 nebulae and star clusters, which came to be known as the Messier objects, referred to with the letter M and their number between 1 and 110. Messier's purpose for the catalogue was to help astronomical observers distinguish between permanent and transient visually diffuse objects in the sky."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1710,
-   "text": "Queen Anne's War: French and Wabanaki forces surrendered to end the Siege of Port Royal, giving the British permanent possession of Nova Scotia.",
+   "year": 1943,
+   "text": "The Holocaust: Prisoners at Sobibor extermination camp revolted, killing 11 SS officers and staging a mass escape.",
    "context": [
-    "Queen Anne's War (1702–1713) was the second in a series of French and Indian Wars fought in North America involving the colonial empires of Great Britain, France, and Spain. In the United States, it is regarded as a standalone conflict. Elsewhere it is viewed as the American theater of the War of the Spanish Succession. It is also known as the Third Indian War. In France it was known as the Second Intercolonial War."
+    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1307,
-   "text": "Agents of King Philip IV of France launched a raid on the Knights Templar at dawn, arresting many members, subsequently torturing them into giving false confessions and burning them at the stake.",
+   "year": 1943,
+   "text": "The Second Philippine Republic, a Japanese puppet state, was established with Jose P. Laurel as its first president.",
    "context": [
-    "Philip IV, called Philip the Fair, was King of France from 1285 to 1314. By virtue of his marriage with Joan I of Navarre, he was also King of Navarre and Count of Champagne as Philip I from 1284 to 1305. Although Philip was known to be handsome, hence the epithet le Bel, his rigid, autocratic, imposing, and inflexible personality gained him other nicknames, such as the Iron King. His fierce opponent Bernard Saisset, bishop of Pamiers, said of him: \"He is neither man nor beast. He is a statue.\""
+    "The Second Philippine Republic, officially the Republic of the Philippines and also known as the Japanese-sponsored Philippine Republic, was a pro-Axis government established on October 14, 1943, during the Japanese occupation of the islands until its dissolution on August 17, 1945."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 645,
-   "text": "Goguryeo–Tang War: Led by Emperor Taizong, the Tang army was forced to abandon a siege of Ansi Fortress.",
+   "year": 1940,
+   "text": "Second World War: During the Blitz, a semi-armour-piercing fragmentation bomb fell on the road above Balham station in London, which was being used as an air raid shelter, killing at least 64 people.",
    "context": [
-    "The Goguryeo–Tang War occurred from 645 to 668 and was fought between Goguryeo and the Tang dynasty. During the course of the war, the two sides allied with various other states. Goguryeo successfully repulsed the invading Tang armies during the first Tang invasions of 645–648. After conquering Baekje in 660, Tang and Silla armies invaded Goguryeo from the north and south in 661, but were forced to withdraw in 662. In 666, Yŏn Kaesomun died and Goguryeo became plagued by violent dissension, numerous defections, and widespread demoralization. The Tang–Silla alliance mounted a fresh invasion in the following year, aided by the defector Yŏn Namsaeng. In late 668, exhausted from numerous military attacks and suffering from internal political chaos, Goguryeo and the remnants of Baekje army succumbed to the numerically superior armies of the Tang dynasty and Silla."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 1939,
+   "text": "Second World War: The German submarine U-47 torpedoed and sank the Royal Navy battleship HMS Royal Oak while the latter was anchored at Scapa Flow in Orkney, Scotland.",
+   "context": [
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+   ]
+  },
+  {
+   "ref": "wikipedia#18",
+   "year": 1926,
+   "text": "The first book featuring English author A. A. Milne's fictional bear Winnie-the-Pooh was published.",
+   "context": [
+    "Winnie-the-Pooh is a 1926 children's book by English author A. A. Milne and English illustrator E. H. Shepard. The book is set in the fictional Hundred Acre Wood, with a collection of short stories following the adventures of an anthropomorphic teddy bear, Winnie-the-Pooh, and his friends Christopher Robin, Piglet, Eeyore, Owl, Rabbit, Kanga, and Roo. It is the first of two story collections by Milne about Winnie-the-Pooh, the second being The House at Pooh Corner (1928). Milne and Shepard collaborated previously for English humour magazine Punch, and in 1924 created When We Were Very Young, a poetry collection. Among the characters in the poetry book was a teddy bear Shepard modelled after his son's toy. Following this, Shepard encouraged Milne to write about his son Christopher Robin Milne's toys, and so they became the inspiration for the characters in Winnie-the-Pooh."
+   ]
+  },
+  {
+   "ref": "wikipedia#19",
+   "year": 1913,
+   "text": "The worst mining accident in the United Kingdom's history took place when an explosion resulted in 440 deaths at the Universal Colliery in Senghenydd, Wales.",
+   "context": [
+    "A mining accident is an accident that occurs during the process of mining minerals or metals. Thousands of miners die from mining accidents each year, especially from underground coal mining, although accidents also occur in hard rock mining. Coal mining is considered much more hazardous than hard rock mining due to flat-lying rock strata, generally incompetent rock, the presence of methane gas, and coal dust. Most of the deaths these days occur in developing countries, and rural parts of developed countries where safety measures are not practiced as fully. A mining disaster is an incident where there are five or more fatalities."
+   ]
+  },
+  {
+   "ref": "wikipedia#20",
+   "year": 1888,
+   "text": "French inventor Louis Le Prince filmed Roundhay Garden Scene (pictured), the earliest surviving motion picture, in Leeds, England.",
+   "context": [
+    "Louis Aimé Augustin Le Prince was a French-American artist, cinematographer and the inventor of an early motion-picture camera, and director of Roundhay Garden Scene. He was possibly the first person to shoot a moving picture sequence using a single lens camera and a strip of (paper) film. He has been credited as the \"Father of Cinematography\" but, due to his disappearance in 1890, his work did not influence the commercial development of cinema."
+   ]
+  },
+  {
+   "ref": "wikipedia#21",
+   "year": 1863,
+   "text": "American Civil War: In the Battle of Bristoe Station, the Union II Corps surprised and repelled the Confederate attack on the Union rearguard, resulting in a Union victory.",
+   "context": [
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as US president in 1860 and the growing abolitionist movement in the North. The war ended with Union victory, the dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+   ]
+  },
+  {
+   "ref": "wikipedia#22",
+   "year": 1805,
+   "text": "War of the Third Coalition: French forces under Marshal Michel Ney defeated Austrian forces in Elchingen, present-day Germany.",
+   "context": [
+    "The War of the Third Coalition was a European conflict lasting from 1805 to 1806 and was the first conflict of the Napoleonic Wars. During the war, France and its client states under Napoleon I and its ally Spain opposed an alliance, the Third Coalition, which was made up of the United Kingdom, the Austrian Empire, the Russian Empire, Naples, Sicily, and Sweden. Prussia remained neutral during the war."
+   ]
+  },
+  {
+   "ref": "wikipedia#23",
+   "year": 1758,
+   "text": "Third Silesian War: At the Battle of Hochkirch, an Austrian army under Leopold Joseph von Daun surprised the Prussians commanded by Frederick the Great, overwhelming them and forcing a general retreat.",
+   "context": [
+    "The Third Silesian War was a war between Prussia and Austria that lasted from 1756 to 1763 and confirmed Prussia's control of the region of Silesia. The war was fought mainly in Silesia, Bohemia and Upper Saxony and formed one theatre of the Seven Years' War. It was the last of three Silesian Wars fought between Frederick the Great's Prussia and Maria Theresa's Austria in the mid-18th century, all three of which ended in Prussian control of Silesia."
+   ]
+  },
+  {
+   "ref": "wikipedia#24",
+   "year": 1548,
+   "text": "Forces of the Burmese Toungoo dynasty led by King Tabinshwehti (depicted) departed Martaban to begin an invasion of the Ayutthaya Kingdom.",
+   "context": [
+    "The Toungoo dynasty, also spelt Taungoo dynasty and also known as the Nyaungyan dynasty (ညောင်ရမ်းမင်းဆက်) after 1599, was the ruling dynasty of Burma (Myanmar) from the mid-16th century to 1752. It is also called the Second Burmese Empire (ဒုတိယမြန်မာနိုင်ငံတော်) in Burmese historiography. At its peak, Toungoo \"exercised suzerainty from present-day Assam, Manipur to the Cambodian marches and from the borders of Arakan to Yunnan\" and was \"probably the largest empire in the history of Southeast Asia.\" The dynasty ruled in two periods: the First Toungoo Empire (1510–1599) and the Nyaungyan Restoration (1599–1752)."
+   ]
+  },
+  {
+   "ref": "wikipedia#25",
+   "year": 1066,
+   "text": "Norman Conquest: William the Conqueror's forces defeated the English army near Hastings and killed Harold Godwinson (event pictured), the last crowned Anglo-Saxon king of England.",
+   "context": [
+    "The Norman Conquest of England was an 11th-century invasion by an army made up of thousands of Norman, French, Flemish, and Breton troops, all led by the Duke of Normandy, later styled William the Conqueror."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Glut (עודף היצע)",
+  "Front-run (להקדים את המהלך)",
+  "Bagholder (מחזיק השקית)",
   "Hockey-stick growth (צמיחת מקל הוקי)",
   "Asymmetric bet (הימור א-סימטרי)",
   "Burning the boats (לשרוף את הסיפונים)",

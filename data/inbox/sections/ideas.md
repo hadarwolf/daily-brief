@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -37,15 +37,13 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#1",
      "title": "Africa’s cultural landmarks: tombs of Buganda kings",
      "published": "2026-10-12T10:01:00+00:00",
-     "summary": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#2",
      "title": "Is everything conscious?",
      "published": "2026-10-12T10:00:00+00:00",
-     "summary": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on Aeon",
-     "full_text_file": "essays/aeon_2.txt"
+     "summary": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on Aeon"
     },
     {
      "ref": "aeon#3",
@@ -151,85 +149,94 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Perry Mehrling, RIP",
+     "published": "2026-10-13T20:51:16+00:00",
+     "summary": "He and I were in the same Harvard class together, and spent a good deal of time talking economics together. We also were (briefly) bridge partners in a few games. I was a big fan of his book on Fischer Black. I am very sorry to see him gone. The post Perry Mehrling, RIP appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Tuesday assorted links",
+     "published": "2026-10-13T16:22:29+00:00",
+     "summary": "1. Jon Hartley on Bob Hall. And Chad Jones on Bob Hall. 2. Nicholas Decker on who might have won the prize. 3. Koyama tribute to Wickam. 4. A parallel AI adjudication track? 5. Kevin Kelly on swarm intelligence. 6. What each country read on Wikipedia yesterday. 7. Is MIT economics good at talent evaluation? […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Is Your Agent a Double Agent?",
+     "published": "2026-10-13T11:18:29+00:00",
+     "summary": "In the Manchurian Candidate a sleeper agent who has been brain-trained appears normal until a secret phrase–“Why don’t you pass the time by playing a little solitaire?”–triggers a state of hypnosis and control by the attackers. Connor Tabarrok, now with the AI safety firm Equistamp, has an excellent post on how this same technique can […] The post Is Your Agent a Double Agent? appeared first on Ma"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "*Lost Worlds*",
      "published": "2026-10-13T07:28:20+00:00",
      "summary": "The author is Patrick Wyman, and the subtitle is How Humans Tried, Failed, Succeeded, and Built Our World. An excellent book, it is a survey of (mostly) pre-Sumerian times, what we know about them, and how we have learned a lot lately. It is easy to read, yet the author properly stresses the complexity of […] The post *Lost Worlds* appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "“I have no mouth and I must scream”",
      "published": "2026-10-13T04:42:32+00:00",
      "summary": "Worth a reread, here is a new report from the front: Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial IoT devices, like smart ovens and off-brand Android TV boxes. A replicator like this would be challenging to shut down, since there’s no centralized point […] The post “I have no mouth and I must scream” appeared first on Mar"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Monday assorted links",
      "published": "2026-10-12T18:22:31+00:00",
      "summary": "1. The cloud and economic concentration, the endgame? 2. Industrial policy for drones? 3. Samir Varma on AI and Linnaeus. 4. Pan-African Review. 5. A worldview different from mine. 6. John Cochrane on the Nobel. The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "Michael Woodford, Nobel Laureate",
      "published": "2026-10-12T12:20:40+00:00",
      "summary": "I think of Michael Woodford as the kind of economist who studies something very specific very intensively and tries to get it just right. But in his case he is not studying something small and irrelevant, he is studying “monetary policy.” I think of him as the economist who put monetary policy and “monetarism” — […] The post Michael Woodford, Nobel Laureate appeared first on Marginal REVOLUTION .",
-     "full_text_file": "essays/marginal_revolution_3.txt"
-    },
-    {
-     "ref": "marginal_revolution#4",
-     "title": "Robert E. Hall, Nobel Laureate",
-     "published": "2026-10-12T11:59:30+00:00",
-     "summary": "Alex has already covered this, I will add a few remarks. First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones. Here is Bob on scholar.google.com. […] The post Robert E. Hall, Nobel Laureate appeared first on Marginal REVOLUT",
-     "full_text_file": "essays/marginal_revolution_4.txt"
-    },
-    {
-     "ref": "marginal_revolution#5",
-     "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
-     "published": "2026-10-12T10:06:32+00:00",
-     "summary": "Twenty-five years ago Tyler told me he thought Robert Hall should win the Nobel. He has been a contender for so long today’s award was a surprise! Hall has an unusual number of unexpectedly creative papers. His best known is on consumption. Start with the textbook Keynesian model: Y = C + I + G […] The post The Nobel Prize Goes to Robert Hall and Michael Woodford appeared first on Marginal REVOLUT",
-     "full_text_file": "essays/marginal_revolution_5.txt"
-    },
-    {
-     "ref": "marginal_revolution#6",
-     "title": "Michael Woodford Wins Nobel",
-     "published": "2026-10-12T10:05:58+00:00",
-     "summary": "No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford’s Interest and Prices (2003) has been called the central bankers’ bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even if his name […] The post Michael Woodford Wins Nobel appeared first on Marginal REVOLUTION .",
      "full_text_file": "essays/marginal_revolution_6.txt"
     },
     {
      "ref": "marginal_revolution#7",
+     "title": "Robert E. Hall, Nobel Laureate",
+     "published": "2026-10-12T11:59:30+00:00",
+     "summary": "Alex has already covered this, I will add a few remarks. First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones. Here is Bob on scholar.google.com. […] The post Robert E. Hall, Nobel Laureate appeared first on Marginal REVOLUT"
+    },
+    {
+     "ref": "marginal_revolution#8",
+     "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
+     "published": "2026-10-12T10:06:32+00:00",
+     "summary": "Twenty-five years ago Tyler told me he thought Robert Hall should win the Nobel. He has been a contender for so long today’s award was a surprise! Hall has an unusual number of unexpectedly creative papers. His best known is on consumption. Start with the textbook Keynesian model: Y = C + I + G […] The post The Nobel Prize Goes to Robert Hall and Michael Woodford appeared first on Marginal REVOLUT"
+    },
+    {
+     "ref": "marginal_revolution#9",
+     "title": "Michael Woodford Wins Nobel",
+     "published": "2026-10-12T10:05:58+00:00",
+     "summary": "No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford’s Interest and Prices (2003) has been called the central bankers’ bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even if his name […] The post Michael Woodford Wins Nobel appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#10",
      "title": "Okie-dokie, Casey Handmer edition",
      "published": "2026-10-12T04:20:47+00:00",
      "summary": "I’ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions. There are about 100m papers in the scientific corpus. Most are not important. Many […] The post Okie-dokie, Casey Handmer edition appeared first"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "Sunday assorted links",
      "published": "2026-10-11T16:17:20+00:00",
      "summary": "1. Was Leonardo da Vinci Jewish? 2. Twenty things to listen to in classical music. 3. Ezra Klein and Arvind Narayanan on AI as a normal technology (NYT). 4. Gans and Acemoglu on AI. 5. The return of Audrey Niffenegger. 6. Podcasts as the new form of comedy? (New Yorker) 7. PC on Dostoyevsky. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "Sky Roomba!",
      "published": "2026-10-11T11:14:21+00:00",
      "summary": "I bought a robot window cleaner. I have some high windows which need a ladder just to get the bottom and with this I can just start the robot at the bottom, it cleans the window and then returns to the start point. The bot cost me considerably less than it would have cost to […] The post Sky Roomba! appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#13",
      "title": "What should I ask Fuchsia Dunlop?",
      "published": "2026-10-11T08:52:47+00:00",
      "summary": "Yes I will be doing a fourth (!) Conversation with her, based in part on her forthcoming book Five Tastes: Delicious Recipes for Chinese Flavors. I am sure it is excellent, and will read it very soon. Her works are not just great cookbooks, they are among the best books period. Here are my previous […] The post What should I ask Fuchsia Dunlop? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#14",
      "title": "The economics of agents",
      "published": "2026-10-11T04:56:43+00:00",
      "summary": "From Patrick Collison: Assorted things I’ve been mulling over regarding agents in the economy: • Companies are in some sense the original superintelligence. It’s often the case that they can use their amortized cognitive surplus to advance their interests against those of certain consumers: relative to the optimization capacity of companies, consumers can be inattentive, […] The post The economics"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Saturday assorted links",
-     "published": "2026-10-10T16:34:52+00:00",
-     "summary": "1. Claes Backman’s practical AI for academics. 2. Platypus Economics on red diesel. 3. Those new service sector jobs, Indian cricket edition. 4. Will AI make us more technocratic? 5. What should a scientific paper look like? 6. Screening for twins? 7. Chris Wickham, RIP. The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -357,6 +364,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "Is 'Attention' the Essence of Intelligence?",
   "The Racial Trauma of Black Men Is Hidden Behind the Label 'Threat'",
   "Moving on from a breakup isn't healing — it's a philosophical project of self-construction, and it makes you better",
   "The Economist Who Argued Poverty, Empire and Ecology Were One Problem",
