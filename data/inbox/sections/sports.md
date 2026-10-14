@@ -45,30 +45,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Millwall",
-     "away": "Swansea",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Burnley",
-     "away": "Charlton",
-     "status": "FINISHED",
-     "score": "2-2"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Wolverhampton",
-     "away": "Bolton",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-13T18:45:00Z",
      "home": "Cardiff",
      "away": "Watford",
      "status": "FINISHED",
@@ -91,12 +67,36 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-2"
     },
     {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "RB Leipzig",
-     "away": "PSV",
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T18:45:00Z",
+     "home": "Wolverhampton",
+     "away": "Bolton",
      "status": "FINISHED",
-     "score": "1-0"
+     "score": "1-3"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T18:45:00Z",
+     "home": "Burnley",
+     "away": "Charlton",
+     "status": "FINISHED",
+     "score": "2-2"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T18:45:00Z",
+     "home": "Millwall",
+     "away": "Swansea",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "Stoke",
+     "away": "Middlesbrough",
+     "status": "FINISHED",
+     "score": "2-3"
     },
     {
      "competition": "UEFA Champions League",
@@ -115,28 +115,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-0"
     },
     {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "RB Leipzig",
+     "away": "PSV",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-13T19:00:00Z",
      "home": "Birmingham",
      "away": "Preston NE",
      "status": "FINISHED",
      "score": "4-0"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Stoke",
-     "away": "Middlesbrough",
-     "status": "FINISHED",
-     "score": "2-3"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Inter",
-     "away": "Club Brugge",
-     "status": "FINISHED",
-     "score": "3-4"
     },
     {
      "competition": "UEFA Champions League",
@@ -161,22 +153,30 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Bayern",
      "status": "FINISHED",
      "score": "3-3"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "Inter",
+     "away": "Club Brugge",
+     "status": "FINISHED",
+     "score": "3-4"
     }
    ],
    "today": [
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-14T16:45:00Z",
-     "home": "LASK",
-     "away": "Liverpool",
+     "home": "Feyenoord",
+     "away": "Como 1907",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-14T16:45:00Z",
-     "home": "Feyenoord",
-     "away": "Como 1907",
+     "home": "LASK",
+     "away": "Liverpool",
      "status": "TIMED",
      "score": null
     },
@@ -207,8 +207,32 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Roma",
-     "away": "Real Madrid",
+     "home": "Man City",
+     "away": "PSG",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Aston Villa",
+     "away": "Fenerbahçe",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Shaktar",
+     "away": "PAE AEK",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Lincoln City",
+     "away": "West Ham",
      "status": "TIMED",
      "score": null
     },
@@ -239,32 +263,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Shaktar",
-     "away": "PAE AEK",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Man City",
-     "away": "PSG",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Lincoln City",
-     "away": "West Ham",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Aston Villa",
-     "away": "Fenerbahçe",
+     "home": "Roma",
+     "away": "Real Madrid",
      "status": "TIMED",
      "score": null
     }
@@ -636,153 +636,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "'Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie",
+     "published": "2026-10-14T08:16:53+00:00",
+     "summary": "Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Parkinson demands response after Wrexham ship costly late goals",
+     "published": "2026-10-14T07:04:23+00:00",
+     "summary": "Wrexham boss Phil Parkinson says criticism is inevitable after their home Championship defeat by West Bromwich Albion."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "Listen: Focus on Championship as Stenhousemuir feel heat",
      "published": "2026-10-14T07:00:00+00:00",
      "summary": "A big weekend in the SPFL as Championship, League One and League Two races take shape."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Makhanya being tracked - Wednesday's gossip",
      "published": "2026-10-14T06:57:49+00:00",
      "summary": "Rangers are under no pressure to sell Olwethu Makhanya - but the 22-year-old South Africa defender is attracting plenty of interest."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "How Ukrainians are uniting behind Shakhtar in London",
      "published": "2026-10-14T06:37:12+00:00",
      "summary": "Shakhtar Donetsk will be playing Champions League home games at Stamford Bridge this season. It is a scenario nobody wants ideally, but the UK's Ukrainian community is making the best of a difficult situation."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-14T06:19:21+00:00",
      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
      "published": "2026-10-14T05:41:06+00:00",
      "summary": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?"
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#7",
      "title": "South African striker swaps Sunday league for Champions League",
      "published": "2026-10-14T05:08:30+00:00",
      "summary": "A former student from Rotherham has climbed the football ladder from the bottom up."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#8",
      "title": "Football Daily",
      "published": "2026-10-13T23:25:00+00:00",
      "summary": "Kelly Cates reacts to the Lisandro Martinez comments on the Man United hierarchy"
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "Saka responds to Arteta's challenge with 'huge impact'",
      "published": "2026-10-13T23:03:04+00:00",
      "summary": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League."
     },
     {
-     "ref": "bbc_football#8",
-     "title": "BBC Women's Football Weekly",
-     "published": "2026-10-13T22:47:00+00:00",
-     "summary": "After two standout displays, has Le Tissier made a case to start alongside Bronze?"
-    },
-    {
-     "ref": "bbc_football#9",
-     "title": "BBC Women's Football Weekly",
-     "published": "2026-10-13T22:47:00+00:00",
-     "summary": "After two standout displays, has Le Tissier made a case to start alongside Bronze?"
-    },
-    {
      "ref": "bbc_football#10",
+     "title": "BBC Women's Football Weekly",
+     "published": "2026-10-13T22:47:00+00:00",
+     "summary": "After two standout displays, has Le Tissier made a case to start alongside Bronze?"
+    },
+    {
+     "ref": "bbc_football#11",
+     "title": "BBC Women's Football Weekly",
+     "published": "2026-10-13T22:47:00+00:00",
+     "summary": "After two standout displays, has Le Tissier made a case to start alongside Bronze?"
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Swans' Eom the target of alleged racism at Millwall",
      "published": "2026-10-13T22:23:48+00:00",
      "summary": "Swansea City head coach Vitor Matos says the lengthy stoppage during their 1-0 win away at Millwall was a result of racist abuse aimed at winger Ji-sung Eom."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "McArdle 'really encouraged' despite NI's Portugal loss",
      "published": "2026-10-13T22:20:39+00:00",
      "summary": "Northern Ireland manager Michael McArdle says their play-off defeat by Portugal is \"the start of a new identity\" despite their heavy 7-1 aggregate loss."
     },
     {
-     "ref": "bbc_football#12",
-     "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
-     "published": "2026-10-13T22:15:44+00:00",
-     "summary": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England."
-    },
-    {
-     "ref": "bbc_football#13",
-     "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
-     "published": "2026-10-13T22:15:44+00:00",
-     "summary": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England."
-    },
-    {
      "ref": "bbc_football#14",
+     "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+     "published": "2026-10-13T22:15:44+00:00",
+     "summary": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England."
+    },
+    {
+     "ref": "bbc_football#15",
+     "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+     "published": "2026-10-13T22:15:44+00:00",
+     "summary": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England."
+    },
+    {
+     "ref": "bbc_football#16",
      "title": "Man Utd defender Martinez issues scathing attack on board",
      "published": "2026-10-13T21:43:09+00:00",
      "summary": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "Pressure on Norway in play-off final - Wales boss Wilkinson",
      "published": "2026-10-13T21:32:09+00:00",
      "summary": "Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Pressure on Norway in play-off final - Wilkinson",
      "published": "2026-10-13T21:32:09+00:00",
      "summary": "Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Goal crisis & in drop zone - so why is Spurs' £60m striker stuck in U21s?",
      "published": "2026-10-13T20:39:18+00:00",
      "summary": "After being left out of Tottenham's Premier League squad last month, Richarlison has been left to feature for the under-21s side"
     },
     {
-     "ref": "bbc_football#18",
-     "title": "Watch: Scotland beat Czechs to set up Sweden play-off",
-     "published": "2026-10-13T20:34:16+00:00",
-     "summary": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2 on Paisley and progress 5-2 on aggregate to a Women's World Cup play-off final against Sweden."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "Watch: Scotland beat Czechs to set up Sweden play-off",
-     "published": "2026-10-13T20:34:16+00:00",
-     "summary": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2 on Paisley and progress 5-2 on aggregate to a Women's World Cup play-off final against Sweden."
-    },
-    {
      "ref": "bbc_football#20",
+     "title": "Watch: Scotland beat Czechs to set up Sweden play-off",
+     "published": "2026-10-13T20:34:16+00:00",
+     "summary": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2 on Paisley and progress 5-2 on aggregate to a Women's World Cup play-off final against Sweden."
+    },
+    {
+     "ref": "bbc_football#21",
+     "title": "Watch: Scotland beat Czechs to set up Sweden play-off",
+     "published": "2026-10-13T20:34:16+00:00",
+     "summary": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2 on Paisley and progress 5-2 on aggregate to a Women's World Cup play-off final against Sweden."
+    },
+    {
+     "ref": "bbc_football#22",
      "title": "Porro eyes La Liga return - Wednesday's gossip",
      "published": "2026-10-13T20:06:30+00:00",
      "summary": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo, Chelsea eye January swoop for Frenkie de Jong."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "PSG's Luis Enrique hopes Man City avoid sanctions",
      "published": "2026-10-13T17:33:33+00:00",
      "summary": "PSG boss Luis Enrique says he was surprised to learn Manchester City had been found guilty of breaching Premier League financial rules and hopes the club avoid sanctions."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Majority of clubs on edge of 'financial disaster' - regulator",
      "published": "2026-10-13T17:10:46+00:00",
      "summary": "Research by the Independent Football Regulator finds 94% of clubs are loss-making, and more than 60% of EFL and National League clubs are technically insolvent."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Bournemouth open to selling Scott for £100m in January",
-     "published": "2026-10-13T17:00:31+00:00",
-     "summary": "Bournemouth are open to selling England midfielder Alex Scott in January under certain conditions."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Is it time for Liverpool to drop Wirtz?",
-     "published": "2026-10-13T16:45:59+00:00",
-     "summary": "More than a year since his £116m move, Florian Wirtz is still struggling to hit top form at Liverpool - so does he need to be dropped?"
     }
    ]
   },
@@ -912,33 +912,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#20",
-     "title": "Lionel Messi’s Argentina retirement sparks fresh questions about his club future - Yahoo Sports",
-     "published": "2026-10-13T20:00:00+00:00",
-     "summary": "Lionel Messi’s Argentina retirement sparks fresh questions about his club future Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
      "title": "Matías Galarza: “It would be amazing for Messi to play in the Copa Libertadores too” - Diario AS",
      "published": "2026-10-13T19:44:52+00:00",
      "summary": "Matías Galarza: “It would be amazing for Messi to play in the Copa Libertadores too” Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Garber won't dish on exchange with Messi: 'Between me and Leo' - ESPN",
      "published": "2026-10-13T19:18:00+00:00",
      "summary": "Garber won't dish on exchange with Messi: 'Between me and Leo' ESPN"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami vs New York City Betting Tips & Live Stream - MLS - FreeTips",
      "published": "2026-10-13T18:31:55+00:00",
      "summary": "Inter Miami vs New York City Betting Tips & Live Stream - MLS FreeTips"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "MLS CLINCHING SCENARIOS: Nashville, Miami, Chicago, New England, Charlotte, St. Louis, Dallas, San Jose, Houston - Front Row Soccer",
      "published": "2026-10-13T18:30:48+00:00",
      "summary": "MLS CLINCHING SCENARIOS: Nashville, Miami, Chicago, New England, Charlotte, St. Louis, Dallas, San Jose, Houston Front Row Soccer"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Messi Chasing an Unexpected MLS Record: How Many Goals Stand Between Him and History? - Soy Futbol",
+     "published": "2026-10-13T18:26:29+00:00",
+     "summary": "Messi Chasing an Unexpected MLS Record: How Many Goals Stand Between Him and History? Soy Futbol"
     }
    ]
   },
@@ -948,153 +948,147 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason - 5newsonline.com",
-     "published": "2026-10-14T06:51:00+00:00",
-     "summary": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason 5newsonline.com"
+     "title": "NBA Notes: Magic, Blazers, Deni Avdija, Warriors, Yaxel Lendeborg - Hoops Wire",
+     "published": "2026-10-14T08:25:50+00:00",
+     "summary": "NBA Notes: Magic, Blazers, Deni Avdija, Warriors, Yaxel Lendeborg Hoops Wire"
     },
     {
      "ref": "gnews_israeli_nba#1",
+     "title": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason - kens5.com",
+     "published": "2026-10-14T06:51:00+00:00",
+     "summary": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason kens5.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
+     "title": "Deni Avdija Highlights (26 Points, 9‑13 FG) | Trail Blazers 110, Kings 98 | Oct. 13, 2026 - NBA.com",
+     "published": "2026-10-14T06:00:24+00:00",
+     "summary": "Deni Avdija Highlights (26 Points, 9‑13 FG) | Trail Blazers 110, Kings 98 | Oct. 13, 2026 NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
      "title": "Highlights From Deni Avdija 26-Point Game - NBA.com",
      "published": "2026-10-14T05:21:26+00:00",
      "summary": "Highlights From Deni Avdija 26-Point Game NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#2",
-     "title": "Trail Blazers stay perfect in preseason games with win over Sacramento - KATU",
-     "published": "2026-10-14T05:15:40+00:00",
-     "summary": "Trail Blazers stay perfect in preseason games with win over Sacramento KATU"
-    },
-    {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija pours in 26/9/4 line vs. Sacramento - NBC Sports",
      "published": "2026-10-14T05:04:31+00:00",
      "summary": "Deni Avdija pours in 26/9/4 line vs. Sacramento NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija, Franz Wagner dominate Preseason action, Luka Doncic rests - Eurohoops",
      "published": "2026-10-14T05:04:00+00:00",
      "summary": "Deni Avdija, Franz Wagner dominate Preseason action, Luka Doncic rests Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
      "published": "2026-10-14T04:36:27+00:00",
      "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija with the And-1!, 10/13/2026 - Yahoo Sports",
      "published": "2026-10-14T04:35:06+00:00",
      "summary": "Deni Avdija with the And-1!, 10/13/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Deni Avdija News: Efficient in limited run - RotoWire",
      "published": "2026-10-14T04:32:56+00:00",
      "summary": "Deni Avdija News: Efficient in limited run RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija somehow gets the and-1 to fall - ESPN",
      "published": "2026-10-14T04:04:02+00:00",
      "summary": "Deni Avdija somehow gets the and-1 to fall ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "NBA All-Star shares hilarious Draymond Green story - Warriors Wire",
      "published": "2026-10-13T17:35:00+00:00",
      "summary": "NBA All-Star shares hilarious Draymond Green story Warriors Wire"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Draymond Green Reflects On Intense Moment With Deni Avdija; Admits He Holds Grudges For Years - Fadeaway World",
      "published": "2026-10-13T06:48:25+00:00",
      "summary": "Draymond Green Reflects On Intense Moment With Deni Avdija; Admits He Holds Grudges For Years Fadeaway World"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija looks ready for opening night after preseason win - OregonLive.com",
      "published": "2026-10-13T04:55:00+00:00",
      "summary": "Deni Avdija looks ready for opening night after preseason win OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "The Association: Deni Avdija could prove to be offensive engine for Trail Blazers - NBA.com",
      "published": "2026-10-13T04:38:06+00:00",
      "summary": "The Association: Deni Avdija could prove to be offensive engine for Trail Blazers NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#13",
-     "title": "Portland Trail Blazers vs. London Lions NBA preseason: Oct. 12, 2026 - OregonLive.com",
-     "published": "2026-10-13T02:13:27+00:00",
-     "summary": "Portland Trail Blazers vs. London Lions NBA preseason: Oct. 12, 2026 OregonLive.com"
-    },
-    {
      "ref": "gnews_israeli_nba#14",
-     "title": "Blockbuster Trade Could Turn Trail Blazers Into Legitimate Title Contenders - Fadeaway World",
-     "published": "2026-10-12T17:57:24+00:00",
-     "summary": "Blockbuster Trade Could Turn Trail Blazers Into Legitimate Title Contenders Fadeaway World"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
      "title": "Blazers’ Deni Avdija’s helpless Nikola Jokic admission leaves Draymond Green LOLing - Yahoo Sports",
      "published": "2026-10-12T16:52:49+00:00",
      "summary": "Blazers’ Deni Avdija’s helpless Nikola Jokic admission leaves Draymond Green LOLing Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
-     "title": "Blazers Make History in Second Preseason Game - Yahoo Sports",
-     "published": "2026-10-12T16:03:25+00:00",
-     "summary": "Blazers Make History in Second Preseason Game Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija on guarding Nikola Jokic: “What the hell am I supposed to do?” - Eurohoops",
      "published": "2026-10-12T14:28:00+00:00",
      "summary": "Deni Avdija on guarding Nikola Jokic: “What the hell am I supposed to do?” Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija on why it is impossible to guard Nikola … - Yahoo Sports",
      "published": "2026-10-12T11:32:51+00:00",
      "summary": "Deni Avdija on why it is impossible to guard Nikola … Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#17",
      "title": "“I was waiting for that elbow or punch” – Deni Avdija recalls fearing Draymond Green’s payback after hard foul - Basketball Network",
      "published": "2026-10-12T10:11:00+00:00",
      "summary": "“I was waiting for that elbow or punch” – Deni Avdija recalls fearing Draymond Green’s payback after hard foul Basketball Network"
     },
     {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Trail Blazers 110-98 Kings (Oct 13, 2026) Final Score - ESPN",
-     "published": "2026-10-12T07:00:00+00:00",
-     "summary": "Trail Blazers 110-98 Kings (Oct 13, 2026) Final Score ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#18",
      "title": "\"Ja Morant Not Gon' Like This\": NBA Fans Hilariously React to Deni Avdija Calling New Co-Star a \"Kid\" on Draymond Green's Podcast - Sportskeeda",
      "published": "2026-10-12T05:36:00+00:00",
      "summary": "\"Ja Morant Not Gon' Like This\": NBA Fans Hilariously React to Deni Avdija Calling New Co-Star a \"Kid\" on Draymond Green's Podcast Sportskeeda"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija Admits Feeling Helpless Against Nikola Jokic; Explains Why He’s Toughest To Guard - Yahoo Sports",
      "published": "2026-10-12T02:52:00+00:00",
      "summary": "Deni Avdija Admits Feeling Helpless Against Nikola Jokic; Explains Why He’s Toughest To Guard Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija credits Chauncey Billups for helping turn his career around - Yahoo Sports",
      "published": "2026-10-11T18:06:58+00:00",
      "summary": "Deni Avdija credits Chauncey Billups for helping turn his career around Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#21",
      "title": "“Still Gonna Get You”: Draymond Green Sends Clear Message to Deni Avdija Over 2-Year-Old On-Court Altercation - EssentiallySports",
      "published": "2026-10-11T17:55:00+00:00",
      "summary": "“Still Gonna Get You”: Draymond Green Sends Clear Message to Deni Avdija Over 2-Year-Old On-Court Altercation EssentiallySports"
+    },
+    {
+     "ref": "gnews_israeli_nba#22",
+     "title": "Ben Saraf Player Full High Lowlights vs 76ERS 08 10 2026 NBA PRESEASON Game - YouTube",
+     "published": "2026-10-11T14:45:28+00:00",
+     "summary": "Ben Saraf Player Full High Lowlights vs 76ERS 08 10 2026 NBA PRESEASON Game YouTube"
+    },
+    {
+     "ref": "gnews_israeli_nba#23",
+     "title": "Deni Avdija on Becoming an NBA All-Star, Playing In NBA Playoffs & Hilarious Draymond Green Story - YouTube",
+     "published": "2026-10-11T12:27:42+00:00",
+     "summary": "Deni Avdija on Becoming an NBA All-Star, Playing In NBA Playoffs & Hilarious Draymond Green Story YouTube"
     }
    ]
   }

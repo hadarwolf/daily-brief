@@ -19,152 +19,152 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "Artificial intelligence - AP News",
-     "published": "2026-10-14T07:56:32+00:00",
+     "published": "2026-10-14T08:28:33+00:00",
      "summary": "Artificial intelligence AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "World News: Top & Breaking World News Today - AP News",
+     "published": "2026-10-14T06:49:25+00:00",
+     "summary": "World News: Top & Breaking World News Today AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Iowa faces a reckoning over water quality and cancer rates in midterm campaigns - AP News",
+     "published": "2026-10-14T05:46:40+00:00",
+     "summary": "Iowa faces a reckoning over water quality and cancer rates in midterm campaigns AP News"
+    },
+    {
+     "ref": "ap_world#3",
      "title": "Fire breaks out at a Saudi Aramco building targeted in an attack, energy ministry says - AP News",
      "published": "2026-10-14T05:23:00+00:00",
      "summary": "Fire breaks out at a Saudi Aramco building targeted in an attack, energy ministry says AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#4",
      "title": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade - AP News",
      "published": "2026-10-14T05:11:00+00:00",
      "summary": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#5",
      "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House - AP News",
      "published": "2026-10-14T04:36:00+00:00",
      "summary": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#6",
      "title": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines - AP News",
      "published": "2026-10-14T04:15:00+00:00",
      "summary": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#7",
      "title": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections - AP News",
      "published": "2026-10-14T04:14:00+00:00",
      "summary": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "The not-so-secret vulnerability in Ukraine’s drone arsenal? Chinese technology - AP News",
      "published": "2026-10-14T04:09:00+00:00",
      "summary": "The not-so-secret vulnerability in Ukraine’s drone arsenal? Chinese technology AP News"
     },
     {
-     "ref": "ap_world#7",
-     "title": "Iowa faces a reckoning over water quality and cancer rates in midterm campaigns - AP News",
-     "published": "2026-10-14T04:08:00+00:00",
-     "summary": "Iowa faces a reckoning over water quality and cancer rates in midterm campaigns AP News"
-    },
-    {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed - AP News",
      "published": "2026-10-14T04:05:00+00:00",
      "summary": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
+     "title": "FIFA will propose $6.3 billion funding for soccer development, AP sources say - AP News",
+     "published": "2026-10-14T04:03:00+00:00",
+     "summary": "FIFA will propose $6.3 billion funding for soccer development, AP sources say AP News"
+    },
+    {
+     "ref": "ap_world#11",
      "title": "Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides - AP News",
      "published": "2026-10-14T04:03:00+00:00",
      "summary": "Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "New White House press secretary’s debut: Brief, limited questions and some harsh reviews - AP News",
      "published": "2026-10-14T04:01:00+00:00",
      "summary": "New White House press secretary’s debut: Brief, limited questions and some harsh reviews AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung - AP News",
      "published": "2026-10-14T03:50:00+00:00",
      "summary": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico - AP News",
      "published": "2026-10-14T03:11:00+00:00",
      "summary": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
      "title": "Germany briefly shuts Nuremberg airport and scrambles jets to escort flight with radio problem - AP News",
      "published": "2026-10-14T02:59:00+00:00",
      "summary": "Germany briefly shuts Nuremberg airport and scrambles jets to escort flight with radio problem AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 - AP News",
      "published": "2026-10-14T02:40:00+00:00",
      "summary": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "Trump went all the way to Alaska in a sign of just how close its Senate race may be - AP News",
      "published": "2026-10-14T02:32:00+00:00",
      "summary": "Trump went all the way to Alaska in a sign of just how close its Senate race may be AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News",
      "published": "2026-10-14T01:55:00+00:00",
      "summary": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#19",
      "title": "Who’s in charge when the pope is unconscious and unable to govern? The pope - AP News",
      "published": "2026-10-14T01:49:00+00:00",
      "summary": "Who’s in charge when the pope is unconscious and unable to govern? The pope AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
      "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv - AP News",
      "published": "2026-10-14T01:48:00+00:00",
      "summary": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "Wyoming grad student who allegedly poisoned a colleague has been arrested fleeing to China - AP News",
-     "published": "2026-10-14T01:43:22+00:00",
-     "summary": "Wyoming grad student who allegedly poisoned a colleague has been arrested fleeing to China AP News"
-    },
-    {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Battle lines shift in House races as Republicans retreat from front-line districts - AP News",
      "published": "2026-10-14T01:40:00+00:00",
      "summary": "Battle lines shift in House races as Republicans retreat from front-line districts AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News",
      "published": "2026-10-14T01:39:00+00:00",
      "summary": "Six Flags closes 9 North American roller coasters after families watch man fall to his death AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "Rare fossil of T. rex cousin goes on display in New York before heading to auction - AP News",
      "published": "2026-10-14T01:20:00+00:00",
      "summary": "Rare fossil of T. rex cousin goes on display in New York before heading to auction AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "Washington resident charged with conspiracy in Canada school shooting is ordered detained - AP News",
      "published": "2026-10-14T00:56:00+00:00",
      "summary": "Washington resident charged with conspiracy in Canada school shooting is ordered detained AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Dolly Parton's nephew denies threatening to harm her estate, pushes back against restraining order - AP News",
-     "published": "2026-10-14T00:43:08+00:00",
-     "summary": "Dolly Parton's nephew denies threatening to harm her estate, pushes back against restraining order AP News"
     }
    ]
   },
@@ -174,27 +174,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Turkish police raid opposition TV station, halting live broadcasts",
+     "published": "2026-10-14T08:17:43+00:00",
+     "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Russia arrests Japanese journalist on spying charges",
+     "published": "2026-10-14T08:00:03+00:00",
+     "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo."
+    },
+    {
+     "ref": "bbc_world#2",
      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
      "published": "2026-10-14T07:23:46+00:00",
      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
     },
     {
-     "ref": "bbc_world#1",
-     "title": "Russia arrests Japanese journalist on spying charges",
-     "published": "2026-10-14T07:12:37+00:00",
-     "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo."
-    },
-    {
-     "ref": "bbc_world#2",
-     "title": "Turkey police raid opposition TV station, halting live broadcasts",
-     "published": "2026-10-14T06:32:02+00:00",
-     "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed."
-    },
-    {
      "ref": "bbc_world#3",
-     "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-     "published": "2026-10-14T04:36:06+00:00",
-     "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\"."
+     "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+     "published": "2026-10-14T07:21:50+00:00",
+     "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed."
     },
     {
      "ref": "bbc_world#4",
@@ -258,7 +258,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#14",
-     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+     "title": "Saudi employee charged with planting recording device in OpenAI office",
      "published": "2026-10-13T21:42:49+00:00",
      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
     },
@@ -381,18 +381,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "The End of Gaza",
      "published": "2026-10-08T08:00:00+00:00",
      "summary": "A failing peace process leads to only one outcome."
-    },
-    {
-     "ref": "foreign_affairs#8",
-     "title": "Russia’s Hybrid War Has Entered a Dangerous New Phase",
-     "published": "2026-10-07T08:00:00+00:00",
-     "summary": "Julianne Smith, who represented the United States at NATO during the Biden administration, argues that Russian hybrid warfare in Europe is escalating quickly, and NATO is not doing enough to deter it. Putin is attempting to discourage support for Ukraine and undermine faith in Article 5, and NATO is responding with an outdated playbook."
-    },
-    {
-     "ref": "foreign_affairs#9",
-     "title": "The Two Africas",
-     "published": "2026-10-07T08:00:00+00:00",
-     "summary": "Who will benefit from the continent's investment boom?"
     }
    ]
   },
@@ -402,153 +390,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Pope Leo had peaceful night in hospital after lung cancer surgery - Reuters",
+     "published": "2026-10-14T08:10:06+00:00",
+     "summary": "Pope Leo had peaceful night in hospital after lung cancer surgery Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says - Reuters",
      "published": "2026-10-14T06:34:00+00:00",
      "summary": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "South Korea police identify more victims in Incheon stabbing attack, total rises to 10, reports say - Reuters",
      "published": "2026-10-14T06:31:00+00:00",
      "summary": "South Korea police identify more victims in Incheon stabbing attack, total rises to 10, reports say Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "EXCLUSIVE: EU seeks closer Vietnam ties on critical minerals in China hedge, documents show - Reuters",
      "published": "2026-10-14T06:21:00+00:00",
      "summary": "EXCLUSIVE: EU seeks closer Vietnam ties on critical minerals in China hedge, documents show Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "China says it is willing to work with EU to boost stability of trade ties - Reuters",
      "published": "2026-10-14T05:48:00+00:00",
      "summary": "China says it is willing to work with EU to boost stability of trade ties Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
+     "title": "Trump to visit Manila in November for ASEAN summit - Reuters",
+     "published": "2026-10-14T05:40:00+00:00",
+     "summary": "Trump to visit Manila in November for ASEAN summit Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
+     "title": "Iran executes monarchist convicted of armed attacks during war, judiciary news outlet says - Reuters",
+     "published": "2026-10-14T05:13:00+00:00",
+     "summary": "Iran executes monarchist convicted of armed attacks during war, judiciary news outlet says Reuters"
+    },
+    {
+     "ref": "reuters_world#7",
      "title": "Morning Bid: Let the doves sing - Reuters",
      "published": "2026-10-14T04:31:00+00:00",
      "summary": "Morning Bid: Let the doves sing Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
      "title": "Russian strikes kill one, hit energy facilities in Kyiv, mayor says - Reuters",
      "published": "2026-10-14T04:14:00+00:00",
      "summary": "Russian strikes kill one, hit energy facilities in Kyiv, mayor says Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "IMF's Georgieva says US growth will not be enough to shrink debt - Reuters",
      "published": "2026-10-14T04:10:00+00:00",
      "summary": "IMF's Georgieva says US growth will not be enough to shrink debt Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "High gasoline prices expected to boost US consumer inflation in September - Reuters",
      "published": "2026-10-14T04:01:00+00:00",
      "summary": "High gasoline prices expected to boost US consumer inflation in September Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "EXCLUSIVE: US Justice Department threatens California over alleged noncitizen voters, letter shows - Reuters",
      "published": "2026-10-14T03:49:00+00:00",
      "summary": "EXCLUSIVE: US Justice Department threatens California over alleged noncitizen voters, letter shows Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "India's 'cockroach' movement leaders detained in jail for five days, party and police say - Reuters",
      "published": "2026-10-14T03:27:00+00:00",
      "summary": "India's 'cockroach' movement leaders detained in jail for five days, party and police say Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "Taiwan must 'bear the consequences' of water cannon incident, China says - Reuters",
      "published": "2026-10-14T03:24:00+00:00",
      "summary": "Taiwan must 'bear the consequences' of water cannon incident, China says Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
      "title": "Gold holds steady ahead of US inflation data - Reuters",
      "published": "2026-10-14T03:12:00+00:00",
      "summary": "Gold holds steady ahead of US inflation data Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#15",
      "title": "Judge extends White House access for CNN, MS NOW, Politico amid legal fight - Reuters",
      "published": "2026-10-14T03:12:00+00:00",
      "summary": "Judge extends White House access for CNN, MS NOW, Politico amid legal fight Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#16",
      "title": "Rupee hits one-month high after RBI backs FX curbs with stability pledge - Reuters",
      "published": "2026-10-14T03:02:00+00:00",
      "summary": "Rupee hits one-month high after RBI backs FX curbs with stability pledge Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#17",
      "title": "China's September exports soar, putting $1 trillion trade surplus in sight - Reuters",
      "published": "2026-10-14T02:41:00+00:00",
      "summary": "China's September exports soar, putting $1 trillion trade surplus in sight Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#18",
      "title": "China, North Korea to open long-delayed bridge on Thursday - Reuters",
      "published": "2026-10-14T02:31:00+00:00",
      "summary": "China, North Korea to open long-delayed bridge on Thursday Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#19",
      "title": "Indian shares muted as oil prices, foreign outflows offset IT rebound - Reuters",
      "published": "2026-10-14T02:25:00+00:00",
      "summary": "Indian shares muted as oil prices, foreign outflows offset IT rebound Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "Vietnam says trade talks with US nearly completed; US officials more cautious - Reuters",
      "published": "2026-10-14T02:15:00+00:00",
      "summary": "Vietnam says trade talks with US nearly completed; US officials more cautious Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
      "title": "IMF dials up calls for urgent fiscal consolidation - Reuters",
      "published": "2026-10-14T02:02:00+00:00",
      "summary": "IMF dials up calls for urgent fiscal consolidation Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#22",
      "title": "Asia shares inch up as chip selloff eases; US CPI awaited - Reuters",
      "published": "2026-10-14T01:53:00+00:00",
      "summary": "Asia shares inch up as chip selloff eases; US CPI awaited Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#23",
      "title": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million - Reuters",
      "published": "2026-10-14T01:53:00+00:00",
      "summary": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#24",
      "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts - Reuters",
      "published": "2026-10-14T01:42:00+00:00",
      "summary": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "India boat capsizes, drowning 13, mostly children - Reuters",
-     "published": "2026-10-14T01:27:00+00:00",
-     "summary": "India boat capsizes, drowning 13, mostly children Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Dollar languishes as focus turns to CPI, Fed speakers - Reuters",
-     "published": "2026-10-14T01:18:00+00:00",
-     "summary": "Dollar languishes as focus turns to CPI, Fed speakers Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Singapore keeps monetary policy unchanged, surprising analysts - Reuters",
-     "published": "2026-10-14T01:12:00+00:00",
-     "summary": "Singapore keeps monetary policy unchanged, surprising analysts Reuters"
     }
    ]
   }
