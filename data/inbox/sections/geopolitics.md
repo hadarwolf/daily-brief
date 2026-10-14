@@ -19,122 +19,122 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "Artificial intelligence - AP News",
-     "published": "2026-10-14T07:38:34+00:00",
+     "published": "2026-10-14T07:56:32+00:00",
      "summary": "Artificial intelligence AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "World News: Top & Breaking World News Today - AP News",
-     "published": "2026-10-14T07:08:25+00:00",
-     "summary": "World News: Top & Breaking World News Today AP News"
-    },
-    {
-     "ref": "ap_world#2",
      "title": "Fire breaks out at a Saudi Aramco building targeted in an attack, energy ministry says - AP News",
      "published": "2026-10-14T05:23:00+00:00",
      "summary": "Fire breaks out at a Saudi Aramco building targeted in an attack, energy ministry says AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#2",
      "title": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade - AP News",
      "published": "2026-10-14T05:11:00+00:00",
      "summary": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#3",
      "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House - AP News",
      "published": "2026-10-14T04:36:00+00:00",
      "summary": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#4",
      "title": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines - AP News",
      "published": "2026-10-14T04:15:00+00:00",
      "summary": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#5",
      "title": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections - AP News",
      "published": "2026-10-14T04:14:00+00:00",
      "summary": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#6",
      "title": "The not-so-secret vulnerability in Ukraine’s drone arsenal? Chinese technology - AP News",
      "published": "2026-10-14T04:09:00+00:00",
      "summary": "The not-so-secret vulnerability in Ukraine’s drone arsenal? Chinese technology AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#7",
      "title": "Iowa faces a reckoning over water quality and cancer rates in midterm campaigns - AP News",
      "published": "2026-10-14T04:08:00+00:00",
      "summary": "Iowa faces a reckoning over water quality and cancer rates in midterm campaigns AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#8",
      "title": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed - AP News",
      "published": "2026-10-14T04:05:00+00:00",
      "summary": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#9",
      "title": "Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides - AP News",
      "published": "2026-10-14T04:03:00+00:00",
      "summary": "Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#10",
      "title": "New White House press secretary’s debut: Brief, limited questions and some harsh reviews - AP News",
      "published": "2026-10-14T04:01:00+00:00",
      "summary": "New White House press secretary’s debut: Brief, limited questions and some harsh reviews AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#11",
      "title": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung - AP News",
      "published": "2026-10-14T03:50:00+00:00",
      "summary": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#12",
      "title": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico - AP News",
      "published": "2026-10-14T03:11:00+00:00",
      "summary": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#13",
      "title": "Germany briefly shuts Nuremberg airport and scrambles jets to escort flight with radio problem - AP News",
      "published": "2026-10-14T02:59:00+00:00",
      "summary": "Germany briefly shuts Nuremberg airport and scrambles jets to escort flight with radio problem AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#14",
      "title": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 - AP News",
      "published": "2026-10-14T02:40:00+00:00",
      "summary": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#15",
      "title": "Trump went all the way to Alaska in a sign of just how close its Senate race may be - AP News",
      "published": "2026-10-14T02:32:00+00:00",
      "summary": "Trump went all the way to Alaska in a sign of just how close its Senate race may be AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#16",
      "title": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News",
      "published": "2026-10-14T01:55:00+00:00",
      "summary": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#17",
      "title": "Who’s in charge when the pope is unconscious and unable to govern? The pope - AP News",
      "published": "2026-10-14T01:49:00+00:00",
      "summary": "Who’s in charge when the pope is unconscious and unable to govern? The pope AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#18",
      "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv - AP News",
      "published": "2026-10-14T01:48:00+00:00",
      "summary": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv AP News"
+    },
+    {
+     "ref": "ap_world#19",
+     "title": "Wyoming grad student who allegedly poisoned a colleague has been arrested fleeing to China - AP News",
+     "published": "2026-10-14T01:43:22+00:00",
+     "summary": "Wyoming grad student who allegedly poisoned a colleague has been arrested fleeing to China AP News"
     },
     {
      "ref": "ap_world#20",
@@ -210,108 +210,102 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#6",
-     "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-     "published": "2026-10-14T02:05:32+00:00",
-     "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said."
-    },
-    {
-     "ref": "bbc_world#7",
      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
      "published": "2026-10-14T00:59:16+00:00",
      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#7",
      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
      "published": "2026-10-13T23:42:22+00:00",
      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#8",
      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
      "published": "2026-10-13T23:42:15+00:00",
      "summary": "One person has died and others were injured after an incident at a US amusement park."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#9",
      "title": "Zimbabwean author denies using AI to write award-winning story",
      "published": "2026-10-13T23:31:10+00:00",
      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#10",
      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
      "published": "2026-10-13T22:07:40+00:00",
      "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#11",
      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
      "published": "2026-10-13T22:02:09+00:00",
      "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#12",
      "title": "Who's to blame for the toxic haze choking South East Asia?",
      "published": "2026-10-13T22:01:43+00:00",
      "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#13",
      "title": "Why the lonely in China are hiring 'temporary children'",
      "published": "2026-10-13T22:00:20+00:00",
      "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#14",
      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
      "published": "2026-10-13T21:42:49+00:00",
      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#15",
      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
      "published": "2026-10-13T19:51:14+00:00",
      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#16",
      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
      "published": "2026-10-13T19:23:28+00:00",
      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\"."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#17",
      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
      "published": "2026-10-13T18:25:28+00:00",
      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#18",
      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
      "published": "2026-10-13T18:23:22+00:00",
      "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#19",
      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
      "published": "2026-10-13T17:10:50+00:00",
      "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#20",
      "title": "Inside Katie Zacharia's very brief White House briefing",
      "published": "2026-10-13T17:04:37+00:00",
      "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#21",
      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
      "published": "2026-10-13T15:52:15+00:00",
      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
     },
     {
-     "ref": "bbc_world#23",
+     "ref": "bbc_world#22",
      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
      "published": "2026-10-13T13:27:31+00:00",
      "summary": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks."
@@ -414,147 +408,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#1",
+     "title": "South Korea police identify more victims in Incheon stabbing attack, total rises to 10, reports say - Reuters",
+     "published": "2026-10-14T06:31:00+00:00",
+     "summary": "South Korea police identify more victims in Incheon stabbing attack, total rises to 10, reports say Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "EXCLUSIVE: EU seeks closer Vietnam ties on critical minerals in China hedge, documents show - Reuters",
+     "published": "2026-10-14T06:21:00+00:00",
+     "summary": "EXCLUSIVE: EU seeks closer Vietnam ties on critical minerals in China hedge, documents show Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "China says it is willing to work with EU to boost stability of trade ties - Reuters",
      "published": "2026-10-14T05:48:00+00:00",
      "summary": "China says it is willing to work with EU to boost stability of trade ties Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "Morning Bid: Let the doves sing - Reuters",
      "published": "2026-10-14T04:31:00+00:00",
      "summary": "Morning Bid: Let the doves sing Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "Russian strikes kill one, hit energy facilities in Kyiv, mayor says - Reuters",
      "published": "2026-10-14T04:14:00+00:00",
      "summary": "Russian strikes kill one, hit energy facilities in Kyiv, mayor says Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "IMF's Georgieva says US growth will not be enough to shrink debt - Reuters",
      "published": "2026-10-14T04:10:00+00:00",
      "summary": "IMF's Georgieva says US growth will not be enough to shrink debt Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "High gasoline prices expected to boost US consumer inflation in September - Reuters",
      "published": "2026-10-14T04:01:00+00:00",
      "summary": "High gasoline prices expected to boost US consumer inflation in September Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "EXCLUSIVE: US Justice Department threatens California over alleged noncitizen voters, letter shows - Reuters",
      "published": "2026-10-14T03:49:00+00:00",
      "summary": "EXCLUSIVE: US Justice Department threatens California over alleged noncitizen voters, letter shows Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "India's 'cockroach' movement leaders detained in jail for five days, party and police say - Reuters",
      "published": "2026-10-14T03:27:00+00:00",
      "summary": "India's 'cockroach' movement leaders detained in jail for five days, party and police say Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Taiwan must 'bear the consequences' of water cannon incident, China says - Reuters",
      "published": "2026-10-14T03:24:00+00:00",
      "summary": "Taiwan must 'bear the consequences' of water cannon incident, China says Reuters"
     },
     {
-     "ref": "reuters_world#9",
-     "title": "Gold holds firm ahead of US inflation data - Reuters",
+     "ref": "reuters_world#11",
+     "title": "Gold holds steady ahead of US inflation data - Reuters",
      "published": "2026-10-14T03:12:00+00:00",
-     "summary": "Gold holds firm ahead of US inflation data Reuters"
+     "summary": "Gold holds steady ahead of US inflation data Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Judge extends White House access for CNN, MS NOW, Politico amid legal fight - Reuters",
      "published": "2026-10-14T03:12:00+00:00",
      "summary": "Judge extends White House access for CNN, MS NOW, Politico amid legal fight Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Rupee hits one-month high after RBI backs FX curbs with stability pledge - Reuters",
      "published": "2026-10-14T03:02:00+00:00",
      "summary": "Rupee hits one-month high after RBI backs FX curbs with stability pledge Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "China's September exports soar, putting $1 trillion trade surplus in sight - Reuters",
      "published": "2026-10-14T02:41:00+00:00",
      "summary": "China's September exports soar, putting $1 trillion trade surplus in sight Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "China, North Korea to open long-delayed bridge on Thursday - Reuters",
      "published": "2026-10-14T02:31:00+00:00",
      "summary": "China, North Korea to open long-delayed bridge on Thursday Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Indian shares muted as oil prices, foreign outflows offset IT rebound - Reuters",
      "published": "2026-10-14T02:25:00+00:00",
      "summary": "Indian shares muted as oil prices, foreign outflows offset IT rebound Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Vietnam says trade talks with US nearly completed; US officials more cautious - Reuters",
      "published": "2026-10-14T02:15:00+00:00",
      "summary": "Vietnam says trade talks with US nearly completed; US officials more cautious Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "IMF dials up calls for urgent fiscal consolidation - Reuters",
      "published": "2026-10-14T02:02:00+00:00",
      "summary": "IMF dials up calls for urgent fiscal consolidation Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Asia shares inch up as chip selloff eases; US CPI awaited - Reuters",
      "published": "2026-10-14T01:53:00+00:00",
      "summary": "Asia shares inch up as chip selloff eases; US CPI awaited Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million - Reuters",
      "published": "2026-10-14T01:53:00+00:00",
      "summary": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts - Reuters",
      "published": "2026-10-14T01:42:00+00:00",
      "summary": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "India boat capsizes, drowning 13, mostly children - Reuters",
      "published": "2026-10-14T01:27:00+00:00",
      "summary": "India boat capsizes, drowning 13, mostly children Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "Dollar languishes as focus turns to CPI, Fed speakers - Reuters",
      "published": "2026-10-14T01:18:00+00:00",
      "summary": "Dollar languishes as focus turns to CPI, Fed speakers Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Singapore keeps monetary policy unchanged, surprising analysts - Reuters",
      "published": "2026-10-14T01:12:00+00:00",
      "summary": "Singapore keeps monetary policy unchanged, surprising analysts Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters",
-     "published": "2026-10-14T00:06:00+00:00",
-     "summary": "Iran shifting tactics to step up attacks on shipping before US vote, officials say Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing - Reuters",
-     "published": "2026-10-14T00:05:00+00:00",
-     "summary": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing Reuters"
     }
    ]
   }
