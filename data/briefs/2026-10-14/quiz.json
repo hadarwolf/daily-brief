@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-14",
+  "questions": [
+    {
+      "id": "q1-business-ipo-exit-squeeze",
+      "section": "business",
+      "story_id": "ai-ipo-exit-squeeze",
+      "answer_index": 1,
+      "en": {
+        "question": "According to today's brief, what do the failed Australian IPO, the Hong Kong IPO-rigging probe, and the slide in chip stocks have in common?",
+        "options": [
+          "They show that AI companies have given up on going public altogether",
+          "They signal that the IPO market - the main way venture and private-equity investors cash out of AI-related bets - is seizing up",
+          "They are mainly the result of new tariffs on Chinese semiconductors",
+          "They show that Goldman Sachs and JPMorgan both agree the IPO environment is deteriorating"
+        ],
+        "explanation": "The brief frames all three as signals that the exit routes letting early investors cash out of AI-linked bets are narrowing, not as a banker consensus or a full retreat from public listings."
+      },
+      "he": {
+        "question": "לפי התדריך של היום, מה משותף לקריסת ההנפקה באוסטרליה, לחקירת תימרון ההנפקות בהונג קונג ולנפילת מניות השבבים?",
+        "options": [
+          "הן מראות שחברות בינה מלאכותית התייאשו כליל מהנפקה לציבור",
+          "הן מסמנות ששוק ההנפקות - הדרך המרכזית שבה משקיעי הון סיכון ופרייבט אקוויטי ממַמשים השקעות בבינה מלאכותית - מתחיל להיסתם",
+          "הן נובעות בעיקרן ממכסים חדשים על שבבים סיניים",
+          "הן מראות שגולדמן זאקס וג'יי.פי מורגן מסכימים ששוק ההנפקות מתדרדר"
+        ],
+        "explanation": "הכתבה מציגה את שלושת האירועים כאיתותים לכך שצינורות המימוש של משקיעים מוקדמים בהשקעות הקשורות לבינה מלאכותית מצטמצמים, לא כהסכמה בין הבנקאים או כנטישה מלאה של הנפקות."
+      }
+    },
+    {
+      "id": "q2-israeli-politics-election-endgame",
+      "section": "israeli_politics",
+      "story_id": "election-endgame-pressure",
+      "answer_index": 2,
+      "en": {
+        "question": "What pressure is linked to Knesset candidate David Ben Zion's decision to drop off the Winter list?",
+        "options": [
+          "A police investigation into campaign financing",
+          "A Supreme Court ruling that disqualified his candidacy",
+          "A billboard campaign calling for his resignation, tied to Netanyahu's push to get small right-wing parties to withdraw in exchange for government jobs",
+          "A public dispute with Gadi Eisenkot over coalition strategy"
+        ],
+        "explanation": "The brief links Ben Zion's withdrawal to a billboard campaign against him and the broader pressure campaign Netanyahu is running on small right-wing parties."
+      },
+      "he": {
+        "question": "איזה לחץ נקשר להחלטתו של מועמד הכנסת דוידי בן ציון לפרוש מרשימת וינטר?",
+        "options": [
+          "חקירת משטרה על מימון מערכת הבחירות",
+          "פסיקת בג\"ץ שפסלה את מועמדותו",
+          "שלט חוצות שקרא להתפטרותו, שנקשר למאמץ של נתניהו לשכנע מפלגות ימין קטנות לפרוש בתמורה למינויים בממשלה",
+          "מחלוקת פומבית עם גדי איזנקוט על אסטרטגיה קואליציונית"
+        ],
+        "explanation": "הכתבה מקשרת את פרישתו של בן ציון לשלט חוצות שקרא להתפטרותו ולמאמץ הרחב יותר של נתניהו ללחוץ על מפלגות קטנות בימין לפרוש בתמורה למינויים."
+      }
+    },
+    {
+      "id": "q3-ideas-deskilling-the-body",
+      "section": "ideas",
+      "story_id": "deskilling-the-body",
+      "answer_index": 2,
+      "en": {
+        "question": "What is the central claim of Melanie Challenger's essay \"Deskilling the body\"?",
+        "options": [
+          "AI and smartphones are making human cognition faster and more efficient overall",
+          "The body was always essentially a machine, so letting technology take over its tasks is a natural upgrade",
+          "Outsourcing tasks like navigation and writing to GPS and AI erodes an embodied, self-maintaining intelligence that was never mechanical to begin with",
+          "Only elderly people are vulnerable to losing physical and cognitive skills through disuse"
+        ],
+        "explanation": "Challenger argues that living bodies are nothing like machines, and that offloading navigation, writing and attention to technology weakens the body's own embodied intelligence rather than just saving time."
+      },
+      "he": {
+        "question": "מה הטענה המרכזית של החיבור של מלאני צ'אלנג'ר, \"Deskilling the body\"?",
+        "options": [
+          "בינה מלאכותית וסמארטפונים הופכים את הקוגניציה האנושית למהירה ויעילה יותר באופן כולל",
+          "הגוף היה מלכתחילה מכונה, כך שהעברת משימותיו לטכנולוגיה היא שדרוג טבעי",
+          "העברת משימות כמו ניווט וכתיבה לג'י.פי.אס ולבינה מלאכותית משחקת אינטליגנציה גופנית מתכווננת-עצמית, שמעולם לא הייתה מכנית מלכתחילה",
+          "רק אנשים מבוגרים חשופים לאובדן יכולות גופניות וקוגניטיביות מחוסר שימוש"
+        ],
+        "explanation": "צ'אלנג'ר טוענת שגופים חיים אינם דומים למכונות, ושהעברת ניווט, כתיבה וקשב לטכנולוגיה מחלישה את האינטליגנציה המבוססת-גוף עצמה, ולא רק חוסכת זמן."
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-14",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-14T04:16:46+00:00",
+  "stories": [
+    {
+      "id": "word-covenant",
+      "kind": "word",
+      "en": {
+        "headline": "Covenant (אמנת אשראי / תנאי הלוואה)",
+        "scroll": "A condition written into a loan or bond agreement that the borrower must keep, or risk being treated as in default.",
+        "coffee": "A covenant is a promise built into a loan or bond agreement - something the borrower commits to do (an 'affirmative covenant,' like maintaining a minimum cash balance) or not do (a 'negative covenant,' like taking on more debt) for as long as the loan is outstanding. Breaking one, even without missing a payment, can let the lender demand immediate repayment. Example: \"The company breached a debt covenant requiring it to keep leverage below 4x EBITDA, giving lenders the right to call the loan.\"",
+        "deep": "Use covenant when discussing loan agreements, bonds, or private-equity financing - it's the mechanism lenders rely on to control risk between the day they lend money and the day they get it back, since they can't constantly renegotiate terms. The common confusion is treating a covenant breach as the same thing as missing a payment: a company can be current on every interest payment and still be in technical default because it violated a covenant, which is exactly what makes 'covenant-lite' loans (loans with few or weak covenants) riskier for lenders and more attractive to borrowers. More examples: \"Covenant-lite loans became common during the lending boom, leaving bondholders with less protection.\" \"The amendment loosened the leverage covenant in exchange for a higher interest rate.\" In Hebrew, the term is אמנת אשראי or תנאי הלוואה."
+      },
+      "he": {
+        "headline": "Covenant (אמנת אשראי / תנאי הלוואה)",
+        "scroll": "תנאי שנכתב בהסכם הלוואה או אג\"ח שעל הלווה לעמוד בו, אחרת הוא עלול להיחשב כמפר הסכם.",
+        "coffee": "אמנה (covenant) היא הבטחה שמוטבעת בהסכם הלוואה או אג\"ח - דבר שהלווה מתחייב לעשות ('אמנה חיובית', כמו לשמור על יתרת מזומן מינימלית) או להימנע מלעשות ('אמנה שלילית', כמו לקיחת חוב נוסף), כל עוד ההלוואה בתוקף. הפרת אמנה, אפילו בלי לפספס תשלום, יכולה לאפשר למלווה לדרוש פירעון מיידי. לדוגמה: \"The company breached a debt covenant requiring it to keep leverage below 4x EBITDA, giving lenders the right to call the loan.\"",
+        "deep": "יש להשתמש במונח covenant כשמדברים על הסכמי הלוואה, אג\"ח או מימון פרייבט אקוויטי - זהו המכניזם שמלווים נשענים עליו לשלוט בסיכון בין יום ההלוואה ליום הפירעון, מכיוון שהם לא יכולים לנהל משא ומתן מתמיד על התנאים. הבלבול הנפוץ הוא לבלבל בין הפרת אמנה לבין אי-תשלום בפועל: חברה יכולה להיות מסודרת בכל תשלומי הריבית ועדיין להיחשב בהפרה טכנית מכיוון שהפרה אמנה, וזה בדיוק מה שהופך הלוואות 'covenant-lite' (עם אמנות מעטות או חלשות) למסוכנות יותר למלווים ומושכות יותר ללווים. עוד דוגמאות: \"Covenant-lite loans became common during the lending boom, leaving bondholders with less protection.\" \"The amendment loosened the leverage covenant in exchange for a higher interest rate.\" בעברית, המונח הוא אמנת אשראי או תנאי הלוואה."
+      },
+      "tags": [
+        "finance",
+        "credit",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-take-a-haircut",
+      "kind": "word",
+      "en": {
+        "headline": "Take a haircut (לספוג \"תספורת\" / הפחתה בערך)",
+        "scroll": "To accept less than you're owed, or less than an asset's face value, usually because getting the full amount isn't realistic.",
+        "coffee": "When creditors, investors or employees \"take a haircut,\" they agree to receive less than the face value of what they're owed - a partial loss accepted instead of pushing for the full amount, often because the alternative (bankruptcy, total default) would leave them with even less. Example: \"Bondholders took a 40% haircut on their holdings as part of the debt restructuring.\"",
+        "deep": "Use \"take a haircut\" for situations involving a negotiated or forced reduction in the value of a claim - debt restructurings, distressed asset sales, or collateral valuations (a central bank or lender might apply a \"haircut\" to the collateral it accepts, lending only a fraction of an asset's market value as a safety margin). The common confusion is using it for an ordinary price decline - a stock falling 10% in trading isn't usually described as \"taking a haircut\" unless a specific party is formally accepting a reduced claim or valuation. More examples: \"The central bank applies a haircut to the bonds it accepts as collateral.\" \"Shareholders may need to take a haircut before new investors agree to inject capital.\" In Hebrew, the term is תספורת (or הפחתה מוסכמת בערך)."
+      },
+      "he": {
+        "headline": "Take a haircut (לספוג \"תספורת\" / הפחתה בערך)",
+        "scroll": "להסכים לקבל פחות ממה שמגיע לך, או פחות מהערך הנקוב של נכס, כשקבלת הסכום המלא אינה מעשית.",
+        "coffee": "כשמלווים, משקיעים או עובדים \"סופגים תספורת\" (take a haircut), הם מסכימים לקבל פחות מהערך הנקוב של מה שמגיע להם - הפסד חלקי שמתקבל במקום לדרוש את הסכום המלא, לרוב מכיוון שהאלטרנטיבה (פשיטת רגל, חדלות פירעון מלאה) תשאיר להם אפילו פחות. לדוגמה: \"Bondholders took a 40% haircut on their holdings as part of the debt restructuring.\"",
+        "deep": "יש להשתמש בביטוי \"take a haircut\" במצבים של הפחתה מוסכמת או כפויה בערך של תביעה - הסדרי חוב, מכירות של נכסים במצוקה, או הערכת בטוחות (בנק מרכזי או מלווה עשויים להחיל \"תספורת\" על הבטוחה שהם מקבלים, ולהלוות רק חלק משוויה בשוק כמרווח ביטחון). הבלבול הנפוץ הוא להשתמש בו לירידת מחיר רגילה במסחר - מניה שנופלת 10% לא בהכרח \"סופגת תספורת\", אלא אם צד מסוים מסכים באופן רשמי להפחתה בתביעה או בהערכת השווי. עוד דוגמאות: \"The central bank applies a haircut to the bonds it accepts as collateral.\" \"Shareholders may need to take a haircut before new investors agree to inject capital.\" בעברית, המונח הוא תספורת (או הפחתה מוסכמת בערך)."
+      },
+      "tags": [
+        "finance",
+        "restructuring",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-whistle-past-the-graveyard",
+      "kind": "word",
+      "en": {
+        "headline": "Whistle past the graveyard (לשרוק ליד בית הקברות / להתעלם מסכנה גלויה)",
+        "scroll": "To act cheerfully unconcerned about a danger everyone can see, instead of confronting it.",
+        "coffee": "This idiom describes ignoring an obvious risk and hoping it quietly passes, rather than addressing it - like walking past a graveyard at night and whistling to pretend you're not afraid. In markets, it's used when investors keep buying or executives keep projecting confidence despite warning signs that, on reflection, look hard to dismiss. Example: \"With valuations stretched and credit spreads widening, some analysts say the market is whistling past the graveyard.\"",
+        "deep": "Use this idiom when describing collective denial about a visible risk - it carries a sharper, more critical edge than neutral terms like \"cautious optimism,\" implying the confidence is willful rather than well-founded. It's common in financial commentary around asset bubbles, late-cycle credit markets, or corporate guidance that glosses over deteriorating fundamentals. A common confusion is using it for genuine, well-reasoned optimism; it should be reserved for cases where the danger is, in the writer's view, fairly obvious and being actively downplayed. More examples: \"Homebuyers taking on huge mortgages at these prices are whistling past the graveyard.\" \"Management's upbeat guidance looks like whistling past the graveyard given the shrinking order backlog.\" In Hebrew, the closest idiom is לשרוק ליד בית הקברות, or more plainly, להתעלם מסכנה גלויה."
+      },
+      "he": {
+        "headline": "Whistle past the graveyard (לשרוק ליד בית הקברות / להתעלם מסכנה גלויה)",
+        "scroll": "להתנהג כאילו הכול בסדר ולהתעלם מסכנה שכולם רואים, במקום להתמודד איתה.",
+        "coffee": "הניב הזה מתאר התעלמות מסיכון גלוי בתקווה שהוא יחלוף בשקט, במקום להתמודד איתו - כמו הליכה ליד בית קברות בלילה ושריקה כדי להעמיד פנים שאתה לא מפוחד. בשווקים משתמשים בו כשמשקיעים ממשיכים לקנות או מנהלים ממשיכים לשדר ביטחון חרף סימני אזהרה שבמבט לאחור קשה להתעלם מהם. לדוגמה: \"With valuations stretched and credit spreads widening, some analysts say the market is whistling past the graveyard.\"",
+        "deep": "יש להשתמש בניב הזה כשמתארים הכחשה קולקטיבית לגבי סיכון גלוי - יש לו עוקץ חד וביקורתי יותר ממונחים נייטרליים כמו \"אופטימיות זהירה\", והוא מרמז שהביטחון הוא מכוון ולא מבוסס. הוא נפוץ בפרשנות פיננסית על בועות נכסים, שווקי אשראי בשלב מאוחר של המחזור, או תחזיות תאגידיות שמתעלמות מבסיס כלכלי מתדרדר. בלבול נפוץ הוא להשתמש בו לגבי אופטימיות אמיתית ומבוססת; יש לשמור אותו למקרים שבהם הסכנה, לדעת הכותב, די גלויה ומוקטנת באופן פעיל. עוד דוגמאות: \"Homebuyers taking on huge mortgages at these prices are whistling past the graveyard.\" \"Management's upbeat guidance looks like whistling past the graveyard given the shrinking order backlog.\" בעברית, הניב הקרוב ביותר הוא לשרוק ליד בית הקברות, או במילים פשוטות יותר, להתעלם מסכנה גלויה."
+      },
+      "tags": [
+        "idiom",
+        "markets",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-price-discovery",
+      "kind": "concept",
+      "en": {
+        "headline": "Price Discovery: How a Market Figures Out What Something Is Actually Worth",
+        "scroll": "Price discovery is the process by which real buying and selling - not a declared number - reveals what an asset is genuinely worth, which is exactly what a failed IPO forces into the open.",
+        "coffee": "Price discovery is the ongoing process by which a market converts many private, often conflicting opinions about an asset's value into one public price, through the act of people actually buying and selling - not through anyone simply declaring a valuation. A startup's funding-round valuation, agreed privately between the company and a handful of venture investors, isn't price discovery in this sense, because it was never tested against a broad, independent pool of buyers.\n\nAn IPO is one of the sharpest price-discovery events a company will ever go through, precisely because it's often the first time its valuation meets a wide, public market instead of a small circle of private backers.",
+        "deep": "## Price discovery, worked through an IPO\n\nPrice discovery is what happens when a market converts many private, often conflicting opinions about an asset's value into a single public price, through the act of real buying and selling - not through anyone simply declaring a number. A private company's valuation, set in a funding round between a startup and a handful of venture capital investors, isn't price discovery in this sense: it was negotiated between two parties with aligned interests in agreeing on a high number, and it was never tested against a broad, independent pool of buyers.\n\nAn initial public offering is one of the clearest price-discovery events a company goes through, because it's usually the first time a company's valuation meets a wide, public market rather than a small circle of private investors. Here's how it works mechanically: investment banks underwriting the IPO set an initial price range based on comparable companies and investor conversations, then spend days \"book-building\" - canvassing institutional investors (mutual funds, pension funds, hedge funds) on how many shares they'd buy and at what price. If demand at the proposed range is strong, the bankers might price at the top of the range or even raise it; if demand is weak, they lower the price, delay the deal, or, in the most severe case, pull it entirely.\n\nThis week's failed Australian tech IPO - reportedly tied to the data-center buildout behind the AI boom - is price discovery working exactly as intended, even though it's a disappointing outcome for the company and its early investors: the book-building process revealed that, at the valuation the company and its private backers had in mind, there simply wasn't enough genuine public-market demand. Rather than letting the price collapse to whatever level would actually clear - which might have embarrassingly undercut the private valuation its venture investors were already holding on their own books - the company and its bankers chose to withdraw the deal rather than let the market reveal an uncomfortable true price.\n\nThat's the core tension price discovery creates for privately held, richly valued companies: as long as they stay private, their valuation is whatever the last funding round said it was, untested by any broad market. The moment they try to go public, that private number collides with what real buyers, armed with public information and free to simply not buy, are actually willing to pay. A withdrawn IPO doesn't erase that gap - it only postpones the moment of finding out."
+      },
+      "he": {
+        "headline": "תמחור שוק (Price Discovery): איך שוק מגלה כמה דבר שווה באמת",
+        "scroll": "תמחור שוק הוא התהליך שבו קנייה ומכירה בפועל - ולא מספר שמוכרז - חושפים כמה נכס שווה באמת, וזה בדיוק מה שהנפקה שקרסה חושפת בעל כורחה.",
+        "coffee": "תמחור שוק (price discovery) הוא התהליך המתמשך שבו שוק מהפך דעות פרטיות רבות, ולעיתים סותרות, על שווי נכס, למחיר ציבורי אחד - באמצעות קנייה ומכירה בפועל, ולא באמצעות הכרזה של מישהו על הערכת שווי. שווי של חברת הזנק שנקבע בסבב גיוס, במשא ומתן פרטי בין החברה לכמה משקיעי הון סיכון, אינו תמחור שוק במובן הזה, מכיוון שהוא לעולם לא נבדק מול מאגר רחב ועצמאי של קונים.\n\nהנפקה (IPO) היא אחד מאירועי תמחור השוק החדים ביותר שחברה אי פעם עוברת, בדיוק מכיוון שזו לרוב הפעם הראשונה שהשווי שלה נפגש עם שוק רחב וציבורי במקום עם חוג מצומצם של משקיעים פרטיים.",
+        "deep": "## תמחור שוק, מודגם באמצעות הנפקה\n\nתמחור שוק הוא מה שקורה כששוק מהפך דעות פרטיות רבות, ולעיתים סותרות, על שווי נכס, למחיר ציבורי אחד, באמצעות קנייה ומכירה בפועל - לא באמצעות הכרזה של מישהו על מספר. שווי של חברה פרטית, שנקבע בסבב גיוס בין חברת הזנק לכמה משקיעי הון סיכון, אינו תמחור שוק במובן הזה: הוא נקבע במשא ומתן בין שני צדדים שיש להם אינטרס משותף להסכים על מספר גבוה, והוא לעולם לא נבדק מול מאגר רחב ועצמאי של קונים.\n\nהנפקה ראשונית לציבור (IPO) היא אחד מאירועי תמחור השוק הברורים ביותר שחברה עוברת, מכיוון שזו לרוב הפעם הראשונה שהשווי של החברה נפגש עם שוק רחב וציבורי ולא עם חוג מצומצם של משקיעים פרטיים. כך זה עובד באופן מכני: בנקי השקעות שמחתמים את ההנפקה קובעים טווח מחיר ראשוני על בסיס חברות דומות ושיחות עם משקיעים, ולאחר מכן מבלים ימים ב'בנייה של ספר הזמנות' (book-building) - סריקת משקיעים מוסדיים (קרנות נאמנות, קרנות פנסיה, קרנות גידור) לגבי כמה מניות הם יקנו ובאיזה מחיר. אם הביקוש בטווח המוצע חזק, הבנקאים עשויים לתמחר בקצה העליון של הטווח או אפילו להעלות אותו; אם הביקוש חלש, הם מורידים את המחיר, דוחים את העסקה, או, במקרה הקיצוני ביותר, מבטלים אותה כליל.\n\nההנפקה הטכנולוגית הכושלת באוסטרליה השבוע - שלפי הדיווחים קשורה לבנייה של מרכזי נתונים שעומדת מאחורי פריצת הבינה המלאכותית - היא תמחור שוק שפועל בדיוק כמו שצריך, אף שזו תוצאה מאכזבת לחברה ולמשקיעים המוקדמים שלה: תהליך בניית ספר ההזמנות חשף שבשווי שהחברה והגורמים הפרטיים שמימנו אותה דימיינו, פשוט לא היה ביקוש אמיתי מספיק מהשוק הציבורי. במקום לאפשר למחיר לקרוס לרמה שבאמת הייתה מתפנה - מה שהיה עשוי להמעיט במבוכה מהשווי הפרטי שמשקיעי ההון סיכון שלה כבר מחזיקים במאזנים שלהם - החברה והבנקאים שלה בחרו למשוך את העסקה במקום לאפשר לשוק לחשוף מחיר אמיתי ולא נוח.\n\nזה המתח המרכזי שתמחור שוק יוצר לחברות פרטיות ובעלות שווי גבוה: כל עוד הן נשארות פרטיות, השווי שלהן הוא כל מה שסבב הגיוס האחרון קבע, בלי שום בחינה מול שוק רחב. ברגע שהן מנסות לצאת לציבור, המספר הפרטי הזה מתנגש עם מה שקונים אמיתיים, המחזיקים במידע ציבורי וחופשיים פשוט לא לקנות, מוכנים לשלם בפועל. הנפקה שנמשכה לא מוחקת את הפער הזה - היא רק דוחה את רגע הגילוי."
+      },
+      "tags": [
+        "markets",
+        "ipo",
+        "valuation"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-woodford-olympus",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2011: Olympus Fires the CEO Who Had Just Uncovered Its Own Billion-Dollar Cover-Up",
+        "scroll": "On this day in 2011, Olympus dismissed its British CEO Michael Woodford weeks after he uncovered internal financial misconduct, turning an attempted cover-up into one of the largest corporate scandals in Japanese business history.",
+        "coffee": "On 14 October 2011, Japanese optics maker Olympus dismissed its president and CEO, Michael Woodford, an English executive who had risen through the company's ranks over nearly three decades. Woodford had just begun uncovering irregular, years-old acquisitions and advisory payments that were later found to have concealed roughly $1.7 billion in investment losses. Rather than address what he had found, Olympus's board removed him - and Woodford went public, taking his evidence to the press and to Japanese and British authorities instead of staying quiet.\n\nThe case became one of the largest corporate scandals in Japanese business history, exposing how a company had used opaque M&A deals and inflated advisory fees over years to hide losses from shareholders, auditors and regulators. It also became a landmark test of Japanese corporate governance: a foreign CEO blowing the whistle on his own board, in a business culture that prizes internal consensus and deference to leadership, highlighted how difficult it can be for insiders - let alone outsiders - to challenge concealment at the top of a major company.",
+        "deep": "## What happened\n\nMichael Woodford, an English executive who had worked at Olympus for nearly three decades across its European operations, was named president and chief executive of the Japanese optics and camera maker in 2011 - a rare instance of a foreigner reaching the top of a major, century-old Japanese manufacturer. Within weeks of his appointment, Woodford began digging into a set of unusual, high-fee acquisitions and advisory payments the company had made years earlier, after a magazine report raised questions about them. What he found alarmed him enough to confront Olympus's chairman and board directly.\n\nInstead of investigating further, the board voted to dismiss Woodford on 14 October 2011, citing vague management-style differences. Woodford didn't go quietly: he took his files to the Japanese and UK press, to Japanese prosecutors, and to Britain's Serious Fraud Office, rather than accept a quiet severance - an unusual move in a corporate culture where public confrontation with a former employer is rare.\n\n## Why it mattered\n\nThe ensuing investigation found that Olympus had used a web of acquisitions and improperly inflated advisory fees, paid to obscure intermediary firms, to mask roughly $1.7 billion in losses from failed financial investments dating back to the 1990s - losses the company had hidden from public shareholders for years through accounting sleight of hand rather than disclosure. Several executives, including the chairman who fired Woodford, were later convicted or resigned over the scandal, and Olympus paid significant fines and settlements.\n\nThe case became a textbook example of weak corporate governance: a board that closed ranks to protect a cover-up rather than confront it, auditors who failed to catch a decade-long concealment, and a system in which internal consensus and deference to existing leadership left a lone whistleblowing executive - even one at the very top of the company - almost powerless alone. It fed a broader debate in Japan about board independence and external oversight that continued for years afterward, and Woodford's own account of the episode became a widely cited case study on the limits of being right from inside a captured institution."
+      },
+      "he": {
+        "headline": "2011: אולימפוס מפטרת את המנכ\"ל שחשף רגע קודם את ההסתרה הפיננסית שלה עצמה",
+        "scroll": "ב-14 באוקטובר 2011 פיטרה אולימפוס את מנכ\"לה הבריטי מייקל וודפורד שבועות אחרי שחשף הונאה פיננסית פנימית, והפכה ניסיון הסתרה לאחד השערוריות התאגידיות הגדולות בהיסטוריה העסקית היפנית.",
+        "coffee": "ב-14 באוקטובר 2011 פיטרה יצרנית האופטיקה היפנית אולימפוס את נשיאה ומנכ\"לה, מייקל וודפורד, מנהל אנגלי שעלה בדרגות החברה במשך כשלושים שנה. וודפורד רק התחיל לחשוף רכישות ותשלומי ייעוץ חריגים וישנים, שהתגלו בהמשך כמסתירים הפסדי השקעות של כ-1.7 מיליארד דולר. במקום להתמודד עם מה שגילה, דירקטוריון אולימפוס סילק אותו - וודפורד לא שתק: הוא העביר את הראיות שלו לעיתונות היפנית והבריטית ולרשויות ביפן ובבריטניה, במקום לשמור על שתיקה.\n\nהמקרה הפך לאחת השערוריות התאגידיות הגדולות בהיסטוריה העסקית היפנית, וחשף כיצד החברה השתמשה בעסקות מיזוג ורכישה עלומות ובדמי ייעוץ מנופחים במשך שנים כדי להסתיר הפסדים מבעלי מניות, רואי חשבון ורגולטורים. המקרה הפך גם למבחן מכריע לממשל תאגידי יפני: מנכ\"ל זר שחושף שחיתות בדירקטוריון שלו עצמו, בתרבות עסקית שמעריכה הסכמה פנימית וכניעה להנהגה, הדגיש כמה קשה לאנשים מבפנים - לא כל שכן מבחוץ - לאתגר הסתרה בראש חברה גדולה.",
+        "deep": "## מה קרה\n\nמייקל וודפורד, מנהל אנגלי שעבד באולימפוס במשך כשלושים שנה בפעילותה האירופית, התמנה לנשיא ולמנכ\"ל של יצרנית האופטיקה והמצלמות היפנית ב-2011 - מקרה נדיר של זר שמגיע לראש יצרנית יפנית גדולה ועתיקת-שנים. בתוך שבועות מהמינוי, וודפורד התחיל לחקור קבוצה של רכישות ותשלומי ייעוץ חריגים ובעלי עמלות גבוהות שהחברה ביצעה שנים קודם לכן, אחרי שדיווח במגזין העלה שאלות לגביהם. מה שהוא מצא הדאיג אותו מספיק כדי להתעמת ישירות עם יו\"ר אולימפוס ועם הדירקטוריון.\n\nבמקום לחקור עוד, הדירקטוריון הצביע לפטר את וודפורד ב-14 באוקטובר 2011, בטענה למחלוקות עמומות בסגנון ניהול. וודפורד לא עזב בשתיקה: הוא העביר את התיקים שלו לעיתונות היפנית והבריטית, לתובעים יפנים, וללשכה הבריטית לחקירת הונאות חמורות (Serious Fraud Office), במקום לקבל פיצויי פיטורים בשתיקה - מהלך חריג בתרבות עסקית שבה עימות פומבי עם מעסיק לשעבר הוא נדיר.\n\n## למה זה היה חשוב\n\nהחקירה שבאה בעקבות זאת מצאה שאולימפוס השתמשה ברשת של רכישות ודמי ייעוץ שמנופחו בצורה פסולה, ששולמו לחברות מתווכות עלומות, כדי להסתיר הפסדים של כ-1.7 מיליארד דולר מהשקעות פיננסיות כושלות שמקורן בשנות ה-90 - הפסדים שהחברה הסתירה מבעלי מניות ציבוריים במשך שנים באמצעות תחבולות חשבונאיות ולא גילוי נאות. כמה מנהלים, כולל היו\"ר שפיטר את וודפורד, הורשעו בהמשך או התפטרו בשל השערוריה, ואולימפוס שילמה קנסות והסדרים משמעותיים.\n\nהמקרה הפך לדוגמה קלאסית של ממשל תאגידי כושל: דירקטוריון שהתלכד להגן על הסתרה במקום להתמודד איתה, רואי חשבון שלא הצליחו לתפוס הסתרה שנמשכה עשור, ומערכת שבה הסכמה פנימית וכניעה להנהגה הקיימת הפכו מנהל בודד שחושף שחיתות - אפילו אחד שעמד בראש החברה עצמה - לחסר כוח כשהוא לבדו. המקרה הזין דיון רחב יותר ביפן על עצמאות דירקטוריונים ופיקוח חיצוני שנמשך שנים אחר כך, והתיאור של וודפורד עצמו לאירוע הפך למקרה בוחן מצוטט רבות על מגבלות הצדק כשהוא בא מבפנים מוסד שנשלט בידי מי שהוא אמור לפקח עליהם."
+      },
+      "tags": [
+        "corporate-governance",
+        "japan",
+        "whistleblowing"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2011: Michael Woodford was dismissed as the CEO of the optics manufacturer Olympus after uncovering internal financial misconduct, escalating the corporate scandal into one of the largest in Japanese business history.",
+          "url": "https://en.wikipedia.org/wiki/Michael_Christopher_Woodford"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "section": "geopolitics",
+  "date": "2026-10-14",
+  "title_en": "Geopolitics",
+  "title_he": "גיאופוליטיקה",
+  "default_lang": "en",
+  "generated_at": "2026-10-14T04:16:46+00:00",
+  "stories": [
+    {
+      "id": "gulf-shadow-war",
+      "kind": "analysis",
+      "en": {
+        "headline": "A Fire at Aramco, Intercepted Missiles Near Riyadh: The Gulf's Shadow War Widens",
+        "scroll": "A fire at a Saudi Aramco site, blasts near its Dhahran HQ, and intercepted missiles near Riyadh point to a widening, undeclared conflict across the Gulf's energy infrastructure.",
+        "coffee": "Saudi Arabia's energy ministry said a fire broke out at an Aramco building after it was \"targeted in an attack,\" while sources told Reuters that loud booms were heard separately near Aramco's headquarters in Dhahran. Around the same time, the Saudi-led coalition fighting in Yemen intercepted missiles near Riyadh after striking a Houthi-controlled fuel depot near the Yemeni capital, Sanaa.\n\nThe incidents land alongside two other signals: Reuters reported that Iran is shifting tactics to step up attacks on shipping in the region ahead of the U.S. election, and the UK's MI5 chief, Ken McCallum, said Iran is targeting military sites abroad, warning that a suspected plot at RAF Fairford was \"not unique.\"\n\nNo one has officially claimed the Aramco attack, but the pattern - energy sites, shipping lanes and a Western air base all probed in the same stretch - points to Iran and Iran-aligned forces testing how far they can push without triggering a wider, declared war.",
+        "deep": "## Background\n\nSaudi Arabia's oil infrastructure has been a recurring target in the region's long, mostly undeclared contest between Iran and its rivals. The most notorious precedent is the September 2019 drone and missile attack on the Abqaiq and Khurais facilities, which briefly knocked out roughly half of Saudi oil output; Riyadh and Washington blamed Iran, which denied involvement. Since 2015, a Saudi-led coalition has also been fighting the Houthi movement in Yemen, an Iran-aligned group that controls Sanaa and has repeatedly fired missiles and drones at Saudi cities and infrastructure. A fragile, UN-brokered truce in that war has broken down and been patched up several times.\n\n## The story\n\nToday's reports describe several incidents in close succession rather than one clear event. Saudi Arabia's energy ministry confirmed a fire at an Aramco building, saying it followed an attack, though it did not name an attacker. Separately, Reuters sources reported hearing loud booms near Aramco's Dhahran headquarters - the company's nerve centre - without confirming a cause. The Saudi-led coalition also struck a Houthi fuel depot near Sanaa, and the Houthis responded with missiles that Saudi air defences intercepted near Riyadh, a reminder that the Yemen front is still live even when it isn't leading headlines.\n\nLayered on top of this, Reuters cited unnamed officials saying Iran is changing tactics to intensify attacks on shipping in the wider region specifically ahead of the U.S. election - a detail that implies a deliberate, calendar-driven strategy rather than opportunism. And in London, MI5 director general Ken McCallum said Iran is targeting military sites on British soil, describing a suspected plot against RAF Fairford, a base used by U.S. and UK forces, as part of a broader pattern rather than an isolated case.\n\n## Second-order effects\n\nThe most immediate channel is energy markets: Brent crude had already slipped about 2% on the day, and any confirmed, attributable attack on Saudi production or export infrastructure tends to snap prices back up sharply, as it did in 2019. Shipping is a second channel - insurers typically raise premiums for vessels transiting the Gulf and the Bab-el-Mandeb Strait when attack tempo rises, which raises costs that eventually reach consumers.\n\nThere's also an alliance dimension. MI5's willingness to publicly flag a UK base as an Iranian target, in the same breath as it discusses Russia and AI-enabled threats, signals that London now treats Iran as a persistent, not episodic, security problem - which could shape how aggressively Western governments respond to the Gulf incidents, and how closely intelligence services coordinate with Riyadh.\n\nFinally, the timing tied to the U.S. election is itself a signal: if Tehran is indeed calibrating pressure to the U.S. political calendar, it suggests Iran is trying to shape what the next U.S. administration inherits, rather than reacting to a specific provocation.\n\n## What to watch next\n\nThe key open question is attribution: whoever is confirmed responsible for the Aramco fire will determine whether this stays a simmering, deniable conflict or escalates into something Riyadh and Washington respond to directly. Watch Aramco's own statements and Saudi state media in the coming days, oil price moves, any UK government response to the RAF Fairford plot, and whether Houthi missile and drone activity against Saudi Arabia picks up further as the Yemen truce frays."
+      },
+      "he": {
+        "headline": "שרפה באראמקו, טילים יורטו ליד ריאד: מלחמת הצללים במפרץ מתרחבת",
+        "scroll": "שרפה במתקן של ענקית הנפט הסעודית אראמקו, פיצוצים ליד מטה החברה בדהראן וטילים שיורטו ליד ריאד - מצביעים על הסלמה במלחמת צללים בלתי מוכרזת על תשתיות האנרגיה במפרץ הפרסי.",
+        "coffee": "משרד האנרגיה הסעודי דיווח כי שרפה פרצה במבנה של חברת אראמקו (Aramco) לאחר ש\"הותקף\", בעוד שמקורות מסרו לרויטרס כי נשמעו פיצוצים חזקים בנפרד בקרבת מטה החברה בעיר דהראן. במקביל, הקואליציה בראשות סעודיה שנלחמת בתימן יירטה טילים ליד ריאד, זמן קצר אחרי שתקפה מחסן דלק בשליטת החות'ים סמוך לצנעא, בירת תימן.\n\nהאירועים מצטרפים לשני דיווחים נוספים: רויטרס מסרה כי איראן משנה את שיטות הפעולה שלה ומגבירה תקיפות על אוניות באזור, לפני הבחירות בארצות הברית, ושירות הביטחון הבריטי MI5, בראשות קן מק'קאלום, הזהיר כי איראן מכוונת למתקנים צבאיים מעבר לים, ותיאר תוכנית חשודה שנחשפה בבסיס RAF Fairford הבריטי כ\"לא יוצאת דופן\".\n\nאף גורם לא קיבל רשמית אחריות על התקיפה באראמקו, אך הדפוס - פגיעה במתקני אנרגיה, בנתיבי שיט ובבסיס צבאי מערבי, הכול בתוך חלון זמן קצר - מצביע על כך שאיראן וכוחות הקשורים לה בוחנים עד כמה ניתן להסלים מבלי להידרדר למלחמה גלויה.",
+        "deep": "## רקע\n\nתשתיות הנפט של סעודיה הן מטרה חזרה במאבק הממושך, ובמידה רבה הסמוי, בין איראן ליריבותיה באזור. התקדים הידוע ביותר הוא תקיפת הטילים והרחפנים ממתקני אבקייק וח'וריס בספטמבר 2019, שהשביתה לזמן קצר כמחצית מתפוקת הנפט הסעודית; ריאד וושינגטון הטילו את האחריות על איראן, שהכחישה מעורבות. מאז 2015 מנהלת קואליציה בראשות סעודיה מלחמה בתימן נגד תנועת החות'ים, הנתמכת על ידי איראן ושולטת בצנעא, ושירתה שוב ושוב טילים ורחפנים לעבר ערים ותשתיות סעודיות. הפסקת אש שבריכה, שתווכה על ידי האו\"ם, קרסה וחודשה כמה פעמים.\n\n## הסיפור\n\nהדיווחים של היום מתארים כמה אירועים ברצף הדוק, ולא אירוע בודד וחד-משמעי. משרד האנרגיה הסעודי אישר שרפה במבנה של אראמקו בעקבות תקיפה, אך לא נקב בשם התוקף. בנפרד, מקורות של רויטרס דיווחו על פיצוצים חזקים בקרבת מטה אראמקו בדהראן - מרכז העצבים של החברה - מבלי לאשר את הגורם להם. הקואליציה בראשות סעודיה גם תקפה מחסן דלק של החות'ים סמוך לצנעא, והחות'ים הגיבו בטילים שההגנה האווירית הסעודית יירטה ליד ריאד, תזכורת לכך שהחזית התימנית עדיין פעילה גם כשהיא אינה מככבת בכותרות.\n\nמעל לכך, רויטרס ציטטה גורמים שלא נקבו בשמם ולפיהם איראן משנה שיטות פעולה כדי להגביר תקיפות על אוניות באזור, במיוחד לפני הבחירות בארצות הברית - פרט שמרמז על אסטרטגיה מכוונת ומתוזמנת, ולא על התפרצות מקרית. בלונדון, ראש שירות הביטחון הבריטי MI5, קן מק'קאלום, אמר כי איראן מכוונת למתקנים צבאיים על אדמת בריטניה, ותיאר תוכנית חשודה נגד בסיס RAF Fairford - המשמש כוחות אמריקאים ובריטים - כחלק מדפוס רחב ולא כמקרה בודד.\n\n## השפעות מדרגה שנייה\n\nהערוץ המיידי ביותר הוא שוקי האנרגיה: מחיר נפט מסוג ברנט (Brent) כבר ירד כ-2% באותו יום, וכל תקיפה שתיוחס בוודאות למתקני ייצוא או ייצור סעודיים נוטה להקפיץ את המחירים בחזרה בחדות, כפי שקרה ב-2019. נתיבי השיט הם ערוץ שני: חברות הביטוח נוהגות להעלות פרמיות לכלי שיט החוצים את המפרץ הפרסי ואת מצר באב אל-מנדב כאשר קצב התקיפות עולה, מה שמייקר עלויות שבסופו של דבר מגיעות לצרכנים.\n\nיש גם ממד של ברית בין-לאומית. הנכונות של MI5 לציין בפומבי שבסיס בריטי הוא מטרה איראנית, באותה נשימה שבה הוא מדבר על רוסיה ועל איומים מבוססי בינה מלאכותית, מסמנת שלונדון רואה כיום באיראן איום קבוע ולא אירועי - מה שעלול לעצב את מידת התגובה התקיפה של מדינות המערב לאירועים במפרץ, ואת עומק התיאום עם סעודיה.\n\nלבסוף, התזמון שנקשר לבחירות בארצות הברית הוא עצמו איתות: אם טהרן אכן מכווננת את רמת הלחץ לפי הלוח הפוליטי האמריקאי, הדבר מרמז שאיראן מנסה לעצב את מה שהממשל האמריקאי הבא יקבל לידיו, ולא רק מגיבה לפרובוקציה ספציפית.\n\n## למה לשים לב בהמשך\n\nהשאלה הפתוחה המרכזית היא ייחוס האחריות: מי שיוכר כאחראי לשרפה באראמקו יקבע אם זה יישאר עימות רותח אך מוכחש, או יסלים למשהו שריאד וושינגטון יגיבו לו באופן ישיר. יש לעקוב אחר הודעות אראמקו ותקשורת המדינה הסעודית בימים הקרובים, תנודות במחירי הנפט, תגובת הממשלה הבריטית לתוכנית שנחשפה ב-RAF Fairford, ואם פעילות הטילים והרחפנים של החות'ים נגד סעודיה תגבר ככל שהפסקת האש בתימן תתפורר."
+      },
+      "tags": [
+        "iran",
+        "saudi-arabia",
+        "gulf",
+        "energy"
+      ],
+      "sources": [
+        {
+          "outlet": "AP — World (via Google News)",
+          "title": "Fire breaks out at a Saudi Aramco building targeted in an attack, energy ministry says - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR002VVo0b3ZvU0RXV3V5TWdvX0Jmc1NiQjBDNjljbTVWbFZnQ1hIUm5WTUNHZFZSNlV4WWoxZVBDNFhwZUEzZF9kVUlla0dZOWstVWZQQnA1TGpqeXI4Y05KbkpOay00U3NLYkZxZ1BHQWQ4ay14eEk3bHlfSzBMVzlrd2tuQ1hyaHoteGZSZ0pyYjdvYjB1QlEtOTR1YVNZZnZTRw?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Loud booms heard near Saudi Aramco headquarters in Dhahran, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWJ1bWRqeFpzOUpDR0ZNRTB3cnlsY0gyMGxVcnY2U3VZX0Q1bnc4eFlZZldDem9uQ3dNUzBORU1rak0wWVpIcURXNEJJQ1ZMbXRpZUF1QTJZbU9Vd2gxN3A1YW5QWko0M1JnUXRlM1Y4T0JLdENPWUJUcjZsMHJDeGlDTGtpZ3R2cVowc01oOC1GRVVOUktNZTZCRWQtRUhOMDFyVURaNDZOOS10TURrcEpvQWdGYnR1WjJkRFdB?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+          "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+          "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "kyiv-power-strike-london-visit",
+      "kind": "analysis",
+      "en": {
+        "headline": "Russia Hits a Kyiv Power Plant With No Warning as Zelensky Seeks Fresh Backing in London",
+        "scroll": "Russian missiles struck a major Kyiv power plant with no advance warning from allies, Zelensky said, as he visited Britain seeking renewed support and new talks with U.S. envoys on ending the war.",
+        "coffee": "Russian missile strikes hit a key power plant in Kyiv, killing two people, President Volodymyr Zelensky said - adding that Ukraine received no intelligence from its partners about the missiles heading toward the capital, a gap he flagged as unusual.\n\nThe strike came as Zelensky visited Britain, where Greater Manchester mayor Andy Burnham pledged fresh support for Ukraine, and as Zelensky said separately that he is seeking new talks with U.S. envoys on ending the war with Russia - suggesting the current diplomatic track needs a reset heading into winter.\n\nMeanwhile in Germany, a Ukrainian former officer went on trial accused of the 2022 Nord Stream pipeline bombings, a reminder that the war's covert, cross-border dimension - including attacks on energy infrastructure far from the front line - is still being litigated even as new strikes on Ukraine's own grid continue.",
+        "deep": "## Background\n\nSince Russia's full-scale invasion in February 2022, Russia has repeatedly targeted Ukraine's electricity grid, especially as winter approaches, aiming to raise the cost of the war for Ukrainian civilians and increase pressure on Kyiv's Western backers to either fund reconstruction or push for a settlement. Western governments have in the past shared early warning of incoming missile and drone waves with Ukraine, using satellite and radar intelligence, to help Ukrainian air defences prepare. Separately, the September 2022 bombing of the Nord Stream gas pipelines - which had carried Russian gas to Germany - remains one of the war's most consequential unsolved acts of sabotage, cutting a major energy link between Moscow and Berlin and reshaping Europe's gas market overnight.\n\n## The story\n\nZelensky said Russian missiles struck a major power plant in Kyiv, killing two people, and - notably - that Ukraine's partners gave no advance intelligence about the missiles' approach this time. Given how routine such warnints have reportedly become, their absence is itself news: it raises the question of whether this reflects an intelligence gap, a deliberately unpredictable Russian flight path, or simply a strike that came from a direction or in a way current coverage doesn't catch.\n\nThe timing placed Zelensky in Britain as the news broke. Andy Burnham, the mayor of Greater Manchester - not a national foreign-policy figure - publicly pledged renewed support for Ukraine, a sign that pro-Ukraine commitments in the UK are broadening beyond Westminster to regional politicians. Zelensky also said he is pushing for new talks with U.S. envoys aimed at ending the war, language that implies the existing U.S.-brokered diplomatic process has stalled or needs fresh momentum.\n\nIn parallel, a Ukrainian former military officer, identified in reporting only as Serhii K., went on trial in Germany over the Nord Stream bombings - the first time a named individual has faced a courtroom over the attack, four years on.\n\n## Second-order effects\n\nFor Ukrainian civilians, a hit on a major Kyiv power plant heading into winter risks renewed blackouts, strain on heating and water systems, and potential new waves of displacement - repeating a pattern from the war's earlier winters. For the Western alliance, any confirmed gap in intelligence-sharing would be uncomfortable: Ukraine has leaned heavily on partner satellite and signals intelligence to compensate for its weaker long-range radar coverage, and a missed warning invites scrutiny of whether that pipeline is still working as intended.\n\nThe Nord Stream trial carries its own friction. Germany has been one of Ukraine's most important military and financial backers since 2022, even as its own gas supply was hit by the pipeline sabotage; a German courtroom now examining a Ukrainian citizen's alleged role in that attack could complicate the political optics in Berlin, even if the German government's material support for Kyiv doesn't change. And Zelensky's push for fresh U.S. talks suggests Kyiv sees an opening - or a necessity - to re-engage Washington on an endgame, separate from whatever the battlefield situation dictates.\n\n## What to watch next\n\nWatch for Ukrainian and Western statements clarifying why no warning reached Kyiv this time, any further UK pledges beyond Burnham's - especially from the national government - following Zelensky's visit, the progress and verdict in the Nord Stream trial in Germany and how Kyiv's government responds to it diplomatically, and whether Zelensky's request for new talks with U.S. envoys produces an actual meeting or announcement in the coming days."
+      },
+      "he": {
+        "headline": "רוסיה תקפה תחנת כוח בקייב בלי אזהרה, בעוד זלנסקי מחזר אחר תמיכה מחודשת בלונדון",
+        "scroll": "טילים רוסים פגעו בתחנת כוח מרכזית בקייב בלי אזהרה מוקדמת מבעלות הברית, אמר זלנסקי, בעת שביקר בבריטניה וחיפש תמיכה מחודשת ושיחות חדשות עם שליחים אמריקאים לסיום המלחמה.",
+        "coffee": "טילים רוסים פגעו בתחנת כוח מרכזית בקייב והרגו שני אנשים, אמר נשיא אוקראינה וולודימיר זלנסקי, והוסיף כי אוקראינה לא קיבלה הפעם מידע מודיעיני מבעלות בריתה על הטילים שהתקרבו לעיר הבירה - פער שהוא תיאר כחריג.\n\nהתקיפה התרחשה בעת שזלנסקי ביקר בבריטניה, שם ראש עיריית גרייטר מנצ'סטר, אנדי ברנהם, הכריז על תמיכה מחודשת באוקראינה, ובעת שזלנסקי אמר בנפרד כי הוא מבקש לקיים שיחות חדשות עם שליחים אמריקאים לסיום המלחמה עם רוסיה - מה שמרמז שהמסלול הדיפלומטי הנוכחי זקוק לאתחול לקראת החורף.\n\nבמקביל, בגרמניה, קצין אוקראיני לשעבר עמד לדין באשמת פיצוץ צנרת נורד סטרים ב-2022, תזכורת לכך שהממד הסמוי והחוצה-גבולות של המלחמה - כולל פגיעות בתשתיות אנרגיה הרחק מקו החזית - עדיין נדון בבתי משפט, גם כשהתקיפות על רשת החשמל האוקראינית עצמה ממשיכות.",
+        "deep": "## רקע\n\nמאז הפלישה הרחבה של רוסיה בפברואר 2022, רוסיה תוקפת שוב ושוב את רשת החשמל של אוקראינה, במיוחד לקראת החורף, בניסיון להעלות את מחיר המלחמה לאזרחים האוקראינים ולהגביר את הלחץ על תומכי קייב במערב - בין אם לממן שיקום ובין אם לדחוף להסכם. בעבר חלקו ממשלות מערביות עם אוקראינה אזהרה מוקדמת על גלי טילים ורחפנים נכנסים, באמצעות מודיעין לוויינים ומכ\"ם, כדי לעזור להגנה האווירית האוקראינית להתכונן. בנפרד, פיצוץ צנרות הגז נורד סטרים בספטמבר 2022 - שהעבירו גז רוסי לגרמניה - נותר אחד ממעשי החבלה המשמעותיים והבלתי פתורים של המלחמה, שניתק קו אנרגיה מרכזי בין מוסקבה לברלין ושינה בן לילה את שוק הגז האירופי.\n\n## הסיפור\n\nזלנסקי אמר כי טילים רוסים פגעו בתחנת כוח מרכזית בקייב, והרגו שני אנשים, וכי - באופן בולט - בעלות בריתה לא העבירו לאוקראינה הפעם מודיעין מוקדם על התקרבות הטילים. בהינתן שאזהרות כאלה הפכו, לפי הדיווחים, לשגרתיות, היעדרן הוא כשלעצמו חדשות: הוא מעלה את השאלה אם מדובר בפער מודיעיני, במסלול תעופה רוסי שנועד להיות בלתי צפוי, או פשוט בתקיפה שהגיעה מכיוון או בדרך שלא נתפסה בדיווחים הנוכחיים.\n\nהתזמון הציב את זלנסקי בבריטניה כשהידיעה התפרסמה. אנדי ברנהם, ראש עיריית גרייטר מנצ'סטר - שאינו דמות במדיניות החוץ הלאומית - הכריז פומבית על תמיכה מחודשת באוקראינה, סימן לכך שמחויבות לאוקראינה בבריטניה מתרחבת מעבר לווסטמינסטר אל פוליטיקאים אזוריים. זלנסקי גם אמר כי הוא דוחף לשיחות חדשות עם שליחים אמריקאים שמטרתן לסיים את המלחמה, ניסוח שמרמז כי התהליך הדיפלומטי הקיים בתיווך אמריקאי נתקע או זקוק למומנטום מחודש.\n\nבמקביל, קצין צבא אוקראיני לשעבר, המזוהה בדיווחים רק בשם סרהיי ק', עמד לדין בגרמניה בנוגע לפיצוצי נורד סטרים - בפעם הראשונה שאדם מזוהה בשם ניצב למשפט על התקיפה, ארבע שנים אחריה.\n\n## השפעות מדרגה שנייה\n\nלאזרחים האוקראינים, פגיעה בתחנת כוח מרכזית בקייב לקראת החורף טומנת בחובה סיכון להפסקות חשמל מחודשות, עומס על מערכות חימום ומים, וגלי עקירה אפשריים נוספים - חזרה על דפוס מהחורפים הקודמים של המלחמה. לברית המערבית, כל פער מאושר בשיתוף מודיעין יהיה מביך: אוקראינה נשענת בכבדות על מודיעין לוויינים ואיתור סיגנלים של בעלות בריתה כדי לקזז את כיסוי המכ\"ם המוגבל שלה לטווח רחוק, ואזהרה שלא הגיעה מזמינה בדיקה אם צינור המידע הזה עדיין פועל כמתוכנן.\n\nלמשפט נורד סטרים חיכוך משלו. גרמניה הייתה אחת מהתומכות הצבאיות והכלכליות החשובות ביותר של אוקראינה מאז 2022, גם כשאספקת הגז שלה עצמה נפגעה מחבלת הצנרת; בית משפט גרמני שבוחן כעת את מעורבותו הנחזית של אזרח אוקראיני בתקיפה ההיא יכול לסבך את התמונה הפוליטית בברלין, גם אם התמיכה המהותית של הממשלה הגרמנית בקייב לא תשתנה. והדחיפה של זלנסקי לשיחות אמריקאיות חדשות מרמזת שקייב רואה הזדמנות - או הכרח - לחדש את המעורבות של וושינגטון בשאלת סוף המלחמה, בנפרד ממה שמצב שדה הקרב מכתיב.\n\n## למה לשים לב בהמשך\n\nיש לעקוב אחר הצהרות אוקראיניות ומערביות שיבהירו מדוע לא הגיעה אזהרה לקייב הפעם, הבטחות בריטיות נוספות מעבר לזו של ברנהם - בעיקר מהממשלה הלאומית - בעקבות ביקורו של זלנסקי, התקדמות וגזר הדין במשפט נורד סטרים בגרמניה ואופן התגובה הדיפלומטית של ממשלת קייב לו, וכן אם בקשתו של זלנסקי לשיחות חדשות עם שליחים אמריקאים תוביל לפגישה או הודעה ממשית בימים הקרובים."
+      },
+      "tags": [
+        "ukraine",
+        "russia",
+        "nato",
+        "energy"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "AP — World (via Google News)",
+          "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkZsTE1wTW5KVUZmUUJ3MFhPTEdiajVmTWR3UUt6eU9uSWpHWlNmdDVpTUhSa1BnQTVDaW9GUXJoOXp2N2VmVGJ4cE5MNU1KazJCWVZPVGlIMGRnd2JTbndndmZGZEd0d3Zyc243ZnJ2RFVxMm9GNUItaXNteWRxUl9fUnlPc2wzVE1URzVDQXBhSmNiajN0MkdON3BrRGRjRllIUVptV0dzdDhYLTRlc3N6bw?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Russian missile attack on Kyiv kills two, Zelenskiy says no warning received - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW5OV0ZHelpkMDB3VlZCUGVNYl9KRExhWmNZakJjMUxsMzg0dHFOZXJtenRzQXpGUXdydDNYdHZ2d05Tc2RmZXdSeFZMeGJZSkgzUVYyMmdzSGZYWVY5NUJfOFU2RFBMQTlzRmNCZElNbnlaQVN5UU5qMVBaR2VjX0xCWHRCZw?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Zelenskiy visits Britain as Burnham pledges fresh support for Ukraine - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXAydE50SVUtc1ZfYlVwNW5GcjJsZngtang1RVZjdGpRMUdKT3MwZ2kxa3NYM1E3ODNNbG8wZ21CUXN6Y3UzU1Vwa05mODBtOURWQWo1dFE3TE95U2tsS2t6NE9YMUljS21QeTB2ZUMwN2YtYTNZd3lNa2hjNF9rYlpHdGJDSEtvSElNWDJnbGdHeU03ZXZ4WDRHTVJrZ0xsRjhuRUJyd2dUaUU?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Zelenskiy seeks new talks with US envoys on ending Russia war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVF4QUlJSF9ZLUQzNzdDamVITVo1VWxheldITWRIc29XY0hhM0l2Q1lFLTVnUmlOOEhKc2hNV1h6VEpHb2htWHJvdnNoTVoyN2FiYUFCOG4zWmVKSDhJa1RJRlBsT21ZVlRFdkxNeWFDcUc0d3Q0aWtTdXZVbS03bWpRdnVBcVJSazVvSHluVjFqQUR3OV9xY2tsMjIwMGhhOWc?oc=5"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2VKNWlkZ1ZWc21IbllNVEJFeThoRThXLVQ3WWF0OW9lOXgxRGZzc0FwYXBDVVhmTnhlOVEzRnRVZ0ZuOFFJbUkwdm5BV0lqX0l0eFU5bVpxN1NBZ01GU3NjcVR4cENRRFRmWklIOXNfOWJEMGRCTDBrTlAtVHdKejV5RUxZWm14R1M0OW1WTk9lSGpJNTlFVkFXM01PQ0hxMnowRlFRTjBvZTlm?oc=5"
+        }
+      ]
+    }
+  ]
+}
