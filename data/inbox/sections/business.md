@@ -18,109 +18,110 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Omoto: Can Tap Alternative LNG Amid Mideast Disruptions (Video)",
-     "published": "2026-10-14T07:15:33+00:00"
+     "title": "Kai-Fu Lee: AI Transformation Must Begin From the Top",
+     "published": "2026-10-14T07:35:45+00:00",
+     "summary": "01.AI Founder & CEO Kai-Fu Lee discusses how AI tools can boost efficiency at work, arguing that their deployment needs engagement from the very top leadership to work at their best. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "Asia The Pain Point for AI Jitters: Market Analysis",
+     "published": "2026-10-14T07:28:45+00:00",
+     "summary": "Anna Edwards, Guy Johnson, and Adam Linton break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Omoto: Can Tap Alternative LNG Amid Mideast Disruptions",
+     "published": "2026-10-14T07:15:33+00:00",
+     "summary": "Geopolitics is top of mind at Bloomberg’s New Economy Forum with escalating tensions in the Middle East. One of Japan’s top trading houses explained the impact of the war on their businesses around the world. Masayuki Omoto, President & CEO of Marubeni spoke to Bloomberg’s Shery Ahn on the sidelines of the Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Singapore's Gan Kim Yong: Trust and Cooperation Are Key",
      "published": "2026-10-14T07:06:56+00:00",
      "summary": "Singapore's Deputy PM Gan Kim Yong cites Singapore’s strong economic ties with China, India and Canada as examples of collaboration that helps the respective countries meet their needs and create a better future. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "India ‘Let Down Miserably’ During Covid, Goyal Says",
      "published": "2026-10-14T06:44:19+00:00",
      "summary": "India opted to double down on self-sufficiency after Covid, when it was unable to source essential equipment to deal with the pandemic and found itself “let down miserably” by other countries, Commerce Minister Piyush Goyal says. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "Saudi Aramco Headquarters Hit in Houthi Attack as Iran Escalates Hormuz Ship Strikes",
      "published": "2026-10-14T06:38:20+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "India Found Itself ‘Let Down Miserably’ During Covid, Goyal Says",
      "published": "2026-10-14T06:37:45+00:00",
      "summary": "India opted to double down on self-sufficiency after Covid, when it was unable to source essential equipment to deal with the pandemic and found itself “let down miserably” by other countries, the country Commerce Minister Piyush Goyal said. Hewas speaking at the Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Moody’s Says South Africa Is On Right Track For Rating Upgrade",
      "published": "2026-10-14T06:20:09+00:00",
      "summary": "South Africa is heading in the right direction for its first credit-rating upgrade by Moody’s Ratings since 2009, provided the country’s fiscal performance continues to improve."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "L&G Is Hedging Its Bond Purchases Against Risk of Selloff",
      "published": "2026-10-14T06:15:00+00:00",
      "summary": "Britain’s largest asset manager, Legal & General, is hedging its government bond purchases against the risk of a renewed selloff in global debt markets."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "Canada Aims for India Trade Deal by Year-End, Minister Says",
      "published": "2026-10-14T06:06:58+00:00",
      "summary": "Canada will seek to conclude a trade deal with India by the end of the year as the two countries look to strengthen economic ties and diversify partnerships amid growing global uncertainty."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "India Courts Global Investment Amid Escalating Protest Crackdown",
      "published": "2026-10-14T06:05:13+00:00",
      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "Sunil Mittal: Ahead of Starlink in Approval Queue",
      "published": "2026-10-14T06:05:05+00:00",
      "summary": "Asked about Elon Musk’s remarks regarding Indian telecom billionaires, Sunil Mittal said many companies are awaiting regulatory approvals and that he believes he is ahead of Musk in the queue. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#12",
      "title": "Dubai Aerospace Seeks $2.1 Billion Loan, Mainly From Asian Banks",
      "published": "2026-10-14T05:56:00+00:00",
      "summary": "Dubai Aerospace Enterprise Ltd. is seeking a $2.1 billion-equivalent loan, according to people familiar with the matter, in another sign of Asian banks’ willingness to lend to certain borrowers in the Middle East, despite the continuing conflict in Iran."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
      "title": "Can Gene-Edited Mosquitoes Beat Malaria?",
      "published": "2026-10-14T05:51:34+00:00",
      "summary": "Gene-edited mosquitoes could help prevent malaria transmission without eliminating the insects, but significant risks remain. Small, controlled releases could help test the approach while monitoring its effects, writes the Editorial Board. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#14",
      "title": "FTSE 100 Live: Gilts Lead European Bonds Higher",
      "published": "2026-10-14T05:43:10+00:00"
     },
     {
-     "ref": "bloomberg_markets#13",
-     "title": "India Is a Power in the Middle: Jaishankar",
-     "published": "2026-10-14T05:38:10+00:00",
-     "summary": "India's Foreign Minister S. Jaishankar says he sees India as a \"power in the middle\" rather than a \"middle power.\" (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Sidhu: Lot of Collaborative Opportunities In India",
-     "published": "2026-10-14T05:36:29+00:00",
-     "summary": "Canadian Minister of International Trade says they see a lot of collaborative opportunities in India especially in the field of energy, mining, and food security. Maninder Sidhu spoke to Haslinda Amin on the sidelines of the Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
-    },
-    {
      "ref": "bloomberg_markets#15",
-     "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation",
-     "published": "2026-10-14T05:31:50+00:00",
-     "summary": "India’s rupee gained as the central bank chief said the authority would consider more steps to thwart speculative bets, days after announcing sweeping measures to bolster the currency. Central bank intervention also fueled the advance."
+     "title": "BHP, Union Make Bid to Avert Strike at Top Chile Copper Mine",
+     "published": "2026-10-14T01:05:52+00:00",
+     "summary": "A union representing more than 1,000 workers at Escondida in Chile said it’s holding wage talks with operator BHP Group in a last-ditch effort to avert a strike at the world’s biggest copper mine."
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "MSETCL Said to Pick Banks for Up to $800 Million India IPO",
-     "published": "2026-10-14T05:21:02+00:00",
-     "summary": "Maharashtra State Electricity Transmission Co. has selected six investment banks for a planned initial public offering that could raise as much as $800 million, according to people familiar with the matter."
+     "title": "US Stocks Edge Higher in Countdown to Inflation: Markets Wrap",
+     "published": "2026-10-13T22:03:38+00:00",
+     "summary": "US stocks rose modestly on a busy day for earnings in banking and artificial intelligence as traders stayed cautious ahead of the latest US inflation reading."
     },
     {
      "ref": "bloomberg_markets#17",
-     "title": "Stocks Erase Gains After ASML, Dollar Declines: Markets Wrap",
-     "published": "2026-10-13T22:03:38+00:00",
-     "summary": "Asian shares erased gains after chip-equipment maker ASML Holding NV said it can’t fully meet demand, renewing concerns around the artificial intelligence trade. The dollar fell before a key US inflation report."
+     "title": "Latest Oil Market News and Analysis for Oct. 14",
+     "published": "2026-10-13T22:02:59+00:00",
+     "summary": "Oil edged higher as attacks on Saudi Aramco’s headquarters added to a flare-up in the Middle East conflict, increasing uncertainty over a recovery in Persian Gulf energy flows."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -142,51 +143,51 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Saudi Aramco HQ attacked in suspected Houthi strike",
+     "published": "2026-10-14T07:12:06+00:00",
+     "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "AI demand to exceed supply for 2 more years, says ASML",
      "published": "2026-10-14T06:50:27+00:00",
      "summary": "Europe’s most valuable company said its clients that include TSMC and Intel were experiencing ‘very, very strong demand’"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "France’s Marine Le Pen gears up for fight with EU",
      "published": "2026-10-14T04:00:21+00:00",
      "summary": "Far-right leader promises a ‘trial of strength’ in FT interview even as she tries to reassure voters over her pragmatism"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "The global economy and the art of living dangerously",
      "published": "2026-10-14T04:00:21+00:00",
      "summary": "It would be nice to think that the world will become less shock-prone, but it probably won’t"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage",
      "published": "2026-10-14T04:00:21+00:00",
      "summary": "Serhii Kuznietsov is accused of leading group of divers who placed explosives on the Russian gas pipelines in the Baltic Sea"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal",
      "published": "2026-10-14T04:00:12+00:00",
      "summary": "The kingdom is one of the world’s top arms buyers but has struggled to keep pace with the Iranian-backed rebels’ tactics"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "How I used AI to become a chess grandmaster at 16",
      "published": "2026-10-14T04:00:03+00:00",
      "summary": "Ignore the doomsayers, this technology has transformed the game for the better and it can do the same for education"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "China’s exports surge 36% as AI-related shipments boom",
      "published": "2026-10-14T03:56:03+00:00",
      "summary": "Imports soar by a third as high oil prices from Middle East conflict push up energy bill"
-    },
-    {
-     "ref": "ft_home#7",
-     "title": "Saudi Aramco HQ attacked in suspected Houthi strike",
-     "published": "2026-10-14T02:20:48+00:00",
-     "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital"
     },
     {
      "ref": "ft_home#8",
@@ -209,7 +210,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "themarker#1",
      "title": "רשות החשמל בוחנת הגבלת הספק של חוות שרתים: כמחצית מבקשות החיבור יושפעו",
      "published": "2026-10-14T07:08:20+00:00",
-     "summary": "רשות החשמל מציעה להגביל בקשות חיבור של חוות שרתים לעד 200 מגה־ואט ■ המגבלה תשפיע על כמחצית מתוך 100 בקשות שהוגשו לחברת נגה"
+     "summary": "רשות החשמל מציעה להגביל בקשות חיבור של חוות שרתים לעד 200 מגה־ואט ■ המגבלה תשפיע על כמחצית מתוך 100 בקשות שהוגשו לחברת נגה ■ ביולי הודיעה רשות החשמל כי היא בולמת אישור בקשות חדשות ל–140 יום"
     },
     {
      "ref": "themarker#2",
@@ -219,9 +220,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#3",
-     "title": "כ-3.5 מיליארד שקל: קיצוץ כפול בתקציב לצרכי הביטחון; הקיצוץ לחברה הערבית - תעמולת בחירות של סמוטריץ'",
+     "title": "כ-3.5 מיליארד שקל: קיצוץ כפול בתקציב לצורכי הביטחון; הקיצוץ לחברה הערבית - תעמולת בחירות של סמוטריץ'",
      "published": "2026-10-14T06:22:45+00:00",
-     "summary": "שרי הממשלה מאשרים כעת את הצעת שר האוצר לקיצוץ בתוכנית החומש לחברה הערבית לשנים 2027–2029, במטרה לממן את התוספת הדחופה למערכת הביטחון ■ ואולם כלל לא אושרה תוכנית חומש חדשה לחברה הערבית, ומדובר בתקציבים שנשמרו בנומרטור מתוך הנחה שתאושר תוכנית כזו ■ סמוטריץ': \"לא יהיה קיצוץ רוחבי במשרדים\""
+     "summary": "שרי הממשלה מאשרים כעת את הצעת שר האוצר לקיצוץ בתוכנית החומש לחברה הערבית לשנים 2027–2029, במטרה לממן את התוספת הדחופה למערכת הביטחון ■ ואולם כלל לא אושרה תוכנית חומש חדשה לחברה הערבית, ומדובר בתקציבים שנשמרו בנומרטור מתוך הנחה שתאושר תוכנית כזו"
     },
     {
      "ref": "themarker#4",
@@ -356,27 +357,27 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Galderma to Buy ZO Skin Health for $1.5 Billion",
+     "published": "2026-10-14T07:38:00+00:00",
+     "summary": "The dermatology company agreed to acquire ZO Skin Health from its shareholders, including the Obagi family and funds managed by Blackstone Tactical Opportunities."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "European Indexes Rise as Luxury, AI-Related Stocks Gain",
+     "published": "2026-10-14T07:38:00+00:00",
+     "summary": "European stock indexes rose after ASML’s guidance raise boosted AI-related stocks."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "U.S. Dollar Edges Lower as Treasury Yields Ease",
      "published": "2026-10-14T07:07:00+00:00",
      "summary": "The dollar fell slightly against a basket of currencies, tracking a decline in Treasury yields ahead of the release of September consumer-price inflation data at 1230 GMT."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "Bank of France Making Rates Decisions Meeting by Meeting, Says Gov",
      "published": "2026-10-14T06:00:00+00:00",
      "summary": "Emmanuel Moulin was somewhat upbeat on the prospect that the French government would be able to achieve a significant fiscal consolidation over coming years."
-    },
-    {
-     "ref": "wsj_markets#2",
-     "title": "Galderma to Buy ZO Skin Health for $1.5 Billion",
-     "published": "2026-10-14T05:47:00+00:00",
-     "summary": "The dermatology company agreed to acquire ZO Skin Health from its shareholders, including the Obagi family and funds managed by Blackstone Tactical Opportunities."
-    },
-    {
-     "ref": "wsj_markets#3",
-     "title": "Kospi’s Recent Selloff Signals Reassessment of Future AI Growth",
-     "published": "2026-10-14T04:45:00+00:00",
-     "summary": "Kospi’s recent selloff reflects a broader reassessment of how much future AI growth is already reflected in equity valuations, said Tiger Brokers."
     },
     {
      "ref": "wsj_markets#4",
@@ -509,9 +510,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4146.1299,
+   "last": 4146.6499,
    "prev_close": 4130.0498,
-   "change_pct": 0.39,
+   "change_pct": 0.4,
    "as_of": "2026-10-14"
   },
   "SP500": {
@@ -523,23 +524,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0678,
+   "last": 3.0691,
    "prev_close": 3.0724,
-   "change_pct": -0.15,
+   "change_pct": -0.11,
    "as_of": "2026-10-14"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 106.18,
+   "last": 106.32,
    "prev_close": 105.69,
-   "change_pct": 0.46,
+   "change_pct": 0.6,
    "as_of": "2026-10-14"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 83400.0,
+   "last": 83355.5,
    "prev_close": 83095.125,
-   "change_pct": 0.37,
+   "change_pct": 0.31,
    "as_of": "2026-10-14"
   }
  },

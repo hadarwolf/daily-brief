@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-10-14T07:38:34+00:00",
+     "summary": "Artificial intelligence AP News"
+    },
+    {
+     "ref": "ap_world#1",
      "title": "World News: Top & Breaking World News Today - AP News",
      "published": "2026-10-14T07:08:25+00:00",
      "summary": "World News: Top & Breaking World News Today AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#2",
      "title": "Fire breaks out at a Saudi Aramco building targeted in an attack, energy ministry says - AP News",
      "published": "2026-10-14T05:23:00+00:00",
      "summary": "Fire breaks out at a Saudi Aramco building targeted in an attack, energy ministry says AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade - AP News",
      "published": "2026-10-14T05:11:00+00:00",
      "summary": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House - AP News",
      "published": "2026-10-14T04:36:00+00:00",
      "summary": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines - AP News",
      "published": "2026-10-14T04:15:00+00:00",
      "summary": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections - AP News",
      "published": "2026-10-14T04:14:00+00:00",
      "summary": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#7",
      "title": "The not-so-secret vulnerability in Ukraine’s drone arsenal? Chinese technology - AP News",
      "published": "2026-10-14T04:09:00+00:00",
      "summary": "The not-so-secret vulnerability in Ukraine’s drone arsenal? Chinese technology AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
+     "title": "Iowa faces a reckoning over water quality and cancer rates in midterm campaigns - AP News",
+     "published": "2026-10-14T04:08:00+00:00",
+     "summary": "Iowa faces a reckoning over water quality and cancer rates in midterm campaigns AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed - AP News",
      "published": "2026-10-14T04:05:00+00:00",
      "summary": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#10",
      "title": "Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides - AP News",
      "published": "2026-10-14T04:03:00+00:00",
      "summary": "Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "New White House press secretary’s debut: Brief, limited questions and some harsh reviews - AP News",
      "published": "2026-10-14T04:01:00+00:00",
      "summary": "New White House press secretary’s debut: Brief, limited questions and some harsh reviews AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung - AP News",
      "published": "2026-10-14T03:50:00+00:00",
      "summary": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico - AP News",
      "published": "2026-10-14T03:11:00+00:00",
      "summary": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "Germany briefly shuts Nuremberg airport and scrambles jets to escort flight with radio problem - AP News",
      "published": "2026-10-14T02:59:00+00:00",
      "summary": "Germany briefly shuts Nuremberg airport and scrambles jets to escort flight with radio problem AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
      "title": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 - AP News",
      "published": "2026-10-14T02:40:00+00:00",
      "summary": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "Trump went all the way to Alaska in a sign of just how close its Senate race may be - AP News",
      "published": "2026-10-14T02:32:00+00:00",
      "summary": "Trump went all the way to Alaska in a sign of just how close its Senate race may be AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News",
      "published": "2026-10-14T01:55:00+00:00",
      "summary": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "Who’s in charge when the pope is unconscious and unable to govern? The pope - AP News",
      "published": "2026-10-14T01:49:00+00:00",
      "summary": "Who’s in charge when the pope is unconscious and unable to govern? The pope AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#19",
      "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv - AP News",
      "published": "2026-10-14T01:48:00+00:00",
      "summary": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
      "title": "Battle lines shift in House races as Republicans retreat from front-line districts - AP News",
      "published": "2026-10-14T01:40:00+00:00",
      "summary": "Battle lines shift in House races as Republicans retreat from front-line districts AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#21",
      "title": "Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News",
      "published": "2026-10-14T01:39:00+00:00",
      "summary": "Six Flags closes 9 North American roller coasters after families watch man fall to his death AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#22",
      "title": "Rare fossil of T. rex cousin goes on display in New York before heading to auction - AP News",
      "published": "2026-10-14T01:20:00+00:00",
      "summary": "Rare fossil of T. rex cousin goes on display in New York before heading to auction AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#23",
      "title": "Washington resident charged with conspiracy in Canada school shooting is ordered detained - AP News",
      "published": "2026-10-14T00:56:00+00:00",
      "summary": "Washington resident charged with conspiracy in Canada school shooting is ordered detained AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#24",
      "title": "Dolly Parton's nephew denies threatening to harm her estate, pushes back against restraining order - AP News",
      "published": "2026-10-14T00:43:08+00:00",
      "summary": "Dolly Parton's nephew denies threatening to harm her estate, pushes back against restraining order AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Israel returns 22 artifacts as Greece pushes to bring antiquities home - AP News",
-     "published": "2026-10-14T00:41:00+00:00",
-     "summary": "Israel returns 22 artifacts as Greece pushes to bring antiquities home AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Rams' Alaric Jackson suspended 2 games for striking Bills LB Bradley Chubb after Monday night game - AP News",
-     "published": "2026-10-14T00:35:00+00:00",
-     "summary": "Rams' Alaric Jackson suspended 2 games for striking Bills LB Bradley Chubb after Monday night game AP News"
     }
    ]
   },
@@ -174,51 +174,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+     "published": "2026-10-14T07:23:46+00:00",
+     "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Russia arrests Japanese journalist on spying charges",
      "published": "2026-10-14T07:12:37+00:00",
      "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Turkey police raid opposition TV station, halting live broadcasts",
      "published": "2026-10-14T06:32:02+00:00",
-     "summary": "Halk TV says its staff are unable to enter the building in Istanbul, and a new manager was appointed to run the channel."
+     "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
      "published": "2026-10-14T04:36:06+00:00",
      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\"."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
      "published": "2026-10-14T04:20:17+00:00",
      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Lena Dunham's Girls to return for limited HBO run",
      "published": "2026-10-14T02:09:30+00:00",
      "summary": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
      "published": "2026-10-14T02:05:32+00:00",
      "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
      "published": "2026-10-14T00:59:16+00:00",
      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia."
-    },
-    {
-     "ref": "bbc_world#7",
-     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-     "published": "2026-10-14T00:17:00+00:00",
-     "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
     },
     {
      "ref": "bbc_world#8",

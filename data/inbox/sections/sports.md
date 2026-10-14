@@ -29,42 +29,26 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-13T16:45:00Z",
-     "home": "RC Lens",
-     "away": "Sporting CP",
-     "status": "FINISHED",
-     "score": "0-2"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-13T16:45:00Z",
      "home": "Sabah FK",
      "away": "Slavia Praha",
      "status": "FINISHED",
      "score": "2-0"
     },
     {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-13T16:45:00Z",
+     "home": "RC Lens",
+     "away": "Sporting CP",
+     "status": "FINISHED",
+     "score": "0-2"
+    },
+    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Bristol City",
-     "away": "Blackburn",
+     "home": "Millwall",
+     "away": "Swansea",
      "status": "FINISHED",
      "score": "0-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Wrexham",
-     "away": "West Brom",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Cardiff",
-     "away": "Watford",
-     "status": "FINISHED",
-     "score": "5-1"
     },
     {
      "competition": "Championship",
@@ -85,18 +69,58 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-13T18:45:00Z",
-     "home": "Millwall",
-     "away": "Swansea",
+     "home": "Wrexham",
+     "away": "West Brom",
+     "status": "FINISHED",
+     "score": "1-2"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T18:45:00Z",
+     "home": "Cardiff",
+     "away": "Watford",
+     "status": "FINISHED",
+     "score": "5-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T18:45:00Z",
+     "home": "Bristol City",
+     "away": "Blackburn",
      "status": "FINISHED",
      "score": "0-1"
     },
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Atleti",
-     "away": "Man United",
+     "home": "Arsenal",
+     "away": "Lille",
      "status": "FINISHED",
-     "score": "2-0"
+     "score": "3-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "Birmingham",
+     "away": "Preston NE",
+     "status": "FINISHED",
+     "score": "4-0"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "RB Leipzig",
+     "away": "PSV",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-13T19:00:00Z",
+     "home": "Galatasaray",
+     "away": "Barça",
+     "status": "FINISHED",
+     "score": "1-4"
     },
     {
      "competition": "UEFA Champions League",
@@ -133,45 +157,13 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Arsenal",
-     "away": "Lille",
+     "home": "Atleti",
+     "away": "Man United",
      "status": "FINISHED",
-     "score": "3-0"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Birmingham",
-     "away": "Preston NE",
-     "status": "FINISHED",
-     "score": "4-0"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "RB Leipzig",
-     "away": "PSV",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-13T19:00:00Z",
-     "home": "Galatasaray",
-     "away": "Barça",
-     "status": "FINISHED",
-     "score": "1-4"
+     "score": "2-0"
     }
    ],
    "today": [
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T16:45:00Z",
-     "home": "Feyenoord",
-     "away": "Como 1907",
-     "status": "TIMED",
-     "score": null
-    },
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-14T16:45:00Z",
@@ -181,10 +173,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T16:45:00Z",
+     "home": "Feyenoord",
+     "away": "Como 1907",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-14T18:45:00Z",
-     "home": "QPR",
-     "away": "Derby County",
+     "home": "Portsmouth",
+     "away": "Sheffield Utd",
      "status": "TIMED",
      "score": null
     },
@@ -199,40 +199,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-14T18:45:00Z",
-     "home": "Portsmouth",
-     "away": "Sheffield Utd",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Lincoln City",
-     "away": "West Ham",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Aston Villa",
-     "away": "Fenerbahçe",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Shaktar",
-     "away": "PAE AEK",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Man City",
-     "away": "PSG",
+     "home": "QPR",
+     "away": "Derby County",
      "status": "TIMED",
      "score": null
     },
@@ -265,6 +233,38 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-14T19:00:00Z",
      "home": "Bodø/Glimt",
      "away": "Dortmund",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Shaktar",
+     "away": "PAE AEK",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Man City",
+     "away": "PSG",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Lincoln City",
+     "away": "West Ham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Aston Villa",
+     "away": "Fenerbahçe",
      "status": "TIMED",
      "score": null
     }
@@ -732,7 +732,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#16",
-     "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+     "title": "Man Utd defender Martinez issues scathing attack on board",
      "published": "2026-10-13T21:43:09+00:00",
      "summary": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League."
     },
@@ -822,45 +822,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#5",
+     "title": "MIAvsNYC 10-14-2026 - New York City FC",
+     "published": "2026-10-14T03:40:25+00:00",
+     "summary": "MIAvsNYC 10-14-2026 New York City FC"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
      "title": "Availability Report | Five Absent vs. Miami - New York City FC",
      "published": "2026-10-14T03:34:23+00:00",
      "summary": "Availability Report | Five Absent vs. Miami New York City FC"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "NYCFC Faces Inter Miami After Another Late Collapse - SuaraGarut.ID",
      "published": "2026-10-14T00:08:22+00:00",
      "summary": "NYCFC Faces Inter Miami After Another Late Collapse SuaraGarut.ID"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Lionel Messi's Inter Miami Contract Shapes Retirement Decision | News | Football.com Nigeria - Football.com",
      "published": "2026-10-14T00:00:00+00:00",
      "summary": "Lionel Messi's Inter Miami Contract Shapes Retirement Decision | News | Football.com Nigeria Football.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Lionel Messi-led Inter Miami aims to subdue New York City FC - Field Level Media",
      "published": "2026-10-13T23:13:35+00:00",
      "summary": "Lionel Messi-led Inter Miami aims to subdue New York City FC Field Level Media"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Lionel Messi’s Inter Miami could book their 2026 MLS Cup playoff ticket against NYCFC - World Soccer Talk",
      "published": "2026-10-13T22:57:29+00:00",
      "summary": "Lionel Messi’s Inter Miami could book their 2026 MLS Cup playoff ticket against NYCFC World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi Eyes Historic MLS MVP Three-Peat as Petar Musa and Hany Mukhtar Chase Inter Miami Star - Pasión Fútbol",
      "published": "2026-10-13T22:40:00+00:00",
      "summary": "Lionel Messi Eyes Historic MLS MVP Three-Peat as Petar Musa and Hany Mukhtar Chase Inter Miami Star Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#11",
-     "title": "Matías Galarza Fonda Sends Strong Message at Inter Miami as Messi’s Team Chase Playoff Security - Pasión Fútbol",
-     "published": "2026-10-13T22:18:50+00:00",
-     "summary": "Matías Galarza Fonda Sends Strong Message at Inter Miami as Messi’s Team Chase Playoff Security Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#12",
@@ -912,33 +912,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#20",
-     "title": "Press Conference - Pascal Jansen | Inter Miami vs. New York City FC - New York City FC",
-     "published": "2026-10-13T20:09:55+00:00",
-     "summary": "Press Conference - Pascal Jansen | Inter Miami vs. New York City FC New York City FC"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi’s Argentina retirement sparks fresh questions about his club future - Yahoo Sports",
      "published": "2026-10-13T20:00:00+00:00",
      "summary": "Lionel Messi’s Argentina retirement sparks fresh questions about his club future Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Matías Galarza: “It would be amazing for Messi to play in the Copa Libertadores too” - Diario AS",
      "published": "2026-10-13T19:44:52+00:00",
      "summary": "Matías Galarza: “It would be amazing for Messi to play in the Copa Libertadores too” Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Garber won't dish on exchange with Messi: 'Between me and Leo' - ESPN",
      "published": "2026-10-13T19:18:00+00:00",
      "summary": "Garber won't dish on exchange with Messi: 'Between me and Leo' ESPN"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami vs New York City Betting Tips & Live Stream - MLS - FreeTips",
      "published": "2026-10-13T18:31:55+00:00",
      "summary": "Inter Miami vs New York City Betting Tips & Live Stream - MLS FreeTips"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "MLS CLINCHING SCENARIOS: Nashville, Miami, Chicago, New England, Charlotte, St. Louis, Dallas, San Jose, Houston - Front Row Soccer",
+     "published": "2026-10-13T18:30:48+00:00",
+     "summary": "MLS CLINCHING SCENARIOS: Nashville, Miami, Chicago, New England, Charlotte, St. Louis, Dallas, San Jose, Houston Front Row Soccer"
     }
    ]
   },
@@ -948,9 +948,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason - 13newsnow.com",
+     "title": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason - 5newsonline.com",
      "published": "2026-10-14T06:51:00+00:00",
-     "summary": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason 13newsnow.com"
+     "summary": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason 5newsonline.com"
     },
     {
      "ref": "gnews_israeli_nba#1",
@@ -1002,99 +1002,99 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#9",
-     "title": "Ben Saraf vs Pacers: stats, game log - BasketNews.com",
-     "published": "2026-10-14T02:47:04+00:00",
-     "summary": "Ben Saraf vs Pacers: stats, game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#10",
      "title": "NBA All-Star shares hilarious Draymond Green story - Warriors Wire",
      "published": "2026-10-13T17:35:00+00:00",
      "summary": "NBA All-Star shares hilarious Draymond Green story Warriors Wire"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "Trail Blazers See Promising Outlook On Upcoming Season As The Playoffs Are In Sight - roundtable.io",
      "published": "2026-10-13T12:05:22+00:00",
      "summary": "Trail Blazers See Promising Outlook On Upcoming Season As The Playoffs Are In Sight roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Draymond Green Reflects On Intense Moment With Deni Avdija; Admits He Holds Grudges For Years - Fadeaway World",
      "published": "2026-10-13T06:48:25+00:00",
      "summary": "Draymond Green Reflects On Intense Moment With Deni Avdija; Admits He Holds Grudges For Years Fadeaway World"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija looks ready for opening night after preseason win - OregonLive.com",
      "published": "2026-10-13T04:55:00+00:00",
      "summary": "Deni Avdija looks ready for opening night after preseason win OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "The Association: Deni Avdija could prove to be offensive engine for Trail Blazers - NBA.com",
      "published": "2026-10-13T04:38:06+00:00",
      "summary": "The Association: Deni Avdija could prove to be offensive engine for Trail Blazers NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Portland Trail Blazers vs. London Lions NBA preseason: Oct. 12, 2026 - OregonLive.com",
      "published": "2026-10-13T02:13:27+00:00",
      "summary": "Portland Trail Blazers vs. London Lions NBA preseason: Oct. 12, 2026 OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#16",
-     "title": "The Biggest Blazers Development That Actually Matters Moving Forward - Sports Illustrated",
-     "published": "2026-10-12T19:00:03+00:00",
-     "summary": "The Biggest Blazers Development That Actually Matters Moving Forward Sports Illustrated"
-    },
-    {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#15",
      "title": "Blockbuster Trade Could Turn Trail Blazers Into Legitimate Title Contenders - Fadeaway World",
      "published": "2026-10-12T17:57:24+00:00",
      "summary": "Blockbuster Trade Could Turn Trail Blazers Into Legitimate Title Contenders Fadeaway World"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#16",
      "title": "Blazers’ Deni Avdija’s helpless Nikola Jokic admission leaves Draymond Green LOLing - Yahoo Sports",
      "published": "2026-10-12T16:52:49+00:00",
      "summary": "Blazers’ Deni Avdija’s helpless Nikola Jokic admission leaves Draymond Green LOLing Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#17",
      "title": "Blazers Make History in Second Preseason Game - Sports Illustrated",
      "published": "2026-10-12T16:03:25+00:00",
      "summary": "Blazers Make History in Second Preseason Game Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija on guarding Nikola Jokic: “What the hell am I supposed to do?” - Eurohoops",
      "published": "2026-10-12T14:28:00+00:00",
      "summary": "Deni Avdija on guarding Nikola Jokic: “What the hell am I supposed to do?” Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija on why it is impossible to guard Nikola … - Yahoo Sports",
      "published": "2026-10-12T11:32:51+00:00",
      "summary": "Deni Avdija on why it is impossible to guard Nikola … Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#20",
      "title": "“I was waiting for that elbow or punch” – Deni Avdija recalls fearing Draymond Green’s payback after hard foul - Basketball Network",
      "published": "2026-10-12T10:11:00+00:00",
      "summary": "“I was waiting for that elbow or punch” – Deni Avdija recalls fearing Draymond Green’s payback after hard foul Basketball Network"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#21",
      "title": "\"Ja Morant Not Gon' Like This\": NBA Fans Hilariously React to Deni Avdija Calling New Co-Star a \"Kid\" on Draymond Green's Podcast - Sportskeeda",
      "published": "2026-10-12T05:36:00+00:00",
      "summary": "\"Ja Morant Not Gon' Like This\": NBA Fans Hilariously React to Deni Avdija Calling New Co-Star a \"Kid\" on Draymond Green's Podcast Sportskeeda"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija Admits Feeling Helpless Against Nikola Jokic; Explains Why He’s Toughest To Guard - Yahoo Sports",
      "published": "2026-10-12T02:52:00+00:00",
      "summary": "Deni Avdija Admits Feeling Helpless Against Nikola Jokic; Explains Why He’s Toughest To Guard Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#23",
+     "title": "Deni Avdija credits Chauncey Billups for helping turn his career around - Yahoo Sports",
+     "published": "2026-10-11T18:06:58+00:00",
+     "summary": "Deni Avdija credits Chauncey Billups for helping turn his career around Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "“Still Gonna Get You”: Draymond Green Sends Clear Message to Deni Avdija Over 2-Year-Old On-Court Altercation - EssentiallySports",
+     "published": "2026-10-11T17:55:00+00:00",
+     "summary": "“Still Gonna Get You”: Draymond Green Sends Clear Message to Deni Avdija Over 2-Year-Old On-Court Altercation EssentiallySports"
     }
    ]
   }
