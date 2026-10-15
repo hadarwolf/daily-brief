@@ -21,26 +21,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-14T16:45:00Z",
-     "home": "LASK",
-     "away": "Liverpool",
-     "status": "FINISHED",
-     "score": "3-6"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T16:45:00Z",
      "home": "Feyenoord",
      "away": "Como 1907",
      "status": "FINISHED",
      "score": "3-2"
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-14T18:45:00Z",
-     "home": "QPR",
-     "away": "Derby County",
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T16:45:00Z",
+     "home": "LASK",
+     "away": "Liverpool",
      "status": "FINISHED",
-     "score": "4-1"
+     "score": "3-6"
     },
     {
      "competition": "Championship",
@@ -57,6 +49,46 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Southampton",
      "status": "FINISHED",
      "score": "0-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-14T18:45:00Z",
+     "home": "QPR",
+     "away": "Derby County",
+     "status": "FINISHED",
+     "score": "4-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Man City",
+     "away": "PSG",
+     "status": "FINISHED",
+     "score": "2-4"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Aston Villa",
+     "away": "Fenerbahçe",
+     "status": "FINISHED",
+     "score": "6-0"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Shaktar",
+     "away": "PAE AEK",
+     "status": "FINISHED",
+     "score": "3-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-14T19:00:00Z",
+     "home": "Sl. Bratislava",
+     "away": "Stuttgart",
+     "status": "FINISHED",
+     "score": "0-3"
     },
     {
      "competition": "UEFA Champions League",
@@ -89,38 +121,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Real Madrid",
      "status": "FINISHED",
      "score": "3-4"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Sl. Bratislava",
-     "away": "Stuttgart",
-     "status": "FINISHED",
-     "score": "0-3"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Aston Villa",
-     "away": "Fenerbahçe",
-     "status": "FINISHED",
-     "score": "6-0"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Shaktar",
-     "away": "PAE AEK",
-     "status": "FINISHED",
-     "score": "3-1"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-14T19:00:00Z",
-     "home": "Man City",
-     "away": "PSG",
-     "status": "FINISHED",
-     "score": "2-4"
     }
    ],
    "today": [
@@ -656,45 +656,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Inter Miami Beat NYCFC 2-0 To Secure 2026 MLS Playoff Spot - TVC News",
+     "published": "2026-10-15T07:54:00+00:00",
+     "summary": "Inter Miami Beat NYCFC 2-0 To Secure 2026 MLS Playoff Spot TVC News"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Lionel Messi provides magic touch as Inter Miami clinch 2026 MLS playoff spot with dominant win over NYCFC - LiveScore",
      "published": "2026-10-15T07:31:29+00:00",
      "summary": "Lionel Messi provides magic touch as Inter Miami clinch 2026 MLS playoff spot with dominant win over NYCFC LiveScore"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Lionel Messi provides magic touch as Inter Miami clinch 2026 MLS playoff spot with dominant win over NYCFC - Goal.com",
      "published": "2026-10-15T07:11:23+00:00",
      "summary": "Lionel Messi provides magic touch as Inter Miami clinch 2026 MLS playoff spot with dominant win over NYCFC Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Messi lifts Inter Miami vs NYCFC: 7.6 Sofascore Rating - Sofascore",
      "published": "2026-10-15T06:44:24+00:00",
      "summary": "Messi lifts Inter Miami vs NYCFC: 7.6 Sofascore Rating Sofascore"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami vs New York City: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-15T06:22:19+00:00",
      "summary": "Inter Miami vs New York City: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Messi maintains perfect playoff record as Inter Miami sees off NYCFC - Diario AS",
      "published": "2026-10-15T06:08:16+00:00",
      "summary": "Messi maintains perfect playoff record as Inter Miami sees off NYCFC Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#5",
-     "title": "Messi helps Inter Miami clinch MLS playoff berth with 2-0 win over NYCFC - Business Standard",
-     "published": "2026-10-15T05:56:09+00:00",
-     "summary": "Messi helps Inter Miami clinch MLS playoff berth with 2-0 win over NYCFC Business Standard"
-    },
-    {
      "ref": "gnews_inter_miami#6",
-     "title": "Messi assists as Inter Miami clinches MLS playoff berth with 2-0 win over NYCFC - Click2Houston",
-     "published": "2026-10-15T05:44:49+00:00",
-     "summary": "Messi assists as Inter Miami clinches MLS playoff berth with 2-0 win over NYCFC Click2Houston"
+     "title": "Messi assists as Inter Miami clinches MLS playoff berth with 2-0 win over NYCFC - The Courier Mail",
+     "published": "2026-10-15T05:40:08+00:00",
+     "summary": "Messi assists as Inter Miami clinches MLS playoff berth with 2-0 win over NYCFC The Courier Mail"
     },
     {
      "ref": "gnews_inter_miami#7",
@@ -830,51 +830,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#3",
-     "title": "Ben Saraf vs Wolves Twinsbet Vilnius: stats, game log - BasketNews.com",
-     "published": "2026-10-14T19:04:59+00:00",
-     "summary": "Ben Saraf vs Wolves Twinsbet Vilnius: stats, game log BasketNews.com"
+     "title": "Ben Saraf vs Dolomiti Energia Trento: stats, game log - BasketNews.com",
+     "published": "2026-10-14T20:39:05+00:00",
+     "summary": "Ben Saraf vs Dolomiti Energia Trento: stats, game log BasketNews.com"
     },
     {
      "ref": "gnews_israeli_nba#4",
-     "title": "Ben Saraf vs Hapoel IBI Tel Aviv: stats, game log - BasketNews.com",
-     "published": "2026-10-14T18:10:29+00:00",
-     "summary": "Ben Saraf vs Hapoel IBI Tel Aviv: stats, game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 - The Ringer",
      "published": "2026-10-14T17:06:24+00:00",
      "summary": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 The Ringer"
     },
     {
-     "ref": "gnews_israeli_nba#6",
-     "title": "Deni Avdija vs Slovenia: stats, game log - BasketNews.com",
-     "published": "2026-10-14T13:27:46+00:00",
-     "summary": "Deni Avdija vs Slovenia: stats, game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija Continues Efficient Play Against Kings, Ja Morant Snaps Cold Streak - Sports Illustrated",
      "published": "2026-10-14T13:00:02+00:00",
      "summary": "Deni Avdija Continues Efficient Play Against Kings, Ja Morant Snaps Cold Streak Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#6",
+     "title": "Deni Avdija vs Finland: stats, game log - BasketNews.com",
+     "published": "2026-10-14T12:09:34+00:00",
+     "summary": "Deni Avdija vs Finland: stats, game log BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#7",
      "title": "'Still Gonna Get You': Draymond Green Has Unfinished Business With Blazers' Deni Avdija - Yahoo Sports",
      "published": "2026-10-14T12:00:05+00:00",
      "summary": "'Still Gonna Get You': Draymond Green Has Unfinished Business With Blazers' Deni Avdija Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#8",
      "title": "Deni Avdija vs Crvena Zvezda Meridianbet Belgrade: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:47:31+00:00",
      "summary": "Deni Avdija vs Crvena Zvezda Meridianbet Belgrade: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija vs Czech Republic: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:37:15+00:00",
      "summary": "Deni Avdija vs Czech Republic: stats, game log BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#10",
+     "title": "Deni Avdija vs Belgium: stats, game log - BasketNews.com",
+     "published": "2026-10-14T10:49:51+00:00",
+     "summary": "Deni Avdija vs Belgium: stats, game log BasketNews.com"
     },
     {
      "ref": "gnews_israeli_nba#11",
@@ -884,81 +884,81 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#12",
+     "title": "Deni Avdija vs Olympiacos Piraeus: stats, game log - BasketNews.com",
+     "published": "2026-10-14T10:13:46+00:00",
+     "summary": "Deni Avdija vs Olympiacos Piraeus: stats, game log BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija vs FC Bayern Munich: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:11:55+00:00",
      "summary": "Deni Avdija vs FC Bayern Munich: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija vs Darussafaka Lassa Istanbul: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:05:21+00:00",
      "summary": "Deni Avdija vs Darussafaka Lassa Istanbul: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija vs Zenit Saint Petersburg: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:02:37+00:00",
      "summary": "Deni Avdija vs Zenit Saint Petersburg: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija vs Zalgiris Kaunas: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:02:21+00:00",
      "summary": "Deni Avdija vs Zalgiris Kaunas: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija vs LDLC ASVEL Villeurbanne: stats, game log - BasketNews.com",
      "published": "2026-10-14T09:55:08+00:00",
      "summary": "Deni Avdija vs LDLC ASVEL Villeurbanne: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija vs Anadolu Efes Istanbul: stats, game log - BasketNews.com",
      "published": "2026-10-14T09:46:30+00:00",
      "summary": "Deni Avdija vs Anadolu Efes Istanbul: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
+     "title": "Deni Avdija vs ALBA BERLIN: stats, game log - BasketNews.com",
+     "published": "2026-10-14T09:35:46+00:00",
+     "summary": "Deni Avdija vs ALBA BERLIN: stats, game log BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
      "published": "2026-10-14T09:34:39+00:00",
      "summary": "Deni Avdija vs Panathinaikos AKTOR Athens: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija vs FC Barcelona: stats, game log - BasketNews.com",
      "published": "2026-10-14T09:21:11+00:00",
      "summary": "Deni Avdija vs FC Barcelona: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#22",
      "title": "NBA Notes: Magic, Blazers, Deni Avdija, Warriors, Yaxel Lendeborg - Hoops Wire",
      "published": "2026-10-14T08:25:50+00:00",
      "summary": "NBA Notes: Magic, Blazers, Deni Avdija, Warriors, Yaxel Lendeborg Hoops Wire"
     },
     {
-     "ref": "gnews_israeli_nba#21",
-     "title": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason - kens5.com",
-     "published": "2026-10-14T06:51:00+00:00",
-     "summary": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason kens5.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Deni Avdija Highlights (26 Points, 9‑13 FG) | Trail Blazers 110, Kings 98 | Oct. 13, 2026 - NBA.com",
-     "published": "2026-10-14T06:00:24+00:00",
-     "summary": "Deni Avdija Highlights (26 Points, 9‑13 FG) | Trail Blazers 110, Kings 98 | Oct. 13, 2026 NBA.com"
-    },
-    {
      "ref": "gnews_israeli_nba#23",
-     "title": "Ben Saraf vs Suns: stats, game log - BasketNews.com",
-     "published": "2026-10-14T05:25:08+00:00",
-     "summary": "Ben Saraf vs Suns: stats, game log BasketNews.com"
+     "title": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason - WCNC",
+     "published": "2026-10-14T06:51:00+00:00",
+     "summary": "What We Have (Not) Learned About Deni Avdija, Damian Lillard & Ja Morant in Trail Blazers Preseason WCNC"
     },
     {
      "ref": "gnews_israeli_nba#24",
-     "title": "Highlights From Deni Avdija 26-Point Game - NBA.com",
-     "published": "2026-10-14T05:21:26+00:00",
-     "summary": "Highlights From Deni Avdija 26-Point Game NBA.com"
+     "title": "Deni Avdija Highlights (26 Points, 9‑13 FG) | Trail Blazers 110, Kings 98 | Oct. 13, 2026 - NBA.com",
+     "published": "2026-10-14T06:00:24+00:00",
+     "summary": "Deni Avdija Highlights (26 Points, 9‑13 FG) | Trail Blazers 110, Kings 98 | Oct. 13, 2026 NBA.com"
     }
    ]
   }

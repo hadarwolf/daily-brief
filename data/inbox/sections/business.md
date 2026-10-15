@@ -18,99 +18,99 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Global Leaders on Changing World Order",
+     "published": "2026-10-15T08:01:19+00:00",
+     "summary": "At the 2026 Bloomberg New Economy Forum, global leaders discuss the changing the world order and what 'middle powers' could do to ensure they get a seat at the table. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Private Equity and the NFL With K. Don Cornwell",
+     "published": "2026-10-15T08:01:03+00:00",
+     "summary": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with K. Don Cornwell, Dynasty Equity's co-founder and chief executive, about the impact of private equity in sports. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Odd Lots: Jeff Yan on How Hyperliquid Works (Podcast)",
+     "published": "2026-10-15T08:00:00+00:00",
+     "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a ful"
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "Hyperliquid Founder Yan Seeks US Rules That Spare Its Blockchain",
+     "published": "2026-10-15T08:00:00+00:00",
+     "summary": "Hyperliquid founder Jeff Yan outlined a regulatory approach that would shield his fast-growing cryptocurrency trading platform from direct US exchange oversight, as American authorities consider how to bring offshore venues into the domestic financial system."
+    },
+    {
+     "ref": "bloomberg_markets#4",
+     "title": "Mario Draghi on the Importance of Multilateral Rules",
+     "published": "2026-10-15T07:50:53+00:00",
+     "summary": "Former ECB President Mario Draghi says that Europe's openness to international trade also makes it vulnerable to a dismantling of multilateral rules, adding that increased trade with India is a topic that is seen with enthusiasm. He speaks at Bloomberg's New Economy Forum in New Delhi. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#5",
      "title": "US Ambassador to India on Refinery Cooperation",
      "published": "2026-10-15T07:29:15+00:00",
      "summary": "US Ambassador Sergio Gor highlights growing US-India refinery cooperation at Bloomberg’s New Economy Forum. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#6",
+     "title": "Rubio Set to Meet Ambani, Signaling Steady Ties Despite Musk",
+     "published": "2026-10-15T07:28:24+00:00",
+     "summary": "Secretary of State Marco Rubio is expected to meet Reliance Industries Ltd.’s Chairman Mukesh Ambani next week, according to the US envoy, underscoring Washington’s engagement with the conglomerate amid Elon Musk’s recent public swipes at the Indian billionaire."
+    },
+    {
+     "ref": "bloomberg_markets#7",
      "title": "Container Ship Sinks in Strait of Hormuz as Attacks Escalate",
      "published": "2026-10-15T07:11:10+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#8",
      "title": "Can Digital Infrastructure Transform Economies?",
      "published": "2026-10-15T06:51:28+00:00",
      "summary": "Reuben Abraham, CEO, Artha Global and Kamal Quadir, Founder & CEO, bKash discuss how digital public infrastructure can reshape developing economies and whether India’s model can be replicated elsewhere with Bloomberg’s Jeanette Rodrigues at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#9",
      "title": "AI Rally Runs Into Inflation Reality",
      "published": "2026-10-15T06:42:33+00:00",
      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#10",
      "title": "Five Questions With Aryaman Birla",
      "published": "2026-10-15T06:35:15+00:00",
      "summary": "From player to team owner, Aryaman Birla is returning to cricket but in a different avatar. Sanjai P R asks him about life beyond the pitch in Five Questions with Aryaman Birla. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
-     "title": "Molavi: Saudis & Houthis Can Hit Hard; Not End War",
-     "published": "2026-10-15T06:17:07+00:00",
-     "summary": "Oil prices were low as concerns eased in the Middle East over supply disruptions. This is after the Houthi attacks on Saudi Arabia did not cause any interruptions that markets had feared. The IEA also raised its forecast for the war's impact on supply. Meanwhile the question looms of US military support to Saudi Arabia in their fight against the Iran-backed rebels in Yemen. Afshin Molavi, senior f"
-    },
-    {
-     "ref": "bloomberg_markets#6",
-     "title": "NYU's Marcus on Why AI May Be a 'Flawed Tool'",
-     "published": "2026-10-15T06:16:59+00:00",
-     "summary": "Gary Marcus, Emeritus Professor of Psychology at NYU, discusses whether AI is having a measurable impact on productivity, and shares his thoughts on why LLMs could be considered a \"flawed tool.\" He speaks at Bloomberg's New Economy Forum in New Delhi. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#7",
-     "title": "Young: Houthis Threat Not New But Tactics Elevated",
-     "published": "2026-10-15T06:14:36+00:00",
-     "summary": "Oil prices were low as concerns eased in the Middle East over supply disruptions. The IEA also raised its forecast for the war's impact on supply. Karen Young, Senior Research Scholar at Columbia University's Center on Global Energy Policy spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa over the lack of disruptions caused by the Houthi attacks on Saudi Aramco’s facilities. (So"
-    },
-    {
-     "ref": "bloomberg_markets#8",
-     "title": "Gor: US-India Close to Landing Trade Deal",
-     "published": "2026-10-15T06:10:51+00:00",
-     "summary": "T.H. Sergio Gor, Ambassador to the Republic of India, United States speaks with Bloomberg's Saleha Mohsin at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "Ship Fuel Market Fragments as Middle East Conflict Hits Trade",
-     "published": "2026-10-15T06:00:45+00:00",
-     "summary": "Shipowners are facing an increasingly fragmented fuel market as disruptions triggered by the Middle East conflict raise concerns about the availability and quality of supply."
-    },
-    {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Pernod Ricard Sales Decline Softened by Strength in India",
      "published": "2026-10-15T05:30:44+00:00",
      "summary": "Pernod Ricard SA’s sales fell less than expected last quarter as growth in India helped cushion persistent weakness in the US and China."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Copper Falls for Third Day as Strong US Inflation Spurs Selloff",
      "published": "2026-10-15T04:57:48+00:00",
      "summary": "Copper declined with other base metals after stronger-than-expected US consumer prices spurred bets on more aggressive tightening by the Federal Reserve."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Korea’s Foreign Bank Scrutiny Deepens With Bond Sale Delayed",
      "published": "2026-10-15T04:15:07+00:00",
      "summary": "As Korea mulls restrictions that would limit certain foreign banks from arranging overseas bond sales, informal guidance has already played a role in delaying at least one such deal, people familiar with the matter said."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "India IDBI Stake Sale Brings Timely Buffer Against $100 Oil",
      "published": "2026-10-15T04:07:24+00:00",
      "summary": "India’s long-awaited sale of IDBI Bank Ltd. will provide the government of Prime Minister Narendra Modi some fiscal relief as surging fuel prices and dwindling foreign inflows add to pressure on the economy."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Anthropic Results May Aid IPO But Not AI Trade, Analysts Say",
      "published": "2026-10-15T03:21:25+00:00",
      "summary": "Anthropic PBC’s third-quarter results may strengthen the case for its expected initial public offering, though signs that revenue growth slowed from earlier in the year are likely to deepen questions over the global AI trade, according to some investors and analysts."
-    },
-    {
-     "ref": "bloomberg_markets#15",
-     "title": "Asia Fights Back as Stocks Selloff Upends Currency Markets",
-     "published": "2026-10-15T02:57:56+00:00",
-     "summary": "Asian central banks went on the offensive Thursday, moving to prop up their currencies as a selloff in stocks pushed the South Korean won and Taiwan dollar down by 1%."
     },
     {
      "ref": "bloomberg_markets#16",
@@ -216,152 +216,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "רכש פנטהאוז ב–64 מיליון שקל וישלם 3 מיליון שקל מס יותר ממה שצריך",
+     "published": "2026-10-15T07:49:39+00:00",
+     "summary": "דירה שרכש יזם ההייטק טלמון מרקו דווחה לרשות המסים על יד הצדדים כ\"דירת מגורים\" ובהתאם שולם מס שבח (מצד המוכרים) ומס רכישה של 6.3 מיליון שקל (מצד הרוכש) ■ אחרי שהרשות גילתה כי מדובר בדירה במצב מעטפת, המוכרים שילמו מס שבח גבוה יותר ■ מרקו ביקש לתקן את השומה שכן במקרה של דירת מעטפת מס הרכישה נמוך בהרבה — אך נדחה בבית משפט"
+    },
+    {
+     "ref": "themarker#1",
+     "title": "עמדות פתוחות לשמיים: למה מוצבי צה\"ל נותרו חשופים לרחפנים?",
+     "published": "2026-10-15T07:48:28+00:00",
+     "summary": "צה\"ל ממשיך להקים מערכי הגנה סטטיים ומיושנים שנשלפו מתורות הלחימה מהמאה הקודמת, תוך התעלמות כמעט מוחלטת מהשינויים הדרמטיים באופי האויב ובאמצעי הלחימה שלו ■ את מה שהאוקראינים למדו במהירות, בצה\"ל מתקשים ליישם והכוחות בשטח נאלצים להתבסס על אלתורים"
+    },
+    {
+     "ref": "themarker#2",
      "title": "ירידות באירופה; כלכלת בריטניה מפתיעה עם צמיחה טובה מהתחזיות חודש רביעי ברציפות",
      "published": "2026-10-15T07:20:00+00:00",
      "summary": "התשואה על אג\"ח בריטיות ל-10 שנים נופלת; היורו והליש\"ט מתחזקים מול הדולר ■ מניות השבבים הפילו את בורסות אסיה: טוקיו איבדה 5%; סיאול נפלה בכמעט 9%, מניות SK הייניקס וסמסונג נפלו ביותר מ-11% ■ מחירי הנפט יורדים ביותר מ-1%; הברנט נסוג ל-104 דולר לחבית ■ דיווח: בדרך להנפקה הכנסות אנתרופיק קפצו ל-16.8 מיליארד דולר ברבעון השלישי"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#3",
      "title": "בעקבות הירידות בשווקים: ירידות גם בת\"א; הדולר מזנק ל-3.11 שקלים",
      "published": "2026-10-15T05:42:11+00:00"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#4",
      "title": "23 המילים שטילטלו אתמול את כל פעילי שוק ההון",
      "published": "2026-10-15T05:11:23+00:00",
      "summary": "החברות הישראליות שמתמודדות במכרזים לשיקום עזה, האחים בר וברזאני מכוונים לבורסה, החלטת העליון שגלובלנט גמל לא תחזיר בינתיים לחוסכים 11 מיליון שקל — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#5",
      "title": "לאחר האסון: הממשלה תשקיע 1.2 מיליון שקל בפרסומות על הסכנה בנפלים",
      "published": "2026-10-15T04:20:11+00:00",
      "summary": "בעקבות האסון בצפון שבו נהרג נער בן 14 ונפצעו עשרות לאחר שנתקלו בנפל, הממשלה תממן קמפיין חירום של פיקוד העורף לפני משדרי החדשות ■ חברת הפרסום שתבצע את הקמפיין היא גריי מדיה, שקיבלה כמחצית מתקציב הפרסום של לשכת הפרסום הממשלתית בטלוויזיה ב–2024, וההתקשרות עימה נעשתה ללא מכרז"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#6",
      "title": "יפה בן דויד דורשת להתחיל במו\"מ על תוספות שכר למורים — עוד לפני הבחירות והרכבת הממשלה",
      "published": "2026-10-15T04:19:02+00:00",
      "summary": "בקשת הסתדרות המורים מגיעה בזמן שלא ידוע מי יהיו שרי החינוך והאוצר הבאים, שיידרשו להתוות מדיניות בכל הקשור לשכר, תנאי העבודה והתמריצים למורים ■ במצב כזה קיים חשש של ניסיון להציב עובדות בשטח לשרים הבאים ■ התנועה לאיכות השלטון פנתה ליועמ\"שית בבקשה לעצור את פתיחת המו\"מ"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#7",
      "title": "פיקוח עצמי או היעדר רגולציה על תעשיית ה–AI הם מתכון לאסון",
      "published": "2026-10-15T03:12:32+00:00",
      "summary": "טראמפ קרא לחברות הבינה המלאכותית \"לרוץ קדימה\" ולא נרתע מהאזהרות לגבי הסכנות האפשריות — או מחששות המצביעים ממרוץ הפיתוח הכלל־ארצי ■ כדי לאפשר פיתוח בטוח ואמין של הטכנולוגיה, בלי להגיע אל סף אסון, יש לחייב את החברות להעמיד את המודלים שלהן למבחן, לדווח על תקריות בטיחות — ולהגן על מדליפים שחושפים כאלה"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#8",
      "title": "החורף לא ימלא את הכנרת והאצות עשויות לחזור: איך ישראל יכולה להיערך למשבר המים הבא?",
      "published": "2026-10-15T03:11:37+00:00",
      "summary": "עיכוב בהפעלה של מתקני התפלה חדשים, חורף שחון ופוליטיזציה גררו את מדינת ישראל למצב שבו משק המים התקשה להתמודד עם משבר ההתפלה ■ כדי להיערך למשבר הבא יידרשו צעדים חריפים ויקרים"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#9",
      "title": "40% מהחברות במדד S&P 500 ירדו ביותר מ–20% מהשיא — היכן נמצאות ההזדמנויות?",
      "published": "2026-10-15T03:11:04+00:00",
      "summary": "המדד המרכזי בוול סטריט מונע בחודשים האחרונים רק מענף הטכנולוגיה וענף האנרגיה, וחלק מהחברות כבר נסוגו ביותר מ–20% מהשיא ונמצאות בשוק דובי — בשל הריבית הגבוהה ■ \" ללא חברות הטכנולוגיה, המדד נסחר במכפיל רווח 12 — זה מאוד נמוך\""
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#10",
      "title": "לא רק הקבלנים: תקנות בטיחות חדשות יסבכו את דיירי התמ\"א וקבוצות הרכישה",
      "published": "2026-10-15T03:07:53+00:00",
      "summary": "התקנות שייכנסו לתוקפן ביום שישי מחייבות את כל היזמים באחריות על הבטיחות באתרי הבנייה, בניגוד למצב הנוכחי שבו האחריות מוטלת רק על הקבלן המבצע ■ מבחינת בעלי הדירות, הן צפויות לסבך ולייקר מיזמי התחדשות עירונית וקבוצות רכישה"
     },
     {
-     "ref": "themarker#9",
-     "title": "דניה, אלקטרה, שפיר ואורון הן החברות הישראליות שמתמודדות במכרזים לשיקום עזה",
+     "ref": "themarker#11",
+     "title": "דניה, טלאור־כראדי, אלקטרה, שפיר ואורון הן החברות הישראליות שמתמודדות במכרזים לשיקום עזה",
      "published": "2026-10-15T03:06:22+00:00",
      "summary": "בזמן שבממשלה מדברים עדיין על הגירה \"מרצון\" ועל התנחלויות בעזה, חלק מהמכרזים לשיקום הרצועה כבר התפרסמו וחברות ישראליות ואמריקאיות מגישות עבורם הצעות ■ המכרזים כוללים בניית בסיסים, כבישים ואיטום מנהרות ■ \"כל החברות אוספות נתונים ומחכות לגונג מדיני\""
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#12",
      "title": "מייסדי זרטו מבשלים סטארט־אפ שינסה להתחרות באחד מכוכבי ההייטק הישראלי",
      "published": "2026-10-15T03:03:22+00:00",
      "summary": "האחים זיו ועודד קדם הפכו את זרטו לאחד הסטארט־אפים המובילים בישראל אבל הסוף היה חמוץ ■ בחברת הגיבוי החדשה שלהם, שגייסה כבר 33 מיליון דולר ועדיין פועלת מתחת לרדאר, הם יתחרו בסטארט־אפ הישראלי איון"
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#13",
      "title": "בן 14 נהרג מפיצוץ נפל בצפון. כך שרי הליכוד יברחו מאחריות",
      "published": "2026-10-15T03:02:35+00:00",
      "summary": "הרשות לפינוי מוקשים ונפלים חסרה מנהל קבוע — אז שר הביטחון ניסה לעורר את השד העדתי ■ משרד החינוך פישל — אז שר החינוך מקדם מינויים פוליטיים ■ במקום להתנצל בפני פקידים שהשפיל — שר האוצר גונב מהם קרדיט ■ למזלם, מחנה השינוי ממשיך לעסוק רק בביבי"
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#14",
      "title": "מערכת הביטחון שותה בקשית את תקציב המדינה, וזה רק יחמיר",
      "published": "2026-10-15T03:01:41+00:00",
      "summary": "אפילו הקרבה לבחירות לא מנעה מהממשלה לקבל החלטה לא פופולרית על קיצוץ בתקציב, כדי למלא את צרכיה של מערכת הביטחון ■ עד 2030 הצרכים רק יגברו — למערכת הביטחון אושרו תקציבי הצטיידות בסכומים חסרי תקדים — ויעמידו בסכנה את כל התקציבים האזרחיים"
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#15",
      "title": "\"עזבתי דוקטורט בביוכימיה והתחלתי בתחום חדש, עם משכורת ותנאים כאילו השתחררתי מהצבא\"",
      "published": "2026-10-15T03:00:08+00:00",
      "summary": "\"היו לי חברים שהשתלבו בחברות מובילות וקיבלו תנאים טובים, ואני הייתי צריכה להתחיל בתחום חדש ולקבל משכורת ותנאים כאילו השתחררתי מהצבא\""
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#16",
      "title": "הון, שלטון ומזימות בינלאומיות: נפילתו של החוקר הפרטי עמית פורליט",
      "published": "2026-10-14T17:20:25+00:00",
      "summary": "הוא עשה הון מריגול עסקי, התחכך באלפיון העליון ושימש השראה למותחן פיננסי ■ כעת התביעה הפדרלית בארה\"ב טוענת שהחוקר הישראלי גויס כדי לטרפד את תביעות האקלים שמסכנות את חברות הנפט — ודורשת לשלוח אותו לעשרות שנים בכלא"
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#17",
      "title": "\"לא בוצעו הדרכות פרונטליות לעובדים\": מסמך הבדיקה השטחי של הרכבת לנפילת צינורות הגז",
      "published": "2026-10-14T16:41:06+00:00",
      "summary": "ארבעה חודשים לאחר שנפלו 10 צינורות גז מרכבת משא, רכבת ישראל עוד לא פירסמה את ממצאי האירוע לציבור ■ במסמך שהופץ לעובדי החברה נכתב כי האירוע נגרם \"עקב מיקום שגוי\" של חלק שאמור להחזיק את הצינורות על הקרון ■ רכבת ישראל: \"הנושא נבדק לעומק ומסקנותיו הופקו\""
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#18",
      "title": "קמטק צופה הכנסות של 161 מיליון דולר ברבעון השלישי של 2026",
      "published": "2026-10-14T16:29:41+00:00",
      "summary": "קמטק פירסמה תחזיות לרבעון השלישי והרביעי של 2026 לקראת כנס אנליסטים שנערך בסן פרנסיסקו ■ יצרנית המערכות האופטיות למדידה ובדיקה בייצור שבבים צופה כי תעקוף במעט את תחזיות ההכנסות לרבעון השלישי ■ המניה יורדת ב–7% בוול סטריט כחלק ממגמה שלילית בכלל מגזר השבבים"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#19",
      "title": "את מה שהמלחמה לא עשתה לבורסה — עושים סקרי המנדטים",
      "published": "2026-10-14T15:58:01+00:00",
      "summary": "המשקיעים חוששים משיתוק פוליטי ונוקטים זהירות כלפי הבורסה בתל אביב ■ המאבק על כאל נמשך, סמוטריץ' מייצר תעמולת בחירות מהקיצוץ התקציבי, ומה קרה אחרי עליית מחירי האוטובוסים ■ כל מה שצריך לדעת על היום שהיה בכלכלה"
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#20",
      "title": "העליון קבע: גלובלנט גמל לא תחזיר בינתיים לחוסכים 11 מיליון שקל",
      "published": "2026-10-14T15:52:07+00:00",
      "summary": "רשות שוק ההון קבעה מוקדם יותר השנה שעל החברה להחזיר ל–44 חוסכים את הכספים שהועברו לקרן הקשורה לפרשת סלייס ■ לאחר שהעתירה נגד ההחלטה נדחתה בבית המשפט המחוזי, החברה ערערה לעליון — והוא קבע שעד להכרעה יופקדו הכספים בקופת בית המשפט"
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#21",
      "title": "האחים בר וברזאני מכוונים לבורסה: נערכים להנפקה לפי שווי של עד 3 מיליארד שקל",
      "published": "2026-10-14T15:35:57+00:00",
      "summary": "בעלי י.ד ברזאני מתכננים לגייס עד מיליארד שקל עבור זרוע התשתיות והביצוע ■ הפעילות למגורים תישאר בחוץ בשל תנאי השוק, וההחלטה הסופית תתקבל לאחר הבחירות"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#22",
      "title": "נזק חברתי ואחריות דירקטורים: מי קובע את הגבול?",
      "published": "2026-10-14T15:24:44+00:00",
      "summary": "חוק החברות מאפשר לדירקטורים להתחשב בעובדים ובציבור ■ אך הטלת חובה אישית רחבה אינה יכולה להיעשות בלי שינוי חקיקה מפורש — וספק אם הוא דרוש"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#23",
      "title": "עם 44 מיליון דולר: זנזאפ הישראלית רוצה להחליף את וואטסאפ, סלאק וטימז במקומות עבודה",
      "published": "2026-10-14T15:15:10+00:00",
      "summary": "הסטארט־אפ שואף לחדור לשוק רווי וסטטי של צ'אטים ומערכות מסרים פנים־ארגוניות, שנשלט כבר שנים בידי קומץ ענקיות ■ המערכת של זנזאפ מאפשרת לעובדים לשתף קבצים, לנהל משימות, ליצור אוטומציות ולשלב בשיחות סוכני AI אוטונומיים ■ המנכ\"ל גיא וייס: \"אנחנו פונים פחות לחברות טק ויותר ל'נורמיז'\""
     },
     {
-     "ref": "themarker#22",
+     "ref": "themarker#24",
      "title": "הממשלה העלתה את תקציב הביטחון — ועסקת מסוקי אפאצ'י נחתמה",
      "published": "2026-10-14T15:00:09+00:00",
      "summary": "מחיר המסוקים בעסקה הוא 988 מיליון דולר, והחתימה עליה התאפשרה אחרי ששרי הממשלה אישרו הצעת החלטה שהקצתה עוד 1.03 מיליארד שקל לטובת מערכת הביטחון ■ המסוקים הם מדגם אקו, החדיש והמתקדם ביותר של המסוק, והם יסופקו בתחילת העשור הבא"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "הדירקטור אמר שהוא מומחה? חברות בבורסה יחויבו להסביר למה קיבלו אותו",
-     "published": "2026-10-14T14:42:46+00:00",
-     "summary": "דירקטורים רבים בבורסה, בהם משה יעלון וכרמי גילון, ממלאים תקן של מומחה חשבונאי או פיננסי שמאשר דו\"חות כספיים ■ מינויים תלוי בהצהרה ובאישור שלה על ידי הדירקטוריון, בלי הסבר ■ בעקבות הצעת לובי 99, חברות יצטרכו לנמק את המינויים האלה — גם בדיעבד"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "המאבק על כאל נפתח: ניסיון חילוץ אמריקאי, רוכש חדש באופק — והשעון של דיסקונט שמתקתק",
-     "published": "2026-10-14T14:20:42+00:00",
-     "summary": "לאחר טרפוד עסקת יוניון־הראל, השיחות עם גלאטין פוינט וההתעניינות בכאל מצידה של ווישור־איילון מעלות תהיות בשוק: האם ג'ורג' חורש מנסה לחמוק מקנס של 150 מיליון שקל, והאם דיסקונט ייאלץ לבחור במסלול ההנפקה? ■ בזמן שיוניון והראל בוחנות מתווה סבוך להבאת קרן השקעות זרה, בדיסקונט מתקשים לקבל החלטות"
     }
    ]
   },
@@ -371,27 +371,27 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "AI Debt Concerns Hit Dollar, Lift Swiss Franc",
+     "published": "2026-10-15T07:58:00+00:00",
+     "summary": "The DXY dollar index fell 0.4% to 102.091 due to growing concerns about the debt load in the AI sector, ING said."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Gold Prices Rebound After Wednesday’s Slide",
      "published": "2026-10-15T07:39:00+00:00",
      "summary": "Gold prices rose in early European trading, recovering some ground after Wednesday’s selloff, but remained below $4,200 a troy ounce."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Oil Falls Despite Hormuz Shipping Attacks, Houthi Strikes on Saudi Arabia",
      "published": "2026-10-15T07:26:00+00:00",
      "summary": "Oil prices fell despite escalating Middle East hostilities amid Houthi strikes against Saudi Arabia and continued attacks on shipping in the Strait of Hormuz."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "European Indexes Mixed as AI Selloff Deepens",
      "published": "2026-10-15T07:23:00+00:00",
      "summary": "Europe’s stock indexes were mixed at open as a global selloff in AI-related equities hit the continent, and basic resources stocks fell sharply on lower metals prices—though telecoms and software showed resilience."
-    },
-    {
-     "ref": "wsj_markets#3",
-     "title": "Sterling Little Moved After U.K. GDP Data",
-     "published": "2026-10-15T07:20:00+00:00",
-     "summary": "Sterling was little moved after data showed the U.K. economy unexpectedly grew, albeit only slightly, in August."
     },
     {
      "ref": "wsj_markets#4",
@@ -525,9 +525,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4132.4199,
+   "last": 4141.2598,
    "prev_close": 4162.77,
-   "change_pct": -0.73,
+   "change_pct": -0.52,
    "as_of": "2026-10-15"
   },
   "SP500": {
@@ -539,23 +539,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0977,
+   "last": 3.0975,
    "prev_close": 3.0749,
    "change_pct": 0.74,
    "as_of": "2026-10-15"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 103.67,
+   "last": 104.09,
    "prev_close": 106.06,
-   "change_pct": -2.25,
+   "change_pct": -1.86,
    "as_of": "2026-10-15"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81281.2031,
+   "last": 81310.0703,
    "prev_close": 81562.4922,
-   "change_pct": -0.34,
+   "change_pct": -0.31,
    "as_of": "2026-10-15"
   }
  },

@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-10-15T08:04:37+00:00",
+     "summary": "Artificial intelligence AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-10-15T07:50:47+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Pope Leo XIV’s cancer diagnosis raises questions about the future and the very recent past - AP News",
      "published": "2026-10-15T06:54:00+00:00",
      "summary": "Pope Leo XIV’s cancer diagnosis raises questions about the future and the very recent past AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#3",
      "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple - AP News",
      "published": "2026-10-15T06:24:00+00:00",
      "summary": "Teen accused of plotting mass shooting at Chicago-area Hindu temple AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#4",
      "title": "Brewers stun Dodgers with back-to-back homers in 7th inning and take 3-0 lead in NLCS with 6-2 win - AP News",
      "published": "2026-10-15T05:23:00+00:00",
      "summary": "Brewers stun Dodgers with back-to-back homers in 7th inning and take 3-0 lead in NLCS with 6-2 win AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#5",
      "title": "Cornell president pressed by faculty frustrated by his handling of fraternity rape allegations - AP News",
      "published": "2026-10-15T05:00:00+00:00",
      "summary": "Cornell president pressed by faculty frustrated by his handling of fraternity rape allegations AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#6",
      "title": "China opens a joint airfield in Laos with construction ongoing and eyes on its military role - AP News",
      "published": "2026-10-15T04:20:21+00:00",
      "summary": "China opens a joint airfield in Laos with construction ongoing and eyes on its military role AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#7",
      "title": "Tokyo protests Russia’s arrest of Japanese journalist on suspicion of spying - AP News",
      "published": "2026-10-15T04:18:00+00:00",
      "summary": "Tokyo protests Russia’s arrest of Japanese journalist on suspicion of spying AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "Prince Harry and Meghan to make first joint appearances since returning to UK - AP News",
      "published": "2026-10-15T04:15:00+00:00",
      "summary": "Prince Harry and Meghan to make first joint appearances since returning to UK AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
      "title": "A deepened tech sell-off drags Asian stocks lower as markets in South Korea and Japan sink - AP News",
      "published": "2026-10-15T04:06:00+00:00",
      "summary": "A deepened tech sell-off drags Asian stocks lower as markets in South Korea and Japan sink AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#10",
      "title": "Everyone has the same question in the midterms — where's the beef? (And how much does it cost?) - AP News",
      "published": "2026-10-15T04:06:00+00:00",
      "summary": "Everyone has the same question in the midterms — where's the beef? (And how much does it cost?) AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "New China-North Korea bridge opens after more than a decade of delay - AP News",
      "published": "2026-10-15T03:43:00+00:00",
      "summary": "New China-North Korea bridge opens after more than a decade of delay AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "Trump defends gifted Air Force One from Qatar and makes 2nd Amendment pitch as he campaigns for GOP - AP News",
      "published": "2026-10-15T03:15:00+00:00",
      "summary": "Trump defends gifted Air Force One from Qatar and makes 2nd Amendment pitch as he campaigns for GOP AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say - AP News",
      "published": "2026-10-15T02:59:00+00:00",
      "summary": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls - AP News",
      "published": "2026-10-15T02:43:00+00:00",
      "summary": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
      "title": "Chicago Catholics rally for prayer in Pope Leo’s hometown after his lung cancer diagnosis - AP News",
      "published": "2026-10-15T02:23:00+00:00",
      "summary": "Chicago Catholics rally for prayer in Pope Leo’s hometown after his lung cancer diagnosis AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "Lawyers for New York man shot by ICE say officer fired into car without warning - AP News",
      "published": "2026-10-15T02:05:00+00:00",
      "summary": "Lawyers for New York man shot by ICE say officer fired into car without warning AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "Brazil’s Senate approves a shorter workweek in major win for Lula ahead of runoff - AP News",
      "published": "2026-10-15T01:55:00+00:00",
      "summary": "Brazil’s Senate approves a shorter workweek in major win for Lula ahead of runoff AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "North Korea says it tested cruise missiles designed to be fired from submarines - AP News",
      "published": "2026-10-15T01:47:00+00:00",
      "summary": "North Korea says it tested cruise missiles designed to be fired from submarines AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#19",
      "title": "From behind the podium, White House press secretaries had some memorable moments - AP News",
      "published": "2026-10-15T01:46:00+00:00",
      "summary": "From behind the podium, White House press secretaries had some memorable moments AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
      "title": "UK prosecutor labels Russell Brand a ruthless sexual predator as his sex assault trial begins - AP News",
      "published": "2026-10-15T01:46:00+00:00",
      "summary": "UK prosecutor labels Russell Brand a ruthless sexual predator as his sex assault trial begins AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#21",
      "title": "‘Cockroach’ movement leaders jailed for 5 days after scaling barricades at New Delhi protest - AP News",
      "published": "2026-10-15T01:36:00+00:00",
      "summary": "‘Cockroach’ movement leaders jailed for 5 days after scaling barricades at New Delhi protest AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#22",
      "title": "Indonesia’s top Muslim council opposes upcoming Andrea Bocelli concerts over Israel ties - AP News",
      "published": "2026-10-15T01:33:00+00:00",
      "summary": "Indonesia’s top Muslim council opposes upcoming Andrea Bocelli concerts over Israel ties AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#23",
      "title": "Police investigate report of sexual assault at a fraternity party near the University of Chicago - AP News",
      "published": "2026-10-15T01:25:00+00:00",
      "summary": "Police investigate report of sexual assault at a fraternity party near the University of Chicago AP News"
     },
     {
-     "ref": "ap_world#22",
-     "title": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here - AP News",
-     "published": "2026-10-15T00:44:00+00:00",
-     "summary": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Riots erupt in Albania’s capital as students join anti-government movement - AP News",
-     "published": "2026-10-15T00:40:00+00:00",
-     "summary": "Riots erupt in Albania’s capital as students join anti-government movement AP News"
-    },
-    {
      "ref": "ap_world#24",
-     "title": "US coach who recorded young gymnasts undressing is sentenced to 90 years in prison - AP News",
-     "published": "2026-10-15T00:03:00+00:00",
-     "summary": "US coach who recorded young gymnasts undressing is sentenced to 90 years in prison AP News"
+     "title": "Press Releases - AP News",
+     "published": "2026-10-15T01:19:09+00:00",
+     "summary": "Press Releases AP News"
     }
    ]
   },
@@ -393,18 +393,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "Trump Is Gutting America’s Core Geopolitical Advantage",
      "published": "2026-10-09T08:00:00+00:00",
      "summary": "Robert Zoellick, an expert on the global economy who served as U.S. trade representative and World Bank president, makes the authoritative case that President Donald Trump’s antagonism toward Canada and Mexico is destroying an economic and security partnership that that enables the United States to project power globally."
-    },
-    {
-     "ref": "foreign_affairs#8",
-     "title": "The Case for Economic Espionage",
-     "published": "2026-10-08T08:00:00+00:00",
-     "summary": "America should spy on foreign companies to help its own."
-    },
-    {
-     "ref": "foreign_affairs#9",
-     "title": "The End of Gaza",
-     "published": "2026-10-08T08:00:00+00:00",
-     "summary": "A failing peace process leads to only one outcome."
     }
    ]
   },
@@ -414,153 +402,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Seventeen students, one teacher killed in school roof collapse in Pakistan - Reuters",
-     "published": "2026-10-15T06:10:00+00:00",
-     "summary": "Seventeen students, one teacher killed in school roof collapse in Pakistan Reuters"
+     "title": "Drone attack causes fire at Russia's Ryazan refinery, regional governor says - Reuters",
+     "published": "2026-10-15T07:07:42+00:00",
+     "summary": "Drone attack causes fire at Russia's Ryazan refinery, regional governor says Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "Zelenskiy says Ukraine will resume strikes on Russian refineries, FT reports - Reuters",
-     "published": "2026-10-15T06:03:00+00:00",
-     "summary": "Zelenskiy says Ukraine will resume strikes on Russian refineries, FT reports Reuters"
+     "title": "Pakistan school roof collapse kills 27 students, one teacher - Reuters",
+     "published": "2026-10-15T06:10:00+00:00",
+     "summary": "Pakistan school roof collapse kills 27 students, one teacher Reuters"
     },
     {
      "ref": "reuters_world#2",
+     "title": "Ukraine resumes strikes on Russian refineries as Zelenskiy says 'we're done' - Reuters",
+     "published": "2026-10-15T06:03:00+00:00",
+     "summary": "Ukraine resumes strikes on Russian refineries as Zelenskiy says 'we're done' Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "Germany's Klingbeil says support for Ukraine comes with reform expectations - Reuters",
      "published": "2026-10-15T05:53:00+00:00",
      "summary": "Germany's Klingbeil says support for Ukraine comes with reform expectations Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike - Reuters",
      "published": "2026-10-15T05:11:00+00:00",
      "summary": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Bessent calls for World Bank reforms, including upstream oil and gas financing - Reuters",
      "published": "2026-10-15T05:01:00+00:00",
      "summary": "Bessent calls for World Bank reforms, including upstream oil and gas financing Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "This Chinese export boom really has legs – and wings - Reuters",
      "published": "2026-10-15T05:00:00+00:00",
      "summary": "This Chinese export boom really has legs – and wings Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
+     "title": "South Korea's KOSPI triggers circuit breaker in tech-led selloff - Reuters",
+     "published": "2026-10-15T04:54:00+00:00",
+     "summary": "South Korea's KOSPI triggers circuit breaker in tech-led selloff Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
+     "title": "Morning Bid: CoreWeave at the heart of wipeout as AI rout deepens - Reuters",
+     "published": "2026-10-15T04:38:00+00:00",
+     "summary": "Morning Bid: CoreWeave at the heart of wipeout as AI rout deepens Reuters"
+    },
+    {
+     "ref": "reuters_world#9",
      "title": "Prolonged war, renewed disruptions pose biggest risk to Middle East region, IMF says - Reuters",
      "published": "2026-10-15T04:37:00+00:00",
      "summary": "Prolonged war, renewed disruptions pose biggest risk to Middle East region, IMF says Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says - Reuters",
      "published": "2026-10-15T04:23:00+00:00",
      "summary": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "EU leaders to tackle China exports, energy prices, budget at summit - Reuters",
      "published": "2026-10-15T04:04:00+00:00",
      "summary": "EU leaders to tackle China exports, energy prices, budget at summit Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "IMF urges China to deploy bigger fiscal stimulus - Reuters",
      "published": "2026-10-15T03:49:00+00:00",
      "summary": "IMF urges China to deploy bigger fiscal stimulus Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "Gold rebounds from one-week low as dollar slips - Reuters",
      "published": "2026-10-15T03:18:00+00:00",
      "summary": "Gold rebounds from one-week low as dollar slips Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
      "title": "Indian rupee to rise after US yields reverse inflation-led spike, Fed hike bets remain low - Reuters",
      "published": "2026-10-15T02:58:00+00:00",
      "summary": "Indian rupee to rise after US yields reverse inflation-led spike, Fed hike bets remain low Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#15",
      "title": "China, North Korea open long-delayed border bridge to boost trade - Reuters",
      "published": "2026-10-15T02:43:00+00:00",
      "summary": "China, North Korea open long-delayed border bridge to boost trade Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#16",
      "title": "China's top prosecutor arrests former Chengdu mayor suspected of bribery - Reuters",
      "published": "2026-10-15T02:24:00+00:00",
      "summary": "China's top prosecutor arrests former Chengdu mayor suspected of bribery Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#17",
      "title": "IMF warns of slowing Asian growth, spillover from rising yields - Reuters",
      "published": "2026-10-15T02:04:00+00:00",
      "summary": "IMF warns of slowing Asian growth, spillover from rising yields Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#18",
      "title": "EXCLUSIVE: SK Hynix conditions new US factory on more US chip equipment exports to China, sources say - Reuters",
      "published": "2026-10-15T02:02:00+00:00",
      "summary": "EXCLUSIVE: SK Hynix conditions new US factory on more US chip equipment exports to China, sources say Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#19",
      "title": "New Zealand to help Fiji overhaul intelligence agencies - Reuters",
      "published": "2026-10-15T01:50:00+00:00",
      "summary": "New Zealand to help Fiji overhaul intelligence agencies Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease - Reuters",
      "published": "2026-10-15T01:49:00+00:00",
      "summary": "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
      "title": "UK finance minister calls for tighter Russian shipping sanctions - Reuters",
      "published": "2026-10-15T01:46:00+00:00",
      "summary": "UK finance minister calls for tighter Russian shipping sanctions Reuters"
     },
     {
-     "ref": "reuters_world#19",
-     "title": "BOJ should not be overly cautious in raising rates, board member Koeda says - Reuters",
-     "published": "2026-10-15T01:46:00+00:00",
-     "summary": "BOJ should not be overly cautious in raising rates, board member Koeda says Reuters"
-    },
-    {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "Brazil's Senate approves shorter workweek in win for Lula - Reuters",
      "published": "2026-10-15T01:13:00+00:00",
      "summary": "Brazil's Senate approves shorter workweek in win for Lula Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "Tech stocks tumble as data centre debt worries hit AI trades - Reuters",
      "published": "2026-10-15T00:51:00+00:00",
      "summary": "Tech stocks tumble as data centre debt worries hit AI trades Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Australian employment falls in September, quashing rate hike risk - Reuters",
      "published": "2026-10-15T00:50:00+00:00",
      "summary": "Australian employment falls in September, quashing rate hike risk Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Mukesh Ambani's Jio sets price band for India IPO - Reuters",
-     "published": "2026-10-15T00:31:00+00:00",
-     "summary": "Mukesh Ambani's Jio sets price band for India IPO Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "US rejects recommendation for ICE body cams to be automatically activated - Reuters",
-     "published": "2026-10-15T00:18:00+00:00",
-     "summary": "US rejects recommendation for ICE body cams to be automatically activated Reuters"
     }
    ]
   }
