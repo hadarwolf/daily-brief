@@ -18,122 +18,122 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Horizons Middle East & Africa 10/15/2026 (Video)",
+     "published": "2026-10-15T07:11:10+00:00"
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Can Digital Infrastructure Transform Economies?",
      "published": "2026-10-15T06:51:28+00:00",
      "summary": "Reuben Abraham, CEO, Artha Global and Kamal Quadir, Founder & CEO, bKash discuss how digital public infrastructure can reshape developing economies and whether India’s model can be replicated elsewhere with Bloomberg’s Jeanette Rodrigues at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "AI Rally Runs Into Inflation Reality",
      "published": "2026-10-15T06:42:33+00:00",
      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Five Questions With Aryaman Birla",
      "published": "2026-10-15T06:35:15+00:00",
      "summary": "From player to team owner, Aryaman Birla is returning to cricket but in a different avatar. Sanjai P R asks him about life beyond the pitch in Five Questions with Aryaman Birla. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Molavi: Saudis & Houthis Can Hit Hard; Not End War",
      "published": "2026-10-15T06:17:07+00:00",
      "summary": "Oil prices were low as concerns eased in the Middle East over supply disruptions. This is after the Houthi attacks on Saudi Arabia did not cause any interruptions that markets had feared. The IEA also raised its forecast for the war's impact on supply. Meanwhile the question looms of US military support to Saudi Arabia in their fight against the Iran-backed rebels in Yemen. Afshin Molavi, senior f"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "NYU's Marcus on Why AI May Be a 'Flawed Tool'",
      "published": "2026-10-15T06:16:59+00:00",
      "summary": "Gary Marcus, Emeritus Professor of Psychology at NYU, discusses whether AI is having a measurable impact on productivity, and shares his thoughts on why LLMs could be considered a \"flawed tool.\" He speaks at Bloomberg's New Economy Forum in New Delhi. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Young: Houthis Threat Not New But Tactics Elevated",
      "published": "2026-10-15T06:14:36+00:00",
      "summary": "Oil prices were low as concerns eased in the Middle East over supply disruptions. The IEA also raised its forecast for the war's impact on supply. Karen Young, Senior Research Scholar at Columbia University's Center on Global Energy Policy spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa over the lack of disruptions caused by the Houthi attacks on Saudi Aramco’s facilities. (So"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Gor: US-India Close to Landing Trade Deal",
      "published": "2026-10-15T06:10:51+00:00",
      "summary": "T.H. Sergio Gor, Ambassador to the Republic of India, United States speaks with Bloomberg's Saleha Mohsin at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Ship Fuel Market Fragments as Middle East Conflict Hits Trade",
      "published": "2026-10-15T06:00:45+00:00",
      "summary": "Shipowners are facing an increasingly fragmented fuel market as disruptions triggered by the Middle East conflict raise concerns about the availability and quality of supply."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "DP World CEO Says Massive Opportunities in India",
      "published": "2026-10-15T05:58:18+00:00",
      "summary": "DP World Group CEO Yuvraj Narayan says economic growth is driving massive opportunities in India. Speaking with Bloomberg's Haslinda Amin on the sidelines of the 2026 Bloomberg New Economy Forum in New Delhi, Narayan noted that as the world diversifies away from traditional sources of supply, India offers major potential across its entire supply chain infrastructure. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
-     "title": "FTSE 100 Live: UK Economy Unexpectedly Grew 0.1% in August",
-     "published": "2026-10-15T05:55:00+00:00"
-    },
-    {
      "ref": "bloomberg_markets#10",
-     "title": "China’s Rogue Agents Find a Way Around Anti-Bot Curbs",
-     "published": "2026-10-15T05:52:10+00:00",
-     "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "Investors on Where India’s Growth Delivers Returns",
-     "published": "2026-10-15T05:51:58+00:00",
-     "summary": "Anjali Sardana, Founder & CEO, Pronto and Chinta Bhagat, Founder, Aries Holdings discuss where investors can find returns in India’s growing economy with Bloomberg’s Menaka Doshi at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Australians Cut Fuel Purchases as Iran War Drives Prices Higher",
-     "published": "2026-10-15T05:36:37+00:00",
-     "summary": "Australians are pulling back at the pump as fuel prices surge, with sales of diesel dropping in August by the most since 2022 and the decline in petrol sales deepening."
-    },
-    {
-     "ref": "bloomberg_markets#13",
      "title": "Pernod Ricard Sales Decline Softened by Strength in India",
      "published": "2026-10-15T05:30:44+00:00",
      "summary": "Pernod Ricard SA’s sales fell less than expected last quarter as growth in India helped cushion persistent weakness in the US and China."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#11",
      "title": "Copper Falls for Third Day as Strong US Inflation Spurs Selloff",
      "published": "2026-10-15T04:57:48+00:00",
      "summary": "Copper declined with other base metals after stronger-than-expected US consumer prices spurred bets on more aggressive tightening by the Federal Reserve."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#12",
+     "title": "Korea’s Foreign Bank Scrutiny Deepens With Bond Sale Delayed",
+     "published": "2026-10-15T04:15:07+00:00",
+     "summary": "As Korea mulls restrictions that would limit certain foreign banks from arranging overseas bond sales, informal guidance has already played a role in delaying at least one such deal, people familiar with the matter said."
+    },
+    {
+     "ref": "bloomberg_markets#13",
      "title": "India IDBI Stake Sale Brings Timely Buffer Against $100 Oil",
      "published": "2026-10-15T04:07:24+00:00",
      "summary": "India’s long-awaited sale of IDBI Bank Ltd. will provide the government of Prime Minister Narendra Modi some fiscal relief as surging fuel prices and dwindling foreign inflows add to pressure on the economy."
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#14",
      "title": "Anthropic Results May Aid IPO But Not AI Trade, Analysts Say",
      "published": "2026-10-15T03:21:25+00:00",
      "summary": "Anthropic PBC’s third-quarter results may strengthen the case for its expected initial public offering, though signs that revenue growth slowed from earlier in the year are likely to deepen questions over the global AI trade, according to some investors and analysts."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#15",
      "title": "Asia Fights Back as Stocks Selloff Upends Currency Markets",
      "published": "2026-10-15T02:57:56+00:00",
      "summary": "Asian central banks went on the offensive Thursday, moving to prop up their currencies as a selloff in stocks pushed the South Korean won and Taiwan dollar down by 1%."
     },
     {
-     "ref": "bloomberg_markets#18",
+     "ref": "bloomberg_markets#16",
+     "title": "Kospi Drops 8% as Samsung, SK Hynix Shares Plunge on AI and Rate Fears",
+     "published": "2026-10-15T00:08:40+00:00",
+     "summary": "A global selloff in semiconductor stocks dragged South Korea’s equity benchmark down nearly 8% to push it into a bear market, as investors retreat from the frothiest corners of the AI trade."
+    },
+    {
+     "ref": "bloomberg_markets#17",
      "title": "Stock Losses Deepen on Chip Rout, Treasuries Rally: Markets Wrap",
      "published": "2026-10-14T22:04:59+00:00",
      "summary": "A global equity selloff deepened as chip stocks plunged on Wall Street and in Asia, further unwinding this year’s blistering rally in the artificial intelligence trade. Treasuries gained on haven demand, while the dollar weakened."
     },
     {
-     "ref": "bloomberg_markets#19",
+     "ref": "bloomberg_markets#18",
      "title": "MUFG Wades Back Into Japanese Bonds With Eye on Policy Risks",
      "published": "2026-10-14T21:00:00+00:00",
      "summary": "Japan’s biggest bank is tentatively getting back into the country’s benchmark government bonds, even as it remains concerned that yields could further spike due to fiscal and monetary policies in the nation."
+    },
+    {
+     "ref": "bloomberg_markets#19",
+     "title": "Oasis Boosts Nidec Stake, Says It’s Now Largest Shareholder",
+     "published": "2026-10-14T11:59:20+00:00",
+     "summary": "Oasis Management Co. founder Seth Fischer said his activist fund has increased its stake in Nidec Corp. to become the largest shareholder, adding heft to its calls for the troubled Japanese motor maker to consider going private."
     }
    ]
   },
@@ -364,39 +364,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
-     "title": "Dollar Falls as Post Inflation Data Rally Fades",
-     "published": "2026-10-15T07:00:00+00:00",
-     "summary": "The dollar eased after reaching an 18-month high Wednesday driven by higher-than-expected U.S. inflation data."
+     "title": "Oil Falls Despite Hormuz Shipping Attacks, Houthi Strikes on Saudi Arabia",
+     "published": "2026-10-15T07:26:00+00:00",
+     "summary": "Oil prices fell despite escalating Middle East hostilities amid Houthi strikes against Saudi Arabia and continued attacks on shipping in the Strait of Hormuz."
     },
     {
      "ref": "wsj_markets#1",
+     "title": "European Indexes Mixed as AI Selloff Deepens",
+     "published": "2026-10-15T07:23:00+00:00",
+     "summary": "Europe’s stock indexes were mixed at open as a global selloff in AI-related equities hit the continent, and basic resources stocks fell sharply on lower metals prices—though telecoms and software showed resilience."
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "Sterling Little Moved After U.K. GDP Data",
+     "published": "2026-10-15T07:20:00+00:00",
+     "summary": "Sterling was little moved after data showed the U.K. economy unexpectedly grew, albeit only slightly, in August."
+    },
+    {
+     "ref": "wsj_markets#3",
      "title": "Antofagasta Copper Production Rises",
      "published": "2026-10-15T06:50:00+00:00",
      "summary": "Output rose 7%, driven by higher production at its Los Pelambres mine in Chile."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#4",
      "title": "Copper Prices Fall Amid Stronger Dollar",
      "published": "2026-10-15T05:57:00+00:00",
      "summary": "Copper prices were lower as hotter-than-expected U.S. inflation data bolstered the dollar and Treasury yields, weighing on risk appetite"
     },
     {
-     "ref": "wsj_markets#3",
-     "title": "Earnings Support Risk Assets, but Limits to Fed Rate Cut Weigh",
-     "published": "2026-10-15T05:53:00+00:00",
-     "summary": "​As long as economic growth outweighs the impact of higher interest rates, corporate earnings can provide support for risk assets​, Eyb & Wallwitz said."
-    },
-    {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
      "published": "2026-10-15T02:00:00+00:00",
      "summary": "The bank has received approaches from potential U.S. deal partners as it publicly spars with Swiss politicians over substantially higher capital requirements."
-    },
-    {
-     "ref": "wsj_markets#5",
-     "title": "Oil Futures Fall on Possible Position Adjustments",
-     "published": "2026-10-15T01:02:00+00:00",
-     "summary": "Oil futures fell in early Asian trade on possible position adjustments after rising overnight but near term losses are likely to be limited by ongoing Middle East tensions."
     },
     {
      "ref": "wsj_markets#6",
@@ -518,10 +518,10 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4162.77,
-   "prev_close": 4130.0498,
-   "change_pct": 0.79,
-   "as_of": "2026-10-14"
+   "last": 4130.0498,
+   "prev_close": 4162.77,
+   "change_pct": -0.79,
+   "as_of": "2026-10-15"
   },
   "SP500": {
    "symbol": "^GSPC",
@@ -532,23 +532,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1052,
+   "last": 3.1025,
    "prev_close": 3.0749,
-   "change_pct": 0.99,
+   "change_pct": 0.9,
    "as_of": "2026-10-15"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 104.6,
+   "last": 104.17,
    "prev_close": 106.06,
-   "change_pct": -1.38,
+   "change_pct": -1.78,
    "as_of": "2026-10-15"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 80849.4531,
-   "prev_close": 83095.125,
-   "change_pct": -2.7,
+   "last": 81033.4375,
+   "prev_close": 81562.4922,
+   "change_pct": -0.65,
    "as_of": "2026-10-15"
   }
  },

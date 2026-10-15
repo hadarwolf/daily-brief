@@ -144,27 +144,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#21",
+     "title": "Police investigate report of sexual assault at a fraternity party near the University of Chicago - AP News",
+     "published": "2026-10-15T01:25:00+00:00",
+     "summary": "Police investigate report of sexual assault at a fraternity party near the University of Chicago AP News"
+    },
+    {
+     "ref": "ap_world#22",
      "title": "Press Releases - AP News",
      "published": "2026-10-15T01:19:09+00:00",
      "summary": "Press Releases AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here - AP News",
      "published": "2026-10-15T00:44:00+00:00",
      "summary": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "Riots erupt in Albania’s capital as students join anti-government movement - AP News",
      "published": "2026-10-15T00:40:00+00:00",
      "summary": "Riots erupt in Albania’s capital as students join anti-government movement AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "US coach who recorded young gymnasts undressing is sentenced to 90 years in prison - AP News",
-     "published": "2026-10-15T00:03:00+00:00",
-     "summary": "US coach who recorded young gymnasts undressing is sentenced to 90 years in prison AP News"
     }
    ]
   },
@@ -174,15 +174,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-     "published": "2026-10-15T04:30:08+00:00",
-     "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
+     "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+     "published": "2026-10-15T07:20:45+00:00",
+     "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure."
     },
     {
      "ref": "bbc_world#1",
-     "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-     "published": "2026-10-15T04:19:17+00:00",
-     "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure."
+     "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+     "published": "2026-10-15T04:30:08+00:00",
+     "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
     },
     {
      "ref": "bbc_world#2",
@@ -414,153 +414,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Entain gaming revenue rises 2% as domestic growth offsets hit from Brazil - Reuters",
+     "published": "2026-10-15T07:15:43+00:00",
+     "summary": "Entain gaming revenue rises 2% as domestic growth offsets hit from Brazil Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Romania's nominated prime minister secures support ahead of confidence vote - Reuters",
+     "published": "2026-10-15T06:52:00+00:00",
+     "summary": "Romania's nominated prime minister secures support ahead of confidence vote Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Seventeen students, one teacher killed in school roof collapse in Pakistan - Reuters",
      "published": "2026-10-15T06:10:00+00:00",
      "summary": "Seventeen students, one teacher killed in school roof collapse in Pakistan Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
      "title": "Zelenskiy says Ukraine will resume strikes on Russian refineries, FT reports - Reuters",
      "published": "2026-10-15T06:03:00+00:00",
      "summary": "Zelenskiy says Ukraine will resume strikes on Russian refineries, FT reports Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike - Reuters",
      "published": "2026-10-15T05:11:00+00:00",
      "summary": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "Bessent calls for World Bank reforms, including upstream oil and gas financing - Reuters",
      "published": "2026-10-15T05:01:00+00:00",
      "summary": "Bessent calls for World Bank reforms, including upstream oil and gas financing Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
+     "title": "This Chinese export boom really has legs – and wings - Reuters",
+     "published": "2026-10-15T05:00:00+00:00",
+     "summary": "This Chinese export boom really has legs – and wings Reuters"
+    },
+    {
+     "ref": "reuters_world#7",
      "title": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says - Reuters",
      "published": "2026-10-15T04:23:00+00:00",
      "summary": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
+     "title": "EU leaders to tackle China exports, energy prices, budget at summit - Reuters",
+     "published": "2026-10-15T04:04:00+00:00",
+     "summary": "EU leaders to tackle China exports, energy prices, budget at summit Reuters"
+    },
+    {
+     "ref": "reuters_world#9",
      "title": "IMF urges China to deploy bigger fiscal stimulus - Reuters",
      "published": "2026-10-15T03:49:00+00:00",
      "summary": "IMF urges China to deploy bigger fiscal stimulus Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#10",
      "title": "Gold rebounds from one-week low as dollar slips - Reuters",
      "published": "2026-10-15T03:18:00+00:00",
      "summary": "Gold rebounds from one-week low as dollar slips Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#11",
+     "title": "Indian rupee to rise after US yields reverse inflation-led spike, Fed hike bets remain low - Reuters",
+     "published": "2026-10-15T02:58:00+00:00",
+     "summary": "Indian rupee to rise after US yields reverse inflation-led spike, Fed hike bets remain low Reuters"
+    },
+    {
+     "ref": "reuters_world#12",
      "title": "China, North Korea open long-delayed border bridge to boost trade - Reuters",
      "published": "2026-10-15T02:43:00+00:00",
      "summary": "China, North Korea open long-delayed border bridge to boost trade Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#13",
      "title": "China's top prosecutor arrests former Chengdu mayor suspected of bribery - Reuters",
      "published": "2026-10-15T02:24:00+00:00",
      "summary": "China's top prosecutor arrests former Chengdu mayor suspected of bribery Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#14",
      "title": "IMF warns of slowing Asian growth, spillover from rising yields - Reuters",
      "published": "2026-10-15T02:04:00+00:00",
      "summary": "IMF warns of slowing Asian growth, spillover from rising yields Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#15",
      "title": "EXCLUSIVE: SK Hynix conditions new US factory on more US chip equipment exports to China, sources say - Reuters",
      "published": "2026-10-15T02:02:00+00:00",
      "summary": "EXCLUSIVE: SK Hynix conditions new US factory on more US chip equipment exports to China, sources say Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#16",
      "title": "New Zealand to help Fiji overhaul intelligence agencies - Reuters",
      "published": "2026-10-15T01:50:00+00:00",
      "summary": "New Zealand to help Fiji overhaul intelligence agencies Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#17",
      "title": "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease - Reuters",
      "published": "2026-10-15T01:49:00+00:00",
      "summary": "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#18",
      "title": "UK finance minister calls for tighter Russian shipping sanctions - Reuters",
      "published": "2026-10-15T01:46:00+00:00",
      "summary": "UK finance minister calls for tighter Russian shipping sanctions Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#19",
      "title": "BOJ should not be overly cautious in raising rates, board member Koeda says - Reuters",
      "published": "2026-10-15T01:46:00+00:00",
      "summary": "BOJ should not be overly cautious in raising rates, board member Koeda says Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#20",
      "title": "Brazil's Senate approves shorter workweek in win for Lula - Reuters",
      "published": "2026-10-15T01:13:00+00:00",
      "summary": "Brazil's Senate approves shorter workweek in win for Lula Reuters"
     },
     {
-     "ref": "reuters_world#16",
-     "title": "Nepal, World Bank sign mandate to explore earthquake catastrophe bond - Reuters",
-     "published": "2026-10-15T01:12:00+00:00",
-     "summary": "Nepal, World Bank sign mandate to explore earthquake catastrophe bond Reuters"
-    },
-    {
-     "ref": "reuters_world#17",
-     "title": "Asian stocks sell off as AI trades crumble after hot US inflation data - Reuters",
+     "ref": "reuters_world#21",
+     "title": "Tech stocks tumble as data centre debt worries hit AI trades - Reuters",
      "published": "2026-10-15T00:51:00+00:00",
-     "summary": "Asian stocks sell off as AI trades crumble after hot US inflation data Reuters"
+     "summary": "Tech stocks tumble as data centre debt worries hit AI trades Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#22",
      "title": "Australian employment falls in September, quashing rate hike risk - Reuters",
      "published": "2026-10-15T00:50:00+00:00",
      "summary": "Australian employment falls in September, quashing rate hike risk Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#23",
      "title": "Mukesh Ambani's Jio sets price band for India IPO - Reuters",
      "published": "2026-10-15T00:31:00+00:00",
      "summary": "Mukesh Ambani's Jio sets price band for India IPO Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#24",
      "title": "US rejects recommendation for ICE body cams to be automatically activated - Reuters",
      "published": "2026-10-15T00:18:00+00:00",
      "summary": "US rejects recommendation for ICE body cams to be automatically activated Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "Trump says he hopes Pope Leo will 'get better fast' - Reuters",
-     "published": "2026-10-14T23:53:43+00:00",
-     "summary": "Trump says he hopes Pope Leo will 'get better fast' Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "UK government to provide £17 million for Chornobyl plant repairs - Reuters",
-     "published": "2026-10-14T23:25:43+00:00",
-     "summary": "UK government to provide £17 million for Chornobyl plant repairs Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks, FT reports - Reuters",
-     "published": "2026-10-14T23:23:25+00:00",
-     "summary": "US floats unfreezing some Russian assets to restart Ukraine peace talks, FT reports Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "TSMC forecasts increase in Q4 revenue after posting sixth straight quarter of record profit - Reuters",
-     "published": "2026-10-14T23:02:00+00:00",
-     "summary": "TSMC forecasts increase in Q4 revenue after posting sixth straight quarter of record profit Reuters"
     }
    ]
   }
