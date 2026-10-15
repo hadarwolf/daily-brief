@@ -150,93 +150,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "My excellent Conversation with Liaquat Ahamed",
+     "published": "2026-10-15T04:37:06+00:00",
+     "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: They start with that puzzle before moving through Gladstone’s startlingly self-interested bet on Egyptian bonds, Bismarck’s role in destroying bimetallism and deflating the world economy for two decades, whether a global silver or symmetallic standard could have worked, Britain’s fateful decision […] The post My excelle"
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "China fact (?) of the day",
      "published": "2026-10-14T18:56:23+00:00",
      "summary": "A monograph by Yi Fuxian, a University of Wisconsin-Madison demographer and longtime critic of China’s population policies, argues that China’s actual population may be closer to 1.27 billion—not the 1.4 billion officially reported. The gap would be as much as 130 million people, roughly the population of Mexico. And Yi argues the distortion has warped […] The post China fact (?) of the day appear"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "Wednesday assorted links",
      "published": "2026-10-14T16:07:03+00:00",
      "summary": "1. Planets more habitable than Earth? (NYT) 2. Those new service sector jobs: “Cambiar de vida: cómo irte a contar pingüinos en la Antártida por hasta 2500 euros al mes.” 3. AI song about the China Shock debate. 4. “An amusing result of this new survey is that Democratic-voting workers had a startlingly high net-favorable […] The post Wednesday assorted links appeared first on Marginal REVOLUTION "
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "*Plunder: The Last of the War in Europe, 1945*",
      "published": "2026-10-14T07:02:57+00:00",
      "summary": "By Max Hastings, an excellent book, I benefited from every page. One recurring theme is simply how hard the Germans fought on the way down, and how unusual that behavior was. Here is one interesting passage of many: In World War I, 150 German soldiers were sentenced to death for serious crimes, of which a […] The post *Plunder: The Last of the War in Europe, 1945* appeared first on Marginal REVOLU"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "Well-planned African immigration to America will go fine",
      "published": "2026-10-14T04:19:22+00:00",
      "summary": "That is the topic of my latest Free Press column, here is one excerpt: The good news is that African immigrants already have done well in the United States. For instance, 46 percent of African immigrants complete a college education, well above the immigrant average of 36 percent and the native-born American rate of 37 […] The post Well-planned African immigration to America will go fine appeared "
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "Perry Mehrling, RIP",
      "published": "2026-10-13T20:51:16+00:00",
      "summary": "He and I were in the same Harvard class together, and spent a good deal of time talking economics together. We also were (briefly) bridge partners in a few games. I was a big fan of his book on Fischer Black. I am very sorry to see him gone. The post Perry Mehrling, RIP appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "Tuesday assorted links",
      "published": "2026-10-13T16:22:29+00:00",
      "summary": "1. Jon Hartley on Bob Hall. And Chad Jones on Bob Hall. 2. Nicholas Decker on who might have won the prize. 3. Koyama tribute to Wickam. 4. A parallel AI adjudication track? 5. Kevin Kelly on swarm intelligence. 6. What each country read on Wikipedia yesterday. 7. Is MIT economics good at talent evaluation? […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Is Your Agent a Double Agent?",
      "published": "2026-10-13T11:18:29+00:00",
      "summary": "In the Manchurian Candidate a sleeper agent who has been brain-trained appears normal until a secret phrase–“Why don’t you pass the time by playing a little solitaire?”–triggers a state of hypnosis and control by the attackers. Connor Tabarrok, now with the AI safety firm Equistamp, has an excellent post on how this same technique can […] The post Is Your Agent a Double Agent? appeared first on Ma"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "*Lost Worlds*",
      "published": "2026-10-13T07:28:20+00:00",
      "summary": "The author is Patrick Wyman, and the subtitle is How Humans Tried, Failed, Succeeded, and Built Our World. An excellent book, it is a survey of (mostly) pre-Sumerian times, what we know about them, and how we have learned a lot lately. It is easy to read, yet the author properly stresses the complexity of […] The post *Lost Worlds* appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "“I have no mouth and I must scream”",
      "published": "2026-10-13T04:42:32+00:00",
      "summary": "Worth a reread, here is a new report from the front: Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial IoT devices, like smart ovens and off-brand Android TV boxes. A replicator like this would be challenging to shut down, since there’s no centralized point […] The post “I have no mouth and I must scream” appeared first on Mar"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "Monday assorted links",
      "published": "2026-10-12T18:22:31+00:00",
      "summary": "1. The cloud and economic concentration, the endgame? 2. Industrial policy for drones? 3. Samir Varma on AI and Linnaeus. 4. Pan-African Review. 5. A worldview different from mine. 6. John Cochrane on the Nobel. The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Michael Woodford, Nobel Laureate",
      "published": "2026-10-12T12:20:40+00:00",
      "summary": "I think of Michael Woodford as the kind of economist who studies something very specific very intensively and tries to get it just right. But in his case he is not studying something small and irrelevant, he is studying “monetary policy.” I think of him as the economist who put monetary policy and “monetarism” — […] The post Michael Woodford, Nobel Laureate appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#12",
      "title": "Robert E. Hall, Nobel Laureate",
      "published": "2026-10-12T11:59:30+00:00",
      "summary": "Alex has already covered this, I will add a few remarks. First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones. Here is Bob on scholar.google.com. […] The post Robert E. Hall, Nobel Laureate appeared first on Marginal REVOLUT"
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#13",
      "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
      "published": "2026-10-12T10:06:32+00:00",
      "summary": "Twenty-five years ago Tyler told me he thought Robert Hall should win the Nobel. He has been a contender for so long today’s award was a surprise! Hall has an unusual number of unexpectedly creative papers. His best known is on consumption. Start with the textbook Keynesian model: Y = C + I + G […] The post The Nobel Prize Goes to Robert Hall and Michael Woodford appeared first on Marginal REVOLUT"
     },
     {
-     "ref": "marginal_revolution#13",
+     "ref": "marginal_revolution#14",
      "title": "Michael Woodford Wins Nobel",
      "published": "2026-10-12T10:05:58+00:00",
      "summary": "No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford’s Interest and Prices (2003) has been called the central bankers’ bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even if his name […] The post Michael Woodford Wins Nobel appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Okie-dokie, Casey Handmer edition",
-     "published": "2026-10-12T04:20:47+00:00",
-     "summary": "I’ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions. There are about 100m papers in the scientific corpus. Most are not important. Many […] The post Okie-dokie, Casey Handmer edition appeared first"
     }
    ]
   },
