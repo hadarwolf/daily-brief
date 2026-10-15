@@ -24,214 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2021,
-   "text": "Approximately 10,000 John Deere employees went on strike in one of the largest private-sector strikes in the United States.",
+   "year": 2018,
+   "text": "Thirteen-year-old Jayme Closs was kidnapped from her home in Barron, Wisconsin, and held captive for 88 days.",
    "context": [
-    "Deere & Company, is an American corporation that manufactures agricultural machinery, heavy equipment, forestry machinery, diesel engines, drivetrains used in heavy equipment and lawn care equipment. It also provides financial services and other related activities."
+    "On October 15, 2018, 21-year-old Jake Thomas Patterson abducted 13-year-old Jayme Lynn Closs after fatally shooting her parents, James and Denise Closs, at their home just outside of Barron, Wisconsin, at 12:53 a.m. Patterson took Closs to a house 70 miles (110 km) away in rural Gordon, Wisconsin, and held her in captivity for 88 days until she escaped on January 10, 2019, seeking help from neighbors."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2014,
-   "text": "A snowstorm and series of avalanches occurred on and around the Himalayan peaks of Annapurna and Dhaulagiri, resulting in the deaths of at least 43 people.",
+   "year": 2013,
+   "text": "A 7.2-magnitude earthquake struck Bohol in the Philippines, resulting in 222 deaths.",
    "context": [
-    "The 2014 Nepal snowstorm disaster occurred in central Nepal on 14 October 2014 and resulted in the deaths of at least 43 people of various nationalities, including at least 21 trekkers. Injuries and fatalities resulted from unusually severe snowstorms and avalanches on and around the mountains of Annapurna and Dhaulagiri. The incident was said to be Nepal's worst trekking disaster."
+    "The 2013 Bohol earthquake occurred on October 15 at 8:12:31 PST in Bohol, an island province located in Central Visayas, Philippines. The magnitude of the earthquake was recorded at Mw 7.2, its epicenter in the vicinity of 6 kilometres (3.7 mi) S 24° W of Sagbayan, and its depth of focus at 12 kilometres (7.5 mi). It affected the whole Central Visayas region, particularly Bohol and Cebu. The earthquake was felt in the whole Visayas area and as far as Masbate island in the north and Cotabato provinces in southern Mindanao."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2012,
-   "text": "Felix Baumgartner jumped from a helium balloon in the stratosphere to become the first person to break the sound barrier without vehicular power.",
+   "year": 2011,
+   "text": "Global demonstrations against economic inequality, corporate influence on government, and other issues, were held in more than 950 cities in 82 countries.",
    "context": [
-    "Felix Baumgartner was an Austrian skydiver, extreme sportsman, and BASE jumper. He was widely known for jumping to Earth from a helium balloon in the stratosphere on 14 October 2012 and landing in New Mexico, United States, as part of the Red Bull Stratos project. By doing so, he set world records for skydiving an estimated 39 km (24 mi), reaching an estimated top speed of 1,357.64 km/h (843.6 mph), or Mach 1.25. He became the first person to break the sound barrier relative to the surface without vehicular power on his descent. He broke skydiving records for exit altitude, vertical freefall distance without a drogue parachute, and vertical speed without a drogue. Although his name is still attached to the last two records, his exit altitude record was broken two years later, when on 24 October 2014, Alan Eustace jumped from 135,890 feet with a drogue."
+    "The 15 October 2011 global protests were part of a series of protests inspired by the Arab Spring, the Icelandic protests, the Portuguese \"Geração à Rasca\", the Spanish \"Indignants\", the Greek protests, and the Occupy movement. The protests were launched under the slogan \"United for #GlobalChange\", to which the slogan \"United for Global Democracy\" was added by many people's assemblies. The protest was first called for by the Spanish Plataforma ¡Democracia Real YA! in May 2011 and endorsed by people's assemblies across the world. Reasons were varied but mainly targeted growing economic inequality, corporate influence over government and international institutions, and the lack of truly democratic institutions allowing direct public participation at all levels, local to global. Global demonstrations were held on 15 October in more than 950 cities in 82 countries. The date was chosen to coincide with the 5-month anniversary of the first protest in Spain. General assemblies, the social network n-1, mailing lists, Mumble voice chat, open pads such as Pirate Pad and Titan Pad, and Facebook were used to coordinate the events. Some protests were only a few hundred in number, whereas others numbered in the hundreds of thousands, with the largest in Madrid numbering half a million and the second largest city Barcelona with 400,000."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2011,
-   "text": "Michael Woodford was dismissed as the CEO of the optics manufacturer Olympus after uncovering internal financial misconduct, escalating the corporate scandal into one of the largest in Japanese business history.",
+   "year": 2007,
+   "text": "New Zealand Police conducted several anti-terrorism raids in relation to the discovery of an alleged paramilitary training camp in the Urewera mountain ranges, arresting 17 people and seizing four guns and 230 rounds of ammunition.",
    "context": [
-    "Michael Christopher Woodford, MBE is an English businessman who was formerly president and COO and CEO of Japan-based optics and reprography products manufacturer Olympus Corporation."
+    "The New Zealand Police is the national police service and principal law enforcement agency of New Zealand, responsible for preventing crime, enhancing public safety, bringing offenders to justice, and maintaining public order. With over 15,000 personnel, it is the largest law enforcement agency in New Zealand and, with few exceptions, has primary jurisdiction over the majority of New Zealand criminal law. The New Zealand Police also has responsibility for traffic and commercial vehicle enforcement as well as other key responsibilities including protection of dignitaries, firearms licensing, and matters of national security."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1980,
-   "text": "The 6th Congress of the Workers' Party concluded, having anointed North Korean president Kim Il Sung's son Kim Jong Il as his successor.",
+   "year": 2006,
+   "text": "An earthquake registering 6.7 Mw occurred off the northwestern coast of the island of Hawaiʻi.",
    "context": [
-    "The 6th Congress of the Workers' Party of Korea (WPK) was held in the February 8 House of Culture in Pyongyang, North Korea, from 10 to 14 October 1980. The congress is the highest organ of the party, and is stipulated to be held every four years. 3,062 delegates represented the party's membership; 117 foreign delegates attended the congress, without the right to speak. The congress saw the reappointment of Kim Il Sung as WPK General Secretary and the Presidium of the Politburo established as the highest organ of the party between congresses."
+    "The 2006 Kīholo Bay earthquake occurred on October 15 at 07:07:49 local time with a magnitude of 6.7 and a maximum Mercalli intensity of VIII (Severe). The shock was centered 21 kilometers (13 mi) southwest of Puakō and 21 km (13 mi) north of Kailua-Kona, Hawaiʻi, just offshore of the Kona Airport, at a depth of 38.2 km (23.7 mi). It produced several aftershocks, including one that measured a magnitude of 6.1 seven minutes after the main shock. The Pacific Tsunami Warning Center measured a nondestructive tsunami of 4 in (100 mm) on the coast of the Big Island."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1979,
-   "text": "At least 75,000 people attended the National March on Washington for Lesbian and Gay Rights in Washington, D.C., to demand equal civil rights for LGBT people.",
+   "year": 1996,
+   "text": "The Irish Criminal Assets Bureau was established following the gangland murders of Detective Garda Jerry McCabe and investigative journalist Veronica Guerin.",
    "context": [
-    "The first National March on Washington for Lesbian and Gay Rights was a large political rally that took place in Washington, D.C., on October 14, 1979. The first such march on Washington, it drew between 75,000 and 125,000 gay men, lesbians, bisexual people, and straight allies to demand equal civil rights and urge the passage of protective civil rights legislation."
+    "The Criminal Assets Bureau (CAB) is a law enforcement agency in Ireland. The CAB was established with powers to focus on the illegally acquired assets of criminals involved in serious crime. The aims of the CAB are to identify the criminally acquired assets of persons and to take the appropriate action to deny such people these assets. This action is taken particularly through the application of the Proceeds of Crime Act 1996. The CAB was established as a body corporate with perpetual succession in 1996 and is founded on the multi-agency concept, drawing together law enforcement officers, tax officials, social welfare officials as well as other specialist officers including legal officers, forensic analysts and financial analysts. This multi-agency concept is regarded by some as the model for other European jurisdictions."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1964,
-   "text": "Members of the Politburo voted to remove Nikita Khrushchev as First Secretary of the Communist Party of the Soviet Union and replace him with Leonid Brezhnev.",
+   "year": 1979,
+   "text": "President Carlos Humberto Romero of El Salvador was overthrown and exiled in a military coup d'état.",
    "context": [
-    "The Political Bureau of the Central Committee of the Communist Party of the Soviet Union, abbreviated as Politburo, was the de facto highest executive authority in the Communist Party of the Soviet Union (CPSU). While elected by and formally accountable to the Central Committee, in practice the Politburo operated as the ruling body of Soviet Russia and the Soviet Union from its creation in 1919 until the party's dissolution in 1991. Full members and candidate (non-voting) members held among the most powerful positions in the Soviet hierarchy, often overlapping with top state roles. Its duties, typically carried out at weekly meetings, included formulating state policy, issuing directives, and ratifying appointments."
+    "Carlos Humberto Romero Mena was a Salvadoran general and politician who served as the 34th President of El Salvador from 1 July 1977 until his overthrow on 15 October 1979. Romero was the final president of the El Salvador's military dictatorship that had ruled since 1931."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1957,
-   "text": "After three days of heavy rain, the Turia overflowed and flooded the city of Valencia, Spain, causing at least 81 deaths.",
+   "year": 1967,
+   "text": "The Motherland Calls (depicted in coat of arms), a colossal statue in Volgograd, Russia, which commemorates the casualties of the Battle of Stalingrad, was dedicated, becoming the then-tallest statue in the world.",
    "context": [
-    "The Turia or Túria is a river in Spain, which has its source in the Montes Universales in the mountain ranges of the northwesternmost end of the Sistema Ibérico, Teruel province. From its source to roughly the city of Teruel, it is called Guadalaviar. It runs through the provinces of Teruel, Cuenca and Valencia, and discharges into the Mediterranean Sea near the city of Valencia. The river formerly ran through the center of the city but was diverted south of the city to prevent flooding."
+    "The Motherland Calls is a colossal neoclassicist and socialist realist war memorial sculpture on Mamayev Kurgan in Volgograd, Russia. Designed primarily by sculptor Yevgeny Vuchetich with assistance from architect Yakov Belopolsky, the concrete sculpture commemorates the casualties of the Battle of Stalingrad, and is the predominant component of a monument complex, which includes several plazas and other sculptural works. Standing 85 metres (279 ft) tall from the base of its pedestal to its peak, the statue was the tallest in the world upon its completion in 1967, and is the tallest statue in Europe if including the pedestal. The statue, along with the rest of the complex, was dedicated on 15 October 1967, and has been listed as a tentative candidate for UNESCO's list of World Heritage Sites since 2014."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1956,
-   "text": "The Queen Elizabeth Way, North America's first intercity divided highway, opens.",
+   "year": 1965,
+   "text": "Vietnam War protests: At an anti-war rally in New York City, David J. Miller burned his draft card (example pictured), the first such act to result in arrest under a new amendment to the Selective Service Act.",
    "context": [
-    "The Queen Elizabeth Way (QEW) is a 400-series highway in the Canadian province of Ontario linking Toronto with Fort Erie in the Niagara Peninsula. The highway begins at the Canada–United States border on the Peace Bridge and travels 139.1 kilometres (86.4 mi) around the western end of Lake Ontario, ending at Highway 427 near the western border of Toronto. The freeway continues as the Gardiner Expressway into downtown Toronto. The QEW is one of Ontario's busiest highways, with an average of close to 250,000 vehicles per day on some sections."
+    "Opposition to United States involvement in the Vietnam War reached a substantial scale in 1965 with demonstrations against the country's escalating role in the war. Over the next several years, these demonstrations grew into a social movement which was incorporated into the broader counterculture of the 1960s."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1956,
-   "text": "B. R. Ambedkar, a leader of India's \"Untouchable\" caste, publicly converted to Buddhism and became the leader of the Dalit Buddhist movement.",
+   "year": 1954,
+   "text": "Hurricane Hazel made landfall in the Carolinas in the United States before moving north to Toronto in Canada later the same day, killing 176 people in the two countries.",
    "context": [
-    "Bhimrao Ramji Ambedkar was an Indian jurist, economist, social reformer and politician who chaired the committee that drafted the Constitution of India based on the debates of the Constituent Assembly of India and the first draft of Sir Benegal Narsing Rau. Ambedkar served as Law and Justice minister in the first cabinet of Jawaharlal Nehru. He later renounced Hinduism and converted to Buddhism, inspiring the Dalit Buddhist movement."
+    "Hurricane Hazel was the deadliest, second-costliest, and most intense hurricane of the 1954 Atlantic hurricane season. The storm killed at least 469 people in Haiti before it struck the United States near the border between North and South Carolina as a Category 4 hurricane. After causing 95 fatalities in the US, Hazel struck Canada as an extratropical storm, which raised the death toll by 81 people, mostly in Toronto. As a result of the high death toll and the damage caused by Hazel, its name was retired from use for North Atlantic hurricanes."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1953,
-   "text": "Israeli military commander Ariel Sharon and his Unit 101 special forces attacked the village of Qibya on the West Bank, destroying 45 buildings, killing 42 villagers, and wounding 15 others.",
+   "year": 1932,
+   "text": "Air India (modern aircraft pictured), the flag carrier airline of India, began operations under the name Tata Airlines.",
    "context": [
-    "Ariel \"Arik\" Sharon was an Israeli general and politician who served as the prime minister of Israel from March 2001 until April 2006."
+    "Air India is the flag carrier of India, headquartered in Gurugram, Haryana. The airline is owned by Air India Limited, which is owned by the Tata Group (74.9%) and Singapore Airlines (25.1%). The airline is a member of Star Alliance since 11 July 2014. As of November 2025, the airline serves 87 domestic and international destinations, from its primary hub at Indira Gandhi International Airport, and secondary hubs at Kempegowda International Airport and Chhatrapati Shivaji Maharaj International Airport. The airline operates a fleet of Airbus and Boeing aircraft, and is the second-largest airline in India by passenger volume, after IndiGo."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1949,
-   "text": "The first of the Smith Act trials concluded in New York City, with eleven leaders of the Communist Party of the United States found guilty of violating the Smith Act.",
+   "year": 1888,
+   "text": "The \"From Hell\" letter, allegedly from Jack the Ripper, was sent to George Lusk, the chairman of the Whitechapel Vigilance Committee in London.",
    "context": [
-    "The Smith Act trials of Communist Party leaders were a series of trials held from 1949 to 1958 in which leaders of the Communist Party of the United States (CPUSA) were accused of violating the Smith Act, a 1940 statute that set penalties for advocating the violent overthrow of the government. The defendants argued that they advocated a peaceful transition to socialism, and that the First Amendment's guarantee of freedom of speech and of association protected their membership in a political party. Appeals from these trials reached the US Supreme Court, which ruled on issues in Dennis v. United States (1951) and Yates v. United States (1957)."
+    "The \"From Hell\" letter was a letter sent with half of a preserved human kidney to George Lusk, the chairman of the Whitechapel Vigilance Committee, in October 1888. The author of this letter claimed to be the unidentified serial killer known as Jack the Ripper, who had murdered and mutilated at least four women in the Whitechapel and Spitalfields districts of London in the two months prior to Lusk receiving this letter, and whose vigilance committee Lusk led in civilian efforts to assist the police in identifying and apprehending the perpetrator."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1947,
-   "text": "American test pilot Chuck Yeager became the first person to break the sound barrier, reaching Mach 1.06 on board the Bell X-1, an experimental rocket-powered aircraft.",
-   "context": [
-    "Charles Elwood Yeager was a United States Air Force officer, flying ace, and record-setting test pilot who in October 1947 became the first pilot in history confirmed to have exceeded the speed of sound in level flight."
-   ]
-  },
-  {
-   "ref": "wikipedia#13",
-   "year": 1943,
-   "text": "World War II: During the second raid on Schweinfurt, the U.S. 8th Air Force suffered so many losses that it lost air supremacy over Germany for several months.",
-   "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
-   ]
-  },
-  {
-   "ref": "wikipedia#14",
-   "year": 1943,
-   "text": "The Holocaust: Prisoners at Sobibor extermination camp revolted, killing 11 SS officers and staging a mass escape.",
-   "context": [
-    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
-   "year": 1943,
-   "text": "The Second Philippine Republic, a Japanese puppet state, was established with Jose P. Laurel as its first president.",
-   "context": [
-    "The Second Philippine Republic, officially the Republic of the Philippines and also known as the Japanese-sponsored Philippine Republic, was a pro-Axis government established on October 14, 1943, during the Japanese occupation of the islands until its dissolution on August 17, 1945."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 1940,
-   "text": "Second World War: During the Blitz, a semi-armour-piercing fragmentation bomb fell on the road above Balham station in London, which was being used as an air raid shelter, killing at least 64 people.",
-   "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1939,
-   "text": "Second World War: The German submarine U-47 torpedoed and sank the Royal Navy battleship HMS Royal Oak while the latter was anchored at Scapa Flow in Orkney, Scotland.",
-   "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
-   ]
-  },
-  {
-   "ref": "wikipedia#18",
-   "year": 1926,
-   "text": "The first book featuring English author A. A. Milne's fictional bear Winnie-the-Pooh was published.",
-   "context": [
-    "Winnie-the-Pooh is a 1926 children's book by English author A. A. Milne and English illustrator E. H. Shepard. The book is set in the fictional Hundred Acre Wood, with a collection of short stories following the adventures of an anthropomorphic teddy bear, Winnie-the-Pooh, and his friends Christopher Robin, Piglet, Eeyore, Owl, Rabbit, Kanga, and Roo. It is the first of two story collections by Milne about Winnie-the-Pooh, the second being The House at Pooh Corner (1928). Milne and Shepard collaborated previously for English humour magazine Punch, and in 1924 created When We Were Very Young, a poetry collection. Among the characters in the poetry book was a teddy bear Shepard modelled after his son's toy. Following this, Shepard encouraged Milne to write about his son Christopher Robin Milne's toys, and so they became the inspiration for the characters in Winnie-the-Pooh."
-   ]
-  },
-  {
-   "ref": "wikipedia#19",
-   "year": 1913,
-   "text": "The worst mining accident in the United Kingdom's history took place when an explosion resulted in 440 deaths at the Universal Colliery in Senghenydd, Wales.",
-   "context": [
-    "A mining accident is an accident that occurs during the process of mining minerals or metals. Thousands of miners die from mining accidents each year, especially from underground coal mining, although accidents also occur in hard rock mining. Coal mining is considered much more hazardous than hard rock mining due to flat-lying rock strata, generally incompetent rock, the presence of methane gas, and coal dust. Most of the deaths these days occur in developing countries, and rural parts of developed countries where safety measures are not practiced as fully. A mining disaster is an incident where there are five or more fatalities."
-   ]
-  },
-  {
-   "ref": "wikipedia#20",
-   "year": 1888,
-   "text": "French inventor Louis Le Prince filmed Roundhay Garden Scene (pictured), the earliest surviving motion picture, in Leeds, England.",
-   "context": [
-    "Louis Aimé Augustin Le Prince was a French-American artist, cinematographer and the inventor of an early motion-picture camera, and director of Roundhay Garden Scene. He was possibly the first person to shoot a moving picture sequence using a single lens camera and a strip of (paper) film. He has been credited as the \"Father of Cinematography\" but, due to his disappearance in 1890, his work did not influence the commercial development of cinema."
-   ]
-  },
-  {
-   "ref": "wikipedia#21",
-   "year": 1863,
-   "text": "American Civil War: In the Battle of Bristoe Station, the Union II Corps surprised and repelled the Confederate attack on the Union rearguard, resulting in a Union victory.",
+   "year": 1864,
+   "text": "American Civil War: Confederate forces captured Glasgow, Missouri, although it had little long-term benefit as Price's Missouri Expedition was defeated a week later.",
    "context": [
     "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as US president in 1860 and the growing abolitionist movement in the North. The war ended with Union victory, the dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
-   "ref": "wikipedia#22",
-   "year": 1805,
-   "text": "War of the Third Coalition: French forces under Marshal Michel Ney defeated Austrian forces in Elchingen, present-day Germany.",
+   "ref": "wikipedia#13",
+   "year": 1815,
+   "text": "Napoleon began his exile on Saint Helena in the South Atlantic Ocean, which would encompass his final six years.",
    "context": [
-    "The War of the Third Coalition was a European conflict lasting from 1805 to 1806 and was the first conflict of the Napoleonic Wars. During the war, France and its client states under Napoleon I and its ally Spain opposed an alliance, the Third Coalition, which was made up of the United Kingdom, the Austrian Empire, the Russian Empire, Naples, Sicily, and Sweden. Prussia remained neutral during the war."
+    "Napoleon Bonaparte, later known by his regnal name Napoleon I, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. He rose to prominence as a general during the French Revolution and led a series of military campaigns across Europe and the Middle East during the French Revolutionary and Napoleonic Wars. As a statesman, he implemented numerous legal and administrative reforms in France and Europe."
    ]
   },
   {
-   "ref": "wikipedia#23",
-   "year": 1758,
-   "text": "Third Silesian War: At the Battle of Hochkirch, an Austrian army under Leopold Joseph von Daun surprised the Prussians commanded by Frederick the Great, overwhelming them and forcing a general retreat.",
+   "ref": "wikipedia#14",
+   "year": 1529,
+   "text": "Ottoman–Habsburg wars: The siege of Vienna ended with Austrian forces repelling the invading Turks, turning the tide against almost a century of conquest in Europe by the Ottoman Empire.",
    "context": [
-    "The Third Silesian War was a war between Prussia and Austria that lasted from 1756 to 1763 and confirmed Prussia's control of the region of Silesia. The war was fought mainly in Silesia, Bohemia and Upper Saxony and formed one theatre of the Seven Years' War. It was the last of three Silesian Wars fought between Frederick the Great's Prussia and Maria Theresa's Austria in the mid-18th century, all three of which ended in Prussian control of Silesia."
-   ]
-  },
-  {
-   "ref": "wikipedia#24",
-   "year": 1548,
-   "text": "Forces of the Burmese Toungoo dynasty led by King Tabinshwehti (depicted) departed Martaban to begin an invasion of the Ayutthaya Kingdom.",
-   "context": [
-    "The Toungoo dynasty, also spelt Taungoo dynasty and also known as the Nyaungyan dynasty (ညောင်ရမ်းမင်းဆက်) after 1599, was the ruling dynasty of Burma (Myanmar) from the mid-16th century to 1752. It is also called the Second Burmese Empire (ဒုတိယမြန်မာနိုင်ငံတော်) in Burmese historiography. At its peak, Toungoo \"exercised suzerainty from present-day Assam, Manipur to the Cambodian marches and from the borders of Arakan to Yunnan\" and was \"probably the largest empire in the history of Southeast Asia.\" The dynasty ruled in two periods: the First Toungoo Empire (1510–1599) and the Nyaungyan Restoration (1599–1752)."
-   ]
-  },
-  {
-   "ref": "wikipedia#25",
-   "year": 1066,
-   "text": "Norman Conquest: William the Conqueror's forces defeated the English army near Hastings and killed Harold Godwinson (event pictured), the last crowned Anglo-Saxon king of England.",
-   "context": [
-    "The Norman Conquest of England was an 11th-century invasion by an army made up of thousands of Norman, French, Flemish, and Breton troops, all led by the Duke of Normandy, later styled William the Conqueror."
+    "The Ottoman–Habsburg wars were fought from the 16th to the 18th centuries between the Ottoman Empire and the Habsburg monarchy, which was at times supported by the Kingdom of Hungary, Polish–Lithuanian Commonwealth, the Holy Roman Empire, and Habsburg Spain. The wars were dominated by land campaigns in Hungary, including Transylvania and Vojvodina, Croatia, and central Serbia."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Covenant (אמנת אשראי / תנאי הלוואה)",
+  "Take a haircut (לספוג \"תספורת\" / הפחתה בערך)",
+  "Whistle past the graveyard (לשרוק ליד בית הקברות / להתעלם מסכנה גלויה)",
   "Glut (עודף היצע)",
   "Front-run (להקדים את המהלך)",
   "Bagholder (מחזיק השקית)",
