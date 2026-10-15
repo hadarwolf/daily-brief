@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-10-15",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-15T04:05:19+00:00",
+  "stories": [
+    {
+      "id": "word-moral-hazard",
+      "kind": "word",
+      "en": {
+        "headline": "Moral hazard (סיכון מוסרי)",
+        "scroll": "Moral hazard describes how people take on more risk once someone else will absorb the losses.",
+        "coffee": "Moral hazard is what happens when a person or a company takes on more risk because they know someone else will cover the downside. The classic example is insurance: once you have theft insurance, you might get a little careless about locking your door, because the insurer carries the loss, not you.\n\nIn finance and economics, the term gets used most often around bailouts. If governments routinely rescue failing banks, bank executives may keep taking riskier bets, since they expect to be saved if things go wrong — the protection changes the behavior it was meant to just cushion.\n\nExample: 'Bailing out every bank that overleverages just creates more moral hazard down the line.'",
+        "deep": "Use moral hazard when describing situations where insulating someone from risk changes their behavior for the worse — not just plain risk-taking. It's distinct from a related insurance term, adverse selection: adverse selection is about which customers you attract before a deal (riskier people disproportionately buy insurance), while moral hazard is about how a person's behavior changes after they're already covered.\n\nYou'll hear it in debates over health insurance ('co-pays exist to reduce moral hazard'), startup equity ('founders need skin in the game to limit moral hazard'), and central banking ('the Fed put is a moral hazard problem').\n\nExample sentences: 'Student-loan forgiveness proposals are often criticized for creating moral hazard among future borrowers.' 'Deposit insurance reduces bank runs, but it also introduces moral hazard if regulation doesn't keep pace.'\n\nIn Hebrew: סיכון מוסרי."
+      },
+      "he": {
+        "headline": "Moral hazard (סיכון מוסרי)",
+        "scroll": "סיכון מוסרי הוא הנטייה לקחת סיכונים גדולים יותר כשמישהו אחר יספוג את העלות אם דברים ישתבשו.",
+        "coffee": "סיכון מוסרי (moral hazard) מתאר מצב שבו אדם או חברה לוקחים על עצמם יותר סיכון כי הם יודעים שמישהו אחר יישא בתוצאות אם דברים ישתבשו. הדוגמה הקלאסית היא ביטוח: ברגע שיש לך ביטוח נגד גניבה, יש סיכוי שתהיה פחות זהיר בנעילת הדלת, כי חברת הביטוח היא זו שסופגת את ההפסד.\n\nבכלכלה ובעולם הפיננסי המונח עולה הכי הרבה בדיונים על חילוצי בנקים (bailouts). אם ממשלות מחלצות באופן שיטתי בנקים כושלים, מנהלי בנקים עשויים להמשיך לקחת סיכונים גדולים, כי הם מצפים להיחלץ אם משהו ישתבש — כלומר ההגנה עצמה משנה את ההתנהגות שהיא הייתה אמורה רק לרכך.\n\nמשפט לדוגמה: 'Bailing out every bank that overleverages just creates more moral hazard down the line.'",
+        "deep": "כדאי להשתמש במונח moral hazard כשמתארים מצב שבו הגנה מפני סיכון משנה את ההתנהגות לרעה — לא סתם לקיחת סיכון. חשוב להבדיל אותו ממושג קרוב, adverse selection (ברירה שלילית): adverse selection עוסק במי שבוחר להצטרף לעסקה מראש (אנשים מסוכנים יותר נוטים יותר לקנות ביטוח), בעוד moral hazard עוסק בשינוי בהתנהגות אחרי שהכיסוי כבר קיים.\n\nהמונח מופיע בוויכוחים על ביטוח בריאות ('co-pays exist to reduce moral hazard'), על הון ליזמים ('founders need skin in the game to limit moral hazard'), ובבנקאות מרכזית ('the Fed put is a moral hazard problem').\n\nמשפטים נוספים: 'Student-loan forgiveness proposals are often criticized for creating moral hazard among future borrowers.' 'Deposit insurance reduces bank runs, but it also introduces moral hazard if regulation doesn't keep pace.'\n\nהמונח בעברית: סיכון מוסרי."
+      },
+      "tags": [
+        "economics",
+        "finance",
+        "vocabulary",
+        "risk"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-winner-take-all-market",
+      "kind": "word",
+      "en": {
+        "headline": "Winner-take-all market (שוק שבו המנצח לוקח הכל)",
+        "scroll": "A winner-take-all market is one where the top player captures nearly all the value, leaving little for everyone else.",
+        "coffee": "A winner-take-all market is one where small differences in quality or timing translate into enormous differences in outcome — the best (or first) player ends up with almost the entire market, while competitors who are only slightly worse get almost nothing. Search engines, operating systems, and social networks are classic examples: once a leader pulled ahead, network effects and switching costs made it extremely hard for a nearly-as-good rival to take meaningful share.\n\nThe idea comes from economists studying 'tournament' pay structures (like sports or superstar CEOs), where tiny skill gaps produce outsized gaps in reward. It's distinct from a market with many profitable players; in a true winner-take-all market, being second place is barely better than being tenth.\n\nExample: 'Venture capitalists often bet on winner-take-all markets, because the payoff for backing the eventual #1 player dwarfs everything else.'",
+        "deep": "Use 'winner-take-all market' when describing industries with strong network effects, platform dynamics, or scale economies — not just any competitive market. Don't confuse it with 'monopoly': a monopoly can be created by law or by owning a resource, while a winner-take-all market reaches concentration purely through competitive dynamics, and tends to reward being first or best by only a small margin.\n\nIt shows up constantly in tech and media commentary: 'Ride-hailing in most cities turned into a winner-take-all market, which is why companies fought so hard for density.' 'Streaming hasn't become fully winner-take-all the way search did, because content libraries are substitutable.' 'Founders chasing winner-take-all markets often prioritize growth over profitability early on, betting that market share compounds later.'\n\nIn Hebrew: שוק שבו המנצח לוקח הכל."
+      },
+      "he": {
+        "headline": "Winner-take-all market (שוק שבו המנצח לוקח הכל)",
+        "scroll": "שוק 'שבו המנצח לוקח הכל' הוא שוק שבו השחקן המוביל תופס כמעט את כל הערך, ולמתחרים נשאר כמעט כלום.",
+        "coffee": "שוק winner-take-all הוא שוק שבו הבדלים קטנים באיכות או בתזמון מתורגמים לפערי תוצאה עצומים — השחקן הטוב ביותר (או הראשון) מסיים עם כמעט כל השוק, בעוד מתחרים שרק מעט פחות טובים נשארים כמעט בלי כלום. מנועי חיפוש, מערכות הפעלה ורשתות חברתיות הן דוגמאות קלאסיות: ברגע ששחקן מוביל התרחק קדימה, אפקטי רשת (network effects) ועלויות מעבר (switching costs) הפכו את זה לקשה מאוד למתחרה כמעט-טוב-באותה-מידה לתפוס נתח משמעותי.\n\nהרעיון מגיע מכלכלנים שחקרו מבני תגמול מסוג 'טורניר' (כמו בספורט או אצל מנכ\"לי-על), שבהם פערי כישרון זעירים מייצרים פערי תגמול ענקיים. זה שונה משוק עם הרבה שחקנים רווחיים; בשוק winner-take-all אמיתי, להיות במקום השני כמעט ולא עדיף על להיות במקום העשירי.\n\nמשפט לדוגמה: 'Venture capitalists often bet on winner-take-all markets, because the payoff for backing the eventual #1 player dwarfs everything else.'",
+        "deep": "כדאי להשתמש ב-'winner-take-all market' כשמתארים ענפים עם אפקטי רשת חזקים, דינמיקת פלטפורמות או יתרונות קנה מידה (economies of scale) — לא כל שוק תחרותי. חשוב לא להתבלבל עם 'מונופול': מונופול יכול להיווצר מכוח חוק או בעלות על משאב, בעוד ששוק winner-take-all מגיע לריכוזיות דרך הדינמיקה התחרותית עצמה, ונוטה לתגמל מי שהיה ראשון או טוב במעט.\n\nהמונח מופיע כל הזמן בכתיבה על טכנולוגיה ומדיה: 'Ride-hailing in most cities turned into a winner-take-all market, which is why companies fought so hard for density.' 'Streaming hasn't become fully winner-take-all the way search did, because content libraries are substitutable.' 'Founders chasing winner-take-all markets often prioritize growth over profitability early on, betting that market share compounds later.'\n\nבעברית: שוק שבו המנצח לוקח הכל."
+      },
+      "tags": [
+        "economics",
+        "tech",
+        "business",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-poison-pill",
+      "kind": "word",
+      "en": {
+        "headline": "Poison pill (גלולת רעל)",
+        "scroll": "A poison pill is a defensive tactic a company uses to make itself unattractive to a hostile takeover bid.",
+        "coffee": "A poison pill is a company's way of making itself too expensive or too diluted to swallow once someone launches a hostile takeover. The most common version lets existing shareholders (other than the acquirer) buy new shares at a steep discount the moment an outside buyer crosses an ownership threshold, flooding the market with shares and diluting the attacker's stake.\n\nBoards adopt poison pills to buy time and negotiating leverage, not necessarily to block a deal forever — the real purpose is usually to force a hostile bidder to negotiate with the board instead of going straight to shareholders. The term is borrowed from spy fiction, where an agent carries an actual poison pill to avoid capture.\n\nExample: 'The board adopted a poison pill within hours of the activist investor crossing the 15% ownership threshold.'",
+        "deep": "Use 'poison pill' specifically for takeover-defense mechanisms, not for general M&A obstacles or regulatory hurdles. It's often confused with a 'golden parachute' (a severance package that makes firing executives expensive) — both discourage takeovers, but a poison pill dilutes the acquirer's stake, while a golden parachute raises the acquirer's post-deal costs.\n\nFormally, the mechanism is called a 'shareholder rights plan,' and 'poison pill' is the informal name everyone actually uses. It became famous in the 1980s takeover wars and remains a standard tool, though many companies now adopt one only after a threat appears, rather than keeping one permanently in place.\n\nExample sentences: 'Netflix adopted a poison pill in 2012 after Carl Icahn built a large stake.' 'Some investors argue poison pills entrench management more than they protect shareholders.' 'Delaware courts have generally upheld poison pills as long as they are a proportionate response to a genuine threat.'\n\nIn Hebrew: גלולת רעל."
+      },
+      "he": {
+        "headline": "Poison pill (גלולת רעל)",
+        "scroll": "גלולת רעל היא טקטיקת הגנה שחברה משתמשת בה כדי להפוך את עצמה ללא אטרקטיבית להשתלטות עוינת.",
+        "coffee": "גלולת רעל (poison pill) היא הדרך של חברה להפוך את עצמה ליקרה מדי או מדוללת מדי 'לבליעה' ברגע שמישהו מנסה השתלטות עוינת. הגרסה הנפוצה ביותר מאפשרת לבעלי המניות הקיימים (מלבד הרוכש) לקנות מניות חדשות בהנחה חדה ברגע שרוכש חיצוני חוצה סף אחזקה מסוים, מה שמציף את השוק במניות ומדלל את האחזקה של התוקף.\n\nדירקטוריונים מאמצים גלולות רעל כדי לקנות זמן וכוח מיקוח, לא בהכרח כדי לחסום עסקה לנצח — המטרה האמיתית היא בדרך כלל לאלץ מציע עוין לנהל משא ומתן מול הדירקטוריון במקום לפנות ישירות לבעלי המניות. המונח שאול מספרות ריגול, שבה סוכן נושא גלולת רעל אמיתית כדי להימנע מלהילכד.\n\nמשפט לדוגמה: 'The board adopted a poison pill within hours of the activist investor crossing the 15% ownership threshold.'",
+        "deep": "כדאי להשתמש ב-'poison pill' ספציפית למנגנוני הגנה מפני השתלטות, לא למכשולים כלליים בעסקאות מיזוג ורכישה (M&A) או לרגולציה. לעיתים מבלבלים אותו עם 'golden parachute' (מצנח זהב) — חבילת פרישה שהופכת את פיטורי המנהלים ליקרים: שניהם מרתיעים השתלטות, אבל גלולת רעל מדללת את אחזקת הרוכש, בעוד מצנח זהב מייקר את העלות של הרוכש אחרי העסקה.\n\nבאופן רשמי המנגנון נקרא 'shareholder rights plan' (תוכנית זכויות לבעלי מניות), ו-'poison pill' הוא הכינוי הבלתי-פורמלי שכולם בפועל משתמשים בו. המונח התפרסם במלחמות ההשתלטויות של שנות ה-80 ונשאר כלי סטנדרטי, אם כי כיום חברות רבות מאמצות אותו רק אחרי שמופיע איום קונקרטי, ולא משאירות אותו קבוע מראש.\n\nמשפטים נוספים: 'Netflix adopted a poison pill in 2012 after Carl Icahn built a large stake.' 'Some investors argue poison pills entrench management more than they protect shareholders.' 'Delaware courts have generally upheld poison pills as long as they are a proportionate response to a genuine threat.'\n\nבעברית: גלולת רעל."
+      },
+      "tags": [
+        "mergers-and-acquisitions",
+        "corporate-finance",
+        "vocabulary",
+        "business"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why some products get more valuable as more people use them",
+        "scroll": "Network effects mean a product becomes more valuable to every user as more people join it.",
+        "coffee": "Network effects happen when a product or platform becomes more valuable to each user simply because more people are using it — not because the product itself got better. A phone network is the textbook example: a single telephone is useless, but as more people own one, every existing phone becomes more useful, because there are more people to call.\n\nThe same logic drives today's biggest tech companies. A marketplace like an app store is more useful to buyers when it has more sellers, and more attractive to sellers when it has more buyers — each side's growth feeds the other's, a pattern called a 'two-sided network effect.' Social networks, messaging apps, and even programming languages benefit from the same dynamic: you pick the one your friends or colleagues already use.\n\nNetwork effects are powerful because they create a kind of gravity: once a platform pulls ahead, new users have a rational reason to join the biggest one rather than a better but smaller rival, which is part of why a handful of platforms often come to dominate categories where this effect is strong.",
+        "deep": "## What network effects are\n\nA network effect exists when each additional user of a product makes that product more valuable to everyone else already using it. This is different from economies of scale, where a company gets cheaper to run as it gets bigger — network effects are about the product getting *more useful*, not just cheaper to produce, as the user base grows.\n\n## Direct vs. indirect effects\n\nEconomists split network effects into a few types. A **direct network effect** is when more users of the same type benefit each other directly — more people on a messaging app means more people you can message. An **indirect** or **two-sided network effect** runs between two different groups: more drivers on a ride-hailing app means shorter wait times for riders, and more riders means more income opportunity for drivers, so growth on one side pulls in growth on the other.\n\n## A worked example\n\nImagine a ride-hailing app launching in a new city with only 50 drivers. Riders wait 20 minutes for a car, so few people bother opening the app, which means drivers earn little and many quit. That's a network effect working in reverse — a 'cold start' problem.\n\nNow suppose the company subsidizes drivers for six months to get 500 drivers into the city. Wait times fall to 4 minutes. More riders start using the app because it's actually convenient now, and that rider volume gives the 500 drivers enough fares to stay without a subsidy. The company can then pull the subsidy, because the network — not the subsidy — is now what keeps both sides there. This is exactly why so many platform startups burn cash early: they are paying to get past the cold-start threshold where the network effect becomes self-sustaining.\n\n## Why it matters for competition\n\nOnce a network effect takes hold, it becomes a form of competitive moat: a slightly better competitor usually can't win, because users go where the other users already are. This is part of why a 'winner-take-all' dynamic shows up so often in platforms, marketplaces, and social apps, and why investors are willing to fund years of losses to reach the point where the network sustains itself.\n\n## The limits\n\nNetwork effects aren't unlimited. They can saturate (there's no further benefit once everyone you'd ever contact is already on the platform), and they can reverse just as fast as they build — if enough users leave a social network, it becomes less valuable to those who remain, accelerating further departures."
+      },
+      "he": {
+        "headline": "אפקטי רשת: למה מוצרים מסוימים נהיים שימושיים יותר ככל שיותר אנשים משתמשים בהם",
+        "scroll": "אפקטי רשת (network effects) אומרים שמוצר נהיה בעל ערך רב יותר לכל משתמש ככל שיותר אנשים מצטרפים אליו.",
+        "coffee": "אפקטי רשת (network effects) קורים כשמוצר או פלטפורמה נהיים בעלי ערך רב יותר לכל משתמש פשוט כי יותר אנשים משתמשים בהם — לא כי המוצר עצמו השתפר. רשת טלפונים היא הדוגמה הקלאסית: טלפון בודד חסר תועלת, אבל ככל שיותר אנשים מחזיקים טלפון, כל טלפון קיים נהיה שימושי יותר, כי יש יותר אנשים להתקשר אליהם.\n\nאותה לוגיקה מניעה את חברות הטכנולוגיה הגדולות של היום. חנות אפליקציות למשל שימושית יותר לקונים כשיש בה יותר מוכרים, ואטרקטיבית יותר למוכרים כשיש בה יותר קונים — הצמיחה של כל צד מזינה את הצד השני, תבנית שנקראת 'אפקט רשת דו-צדדי' (two-sided network effect). רשתות חברתיות, אפליקציות הודעות ואפילו שפות תכנות נהנות מאותה דינמיקה: אתה בוחר באפליקציה שהחברים או הקולגות שלך כבר משתמשים בה.\n\nאפקטי רשת חזקים כי הם יוצרים מעין כוח משיכה: ברגע שפלטפורמה מתרחקת קדימה, למשתמשים חדשים יש סיבה רציונלית להצטרף דווקא לגדולה ביותר ולא למתחרה טובה אך קטנה יותר, וזה חלק מהסיבה שלעיתים קרובות מעט פלטפורמות שולטות בקטגוריות שבהן האפקט הזה חזק.",
+        "deep": "## מה זה אפקט רשת\n\nאפקט רשת (network effect) קיים כשכל משתמש נוסף במוצר הופך אותו לבעל ערך רב יותר עבור כל מי שכבר משתמש בו. זה שונה מחיסכון בקנה מידה (economies of scale), שבו חברה נהיית זולה יותר לתפעול ככל שהיא גדלה — אפקטי רשת נוגעים לכך שהמוצר נהיה *שימושי יותר*, לא רק זול יותר לייצור, ככל שבסיס המשתמשים גדל.\n\n## אפקט ישיר מול אפקט עקיף\n\nכלכלנים מחלקים אפקטי רשת למספר סוגים. אפקט רשת ישיר (direct) הוא כשיותר משתמשים מאותו סוג מועילים זה לזה ישירות — יותר אנשים באפליקציית הודעות אומר שיש יותר אנשים שאפשר לשלוח להם הודעה. אפקט עקיף, או דו-צדדי (two-sided), פועל בין שתי קבוצות שונות: יותר נהגים באפליקציית הסעות אומר זמני המתנה קצרים יותר לנוסעים, ויותר נוסעים אומר יותר הזדמנויות הכנסה לנהגים — כך שהצמיחה בצד אחד מושכת צמיחה בצד השני.\n\n## דוגמה מספרית\n\nנניח שאפליקציית הסעות משיקה בעיר חדשה עם 50 נהגים בלבד. נוסעים ממתינים 20 דקות למכונית, אז מעטים טורחים לפתוח את האפליקציה, מה שאומר שהנהגים מרוויחים מעט ורבים מהם פורשים. זהו אפקט רשת שפועל הפוך — בעיית 'התחלה קרה' (cold start).\n\nכעת נניח שהחברה מסבסדת נהגים במשך חצי שנה כדי להביא 500 נהגים לעיר. זמני ההמתנה יורדים ל-4 דקות. יותר נוסעים מתחילים להשתמש באפליקציה כי היא באמת נוחה עכשיו, ונפח הנוסעים הזה מספק ל-500 הנהגים מספיק נסיעות כדי להישאר גם בלי הסבסוד. החברה יכולה אז להוריד את הסבסוד, כי הרשת עצמה — לא הסבסוד — היא מה שמחזיק כעת את שני הצדדים. זו בדיוק הסיבה שחברות סטארט-אפ רבות בתחום הפלטפורמות שורפות כסף בשלב מוקדם: הן משלמות כדי לעבור את סף ה'התחלה הקרה' שבו אפקט הרשת נהיה בר-קיימא בעצמו.\n\n## למה זה חשוב לתחרות\n\nברגע שאפקט רשת נתפס, הוא הופך לסוג של חפיר תחרותי (moat): מתחרה מעט יותר טוב בדרך כלל לא יכול לנצח, כי המשתמשים הולכים לאן שהמשתמשים האחרים כבר נמצאים. זה חלק מהסיבה שדינמיקת 'המנצח לוקח הכל' (winner-take-all) כה שכיחה בפלטפורמות, בשווקים ובאפליקציות חברתיות, ולמה משקיעים מוכנים לממן שנים של הפסדים כדי להגיע לנקודה שבה הרשת מתקיימת בעצמה.\n\n## הגבולות של התופעה\n\nאפקטי רשת אינם בלתי מוגבלים. הם יכולים להגיע לרוויה (אין תועלת נוספת ברגע שכל מי שתרצו ליצור איתו קשר כבר נמצא בפלטפורמה), והם יכולים להתהפך באותה מהירות שבה הם נבנים — אם מספיק משתמשים עוזבים רשת חברתית, היא נהיית פחות בעלת ערך למי שנשאר, מה שמאיץ עזיבות נוספות."
+      },
+      "tags": [
+        "economics",
+        "tech",
+        "network-effects",
+        "concept"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-siege-of-vienna-1529",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1529: Siege of Vienna ends, turning back the Ottoman advance into Europe",
+        "scroll": "In 1529, Austrian forces repelled an Ottoman siege of Vienna, halting nearly a century of Ottoman conquest into Europe.",
+        "coffee": "In 1529, the siege of Vienna ended with Austrian Habsburg forces repelling the invading Ottoman army, a turning point after almost a century of Ottoman conquest advancing into Europe. The Ottoman–Habsburg wars, which pitted the Ottoman Empire against the Habsburg monarchy (at times backed by Hungary, the Polish-Lithuanian Commonwealth, the Holy Roman Empire, and Spain), had seen the Ottomans steadily push deeper into Hungary, Transylvania, Croatia, and Serbia in the preceding decades.\n\nVienna's successful defense mattered because it marked the high-water mark of Ottoman expansion into Central Europe — the empire never got as close to conquering the Austrian capital again, and the city would be besieged a second and final time in 1683, also unsuccessfully.\n\nWhy it's worth knowing: it's one of those single events historians point to as reshaping the balance of power between two empires for the next two centuries, with effects on borders, religion, and trade routes that outlasted both monarchies involved.",
+        "deep": "## Background\n\nBy the early 16th century, the Ottoman Empire was the dominant military power expanding into Central Europe. The Ottoman–Habsburg wars had been running for decades, mostly as land campaigns through Hungary, Transylvania, Croatia, and Serbia, with the Ottomans on the advance and the Habsburg monarchy — allied at various points with the Kingdom of Hungary, the Polish–Lithuanian Commonwealth, the Holy Roman Empire, and Habsburg Spain — largely on the defensive.\n\n## The siege\n\nIn 1529, the Ottoman army advanced to Vienna itself, the Habsburg capital, and laid siege to the city. Vienna's defenders held out, and the siege ultimately failed, forcing the Ottoman forces to withdraw.\n\n## Why the defense succeeded\n\nSeveral practical factors are usually cited: the Ottoman army had marched a very long distance from Ottoman territory, autumn weather and supply lines were working against them by the time they reached Vienna, and the city's fortifications and defenders were able to hold through the siege before winter made withdrawal unavoidable for the attackers.\n\n## Second-order effects\n\nThe failed siege didn't end the Ottoman–Habsburg rivalry — the wars continued for centuries, and Vienna would be besieged again in 1683, also without success. But 1529 is conventionally treated as the point after which Ottoman expansion into the Habsburg heartland stalled; the frontier stabilized rather than continuing to move west. That stability shaped where the religious, political, and trade boundaries between Ottoman and Christian Europe would sit for generations.\n\n## What to watch for\n\nThis kind of event is a good example of how a single military outcome — one failed siege — can function as a hinge point in a much longer rivalry. It's worth remembering next to 1683, the second Vienna siege, since together the two sieges roughly bracket the period when Ottoman expansion into Central Europe was first halted and then permanently reversed."
+      },
+      "he": {
+        "headline": "1529: מצור וינה מסתיים ובולם את ההתקדמות העות'מאנית לתוך אירופה",
+        "scroll": "ב-1529 כוחות אוסטרים הדפו מצור עות'מאני על וינה, ובלמו כמעט מאה שנה של כיבושים עות'מאניים באירופה.",
+        "coffee": "ב-1529 הסתיים מצור וינה כשכוחות ההבסבורג האוסטריים הדפו את צבא הפלישה העות'מאני — נקודת מפנה אחרי כמעט מאה שנה שבהן הכיבוש העות'מאני התקדם והלך לתוך אירופה. מלחמות עות'מאניות-הבסבורגיות, שבהן האימפריה העות'מאנית עמדה מול מלכות הבסבורג (שנתמכה לעיתים על ידי הונגריה, חבר העמים הפולני-ליטאי, האימפריה הרומית הקדושה וספרד ההבסבורגית), ראו את העות'מאנים חודרים בהדרגה עמוק יותר להונגריה, טרנסילבניה, קרואטיה וסרביה בעשורים שקדמו לכך.\n\nההגנה המוצלחת על וינה הייתה חשובה כי היא סימנה את נקודת השיא של ההתפשטות העות'מאנית למרכז אירופה — האימפריה מעולם לא התקרבה שוב כל כך לכיבוש הבירה האוסטרית, והעיר תעמוד במצור נוסף ואחרון ב-1683, גם הוא כושל.\n\nלמה כדאי להכיר את זה: זהו אחד מאותם אירועים בודדים שהיסטוריונים מצביעים עליהם כעל כאלה שעיצבו מחדש את מאזן הכוחות בין שתי אימפריות למשך כמעט מאתיים השנים הבאות, עם השפעות על גבולות, דת ומסלולי סחר ששרדו את שתי המלוכות המעורבות.",
+        "deep": "## רקע\n\nבתחילת המאה ה-16, האימפריה העות'מאנית הייתה הכוח הצבאי הדומיננטי שהתפשט למרכז אירופה. המלחמות העות'מאניות-הבסבורגיות נמשכו כבר עשרות שנים, בעיקר כקמפיינים יבשתיים דרך הונגריה, טרנסילבניה, קרואטיה וסרביה, כאשר העות'מאנים היו בהתקדמות ומלכות הבסבורג — שהייתה בעלת ברית לעיתים עם ממלכת הונגריה, חבר העמים הפולני-ליטאי, האימפריה הרומית הקדושה וספרד ההבסבורגית — הייתה ברובה בעמדת הגנה.\n\n## המצור\n\nב-1529 התקדם הצבא העות'מאני עד וינה עצמה, בירת ההבסבורגים, והטיל עליה מצור. המגינים של וינה החזיקו מעמד, והמצור נכשל בסופו של דבר, מה שהכריח את הכוחות העות'מאניים לסגת.\n\n## למה ההגנה הצליחה\n\nבדרך כלל מצביעים על כמה גורמים מעשיים: הצבא העות'מאני צעד מרחק ארוך מאוד משטח האימפריה, מזג האוויר הסתווי וקווי האספקה עבדו נגדו עד שהגיע לווינה, וביצורי העיר ומגיניה הצליחו להחזיק מעמד לאורך המצור עד שהחורף הפך את הנסיגה לבלתי נמנעת עבור התוקפים.\n\n## השפעות מדרגה שנייה\n\nהמצור הכושל לא סיים את היריבות העות'מאנית-הבסבורגית — המלחמות נמשכו במשך מאות שנים נוספות, ווינה תעמוד שוב במצור ב-1683, גם אז ללא הצלחה. אבל 1529 נחשבת באופן מקובל לנקודה שאחריה ההתפשטות העות'מאנית ללב ארצות ההבסבורג נבלמה; הגבול התייצב במקום להמשיך לנוע מערבה. היציבות הזו עיצבה את המיקום של הגבולות הדתיים, הפוליטיים והמסחריים בין העולם העות'מאני לאירופה הנוצרית לדורות רבים.\n\n## למה לשים לב\n\nסוג כזה של אירוע הוא דוגמה טובה לכך שתוצאה צבאית בודדת — מצור אחד שנכשל — יכולה לשמש כנקודת ציר ביריבות ארוכה הרבה יותר. כדאי לזכור אותו לצד 1683, המצור השני על וינה, כי יחד שני המצורים מגדירים בקירוב את התקופה שבה ההתפשטות העות'מאנית למרכז אירופה נבלמה לראשונה, ולאחר מכן התהפכה לצמיתות."
+      },
+      "tags": [
+        "history",
+        "geopolitics",
+        "on-this-day",
+        "ottoman-empire"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1529: Ottoman–Habsburg wars: The siege of Vienna ended with Austrian forces repelling the invading Turks, turning the tide against almost a century of conquest in Europe by the Ottoman Empire.",
+          "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars"
+        }
+      ]
+    }
+  ]
+}

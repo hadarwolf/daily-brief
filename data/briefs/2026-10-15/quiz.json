@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-15",
+  "questions": [
+    {
+      "id": "quiz-houthis-aramco",
+      "section": "geopolitics",
+      "story_id": "houthis-strike-aramco-riyadh",
+      "answer_index": 1,
+      "en": {
+        "question": "What did Yemen's Houthis strike this week, marking a notable escalation?",
+        "options": [
+          "An oil tanker passing through the Red Sea",
+          "Saudi Aramco's headquarters in Riyadh",
+          "A Saudi military base near the Yemeni border",
+          "An oil pipeline in eastern Saudi Arabia"
+        ],
+        "explanation": "Officials said the Houthis struck Aramco's headquarters in Riyadh itself, rather than the shipping lanes or border areas they have mostly targeted until now."
+      },
+      "he": {
+        "question": "מה תקפו החות׳ים התימנים השבוע, במה שנחשב להסלמה משמעותית?",
+        "options": [
+          "מיכלית נפט שחצתה את ים סוף",
+          "מטה חברת ארמקו בריאד",
+          "בסיס צבאי סעודי ליד הגבול עם תימן",
+          "צינור נפט במזרח סעודיה"
+        ],
+        "explanation": "גורמים רשמיים מסרו שהחות׳ים תקפו את מטה ארמקו בריאד עצמה, ולא את נתיבי השיט או אזורי הגבול שהיו עד כה יעדיהם העיקריים."
+      }
+    },
+    {
+      "id": "quiz-channel13-poll",
+      "section": "israeli_politics",
+      "story_id": "channel13-election-poll",
+      "answer_index": 0,
+      "en": {
+        "question": "According to the new Channel 13 poll, what happened to Netanyahu's bloc?",
+        "options": [
+          "It slipped to 51 seats, with Likud down to 18",
+          "It rose to a 61-seat majority",
+          "It stayed unchanged at 50 seats",
+          "It fell below 40 seats for the first time"
+        ],
+        "explanation": "The poll found Netanyahu's bloc weakening to 51 seats, ten short of a majority, with Likud itself falling two seats to 18."
+      },
+      "he": {
+        "question": "לפי הסקר החדש של חדשות 13, מה קרה לגוש נתניהו?",
+        "options": [
+          "הוא נחלש ל-51 מנדטים, כשהליכוד יורד ל-18",
+          "הוא עלה לרוב של 61 מנדטים",
+          "הוא נשאר ללא שינוי על 50 מנדטים",
+          "הוא צנח לראשונה מתחת ל-40 מנדטים"
+        ],
+        "explanation": "הסקר מצא שגוש נתניהו נחלש ל-51 מנדטים, עשרה מנדטים פחות מרוב, כשהליכוד עצמו ירד בשניים ל-18."
+      }
+    },
+    {
+      "id": "quiz-anthropic-revenue",
+      "section": "business",
+      "story_id": "anthropic-ipo-revenue",
+      "answer_index": 2,
+      "en": {
+        "question": "What did Anthropic disclose to investors ahead of its planned IPO?",
+        "options": [
+          "Quarterly revenue was roughly flat year over year",
+          "It was postponing its IPO indefinitely",
+          "Quarterly revenue grew about 45-50% to nearly $17 billion",
+          "It was merging with a major cloud provider"
+        ],
+        "explanation": "Anthropic told investors its quarterly revenue jumped roughly 45-50% to nearly $17 billion, strong growth that still came in slower than some had expected."
+      },
+      "he": {
+        "question": "מה גילתה אנתרופיק למשקיעים לקראת ההנפקה המתוכננת שלה?",
+        "options": [
+          "ההכנסות הרבעוניות היו כמעט ללא שינוי משנה לשנה",
+          "היא דוחה את ההנפקה ללא הגבלת זמן",
+          "ההכנסות הרבעוניות צמחו בכ-45-50% לכמעט 17 מיליארד דולר",
+          "היא מתמזגת עם ספקית ענן גדולה"
+        ],
+        "explanation": "אנתרופיק מסרה למשקיעים שההכנסות הרבעוניות שלה קפצו בכ-45-50% לכמעט 17 מיליארד דולר, צמיחה חזקה שבכל זאת הייתה איטית מכפי שחלק מהמשקיעים ציפו."
+      }
+    }
+  ]
+}

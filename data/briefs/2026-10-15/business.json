@@ -1,0 +1,111 @@
+{
+  "section": "business",
+  "date": "2026-10-15",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-15T04:05:19+00:00",
+  "stories": [
+    {
+      "id": "anthropic-ipo-revenue",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic's Strong Revenue Growth Won't Settle the Bigger AI Trade Debate",
+        "scroll": "Anthropic's quarterly revenue grew nearly 50% to almost $17 billion ahead of its planned IPO, but analysts say that won't ease broader doubts about the AI trade.",
+        "coffee": "Anthropic, the AI lab behind Claude, told public-market investors on Wednesday that its quarterly revenue jumped roughly 45-50% to nearly $17 billion, as it builds the case for an initial public offering (IPO) expected next month. The growth rate, while strong, came in slower than some investors had anticipated.\n\nBloomberg and the FT both frame the numbers as a split signal: strong enough to support Anthropic's own IPO pitch, but not strong enough to settle the bigger argument running through markets over whether the \"AI trade\" - the broad run-up in stocks tied to artificial-intelligence spending - is overextended. That argument intensified this week as hotter-than-expected US inflation data revived bets on a Federal Reserve rate hike, triggering a sell-off that hit chip stocks hardest: South Korea's SK Hynix is down 57% from its peak, and the Nasdaq fell 1.8% in a single session.\n\nThe split matters because it shows two judgments can coexist: investors can believe one company's fundamentals are improving while still doubting the sector's overall pricing. Meanwhile Wall Street is already profiting either way, with investment banks reporting rising advisory and underwriting revenue directly from the AI boom's deal flow.",
+        "deep": "## Background\n\nAnthropic is the AI lab behind the Claude family of chatbots, organized as a public benefit corporation (PBC) rather than a conventional for-profit company. It has been expected to go public, and this week it began the pre-IPO process of meeting directly with public-market investors - the kind of investor roadshow companies hold before pricing shares - ahead of a listing reportedly planned for next month.\n\nThat timing collided with a rough week for markets. A hotter-than-expected US inflation reading for September reignited bets that the Federal Reserve will raise interest rates again this month, and the resulting sell-off hit nowhere harder than stocks tied to artificial intelligence, particularly the chipmakers whose products power AI data centers.\n\n## The story\n\nIn Wednesday's investor meetings, Anthropic disclosed that its quarterly revenue rose by roughly 45% to 50%, to a figure reported as $16.8 billion by the Financial Times and \"nearly $17 billion\" by the Wall Street Journal. That is fast growth by almost any normal corporate standard, but the FT notes the pace was slower than some investors had expected - a reminder that for a company pricing an IPO on the promise of hypergrowth, \"merely\" strong growth can read as a disappointment.\n\nBloomberg's framing, citing analysts and investors, draws a sharper distinction: the numbers may well strengthen Anthropic's specific case for going public - proof its own business is scaling - but they are unlikely to resolve the much bigger argument consuming markets over whether the broader \"AI trade\" (the collective run-up in stocks and capital spending tied to artificial intelligence) is justified by the fundamentals, or stretched beyond what current revenue and profit can support.\n\n## Second-order effects\n\nThat split between \"good company, uncertain sector\" played out visibly this week. The same hot inflation data that raised rate-hike odds triggered a deep equity sell-off, and the damage concentrated in AI-linked names: South Korea's SK Hynix, a key supplier of memory chips for AI servers, is now down 57% from its peak. The Nasdaq dropped 1.8%, consistent with the broader equity slide. The sell-off also spilled into currencies - the Taiwan dollar and South Korean won both weakened as the chip-stock rout dented sentiment toward Asia's AI supply chain.\n\nA less visible but telling second-order effect: Wall Street itself appears to be a net winner from the AI boom almost regardless of where AI stock prices go. Investment banks have reported rising revenue from deal advisory and underwriting work tied to the AI buildout - new debt and equity issuance, M&A, and a swelling pipeline of IPOs that Anthropic's own listing will add to. In other words, the firms pricing and selling the \"AI trade\" to the public can collect fees on the way up and, to some extent, on the way down, even while the investors buying into it carry the valuation risk.\n\n## What to watch next\n\nThe immediate test is pricing. Anthropic's IPO, expected next month, will reveal whether public-market investors are willing to value the company on the strength of its own roughly 45-50% revenue growth, or whether they discount it for the sector-wide skepticism rattling chip and AI-adjacent stocks. A strong reception would be read as evidence that individual \"best in class\" AI companies can be judged on their own merits; a weak or discounted one would suggest the market is pricing all AI exposure as correlated risk.\n\nAlso worth tracking: how the Federal Reserve responds to the hot inflation print, since a rate hike raises the discount rate used to value any high-growth company's future cash flows - making richly priced IPOs like Anthropic's structurally harder to land well, regardless of the underlying business performance."
+      },
+      "he": {
+        "headline": "הצמיחה החזקה של אנתרופיק לא תכריע את הוויכוח הגדול על מסחר ה-AI",
+        "scroll": "הכנסות אנתרופיק זינקו בכ-50% לכמעט 17 מיליארד דולר לקראת ההנפקה (IPO) המתוכננת, אך אנליסטים אומרים שזה לא יניח את החששות ממסחר הבינה המלאכותית (AI trade).",
+        "coffee": "אנתרופיק, המעבדה שמאחורי קלוד (Claude), מסרה ביום רביעי למשקיעים מהשוק הציבורי שהכנסותיה הרבעוניות זינקו בכ-45%-50%, לכמעט 17 מיליארד דולר, בדרך להנפקה ראשונית לציבור (IPO) שצפויה לחודש הבא. קצב הצמיחה, אף שהוא חזק, היה איטי יותר ממה שחלק מהמשקיעים ציפו.\n\nבלומברג ופייננשל טיימס מתארים את הנתונים כאיתות כפול: הם חזקים מספיק כדי לתמוך בטיעון של אנתרופיק עצמה בעד ההנפקה, אך לא מספיק כדי להרגיע את הוויכוח הגדול יותר בשווקים סביב השאלה האם מסחר הבינה המלאכותית (AI trade) - העלייה המצטברת במניות הקשורות להשקעות בבינה מלאכותית - נסחר במחיר מוגזם. הוויכוח הזה התלהט השבוע אחרי שנתון אינפלציה חם מהצפוי בארה\"ב החייה הימורים על העלאת ריבית (rate hike) מצד הבנק המרכזי האמריקאי, ומניות השבבים ספגו את המכה הקשה ביותר: SK Hynix הדרום קוריאנית צנחה ב-57% מהשיא שלה, ונאסד\"ק ירד ב-1.8% ביום מסחר אחד.\n\nהפיצול הזה חשוב כי הוא מראה ששני שיפוטים שונים יכולים להתקיים זה לצד זה: משקיעים יכולים להאמין שהפעילות של חברה ספציפית משתפרת, ועדיין לפקפק בתמחור הכולל של הסקטור. בינתיים וול סטריט כבר מרוויחה כך או כך - בנקי השקעות מדווחים על עלייה בהכנסות מייעוץ בעסקאות ומחיתום (underwriting) ישירות מגל העסקאות שמניבה פריחת ה-AI.",
+        "deep": "## רקע\n\nאנתרופיק (Anthropic), המעבדה שמאחורי משפחת הצ'אטבוטים קלוד (Claude), מאוגדת כתאגיד תועלת ציבורית (Public Benefit Corporation, PBC) ולא כחברה רגילה למטרות רווח בלבד - מבנה משפטי שמחייב את הדירקטוריון לשקול, לצד רווח לבעלי המניות, גם תכלית ציבורית מוצהרת. החברה צפויה לצאת להנפקה ראשונית לציבור (IPO), והשבוע החלה בתהליך שמקדים הנפקות כאלה: פגישות ישירות עם משקיעים מהשוק הציבורי, מה שמכונה בעגה הפיננסית \"סיבוב משקיעים\" (roadshow) - הדרך המקובלת שבה חברה מציגה את תוצאותיה בפני קרנות נאמנות, קרנות פנסיה וגופים מוסדיים לפני שנקבע מחיר למניה, לקראת הנפקה שלפי הדיווחים מתוכננת לחודש הבא.\n\nהעיתוי הזה התנגש עם שבוע קשה בשווקים. נתון אינפלציה חם מהצפוי בארה\"ב לחודש ספטמבר החייה את ההימורים על כך שהבנק המרכזי האמריקאי (הפד) יעלה שוב את הריבית (rate hike) החודש, וגל המכירות (sell-off) שנבע מכך פגע הכי חזק במניות הקשורות לבינה מלאכותית, ובייחוד ביצרניות השבבים שמספקות את התשתית לחוות השרתים של ה-AI.\n\n## הסיפור\n\nבפגישות המשקיעים ביום רביעי מסרה אנתרופיק שהכנסותיה הרבעוניות עלו בכ-45% עד 50%, לסכום שדווח כ-16.8 מיליארד דולר (פייננשל טיימס) או \"כמעט 17 מיליארד דולר\" (וול סטריט ג'ורנל) - הפער הקטן בין שני המספרים משקף כנראה הבדלי עיגול ומועד מדידה בין שני כלי התקשורת, לא סתירה מהותית. מדובר בצמיחה מהירה לפי כל קנה מידה עסקי רגיל, אבל פייננשל טיימס מציינת שהקצב היה איטי יותר ממה שחלק מהמשקיעים ציפו - תזכורת לכך שעבור חברה שמתמחרת הנפקה על בסיס הבטחה לצמיחת-על, גם צמיחה \"רק\" חזקה עלולה להיקרא כאכזבה בעיני השוק.\n\nבלומברג, בהתבסס על אנליסטים ומשקיעים, מציירת חלוקה חדה יותר: הנתונים עשויים לחזק את הטיעון הספציפי של אנתרופיק בעד ההנפקה - הוכחה לכך שהעסק שלה עצמה מתרחב - אך הם לא צפויים לפתור את הוויכוח הגדול הרבה יותר שמעסיק את השווקים: האם מסחר הבינה המלאכותית (AI trade) - העלייה המצטברת במניות ובהשקעות הון הקשורות לבינה מלאכותית - מוצדק לאור הביצועים בפועל, או מתוח מעבר למה שההכנסות והרווחים הנוכחיים יכולים לתמוך בו. במילים אחרות: תוצאות טובות של שחקנית אחת לא בהכרח מוכיחות שהמגזר כולו מתומחר נכון.\n\n## אפקטים מסדר שני\n\nהפיצול הזה בין \"חברה טובה, מגזר לא ודאי\" קיבל ביטוי ברור השבוע. אותו נתון אינפלציה חם שהעלה את סיכויי העלאת הריבית הוביל לגל מכירות עמוק במניות, והנזק התרכז בשמות הקשורים ל-AI: מניית SK Hynix הדרום קוריאנית, ספקית מרכזית של שבבי זיכרון לשרתי AI, ירדה ב-57% מהשיא שלה. נאסד\"ק ירד ב-1.8%, בהתאמה למגמת הירידות הרחבה יותר. גל המכירות גלש גם למטבעות - הדולר הטייוואני והוון הדרום קוריאני נחלשו, כשהטלטלה במניות השבבים פגעה בסנטימנט כלפי שרשרת האספקה האסייתית של ה-AI. זהו סימן לכך שחששות סביב בינה מלאכותית כבר לא מוגבלים לשוק המניות האמריקאי, אלא עוברים גם לשערי חליפין של כלכלות שתלויות ביצוא רכיבים לתעשיית השבבים.\n\nאפקט מסדר שני פחות גלוי אך מעניין: וול סטריט עצמה כנראה מרוויחה מפריחת ה-AI כמעט בלי קשר לאן שהולכים מחירי מניות ה-AI. בנקי השקעות מדווחים על הכנסות גדלות מייעוץ בעסקאות ומחיתום (underwriting) הקשורים ישירות לבנייה התשתיתית של ה-AI - הנפקות חוב והון חדשות, מיזוגים ורכישות, וצינור הנפקות (IPOs) מתנפח שאליו תצטרף גם ההנפקה של אנתרופיק עצמה. במילים אחרות, הגופים שמתמחרים ומוכרים את מסחר ה-AI לציבור יכולים לגבות עמלות גם בעלייה וגם, במידה פחותה, בירידה - בעוד שהמשקיעים שקונים את הסיפור נושאים בסיכון התמחור בעצמם.\n\n## מה לעקוב אחריו\n\nהמבחן המיידי הוא התמחור. ההנפקה של אנתרופיק, הצפויה לחודש הבא, תחשוף אם משקיעים מהשוק הציבורי מוכנים לתמחר את החברה לפי עוצמת צמיחת ההכנסות שלה עצמה (כ-45%-50%), או שהם ינכו ממנה בשל הספקנות הרוחבית שמטלטלת את מניות השבבים וה-AI. קבלה חמה תיקרא כעדות לכך שאפשר לשפוט חברות AI מובילות לפי הביצועים שלהן בלבד; קבלה חלשה או מוזלת תרמז שהשוק מתחיל לתמחר כל חשיפה ל-AI כסיכון מתואם אחד גדול, שבו כל המניות בסקטור נעות יחד בלי קשר לביצועים הספציפיים של כל חברה.\n\nכדאי גם לעקוב אחרי האופן שבו הפד יגיב לנתון האינפלציה החם, מאחר שהעלאת ריבית מעלה את שיעור ההיוון (discount rate) שמשמש לתמחור תזרימי המזומנים העתידיים של כל חברת צמיחה גבוהה - מה שהופך הנפקות יקרות כמו זו של אנתרופיק לקשות יותר מבנית, ללא קשר לביצועי העסק עצמו. ככל שההנפקה תתקרב, הפער בין הסיפור של אנתרופיק לבין הסיפור של כלל מגזר ה-AI צפוי להיות הנושא המרכזי שישמש אנליסטים ועיתונאים כלכליים לבחון את מחיר המניה ביום המסחר הראשון שלה."
+      },
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai-trade",
+        "markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Anthropic Results May Aid IPO but Not AI Trade, Analysts Say",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+          "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
+          "url": "https://www.wsj.com/tech/ai/anthropics-quarterly-revenue-jumped-45-to-nearly-17-billion-1c7e28b8?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "SK Hynix Shares Down 57% From Peak as Global Chip Selloff Deepens",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Stock Losses Deepen on Chip Rout, Treasuries Rise: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-dollar-won-slump-as-chip-stock-selloff-hurts-sentiment"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The AI Boom Is Supercharging Wall Street’s Profits",
+          "url": "https://www.wsj.com/finance/banking/the-ai-boom-is-supercharging-wall-streets-profits-2a2d9747?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "נתוני האינפלציה טילטלו את השוק; נאסד\"ק נסוג ב-1.8%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-14/ty-article-live/000001a1-2e4d-d1b4-a5fb-aecd97b50000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4162.77,
+      "prev_close": 4130.0498,
+      "change_pct": 0.79,
+      "as_of": "2026-10-14"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7718.9399,
+      "prev_close": 7805.4502,
+      "change_pct": -1.11,
+      "as_of": "2026-10-14"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0981,
+      "prev_close": 3.0749,
+      "change_pct": 0.76,
+      "as_of": "2026-10-15"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 104.45,
+      "prev_close": 105.69,
+      "change_pct": -1.17,
+      "as_of": "2026-10-14"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 80740.4375,
+      "prev_close": 83095.125,
+      "change_pct": -2.83,
+      "as_of": "2026-10-15"
+    }
+  }
+}

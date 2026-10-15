@@ -1,0 +1,259 @@
+{
+  "section": "sports",
+  "date": "2026-10-15",
+  "title_en": "Sports",
+  "title_he": "ספורט",
+  "default_lang": "en",
+  "generated_at": "2026-10-15T04:05:19+00:00",
+  "stories": [
+    {
+      "id": "arsenal-lille-champions-league",
+      "kind": "news",
+      "en": {
+        "headline": "Arsenal Cruise Past Lille, Sit Second Ahead of Bayern Test",
+        "scroll": "Arsenal beat Lille 3-0, with substitute Bukayo Saka scoring and assisting, to stay perfect in the Champions League and sit second in the Premier League.",
+        "coffee": "Arsenal made it two wins from two in this season's Champions League on Tuesday, beating Lille 3-0 at the Emirates. Substitute Bukayo Saka came off the bench to score one goal and set up another, underlining his growing habit of changing games even when he doesn't start them.\n\nThe win came three days after a 2-1 victory over Leeds United in the Premier League, where Arsenal are the reigning champions. Those results leave Arsenal second in the table on 15 points from six games, three points behind leaders Manchester City and five points clear of third-placed Brighton & Hove Albion.\n\nNext up is a trip to Nottingham Forest on Sunday, followed by a heavyweight Champions League away day at six-time European champions Bayern Munich — arguably the toughest fixture of Arsenal's league phase so far. Under the competition's reformatted single-table \"league phase,\" where all 36 entrants play eight different opponents, that kind of fixture is exactly the sort of result that separates a top-eight finish from a playoff scramble.",
+        "deep": "## Background\n\nArsenal go into this international window as the reigning Premier League champions, and the Champions League itself is still only two seasons into its reformatted \"league phase\": instead of small groups of four, all 36 entrants play eight games against different opponents and are ranked in a single table, with the top eight advancing directly to the knockout rounds. Two wins from two games is a good early return in that format, where goal difference and consistency against unfamiliar opponents count for a lot.\n\n## The Story\n\nArsenal's week started with a 2-1 Premier League win over Leeds United at the Emirates on Saturday. Three days later, they were back at home for a Champions League fixture against Lille, and goals never looked guaranteed until Bukayo Saka changed the game. Saka started on the bench but came on to score once and set up a second goal, helping turn the contest in Arsenal's favour as they won 3-0. It was enough to make it two wins from two in the league phase, and it continues a pattern in which Arsenal's bench has been able to shift games late — Saka in particular has built a reputation as an impact substitute as well as a starter. Taken together, the Leeds and Lille results mean Arsenal have won their last two games in all competitions while conceding only once, a sign that the squad depth behind the first-choice eleven is holding up under the strain of fixtures across two competitions.\n\n## Where Arsenal Stand\n\nThe Premier League table after six rounds shows Manchester City top on 18 points with a goal difference of plus 11, having played six and lost none — an early marker of the standard Arsenal will need to match if they are to retain their title. Arsenal sit second with 15 points from the same number of games and a goal difference of plus five — three points off top spot. Brighton & Hove Albion are third on 13 points, with Brentford, Everton and Chelsea all on 10 points rounding out the rest of the current top six. The margins are thin enough that a strong run over the next few weeks could see Arsenal close the gap on City, or equally see them overtaken if results don't go their way.\n\n## What to Watch Next\n\nArsenal's next two fixtures come in quick succession and could not be more different in character. On Sunday they travel to Nottingham Forest in the Premier League, a fixture where dropped points would sting given how tight the table is at the top. Three days after that, they go to Bavaria to face Bayern Munich in the Champions League — a club with six European Cup/Champions League titles to their name and one of the competition's most storied names. It is arguably the hardest away fixture of Arsenal's league phase campaign, and how they respond, with Saka seemingly in the kind of form that makes him dangerous in short bursts, will say a lot about where this Arsenal side are in both competitions. A win in Munich would put them firmly among the favourites for a top-eight finish in the new league phase; a defeat would be no disgrace against opposition of that calibre, but would leave work to do before the knockout stages begin. Either way, the double-header against Forest and Bayern will tell the reader far more about Arsenal's genuine title and European credentials than the win over Lille alone did, precisely because neither opponent can be taken for granted in the way a struggling side might be."
+      },
+      "he": {
+        "headline": "ארסנל גוברת על ליל ונשארת שנייה לקראת מבחן באיירן",
+        "scroll": "ארסנל ניצחה את ליל 3-0, כששחקן החילופין בוקאיו סאקה כבש ובישל, ונשארת ללא תבוסה בליגת האלופות ומדורגת שנייה בפרמייר ליג.",
+        "coffee": "ארסנל רשמה ניצחון שני מתוך שני משחקים בעונה הנוכחית של ליגת האלופות, כשגברה על ליל 3-0 באמירייטס ביום שלישי. בוקאיו סאקה, שנכנס מהספסל, כבש שער אחד ובישל שער נוסף, והוכיח שוב שהוא יכול להכריע משחקים גם כשהוא לא פותח כמועמד.\n\nהניצחון הגיע שלושה ימים אחרי ניצחון 2-1 על לידס יונייטד בפרמייר ליג, שבה ארסנל היא האלופה המכהנת. התוצאות הללו משאירות את ארסנל במקום השני בטבלה, עם 15 נקודות משישה משחקים - שלוש נקודות מאחורי מנצ'סטר סיטי המובילה, וחמש נקודות לפני ברייטון במקום השלישי.\n\nהמשחק הבא של ארסנל הוא חוץ מול נוטינגהאם פורסט ביום ראשון בפרמייר ליג, ולאחר מכן יציאה כבדת משקל בליגת האלופות לבאיירן מינכן, זוכת שישה תארי אליפות אירופה - ככל הנראה המשחק הקשה ביותר עד כה בשלב הליגה של ארסנל.",
+        "deep": "## רקע\n\nארסנל נכנסת לחלון הבינלאומי הזה כאלופת הפרמייר ליג המכהנת, וליגת האלופות עצמה רק בעונתה השנייה בפורמט החדש - \"שלב הליגה\": במקום בתים קטנים של ארבע קבוצות, כל 36 הקבוצות המשתתפות משחקות שמונה משחקים מול יריבות שונות ומדורגות בטבלה אחת, כששמונה הראשונות עולות ישירות לשלב הנוקאאוט. שני ניצחונות משני משחקים הם פתיחה טובה בפורמט כזה, שבו הפרש השערים והעקביות מול יריבות לא מוכרות משחקים תפקיד גדול.\n\n## הסיפור\n\nהשבוע של ארסנל נפתח בניצחון 2-1 על לידס יונייטד באמירייטס, בשבת. שלושה ימים אחר כך, הקבוצה חזרה הביתה למשחק בליגת האלופות מול ליל, ושערים לא נראו מובטחים עד שבוקאיו סאקה שינה את התמונה. סאקה פתח את המשחק על הספסל, אך נכנס, כבש שער והניח שער נוסף, וסייע לארסנל להטות את המשחק לטובתה ולנצח 3-0. זה הספיק כדי לרשום ניצחון שני מתוך שני משחקים בשלב הליגה, והמשיך דפוס שבו ספסל ארסנל מצליח להכריע משחקים בדקות המאוחרות - סאקה בפרט בנה לעצמו מוניטין של שחקן חילופין משפיע לא פחות משחקן פותח. יחד, התוצאות מול לידס וליל אומרות שארסנל ניצחה בשני משחקיה האחרונים בכל התחרויות וספגה רק פעם אחת, סימן לכך שעומק הסגל מאחורי החבורה הפותחת עומד בעומס המשחקים בשתי תחרויות במקביל.\n\n## איפה ארסנל עומדת\n\nטבלת הפרמייר ליג אחרי שישה מחזורים מראה את מנצ'סטר סיטי במקום הראשון עם 18 נקודות והפרש שערים של פלוס 11, אחרי שישה משחקים בלי הפסד. ארסנל במקום השני עם 15 נקודות מאותו מספר משחקים והפרש שערים של פלוס חמש - שלוש נקודות מהפסגה. ברייטון שלישית עם 13 נקודות, ואחריה ברנטפורד, אברטון וצ'לסי - כולן עם 10 נקודות, שמשלימות את השישייה המובילה הנוכחית. הפערים צרים מספיק כדי שריצה טובה בשבועות הקרובים תאפשר לארסנל לצמצם את הפער ממנצ'סטר סיטי, אבל גם כדי שתוצאות פחות טובות יחזירו אותה אחורה.\n\n## מה לצפות בהמשך\n\nשני המשחקים הבאים של ארסנל מגיעים בסמיכות ולא יכולים להיות שונים יותר באופי. ביום ראשון היא נוסעת לנוטינגהאם פורסט בפרמייר ליג - משחק שבו איבוד נקודות יכאב נוכח כמה שהטבלה צפופה בפסגה. שלושה ימים אחר כך, הקבוצה נוסעת לבוואריה למשחק בליגת האלופות מול באיירן מינכן, מועדון עם שישה תארי אליפות אירופה על שמו ואחד השמות המכובדים בתולדות התחרות. זהו כנראה משחק החוץ הקשה ביותר של ארסנל בשלב הליגה העונה, והאופן שבו היא תגיב - כשסאקה נראה בפורמה שהופכת אותו למסוכן גם בפרקי זמן קצרים - יגיד הרבה על המקום שבו נמצאת הקבוצה הזו בשתי התחרויות. ניצחון במינכן יכניס את ארסנל בבירור בין המועמדות לסיום בין שמונה הראשונות בשלב הליגה החדש; הפסד לא יהיה חרפה מול יריבה ברמה כזו, אבל ישאיר עבודה לפני תחילת שלב הנוקאאוט. בכל מקרה, זוג המשחקים מול פורסט ובאיירן יספר הרבה יותר על האמינות של ארסנל כמועמדת אמיתית לתואר ולהצלחה אירופית מאשר הניצחון על ליל לבדו, בדיוק משום שאף אחת מהיריבות האלה לא יכולה להיחשב כמובנת מאליה כמו מול קבוצה שנאבקת."
+      },
+      "tags": [
+        "arsenal",
+        "champions-league",
+        "premier-league",
+        "bukayo-saka"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Substitutes steal the show as Arsenal score three against Lille",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "barcelona-galatasaray-comeback",
+      "kind": "news",
+      "en": {
+        "headline": "Barcelona Fight Back to Thrash Galatasaray, Stay Perfect in Europe",
+        "scroll": "Barcelona came from behind to beat Galatasaray 4-1, with Anthony Gordon scoring his first Champions League goal for the club, and remain top of La Liga unbeaten.",
+        "coffee": "Barcelona trailed Galatasaray before storming back to win 4-1 in Istanbul on Tuesday, a result that makes it two wins from two in this season's Champions League. Anthony Gordon scored his first goal for the club in the competition as Barcelona overturned the early deficit in some style.\n\nIt capped a good week domestically too: Barcelona beat Getafe 3-0 at home on Saturday and sit top of La Liga after eight games, unbeaten, with 24 points and a goal difference of plus 27 — nine points clear of second-placed Atletico Madrid, with Real Betis third on the same points as Atletico.\n\nThere is also news from across town in Madrid that will interest Barcelona fans: Real Madrid forward Vinicius Jr has been given a four-game ban that will rule him out of the next Clasico. Before that, though, Barcelona play Real Betis away on Saturday and Paris Saint-Germain away in the Champions League the following Tuesday.",
+        "deep": "## Background\n\nBeyond the question of who is La Liga's defending champion, Barcelona have started this season as the form team in Spain, and the Champions League's league-phase format means consistency across eight different opponents — rather than just surviving a group of four — is what decides who advances automatically. A fast start matters more than ever, which is exactly what Barcelona have produced across both competitions this autumn.\n\n## The Story\n\nBarcelona needed a second half to find their best form in Istanbul against Galatasaray, going behind before a second-half fightback turned the game, eventually winning 4-1. Anthony Gordon got on the scoresheet with his first Champions League goal for the club, part of a performance BBC described as \"brilliant Barcelona\" thrashing their hosts. It is Barcelona's second win in as many league-phase matches this season.\n\nDomestically, Barcelona beat Getafe 3-0 at home on Saturday, continuing a run that has them unbeaten after eight La Liga games.\n\n## Where Barcelona Stand\n\nBarcelona lead La Liga with 24 points from eight games and a goal difference of plus 27, comfortably the best in the division. Atletico Madrid are second on 19 points, level with third-placed Real Betis, while Real Madrid sit fourth on 18 points from the same number of games — meaning Barcelona's cushion over their nearest challengers already stands at five points, with most of the season still to play. Sevilla and Real Sociedad round out the top six. Barcelona's goal difference in particular stands out — at plus 27, it is well clear of anyone else near the top of the table, a sign of how comfortably they have been winning as much as how often.\n\n## The Clasico Subplot\n\nBarcelona's position at the top of La Liga has added significance given news out of Madrid this week: Real Madrid forward Vinicius Jr has been handed a four-game ban, which will rule him out of the next Clasico against Barcelona. Real Madrid manager Jose Mourinho has been critical of the timing of the ban, according to reporting on the decision, while Barcelona will simply be glad of one fewer attacking threat to plan for whenever that fixture arrives. The ban lands in a week when Mourinho's Real Madrid showed they can still win without everything going their way: in the Champions League they trailed Roma before scoring three goals in the final seven minutes to win 4-3, a reminder that a weakened Madrid attack is unlikely to be a simple problem for Barcelona to plan around whenever that fixture is eventually played.\n\n## What to Watch Next\n\nBarcelona's immediate schedule offers no let-up. They travel to Real Betis — third in La Liga — on Saturday, a potentially tricky away fixture against a side in good form of their own: Betis have themselves made a solid start to this season's Champions League, coming from behind to beat Porto 3-2 courtesy of an 84th-minute Isco penalty for their second league-phase win in as many games, a reminder that it isn't only the usual superpowers picking up results in the competition's early rounds.\n\nThree days after the Betis trip, Barcelona are back in Champions League action away at Paris Saint-Germain, last season's defending champions, who have themselves started this season's league phase with two wins from two, including a statement win over Manchester City. Two results against that level of opposition, in Spain and in the Champions League inside the space of four days, should offer a clearer picture of how real Barcelona's early-season form is, and whether their eye-catching goal difference has come mostly against weaker sides or holds up against genuine title and trophy contenders too."
+      },
+      "he": {
+        "headline": "ברצלונה חוזרת מפיגור ומוחצת את גלאטסראיי, נשארת למעלה בלה ליגה",
+        "scroll": "ברצלונה התאוששה מפיגור וניצחה את גלאטסראיי 4-1, כשאנתוני גורדון כבש את שערו הראשון בליגת האלופות עבור המועדון, והקבוצה נותרה ללא הפסד בפסגת לה ליגה.",
+        "coffee": "ברצלונה פיגרה מול גלאטסראיי לפני שהפכה את התוצאה וניצחה 4-1 באיסטנבול ביום שלישי - תוצאה שמעניקה לה שני ניצחונות משני משחקים בעונה הנוכחית של ליגת האלופות. אנתוני גורדון כבש את שערו הראשון עבור המועדון בתחרות, כשברצלונה הפכה את הפיגור המוקדם בסגנון.\n\nזה הגיע אחרי שבוע טוב גם מבחינה מקומית: ברצלונה גברה על חטאפה 3-0 בבית בשבת, ונמצאת בפסגת לה ליגה אחרי שמונה מחזורים, ללא הפסד, עם 24 נקודות והפרש שערים של פלוס 27 - תשע נקודות לפני אתלטיקו מדריד במקום השני, כשריאל בטיס שלישית עם אותו מספר נקודות כמו אתלטיקו.\n\nיש גם חדשות מעבר לעיר במדריד שיעניינו את אוהדי ברצלונה: ויניסיוס ז'וניור מריאל מדריד קיבל הרחקה של ארבעה משחקים שתוציא אותו מהאל-קלאסיקו הבא. לפני כן, ברצלונה משחקת חוץ מול ריאל בטיס בשבת, ואחר כך חוץ מול פריז סן-ז'רמן בליגת האלופות ביום שלישי הבא.",
+        "deep": "## רקע\n\nמעבר לשאלת מי האלופה המכהנת בלה ליגה, ברצלונה פתחה את העונה כקבוצה הכי בפורמה בספרד, ופורמט שלב הליגה בליגת האלופות אומר שעקביות מול שמונה יריבות שונות - ולא רק שרידה בבית של ארבע קבוצות - היא מה שקובע מי עולה אוטומטית. פתיחה מהירה חשובה עכשיו יותר מתמיד, וזה בדיוק מה שברצלונה סיפקה בשתי התחרויות בסתיו הזה.\n\n## הסיפור\n\nברצלונה נזקקה למחצית שנייה כדי למצוא את המשחק הטוב שלה מול גלאטסראיי באיסטנבול, אחרי שפיגרה בתוצאה, ולבסוף ניצחה 4-1. אנתוני גורדון כבש את שערו הראשון עבור המועדון בליגת האלופות, כחלק מהופעה שה-BBC תיאר כ'ברצלונה מבריקה' שמוחצת את מארחותיה. זהו הניצחון השני של ברצלונה משני משחקים בשלב הליגה העונה.\n\nבמישור המקומי, ברצלונה ניצחה את חטאפה 3-0 בבית בשבת, והיא ממשיכה רצף של אי-הפסד אחרי שמונה מחזורים בלה ליגה.\n\n## איפה ברצלונה עומדת\n\nברצלונה מובילה את לה ליגה עם 24 נקודות משמונה משחקים והפרש שערים של פלוס 27 - הטוב ביותר במובהק בליגה. אתלטיקו מדריד שנייה עם 19 נקודות, יחד עם ריאל בטיס השלישית, בעוד ריאל מדריד רביעית עם 18 נקודות מאותו מספר משחקים - כלומר היתרון של ברצלונה על המתחרות הקרובות אליה עומד כבר על חמש נקודות, כשרוב העונה עדיין לפניה. סביליה וראיאל סוסיאדד משלימות את השישייה המובילה. הפרש השערים של ברצלונה בולט במיוחד - פלוס 27 מרחיק אותה בבירור מכל קבוצה אחרת בראש הטבלה, סימן לא רק לכמה שהיא מנצחת אלא גם באיזו נוחות.\n\n## תת-עלילת האל-קלאסיקו\n\nהמקום של ברצלונה בראש לה ליגה מקבל משמעות נוספת לאור חדשות שיצאו השבוע ממדריד: ויניסיוס ז'וניור מריאל מדריד קיבל הרחקה של ארבעה משחקים, שתוציא אותו מהאל-קלאסיקו הבא מול ברצלונה. ז'וזה מוריניו, מאמן ריאל מדריד, מתח ביקורת על התזמון של ההרחקה, לפי הדיווחים על ההחלטה, בעוד שבברצלונה כנראה פשוט ישמחו על איום התקפי אחד פחות שיצטרכו להתמודד איתו כשהמשחק הזה יגיע. ההרחקה מגיעה בשבוע שבו ריאל מדריד של מוריניו הוכיחה שהיא יכולה לנצח גם כשלא הכול הולך לפי התוכנית: בליגת האלופות היא פיגרה מול רומא לפני שכבשה שלושה שערים בשבע הדקות האחרונות וניצחה 4-3, תזכורת לכך שהתקפה מוחלשת של מדריד כנראה לא תהיה בעיה פשוטה לתכנן נגדה כשהמשחק הזה סוף סוף יגיע.\n\n## מה לצפות בהמשך\n\nהלוח הקרוב של ברצלונה לא מעניק הפוגה. ביום שבת היא נוסעת לריאל בטיס - שלישית בלה ליגה - משחק חוץ שעלול להיות קשה מול קבוצה שגם היא בפורמה טובה: בטיס עצמה פתחה יפה את ליגת האלופות העונה, כשהפכה פיגור וניצחה את פורטו 3-2 בזכות פנדל של איסקו בדקה ה-84, ניצחון שני משני משחקים בשלב הליגה - תזכורת לכך שלא רק המעצמות הרגילות אוספות תוצאות בשלבים המוקדמים של התחרות.\n\nשלושה ימים אחרי המשחק מול בטיס, ברצלונה חוזרת לפעילות בליגת האלופות בחוץ מול פריז סן-ז'רמן, האלופה המכהנת מהעונה הקודמת, שגם היא פתחה את שלב הליגה העונה בשני ניצחונות משני משחקים, כולל ניצחון מרשים על מנצ'סטר סיטי. שתי תוצאות מול יריבות ברמה כזו, בספרד ובליגת האלופות בתוך ארבעה ימים, יעניקו תמונה ברורה יותר על עד כמה אמיתית הפורמה המוקדמת של ברצלונה, ואם הפרש השערים המרשים שלה הצטבר בעיקר מול יריבות חלשות או יחזיק מעמד גם מול מתמודדות אמיתיות לתארים."
+      },
+      "tags": [
+        "barcelona",
+        "champions-league",
+        "la-liga",
+        "el-clasico"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Gordon scores as 'brilliant Barcelona' thrash Galatasaray",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c9gk5lve2enjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "'Shameless' - Mourinho critical of Vinicius Jr ban timing",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Real Madrid stun Roma after dramatic late comeback",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Isco snatches late Betis win as they edge past Porto",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "champions-league-matchday-wrap",
+      "kind": "news",
+      "en": {
+        "headline": "PSG Stun Man City as Champions League Delivers a Wild Night",
+        "scroll": "Paris Saint-Germain beat Manchester City 4-2 to stay perfect in the Champions League, as Aston Villa set a club record and Liverpool's Barcola scored a hat-trick.",
+        "coffee": "Defending champions Paris Saint-Germain made it two wins from two in this season's Champions League by beating Manchester City 4-2 at the Etihad Stadium, in a game played on Pep Guardiola's return to the ground. City fought back but ultimately fell short against what the BBC described as a PSG side playing on \"a different level,\" raising questions about whether they are building one of the great modern European dynasties.\n\nElsewhere, it was a night of big scorelines. Aston Villa recorded their biggest-ever win in a European competition, hammering Fenerbahce 6-0 with Nicolas Jackson and Ross Barkley each scoring twice. In Austria, Liverpool's Bradley Barcola scored his first hat-trick for the club as they beat LASK 6-3, while Real Madrid produced a dramatic late comeback, scoring three goals in the final seven minutes to beat Roma 4-3 and give manager Jose Mourinho a win on his return there.\n\nIt wasn't all good news: Manchester United's miserable run continued with a 2-0 defeat away at Atletico Madrid, where Leny Yoro was sent off and defender Lisandro Martinez's post-match comments about the club's hierarchy have caused a stir.",
+        "deep": "## Background\n\nThe Champions League's \"league phase\" format means every one of the 36 entrants plays eight different opponents before the traditional knockout rounds begin, with only the top eight guaranteed safe passage into the round of 16. Two games in, the early table is starting to take shape — and this week's matchday produced some of the most dramatic and lopsided scorelines of the season so far.\n\n## PSG's Statement Win\n\nThe headline result came at the Etihad Stadium, where Paris Saint-Germain — chasing a third successive Champions League title — beat Manchester City 4-2. It was City's first competitive game back at the Etihad since Pep Guardiola's much-discussed return to the touchline there, and City did not go down without a fight, but PSG's quality told in the end. BBC's Phil McNulty described a \"game of glorious chaos,\" while another report framed the result as evidence PSG are \"on a different level\" to most of Europe, prompting comparisons with the continent's great dynasties of the past. It is PSG's second win from two in this season's league phase.\n\n## Villa, Barcola and Real Madrid's Theatre\n\nAston Villa produced the standout scoreline of the night, routing Fenerbahce 6-0 at Villa Park — the club's biggest-ever win in European competition. Nicolas Jackson, continuing his fine goalscoring form, scored twice, as did Ross Barkley, in what BBC called an \"impressive Champions League win\" as part of a broader Villa revival this season.\n\nIn Austria, Liverpool beat LASK 6-3 away from home, with Bradley Barcola scoring his first senior hat-trick and his first goals for the club. It was a mayhem-filled match for Liverpool, by BBC's description, but Barcola's treble answered the questions that had surrounded his early-season form.\n\nPerhaps the most dramatic match of the night came in Rome, where Real Madrid trailed Roma before scoring three goals in the final seven minutes to win 4-3. The result handed manager Jose Mourinho a win on his first competitive return to Roma, the club he previously managed, completing what BBC called Real Madrid's \"latest dramatic Champions League comeback.\"\n\nElsewhere, there were eye-catching results further down the table: Bodo/Glimt, bouncing back from a heavy defeat to Bayern Munich, beat Borussia Dortmund 1-0; Norwegian side Viking snatched a 3-3 draw against six-time European champions Bayern with a 90th-minute equaliser; and Club Brugge's Nicolo Tresoldi scored a hat-trick as his side beat Inter Milan 4-3, extending Inter's Champions League losing run to four matches — a first in the club's history.\n\n## Manchester United's Troubles\n\nNot every big club had a night to enjoy. Manchester United lost 2-0 away at Atletico Madrid, conceding in the first minute and finishing the game with ten men after Leny Yoro was sent off — their fifth game without a win. The aftermath has been noisy: defender Lisandro Martinez launched a scathing attack on the club's hierarchy after the game, before apologising and saying the comments came \"out of anger and frustration.\" Pundits on Match of the Day suggested the damage with his team-mates and the dressing room may already be done, and his long-term future at the club is reportedly in doubt.\n\n## What to Watch Next\n\nWith two rounds of the league phase complete, PSG and Barcelona (covered separately in this brief) are among the sides with perfect records, while Manchester United and Inter Milan face mounting pressure to arrest poor runs before the table firms up. The next matchday will show whether Villa's and Liverpool's big wins were the start of sustained form or one-off results against weaker opposition, and whether Manchester City can respond to a chastening night in front of their own fans."
+      },
+      "he": {
+        "headline": "פריז סן-ז'רמן מפתיעה את מנצ'סטר סיטי בלילה פרוע בליגת האלופות",
+        "scroll": "פריז סן-ז'רמן ניצחה את מנצ'סטר סיטי 4-2 ונשארה ללא תבוסה בליגת האלופות, כשאסטון וילה קבעה שיא מועדון ובארקולה מליברפול כבש האט-טריק.",
+        "coffee": "האלופה המכהנת פריז סן-ז'רמן רשמה ניצחון שני משני משחקים בעונה הנוכחית של ליגת האלופות, כשגברה על מנצ'סטר סיטי 4-2 באיתיחאד, במשחק שהתקיים בשובו של פפ גווארדיולה לאצטדיון. סיטי נלחמה בחזרה אך בסופו של דבר נכנעה למה שה-BBC תיאר כקבוצת PSG שמשחקת 'ברמה אחרת', מה שמעלה שאלות אם היא בונה לעצמה אחת השושלות האירופיות הגדולות של התקופה המודרנית.\n\nבמקומות אחרים, היה לילה של תוצאות גבוהות. אסטון וילה רשמה את הניצחון הגדול ביותר בתולדותיה בתחרות אירופית, כשגברה על פנרבחצ'ה 6-0, עם זוג שערים לכל אחד מניקולאס ג'קסון ורוס בארקלי. באוסטריה, בראדלי בארקולה מליברפול כבש האט-טריק ראשון עבור המועדון כשהקבוצה גברה על LASK 6-3, וריאל מדריד הפיקה קאמבק דרמטי בדקות הסיום, כשכבשה שלושה שערים בשבע הדקות האחרונות כדי לנצח את רומא 4-3 ולהעניק למאמן ז'וזה מוריניו ניצחון בשובו לשם.\n\nלא הכול היה חדשות טובות: הרצף הקשה של מנצ'סטר יונייטד נמשך עם הפסד 2-0 בחוץ לאתלטיקו מדריד, שם הורחק לני יורו, וההערות שאחרי המשחק של הבלם ליסנדרו מרטינס על הנהלת המועדון עוררו סערה.",
+        "deep": "## רקע\n\nפורמט 'שלב הליגה' של ליגת האלופות אומר שכל אחת מ-36 הקבוצות המשתתפות משחקת שמונה יריבות שונות לפני שמתחיל שלב הנוקאאוט המסורתי, כששמונה הראשונות בלבד מובטחות מעבר ישיר לשלב ה-16. אחרי שני מחזורים, הטבלה המוקדמת מתחילה לקבל צורה - והמחזור השבוע הפיק כמה מהתוצאות הדרמטיות והחד-צדדיות ביותר של העונה עד כה.\n\n## ההצהרה של PSG\n\nהתוצאה הכי בולטת הגיעה באיתיחאד, שם פריז סן-ז'רמן - בדרך לתואר שלישי ברציפות בליגת האלופות - ניצחה את מנצ'סטר סיטי 4-2. זה היה המשחק התחרותי הראשון של סיטי באיתיחאד מאז שובו הנדון של פפ גווארדיולה לקווי הצד שם, וסיטי לא ויתרה בקלות, אבל האיכות של PSG הכריעה בסוף. פיל מקנאלטי מה-BBC תיאר 'משחק של כאוס מפואר', בעוד דיווח אחר תיאר את התוצאה כהוכחה ש-PSG נמצאת 'ברמה אחרת' מרוב אירופה, מה שמעורר השוואות עם השושלות הגדולות של היבשת בעבר. זהו ניצחון שני מתוך שני משחקים ל-PSG בשלב הליגה העונה.\n\n## וילה, בארקולה והדרמה של ריאל מדריד\n\nאסטון וילה הפיקה את התוצאה הבולטת ביותר של הלילה, כשהביסה את פנרבחצ'ה 6-0 בוילה פארק - הניצחון הגדול ביותר בתולדות המועדון בתחרות אירופית. ניקולאס ג'קסון, שממשיך בפורמה הכיבושית הטובה שלו, כבש פעמיים, וכך גם רוס בארקלי, במה שה-BBC כינה 'ניצחון מרשים בליגת האלופות' כחלק מהתאוששות רחבה יותר של וילה העונה.\n\nבאוסטריה, ליברפול ניצחה את LASK 6-3 בחוץ, כשהחתימה הקיצית בראדלי בארקולה כבש האט-טריק בכיר ראשון וגם את שעריו הראשונים עבור המועדון. זה היה משחק מטורף עבור ליברפול, לפי תיאור ה-BBC, אבל ההאט-טריק של בארקולה ענה על השאלות שליוו את פתיחת העונה שלו.\n\nאולי המשחק הדרמטי ביותר של הלילה התרחש ברומא, שם ריאל מדריד פיגרה מול רומא לפני שכבשה שלושה שערים בשבע הדקות האחרונות וניצחה 4-3. התוצאה העניקה למאמן ז'וזה מוריניו ניצחון בשובו התחרותי הראשון לרומא, המועדון שאימן בעבר, והשלימה את מה שה-BBC כינה 'הקאמבק הדרמטי האחרון של ריאל מדריד בליגת האלופות'.\n\nבמקומות נוספים בטבלה היו תוצאות מעניינות: בודה/גלימט, שמתאוששת מהפסד כבד לבאיירן מינכן, ניצחה את בורוסיה דורטמונד 1-0; הקבוצה הנורווגית ויקינג חטפה תיקו 3-3 מול באיירן מינכן, זוכת שישה תארי אליפות אירופה, בזכות שער השוואה בדקה ה-90; וניקולו טרזולדי מקלאב ברוז' כבש האט-טריק כשקבוצתו ניצחה את אינטר מילאנו 4-3, מה שמאריך את רצף התבוסות של אינטר בליגת האלופות לארבעה משחקים - פעם ראשונה בתולדות המועדון.\n\n## הצרות של מנצ'סטר יונייטד\n\nלא לכל המועדונים הגדולים היה לילה נעים. מנצ'סטר יונייטד הפסידה 2-0 בחוץ לאתלטיקו מדריד, ספגה שער כבר בדקה הראשונה וסיימה את המשחק בעשרה שחקנים אחרי שלני יורו הורחק - המשחק החמישי שלה ברצף בלי ניצחון. ההמשך היה רועש: הבלם ליסנדרו מרטינס יצא בהתקפה חריפה על הנהלת המועדון אחרי המשחק, לפני שהתנצל ואמר שהדברים נאמרו 'מתוך כעס ותסכול'. פרשנים בתוכנית Match of the Day העריכו שהנזק מול חבריו לקבוצה ובחדר ההלבשה אולי כבר נעשה, ועתידו הארוך-טווח במועדון מדווח כעומד בסימן שאלה.\n\n## מה לצפות בהמשך\n\nעם סיום שני מחזורים בשלב הליגה, PSG וברצלונה (שמסוקרת בנפרד בגיליון הזה) נמנות עם הקבוצות עם תיק נקי, בעוד מנצ'סטר יונייטד ואינטר מילאנו ניצבות בפני לחץ גובר לעצור רצפים גרועים לפני שהטבלה תתייצב. המחזור הבא יראה אם הניצחונות הגדולים של וילה וליברפול היו תחילתה של פורמה יציבה או תוצאות חד-פעמיות מול יריבות חלשות יותר, ואם מנצ'סטר סיטי תצליח להגיב ללילה מרגיז מול הקהל שלה."
+      },
+      "tags": [
+        "champions-league",
+        "psg",
+        "manchester-city",
+        "manchester-united"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "'Players won't like it' - Martinez apologises, but is the damage done?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Jackson steps up again as Aston Villa revival continues",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Martinez outburst came out of 'anger and frustration'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "PSG on 'different level' - are they building greatest European dynasty?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Real Madrid stun Roma after dramatic late comeback",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Bodo/Glimt impress in win over Dortmund",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqly0nd6xnp1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Martinez's future at Man Utd in doubt - Thursday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Villa rewrite the record books as they hit Fenerbahce for six",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c65yn8d48ezeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Man City show fight but fall short of fightback against slick PSG",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqly0gnk4xkgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Viking snatch draw against Bayern Munich in six-goal thriller",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw1m408z3yj5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Yoro sent off as Man Utd stumble to defeat against Atletico Madrid",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "inter-miami-clinch-playoffs",
+      "kind": "news",
+      "en": {
+        "headline": "Messi Sets Up Win as Inter Miami Clinch MLS Playoff Spot",
+        "scroll": "Lionel Messi provided the assists as Inter Miami beat New York City FC 2-0, clinching the club's third straight MLS Cup Playoffs berth.",
+        "coffee": "Lionel Messi provided the assists as Inter Miami beat New York City FC 2-0 at home on Wednesday night, a result that clinched the club's spot in the Audi 2026 MLS Cup Playoffs for a third straight season. Messi set up the opening goal just before half-time and had a hand in the second as Inter Miami controlled the game under head coach Kily Gonzalez.\n\nThe win was also reported to have Inter Miami consolidating second place in the MLS standings, continuing their strong form heading into the postseason. For a club built so heavily around Messi's influence, a comfortable home win that books a playoff place with games still to spare is exactly the kind of result they'll want heading into the business end of the season.\n\nInter Miami are back in action on Saturday, away at Atlanta United, as they look to build momentum before the playoffs begin.",
+        "deep": "## Background\n\nSince Lionel Messi's move to Inter Miami, the club has gone from MLS also-rans to a team expected to make the playoffs every year, and this season has been no exception. Qualification for the Audi MLS Cup Playoffs, the league's postseason tournament, is earned by finishing high enough in the Eastern or Western Conference standings over the course of the regular season — and Wednesday's win took care of that question for Inter Miami with games still to play.\n\n## The Story\n\nInter Miami beat New York City FC 2-0 at home, with Lionel Messi again at the centre of things, setting up the opening goal just before half-time and contributing to a performance that multiple outlets described as a continuation of Inter Miami's \"right path\" under head coach Kily Gonzalez. The win was enough to clinch a playoff berth — the club's third consecutive postseason appearance — with reporting also describing Inter Miami as consolidating second place in the overall MLS standings. The margin of victory tells only part of the story: a clean sheet at the back paired with two created goals at the other end is the kind of balanced performance clubs want to hit right as the calendar turns toward the postseason, rather than a result built entirely on one moment of quality.\n\nIt continues a pattern that has defined Messi's time in Miami: moments of individual quality, not always goals himself, directly shaping results that matter for the team as a whole. New York City FC, by contrast, had little answer for Inter Miami's control of the game and head home with their own playoff picture no clearer.\n\n## Why It Matters\n\nClinching a playoff spot with games to spare matters for more than just pride. It gives Inter Miami's coaching staff room to manage minutes for key players — Messi included — over the closing weeks of the regular season, rather than needing to treat every remaining fixture as must-win. For a squad that has dealt with the usual demands of balancing MLS commitments against Messi's other obligations, that flexibility can be valuable heading into a playoff format where fresh legs often matter as much as regular-season form.\n\nIt is also another data point in the broader story of MLS since Messi's arrival: Inter Miami reaching the playoffs in three straight seasons is exactly the kind of sustained success the league's biggest signing was meant to help deliver, both competitively and commercially.\n\n## Why the Standing Matters\n\nThe MLS Cup Playoffs are a knockout tournament, so where a team finishes in the regular-season standings shapes everything that follows: higher seeds generally get home fixtures in the early rounds, and draw opponents based on where they land in the conference table. That is why reports framing Wednesday's result as Inter Miami \"consolidating second place\" matter beyond the simple fact of qualifying — in a single-elimination format, the difference between finishing second and finishing lower down the standings can be the difference between a favourable run to the final and an early exit on the road.\n\n## What to Watch Next\n\nInter Miami's regular-season business isn't quite finished. They travel to face Atlanta United on Saturday, with seeding for the playoffs — not just qualification — still to be settled. Where Inter Miami ultimately finish in the standings will shape their path through the postseason, including potential home-field advantage in early rounds. With Messi healthy and in the kind of form that produces moments like Wednesday's two assists, Inter Miami will go into the playoffs as one of the teams other sides would rather avoid."
+      },
+      "he": {
+        "headline": "מסי מבשל ניצחון ואינטר מיאמי מבטיחה מקום בפלייאוף ה-MLS",
+        "scroll": "ליאו מסי בישל את השערים כשאינטר מיאמי ניצחה 2-0 את ניו יורק סיטי, והבטיחה מקום בפלייאוף ה-MLS בפעם השלישית ברציפות.",
+        "coffee": "ליאו מסי בישל את שני השערים כשאינטר מיאמי ניצחה 2-0 את ניו יורק סיטי בבית, ביום רביעי בלילה - תוצאה שהבטיחה למועדון מקום בפלייאוף ה-MLS (Audi 2026 MLS Cup Playoffs) בפעם השלישית ברציפות. מסי בישל את השער הראשון רגע לפני המחצית, והיה מעורב גם בשער השני, כשאינטר מיאמי שלטה במשחק תחת המאמן קילי גונזלס.\n\nלפי הדיווחים, הניצחון גם ביסס את מקומה השני של אינטר מיאמי בטבלת ה-MLS, המשך לפורמה טובה לקראת הפלייאוף. עבור מועדון שבנוי כל כך סביב ההשפעה של מסי, ניצחון בית נוח שמבטיח מקום בפלייאוף כשעוד נותרו משחקים הוא בדיוק סוג התוצאה שהם רצו לקראת החלק הקובע של העונה.\n\nאינטר מיאמי תחזור לפעולה ביום שבת, בחוץ מול אטלנטה יונייטד, כשהיא מנסה לבנות תאוצה לפני תחילת הפלייאוף.",
+        "deep": "## רקע\n\nמאז המעבר של ליאו מסי לאינטר מיאמי, המועדון עבר ממעמד של קבוצה חלשה ב-MLS לקבוצה שמצפים ממנה להגיע לפלייאוף כל שנה, והעונה הזו אינה יוצאת דופן. ההעפלה לפלייאוף (Audi MLS Cup Playoffs), תחרות הגמר העונתית של הליגה, נקבעת לפי מיקום גבוה מספיק בטבלת הקונפרנס המזרחי או המערבי לאורך העונה הסדירה - והניצחון ביום רביעי סגר את השאלה הזו עבור אינטר מיאמי כשעוד נותרו משחקים.\n\n## הסיפור\n\nאינטר מיאמי ניצחה 2-0 את ניו יורק סיטי בבית, כשליאו מסי שוב במרכז העניינים - בישל את השער הראשון רגע לפני המחצית, ותרם להופעה שכמה גופי תקשורת תיארו כהמשך ל'דרך הנכונה' של אינטר מיאמי תחת המאמן קילי גונזלס. הניצחון הספיק כדי להבטיח מקום בפלייאוף - ההופעה השלישית ברציפות של המועדון בפוסט-סיזון - כשדיווחים תיארו את אינטר מיאמי גם כמבססת את מקומה השני בטבלת ה-MLS הכללית. יחס התוצאה מספר רק חלק מהסיפור: שער נקי בהגנה יחד עם שתי הזדמנויות שהוא יצר בהתקפה הם סוג ההופעה המאוזנת שמועדונים רוצים לייצר בדיוק כשהלוח השנה פונה לעונת הפוסט-סיזון, במקום תוצאה שמבוססת כולה על רגע איכות בודד.\n\nזה ממשיך דפוס שמאפיין את תקופתו של מסי במיאמי: רגעי איכות אישית, לא תמיד שערים שלו עצמו, שמעצבים ישירות תוצאות שחשובות לקבוצה כולה. ניו יורק סיטי, לעומת זאת, לא ממש מצאה תשובה לשליטה של אינטר מיאמי במשחק, וחוזרת הביתה כשתמונת הפלייאוף שלה עצמה לא התבהרה.\n\n## למה זה חשוב\n\nהבטחת מקום בפלייאוף כשעוד נותרו משחקים חשובה לא רק מבחינת גאווה. היא מעניקה לצוות האימון של אינטר מיאמי מרחב לנהל את דקות המשחק של שחקנים מרכזיים - מסי בכלל זה - בשבועות הנותרים של העונה הסדירה, במקום להתייחס לכל משחק נותר כ'חובה לנצח'. עבור סגל שמתמודד עם הדרישות הרגילות של איזון בין התחייבויות ב-MLS לבין מחויבויות אחרות של מסי, הגמישות הזו יכולה להיות משמעותית לקראת פורמט פלייאוף שבו רגליים טריות חשובות לא פחות מהפורמה בעונה הסדירה.\n\nזהו גם עוד נתון בסיפור הרחב יותר של ה-MLS מאז הגעתו של מסי: הגעה לפלייאוף בשלוש עונות רצופות היא בדיוק סוג ההצלחה המתמשכת שההחתמה הגדולה ביותר של הליגה אמורה הייתה לספק, גם מבחינה תחרותית וגם מסחרית.\n\n## למה המיקום בטבלה חשוב\n\nפלייאוף ה-MLS הוא טורניר נוקאאוט, כך שהמיקום הסופי בטבלת העונה הסדירה משפיע על כל מה שבא אחריו: קבוצות מדורגות גבוה בדרך כלל מקבלות יתרון של משחק ביתי בסיבובים המוקדמים, והיריבות נקבעות לפי המיקום בטבלת הקונפרנס. זו הסיבה שדיווחים שמתארים את תוצאת יום רביעי כאינטר מיאמי ש'מבססת את המקום השני' חשובים מעבר לעובדה הפשוטה של ההעפלה - בפורמט נוקאאוט, ההבדל בין סיום במקום השני לבין סיום נמוך יותר בטבלה יכול להיות ההבדל בין מסלול נוח לגמר לבין הדחה מוקדמת במשחק חוץ.\n\n## מה לצפות בהמשך\n\nהעונה הסדירה של אינטר מיאמי עוד לא הסתיימה לגמרי. היא נוסעת ביום שבת למשחק חוץ מול אטלנטה יונייטד, כשהדירוג לקראת הפלייאוף - לא רק ההעפלה אליו - עדיין לא נקבע. המקום הסופי של אינטר מיאמי בטבלה ישפיע על מסלולה בפוסט-סיזון, כולל יתרון אפשרי של משחק ביתי בסיבובים המוקדמים. עם מסי בריא ובפורמה שמייצרת רגעים כמו שני הבישולים של יום רביעי, אינטר מיאמי תיכנס לפלייאוף כאחת הקבוצות שיריבות אחרות היו מעדיפות להימנע מהן."
+      },
+      "tags": [
+        "inter-miami",
+        "mls",
+        "lionel-messi",
+        "playoffs"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Messi notches assists as Inter Miami beats NYCFC 2-0, clinches postseason - Miami Herald",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UNlhXc3owcExBUUFTUVNnbUp4dm5PSmpxajhrU0MzWnIzdUZYMDFHZXAwLXFRY2JLeHFmSUIwSWl6amNtOWxBaU9VRzdxZUNZcU0zZTB2MS1MSnBZem1IVVh0S0ptd2JuWDVWZks3UUE2ZHV5UTRSeTBYNXjSAXxBVV95cUxQVi1FUWJ5VlNIczBHaXpGQXpiT3JoTkNpN2pReGFCb3lwazFIZGFheS00MlExZTQtTG1qMXJQNV9RQjNadzRKTTdEekhlTDFVMFpsUDI1RFotb0hKeVU1UlJ1TEV5c2ROOEs5Wmwyc2VXZG1GRzY5WWx6eVky?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi shines in 2-0 win, Inter Miami continue on the right path under Kily Gonzalez and clinch MLS Playoffs spot - MARCA",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRDhkak5CWk5iNlYxSmFFS3BXMkkyYnJuV0ZVLVN1OU5yZ21jbGJQQzE0ZGctT0RPWmtxV2VCeUpUN01GVlg5emVPY3doM0ExX2VaeFBxUUloTVdhbm5SSVE0VElJRlQzMnowVWtWVkdCTlY3aHZac0UzcmVyOXJwZ1NsbjZDdjBhbng0Sk5xMFZyd0l4cTJHWl9FbFJHSFNRc01jYTV5S2lxVTAwbUlEVF9GaVR2ejNZVHRZN0ZzVlA5MkRpMDl6WmFGb19YN1JJOUliekVjNUFJZmZ6aHQ4bTVIeEtaOEZmUEFFWlptMmJQcnZhbkNmX2xKd0tQTU1EOGfSAYICQVVfeXFMT0syMC1HLTNRcHQ3b0UyeDVoUDg5M2gzclpnbzkzN1IxU1hHX3c4V1JQeUdvUlVTMmNBbTZCaS1uS1ZfNUpYd1cyU1JNWTl4QzV5YjhUcmdnVmhhTFFPRlhxazE0LVpOa2FtcGVjNGtVSTRXWVZCbVhSMGFwNHN2QjAtNzJiZWI3Y0F0S2pXakdsQjB4MVBTNF9yU2NnMEF4LVBkeHRoaVA2YkcyOFZDeG04djZYU21JcWFWUkd1M0J0eWJiY0xlaEV6WDJHTEh6T2dkdk00bi1lUXFFdjZVcWdTdjgycFF0eVFLZW40ZEU0dlNoZTdZWHNiQlFwQ0NIbW9R?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Inter Miami blank NYCFC, clinch third consecutive playoff spot - Field Level Media",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQanRreU4weV9ZM2V3cG9admQwV19fV3E4Vng4TWFZdUhzbjI3VlNMRVFrczdZdkFjNjd1WWl4bHRzYWNWOVVSTzkwcmdLMDZ1N3l3RVh6NWNOSWFRaDdWUFVKX1VoeGFFa29NSlJETmhZWndpVTFpbnVFdTdEbWxRNEN1T0ZVMWNCdVNkczlMZjEzT1pwZ1JlSE9R?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Inter Miami beat New York City FC, consolidating second place in MLS - Laodong.vn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1hqY2N0aHF0Y3V6OWk5RnBUNWlldGFfSmNnNmE5ZUdvcENXelVpbThMSV9GcE9CSm9qNG5VSjNRczJoaFQtdmFMM2locllpT2xqVzNGMVRHcW45UzRLTFpGV3F3cGw4NG1BekJSa1k0UDFGSVFUVFJRbXVmbVpEUWY4WGUtOE5Ha2FDMWR0cE1GUWtmTjRqUmRfb05hWjBvelRuemh0aU9HV28?oc=5"
+        }
+      ]
+    }
+  ],
+  "israeli_players": [
+    {
+      "name": "Deni Avdija",
+      "team": "Portland Trail Blazers",
+      "en": "In Portland's preseason win over the Sacramento Kings on Oct. 13, Avdija scored 26 points on 9-of-13 shooting with 9 rebounds and 4 assists, and he was also ranked No. 27 on The Ringer's NBA Top 100 list this week.",
+      "he": "בניצחון של פורטלנד על סקרמנטו קינגס במשחק הכנה ב-13 באוקטובר, אבדיה כבש 26 נקודות ב-9 קליעות מתוך 13, עם 9 ריבאונדים ו-4 אסיסטים, ובנוסף דורג במקום ה-27 ברשימת ה-NBA Top 100 של The Ringer השבוע."
+    },
+    {
+      "name": "Ben Saraf",
+      "team": "Brooklyn Nets",
+      "en": "The available coverage only lists preseason matchups for Saraf, against the Phoenix Suns and Dolomiti Energia Trento, without any reported stats or box score — so there's no concrete update on his performance to share today.",
+      "he": "הסיקור הזמין מזכיר רק משחקי הכנה של סרף, מול פיניקס סאנס ומול דולומיטי אנרג'יה טרנטו, בלי נתונים או תקציר קופסה מדווחים - כך שאין היום עדכון קונקרטי על הביצועים שלו."
+    }
+  ],
+  "match_day": {
+    "is_match_day": false,
+    "events": []
+  }
+}
