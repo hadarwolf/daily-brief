@@ -18,62 +18,63 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Horizons Middle East & Africa 10/15/2026 (Video)",
-     "published": "2026-10-15T07:11:10+00:00"
+     "title": "US Ambassador to India on Refinery Cooperation",
+     "published": "2026-10-15T07:29:15+00:00",
+     "summary": "US Ambassador Sergio Gor highlights growing US-India refinery cooperation at Bloomberg’s New Economy Forum. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "Container Ship Sinks in Strait of Hormuz as Attacks Escalate",
+     "published": "2026-10-15T07:11:10+00:00",
+     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "Can Digital Infrastructure Transform Economies?",
      "published": "2026-10-15T06:51:28+00:00",
      "summary": "Reuben Abraham, CEO, Artha Global and Kamal Quadir, Founder & CEO, bKash discuss how digital public infrastructure can reshape developing economies and whether India’s model can be replicated elsewhere with Bloomberg’s Jeanette Rodrigues at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "AI Rally Runs Into Inflation Reality",
      "published": "2026-10-15T06:42:33+00:00",
      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Five Questions With Aryaman Birla",
      "published": "2026-10-15T06:35:15+00:00",
      "summary": "From player to team owner, Aryaman Birla is returning to cricket but in a different avatar. Sanjai P R asks him about life beyond the pitch in Five Questions with Aryaman Birla. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Molavi: Saudis & Houthis Can Hit Hard; Not End War",
      "published": "2026-10-15T06:17:07+00:00",
      "summary": "Oil prices were low as concerns eased in the Middle East over supply disruptions. This is after the Houthi attacks on Saudi Arabia did not cause any interruptions that markets had feared. The IEA also raised its forecast for the war's impact on supply. Meanwhile the question looms of US military support to Saudi Arabia in their fight against the Iran-backed rebels in Yemen. Afshin Molavi, senior f"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "NYU's Marcus on Why AI May Be a 'Flawed Tool'",
      "published": "2026-10-15T06:16:59+00:00",
      "summary": "Gary Marcus, Emeritus Professor of Psychology at NYU, discusses whether AI is having a measurable impact on productivity, and shares his thoughts on why LLMs could be considered a \"flawed tool.\" He speaks at Bloomberg's New Economy Forum in New Delhi. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Young: Houthis Threat Not New But Tactics Elevated",
      "published": "2026-10-15T06:14:36+00:00",
      "summary": "Oil prices were low as concerns eased in the Middle East over supply disruptions. The IEA also raised its forecast for the war's impact on supply. Karen Young, Senior Research Scholar at Columbia University's Center on Global Energy Policy spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa over the lack of disruptions caused by the Houthi attacks on Saudi Aramco’s facilities. (So"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Gor: US-India Close to Landing Trade Deal",
      "published": "2026-10-15T06:10:51+00:00",
      "summary": "T.H. Sergio Gor, Ambassador to the Republic of India, United States speaks with Bloomberg's Saleha Mohsin at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Ship Fuel Market Fragments as Middle East Conflict Hits Trade",
      "published": "2026-10-15T06:00:45+00:00",
      "summary": "Shipowners are facing an increasingly fragmented fuel market as disruptions triggered by the Middle East conflict raise concerns about the availability and quality of supply."
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "DP World CEO Says Massive Opportunities in India",
-     "published": "2026-10-15T05:58:18+00:00",
-     "summary": "DP World Group CEO Yuvraj Narayan says economic growth is driving massive opportunities in India. Speaking with Bloomberg's Haslinda Amin on the sidelines of the 2026 Bloomberg New Economy Forum in New Delhi, Narayan noted that as the world diversifies away from traditional sources of supply, India offers major potential across its entire supply chain infrastructure. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#10",
@@ -119,9 +120,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#17",
-     "title": "Stock Losses Deepen on Chip Rout, Treasuries Rally: Markets Wrap",
+     "title": "Stocks Slide as AI Rout Drives Investors to Bonds: Markets Wrap",
      "published": "2026-10-14T22:04:59+00:00",
-     "summary": "A global equity selloff deepened as chip stocks plunged on Wall Street and in Asia, further unwinding this year’s blistering rally in the artificial intelligence trade. Treasuries gained on haven demand, while the dollar weakened."
+     "summary": "Global equities fell as a selloff in the artificial-intelligence trade gathered speed and pushed investors toward the safety of bonds."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -143,15 +144,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "TSMC profits surge amid relentless AI demand",
-     "published": "2026-10-15T06:46:19+00:00",
-     "summary": "World’s leading contract chipmaker beats estimates in third quarter"
+     "title": "Global stocks sell-off deepens as chipmakers tumble",
+     "published": "2026-10-15T07:30:00+00:00",
+     "summary": "European and Asian equities slide as investors question durability of AI boom"
     },
     {
      "ref": "ft_home#1",
-     "title": "Global AI sell-off deepens as Asian markets tumble",
-     "published": "2026-10-15T04:04:16+00:00",
-     "summary": "Sharp falls trigger trading halt on South Korea’s Kospi and Japan’s Nikkei 225 sinks 5%, following Wall Street lower"
+     "title": "TSMC profits surge amid relentless AI demand",
+     "published": "2026-10-15T06:46:19+00:00",
+     "summary": "World’s leading contract chipmaker beats estimates in third quarter"
     },
     {
      "ref": "ft_home#2",
@@ -185,18 +186,24 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#7",
+     "title": "French debt worries spill into stocks, driving biggest underperformance since 2010",
+     "published": "2026-10-15T04:00:29+00:00",
+     "summary": "Investors demand big discounts against regional peers to reflect troubled public finances and looming presidential election"
+    },
+    {
+     "ref": "ft_home#8",
      "title": "Salmon producers start feeding chicken to fish",
      "published": "2026-10-15T04:00:29+00:00",
      "summary": "Fears of consumer backlash pushed aside as producers respond to surge in fishmeal prices"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "Anthropic tells investors its quarterly revenue jumped 50%",
      "published": "2026-10-15T00:59:36+00:00",
      "summary": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#10",
      "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
      "published": "2026-10-14T23:09:30+00:00",
      "summary": "European officials balked at proposal made by Donald Trump’s negotiators during meeting in Miami"
@@ -209,9 +216,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "כלכלת בריטניה מפתיעה: צמיחה טובה מהתחזיות - חודש רביעי ברציפות",
-     "published": "2026-10-15T07:05:00+00:00",
-     "summary": "מניות השבבים הפילו את בורסות אסיה: טוקיו איבדה 5%; סיאול נפלה בכמעט 9%, מניות SK הייניקס וסמסונג נפלו ביותר מ-11% ■ מחירי הנפט יורדים ביותר מ-1%; הברנט נסוג ל-104 דולר לחבית ■ דיווח: בדרך להנפקה הכנסות אנתרופיק קפצו ל-16.8 מיליארד דולר ברבעון השלישי ■ נתוני אינפלציה גבוהים מהתחזיות טילטלו את וול סטריט; נאסד\"ק נסוג ב-1.8%"
+     "title": "ירידות באירופה; כלכלת בריטניה מפתיעה עם צמיחה טובה מהתחזיות חודש רביעי ברציפות",
+     "published": "2026-10-15T07:20:00+00:00",
+     "summary": "התשואה על אג\"ח בריטיות ל-10 שנים נופלת; היורו והליש\"ט מתחזקים מול הדולר ■ מניות השבבים הפילו את בורסות אסיה: טוקיו איבדה 5%; סיאול נפלה בכמעט 9%, מניות SK הייניקס וסמסונג נפלו ביותר מ-11% ■ מחירי הנפט יורדים ביותר מ-1%; הברנט נסוג ל-104 דולר לחבית ■ דיווח: בדרך להנפקה הכנסות אנתרופיק קפצו ל-16.8 מיליארד דולר ברבעון השלישי"
     },
     {
      "ref": "themarker#1",
@@ -364,33 +371,33 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Gold Prices Rebound After Wednesday’s Slide",
+     "published": "2026-10-15T07:39:00+00:00",
+     "summary": "Gold prices rose in early European trading, recovering some ground after Wednesday’s selloff, but remained below $4,200 a troy ounce."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Oil Falls Despite Hormuz Shipping Attacks, Houthi Strikes on Saudi Arabia",
      "published": "2026-10-15T07:26:00+00:00",
      "summary": "Oil prices fell despite escalating Middle East hostilities amid Houthi strikes against Saudi Arabia and continued attacks on shipping in the Strait of Hormuz."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "European Indexes Mixed as AI Selloff Deepens",
      "published": "2026-10-15T07:23:00+00:00",
      "summary": "Europe’s stock indexes were mixed at open as a global selloff in AI-related equities hit the continent, and basic resources stocks fell sharply on lower metals prices—though telecoms and software showed resilience."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "Sterling Little Moved After U.K. GDP Data",
      "published": "2026-10-15T07:20:00+00:00",
      "summary": "Sterling was little moved after data showed the U.K. economy unexpectedly grew, albeit only slightly, in August."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Antofagasta Copper Production Rises",
      "published": "2026-10-15T06:50:00+00:00",
      "summary": "Output rose 7%, driven by higher production at its Los Pelambres mine in Chile."
-    },
-    {
-     "ref": "wsj_markets#4",
-     "title": "Copper Prices Fall Amid Stronger Dollar",
-     "published": "2026-10-15T05:57:00+00:00",
-     "summary": "Copper prices were lower as hotter-than-expected U.S. inflation data bolstered the dollar and Treasury yields, weighing on risk appetite"
     },
     {
      "ref": "wsj_markets#5",
@@ -518,9 +525,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4130.0498,
+   "last": 4132.4199,
    "prev_close": 4162.77,
-   "change_pct": -0.79,
+   "change_pct": -0.73,
    "as_of": "2026-10-15"
   },
   "SP500": {
@@ -532,23 +539,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1025,
+   "last": 3.0977,
    "prev_close": 3.0749,
-   "change_pct": 0.9,
+   "change_pct": 0.74,
    "as_of": "2026-10-15"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 104.17,
+   "last": 103.67,
    "prev_close": 106.06,
-   "change_pct": -1.78,
+   "change_pct": -2.25,
    "as_of": "2026-10-15"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81033.4375,
+   "last": 81281.2031,
    "prev_close": 81562.4922,
-   "change_pct": -0.65,
+   "change_pct": -0.34,
    "as_of": "2026-10-15"
   }
  },

@@ -24,9 +24,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#1",
-     "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-     "published": "2026-10-15T05:55:24+00:00",
-     "summary": "Associated Press News: Breaking News | Latest News Today AP News"
+     "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple - AP News",
+     "published": "2026-10-15T06:24:00+00:00",
+     "summary": "Teen accused of plotting mass shooting at Chicago-area Hindu temple AP News"
     },
     {
      "ref": "ap_world#2",
@@ -54,93 +54,93 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#6",
+     "title": "Prince Harry and Meghan to make first joint appearances since returning to UK - AP News",
+     "published": "2026-10-15T04:15:00+00:00",
+     "summary": "Prince Harry and Meghan to make first joint appearances since returning to UK AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "A deepened tech sell-off drags Asian stocks lower as markets in South Korea and Japan sink - AP News",
      "published": "2026-10-15T04:06:00+00:00",
      "summary": "A deepened tech sell-off drags Asian stocks lower as markets in South Korea and Japan sink AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "Everyone has the same question in the midterms — where's the beef? (And how much does it cost?) - AP News",
      "published": "2026-10-15T04:06:00+00:00",
      "summary": "Everyone has the same question in the midterms — where's the beef? (And how much does it cost?) AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "New China-North Korea bridge opens after more than a decade of delay - AP News",
      "published": "2026-10-15T03:43:00+00:00",
      "summary": "New China-North Korea bridge opens after more than a decade of delay AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "Trump defends gifted Air Force One from Qatar and makes 2nd Amendment pitch as he campaigns for GOP - AP News",
      "published": "2026-10-15T03:15:00+00:00",
      "summary": "Trump defends gifted Air Force One from Qatar and makes 2nd Amendment pitch as he campaigns for GOP AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say - AP News",
      "published": "2026-10-15T02:59:00+00:00",
      "summary": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls - AP News",
      "published": "2026-10-15T02:43:00+00:00",
      "summary": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#13",
      "title": "Chicago Catholics rally for prayer in Pope Leo’s hometown after his lung cancer diagnosis - AP News",
      "published": "2026-10-15T02:23:00+00:00",
      "summary": "Chicago Catholics rally for prayer in Pope Leo’s hometown after his lung cancer diagnosis AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
      "title": "Lawyers for New York man shot by ICE say officer fired into car without warning - AP News",
      "published": "2026-10-15T02:05:00+00:00",
      "summary": "Lawyers for New York man shot by ICE say officer fired into car without warning AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#15",
      "title": "Brazil’s Senate approves a shorter workweek in major win for Lula ahead of runoff - AP News",
      "published": "2026-10-15T01:55:00+00:00",
      "summary": "Brazil’s Senate approves a shorter workweek in major win for Lula ahead of runoff AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#16",
      "title": "North Korea says it tested cruise missiles designed to be fired from submarines - AP News",
      "published": "2026-10-15T01:47:00+00:00",
      "summary": "North Korea says it tested cruise missiles designed to be fired from submarines AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#17",
      "title": "From behind the podium, White House press secretaries had some memorable moments - AP News",
      "published": "2026-10-15T01:46:00+00:00",
      "summary": "From behind the podium, White House press secretaries had some memorable moments AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
      "title": "UK prosecutor labels Russell Brand a ruthless sexual predator as his sex assault trial begins - AP News",
      "published": "2026-10-15T01:46:00+00:00",
      "summary": "UK prosecutor labels Russell Brand a ruthless sexual predator as his sex assault trial begins AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "‘Cockroach’ movement leaders jailed for 5 days after scaling barricades at New Delhi protest - AP News",
      "published": "2026-10-15T01:36:00+00:00",
      "summary": "‘Cockroach’ movement leaders jailed for 5 days after scaling barricades at New Delhi protest AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "Indonesia’s top Muslim council opposes upcoming Andrea Bocelli concerts over Israel ties - AP News",
      "published": "2026-10-15T01:33:00+00:00",
      "summary": "Indonesia’s top Muslim council opposes upcoming Andrea Bocelli concerts over Israel ties AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple - AP News",
-     "published": "2026-10-15T01:29:00+00:00",
-     "summary": "Teen accused of plotting mass shooting at Chicago-area Hindu temple AP News"
     },
     {
      "ref": "ap_world#21",
@@ -150,21 +150,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#22",
-     "title": "Press Releases - AP News",
-     "published": "2026-10-15T01:19:09+00:00",
-     "summary": "Press Releases AP News"
-    },
-    {
-     "ref": "ap_world#23",
      "title": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here - AP News",
      "published": "2026-10-15T00:44:00+00:00",
      "summary": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#23",
      "title": "Riots erupt in Albania’s capital as students join anti-government movement - AP News",
      "published": "2026-10-15T00:40:00+00:00",
      "summary": "Riots erupt in Albania’s capital as students join anti-government movement AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "US coach who recorded young gymnasts undressing is sentenced to 90 years in prison - AP News",
+     "published": "2026-10-15T00:03:00+00:00",
+     "summary": "US coach who recorded young gymnasts undressing is sentenced to 90 years in prison AP News"
     }
    ]
   },
@@ -414,45 +414,45 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Entain gaming revenue rises 2% as domestic growth offsets hit from Brazil - Reuters",
-     "published": "2026-10-15T07:15:43+00:00",
-     "summary": "Entain gaming revenue rises 2% as domestic growth offsets hit from Brazil Reuters"
-    },
-    {
-     "ref": "reuters_world#1",
-     "title": "Romania's nominated prime minister secures support ahead of confidence vote - Reuters",
-     "published": "2026-10-15T06:52:00+00:00",
-     "summary": "Romania's nominated prime minister secures support ahead of confidence vote Reuters"
-    },
-    {
-     "ref": "reuters_world#2",
      "title": "Seventeen students, one teacher killed in school roof collapse in Pakistan - Reuters",
      "published": "2026-10-15T06:10:00+00:00",
      "summary": "Seventeen students, one teacher killed in school roof collapse in Pakistan Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#1",
      "title": "Zelenskiy says Ukraine will resume strikes on Russian refineries, FT reports - Reuters",
      "published": "2026-10-15T06:03:00+00:00",
      "summary": "Zelenskiy says Ukraine will resume strikes on Russian refineries, FT reports Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#2",
+     "title": "Germany's Klingbeil says support for Ukraine comes with reform expectations - Reuters",
+     "published": "2026-10-15T05:53:00+00:00",
+     "summary": "Germany's Klingbeil says support for Ukraine comes with reform expectations Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike - Reuters",
      "published": "2026-10-15T05:11:00+00:00",
      "summary": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#4",
      "title": "Bessent calls for World Bank reforms, including upstream oil and gas financing - Reuters",
      "published": "2026-10-15T05:01:00+00:00",
      "summary": "Bessent calls for World Bank reforms, including upstream oil and gas financing Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#5",
      "title": "This Chinese export boom really has legs – and wings - Reuters",
      "published": "2026-10-15T05:00:00+00:00",
      "summary": "This Chinese export boom really has legs – and wings Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
+     "title": "Prolonged war, renewed disruptions pose biggest risk to Middle East region, IMF says - Reuters",
+     "published": "2026-10-15T04:37:00+00:00",
+     "summary": "Prolonged war, renewed disruptions pose biggest risk to Middle East region, IMF says Reuters"
     },
     {
      "ref": "reuters_world#7",
