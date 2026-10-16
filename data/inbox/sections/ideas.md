@@ -225,12 +225,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Is Your Agent a Double Agent?",
      "published": "2026-10-13T11:18:29+00:00",
      "summary": "In the Manchurian Candidate a sleeper agent who has been brain-trained appears normal until a secret phrase–“Why don’t you pass the time by playing a little solitaire?”–triggers a state of hypnosis and control by the attackers. Connor Tabarrok, now with the AI safety firm Equistamp, has an excellent post on how this same technique can […] The post Is Your Agent a Double Agent? appeared first on Ma"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "*Lost Worlds*",
-     "published": "2026-10-13T07:28:20+00:00",
-     "summary": "The author is Patrick Wyman, and the subtitle is How Humans Tried, Failed, Succeeded, and Built Our World. An excellent book, it is a survey of (mostly) pre-Sumerian times, what we know about them, and how we have learned a lot lately. It is easy to read, yet the author properly stresses the complexity of […] The post *Lost Worlds* appeared first on Marginal REVOLUTION ."
     }
    ]
   },

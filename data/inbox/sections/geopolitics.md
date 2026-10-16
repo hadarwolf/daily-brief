@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
+     "published": "2026-10-16T07:20:58+00:00",
+     "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "‘20 Days in Mariupol’ - AP News",
+     "published": "2026-10-16T07:18:47+00:00",
+     "summary": "‘20 Days in Mariupol’ AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Ohtani hits early 3-run homer but comes up empty late as Dodgers get swept by Brewers in NLCS - AP News",
      "published": "2026-10-16T06:31:00+00:00",
      "summary": "Ohtani hits early 3-run homer but comes up empty late as Dodgers get swept by Brewers in NLCS AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#3",
      "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 - AP News",
      "published": "2026-10-16T05:36:00+00:00",
      "summary": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#4",
+     "title": "Alaska’s Sullivan and Peltola clash over Iran and high prices in testy Senate debate - AP News",
+     "published": "2026-10-16T05:15:00+00:00",
+     "summary": "Alaska’s Sullivan and Peltola clash over Iran and high prices in testy Senate debate AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "Israel’s Arab-led parties could decide the election if anyone would partner with them - AP News",
      "published": "2026-10-16T05:01:18+00:00",
      "summary": "Israel’s Arab-led parties could decide the election if anyone would partner with them AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#6",
      "title": "Policing of France’s school protests clouds Macron’s final months and sparks uproar - AP News",
      "published": "2026-10-16T04:57:00+00:00",
      "summary": "Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#7",
      "title": "Prince Harry and Meghan cheered as they make first joint appearances since returning to UK - AP News",
      "published": "2026-10-16T04:30:00+00:00",
      "summary": "Prince Harry and Meghan cheered as they make first joint appearances since returning to UK AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#8",
      "title": "Nepal’s devastating flood exposes the risks of resettling disaster survivors - AP News",
      "published": "2026-10-16T04:16:00+00:00",
      "summary": "Nepal’s devastating flood exposes the risks of resettling disaster survivors AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#9",
      "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response - AP News",
      "published": "2026-10-16T04:02:00+00:00",
      "summary": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response AP News"
     },
     {
-     "ref": "ap_world#7",
-     "title": "Sullivan, Peltola clash over Iran, consumer prices in televised debate in Alaska US Senate race - AP News",
-     "published": "2026-10-16T03:42:00+00:00",
-     "summary": "Sullivan, Peltola clash over Iran, consumer prices in televised debate in Alaska US Senate race AP News"
+     "ref": "ap_world#10",
+     "title": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige - AP News",
+     "published": "2026-10-16T04:02:00+00:00",
+     "summary": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#11",
      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path - AP News",
      "published": "2026-10-16T03:32:00+00:00",
      "summary": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#12",
+     "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated - AP News",
+     "published": "2026-10-16T03:30:00+00:00",
+     "summary": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "Hurricane Trudy strengthens off Mexico’s coast with major storm expected - AP News",
      "published": "2026-10-16T03:25:00+00:00",
      "summary": "Hurricane Trudy strengthens off Mexico’s coast with major storm expected AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#14",
      "title": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness - AP News",
      "published": "2026-10-16T03:11:00+00:00",
      "summary": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#15",
      "title": "Troy Jackson tells Susan Collins to ‘shut up’ during heated Maine Senate debate - AP News",
      "published": "2026-10-16T02:56:00+00:00",
      "summary": "Troy Jackson tells Susan Collins to ‘shut up’ during heated Maine Senate debate AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#16",
      "title": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him - AP News",
      "published": "2026-10-16T02:56:00+00:00",
      "summary": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#17",
      "title": "Youths clash with police for a 3rd day in Albania’s anti-government protests - AP News",
      "published": "2026-10-16T02:35:00+00:00",
      "summary": "Youths clash with police for a 3rd day in Albania’s anti-government protests AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#18",
      "title": "FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back - AP News",
      "published": "2026-10-16T02:00:00+00:00",
      "summary": "FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#19",
      "title": "National parks - AP News",
      "published": "2026-10-16T01:54:35+00:00",
      "summary": "National parks AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#20",
      "title": "An increase in killings of women in Cameroon spurs protests and demands for better laws - AP News",
      "published": "2026-10-16T01:54:00+00:00",
      "summary": "An increase in killings of women in Cameroon spurs protests and demands for better laws AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#21",
      "title": "New White House press secretary Katie Zacharia defends her legal background and short first briefing - AP News",
      "published": "2026-10-16T01:48:00+00:00",
      "summary": "New White House press secretary Katie Zacharia defends her legal background and short first briefing AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#22",
      "title": "What to know about Starshield and why its disruption rattled Ukraine’s forces - AP News",
      "published": "2026-10-16T01:41:00+00:00",
      "summary": "What to know about Starshield and why its disruption rattled Ukraine’s forces AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#23",
      "title": "Jalen Hurts sidelined by a blood clot, the latest bad news in a rough season for the Eagles - AP News",
      "published": "2026-10-16T01:39:00+00:00",
      "summary": "Jalen Hurts sidelined by a blood clot, the latest bad news in a rough season for the Eagles AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#24",
      "title": "AP gets exclusive look at 'StarGate,' Ukraine's first aerial drone to evacuate wounded soldiers - AP News",
      "published": "2026-10-16T01:37:00+00:00",
      "summary": "AP gets exclusive look at 'StarGate,' Ukraine's first aerial drone to evacuate wounded soldiers AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News",
-     "published": "2026-10-16T01:29:00+00:00",
-     "summary": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "More roller coasters shut down as authorities investigate fatal fall at Georgia amusement park - AP News",
-     "published": "2026-10-16T00:41:00+00:00",
-     "summary": "More roller coasters shut down as authorities investigate fatal fall at Georgia amusement park AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "UK bookstores scramble as Sally Rooney's novels are withdrawn because she supports Palestine Action - AP News",
-     "published": "2026-10-16T00:35:00+00:00",
-     "summary": "UK bookstores scramble as Sally Rooney's novels are withdrawn because she supports Palestine Action AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Las Vegas officials identify a homicide victim whose body was found in a barrel in Lake Mead - AP News",
-     "published": "2026-10-16T00:29:00+00:00",
-     "summary": "Las Vegas officials identify a homicide victim whose body was found in a barrel in Lake Mead AP News"
     }
    ]
   },
