@@ -69,18 +69,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-16T19:00:00Z",
-     "home": "Burnley",
-     "away": "Wolverhampton",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-16T19:00:00Z",
      "home": "Deportivo",
      "away": "Levante",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-16T19:00:00Z",
+     "home": "Burnley",
+     "away": "Wolverhampton",
      "status": "TIMED",
      "score": null
     }
@@ -419,153 +419,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Getting to know Man Utd boss Olid",
+     "published": "2026-10-16T07:47:56+00:00",
+     "summary": "It has been a whirlwind 10 weeks for Eva Olid since she became manager of Manchester United."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Getting to know Man Utd boss Olid",
+     "published": "2026-10-16T07:47:56+00:00",
+     "summary": "It has been a whirlwind 10 weeks for Eva Olid since she became manager of Manchester United."
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "Are De Cuyper and Gross essential? FPL gameweek seven dilemmas",
+     "published": "2026-10-16T07:28:45+00:00",
+     "summary": "BBC Sport's FPL expert Gianni Buttice looks at some of the biggest dilemmas facing Fantasy Premier League managers heading into gameweek seven."
+    },
+    {
+     "ref": "bbc_football#3",
      "title": "EFL preview: Shining lights and dark nights",
      "published": "2026-10-16T07:03:45+00:00",
      "summary": "BBC Sport picks out five things across the EFL that you should be keeping your eyes on this weekend."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#4",
+     "title": "Listen: Scottish Premiership weekend preview after European blows",
+     "published": "2026-10-16T07:00:00+00:00",
+     "summary": "Full Scottish premiership preview with Craig Telfer, Scott Allan and Conor Sammon."
+    },
+    {
+     "ref": "bbc_football#5",
      "title": "The rapid rise of a former art dealer to Europe's hottest young manager",
      "published": "2026-10-16T06:28:10+00:00",
      "summary": "How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#6",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-16T06:09:52+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#7",
      "title": "Balikwisha blames Celtic for World Cup axe - gossip",
      "published": "2026-10-16T06:07:34+00:00",
      "summary": "Michel-Ange Balikwisha blames Celtic for his failure to make DR Congo's World Cup squad, while Thelo Aasgaard reveals his delight at leaving Rangers for Anderlecht."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#8",
      "title": "Does the Premier League 'Big Six' still exist?",
      "published": "2026-10-16T05:53:57+00:00",
      "summary": "For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham Hotspur., but could this era be coming to an end?"
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#9",
      "title": "O'Neill defiant in defeat, but Celtic's 'flat-track bullies' fail another big test",
      "published": "2026-10-15T23:04:37+00:00",
      "summary": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#10",
      "title": "O'Neill defiant in defeat, but Celtic's 'flat-track bullies' fail another big test",
      "published": "2026-10-15T23:04:37+00:00",
      "summary": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#11",
      "title": "Minus 17 to European dreams as Bournemouth fairytale continues",
      "published": "2026-10-15T22:42:26+00:00",
      "summary": "It was a night 127 years in the making as Bournemouth added another chapter to their fairytale with victory in their first-ever European home game."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#12",
      "title": "Euro Leagues",
      "published": "2026-10-15T21:31:00+00:00",
      "summary": "Are Barcelona and PSG the teams to beat in the Champions League?"
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#13",
      "title": "Kane poised to extend Bayern stay - Friday's gossip",
      "published": "2026-10-15T19:43:01+00:00",
      "summary": "Harry Kane is close to signing a new deal at Bayern Munich, Arda Guler agrees a new contract with Real Madrid, Liverpool are leading the race for Bournemouth's Alex Scott, plus more."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#14",
      "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley",
      "published": "2026-10-15T19:26:51+00:00",
      "summary": "BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#15",
      "title": "Martinez apologises for outburst and fined by Man Utd",
      "published": "2026-10-15T18:03:28+00:00",
      "summary": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#16",
      "title": "Football Daily",
      "published": "2026-10-15T17:47:00+00:00",
      "summary": "Rick & Lloyd are back! And by popular(ish) demand. They discuss Man City's defeat to PSG."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#17",
      "title": "Moore's Germany move inspired by Sancho and Bellingham",
      "published": "2026-10-15T16:09:55+00:00",
      "summary": "Tottenham loanee Mikey Moore says the success of Jadon Sancho and Jude Bellingham in the Bundesliga influenced his decision to join Cologne."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#18",
      "title": "Eom has strength to move on after alleged racist abuse, says Swansea boss",
      "published": "2026-10-15T15:33:24+00:00",
      "summary": "Vitor Matos says Eom Jisung has the strength to move on from the alleged racial abuse which marred Swansea City's win at Millwall."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#19",
      "title": "Red card, suspension and a conspiracy - what's up with Vini Jr?",
      "published": "2026-10-15T15:15:38+00:00",
      "summary": "Vinicius Jr speaks to the press after being handed a four-match ban following his red card against Villarreal."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#20",
      "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
      "published": "2026-10-15T15:01:26+00:00",
      "summary": "Lincoln City will not be defined by their 6-0 Championship defeat by West Ham, says Imps head coach Tom Shaw."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#21",
      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
      "published": "2026-10-15T14:46:09+00:00",
      "summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further."
     },
     {
-     "ref": "bbc_football#18",
-     "title": "Arsenal's injured Caldentey out for up to 10 weeks",
-     "published": "2026-10-15T13:35:56+00:00",
-     "summary": "Arsenal midfielder Mariona Caldentey is set to miss about two months of Women's Super League action because of a hamstring injury."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "Arsenal's injured Caldentey out for up to 10 weeks",
-     "published": "2026-10-15T13:35:56+00:00",
-     "summary": "Arsenal midfielder Mariona Caldentey is set to miss about two months of Women's Super League action because of a hamstring injury."
-    },
-    {
-     "ref": "bbc_football#20",
-     "title": "Getafe make offer to sign free agent Sancho",
-     "published": "2026-10-15T11:45:02+00:00",
-     "summary": "Getafe make a formal offer to sign attacker Jadon Sancho, who is searching for a new club after leaving Manchester United in the summer."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "Everton's Barry on the video he was scared to post",
-     "published": "2026-10-15T11:27:07+00:00",
-     "summary": "The Everton striker explains why he chose to post an emotional video from a training session."
-    },
-    {
      "ref": "bbc_football#22",
-     "title": "Man Utd a circus after Martinez comments - Keane",
-     "published": "2026-10-15T10:57:15+00:00",
-     "summary": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane."
+     "title": "Arsenal's injured Caldentey out for up to 10 weeks",
+     "published": "2026-10-15T13:35:56+00:00",
+     "summary": "Arsenal midfielder Mariona Caldentey is set to miss about two months of Women's Super League action because of a hamstring injury."
     },
     {
      "ref": "bbc_football#23",
-     "title": "Hibs ban fans group for three games after disorder",
-     "published": "2026-10-15T10:38:50+00:00",
-     "summary": "Hibernian ban their Block Seven supporter group from their next three matches after pictures showed some visiting fans clashing with police and stewards at Saturday's Scottish Premiership game away to Dundee United."
+     "title": "Arsenal's injured Caldentey out for up to 10 weeks",
+     "published": "2026-10-15T13:35:56+00:00",
+     "summary": "Arsenal midfielder Mariona Caldentey is set to miss about two months of Women's Super League action because of a hamstring injury."
     },
     {
      "ref": "bbc_football#24",
-     "title": "Hibs ban fans group for three games after disorder",
-     "published": "2026-10-15T10:38:50+00:00",
-     "summary": "Hibernian ban their Block Seven supporter group from their next three matches after pictures showed some visiting fans clashing with police and stewards at Saturday's Scottish Premiership game away to Dundee United."
+     "title": "Getafe make offer to sign free agent Sancho",
+     "published": "2026-10-15T11:45:02+00:00",
+     "summary": "Getafe make a formal offer to sign attacker Jadon Sancho, who is searching for a new club after leaving Manchester United in the summer."
     }
    ]
   },
@@ -743,27 +743,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#2",
+     "title": "Ben Saraf vs Bahcesehir Koleji Istanbul: stats, game log - BasketNews.com",
+     "published": "2026-10-15T15:17:26+00:00",
+     "summary": "Ben Saraf vs Bahcesehir Koleji Istanbul: stats, game log BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija vs Iceland: stats, game log - BasketNews.com",
      "published": "2026-10-15T07:17:35+00:00",
      "summary": "Deni Avdija vs Iceland: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija vs Poland: stats, game log - BasketNews.com",
      "published": "2026-10-15T06:12:30+00:00",
      "summary": "Deni Avdija vs Poland: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija last 10 games: stats and game log - BasketNews.com",
      "published": "2026-10-15T05:34:32+00:00",
      "summary": "Deni Avdija last 10 games: stats and game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#5",
-     "title": "Deni Avdija last 5 games: stats and game log - BasketNews.com",
-     "published": "2026-10-15T05:29:27+00:00",
-     "summary": "Deni Avdija last 5 games: stats and game log BasketNews.com"
     },
     {
      "ref": "gnews_israeli_nba#6",

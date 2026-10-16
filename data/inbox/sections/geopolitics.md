@@ -18,123 +18,123 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-10-16T07:54:42+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 - AP News",
+     "published": "2026-10-16T07:22:00+00:00",
+     "summary": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
      "published": "2026-10-16T07:20:58+00:00",
      "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#3",
      "title": "‘20 Days in Mariupol’ - AP News",
      "published": "2026-10-16T07:18:47+00:00",
      "summary": "‘20 Days in Mariupol’ AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#4",
      "title": "Ohtani hits early 3-run homer but comes up empty late as Dodgers get swept by Brewers in NLCS - AP News",
      "published": "2026-10-16T06:31:00+00:00",
      "summary": "Ohtani hits early 3-run homer but comes up empty late as Dodgers get swept by Brewers in NLCS AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 - AP News",
-     "published": "2026-10-16T05:36:00+00:00",
-     "summary": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 AP News"
+     "ref": "ap_world#5",
+     "title": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him - AP News",
+     "published": "2026-10-16T05:41:00+00:00",
+     "summary": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#6",
      "title": "Alaska’s Sullivan and Peltola clash over Iran and high prices in testy Senate debate - AP News",
      "published": "2026-10-16T05:15:00+00:00",
      "summary": "Alaska’s Sullivan and Peltola clash over Iran and high prices in testy Senate debate AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#7",
      "title": "Israel’s Arab-led parties could decide the election if anyone would partner with them - AP News",
      "published": "2026-10-16T05:01:18+00:00",
      "summary": "Israel’s Arab-led parties could decide the election if anyone would partner with them AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "Policing of France’s school protests clouds Macron’s final months and sparks uproar - AP News",
      "published": "2026-10-16T04:57:00+00:00",
      "summary": "Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
      "title": "Prince Harry and Meghan cheered as they make first joint appearances since returning to UK - AP News",
      "published": "2026-10-16T04:30:00+00:00",
      "summary": "Prince Harry and Meghan cheered as they make first joint appearances since returning to UK AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#10",
      "title": "Nepal’s devastating flood exposes the risks of resettling disaster survivors - AP News",
      "published": "2026-10-16T04:16:00+00:00",
      "summary": "Nepal’s devastating flood exposes the risks of resettling disaster survivors AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response - AP News",
      "published": "2026-10-16T04:02:00+00:00",
      "summary": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige - AP News",
      "published": "2026-10-16T04:02:00+00:00",
      "summary": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path - AP News",
      "published": "2026-10-16T03:32:00+00:00",
      "summary": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated - AP News",
      "published": "2026-10-16T03:30:00+00:00",
      "summary": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
      "title": "Hurricane Trudy strengthens off Mexico’s coast with major storm expected - AP News",
      "published": "2026-10-16T03:25:00+00:00",
      "summary": "Hurricane Trudy strengthens off Mexico’s coast with major storm expected AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness - AP News",
      "published": "2026-10-16T03:11:00+00:00",
      "summary": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "Troy Jackson tells Susan Collins to ‘shut up’ during heated Maine Senate debate - AP News",
      "published": "2026-10-16T02:56:00+00:00",
      "summary": "Troy Jackson tells Susan Collins to ‘shut up’ during heated Maine Senate debate AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him - AP News",
-     "published": "2026-10-16T02:56:00+00:00",
-     "summary": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him AP News"
-    },
-    {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
      "title": "Youths clash with police for a 3rd day in Albania’s anti-government protests - AP News",
      "published": "2026-10-16T02:35:00+00:00",
      "summary": "Youths clash with police for a 3rd day in Albania’s anti-government protests AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back - AP News",
      "published": "2026-10-16T02:00:00+00:00",
      "summary": "FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "National parks - AP News",
-     "published": "2026-10-16T01:54:35+00:00",
-     "summary": "National parks AP News"
     },
     {
      "ref": "ap_world#20",
@@ -186,9 +186,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#2",
-     "title": "Three children and teacher killed in US primary school shooting",
+     "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
      "published": "2026-10-16T03:45:09+00:00",
-     "summary": "The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said."
+     "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, police say."
     },
     {
      "ref": "bbc_world#3",
@@ -414,153 +414,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "India widens rupee defence to rates, but cautiously - Reuters",
+     "published": "2026-10-16T05:15:00+00:00",
+     "summary": "India widens rupee defence to rates, but cautiously Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "China targets practical action from global governance forum next week - Reuters",
+     "published": "2026-10-16T05:05:00+00:00",
+     "summary": "China targets practical action from global governance forum next week Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "EXCLUSIVE: US holds more secret talks with Myanmar's military-backed rulers in Tokyo, sources say - Reuters",
      "published": "2026-10-16T04:35:00+00:00",
      "summary": "EXCLUSIVE: US holds more secret talks with Myanmar's military-backed rulers in Tokyo, sources say Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
      "title": "Morning Bid: Calm after CoreWeave shock, but for how long? - Reuters",
      "published": "2026-10-16T04:31:00+00:00",
      "summary": "Morning Bid: Calm after CoreWeave shock, but for how long? Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
+     "title": "US Treasury says Japan no longer faces deflationary environment, yen level must change - Reuters",
+     "published": "2026-10-16T04:11:00+00:00",
+     "summary": "US Treasury says Japan no longer faces deflationary environment, yen level must change Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "India's Yes Bank AT-1 ruling won't impact ratings despite earnings hit, S&P says - Reuters",
      "published": "2026-10-16T03:55:00+00:00",
      "summary": "India's Yes Bank AT-1 ruling won't impact ratings despite earnings hit, S&P says Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#6",
      "title": "Modi's predicament: Gen Z pours out on India's streets as dissent surges - Reuters",
      "published": "2026-10-16T03:30:00+00:00",
      "summary": "Modi's predicament: Gen Z pours out on India's streets as dissent surges Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#7",
      "title": "Mideast war alters global bunker buying patterns, industry execs say - Reuters",
      "published": "2026-10-16T03:19:00+00:00",
      "summary": "Mideast war alters global bunker buying patterns, industry execs say Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
      "title": "Philippines hits back at Chinese envoy over 'thinly veiled threat' of force - Reuters",
      "published": "2026-10-16T03:14:00+00:00",
      "summary": "Philippines hits back at Chinese envoy over 'thinly veiled threat' of force Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "G7 to launch exercises to guard against AI cyber attacks - Reuters",
      "published": "2026-10-16T02:57:00+00:00",
      "summary": "G7 to launch exercises to guard against AI cyber attacks Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "Most Asian stocks rise as calm returns after CoreWeave shock; Indonesia faces market downgrade - Reuters",
      "published": "2026-10-16T02:52:00+00:00",
      "summary": "Most Asian stocks rise as calm returns after CoreWeave shock; Indonesia faces market downgrade Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "Indonesia stocks sink most since 1998 after MSCI flags 'standalone' downgrade - Reuters",
      "published": "2026-10-16T02:40:00+00:00",
      "summary": "Indonesia stocks sink most since 1998 after MSCI flags 'standalone' downgrade Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "Indian shares recover from muted start; IT leads gains - Reuters",
      "published": "2026-10-16T02:29:00+00:00",
      "summary": "Indian shares recover from muted start; IT leads gains Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
+     "title": "Bank of England's Bailey sees 'quite subdued' second-round price pressures so far - Reuters",
+     "published": "2026-10-16T02:19:00+00:00",
+     "summary": "Bank of England's Bailey sees 'quite subdued' second-round price pressures so far Reuters"
+    },
+    {
+     "ref": "reuters_world#14",
      "title": "Investors see outflow and FX risks as MSCI moves to downgrade Indonesia - Reuters",
      "published": "2026-10-16T02:17:00+00:00",
      "summary": "Investors see outflow and FX risks as MSCI moves to downgrade Indonesia Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#15",
      "title": "AI selloff hammers hedge funds this week, Asia managers lead losses - Reuters",
      "published": "2026-10-16T02:10:00+00:00",
      "summary": "AI selloff hammers hedge funds this week, Asia managers lead losses Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#16",
      "title": "Lula defends cutting Brazil's criminal responsibility age to 16 for heinous crimes - Reuters",
      "published": "2026-10-16T01:37:00+00:00",
      "summary": "Lula defends cutting Brazil's criminal responsibility age to 16 for heinous crimes Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#17",
      "title": "Euro gets much-needed reprieve as AI wobbles rock the dollar - Reuters",
      "published": "2026-10-16T01:20:00+00:00",
      "summary": "Euro gets much-needed reprieve as AI wobbles rock the dollar Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#18",
      "title": "Trump says he is talking to Russia and China about denuclearization - Reuters",
      "published": "2026-10-16T01:04:00+00:00",
      "summary": "Trump says he is talking to Russia and China about denuclearization Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#19",
      "title": "China says Israel should stop its 'forced establishment' of West Bank settlements - Reuters",
      "published": "2026-10-16T00:49:00+00:00",
      "summary": "China says Israel should stop its 'forced establishment' of West Bank settlements Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#20",
      "title": "North Korea missile chief questions South Korea hypersonic glide vehicle test - Reuters",
      "published": "2026-10-16T00:41:00+00:00",
      "summary": "North Korea missile chief questions South Korea hypersonic glide vehicle test Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#21",
      "title": "Taiwan tells its people to shun Chinese anniversary events for revolutionary hero - Reuters",
      "published": "2026-10-16T00:32:00+00:00",
      "summary": "Taiwan tells its people to shun Chinese anniversary events for revolutionary hero Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#22",
      "title": "FBI, US Postal Service investigate suspicious mailings to election officials, lawmakers - Reuters",
      "published": "2026-10-15T23:33:29+00:00",
      "summary": "FBI, US Postal Service investigate suspicious mailings to election officials, lawmakers Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#23",
      "title": "Rubio urges Lebanon to not return confiscated explosives to Hezbollah, US official says - Reuters",
      "published": "2026-10-15T23:18:42+00:00",
      "summary": "Rubio urges Lebanon to not return confiscated explosives to Hezbollah, US official says Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#24",
      "title": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters",
      "published": "2026-10-15T23:07:00+00:00",
      "summary": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "Lula pledges free weekend transit nationwide as Brazil runoff nears - Reuters",
-     "published": "2026-10-15T22:46:10+00:00",
-     "summary": "Lula pledges free weekend transit nationwide as Brazil runoff nears Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "3 children, 1 adult killed in shooting at school in Oregon, US media reports - Reuters",
-     "published": "2026-10-15T22:42:11+00:00",
-     "summary": "3 children, 1 adult killed in shooting at school in Oregon, US media reports Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, Datafolha poll shows - Reuters",
-     "published": "2026-10-15T22:11:40+00:00",
-     "summary": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, Datafolha poll shows Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "EXCLUSIVE: UN chief frontrunner Rebeca Grynspan says UN has 'become too risk-averse' - Reuters",
-     "published": "2026-10-15T22:10:59+00:00",
-     "summary": "EXCLUSIVE: UN chief frontrunner Rebeca Grynspan says UN has 'become too risk-averse' Reuters"
     }
    ]
   }
