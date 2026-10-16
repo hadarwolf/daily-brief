@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-16",
+  "questions": [
+    {
+      "id": "quiz-ronen-bar-inquiry",
+      "section": "israeli_politics",
+      "story_id": "netanyahu-intelligence-inquiry",
+      "answer_index": 1,
+      "en": {
+        "question": "What is former Shin Bet chief Ronen Bar's lawsuit described as setting the stage for?",
+        "options": [
+          "A new rotation agreement within the governing coalition",
+          "The eventual establishment of a state commission of inquiry into the failures before October 7",
+          "A criminal indictment against opposition leaders",
+          "A reform of Israel's electoral voting system"
+        ],
+        "explanation": "The story describes Bar's lawsuit as an opening move toward the eventual establishment of a state commission of inquiry, which Netanyahu has resisted."
+      },
+      "he": {
+        "question": "למה מתוארת התביעה של ראש השב\"כ לשעבר רונן בר כמניחה את הבסיס?",
+        "options": [
+          "להסכם רוטציה חדש בתוך הקואליציה השלטת",
+          "להקמה עתידית של ועדת חקירה ממלכתית לכשלים שקדמו ל-7 באוקטובר",
+          "לכתב אישום פלילי נגד מנהיגי האופוזיציה",
+          "לרפורמה בשיטת הבחירות בישראל"
+        ],
+        "explanation": "הסיפור מתאר את תביעת בר כמהלך הפתיחה לקראת הקמת ועדת חקירה ממלכתית, שאותה התנגד נתניהו להקים."
+      }
+    },
+    {
+      "id": "quiz-ai-debt-coreweave",
+      "section": "business",
+      "story_id": "ai-debt-darwin-moment",
+      "answer_index": 2,
+      "en": {
+        "question": "Why are bond investors pulling back from CoreWeave and similar AI infrastructure companies?",
+        "options": [
+          "Their GPUs have become technologically obsolete",
+          "Regulators have banned further AI data-centre construction",
+          "Credit markets are increasingly doubting these heavily indebted firms can keep up with debt payments if AI demand growth disappoints",
+          "Their customers have switched entirely to cloud providers based overseas"
+        ],
+        "explanation": "The story describes bond markets pricing in real default risk as rising borrowing costs test whether debt-funded AI infrastructure spending can pay for itself."
+      },
+      "he": {
+        "question": "למה משקיעי אג\"ח נסוגים מ-CoreWeave וחברות תשתית AI דומות?",
+        "options": [
+          "השבבים שלהן הפכו מיושנים טכנולוגית",
+          "הרגולטורים אסרו המשך בניית מרכזי נתונים ל-AI",
+          "שוקי האשראי חוששים יותר ויותר שהחברות הממונפות הללו לא יוכלו לעמוד בתשלומי החוב אם צמיחת הביקוש ל-AI תאכזב",
+          "הלקוחות שלהן עברו לחלוטין לספקיות ענן מחו\"ל"
+        ],
+        "explanation": "הסיפור מתאר ששוקי האג\"ח מתמחרים סיכון אמיתי של חדלות פירעון, ככל שעליית עלויות המימון בוחנת האם הוצאות ההון הממומנות בחוב על תשתיות AI יכולות להחזיר את עצמן."
+      }
+    },
+    {
+      "id": "quiz-starshield-ukraine",
+      "section": "geopolitics",
+      "story_id": "starshield-ukraine-energy-truce",
+      "answer_index": 1,
+      "en": {
+        "question": "What made the White House's order limiting Ukraine's Starshield access notable, according to the story?",
+        "options": [
+          "It was issued jointly by NATO and the European Union",
+          "It came from inside the White House itself, not from SpaceX or Elon Musk",
+          "It was announced publicly by President Zelenskyy before Washington confirmed it",
+          "It only affected Starlink's civilian internet service, not military use"
+        ],
+        "explanation": "Reuters' sources said the order originated inside the White House rather than from SpaceX, reframing the story as about US government leverage over an ally rather than one billionaire's control of the network."
+      },
+      "he": {
+        "question": "מה הפך את ההוראה מהבית הלבן, שהגבילה את גישת אוקראינה ל-Starshield, לבולטת לפי הסיפור?",
+        "options": [
+          "היא הוצאה במשותף על ידי נאט\"ו והאיחוד האירופי",
+          "היא הגיעה מתוך הבית הלבן עצמו, לא מ-SpaceX או מאילון מאסק",
+          "הנשיא זלנסקי הכריז עליה בפומבי לפני שוושינגטון אישרה אותה",
+          "היא השפיעה רק על שירות האינטרנט האזרחי של Starlink, לא על השימוש הצבאי"
+        ],
+        "explanation": "מקורות של רויטרס אמרו שההוראה הגיעה מתוך הבית הלבן ולא מ-SpaceX, מה שממסגר מחדש את הסיפור כנוגע למנוף של ממשל ארה\"ב על בעל ברית, ולא לשליטה של מיליארדר יחיד ברשת."
+      }
+    }
+  ]
+}

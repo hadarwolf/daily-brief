@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-16",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-16T04:17:23+00:00",
+  "stories": [
+    {
+      "id": "word-junk-bond",
+      "kind": "word",
+      "en": {
+        "headline": "Junk bond (אג\"ח זבל)",
+        "scroll": "A bond rated below investment grade — higher-yielding, but with real default risk.",
+        "coffee": "A \"junk bond\" (more formally, high-yield or sub-investment-grade debt) is a bond issued by a company whose credit rating suggests a meaningfully higher chance of default than an \"investment-grade\" issuer. Because investors demand compensation for that extra risk, junk bonds pay higher interest rates than safer debt. Example: \"CoreWeave's junk bonds are trading at distressed levels as investors worry the company can't keep up with its debt payments.\"",
+        "deep": "Use \"junk bond\" when talking about corporate or government debt rated BB+ or lower by agencies like S&P, or Ba1 or lower by Moody's — the threshold below \"investment grade.\" Companies that are young, highly leveraged, or in cyclical or capital-intensive industries (like the AI data-centre operators now under credit-market scrutiny) often rely on junk-bond financing because they can't qualify for cheaper investment-grade rates.\n\nA common confusion: \"junk\" describes the credit rating, not necessarily a bad investment — many professional investors specialize in high-yield debt precisely because the extra interest can be worth the risk if default doesn't happen. People sometimes also confuse a junk bond with a \"zombie company\" (a firm that can only service its debt, not repay the principal) — related ideas, but not the same thing.\n\nExample sentences: \"The fund manager only buys junk bonds she believes are mispriced relative to their real default risk.\" \"When a company's bonds get downgraded to junk status, its borrowing costs usually jump overnight.\"\n\nHebrew: אג\"ח זבל."
+      },
+      "he": {
+        "headline": "Junk bond (אג\"ח זבל)",
+        "scroll": "אג\"ח שדורוג האשראי שלה נמוך מ\"דרגת השקעה\" – תשואה גבוהה יותר, אך עם סיכון אמיתי לחדלות פירעון.",
+        "coffee": "\"אג\"ח זבל\" (באופן רשמי יותר, חוב בתשואה גבוהה או מתחת לדרגת השקעה) הוא אג\"ח שהנפיקה חברה שדירוג האשראי שלה מצביע על סיכוי משמעותית גבוה יותר לחדלות פירעון לעומת מנפיק ב\"דרגת השקעה\". מכיוון שהמשקיעים דורשים פיצוי על הסיכון הנוסף, אג\"ח זבל משלמות ריבית גבוהה יותר מחוב בטוח יותר. דוגמה: \"אג\"ח הזבל של CoreWeave נסחרות ברמות מצוקה כשמשקיעים חוששים שהחברה לא תעמוד בתשלומי החוב שלה\".",
+        "deep": "השתמשו ב\"אג\"ח זבל\" כשמדברים על חוב קונצרני או ממשלתי בדירוג BB+ ומטה לפי סוכנויות כמו S&P, או Ba1 ומטה לפי מודי'ס – הסף שמתחת ל\"דרגת השקעה\". חברות צעירות, ממונפות מאוד, או בענפים מחזוריים ועתירי הון (כמו מפעילות מרכזי הנתונים ל-AI שנמצאות כעת תחת בחינה של שוקי האשראי) נשענות לעיתים קרובות על מימון באג\"ח זבל כי הן לא מתאימות לריביות הזולות יותר של דרגת השקעה.\n\nבלבול נפוץ: \"זבל\" מתאר את דירוג האשראי, לא בהכרח השקעה גרועה – משקיעים מקצועיים רבים מתמחים דווקא בחוב בתשואה גבוהה, בדיוק משום שהריבית הנוספת יכולה להצדיק את הסיכון אם חדלות הפירעון לא מתרחשת. אנשים מבלבלים לפעמים גם בין אג\"ח זבל לבין \"חברת זומבי\" (חברה שמסוגלת רק לשרת את החוב שלה, לא להחזיר את הקרן) – רעיונות קשורים, אך לא זהים.\n\nדוגמאות משפטים: \"מנהלת הקרן קונה רק אג\"ח זבל שהיא מאמינה שמתומחרות לא נכון ביחס לסיכון חדלות הפירעון האמיתי שלהן\". \"כשהאג\"ח של חברה מורדות לדרגת זבל, עלויות המימון שלה בדרך כלל קופצות בן-לילה\".\n\nבאנגלית: Junk bond."
+      },
+      "tags": [
+        "business-vocabulary",
+        "credit",
+        "bonds"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-maturity-wall",
+      "kind": "word",
+      "en": {
+        "headline": "Debt maturity wall (קיר פירעונות)",
+        "scroll": "A cluster of a company's or country's debt that all comes due around the same time, forcing refinancing all at once.",
+        "coffee": "A \"debt maturity wall\" is the point at which a large share of an issuer's outstanding bonds or loans reach their repayment date together, forcing the borrower to refinance a lot of debt at once — often at whatever interest rate the market happens to be charging then. Example: \"Analysts are watching the data-centre operators' 2027 maturity wall closely, since refinancing that much debt at today's higher rates would strain their cash flow.\"",
+        "deep": "Use \"maturity wall\" (or \"debt wall\") when a company, bank or government issued a large batch of debt around the same time — common after a borrowing boom — meaning it all needs refinancing in the same window years later. The risk isn't the debt itself; it's being forced to refinance a large amount exactly when market conditions are unfavorable (higher rates, tighter credit, investor skepticism about the sector), rather than spreading the risk across many smaller maturity dates.\n\nA common confusion: a maturity wall is about timing concentration, not about the total amount of debt — a company can have less total debt than a peer but a worse maturity wall if that debt is bunched into a narrow window.\n\nExample sentences: \"The real-estate sector's maturity wall next year is one reason regulators are watching commercial property debt so closely.\" \"Smart treasurers try to stagger bond issuance precisely to avoid building their own maturity wall.\"\n\nHebrew: קיר פירעונות."
+      },
+      "he": {
+        "headline": "Debt maturity wall (קיר פירעונות)",
+        "scroll": "גוש של חוב שמגיע כולו לפירעון בערך באותה תקופה, ומכריח מיחזור של כל הסכום בבת אחת.",
+        "coffee": "\"קיר פירעונות\" הוא הנקודה שבה חלק גדול מהאג\"ח או ההלוואות של מנפיק מגיעות יחד למועד הפירעון שלהן, מה שמכריח את הלווה למחזר כמות גדולה של חוב בבת אחת – לעיתים קרובות בריבית שהשוק גובה באותו רגע. דוגמה: \"אנליסטים עוקבים מקרוב אחרי קיר הפירעונות של מפעילות מרכזי הנתונים ב-2027, מכיוון שמיחזור כמות חוב כזו בריביות הגבוהות יותר של היום יכביד על תזרים המזומנים שלהן\".",
+        "deep": "השתמשו ב\"קיר פירעונות\" (או \"חומת חוב\") כשחברה, בנק או ממשלה הנפיקו כמות גדולה של חוב בערך באותה תקופה – דבר נפוץ אחרי גאות בהלוואות – כלומר כל הסכום הזה יצטרך מיחזור באותו חלון זמן שנים לאחר מכן. הסיכון אינו החוב עצמו; הוא ההכרח למחזר סכום גדול בדיוק כשתנאי השוק לא נוחים (ריביות גבוהות יותר, אשראי מהודק יותר, ספקנות משקיעים לגבי הסקטור), במקום לפזר את הסיכון על פני תאריכי פירעון קטנים יותר רבים.\n\nבלבול נפוץ: קיר פירעונות עוסק בריכוז התזמון, לא בסך כמות החוב – לחברה יכול להיות פחות חוב כולל מחברה מתחרה, אך קיר פירעונות גרוע יותר אם החוב הזה מרוכז בחלון זמן צר.\n\nדוגמאות משפטים: \"קיר הפירעונות של ענף הנדל\"ן המסחרי בשנה הבאה הוא אחת הסיבות שהרגולטורים עוקבים כה מקרוב אחרי חוב הנדל\"ן המסחרי\". \"גזברים חכמים מנסים לפרוש הנפקות אג\"ח במכוון כדי להימנע מבניית קיר פירעונות משלהם\".\n\nבאנגלית: Debt maturity wall / debt wall."
+      },
+      "tags": [
+        "business-vocabulary",
+        "credit",
+        "refinancing"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-rob-peter-pay-paul",
+      "kind": "word",
+      "en": {
+        "headline": "Rob Peter to pay Paul (לקחת מפיטר כדי לשלם לפול)",
+        "scroll": "To solve one financial problem by creating another — moving money or debt around rather than actually fixing the shortfall.",
+        "coffee": "\"Rob Peter to pay Paul\" describes covering one obligation by taking from somewhere else that then falls short itself — it fixes nothing structurally, just moves the problem. Example: \"Taking out a new loan just to make this month's interest payment is robbing Peter to pay Paul — the underlying debt problem hasn't gone away.\"",
+        "deep": "Use this idiom when a company, government or person addresses a shortfall by shifting money or debt from one place to another, rather than solving the underlying imbalance — refinancing debt with more debt, cutting one budget to cover another, or using new investor money to pay returns to earlier investors (as in a Ponzi scheme, the idiom's most extreme form).\n\nA common confusion: it's not the same as ordinary refinancing, which can be a perfectly healthy way to manage debt on better terms. The idiom implies the underlying problem is being avoided, not resolved — the money has to come from somewhere, and that \"somewhere\" will eventually need its own fix.\n\nExample sentences: \"Cutting the marketing budget to cover a shortfall in engineering is classic rob-Peter-to-pay-Paul management.\" \"Governments that roll over debt indefinitely without addressing the deficit are robbing Peter to pay Paul on a national scale.\"\n\nHebrew: לקחת מפיטר כדי לשלם לפול, או בעברית טבעית יותר: 'לכסות חור אחד בחור אחר'."
+      },
+      "he": {
+        "headline": "Rob Peter to pay Paul (לכסות חור אחד בחור אחר)",
+        "scroll": "לפתור בעיה כספית אחת על ידי יצירת בעיה אחרת – להזיז כסף או חוב ממקום למקום, במקום לתקן בפועל את החוסר.",
+        "coffee": "הניב \"Rob Peter to pay Paul\" (מילולית: לשדוד את פיטר כדי לשלם לפול) מתאר כיסוי של התחייבות אחת באמצעות לקיחה ממקום אחר שבעצמו ייקלע לחוסר – זה לא מתקן שום דבר באופן מבני, רק מזיז את הבעיה. דוגמה: \"לקיחת הלוואה חדשה רק כדי לשלם את תשלום הריבית החודש הזה היא לקיחה מפיטר כדי לשלם לפול – בעיית החוב הבסיסית לא נעלמה\".",
+        "deep": "השתמשו בניב הזה כשחברה, ממשלה או אדם מטפלים בחוסר על ידי הזזת כסף או חוב ממקום אחד לאחר, במקום לפתור את חוסר האיזון הבסיסי – מיחזור חוב בעוד חוב, קיצוץ בתקציב אחד כדי לכסות תקציב אחר, או שימוש בכסף של משקיעים חדשים כדי לשלם תשואות למשקיעים ותיקים יותר (כמו בתרמית פונזי, הגרסה הקיצונית ביותר של הניב).\n\nבלבול נפוץ: זה לא זהה למיחזור חוב רגיל, שיכול להיות דרך בריאה לגמרי לנהל חוב בתנאים טובים יותר. הניב מרמז שהבעיה הבסיסית נמנעת, לא נפתרת – הכסף חייב להגיע ממקום כלשהו, ואותו \"מקום כלשהו\" יזדקק בסופו של דבר לתיקון משלו.\n\nדוגמאות משפטים: \"קיצוץ בתקציב השיווק כדי לכסות חוסר בהנדסה הוא ניהול קלאסי של 'לכסות חור אחד בחור אחר'\". \"ממשלות שמגלגלות חוב ללא הגבלה בלי לטפל בגירעון עושות זאת בקנה מידה לאומי\".\n\nבאנגלית: Rob Peter to pay Paul."
+      },
+      "tags": [
+        "business-vocabulary",
+        "idiom",
+        "debt"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-leverage",
+      "kind": "concept",
+      "en": {
+        "headline": "Leverage: Why Borrowing Can Multiply Both Your Gains and Your Losses",
+        "scroll": "Leverage means using borrowed money to fund an investment, which multiplies returns when things go well — and losses when they don't.",
+        "coffee": "Leverage is the use of debt to finance an investment or operation instead of (or alongside) your own capital. If you put in $10 of your own money and borrow $90 more to buy a $100 asset, you're leveraged 10-to-1: a 10% rise in the asset's value doubles your original $10 stake, but a 10% fall wipes it out entirely. Leverage is neutral in itself — it's a tool that amplifies whatever outcome was already coming.",
+        "deep": "Leverage shows up everywhere in business and finance, but the mechanism is always the same: borrowing money lets you control more of an asset than your own capital alone would allow, which multiplies your percentage returns — in both directions.\n\nWorked example: Imagine a company wants to buy a $100 million data centre. If it pays entirely with its own cash ($100 million equity, no debt), and the data centre's value rises 20% to $120 million, the company has made a 20% return on its investment. But if instead the company puts in $20 million of its own money and borrows $80 million (leverage of 5-to-1), that same 20% rise in the asset's value — to $120 million — produces a $20 million gain on only $20 million of its own money invested: a 100% return on equity. Leverage turned a 20% asset gain into a 100% equity return.\n\nThe catch is symmetry. If the data centre's value instead falls 20% to $80 million, the all-equity company has lost 20% of its investment and still owns an asset worth $80 million. The leveraged company's $80 million in debt is now worth more than the asset itself — its $20 million equity stake has been wiped out completely, and it may still owe money it cannot repay from the asset's value alone.\n\nThis is exactly the dynamic now being tested in AI infrastructure financing: companies that borrowed heavily to build data centres and buy chips are making a leveraged bet that demand for that computing capacity will keep growing. If it does, leverage will have multiplied their returns far beyond what an all-equity approach could have achieved. If demand growth disappoints or financing costs rise, the same leverage that would have multiplied gains instead accelerates losses — potentially past the point where the company's own capital can absorb them, leaving creditors exposed too.\n\nThis is why lenders and credit-rating agencies focus so heavily on how leveraged a borrower is — not because debt is inherently bad, but because leverage changes how much room for error a company has before a decline in its underlying business becomes an existential problem rather than a manageable setback."
+      },
+      "he": {
+        "headline": "מינוף: איך לווה כסף יכול להכפיל גם את הרווחים וגם את ההפסדים",
+        "scroll": "מינוף הוא שימוש בכסף לווה כדי לממן השקעה, מה שמכפיל את התשואות כשהדברים הולכים טוב – ואת ההפסדים כשלא.",
+        "coffee": "מינוף הוא השימוש בחוב כדי לממן השקעה או פעילות, במקום (או לצד) ההון העצמי שלך. אם תשקיע 10 דולר מכספך ותלווה עוד 90 דולר כדי לקנות נכס ב-100 דולר, אתה ממונף ביחס של 10 ל-1: עלייה של 10% בערך הנכס מכפילה את ההשקעה המקורית שלך של 10 דולר, אבל ירידה של 10% מוחקת אותה לחלוטין. המינוף הוא ניטרלי כשלעצמו – הוא כלי שמגביר כל תוצאה שהייתה קורית ממילא.",
+        "deep": "מינוף מופיע בכל מקום בעסקים ובפיננסים, אבל המנגנון תמיד זהה: לווה כסף מאפשר לך לשלוט בכמות גדולה יותר של נכס ממה שההון העצמי שלך לבדו היה מאפשר, מה שמכפיל את התשואות שלך באחוזים – לשני הכיוונים.\n\nדוגמה מעשית: תארו לעצמכם חברה שרוצה לקנות מרכז נתונים ב-100 מיליון דולר. אם היא משלמת במזומן שלה בלבד (100 מיליון דולר הון עצמי, ללא חוב), וערך מרכז הנתונים עולה ב-20% ל-120 מיליון דולר, החברה הרוויחה 20% על השקעתה. אבל אם במקום זאת החברה מכניסה 20 מיליון דולר מכספה ולווה 80 מיליון דולר נוספים (מינוף של 5 ל-1), אותה עלייה של 20% בערך הנכס – ל-120 מיליון דולר – מייצרת רווח של 20 מיליון דולר על 20 מיליון דולר בלבד מהכסף שלה: תשואה של 100% על ההון העצמי. המינוף הפך רווח נכס של 20% לתשואת הון עצמי של 100%.\n\nהקאץ' הוא הסימטריה. אם במקום זאת ערך מרכז הנתונים יורד ב-20% ל-80 מיליון דולר, החברה שמימנה הכול בהון עצמי הפסידה 20% מהשקעתה ועדיין מחזיקה בנכס ששווה 80 מיליון דולר. ה-80 מיליון דולר של חוב שהחברה הממונפת חייבת שווים עכשיו יותר מהנכס עצמו – ההון העצמי שלה של 20 מיליון דולר נמחק לחלוטין, וייתכן שהיא עדיין חייבת כסף שלא תוכל להחזיר מערך הנכס בלבד.\n\nזו בדיוק הדינמיקה שנבחנת כעת במימון תשתיות ה-AI: חברות שלוו בכבדות כדי לבנות מרכזי נתונים ולקנות שבבים מהמרות הימור ממונף על כך שהביקוש לכוח המחשוב הזה ימשיך לצמוח. אם כן, המינוף יכפיל את התשואות שלהן הרבה מעבר למה שגישה מבוססת הון עצמי בלבד הייתה משיגה. אם צמיחת הביקוש מאכזבת או עלויות המימון עולות, אותו מינוף שהיה מכפיל רווחים מאיץ במקום זאת הפסדים – לעיתים מעבר לנקודה שבה ההון העצמי של החברה יכול לספוג אותם, מה שחושף גם את הנושים.\n\nזו הסיבה שמלווים וסוכנויות דירוג אשראי מתמקדים כל כך הרבה במידת המינוף של הלווה – לא כי חוב הוא רע מיסודו, אלא כי מינוף משנה כמה מרווח טעות יש לחברה לפני שירידה בעסקי הליבה שלה הופכת לבעיה קיומית במקום לנסיגה שניתן להתמודד איתה."
+      },
+      "tags": [
+        "economics",
+        "leverage",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-china-nuclear-test",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1964: China Detonates Its First Nuclear Bomb, Becoming the World's Fifth Nuclear Power",
+        "scroll": "On this day in 1964, China's 'Project 596' test made it the fifth country to possess nuclear weapons, reshaping Cold War-era deterrence in Asia.",
+        "coffee": "On October 16, 1964, China successfully detonated an implosion-type fission device at the Lop Nur test site in Xinjiang, codenamed Project 596. The device used around 15 kilograms of weapons-grade uranium-235 produced at the Lanzhou enrichment plant, and its success made China the fifth nation to possess nuclear weapons, after the United States, Soviet Union, United Kingdom and France.\n\nThe test mattered beyond the technical achievement. It came amid the Sino-Soviet split, giving China an independent deterrent rather than reliance on Soviet protection, and it reshaped the strategic balance in Asia during the Cold War, feeding directly into debates over nuclear proliferation that continue today — including current discussions about denuclearization diplomacy involving major powers.",
+        "deep": "## The test\n\nOn October 16, 1964, China detonated its first nuclear weapon at the Lop Nur test site in the Xinjiang region, in a test codenamed Project 596. The device was an implosion-type fission bomb built with approximately 15 kilograms of weapons-grade uranium-235, produced domestically at the Lanzhou gaseous diffusion enrichment plant — a detail that mattered enormously at the time, since it demonstrated China had built an independent, complete nuclear fuel cycle rather than relying on imported or stolen material.\n\n## Why it happened when it did\n\nChina's nuclear weapons program developed against the backdrop of the deepening Sino-Soviet split of the early 1960s, as the once-close alliance between Beijing and Moscow fractured over ideology and geopolitics. Where China had once depended, at least implicitly, on Soviet protection and technical assistance, Project 596's success gave Mao Zedong's government an independent nuclear deterrent that did not rely on Moscow's goodwill — a significant strategic shift at a moment when the relationship between the two communist powers was rapidly deteriorating into open rivalry.\n\n## The wider significance\n\nThe test made China the fifth country to possess nuclear weapons, following the United States (1945), the Soviet Union (1949), the United Kingdom (1952) and France (1960). It reshaped the strategic calculus in Asia during the Cold War, giving China leverage in regional disputes and complicating US and Soviet planning alike. China would go on to test a hydrogen bomb just three years later, in 1967 — an unusually fast progression compared with other nuclear powers.\n\n## Why it still resonates\n\nThe episode is a reminder that nuclear proliferation has historically followed geopolitical rupture as much as raw technical capability — a dynamic worth keeping in mind amid today's renewed talk of denuclearization diplomacy between major powers, where the underlying question is still whether any country's sense of security can survive giving up the deterrent it once felt forced to build."
+      },
+      "he": {
+        "headline": "1964: סין מפוצצת את פצצת הגרעין הראשונה שלה והופכת למעצמה הגרעינית החמישית בעולם",
+        "scroll": "ב-16 באוקטובר 1964, ניסוי 'פרויקט 596' של סין הפך אותה למדינה החמישית שמחזיקה בנשק גרעיני, ועיצב מחדש את מאזן ההרתעה באסיה בעידן המלחמה הקרה.",
+        "coffee": "ב-16 באוקטובר 1964, סין פוצצה בהצלחה מטען ביקוע מסוג אימפלוזיה באתר הניסויים לופ נור שבשינג'יאנג, בשם הקוד 'פרויקט 596'. המטען השתמש בכ-15 קילוגרם של אורניום-235 ברמת נשק, שיוצר במפעל ההעשרה בלאנז'ואו, וההצלחה הפכה את סין למדינה החמישית המחזיקה בנשק גרעיני, אחרי ארצות הברית, ברית המועצות, בריטניה וצרפת.\n\nהניסוי היה משמעותי מעבר להישג הטכני. הוא הגיע בעיצומו של הפילוג הסיני-סובייטי, והעניק לסין הרתעה עצמאית במקום הסתמכות על הגנה סובייטית, ועיצב מחדש את מאזן הכוחות האסטרטגי באסיה בתקופת המלחמה הקרה – דינמיקה שמזינה ישירות גם את הדיונים העכשוויים על דיפלומטיית פירוק נשק גרעיני בין מעצמות גדולות.",
+        "deep": "## הניסוי\n\nב-16 באוקטובר 1964, סין פוצצה את פצצת הגרעין הראשונה שלה באתר הניסויים לופ נור באזור שינג'יאנג, בניסוי שכונה בקוד 'פרויקט 596'. המטען היה פצצת ביקוע מסוג אימפלוזיה שנבנתה מכ-15 קילוגרם של אורניום-235 ברמת נשק, שיוצר באופן מקומי במפעל העשרת הגז בלאנז'ואו – פרט שהיה משמעותי מאוד באותה תקופה, שכן הוא הוכיח שסין בנתה מעגל דלק גרעיני עצמאי ומלא, ולא הסתמכה על חומר מיובא או גנוב.\n\n## למה זה קרה דווקא אז\n\nתוכנית הנשק הגרעיני של סין התפתחה על רקע העמקת הפילוג הסיני-סובייטי בתחילת שנות ה-60, כשהברית ההדוקה לשעבר בין בייג'ינג למוסקבה התפוררה סביב אידיאולוגיה וגיאופוליטיקה. במקום שבה סין הסתמכה פעם, לפחות באופן משתמע, על הגנה וסיוע טכני סובייטי, הצלחת פרויקט 596 העניקה לממשלתו של מאו דזה-דונג הרתעה גרעינית עצמאית שלא הייתה תלויה ברצון הטוב של מוסקבה – שינוי אסטרטגי משמעותי ברגע שבו היחסים בין שתי המעצמות הקומוניסטיות התדרדרו במהירות ליריבות גלויה.\n\n## המשמעות הרחבה\n\nהניסוי הפך את סין למדינה החמישית המחזיקה בנשק גרעיני, אחרי ארצות הברית (1945), ברית המועצות (1949), בריטניה (1952) וצרפת (1960). הוא עיצב מחדש את החישוב האסטרטגי באסיה בתקופת המלחמה הקרה, העניק לסין מנוף בסכסוכים אזוריים וסיבך את התכנון האמריקאי והסובייטי כאחד. סין המשיכה לנסות פצצת מימן כעבור שלוש שנים בלבד, ב-1967 – קצב התקדמות מהיר באופן חריג בהשוואה למעצמות גרעיניות אחרות.\n\n## למה זה עדיין מהדהד\n\nהפרשה מזכירה שהתפשטות הנשק הגרעיני עקבה היסטורית אחר קרע גיאופוליטי לא פחות מאשר אחר יכולת טכנית גרידא – דינמיקה שכדאי לזכור בעיצומו של דיבור מחודש על דיפלומטיית פירוק נשק גרעיני בין מעצמות גדולות, שבו השאלה הבסיסית היא עדיין האם תחושת הביטחון של מדינה כלשהי יכולה לשרוד ויתור על ההרתעה שהיא פעם הרגישה מחויבת לבנות."
+      },
+      "tags": [
+        "history",
+        "nuclear-proliferation",
+        "china"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1964: With the success of Project 596, China became the world's fifth nuclear power.",
+          "url": "https://en.wikipedia.org/wiki/Project_596"
+        }
+      ]
+    }
+  ]
+}
