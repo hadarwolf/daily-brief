@@ -24,126 +24,153 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2018,
-   "text": "Thirteen-year-old Jayme Closs was kidnapped from her home in Barron, Wisconsin, and held captive for 88 days.",
+   "year": 2017,
+   "text": "The Maltese journalist and anti-corruption activist Daphne Caruana Galizia was killed in a car bomb attack in Bidnija.",
    "context": [
-    "On October 15, 2018, 21-year-old Jake Thomas Patterson abducted 13-year-old Jayme Lynn Closs after fatally shooting her parents, James and Denise Closs, at their home just outside of Barron, Wisconsin, at 12:53 a.m. Patterson took Closs to a house 70 miles (110 km) away in rural Gordon, Wisconsin, and held her in captivity for 88 days until she escaped on January 10, 2019, seeking help from neighbors."
+    "Daphne Anne Caruana Galizia was a Maltese writer, journalist, blogger and anti-corruption activist who reported on political events in Malta. She was known internationally for her investigation of the Panama Papers and her subsequent assassination by a car bomb."
    ]
   },
   {
    "ref": "wikipedia#1",
    "year": 2013,
-   "text": "A 7.2-magnitude earthquake struck Bohol in the Philippines, resulting in 222 deaths.",
+   "text": "In Laos's deadliest air accident, Lao Airlines Flight 301 crashed into the Mekong River, resulting in the deaths of all 49 people aboard.",
    "context": [
-    "The 2013 Bohol earthquake occurred on October 15 at 8:12:31 PST in Bohol, an island province located in Central Visayas, Philippines. The magnitude of the earthquake was recorded at Mw 7.2, its epicenter in the vicinity of 6 kilometres (3.7 mi) S 24° W of Sagbayan, and its depth of focus at 12 kilometres (7.5 mi). It affected the whole Central Visayas region, particularly Bohol and Cebu. The earthquake was felt in the whole Visayas area and as far as Masbate island in the north and Cotabato provinces in southern Mindanao."
+    "Lao Airlines Flight 301 was a scheduled domestic passenger flight from Vientiane to Pakse, Laos. On 16 October 2013, the ATR 72-600 aircraft operating the flight crashed into the Mekong River near Pakse, killing all 49 people on board. The accident was the first involving an ATR 72-600 and the deadliest ever to occur on Lao soil."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2011,
-   "text": "Global demonstrations against economic inequality, corporate influence on government, and other issues, were held in more than 950 cities in 82 countries.",
+   "year": 1991,
+   "text": "A man drove his vehicle through the window of a Luby's Cafeteria in Killeen, Texas, and opened fire, killing 23 people before fatally shooting himself.",
    "context": [
-    "The 15 October 2011 global protests were part of a series of protests inspired by the Arab Spring, the Icelandic protests, the Portuguese \"Geração à Rasca\", the Spanish \"Indignants\", the Greek protests, and the Occupy movement. The protests were launched under the slogan \"United for #GlobalChange\", to which the slogan \"United for Global Democracy\" was added by many people's assemblies. The protest was first called for by the Spanish Plataforma ¡Democracia Real YA! in May 2011 and endorsed by people's assemblies across the world. Reasons were varied but mainly targeted growing economic inequality, corporate influence over government and international institutions, and the lack of truly democratic institutions allowing direct public participation at all levels, local to global. Global demonstrations were held on 15 October in more than 950 cities in 82 countries. The date was chosen to coincide with the 5-month anniversary of the first protest in Spain. General assemblies, the social network n-1, mailing lists, Mumble voice chat, open pads such as Pirate Pad and Titan Pad, and Facebook were used to coordinate the events. Some protests were only a few hundred in number, whereas others numbered in the hundreds of thousands, with the largest in Madrid numbering half a million and the second largest city Barcelona with 400,000."
+    "Luby’s Restaurant Corporation is a chain of cafeteria-style restaurants in Texas. In the past, Luby's Inc. also owned the Fuddruckers, Koo Koo Roo, and Cheeseburger in Paradise restaurant chains."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2007,
-   "text": "New Zealand Police conducted several anti-terrorism raids in relation to the discovery of an alleged paramilitary training camp in the Urewera mountain ranges, arresting 17 people and seizing four guns and 230 rounds of ammunition.",
+   "year": 1973,
+   "text": "The Norwegian Nobel Committee announced that the 1973 Nobel Peace Prize would be jointly awarded to Henry Kissinger and Lê Đức Thọ, sparking international controversy.",
    "context": [
-    "The New Zealand Police is the national police service and principal law enforcement agency of New Zealand, responsible for preventing crime, enhancing public safety, bringing offenders to justice, and maintaining public order. With over 15,000 personnel, it is the largest law enforcement agency in New Zealand and, with few exceptions, has primary jurisdiction over the majority of New Zealand criminal law. The New Zealand Police also has responsibility for traffic and commercial vehicle enforcement as well as other key responsibilities including protection of dignitaries, firearms licensing, and matters of national security."
+    "The Norwegian Nobel Committee selects the recipients of the Nobel Peace Prize each year on behalf of Swedish industrialist Alfred Nobel's estate, based on instructions of Nobel's will."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 2006,
-   "text": "An earthquake registering 6.7 Mw occurred off the northwestern coast of the island of Hawaiʻi.",
+   "year": 1964,
+   "text": "With the success of Project 596, China became the world's fifth nuclear power.",
    "context": [
-    "The 2006 Kīholo Bay earthquake occurred on October 15 at 07:07:49 local time with a magnitude of 6.7 and a maximum Mercalli intensity of VIII (Severe). The shock was centered 21 kilometers (13 mi) southwest of Puakō and 21 km (13 mi) north of Kailua-Kona, Hawaiʻi, just offshore of the Kona Airport, at a depth of 38.2 km (23.7 mi). It produced several aftershocks, including one that measured a magnitude of 6.1 seven minutes after the main shock. The Pacific Tsunami Warning Center measured a nondestructive tsunami of 4 in (100 mm) on the coast of the Big Island."
+    "Project 596 was the first nuclear test of the nuclear weapons program of China, detonated on 16 October 1964, at the Lop Nur test site in Xinjiang. It was an implosion fission device containing about 15 kg weapons-grade uranium (U-235), produced at the Lanzhou enrichment plant."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1996,
-   "text": "The Irish Criminal Assets Bureau was established following the gangland murders of Detective Garda Jerry McCabe and investigative journalist Veronica Guerin.",
+   "year": 1950,
+   "text": "The first novel of the The Chronicles of Narnia series by C. S. Lewis, The Lion, the Witch and the Wardrobe, was published in the United Kingdom.",
    "context": [
-    "The Criminal Assets Bureau (CAB) is a law enforcement agency in Ireland. The CAB was established with powers to focus on the illegally acquired assets of criminals involved in serious crime. The aims of the CAB are to identify the criminally acquired assets of persons and to take the appropriate action to deny such people these assets. This action is taken particularly through the application of the Proceeds of Crime Act 1996. The CAB was established as a body corporate with perpetual succession in 1996 and is founded on the multi-agency concept, drawing together law enforcement officers, tax officials and social welfare officials as well as other specialist officers including legal officers, forensic analysts and financial analysts. This multi-agency concept is regarded by some as the model for other European jurisdictions."
+    "The Chronicles of Narnia is a series of seven portal fantasy novels by British author C. S. Lewis. Illustrated by Pauline Baynes and originally published between 1950 and 1956, the series is set in the fictional realm of Narnia, a fantasy world of magic, mythical beasts, and talking animals. It narrates the adventures of various children who play central roles in the unfolding history of the Narnian world. Except in The Horse and His Boy, the protagonists are all children from the real world who are magically transported to Narnia, where they are sometimes called upon by the lion Aslan to protect Narnia from evil. The books span the entire history of Narnia, from its creation in The Magician's Nephew to its eventual destruction in The Last Battle."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1979,
-   "text": "President Carlos Humberto Romero of El Salvador was overthrown and exiled in a military coup d'état.",
+   "year": 1944,
+   "text": "A  four-day air battle over Taiwan ended with a decisive American victory, destroying hundreds of Japanese aircraft and military facilities.",
    "context": [
-    "Carlos Humberto Romero Mena was a Salvadoran general and politician who served as the 34th President of El Salvador from 1 July 1977 until his overthrow on 15 October 1979. Romero was the final president of the El Salvador's military dictatorship that had ruled since 1931."
+    "The Formosa Air Battle, 12–16 October 1944, was a series of large-scale aerial engagements between carrier air groups of the United States Navy Fast Carrier Task Force and Japanese land-based air forces of the Imperial Japanese Navy (IJN) and Imperial Japanese Army (IJA). The battle consisted of American air raids against Japanese military installations on Taiwan during the day and Japanese air attacks at night against American ships. Japanese losses exceeded 300 planes destroyed in the air, while American losses amounted to fewer than 100 aircraft destroyed and two cruisers damaged. This outcome effectively deprived the Japanese Navy's Combined Fleet of air cover for future operations, which proved decisive during the Battle of Leyte Gulf later in October."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1967,
-   "text": "The Motherland Calls (depicted in coat of arms), a colossal statue in Volgograd, Russia, which commemorates the casualties of the Battle of Stalingrad, was dedicated, becoming the then-tallest statue in the world.",
+   "year": 1943,
+   "text": "The Holocaust: The Gestapo conducted a raid on the Roman Ghetto, capturing 1,259 members of the Jewish community, most of whom were sent to Auschwitz.",
    "context": [
-    "The Motherland Calls is a colossal neoclassicist and socialist realist war memorial sculpture on Mamayev Kurgan in Volgograd, Russia. Designed primarily by sculptor Yevgeny Vuchetich with assistance from architect Yakov Belopolsky, the concrete sculpture commemorates the casualties of the Battle of Stalingrad, and is the predominant component of a monument complex, which includes several plazas and other sculptural works. Standing 85 metres (279 ft) tall from the base of its pedestal to its peak, the statue was the tallest in the world upon its completion in 1967, and is the tallest statue in Europe if including the pedestal. The statue, along with the rest of the complex, was dedicated on 15 October 1967, and has been listed as a tentative candidate for UNESCO's list of World Heritage Sites since 2014."
+    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1965,
-   "text": "Vietnam War protests: At an anti-war rally in New York City, David J. Miller burned his draft card (example pictured), the first such act to result in arrest under a new amendment to the Selective Service Act.",
+   "year": 1926,
+   "text": "Háry János (poster pictured), a Hungarian folk opera by Zoltán Kodály, was premiered at the Royal Hungarian Opera House in Budapest.",
    "context": [
-    "Opposition to United States involvement in the Vietnam War reached a substantial scale in 1965 with demonstrations against the country's escalating role in the war. Over the next several years, these demonstrations grew into a social movement which was incorporated into the broader counterculture of the 1960s."
+    "Háry János is a Hungarian folk opera in four acts by Zoltán Kodály with a libretto by Béla Paulini and Zsolt Harsányi. The opera is in the Singspiel style. The libretto is based on János Garay's comic poem \"The Veteran\" about a drunkard named Háry János. The subtitle of the piece is Háry János Kalandozásai Nagyabonytul a Burgváráig – Háry János: his Adventures from Nagyabony to the Vienna Burg."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1954,
-   "text": "Hurricane Hazel made landfall in the Carolinas in the United States before moving north to Toronto in Canada later the same day, killing 176 people in the two countries.",
+   "year": 1923,
+   "text": "Roy and Walt Disney (pictured) founded the Disney Brothers Cartoon Studio in Hollywood, which eventually grew to become one of the largest media and entertainment corporations in the world.",
    "context": [
-    "Hurricane Hazel was the deadliest, second-costliest, and most intense hurricane of the 1954 Atlantic hurricane season. The storm killed at least 469 people in Haiti before it struck the United States near the border between North and South Carolina as a Category 4 hurricane. After causing 95 fatalities in the US, Hazel struck Canada as an extratropical storm, which raised the death toll by 81 people, mostly in Toronto. As a result of the high death toll and the damage caused by Hazel, its name was retired from use for North Atlantic hurricanes."
+    "Roy Oliver Disney was an American entrepreneur. He co-founded with his younger brother Walt what is now the Walt Disney Company in October 1923. Disney also served as the company's first chief executive officer and was the father of Roy E. Disney."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1932,
-   "text": "Air India (modern aircraft pictured), the flag carrier airline of India, began operations under the name Tata Airlines.",
+   "year": 1916,
+   "text": "Margaret Sanger (pictured) established the United States' first family planning clinic in Brooklyn, New York.",
    "context": [
-    "Air India is the flag carrier of India, headquartered in Gurugram, Haryana. The airline is owned by Air India Limited, which is owned by the Tata Group (74.9%) and Singapore Airlines (25.1%). The airline is a member of Star Alliance since 11 July 2014. As of November 2025, the airline serves 87 domestic and international destinations, from its primary hub at Indira Gandhi International Airport, and secondary hubs at Kempegowda International Airport and Chhatrapati Shivaji Maharaj International Airport. The airline operates a fleet of Airbus and Boeing aircraft, and is the second-largest airline in India by passenger volume, after IndiGo."
+    "Margaret Sanger was an American birth control activist, sex educator, writer, and nurse. She opened the first birth control clinic in the United States, founded Planned Parenthood, and was instrumental in the development of the first birth control pill. Sanger is regarded as a founder and leader of the U.S. birth control movement."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1888,
-   "text": "The \"From Hell\" letter, allegedly from Jack the Ripper, was sent to George Lusk, the chairman of the Whitechapel Vigilance Committee in London.",
+   "year": 1905,
+   "text": "Authorities of the British Raj partitioned the Bengal Presidency, separating the largely Muslim eastern areas from the largely Hindu western areas.",
    "context": [
-    "The \"From Hell\" letter was a letter sent with half of a preserved human kidney to George Lusk, the chairman of the Whitechapel Vigilance Committee, in October 1888. The author of this letter claimed to be the unidentified serial killer known as Jack the Ripper, who had murdered and mutilated at least four women in the Whitechapel and Spitalfields districts of London in the two months prior to Lusk receiving this letter, and whose vigilance committee Lusk led in civilian efforts to assist the police in identifying and apprehending the perpetrator."
+    "The British Raj was the period of rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India, or direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially. As India, it was a founding member of the League of Nations and a founding member of the United Nations in San Francisco in 1945. India was a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1864,
-   "text": "American Civil War: Confederate forces captured Glasgow, Missouri, although it had little long-term benefit as Price's Missouri Expedition was defeated a week later.",
+   "year": 1875,
+   "text": "Brigham Young University was founded in Provo, Utah, United States.",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as US president in 1860 and the growing abolitionist movement in the North. The war ended with Union victory, the dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "Brigham Young University (BYU) is a private research university in Provo, Utah, United States. It was founded in 1875 by religious leader Brigham Young and is the flagship university of the Church Educational System (CES) of the Church of Jesus Christ of Latter-day Saints."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1815,
-   "text": "Napoleon began his exile on Saint Helena in the South Atlantic Ocean, which would encompass his final six years.",
+   "year": 1841,
+   "text": "The Church of Scotland established Queen's College in Kingston, Ontario, in Canada.",
    "context": [
-    "Napoleon Bonaparte, later known by his regnal name Napoleon I, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. He rose to prominence as a general during the French Revolution and led a series of military campaigns across Europe and the Middle East during the French Revolutionary and Napoleonic Wars. As a statesman, he implemented numerous legal and administrative reforms in France and Europe."
+    "The Church of Scotland is a Reformed denomination of Christianity that holds the status of the national and established church of Scotland. It is one of the country's larger denominations, having 229,000 members in 2025, or 4% of the Scottish population. In the 2022 census, 1,108,796 people, or 20% of the Scottish population, claimed affiliation with the church."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1529,
-   "text": "Ottoman–Habsburg wars: The siege of Vienna ended with Austrian forces repelling the invading Turks, turning the tide against almost a century of conquest in Europe by the Ottoman Empire.",
+   "year": 1834,
+   "text": "Most of the Palace of Westminster in London was destroyed in a fire caused by the burning of wooden tally sticks.",
    "context": [
-    "The Ottoman–Habsburg wars were fought from the 16th to the 18th centuries between the Ottoman Empire and the Habsburg monarchy, which was at times supported by the Kingdom of Hungary, Polish–Lithuanian Commonwealth, the Holy Roman Empire, and Habsburg Spain. The wars were dominated by land campaigns in Hungary, including Transylvania and Vojvodina, Croatia, and central Serbia."
+    "The Palace of Westminster is the meeting place of the Parliament of the United Kingdom and is located in London, England. It is colloquially known as the Houses of Parliament after the House of Commons and the House of Lords, the two legislative chambers which occupy the building. The palace is one of the centres of political life in the United Kingdom; \"Westminster\" has become a metonym for the UK Parliament and government, and the Westminster system of government commemorates the name of the palace. The Elizabeth Tower of the palace houses the bell nicknamed Big Ben and is a landmark of London and the United Kingdom in general. The palace has been a Grade I listed building since 1970 and part of a UNESCO World Heritage Site since 1987."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1813,
+   "text": "The Sixth Coalition attacked French forces led by Napoleon in the Battle of Leipzig, the largest conflict in the Napoleonic Wars, with over 500,000 troops involved.",
+   "context": [
+    "The War of the Sixth Coalition, sometimes known in Germany as the Wars of Liberation saw a coalition of Austria, Prussia, Russia, Spain, the United Kingdom, Portugal, Sweden, Sardinia, and a number of German states defeat the First French Empire and force Napoleon into exile on Elba. Following the disastrous French invasion of Russia in 1812 in which they had been forced to support France, Prussia and Austria joined Russia, Britain, Sweden, Portugal and Spain against France."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1793,
+   "text": "War of the First Coalition: The two-day Battle of Wattignies concluded with Jean-Baptiste Jourdan leading French forces to victory over Prince Josias of Saxe-Coburg-Saalfeld.",
+   "context": [
+    "The War of the First Coalition was a set of wars between a coalition of several European powers and France fought from 1792 to 1797. The coalition was only loosely allied and fought without much coordination; each power wanted to annex a different part of France should they defeat the French, something that never occurred."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 1384,
+   "text": "Jadwiga was officially crowned as \"King of Poland\" instead of \"Queen\" to reflect the fact that she was a sovereign in her own right.",
+   "context": [
+    "Jadwiga, also known as Hedwig, was Queen of the Kingdom of Poland, as well as its last hereditary ruler. Crowned \"King\" to highlight her sovereign status, she reigned from 16 October 1384 until her death. Born in Buda, she was the youngest daughter of Louis I of Hungary and Elizabeth of Bosnia. Jadwiga was a member of the Capetian House of Anjou and had forebears among the Polish Piasts."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Moral hazard (סיכון מוסרי)",
+  "Winner-take-all market (שוק שבו המנצח לוקח הכל)",
+  "Poison pill (גלולת רעל)",
   "Covenant (אמנת אשראי / תנאי הלוואה)",
   "Take a haircut (לספוג \"תספורת\" / הפחתה בערך)",
   "Whistle past the graveyard (לשרוק ליד בית הקברות / להתעלם מסכנה גלויה)",

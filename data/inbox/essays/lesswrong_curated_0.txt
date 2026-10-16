@@ -314,16 +314,6 @@ A term and thesis coined by Duncan Sabien. I ought to write it up at some point,
 
 Duncan himself has written No Arrogance Like That Of The Recently Humbled.
 
-"Oh, is that where bellingcat gets its name?"
-
-"But how is the fable connected to what they do? I don't get it"
-
-Press Gazette: Looking at the reporting Bellingcat does, it would be easy to mistake them for the kind of journalists you see in spy thrillers; doggedly exposing the espionage and hidden affairs of evil regimes. It’s even where the organisation’s name comes from – Higgins took it from an old fable, “belling the cat”, where a group of mice plan to stick bells on their hated neighbourhood cat, so they would know when it was coming to eat them. The simple lesson for Higgins; the powerful and dangerous shouldn’t be allowed to move in silence.
-
-American University book review: The name “Bellingcat” came from the fable of mice deciding to put a bell on the cat that is after them. Their problem, of course, was figuring out who would take the risk. Higgins and his team of online sleuths believe it is their responsibility to put the bell on the cat of governments, companies, and any other nefarious organization that wants to hide information from the public.
-
-(thank you brain for focusing on the most essential things)
-
 Okay, I know how this sounds, but there seems to be strong evidence for a reputable way to get reactionless thrust in general relativity, though it scales with curvature and so won't do anything far away from any mass-energy. It is perhaps an interesting example of what sort of things actually succeed at belling cats.
 
 Here's the paper by Jack Wisdom[1] and here's a more comprehensible one by Avron and Kenneth. Here's a paper and associated video on making a robot on a curved sphere that exhibits the effect for what should be the same mathematical reasons. Here's a pop-sci level article in Scientific American (that links to a JSTOR version with images, here's a link to the version on their website) covering the Wisdom article, that also cites a paper (co-authored by the author) building off of Wisdom's that lets you slow the fall of a falling particle. Here's an arxiv paper from last year extended the theory too. There is, however, this paper on arxiv that finds a flaw in Wisdom's analysis, but it also fixes the flaw and still gets swimmers (but with different conditions and with different magnitudes). There's also this paper that builds off of their paper, investigating the approxim... (read more)
@@ -335,6 +325,16 @@ However, to get “no reactionless drives” / “center-of-mass momentum is fix
 This local-to-global integration step definitely works in flat space—that’s the homework problem everyone does in college. By contrast, the local-to-global step might or might not work if spacetime is curvy or otherwise weird. As a silly toy example, if you assume wormholes / teleportation portals, then it’s easy to construct examples where local conservation of momentum fails to constrain center-of-mass acceleration. (We were chatting about it here.)
 
 All the other familiar global conservation laws (energy etc.) are ... (read more)
+
+"Oh, is that where bellingcat gets its name?"
+
+"But how is the fable connected to what they do? I don't get it"
+
+Press Gazette: Looking at the reporting Bellingcat does, it would be easy to mistake them for the kind of journalists you see in spy thrillers; doggedly exposing the espionage and hidden affairs of evil regimes. It’s even where the organisation’s name comes from – Higgins took it from an old fable, “belling the cat”, where a group of mice plan to stick bells on their hated neighbourhood cat, so they would know when it was coming to eat them. The simple lesson for Higgins; the powerful and dangerous shouldn’t be allowed to move in silence.
+
+American University book review: The name “Bellingcat” came from the fable of mice deciding to put a bell on the cat that is after them. Their problem, of course, was figuring out who would take the risk. Higgins and his team of online sleuths believe it is their responsibility to put the bell on the cat of governments, companies, and any other nefarious organization that wants to hide information from the public.
+
+(thank you brain for focusing on the most essential things)
 
 I think the young mouse could be more willing to learn from the old mouse, but the old mouse should also be more willing to support. I'm not a good writer, but maybe Sol brings this point across:
 
@@ -356,15 +356,17 @@ The young Mouse hesitated. “Probably irrelevant.”
 
 “Probably,” agreed the old Mouse. “Unless we use it first as a distant alarm near the sleeping place, to
 
-And Irving said it was a good question and he might need to get back to me on that.
+To pick up Aesop's fable, where Eliezer left off:
 
-I didn't see the discussion, but it seems odd to me that a debate-aligner would grant the premise here - isn't the whole idea of debate that informative responses do exist in very specific parts of the dialogue-tree? I don't think the empirical case is as damning as you make it sound:
+The young mouse, not deterred by the old mouse, went to work. The old mouse sighed to himself: “ah, to be young and naive is a wonderful thing, but one day we must all come to terms with the impossibility of preventing the cat from killing all of us.”
 
-Mathematics mostly operates by the Scholastic Method. It has parts with easily demonstrable implications, but also other parts which are quite far from that, and it's mostly fine.
+A few days passed and the young mouse showed no sign of stopping. Of course he still had no plan for how he would get the bell around the cat’s neck, but he thought to himself: “I’ll cross that bridge when I get to it” and went on tackling the next part of the problem. What colour should the bell be? Blue or white?
 
-And people do fail to recognise the right answer, justified with the right reasons, at times - but that is also not always the best argument (to them) for that right answer. You might have needed to present it differently, or attack the reasons people don't accept the arguments first, or...etc. We don't demand you do this stuff to get Science Genius Credits afterwards, but that also means you can find examples of people failing to appreciate the Perfect Science Genius, without that necessarily bearing on judging debates of Science-and-Pedagogy Geniuses.
+He worked and worked and worked all through the night. The morning sun was starting to rise and the little mouse finally passed out from exhaustion. But his collar was complete.
 
-I still don't really expect this to work, but more so on priors.
+That morning Susanna walked into the utilities closet looking for potash soap to clean the kitchen floor. As she bent down she saw something curious. A little blue bell attached to a lovely white collar. "Oh isn’t that just the cutest thing” she thought to herself. "It would be just perfect for Mr. biggles.”
+
+She found the cat resting in her couch and attached the lovely little collar around Mr. Biggles’ n
 
 in general this is a real problem that happens a lot in alignment. i’m not here to defend bad alignment proposals. but also i think there is an opposite problem that happens too, certainly in other fields, and possibly in alignment. a lot of problems can actually just be solved adequately enough by dodging the “hard part” of the problem, or ignoring the asymptotics, etc. in these cases, worrying about solutions not solving the “hard part” is actually just not a good idea. see also relevant xkcd.
 
