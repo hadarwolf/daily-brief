@@ -24,21 +24,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#1",
-     "title": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him - AP News",
-     "published": "2026-10-16T05:41:00+00:00",
-     "summary": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him AP News"
-    },
-    {
-     "ref": "ap_world#2",
      "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 - AP News",
      "published": "2026-10-16T05:36:00+00:00",
      "summary": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#2",
      "title": "Israel’s Arab-led parties could decide the election if anyone would partner with them - AP News",
      "published": "2026-10-16T05:01:18+00:00",
      "summary": "Israel’s Arab-led parties could decide the election if anyone would partner with them AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Policing of France’s school protests clouds Macron’s final months and sparks uproar - AP News",
+     "published": "2026-10-16T04:57:00+00:00",
+     "summary": "Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News"
     },
     {
      "ref": "ap_world#4",
@@ -60,39 +60,39 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#7",
-     "title": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige - AP News",
-     "published": "2026-10-16T04:02:00+00:00",
-     "summary": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige AP News"
-    },
-    {
-     "ref": "ap_world#8",
      "title": "Sullivan, Peltola clash over Iran, consumer prices in televised debate in Alaska US Senate race - AP News",
      "published": "2026-10-16T03:42:00+00:00",
      "summary": "Sullivan, Peltola clash over Iran, consumer prices in televised debate in Alaska US Senate race AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#8",
      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path - AP News",
      "published": "2026-10-16T03:32:00+00:00",
      "summary": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#9",
      "title": "Hurricane Trudy strengthens off Mexico’s coast with major storm expected - AP News",
      "published": "2026-10-16T03:25:00+00:00",
      "summary": "Hurricane Trudy strengthens off Mexico’s coast with major storm expected AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#10",
      "title": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness - AP News",
      "published": "2026-10-16T03:11:00+00:00",
      "summary": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#11",
      "title": "Troy Jackson tells Susan Collins to ‘shut up’ during heated Maine Senate debate - AP News",
      "published": "2026-10-16T02:56:00+00:00",
      "summary": "Troy Jackson tells Susan Collins to ‘shut up’ during heated Maine Senate debate AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him - AP News",
+     "published": "2026-10-16T02:56:00+00:00",
+     "summary": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him AP News"
     },
     {
      "ref": "ap_world#13",

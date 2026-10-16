@@ -53,18 +53,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-16T18:45:00Z",
-     "home": "Frosinone",
-     "away": "Sassuolo",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-16T18:45:00Z",
      "home": "Le Mans",
      "away": "Toulouse",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-16T18:45:00Z",
+     "home": "Frosinone",
+     "away": "Sassuolo",
      "status": "TIMED",
      "score": null
     },
@@ -605,123 +605,123 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#5",
+     "title": "Rafael Navarro Outscoring Messi at St. Louis City - Yahoo Sports",
+     "published": "2026-10-16T02:50:00+00:00",
+     "summary": "Rafael Navarro Outscoring Messi at St. Louis City Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
      "title": "Gonzalez calls on Miami 'to keep improving' after securing playoff berth - beIN SPORTS",
      "published": "2026-10-15T22:57:50+00:00",
      "summary": "Gonzalez calls on Miami 'to keep improving' after securing playoff berth beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Gonzalez calls on Miami 'to keep improving' after securing playoff berth - FotMob",
      "published": "2026-10-15T22:57:50+00:00",
      "summary": "Gonzalez calls on Miami 'to keep improving' after securing playoff berth FotMob"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Lionel Messi makes MLS history as Inter Miami superstar climbs above Zlatan Ibrahimović - https://www.transfermarkt.us/",
      "published": "2026-10-15T22:53:05+00:00",
      "summary": "Lionel Messi makes MLS history as Inter Miami superstar climbs above Zlatan Ibrahimović https://www.transfermarkt.us/"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Lionel Messi closing in on Carlos Vela’s MLS goalscoring record as Inter Miami captain keeps making history - World Soccer Talk",
      "published": "2026-10-15T22:09:45+00:00",
      "summary": "Lionel Messi closing in on Carlos Vela’s MLS goalscoring record as Inter Miami captain keeps making history World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Inter Miami CF secures 2026 MLS playoff spot after 2-0 win over NYC FC - USA Today",
      "published": "2026-10-15T21:16:00+00:00",
      "summary": "Inter Miami CF secures 2026 MLS playoff spot after 2-0 win over NYC FC USA Today"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "The biggest threat to Inter Miami and Lionel Messi in the MLS Cup playoffs - Diario AS",
      "published": "2026-10-15T20:56:19+00:00",
      "summary": "The biggest threat to Inter Miami and Lionel Messi in the MLS Cup playoffs Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Better than ever? Inter Miami star Lionel Messi unstoppable since the World Cup - Diario AS",
      "published": "2026-10-15T20:30:36+00:00",
      "summary": "Better than ever? Inter Miami star Lionel Messi unstoppable since the World Cup Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Lionel Messi’s Princess of Asturias Award trip could put his Inter Miami return vs Red Bull New York in doubt - World Soccer Talk",
      "published": "2026-10-15T19:24:26+00:00",
      "summary": "Lionel Messi’s Princess of Asturias Award trip could put his Inter Miami return vs Red Bull New York in doubt World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami MLS Cup: Can Messi and Suarez's Form Deliver Another Title? - Yahoo Sports",
      "published": "2026-10-15T18:21:54+00:00",
      "summary": "Inter Miami MLS Cup: Can Messi and Suarez's Form Deliver Another Title? Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "St. Clair and De Paul Named to MLS Team of the Matchday - Inter Miami CF",
      "published": "2026-10-15T18:03:58+00:00",
      "summary": "St. Clair and De Paul Named to MLS Team of the Matchday Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Atlanta United vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-15T16:33:00+00:00",
      "summary": "Atlanta United vs Inter Miami: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Messi, Inter Miami blank NYC to book playoffs spot - The Manila Times",
      "published": "2026-10-15T16:01:00+00:00",
      "summary": "Messi, Inter Miami blank NYC to book playoffs spot The Manila Times"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Messi's Inter Miami book playoffs with 2-0 win over New York City - The Bangladesh Today",
      "published": "2026-10-15T15:23:32+00:00",
      "summary": "Messi's Inter Miami book playoffs with 2-0 win over New York City The Bangladesh Today"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami At Atlanta, Toronto At Red Bulls: MLS Picks For Saturday - RG.org",
      "published": "2026-10-15T13:32:50+00:00",
      "summary": "Inter Miami At Atlanta, Toronto At Red Bulls: MLS Picks For Saturday RG.org"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "MLS Odds This Weekend: Atlanta Vs Inter Miami, Red Bulls Vs Toronto - RG.org",
      "published": "2026-10-15T13:13:50+00:00",
      "summary": "MLS Odds This Weekend: Atlanta Vs Inter Miami, Red Bulls Vs Toronto RG.org"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Inter Miami CF secures 2026 MLS playoff spot after 2-0 win over NYC FC - Yahoo",
      "published": "2026-10-15T13:10:10+00:00",
      "summary": "Inter Miami CF secures 2026 MLS playoff spot after 2-0 win over NYC FC Yahoo"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Atlanta United FC vs Inter Miami CF: previous stats | MLS - Liga USA 2026 - Diario AS",
      "published": "2026-10-15T11:53:49+00:00",
      "summary": "Atlanta United FC vs Inter Miami CF: previous stats | MLS - Liga USA 2026 Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Messi’s Inter Miami Beat New York City, Book Playoffs - Channels Television",
      "published": "2026-10-15T11:31:23+00:00",
      "summary": "Messi’s Inter Miami Beat New York City, Book Playoffs Channels Television"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Inter Miami pulls off a stunning one-touch move for an unbelievable goal - Diario AS",
      "published": "2026-10-15T11:01:56+00:00",
      "summary": "Inter Miami pulls off a stunning one-touch move for an unbelievable goal Diario AS"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Inter Miami's Gonzalez determined to support grieving Messi - SportyTV",
-     "published": "2026-10-15T10:38:00+00:00",
-     "summary": "Inter Miami's Gonzalez determined to support grieving Messi SportyTV"
     }
    ]
   },
@@ -737,9 +737,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#1",
-     "title": "Ben Saraf vs Bahcesehir Koleji Istanbul: stats, game log - BasketNews.com",
-     "published": "2026-10-15T15:17:26+00:00",
-     "summary": "Ben Saraf vs Bahcesehir Koleji Istanbul: stats, game log BasketNews.com"
+     "title": "Ben Saraf last 10 games: stats and game log - BasketNews.com",
+     "published": "2026-10-15T20:18:50+00:00",
+     "summary": "Ben Saraf last 10 games: stats and game log BasketNews.com"
     },
     {
      "ref": "gnews_israeli_nba#2",
@@ -761,123 +761,123 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#5",
+     "title": "Deni Avdija last 5 games: stats and game log - BasketNews.com",
+     "published": "2026-10-15T05:29:27+00:00",
+     "summary": "Deni Avdija last 5 games: stats and game log BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija playoff stats: averages by season and series - BasketNews.com",
      "published": "2026-10-15T04:39:24+00:00",
      "summary": "Deni Avdija playoff stats: averages by season and series BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija vs Houston Rockets: stats, game log - BasketNews.com",
      "published": "2026-10-15T04:19:14+00:00",
      "summary": "Deni Avdija vs Houston Rockets: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Ben Saraf vs Buducnost VOLI Podgorica: stats, game log - BasketNews.com",
      "published": "2026-10-15T04:17:25+00:00",
      "summary": "Ben Saraf vs Buducnost VOLI Podgorica: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Ja Morant gives Blazers the secondary playmaker Deni Avdija never had - Rip City Project",
      "published": "2026-10-14T21:26:25+00:00",
      "summary": "Ja Morant gives Blazers the secondary playmaker Deni Avdija never had Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Ben Saraf vs Dolomiti Energia Trento: stats, game log - BasketNews.com",
      "published": "2026-10-14T20:39:05+00:00",
      "summary": "Ben Saraf vs Dolomiti Energia Trento: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija pours in 26/9/4 line vs. Sacramento - NBC Sports",
      "published": "2026-10-14T20:30:10+00:00",
      "summary": "Deni Avdija pours in 26/9/4 line vs. Sacramento NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Ben Saraf vs Trefl Sopot: stats, game log - BasketNews.com",
      "published": "2026-10-14T19:49:31+00:00",
      "summary": "Ben Saraf vs Trefl Sopot: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Ben Saraf vs Wolves Twinsbet Vilnius: stats, game log - BasketNews.com",
      "published": "2026-10-14T19:04:59+00:00",
      "summary": "Ben Saraf vs Wolves Twinsbet Vilnius: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Ben Saraf vs Besiktas Istanbul: stats, game log - BasketNews.com",
      "published": "2026-10-14T18:54:17+00:00",
      "summary": "Ben Saraf vs Besiktas Istanbul: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Ben Saraf vs Hapoel IBI Tel Aviv: stats, game log - BasketNews.com",
      "published": "2026-10-14T18:10:29+00:00",
      "summary": "Ben Saraf vs Hapoel IBI Tel Aviv: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija vs Slovenia: stats, game log - BasketNews.com",
      "published": "2026-10-14T13:27:46+00:00",
      "summary": "Deni Avdija vs Slovenia: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija Continues Efficient Play Against Kings, Ja Morant Snaps Cold Streak - Sports Illustrated",
      "published": "2026-10-14T13:00:02+00:00",
      "summary": "Deni Avdija Continues Efficient Play Against Kings, Ja Morant Snaps Cold Streak Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija vs Finland: stats, game log - BasketNews.com",
      "published": "2026-10-14T12:09:34+00:00",
      "summary": "Deni Avdija vs Finland: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "'Still Gonna Get You': Draymond Green Has Unfinished Business With Blazers' Deni Avdija - Yahoo Sports",
      "published": "2026-10-14T12:00:05+00:00",
      "summary": "'Still Gonna Get You': Draymond Green Has Unfinished Business With Blazers' Deni Avdija Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija vs Crvena Zvezda Meridianbet Belgrade: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:47:31+00:00",
      "summary": "Deni Avdija vs Crvena Zvezda Meridianbet Belgrade: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija vs Czech Republic: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:37:15+00:00",
      "summary": "Deni Avdija vs Czech Republic: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija vs France: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:05:29+00:00",
      "summary": "Deni Avdija vs France: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija vs Armani Olimpia Milan: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:02:09+00:00",
      "summary": "Deni Avdija vs Armani Olimpia Milan: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#24",
      "title": "Deni Avdija vs Greece: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:59:16+00:00",
      "summary": "Deni Avdija vs Greece: stats, game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija vs Belgium: stats, game log - BasketNews.com",
-     "published": "2026-10-14T10:49:51+00:00",
-     "summary": "Deni Avdija vs Belgium: stats, game log BasketNews.com"
     }
    ]
   }
