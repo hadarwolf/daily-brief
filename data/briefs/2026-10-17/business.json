@@ -1,0 +1,106 @@
+{
+  "section": "business",
+  "date": "2026-10-17",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-17T04:07:47+00:00",
+  "stories": [
+    {
+      "id": "ai-debt-financing-credit-risk",
+      "kind": "analysis",
+      "en": {
+        "headline": "The AI Boom Is Being Financed With Debt, and Markets Just Noticed",
+        "scroll": "CoreWeave fell 25% and Anthropic is paying double-digit yields for chip financing, as markets start pricing the risk that AI's capital spending boom is running on borrowed money rather than proven revenue.",
+        "coffee": "The AI boom is increasingly being financed with debt rather than equity, and this week markets started pricing in what that means if growth disappoints. CoreWeave, a cloud provider that rents out Nvidia chips to AI labs, slid 25% over the week on concerns about its credit-financed buildout. Anthropic, meanwhile, was reported to be offering Blackstone a double-digit yield on a new round of chip financing — a strikingly high rate that reflects how expensive borrowing has become even for a leading AI lab, and a complication for its stated goal of reaching investment-grade credit status. The ripple effects were broad: US bank stocks logged their worst weekly losing streak since the 2008 financial crisis, and chip stocks their longest losing streak since the same year, as the Nasdaq capped its worst week since the April 2025 tariff shock.\n\nThe mechanism underneath all this is simple but consequential: hyperscalers and AI labs need enormous sums to buy chips and build data centers, revenue from AI products hasn't caught up to that spending yet, so the gap is being filled with borrowed money — increasingly through private credit and junk-rated bonds rather than bank loans or stock sales. That works fine as long as lenders believe future AI revenue will arrive on schedule. The moment that confidence wavers, as it did this week, the cost of that debt spikes, and companies that look fine on an earnings basis can suddenly look fragile on a balance-sheet basis.\n\nThis matters beyond the AI sector itself. When banks are among the biggest holders of this debt, a credit event in AI financing doesn't stay contained to AI companies — it becomes a banking-sector story, which is exactly what this week's bank-stock selloff signals investors are starting to price in.",
+        "deep": "## What actually happened\n\nThis week delivered a cluster of related signals pointing at the same underlying issue: the debt financing AI's infrastructure buildout is getting more expensive, and markets are starting to question whether the revenue to repay it will show up on time. CoreWeave — a company that buys Nvidia chips and rents out their computing power to AI labs — fell 25% over the week specifically on concerns tied to its debt financing. Anthropic was separately reported to be offering Blackstone a double-digit yield to secure a new round of chip financing, an unusually high rate for a company whose stated ambition is to reach investment-grade credit status, the tier reserved for the safest, most creditworthy borrowers. Big US bank stocks had their worst weekly losing streak since 2008, and chip stocks their longest losing streak since the same year, while the S&P 500 and Nasdaq posted their worst weeks since June and the April 2025 tariff shock, respectively.\n\n## The economics underneath it: financing a capex boom with debt\n\nTraining and running frontier AI models requires enormous upfront spending: chips, data centers, power infrastructure. Companies have three basic ways to fund that kind of capital expenditure (capex) — using their own cash flow, raising equity by selling shares, or borrowing. AI labs and the \"hyperscalers\" that host them (cloud giants like Amazon, Microsoft and Google, plus newer entrants like CoreWeave) have increasingly turned to the third option, and specifically to a corner of it called private credit: loans arranged directly with large asset managers and investment funds (Blackstone, in Anthropic's case) rather than through a bank or a public bond sale.\n\nPrivate credit has grown rapidly because it's flexible and fast, but it typically costs more than a bank loan — lenders demand a higher yield to compensate for taking on debt that isn't rated, traded or regulated the way bank loans and public bonds are. A double-digit yield on Anthropic's chip financing is a clear illustration: that's roughly double what an investment-grade company would normally pay to borrow, and it signals that even top-tier AI labs are being treated by credit markets as speculative borrowers for now, not safe ones.\n\n## Why \"investment grade\" is the goal, and why it's hard to reach\n\nCredit ratings agencies like Moody's and S&P sort borrowers into two broad tiers: investment grade (lower risk, cheaper borrowing costs) and high-yield or \"junk\" (higher risk, more expensive borrowing). Reaching investment grade matters enormously because it widens the pool of lenders — many pension funds and insurers are restricted from buying junk-rated debt — and it mechanically lowers the interest rate a company pays on everything it borrows afterward. Anthropic was reportedly assigned Kroll's highest junk rating, one step below investment grade, but needs to keep proving steady, predictable revenue growth to cross that line. Paying double-digit yields for chip financing right now works against that goal in two ways: it raises near-term interest costs, and it signals to rating agencies that lenders still see meaningful risk in the business.\n\n## Why this spilled into bank stocks\n\nThe reason this week's story became a banking story, not just an AI story, is that banks are significant holders and arrangers of exactly this kind of debt — either directly, through loans to AI infrastructure companies, or indirectly, through their exposure to private-credit funds and the broader leveraged-lending market. When confidence in AI revenue timelines wobbles, as it did this week amid renewed \"AI bubble\" anxiety, markets reprice the risk of that debt downward across the board — hence chip stocks and bank stocks moving together, even though they're nominally different sectors.\n\n## What to watch next\n\nThe key number to track isn't any single stock price but the spread between what AI-linked borrowers pay and what equivalent investment-grade companies pay — if that spread keeps widening, it signals credit markets are losing patience with the \"spend now, monetize later\" model that has funded the AI buildout so far. Also worth watching: whether more AI infrastructure financing shifts further into private credit (less visible, less regulated) rather than public bond markets, and whether any single hyperscaler's results in the coming earnings season either validate or undermine the revenue assumptions this entire debt structure depends on."
+      },
+      "he": {
+        "headline": "בום ה-AI מתממן בחוב, והשווקים בדיוק שמו לב",
+        "scroll": "CoreWeave צנחה ב-25% ואנתרופיק משלמת תשואות דו-ספרתיות על מימון שבבים, בעת שהשווקים מתחילים לתמחר את הסיכון שבום ההשקעות ההוניות של ה-AI רץ על כסף מושאל ולא על הכנסות מוכחות.",
+        "coffee": "בועת ה-AI מתממנת יותר ויותר בחוב ולא בהון עצמי, והשבוע השווקים התחילו לגלם מה המשמעות של זה אם הצמיחה תאכזב. CoreWeave, חברת מחשוב עננים ששוכרת ללהבי AI שבבים של אנבידיה, צנחה ב-25% במהלך השבוע על רקע חששות מהבנייה הממומנת בחוב שלה. בינתיים, דווח שאנתרופיק מציעה לבלקסטון תשואה דו-ספרתית על סבב חדש של מימון שבבים - שיעור גבוה באופן בולט שמשקף כמה יקרה הפכה ההלוואה אפילו למעבדת AI מובילה, וסיבוך למטרה המוצהרת שלה להגיע למעמד דירוג אשראי \"השקעה\" (investment grade). ההשפעות התפשטו רחוק: מניות הבנקים האמריקאיים רשמו את רצף ההפסדים השבועי הגרוע ביותר מאז המשבר הפיננסי של 2008, ומניות השבבים את רצף ההפסדים הארוך ביותר מאז אותה שנה, בעוד נאסד\"ק סיכם את השבוע הגרוע ביותר שלו מאז זעזוע המכסים של אפריל 2025.\n\nהמכניזם שמתחת לכל זה פשוט אך משמעותי: ספקיות מחשוב-על (\"הייפרסקיילרים\") ומעבדות AI צריכות סכומים אדירים לקנות שבבים ולבנות מרכזי נתונים, ההכנסות ממוצרי AI עדיין לא הדביקו את ההוצאה הזו, כך שהפער מתמלא בכסף מושאל - יותר ויותר באמצעות אשראי פרטי ואג\"ח בדירוג זבל ולא בהלוואות בנקים או מכירות מניות. זה עובד כל עוד המלווים מאמינים שהכנסות ה-AI העתידיות יגיעו בזמן. ברגע שהביטחון הזה מתנדנד, כמו שקרה השבוע, עלות החוב הזו מזנקת, וחברות שנראות בסדר על בסיס רווחים יכולות להיראות פתאום שבריריות על בסיס מאזן.\n\nזה חשוב מעבר לסקטור ה-AI עצמו. כשבנקים נמצאים בין המחזיקים הגדולים בחוב הזה, אירוע אשראי במימון AI לא נשאר מוגבל לחברות AI - הוא הופך לסיפור של סקטור הבנקאות, וזה בדיוק מה שמכירת מניות הבנקים השבוע מאותתת שמשקיעים מתחילים לגלם.",
+        "deep": "## מה בעצם קרה\n\nהשבוע הביא אשכול של איתותים קשורים שמצביעים על אותה בעיה בבסיס: מימון החוב של בניית תשתית ה-AI הופך יקר יותר, והשווקים מתחילים לשאול אם ההכנסות להחזרת החוב יגיעו בזמן. CoreWeave - חברה שקונה שבבי אנבידיה ושוכרת את כוח המחשוב שלהם למעבדות AI - צנחה ב-25% במהלך השבוע ספציפית על רקע חששות הקשורים למימון החוב שלה. דווח בנפרד שאנתרופיק מציעה לבלקסטון תשואה דו-ספרתית כדי להבטיח סבב חדש של מימון שבבים, שיעור גבוה באופן חריג לחברה שהשאיפה המוצהרת שלה היא להגיע למעמד דירוג אשראי \"השקעה\" (investment grade) - הדרגה המיועדת ללווים הבטוחים והאמינים ביותר. מניות הבנקים הגדולים בארה\"ב רשמו את רצף ההפסדים השבועי הגרוע ביותר מאז 2008, ומניות השבבים את רצף ההפסדים הארוך ביותר מאז אותה שנה, בעוד S&P 500 ונאסד\"ק סיכמו את השבועות הגרועים ביותר שלהם מאז יוני ומאז זעזוע המכסים של אפריל 2025, בהתאמה.\n\n## הכלכלה שמתחת: מימון בום השקעות הון (capex) בחוב\n\nאימון והפעלה של מודלי AI מתקדמים מצריכים הוצאה אדירה מראש: שבבים, מרכזי נתונים, תשתית חשמל. לחברות יש שלוש דרכים בסיסיות למימון הוצאה הונית (capex) כזו - שימוש בתזרים המזומנים העצמי שלהן, גיוס הון באמצעות מכירת מניות, או לקיחת הלוואה. מעבדות AI ו\"הייפרסקיילרים\" שמאחסנים אותן (ענקיות עננים כמו אמזון, מיקרוסופט וגוגל, לצד שחקניות חדשות יותר כמו CoreWeave) פנו יותר ויותר לאפשרות השלישית, ובאופן ספציפי לפינה שלה שנקראת אשראי פרטי: הלוואות שמסודרות ישירות עם מנהלי נכסים גדולים וקרנות השקעה (בלקסטון, במקרה של אנתרופיק) ולא באמצעות בנק או מכירת אג\"ח ציבורית.\n\nאשראי פרטי צמח במהירות כי הוא גמיש ומהיר, אבל הוא בדרך כלל עולה יותר מהלוואת בנק - מלווים דורשים תשואה גבוהה יותר כדי לפצות על לקיחת חוב שלא מדורג, לא נסחר ולא מפוקח כמו הלוואות בנק ואג\"ח ציבוריות. תשואה דו-ספרתית על מימון השבבים של אנתרופיק היא דוגמה ברורה: זה בערך כפול ממה שחברה בדירוג השקעה הייתה משלמת באופן נורמלי על הלוואה, וזה מאותת ששוקי האשראי מתייחסים אפילו למעבדות AI מהשורה הראשונה כלווים ספקולטיביים בשלב זה, לא בטוחים.\n\n## למה \"דירוג השקעה\" היא המטרה, ולמה קשה להגיע אליה\n\nסוכנויות דירוג אשראי כמו מודי'ס ו-S&P מסווגות לווים לשתי דרגות עיקריות: דירוג השקעה (investment grade - סיכון נמוך יותר, עלויות הלוואה נמוכות יותר) ותשואה גבוהה או \"זבל\" (סיכון גבוה יותר, עלויות הלוואה גבוהות יותר). הגעה לדירוג השקעה חשובה מאוד מכיוון שהיא מרחיבה את מאגר המלווים - קרנות פנסיה וחברות ביטוח רבות מוגבלות מלרכוש חוב בדירוג זבל - והיא מורידה באופן מכני את שיעור הריבית שחברה משלמת על כל מה שהיא תלווה בהמשך. דווח שאנתרופיק קיבלה את הדירוג הגבוה ביותר בקטגוריית הזבל מקרול, דרגה אחת מתחת לדירוג השקעה, אבל היא צריכה להמשיך להוכיח צמיחת הכנסות יציבה וצפויה כדי לחצות את הקו הזה. תשלום תשואות דו-ספרתיות על מימון שבבים כרגע פועל נגד המטרה הזו בשתי דרכים: הוא מעלה את עלויות הריבית בטווח הקצר, והוא מאותת לסוכנויות הדירוג שמלווים עדיין רואים סיכון משמעותי בעסק.\n\n## למה זה גלש למניות הבנקים\n\nהסיבה שהסיפור השבוע הפך לסיפור בנקאי, לא רק סיפור AI, היא שבנקים הם מחזיקים ומסדרים משמעותיים בדיוק של סוג החוב הזה - באופן ישיר, דרך הלוואות לחברות תשתית AI, או באופן עקיף, דרך החשיפה שלהם לקרנות אשראי פרטי ולשוק ההלוואות הממונפות הרחב יותר. כשהביטחון בלוחות הזמנים של הכנסות ה-AI מתנדנד, כמו שקרה השבוע על רקע חשש מחודש מ\"בועת AI\", השווקים מתמחרים מחדש את הסיכון של החוב הזה כלפי מטה בכל הסקטורים - מכאן שמניות שבבים ומניות בנקים נעות יחד, גם אם הן נומינלית סקטורים שונים.\n\n## מה לעקוב אחריו הלאה\n\nהמספר המרכזי שיש לעקוב אחריו אינו מחיר מניה בודד אלא המרווח (spread) בין מה שלווים מקושרי-AI משלמים לבין מה שחברות דירוג-השקעה שוות-ערך משלמות - אם המרווח הזה ממשיך להתרחב, זה מאותת ששוקי האשראי מאבדים סבלנות למודל \"להוציא עכשיו, למנף הכנסות אחר כך\" שמימן את בניית ה-AI עד כה. כדאי לעקוב גם אחרי: האם עוד מימון תשתית AI עובר יותר לאשראי פרטי (פחות גלוי, פחות מפוקח) ולא לשוקי אג\"ח ציבוריים, והאם תוצאות של הייפרסקיילר בודד בעונת הדוחות הקרובה יאשרו או יחתרו תחת הנחות ההכנסה שהמבנה החוב הכולל הזה תלוי בהן."
+      },
+      "tags": [
+        "ai",
+        "private-credit",
+        "credit-rating",
+        "anthropic"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+          "url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic assigned highest junk credit rating in June",
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Coreweave Slides 25% for the Week as AI Credit Concerns Grow | Closing Bell",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Big US Bank Stocks Log Worst Weekly Losing Streak Since 2008",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Chip Stocks Post Longest Losing Streak Since 2008: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
+          "url": "https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Fall as Credit Fears Haunt Tech Sector",
+          "url": "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-credit-fears-haunt-tech-sector-db50c887?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4224.6699,
+      "prev_close": 4156.6802,
+      "change_pct": 1.64,
+      "as_of": "2026-10-16"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7659.4399,
+      "prev_close": 7744.0601,
+      "change_pct": -1.09,
+      "as_of": "2026-10-16"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1112,
+      "prev_close": 3.1031,
+      "change_pct": 0.26,
+      "as_of": "2026-10-17"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 109.69,
+      "prev_close": 105.92,
+      "change_pct": 3.56,
+      "as_of": "2026-10-16"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 81470.8828,
+      "prev_close": 82141.4609,
+      "change_pct": -0.82,
+      "as_of": "2026-10-17"
+    }
+  }
+}

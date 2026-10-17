@@ -1,0 +1,103 @@
+{
+  "section": "israeli_politics",
+  "date": "2026-10-17",
+  "title_en": "Israeli Politics",
+  "title_he": "פוליטיקה ישראלית",
+  "default_lang": "he",
+  "generated_at": "2026-10-17T04:07:47+00:00",
+  "stories": [
+    {
+      "id": "surplus-agreement-deadline-coalition-rifts",
+      "kind": "news",
+      "en": {
+        "headline": "Surplus-Vote Deadline Exposes Cracks on Both Sides of Israel's Election Map",
+        "scroll": "As parties raced to sign surplus-vote pacts before the Knesset election, Liberman accused Eisenkot of leaving a door open to Netanyahu, while a separate right-leaning bloc collapsed over a refusal to commit to a \"Zionist-only\" government.",
+        "coffee": "The deadline for parties running in the upcoming Knesset election to sign surplus-vote agreements passed yesterday, and the resulting map of deals exposed cracks on both sides of the political map. Avigdor Liberman, leader of Yisrael Beiteinu, sharply attacked Gadi Eisenkot, who leads a rival list, calling him \"Gantz 2.0\" — a label implying that Eisenkot, nominally part of the bloc opposing Netanyahu's continued premiership, is quietly keeping a door open to sit in a Netanyahu-led government. Liberman argued Eisenkot \"is keeping the option of a minority government open as leverage to be first in a rotation [for prime minister].\" Eisenkot did not explicitly commit to ruling out sitting with Netanyahu, responding only that \"the people of Israel will not forgive politicians who fail to rise to the moment.\"\n\nA separate rift opened on the right-leaning economic side of the map: the Reservists and Economic parties, led by Yoav Hendel and Yael Zelicha, announced they would not sign a surplus-vote agreement with Avi Winter's \"Am Yisrael\" party after he refused to commit to sitting only in a \"Zionist\" government. Winter hit back, arguing that a vote for Zelicha's party is effectively a vote supporting Yair Golan. Itamar Ben Gvir also did not sign a surplus agreement. Among the parties opposing Netanyahu's continued tenure, only the \"Change Bloc\" managed to bring all of its member parties into a single joint agreement.\n\nThe practical stakes: surplus-vote agreements determine how \"leftover\" votes — ballots for parties just short of the electoral threshold, or vote remainders that didn't translate into a full seat — get split between parties that sign with each other, and in a close election they can decide the handful of seats that determine who can form the next government.",
+        "deep": "## What a surplus-vote agreement is, and why it matters\n\nUnder Israel's proportional electoral system, the votes a party receives don't translate into a precisely whole number of seats: \"leftover\" votes remain, and for parties that fall short of the 3.25% electoral threshold, those votes risk being lost entirely. A surplus-vote agreement is a legal pact between two parties specifying that, in such a case, one party's surplus votes transfer to the other for seat-allocation purposes. In a close election, this can decide three or four seats — exactly the margin between being able to form a coalition and not.\n\n## Who wants what\n\nIn the bloc opposing Netanyahu's continued tenure, the central dispute isn't over policy but over intentions. Liberman accused Eisenkot of keeping a door open to forming a government with Netanyahu, invoking a comparison to Benny Gantz, who previously joined a Netanyahu government after initially presenting himself as a rival. Eisenkot, for his part, avoided an explicit commitment ruling out sitting with Netanyahu, but also didn't confirm the accusation. This distance between the two central parties in the anti-Netanyahu bloc could matter: if they don't reach a surplus agreement with each other, votes lost by one won't help the other.\n\nOn the economic-right side, the disagreement was more explicit: Hendel and Zelicha demanded a principled commitment from Winter — to sit only in a government defined as \"Zionist,\" meaning not to open the door to partnership with certain Arab or ultra-Orthodox parties. Winter refused that commitment, which collapsed the negotiation. The mutual accusations — Winter's claim that \"a vote for Zelicha is a vote for Yair Golan\" — reflect each side's attempt to paint the other as closer to the opposing camp.\n\n## What this signals about the electoral map\n\nThe fact that only the \"Change Bloc\" managed to unite all its member parties in a single joint agreement, while the other blocs split into separate pairs or ended up with no agreement at all, suggests a more fragmented election than usual, with coalition difficulties surfacing even before election day itself. Israeli political history includes several cases where surplus-agreement disputes correctly foreshadowed coalition splits that only materialized months later.\n\n## What to watch next\n\nIn the weeks before the election, it will be worth watching whether the balance of power inside the anti-Netanyahu bloc becomes clearer through polling or further statements from Eisenkot, who has so far avoided the commitment Liberman is demanding. It's also worth watching whether Winter tries to repair the rift with Hendel and Zelicha at the last minute, since losing the surplus agreement could cost both sides seats that end up shaping the final balance of power in the next Knesset."
+      },
+      "he": {
+        "headline": "מועד הסכמי העודפים חושף סדקים בשני מחנות הבחירות",
+        "scroll": "במרוץ לחתום על הסכמי עודפים לפני הבחירות לכנסת, ליברמן האשים את איזנקוט שמשאיר פתח לנתניהו, וגוש ימני-כלכלי נפרד קרס על רקע סירוב להתחייב לממשלה \"ציונית בלבד\".",
+        "coffee": "מועד החתימה על הסכמי עודפים בין המפלגות המתמודדות בבחירות לכנסת הקרבה חלף אתמול, ומפת ההסכמים חשפה קרעים בשני מחנות הבחירות. ליברמן, יו\"ר ישראל ביתנו, תקף בחריפות את גדי איזנקוט, יו\"ר הרשימה שמוביל, וכינה אותו \"גנץ 2\" - כינוי שמרמז שאיזנקוט, לכאורה חלק מגוש המתנגדים להמשך כהונתו של נתניהו, בעצם משאיר לעצמו פתח לשבת בממשלה שלו. לדברי ליברמן, איזנקוט \"משאיר את האפשרות של ממשלת מיעוט כאמצעי לחץ כדי להיות ראשון ברוטציה\". איזנקוט לא התחייב באופן מפורש שלא ישב עם נתניהו, אך השיב כי \"עם ישראל לא יסלח לפוליטיקאים שלא יתעלו לגודל השעה\".\n\nחיכוך נוסף נפתח בצד הימני-כלכלי של המפה: מפלגות המילואימניקים והכלכלית, בהנהגת יואב הנדל ויעל זליכה, הודיעו שלא יחתמו על הסכם עודפים עם מפלגת \"עם ישראל\" של אבי וינטר, אחרי שזה סירב להתחייב לשבת רק בממשלה ציונית. וינטר תקף בחזרה וטען שקול למפלגת זליכה הוא בפועל קול לתמיכה ביאיר גולן. גם איתמר בן גביר לא חתם על הסכם עודפים. בין המפלגות המתנגדות להמשך כהונת נתניהו, רק \"גוש השינוי\" הצליח לחבר את כל המפלגות החברות בו להסכם משותף.\n\nהמשמעות המעשית: הסכמי עודפים קובעים כיצד קולות \"אבודים\" (קולות למפלגות שלא עברו את אחוז החסימה אך קרובות לכך, או שאריות קולות שלא תורגמו למנדט) יחולקו בין המפלגות שחתמו ביניהן, ובבחירות צמודות הם יכולים להכריע מספר מושבים שישפיעו על זהות הממשלה הבאה.",
+        "deep": "## מה זה הסכם עודפים, ולמה זה חשוב\n\nבשיטת הבחירות היחסית של ישראל, קולות שמפלגה מקבלת אינם מתורגמים בדיוק למספר שלם של מושבים: נשארות \"שאריות\" קולות, ולמפלגות שלא עברו את אחוז החסימה (3.25%) יש סיכוי שהקולות שלהן \"יאבדו\" לחלוטין. הסכם עודפים הוא הסכם משפטי בין שתי מפלגות הקובע שבמקרה כזה, הקולות העודפים של האחת יועברו לרשות השנייה בחישוב המושבים. בבחירות צמודות, זה יכול להכריע שלושה-ארבעה מושבים - בדיוק ההבדל בין יכולת להרכיב קואליציה לבין אי-יכולת.\n\n## מי רוצה מה\n\nבגוש שמתנגד להמשך כהונת נתניהו, המחלוקת המרכזית נוגעת לא לתוכן מדיני אלא לכוונות. ליברמן האשים את איזנקוט שהוא משאיר לעצמו פתח להרכיב ממשלה עם נתניהו - תוך שהוא משתמש בהשוואה לבני גנץ, שבעבר נכנס לממשלת נתניהו אחרי שהציג עצמו כמתחרה שלו. איזנקוט, מצדו, נמנע מהתחייבות מפורשת שלא ישב עם נתניהו, אך גם לא אישר את הטענה. ההתרחקות הזו בין שתי המפלגות המרכזיות בגוש האנטי-נתניהו יכולה להיות משמעותית: אם הן לא מגיעות להסכם עודפים ביניהן, קולות שהלכו לאיבוד עבור אחת מהן לא יסייעו לשנייה.\n\nבצד הכלכלי-ימני, חילוקי הדעות היו מפורשים יותר: הנדל וזליכה דרשו מוינטר התחייבות עקרונית - לשבת רק בממשלה המוגדרת כ\"ציונית\", כלומר לא לפתוח דלת לשותפות עם מפלגות ערביות או חרדיות מסוימות. וינטר סירב להתחייבות הזו, מה שהוביל לקריסת המשא ומתן. ההאשמה ההדדית - \"קול לזליכה הוא קול ליאיר גולן\" מצד וינטר - משקפת ניסיון של כל צד לצייר את האחר כקרוב יותר למחנה המנוגד.\n\n## מה זה אומר על מפת הבחירות\n\nהעובדה שרק \"גוש השינוי\" הצליח לאחד את כל חבריו להסכם משותף, בעוד שהגושים האחרים מתפצלים לזוגות נפרדים או נותרים בלי הסכם כלל, מרמזת על בחירות מפוצלות יותר מהרגיל, עם קשיי קואליציה גם לפני יום הבחירות עצמו. ההיסטוריה הפוליטית הישראלית מלאה בדוגמאות שבהן מחלוקות על הסכמי עודפים חזו נכונה פיצולים קואליציוניים שהתממשו רק חודשים לאחר מכן.\n\n## מה לעקוב אחריו\n\nבשבועות הקרובים, לפני הבחירות, יהיה מעניין לראות אם יחסי הכוחות בתוך הגוש האנטי-נתניהו יתבררו דרך סקרים או דרך הצהרות נוספות של איזנקוט - שעד כה נמנע מהתחייבות שחסרה לליברמן. כמו כן, יהיה מעניין לראות אם וינטר ינסה לתקן את הקרע עם הנדל וזליכה ברגע האחרון, שכן אובדן הסכם עודפים עלול לעלות לשני הצדדים מושבים שישפיעו על יחסי הכוחות הסופיים בכנסת הבאה."
+      },
+      "tags": [
+        "elections",
+        "coalition",
+        "liberman",
+        "eisenkot"
+      ],
+      "sources": [
+        {
+          "outlet": "הארץ",
+          "title": "ליברמן: איזנקוט הוא גנץ 2, הוא מתכנן להקים ממשלה עם נתניהו",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-16/ty-article/.premium/000001a1-43db-ddcc-a3fd-cbfb14160000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "הנדל וזליכה: לא נחתום על הסכם עודפים עם וינטר",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-16/ty-article/.premium/000001a1-43bc-d9d6-a9b3-effc154d0000"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "הדד-ליין להסכמי עודפים: המפלגות שמצאו חיבור - ואלו שנותרו לבד",
+          "url": "https://www.ynet.co.il/news/elections2026/article/hjextlj2gl"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "ליברמן בפוסט חריף במיוחד: \"איזנקוט - גנץ 2. הוא חותר להקמת ממשלה עם נתניהו ודרעי\"",
+          "url": "https://www.ynet.co.il/news/article/yokra14928338"
+        }
+      ]
+    },
+    {
+      "id": "settlements-e1-outpost-rabbi-ruling",
+      "kind": "news",
+      "en": {
+        "headline": "EU Warns Banks Off E1 as Ministers Back a New Gaza-Envelope Outpost",
+        "scroll": "The EU warned financial institutions against funding West Bank settlement construction in the E1 area, as coalition ministers backed a new settler outpost and a rabbi's ruling permitting the harvesting of Palestinian olives drew an IDF incitement review.",
+        "coffee": "This week sharpened the confrontation over West Bank settlement policy along two tracks that converge on each other. Internationally, all EU leaders warned financial institutions of \"legal, economic and reputational\" risks from funding settlement construction, days before the deadline for a construction tender in the E1 area near Jerusalem — a zone where building is seen as cutting off Palestinian territorial contiguity. In parallel, Chinese Foreign Minister Wang Yi called on President Herzog to stop what he termed the \"forced establishment\" of settlements in the West Bank.\n\nDomestically, the Nachala movement established a new outpost in the Gaza-envelope area, and ministers from Otzma Yehudit and Religious Zionism, including Minister Karai, arrived to explicitly voice support and call for settlement in Gaza itself. At the same time, Rabbi Dov Lior, a prominent rabbi in the religious-Zionist camp, published a ruling permitting Jews to harvest olives from Palestinian orchards, arguing Palestinians \"never bought the land\" and so the harvesting isn't theft. The ruling came amid a wave of settler attacks on Palestinians during the olive harvest, in one of which a Washington Post photographer was injured. The military said it is examining whether the rabbi's ruling raises concerns of incitement. The prime minister's office responded that it would not allow West Bank residents to be \"blackened,\" but called for an investigation into \"who started the violence.\"",
+        "deep": "## Two tracks converging\n\nThis confrontation is made up of two stories colliding with each other this week. The first is diplomatic: the European Union, which had previously limited itself to condemnation statements, moved to a targeted warning aimed at financial institutions and contractors — a warning meant to deter participation in the E1 construction tender, an area whose geographic significance comes from separating Maale Adumim from Jerusalem and thereby cutting a potential Palestinian territorial corridor between the northern and southern West Bank. The timing — days before the tender's deadline — suggests the EU is trying to influence the decision in real time, not just react afterward.\n\nThe second track is domestic and religious-political: the Nachala movement, associated with settlers seeking to establish a Jewish presence in new areas, set up an outpost in the Gaza-envelope region, and received public backing from ministers in Otzma Yehudit and Religious Zionism — coalition parties that are part of Netanyahu's government. At the same time, Rabbi Lior, considered ideologically close to Otzma Yehudit, published a religious ruling granting religious cover for seizing Palestinian olives — exactly as a wave of settler attacks on Palestinian olive harvesters intensified, including an attack on an American photographer.\n\n## Who says what\n\nThe military responded to the rabbi's ruling relatively sharply, saying it \"encouraged violent offenses, theft and incitement,\" and announced it is examining whether it constitutes a criminal offense — a response that puts the army, a state institution, in direct confrontation with a religious figure associated with one of the coalition parties. The Tzohar rabbinical organization, from the more moderate religious-nationalist stream, attacked the ruling and called it a \"desecration of God's name.\" The prime minister's office, for its part, chose more balanced language: it condemned violence in general terms, but also blamed \"Arabs and left-wing activists\" who clashed with \"young Israelis\" who came to the harvest — phrasing that leaves open the question of who is actually responsible for the incidents.\n\n## Why this matters\n\nThis story is a case study in how government policy, settler-movement activity on the ground, and religious rulings converge into a single political problem that affects Israel's relations with the EU, the US and China — exactly at a time when Israel is also reportedly trying to advance normalization with Saudi Arabia. The tension between the two — a diplomatic effort to expand international recognition, alongside expanding a settlement presence that draws international condemnation — is a persistent strain in government policy.\n\n## What to watch next\n\nIt will be worth watching whether the military's examination of Rabbi Lior's ruling leads to any concrete action, and whether the European warning actually affects the outcome of the E1 tender or remains only a statement. It's also worth watching whether, as the wave of attacks on Palestinian olive harvesters continues, international pressure — including from Washington, which has also demanded arrests — intensifies."
+      },
+      "he": {
+        "headline": "האיחוד האירופי מזהיר בנקים מ-E1, שרים מגבים מאחז חדש בעוטף עזה",
+        "scroll": "האיחוד האירופי הזהיר מוסדות פיננסיים מפני מימון בנייה בהתנחלויות בשטח E1, בעת ששרי קואליציה גיבו מאחז מתיישבים חדש ופסיקת רב שהתירה מסיקת זיתים פלסטיניים עוררה בדיקת הסתה בצה\"ל.",
+        "coffee": "השבוע התחדד העימות סביב מדיניות ההתנחלות בגדה המערבית, בשני מסלולים שנפגשים זה בזה. במישור הבינלאומי, כל מנהיגי האיחוד האירופי הזהירו מוסדות פיננסיים (\"משפטיים, כלכליים ותדמיתיים\") מפני מימון בניית התנחלויות, ימים לפני סיום מכרז הבנייה בשטח E1 הסמוך לירושלים - אזור שבנייה בו נחשבת לפוגעת ביכולת הקמת רצף טריטוריאלי פלסטיני. בד בבד, שרת החוץ הסיני וואנג יי דרש מהנשיא הרצוג לעצור את מה שהוא כינה \"ההקמה הכפויה\" של התנחלויות בגדה.\n\nבמישור המקומי, תנועת נחלה הקימה מאחז חדש באזור עוטף עזה, ושרים מעוצמה יהודית ומהציונות הדתית, בהם השר קרעי, הגיעו לתמוך במפורש ולקרוא להתנחלות ברצועה עצמה. במקביל, הרב דב ליאור, מהרבנים הבולטים בציונות הדתית, פרסם פסיקה שבה הוא מתיר ליהודים למסוק זיתים ממטעים פלסטיניים, בטענה שהערבים \"מעולם לא קנו את הקרקע\" ולכן אין במסיקה גזל. הפסיקה הגיעה על רקע גל של תקיפות מתנחלים על פלסטינים בעת מסיק הזיתים, שבאחת מהן נפצעה צלמת של \"וושינגטון פוסט\". צה\"ל הודיע שהוא בוחן אם בפסיקת הרב יש חשד להסתה. משרד ראש הממשלה הגיב שלא יאפשר \"להשחיר את פני התושבים\" בגדה, אך קרא לחקור \"מי התחיל את האלימות\".",
+        "deep": "## שני מסלולים שנפגשים\n\nהעימות הזה מורכב משני סיפורים שמתנגשים זה בזה בשבוע הזה. הראשון הוא דיפלומטי: האיחוד האירופי, שבעבר הסתפק בהצהרות גינוי, עבר להתרעה ממוקדת על מוסדות פיננסיים וקבלנים - אזהרה שנועדה למנוע השתתפות במכרז הבנייה בשטח E1, אזור שחשיבותו הגיאוגרפית נובעת מהיותו מפריד בין מעלה אדומים לירושלים ובכך חותך רצף טריטוריאלי אפשרי לפלסטינים בין צפון לדרום הגדה. התזמון - ימים לפני סיום המכרז - מעיד שהאיחוד מנסה להשפיע על ההחלטה בזמן אמת, לא רק להגיב אחריה.\n\nהמסלול השני הוא פנים-ישראלי ודתי-פוליטי: תנועת נחלה, שמזוהה עם מתיישבים שמבקשים להקים נוכחות יהודית בשטחים חדשים, הקימה מאחז בעוטף עזה, וקיבלה גיבוי פומבי משרים בעוצמה יהודית ובציונות הדתית - גופים קואליציוניים שמהווים חלק מממשלת נתניהו. במקביל, הרב ליאור, שנחשב מקורב מבחינה רעיונית לעוצמה יהודית, פרסם פסיקה הלכתית שמעניקה גושפנקא דתית לתפיסת זיתים פלסטיניים - בדיוק בזמן שגל תקיפות מתנחלים על מוסקי זיתים פלסטיניים גבר, כולל תקיפת צלמת אמריקנית.\n\n## מי אומר מה\n\nצה\"ל הגיב לפסיקת הרב בחריפות יחסית, ואמר שהיא \"עודדה עבירות אלימות, גניבות והסתה\", והודיע שהוא בוחן אם יש בה עבירה פלילית - תגובה שמציבה את הצבא, מוסד המדינה, בעימות ישיר עם דמות דתית המזוהה עם אחת ממפלגות הקואליציה. ארגון רבני צהר, מהזרם הדתי-לאומי המתון יותר, תקף את הפסיקה וכינה אותה \"חילול השם\". משרד ראש הממשלה, מצדו, בחר בניסוח מאוזן יותר: הוא גינה אלימות באופן כללי, אך גם האשים \"ערבים ופעילי שמאל\" שהתעמתו עם \"צעירים ישראלים\" שהגיעו למסיק - ניסוח שמשאיר פתוח את השאלה מי אחראי בפועל לאירועים.\n\n## למה זה חשוב\n\nהסיפור הזה הוא מקרה בוחן לאופן שבו מדיניות ממשלתית, פעילות שטח של תנועות מתיישבים, ופסיקות דתיות מתכנסות לכדי בעיה פוליטית אחת שמשפיעה על יחסי ישראל עם האיחוד האירופי, ארה\"ב וסין - בדיוק בתקופה שבה ישראל גם מנסה (לפי הדיווחים בחלק הגיאופוליטי) לקדם נורמליזציה עם סעודיה. הסתירה בין השתיים - מאמץ דיפלומטי להרחיב הכרה בינלאומית, לצד הרחבת נוכחות התנחלותית שמעוררת גינוי בינלאומי - היא מתח מתמשך במדיניות הממשלה.\n\n## מה לעקוב אחריו\n\nיהיה חשוב לעקוב אחרי האם חקירת צה\"ל בפסיקת הרב ליאור תוביל לצעד קונקרטי כלשהו, והאם האזהרה האירופית תשפיע בפועל על תוצאות מכרז E1 או רק תישאר הצהרה. כמו כן, ככל שגל התקיפות על מוסקי הזיתים הפלסטינים יימשך, סביר שהלחץ הבינלאומי - כולל מצד וושינגטון, שגם היא דרשה מעצרים - יתעצם."
+      },
+      "tags": [
+        "settlements",
+        "e1",
+        "eu",
+        "west-bank"
+      ],
+      "sources": [
+        {
+          "outlet": "הארץ",
+          "title": "כל מנהיגי האיחוד האירופי הזהירו מוסדות פיננסיים מפני מימון בניית התנחלויות",
+          "url": "https://www.haaretz.co.il/news/politics/2026-10-16/ty-article/.premium/000001a1-4610-d7d5-a9ab-46db50710000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "תנועת נחלה הקימה מאחז בעוטף עזה, השר קרעי הגיע לתמוך: \"צעד מבורך\"",
+          "url": "https://www.haaretz.co.il/news/politics/2026-10-16/ty-article/.premium/000001a1-4489-da52-a3f1-4edf48300000"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "צה\"ל: לבדוק אם יש חשד להסתה ולעידוד ליבוי השטח באמירות הרב דוב ליאור",
+          "url": "https://www.ynet.co.il/news/article/b1tpqex2zg"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "הרב המזוהה עם עוצמה יהודית: מותר למסוק זיתים של פלסטינים, זה לא גזל אלא מעלה יתרה",
+          "url": "https://www.ynet.co.il/news/article/bjrslsk3zl"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "משרד רה\"מ, אחרי תקיפת הצלמת: \"לא נאפשר להשחיר את פני התושבים ביו\"ש\"",
+          "url": "https://www.ynet.co.il/news/article/sjzb1tj3zl"
+        }
+      ]
+    }
+  ]
+}

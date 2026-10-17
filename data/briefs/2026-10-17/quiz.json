@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-17",
+  "questions": [
+    {
+      "id": "quiz-business-ai-debt",
+      "section": "business",
+      "story_id": "ai-debt-financing-credit-risk",
+      "answer_index": 0,
+      "en": {
+        "question": "What does Anthropic reportedly paying a double-digit yield to Blackstone for chip financing signal?",
+        "options": [
+          "Credit markets still see meaningful risk in financing the AI buildout, complicating Anthropic's push for investment-grade status",
+          "Anthropic has already achieved investment-grade credit status",
+          "Blackstone is exiting the AI lending market entirely",
+          "Chip prices have fallen sharply this quarter"
+        ],
+        "explanation": "A double-digit yield is roughly double what an investment-grade borrower pays, showing credit markets still treat even a leading AI lab as a risky, speculative-grade borrower."
+      },
+      "he": {
+        "question": "מה מסמן הדיווח שאנתרופיק משלמת תשואה דו-ספרתית לבלקסטון על מימון שבבים?",
+        "options": [
+          "שוקי האשראי עדיין רואים סיכון משמעותי במימון בניית תשתית ה-AI, מה שמסבך את המאמץ של אנתרופיק להגיע לדירוג השקעה",
+          "אנתרופיק כבר השיגה מעמד דירוג השקעה",
+          "בלקסטון יוצאת לחלוטין משוק ההלוואות ל-AI",
+          "מחירי השבבים צנחו בחדות הרבעון הזה"
+        ],
+        "explanation": "תשואה דו-ספרתית היא בערך כפול ממה שלווה בדירוג השקעה משלם, מה שמראה ששוקי האשראי עדיין מתייחסים אפילו למעבדת AI מובילה כלווה ספקולטיבי ומסוכן."
+      }
+    },
+    {
+      "id": "quiz-geopolitics-oil-shock",
+      "section": "geopolitics",
+      "story_id": "houthi-red-sea-oil-risk",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did Brent crude oil jump to $110 a barrel this week, its highest since May?",
+        "options": [
+          "A record week of ship attacks near the Strait of Hormuz and fresh Houthi missile strikes raised fears about Middle East energy supply",
+          "OPEC announced a surprise, large production cut",
+          "A new US-Iran trade agreement halted all oil exports from the Gulf",
+          "Hurricane damage shut down major US Gulf Coast refineries"
+        ],
+        "explanation": "BBC Verify recorded a record 12 vessel attacks near Hormuz in a week, plus Houthi missile strikes on Aden's airport and an intercepted missile aimed at Saudi Arabia's Yanbu energy hub, pushing traders to price in supply risk."
+      },
+      "he": {
+        "question": "למה נפט מסוג ברנט זינק ל-110 דולר לחבית השבוע, השיא הגבוה ביותר מאז מאי?",
+        "options": [
+          "שבוע שיא של תקיפות על ספינות סמוך למצר הורמוז ותקיפות טילים חות'יות חדשות העלו חששות לגבי אספקת אנרגיה במזרח התיכון",
+          "אופ\"ק הכריזה על קיצוץ ייצור גדול ומפתיע",
+          "הסכם סחר חדש בין ארה\"ב לאיראן השבית את כל יצוא הנפט מהמפרץ",
+          "נזקי הוריקן השביתו בתי זיקוק מרכזיים בחוף המפרץ של ארה\"ב"
+        ],
+        "explanation": "BBC Verify תיעד שיא של 12 תקיפות על ספינות סמוך להורמוז בתוך שבוע, לצד תקיפות טילים חות'יות על שדה התעופה בעדן וטיל שיורט שכוון למרכז האנרגיה הסעודי יענבו, מה שדחף סוחרים לתמחר סיכון להיצע."
+      }
+    },
+    {
+      "id": "quiz-ideas-benchmarks",
+      "section": "ideas",
+      "story_id": "ai-benchmarks-broken-by-design",
+      "answer_index": 1,
+      "en": {
+        "question": "According to computer scientist Moritz Hardt, why did AI benchmarking mostly avoid a replication crisis despite breaking its own founding rule about test sets?",
+        "options": [
+          "Because every benchmark's test set was kept permanently secret from researchers",
+          "Because relative rankings between models stayed remarkably stable across different test sets, even though absolute scores were nearly meaningless",
+          "Because all AI models were trained on identical, government-audited datasets",
+          "Because benchmark scores became legally regulated starting in the 1990s"
+        ],
+        "explanation": "Hardt argues that while absolute benchmark numbers are nearly worthless, which model beats which has stayed stable across sixty years and different test sets, making 'beat the previous best' a trustworthy signal mostly by luck."
+      },
+      "he": {
+        "question": "לפי מדען המחשב מוריץ הארדט, למה מבחני הייחוס של ה-AI הצליחו ברובם להימנע ממשבר שכפול, למרות שהפרו את הכלל המייסד שלהם לגבי קבוצות מבחן?",
+        "options": [
+          "מכיוון שקבוצת המבחן של כל מבחן ייחוס נשארה סודית לחלוטין מהחוקרים",
+          "מכיוון שהדירוג היחסי בין מודלים נשאר יציב באופן בולט על פני קבוצות מבחן שונות, גם כשהציונים המוחלטים היו חסרי משמעות כמעט לחלוטין",
+          "מכיוון שכל מודלי ה-AI אומנו על קבוצות נתונים זהות שעברו ביקורת ממשלתית",
+          "מכיוון שציוני מבחני הייחוס הפכו למפוקחים מבחינה חוקית כבר משנות ה-90"
+        ],
+        "explanation": "הארדט טוען שבעוד המספרים המוחלטים של מבחני ייחוס חסרי ערך כמעט לחלוטין, איזה מודל מנצח את איזה נשאר יציב על פני שישים שנה וקבוצות מבחן שונות, מה שהפך את \"לנצח את השיא הקודם\" לאיתות אמין, ברובו במזל."
+      }
+    }
+  ]
+}

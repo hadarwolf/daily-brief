@@ -1,0 +1,123 @@
+{
+  "section": "learn",
+  "date": "2026-10-17",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-17T04:07:47+00:00",
+  "stories": [
+    {
+      "id": "word-hyperscaler",
+      "kind": "word",
+      "en": {
+        "headline": "Hyperscaler (ספקית מיחשוב-על)",
+        "scroll": "A cloud company whose data-center operations are so large they need custom-built infrastructure, not off-the-shelf equipment.",
+        "coffee": "A hyperscaler is a cloud-computing company that runs infrastructure at a scale where it needs its own custom data centers, power contracts and chip supply deals, rather than renting space from someone else. Example: \"Microsoft, as a hyperscaler, signed its own deal directly with a nuclear power plant to secure electricity for its data centers.\"",
+        "deep": "Use \"hyperscaler\" when talking about the handful of companies — Amazon (AWS), Microsoft (Azure), Google Cloud, and now also pure AI-infrastructure players like CoreWeave — whose cloud operations are large enough to need custom-built data centers, power deals and chip supply chains rather than off-the-shelf equipment. A common confusion: not every big tech company is a hyperscaler. Nvidia, for instance, supplies the chips hyperscalers buy, but it isn't one itself, since it doesn't operate cloud data centers at that scale. Examples: \"The hyperscalers are expected to spend over $300 billion on data centers this year.\" \"Smaller cloud providers can't match a hyperscaler's bargaining power with chipmakers.\" \"Anthropic relies on both its own infrastructure and hyperscaler partnerships to train its models.\" In Hebrew: ספקית מיחשוב-על, או הייפרסקיילר."
+      },
+      "he": {
+        "headline": "Hyperscaler (ספקית מיחשוב-על / הייפרסקיילר)",
+        "scroll": "חברת עננים שפעילות מרכזי הנתונים שלה גדולה כך שהיא דורשת תשתית בהתאמה אישית, ולא ציוד מהמדף.",
+        "coffee": "הייפרסקיילר הוא חברת מחשוב עננים שמפעילה תשתית בקנה מידה שמחייב מרכזי נתונים בהתאמה אישית, הסכמי אנרגיה והסכמי אספקת שבבים משל עצמה, ולא שכירת שטח מגורם אחר. דוגמה: \"מיקרוסופט, כהייפרסקיילר, חתמה על הסכם ישיר עם תחנת כוח גרעינית כדי להבטיח חשמל למרכזי הנתונים שלה.\"",
+        "deep": "יש להשתמש במונח \"הייפרסקיילר\" כשמדברים על החברות הבודדות - אמזון (AWS), מיקרוסופט (Azure), גוגל קלאוד, וכעת גם שחקניות תשתית-AI טהורות כמו CoreWeave - שפעילות העננים שלהן גדולה מספיק כדי לדרוש מרכזי נתונים בהתאמה אישית, הסכמי אנרגיה ושרשראות אספקת שבבים, ולא ציוד מהמדף. בלבול נפוץ: לא כל חברת טכנולוגיה גדולה היא הייפרסקיילר. אנבידיה, לדוגמה, מספקת את השבבים שההייפרסקיילרים קונים, אבל היא עצמה אינה כזו, מכיוון שהיא לא מפעילה מרכזי נתונים בקנה מידה הזה. דוגמאות: \"ההייפרסקיילרים צפויים להוציא מעל 300 מיליארד דולר על מרכזי נתונים השנה.\" \"ספקיות עננים קטנות יותר לא יכולות להתחרות בכוח המיקוח של הייפרסקיילר מול יצרניות שבבים.\" \"אנתרופיק נשענת גם על תשתית עצמית וגם על שותפויות עם הייפרסקיילרים לאימון המודלים שלה.\" באנגלית: hyperscaler."
+      },
+      "tags": [
+        "business-vocabulary",
+        "ai-infrastructure"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-vendor-financing",
+      "kind": "word",
+      "en": {
+        "headline": "Vendor financing (מימון מצד הספק)",
+        "scroll": "When a seller lends its own customer the money to buy its product, effectively financing its own sales.",
+        "coffee": "Vendor financing happens when a company helps its customer afford its product by lending them the purchase money directly. Example: \"The chipmaker's vendor financing arrangement with a startup customer let the startup place a much bigger order than its own cash would allow.\"",
+        "deep": "Use \"vendor financing\" when a seller lends money to its own customer so the customer can afford to buy the seller's product — the seller is effectively financing its own sales. It's common in capital-intensive industries, and it's exactly the kind of arrangement investors scrutinize in AI right now, since chipmakers and cloud providers have been accused of propping up demand by financing the very companies buying from them, which can inflate reported growth without proving independent customer demand. A common confusion: vendor financing isn't inherently a red flag — it's a normal tool in industries like heavy equipment or telecom — but it becomes risky when it's used to disguise weak underlying demand. Examples: \"Nvidia's reported vendor financing deals with AI startups raised questions about circular revenue.\" \"The equipment maker offered vendor financing to help the airline afford new planes.\" \"Analysts want to know how much of that revenue growth came from vendor financing rather than organic demand.\" In Hebrew: מימון מצד הספק."
+      },
+      "he": {
+        "headline": "Vendor financing (מימון מצד הספק)",
+        "scroll": "כשמוכר מלווה ללקוח שלו את הכסף לקניית המוצר שלו, ובכך בפועל ממַמן את המכירות של עצמו.",
+        "coffee": "מימון מצד הספק קורה כשחברה עוזרת ללקוח שלה להרשות לעצמו את המוצר שלה על ידי הלוואת כסף הרכישה ישירות. דוגמה: \"הסדר מימון-הספק של יצרנית השבבים עם לקוח סטארט-אפ איפשר לסטארט-אפ להזמין הזמנה גדולה בהרבה ממה שהמזומנים שלו עצמו היו מאפשרים.\"",
+        "deep": "יש להשתמש במונח \"מימון מצד הספק\" כשמוכר מלווה כסף ללקוח שלו עצמו כדי שהלקוח יוכל להרשות לעצמו לקנות את המוצר של המוכר - בפועל המוכר ממַמן את המכירות של עצמו. זה נפוץ בתעשיות עתירות הון, וזה בדיוק סוג ההסדר שמשקיעים בודקים בזהירות כרגע בתחום ה-AI, מכיוון שיצרניות שבבים וספקיות עננים הואשמו בתמיכה בביקוש על ידי מימון החברות שעצמן קונות מהן, מה שיכול לנפח צמיחה מדווחת בלי להוכיח ביקוש עצמאי של לקוחות. בלבול נפוץ: מימון מצד הספק אינו בהכרח דגל אדום - זהו כלי נורמלי בתעשיות כמו ציוד כבד או טלקום - אבל הוא הופך מסוכן כשהוא משמש להסוות ביקוש בסיסי חלש. דוגמאות: \"עסקאות מימון-ספק מדווחות של אנבידיה עם סטארט-אפים של AI העלו שאלות על הכנסה מעגלית.\" \"יצרנית הציוד הציעה מימון-ספק כדי לעזור לחברת התעופה להרשות לעצמה מטוסים חדשים.\" \"אנליסטים רוצים לדעת כמה מצמיחת ההכנסות הזו הגיעה ממימון-ספק ולא מביקוש אורגני.\" באנגלית: vendor financing."
+      },
+      "tags": [
+        "business-vocabulary",
+        "ai-infrastructure"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-too-big-to-fail",
+      "kind": "word",
+      "en": {
+        "headline": "Too big to fail (גדול מכדי להיכשל)",
+        "scroll": "An institution whose collapse would be so damaging that governments or markets are expected to rescue it rather than let it fail.",
+        "coffee": "The idiom describes a company or bank so central to the economy that its failure is treated as unacceptable, so a bailout becomes almost automatic. Example: \"After 2008, regulators tried to shrink banks that were considered too big to fail.\"",
+        "deep": "Use the idiom \"too big to fail\" for an institution — usually a bank, but the logic now gets applied to AI infrastructure too — whose collapse would be so damaging to the wider economy that governments or markets are expected to step in rather than let it go under. It originated in banking after the 2008 financial crisis, when regulators bailed out major banks on exactly this reasoning. A common confusion: the phrase describes a structural risk (the company's failure would be too costly to allow), not a guarantee of safety for investors — a company can be \"too big to fail\" and its shareholders can still lose everything even if the institution itself is rescued. Examples: \"Regulators have warned that some AI infrastructure lenders are becoming too big to fail.\" \"During the 2008 crisis, several banks were deemed too big to fail and received government support.\" \"Critics argue that bailing out 'too big to fail' firms encourages excessive risk-taking.\" In Hebrew: גדול מכדי להיכשל."
+      },
+      "he": {
+        "headline": "Too big to fail (גדול מכדי להיכשל)",
+        "scroll": "מוסד שקריסתו תהיה מזיקה כל כך שממשלות או שווקים צפויים לחלץ אותו במקום לאפשר לו להיכשל.",
+        "coffee": "הניב מתאר חברה או בנק שמרכזיים כל כך לכלכלה שכשלונם נחשב לא קביל, כך שחילוץ הופך לכמעט אוטומטי. דוגמה: \"אחרי 2008, רגולטורים ניסו להקטין בנקים שנחשבו גדולים מכדי להיכשל.\"",
+        "deep": "יש להשתמש בניב \"גדול מכדי להיכשל\" לגבי מוסד - בדרך כלל בנק, אך ההיגיון הזה מוחל כעת גם על תשתית AI - שקריסתו תהיה מזיקה כל כך לכלכלה הרחבה שממשלות או שווקים צפויים להתערב במקום לאפשר לו לקרוס. הביטוי מקורו בעולם הבנקאות אחרי המשבר הפיננסי של 2008, אז רגולטורים חילצו בנקים מרכזיים בדיוק לפי ההיגיון הזה. בלבול נפוץ: הביטוי מתאר סיכון מבני (כשלון החברה יהיה יקר מכדי לאפשר אותו), ולא הבטחת בטיחות למשקיעים - חברה יכולה להיות \"גדולה מכדי להיכשל\" ובעלי המניות שלה עדיין יכולים לאבד הכל גם אם המוסד עצמו נחלץ. דוגמאות: \"רגולטורים הזהירו שחלק ממלוות תשתית ה-AI הופכות גדולות מכדי להיכשל.\" \"במשבר 2008, כמה בנקים הוגדרו גדולים מכדי להיכשל וקיבלו תמיכה ממשלתית.\" \"מבקרים טוענים שחילוץ חברות 'גדולות מכדי להיכשל' מעודד לקיחת סיכונים מוגזמת.\" באנגלית: too big to fail."
+      },
+      "tags": [
+        "business-vocabulary",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-investment-grade-vs-junk",
+      "kind": "concept",
+      "en": {
+        "headline": "Investment Grade vs. Junk: Why One Line on a Credit Rating Moves Billions",
+        "scroll": "Credit ratings split into two camps, investment grade and junk, and crossing the line changes who's allowed to lend to you and at what price.",
+        "coffee": "A credit rating sorts borrowers by how likely they are to repay debt, but what matters most is which side of the investment-grade/junk line they land on. Many big institutional lenders are barred from holding junk debt at all, so crossing into investment grade suddenly opens a much larger, cheaper pool of money. Example: \"The company's upgrade to investment grade let it refinance its debt at a far lower interest rate.\"",
+        "deep": "## Why there's a line at all\n\nCredit-rating agencies like Moody's, S&P and Fitch exist to answer one question for lenders: how likely is this borrower to pay me back? They sort companies and governments into letter grades, but the grades collapse into two broad camps. \"Investment grade\" (roughly BBB-/Baa3 and above) means the agency judges default risk to be low. Everything below that is \"high-yield,\" more bluntly called \"junk\" — not because the company is badly run, but because its ability to repay debt is judged less certain.\n\n## Why the line moves markets\n\nThe line matters mechanically, not just as a label. Many of the largest pools of lending capital — pension funds, insurance companies, some mutual funds — are restricted by their own rules from holding junk-rated debt at all. So when a company crosses from junk into investment grade, it doesn't just get a nicer label: its pool of potential lenders suddenly expands by trillions of dollars, and because more lenders are competing to lend to it, the interest rate it pays drops. The reverse is just as sharp: a company downgraded from investment grade to junk can see forced selling, as rule-bound funds have to dump its bonds regardless of their own view of the company's prospects — a cliff-edge effect sometimes called falling off the \"ratings cliff.\"\n\n## A worked example\n\nSuppose a company needs to borrow $1 billion for ten years. If it's rated investment grade, it might pay an interest rate of around 5% a year — roughly $50 million annually. If the same company is rated junk, lenders demand compensation for the extra default risk, and that rate might jump to 10% or more — $100 million a year or higher, as this week's news showed with one AI lab reportedly paying a double-digit yield on new financing. Over ten years, that difference is hundreds of millions of dollars — money that comes directly out of the company's profits, not just an accounting technicality.\n\nThis is exactly why credit ratings are such a closely watched number for fast-growing, capital-hungry companies, including leading AI labs. A company racing to build expensive infrastructure wants to reach investment grade as quickly as possible, because every notch of improvement lowers its cost of capital and widens the pool of investors willing to fund it. Until it gets there, every dollar of debt-funded growth costs disproportionately more — which is exactly the dynamic putting pressure on some of today's most heavily-financed AI infrastructure deals."
+      },
+      "he": {
+        "headline": "דירוג השקעה מול דירוג זבל: למה קו אחד בדירוג אשראי מזיז מיליארדים",
+        "scroll": "דירוגי אשראי מתחלקים לשני מחנות, דירוג השקעה ודירוג זבל, ומעבר הקו משנה מי מורשה להלוות לך ובאיזה מחיר.",
+        "coffee": "דירוג אשראי מסווג לווים לפי הסבירות שהם יחזירו חוב, אבל מה שחשוב ביותר הוא באיזה צד של הקו בין דירוג השקעה לדירוג זבל הם נופלים. הרבה מלווים מוסדיים גדולים מנועים מלהחזיק חוב בדירוג זבל בכלל, כך שמעבר לדירוג השקעה פותח בבת אחת מאגר כסף גדול וזול בהרבה. דוגמה: \"השדרוג של החברה לדירוג השקעה איפשר לה למחזר את החוב שלה בריבית נמוכה בהרבה.\"",
+        "deep": "## למה יש בכלל קו\n\nסוכנויות דירוג אשראי כמו מודי'ס, S&P ופיץ' קיימות כדי לענות על שאלה אחת למלווים: מה הסבירות שהלווה הזה יחזיר לי את הכסף? הן מסווגות חברות וממשלות לדרגות אותיות, אבל הדרגות מתקפלות לשני מחנות עיקריים. \"דירוג השקעה\" (investment grade, בערך BBB-/Baa3 ומעלה) משמעו שהסוכנות שופטת את סיכון חדלות הפירעון כנמוך. כל מה שמתחת לכך הוא \"תשואה גבוהה\", או בפשטות \"זבל\" - לא בגלל שהחברה מנוהלת בצורה גרועה, אלא מכיוון שהיכולת שלה להחזיר חוב נשקלת כפחות בטוחה.\n\n## למה הקו מזיז שווקים\n\nהקו הזה חשוב באופן מכני, לא רק כתווית. חלק גדול ממאגרי הכסף הגדולים ביותר הפנויים להלוואות - קרנות פנסיה, חברות ביטוח, חלק מקרנות נאמנות - מוגבלים על פי הכללים שלהם עצמם מלהחזיק חוב בדירוג זבל בכלל. אז כשחברה עוברת מדירוג זבל לדירוג השקעה, היא לא פשוט מקבלת תווית נעימה יותר: מאגר המלווים הפוטנציאליים שלה מתרחב בבת אחת בטריליוני דולרים, ומכיוון שיותר מלווים מתחרים להלוות לה, הריבית שהיא משלמת יורדת. ההפך נכון באותה חדות: חברה שמדורגת-כלאחור מדירוג השקעה לדירוג זבל יכולה לחוות מכירה כפויה, כשקרנות הכפופות לכללים נאלצות לזרוק את האג\"ח שלה בלי קשר לדעתן על סיכויי החברה - תופעה שנקראת לעיתים \"הצניחה ממצוק הדירוג\".\n\n## דוגמה מחושבת\n\nנניח שחברה צריכה להלוות מיליארד דולר למשך עשר שנים. אם היא בדירוג השקעה, היא עשויה לשלם ריבית של כ-5% בשנה - בערך 50 מיליון דולר בשנה. אם אותה חברה בדירוג זבל, מלווים דורשים פיצוי על סיכון חדלות הפירעון הנוסף, והריבית הזו עשויה לזנק ל-10% או יותר - 100 מיליון דולר בשנה או יותר, כמו שחדשות השבוע הראו עם מעבדת AI אחת שדווח שהיא משלמת תשואה דו-ספרתית על מימון חדש. על פני עשר שנים, ההבדל הזה הוא מאות מיליוני דולרים - כסף שיוצא ישירות מהרווחים של החברה, ולא רק טכניקה חשבונאית.\n\nזו בדיוק הסיבה שדירוגי אשראי הם מספר שנעקב מקרוב אצל חברות שצומחות מהר ורעבות להון, כולל מעבדות AI מובילות. חברה שרצה לבנות תשתית יקרה רוצה להגיע לדירוג השקעה כמה שיותר מהר, מכיוון שכל שיפור דרגה מוריד את עלות ההון שלה ומרחיב את מאגר המשקיעים המוכנים לממן אותה. עד שהיא מגיעה לשם, כל דולר של צמיחה ממומנת בחוב עולה יותר באופן לא-פרופורציוני - וזו בדיוק הדינמיקה שמפעילה לחץ על כמה מעסקאות תשתית ה-AI הממומנות בכבדות ביותר כיום."
+      },
+      "tags": [
+        "credit-ratings",
+        "finance",
+        "business-vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-chinese-farm-1973",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1973: Egypt's Retreat at the Chinese Farm Let Israel Cross the Suez Canal",
+        "scroll": "In the Yom Kippur War, Egypt's withdrawal from the Battle of the Chinese Farm let Israeli forces bridge the Suez Canal, reversing the war's momentum.",
+        "coffee": "On 17 October 1973, in the thick of the Yom Kippur War, Egyptian forces retreated from the Battle of the Chinese Farm — a fortified area east of the Suez Canal named for the irrigation equipment with Japanese markings Israeli soldiers mistook for Chinese. The battle was among the bloodiest of the war, but the Egyptian withdrawal let Israeli forces secure a corridor to the canal and build the first bridge across it, moving troops to the western bank behind Egypt's Third Army. That crossing became the turning point of the war's second half, reversing the shock of Egypt's initial surprise attack and setting up the ceasefire and disengagement negotiations that followed.",
+        "deep": "## The context\n\nThe Yom Kippur War began on 6 October 1973, when Egypt and Syria launched a coordinated surprise attack on Israel during the Jewish holiday, catching Israeli forces unprepared on both the Suez Canal and Golan Heights fronts. Egypt's early gains were real and shocking to a country that had felt militarily secure since 1967, and for the first days of the war Israel was fighting defensively on both fronts at once.\n\n## The battle\n\nBy mid-October, Israel's strategy on the southern front centered on breaking through Egyptian lines to reach the Suez Canal itself and cross it, striking at the Egyptian army's rear rather than continuing to absorb attacks head-on. That plan required securing a stretch of land that came to be known as the Chinese Farm — actually an Egyptian agricultural research station, nicknamed for the Japanese lettering on irrigation equipment that Israeli soldiers mistook for Chinese characters. The fighting there, over October 15-17, was intense and costly for both sides, fought at night and in close quarters amid minefields and irrigation ditches. On 17 October, Egyptian forces withdrew from the area, and Israeli engineers were able to push a pontoon bridge across the canal.\n\n## Why it mattered\n\nThat bridge let Israeli armored divisions cross to the canal's western bank, encircling Egypt's Third Army on the eastern side and threatening Cairo's own supply lines — a complete reversal of the war's opening dynamic, where Egypt held the initiative. The crossing became the single most consequential maneuver of the war's second half: it gave Israel decisive leverage at the moment ceasefire negotiations began, and the encircled Third Army became a central bargaining chip in the disengagement talks that followed the fighting. Within days, a UN-backed ceasefire took hold, and the positions established around the canal crossing shaped the subsequent Sinai disengagement agreements — part of the diplomatic path that eventually led to the Egypt-Israel peace treaty six years later. For a war remembered largely for the trauma of its opening surprise, the Chinese Farm and the canal crossing are the moment Israel regained the strategic initiative."
+      },
+      "he": {
+        "headline": "1973: הנסיגה המצרית בחווה הסינית אפשרה לישראל לחצות את תעלת סואץ",
+        "scroll": "במלחמת יום הכיפורים, הנסיגה המצרית מקרב החווה הסינית אפשרה לכוחות ישראליים לגשר את תעלת סואץ, והפכה את מומנטום המלחמה.",
+        "coffee": "ב-17 באוקטובר 1973, בעיצומה של מלחמת יום הכיפורים, כוחות מצריים נסוגו מקרב החווה הסינית - שטח מבוצר ממזרח לתעלת סואץ שנקרא כך בשל ציוד השקיה עם כיתוב יפני שחיילים ישראלים טעו לחשוב שהוא סיני. הקרב היה מהעקובים מדם במלחמה, אך הנסיגה המצרית אפשרה לכוחות ישראליים לאבטח מעבר לתעלה ולבנות עליה את הגשר הראשון, שהעביר כוחות לגדה המערבית מאחורי הארמייה השלישית המצרית. המעבר הזה הפך לנקודת המפנה של המחצית השנייה של המלחמה, הפך את ההלם של ההתקפה המצרית המפתיעה בפתיחתה, והוביל למשא ומתן על הפסקת האש וההתפרקות מהמגע שבא בעקבותיו.",
+        "deep": "## ההקשר\n\nמלחמת יום הכיפורים פרצה ב-6 באוקטובר 1973, כשמצרים וסוריה פתחו בהתקפת פתע מתואמת על ישראל בחג יהודי, ותפסו את הכוחות הישראליים בלתי מוכנים גם בחזית תעלת סואץ וגם בחזית הגולן. ההתקדמות המצרית בימים הראשונים הייתה אמיתית והלמה מדינה שהרגישה בטוחה מבחינה צבאית מאז 1967, ובימים הראשונים של המלחמה ישראל נלחמה בהגנה בשתי החזיתות בבת אחת.\n\n## הקרב\n\nבאמצע אוקטובר, האסטרטגיה הישראלית בחזית הדרומית התמקדה בפריצת קווי מצרים כדי להגיע לתעלת סואץ עצמה ולחצות אותה, תוך פגיעה בעורף הארמייה המצרית במקום להמשיך לספוג התקפות חזיתיות. התוכנית הזו דרשה אבטחת רצועת קרקע שהפכה לידועה בשם \"החווה הסינית\" - בפועל תחנת מחקר חקלאית מצרית, שקיבלה את הכינוי בגלל כיתוב יפני על ציוד השקיה שחיילים ישראלים טעו לחשוב שהוא סיני. הקרבות שם, בין 15 ל-17 באוקטובר, היו עזים ויקרים לשני הצדדים, ונערכו בלילה ובטווח קרוב בין שדות מוקשים ותעלות השקיה. ב-17 באוקטובר נסוגו הכוחות המצריים מהאזור, ומהנדסי קרב ישראלים הצליחו לפרוס גשר צף על התעלה.\n\n## למה זה היה חשוב\n\nהגשר הזה אפשר לאוגדות השריון הישראליות לחצות לגדה המערבית של התעלה, לכתר את הארמייה השלישית המצרית בגדה המזרחית ולאיים על קווי האספקה של קהיר עצמה - היפוך מוחלט של הדינמיקה שבה נפתחה המלחמה, שבה מצרים אחזה ביוזמה. המעבר הזה הפך לתמרון המשמעותי ביותר במחצית השנייה של המלחמה: הוא נתן לישראל מנוף הכרעה בדיוק בנקודת הזמן שבה נפתח המשא ומתן על הפסקת אש, והארמייה השלישית המכותרת הפכה לקלף מיקוח מרכזי בשיחות ההתפרקות מהמגע שבאו בעקבות הקרבות. בתוך ימים נכנסה לתוקף הפסקת אש בגיבוי האו\"ם, והעמדות שנקבעו סביב מעבר התעלה עיצבו את הסכמי ההתפרקות מהמגע בסיני שבאו בהמשך - חלק מהמסלול הדיפלומטי שהוביל בסופו של דבר להסכם השלום בין מצרים לישראל שש שנים לאחר מכן. למלחמה שזכורה ברובה בטראומה של ההתקפה המפתיעה שבה נפתחה, החווה הסינית ומעבר התעלה הם הרגע שבו ישראל חזרה לאחוז ביוזמה האסטרטגית."
+      },
+      "tags": [
+        "on-this-day",
+        "yom-kippur-war",
+        "israel"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1973: Yom Kippur War: Egyptian forces retreated from the Battle of the Chinese Farm, allowing Israeli forces to build their first bridge across the Suez Canal.",
+          "url": "https://en.wikipedia.org/wiki/Yom_Kippur_War"
+        }
+      ]
+    }
+  ]
+}
