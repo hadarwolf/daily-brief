@@ -51,20 +51,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-0"
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-16T18:45:00Z",
-     "home": "Frosinone",
-     "away": "Sassuolo",
-     "status": "FINISHED",
-     "score": "4-2"
-    },
-    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-16T18:45:00Z",
      "home": "Le Mans",
      "away": "Toulouse",
      "status": "FINISHED",
      "score": "0-3"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-16T18:45:00Z",
+     "home": "Frosinone",
+     "away": "Sassuolo",
+     "status": "FINISHED",
+     "score": "4-2"
     },
     {
      "competition": "Championship",
@@ -93,6 +93,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-0"
     },
     {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-17T11:30:00Z",
+     "home": "Watford",
+     "away": "Charlton",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-17T11:30:00Z",
      "home": "Everton",
@@ -105,14 +113,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-17T11:30:00Z",
      "home": "Middlesbrough",
      "away": "Cardiff",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-17T11:30:00Z",
-     "home": "Watford",
-     "away": "Charlton",
      "status": "TIMED",
      "score": null
     },
@@ -159,6 +159,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-17T13:30:00Z",
+     "home": "Bremen",
+     "away": "SC Paderborn",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-17T13:30:00Z",
      "home": "Union Berlin",
      "away": "Dortmund",
      "status": "TIMED",
@@ -169,14 +177,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-17T13:30:00Z",
      "home": "Schalke",
      "away": "Mainz",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-17T13:30:00Z",
-     "home": "Bremen",
-     "away": "SC Paderborn",
      "status": "TIMED",
      "score": null
     },
@@ -209,6 +209,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-17T14:00:00Z",
      "home": "Man City",
      "away": "Ipswich Town",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "Brentford",
+     "away": "Liverpool",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "Fulham",
+     "away": "Hull City",
      "status": "TIMED",
      "score": null
     },
@@ -249,22 +265,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-17T14:00:00Z",
      "home": "Derby County",
      "away": "Stoke",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Brentford",
-     "away": "Liverpool",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Fulham",
-     "away": "Hull City",
      "status": "TIMED",
      "score": null
     },
@@ -341,18 +341,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-17T18:45:00Z",
-     "home": "Lille",
-     "away": "Brest",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-17T18:45:00Z",
      "home": "Roma",
      "away": "Genoa",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-17T18:45:00Z",
+     "home": "Lille",
+     "away": "Brest",
      "status": "TIMED",
      "score": null
     },
@@ -930,7 +930,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#0",
      "title": "Lionel Messi given green light for whirlwind Spain trip just 48 hours before Inter Miami fixture - Goal.com",
-     "published": "2026-10-17T06:43:26+00:00",
+     "published": "2026-10-17T06:45:21+00:00",
      "summary": "Lionel Messi given green light for whirlwind Spain trip just 48 hours before Inter Miami fixture Goal.com"
     },
     {
@@ -960,7 +960,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#5",
      "title": "Miami coach unfazed as Messi set to collect prestigious award in Spain - The Daily Star",
-     "published": "2026-10-17T03:04:34+00:00",
+     "published": "2026-10-17T03:05:25+00:00",
      "summary": "Miami coach unfazed as Messi set to collect prestigious award in Spain The Daily Star"
     },
     {
@@ -971,111 +971,111 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#7",
+     "title": "What Is Success This Season for Inter Miami? - 247Sports",
+     "published": "2026-10-17T02:15:59+00:00",
+     "summary": "What Is Success This Season for Inter Miami? 247Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
      "title": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player - ABC News - Breaking News, Latest News and Videos",
      "published": "2026-10-17T01:05:18+00:00",
      "summary": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player ABC News - Breaking News, Latest News and Videos"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Atlanta United faces must-win scenario in rematch with Inter Miami - Field Level Media",
      "published": "2026-10-17T00:41:00+00:00",
      "summary": "Atlanta United faces must-win scenario in rematch with Inter Miami Field Level Media"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Messi Leads Inter Miami Into High-Stakes MLS Playoffs - SportsGrid",
      "published": "2026-10-16T22:26:41+00:00",
      "summary": "Messi Leads Inter Miami Into High-Stakes MLS Playoffs SportsGrid"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Messi's trip to Spain raises questions: Miami coach settles his position - Goal.com",
      "published": "2026-10-16T21:01:52+00:00",
      "summary": "Messi's trip to Spain raises questions: Miami coach settles his position Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi’s teammates face contract decisions as Inter Miami evaluate two players’ futures - World Soccer Talk",
      "published": "2026-10-16T20:58:25+00:00",
      "summary": "Lionel Messi’s teammates face contract decisions as Inter Miami evaluate two players’ futures World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "MATCH PREVIEW: Inter Miami CF Visits Atlanta United in Pursuit of Third Consecutive Win - Inter Miami CF",
      "published": "2026-10-16T20:44:48+00:00",
      "summary": "MATCH PREVIEW: Inter Miami CF Visits Atlanta United in Pursuit of Third Consecutive Win Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Match preview: Massive Miami match looms for Atlanta United - Atlanta United FC",
      "published": "2026-10-16T20:22:38+00:00",
      "summary": "Match preview: Massive Miami match looms for Atlanta United Atlanta United FC"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Kily González reveals what Inter Miami must do to get the best out of Lionel Messi - Diario AS",
      "published": "2026-10-16T20:12:58+00:00",
      "summary": "Kily González reveals what Inter Miami must do to get the best out of Lionel Messi Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Availability report: Returner from suspension gives Atlanta United near-full squad ahead of Miami - Atlanta United FC",
      "published": "2026-10-16T19:20:37+00:00",
      "summary": "Availability report: Returner from suspension gives Atlanta United near-full squad ahead of Miami Atlanta United FC"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami visit Atlanta seeking third straight win and playoff momentum - OneFootball",
      "published": "2026-10-16T19:20:33+00:00",
      "summary": "Inter Miami visit Atlanta seeking third straight win and playoff momentum OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami coach confirms Lionel Messi’s trip to Spain but says he’ll be available vs Red Bull New York - World Soccer Talk",
      "published": "2026-10-16T18:39:15+00:00",
      "summary": "Inter Miami coach confirms Lionel Messi’s trip to Spain but says he’ll be available vs Red Bull New York World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi vs Cristiano Ronaldo: The incredible assist stat that separates the Inter Miami star from Al-N... - World Soccer Talk",
      "published": "2026-10-16T17:38:35+00:00",
      "summary": "Lionel Messi vs Cristiano Ronaldo: The incredible assist stat that separates the Inter Miami star from Al-N... World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Miami coach unbothered by Messi getting award in Spain 2 days before MLS game - ESPN India",
      "published": "2026-10-16T17:14:00+00:00",
      "summary": "Miami coach unbothered by Messi getting award in Spain 2 days before MLS game ESPN India"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
+     "title": "\"I spoke from my heart\": Gaspart explains his controversial attack on Messi - Goal.com",
+     "published": "2026-10-16T16:11:33+00:00",
+     "summary": "\"I spoke from my heart\": Gaspart explains his controversial attack on Messi Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#22",
      "title": "First Argentina games of ‘post Messi era’ confirmed - Diario AS",
      "published": "2026-10-16T16:11:28+00:00",
      "summary": "First Argentina games of ‘post Messi era’ confirmed Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi keeps defying time as he reaches another extraordinary assist record in 2026 - World Soccer Talk",
      "published": "2026-10-16T16:09:50+00:00",
      "summary": "Lionel Messi keeps defying time as he reaches another extraordinary assist record in 2026 World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#24",
      "title": "[4K] Royal Holiday Palace – Lara Beach, Antalya, Turkey (review) Inter Miami Vs Toronto (Vlpsg8gl8P) - Unisba Media",
      "published": "2026-10-16T16:08:53+00:00",
      "summary": "[4K] Royal Holiday Palace – Lara Beach, Antalya, Turkey (review) Inter Miami Vs Toronto (Vlpsg8gl8P) Unisba Media"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Lionel Messi After International Retirement: Can He Build a Lasting Legacy at Inter Miami? - Yahoo Sports",
-     "published": "2026-10-16T16:08:28+00:00",
-     "summary": "Lionel Messi After International Retirement: Can He Build a Lasting Legacy at Inter Miami? Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Matchday 31: Messi's MVP form, Texas Derby & Hell is Real! - Yahoo Sports",
-     "published": "2026-10-16T15:24:00+00:00",
-     "summary": "Matchday 31: Messi's MVP form, Texas Derby & Hell is Real! Yahoo Sports"
     }
    ]
   },
@@ -1085,135 +1085,135 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Deni Avdija posts 12/4/3/2/1 line vs. Warriors - NBC Sports",
+     "published": "2026-10-17T06:11:15+00:00",
+     "summary": "Deni Avdija posts 12/4/3/2/1 line vs. Warriors NBC Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "A Jewish NBA season preview - Jewish Telegraphic Agency",
      "published": "2026-10-16T15:00:00+00:00",
      "summary": "A Jewish NBA season preview Jewish Telegraphic Agency"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija vs Iceland: stats, game log - BasketNews.com",
-     "published": "2026-10-15T07:17:35+00:00",
+     "published": "2026-10-15T07:17:36+00:00",
      "summary": "Deni Avdija vs Iceland: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "NBA Most Improved Player Odds & Favorites for 2027 - sports.betmgm.com",
      "published": "2026-10-15T07:00:00+00:00",
      "summary": "NBA Most Improved Player Odds & Favorites for 2027 sports.betmgm.com"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija vs Poland: stats, game log - BasketNews.com",
      "published": "2026-10-15T06:12:30+00:00",
      "summary": "Deni Avdija vs Poland: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija last 10 games: stats and game log - BasketNews.com",
      "published": "2026-10-15T05:34:32+00:00",
      "summary": "Deni Avdija last 10 games: stats and game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija last 5 games: stats and game log - BasketNews.com",
      "published": "2026-10-15T05:29:27+00:00",
      "summary": "Deni Avdija last 5 games: stats and game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija playoff stats: averages by season and series - BasketNews.com",
      "published": "2026-10-15T04:39:24+00:00",
      "summary": "Deni Avdija playoff stats: averages by season and series BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Deni Avdija vs Houston Rockets: stats, game log - BasketNews.com",
      "published": "2026-10-15T04:19:14+00:00",
      "summary": "Deni Avdija vs Houston Rockets: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Ja Morant gives Blazers the secondary playmaker Deni Avdija never had - Rip City Project",
      "published": "2026-10-14T21:26:25+00:00",
      "summary": "Ja Morant gives Blazers the secondary playmaker Deni Avdija never had Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Ben Saraf vs Dolomiti Energia Trento: stats, game log - BasketNews.com",
      "published": "2026-10-14T20:39:06+00:00",
      "summary": "Ben Saraf vs Dolomiti Energia Trento: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Ben Saraf vs Trefl Sopot: stats, game log - BasketNews.com",
      "published": "2026-10-14T19:49:31+00:00",
      "summary": "Ben Saraf vs Trefl Sopot: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Ben Saraf vs Wolves Twinsbet Vilnius: stats, game log - BasketNews.com",
      "published": "2026-10-14T19:04:59+00:00",
      "summary": "Ben Saraf vs Wolves Twinsbet Vilnius: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 - The Ringer",
      "published": "2026-10-14T17:06:24+00:00",
      "summary": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 The Ringer"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija Continues Efficient Play Against Kings, Ja Morant Snaps Cold Streak - Sports Illustrated",
      "published": "2026-10-14T13:00:02+00:00",
      "summary": "Deni Avdija Continues Efficient Play Against Kings, Ja Morant Snaps Cold Streak Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "'Still Gonna Get You': Draymond Green Has Unfinished Business With Blazers' Deni Avdija - Yahoo Sports",
      "published": "2026-10-14T12:00:05+00:00",
      "summary": "'Still Gonna Get You': Draymond Green Has Unfinished Business With Blazers' Deni Avdija Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija vs Crvena Zvezda Meridianbet Belgrade: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:47:31+00:00",
      "summary": "Deni Avdija vs Crvena Zvezda Meridianbet Belgrade: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija vs Czech Republic: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:37:15+00:00",
      "summary": "Deni Avdija vs Czech Republic: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija vs France: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:05:29+00:00",
      "summary": "Deni Avdija vs France: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija vs Belgium: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:49:51+00:00",
      "summary": "Deni Avdija vs Belgium: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija vs Fenerbahce Beko Istanbul: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:47:55+00:00",
      "summary": "Deni Avdija vs Fenerbahce Beko Istanbul: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija vs Olympiacos Piraeus: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:13:46+00:00",
      "summary": "Deni Avdija vs Olympiacos Piraeus: stats, game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
-     "title": "Deni Avdija vs FC Bayern Munich: stats, game log - BasketNews.com",
-     "published": "2026-10-14T10:11:55+00:00",
-     "summary": "Deni Avdija vs FC Bayern Munich: stats, game log BasketNews.com"
     },
     {
      "ref": "gnews_israeli_nba#22",
@@ -1223,15 +1223,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#23",
-     "title": "Deni Avdija vs CSKA Moscow: stats, game log - BasketNews.com",
-     "published": "2026-10-14T10:02:53+00:00",
-     "summary": "Deni Avdija vs CSKA Moscow: stats, game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
      "title": "Deni Avdija vs Zenit Saint Petersburg: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:02:37+00:00",
      "summary": "Deni Avdija vs Zenit Saint Petersburg: stats, game log BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Deni Avdija vs Zalgiris Kaunas: stats, game log - BasketNews.com",
+     "published": "2026-10-14T10:02:21+00:00",
+     "summary": "Deni Avdija vs Zalgiris Kaunas: stats, game log BasketNews.com"
     }
    ]
   }

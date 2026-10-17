@@ -24,141 +24,141 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#1",
-     "title": "U.S. News: Top U.S. News Today - AP News",
-     "published": "2026-10-17T05:02:45+00:00",
-     "summary": "U.S. News: Top U.S. News Today AP News"
-    },
-    {
-     "ref": "ap_world#2",
      "title": "Iran war votes in Congress become a focal point for campaign ad attacks - AP News",
      "published": "2026-10-17T04:05:00+00:00",
      "summary": "Iran war votes in Congress become a focal point for campaign ad attacks AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#2",
      "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine - AP News",
      "published": "2026-10-17T04:01:00+00:00",
      "summary": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#3",
      "title": "How a driver, a dad and a teacher tried to stop the Oregon school shooter - AP News",
      "published": "2026-10-17T04:00:00+00:00",
      "summary": "How a driver, a dad and a teacher tried to stop the Oregon school shooter AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#4",
      "title": "An American pope brings American-style governance to the Vatican, even in a health crisis - AP News",
      "published": "2026-10-17T04:00:00+00:00",
      "summary": "An American pope brings American-style governance to the Vatican, even in a health crisis AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#5",
      "title": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast - AP News",
      "published": "2026-10-17T03:56:00+00:00",
      "summary": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#6",
      "title": "North Korea says it tested new torpedo system with AI capabilities - AP News",
      "published": "2026-10-17T03:47:00+00:00",
      "summary": "North Korea says it tested new torpedo system with AI capabilities AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#7",
      "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - AP News",
      "published": "2026-10-17T03:18:00+00:00",
      "summary": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#8",
      "title": "3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico - AP News",
      "published": "2026-10-17T03:01:00+00:00",
      "summary": "3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#9",
      "title": "Canada’s Carney makes final appeal against Alberta separation ahead of referendum - AP News",
      "published": "2026-10-17T02:52:00+00:00",
      "summary": "Canada’s Carney makes final appeal against Alberta separation ahead of referendum AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#10",
      "title": "LeBron James calls helicopter rides 'transportation' after he soars on big dunk in 76ers home debut - AP News",
      "published": "2026-10-17T02:47:00+00:00",
      "summary": "LeBron James calls helicopter rides 'transportation' after he soars on big dunk in 76ers home debut AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#11",
      "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say - AP News",
      "published": "2026-10-17T02:23:00+00:00",
      "summary": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#12",
      "title": "ALANNA DURKIN RICHER - AP News",
      "published": "2026-10-17T02:04:48+00:00",
      "summary": "ALANNA DURKIN RICHER AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#13",
      "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
      "published": "2026-10-17T01:56:18+00:00",
      "summary": "California officials who process ballots from suspected noncitizens risk prosecution, US warns AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#14",
      "title": "Rep. Ilhan Omar’s attorneys demand return of property seized in federal search of her home - AP News",
      "published": "2026-10-17T01:47:00+00:00",
      "summary": "Rep. Ilhan Omar’s attorneys demand return of property seized in federal search of her home AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#15",
      "title": "Latest vote shows no candidate for UN chief has the required support of all five key powers - AP News",
      "published": "2026-10-17T01:46:00+00:00",
      "summary": "Latest vote shows no candidate for UN chief has the required support of all five key powers AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#16",
      "title": "Youngest Oregon school shooting victim was a fearless climber who loved stuffed animals - AP News",
      "published": "2026-10-17T01:38:00+00:00",
      "summary": "Youngest Oregon school shooting victim was a fearless climber who loved stuffed animals AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#17",
      "title": "A humble oyster pail turned takeout icon: The American story of the Chinese food carton - AP News",
      "published": "2026-10-16T23:58:00+00:00",
      "summary": "A humble oyster pail turned takeout icon: The American story of the Chinese food carton AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#18",
      "title": "US Coast Guard rescues 16 people and searches for more after May Day call off Mexico's Baja coast - AP News",
      "published": "2026-10-16T23:39:00+00:00",
      "summary": "US Coast Guard rescues 16 people and searches for more after May Day call off Mexico's Baja coast AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#19",
      "title": "WATCH LIVE: New England’s having an ‘elite’ year, but there’s fall foliage elsewhere, too - AP News",
      "published": "2026-10-16T23:32:00+00:00",
      "summary": "WATCH LIVE: New England’s having an ‘elite’ year, but there’s fall foliage elsewhere, too AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#20",
      "title": "Two of MLB’s smallest spenders will meet in the World Series for first time since 1991 - AP News",
      "published": "2026-10-16T23:31:00+00:00",
      "summary": "Two of MLB’s smallest spenders will meet in the World Series for first time since 1991 AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#21",
      "title": "Selma Blair's representatives say she didn't intend to hurt anyone on flight that led to her arrest - AP News",
      "published": "2026-10-16T23:18:00+00:00",
      "summary": "Selma Blair's representatives say she didn't intend to hurt anyone on flight that led to her arrest AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#22",
      "title": "Painting Eisenhower Building would diminish historic character of White House complex, report says - AP News",
      "published": "2026-10-16T23:07:00+00:00",
      "summary": "Painting Eisenhower Building would diminish historic character of White House complex, report says AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "The aftermath of a school shooting in Oregon, in photos - AP News",
+     "published": "2026-10-16T23:05:21+00:00",
+     "summary": "The aftermath of a school shooting in Oregon, in photos AP News"
     },
     {
      "ref": "ap_world#24",
@@ -174,33 +174,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+     "published": "2026-10-17T06:49:48+00:00",
+     "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
      "published": "2026-10-17T06:39:40+00:00",
      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Katie Zacharia leaving White House role less than five days into job",
      "published": "2026-10-17T05:20:40+00:00",
      "summary": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
      "published": "2026-10-17T03:11:10+00:00",
      "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
      "published": "2026-10-17T02:33:09+00:00",
      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
-    },
-    {
-     "ref": "bbc_world#4",
-     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-     "published": "2026-10-17T01:19:04+00:00",
-     "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
     },
     {
      "ref": "bbc_world#5",
@@ -438,129 +438,129 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#4",
+     "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says - Reuters",
+     "published": "2026-10-17T04:47:00+00:00",
+     "summary": "BOJ may need to tighten faster if inflation beats forecast, IMF says Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "Major development banks step up support for critical minerals value chains - Reuters",
      "published": "2026-10-17T04:14:00+00:00",
      "summary": "Major development banks step up support for critical minerals value chains Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Hacker gets data on millions of California students, state education department says - Reuters",
      "published": "2026-10-17T02:31:00+00:00",
      "summary": "Hacker gets data on millions of California students, state education department says Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "Three sentenced to 158 years in Mexico for murder of Australian, US surfers - Reuters",
      "published": "2026-10-17T02:26:00+00:00",
      "summary": "Three sentenced to 158 years in Mexico for murder of Australian, US surfers Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Brazil's Flavio Bolsonaro pledges fiscal adjustment, rejects cuts to social spending - Reuters",
      "published": "2026-10-17T02:21:00+00:00",
      "summary": "Brazil's Flavio Bolsonaro pledges fiscal adjustment, rejects cuts to social spending Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Trump threatens California officials with imprisonment over stance on mail ballots - Reuters",
      "published": "2026-10-17T02:15:00+00:00",
      "summary": "Trump threatens California officials with imprisonment over stance on mail ballots Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "India's 'cockroach' movement founder arrested after detention, media reports say - Reuters",
      "published": "2026-10-17T01:56:00+00:00",
      "summary": "India's 'cockroach' movement founder arrested after detention, media reports say Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law - Reuters",
      "published": "2026-10-17T01:17:00+00:00",
      "summary": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Bangladesh is battling measles. It's a 'real warning' to other nations - Reuters",
      "published": "2026-10-17T01:00:00+00:00",
      "summary": "Bangladesh is battling measles. It's a 'real warning' to other nations Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "What redistricting means for Tennessee voters - Reuters",
      "published": "2026-10-17T00:03:00+00:00",
      "summary": "What redistricting means for Tennessee voters Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Trump mocks popularity of the name Mohammad, common among Muslims - Reuters",
      "published": "2026-10-16T23:52:00+00:00",
      "summary": "Trump mocks popularity of the name Mohammad, common among Muslims Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "US lifts curbs on Mexican airlines after aviation dispute - Reuters",
      "published": "2026-10-16T23:05:43+00:00",
      "summary": "US lifts curbs on Mexican airlines after aviation dispute Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Judge dismisses child sex abuse charges against actor Timothy Busfield - Reuters",
      "published": "2026-10-16T22:50:55+00:00",
      "summary": "Judge dismisses child sex abuse charges against actor Timothy Busfield Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Russian attacks kill eight in Ukraine, cut power to over a million - Reuters",
      "published": "2026-10-16T22:48:56+00:00",
      "summary": "Russian attacks kill eight in Ukraine, cut power to over a million Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Grynspan holds lead for next UN chief as race enters decisive stage - Reuters",
      "published": "2026-10-16T22:28:54+00:00",
      "summary": "Grynspan holds lead for next UN chief as race enters decisive stage Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "North Korea tests new AI-equipped torpedo, KCNA says - Reuters",
      "published": "2026-10-16T22:26:59+00:00",
      "summary": "North Korea tests new AI-equipped torpedo, KCNA says Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Moldova condemns Russia after five drones crash on its territory - Reuters",
      "published": "2026-10-16T22:25:38+00:00",
      "summary": "Moldova condemns Russia after five drones crash on its territory Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Actor Selma Blair did not intend harm on flight, spokesperson says - Reuters",
      "published": "2026-10-16T22:20:38+00:00",
      "summary": "Actor Selma Blair did not intend harm on flight, spokesperson says Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Panzani, Cerealis in talks to create €1.8 billion European food group - Reuters",
      "published": "2026-10-16T22:19:46+00:00",
      "summary": "Panzani, Cerealis in talks to create €1.8 billion European food group Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu - Reuters",
      "published": "2026-10-16T21:51:00+00:00",
      "summary": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "UK finance minister says Heathrow expansion would boost growth - Reuters",
      "published": "2026-10-16T21:40:48+00:00",
      "summary": "UK finance minister says Heathrow expansion would boost growth Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Brazil may offer credit lines to ease impact of tax, labor reforms, minister says - Reuters",
-     "published": "2026-10-16T21:24:31+00:00",
-     "summary": "Brazil may offer credit lines to ease impact of tax, labor reforms, minister says Reuters"
     }
    ]
   }
