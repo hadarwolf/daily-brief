@@ -24,75 +24,75 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "China Warns Corrupt Officials Can’t Expect a Safe Landing",
+     "published": "2026-10-17T05:35:22+00:00",
+     "summary": "China’s top anti-graft authorities warned that officials who engage in corruption cannot expect a “safe landing,” regardless of their rank, past contributions or whether they’ve retired, according to a commentary from the CPC Central Commission for Discipline Inspection and National Commission of Supervision."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "Japan’s Takaichi to Attend APEC in China if Parliament Allows",
      "published": "2026-10-17T05:22:12+00:00",
      "summary": "Japanese Prime Minister Sanae Takaichi said she plans to attend the APEC leaders summit hosted by China if parliament permits, confirming her willingness to visit amid a deep freeze of ties between the two Asian economies."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says",
      "published": "2026-10-17T04:55:30+00:00",
      "summary": "Canadian billionaire Prem Watsa is betting that his Fairfax Financial Holdings Ltd.’s acquisition of IDBI Bank Ltd. will pay off given India’s growth prospects, the Economic Times reported."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "India Halts Sugar Diversion to Ethanol After El Nino Hurts Crops",
      "published": "2026-10-17T04:50:55+00:00",
      "summary": "India has ordered state-owned fuel retailers to stop procuring ethanol made from sugar and key sugarcane-based feedstocks in move that may help keep a lid on prices of the sweetener."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "China Encourages Cinemas to Add Sports Events and Lottery Sales",
      "published": "2026-10-17T03:38:15+00:00",
      "summary": "China is encouraging cinemas to screen major sporting events, host sports activities and sell sports lottery tickets as part of a drive to link moviegoing with sports consumption, according to a notice from the National Film Administration and General Administration of Sport."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%",
      "published": "2026-10-17T03:03:57+00:00",
      "summary": "Vietnam’s Prime Minister Le Minh Hung projected gross domestic product will expand at least 10% next year as he outlined the nation’s economic targets in a speech to parliament."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "India’s ‘Cockroach’ Protest Leader Faces Court in Voter-List Row",
      "published": "2026-10-17T02:34:29+00:00",
      "summary": "The founder of India’s “Cockroach” protest movement is due to appear in court Saturday after being taken into police custody as a widening fight over the country’s voter rolls keeps New Delhi on edge."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians",
      "published": "2026-10-17T02:30:00+00:00",
      "summary": "For generations of Indians, Reliance Industries Ltd. was their introduction to the stock market. Founder Dhirubhai Ambani drew middle-income savers into shares, building a following that endured for decades."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
      "published": "2026-10-17T00:00:00+00:00",
      "summary": "Chinese firms have emerged as the biggest losers of the faltering global AI trade, a setback for Beijing’s efforts to use stock markets to supercharge its ambition of technological supremacy."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "US Gives Green Light for New Routes from Mexico City Airports",
      "published": "2026-10-16T22:11:45+00:00",
      "summary": "The US will allow Mexican airlines to offer new flights into the country from Mexico City’s two biggest airports, lifting restrictions that had blocked additional routes."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Graza CEO on Market Expansion, Consumer Outlook",
      "published": "2026-10-16T22:02:25+00:00",
      "summary": "Andrew Benin, CEO of Graza, said the company’s appeal starts with the quality of its olive oil, while its squeezable bottle helped make the product approachable and popular. Benin emphasized sourcing transparency: bottles identify the oil’s origin, varietal, harvest season, bottling date and best-by date, while the brand aims to deliver a consistent peppery, flavor-forward profile despite agricult"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "TGI Fridays CEO on Company Turnaround, Expansion Plans",
      "published": "2026-10-16T21:56:54+00:00",
      "summary": "Ray Blanchette, CEO of TGI Fridays, says the restaurant aims to stand out in casual dining through value, quality food and attentive service. He identifies food, service and atmosphere as the priorities for attracting customers, with a renewed focus on scratch cooking and bringing energy back to the business. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Wall Street Anxiety Spreads as AI Rout Meets $110 Oil Shock",
-     "published": "2026-10-16T20:31:45+00:00",
-     "summary": "Wall Street has spent the year betting on staggering AI growth while worrying about stubborn inflation. This week, investors got a fresh taste of both risks: a deepening rout in the AI complex that reached into its debt financing, and oil at $110 a barrel threatening to make inflation harder to contain."
     },
     {
      "ref": "bloomberg_markets#13",
@@ -144,51 +144,51 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Houthis encircle new target in conflict with Saudi-backed forces",
+     "published": "2026-10-17T04:00:30+00:00",
+     "summary": "Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "The Man City theory of politics",
      "published": "2026-10-17T04:00:21+00:00",
      "summary": "The tribalism of football fans parallels modern politics like nothing else"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "The dress rehearsal for an AI reckoning",
      "published": "2026-10-17T04:00:21+00:00",
      "summary": "Ructions point to what a true bursting of the bubble might do to financial markets"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "Are we sleepwalking into World War III?",
      "published": "2026-10-17T04:00:11+00:00",
      "summary": "As regional conflicts rage and revisionist powers challenge the established order, warnings of a new global conflagration are growing louder"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "‘Inflation will make people poor’: Airlines brace for years of pain",
      "published": "2026-10-17T04:00:11+00:00",
      "summary": "Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "Trump exempts Russia from further sanctions mandated by new law",
      "published": "2026-10-17T02:31:59+00:00",
      "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "Trump’s press secretary Katie Zacharia fired after five days",
      "published": "2026-10-17T01:29:51+00:00",
      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
      "published": "2026-10-17T00:47:25+00:00",
      "summary": "High borrowing costs complicate AI lab’s goal of achieving investment-grade status"
-    },
-    {
-     "ref": "ft_home#7",
-     "title": "Oil hits five-month high of $110 on new escalation in Middle East",
-     "published": "2026-10-16T22:57:43+00:00",
-     "summary": "Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs"
     },
     {
      "ref": "ft_home#8",
@@ -198,12 +198,18 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#9",
-     "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
-     "published": "2026-10-16T20:42:16+00:00",
-     "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off"
+     "title": "Rich make millions by flipping private jets",
+     "published": "2026-10-16T20:00:07+00:00",
+     "summary": "Strong demand for private air travel combined with production delays boosts prices"
     },
     {
      "ref": "ft_home#10",
+     "title": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+     "published": "2026-10-16T19:42:41+00:00",
+     "summary": "Washington Post journalist among those injured during violence in occupied territory"
+    },
+    {
+     "ref": "ft_home#11",
      "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
      "published": "2026-10-16T10:00:09+00:00",
      "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races"
@@ -553,9 +559,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81523.1328,
-   "prev_close": 82141.4609,
-   "change_pct": -0.75,
+   "last": 81593.7422,
+   "prev_close": 81500.8047,
+   "change_pct": 0.11,
    "as_of": "2026-10-17"
   }
  },

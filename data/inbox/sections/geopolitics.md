@@ -30,141 +30,141 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#2",
+     "title": "US Coast Guard rescues 16 people and searches for more after mayday call off Mexico's Baja coast - AP News",
+     "published": "2026-10-17T05:01:00+00:00",
+     "summary": "US Coast Guard rescues 16 people and searches for more after mayday call off Mexico's Baja coast AP News"
+    },
+    {
+     "ref": "ap_world#3",
      "title": "Iran war votes in Congress become a focal point for campaign ad attacks - AP News",
      "published": "2026-10-17T04:05:00+00:00",
      "summary": "Iran war votes in Congress become a focal point for campaign ad attacks AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine - AP News",
      "published": "2026-10-17T04:01:00+00:00",
      "summary": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
+     "title": "Life rarely goes according to plan. Here’s how to get better at adapting - AP News",
+     "published": "2026-10-17T04:01:00+00:00",
+     "summary": "Life rarely goes according to plan. Here’s how to get better at adapting AP News"
+    },
+    {
+     "ref": "ap_world#6",
      "title": "How a driver, a dad and a teacher tried to stop the Oregon school shooter - AP News",
      "published": "2026-10-17T04:00:00+00:00",
      "summary": "How a driver, a dad and a teacher tried to stop the Oregon school shooter AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#7",
      "title": "An American pope brings American-style governance to the Vatican, even in a health crisis - AP News",
      "published": "2026-10-17T04:00:00+00:00",
      "summary": "An American pope brings American-style governance to the Vatican, even in a health crisis AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast - AP News",
      "published": "2026-10-17T03:56:00+00:00",
      "summary": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
      "title": "North Korea says it tested new torpedo system with AI capabilities - AP News",
      "published": "2026-10-17T03:47:00+00:00",
      "summary": "North Korea says it tested new torpedo system with AI capabilities AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#10",
      "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - AP News",
      "published": "2026-10-17T03:18:00+00:00",
      "summary": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico - AP News",
      "published": "2026-10-17T03:01:00+00:00",
      "summary": "3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "Canada’s Carney makes final appeal against Alberta separation ahead of referendum - AP News",
      "published": "2026-10-17T02:52:00+00:00",
      "summary": "Canada’s Carney makes final appeal against Alberta separation ahead of referendum AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "LeBron James calls helicopter rides 'transportation' after he soars on big dunk in 76ers home debut - AP News",
      "published": "2026-10-17T02:47:00+00:00",
      "summary": "LeBron James calls helicopter rides 'transportation' after he soars on big dunk in 76ers home debut AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say - AP News",
      "published": "2026-10-17T02:23:00+00:00",
      "summary": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
      "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
      "published": "2026-10-17T01:56:18+00:00",
      "summary": "California officials who process ballots from suspected noncitizens risk prosecution, US warns AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "Rep. Ilhan Omar’s attorneys demand return of property seized in federal search of her home - AP News",
      "published": "2026-10-17T01:47:00+00:00",
      "summary": "Rep. Ilhan Omar’s attorneys demand return of property seized in federal search of her home AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "Latest vote shows no candidate for UN chief has the required support of all five key powers - AP News",
      "published": "2026-10-17T01:46:00+00:00",
      "summary": "Latest vote shows no candidate for UN chief has the required support of all five key powers AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "Youngest Oregon school shooting victim was a fearless climber who loved stuffed animals - AP News",
      "published": "2026-10-17T01:38:00+00:00",
      "summary": "Youngest Oregon school shooting victim was a fearless climber who loved stuffed animals AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#19",
      "title": "A humble oyster pail turned takeout icon: The American story of the Chinese food carton - AP News",
      "published": "2026-10-16T23:58:00+00:00",
      "summary": "A humble oyster pail turned takeout icon: The American story of the Chinese food carton AP News"
     },
     {
-     "ref": "ap_world#18",
-     "title": "US Coast Guard rescues 16 people and searches for more after May Day call off Mexico's Baja coast - AP News",
-     "published": "2026-10-16T23:39:00+00:00",
-     "summary": "US Coast Guard rescues 16 people and searches for more after May Day call off Mexico's Baja coast AP News"
-    },
-    {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "WATCH LIVE: New England’s having an ‘elite’ year, but there’s fall foliage elsewhere, too - AP News",
      "published": "2026-10-16T23:32:00+00:00",
      "summary": "WATCH LIVE: New England’s having an ‘elite’ year, but there’s fall foliage elsewhere, too AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Two of MLB’s smallest spenders will meet in the World Series for first time since 1991 - AP News",
      "published": "2026-10-16T23:31:00+00:00",
      "summary": "Two of MLB’s smallest spenders will meet in the World Series for first time since 1991 AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Selma Blair's representatives say she didn't intend to hurt anyone on flight that led to her arrest - AP News",
      "published": "2026-10-16T23:18:00+00:00",
      "summary": "Selma Blair's representatives say she didn't intend to hurt anyone on flight that led to her arrest AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "Painting Eisenhower Building would diminish historic character of White House complex, report says - AP News",
      "published": "2026-10-16T23:07:00+00:00",
      "summary": "Painting Eisenhower Building would diminish historic character of White House complex, report says AP News"
     },
     {
-     "ref": "ap_world#23",
-     "title": "Chuck Lorre gets candid on hits, flops and hard lessons in new memoir ‘Sitcom’ - AP News",
-     "published": "2026-10-16T23:02:00+00:00",
-     "summary": "Chuck Lorre gets candid on hits, flops and hard lessons in new memoir ‘Sitcom’ AP News"
-    },
-    {
      "ref": "ap_world#24",
-     "title": "Norwegian teen sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang - AP News",
-     "published": "2026-10-16T22:52:00+00:00",
-     "summary": "Norwegian teen sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang AP News"
+     "title": "The aftermath of a school shooting in Oregon, in photos - AP News",
+     "published": "2026-10-16T23:05:21+00:00",
+     "summary": "The aftermath of a school shooting in Oregon, in photos AP News"
     }
    ]
   },
