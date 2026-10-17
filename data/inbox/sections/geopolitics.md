@@ -24,75 +24,75 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#1",
+     "title": "U.S. News: Top U.S. News Today - AP News",
+     "published": "2026-10-17T05:02:45+00:00",
+     "summary": "U.S. News: Top U.S. News Today AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Iran war votes in Congress become a focal point for campaign ad attacks - AP News",
      "published": "2026-10-17T04:05:00+00:00",
      "summary": "Iran war votes in Congress become a focal point for campaign ad attacks AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine - AP News",
      "published": "2026-10-17T04:01:00+00:00",
      "summary": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "How a driver, a dad and a teacher tried to stop the Oregon school shooter - AP News",
      "published": "2026-10-17T04:00:00+00:00",
      "summary": "How a driver, a dad and a teacher tried to stop the Oregon school shooter AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "An American pope brings American-style governance to the Vatican, even in a health crisis - AP News",
      "published": "2026-10-17T04:00:00+00:00",
      "summary": "An American pope brings American-style governance to the Vatican, even in a health crisis AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast - AP News",
      "published": "2026-10-17T03:56:00+00:00",
      "summary": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#7",
      "title": "North Korea says it tested new torpedo system with AI capabilities - AP News",
      "published": "2026-10-17T03:47:00+00:00",
      "summary": "North Korea says it tested new torpedo system with AI capabilities AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - AP News",
      "published": "2026-10-17T03:18:00+00:00",
      "summary": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico - AP News",
      "published": "2026-10-17T03:01:00+00:00",
      "summary": "3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "Canada’s Carney makes final appeal against Alberta separation ahead of referendum - AP News",
      "published": "2026-10-17T02:52:00+00:00",
      "summary": "Canada’s Carney makes final appeal against Alberta separation ahead of referendum AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "LeBron James calls helicopter rides 'transportation' after he soars on big dunk in 76ers home debut - AP News",
      "published": "2026-10-17T02:47:00+00:00",
      "summary": "LeBron James calls helicopter rides 'transportation' after he soars on big dunk in 76ers home debut AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say - AP News",
      "published": "2026-10-17T02:23:00+00:00",
      "summary": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "ALANNA DURKIN RICHER - AP News",
-     "published": "2026-10-17T02:04:48+00:00",
-     "summary": "ALANNA DURKIN RICHER AP News"
     },
     {
      "ref": "ap_world#13",
@@ -156,15 +156,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#23",
-     "title": "The aftermath of a school shooting in Oregon, in photos - AP News",
-     "published": "2026-10-16T23:05:21+00:00",
-     "summary": "The aftermath of a school shooting in Oregon, in photos AP News"
-    },
-    {
-     "ref": "ap_world#24",
      "title": "Chuck Lorre gets candid on hits, flops and hard lessons in new memoir ‘Sitcom’ - AP News",
      "published": "2026-10-16T23:02:00+00:00",
      "summary": "Chuck Lorre gets candid on hits, flops and hard lessons in new memoir ‘Sitcom’ AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Norwegian teen sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang - AP News",
+     "published": "2026-10-16T22:52:00+00:00",
+     "summary": "Norwegian teen sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang AP News"
     }
    ]
   },

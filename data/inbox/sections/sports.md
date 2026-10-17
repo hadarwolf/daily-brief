@@ -67,20 +67,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "4-2"
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-16T19:00:00Z",
-     "home": "Burnley",
-     "away": "Wolverhampton",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-16T19:00:00Z",
      "home": "Deportivo",
      "away": "Levante",
      "status": "FINISHED",
      "score": "1-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-16T19:00:00Z",
+     "home": "Burnley",
+     "away": "Wolverhampton",
+     "status": "FINISHED",
+     "score": "1-2"
     }
    ],
    "today": [
@@ -91,6 +91,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Internacional",
      "status": "FINISHED",
      "score": "2-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-17T11:30:00Z",
+     "home": "Millwall",
+     "away": "Lincoln City",
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Championship",
@@ -117,14 +125,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-17T11:30:00Z",
-     "home": "Millwall",
-     "away": "Lincoln City",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-17T12:00:00Z",
      "home": "Espanyol",
@@ -143,16 +143,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-17T13:30:00Z",
-     "home": "Elversberg",
-     "away": "Augsburg",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-17T13:30:00Z",
-     "home": "HSV",
-     "away": "Stuttgart",
+     "home": "Schalke",
+     "away": "Mainz",
      "status": "TIMED",
      "score": null
     },
@@ -175,40 +167,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-17T13:30:00Z",
-     "home": "Schalke",
-     "away": "Mainz",
+     "home": "HSV",
+     "away": "Stuttgart",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-17T13:30:00Z",
+     "home": "Elversberg",
+     "away": "Augsburg",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Bristol City",
-     "away": "Sheffield Utd",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Norwich",
-     "away": "Portsmouth",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "West Brom",
-     "away": "Blackburn",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Man City",
-     "away": "Ipswich Town",
+     "home": "Derby County",
+     "away": "Stoke",
      "status": "TIMED",
      "score": null
     },
@@ -261,10 +237,34 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "Man City",
+     "away": "Ipswich Town",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Derby County",
-     "away": "Stoke",
+     "home": "Bristol City",
+     "away": "Sheffield Utd",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "Norwich",
+     "away": "Portsmouth",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "West Brom",
+     "away": "Blackburn",
      "status": "TIMED",
      "score": null
     },
@@ -301,14 +301,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-10-17T16:30:00Z",
-     "home": "Real Betis",
-     "away": "Barça",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-17T16:30:00Z",
      "home": "Bayern",
@@ -325,6 +317,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-17T16:30:00Z",
+     "home": "Real Betis",
+     "away": "Barça",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-17T18:00:00Z",
      "home": "Telstar",
@@ -335,8 +335,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-17T18:45:00Z",
-     "home": "Troyes",
-     "away": "RC Lens",
+     "home": "Lille",
+     "away": "Brest",
      "status": "TIMED",
      "score": null
     },
@@ -351,16 +351,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-17T18:45:00Z",
-     "home": "Lille",
-     "away": "Brest",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-17T19:00:00Z",
-     "home": "Sparta",
-     "away": "Willem II",
+     "home": "Troyes",
+     "away": "RC Lens",
      "status": "TIMED",
      "score": null
     },
@@ -369,6 +361,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-17T19:00:00Z",
      "home": "Valencia",
      "away": "Athletic",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-17T19:00:00Z",
+     "home": "Sparta",
+     "away": "Willem II",
      "status": "TIMED",
      "score": null
     }
@@ -1086,7 +1086,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_israeli_nba#0",
      "title": "Deni Avdija posts 12/4/3/2/1 line vs. Warriors - NBC Sports",
-     "published": "2026-10-17T06:11:15+00:00",
+     "published": "2026-10-17T05:01:22+00:00",
      "summary": "Deni Avdija posts 12/4/3/2/1 line vs. Warriors NBC Sports"
     },
     {
@@ -1097,141 +1097,141 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#2",
+     "title": "Ben Saraf last 10 games: stats and game log - BasketNews.com",
+     "published": "2026-10-15T20:18:50+00:00",
+     "summary": "Ben Saraf last 10 games: stats and game log BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija vs Iceland: stats, game log - BasketNews.com",
      "published": "2026-10-15T07:17:36+00:00",
      "summary": "Deni Avdija vs Iceland: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "NBA Most Improved Player Odds & Favorites for 2027 - sports.betmgm.com",
      "published": "2026-10-15T07:00:00+00:00",
      "summary": "NBA Most Improved Player Odds & Favorites for 2027 sports.betmgm.com"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija vs Poland: stats, game log - BasketNews.com",
      "published": "2026-10-15T06:12:30+00:00",
      "summary": "Deni Avdija vs Poland: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija last 10 games: stats and game log - BasketNews.com",
      "published": "2026-10-15T05:34:32+00:00",
      "summary": "Deni Avdija last 10 games: stats and game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija last 5 games: stats and game log - BasketNews.com",
      "published": "2026-10-15T05:29:27+00:00",
      "summary": "Deni Avdija last 5 games: stats and game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Deni Avdija playoff stats: averages by season and series - BasketNews.com",
      "published": "2026-10-15T04:39:24+00:00",
      "summary": "Deni Avdija playoff stats: averages by season and series BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija vs Houston Rockets: stats, game log - BasketNews.com",
      "published": "2026-10-15T04:19:14+00:00",
      "summary": "Deni Avdija vs Houston Rockets: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Ja Morant gives Blazers the secondary playmaker Deni Avdija never had - Rip City Project",
      "published": "2026-10-14T21:26:25+00:00",
      "summary": "Ja Morant gives Blazers the secondary playmaker Deni Avdija never had Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Ben Saraf vs Dolomiti Energia Trento: stats, game log - BasketNews.com",
      "published": "2026-10-14T20:39:06+00:00",
      "summary": "Ben Saraf vs Dolomiti Energia Trento: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Ben Saraf vs Trefl Sopot: stats, game log - BasketNews.com",
      "published": "2026-10-14T19:49:31+00:00",
      "summary": "Ben Saraf vs Trefl Sopot: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Ben Saraf vs Wolves Twinsbet Vilnius: stats, game log - BasketNews.com",
      "published": "2026-10-14T19:04:59+00:00",
      "summary": "Ben Saraf vs Wolves Twinsbet Vilnius: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 - The Ringer",
      "published": "2026-10-14T17:06:24+00:00",
      "summary": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 The Ringer"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija Continues Efficient Play Against Kings, Ja Morant Snaps Cold Streak - Sports Illustrated",
      "published": "2026-10-14T13:00:02+00:00",
      "summary": "Deni Avdija Continues Efficient Play Against Kings, Ja Morant Snaps Cold Streak Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "'Still Gonna Get You': Draymond Green Has Unfinished Business With Blazers' Deni Avdija - Yahoo Sports",
      "published": "2026-10-14T12:00:05+00:00",
      "summary": "'Still Gonna Get You': Draymond Green Has Unfinished Business With Blazers' Deni Avdija Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija vs Crvena Zvezda Meridianbet Belgrade: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:47:31+00:00",
      "summary": "Deni Avdija vs Crvena Zvezda Meridianbet Belgrade: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija vs Czech Republic: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:37:15+00:00",
      "summary": "Deni Avdija vs Czech Republic: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija vs France: stats, game log - BasketNews.com",
      "published": "2026-10-14T11:05:29+00:00",
      "summary": "Deni Avdija vs France: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija vs Belgium: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:49:51+00:00",
      "summary": "Deni Avdija vs Belgium: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija vs Fenerbahce Beko Istanbul: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:47:55+00:00",
      "summary": "Deni Avdija vs Fenerbahce Beko Istanbul: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija vs Olympiacos Piraeus: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:13:46+00:00",
      "summary": "Deni Avdija vs Olympiacos Piraeus: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija vs Darussafaka Lassa Istanbul: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:05:21+00:00",
      "summary": "Deni Avdija vs Darussafaka Lassa Istanbul: stats, game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#24",
      "title": "Deni Avdija vs Zenit Saint Petersburg: stats, game log - BasketNews.com",
      "published": "2026-10-14T10:02:37+00:00",
      "summary": "Deni Avdija vs Zenit Saint Petersburg: stats, game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija vs Zalgiris Kaunas: stats, game log - BasketNews.com",
-     "published": "2026-10-14T10:02:21+00:00",
-     "summary": "Deni Avdija vs Zalgiris Kaunas: stats, game log BasketNews.com"
     }
    ]
   }

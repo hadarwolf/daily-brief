@@ -212,12 +212,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Wednesday assorted links",
      "published": "2026-10-14T16:07:03+00:00",
      "summary": "1. Planets more habitable than Earth? (NYT) 2. Those new service sector jobs: “Cambiar de vida: cómo irte a contar pingüinos en la Antártida por hasta 2500 euros al mes.” 3. AI song about the China Shock debate. 4. “An amusing result of this new survey is that Democratic-voting workers had a startlingly high net-favorable […] The post Wednesday assorted links appeared first on Marginal REVOLUTION "
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "*Plunder: The Last of the War in Europe, 1945*",
-     "published": "2026-10-14T07:02:57+00:00",
-     "summary": "By Max Hastings, an excellent book, I benefited from every page. One recurring theme is simply how hard the Germans fought on the way down, and how unusual that behavior was. Here is one interesting passage of many: In World War I, 150 German soldiers were sentenced to death for serious crimes, of which a […] The post *Plunder: The Last of the War in Europe, 1945* appeared first on Marginal REVOLU"
     }
    ]
   },
