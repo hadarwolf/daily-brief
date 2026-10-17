@@ -1,6 +1,6 @@
 {
- "date": "2026-10-16",
- "prepared_at": "2026-10-16T08:00:19+00:00",
+ "date": "2026-10-17",
+ "prepared_at": "2026-10-17T03:35:56+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -11,53 +11,61 @@
  ],
  "skipped_sections": [],
  "order": [
+  "sports",
   "geopolitics",
   "israeli_politics",
   "business",
-  "sports",
   "ideas",
   "learn"
  ],
  "match_day": {
-  "is_match_day": false,
-  "events": []
+  "is_match_day": true,
+  "events": [
+   {
+    "sport": "soccer",
+    "competition": "Primera Division",
+    "home": "Real Betis",
+    "away": "Barça",
+    "kickoff_utc": "2026-10-17T16:30:00Z"
+   }
+  ]
  },
  "markets": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4231.3101,
+   "last": 4224.6699,
    "prev_close": 4156.6802,
-   "change_pct": 1.8,
+   "change_pct": 1.64,
    "as_of": "2026-10-16"
   },
   "SP500": {
    "symbol": "^GSPC",
-   "last": 7744.0601,
-   "prev_close": 7718.9399,
-   "change_pct": 0.33,
-   "as_of": "2026-10-15"
+   "last": 7659.4399,
+   "prev_close": 7744.0601,
+   "change_pct": -1.09,
+   "as_of": "2026-10-16"
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0968,
-   "prev_close": 3.0749,
-   "change_pct": 0.72,
-   "as_of": "2026-10-15"
+   "last": 3.1112,
+   "prev_close": 3.1031,
+   "change_pct": 0.26,
+   "as_of": "2026-10-17"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 102.72,
+   "last": 109.69,
    "prev_close": 105.92,
-   "change_pct": -3.02,
+   "change_pct": 3.56,
    "as_of": "2026-10-16"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82186.2031,
+   "last": 81470.8828,
    "prev_close": 82141.4609,
-   "change_pct": 0.05,
-   "as_of": "2026-10-16"
+   "change_pct": -0.82,
+   "as_of": "2026-10-17"
   }
  },
- "essays_fetched": 4
+ "essays_fetched": 5
 }

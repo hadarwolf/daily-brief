@@ -24,150 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2017,
-   "text": "The Maltese journalist and anti-corruption activist Daphne Caruana Galizia was killed in a car bomb attack in Bidnija.",
+   "year": 2001,
+   "text": "Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.",
    "context": [
-    "Daphne Anne Caruana Galizia was a Maltese writer, journalist, blogger and anti-corruption activist who reported on political events in Malta. She was known internationally for her investigation of the Panama Papers and her subsequent assassination by a car bomb."
+    "Rehavam Ze'evi was an Israeli general and politician who founded the far-right nationalist Moledet party. He mainly advocated for the complete ethnic cleansing of the Palestinian population through population transfer."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2013,
-   "text": "In Laos's deadliest air accident, Lao Airlines Flight 301 crashed into the Mekong River, resulting in the deaths of all 49 people aboard.",
+   "year": 2000,
+   "text": "A fatal rail crash at Hatfield, Hertfordshire, led to the introduction of widespread speed limit reductions throughout the British rail network and eventually caused the collapse of the railway management group Railtrack.",
    "context": [
-    "Lao Airlines Flight 301 was a scheduled domestic passenger flight from Vientiane to Pakse, Laos. On 16 October 2013, the ATR 72-600 aircraft operating the flight crashed into the Mekong River near Pakse, killing all 49 people on board. The accident was the first involving an ATR 72-600 and the deadliest ever to occur on Lao soil."
+    "The Hatfield rail crash was a railway accident on 17 October 2000, at Hatfield, Hertfordshire, England. It was caused by a rolling contact fatigue-induced derailment, killing four people and injuring more than 70."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1991,
-   "text": "A man drove his vehicle through the window of a Luby's Cafeteria in Killeen, Texas, and opened fire, killing 23 people before fatally shooting himself.",
+   "year": 1992,
+   "text": "Having gone to the wrong house in Baton Rouge, Louisiana, for a Halloween party, Japanese exchange student Yoshihiro Hattori was shot and killed by the homeowner.",
    "context": [
-    "Luby’s Restaurant Corporation is a chain of cafeteria-style restaurants in Texas. In the past, Luby's Inc. also owned the Fuddruckers, Koo Koo Roo, and Cheeseburger in Paradise restaurant chains."
+    "Baton Rouge is the capital city of the U.S. state of Louisiana. It had a population of 227,470 at the 2020 United States census, making it Louisiana's second-most populous city. It is the seat of Louisiana's most populous parish, East Baton Rouge Parish, and the center of Louisiana's second-largest metropolitan area, Greater Baton Rouge, which had 870,569 residents in 2020."
    ]
   },
   {
    "ref": "wikipedia#3",
    "year": 1973,
-   "text": "The Norwegian Nobel Committee announced that the 1973 Nobel Peace Prize would be jointly awarded to Henry Kissinger and Lê Đức Thọ, sparking international controversy.",
+   "text": "Yom Kippur War: Egyptian forces retreated from the Battle of the Chinese Farm, allowing Israeli forces to build their first bridge across the Suez Canal.",
    "context": [
-    "The Norwegian Nobel Committee selects the recipients of the Nobel Peace Prize each year on behalf of Swedish industrialist Alfred Nobel's estate, based on instructions of Nobel's will."
+    "The Yom Kippur War, also known as the 1973 Arab–Israeli War, the fourth Arab–Israeli War, the October War, or the Ramadan War, was fought between Israel and a coalition of Arab states led by Egypt and Syria. Most of the fighting occurred in the Sinai Peninsula and the Golan Heights, territories occupied by Israel in 1967. Some combat also took place in mainland Egypt and northern Israel."
    ]
   },
   {
    "ref": "wikipedia#4",
    "year": 1964,
-   "text": "With the success of Project 596, China became the world's fifth nuclear power.",
+   "text": "Prime Minister Robert Menzies inaugurated the artificial Lake Burley Griffin (pictured) in the centre of the Australian capital Canberra.",
    "context": [
-    "Project 596 was the first nuclear test of the nuclear weapons program of China, detonated on 16 October 1964, at the Lop Nur test site in Xinjiang. It was an implosion fission device containing about 15 kg weapons-grade uranium (U-235), produced at the Lanzhou enrichment plant."
+    "Sir Robert Gordon Menzies was the 12th prime minister of Australia, serving from 1939 to 1941 and from 1949 to 1966. He held office as the leader of the United Australia Party (UAP) in his first term, and subsequently as the inaugural leader of the Liberal Party of Australia in his second. He was the member of parliament (MP) for the Victorian division of Kooyong from 1934 to 1966. With a combined term length of 18 years, 163 days, he is the longest-serving prime minister in Australian history."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1950,
-   "text": "The first novel of the The Chronicles of Narnia series by C. S. Lewis, The Lion, the Witch and the Wardrobe, was published in the United Kingdom.",
+   "year": 1952,
+   "text": "Indonesian Army elements surrounded the Merdeka Palace in Jakarta, demanding that President Sukarno disband the Provisional People's Representative Council.",
    "context": [
-    "The Chronicles of Narnia is a series of seven portal fantasy novels by British author C. S. Lewis. Illustrated by Pauline Baynes and originally published between 1950 and 1956, the series is set in the fictional realm of Narnia, a fantasy world of magic, mythical beasts, and talking animals. It narrates the adventures of various children who play central roles in the unfolding history of the Narnian world. Except in The Horse and His Boy, the protagonists are all children from the real world who are magically transported to Narnia, where they are sometimes called upon by the lion Aslan to protect Narnia from evil. The books span the entire history of Narnia, from its creation in The Magician's Nephew to its eventual destruction in The Last Battle."
+    "The Indonesian Army is the land branch of the Indonesian National Armed Forces. It has an estimated strength of 1.632.000 active personnel. The history of the Indonesian Army has its roots in 1945 when the Tentara Keamanan Rakyat (TKR) \"People's Security Army\" first emerged as a paramilitary and police corps."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1944,
-   "text": "A  four-day air battle over Taiwan ended with a decisive American victory, destroying hundreds of Japanese aircraft and military facilities.",
+   "year": 1931,
+   "text": "American gangster Al Capone  was convicted on five counts of income-tax evasion.",
    "context": [
-    "The Formosa Air Battle, 12–16 October 1944, was a series of large-scale aerial engagements between carrier air groups of the United States Navy Fast Carrier Task Force and Japanese land-based air forces of the Imperial Japanese Navy (IJN) and Imperial Japanese Army (IJA). The battle consisted of American air raids against Japanese military installations on Taiwan during the day and Japanese air attacks at night against American ships. Japanese losses exceeded 300 planes destroyed in the air, while American losses amounted to fewer than 100 aircraft destroyed and two cruisers damaged. This outcome effectively deprived the Japanese Navy's Combined Fleet of air cover for future operations, which proved decisive during the Battle of Leyte Gulf later in October."
+    "Alphonse Gabriel Capone, sometimes known by the nickname \"Scarface\", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1943,
-   "text": "The Holocaust: The Gestapo conducted a raid on the Roman Ghetto, capturing 1,259 members of the Jewish community, most of whom were sent to Auschwitz.",
+   "year": 1914,
+   "text": "Off the coast of the Dutch island of Texel, a British naval squadron sank the German 7th Half Flotilla of torpedo boats in the Battle off Texel.",
    "context": [
-    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
+    "Texel is a municipality and an island with a population of 13,846 in North Holland, Netherlands. It is the largest and most populated island of the West Frisian Islands in the Wadden Sea. The island is situated north of Den Helder, northeast of Noorderhaaks, and southwest of Vlieland."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1926,
-   "text": "Háry János (poster pictured), a Hungarian folk opera by Zoltán Kodály, was premiered at the Royal Hungarian Opera House in Budapest.",
+   "year": 1860,
+   "text": "The Open Championship, the oldest of the four major championships in men's golf, was first played at Prestwick Golf Club in Scotland.",
    "context": [
-    "Háry János is a Hungarian folk opera in four acts by Zoltán Kodály with a libretto by Béla Paulini and Zsolt Harsányi. The opera is in the Singspiel style. The libretto is based on János Garay's comic poem \"The Veteran\" about a drunkard named Háry János. The subtitle of the piece is Háry János Kalandozásai Nagyabonytul a Burgváráig – Háry János: his Adventures from Nagyabony to the Vienna Burg."
+    "The Open Championship, often referred to as The Open or the British Open outside of the UK, is the oldest golf tournament in the world, and one of the most prestigious. Founded in 1860, it was originally held annually at Prestwick Golf Club in Scotland. Later the venue rotated among a select group of coastal links golf courses in the United Kingdom. It is organised by The R&A."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1923,
-   "text": "Roy and Walt Disney (pictured) founded the Disney Brothers Cartoon Studio in Hollywood, which eventually grew to become one of the largest media and entertainment corporations in the world.",
+   "year": 1814,
+   "text": "A wooden beer-fermenting vat in London burst, destroying a second vat and causing a large flood of at least 128,000 imperial gallons (580,000 l; 154,000 US gal) of porter that killed eight people.",
    "context": [
-    "Roy Oliver Disney was an American entrepreneur. He co-founded with his younger brother Walt what is now the Walt Disney Company in October 1923. Disney also served as the company's first chief executive officer and was the father of Roy E. Disney."
+    "The London Beer Flood was an accident at Meux & Co's Horse Shoe Brewery, London, on 17 October 1814. It took place when one of the 22-foot-tall (6.7 m) wooden vats of fermenting porter burst. The escaping liquid dislodged the valve of another vessel and destroyed several large barrels: between 128,000 and 323,000 imperial gallons of beer were released in total."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1916,
-   "text": "Margaret Sanger (pictured) established the United States' first family planning clinic in Brooklyn, New York.",
+   "year": 1777,
+   "text": "American Revolutionary War: British general John Burgoyne's Saratoga campaign ended with his surrender to the Americans, later convincing France to enter the war in alliance with the United States.",
    "context": [
-    "Margaret Sanger was an American birth control activist, sex educator, writer, and nurse. She opened the first birth control clinic in the United States, founded Planned Parenthood, and was instrumental in the development of the first birth control pill. Sanger is regarded as a founder and leader of the U.S. birth control movement."
+    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 had led King George III and much of the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British monarchy acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1905,
-   "text": "Authorities of the British Raj partitioned the Bengal Presidency, separating the largely Muslim eastern areas from the largely Hindu western areas.",
+   "year": 1771,
+   "text": "Ascanio in Alba, an opera composed by Wolfgang Amadeus Mozart (pictured) at the age of 15, premiered in Milan.",
    "context": [
-    "The British Raj was the period of rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India, or direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially. As India, it was a founding member of the League of Nations and a founding member of the United Nations in San Francisco in 1945. India was a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936."
+    "Ascanio in Alba, K. 111, is an opera in two parts by Wolfgang Amadeus Mozart to an Italian libretto by Giuseppe Parini. The pastoral work was commissioned by the Empress Maria Theresa for the wedding of her son, Archduke Ferdinand Karl, to Maria Beatrice d'Este on 15 October 1771."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1875,
-   "text": "Brigham Young University was founded in Provo, Utah, United States.",
+   "year": 1660,
+   "text": "A series of executions of the commissioners who signed the death warrant of King Charles I of England concluded; six were hanged, drawn and quartered for treason.",
    "context": [
-    "Brigham Young University (BYU) is a private research university in Provo, Utah, United States. It was founded in 1875 by religious leader Brigham Young and is the flagship university of the Church Educational System (CES) of the Church of Jesus Christ of Latter-day Saints."
+    "The Regicides of Charles I were the men responsible for the execution of Charles I on 30 January 1649. The term generally refers to the fifty-nine commissioners who signed the execution warrant. This followed his conviction for treason by the High Court of Justice."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1841,
-   "text": "The Church of Scotland established Queen's College in Kingston, Ontario, in Canada.",
+   "year": 1604,
+   "text": "German astronomer Johannes Kepler began observations of an exceptionally bright object, now known as Kepler's Supernova, that had appeared in the constellation Ophiuchus.",
    "context": [
-    "The Church of Scotland is a Reformed denomination of Christianity that holds the status of the national and established church of Scotland. It is one of the country's larger denominations, having 229,000 members in 2025, or 4% of the Scottish population. In the 2022 census, 1,108,796 people, or 20% of the Scottish population, claimed affiliation with the church."
+    "Johannes Kepler was a German polymath who was an astronomer, mathematician, astrologer, natural philosopher and music theorist. He is a key figure in the 17th-century Scientific Revolution, best known for his laws of planetary motion, and his books Astronomia nova, Harmonice Mundi, and Epitome Astronomiae Copernicanae. The variety and impact of his work made Kepler one of the founders and fathers of modern astronomy, the scientific method, natural science, and modern science. He has been described as the \"father of science fiction\" for his novel Somnium."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1834,
-   "text": "Most of the Palace of Westminster in London was destroyed in a fire caused by the burning of wooden tally sticks.",
+   "year": 1346,
+   "text": "Hundred Years' War: Under the terms of Scotland's Auld Alliance with France, King David II of Scotland (pictured) was captured at the Battle of Neville's Cross following his invasion of England.",
    "context": [
-    "The Palace of Westminster is the meeting place of the Parliament of the United Kingdom and is located in London, England. It is colloquially known as the Houses of Parliament after the House of Commons and the House of Lords, the two legislative chambers which occupy the building. The palace is one of the centres of political life in the United Kingdom; \"Westminster\" has become a metonym for the UK Parliament and government, and the Westminster system of government commemorates the name of the palace. The Elizabeth Tower of the palace houses the bell nicknamed Big Ben and is a landmark of London and the United Kingdom in general. The palace has been a Grade I listed building since 1970 and part of a UNESCO World Heritage Site since 1987."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
-   "year": 1813,
-   "text": "The Sixth Coalition attacked French forces led by Napoleon in the Battle of Leipzig, the largest conflict in the Napoleonic Wars, with over 500,000 troops involved.",
-   "context": [
-    "The War of the Sixth Coalition, sometimes known in Germany as the Wars of Liberation saw a coalition of Austria, Prussia, Russia, Spain, the United Kingdom, Portugal, Sweden, Sardinia, and a number of German states defeat the First French Empire and force Napoleon into exile on Elba. Following the disastrous French invasion of Russia in 1812 in which they had been forced to support France, Prussia and Austria joined Russia, Britain, Sweden, Portugal and Spain against France."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 1793,
-   "text": "War of the First Coalition: The two-day Battle of Wattignies concluded with Jean-Baptiste Jourdan leading French forces to victory over Prince Josias of Saxe-Coburg-Saalfeld.",
-   "context": [
-    "The War of the First Coalition was a set of wars between a coalition of several European powers and France fought from 1792 to 1797. The coalition was only loosely allied and fought without much coordination; each power wanted to annex a different part of France should they defeat the French, something that never occurred."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1384,
-   "text": "Jadwiga was officially crowned as \"King of Poland\" instead of \"Queen\" to reflect the fact that she was a sovereign in her own right.",
-   "context": [
-    "Jadwiga, also known as Hedwig, was Queen of the Kingdom of Poland, as well as its last hereditary ruler. Crowned \"King\" to highlight her sovereign status, she reigned from 16 October 1384 until her death. Born in Buda, she was the youngest daughter of Louis I of Hungary and Elizabeth of Bosnia. Jadwiga was a member of the Capetian House of Anjou and had forebears among the Polish Piasts."
+    "The Hundred Years' War was a series of conflicts between the kingdoms of England and France and a civil war in France during the late Middle Ages. It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving different factions from across Western Europe, fueled by emerging nationalism on both sides. The periodization of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Junk bond (אג\"ח זבל)",
+  "Debt maturity wall (קיר פירעונות)",
+  "Rob Peter to pay Paul (לקחת מפיטר כדי לשלם לפול)",
   "Moral hazard (סיכון מוסרי)",
   "Winner-take-all market (שוק שבו המנצח לוקח הכל)",
   "Poison pill (גלולת רעל)",

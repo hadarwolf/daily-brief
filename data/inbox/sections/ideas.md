@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -28,88 +28,88 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
+     "title": "How to be a (Roman) man",
+     "published": "2026-10-16T10:00:00+00:00",
+     "summary": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on Aeon",
+     "full_text_file": "essays/aeon_0.txt"
+    },
+    {
+     "ref": "aeon#1",
      "title": "The secrets of Hohle Fels cave",
      "published": "2026-10-15T10:01:00+00:00",
      "summary": "Why aren’t we all Neanderthals? These ancient bird figurines suggest that art was essential to our evolutionary success - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#1",
+     "ref": "aeon#2",
      "title": "The ladder of knowledge",
      "published": "2026-10-15T10:00:00+00:00",
-     "summary": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#3",
      "title": "Into the fire",
      "published": "2026-10-14T10:01:00+00:00",
      "summary": "These women once fled ISIS. Now they defuse the landmines the militants left behind in their Yazidi homeland in northern Iraq - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#4",
      "title": "Deskilling the body",
      "published": "2026-10-13T10:00:00+00:00",
      "summary": "We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending - by Melanie Challenger Read on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#5",
      "title": "Africa’s cultural landmarks: tombs of Buganda kings",
      "published": "2026-10-12T10:01:00+00:00",
      "summary": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#6",
      "title": "Is everything conscious?",
      "published": "2026-10-12T10:00:00+00:00",
      "summary": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#7",
      "title": "Barbara Ward’s vision",
      "published": "2026-10-09T10:00:00+00:00",
      "summary": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals - by Or Rosenboim Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#8",
      "title": "Evolution of Manhattan",
      "published": "2026-10-08T10:01:00+00:00",
      "summary": "From Lenape land to sprawling metropolis, this detailed timelapse animation captures the making of Manhattan - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#9",
      "title": "The ghetto on the lagoon",
      "published": "2026-10-08T10:00:00+00:00",
      "summary": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them. Its compromise was the world’s first ghetto - by Alexander Lee Read on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#10",
      "title": "I won’t remain alone",
      "published": "2026-10-07T10:01:00+00:00",
      "summary": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others? - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#11",
      "title": "How to assemble science",
      "published": "2026-10-06T10:00:00+00:00",
      "summary": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all - by Helen Pearson Read on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#12",
      "title": "All-around junior male",
      "published": "2026-10-05T10:01:00+00:00",
      "summary": "A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#12",
+     "ref": "aeon#13",
      "title": "A life in episodes",
      "published": "2026-10-05T10:00:00+00:00",
      "summary": "For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past - by Thomas Söderqvist Read on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "Life on a hair trigger",
-     "published": "2026-10-02T10:00:00+00:00",
-     "summary": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon"
     }
    ]
   },
@@ -121,8 +121,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "lesswrong_curated#0",
      "title": "Cat-Belling Problems",
      "published": "2026-10-15T02:32:11+00:00",
-     "summary": "(Originally mainly drafted in 2021, just now completed and published. Today the discussion around AI may now seem odd; it is written for a time when people were still trying to solve what would now be called \"superalignment\" with clever plans they'd invented themselves, rather than saying, \"Oh, we will ask Fable to solve it.\") === This is an essay about a children's fable I read a long time ago, a",
-     "full_text_file": "essays/lesswrong_curated_0.txt"
+     "summary": "(Originally mainly drafted in 2021, just now completed and published. Today the discussion around AI may now seem odd; it is written for a time when people were still trying to solve what would now be called \"superalignment\" with clever plans they'd invented themselves, rather than saying, \"Oh, we will ask Fable to solve it.\") === This is an essay about a children's fable I read a long time ago, a"
     },
     {
      "ref": "lesswrong_curated#1",
@@ -150,81 +149,75 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Friday assorted links",
+     "published": "2026-10-16T16:42:18+00:00",
+     "summary": "1. Can Dybantsa (and others) turn around the Wizards? (NYT) 2. Claims about interpretability. I have to say I do not quite “get it”…? Here is some exposition. 3. “90% of Americans’ working hours are spent on tasks not covered well by AI benchmarks. That’s our best guess from a new project mapping frontier benchmarks […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "India has more Restrictive Labor Law than Germany",
+     "published": "2026-10-16T11:20:31+00:00",
+     "summary": "In Premature Imitation and India’s Flailing State, Shruti Rajagopalan and I discuss how India has essentially all of the laws of a developed country but at much lower state capacity–this mismatch creates what we call premature imitation, with a host of negative consequences. What is even more amazing, however, is when a country like India […] The post India has more Restrictive Labor Law than Germ"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "On Bergman’s *Persona*",
      "published": "2026-10-16T06:53:12+00:00",
      "summary": "I first saw Ingmar Bergman’s Persona, his stone-cold classic of 1965, as a teenager, and God knows how many times I have seen it since. It has the greatest opening sequence in cinema: a percussive, rapid-fire montage that can never be wholly accommodated or understood. The film’s story is, however, a simple one (even if […] The post On Bergman’s *Persona* appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "I guest host the NYT podcast and interview Dwarkesh",
      "published": "2026-10-16T04:44:22+00:00",
      "summary": "Here is the audio, video, and transcript. Excerpt: Cowen: Unreleased models — why are they important? Patel: As in the ones that are internal to the companies? Cowen: Well, many companies have unreleased models. Maybe it would cost too much to release them or they’re not safe yet, but the public doesn’t see them. Patel: […] The post I guest host the NYT podcast and interview Dwarkesh appeared firs"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Thursday assorted links",
      "published": "2026-10-15T16:43:28+00:00",
      "summary": "1. Claims about military satellites. 2. book talk. 3. AI misalignment in Sweden? 4. Will El Salvador grow? 5. AI, automation, and the Indian workforce. 6. How language models revise the documents that govern them. 7. Arpit Gupta, economist, visits Anthropic. 8. Ten-year yield is down, even though inflation came in higher than expected. The post Thursday assorted links appeared first on Marginal RE"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Astra Held Its Ground (Truth)",
      "published": "2026-10-15T11:18:46+00:00",
      "summary": "TheoPhysEval: We present a suite of 50 unpublished research-level theoretical physics problems with verifiable answers. Without AI assistance, a typical problem in our collection could be solved by a world expert in about a day or less but would take considerably longer for experts in adjacent specialties. We test the ability of off-the-shelf AI agents […] The post Astra Held Its Ground (Truth) ap"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Why I do not use LLMs more",
      "published": "2026-10-15T08:20:41+00:00",
      "summary": "They are so very, very good at matching me to the books I wish to read and the music I wish to listen to. In this odd sense they are not very sticky. The LLMs are amazing, but the world is awesome too! Thus the LLMs keep on sending me away. There is quality travel […] The post Why I do not use LLMs more appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "My excellent Conversation with Liaquat Ahamed",
      "published": "2026-10-15T04:37:06+00:00",
      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: They start with that puzzle before moving through Gladstone’s startlingly self-interested bet on Egyptian bonds, Bismarck’s role in destroying bimetallism and deflating the world economy for two decades, whether a global silver or symmetallic standard could have worked, Britain’s fateful decision […] The post My excelle"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "China fact (?) of the day",
      "published": "2026-10-14T18:56:23+00:00",
      "summary": "A monograph by Yi Fuxian, a University of Wisconsin-Madison demographer and longtime critic of China’s population policies, argues that China’s actual population may be closer to 1.27 billion—not the 1.4 billion officially reported. The gap would be as much as 130 million people, roughly the population of Mexico. And Yi argues the distortion has warped […] The post China fact (?) of the day appear"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Wednesday assorted links",
      "published": "2026-10-14T16:07:03+00:00",
      "summary": "1. Planets more habitable than Earth? (NYT) 2. Those new service sector jobs: “Cambiar de vida: cómo irte a contar pingüinos en la Antártida por hasta 2500 euros al mes.” 3. AI song about the China Shock debate. 4. “An amusing result of this new survey is that Democratic-voting workers had a startlingly high net-favorable […] The post Wednesday assorted links appeared first on Marginal REVOLUTION "
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "*Plunder: The Last of the War in Europe, 1945*",
      "published": "2026-10-14T07:02:57+00:00",
      "summary": "By Max Hastings, an excellent book, I benefited from every page. One recurring theme is simply how hard the Germans fought on the way down, and how unusual that behavior was. Here is one interesting passage of many: In World War I, 150 German soldiers were sentenced to death for serious crimes, of which a […] The post *Plunder: The Last of the War in Europe, 1945* appeared first on Marginal REVOLU"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Well-planned African immigration to America will go fine",
      "published": "2026-10-14T04:19:22+00:00",
      "summary": "That is the topic of my latest Free Press column, here is one excerpt: The good news is that African immigrants already have done well in the United States. For instance, 46 percent of African immigrants complete a college education, well above the immigrant average of 36 percent and the native-born American rate of 37 […] The post Well-planned African immigration to America will go fine appeared "
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "Perry Mehrling, RIP",
-     "published": "2026-10-13T20:51:16+00:00",
-     "summary": "He and I were in the same Harvard class together, and spent a good deal of time talking economics together. We also were (briefly) bridge partners in a few games. I was a big fan of his book on Fischer Black. I am very sorry to see him gone. The post Perry Mehrling, RIP appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Tuesday assorted links",
-     "published": "2026-10-13T16:22:29+00:00",
-     "summary": "1. Jon Hartley on Bob Hall. And Chad Jones on Bob Hall. 2. Nicholas Decker on who might have won the prize. 3. Koyama tribute to Wickam. 4. A parallel AI adjudication track? 5. Kevin Kelly on swarm intelligence. 6. What each country read on Wikipedia yesterday. 7. Is MIT economics good at talent evaluation? […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Is Your Agent a Double Agent?",
-     "published": "2026-10-13T11:18:29+00:00",
-     "summary": "In the Manchurian Candidate a sleeper agent who has been brain-trained appears normal until a secret phrase–“Why don’t you pass the time by playing a little solitaire?”–triggers a state of hypnosis and control by the attackers. Connor Tabarrok, now with the AI safety firm Equistamp, has an excellent post on how this same technique can […] The post Is Your Agent a Double Agent? appeared first on Ma"
     }
    ]
   },
@@ -234,88 +227,89 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "How mental disorders play havoc with our motivation",
-     "published": "2026-10-15T10:00:00+00:00",
-     "summary": "Feeling energised to do something depends on a cost-benefit analysis that psychiatric conditions scramble in different ways - by Matthias Pillny Read on Psyche",
+     "title": "The social construction of emotions",
+     "published": "2026-10-16T10:01:00+00:00",
+     "summary": "Are our emotions universal? How two landmark studies upended our view of emotions – and challenged colonial stereotypes - Video by Then & Now Watch on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
+     "title": "Deciding to detransition",
+     "published": "2026-10-16T10:00:00+00:00",
+     "summary": "For two years, I lived as a trans woman – happy with my body, but fearful of the world it moved in - by André Aram Read on Psyche",
+     "full_text_file": "essays/psyche_1.txt"
+    },
+    {
+     "ref": "psyche#2",
+     "title": "How mental disorders play havoc with our motivation",
+     "published": "2026-10-15T10:00:00+00:00",
+     "summary": "Feeling energised to do something depends on a cost-benefit analysis that psychiatric conditions scramble in different ways - by Matthias Pillny Read on Psyche"
+    },
+    {
+     "ref": "psyche#3",
      "title": "Chu Prayad",
      "published": "2026-10-14T10:01:00+00:00",
      "summary": "Power, precision and acrobatic high kicks – the Southeast Asian sport of sepak takraw offers Prayad relief from the road - Directed by Habib Yazdi and Joseph Marra Watch on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#4",
      "title": "How to handle jealous feelings",
      "published": "2026-10-14T10:00:00+00:00",
      "summary": "Jealousy can be a useful, insightful emotion – if you manage it well. Get curious about your jealousy to get a grip on it - by Carla Marie Manly Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#5",
      "title": "What is hidden in the photographs we keep of each other?",
      "published": "2026-10-13T10:00:00+00:00",
      "summary": "Returning to family photo albums in my mother’s apartment in Japan, I was struck by the stories the images didn’t tell - by Sawa Kurotani Read on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#6",
      "title": "Black men suffer racial trauma yet are seen as the threat",
      "published": "2026-10-11T22:00:00+00:00",
      "summary": "The very conditions that subject Black men to chronic strain make it hard for them to receive the help they need and deserve - by Yamonte Cooper Read on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#7",
      "title": "How to ignite your creativity",
      "published": "2026-10-09T10:01:00+00:00",
      "summary": "Turn a mistake into art, write your own postcard: crafty ideas to escape the doom-scroll and jumpstart your creative practice - Video by Struthless Watch on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#8",
      "title": "Why moving on after a breakup makes you a better person",
      "published": "2026-10-09T10:00:00+00:00",
      "summary": "They say time heals a broken heart. But do the hard work of moving on, and you do more than heal – you improve yourself - by Matthew Barnfield Read on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#9",
      "title": "Tuesdays with the guys",
      "published": "2026-10-08T10:00:00+00:00",
      "summary": "In the wake of an unexpected tragedy, I decided to rethink my male friendships - by Rajeev Balasubramanyam Read on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#10",
      "title": "Want to be a lifelong learner? Don’t go it alone",
      "published": "2026-10-07T10:00:00+00:00",
      "summary": "The history of autodidacticism shows that learning has always been social. The right relationships open intellectual horizons - by Celine Nguyen Read on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#11",
      "title": "A psychological guide to climbing out of debt",
      "published": "2026-10-06T10:00:00+00:00",
      "summary": "Debt is as much an emotional challenge as a financial one. Follow this therapist’s advice to create a plan that works - by Vicky Reynal Read on Psyche"
     },
     {
-     "ref": "psyche#10",
+     "ref": "psyche#12",
      "title": "S P A C E S",
      "published": "2026-10-05T10:01:00+00:00",
      "summary": "A filmmaker tries to reconstruct her brother’s faltering experience of time: adrift and without continuity - Directed by Nora Štrbová Watch on Psyche"
     },
     {
-     "ref": "psyche#11",
+     "ref": "psyche#13",
      "title": "What does it really take to be a resilient mother?",
      "published": "2026-10-05T10:00:00+00:00",
      "summary": "New motherhood is hard – and a mother’s ability to cope depends on multiple kinds of strength, both internal and external - by Sarah Emmerson Read on Psyche"
-    },
-    {
-     "ref": "psyche#12",
-     "title": "Ask me anything",
-     "published": "2026-10-02T10:01:00+00:00",
-     "summary": "As the Netherlands adopts its strictest-ever asylum policy, Abdulaal Hussein creates space for candid conversation - Directed by Wyneke van Nieuwenhuyzen Watch on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "Journaling to remember",
-     "published": "2026-10-02T10:00:00+00:00",
-     "summary": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche"
     }
    ]
   },
@@ -325,39 +319,41 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
-     "title": "How Do Fungi Keep the Planet Healthy?",
-     "published": "2026-10-15T13:40:13+00:00",
-     "summary": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
+     "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+     "published": "2026-10-16T13:25:08+00:00",
+     "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
      "full_text_file": "essays/quanta_0.txt"
     },
     {
      "ref": "quanta#1",
+     "title": "How Do Fungi Keep the Planet Healthy?",
+     "published": "2026-10-15T13:40:13+00:00",
+     "summary": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_1.txt"
+    },
+    {
+     "ref": "quanta#2",
      "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
      "published": "2026-10-14T14:04:05+00:00",
      "summary": "A collision may have left these galaxies without dark matter. That spells trouble for alternative gravity theories. The post Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#2",
+     "ref": "quanta#3",
      "title": "Is ‘Attention’ the Essence of Intelligence?",
      "published": "2026-10-12T14:20:30+00:00",
      "summary": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#3",
+     "ref": "quanta#4",
      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
      "published": "2026-10-09T14:03:07+00:00",
      "summary": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas. The post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first appeared on Quanta Magazine"
-    },
-    {
-     "ref": "quanta#4",
-     "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
-     "published": "2026-10-07T15:08:46+00:00",
-     "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "Why 'Just Try Harder' Misunderstands Motivation — It's a Hidden Cost-Benefit Calculation, Not a Fuel Tank",
   "The Cat-Belling Problem: Why Ambitious Plans Fail at the One Step Nobody Can Do",
   "We Were Never Machines: Why Offloading Navigation, Writing and Attention to Technology Is Eroding the Body's Own Intelligence",
   "Is 'Attention' the Essence of Intelligence?",
