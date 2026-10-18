@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "France - AP News",
-     "published": "2026-10-18T07:23:29+00:00",
-     "summary": "France AP News"
+     "title": "Latest news - AP News",
+     "published": "2026-10-18T07:51:42+00:00",
+     "summary": "Latest news AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "Vladimir Putin - AP News",
+     "published": "2026-10-18T07:51:39+00:00",
+     "summary": "Vladimir Putin AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base - AP News",
+     "published": "2026-10-18T07:51:00+00:00",
+     "summary": "Major fire breaks out in Alberta after deadly incident at Canadian military base AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "New York City - AP News",
+     "published": "2026-10-18T07:49:27+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Soccer - AP News",
+     "published": "2026-10-18T07:49:27+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Texas - AP News",
+     "published": "2026-10-18T07:49:25+00:00",
+     "summary": "Texas AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+     "published": "2026-10-18T07:47:14+00:00",
+     "summary": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "South Asia - AP News",
+     "published": "2026-10-18T07:45:14+00:00",
+     "summary": "South Asia AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Russia - AP News",
+     "published": "2026-10-18T07:41:02+00:00",
+     "summary": "Russia AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-18T07:37:02+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "College sports - AP News",
+     "published": "2026-10-18T07:34:59+00:00",
+     "summary": "College sports AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Rugby - AP News",
+     "published": "2026-10-18T07:34:57+00:00",
+     "summary": "Rugby AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "AP News Search - AP News",
+     "published": "2026-10-18T07:33:58+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-10-18T07:30:58+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#14",
      "title": "Poker - AP News",
      "published": "2026-10-18T07:03:07+00:00",
      "summary": "Poker AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#15",
      "title": "Sports - Europe - AP News",
      "published": "2026-10-18T07:01:03+00:00",
      "summary": "Sports - Europe AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#16",
      "title": "Japan to launch spacecraft on a mission to get samples from a Martian moon - AP News",
      "published": "2026-10-18T06:44:00+00:00",
      "summary": "Japan to launch spacecraft on a mission to get samples from a Martian moon AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#17",
      "title": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - AP News",
      "published": "2026-10-18T05:43:00+00:00",
      "summary": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#18",
      "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
      "published": "2026-10-18T05:16:49+00:00",
      "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "ANNE M. PETERSON - AP News",
-     "published": "2026-10-18T04:41:22+00:00",
-     "summary": "ANNE M. PETERSON AP News"
+     "ref": "ap_world#19",
+     "title": "Trump’s new pitch for Republican candidates — they’re really good looking - AP News",
+     "published": "2026-10-18T04:18:29+00:00",
+     "summary": "Trump’s new pitch for Republican candidates — they’re really good looking AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#20",
      "title": "Photos show No Kings rallies across America - AP News",
      "published": "2026-10-18T04:17:50+00:00",
      "summary": "Photos show No Kings rallies across America AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#21",
      "title": "Immigration - AP News",
      "published": "2026-10-18T04:16:48+00:00",
      "summary": "Immigration AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#22",
      "title": "Diplomats attacked in the occupied West Bank, and other Middle East developments - AP News",
      "published": "2026-10-18T04:08:00+00:00",
      "summary": "Diplomats attacked in the occupied West Bank, and other Middle East developments AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#23",
      "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance - AP News",
      "published": "2026-10-18T04:05:00+00:00",
      "summary": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance AP News"
     },
     {
-     "ref": "ap_world#11",
-     "title": "Trump’s new pitch for Republican candidates — they’re really good looking - AP News",
-     "published": "2026-10-18T04:03:00+00:00",
-     "summary": "Trump’s new pitch for Republican candidates — they’re really good looking AP News"
-    },
-    {
-     "ref": "ap_world#12",
+     "ref": "ap_world#24",
      "title": "No. 3 Miami hangs on to beat Florida State, 43-35 in a double-overtime thriller - AP News",
      "published": "2026-10-18T04:01:00+00:00",
      "summary": "No. 3 Miami hangs on to beat Florida State, 43-35 in a double-overtime thriller AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Major fire breaks out in Alberta after deadly incident at military base - AP News",
-     "published": "2026-10-18T03:57:00+00:00",
-     "summary": "Major fire breaks out in Alberta after deadly incident at military base AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Bachmeier leads winning drive, No. 8 BYU outlasts No. 2 Notre Dame 28-24 - AP News",
-     "published": "2026-10-18T03:55:02+00:00",
-     "summary": "Bachmeier leads winning drive, No. 8 BYU outlasts No. 2 Notre Dame 28-24 AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News",
-     "published": "2026-10-18T03:38:00+00:00",
-     "summary": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall - AP News",
-     "published": "2026-10-18T03:31:00+00:00",
-     "summary": "Vance faces tough questions on Iran war, immigration and more in CBS town hall AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Stampede at a popular Hindu festival in eastern India kills 19 - AP News",
-     "published": "2026-10-18T03:09:00+00:00",
-     "summary": "Stampede at a popular Hindu festival in eastern India kills 19 AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-18T02:20:50+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Firefighters gain ground on Southern California blaze, allowing thousands to return home - AP News",
-     "published": "2026-10-18T02:13:00+00:00",
-     "summary": "Firefighters gain ground on Southern California blaze, allowing thousands to return home AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Truck drives through soccer field during game in Kansas, killing 2 and hospitalizing 11 - AP News",
-     "published": "2026-10-18T01:45:00+00:00",
-     "summary": "Truck drives through soccer field during game in Kansas, killing 2 and hospitalizing 11 AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Alberta separatists say they’ll keep fighting after independence vote - AP News",
-     "published": "2026-10-18T01:40:00+00:00",
-     "summary": "Alberta separatists say they’ll keep fighting after independence vote AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "As an Oregon community mourns 4 killed in school shooting, 2 wounded survivors remain hospitalized - AP News",
-     "published": "2026-10-18T01:35:00+00:00",
-     "summary": "As an Oregon community mourns 4 killed in school shooting, 2 wounded survivors remain hospitalized AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "‘20 Days in Mariupol’ - AP News",
-     "published": "2026-10-18T01:30:04+00:00",
-     "summary": "‘20 Days in Mariupol’ AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "West Bank - AP News",
-     "published": "2026-10-18T01:15:06+00:00",
-     "summary": "West Bank AP News"
     }
    ]
   },
@@ -180,147 +180,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#1",
-     "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+     "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
      "published": "2026-10-18T05:56:20+00:00",
      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
     },
     {
      "ref": "bbc_world#2",
+     "title": "Church makes sainthood case for 'WW1 hero' priest",
+     "published": "2026-10-18T05:15:53+00:00",
+     "summary": "Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers."
+    },
+    {
+     "ref": "bbc_world#3",
      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
      "published": "2026-10-18T05:04:31+00:00",
      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
      "published": "2026-10-18T01:10:25+00:00",
      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "European diplomats attacked by Israeli settlers in West Bank",
      "published": "2026-10-17T23:52:38+00:00",
      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
      "published": "2026-10-17T22:09:50+00:00",
      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "How day of protests unfolded as disorder breaks out across France",
      "published": "2026-10-17T21:33:17+00:00",
      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "Anti-government protesters battle with police in Albania",
      "published": "2026-10-17T20:53:00+00:00",
      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#9",
      "title": "At least 17 dead in crush at Hindu festival event in India",
      "published": "2026-10-17T19:19:16+00:00",
      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#10",
      "title": "Pope discharged from hospital days after lung cancer surgery",
      "published": "2026-10-17T13:51:36+00:00",
      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
      "published": "2026-10-17T12:11:58+00:00",
      "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
      "published": "2026-10-17T10:46:41+00:00",
      "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
      "published": "2026-10-17T09:58:17+00:00",
      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "Katie Zacharia leaving White House role less than five days into job",
      "published": "2026-10-17T09:14:10+00:00",
      "summary": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
      "published": "2026-10-17T03:11:10+00:00",
      "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
      "published": "2026-10-17T02:33:09+00:00",
      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "The uncertain future of Canada's 30 rescued belugas",
      "published": "2026-10-17T01:18:08+00:00",
      "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
      "published": "2026-10-17T00:41:58+00:00",
      "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
      "published": "2026-10-16T23:07:18+00:00",
      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "What we learned from heated US midterm Senate debates",
      "published": "2026-10-16T19:09:37+00:00",
      "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#21",
      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
      "published": "2026-10-16T18:11:29+00:00",
      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#22",
      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
      "published": "2026-10-16T16:00:30+00:00",
      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#23",
      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
      "published": "2026-10-16T15:45:10+00:00",
      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels."
     },
     {
-     "ref": "bbc_world#23",
+     "ref": "bbc_world#24",
      "title": "Watch: Did Tesla really just unveil a flying car?",
      "published": "2026-10-16T12:32:31+00:00",
      "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model."
-    },
-    {
-     "ref": "bbc_world#24",
-     "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-     "published": "2026-10-16T11:40:41+00:00",
-     "summary": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank."
     }
    ]
   },
