@@ -395,129 +395,129 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "wsj_markets#4",
+     "title": "It’s Too Late for Small Fixes at Pepsi",
+     "published": "2026-10-17T09:30:00+00:00",
+     "summary": "The problem may be bigger than a few weak brands. Pepsi needs to stop tinkering and consider more fundamental changes."
+    },
+    {
+     "ref": "wsj_markets#5",
      "title": "A Popular Tax-Saving Trade is Juicing Wall Street’s Borrowing Binge",
      "published": "2026-10-17T02:06:00+00:00",
      "summary": "Margin loan balances at Charles Schwab swelled to nearly $190 billion in the third quarter, fueled by the growth of one tax-loss harvesting strategy."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "Who Gets the Bulk of Grandma’s Estate? Here’s How to Solve the ‘Cousin Problem’",
      "published": "2026-10-17T01:00:00+00:00",
      "summary": "Passing assets to later generations often triggers conflict, but proactive bonding, fair ownership structures and open communication can safeguard your legacy."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
      "title": "Blue Owl Founders Promised a Comeback. The Company’s Share Price Hasn’t Budged.",
      "published": "2026-10-17T00:00:00+00:00",
      "summary": "Executives at the private-credit giant have been trying to reassure employees, yet Blue Owl stock is down about 67% from its record high in January 2025."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#8",
      "title": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
      "published": "2026-10-16T22:43:00+00:00",
      "summary": "A stock rout swept up companies from CoreWeave to Alphabet while Treasury yields tumbled."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "U.S. Stocks Fall as Credit Fears Haunt Tech Sector",
      "published": "2026-10-16T21:39:00+00:00",
      "summary": "U.S. stocks fell as fears mounted that artificial-intelligence profits would not come soon enough to meet increasingly expensive credit obligations for CoreWeave and other aspiring hyperscalers."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "Auto & Transport Roundup: Market Talk",
      "published": "2026-10-16T21:13:00+00:00",
      "summary": "Find insight on AirCanada, BYD and more in the latest Market Talks covering Auto and Transport."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-10-16T21:08:00+00:00",
      "summary": "Find insight on gold futures, Press Metal Aluminium and more in the latest Market Talks covering Basic Materials."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "Energy & Utilities Roundup: Market Talk",
      "published": "2026-10-16T21:05:00+00:00",
      "summary": "Find insight on oil prices and more in the latest Market Talks covering Energy and Utilities."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "Financial Services Roundup: Market Talk",
      "published": "2026-10-16T21:02:00+00:00",
      "summary": "Find insight on Wise Group, Ethereum, banking stocks and more in the latest Market Talks covering Financial Services."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "Tech, Media & Telecom Roundup: Market Talk",
      "published": "2026-10-16T20:59:00+00:00",
      "summary": "Find insight on Apple’s iPhone Duo, Proofpoint, Shopify and more in the latest Market Talks covering Technology, Media and Telecom."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#15",
      "title": "A Volatile Week Ends with Tech Stocks Down, Oil Up",
      "published": "2026-10-16T20:35:00+00:00",
      "summary": "Plus, Tesla’s Roadster launch gets a cool reception, and companies don’t like stock tokenization."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#16",
      "title": "Crude Futures Rise on Persistent Supply Jitters",
      "published": "2026-10-16T20:08:00+00:00",
      "summary": "The oil market shook off early lethargy and pushed prices higher as conflict in the Middle East and Ukraine’s renewed targeting of Russian refineries fueled supply concerns."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#17",
      "title": "U.S. Natural Gas Futures Settle Lower",
      "published": "2026-10-16T19:47:00+00:00",
      "summary": "U.S. natural gas futures fell as the market looked beyond this weekend’s cold spell in the Northeast that is expected to drive up residential and commercial heating demand."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#18",
      "title": "Cyber Incident Halts Bankruptcy Notices Nationwide",
      "published": "2026-10-16T18:56:00+00:00",
      "summary": "A disruption at BAE Systems has halted the federal bankruptcy-noticing system since Oct. 9, forcing courts nationwide to adopt emergency measures."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "Major Cryptocurrencies Mostly Higher as Dollar Eases",
      "published": "2026-10-16T18:32:00+00:00",
      "summary": "The dollar weakened as odds increased that the Federal Reserve will hold interest rates steady this month. Major cryptocurrencies got a boost as the dollar eased.."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "Tech Stocks Slump as Nasdaq Faces Weekly Loss",
      "published": "2026-10-16T18:18:00+00:00",
      "summary": "U.S. stocks fell, led by the Nasdaq composite, as chip and AI-related shares came under new pressure."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#21",
      "title": "From Verizon to UnitedHealth, Corporate America Is Balking at ‘Tokenized’ Stocks",
      "published": "2026-10-16T18:18:00+00:00",
      "summary": "Broadcom and other companies have objected to tokenizing their shares under a new regulatory framework."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#22",
      "title": "Gold Futures Edge Up As U.S. Dollar Slips",
      "published": "2026-10-16T18:09:00+00:00",
      "summary": "Gold futures settled modestly higher as the U.S. dollar weakened for a second session, with gains limited by a slight uptick in U.S. yields."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-10-16T13:10:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "Your ‘Cheap’ ETF Costs More Than You Think",
      "published": "2026-10-16T13:00:00+00:00",
      "summary": "The costs of many popular funds have barely budged even though assets have soared."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "The Radical Plan That Could Torch Your Portfolio",
-     "published": "2026-10-16T10:39:00+00:00",
-     "summary": "Plus, rate bets ease."
     }
    ]
   }
@@ -553,9 +553,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81657.4688,
+   "last": 81596.1328,
    "prev_close": 81382.1484,
-   "change_pct": 0.34,
+   "change_pct": 0.26,
    "as_of": "2026-10-18"
   }
  },

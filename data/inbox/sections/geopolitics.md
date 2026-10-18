@@ -42,69 +42,69 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#4",
+     "title": "ANNE M. PETERSON - AP News",
+     "published": "2026-10-18T04:41:22+00:00",
+     "summary": "ANNE M. PETERSON AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "Photos show No Kings rallies across America - AP News",
      "published": "2026-10-18T04:17:50+00:00",
      "summary": "Photos show No Kings rallies across America AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "Immigration - AP News",
      "published": "2026-10-18T04:16:48+00:00",
      "summary": "Immigration AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#7",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-10-18T04:11:43+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
      "published": "2026-10-18T04:10:31+00:00",
      "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "Diplomats attacked in the occupied West Bank, and other Middle East developments - AP News",
      "published": "2026-10-18T04:08:00+00:00",
      "summary": "Diplomats attacked in the occupied West Bank, and other Middle East developments AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance - AP News",
      "published": "2026-10-18T04:05:00+00:00",
      "summary": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Trump’s new pitch for Republican candidates — they’re really good looking - AP News",
      "published": "2026-10-18T04:03:00+00:00",
      "summary": "Trump’s new pitch for Republican candidates — they’re really good looking AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "No. 3 Miami hangs on to beat Florida State, 43-35 in a double-overtime thriller - AP News",
      "published": "2026-10-18T04:01:00+00:00",
      "summary": "No. 3 Miami hangs on to beat Florida State, 43-35 in a double-overtime thriller AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#13",
      "title": "Major fire breaks out in Alberta after deadly incident at military base - AP News",
      "published": "2026-10-18T03:57:00+00:00",
      "summary": "Major fire breaks out in Alberta after deadly incident at military base AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
      "title": "Bachmeier leads winning drive, No. 8 BYU outlasts No. 2 Notre Dame 28-24 - AP News",
      "published": "2026-10-18T03:55:02+00:00",
      "summary": "Bachmeier leads winning drive, No. 8 BYU outlasts No. 2 Notre Dame 28-24 AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "ANNE M. PETERSON - AP News",
-     "published": "2026-10-18T03:39:07+00:00",
-     "summary": "ANNE M. PETERSON AP News"
     },
     {
      "ref": "ap_world#15",
@@ -175,7 +175,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "bbc_world#0",
      "title": "Several dead or injured in major fire at Canada military base",
-     "published": "2026-10-18T06:47:57+00:00",
+     "published": "2026-10-18T07:09:23+00:00",
      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright."
     },
     {
@@ -414,153 +414,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Two arrested for terrorism in Spain's Basque Country - Reuters",
+     "published": "2026-10-18T07:04:11+00:00",
+     "summary": "Two arrested for terrorism in Spain's Basque Country Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "German police investigate fence breach at Leipzig airport - Reuters",
      "published": "2026-10-18T06:04:00+00:00",
      "summary": "German police investigate fence breach at Leipzig airport Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "Lithuania told residents to go to shelters after detecting a flying object - Reuters",
      "published": "2026-10-18T05:42:00+00:00",
      "summary": "Lithuania told residents to go to shelters after detecting a flying object Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Vietnam signs free-trade pact with European countries including Norway, Switzerland - Reuters",
      "published": "2026-10-18T05:30:00+00:00",
      "summary": "Vietnam signs free-trade pact with European countries including Norway, Switzerland Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots - Reuters",
      "published": "2026-10-18T05:03:00+00:00",
      "summary": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Ex-Chihuahua attorney general accused of treason for allowing US participation in drug raid - Reuters",
      "published": "2026-10-18T03:58:00+00:00",
      "summary": "Ex-Chihuahua attorney general accused of treason for allowing US participation in drug raid Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
      "published": "2026-10-18T03:38:00+00:00",
      "summary": "Rubio says Trump to take up to 60 days to weigh Russia sanctions Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
      "published": "2026-10-18T03:18:00+00:00",
      "summary": "Saudi-led coalition says helicopter crash in Najran kills two crew members Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta - Reuters",
      "published": "2026-10-18T02:13:00+00:00",
      "summary": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says - Reuters",
      "published": "2026-10-17T23:49:37+00:00",
      "summary": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Trump-Zelenskiy rift threatens vital support for Kyiv - Reuters",
      "published": "2026-10-17T22:27:19+00:00",
      "summary": "Trump-Zelenskiy rift threatens vital support for Kyiv Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Albanian police fire rubber bullets as student protests rage - Reuters",
      "published": "2026-10-17T21:04:25+00:00",
      "summary": "Albanian police fire rubber bullets as student protests rage Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Prominent Guatemalan anti-corruption lawyer killed in shooting - Reuters",
      "published": "2026-10-17T20:41:00+00:00",
      "summary": "Prominent Guatemalan anti-corruption lawyer killed in shooting Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "Lebanon says military delegation will press for halt to Israeli attacks at US talks - Reuters",
      "published": "2026-10-17T20:31:43+00:00",
      "summary": "Lebanon says military delegation will press for halt to Israeli attacks at US talks Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents - Reuters",
      "published": "2026-10-17T19:29:00+00:00",
      "summary": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Italian police clash with protesters in Milan and Bologna - Reuters",
      "published": "2026-10-17T18:27:40+00:00",
      "summary": "Italian police clash with protesters in Milan and Bologna Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Pope Leo returns to Vatican four days after cancer surgery - Reuters",
      "published": "2026-10-17T18:25:25+00:00",
      "summary": "Pope Leo returns to Vatican four days after cancer surgery Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Tens of thousands march in Lisbon over housing and living costs - Reuters",
      "published": "2026-10-17T17:11:29+00:00",
      "summary": "Tens of thousands march in Lisbon over housing and living costs Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Israeli settlers attack Palestinians, European diplomats in West Bank, Belgium says - Reuters",
      "published": "2026-10-17T17:08:04+00:00",
      "summary": "Israeli settlers attack Palestinians, European diplomats in West Bank, Belgium says Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Festival crush in Indian city of Kolkata kills at least 17, local media say - Reuters",
      "published": "2026-10-17T16:50:00+00:00",
      "summary": "Festival crush in Indian city of Kolkata kills at least 17, local media say Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
      "published": "2026-10-17T16:35:17+00:00",
      "summary": "Explosion at Iraqi paramilitary alliance base kills one member, sources say Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Czech PM Babis suffers setback in Senate elections - Reuters",
      "published": "2026-10-17T16:27:43+00:00",
      "summary": "Czech PM Babis suffers setback in Senate elections Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Russia says it hit Ukrainian steel plants, power infrastructure and ships - Reuters",
      "published": "2026-10-17T15:54:51+00:00",
      "summary": "Russia says it hit Ukrainian steel plants, power infrastructure and ships Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Spain's hard left fails to unite before election, hurting chances of staying in power - Reuters",
      "published": "2026-10-17T15:51:44+00:00",
      "summary": "Spain's hard left fails to unite before election, hurting chances of staying in power Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Yes Bank Q2 profit rises but AT1 ruling not booked as further appeal weighed - Reuters",
      "published": "2026-10-17T15:19:10+00:00",
      "summary": "Yes Bank Q2 profit rises but AT1 ruling not booked as further appeal weighed Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "High debt, growing strains put focus on need for new development approaches - Reuters",
-     "published": "2026-10-17T15:04:35+00:00",
-     "summary": "High debt, growing strains put focus on need for new development approaches Reuters"
     }
    ]
   }
