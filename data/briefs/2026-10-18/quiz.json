@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-18",
+  "questions": [
+    {
+      "id": "q-sports-arsenal-bayern-stakes",
+      "section": "sports",
+      "story_id": "arsenal-nottingham-preview",
+      "answer_index": 1,
+      "en": {
+        "question": "Why does today's Arsenal match at Nottingham matter beyond the three points?",
+        "options": [
+          "Arsenal need the win to avoid relegation",
+          "A clean win sets up momentum before Arsenal travel to face Bayern, who just thrashed RB Leipzig 6-1",
+          "It is Arsenal's last Premier League game before the World Cup break",
+          "Arsenal will be eliminated from the Champions League if they lose"
+        ],
+        "explanation": "Arsenal fly to Munich days later to face a Bayern side fresh off a 6-1 demolition of RB Leipzig, so winning today cleanly means entering that game with momentum rather than pressure."
+      },
+      "he": {
+        "question": "למה למשחק של ארסנל היום בנוטינגהאם יש משמעות שמעבר לשלוש הנקודות?",
+        "options": [
+          "ארסנל זקוקה לניצחון כדי להימנע מנפילה לליגה נמוכה יותר",
+          "ניצחון נקי בונה מומנטום לפני שארסנל נוסעת למשחק מול באיירן, שרק מחצה את לייפציג 6-1",
+          "זהו המשחק האחרון של ארסנל בפרמייר ליג לפני הפסקת מונדיאל",
+          "ארסנל תודח מליגת האלופות אם תפסיד"
+        ],
+        "explanation": "ארסנל טסה למינכן ימים אחר כך לפגוש את באיירן, שרק הבקיעה שישה שערים ללייפציג, כך שניצחון נקי היום פירושו כניסה למשחק ההוא עם מומנטום ולא עם לחץ."
+      }
+    },
+    {
+      "id": "q-business-ai-credit-trigger",
+      "section": "business",
+      "story_id": "ai-credit-cracks",
+      "answer_index": 2,
+      "en": {
+        "question": "What triggered Wall Street's worst week since June, with the Nasdaq down 4.5%?",
+        "options": [
+          "A surprise interest rate hike by the Federal Reserve",
+          "Weak earnings reports from major retailers",
+          "Financial strain at AI cloud provider CoreWeave, which reignited questions about who is financing the AI buildout",
+          "A new round of tariffs announced by the US government"
+        ],
+        "explanation": "CoreWeave's financial strain reignited a question Wall Street had mostly avoided for two years: who is actually financing the AI buildout, and what happens if the payoff is late."
+      },
+      "he": {
+        "question": "מה הצית את השבוע הגרוע ביותר של וול סטריט מאז יוני, עם נפילה של 4.5% בנאסד\"ק?",
+        "options": [
+          "העלאת ריבית מפתיעה של הפד",
+          "דוחות רבעוניים חלשים של רשתות קמעונאות גדולות",
+          "לחץ פיננסי על חברת מחשוב העננים לבינה מלאכותית קוראוויב, שהחזיר לשיח שאלות על מי שמממן את בניית תשתיות ה-AI",
+          "סבב מכסים חדש שהוכרז על ידי ממשל ארה\"ב"
+        ],
+        "explanation": "הלחץ הפיננסי על קוראוויב החזיר לשיח שאלה שוול סטריט נמנעה ממנה כשנתיים: מי בעצם מממן את בניית תשתיות ה-AI, ומה קורה אם התשואה מתעכבת."
+      }
+    },
+    {
+      "id": "q-geo-trump-sanctions-zelensky-rift",
+      "section": "geopolitics",
+      "story_id": "trump-russia-sanctions-waiver",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did Trump's temporary waiver of Russia sanctions sharpen his rift with Ukraine's President Zelensky?",
+        "options": [
+          "Zelensky is now urging support for the very sanctions Trump put on hold",
+          "Zelensky accused Trump of secretly meeting with Putin",
+          "Zelensky demanded Trump resign over the decision",
+          "Zelensky announced Ukraine would no longer accept US military aid"
+        ],
+        "explanation": "The waiver sharpened the rift because Zelensky is now urging support for the very sanctions that Trump has temporarily put on hold."
+      },
+      "he": {
+        "question": "למה ההקפאה הזמנית של טראמפ לעיצומים על רוסיה החריפה את המשבר עם נשיא אוקראינה זלנסקי?",
+        "options": [
+          "זלנסקי קורא כעת לתמוך באותם עיצומים שטראמפ הקפיא",
+          "זלנסקי האשים את טראמפ בפגישה חשאית עם פוטין",
+          "זלנסקי דרש מטראמפ להתפטר בשל ההחלטה",
+          "זלנסקי הודיע שאוקראינה לא תקבל יותר סיוע צבאי אמריקאי"
+        ],
+        "explanation": "המשבר החריף כי זלנסקי קורא כעת לתמוך באותם עיצומים שטראמפ הקפיא באופן זמני."
+      }
+    }
+  ]
+}

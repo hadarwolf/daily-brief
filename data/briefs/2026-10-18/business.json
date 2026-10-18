@@ -1,0 +1,126 @@
+{
+  "section": "business",
+  "date": "2026-10-18",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-18T03:55:20+00:00",
+  "stories": [
+    {
+      "id": "ai-credit-cracks",
+      "kind": "analysis",
+      "en": {
+        "headline": "Cracks in AI Credit Push Wall Street to Its Worst Week Since June",
+        "scroll": "A sharp sell-off in AI-linked stocks, led by CoreWeave's credit troubles, shows that bond and derivatives markets are starting to doubt whether AI revenue can cover the industry's debt load.",
+        "coffee": "U.S. stocks just closed their worst week since June, with the Nasdaq down 4.5% as chip and AI-related shares led the slide and the S&P 500 fell as well. The trigger was CoreWeave, the AI cloud-computing provider whose financial strain reignited a question Wall Street has mostly avoided for two years: who is actually financing the AI buildout, and what happens if the payoff is late. Junk-bond buyers have started freezing AI-adjacent companies out of new financing, and the cost of insuring CoreWeave's debt against default spiked.\n\nThis matters because most of the AI infrastructure boom, chips, data centers, power contracts, has been funded with debt rather than equity, on the bet that AI-driven revenue would arrive fast enough to service it. When credit markets demand a bigger premium for that risk, as they are now, it is usually an earlier and more reliable warning than equity prices. Blue Owl, a private-credit giant that lends heavily into this ecosystem, is still down roughly 67% from its January 2025 high despite executives' promises of a turnaround, a sign the strain isn't confined to one company.\n\nWatch the Federal Reserve's October 27-28 meeting, days before the U.S. midterms, where Chair Kevin Warsh has called AI a \"positive shock\" to the economy even as it disrupts activity elsewhere. Watch too whether junk-bond spreads on AI-linked borrowers keep widening, that would confirm this is an industry-wide financing problem, not just one overstretched cloud provider.",
+        "deep": "## Background\nAI's build-out over the past two years has been enormous and capital-intensive: chips, data centers, and long-term power contracts all have to be bought and built years before the AI applications they support start generating comparable revenue. Companies have increasingly financed that gap with debt rather than equity, since debt doesn't dilute existing shareholders, and as long as projected cash flows exceed the cost of borrowing, debt amplifies returns. That assumption works until it doesn't: debt financing only looks cheap when revenue shows up on schedule.\n\nA useful lens for this week's news is the credit default swap, or CDS, a derivative contract that functions like insurance against a company defaulting on its debt. The buyer pays a periodic premium, called the spread, and gets compensated if the borrower can't pay. Because that spread moves with real money and real risk appetite, it is one of the most sensitive early readings of how worried professional investors are about a specific borrower, often more sensitive, and earlier, than the company's own stock price.\n\n## The Story\nIt showed up all at once on Friday. U.S. stocks fell broadly, with the S&P 500 down and the Nasdaq composite losing 4.5% over the week, Wall Street's worst since June, as chip and AI-linked shares led the declines. Separately, Brent crude climbed about 3.7% toward $110 a barrel on fears of Middle East escalation, adding to the unease.\n\nAt the center of the stock story was CoreWeave, the AI cloud-computing firm that rents out GPU capacity to AI developers. As doubts grew about whether its revenue could keep pace with its financing costs, junk-bond buyers began freezing CoreWeave and similar AI-adjacent borrowers out of new debt issuance, and the market price of insuring CoreWeave's debt against default spiked. Treasury yields tumbled during the broader rout, a classic flight-to-safety signal, even as the credit squeeze tightened specifically on the companies that most need fresh financing to keep building.\n\nCoreWeave isn't the only sign of strain in the capital that underwrites AI. Blue Owl, a major private-credit lender to this ecosystem, has seen its stock price stay down roughly 67% from its January 2025 record despite repeated reassurances from management that a turnaround is coming. The Financial Times framed the week's volatility as something close to \"a dress rehearsal for an AI reckoning,\" not the main event, but a preview of what a genuine unwinding of AI-related leverage could do to broader markets.\n\n## Second-Order Effects\nThe mechanism to watch is simple: most AI infrastructure providers assumed they could keep rolling over debt or issuing new bonds to fund the next round of chip purchases and data-center construction. If junk-bond buyers keep freezing them out, as Bloomberg reported is already happening, those companies either have to slow capital spending, raise money on worse terms, or sell equity at a discount. Any of those outcomes ripples outward, to chipmakers' order books, to the power utilities that signed long-term supply contracts, and to every company whose valuation assumes the AI capex boom keeps accelerating rather than pausing.\n\nIt also puts the Federal Reserve in an odd position. A credit squeeze concentrated in one high-profile sector is exactly the kind of localized stress that monetary policy struggles to address without affecting everyone else. Cheaper money would ease the squeeze on AI borrowers, but it would also refuel the very risk-taking that created the imbalance in the first place.\n\n## What To Watch Next\nThree things will tell you whether this is contained or spreading. First, the Fed's October 27-28 meeting, just before the U.S. midterm elections: Chair Kevin Warsh has already called AI a \"positive shock\" to the economy, so his framing of this week's volatility will matter. Second, whether junk-bond spreads for AI-linked borrowers beyond CoreWeave keep widening, which would confirm the freeze is systemic rather than company-specific. Third, how private-credit lenders like Blue Owl perform from here: they are the plumbing connecting Wall Street's AI enthusiasm to its balance sheet, and their stock prices are currently signaling more doubt than the AI narrative usually allows."
+      },
+      "he": {
+        "headline": "סדקים באשראי של ה-AI שולחים את וול סטריט לשבוע הגרוע ביותר מאז יוני",
+        "scroll": "מכירה חדה במניות הקשורות ל-AI, שבמרכזה בעיות האשראי של קוראוויב, מראה ששוק האג״ח ושוק הביטוח מפני חדלות פירעון מתחילים לפקפק אם ההכנסות מה-AI יספיקו לכסות את חובות התעשייה.",
+        "coffee": "וול סטריט נעלה את השבוע הגרוע ביותר שלה מאז יוני, עם נאסד״ק שאיבד 4.5% מערכו תוך שמניות השבבים וה-AI מובילות את הירידות, ומדד ה-S&P 500 שנחלש גם הוא. הטריגר היה קוראוויב (CoreWeave), חברת מחשוב עננים ל-AI, שהלחץ הפיננסי עליה החזיר לשיח שאלה שוול סטריט נמנעה ממנה כבר שנתיים: מי בעצם מממן את בניית תשתיות ה-AI, ומה קורה אם התשואה על ההשקעה מתעכבת. קונים של אג״ח זבל (junk bonds) התחילו להרחיק חברות הקשורות ל-AI מגיוסי חוב חדשים, ועלות הביטוח מפני חדלות פירעון (CDS) על החוב של קוראוויב קפצה.\n\nזה חשוב כי רוב פריצת הדרך בתשתיות ה-AI, שבבים, חוות שרתים, חוזי אנרגיה, מומנה בחוב ולא בהון עצמי (equity), על הנחה שההכנסות מה-AI יגיעו מספיק מהר כדי לכסות את החוב. כשהשוק הפיננסי דורש פרמיית סיכון גדולה יותר על חוב כזה, כמו שקורה כעת, זה בדרך כלל אינדיקטור מוקדם ואמין יותר מהשוק המנייתי. בלו אאוול (Blue Owl), תאגיד אשראי פרטי (private credit) שמממן רבות מהאקוסיסטם הזה, עדיין נסחר בכ-67% מתחת לשיא שלו מינואר 2025, חרף הבטחות ההנהלה לתפנית, סימן שהלחץ לא מוגבל לחברה אחת.\n\nיש לעקוב אחר ישיבת הריבית של הפד ב-27–28 באוקטובר, ימים לפני בחירות האמצע בארה״ב, שבה יו״ר הפד קווין וורש הגדיר את ה-AI כ„זעזוע חיובי” לכלכלה, גם אם הוא משבש פעילות במקומות אחרים. כדאי גם לבדוק אם מרווחי אג״ח הזבל של מנפיקים הקשורים ל-AI ממשיכים להתרחב, זה יאשר שמדובר בבעיית מימון ענפית ולא רק בספק עננים אחד שנמעך.",
+        "deep": "## רקע\nבנייתה של תשתית ה-AI בשנתיים האחרונות היתה עצומה וכרוכה בהוצאות הון (capex) אדירות: שבבים, חוות שרתים וחוזי אנרגיה ארוכי טווח, שצריך לקנות ולבנות שנים לפני שהאפליקציות שהם תומכים בהן מתחילות להפיק הכנסה שמצדיקה את ההשקעה. חברות רבות בחרו למנן את הפער הזה בעיקר באמצעות חוב ולא הון עצמי (equity): חוב אינו מדלל את בעלי המניות הקיימים, וכל עוד תזרים המזומנים הצפוי גבוה מעלות המימון, לקיחת הלוואות מגדילה את התשואה על ההשקעה. ההנחה הזו נכונה רק כל עוד ההכנסות מגיעות בזמן; מימון בחוב נראה זול רק כשהתחזית מתממשת.\n\nעדשה שימושית להבנת החדשות השבוע היא חוזה חילופי ברירת מחדל באשראי (credit default swap, CDS), נגזר פיננסי שמתפקד כמו ביטוח מפני מצב שבו חברה לא עומדת בתשלומי החוב שלה. הקונה משלם פרמיה תקופתית, שנקראת מרווח (spread), ומקבל פיצוי אם הלווה לא יכול לשלם. מכיוון שהמרווח הזה נע עם כסף אמיתי ותיאבון סיכון אמיתי, הוא אחד האינדיקטורים הרגישים והמהירים ביותר לרמת החשש של משקיעים מוסדיים לגבי לווה מסוים, לרוב רגיש ומהיר יותר ממחיר המניה של החברה עצמה.\n\n## הסיפור\nזה התפוצץ בבת אחת ביום שישי. מניות בארה״ב נפלו באופן נרחב, מדד ה-S&P 500 נחלש והנאסד״ק איבד 4.5% במהלך השבוע, השבוע הגרוע ביותר בוול סטריט מאז יוני, תוך שמניות השבבים ומניות הקשורות ל-AI מובילות את הירידות. במקביל, נפט מסוג ברנט טיפס בכ-3.7% לכיוון 110 דולר לחבית על רקע חששות מהסלמה במזרח התיכון, מה שהוסיף לחוסר הנוחות בשווקים.\n\nבמרכז סיפור המניות עמדה קוראוויב (CoreWeave), חברת מחשוב עננים ל-AI שמשכירה כוח חישוב של מעבדי GPU למפתחי AI. כשהתגברו הספקות אם הכנסותיה יספיקו לכסות את עלויות המימון שלה, קונים של אג״ח זבל (junk bonds) התחילו להרחיק את קוראוויב וחברות דומות הקשורות ל-AI מגיוסי חוב חדשים, ומחיר הביטוח מפני חדלות פירעון על החוב של קוראוויב קפץ. תשואות אגרות החוב של ממשלת ארה״ב צנחו תוך כדי המכירה הרחבה, סימן קלאסי של בריחה לנכסים בטוחים (flight to safety), בדיוק כשהלחץ באשראי התחדד כלפי החברות שהכי צריכות מימון טרי כדי להמשיך לבנות.\n\nקוראוויב אינה הסימן היחיד למתח בהון שמעמיד את ה-AI על כרעיו. בלו אאוול (Blue Owl), תאגיד אשראי פרטי גדול שמממן חלק נכבד מהאקוסיסטם הזה, ממשיך להיסחר בכ-67% מתחת לשיא שלו מינואר 2025, חרף הבטחות חזרה מההנהלה. פייננשל טיימס הגדיר את התנודתיות של השבוע כ„חזרה גנרלית לקריסת AI”, לא האירוע המרכזי עצמו, אלא תצוגה מקדימה למה שפירוק אמיתי של המינוף הקשור ל-AI יכול לעשות לשווקים הרחבים יותר.\n\n## השפעות מסדר שני\nהמכניזם שיש לשים עליו עין הוא פשוט: רוב ספקי תשתיות ה-AI הניחו שיוכלו להמשיך לגלגל חוב קיים או להנפיק אג״ח חדשות כדי לממן את סבב הקנייה הבא של שבבים ובניית חוות שרתים. אם קונים של אג״ח זבל ימשיכו להרחיק אותם, כמו שבלומברג דיווחה שכבר קורה, החברות הללו יצטרכו להאט את ההוצאה ההונית, לגייס בתנאים גרועים יותר, או למכור הון עצמי במחיר מוזל. כל אחת מהתוצאות הללו מתגלגלת החוצה: לספרי ההזמנות של יצרניות השבבים, לחברות החשמל שחתמו על חוזי אנרגיה ארוכי טווח, ולכל חברה שהשווי שלה מניח שבועת ההשקעות ב-AI תמשיך להאיץ ולא להשתהות.\n\nזה גם מציב את הבנק הפדרלי במצב מביך. לחץ אשראי שמרוכז בענף בולט אחד הוא בדיוק סוג הלחץ המקומי שמדיניות מוניטרית מתקשה לטפל בו בלי להשפיע על כולם. כסף זול יותר יקל על הלחץ על לווי ה-AI, אבל גם יזרים דלק חדש לאותו תיאבון סיכון שיצר את חוסר האיזון מלכתחילה.\n\n## מה לעקוב אחריו\nשלושה דברים יגידו אם זה מוכל או מתפשט. ראשית, ישיבת הריבית של הפד ב-27–28 באוקטובר, ממש לפני בחירות האמצע בארה״ב: יו״ר הפד קווין וורש כבר הגדיר את ה-AI כ„זעזוע חיובי” לכלכלה, כך שהניסוח שלו לתנודתיות השבוע יהיה משמעותי. שנית, אם מרווחי אג״ח הזבל של מנפיקים הקשורים ל-AI מעבר לקוראוויב ימשיכו להתרחב, זה יאשר שההקפאה מערכתית ולא ספציפית לחברה אחת. שלישית, איך יתפקדו מלווי אשראי פרטי כמו בלו אאוול מכאן ואילך: הם הצנרת שמחברת בין ההתלהבות של וול סטריט מ-AI לבין המאזן שלה, ומחירי המניות שלהם מסמנים כעת יותר ספק ממה שהנרטיב של ה-AI נוטה להכיל."
+      },
+      "tags": [
+        "ai-bubble",
+        "credit-markets",
+        "junk-bonds",
+        "wall-street"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Blue Owl Founders Promised a Comeback. The Company’s Share Price Hasn’t Budged.",
+          "url": "https://www.wsj.com/finance/blue-owl-stock-price-private-credit-ca6673d9?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
+          "url": "https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Fall as Credit Fears Haunt Tech Sector",
+          "url": "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-credit-fears-haunt-tech-sector-db50c887?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "A Volatile Week Ends with Tech Stocks Down, Oil Up",
+          "url": "https://www.wsj.com/finance/stocks/a-volatile-week-ends-with-tech-stocks-down-oil-up-5f286ce3?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Tech Stocks Slump as Nasdaq Faces Weekly Loss",
+          "url": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-as-markets-take-breather-5018a757?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "השאלה הכי גדולה בוול סטריט: האם בועת ה–AI רק מאבדת קצת אוויר חם — או מתפוצצת?",
+          "url": "https://www.themarker.com/markets/2026-10-18/ty-article/.highlight/000001a1-497d-d358-a7b5-fb7ffc4a0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הנפילה הממושכת ביותר מאז 2008: החששות מהתרסקות השבבים גוברים",
+          "url": "https://www.themarker.com/wallstreet/2026-10-17/ty-article/.premium/000001a1-48c9-ddef-a5b7-dcff4fe90000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט ננעלה בירידות בהובלת מניות הטכנולוגיה; נאסד\"ק איבד 4.5% השבוע",
+          "url": "https://www.themarker.com/wallstreet/2026-10-16/ty-article-live/000001a1-2e4d-d1b4-a5fb-aecd97b50000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הבינה המלאכותית מטלטלת את הכלכלה, וקווין וורש צפוי להמשיך להילחם באינפלציה",
+          "url": "https://www.themarker.com/wallstreet/2026-10-16/ty-article/.premium/000001a1-451b-de23-a5fb-df9ffe920000"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "The dress rehearsal for an AI reckoning",
+          "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4224.6699,
+      "prev_close": 4156.6802,
+      "change_pct": 1.64,
+      "as_of": "2026-10-16"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7659.4399,
+      "prev_close": 7744.0601,
+      "change_pct": -1.09,
+      "as_of": "2026-10-16"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1112,
+      "prev_close": 3.1031,
+      "change_pct": 0.26,
+      "as_of": "2026-10-17"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 109.86,
+      "prev_close": 105.92,
+      "change_pct": 3.72,
+      "as_of": "2026-10-16"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 81727.6875,
+      "prev_close": 81500.8047,
+      "change_pct": 0.28,
+      "as_of": "2026-10-18"
+    }
+  }
+}
