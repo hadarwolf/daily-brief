@@ -24,126 +24,137 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2001,
-   "text": "Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.",
+   "year": 2019,
+   "text": "Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.",
    "context": [
-    "Rehavam Ze'evi was an Israeli general and politician who founded the far-right nationalist Moledet party. He mainly advocated for the complete ethnic cleansing of the Palestinian population through population transfer."
+    "Santiago, also known as Santiago de Chile, is the capital and largest city of Chile and one of the largest cities in the Americas. Located in the Chilean Central Valley within the Santiago Basin, between the Andes to the east and the Chilean Coastal Range to the west, it anchors the Santiago Metropolitan Region and its conurbation of Greater Santiago, which comprises more than forty communes and concentrates over a third of the national population and around 45% of Chile's GDP. Most of the city lies between 500 and 650 meters above sea level, with recent urban growth extending into the Andean foothills."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2000,
-   "text": "A fatal rail crash at Hatfield, Hertfordshire, led to the introduction of widespread speed limit reductions throughout the British rail network and eventually caused the collapse of the railway management group Railtrack.",
+   "year": 1993,
+   "text": "Nihilism, the first professional runway show from the British designer Alexander McQueen, was staged in London.",
    "context": [
-    "The Hatfield rail crash was a railway accident on 17 October 2000, at Hatfield, Hertfordshire, England. It was caused by a rolling contact fatigue-induced derailment, killing four people and injuring more than 70."
+    "Nihilism is the third collection by British designer Alexander McQueen, released for the Spring/Summer 1994 season of his eponymous fashion house. McQueen developed the collection following the launch of his own label with Taxi Driver, which was exhibited in March 1993 at the Ritz Hotel in London in lieu of a fashion show. An eclectic collection with no straightforward theme, Nihilism pushed back against dominant womenswear trends with its hard tailoring, and aggressive, sexualised styling. It was created in collaboration with McQueen's associates Simon Ungless and Fleet Bigwood. Like Taxi Driver, Nihilism included experimental techniques, silhouettes, and materials, such as dresses made from cellophane, stained with clay, or adorned with dead locusts."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1992,
-   "text": "Having gone to the wrong house in Baton Rouge, Louisiana, for a Halloween party, Japanese exchange student Yoshihiro Hattori was shot and killed by the homeowner.",
+   "year": 1968,
+   "text": "At the Summer Olympics in Mexico City, American athlete Bob Beamon (pictured) achieved a distance of 8.90 m (29.2 ft) in the long jump event, setting a world record that stood for 23 years.",
    "context": [
-    "Baton Rouge is the capital city of the U.S. state of Louisiana. It had a population of 227,470 at the 2020 United States census, making it Louisiana's second-most populous city. It is the seat of Louisiana's most populous parish, East Baton Rouge Parish, and the center of Louisiana's second-largest metropolitan area, Greater Baton Rouge, which had 870,569 residents in 2020."
+    "The 1968 Summer Olympics, officially known as the Games of the XIX Olympiad and officially branded as Mexico 1968, were an international multi-sport event held from 12 to 27 October 1968, in Mexico City, Mexico. These were the first Olympic Games to be staged in Latin America, the first to be staged in a Spanish-speaking country, and the first to be staged in the Global South. Consequently, these games also marked the first time that there would be a gap of two Olympic Games not to be held in Europe. They were also the first Games to use an all-weather (smooth) track for track and field events instead of the traditional cinder track, as well as the first example of the Olympics exclusively using electronic timekeeping equipment."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1973,
-   "text": "Yom Kippur War: Egyptian forces retreated from the Battle of the Chinese Farm, allowing Israeli forces to build their first bridge across the Suez Canal.",
+   "year": 1967,
+   "text": "The Soviet space probe Venera 4 became the first spacecraft to perform direct in situ analysis of the environment of another planet (Venus).",
    "context": [
-    "The Yom Kippur War, also known as the 1973 Arab–Israeli War, the fourth Arab–Israeli War, the October War, or the Ramadan War, was fought between Israel and a coalition of Arab states led by Egypt and Syria. Most of the fighting occurred in the Sinai Peninsula and the Golan Heights, territories occupied by Israel in 1967. Some combat also took place in mainland Egypt and northern Israel."
+    "Venera 4, also designated 4V-1 No.310, was a probe in the Soviet Venera program for the exploration of Venus. The probe comprised a lander, designed to enter the Venusian atmosphere and parachute to the surface, and a carrier/flyby spacecraft, which carried the lander to Venus and served as a communications relay for it."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1964,
-   "text": "Prime Minister Robert Menzies inaugurated the artificial Lake Burley Griffin (pictured) in the centre of the Australian capital Canberra.",
+   "year": 1963,
+   "text": "The first cat in space, later known as Félicette, launched aboard a French Véronique rocket.",
    "context": [
-    "Sir Robert Gordon Menzies was the 12th prime minister of Australia, serving from 1939 to 1941 and from 1949 to 1966. He held office as the leader of the United Australia Party (UAP) in his first term, and subsequently as the inaugural leader of the Liberal Party of Australia in his second. He was the member of parliament (MP) for the Victorian division of Kooyong from 1934 to 1966. With a combined term length of 18 years, 163 days, he is the longest-serving prime minister in Australian history."
+    "Félicette was a Parisian cat that became the first feline launched into space on 18 October 1963 as part of the French space program. She was one of 14 female cats trained for spaceflight. The cats had electrodes implanted into their skulls to monitor their neurological activity throughout the flight. During the flight, electrical impulses were applied to the brain and a leg to stimulate responses. The capsule was recovered 13 minutes after the rocket was ignited. Most of the data from the mission was of good quality, and Félicette survived the flight but was euthanised two months later for the examination of her brain."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1952,
-   "text": "Indonesian Army elements surrounded the Merdeka Palace in Jakarta, demanding that President Sukarno disband the Provisional People's Representative Council.",
+   "year": 1943,
+   "text": "Pere Areny, convicted of the murder of his brother, became the last person to be executed by Andorra.",
    "context": [
-    "The Indonesian Army is the land branch of the Indonesian National Armed Forces. It has an estimated strength of 1.632.000 active personnel. The history of the Indonesian Army has its roots in 1945 when the Tentara Keamanan Rakyat (TKR) \"People's Security Army\" first emerged as a paramilitary and police corps."
+    "Pere Areny Aleix was an Andorran man who was the last person to be executed by Andorra."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1931,
-   "text": "American gangster Al Capone  was convicted on five counts of income-tax evasion.",
+   "year": 1906,
+   "text": "The Robert Burns Memorial Statue, the first public statue erected in New Brunswick, was dedicated in Fredericton.",
    "context": [
-    "Alphonse Gabriel Capone, sometimes known by the nickname \"Scarface\", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33."
+    "The Robert Burns Memorial Statue is a monumental statue in Fredericton, New Brunswick, Canada. It was designed by Scottish sculptor William Grant Stevenson and dedicated in 1906. It currently stands on the Green, a park adjacent to the Saint John River, near Christ Church Cathedral. It consists of a bronze statue of the Scottish poet Robert Burns atop a granite pedestal. Ornaments on the pedestal include bronze panels depicting scenes from some of Burns's works."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1914,
-   "text": "Off the coast of the Dutch island of Texel, a British naval squadron sank the German 7th Half Flotilla of torpedo boats in the Battle off Texel.",
+   "year": 1887,
+   "text": "Johannes Brahms (pictured) conducted the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.",
    "context": [
-    "Texel is a municipality and an island with a population of 13,846 in North Holland, Netherlands. It is the largest and most populated island of the West Frisian Islands in the Wadden Sea. The island is situated north of Den Helder, northeast of Noorderhaaks, and southwest of Vlieland."
+    "Johannes Brahms was a German composer, pianist, and conductor of the mid-Romantic period. His music features expressive counterpoint, freer dissonance, rhythmic vitality, and traditional forms. His works include four symphonies, four concertos, a Requiem, much chamber music, and hundreds of folk-song arrangements and Lieder."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1860,
-   "text": "The Open Championship, the oldest of the four major championships in men's golf, was first played at Prestwick Golf Club in Scotland.",
+   "year": 1873,
+   "text": "Renton defeated Kilmarnock 2–0 in the opening match of the inaugural Scottish Cup.",
    "context": [
-    "The Open Championship, often referred to as The Open or the British Open outside of the UK, is the oldest golf tournament in the world, and one of the most prestigious. Founded in 1860, it was originally held annually at Prestwick Golf Club in Scotland. Later the venue rotated among a select group of coastal links golf courses in the United Kingdom. It is organised by The R&A."
+    "Renton Football Club was a football club based in Renton, West Dunbartonshire, Scotland. Formed in 1872, it was a prominent team in the early history of Scottish football, and was one of the teams that featured in the first ever Scottish Cup fixture. It won the competition twice, in 1885 and 1888, and was also runners-up three times. Its 6–1 win against Cambuslang in 1888 is the joint record win in a Scottish Cup final."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1814,
-   "text": "A wooden beer-fermenting vat in London burst, destroying a second vat and causing a large flood of at least 128,000 imperial gallons (580,000 l; 154,000 US gal) of porter that killed eight people.",
-   "context": [
-    "The London Beer Flood was an accident at Meux & Co's Horse Shoe Brewery, London, on 17 October 1814. It took place when one of the 22-foot-tall (6.7 m) wooden vats of fermenting porter burst. The escaping liquid dislodged the valve of another vessel and destroyed several large barrels: between 128,000 and 323,000 imperial gallons of beer were released in total."
-   ]
-  },
-  {
-   "ref": "wikipedia#10",
-   "year": 1777,
-   "text": "American Revolutionary War: British general John Burgoyne's Saratoga campaign ended with his surrender to the Americans, later convincing France to enter the war in alliance with the United States.",
+   "year": 1775,
+   "text": "American Revolutionary War: In an act of retaliation against ports that supported Patriot activities in the early stages of the war, the Royal Navy destroyed what is now Portland, Maine.",
    "context": [
     "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 had led King George III and much of the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British monarchy acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   },
   {
-   "ref": "wikipedia#11",
-   "year": 1771,
-   "text": "Ascanio in Alba, an opera composed by Wolfgang Amadeus Mozart (pictured) at the age of 15, premiered in Milan.",
+   "ref": "wikipedia#10",
+   "year": 1748,
+   "text": "The War of the Austrian Succession ended with the signing of the Treaty of Aix-la-Chapelle.",
    "context": [
-    "Ascanio in Alba, K. 111, is an opera in two parts by Wolfgang Amadeus Mozart to an Italian libretto by Giuseppe Parini. The pastoral work was commissioned by the Empress Maria Theresa for the wedding of her son, Archduke Ferdinand Karl, to Maria Beatrice d'Este on 15 October 1771."
+    "The War of the Austrian Succession, 1740 to 1748, was a conflict between the European great powers, fought primarily in Europe, the Atlantic Ocean and Mediterranean Sea. Related conflicts include King George's War, the War of Jenkins' Ear, the First Carnatic War, and the First and Second Silesian Wars."
+   ]
+  },
+  {
+   "ref": "wikipedia#11",
+   "year": 1587,
+   "text": "Filipino sailors disembarked from the Manila galleon Nuestra Señora de Buena Esperanza in what is now Morro Bay, California, the first documented instance of Asians in the Americas.",
+   "context": [
+    "Filipinos are citizens or people identified and related with the country or sovereign state of the Philippines. Filipinos come from various Austronesian peoples, all typically speaking Filipino, English, or other Philippine languages. Despite formerly being subject to Spanish administration, less than 1% of Filipinos are fluent in Spanish. Currently, there are more than 185 ethnolinguistic groups in the Philippines each with its own language, identity, culture, tradition, and history."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1660,
-   "text": "A series of executions of the commissioners who signed the death warrant of King Charles I of England concluded; six were hanged, drawn and quartered for treason.",
+   "year": 1565,
+   "text": "The first recorded naval battle between Europeans and the Japanese occurred when a flotilla of samurai attacked two Portuguese trade vessels at the Battle of Fukuda Bay in Nagasaki.",
    "context": [
-    "The Regicides of Charles I were the men responsible for the execution of Charles I on 30 January 1649. The term generally refers to the fifty-nine commissioners who signed the execution warrant. This followed his conviction for treason by the High Court of Justice."
+    "The samurai  were members of the professional warrior class in pre-industrial Japan, who served as retainers to the lords. These men came from warrior families and trained from a young age in military arts through private instruction. Swordsmanship, archery, and horsemanship were the primary martial skills; and often in Japanese history, only samurai had the right to even possess these weapons. These weapons required years of training to master, and this commitment made the samurai superior to conscripts and militia, the latter who were typically given only days of training. The samurai also studied literature, calligraphy, and Confucian philosophy, befitting their roles as bureaucrats under the shoguns."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1604,
-   "text": "German astronomer Johannes Kepler began observations of an exceptionally bright object, now known as Kepler's Supernova, that had appeared in the constellation Ophiuchus.",
+   "year": 1356,
+   "text": "The most significant earthquake to have occurred in Central Europe in recorded history destroyed Basel, Switzerland.",
    "context": [
-    "Johannes Kepler was a German polymath who was an astronomer, mathematician, astrologer, natural philosopher and music theorist. He is a key figure in the 17th-century Scientific Revolution, best known for his laws of planetary motion, and his books Astronomia nova, Harmonice Mundi, and Epitome Astronomiae Copernicanae. The variety and impact of his work made Kepler one of the founders and fathers of modern astronomy, the scientific method, natural science, and modern science. He has been described as the \"father of science fiction\" for his novel Somnium."
+    "The 1356 Basel earthquake is the most significant seismological event to have occurred in Central Europe in recorded history and had a moment magnitude in the range of 6.0–7.1. This earthquake, which occurred on 18 October 1356, is also known as the Sankt-Lukas-Tag Erdbeben, as 18 October is the feast day of Saint Luke the Evangelist."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1346,
-   "text": "Hundred Years' War: Under the terms of Scotland's Auld Alliance with France, King David II of Scotland (pictured) was captured at the Battle of Neville's Cross following his invasion of England.",
+   "year": 1081,
+   "text": "Byzantine–Norman wars: Robert Guiscard led an invasion of the Byzantine Empire, capturing Dyrrhachium in present-day Albania.",
    "context": [
-    "The Hundred Years' War was a series of conflicts between the kingdoms of England and France and a civil war in France during the late Middle Ages. It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving different factions from across Western Europe, fueled by emerging nationalism on both sides. The periodization of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces."
+    "The Byzantine–Norman wars were a series of military conflicts between the Normans and the Byzantine Empire fought from c. 1040 to 1186 involving the Norman-led Kingdom of Sicily in the west, and the Principality of Antioch in the Levant. The last of the Norman invasions, though having incurred disaster upon the Romans by sacking Thessalonica in 1185, was eventually driven out and vanquished by 1186."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 320,
+   "text": "Pappus of Alexandria, one of the last great Greek mathematicians of antiquity, observed an eclipse that allowed historians to calculate the approximate dates of his life.",
+   "context": [
+    "Pappus of Alexandria was a Greek mathematician of late antiquity known for his Synagoge (Συναγωγή) or Collection, and for Pappus's hexagon theorem in projective geometry. Almost nothing is known about his life except for what can be found in his own writings, many of which are lost. Pappus apparently lived in Alexandria, where he worked as a mathematics teacher to higher level students, one of whom was named Hermodorus."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Hyperscaler (ספקית מיחשוב-על)",
+  "Vendor financing (מימון מצד הספק)",
+  "Too big to fail (גדול מכדי להיכשל)",
   "Junk bond (אג\"ח זבל)",
   "Debt maturity wall (קיר פירעונות)",
   "Rob Peter to pay Paul (לקחת מפיטר כדי לשלם לפול)",

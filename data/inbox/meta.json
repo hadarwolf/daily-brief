@@ -1,6 +1,6 @@
 {
- "date": "2026-10-17",
- "prepared_at": "2026-10-17T07:38:00+00:00",
+ "date": "2026-10-18",
+ "prepared_at": "2026-10-18T03:34:07+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -23,10 +23,10 @@
   "events": [
    {
     "sport": "soccer",
-    "competition": "Primera Division",
-    "home": "Real Betis",
-    "away": "Barça",
-    "kickoff_utc": "2026-10-17T16:30:00Z"
+    "competition": "Premier League",
+    "home": "Nottingham",
+    "away": "Arsenal",
+    "kickoff_utc": "2026-10-18T15:30:00Z"
    }
   ]
  },
@@ -61,11 +61,11 @@
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81593.7422,
+   "last": 81727.6875,
    "prev_close": 81500.8047,
-   "change_pct": 0.11,
-   "as_of": "2026-10-17"
+   "change_pct": 0.28,
+   "as_of": "2026-10-18"
   }
  },
- "essays_fetched": 5
+ "essays_fetched": 4
 }
