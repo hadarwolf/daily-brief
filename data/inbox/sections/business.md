@@ -553,9 +553,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81596.1328,
+   "last": 81606.6016,
    "prev_close": 81382.1484,
-   "change_pct": 0.26,
+   "change_pct": 0.28,
    "as_of": "2026-10-18"
   }
  },

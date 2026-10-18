@@ -18,57 +18,57 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "France - AP News",
+     "published": "2026-10-18T07:23:29+00:00",
+     "summary": "France AP News"
+    },
+    {
+     "ref": "ap_world#1",
      "title": "Poker - AP News",
      "published": "2026-10-18T07:03:07+00:00",
      "summary": "Poker AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#2",
      "title": "Sports - Europe - AP News",
      "published": "2026-10-18T07:01:03+00:00",
      "summary": "Sports - Europe AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "Japan to launch spacecraft on a mission to get samples from a Martian moon - AP News",
      "published": "2026-10-18T06:44:00+00:00",
      "summary": "Japan to launch spacecraft on a mission to get samples from a Martian moon AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - AP News",
      "published": "2026-10-18T05:43:00+00:00",
      "summary": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
+     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+     "published": "2026-10-18T05:16:49+00:00",
+     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
+    },
+    {
+     "ref": "ap_world#6",
      "title": "ANNE M. PETERSON - AP News",
      "published": "2026-10-18T04:41:22+00:00",
      "summary": "ANNE M. PETERSON AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#7",
      "title": "Photos show No Kings rallies across America - AP News",
      "published": "2026-10-18T04:17:50+00:00",
      "summary": "Photos show No Kings rallies across America AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "Immigration - AP News",
      "published": "2026-10-18T04:16:48+00:00",
      "summary": "Immigration AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-10-18T04:11:43+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-     "published": "2026-10-18T04:10:31+00:00",
-     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
      "ref": "ap_world#9",
@@ -162,9 +162,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#24",
-     "title": "McGill’s late TD lifts North Carolina past Duke 24-20 - AP News",
-     "published": "2026-10-18T00:56:00+00:00",
-     "summary": "McGill’s late TD lifts North Carolina past Duke 24-20 AP News"
+     "title": "West Bank - AP News",
+     "published": "2026-10-18T01:15:06+00:00",
+     "summary": "West Bank AP News"
     }
    ]
   },

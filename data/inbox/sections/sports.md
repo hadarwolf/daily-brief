@@ -29,14 +29,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-17T11:30:00Z",
-     "home": "Middlesbrough",
-     "away": "Cardiff",
-     "status": "FINISHED",
-     "score": "2-2"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-17T11:30:00Z",
      "home": "Watford",
      "away": "Charlton",
      "status": "FINISHED",
@@ -49,6 +41,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Chelsea",
      "status": "FINISHED",
      "score": "0-2"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-17T11:30:00Z",
+     "home": "Middlesbrough",
+     "away": "Cardiff",
+     "status": "FINISHED",
+     "score": "2-2"
     },
     {
      "competition": "Championship",
@@ -77,10 +77,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-17T13:30:00Z",
-     "home": "HSV",
-     "away": "Stuttgart",
+     "home": "Bremen",
+     "away": "SC Paderborn",
      "status": "FINISHED",
-     "score": "1-0"
+     "score": "2-2"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-17T13:30:00Z",
+     "home": "Union Berlin",
+     "away": "Dortmund",
+     "status": "FINISHED",
+     "score": "0-0"
     },
     {
      "competition": "Bundesliga",
@@ -101,26 +109,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-17T13:30:00Z",
-     "home": "Bremen",
-     "away": "SC Paderborn",
+     "home": "HSV",
+     "away": "Stuttgart",
      "status": "FINISHED",
-     "score": "2-2"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-17T13:30:00Z",
-     "home": "Union Berlin",
-     "away": "Dortmund",
-     "status": "FINISHED",
-     "score": "0-0"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "West Brom",
-     "away": "Blackburn",
-     "status": "FINISHED",
-     "score": "3-2"
+     "score": "1-0"
     },
     {
      "competition": "Championship",
@@ -139,6 +131,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-1"
     },
     {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "West Brom",
+     "away": "Blackburn",
+     "status": "FINISHED",
+     "score": "3-2"
+    },
+    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-17T14:00:00Z",
      "home": "Man City",
@@ -147,10 +147,34 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-2"
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "Brentford",
+     "away": "Liverpool",
+     "status": "FINISHED",
+     "score": "1-2"
+    },
+    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Norwich",
-     "away": "Portsmouth",
+     "home": "Derby County",
+     "away": "Stoke",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "Fulham",
+     "away": "Hull City",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "Swansea",
+     "away": "West Ham",
      "status": "FINISHED",
      "score": "0-1"
     },
@@ -165,42 +189,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-17T14:00:00Z",
+     "home": "Norwich",
+     "away": "Portsmouth",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-17T14:00:00Z",
      "home": "Wrexham",
      "away": "Preston NE",
      "status": "FINISHED",
      "score": "4-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Derby County",
-     "away": "Stoke",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Swansea",
-     "away": "West Ham",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Brentford",
-     "away": "Liverpool",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-17T14:00:00Z",
-     "home": "Fulham",
-     "away": "Hull City",
-     "status": "FINISHED",
-     "score": "1-0"
     },
     {
      "competition": "Primera Division",
@@ -243,14 +243,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "6-1"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-17T16:30:00Z",
-     "home": "Newcastle",
-     "away": "Aston Villa",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-17T16:30:00Z",
      "home": "Real Betis",
@@ -259,12 +251,28 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-5"
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-17T16:30:00Z",
+     "home": "Newcastle",
+     "away": "Aston Villa",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-17T18:00:00Z",
      "home": "Telstar",
      "away": "Feyenoord",
      "status": "FINISHED",
      "score": "3-4"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-17T18:45:00Z",
+     "home": "Lille",
+     "away": "Brest",
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "Ligue 1",
@@ -283,12 +291,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-0"
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-17T18:45:00Z",
-     "home": "Lille",
-     "away": "Brest",
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-17T19:00:00Z",
+     "home": "Valencia",
+     "away": "Athletic",
      "status": "FINISHED",
-     "score": "1-1"
+     "score": "0-0"
     },
     {
      "competition": "Eredivisie",
@@ -297,14 +305,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Willem II",
      "status": "FINISHED",
      "score": "3-2"
-    },
-    {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-10-17T19:00:00Z",
-     "home": "Valencia",
-     "away": "Athletic",
-     "status": "FINISHED",
-     "score": "0-0"
     }
    ],
    "today": [
@@ -399,16 +399,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-18T13:00:00Z",
-     "home": "Bournemouth",
-     "away": "Sunderland",
+     "home": "Brighton Hove",
+     "away": "Crystal Palace",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-18T13:00:00Z",
-     "home": "Brighton Hove",
-     "away": "Crystal Palace",
+     "home": "Bournemouth",
+     "away": "Sunderland",
      "status": "TIMED",
      "score": null
     },
@@ -439,14 +439,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-18T15:15:00Z",
-     "home": "Lorient",
-     "away": "Monaco",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-18T15:15:00Z",
      "home": "Le Havre",
      "away": "Auxerre",
      "status": "TIMED",
@@ -461,10 +453,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-18T15:30:00Z",
-     "home": "M'gladbach",
-     "away": "Hoffenheim",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-18T15:15:00Z",
+     "home": "Lorient",
+     "away": "Monaco",
      "status": "TIMED",
      "score": null
     },
@@ -473,6 +465,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-18T15:30:00Z",
      "home": "Nottingham",
      "away": "Arsenal",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-18T15:30:00Z",
+     "home": "M'gladbach",
+     "away": "Hoffenheim",
      "status": "TIMED",
      "score": null
     },
@@ -495,24 +495,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-18T18:00:00Z",
-     "home": "Twente",
-     "away": "Utrecht",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-18T18:00:00Z",
      "home": "NEC",
      "away": "Sittard",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-18T18:45:00Z",
-     "home": "Juventus",
-     "away": "Lazio",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-18T18:00:00Z",
+     "home": "Twente",
+     "away": "Utrecht",
      "status": "TIMED",
      "score": null
     },
@@ -525,10 +517,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-18T19:00:00Z",
-     "home": "Fluminense",
-     "away": "Santos",
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-18T18:45:00Z",
+     "home": "Juventus",
+     "away": "Lazio",
      "status": "TIMED",
      "score": null
     },
@@ -545,6 +537,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-18T19:00:00Z",
      "home": "Grêmio",
      "away": "Cruzeiro",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-18T19:00:00Z",
+     "home": "Fluminense",
+     "away": "Santos",
      "status": "TIMED",
      "score": null
     }
@@ -1098,7 +1098,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#0",
      "title": "Lionel Messi magic! Inter Miami star nets stunning brace against Atlanta United to extend MLS Golden Boot lead - Goal.com",
-     "published": "2026-10-18T06:58:07+00:00",
+     "published": "2026-10-18T06:58:41+00:00",
      "summary": "Lionel Messi magic! Inter Miami star nets stunning brace against Atlanta United to extend MLS Golden Boot lead Goal.com"
     },
     {
@@ -1109,21 +1109,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "Messi brace lifts Inter Miami to 3-1 win in Atlanta - Oman Observer",
-     "published": "2026-10-18T06:17:45+00:00",
-     "summary": "Messi brace lifts Inter Miami to 3-1 win in Atlanta Oman Observer"
-    },
-    {
-     "ref": "gnews_inter_miami#3",
      "title": "WATCH: Messi rolls back the years to score brace for Inter Miami against Atlanta United - Sportstar",
      "published": "2026-10-18T06:09:54+00:00",
      "summary": "WATCH: Messi rolls back the years to score brace for Inter Miami against Atlanta United Sportstar"
     },
     {
+     "ref": "gnews_inter_miami#3",
+     "title": "Atlanta 1-3 Miami (18 Oct, 2026) Team Stats - ESPN Philippines",
+     "published": "2026-10-18T06:09:54+00:00",
+     "summary": "Atlanta 1-3 Miami (18 Oct, 2026) Team Stats ESPN Philippines"
+    },
+    {
      "ref": "gnews_inter_miami#4",
-     "title": "Messi Scores Twice, Adds Assist in Inter Miami's 3-1 Win Over Atlanta United - https://www.businesstimes-bd.com/",
-     "published": "2026-10-18T05:37:29+00:00",
-     "summary": "Messi Scores Twice, Adds Assist in Inter Miami's 3-1 Win Over Atlanta United https://www.businesstimes-bd.com/"
+     "title": "Lionel Messi scores two stunning goals in four minutes and sets another MLS record - Diario AS",
+     "published": "2026-10-18T05:38:24+00:00",
+     "summary": "Lionel Messi scores two stunning goals in four minutes and sets another MLS record Diario AS"
     },
     {
      "ref": "gnews_inter_miami#5",
@@ -1145,105 +1145,105 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#8",
+     "title": "Lionel Messi scores twice, adds assist to propel Inter Miami to 3-1 victory over Atlanta United - News.com.au",
+     "published": "2026-10-18T04:27:47+00:00",
+     "summary": "Lionel Messi scores twice, adds assist to propel Inter Miami to 3-1 victory over Atlanta United News.com.au"
+    },
+    {
+     "ref": "gnews_inter_miami#9",
      "title": "Atlanta United vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-18T04:21:10+00:00",
      "summary": "Atlanta United vs Inter Miami: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Match recap: Atlanta United defeated by defining Inter Miami moments - Atlanta United FC",
      "published": "2026-10-18T04:10:12+00:00",
      "summary": "Match recap: Atlanta United defeated by defining Inter Miami moments Atlanta United FC"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Messi scores twice as Inter Miami beat Atlanta United 3-1 to extend winning streak - Malay Mail",
      "published": "2026-10-18T03:51:52+00:00",
      "summary": "Messi scores twice as Inter Miami beat Atlanta United 3-1 to extend winning streak Malay Mail"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami 3-1 Atlanta: Messi gets Sofascore Rating 10 - Sofascore",
      "published": "2026-10-18T03:10:59+00:00",
      "summary": "Inter Miami 3-1 Atlanta: Messi gets Sofascore Rating 10 Sofascore"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Messi brace, 10 Sofascore Rating in Miami's 3-1 win - Sofascore",
      "published": "2026-10-18T03:10:59+00:00",
      "summary": "Messi brace, 10 Sofascore Rating in Miami's 3-1 win Sofascore"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "VIDEO: Enjoy the latest Messi highlights in Miami’s latest win - Front Row Soccer",
      "published": "2026-10-18T03:06:25+00:00",
      "summary": "VIDEO: Enjoy the latest Messi highlights in Miami’s latest win Front Row Soccer"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "=+🧲[𝐋𝐈𝐕𝐄@STREAM]$ Atlanta United FC vs Inter Miami CF Match 25695 - Universidad de Córdoba (UCO)",
      "published": "2026-10-18T02:59:50+00:00",
      "summary": "=+🧲[𝐋𝐈𝐕𝐄@STREAM]$ Atlanta United FC vs Inter Miami CF Match 25695 Universidad de Córdoba (UCO)"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Matt Edwards hits the woodwork vs. Inter Miami CF - ESPN",
      "published": "2026-10-18T02:54:45+00:00",
      "summary": "Matt Edwards hits the woodwork vs. Inter Miami CF ESPN"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "🎥 At 39, Messi has averaged a goal a game since the World Cup - Yahoo Sports",
      "published": "2026-10-18T02:53:00+00:00",
      "summary": "🎥 At 39, Messi has averaged a goal a game since the World Cup Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Starting XI: Atlanta United vs. Inter Miami CF - Inter Miami CF",
      "published": "2026-10-18T02:47:11+00:00",
      "summary": "Starting XI: Atlanta United vs. Inter Miami CF Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "MATCH RECAP: Inter Miami CF Collects Third Straight Victory in 1-3 Road Win Over Atlanta United FC - Inter Miami CF",
      "published": "2026-10-18T02:47:11+00:00",
      "summary": "MATCH RECAP: Inter Miami CF Collects Third Straight Victory in 1-3 Road Win Over Atlanta United FC Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Lionel Messi scores twice, adds assist to propel Inter Miami to 3-1 victory over Atlanta United - myMotherLode.com",
      "published": "2026-10-18T02:44:55+00:00",
      "summary": "Lionel Messi scores twice, adds assist to propel Inter Miami to 3-1 victory over Atlanta United myMotherLode.com"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi makes MLS history in latest Inter Miami masterpiece - MLSsoccer.com",
      "published": "2026-10-18T02:38:21+00:00",
      "summary": "Lionel Messi makes MLS history in latest Inter Miami masterpiece MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi dismantles Atlanta United, playoff hopes dwindle - The Atlanta Journal-Constitution",
      "published": "2026-10-18T02:31:54+00:00",
      "summary": "Lionel Messi dismantles Atlanta United, playoff hopes dwindle The Atlanta Journal-Constitution"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "HIGHLIGHTS: Atlanta United vs. Inter Miami CF | October 17, 2026 - MLSsoccer.com",
      "published": "2026-10-18T02:30:34+00:00",
      "summary": "HIGHLIGHTS: Atlanta United vs. Inter Miami CF | October 17, 2026 MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Highlights: Atlanta United 1-3 Inter Miami CF (MLS), Major League Soccer - Forza Football",
      "published": "2026-10-18T02:24:16+00:00",
      "summary": "Highlights: Atlanta United 1-3 Inter Miami CF (MLS), Major League Soccer Forza Football"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Atlanta United - Inter Miami CF 0 - 3 | GOAL - Leo Messi, Major League Soccer - Forza Football",
-     "published": "2026-10-18T02:24:16+00:00",
-     "summary": "Atlanta United - Inter Miami CF 0 - 3 | GOAL - Leo Messi, Major League Soccer Forza Football"
     }
    ]
   },
@@ -1283,105 +1283,111 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#5",
+     "title": "Caleb Love (head) goes to to the locker room - NBC Sports",
+     "published": "2026-10-17T05:53:47+00:00",
+     "summary": "Caleb Love (head) goes to to the locker room NBC Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#6",
      "title": "Game Highlights: Portland Trail Blazers 118, Golden State Warriors 128 | Oct. 16, 2026 - NBA.com",
      "published": "2026-10-17T05:53:40+00:00",
      "summary": "Game Highlights: Portland Trail Blazers 118, Golden State Warriors 128 | Oct. 16, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija posts 12/4/3/2/1 line vs. Warriors - NBC Sports",
      "published": "2026-10-17T04:43:39+00:00",
      "summary": "Deni Avdija posts 12/4/3/2/1 line vs. Warriors NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
+     "title": "Basketball from the NBA: Avdija scores 12 points in Portland's loss in final preseason game - Ynetnews",
+     "published": "2026-10-17T04:42:09+00:00",
+     "summary": "Basketball from the NBA: Avdija scores 12 points in Portland's loss in final preseason game Ynetnews"
+    },
+    {
+     "ref": "gnews_israeli_nba#9",
      "title": "Portland Trail Blazers at Golden State Warriors - NBA Game Summary - Oct 16, 2026 - USA Today",
      "published": "2026-10-17T02:31:44+00:00",
      "summary": "Portland Trail Blazers at Golden State Warriors - NBA Game Summary - Oct 16, 2026 USA Today"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#10",
      "title": "Golden State Warriors vs Portland Trail Blazers Box Score - October 16, 2026 - The Athletic - The New York Times",
      "published": "2026-10-17T02:25:22+00:00",
      "summary": "Golden State Warriors vs Portland Trail Blazers Box Score - October 16, 2026 - The Athletic The New York Times"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#11",
      "title": "Trail Blazers vs. Warriors Prediction, Spread, NBA Preseason Picks – Friday, October 16 - PrizePicks",
      "published": "2026-10-16T22:03:56+00:00",
      "summary": "Trail Blazers vs. Warriors Prediction, Spread, NBA Preseason Picks – Friday, October 16 PrizePicks"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#12",
      "title": "Warriors vs. Trail Blazers Preseason: How to watch, stream, lineups, injury report for Friday - Warriors Wire",
      "published": "2026-10-16T21:09:00+00:00",
      "summary": "Warriors vs. Trail Blazers Preseason: How to watch, stream, lineups, injury report for Friday Warriors Wire"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#13",
      "title": "PORTLAND TRAIL BLAZERS NEW ERA | 2026/27 Projected Roster & Starting 5 Grades Humber Bridge (c7kpS8F3Tv) - Unisba Media",
      "published": "2026-10-16T19:21:54+00:00",
      "summary": "PORTLAND TRAIL BLAZERS NEW ERA | 2026/27 Projected Roster & Starting 5 Grades Humber Bridge (c7kpS8F3Tv) Unisba Media"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#14",
      "title": "Shabbat is central to Jewish life - San Diego Jewish World",
      "published": "2026-10-16T19:18:23+00:00",
      "summary": "Shabbat is central to Jewish life San Diego Jewish World"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#15",
      "title": "A Jewish NBA season preview - Jewish Telegraphic Agency",
      "published": "2026-10-16T15:00:00+00:00",
      "summary": "A Jewish NBA season preview Jewish Telegraphic Agency"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
      "published": "2026-10-16T12:22:36+00:00",
      "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#17",
      "title": "Trail Blazers Expected To Remain Competitive In Loaded Western Conference - roundtable.io",
      "published": "2026-10-16T12:16:42+00:00",
      "summary": "Trail Blazers Expected To Remain Competitive In Loaded Western Conference roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#18",
      "title": "2026-27 Fantasy Basketball: Best Players to Target for Free Throw Percentage - FantraxHQ",
      "published": "2026-10-16T10:08:22+00:00",
      "summary": "2026-27 Fantasy Basketball: Best Players to Target for Free Throw Percentage FantraxHQ"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#19",
      "title": "Trail Blazers vs. Warriors - Final Score - October 16, 2026 - FOX Sports",
      "published": "2026-10-16T07:00:00+00:00",
      "summary": "Trail Blazers vs. Warriors - Final Score - October 16, 2026 FOX Sports"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#20",
      "title": "Ben Saraf last 10 games: stats and game log - BasketNews.com",
      "published": "2026-10-15T20:18:50+00:00",
      "summary": "Ben Saraf last 10 games: stats and game log BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#21",
      "title": "Trail Blazers Urged To Make Surprising Decision With Ja Morant - roundtable.io",
      "published": "2026-10-15T18:45:53+00:00",
      "summary": "Trail Blazers Urged To Make Surprising Decision With Ja Morant roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#22",
      "title": "Ben Saraf vs Bahcesehir Koleji Istanbul: stats, game log - BasketNews.com",
      "published": "2026-10-15T15:17:26+00:00",
      "summary": "Ben Saraf vs Bahcesehir Koleji Istanbul: stats, game log BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
-     "title": "Deni Avdija vs Iceland: stats, game log - BasketNews.com",
-     "published": "2026-10-15T07:17:36+00:00",
-     "summary": "Deni Avdija vs Iceland: stats, game log BasketNews.com"
     }
    ]
   }
