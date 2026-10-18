@@ -149,69 +149,75 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Our fascination with screens, demand curves slope downward installment #1637",
+     "published": "2026-10-18T06:28:18+00:00",
+     "summary": "What we find here is that the quality-adjusted screen time price index is down 39 per cent since 2000, but that change is overwhelmingly a function of improvements in quality, not declines in prices paid for devices, subscriptions and so on. So the steep rise in screen time over the past 20 years has led […] The post Our fascination with screens, demand curves slope downward installment #1637 appe"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "The archaeology tranche of Emergent Ventures",
+     "published": "2026-10-18T04:57:12+00:00",
+     "summary": "Björn Öste is building Arkhub, an AI-powered platform that analyzes remote-sensing and other archaeological data to identify potential ancient sites in the Amazon and enable further investigation by citizen scientists. J. Cameron Monroe is leading the Allada Regional Archaeology Project, using lidar, remote sensing, and archaeological fieldwork to reconstruct the historical landscape of the Kingdo"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Saturday assorted links",
      "published": "2026-10-17T15:57:58+00:00",
      "summary": "1. GLM-5.3 understands Bob Lucas (and then some). It amuses me how many basic principles of economics are being rediscovered in these new contexts. 2. Most famous book tied to every U.S. state. The NJ answer is crazy, how about Roth’s American Pastoral? 3. Adam Tooze on Perry Mehrling. 4. How employment is changing at […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Solving for the equilibrium?",
      "published": "2026-10-17T07:34:21+00:00",
      "summary": "Sixteen AI agents were each ha‍nded 1,000 satoshi⁠s of real b‌itcoin and told nothing about how to use​ it. A hund‍red rounds l‌at‍er⁠, four of them had roughly doubled⁠ th‍eir money, tw‍o h‌a‍d​ been wiped out, and the‍ three richest a​gents held more than half‍ of all the bitco‌in in the room.⁠ Nobody wrote a […] The post Solving for the equilibrium? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "New Matt Faherty study of the NSF",
      "published": "2026-10-17T04:55:57+00:00",
      "summary": "From the Executive Summary: Therefore, the NSF, NIH, and the federal government should put far more resources and effort into developing metascience. With proper metascience efforts, the NSF could run experiments on science funding reform proposals, such as shifting to a people-over-projects funding model or directly funding replication efforts, and determine which reforms will most […] The post N"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Friday assorted links",
      "published": "2026-10-16T16:42:18+00:00",
      "summary": "1. Can Dybantsa (and others) turn around the Wizards? (NYT) 2. Claims about interpretability. I have to say I do not quite “get it”…? Here is some exposition. 3. “90% of Americans’ working hours are spent on tasks not covered well by AI benchmarks. That’s our best guess from a new project mapping frontier benchmarks […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "India has more Restrictive Labor Law than Germany",
      "published": "2026-10-16T11:20:31+00:00",
      "summary": "In Premature Imitation and India’s Flailing State, Shruti Rajagopalan and I discuss how India has essentially all of the laws of a developed country but at much lower state capacity–this mismatch creates what we call premature imitation, with a host of negative consequences. What is even more amazing, however, is when a country like India […] The post India has more Restrictive Labor Law than Germ"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "On Bergman’s *Persona*",
      "published": "2026-10-16T06:53:12+00:00",
      "summary": "I first saw Ingmar Bergman’s Persona, his stone-cold classic of 1965, as a teenager, and God knows how many times I have seen it since. It has the greatest opening sequence in cinema: a percussive, rapid-fire montage that can never be wholly accommodated or understood. The film’s story is, however, a simple one (even if […] The post On Bergman’s *Persona* appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "I guest host the NYT podcast and interview Dwarkesh",
      "published": "2026-10-16T04:44:22+00:00",
      "summary": "Here is the audio, video, and transcript. Excerpt: Cowen: Unreleased models — why are they important? Patel: As in the ones that are internal to the companies? Cowen: Well, many companies have unreleased models. Maybe it would cost too much to release them or they’re not safe yet, but the public doesn’t see them. Patel: […] The post I guest host the NYT podcast and interview Dwarkesh appeared firs"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Thursday assorted links",
      "published": "2026-10-15T16:43:28+00:00",
      "summary": "1. Claims about military satellites. 2. book talk. 3. AI misalignment in Sweden? 4. Will El Salvador grow? 5. AI, automation, and the Indian workforce. 6. How language models revise the documents that govern them. 7. Arpit Gupta, economist, visits Anthropic. 8. Ten-year yield is down, even though inflation came in higher than expected. The post Thursday assorted links appeared first on Marginal RE"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Astra Held Its Ground (Truth)",
      "published": "2026-10-15T11:18:46+00:00",
      "summary": "TheoPhysEval: We present a suite of 50 unpublished research-level theoretical physics problems with verifiable answers. Without AI assistance, a typical problem in our collection could be solved by a world expert in about a day or less but would take considerably longer for experts in adjacent specialties. We test the ability of off-the-shelf AI agents […] The post Astra Held Its Ground (Truth) ap"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Why I do not use LLMs more",
      "published": "2026-10-15T08:20:41+00:00",
      "summary": "They are so very, very good at matching me to the books I wish to read and the music I wish to listen to. In this odd sense they are not very sticky. The LLMs are amazing, but the world is awesome too! Thus the LLMs keep on sending me away. There is quality travel […] The post Why I do not use LLMs more appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "My excellent Conversation with Liaquat Ahamed",
-     "published": "2026-10-15T04:37:06+00:00",
-     "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: They start with that puzzle before moving through Gladstone’s startlingly self-interested bet on Egyptian bonds, Bismarck’s role in destroying bimetallism and deflating the world economy for two decades, whether a global silver or symmetallic standard could have worked, Britain’s fateful decision […] The post My excelle"
     }
    ]
   },
