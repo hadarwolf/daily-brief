@@ -18,87 +18,87 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Can Microbes Solve the Copper Problem?",
+     "published": "2026-10-19T08:00:04+00:00",
+     "summary": "The global copper supply is on a collision course with growing electricity demand. Now some companies are turning to biomining, the process of using microbes to extract metals, to boost supply. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Don Wilson on the GPU Market’s Trillion Dollar Question",
+     "published": "2026-10-19T08:00:00+00:00",
+     "summary": "When we spoke to Don Wilson, founder and CEO of DRW, in Chicago last year, he told us he wanted to build a market for GPUs that would eventually be bigger than oil. A year’s time in the age of AI is an eternity, and so for the first episode of this year’s Chicago live show - recorded at City Winery - Wilson joins us on stage again to talk about what’s changed and what hasn’t in his quest to help b"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "France’s Bonds Drop as Rioting Heaps Pressure on Government",
+     "published": "2026-10-19T07:43:55+00:00",
+     "summary": "France’s sovereign bonds dropped as violence flared across the country, underlining the tension between protesters and a government that’s hamstrung by poor public finances."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Ivanhoe Electric (IE) in Talks to Sell Arizona Copper Amid Data Center Demand",
      "published": "2026-10-19T07:00:00+00:00",
      "summary": "Ivanhoe Electric Inc. is in advanced talks with prospective buyers for copper from its project in Arizona, as the rapid expansion of data centers and power grids stokes demand for the metal."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#4",
      "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support",
      "published": "2026-10-19T06:49:40+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#5",
      "title": "UK Gilts Face Budget Test as Bond Market Calm Holds",
      "published": "2026-10-19T06:45:45+00:00",
      "summary": "Investors say a budget that avoids surprises could even spark a relief rally"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
      "title": "Yoka: Rep. Congo Pursues ‘Real Reforms’ to Boost Economy",
      "published": "2026-10-19T06:43:04+00:00",
      "summary": "Talks between the IMF and Republic of Congo on a new lending program are set to continue in the coming weeks, with both sides aiming to reach a staff-level agreement. The African nation has also pursued a secondary listing for its eurobonds on NASDAQ Dubai, marking the first ever listing in the GCC for an African Sovereign. Republic of Congo's Minister of Finance, Budget and Public Portfolio, Chri"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#7",
      "title": "Dubai Sweetens First IPO Since War With $592 Million Dividend",
      "published": "2026-10-19T06:42:47+00:00",
      "summary": "DIP Holding PLC is trying to rustle up demand for the United Arab Emirates’ first initial public offering since the Iran war began by offering investors dividend payouts worth $592 million over the next three years."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#8",
      "title": "PHP Agrees £700 Million UK Private Hospital Venture With GIC",
      "published": "2026-10-19T06:34:41+00:00",
      "summary": "Primary Health properties Plc has formed a £700 million ($933 million) venture with GIC Pte, part of its ongoing plan to reduce debt levels following a merger last year."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#9",
      "title": "VW Dealer Heir’s Windfall Fuels €3.5 Billion Investment Firm",
      "published": "2026-10-19T06:15:00+00:00",
      "summary": "One of the billionaire heirs to Belgium’s D’Ieteren auto empire is eyeing new investments, flush with cash after selling a stake in the Volkswagen distributor to his cousin."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#10",
      "title": "UK Debt Is a Buy for Traders Betting on a Play-It-Safe Budget",
      "published": "2026-10-19T06:10:00+00:00",
      "summary": "Some big investors are betting that UK Chancellor John Healey will stick to fiscal discipline in his first budget, setting off a gilts rally."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#11",
      "title": "Lindt CEO Exits as Swiss Chocolate Industry Struggles",
      "published": "2026-10-19T06:08:17+00:00",
      "summary": "Lindt is changing its chief executive officer as it tries to engineer a turnaround and deal with record-high cocoa costs and weak consumer demand that have weighed on the Swiss confectionary industry."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#12",
      "title": "Macron Calls for Order After Violent Protests in France",
      "published": "2026-10-19T06:02:45+00:00",
      "summary": "France saw some of its worst street violence in years as protests over education, public services and the cost of living descended into clashes, looting and fires. More than 2,300 people were arrested as President Emmanuel Macron called for calm. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#13",
      "title": "South Africa on Path to Investment-Grade Rating, Investec Says",
      "published": "2026-10-19T06:00:00+00:00",
      "summary": "South Africa stands a good chance of regaining its investment-grade credit rating within two years and next week’s mid-term budget could take another step toward that goal, according to Investec Wealth & Investment International."
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "ISS Says Impala Bonuses at Risk of Scrutiny Over Worker Deaths",
-     "published": "2026-10-19T05:58:31+00:00",
-     "summary": "The world’s biggest proxy-advisory firm said the number of worker fatalities in accidents at the operations of Impala Platinum Holdings Ltd. raising questions about bonuses paid to management."
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Indonesia Selloff Deepens as Emerging-Market Status Comes Under Threat",
-     "published": "2026-10-19T05:55:22+00:00",
-     "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Europe’s Unity on China Can Move the Needle: Eskelund",
-     "published": "2026-10-19T05:47:18+00:00",
-     "summary": "European Union Chamber of Commerce in China President, Jens Eskelund, says a more unified European approach to China could reshape trade relations. He joined Paul Allen on Bloomberg’s Insight with Haslinda Amin to discuss EU-China trade tensions and the outlook for European businesses in China. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#14",
@@ -358,39 +358,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Gold Rises Amid Falling Oil Prices",
+     "published": "2026-10-19T07:56:00+00:00",
+     "summary": "Gold prices rose, supported by falling oil prices and as traders assessed the U.S. interest-rate outlook for this year."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
      "published": "2026-10-19T07:42:00+00:00",
      "summary": "Oil prices fell Monday, pulling back after Friday’s gains as traders weighed a U.S. decision to waive newly imposed sanctions on Russia against persistent Middle East supply risks."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Oil Falls After President Trump Waives Sanctions Against Russia",
      "published": "2026-10-19T07:36:00+00:00",
      "summary": "Oil prices slide after Trump waived some sanctions and tariffs on Russia, with Brent crude falling 2.3% to $107.36 a barrel."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "European Indexes Mostly Fall as Banks, Energy-Sensitive Stocks Drop",
      "published": "2026-10-19T07:29:00+00:00",
      "summary": "European stock indexes fell at the open as elevated energy prices weighed."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Euro Falls on Worries Over French Protests, Debt",
      "published": "2026-10-19T07:25:00+00:00",
      "summary": "The euro fell against the dollar and against the pound as concerns over France’s civil unrest and massive debt load weighed."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "U.S. Treasury Yields Fall in Asian Trade",
      "published": "2026-10-19T06:19:00+00:00",
      "summary": "Treasury yields fell in Asian trade on Monday as oil prices declined, allowing yields to remain comfortably below recent multidecade highs at the long end of the curve."
-    },
-    {
-     "ref": "wsj_markets#5",
-     "title": "Gold Edges Higher as Traders Weigh Fed Rate Hike Expectations",
-     "published": "2026-10-19T02:50:00+00:00",
-     "summary": "Gold edged higher in Asian trade. Traders were likely weighing the prospect of further Federal Reserve rate increases this year."
     },
     {
      "ref": "wsj_markets#6",
@@ -482,9 +482,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4204.1099,
+   "last": 4198.2798,
    "prev_close": 4224.6699,
-   "change_pct": -0.49,
+   "change_pct": -0.62,
    "as_of": "2026-10-19"
   },
   "SP500": {
@@ -496,23 +496,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1089,
+   "last": 3.1084,
    "prev_close": 3.1031,
-   "change_pct": 0.19,
+   "change_pct": 0.17,
    "as_of": "2026-10-19"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 107.18,
+   "last": 106.94,
    "prev_close": 109.86,
-   "change_pct": -2.44,
+   "change_pct": -2.66,
    "as_of": "2026-10-19"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82649.0703,
+   "last": 82573.9922,
    "prev_close": 82017.6016,
-   "change_pct": 0.77,
+   "change_pct": 0.68,
    "as_of": "2026-10-19"
   }
  },

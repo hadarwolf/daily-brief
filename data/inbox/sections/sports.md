@@ -83,20 +83,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-0"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-18T13:00:00Z",
-     "home": "Leeds United",
-     "away": "Man United",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-18T13:00:00Z",
      "home": "Fiorentina",
      "away": "Como 1907",
      "status": "FINISHED",
      "score": "1-3"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-18T13:00:00Z",
+     "home": "Leeds United",
+     "away": "Man United",
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "Bundesliga",
@@ -147,20 +147,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-3"
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-18T15:30:00Z",
-     "home": "M'gladbach",
-     "away": "Hoffenheim",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-18T15:30:00Z",
      "home": "Nottingham",
      "away": "Arsenal",
      "status": "FINISHED",
      "score": "0-1"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-18T15:30:00Z",
+     "home": "M'gladbach",
+     "away": "Hoffenheim",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "Serie A",
@@ -181,18 +181,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-18T18:00:00Z",
-     "home": "Twente",
-     "away": "Utrecht",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-18T18:00:00Z",
      "home": "NEC",
      "away": "Sittard",
      "status": "FINISHED",
      "score": "2-2"
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-18T18:00:00Z",
+     "home": "Twente",
+     "away": "Utrecht",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "Serie A",
@@ -211,20 +211,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-1"
     },
     {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-10-18T19:00:00Z",
-     "home": "Real Madrid",
-     "away": "Sevilla FC",
-     "status": "FINISHED",
-     "score": "4-1"
-    },
-    {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-18T19:00:00Z",
      "home": "Fluminense",
      "away": "Santos",
      "status": "FINISHED",
      "score": "1-2"
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-18T19:00:00Z",
+     "home": "Real Madrid",
+     "away": "Sevilla FC",
+     "status": "FINISHED",
+     "score": "4-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -269,18 +269,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-10-19T19:00:00Z",
-     "home": "Getafe",
-     "away": "Rayo Vallecano",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-19T19:00:00Z",
      "home": "Tottenham",
      "away": "Coventry City",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-19T19:00:00Z",
+     "home": "Getafe",
+     "away": "Rayo Vallecano",
      "status": "TIMED",
      "score": null
     },
@@ -1021,33 +1021,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#4",
-     "title": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija - Sport News Africa",
-     "published": "2026-10-18T20:00:00+00:00",
-     "summary": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija Sport News Africa"
-    },
-    {
-     "ref": "gnews_israeli_nba#5",
      "title": "Did the Blazers Get Enough Out of Preseason? - Sports Illustrated",
      "published": "2026-10-18T15:43:53+00:00",
      "summary": "Did the Blazers Get Enough Out of Preseason? Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija climbs in new rankings, earns high praise - The Jerusalem Post",
      "published": "2026-10-18T06:10:35+00:00",
      "summary": "Deni Avdija climbs in new rankings, earns high praise The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#6",
      "title": "Finding The Solution To The Trail Blazers’ Forward Problem - Last Word On Sports",
      "published": "2026-10-17T13:34:32+00:00",
      "summary": "Finding The Solution To The Trail Blazers’ Forward Problem Last Word On Sports"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#7",
      "title": "Five Nets, five tests as Brooklyn’s first-round class enters Year 2 - New York Daily News",
      "published": "2026-10-17T11:00:36+00:00",
      "summary": "Five Nets, five tests as Brooklyn’s first-round class enters Year 2 New York Daily News"
+    },
+    {
+     "ref": "gnews_israeli_nba#8",
+     "title": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija - Sport News Africa",
+     "published": "2026-10-17T07:00:00+00:00",
+     "summary": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija Sport News Africa"
     },
     {
      "ref": "gnews_israeli_nba#9",
