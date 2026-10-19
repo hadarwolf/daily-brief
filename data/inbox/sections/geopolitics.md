@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "New York City - AP News",
+     "published": "2026-10-19T07:50:22+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "South America - AP News",
+     "published": "2026-10-19T07:48:31+00:00",
+     "summary": "South America AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Texas - AP News",
+     "published": "2026-10-19T07:48:31+00:00",
+     "summary": "Texas AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Africa News Reports | Latest News in Africa - AP News",
+     "published": "2026-10-19T07:48:29+00:00",
+     "summary": "Africa News Reports | Latest News in Africa AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Latest news - AP News",
+     "published": "2026-10-19T07:48:28+00:00",
+     "summary": "Latest news AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Europe News | Breaking European News Today - AP News",
+     "published": "2026-10-19T07:44:41+00:00",
+     "summary": "Europe News | Breaking European News Today AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
+     "published": "2026-10-19T07:42:20+00:00",
+     "summary": "California officials who process ballots from suspected noncitizens risk prosecution, US warns AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-10-19T07:38:16+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#8",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-10-19T07:30:17+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#9",
      "title": "College sports - AP News",
      "published": "2026-10-19T07:28:27+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#10",
      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
      "published": "2026-10-19T07:28:26+00:00",
      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Russia - AP News",
-     "published": "2026-10-19T07:28:26+00:00",
-     "summary": "Russia AP News"
-    },
-    {
-     "ref": "ap_world#4",
+     "ref": "ap_world#11",
      "title": "Golf - AP News",
      "published": "2026-10-19T07:26:18+00:00",
      "summary": "Golf AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#12",
      "title": "Military and defense - AP News",
      "published": "2026-10-19T07:26:18+00:00",
      "summary": "Military and defense AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#13",
      "title": "AP News Search - AP News",
      "published": "2026-10-19T07:26:18+00:00",
      "summary": "AP News Search AP News"
     },
     {
-     "ref": "ap_world#7",
-     "title": "Europe News | Breaking European News Today - AP News",
-     "published": "2026-10-19T07:26:14+00:00",
-     "summary": "Europe News | Breaking European News Today AP News"
-    },
-    {
-     "ref": "ap_world#8",
+     "ref": "ap_world#14",
      "title": "War and unrest - AP News",
      "published": "2026-10-19T07:18:30+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#9",
-     "title": "Latest news - AP News",
-     "published": "2026-10-19T06:38:01+00:00",
-     "summary": "Latest news AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#15",
      "title": "Poker - AP News",
      "published": "2026-10-19T05:58:58+00:00",
      "summary": "Poker AP News"
     },
     {
-     "ref": "ap_world#11",
-     "title": "Vladimir Putin - AP News",
-     "published": "2026-10-19T05:22:18+00:00",
-     "summary": "Vladimir Putin AP News"
+     "ref": "ap_world#16",
+     "title": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver - AP News",
+     "published": "2026-10-19T05:48:00+00:00",
+     "summary": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#17",
      "title": "Protests and demonstrations - AP News",
      "published": "2026-10-19T04:57:28+00:00",
      "summary": "Protests and demonstrations AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#18",
+     "title": "Hurricane Trudy weakens off Mexico and Typhoon Champi moves away from land - AP News",
+     "published": "2026-10-19T04:55:00+00:00",
+     "summary": "Hurricane Trudy weakens off Mexico and Typhoon Champi moves away from land AP News"
+    },
+    {
+     "ref": "ap_world#19",
+     "title": "‘20 Days in Mariupol’ - AP News",
+     "published": "2026-10-19T04:26:58+00:00",
+     "summary": "‘20 Days in Mariupol’ AP News"
+    },
+    {
+     "ref": "ap_world#20",
+     "title": "Vladimir Putin - AP News",
+     "published": "2026-10-19T04:11:34+00:00",
+     "summary": "Vladimir Putin AP News"
+    },
+    {
+     "ref": "ap_world#21",
      "title": "Democrats gain ground with AAPI adults as trust in Republicans fades, AP-NORC/AAPI Data poll finds - AP News",
      "published": "2026-10-19T04:06:00+00:00",
      "summary": "Democrats gain ground with AAPI adults as trust in Republicans fades, AP-NORC/AAPI Data poll finds AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#22",
      "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
      "published": "2026-10-19T04:02:00+00:00",
      "summary": "Albertans vote on path to independence as Carney fights to keep Canada united AP News"
     },
     {
-     "ref": "ap_world#15",
-     "title": "What to Stream: ‘Moana,’ ‘Modern Warfare 4,’ Dolly Parton tribute, ‘Lupin’ and John Legend - AP News",
-     "published": "2026-10-19T04:01:00+00:00",
-     "summary": "What to Stream: ‘Moana,’ ‘Modern Warfare 4,’ Dolly Parton tribute, ‘Lupin’ and John Legend AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests - AP News",
-     "published": "2026-10-19T03:44:00+00:00",
-     "summary": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests AP News"
-    },
-    {
-     "ref": "ap_world#17",
+     "ref": "ap_world#23",
      "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
-     "published": "2026-10-19T03:43:30+00:00",
+     "published": "2026-10-19T04:01:27+00:00",
      "summary": "Russia-Ukraine | Breaking News & Live Updates AP News"
     },
     {
-     "ref": "ap_world#18",
-     "title": "‘20 Days in Mariupol’ - AP News",
-     "published": "2026-10-19T03:31:06+00:00",
-     "summary": "‘20 Days in Mariupol’ AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff - AP News",
-     "published": "2026-10-19T03:29:00+00:00",
-     "summary": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "China’s economy accelerates on robust exports as domestic weakness persists - AP News",
-     "published": "2026-10-19T03:19:00+00:00",
-     "summary": "China’s economy accelerates on robust exports as domestic weakness persists AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "South Africa and Mozambique to honor Samora Machel 40 years after plane crash death. Here's why - AP News",
-     "published": "2026-10-19T03:05:00+00:00",
-     "summary": "South Africa and Mozambique to honor Samora Machel 40 years after plane crash death. Here's why AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Rasmussen shines as Rays beat Guardians 3-1 in Game 5 to take a 3-2 ALCS lead - AP News",
-     "published": "2026-10-19T02:53:00+00:00",
-     "summary": "Rasmussen shines as Rays beat Guardians 3-1 in Game 5 to take a 3-2 ALCS lead AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Yemen - AP News",
-     "published": "2026-10-19T02:22:11+00:00",
-     "summary": "Yemen AP News"
-    },
-    {
      "ref": "ap_world#24",
-     "title": "Grass fire at Canadian military base kills 4 soldiers and critically injures 19 other people - AP News",
-     "published": "2026-10-19T02:00:00+00:00",
-     "summary": "Grass fire at Canadian military base kills 4 soldiers and critically injures 19 other people AP News"
+     "title": "What to Stream: ‘Moana,’ ‘Modern Warfare 4,’ Dolly Parton tribute, ‘Lupin’ and John Legend - AP News",
+     "published": "2026-10-19T04:01:00+00:00",
+     "summary": "What to Stream: ‘Moana,’ ‘Modern Warfare 4,’ Dolly Parton tribute, ‘Lupin’ and John Legend AP News"
     }
    ]
   },
@@ -174,51 +174,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "France's government under pressure after weekend of widespread violence",
+     "published": "2026-10-19T07:46:54+00:00",
+     "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+     "published": "2026-10-19T07:35:06+00:00",
+     "summary": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd."
+    },
+    {
+     "ref": "bbc_world#2",
      "title": "Watch: Shops looted and restaurants gutted in Paris riots",
      "published": "2026-10-19T06:40:35+00:00",
      "summary": "Violence broke out across France, with more than half a million people taking to the streets over the weekend."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#3",
      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
      "published": "2026-10-19T06:29:55+00:00",
      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#4",
      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
      "published": "2026-10-19T06:00:18+00:00",
      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#5",
      "title": "Australian Greens senator denies claims of misconduct towards women",
      "published": "2026-10-19T04:54:25+00:00",
      "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#6",
      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
      "published": "2026-10-19T04:30:59+00:00",
      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing."
     },
     {
-     "ref": "bbc_world#5",
-     "title": "France's government under pressure after weekend of widespread violence",
-     "published": "2026-10-19T04:16:46+00:00",
-     "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
-    },
-    {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
      "published": "2026-10-19T03:44:02+00:00",
      "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell."
-    },
-    {
-     "ref": "bbc_world#7",
-     "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
-     "published": "2026-10-19T01:50:48+00:00",
-     "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd."
     },
     {
      "ref": "bbc_world#8",
@@ -414,27 +414,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#2",
+     "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns - Reuters",
+     "published": "2026-10-19T07:19:08+00:00",
+     "summary": "Spain's rush to clear Ceuta migrant backlog raises rights concerns Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "Rubio denies US paused intelligence sharing with Ukraine - Reuters",
      "published": "2026-10-19T07:15:43+00:00",
      "summary": "Rubio denies US paused intelligence sharing with Ukraine Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "China set to leave benchmark lending rates unchanged for 17th month - Reuters",
      "published": "2026-10-19T07:14:09+00:00",
      "summary": "China set to leave benchmark lending rates unchanged for 17th month Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Arab voter turnout could make or break Netanyahu in Israeli election - Reuters",
      "published": "2026-10-19T07:07:43+00:00",
      "summary": "Arab voter turnout could make or break Netanyahu in Israeli election Reuters"
-    },
-    {
-     "ref": "reuters_world#5",
-     "title": "Insight: Spain's rush to clear Ceuta migrant backlog raises rights concerns - Reuters",
-     "published": "2026-10-19T07:03:43+00:00",
-     "summary": "Insight: Spain's rush to clear Ceuta migrant backlog raises rights concerns Reuters"
     },
     {
      "ref": "reuters_world#6",

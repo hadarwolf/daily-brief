@@ -133,26 +133,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-18T15:15:00Z",
-     "home": "Le Havre",
-     "away": "Auxerre",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-18T15:15:00Z",
      "home": "Lorient",
      "away": "Monaco",
      "status": "FINISHED",
      "score": "1-0"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-18T15:30:00Z",
-     "home": "Nottingham",
-     "away": "Arsenal",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-18T15:15:00Z",
+     "home": "Le Havre",
+     "away": "Auxerre",
      "status": "FINISHED",
-     "score": "0-1"
+     "score": "1-3"
     },
     {
      "competition": "Bundesliga",
@@ -161,6 +153,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Hoffenheim",
      "status": "FINISHED",
      "score": "1-2"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-18T15:30:00Z",
+     "home": "Nottingham",
+     "away": "Arsenal",
+     "status": "FINISHED",
+     "score": "0-1"
     },
     {
      "competition": "Serie A",
@@ -841,153 +841,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "PHOTOS: Atlanta United vs. Inter Miami, MLS Soccer - The Rome News-Tribune",
+     "published": "2026-10-19T05:10:00+00:00",
+     "summary": "PHOTOS: Atlanta United vs. Inter Miami, MLS Soccer The Rome News-Tribune"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "PHOTOS: Atlanta United vs. Inter Miami, MLS Soccer - Rockdale Citizen",
      "published": "2026-10-19T05:10:00+00:00",
      "summary": "PHOTOS: Atlanta United vs. Inter Miami, MLS Soccer Rockdale Citizen"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
+     "title": "PHOTOS: Atlanta United vs. Inter Miami, MLS Soccer - Fulton Neighbor",
+     "published": "2026-10-19T05:10:00+00:00",
+     "summary": "PHOTOS: Atlanta United vs. Inter Miami, MLS Soccer Fulton Neighbor"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "!+[*𝐋𝐈𝐕𝐄 FOOTBALL*] Atlanta United FC vs Inter Miami CF UEFA Champions League Coverage 10720 - Universidad de Córdoba (UCO)",
      "published": "2026-10-19T04:56:29+00:00",
      "summary": "!+[*𝐋𝐈𝐕𝐄 FOOTBALL*] Atlanta United FC vs Inter Miami CF UEFA Champions League Coverage 10720 Universidad de Córdoba (UCO)"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
      "title": "Atlanta United vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-19T04:31:38+00:00",
      "summary": "Atlanta United vs Inter Miami: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
      "title": "Messi Heads to Spain for Asturias Award, Eyes Miami Return - Yahoo Sports",
      "published": "2026-10-19T04:30:00+00:00",
      "summary": "Messi Heads to Spain for Asturias Award, Eyes Miami Return Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#6",
      "title": "Messi leads Inter Miami past Atlanta - Qatar Tribune",
      "published": "2026-10-19T04:22:51+00:00",
      "summary": "Messi leads Inter Miami past Atlanta Qatar Tribune"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "Messi scores twice, provides assist as Inter Miami beat Atlanta United 3-1 - The Daily Ittefaq",
      "published": "2026-10-19T03:06:12+00:00",
      "summary": "Messi scores twice, provides assist as Inter Miami beat Atlanta United 3-1 The Daily Ittefaq"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
+     "title": "Atlanta 1-3 Miami (18 Oct, 2026) Player Stats - ESPN India",
+     "published": "2026-10-19T02:40:25+00:00",
+     "summary": "Atlanta 1-3 Miami (18 Oct, 2026) Player Stats ESPN India"
+    },
+    {
+     "ref": "gnews_inter_miami#9",
      "title": "Tata Martino Makes Rare Lionel Messi and Diego Maradona Comparison After Inter Miami's Win - Athlon Sports",
      "published": "2026-10-19T01:01:00+00:00",
      "summary": "Tata Martino Makes Rare Lionel Messi and Diego Maradona Comparison After Inter Miami's Win Athlon Sports"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#10",
      "title": "November 1, 2026: New England vs Miami Soccer Prediction Market - Robinhood",
      "published": "2026-10-19T00:56:42+00:00",
      "summary": "November 1, 2026: New England vs Miami Soccer Prediction Market Robinhood"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#11",
+     "title": "Atlanta United 1-3 Inter Miami: Messi doubles up again - beIN SPORTS",
+     "published": "2026-10-18T23:54:52+00:00",
+     "summary": "Atlanta United 1-3 Inter Miami: Messi doubles up again beIN SPORTS"
+    },
+    {
+     "ref": "gnews_inter_miami#12",
      "title": "Melhores momentos: Atlanta United 1 x 3 Inter Miami CF (MLS) - OneFootball",
      "published": "2026-10-18T22:15:04+00:00",
      "summary": "Melhores momentos: Atlanta United 1 x 3 Inter Miami CF (MLS) OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#13",
      "title": "Messi Inspires Inter Miami Win With Two Goals And An Assist - Bernama",
      "published": "2026-10-18T21:13:26+00:00",
      "summary": "Messi Inspires Inter Miami Win With Two Goals And An Assist Bernama"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi vs Ronaldo: Who Will Reach 1,000 Goals First? - Yahoo Sports",
      "published": "2026-10-18T20:30:26+00:00",
      "summary": "Messi vs Ronaldo: Who Will Reach 1,000 Goals First? Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#15",
      "title": "MLS Roundup: St. Louis CITY SC's impressive unbeaten streak ends, Lionel Messi saves Inter Miami Miami again, and the Philadelphia Union keep ticking along - Goal.com",
      "published": "2026-10-18T19:44:15+00:00",
      "summary": "MLS Roundup: St. Louis CITY SC's impressive unbeaten streak ends, Lionel Messi saves Inter Miami Miami again, and the Philadelphia Union keep ticking along Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#16",
      "title": "Messi brace lifts Inter Miami to 3-1 win - www.daily-sun.com",
      "published": "2026-10-18T17:39:26+00:00",
      "summary": "Messi brace lifts Inter Miami to 3-1 win www.daily-sun.com"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#17",
      "title": "Messi strikes twice in Inter Miami’s 3-1 win at Atlanta - Soccer America",
      "published": "2026-10-18T15:27:54+00:00",
      "summary": "Messi strikes twice in Inter Miami’s 3-1 win at Atlanta Soccer America"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#18",
      "title": "Atlanta United vs Inter Miami: Player ratings form - Scarves and Spikes",
      "published": "2026-10-18T15:23:58+00:00",
      "summary": "Atlanta United vs Inter Miami: Player ratings form Scarves and Spikes"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#19",
      "title": "'He never stops surprising': Messi turns back clock with dazzling double - USA Today",
      "published": "2026-10-18T15:20:00+00:00",
      "summary": "'He never stops surprising': Messi turns back clock with dazzling double USA Today"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#20",
      "title": "Messi scores twice as Inter Miami extend winning streak to three - Middle East Online",
      "published": "2026-10-18T14:46:38+00:00",
      "summary": "Messi scores twice as Inter Miami extend winning streak to three Middle East Online"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#21",
      "title": "Tickets sold out in 13 minutes: Messi's visit sends Spaniards into a frenzy - Goal.com",
      "published": "2026-10-18T14:13:53+00:00",
      "summary": "Tickets sold out in 13 minutes: Messi's visit sends Spaniards into a frenzy Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#22",
      "title": "Messi brace lifts Inter Miami to 3-1 win in Atlanta - The Bangladesh Today",
      "published": "2026-10-18T13:15:08+00:00",
      "summary": "Messi brace lifts Inter Miami to 3-1 win in Atlanta The Bangladesh Today"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#23",
      "title": "Messi, 39, scores TWO solo wondergoals then taunts rival with celebration - The Sun",
      "published": "2026-10-18T13:05:00+00:00",
      "summary": "Messi, 39, scores TWO solo wondergoals then taunts rival with celebration The Sun"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#24",
      "title": "Messi brace secures Inter Miami victory in Atlanta - Miami Herald",
      "published": "2026-10-18T12:52:00+00:00",
      "summary": "Messi brace secures Inter Miami victory in Atlanta Miami Herald"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Lionel Messi scores twice for Inter Miami against Atlanta United - BBC",
-     "published": "2026-10-18T11:29:43+00:00",
-     "summary": "Lionel Messi scores twice for Inter Miami against Atlanta United BBC"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Lionel Messi proves he never forgets: Takes rare revenge on opponent with fiery out-of-character taunt to - The Times of India",
-     "published": "2026-10-18T11:21:00+00:00",
-     "summary": "Lionel Messi proves he never forgets: Takes rare revenge on opponent with fiery out-of-character taunt to The Times of India"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Messi Hits 936 Career Goals As Inter Miami Beat Atlanta - LEADERSHIP Newspapers",
-     "published": "2026-10-18T10:38:40+00:00",
-     "summary": "Messi Hits 936 Career Goals As Inter Miami Beat Atlanta LEADERSHIP Newspapers"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Lionel Messi reaches 25 goals as Inter Miami extend winning streak - Telangana Today",
-     "published": "2026-10-18T10:12:09+00:00",
-     "summary": "Lionel Messi reaches 25 goals as Inter Miami extend winning streak Telangana Today"
     }
    ]
   },
@@ -1081,12 +1081,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#14",
+     "title": "PORTLAND TRAIL BLAZERS NEW ERA | 2026/27 Projected Roster & Starting 5 Grades Humber Bridge (c7kpS8F3Tv) - Unisba Media",
+     "published": "2026-10-16T19:21:54+00:00",
+     "summary": "PORTLAND TRAIL BLAZERS NEW ERA | 2026/27 Projected Roster & Starting 5 Grades Humber Bridge (c7kpS8F3Tv) Unisba Media"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
      "title": "A Jewish NBA season preview - Jewish Telegraphic Agency",
      "published": "2026-10-16T15:00:00+00:00",
      "summary": "A Jewish NBA season preview Jewish Telegraphic Agency"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "2026-27 Fantasy Basketball: Best Players to Target for Free Throw Percentage - FantraxHQ",
      "published": "2026-10-16T10:08:22+00:00",
      "summary": "2026-27 Fantasy Basketball: Best Players to Target for Free Throw Percentage FantraxHQ"
