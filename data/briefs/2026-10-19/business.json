@@ -1,0 +1,86 @@
+{
+  "section": "business",
+  "date": "2026-10-19",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-19T04:01:59+00:00",
+  "stories": [
+    {
+      "id": "anthropic-public-benefit-fund",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic Pledges 5% of Its Shares to a Fund for Workers Hurt by AI",
+        "scroll": "Anthropic will hand 5% of its shares to a new public-benefit fund that can pay people harmed by AI-driven job losses, as it lays groundwork for a stock market listing.",
+        "coffee": "Anthropic says it will commit 5% of its shares to a newly created \"public benefit\" fund. According to reporting on the announcement, the fund could send distributions directly to people affected by AI-driven labor disruption — workers whose jobs or income are hit as the technology automates work.\n\nThe timing matters: Anthropic is laying the groundwork for a stock market listing (IPO), and the announcement comes as the company has faced growing public backlash over AI's safety risks and economic fallout. Giving away a slice of equity before going public is a way to signal that the company isn't simply pocketing the gains while society absorbs the costs.\n\nThe move sits alongside a less-publicized detail: Anthropic is governed in part by a five-person trust empowered to shape its board and block major decisions, and the company has disclosed little about how that trust actually works. For investors sizing up the eventual IPO, the benefit fund and the opaque trust both raise the same question — who really controls Anthropic's biggest decisions, and on what terms.",
+        "deep": "## Background\nGenerative AI companies have spent the past two years under pressure to show they are not simply externalizing the costs of automation onto workers while capturing the profits for shareholders. Anthropic, like OpenAI, is structured as a public benefit corporation — a legal form that lets a company's directors weigh a stated public mission alongside shareholder returns, rather than maximizing profit alone. In Anthropic's case, that mission is overseen by a trust of five people with the power to shape the board and block major corporate moves, though the company has shared few details about how the trust is composed or how it makes decisions.\n\n## The story\nAnthropic announced it will commit 5% of its shares to a new public-benefit fund. Reporting on the plan says the fund is designed so it can send distributions directly to populations affected by AI-driven labor disruption — in effect, a pool of equity set aside in advance to compensate people whose livelihoods are damaged by the same technology Anthropic sells. The announcement lands as Anthropic prepares for what is being described as a blockbuster stock market listing, and amid sustained public criticism of AI's safety risks and its potential to eliminate jobs at scale.\n\n## Second-order effects\nGiving away 5% of a company's equity before it goes public is a form of pre-commitment. It dilutes the stake available to existing shareholders and to whoever buys in at the IPO — everyone's slice of the company gets a little smaller — but it buys something in return: political and reputational insurance. It is harder to accuse a company of profiting purely at society's expense if a meaningful chunk of its own equity is earmarked, in advance, for the people most likely to be hurt by its product.\n\nIt also sets a marker other AI companies preparing to go public may come under pressure to match, turning a goodwill gesture into something closer to an emerging industry norm. For investors, it raises real governance questions: who administers the fund, what triggers a payout, how large AI-driven job losses must be before money moves, and how the fund's priorities interact with the largely undisclosed trust that already has power to overrule Anthropic's board. None of that has been spelled out publicly yet.\n\nThe announcement also lands against a jumpy market backdrop for AI generally — chip stocks have been selling off on funding worries, and AI infrastructure names have taken sharp hits. In that climate, how an AI company structures its governance and its public commitments feeds directly into how nervous investors price its eventual public offering.\n\n## What to watch next\nWatch the IPO prospectus for whether the fund's governance, payout triggers and oversight get formally defined, whether the five-person trust's composition becomes public before investors are asked to commit capital, and whether other AI companies heading toward public markets announce comparable funds of their own."
+      },
+      "he": {
+        "headline": "אנתרופיק תעביר 5% ממניותיה לקרן לעובדים שנפגעו מבינה מלאכותית",
+        "scroll": "אנתרופיק תעביר 5% ממניותיה לקרן \"תועלת ציבורית\" (public benefit) חדשה, שתוכל לשלם לאנשים שנפגעו מאובדן פרנסה בעקבות בינה מלאכותית — זאת בעת שהחברה נערכת להנפקה בבורסה.",
+        "coffee": "אנתרופיק הודיעה שתעביר 5% ממניותיה לקרן \"תועלת ציבורית\" חדשה. לפי הדיווחים על ההכרזה, הקרן נועדה לאפשר תשלומים ישירים לאוכלוסיות שנפגעות משיבושי תעסוקה הנובעים מבינה מלאכותית — עובדים שמשרתם או הכנסתם נפגעות כשהטכנולוגיה מייתרת את עבודתם.\n\nהתזמון לא מקרי: אנתרופיק מניחה את התשתית להנפקה בבורסה (IPO), וההכרזה מגיעה על רקע ביקורת ציבורית גוברת על סיכוני הבטיחות של הבינה המלאכותית ועל הנזק הכלכלי שהיא עשויה לגרום. הענקת פרוסה ממניות החברה לפני ההנפקה היא דרך לשלוח מסר שהחברה לא רק גוזרת קופון בזמן שהחברה מממנת את העלויות.\n\nלצד זה עומד פרט שפורסם פחות: אנתרופיק מנוהלת גם על ידי נאמנות (trust) של חמישה אנשים, המוסמכת לעצב את הרכב הדירקטוריון ולחסום החלטות מרכזיות — והחברה שיתפה מעט מאוד פרטים על אופן פעולתה. למשקיעים שבוחנים את ההנפקה הצפויה, גם קרן התועלת הציבורית וגם הנאמנות הסתומה מעלות את אותה שאלה: מי בפועל שולט בהחלטות הגדולות של אנתרופיק, ובאילו תנאים.",
+        "deep": "## רקע\nחברות בינה מלאכותית גנרטיבית נמצאות כבר כשנתיים תחת לחץ להראות שאינן רק מגלגלות את עלויות האוטומציה על כתפי העובדים בעוד הן עצמן קוצרות את הרווחים. אנתרופיק, כמו OpenAI, מאוגדת כ\"תאגיד תועלת ציבורית\" (public benefit corporation) — מבנה משפטי המאפשר לדירקטוריון לשקול משימה ציבורית מוצהרת לצד התשואה לבעלי המניות, ולא רק למקסם רווח. במקרה של אנתרופיק, המשימה הזו מפוקחת על ידי נאמנות של חמישה אנשים המוסמכת לעצב את הדירקטוריון ולחסום מהלכים מרכזיים בחברה, אך החברה שיתפה מעט מאוד פרטים על הרכבה או על אופן קבלת ההחלטות שלה.\n\n## הסיפור\nאנתרופיק הודיעה שתעביר 5% ממניותיה לקרן תועלת ציבורית חדשה. הדיווחים על התוכנית מציינים שהקרן מיועדת לאפשר תשלומים ישירים לאוכלוסיות שנפגעות משיבושי תעסוקה שמקורם בבינה מלאכותית — למעשה, מאגר מניות שהופרש מראש כדי לפצות אנשים שפרנסתם נפגעת מהטכנולוגיה עצמה שאנתרופיק מוכרת. ההכרזה מגיעה בעת שאנתרופיק מתכוננת למה שמתואר כהנפקה דרמטית בבורסה, ועל רקע ביקורת ציבורית מתמשכת על סיכוני הבטיחות של הבינה המלאכותית ועל הפוטנציאל שלה לייתר משרות בהיקף גדול.\n\n## אפקטים מסדר שני\nהעברת 5% ממניות החברה לפני הנפקה היא מעין מהלך של התחייבות מראש (pre-commitment). היא מדללת (dilution) את החלק שיישאר לבעלי המניות הקיימים ולמי שיקנה בהנפקה — החלק של כולם בחברה מצטמק קצת — אך בתמורה היא קונה ביטוח מדיני ותקשורתי: קשה יותר להאשים חברה שהיא מרוויחה רק על חשבון החברה כשחלק משמעותי מהמניות שלה עצמה מוקצה, מראש, לאנשים שעלולים להינזק ביותר מהמוצר שלה.\n\nהמהלך גם קובע רף שחברות בינה מלאכותית אחרות שמתקרבות להנפקה עשויות לחוש לחץ להתיישר אליו, כך שמחווה של רצון טוב עשויה להפוך לנורמה מתפתחת בענף. למשקיעים, המהלך מעלה שאלות אמיתיות של ממשל תאגידי: מי מנהל את הקרן, מה מפעיל תשלום בפועל, כמה גדול צריך להיות היקף אובדן המשרות בעקבות הבינה המלאכותית כדי שכסף יזוז, ואיך סדרי העדיפויות של הקרן מתיישבים עם הנאמנות הסתומה שכבר מוסמכת לעקוף את הדירקטוריון. לאף אחת מהשאלות האלה אין עדיין תשובה פומבית.\n\nההכרזה גם נופלת על רקע שוק עצבני כלפי בינה מלאכותית בכלל — מניות שבבים נסחרות במגמת ירידה על רקע חששות מימון, וחברות תשתית לבינה מלאכותית ספגו מכות קשות. באקלים הזה, האופן שבו חברת בינה מלאכותית מבנה את הממשל התאגידי שלה ואת ההתחייבויות הציבוריות שלה משפיע ישירות על התמחור שמשקיעים עצבניים ייתנו להנפקה שלה.\n\n## מה לצפות בהמשך\nיש לעקוב אחרי תשקיף ההנפקה ולבדוק אם הממשל התאגידי של הקרן, התנאים להפעלתה והפיקוח עליה יוגדרו באופן רשמי, אם הרכב הנאמנות בת חמשת האנשים יתפרסם לפני שמשקיעים יתבקשו לשים הון, ואם חברות בינה מלאכותית אחרות שבדרך לשוק ההון יכריזו על קרנות דומות משלהן."
+      },
+      "tags": [
+        "anthropic",
+        "ai",
+        "ipo",
+        "equity-dilution"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic commits 5% of shares to ‘public benefit’ fund",
+          "url": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "What to Know About the Obscure Trust Looming Over Anthropic’s IPO",
+          "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund",
+          "url": "https://www.wsj.com/tech/ai/anthropic-to-commit-5-of-its-shares-to-new-public-benefit-fund-3332ef75?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4224.6699,
+      "prev_close": 4156.6802,
+      "change_pct": 1.64,
+      "as_of": "2026-10-16"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7659.4399,
+      "prev_close": 7744.0601,
+      "change_pct": -1.09,
+      "as_of": "2026-10-16"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0966,
+      "prev_close": 3.1031,
+      "change_pct": -0.21,
+      "as_of": "2026-10-19"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 107.94,
+      "prev_close": 109.86,
+      "change_pct": -1.75,
+      "as_of": "2026-10-18"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 82515.6094,
+      "prev_close": 81382.1484,
+      "change_pct": 1.39,
+      "as_of": "2026-10-19"
+    }
+  }
+}

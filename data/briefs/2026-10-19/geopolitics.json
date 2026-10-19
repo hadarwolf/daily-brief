@@ -1,0 +1,113 @@
+{
+  "section": "geopolitics",
+  "date": "2026-10-19",
+  "title_en": "Geopolitics",
+  "title_he": "גיאופוליטיקה",
+  "default_lang": "en",
+  "generated_at": "2026-10-19T04:01:59+00:00",
+  "stories": [
+    {
+      "id": "putin-trump-xi-summit-proposal",
+      "kind": "analysis",
+      "en": {
+        "headline": "Putin Proposes Three-Way Summit With Trump and Xi as Fighting Grinds On",
+        "scroll": "Putin has proposed a Trump-Xi-Putin summit on a Ukraine deal, hours after Trump suspended new Russia sanctions to keep talks alive — even as strikes continue on both sides.",
+        "coffee": "Vladimir Putin has proposed a three-way summit with Donald Trump and Xi Jinping to discuss a deal to end the war in Ukraine, according to the Wall Street Journal. The proposal lands just two days after Trump blocked a fresh round of US sanctions on Russia that were due to take effect, saying the suspension was meant to keep peace negotiations moving.\n\nThe diplomacy is unfolding against continued fighting. A Russian strike hit a Kyiv subway station and killed a woman, while Ukraine carried out one of its biggest drone attacks yet on St Petersburg, hitting oil facilities and tech infrastructure — a reciprocal exchange after Russia had targeted Ukrainian electricity substations. Ukraine's own steel exports, meanwhile, are getting caught up in EU tariffs aimed at China, according to the head of one of the country's largest steel companies, adding economic pressure on Kyiv from an unrelated trade fight.\n\nThe summit proposal suggests Moscow sees an opening to lock in a deal on favorable terms while Washington is willing to ease pressure to keep talks going — but the continued strikes on both sides show neither side has actually stopped fighting while they negotiate.",
+        "deep": "## Background\nThe war in Ukraine has ground on for years without a decisive battlefield outcome, and recent months have seen periodic diplomatic overtures run in parallel with continued strikes. The Trump administration has pushed for a negotiated end to the war, using the threat and relief of sanctions as leverage over Moscow, while Kyiv has leaned on Western backers for both weapons and economic support — support that is itself increasingly entangled with other trade disputes, such as EU tariffs aimed at curbing cheap Chinese imports, which Ukrainian steel producers say are catching their own exports in the crossfire.\n\n## The story\nAccording to the Wall Street Journal, Vladimir Putin has proposed a three-way summit bringing together himself, Donald Trump and Xi Jinping to discuss a deal on Ukraine. The timing is notable: two days before a fresh round of US sanctions on Russia was due to take effect, Trump suspended them, saying the move was meant to keep peace negotiations going rather than let fresh economic pressure derail the talks. Putin's summit proposal can be read as an attempt to capitalize on that opening — folding China into the process gives Moscow a second major power at the table, diluting Western leverage and potentially shaping any deal's terms before Kyiv and its European backers are fully in the room.\n\n## Second-order effects\nEven as this diplomacy plays out, the war itself has not paused. A Russian strike killed a woman and hit a Kyiv subway station, and Ukraine carried out one of its largest drone attacks of the war on St Petersburg, hitting oil facilities and a data centre tied to a major Russian social network — a reciprocal strike that followed Russian attacks on Ukraine's electricity substations. That pattern — talk of summits alongside strikes that keep escalating — is a signature of this war's diplomacy: neither side appears willing to freeze the fighting as a precondition for talking, which means any deal that does emerge will have to be negotiated under continued military pressure rather than during a genuine pause.\n\nThe economic side-effects are spreading too. Ukraine's steel industry — a major source of export revenue and wartime economic resilience — is getting swept up in EU tariffs that were designed to target cheap Chinese steel, not Ukrainian producers. That is a reminder that Ukraine's economic fate is no longer just a function of the war itself, but also of how it gets bundled into other major powers' trade and industrial policy fights.\n\nFor markets, the uncertainty itself has been a driver: the sanctions suspension and the summit talk both fed into a weaker euro and jumpy currency markets, on top of unrelated worries about French political unrest.\n\n## What to watch next\nWatch whether the proposed Trump-Xi-Putin summit actually gets scheduled, what Kyiv and European governments say about being sidelined from a three-way format, whether the sanctions suspension becomes permanent or snaps back, and whether the pattern of strikes on both sides' infrastructure continues even as diplomacy proceeds."
+      },
+      "he": {
+        "headline": "פוטין מציע פסגה משולשת עם טראמפ ושי, בעוד הקרבות נמשכים",
+        "scroll": "פוטין הציע פסגה משולשת עם טראמפ ושי ג'ינפינג על הסכם לאוקראינה, שעות אחרי שטראמפ השעה סנקציות חדשות על רוסיה כדי לשמר את המגעים — וזאת בעת שהתקיפות משני הצדדים נמשכות.",
+        "coffee": "ולדימיר פוטין הציע פסגה משולשת עם דונלד טראמפ ושי ג'ינפינג כדי לדון בהסכם לסיום המלחמה באוקראינה, כך דיווח הוול סטריט ג'ורנל. ההצעה הגיעה יומיים בלבד אחרי שטראמפ חסם סבב סנקציות אמריקאיות חדשות על רוסיה שעמד להיכנס לתוקף, ולדבריו כדי לשמר את המשך מגעי השלום.\n\nהדיפלומטיה הזו מתפתחת על רקע קרבות שלא נפסקים. תקיפה רוסית פגעה בתחנת מטרו בקייב והרגה אישה, בעוד אוקראינה ביצעה אחת מתקיפות הרחפנים הגדולות שלה על סנט פטרסבורג, שפגעה במתקני נפט ובתשתיות טכנולוגיה — תגמול הדדי לאחר שרוסיה תקפה תחנות חשמל אוקראיניות. בינתיים, יצוא הפלדה של אוקראינה עצמו נלכד במכסי המכס של האיחוד האירופי שמטרתם סין, כך לפי מנכ\"ל אחת מחברות הפלדה הגדולות במדינה — עוד לחץ כלכלי על קייב ממאבק סחר שלא קשור ישירות למלחמה.\n\nהצעת הפסגה מרמזת שמוסקבה מזהה הזדמנות לנעול הסכם בתנאים נוחים לה בזמן שוושינגטון מוכנה להקל בלחץ כדי לשמר את המגעים — אך התקיפות הנמשכות משני הצדדים מראות ששום צד לא הפסיק בפועל להילחם בזמן המשא ומתן.",
+        "deep": "## רקע\nהמלחמה באוקראינה נמשכת כבר שנים בלי הכרעה בשטח, ובחודשים האחרונים נראים מגעים דיפלומטיים מתפתחים במקביל להמשך תקיפות. ממשל טראמפ דוחף לסיום המלחמה בדרך של הסכם, ומשתמש באיום הסנקציות ובהקלה בהן כקלף מיקוח מול מוסקבה, בעוד קייב נשענת על גיבוי מערבי גם לנשק וגם לתמיכה כלכלית — תמיכה שהולכת ונקשרת גם היא במחלוקות סחר אחרות, כמו מכסי האיחוד האירופי שנועדו לבלום יבוא סיני זול, אך לפי יצרני פלדה אוקראינים גם היצוא שלהם נלכד בהם.\n\n## הסיפור\nלפי הוול סטריט ג'ורנל, ולדימיר פוטין הציע פסגה משולשת שתאחד אותו, את דונלד טראמפ ואת שי ג'ינפינג לדיון בהסכם על אוקראינה. התזמון בולט: יומיים לפני שסבב סנקציות אמריקאיות חדש על רוסיה היה אמור להיכנס לתוקף, טראמפ השעה אותו, ולדבריו כדי לשמר את מגעי השלום ולא לאפשר ללחץ כלכלי טרי לשבש אותם. את הצעת הפסגה של פוטין אפשר לקרוא כניסיון לנצל את ההזדמנות הזו — שילוב סין בתהליך מעמיד כוח גדול נוסף לצד מוסקבה בשולחן, מדלל את המשקל המערבי ועלול לעצב את תנאי כל הסכם עוד לפני שקייב ותומכיה האירופיים נכנסים לחדר באופן מלא.\n\n## אפקטים מסדר שני\nגם כשהדיפלומטיה הזו מתגלגלת, המלחמה עצמה לא נפסקה. תקיפה רוסית הרגה אישה ופגעה בתחנת מטרו בקייב, ואוקראינה ביצעה אחת מתקיפות הרחפנים הגדולות שלה במלחמה על סנט פטרסבורג, שפגעה במתקני נפט ובמרכז נתונים השייך לרשת חברתית רוסית מרכזית — תקיפת תגמול שהגיעה אחרי תקיפות רוסיות על תחנות חשמל אוקראיניות. התבנית הזו — דיבור על פסגות לצד תקיפות שממשיכות ומחריפות — היא סימן ההיכר של הדיפלומטיה במלחמה הזו: אף צד לא מוכן, כנראה, להקפיא את הלחימה כתנאי מוקדם לשיחות, כך שכל הסכם שבאמת יצא לפועל יצטרך להיווצר תחת המשך לחץ צבאי ולא בהפסקה אמיתית.\n\nגם ההשפעות הכלכליות מתפשטות. תעשיית הפלדה של אוקראינה — מקור מרכזי להכנסות יצוא ולחוסן כלכלי בזמן המלחמה — נגרפת למכסי האיחוד האירופי שנועדו למעשה לבלום פלדה סינית זולה, לא ייצור אוקראיני. זו תזכורת לכך שגורלה הכלכלי של אוקראינה כבר אינו פועל רק בגזרת המלחמה עצמה, אלא גם באופן שבו הוא נשזר במאבקי סחר ותעשייה של מעצמות אחרות.\n\nגם בשווקים חוסר הוודאות עצמו היה גורם משפיע: השעיית הסנקציות ודיבורי הפסגה הזינו יחד יורו חלש ושווקי מטבע עצביים, בנוסף לחששות לא קשורים מהמהומות הפוליטיות בצרפת.\n\n## מה לצפות בהמשך\nיש לעקוב אחרי השאלה אם פסגת טראמפ-שי-פוטין המוצעת תיקבע בפועל, מה יגידו קייב והממשלות האירופיות על הדחה לשוליים מתבנית משולשת שאינה כוללת אותן, אם השעיית הסנקציות תהפוך לקבועה או תוחזר לתוקף, ואם תבנית התקיפות ההדדית בתשתיות משני הצדדים תימשך גם בזמן שהדיפלומטיה מתקדמת."
+      },
+      "tags": [
+        "russia",
+        "ukraine",
+        "trump",
+        "sanctions"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Russian strike kills woman, hits Kyiv subway station, mayor says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWI4ZTdFVmJ0YTg2Qm1fS3FhRFJCTEp1a1B3UlpSVW00T2dUR2NPZVg3VlZyUldmZmx4U1dKMUU0RDU5Q1N4anFadmVGTHYtYnF2bGhqWjlSRnpTRU9ra21uNklqMlFCZFBuRHRNYXQ4Wk1RNXBoMjRkTHVhZWVHWTBqVXFvcXBWRmk4bHh4b3Y1bFVpZ2FGbWdBaDZTQTNaZWdudzdoYXhsS1JITWpPcA?oc=5"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "france-unrest-pre-election",
+      "kind": "analysis",
+      "en": {
+        "headline": "France's Worst Unrest in Years Breaks Out Six Months Before a Pivotal Election",
+        "scroll": "Nationwide riots, looting and arson across France — including a historic town hall set alight in Limoges — have forced Macron to address the nation, six months before a closely watched presidential election.",
+        "coffee": "Violent protests broke out across France over the weekend, with cars and buildings set ablaze, shops looted in Paris, and a historic town hall in Limoges damaged by an apparent arson attack reminiscent of the Notre Dame fire. President Emmanuel Macron addressed the nation afterward, calling for \"calm and order\" and blaming a mix of looters and far-left elements for the disorder, while promising to pursue those responsible.\n\nThe unrest comes six months before a French presidential election that is already being closely watched across Europe, and it is landing at a politically fragile moment: Macron's government has faced criticism over its handling of the disorder, with opposition figures on both the far right and far left attacking his response. The disorder has also spilled beyond Paris, with police clashing with protesters in Milan and masked groups attempting to storm shops in Lyon.\n\nThe unrest is already showing up in markets — the euro weakened against other major currencies as traders weighed the risk that prolonged instability in one of the eurozone's largest economies could compound existing worries about France's fiscal health heading into an unpredictable election year.",
+        "deep": "## Background\nFrance has been edging toward its next presidential election, due within the next year, against a backdrop of economic strain, cost-of-living anger and long-running friction over schools and public services. President Macron, in the final stretch of his presidency, has faced sustained criticism over his government's handling of public finances and social tension, and French politics has grown increasingly polarized between a resurgent far right and a combative far left.\n\n## The story\nThis past weekend, protests against conditions in schools and the cost of living turned violent across the country. Cars and buildings were set alight, shops were looted in Paris, and in Limoges a historic town hall was damaged in what residents describe as an apparent arson attack — a scene some locals compared to the 2019 Notre Dame fire. Macron addressed the nation afterward, calling for \"calm and order,\" blaming the violence on a combination of opportunistic looters and far-left agitators, and promising that those responsible for the disorder would face the full force of the law. Opposition politicians attacked the response from multiple directions — with some arguing the government lost control of the streets, and others arguing the unrest reflects deeper failures of Macron's domestic policy.\n\n## Second-order effects\nThe unrest lands at a particularly sensitive moment politically: a presidential election is roughly six months away, and how Macron and the government are seen to have handled a weekend of national disorder will shape the political narrative heading into that vote. Images of a historic town hall in flames and looted shops in the capital are the kind of scenes that opposition campaigns, on both the left and the right, can use to argue the current government has lost control.\n\nThe disorder also has a cross-border echo: police clashed with protesters in Milan on a second day of unrest there, and masked groups in Lyon attempted to break into shops, suggesting some of the volatility is resonating beyond France's own borders, even if the underlying grievances differ by country. For markets, instability in one of the eurozone's largest economies compounds existing concerns about French government finances; the euro weakened against its major peers as traders factored in both the unrest and lingering worries about fiscal risk tied to Russia and the broader security picture in Europe.\n\n## What to watch next\nWatch whether Macron's government faces a no-confidence push or cabinet reshuffle in response to the unrest, whether the violence recurs in the coming weeks as economic grievances remain unresolved, how the major presidential candidates position themselves on law-and-order versus social-policy explanations for the unrest, and whether ratings agencies or bond markets react to the added political instability layered on top of France's existing fiscal strain."
+      },
+      "he": {
+        "headline": "המהומות החריפות בצרפת מזה שנים פורצות חצי שנה לפני בחירות גורליות",
+        "scroll": "מהומות, ביזה והצתות פורעים ברחבי צרפת — כולל הצתת בניין עירייה היסטורי בלימוז' — הכריחו את מקרון לפנות לאומה, חצי שנה לפני בחירות נשיאותיות שכל אירופה עוקבת אחריהן.",
+        "coffee": "מהומות אלימות פרצו ברחבי צרפת בסוף השבוע: מכוניות ובניינים הוצתו, חנויות נבזזו בפריז, ובניין עירייה היסטורי בלימוז' ניזוק בהצתה לכאורה שהזכירה לתושבים את שריפת נוטרדאם. הנשיא עמנואל מקרון פנה לאחר מכן לאומה, קרא ל\"שלווה וסדר\" והטיל את האשמה על שילוב של בוזזים ושל גורמי שמאל קיצוני, והבטיח להעמיד לדין את האחראים.\n\nהמהומות פורצות חצי שנה לפני בחירות נשיאותיות בצרפת שכבר נמצאות במוקד תשומת הלב של אירופה, ובעיתוי פוליטי רגיש: ממשלת מקרון ספגה ביקורת על ההתמודדות שלה עם ההפרות, ופוליטיקאים מהאופוזיציה, מהימין הקיצוני ומהשמאל הקיצוני, תקפו את תגובתה. ההתפרעויות גלשו גם אל מעבר לפריז, עם התנגשויות בין משטרה למפגינים במילאנו ונסיונות של קבוצות רעולות לפרוץ לחנויות בליון.\n\nהמהומות כבר משתקפות בשווקים — היורו נחלש מול מטבעות מרכזיים אחרים, כשסוחרים שוקלים את הסיכון שחוסר יציבות מתמשך באחת מהכלכלות הגדולות באזור האירו יחמיר חששות קיימים ממצבה הפיסקלי של צרפת לקראת שנת בחירות לא צפויה.",
+        "deep": "## רקע\nצרפת מתקרבת לבחירות הנשיאותיות הבאות שלה, הצפויות בתוך השנה הקרובה, על רקע מתח כלכלי, זעם על יוקר המחיה וחיכוך ארוך טווח סביב מצב בתי הספר והשירותים הציבוריים. הנשיא מקרון, בשלב האחרון של כהונתו, ספג ביקורת מתמשכת על אופן הטיפול של ממשלתו בכספי הציבור ובמתחים חברתיים, והפוליטיקה הצרפתית הפכה מקוטבת יותר ויותר בין ימין קיצוני מתעורר לשמאל קיצוני תוקפני.\n\n## הסיפור\nבסוף השבוע האחרון, מחאות על מצב מערכת החינוך ועל יוקר המחיה הפכו אלימות ברחבי המדינה. מכוניות ובניינים הוצתו, חנויות נבזזו בפריז, ובלימוז' ניזוק בניין עירייה היסטורי בהצתה לכאורה — תמונה שתושבים מקומיים השוו לשריפת נוטרדאם ב-2019. מקרון פנה לאחר מכן לאומה, קרא ל\"שלווה וסדר\", הטיל את האחריות לאלימות על שילוב של בוזזים אופורטוניסטים וגורמי שמאל קיצוני, והבטיח שהאחראים להתפרעויות יועמדו לדין במלוא חומרת החוק. פוליטיקאים מהאופוזיציה תקפו את התגובה מכיוונים שונים — חלקם טענו שהממשלה איבדה שליטה ברחובות, ואחרים טענו שהמהומות משקפות כשלים עמוקים יותר במדיניותו הפנימית של מקרון.\n\n## אפקטים מסדר שני\nהמהומות מגיעות ברגע פוליטי רגיש במיוחד: הבחירות הנשיאותיות מרוחקות כחצי שנה, והאופן שבו מקרון והממשלה נתפסים כמי שהתמודדו עם סוף שבוע של מהומות לאומיות יעצב את השיח הפוליטי לקראת ההצבעה. תמונות של בניין עירייה היסטורי עולה באש וחנויות נבזזות בבירה הן בדיוק מהסוג שקמפיינים של האופוזיציה, מימין ומשמאל, יכולים להשתמש בהן כדי לטעון שהממשלה הנוכחית איבדה שליטה.\n\nלמהומות יש גם הד חוצה גבולות: המשטרה התנגשה עם מפגינים במילאנו ביום השני של המהומות שם, וקבוצות רעולות פנים בליון ניסו לפרוץ לחנויות — סימן לכך שחלק מהתסיסה מהדהד אל מעבר לגבולות צרפת, גם אם הטענות שבבסיסה שונות ממדינה למדינה. בשווקים, חוסר היציבות באחת הכלכלות הגדולות באזור האירו מחריף חששות קיימים לגבי מצב הכספים הציבוריים של צרפת; היורו נחלש מול מטבעות מרכזיים אחרים כששוקי המטבע תמחרו גם את המהומות וגם חששות מתמשכים מסיכון פיסקלי הקשור ברוסיה ובתמונת הביטחון הכוללת באירופה.\n\n## מה לצפות בהמשך\nיש לעקוב אחרי השאלה אם ממשלת מקרון תעמוד בפני הצבעת אי-אמון או שינוי בהרכב הממשלה כתגובה למהומות, אם האלימות תחזור בשבועות הקרובים כל עוד הטענות הכלכליות שבבסיסה לא נפתרות, איך מועמדי הנשיאות המרכזיים ימצבו את עצמם בין הסברי חוק וסדר להסברים של מדיניות חברתית, ואם סוכנויות הדירוג או שוקי האג\"ח יגיבו לחוסר היציבות הפוליטית המצטבר על המתח הפיסקלי הקיים בצרפת."
+      },
+      "tags": [
+        "france",
+        "macron",
+        "protests",
+        "2027-election"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Macron calls for 'calm and order' after riots across France",
+          "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Parisians wake up to protest damage and looted shops",
+          "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "How day of protests unfolded as disorder breaks out across France",
+          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Dollar firmer, euro weakens as French protests turn violent - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5"
+        }
+      ]
+    }
+  ]
+}

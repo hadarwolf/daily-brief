@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-19",
+  "questions": [
+    {
+      "id": "quiz-putin-summit-proposal",
+      "section": "geopolitics",
+      "story_id": "putin-trump-xi-summit-proposal",
+      "answer_index": 0,
+      "en": {
+        "question": "What did Vladimir Putin propose, according to the Wall Street Journal?",
+        "options": [
+          "A three-way summit with Trump and Xi to discuss a deal ending the war in Ukraine",
+          "Unconditional withdrawal of all Russian troops from Ukraine",
+          "A new round of sanctions against Ukraine",
+          "A bilateral meeting with Xi Jinping only, excluding the US"
+        ],
+        "explanation": "Putin proposed a three-way summit with Trump and Xi to discuss ending the war in Ukraine, according to the Wall Street Journal."
+      },
+      "he": {
+        "question": "מה הציע ולדימיר פוטין, לפי דיווח הוול סטריט ג'ורנל?",
+        "options": [
+          "פסגה משולשת עם טראמפ ושי ג'ינפינג לדיון בהסכם לסיום המלחמה באוקראינה",
+          "נסיגה מלאה וללא תנאים של הכוחות הרוסים מאוקראינה",
+          "סבב סנקציות חדש נגד אוקראינה",
+          "פגישה דו-צדדית עם שי ג'ינפינג בלבד, ללא השתתפות ארה\"ב"
+        ],
+        "explanation": "פוטין הציע פסגה משולשת עם טראמפ ושי כדי לדון בהסכם לסיום המלחמה באוקראינה, כך דיווח הוול סטריט ג'ורנל."
+      }
+    },
+    {
+      "id": "quiz-trump-netanyahu-endorsement",
+      "section": "israeli_politics",
+      "story_id": "trump-endorses-netanyahu-election",
+      "answer_index": 1,
+      "en": {
+        "question": "What did Trump say would happen if Netanyahu does not win the Israeli election?",
+        "options": [
+          "The US would cut off all aid to Israel",
+          "America would have to \"do the job in Iran itself\"",
+          "The US would recognize a Palestinian state",
+          "He would ask Israel to hold a new election immediately"
+        ],
+        "explanation": "Trump warned that if Netanyahu doesn't win, \"America will have to do the job in Iran itself.\""
+      },
+      "he": {
+        "question": "מה אמר טראמפ שיקרה אם נתניהו לא ינצח בבחירות בישראל?",
+        "options": [
+          "ארה\"ב תפסיק את כל הסיוע לישראל",
+          "אמריקה תצטרך \"לעשות את העבודה באיראן בעצמה\"",
+          "ארה\"ב תכיר במדינה פלסטינית",
+          "הוא יבקש מישראל לקיים בחירות חדשות באופן מיידי"
+        ],
+        "explanation": "טראמפ הזהיר שאם נתניהו לא ינצח, \"אמריקה תצטרך לעשות את העבודה באיראן בעצמה.\""
+      }
+    },
+    {
+      "id": "quiz-anthropic-benefit-fund",
+      "section": "business",
+      "story_id": "anthropic-public-benefit-fund",
+      "answer_index": 0,
+      "en": {
+        "question": "What did Anthropic commit to doing ahead of its planned stock market listing?",
+        "options": [
+          "Donating 5% of its shares to a fund that can compensate people hurt by AI-driven job losses",
+          "Cutting 5% of its workforce to improve margins",
+          "Capping executive pay at 5% of revenue",
+          "Giving 5% of voting rights to a workers' union"
+        ],
+        "explanation": "Anthropic said it will commit 5% of its shares to a new \"public benefit\" fund that can send distributions to people affected by AI-driven labor disruption."
+      },
+      "he": {
+        "question": "על מה התחייבה אנתרופיק לפני ההנפקה המתוכננת שלה בבורסה?",
+        "options": [
+          "לתרום 5% ממניותיה לקרן שתוכל לפצות אנשים שנפגעו מאובדן משרות בעקבות בינה מלאכותית",
+          "לקצץ 5% מכוח העבודה שלה כדי לשפר את הרווחיות",
+          "להגביל את שכר המנהלים ל-5% מההכנסות",
+          "להעניק 5% מזכויות ההצבעה לאיגוד עובדים"
+        ],
+        "explanation": "אנתרופיק הודיעה שתעביר 5% ממניותיה לקרן \"תועלת ציבורית\" חדשה שתוכל לשלם לאנשים שנפגעו משיבושי תעסוקה הנובעים מבינה מלאכותית."
+      }
+    }
+  ]
+}
