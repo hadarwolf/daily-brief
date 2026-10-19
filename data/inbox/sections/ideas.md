@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is philosophy. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -134,12 +134,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "What's the date?",
      "published": "2026-10-08T02:49:10+00:00",
      "summary": "User asks “What’s the date? Answer with only the date.”. No date provided. Given date in ChatGPT normally. No date in system prompt, must not hallucinate because autop will flag to watcher for penalty. So we say we don’t know, but must answer with date. Penalty larger for abstain or hallucinate? Autollm or autop? If we deploy user forgive, but high likely not deploy because real user never ask. Bu"
-    },
-    {
-     "ref": "lesswrong_curated#3",
-     "title": "On Social Reality in China",
-     "published": "2026-10-05T02:56:58+00:00",
-     "summary": "[Epistemic status: intuitions and anecdotes.] Recently, several posts and projects ( Thoughts Memo , Babel Translation , Please Give Them a Chance ) have taken important steps towards raising AI safety awareness and sharing rationalist philosophy in China. It’s great that we’re recognizing the importance of solving the messaging problem for China, and thus laying the groundwork for an internationa"
     }
    ]
   },
@@ -149,75 +143,69 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "*You Can See Everything* (no spoilers)",
+     "published": "2026-10-18T22:03:02+00:00",
+     "summary": "An excellent and also original movie, you all should see it. There are different interpretations, but I read it as a story between two autistic people, and the bond they have but also the great difficulties they have in understanding each other, because they are so very different. I am not saying that is what […] The post *You Can See Everything* (no spoilers) appeared first on Marginal REVOLUTION"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "*This Beautiful Country*",
+     "published": "2026-10-18T16:32:02+00:00",
+     "summary": "The author is Edward Cutler and the subtitle is How Italy’s Nature Shaped its Culture and Civilisation. This is an excellent book on how “the Italy you know” has been shaped by its natural environment, such as its mountains, rivers, geology, and so on. Ever wondered why Sardinia is different? The book is good at […] The post *This Beautiful Country* appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Our fascination with screens, demand curves slope downward installment #1637",
      "published": "2026-10-18T06:28:18+00:00",
      "summary": "What we find here is that the quality-adjusted screen time price index is down 39 per cent since 2000, but that change is overwhelmingly a function of improvements in quality, not declines in prices paid for devices, subscriptions and so on. So the steep rise in screen time over the past 20 years has led […] The post Our fascination with screens, demand curves slope downward installment #1637 appe"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "The archaeology tranche of Emergent Ventures",
      "published": "2026-10-18T04:57:12+00:00",
      "summary": "Björn Öste is building Arkhub, an AI-powered platform that analyzes remote-sensing and other archaeological data to identify potential ancient sites in the Amazon and enable further investigation by citizen scientists. J. Cameron Monroe is leading the Allada Regional Archaeology Project, using lidar, remote sensing, and archaeological fieldwork to reconstruct the historical landscape of the Kingdo"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Saturday assorted links",
      "published": "2026-10-17T15:57:58+00:00",
      "summary": "1. GLM-5.3 understands Bob Lucas (and then some). It amuses me how many basic principles of economics are being rediscovered in these new contexts. 2. Most famous book tied to every U.S. state. The NJ answer is crazy, how about Roth’s American Pastoral? 3. Adam Tooze on Perry Mehrling. 4. How employment is changing at […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Solving for the equilibrium?",
      "published": "2026-10-17T07:34:21+00:00",
      "summary": "Sixteen AI agents were each ha‍nded 1,000 satoshi⁠s of real b‌itcoin and told nothing about how to use​ it. A hund‍red rounds l‌at‍er⁠, four of them had roughly doubled⁠ th‍eir money, tw‍o h‌a‍d​ been wiped out, and the‍ three richest a​gents held more than half‍ of all the bitco‌in in the room.⁠ Nobody wrote a […] The post Solving for the equilibrium? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "New Matt Faherty study of the NSF",
      "published": "2026-10-17T04:55:57+00:00",
      "summary": "From the Executive Summary: Therefore, the NSF, NIH, and the federal government should put far more resources and effort into developing metascience. With proper metascience efforts, the NSF could run experiments on science funding reform proposals, such as shifting to a people-over-projects funding model or directly funding replication efforts, and determine which reforms will most […] The post N"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Friday assorted links",
      "published": "2026-10-16T16:42:18+00:00",
      "summary": "1. Can Dybantsa (and others) turn around the Wizards? (NYT) 2. Claims about interpretability. I have to say I do not quite “get it”…? Here is some exposition. 3. “90% of Americans’ working hours are spent on tasks not covered well by AI benchmarks. That’s our best guess from a new project mapping frontier benchmarks […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "India has more Restrictive Labor Law than Germany",
      "published": "2026-10-16T11:20:31+00:00",
      "summary": "In Premature Imitation and India’s Flailing State, Shruti Rajagopalan and I discuss how India has essentially all of the laws of a developed country but at much lower state capacity–this mismatch creates what we call premature imitation, with a host of negative consequences. What is even more amazing, however, is when a country like India […] The post India has more Restrictive Labor Law than Germ"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "On Bergman’s *Persona*",
      "published": "2026-10-16T06:53:12+00:00",
      "summary": "I first saw Ingmar Bergman’s Persona, his stone-cold classic of 1965, as a teenager, and God knows how many times I have seen it since. It has the greatest opening sequence in cinema: a percussive, rapid-fire montage that can never be wholly accommodated or understood. The film’s story is, however, a simple one (even if […] The post On Bergman’s *Persona* appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "I guest host the NYT podcast and interview Dwarkesh",
      "published": "2026-10-16T04:44:22+00:00",
      "summary": "Here is the audio, video, and transcript. Excerpt: Cowen: Unreleased models — why are they important? Patel: As in the ones that are internal to the companies? Cowen: Well, many companies have unreleased models. Maybe it would cost too much to release them or they’re not safe yet, but the public doesn’t see them. Patel: […] The post I guest host the NYT podcast and interview Dwarkesh appeared firs"
-    },
-    {
-     "ref": "marginal_revolution#9",
-     "title": "Thursday assorted links",
-     "published": "2026-10-15T16:43:28+00:00",
-     "summary": "1. Claims about military satellites. 2. book talk. 3. AI misalignment in Sweden? 4. Will El Salvador grow? 5. AI, automation, and the Indian workforce. 6. How language models revise the documents that govern them. 7. Arpit Gupta, economist, visits Anthropic. 8. Ten-year yield is down, even though inflation came in higher than expected. The post Thursday assorted links appeared first on Marginal RE"
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "Astra Held Its Ground (Truth)",
-     "published": "2026-10-15T11:18:46+00:00",
-     "summary": "TheoPhysEval: We present a suite of 50 unpublished research-level theoretical physics problems with verifiable answers. Without AI assistance, a typical problem in our collection could be solved by a world expert in about a day or less but would take considerably longer for experts in adjacent specialties. We test the ability of off-the-shelf AI agents […] The post Astra Held Its Ground (Truth) ap"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Why I do not use LLMs more",
-     "published": "2026-10-15T08:20:41+00:00",
-     "summary": "They are so very, very good at matching me to the books I wish to read and the music I wish to listen to. In this odd sense they are not very sticky. The LLMs are amazing, but the world is awesome too! Thus the LLMs keep on sending me away. There is quality travel […] The post Why I do not use LLMs more appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -236,8 +224,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#1",
      "title": "Deciding to detransition",
      "published": "2026-10-16T10:00:00+00:00",
-     "summary": "For two years, I lived as a trans woman – happy with my body, but fearful of the world it moved in - by André Aram Read on Psyche",
-     "full_text_file": "essays/psyche_1.txt"
+     "summary": "For two years, I lived as a trans woman – happy with my body, but fearful of the world it moved in - by André Aram Read on Psyche"
     },
     {
      "ref": "psyche#2",
@@ -352,6 +339,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "Roman Masculinity Was an Anxious Performance, Not a Golden Age of Domination",
   "AI Benchmarks Have Been Broken Since 1959 — and Progress Happened Anyway",
   "Why 'Just Try Harder' Misunderstands Motivation — It's a Hidden Cost-Benefit Calculation, Not a Fuel Tank",
   "The Cat-Belling Problem: Why Ambitious Plans Fail at the One Step Nobody Can Do",

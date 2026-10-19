@@ -24,134 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2019,
-   "text": "Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.",
+   "year": 2017,
+   "text": "Canadian astronomer Robert Weryk discovered ʻOumuamua (depicted), the first known interstellar object detected passing through the Solar System.",
    "context": [
-    "Santiago, also known as Santiago de Chile, is the capital and largest city of Chile and one of the largest cities in the Americas. Located in the Chilean Central Valley within the Santiago Basin, between the Andes to the east and the Chilean Coastal Range to the west, it anchors the Santiago Metropolitan Region and its conurbation of Greater Santiago, which comprises more than forty communes and concentrates over a third of the national population and around 45% of Chile's GDP. Most of the city lies between 500 and 650 meters above sea level, with recent urban growth extending into the Andean foothills."
+    "Robert J. Weryk is a Canadian physicist and astronomer. He currently works at the University of Hawaiʻi at Mānoa, where he discovered the first known interstellar object, ʻOumuamua. He has also published numerous articles on meteors and other astronomical topics."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1993,
-   "text": "Nihilism, the first professional runway show from the British designer Alexander McQueen, was staged in London.",
+   "year": 2013,
+   "text": "British YouTube collective the Sidemen were formed as a Rockstar Games Social Club group in Grand Theft Auto Online.",
    "context": [
-    "Nihilism is the third collection by British designer Alexander McQueen, released for the Spring/Summer 1994 season of his eponymous fashion house. McQueen developed the collection following the launch of his own label with Taxi Driver, which was exhibited in March 1993 at the Ritz Hotel in London in lieu of a fashion show. An eclectic collection with no straightforward theme, Nihilism pushed back against dominant womenswear trends with its hard tailoring, and aggressive, sexualised styling. It was created in collaboration with McQueen's associates Simon Ungless and Fleet Bigwood. Like Taxi Driver, Nihilism included experimental techniques, silhouettes, and materials, such as dresses made from cellophane, stained with clay, or adorned with dead locusts."
+    "YouTube is an American online video-sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, all of whom were former employees at PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google itself. In January 2024, YouTube had reached more than 2.7 billion monthly active users, who collectively watched more than one billion hours of video every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of video per minute, and as of mid-2024, there were approximately 14.8 billion videos in total."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1968,
-   "text": "At the Summer Olympics in Mexico City, American athlete Bob Beamon (pictured) achieved a distance of 8.90 m (29.2 ft) in the long jump event, setting a world record that stood for 23 years.",
+   "year": 2005,
+   "text": "Hurricane Wilma (pictured) became the most intense Atlantic hurricane on record with a minimum atmospheric pressure of 882 mbar (26.05 inHg).",
    "context": [
-    "The 1968 Summer Olympics, officially known as the Games of the XIX Olympiad and officially branded as Mexico 1968, were an international multi-sport event held from 12 to 27 October 1968, in Mexico City, Mexico. These were the first Olympic Games to be staged in Latin America, the first to be staged in a Spanish-speaking country, and the first to be staged in the Global South. Consequently, these games also marked the first time that there would be a gap of two Olympic Games not to be held in Europe. They were also the first Games to use an all-weather (smooth) track for track and field events instead of the traditional cinder track, as well as the first example of the Olympics exclusively using electronic timekeeping equipment."
+    "Hurricane Wilma was the most intense tropical cyclone in the Atlantic basin and the second-most intense tropical cyclone in the Western Hemisphere, both based on barometric pressure, after Hurricane Patricia in 2015. Wilma's rapid intensification led to a 24-hour pressure drop of 97 mbar (2.9 inHg), setting a new basin record. At its peak, Hurricane Wilma's eye contracted to a record minimum diameter of 2.3 mi (3.7 km). In the record-breaking 2005 Atlantic hurricane season, Wilma was the twenty-second storm, thirteenth hurricane, sixth major hurricane, and fourth Category 5 hurricane, and was the second costliest hurricane in Mexican history, behind Hurricane Otis in 2023."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1967,
-   "text": "The Soviet space probe Venera 4 became the first spacecraft to perform direct in situ analysis of the environment of another planet (Venus).",
+   "year": 1988,
+   "text": "The British government restricted the broadcast of the voices of representatives from Sinn Féin and several Irish republican and loyalist paramilitary groups on television and radio.",
    "context": [
-    "Venera 4, also designated 4V-1 No.310, was a probe in the Soviet Venera program for the exploration of Venus. The probe comprised a lander, designed to enter the Venusian atmosphere and parachute to the surface, and a carrier/flyby spacecraft, which carried the lander to Venus and served as a communications relay for it."
+    "From October 1988 to September 1994 the British government banned broadcasts of the voices of representatives from Sinn Féin and ten other Irish republican and loyalist groups on television and radio in the United Kingdom. The restrictions, announced by the Home Secretary, Douglas Hurd, on 19 October 1988, followed a heightened period of violence in the course of the Troubles, and reflected the UK government's belief in a need to prevent these groups from using the media for political advantage."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1963,
-   "text": "The first cat in space, later known as Félicette, launched aboard a French Véronique rocket.",
+   "year": 1987,
+   "text": "Iran–Iraq War: U.S. Navy forces destroyed two Iranian oil platforms in the Persian Gulf in response to an Iranian missile attack on a Kuwaiti oil tanker three days earlier.",
    "context": [
-    "Félicette was a Parisian cat that became the first feline launched into space on 18 October 1963 as part of the French space program. She was one of 14 female cats trained for spaceflight. The cats had electrodes implanted into their skulls to monitor their neurological activity throughout the flight. During the flight, electrical impulses were applied to the brain and a leg to stimulate responses. The capsule was recovered 13 minutes after the rocket was ignited. Most of the data from the mission was of good quality, and Félicette survived the flight but was euthanised two months later for the examination of her brain."
+    "The Iran–Iraq War, also called the First Imposed War, Eight-Year War, or Sacred Defense by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths, making it the deadliest conventional war ever fought between regular armies of developing countries."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1943,
-   "text": "Pere Areny, convicted of the murder of his brother, became the last person to be executed by Andorra.",
+   "year": 1987,
+   "text": "The Dow Jones Industrial Average fell by 22.6 percent on Black Monday, the largest one-day percentage decline in the stock market index's history.",
    "context": [
-    "Pere Areny Aleix was an Andorran man who was the last person to be executed by Andorra."
+    "The Dow Jones Industrial Average (DJIA), Dow Jones, or simply the Dow, is a stock market index tracking the stock performance of 30 large companies listed on stock exchanges in the United States. It is named after founder Charles Dow and his business associate, statistician Edward Jones. It is maintained by S&P Dow Jones Indices and its components are selected by a committee."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1906,
-   "text": "The Robert Burns Memorial Statue, the first public statue erected in New Brunswick, was dedicated in Fredericton.",
+   "year": 1965,
+   "text": "A group of ethnic Hutu military officers failed in their attempt to overthrow the Burundian government.",
    "context": [
-    "The Robert Burns Memorial Statue is a monumental statue in Fredericton, New Brunswick, Canada. It was designed by Scottish sculptor William Grant Stevenson and dedicated in 1906. It currently stands on the Green, a park adjacent to the Saint John River, near Christ Church Cathedral. It consists of a bronze statue of the Scottish poet Robert Burns atop a granite pedestal. Ornaments on the pedestal include bronze panels depicting scenes from some of Burns's works."
+    "The Hutu, also known as the Abahutu, are a Bantu ethnic group native to the African Great Lakes region. They primarily live in Rwanda, Burundi, Uganda, and the eastern parts of the Democratic Republic of the Congo, where they form one of the principal ethnic groups alongside the Tutsi and the Great Lakes Twa."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1887,
-   "text": "Johannes Brahms (pictured) conducted the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.",
+   "year": 1965,
+   "text": "Vietnam War: The Siege of Plei Me began with the first major confrontation between soldiers of the North Vietnamese Army and the U.S. Army.",
    "context": [
-    "Johannes Brahms was a German composer, pianist, and conductor of the mid-Romantic period. His music features expressive counterpoint, freer dissonance, rhythmic vitality, and traditional forms. His works include four symphonies, four concertos, a Requiem, much chamber music, and hundreds of folk-song arrangements and Lieder."
+    "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1873,
-   "text": "Renton defeated Kilmarnock 2–0 in the opening match of the inaugural Scottish Cup.",
+   "year": 1955,
+   "text": "At a meeting of its general assembly, the European Broadcasting Union approved the staging of the first Eurovision Song Contest.",
    "context": [
-    "Renton Football Club was a football club based in Renton, West Dunbartonshire, Scotland. Formed in 1872, it was a prominent team in the early history of Scottish football, and was one of the teams that featured in the first ever Scottish Cup fixture. It won the competition twice, in 1885 and 1888, and was also runners-up three times. Its 6–1 win against Cambuslang in 1888 is the joint record win in a Scottish Cup final."
+    "The European Broadcasting Union is an alliance of public service media organisations in countries within the European Broadcasting Area (EBA) or who are members of the Council of Europe or to the observers to the Council whose public service broadcasting values align with those of the EBU. As of 2026, it is made up of 115 member organisations from 57 countries, 27 associate members from a further 17 countries, 1 ancillary member, and 6 approved participants. It was established in 1950, and has its administrative headquarters in Geneva."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1775,
-   "text": "American Revolutionary War: In an act of retaliation against ports that supported Patriot activities in the early stages of the war, the Royal Navy destroyed what is now Portland, Maine.",
+   "year": 1944,
+   "text": "The Guatemalan Revolution began with a small group of army officers led by Francisco Javier Arana and Jacobo Árbenz launching a coup against dictator Jorge Ubico.",
+   "context": [
+    "The period in the history of Guatemala between the coups against Jorge Ubico in 1944 and Jacobo Árbenz in 1954 is known locally as the Revolution. It has also been called the Ten Years of Spring, highlighting the peak years of representative democracy in Guatemala from 1944 until the end of the civil war in 1996. It saw the implementation of social, political, and especially agrarian reforms that were influential across Latin America."
+   ]
+  },
+  {
+   "ref": "wikipedia#10",
+   "year": 1943,
+   "text": "World War II: Allied aircraft sank the German cargo ship Sinfra, killing mostly Italian POWs.",
+   "context": [
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+   ]
+  },
+  {
+   "ref": "wikipedia#11",
+   "year": 1914,
+   "text": "First World War: Allied forces began engaging German troops at the First Battle of Ypres.",
+   "context": [
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
+   ]
+  },
+  {
+   "ref": "wikipedia#12",
+   "year": 1864,
+   "text": "American Civil War: Despite incurring nearly twice as many casualties as the Confederates, the Union army emerged victorious at the Battle of Cedar Creek.",
+   "context": [
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+   ]
+  },
+  {
+   "ref": "wikipedia#13",
+   "year": 1781,
+   "text": "American Revolutionary War: British forces led by Lord Cornwallis officially surrendered to Franco-American forces under George Washington and the comte de Rochambeau, ending the Siege of Yorktown.",
    "context": [
     "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 had led King George III and much of the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British monarchy acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   },
   {
-   "ref": "wikipedia#10",
-   "year": 1748,
-   "text": "The War of the Austrian Succession ended with the signing of the Treaty of Aix-la-Chapelle.",
-   "context": [
-    "The War of the Austrian Succession, 1740 to 1748, was a conflict between the European great powers, fought primarily in Europe, the Atlantic Ocean and Mediterranean Sea. Related conflicts include King George's War, the War of Jenkins' Ear, the First Carnatic War, and the First and Second Silesian Wars."
-   ]
-  },
-  {
-   "ref": "wikipedia#11",
-   "year": 1587,
-   "text": "Filipino sailors disembarked from the Manila galleon Nuestra Señora de Buena Esperanza in what is now Morro Bay, California, the first documented instance of Asians in the Americas.",
-   "context": [
-    "Filipinos are citizens or people identified and related with the country or sovereign state of the Philippines. Filipinos come from various Austronesian peoples, all typically speaking Filipino, English, or other Philippine languages. Despite formerly being subject to Spanish administration, less than 1% of Filipinos are fluent in Spanish. Currently, there are more than 185 ethnolinguistic groups in the Philippines each with its own language, identity, culture, tradition, and history."
-   ]
-  },
-  {
-   "ref": "wikipedia#12",
-   "year": 1565,
-   "text": "The first recorded naval battle between Europeans and the Japanese occurred when a flotilla of samurai attacked two Portuguese trade vessels at the Battle of Fukuda Bay in Nagasaki.",
-   "context": [
-    "The samurai  were members of the professional warrior class in pre-industrial Japan, who served as retainers to the lords. These men came from warrior families and trained from a young age in military arts through private instruction. Swordsmanship, archery, and horsemanship were the primary martial skills; and often in Japanese history, only samurai had the right to even possess these weapons. These weapons required years of training to master, and this commitment made the samurai superior to conscripts and militia, the latter who were typically given only days of training. The samurai also studied literature, calligraphy, and Confucian philosophy, befitting their roles as bureaucrats under the shoguns."
-   ]
-  },
-  {
-   "ref": "wikipedia#13",
-   "year": 1356,
-   "text": "The most significant earthquake to have occurred in Central Europe in recorded history destroyed Basel, Switzerland.",
-   "context": [
-    "The 1356 Basel earthquake is the most significant seismological event to have occurred in Central Europe in recorded history and had a moment magnitude in the range of 6.0–7.1. This earthquake, which occurred on 18 October 1356, is also known as the Sankt-Lukas-Tag Erdbeben, as 18 October is the feast day of Saint Luke the Evangelist."
-   ]
-  },
-  {
    "ref": "wikipedia#14",
-   "year": 1081,
-   "text": "Byzantine–Norman wars: Robert Guiscard led an invasion of the Byzantine Empire, capturing Dyrrhachium in present-day Albania.",
+   "year": 1752,
+   "text": "The Pennsylvania Gazette published a statement by Benjamin Franklin describing a kite experiment (depicted) to determine the electrical nature of lightning.",
    "context": [
-    "The Byzantine–Norman wars were a series of military conflicts between the Normans and the Byzantine Empire fought from c. 1040 to 1186 involving the Norman-led Kingdom of Sicily in the west, and the Principality of Antioch in the Levant. The last of the Norman invasions, though having incurred disaster upon the Romans by sacking Thessalonica in 1185, was eventually driven out and vanquished by 1186."
+    "The Pennsylvania Gazette was one of the United States' most prominent newspapers from 1728 until 1815. In the years leading up to the American Revolution, the newspaper served as a voice for colonial opposition to British colonial rule, especially to the Stamp Act and the Townshend Acts. The newspaper was headquartered in Philadelphia."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 320,
-   "text": "Pappus of Alexandria, one of the last great Greek mathematicians of antiquity, observed an eclipse that allowed historians to calculate the approximate dates of his life.",
+   "year": 1596,
+   "text": "The Spanish ship San Felipe was shipwrecked on the Japanese island of Shikoku, and its cargo confiscated by the local daimyo.",
    "context": [
-    "Pappus of Alexandria was a Greek mathematician of late antiquity known for his Synagoge (Συναγωγή) or Collection, and for Pappus's hexagon theorem in projective geometry. Almost nothing is known about his life except for what can be found in his own writings, many of which are lost. Pappus apparently lived in Alexandria, where he worked as a mathematics teacher to higher level students, one of whom was named Hermodorus."
+    "\n\nOn October 19, 1596, the Spanish ship San Felipe was shipwrecked on Urado in Kōchi on the Japanese island of Shikoku en route from Manila to Acapulco. The local daimyo Chōsokabe Motochika seized the cargo of the richly laden Manila galleon, and the incident escalated to Toyotomi Hideyoshi, ruling taikō of Japan. The pilot of the ship suggested to Japanese authorities that it was Spanish modus operandi to have missionaries infiltrate a country before an eventual military conquest, depicting the Spanish campaigns in the Americas and the Philippines in this way. This led to the crucifixion of 26 Christians in Nagasaki, the first lethal persecution of Christians by the state in Japan. The executed were later known as the Twenty-Six Martyrs of Japan."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1579,
+   "text": "A ceremony was held in Edinburgh marking the coming of age of James VI of Scotland as an adult ruler.",
+   "context": [
+    "A royal entry into Edinburgh marked the coming of age of King James VI of Scotland as an adult ruler on 19 October 1579. The 13-year-old king came to Edinburgh to begin his adult rule, having spent his childhood at Stirling Castle."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Bellwether (ברומטר)",
+  "Cash cow (פרת מזומנים)",
+  "Death by a thousand cuts (מוות באלף חתכים)",
   "Hyperscaler (ספקית מיחשוב-על)",
   "Vendor financing (מימון מצד הספק)",
   "Too big to fail (גדול מכדי להיכשל)",
