@@ -83,20 +83,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-0"
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-18T13:00:00Z",
-     "home": "Fiorentina",
-     "away": "Como 1907",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-18T13:00:00Z",
      "home": "Leeds United",
      "away": "Man United",
      "status": "FINISHED",
      "score": "1-1"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-18T13:00:00Z",
+     "home": "Fiorentina",
+     "away": "Como 1907",
+     "status": "FINISHED",
+     "score": "1-3"
     },
     {
      "competition": "Bundesliga",
@@ -133,18 +133,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-18T15:15:00Z",
-     "home": "Lorient",
-     "away": "Monaco",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-18T15:15:00Z",
      "home": "Le Havre",
      "away": "Auxerre",
      "status": "FINISHED",
      "score": "1-3"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-18T15:15:00Z",
+     "home": "Lorient",
+     "away": "Monaco",
+     "status": "FINISHED",
+     "score": "1-0"
     },
     {
      "competition": "Premier League",
@@ -181,18 +181,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-18T18:00:00Z",
-     "home": "NEC",
-     "away": "Sittard",
-     "status": "FINISHED",
-     "score": "2-2"
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-18T18:00:00Z",
      "home": "Twente",
      "away": "Utrecht",
      "status": "FINISHED",
      "score": "1-2"
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-18T18:00:00Z",
+     "home": "NEC",
+     "away": "Sittard",
+     "status": "FINISHED",
+     "score": "2-2"
     },
     {
      "competition": "Serie A",
@@ -211,20 +211,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-1"
     },
     {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-18T19:00:00Z",
-     "home": "Fluminense",
-     "away": "Santos",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-18T19:00:00Z",
      "home": "Real Madrid",
      "away": "Sevilla FC",
      "status": "FINISHED",
      "score": "4-1"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-18T19:00:00Z",
+     "home": "Fluminense",
+     "away": "Santos",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -269,18 +269,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-19T19:00:00Z",
-     "home": "Tottenham",
-     "away": "Coventry City",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-19T19:00:00Z",
      "home": "Getafe",
      "away": "Rayo Vallecano",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-19T19:00:00Z",
+     "home": "Tottenham",
+     "away": "Coventry City",
      "status": "TIMED",
      "score": null
     },
@@ -685,63 +685,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Hearts humiliated - but would Vrancken do anything differently?",
+     "published": "2026-10-19T08:30:31+00:00",
+     "summary": "Manager Wouter Vrancken focuses on individual errors rather than his tactical approach after Hearts are thrashed by Celtic Park."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "Celtic target rejects new deal - Monday's gossip",
      "published": "2026-10-19T07:05:32+00:00",
      "summary": "Celtic are on high alert for the January transfer window with summer target Balazs Toth resisting a new deal at Blackburn Rovers."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "Listen: Hearts hammered, Rangers checked, Hibs trouble - weekend round-up",
      "published": "2026-10-19T07:00:00+00:00",
      "summary": "The SPFL weekend roundup"
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "Beer & Blackpool beach was how British players bonded - Pulis",
      "published": "2026-10-19T06:23:48+00:00",
      "summary": "BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-19T05:47:12+00:00",
      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "'Not in our DNA' - will 3v3 change the future of English football?",
      "published": "2026-10-19T05:38:47+00:00",
      "summary": "Changes have been implemented by the FA from this season with under-7s dropping from playing 5v5 to 3v3 in England - could it help to change the DNA of English football?"
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Euro Leagues",
      "published": "2026-10-19T05:00:00+00:00",
      "summary": "Mikey Moore is on loan at Cologne from Spurs - and loving life in the Bundesliga."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "'Why not?' - are 'breathtaking' Brighton in title race?",
      "published": "2026-10-18T22:59:46+00:00",
      "summary": "Match of the Day pundits Shay Given and Dion Dublin analyse Brighton's emphatic 5-0 victory over Crystal Palace, with Dublin saying the Seagulls could be in the title race."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Free-scoring Brighton & Man Utd settle for a point",
      "published": "2026-10-18T22:26:00+00:00",
      "summary": "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Mbappe scores twice as Real Madrid beat Sevilla",
      "published": "2026-10-18T21:39:04+00:00",
      "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico."
-    },
-    {
-     "ref": "bbc_football#9",
-     "title": "'Four points is nothing' - O'Neill stays cool after statement win",
-     "published": "2026-10-18T20:50:09+00:00",
-     "summary": "Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to \"wrap things up\", as Martin O'Neill put it, you'd be forgiven for scratching your head when examining Celtic's current domestic situation."
     },
     {
      "ref": "bbc_football#10",
@@ -751,87 +751,87 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#11",
+     "title": "'Four points is nothing' - O'Neill stays cool after statement win",
+     "published": "2026-10-18T20:50:09+00:00",
+     "summary": "Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to \"wrap things up\", as Martin O'Neill put it, you'd be forgiven for scratching your head when examining Celtic's current domestic situation."
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Ramos could make La Liga return - Monday's gossip",
      "published": "2026-10-18T20:21:54+00:00",
      "summary": "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
      "published": "2026-10-18T19:55:41+00:00",
      "summary": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
      "published": "2026-10-18T19:51:22+00:00",
      "summary": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Bournemouth pick up first league victory with win over Sunderland",
      "published": "2026-10-18T18:59:15+00:00",
      "summary": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "Leeds extend Man Utd's winless run to six games",
      "published": "2026-10-18T18:59:10+00:00",
      "summary": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
      "published": "2026-10-18T18:59:06+00:00",
      "summary": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
      "published": "2026-10-18T18:59:02+00:00",
      "summary": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "'Maybe we became arrogant' - Sunderland struggles continue",
      "published": "2026-10-18T18:49:00+00:00",
      "summary": "Sunderland defender Nordi Mukiele suggested the Black Cats may have become \"arrogant\" as last season's surprise package stutter in the Premier League this term."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
      "published": "2026-10-18T18:33:29+00:00",
      "summary": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "Arsenal substitutes change game - Arteta",
      "published": "2026-10-18T18:31:09+00:00",
      "summary": "Arsenal manager Mikel Arteta says their substitutes changed the game as they beat Nottingham Forest 1-0 in the Premier League."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "Hearts roll out red carpet... and Celtic walk all over it",
      "published": "2026-10-18T18:22:50+00:00",
      "summary": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Hearts roll out red carpet ... and Celtic walk all over it",
      "published": "2026-10-18T18:22:50+00:00",
      "summary": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Long-range goals from further and further out",
      "published": "2026-10-18T18:09:13+00:00",
      "summary": "After Diego Gomez's halfway-line stunner for Brighton on Sunday, BBC Sport looks at the previous longest-range Premier League goals as recorded by Opta in the last 20 seasons."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings",
-     "published": "2026-10-18T17:35:44+00:00",
-     "summary": "Noni Madueke struck late to earn Arsenal a victory at Nottingham Forest. Here's how the players rated."
     }
    ]
   },
@@ -997,93 +997,93 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Deni Avdija: 'I want to be a great two-way player' - HoopsHype",
+     "published": "2026-10-19T08:18:00+00:00",
+     "summary": "Deni Avdija: 'I want to be a great two-way player' HoopsHype"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "Avdija ready for two-way leap, previews revamped roster: “Rock and roll” - Eurohoops",
      "published": "2026-10-19T06:11:00+00:00",
      "summary": "Avdija ready for two-way leap, previews revamped roster: “Rock and roll” Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija: Portland's most dangerous weapon in the NBA - The Jerusalem Post",
      "published": "2026-10-19T05:40:46+00:00",
      "summary": "Deni Avdija: Portland's most dangerous weapon in the NBA The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija Media Availability | Oct. 18, 2026 | Portland Trail Blazers - BVM Sports",
      "published": "2026-10-19T04:00:24+00:00",
      "summary": "Deni Avdija Media Availability | Oct. 18, 2026 | Portland Trail Blazers BVM Sports"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija Media Availability | Oct. 18, 2026 - NBA.com",
      "published": "2026-10-19T00:58:53+00:00",
      "summary": "Deni Avdija Media Availability | Oct. 18, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Did the Blazers Get Enough Out of Preseason? - Sports Illustrated",
      "published": "2026-10-18T15:43:53+00:00",
      "summary": "Did the Blazers Get Enough Out of Preseason? Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija climbs in new rankings, earns high praise - The Jerusalem Post",
      "published": "2026-10-18T06:10:35+00:00",
      "summary": "Deni Avdija climbs in new rankings, earns high praise The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Finding The Solution To The Trail Blazers’ Forward Problem - Last Word On Sports",
      "published": "2026-10-17T13:34:32+00:00",
      "summary": "Finding The Solution To The Trail Blazers’ Forward Problem Last Word On Sports"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Five Nets, five tests as Brooklyn’s first-round class enters Year 2 - New York Daily News",
      "published": "2026-10-17T11:00:36+00:00",
      "summary": "Five Nets, five tests as Brooklyn’s first-round class enters Year 2 New York Daily News"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija - Sport News Africa",
      "published": "2026-10-17T07:00:00+00:00",
      "summary": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija Sport News Africa"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Game Highlights: Portland Trail Blazers 118, Golden State Warriors 128 | Oct. 16, 2026 - NBA.com",
      "published": "2026-10-17T05:54:08+00:00",
      "summary": "Game Highlights: Portland Trail Blazers 118, Golden State Warriors 128 | Oct. 16, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija posts 12/4/3/2/1 line vs. Warriors - NBC Sports",
      "published": "2026-10-17T04:40:00+00:00",
      "summary": "Deni Avdija posts 12/4/3/2/1 line vs. Warriors NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Portland Trail Blazers at Golden State Warriors - NBA Game Summary - Oct 16, 2026 - USA Today",
      "published": "2026-10-17T02:31:44+00:00",
      "summary": "Portland Trail Blazers at Golden State Warriors - NBA Game Summary - Oct 16, 2026 USA Today"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Trail Blazers vs. Warriors Prediction, Spread, NBA Preseason Picks – Friday, October 16 - PrizePicks",
      "published": "2026-10-16T22:03:56+00:00",
      "summary": "Trail Blazers vs. Warriors Prediction, Spread, NBA Preseason Picks – Friday, October 16 PrizePicks"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija Stats, Props & Recent Performance - PrizePicks",
      "published": "2026-10-16T22:00:00+00:00",
      "summary": "Deni Avdija Stats, Props & Recent Performance PrizePicks"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
-     "title": "PORTLAND TRAIL BLAZERS NEW ERA | 2026/27 Projected Roster & Starting 5 Grades Humber Bridge (c7kpS8F3Tv) - Unisba Media",
-     "published": "2026-10-16T19:21:54+00:00",
-     "summary": "PORTLAND TRAIL BLAZERS NEW ERA | 2026/27 Projected Roster & Starting 5 Grades Humber Bridge (c7kpS8F3Tv) Unisba Media"
     },
     {
      "ref": "gnews_israeli_nba#15",

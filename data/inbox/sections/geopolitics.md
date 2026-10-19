@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
-     "published": "2026-10-19T07:58:26+00:00",
-     "summary": "California officials who process ballots from suspected noncitizens risk prosecution, US warns AP News"
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-10-19T08:30:32+00:00",
+     "summary": "College football | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-19T08:28:38+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-19T08:28:38+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Europe News | Breaking European News Today - AP News",
+     "published": "2026-10-19T08:28:37+00:00",
+     "summary": "Europe News | Breaking European News Today AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "College sports - AP News",
+     "published": "2026-10-19T08:28:34+00:00",
+     "summary": "College sports AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Military and defense - AP News",
+     "published": "2026-10-19T08:26:28+00:00",
+     "summary": "Military and defense AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "AP News Search - AP News",
+     "published": "2026-10-19T08:26:28+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Golf - AP News",
+     "published": "2026-10-19T08:26:27+00:00",
+     "summary": "Golf AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
+     "published": "2026-10-19T08:22:29+00:00",
+     "summary": "California officials who process ballots from suspected noncitizens risk prosecution, US warns AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "War and unrest - AP News",
+     "published": "2026-10-19T08:19:14+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#10",
      "title": "Soccer - AP News",
      "published": "2026-10-19T07:57:30+00:00",
      "summary": "Soccer AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#11",
      "title": "Latin American News | Latest Latin American News - AP News",
      "published": "2026-10-19T07:57:28+00:00",
      "summary": "Latin American News | Latest Latin American News AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-19T07:54:22+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#4",
+     "ref": "ap_world#12",
      "title": "New York City - AP News",
      "published": "2026-10-19T07:50:22+00:00",
      "summary": "New York City AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#13",
      "title": "South America - AP News",
      "published": "2026-10-19T07:48:31+00:00",
      "summary": "South America AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#14",
      "title": "Texas - AP News",
      "published": "2026-10-19T07:48:31+00:00",
      "summary": "Texas AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#15",
      "title": "Africa News Reports | Latest News in Africa - AP News",
      "published": "2026-10-19T07:48:29+00:00",
      "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#16",
      "title": "Latest news - AP News",
      "published": "2026-10-19T07:48:28+00:00",
      "summary": "Latest news AP News"
     },
     {
-     "ref": "ap_world#9",
-     "title": "Europe News | Breaking European News Today - AP News",
-     "published": "2026-10-19T07:44:41+00:00",
-     "summary": "Europe News | Breaking European News Today AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#17",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-10-19T07:38:16+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#11",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-10-19T07:30:17+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "College sports - AP News",
-     "published": "2026-10-19T07:28:27+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-19T07:28:26+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Golf - AP News",
-     "published": "2026-10-19T07:26:18+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Military and defense - AP News",
-     "published": "2026-10-19T07:26:18+00:00",
-     "summary": "Military and defense AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "AP News Search - AP News",
-     "published": "2026-10-19T07:26:18+00:00",
-     "summary": "AP News Search AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "War and unrest - AP News",
-     "published": "2026-10-19T07:18:30+00:00",
-     "summary": "War and unrest AP News"
-    },
-    {
      "ref": "ap_world#18",
+     "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+     "published": "2026-10-19T07:26:15+00:00",
+     "summary": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "Associated Press News: Breaking News | Latest News Today - AP News",
      "published": "2026-10-19T07:11:35+00:00",
      "summary": "Associated Press News: Breaking News | Latest News Today AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver - AP News",
-     "published": "2026-10-19T05:48:00+00:00",
-     "summary": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver AP News"
+     "ref": "ap_world#20",
+     "title": "China’s economy accelerated in the July-September quarter on robust exports - AP News",
+     "published": "2026-10-19T06:05:00+00:00",
+     "summary": "China’s economy accelerated in the July-September quarter on robust exports AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
+     "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+     "published": "2026-10-19T05:40:16+00:00",
+     "summary": "Russia-Ukraine | Breaking News & Live Updates AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "Vladimir Putin - AP News",
+     "published": "2026-10-19T05:38:16+00:00",
+     "summary": "Vladimir Putin AP News"
+    },
+    {
+     "ref": "ap_world#23",
      "title": "Hurricane Trudy weakens off Mexico and Typhoon Champi moves away from land - AP News",
      "published": "2026-10-19T04:55:00+00:00",
      "summary": "Hurricane Trudy weakens off Mexico and Typhoon Champi moves away from land AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#24",
      "title": "‘20 Days in Mariupol’ - AP News",
      "published": "2026-10-19T04:26:58+00:00",
      "summary": "‘20 Days in Mariupol’ AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Democrats gain ground with AAPI adults as trust in Republicans fades, AP-NORC/AAPI Data poll finds - AP News",
-     "published": "2026-10-19T04:06:00+00:00",
-     "summary": "Democrats gain ground with AAPI adults as trust in Republicans fades, AP-NORC/AAPI Data poll finds AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
-     "published": "2026-10-19T04:02:00+00:00",
-     "summary": "Albertans vote on path to independence as Carney fights to keep Canada united AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
-     "published": "2026-10-19T04:01:27+00:00",
-     "summary": "Russia-Ukraine | Breaking News & Live Updates AP News"
     }
    ]
   },
@@ -174,51 +174,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "France's government under pressure after weekend of widespread violence",
+     "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+     "published": "2026-10-19T08:31:32+00:00",
+     "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
      "published": "2026-10-19T07:46:54+00:00",
      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
      "published": "2026-10-19T07:35:06+00:00",
      "summary": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Watch: Shops looted and restaurants gutted in Paris riots",
      "published": "2026-10-19T06:40:35+00:00",
      "summary": "Violence broke out across France, with more than half a million people taking to the streets over the weekend."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
      "published": "2026-10-19T06:29:55+00:00",
      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
      "published": "2026-10-19T06:00:18+00:00",
      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Australian Greens senator denies claims of misconduct towards women",
      "published": "2026-10-19T04:54:25+00:00",
      "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens."
     },
     {
-     "ref": "bbc_world#6",
-     "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-     "published": "2026-10-19T04:30:59+00:00",
-     "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing."
-    },
-    {
      "ref": "bbc_world#7",
      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
      "published": "2026-10-19T03:44:02+00:00",
-     "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell."
+     "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children."
     },
     {
      "ref": "bbc_world#8",
@@ -390,153 +390,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "India's UltraTech Cement misses profit estimates - Reuters",
+     "published": "2026-10-19T08:25:43+00:00",
+     "summary": "India's UltraTech Cement misses profit estimates Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Australia PM says independent MP Helen Haines has been attacked - Reuters",
+     "published": "2026-10-19T08:22:28+00:00",
+     "summary": "Australia PM says independent MP Helen Haines has been attacked Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Gulf bourses subdued as regional worries weigh - Reuters",
+     "published": "2026-10-19T08:10:09+00:00",
+     "summary": "Gulf bourses subdued as regional worries weigh Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns - Reuters",
+     "published": "2026-10-19T07:53:13+00:00",
+     "summary": "Spain's rush to clear Ceuta migrant backlog raises rights concerns Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
      "title": "Wary of instability, China calls for deeper security cooperation with Tajikistan - Reuters",
      "published": "2026-10-19T07:52:52+00:00",
      "summary": "Wary of instability, China calls for deeper security cooperation with Tajikistan Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#5",
+     "title": "Rubio denies US paused intelligence sharing with Ukraine - Reuters",
+     "published": "2026-10-19T07:40:15+00:00",
+     "summary": "Rubio denies US paused intelligence sharing with Ukraine Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
      "title": "South Korean sect leader gets additional 33 years in jail for sexual assaults - Reuters",
      "published": "2026-10-19T07:34:32+00:00",
      "summary": "South Korean sect leader gets additional 33 years in jail for sexual assaults Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#7",
      "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages - Reuters",
      "published": "2026-10-19T07:25:49+00:00",
      "summary": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#8",
      "title": "Britain's Healey plans income tax on family business transfers, Telegraph says - Reuters",
      "published": "2026-10-19T07:21:45+00:00",
      "summary": "Britain's Healey plans income tax on family business transfers, Telegraph says Reuters"
     },
     {
-     "ref": "reuters_world#4",
-     "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns - Reuters",
-     "published": "2026-10-19T07:19:08+00:00",
-     "summary": "Spain's rush to clear Ceuta migrant backlog raises rights concerns Reuters"
-    },
-    {
-     "ref": "reuters_world#5",
-     "title": "Rubio denies US paused intelligence sharing with Ukraine - Reuters",
-     "published": "2026-10-19T07:15:43+00:00",
-     "summary": "Rubio denies US paused intelligence sharing with Ukraine Reuters"
-    },
-    {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "China set to leave benchmark lending rates unchanged for 17th month - Reuters",
      "published": "2026-10-19T07:14:09+00:00",
      "summary": "China set to leave benchmark lending rates unchanged for 17th month Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "Arab voter turnout could make or break Netanyahu in Israeli election - Reuters",
      "published": "2026-10-19T07:07:43+00:00",
      "summary": "Arab voter turnout could make or break Netanyahu in Israeli election Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "Philippines summons China's envoy over remarks conveying 'threat' - Reuters",
      "published": "2026-10-19T07:01:30+00:00",
      "summary": "Philippines summons China's envoy over remarks conveying 'threat' Reuters"
     },
     {
-     "ref": "reuters_world#9",
-     "title": "Putin set to reshuffle Russia's government - Reuters",
+     "ref": "reuters_world#12",
+     "title": "Putin approves minor Russian government reshuffle - Reuters",
      "published": "2026-10-19T06:53:00+00:00",
-     "summary": "Putin set to reshuffle Russia's government Reuters"
+     "summary": "Putin approves minor Russian government reshuffle Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "Six migrants, including infant, die after boat collision off Greece's Lesvos - Reuters",
      "published": "2026-10-19T06:29:00+00:00",
      "summary": "Six migrants, including infant, die after boat collision off Greece's Lesvos Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
      "title": "Indonesia stock exchange to meet MSCI on Monday, seeking clarification on downgrade warning - Reuters",
      "published": "2026-10-19T06:12:00+00:00",
      "summary": "Indonesia stock exchange to meet MSCI on Monday, seeking clarification on downgrade warning Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#15",
      "title": "Africa's minerals value-add drive interests investors but faces energy hurdle - Reuters",
      "published": "2026-10-19T06:03:00+00:00",
      "summary": "Africa's minerals value-add drive interests investors but faces energy hurdle Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#16",
      "title": "South African rand gains slightly as traders await budget speech, inflation data - Reuters",
      "published": "2026-10-19T05:59:00+00:00",
      "summary": "South African rand gains slightly as traders await budget speech, inflation data Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#17",
      "title": "Truecaller expects India tax claim of about $90 million - Reuters",
      "published": "2026-10-19T05:54:00+00:00",
      "summary": "Truecaller expects India tax claim of about $90 million Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#18",
      "title": "Rubio says Ukraine and Russia should be focused on ending the war - Reuters",
      "published": "2026-10-19T05:41:00+00:00",
      "summary": "Rubio says Ukraine and Russia should be focused on ending the war Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#19",
      "title": "India's Axis Bank slides after quarterly profit falls short of expectations - Reuters",
      "published": "2026-10-19T05:30:00+00:00",
      "summary": "India's Axis Bank slides after quarterly profit falls short of expectations Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "South Korea says Solidigm's potential listing could violate dual-listing rules - Reuters",
      "published": "2026-10-19T05:27:00+00:00",
      "summary": "South Korea says Solidigm's potential listing could violate dual-listing rules Reuters"
     },
     {
-     "ref": "reuters_world#18",
-     "title": "France's Macron declines interior minister's offer to resign - Reuters",
+     "ref": "reuters_world#21",
+     "title": "As France reels from violence, Macron points to security failings - Reuters",
      "published": "2026-10-19T05:20:00+00:00",
-     "summary": "France's Macron declines interior minister's offer to resign Reuters"
+     "summary": "As France reels from violence, Macron points to security failings Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#22",
      "title": "Dubai Investments' Unit launches UAE's first IPO of 2026 - Reuters",
      "published": "2026-10-19T05:18:00+00:00",
      "summary": "Dubai Investments' Unit launches UAE's first IPO of 2026 Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#23",
      "title": "India sugar stocks slide as government halts sugar diversion to ethanol - Reuters",
      "published": "2026-10-19T04:37:00+00:00",
      "summary": "India sugar stocks slide as government halts sugar diversion to ethanol Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#24",
      "title": "Morning Bid: Markets left to figure out sanctions - Reuters",
      "published": "2026-10-19T04:31:00+00:00",
      "summary": "Morning Bid: Markets left to figure out sanctions Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Global food inflation is expected to intensify as supply shocks pile up - Reuters",
-     "published": "2026-10-19T04:04:00+00:00",
-     "summary": "Global food inflation is expected to intensify as supply shocks pile up Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Mali forces, Russian backers kill scores of civilians in drone strikes, report says - Reuters",
-     "published": "2026-10-19T04:03:00+00:00",
-     "summary": "Mali forces, Russian backers kill scores of civilians in drone strikes, report says Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Gold edges higher as softer oil eases inflation woes - Reuters",
-     "published": "2026-10-19T03:11:00+00:00",
-     "summary": "Gold edges higher as softer oil eases inflation woes Reuters"
     }
    ]
   }
