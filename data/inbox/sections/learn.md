@@ -24,142 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2017,
-   "text": "Canadian astronomer Robert Weryk discovered ʻOumuamua (depicted), the first known interstellar object detected passing through the Solar System.",
+   "year": 2024,
+   "text": "Prabowo Subianto and Gibran Rakabuming Raka were sworn in as president and vice president of Indonesia, becoming the oldest and the youngest person to assume respective offices.",
    "context": [
-    "Robert J. Weryk is a Canadian physicist and astronomer. He currently works at the University of Hawaiʻi at Mānoa, where he discovered the first known interstellar object, ʻOumuamua. He has also published numerous articles on meteors and other astronomical topics."
+    "Prabowo Subianto Djojohadikusumo is an Indonesian politician, businessman, and retired military officer who has served as the eighth president of Indonesia since 2024. He previously served as the 26th minister of defence under President Joko Widodo from 2019 to 2024. Prabowo is Indonesia's third president to have a military background after Suharto and Susilo Bambang Yudhoyono and is the oldest first-term president in Indonesian history."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2013,
-   "text": "British YouTube collective the Sidemen were formed as a Rockstar Games Social Club group in Grand Theft Auto Online.",
+   "year": 2022,
+   "text": "Protests broke out across Chad after President Mahamat Déby (pictured) declared his intentions to extend his rule by another two years.",
    "context": [
-    "YouTube is an American online video-sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, all of whom were former employees at PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google itself. In January 2024, YouTube had reached more than 2.7 billion monthly active users, who collectively watched more than one billion hours of video every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of video per minute, and as of mid-2024, there were approximately 14.8 billion videos in total."
+    "In October 2022, protests broke out across Chad after President Mahamat Déby declared his intentions to extend his rule by another two years instead of stepping down as promised following taking power as head of a military junta the prior year. The protests were some of the most violent in the country's history, with hundreds of protesters being killed and thousands detained, injured, or arrested."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2005,
-   "text": "Hurricane Wilma (pictured) became the most intense Atlantic hurricane on record with a minimum atmospheric pressure of 882 mbar (26.05 inHg).",
+   "year": 2011,
+   "text": "First Libyan Civil War: Muammar Gaddafi, the deposed Libyan leader, was captured by rebel forces during the Battle of Sirte, and was killed shortly thereafter.",
    "context": [
-    "Hurricane Wilma was the most intense tropical cyclone in the Atlantic basin and the second-most intense tropical cyclone in the Western Hemisphere, both based on barometric pressure, after Hurricane Patricia in 2015. Wilma's rapid intensification led to a 24-hour pressure drop of 97 mbar (2.9 inHg), setting a new basin record. At its peak, Hurricane Wilma's eye contracted to a record minimum diameter of 2.3 mi (3.7 km). In the record-breaking 2005 Atlantic hurricane season, Wilma was the twenty-second storm, thirteenth hurricane, sixth major hurricane, and fourth Category 5 hurricane, and was the second costliest hurricane in Mexican history, behind Hurricane Otis in 2023."
+    "The Libyan Civil War, also known as the First Libyan Civil War and Libyan Revolution, was an armed conflict fought in 2011 in the North African country of Libya between forces loyal to Colonel Muammar Gaddafi and rebel groups attempting to oust his government. The war was ignited by protests in Benghazi beginning on 15 February 2011 inspired by the Arab Spring, which led to clashes with security forces and armed protesters. The protests escalated into a rebellion spreading across the country, with the forces opposing Gaddafi establishing an interim governing body, the National Transitional Council."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1988,
-   "text": "The British government restricted the broadcast of the voices of representatives from Sinn Féin and several Irish republican and loyalist paramilitary groups on television and radio.",
+   "year": 1991,
+   "text": "An earthquake struck the Indian state of Uttarakhand, killing at least 768 people and destroying thousands of homes.",
    "context": [
-    "From October 1988 to September 1994 the British government banned broadcasts of the voices of representatives from Sinn Féin and ten other Irish republican and loyalist groups on television and radio in the United Kingdom. The restrictions, announced by the Home Secretary, Douglas Hurd, on 19 October 1988, followed a heightened period of violence in the course of the Troubles, and reflected the UK government's belief in a need to prevent these groups from using the media for political advantage."
+    "The 1991 Uttarkashi earthquake occurred at 02:53:16 Indian Standard Time (UTC+05:30) on 20 October with a moment magnitude of 6.8 and a maximum Mercalli intensity of IX (Violent). This thrust event was instrumentally recorded and occurred along the Main Central Thrust in the Uttarkashi and Gharwal regions of the Indian state of Uttarakhand. High intensity shaking resulted in the deaths of at least 768 people and the destruction of thousands of homes."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1987,
-   "text": "Iran–Iraq War: U.S. Navy forces destroyed two Iranian oil platforms in the Persian Gulf in response to an Iranian missile attack on a Kuwaiti oil tanker three days earlier.",
+   "year": 1986,
+   "text": "Aeroflot Flight 6502 crashed on approach to Kurumoch Airport in Samara, Russia (then Kuybyshev in the Soviet Union), killing 70 people on board.",
    "context": [
-    "The Iran–Iraq War, also called the First Imposed War, Eight-Year War, or Sacred Defense by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths, making it the deadliest conventional war ever fought between regular armies of developing countries."
+    "Aeroflot Flight 6502 was a Soviet domestic passenger flight from Sverdlovsk to Grozny via Kuibyshev. On 20 October 1986, the Tupolev Tu-134A serving the flight crashed in Kuibyshev. Seventy of the 94 passengers and crew on board were killed when the plane overran the runway after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot negligence."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1987,
-   "text": "The Dow Jones Industrial Average fell by 22.6 percent on Black Monday, the largest one-day percentage decline in the stock market index's history.",
+   "year": 1986,
+   "text": "Soviet Aeroflot Flight 6502 crashed after overrunning the runway at Kuibyshev Airport, killing 70 people on board.",
    "context": [
-    "The Dow Jones Industrial Average (DJIA), Dow Jones, or simply the Dow, is a stock market index tracking the stock performance of 30 large companies listed on stock exchanges in the United States. It is named after founder Charles Dow and his business associate, statistician Edward Jones. It is maintained by S&P Dow Jones Indices and its components are selected by a committee."
+    "Aeroflot Flight 6502 was a Soviet domestic passenger flight from Sverdlovsk to Grozny via Kuibyshev. On 20 October 1986, the Tupolev Tu-134A serving the flight crashed in Kuibyshev. Seventy of the 94 passengers and crew on board were killed when the plane overran the runway after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot negligence."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1965,
-   "text": "A group of ethnic Hutu military officers failed in their attempt to overthrow the Burundian government.",
+   "year": 1984,
+   "text": "The Spanish trawler Sonia sank in British waters after a five-hour chase by the Irish Naval Service patrol vessel Aisling, during which almost 600 shots were fired.",
    "context": [
-    "The Hutu, also known as the Abahutu, are a Bantu ethnic group native to the African Great Lakes region. They primarily live in Rwanda, Burundi, Uganda, and the eastern parts of the Democratic Republic of the Congo, where they form one of the principal ethnic groups alongside the Tutsi and the Great Lakes Twa."
+    "The Spanish fishing trawler Sonia sank off the Cornish coast of England on 20 October 1984. On 19 October, in Irish territorial waters off the coast of County Wexford, the Sonia had been spotted by the Irish Naval Service patrol vessel Aisling and was suspected to be fishing illegally. The Sonia was ordered to halt and prepare to receive a boarding party, but did not comply."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1965,
-   "text": "Vietnam War: The Siege of Plei Me began with the first major confrontation between soldiers of the North Vietnamese Army and the U.S. Army.",
+   "year": 1982,
+   "text": "During a UEFA Cup match between Spartak Moscow and Haarlem, a large number of attendees trying to leave the Central Lenin Stadium resulted in a stampede that caused 66 deaths.",
    "context": [
-    "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975."
+    "The 1982–83 UEFA Cup was the 12th edition of the UEFA Cup, the third-tier club football competition organised by UEFA. The final was played over two legs at the Heysel Stadium, Brussels, Belgium, and at the Estádio da Luz, Lisbon, Portugal, between Anderlecht of Belgium and Benfica of Portugal. Anderlecht won by an aggregate result of 2–1 to claim their first and only UEFA Cup title."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1955,
-   "text": "At a meeting of its general assembly, the European Broadcasting Union approved the staging of the first Eurovision Song Contest.",
+   "year": 1977,
+   "text": "Three members of the American rock band Lynyrd Skynyrd died when their chartered plane crashed in Gillsburg, Mississippi.",
    "context": [
-    "The European Broadcasting Union is an alliance of public service media organisations in countries within the European Broadcasting Area (EBA) or who are members of the Council of Europe or to the observers to the Council whose public service broadcasting values align with those of the EBU. As of 2026, it is made up of 115 member organisations from 57 countries, 27 associate members from a further 17 countries, 1 ancillary member, and 6 approved participants. It was established in 1950, and has its administrative headquarters in Geneva."
+    "Lynyrd Skynyrd is an American rock band formed in Jacksonville, Florida, in 1964. The group originally formed as My Backyard and comprised Ronnie Van Zant (vocals), Gary Rossington (guitar), Allen Collins (guitar), Larry Junstrom (bass), and Bob Burns (drums). The band spent four years touring small venues under various names and with several lineup changes before deciding on \"Lynyrd Skynyrd\" in 1968. The band released its first album, (Pronounced 'Lĕh-'nérd 'Skin-'nérd), in 1973. By then, they had settled on a lineup that included bassist Leon Wilkeson, keyboardist Billy Powell, and guitarist Ed King. Burns left and was replaced by Artimus Pyle in 1974. King left in 1975 and was replaced by Steve Gaines in 1976. At the height of their fame in the 1970s, the band popularized the Southern rock genre with songs such as \"Sweet Home Alabama\" and \"Free Bird\". After releasing five studio albums and one live album, the band's career was abruptly halted on October 20, 1977, when their chartered airplane crashed, killing Ronnie Van Zant, Steve Gaines, and backup singer Cassie Gaines, and seriously injuring the rest of the band."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1944,
-   "text": "The Guatemalan Revolution began with a small group of army officers led by Francisco Javier Arana and Jacobo Árbenz launching a coup against dictator Jorge Ubico.",
+   "year": 1973,
+   "text": "Watergate scandal: Attorney General Elliot Richardson and his deputy William Ruckelshaus resigned after refusing to obey President Richard Nixon's order to have Archibald Cox fired.",
    "context": [
-    "The period in the history of Guatemala between the coups against Jorge Ubico in 1944 and Jacobo Árbenz in 1954 is known locally as the Revolution. It has also been called the Ten Years of Spring, highlighting the peak years of representative democracy in Guatemala from 1944 until the end of the civil war in 1996. It saw the implementation of social, political, and especially agrarian reforms that were influential across Latin America."
+    "The Watergate scandal, also simply called Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and ultimately to his resignation in August 1974."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1943,
-   "text": "World War II: Allied aircraft sank the German cargo ship Sinfra, killing mostly Italian POWs.",
+   "year": 1969,
+   "text": "Experimental results from the Stanford Linear Accelerator Center were published showing that protons were composed of smaller particles, the first evidence of quarks.",
+   "context": [
+    "SLAC National Accelerator Laboratory, originally named the Stanford Linear Accelerator Center, is a federally funded research and development center in Menlo Park, California, United States. Founded in 1962, the laboratory is now sponsored by the United States Department of Energy and administered by Stanford University. It is the site of the Stanford Linear Accelerator, a 3.2 km (2 mi) linear accelerator constructed in 1966 that could accelerate electrons to energies of 20 GeV, and later up to 50 GeV."
+   ]
+  },
+  {
+   "ref": "wikipedia#11",
+   "year": 1967,
+   "text": "Roger Patterson and Robert Gimlin filmed an unidentified subject, which they claimed was Bigfoot, at Six Rivers National Forest in California.",
+   "context": [
+    "The Patterson – Gimlin film is a 1967 American short motion picture, created by Roger Patterson and Robert Gimlin, that depicts an unidentified subject that the filmmakers stated was a Bigfoot. The footage was shot in 1967 in Northern California, and has since been subjected to many attempts to authenticate or debunk it."
+   ]
+  },
+  {
+   "ref": "wikipedia#12",
+   "year": 1951,
+   "text": "African-American college football player Johnny Bright was the victim of an on-field assault, eventually leading to changes in NCAA football rules that mandated the use of more protective helmets with face guards.",
+   "context": [
+    "College football is gridiron football that is played by teams of amateur student-athletes at universities and colleges. It was through collegiate competition that gridiron football first gained popularity in the United States."
+   ]
+  },
+  {
+   "ref": "wikipedia#13",
+   "year": 1944,
+   "text": "World War II: Fulfilling a promise he made two years previously, General Douglas MacArthur landed on Leyte to begin the recapture of the Philippines.",
    "context": [
     "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
-   "ref": "wikipedia#11",
-   "year": 1914,
-   "text": "First World War: Allied forces began engaging German troops at the First Battle of Ypres.",
-   "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
-   ]
-  },
-  {
-   "ref": "wikipedia#12",
-   "year": 1864,
-   "text": "American Civil War: Despite incurring nearly twice as many casualties as the Confederates, the Union army emerged victorious at the Battle of Cedar Creek.",
-   "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
-   ]
-  },
-  {
-   "ref": "wikipedia#13",
-   "year": 1781,
-   "text": "American Revolutionary War: British forces led by Lord Cornwallis officially surrendered to Franco-American forces under George Washington and the comte de Rochambeau, ending the Siege of Yorktown.",
-   "context": [
-    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 had led King George III and much of the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British monarchy acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
-   ]
-  },
-  {
    "ref": "wikipedia#14",
-   "year": 1752,
-   "text": "The Pennsylvania Gazette published a statement by Benjamin Franklin describing a kite experiment (depicted) to determine the electrical nature of lightning.",
+   "year": 1939,
+   "text": "Pope Pius XII (pictured) published his first encyclical, Summi Pontificatus, which critiqued ideologies such as racism, cultural superiority and totalitarianism.",
    "context": [
-    "The Pennsylvania Gazette was one of the United States' most prominent newspapers from 1728 until 1815. In the years leading up to the American Revolution, the newspaper served as a voice for colonial opposition to British colonial rule, especially to the Stamp Act and the Townshend Acts. The newspaper was headquartered in Philadelphia."
+    "Pope Pius XII was head of the Catholic Church and sovereign of the Vatican City from 2 March 1939 until his death in 1958. His pontificate spanned a highly consequential 19 years that included the Second World War, the Holocaust, and the first years of the Cold War."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1596,
-   "text": "The Spanish ship San Felipe was shipwrecked on the Japanese island of Shikoku, and its cargo confiscated by the local daimyo.",
+   "year": 1936,
+   "text": "British woman Mabel Freer was refused entry to Australia after failing a dictation test given in Italian, leading to a debate over Australia's immigration policy.",
    "context": [
-    "\n\nOn October 19, 1596, the Spanish ship San Felipe was shipwrecked on Urado in Kōchi on the Japanese island of Shikoku en route from Manila to Acapulco. The local daimyo Chōsokabe Motochika seized the cargo of the richly laden Manila galleon, and the incident escalated to Toyotomi Hideyoshi, ruling taikō of Japan. The pilot of the ship suggested to Japanese authorities that it was Spanish modus operandi to have missionaries infiltrate a country before an eventual military conquest, depicting the Spanish campaigns in the Americas and the Philippines in this way. This led to the crucifixion of 26 Christians in Nagasaki, the first lethal persecution of Christians by the state in Japan. The executed were later known as the Twenty-Six Martyrs of Japan."
+    "Mabel Gwendolyn Freer was a British woman whose exclusion from Australia on morality grounds in 1936 became a cause célèbre and led to a political controversy."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1579,
-   "text": "A ceremony was held in Edinburgh marking the coming of age of James VI of Scotland as an adult ruler.",
+   "year": 1740,
+   "text": "Under the terms of the Pragmatic Sanction, Maria Theresa (pictured) ascended the Habsburg throne.",
    "context": [
-    "A royal entry into Edinburgh marked the coming of age of King James VI of Scotland as an adult ruler on 19 October 1579. The 13-year-old king came to Edinburgh to begin his adult rule, having spent his childhood at Stirling Castle."
+    "The Pragmatic Sanction of 1713 was an edict issued by Holy Roman Emperor Charles VI, on 19 April 1713 to ensure that the Habsburg monarchy, which included the Archduchy of Austria, the Kingdom of Hungary, the Kingdom of Croatia, the Kingdom of Bohemia, the Duchy of Milan, the Kingdom of Naples, the Kingdom of Sardinia and the Austrian Netherlands, could be inherited by a daughter undivided."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Capex (הוצאות הוניות)",
+  "Build vs. buy (לבנות או לקנות)",
+  "Smoke and mirrors (עשן ומראות)",
   "Bellwether (ברומטר)",
   "Cash cow (פרת מזומנים)",
   "Death by a thousand cuts (מוות באלף חתכים)",
