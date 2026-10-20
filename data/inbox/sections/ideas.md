@@ -144,69 +144,75 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The net fiscal impact of immigration should include gains from trade",
+     "published": "2026-10-20T04:47:19+00:00",
+     "summary": "Immigration affects natives through both labor markets and public budgets, yet these channels are usually studied separately. We combine them in a general-equilibrium model with search-and-matching frictions, skill-specific progressive labor taxes, capital taxation and public goods, calibrated to 17 OECD countries over 2015-2019. The welfare effect on natives of a one-percentage-point increase in "
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "On Brazilian food",
+     "published": "2026-10-20T04:08:38+00:00",
+     "summary": "Every now and then I will write a piece on food for Works in Progress. Here is my piece on eating in Brazil: Brazil, like most large nations, also offers multiple cuisines. For instance you can go to Minas Gerais for pork and beans. Minas beans would be my favorite of what I have sampled, […] The post On Brazilian food appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "The California billionaire tax is very likely a net revenue loser",
      "published": "2026-10-19T18:31:59+00:00",
      "summary": "This paper examines the revenue and migration impact of the 2026 California Billionaire Tax Act, a one-time 5 percent tax on the worldwide net worth of individuals exceeding $1 billion. Using data from the Forbes Billionaire List, news reports detailing the residential real estate holdings of California billionaires, and public announcements of billionaire departures from […] The post The Californ"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Monday assorted links",
      "published": "2026-10-19T16:03:42+00:00",
      "summary": "1. More on Nigerian and African mega-cities, by the great David Pilling (FT). 2. Quantum gravity labor arbitrage. 3. New (non-AI) claims about consciousness. And more here. 4. “Stop Pink-Washing Patriarchy!” 5. How well do LLMs predict household behavior? 6. The Anthropic Public Benefit Fund. And a numerical estimate. 7. Yup. 8. Companies are balking […] The post Monday assorted links appeared fir"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "No, DataCenters are Not Crowding-Out Other Investments",
      "published": "2026-10-19T11:16:23+00:00",
      "summary": "Based on charts like the one at right, Paul Krugman and many others are arguing that: Massive spending on data centers is crowding out investment in everything else in the economy. Not so fast. Can you see one immediate problem? How is $51b in data center construction spending crowding out $120b in everything else! Indeed, […] The post No, DataCenters are Not Crowding-Out Other Investments appeare"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "What I’ve been reading",
      "published": "2026-10-19T04:29:27+00:00",
      "summary": "David Stuart, The Four Heavens: A New History of the Ancient Maya. The best book about the ancient Maya that I know of, and also a book about how we keep on discovering more about them. “The model I advocate for here rejects the old idea of the rise and fall of the Maya in […] The post What I’ve been reading appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "*You Can See Everything* (no spoilers)",
      "published": "2026-10-18T22:03:02+00:00",
      "summary": "An excellent and also original movie, you all should see it. There are different interpretations, but I read it as a story between two autistic people, and the bond they have but also the great difficulties they have in understanding each other, because they are so very different. I am not saying that is what […] The post *You Can See Everything* (no spoilers) appeared first on Marginal REVOLUTION"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "*This Beautiful Country*",
      "published": "2026-10-18T16:32:02+00:00",
      "summary": "The author is Edward Cutler and the subtitle is How Italy’s Nature Shaped its Culture and Civilisation. This is an excellent book on how “the Italy you know” has been shaped by its natural environment, such as its mountains, rivers, geology, and so on. Ever wondered why Sardinia is different? The book is good at […] The post *This Beautiful Country* appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Our fascination with screens, demand curves slope downward installment #1637",
      "published": "2026-10-18T06:28:18+00:00",
      "summary": "What we find here is that the quality-adjusted screen time price index is down 39 per cent since 2000, but that change is overwhelmingly a function of improvements in quality, not declines in prices paid for devices, subscriptions and so on. So the steep rise in screen time over the past 20 years has led […] The post Our fascination with screens, demand curves slope downward installment #1637 appe"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "The archaeology tranche of Emergent Ventures",
      "published": "2026-10-18T04:57:12+00:00",
      "summary": "Björn Öste is building Arkhub, an AI-powered platform that analyzes remote-sensing and other archaeological data to identify potential ancient sites in the Amazon and enable further investigation by citizen scientists. J. Cameron Monroe is leading the Allada Regional Archaeology Project, using lidar, remote sensing, and archaeological fieldwork to reconstruct the historical landscape of the Kingdo"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Saturday assorted links",
      "published": "2026-10-17T15:57:58+00:00",
      "summary": "1. GLM-5.3 understands Bob Lucas (and then some). It amuses me how many basic principles of economics are being rediscovered in these new contexts. 2. Most famous book tied to every U.S. state. The NJ answer is crazy, how about Roth’s American Pastoral? 3. Adam Tooze on Perry Mehrling. 4. How employment is changing at […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Solving for the equilibrium?",
      "published": "2026-10-17T07:34:21+00:00",
      "summary": "Sixteen AI agents were each ha‍nded 1,000 satoshi⁠s of real b‌itcoin and told nothing about how to use​ it. A hund‍red rounds l‌at‍er⁠, four of them had roughly doubled⁠ th‍eir money, tw‍o h‌a‍d​ been wiped out, and the‍ three richest a​gents held more than half‍ of all the bitco‌in in the room.⁠ Nobody wrote a […] The post Solving for the equilibrium? appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "New Matt Faherty study of the NSF",
-     "published": "2026-10-17T04:55:57+00:00",
-     "summary": "From the Executive Summary: Therefore, the NSF, NIH, and the federal government should put far more resources and effort into developing metascience. With proper metascience efforts, the NSF could run experiments on science funding reform proposals, such as shifting to a people-over-projects funding model or directly funding replication efforts, and determine which reforms will most […] The post N"
     }
    ]
   },

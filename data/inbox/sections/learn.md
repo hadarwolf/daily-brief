@@ -115,7 +115,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1967,
    "text": "Roger Patterson and Robert Gimlin filmed an unidentified subject, which they claimed was Bigfoot, at Six Rivers National Forest in California.",
    "context": [
-    "The Patterson – Gimlin film is a 1967 American short motion picture, created by Roger Patterson and Robert Gimlin, that depicts an unidentified subject that the filmmakers stated was a Bigfoot. The footage was shot in 1967 in Northern California, and has since been subjected to many attempts to authenticate or debunk it."
+    "The Patterson–Gimlin film is a 1967 American short motion picture, created by Roger Patterson and Robert Gimlin, that depicts an unidentified subject that the filmmakers stated was a Bigfoot. The footage was shot in 1967 in Northern California, and has since been subjected to many attempts to authenticate or debunk it."
    ]
   },
   {
