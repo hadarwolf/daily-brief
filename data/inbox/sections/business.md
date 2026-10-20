@@ -18,85 +18,86 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Horizons Middle East & Africa 10/20/2026 (Video)",
-     "published": "2026-10-20T07:31:28+00:00"
+     "title": "Why Japan Bond Sale Drew Record Demand: Market Analysis",
+     "published": "2026-10-20T07:41:14+00:00",
+     "summary": "Anna Edwards, Guy Johnson, and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "GCash Parent Mynt Debuts After Record Philippine IPO",
+     "published": "2026-10-20T07:31:28+00:00",
+     "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks",
+     "published": "2026-10-20T07:31:28+00:00",
+     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Nomura Fined Over Late Commerzbank Disclosures in UniCredit Bid",
      "published": "2026-10-20T07:06:16+00:00",
      "summary": "Nomura Holdings Inc. was fined by Germany’s markets regulator which found that the firm failed to disclose voting rights in Commerzbank AG in a timely manner."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "UK Jobs Data, Wage Growth Strengthens Case for Bank of England Rate Hikes",
      "published": "2026-10-20T06:51:05+00:00",
      "summary": "Plus, the Chancellor rules out increasing capital gains tax in the budget"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
      "published": "2026-10-20T06:48:57+00:00",
      "summary": "Stephen Roach argues Xi Jinping’s willingness to engage in a series of meetings with Donald Trump may reflect concern about China’s economy and a desire to buy time. Roach suggests Xi may not share the personal camaraderie Trump portrays and says Chinese officials are likely realistic about how much progress is possible with an unpredictable counterpart. He spoke with Stephen Engle on Bloomberg's "
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "China’s Huachen Energy Risks Fresh Default on $956 Million Debt",
      "published": "2026-10-20T06:03:19+00:00",
      "summary": "Chinese power generation firm Huachen Energy Co. told a group of bondholders that it faces difficulties repaying $956 million in bonds due in December, raising the risk of fresh delinquencies on debt it first defaulted on five years ago."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "GCash Parent Mynt Open to Acquisitions After IPO",
      "published": "2026-10-20T05:57:58+00:00",
      "summary": "Mynt President and CEO Martha Sazon says the company will use proceeds from its listing to expand GCash, focusing on lending, financial services, and international markets. She also says Mynt is open to acquisitions and partnerships. She appeared on Bloomberg's Insight with Haslinda Amin. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "FTSE 100 Live: UK Stocks Set to Fall as European Weakness Extends",
      "published": "2026-10-20T05:47:08+00:00"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "Saudi Arabia Postpones FII Summit After Houthi Attacks",
      "published": "2026-10-20T05:29:49+00:00",
      "summary": "Saudi Arabia has postponed its flagship conference, the Future Investment Initiative (FII), to 2027. The decision follows multiple attacks on the kingdom in recent days. Bloomberg's Onur Ant reports. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "Chinese Nickel Firms Plan to Discuss Cutting Indonesian Output",
      "published": "2026-10-20T05:13:48+00:00",
      "summary": "Top executives at several Chinese nickel producers plan to meet as early as Tuesday to discuss coordinated output cuts at their battery material plants in Indonesia, according to people familiar with the matter."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "Japanese Investors Buy Most Domestic Government Bonds Since 2009",
      "published": "2026-10-20T05:13:43+00:00",
      "summary": "Japanese investors’ purchases of domestic government bonds climbed to the highest in 17 years in the fiscal first half, a move that some analysts said reflected an attempt by pension funds to rebalance their portfolios."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#12",
      "title": "Shaker: Demand in Mecca Driven by Faith not Cycles",
      "published": "2026-10-20T05:10:33+00:00",
      "summary": "Indonesia's sovereign investment body Danantara has completed a $533 million property acquisition in Mecca. Thakher Development announced the handing over of the title, marking the first time land at Thakher Makkah has been made available to investors from outside Saudi Arabia. Faisal Shaker, CEO of Thakher Development spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on propert"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
      "title": "Failed Firmus IPO Triggers Information Gathering by Regulator",
      "published": "2026-10-20T05:09:07+00:00",
      "summary": "Australia’s market watchdog is gathering information about Firmus Grid Ltd.’s failed initial public offering, though it hasn’t yet opened an official probe."
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "US Tightens Federal Access to DeepSeek",
-     "published": "2026-10-20T05:06:54+00:00",
-     "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Rory McIlroy on Trump and the Future of Golf",
-     "published": "2026-10-20T05:00:22+00:00",
-     "summary": "Professional golfer Rory McIlroy speaks with Mishal Husain at the Bloomberg New Economy Forum about LIV Golf, playing with Donald Trump and his secret goal. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#14",
@@ -356,9 +357,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
-     "title": "Investors Are Turning Cautious on Big Pharma as Earnings Season Unfolds",
-     "published": "2026-10-20T07:25:00+00:00",
-     "summary": "Investors seemed increasingly cautious on pharma stocks, and the reaction to Johnson & Johnson’s solid results suggested there might be heightened vulnerability, RBC Capital Markets said."
+     "title": "European Stocks Fall at Open, Extend Monday’s Losses",
+     "published": "2026-10-20T07:38:00+00:00",
+     "summary": "European stock indexes slipped at open, extending the sharp losses from the previous session. Technology and energy-intensive stocks falter."
     },
     {
      "ref": "wsj_markets#1",
@@ -370,7 +371,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "wsj_markets#2",
      "title": "Anglo American’s Quarterly Copper Production Slips on Extreme Weather in Chile",
      "published": "2026-10-20T07:01:00+00:00",
-     "summary": "The miner said an expected rise in copper grades over the remainder of the year helped it keep its full-year guidance despite a 5% fall in quarterly output due to snowfall."
+     "summary": "An expected rise in copper grades over the remainder of the year helped the miner keep its full-year guidance despite a 5% fall in quarterly output due to snowfall."
     },
     {
      "ref": "wsj_markets#3",
@@ -510,9 +511,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4198.4702,
+   "last": 4201.27,
    "prev_close": 4205.7202,
-   "change_pct": -0.17,
+   "change_pct": -0.11,
    "as_of": "2026-10-20"
   },
   "SP500": {
@@ -524,23 +525,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1,
-   "prev_close": 3.0937,
-   "change_pct": 0.2,
-   "as_of": "2026-10-20"
+   "last": 3.0937,
+   "prev_close": 3.1031,
+   "change_pct": -0.3,
+   "as_of": "2026-10-19"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 110.49,
+   "last": 110.47,
    "prev_close": 109.55,
-   "change_pct": 0.86,
+   "change_pct": 0.84,
    "as_of": "2026-10-20"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81488.4219,
+   "last": 81454.0,
    "prev_close": 81853.5391,
-   "change_pct": -0.45,
+   "change_pct": -0.49,
    "as_of": "2026-10-20"
   }
  },

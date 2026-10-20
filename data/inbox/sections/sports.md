@@ -103,14 +103,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Roma",
-     "away": "Sl. Bratislava",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T19:00:00Z",
      "home": "Napoli",
      "away": "Bodø/Glimt",
      "status": "TIMED",
@@ -127,16 +119,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Liverpool",
-     "away": "Villarreal",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Porto",
-     "away": "PSV",
+     "home": "Roma",
+     "away": "Sl. Bratislava",
      "status": "TIMED",
      "score": null
     },
@@ -153,6 +137,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-20T19:00:00Z",
      "home": "PSG",
      "away": "Barça",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T19:00:00Z",
+     "home": "Liverpool",
+     "away": "Villarreal",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T19:00:00Z",
+     "home": "Porto",
+     "away": "PSV",
      "status": "TIMED",
      "score": null
     }
@@ -745,123 +745,123 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#5",
+     "title": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly - Goal.com",
+     "published": "2026-10-20T02:28:38+00:00",
+     "summary": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
+     "title": "Lionel Messi Makes MLS History Again as Inter Miami Star Closes In on Third MVP Award - Pasión Fútbol",
+     "published": "2026-10-19T21:30:00+00:00",
+     "summary": "Lionel Messi Makes MLS History Again as Inter Miami Star Closes In on Third MVP Award Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
      "title": "Neymar calls Santos the ‘Inter Miami of Brazil’ after Coutinho goal - foot.mundo",
      "published": "2026-10-19T20:41:21+00:00",
      "summary": "Neymar calls Santos the ‘Inter Miami of Brazil’ after Coutinho goal foot.mundo"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "'He's an alien' - Lionel Messi set for MVP three-peat after obliterating latest MLS record - www.footballtransfers.com",
      "published": "2026-10-19T20:30:00+00:00",
      "summary": "'He's an alien' - Lionel Messi set for MVP three-peat after obliterating latest MLS record www.footballtransfers.com"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "MLS: Messi’s Inter Miami moving up, Nashville still team to beat - ESPN La Crosse 105.5",
      "published": "2026-10-19T20:26:06+00:00",
      "summary": "MLS: Messi’s Inter Miami moving up, Nashville still team to beat ESPN La Crosse 105.5"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#10",
      "title": "Dayne St. Clair’s Inter Miami Future Is Uncertain as European Interest Could Change His Plans - Pasión Fútbol",
      "published": "2026-10-19T20:25:40+00:00",
      "summary": "Dayne St. Clair’s Inter Miami Future Is Uncertain as European Interest Could Change His Plans Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#11",
+     "title": "David Ayala Is Making His Case at Inter Miami as His Contract Nears Expiration - Pasión Fútbol",
+     "published": "2026-10-19T20:19:02+00:00",
+     "summary": "David Ayala Is Making His Case at Inter Miami as His Contract Nears Expiration Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#12",
      "title": "Messi, Suárez and Berterame named in MLS Team of the Matchday - OneFootball",
      "published": "2026-10-19T18:50:03+00:00",
      "summary": "Messi, Suárez and Berterame named in MLS Team of the Matchday OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#13",
      "title": "MLS Power Rankings: Messi's Inter Miami moving up, Nashville still No.1 - ESPN",
      "published": "2026-10-19T18:27:00+00:00",
      "summary": "MLS Power Rankings: Messi's Inter Miami moving up, Nashville still No.1 ESPN"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi, Suárez and Berterame Named to MLS Team of the Matchday - Inter Miami CF",
      "published": "2026-10-19T18:04:28+00:00",
      "summary": "Messi, Suárez and Berterame Named to MLS Team of the Matchday Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#15",
      "title": "What We Learned: Miami mean business, Orlando bring fireworks - Yahoo Sports",
      "published": "2026-10-19T17:57:00+00:00",
      "summary": "What We Learned: Miami mean business, Orlando bring fireworks Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#16",
      "title": "MLS Power Rankings: Inter Miami, Vancouver Whitecaps Surge After Matchday 31 - Sports Illustrated",
      "published": "2026-10-19T17:48:49+00:00",
      "summary": "MLS Power Rankings: Inter Miami, Vancouver Whitecaps Surge After Matchday 31 Sports Illustrated"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#17",
+     "title": "Lionel Messi Suffers Another Blow as Inter Miami Are Eliminated From Supporters’ Shield Race - Pasión Fútbol",
+     "published": "2026-10-19T16:58:27+00:00",
+     "summary": "Lionel Messi Suffers Another Blow as Inter Miami Are Eliminated From Supporters’ Shield Race Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
+     "title": "Lionel Messi Extends Incredible Scoring Streak to 14 Games as Inter Miami Star Keeps Making History - Pasión Fútbol",
+     "published": "2026-10-19T16:44:04+00:00",
+     "summary": "Lionel Messi Extends Incredible Scoring Streak to 14 Games as Inter Miami Star Keeps Making History Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#19",
      "title": "Luis Suárez Becomes Second Player in Club History to Reach 100 Goal Contributions - WebWire",
      "published": "2026-10-19T16:08:10+00:00",
      "summary": "Luis Suárez Becomes Second Player in Club History to Reach 100 Goal Contributions WebWire"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#20",
      "title": "Lionel Messi, Cristiano Ronaldo And The Power Of Future Earnings - Forbes",
      "published": "2026-10-19T16:04:25+00:00",
      "summary": "Lionel Messi, Cristiano Ronaldo And The Power Of Future Earnings Forbes"
     },
     {
-     "ref": "gnews_inter_miami#16",
-     "title": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly - Goal.com",
-     "published": "2026-10-19T14:59:54+00:00",
-     "summary": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#21",
      "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-19T13:58:31+00:00",
      "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#22",
      "title": "Neymar teases Messi and Beckham with 'Inter Miami do Brasil' after Santos win - OneFootball",
      "published": "2026-10-19T13:55:07+00:00",
      "summary": "Neymar teases Messi and Beckham with 'Inter Miami do Brasil' after Santos win OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#23",
      "title": "Atlanta United Vs Inter Miami CF Video Highlights: Messi Brace Powers Herons To Third Straight Win | MLS 2026 - Khel Now",
      "published": "2026-10-19T13:15:26+00:00",
      "summary": "Atlanta United Vs Inter Miami CF Video Highlights: Messi Brace Powers Herons To Third Straight Win | MLS 2026 Khel Now"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#24",
      "title": "Miami coach unfazed as Messi set to collect prestigious award in Spain - The Daily Star",
      "published": "2026-10-19T12:59:46+00:00",
      "summary": "Miami coach unfazed as Messi set to collect prestigious award in Spain The Daily Star"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Atlanta United - Inter Miami CF 0 - 3 | TOR - Leo Messi - OneFootball",
-     "published": "2026-10-19T11:53:22+00:00",
-     "summary": "Atlanta United - Inter Miami CF 0 - 3 | TOR - Leo Messi OneFootball"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Inter Miami Boss Reportedly Discussed as Potential Challenger to Gianni Infantino for FIFA Presidency - شبكة تواصل الإخبارية",
-     "published": "2026-10-19T11:34:51+00:00",
-     "summary": "Inter Miami Boss Reportedly Discussed as Potential Challenger to Gianni Infantino for FIFA Presidency شبكة تواصل الإخبارية"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player - ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-10-19T10:03:30+00:00",
-     "summary": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "The Verdict: Messi doesn’t forget, and he makes sure to let his target remember - The New York Times",
-     "published": "2026-10-19T10:00:14+00:00",
-     "summary": "The Verdict: Messi doesn’t forget, and he makes sure to let his target remember The New York Times"
     }
    ]
   },
