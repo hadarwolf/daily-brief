@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-20",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-20T03:54:40+00:00",
+  "stories": [
+    {
+      "id": "ebitda-term",
+      "kind": "word",
+      "en": {
+        "headline": "EBITDA (רווח תפעולי לפני ריבית, מיסים, פחת והפחתות)",
+        "scroll": "EBITDA measures a company's core operating profit before interest, taxes, depreciation and amortization are deducted.",
+        "coffee": "EBITDA stands for earnings before interest, taxes, depreciation and amortization. Analysts use it to strip out financing choices, tax jurisdictions and accounting policies, so they can compare how profitable the underlying business actually is, independent of how it's capitalized.\n\nIt's especially popular in industries with heavy fixed assets — telecoms, airlines, manufacturing — where depreciation can make a profitable company look like it's losing money on paper. Example: \"Revenue grew 12%, and EBITDA margin expanded from 18% to 22% as the company cut overhead.\"",
+        "deep": "EBITDA (earnings before interest, taxes, depreciation and amortization) is a proxy for a company's operating cash-generating ability, used heavily in valuation, lending covenants, and private equity deals, where buyers often price a company as a multiple of EBITDA (e.g., \"we paid 8x EBITDA\").\n\nUse it when comparing companies with different debt loads, tax rates, or capital intensity — it lets you judge the business itself rather than its financing or accounting. Don't use it as a substitute for net income or free cash flow: EBITDA ignores real cash costs like capex and interest payments, which is why critics joke it stands for \"earnings before I tricked the dumb auditor.\" A company can have positive EBITDA and still be burning cash.\n\nCommon confusion: EBITDA is not the same as operating cash flow, since it excludes changes in working capital. More examples: \"The deal valued the chain at $400M, or 9x trailing EBITDA.\" \"Their EBITDA margin lags competitors because of high marketing spend.\" In Hebrew, the concept is usually just called EBITDA, sometimes glossed as רווח תפעולי לפני ריבית, מיסים, פחת והפחתות."
+      },
+      "he": {
+        "headline": "EBITDA (רווח תפעולי לפני ריבית, מיסים, פחת והפחתות)",
+        "scroll": "EBITDA הוא מדד לרווח התפעולי הבסיסי של חברה, לפני ניכוי ריבית, מיסים, פחת והפחתות.",
+        "coffee": "EBITDA הוא קיצור של Earnings Before Interest, Taxes, Depreciation and Amortization. אנליסטים משתמשים בו כדי לנטרל את השפעת מבנה המימון, שיעורי המיסוי במדינות שונות ומדיניות חשבונאית, ולבדוק עד כמה העסק הבסיסי רווחי - בלי קשר לאיך הוא ממומן.\n\nהמדד פופולרי במיוחד בתעשיות עם הרבה נכסים קבועים - תקשורת, תעופה, תעשייה - שבהן הפחת יכול לגרום לחברה רווחית להיראות כמפסידה על הנייר. לדוגמה: \"Revenue grew 12%, and EBITDA margin expanded from 18% to 22% as the company cut overhead.\"",
+        "deep": "EBITDA משמש כאומדן ליכולת של חברה לייצר מזומן מהפעילות התפעולית, והוא נפוץ מאוד בהערכות שווי, באמות מידה פיננסיות של הלוואות (covenants), ובעסקאות private equity, שבהן קונים לעיתים קובעים מחיר כמכפיל על EBITDA (לדוגמה: \"שילמנו מכפיל 8 על EBITDA\").\n\nכדאי להשתמש במדד כשמשווים חברות עם מבני חוב, שיעורי מיסוי או עומס הון שונה - הוא מאפשר להסתכל על העסק עצמו ולא על אופן המימון או החשבונאות שלו. אסור להשתמש בו כתחליף לרווח הנקי או לתזרים מזומנים חופשי: EBITDA מתעלם מהוצאות מזומן אמיתיות כמו הוצאות הוניות (capex) ותשלומי ריבית, ומשם הבדיחה שהוא בעצם \"רווח לפני שתפסתי את רואה החשבון הטיפש\". חברה יכולה להציג EBITDA חיובי ועדיין לשרוף מזומן.\n\nבלבול נפוץ: EBITDA אינו זהה לתזרים מזומנים תפעולי, כיוון שהוא לא מתחשב בשינויים בהון החוזר. עוד דוגמאות: \"העסקה תמחרה את הרשת ב-400 מיליון דולר, מכפיל 9 על ה-EBITDA\". \"מרווח ה-EBITDA שלהם נמוך מהמתחרים בגלל הוצאות שיווק גבוהות\". בעברית, בדרך כלל פשוט אומרים EBITDA, ולעיתים מתרגמים כ'רווח תפעולי לפני ריבית, מיסים, פחת והפחתות'."
+      },
+      "tags": [
+        "ebitda",
+        "finance",
+        "valuation"
+      ],
+      "sources": []
+    },
+    {
+      "id": "golden-parachute",
+      "kind": "word",
+      "en": {
+        "headline": "Golden parachute (מצנח זהב)",
+        "scroll": "A lucrative severance package guaranteed to top executives if they lose their job after a merger, takeover, or being fired.",
+        "coffee": "A golden parachute is a contractual promise — written into an executive's employment agreement — guaranteeing a large payout (cash, stock, bonuses) if they're removed from their position, especially after a company is acquired. It's meant to make executives neutral about a takeover rather than fighting it to protect their own job, and it's also used as a retention and recruiting tool. Example: \"The CEO walked away with a $40 million golden parachute after the merger closed.\"",
+        "deep": "Golden parachutes are negotiated in advance, usually when a senior executive is hired, and triggered by a defined event — most often a change of control (the company being acquired) or a termination without cause. They can include severance pay, accelerated vesting of stock options, extended health benefits, and bonuses.\n\nThey're controversial: shareholders sometimes see them as rewarding failure, especially when an executive is pushed out after poor performance and still collects millions. Supporters argue they align incentives — without one, an executive might block a good acquisition just to keep their job (see also: poison pill, a different anti-takeover tool companies use on the buyer's side rather than paying off their own executive).\n\nCommon confusion: a golden parachute is for executives leaving after a merger or firing; it's different from a golden handshake (a one-time retirement payout) and golden handcuffs (incentives designed to keep someone from leaving). More examples: \"Her contract includes a golden parachute worth two years' salary.\" \"Activist investors pushed to cap golden parachutes before the vote.\" In Hebrew: מצנח זהב."
+      },
+      "he": {
+        "headline": "Golden parachute (מצנח זהב)",
+        "scroll": "חבילת פיצויים נדיבה המובטחת לבכירים בחברה אם הם מפוטרים או מאבדים את תפקידם בעקבות מיזוג או רכישה.",
+        "coffee": "מצנח זהב הוא התחייבות חוזית - הכתובה בהסכם ההעסקה של מנהל בכיר - להבטיח לו תשלום גבוה (מזומן, מניות, בונוסים) אם הוא מוסר מתפקידו, בעיקר בעקבות רכישת החברה. המטרה היא לגרום למנהלים להיות נייטרליים לגבי השתלטות על החברה במקום להילחם בה רק כדי להציל את מקום העבודה שלהם, והוא משמש גם כלי לשימור וגיוס בכירים. לדוגמה: \"The CEO walked away with a $40 million golden parachute after the merger closed.\"",
+        "deep": "מצנחי זהב נקבעים מראש, בדרך כלל בעת גיוס מנהל בכיר, ונכנסים לתוקף באירוע מוגדר - לרוב שינוי שליטה (רכישת החברה) או פיטורים לא-מוצדקים. הם יכולים לכלול דמי פיטורים, הבשלה מואצת של אופציות למניות, הטבות בריאות מורחבות ובונוסים.\n\nהמדד מעורר מחלוקת: בעלי מניות רואים בו לעיתים תגמול על כישלון, במיוחד כשמנהל מודח בעקבות ביצועים חלשים ועדיין מקבל מיליונים. התומכים טוענים שהוא מיישר תמריצים - בלעדיו, מנהל עלול לחסום רכישה טובה רק כדי לשמור על תפקידו (ראו גם: גלולת רעל - כלי אחר למניעת השתלטויות, שמופעל מצד החברה הנרכשת כלפי הקונה ולא כתשלום למנהלים שלה).\n\nבלבול נפוץ: מצנח זהב מיועד למנהלים שעוזבים בעקבות מיזוג או פיטורים; הוא שונה מ-golden handshake (תשלום חד-פעמי בפרישה) ומ-golden handcuffs (תמריצים שנועדו למנוע עזיבה). עוד דוגמאות: \"בחוזה שלה כלול מצנח זהב בשווי שכר של שנתיים\". \"משקיעים אקטיביסטיים לחצו להגביל מצנחי זהב לפני ההצבעה\". בעברית: מצנח זהב."
+      },
+      "tags": [
+        "executive-compensation",
+        "mergers",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "pull-the-plug",
+      "kind": "word",
+      "en": {
+        "headline": "Pull the plug (לשלוף את התקע)",
+        "scroll": "To abruptly stop or cancel a project, deal, or investment, usually before it reaches its goal.",
+        "coffee": "\"Pull the plug\" is an idiom borrowed from unplugging a machine to shut it off — in business it means a decisive, often sudden decision to end something: a product, a funding round, a partnership, even a company. It usually implies the decision-maker has lost confidence and is cutting losses rather than waiting for a slow death. Example: \"After burning through two rounds of funding with no traction, the board pulled the plug on the project.\"",
+        "deep": "Use \"pull the plug\" when a person or group with the authority to do so ends something decisively — investors withdrawing funding, a parent company shutting down a subsidiary, a manager canceling a product line. It carries a tone of finality and is usually a top-down decision, unlike \"walk away,\" which can describe either side quietly exiting a deal.\n\nCommon confusion: it's not the same as \"throw good money after bad\" (which describes continuing to invest despite mounting losses — the opposite instinct) or \"kick the can down the road\" (postponing a decision rather than making one). Pulling the plug is the decisive, final move those other idioms describe avoiding.\n\nMore examples: \"Regulators pulled the plug on the merger after competition concerns.\" \"The studio pulled the plug on the sequel after the first film flopped.\" \"Investors pulled the plug when the startup missed its third consecutive revenue target.\" In Hebrew: לשלוף את התקע, או גם 'לסגור את הברז' בהקשר של תזרים כספי."
+      },
+      "he": {
+        "headline": "Pull the plug (לשלוף את התקע)",
+        "scroll": "להפסיק או לבטל באופן חד-צדדי ונחרץ פרויקט, עסקה או השקעה, בדרך כלל לפני שהם מגיעים למטרתם.",
+        "coffee": "'Pull the plug' הוא ניב שמקורו בניתוק מכשיר מהחשמל כדי לכבותו - בעולם העסקי הוא מתאר החלטה נחרצת, ולעיתים קרובות פתאומית, לסיים דבר מה: מוצר, סבב גיוס, שותפות, ואפילו חברה שלמה. הוא מרמז בדרך כלל שמקבל ההחלטה איבד אמון וממש קוצר הפסדים, במקום לתת למשהו למות באיטיות. לדוגמה: \"After burning through two rounds of funding with no traction, the board pulled the plug on the project.\"",
+        "deep": "כדאי להשתמש בניב כשגורם בעל סמכות מסיים דבר מה באופן נחרץ - משקיעים שמפסיקים לממן, חברת-אם שסוגרת חברת-בת, מנהל שמבטל קו מוצרים. יש בו תחושת סופיות, ובדרך כלל זו החלטה שמתקבלת מלמעלה, בשונה מ-'walk away' שיכול לתאר גם צד שפורש בשקט מעסקה.\n\nבלבול נפוץ: אין לבלבל עם 'throw good money after bad' (המתאר המשך השקעה חרף הפסדים מצטברים - האינסטינקט ההפוך), או עם 'kick the can down the road' (דחיית ההכרעה במקום קבלתה). 'Pull the plug' הוא בדיוק המהלך הנחרץ שאותם ניבים מתארים כהימנעות ממנו.\n\nעוד דוגמאות: \"Regulators pulled the plug on the merger after competition concerns.\" \"The studio pulled the plug on the sequel after the first film flopped.\" \"Investors pulled the plug when the startup missed its third consecutive revenue target.\" בעברית: לשלוף את התקע, או גם 'לסגור את הברז' בהקשר של תזרים כספי."
+      },
+      "tags": [
+        "startups",
+        "decision-making",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "price-elasticity-concept",
+      "kind": "concept",
+      "en": {
+        "headline": "Price elasticity of demand (אלסטיות מחיר של ביקוש)",
+        "scroll": "Price elasticity of demand measures how much the quantity people buy changes when the price changes — it's the difference between a price hike you barely notice and one that sends customers running.",
+        "coffee": "Price elasticity of demand (PED) measures how sensitive the quantity demanded of a good is to a change in its price. It's calculated as the percentage change in quantity demanded divided by the percentage change in price. If demand barely moves when price rises, demand is \"inelastic\" (think insulin, gasoline in the short run, or your phone bill). If demand drops sharply, it's \"elastic\" (think a specific brand of soda, or a restaurant meal when a cheaper one is next door).\n\nThis matters enormously for pricing strategy: a company with inelastic demand can raise prices and grow revenue, while one with elastic demand will lose more in volume than it gains in price. It's also why monopolies and products with no close substitutes can charge more — customers have nowhere else to go.",
+        "deep": "Price elasticity of demand (PED) is one of the first tools economists reach for to answer a very practical question: if I change my price, what happens to my revenue? It is defined as:\n\nPED = (% change in quantity demanded) / (% change in price)\n\nBecause price and quantity usually move in opposite directions, PED is normally a negative number, but economists usually discuss it in absolute value terms. If |PED| > 1, demand is elastic — quantity changes proportionally more than price, so a price cut raises total revenue and a price hike lowers it. If |PED| < 1, demand is inelastic — quantity barely responds, so a price hike raises revenue and a price cut lowers it. If |PED| = 1, revenue is unchanged either way (unit elastic).\n\nWhat drives elasticity? Mainly the availability of substitutes, how large a share of the budget the good takes up, and whether it's a necessity or a luxury. Insulin is inelastic — diabetics need it regardless of price, and there's no substitute. A specific brand of cereal is elastic — switch to another brand if the price jumps, since they're nearly interchangeable.\n\nWorked example: Suppose a café sells 200 cups of specialty coffee a day at 15 shekels, and raises the price to 18 shekels (a 20% increase). Daily sales drop to 160 cups (a 20% decrease).\n\nPED = -20% / 20% = -1, so |PED| = 1 — unit elastic. Revenue before: 200 × 15 = 3,000 shekels. Revenue after: 160 × 18 = 2,880 shekels. Interesting: revenue actually fell slightly, even at unit elasticity, because the percentage changes were calculated from different bases (it's rarely perfectly exact) — this quirk is exactly why businesses test actual price changes rather than relying only on the ratio.\n\nNow compare: if instead sales had only dropped to 190 cups (a 5% decrease) after the same 20% price hike, PED would be -5%/20% = -0.25 — highly inelastic — and revenue would rise to 190 × 18 = 3,420 shekels, a clear win for raising prices.\n\nThis is exactly the calculation behind real pricing decisions: airlines raising fares on routes with no competition (inelastic), streaming services testing price hikes against churn data, or a government deciding whether a cigarette tax will actually cut consumption (inelastic in the short run, more elastic over time as people quit or switch). Knowing your elasticity — even roughly — turns pricing from guesswork into strategy."
+      },
+      "he": {
+        "headline": "אלסטיות מחיר של ביקוש (price elasticity of demand)",
+        "scroll": "אלסטיות מחיר של ביקוש מודדת כמה הכמות שאנשים קונים משתנה כשהמחיר משתנה - ההבדל בין העלאת מחיר שבקושי מורגשת לבין אחת שמבריחה לקוחות.",
+        "coffee": "אלסטיות מחיר של ביקוש (price elasticity of demand, PED) מודדת כמה רגישה הכמות המבוקשת של מוצר לשינוי במחירו. היא מחושבת כאחוז השינוי בכמות המבוקשת חלקי אחוז השינוי במחיר. אם הביקוש בקושי זז כשהמחיר עולה, הביקוש 'לא-אלסטי' (inelastic) - כמו אינסולין, דלק בטווח הקצר, או חשבון הסלולר שלך. אם הביקוש צונח בחדות, הוא 'אלסטי' (elastic) - כמו מותג ספציפי של משקה קל, או מנה במסעדה כשיש מסעדה זולה יותר בצד.\n\nזה קריטי לאסטרטגיית תמחור: חברה עם ביקוש לא-אלסטי יכולה להעלות מחירים ולהגדיל הכנסות, בעוד שחברה עם ביקוש אלסטי תפסיד בנפח יותר ממה שתרוויח במחיר. זו גם הסיבה שמונופולים ומוצרים בלי תחליפים קרובים יכולים לגבות יותר - ללקוחות אין לאן ללכת.",
+        "deep": "אלסטיות מחיר של ביקוש (PED) היא אחד הכלים הראשונים שכלכלנים פונים אליהם כדי לענות על שאלה מעשית מאוד: אם אשנה את המחיר, מה יקרה להכנסות שלי? היא מוגדרת כך:\n\nPED = (אחוז השינוי בכמות המבוקשת) / (אחוז השינוי במחיר)\n\nמכיוון שמחיר וכמות נעים בדרך כלל בכיוונים מנוגדים, PED הוא בדרך כלל מספר שלילי, אבל כלכלנים נוהגים לדון בו בערך מוחלט. אם |PED| > 1, הביקוש אלסטי - הכמות משתנה ביחס גבוה יותר מהמחיר, כך שהורדת מחיר מעלה את ההכנסה הכוללת והעלאת מחיר מורידה אותה. אם |PED| < 1, הביקוש לא-אלסטי - הכמות בקושי מגיבה, כך שהעלאת מחיר מעלה הכנסה והורדת מחיר מורידה אותה. אם |PED| = 1, ההכנסה לא משתנה בכל מקרה (אלסטיות יחידתית).\n\nמה קובע את האלסטיות? בעיקר קיומם של תחליפים, הנתח שהמוצר תופס בתקציב, והשאלה אם הוא מוצר חיוני או מותרות. אינסולין הוא לא-אלסטי - חולי סוכרת צריכים אותו בכל מחיר, ואין לו תחליף. דגני בוקר של מותג מסוים הם אלסטיים - אפשר לעבור למותג אחר אם המחיר עולה, כי הם כמעט זהים.\n\nדוגמה מחושבת: נניח שבית קפה מוכר 200 כוסות קפה מיוחד ביום במחיר 15 שקלים, ומעלה את המחיר ל-18 שקלים (עלייה של 20%). המכירות היומיות יורדות ל-160 כוסות (ירידה של 20%).\n\nPED = -20% / 20% = -1, כלומר |PED| = 1 - אלסטיות יחידתית. הכנסה לפני: 200 × 15 = 3,000 שקלים. הכנסה אחרי: 160 × 18 = 2,880 שקלים. מעניין: ההכנסה בעצם ירדה קצת, גם באלסטיות יחידתית, כי האחוזים חושבו מבסיסים שונים (זה כמעט אף פעם לא מדויק בול) - וזו בדיוק הסיבה שעסקים בוחנים שינויי מחיר בפועל ולא מסתפקים בחישוב היחס בלבד.\n\nנשווה: אם המכירות היו יורדות רק ל-190 כוסות (ירידה של 5%) לאחר אותה עליית מחיר של 20%, ה-PED היה -5%/20% = -0.25 - לא-אלסטי מאוד - וההכנסה הייתה עולה ל-190 × 18 = 3,420 שקלים, ניצחון ברור להעלאת המחיר.\n\nזה בדיוק החישוב שמסתתר מאחורי החלטות תמחור אמיתיות: חברות תעופה שמעלות מחירי כרטיסים בקווים בלי תחרות (לא-אלסטי), שירותי סטרימינג שבוחנים העלאות מחיר על בסיס נתוני נטישה, או ממשלה ששוקלת אם מס על סיגריות יצליח להפחית צריכה בפועל (לא-אלסטי בטווח הקצר, אלסטי יותר עם הזמן ככל שאנשים מפסיקים או עוברים למוצר אחר). להכיר את האלסטיות שלך - אפילו בצורה גסה - הופך תמחור מניחוש לאסטרטגיה."
+      },
+      "tags": [
+        "economics",
+        "pricing",
+        "microeconomics"
+      ],
+      "sources": []
+    },
+    {
+      "id": "quarks-discovery-1969",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1969: Physicists find the first evidence that protons are made of quarks",
+        "scroll": "Experiments at Stanford's linear accelerator showed protons weren't solid, point-like particles but were built from smaller pieces — the first direct evidence for quarks.",
+        "coffee": "On 20 October 1969, physicists published results from deep inelastic scattering experiments at the Stanford Linear Accelerator Center (SLAC), where high-energy electrons were fired at protons. Instead of bouncing off cleanly, as expected if a proton were a single solid particle, the electrons scattered at sharp angles consistent with hitting smaller, hard, point-like objects inside the proton — much like how Rutherford's gold-foil experiment decades earlier had revealed the atomic nucleus.\n\nThis was the first experimental confirmation of quarks, particles that physicist Murray Gell-Mann and others had proposed purely on theoretical grounds just a few years earlier, as a way to organize the growing zoo of particles being discovered. The SLAC results showed quarks weren't just a convenient mathematical bookkeeping trick — they were physically real constituents of matter.",
+        "deep": "Through the 1950s and 60s, particle accelerators kept turning up new particles — dozens of them — and physicists needed a way to organize the mess. In 1964, Murray Gell-Mann and George Zweig independently proposed that many of these particles weren't fundamental at all, but were built from a small number of more basic constituents, which Gell-Mann named \"quarks\" (borrowing the word from a line in James Joyce's Finnegans Wake). The model elegantly explained the patterns in particle masses and charges, but there was no direct experimental proof that quarks actually existed as physical objects rather than a mathematical convenience.\n\nThe proof came from deep inelastic scattering experiments run at SLAC starting in 1967, led by a collaboration including Jerome Friedman, Henry Kendall and Richard Taylor. They fired a beam of high-energy electrons at a hydrogen target (essentially, at protons) and measured how the electrons scattered. If a proton were a soft, uniformly spread-out blob of charge, electrons should scatter gently and predictably. Instead, the data published in October 1969 showed a significant fraction of electrons being deflected at wide angles — a signature of hitting small, hard, point-like objects buried inside the proton.\n\nThis was conceptually the same trick Ernest Rutherford had used in 1909 to discover the atomic nucleus, by firing alpha particles at gold foil and finding that some bounced straight back. Just as Rutherford's surprising deflections revealed that atoms were mostly empty space with a dense nucleus, SLAC's deflections revealed that protons were not fundamental but were made of smaller, harder components.\n\nThe result earned Friedman, Kendall and Taylor the 1990 Nobel Prize in Physics, and it anchored quantum chromodynamics (QCD), the theory of the strong force that holds quarks together inside protons and neutrons — one of the pillars of the Standard Model of particle physics that still describes the subatomic world today."
+      },
+      "he": {
+        "headline": "1969: פיזיקאים מוצאים את העדות הראשונה לכך שהפרוטון מורכב מקוורקים (quarks)",
+        "scroll": "ניסויים במאיץ החלקיקים הליניארי בסטנפורד הראו שהפרוטון אינו חלקיק אחיד וחלק, אלא מורכב מחלקים קטנים יותר - העדות הישירה הראשונה לקיומם של קוורקים (quarks).",
+        "coffee": "ב-20 באוקטובר 1969 פרסמו פיזיקאים תוצאות של ניסויי פיזור בלתי-אלסטי עמוק (deep inelastic scattering) שנערכו במאיץ החלקיקים הליניארי בסטנפורד (SLAC), שם נורו אלקטרונים בעוצמה גבוהה לעבר פרוטונים. במקום להתפזר בצורה חלקה כצפוי אם הפרוטון היה חלקיק מוצק אחד, האלקטרונים התפזרו בזוויות חדות - התאמה למצב שבו הם פוגעים באובייקטים קטנים, קשים ונקודתיים בתוך הפרוטון, בדומה לאופן שבו ניסוי רדרפורד עם רדיד הזהב, עשרות שנים קודם לכן, חשף את קיומו של גרעין האטום.\n\nזו הייתה האישור הניסיוני הראשון לקיומם של קוורקים (quarks) - חלקיקים שהפיזיקאי מארי גל-מאן ואחרים הציעו קיומם על בסיס תיאורטי בלבד רק כמה שנים קודם לכן, כדרך לארגן את מגוון החלקיקים שהתגלו. התוצאות מ-SLAC הראו שקוורקים אינם רק טריק מתמטי נוח, אלא מרכיבים פיזיקליים אמיתיים של החומר.",
+        "deep": "במהלך שנות ה-50 וה-60 של המאה ה-20, מאיצי חלקיקים גילו חלקיקים חדשים כל הזמן - עשרות מהם - ופיזיקאים נזקקו לדרך לארגן את התוהו ובוהו. ב-1964 הציעו מארי גל-מאן וג'ורג' צוויג, במקביל ובאופן עצמאי, שרבים מהחלקיקים האלה אינם יסודיים בכלל, אלא מורכבים ממספר קטן של מרכיבים בסיסיים יותר, שגל-מאן קרא להם 'קוורקים' (quarks) - מילה שנטל משורה ברומן 'ערות פיניגנים' (Finnegans Wake) של ג'יימס ג'ויס. המודל הסביר בצורה אלגנטית את הדפוסים במסות ובמטענים של החלקיקים, אבל לא היה הוכחה ניסיונית ישירה שהקוורקים קיימים בפועל כעצמים פיזיקליים ולא רק כנוחות מתמטית.\n\nההוכחה הגיעה מניסויי פיזור בלתי-אלסטי עמוק שנערכו ב-SLAC מ-1967, בהנהגת צוות שכלל את ג'רום פרידמן, הנרי קנדל וריצ'רד טיילור. הם כיוונו קרן אלקטרונים בעוצמה גבוהה לעבר מטרת מימן (בפועל, לעבר פרוטונים) ומדדו כיצד האלקטרונים מתפזרים. אם הפרוטון היה כתם מטען רך ומפוזר באופן אחיד, האלקטרונים היו צריכים להתפזר בעדינות ובצורה צפויה. במקום זאת, הנתונים שפורסמו באוקטובר 1969 הראו שחלק משמעותי מהאלקטרונים נסטה בזוויות גדולות - חותמת של פגיעה בעצמים קטנים, קשים ונקודתיים הקבורים בתוך הפרוטון.\n\nזה היה מושגית אותו טריק שבו השתמש ארנסט רדרפורד ב-1909 כדי לגלות את גרעין האטום, כשירה חלקיקי אלפא לעבר רדיד זהב וגילה שחלקם קפצו היישר לאחור. בדיוק כמו שהסטיות המפתיעות של רדרפורד חשפו שאטומים הם בעיקרם חלל ריק עם גרעין צפוף, הסטיות ב-SLAC חשפו שהפרוטונים אינם יסודיים אלא מורכבים ממרכיבים קטנים וקשים יותר.\n\nהתוצאה הניבה לפרידמן, קנדל וטיילור את פרס נובל לפיזיקה לשנת 1990, ועיגנה את הכרומודינמיקה הקוונטית (quantum chromodynamics, QCD) - התיאוריה של הכוח החזק המחזיק את הקוורקים יחד בתוך פרוטונים ונויטרונים, אחד מעמודי התווך של המודל הסטנדרטי בפיזיקת החלקיקים, שעדיין מתאר את העולם התת-אטומי כיום."
+      },
+      "tags": [
+        "physics",
+        "science",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1969: Experimental results from the Stanford Linear Accelerator Center were published showing that protons were composed of smaller particles, the first evidence of quarks.",
+          "url": "https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory"
+        }
+      ]
+    }
+  ]
+}

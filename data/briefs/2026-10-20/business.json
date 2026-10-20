@@ -1,0 +1,101 @@
+{
+  "section": "business",
+  "date": "2026-10-20",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-20T03:54:40+00:00",
+  "stories": [
+    {
+      "id": "ai-credit-risk-softbank",
+      "kind": "analysis",
+      "en": {
+        "headline": "Credit Markets Start Pricing the Risk Behind AI's Debt-Fueled Buildout",
+        "scroll": "SoftBank's credit-default swaps jumped to a four-year high, a sign that credit markets — not just stock markets — are starting to price the risk in debt-funded AI infrastructure spending.",
+        "coffee": "SoftBank Group's credit-default swaps (CDS) — contracts that act like insurance against a company defaulting on its debt — rose to their highest level in nearly four years. The move reflects investor concern over SoftBank's AI-related funding commitments and reports it may pursue another large acquisition, both of which would pile more debt onto an already leveraged balance sheet.\n\nThis matters because CDS spreads are often a more sober signal than share prices. Bondholders and credit-protection buyers only get paid back in full if the company survives; they have no upside from a rally, so their pricing is a pure read on default risk, unclouded by growth-story enthusiasm. That's why the timing stands out: the Wall Street Journal flagged that the weak points in AI-related bond issuance are 'becoming clearer,' and strategists are asking whether last week's selloff in AI-infrastructure firm CoreWeave marks a turning point for the whole trade. Equities, meanwhile, have been more relaxed — stocks were mostly higher as traders pared back bets that AI-chasing tech firms had overextended themselves, and Nomura argues investors are actually underestimating AI profitability across the supply chain.\n\nWhat to watch: this week's chip and AI-linked earnings will test whether credit markets are ahead of the curve or just nervous, and whether SoftBank's next move — financing or acquisition — adds more leverage to a trade already showing cracks in its credit math.",
+        "deep": "## Background\n\nA credit-default swap (CDS) is, in effect, an insurance policy on a bond. The buyer pays a regular premium, quoted in basis points, and in exchange the seller promises to cover the loss if the underlying borrower defaults. The premium itself is the useful part: it is the market's real-time estimate of how risky that borrower has become. When a company's CDS spread widens, it means more investors are paying up to protect themselves against the chance it can't service its debt — and that price moves before most other public signals catch up, because the people setting it have nothing to gain from optimism. A bondholder's best outcome is simply getting paid back; unlike a shareholder, they capture no upside if the company's bet pays off spectacularly, so their judgment is unusually unsentimental.\n\nThis is distinct from a stock price, which blends growth expectations, sentiment and risk together. That is exactly why credit markets and equity markets can send opposite signals at the same time — and why divergence between them is worth noticing.\n\n## The story\n\nSoftBank Group's CDS have risen to their highest level in roughly four years. The driver, per reporting, is twofold: mounting concern about the scale of SoftBank's AI-related funding commitments, and reports that the company may pursue another large acquisition. Both would add leverage — borrowed capital layered on top of existing obligations — to a balance sheet already stretched by its bets across the AI stack, from chip design to data-center infrastructure to portfolio companies still burning cash on the way to profitability.\n\nThe signal arrives alongside other cracks in the credit side of the AI trade. The Wall Street Journal notes that the weak points in AI-related bond issuance are 'becoming clearer' as traders dig into the debt structures backing data-center buildouts. Separately, strategists are treating last week's share slide in CoreWeave — a company whose business model depends on financing massive AI-compute buildouts with debt — as a possible inflection point for how the market prices AI infrastructure risk generally.\n\nYet this is not a one-sided panic. U.S. stocks were mostly higher as traders pared back bets that CoreWeave and similar firms had overextended themselves, and Nomura has argued the opposite case: that investors are underestimating AI profitability across the supply chain, not overestimating it. Tech shares have also come under renewed, AI-jitters-driven pressure ahead of a heavy week of earnings that should test whether chip-stock gains are backed by fundamentals.\n\n## Second-order effects\n\nThis is a useful case study in how a capital-intensive growth cycle gets financed, and where the stress shows up first. AI infrastructure — chips, data centers, power — is being built at a pace that outruns what companies can fund from operating cash flow alone, so a large share of it runs through debt: corporate bonds, project finance, and vehicles like SoftBank's that borrow to invest in AI assets and AI-adjacent companies. When credit markets start charging more to insure against default, it raises the cost of that debt for the next round of capex — a feedback loop where rising credit risk itself slows the buildout it is worried about.\n\nIt also illustrates a basic market-structure lesson: equity and credit investors are pricing different things. Equity holders are compensated for upside and will tolerate leverage if the growth story holds; credit holders are compensated only for getting their money back and react first when leverage starts to look unrewarded. A widening CDS spread next to a rallying stock price is not a contradiction — it's two different risk committees reaching different conclusions from the same facts, and credit desks are usually the more skeptical of the two.\n\nFinally, there's a contagion dimension. SoftBank sits in the middle of the AI financing ecosystem — as an investor in chip designers, AI labs and infrastructure plays. If its own cost of borrowing rises, that can tighten funding conditions for the companies it backs, and a stumble at a hub like SoftBank tends to be read as information about the health of the wider AI capex cycle, not just about SoftBank itself.\n\n## What to watch next\n\nWatch this week's AI-linked earnings, which markets are already treating as the referendum on whether the chip-stock rally is justified. Watch whether SoftBank actually announces the large acquisition the market is pricing in, and how it's financed — fresh debt would confirm the leverage story; asset sales or equity would ease it. And watch whether other AI-adjacent credits start trading like CoreWeave and SoftBank — that would turn a single-company story into the first real stress test of how debt-funded AI infrastructure gets priced when sentiment cools."
+      },
+      "he": {
+        "headline": "שוקי האג\"ח מתחילים לתמחר את הסיכון שמסתתר במימון החוב של תשתיות ה-AI",
+        "scroll": "החלפות כשל האשראי (credit default swaps, CDS) של סופטבנק זינקו לשפל של ארבע שנים — סימן שלא רק שוק המניות, גם שוק האג\"ח מתחיל לתמחר את הסיכון במימון תשתיות ה-AI באמצעות חוב.",
+        "coffee": "החלפות כשל האשראי (CDS) של קבוצת סופטבנק — חוזים שמתפקדים כמעין ביטוח מפני חדלות פירעון של חברה — טיפסו לרמה הגבוהה ביותר שלהם בכארבע שנים. הזינוק משקף חששות משקיעים סביב התחייבויות המימון של סופטבנק בתחום ה-AI, לצד דיווחים על רכישה גדולה נוספת שהחברה עשויה לבצע — שני דברים שיוסיפו חוב למאזן שכבר ממונף (leveraged) מאוד.\n\nזה חשוב כי מרווחי ה-CDS הם לרוב אינדיקטור \"קר רוח\" יותר ממחיר המנייה. מחזיקי אג\"ח ורוכשי ביטוח אשראי מקבלים את הכסף שלהם בחזרה במלואו רק אם החברה שורדת; אין להם רווח נוסף אם המנייה מזנקת, כך שהתמחור שלהם משקף בעיקר הערכת סיכון טהורה. בדיוק משום כך התזמון בולט: בוול סטריט ג'ורנל מצוין שהחורים בהנפקות אג\"ח הקשורות ל-AI \"הופכים ברורים יותר\", ואנליסטים שואלים אם ירידת המניה של CoreWeave בשבוע האחרון מסמנת נקודת מפנה לכל הסקטור. מנגד, שוק המניות דווקא רגוע יותר — מדדי וול סטריט עלו ברובם כשסוחרים הקטינו הימורים על כך שחברות שרדפו אחרי בום ה-AI נמתחו יתר על המידה, ונומורה טוען שהשוק דווקא מעריך בחסר את הרווחיות העתידית של שרשרת האספקה של ה-AI.\n\nמה לעקוב: הדו\"חות של חברות השבבים וה-AI השבוע יהיו המבחן האמיתי לשאלה אם שוק האג\"ח מקדים את המאורעות או סתם עצבני, ואם המהלך הבא של סופטבנק — מימון או רכישה — יוסיף עוד מנוף (leverage) למגמה שכבר מראה סדקים בחשבון האשראי שלה.",
+        "deep": "## רקע\n\nהחלפת כשל אשראי (credit default swap, CDS) היא בפועל פוליסת ביטוח על אג\"ח. הרוכש משלם פרמיה שוטפת, המתומחרת בנקודות בסיס, ובתמורה המוכר מתחייב לכסות את ההפסד אם הלווה המקורי יגיע לחדלות פירעון. הפרמיה עצמה היא החלק המעניין: היא הערכה בזמן אמת של השוק לגבי רמת הסיכון של אותו לווה. כשמרווח ה-CDS של חברה מתרחב, זה אומר שיותר משקיעים מוכנים לשלם יותר כדי להגן על עצמם מפני הסיכוי שהחברה לא תוכל לשרת את החוב שלה — והתמחור הזה נוטה להקדים אינדיקטורים ציבוריים אחרים, מכיוון שלאלה שמגדירים אותו אין שום רווח מאופטימיות. התוצאה הטובה ביותר למחזיק אג\"ח היא פשוט לקבל את הכסף בחזרה; בשונה מבעל מניות, הוא לא נהנה מהצד החיובי אם ההימור של החברה מצליח בגדול, ולכן שיקול הדעת שלו נוטה להיות פחות רגשי ויותר קר.\n\nזה שונה ממחיר מנייה, שמשלב בתוכו גם ציפיות צמיחה, גם סנטימנט וגם סיכון. בדיוק בשל כך שוק האג\"ח ושוק המניות יכולים לשלוח אותות מנוגדים באותו זמן — וכשזה קורה, שווה לשים לב.\n\n## הסיפור\n\nה-CDS של קבוצת סופטבנק עלו לרמתם הגבוהה ביותר בכארבע שנים. הגורם, לפי הדיווחים, כפול: חששות גוברים לגבי היקף התחייבויות המימון של סופטבנק בתחום ה-AI, ודיווחים על כך שהחברה עשויה לבצע רכישה גדולה נוספת. שני הדברים יוסיפו מנוף (leverage) — הון שאול המונח על גבי התחייבויות קיימות — למאזן שכבר נמתח על פני התחייבויות בכל שכבות מערך ה-AI: מתכנון שבבים, דרך תשתיות מרכזי נתונים, ועד חברות פורטפוליו שעדיין שורפות מזומנים בדרך לרווחיות.\n\nהאיתות הזה מגיע לצד סדקים נוספים בצד האשראי של מגמת ה-AI. ה-Wall Street Journal מציין שהחורים בהנפקות אג\"ח הקשורות ל-AI \"הופכים ברורים יותר\", כשסוחרים בוחנים לעומק את מבני החוב שמאחורי בניית מרכזי הנתונים. במקביל, אנליסטים מתייחסים לירידת המניה של CoreWeave בשבוע שעבר — חברה שמודל העסקים שלה מבוסס על מימון בחוב של בנייה מסיבית של כוח מחשוב ל-AI — כנקודת מפנה פוטנציאלית בתמחור הסיכון של תשתיות AI בכלל.\n\nעם זאת, זו לא תמונה חד-צדדית של פאניקה. מדדי המניות בוול סטריט עלו ברובם כשסוחרים הקטינו הימורים על כך ש-CoreWeave וחברות דומות נמתחו יתר על המידה, ונומורה דווקא מעלה את הטענה ההפוכה: שהשוק מעריך בחסר, ולא בעודף, את הרווחיות העתידית של ה-AI על פני שרשרת האספקה. גם מניות הטכנולוגיה חוות לחץ מחודש על רקע עצבנות סביב ה-AI, לפני שבוע דו\"חות עמוס שצפוי לבחון אם עליות מניות השבבים נשענות על יסודות אמיתיים.\n\n## השפעות מסדר שני\n\nזה מקרה מבחן שימושי להבנת האופן בו מחזור צמיחה עתיר הון ממומן, והיכן הלחץ מתגלה לראשונה. תשתיות AI — שבבים, מרכזי נתונים, חשמל — נבנות בקצב שעולה על מה שחברות יכולות לממן מתזרים מזומנים תפעולי בלבד, כך שחלק גדול מהמימון עובר דרך חוב: אג\"ח קונצרניות, מימון פרויקטים, וגופים כמו סופטבנק שלוקחים הלוואות כדי להשקיע בנכסי AI ובחברות הקשורות לתחום. כשהשוק מתחיל לגבות יותר על ביטוח מפני חדלות פירעון, זה מעלה את עלות החוב לסבב ההשקעות הבא — מעגל משוב שבו עליית סיכון האשראי עצמה מאטה את הבנייה שהיא חוששת ממנה.\n\nזה גם מדגים עיקרון בסיסי במבנה השוק: משקיעי מניות ומשקיעי אג\"ח מתמחרים דברים שונים. בעלי מניות מתוגמלים על הצד החיובי ונוטים לסבול מנוף גבוה כל עוד סיפור הצמיחה מחזיק מעמד; מחזיקי אג\"ח מתוגמלים רק על קבלת הכסף בחזרה, ומגיבים ראשונים כשהמנוף מתחיל להיראות לא-מתוגמל. מרווח CDS מתרחב לצד מנייה שממשיכה לעלות אינו סתירה — אלה שתי \"ועדות סיכון\" שונות שמגיעות למסקנות שונות מאותן עובדות, ולרוב דסק האשראי הוא הספקן מבין השניים.\n\nולבסוף, יש כאן גם ממד של הדבקה. סופטבנק נמצאת במרכז מערך המימון של ה-AI — כמשקיעה בחברות תכנון שבבים, מעבדות AI ושחקניות תשתית. אם עלות החוב שלה עולה, זה יכול להקשיח את תנאי המימון לחברות שהיא מגבה, ומעידה של גוף מרכזי כמו סופטבנק נוטה להיתפס כמידע על מצב מחזור ה-capex של ה-AI בכללותו, לא רק על סופטבנק עצמה.\n\n## מה לעקוב בהמשך\n\nשימו לב לדו\"חות חברות השבבים וה-AI השבוע, שהשוק כבר מתייחס אליהם כמשאל עם על השאלה אם עליות מניות השבבים מוצדקות. שימו לב אם סופטבנק בפועל תכריז על הרכישה הגדולה שהשוק כבר מתמחר, ואיך היא תמומן — חוב טרי יאשר את סיפור המנוף; מכירת נכסים או גיוס הון יקל עליו. ושימו לב אם אג\"ח נוספות הקשורות ל-AI יתחילו להיסחר כמו CoreWeave וסופטבנק — זה יהפוך סיפור של חברה בודדת למבחן המתח האמיתי הראשון לאופן שבו מתומחרות תשתיות AI הממומנות בחוב כשהסנטימנט מתקרר."
+      },
+      "tags": [
+        "softbank",
+        "ai-infrastructure",
+        "credit-risk",
+        "credit-default-swaps"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "SoftBank Group Credit Risk Hits 4-Year High on AI Funding Strain",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-20/softbank-group-credit-risk-hits-4-year-high-on-ai-funding-strain"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Weak Points in AI Bonds Are Becoming Clearer",
+          "url": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Pickers Burned by the AI Boom Think Their Moment Has Finally Arrived",
+          "url": "https://www.wsj.com/finance/stocks/stock-pickers-burned-by-the-ai-boom-think-their-moment-has-finally-arrived-07878da7?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Mostly Higher as AI Credit Worries Abate",
+          "url": "https://www.wsj.com/finance/investing/u-s-stocks-mostly-higher-as-ai-credit-worries-abate-600bf008?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Investors Likely Underestimating AI Profitability",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-falls-amid-lingering-worry-over-ai-boom-amid-elevated-bond-yields-6628932c?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Tech Under Pressure on AI Jitters, Dollar Slips: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4205.7202,
+      "prev_close": 4224.6699,
+      "change_pct": -0.45,
+      "as_of": "2026-10-19"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7690.73,
+      "prev_close": 7659.4399,
+      "change_pct": 0.41,
+      "as_of": "2026-10-19"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0973,
+      "prev_close": 3.0937,
+      "change_pct": 0.12,
+      "as_of": "2026-10-20"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 110.08,
+      "prev_close": 109.86,
+      "change_pct": 0.2,
+      "as_of": "2026-10-19"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 81899.2031,
+      "prev_close": 82017.6016,
+      "change_pct": -0.14,
+      "as_of": "2026-10-20"
+    }
+  }
+}

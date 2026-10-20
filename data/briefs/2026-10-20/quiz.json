@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-20",
+  "questions": [
+    {
+      "id": "q1-sports-arsenal-bayern",
+      "section": "sports",
+      "story_id": "arsenal-form-bayern-test",
+      "answer_index": 0,
+      "en": {
+        "question": "After their three-match winning streak, where do Arsenal travel next in the Champions League?",
+        "options": [
+          "Bayern Munich",
+          "Paris Saint-Germain",
+          "Real Madrid",
+          "Inter Milan"
+        ],
+        "explanation": "Arsenal, second in the Premier League on a three-match winning run, travel to Bayern Munich in the Champions League."
+      },
+      "he": {
+        "question": "לאחר רצף של שלושה ניצחונות, לאן ארסנל נוסעת במשחק הבא בליגת האלופות?",
+        "options": [
+          "באיירן מינכן",
+          "פריז סן ז'רמן",
+          "ריאל מדריד",
+          "אינטר מילאנו"
+        ],
+        "explanation": "ארסנל, שנייה בפרמייר ליג עם רצף של שלושה ניצחונות, נוסעת לבאיירן מינכן במשחק ליגת האלופות."
+      }
+    },
+    {
+      "id": "q2-geopolitics-summit",
+      "section": "geopolitics",
+      "story_id": "ukraine-grid-axis-of-upheaval",
+      "answer_index": 0,
+      "en": {
+        "question": "What did the Kremlin reportedly float for next month, as fighting continued in Ukraine?",
+        "options": [
+          "A summit between Putin, Trump and Xi",
+          "A unilateral Russian troop withdrawal",
+          "A new round of EU sanctions talks",
+          "A formal NATO-Russia peace treaty"
+        ],
+        "explanation": "Amid renewed Russian strikes on Ukraine's power grid and strained US-Ukraine coordination, the Kremlin floated a possible Putin-Trump-Xi summit in China next month."
+      },
+      "he": {
+        "question": "מה הקרמלין, לפי הדיווחים, העלה על השולחן לחודש הבא, בעת שהלחימה באוקראינה נמשכת?",
+        "options": [
+          "פסגה בין פוטין, טראמפ ושי",
+          "נסיגה חד-צדדית של כוחות רוסיים",
+          "סבב שיחות סנקציות חדש מול האיחוד האירופי",
+          "הסכם שלום רשמי בין נאט״ו לרוסיה"
+        ],
+        "explanation": "על רקע התקפות רוסיות מחודשות על רשת החשמל האוקראינית ותיאום רעוע בין וושינגטון לקייב, הקרמלין העלה אפשרות לפסגה בין פוטין, טראמפ ושי בסין בחודש הבא."
+      }
+    },
+    {
+      "id": "q3-business-cds",
+      "section": "business",
+      "story_id": "ai-credit-risk-softbank",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did SoftBank's credit-default swaps (CDS) rising to a four-year high matter?",
+        "options": [
+          "Credit markets began pricing in more default risk from SoftBank's AI-related, debt-fueled spending",
+          "SoftBank's stock price collapsed overnight",
+          "SoftBank formally defaulted on a bond payment",
+          "CDS prices fell to a record low, signaling investor confidence"
+        ],
+        "explanation": "Rising CDS prices mean investors are demanding more to insure against a SoftBank default, reflecting concern over its AI-related debt and acquisition plans."
+      },
+      "he": {
+        "question": "מדוע העלייה של חוזי ה-CDS (ביטוח מפני חדלות פירעון) של סופטבנק לשיא של כארבע שנים חשובה?",
+        "options": [
+          "שוקי האשראי התחילו לתמחר סיכון גבוה יותר לחדלות פירעון בשל ההתרחבות הממומנת בחוב של סופטבנק בתחום ה-AI",
+          "מניית סופטבנק קרסה בן לילה",
+          "סופטבנק הכריזה רשמית על חדלות פירעון באג״ח",
+          "מחירי ה-CDS צנחו לשיא שלילי, מה שמצביע על ביטחון המשקיעים"
+        ],
+        "explanation": "עליית מחירי ה-CDS משמעה שהמשקיעים דורשים פרמיה גבוהה יותר כדי לבטח את עצמם מפני חדלות פירעון של סופטבנק, על רקע החששות מהחוב הקשור ל-AI ומתוכניות הרכישה."
+      }
+    }
+  ]
+}
