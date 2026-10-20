@@ -207,12 +207,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Saturday assorted links",
      "published": "2026-10-17T15:57:58+00:00",
      "summary": "1. GLM-5.3 understands Bob Lucas (and then some). It amuses me how many basic principles of economics are being rediscovered in these new contexts. 2. Most famous book tied to every U.S. state. The NJ answer is crazy, how about Roth’s American Pastoral? 3. Adam Tooze on Perry Mehrling. 4. How employment is changing at […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Solving for the equilibrium?",
-     "published": "2026-10-17T07:34:21+00:00",
-     "summary": "Sixteen AI agents were each ha‍nded 1,000 satoshi⁠s of real b‌itcoin and told nothing about how to use​ it. A hund‍red rounds l‌at‍er⁠, four of them had roughly doubled⁠ th‍eir money, tw‍o h‌a‍d​ been wiped out, and the‍ three richest a​gents held more than half‍ of all the bitco‌in in the room.⁠ Nobody wrote a […] The post Solving for the equilibrium? appeared first on Marginal REVOLUTION ."
     }
    ]
   },

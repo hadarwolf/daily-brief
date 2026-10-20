@@ -13,6 +13,162 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
 {
  "news_feeds": [
   {
+   "outlet": "AP — World (via Google News)",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "ap_world#0",
+     "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
+     "published": "2026-10-20T07:35:40+00:00",
+     "summary": "California officials who process ballots from suspected noncitizens risk prosecution, US warns AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Saudi Arabia - AP News",
+     "published": "2026-10-20T07:34:01+00:00",
+     "summary": "Saudi Arabia AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "An Australian lawmaker is critical but stable after being hit by a car, the prime minister says - AP News",
+     "published": "2026-10-20T05:56:00+00:00",
+     "summary": "An Australian lawmaker is critical but stable after being hit by a car, the prime minister says AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Díaz, Caminero and Peralta lead Rays to 7-3 win over Guardians and a trip to the World Series - AP News",
+     "published": "2026-10-20T05:52:00+00:00",
+     "summary": "Díaz, Caminero and Peralta lead Rays to 7-3 win over Guardians and a trip to the World Series AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-20T05:39:10+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Alberta voters reject a move toward independence in referendum, CBC projects - AP News",
+     "published": "2026-10-20T05:22:00+00:00",
+     "summary": "Alberta voters reject a move toward independence in referendum, CBC projects AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations - AP News",
+     "published": "2026-10-20T05:18:00+00:00",
+     "summary": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Purdy and the 49ers build a big lead and hold on to beat the Commanders 23-17 - AP News",
+     "published": "2026-10-20T05:05:00+00:00",
+     "summary": "Purdy and the 49ers build a big lead and hold on to beat the Commanders 23-17 AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Commanders WR Terry McLaurin suffers knee injury vs. 49ers that team fears is serious - AP News",
+     "published": "2026-10-20T04:53:00+00:00",
+     "summary": "Commanders WR Terry McLaurin suffers knee injury vs. 49ers that team fears is serious AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder - AP News",
+     "published": "2026-10-20T04:36:00+00:00",
+     "summary": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series - AP News",
+     "published": "2026-10-20T04:21:00+00:00",
+     "summary": "Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples - AP News",
+     "published": "2026-10-20T04:20:00+00:00",
+     "summary": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "After years of backlash, Apu returns to ‘The Simpsons’ with a South Asian voice - AP News",
+     "published": "2026-10-20T04:01:00+00:00",
+     "summary": "After years of backlash, Apu returns to ‘The Simpsons’ with a South Asian voice AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms - AP News",
+     "published": "2026-10-20T04:01:00+00:00",
+     "summary": "Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "Parents of Bend, Oregon, shooting victim hire attorneys to investigate school plans and gun purchase - AP News",
+     "published": "2026-10-20T03:59:00+00:00",
+     "summary": "Parents of Bend, Oregon, shooting victim hire attorneys to investigate school plans and gun purchase AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "How France’s worst rioting in years erupted and how the government responded - AP News",
+     "published": "2026-10-20T03:44:00+00:00",
+     "summary": "How France’s worst rioting in years erupted and how the government responded AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Angel Reese has 30 points, 16 rebounds as Dream beat Valkyries 79-65 to even WNBA Finals at 1-1 - AP News",
+     "published": "2026-10-20T03:36:00+00:00",
+     "summary": "Angel Reese has 30 points, 16 rebounds as Dream beat Valkyries 79-65 to even WNBA Finals at 1-1 AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street - AP News",
+     "published": "2026-10-20T03:20:00+00:00",
+     "summary": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street AP News"
+    },
+    {
+     "ref": "ap_world#18",
+     "title": "Leader of Kenyan doomsday cult that left more than 400 followers dead convicted of 191 murders - AP News",
+     "published": "2026-10-20T02:54:00+00:00",
+     "summary": "Leader of Kenyan doomsday cult that left more than 400 followers dead convicted of 191 murders AP News"
+    },
+    {
+     "ref": "ap_world#19",
+     "title": "CNN anchor Christiane Amanpour leaving network after a storied career of 43 years - AP News",
+     "published": "2026-10-20T02:41:00+00:00",
+     "summary": "CNN anchor Christiane Amanpour leaving network after a storied career of 43 years AP News"
+    },
+    {
+     "ref": "ap_world#20",
+     "title": "Africa CDC wants aid groups to account better for millions disbursed to fight Ebola outbreak - AP News",
+     "published": "2026-10-20T02:32:00+00:00",
+     "summary": "Africa CDC wants aid groups to account better for millions disbursed to fight Ebola outbreak AP News"
+    },
+    {
+     "ref": "ap_world#21",
+     "title": "JD Vance declines to endorse Netanyahu for reelection, says he’s focusing on midterms - AP News",
+     "published": "2026-10-20T02:11:00+00:00",
+     "summary": "JD Vance declines to endorse Netanyahu for reelection, says he’s focusing on midterms AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "North Korea threatens to restart propaganda broadcasts and deploy more weapons at border with South - AP News",
+     "published": "2026-10-20T02:04:00+00:00",
+     "summary": "North Korea threatens to restart propaganda broadcasts and deploy more weapons at border with South AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "Trump rallies in Kansas as rising farm costs fuel Republican concerns about voter turnout - AP News",
+     "published": "2026-10-20T01:50:00+00:00",
+     "summary": "Trump rallies in Kansas as rising farm costs fuel Republican concerns about voter turnout AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Hegseth makes unannounced trip and other Mideast news - AP News",
+     "published": "2026-10-20T01:39:00+00:00",
+     "summary": "Hegseth makes unannounced trip and other Mideast news AP News"
+    }
+   ]
+  },
+  {
    "outlet": "BBC News — World",
    "lang": "en",
    "items": [
@@ -291,6 +447,162 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "The Real Lesson of the Iran War",
      "published": "2026-10-13T08:00:00+00:00",
      "summary": "When airpower wins, and when it doesn’t."
+    }
+   ]
+  },
+  {
+   "outlet": "Reuters — World (via Google News)",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "reuters_world#0",
+     "title": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections - Reuters",
+     "published": "2026-10-20T06:02:00+00:00",
+     "summary": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say - Reuters",
+     "published": "2026-10-20T05:52:00+00:00",
+     "summary": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Ukraine's Zelenskiy travels to Norway for talks on war, security on Tuesday - Reuters",
+     "published": "2026-10-20T05:47:00+00:00",
+     "summary": "Ukraine's Zelenskiy travels to Norway for talks on war, security on Tuesday Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "China sends naval forces to monitor US warship near disputed shoal - Reuters",
+     "published": "2026-10-20T05:13:00+00:00",
+     "summary": "China sends naval forces to monitor US warship near disputed shoal Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Sea plans IPO for financial services arm Monee, memo says - Reuters",
+     "published": "2026-10-20T04:12:00+00:00",
+     "summary": "Sea plans IPO for financial services arm Monee, memo says Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
+     "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters",
+     "published": "2026-10-20T04:09:00+00:00",
+     "summary": "Rubio kicks off India visit with trade deal, Russian oil on agenda Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
+     "title": "Indonesia to deploy more than 9,000 security officers at protests marking Prabowo's two years in power - Reuters",
+     "published": "2026-10-20T03:57:00+00:00",
+     "summary": "Indonesia to deploy more than 9,000 security officers at protests marking Prabowo's two years in power Reuters"
+    },
+    {
+     "ref": "reuters_world#7",
+     "title": "Indonesia stems market rout ignited by MSCI expulsion threat - Reuters",
+     "published": "2026-10-20T03:36:00+00:00",
+     "summary": "Indonesia stems market rout ignited by MSCI expulsion threat Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
+     "title": "Chinese patrols to Taiwan's east are 'destabilising', US Congress-appointed official says - Reuters",
+     "published": "2026-10-20T03:21:00+00:00",
+     "summary": "Chinese patrols to Taiwan's east are 'destabilising', US Congress-appointed official says Reuters"
+    },
+    {
+     "ref": "reuters_world#9",
+     "title": "Seoul vows 'resolute punishment' after North Korea threatens new border measures - Reuters",
+     "published": "2026-10-20T02:53:00+00:00",
+     "summary": "Seoul vows 'resolute punishment' after North Korea threatens new border measures Reuters"
+    },
+    {
+     "ref": "reuters_world#10",
+     "title": "Australian barber hailed as hero for running to lawmaker's rescue during attack - Reuters",
+     "published": "2026-10-20T02:38:00+00:00",
+     "summary": "Australian barber hailed as hero for running to lawmaker's rescue during attack Reuters"
+    },
+    {
+     "ref": "reuters_world#11",
+     "title": "US to launch $8 billion support program for farmers to offset diesel costs, Trump says - Reuters",
+     "published": "2026-10-20T02:13:00+00:00",
+     "summary": "US to launch $8 billion support program for farmers to offset diesel costs, Trump says Reuters"
+    },
+    {
+     "ref": "reuters_world#12",
+     "title": "Shares stumble, oil rises as investors await AI sector earnings - Reuters",
+     "published": "2026-10-20T02:09:00+00:00",
+     "summary": "Shares stumble, oil rises as investors await AI sector earnings Reuters"
+    },
+    {
+     "ref": "reuters_world#13",
+     "title": "China's September US soybean imports rebound from zero a year earlier, data shows - Reuters",
+     "published": "2026-10-20T02:04:00+00:00",
+     "summary": "China's September US soybean imports rebound from zero a year earlier, data shows Reuters"
+    },
+    {
+     "ref": "reuters_world#14",
+     "title": "Trump warns Kansans that US will 'burn' like France if Democrats win - Reuters",
+     "published": "2026-10-20T01:50:00+00:00",
+     "summary": "Trump warns Kansans that US will 'burn' like France if Democrats win Reuters"
+    },
+    {
+     "ref": "reuters_world#15",
+     "title": "GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff - Reuters",
+     "published": "2026-10-20T01:37:00+00:00",
+     "summary": "GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff Reuters"
+    },
+    {
+     "ref": "reuters_world#16",
+     "title": "Gold eases as elevated oil prices keep inflation risks in focus - Reuters",
+     "published": "2026-10-20T01:33:00+00:00",
+     "summary": "Gold eases as elevated oil prices keep inflation risks in focus Reuters"
+    },
+    {
+     "ref": "reuters_world#17",
+     "title": "Yen jumps after JGB auction draws big demand, euro finds relief - Reuters",
+     "published": "2026-10-20T01:14:00+00:00",
+     "summary": "Yen jumps after JGB auction draws big demand, euro finds relief Reuters"
+    },
+    {
+     "ref": "reuters_world#18",
+     "title": "Trump says Mexico and US are close to trade deal - Reuters",
+     "published": "2026-10-20T01:00:00+00:00",
+     "summary": "Trump says Mexico and US are close to trade deal Reuters"
+    },
+    {
+     "ref": "reuters_world#19",
+     "title": "Cuba accuses US of letting terrorists operate with impunity after speedboat raid - Reuters",
+     "published": "2026-10-20T00:50:00+00:00",
+     "summary": "Cuba accuses US of letting terrorists operate with impunity after speedboat raid Reuters"
+    },
+    {
+     "ref": "reuters_world#20",
+     "title": "South Korea's Elice plunges 30% in market debut as data centre stocks shunned - Reuters",
+     "published": "2026-10-20T00:17:00+00:00",
+     "summary": "South Korea's Elice plunges 30% in market debut as data centre stocks shunned Reuters"
+    },
+    {
+     "ref": "reuters_world#21",
+     "title": "14 dead, 7 injured in Colombia illegal gold mine collapse - Reuters",
+     "published": "2026-10-19T23:34:47+00:00",
+     "summary": "14 dead, 7 injured in Colombia illegal gold mine collapse Reuters"
+    },
+    {
+     "ref": "reuters_world#22",
+     "title": "Killing of former anti-graft prosecutor a grim milestone in Guatemala's political violence - Reuters",
+     "published": "2026-10-19T23:27:08+00:00",
+     "summary": "Killing of former anti-graft prosecutor a grim milestone in Guatemala's political violence Reuters"
+    },
+    {
+     "ref": "reuters_world#23",
+     "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say - Reuters",
+     "published": "2026-10-19T23:18:00+00:00",
+     "summary": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say Reuters"
+    },
+    {
+     "ref": "reuters_world#24",
+     "title": "US officials plan to travel to Norway, Russia for Ukraine talks, sources say - Reuters",
+     "published": "2026-10-19T23:11:30+00:00",
+     "summary": "US officials plan to travel to Norway, Russia for Ukraine talks, sources say Reuters"
     }
    ]
   }

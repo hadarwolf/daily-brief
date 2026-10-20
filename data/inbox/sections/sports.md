@@ -73,8 +73,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-19T23:00:00Z",
      "home": "Corinthians",
      "away": "Vitória",
-     "status": "PAUSED",
-     "score": "0-1"
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "UEFA Champions League",
@@ -103,14 +103,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Stuttgart",
-     "away": "Atleti",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T19:00:00Z",
      "home": "Roma",
      "away": "Sl. Bratislava",
      "status": "TIMED",
@@ -127,8 +119,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "PSG",
-     "away": "Barça",
+     "home": "Stuttgart",
+     "away": "Atleti",
      "status": "TIMED",
      "score": null
     },
@@ -153,6 +145,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-20T19:00:00Z",
      "home": "Man City",
      "away": "PAE AEK",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T19:00:00Z",
+     "home": "PSG",
+     "away": "Barça",
      "status": "TIMED",
      "score": null
     }
@@ -706,6 +706,270 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "title": "How to follow the Champions League on the BBC",
      "published": "2026-10-19T15:39:04+00:00",
      "summary": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC."
+    }
+   ]
+  },
+  {
+   "outlet": "Google News — Inter Miami",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "gnews_inter_miami#0",
+     "title": "Unstoppable at 39: Brace, 936 career goals, and MLS history - The Jerusalem Post",
+     "published": "2026-10-20T07:18:29+00:00",
+     "summary": "Unstoppable at 39: Brace, 936 career goals, and MLS history The Jerusalem Post"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
+     "published": "2026-10-20T04:41:54+00:00",
+     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "Highlights: Seattle Sounders FC 1-1 CF Montréal (MLS), Major League Soccer - Forza Football",
+     "published": "2026-10-20T04:39:21+00:00",
+     "summary": "Highlights: Seattle Sounders FC 1-1 CF Montréal (MLS), Major League Soccer Forza Football"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
+     "title": "New York Red Bulls v Inter Miami CF Odds - FanDuel Sportsbook",
+     "published": "2026-10-20T04:35:54+00:00",
+     "summary": "New York Red Bulls v Inter Miami CF Odds FanDuel Sportsbook"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
+     "title": "Lionel Messi's Inter Miami Contract Shapes Retirement Decision | News - Football.com",
+     "published": "2026-10-20T04:08:32+00:00",
+     "summary": "Lionel Messi's Inter Miami Contract Shapes Retirement Decision | News Football.com"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
+     "title": "Neymar calls Santos the ‘Inter Miami of Brazil’ after Coutinho goal - foot.mundo",
+     "published": "2026-10-19T20:41:21+00:00",
+     "summary": "Neymar calls Santos the ‘Inter Miami of Brazil’ after Coutinho goal foot.mundo"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
+     "title": "'He's an alien' - Lionel Messi set for MVP three-peat after obliterating latest MLS record - www.footballtransfers.com",
+     "published": "2026-10-19T20:30:00+00:00",
+     "summary": "'He's an alien' - Lionel Messi set for MVP three-peat after obliterating latest MLS record www.footballtransfers.com"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
+     "title": "MLS: Messi’s Inter Miami moving up, Nashville still team to beat - ESPN La Crosse 105.5",
+     "published": "2026-10-19T20:26:06+00:00",
+     "summary": "MLS: Messi’s Inter Miami moving up, Nashville still team to beat ESPN La Crosse 105.5"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
+     "title": "Dayne St. Clair’s Inter Miami Future Is Uncertain as European Interest Could Change His Plans - Pasión Fútbol",
+     "published": "2026-10-19T20:25:40+00:00",
+     "summary": "Dayne St. Clair’s Inter Miami Future Is Uncertain as European Interest Could Change His Plans Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#9",
+     "title": "Messi, Suárez and Berterame named in MLS Team of the Matchday - OneFootball",
+     "published": "2026-10-19T18:50:03+00:00",
+     "summary": "Messi, Suárez and Berterame named in MLS Team of the Matchday OneFootball"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
+     "title": "MLS Power Rankings: Messi's Inter Miami moving up, Nashville still No.1 - ESPN",
+     "published": "2026-10-19T18:27:00+00:00",
+     "summary": "MLS Power Rankings: Messi's Inter Miami moving up, Nashville still No.1 ESPN"
+    },
+    {
+     "ref": "gnews_inter_miami#11",
+     "title": "Messi, Suárez and Berterame Named to MLS Team of the Matchday - Inter Miami CF",
+     "published": "2026-10-19T18:04:28+00:00",
+     "summary": "Messi, Suárez and Berterame Named to MLS Team of the Matchday Inter Miami CF"
+    },
+    {
+     "ref": "gnews_inter_miami#12",
+     "title": "What We Learned: Miami mean business, Orlando bring fireworks - Yahoo Sports",
+     "published": "2026-10-19T17:57:00+00:00",
+     "summary": "What We Learned: Miami mean business, Orlando bring fireworks Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#13",
+     "title": "MLS Power Rankings: Inter Miami, Vancouver Whitecaps Surge After Matchday 31 - Sports Illustrated",
+     "published": "2026-10-19T17:48:49+00:00",
+     "summary": "MLS Power Rankings: Inter Miami, Vancouver Whitecaps Surge After Matchday 31 Sports Illustrated"
+    },
+    {
+     "ref": "gnews_inter_miami#14",
+     "title": "Luis Suárez Becomes Second Player in Club History to Reach 100 Goal Contributions - WebWire",
+     "published": "2026-10-19T16:08:10+00:00",
+     "summary": "Luis Suárez Becomes Second Player in Club History to Reach 100 Goal Contributions WebWire"
+    },
+    {
+     "ref": "gnews_inter_miami#15",
+     "title": "Lionel Messi, Cristiano Ronaldo And The Power Of Future Earnings - Forbes",
+     "published": "2026-10-19T16:04:25+00:00",
+     "summary": "Lionel Messi, Cristiano Ronaldo And The Power Of Future Earnings Forbes"
+    },
+    {
+     "ref": "gnews_inter_miami#16",
+     "title": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly - Goal.com",
+     "published": "2026-10-19T14:59:54+00:00",
+     "summary": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
+     "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
+     "published": "2026-10-19T13:58:31+00:00",
+     "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
+     "title": "Neymar teases Messi and Beckham with 'Inter Miami do Brasil' after Santos win - OneFootball",
+     "published": "2026-10-19T13:55:07+00:00",
+     "summary": "Neymar teases Messi and Beckham with 'Inter Miami do Brasil' after Santos win OneFootball"
+    },
+    {
+     "ref": "gnews_inter_miami#19",
+     "title": "Atlanta United Vs Inter Miami CF Video Highlights: Messi Brace Powers Herons To Third Straight Win | MLS 2026 - Khel Now",
+     "published": "2026-10-19T13:15:26+00:00",
+     "summary": "Atlanta United Vs Inter Miami CF Video Highlights: Messi Brace Powers Herons To Third Straight Win | MLS 2026 Khel Now"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
+     "title": "Miami coach unfazed as Messi set to collect prestigious award in Spain - The Daily Star",
+     "published": "2026-10-19T12:59:46+00:00",
+     "summary": "Miami coach unfazed as Messi set to collect prestigious award in Spain The Daily Star"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
+     "title": "Atlanta United - Inter Miami CF 0 - 3 | TOR - Leo Messi - OneFootball",
+     "published": "2026-10-19T11:53:22+00:00",
+     "summary": "Atlanta United - Inter Miami CF 0 - 3 | TOR - Leo Messi OneFootball"
+    },
+    {
+     "ref": "gnews_inter_miami#22",
+     "title": "Inter Miami Boss Reportedly Discussed as Potential Challenger to Gianni Infantino for FIFA Presidency - شبكة تواصل الإخبارية",
+     "published": "2026-10-19T11:34:51+00:00",
+     "summary": "Inter Miami Boss Reportedly Discussed as Potential Challenger to Gianni Infantino for FIFA Presidency شبكة تواصل الإخبارية"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
+     "title": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player - ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-10-19T10:03:30+00:00",
+     "summary": "David Beckham reveals hidden sleeper pick for 2026 FIFA World Cup, plus his favorite memory as a player ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "The Verdict: Messi doesn’t forget, and he makes sure to let his target remember - The New York Times",
+     "published": "2026-10-19T10:00:14+00:00",
+     "summary": "The Verdict: Messi doesn’t forget, and he makes sure to let his target remember The New York Times"
+    }
+   ]
+  },
+  {
+   "outlet": "Google News — Deni Avdija / Ben Saraf",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "gnews_israeli_nba#0",
+     "title": "Phoenix Suns vs Portland Trail Blazers Prediction, 10/21/2026 Preview and Pick - Doc's Sports",
+     "published": "2026-10-19T21:43:57+00:00",
+     "summary": "Phoenix Suns vs Portland Trail Blazers Prediction, 10/21/2026 Preview and Pick Doc's Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
+     "title": "Suns vs. Trail Blazers - Live Score - October 21, 2026 - FOX Sports",
+     "published": "2026-10-19T16:08:25+00:00",
+     "summary": "Suns vs. Trail Blazers - Live Score - October 21, 2026 FOX Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
+     "title": "5 Things I Liked from Deni Avdija's Recent Blazers Comments - Sports Illustrated",
+     "published": "2026-10-19T16:00:01+00:00",
+     "summary": "5 Things I Liked from Deni Avdija's Recent Blazers Comments Sports Illustrated"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
+     "title": "Blazers' Jeremy Sochan Cut Exposes Risky Bet on Forward Room - roundtable.io",
+     "published": "2026-10-19T12:29:02+00:00",
+     "summary": "Blazers' Jeremy Sochan Cut Exposes Risky Bet on Forward Room roundtable.io"
+    },
+    {
+     "ref": "gnews_israeli_nba#4",
+     "title": "Deni Avdija: 'I want to be a great two-way player' - HoopsHype",
+     "published": "2026-10-19T08:29:00+00:00",
+     "summary": "Deni Avdija: 'I want to be a great two-way player' HoopsHype"
+    },
+    {
+     "ref": "gnews_israeli_nba#5",
+     "title": "Deni Avdija on his goal: 'I want to be a great two-way player' - HoopsHype",
+     "published": "2026-10-19T08:28:00+00:00",
+     "summary": "Deni Avdija on his goal: 'I want to be a great two-way player' HoopsHype"
+    },
+    {
+     "ref": "gnews_israeli_nba#6",
+     "title": "Avdija ready for two-way leap, previews revamped roster: “Rock and roll” - Eurohoops",
+     "published": "2026-10-19T06:11:00+00:00",
+     "summary": "Avdija ready for two-way leap, previews revamped roster: “Rock and roll” Eurohoops"
+    },
+    {
+     "ref": "gnews_israeli_nba#7",
+     "title": "Deni Avdija: Portland's most dangerous weapon in the NBA - The Jerusalem Post",
+     "published": "2026-10-19T05:40:46+00:00",
+     "summary": "Deni Avdija: Portland's most dangerous weapon in the NBA The Jerusalem Post"
+    },
+    {
+     "ref": "gnews_israeli_nba#8",
+     "title": "Deni Avdija Media Availability | Oct. 18, 2026 | Portland Trail Blazers - BVM Sports",
+     "published": "2026-10-19T04:00:24+00:00",
+     "summary": "Deni Avdija Media Availability | Oct. 18, 2026 | Portland Trail Blazers BVM Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#9",
+     "title": "Deni Avdija Media Availability | Oct. 18, 2026 - NBA.com",
+     "published": "2026-10-19T00:58:53+00:00",
+     "summary": "Deni Avdija Media Availability | Oct. 18, 2026 NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#10",
+     "title": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija - Sport News Africa",
+     "published": "2026-10-18T20:00:00+00:00",
+     "summary": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija Sport News Africa"
+    },
+    {
+     "ref": "gnews_israeli_nba#11",
+     "title": "Did the Blazers Get Enough Out of Preseason? - Sports Illustrated",
+     "published": "2026-10-18T15:43:53+00:00",
+     "summary": "Did the Blazers Get Enough Out of Preseason? Sports Illustrated"
+    },
+    {
+     "ref": "gnews_israeli_nba#12",
+     "title": "Deni Avdija climbs in new rankings, earns high praise - The Jerusalem Post",
+     "published": "2026-10-18T06:10:35+00:00",
+     "summary": "Deni Avdija climbs in new rankings, earns high praise The Jerusalem Post"
+    },
+    {
+     "ref": "gnews_israeli_nba#13",
+     "title": "Sidy Cissoko is Essential to This Blazers Roster - Blazer's Edge",
+     "published": "2026-10-17T19:23:56+00:00",
+     "summary": "Sidy Cissoko is Essential to This Blazers Roster Blazer's Edge"
+    },
+    {
+     "ref": "gnews_israeli_nba#14",
+     "title": "Finding The Solution To The Trail Blazers’ Forward Problem - Last Word On Sports",
+     "published": "2026-10-17T13:34:32+00:00",
+     "summary": "Finding The Solution To The Trail Blazers’ Forward Problem Last Word On Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
+     "title": "Trail Blazers Show Offensive Promise Despite Preseason Finale Loss - roundtable.io",
+     "published": "2026-10-17T11:23:48+00:00",
+     "summary": "Trail Blazers Show Offensive Promise Despite Preseason Finale Loss roundtable.io"
+    },
+    {
+     "ref": "gnews_israeli_nba#16",
+     "title": "Five Nets, five tests as Brooklyn’s first-round class enters Year 2 - New York Daily News",
+     "published": "2026-10-17T11:00:36+00:00",
+     "summary": "Five Nets, five tests as Brooklyn’s first-round class enters Year 2 New York Daily News"
     }
    ]
   }
