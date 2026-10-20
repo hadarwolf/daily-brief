@@ -103,6 +103,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-20T19:00:00Z",
+     "home": "Roma",
+     "away": "Sl. Bratislava",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T19:00:00Z",
      "home": "Napoli",
      "away": "Bodø/Glimt",
      "status": "TIMED",
@@ -119,8 +127,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Roma",
-     "away": "Sl. Bratislava",
+     "home": "Porto",
+     "away": "PSV",
      "status": "TIMED",
      "score": null
     },
@@ -145,14 +153,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-20T19:00:00Z",
      "home": "Liverpool",
      "away": "Villarreal",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Porto",
-     "away": "PSV",
      "status": "TIMED",
      "score": null
     }
@@ -559,7 +559,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Listen: Ross County juggernaut & Partick Thistle penalty row - lower-league round-up",
+     "title": "Partick Thistle penalty row & Ross County juggernaut - lower-league round-up",
      "published": "2026-10-20T07:00:00+00:00",
      "summary": "Ross County hit seven as Partick Thistle chase the Championship summit."
     },
@@ -745,21 +745,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#5",
-     "title": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly - Goal.com",
-     "published": "2026-10-20T02:28:38+00:00",
-     "summary": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
      "title": "Lionel Messi Makes MLS History Again as Inter Miami Star Closes In on Third MVP Award - Pasión Fútbol",
      "published": "2026-10-19T21:30:00+00:00",
      "summary": "Lionel Messi Makes MLS History Again as Inter Miami Star Closes In on Third MVP Award Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#6",
      "title": "Neymar calls Santos the ‘Inter Miami of Brazil’ after Coutinho goal - foot.mundo",
      "published": "2026-10-19T20:41:21+00:00",
      "summary": "Neymar calls Santos the ‘Inter Miami of Brazil’ after Coutinho goal foot.mundo"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
+     "title": "Inter Miami’s 2027 Transfer Plan: Kily González Targets a Center Back and Defensive Midfielder - Pasión Fútbol",
+     "published": "2026-10-19T20:32:40+00:00",
+     "summary": "Inter Miami’s 2027 Transfer Plan: Kily González Targets a Center Back and Defensive Midfielder Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#8",
@@ -817,51 +817,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#17",
+     "title": "Atlanta United Face MLS Playoff Elimination After Lionel Messi’s Inter Miami Hand Them Crushing Defeat - Pasión Fútbol",
+     "published": "2026-10-19T17:12:59+00:00",
+     "summary": "Atlanta United Face MLS Playoff Elimination After Lionel Messi’s Inter Miami Hand Them Crushing Defeat Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
      "title": "Lionel Messi Suffers Another Blow as Inter Miami Are Eliminated From Supporters’ Shield Race - Pasión Fútbol",
      "published": "2026-10-19T16:58:27+00:00",
      "summary": "Lionel Messi Suffers Another Blow as Inter Miami Are Eliminated From Supporters’ Shield Race Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi Extends Incredible Scoring Streak to 14 Games as Inter Miami Star Keeps Making History - Pasión Fútbol",
      "published": "2026-10-19T16:44:04+00:00",
      "summary": "Lionel Messi Extends Incredible Scoring Streak to 14 Games as Inter Miami Star Keeps Making History Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Luis Suárez Becomes Second Player in Club History to Reach 100 Goal Contributions - WebWire",
      "published": "2026-10-19T16:08:10+00:00",
      "summary": "Luis Suárez Becomes Second Player in Club History to Reach 100 Goal Contributions WebWire"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi, Cristiano Ronaldo And The Power Of Future Earnings - Forbes",
      "published": "2026-10-19T16:04:25+00:00",
      "summary": "Lionel Messi, Cristiano Ronaldo And The Power Of Future Earnings Forbes"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
+     "title": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly - Goal.com",
+     "published": "2026-10-19T14:59:54+00:00",
+     "summary": "MLS Winners and Losers: Lionel Messi bails out Inter Miami again, Antoine Griezmann transforms Orlando City and Sam Sarver’s beer antics turn ugly Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
      "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-19T13:58:31+00:00",
      "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#24",
      "title": "Neymar teases Messi and Beckham with 'Inter Miami do Brasil' after Santos win - OneFootball",
      "published": "2026-10-19T13:55:07+00:00",
      "summary": "Neymar teases Messi and Beckham with 'Inter Miami do Brasil' after Santos win OneFootball"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Atlanta United Vs Inter Miami CF Video Highlights: Messi Brace Powers Herons To Third Straight Win | MLS 2026 - Khel Now",
-     "published": "2026-10-19T13:15:26+00:00",
-     "summary": "Atlanta United Vs Inter Miami CF Video Highlights: Messi Brace Powers Herons To Third Straight Win | MLS 2026 Khel Now"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Miami coach unfazed as Messi set to collect prestigious award in Spain - The Daily Star",
-     "published": "2026-10-19T12:59:46+00:00",
-     "summary": "Miami coach unfazed as Messi set to collect prestigious award in Spain The Daily Star"
     }
    ]
   },
@@ -871,87 +871,87 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Damian Lillard — No. 66 in The Ringer's NBA Top 100 - The Ringer",
+     "published": "2026-10-20T06:04:40+00:00",
+     "summary": "Damian Lillard — No. 66 in The Ringer's NBA Top 100 The Ringer"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "Phoenix Suns vs Portland Trail Blazers Prediction, 10/21/2026 Preview and Pick - Doc's Sports",
      "published": "2026-10-19T21:43:57+00:00",
      "summary": "Phoenix Suns vs Portland Trail Blazers Prediction, 10/21/2026 Preview and Pick Doc's Sports"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
      "title": "Suns vs. Trail Blazers - Live Score - October 21, 2026 - FOX Sports",
      "published": "2026-10-19T16:08:25+00:00",
      "summary": "Suns vs. Trail Blazers - Live Score - October 21, 2026 FOX Sports"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "5 Things I Liked from Deni Avdija's Recent Blazers Comments - Sports Illustrated",
      "published": "2026-10-19T16:00:01+00:00",
      "summary": "5 Things I Liked from Deni Avdija's Recent Blazers Comments Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Blazers' Jeremy Sochan Cut Exposes Risky Bet on Forward Room - roundtable.io",
      "published": "2026-10-19T12:29:02+00:00",
      "summary": "Blazers' Jeremy Sochan Cut Exposes Risky Bet on Forward Room roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija: 'I want to be a great two-way player' - HoopsHype",
      "published": "2026-10-19T08:29:00+00:00",
      "summary": "Deni Avdija: 'I want to be a great two-way player' HoopsHype"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija on his goal: 'I want to be a great two-way player' - HoopsHype",
      "published": "2026-10-19T08:28:00+00:00",
      "summary": "Deni Avdija on his goal: 'I want to be a great two-way player' HoopsHype"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Avdija ready for two-way leap, previews revamped roster: “Rock and roll” - Eurohoops",
      "published": "2026-10-19T06:11:00+00:00",
      "summary": "Avdija ready for two-way leap, previews revamped roster: “Rock and roll” Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Deni Avdija: Portland's most dangerous weapon in the NBA - The Jerusalem Post",
      "published": "2026-10-19T05:40:46+00:00",
      "summary": "Deni Avdija: Portland's most dangerous weapon in the NBA The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija Media Availability | Oct. 18, 2026 | Portland Trail Blazers - BVM Sports",
      "published": "2026-10-19T04:00:24+00:00",
      "summary": "Deni Avdija Media Availability | Oct. 18, 2026 | Portland Trail Blazers BVM Sports"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija Media Availability | Oct. 18, 2026 - NBA.com",
      "published": "2026-10-19T00:58:53+00:00",
      "summary": "Deni Avdija Media Availability | Oct. 18, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija - Sport News Africa",
      "published": "2026-10-18T20:00:00+00:00",
      "summary": "NBA — Trail Blazers: the keys to a 2026–2027 season built around Morant, Lillard and Avdija Sport News Africa"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Did the Blazers Get Enough Out of Preseason? - Sports Illustrated",
      "published": "2026-10-18T15:43:53+00:00",
      "summary": "Did the Blazers Get Enough Out of Preseason? Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija climbs in new rankings, earns high praise - The Jerusalem Post",
      "published": "2026-10-18T06:10:35+00:00",
      "summary": "Deni Avdija climbs in new rankings, earns high praise The Jerusalem Post"
-    },
-    {
-     "ref": "gnews_israeli_nba#13",
-     "title": "Sidy Cissoko is Essential to This Blazers Roster - Blazer's Edge",
-     "published": "2026-10-17T19:23:56+00:00",
-     "summary": "Sidy Cissoko is Essential to This Blazers Roster Blazer's Edge"
     },
     {
      "ref": "gnews_israeli_nba#14",
