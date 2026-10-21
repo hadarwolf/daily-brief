@@ -18,104 +18,104 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Carlsberg Said to Near Public Filing for $700 Million India IPO",
+     "published": "2026-10-21T07:23:07+00:00",
+     "summary": "Carlsberg A/S is preparing to publicly file documents for an initial public offering of its India business, which could raise as much as $700 million, as early as this week, according to people familiar with the matter."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Chiriseri: France’s Fiscal Picture Concern Bond Markets",
      "published": "2026-10-21T07:00:05+00:00",
      "summary": "Treasury yields edged higher as the recent bond rally lost some momentum. Bloomberg’s strategists say longer term, they see yields reaching fresher highs as strong US growth, higher borrowing costs and rising government debt supply will keep pressure on Treasuries. Rufaro Chiriseri, Head of Fixed Income for UK and Europe at RBC Wealth Management spoke to Bloomberg’s Abeer Abu Omar on Horizons Midd"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "Indonesia Holds Rate, Cuts RRR as MSCI Shock Hits Rupiah",
      "published": "2026-10-21T06:55:59+00:00",
      "summary": "Bank Indonesia kept its benchmark interest rate unchanged, opting instead to cut the reserve requirements for banks and continue relying on targeted measures to support the rupiah through market volatility triggered by MSCI Inc.’s double-downgrade threat."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "US Wants India’s Reliance to Refine More Venezuelan Oil",
      "published": "2026-10-21T06:48:59+00:00",
      "summary": "The US is looking to persuade India’s Reliance Industries to refine more Venezuelan crude as Washington seeks to bring additional supplies to a market rattled by the Iran conflict. Bloomberg's Sudhi Ranjan Sen has more from US Secretary of State Marco Rubio's visit to India. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "UK Inflation at 11-Month High Pressures BOE to Hike",
      "published": "2026-10-21T06:41:54+00:00",
      "summary": "Plus, the UK approves drilling at a contentious North Sea gas field"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "UK to Send Fighter Jets to Defend Saudi Arabia From Houthi Attacks",
      "published": "2026-10-21T06:40:48+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "CATL's HK Shares Drop By Record After Earnings Miss",
      "published": "2026-10-21T06:34:32+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "BlackRock Flags ‘Generational High Yields’ in Corporate Credit",
      "published": "2026-10-21T06:30:00+00:00",
      "summary": "BlackRock Inc. says current corporate bond yields offer a more resilient source of returns that doesn’t depend on expectations for falling interest rates or tighter spreads."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Super Typhoon Champi on Path to Impact China, Taiwan Within Days",
      "published": "2026-10-21T06:17:40+00:00",
      "summary": "One of the strongest storms of the current season is set to bring heavy rain and roaring winds to parts of East Asia in the next week, with major cities in Taiwan and China bracing for impact within days."
     },
     {
-     "ref": "bloomberg_markets#8",
-     "title": "UK Debt Tops £3 Trillion as Borrowing Soars Ahead of Budget",
+     "ref": "bloomberg_markets#9",
+     "title": "UK Debt Tops £3 Trillion as Deficit Overshoots Before Budget",
      "published": "2026-10-21T06:09:33+00:00",
-     "summary": "Britain’s national debt topped £3 trillion ($4 trillion) for the first time as the government borrowed more than forecast in the first half of the year, according to official figures that underline the challenge Chancellor of the Exchequer John Healey faces at his inaugural budget next week."
+     "summary": "Britain’s national debt topped £3 trillion ($4 trillion) for the first time as the government borrowed more than forecast in the first half of the fiscal year, according to official figures that underline the challenge Chancellor of the Exchequer John Healey faces at his inaugural budget next week."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Getty Files for Bankruptcy in Process That Will Take It Private",
      "published": "2026-10-21T05:56:55+00:00",
      "summary": "Getty Images Holdings Inc. is starting a prepackaged bankruptcy after securing a restructuring support agreement that will inject it with fresh money and take the photo archive and stock-image company private."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
+     "title": "Bank Indonesia on a Knife Edge Amid Rupiah Pressure and MSCI Threat",
+     "published": "2026-10-21T05:56:32+00:00",
+     "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#12",
      "title": "FTSE 100 Live: UK Inflation Accelerated More Than Expected",
      "published": "2026-10-21T05:52:15+00:00"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
      "title": "Key Mideast Oil Benchmark Hits 3-Month Low on Resilient Exports",
      "published": "2026-10-21T05:50:53+00:00",
      "summary": "A key benchmark for Middle East crude fell to its lowest in nearly three months, an indication of the resilience of the region’s exports despite intensifying Iranian attacks on shipping."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#14",
      "title": "INR/USD: Indian Rupee Rises to Six-Week High on Jio Platforms IPO Flows",
      "published": "2026-10-21T05:48:10+00:00",
      "summary": "India’s rupee extended its gains to a six-week high, buoyed by foreign inflows into Jio Platforms Ltd.’s $3.1 billion initial public offering, the nation’s largest."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#15",
      "title": "Cameroon Bonds Surge With President Paul Biya's Succession Unclear",
      "published": "2026-10-21T05:30:00+00:00",
      "summary": "Cameroon is getting hammered by bond investors after a credit downgrade. Having a nonagenarian leader with no public succession plan doesn’t help."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#16",
      "title": "Rubio to Discuss Venezuelan Crude with Ambani",
      "published": "2026-10-21T05:28:13+00:00",
      "summary": "US Secretary of State Marco Rubio hopes to discuss Venezuelan crude in his meeting with Reliance Industries' Chairman Mukesh Ambani at Jamnagar in India's western state of Gujarat. \"This is a company that has the capability to refine the heavy crude that's produced in the western hemisphere, including from Venezuela,\" he told reporters on Wednesday. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#15",
-     "title": "Citi's Luet on North Asia, Australia Outlook",
-     "published": "2026-10-21T05:15:38+00:00",
-     "summary": "Marc Luet, Citi's Japan, Asia North and Australia Cluster Head, discusses his outlook for the bank's business in the region, and what he views are investment opportunities. He speaks with Haidi Stroud Watts on the sidelines of the Citi ANZ Investment Conference on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#16",
-     "title": "Starbucks China Will Require Purchases to Sit in Its Cafes",
-     "published": "2026-10-21T05:13:41+00:00",
-     "summary": "Starbucks Corp. will require customers to make a purchase to sit in its China cafes, part of a push to revive its fortunes in the competitive mainland market."
     },
     {
      "ref": "bloomberg_markets#17",
@@ -131,9 +131,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#19",
-     "title": "Stocks Rise as Earnings Revive AI Trade, Oil Gains: Markets Wrap",
+     "title": "Stocks Rally as SpaceX Results Reignite AI Trade: Markets Wrap",
      "published": "2026-10-20T22:05:51+00:00",
-     "summary": "Stocks rose with futures as strong results from technology companies eased concerns over the AI trade after last week’s bruising selloff. Crude oil climbed."
+     "summary": "US stock futures rose after strong results from SpaceX eased concerns over whether a global investment spree in artificial intelligence can prove sustainable."
     }
    ]
   },
@@ -203,152 +203,151 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "הזינוק במחיר הדלק מקפיץ את האינפלציה בבריטניה מעל התחזיות — לשיא של שנה",
-     "published": "2026-10-21T07:06:00+00:00",
-     "summary": "סיאול קפצה ביותר מ-3% והובילה את העליות באסיה; SK הייניקס וסמסונג קפצו ב-6% ■ מחירי הנפט עולים ב-1.5%; הברנט מעל 110 דולר לחבית ■ דאו ג'ונס עלה אתמול ב–1%; נאסד\"ק עבר לירידות לקראת סגירת המסחר"
+     "title": "אחרי ניפוח המלאי והרווחים: תומר מזון חוזרת לבורסה, קימלוב הורחק מתפקיד היו\"ר",
+     "published": "2026-10-21T07:25:56+00:00",
+     "summary": "המסחר במניית יבואנית המזון מתחדש לאחר קרוב לחודשיים של השעיה, בעקבות פרסום מחדש של הדו\"חות וממצאי בדיקה שקבעה כי בעל השליטה דורון קימלוב פעל להגדלה מלאכותית של המלאי והרווחים ■ קימלוב יישאר מנכ\"ל, שכרו יופחת והוא יוותר על חלק מהמענקים ■ רביב ברוקהיימר ימונה ליו\"ר"
     },
     {
      "ref": "themarker#1",
+     "title": "הזינוק במחיר הדלק מקפיץ את האינפלציה בבריטניה מעל התחזיות — לשיא של שנה",
+     "published": "2026-10-21T07:22:00+00:00",
+     "summary": "עליות קלות באירופה, למעט בבורסת לונדון ■ סיאול קפצה ביותר מ-3% והובילה את העליות באסיה; SK הייניקס וסמסונג קפצו ב-6% ■ מחירי הנפט עולים ב-1.5%; הברנט מעל 110 דולר לחבית ■ דאו ג'ונס עלה אתמול ב–1%; נאסד\"ק עבר לירידות לקראת סגירת המסחר"
+    },
+    {
+     "ref": "themarker#2",
+     "title": "פחות משבוע לפני הבחירות: עליות בבורסה בת\"א, מדד הנדל\"ן מטפס ב–1%",
+     "published": "2026-10-21T07:13:49+00:00"
+    },
+    {
+     "ref": "themarker#3",
      "title": "תוקפים את נתניהו, מתאמים סיסמאות ומתעלמים מיוקר המחיה: ציוצי הפוליטיקאים ממעוף הציפור",
      "published": "2026-10-21T06:31:50+00:00",
      "summary": "הפוליטיקאים משתמשים ברשת X כדי להפיץ את משנתם. ניתוח של הציוצים שלהם חושף גם את מה שמסתתר מאחורי המסרים הגלויים"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#4",
      "title": "הפסד נטו של 80 מיליארד דולר בחצי שנה: מצבה של אנתרופיק נחשף בדרך להנפקה",
      "published": "2026-10-21T06:12:25+00:00",
      "summary": "אנתרופיק, חברת הבינה המלאכותית, מציגה במסמכים שקשורים לתשקיף החברה וטרם נחשפו, כי הוצאותיה על מחשוב יכולות להגיע ל–750 מיליארד דולר בשנים הקרובות"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#5",
      "title": "בתוך כל הרעש של אפשרות למלחמה והשינוי בת\"א 35, מרחף היום עוד סיכון למשקיעים",
      "published": "2026-10-21T05:31:22+00:00",
      "summary": "כשל השוק בתחום ביטוחי החיים, ספייס־אקס וטסלה פתחו בהליכים למיזוג אפשרי, גיל אגמון בוחן את רכישת חברת האשראי כאל — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#6",
      "title": "סטארלינק היא מנוע הרווח של ספייס־אקס. ההרחבה שמתכנן מאסק היא הימור נועז ומסוכן",
      "published": "2026-10-21T03:24:08+00:00",
      "summary": "סטארלינק, שירות הלוויינים של ספייס־אקס, צומח בקצב מסחרר מאז שהושק ב–2021 ■ עכשיו הוא גם עומד להתחרות במפעילות הסלולר הגדולות ביותר בארה\"ב"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#7",
      "title": "סוף עידן או דינמיקה בריאה: מה אפשר ללמוד מיציאתה של דמרי ממדד ת\"א 35",
      "published": "2026-10-21T03:23:27+00:00",
      "summary": "בעדכון המדדים הקרוב בנובמבר צפויות מניות דמרי ושופרסל לצאת ממדד ת\"א 35, בעוד אל על ודוראל צפויות להיכנס ■ השינויים משקפים את המגמות העיקריות במשק: היחלשות הנדל\"ן ועליית מניות האנרגיה וחברות התעופה ■ מדד ת\"א 35 עקף באופן משמעותי את מדד ת\"א 90 בשנתיים האחרונות"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#8",
      "title": "ספייס־אקס וטסלה פתחו בהליכים למיזוג אפשרי — הגדול בהיסטוריה",
      "published": "2026-10-21T03:12:41+00:00",
      "summary": "הבעלים והמנכ''ל אילון מאסק סיפר על הקמת ועדות לבחינת המיזוג לאחר פרסום תוצאות רבעוניות לספייס־אקס ■ המניה מזנקת ב-8% במסחר לאחר הסגירה"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#9",
      "title": "הראל נאלצה להחזיר למבוטחים יותר מ–10 מיליון שקל. ומה הייתה התלונה הכי נפוצה?",
      "published": "2026-10-21T03:05:06+00:00",
      "summary": "רשות שוק ההון קיבלה 17 אלף פניות ציבור ב–2025, שבעקבותיהן הוחזרו לציבור כ–21.5 מיליון שקל ■ 76% מהפניות היו תלונות, וכמעט מחצית מהן (45%) התבררו כמוצדקות"
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#10",
      "title": "שכר כפול או יום חופש? אלו הזכויות שלכם ביום הבחירות",
      "published": "2026-10-21T03:03:09+00:00",
      "summary": "ביום הבחירות המתקרב העובדים במשק זכאים ליום שבתון, אבל יש כמה סייגים ■ האם מותר להעסיק מטפלת ביום הבחירות? ומה לגבי עובד זר? וכמה משלמים על שעות נוספות? התשובות במדריך"
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#11",
      "title": "הקב\"ה אולי נגע בו, אבל בליכוד סבורים שזה יספיק ל–24 מנדטים גג",
      "published": "2026-10-21T03:02:10+00:00",
      "summary": "המטה מפשל, הברדק חוגג — האם מפלגת השלטון בצרות, או שהתוכנית היא להיות אנדרדוג? ■ בנט ולפיד הימרו על מבצע תודעה מוצלח ■ האם ליברמן כועס על ריאיון של 36 דקות עם איזנקוט בערוץ 9? ■ ומי שמחפש את משרד ראש הממשלה — שינסה אצל הקטארים"
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#12",
      "title": "הנחות של 85% לסוכנים ורווחי עתק לחברות: כשל השוק המושתק בביטוחי החיים",
      "published": "2026-10-21T03:01:27+00:00",
      "summary": "תחום ביטוח הריסק הניב לחברות הביטוח הגדולות רווח מנורמל של 710 מיליון שקל במחצית הראשונה של 2026 ■ הרווחיות הגבוהה מאפשרת לחברות לגלגל לסוכנים הנחות ענק של עד 85% על הפרמיות, נתון שמעלה תהיות קשות על תמחור היתר של הפוליסות — וקורא להתערבות רשות שוק ההון ■ הרשות: \"אוסרים הנחות קצרות טווח שמטעות את הצרכן\""
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#13",
      "title": "\"כל אחד הביא 65 אלף שקל, וקנינו ביחד דירה ב-615 אלף שקל\"",
      "published": "2026-10-21T03:00:08+00:00",
      "summary": "כרמי אור נותנת לכל אחד מחמשת ילדיה 60 אלף שקל עם הגיעם לגיל 18 ■ שני הגדולים בחרו לאחד את הסכום, וביחד עם אמם רכשו דירה להשקעה בבית שאן ■ \"אמרתי לבנים שלי שלא יהיה לי כסף לרכוש להם דירות. לכן כדאי שיתחילו לעבוד בכיוון\""
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#14",
      "title": "\"קשה לשלב אימהוּת עם ניהול עסק, צריך לאזן בין הרצון לגדול ולהתפתח לבין הרצון להיות אמא נוכחת\"",
      "published": "2026-10-21T03:00:02+00:00",
      "summary": "שיראל אינגלזה עבדה כמעצבת שכירה ולימדה בבתי ספר לעיצוב, והבינה שהתשוקה שלה נמצאת בהוראה ■ היא פתחה בית ספר לאופנה, שפעל מהבית שלה עד שהתרחב ■ \"זאת הייתה קפיצה שהפחידה אותי, כי נוספו לי הוצאות כמו שכירות וארנונה, אבל הרגשתי שזה מכביד על הבית שלי\""
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#15",
      "title": "ספייס־אקס של אילון מאסק עקפה את התחזיות: עלייה של 160% בהכנסות ל–14.6 מיליארד דולר",
      "published": "2026-10-20T20:22:00+00:00",
      "summary": "חברת החלל והבינה המלאכותית של אילון מאסק דיווחה על מעבר לרווח נקי של 4.4 מיליארד דולר ברבעון ■ המניה עולה ב–1.4% במסחר לאחר נעילת בורסות בוול סטריט"
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#16",
      "title": "אחרי שאמר שהמדינה נלחמת בו: ראש עיריית קריית שמונה הביע תמיכה בנתניהו",
      "published": "2026-10-20T19:33:56+00:00",
      "summary": "במהלך המלחמה ביקר שטרן בחריפות את הממשלה על הפקרת ביטחון תושבי קריית שמונה: \"הם איבדו את הצפון\" ■ היום אמר שהתושבים \"לא בכיס של אף אחד\" — אך משהגיע נתניהו לביקור בעירו, הצהיר בסרטון איתו: \"מאמין בך ומאמין שעם ישראל יידע בדיוק למי להצביע עוד שבוע\""
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#17",
      "title": "אחרי הנפילה במניה, אגמון מנסה להמציא מחדש את דלק רכב — ולהיכנס לפיננסים",
      "published": "2026-10-20T18:19:56+00:00",
      "summary": "פעילות הרכב נשחקה, תיק ההשקעות התכווץ במאות מיליוני שקלים והחוב הפיננסי גבוה: גיל אגמון, בעל השליטה בדלק רכב, מנסה לשחזר את רכישת ורידיס מ–2018, ובוחן את רכישת חברת האשראי כאל ■ בכיר בשוק: \"בעבר היה לאגמון מוניטין של יצרן ערך — אך בשנים האחרונות זה התהפך. יהיה לו הרבה יותר קשה מבעבר למצוא שותפים לכאל\""
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#18",
      "title": "גפני ודרעי שחקו את הכלכלה. עכשיו יש לחרדים אלטרנטיבה",
      "published": "2026-10-20T16:50:14+00:00",
      "summary": "אחרי שנים של השקעה בשילוב חרדים בתעסוקה ובהשכלה, 7 באוקטובר המחיש לי שהחסם המרכזי לשינוי אינו רק מחסור בתוכניות או בתקציבים. הוא טמון במבנה הכוח הפוליטי בתוך החברה החרדית עצמה"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#19",
      "title": "מאז השבעת הממשלה ההגירה מישראל בשיא. הבחירות יכריעו אם הכלכלה תשרוד את המכה",
      "published": "2026-10-20T15:01:26+00:00",
      "summary": "מאז 2023 מספר הישראלים שעזבו את המדינה זינק בעשרות אחוזים ומספר החוזרים ירד ■ חוקרים מזהירים מקריסה של הכלכלה הישראלית אם מגמת ההגירה מישראל תימשך ■ הפרק הרביעי בסדרת הכתבות \"על זה הבחירות\""
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#20",
      "title": "\"פצצת זמן מתקתקת\": אינדונזיה הייתה הכלכלה המבטיחה של אסיה, עכשיו היא על סף משבר",
      "published": "2026-10-20T15:00:55+00:00",
      "summary": "אזהרתה של ספקית המדדים MSCI כי היא שוקלת לשנמך את מעמדה של הבורסה בג'קרטה הפנתה זרקור אל הקשיים של אינדונזיה ■ אבטלת הצעירים האינדונזים גואה, ועימה האינפלציה ■ בינתיים, הממשלה מקדמת מדיניות פופוליסטית שאינה פותרת את מצוקות האזרחים"
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#21",
      "title": "מפגינים צרפתים בזזו חנות נייקי שפוקס מפעילה בזכיינות בליון",
      "published": "2026-10-20T14:24:07+00:00",
      "summary": "ריטיילורס שבבעלות פוקס מפעילה בזיכיון 185 חנויות נייקי, מהן 17 בצרפת — בפריז, בליון, במרסיי ובניס, שבהן נבזזו חנויות והוטל עוצר לילי עקב המהומות ■ השבתת החנות בליון בעקבות הפריצה מוסיפה לפגיעה בריטיילורס, על רקע הירידה במכירות נייקי ■ יתר חנויות החברה בצרפת מצויות באזורים שבהם הפעילות נמשכת כסדרה"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#22",
      "title": "הציבור מטומטם ולכן הציבור ישלם? למנכ\"ל לאומי אין בעיה עם עושק העו\"ש",
      "published": "2026-10-20T14:12:02+00:00",
      "summary": "מנכ\"ל בנק לאומי הציע תקשורת ישירה לציבור, אך התחמק משאלת מיליון הדולר (כלומר שאלת מיליארדי השקלים), פורטוגל משנה את מדיניות ההגירה, טכנולוגיה אחת נמכרת לשלוש חברות וזליכה מבטיח הבטחות מלאות חורים ■ כל מה שצריך לדעת על היום שהיה בכלכלה"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#23",
      "title": "מנכ\"ל UCT ישראל: \"ציונות לא מעניינת את האמריקאים. הראינו שהרווחיות פה גבוהה\"",
      "published": "2026-10-20T13:32:27+00:00"
     },
     {
-     "ref": "themarker#22",
+     "ref": "themarker#24",
      "title": "נתניה הגבילה את הרחבת הדירות בפינוי בינוי ל-12 מ\"ר. הדיירים הצליחו לבטל את ההגבלה",
      "published": "2026-10-20T12:33:03+00:00",
      "summary": "מדיניותה של עיריית נתניה קובעת כי תוספת השטח לדירות בהתחדשות עירונית תגיע ל-12 מ\"ר לכל היותר ■ אלא שנמצא כי התוכנית במתחם הפינוי־בינוי בשכונת דורה אינה נכנסת לתחולת ההגבלות ■ כעת דירות של 46 מ\"ר יזכו לתוספת משמעותית, בנוסף למרפסות"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "התביעות נגד צרפתי היו ידועות — אבל ב-S&P מעלות לא ראו בעיה בממשל התאגידי שלה",
-     "published": "2026-10-20T10:37:29+00:00",
-     "summary": "ב-2024 דיווחה צרפתי על תביעה שבה נטען כי הבעלים ביצעו לבד עסקות שיש לבצע בחברה ■ השנה היא זימנה משקיעים לאשר לבעלים לשמור רווחים מהעסקות ■ חברת הדירוג קבעה שהממשל התאגידי בצרפתי לא משפיע על הדירוג ■ צרפתי: \"פעילות ועדת הביקורת - ביטוי למחויבות לממשל תאגידי\""
-    },
-    {
-     "ref": "themarker#24",
-     "title": "עין שלישית נכנסה לשיתוף פעולה עם סטארט־אפ אמריקאי; המניה קפצה ב–13%",
-     "published": "2026-10-20T10:28:49+00:00",
-     "summary": "עין שלישית תקים חברה בת שתפתח מערכות אוטונומיות לסטארט־אפ האמריקאי אליון, בעסקה בהיקף של 40 מיליון דולר בשלוש פעימות ■ לאחר השלמת העסקה תהיה לסטארט־אפ האמריקאי אופציה לרכוש את פעילות החברה הבת תמורת 20 מיליון דולר, או בשווי של 3% ממניותיה"
     }
    ]
   },
@@ -358,39 +357,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Oil Rises As Hormuz Shipping Attacks Fuel Supply Fears",
+     "published": "2026-10-21T07:38:00+00:00",
+     "summary": "Oil prices rose as continued attacks on shipping in Hormuz threatened flows and U.S. industry data pointed to falling crude and product inventories."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "European Stock Indexes Mixed as Oil Holds Above $110",
+     "published": "2026-10-21T07:27:00+00:00",
+     "summary": "European stock indexes were mixed in muted early trade as elevated oil prices weighed on sentiment."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "Dollar Recovers as Treasury Yields, Oil Prices Rise",
      "published": "2026-10-21T07:12:00+00:00",
      "summary": "The dollar recovered as Treasury yields rose and oil prices pushed higher on worries over supply disruptions due to the Middle East conflict."
     },
     {
-     "ref": "wsj_markets#1",
-     "title": "Nordic Stocks Tipped to Open Slightly Higher",
-     "published": "2026-10-21T06:52:00+00:00",
-     "summary": "Nordic markets are seen opening slightly higher, despite an absence of major economic data and earnings releases."
-    },
-    {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "U.S. Treasury Yields Edge Higher in Asian Trade",
      "published": "2026-10-21T06:28:00+00:00",
      "summary": "U.S. Treasury yields edged higher, reversing the decline in long-end yields the previous day, prompted by weak housing data."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Asian Stocks Mixed as AI Spending Concerns Linger",
      "published": "2026-10-21T05:22:00+00:00",
      "summary": "Asian equities were mixed after rebounding on improved risk sentiment, as concerns about aggressive artificial-intelligence spending continued to linger."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "NYSE Is Getting Trounced in the Battle for Wall Street’s Biggest IPOs",
      "published": "2026-10-21T02:00:00+00:00",
      "summary": "Anthropic is expected to bring the Nasdaq another blockbuster listing, following SpaceX. And the Texas Stock Exchange is also emerging as a threat."
-    },
-    {
-     "ref": "wsj_markets#5",
-     "title": "Oil Rises Amid Attacks on Vessels in Strait of Hormuz",
-     "published": "2026-10-21T01:21:00+00:00",
-     "summary": "Oil rose in early Asian trade amid attacks on vessels in the Strait of Hormuz, a key waterway for oil transportation."
     },
     {
      "ref": "wsj_markets#6",
@@ -512,9 +511,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4208.9502,
+   "last": 4216.7598,
    "prev_close": 4214.1299,
-   "change_pct": -0.12,
+   "change_pct": 0.06,
    "as_of": "2026-10-21"
   },
   "SP500": {
@@ -526,23 +525,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0872,
+   "last": 3.0864,
    "prev_close": 3.1022,
-   "change_pct": -0.48,
+   "change_pct": -0.51,
    "as_of": "2026-10-21"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 110.0,
+   "last": 109.71,
    "prev_close": 108.79,
-   "change_pct": 1.11,
+   "change_pct": 0.85,
    "as_of": "2026-10-21"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82696.7109,
+   "last": 82939.9922,
    "prev_close": 82941.0,
-   "change_pct": -0.29,
+   "change_pct": -0.0,
    "as_of": "2026-10-21"
   }
  },
