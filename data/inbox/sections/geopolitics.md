@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-21T07:49:49+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#1",
      "title": "Pompeii’s grandest house gets a $1.6 million restoration funded by private sponsor - AP News",
      "published": "2026-10-21T05:41:00+00:00",
      "summary": "Pompeii’s grandest house gets a $1.6 million restoration funded by private sponsor AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#2",
      "title": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence - AP News",
      "published": "2026-10-21T05:34:00+00:00",
      "summary": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "UN projections say world is losing ground in fight to curb climate change, faulting US a bit - AP News",
      "published": "2026-10-21T05:13:18+00:00",
      "summary": "UN projections say world is losing ground in fight to curb climate change, faulting US a bit AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "Drone strike on a market in disputed African region of Abyei kills at least 153 - AP News",
      "published": "2026-10-21T04:59:00+00:00",
      "summary": "Drone strike on a market in disputed African region of Abyei kills at least 153 AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "France has a proud tradition of protesting, and sometimes people lose their heads - AP News",
      "published": "2026-10-21T04:05:00+00:00",
      "summary": "France has a proud tradition of protesting, and sometimes people lose their heads AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "It's not just gas and groceries. Childcare costs weigh on some voters before the midterm elections - AP News",
      "published": "2026-10-21T04:04:00+00:00",
      "summary": "It's not just gas and groceries. Childcare costs weigh on some voters before the midterm elections AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#7",
      "title": "A ‘Treasury of Ice’ goes on show, revealing relics as Swiss glaciers rapidly melt - AP News",
      "published": "2026-10-21T04:03:00+00:00",
      "summary": "A ‘Treasury of Ice’ goes on show, revealing relics as Swiss glaciers rapidly melt AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "A 'golden age' vs. 'we're working on it': Trump and Vance give different pitches on the economy - AP News",
      "published": "2026-10-21T04:01:00+00:00",
      "summary": "A 'golden age' vs. 'we're working on it': Trump and Vance give different pitches on the economy AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "Why Rubio is visiting a small Indian city that’s home to world’s largest oil-refining complex - AP News",
      "published": "2026-10-21T03:37:36+00:00",
      "summary": "Why Rubio is visiting a small Indian city that’s home to world’s largest oil-refining complex AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
+     "title": "LeBron James talks smack with Knicks fans, drops 14 points in victorious 76ers debut - AP News",
+     "published": "2026-10-21T03:36:00+00:00",
+     "summary": "LeBron James talks smack with Knicks fans, drops 14 points in victorious 76ers debut AP News"
+    },
+    {
+     "ref": "ap_world#11",
      "title": "Trucker protest leaves supermarket shelves and gas pumps empty in southern Italy - AP News",
      "published": "2026-10-21T03:34:00+00:00",
      "summary": "Trucker protest leaves supermarket shelves and gas pumps empty in southern Italy AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "Photo highlights from the artistic gymnastics world championships in Rotterdam - AP News",
      "published": "2026-10-21T03:30:00+00:00",
      "summary": "Photo highlights from the artistic gymnastics world championships in Rotterdam AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "Albanian police clash with anti-government protesters for an 8th day - AP News",
      "published": "2026-10-21T03:30:00+00:00",
      "summary": "Albanian police clash with anti-government protesters for an 8th day AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "NBA champion Knicks celebrate 2 titles on a banner night in Madison Square Garden - AP News",
      "published": "2026-10-21T03:19:00+00:00",
      "summary": "NBA champion Knicks celebrate 2 titles on a banner night in Madison Square Garden AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
      "title": "Ramaswamy takes responsibility for ad with Amy Acton’s mother and will spend millions to promote it - AP News",
      "published": "2026-10-21T02:40:00+00:00",
      "summary": "Ramaswamy takes responsibility for ad with Amy Acton’s mother and will spend millions to promote it AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "Guatemalan man gets 30 years for role in smuggling tragedy that killed 53 people in Texas - AP News",
      "published": "2026-10-21T02:19:00+00:00",
      "summary": "Guatemalan man gets 30 years for role in smuggling tragedy that killed 53 people in Texas AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "76ers win opening game with LeBron James and Jaylen Brown, beating NBA champion Knicks 106-100 - AP News",
      "published": "2026-10-21T02:18:00+00:00",
      "summary": "76ers win opening game with LeBron James and Jaylen Brown, beating NBA champion Knicks 106-100 AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote - AP News",
      "published": "2026-10-21T01:58:00+00:00",
      "summary": "Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#19",
      "title": "With France embroiled in protest, a look at the nation’s economic standing by the numbers - AP News",
      "published": "2026-10-21T01:57:00+00:00",
      "summary": "With France embroiled in protest, a look at the nation’s economic standing by the numbers AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
      "title": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say - AP News",
      "published": "2026-10-21T01:55:00+00:00",
      "summary": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#21",
      "title": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy - AP News",
      "published": "2026-10-21T01:48:00+00:00",
      "summary": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#22",
      "title": "See the world in vertical: Top photos by AP photojournalists - AP News",
      "published": "2026-10-21T01:22:00+00:00",
      "summary": "See the world in vertical: Top photos by AP photojournalists AP News"
     },
     {
-     "ref": "ap_world#21",
-     "title": "Alberta voters overwhelmingly reject separation process in a victory for Carney - AP News",
-     "published": "2026-10-21T01:07:00+00:00",
-     "summary": "Alberta voters overwhelmingly reject separation process in a victory for Carney AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Pakistan’s factory workers swelter in extreme heat as global brands fail on safety pledges - AP News",
-     "published": "2026-10-21T01:04:00+00:00",
-     "summary": "Pakistan’s factory workers swelter in extreme heat as global brands fail on safety pledges AP News"
-    },
-    {
      "ref": "ap_world#23",
-     "title": "Ohio State QB Julian Sayin out indefinitely after injuring throwing arm - AP News",
-     "published": "2026-10-21T00:58:00+00:00",
-     "summary": "Ohio State QB Julian Sayin out indefinitely after injuring throwing arm AP News"
+     "title": "New UN initiative will aim to tackle the military uses of AI - AP News",
+     "published": "2026-10-21T01:08:08+00:00",
+     "summary": "New UN initiative will aim to tackle the military uses of AI AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Polymarket removes contract allowing wagers on fate of Cornell students accused of sexual assault - AP News",
-     "published": "2026-10-21T00:44:00+00:00",
-     "summary": "Polymarket removes contract allowing wagers on fate of Cornell students accused of sexual assault AP News"
+     "title": "Alberta voters overwhelmingly reject separation process in a victory for Carney - AP News",
+     "published": "2026-10-21T01:07:00+00:00",
+     "summary": "Alberta voters overwhelmingly reject separation process in a victory for Carney AP News"
     }
    ]
   },
@@ -198,7 +198,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#4",
-     "title": "Pakistan arrests man hunted by US over $126m postage fraud case",
+     "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
      "published": "2026-10-21T05:46:33+00:00",
      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
     },
@@ -444,27 +444,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "EU agency warns websites may need to be taken offline as PHP prepares patches for vulnerabilities - Reuters",
-     "published": "2026-10-21T07:28:50+00:00",
-     "summary": "EU agency warns websites may need to be taken offline as PHP prepares patches for vulnerabilities Reuters"
-    },
-    {
-     "ref": "reuters_world#1",
-     "title": "As Reliance Jio eyes listing, what are India's biggest share offerings? - Reuters",
-     "published": "2026-10-21T07:02:43+00:00",
-     "summary": "As Reliance Jio eyes listing, what are India's biggest share offerings? Reuters"
-    },
-    {
-     "ref": "reuters_world#2",
      "title": "Air force plane crashes in France, one person dead, ministry says - Reuters",
      "published": "2026-10-21T06:53:00+00:00",
      "summary": "Air force plane crashes in France, one person dead, ministry says Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#1",
+     "title": "Iraq closes Sheeb border crossing with Iran for urgent security reasons, sources say - Reuters",
+     "published": "2026-10-21T06:41:00+00:00",
+     "summary": "Iraq closes Sheeb border crossing with Iran for urgent security reasons, sources say Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "North Korean Army chief inspects border with South Korea, says troops must act if enemy provokes - Reuters",
      "published": "2026-10-21T06:34:00+00:00",
      "summary": "North Korean Army chief inspects border with South Korea, says troops must act if enemy provokes Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "UK borrowing and £3 trillion debt herald tough budget for Healey - Reuters",
+     "published": "2026-10-21T06:18:00+00:00",
+     "summary": "UK borrowing and £3 trillion debt herald tough budget for Healey Reuters"
     },
     {
      "ref": "reuters_world#4",
@@ -486,111 +486,111 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#7",
+     "title": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says - Reuters",
+     "published": "2026-10-21T05:54:00+00:00",
+     "summary": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
      "title": "APEC finance ministers agree to boost policy coordination, China's Lan says - Reuters",
      "published": "2026-10-21T05:16:00+00:00",
      "summary": "APEC finance ministers agree to boost policy coordination, China's Lan says Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "China's Moonshot AI to operate in Singapore, jobs post shows - Reuters",
      "published": "2026-10-21T05:15:00+00:00",
      "summary": "China's Moonshot AI to operate in Singapore, jobs post shows Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "BOJ's Himino signals readiness to raise borrowing costs - Reuters",
      "published": "2026-10-21T04:51:00+00:00",
      "summary": "BOJ's Himino signals readiness to raise borrowing costs Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say - Reuters",
      "published": "2026-10-21T04:49:00+00:00",
      "summary": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Morning Bid: Tesla may get rocket boosters for real this time - Reuters",
      "published": "2026-10-21T04:37:00+00:00",
      "summary": "Morning Bid: Tesla may get rocket boosters for real this time Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "Russian drones kill two people near Ukraine's Kharkiv overnight, governor says - Reuters",
      "published": "2026-10-21T04:27:00+00:00",
      "summary": "Russian drones kill two people near Ukraine's Kharkiv overnight, governor says Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Bangladesh yet to receive Saudi response on execution of two nationals - Reuters",
      "published": "2026-10-21T04:20:00+00:00",
      "summary": "Bangladesh yet to receive Saudi response on execution of two nationals Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Japan envoy Sasakawa meets Myanmar's Min Aung Hlaing, state media says - Reuters",
      "published": "2026-10-21T04:14:00+00:00",
      "summary": "Japan envoy Sasakawa meets Myanmar's Min Aung Hlaing, state media says Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Gold dips for fourth session as oil rally fans inflation concerns - Reuters",
      "published": "2026-10-21T03:45:00+00:00",
      "summary": "Gold dips for fourth session as oil rally fans inflation concerns Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll - Reuters",
      "published": "2026-10-21T03:43:00+00:00",
      "summary": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Trump, in North Carolina, says Republicans will defy midterm odds - Reuters",
      "published": "2026-10-21T03:34:00+00:00",
      "summary": "Trump, in North Carolina, says Republicans will defy midterm odds Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Israel accepted as a Pacific Islands Forum partner, Israeli Foreign Minister says - Reuters",
      "published": "2026-10-21T03:15:00+00:00",
      "summary": "Israel accepted as a Pacific Islands Forum partner, Israeli Foreign Minister says Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Rupee climbs to six-week high as Jio IPO-linked inflows bolster recovery - Reuters",
      "published": "2026-10-21T03:07:00+00:00",
      "summary": "Rupee climbs to six-week high as Jio IPO-linked inflows bolster recovery Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Indian share benchmarks rise, led by IT stocks, Reliance with Jio IPO in focus - Reuters",
      "published": "2026-10-21T02:35:00+00:00",
      "summary": "Indian share benchmarks rise, led by IT stocks, Reliance with Jio IPO in focus Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Asian stocks climb as strong earnings buoy Wall Street - Reuters",
      "published": "2026-10-21T02:10:00+00:00",
      "summary": "Asian stocks climb as strong earnings buoy Wall Street Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "US high court rulings have been 'destructive to democracy,' Justice Kagan says - Reuters",
      "published": "2026-10-21T01:37:00+00:00",
      "summary": "US high court rulings have been 'destructive to democracy,' Justice Kagan says Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold - Reuters",
      "published": "2026-10-21T01:25:00+00:00",
      "summary": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Dollar treads water as Middle East tensions simmer; Aussie buoyed by hawkish RBA - Reuters",
-     "published": "2026-10-21T01:20:00+00:00",
-     "summary": "Dollar treads water as Middle East tensions simmer; Aussie buoyed by hawkish RBA Reuters"
     }
    ]
   }
