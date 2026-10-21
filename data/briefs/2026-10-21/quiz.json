@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-21",
+  "questions": [
+    {
+      "id": "quiz-election-threshold",
+      "section": "israeli_politics",
+      "story_id": "election-threshold-battle",
+      "answer_index": 0,
+      "en": {
+        "question": "What is really at stake in the final days before Israel's election, according to today's brief?",
+        "options": [
+          "Whether several small allied parties clear the 3.25% electoral threshold, which could decide which bloc gets a majority",
+          "Whether Netanyahu's bloc will win a two-thirds majority in the Knesset",
+          "Whether the Supreme Court will delay the election date",
+          "Whether a unity government will be announced before voting day"
+        ],
+        "explanation": "The brief reports that up to eight Knesset seats could be \"burned\" if small parties like Amcha Yisrael and Reservists-Economic fail to clear the 3.25% threshold, which could decide which bloc forms the next government."
+      },
+      "he": {
+        "question": "מה באמת עומד על הפרק בימים האחרונים לפני הבחירות בישראל, לפי הבריף של היום?",
+        "options": [
+          "האם כמה מפלגות קטנות בעלות ברית יעברו את אחוז החסימה של 3.25%, עניין שעשוי להכריע איזה גוש יקבל רוב",
+          "האם גוש נתניהו ינצח ברוב של שני שלישים בכנסת",
+          "האם בית המשפט העליון יעכב את מועד הבחירות",
+          "האם תוכרז ממשלת אחדות לפני יום ההצבעה"
+        ],
+        "explanation": "הבריף מדווח שעד שמונה מנדטים עשויים \"להישרף\" אם מפלגות כמו עמך ישראל והמילואימניקים-הכלכלית לא יעברו את אחוז החסימה של 3.25%, מה שעשוי להכריע איזה גוש יקים את הממשלה הבאה."
+      }
+    },
+    {
+      "id": "quiz-deepseek-sanctions",
+      "section": "geopolitics",
+      "story_id": "us-china-tech-sanctions-deepseek",
+      "answer_index": 2,
+      "en": {
+        "question": "Why did China object to the new US ban on the AI company DeepSeek?",
+        "options": [
+          "It said the ban violates World Trade Organization free-trade rules",
+          "It said DeepSeek is protected under a bilateral investment treaty",
+          "It said the ban \"disregards the Xi-Trump consensus\" reportedly reached between the two leaders",
+          "It said the ban was imposed without any public announcement"
+        ],
+        "explanation": "According to the brief, Chinese officials said the DeepSeek ban \"disregards the Xi-Trump consensus\" — a reference to an understanding the two leaders had reportedly reached."
+      },
+      "he": {
+        "question": "מדוע סין מתחה ביקורת על האיסור האמריקאי החדש על חברת הבינה המלאכותית DeepSeek?",
+        "options": [
+          "היא אמרה שהאיסור מפר כללי סחר חופשי של ארגון הסחר העולמי",
+          "היא אמרה ש-DeepSeek מוגנת על פי הסכם השקעות דו-צדדי",
+          "היא אמרה שהאיסור \"מתעלם מההסכמה בין שי לטראמפ\" שלפי הדיווחים הושגה בין שני המנהיגים",
+          "היא אמרה שהאיסור הוטל בלי כל הודעה פומבית"
+        ],
+        "explanation": "לפי הבריף, גורמים סיניים אמרו שהאיסור על DeepSeek \"מתעלם מההסכמה בין שי לטראמפ\" - התייחסות להבנה שלפי הדיווחים הושגה בין שני המנהיגים."
+      }
+    },
+    {
+      "id": "quiz-spacex-tesla-merger",
+      "section": "business",
+      "story_id": "spacex-tesla-merger-talks",
+      "answer_index": 1,
+      "en": {
+        "question": "Why does the possible SpaceX-Tesla merger raise unusual corporate-governance concerns?",
+        "options": [
+          "Neither company has any shareholders outside its founder",
+          "Elon Musk controls both companies, so he would effectively be negotiating the merger terms with himself",
+          "Aerospace and automotive mergers are categorically illegal under US antitrust law",
+          "Both companies are privately held with no public disclosure requirements"
+        ],
+        "explanation": "Because Musk controls both SpaceX and Tesla, he would effectively set the exchange ratio between the companies himself — a classic related-party transaction that normally requires an independent special committee."
+      },
+      "he": {
+        "question": "מדוע מיזוג אפשרי בין ספייס-אקס לטסלה מעלה חששות חריגים בתחום הממשל התאגידי?",
+        "options": [
+          "לאף אחת מהחברות אין בעלי מניות מחוץ למייסד",
+          "אילון מאסק שולט בשתי החברות, כך שבפועל הוא ינהל משא ומתן על תנאי המיזוג עם עצמו",
+          "מיזוגים בין חברות תעופה-חלל לרכב אסורים לחלוטין על פי חוק התחרות האמריקאי",
+          "שתי החברות פרטיות וללא כל חובת דיווח פומבי"
+        ],
+        "explanation": "מכיוון שמאסק שולט גם בספייס-אקס וגם בטסלה, הוא יהיה זה שיקבע בפועל את יחס ההמרה בין החברות - עסקת צדדים קשורים קלאסית שדורשת בדרך כלל ועדה מיוחדת ובלתי תלויה."
+      }
+    }
+  ]
+}
