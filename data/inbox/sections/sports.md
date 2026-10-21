@@ -43,18 +43,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-20T16:45:00Z",
-     "home": "Sabah FK",
-     "away": "Dortmund",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T16:45:00Z",
      "home": "Fenerbahçe",
      "away": "Slavia Praha",
      "status": "FINISHED",
      "score": "2-2"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T16:45:00Z",
+     "home": "Sabah FK",
+     "away": "Dortmund",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "Championship",
@@ -63,38 +63,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Portsmouth",
      "status": "FINISHED",
      "score": "1-1"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Liverpool",
-     "away": "Villarreal",
-     "status": "FINISHED",
-     "score": "4-3"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Porto",
-     "away": "PSV",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "Man City",
-     "away": "PAE AEK",
-     "status": "FINISHED",
-     "score": "5-1"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-20T19:00:00Z",
-     "home": "PSG",
-     "away": "Barça",
-     "status": "FINISHED",
-     "score": "4-2"
     },
     {
      "competition": "UEFA Champions League",
@@ -119,22 +87,54 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Atleti",
      "status": "FINISHED",
      "score": "1-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T19:00:00Z",
+     "home": "PSG",
+     "away": "Barça",
+     "status": "FINISHED",
+     "score": "4-2"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T19:00:00Z",
+     "home": "Liverpool",
+     "away": "Villarreal",
+     "status": "FINISHED",
+     "score": "4-3"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T19:00:00Z",
+     "home": "Porto",
+     "away": "PSV",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-20T19:00:00Z",
+     "home": "Man City",
+     "away": "PAE AEK",
+     "status": "FINISHED",
+     "score": "5-1"
     }
    ],
    "today": [
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-21T16:45:00Z",
-     "home": "Lille",
-     "away": "Galatasaray",
+     "home": "Como 1907",
+     "away": "Man United",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-21T16:45:00Z",
-     "home": "Como 1907",
-     "away": "Man United",
+     "home": "Lille",
+     "away": "Galatasaray",
      "status": "TIMED",
      "score": null
     },
@@ -149,24 +149,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-21T19:00:00Z",
-     "home": "Club Brugge",
-     "away": "RC Lens",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-21T19:00:00Z",
-     "home": "Sporting CP",
-     "away": "LASK",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-21T19:00:00Z",
-     "home": "Inter",
-     "away": "Shaktar",
+     "home": "Bayern",
+     "away": "Arsenal",
      "status": "TIMED",
      "score": null
     },
@@ -197,8 +181,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-21T19:00:00Z",
-     "home": "Bayern",
-     "away": "Arsenal",
+     "home": "Club Brugge",
+     "away": "RC Lens",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-21T19:00:00Z",
+     "home": "Sporting CP",
+     "away": "LASK",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-21T19:00:00Z",
+     "home": "Inter",
+     "away": "Shaktar",
      "status": "TIMED",
      "score": null
     }
@@ -828,9 +828,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
-     "published": "2026-10-21T06:42:46+00:00",
-     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
+     "title": "New York Red Bulls v Inter Miami CF Odds - FanDuel Sportsbook",
+     "published": "2026-10-21T06:53:15+00:00",
+     "summary": "New York Red Bulls v Inter Miami CF Odds FanDuel Sportsbook"
     },
     {
      "ref": "gnews_inter_miami#1",
@@ -840,141 +840,141 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#2",
+     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
+     "published": "2026-10-21T05:12:46+00:00",
+     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "New York Red Bulls vs Inter Miami CF: previous stats | MLS - Liga USA 2026 - Diario AS",
      "published": "2026-10-21T05:02:23+00:00",
      "summary": "New York Red Bulls vs Inter Miami CF: previous stats | MLS - Liga USA 2026 Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "23 kids meet Messi thanks to Inter Miami and Make-A-Wish - NewsBreak: Local News & Alerts",
      "published": "2026-10-21T04:10:01+00:00",
      "summary": "23 kids meet Messi thanks to Inter Miami and Make-A-Wish NewsBreak: Local News & Alerts"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami CF and Royal Caribbean Continue Shared Commitment to Children and Families Through Third Annual Make-A-Wish Initiative - Inter Miami CF",
      "published": "2026-10-21T02:06:58+00:00",
      "summary": "Inter Miami CF and Royal Caribbean Continue Shared Commitment to Children and Families Through Third Annual Make-A-Wish Initiative Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
+     "title": "Riquelme Fillipi Begins His Inter Miami Journey: First Appearances, Transfer Fee and Contract Details - Pasión Fútbol",
+     "published": "2026-10-21T01:00:00+00:00",
+     "summary": "Riquelme Fillipi Begins His Inter Miami Journey: First Appearances, Transfer Fee and Contract Details Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
      "title": "Inter Miami Considers Permanent Move for Palmeiras Defender Micael After Strong 2026 Season - Pasión Fútbol",
      "published": "2026-10-20T23:38:34+00:00",
      "summary": "Inter Miami Considers Permanent Move for Palmeiras Defender Micael After Strong 2026 Season Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "Join The Huddle Vol. 2: Gearing Up for Second In-App Fan-Player Chat Following Successful Launch with Casemiro - Inter Miami CF",
      "published": "2026-10-20T22:21:24+00:00",
      "summary": "Join The Huddle Vol. 2: Gearing Up for Second In-App Fan-Player Chat Following Successful Launch with Casemiro Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "Miami Freedom Park Faces $20M In Lien Claims And Lawsuits - Bisnow",
      "published": "2026-10-20T22:18:48+00:00",
      "summary": "Miami Freedom Park Faces $20M In Lien Claims And Lawsuits Bisnow"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#10",
      "title": "Merch Madness: Inter Miami CF’s Biggest Sale of the Year Set for Wednesday, Oct. 21, at Nu Stadium - Inter Miami CF",
      "published": "2026-10-20T21:51:23+00:00",
      "summary": "Merch Madness: Inter Miami CF’s Biggest Sale of the Year Set for Wednesday, Oct. 21, at Nu Stadium Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi is three games away from matching the longest goal contribution streak of his career - World Soccer Talk",
      "published": "2026-10-20T21:42:49+00:00",
      "summary": "Lionel Messi is three games away from matching the longest goal contribution streak of his career World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami’s Mateo Silvetti Named to MLS 22 Under 22 Rankings for 2026 - Pasión Fútbol",
      "published": "2026-10-20T19:38:12+00:00",
      "summary": "Inter Miami’s Mateo Silvetti Named to MLS 22 Under 22 Rankings for 2026 Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#13",
      "title": "Messi defies time once again: at 39, he is three games away from matching a record from his best days at Barcelona - MARCA",
      "published": "2026-10-20T18:50:43+00:00",
      "summary": "Messi defies time once again: at 39, he is three games away from matching a record from his best days at Barcelona MARCA"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi, Suárez and Berterame named in MLS Team of the Matchday - OneFootball",
      "published": "2026-10-20T18:19:42+00:00",
      "summary": "Messi, Suárez and Berterame named in MLS Team of the Matchday OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#15",
      "title": "Sole Arab representative: Cristiano tops the list of the world's highest-paid with more than \"double Messi\" - Goal.com",
      "published": "2026-10-20T17:10:28+00:00",
      "summary": "Sole Arab representative: Cristiano tops the list of the world's highest-paid with more than \"double Messi\" Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#16",
      "title": "Mateo Silvetti Named to MLS’ 2026 22 Under 22 List - OneFootball",
      "published": "2026-10-20T16:53:30+00:00",
      "summary": "Mateo Silvetti Named to MLS’ 2026 22 Under 22 List OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#17",
      "title": "Nashville on the brink of Supporters’ Shield as Lionel Messi’s Inter Miami run out of road - World Soccer Talk",
      "published": "2026-10-20T16:36:07+00:00",
      "summary": "Nashville on the brink of Supporters’ Shield as Lionel Messi’s Inter Miami run out of road World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#16",
-     "title": "New York Red Bulls v Inter Miami CF Odds - FanDuel Sportsbook",
-     "published": "2026-10-20T16:28:22+00:00",
-     "summary": "New York Red Bulls v Inter Miami CF Odds FanDuel Sportsbook"
+     "ref": "gnews_inter_miami#18",
+     "title": "Lionel Messi Reaches 934 Career Goals After Inter Miami Brace - SportsRation",
+     "published": "2026-10-20T16:22:16+00:00",
+     "summary": "Lionel Messi Reaches 934 Career Goals After Inter Miami Brace SportsRation"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#19",
      "title": "Cristiano Ronaldo dominates Lionel Messi in official 'B.O.A.T.' poll as Portuguese superstar leads GOAT debate ahead of London awards gala - Goal.com",
      "published": "2026-10-20T16:10:49+00:00",
      "summary": "Cristiano Ronaldo dominates Lionel Messi in official 'B.O.A.T.' poll as Portuguese superstar leads GOAT debate ahead of London awards gala Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#20",
      "title": "Messi’s ultimate troll! The iconic gesture that humiliated his rival - Diario AS",
      "published": "2026-10-20T16:04:59+00:00",
      "summary": "Messi’s ultimate troll! The iconic gesture that humiliated his rival Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#21",
      "title": "Mateo Silvetti Named to MLS’ 2026 22 Under 22 List - Inter Miami CF",
      "published": "2026-10-20T16:00:57+00:00",
      "summary": "Mateo Silvetti Named to MLS’ 2026 22 Under 22 List Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#22",
      "title": "Telasco Segovia’s Role at Inter Miami Is Changing Under Kily González: What Comes Next for the Venezuelan? - Pasión Fútbol",
      "published": "2026-10-20T15:29:31+00:00",
      "summary": "Telasco Segovia’s Role at Inter Miami Is Changing Under Kily González: What Comes Next for the Venezuelan? Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#23",
      "title": "David Beckham may become a candidate for FIFA president - Arzuw news",
      "published": "2026-10-20T15:25:03+00:00",
      "summary": "David Beckham may become a candidate for FIFA president Arzuw news"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#24",
      "title": "USMNT to close out 2026 vs. Jamaica at Inter Miami stadium - ESPN",
      "published": "2026-10-20T15:03:00+00:00",
      "summary": "USMNT to close out 2026 vs. Jamaica at Inter Miami stadium ESPN"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Miami coach unfazed as Messi set to collect prestigious award in Spain - The Daily Star",
-     "published": "2026-10-20T15:00:28+00:00",
-     "summary": "Miami coach unfazed as Messi set to collect prestigious award in Spain The Daily Star"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Mas brothers’ Miami Freedom Park venture pursued by subcontractors for over $20M in unpaid work - The Real Deal",
-     "published": "2026-10-20T14:30:00+00:00",
-     "summary": "Mas brothers’ Miami Freedom Park venture pursued by subcontractors for over $20M in unpaid work The Real Deal"
     }
    ]
   },

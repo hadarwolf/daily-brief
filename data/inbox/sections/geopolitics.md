@@ -24,147 +24,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#1",
+     "title": "Australian politician who was hit by car has lost both legs - AP News",
+     "published": "2026-10-21T07:28:00+00:00",
+     "summary": "Australian politician who was hit by car has lost both legs AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Fighter jet crashes in eastern France, killing at least 1 person - AP News",
+     "published": "2026-10-21T06:56:00+00:00",
+     "summary": "Fighter jet crashes in eastern France, killing at least 1 person AP News"
+    },
+    {
+     "ref": "ap_world#3",
      "title": "Pompeii’s grandest house gets a $1.6 million restoration funded by private sponsor - AP News",
      "published": "2026-10-21T05:41:00+00:00",
      "summary": "Pompeii’s grandest house gets a $1.6 million restoration funded by private sponsor AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#4",
      "title": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence - AP News",
      "published": "2026-10-21T05:34:00+00:00",
      "summary": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#5",
      "title": "UN projections say world is losing ground in fight to curb climate change, faulting US a bit - AP News",
      "published": "2026-10-21T05:13:18+00:00",
      "summary": "UN projections say world is losing ground in fight to curb climate change, faulting US a bit AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#6",
+     "title": "Hungary’s Magyar vows accountability for Orbán era while holding firm on migration - AP News",
+     "published": "2026-10-21T05:06:00+00:00",
+     "summary": "Hungary’s Magyar vows accountability for Orbán era while holding firm on migration AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "Drone strike on a market in disputed African region of Abyei kills at least 153 - AP News",
      "published": "2026-10-21T04:59:00+00:00",
      "summary": "Drone strike on a market in disputed African region of Abyei kills at least 153 AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#8",
+     "title": "Japan records a trade deficit as oil imports soar because of conflict in the Middle East - AP News",
+     "published": "2026-10-21T04:30:00+00:00",
+     "summary": "Japan records a trade deficit as oil imports soar because of conflict in the Middle East AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "France has a proud tradition of protesting, and sometimes people lose their heads - AP News",
      "published": "2026-10-21T04:05:00+00:00",
      "summary": "France has a proud tradition of protesting, and sometimes people lose their heads AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#10",
      "title": "It's not just gas and groceries. Childcare costs weigh on some voters before the midterm elections - AP News",
      "published": "2026-10-21T04:04:00+00:00",
      "summary": "It's not just gas and groceries. Childcare costs weigh on some voters before the midterm elections AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#11",
      "title": "A ‘Treasury of Ice’ goes on show, revealing relics as Swiss glaciers rapidly melt - AP News",
      "published": "2026-10-21T04:03:00+00:00",
      "summary": "A ‘Treasury of Ice’ goes on show, revealing relics as Swiss glaciers rapidly melt AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#12",
      "title": "A 'golden age' vs. 'we're working on it': Trump and Vance give different pitches on the economy - AP News",
      "published": "2026-10-21T04:01:00+00:00",
      "summary": "A 'golden age' vs. 'we're working on it': Trump and Vance give different pitches on the economy AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#13",
      "title": "Why Rubio is visiting a small Indian city that’s home to world’s largest oil-refining complex - AP News",
      "published": "2026-10-21T03:37:36+00:00",
      "summary": "Why Rubio is visiting a small Indian city that’s home to world’s largest oil-refining complex AP News"
     },
     {
-     "ref": "ap_world#10",
-     "title": "LeBron James talks smack with Knicks fans, drops 14 points in victorious 76ers debut - AP News",
-     "published": "2026-10-21T03:36:00+00:00",
-     "summary": "LeBron James talks smack with Knicks fans, drops 14 points in victorious 76ers debut AP News"
-    },
-    {
-     "ref": "ap_world#11",
+     "ref": "ap_world#14",
      "title": "Trucker protest leaves supermarket shelves and gas pumps empty in southern Italy - AP News",
      "published": "2026-10-21T03:34:00+00:00",
      "summary": "Trucker protest leaves supermarket shelves and gas pumps empty in southern Italy AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#15",
      "title": "Photo highlights from the artistic gymnastics world championships in Rotterdam - AP News",
      "published": "2026-10-21T03:30:00+00:00",
      "summary": "Photo highlights from the artistic gymnastics world championships in Rotterdam AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#16",
      "title": "Albanian police clash with anti-government protesters for an 8th day - AP News",
      "published": "2026-10-21T03:30:00+00:00",
      "summary": "Albanian police clash with anti-government protesters for an 8th day AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#17",
      "title": "NBA champion Knicks celebrate 2 titles on a banner night in Madison Square Garden - AP News",
      "published": "2026-10-21T03:19:00+00:00",
      "summary": "NBA champion Knicks celebrate 2 titles on a banner night in Madison Square Garden AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#18",
      "title": "Ramaswamy takes responsibility for ad with Amy Acton’s mother and will spend millions to promote it - AP News",
      "published": "2026-10-21T02:40:00+00:00",
      "summary": "Ramaswamy takes responsibility for ad with Amy Acton’s mother and will spend millions to promote it AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#19",
      "title": "Guatemalan man gets 30 years for role in smuggling tragedy that killed 53 people in Texas - AP News",
      "published": "2026-10-21T02:19:00+00:00",
      "summary": "Guatemalan man gets 30 years for role in smuggling tragedy that killed 53 people in Texas AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#20",
      "title": "76ers win opening game with LeBron James and Jaylen Brown, beating NBA champion Knicks 106-100 - AP News",
      "published": "2026-10-21T02:18:00+00:00",
      "summary": "76ers win opening game with LeBron James and Jaylen Brown, beating NBA champion Knicks 106-100 AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#21",
      "title": "Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote - AP News",
      "published": "2026-10-21T01:58:00+00:00",
      "summary": "Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#22",
      "title": "With France embroiled in protest, a look at the nation’s economic standing by the numbers - AP News",
      "published": "2026-10-21T01:57:00+00:00",
      "summary": "With France embroiled in protest, a look at the nation’s economic standing by the numbers AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#23",
      "title": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say - AP News",
      "published": "2026-10-21T01:55:00+00:00",
      "summary": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#24",
      "title": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy - AP News",
      "published": "2026-10-21T01:48:00+00:00",
      "summary": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "See the world in vertical: Top photos by AP photojournalists - AP News",
-     "published": "2026-10-21T01:22:00+00:00",
-     "summary": "See the world in vertical: Top photos by AP photojournalists AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "New UN initiative will aim to tackle the military uses of AI - AP News",
-     "published": "2026-10-21T01:08:08+00:00",
-     "summary": "New UN initiative will aim to tackle the military uses of AI AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Alberta voters overwhelmingly reject separation process in a victory for Carney - AP News",
-     "published": "2026-10-21T01:07:00+00:00",
-     "summary": "Alberta voters overwhelmingly reject separation process in a victory for Carney AP News"
     }
    ]
   },
@@ -174,153 +174,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
+     "published": "2026-10-21T08:18:53+00:00",
+     "summary": "Steve Witkoff has landed in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Australian MP loses both legs after alleged car attack, husband says",
+     "published": "2026-10-21T07:56:30+00:00",
+     "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
+    },
+    {
+     "ref": "bbc_world#2",
      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
      "published": "2026-10-21T06:50:40+00:00",
      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
     },
     {
-     "ref": "bbc_world#1",
-     "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
-     "published": "2026-10-21T06:37:55+00:00",
-     "summary": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine."
-    },
-    {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
      "published": "2026-10-21T06:36:39+00:00",
      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Elon Musk confirms talks to merge Tesla and SpaceX",
      "published": "2026-10-21T05:48:46+00:00",
      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
      "published": "2026-10-21T05:46:33+00:00",
      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
      "published": "2026-10-21T03:58:16+00:00",
      "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
      "published": "2026-10-21T03:45:52+00:00",
      "summary": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
      "published": "2026-10-21T02:37:13+00:00",
      "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#9",
      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
      "published": "2026-10-20T23:51:43+00:00",
      "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#10",
      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
      "published": "2026-10-20T23:41:30+00:00",
      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
      "published": "2026-10-20T22:22:17+00:00",
      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "Suspect arrested after historic town hall set alight - French media",
      "published": "2026-10-20T21:05:50+00:00",
      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
      "published": "2026-10-20T20:00:57+00:00",
      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "Trump sued over Canadian tariffs in latest legal challenge",
      "published": "2026-10-20T19:30:05+00:00",
      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
      "published": "2026-10-20T19:08:06+00:00",
      "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
      "published": "2026-10-20T17:30:15+00:00",
      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
      "published": "2026-10-20T15:58:57+00:00",
      "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
      "published": "2026-10-20T14:09:42+00:00",
      "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
      "published": "2026-10-20T13:23:32+00:00",
      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
      "published": "2026-10-20T11:45:49+00:00",
      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#21",
      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
      "published": "2026-10-20T03:10:39+00:00",
      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#22",
      "title": "Seventh day of violent clashes between Albanian protesters and police",
      "published": "2026-10-20T02:45:05+00:00",
      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#23",
      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
      "published": "2026-10-20T01:52:43+00:00",
      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest."
     },
     {
-     "ref": "bbc_world#23",
+     "ref": "bbc_world#24",
      "title": "US church on front line of battle against drug known as 'tranq'",
      "published": "2026-10-20T00:02:32+00:00",
      "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape."
-    },
-    {
-     "ref": "bbc_world#24",
-     "title": "Clean up begins after French riots but police remain",
-     "published": "2026-10-19T21:30:08+00:00",
-     "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted."
     }
    ]
   },
@@ -429,12 +429,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "A Democratic Reckoning in India",
      "published": "2026-10-15T08:00:00+00:00",
      "summary": "The battle on the streets over the foundations of the state."
-    },
-    {
-     "ref": "foreign_affairs#14",
-     "title": "China’s Next Frontier",
-     "published": "2026-10-14T08:00:00+00:00",
-     "summary": "Technology experts Kathleen Curlee and Sam Bresnick argue that China is catching up to the United States in space, commercially and militarily. This poses a threat to U.S. military operations, which rely on space-based capabilities. Washington must invest in space defense and also reduce its reliance on the domain."
     }
    ]
   },
@@ -450,15 +444,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#1",
-     "title": "Iraq closes Sheeb border crossing with Iran for urgent security reasons, sources say - Reuters",
+     "title": "Iraq closes Sheeb border crossing with Iran to check security, sources say - Reuters",
      "published": "2026-10-21T06:41:00+00:00",
-     "summary": "Iraq closes Sheeb border crossing with Iran for urgent security reasons, sources say Reuters"
+     "summary": "Iraq closes Sheeb border crossing with Iran to check security, sources say Reuters"
     },
     {
      "ref": "reuters_world#2",
-     "title": "North Korean Army chief inspects border with South Korea, says troops must act if enemy provokes - Reuters",
+     "title": "North Korea tells border troops to take 'resolute action' if South threatens their safety - Reuters",
      "published": "2026-10-21T06:34:00+00:00",
-     "summary": "North Korean Army chief inspects border with South Korea, says troops must act if enemy provokes Reuters"
+     "summary": "North Korea tells border troops to take 'resolute action' if South threatens their safety Reuters"
     },
     {
      "ref": "reuters_world#3",

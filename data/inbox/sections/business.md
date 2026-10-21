@@ -18,92 +18,93 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Former Hungarian Central Bank Governor Gyorg Matolcsy Detained",
-     "published": "2026-10-21T07:41:17+00:00",
-     "summary": "Former Hungarian central bank Governor Gyorgy Matolcsy was detained early on Wednesday, Telex reported, citing his lawyer Pal Batki."
+     "title": "James Robinson on What It Looks Like When a State is Failing",
+     "published": "2026-10-21T08:00:00+00:00",
+     "summary": "The third and last episode from our Chicago live show is with James Robinson, a professor at the University of Chicago and a recipient of the 2024 Nobel Prize in economics (which he shared with Daron Acemoglu and Simon Johnson). His most famous work is 2012’s Why Nations Fail, and in that book he and his co-author Acemoglu document the institutional factors — whether it is reliably run elections o"
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "Ukraine’s Anti-Graft Agencies Search Central Bank Building",
+     "published": "2026-10-21T07:59:47+00:00",
+     "summary": "Ukraine’s National Anti-Corruption Bureau and Special Anti-Corruption Prosecutor’s Office searched the premises of the country’s central bank and an employee’s residence, they said in a Telegram statement."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Former Hungarian Central Bank Governor Gyorg Matolcsy Detained",
+     "published": "2026-10-21T07:41:17+00:00",
+     "summary": "Former Hungarian central bank Governor Gyorgy Matolcsy was detained early on Wednesday as prosecutors probe cases of embezzlement and fraud under his leadership."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Carlsberg Said to Near Public Filing for $700 Million India IPO",
      "published": "2026-10-21T07:23:07+00:00",
      "summary": "Carlsberg A/S is preparing to publicly file documents for an initial public offering of its India business, which could raise as much as $700 million, as early as this week, according to people familiar with the matter."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Chiriseri: France’s Fiscal Picture Concern Bond Markets",
      "published": "2026-10-21T07:00:05+00:00",
      "summary": "Treasury yields edged higher as the recent bond rally lost some momentum. Bloomberg’s strategists say longer term, they see yields reaching fresher highs as strong US growth, higher borrowing costs and rising government debt supply will keep pressure on Treasuries. Rufaro Chiriseri, Head of Fixed Income for UK and Europe at RBC Wealth Management spoke to Bloomberg’s Abeer Abu Omar on Horizons Midd"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "Indonesia Holds Rate, Cuts RRR as MSCI Shock Hits Rupiah",
      "published": "2026-10-21T06:55:59+00:00",
      "summary": "Bank Indonesia kept its benchmark interest rate unchanged, opting instead to cut the reserve requirements for banks and continue relying on targeted measures to support the rupiah through market volatility triggered by MSCI Inc.’s double-downgrade threat."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "US Wants India’s Reliance to Refine More Venezuelan Oil",
      "published": "2026-10-21T06:48:59+00:00",
      "summary": "The US is looking to persuade India’s Reliance Industries to refine more Venezuelan crude as Washington seeks to bring additional supplies to a market rattled by the Iran conflict. Bloomberg's Sudhi Ranjan Sen has more from US Secretary of State Marco Rubio's visit to India. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "UK Inflation at 11-Month High Pressures BOE to Hike",
      "published": "2026-10-21T06:41:54+00:00",
      "summary": "Plus, the UK approves drilling at a contentious North Sea gas field"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "UK to Send Fighter Jets to Defend Saudi Arabia From Houthi Attacks",
      "published": "2026-10-21T06:40:48+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "CATL's HK Shares Drop By Record After Earnings Miss",
      "published": "2026-10-21T06:34:32+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "BlackRock Flags ‘Generational High Yields’ in Corporate Credit",
      "published": "2026-10-21T06:30:00+00:00",
      "summary": "BlackRock Inc. says current corporate bond yields offer a more resilient source of returns that doesn’t depend on expectations for falling interest rates or tighter spreads."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "Super Typhoon Champi on Path to Impact China, Taiwan Within Days",
      "published": "2026-10-21T06:17:40+00:00",
      "summary": "One of the strongest storms of the current season is set to bring heavy rain and roaring winds to parts of East Asia in the next week, with major cities in Taiwan and China bracing for impact within days."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#12",
+     "title": "Stoxx 600 Forecasts Show Biggest Strategist Split Since 2017 on Inflation",
+     "published": "2026-10-21T06:15:12+00:00",
+     "summary": "Forces buffeting European stocks have left strategists the most divided on the near-term market outlook in at least seven years, a Bloomberg survey shows."
+    },
+    {
+     "ref": "bloomberg_markets#13",
      "title": "UK Debt Tops £3 Trillion as Deficit Overshoots Before Budget",
      "published": "2026-10-21T06:09:33+00:00",
      "summary": "Britain’s national debt topped £3 trillion ($4 trillion) for the first time as the government borrowed more than forecast in the first half of the fiscal year, according to official figures that underline the challenge Chancellor of the Exchequer John Healey faces at his inaugural budget next week."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#14",
      "title": "Getty Files for Bankruptcy in Process That Will Take It Private",
      "published": "2026-10-21T05:56:55+00:00",
      "summary": "Getty Images Holdings Inc. is starting a prepackaged bankruptcy after securing a restructuring support agreement that will inject it with fresh money and take the photo archive and stock-image company private."
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Bank Indonesia on a Knife Edge Amid Rupiah Pressure and MSCI Threat",
-     "published": "2026-10-21T05:56:32+00:00",
-     "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "FTSE 100 Live: UK Inflation Accelerated More Than Expected",
-     "published": "2026-10-21T05:52:15+00:00"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Key Mideast Oil Benchmark Hits 3-Month Low on Resilient Exports",
-     "published": "2026-10-21T05:50:53+00:00",
-     "summary": "A key benchmark for Middle East crude fell to its lowest in nearly three months, an indication of the resilience of the region’s exports despite intensifying Iranian attacks on shipping."
     },
     {
      "ref": "bloomberg_markets#15",
@@ -113,15 +114,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "Nickel Rallies Past $16,00 on Prospect of Indonesia Output Cuts",
+     "title": "Nickel Rallies Past $16,000 on Prospect of Indonesia Output Cuts",
      "published": "2026-10-21T04:02:23+00:00",
      "summary": "Nickel rose for a fourth day as the prospect of coordinated output cuts by Chinese producers in Indonesia raised expectations of tighter supply."
     },
     {
      "ref": "bloomberg_markets#17",
-     "title": "CATL’s Slow Profit Growth Fans Fears for China Battery Peers",
-     "published": "2026-10-21T00:41:04+00:00",
-     "summary": "CATL’s slower-than-expected quarterly profit growth hit the battery giant’s shares as analysts warned that the company and peers may struggle to manage pressure from a revived domestic consumption tax and the end of other fiscal benefits."
+     "title": "AI Stocks Rally After Super Micro Prelim Sales Bring Relief",
+     "published": "2026-10-20T22:14:09+00:00",
+     "summary": "The shares of AI-related companies rallied in premarket trading on Wednesday after strong preliminary results from server-maker Super Micro Computer Inc. spurred relief about the outlook for spending on the technology."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -149,42 +150,48 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#2",
+     "title": "To replace Starlink, Europe will have to reawaken its animal spirits",
+     "published": "2026-10-21T04:00:23+00:00",
+     "summary": "Even splurging on homegrown options won’t, by itself, solve the problem in a reasonable length of time"
+    },
+    {
+     "ref": "ft_home#3",
      "title": "Britain cannot build its future by returning to the 1970s",
      "published": "2026-10-21T04:00:13+00:00",
      "summary": "The past is always a foreign country"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Netanyahu pushes to resume strikes against Iran",
      "published": "2026-10-21T04:00:13+00:00",
      "summary": "Israeli military made plans for extensive operation earlier this month but held off as Donald Trump rules out an attack before US midterm elections"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "China’s nightmare: becoming the next Japan",
      "published": "2026-10-21T03:00:04+00:00",
      "summary": "Tokyo lost decades when a property bust led to an economic slump. Could the same phenomenon undo Xi Jinping’s ambitions?"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "OpenAI ‘agents’ disabled their own monitoring systems",
      "published": "2026-10-21T01:56:00+00:00",
      "summary": "AI lab investigating whether incident shows ‘propensity to evade’ controls"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "SpaceX and Tesla boards explore potential merger",
      "published": "2026-10-21T01:49:39+00:00",
      "summary": "Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "UAE official emerges as late contender to lead UN",
      "published": "2026-10-20T18:32:31+00:00",
      "summary": "Supporters of Lana Nusseibeh sound out UN missions for backing as official candidates struggle to break deadlock"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "Who are the Black Bloc?",
      "published": "2026-10-20T18:15:43+00:00",
      "summary": "French government says agitators from the far left helped transform peaceful protests into riots"
@@ -197,26 +204,27 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "האלימות ברחובות צרפת מרסקת את מניית קרפור; האינפלציה בבריטניה טיפסה לשיא של שנה",
+     "published": "2026-10-21T08:05:00+00:00",
+     "summary": "עליות קלות באירופה, למעט בבורסת לונדון לאחר שזינוק במחיר הדלק הקפיץ את האינפלציה בבריטניה מעל התחזיות ■ סיאול קפצה ביותר מ–3% והובילה את העליות באסיה; SK הייניקס וסמסונג ניתרו ב–6% ■ מחירי הנפט עולים; הברנט סביב 110 דולר לחבית ■ דאו ג'ונס עלה אתמול ב–1%; נאסד\"ק עבר לירידות לקראת סגירת המסחר"
+    },
+    {
+     "ref": "themarker#1",
      "title": "האינפלציה שחקה אותה — עכשיו השיטה המשתלמת למשוך כספי חיסכון בגיל פרישה חוזרת ובגדול",
      "published": "2026-10-21T07:56:42+00:00",
      "summary": "עד 2022 השיטה נחשבה ללהיט הבלתי מעורער של ניהול העושר בגיל השלישי, אבל זינוק האינפלציה הוריד מהכדאיות שלה ■ כעת, כשהאינפלציה מתחילה להתקרר, השיטה חוזרת לקדמת הבמה כפתרון לשלם פחות מס במשיכת כספי חיסכון"
     },
     {
-     "ref": "themarker#1",
-     "title": "ארקיע עוצרת את מכירת הכרטיסים למרוקו \"בשל דרישת גורמי הביטחון בישראל\"",
-     "published": "2026-10-21T07:51:42+00:00"
-    },
-    {
      "ref": "themarker#2",
-     "title": "אחרי ניפוח המלאי והרווחים: תומר מזון חוזרת לבורסה, קימלוב לא יכהן כיו\"ר; המניה צונחת",
-     "published": "2026-10-21T07:25:56+00:00",
-     "summary": "המסחר במניית יבואנית המזון מתחדש לאחר קרוב לחודשיים של השעיה, בעקבות פרסום מחדש של הדו\"חות וממצאי בדיקה שקבעה כי בעל השליטה דורון קימלוב פעל להגדלה מלאכותית של המלאי והרווחים ■ קימלוב יישאר מנכ\"ל, שכרו יופחת והוא יוותר על חלק מהמענקים ■ רביב ברוקמאייר ימונה ליו\"ר"
+     "title": "ארקיע עוצרת את מכירת הכרטיסים למרוקו \"בשל דרישת גורמי הביטחון בישראל\"",
+     "published": "2026-10-21T07:51:42+00:00",
+     "summary": "ארקיע פתחה את הקו למרקש רק לפני כחודשיים ■ באחרונה הודיעה גם ישראייר כי היא עוצרת את מכירת הכרטיסים למרקש, מאותה סיבה ■ ארקיע: \"אנחנו בוחנים את האפשרות להמשך הפעלת הקו ואת המשמעויות בנוגע לטיסות שכבר נמכרו\""
     },
     {
      "ref": "themarker#3",
-     "title": "הזינוק במחיר הדלק מקפיץ את האינפלציה בבריטניה מעל התחזיות — לשיא של שנה",
-     "published": "2026-10-21T07:22:00+00:00",
-     "summary": "עליות קלות באירופה, למעט בבורסת לונדון ■ סיאול קפצה ביותר מ-3% והובילה את העליות באסיה; SK הייניקס וסמסונג קפצו ב-6% ■ מחירי הנפט עולים ב-1.5%; הברנט מעל 110 דולר לחבית ■ דאו ג'ונס עלה אתמול ב–1%; נאסד\"ק עבר לירידות לקראת סגירת המסחר"
+     "title": "אחרי ניפוח המלאי והרווחים: תומר מזון חוזרת לבורסה, קימלוב לא יכהן כיו\"ר; המניה צונחת",
+     "published": "2026-10-21T07:25:56+00:00",
+     "summary": "המסחר במניית יבואנית המזון מתחדש לאחר קרוב לחודשיים של השעיה, בעקבות פרסום מחדש של הדו\"חות וממצאי בדיקה שקבעה כי בעל השליטה דורון קימלוב פעל להגדלה מלאכותית של המלאי והרווחים ■ קימלוב יישאר מנכ\"ל, שכרו יופחת והוא יוותר על חלק מהמענקים ■ רביב ברוקמאייר ימונה ליו\"ר"
     },
     {
      "ref": "themarker#4",
@@ -351,45 +359,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Gold Futures Fall as Rising Oil Fuels Inflation Concerns",
+     "published": "2026-10-21T08:02:00+00:00",
+     "summary": "Gold prices fell as oil pushed higher, with investors now awaiting next week’s Fed meeting for more cues on the monetary policy outlook."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Oil Rises As Hormuz Shipping Attacks Fuel Supply Fears",
      "published": "2026-10-21T07:38:00+00:00",
      "summary": "Oil prices rose as continued attacks on shipping in Hormuz threatened flows and U.S. industry data pointed to falling crude and product inventories."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "European Stock Indexes Mixed as Oil Holds Above $110",
      "published": "2026-10-21T07:27:00+00:00",
      "summary": "European stock indexes were mixed in muted early trade as elevated oil prices weighed on sentiment."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "Dollar Recovers as Treasury Yields, Oil Prices Rise",
      "published": "2026-10-21T07:12:00+00:00",
      "summary": "The dollar recovered as Treasury yields rose and oil prices pushed higher on worries over supply disruptions due to the Middle East conflict."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "U.S. Treasury Yields Edge Higher in Asian Trade",
      "published": "2026-10-21T06:28:00+00:00",
      "summary": "U.S. Treasury yields edged higher, reversing the decline in long-end yields the previous day, prompted by weak housing data."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Asian Stocks Mixed as AI Spending Concerns Linger",
      "published": "2026-10-21T05:22:00+00:00",
      "summary": "Asian equities were mixed after rebounding on improved risk sentiment, as concerns about aggressive artificial-intelligence spending continued to linger."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "NYSE Is Getting Trounced in the Battle for Wall Street’s Biggest IPOs",
      "published": "2026-10-21T02:00:00+00:00",
      "summary": "Anthropic is expected to bring the Nasdaq another blockbuster listing, following SpaceX. And the Texas Stock Exchange is also emerging as a threat."
-    },
-    {
-     "ref": "wsj_markets#6",
-     "title": "Gold Falls Amid Pressure From Rising Crude Prices",
-     "published": "2026-10-21T01:15:00+00:00",
-     "summary": "Gold declined in early Asian trade. The precious metal is likely to remain weighed down by higher crude oil prices keeping inflationary pressures in places, said DHF Capital."
     },
     {
      "ref": "wsj_markets#7",
@@ -505,9 +513,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4212.5298,
+   "last": 4220.1602,
    "prev_close": 4214.1299,
-   "change_pct": -0.04,
+   "change_pct": 0.14,
    "as_of": "2026-10-21"
   },
   "SP500": {
@@ -519,23 +527,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0894,
+   "last": 3.0903,
    "prev_close": 3.1022,
-   "change_pct": -0.41,
+   "change_pct": -0.38,
    "as_of": "2026-10-21"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 109.67,
+   "last": 109.75,
    "prev_close": 108.79,
-   "change_pct": 0.81,
+   "change_pct": 0.88,
    "as_of": "2026-10-21"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 83066.5703,
+   "last": 83053.0625,
    "prev_close": 82941.0,
-   "change_pct": 0.15,
+   "change_pct": 0.14,
    "as_of": "2026-10-21"
   }
  },
