@@ -24,142 +24,113 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2024,
-   "text": "Prabowo Subianto and Gibran Rakabuming Raka were sworn in as president and vice president of Indonesia, becoming the oldest and the youngest person to assume respective offices.",
+   "year": 1994,
+   "text": "North Korea and the United States signed the Agreed Framework to limit the former's nuclear weapons program and to normalize relations between the two countries.",
    "context": [
-    "Prabowo Subianto Djojohadikusumo is an Indonesian politician, businessman, and retired military officer who has served as the eighth president of Indonesia since 2024. He previously served as the 26th minister of defence under President Joko Widodo from 2019 to 2024. Prabowo is Indonesia's third president to have a military background after Suharto and Susilo Bambang Yudhoyono and is the oldest first-term president in Indonesian history."
+    "The Agreed Framework between the United States of America and the Democratic People's Republic of Korea (Korean: 북미제네바기본합의서) was signed on 21 October 1994, between North Korea (DPRK) and the United States. The objective of the agreement was the freezing and replacement of North Korea's indigenous nuclear power plant program with more nuclear proliferation resistant light water reactor power plants, and the step-by-step normalization of relations between the U.S. and the DPRK. Implementation of the agreement was troubled from the start, but its key elements were being implemented until it effectively broke down in 2003."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2022,
-   "text": "Protests broke out across Chad after President Mahamat Déby (pictured) declared his intentions to extend his rule by another two years.",
+   "year": 1994,
+   "text": "In Seoul, South Korea, 32 people were killed and 17 others injured when a span of the Seongsu Bridge collapsed (pictured).",
    "context": [
-    "In October 2022, protests broke out across Chad after President Mahamat Déby declared his intentions to extend his rule by another two years instead of stepping down as promised following taking power as head of a military junta the prior year. The protests were some of the most violent in the country's history, with hundreds of protesters being killed and thousands detained, injured, or arrested."
+    "Seoul, officially Seoul Special Metropolitan City, is the capital and largest city of South Korea, and the largest city in the whole of Korea. The broader Seoul Metropolitan Area, encompassing Seoul, Gyeonggi Province and Incheon, emerged as the world's sixth largest metropolitan economy in 2022, behind New York, Tokyo, Los Angeles, Paris, and London, and hosts more than half of South Korea's population. Although Seoul's population peaked at over 10 million, it has gradually decreased since 2014, standing at about 9.6 million residents as of 2024."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2011,
-   "text": "First Libyan Civil War: Muammar Gaddafi, the deposed Libyan leader, was captured by rebel forces during the Battle of Sirte, and was killed shortly thereafter.",
+   "year": 1968,
+   "text": "At the height of the Japanese university protests, protesters occupied Shinjuku Station in Tokyo and clashed violently with police.",
    "context": [
-    "The Libyan Civil War, also known as the First Libyan Civil War and Libyan Revolution, was an armed conflict fought in 2011 in the North African country of Libya between forces loyal to Colonel Muammar Gaddafi and rebel groups attempting to oust his government. The war was ignited by protests in Benghazi beginning on 15 February 2011 inspired by the Arab Spring, which led to clashes with security forces and armed protesters. The protests escalated into a rebellion spreading across the country, with the forces opposing Gaddafi establishing an interim governing body, the National Transitional Council."
+    "In 1968 and 1969, student protests at several Japanese universities ultimately forced the closure of campuses across Japan. Known as daigaku funsō or daigaku tōsō, the protests were part of the worldwide protest cycle in 1968 and the late-1960s Japanese protest cycle, including the Anpo protests of 1970 and the struggle against the construction of Narita Airport. Students demonstrated initially against practical issues in universities and eventually formed the Zenkyōtō in mid-1968 to organize themselves. The Act on Temporary Measures concerning University Management allowed for the dispersal of protesters in 1969."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1991,
-   "text": "An earthquake struck the Indian state of Uttarakhand, killing at least 768 people and destroying thousands of homes.",
+   "year": 1966,
+   "text": "A coal tip fell on the village of Aberfan, Wales, killing 144 people, mostly schoolchildren.",
    "context": [
-    "The 1991 Uttarkashi earthquake occurred at 02:53:16 Indian Standard Time (UTC+05:30) on 20 October with a moment magnitude of 6.8 and a maximum Mercalli intensity of IX (Violent). This thrust event was instrumentally recorded and occurred along the Main Central Thrust in the Uttarkashi and Gharwal regions of the Indian state of Uttarakhand. High intensity shaking resulted in the deaths of at least 768 people and the destruction of thousands of homes."
+    "A spoil tip is a pile built of accumulated spoil – waste material removed during mining. Spoil tips are not formed of slag, but in some areas, such as England and Wales, they are referred to as slag heaps and sometimes as pit heaps. In Scotland the word bing is used. In North American English the term is mine dump or mine waste dump."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1986,
-   "text": "Aeroflot Flight 6502 crashed on approach to Kurumoch Airport in Samara, Russia (then Kuybyshev in the Soviet Union), killing 70 people on board.",
+   "year": 1959,
+   "text": "The Solomon R. Guggenheim Museum, designed by American architect Frank Lloyd Wright, opened in New York City.",
    "context": [
-    "Aeroflot Flight 6502 was a Soviet domestic passenger flight from Sverdlovsk to Grozny via Kuibyshev. On 20 October 1986, the Tupolev Tu-134A serving the flight crashed in Kuibyshev. Seventy of the 94 passengers and crew on board were killed when the plane overran the runway after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot negligence."
+    "The Solomon R. Guggenheim Museum, often referred to as The Guggenheim, is an art museum at 1071 Fifth Avenue between 88th and 89th Streets on the Upper East Side of Manhattan in New York City. It hosts a permanent collection of Impressionist, Post-Impressionist, early Modern and contemporary art and also features special exhibitions throughout the year. It was established by the Solomon R. Guggenheim Foundation in 1939 as the Museum of Non-Objective Painting, under the guidance of its first director, Hilla von Rebay. The museum adopted its current name in 1952, three years after the death of its founder Solomon R. Guggenheim. It continues to be operated and owned by the Solomon R. Guggenheim Foundation."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1986,
-   "text": "Soviet Aeroflot Flight 6502 crashed after overrunning the runway at Kuibyshev Airport, killing 70 people on board.",
-   "context": [
-    "Aeroflot Flight 6502 was a Soviet domestic passenger flight from Sverdlovsk to Grozny via Kuibyshev. On 20 October 1986, the Tupolev Tu-134A serving the flight crashed in Kuibyshev. Seventy of the 94 passengers and crew on board were killed when the plane overran the runway after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot negligence."
-   ]
-  },
-  {
-   "ref": "wikipedia#6",
-   "year": 1984,
-   "text": "The Spanish trawler Sonia sank in British waters after a five-hour chase by the Irish Naval Service patrol vessel Aisling, during which almost 600 shots were fired.",
-   "context": [
-    "The Spanish fishing trawler Sonia sank off the Cornish coast of England on 20 October 1984. On 19 October, in Irish territorial waters off the coast of County Wexford, the Sonia had been spotted by the Irish Naval Service patrol vessel Aisling and was suspected to be fishing illegally. The Sonia was ordered to halt and prepare to receive a boarding party, but did not comply."
-   ]
-  },
-  {
-   "ref": "wikipedia#7",
-   "year": 1982,
-   "text": "During a UEFA Cup match between Spartak Moscow and Haarlem, a large number of attendees trying to leave the Central Lenin Stadium resulted in a stampede that caused 66 deaths.",
-   "context": [
-    "The 1982–83 UEFA Cup was the 12th edition of the UEFA Cup, the third-tier club football competition organised by UEFA. The final was played over two legs at the Heysel Stadium, Brussels, Belgium, and at the Estádio da Luz, Lisbon, Portugal, between Anderlecht of Belgium and Benfica of Portugal. Anderlecht won by an aggregate result of 2–1 to claim their first and only UEFA Cup title."
-   ]
-  },
-  {
-   "ref": "wikipedia#8",
-   "year": 1977,
-   "text": "Three members of the American rock band Lynyrd Skynyrd died when their chartered plane crashed in Gillsburg, Mississippi.",
-   "context": [
-    "Lynyrd Skynyrd is an American rock band formed in Jacksonville, Florida, in 1964. The group originally formed as My Backyard and comprised Ronnie Van Zant (vocals), Gary Rossington (guitar), Allen Collins (guitar), Larry Junstrom (bass), and Bob Burns (drums). The band spent four years touring small venues under various names and with several lineup changes before deciding on \"Lynyrd Skynyrd\" in 1968. The band released its first album, (Pronounced 'Lĕh-'nérd 'Skin-'nérd), in 1973. By then, they had settled on a lineup that included bassist Leon Wilkeson, keyboardist Billy Powell, and guitarist Ed King. Burns left and was replaced by Artimus Pyle in 1974. King left in 1975 and was replaced by Steve Gaines in 1976. At the height of their fame in the 1970s, the band popularized the Southern rock genre with songs such as \"Sweet Home Alabama\" and \"Free Bird\". After releasing five studio albums and one live album, the band's career was abruptly halted on October 20, 1977, when their chartered airplane crashed, killing Ronnie Van Zant, Steve Gaines, and backup singer Cassie Gaines, and seriously injuring the rest of the band."
-   ]
-  },
-  {
-   "ref": "wikipedia#9",
-   "year": 1973,
-   "text": "Watergate scandal: Attorney General Elliot Richardson and his deputy William Ruckelshaus resigned after refusing to obey President Richard Nixon's order to have Archibald Cox fired.",
-   "context": [
-    "The Watergate scandal, also simply called Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and ultimately to his resignation in August 1974."
-   ]
-  },
-  {
-   "ref": "wikipedia#10",
-   "year": 1969,
-   "text": "Experimental results from the Stanford Linear Accelerator Center were published showing that protons were composed of smaller particles, the first evidence of quarks.",
-   "context": [
-    "SLAC National Accelerator Laboratory, originally named the Stanford Linear Accelerator Center, is a federally funded research and development center in Menlo Park, California, United States. Founded in 1962, the laboratory is now sponsored by the United States Department of Energy and administered by Stanford University. It is the site of the Stanford Linear Accelerator, a 3.2 km (2 mi) linear accelerator constructed in 1966 that could accelerate electrons to energies of 20 GeV, and later up to 50 GeV."
-   ]
-  },
-  {
-   "ref": "wikipedia#11",
-   "year": 1967,
-   "text": "Roger Patterson and Robert Gimlin filmed an unidentified subject, which they claimed was Bigfoot, at Six Rivers National Forest in California.",
-   "context": [
-    "The Patterson–Gimlin film is a 1967 American short motion picture, created by Roger Patterson and Robert Gimlin, that depicts an unidentified subject that the filmmakers stated was a Bigfoot. The footage was shot in 1967 in Northern California, and has since been subjected to many attempts to authenticate or debunk it."
-   ]
-  },
-  {
-   "ref": "wikipedia#12",
-   "year": 1951,
-   "text": "African-American college football player Johnny Bright was the victim of an on-field assault, eventually leading to changes in NCAA football rules that mandated the use of more protective helmets with face guards.",
-   "context": [
-    "College football is gridiron football that is played by teams of amateur student-athletes at universities and colleges. It was through collegiate competition that gridiron football first gained popularity in the United States."
-   ]
-  },
-  {
-   "ref": "wikipedia#13",
    "year": 1944,
-   "text": "World War II: Fulfilling a promise he made two years previously, General Douglas MacArthur landed on Leyte to begin the recapture of the Philippines.",
+   "text": "World War II: The three-week-long Battle of Aachen concluded, making the city the first on German soil to be captured by the Allies.",
    "context": [
     "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
-   "ref": "wikipedia#14",
-   "year": 1939,
-   "text": "Pope Pius XII (pictured) published his first encyclical, Summi Pontificatus, which critiqued ideologies such as racism, cultural superiority and totalitarianism.",
+   "ref": "wikipedia#6",
+   "year": 1941,
+   "text": "World War II: German soldiers massacred nearly 2,800 Serbs in Kragujevac in reprisal for insurgent attacks in the district of Gornji Milanovac.",
    "context": [
-    "Pope Pius XII was head of the Catholic Church and sovereign of the Vatican City from 2 March 1939 until his death in 1958. His pontificate spanned a highly consequential 19 years that included the Second World War, the Holocaust, and the first years of the Cold War."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
-   "ref": "wikipedia#15",
-   "year": 1936,
-   "text": "British woman Mabel Freer was refused entry to Australia after failing a dictation test given in Italian, leading to a debate over Australia's immigration policy.",
+   "ref": "wikipedia#7",
+   "year": 1910,
+   "text": "HMS Niobe arrived in Halifax Harbour to become the first large ship of the Royal Canadian Navy.",
    "context": [
-    "Mabel Gwendolyn Freer was a British woman whose exclusion from Australia on morality grounds in 1936 became a cause célèbre and led to a political controversy."
+    "HMS Niobe was a ship of the Diadem class of protected cruisers in the Royal Navy. She served in the Boer War and was then given to Canada as the second ship of the newly created Naval Service of Canada as HMCS Niobe. The Naval Service of Canada became the Royal Canadian Navy in August 1911. The ship was nearly lost when she went aground off Cape Sable Island, Nova Scotia overnight 30–31 July 1911. Repairs were completed at the end of 1912 and the ship returned to service in late 1914. During the First World War, Niobe patrolled the approaches to the St. Lawrence River and then joined the Royal Navy's 4th Cruiser Squadron to patrol off New York City. The cruiser returned to Halifax, Nova Scotia on 17 July 1915 and never put to sea again. Niobe was paid off in September and served as a depot ship in Halifax. Damaged in the 1917 Halifax Explosion, she was sold for scrap and broken up in the 1920s."
    ]
   },
   {
-   "ref": "wikipedia#16",
-   "year": 1740,
-   "text": "Under the terms of the Pragmatic Sanction, Maria Theresa (pictured) ascended the Habsburg throne.",
+   "ref": "wikipedia#8",
+   "year": 1867,
+   "text": "The first and second of three treaties were signed near Medicine Lodge, Kansas, between the United States federal government and several Native American tribes in the Great Plains, requiring them to relocate to areas in present-day western Oklahoma.",
    "context": [
-    "The Pragmatic Sanction of 1713 was an edict issued by Holy Roman Emperor Charles VI, on 19 April 1713 to ensure that the Habsburg monarchy, which included the Archduchy of Austria, the Kingdom of Hungary, the Kingdom of Croatia, the Kingdom of Bohemia, the Duchy of Milan, the Kingdom of Naples, the Kingdom of Sardinia and the Austrian Netherlands, could be inherited by a daughter undivided."
+    "The Medicine Lodge Treaty is the overall name for three treaties signed near Medicine Lodge, Kansas, between the Federal government of the United States and southern Plains Indian tribes in October 1867, intended to bring peace to the area by relocating the Native Americans to reservations in Indian Territory and away from European-American settlement. The treaty was negotiated after investigation by the Indian Peace Commission, which in its final report in 1868 concluded that the wars had been preventable. They determined that the United States government and its representatives, including the United States Congress, had contributed to the warfare on the Great Plains by failing to fulfill their legal obligations and to treat the Native Americans with honesty."
+   ]
+  },
+  {
+   "ref": "wikipedia#9",
+   "year": 1858,
+   "text": "French composer Jacques Offenbach's operetta Orpheus in the Underworld, featuring the music most associated with the can-can (audio featured), was first performed at the Théâtre des Bouffes-Parisiens in Paris.",
+   "context": [
+    "Jacques Offenbach was a German-born French composer, cellist and impresario. He is remembered for his nearly 100 operettas of the 1850s to the 1870s, and his uncompleted opera The Tales of Hoffmann. He was a powerful influence on later composers of the operetta genre, particularly Franz von Suppé, Johann Strauss II and Arthur Sullivan. His best-known works were continually revived during the 20th century, and many of his operettas continue to be staged in the 21st. The Tales of Hoffmann remains part of the standard opera repertory."
+   ]
+  },
+  {
+   "ref": "wikipedia#10",
+   "year": 1854,
+   "text": "Florence Nightingale and a staff of 38 nurses and 15 nuns were sent to the Ottoman Empire to help treat wounded British soldiers fighting in the Crimean War.",
+   "context": [
+    "Florence Nightingale was an English social reformer, statistician and the founder of modern nursing. Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War, in which she organised care for wounded soldiers at Constantinople. She significantly reduced death rates by improving hygiene and living standards. Nightingale gave nursing a favourable reputation and became an icon of Victorian culture, especially in the persona of \"The Lady with the Lamp\" making ward rounds for wounded soldiers at night."
+   ]
+  },
+  {
+   "ref": "wikipedia#11",
+   "year": 1345,
+   "text": "Hundred Years' War: The English victory at the Battle of Auberoche marked a change in the military balance of power in Aquitaine, with the subsequent collapse of the French position.",
+   "context": [
+    "The Hundred Years' War was a series of conflicts between the kingdoms of England and France and a civil war in France during the late Middle Ages. It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving different factions from across Western Europe, fueled by emerging nationalism on both sides. The periodization of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces."
+   ]
+  },
+  {
+   "ref": "wikipedia#12",
+   "year": 1096,
+   "text": "First Crusade: At the Battle of Civetot, the Seljuk forces of Kilij Arslan destroyed the army of the People's Crusade as it marched toward Nicaea.",
+   "context": [
+    "The First Crusade (1096–1099) was the first of a series of religious wars, or Crusades, which were initiated, supported and at times directed by the Latin Church in the Middle Ages. Their aim was to return the Holy Land to Christian rule after its conquest by the Rashidun Caliphate in the 7th century. By the 11th century, although Jerusalem had then been ruled by Muslims for hundreds of years, the practices of the Seljuk rulers in the region began to threaten local Christian populations, pilgrimages from the West, and the Byzantine Empire itself. The earliest impetus for the First Crusade came in 1095 when Byzantine emperor Alexios I Komnenos sent ambassadors to the Council of Piacenza to request military support in the empire's conflict with the Seljuk-led Turks. This was followed later in the year by the Council of Clermont, at which Pope Urban II gave a speech supporting the Byzantine request and urging faithful Christians to undertake an armed pilgrimage to Jerusalem."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "EBITDA (רווח תפעולי לפני ריבית, מיסים, פחת והפחתות)",
+  "Golden parachute (מצנח זהב)",
+  "Pull the plug (לשלוף את התקע)",
   "Capex (הוצאות הוניות)",
   "Build vs. buy (לבנות או לקנות)",
   "Smoke and mirrors (עשן ומראות)",
