@@ -1,0 +1,96 @@
+{
+  "section": "business",
+  "date": "2026-10-22",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-22T03:59:02+00:00",
+  "stories": [
+    {
+      "id": "tesla-spacex-merger-gamble",
+      "kind": "analysis",
+      "en": {
+        "headline": "Musk's $3.6 trillion gamble: why merging Tesla and SpaceX is a governance problem, not just a deal",
+        "scroll": "Elon Musk is exploring merging Tesla and SpaceX into what could be history's biggest-ever deal, but because Musk controls both companies, the real story is how to value and approve a merger he has a personal stake on both sides of.",
+        "coffee": "Elon Musk confirmed he's considering merging Tesla, a public company, with SpaceX, which is private, saying there's \"a lot to be gained\" from combining them. Both companies have formed special committees — boards-within-boards made up of independent directors — to evaluate the idea, which the Financial Times frames as a $3.6 trillion gamble and potentially the largest corporate merger in history.\n\nThe timing isn't incidental. Tesla just reported flat revenue and falling profit, and Musk lowered the company's sales targets as it pivots from selling electric cars toward artificial intelligence and robotics. SpaceX, by contrast, just posted strong earnings that helped spark a relief rally in AI-linked tech stocks. A merger would let Tesla shareholders gain direct exposure to SpaceX's growth — rockets, satellites, and the Starlink internet business — without SpaceX needing to go public on its own.\n\nThe hard part isn't the strategic logic; it's the structure. Because Musk sits atop both companies, any deal is a related-party transaction, meaning the terms — above all, what Tesla shareholders give up to acquire a stake in a private company that has no public share price — need independent validation to be defensible to shareholders and regulators alike.",
+        "deep": "## Background\n\nElon Musk runs two companies that occupy very different places in the corporate world. Tesla is public, trades daily on Nasdaq, and reports its finances to the SEC like any listed company. SpaceX is private — majority owned by Musk and a small set of early investors and employees — meaning the market has no continuous, observable price for its equity. SpaceX's value depends heavily on periodic private funding rounds, where a handful of investors agree on a valuation, not on the constant two-sided bidding of a public exchange.\n\nThat gap matters enormously for what Musk is now exploring: merging the two into a single company, in what the Financial Times describes as a $3.6 trillion gamble and what would be, by some measures, the largest merger in corporate history.\n\n## The story\n\nMusk has confirmed he's considering the combination, saying there's \"a lot to be gained\" by bringing Tesla and SpaceX together. Both companies have now formed special committees — groups of independent directors, without Musk, tasked specifically with evaluating whether and how a deal should proceed. Special committees exist precisely for situations like this one: whenever a transaction involves a controlling shareholder or executive on both sides of the table, ordinary board approval isn't considered sufficient, because the people negotiating the deal have a personal financial interest in its terms. An independent committee, advised by its own bankers and lawyers, is meant to negotiate at arm's length on behalf of the shareholders who aren't in the room — in this case, Tesla's public shareholders, who don't get a vote inside SpaceX, and vice versa.\n\nThe backdrop helps explain the appeal. Tesla's latest quarter showed flat revenue and falling profit, and Musk has lowered the company's sales targets as it shifts its narrative from electric vehicles toward AI and robotics — a pivot that investors have been willing to fund on promise more than current results. SpaceX, meanwhile, just delivered strong earnings that helped trigger a broader relief rally in AI-adjacent tech stocks, alongside Nvidia and Anthropic. A merger would let Tesla's public shareholders gain direct, tradeable exposure to SpaceX's rockets, satellite constellation (Starlink), and broader engineering capability — something they currently can't buy on the open market at any price.\n\n## Why this is a valuation problem as much as a strategic one\n\nThe central technical challenge is the exchange ratio: how many Tesla shares (or how much cash) should SpaceX's existing owners receive for their stake, and vice versa for Tesla's public holders if the combined entity restructures ownership. Public company valuation is anchored by a visible stock price set by millions of daily trades. Private company valuation, by contrast, rests on the last funding round's price — a number set by a small number of investors negotiating privately, which may or may not reflect what the company would be worth with full public scrutiny and liquidity.\n\nBecause Musk has an economic interest in both the \"buyer\" and the \"target,\" he has every incentive to want terms that work out well across his combined holdings, which is exactly why this must run through an independent process rather than a simple board vote. If the special committees conclude the numbers don't hold up to scrutiny, or that Tesla's public shareholders would be diluted into a worse position than staying separate, the deal doesn't have to happen — and minority shareholders, or regulators reviewing the deal later, will be looking closely at whether the committees' process was genuinely independent or just a formality.\n\n## Second-order effects\n\nBeyond the valuation mechanics, a deal this size would draw serious regulatory attention. SpaceX holds sensitive US government and national-security-related contracts (launch services, Starlink's military applications), which means any ownership restructuring is likely to face scrutiny well beyond ordinary antitrust review. There's also an index and investor-base question: Tesla is a widely held component of major stock indices, meaning pension funds, index funds and retail investors are exposed to it passively; folding in a rocket and satellite business changes Tesla's risk profile in ways that funds built around \"automaker\" or \"consumer discretionary\" classifications may not be designed to hold.\n\nThere's also a simpler commercial logic worth naming: combining a struggling growth story (Tesla's EV business cooling) with a thriving one (SpaceX) is a classic way to use market enthusiasm for one asset to support the valuation of another — which is exactly why independent, skeptical scrutiny of the terms matters so much here.\n\n## What to watch next\n\nWatch for the special committees' own public statements or disclosures about process and advisers, which will be the first signal of how seriously the conflict-of-interest question is being handled. Beyond that, any emerging detail on a proposed exchange ratio or valuation framework for SpaceX will be the real test of whether this becomes a genuine transaction or stays an idea Musk floats publicly while Tesla's stock benefits from the association."
+      },
+      "he": {
+        "headline": "ההימור של מאסק בשווי 3.6 טריליון דולר: למה מיזוג טסלה וספייס-אקס הוא בעיית ממשל תאגידי, לא רק עסקה",
+        "scroll": "אילון מאסק בוחן מיזוג של טסלה וספייס-אקס לכדי מה שעלול להיות העסקה הגדולה בהיסטוריה, אבל מכיוון שמאסק שולט בשתי החברות, הסיפור האמיתי הוא איך לתמחר ולאשר מיזוג שיש לו אינטרס אישי בשני צדדיו.",
+        "coffee": "אילון מאסק אישר שהוא בוחן מיזוג בין טסלה, חברה ציבורית, לספייס-אקס, חברה פרטית, ואמר שיש \"הרבה מה להשיג\" מאיחוד ביניהן. שתי החברות הקימו ועדות מיוחדות — דירקטוריונים בתוך דירקטוריונים, המורכבים מדירקטורים בלתי תלויים — כדי לבחון את הרעיון, שה-Financial Times מגדיר כהימור בשווי 3.6 טריליון דולר ואולי המיזוג התאגידי הגדול בהיסטוריה.\n\nהתזמון אינו מקרי. טסלה פרסמה לאחרונה הכנסות שטוחות ורווח שצנח, ומאסק הוריד את יעדי המכירות של החברה בעוד היא עוברת ממכירת רכבים חשמליים להתמקדות בבינה מלאכותית ורובוטיקה. ספייס-אקס, בניגוד לכך, פרסמה דיווחים חזקים שתרמו לריבאונד בניירות ערך של חברות טכנולוגיה הקשורות לבינה מלאכותית. מיזוג יאפשר לבעלי מניות טסלה חשיפה ישירה לצמיחה של ספייס-אקס — רקטות, לוויינים ועסק האינטרנט סטארלינק — בלי שספייס-אקס תצטרך להנפיק בעצמה לציבור.\n\nהחלק הקשה הוא לא ההיגיון האסטרטגי; זה המבנה. מכיוון שמאסק עומד בראש שתי החברות, כל עסקה היא \"עסקת צדדים קשורים\" (related-party transaction), כלומר התנאים — ובעיקר, מה בעלי מניות טסלה ייתנו בתמורה לנתח בחברה פרטית שאין לה מחיר מניה ציבורי — צריכים אישור עצמאי כדי שיהיו ניתנים להגנה בפני בעלי מניות ורגולטורים כאחד.",
+        "deep": "## רקע\n\nאילון מאסק מנהל שתי חברות שתופסות מקומות מאוד שונים בעולם התאגידי. טסלה היא ציבורית, נסחרת מדי יום בנאסד\"ק, ומדווחת על מצבה הכספי לרשות ניירות ערך האמריקאית (SEC) כמו כל חברה רשומה. ספייס-אקס היא פרטית — בבעלות רוב של מאסק וקבוצה קטנה של משקיעים ועובדים מוקדמים — כלומר לשוק אין מחיר רציף ונצפה למניותיה. שווייה של ספייס-אקס נשען במידה רבה על סבבי גיוס הון פרטיים תקופתיים, שבהם קבוצה קטנה של משקיעים מסכימה על שווי, ולא על מסחר דו-צדדי מתמיד של בורסה ציבורית.\n\nהפער הזה חשוב מאוד למה שמאסק בוחן כעת: מיזוג השתיים לחברה אחת, במה שה-Financial Times מתאר כהימור בשווי 3.6 טריליון דולר ומה שיהיה, לפי מדדים מסוימים, המיזוג התאגידי הגדול בהיסטוריה.\n\n## הסיפור\n\nמאסק אישר שהוא בוחן את האיחוד, ואמר שיש \"הרבה מה להשיג\" מאיחוד בין טסלה לספייס-אקס. שתי החברות הקימו כעת ועדות מיוחדות — קבוצות של דירקטורים בלתי תלויים, בלי מאסק, שהוטל עליהן ספציפית לבחון אם וכיצד עסקה כזו צריכה להתקדם. ועדות מיוחדות קיימות בדיוק למצבים כאלה: בכל פעם שעסקה מערבת בעל מניות שולט או מנהל בשני צדי השולחן, אישור דירקטוריון רגיל לא נחשב מספיק, מכיוון שלאנשים שמנהלים את המשא ומתן יש אינטרס כלכלי אישי בתנאיה. ועדה בלתי תלויה, שמלווה בבנקאים ועורכי דין משל עצמה, נועדה לנהל משא ומתן בתנאי שוק הוגנים (arm's length) בשם בעלי המניות שלא נמצאים בחדר — במקרה הזה, בעלי המניות הציבוריים של טסלה, שאין להם קול בתוך ספייס-אקס, ולהפך.\n\nהרקע מסביר את האטרקטיביות. הרבעון האחרון של טסלה הציג הכנסות שטוחות ורווח צונח, ומאסק הוריד את יעדי המכירות של החברה בעוד היא משנה את הנרטיב שלה מרכבים חשמליים לבינה מלאכותית ורובוטיקה — מעבר שמשקיעים היו מוכנים לממן על בסיס הבטחה יותר מתוצאות נוכחיות. ספייס-אקס, מצדה, פרסמה דיווחים חזקים שתרמו לריבאונד רחב יותר במניות טכנולוגיה הקשורות לבינה מלאכותית, לצד אנבידיה ואנתרופיק. מיזוג יאפשר לבעלי המניות הציבוריים של טסלה חשיפה ישירה וסחירה לרקטות של ספייס-אקס, לקונסטלציית הלוויינים שלה (סטארלינק) וליכולת ההנדסית הרחבה שלה — דבר שהם לא יכולים כרגע לקנות בשוק הפתוח בשום מחיר.\n\n## למה זו בעיית תמחור לא פחות מאשר בעיה אסטרטגית\n\nהאתגר הטכני המרכזי הוא יחס ההחלפה (exchange ratio): כמה מניות טסלה (או כמה מזומן) צריכים בעלי ספייס-אקס הקיימים לקבל עבור הנתח שלהם, ולהפך עבור בעלי המניות הציבוריים של טסלה אם הישות המשולבת תבנה מחדש את מבנה הבעלות. תמחור חברה ציבורית מעוגן במחיר מניה נצפה שנקבע על ידי מיליוני עסקאות יומיות. תמחור חברה פרטית, לעומת זאת, נשען על המחיר מסבב הגיוס האחרון — מספר שנקבע על ידי מספר קטן של משקיעים שמנהלים משא ומתן באופן פרטי, שיכול לשקף או לא לשקף את מה שהחברה הייתה שווה בבחינה ציבורית מלאה ובנזילות.\n\nמכיוון שלמאסק יש אינטרס כלכלי גם ב\"קונה\" וגם ב\"מטרה\", יש לו כל תמריץ לרצות תנאים שייטיבו עם כלל האחזקות המשולבות שלו, וזו בדיוק הסיבה שזה חייב לעבור תהליך בלתי תלוי ולא הצבעת דירקטוריון פשוטה. אם הוועדות המיוחדות יגיעו למסקנה שהמספרים לא עומדים בבחינה, או שבעלי המניות הציבוריים של טסלה ידוללו למצב גרוע יותר מהישארות כחברות נפרדות, העסקה לא חייבת לקרות — ובעלי מניות מיעוט, או רגולטורים שיבחנו את העסקה בהמשך, יבדקו בקפידה אם התהליך של הוועדות היה באמת בלתי תלוי או רק פורמלי.\n\n## השפעות מדרגה שנייה\n\nמעבר למכניקת התמחור, עסקה בגודל הזה תמשוך תשומת לב רגולטורית משמעותית. לספייס-אקס יש חוזים רגישים עם ממשלת ארה\"ב ובתחום הביטחון הלאומי (שירותי שיגור, שימושים צבאיים של סטארלינק), כלומר כל שינוי במבנה הבעלות צפוי לעמוד בבחינה רחבה הרבה יותר מבדיקת הגבלים עסקיים רגילה. יש גם שאלה של מדדים ובסיס משקיעים: טסלה היא מרכיב נפוץ במדדי מניות מרכזיים, כלומר קרנות פנסיה, קרנות מדד ומשקיעים פרטיים חשופים לה באופן פסיבי; הכנסת עסק רקטות ולוויינים משנה את פרופיל הסיכון של טסלה בדרכים שקרנות שנבנו סביב סיווגים כמו \"יצרנית רכב\" או \"מוצרי צריכה מתמשכים\" אולי לא נבנו להחזיק.\n\nיש גם היגיון מסחרי פשוט יותר שכדאי לציין: שילוב סיפור צמיחה מתקשה (עסק הרכב החשמלי של טסלה שמתקרר) עם סיפור פורח (ספייס-אקס) הוא דרך קלאסית להשתמש בהתלהבות שוק מנכס אחד כדי לתמוך בתמחור של נכס אחר — וזו בדיוק הסיבה שבחינה בלתי תלויה וספקנית של התנאים חשובה כאן כל כך.\n\n## מה לעקוב אחריו\n\nכדאי לעקוב אחרי הצהרות או גילויים פומביים של הוועדות המיוחדות בנוגע לתהליך ולמלווים המקצועיים שלהן, שיהיו הסימן הראשון לכמה ברצינות מטופלת שאלת ניגוד העניינים. מעבר לזה, כל פרט שיתגלה בנוגע ליחס החלפה מוצע או למסגרת תמחור לספייס-אקס יהיה המבחן האמיתי לשאלה אם זה הופך לעסקה אמיתית או נשאר רעיון שמאסק מעלה בפומבי בזמן שמניית טסלה נהנית מהאסוציאציה."
+      },
+      "tags": [
+        "tesla",
+        "spacex",
+        "mergers",
+        "corporate-governance"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
+          "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX",
+          "url": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "SpaceX and Tesla Consider Merger",
+          "url": "https://www.wsj.com/finance/stocks/spacex-and-tesla-consider-merger-9a38832d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-spacex-spurs-ai-relief-rally-9d3763e7?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "ספייס־אקס מזנקת בעקבות התוכניות למיזוג עם טסלה: מה שצריך לדעת",
+          "url": "https://www.themarker.com/wallstreet/2026-10-21/ty-article/.premium/000001a1-5f12-d7ce-a9a1-dff7f8fb0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4212.1299,
+      "prev_close": 4214.1299,
+      "change_pct": -0.05,
+      "as_of": "2026-10-21"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7757.1699,
+      "prev_close": 7712.5698,
+      "change_pct": 0.58,
+      "as_of": "2026-10-21"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0906,
+      "prev_close": 3.0886,
+      "change_pct": 0.06,
+      "as_of": "2026-10-22"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 110.55,
+      "prev_close": 108.79,
+      "change_pct": 1.62,
+      "as_of": "2026-10-21"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 82614.7109,
+      "prev_close": 82941.0,
+      "change_pct": -0.39,
+      "as_of": "2026-10-22"
+    }
+  }
+}

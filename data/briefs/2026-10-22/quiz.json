@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-22",
+  "questions": [
+    {
+      "id": "q1-geopolitics-ukraine",
+      "section": "geopolitics",
+      "story_id": "ukraine-peace-talks-resume",
+      "answer_index": 1,
+      "en": {
+        "question": "Why does the BBC's Russia editor say the US diplomatic push offers little real hope for imminent peace in Ukraine?",
+        "options": [
+          "Because Ukraine refuses to take part in three-way talks",
+          "Because Vladimir Putin does not currently feel under pressure to end the war",
+          "Because the US has cut off all contact with Moscow",
+          "Because Zelenskiy rejected an early-November timeline"
+        ],
+        "explanation": "The BBC's Steve Rosenberg wrote that Putin does not feel under pressure right now to end the war, even as Russia agreed to resume talks."
+      },
+      "he": {
+        "question": "למה עורך רוסיה של ה-BBC כותב שהמאמץ הדיפלומטי האמריקאי מציע תקווה אמיתית מועטה לשלום מיידי באוקראינה?",
+        "options": [
+          "כי אוקראינה מסרבת להשתתף בשיחות תלת-צדדיות",
+          "כי ולדימיר פוטין לא מרגיש כרגע בלחץ לסיים את המלחמה",
+          "כי ארצות הברית ניתקה כל קשר עם מוסקבה",
+          "כי זלנסקי דחה לוח זמנים לתחילת נובמבר"
+        ],
+        "explanation": "סטיב רוזנברג מה-BBC כתב שפוטין לא מרגיש כרגע בלחץ לסיים את המלחמה, גם כשרוסיה הסכימה לחדש את השיחות."
+      }
+    },
+    {
+      "id": "q2-business-tesla-spacex",
+      "section": "business",
+      "story_id": "tesla-spacex-merger-gamble",
+      "answer_index": 1,
+      "en": {
+        "question": "Why do Tesla and SpaceX need special committees to evaluate a possible merger between them?",
+        "options": [
+          "Because regulators legally require every merger to form one",
+          "Because Elon Musk controls both companies, creating a conflict of interest ordinary board approval can't resolve",
+          "Because SpaceX's employees voted to demand one",
+          "Because Tesla's board lacks the financial expertise to value a rocket company"
+        ],
+        "explanation": "Because Musk sits atop both companies, any deal between them is a related-party transaction that needs independent directors to negotiate and approve it on behalf of outside shareholders."
+      },
+      "he": {
+        "question": "למה טסלה וספייס-אקס צריכות ועדות מיוחדות כדי לבחון מיזוג אפשרי בין השתיים?",
+        "options": [
+          "כי רגולטורים מחייבים חוקית כל מיזוג להקים ועדה כזו",
+          "כי אילון מאסק שולט בשתי החברות, מה שיוצר ניגוד עניינים שאישור דירקטוריון רגיל לא יכול לפתור",
+          "כי עובדי ספייס-אקס הצביעו ודרשו ועדה כזו",
+          "כי לדירקטוריון טסלה אין מומחיות פיננסית לתמחר חברת רקטות"
+        ],
+        "explanation": "מכיוון שמאסק עומד בראש שתי החברות, כל עסקה ביניהן היא עסקת צדדים קשורים שדורשת דירקטורים בלתי תלויים שינהלו משא ומתן ויאשרו אותה בשם בעלי המניות החיצוניים."
+      }
+    },
+    {
+      "id": "q3-israeli-politics-election",
+      "section": "israeli_politics",
+      "story_id": "election-countdown-coalition-scenarios",
+      "answer_index": 1,
+      "en": {
+        "question": "What do both the Channel 12 and Channel 13 polls show ahead of Tuesday's election?",
+        "options": [
+          "The Netanyahu bloc leading with a clear 61-seat majority",
+          "The Eisenkot bloc leading, but short of the 61 seats needed for a majority",
+          "A perfect tie between the Netanyahu and Eisenkot blocs",
+          "Both blocs projected at under 50 seats each"
+        ],
+        "explanation": "Channel 12 projects 55 seats for the Eisenkot bloc (a 4-seat lead) and Channel 13 projects 52 seats (a 3-seat lead), but neither bloc reaches the 61 seats needed to govern alone."
+      },
+      "he": {
+        "question": "מה שני הסקרים, של ערוץ 12 וערוץ 13, מראים לפני הבחירות ביום שלישי?",
+        "options": [
+          "גוש נתניהו מוביל ברוב ברור של 61 מנדטים",
+          "גוש איזנקוט מוביל, אך רחוק מ-61 המנדטים הדרושים לרוב",
+          "שוויון מוחלט בין גוש נתניהו לגוש איזנקוט",
+          "שני הגושים נחזים מתחת ל-50 מנדטים כל אחד"
+        ],
+        "explanation": "סקר ערוץ 12 חוזה 55 מנדטים לגוש איזנקוט (יתרון של ארבעה) וסקר ערוץ 13 חוזה 52 מנדטים (יתרון של שלושה), אך אף אחד מהגושים לא מגיע ל-61 המנדטים הדרושים לשלטון עצמאי."
+      }
+    }
+  ]
+}
