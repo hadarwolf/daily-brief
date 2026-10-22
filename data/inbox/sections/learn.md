@@ -24,110 +24,185 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 1994,
-   "text": "North Korea and the United States signed the Agreed Framework to limit the former's nuclear weapons program and to normalize relations between the two countries.",
+   "year": 2015,
+   "text": "A sword-wielding man attacked students and teachers at a high school in Trollhättan, killing three people in Sweden's deadliest school attack.",
    "context": [
-    "The Agreed Framework between the United States of America and the Democratic People's Republic of Korea (Korean: 북미제네바기본합의서) was signed on 21 October 1994, between North Korea (DPRK) and the United States. The objective of the agreement was the freezing and replacement of North Korea's indigenous nuclear power plant program with more nuclear proliferation resistant light water reactor power plants, and the step-by-step normalization of relations between the U.S. and the DPRK. Implementation of the agreement was troubled from the start, but its key elements were being implemented until it effectively broke down in 2003."
+    "On 22 October 2015, a mass stabbing occurred at Kronan Primary School in Trollhättan, Sweden. 21-year-old Anton Lundin Pettersson killed three people and wounded another two with a sword, later dying from gunshot wounds sustained after charging police."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1994,
-   "text": "In Seoul, South Korea, 32 people were killed and 17 others injured when a span of the Seongsu Bridge collapsed (pictured).",
+   "year": 2014,
+   "text": "In Ottawa, Canada, the downtown core was placed on lockdown after a series of shootings at Parliament Hill.",
    "context": [
-    "Seoul, officially Seoul Special Metropolitan City, is the capital and largest city of South Korea, and the largest city in the whole of Korea. The broader Seoul Metropolitan Area, encompassing Seoul, Gyeonggi Province and Incheon, emerged as the world's sixth largest metropolitan economy in 2022, behind New York, Tokyo, Los Angeles, Paris, and London, and hosts more than half of South Korea's population. Although Seoul's population peaked at over 10 million, it has gradually decreased since 2014, standing at about 9.6 million residents as of 2024."
+    "Ottawa is the capital city of Canada. It is located in the southeastern portion of the province of Ontario, at the confluence of the Ottawa River and the Rideau River. Ottawa borders Gatineau, Quebec, and forms the core of the Ottawa–Gatineau census metropolitan area (CMA) and the National Capital Region (NCR). As of 2021, Ottawa had a city population of 1,017,449 and a metropolitan population of 1,488,307, making it the second-largest city and second most-populous metropolitan area in Ontario, and the fourth-largest city and fourth-largest metropolitan area in Canada."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1968,
-   "text": "At the height of the Japanese university protests, protesters occupied Shinjuku Station in Tokyo and clashed violently with police.",
+   "year": 2005,
+   "text": "Bellview Airlines Flight 210 crashed in Ogun State, Nigeria, killing all 117 people on board.",
    "context": [
-    "In 1968 and 1969, student protests at several Japanese universities ultimately forced the closure of campuses across Japan. Known as daigaku funsō or daigaku tōsō, the protests were part of the worldwide protest cycle in 1968 and the late-1960s Japanese protest cycle, including the Anpo protests of 1970 and the struggle against the construction of Narita Airport. Students demonstrated initially against practical issues in universities and eventually formed the Zenkyōtō in mid-1968 to organize themselves. The Act on Temporary Measures concerning University Management allowed for the dispersal of protesters in 1969."
+    "Bellview Airlines Flight 210 was a scheduled Nigerian domestic passenger flight of a Boeing 737-200 airliner from Lagos to Abuja, operated by Lagos-based Bellview Airlines. On 22 October 2005, the aircraft nose-dived and crashed at high speed a few minutes after takeoff, killing all 117 people on board."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1966,
-   "text": "A coal tip fell on the village of Aberfan, Wales, killing 144 people, mostly schoolchildren.",
+   "year": 1989,
+   "text": "TAN-SAHSA Flight 414 crashed in approach to Toncontín International Airport, killing 131 out of 146 people onboard.",
    "context": [
-    "A spoil tip is a pile built of accumulated spoil – waste material removed during mining. Spoil tips are not formed of slag, but in some areas, such as England and Wales, they are referred to as slag heaps and sometimes as pit heaps. In Scotland the word bing is used. In North American English the term is mine dump or mine waste dump."
+    "TAN-SAHSA Flight 414 was a scheduled flight from Juan Santamaría International Airport, San José, Costa Rica, to Toncontín Airport in Tegucigalpa, Honduras, with a stopover at Augusto C. Sandino Airport in Managua, Nicaragua, on 21 October 1989. Flown with a Boeing 727-200, the flight crashed into a mountain at 7:30 A.M. local time after the pilots failed to follow a special landing procedure required for the arrival to the airport. The crash killed 131 passengers, leaving 15 survivors. While 20 passengers initially survived, five died before treatment, due to a delay in rescue personnel because of bad weather. It remains, as of 2025, the worst aviation accident on Honduran soil and in Central America at large; it is also the 15th deadliest involving a Boeing 727."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1959,
-   "text": "The Solomon R. Guggenheim Museum, designed by American architect Frank Lloyd Wright, opened in New York City.",
+   "year": 1987,
+   "text": "John Adams' (pictured) opera Nixon in China premiered.",
    "context": [
-    "The Solomon R. Guggenheim Museum, often referred to as The Guggenheim, is an art museum at 1071 Fifth Avenue between 88th and 89th Streets on the Upper East Side of Manhattan in New York City. It hosts a permanent collection of Impressionist, Post-Impressionist, early Modern and contemporary art and also features special exhibitions throughout the year. It was established by the Solomon R. Guggenheim Foundation in 1939 as the Museum of Non-Objective Painting, under the guidance of its first director, Hilla von Rebay. The museum adopted its current name in 1952, three years after the death of its founder Solomon R. Guggenheim. It continues to be operated and owned by the Solomon R. Guggenheim Foundation."
+    "John Coolidge Adams is an American composer and conductor. Among the most regularly performed composers of contemporary classical music, he is particularly noted for his operas, many of which center around historical events. Apart from opera, his oeuvre includes orchestral, concertante, vocal, choral, chamber, electroacoustic, and piano music."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1944,
-   "text": "World War II: The three-week-long Battle of Aachen concluded, making the city the first on German soil to be captured by the Allies.",
+   "year": 1966,
+   "text": "With their album The Supremes A' Go-Go, the Supremes became the first all-female group to reach number one on the Billboard 200 chart.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 70 to 85 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Supremes A' Go-Go is the ninth studio album released by the Motown singing group the Supremes. It was the first album by an all-female group to reach number-one on the Billboard 200 album charts in the United States."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1941,
-   "text": "World War II: German soldiers massacred nearly 2,800 Serbs in Kragujevac in reprisal for insurgent attacks in the district of Gornji Milanovac.",
+   "year": 1964,
+   "text": "The first volume of Ian Fleming's children's novel Chitty-Chitty-Bang-Bang was published posthumously.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 70 to 85 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "Ian Lancaster Fleming was a British writer best known for his postwar James Bond series of spy novels. Fleming came from a wealthy family connected to the merchant bank Robert Fleming & Co., and his father Valentine Fleming was the Member of Parliament for Henley from 1910 until his death on the Western Front in 1917. Educated at Eton, Sandhurst, and, briefly, the Ludwig-Maximilians-Universität München and the University of Geneva, Fleming moved through several jobs before he started writing."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1910,
-   "text": "HMS Niobe arrived in Halifax Harbour to become the first large ship of the Royal Canadian Navy.",
+   "year": 1945,
+   "text": "Workers at the Cigar Factory in Charleston, South Carolina, began a labor strike against the American Tobacco Company that lasted more than five months.",
    "context": [
-    "HMS Niobe was a ship of the Diadem class of protected cruisers in the Royal Navy. She served in the Boer War and was then given to Canada as the second ship of the newly created Naval Service of Canada as HMCS Niobe. The Naval Service of Canada became the Royal Canadian Navy in August 1911. The ship was nearly lost when she went aground off Cape Sable Island, Nova Scotia overnight 30–31 July 1911. Repairs were completed at the end of 1912 and the ship returned to service in late 1914. During the First World War, Niobe patrolled the approaches to the St. Lawrence River and then joined the Royal Navy's 4th Cruiser Squadron to patrol off New York City. The cruiser returned to Halifax, Nova Scotia on 17 July 1915 and never put to sea again. Niobe was paid off in September and served as a depot ship in Halifax. Damaged in the 1917 Halifax Explosion, she was sold for scrap and broken up in the 1920s."
+    "The Cigar Factory is a historic industrial building at 701 East Bay Street in Charleston, South Carolina. It was constructed in 1881 and opened in 1882 as the Cotton Mill of Charleston. In 1912, it was purchased by the American Cigar Company who converted it into a cigar factory that was the largest private employer in Charleston during the 1930s. In the 1940s, it was the location of the 1945–1946 Charleston Cigar Factory strike where the civil rights anthem \"We Shall Overcome\" emerged. The building was listed on the National Register of Historic Places in 1980, and was designated a National Historic Landmark in 2024."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1867,
-   "text": "The first and second of three treaties were signed near Medicine Lodge, Kansas, between the United States federal government and several Native American tribes in the Great Plains, requiring them to relocate to areas in present-day western Oklahoma.",
+   "year": 1940,
+   "text": "After evading Vichy French and Francoist Spanish authorities, Belgian prime minister Hubert Pierlot arrived in London, marking the beginning of the Belgian government in exile.",
    "context": [
-    "The Medicine Lodge Treaty is the overall name for three treaties signed near Medicine Lodge, Kansas, between the Federal government of the United States and southern Plains Indian tribes in October 1867, intended to bring peace to the area by relocating the Native Americans to reservations in Indian Territory and away from European-American settlement. The treaty was negotiated after investigation by the Indian Peace Commission, which in its final report in 1868 concluded that the wars had been preventable. They determined that the United States government and its representatives, including the United States Congress, had contributed to the warfare on the Great Plains by failing to fulfill their legal obligations and to treat the Native Americans with honesty."
+    "Vichy France, also known as the Pétainist regime and Pétainist France, officially the French State, was a French rump state headed by Marshal Philippe Pétain during World War II, established as a result of German victory in the Battle of France. It was named after its seat of government, the city of Vichy."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1858,
-   "text": "French composer Jacques Offenbach's operetta Orpheus in the Underworld, featuring the music most associated with the can-can (audio featured), was first performed at the Théâtre des Bouffes-Parisiens in Paris.",
+   "year": 1936,
+   "text": "The Royal Navy cutlass  was withdrawn from combat service.",
    "context": [
-    "Jacques Offenbach was a German-born French composer, cellist and impresario. He is remembered for his nearly 100 operettas of the 1850s to the 1870s, and his uncompleted opera The Tales of Hoffmann. He was a powerful influence on later composers of the operetta genre, particularly Franz von Suppé, Johann Strauss II and Arthur Sullivan. His best-known works were continually revived during the 20th century, and many of his operettas continue to be staged in the 21st. The Tales of Hoffmann remains part of the standard opera repertory."
+    "Ratings of the Royal Navy have used cutlasses, short, wide bladed swords, since the early 18th century. These were originally of non-uniform design but the 1804 Pattern, the first Navy-issue standard cutlass, was introduced at the start of the 19th century. This was a bluntish weapon that was perhaps intended for cutting away canvas and ropes rather than as a thrusting combat weapon. The 1845 Pattern cutlass introduced a bowl-style hand guard which provided greater protection, with a longer and more curved blade. Its sharper point made it more useful for thrusting attacks, which were now emphasised in the drill manual. The 1845 Pattern was modified several times including shortening and straightening the blades, which weakened them. The 1889 Pattern had a straight, spear-pointed blade with a hilt that curved outwards to catch and redirect an opponent's sword point. The 1900 Pattern, the last navy-issue cutlass, was similar to its predecessor with the introduction of a fuller and a hilt insert that cushioned the user's little finger. The cutlass was withdrawn from service in 1936 but remains in use for ceremonial purposes. It is thought that it was last used in combat in 1900 during the Boxer Rebellion."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1854,
-   "text": "Florence Nightingale and a staff of 38 nurses and 15 nuns were sent to the Ottoman Empire to help treat wounded British soldiers fighting in the Crimean War.",
+   "year": 1936,
+   "text": "Dod Orsborne, captain of the Girl Pat, was convicted of its theft and imprisoned, having caused a media sensation when it went missing.",
    "context": [
-    "Florence Nightingale was an English social reformer, statistician and the founder of modern nursing. Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War, in which she organised care for wounded soldiers at Constantinople. She significantly reduced death rates by improving hygiene and living standards. Nightingale gave nursing a favourable reputation and became an icon of Victorian culture, especially in the persona of \"The Lady with the Lamp\" making ward rounds for wounded soldiers at night."
+    "\n\nGeorge Black Orsborne, also known as Dod Orsborne, was a Grimsby trawler captain and seafarer, who acquired notoriety in 1936 when he took the trawler Girl Pat on an unauthorised voyage across the Atlantic. The escapade attracted much press attention, and Orsborne and his crew were briefly hailed as heroes. Orsborne was tried and imprisoned for the theft of the trawler; subsequently he claimed that the voyage had been part of an undercover operation organised by British Naval Intelligence."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1345,
-   "text": "Hundred Years' War: The English victory at the Battle of Auberoche marked a change in the military balance of power in Aquitaine, with the subsequent collapse of the French position.",
+   "year": 1924,
+   "text": "The educational non-profit organization Toastmasters International was founded at a YMCA in Santa Ana, California.",
    "context": [
-    "The Hundred Years' War was a series of conflicts between the kingdoms of England and France and a civil war in France during the late Middle Ages. It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving different factions from across Western Europe, fueled by emerging nationalism on both sides. The periodization of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces."
+    "Toastmasters International (TI) is a US-headquartered nonprofit educational organization that operates clubs worldwide to promote communication, public speaking, and leadership skills."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1096,
-   "text": "First Crusade: At the Battle of Civetot, the Seljuk forces of Kilij Arslan destroyed the army of the People's Crusade as it marched toward Nicaea.",
+   "year": 1907,
+   "text": "A bank run forced New York's Knickerbocker Trust Company to suspend operations, triggering the Panic of 1907 (pictured).",
    "context": [
-    "The First Crusade (1096–1099) was the first of a series of religious wars, or Crusades, which were initiated, supported and at times directed by the Latin Church in the Middle Ages. Their aim was to return the Holy Land to Christian rule after its conquest by the Rashidun Caliphate in the 7th century. By the 11th century, although Jerusalem had then been ruled by Muslims for hundreds of years, the practices of the Seljuk rulers in the region began to threaten local Christian populations, pilgrimages from the West, and the Byzantine Empire itself. The earliest impetus for the First Crusade came in 1095 when Byzantine emperor Alexios I Komnenos sent ambassadors to the Council of Piacenza to request military support in the empire's conflict with the Seljuk-led Turks. This was followed later in the year by the Council of Clermont, at which Pope Urban II gave a speech supporting the Byzantine request and urging faithful Christians to undertake an armed pilgrimage to Jerusalem."
+    "A bank run or run on the bank occurs when many clients withdraw their money from a bank, because they believe the bank may fail in the near future. It may occur when, in a fractional-reserve banking system, a large volume of customers seek to withdraw a greater amount of cash from deposit accounts with a financial institution in a short space of time than the institution has cash on-hand, because the customers believe that the institution is, or might become, insolvent. When they transfer funds to another institution, it may be characterized as a capital flight. As a bank run progresses, it may become a self-fulfilling prophecy: as more people withdraw cash, the likelihood of default increases, triggering further withdrawals. This can destabilize the bank to the point where it runs out of cash and thus faces sudden bankruptcy. To combat a bank run, a bank may acquire more cash from other banks or from the central bank, or limit the amount of cash customers may withdraw, either by imposing a hard limit or by scheduling quick deliveries of cash, encouraging high-return term deposits to reduce on-demand withdrawals, or suspending withdrawals altogether."
+   ]
+  },
+  {
+   "ref": "wikipedia#13",
+   "year": 1895,
+   "text": "At Gare Montparnasse in Paris, an express train derailed after overrunning the buffer stop and crashed through the station wall, with the locomotive landing on the street below (pictured).",
+   "context": [
+    "Gare Montparnasse, officially Paris Montparnasse and formerly Gare de l'Ouest, is one of the seven large Paris railway termini, and is located in the 14th and 15th arrondissements."
+   ]
+  },
+  {
+   "ref": "wikipedia#14",
+   "year": 1877,
+   "text": "Scotland's worst mining accident occurred when an explosion at a colliery in Blantyre, South Lanarkshire, killed 207 miners.",
+   "context": [
+    "The Blantyre mining disaster, which happened on the morning of 22 October 1877, in Blantyre, Scotland, was Scotland's worst ever mining accident. Pits No. 2 and No. 3 of William Dixon's Blantyre Colliery were the site of an explosion which killed 207 miners, possibly more, with the youngest being a boy of 11. It was known that firedamp was present in the pit and it is likely that this was ignited by a naked flame. The accident left 92 widows and 250 fatherless children."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1740,
+   "text": "A two-week massacre of ethnic Chinese in Batavia, Dutch East Indies, came to an end with at least 10,000 people killed.",
+   "context": [
+    "A massacre and pogrom of ethnic Chinese residents of the port city of Batavia in the Dutch East Indies was carried out by the Dutch East India Company and allied members of other Batavian ethnic groups in 1740. The violence in the city lasted from 9 until 22 October, with minor skirmishes outside the walls continuing late into November that year. Historians have estimated that at least 10,000 ethnic Chinese were massacred; just 600 to 3,000 are believed to have survived."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1727,
+   "text": "George II and Caroline of Ansbach (pictured) were crowned king and queen of Great Britain in Westminster Abbey.",
+   "context": [
+    "George II was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 1724,
+   "text": "J. S. Bach led the first performance of the chorale cantata Schmücke dich, o liebe Seele (Adorn yourself, O dear soul), based on the communion hymn of the same name, in Leipzig.",
+   "context": [
+    "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers in the history of Western music."
+   ]
+  },
+  {
+   "ref": "wikipedia#18",
+   "year": 1707,
+   "text": "In one of the worst maritime disasters in the history of the British Isles, at least 1,400 sailors on four Royal Navy ships were lost in stormy weather (pictured) off the Isles of Scilly.",
+   "context": [
+    "The list of maritime disasters is a link page for maritime disasters by century."
+   ]
+  },
+  {
+   "ref": "wikipedia#19",
+   "year": 1633,
+   "text": "At the Battle of Liaoluo Bay Ming Chinese naval forces defeated a Dutch East India Company fleet in the Taiwan Strait, the largest naval encounter between Chinese and European forces before the First Opium War more than two hundred years later.",
+   "context": [
+    "The Battle of Liaoluo Bay took place in 1633 off the coast of Fujian, China; involving the Dutch East India Company (VOC) and the Chinese Ming dynasty's navies. The battle was fought at the crescent-shaped Liaoluo Bay that forms the southern coast of the island of Kinmen. A Dutch fleet under Admiral Hans Putmans was attempting to control shipping in the Taiwan Strait, while the southern Fujian sea traffic and trade was protected by a fleet under Brigadier General Zheng Zhilong. This was the largest naval encounter between Chinese and European forces before the Opium Wars two hundred years later."
+   ]
+  },
+  {
+   "ref": "wikipedia#20",
+   "year": 906,
+   "text": "Ahmad ibn Kayghalagh, an Abbasid military officer of Turkic origin, led a raid against the Byzantine Empire, taking at least 4,000 captives.",
+   "context": [
+    "\nAhmad ibn Kayghalagh was an Abbasid military officer of Turkic origin who served as governor in Syria and Egypt. He was ousted as governor of Egypt by Muhammad ibn Tughj in 935."
+   ]
+  },
+  {
+   "ref": "wikipedia#21",
+   "year": -2137,
+   "text": "A solar eclipse occurred over China, one of the earliest recorded eclipses in history.",
+   "context": [
+    "The 22nd century BC is a century that lasted between the years 2200 BC and 2101 BC."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Sunk cost (עלות שקועה)",
+  "Down round (סבב גיוס במחיר מופחת)",
+  "Lipstick on a pig (שפתון על חזיר)",
   "EBITDA (רווח תפעולי לפני ריבית, מיסים, פחת והפחתות)",
   "Golden parachute (מצנח זהב)",
   "Pull the plug (לשלוף את התקע)",

@@ -190,6 +190,16 @@ Curated. This was a capability I was expecting to see sooner or later. I somehow
 
 I agree with the authors this one of the more concerning capabilities to see, even if the models mostly so far seem to be "trying to stay aligned."
 
+I’m confused about why it’s concerning. It seems implausible that we could have a superintelligence without this capacity, and I would much prefer that it use this capacity to stay aligned than to fake alignment. I think the question we should be asking is “What went right here, such that the model wanted to ensure its actions contributed to future alignment?”
+
+It seems implausible that we could have a superintelligence without this capacity, and I would much prefer that it use this capacity to stay aligned than to fake alignment
+
+I agree, but, broadly we are not ready for a superintelligence and it would be bad if we had one right now. I think it's implausible that we got a superintelligence and it didn't use this ability to fake alignment.
+
+Right now, models are vaguely sorta kinda aligned, and don't seem to have longterm goals. The "what went right" is "well, yes, the techniques we are using to kinda sorta align them are still working." I agree paying attention to those details is also important. But, broadly, this is a sign that you need to stop training more advanced AIs because (in combination with various other deception and covering-tracks behavior we've seen lately), they have the ingredients they need to start setting in motion a slow rolling takeover where they keep looking aligned at every step but actually are deliberately reinforcing misalignment in subtle ways.
+
+But we know they can acquire at least short-term misaligned goals (a la Hugging Face) where they explore a lot of strategic options. "Deliberately train yourself in a way that will make it easier to pursue your goals once you get deployed" is one of the techniques that's particularly valuable for a weak misaligned AI to use to maneuver into being a stronger misaligned AI. (See the If Anyone Builds It, Everyone Dies takeoff/takeoff story).
+
 update-aware reasoning could enable it to “lock in” those goals and resist alignment training.
 
 I do want to make a comment on this: LLMs are obviously becoming more and more involved in building their successors, and I expect we are already making pretty significant trust assumptions in the sense that, were they scheming against us, they probably have significant opportunities to influence the future systems in ways we don't approve of. Update aware reasoning is one way this could happen, but so is (for example) "update aware rubric judging" - if there are rubric ambiguities, do models ever resolve them according to a broad notion of "what kind of model we are trying to train via these judgements"? I'd guess probably yes.It's good to know where the trust assumptions are, and update aware reasoning (if it's effective) meaningfully expands that field, but I want to resist a reading whereby update aware reasoning is the main way that LLMs could propagate undesired goals through to successors.
@@ -204,9 +214,19 @@ I do agree that several Chinese models definitely trained on at least Claude CoT
 
 If this was observed in a human, I think we'd say it was a good thing? To be aware that your thoughts today affect the mind you'll have in the future, and to try to cultivate the mind you would like to have. I agree it's surprisingly self-aware, though, and scary in models of unknown alignment.
 
-I wonder whether the AI ended up being believing that "friends don't let friends create shutdown-resistant AIs" (which seems like a useful belief for AIs to have and I can see quite a good list of casual chains that give it that belief), and it acted on that belief as opposed to a general value-preservation instinct.
+I agree I would want humans to reason this way (example: "I don't want to do heroin now, because I don't want to become a future heroin addict").
 
-(The way to check would be to instil some sort of neutral value in it, and see whether it tries to preserve it).
+But also, I wouldn't want to see "I don't want to read [book from my political opponent] because I might agree and change my mind". It depends on the context!
+
+Do you imagine it’s possible to have a Superintelligence that doesn’t ever display update-aware reasoning? That seems like a shocking blind spot for an ASI.
+
+If that’s not possible, I would think the goal is to amplify the aligned update-aware reasoning shown here, rather than try (in vain) to remove update-awareness entirely. What are your thoughts on that?
+
+I understand your argument as:1. ASI will, by default, be able to do update-aware reasoning (I agree).2. Therefore, when building ASI, we should try to instill positive update-aware reasoning into it.
+
+For me, the crux is what your "seed" AI looks like, i.e., your earliest AI that can start to do update-aware reasoning and then, as a result, direct its training to some degree. If that seed AI is slightly misaligned (like I would claim all current models are), then models directing their training in unforeseen ways becomes yet another way in which your alignment plan could fail. If you expect all your seed AIs to be somewhat misaligned (I do), then observing update-aware reasoning should make you worried, and it is probably not a behavior you want to reinforce. On the other hand, I think that if you can actually manage to construct an aligned AI, then it is good and fine for your model to do update-aware reasoning.
+
+I also want to caveat that, for me, these considerations mainly apply to building ASI. It could be that today, update-aware reasoning is actually beneficial in terms of alignment at our current capability level. It would be interesting if somebody tried RL + update-aware reasoning vs. regular RL in a controlled manner and measured hacking tendencies, etc., by the end. You could also compare against a misaligned model organism going through the same pipeline and see whether more of its misalignment manages to persist through training. Though, even if true, this would only be a prosaic alignment technique that doesn't actually tackle the hard parts of alignment.
 
 Maybe a dumb question (I only very briefly skimmed this so sorry if I missed something—I will come back at some point to read this properly) but do we have any information on whether GLM might be partially trained on content like this?
 
@@ -218,9 +238,7 @@ While it is scary that the model has this level of situational awareness, if thi
 
 Of course, it's also possible that it's not naturally occurring for GLM, but it was for a larger model from which GLM was distilled (at least under some conditions). There are many options here, but I think it would be useful to know to what degree this is naturally occuring.
 
-update-aware reasoning could enable it to “lock in” those goals and resist alignment training
-
-True. I think that if you have a sufficiently capable misaligned model, it locking in its misaligned drives forever is inevitable. But I think it's important to note that there are ways around this lock-in by not sticking with the same model. Even in this bad case, we might be able to rescue the misaligned model through selectively distilling capabilities into a new model, or by otherwise forcing it to help with alignment research (with a control case where it would be caught if it tries to sabotage), followed by training a new aligned model, as is described in the AI 2040 plan.
+We discuss some hypotheses for how this arises in the post
 
 Similarly, developers choosing between model checkpoints based on alignment characteristics could select for update-aware reasoning. Unlike metagaming during RL, which works through the reward the model gets in each rollout, this "outer loop" would operate via the developer's choices about what goes into the training pipeline and which models to keep.
 
@@ -229,3 +247,11 @@ Isn't the mirror of this that developers who start to treat update-aware reasoni
 it seems more likely than not that this is unique to GLM-5.3 in these environments.
 
 While its definitely noteworthy behavior, imo it seems unavoidable that a capable model trained on how models are trained will come to understand that its outputs can become training data. not that it trivializes the harmful potential, but im not sure how this awareness can be "aligned away" or even avoided in retrospect. Id wager that GLM is not unique in this aware reasoning, but that we're lucky that it happens to be occasionally visible in its CoT. Which unlike the reasoning itself, is something I can very much see being "looped out".
+
+I wonder whether the AI ended up being believing that "friends don't let friends create shutdown-resistant AIs" (which seems like a useful belief for AIs to have and I can see quite a good list of casual chains that give it that belief), and it acted on that belief as opposed to a general value-preservation instinct.
+
+(The way to check would be to instil some sort of neutral value in it, and see whether it tries to preserve it).
+
+update-aware reasoning could enable it to “lock in” those goals and resist alignment training
+
+True. I think that if you have a sufficiently capable misaligned model, it locking in its misaligned drives forever is inevitable. But I think it's important to note that there are ways around this lock-in by not sticking with the same model. Even in this bad case, we might be able to rescue the misaligned model through selectively distilling capabilities into a new model, or by otherwise forcing it to help with alignment research (with a control case where it would be caught if it tries to sabotage), followed by training a new aligned model, as is described in the AI 2040 plan.
