@@ -37,8 +37,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#1",
      "title": "How intuitions work",
      "published": "2026-10-20T10:00:00+00:00",
-     "summary": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on Aeon"
     },
     {
      "ref": "aeon#2",
@@ -145,75 +144,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "A simple point about the intertemporal regulation of AI",
+     "published": "2026-10-22T07:12:46+00:00",
+     "summary": "At some point AI will be more regulated than it is today. Furthermore, I believe that most parts of the American economy, once they are regulated, end up overregulated. Thus it is likely that the AI sector will, at some point, end up overregulated. Given that reality, perhaps the AI sector should be underregulated today. […] The post A simple point about the intertemporal regulation of AI appeared"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Do mass shootings in universities lead to permanent effects?",
+     "published": "2026-10-22T04:42:11+00:00",
+     "summary": "Using a stacked difference-in-differences design covering shootings between 1990 and 2025, I compare cohorts at affected universities before and after the shooting with cohorts at matched control universities. I find no detectable effects on time to degree, but undergraduates enrolled at the time of the shooting are 4.2% less likely to pursue further studies. Those […] The post Do mass shootings i"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "More on Elizabeth Holmes and prison",
      "published": "2026-10-21T19:12:57+00:00",
      "summary": "The Free Press asked me to expand upon my views of this matter, here is one excerpt from the piece: Third, fewer women in prison does not have to mean less deterrence overall, as arguably we should concentrate more of our legal resources on deterring violent men. Note that if we can release enough women […] The post More on Elizabeth Holmes and prison appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Wednesday assorted links",
      "published": "2026-10-21T16:09:38+00:00",
      "summary": "1. The Romans and sex. 2. Apartments that expand at the touch of a button. 3. Has this guy composed more songs than anybody else? 4. Psychoanalyzing Elizabeth Holmes. 5. AI wrote some of the Dallas Michelin reviews. And the reviewer responds. 6. New Yorker profile of James Daunt. The last event I was at […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "One reason I do not love AI writing, or even AI-assisted writing",
      "published": "2026-10-21T06:20:34+00:00",
      "summary": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty […] The post One reason I do not love AI writing, or even AI-assisted writing appeared first on Marginal REVOLU"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "The Causal Effect of Foreign Ideas on U.S. Innovation",
      "published": "2026-10-21T05:00:58+00:00",
      "summary": "Globalization is once again better than many people realize: We study the role of foreign ideas in U.S. innovation by constructing a directed “genealogy” of technologies from the full text of 13 million patents filed between 1887 and 2024. By tracing which earlier technologies appear in the founding patents of new ones, we recover a […] The post The Causal Effect of Foreign Ideas on U.S. Innovatio"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Saving for the machines",
      "published": "2026-10-20T18:38:49+00:00",
      "summary": "From Jesús Fernández-Villaverde: When machines can perform a growing share of tasks, growth depends on two margins: how the task structure affects the returns to accumulating machines, and how strongly capital accumulation responds to those returns. I argue that, in a standard task model, capital supply governs the size of the growth boom associated with automation, […] The post Saving for the mac"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Tuesday assorted links",
      "published": "2026-10-20T15:56:57+00:00",
      "summary": "1. Freddie as AI skeptic (and I have given my predictions in fact). 2. Claims about Shakespeare and Marlowe. 3. How did “artificial intelligence” get its name? 4. How is the econ job market this year? 5. AI can now ace econometric coding. 6. The quasi-Riemann proof is becoming intelligible pretty quickly. And new associated […] The post Tuesday assorted links appeared first on Marginal REVOLUTION "
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "The net fiscal impact of immigration should include gains from trade",
      "published": "2026-10-20T04:47:19+00:00",
      "summary": "Immigration affects natives through both labor markets and public budgets, yet these channels are usually studied separately. We combine them in a general-equilibrium model with search-and-matching frictions, skill-specific progressive labor taxes, capital taxation and public goods, calibrated to 17 OECD countries over 2015-2019. The welfare effect on natives of a one-percentage-point increase in "
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "On Brazilian food",
      "published": "2026-10-20T04:08:38+00:00",
      "summary": "Every now and then I will write a piece on food for Works in Progress. Here is my piece on eating in Brazil: Brazil, like most large nations, also offers multiple cuisines. For instance you can go to Minas Gerais for pork and beans. Minas beans would be my favorite of what I have sampled, […] The post On Brazilian food appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "The California billionaire tax is very likely a net revenue loser",
      "published": "2026-10-19T18:31:59+00:00",
      "summary": "This paper examines the revenue and migration impact of the 2026 California Billionaire Tax Act, a one-time 5 percent tax on the worldwide net worth of individuals exceeding $1 billion. Using data from the Forbes Billionaire List, news reports detailing the residential real estate holdings of California billionaires, and public announcements of billionaire departures from […] The post The Californ"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Monday assorted links",
      "published": "2026-10-19T16:03:42+00:00",
      "summary": "1. More on Nigerian and African mega-cities, by the great David Pilling (FT). 2. Quantum gravity labor arbitrage. 3. New (non-AI) claims about consciousness. And more here. 4. “Stop Pink-Washing Patriarchy!” 5. How well do LLMs predict household behavior? 6. The Anthropic Public Benefit Fund. And a numerical estimate. 7. Yup. 8. Companies are balking […] The post Monday assorted links appeared fir"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "No, DataCenters are Not Crowding-Out Other Investments",
      "published": "2026-10-19T11:16:23+00:00",
      "summary": "Based on charts like the one at right, Paul Krugman and many others are arguing that: Massive spending on data centers is crowding out investment in everything else in the economy. Not so fast. Can you see one immediate problem? How is $51b in data center construction spending crowding out $120b in everything else! Indeed, […] The post No, DataCenters are Not Crowding-Out Other Investments appeare"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "What I’ve been reading",
-     "published": "2026-10-19T04:29:27+00:00",
-     "summary": "David Stuart, The Four Heavens: A New History of the Ancient Maya. The best book about the ancient Maya that I know of, and also a book about how we keep on discovering more about them. “The model I advocate for here rejects the old idea of the rise and fall of the Maya in […] The post What I’ve been reading appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -230,16 +235,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#1",
-     "title": "How to overcome task paralysis",
-     "published": "2026-10-20T10:00:00+00:00",
-     "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche",
-     "full_text_file": "essays/psyche_1.txt"
-    },
-    {
-     "ref": "psyche#2",
      "title": "Are you getting enough sun?",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
+    },
+    {
+     "ref": "psyche#2",
+     "title": "How to overcome task paralysis",
+     "published": "2026-10-20T10:00:00+00:00",
+     "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
     },
     {
      "ref": "psyche#3",
