@@ -18,103 +18,104 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Horizons Middle East & Africa 10/22/2026 (Video)",
-     "published": "2026-10-22T07:10:46+00:00"
+     "title": "Citi ECM Chief Sees Near-Term IPO Caution on Neocloud Wobbles",
+     "published": "2026-10-22T07:23:02+00:00",
+     "summary": "Investors will become more selective in the near future when it comes to initial public offerings, as rising concern about the spending on the artificial intelligence expansion — particularly data center funding — ripples across the market, according to Citigroup Inc.’s co-head of global equity capital markets."
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "US Orders Some Diplomats Out of Saudi Arabia After Deadly Attacks, Brent Tops $110",
+     "published": "2026-10-22T07:10:46+00:00",
+     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "China Stocks Drop Most Since Liberation Day",
+     "published": "2026-10-22T06:43:46+00:00",
+     "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Jio Leverage Play Pops Up at SBI as India Brokers Lure IPO Bets",
      "published": "2026-10-22T06:42:37+00:00",
      "summary": "In a rare move for an Indian initial public offering, SBI Securities is offering a leveraged bet on the deal of Jio Platforms Ltd. — a sign of the intense competition among brokerages as the excitement over the debut is building to a fever pitch."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Evergrande Liquidators Plan First Payout to Creditors Next Year",
      "published": "2026-10-22T06:41:32+00:00",
      "summary": "Nearly three years after China Evergrande Group began winding up, liquidators have recovered less than 1% of the $46 billion sought by creditors, which they aim to begin distributing in the first half of 2027."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "China’s Chip Catch-Up May Take Five Years: Miller",
      "published": "2026-10-22T06:40:14+00:00",
      "summary": "“Chip War” author Chris Miller says China may need five years or longer to catch up in advanced chips. Speaking on the sidelines of the Barclays Asia Forum in Singapore, he said restrictions on access to cutting-edge chipmaking equipment constrain the country’s capabilities. He appeared on Bloomberg’s Insight with Haslinda Amin. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "BOE Interest Rates Beyond November Clouded by Energy Uncertainty",
      "published": "2026-10-22T06:37:32+00:00",
      "summary": "Plus, Barclays announces a £500 million share buyback"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Tesla Cuts Capex Guidance, Meta Hikes AI Spending Outlook, Announces New Stock Class",
      "published": "2026-10-22T06:13:57+00:00",
      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "Oil Market Crunch Could Happen in Months: BofA's Blanch",
      "published": "2026-10-22T06:08:52+00:00",
      "summary": "Francisco Blanch, Bank of America Commodities and Derivates Research Global Head, discusses energy markets and the volatile context around oil inventories as conflicts in the Middle East and Russia's invasion of Ukraine continue. \"We've been living a little bit on borrowed time,\" Blanch tells Bloomberg Television. He adds crude oil could face a crunch point in \"maybe four, five months.\" (Source: B"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "Boston Dynamics Founder On Physical AI Outlook",
      "published": "2026-10-22T05:58:21+00:00",
      "summary": "Marc Raibert, founder of Boston Dynamics, discusses the development of intelligent robotics technology. He speaks with Haslinda Amin at the Barclays Asia Forum in Singapore. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "India’s Margin-Funded Stock Bets Fall as Small-Cap Rally Falters",
      "published": "2026-10-22T05:53:35+00:00",
      "summary": "Leveraged bets on Indian stocks are heading for their first monthly drop since March, a sign retail traders are cutting risk as the rally in some of the market’s most speculative corners unravels."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "FTSE 100 Live: UK Stocks Set for Losses as Global Equities Decline",
      "published": "2026-10-22T05:47:44+00:00"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#12",
      "title": "BNP Paribas AM Builds Long-End JGB Bet on Steep Yield Curve",
      "published": "2026-10-22T05:43:38+00:00",
      "summary": "BNP Paribas Asset Management has been raising its positions in long-dated Japanese government bonds, attracted by a steep yield curve and signs that domestic demand is returning to the market."
     },
     {
-     "ref": "bloomberg_markets#11",
-     "title": "Nigeria Seeks Regional-Hub Status With Depositary Receipts",
-     "published": "2026-10-22T05:15:00+00:00",
-     "summary": "Nigeria plans to introduce an African depositary-receipt framework to encourage more cross-border listings and attract companies and investors from elsewhere on the continent to its capital markets."
-    },
-    {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Spanish VC Seaya Enters London After Raising €600 Million",
      "published": "2026-10-22T05:00:00+00:00",
      "summary": "Seaya, a Spanish venture capital firm backed by Banco Santander SA, is opening an office in London after raising €600 million ($637 million) for a new fund focused on European startups."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Treasuries Climb With Yen as AI Trade Jitters Fuel Haven Bid",
      "published": "2026-10-22T03:46:59+00:00",
      "summary": "Treasuries rose along with the yen and Swiss franc as investors sought shelter in havens after stocks stumbled on renewed concerns about the artificial intelligence trade."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Alibaba Leads Hong Kong Tech Slide on China Regulatory Move",
      "published": "2026-10-22T03:29:46+00:00",
      "summary": "Alibaba Group Holding Ltd.’s shares suffered their steepest decline in two months after Chinese authorities summoned e-commerce operators and called for tighter product-quality standards, pressuring Hong Kong’s tech sector."
     },
     {
-     "ref": "bloomberg_markets#15",
-     "title": "China Stocks Set for Bear Market as Tech Sinks, Policy Hopes Ebb",
-     "published": "2026-10-22T02:51:12+00:00",
-     "summary": "Chinese stocks are sinking into a bear market, with $2.4 trillion lost since a peak in May, as a protracted slump in consumption and mounting doubts over the profitability of artificial intelligence companies turn them into one of the world’s worst performers."
-    },
-    {
      "ref": "bloomberg_markets#16",
-     "title": "Indonesian Stocks Rebound as Sovereign Wealth Fund Shows Support",
-     "published": "2026-10-22T02:06:06+00:00",
-     "summary": "Indonesian shares rebounded from earlier losses, as the nation’s sovereign wealth fund said it has been buying local stocks."
+     "title": "China Stocks Enter Bear Market as Tech Slumps, Policy Hopes Ebb",
+     "published": "2026-10-22T02:51:12+00:00",
+     "summary": "Chinese stocks entered a bear market, with $2.4 trillion lost since a peak in May, as a protracted slump in consumption and mounting doubts over the profitability of artificial intelligence companies turn them into one of the world’s worst performers."
     },
     {
      "ref": "bloomberg_markets#17",
@@ -124,15 +125,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#18",
-     "title": "AI Trade Stumbles After Tech Earnings, Oil Rallies: Markets Wrap",
-     "published": "2026-10-21T22:13:33+00:00",
-     "summary": "Stocks fell as megacap earnings failed to reassure investors about the rebound in the artificial intelligence trade, Chinese equities neared a bear market and escalating Middle East tensions drove oil prices higher. Treasuries and the yen gained on haven demand."
+     "title": "Gold Falls as Higher Oil Fuels Inflation Fears Ahead of Fed Meet",
+     "published": "2026-10-21T23:56:16+00:00",
+     "summary": "Gold declined as escalating Middle East hostilities raised inflation risks ahead of a Federal Reserve policy meeting, while a selloff in equities added to broader market volatility."
     },
     {
      "ref": "bloomberg_markets#19",
-     "title": "Latest Oil Market News and Analysis for Oct. 22",
-     "published": "2026-10-21T22:05:54+00:00",
-     "summary": "Oil advanced after deadly attacks in Saudi Arabia heightened concerns that escalating Middle East hostilities could hit supply, even as exports through the Strait of Hormuz accelerate."
+     "title": "AI Trade Slides as Investors Turn to Treasuries: Markets Wrap",
+     "published": "2026-10-21T22:13:33+00:00",
+     "summary": "The rebound in the artificial intelligence trade is faltering after earnings from some of the sector’s biggest spenders failed to sustain the positive mood, with investors turning to Treasuries for safety."
     }
    ]
   },
@@ -142,15 +143,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Russian missiles bombard Kyiv after Witkoff-Putin talks",
-     "published": "2026-10-22T06:15:35+00:00",
-     "summary": "Donald Trump’s envoy met Volodymyr Zelenskyy in Oslo before heading to St Petersburg in diplomatic push"
+     "title": "Websites taken offline in race to patch PHP security flaw",
+     "published": "2026-10-22T07:06:12+00:00",
+     "summary": "Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities"
     },
     {
      "ref": "ft_home#1",
-     "title": "Websites taken offline in race to patch PHP security flaw",
-     "published": "2026-10-22T04:28:04+00:00",
-     "summary": "Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities"
+     "title": "Russian missiles bombard Kyiv after Witkoff-Putin talks",
+     "published": "2026-10-22T06:15:35+00:00",
+     "summary": "Donald Trump’s envoy met Volodymyr Zelenskyy in Oslo before heading to St Petersburg in diplomatic push"
     },
     {
      "ref": "ft_home#2",
@@ -214,9 +215,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "אסיה נסגרה בירידות חדות; המדד המרכזי של בורסות סין נפל לטריטוריה דובית",
-     "published": "2026-10-22T07:10:00+00:00",
-     "summary": "המדד המשולב לבורסות שנגחאי ושנזן ממשיך ליפול, לאחר 10 שבועות רצופים של ירידות בהם איבד יותר מ-20%; בורסת סיאול נפלה ב-4% ■ המזרח התיכון מתחמם - ומחירי הנפט ממשיכים לעלות ■ סגירה חיובית בוול סטריט; דו\"חות מטא וטסלה עקפו את התחזיות; ספייס־אקס עלתה בכ–8%"
+     "title": "ירידות באירופה; בנק ברקליס מכריז על קיצוץ של 5,000 משרות; דו\"חות חזקים לנסטלה",
+     "published": "2026-10-22T07:25:00+00:00",
+     "summary": "אסיה נסגרה בירידות חדות; המדד המרכזי של בורסות סין נפל לטריטוריה דובית; סיאול נפלה ב-4% ■ המזרח התיכון מתחמם - ומחירי הנפט ממשיכים לעלות ■ סגירה חיובית בוול סטריט; דו\"חות מטא וטסלה עקפו את התחזיות; ספייס־אקס עלתה בכ–8%"
     },
     {
      "ref": "themarker#1",
@@ -369,87 +370,87 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "French Government-Bond Yields Rise, Spread Widens as Treasury Yields Fall",
+     "published": "2026-10-22T07:21:00+00:00",
+     "summary": "French government bonds came under intense selling pressure again, taking the spread between 10-year French and German yields to its highest level since 2011."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Dollar Falls to 3-Week Low on Fresh AI Jitters",
      "published": "2026-10-22T07:02:00+00:00",
      "summary": "The dollar fell to a three-week low against a basket of currencies on concerns about the sustainability of debt-funded investments in artificial intelligence infrastructure."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Nikkei Falls to Nearly 3-Month Low Amid Strong Risk-Off Sentiment",
      "published": "2026-10-22T06:56:00+00:00",
      "summary": "The Nikkei Stock Average fell amid strong risk-off sentiment."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
      "published": "2026-10-22T06:55:00+00:00",
      "summary": "The stock-exchange and financial-information company said last week that it was in talks over the deal to buy the credit intelligence, data and workflow provider from Permira."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Oil Rises, Asian Stocks Fall as Middle East Tensions Mount",
      "published": "2026-10-22T06:30:00+00:00",
      "summary": "Oil rose and Asian equities were lower as the spotlight returned to Middle East geopolitical developments after artificial-intelligence jitters eased."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Fortescue Warns of Output Guidance Cut If China Talks Aren’t Concluded Soon",
      "published": "2026-10-22T04:51:00+00:00",
      "summary": "The iron-ore miner held guidance steady for shipments, but said the outlook hinged on securing a deal with China Mineral Resources Group."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
      "published": "2026-10-22T01:00:00+00:00",
      "summary": "Fund managers are putting on elaborate events to court wealth advisers in hopes of reaching untapped household riches—even as some investors get spooked by risk."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
      "title": "Gold Falls, Weighed by Rising Energy Costs, Fed Uncertainty",
      "published": "2026-10-22T00:46:00+00:00",
      "summary": "Gold declined in early Asian trade. The precious metal was likely pressured by rising energy costs and uncertainty surrounding the Federal Reserve’s coming decision, said XS.com com."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#8",
      "title": "Oil Rises Amid Concerns Over Re-Escalation of Mideast Conflict",
      "published": "2026-10-22T00:39:00+00:00",
      "summary": "Oil rose in early Asian trade amid concerns over a re-escalation of the Middle East conflict, which could lead to supply disruptions in the region."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "The Financial—and Psychological—Cost of Being the Friend Who Picks Up the Tab",
      "published": "2026-10-21T23:04:00+00:00",
      "summary": "We young adults are open about our money issues. So why is it hard to get our friends to reimburse us when we split the bill?"
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "WSJ Dollar Index Falls 0.04% to 96.92",
      "published": "2026-10-21T22:31:00+00:00",
      "summary": "The WSJ Dollar Index edged lower, down for two consecutive trading days."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
      "published": "2026-10-21T21:36:00+00:00",
      "summary": "Bullish signals from three different links of the AI chain helped the Nasdaq Composite undo most of Friday’s selloff."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "Health Care Roundup: Market Talk",
      "published": "2026-10-21T21:18:00+00:00",
      "summary": "Find insight on EssilorLuxottica, pharmaceutical stocks and more in the latest Market Talks covering Health Care."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-10-21T21:16:00+00:00",
      "summary": "Find insight on gold prices, Jackdaw gas field and more in the latest Market Talks covering Basic Materials."
-    },
-    {
-     "ref": "wsj_markets#13",
-     "title": "Financial Services Roundup: Market Talk",
-     "published": "2026-10-21T21:13:00+00:00",
-     "summary": "Find insight on Prudential PLC, CIMB, Bangkok Bank and more in the latest Market Talks covering Financial Services."
     },
     {
      "ref": "wsj_markets#14",
@@ -523,9 +524,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4185.73,
+   "last": 4172.4502,
    "prev_close": 4212.1299,
-   "change_pct": -0.63,
+   "change_pct": -0.94,
    "as_of": "2026-10-22"
   },
   "SP500": {
@@ -537,23 +538,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1039,
+   "last": 3.1031,
    "prev_close": 3.0886,
-   "change_pct": 0.5,
+   "change_pct": 0.47,
    "as_of": "2026-10-22"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 111.42,
+   "last": 111.5,
    "prev_close": 108.82,
-   "change_pct": 2.39,
+   "change_pct": 2.46,
    "as_of": "2026-10-22"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 82194.6016,
+   "last": 82191.3672,
    "prev_close": 84011.9688,
-   "change_pct": -2.16,
+   "change_pct": -2.17,
    "as_of": "2026-10-22"
   }
  },

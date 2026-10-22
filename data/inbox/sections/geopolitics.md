@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-10-22T07:33:09+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-22T07:23:11+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "A Vermont woman scrubs grime from gravestones and researches who is buried there - AP News",
      "published": "2026-10-22T06:52:00+00:00",
      "summary": "A Vermont woman scrubs grime from gravestones and researches who is buried there AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#3",
+     "title": "Iran says 7 tankers on fire or damaged overnight in the Strait of Hormuz, and other Mideast news - AP News",
+     "published": "2026-10-22T06:40:00+00:00",
+     "summary": "Iran says 7 tankers on fire or damaged overnight in the Strait of Hormuz, and other Mideast news AP News"
+    },
+    {
+     "ref": "ap_world#4",
      "title": "Video game developer BioWare shuts down, next 'Mass Effect' canceled amid broader layoffs at EA - AP News",
      "published": "2026-10-22T06:38:00+00:00",
      "summary": "Video game developer BioWare shuts down, next 'Mass Effect' canceled amid broader layoffs at EA AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#5",
      "title": "A second female lawmaker in Australia is threatened days after alleged car attack - AP News",
      "published": "2026-10-22T06:24:00+00:00",
      "summary": "A second female lawmaker in Australia is threatened days after alleged car attack AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#6",
      "title": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search - AP News",
      "published": "2026-10-22T06:15:21+00:00",
      "summary": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#7",
      "title": "Fire forces evacuation of a Mississippi senior living center and destroys much of the building - AP News",
      "published": "2026-10-22T05:38:00+00:00",
      "summary": "Fire forces evacuation of a Mississippi senior living center and destroys much of the building AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-10-22T04:21:51+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices - AP News",
      "published": "2026-10-22T04:13:00+00:00",
      "summary": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
      "title": "Coastal construction projects threaten the mangrove forest that protects Vietnam's biggest city - AP News",
      "published": "2026-10-22T04:11:00+00:00",
      "summary": "Coastal construction projects threaten the mangrove forest that protects Vietnam's biggest city AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#10",
      "title": "As riots overshadow Macron’s final months in office, presidential hopefuls jockey to succeed him - AP News",
      "published": "2026-10-22T04:07:52+00:00",
      "summary": "As riots overshadow Macron’s final months in office, presidential hopefuls jockey to succeed him AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "Ashley Hinson shows Republicans' midterm balancing act as Trump heads to Iowa to boost turnout - AP News",
      "published": "2026-10-22T04:04:00+00:00",
      "summary": "Ashley Hinson shows Republicans' midterm balancing act as Trump heads to Iowa to boost turnout AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "Ukraine’s strikes on Russian data centers disrupt key services and derail AI research - AP News",
      "published": "2026-10-22T04:04:00+00:00",
      "summary": "Ukraine’s strikes on Russian data centers disrupt key services and derail AI research AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "In New Mexico governor’s race, Deb Haaland’s historic bid tests Democrats’ political hold - AP News",
      "published": "2026-10-22T04:01:00+00:00",
      "summary": "In New Mexico governor’s race, Deb Haaland’s historic bid tests Democrats’ political hold AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
+     "title": "Taiwan indicts 5 accused of trying to injure comedian who mocks Xi and Chinese Communist Party - AP News",
+     "published": "2026-10-22T03:56:00+00:00",
+     "summary": "Taiwan indicts 5 accused of trying to injure comedian who mocks Xi and Chinese Communist Party AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "Trump brings a last-minute rally boost to Darline Graham in South Carolina's US Senate race - AP News",
      "published": "2026-10-22T03:48:00+00:00",
      "summary": "Trump brings a last-minute rally boost to Darline Graham in South Carolina's US Senate race AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#16",
+     "title": "Tests show Pope Leo XIV won’t need further treatment for lung cancer, Vatican says - AP News",
+     "published": "2026-10-22T02:59:00+00:00",
+     "summary": "Tests show Pope Leo XIV won’t need further treatment for lung cancer, Vatican says AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
+     "published": "2026-10-22T02:59:00+00:00",
+     "summary": "Russia frees American Stephen Hubbard after over 4 years behind bars AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "Teacher injured in Oregon school attack says she had no chance to protect children - AP News",
      "published": "2026-10-22T02:49:00+00:00",
      "summary": "Teacher injured in Oregon school attack says she had no chance to protect children AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#19",
      "title": "North Korea says it will resume propaganda broadcasts across border into South Korea - AP News",
      "published": "2026-10-22T02:20:00+00:00",
      "summary": "North Korea says it will resume propaganda broadcasts across border into South Korea AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#20",
      "title": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference - AP News",
      "published": "2026-10-22T02:10:00+00:00",
      "summary": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#21",
      "title": "Wisconsin Republican Tiffany says Zuckerberg money was the reason he tried to overturn 2020 election - AP News",
      "published": "2026-10-22T02:04:00+00:00",
      "summary": "Wisconsin Republican Tiffany says Zuckerberg money was the reason he tried to overturn 2020 election AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#22",
      "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti - AP News",
      "published": "2026-10-22T01:35:00+00:00",
      "summary": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#23",
      "title": "A look at the major candidates in Israel’s election Tuesday - AP News",
      "published": "2026-10-22T01:18:00+00:00",
      "summary": "A look at the major candidates in Israel’s election Tuesday AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#24",
      "title": "Fraternity suspended at University of Arizona after female student reported assault by 2 men - AP News",
      "published": "2026-10-22T01:14:00+00:00",
      "summary": "Fraternity suspended at University of Arizona after female student reported assault by 2 men AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates - AP News",
-     "published": "2026-10-22T01:13:00+00:00",
-     "summary": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Sister of American Stephen Hubbard says he’s in disbelief following release by Russia - AP News",
-     "published": "2026-10-22T00:58:00+00:00",
-     "summary": "Sister of American Stephen Hubbard says he’s in disbelief following release by Russia AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Dusky shark that became a tourist draw while trapped in a South Korean canal finally swims free - AP News",
-     "published": "2026-10-22T00:55:00+00:00",
-     "summary": "Dusky shark that became a tourist draw while trapped in a South Korean canal finally swims free AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Over 500 in South Africa sickened in outbreak linked to poor water quality - AP News",
-     "published": "2026-10-22T00:43:00+00:00",
-     "summary": "Over 500 in South Africa sickened in outbreak linked to poor water quality AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "How the Mecca defense agreement between Turkey, Pakistan and Saudi Arabia will work - AP News",
-     "published": "2026-10-22T00:39:00+00:00",
-     "summary": "How the Mecca defense agreement between Turkey, Pakistan and Saudi Arabia will work AP News"
     }
    ]
   },
@@ -444,153 +444,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent - Reuters",
+     "published": "2026-10-22T07:15:44+00:00",
+     "summary": "Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "China's Xi calls for qualitative improvement, measurable growth in economy - Reuters",
      "published": "2026-10-22T06:13:00+00:00",
      "summary": "China's Xi calls for qualitative improvement, measurable growth in economy Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
+     "title": "IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026 - Reuters",
+     "published": "2026-10-22T06:04:00+00:00",
+     "summary": "IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026 Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "Retail investors fully subscribe Ambani’s Jio IPO on second day - Reuters",
      "published": "2026-10-22T05:53:00+00:00",
      "summary": "Retail investors fully subscribe Ambani’s Jio IPO on second day Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
+     "title": "New US-backed Southeast Asia data cable to pick NEC or Alcatel as supplier, developer says - Reuters",
+     "published": "2026-10-22T05:17:00+00:00",
+     "summary": "New US-backed Southeast Asia data cable to pick NEC or Alcatel as supplier, developer says Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "Iran's IRGC Navy says seven vessels hit, warns US of wider response - Reuters",
      "published": "2026-10-22T04:40:00+00:00",
      "summary": "Iran's IRGC Navy says seven vessels hit, warns US of wider response Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#6",
      "title": "Morning Bid: France's debt strains, AI in focus - Reuters",
      "published": "2026-10-22T04:33:00+00:00",
      "summary": "Morning Bid: France's debt strains, AI in focus Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#7",
      "title": "Cloudflare sees millions of exploit attempts after PHP disclosure - Reuters",
      "published": "2026-10-22T04:08:00+00:00",
      "summary": "Cloudflare sees millions of exploit attempts after PHP disclosure Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
      "title": "Europe car sales rise 10% in September as EV surge offsets combustion slump - Reuters",
      "published": "2026-10-22T04:06:00+00:00",
      "summary": "Europe car sales rise 10% in September as EV surge offsets combustion slump Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook - Reuters",
      "published": "2026-10-22T04:03:00+00:00",
      "summary": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race - Reuters",
      "published": "2026-10-22T02:46:00+00:00",
      "summary": "DeepSeek wrapping up $15 billion fundraising to fuel AI race Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "Indian shares slip as high oil prices fuel inflation worries - Reuters",
      "published": "2026-10-22T02:33:00+00:00",
      "summary": "Indian shares slip as high oil prices fuel inflation worries Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "Taiwan probes organised crime links to China's 'transnational repression' - Reuters",
      "published": "2026-10-22T02:32:00+00:00",
      "summary": "Taiwan probes organised crime links to China's 'transnational repression' Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "Asian stocks sink to 3-month low on tech angst, Gulf tensions - Reuters",
      "published": "2026-10-22T02:15:00+00:00",
      "summary": "Asian stocks sink to 3-month low on tech angst, Gulf tensions Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
      "title": "Yen rallies as dollar wobbles toward Fed meeting - Reuters",
      "published": "2026-10-22T02:10:00+00:00",
      "summary": "Yen rallies as dollar wobbles toward Fed meeting Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#15",
      "title": "Canada's Carney visits Turkey in push to ease US trade dependence - Reuters",
      "published": "2026-10-22T02:01:00+00:00",
      "summary": "Canada's Carney visits Turkey in push to ease US trade dependence Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#16",
      "title": "Indonesia issues record fines to companies over stock market violations - Reuters",
      "published": "2026-10-22T01:23:00+00:00",
      "summary": "Indonesia issues record fines to companies over stock market violations Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#17",
      "title": "Bank of Korea holds rates as expected after back-to-back hikes - Reuters",
      "published": "2026-10-22T00:54:00+00:00",
      "summary": "Bank of Korea holds rates as expected after back-to-back hikes Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#18",
      "title": "Meta sued in Australian class action over alleged social media harm to children - Reuters",
      "published": "2026-10-22T00:34:00+00:00",
      "summary": "Meta sued in Australian class action over alleged social media harm to children Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#19",
      "title": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea - Reuters",
      "published": "2026-10-21T23:57:00+00:00",
      "summary": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "Russia, Ukraine exchange strikes as US envoy leaves after talks - Reuters",
      "published": "2026-10-21T23:45:00+00:00",
      "summary": "Russia, Ukraine exchange strikes as US envoy leaves after talks Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
      "title": "BHP chair points to Canada tax incentives in call for investment reforms - Reuters",
      "published": "2026-10-21T23:43:00+00:00",
      "summary": "BHP chair points to Canada tax incentives in call for investment reforms Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#22",
      "title": "Britain's MI5 spied on NHS founder Bevan, secret documents show - Reuters",
      "published": "2026-10-21T23:08:07+00:00",
      "summary": "Britain's MI5 spied on NHS founder Bevan, secret documents show Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#23",
      "title": "New Zealand third-quarter inflation slows to 3.7% but expectations remain of a hike next week - Reuters",
      "published": "2026-10-21T23:08:01+00:00",
      "summary": "New Zealand third-quarter inflation slows to 3.7% but expectations remain of a hike next week Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#24",
      "title": "Philippines exploring deeper cooperation with Taiwan to protect cables - Reuters",
      "published": "2026-10-21T23:05:43+00:00",
      "summary": "Philippines exploring deeper cooperation with Taiwan to protect cables Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Republicans fly past former spending caps nixed by US Supreme Court - Reuters",
-     "published": "2026-10-21T22:54:22+00:00",
-     "summary": "Republicans fly past former spending caps nixed by US Supreme Court Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Germany's SAP hits €10 billion quarterly revenue milestone, lifts 2026 view - Reuters",
-     "published": "2026-10-21T22:43:37+00:00",
-     "summary": "Germany's SAP hits €10 billion quarterly revenue milestone, lifts 2026 view Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Who is Stephen Hubbard, the US citizen released by Russia? - Reuters",
-     "published": "2026-10-21T22:26:19+00:00",
-     "summary": "Who is Stephen Hubbard, the US citizen released by Russia? Reuters"
     }
    ]
   }

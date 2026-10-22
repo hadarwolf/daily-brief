@@ -45,14 +45,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-21T19:00:00Z",
-     "home": "Inter",
-     "away": "Shaktar",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-21T19:00:00Z",
      "home": "Club Brugge",
      "away": "RC Lens",
      "status": "FINISHED",
@@ -69,18 +61,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-10-21T19:00:00Z",
-     "home": "Real Betis",
-     "away": "Feyenoord",
+     "home": "Inter",
+     "away": "Shaktar",
      "status": "FINISHED",
      "score": "1-0"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-10-21T19:00:00Z",
-     "home": "Bayern",
-     "away": "Arsenal",
-     "status": "FINISHED",
-     "score": "2-2"
     },
     {
      "competition": "UEFA Champions League",
@@ -97,6 +81,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "RB Leipzig",
      "status": "FINISHED",
      "score": "4-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-21T19:00:00Z",
+     "home": "Real Betis",
+     "away": "Feyenoord",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-10-21T19:00:00Z",
+     "home": "Bayern",
+     "away": "Arsenal",
+     "status": "FINISHED",
+     "score": "2-2"
     }
    ],
    "today": [
@@ -752,63 +752,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#4",
+     "title": "Lionel Messi Reaches 934 Career Goals After Inter Miami Brace - SportsRation",
+     "published": "2026-10-22T01:24:04+00:00",
+     "summary": "Lionel Messi Reaches 934 Career Goals After Inter Miami Brace SportsRation"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami vs FC Cincinnati: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-22T01:23:12+00:00",
      "summary": "Inter Miami vs FC Cincinnati: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Messi assists as Inter Miami clinches MLS playoff berth with 2-0 win over NYCFC - The Register-Herald",
      "published": "2026-10-22T00:57:27+00:00",
      "summary": "Messi assists as Inter Miami clinches MLS playoff berth with 2-0 win over NYCFC The Register-Herald"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "How Lionel Messi’s Current Inter Miami Run Compares to His Best Barcelona Form Ever - Forza Football",
      "published": "2026-10-22T00:00:01+00:00",
      "summary": "How Lionel Messi’s Current Inter Miami Run Compares to His Best Barcelona Form Ever Forza Football"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Inter Miami helps grant wish of 23 children with special day at Nu Stadium - WSVN",
      "published": "2026-10-21T22:41:22+00:00",
      "summary": "Inter Miami helps grant wish of 23 children with special day at Nu Stadium WSVN"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Preview: New York Red Bulls vs Inter Miami - prediction, team news, lineups - Sports Mole",
      "published": "2026-10-21T22:21:16+00:00",
      "summary": "Preview: New York Red Bulls vs Inter Miami - prediction, team news, lineups Sports Mole"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Messi brace lifts Inter Miami to 3-1 win in Atlanta - The Daily Star",
      "published": "2026-10-21T22:13:27+00:00",
      "summary": "Messi brace lifts Inter Miami to 3-1 win in Atlanta The Daily Star"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "David Beckham's Inter Miami faces MLS fine controversy as previous sanctions raise new concerns - Pasión Fútbol",
      "published": "2026-10-21T22:00:00+00:00",
      "summary": "David Beckham's Inter Miami faces MLS fine controversy as previous sanctions raise new concerns Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi makes express trip to Spain for prestigious award before Inter Miami's crucial MLS clash - Pasión Fútbol",
      "published": "2026-10-21T21:17:00+00:00",
      "summary": "Lionel Messi makes express trip to Spain for prestigious award before Inter Miami's crucial MLS clash Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Oceania champions Auckland United learn pathway to Miami finals - Friends of Football",
      "published": "2026-10-21T20:35:44+00:00",
      "summary": "Oceania champions Auckland United learn pathway to Miami finals Friends of Football"
-    },
-    {
-     "ref": "gnews_inter_miami#13",
-     "title": "After 17 years: Baz revives Messi's feat against Bayern Munich - Goal.com",
-     "published": "2026-10-21T20:25:23+00:00",
-     "summary": "After 17 years: Baz revives Messi's feat against Bayern Munich Goal.com"
     },
     {
      "ref": "gnews_inter_miami#14",
@@ -872,9 +872,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#24",
-     "title": "New York RB - Inter Miami CF prediction & tips 24.10.2026 - Transfermarkt",
-     "published": "2026-10-21T15:30:09+00:00",
-     "summary": "New York RB - Inter Miami CF prediction & tips 24.10.2026 Transfermarkt"
+     "title": "MATCH PREVIEW, pres. by Toyota: Red Bull New York Host Inter Miami CF on Saturday Afternoon at Sports Illustrated Stadium - Red Bull New York",
+     "published": "2026-10-21T14:22:49+00:00",
+     "summary": "MATCH PREVIEW, pres. by Toyota: Red Bull New York Host Inter Miami CF on Saturday Afternoon at Sports Illustrated Stadium Red Bull New York"
     }
    ]
   },
@@ -890,147 +890,147 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#1",
-     "title": "Damian Lillard Makes His Return To Portland, Leads Trail Blazers In Blowout Win Over The Suns - Rip City Radio 620 Portland",
-     "published": "2026-10-22T06:16:39+00:00",
-     "summary": "Damian Lillard Makes His Return To Portland, Leads Trail Blazers In Blowout Win Over The Suns Rip City Radio 620 Portland"
-    },
-    {
-     "ref": "gnews_israeli_nba#2",
-     "title": "Suns vs. Trail Blazers - Final Score - October 21, 2026 - FOX Sports",
-     "published": "2026-10-22T05:56:09+00:00",
-     "summary": "Suns vs. Trail Blazers - Final Score - October 21, 2026 FOX Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#3",
      "title": "Micah Nori Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026 - NBA.com",
      "published": "2026-10-22T05:47:14+00:00",
      "summary": "Micah Nori Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#2",
      "title": "Damian Lillard Highlights (25 Points, 6 Assists) | Trail Blazers 124, Suns 83 | Oct. 21, 2026 - NBA.com",
      "published": "2026-10-22T05:08:11+00:00",
      "summary": "Damian Lillard Highlights (25 Points, 6 Assists) | Trail Blazers 124, Suns 83 | Oct. 21, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#3",
      "title": "Game Highlights: Portland Trail Blazers 124, Phoenix Suns 83 | Oct. 21, 2026 - NBA.com",
      "published": "2026-10-22T04:53:10+00:00",
      "summary": "Game Highlights: Portland Trail Blazers 124, Phoenix Suns 83 | Oct. 21, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#4",
+     "title": "Deni Avdija posts 18/10/4/2 line vs. Phoenix - NBC Sports",
+     "published": "2026-10-22T04:43:16+00:00",
+     "summary": "Deni Avdija posts 18/10/4/2 line vs. Phoenix NBC Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#5",
      "title": "Lillard returns with 25 points, Morant debuts and the Blazers rout the Suns 124-83 - FOX Sports",
      "published": "2026-10-22T04:37:08+00:00",
      "summary": "Lillard returns with 25 points, Morant debuts and the Blazers rout the Suns 124-83 FOX Sports"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija remains questionable before Blazers vs. Suns as Toumani Camara watch looms - شبكة تواصل الإخبارية",
      "published": "2026-10-22T02:45:52+00:00",
      "summary": "Deni Avdija remains questionable before Blazers vs. Suns as Toumani Camara watch looms شبكة تواصل الإخبارية"
     },
     {
-     "ref": "gnews_israeli_nba#8",
-     "title": "Deni Avdija active in Wendesday’s season opener - NBC Sports",
-     "published": "2026-10-22T02:32:32+00:00",
-     "summary": "Deni Avdija active in Wendesday’s season opener NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#9",
-     "title": "Deni Avdija is a game-time decision in season opener - NBC Sports",
-     "published": "2026-10-22T02:32:32+00:00",
-     "summary": "Deni Avdija is a game-time decision in season opener NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija News: Good to go Wednesday - RotoWire",
      "published": "2026-10-22T01:06:25+00:00",
      "summary": "Deni Avdija News: Good to go Wednesday RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#8",
      "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
      "published": "2026-10-22T01:04:46+00:00",
      "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
     },
     {
-     "ref": "gnews_israeli_nba#12",
-     "title": "Deni Avdija regular season stats: averages by season - BasketNews.com",
-     "published": "2026-10-22T00:58:29+00:00",
-     "summary": "Deni Avdija regular season stats: averages by season BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#9",
      "title": "Final Injury Report for Suns-Trail Blazers: Will Deni Avdija, Damian Lillard Play? - AOL.com",
      "published": "2026-10-21T22:00:00+00:00",
      "summary": "Final Injury Report for Suns-Trail Blazers: Will Deni Avdija, Damian Lillard Play? AOL.com"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#10",
      "title": "Experts release final Blazers vs. Suns predictions: Deni Avdija injury update, line moves and model best bets - OregonLive.com",
      "published": "2026-10-21T21:09:00+00:00",
      "summary": "Experts release final Blazers vs. Suns predictions: Deni Avdija injury update, line moves and model best bets OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#11",
+     "title": "Trail Blazers’ Anticipated Starting Lineup for Season-Opener vs. Suns - Heavy.com",
+     "published": "2026-10-21T19:59:19+00:00",
+     "summary": "Trail Blazers’ Anticipated Starting Lineup for Season-Opener vs. Suns Heavy.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#12",
      "title": "Fantasy Basketball Week 1 Injury Report: Deni Avdija questionable, AJ Dybantsa out for opener - Yahoo Sports",
      "published": "2026-10-21T16:30:00+00:00",
      "summary": "Fantasy Basketball Week 1 Injury Report: Deni Avdija questionable, AJ Dybantsa out for opener Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#13",
+     "title": "Blazers Open NBA Season Against the Suns Tonight - Blazer's Edge",
+     "published": "2026-10-21T16:29:53+00:00",
+     "summary": "Blazers Open NBA Season Against the Suns Tonight Blazer's Edge"
+    },
+    {
+     "ref": "gnews_israeli_nba#14",
+     "title": "Ben Saraf EuroCup stats: averages by season - BasketNews.com",
+     "published": "2026-10-21T15:52:16+00:00",
+     "summary": "Ben Saraf EuroCup stats: averages by season BasketNews.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
      "title": "Is Deni Avdija playing tonight? Blazers vs. Suns injury report to open season - Yahoo Sports",
      "published": "2026-10-21T15:29:05+00:00",
      "summary": "Is Deni Avdija playing tonight? Blazers vs. Suns injury report to open season Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija’s injury status becomes key story ahead of Phoenix Suns vs. Portland Trail Blazers - Yardbarker",
      "published": "2026-10-21T05:00:39+00:00",
      "summary": "Deni Avdija’s injury status becomes key story ahead of Phoenix Suns vs. Portland Trail Blazers Yardbarker"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "Suns vs. Trail Blazers Injury Report – Oct. 21 - Rip City Radio 620 Portland",
      "published": "2026-10-21T04:23:16+00:00",
      "summary": "Suns vs. Trail Blazers Injury Report – Oct. 21 Rip City Radio 620 Portland"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija Headlines Today’s NBA Injury Report: Wednesday 10/21/26 - DraftKings Network",
      "published": "2026-10-21T03:59:27+00:00",
      "summary": "Deni Avdija Headlines Today’s NBA Injury Report: Wednesday 10/21/26 DraftKings Network"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija injury could force Jrue Holiday’s move to forward for Blazers - Rip City Project",
      "published": "2026-10-21T03:10:00+00:00",
      "summary": "Deni Avdija injury could force Jrue Holiday’s move to forward for Blazers Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#20",
      "title": "Trail Blazers' Deni Avdija: Good to go Wednesday - CBS Sports",
      "published": "2026-10-21T01:59:19+00:00",
      "summary": "Trail Blazers' Deni Avdija: Good to go Wednesday CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Deni Avdija's injury status becomes key story ahead of Phoenix Suns vs. Portland Trail Blazers - Burn City Sports",
-     "published": "2026-10-21T01:33:46+00:00",
-     "summary": "Deni Avdija's injury status becomes key story ahead of Phoenix Suns vs. Portland Trail Blazers Burn City Sports"
+     "ref": "gnews_israeli_nba#21",
+     "title": "Deni Avdija’s injury status becomes key story ahead of Phoenix Suns vs. Portland Trail Blazers - Yahoo Sports",
+     "published": "2026-10-21T01:33:00+00:00",
+     "summary": "Deni Avdija’s injury status becomes key story ahead of Phoenix Suns vs. Portland Trail Blazers Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#22",
      "title": "A surprise name lands on Trail Blazers’ injury report for season opener - OregonLive.com",
      "published": "2026-10-21T01:07:00+00:00",
      "summary": "A surprise name lands on Trail Blazers’ injury report for season opener OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija (ankle) questionable to play Wednesday - FantasyPros",
      "published": "2026-10-21T00:59:00+00:00",
      "summary": "Deni Avdija (ankle) questionable to play Wednesday FantasyPros"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Portland Trail Blazers Get Concerning Deni Avdija Injury News Before Opener - Heavy.com",
+     "published": "2026-10-21T00:57:00+00:00",
+     "summary": "Portland Trail Blazers Get Concerning Deni Avdija Injury News Before Opener Heavy.com"
     }
    ]
   }
