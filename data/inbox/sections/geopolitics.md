@@ -18,21 +18,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-10-22T07:43:49+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-22T08:23:05+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-22T07:43:47+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-10-22T08:23:04+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-22T07:23:11+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-22T07:43:47+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
      "ref": "ap_world#3",
@@ -60,27 +60,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#7",
-     "title": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search - AP News",
-     "published": "2026-10-22T06:15:21+00:00",
-     "summary": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search AP News"
-    },
-    {
-     "ref": "ap_world#8",
      "title": "Fire forces evacuation of a Mississippi senior living center and destroys much of the building - AP News",
      "published": "2026-10-22T05:38:00+00:00",
      "summary": "Fire forces evacuation of a Mississippi senior living center and destroys much of the building AP News"
     },
     {
+     "ref": "ap_world#8",
+     "title": "Coastal construction projects threaten the mangrove forest that protects Vietnam's biggest city - AP News",
+     "published": "2026-10-22T04:30:08+00:00",
+     "summary": "Coastal construction projects threaten the mangrove forest that protects Vietnam's biggest city AP News"
+    },
+    {
      "ref": "ap_world#9",
-     "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices - AP News",
-     "published": "2026-10-22T04:13:00+00:00",
-     "summary": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices AP News"
+     "title": "What to know about the Ebola outbreak that has spread from Congo to 4 other countries - AP News",
+     "published": "2026-10-22T04:27:00+00:00",
+     "summary": "What to know about the Ebola outbreak that has spread from Congo to 4 other countries AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "Coastal construction projects threaten the mangrove forest that protects Vietnam's biggest city - AP News",
-     "published": "2026-10-22T04:11:00+00:00",
-     "summary": "Coastal construction projects threaten the mangrove forest that protects Vietnam's biggest city AP News"
+     "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices - AP News",
+     "published": "2026-10-22T04:13:00+00:00",
+     "summary": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices AP News"
     },
     {
      "ref": "ap_world#11",
@@ -96,75 +96,75 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#13",
+     "title": "As riots overshadow Macron’s final months in office, presidential hopefuls jockey to succeed him - AP News",
+     "published": "2026-10-22T04:02:00+00:00",
+     "summary": "As riots overshadow Macron’s final months in office, presidential hopefuls jockey to succeed him AP News"
+    },
+    {
+     "ref": "ap_world#14",
      "title": "In New Mexico governor’s race, Deb Haaland’s historic bid tests Democrats’ political hold - AP News",
      "published": "2026-10-22T04:01:00+00:00",
      "summary": "In New Mexico governor’s race, Deb Haaland’s historic bid tests Democrats’ political hold AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#15",
+     "title": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search - AP News",
+     "published": "2026-10-22T03:59:00+00:00",
+     "summary": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search AP News"
+    },
+    {
+     "ref": "ap_world#16",
      "title": "Taiwan indicts 5 accused of trying to injure comedian who mocks Xi and Chinese Communist Party - AP News",
      "published": "2026-10-22T03:56:00+00:00",
      "summary": "Taiwan indicts 5 accused of trying to injure comedian who mocks Xi and Chinese Communist Party AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
      "title": "Trump brings a last-minute rally boost to Darline Graham in South Carolina's US Senate race - AP News",
      "published": "2026-10-22T03:48:00+00:00",
      "summary": "Trump brings a last-minute rally boost to Darline Graham in South Carolina's US Senate race AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "Tests show Pope Leo XIV won’t need further treatment for lung cancer, Vatican says - AP News",
      "published": "2026-10-22T02:59:00+00:00",
      "summary": "Tests show Pope Leo XIV won’t need further treatment for lung cancer, Vatican says AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#19",
      "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
      "published": "2026-10-22T02:59:00+00:00",
      "summary": "Russia frees American Stephen Hubbard after over 4 years behind bars AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
      "title": "Teacher injured in Oregon school attack says she had no chance to protect children - AP News",
      "published": "2026-10-22T02:49:00+00:00",
      "summary": "Teacher injured in Oregon school attack says she had no chance to protect children AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#21",
      "title": "North Korea says it will resume propaganda broadcasts across border into South Korea - AP News",
      "published": "2026-10-22T02:20:00+00:00",
      "summary": "North Korea says it will resume propaganda broadcasts across border into South Korea AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#22",
      "title": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference - AP News",
      "published": "2026-10-22T02:10:00+00:00",
      "summary": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#23",
      "title": "Wisconsin Republican Tiffany says Zuckerberg money was the reason he tried to overturn 2020 election - AP News",
      "published": "2026-10-22T02:04:00+00:00",
      "summary": "Wisconsin Republican Tiffany says Zuckerberg money was the reason he tried to overturn 2020 election AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#24",
      "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti - AP News",
      "published": "2026-10-22T01:35:00+00:00",
      "summary": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "A look at the major candidates in Israel’s election Tuesday - AP News",
-     "published": "2026-10-22T01:18:00+00:00",
-     "summary": "A look at the major candidates in Israel’s election Tuesday AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Fraternity suspended at University of Arizona after female student reported assault by 2 men - AP News",
-     "published": "2026-10-22T01:14:00+00:00",
-     "summary": "Fraternity suspended at University of Arizona after female student reported assault by 2 men AP News"
     }
    ]
   },
@@ -174,153 +174,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Two European women held captive for more than a year in Niger freed in Libya",
+     "published": "2026-10-22T08:21:13+00:00",
+     "summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+     "published": "2026-10-22T08:15:48+00:00",
+     "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago."
+    },
+    {
+     "ref": "bbc_world#2",
      "title": "What is PHP and why did it spark a global cyber-security scramble?",
      "published": "2026-10-22T06:24:59+00:00",
      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#3",
      "title": "How Arab parties could hold critical balance of power in Israeli election",
      "published": "2026-10-22T05:30:22+00:00",
      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#4",
      "title": "No order, no seat: Starbucks China rolls out new store policy",
      "published": "2026-10-22T04:02:29+00:00",
      "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#5",
      "title": "US embassy accuses Canada of election meddling ahead of midterms",
      "published": "2026-10-22T03:05:28+00:00",
      "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#6",
      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
      "published": "2026-10-22T01:07:34+00:00",
      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#7",
      "title": "The real reasons US politicians are getting older",
      "published": "2026-10-21T23:52:12+00:00",
      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#8",
      "title": "Trump's green card curbs test Indian tech workers' American dream",
      "published": "2026-10-21T23:06:37+00:00",
      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#9",
      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
      "published": "2026-10-21T23:04:03+00:00",
      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#10",
      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
      "published": "2026-10-21T22:59:18+00:00",
      "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#11",
      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
      "published": "2026-10-21T22:54:58+00:00",
      "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#12",
      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
      "published": "2026-10-21T22:20:22+00:00",
      "summary": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\"."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#13",
      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
      "published": "2026-10-21T22:02:18+00:00",
      "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#14",
      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
      "published": "2026-10-21T22:00:58+00:00",
      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#15",
      "title": "Meta fined $25bn for 'lies' over user data privacy",
      "published": "2026-10-21T21:49:07+00:00",
      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#16",
      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
      "published": "2026-10-21T21:27:41+00:00",
      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
     },
     {
-     "ref": "bbc_world#15",
-     "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-     "published": "2026-10-21T20:31:47+00:00",
-     "summary": "It is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish."
-    },
-    {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
      "published": "2026-10-21T20:19:51+00:00",
      "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "Pope does not need further treatment after lung cancer surgery",
      "published": "2026-10-21T20:09:10+00:00",
      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
      "published": "2026-10-21T19:58:06+00:00",
      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
      "published": "2026-10-21T19:29:40+00:00",
      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#21",
      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
      "published": "2026-10-21T18:22:28+00:00",
      "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#22",
      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
      "published": "2026-10-21T18:10:42+00:00",
      "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#23",
      "title": "Family of prison officer killed by IRA receives state apology",
      "published": "2026-10-21T16:58:16+00:00",
      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
     },
     {
-     "ref": "bbc_world#23",
+     "ref": "bbc_world#24",
      "title": "Macron accuses foreign leaders of exploiting French riots",
      "published": "2026-10-21T14:04:28+00:00",
      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
-    },
-    {
-     "ref": "bbc_world#24",
-     "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-     "published": "2026-10-21T08:42:49+00:00",
-     "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
     }
    ]
   },
@@ -417,24 +417,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "The Nuclear Deal That Could Save NATO",
      "published": "2026-10-16T08:00:00+00:00",
      "summary": "Former U.S. NATO ambassador Ivo Daalder argues that the scramble to shore up Europe's conventional defense risks overlooking the continent's greatest security weakness: nuclear deterrence. Europe knows it can't fully trust Washington's guarantee anymore. But he lays out a middle path between dependence and nuclearization that would extend France's and the United Kingdom's nuclear umbrella—a course"
-    },
-    {
-     "ref": "foreign_affairs#12",
-     "title": "A Democratic Reckoning in India",
-     "published": "2026-10-15T08:00:00+00:00",
-     "summary": "The battle on the streets over the foundations of the state."
-    },
-    {
-     "ref": "foreign_affairs#13",
-     "title": "Ukraine Can Turn Imminent Peril to Its Advantage",
-     "published": "2026-10-15T08:00:00+00:00",
-     "summary": "How a true “energy cease-Fire” can curb Putin."
-    },
-    {
-     "ref": "foreign_affairs#14",
-     "title": "The Middle East’s Quiet Liberal Revolution",
-     "published": "2026-10-15T08:00:00+00:00",
-     "summary": "What people in the region actually believe."
     }
    ]
   },
@@ -456,141 +438,141 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#2",
+     "title": "Beatings, cyberattacks and threats darken Vucic's Serbia ahead of elections - Reuters",
+     "published": "2026-10-22T07:09:43+00:00",
+     "summary": "Beatings, cyberattacks and threats darken Vucic's Serbia ahead of elections Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "China's Xi calls for qualitative improvement, measurable growth in economy - Reuters",
      "published": "2026-10-22T06:13:00+00:00",
      "summary": "China's Xi calls for qualitative improvement, measurable growth in economy Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026 - Reuters",
      "published": "2026-10-22T06:04:00+00:00",
      "summary": "IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026 Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Retail investors fully subscribe Ambani's Jio IPO on second day - Reuters",
      "published": "2026-10-22T05:53:00+00:00",
      "summary": "Retail investors fully subscribe Ambani's Jio IPO on second day Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "New US-backed Southeast Asia data cable to pick NEC or Alcatel as supplier, developer says - Reuters",
      "published": "2026-10-22T05:17:00+00:00",
      "summary": "New US-backed Southeast Asia data cable to pick NEC or Alcatel as supplier, developer says Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "Iran's IRGC Navy says seven vessels hit, warns US of wider response - Reuters",
      "published": "2026-10-22T04:40:00+00:00",
      "summary": "Iran's IRGC Navy says seven vessels hit, warns US of wider response Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
+     "title": "Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended - Reuters",
+     "published": "2026-10-22T04:36:00+00:00",
+     "summary": "Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended Reuters"
+    },
+    {
+     "ref": "reuters_world#9",
      "title": "Morning Bid: France's debt strains, AI in focus - Reuters",
      "published": "2026-10-22T04:33:00+00:00",
      "summary": "Morning Bid: France's debt strains, AI in focus Reuters"
     },
     {
-     "ref": "reuters_world#8",
-     "title": "Cloudflare sees millions of exploit attempts after PHP disclosure - Reuters",
+     "ref": "reuters_world#10",
+     "title": "Asian governments step up cyber defences after PHP flaw - Reuters",
      "published": "2026-10-22T04:08:00+00:00",
-     "summary": "Cloudflare sees millions of exploit attempts after PHP disclosure Reuters"
+     "summary": "Asian governments step up cyber defences after PHP flaw Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Europe car sales rise 10% in September as EV surge offsets combustion slump - Reuters",
      "published": "2026-10-22T04:06:00+00:00",
      "summary": "Europe car sales rise 10% in September as EV surge offsets combustion slump Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook - Reuters",
      "published": "2026-10-22T04:03:00+00:00",
      "summary": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race - Reuters",
      "published": "2026-10-22T02:46:00+00:00",
      "summary": "DeepSeek wrapping up $15 billion fundraising to fuel AI race Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "Indian shares slip as high oil prices fuel inflation worries - Reuters",
      "published": "2026-10-22T02:33:00+00:00",
      "summary": "Indian shares slip as high oil prices fuel inflation worries Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "Taiwan probes organised crime links to China's 'transnational repression' - Reuters",
      "published": "2026-10-22T02:32:00+00:00",
      "summary": "Taiwan probes organised crime links to China's 'transnational repression' Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Asian stocks sink to 3-month low on tech angst, Gulf tensions - Reuters",
      "published": "2026-10-22T02:15:00+00:00",
      "summary": "Asian stocks sink to 3-month low on tech angst, Gulf tensions Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Yen rallies as dollar wobbles toward Fed meeting - Reuters",
      "published": "2026-10-22T02:10:00+00:00",
      "summary": "Yen rallies as dollar wobbles toward Fed meeting Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Canada's Carney visits Turkey in push to ease US trade dependence - Reuters",
      "published": "2026-10-22T02:01:00+00:00",
      "summary": "Canada's Carney visits Turkey in push to ease US trade dependence Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Indonesia issues record fines to companies over stock market violations - Reuters",
      "published": "2026-10-22T01:23:00+00:00",
      "summary": "Indonesia issues record fines to companies over stock market violations Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Bank of Korea holds rates as expected after back-to-back hikes - Reuters",
      "published": "2026-10-22T00:54:00+00:00",
      "summary": "Bank of Korea holds rates as expected after back-to-back hikes Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "Meta sued in Australian class action over alleged social media harm to children - Reuters",
      "published": "2026-10-22T00:34:00+00:00",
      "summary": "Meta sued in Australian class action over alleged social media harm to children Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea - Reuters",
      "published": "2026-10-21T23:57:00+00:00",
      "summary": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "Russia, Ukraine exchange strikes as US envoy leaves after talks - Reuters",
      "published": "2026-10-21T23:45:00+00:00",
      "summary": "Russia, Ukraine exchange strikes as US envoy leaves after talks Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "BHP chair points to Canada tax incentives in call for investment reforms - Reuters",
      "published": "2026-10-21T23:43:00+00:00",
      "summary": "BHP chair points to Canada tax incentives in call for investment reforms Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Britain's MI5 spied on NHS founder Bevan, secret documents show - Reuters",
-     "published": "2026-10-21T23:08:07+00:00",
-     "summary": "Britain's MI5 spied on NHS founder Bevan, secret documents show Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "New Zealand third-quarter inflation slows to 3.7% but expectations remain of a hike next week - Reuters",
-     "published": "2026-10-21T23:08:01+00:00",
-     "summary": "New Zealand third-quarter inflation slows to 3.7% but expectations remain of a hike next week Reuters"
     }
    ]
   }

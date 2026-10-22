@@ -764,9 +764,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#6",
-     "title": "How Lionel Messi’s Current Inter Miami Run Compares to His Best Barcelona Form Ever - Forza Football",
+     "title": "How Lionel Messi’s Current Inter Miami Run Compares to His Best Barcelona Form Ever - FotMob",
      "published": "2026-10-22T00:00:01+00:00",
-     "summary": "How Lionel Messi’s Current Inter Miami Run Compares to His Best Barcelona Form Ever Forza Football"
+     "summary": "How Lionel Messi’s Current Inter Miami Run Compares to His Best Barcelona Form Ever FotMob"
     },
     {
      "ref": "gnews_inter_miami#7",
@@ -782,99 +782,99 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#9",
+     "title": "New York Red Bulls vs Inter Miami - Match Guide, Data Analysis, Standings - Sports Mole",
+     "published": "2026-10-21T22:21:16+00:00",
+     "summary": "New York Red Bulls vs Inter Miami - Match Guide, Data Analysis, Standings Sports Mole"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
      "title": "Messi brace lifts Inter Miami to 3-1 win in Atlanta - The Daily Star",
      "published": "2026-10-21T22:13:27+00:00",
      "summary": "Messi brace lifts Inter Miami to 3-1 win in Atlanta The Daily Star"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "David Beckham's Inter Miami faces MLS fine controversy as previous sanctions raise new concerns - Pasión Fútbol",
      "published": "2026-10-21T22:00:00+00:00",
      "summary": "David Beckham's Inter Miami faces MLS fine controversy as previous sanctions raise new concerns Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi makes express trip to Spain for prestigious award before Inter Miami's crucial MLS clash - Pasión Fútbol",
      "published": "2026-10-21T21:17:00+00:00",
      "summary": "Lionel Messi makes express trip to Spain for prestigious award before Inter Miami's crucial MLS clash Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Oceania champions Auckland United learn pathway to Miami finals - Friends of Football",
      "published": "2026-10-21T20:35:44+00:00",
      "summary": "Oceania champions Auckland United learn pathway to Miami finals Friends of Football"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Lionel Messi nominated for historic Ballon d'Or of All Time award alongside Cristiano Ronaldo and soccer le... - Pasión Fútbol",
      "published": "2026-10-21T19:14:00+00:00",
      "summary": "Lionel Messi nominated for historic Ballon d'Or of All Time award alongside Cristiano Ronaldo and soccer le... Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Messi’s Double And Assist Seal Dominant Win Over Atlanta United - Yahoo Sports",
      "published": "2026-10-21T19:08:45+00:00",
      "summary": "Messi’s Double And Assist Seal Dominant Win Over Atlanta United Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Inter Miami CF Academy U-16s Gear Up for Second Edition of Messi Cup - Inter Miami CF",
      "published": "2026-10-21T19:07:39+00:00",
      "summary": "Inter Miami CF Academy U-16s Gear Up for Second Edition of Messi Cup Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Wow! Messi stars in an unexpected AI collaboration. VIDEO - Dailysports",
      "published": "2026-10-21T19:05:32+00:00",
      "summary": "Wow! Messi stars in an unexpected AI collaboration. VIDEO Dailysports"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Alarm bells at Inter Miami as Rodrigo De Paul fails to finish training ahead of crucial MLS clash - Pasión Fútbol",
      "published": "2026-10-21T18:52:00+00:00",
      "summary": "Alarm bells at Inter Miami as Rodrigo De Paul fails to finish training ahead of crucial MLS clash Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
+     "title": "Two matches, two awards ceremonies: Is Lionel Messi about to fly 16,000 miles in seven days? - The New York Times",
+     "published": "2026-10-21T18:42:13+00:00",
+     "summary": "Two matches, two awards ceremonies: Is Lionel Messi about to fly 16,000 miles in seven days? The New York Times"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
      "title": "Make-A-Wish kids get dream opportunity to meet Lionel Messi, Inter Miami players - WFLX",
      "published": "2026-10-21T18:41:00+00:00",
      "summary": "Make-A-Wish kids get dream opportunity to meet Lionel Messi, Inter Miami players WFLX"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi achieves a major playmaking milestone during the 2026 season - Yahoo Sports",
      "published": "2026-10-21T17:15:00+00:00",
      "summary": "Lionel Messi achieves a major playmaking milestone during the 2026 season Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#22",
      "title": "Messi faces whirlwind 48 hours: Oviedo award ceremony ahead of New York clash - BeSoccer Livescore",
      "published": "2026-10-21T17:00:18+00:00",
      "summary": "Messi faces whirlwind 48 hours: Oviedo award ceremony ahead of New York clash BeSoccer Livescore"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami's Messi Dependence Raises Concerns Despite Lionel Messi's Incredible MLS Numbers - Pasión Fútbol",
      "published": "2026-10-21T16:30:00+00:00",
      "summary": "Inter Miami's Messi Dependence Raises Concerns Despite Lionel Messi's Incredible MLS Numbers Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#24",
      "title": "Make-A-Wish Teen Meets Messi at Inter Miami's Nu Stadium - Hoodline",
      "published": "2026-10-21T15:50:41+00:00",
      "summary": "Make-A-Wish Teen Meets Messi at Inter Miami's Nu Stadium Hoodline"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "MATCH PREVIEW, pres. by Toyota: Red Bull New York Host Inter Miami CF on Saturday Afternoon at Sports Illustrated Stadium - Red Bull New York",
-     "published": "2026-10-21T14:22:49+00:00",
-     "summary": "MATCH PREVIEW, pres. by Toyota: Red Bull New York Host Inter Miami CF on Saturday Afternoon at Sports Illustrated Stadium Red Bull New York"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Rodrigo De Paul becomes untouchable at Inter Miami as Kily González finds his midfield leader - Pasión Fútbol",
-     "published": "2026-10-21T14:15:00+00:00",
-     "summary": "Rodrigo De Paul becomes untouchable at Inter Miami as Kily González finds his midfield leader Pasión Fútbol"
     }
    ]
   },
@@ -890,21 +890,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#1",
-     "title": "Damian Lillard Makes His Return To Portland, Leads Trail Blazers In Blowout Win Over The Suns - Rip City Radio 620 Portland",
-     "published": "2026-10-22T06:16:39+00:00",
-     "summary": "Damian Lillard Makes His Return To Portland, Leads Trail Blazers In Blowout Win Over The Suns Rip City Radio 620 Portland"
-    },
-    {
-     "ref": "gnews_israeli_nba#2",
      "title": "Suns vs. Trail Blazers - Final Score - October 21, 2026 - FOX Sports",
      "published": "2026-10-22T05:56:09+00:00",
      "summary": "Suns vs. Trail Blazers - Final Score - October 21, 2026 FOX Sports"
     },
     {
+     "ref": "gnews_israeli_nba#2",
+     "title": "Damian Lillard Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026 - NBA.com",
+     "published": "2026-10-22T05:53:14+00:00",
+     "summary": "Damian Lillard Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026 NBA.com"
+    },
+    {
      "ref": "gnews_israeli_nba#3",
-     "title": "Micah Nori Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026 - NBA.com",
-     "published": "2026-10-22T05:47:14+00:00",
-     "summary": "Micah Nori Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026 NBA.com"
+     "title": "Damian Lillard Makes His Return To Portland, Leads Trail Blazers In Blowout Win Over The Suns - News Radio 1190 KEX",
+     "published": "2026-10-22T05:48:00+00:00",
+     "summary": "Damian Lillard Makes His Return To Portland, Leads Trail Blazers In Blowout Win Over The Suns News Radio 1190 KEX"
     },
     {
      "ref": "gnews_israeli_nba#4",
@@ -938,45 +938,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#9",
-     "title": "Deni Avdija is a game-time decision in season opener - NBC Sports",
-     "published": "2026-10-22T02:32:32+00:00",
-     "summary": "Deni Avdija is a game-time decision in season opener NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija News: Good to go Wednesday - RotoWire",
      "published": "2026-10-22T01:06:25+00:00",
      "summary": "Deni Avdija News: Good to go Wednesday RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
      "published": "2026-10-22T01:04:46+00:00",
      "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija regular season stats: averages by season - BasketNews.com",
      "published": "2026-10-22T00:58:29+00:00",
      "summary": "Deni Avdija regular season stats: averages by season BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Final Injury Report for Suns-Trail Blazers: Will Deni Avdija, Damian Lillard Play? - AOL.com",
      "published": "2026-10-21T22:00:00+00:00",
      "summary": "Final Injury Report for Suns-Trail Blazers: Will Deni Avdija, Damian Lillard Play? AOL.com"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Experts release final Blazers vs. Suns predictions: Deni Avdija injury update, line moves and model best bets - OregonLive.com",
      "published": "2026-10-21T21:09:00+00:00",
      "summary": "Experts release final Blazers vs. Suns predictions: Deni Avdija injury update, line moves and model best bets OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Fantasy Basketball Week 1 Injury Report: Deni Avdija questionable, AJ Dybantsa out for opener - Yahoo Sports",
      "published": "2026-10-21T16:30:00+00:00",
      "summary": "Fantasy Basketball Week 1 Injury Report: Deni Avdija questionable, AJ Dybantsa out for opener Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
+     "title": "Ben Saraf EuroCup stats: averages by season - BasketNews.com",
+     "published": "2026-10-21T15:52:16+00:00",
+     "summary": "Ben Saraf EuroCup stats: averages by season BasketNews.com"
     },
     {
      "ref": "gnews_israeli_nba#16",
