@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-23",
+  "questions": [
+    {
+      "id": "q-election-closing-stretch",
+      "section": "israeli_politics",
+      "story_id": "election-closing-stretch",
+      "answer_index": 0,
+      "en": {
+        "question": "With roughly four days left before Israelis vote, which camp do prediction markets cited by Ynet and Yedioth Ahronot put furthest ahead?",
+        "options": [
+          "Gadi Eisenkot's \"Yesh!\" party, at 49%",
+          "Benjamin Netanyahu's camp, at 49%",
+          "Naftali Bennett's camp, at 49%",
+          "A dead heat between Eisenkot and Netanyahu"
+        ],
+        "explanation": "The forecasts give Eisenkot's \"Yesh!\" party 49%, well ahead of Netanyahu's camp (30%) and Bennett (16%)."
+      },
+      "he": {
+        "question": "בפחות מ-100 שעות לפתיחת הקלפיות, איזה מחנה מוביל בתחזיות שמצטטים ynet וידיעות אחרונות?",
+        "options": [
+          "מפלגת \"ישר!\" של גדי איזנקוט, עם 49%",
+          "מחנהו של בנימין נתניהו, עם 49%",
+          "מחנהו של נפתלי בנט, עם 49%",
+          "שוויון בין איזנקוט לנתניהו"
+        ],
+        "explanation": "התחזיות נותנות למפלגת \"ישר!\" של איזנקוט 49%, הרבה לפני גוש נתניהו (30%) ובנט (16%)."
+      }
+    },
+    {
+      "id": "q-ai-market-jitters",
+      "section": "geopolitics",
+      "story_id": "ai-market-jitters-china-tech",
+      "answer_index": 2,
+      "en": {
+        "question": "What concretely signaled the AI-driven market jitters reaching the chip supply chain on October 22-23?",
+        "options": [
+          "The Bank of Japan announced an emergency rate cut",
+          "OPEC agreed to cut oil production",
+          "SK Hynix's Solidigm unit paused its planned US IPO, citing market volatility",
+          "China nationalized its largest chipmaker"
+        ],
+        "explanation": "SK Hynix said its Solidigm unit paused a planned US IPO because of the market volatility, showing the AI jitters had reached real business decisions."
+      },
+      "he": {
+        "question": "מה סימן בפועל שחששות ה-AI בשווקים הגיעו גם לשרשרת האספקה של שבבים ב-22-23 באוקטובר?",
+        "options": [
+          "בנק יפן הודיע על הורדת ריבית חריגה",
+          "OPEC הסכימה לקצץ בתפוקת הנפט",
+          "חברת הבת של SK Hynix, Solidigm, השעתה הנפקה ראשונית מתוכננת בבורסה האמריקאית בנימוק של תנודתיות בשוק",
+          "סין הלאימה את יצרנית השבבים הגדולה בה"
+        ],
+        "explanation": "SK Hynix הודיעה שחברת הבת שלה Solidigm השעתה הנפקה מתוכננת בבורסה האמריקאית בשל התנודתיות בשוק, מה שמראה שהחששות הגיעו להחלטות עסקיות של ממש."
+      }
+    },
+    {
+      "id": "q-ai-capex-reckoning",
+      "section": "business",
+      "story_id": "ai-capex-reckoning",
+      "answer_index": 1,
+      "en": {
+        "question": "What specifically spooked investors into dropping Meta's stock about 7% in a single session?",
+        "options": [
+          "Meta reported a quarterly loss for the first time",
+          "Meta told investors it will raise hundreds of billions more to keep funding AI infrastructure",
+          "Meta announced it was shutting down its AI division",
+          "Meta was fined by EU regulators over AI data use"
+        ],
+        "explanation": "Meta said it will need to raise hundreds of billions of dollars more to keep funding AI infrastructure, which intensified doubts about whether that spending will ever pay off."
+      },
+      "he": {
+        "question": "מה בדיוק הבריח משקיעים וגרם למניית מטא לרדת בכ-7% בתוך יום מסחר אחד?",
+        "options": [
+          "מטא דיווחה על הפסד רבעוני לראשונה",
+          "מטא הודיעה שתגייס מאות מיליארדי דולרים נוספים כדי להמשיך לממן תשתיות בינה מלאכותית",
+          "מטא הודיעה על סגירת חלוקת הבינה המלאכותית שלה",
+          "מטא נקנסה על ידי רגולטורים באיחוד האירופי בשל שימוש בנתוני בינה מלאכותית"
+        ],
+        "explanation": "מטא הודיעה שתצטרך לגייס מאות מיליארדי דולרים נוספים כדי להמשיך לממן תשתיות בינה מלאכותית, מה שהגביר את הספק אם ההשקעה הזו אי פעם תחזיר את עצמה."
+      }
+    }
+  ]
+}

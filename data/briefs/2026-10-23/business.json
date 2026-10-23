@@ -1,0 +1,146 @@
+{
+  "section": "business",
+  "date": "2026-10-23",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-23T03:52:07+00:00",
+  "stories": [
+    {
+      "id": "ai-capex-reckoning",
+      "kind": "analysis",
+      "en": {
+        "headline": "Wall Street Starts Asking Whether AI Spending Will Ever Pay Off",
+        "scroll": "Meta's promise of \"hundreds of billions\" more in AI spending, plus OpenAI cutting its valuation target, sent tech stocks tumbling as investors start demanding proof AI pays off.",
+        "coffee": "Meta shares fell about 7% in a single session, erasing roughly $124 billion of market value, after the company told investors it will raise \"hundreds of billions of dollars\" more to keep funding AI infrastructure in the coming years. The announcement helped drag the Nasdaq 100 down more than 2.6%, its sharpest slide in months, while Treasury yields posted their biggest one-day drop since 2023 as investors sought safety. OpenAI, meanwhile, trimmed the valuation it's pitching to investors from $1.4 trillion to $1.25 trillion, and China's AI-model stocks have shed roughly $150 billion in a selloff that shows no sign of easing.\n\nThis matters because it marks a shift from \"spend first, ask questions later\" to scrutiny of return on invested capital (ROIC). Hyperscalers have poured money into AI infrastructure — data centers, chips — for years on the assumption that revenue would eventually catch up; now there's real doubt about whether it will. US pension funds have booked roughly $138 billion in AI-linked gains since 2022, so the stakes reach well beyond Silicon Valley, into ordinary retirement portfolios.\n\nWhat to watch: whether other hyperscalers follow Meta in disclosing capex guidance at this scale when Microsoft, Alphabet and Amazon report earnings, and whether cloud revenue growth is keeping pace. If spending keeps outrunning revenue, expect more of this week's rotation into bonds, the yen and other havens.",
+        "deep": "## Background\n\nFor the past three years, the world's biggest technology companies — Meta, Microsoft, Google and Amazon — have waged a historic capital-spending race. Building the data centers, chips and power contracts needed to run generative AI is capital expenditure, or capex: money spent on long-lived physical assets rather than day-to-day costs. Wall Street tolerated the scale of this spending — hundreds of billions of dollars a year — on a simple bet: that AI products would eventually generate enough revenue to earn a healthy return on invested capital (ROIC), the profit a company makes relative to the capital it ties up. As long as investors believed that bet, the spending kept being rewarded with higher stock prices.\n\n## The story\n\nThis week that bet started to wobble. Meta told investors it will raise \"hundreds of billions of dollars\" more to keep funding AI infrastructure in the coming years — and the market's reaction was not applause but alarm. The stock fell about 7% in a single session, erasing roughly $124 billion of market value. The announcement helped drag the Nasdaq 100 down more than 2.6%, its sharpest slide in months, as traders concluded that even the companies with the deepest pockets may be outspending what AI can currently earn back.\n\nThe skepticism isn't confined to Meta. OpenAI has trimmed the valuation it's pitching to investors from $1.4 trillion to $1.25 trillion after testing the higher number earlier this month — a rare retreat for a company that has mostly only moved in one direction. In China, AI-model developer stocks have shed roughly $150 billion in a selloff that shows no sign of easing, as competition intensifies and more rival listings loom next year.\n\nThe flight from risk shows up across markets, not just in AI stocks. Treasury yields posted their biggest one-day drop since 2023 as investors sought safety. Japanese government bonds and the yen rallied for the same reason. Even gold, usually a safe haven itself, dipped below $4,000 an ounce — a sign that in a broad enough rout, investors sell everything, including their hedges, to raise cash.\n\n## Second-order effects\n\nThe ripples reach well past tech-stock traders. US public pension funds have booked roughly $138 billion in gains from AI-linked stocks since 2022, gains that helped some of them dig out of holes left by the last financial crisis. That means a sustained AI drawdown isn't just a Silicon Valley story — it shows up, eventually, in the funding ratios of retirement systems that ordinary workers depend on.\n\nThe doubt is also spilling into industrial commodities. Copper, a metal heavily used in data centers and power infrastructure, headed for its third weekly loss in four as the tech selloff sapped broader risk appetite — a reminder that the AI buildout has become large enough to move markets that have nothing directly to do with software.\n\nAnd the skepticism is starting to shape policy, not just prices. In Washington, the Treasury has proposed tighter rules on US investment in sensitive Chinese technology — including AI — a sign that capital allocation in the sector is becoming as much a geopolitical question as a financial one.\n\n## What to watch next\n\nThe next real test comes with earnings season: when Microsoft, Alphabet and Amazon report, watch whether their capex guidance keeps climbing faster than their cloud and AI revenue — a widening gap is exactly what would validate this week's skepticism, while a narrowing one could calm it. Watch too whether other hyperscalers follow Meta in disclosing capital-raising plans at this scale, and whether credit markets start pricing more risk into the debt that is increasingly funding AI infrastructure. Finally, keep an eye on the yen and Japanese bonds: a Bank of Japan rate hike, increasingly likely after inflation data this week topped its target, would add a second reason — not just AI jitters — for capital to keep flowing out of risk assets and into havens."
+      },
+      "he": {
+        "headline": "וול סטריט מתחילה לשאול אם ההשקעה בבינה מלאכותית אי פעם תחזיר את עצמה",
+        "scroll": "ההתחייבות של מטא ל\"מאות מיליארדי דולרים\" נוספים בבינה מלאכותית, וקיצוץ השווי של OpenAI, הפילו את מניות הטכנולוגיה כשמשקיעים דורשים הוכחה שהבינה המלאכותית משתלמת.",
+        "coffee": "מניית מטא נפלה בכ-7% במהלך יום מסחר אחד, ומחקה כ-124 מיליארד דולר משווי השוק שלה, אחרי שהחברה הודיעה שתגייס \"מאות מיליארדי דולרים\" נוספים כדי לממן תשתיות בינה מלאכותית בשנים הקרובות. ההודעה סחבה את מדד נאסד\"ק 100 למטה בלמעלה מ-2.6%, הנפילה החדה ביותר שלו בחודשים האחרונים, בזמן שתשואות האג\"ח האמריקאיות רשמו את הנפילה היומית החדה ביותר שלהן מאז 2023, כשמשקיעים ברחו לנכסים בטוחים. בינתיים, OpenAI כיווצה את השווי שהיא מציגה למשקיעים מ-1.4 טריליון דולר ל-1.25 טריליון דולר, ומניות חברות הבינה המלאכותית הסיניות איבדו כ-150 מיליארד דולר בגל מכירות שלא נראה סימן להיחלשות.\n\nזה חשוב כי זה מסמן מעבר מ\"תשקיעו קודם, תשאלו שאלות אחר כך\" לבדיקה קפדנית של התשואה על ההון המושקע (ROIC) - הרווח שחברה מניבה יחסית להון שהיא נועלת בתוכה. חברות הטכנולוגיה הגדולות שופכות כספים לתשתיות בינה מלאכותית (מרכזי נתונים, שבבים) כבר שנים, בהנחה שההכנסות ידביקו בסוף את הפער; כעת יש ספק ממשי אם זה יקרה. קרנות הפנסיה האמריקאיות רשמו כ-138 מיליארד דולר ברווחים הקשורים לבינה מלאכותית מאז 2022, כך שההימור חוצה הרבה מעבר לעמק הסיליקון, אל תוך תיקי הפנסיה הרגילים.\n\nלמה לשים לב: האם עוד חברות טכנולוגיה גדולות יחשפו תחזיות הוצאות הון (capex) מדהימות כמו של מטא, כשמיקרוסופט, אלפאבית ואמזון ידווחו על רבעון; ואם צמיחת הכנסות העננים שלהן מצליחה לשמור על הקצב. אם ההוצאה תמשיך לעקוף את ההכנסות, צפו להמשך הבריחה לאג\"ח, ליין וליתר נכסי המבטחה.",
+        "deep": "## רקע\n\nבשלוש השנים האחרונות מנהלות חברות הטכנולוגיה הגדולות בעולם - מטא, מיקרוסופט, גוגל ואמזון - מירוץ הון חריג בהיקפו. בניית מרכזי הנתונים, השבבים והחוזים לאנרגיה הנדרשים להרצת בינה מלאכותית גנרטיבית נחשבת להוצאות הון (capex): כספים המושקעים בנכסים פיזיים לטווח ארוך, בניגוד להוצאות התפעול היומיומיות. וול סטריט קיבלה את היקף ההוצאה הזו - מאות מיליארדי דולרים בשנה - על בסיס הנחה פשוטה: שמוצרי הבינה המלאכותית בסוף יניבו הכנסות מספיקות כדי להצדיק תשואה בריאה על ההון המושקע (return on invested capital, ROIC) - הרווח שחברה מניבה יחסית להון שהיא נועלת בתוכה. כל עוד המשקיעים האמינו בהנחה הזו, ההוצאה המשיכה להיתגמל במחירי מניה גבוהים יותר.\n\n## הסיפור\n\nהשבוע ההנחה הזו התחילה להיסדק. מטא הודיעה למשקיעים שתגייס \"מאות מיליארדי דולרים\" נוספים כדי להמשיך ולממן תשתיות בינה מלאכותית בשנים הקרובות - ותגובת השוק לא הייתה תשואות חן אלא דאגה. המניה נפלה בכ-7% במהלך יום מסחר אחד, ומחקה כ-124 מיליארד דולר משווי השוק של החברה. ההודעה סחבה את מדד נאסד\"ק 100 למטה בלמעלה מ-2.6%, הנפילה החדה ביותר שלו בחודשים האחרונים, כשסוחרים הגיעו למסקנה שאפילו החברות עם הכיסים העמוקים ביותר עשויות להוציא יותר ממה שהבינה המלאכותית מניבה כרגע בחזרה.\n\nהחשדנות אינה מוגבלת למטא. OpenAI כיווצה את השווי שהיא מציגה למשקיעים מ-1.4 טריליון דולר ל-1.25 טריליון דולר, אחרי שבדקה את המספר הגבוה יותר מוקדם יותר החודש - נסיגה נדירה לחברה שבעיקר נעה בכיוון אחד בלבד. בסין, מניות מפתחות מודלי הבינה המלאכותית איבדו כ-150 מיליארד דולר בגל מכירות שלא מראה סימני היחלשות, כאשר התחרות מתעצמת ועוד הנפקות מתחרות צפויות בשנה הקרובה.\n\nהבריחה מהסיכון ניכרת בכל השווקים, לא רק במניות הבינה המלאכותית. תשואות אגרות החוב האמריקאיות (Treasuries) רשמו את הנפילה היומית החדה ביותר שלהן מאז 2023, כשמשקיעים חיפשו ביטחון. אגרות החוב הממשלתיות היפניות והיין עלו מהסיבה הזו. אפילו הזהב, שבעצמו נחשב בדרך כלל לנכס מבטחה (safe haven), צנח מתחת ל-4,000 דולר לאונקיה - סימן לכך שבתסחיף נרחב מספיק, משקיעים מוכרים הכול, כולל את הביטוחים שלהם, כדי לגייס מזומן.\n\n## אפקטים מסדר שני\n\nהאדוות מגיעות הרבה מעבר לסוחרי מניות הטכנולוגיה. קרנות הפנסיה הציבוריות האמריקאיות רשמו כ-138 מיליארד דולר ברווחים ממניות הקשורות לבינה מלאכותית מאז 2022 - רווחים שעזרו לחלקן להיחלץ מגירעונות שהותיר המשבר הפיננסי הקודם. זה אומר שנסיגה מתמשכת בבינה מלאכותית אינה רק סיפור של עמק הסיליקון - היא מתבטאת, בסוף, ביחסי המימון של מערכות הפנסיה שעליהן עובדים רגילים נשענים.\n\nהחשדנות גם גולשת לסחורות תעשייתיות. הנחושת, מתכת המשמשת רבות במרכזי נתונים ובתשתיות חשמל, בדרך להפסד שבועי שלישי מתוך ארבעה, כשגל המכירות בטכנולוגיה פגע בתשוקת הסיכון הכללית - תזכורת לכך שבניית תשתיות הבינה המלאכותית הפכה גדולה מספיק כדי להזיז שווקים שאין להם קשר ישיר לתוכנה.\n\nוהחשדנות מתחילה לעצב גם מדיניות, לא רק מחירים. בוושינגטון, משרד האוצר הציע כללים מחמירים יותר על השקעות אמריקאיות בטכנולוגיה סינית רגישה - כולל בינה מלאכותית - סימן לכך שהקצאת ההון בתחום הופכת לשאלה גיאופוליטית, לא רק פיננסית.\n\n## למה לשים לב בהמשך\n\nהמבחן האמיתי הבא יגיע עם עונת הדו\"חות: כשמיקרוסופט, אלפאבית ואמזון ידווחו, שימו לב אם תחזיות ה-capex שלהן ממשיכות לטפס מהר יותר מהכנסות העננים והבינה המלאכותית - פער מתרחב הוא בדיוק מה שיאשש את החשדנות של השבוע הזה, בעוד שפער שמצטמצם יכול להרגיע אותה. שימו לב גם אם עוד חברות טכנולוגיה גדולות יצטרפו למטא בחשיפת תוכניות גיוס הון בהיקף הזה, ואם שוקי האשראי יתחילו לתמחר יותר סיכון בחוב שמממן יותר ויותר את תשתיות הבינה המלאכותית. לבסוף, כדאי לעקוב אחרי היין ואגרות החוב היפניות: העלאת ריבית של בנק יפן, שהפכה סבירה יותר אחרי שנתוני האינפלציה השבוע עברו את יעד הבנק, תוסיף סיבה שנייה - לא רק עצבנות בינה מלאכותית - לכך שההון ימשיך לזרום מנכסי סיכון לנכסי מבטחה."
+      },
+      "tags": [
+        "ai",
+        "capex",
+        "big-tech",
+        "markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+          "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
+          "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+          "url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Tech Stocks Drop on AI Spending Concerns",
+          "url": "https://www.wsj.com/finance/stocks/u-s-tech-stocks-drop-on-ai-spending-concerns-05400b55?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Tech Stocks Fall on AI Concerns",
+          "url": "https://www.wsj.com/finance/investing/tech-stocks-fall-on-ai-concerns-eea49847?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Fall as Tech Selloff Deepens",
+          "url": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Nasdaq Drops as Doubts Grow Over AI Spending",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-23/nasdaq-drops-as-doubts-grow-over-ai-spending-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Tech Stock Selloff Deepens, Crude Oil Extends Gain: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "בורסות וול סטריט ננעלו בירידות; נאסד\"ק איבד יותר מ-2%, מטא נפלה ב-7%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-22/ty-article-live/000001a1-525b-d9e4-a1bd-575b1cd10000"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
+          "url": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Copper Heads for Weekly Loss as AI Selloff Hurts Risk Appetite",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-23/copper-heads-for-weekly-loss-as-ai-selloff-hurts-risk-appetite"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Gold Dips Below $4,000 as Deepening Stock Rout Fuels Volatility",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+          "url": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Japan Inflation Rises Above BOJ Target, Backing Rate Hikes",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-22/japan-inflation-rises-above-boj-target-level-backing-rate-hikes"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4166.25,
+      "prev_close": 4212.1299,
+      "change_pct": -1.09,
+      "as_of": "2026-10-22"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7663.4302,
+      "prev_close": 7757.1699,
+      "change_pct": -1.21,
+      "as_of": "2026-10-22"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1104,
+      "prev_close": 3.0876,
+      "change_pct": 0.74,
+      "as_of": "2026-10-23"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 113.81,
+      "prev_close": 108.82,
+      "change_pct": 4.59,
+      "as_of": "2026-10-22"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 81708.8906,
+      "prev_close": 84011.9688,
+      "change_pct": -2.74,
+      "as_of": "2026-10-23"
+    }
+  }
+}

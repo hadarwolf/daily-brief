@@ -1,0 +1,130 @@
+{
+  "section": "learn",
+  "date": "2026-10-23",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-23T03:52:07+00:00",
+  "stories": [
+    {
+      "id": "word-vendor-lock-in",
+      "kind": "word",
+      "en": {
+        "headline": "Vendor lock-in (נעילת ספק)",
+        "scroll": "Vendor lock-in is the situation where switching away from a supplier or platform becomes so costly or technically painful that a customer stays even after better options appear.",
+        "coffee": "Vendor lock-in happens when a company becomes so dependent on one supplier's technology, data format, or contract terms that switching to a competitor would be expensive, slow, or risky — even if the alternative is objectively better. It is a classic worry with cloud providers (once your data and code are built around one cloud's specific tools, moving is a multi-year project), but it applies just as much to enterprise software, hardware ecosystems, and even suppliers of physical parts.\n\nExample: \"The startup picked an open-source database specifically to avoid vendor lock-in with a single cloud provider.\"",
+        "deep": "Use it whenever a decision-maker is weighing whether to accept a convenient but proprietary solution against a more open, harder-to-set-up one. The core trade-off is usually short-term convenience versus long-term bargaining power: locking in with one vendor often buys an easier integration today but weaker leverage on price and features later, since the vendor knows you can't easily leave.\n\nA common confusion is treating lock-in as purely technical. It is often contractual too — long-term commitments, exit fees, or data-export restrictions can lock a customer in just as effectively as incompatible file formats.\n\nMore examples: \"Switching ERP systems after a decade of lock-in took the company eighteen months and cost more than the software itself.\" / \"Analysts asked whether the exclusive supply deal was really a partnership or just vendor lock-in with extra marketing.\"\n\nHebrew term: נעילת ספק."
+      },
+      "he": {
+        "headline": "Vendor lock-in (נעילת ספק)",
+        "scroll": "נעילת ספק היא מצב שבו המעבר מספק או פלטפורמה הופך יקר או מסובך טכנית עד כדי כך שהלקוח נשאר איתו גם כשמתגלות אפשרויות טובות יותר.",
+        "coffee": "נעילת ספק (vendor lock-in) מתרחשת כשחברה הופכת תלויה מאוד בטכנולוגיה, בפורמט הנתונים או בתנאי החוזה של ספק מסוים, עד שהמעבר לספק מתחרה הופך יקר, איטי או מסוכן - גם אם האלטרנטיבה טובה יותר באופן אובייקטיבי. זה חשש קלאסי בעננים ציבוריים (כשהנתונים והקוד נבנים סביב כלים ייחודיים של ספק עננים מסוים, המעבר הופך לפרויקט של שנים), אבל זה חל גם על תוכנות ארגוניות, מערכות חומרה וגם ספקי חלקים פיזיים.\n\nלדוגמה: \"הסטארטאפ בחר במסד נתונים בקוד פתוח במיוחד כדי להימנע מנעילת ספק אצל ספק עננים בודד\".",
+        "deep": "משתמשים במונח כשמחליטי מדיניות שוקלים בין פתרון נוח אך בעלות קניינית, לבין פתרון פתוח יותר שקשה יותר להטמיע. הפשרה המרכזית היא נוחות לטווח קצר מול כוח מיקוח לטווח ארוך: נעילה עם ספק אחד קונה לרוב אינטגרציה קלה יותר כיום, אבל מיקוח חלש יותר על מחיר ותכונות בעתיד, כי הספק יודע שקשה לך לעזוב.\n\nטעות נפוצה היא לחשוב שהנעילה טכנית בלבד. היא יכולה להיות חוזית באותה מידה - התחייבויות ארוכות טווח, עמלות יציאה או הגבלות על ייצוא נתונים יכולות לנעול לקוח באותה יעילות כמו פורמטים לא תואמים.\n\nעוד דוגמאות: \"המעבר ממערכת ERP אחת לאחרת, אחרי עשור של נעילת ספק, לקח שמונה עשר חודשים ועלה יותר מהתוכנה עצמה.\" / \"אנליסטים שאלו אם הסכם האספקה הבלעדי הוא באמת שותפות, או נעילת ספק עם שיווק נוסף.\"\n\nהמונח באנגלית: vendor lock-in."
+      },
+      "tags": [
+        "vocabulary",
+        "business-english",
+        "tech",
+        "contracts"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-pivot-to-profitability",
+      "kind": "word",
+      "en": {
+        "headline": "Pivot to profitability (מעבר לרווחיות)",
+        "scroll": "A pivot to profitability is a company's deliberate shift from prioritizing growth at any cost to prioritizing positive cash flow and earnings, usually by cutting spending or raising prices.",
+        "coffee": "For years, many growth-stage companies — especially in tech — openly spent far more than they earned, betting that scale would eventually bring profits. A \"pivot to profitability\" is the moment a company reverses that bet: it slows hiring, cuts unprofitable product lines, or raises prices, explicitly telling investors that earnings now matter more than growth. It's usually a response to a change in what investors reward — when capital gets expensive or markets turn skeptical of \"growth at all costs,\" profitability becomes the new story.\n\nExample: \"After two straight quarters of investor pressure, the ride-hailing company announced a pivot to profitability, cutting its marketing budget by a third.\"",
+        "deep": "Use the phrase when describing a strategic shift, not a one-off cost cut — it implies a change in what the company is optimizing for, often announced explicitly in earnings calls or investor letters. It is closely related to, but not identical to, \"path to profitability\" (a forward-looking roadmap, used before a company is profitable) — \"pivot to profitability\" is the active act of changing course, often used retrospectively.\n\nA common confusion: a pivot to profitability doesn't always mean the company becomes profitable immediately. It describes a change in priority and strategy; the actual earnings may take several more quarters to turn positive.\n\nMore examples: \"Startups that raised money in 2021 at high valuations are now under pressure to pivot to profitability rather than chase market share.\" / \"The pivot to profitability meant killing three experimental products that were burning cash with no clear path to revenue.\"\n\nHebrew term: מעבר לרווחיות."
+      },
+      "he": {
+        "headline": "Pivot to profitability (מעבר לרווחיות)",
+        "scroll": "מעבר לרווחיות הוא שינוי מכוון באסטרטגיה של חברה, מהעדפת צמיחה בכל מחיר להעדפת תזרים מזומנים ורווח חיוביים, בדרך כלל על ידי קיצוץ הוצאות או העלאת מחירים.",
+        "coffee": "שנים רבות, חברות רבות בשלב הצמיחה - בעיקר בהייטק - הוציאו בגלוי הרבה יותר ממה שהרוויחו, והימרו שההתרחבות תביא בסוף לרווחים. \"מעבר לרווחיות\" (pivot to profitability) הוא הרגע שבו חברה מהפכת את ההימור הזה: היא מאטה בגיוס עובדים, מקצצת קווי מוצר לא רווחיים, או מעלה מחירים, ומודיעה למשקיעים במפורש שהרווח חשוב כעת יותר מהצמיחה. זו בדרך כלל תגובה לשינוי במה שהמשקיעים מתגמלים - כשהון הופך יקר יותר או השווקים מתחילים לחשוד ב\"צמיחה בכל מחיר\", הרווחיות הופכת לסיפור החדש.\n\nלדוגמה: \"אחרי שני רבעונים רצופים של לחץ מצד המשקיעים, חברת שיתוף הנסיעות הודיעה על מעבר לרווחיות, וקיצצה את תקציב השיווק שלה בשליש\".",
+        "deep": "משתמשים בביטוי כשמתארים שינוי אסטרטגי, לא קיצוץ הוצאות חד-פעמי - הוא מרמז על שינוי במה שהחברה ממקסמת, ולעיתים קרובות מוכרז במפורש בשיחות דוחות או במכתבי משקיעים. הביטוי קרוב, אך לא זהה, ל\"מסלול לרווחיות\" (path to profitability, מפת דרכים עתידית שמשמשת לפני שחברה רווחית) - \"מעבר לרווחיות\" הוא הפעולה האקטיבית של שינוי כיוון, ולעיתים קרובות משמש רטרואקטיבית.\n\nטעות נפוצה: מעבר לרווחיות לא בהכרח אומר שהחברה הופכת רווחית באופן מיידי. הוא מתאר שינוי בעדיפות ובאסטרטגיה; הרווח בפועל יכול לקחת עוד כמה רבעונים כדי להפוך לחיובי.\n\nעוד דוגמאות: \"סטארטאפים שגייסו כסף ב-2021 בשווי גבוה נמצאים כיום בלחץ לעבור לרווחיות במקום לרדוף אחרי נתח שוק.\" / \"המעבר לרווחיות משמעותו הייתה להרוג שלושה מוצרים ניסיוניים ששרפו מזומן בלי מסלול ברור להכנסות.\"\n\nהמונח באנגלית: pivot to profitability."
+      },
+      "tags": [
+        "vocabulary",
+        "business-english",
+        "startups",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-herding-cats",
+      "kind": "word",
+      "en": {
+        "headline": "Herding cats (לרעות חתולים)",
+        "scroll": "To describe a task as \"herding cats\" is to say that coordinating a group of independent, uncooperative people toward one goal is nearly impossible.",
+        "coffee": "The image is simple: cats don't follow a shepherd the way sheep do, so trying to herd them captures the frustration of managing people or teams who each have their own agenda, incentives, or stubborn habits — and no natural inclination to move together. In business, it's most often used about coordinating many independent stakeholders: departments with competing priorities, freelance contractors, or a coalition of partner companies.\n\nExample: \"Getting all twelve subsidiaries to agree on one reporting format felt like herding cats.\"",
+        "deep": "Use this idiom when the difficulty is about coordination and willpower, not technical complexity — it is about people who could cooperate but have no particular reason to. It is usually used self-deprecatingly or sympathetically about a manager's situation, rather than as a criticism of the people themselves.\n\nA common confusion: it is not the same as \"like herding sheep,\" which would describe an easy, cooperative group — the whole point of the cat metaphor is the opposite: a small instance of chaos from each individual preferring their own direction. It also differs from plain \"chaos,\" which lacks the specific implication of stubborn independence.\n\nMore examples: \"Scheduling a meeting across five time zones and three departments was like herding cats.\" / \"The committee chair joked that running the advisory board was herding cats, except the cats also disagreed about what herding meant.\"\n\nHebrew term: לרעות חתולים."
+      },
+      "he": {
+        "headline": "Herding cats (לרעות חתולים)",
+        "scroll": "לתאר משימה כ\"רעיית חתולים\" (herding cats) פירושו לומר שתיאום של קבוצת אנשים עצמאיים ולא משתפי פעולה לעבר מטרה אחת הוא כמעט בלתי אפשרי.",
+        "coffee": "הדימוי פשוט: חתולים לא עוקבים אחרי רועה כמו כבשים, אז הניסיון לרעות אותם לוכד את התסכול שבניהול אנשים או צוותים שלכל אחד מהם סדר יום, תמריצים או הרגלים עקשניים משל עצמו - ובלי שום נטייה טבעית לזוז יחד. בעסקים, משתמשים בביטוי בעיקר על תיאום בין מספר גורמים עצמאיים: מחלקות עם סדרי עדיפויות מתחרים, קבלנים עצמאיים, או קואליציה של חברות שותפות.\n\nלדוגמה: \"לגרום לכל שתים-עשרה החברות-הבת להסכים על פורמט דיווח אחד הרגיש כמו רעיית חתולים\".",
+        "deep": "משתמשים בביטוי הזה כשהקושי הוא בתיאום ורצון טוב, לא במורכבות טכנית - זה נוגע לאנשים שיכולים לשתף פעולה אבל אין להם סיבה מיוחדת לכך. בדרך כלל משתמשים בו באופן מזלזל-בעצמו או אמפתי לגבי מצבו של מנהל, ולא כביקורת על האנשים עצמם.\n\nטעות נפוצה: זה לא זהה ל\"כמו לרעות כבשים\", שיתאר קבוצה קלה ומשתפת פעולה - כל העניין במטפורת החתולים הוא ההפך: כאוס קטן שנובע מכך שכל פרט מעדיף כיוון משלו. זה גם שונה מ\"כאוס\" סתמי, שחסרה בו ההשתמעות הספציפית של עצמאות עקשנית.\n\nעוד דוגמאות: \"לקבוע פגישה בין חמישה אזורי זמן ושלוש מחלקות היה כמו לרעות חתולים.\" / \"יו\"ר הוועדה התבדח שניהול הוועדה המייעצת הוא רעיית חתולים, רק שהחתולים גם חלוקים בדעתם על מה זו רעייה.\"\n\nהמונח בעברית: herding cats."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "management"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why some products get more valuable as more people use them",
+        "scroll": "Network effects are the economic force that makes a product more valuable to each user as more people join it — which is why early leaders in social networks, marketplaces and messaging apps become extremely hard to dislodge.",
+        "coffee": "A network effect exists when a product becomes more useful to you simply because more other people are using it, independent of any improvement to the product itself. A phone is nearly useless if you're the only person who owns one; it becomes essential once everyone you know has one too.\n\nThis is why markets with strong network effects — social networks, two-sided marketplaces, payment networks, operating systems — tend to tip toward one or two dominant players rather than splitting evenly among many competitors. Once a platform crosses a critical mass of users, each new user makes it more attractive to the next one, creating a self-reinforcing loop that a smaller, even technically superior, rival struggles to break.\n\nThe flip side is fragility at the start: a network-effect business is often worthless until it reaches that critical mass, which is why so many of them subsidize early users heavily (free tiers, cash incentives, below-cost pricing) just to get the loop spinning. And once established, network effects are also why incumbents are hard to dislodge through regulation alone — users resist leaving a platform their friends, suppliers or customers are all still on, even when a competitor is objectively better.",
+        "deep": "## What a network effect actually is\n\nA network effect means the value of a product to any one user rises as the number of other users rises. This is different from ordinary economies of scale, which make a product cheaper to produce at volume — a network effect makes the product itself more valuable to use, regardless of cost. Economists distinguish direct network effects (more users of the same kind make the product better — think a messaging app) from indirect, or cross-side, network effects (more users on one side of a market attract more users on the other side — think a marketplace where more buyers attract more sellers, and vice versa).\n\n## A worked example: a ride-hailing app launching in a new city\n\nImagine a ride-hailing app entering a city with 10 drivers and 10 riders on its first day. A rider opens the app and sees a 20-minute wait — a bad experience, so many riders give up. A driver sees almost no ride requests, so many drivers log off to do something else. The product is barely usable, even though the underlying software is identical to what it will be at scale.\n\nNow suppose the company subsidizes its way to 1,000 drivers and 1,000 riders in that city. Wait times drop to two minutes. Drivers, now seeing a steady stream of requests, stay online longer and even recruit friends to drive, since the earnings are now worthwhile. More drivers mean shorter wait times, which attracts more riders, which attracts more drivers — a loop that keeps reinforcing itself. The company didn't improve the app's code between day one and day one thousand; it simply crossed the threshold of users needed for the loop to work. This is why ride-hailing and food-delivery companies lose money for years while fighting for market share in each city: the money buys the critical mass, not a better product.\n\n## Where it breaks down\n\nNetwork effects aren't unlimited. Many markets hit saturation (adding the one-millionth user to a messaging app barely changes anyone's experience) or face negative crowding (an oversaturated marketplace can get noisier or more congested, actually reducing value per user — think a dating app with too many low-quality profiles). Recognizing the difference between a market still climbing the network-effect curve and one that has already plateaued is central to deciding whether a leader's position is defensible, or a late entrant still has room to compete."
+      },
+      "he": {
+        "headline": "אפקטי רשת: למה מוצרים מסוימים נהיים יותר שווים ככל שיותר אנשים משתמשים בהם",
+        "scroll": "אפקט רשת (network effect) הוא הכוח הכלכלי שגורם למוצר להיות שווה יותר לכל משתמש ככל שיותר אנשים מצטרפים אליו - וזו הסיבה שמובילים מוקדמים בפלטפורמות חברתיות, שווקים דיגיטליים ואפליקציות מסרים הופכים קשים מאוד להזיז ממקומם.",
+        "coffee": "אפקט רשת קיים כשמוצר הופך שימושי יותר בשבילך רק בגלל שיותר אנשים אחרים משתמשים בו, בלי שום קשר לשיפור במוצר עצמו. טלפון חסר שימוש כמעט לגמרי אם אתה הבעלים היחיד שלו; הוא הופך הכרחי כשלכל מי שאתה מכיר יש אחד.\n\nזו הסיבה ששווקים עם אפקטי רשת חזקים - רשתות חברתיות, שווקים דו-צדדיים, רשתות תשלומים, מערכות הפעלה - נוטים להיטות לכיוון שחקן דומיננטי אחד או שניים, במקום להתפצל באופן שווה בין מתחרים רבים. כשפלטפורמה חוצה מסה קריטית של משתמשים, כל משתמש חדש הופך אותה למושכת יותר למשתמש הבא, ויוצר מעגל מחזק את עצמו שמתחרה קטן יותר, אפילו טכנולוגית מתקדם יותר, נאבק לפרוץ.\n\nהצד השני הוא שבירוּת בתחילת הדרך: עסק מבוסס אפקט רשת שווה לעיתים קרובות אפס עד שהוא מגיע למסה הקריטית הזו, וזו הסיבה שרבים מהם מסבסדים משתמשים מוקדמים בכבדות (רמות חינם, תמריצי מזומן, תמחור מתחת לעלות) רק כדי להפעיל את המעגל. וכשהוא כבר מבוסס, אפקט הרשת הוא גם הסיבה שקשה להסיר שחקנים דומיננטיים רק דרך רגולציה - משתמשים נמנעים מלעזוב פלטפורמה שחבריהם, הספקים או הלקוחות שלהם עדיין נמצאים בה, גם כשמתחרה טוב יותר באופן אובייקטיבי.",
+        "deep": "## מה זה בעצם אפקט רשת\n\nאפקט רשת פירושו שהערך של מוצר למשתמש כלשהו עולה כשמספר המשתמשים האחרים עולה. זה שונה מחיסכון לגודל (economies of scale) רגיל, שהופך מוצר לזול יותר לייצור בנפח - אפקט רשת הופך את המוצר עצמו ליותר שווה לשימוש, בלי קשר לעלות. כלכלנים מבדילים בין אפקטי רשת ישירים (יותר משתמשים מהסוג הזהה הופכים את המוצר לטוב יותר - חשבו על אפליקציית מסרים) לבין אפקטים עקיפים, או חוצי-צד (יותר משתמשים בצד אחד של שוק מושכים יותר משתמשים בצד השני - חשבו על שוק דיגיטלי שבו יותר קונים מושכים יותר מוכרים, ולהפך).\n\n## דוגמה מעשית: אפליקציית הזמנת נסיעות שמשיקה בעיר חדשה\n\nדמיינו אפליקציית הזמנת נסיעות שנכנסת לעיר עם 10 נהגים ו-10 נוסעים ביום הראשון. נוסע פותח את האפליקציה ורואה זמן המתנה של 20 דקות - חוויה גרועה, אז נוסעים רבים מתייאשים. נהג רואה כמעט אפס בקשות נסיעה, אז נהגים רבים מתנתקים לעשות משהו אחר. המוצר כמעט לא שמיש, אף על פי שהתוכנה שמתחתיו זהה לזו שתהיה בקנה מידה גדול.\n\nנניח כעת שהחברה מסבסדת את דרכה ל-1,000 נהגים ו-1,000 נוסעים באותה עיר. זמני ההמתנה יורדים לשתי דקות. נהגים, שרואים כעת זרם קביעות של בקשות, נשארים מחוברים יותר זמן ואף מגייסים חברים לנהוג, כי ההכנסה כבר משתלמת. יותר נהגים משמעם זמני המתנה קצרים יותר, מה שמושך יותר נוסעים, מה שמושך יותר נהגים - מעגל שממשיך לחזק את עצמו. החברה לא שיפרה את קוד האפליקציה בין היום הראשון ליום האלף; היא פשוט חצתה את סף המשתמשים הנדרש כדי שהמעגל יעבוד. זו הסיבה שחברות הזמנת נסיעות ומשלוחי אוכל מפסידות כספים במשך שנים בזמן שהן נלחמות על נתח שוק בכל עיר: הכסף קונה את המסה הקריטית, לא מוצר טוב יותר.\n\n## איפה זה נשבר\n\nאפקטי רשת אינם בלתי מוגבלים. שווקים רבים מגיעים לרוויה (הוספת המשתמש המיליון לאפליקציית מסרים כמעט לא משנה את החוויה של מישהו) או מתמודדים עם צפיפות שלילית (שוק דיגיטלי רווי מדי יכול להפוך רועש או עמוס יותר, ולמעשה להפחית את הערך לכל משתמש - חשבו על אפליקציית דייטים עם יותר מדי פרופילים באיכות נמוכה). להבחין בין שוק שעדיין מטפס על עקומת אפקט הרשת לבין שוק שכבר הגיע לרמת רוויה הוא מרכזי להחליט אם המיקום של המוביל מוגן, או שלמתחרה מאוחר יש עדיין מקום להתחרות."
+      },
+      "tags": [
+        "economics",
+        "network-effects",
+        "platforms",
+        "tech"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-hurricane-patricia",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2015: Hurricane Patricia becomes the most intense tropical cyclone ever recorded in the Western Hemisphere",
+        "scroll": "On this day in 2015, Hurricane Patricia hit sustained winds of 215 mph off Mexico's coast, the most intense tropical cyclone ever recorded in the Western Hemisphere.",
+        "coffee": "Hurricane Patricia began as an unremarkable disturbance over the Pacific south of Mexico in mid-October 2015. What followed was one of the fastest intensifications ever observed: in just 24 hours, Patricia went from a tropical storm to a Category 5 hurricane, as a well-defined eye formed inside an intensely organized storm.\n\nOn 23 October 2015, Patricia reached its peak: sustained winds of 215 mph (345 km/h) and a central pressure of 872 millibars — the second-lowest ever measured globally, and the strongest tropical cyclone on record anywhere in the world by one-minute sustained wind speed. For comparison, a Category 5 hurricane only needs winds above 157 mph; Patricia blew past that threshold by nearly 60 mph.\n\nThe storm mattered beyond the record books: it became a case study for meteorologists in how favorable ocean and atmospheric conditions (warm water, low wind shear, high humidity) can combine to produce almost unconstrained rapid intensification — the kind of behavior climate scientists now watch for as ocean temperatures rise. Patricia weakened before making landfall in a sparsely populated stretch of Mexico, sparing it from matching its destructive potential.",
+        "deep": "## The storm that broke the scale\n\nHurricane Patricia formed from an unremarkable tropical disturbance near the Gulf of Tehuantepec, off Mexico's Pacific coast, in mid-October 2015. It was classified as a tropical depression on 20 October and, for its first day, developed slowly — nothing suggested it would become one of the most extreme storms ever observed.\n\n## Explosive intensification\n\nOn 22 October, conditions turned almost perfectly favorable for a hurricane: very warm ocean water, minimal wind shear (the difference in wind speed and direction at different altitudes, which normally tears a storm's structure apart), and a moist atmosphere. Patricia's structure organized with remarkable speed: a well-defined eye formed inside an intensely cold, symmetric cloud shield, and the storm went from tropical storm to Category 5 hurricane in about 24 hours — a jump that typically takes days.\n\n## The peak, on 23 October\n\nPatricia reached its maximum intensity on 23 October 2015: sustained winds of 215 mph (345 km/h) and a minimum central pressure of 872 millibars. That made it the most intense tropical cyclone ever recorded in the Western Hemisphere by wind speed, and the second-most intense worldwide by pressure (just behind 1979's Typhoon Tip). Category 5 hurricanes, the top of the Saffir-Simpson scale, start at 157 mph — Patricia exceeded that by nearly 60 mph, a margin with almost no precedent.\n\n## Why it matters beyond the record\n\nPatricia became a textbook case for meteorologists studying rapid intensification — the process by which a storm's winds increase by at least 35 mph in 24 hours. Understanding what combination of ocean heat, humidity and wind shear makes such explosive growth possible has become more urgent as climate scientists track whether warmer oceans are making rapid intensification more frequent. Patricia itself weakened considerably as it approached Mexico's coast, encountering mountainous terrain and cooler air, and made landfall in a sparsely populated area of Jalisco state — sparing the region the kind of catastrophic damage its peak winds could have caused."
+      },
+      "he": {
+        "headline": "2015: הוריקן פטרישה הופך להוריקן הטרופי החזק ביותר שנמדד אי פעם בחצי הכדור המערבי",
+        "scroll": "בתאריך הזה בשנת 2015 הוריקן פטרישה הגיע למהירות רוחות של 345 קמ\"ש מול חופי מקסיקו - ההוריקן הטרופי החזק ביותר שנמדד אי פעם בחצי הכדור המערבי.",
+        "coffee": "הוריקן פטרישה התחיל כהפרעה טרופית לא יוצאת דופן מעל האוקיינוס השקט, מדרום למקסיקו, באמצע אוקטובר 2015. מה שבא אחר כך היה אחד מתהליכי ההתעצמות המהירים ביותר שתועדו אי פעם: בתוך 24 שעות בלבד, פטרישה עברה מסופה טרופית להוריקן קטגוריה 5, כשעין מוגדרת היטב נוצרה בתוך סופה מאורגנת באופן אינטנסיבי.\n\nב-23 באוקטובר 2015, פטרישה הגיעה לשיאה: רוחות קביעות של 345 קמ\"ש ולחץ מרכזי של 872 מיליבר - הלחץ השני הנמוך ביותר שנמדד אי פעם בעולם, וההוריקן הטרופי החזק ביותר שנמדד אי פעם בכל העולם לפי מהירות רוח קבועה של דקה. לשם השוואה, הוריקן קטגוריה 5 דורש רוחות מעל 253 קמ\"ש בלבד; פטרישה חצתה את הסף הזה בכמעט 95 קמ\"ש נוספים.\n\nהסופה חשובה הרבה יותר מרשומת השיא: היא הפכה למקרה מבחן למטאורולוגים על האופן שבו תנאי אוקיינוס ואטמוספרה נוחים (מים חמים, גזירת רוח נמוכה, לחות גבוהה) יכולים להצטרף ולייצר התעצמות מהירה כמעט בלתי מוגבלת - ההתנהגות שמדעני אקלים עוקבים אחריה כיום כשטמפרטורות האוקיינוס עולות. פטרישה נחלשה לפני שהגיעה לחוף בקטע דלילת אוכלוסין במקסיקו, מה שחסך ממנה להתאים את הפוטנציאל ההרסני שלה.",
+        "deep": "## הסופה ששברה את הסולם\n\nהוריקן פטרישה נוצר מהפרעה טרופית לא יוצאת דופן סמוך למפרץ טוואנטפק, מול חופי האוקיינוס השקט של מקסיקו, באמצע אוקטובר 2015. היא סווגה כשקע טרופי ב-20 באוקטובר, וביומה הראשון התפתחה לאט - שום דבר לא העיד שהיא תהפוך לאחת הסופות הקיצוניות ביותר שתועדו אי פעם.\n\n## התעצמות נפיצה\n\nב-22 באוקטובר, התנאים הפכו נוחים כמעט באופן מושלם להוריקן: מים אוקיינוס חמים מאוד, גזירת רוח מינימלית (ההבדל במהירות ובכיוון הרוח בגבהים שונים, שבדרך כלל קורעת את מבנה הסופה), ואטמוספרה לחה. מבנה פטרישה התארגן במהירות יוצאת דופן: עין מוגדרת היטב נוצרה בתוך מעטה עננים קר וסימטרי באופן אינטנסיבי, והסופה עברה מסופה טרופית להוריקן קטגוריה 5 בתוך כ-24 שעות - קפיצה שבדרך כלל אורכת ימים.\n\n## השיא, ב-23 באוקטובר\n\nפטרישה הגיעה לעוצמתה המקסימלית ב-23 באוקטובר 2015: רוחות קביעות של 345 קמ\"ש ולחץ מרכזי מינימלי של 872 מיליבר. זה הפך אותה להוריקן הטרופי החזק ביותר שנמדד אי פעם בחצי הכדור המערבי לפי מהירות רוח, ולהוריקן השני בעוצמתו בעולם לפי לחץ (מעט אחרי טייפון טיפ מ-1979). הוריקני קטגוריה 5, החלק העליון בסולם סאפיר-סימפסון, מתחילים ב-253 קמ\"ש - פטרישה עברה את הסף הזה בכמעט 95 קמ\"ש, מרווח שאין לו כמעט תקדים.\n\n## למה זה חשוב מעבר לרשומת השיא\n\nפטרישה הפכה למקרה לימודי קלאסי למטאורולוגים שחוקרים התעצמות מהירה - התהליך שבו רוחות הסופה עולות בלפחות 56 קמ\"ש בתוך 24 שעות. הבנת השילוב של חום אוקיינוס, לחות וגזירת רוח שמאפשר צמיחה נפיצה כזו הפכה דחופה יותר ככל שמדעני אקלים עוקבים אחרי השאלה אם אוקיינוסים חמים יותר מגבירים את תדירות ההתעצמות המהירה. פטרישה עצמה נחלשה במידה ניכרת כשהתקרבה לחוף מקסיקו, נתקלה בשטח הררי ואוויר קר יותר, ועלתה לחוף באזור דלילת אוכלוסין במדינת חליסקו - מה שחסך מהאזור את סוג הנזק הקטסטרופלי שרוחות השיא שלה יכלו לגרום."
+      },
+      "tags": [
+        "weather",
+        "science",
+        "on-this-day",
+        "hurricanes"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2015: Hurricane Patricia, the most intense tropical cyclone on record in the Western Hemisphere, peaked with maximum sustained winds of 215 mph (345 km/h) south of Mexico.",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Patricia"
+        }
+      ]
+    }
+  ]
+}
