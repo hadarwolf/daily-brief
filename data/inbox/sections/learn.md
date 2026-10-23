@@ -24,182 +24,153 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2015,
-   "text": "A sword-wielding man attacked students and teachers at a high school in Trollhättan, killing three people in Sweden's deadliest school attack.",
+   "year": 2022,
+   "text": "Myanmar civil war: Burmese military forces launched airstrikes that killed at least 80 concertgoers in Kachin State.",
    "context": [
-    "On 22 October 2015, a mass stabbing occurred at Kronan Primary School in Trollhättan, Sweden. 21-year-old Anton Lundin Pettersson killed three people and wounded another two with a sword, later dying from gunshot wounds sustained after charging police."
+    "The Myanmar civil war began following the military coup on 1 February 2021. The seizure of power triggered mass anti-coup demonstrations and a violent crackdown by the Tatmadaw, which significantly escalated the country's longstanding insurgencies."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2014,
-   "text": "In Ottawa, Canada, the downtown core was placed on lockdown after a series of shootings at Parliament Hill.",
+   "year": 2022,
+   "text": "Pakistani journalist Arshad Sharif is shot and killed by local police in Kajiado, Kenya.",
    "context": [
-    "Ottawa is the capital city of Canada. It is located in the southeastern portion of the province of Ontario, at the confluence of the Ottawa River and the Rideau River. Ottawa borders Gatineau, Quebec, and forms the core of the Ottawa–Gatineau census metropolitan area (CMA) and the National Capital Region (NCR). As of 2021, Ottawa had a city population of 1,017,449 and a metropolitan population of 1,488,307, making it the second-largest city and second most-populous metropolitan area in Ontario, and the fourth-largest city and fourth-largest metropolitan area in Canada."
+    "Arshad Sharif was a Pakistani journalist, writer, and news anchor. He specialized in investigative journalism and covered many political events in the country for national and international news organisations. On 23 March 2019, he was awarded the Pride of Performance by the President of Pakistan Arif Alvi, for his contribution to journalism. He was shot and killed by police in Kenya on 22 October 2022. A 592-page report by the Pakistani Federal Investigation Agency (FIA) revealed the killing to be a “planned targeted assassination,\" claiming that Kenyan police were \"used as instruments.\" He was an outspoken critic of the Pakistani army."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2005,
-   "text": "Bellview Airlines Flight 210 crashed in Ogun State, Nigeria, killing all 117 people on board.",
+   "year": 2018,
+   "text": "An escalator accident in Rome left 24 people injured, mostly fans of the CSKA Moscow football team who were in town for a UEFA Champions League match against Roma.",
    "context": [
-    "Bellview Airlines Flight 210 was a scheduled Nigerian domestic passenger flight of a Boeing 737-200 airliner from Lagos to Abuja, operated by Lagos-based Bellview Airlines. On 22 October 2005, the aircraft nose-dived and crashed at high speed a few minutes after takeoff, killing all 117 people on board."
+    "On 23 October 2018, twenty-four people, mostly fans of the CSKA Moscow football team, were injured after a crowded escalator at a Rome Metro station malfunctioned. It suddenly sped up, and hurled people down the escalator."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1989,
-   "text": "TAN-SAHSA Flight 414 crashed in approach to Toncontín International Airport, killing 131 out of 146 people onboard.",
+   "year": 2015,
+   "text": "Hurricane Patricia, the most intense tropical cyclone on record in the Western Hemisphere, peaked with maximum sustained winds of 215 mph (345 km/h) south of Mexico.",
    "context": [
-    "TAN-SAHSA Flight 414 was a scheduled flight from Juan Santamaría International Airport, San José, Costa Rica, to Toncontín Airport in Tegucigalpa, Honduras, with a stopover at Augusto C. Sandino Airport in Managua, Nicaragua, on 21 October 1989. Flown with a Boeing 727-200, the flight crashed into a mountain at 7:30 A.M. local time after the pilots failed to follow a special landing procedure required for the arrival to the airport. The crash killed 131 passengers, leaving 15 survivors. While 20 passengers initially survived, five died before treatment, due to a delay in rescue personnel because of bad weather. It remains, as of 2025, the worst aviation accident on Honduran soil and in Central America at large; it is also the 15th deadliest involving a Boeing 727."
+    "Hurricane Patricia was the most powerful tropical cyclone on record worldwide in terms of maximum sustained winds. It was also the second-most intense on record worldwide in terms of pressure, with a minimum atmospheric pressure of 872 mbar (25.75 inHg), just behind Typhoon Tip's 870 mbar (25.69 inHg). Originating from a sprawling disturbance near the Gulf of Tehuantepec, south of Mexico, in mid-October 2015, Patricia was first classified as a tropical depression on October 20. Initial development was slow, with only modest strengthening within the first day of its classification. The system later became a tropical storm and was named Patricia, the twenty-fourth named storm of the 2015 Pacific hurricane season. Exceptionally favorable environmental conditions fueled explosive intensification on October 22. A well-defined eye developed within an intense central dense overcast and Patricia grew from a tropical storm to a Category 5 hurricane in just 24 hours—a near-record pace. On October 23, the hurricane achieved its record peak intensity with maximum sustained winds of 215 mph (345 km/h). This made it the most intense tropical cyclone on record in the Western Hemisphere and the strongest globally in terms of one-minute maximum sustained winds. As Patricia neared its peak strength, the cyclone began to turn east-northeast towards Mexico."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1987,
-   "text": "John Adams' (pictured) opera Nixon in China premiered.",
+   "year": 2011,
+   "text": "During the Malaysian motorcycle Grand Prix, Marco Simoncelli (pictured) collided with two other riders, resulting in his death due to serious trauma to the head, neck, and chest.",
    "context": [
-    "John Coolidge Adams is an American composer and conductor. Among the most regularly performed composers of contemporary classical music, he is particularly noted for his operas, many of which center around historical events. Apart from opera, his oeuvre includes orchestral, concertante, vocal, choral, chamber, electroacoustic, and piano music."
+    "The 2011 Malaysian motorcycle Grand Prix was the seventeenth round of the 2011 Grand Prix motorcycle racing season. It took place on the weekend of 21–23 October 2011 at the Sepang International Circuit, but the MotoGP race was red-flagged and subsequently cancelled after two laps due to a serious accident involving Marco Simoncelli. Simoncelli fell while running fourth, his bike and body veering across the path of Colin Edwards and Valentino Rossi. Simoncelli was fatally struck in the head and chest by the two bikes. He was taken straight to the circuit's medical centre, but died of his injuries shortly thereafter."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1966,
-   "text": "With their album The Supremes A' Go-Go, the Supremes became the first all-female group to reach number one on the Billboard 200 chart.",
+   "year": 2001,
+   "text": "Grand Theft Auto III was released, helping to popularize open-world and mature-content video games.",
    "context": [
-    "The Supremes A' Go-Go is the ninth studio album released by the Motown singing group the Supremes. It was the first album by an all-female group to reach number-one on the Billboard 200 album charts in the United States."
+    "Grand Theft Auto III is a 2001 action-adventure game developed by DMA Design and published by Rockstar Games. It is the first 3D game in the Grand Theft Auto series. Set in Liberty City, loosely based on New York City, the game follows Claude, a silent protagonist who becomes entangled in a world of crime, drugs, gang warfare, and corruption while pursuing revenge against his ex-girlfriend. The game is played from a third-person perspective and its world is navigated on foot or by vehicle. Its open world design lets the player freely roam Liberty City, which consists of three islands."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1964,
-   "text": "The first volume of Ian Fleming's children's novel Chitty-Chitty-Bang-Bang was published posthumously.",
+   "year": 1995,
+   "text": "The runway show for Alexander McQueen's collection The Hunger was staged at London's Natural History Museum.",
    "context": [
-    "Ian Lancaster Fleming was a British writer best known for his postwar James Bond series of spy novels. Fleming came from a wealthy family connected to the merchant bank Robert Fleming & Co., and his father Valentine Fleming was the Member of Parliament for Henley from 1910 until his death on the Western Front in 1917. Educated at Eton, Sandhurst, and, briefly, the Ludwig-Maximilians-Universität München and the University of Geneva, Fleming moved through several jobs before he started writing."
+    "Lee Alexander McQueen was a British fashion designer and couturier. Known for his unconventional designs, he was one of the most influential fashion designers in the world from the early 1990s until his death by suicide in 2010. His brand, Alexander McQueen, is now owned by Gucci and remains active. McQueen was presented with four British Designer of the Year awards as well as being named the International Designer of the Year in 2003. That same year, he was also made a Commander of the Order of the British Empire for his work in fashion."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1945,
-   "text": "Workers at the Cigar Factory in Charleston, South Carolina, began a labor strike against the American Tobacco Company that lasted more than five months.",
+   "year": 1972,
+   "text": "Vietnam War: Operation Linebacker, a U.S. bombing campaign against North Vietnam in response to its Easter Offensive, ended after five months.",
    "context": [
-    "The Cigar Factory is a historic industrial building at 701 East Bay Street in Charleston, South Carolina. It was constructed in 1881 and opened in 1882 as the Cotton Mill of Charleston. In 1912, it was purchased by the American Cigar Company who converted it into a cigar factory that was the largest private employer in Charleston during the 1930s. In the 1940s, it was the location of the 1945–1946 Charleston Cigar Factory strike where the civil rights anthem \"We Shall Overcome\" emerged. The building was listed on the National Register of Historic Places in 1980, and was designated a National Historic Landmark in 2024."
+    "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1940,
-   "text": "After evading Vichy French and Francoist Spanish authorities, Belgian prime minister Hubert Pierlot arrived in London, marking the beginning of the Belgian government in exile.",
+   "year": 1957,
+   "text": "A screening of Mother India, one of the most influential Indian films in history, was held for President Rajendra Prasad and Prime Minister Jawaharlal Nehru two days before its release.",
    "context": [
-    "Vichy France, also known as the Pétainist regime and Pétainist France, officially the French State, was a French rump state headed by Marshal Philippe Pétain during World War II, established as a result of German victory in the Battle of France. It was named after its seat of government, the city of Vichy."
+    "Mother India is a 1957 Indian epic drama film, directed by Mehboob Khan and starring Nargis, Sunil Dutt, Rajendra Kumar and Raaj Kumar. A remake of Khan's earlier film Aurat (1940), it is the story of a poverty-stricken village woman named Radha (Nargis), who in the absence of her husband, struggles to raise her sons and survive against a cunning money-lender amidst many troubles."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1936,
-   "text": "The Royal Navy cutlass  was withdrawn from combat service.",
+   "year": 1956,
+   "text": "The Hungarian Revolution began as a peaceful student demonstration that attracted thousands while marching through central Budapest to the parliament building.",
    "context": [
-    "Ratings of the Royal Navy have used cutlasses, short, wide bladed swords, since the early 18th century. These were originally of non-uniform design but the 1804 Pattern, the first Navy-issue standard cutlass, was introduced at the start of the 19th century. This was a bluntish weapon that was perhaps intended for cutting away canvas and ropes rather than as a thrusting combat weapon. The 1845 Pattern cutlass introduced a bowl-style hand guard which provided greater protection, with a longer and more curved blade. Its sharper point made it more useful for thrusting attacks, which were now emphasised in the drill manual. The 1845 Pattern was modified several times including shortening and straightening the blades, which weakened them. The 1889 Pattern had a straight, spear-pointed blade with a hilt that curved outwards to catch and redirect an opponent's sword point. The 1900 Pattern, the last navy-issue cutlass, was similar to its predecessor with the introduction of a fuller and a hilt insert that cushioned the user's little finger. The cutlass was withdrawn from service in 1936 but remains in use for ceremonial purposes. It is thought that it was last used in combat in 1900 during the Boxer Rebellion."
+    "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). The uprising lasted 15 days before being crushed by Soviet tanks and troops on 7 November 1956. Thousands were killed or wounded, and nearly a quarter of a million Hungarians fled the country."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1936,
-   "text": "Dod Orsborne, captain of the Girl Pat, was convicted of its theft and imprisoned, having caused a media sensation when it went missing.",
+   "year": 1955,
+   "text": "The State of Vietnam voted in a referendum to become a republic.",
    "context": [
-    "\n\nGeorge Black Orsborne, also known as Dod Orsborne, was a Grimsby trawler captain and seafarer, who acquired notoriety in 1936 when he took the trawler Girl Pat on an unauthorised voyage across the Atlantic. The escapade attracted much press attention, and Orsborne and his crew were briefly hailed as heroes. Orsborne was tried and imprisoned for the theft of the trawler; subsequently he claimed that the voyage had been part of an undercover operation organised by British Naval Intelligence."
+    "The State of Vietnam was a state in Southeast Asia that existed from 1949 until 1955, initially as an associated state in the French Union and later as a fully independent state. The state claimed authority over all of Vietnam during the First Indochina War and administered urban areas with large populations, while much of the remote territory was controlled by the Democratic Republic of Vietnam."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1924,
-   "text": "The educational non-profit organization Toastmasters International was founded at a YMCA in Santa Ana, California.",
+   "year": 1942,
+   "text": "World War II: Japanese troops began an unsuccessful attempt to recapture Henderson Field on Guadalcanal in the Solomon Islands from American forces.",
    "context": [
-    "Toastmasters International (TI) is a US-headquartered nonprofit educational organization that operates clubs worldwide to promote communication, public speaking, and leadership skills."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1907,
-   "text": "A bank run forced New York's Knickerbocker Trust Company to suspend operations, triggering the Panic of 1907 (pictured).",
+   "year": 1934,
+   "text": "Jeannette Piccard (pictured) piloted a hot-air balloon flight that reached 57,579 feet (17,550 m), becoming the first woman to fly in the stratosphere.",
    "context": [
-    "A bank run or run on the bank occurs when many clients withdraw their money from a bank, because they believe the bank may fail in the near future. It may occur when, in a fractional-reserve banking system, a large volume of customers seek to withdraw a greater amount of cash from deposit accounts with a financial institution in a short space of time than the institution has cash on-hand, because the customers believe that the institution is, or might become, insolvent. When they transfer funds to another institution, it may be characterized as a capital flight. As a bank run progresses, it may become a self-fulfilling prophecy: as more people withdraw cash, the likelihood of default increases, triggering further withdrawals. This can destabilize the bank to the point where it runs out of cash and thus faces sudden bankruptcy. To combat a bank run, a bank may acquire more cash from other banks or from the central bank, or limit the amount of cash customers may withdraw, either by imposing a hard limit or by scheduling quick deliveries of cash, encouraging high-return term deposits to reduce on-demand withdrawals, or suspending withdrawals altogether."
+    "Jeannette Ridlon Piccard was an American high-altitude balloonist, and in later life an Episcopal priest, one of the Philadelphia Eleven. She held the women's altitude record for nearly three decades, and according to several contemporaneous accounts was regarded as the first woman in space."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1895,
-   "text": "At Gare Montparnasse in Paris, an express train derailed after overrunning the buffer stop and crashed through the station wall, with the locomotive landing on the street below (pictured).",
+   "year": 1906,
+   "text": "Alberto Santos-Dumont flew his biplane 14-bis for 50 metres (160 ft) at an altitude of about four metres (13 ft).",
    "context": [
-    "Gare Montparnasse, officially Paris Montparnasse and formerly Gare de l'Ouest, is one of the seven large Paris railway termini, and is located in the 14th and 15th arrondissements."
+    "Alberto Santos-Dumont was a Brazilian aeronaut, sportsman, inventor, and one of the few people to have contributed significantly to the early development of both lighter-than-air and heavier-than-air aircraft. The heir of a wealthy family of coffee producers, he dedicated himself to aeronautical study and experimentation in Paris, where he spent most of his adult life. He designed, built, and flew the first powered airships and won the Deutsch prize in 1901, when he flew around the Eiffel Tower in his airship No. 6, becoming one of the most famous people in the world in the early 20th century."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1877,
-   "text": "Scotland's worst mining accident occurred when an explosion at a colliery in Blantyre, South Lanarkshire, killed 207 miners.",
+   "year": 1850,
+   "text": "The inaugural National Women's Rights Convention, presided over by American activist Paulina Wright Davis (pictured), began in Worcester, Massachusetts.",
    "context": [
-    "The Blantyre mining disaster, which happened on the morning of 22 October 1877, in Blantyre, Scotland, was Scotland's worst ever mining accident. Pits No. 2 and No. 3 of William Dixon's Blantyre Colliery were the site of an explosion which killed 207 miners, possibly more, with the youngest being a boy of 11. It was known that firedamp was present in the pit and it is likely that this was ignited by a naked flame. The accident left 92 widows and 250 fatherless children."
+    "The National Women's Rights Convention was an annual series of meetings that increased the visibility of the early women's rights movement in the United States. First held in 1850 in Worcester, Massachusetts, the National Women's Rights Convention combined both female and male leadership and attracted a wide base of support including temperance advocates and abolitionists. Speeches were given on the subjects of equal wages, expanded education and career opportunities, women's property rights, marriage reform, and temperance. Chief among the concerns discussed at the convention was the passage of laws that would give women the right to vote."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1740,
-   "text": "A two-week massacre of ethnic Chinese in Batavia, Dutch East Indies, came to an end with at least 10,000 people killed.",
+   "year": 1798,
+   "text": "War of the Second Coalition: The Ottoman–Albanian forces of Ali Pasha of Janina defeated French troops and captured the town of Preveza at the Battle of Nicopolis.",
    "context": [
-    "A massacre and pogrom of ethnic Chinese residents of the port city of Batavia in the Dutch East Indies was carried out by the Dutch East India Company and allied members of other Batavian ethnic groups in 1740. The violence in the city lasted from 9 until 22 October, with minor skirmishes outside the walls continuing late into November that year. Historians have estimated that at least 10,000 ethnic Chinese were massacred; just 600 to 3,000 are believed to have survived."
+    "The War of the Second Coalition (1798–1802) was the second war between revolutionary France and a coalition of European monarchies, led by Britain, Austria and Russia, and including the Ottoman Empire, Portugal, Naples and various German monarchies. Prussia did not join the coalition, while Spain supported France."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1727,
-   "text": "George II and Caroline of Ansbach (pictured) were crowned king and queen of Great Britain in Westminster Abbey.",
+   "year": 1641,
+   "text": "Irish Catholic gentry in Ulster tried to seize control of Dublin Castle, the seat of English rule in Ireland, to force concessions to Catholics.",
    "context": [
-    "George II was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760."
+    "Ulster is one of the four historical provinces of Ireland, located in the northern part of the island. It is made up of nine counties, with six of these comprising Northern Ireland, while the remaining three are in the Republic of Ireland."
    ]
   },
   {
    "ref": "wikipedia#17",
-   "year": 1724,
-   "text": "J. S. Bach led the first performance of the chorale cantata Schmücke dich, o liebe Seele (Adorn yourself, O dear soul), based on the communion hymn of the same name, in Leipzig.",
+   "year": 1157,
+   "text": "The Battle of Grathe Heath ended the Danish Civil War.",
    "context": [
-    "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers in the history of Western music."
-   ]
-  },
-  {
-   "ref": "wikipedia#18",
-   "year": 1707,
-   "text": "In one of the worst maritime disasters in the history of the British Isles, at least 1,400 sailors on four Royal Navy ships were lost in stormy weather (pictured) off the Isles of Scilly.",
-   "context": [
-    "The list of maritime disasters is a link page for maritime disasters by century."
-   ]
-  },
-  {
-   "ref": "wikipedia#19",
-   "year": 1633,
-   "text": "At the Battle of Liaoluo Bay Ming Chinese naval forces defeated a Dutch East India Company fleet in the Taiwan Strait, the largest naval encounter between Chinese and European forces before the First Opium War more than two hundred years later.",
-   "context": [
-    "The Battle of Liaoluo Bay took place in 1633 off the coast of Fujian, China; involving the Dutch East India Company (VOC) and the Chinese Ming dynasty's navies. The battle was fought at the crescent-shaped Liaoluo Bay that forms the southern coast of the island of Kinmen. A Dutch fleet under Admiral Hans Putmans was attempting to control shipping in the Taiwan Strait, while the southern Fujian sea traffic and trade was protected by a fleet under Brigadier General Zheng Zhilong. This was the largest naval encounter between Chinese and European forces before the Opium Wars two hundred years later."
-   ]
-  },
-  {
-   "ref": "wikipedia#20",
-   "year": 906,
-   "text": "Ahmad ibn Kayghalagh, an Abbasid military officer of Turkic origin, led a raid against the Byzantine Empire, taking at least 4,000 captives.",
-   "context": [
-    "\nAhmad ibn Kayghalagh was an Abbasid military officer of Turkic origin who served as governor in Syria and Egypt. He was ousted as governor of Egypt by Muhammad ibn Tughj in 935."
-   ]
-  },
-  {
-   "ref": "wikipedia#21",
-   "year": -2137,
-   "text": "A solar eclipse occurred over China, one of the earliest recorded eclipses in history.",
-   "context": [
-    "The 22nd century BC is a century that lasted between the years 2200 BC and 2101 BC."
+    "The Battle of Grathe Heath was fought in 1157 between the Danish armies of Valdemar I and his rival for the Danish throne, Sweyn III. Valdemar's forces won the battle, and Sweyn III was slain while attempting to flee."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Headwinds / tailwinds (רוחות נגד / רוחות גב)",
+  "Bootstrapped (ממומן מהכיס / מיזם שהתנהל ללא גיוס הון)",
+  "A rising tide lifts all boats (גאות מרימה את כל הסירות)",
   "Sunk cost (עלות שקועה)",
   "Down round (סבב גיוס במחיר מופחת)",
   "Lipstick on a pig (שפתון על חזיר)",
