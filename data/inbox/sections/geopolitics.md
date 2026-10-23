@@ -18,9 +18,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "In Netanyahu stronghold, signs of fraying loyalty emerge on eve of election - AP News",
-     "published": "2026-10-23T05:11:00+00:00",
-     "summary": "In Netanyahu stronghold, signs of fraying loyalty emerge on eve of election AP News"
+     "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News",
+     "published": "2026-10-23T05:25:00+00:00",
+     "summary": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people AP News"
     },
     {
      "ref": "ap_world#1",
@@ -42,129 +42,129 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#4",
-     "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News",
-     "published": "2026-10-23T03:41:00+00:00",
-     "summary": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people AP News"
-    },
-    {
-     "ref": "ap_world#5",
      "title": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem - AP News",
      "published": "2026-10-23T03:12:00+00:00",
      "summary": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#5",
      "title": "In India, police shootings of alleged cow smugglers raise alarm about impunity and bias - AP News",
      "published": "2026-10-23T03:01:00+00:00",
      "summary": "In India, police shootings of alleged cow smugglers raise alarm about impunity and bias AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#6",
      "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms - AP News",
      "published": "2026-10-23T02:39:00+00:00",
      "summary": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#7",
      "title": "Agriculture secretary says agency is ‘full-bore ahead’ on Forest Service reorganization - AP News",
      "published": "2026-10-23T02:29:00+00:00",
      "summary": "Agriculture secretary says agency is ‘full-bore ahead’ on Forest Service reorganization AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#8",
      "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say - AP News",
      "published": "2026-10-23T02:29:00+00:00",
      "summary": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#9",
      "title": "Ashley Hinson shows Republicans' midterm balancing act as Trump comes to boost Iowa turnout - AP News",
      "published": "2026-10-23T02:18:00+00:00",
      "summary": "Ashley Hinson shows Republicans' midterm balancing act as Trump comes to boost Iowa turnout AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#10",
      "title": "Trump says he 'heard something about' Justice Department probe into longtime ally Corey Lewandowski - AP News",
      "published": "2026-10-23T02:11:00+00:00",
      "summary": "Trump says he 'heard something about' Justice Department probe into longtime ally Corey Lewandowski AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#11",
      "title": "James, Embiid, Maxey spark 76ers' rally from 29 points down in home opener to stun Cavs 114-106 - AP News",
      "published": "2026-10-23T02:07:00+00:00",
      "summary": "James, Embiid, Maxey spark 76ers' rally from 29 points down in home opener to stun Cavs 114-106 AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#12",
      "title": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother - AP News",
      "published": "2026-10-23T01:53:00+00:00",
      "summary": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#13",
      "title": "Colorado, Utah communities flood as yet more moisture saturates US Southwest - AP News",
      "published": "2026-10-23T01:52:00+00:00",
      "summary": "Colorado, Utah communities flood as yet more moisture saturates US Southwest AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#14",
      "title": "With lockout looming, the World Series could be Major League Baseball's last games for a while - AP News",
      "published": "2026-10-23T01:16:00+00:00",
      "summary": "With lockout looming, the World Series could be Major League Baseball's last games for a while AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#15",
      "title": "Execution staff warned IV site might have ‘blown’ during Christa Pike’s execution attempt - AP News",
      "published": "2026-10-23T00:51:09+00:00",
      "summary": "Execution staff warned IV site might have ‘blown’ during Christa Pike’s execution attempt AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#16",
      "title": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack - AP News",
      "published": "2026-10-23T00:51:00+00:00",
      "summary": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#17",
      "title": "Twice a year, a golden sunbeam illuminates a 3,000-year-old Egyptian temple - AP News",
      "published": "2026-10-23T00:35:00+00:00",
      "summary": "Twice a year, a golden sunbeam illuminates a 3,000-year-old Egyptian temple AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#18",
      "title": "Calley Means, a key MAHA advocate, resigns as a top RFK Jr. adviser - AP News",
      "published": "2026-10-23T00:21:00+00:00",
      "summary": "Calley Means, a key MAHA advocate, resigns as a top RFK Jr. adviser AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#19",
      "title": "Sister of American held in Russia says he didn't know he was being released until he saw US flag - AP News",
      "published": "2026-10-23T00:16:00+00:00",
      "summary": "Sister of American held in Russia says he didn't know he was being released until he saw US flag AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#20",
      "title": "Brazil court orders government to provide transportation for Indigenous voters in Sunday’s runoff - AP News",
      "published": "2026-10-23T00:11:00+00:00",
      "summary": "Brazil court orders government to provide transportation for Indigenous voters in Sunday’s runoff AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#21",
      "title": "West Virginia investigates climate, environmental groups over alleged ‘deceptive’ acts - AP News",
      "published": "2026-10-23T00:05:00+00:00",
      "summary": "West Virginia investigates climate, environmental groups over alleged ‘deceptive’ acts AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#22",
      "title": "Plaintiffs in Trump arch project seek injunction to stop administration from beginning work Nov. 5 - AP News",
      "published": "2026-10-22T23:37:00+00:00",
      "summary": "Plaintiffs in Trump arch project seek injunction to stop administration from beginning work Nov. 5 AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#23",
      "title": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths - AP News",
      "published": "2026-10-22T23:28:00+00:00",
      "summary": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "California latest target in Department of Justice efforts to end public benefits fraud - AP News",
+     "published": "2026-10-22T23:00:00+00:00",
+     "summary": "California latest target in Department of Justice efforts to end public benefits fraud AP News"
     }
    ]
   },
@@ -174,39 +174,39 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+     "published": "2026-10-23T07:52:32+00:00",
+     "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
      "published": "2026-10-23T06:26:25+00:00",
      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
      "published": "2026-10-23T05:16:37+00:00",
      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
      "published": "2026-10-23T04:54:25+00:00",
      "summary": "Officials say they both travelled through Entebbe International Airport on 3 October."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
      "published": "2026-10-23T01:38:44+00:00",
      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
      "published": "2026-10-22T23:16:20+00:00",
      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era."
-    },
-    {
-     "ref": "bbc_world#5",
-     "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-     "published": "2026-10-22T23:16:16+00:00",
-     "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
     },
     {
      "ref": "bbc_world#6",
@@ -438,33 +438,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "The world's oldest cave paintings in Indonesia under threat of wildfires - Reuters",
+     "published": "2026-10-23T06:02:00+00:00",
+     "summary": "The world's oldest cave paintings in Indonesia under threat of wildfires Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss - Reuters",
      "published": "2026-10-23T05:07:00+00:00",
      "summary": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "India October business growth hits 4-month high; hiring stalls, PMI shows - Reuters",
      "published": "2026-10-23T05:06:00+00:00",
      "summary": "India October business growth hits 4-month high; hiring stalls, PMI shows Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Indonesia seizes 1.16 tons of ketamine, police chief says - Reuters",
      "published": "2026-10-23T05:03:00+00:00",
      "summary": "Indonesia seizes 1.16 tons of ketamine, police chief says Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Israel military: two suspected attackers killed after shooting attack near Judea junction - Reuters",
      "published": "2026-10-23T05:01:00+00:00",
      "summary": "Israel military: two suspected attackers killed after shooting attack near Judea junction Reuters"
-    },
-    {
-     "ref": "reuters_world#4",
-     "title": "VIDEO: Drone rescue: A Ukrainian soldier's survival story - Reuters",
-     "published": "2026-10-23T05:00:00+00:00",
-     "summary": "VIDEO: Drone rescue: A Ukrainian soldier's survival story Reuters"
     },
     {
      "ref": "reuters_world#5",

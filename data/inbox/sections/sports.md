@@ -61,6 +61,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-23T18:45:00Z",
+     "home": "Brest",
+     "away": "Nice",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-23T18:45:00Z",
      "home": "Torino",
@@ -69,10 +77,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-23T18:45:00Z",
-     "home": "Brest",
-     "away": "Nice",
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-23T19:00:00Z",
+     "home": "Ipswich Town",
+     "away": "Nottingham",
      "status": "TIMED",
      "score": null
     },
@@ -89,14 +97,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-23T19:00:00Z",
      "home": "Alavés",
      "away": "Málaga",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-23T19:00:00Z",
-     "home": "Ipswich Town",
-     "away": "Nottingham",
      "status": "TIMED",
      "score": null
     },
@@ -749,147 +749,147 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#1",
+     "title": "Prediction New York RB vs Inter Miami: analysis, odds and betting tips - BetMines",
+     "published": "2026-10-23T06:50:31+00:00",
+     "summary": "Prediction New York RB vs Inter Miami: analysis, odds and betting tips BetMines"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "New York Red Bulls vs Inter Miami Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026 - Sportsgambler",
      "published": "2026-10-23T06:07:28+00:00",
      "summary": "New York Red Bulls vs Inter Miami Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026 Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Inter Miami brings win streak into match against the New York Red Bulls - FOX Sports",
      "published": "2026-10-23T06:04:00+00:00",
      "summary": "Inter Miami brings win streak into match against the New York Red Bulls FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
+     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
+     "published": "2026-10-23T05:16:04+00:00",
+     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
      "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
      "published": "2026-10-23T05:12:59+00:00",
      "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#6",
      "title": "Major League Soccer - Goal.com",
      "published": "2026-10-23T05:03:00+00:00",
      "summary": "Major League Soccer Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-23T04:57:29+00:00",
      "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "New York RB vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-23T04:31:05+00:00",
      "summary": "New York RB vs Inter Miami: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-23T04:25:36+00:00",
      "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#8",
-     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
-     "published": "2026-10-23T03:46:04+00:00",
-     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
-    },
-    {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "New York Red Bulls v Inter Miami CF Odds - FanDuel Sportsbook",
      "published": "2026-10-23T02:55:39+00:00",
      "summary": "New York Red Bulls v Inter Miami CF Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "New York Red Bulls vs Inter Miami Prediction & Picks - Major League Soccer - SportyTrader",
      "published": "2026-10-22T21:30:00+00:00",
      "summary": "New York Red Bulls vs Inter Miami Prediction & Picks - Major League Soccer SportyTrader"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi gets emotional in Spain ahead of prestigious award and reveals heartfelt memories of his fathe... - Pasión Fútbol",
      "published": "2026-10-22T20:13:00+00:00",
      "summary": "Lionel Messi gets emotional in Spain ahead of prestigious award and reveals heartfelt memories of his fathe... Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Playoff Watch! October 24 Edition - Union Soccer Blog",
      "published": "2026-10-22T19:55:10+00:00",
      "summary": "Playoff Watch! October 24 Edition Union Soccer Blog"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami wants to keep David Ayala and Matías Galarza as Kily González plans for the 2027 MLS season - Pasión Fútbol",
      "published": "2026-10-22T19:45:00+00:00",
      "summary": "Inter Miami wants to keep David Ayala and Matías Galarza as Kily González plans for the 2027 MLS season Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "New York Red Bulls vs Inter Miami Preview, prediction, injury news & lineups | MLS 2026 - Khel Now",
      "published": "2026-10-22T19:17:00+00:00",
      "summary": "New York Red Bulls vs Inter Miami Preview, prediction, injury news & lineups | MLS 2026 Khel Now"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Cristiano Ronaldo beats Lionel Messi in another major battle as Saudi Pro League star’s salary and net wort... - World Soccer Talk",
      "published": "2026-10-22T19:11:57+00:00",
      "summary": "Cristiano Ronaldo beats Lionel Messi in another major battle as Saudi Pro League star’s salary and net wort... World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Matchday 32: Griezmann Mania, Messi's MVP chase & El Tráfico - Yahoo Sports",
      "published": "2026-10-22T19:02:00+00:00",
      "summary": "Matchday 32: Griezmann Mania, Messi's MVP chase & El Tráfico Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "MLS Odds, Matchday 32: Inter Miami, Nashville And LAFC Best Bets - RG.org",
      "published": "2026-10-22T18:52:46+00:00",
      "summary": "MLS Odds, Matchday 32: Inter Miami, Nashville And LAFC Best Bets RG.org"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Neymar to Inter Miami rumors heat up again as Lionel Messi reunion gains momentum ahead of 2027 - Pasión Fútbol",
      "published": "2026-10-22T18:45:00+00:00",
      "summary": "Neymar to Inter Miami rumors heat up again as Lionel Messi reunion gains momentum ahead of 2027 Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Messi backed to reach 1,000 goals by Miami boss Gonzalez - Soccer News",
      "published": "2026-10-22T18:38:02+00:00",
      "summary": "Messi backed to reach 1,000 goals by Miami boss Gonzalez Soccer News"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Neymar to Inter Miami? Anderson Backs Reunion With Lionel Messi and Luis Suárez - beIN SPORTS",
      "published": "2026-10-22T18:34:11+00:00",
      "summary": "Neymar to Inter Miami? Anderson Backs Reunion With Lionel Messi and Luis Suárez beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Messi backed to reach 1,000 goals by Miami boss Gonzalez - beIN SPORTS",
      "published": "2026-10-22T18:18:23+00:00",
      "summary": "Messi backed to reach 1,000 goals by Miami boss Gonzalez beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi receives massive welcome in Oviedo ahead of Princess of Asturias Award - Goal.com",
      "published": "2026-10-22T18:05:22+00:00",
      "summary": "Lionel Messi receives massive welcome in Oviedo ahead of Princess of Asturias Award Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "USMNT’s Concacaf Nations League quarterfinal away leg vs. Haiti moved to Miami - The New York Times",
      "published": "2026-10-22T17:45:28+00:00",
      "summary": "USMNT’s Concacaf Nations League quarterfinal away leg vs. Haiti moved to Miami The New York Times"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Messi: Barcelona means a lot to me and my love for th… - YSscores",
-     "published": "2026-10-22T17:34:47+00:00",
-     "summary": "Messi: Barcelona means a lot to me and my love for th… YSscores"
     }
    ]
   },
