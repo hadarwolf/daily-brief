@@ -18,111 +18,111 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Asian shares mostly rebound from AI-related losses, while oil prices jump - AP News",
+     "published": "2026-10-23T07:46:00+00:00",
+     "summary": "Asian shares mostly rebound from AI-related losses, while oil prices jump AP News"
+    },
+    {
+     "ref": "ap_world#1",
      "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News",
      "published": "2026-10-23T05:25:00+00:00",
      "summary": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#2",
      "title": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer - AP News",
      "published": "2026-10-23T04:59:00+00:00",
      "summary": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
+     "title": "New Zealand’s military chief resigns after admitting to an inappropriate relationship - AP News",
+     "published": "2026-10-23T04:42:00+00:00",
+     "summary": "New Zealand’s military chief resigns after admitting to an inappropriate relationship AP News"
+    },
+    {
+     "ref": "ap_world#4",
      "title": "Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown - AP News",
      "published": "2026-10-23T04:01:00+00:00",
      "summary": "Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump - AP News",
-     "published": "2026-10-23T03:54:00+00:00",
-     "summary": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump AP News"
-    },
-    {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem - AP News",
      "published": "2026-10-23T03:12:00+00:00",
      "summary": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "In India, police shootings of alleged cow smugglers raise alarm about impunity and bias - AP News",
      "published": "2026-10-23T03:01:00+00:00",
      "summary": "In India, police shootings of alleged cow smugglers raise alarm about impunity and bias AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#7",
      "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms - AP News",
      "published": "2026-10-23T02:39:00+00:00",
      "summary": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "Agriculture secretary says agency is ‘full-bore ahead’ on Forest Service reorganization - AP News",
      "published": "2026-10-23T02:29:00+00:00",
      "summary": "Agriculture secretary says agency is ‘full-bore ahead’ on Forest Service reorganization AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say - AP News",
      "published": "2026-10-23T02:29:00+00:00",
      "summary": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "Ashley Hinson shows Republicans' midterm balancing act as Trump comes to boost Iowa turnout - AP News",
      "published": "2026-10-23T02:18:00+00:00",
      "summary": "Ashley Hinson shows Republicans' midterm balancing act as Trump comes to boost Iowa turnout AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Trump says he 'heard something about' Justice Department probe into longtime ally Corey Lewandowski - AP News",
      "published": "2026-10-23T02:11:00+00:00",
      "summary": "Trump says he 'heard something about' Justice Department probe into longtime ally Corey Lewandowski AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "James, Embiid, Maxey spark 76ers' rally from 29 points down in home opener to stun Cavs 114-106 - AP News",
      "published": "2026-10-23T02:07:00+00:00",
      "summary": "James, Embiid, Maxey spark 76ers' rally from 29 points down in home opener to stun Cavs 114-106 AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#13",
      "title": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother - AP News",
      "published": "2026-10-23T01:53:00+00:00",
      "summary": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
      "title": "Colorado, Utah communities flood as yet more moisture saturates US Southwest - AP News",
      "published": "2026-10-23T01:52:00+00:00",
      "summary": "Colorado, Utah communities flood as yet more moisture saturates US Southwest AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#15",
      "title": "With lockout looming, the World Series could be Major League Baseball's last games for a while - AP News",
      "published": "2026-10-23T01:16:00+00:00",
      "summary": "With lockout looming, the World Series could be Major League Baseball's last games for a while AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#16",
      "title": "Execution staff warned IV site might have ‘blown’ during Christa Pike’s execution attempt - AP News",
      "published": "2026-10-23T00:51:09+00:00",
      "summary": "Execution staff warned IV site might have ‘blown’ during Christa Pike’s execution attempt AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#17",
      "title": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack - AP News",
      "published": "2026-10-23T00:51:00+00:00",
      "summary": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Twice a year, a golden sunbeam illuminates a 3,000-year-old Egyptian temple - AP News",
-     "published": "2026-10-23T00:35:00+00:00",
-     "summary": "Twice a year, a golden sunbeam illuminates a 3,000-year-old Egyptian temple AP News"
     },
     {
      "ref": "ap_world#18",
@@ -144,9 +144,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#21",
-     "title": "West Virginia investigates climate, environmental groups over alleged ‘deceptive’ acts - AP News",
-     "published": "2026-10-23T00:05:00+00:00",
-     "summary": "West Virginia investigates climate, environmental groups over alleged ‘deceptive’ acts AP News"
+     "title": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August - AP News",
+     "published": "2026-10-22T23:37:20+00:00",
+     "summary": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August AP News"
     },
     {
      "ref": "ap_world#22",
@@ -174,27 +174,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+     "published": "2026-10-23T08:00:07+00:00",
+     "summary": "Officials say they both travelled through Entebbe International Airport on 3 October."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
      "published": "2026-10-23T07:52:32+00:00",
      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
      "published": "2026-10-23T06:26:25+00:00",
      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
      "published": "2026-10-23T05:16:37+00:00",
      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region."
-    },
-    {
-     "ref": "bbc_world#3",
-     "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-     "published": "2026-10-23T04:54:25+00:00",
-     "summary": "Officials say they both travelled through Entebbe International Airport on 3 October."
     },
     {
      "ref": "bbc_world#4",
@@ -204,27 +204,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#5",
+     "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+     "published": "2026-10-22T23:55:39+00:00",
+     "summary": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry."
+    },
+    {
+     "ref": "bbc_world#6",
      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
      "published": "2026-10-22T23:16:20+00:00",
      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
      "published": "2026-10-22T22:27:53+00:00",
      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
      "published": "2026-10-22T21:42:39+00:00",
      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
-    },
-    {
-     "ref": "bbc_world#8",
-     "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-     "published": "2026-10-22T20:49:12+00:00",
-     "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition."
     },
     {
      "ref": "bbc_world#9",
@@ -306,21 +306,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#22",
-     "title": "What is PHP and why did it spark a global cyber-security scramble?",
-     "published": "2026-10-22T11:15:58+00:00",
-     "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-    },
-    {
-     "ref": "bbc_world#23",
      "title": "Moment man rescued from sinking car by Australian TV reporter",
      "published": "2026-10-22T11:08:33+00:00",
      "summary": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle."
     },
     {
-     "ref": "bbc_world#24",
+     "ref": "bbc_world#23",
      "title": "How Arab parties could hold critical balance of power in Israeli election",
      "published": "2026-10-22T05:30:22+00:00",
      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition."
+    },
+    {
+     "ref": "bbc_world#24",
+     "title": "The real reasons there are so few young politicians in the US",
+     "published": "2026-10-21T23:52:12+00:00",
+     "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
     }
    ]
   },
@@ -417,18 +417,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "A Better “America First”",
      "published": "2026-10-19T08:00:00+00:00",
      "summary": "Charles Kupchan, who served in the Clinton and Obama administrations, argues that many aspects of Trump's foreign policy are worth keeping and align with changes in the international system. He explains how the next president can marry the good impulses of \"America first\" with the best of liberal internationalism."
-    },
-    {
-     "ref": "foreign_affairs#12",
-     "title": "The Axis of Upheaval Goes to War",
-     "published": "2026-10-16T08:00:00+00:00",
-     "summary": "Andrea Kendall-Taylor and Richard Fontaine, former members of the National Security Council, argue that the members of what they call the “axis of upheaval”—Russia, China, Iran, and North Korea—are deepening their cooperation. Meanwhile, Washington is creating friction with many of its own partnerships. If these developments continue unabated, the United States will squander the strength of its ne"
-    },
-    {
-     "ref": "foreign_affairs#13",
-     "title": "The Nuclear Deal That Could Save NATO",
-     "published": "2026-10-16T08:00:00+00:00",
-     "summary": "Former U.S. NATO ambassador Ivo Daalder argues that the scramble to shore up Europe's conventional defense risks overlooking the continent's greatest security weakness: nuclear deterrence. Europe knows it can't fully trust Washington's guarantee anymore. But he lays out a middle path between dependence and nuclearization that would extend France's and the United Kingdom's nuclear umbrella—a course"
     }
    ]
   },
@@ -438,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Saudi Arabia postpones UN data forum, Saudi statistical event to 2027 - Reuters",
+     "published": "2026-10-23T07:03:44+00:00",
+     "summary": "Saudi Arabia postpones UN data forum, Saudi statistical event to 2027 Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Taiwan says China using militia boats to expand 'battlefield preparation' in western Pacific - Reuters",
+     "published": "2026-10-23T06:30:00+00:00",
+     "summary": "Taiwan says China using militia boats to expand 'battlefield preparation' in western Pacific Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "The world's oldest cave paintings in Indonesia under threat of wildfires - Reuters",
      "published": "2026-10-23T06:02:00+00:00",
      "summary": "The world's oldest cave paintings in Indonesia under threat of wildfires Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss - Reuters",
+     "ref": "reuters_world#3",
+     "title": "Volvo Cars shares slump on big loss, 2,500 more jobs to go - Reuters",
      "published": "2026-10-23T05:07:00+00:00",
-     "summary": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss Reuters"
+     "summary": "Volvo Cars shares slump on big loss, 2,500 more jobs to go Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "India October business growth hits 4-month high; hiring stalls, PMI shows - Reuters",
      "published": "2026-10-23T05:06:00+00:00",
      "summary": "India October business growth hits 4-month high; hiring stalls, PMI shows Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "Indonesia seizes 1.16 tons of ketamine, police chief says - Reuters",
      "published": "2026-10-23T05:03:00+00:00",
      "summary": "Indonesia seizes 1.16 tons of ketamine, police chief says Reuters"
     },
     {
-     "ref": "reuters_world#4",
-     "title": "Israel military: two suspected attackers killed after shooting attack near Judea junction - Reuters",
-     "published": "2026-10-23T05:01:00+00:00",
-     "summary": "Israel military: two suspected attackers killed after shooting attack near Judea junction Reuters"
+     "ref": "reuters_world#6",
+     "title": "VIDEO: Drone rescue: A Ukrainian soldier's survival story - Reuters",
+     "published": "2026-10-23T05:00:00+00:00",
+     "summary": "VIDEO: Drone rescue: A Ukrainian soldier's survival story Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
+     "title": "Ukraine seeks to move customs checks inside EU to avoid Russian drones, FT reports - Reuters",
+     "published": "2026-10-23T04:57:00+00:00",
+     "summary": "Ukraine seeks to move customs checks inside EU to avoid Russian drones, FT reports Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
      "title": "North Korean internet was hit by DDoS cyberattack, network monitoring firm says - Reuters",
      "published": "2026-10-23T04:54:00+00:00",
      "summary": "North Korean internet was hit by DDoS cyberattack, network monitoring firm says Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "Morning Bid: Wake up! The long bond's up two points! - Reuters",
      "published": "2026-10-23T04:31:00+00:00",
      "summary": "Morning Bid: Wake up! The long bond's up two points! Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "India's Zetwerk slips below IPO price in debut, valued at $2.7 billion - Reuters",
      "published": "2026-10-23T04:18:00+00:00",
      "summary": "India's Zetwerk slips below IPO price in debut, valued at $2.7 billion Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns - Reuters",
      "published": "2026-10-23T04:14:00+00:00",
      "summary": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "EXCLUSIVE: US, South Korean officials see little chance of Trump-Kim meeting this year - Reuters",
      "published": "2026-10-23T04:07:00+00:00",
      "summary": "EXCLUSIVE: US, South Korean officials see little chance of Trump-Kim meeting this year Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "New Zealand's top military officer resigns over 'inappropriate relationship' - Reuters",
      "published": "2026-10-23T03:49:00+00:00",
      "summary": "New Zealand's top military officer resigns over 'inappropriate relationship' Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
      "title": "Injuries in China's Tibet rise to 65 after earthquake, death toll remains at 16 - Reuters",
      "published": "2026-10-23T03:18:00+00:00",
      "summary": "Injuries in China's Tibet rise to 65 after earthquake, death toll remains at 16 Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#15",
      "title": "Indian shares subdued as rising crude prices eclipse IT gains - Reuters",
      "published": "2026-10-23T02:17:00+00:00",
      "summary": "Indian shares subdued as rising crude prices eclipse IT gains Reuters"
     },
     {
-     "ref": "reuters_world#13",
-     "title": "Yen set for weekly gain as AI jitters spur safe-haven rush - Reuters",
+     "ref": "reuters_world#16",
+     "title": "Euro set for weekly drop, yen eyes biggest gain since early September - Reuters",
      "published": "2026-10-23T02:08:00+00:00",
-     "summary": "Yen set for weekly gain as AI jitters spur safe-haven rush Reuters"
+     "summary": "Euro set for weekly drop, yen eyes biggest gain since early September Reuters"
     },
     {
-     "ref": "reuters_world#14",
-     "title": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets - Reuters",
+     "ref": "reuters_world#17",
+     "title": "Tech selloff slows in Asia, oil hits five-month high - Reuters",
      "published": "2026-10-23T01:50:00+00:00",
-     "summary": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets Reuters"
+     "summary": "Tech selloff slows in Asia, oil hits five-month high Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#18",
      "title": "US bans BYD from air base in Japan over security concern, news report says - Reuters",
      "published": "2026-10-23T01:18:00+00:00",
      "summary": "US bans BYD from air base in Japan over security concern, news report says Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#19",
      "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs - Reuters",
      "published": "2026-10-23T00:56:00+00:00",
      "summary": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "Japan manufacturing growth slows to 7-month low in October, PMI shows - Reuters",
      "published": "2026-10-23T00:33:00+00:00",
      "summary": "Japan manufacturing growth slows to 7-month low in October, PMI shows Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
      "title": "Justice Department asks appeals court to intervene in California ballot case - Reuters",
      "published": "2026-10-23T00:18:00+00:00",
      "summary": "Justice Department asks appeals court to intervene in California ballot case Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#22",
      "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance - Reuters",
      "published": "2026-10-22T23:48:00+00:00",
      "summary": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#23",
      "title": "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation - Reuters",
      "published": "2026-10-22T23:14:34+00:00",
      "summary": "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#24",
      "title": "Australia's Rio Tinto to invest $1.9 billion in Queensland bauxite project - Reuters",
      "published": "2026-10-22T22:30:56+00:00",
      "summary": "Australia's Rio Tinto to invest $1.9 billion in Queensland bauxite project Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Venezuelans call for elections in first national protest in nearly two years - Reuters",
-     "published": "2026-10-22T22:30:53+00:00",
-     "summary": "Venezuelans call for elections in first national protest in nearly two years Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Tunisian police clash with protesters in capital on day of heightened tensions - Reuters",
-     "published": "2026-10-22T22:30:33+00:00",
-     "summary": "Tunisian police clash with protesters in capital on day of heightened tensions Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Grupo Mexico to press ahead with major US copper projects after output dip - Reuters",
-     "published": "2026-10-22T22:29:55+00:00",
-     "summary": "Grupo Mexico to press ahead with major US copper projects after output dip Reuters"
     }
    ]
   }
