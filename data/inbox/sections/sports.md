@@ -587,99 +587,99 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "EFL preview: 'Sleepless nights' for under pressure bosses",
+     "published": "2026-10-23T07:15:27+00:00",
+     "summary": "Norwich City head coach Philippe Clement, Sheffield Wednesday manager Henrik Pedersen and Bristol Rovers boss Steve Evans face scrutiny."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Podcast: Euro review & Scottish Premiership preview",
+     "published": "2026-10-23T07:00:00+00:00",
+     "summary": "Andy Burke, Scott Allan and Ewan Murray look ahead to the weekend's SPFL fixtures"
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "Haaland captaincy headache - stick or twist? FPL gameweek eight dilemmas",
      "published": "2026-10-23T06:56:15+00:00",
      "summary": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek eight."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Infantino re-election hopes boosted by Asia support",
      "published": "2026-10-23T06:48:46+00:00",
      "summary": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "Injury issues mount at Hearts amid Milne & Borchgrevink blows - gossip",
      "published": "2026-10-23T06:44:39+00:00",
      "summary": "Injury blows mount for Hearts defender as Rangers defender challenges team-mates."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "What is going on at 'chaotic' Newcastle?",
      "published": "2026-10-23T06:37:20+00:00",
      "summary": "Will the alarm bells be ringing at Newcastle United if they lose to struggling Crystal Palace on Sunday?"
     },
     {
-     "ref": "bbc_football#4",
-     "title": "Flat-track bullies Celtic continue descent into European irrelevance",
-     "published": "2026-10-23T06:26:23+00:00",
-     "summary": "BBC Scotland's Tom English reviews another frustrating night in Europe for the Scottish champions."
-    },
-    {
-     "ref": "bbc_football#5",
-     "title": "Flat-track bullies Celtic continue descent into European irrelevance",
-     "published": "2026-10-23T06:26:23+00:00",
-     "summary": "BBC Scotland's Tom English reviews another frustrating night in Europe for the Scottish champions."
-    },
-    {
      "ref": "bbc_football#6",
+     "title": "Flat-track bullies Celtic continue descent into European irrelevance",
+     "published": "2026-10-23T06:26:23+00:00",
+     "summary": "BBC Scotland's Tom English reviews another frustrating night in Europe for the Scottish champions."
+    },
+    {
+     "ref": "bbc_football#7",
+     "title": "Flat-track bullies Celtic continue descent into European irrelevance",
+     "published": "2026-10-23T06:26:23+00:00",
+     "summary": "BBC Scotland's Tom English reviews another frustrating night in Europe for the Scottish champions."
+    },
+    {
+     "ref": "bbc_football#8",
      "title": "Pride, prestige, profile - the great Ballon d'Or campaign",
      "published": "2026-10-23T06:06:38+00:00",
      "summary": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "Have Man Utd become the unmanageable club?",
      "published": "2026-10-23T05:56:04+00:00",
      "summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#10",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-23T05:32:12+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#9",
-     "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
-     "published": "2026-10-22T22:52:52+00:00",
-     "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?"
-    },
-    {
-     "ref": "bbc_football#10",
-     "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
-     "published": "2026-10-22T22:52:52+00:00",
-     "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?"
-    },
-    {
      "ref": "bbc_football#11",
-     "title": "'Celtic are just not good enough at this level'",
-     "published": "2026-10-22T22:22:00+00:00",
-     "summary": "Kenny Macintyre and the team reflect on a difficult night for Scottish clubs in Europe"
+     "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
+     "published": "2026-10-22T22:52:52+00:00",
+     "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?"
     },
     {
      "ref": "bbc_football#12",
+     "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
+     "published": "2026-10-22T22:52:52+00:00",
+     "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?"
+    },
+    {
+     "ref": "bbc_football#13",
      "title": "Man Utd chief keen on Howe - Friday's gossip",
      "published": "2026-10-22T21:53:52+00:00",
      "summary": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
      "published": "2026-10-22T21:30:31+00:00",
      "summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Fernandes' home burgled while in Italy with Man Utd",
      "published": "2026-10-22T18:04:21+00:00",
      "summary": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como."
-    },
-    {
-     "ref": "bbc_football#15",
-     "title": "US to host first Women's Club World Cup in 2028",
-     "published": "2026-10-22T17:49:08+00:00",
-     "summary": "Arsenal are named as one of the teams to compete at the inaugural Women's Club World Cup, to be hosted in the United States in 2028."
     },
     {
      "ref": "bbc_football#16",
@@ -689,51 +689,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#17",
+     "title": "US to host first Women's Club World Cup in 2028",
+     "published": "2026-10-22T17:49:08+00:00",
+     "summary": "Arsenal are named as one of the teams to compete at the inaugural Women's Club World Cup, to be hosted in the United States in 2028."
+    },
+    {
+     "ref": "bbc_football#18",
      "title": "BBC to show Cray Wanderers v Stockport & Altrincham v Notts County",
      "published": "2026-10-22T16:31:24+00:00",
      "summary": "Non-league clubs Altrincham and Cray Wanderers will stage the BBC's two chosen FA Cup first-round ties next month."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
      "published": "2026-10-22T16:30:41+00:00",
      "summary": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "Fernandes to stay captain as Rooney calls Man Utd players babies",
      "published": "2026-10-22T16:19:30+00:00",
      "summary": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "What are Real's attacking options during Vinicius Jr ban?",
      "published": "2026-10-22T15:33:29+00:00",
      "summary": "Real Madrid’s attacking options are expanding under Jose Mourinho, with Endrick, Yan Diomande and Carlos Espi offering fresh solutions in the final third."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "Football Daily",
      "published": "2026-10-22T15:16:00+00:00",
      "summary": "Andy Mitten & Jay Motty join Rick & Lloyd to dissect Man United's disastrous night."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
      "published": "2026-10-22T14:04:44+00:00",
      "summary": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Breaking down Man Utd's tactics after Fernandes' criticism",
      "published": "2026-10-22T12:44:08+00:00",
      "summary": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?"
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Third-longest serving manager in top 92 clubs Woodman leaves Bromley",
-     "published": "2026-10-22T10:28:21+00:00",
-     "summary": "Bromley part company with manager Andy Woodman following a challenging start to the 2026-27 season."
     }
    ]
   },
@@ -749,147 +749,147 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Inter Miami brings win streak into match against the New York Red Bulls - Bluefield Daily Telegraph",
-     "published": "2026-10-23T06:16:19+00:00",
-     "summary": "Inter Miami brings win streak into match against the New York Red Bulls Bluefield Daily Telegraph"
-    },
-    {
-     "ref": "gnews_inter_miami#2",
      "title": "New York Red Bulls vs Inter Miami Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026 - Sportsgambler",
      "published": "2026-10-23T06:07:28+00:00",
      "summary": "New York Red Bulls vs Inter Miami Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026 Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#2",
      "title": "Inter Miami brings win streak into match against the New York Red Bulls - FOX Sports",
      "published": "2026-10-23T06:04:00+00:00",
      "summary": "Inter Miami brings win streak into match against the New York Red Bulls FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#3",
      "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
      "published": "2026-10-23T05:12:59+00:00",
      "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#4",
      "title": "Major League Soccer - Goal.com",
      "published": "2026-10-23T05:03:00+00:00",
      "summary": "Major League Soccer Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#5",
      "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-23T04:57:29+00:00",
      "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#6",
      "title": "New York RB vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-23T04:31:05+00:00",
      "summary": "New York RB vs Inter Miami: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#7",
      "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-23T04:25:36+00:00",
      "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#8",
      "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
      "published": "2026-10-23T03:46:04+00:00",
      "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#9",
      "title": "New York Red Bulls v Inter Miami CF Odds - FanDuel Sportsbook",
      "published": "2026-10-23T02:55:39+00:00",
      "summary": "New York Red Bulls v Inter Miami CF Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#10",
      "title": "New York Red Bulls vs Inter Miami Prediction & Picks - Major League Soccer - SportyTrader",
      "published": "2026-10-22T21:30:00+00:00",
      "summary": "New York Red Bulls vs Inter Miami Prediction & Picks - Major League Soccer SportyTrader"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi gets emotional in Spain ahead of prestigious award and reveals heartfelt memories of his fathe... - Pasión Fútbol",
      "published": "2026-10-22T20:13:00+00:00",
      "summary": "Lionel Messi gets emotional in Spain ahead of prestigious award and reveals heartfelt memories of his fathe... Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#12",
      "title": "Playoff Watch! October 24 Edition - Union Soccer Blog",
      "published": "2026-10-22T19:55:10+00:00",
      "summary": "Playoff Watch! October 24 Edition Union Soccer Blog"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "Inter Miami wants to keep David Ayala and Matías Galarza as Kily González plans for the 2027 MLS season - Pasión Fútbol",
      "published": "2026-10-22T19:45:00+00:00",
      "summary": "Inter Miami wants to keep David Ayala and Matías Galarza as Kily González plans for the 2027 MLS season Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "New York Red Bulls vs Inter Miami Preview, prediction, injury news & lineups | MLS 2026 - Khel Now",
      "published": "2026-10-22T19:17:00+00:00",
      "summary": "New York Red Bulls vs Inter Miami Preview, prediction, injury news & lineups | MLS 2026 Khel Now"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "Cristiano Ronaldo beats Lionel Messi in another major battle as Saudi Pro League star’s salary and net wort... - World Soccer Talk",
      "published": "2026-10-22T19:11:57+00:00",
      "summary": "Cristiano Ronaldo beats Lionel Messi in another major battle as Saudi Pro League star’s salary and net wort... World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Matchday 32: Griezmann Mania, Messi's MVP chase & El Tráfico - Yahoo Sports",
      "published": "2026-10-22T19:02:00+00:00",
      "summary": "Matchday 32: Griezmann Mania, Messi's MVP chase & El Tráfico Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "MLS Odds, Matchday 32: Inter Miami, Nashville And LAFC Best Bets - RG.org",
      "published": "2026-10-22T18:52:46+00:00",
      "summary": "MLS Odds, Matchday 32: Inter Miami, Nashville And LAFC Best Bets RG.org"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Neymar to Inter Miami rumors heat up again as Lionel Messi reunion gains momentum ahead of 2027 - Pasión Fútbol",
      "published": "2026-10-22T18:45:00+00:00",
      "summary": "Neymar to Inter Miami rumors heat up again as Lionel Messi reunion gains momentum ahead of 2027 Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Messi backed to reach 1,000 goals by Miami boss Gonzalez - Soccer News",
      "published": "2026-10-22T18:38:02+00:00",
      "summary": "Messi backed to reach 1,000 goals by Miami boss Gonzalez Soccer News"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Neymar to Inter Miami? Anderson Backs Reunion With Lionel Messi and Luis Suárez - beIN SPORTS",
      "published": "2026-10-22T18:34:11+00:00",
      "summary": "Neymar to Inter Miami? Anderson Backs Reunion With Lionel Messi and Luis Suárez beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Messi backed to reach 1,000 goals by Miami boss Gonzalez - beIN SPORTS",
      "published": "2026-10-22T18:18:23+00:00",
      "summary": "Messi backed to reach 1,000 goals by Miami boss Gonzalez beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi receives massive welcome in Oviedo ahead of Princess of Asturias Award - Goal.com",
      "published": "2026-10-22T18:05:22+00:00",
      "summary": "Lionel Messi receives massive welcome in Oviedo ahead of Princess of Asturias Award Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "USMNT’s Concacaf Nations League quarterfinal away leg vs. Haiti moved to Miami - The New York Times",
      "published": "2026-10-22T17:45:28+00:00",
      "summary": "USMNT’s Concacaf Nations League quarterfinal away leg vs. Haiti moved to Miami The New York Times"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Messi: Barcelona means a lot to me and my love for th… - YSscores",
+     "published": "2026-10-22T17:34:47+00:00",
+     "summary": "Messi: Barcelona means a lot to me and my love for th… YSscores"
     }
    ]
   },

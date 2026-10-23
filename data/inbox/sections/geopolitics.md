@@ -18,21 +18,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "How the death of 2 CIA agents in northern Mexico led to a treason case - AP News",
-     "published": "2026-10-23T05:23:00+00:00",
-     "summary": "How the death of 2 CIA agents in northern Mexico led to a treason case AP News"
-    },
-    {
-     "ref": "ap_world#1",
      "title": "In Netanyahu stronghold, signs of fraying loyalty emerge on eve of election - AP News",
      "published": "2026-10-23T05:11:00+00:00",
      "summary": "In Netanyahu stronghold, signs of fraying loyalty emerge on eve of election AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#1",
      "title": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer - AP News",
      "published": "2026-10-23T04:59:00+00:00",
      "summary": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown - AP News",
+     "published": "2026-10-23T04:01:00+00:00",
+     "summary": "Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown AP News"
     },
     {
      "ref": "ap_world#3",
@@ -114,45 +114,45 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#16",
+     "title": "Execution staff warned IV site might have ‘blown’ during Christa Pike’s execution attempt - AP News",
+     "published": "2026-10-23T00:51:09+00:00",
+     "summary": "Execution staff warned IV site might have ‘blown’ during Christa Pike’s execution attempt AP News"
+    },
+    {
+     "ref": "ap_world#17",
      "title": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack - AP News",
      "published": "2026-10-23T00:51:00+00:00",
      "summary": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
      "title": "Twice a year, a golden sunbeam illuminates a 3,000-year-old Egyptian temple - AP News",
      "published": "2026-10-23T00:35:00+00:00",
      "summary": "Twice a year, a golden sunbeam illuminates a 3,000-year-old Egyptian temple AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "Calley Means, a key MAHA advocate, resigns as a top RFK Jr. adviser - AP News",
      "published": "2026-10-23T00:21:00+00:00",
      "summary": "Calley Means, a key MAHA advocate, resigns as a top RFK Jr. adviser AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "Sister of American held in Russia says he didn't know he was being released until he saw US flag - AP News",
      "published": "2026-10-23T00:16:00+00:00",
      "summary": "Sister of American held in Russia says he didn't know he was being released until he saw US flag AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Brazil court orders government to provide transportation for Indigenous voters in Sunday’s runoff - AP News",
      "published": "2026-10-23T00:11:00+00:00",
      "summary": "Brazil court orders government to provide transportation for Indigenous voters in Sunday’s runoff AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "West Virginia investigates climate, environmental groups over alleged ‘deceptive’ acts - AP News",
      "published": "2026-10-23T00:05:00+00:00",
      "summary": "West Virginia investigates climate, environmental groups over alleged ‘deceptive’ acts AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Execution staff warned IV site might have ‘blown’ during Christa Pike’s execution attempt - AP News",
-     "published": "2026-10-22T23:51:00+00:00",
-     "summary": "Execution staff warned IV site might have ‘blown’ during Christa Pike’s execution attempt AP News"
     },
     {
      "ref": "ap_world#23",
@@ -162,9 +162,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#24",
-     "title": "California latest target in Department of Justice efforts to end public benefits fraud - AP News",
-     "published": "2026-10-22T23:00:00+00:00",
-     "summary": "California latest target in Department of Justice efforts to end public benefits fraud AP News"
+     "title": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths - AP News",
+     "published": "2026-10-22T23:28:00+00:00",
+     "summary": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths AP News"
     }
    ]
   },
@@ -438,39 +438,39 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Tougher discipline, and Xi's authority, key at China's Communist Party's fifth plenum - Reuters",
-     "published": "2026-10-23T06:27:00+00:00",
-     "summary": "Tougher discipline, and Xi's authority, key at China's Communist Party's fifth plenum Reuters"
-    },
-    {
-     "ref": "reuters_world#1",
      "title": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss - Reuters",
      "published": "2026-10-23T05:07:00+00:00",
      "summary": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#1",
      "title": "India October business growth hits 4-month high; hiring stalls, PMI shows - Reuters",
      "published": "2026-10-23T05:06:00+00:00",
      "summary": "India October business growth hits 4-month high; hiring stalls, PMI shows Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#2",
      "title": "Indonesia seizes 1.16 tons of ketamine, police chief says - Reuters",
      "published": "2026-10-23T05:03:00+00:00",
      "summary": "Indonesia seizes 1.16 tons of ketamine, police chief says Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#3",
      "title": "Israel military: two suspected attackers killed after shooting attack near Judea junction - Reuters",
      "published": "2026-10-23T05:01:00+00:00",
      "summary": "Israel military: two suspected attackers killed after shooting attack near Judea junction Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#4",
      "title": "VIDEO: Drone rescue: A Ukrainian soldier's survival story - Reuters",
      "published": "2026-10-23T05:00:00+00:00",
      "summary": "VIDEO: Drone rescue: A Ukrainian soldier's survival story Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
+     "title": "North Korean internet was hit by DDoS cyberattack, network monitoring firm says - Reuters",
+     "published": "2026-10-23T04:54:00+00:00",
+     "summary": "North Korean internet was hit by DDoS cyberattack, network monitoring firm says Reuters"
     },
     {
      "ref": "reuters_world#6",
@@ -480,33 +480,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#7",
+     "title": "India's Zetwerk slips below IPO price in debut, valued at $2.7 billion - Reuters",
+     "published": "2026-10-23T04:18:00+00:00",
+     "summary": "India's Zetwerk slips below IPO price in debut, valued at $2.7 billion Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
      "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns - Reuters",
      "published": "2026-10-23T04:14:00+00:00",
      "summary": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "EXCLUSIVE: US, South Korean officials see little chance of Trump-Kim meeting this year - Reuters",
      "published": "2026-10-23T04:07:00+00:00",
      "summary": "EXCLUSIVE: US, South Korean officials see little chance of Trump-Kim meeting this year Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "New Zealand's top military officer resigns over 'inappropriate relationship' - Reuters",
      "published": "2026-10-23T03:49:00+00:00",
      "summary": "New Zealand's top military officer resigns over 'inappropriate relationship' Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Injuries in China's Tibet rise to 65 after earthquake, death toll remains at 16 - Reuters",
      "published": "2026-10-23T03:18:00+00:00",
      "summary": "Injuries in China's Tibet rise to 65 after earthquake, death toll remains at 16 Reuters"
-    },
-    {
-     "ref": "reuters_world#11",
-     "title": "Flight to safety, rising oil put rupee’s recovery to the test - Reuters",
-     "published": "2026-10-23T03:00:00+00:00",
-     "summary": "Flight to safety, rising oil put rupee’s recovery to the test Reuters"
     },
     {
      "ref": "reuters_world#12",

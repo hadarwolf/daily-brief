@@ -18,122 +18,123 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Hermès, Cartier’s Last Reliable Shoppers Are Retreating in China",
+     "published": "2026-10-23T07:19:20+00:00",
+     "summary": "Luxury powerhouses including Hermès and Cartier are suffering steeper slumps in China, in a sign that a spending pullback by the country’s wealthy consumers is hitting even the most resilient brands."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Margin Trade Liquidation Speeds Indian Small-Cap Stock Decline",
+     "published": "2026-10-23T07:04:57+00:00",
+     "summary": "A wave of deleveraging by retail investors has triggered the biggest rout in Indian small-cap stocks in seven months, as mounting concerns over inflation and higher interest rates weigh on sentiment."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "China Offshore Yuan Bonds Priced at Record Lows Amid Rally",
      "published": "2026-10-23T07:01:59+00:00",
      "summary": "China sold government bonds in Hong Kong at record-low yields for most maturities, as offshore yields tracked a rally in the onshore debt market."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#3",
      "title": "Bridgewater China Cut Gold and Is ‘Optimistic’ on Local Stocks",
      "published": "2026-10-23T06:53:36+00:00",
      "summary": "Bridgewater Associates’ China arm told investors it has turned less bullish on gold and is “prudently optimistic” on local stocks, shifting some of its views after a wild quarter as the fund gives human managers more control over allocations."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Nigeria's Shift to Solar",
      "published": "2026-10-23T06:48:57+00:00",
      "summary": "High fuel prices due to the Iran war and cheap Chinese technology are accelerating Nigeria's shift to solar. Bloomberg's Yinka Ibukun reports. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "UK Retail Sales Fall, Consumer Confidence Worst Since Covid",
      "published": "2026-10-23T06:46:28+00:00",
      "summary": "Plus, the nation’s bonds and stocks are showing resilience in the run up to the budget"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "Azour: War Impact on Energy Markets Under Control",
      "published": "2026-10-23T06:36:22+00:00",
      "summary": "The IMF has downgraded its growth projections for the Middle East and Central Asia this year due to the US Iran conflict. GCC countries are now expected to face negative overall growth in 2026, with Oman the only exception. Jihad Azour, IMF’s Director for Middle East & Central Asia Department spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on their regional outlook. (Source: B"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing",
      "published": "2026-10-23T06:28:26+00:00",
      "summary": "Russia’s grain industry is looking to increasingly niche solutions for shipping wheat as attacks in the Black Sea continue to choke off exports from the world’s biggest supplier."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
+     "title": "French Crisis Creates a Cheap Contrarian Trade: Taking Stock",
+     "published": "2026-10-23T06:26:20+00:00",
+     "summary": "A deepening social and economic crisis has turned France into the most disliked equity market in Europe and a serious bet for a reversal, though not one for the faint-hearted."
+    },
+    {
+     "ref": "bloomberg_markets#9",
      "title": "Hedge Funds Log Widest Daily Drawdown Since Covid in Stock Rout",
      "published": "2026-10-23T06:17:21+00:00",
      "summary": "Global hedge funds suffered one of their broadest declines since the Covid pandemic following the stock market selloff on Thursday, according to Goldman Sachs Group Inc.’s prime brokerage desk."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#10",
      "title": "Rathbones Warms to Longer UK Gilts on Bets for Budget Discipline",
      "published": "2026-10-23T06:15:00+00:00",
      "summary": "Rathbones Asset Management Ltd. is warming up to longer-maturity UK government debt on signs Chancellor of the Exchequer John Healey will avoid the confusion and market ructions that accompanied his predecessors’ budgets."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#11",
      "title": "AI Rout Hits Asia as Investors Rush to Safety",
      "published": "2026-10-23T06:08:26+00:00",
      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#12",
      "title": "Bicester Village Operator on China Expansion Plans",
      "published": "2026-10-23T06:03:26+00:00",
      "summary": "Desiree Bollier, Chair and Global Chief Merchant at luxury shopping complex operator The Bicester Collection, discusses the company's expansion plans in China. She speaks with David Ingles and Yvonne Man on \"Bloomberg: The China Show.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#13",
      "title": "BlackRock's Angara on ETF Product Pipeline",
      "published": "2026-10-23T06:01:41+00:00",
      "summary": "Aarti Angara, APAC Head of Global Product Solutions at BlackRock, discusses the asset manager's recent ETF investor survey findings and ETF product offerings. She speaks on \"Bloomberg: ETF IQ Asia.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#14",
      "title": "Tech Rout Leaves South Korean Stocks Twice as Cheap as Indonesia",
      "published": "2026-10-23T06:01:20+00:00",
      "summary": "South Korea has transformed from this year’s hottest major market into the world’s cheapest following a brutal tech selloff, with valuations falling to roughly half of Indonesia’s."
     },
     {
-     "ref": "bloomberg_markets#12",
-     "title": "Sir Martin Sorrell on AI's Impact on Advertising",
-     "published": "2026-10-23T05:51:11+00:00",
-     "summary": "Martin Sorrell, Executive Chairman of S4Capital, says AI is dramatically reducing the time and cost of creating advertising content, forcing agencies to rethink traditional pricing models. He also highlights AI-powered personalization at scale, as brands use data to deliver highly targeted content. Sorrell spoke with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "FTSE 100 Live: UK Stock Futures Muted, Pound Sitting Around $1.34",
-     "published": "2026-10-23T05:48:23+00:00"
-    },
-    {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Eni Raises Payouts as High Fuel Prices Bolster Cash Flow",
      "published": "2026-10-23T05:37:02+00:00",
      "summary": "Eni SpA said it will return more cash to shareholders after the Middle East war drove up energy prices and sent refining margins soaring."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Volvo Profit Rises on Truck Demand in North America, Europe",
      "published": "2026-10-23T05:36:32+00:00",
-     "summary": "Volvo AB said improving demand in North America and Europe helped deliver solid earnings during the third quarter with the truckmaker planning to gradually increase production."
+     "summary": "Volvo AB said improving demand in North America and Europe helped deliver solid earnings in the third quarter with the truckmaker planning to gradually increase production."
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "Singapore Exchange CEO Plans to Hand Over Reins After Decade",
      "published": "2026-10-23T04:30:10+00:00",
      "summary": "Singapore Exchange Ltd. Chief Executive Officer Loh Boon Chye is planning to step down after more than a decade at the helm, with a new leader yet to be named."
     },
     {
-     "ref": "bloomberg_markets#17",
-     "title": "Indonesian Corporate Bond Risk Gauge Rises to Six-Year High",
-     "published": "2026-10-23T03:50:21+00:00",
-     "summary": "Fallout from MSCI Inc.’s warning that it may remove Indonesia from its global equity indexes is spilling into the country’s corporate credit."
-    },
-    {
      "ref": "bloomberg_markets#18",
      "title": "China Stocks Rebound as National Team ETF Buying Picks Up",
      "published": "2026-10-23T02:13:40+00:00",
-     "summary": "Chinese stocks swung into gains as inflows into a basket of exchange-traded funds favored by the national team picked up pace."
+     "summary": "Chinese stocks swung into gains as turnover in a basket of exchange-traded funds favored by the national team picked up pace."
     },
     {
      "ref": "bloomberg_markets#19",
-     "title": "Tech Stocks Pare Losses After Chip Rout, Oil Gains: Markets Wrap",
+     "title": "Tech Rout Pauses With Oil Rise Capping Relief: Markets Wrap",
      "published": "2026-10-22T22:05:06+00:00",
-     "summary": "Technology stocks trimmed their losses heading into the European session, offering global investors some respite after renewed pressure on the artificial intelligence trade drove demand for bonds. Crude oil extended its gains."
+     "summary": "Stocks steadied at the start of the European session, offering global investors some respite after a rout in the artificial intelligence trade, while further gains in oil prices kept sentiment cautious."
     }
    ]
   },
@@ -209,27 +210,27 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "מחיר הנפט מטפס לשיא של חמישה חודשים על רקע חששות מהסלמה במזרח התיכון",
+     "published": "2026-10-23T07:07:00+00:00",
+     "summary": "ירידה חדה מהתחזיות במכירות קמעוניות בבריטניה; מטוסי קרב לאוקראינה סידרו דו\"חות חזקים לסאאב ■ אסיה נסגרה בירידות; אינפלציית הליבה של יפן עלתה לרמתה הגבוהה ביותר מתחילת השנה; מניית SK הייניקס קפצה ב-4% לאחר הקפאת תוכניות להנפקה של חברה בת שלה בארה\"ב ■ בורסות וול סטריט ננעלו אמש בירידות; נאסד\"ק איבד יותר מ-2%, מטא נפלה ב-7%"
+    },
+    {
+     "ref": "themarker#1",
      "title": "החדשות הרעות: הרסו את משרדי הממשלה; החדשות הטובות: זה בר־שיקום, ואפילו במהירות",
      "published": "2026-10-23T06:53:12+00:00",
      "summary": "למרות קריסת השירות הממשלתי ומינוי \"פקידי גלידה\" חסרי כישורים תחת הממשלה הנוכחית, בכירי עבר וארגונים גיבשו מאות תוכניות עבודה מפורטות ליום שאחרי"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "החשש העולמי מבינה מלאכותית הפיל את מניות הטכנולוגיה — והזניק את שוק האג\"ח האמריקאי",
      "published": "2026-10-23T06:51:09+00:00",
      "summary": "אג\"ח ממשלתיות אמריקאיות רשמו ביום חמישי את היום הטוב ביותר שלהן זה יותר משנתיים, בעקבות ההפסדים בנכסי סיכון, המחאות בצרפת והמתיחות במזרח התיכון ■ \"אף שמחיר הנפט מטפס, אג\"ח אמריקאיות שוב נהנות מכספים המחפשים מקלט בטוח\""
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#3",
      "title": "ביבי, בנט או זליכה: צ'אט יקר, למי כדאי להצביע בבחירות?",
      "published": "2026-10-23T06:49:50+00:00",
      "summary": "מה ההבדלים בין בנט לליברמן? מי בטוח לא ישב עם ביבי? ומה יהיה עם וינטר? ■ צעירים רבים מתייעצים עם ה–AI על הכל — וגם בשאלה למי לתת את הקול הכל כך יקר שלהן בשבוע הבא"
-    },
-    {
-     "ref": "themarker#3",
-     "title": "מחיר הנפט מטפס לשיא של חמישה חודשים על רקע חששות מהסלמה במזרח התיכון",
-     "published": "2026-10-23T06:40:00+00:00",
-     "summary": "ירידה חדה מהתחזיות במכירות קמעוניות בבריטניה; מטוסי קרב לאוקראינה סידרו דו\"חות חזקים לסאאב ■ אסיה נסגרה בירידות; אינפלציית הליבה של יפן עלתה לרמתה הגבוהה ביותר מתחילת השנה; מניית SK הייניקס קפצה ב-4% לאחר הקפאת תוכניות להנפקה של חברה בת שלה בארה\"ב ■ בורסות וול סטריט ננעלו אמש בירידות; נאסד\"ק איבד יותר מ-2%, מטא נפלה ב-7%"
     },
     {
      "ref": "themarker#4",
@@ -239,7 +240,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#5",
-     "title": "הדולר עולה ב-0.1% ונסחר בשער של 3.11 שקלים",
+     "title": "ירידות בבורסה בת\"א; מיטרוניקס מזנקת אחרי ההצעה מפימי",
      "published": "2026-10-23T05:56:45+00:00"
     },
     {
@@ -364,45 +365,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
-     "title": "Sterling Little Moved After U.K. Retail Sales Data as Investor Await PMI Figures",
-     "published": "2026-10-23T07:02:00+00:00",
-     "summary": "Sterling remained weaker against the dollar and steady versus the euro, little moved after worse-than-expected U.K. retail sales data."
+     "title": "Oil Heads for Weekly Gain on Fears of Renewed U.S.-Iran Escalation",
+     "published": "2026-10-23T07:26:00+00:00",
+     "summary": "Oil prices were on track for a weekly gain after climbing to a five-month high over fears that the U.S. could attack Iran after the midterm elections in early November."
     },
     {
      "ref": "wsj_markets#1",
+     "title": "Euro Less Sensitive to French Fiscal Risks For Now",
+     "published": "2026-10-23T07:21:00+00:00",
+     "summary": "The euro’s sensitivity to French fiscal concerns has reduced but that link could re-establish itself if the spread between French and German bond yields widen to new highs, ING said."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "U.S. Treasury Yields Edge Up, Bond Market Focus to Stay on France",
      "published": "2026-10-23T06:17:00+00:00",
      "summary": "Treasury yields edged higher, having slid sharply on Thursday as investors sought safe havens from the turmoil in French government bonds."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "Lack of Haven Flows Challenges Gold’s Rebound",
      "published": "2026-10-23T05:48:00+00:00",
      "summary": "A sustained gold rebound likely requires an unwinding of Fed tightening expectations and improved risk sentiment, says Pepperstone said."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
      "published": "2026-10-23T03:33:00+00:00",
      "summary": "The yen strengthened to its highest level in a year against the euro as investors sought the relative safety of the Japanese currency amid concerns over French debt."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Japan Stocks’ Valuation Gap Opens Stock-Picking Opportunities",
      "published": "2026-10-23T03:15:00+00:00",
      "summary": "Japan’s equity market is entering a phase that rewards active stock picking over chasing the rally, Eastspring Singapore said."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO on Market Jitters",
      "published": "2026-10-23T01:46:00+00:00",
      "summary": "The world’s second-largest memory chip maker shelved plans for a potential U.S. listing of its memory-chip unit Solidigm in light of market conditions and share price trends."
-    },
-    {
-     "ref": "wsj_markets#6",
-     "title": "Oil Falls on Likely Technical Correction After Earlier Gains",
-     "published": "2026-10-23T01:00:00+00:00",
-     "summary": "Oil futures declined in the Asian session, likely due to a technical correction after gains on Thursday."
     },
     {
      "ref": "wsj_markets#7",
@@ -518,10 +519,10 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4166.25,
-   "prev_close": 4212.1299,
-   "change_pct": -1.09,
-   "as_of": "2026-10-22"
+   "last": 4131.9902,
+   "prev_close": 4166.25,
+   "change_pct": -0.82,
+   "as_of": "2026-10-23"
   },
   "SP500": {
    "symbol": "^GSPC",
@@ -532,23 +533,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.111,
+   "last": 3.112,
    "prev_close": 3.0876,
-   "change_pct": 0.76,
+   "change_pct": 0.79,
    "as_of": "2026-10-23"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 114.44,
+   "last": 114.27,
    "prev_close": 113.17,
-   "change_pct": 1.12,
+   "change_pct": 0.97,
    "as_of": "2026-10-23"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81693.9766,
+   "last": 81681.1016,
    "prev_close": 81311.8906,
-   "change_pct": 0.47,
+   "change_pct": 0.45,
    "as_of": "2026-10-23"
   }
  },
