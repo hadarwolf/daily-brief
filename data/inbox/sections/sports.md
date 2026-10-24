@@ -7,11 +7,18 @@ Write the Sports section: 3-5 stories.
 - Results, fixtures and tables come from the structured data. Storylines come from the news feeds. Cite "football_data", "balldontlie" or "thesportsdb" as a source_ref when you use their data.
 - Today is a match day for the reader's teams: [
  {
+  "sport": "soccer",
+  "competition": "Premier League",
+  "home": "Arsenal",
+  "away": "Everton",
+  "kickoff_utc": "2026-10-24T14:00:00Z"
+ },
+ {
   "sport": "nba",
   "competition": "NBA",
-  "home": "Sacramento Kings",
-  "away": "Portland Trail Blazers",
-  "kickoff_utc": "2026-10-24T02:00:00.000Z"
+  "home": "Cleveland Cavaliers",
+  "away": "Brooklyn Nets",
+  "kickoff_utc": "2026-10-24T23:30:00.000Z"
  }
 ]. Lead with a preview of that game (what's at stake, form, table position).
 - Fill israeli_players with one entry per player listed in nba_data.israeli_players, giving their latest game or news. If the input has nothing new on a player, say so plainly. Never invent stats. Box scores are often unavailable.
@@ -28,83 +35,395 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "yesterday": [
     {
      "competition": "Copa Libertadores",
-     "kickoff_utc": "2026-10-22T00:30:00Z",
-     "home": "Palmeiras",
-     "away": "Fluminense",
-     "status": "FINISHED",
-     "score": "5-4"
-    }
-   ],
-   "today": [
-    {
-     "competition": "Copa Libertadores",
      "kickoff_utc": "2026-10-23T00:30:00Z",
      "home": "Flamengo",
      "away": "Estudiantes LP",
-     "status": "SCHEDULED",
-     "score": null
+     "status": "FINISHED",
+     "score": "2-3"
     },
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-23T18:00:00Z",
      "home": "Go Ahead",
      "away": "Telstar",
-     "status": "TIMED",
-     "score": null
+     "status": "FINISHED",
+     "score": "3-2"
     },
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-23T18:30:00Z",
      "home": "Stuttgart",
      "away": "M'gladbach",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-23T18:45:00Z",
-     "home": "Brest",
-     "away": "Nice",
-     "status": "TIMED",
-     "score": null
+     "status": "FINISHED",
+     "score": "2-3"
     },
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-23T18:45:00Z",
      "home": "Torino",
      "away": "Monza",
-     "status": "TIMED",
-     "score": null
+     "status": "FINISHED",
+     "score": "3-2"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-23T19:00:00Z",
-     "home": "Ipswich Town",
-     "away": "Nottingham",
-     "status": "TIMED",
-     "score": null
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-23T18:45:00Z",
+     "home": "Brest",
+     "away": "Nice",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-23T19:00:00Z",
      "home": "Alavés",
      "away": "Málaga",
-     "status": "TIMED",
-     "score": null
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-23T19:00:00Z",
      "home": "Bolton",
      "away": "Middlesbrough",
-     "status": "TIMED",
-     "score": null
+     "status": "FINISHED",
+     "score": "1-5"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-23T19:00:00Z",
+     "home": "Ipswich Town",
+     "away": "Nottingham",
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-23T19:45:00Z",
      "home": "Vitória SC",
      "away": "Marítimo",
+     "status": "FINISHED",
+     "score": "5-0"
+    }
+   ],
+   "today": [
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-23T23:00:00Z",
+     "home": "Cruzeiro",
+     "away": "Clube do Remo",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T11:30:00Z",
+     "home": "Sheffield Utd",
+     "away": "Derby County",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T11:30:00Z",
+     "home": "Charlton",
+     "away": "Norwich",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T11:30:00Z",
+     "home": "Portsmouth",
+     "away": "Millwall",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-24T11:30:00Z",
+     "home": "Aston Villa",
+     "away": "Man City",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-24T12:00:00Z",
+     "home": "Rayo Vallecano",
+     "away": "Elche",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-24T13:00:00Z",
+     "home": "Cagliari",
+     "away": "Bologna",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-24T13:00:00Z",
+     "home": "Como 1907",
+     "away": "Sassuolo",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T13:30:00Z",
+     "home": "1. FC Köln",
+     "away": "Schalke",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T13:30:00Z",
+     "home": "Mainz",
+     "away": "Bremen",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T13:30:00Z",
+     "home": "Augsburg",
+     "away": "Union Berlin",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T13:30:00Z",
+     "home": "RB Leipzig",
+     "away": "Elversberg",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T13:30:00Z",
+     "home": "SC Paderborn",
+     "away": "HSV",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Cardiff",
+     "away": "Birmingham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Wolverhampton",
+     "away": "Watford",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Arsenal",
+     "away": "Everton",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Lincoln City",
+     "away": "Burnley",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Coventry City",
+     "away": "Fulham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Stoke",
+     "away": "Bristol City",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Preston NE",
+     "away": "West Brom",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "West Ham",
+     "away": "Southampton",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "QPR",
+     "away": "Swansea",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Blackburn",
+     "away": "Wrexham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-24T14:15:00Z",
+     "home": "Santander",
+     "away": "Espanyol",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-24T14:30:00Z",
+     "home": "Utrecht",
+     "away": "Zwolle",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-10-24T14:30:00Z",
+     "home": "Amadora",
+     "away": "Casa Pia",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-24T16:00:00Z",
+     "home": "Napoli",
+     "away": "Roma",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T16:30:00Z",
+     "home": "Dortmund",
+     "away": "Frankfurt",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-24T16:30:00Z",
+     "home": "Valencia",
+     "away": "Villarreal",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-24T16:30:00Z",
+     "home": "Chelsea",
+     "away": "Tottenham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-24T16:45:00Z",
+     "home": "Willem II",
+     "away": "Cambuur",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-10-24T17:00:00Z",
+     "home": "Alverca",
+     "away": "Arouca",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-24T18:45:00Z",
+     "home": "RC Lens",
+     "away": "Paris FC",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-24T18:45:00Z",
+     "home": "Lazio",
+     "away": "Parma",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-24T19:00:00Z",
+     "home": "Atleti",
+     "away": "Deportivo",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-24T19:00:00Z",
+     "home": "Den Haag",
+     "away": "Heerenveen",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-24T19:30:00Z",
+     "home": "Vitória",
+     "away": "Paranaense",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-24T19:30:00Z",
+     "home": "Internacional",
+     "away": "Botafogo",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-10-24T19:30:00Z",
+     "home": "Gil Vicente",
+     "away": "Porto",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-24T19:30:00Z",
+     "home": "Mirassol",
+     "away": "São Paulo",
      "status": "TIMED",
      "score": null
     }
@@ -112,9 +431,25 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "tomorrow": [
     {
      "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-23T23:00:00Z",
-     "home": "Cruzeiro",
-     "away": "Clube do Remo",
+     "kickoff_utc": "2026-10-24T21:30:00Z",
+     "home": "Palmeiras",
+     "away": "Bragantino",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-24T21:30:00Z",
+     "home": "Vasco da Gama",
+     "away": "Corinthians",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-24T22:30:00Z",
+     "home": "Chapecoense",
+     "away": "Fluminense",
      "status": "TIMED",
      "score": null
     }
@@ -440,90 +775,126 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
  "nba_data": {
   "games_last_night": [
    {
-    "home": "Philadelphia 76ers",
-    "away": "Cleveland Cavaliers",
-    "score": "114-106",
-    "status": "Final"
-   },
-   {
-    "home": "Oklahoma City Thunder",
-    "away": "Denver Nuggets",
-    "score": "96-84",
-    "status": "Final"
-   }
-  ],
-  "games_today": [
-   {
     "home": "Boston Celtics",
     "away": "New York Knicks",
-    "score": null,
-    "status": "2026-10-23T23:00:00Z"
+    "score": "107-103",
+    "status": "Final"
    },
    {
     "home": "San Antonio Spurs",
     "away": "Houston Rockets",
-    "score": null,
-    "status": "2026-10-24T01:30:00Z"
+    "score": "74-82",
+    "status": "3rd Qtr"
    },
    {
     "home": "Charlotte Hornets",
     "away": "Atlanta Hawks",
-    "score": null,
-    "status": "2026-10-23T23:00:00Z"
+    "score": "81-128",
+    "status": "Final"
    },
    {
     "home": "Indiana Pacers",
     "away": "Dallas Mavericks",
-    "score": null,
-    "status": "2026-10-23T23:00:00Z"
+    "score": "105-121",
+    "status": "Final"
    },
    {
     "home": "Orlando Magic",
     "away": "Minnesota Timberwolves",
-    "score": null,
-    "status": "2026-10-23T23:00:00Z"
+    "score": "93-115",
+    "status": "Final"
    },
    {
     "home": "Washington Wizards",
     "away": "Toronto Raptors",
-    "score": null,
-    "status": "2026-10-23T23:00:00Z"
+    "score": "102-112",
+    "status": "Final"
    },
    {
     "home": "Miami Heat",
     "away": "Detroit Pistons",
-    "score": null,
-    "status": "2026-10-24T00:00:00Z"
+    "score": "111-128",
+    "status": "Final"
    },
    {
     "home": "Milwaukee Bucks",
     "away": "Chicago Bulls",
-    "score": null,
-    "status": "2026-10-23T20:00:00Z"
+    "score": "125-132",
+    "status": "Final"
    },
    {
     "home": "Utah Jazz",
     "away": "New Orleans Pelicans",
-    "score": null,
-    "status": "2026-10-24T01:30:00Z"
+    "score": "89-92",
+    "status": "4th Qtr"
    },
    {
     "home": "Golden State Warriors",
     "away": "Memphis Grizzlies",
-    "score": null,
-    "status": "2026-10-24T02:00:00Z"
+    "score": "56-60",
+    "status": "2nd Qtr"
    },
    {
     "home": "Los Angeles Lakers",
     "away": "LA Clippers",
-    "score": null,
-    "status": "2026-10-24T02:00:00Z"
+    "score": "77-72",
+    "status": "3rd Qtr"
    },
    {
     "home": "Sacramento Kings",
     "away": "Portland Trail Blazers",
+    "score": "64-59",
+    "status": "3rd Qtr"
+   }
+  ],
+  "games_today": [
+   {
+    "home": "Charlotte Hornets",
+    "away": "Miami Heat",
     "score": null,
-    "status": "2026-10-24T02:00:00Z"
+    "status": "2026-10-24T22:00:00Z"
+   },
+   {
+    "home": "Cleveland Cavaliers",
+    "away": "Brooklyn Nets",
+    "score": null,
+    "status": "2026-10-24T23:30:00Z"
+   },
+   {
+    "home": "Philadelphia 76ers",
+    "away": "Milwaukee Bucks",
+    "score": null,
+    "status": "2026-10-24T23:30:00Z"
+   },
+   {
+    "home": "Atlanta Hawks",
+    "away": "Houston Rockets",
+    "score": null,
+    "status": "2026-10-25T00:30:00Z"
+   },
+   {
+    "home": "Chicago Bulls",
+    "away": "Washington Wizards",
+    "score": null,
+    "status": "2026-10-25T00:00:00Z"
+   },
+   {
+    "home": "Dallas Mavericks",
+    "away": "San Antonio Spurs",
+    "score": null,
+    "status": "2026-10-25T00:00:00Z"
+   },
+   {
+    "home": "Denver Nuggets",
+    "away": "New Orleans Pelicans",
+    "score": null,
+    "status": "2026-10-25T01:00:00Z"
+   },
+   {
+    "home": "Phoenix Suns",
+    "away": "Golden State Warriors",
+    "score": null,
+    "status": "2026-10-25T02:00:00Z"
    }
   ],
   "israeli_players": {
@@ -587,153 +958,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Forest's start raises questions - but belief in Glasner remains",
-     "published": "2026-10-23T08:14:50+00:00",
-     "summary": "Nottingham Forest go to Ipswich in the bottom three of the Premier League, but boss Oliver Glasner believes they have deserved more this season."
+     "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
+     "published": "2026-10-23T22:21:51+00:00",
+     "summary": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League."
     },
     {
      "ref": "bbc_football#1",
-     "title": "New Victor Moses? How Alonso has transformed Neto",
-     "published": "2026-10-23T07:57:27+00:00",
-     "summary": "Those following Chelsea closely may feel history is repeating itself as Pedro Neto excels at wing-back, much like Victor Moses did a decade ago."
+     "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
+     "published": "2026-10-23T22:15:29+00:00",
+     "summary": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay patient' as Forest's winless run stretched to four matches."
     },
     {
      "ref": "bbc_football#2",
-     "title": "EFL preview: 'Sleepless nights' for under pressure bosses",
-     "published": "2026-10-23T07:15:27+00:00",
-     "summary": "Norwich City head coach Philippe Clement, Sheffield Wednesday manager Henrik Pedersen and Bristol Rovers boss Steve Evans face scrutiny."
+     "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
+     "published": "2026-10-23T21:54:54+00:00",
+     "summary": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference."
     },
     {
      "ref": "bbc_football#3",
-     "title": "Podcast: Euro review & Scottish Premiership preview",
-     "published": "2026-10-23T07:00:00+00:00",
-     "summary": "Andy Burke, Scott Allan and Ewan Murray look ahead to the weekend's SPFL fixtures"
+     "title": "Borussia M'gladbach finally get first win after five-goal thriller",
+     "published": "2026-10-23T21:37:41+00:00",
+     "summary": "Bundesliga's bottom side Borussia Monchengladbach come from behind to beat Stuttgart 3-2, as the away side secure their first league win of the season, at the seventh attempt."
     },
     {
      "ref": "bbc_football#4",
-     "title": "Haaland captaincy headache - stick or twist? FPL gameweek eight dilemmas",
-     "published": "2026-10-23T06:56:15+00:00",
-     "summary": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek eight."
+     "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
+     "published": "2026-10-23T21:32:04+00:00",
+     "summary": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more."
     },
     {
      "ref": "bbc_football#5",
-     "title": "Infantino re-election hopes boosted by Asia support",
-     "published": "2026-10-23T06:48:46+00:00",
-     "summary": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation."
+     "title": "Spygate put me in difficult position - Southampton technical director",
+     "published": "2026-10-23T17:23:21+00:00",
+     "summary": "Southampton group technical director Johannes Spors says that the Spygate scandal put him in a \"difficult position\" over the summer."
     },
     {
      "ref": "bbc_football#6",
-     "title": "Injury issues mount at Hearts amid Milne & Borchgrevink blows - gossip",
-     "published": "2026-10-23T06:44:39+00:00",
-     "summary": "Injury blows mount for Hearts defender as Rangers defender challenges team-mates."
+     "title": "Kompany taken to hospital after collapsing at training",
+     "published": "2026-10-23T16:39:03+00:00",
+     "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday."
     },
     {
      "ref": "bbc_football#7",
-     "title": "What is going on at 'chaotic' Newcastle?",
-     "published": "2026-10-23T06:37:20+00:00",
-     "summary": "Will the alarm bells be ringing at Newcastle United if they lose to struggling Crystal Palace on Sunday?"
+     "title": "AFC Wimbledon's Skiverton diagnosed with cancer",
+     "published": "2026-10-23T15:45:07+00:00",
+     "summary": "AFC Wimbledon assistant manager Terry Skiverton is scheduled to begin treatment in the coming weeks after being diagnosed with throat cancer."
     },
     {
      "ref": "bbc_football#8",
-     "title": "Flat-track bullies Celtic continue descent into European irrelevance",
-     "published": "2026-10-23T06:26:23+00:00",
-     "summary": "BBC Scotland's Tom English reviews another frustrating night in Europe for the Scottish champions."
+     "title": "Premiership preview: Form strikers in focus and will Rangers respond?",
+     "published": "2026-10-23T15:39:58+00:00",
+     "summary": "An analysis of the key Scottish Premiership questions before Saturday and Sunday's fixtures."
     },
     {
      "ref": "bbc_football#9",
-     "title": "Flat-track bullies Celtic continue descent into European irrelevance",
-     "published": "2026-10-23T06:26:23+00:00",
-     "summary": "BBC Scotland's Tom English reviews another frustrating night in Europe for the Scottish champions."
+     "title": "Premiership preview: Form strikers in focus and will Rangers respond?",
+     "published": "2026-10-23T15:39:58+00:00",
+     "summary": "An analysis of the key Scottish Premiership questions before Saturday and Sunday's fixtures."
     },
     {
      "ref": "bbc_football#10",
-     "title": "Pride, prestige, profile - the great Ballon d'Or campaign",
-     "published": "2026-10-23T06:06:38+00:00",
-     "summary": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years."
+     "title": "Derby day - when Chelsea and Spurs meet, is chaos guaranteed?",
+     "published": "2026-10-23T14:49:59+00:00",
+     "summary": "Chelsea face Tottenham Hotspur in the Premier League this weekend - and BBC Sport looks back at five memorable matches between the London rivals."
     },
     {
      "ref": "bbc_football#11",
-     "title": "Have Man Utd become the unmanageable club?",
-     "published": "2026-10-23T05:56:04+00:00",
-     "summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty."
+     "title": "PSG v Lyon moved as Paris prepares for more protests",
+     "published": "2026-10-23T14:18:41+00:00",
+     "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests."
     },
     {
      "ref": "bbc_football#12",
-     "title": "Who am I? Plus today's other quizzes",
-     "published": "2026-10-23T05:32:12+00:00",
-     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+     "title": "Raskin happy at Rangers but unsure about January",
+     "published": "2026-10-23T14:11:42+00:00",
+     "summary": "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January."
     },
     {
      "ref": "bbc_football#13",
-     "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
-     "published": "2026-10-22T22:52:52+00:00",
-     "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?"
+     "title": "Raskin 'very happy' at Rangers but unsure about January",
+     "published": "2026-10-23T14:11:42+00:00",
+     "summary": "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January."
     },
     {
      "ref": "bbc_football#14",
-     "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
-     "published": "2026-10-22T22:52:52+00:00",
-     "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?"
+     "title": "Arsenal fear Saka could be out for two months",
+     "published": "2026-10-23T14:09:36+00:00",
+     "summary": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich."
     },
     {
      "ref": "bbc_football#15",
-     "title": "Man Utd chief keen on Howe - Friday's gossip",
-     "published": "2026-10-22T21:53:52+00:00",
-     "summary": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick."
+     "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+     "published": "2026-10-23T13:55:37+00:00",
+     "summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes."
     },
     {
      "ref": "bbc_football#16",
-     "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
-     "published": "2026-10-22T21:30:31+00:00",
-     "summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts."
+     "title": "Penicuik v Clyde in Scottish Cup postponed",
+     "published": "2026-10-23T12:22:01+00:00",
+     "summary": "Friday's Scottish Cup tie between Penicuik Athletic and Clyde has been postponed until Tuesday because of heavy rain."
     },
     {
      "ref": "bbc_football#17",
-     "title": "Fernandes' home burgled while in Italy with Man Utd",
-     "published": "2026-10-22T18:04:21+00:00",
-     "summary": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como."
+     "title": "Penicuik v Clyde in Scottish Cup postponed",
+     "published": "2026-10-23T12:22:01+00:00",
+     "summary": "Friday's Scottish Cup tie between Penicuik Athletic and Clyde has been postponed until Tuesday because of heavy rain."
     },
     {
      "ref": "bbc_football#18",
-     "title": "US to host first Women's Club World Cup in 2028",
-     "published": "2026-10-22T17:49:08+00:00",
-     "summary": "Arsenal are named as one of the teams to compete at the inaugural Women's Club World Cup, to be hosted in the United States in 2028."
+     "title": "Cost of football regulator double initial estimate",
+     "published": "2026-10-23T12:19:33+00:00",
+     "summary": "The annual cost to clubs of English football's Independent Regulator (IFR) has risen to £20.3m, around double the amount initially estimated."
     },
     {
      "ref": "bbc_football#19",
-     "title": "US to host first Women's Club World Cup in 2028",
-     "published": "2026-10-22T17:49:08+00:00",
-     "summary": "Arsenal are named as one of the teams to compete at the inaugural Women's Club World Cup, to be hosted in the United States in 2028."
+     "title": "Conte plays down 'unfounded' Man Utd speculation",
+     "published": "2026-10-23T12:15:53+00:00",
+     "summary": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United."
     },
     {
      "ref": "bbc_football#20",
-     "title": "BBC to show Cray Wanderers v Stockport & Altrincham v Notts County",
-     "published": "2026-10-22T16:31:24+00:00",
-     "summary": "Non-league clubs Altrincham and Cray Wanderers will stage the BBC's two chosen FA Cup first-round ties next month."
+     "title": "All you need to know about the 2026 Ballon d'Or",
+     "published": "2026-10-23T11:55:45+00:00",
+     "summary": "Our Ask Me Anything team tells you all you need to know about the 70th Ballon d'Or Ceremony."
     },
     {
      "ref": "bbc_football#21",
-     "title": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
-     "published": "2026-10-22T16:30:41+00:00",
-     "summary": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+     "title": "Emery's Villa 2.0 reboot restores optimism before Man City meeting",
+     "published": "2026-10-23T11:23:37+00:00",
+     "summary": "Unai Emery's impressive 2.0 reboot has Aston Villa's fans in buoyant mood on the fourth anniversary of his appointment, says chief football writer Phil McNulty."
     },
     {
      "ref": "bbc_football#22",
-     "title": "Fernandes to stay captain as Rooney calls Man Utd players babies",
-     "published": "2026-10-22T16:19:30+00:00",
-     "summary": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como."
+     "title": "Former Man United chief Murtough joins Birmingham",
+     "published": "2026-10-23T11:20:20+00:00",
+     "summary": "Birmingham City appoint ex-Manchester United chief John Murtough as director of football."
     },
     {
      "ref": "bbc_football#23",
-     "title": "What are Real's attacking options during Vinicius Jr ban?",
-     "published": "2026-10-22T15:33:29+00:00",
-     "summary": "Real Madrid’s attacking options are expanding under Jose Mourinho, with Endrick, Yan Diomande and Carlos Espi offering fresh solutions in the final third."
+     "title": "Ex-Arsenal director of football Edu to advise Northampton",
+     "published": "2026-10-23T10:27:27+00:00",
+     "summary": "Nottingham Forest's former global head of football Edu will serve as a senior advisor to the new owners of Northampton Town."
     },
     {
      "ref": "bbc_football#24",
-     "title": "Football Daily",
-     "published": "2026-10-22T15:16:00+00:00",
-     "summary": "Andy Mitten & Jay Motty join Rick & Lloyd to dissect Man United's disastrous night."
+     "title": "Failure on the field, unrest in stands - Burnley's horror 12 months",
+     "published": "2026-10-23T09:24:10+00:00",
+     "summary": "Burnley have failed to win a home league game in 12 months as they continue to struggle after relegation from the Premier League."
     }
    ]
   },
@@ -743,153 +1114,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Messi Reflects on How He Wants to Be Remembered After Retirement - Telecom Asia Sport",
-     "published": "2026-10-23T08:00:01+00:00",
-     "summary": "Messi Reflects on How He Wants to Be Remembered After Retirement Telecom Asia Sport"
-    },
-    {
-     "ref": "gnews_inter_miami#1",
-     "title": "Doubts surround Messi ahead of the Ballon d'Or ceremony - Goal.com",
-     "published": "2026-10-23T07:07:37+00:00",
-     "summary": "Doubts surround Messi ahead of the Ballon d'Or ceremony Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#2",
-     "title": "Prediction New York RB vs Inter Miami: analysis, odds and betting tips - BetMines",
-     "published": "2026-10-23T06:50:31+00:00",
-     "summary": "Prediction New York RB vs Inter Miami: analysis, odds and betting tips BetMines"
-    },
-    {
-     "ref": "gnews_inter_miami#3",
-     "title": "New York Red Bulls vs Inter Miami Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026 - Sportsgambler",
-     "published": "2026-10-23T06:07:28+00:00",
-     "summary": "New York Red Bulls vs Inter Miami Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026 Sportsgambler"
-    },
-    {
-     "ref": "gnews_inter_miami#4",
-     "title": "Inter Miami brings win streak into match against the New York Red Bulls - FOX Sports",
-     "published": "2026-10-23T06:04:00+00:00",
-     "summary": "Inter Miami brings win streak into match against the New York Red Bulls FOX Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
      "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
-     "published": "2026-10-23T05:12:59+00:00",
+     "published": "2026-10-24T02:13:10+00:00",
      "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
     },
     {
+     "ref": "gnews_inter_miami#1",
+     "title": "Inter Miami CF (@InterMiamiCF) on X - Howl.Link",
+     "published": "2026-10-24T00:26:37+00:00",
+     "summary": "Inter Miami CF (@InterMiamiCF) on X Howl.Link"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "Inter Miami congratulate Lionel Messi after receiving Princess of Asturias Award for Sports - World Soccer Talk",
+     "published": "2026-10-23T23:06:18+00:00",
+     "summary": "Inter Miami congratulate Lionel Messi after receiving Princess of Asturias Award for Sports World Soccer Talk"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
+     "title": "Lionel Messi looks past Ballon d'Or glory as Inter Miami star reveals how he wants to be remembered after retirement - Goal.com",
+     "published": "2026-10-23T23:04:54+00:00",
+     "summary": "Lionel Messi looks past Ballon d'Or glory as Inter Miami star reveals how he wants to be remembered after retirement Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
+     "title": "Match preview: Youth in the midfield fueling 5-Stripes before a Chicago Fire matchup to stay in playoff race - Atlanta United FC",
+     "published": "2026-10-23T23:01:26+00:00",
+     "summary": "Match preview: Youth in the midfield fueling 5-Stripes before a Chicago Fire matchup to stay in playoff race Atlanta United FC"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
+     "title": "Inter Miami CF Academy Teams Set for Action-Packed Tournament Weekend - Inter Miami CF",
+     "published": "2026-10-23T22:17:09+00:00",
+     "summary": "Inter Miami CF Academy Teams Set for Action-Packed Tournament Weekend Inter Miami CF"
+    },
+    {
      "ref": "gnews_inter_miami#6",
-     "title": "Major League Soccer - Goal.com",
-     "published": "2026-10-23T05:03:00+00:00",
-     "summary": "Major League Soccer Goal.com"
+     "title": "Red Bull New York’s Playoff Hopes on the Line Against Messi’s Inter Miami - Hooligan Soccer",
+     "published": "2026-10-23T22:15:00+00:00",
+     "summary": "Red Bull New York’s Playoff Hopes on the Line Against Messi’s Inter Miami Hooligan Soccer"
     },
     {
      "ref": "gnews_inter_miami#7",
-     "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
-     "published": "2026-10-23T04:57:29+00:00",
-     "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
+     "title": "How to watch Red Bulls vs Inter Miami match in the USA: Live stream and TV for 2026 MLS season - World Soccer Talk",
+     "published": "2026-10-23T21:46:17+00:00",
+     "summary": "How to watch Red Bulls vs Inter Miami match in the USA: Live stream and TV for 2026 MLS season World Soccer Talk"
     },
     {
      "ref": "gnews_inter_miami#8",
-     "title": "New York RB vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
-     "published": "2026-10-23T04:31:05+00:00",
-     "summary": "New York RB vs Inter Miami: Major League Soccer stats & head-to-head BBC"
+     "title": "Amid hectic travel plans, Lionel Messi leads Miami vs. Red Bulls - Charlotte Observer",
+     "published": "2026-10-23T21:41:07+00:00",
+     "summary": "Amid hectic travel plans, Lionel Messi leads Miami vs. Red Bulls Charlotte Observer"
     },
     {
      "ref": "gnews_inter_miami#9",
-     "title": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
-     "published": "2026-10-23T04:25:36+00:00",
-     "summary": "New York Red Bulls vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
+     "title": "Amid hectic travel plans, Lionel Messi leads Miami vs. Red Bulls - The Lufkin Daily News",
+     "published": "2026-10-23T21:35:02+00:00",
+     "summary": "Amid hectic travel plans, Lionel Messi leads Miami vs. Red Bulls The Lufkin Daily News"
     },
     {
      "ref": "gnews_inter_miami#10",
-     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
-     "published": "2026-10-23T03:46:04+00:00",
-     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
+     "title": "Lionel Messi receives an impressive ovation upon receiving the Princess of Asturias Award in Spain - Diario AS",
+     "published": "2026-10-23T21:35:00+00:00",
+     "summary": "Lionel Messi receives an impressive ovation upon receiving the Princess of Asturias Award in Spain Diario AS"
     },
     {
      "ref": "gnews_inter_miami#11",
-     "title": "New York Red Bulls v Inter Miami CF Odds - FanDuel Sportsbook",
-     "published": "2026-10-23T02:55:39+00:00",
-     "summary": "New York Red Bulls v Inter Miami CF Odds FanDuel Sportsbook"
+     "title": "Inter Miami chase fourth successive win at Red Bull New York - OneFootball",
+     "published": "2026-10-23T21:34:48+00:00",
+     "summary": "Inter Miami chase fourth successive win at Red Bull New York OneFootball"
     },
     {
      "ref": "gnews_inter_miami#12",
-     "title": "New York Red Bulls vs Inter Miami Prediction & Picks - Major League Soccer - SportyTrader",
-     "published": "2026-10-22T21:30:00+00:00",
-     "summary": "New York Red Bulls vs Inter Miami Prediction & Picks - Major League Soccer SportyTrader"
+     "title": "RBNYvsMIA 10-24-2026 - Inter Miami CF",
+     "published": "2026-10-23T21:30:18+00:00",
+     "summary": "RBNYvsMIA 10-24-2026 Inter Miami CF"
     },
     {
      "ref": "gnews_inter_miami#13",
-     "title": "Lionel Messi gets emotional in Spain ahead of prestigious award and reveals heartfelt memories of his fathe... - Pasión Fútbol",
-     "published": "2026-10-22T20:13:00+00:00",
-     "summary": "Lionel Messi gets emotional in Spain ahead of prestigious award and reveals heartfelt memories of his fathe... Pasión Fútbol"
+     "title": "Paul Pogba Linked With Inter Miami as Lionel Messi Reunion Remains Only a Possibility - Pasión Fútbol",
+     "published": "2026-10-23T21:00:00+00:00",
+     "summary": "Paul Pogba Linked With Inter Miami as Lionel Messi Reunion Remains Only a Possibility Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#14",
-     "title": "Playoff Watch! October 24 Edition - Union Soccer Blog",
-     "published": "2026-10-22T19:55:10+00:00",
-     "summary": "Playoff Watch! October 24 Edition Union Soccer Blog"
+     "title": "MATCH PREVIEW: Inter Miami CF Visits Red Bull New York in Search of Fourth Straight Win - Inter Miami CF",
+     "published": "2026-10-23T20:59:06+00:00",
+     "summary": "MATCH PREVIEW: Inter Miami CF Visits Red Bull New York in Search of Fourth Straight Win Inter Miami CF"
     },
     {
      "ref": "gnews_inter_miami#15",
-     "title": "Inter Miami wants to keep David Ayala and Matías Galarza as Kily González plans for the 2027 MLS season - Pasión Fútbol",
-     "published": "2026-10-22T19:45:00+00:00",
-     "summary": "Inter Miami wants to keep David Ayala and Matías Galarza as Kily González plans for the 2027 MLS season Pasión Fútbol"
+     "title": "After visiting Spain: will Messi watch El Clasico from the Camp Nou? - Goal.com",
+     "published": "2026-10-23T20:53:07+00:00",
+     "summary": "After visiting Spain: will Messi watch El Clasico from the Camp Nou? Goal.com"
     },
     {
      "ref": "gnews_inter_miami#16",
-     "title": "New York Red Bulls vs Inter Miami Preview, prediction, injury news & lineups | MLS 2026 - Khel Now",
-     "published": "2026-10-22T19:17:00+00:00",
-     "summary": "New York Red Bulls vs Inter Miami Preview, prediction, injury news & lineups | MLS 2026 Khel Now"
+     "title": "After visiting Spain: will Messi watch the Clasico from the Camp Nou? - LiveScore",
+     "published": "2026-10-23T20:52:24+00:00",
+     "summary": "After visiting Spain: will Messi watch the Clasico from the Camp Nou? LiveScore"
     },
     {
      "ref": "gnews_inter_miami#17",
-     "title": "Cristiano Ronaldo beats Lionel Messi in another major battle as Saudi Pro League star’s salary and net wort... - World Soccer Talk",
-     "published": "2026-10-22T19:11:57+00:00",
-     "summary": "Cristiano Ronaldo beats Lionel Messi in another major battle as Saudi Pro League star’s salary and net wort... World Soccer Talk"
+     "title": "New York Red Bulls vs Inter Miami Prediction and Betting Tips | October 24th 2026 - Sportskeeda",
+     "published": "2026-10-23T20:30:18+00:00",
+     "summary": "New York Red Bulls vs Inter Miami Prediction and Betting Tips | October 24th 2026 Sportskeeda"
     },
     {
      "ref": "gnews_inter_miami#18",
-     "title": "Matchday 32: Griezmann Mania, Messi's MVP chase & El Tráfico - Yahoo Sports",
-     "published": "2026-10-22T19:02:00+00:00",
-     "summary": "Matchday 32: Griezmann Mania, Messi's MVP chase & El Tráfico Yahoo Sports"
+     "title": "BY THE NUMBERS, pres. by NJ Lotto: Red Bull New York vs. Inter Miami CF - Red Bull New York",
+     "published": "2026-10-23T20:21:09+00:00",
+     "summary": "BY THE NUMBERS, pres. by NJ Lotto: Red Bull New York vs. Inter Miami CF Red Bull New York"
     },
     {
      "ref": "gnews_inter_miami#19",
-     "title": "MLS Odds, Matchday 32: Inter Miami, Nashville And LAFC Best Bets - RG.org",
-     "published": "2026-10-22T18:52:46+00:00",
-     "summary": "MLS Odds, Matchday 32: Inter Miami, Nashville And LAFC Best Bets RG.org"
+     "title": "KEYS TO THE GAME, pres. by Toyota: Red Bull New York vs. Inter Miami CF - Red Bull New York",
+     "published": "2026-10-23T20:04:37+00:00",
+     "summary": "KEYS TO THE GAME, pres. by Toyota: Red Bull New York vs. Inter Miami CF Red Bull New York"
     },
     {
      "ref": "gnews_inter_miami#20",
-     "title": "Neymar to Inter Miami rumors heat up again as Lionel Messi reunion gains momentum ahead of 2027 - Pasión Fútbol",
-     "published": "2026-10-22T18:45:00+00:00",
-     "summary": "Neymar to Inter Miami rumors heat up again as Lionel Messi reunion gains momentum ahead of 2027 Pasión Fútbol"
+     "title": "New York Red Bulls v Inter Miami CF Odds - FanDuel Sportsbook",
+     "published": "2026-10-23T19:25:24+00:00",
+     "summary": "New York Red Bulls v Inter Miami CF Odds FanDuel Sportsbook"
     },
     {
      "ref": "gnews_inter_miami#21",
-     "title": "Messi backed to reach 1,000 goals by Miami boss Gonzalez - Soccer News",
-     "published": "2026-10-22T18:38:02+00:00",
-     "summary": "Messi backed to reach 1,000 goals by Miami boss Gonzalez Soccer News"
+     "title": "Leo Messi Awarded the 2026 Princess of Asturias Award for Sports - Inter Miami CF",
+     "published": "2026-10-23T19:16:45+00:00",
+     "summary": "Leo Messi Awarded the 2026 Princess of Asturias Award for Sports Inter Miami CF"
     },
     {
      "ref": "gnews_inter_miami#22",
-     "title": "Neymar to Inter Miami? Anderson Backs Reunion With Lionel Messi and Luis Suárez - beIN SPORTS",
-     "published": "2026-10-22T18:34:11+00:00",
-     "summary": "Neymar to Inter Miami? Anderson Backs Reunion With Lionel Messi and Luis Suárez beIN SPORTS"
+     "title": "Lionel Messi Makes Inter Miami Commitment Clear After Asturias Award as Ballon d’Or Plans Remain Uncertain - Pasión Fútbol",
+     "published": "2026-10-23T18:58:11+00:00",
+     "summary": "Lionel Messi Makes Inter Miami Commitment Clear After Asturias Award as Ballon d’Or Plans Remain Uncertain Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#23",
-     "title": "Messi backed to reach 1,000 goals by Miami boss Gonzalez - beIN SPORTS",
-     "published": "2026-10-22T18:18:23+00:00",
-     "summary": "Messi backed to reach 1,000 goals by Miami boss Gonzalez beIN SPORTS"
+     "title": "Five Favorites to Win the 2026 MLS Cup—Ranked - Forza Football",
+     "published": "2026-10-23T18:00:03+00:00",
+     "summary": "Five Favorites to Win the 2026 MLS Cup—Ranked Forza Football"
     },
     {
      "ref": "gnews_inter_miami#24",
-     "title": "Lionel Messi receives massive welcome in Oviedo ahead of Princess of Asturias Award - Goal.com",
-     "published": "2026-10-22T18:05:22+00:00",
-     "summary": "Lionel Messi receives massive welcome in Oviedo ahead of Princess of Asturias Award Goal.com"
+     "title": "New York Red Bulls vs Inter Miami Predictions, Betting Tips & Live Stream - Eric Choupo-Moting to Score in MLS - FreeTips",
+     "published": "2026-10-23T17:53:13+00:00",
+     "summary": "New York Red Bulls vs Inter Miami Predictions, Betting Tips & Live Stream - Eric Choupo-Moting to Score in MLS FreeTips"
     }
    ]
   },
@@ -899,153 +1270,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
-     "published": "2026-10-23T02:16:34+00:00",
-     "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
+     "title": "NBA Most Improved Player Odds & Favorites for 2027 - sports.betmgm.com",
+     "published": "2026-10-23T20:46:54+00:00",
+     "summary": "NBA Most Improved Player Odds & Favorites for 2027 sports.betmgm.com"
     },
     {
      "ref": "gnews_israeli_nba#1",
+     "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
+     "published": "2026-10-23T19:07:22+00:00",
+     "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
+     "title": "Portland Trail Blazers at Sacramento Kings odds, picks and predictions - Lakeland Ledger",
+     "published": "2026-10-23T15:50:00+00:00",
+     "summary": "Portland Trail Blazers at Sacramento Kings odds, picks and predictions Lakeland Ledger"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
+     "title": "NBA Player Props: Best Bets for October 23, 2026 - BetUS",
+     "published": "2026-10-23T14:11:42+00:00",
+     "summary": "NBA Player Props: Best Bets for October 23, 2026 BetUS"
+    },
+    {
+     "ref": "gnews_israeli_nba#4",
+     "title": "3 Things I'm Watching For in Blazers vs. Kings - Sports Illustrated",
+     "published": "2026-10-23T13:00:06+00:00",
+     "summary": "3 Things I'm Watching For in Blazers vs. Kings Sports Illustrated"
+    },
+    {
+     "ref": "gnews_israeli_nba#5",
      "title": "Trail Blazers open season with rout, reunion, redemption and...fun - Herald and News",
      "published": "2026-10-22T20:16:00+00:00",
      "summary": "Trail Blazers open season with rout, reunion, redemption and...fun Herald and News"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#6",
      "title": "Blazers' Big 3 Crush Suns in Opener - 365Scores",
      "published": "2026-10-22T18:43:56+00:00",
      "summary": "Blazers' Big 3 Crush Suns in Opener 365Scores"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#7",
      "title": "Nets' Ben Saraf: No minutes against Charlotte - CBS Sports",
      "published": "2026-10-22T16:27:45+00:00",
      "summary": "Nets' Ben Saraf: No minutes against Charlotte CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#8",
      "title": "Bulls quickly learn why Josh Giddey isn't built to recreate Deni Avdija's leap - Rip City Project",
      "published": "2026-10-22T16:04:04+00:00",
      "summary": "Bulls quickly learn why Josh Giddey isn't built to recreate Deni Avdija's leap Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#9",
      "title": "Trail Blazers' Deni Avdija: Double-double in season opener - CBS Sports",
      "published": "2026-10-22T14:46:45+00:00",
      "summary": "Trail Blazers' Deni Avdija: Double-double in season opener CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#6",
-     "title": "Micah Nori Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026 - NBA.com",
-     "published": "2026-10-22T14:23:28+00:00",
-     "summary": "Micah Nori Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026 NBA.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#10",
      "title": "Jewish stars - The Jewish Standard",
      "published": "2026-10-22T14:00:00+00:00",
      "summary": "Jewish stars The Jewish Standard"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#11",
      "title": "Blazers' Ja Morant, Damian Lillard Debut Exposes Micah Nori's Backcourt Dilemma - roundtable.io",
      "published": "2026-10-22T12:21:44+00:00",
      "summary": "Blazers' Ja Morant, Damian Lillard Debut Exposes Micah Nori's Backcourt Dilemma roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 - The Ringer",
      "published": "2026-10-22T12:15:38+00:00",
      "summary": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 The Ringer"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija logs double-double Wednesday - FantasyPros",
      "published": "2026-10-22T06:56:45+00:00",
      "summary": "Deni Avdija logs double-double Wednesday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija active in Wendesday’s season opener - NBC Sports",
      "published": "2026-10-22T06:49:32+00:00",
      "summary": "Deni Avdija active in Wendesday’s season opener NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#12",
-     "title": "Damian Lillard Makes His Return To Portland, Leads Trail Blazers In Blowout Win Over The Suns - Rip City Radio 620 Portland",
-     "published": "2026-10-22T06:16:39+00:00",
-     "summary": "Damian Lillard Makes His Return To Portland, Leads Trail Blazers In Blowout Win Over The Suns Rip City Radio 620 Portland"
+     "ref": "gnews_israeli_nba#15",
+     "title": "Portland fans show love for Lillard in his return to court with Trail Blazers - Sportsnet.ca",
+     "published": "2026-10-22T06:05:00+00:00",
+     "summary": "Portland fans show love for Lillard in his return to court with Trail Blazers Sportsnet.ca"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#16",
+     "title": "Damian Lillard shines in return to Blazers during rout of Suns - Sacramento Bee",
+     "published": "2026-10-22T04:54:00+00:00",
+     "summary": "Damian Lillard shines in return to Blazers during rout of Suns Sacramento Bee"
+    },
+    {
+     "ref": "gnews_israeli_nba#17",
+     "title": "Damian Lillard Postgame Interview | Portland Trail Blazers 124, Phoenix Suns 83 | Oct. 21, 2026 - NBA.com",
+     "published": "2026-10-22T04:53:10+00:00",
+     "summary": "Damian Lillard Postgame Interview | Portland Trail Blazers 124, Phoenix Suns 83 | Oct. 21, 2026 NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#18",
      "title": "Portland Trail Blazers open 2026-27 NBA season - OregonLive.com",
      "published": "2026-10-22T04:50:45+00:00",
      "summary": "Portland Trail Blazers open 2026-27 NBA season OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#19",
      "title": "Lillard returns with 25 points, Morant debuts and the Blazers rout the Suns 124-83 - FOX Sports",
      "published": "2026-10-22T04:37:08+00:00",
      "summary": "Lillard returns with 25 points, Morant debuts and the Blazers rout the Suns 124-83 FOX Sports"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija remains questionable before Blazers vs. Suns as Toumani Camara watch looms - شبكة تواصل الإخبارية",
      "published": "2026-10-22T02:45:52+00:00",
      "summary": "Deni Avdija remains questionable before Blazers vs. Suns as Toumani Camara watch looms شبكة تواصل الإخبارية"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#21",
+     "title": "Deni Avdija Headlines Today’s NBA Injury Report: Wednesday 10/21/26 - DraftKings Network",
+     "published": "2026-10-22T01:31:40+00:00",
+     "summary": "Deni Avdija Headlines Today’s NBA Injury Report: Wednesday 10/21/26 DraftKings Network"
+    },
+    {
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija News: Good to go Wednesday - RotoWire",
      "published": "2026-10-22T01:06:25+00:00",
      "summary": "Deni Avdija News: Good to go Wednesday RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#17",
-     "title": "Final Injury Report for Suns-Trail Blazers: Will Deni Avdija, Damian Lillard Play? - AOL.com",
-     "published": "2026-10-21T22:00:00+00:00",
-     "summary": "Final Injury Report for Suns-Trail Blazers: Will Deni Avdija, Damian Lillard Play? AOL.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#18",
-     "title": "Experts release final Blazers vs. Suns predictions: Deni Avdija injury update, line moves and model best bets - OregonLive.com",
-     "published": "2026-10-21T21:09:00+00:00",
-     "summary": "Experts release final Blazers vs. Suns predictions: Deni Avdija injury update, line moves and model best bets OregonLive.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#19",
-     "title": "Deni Avdija NBA stats: averages by season - BasketNews.com",
-     "published": "2026-10-21T20:00:40+00:00",
-     "summary": "Deni Avdija NBA stats: averages by season BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Fantasy Basketball Week 1 Injury Report: Deni Avdija questionable, AJ Dybantsa out for opener - Yahoo Sports",
-     "published": "2026-10-21T16:30:00+00:00",
-     "summary": "Fantasy Basketball Week 1 Injury Report: Deni Avdija questionable, AJ Dybantsa out for opener Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
-     "title": "Ben Saraf EuroCup stats: averages by season - BasketNews.com",
-     "published": "2026-10-21T15:52:16+00:00",
-     "summary": "Ben Saraf EuroCup stats: averages by season BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Is Deni Avdija playing tonight? Blazers vs. Suns injury report to open season - Yahoo Sports",
-     "published": "2026-10-21T15:29:05+00:00",
-     "summary": "Is Deni Avdija playing tonight? Blazers vs. Suns injury report to open season Yahoo Sports"
-    },
-    {
      "ref": "gnews_israeli_nba#23",
-     "title": "A surprise name lands on Trail Blazers’ injury report for season opener - OregonLive.com",
-     "published": "2026-10-21T13:28:00+00:00",
-     "summary": "A surprise name lands on Trail Blazers’ injury report for season opener OregonLive.com"
+     "title": "Trail Blazers' Deni Avdija: Good to go Wednesday - CBS Sports",
+     "published": "2026-10-22T01:06:25+00:00",
+     "summary": "Trail Blazers' Deni Avdija: Good to go Wednesday CBS Sports"
     },
     {
      "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija’s injury status becomes key story ahead of Phoenix Suns vs. Portland Trail Blazers - Yardbarker",
-     "published": "2026-10-21T05:00:39+00:00",
-     "summary": "Deni Avdija’s injury status becomes key story ahead of Phoenix Suns vs. Portland Trail Blazers Yardbarker"
+     "title": "Deni Avdija regular season stats: averages by season - BasketNews.com",
+     "published": "2026-10-22T00:58:29+00:00",
+     "summary": "Deni Avdija regular season stats: averages by season BasketNews.com"
     }
    ]
   }

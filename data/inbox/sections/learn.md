@@ -24,150 +24,153 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2022,
-   "text": "Myanmar civil war: Burmese military forces launched airstrikes that killed at least 80 concertgoers in Kachin State.",
+   "year": 2015,
+   "text": "Lam Wing-kee, the owner of Causeway Bay Books in Hong Kong, known for publishing political books banned in mainland China, was abducted by Chinese authorities.",
    "context": [
-    "The Myanmar civil war began following the military coup on 1 February 2021. The seizure of power triggered mass anti-coup demonstrations and a violent crackdown by the Tatmadaw, which significantly escalated the country's longstanding insurgencies."
+    "Lam Wing-kee was a Hong Kong businessman and book seller. He was the owner of Causeway Bay Books in Taipei, a book store first located in Causeway Bay in Hong Kong and best known for its provision of politically related publications. In late 2015, he went missing along with four other staff members of the book store, sparking international concern."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2022,
-   "text": "Pakistani journalist Arshad Sharif is shot and killed by local police in Kajiado, Kenya.",
+   "year": 2004,
+   "text": "English football club Manchester United defeated rivals Arsenal 2–0 in the Battle of the Buffet, ending the latter's record-breaking unbeaten run.",
    "context": [
-    "Arshad Sharif was a Pakistani journalist, writer, and news anchor. He specialized in investigative journalism and covered many political events in the country for national and international news organisations. On 23 March 2019, he was awarded the Pride of Performance by the President of Pakistan Arif Alvi, for his contribution to journalism. He was shot and killed by police in Kenya on 22 October 2022. A 592-page report by the Pakistani Federal Investigation Agency (FIA) revealed the killing to be a “planned targeted assassination,\" claiming that Kenyan police were \"used as instruments.\" He was an outspoken critic of the Pakistani army."
+    "Manchester United Football Club, commonly referred to as Man United or simply United, is a professional football club based in Old Trafford, Greater Manchester, England. They compete in the Premier League, the top tier of English football. Manchester United are among the most successful football clubs in England, as well as one of the most successful football clubs in the world. Domestically, they have won a joint-record twenty top-flight league titles, thirteen FA Cups, six League Cups and a record twenty-one FA Community Shields. Additionally, in international football, they have won the European Cup/UEFA Champions League three times, and the UEFA Europa League, the UEFA Cup Winners' Cup, the UEFA Super Cup, the Intercontinental Cup and the FIFA Club World Cup once each."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2018,
-   "text": "An escalator accident in Rome left 24 people injured, mostly fans of the CSKA Moscow football team who were in town for a UEFA Champions League match against Roma.",
+   "year": 2003,
+   "text": "The inaugural Afro-Asian Games opened in Hyderabad, with 2,040 athletes from 96 nations competing.",
    "context": [
-    "On 23 October 2018, twenty-four people, mostly fans of the CSKA Moscow football team, were injured after a crowded escalator at a Rome Metro station malfunctioned. It suddenly sped up, and hurled people down the escalator."
+    "The 2003 Afro-Asian Games, officially known as the First Afro-Asian Games or I Afro-Asian Games and unofficially known as the Inaugural Afro-Asian Games, was a major international multi-sport event held in Hyderabad, India, from 24 October to 1 November 2003."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2015,
-   "text": "Hurricane Patricia, the most intense tropical cyclone on record in the Western Hemisphere, peaked with maximum sustained winds of 215 mph (345 km/h) south of Mexico.",
+   "year": 1975,
+   "text": "In protest against wage discrepancy and unfair employment practices, 90 percent of Iceland's female population went on strike for a day.",
    "context": [
-    "Hurricane Patricia was the most powerful tropical cyclone on record worldwide in terms of maximum sustained winds. It was also the second-most intense on record worldwide in terms of pressure, with a minimum atmospheric pressure of 872 mbar (25.75 inHg), just behind Typhoon Tip's 870 mbar (25.69 inHg). Originating from a sprawling disturbance near the Gulf of Tehuantepec, south of Mexico, in mid-October 2015, Patricia was first classified as a tropical depression on October 20. Initial development was slow, with only modest strengthening within the first day of its classification. The system later became a tropical storm and was named Patricia, the twenty-fourth named storm of the 2015 Pacific hurricane season. Exceptionally favorable environmental conditions fueled explosive intensification on October 22. A well-defined eye developed within an intense central dense overcast and Patricia grew from a tropical storm to a Category 5 hurricane in just 24 hours—a near-record pace. On October 23, the hurricane achieved its record peak intensity with maximum sustained winds of 215 mph (345 km/h). This made it the most intense tropical cyclone on record in the Western Hemisphere and the strongest globally in terms of one-minute maximum sustained winds. As Patricia neared its peak strength, the cyclone began to turn east-northeast towards Mexico."
+    "The gender pay gap or gender wage gap is the average difference between the remuneration for men and women who are employed. In most countries, women are paid less than men for the same work.non-adjusted pay gap is the average difference in yearly earnings between male and female workers\nadjusted pay gap is the difference between how much men and women make for the same work, and it takes into account differences in hours worked, occupations chosen, education attained, and job experience."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 2011,
-   "text": "During the Malaysian motorcycle Grand Prix, Marco Simoncelli (pictured) collided with two other riders, resulting in his death due to serious trauma to the head, neck, and chest.",
+   "year": 1972,
+   "text": "Three people were killed when falsework collapsed during the construction of the Loddon Bridge in Berkshire, leading to reform of construction practices in the UK.",
    "context": [
-    "The 2011 Malaysian motorcycle Grand Prix was the seventeenth round of the 2011 Grand Prix motorcycle racing season. It took place on the weekend of 21–23 October 2011 at the Sepang International Circuit, but the MotoGP race was red-flagged and subsequently cancelled after two laps due to a serious accident involving Marco Simoncelli. Simoncelli fell while running fourth, his bike and body veering across the path of Colin Edwards and Valentino Rossi. Simoncelli was fatally struck in the head and chest by the two bikes. He was taken straight to the circuit's medical centre, but died of his injuries shortly thereafter."
+    "Falsework consists of temporary structures used in construction to support a permanent structure until its construction is sufficiently advanced to support itself. For arches, this is specifically called centering. Falsework includes temporary support structures for formwork used to mold concrete in the construction of buildings, bridges, and elevated roadways."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 2001,
-   "text": "Grand Theft Auto III was released, helping to popularize open-world and mature-content video games.",
+   "year": 1964,
+   "text": "Charges in a military court against generals Dương Văn Đức and Lâm Văn Phát of leading a coup attempt against South Vietnamese leader Nguyễn Khánh, were dropped.",
    "context": [
-    "Grand Theft Auto III is a 2001 action-adventure game developed by DMA Design and published by Rockstar Games. It is the first 3D game in the Grand Theft Auto series. Set in Liberty City, loosely based on New York City, the game follows Claude, a silent protagonist who becomes entangled in a world of crime, drugs, gang warfare, and corruption while pursuing revenge against his ex-girlfriend. The game is played from a third-person perspective and its world is navigated on foot or by vehicle. Its open world design lets the player freely roam Liberty City, which consists of three islands."
+    "Lieutenant General Dương Văn Đức was a Vietnamese army officer. He is best known for leading a coup attempt against General Nguyễn Khánh on 14 September 1964. He was a supporter of the Đại Việt Quốc Dân Đảng, a Roman Catholic political movement."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1995,
-   "text": "The runway show for Alexander McQueen's collection The Hunger was staged at London's Natural History Museum.",
+   "year": 1949,
+   "text": "The cornerstone of the United Nations headquarters was laid in New York City.",
    "context": [
-    "Lee Alexander McQueen was a British fashion designer and couturier. Known for his unconventional designs, he was one of the most influential fashion designers in the world from the early 1990s until his death by suicide in 2010. His brand, Alexander McQueen, is now owned by Gucci and remains active. McQueen was presented with four British Designer of the Year awards as well as being named the International Designer of the Year in 2003. That same year, he was also made a Commander of the Order of the British Empire for his work in fashion."
+    "The headquarters of the United Nations (UN) is on 17 to 18 acres of grounds in the Turtle Bay neighborhood of Midtown Manhattan in New York City, United States. It borders First Avenue to the west, 42nd Street to the south, 48th Street to the north, and the East River to the east. Completed in 1952, the complex consists of several structures, including the Secretariat, Conference, and General Assembly buildings, and the Dag Hammarskjöld Library. The complex was designed by a board of architects led by Wallace Harrison and built by the architectural firm Harrison & Abramovitz, with final projects developed by Oscar Niemeyer and Le Corbusier. The term Turtle Bay is occasionally used as a metonym for the UN headquarters or United Nations as a whole."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1972,
-   "text": "Vietnam War: Operation Linebacker, a U.S. bombing campaign against North Vietnam in response to its Easter Offensive, ended after five months.",
+   "year": 1945,
+   "text": "The Charter of the United Nations entered into force after being ratified by the five permanent members of the Security Council and a majority of the other signatories.",
    "context": [
-    "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975."
+    "The Charter of the United Nations, also referred to as the UN Charter, is the foundational treaty of the United Nations that founded the organization. It establishes the purposes, governing structure, and overall framework of the United Nations System, including its principal organs: the Secretariat, the General Assembly, the Security Council, the Economic and Social Council, the International Court of Justice, and the Trusteeship Council. The UN Charter is an important part of public international law, and is the foundation for much of international law governing the use of force, pacific settlement of disputes, arms control, and other important functions of the maintenance of international peace and security."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1957,
-   "text": "A screening of Mother India, one of the most influential Indian films in history, was held for President Rajendra Prasad and Prime Minister Jawaharlal Nehru two days before its release.",
-   "context": [
-    "Mother India is a 1957 Indian epic drama film, directed by Mehboob Khan and starring Nargis, Sunil Dutt, Rajendra Kumar and Raaj Kumar. A remake of Khan's earlier film Aurat (1940), it is the story of a poverty-stricken village woman named Radha (Nargis), who in the absence of her husband, struggles to raise her sons and survive against a cunning money-lender amidst many troubles."
-   ]
-  },
-  {
-   "ref": "wikipedia#9",
-   "year": 1956,
-   "text": "The Hungarian Revolution began as a peaceful student demonstration that attracted thousands while marching through central Budapest to the parliament building.",
-   "context": [
-    "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). The uprising lasted 15 days before being crushed by Soviet tanks and troops on 7 November 1956. Thousands were killed or wounded, and nearly a quarter of a million Hungarians fled the country."
-   ]
-  },
-  {
-   "ref": "wikipedia#10",
-   "year": 1955,
-   "text": "The State of Vietnam voted in a referendum to become a republic.",
-   "context": [
-    "The State of Vietnam was a state in Southeast Asia that existed from 1949 until 1955, initially as an associated state in the French Union and later as a fully independent state. The state claimed authority over all of Vietnam during the First Indochina War and administered urban areas with large populations, while much of the remote territory was controlled by the Democratic Republic of Vietnam."
-   ]
-  },
-  {
-   "ref": "wikipedia#11",
-   "year": 1942,
-   "text": "World War II: Japanese troops began an unsuccessful attempt to recapture Henderson Field on Guadalcanal in the Solomon Islands from American forces.",
+   "year": 1944,
+   "text": "World War II: The Japanese battleship Musashi, one of the heaviest and most powerfully armed ever constructed, was sunk by American aircraft during the Battle of Leyte Gulf.",
    "context": [
     "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
-   "ref": "wikipedia#12",
-   "year": 1934,
-   "text": "Jeannette Piccard (pictured) piloted a hot-air balloon flight that reached 57,579 feet (17,550 m), becoming the first woman to fly in the stratosphere.",
+   "ref": "wikipedia#9",
+   "year": 1931,
+   "text": "The George Washington Bridge (pictured), connecting Manhattan, New York City, to Fort Lee, New Jersey, and today the world's busiest motor-vehicle bridge, was dedicated.",
    "context": [
-    "Jeannette Ridlon Piccard was an American high-altitude balloonist, and in later life an Episcopal priest, one of the Philadelphia Eleven. She held the women's altitude record for nearly three decades, and according to several contemporaneous accounts was regarded as the first woman in space."
+    "The George Washington Bridge is a double-decked suspension bridge spanning the Hudson River, connecting Fort Lee in Bergen County, New Jersey, with the Washington Heights neighborhood of Manhattan, New York City. It is named after George Washington, a Founding Father of the United States and the country's first president. The George Washington Bridge is the world's busiest motor vehicle bridge, carrying a traffic volume of over 101 million motor vehicles in 2025, and is the world's only suspension bridge with 14 vehicular lanes. The George Washington Bridge measures 4,760 feet (1,450 m) long, and its main span is 3,500 feet (1,100 m) long. It was the longest main bridge span in the world from its 1931 opening until the Golden Gate Bridge in San Francisco opened in 1937."
+   ]
+  },
+  {
+   "ref": "wikipedia#10",
+   "year": 1930,
+   "text": "The Pacification Junta deposed Brazillian president Washington Luís, ending the Brazilian Revolution of 1930.",
+   "context": [
+    "The Brazilian military junta of 1930, also known as the Pacification Junta, seized power during the Revolution of 1930 and governed Brazil from 24 October to 3 November 1930, when the junta leaders handed power over to revolutionary leader Getúlio Vargas."
+   ]
+  },
+  {
+   "ref": "wikipedia#11",
+   "year": 1929,
+   "text": "On \"Black Thursday\", the New York Stock Exchange lost 11 percent of its value at the opening bell on very heavy trading, marking the beginning of the Great Depression.",
+   "context": [
+    "The Wall Street crash of 1929, also known as the Great Crash, was a major stock market crash in the United States which began in October 1929 with a sharp decline in prices on the New York Stock Exchange (NYSE). It triggered a rapid erosion of confidence in the U.S. banking system and marked what would later cascade into the worldwide Great Depression that lasted until the United States entered into World War II on December 8, 1941, making it the most devastating crash in the country's history. It is most associated with October 24, 1929, known as \"Black Thursday\", when a record 12.9 million shares were traded on the exchange, and October 29, 1929, or \"Black Tuesday\", when some 16.4 million shares were traded."
+   ]
+  },
+  {
+   "ref": "wikipedia#12",
+   "year": 1889,
+   "text": "Sir Henry Parkes, Premier of the Colony of New South Wales, gave a speech in which he called for the federation of the six Australian colonies.",
+   "context": [
+    "Sir Henry Parkes, was a colonial Australian politician and the longest-serving non-consecutive premier of the Colony of New South Wales, the present-day state of New South Wales in the Commonwealth of Australia. He has been referred to as the \"Father of Federation\" due to his early promotion for the federation of the six colonies of Australia, as an early critic of British convict transportation and as a proponent for the expansion of the Australian continental rail network."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1906,
-   "text": "Alberto Santos-Dumont flew his biplane 14-bis for 50 metres (160 ft) at an altitude of about four metres (13 ft).",
+   "year": 1885,
+   "text": "The Russian ship Dmitry ran aground in Whitby, an incident that inspired the arrival of Count Dracula to England in Bram Stoker's 1897 novel (cover pictured).",
    "context": [
-    "Alberto Santos-Dumont was a Brazilian aeronaut, sportsman, inventor, and one of the few people to have contributed significantly to the early development of both lighter-than-air and heavier-than-air aircraft. The heir of a wealthy family of coffee producers, he dedicated himself to aeronautical study and experimentation in Paris, where he spent most of his adult life. He designed, built, and flew the first powered airships and won the Deutsch prize in 1901, when he flew around the Eiffel Tower in his airship No. 6, becoming one of the most famous people in the world in the early 20th century."
+    "Dmitry was a Russian cargo ship that was wrecked at Whitby, England, in 1885. The vessel had been travelling from Antwerp, Belgium, to Newcastle upon Tyne, England, when she sought safe harbour in Whitby during a gale on 24 October. She escaped rocks outside the harbour but drifted onto a sand bar and was wrecked there the following day. The wreck came to the attention of author Bram Stoker during a visit to the town in 1890 and served as the inspiration for the Demeter in his gothic horror novel Dracula."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1850,
-   "text": "The inaugural National Women's Rights Convention, presided over by American activist Paulina Wright Davis (pictured), began in Worcester, Massachusetts.",
+   "year": 1851,
+   "text": "Umbriel and Ariel, the third- and fourth-largest moons of Uranus, were discovered by William Lassell.",
    "context": [
-    "The National Women's Rights Convention was an annual series of meetings that increased the visibility of the early women's rights movement in the United States. First held in 1850 in Worcester, Massachusetts, the National Women's Rights Convention combined both female and male leadership and attracted a wide base of support including temperance advocates and abolitionists. Speeches were given on the subjects of equal wages, expanded education and career opportunities, women's property rights, marriage reform, and temperance. Chief among the concerns discussed at the convention was the passage of laws that would give women the right to vote."
+    "Umbriel is the third-largest moon of Uranus. It was discovered on October 24, 1851, by William Lassell at the same time as neighboring moon Ariel. It was named after a character in Alexander Pope's 1712 poem The Rape of the Lock. Umbriel consists mainly of ice with a substantial fraction of rock, and may be differentiated into a rocky core and an icy mantle. The surface is the darkest among Uranian moons and appears to have been shaped primarily by impacts; however, the presence of canyons suggests early internal processes. The moon may have undergone an early endogenically driven resurfacing event that obliterated its older surface."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1798,
-   "text": "War of the Second Coalition: The Ottoman–Albanian forces of Ali Pasha of Janina defeated French troops and captured the town of Preveza at the Battle of Nicopolis.",
+   "year": 1796,
+   "text": "War of the First Coalition: The Battle of Schliengen was fought between the French and Austrian armies, who both claimed victory.",
    "context": [
-    "The War of the Second Coalition (1798–1802) was the second war between revolutionary France and a coalition of European monarchies, led by Britain, Austria and Russia, and including the Ottoman Empire, Portugal, Naples and various German monarchies. Prussia did not join the coalition, while Spain supported France."
+    "The War of the First Coalition was a set of wars between a coalition of several European powers and France fought from 1792 to 1797. The coalition was only loosely allied and fought without much coordination; each power wanted to annex a different part of France should they defeat the French, something that never occurred."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1641,
-   "text": "Irish Catholic gentry in Ulster tried to seize control of Dublin Castle, the seat of English rule in Ireland, to force concessions to Catholics.",
+   "year": 1789,
+   "text": "The Brabant Revolution, sometimes considered to be the first expression of Belgian nationalism, began with the invasion of the Austrian Netherlands by an émigré army from the Dutch Republic.",
    "context": [
-    "Ulster is one of the four historical provinces of Ireland, located in the northern part of the island. It is made up of nine counties, with six of these comprising Northern Ireland, while the remaining three are in the Republic of Ireland."
+    "The Brabant Revolution or Brabantine Revolution, sometimes referred to as the Belgian Revolution of 1789–1790 in older writing, was an armed insurrection that occurred in the Austrian Netherlands between October 1789 and December 1790. The revolution, which occurred at the same time as revolutions in France and Liège, led to the brief overthrow of Habsburg rule and the proclamation of a short-lived polity, the United Belgian States."
    ]
   },
   {
    "ref": "wikipedia#17",
-   "year": 1157,
-   "text": "The Battle of Grathe Heath ended the Danish Civil War.",
+   "year": 1260,
+   "text": "Qutuz (bust pictured), the sultan of Egypt, was assassinated and replaced by fellow Mamluk leader Baybars.",
    "context": [
-    "The Battle of Grathe Heath was fought in 1157 between the Danish armies of Valdemar I and his rival for the Danish throne, Sweyn III. Valdemar's forces won the battle, and Sweyn III was slain while attempting to flee."
+    "Sayf ad-Din Qutuz, also romanized as Kutuz or Kotuz and fully al-Malik al-Muẓaffar Sayf ad-Dīn Quṭuz, was the Mamluk Sultan of Egypt. He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Vendor lock-in (נעילת ספק)",
+  "Pivot to profitability (מעבר לרווחיות)",
+  "Herding cats (לרעות חתולים)",
   "Headwinds / tailwinds (רוחות נגד / רוחות גב)",
   "Bootstrapped (ממומן מהכיס / מיזם שהתנהל ללא גיוס הון)",
   "A rising tide lifts all boats (גאות מרימה את כל הסירות)",

@@ -1,23 +1,63 @@
-Awe is that transcendent feeling of stepping out of the quotidian and encountering something vast, mysterious and beyond your comprehension. The experience is a human universal, deeply rooted in our evolutionary history to make us feel connected to the world beyond us. And, as Dacher Keltner, distinguished professor of psychology at the University of California, Berkeley, explores in this video, you don’t need to summit Mount Kilimanjaro, or head to the Arctic to see the Northern Lights, to enjoy its myriad rewards. Rather, awe is all around us, if you know where to look. Borrowing from ideas in his book Awe: The New Science of Everyday Wonder and How It Can Transform Your Life (2023), Keltner details how awe works, why it benefits us and how we can feel more of it in our everyday lives.
+is a philosopher working in the Department of Humanities at Pompeu Fabra University in Barcelona, Spain. His main interests are in communication, the nature of thought and concepts, and related areas of philosophy of language and cognitive science. He is a co-editor of Sharing Thoughts: Philosophical Perspectives on Intersubjectivity and Communication (2025).
 
-For more on how to find awe in your daily life, read this Psyche Guide.
+is a philosopher working in the Department of Humanities at Pompeu Fabra University in Barcelona, Spain. His main interests are in communication, the nature of thought and concepts, and related areas of philosophy of language and cognitive science. He is a co-editor of Sharing Thoughts: Philosophical Perspectives on Intersubjectivity and Communication (2025).
 
-Video by the University of California and the Greater Good Science Center
+Most of us have had the experience of looking into someone’s eyes and sensing that we know what’s on their mind. Not much is needed for this sense of knowing what someone is thinking: some words, a gesture, a smile, or just a shared gaze. Friends exchange comments about their day and nod affirmatively. Parents utter ‘Oh my God’ as they watch their toddler take a first step. Commuters give each other a weary glance as the train pulls away without them. Encounters like these involve a meeting of minds – we feel that we understand and are understood.
 
-Video by the University of California and the Greater Good Science Center
+Having the opportunity to connect with others in this way is gratifying. It provides a sense of belonging to a wider sphere, a sphere where your thoughts and your meanings are not just your thoughts and your meanings. Where they are open to another. When communication unfolds successfully – when the click happens, or insofar as the click happens – you and another person can seem to be thinking the same thing.
 
-Awe might seem an unobtainable luxury to many but, with the right approach, you can enjoy it daily – no mountain required
+This idea transpires in the way people talk: we tend to speak as if we literally share thoughts, as though ideas can flow seamlessly from one mind to another. We often say that we ‘think the same’ or ‘know what’s on somebody’s mind’ or ‘get our thoughts across’. These are natural illustrations of how much people unreflectively rely on the idea that thoughts are not only shareable but indeed are ordinarily shared in our communicative exchanges.
 
-Alongside love, sleep and play, awe is precious for children. There are small, everyday ways to make it a part of their lives
+This intuitive picture is old and powerful. Yet the notion that people think the very same thought in successful communication has come under increasing scrutiny. Contemporary philosophers argue that what seems like straightforward thought-sharing is more complex, and more interesting, than the familiar metaphors suggest. They both challenge this natural idea and show that understanding each other plausibly involves thinking differently from each other. Realising this can help us see how communication really works.
 
-Experiencing awe in nature can transform our sense of connectedness to other people and help maintain a spiritual vitality
+The idea that communication and understanding are built on shared thoughts has a long history. Plato influentially suggested that ideas involved in our knowledge and talk are in fact unchanging, perfect forms inhabiting a separate realm – a shared eidetic foundation of reality. Augustine of Hippo, in De doctrina Christiana (397-426), expressed the view that signs are used to ‘transmit to another’s mind what is in the mind of the person who gives the sign’. But the basic schema that informs our communicative intuitions nowadays was more clearly proclaimed in the modern period. In the third book of An Essay Concerning Human Understanding (1689), John Locke contended that the purpose of communication via language is the transfer of thoughts or ideas from one person to another:
 
-Why the life-long disposition towards wonder – not the momentary experience of awe – is the way to knowledge and discovery
+This view persisted from the 19th century to the present, in the work of philosophical giants such as Gottlob Frege, H P Grice and Robert Stalnaker, among others. Frege, for instance, advocated a conception of shareable thoughts that result in a ‘common stock’ consistent with logic and science. Stalnaker developed an influential framework for communicative contexts resting on the notion of a ‘common ground’, or information shared by the speakers in a conversation.
 
-Rare moments of wonder at the mere existence of things – rather than the dramatic or new – involve perceiving with the soul
+Whereas these and other works clearly align with the idea of thought-sharing, recent developments in thinking about the nature of communication suggest a more nuanced picture. Sometimes, of course, people suffer dramatic misalignment and just miscommunicate; the thought doesn’t get across, and they don’t understand each other. But even when communication succeeds in practical terms, there is often diversity and mismatch in what we’re thinking.
 
-That childhood urge to ask ‘how’ and ‘why’ usually fades. But we can all learn to rediscover the joys of wide-eyed discovery
+Effective communication is consistent with – and may even require – differences in thought
 
-Reflecting on the potential for extraterrestrial life can inspire awe and have a profound effect on your worldview
+Suppose that, after a hard day’s work, you tell me, irascibly: ‘I had an awful day at work,’ to which I respond:, ‘I see.’ Here, there is a sense in which I perfectly understand what you said. But there are two ways in which this falls short of thought-sharing in the common sense of the term. First, your thought might be extremely rich – filled with feelings of frustration and details of the whole lot of things that have gone wrong throughout the day. But communication, in this case, doesn’t require us to share all of that. Moreover, even if you were to tell me all the ins and outs, there is some quality of the thought that can hardly be shared: after all, it is your job and your frustration. Even if I sympathise, it can barely affect me and my behaviour in the same way it affects yours.
 
-Trying to fix your self-image can trap you in the problem. The awe of nature truly heals by taking you outside of yourself
+People rarely, if ever, communicate about things as if from nowhere. Each of us must occupy a distinctive space, a point of view, with our own background knowledge, memories and current experience regarding the matters we talk about. A popular example from John Perry illustrates this cleanly: suppose that you are in the mountains with a hiking partner, and a bear starts to approach them. In fright, they shout: ‘A bear is about to attack me!’ You understand that they are in danger, so you run to get help while your partner defensively curls up into a ball. But if you completely shared your partner’s thought – which would include thought content about an imminent threat to the self, from their perspective – then you would behave in the same way that they do and curl up too.
+
+In this case, as well as in more ordinary cases, effective communication is consistent with – and may even require – differences in thought. Our cognitive lives are, after all, so different. Our beliefs, backgrounds and sensibilities influence the specific content of our thoughts, and they can never really be the same from one thinker to the next.
+
+In the science-fiction trope of the ‘hive mind’ (eg, the Borg of Star Trek, or the virus-induced collective consciousness of the 2025 TV show Pluribus), individual minds in the hive share all thoughts automatically and seamlessly; they are literally of one mind in every respect. If real-life communication consists of thought-sharing, it certainly isn’t like this for us, yet we sometimes talk as if it is. Recognising this is important: it not only avoids a distorted conception of communication, it also helps to calibrate our expectations when we communicate.
+
+In recent philosophical work, there are some who defend a sophisticated version of thought-sharing. They make room for the variability of what people are actually thinking when they understand each other, but retain the idea that you can, in some sense, share a thought. This approach, which I myself favour, reflects that the basic concept of thought-sharing is not only natural, but explanatorily useful. For example, the notion that you can share a thought makes it easy to distinguish between misunderstanding what someone means (‘getting the wrong idea’) from grasping what someone means (‘getting the idea’) and yet disagreeing with it.
+
+In this way of viewing thought-sharing, each person’s version of the shared thought is layered: thought similarity at one level is compatible with a level of disparity that reflects each person’s distinctive points of view. To constitute a ‘shared thought’, some core content or state must be identical, even as some other components of the thought differ. On this view, sharing thoughts is complex because thoughts themselves are complex.
+
+Treating our thoughts as if they are about the same things often suffices for understanding and joint behaviour
+
+But other philosophers explain communication differently: via coordination or informational relations among different thoughts. On these accounts, if I know or somehow track what you are thinking, I don’t actually need to ‘share’ your thought in order to understand what you are saying.
+
+One particularly influential example of this is relationism, the kind of approach originally championed by Kit Fine. According to this perspective, communication is not really a matter of thought identity, but thought coordination. What matters is not the intrinsic properties of two people’s thoughts or the extent to which those are the same. What matters is how those thoughts are related. For instance, treating our thoughts as if they are about the same things often suffices for understanding and joint behaviour. So, if you tell me about your ‘awful day at work’, and elaborate about impending deadlines, an unkind boss and feeling overwhelmed, and I respond sympathetically, we both presuppose or act as if our thoughts are about these same things – even if the thoughts themselves are different – and doing so allows the conversation to serve its function. I may not need to share your experience in order to understand you. It might be enough that our thoughts coordinate – that they stand in an appropriate relation to one another.
+
+The debate continues between proponents of these perspectives. But the richer picture drawn by these trends helps us think about communication and shared understanding without positing (as some would be tempted to) perfect matching in the way people think.
+
+Let us return to our opening thought: the existence of mutual understanding, possibly triggered by words, gestures or even a simple glance. This prospect underwrites the possibility of a common world, and takes us beyond our private experiences. Yet recalcitrant, multifaceted difference is also an undeniable part of the picture. We should not expect mutual understanding in communication necessarily to lead to a common, monolithic thought or experience.
+
+Noting this could prevent unnecessary frustration and overoptimistic expectations when we communicate. Communicating smoothly does bring our thoughts into contact with those of others. But there are important limits on someone else’s access to the full richness of your thoughts and point of view, and vice versa. Knowing this before we speak might inspire more patience in communication, more willingness to restate or elaborate in order to build the shared kernel of our differing thoughts, or a degree of acceptance when someone doesn’t seem to fully ‘get it’. It takes time and effort to share anything more than superficial or abstract thoughts and, even then, it is impossible to share everything we think. But that is exactly as it should be.
+
+It may still seem plausible and useful to suppose that we can think ‘the same thing’. But, often, the connection you have to someone else’s thought is looser than it might appear, and interestingly complex. Whatever perspective you take, the question of whether or how we ever truly ‘share’ thoughts gives us reason to pause and consider what it actually means to connect with someone else – to understand and to be understood.
+
+The idea of what makes for a successful conversation is always tricky, and has always been contested by philosophers
+
+New research has mapped people’s contrasting conceptions of the truth. No wonder so many arguments feel irresolvable
+
+by Lukas S Huber, David-Elias Künstle & Kevin Reuter
+
+By learning to question and clarify your thoughts, you’ll improve your self-knowledge and become a better communicator
+
+From foreign speech to unfamiliar script, not understanding a language can be an awesome way to understand otherness
+
+Talking out loud to oneself is a technology for thinking that allows us to clarify and sharpen our approach to a problem
+
+For Wittgenstein, meaning and understanding reside, not in some mysterious private realm, but entirely in the public domain
+
+Hypothetical thinking is the key to sustained innovation and creativity: invention drove the evolution of the human mind
+
+Reason emerges through dialogue with others. To truly flourish, stop self-censoring and risk your status to speak your mind
