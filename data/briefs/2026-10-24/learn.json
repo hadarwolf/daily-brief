@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-24",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-24T03:50:38+00:00",
+  "stories": [
+    {
+      "id": "word-opex",
+      "kind": "word",
+      "en": {
+        "headline": "Opex (הוצאות תפעוליות)",
+        "scroll": "Opex is the day-to-day cost of running a business — rent, salaries, utilities — as opposed to one-time capital investments.",
+        "coffee": "Opex, short for operating expenditure, covers the recurring costs a company needs just to keep functioning: payroll, rent, software subscriptions, electricity. It's charged against revenue in the period it's incurred, which is why it shows up immediately on the income statement rather than being spread out over years.\n\nExample: \"We moved our servers to the cloud, which shifted a lot of our spending from capex to opex — no more buying hardware, just a monthly bill.\"",
+        "deep": "Opex comes up constantly in budgeting, SaaS pricing, and cloud-computing discussions, where a one-time capital purchase (capex) gets replaced by a recurring subscription (opex). Investors and CFOs watch the opex-to-revenue ratio to judge how efficiently a company turns spending into growth.\n\nA common confusion is lumping every cost into \"opex\" loosely, but the accounting distinction matters: capex buys an asset that depreciates over years (a building, a server), while opex is consumed immediately (a cleaning contract, a cloud bill). A company can cut opex by swapping employees for software, but that software license is still opex too — the test is whether the spending creates a long-lived asset, not how it \"feels.\"\n\nMore examples: \"Marketing is booked as opex, not capex, even though it builds brand value over time.\" \"Cutting opex is faster than cutting capex, because you can cancel a subscription next month but you can't un-build a factory.\"\n\nHebrew: הוצאות תפעוליות (opex)."
+      },
+      "he": {
+        "headline": "Opex (הוצאות תפעוליות)",
+        "scroll": "אופכס הן ההוצאות השוטפות של תפעול העסק - שכר, שכירות, חשמל - בניגוד להשקעות הון חד-פעמיות.",
+        "coffee": "אופכס (Opex, קצר מ-operating expenditure) מתייחס לעלויות החזרתיות שחברה צריכה כדי לפעול ביום-יום: משכורות, שכר דירה, מנויי תוכנה, חשמל. ההוצאה נזקפת לדוח רווח והפסד באותה תקופה שבה היא יצאה, ולכן היא מופיעה באופן מיידי, בלי להתפרס על פני שנים.\n\nלדוגמה: \"העברנו את השרתים שלנו לענן, מה שהסיט חלק גדול מההוצאות שלנו מקאפקס לאופכס - אין יותר קנייה של חומרה, רק חיוב חודשי.\"",
+        "deep": "אופכס עולה כל הזמן בשיחות על תקצוב, תמחור SaaS ומחשוב בענן, כשרכישת נכס חד-פעמית (קאפקס) מתחלפת במנוי חזרתי (אופכס). משקיעים ומנהלי כספים (CFO) עוקבים אחרי היחס בין אופכס להכנסות כדי להעריך כמה ביעילות החברה מתרגמת הוצאה לצמיחה.\n\nבלבול נפוץ: יש הנוטים לתחום כל הוצאה בתור \"אופכס\" בלי דיוק, אבל ההבחנה החשבונאית חשובה - קאפקס קונה נכס שמופחת (depreciates) על פני שנים, כמו מבנה או שרת, ואילו אופכס מתכלה באופן מיידי, כמו חוזה ניקיון או חיוב ענן. חברה יכולה לקצץ באופכס על ידי החלפת עובדים בתוכנה, אבל גם רישיון התוכנה הזה הוא אופכס - המבחן הוא אם ההוצאה יוצרת נכס ארוך-טווח, לא איך היא \"מרגישה\".\n\nעוד דוגמאות: \"שיווק נרשם כאופכס ולא כקאפקס, גם אם הוא בונה ערך מותג לאורך זמן.\" \"קיצוץ באופכס מהיר יותר מקיצוץ בקאפקס, כי אפשר לבטל מנוי בחודש הבא, אבל אי אפשר לפרק מפעל שכבר נבנה.\"\n\nבעברית: הוצאות תפעוליות (opex)."
+      },
+      "tags": [
+        "business-english",
+        "finance",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-due-diligence",
+      "kind": "word",
+      "en": {
+        "headline": "Due diligence (בדיקת נאותות)",
+        "scroll": "Due diligence is the thorough investigation a buyer, investor or lender does on a company before committing money, to confirm the numbers and risks are what they claim to be.",
+        "coffee": "Due diligence is the research phase before any serious deal — an acquisition, a funding round, a loan. Lawyers, accountants and sometimes outside experts dig through financials, contracts, IP ownership and pending lawsuits to make sure there's nothing hiding behind a polished pitch deck.\n\nExample: \"The acquisition fell apart during due diligence, once the buyer's accountants found the revenue numbers didn't match what was reported to the tax authority.\"",
+        "deep": "Due diligence shows up any time money is about to change hands at scale: M&A, venture rounds, IPOs, even hiring a senior executive (\"we did our due diligence on the candidate's background\"). It's distinct from a quick sanity check — it's a formal, often weeks-long process with checklists covering legal, financial, technical and commercial risk.\n\nA common confusion is treating due diligence as a rubber stamp. In practice, it regularly kills deals or forces a lower price when it surfaces undisclosed debt, customer concentration, or key employees planning to leave once the deal closes.\n\nMore examples: \"VCs run light due diligence on seed deals but go deep before a Series B.\" \"Part of due diligence is calling the company's biggest customers directly, not just reading the pitch deck.\"\n\nHebrew: בדיקת נאותות (due diligence)."
+      },
+      "he": {
+        "headline": "Due diligence (בדיקת נאותות)",
+        "scroll": "בדיקת נאותות היא הבדיקה המקיפה שקונה, משקיע או מלווה מבצעים על חברה לפני הזרמת כסף, כדי לאשר שהמספרים והסיכונים הם כפי שהוצגו.",
+        "coffee": "בדיקת נאותות (due diligence) היא שלב המחקר שקודם לכל עסקה משמעותית - רכישה, סבב גיוס, הלוואה. עורכי דין, רואי חשבון ולעיתים יועצים חיצוניים עוברים על הדוחות הפיננסיים, החוזים, הבעלות על קניין רוחני ותביעות תלויות ועומדות, כדי לוודא שאין משהו מוסתר מאחורי מצגת מצוחצחת.\n\nלדוגמה: \"הרכישה קרסה במהלך בדיקת הנאותות, לאחר שרואי החשבון של הקונה גילו שמספרי ההכנסות לא תאמו את מה שדווח לרשות המסים.\"",
+        "deep": "בדיקת נאותות מתבצעת כל אימת שעומד לעבור כסף בסכומים גדולים - מיזוגים ורכישות, סבבי גיוס, הנפקות, ואפילו גיוס בכיר (\"עשינו בדיקת נאותות על הרקע של המועמד\"). היא שונה מבדיקה שטחית - זה תהליך רשמי, שלוקח לעיתים שבועות, עם רשימות בדיקה שמכסות סיכון משפטי, פיננסי, טכנולוגי ועסקי.\n\nבלבול נפוץ הוא להתייחס לבדיקת הנאותות כחותמת גומי. בפועל, היא לא פעם מפוצצת עסקאות או מובילה להורדת מחיר, כשהיא חושפת חוב שלא דווח, תלות בלקוח יחיד, או עובדים מרכזיים שמתכננים לעזוב ברגע שהעסקה נסגרת.\n\nעוד דוגמאות: \"קרנות הון סיכון עושות בדיקת נאותות קלה בסבבי Seed אבל מעמיקות הרבה יותר לפני סבב B.\" \"חלק מבדיקת הנאותות הוא להתקשר ישירות ללקוחות הגדולים של החברה, לא רק לקרוא את המצגת.\"\n\nבעברית: בדיקת נאותות (due diligence)."
+      },
+      "tags": [
+        "business-english",
+        "investing",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-dead-cat-bounce",
+      "kind": "word",
+      "en": {
+        "headline": "Dead cat bounce (קפיצת החתול המת)",
+        "scroll": "A dead cat bounce is a brief, misleading rebound in a falling stock or market, after which the price resumes its decline.",
+        "coffee": "The idiom comes from the dark joke that even a dead cat will bounce if it falls from high enough. In markets, it describes a short-lived rally inside a longer downtrend — buyers see a cheap price and jump in, pushing shares up for a few days or weeks, before the original selling pressure reasserts itself and the price drops again, often lower than before.\n\nExample: \"Don't mistake this week's rally for a recovery — plenty of traders think it's just a dead cat bounce before the stock falls further.\"",
+        "deep": "The phrase is used almost exclusively in finance journalism and trading talk, describing price action rather than a company's fundamentals. It's a diagnosis made in hindsight — in real time, nobody can prove whether a rebound is a genuine turnaround or a dead cat bounce, which is exactly why it gets argued about constantly on earnings calls and in market commentary.\n\nA common confusion is using it for any small bounce after a drop. Technically it implies the broader downtrend is still intact and will resume — if the price keeps climbing and the fundamentals improve, it was a real recovery, not a dead cat bounce, and people simply misapplied the term.\n\nMore examples: \"Analysts are split on whether the sector's 15% jump this month is a dead cat bounce or the start of a real recovery.\" \"He got burned buying the dip, not realizing it was a dead cat bounce.\"\n\nHebrew: קפיצת החתול המת (dead cat bounce)."
+      },
+      "he": {
+        "headline": "Dead cat bounce (קפיצת החתול המת)",
+        "scroll": "קפיצת החתול המת היא התאוששות קצרה ומטעה במניה או בשוק יורד, שאחריה הירידה נמשכת.",
+        "coffee": "הביטוי מגיע מהבדיחה השחורה שאפילו חתול מת יקפוץ אם הוא נופל מגובה מספיק. בשוק ההון הוא מתאר עלייה קצרת-טווח בתוך מגמת ירידה ארוכה יותר - קונים רואים מחיר זול ונכנסים, מה שמרים את המניה לכמה ימים או שבועות, לפני שלחץ המכירות המקורי חוזר והמחיר צונח שוב, לא פעם לרמה נמוכה יותר מקודם.\n\nלדוגמה: \"אל תתבלבלו מהעלייה של השבוע - הרבה סוחרים חושבים שזו רק קפיצת חתול מת לפני שהמניה תמשיך לרדת.\"",
+        "deep": "הביטוי משמש בעיקר בעיתונות פיננסית ובדיבור של סוחרים, והוא מתאר תנועת מחיר ולא בהכרח את מצב החברה בפועל. זו אבחנה שנעשית בדיעבד - בזמן אמת אף אחד לא יכול להוכיח אם ההתאוששות היא תפנית אמיתית או קפיצת חתול מת, ובדיוק בשל כך היא נושא לדיון מתמיד בדיווחי רבעון ובפרשנות השוק.\n\nבלבול נפוץ הוא להשתמש בביטוי על כל עלייה קטנה אחרי נפילה. למעשה הוא מרמז שמגמת הירידה הכוללת עדיין קיימת ותחזור - אם המחיר ממשיך לטפס והנתונים הפונדמנטליים משתפרים, זו הייתה התאוששות אמיתית ולא קפיצת חתול מת, ופשוט יישמו את המונח בטעות.\n\nעוד דוגמאות: \"האנליסטים חלוקים בשאלה אם העלייה של 15% בסקטור החודש היא קפיצת חתול מת או תחילת התאוששות אמיתית.\" \"הוא נכווה כשקנה בדיפ, בלי להבין שזו הייתה קפיצת חתול מת.\"\n\nבעברית: קפיצת החתול המת (dead cat bounce)."
+      },
+      "tags": [
+        "business-english",
+        "markets",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-economic-moat",
+      "kind": "concept",
+      "en": {
+        "headline": "Economic moats: why some companies keep winning",
+        "scroll": "An economic moat is a durable competitive advantage that lets a company keep earning high profits without rivals eroding them away.",
+        "coffee": "Warren Buffett popularized the term \"economic moat\" to describe whatever structural advantage protects a company's profits the way a castle's moat keeps out attackers. It's not about being good at business for a year or two — it's about a reason competitors genuinely can't copy what you do, even if they want to and have the money to try.\n\nMoats come in a few recurring shapes: network effects (a product gets more valuable as more people use it, like a marketplace), switching costs (it's painful or expensive for a customer to leave, like enterprise software baked into daily workflows), economies of scale (being big enough that costs per unit keep falling), brand (people pay more just for the name), and patents or regulation (a legal wall competitors can't cross).\n\nWhy it matters: a company without a moat eventually gets its profit margins competed away, no matter how good its product looks today. Investors use the concept to separate \"this quarter's winner\" from \"a business that will still be dominant in ten years.\"",
+        "deep": "## What a moat actually protects\nA business can have a great product, impressive growth, and still be a bad long-term bet if any competitor with enough capital can copy it within a year or two. An economic moat is the thing that makes copying hard — not illegal, not impossible, just uneconomical or too slow to matter. The term comes from Warren Buffett, who used it to explain why he preferred buying businesses that could fend off \"invading hordes\" rather than ones winning on execution alone.\n\n## The main types\n- **Network effects**: the product gets better as more people use it (a marketplace with more buyers attracts more sellers, and vice versa). A new entrant has to somehow bootstrap both sides at once, which is brutally hard.\n- **Switching costs**: once a customer is embedded, leaving is expensive or disruptive — think of a bank's core software, or an enterprise tool that years of internal processes are built around.\n- **Economies of scale**: fixed costs spread over huge volume make the per-unit cost structurally lower than a smaller rival can match.\n- **Intangible assets**: a brand, a patent, or a regulatory license that legally or psychologically blocks competitors.\n- **Cost advantages**: a unique input, location or process a rival can't replicate even with money (a cheaper source of raw material, for instance).\n\n## A worked example\nTake a payments network connecting merchants and card-issuing banks. Every merchant that accepts the network makes it more useful to every cardholder, and every cardholder using it makes it more valuable for merchants to accept — that's the network effect. A new payments company could, in theory, offer better technology or lower fees, but it has to convince millions of merchants and hundreds of banks to switch at the same time for it to be worth anything to either side. That coordination problem, not any single contract, is the moat. It's why incumbents in that industry have kept similar profit margins for decades despite constant attempts at disruption.\n\n## Why it matters for the reader\nWhen evaluating any company — as an investor, an employee picking where to work, or a founder picking a market — the moat question is simply: if a well-funded competitor copied this exactly tomorrow, what stops them from winning? If the honest answer is \"nothing much,\" the current success is temporary, no matter how good this quarter's numbers look.\n\nHebrew term: חפיר כלכלי (economic moat)."
+      },
+      "he": {
+        "headline": "חפיר כלכלי: למה חברות מסוימות ממשיכות לנצח",
+        "scroll": "חפיר כלכלי הוא יתרון תחרותי בר-קיימא שמאפשר לחברה להמשיך ולהרוויח הרבה בלי שמתחרים ישחקו (erode) את הרווחים האלה.",
+        "coffee": "וורן באפט הפך את המונח \"חפיר כלכלי\" (economic moat) לנפוץ, כדי לתאר כל יתרון מבני שמגן על הרווחים של חברה, בדיוק כמו שחפיר מסביב לטירה מרתיע פולשים. זה לא עניין של להיות עסק טוב לשנה-שנתיים - זה עניין של סיבה אמיתית שבגללה מתחרים לא מצליחים להעתיק את מה שאתה עושה, גם אם הם רוצים בכך ויש להם הכסף לנסות.\n\nחפירים חוזרים על עצמם בכמה דפוסים: אפקט רשת (network effect) - מוצר שנהיה שימושי יותר ככל שיותר אנשים משתמשים בו, כמו שוק מקוונים; עלויות מעבר (switching costs) - כשקשה או יקר ללקוח לעבור הלאה, כמו תוכנה שנבנתה מסביב לתהליכי עבודה יומיומיים; יתרונות לגודל (economies of scale) - חברה גדולה מספיק שהעלות ליחידה ממשיכה לרדת; מותג - שאנשים משלמים יותר רק בשביל השם; ופטנטים או רגולציה - חומה חוקית שמתחרים לא יכולים לחצות.\n\nלמה זה חשוב: חברה בלי חפיר, בסופו של דבר, תאבד את שולי הרווח שלה למתחרים, לא משנה כמה טוב המוצר שלה נראה היום. משקיעים משתמשים במושג כדי להבדיל בין \"מנצחת הרבעון הזה\" לבין עסק שימשיך לשלוט גם בעוד עשר שנים.",
+        "deep": "## מה חפיר בעצם מגן עליו\nעסק יכול להיות בעל מוצר מצוין וצמיחה מרשימה, ועדיין להיות השקעה גרועה לטווח ארוך, אם כל מתחרה עם הון מספיק יכול להעתיק אותו בתוך שנה-שנתיים. חפיר כלכלי הוא הדבר שמקשה על ההעתקה - לא באופן בלתי חוקי או בלתי אפשרי, פשוט בלתי משתלם או איטי מכדי שיהיה משמעותי. המונח מגיע מוורן באפט, שהשתמש בו כדי להסביר למה הוא מעדיף לקנות עסקים שיכולים להרתיע \"המונים פולשים\" בעזרת חפיר, על פני עסקים שמנצחים רק בזכות ביצוע טוב.\n\n## הסוגים המרכזיים\n- **אפקט רשת (network effects)**: המוצר נהיה טוב יותר ככל שיותר אנשים משתמשים בו (שוק מקוונים עם יותר קונים מושך יותר מוכרים, ולהפך). שחקן חדש צריך להצליח להניע את שני הצדדים בבת אחת, וזה קשה מאוד.\n- **עלויות מעבר (switching costs)**: כשלקוח כבר \"שקוע\" במוצר, לעזוב יקר או משבש - למשל המערכת המרכזית (core) של בנק, או כלי ארגוני שתהליכים פנימיים שלמים נבנו סביבו במשך שנים.\n- **יתרונות לגודל (economies of scale)**: עלויות קבועות מפוזרות על נפח עצום, כך שהעלות ליחידה נמוכה באופן מבני יותר ממה שמתחרה קטן יכול להשיג.\n- **נכסים לא מוחשיים (intangible assets)**: מותג, פטנט, או רישיון רגולטורי שחוסם מתחרים משפטית או תודעתית.\n- **יתרון עלות**: תשומה, מיקום או תהליך ייחודיים שמתחרה לא יכול לשכפל גם עם כסף (למשל מקור זול יותר לחומר גלם).\n\n## דוגמה מספרית\nניקח רשת סליקת תשלומים שמחברת בתי עסק ובנקים מנפיקי כרטיסים. כל בית עסק שמקבל את הרשת הופך אותה לשימושית יותר לכל מחזיק כרטיס, וכל מחזיק כרטיס שמשתמש בה הופך אותה למשתלמת יותר לבתי עסק לקבל - זהו אפקט הרשת. חברת תשלומים חדשה יכולה, תיאורטית, להציע טכנולוגיה טובה יותר או עמלות נמוכות יותר, אבל היא צריכה לשכנע מיליוני בתי עסק ומאות בנקים לעבור באותו הזמן כדי שהמעבר יהיה שווה לשני הצדדים בכלל. בעיית התיאום הזו, ולא סעיף חוזי כזה או אחר, היא החפיר. זו הסיבה שהשחקניות הקיימות בתחום הזה שמרו על שולי רווח דומים עשרות שנים, חרף ניסיונות מתמידים לשבש את השוק.\n\n## למה זה חשוב לקורא\nכשבוחנים חברה כלשהי - כמשקיעים, כעובדים שבוחרים איפה לעבוד, או כיזמים שבוחרים שוק - שאלת החפיר היא פשוט: אם מתחרה ממומן היטב יעתיק את זה בדיוק מחר, מה עוצר אותו מלנצח? אם התשובה הכנה היא \"לא הרבה\", ההצלחה הנוכחית היא זמנית, לא משנה כמה טובים נראים המספרים של הרבעון הזה.\n\nמונח בעברית: חפיר כלכלי (economic moat)."
+      },
+      "tags": [
+        "economics",
+        "business-strategy",
+        "investing"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-black-thursday-1929",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1929: Black Thursday — the New York Stock Exchange crash that opened the Great Depression",
+        "scroll": "On October 24, 1929, the NYSE lost 11% of its value at the opening bell on record trading volume, the first shock in the crash that triggered the Great Depression.",
+        "coffee": "On what became known as Black Thursday, the New York Stock Exchange opened to a wave of panic selling, wiping out 11% of the market's value within minutes on a then-record 12.9 million shares traded. Major bankers stepped in that afternoon, pooling money to buy stocks and steady prices — a rescue that worked only briefly.\n\nThe real collapse came five days later, on October 29, \"Black Tuesday,\" when about 16.4 million shares changed hands and the bottom fell out for good. Together, the two days marked the start of the Wall Street Crash of 1929, which shattered confidence in the US banking system and cascaded into the Great Depression, the economic downturn that lasted until the US entered World War II in December 1941.\n\nIt's the single most referenced date in financial history when people warn about market bubbles — and the reason October, for traders, still carries a slightly superstitious reputation.",
+        "deep": "## Background\nBy the mid-1920s, the US stock market had become a speculative mania. Ordinary Americans were buying shares \"on margin\" — borrowing most of the purchase price from a broker, putting down as little as 10% of their own money — betting that prices would keep climbing fast enough to pay off the loan and pocket the rest. As long as prices rose, this worked beautifully and pulled more money into the market, pushing prices higher still.\n\n## The story\nOn October 24, 1929 — Black Thursday — that cycle reversed. A wave of selling hit the New York Stock Exchange at the opening bell, and prices fell 11% almost immediately as nervous investors tried to get out before margin calls forced them to sell at any price. Trading volume hit 12.9 million shares, a record at the time and so heavy that the ticker tape reporting prices fell hours behind the actual trades, leaving traders unsure what anything was really worth as they traded. A group of major Wall Street bankers pooled funds that afternoon to buy blocks of stock and signal confidence, briefly calming the panic.\n\nThe calm didn't last. Selling resumed, and on October 29 — \"Black Tuesday\" — around 16.4 million shares traded as the market gave up any remaining gains from the 1920s boom.\n\n## Second-order effects\nThe crash alone didn't cause the Great Depression, but it detonated the chain reaction: banks that had lent heavily against stock collateral failed, depositors lost savings, credit dried up, and consumer spending collapsed. Confidence in the banking system eroded so badly that it eventually produced some of the core financial reforms of the New Deal era, including deposit insurance and securities regulation designed to prevent a repeat.\n\n## What to watch for\nBlack Thursday is still the reference point whenever markets today show the same ingredients: high leverage, obvious euphoria, and a sense that prices can only go up. It's less a prediction tool than a reminder of how fast confidence can flip into panic once margin loans get called in all at once."
+      },
+      "he": {
+        "headline": "1929: יום חמישי השחור - קריסת הבורסה בניו יורק שפתחה את השפל הגדול",
+        "scroll": "ב-24 באוקטובר 1929 איבדה הבורסה בניו יורק 11% משוויה כבר בפתיחת המסחר, במחזור שיא, הזעזוע הראשון בקריסה שהוביל לשפל הגדול.",
+        "coffee": "ביום שנודע כ\"יום חמישי השחור\", נפתח המסחר בבורסה בניו יורק (NYSE) בגל מכירות פאניות, שמחק 11% משווי השוק בתוך דקות, במחזור מסחר שעמד אז על שיא של 12.9 מיליון מניות. בנקאים בכירים נכנסו לפעולה באותו אחר הצהריים ואיחדו כספים לקניית מניות כדי לייצב את המחירים - חילוץ שהצליח רק לזמן קצר.\n\nהקריסה האמיתית הגיעה חמישה ימים לאחר מכן, ב-29 באוקטובר, \"יום שלישי השחור\", אז הוחלפו ידיים כ-16.4 מיליון מניות והקרקע נשמטה סופית. שני הימים האלה, יחד, סימנו את פתיחת קריסת וול סטריט של 1929, שריסקה את האמון במערכת הבנקאות האמריקאית והידרדרה לשפל הגדול (Great Depression) - המשבר הכלכלי שנמשך עד שארצות הברית נכנסה למלחמת העולם השנייה בדצמבר 1941.\n\nזה התאריך המוזכר ביותר בהיסטוריה הפיננסית כשרוצים להזהיר מפני בועות שוק - ולכן לאוקטובר יש עדיין, בעולם הסוחרים, שם רע קצת אמונות טפלות.",
+        "deep": "## רקע\nבאמצע שנות ה-20 של המאה ה-20 הפך שוק המניות האמריקאי לבועה ספקולטיבית. אמריקאים מהשורה קנו מניות \"על המרג'ין\" (on margin) - לוקחים הלוואה מברוקר על רוב מחיר הרכישה, ומשקיעים מכספם רק כ-10% - בהנחה שהמחירים ימשיכו לטפס מהר מספיק כדי לכסות את ההלוואה ולהרוויח את השאר. כל עוד המחירים עלו, זה עבד נהדר ומשך עוד כסף לשוק, מה שהמשיך לדחוף את המחירים גבוה יותר.\n\n## הסיפור\nב-24 באוקטובר 1929 - יום חמישי השחור - המחזור הזה התהפך. גל מכירות פגע בבורסת ניו יורק עם פתיחת המסחר, והמחירים צנחו ב-11% כבר בתחילת היום, כשמשקיעים עצבניים ניסו לצאת לפני שקריאות מרג'ין (margin calls) יאלצו אותם למכור במחיר כלשהו. מחזור המסחר הגיע ל-12.9 מיליון מניות, שיא לאותה תקופה, וכבד כך-כך שסרט הטיקר שדיווח על המחירים פיגר שעות אחרי העסקאות בפועל, כך שהסוחרים לא ידעו בוודאות מה שווה מה בזמן שהם סוחרים בו. קבוצה של בנקאים בכירים בוול סטריט איגדה כספים באותו אחר צהריים לקניית בלוקי מניות ולשידור מסר של ביטחון, מה שהרגיע את הפאניקה - לזמן קצר.\n\nהרגיעה לא החזיקה. המכירות התחדשו, וב-29 באוקטובר - \"יום שלישי השחור\" - הוחלפו ידיים כ-16.4 מיליון מניות, והשוק מחק את כל מה שנשאר מרווחי הפריחה של שנות ה-20.\n\n## אפקטים מסדר שני\nהקריסה עצמה לא גרמה לשפל הגדול, אבל היא הציתה את תגובת השרשרת: בנקים שהעמידו הלוואות רבות בבטחונות של מניות קרסו, מפקידים הפסידו את חסכונותיהם, האשראי התאדה וההוצאה הצרכנית קרסה. האמון במערכת הבנקאית נפגע כל כך עמוקות שבסופו של דבר הוליד חלק מהרפורמות הפיננסיות המרכזיות של עידן הניו דיל (New Deal), כולל ביטוח פיקדונות ורגולציה על שוק ההון, שנועדו למנוע הישנות המקרה.\n\n## למה לשים לב\nיום חמישי השחור נשאר נקודת הייחוס כל אימת שהשווקים של היום מציגים את אותם המרכיבים: מינוף גבוה, אופוריה גלויה לעין, והרגשה שהמחירים יכולים רק לעלות. זה פחות כלי לנבא ויותר תזכורת לכמה מהר אמון יכול להתהפך לפאניקה כשכל ההלוואות על המרג'ין נדרשות בבת אחת."
+      },
+      "tags": [
+        "history",
+        "finance",
+        "markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1929: On \"Black Thursday\", the New York Stock Exchange lost 11 percent of its value at the opening bell on very heavy trading, marking the beginning of the Great Depression.",
+          "url": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929"
+        }
+      ]
+    }
+  ]
+}

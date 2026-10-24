@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-24",
+  "questions": [
+    {
+      "id": "quiz-saka-injury",
+      "section": "sports",
+      "story_id": "arsenal-everton-saka-injury",
+      "answer_index": 0,
+      "en": {
+        "question": "What is the major injury concern coming out of Arsenal's Champions League draw with Bayern Munich?",
+        "options": [
+          "Bukayo Saka suffered a quad injury and could be out for up to two months",
+          "Martin Odegaard tore his ACL and will miss the rest of the season",
+          "Arsenal's goalkeeper was sent off and suspended for two months",
+          "Mikel Arteta was injured on the touchline during the match"
+        ],
+        "explanation": "Saka picked up a quadriceps injury against Bayern Munich and could be out for up to eight weeks, a major blow to Arsenal's title challenge."
+      },
+      "he": {
+        "question": "מה דאגת הפציעה המרכזית שעולה מהשוויון של ארסנל בליגת האלופות מול באיירן מינכן?",
+        "options": [
+          "בוקאיו סאקה נפצע בארבע הראש ועשוי להיעדר עד כחודשיים",
+          "מרטין אדגור קרע את הרצועה הצולבת ויפסיד את שאר העונה",
+          "שוער ארסנל קיבל כרטיס אדום והורחק לחודשיים",
+          "מיקל ארטטה נפצע בקו המגרש במהלך המשחק"
+        ],
+        "explanation": "סאקה נפצע בארבע הראש מול באיירן מינכן ועשוי להיעדר עד שמונה שבועות, מכה משמעותית למרדף של ארסנל אחרי האליפות."
+      }
+    },
+    {
+      "id": "quiz-abu-dhabi-talks",
+      "section": "geopolitics",
+      "story_id": "ukraine-ceasefire-abu-dhabi",
+      "answer_index": 0,
+      "en": {
+        "question": "What new development gives the Russia-Ukraine peace process its first concrete milestone?",
+        "options": [
+          "Ukrainian, Russian and US negotiators are set to meet in Abu Dhabi in early November for peace talks",
+          "Russia and Ukraine signed a permanent nationwide ceasefire ending the war",
+          "Ukraine agreed to join NATO as part of a new peace deal",
+          "The UN took over mediation of the conflict from the US"
+        ],
+        "explanation": "Zelenskiy said Ukrainian, Russian and US negotiators will meet in Abu Dhabi in early November - the first fixed date on a peace process that had mostly been rhetorical."
+      },
+      "he": {
+        "question": "איזו התפתחות חדשה נותנת לתהליך השלום בין רוסיה לאוקראינה את אבן הדרך הקונקרטית הראשונה שלו?",
+        "options": [
+          "משלחות אוקראיניות, רוסיות ואמריקאיות ייפגשו באבו דאבי בתחילת נובמבר לשיחות שלום",
+          "רוסיה ואוקראינה חתמו על שביתת נשק קבועה שמסיימת את המלחמה בכל הארץ",
+          "אוקראינה הסכימה להצטרף לנאט\"ו כחלק מהסכם שלום חדש",
+          "האו\"ם השתלט על תיווך הסכסוך במקום ארה\"ב"
+        ],
+        "explanation": "זלנסקי אמר כי משלחות אוקראיניות, רוסיות ואמריקאיות ייפגשו באבו דאבי בתחילת נובמבר - התאריך הקבוע הראשון בתהליך שלום שהיה עד כה בעיקר רטורי."
+      }
+    },
+    {
+      "id": "quiz-bonds-flip-role",
+      "section": "business",
+      "story_id": "ai-anxiety-oil-shock-bond-haven",
+      "answer_index": 0,
+      "en": {
+        "question": "What did this week's market swings reveal about US government bonds?",
+        "options": [
+          "Bonds can switch roles fast - a safe haven from AI-valuation fears on Thursday, but a casualty of inflation fears from an oil spike on Friday",
+          "Bonds became permanently more attractive than stocks for the rest of the year",
+          "The Federal Reserve announced it would stop buying government bonds",
+          "Bond yields fell every single day this week as investors fled stocks entirely"
+        ],
+        "explanation": "On Thursday, AI-valuation jitters pushed money into bonds as a haven; on Friday, an oil-driven inflation scare ahead of the Fed decision made bonds fall along with stocks."
+      },
+      "he": {
+        "question": "מה גילו תנודות השוק השבוע על אג\"ח ממשלתיות אמריקאיות?",
+        "options": [
+          "אג\"ח יכולות להחליף תפקיד במהירות - נכס מקלט מפני חששות תמחור AI ביום חמישי, וקורבן של חששות אינפלציה מזינוק נפט ביום שישי",
+          "אג\"ח הפכו אטרקטיביות יותר ממניות לצמיתות עד סוף השנה",
+          "הפדרל ריזרב הודיע שיפסיק לקנות אג\"ח ממשלתיות",
+          "תשואות האג\"ח ירדו בכל יום השבוע כשמשקיעים נמלטו ממניות באופן מוחלט"
+        ],
+        "explanation": "ביום חמישי חששות מתמחור AI הזרימו כספים לאג\"ח כנכס מקלט; ביום שישי חשש אינפלציוני מזינוק נפט לפני החלטת הפד הוביל לירידת אג\"ח במקביל למניות."
+      }
+    }
+  ]
+}

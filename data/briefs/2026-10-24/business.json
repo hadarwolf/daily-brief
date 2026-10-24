@@ -1,0 +1,146 @@
+{
+  "section": "business",
+  "date": "2026-10-24",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-24T03:50:38+00:00",
+  "stories": [
+    {
+      "id": "ai-anxiety-oil-shock-bond-haven",
+      "kind": "analysis",
+      "en": {
+        "headline": "AI Doubts and an Oil Spike Squeeze Markets Ahead of the Fed",
+        "scroll": "AI-valuation doubts and a Middle East oil spike pulled US and Israeli stocks lower this week, flipping bonds from safe haven to inflation casualty just before the Fed's rate decision.",
+        "coffee": "US markets had a whiplash week, pulled by two different fears in opposite directions. On Thursday, renewed doubts about whether AI spending can justify today's valuations hit tech and chip stocks, even as Blackstone's president insisted there's no AI bubble and Treasury Secretary Scott Bessent said he saw no \"systemic problem.\" Investors weren't fully convinced: money rotated into US government bonds, which logged their best single day in more than two years.\n\nThat calm broke on Friday. A flare-up in Middle East violence pushed Brent crude toward $117 a barrel before it eased back near $112, reviving inflation worries just days before a Federal Reserve decision on interest rates. This time stocks and bonds fell together: the Dow lost 1.2%, the Nasdaq ended the week down 0.5%, and a gauge of chipmaker stocks posted its longest weekly drop since November. Gold slipped below $4,000 an ounce and silver hit a fresh yearly low. The sell-off reached Tel Aviv too, where Israeli chip stocks fell in sympathy with Wall Street and the TA-35 closed the week down 2.4%.\n\nWhy it matters: it's a clean lesson in how bonds can switch roles within 24 hours — a haven from an AI-valuation scare on Thursday, a casualty of an inflation scare on Friday. Watch the Fed's decision, and whether Middle East oil risk keeps escalating.",
+        "deep": "## Background\n\n\"The AI trade\" is Wall Street shorthand for the cluster of stocks — chipmakers, cloud providers, data-center operators, and the mega-cap tech companies funding all of it — whose valuations have run far ahead of current profits on the bet that artificial intelligence will eventually generate returns to match. For several years that bet has been one of the main engines pulling US indexes higher. It has also quietly become a retirement-savings story: AI-linked stocks drove roughly $138 billion in gains across 13 US public pension funds since 2022, according to the Wall Street Journal — money that belongs to teachers, firefighters and civil servants who never chose to bet on AI, only on an index fund that happened to be full of it.\n\nThe flip side of a trade that concentrated is that when confidence wobbles, the wobble shows up almost everywhere at once: in chip stocks, in the bond market, in precious metals, and eventually in a Tel Aviv portfolio too, since Israeli chipmakers trade in close correlation with their US peers.\n\n## The story\n\nThis week supplied a clean example of how two different kinds of fear can pull markets in opposite directions. On Thursday, renewed doubts about whether AI spending can ever justify current valuations hit tech and chip stocks, even as some of Wall Street's biggest names pushed back: Blackstone's president said there is no AI bubble, and US Treasury Secretary Scott Bessent said he doesn't see a \"systemic problem\" in the boom. Investors weren't fully convinced — money rotated out of risk assets and into US government bonds, which had their best single day in more than two years as a result.\n\nThat calm didn't last. By Friday, a flare-up in Middle East violence pushed Brent crude toward $117 a barrel before it eased back to around $112, and the prospect of pricier oil feeding into inflation — just days before a Federal Reserve decision on interest rates — turned the mood again. This time stocks and bonds fell together: the Dow dropped 1.2% on the day, the Nasdaq ended the week down 0.5%, and a gauge of chipmaker stocks logged its longest weekly losing streak since November, even though chip names themselves ticked up on Friday. Gold slipped below $4,000 an ounce and silver hit a fresh yearly low, a sign that even traditional safe havens weren't fully immune. The Journal summed up the whiplash simply: \"Inflation and jitters over artificial intelligence are fighting for investors' attention.\"\n\nThe reach extended to Tel Aviv, where Israeli chip stocks fell in sympathy with Wall Street and the TA-35 index closed the week down 2.4%, even as October's flash purchasing-managers survey — a gauge of business activity — came in at its second-highest reading since 2022, a reminder that the sell-off was about valuation nerves and inflation risk, not a sudden collapse in actual economic activity.\n\n## Second-order effects\n\nThe week is a reminder that \"risk-off\" doesn't always mean the same thing for bonds. When the fear is about growth or valuations — as with AI-bubble anxiety — investors typically buy government bonds as a haven, pushing their yields down. When the fear is about inflation — as with an oil spike — they tend to sell bonds too, because inflation erodes the fixed payments a bond promises, pushing yields up. This week delivered both fears within 48 hours, which is why bonds first rallied and then gave back much of it. A separate bout of nerves over French government debt added to the pressure on Treasury yields at another point in the week, a reminder that the US bond market doesn't move in isolation from stress elsewhere.\n\nFor the Fed, the timing is awkward. Policymakers meeting to decide on interest rates now have a fresh, oil-driven inflation signal to weigh against a stock market that is already nervous about an AI-spending bubble — two problems that would normally call for opposite responses, since cooling inflation argues for caution on rate cuts while calming jittery markets argues for reassurance.\n\n## What to watch next\n\nThe most direct test is the Fed's rate decision itself, and whether policymakers address the AI-valuation debate explicitly. Beyond that, watch whether the Middle East violence that pushed Brent toward $117 keeps escalating or fades, since oil is now the main channel through which geopolitics is reaching markets. And watch whether more of Wall Street's senior voices follow Blackstone and Bessent in publicly talking down \"bubble\" fears — a sign they are worried enough about sentiment to intervene — versus the market's own verdict this week, which sided with the skeptics."
+      },
+      "he": {
+        "headline": "חששות מבועת ה-AI וזינוק בנפט סוחטים את השווקים לפני החלטת הפד",
+        "scroll": "חששות מתמחור יתר של מניות הבינה המלאכותית (AI) וזינוק בנפט על רקע המתיחות במזרח התיכון הפילו השבוע מניות בוול סטריט ובתל אביב, ממש לפני החלטת הריבית של הפדרל ריזרב.",
+        "coffee": "השווקים האמריקאים עברו שבוע סוער, בין שני חששות שונים שמשכו אותם לכיוונים מנוגדים. ביום חמישי פגעו במניות הטכנולוגיה והשבבים חששות מחודשים לגבי השאלה אם ההשקעות ב-AI מצדיקות את התמחור הנוכחי, גם אחרי שנשיא בלקסטון אמר שאין בועת AI, ושר האוצר האמריקאי סקוט בסנט טען שאינו רואה \"בעיה מערכתית\". המשקיעים לא ממש השתכנעו: כספים זרמו לאג\"ח ממשלתיות אמריקאיות, שרשמו בעקבות זאת את היום הטוב ביותר שלהן זה יותר משנתיים.\n\nהשלווה הזו לא החזיקה הרבה זמן. ביום שישי דחפה התלקחות אלימות במזרח התיכון את חוזי הנפט מסוג ברנט לכיוון 117 דולר לחבית, לפני שנרגעו לכ-112 דולר, והחשש שנפט יקר יותר יתורגם לאינפלציה - ממש לפני החלטת הריבית של הפדרל ריזרב - החזיר את העצבנות. הפעם המניות והאג\"ח ירדו בד בבד: דאו ג'ונס צנח ב-1.2%, נאסד\"ק נסוג 0.5% בסיכום שבועי, ומדד מניות השבבים רשם את הירידה השבועית הארוכה ביותר שלו מאז נובמבר. הזהב נפל מתחת ל-4,000 דולר לאונקיה והכסף נגע בשפל שנתי חדש. המכירה הגיעה גם לתל אביב, שם מניות השבבים הישראליות נפלו בעקבות וול סטריט ומדד ת\"א 35 נסגר בירידה שבועית של 2.4%.\n\nלמה זה חשוב: זה שיעור נקי בכך שאג\"ח יכולות להחליף תפקיד תוך 24 שעות - נכס מקלט מפני חשש מתמחור AI ביום חמישי, וקורבן של חשש אינפלציוני ביום שישי. לשים לב להחלטת הפד, ולשאלה אם הסיכון הגיאופוליטי לנפט ימשיך להסלים.",
+        "deep": "## רקע\n\n\"סחר ה-AI\" (AI trade) הוא הכינוי שוול סטריט נותנת לקבוצת המניות - יצרני השבבים, חברות העננים (cloud), מפעילי מרכזי הנתונים (data centers) וחברות הטכנולוגיה הגדולות שמזרימות הון לכל זה - שהתמחור שלהן התרחק מהרווחים הנוכחיים, על בסיס ההנחה שהבינה המלאכותית בסופו של דבר תחזיר את ההשקעה. כמה שנים ברצף ההימור הזה היה אחד המנועים המרכזיים שמשכו את המדדים האמריקאים למעלה. הוא גם הפך בשקט לסיפור של חיסכון לפנסיה: מניות הקשורות ל-AI הניבו כ-138 מיליארד דולר רווחים ל-13 קרנות פנסיה ציבוריות אמריקאיות מאז 2022, לפי וול סטריט ג'ורנל - כספים של מורים, כבאים ועובדי ציבור שלא בחרו במודע להמר על AI, אלא רק על קרן מחקה מדד שהתברר שמלאה בו.\n\nהצד השני של סחר כל כך מרוכז הוא שכאשר הביטחון מתערער, זה מורגש כמעט בכל מקום בבת אחת: במניות השבבים, בשוק האג\"ח, במתכות היקרות, ולבסוף גם בתיק תל אביבי, כי מניות השבבים הישראליות נסחרות בקורלציה (correlation) הדוקה למקביליהן האמריקאיות.\n\n## מה קרה\n\nהשבוע הזה סיפק הדגמה נקייה לאופן שבו שני סוגים שונים של פחד יכולים למשוך את השווקים לכיוונים מנוגדים. ביום חמישי פגעו חששות מחודשים - האם ההשקעות ב-AI בכלל מצדיקות את התמחור הנוכחי - במניות הטכנולוגיה והשבבים, גם אחרי שכמה מהשמות הגדולים בוול סטריט ניסו להרגיע: נשיא בלקסטון אמר שאין בועת AI, ושר האוצר האמריקאי סקוט בסנט אמר שהוא לא רואה \"בעיה מערכתית\" בגאות. המשקיעים לא ממש השתכנעו - כספים זרמו מנכסי סיכון לאג\"ח ממשלתיות אמריקאיות, שרשמו בעקבות זאת את היום הטוב ביותר שלהן זה יותר משנתיים.\n\nהשלווה הזו לא החזיקה הרבה זמן. ביום שישי דחפה התלקחות אלימות במזרח התיכון את חוזי הנפט מסוג ברנט לכיוון 117 דולר לחבית, לפני שנרגעו לכ-112 דולר, והאפשרות שנפט יקר יותר יתורגם לאינפלציה - ממש לפני החלטת הריבית של הפדרל ריזרב - שינתה את מצב הרוח בחזרה. הפעם המניות והאג\"ח ירדו בד בבד: מדד דאו ג'ונס צנח ב-1.2% ביום המסחר, נאסד\"ק נסוג 0.5% בסיכום השבועי, ומדד מניות השבבים רשם את הירידה השבועית הארוכה ביותר שלו מאז נובמבר, אף שמניות השבבים עצמן טיפסו ביום שישי. הזהב נפל מתחת ל-4,000 דולר לאונקיה, והכסף נגע בשפל שנתי חדש - סימן שאפילו נכסי מקלט מסורתיים לא היו חסינים לחלוטין. וול סטריט ג'ורנל סיכם את התנודתיות בפשטות: \"אינפלציה וחששות מבינה מלאכותית נלחמות על תשומת הלב של המשקיעים.\"\n\nההשפעה הגיעה גם לתל אביב, שם מניות השבבים הישראליות נפלו בעקבות וול סטריט, ומדד ת\"א 35 נסגר בסיכום שבועי בירידה של 2.4% - גם כשמדד מנהלי הרכש (PMI) המקדים של אוקטובר, מדד לפעילות המשק, היה השני בגובהו מאז 2022; תזכורת לכך שהמכירה הגדולה נבעה מחשש מתמחור ומסיכון אינפלציוני, ולא מקריסה פתאומית בפעילות הכלכלית בפועל.\n\n## השפעות מהסדר השני\n\nהשבוע מזכיר ש\"ירידה מנכסי סיכון\" (risk-off) לא אומרת תמיד אותו דבר לגבי אג\"ח. כשהפחד הוא מצמיחה או מתמחור יתר - כמו החשש מבועת AI - משקיעים בדרך כלל קונים אג\"ח ממשלתיות כנכס מקלט (safe haven), מה שמוריד את התשואה (yield) שלהן. כשהפחד הוא מאינפלציה - כמו זינוק בנפט - הם נוטים למכור גם אג\"ח, כי אינפלציה שוחקת את התשלומים הקבועים שאג\"ח מבטיחה, מה שמעלה את התשואה. השבוע הזה סיפק את שני הפחדים בתוך 48 שעות, ולכן האג\"ח קודם עלו ואז מחקו חלק גדול מהעלייה. גל נוסף של עצבנות סביב החוב הממשלתי הצרפתי הוסיף לחץ על תשואות האג\"ח האמריקאיות בשלב אחר של השבוע - תזכורת לכך ששוק האג\"ח האמריקאי לא נע בבדידות מלחצים במקומות אחרים.\n\nלפד, התזמון מביך. קברניטי המדיניות שנפגשים כדי להכריע על הריבית מחזיקים כעת בסימן אינפלציוני טרי שמקורו בנפט, שעליהם לשקול לעומת שוק מניות שכבר עצבני בגלל חשש מבועת השקעות ב-AI - שתי בעיות שבאופן טבעי מצדיקות תגובות מנוגדות, כי ריסון אינפלציה מצדיק זהירות בהורדות ריבית, בזמן שהרגעת שווקים עצבניים מצדיקה הרגעה.\n\n## למה לשים לב בהמשך\n\nהמבחן הישיר ביותר הוא החלטת הריבית של הפד עצמה, ואם קברניטי המדיניות יתייחסו במפורש לדיון על תמחור יתר ב-AI. מעבר לזה, שימו לב אם האלימות במזרח התיכון שדחפה את הברנט לכיוון 117 דולר תמשיך להסלים או תירגע, כי הנפט הוא כרגע הצינור המרכזי שבו גיאופוליטיקה מגיעה לשווקים. וכדאי לעקוב גם אחרי השאלה אם עוד קולות בכירים בוול סטריט ינסו, בעקבות בלקסטון ובסנט, להרגיע פומבית חששות מ\"בועה\" - סימן שהם מודאגים מהסנטימנט מספיק כדי להתערב - לעומת הפסיקה של השוק עצמו, שהשבוע נטתה לכיוון הספקנים."
+      },
+      "tags": [
+        "ai-bubble",
+        "bonds",
+        "oil-prices",
+        "federal-reserve"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Chipmakers Post Longest Weekly Drop Since November",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-23/chipmakers-post-longest-weekly-drop-since-november-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Winter arrives in markets",
+          "url": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stocks, Pulled in Two Directions, Fall to End Volatile Week",
+          "url": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears",
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Fall as Oil Prices Hit Five-Month High",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Selloff Continues as Oil Surges",
+          "url": "https://www.wsj.com/finance/stocks/stock-selloff-continues-as-oil-surges-a6d20245?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Precious Metals Lose Ground As Oil Prices Press Higher",
+          "url": "https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
+          "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-up-bond-market-focus-to-stay-on-france-8b28a326?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
+          "url": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "סגירה אדומה בוול סטריט; נאסד\"ק נסוג השבוע ב-0.5%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-23/ty-article-live/000001a1-525b-d9e4-a1bd-575b1cd10000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "החשש העולמי מבינה מלאכותית הפיל את מניות הטכנולוגיה — והזניק את שוק האג\"ח האמריקאי",
+          "url": "https://www.themarker.com/wallstreet/2026-10-23/ty-article/.premium/000001a1-674e-db3a-a9fb-f7ef40d70000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "המסחר ננעל בירידות במחזור גבוה; ת\"א 35 איבד 2.4% בסיכום שבועי",
+          "url": "https://www.themarker.com/markets/2026-10-23/ty-article-live/000001a1-6751-db3a-a9fb-f7fbb29e0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מניות השבבים הישראליות נפלו בוול סטריט — איך זה ישפיע על המסחר בתל אביב?",
+          "url": "https://www.themarker.com/markets/2026-10-23/ty-article/.premium/000001a1-670c-db3a-a9fb-f7af0bcb0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4124.1299,
+      "prev_close": 4166.25,
+      "change_pct": -1.01,
+      "as_of": "2026-10-23"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7623.6802,
+      "prev_close": 7663.4302,
+      "change_pct": -0.52,
+      "as_of": "2026-10-23"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0991,
+      "prev_close": 3.0876,
+      "change_pct": 0.37,
+      "as_of": "2026-10-23"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 111.66,
+      "prev_close": 113.17,
+      "change_pct": -1.33,
+      "as_of": "2026-10-23"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 80890.1484,
+      "prev_close": 81311.8906,
+      "change_pct": -0.52,
+      "as_of": "2026-10-24"
+    }
+  }
+}
