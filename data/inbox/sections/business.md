@@ -18,117 +18,117 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets",
+     "published": "2026-10-24T07:00:00+00:00",
+     "summary": "Shares of Switzerland’s ultra-defensive big companies are a bright spot in a tumultuous period for European equity markets."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
      "published": "2026-10-24T04:41:29+00:00",
      "summary": "Kenya has reported a second death from Ebola, a 65-year-old woman who was a close family member of the index case."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
      "published": "2026-10-24T04:24:04+00:00",
      "summary": "A developer of a liquefied natural gas facility in Alaska received financing from Russia-based Novatek PJSC, an energy giant that is subject to US sanctions, the Financial Times reported."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "India Regulator Orders Options Trainer Avadhut Sathe to Refund INR 5.46B",
      "published": "2026-10-24T03:54:47+00:00",
      "summary": "India’s market regulator has ordered options trader Avadhut Sathe and his trading academy to refund 5.46 billion rupees ($57.5 million) to course participants after finding they provided unregistered investment advice and research services under the guise of stock market education."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Singapore Expands Haze Investigation to 10 Locally Based Firms",
      "published": "2026-10-24T03:20:42+00:00",
      "summary": "Singapore expanded its investigation into haze-creating fires in Indonesia that have blanketed the city-state in smog, requesting information from 10 locally registered companies."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast",
      "published": "2026-10-24T02:43:17+00:00",
      "summary": "The US has ordered the departure of diplomatic personnel and adjusted staffing at embassies across the Middle East as a result of Iranian efforts to target Americans, as well as threats from Houthi militants in Yemen, according to an American official."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
      "published": "2026-10-24T00:12:59+00:00",
      "summary": "Growth and value shares are set for an overhaul after S&P Dow Jones Indices adopted new rules on how to sort equities into the two investment styles."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
      "published": "2026-10-23T22:47:27+00:00",
      "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Whitney Tilson, Stansberry Research Editor, and Stephanie Guild, Robinhood CIO. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Andrew Brandt on MLB Salary Cap Fight as World Series Begins",
      "published": "2026-10-23T22:09:13+00:00",
      "summary": "Andrew Brandt says the Brewers and Rays reaching the World Series—despite ranking 19th and 26th in payroll, respectively—shows how strong management, scouting and player development can compete with high spending. He calls the matchup evidence for the players’ union that success is possible without a salary cap, while cautioning that owners may dismiss it as an unsustainable exception: smaller-mar"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "'Notes on Being a Man', 'The Invisible Hand'",
      "published": "2026-10-23T22:05:12+00:00",
      "summary": "Bloomberg's Scarlet Fu and Tom Keene discuss their must-read book on this week's edition of \"Bloomberg Money.\" They discuss 'Notes on Being a Man' by Scott Galloway and 'The Invisible Hand of Maria Edgeworth: How a Nineteenth-Century Novelist Taught the World Economics' by Jeanna Smialek. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
      "published": "2026-10-23T21:58:51+00:00",
      "summary": "Bloomberg's John Tozzi joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" The annual cost of a US family’s employer-provided healthcare plan reached an average $28,303 this year, 5% more than 2025, according to an annual survey conducted by health policy nonprofit KFF. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
      "published": "2026-10-23T21:56:15+00:00",
      "summary": "Data centers face potential credit rating downgrades due to moratoriums and cancellations driven by public opposition, according to S&P Global Ratings."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Cidade do Pará rebelada contra política ambiental abraça Flávio",
      "published": "2026-10-23T21:51:49+00:00",
      "summary": "O repórter Fabiano Maisonnave conta sobre como a cidade do Pará rebelada contra política ambiental abraça Flávio. Com produção de Gisele Fernandes e edição de Mariana Lumy. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Robin Wigglesworth on the Importance of Curiosity",
      "published": "2026-10-23T21:39:56+00:00",
      "summary": "Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is \"a miracle of the modern world,\" and when we should actually start worrying about US debt. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "National Wealth Tax Could Work: Tilson",
      "published": "2026-10-23T21:34:51+00:00",
      "summary": "Whitney Tilson, editor for Stansberry Research, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss Tilson's hopes to bring Democrats back to the center, his personal investing strategy, and the potential for a national wealth tax. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "San Diego to Leave Muni Bond Group After SEC Oversight Concerns",
      "published": "2026-10-23T21:29:20+00:00",
      "summary": "The city of San Diego said it plans to withdraw from a group that helps issue and manage billions of dollars in municipal bonds after federal regulators raised concerns about the organization’s oversight."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Chipmakers Post Longest Weekly Drop Since November",
      "published": "2026-10-23T20:57:57+00:00",
      "summary": "A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates. Brent crude settled near $117 as a flare-up in Middle East violence threatened supplies. Most S&P 500 firms fell even as selling pressure on tech shares abated. A gauge of chipmakers edged up, but posted its longest weekly drop since November"
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "Hedge Funds Are Record Short Natural Gas on Mild Winter Outlook",
      "published": "2026-10-23T20:54:09+00:00",
      "summary": "Hedge-fund managers have amassed a record short position in US natural gas on expectations for an unusually mild northern winter that points to anemic demand for the furnace and power-plant fuel."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#18",
      "title": "The Circuit - Season 6 Trailer",
      "published": "2026-10-23T15:57:36+00:00",
      "summary": "A Bloomberg Originals series hosted by Emily Chang that goes behind the scenes with founders, influencers and innovators. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#18",
-     "title": "Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote",
-     "published": "2026-10-23T11:00:04+00:00",
-     "summary": "Wall Street strategists who recommended loading up on Brazil assets after Flávio Bolsonaro emerged as the frontrunner for president are about to see if they led clients astray or to profits ahead of Sunday’s too-close-to-call runoff."
     }
    ]
   },
@@ -559,9 +559,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 80762.5781,
-   "prev_close": 81311.8906,
-   "change_pct": -0.68,
+   "last": 80745.7578,
+   "prev_close": 81074.1875,
+   "change_pct": -0.41,
    "as_of": "2026-10-24"
   }
  },

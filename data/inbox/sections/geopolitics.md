@@ -42,51 +42,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#4",
-     "title": "Georgia man charged with throwing Molotov cocktail at Atlanta ICE building - AP News",
-     "published": "2026-10-24T03:36:00+00:00",
-     "summary": "Georgia man charged with throwing Molotov cocktail at Atlanta ICE building AP News"
-    },
-    {
-     "ref": "ap_world#5",
      "title": "Prince Harry's wife Meghan 'deeply distressed' by allegations her father had indecent images - AP News",
      "published": "2026-10-24T03:10:00+00:00",
      "summary": "Prince Harry's wife Meghan 'deeply distressed' by allegations her father had indecent images AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#5",
      "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast - AP News",
      "published": "2026-10-24T03:08:00+00:00",
      "summary": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#6",
      "title": "Pelicans’ Missi injures left knee against Jazz - AP News",
      "published": "2026-10-24T03:04:00+00:00",
      "summary": "Pelicans’ Missi injures left knee against Jazz AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#7",
      "title": "24-year-old Coast Guard swimmer says he fought waves and darkness to rescue 16 people from ocean - AP News",
      "published": "2026-10-24T02:49:00+00:00",
      "summary": "24-year-old Coast Guard swimmer says he fought waves and darkness to rescue 16 people from ocean AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#8",
      "title": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack - AP News",
      "published": "2026-10-24T02:45:00+00:00",
      "summary": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#9",
      "title": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News",
      "published": "2026-10-24T02:44:00+00:00",
      "summary": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#10",
      "title": "Ohio Republicans' statewide bus tour rolls as Ramaswamy ad with Acton's mother divides the party - AP News",
      "published": "2026-10-24T02:42:00+00:00",
      "summary": "Ohio Republicans' statewide bus tour rolls as Ramaswamy ad with Acton's mother divides the party AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "LeBron James - AP News",
+     "published": "2026-10-24T02:31:04+00:00",
+     "summary": "LeBron James AP News"
     },
     {
      "ref": "ap_world#12",
@@ -174,93 +174,93 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+     "published": "2026-10-24T07:17:44+00:00",
+     "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "France prepares for day of protest a week after nationwide riots",
      "published": "2026-10-24T06:19:46+00:00",
      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
      "published": "2026-10-24T05:31:01+00:00",
      "summary": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "How Brazil's changing working class is reshaping the presidential race",
      "published": "2026-10-24T05:05:44+00:00",
      "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "The rise of AI election ads in US midterms campaign",
      "published": "2026-10-24T05:03:44+00:00",
      "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
      "published": "2026-10-24T03:51:25+00:00",
      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Australian MP's condition improves after alleged car attack",
      "published": "2026-10-24T01:55:15+00:00",
      "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
      "published": "2026-10-24T00:05:43+00:00",
      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
      "published": "2026-10-23T23:11:31+00:00",
      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#9",
      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
      "published": "2026-10-23T23:09:16+00:00",
      "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#10",
      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
      "published": "2026-10-23T23:08:23+00:00",
      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "Argentina drops investigation into President Milei over crypto fraud",
      "published": "2026-10-23T20:59:39+00:00",
      "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
      "published": "2026-10-23T20:18:13+00:00",
      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
      "published": "2026-10-23T19:46:30+00:00",
      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
      "published": "2026-10-23T19:42:08+00:00",
      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
-    },
-    {
-     "ref": "bbc_world#14",
-     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-     "published": "2026-10-23T19:30:19+00:00",
-     "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
     },
     {
      "ref": "bbc_world#15",
@@ -378,27 +378,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "foreign_affairs#5",
-     "title": "Empires of AI",
-     "published": "2026-10-20T04:00:00+00:00",
-     "summary": "In this essay, Niall Ferguson, one of the world’s foremost experts on imperial history, teams up the former CEO of Google, Eric Schmidt, and the researcher Lisa Klaassen to make the provocative argument that AI is an inherently “imperial technology”—and to reveal what the fate of past empires might say about the future of U.S.-Chinese competition in a world shaped by AI."
-    },
-    {
-     "ref": "foreign_affairs#6",
-     "title": "The Fog of Tech",
-     "published": "2026-10-20T04:00:00+00:00",
-     "summary": "Mara Karlin, a defense policy expert who served as senior national-security official in multiple American administrations, makes an authoritative case that war planners tend to be overconfident about their ability to predict how new tools will shape the battlefield—blinding them to the unchanging realities of war. Using examples from Gaza, Ukraine, and Iran, Karlin shows how this \"technology trap\""
-    },
-    {
-     "ref": "foreign_affairs#7",
      "title": "The Limits of American Power",
      "published": "2026-10-20T04:00:00+00:00",
      "summary": "William McRaven, a retired four-star admiral and a major figure in American military affairs, uses history and his personal experiences to make an authoritative case that American leaders frequently overestimate the potential of military force to achieve political ends—and that new technologies like AI will exacerbate this problem."
     },
     {
-     "ref": "foreign_affairs#8",
+     "ref": "foreign_affairs#6",
      "title": "The Chokepoint Trap",
      "published": "2026-10-20T04:00:00+00:00",
      "summary": "Niall Ferguson, the leading historian of empire, former Google CEO Eric Schmidt, and AI scholar Lisa Klassen offer a novel reframing of the US-China AI race in the history of world empires. The authors argue that AI is inherently imperial in it ambitions and structure, and that, like previous technological empires, China and US have amassed extraordinary global but that it's happening at a much fa"
+    },
+    {
+     "ref": "foreign_affairs#7",
+     "title": "The Fog of Tech",
+     "published": "2026-10-20T04:00:00+00:00",
+     "summary": "Mara Karlin, a defense policy expert who served as senior national-security official in multiple American administrations, makes an authoritative case that war planners tend to be overconfident about their ability to predict how new tools will shape the battlefield—blinding them to the unchanging realities of war. Using examples from Gaza, Ukraine, and Iran, Karlin shows how this \"technology trap\""
+    },
+    {
+     "ref": "foreign_affairs#8",
+     "title": "Empires of AI",
+     "published": "2026-10-20T04:00:00+00:00",
+     "summary": "In this essay, Niall Ferguson, one of the world’s foremost experts on imperial history, teams up the former CEO of Google, Eric Schmidt, and the researcher Lisa Klaassen to make the provocative argument that AI is an inherently “imperial technology”—and to reveal what the fate of past empires might say about the future of U.S.-Chinese competition in a world shaped by AI."
     },
     {
      "ref": "foreign_affairs#9",
@@ -462,45 +462,45 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#4",
+     "title": "Police officers resign after fatal shooting of Black child in Mississippi - Reuters",
+     "published": "2026-10-24T01:49:00+00:00",
+     "summary": "Police officers resign after fatal shooting of Black child in Mississippi Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "UK government sets out $800 million of AI security funding - Reuters",
      "published": "2026-10-23T23:03:43+00:00",
      "summary": "UK government sets out $800 million of AI security funding Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Thailand welcomes US-Myanmar engagement, expects ASEAN talks on country's future - Reuters",
      "published": "2026-10-23T22:57:43+00:00",
      "summary": "Thailand welcomes US-Myanmar engagement, expects ASEAN talks on country's future Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "Carney dismisses US accusations of Canadian election interference - Reuters",
      "published": "2026-10-23T22:44:02+00:00",
      "summary": "Carney dismisses US accusations of Canadian election interference Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "SoftBank-backed OPay eyes up to $4.4 billion US IPO valuation - Reuters",
      "published": "2026-10-23T22:41:05+00:00",
      "summary": "SoftBank-backed OPay eyes up to $4.4 billion US IPO valuation Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll - Reuters",
      "published": "2026-10-23T22:21:31+00:00",
      "summary": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Pentagon designates Confucius Institutes in US a national security threat - Reuters",
      "published": "2026-10-23T22:20:28+00:00",
      "summary": "Pentagon designates Confucius Institutes in US a national security threat Reuters"
-    },
-    {
-     "ref": "reuters_world#10",
-     "title": "Morocco expects stable fiscal deficit despite tax cuts in 2027 - Reuters",
-     "published": "2026-10-23T22:07:43+00:00",
-     "summary": "Morocco expects stable fiscal deficit despite tax cuts in 2027 Reuters"
     },
     {
      "ref": "reuters_world#11",

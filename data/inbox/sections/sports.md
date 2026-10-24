@@ -74,20 +74,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-2"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-23T19:00:00Z",
-     "home": "Ipswich Town",
-     "away": "Nottingham",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-23T19:00:00Z",
      "home": "Bolton",
      "away": "Middlesbrough",
      "status": "FINISHED",
      "score": "1-5"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-23T19:00:00Z",
+     "home": "Ipswich Town",
+     "away": "Nottingham",
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "Primera Division",
@@ -134,16 +134,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-24T11:30:00Z",
-     "home": "Charlton",
-     "away": "Norwich",
+     "home": "Sheffield Utd",
+     "away": "Derby County",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-24T11:30:00Z",
-     "home": "Sheffield Utd",
-     "away": "Derby County",
+     "home": "Charlton",
+     "away": "Norwich",
      "status": "TIMED",
      "score": null
     },
@@ -214,14 +214,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "QPR",
-     "away": "Swansea",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
      "home": "Blackburn",
      "away": "Wrexham",
      "status": "TIMED",
@@ -240,6 +232,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-24T14:00:00Z",
      "home": "West Ham",
      "away": "Southampton",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "QPR",
+     "away": "Swansea",
      "status": "TIMED",
      "score": null
     },
@@ -958,9 +958,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
-     "published": "2026-10-24T06:02:44+00:00",
-     "summary": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One."
+     "title": "Carter-Vickers could make Premier League switch - gossip",
+     "published": "2026-10-24T07:16:59+00:00",
+     "summary": "Star Celtic defender is linked with a Premier League switch, while Rangers are eyeing up a January move for Swedish winger Oskar Fallenius."
     },
     {
      "ref": "bbc_football#1",
@@ -970,63 +970,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#2",
+     "title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
+     "published": "2026-10-24T06:02:44+00:00",
+     "summary": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One."
+    },
+    {
+     "ref": "bbc_football#3",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-24T05:41:29+00:00",
      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
      "published": "2026-10-23T22:21:51+00:00",
      "summary": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
      "published": "2026-10-23T22:15:29+00:00",
      "summary": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay patient' as Forest's winless run stretched to four matches."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
      "published": "2026-10-23T21:54:54+00:00",
      "summary": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Borussia M'gladbach finally get first win after five-goal thriller",
      "published": "2026-10-23T21:37:41+00:00",
      "summary": "Bundesliga's bottom side Borussia Monchengladbach come from behind to beat Stuttgart 3-2, as the away side secure their first league win of the season, at the seventh attempt."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
      "published": "2026-10-23T21:32:04+00:00",
      "summary": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Spygate put me in difficult position - Southampton technical director",
      "published": "2026-10-23T17:23:21+00:00",
      "summary": "Southampton group technical director Johannes Spors says that the Spygate scandal put him in a \"difficult position\" over the summer."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Kompany taken to hospital after collapsing at training",
      "published": "2026-10-23T16:39:03+00:00",
      "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
      "title": "AFC Wimbledon's Skiverton diagnosed with cancer",
      "published": "2026-10-23T15:45:07+00:00",
      "summary": "AFC Wimbledon assistant manager Terry Skiverton is scheduled to begin treatment in the coming weeks after being diagnosed with throat cancer."
-    },
-    {
-     "ref": "bbc_football#11",
-     "title": "Premiership preview: Form strikers in focus and will Rangers respond?",
-     "published": "2026-10-23T15:39:58+00:00",
-     "summary": "An analysis of the key Scottish Premiership questions before Saturday and Sunday's fixtures."
     },
     {
      "ref": "bbc_football#12",
@@ -1036,45 +1036,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#13",
+     "title": "Premiership preview: Form strikers in focus and will Rangers respond?",
+     "published": "2026-10-23T15:39:58+00:00",
+     "summary": "An analysis of the key Scottish Premiership questions before Saturday and Sunday's fixtures."
+    },
+    {
+     "ref": "bbc_football#14",
      "title": "Derby day - when Chelsea and Spurs meet, is chaos guaranteed?",
      "published": "2026-10-23T14:49:59+00:00",
      "summary": "Chelsea face Tottenham Hotspur in the Premier League this weekend - and BBC Sport looks back at five memorable matches between the London rivals."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "PSG v Lyon moved as Paris prepares for more protests",
      "published": "2026-10-23T14:18:41+00:00",
      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "Raskin happy at Rangers but unsure about January",
      "published": "2026-10-23T14:11:42+00:00",
      "summary": "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "Raskin 'very happy' at Rangers but unsure about January",
      "published": "2026-10-23T14:11:42+00:00",
      "summary": "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Arsenal fear Saka could be out for two months",
      "published": "2026-10-23T14:09:36+00:00",
      "summary": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
      "published": "2026-10-23T13:55:37+00:00",
      "summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "Penicuik v Clyde in Scottish Cup postponed",
-     "published": "2026-10-23T12:22:01+00:00",
-     "summary": "Friday's Scottish Cup tie between Penicuik Athletic and Clyde has been postponed until Tuesday because of heavy rain."
     },
     {
      "ref": "bbc_football#20",
@@ -1084,27 +1084,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#21",
+     "title": "Penicuik v Clyde in Scottish Cup postponed",
+     "published": "2026-10-23T12:22:01+00:00",
+     "summary": "Friday's Scottish Cup tie between Penicuik Athletic and Clyde has been postponed until Tuesday because of heavy rain."
+    },
+    {
+     "ref": "bbc_football#22",
      "title": "Cost of football regulator double initial estimate",
      "published": "2026-10-23T12:19:33+00:00",
      "summary": "The annual cost to clubs of English football's Independent Regulator (IFR) has risen to £20.3m, around double the amount initially estimated."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Conte plays down 'unfounded' Man Utd speculation",
      "published": "2026-10-23T12:15:53+00:00",
      "summary": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "All you need to know about the 2026 Ballon d'Or",
      "published": "2026-10-23T11:55:45+00:00",
      "summary": "Our Ask Me Anything team tells you all you need to know about the 70th Ballon d'Or Ceremony."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Emery's Villa 2.0 reboot restores optimism before Man City meeting",
-     "published": "2026-10-23T11:23:37+00:00",
-     "summary": "Unai Emery's impressive 2.0 reboot has Aston Villa's fans in buoyant mood on the fourth anniversary of his appointment, says chief football writer Phil McNulty."
     }
    ]
   },
@@ -1127,7 +1127,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#2",
      "title": "Barcelona, Inter Miami hail Messi’s historic Asturias award - Punch Newspapers",
-     "published": "2026-10-24T06:13:56+00:00",
+     "published": "2026-10-24T06:08:35+00:00",
      "summary": "Barcelona, Inter Miami hail Messi’s historic Asturias award Punch Newspapers"
     },
     {
@@ -1228,39 +1228,39 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#19",
-     "title": "RBNYvsMIA 10-24-2026 - Inter Miami CF",
-     "published": "2026-10-23T21:30:18+00:00",
-     "summary": "RBNYvsMIA 10-24-2026 Inter Miami CF"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
      "title": "Paul Pogba Linked With Inter Miami as Lionel Messi Reunion Remains Only a Possibility - Pasión Fútbol",
      "published": "2026-10-23T21:00:00+00:00",
      "summary": "Paul Pogba Linked With Inter Miami as Lionel Messi Reunion Remains Only a Possibility Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "New York Red Bulls vs Inter Miami: Kalshi Promo Code & $25 Bonus - Squawka",
      "published": "2026-10-23T20:59:20+00:00",
      "summary": "New York Red Bulls vs Inter Miami: Kalshi Promo Code & $25 Bonus Squawka"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "MATCH PREVIEW: Inter Miami CF Visits Red Bull New York in Search of Fourth Straight Win - Inter Miami CF",
      "published": "2026-10-23T20:59:06+00:00",
      "summary": "MATCH PREVIEW: Inter Miami CF Visits Red Bull New York in Search of Fourth Straight Win Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "After visiting Spain: will Messi watch El Clasico from the Camp Nou? - Goal.com",
      "published": "2026-10-23T20:53:07+00:00",
      "summary": "After visiting Spain: will Messi watch El Clasico from the Camp Nou? Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "After visiting Spain: will Messi watch the Clasico from the Camp Nou? - LiveScore",
      "published": "2026-10-23T20:52:24+00:00",
      "summary": "After visiting Spain: will Messi watch the Clasico from the Camp Nou? LiveScore"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "MLS Hot Takes, Odds, Picks and Predictions for October 24-25 - BetUS",
+     "published": "2026-10-23T20:49:25+00:00",
+     "summary": "MLS Hot Takes, Odds, Picks and Predictions for October 24-25 BetUS"
     }
    ]
   },
@@ -1282,9 +1282,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#2",
-     "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - Times Union",
-     "published": "2026-10-24T05:15:55+00:00",
-     "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings Times Union"
+     "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - CT Insider",
+     "published": "2026-10-24T05:22:15+00:00",
+     "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings CT Insider"
     },
     {
      "ref": "gnews_israeli_nba#3",
@@ -1300,123 +1300,123 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#5",
+     "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - The Killeen Daily Herald",
+     "published": "2026-10-24T05:07:45+00:00",
+     "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings The Killeen Daily Herald"
+    },
+    {
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - McAlester news",
      "published": "2026-10-24T05:07:45+00:00",
      "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings McAlester news"
     },
     {
-     "ref": "gnews_israeli_nba#6",
-     "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - couriernews.com",
-     "published": "2026-10-24T05:07:45+00:00",
-     "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings couriernews.com"
-    },
-    {
      "ref": "gnews_israeli_nba#7",
-     "title": "Deni Avdija propels Blazers to comeback victory over Kings - Miami Herald",
-     "published": "2026-10-24T05:00:00+00:00",
-     "summary": "Deni Avdija propels Blazers to comeback victory over Kings Miami Herald"
+     "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - Yahoo Sports",
+     "published": "2026-10-24T05:07:00+00:00",
+     "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings Yahoo Sports"
     },
     {
      "ref": "gnews_israeli_nba#8",
+     "title": "Deni Avdija propels Blazers to comeback victory over Kings - Fresno Bee",
+     "published": "2026-10-24T05:00:00+00:00",
+     "summary": "Deni Avdija propels Blazers to comeback victory over Kings Fresno Bee"
+    },
+    {
+     "ref": "gnews_israeli_nba#9",
      "title": "NBA Most Improved Player Odds & Favorites for 2027 - sports.betmgm.com",
      "published": "2026-10-24T03:55:20+00:00",
      "summary": "NBA Most Improved Player Odds & Favorites for 2027 sports.betmgm.com"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
      "published": "2026-10-23T19:07:22+00:00",
      "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Nets' Ben Saraf: No minutes against Charlotte - CBS Sports",
      "published": "2026-10-22T16:27:45+00:00",
      "summary": "Nets' Ben Saraf: No minutes against Charlotte CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Bulls quickly learn why Josh Giddey isn't built to recreate Deni Avdija's leap - Rip City Project",
      "published": "2026-10-22T16:04:04+00:00",
      "summary": "Bulls quickly learn why Josh Giddey isn't built to recreate Deni Avdija's leap Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Trail Blazers' Deni Avdija: Double-double in season opener - CBS Sports",
      "published": "2026-10-22T14:46:45+00:00",
      "summary": "Trail Blazers' Deni Avdija: Double-double in season opener CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 - The Ringer",
      "published": "2026-10-22T12:15:38+00:00",
      "summary": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 The Ringer"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija logs double-double Wednesday - FantasyPros",
      "published": "2026-10-22T06:56:45+00:00",
      "summary": "Deni Avdija logs double-double Wednesday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija remains questionable before Blazers vs. Suns as Toumani Camara watch looms - شبكة تواصل الإخبارية",
      "published": "2026-10-22T02:45:52+00:00",
      "summary": "Deni Avdija remains questionable before Blazers vs. Suns as Toumani Camara watch looms شبكة تواصل الإخبارية"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija Headlines Today’s NBA Injury Report: Wednesday 10/21/26 - DraftKings Network",
      "published": "2026-10-22T01:31:40+00:00",
      "summary": "Deni Avdija Headlines Today’s NBA Injury Report: Wednesday 10/21/26 DraftKings Network"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Trail Blazers' Deni Avdija: Good to go Wednesday - CBS Sports",
      "published": "2026-10-22T01:06:25+00:00",
      "summary": "Trail Blazers' Deni Avdija: Good to go Wednesday CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija News: Good to go Wednesday - RotoWire",
      "published": "2026-10-22T01:06:25+00:00",
      "summary": "Deni Avdija News: Good to go Wednesday RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija regular season stats: averages by season - BasketNews.com",
      "published": "2026-10-22T00:58:29+00:00",
      "summary": "Deni Avdija regular season stats: averages by season BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Final Injury Report for Suns-Trail Blazers: Will Deni Avdija, Damian Lillard Play? - AOL.com",
      "published": "2026-10-21T22:00:00+00:00",
      "summary": "Final Injury Report for Suns-Trail Blazers: Will Deni Avdija, Damian Lillard Play? AOL.com"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#22",
      "title": "Experts release final Blazers vs. Suns predictions: Deni Avdija injury update, line moves and model best bets - OregonLive.com",
      "published": "2026-10-21T21:09:00+00:00",
      "summary": "Experts release final Blazers vs. Suns predictions: Deni Avdija injury update, line moves and model best bets OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Fantasy Basketball Week 1 Injury Report: Deni Avdija questionable, AJ Dybantsa out for opener - Yahoo Sports",
      "published": "2026-10-21T16:30:00+00:00",
      "summary": "Fantasy Basketball Week 1 Injury Report: Deni Avdija questionable, AJ Dybantsa out for opener Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#24",
      "title": "Ben Saraf EuroCup stats: averages by season - BasketNews.com",
      "published": "2026-10-21T15:52:16+00:00",
      "summary": "Ben Saraf EuroCup stats: averages by season BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Is Deni Avdija playing tonight? Blazers vs. Suns injury report to open season - ClutchPoints",
-     "published": "2026-10-21T14:29:23+00:00",
-     "summary": "Is Deni Avdija playing tonight? Blazers vs. Suns injury report to open season ClutchPoints"
     }
    ]
   }
