@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "U.S. Department of Justice - AP News",
+     "published": "2026-10-24T07:50:12+00:00",
+     "summary": "U.S. Department of Justice AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "North Korean leader Kim Jong Un visits China, South Korean news agency reports - AP News",
+     "published": "2026-10-24T06:44:00+00:00",
+     "summary": "North Korean leader Kim Jong Un visits China, South Korean news agency reports AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Brewers withstand Rays’ comeback attempt to win 3-2 in Game 1 of World Series - AP News",
      "published": "2026-10-24T05:34:00+00:00",
      "summary": "Brewers withstand Rays’ comeback attempt to win 3-2 in Game 1 of World Series AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#3",
+     "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels - AP News",
+     "published": "2026-10-24T05:02:00+00:00",
+     "summary": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels AP News"
+    },
+    {
+     "ref": "ap_world#4",
      "title": "Paris shuts museums and police deploy in big numbers for new protests across France - AP News",
      "published": "2026-10-24T04:59:00+00:00",
      "summary": "Paris shuts museums and police deploy in big numbers for new protests across France AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#5",
+     "title": "As Trump fights over what America owes, slavery descendants organize for the future - AP News",
+     "published": "2026-10-24T04:40:38+00:00",
+     "summary": "As Trump fights over what America owes, slavery descendants organize for the future AP News"
+    },
+    {
+     "ref": "ap_world#6",
      "title": "Obama is set to campaign with Democrats in Ohio and Michigan as he ramps up midterm efforts - AP News",
      "published": "2026-10-24T04:02:00+00:00",
      "summary": "Obama is set to campaign with Democrats in Ohio and Michigan as he ramps up midterm efforts AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#7",
      "title": "LeBron James - AP News",
      "published": "2026-10-24T03:57:47+00:00",
      "summary": "LeBron James AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#8",
      "title": "Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens - AP News",
      "published": "2026-10-24T03:38:00+00:00",
      "summary": "Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#9",
      "title": "Prince Harry's wife Meghan 'deeply distressed' by allegations her father had indecent images - AP News",
      "published": "2026-10-24T03:10:00+00:00",
      "summary": "Prince Harry's wife Meghan 'deeply distressed' by allegations her father had indecent images AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#10",
      "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast - AP News",
      "published": "2026-10-24T03:08:00+00:00",
      "summary": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#11",
      "title": "Pelicans’ Missi injures left knee against Jazz - AP News",
      "published": "2026-10-24T03:04:00+00:00",
      "summary": "Pelicans’ Missi injures left knee against Jazz AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#12",
      "title": "24-year-old Coast Guard swimmer says he fought waves and darkness to rescue 16 people from ocean - AP News",
      "published": "2026-10-24T02:49:00+00:00",
      "summary": "24-year-old Coast Guard swimmer says he fought waves and darkness to rescue 16 people from ocean AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#13",
      "title": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack - AP News",
      "published": "2026-10-24T02:45:00+00:00",
      "summary": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#14",
+     "title": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News",
+     "published": "2026-10-24T02:44:00+00:00",
+     "summary": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "Ohio Republicans' statewide bus tour rolls as Ramaswamy ad with Acton's mother divides the party - AP News",
      "published": "2026-10-24T02:42:00+00:00",
      "summary": "Ohio Republicans' statewide bus tour rolls as Ramaswamy ad with Acton's mother divides the party AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#16",
      "title": "Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news - AP News",
      "published": "2026-10-24T02:29:00+00:00",
      "summary": "Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#17",
      "title": "US is reducing staffing at 4 Middle East embassies over increased threats from Iran - AP News",
      "published": "2026-10-24T02:19:00+00:00",
      "summary": "US is reducing staffing at 4 Middle East embassies over increased threats from Iran AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#18",
      "title": "Kenya announces 2nd Ebola death, a close relative of the first patient - AP News",
      "published": "2026-10-24T02:07:00+00:00",
      "summary": "Kenya announces 2nd Ebola death, a close relative of the first patient AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#19",
      "title": "DOJ orders some California counties to verify ballots in 48 hours - AP News",
      "published": "2026-10-24T01:29:00+00:00",
      "summary": "DOJ orders some California counties to verify ballots in 48 hours AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#20",
      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 - AP News",
      "published": "2026-10-24T01:23:00+00:00",
      "summary": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#21",
      "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in - AP News",
      "published": "2026-10-24T01:17:00+00:00",
      "summary": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#22",
      "title": "First tanker of Russian diesel sets sail for the US in Trump’s controversial deal with Putin - AP News",
      "published": "2026-10-24T01:17:00+00:00",
      "summary": "First tanker of Russian diesel sets sail for the US in Trump’s controversial deal with Putin AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#23",
      "title": "Brewers’ Jacob Misiorowski sets World Series velocity record on his first pitch - AP News",
      "published": "2026-10-24T01:06:33+00:00",
      "summary": "Brewers’ Jacob Misiorowski sets World Series velocity record on his first pitch AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#24",
      "title": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran - AP News",
      "published": "2026-10-24T01:04:00+00:00",
      "summary": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Brazil's Lula opens state toolbox to woo voters in runoff against Bolsonaro. Here's what is on offer - AP News",
-     "published": "2026-10-24T01:03:00+00:00",
-     "summary": "Brazil's Lula opens state toolbox to woo voters in runoff against Bolsonaro. Here's what is on offer AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "AP Exclusive: Trump’s border chief defends wall plans in Texas’ Big Bend despite a court setback - AP News",
-     "published": "2026-10-24T00:55:00+00:00",
-     "summary": "AP Exclusive: Trump’s border chief defends wall plans in Texas’ Big Bend despite a court setback AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Robin Yount and Brewers' broadcast team pay tribute to Bob Uecker by borrowing from his wardrobe - AP News",
-     "published": "2026-10-24T00:37:00+00:00",
-     "summary": "Robin Yount and Brewers' broadcast team pay tribute to Bob Uecker by borrowing from his wardrobe AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Dallas Cowboys cheerleaders unionize after years of fighting for higher pay - AP News",
-     "published": "2026-10-24T00:17:00+00:00",
-     "summary": "Dallas Cowboys cheerleaders unionize after years of fighting for higher pay AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "New York state woman charged with voting illegally says she recently learned she wasn’t a citizen - AP News",
-     "published": "2026-10-24T00:14:00+00:00",
-     "summary": "New York state woman charged with voting illegally says she recently learned she wasn’t a citizen AP News"
     }
    ]
   },
@@ -212,7 +212,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "ref": "bbc_world#6",
      "title": "Australian MP's condition improves after alleged car attack",
      "published": "2026-10-24T01:55:15+00:00",
-     "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital."
+     "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital."
     },
     {
      "ref": "bbc_world#7",
@@ -252,45 +252,45 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#13",
+     "title": "Who actually controls Ukraine's access to Starlink?",
+     "published": "2026-10-23T22:24:36+00:00",
+     "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it."
+    },
+    {
+     "ref": "bbc_world#14",
      "title": "Argentina drops investigation into President Milei over crypto fraud",
      "published": "2026-10-23T20:59:39+00:00",
      "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
      "published": "2026-10-23T20:18:13+00:00",
      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
      "published": "2026-10-23T19:46:30+00:00",
      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
      "published": "2026-10-23T19:42:08+00:00",
      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
      "published": "2026-10-23T18:52:17+00:00",
      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "Trump administration sues to block certification of upcoming Alaska election",
      "published": "2026-10-23T18:49:14+00:00",
      "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters."
-    },
-    {
-     "ref": "bbc_world#19",
-     "title": "Watch: CCTV footage shows gunmen near church in Jordan",
-     "published": "2026-10-23T15:59:36+00:00",
-     "summary": "Dozens of people had been inside the church for a funeral when the shooting began, local media report."
     },
     {
      "ref": "bbc_world#20",
