@@ -37,8 +37,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#1",
      "title": "Bhutan: the last place",
      "published": "2026-10-22T10:01:00+00:00",
-     "summary": "What happened when people in Bhutan, the last country on Earth without television, were allowed to watch it in 1999? - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "What happened when people in Bhutan, the last country on Earth without television, were allowed to watch it in 1999? - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#2",
@@ -144,87 +143,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
+     "published": "2026-10-24T04:53:27+00:00",
+     "summary": "Here is the audio, video, and transcript. Here is one excerpt: Cowen: Talk me out of this worry: So we agree science is an ecosystem, and there’s always a temptation to want to fund the most dynamic, most productive parts of the ecosystem. And right now, that would probably be A.I. But if you need […] The post I guest host an NYT podcast with Michael Kratsios, Trump science advisor appeared first "
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "Friday assorted links",
      "published": "2026-10-23T16:35:40+00:00",
      "summary": "1. Weird diets (NYT). 2. Is this what the Denisovans looked like? 3. Measuring bottlenecks for AI. 4. How is violence diffferent when women lead drug cartels? 5. “Israel’s economy is growing so fast, it will leapfrog the Netherlands and Australia within the next 18 months, in time for it’s 80th birthday—not by 2030, as […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "Prediction Markets Are Accurate",
      "published": "2026-10-23T11:18:43+00:00",
      "summary": "No surprise to me but a new paper looks at the forecast accuracy of over one million prediction questions from Polymarket, Kalshi, Manifold and the forecasting platform Metaculus. A virtue of the new analysis is that it covers many different areas from business to elections to geo-politics. An event predicted to happen p% of the […] The post Prediction Markets Are Accurate appeared first on Margin"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "Protecting Americans from Medicine",
      "published": "2026-10-23T11:14:10+00:00",
      "summary": "Max Doppelt: In January 2025 my mom’s lung cancer spread to her brain. The drug with the best chance of helping her was approved in China but not here. A doctor told me, almost as an aside, that if she were Chinese she could buy it at a pharmacy. So I flew to Shanghai and […] The post Protecting Americans from Medicine appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "Podcast with Rabbi David Wolpe",
      "published": "2026-10-23T07:38:28+00:00",
      "summary": "Here is their episode summary: Economist Tyler Cowen joins David Wolpe for a conversation about AI, religion, and what makes us human. Tyler makes the case that AI’s biggest impact may be on status: who gains it, who loses it, and what happens to experts like rabbis when anyone can ask ChatGPT all their questions. […] The post Podcast with Rabbi David Wolpe appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "Will bystander economies be able to finance their governments?",
      "published": "2026-10-23T04:51:50+00:00",
      "summary": "From Jesús Fernández-Villaverde: Will AI poison the public finances of many modern states? There is a real risk that it will. Yesterday, I circulated a new paper, “Saving for the Machines,” which makes a simple point. Building the AI transformation will require enormous investment. The only way to induce agents to save for that investment […] The post Will bystander economies be able to finance th"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026",
      "published": "2026-10-22T18:36:11+00:00",
      "summary": "What happens across generations to wealth shocks? Do they endure and even magnify, or do they dissipate? By implication, how much modern wealth is attributable to events before 1900? This paper uses random shocks to family size in England before 1880 that created wealth shocks for the children to measure the persistence of wealth shocks. […] The post How Long Do Wealth Shocks Persist? Less Than Th"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Thursday assorted links",
      "published": "2026-10-22T15:55:47+00:00",
      "summary": "1. The cherries trade. 2. New YouTube channel for Indian architecture. 3. Where do Math Olympiad gold medal winners end up? “By total gold medal count, China is the clear leader, followed by the pack of USA, Russia, and South Korea. Over 20 years China has 105 out of a possible 120 gold medals which […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "Modern Principles of Economics!",
      "published": "2026-10-22T11:18:12+00:00",
      "summary": "If you are teaching economics Modern Principles is the book to use! Great and original writing, over one hundred videos, iClicker, Achieve and lots of additional support. Contact Mike Krotine to get an examination copy. https://alextabarrok.com/video/modern-principles.mp4 The post Modern Principles of Economics! appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "A simple point about the intertemporal regulation of AI",
      "published": "2026-10-22T07:12:46+00:00",
      "summary": "At some point AI will be more regulated than it is today. Furthermore, I believe that most parts of the American economy, once they are regulated, end up overregulated. Thus it is likely that the AI sector will, at some point, end up overregulated. Given that reality, perhaps the AI sector should be underregulated today. […] The post A simple point about the intertemporal regulation of AI appeared"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "Do mass shootings in universities lead to permanent effects?",
      "published": "2026-10-22T04:42:11+00:00",
      "summary": "Using a stacked difference-in-differences design covering shootings between 1990 and 2025, I compare cohorts at affected universities before and after the shooting with cohorts at matched control universities. I find no detectable effects on time to degree, but undergraduates enrolled at the time of the shooting are 4.2% less likely to pursue further studies. Those […] The post Do mass shootings i"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "More on Elizabeth Holmes and prison",
      "published": "2026-10-21T19:12:57+00:00",
      "summary": "The Free Press asked me to expand upon my views of this matter, here is one excerpt from the piece: Third, fewer women in prison does not have to mean less deterrence overall, as arguably we should concentrate more of our legal resources on deterring violent men. Note that if we can release enough women […] The post More on Elizabeth Holmes and prison appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#12",
      "title": "Wednesday assorted links",
      "published": "2026-10-21T16:09:38+00:00",
      "summary": "1. The Romans and sex. 2. Apartments that expand at the touch of a button. 3. Has this guy composed more songs than anybody else? 4. Psychoanalyzing Elizabeth Holmes. 5. AI wrote some of the Dallas Michelin reviews. And the reviewer responds. 6. New Yorker profile of James Daunt. The last event I was at […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "One reason I do not love AI writing, or even AI-assisted writing",
-     "published": "2026-10-21T06:20:34+00:00",
-     "summary": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty […] The post One reason I do not love AI writing, or even AI-assisted writing appeared first on Marginal REVOLU"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "The Causal Effect of Foreign Ideas on U.S. Innovation",
-     "published": "2026-10-21T05:00:58+00:00",
-     "summary": "Globalization is once again better than many people realize: We study the role of foreign ideas in U.S. innovation by constructing a directed “genealogy” of technologies from the full text of 13 million patents filed between 1887 and 2024. By tracing which earlier technologies appear in the founding patents of new ones, we recover a […] The post The Causal Effect of Foreign Ideas on U.S. Innovatio"
     }
    ]
   },
@@ -259,15 +252,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#4",
-     "title": "Are you getting enough sun?",
-     "published": "2026-10-20T10:00:00+00:00",
-     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
-    },
-    {
-     "ref": "psyche#5",
      "title": "How to overcome task paralysis",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
+    },
+    {
+     "ref": "psyche#5",
+     "title": "Are you getting enough sun?",
+     "published": "2026-10-20T10:00:00+00:00",
+     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
     },
     {
      "ref": "psyche#6",

@@ -65,7 +65,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   {
    "ref": "wikipedia#5",
    "year": 1964,
-   "text": "Charges in a military court against generals Dương Văn Đức and Lâm Văn Phát of leading a coup attempt against South Vietnamese leader Nguyễn Khánh, were dropped.",
+   "text": "Charges in a military court against generals Dương Văn Đức and Lâm Văn Phát of leading a coup attempt against South Vietnamese leader Nguyễn Khánh were dropped.",
    "context": [
     "Lieutenant General Dương Văn Đức was a Vietnamese army officer. He is best known for leading a coup attempt against General Nguyễn Khánh on 14 September 1964. He was a supporter of the Đại Việt Quốc Dân Đảng, a Roman Catholic political movement."
    ]
