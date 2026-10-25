@@ -1,0 +1,214 @@
+{
+  "section": "sports",
+  "date": "2026-10-25",
+  "title_en": "Sports",
+  "title_he": "ספורט",
+  "default_lang": "en",
+  "generated_at": "2026-10-25T03:49:28+00:00",
+  "stories": [
+    {
+      "id": "clasico-barca-real-madrid",
+      "kind": "news",
+      "en": {
+        "headline": "Barça Aim to Pull Clear of Real Madrid in Today's Clásico",
+        "scroll": "Barça host Real Madrid today six points clear at the top of La Liga, looking to turn their red-hot attack into a statement win in the league's biggest fixture.",
+        "coffee": "Barça lead La Liga with 27 points from nine games and a goal difference of +30, six points ahead of third-placed Real Madrid (21 points, also from nine games) and two ahead of second-placed Atlético Madrid (25 points from ten). Kickoff is at 20:00 UTC, 22:00 Israel time.\n\nBarça arrive in red-hot attacking form: a 4-1 win away at Galatasaray and a 5-2 win away at Real Betis in their last two outings outside this fixture. The one blemish was a 2-4 Champions League defeat at Paris Saint-Germain, a reminder that their defense can be breached by top-tier opposition — exactly what Real Madrid will be hoping to exploit.\n\nA Barça win would put them nine points clear of Madrid with games played equal, a gap that would be very hard to close over the rest of the season. A Madrid win, by contrast, cuts the deficit to three points and turns the title race back into a genuine two- or three-way fight with Atlético still in the mix.",
+        "deep": "## Background\n\nEl Clásico is the fixture that most often decides the Spanish league title. Barcelona and Real Madrid are Spain's two dominant clubs, and when both are in form — as they are again this season — their head-to-head results tend to carry disproportionate weight in the final table. Beyond the three points, a Clásico win sets the emotional tone for a club's season: it buys a manager time, shifts dressing-room confidence, and dominates the news cycle in Spain for days.\n\n## The story\n\nBarça go into today's match as clear leaders of La Liga: 27 points from nine games, with a goal difference of +30 that says as much about their attacking output this season as the raw points total. Real Madrid sit third on 21 points from the same number of games — six points back — while Atlético Madrid are sandwiched in second on 25 points, though they have played one game more.\n\nBarça's recent run outside La Liga's weekly grind has been eye-catching on the scoresheet: a 4-1 win away at Galatasaray in the Champions League, then a 5-2 away win at Real Betis in the league. Both results point to a team scoring freely, including on the road, which is historically a strong predictor of form heading into a Clásico. But their most recent outing, a 2-4 Champions League defeat away at Paris Saint-Germain, is the one data point suggesting this is not a team without problems to address — four goals conceded to a team of PSG's quality is a lot, and Real Madrid will have taken note.\n\nThe match kicks off at 20:00 UTC, which is 22:00 in Israel this evening.\n\n## Second-order effects\n\nThe table math makes today's match unusually high-stakes even by Clásico standards. Both sides have played nine La Liga games, so there is no games-in-hand asterisk to qualify the result: a Barça win takes them to a nine-point lead with the rest of the season still to play, the kind of cushion that changes how both clubs plan their run-in. A Real Madrid win, on the other hand, cuts the gap to three points and immediately reframes the title race as a close contest, with Atlético — just two points behind Madrid and two behind Barça — lurking as a third party who benefits from either rival dropping points to the other.\n\nThere's also a psychological dimension that outlasts the scoreline. Clásico results shape how each squad talks about itself for weeks: a home blowout by Barça would reinforce the sense that this is their season to lose, while a Madrid win away at Barça's own ground would hand the visitors a result to point to every time doubts creep in later in the campaign.\n\n## What to watch next\n\nBoth clubs' next assignments offer an immediate test of whatever today produces. Barça host Alavés on 31 October, a fixture they would be expected to win regardless of today's result, but one where any post-Clásico hangover — good or bad — tends to show up first. Keep an eye on the final scoreline's margin as much as the result itself: a narrow 1-0 either way leaves the title race largely where it was, while a repeat of Barça's recent high-scoring form, or a Madrid side that exposes the same defensive gaps PSG found, would tell you more about where the rest of the season is heading than the three points alone."
+      },
+      "he": {
+        "headline": "ברצלונה מנסה להתרחק מריאל מדריד באל קלאסיקו של היום",
+        "scroll": "ברצלונה מארחת את ריאל מדריד הערב בהפרש של שש נקודות בפסגת הליגה הספרדית, ומנסה להפוך התקפה לוהטת לתוצאה מצהירת כוונות.",
+        "coffee": "ברצלונה מובילה בליגה הספרדית (La Liga) עם 27 נקודות מתוך תשעה משחקים והפרש שערים (goal difference) של +30, שש נקודות לפני ריאל מדריד השלישית (21 נקודות, גם היא מתוך תשעה משחקים), ושתיים לפני אתלטיקו מדריד שנמצאת שנייה עם 25 נקודות מתוך עשרה משחקים. המשחק נפתח ב-20:00 לפי UTC, 22:00 בשעון ישראל.\n\nברצלונה מגיעה במומנטום התקפי לוהט: ניצחון 4-1 בחוץ על גלאטסראיי וניצחון 5-2 בחוץ על ריאל בטיס. הכתם היחיד הוא הפסד 2-4 בליגת האלופות בחוץ לפריז סן ז'רמן, תזכורת לכך שההגנה שלה ניתנת לפריצה נגד יריבות מהשורה הראשונה - בדיוק מה שריאל מדריד תרצה לנצל.\n\nניצחון של ברצלונה ייתן לה יתרון של תשע נקודות על ריאל מדריד במספר משחקים שווה, פער שיהיה קשה מאוד לסגור בהמשך העונה. ניצחון של ריאל מדריד, לעומת זאת, יקטין את הפער לשלוש נקודות ויחזיר את מירוץ האליפות להיות תחרות אמיתית של שלוש קבוצות, כאשר אתלטיקו עדיין בתמונה.",
+        "deep": "## רקע\n\nאל קלאסיקו הוא המשחק שהכי הרבה פעמים מכריע את האליפות בליגה הספרדית. ברצלונה וריאל מדריד הן שתי הקבוצות הדומיננטיות בספרד, וכששתיהן במומנטום טוב - כמו העונה - התוצאות ביניהן נוטות לשקול הרבה יותר מהניקוד הגולמי שלהן בטבלה הסופית. מעבר לשלוש הנקודות, ניצחון באל קלאסיקו קובע את האווירה הרגשית של העונה של המועדון: הוא קונה למאמן זמן, משנה את הביטחון בחדר ההלבשה, ומשתלט על סדר היום התקשורתי בספרד לימים.\n\n## הסיפור\n\nברצלונה נכנסת למשחק של היום כמובילה ברורה בליגה: 27 נקודות מתוך תשעה משחקים, עם הפרש שערים של +30 שאומר הרבה על התפוקה ההתקפית שלה העונה. ריאל מדריד נמצאת שלישית עם 21 נקודות מאותו מספר משחקים - שש נקודות מאחור - בזמן שאתלטיקו מדריד תקועה שנייה עם 25 נקודות, אם כי היא שיחקה משחק אחד יותר.\n\nהרצף האחרון של ברצלונה מחוץ לשגרה השבועית של הליגה היה מרשים בתוצאות: ניצחון 4-1 בחוץ על גלאטסראיי בליגת האלופות, ולאחר מכן ניצחון 5-2 בחוץ על ריאל בטיס בליגה. שתי התוצאות מעידות על קבוצה שמבקיעה בקלות, גם כאורחת, וזה היסטורית אינדיקטור חזק למומנטום לפני קלאסיקו. אבל המשחק האחרון שלה, הפסד 2-4 בליגת האלופות בחוץ לפריז סן ז'רמן, הוא נקודת המידע היחידה שמרמזת שזו לא קבוצה בלי בעיות לטפל בהן - ארבעה שערים שהתקבלו מקבוצה בסדר גודל של פריז סן ז'רמן זה הרבה, וריאל מדריד בוודאי שמה לב לזה.\n\nהמשחק נפתח ב-20:00 UTC, שהם 22:00 בישראל הערב.\n\n## אפקטים מסדר שני\n\nחשבון הטבלה הופך את המשחק של היום לבעל חשיבות גבוהה באופן חריג אפילו עבור קלאסיקו. שתי הקבוצות שיחקו תשעה משחקי ליגה, כך שאין כוכבית של \"משחק בקופה\" שמעננת את התוצאה: ניצחון של ברצלונה יקח אותה להפרש של תשע נקודות עם כל שאר העונה עדיין לפניה, סוג של כרית ביטחון שמשנה את איך שתי הקבוצות מתכננות את סוף העונה. ניצחון של ריאל מדריד, מצד שני, מקטין את הפער לשלוש נקודות ומחזיר באופן מיידי את מירוץ האליפות להיות תחרות צפופה, עם אתלטיקו - רק שתי נקודות מאחורי ריאל מדריד ושתיים מאחורי ברצלונה - ממתינה בצד כקבוצה שלישית שנהנית מכל פעם שאחת היריבות מפסידה נקודות לשנייה.\n\nיש גם ממד פסיכולוגי שנמשך הרבה יותר מהתוצאה עצמה. תוצאות של קלאסיקו מעצבות את האופן שבו כל סגל מדבר על עצמו לשבועות: ניצחון מוחץ בבית של ברצלונה יחזק את התחושה שזו העונה שלה להפסיד, בעוד שניצחון של ריאל מדריד על המגרש של ברצלונה עצמה ייתן לאורחת תוצאה להצביע עליה בכל פעם שספקות יתעוררו בהמשך העונה.\n\n## מה לעקוב אחריו הלאה\n\nהמשחקים הבאים של שתי הקבוצות מציעים מבחן מיידי לכל מה שהיום ייצר. ברצלונה מארחת את אלאבס ב-31 באוקטובר, משחק שהיא צפויה לנצח בו ללא קשר לתוצאת היום, אבל כזה שבו כל \"הנגאובר\" שלאחר קלאסיקו - טוב או רע - נוטה להופיע ראשון. שימו עין על מרווח התוצאה הסופית לא פחות מאשר על התוצאה עצמה: 1-0 צמוד לכל כיוון משאיר את מירוץ האליפות פחות או יותר במקום שבו היה, בעוד חזרה על המומנטום ההתקפי הלוהט האחרון של ברצלונה, או ריאל מדריד שחושפת את אותם חוסרים הגנתיים שפריז סן ז'רמן מצאה, יגידו הרבה יותר על כיוון העונה מאשר שלוש הנקודות בלבד."
+      },
+      "tags": [
+        "barcelona",
+        "real-madrid",
+        "la-liga",
+        "clasico"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "arsenal-level-with-city",
+      "kind": "news",
+      "en": {
+        "headline": "Arsenal Draw Level With Man City at the Top After Everton Win",
+        "scroll": "Arsenal beat Everton 2-0 at the Emirates to move level on points with leaders Manchester City, who lost for the first time this season at Aston Villa.",
+        "coffee": "Arsenal beat Everton 2-0 at the Emirates, with Ezri Konsa scoring his first goal for the club and Gabriel Magalhães adding the second. The result moves Arsenal level on points with Manchester City at the top of the Premier League — both sides now have 21 points from eight games — though City still lead on goal difference, +11 to Arsenal's +8.\n\nCity's perfect start to the season ended on the same day, as Aston Villa beat them 2-1 at Villa Park, with Nicolas Jackson scoring twice in a performance pundits called a breakout display. For Arsenal, it's the second time in a week they've shown they can win without needing to be at their fluent best: their last three results outside the league were a 3-0 Champions League win over Lille, a 1-0 away win at Nottingham Forest, and a 2-2 draw at Bayern Munich.\n\nArsenal's next league test comes on 1 November, away at Liverpool — a fixture that will say a lot about whether this is a genuine title challenge or a side riding a good run.",
+        "deep": "## Background\n\nArsenal have spent the past few seasons as the Premier League's perennial second-place finishers, closest challengers to Manchester City's dominance without quite getting over the line. Manager Mikel Arteta has built a side known for defensive solidity and squeezing out narrow wins, the kind of profile that tends to matter more in April than in October — but that only holds up if the points are still close enough in spring for form to decide things. Every weekend this team stays level with City, rather than trailing by the four or five points that effectively end a title race by Christmas, is a weekend that keeps the conversation about Arsenal as genuine contenders alive.\n\n## The story\n\nArsenal's 2-0 win over Everton at the Emirates was built on two goals from players not traditionally known as the team's first scoring options: Ezri Konsa opened the scoring with his first goal for the club, and Gabriel Magalhães — a centre-back — doubled the lead. That's the profile of a team winning on set-piece quality and defensive players contributing at the other end, rather than a free-flowing attacking masterclass, which fits the pattern Arsenal have shown across their recent run: a comfortable 3-0 Champions League win at home to Lille, a tighter 1-0 away win at Nottingham Forest, and a hard-fought 2-2 draw away at Bayern Munich in the Champions League.\n\nThe bigger story of the day happened at Villa Park, where Aston Villa beat Manchester City 2-1 to end City's unbeaten start to the season. Nicolas Jackson scored both Villa goals, with pundits on BBC's Match of the Day singling him out as a special talent for the display. The result means City's 21 points from eight games are now matched exactly by Arsenal's own 21 from the same number of games — the two clubs are level, separated only by goal difference, where City's +11 still edges Arsenal's +8.\n\n## Second-order effects\n\nA title race that looked like it might be City's to lose by default now has genuine competition this early in the season, with Arsenal's goal difference gap the only thing keeping City technically ahead. For Arsenal, the value of this result isn't really about Everton — it's about proving, for the second time in days, that the team can find a way to win even in matches where the goals come from unexpected sources rather than their front line clicking. That's historically been Arsenal's missing ingredient in past title near-misses: games where their attack goes quiet but they still find two goals from somewhere.\n\nFor Manchester City, a first defeat of the season is rarely fatal to a title bid this early, but it does remove the psychological cushion of an unbeaten record, and it hands every other contender — Arsenal foremost among them — proof that City can be beaten by a team playing with intensity and committing bodies forward, as Villa did.\n\n## What to watch next\n\nArsenal's next league fixture is a trip to Liverpool on 1 November — fifth-placed on 12 points from seven games — a ground where Arsenal's recent record will be tested against a side also looking to climb back into the title picture. A win there would make the Everton and Bayern results look like part of a genuine pattern rather than a lucky week; a loss would hand the psychological initiative straight back to City. Either way, the next two weeks of fixtures for both Arsenal and City will do more to clarify this title race than today's result alone."
+      },
+      "he": {
+        "headline": "ארסנל משתווה למנצ'סטר סיטי בפסגה אחרי ניצחון על אברטון",
+        "scroll": "ארסנל ניצחה את אברטון 2-0 באצטדיון האמירויס והשתווה בנקודות למנצ'סטר סיטי בראש הפרמייר ליג, אחרי שסיטי הפסידה לראשונה העונה באסטון וילה.",
+        "coffee": "ארסנל ניצחה את אברטון 2-0 באמירויס, עם שער ראשון במועדון של עזרי קונסה ושער שני של גבריאל מגאלייש. התוצאה משווה את ארסנל בנקודות עם מנצ'סטר סיטי בראש הפרמייר ליג - לשתי הקבוצות כעת 21 נקודות מתוך שמונה משחקים - אם כי סיטי עדיין מובילה בהפרש שערים (goal difference), +11 לעומת +8 של ארסנל.\n\nההתחלה המושלמת של סיטי העונה הסתיימה באותו יום, כשאסטון וילה ניצחה אותה 2-1 בוילה פארק, עם שני שערים של ניקולאס ג'קסון במה שהפרשנים כינו הופעה פורצת דרך. עבור ארסנל, זו הפעם השנייה בתוך שבוע שהקבוצה מראה שהיא יכולה לנצח בלי להיות במיטבה: שלוש התוצאות האחרונות שלה מחוץ לליגה היו ניצחון 3-0 בליגת האלופות על ליל, ניצחון 1-0 בחוץ על נוטינגהאם פורסט, ושוויון 2-2 בחוץ על באיירן מינכן.\n\nהמבחן הבא של ארסנל בליגה הוא ב-1 בנובמבר, בחוץ נגד ליברפול - משחק שיגיד הרבה על השאלה אם זה אתגר אמיתי לאליפות או רצף טוב וזמני.",
+        "deep": "## רקע\n\nארסנל העבירה את העונות האחרונות כמקום השני התמידי בפרמייר ליג, המתחרה הקרוב ביותר לדומיננטיות של מנצ'סטר סיטי בלי לחצות ממש את הקו. המאמן מיקל ארטטה בנה קבוצה שידועה ביציבות הגנתית וביכולת לסחוט ניצחונות צמודים - פרופיל שנוטה להיות משמעותי יותר באפריל מאשר באוקטובר, אבל זה תקף רק אם הפער בנקודות באביב עדיין קטן מספיק כדי שהצורה תכריע. כל סוף שבוע שבו הקבוצה הזו נשארת שווה לסיטי, במקום לפגר בארבע-חמש נקודות שלמעשה מסיימות מירוץ אליפות עד חג המולד, הוא סוף שבוע ששומר את השיח על ארסנל כמתמודדת אמיתית בחיים.\n\n## הסיפור\n\nהניצחון 2-0 של ארסנל על אברטון באמירויס נבנה על שני שערים משחקנים שלא מוכרים בדרך כלל כאופציות ההבקעה הראשונות של הקבוצה: עזרי קונסה פתח בציונים עם שערו הראשון במועדון, וגבריאל מגאלייש - בלם - הכפיל את היתרון. זה הפרופיל של קבוצה שמנצחת על בסיס איכות בכדורי קרן ותרומה הגנתית בקצה השני, ולא מאסטרקלאס התקפי שוטף, וזה מתאים לדפוס שארסנל הציגה ברצף האחרון שלה: ניצחון נוח 3-0 בליגת האלופות בבית על ליל, ניצחון צמוד יותר 1-0 בחוץ על נוטינגהאם פורסט, ושוויון קשה 2-2 בחוץ על באיירן מינכן בליגת האלופות.\n\nהסיפור הגדול יותר של היום קרה בוילה פארק, שם אסטון וילה ניצחה את מנצ'סטר סיטי 2-1 וסיימה את רצף חוסר ההפסדים של סיטי העונה. ניקולאס ג'קסון הבקיע את שני שערי וילה, והפרשנים בתוכנית Match of the Day של ה-BBC ציינו אותו כטאלנט מיוחד בעקבות ההופעה. התוצאה פירושה ש-21 הנקודות של סיטי מתוך שמונה משחקים מושוות עכשיו בדיוק ל-21 הנקודות של ארסנל מאותו מספר משחקים - שתי הקבוצות שוות, מופרדות רק בהפרש שערים, שבו ה-+11 של סיטי עדיין עדיף על ה-+8 של ארסנל.\n\n## אפקטים מסדר שני\n\nמירוץ אליפות שנראה כאילו הוא של סיטי להפסיד כברירת מחדל הופך עכשיו לתחרות אמיתית כבר בשלב מוקדם של העונה, עם פער הפרש השערים של ארסנל הדבר היחיד שעדיין משאיר את סיטי טכנית בפסגה. עבור ארסנל, הערך של התוצאה הזו לא ממש נוגע לאברטון - הוא נוגע להוכחה, בפעם השנייה בתוך ימים, שהקבוצה יכולה למצוא דרך לנצח אפילו במשחקים שבהם השערים מגיעים ממקורות לא צפויים ולא מההתקפה שמתפקדת כרגיל. זה היה היסטורית המרכיב החסר של ארסנל בכישלונות קודמים להגיע לאליפות: משחקים שבהם ההתקפה שלה שקטה אבל היא עדיין מוצאת שני שערים מאיפשהו.\n\nעבור מנצ'סטר סיטי, הפסד ראשון בעונה לעיתים רחוקות קטלני למועמדות לאליפות בשלב כך מוקדם, אבל הוא מסיר את הכרית הפסיכולוגית של שיא נקי מהפסדים, ומעניק לכל מתמודד אחר - ארסנל בראשם - הוכחה שסיטי ניתנת לניצחון על ידי קבוצה שמשחקת באינטנסיביות ומשקיעה שחקנים בהתקפה, כמו שעשתה וילה.\n\n## מה לעקוב אחריו הלאה\n\nהמשחק הבא של ארסנל בליגה הוא נסיעה לליברפול ב-1 בנובמבר - חמישית עם 12 נקודות מתוך שבעה משחקים - מגרש שבו השיא האחרון של ארסנל יעמוד במבחן נגד קבוצה שגם היא מנסה לטפס בחזרה לתמונת האליפות. ניצחון שם יגרום לתוצאות מול אברטון ובאיירן להיראות כחלק מדפוס אמיתי ולא שבוע של מזל; הפסד יחזיר את היתרון הפסיכולוגי ישר לסיטי. בכל מקרה, שני השבועות הקרובים של משחקים עבור ארסנל וסיטי יבהירו את מירוץ האליפות הרבה יותר מהתוצאה של היום בלבד."
+      },
+      "tags": [
+        "arsenal",
+        "premier-league",
+        "manchester-city",
+        "title-race"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Arsenal beat Everton to go level on points with leaders Man City",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "How 'special talent' Jackson inspired Villa to victory over Man City",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "messi-miami-red-bulls-loss",
+      "kind": "news",
+      "en": {
+        "headline": "Inter Miami's Win Streak Ends as Messi Plays Limited Minutes in Red Bulls Loss",
+        "scroll": "Inter Miami's winning run snapped as New York Red Bulls won 2-0, with Lionel Messi appearing only off the bench in a result that tightens the MLS playoff race.",
+        "coffee": "New York Red Bulls beat Inter Miami 2-0, taking the lead through an own goal before Emil Forsberg added a second to seal the win. Lionel Messi played only limited minutes off the bench, a notable absence from the start for a player who has carried much of Miami's attack this season. The result ends a winning streak that included a 2-0 win over New York City FC on 14 October, and several outlets described the MLS playoff chase in the Eastern Conference as tightening as a result.\n\nFor Inter Miami, dropping points against a direct rival in a congested playoff race is the kind of result that can't be written off as a one-off, especially with Messi's minutes clearly being managed rather than him playing his usual full workload. The question now is less about this single result and more about whether Miami's attack can function at full strength without him on the pitch for 90 minutes.\n\nInter Miami's next chance to respond comes on 28 October at home against FC Cincinnati, a fixture that will say a lot about whether this was a blip or the start of a rockier late-season stretch.",
+        "deep": "## Background\n\nLionel Messi's move to Inter Miami in 2023 turned the club from an MLS also-ran into one of the league's most-watched teams, and his form has largely dictated Miami's results ever since — when he plays well and plays a lot of minutes, Miami wins; when his involvement is limited, by rest, injury management, or opposition tactics built specifically to stop him, results become far less predictable. That dynamic is exactly what played out in this result.\n\n## The story\n\nNew York Red Bulls beat Inter Miami 2-0, with the opening goal coming from an own goal before Swedish forward Emil Forsberg doubled the lead to seal the win. Messi was on the bench for the start of the match and played only limited minutes when he did appear, a departure from the heavy minutes he has typically logged for Miami this season. Coverage of the match was split between outlets emphasizing the result itself — a clean defeat that ended Miami's winning run, which had included a 2-0 win over New York City FC on 14 October — and outlets framing it as part of a broader MLS playoff chase story, with the Eastern Conference picture tightening as teams jostle for position heading into the postseason.\n\n## Second-order effects\n\nA single loss rarely changes a club's playoff trajectory on its own, but the timing matters more than the scoreline here. Inter Miami were on a winning run heading into this match, and a result like this — a clean 2-0 defeat, with their best player managed down to limited minutes — raises a real question about squad depth: how much of Miami's attacking output this season has depended on Messi playing close to a full match, and what happens to results in the stretch run if his minutes are deliberately reduced for fitness reasons.\n\nThere's also a competitive balance angle. If other Eastern Conference sides see that Miami can be beaten comprehensively when Messi isn't playing a full workload, expect opposing coaches to build gameplans around forcing exactly that pattern — intense pressing, physical play early, anything that makes it harder for Miami's management staff to justify leaving him on the pitch for 90 minutes.\n\n## What to watch next\n\nInter Miami host FC Cincinnati on 28 October, their first chance to respond. How Messi is used in that match — full 90 minutes, another bench role, or something in between — will say more about where Miami's season is heading than this single result does. A bounce-back win would file this as a one-off blip in a long season; a second poor result in a row, particularly one where Messi again plays a reduced role, would turn it into a genuine storyline about how Miami manages its most important player through a crowded playoff run-in."
+      },
+      "he": {
+        "headline": "רצף הניצחונות של אינטר מיאמי נקטע כשמסי שיחק דקות מוגבלות בהפסד לרד בולס",
+        "scroll": "רצף הניצחונות של אינטר מיאמי נקטע אחרי הפסד 2-0 לניו יורק רד בולס, כשליונל מסי שיחק רק דקות מוגבלות מהספסל, במהלך שמחדד את מירוץ הפלייאוף ב-MLS.",
+        "coffee": "ניו יורק רד בולס ניצחה את אינטר מיאמי 2-0, לקחה יתרון דרך שער עצמי ולאחר מכן הכפילה אותו באמצעות שער של אמיל פורשברג. ליונל מסי שיחק רק דקות מוגבלות מהספסל - היעדרות בולטת מההרכב הפותח לשחקן שנשא חלק גדול מההתקפה של מיאמי העונה. התוצאה מסיימת רצף ניצחונות שכלל ניצחון 2-0 על ניו יורק סיטי FC ב-14 באוקטובר, וכלי תקשורת שונים תיארו את מירוץ הפלייאוף במסגרת המזרחית של ה-MLS כמתהדק בעקבות התוצאה.\n\nלאינטר מיאמי, הפלת נקודות נגד יריבה ישירה במירוץ פלייאוף צפוף היא תוצאה שקשה לפטור כמקרה חד-פעמי, בייחוד כשדקות המשחק של מסי מנוהלות באופן ברור ולא כמו המשקל המלא שהוא נותן בדרך כלל. השאלה כרגע נוגעת פחות לתוצאה הבודדת הזו ויותר לשאלה אם ההתקפה של מיאמי יכולה לתפקד בכוח מלא בלעדיו על המגרש למשך 90 דקות.\n\nההזדמנות הבאה של אינטר מיאמי להגיב מגיעה ב-28 באוקטובר בבית נגד FC סינסינטי, משחק שיגיד הרבה על השאלה אם זה היה מכשול חד-פעמי או תחילתה של תקופה מאתגרת יותר לקראת סוף העונה.",
+        "deep": "## רקע\n\nהמעבר של ליונל מסי לאינטר מיאמי ב-2023 הפך את המועדון מקבוצה שולית ב-MLS לאחת הקבוצות הנצפות ביותר בליגה, ומאז המצב שלו קובע במידה רבה את התוצאות של מיאמי - כשהוא משחק טוב ומקבל הרבה דקות, מיאמי מנצחת; כשהמעורבות שלו מוגבלת, בשל מנוחה, ניהול פציעות, או טקטיקה של היריבה שנבנתה במיוחד כדי לעצור אותו, התוצאות הופכות להיות הרבה פחות צפויות. זו בדיוק הדינמיקה שהתבטאה בתוצאה הזו.\n\n## הסיפור\n\nניו יורק רד בולס ניצחה את אינטר מיאמי 2-0, עם שער פתיחה שהגיע משער עצמי, ולאחר מכן הכפיל החלוץ השוודי אמיל פורשברג את היתרון וחתם את הניצחון. מסי נותר על הספסל בפתיחת המשחק ושיחק רק דקות מוגבלות כשנכנס, סטייה מהמשקל הכבד שהוא נוהג לקבל עבור מיאמי העונה. הסיקור של המשחק נחלק בין כלי תקשורת שהדגישו את התוצאה עצמה - הפסד נקי שסיים את רצף הניצחונות של מיאמי, שכלל ניצחון 2-0 על ניו יורק סיטי FC ב-14 באוקטובר - לבין כלי תקשורת שמסגרו אותו כחלק מסיפור רחב יותר של מירוץ הפלייאוף ב-MLS, עם תמונה מתהדקת בקונפרנס המזרחית כשקבוצות נדחפות למיקום לקראת הפוסט-סיזון.\n\n## אפקטים מסדר שני\n\nהפסד בודד לעיתים רחוקות משנה את מסלול הפלייאוף של מועדון בכוחות עצמו, אבל התזמון כאן חשוב יותר מהתוצאה עצמה. אינטר מיאמי הייתה ברצף ניצחונות לפני המשחק הזה, ותוצאה כזו - הפסד נקי 2-0, עם השחקן הכי טוב שלה מנוהל לדקות מוגבלות - מעלה שאלה אמיתית על עומק הסגל: כמה מהתפוקה ההתקפית של מיאמי העונה תלויה בכך שמסי משחק קרוב למשחק מלא, ומה קורה לתוצאות בריצה האחרונה של העונה אם הדקות שלו יקוצצו באופן מכוון מטעמי כושר.\n\nיש גם זווית של איזון תחרותי. אם קבוצות אחרות בקונפרנס המזרחית רואות שאפשר לנצח את מיאמי בצורה מוחצת כשמסי לא משחק משקל מלא, אפשר לצפות שמאמנים יריבים יבנו תוכניות משחק שמכוונות בדיוק לדפוס הזה - לחיצה אינטנסיבית, משחק פיזי בתחילת המשחק, כל דבר שמקשה על צוות הניהול של מיאמי להצדיק להשאיר אותו על המגרש ל-90 דקות.\n\n## מה לעקוב אחריו הלאה\n\nאינטר מיאמי מארחת את FC סינסינטי ב-28 באוקטובר, ההזדמנות הראשונה שלה להגיב. איך מסי ישמש במשחק הזה - 90 דקות מלאות, תפקיד נוסף מהספסל, או משהו באמצע - יגיד יותר על הכיוון של העונה של מיאמי מאשר התוצאה הבודדת הזו. ניצחון חזרה יסגור את זה כמכשול חד-פעמי בעונה ארוכה; תוצאה גרועה שנייה ברצף, בייחוד אם מסי ישחק שוב תפקיד מוקטן, תהפוך את זה לסיפור אמיתי על האופן שבו מיאמי מנהלת את השחקן החשוב ביותר שלה בריצה לקראת פלייאוף צפוף."
+      },
+      "tags": [
+        "inter-miami",
+        "mls",
+        "messi",
+        "playoffs"
+      ],
+      "sources": [
+        {
+          "outlet": "TheSportsDB",
+          "title": "Inter Miami & Israel national team",
+          "url": null
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi magic missing as Inter Miami win streak snapped by New York Red Bulls defeat - Goal.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZFo2Q19nZlVWVWpQNWl3T29Hdi1XWjdEV1BrR3F3dDlMMjNTX3Y3a2M1Y2NTakRyZm54X2xvNXZYZlBQRXVBcnlKR1dTMEVqcDlNVXZnSVFkUUtZTmVYcm1IeVB5aTZ2NExSa0tpT0JpeHlHT0FXMjdNVnFuTUdSS2dWNnliZmRnRHJIQ0RUR0VJN0kwRVhvZ2h6QVlQN3NNYktfbHdFbTB1UFRnX01UbWFQMzk4aUczZl9zLXlOdlprdDhIYWpVZVF4bkZaMXRnZHFNaw?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "MATCH RECAP, pres. by Provident Bank: Red Bull New York Beat Inter Miami CF, 2-0 - Red Bull New York",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHU4Wjh1bzFrY0loRjk4T2NLNi1CLWlQWDdFQzJ1X0t2OE9mQXZvRzVtQzl5QU4wZW4yZE9tdnVrNWxLa0Zya3N3NU1OTUVISTVtRDlEYWZJVFVOc3Fta0tRa25mUS01RTZadThtSmlWU09jZUZkQmJ6NjlwNEs3UGpRdGpGZTNOTE84V19tdS1QWWJ5YVhlS203NkRCc3FUbjRaWjlncVhBOVlnMkl5blgwVQ?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Red Bulls use own goal to grab lead, then Emil Forsberg to wrap up 2-0 victory over Inter Miami - The Spec",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSktHTksxSEt2VGJMSC05a24wZ1JjUkJqU2tIMy1MQXNHNUFNOHgySmEtWkxySDg5MThVczNkOWdEc0NnOG9kOEpJb2tvWUk5VlY5eXJZSFBjaXZ4dm5YUzd4UXJ6dXVFU01QT3I1WDg3ZW42c1diSzdPZGxUUVpOc3lVSXp2aGkxVnVpTDNibnVPVlh6TXdmY3FQVzdrNjZZZ05wZ01OY3JoWVV4QmFVS0I4cW9aRnB2c05zem9McWxDel8wRXJVZU5TN3VWcXN5aXRibE81Z0ZKRmFqRkpkT0M4Y3YtYmx2azZSNXp2Q3ZlVzAxYmUxeEJxQldZN3J2ZWhRYmhPa3ZaTk9kbzdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "avdija-top100-saraf-minutes",
+      "kind": "news",
+      "en": {
+        "headline": "Deni Avdija's Strong Start Puts Him in the NBA Top 100 as Ben Saraf Waits for Minutes",
+        "scroll": "Deni Avdija posted 26 points, 6 rebounds and 6 assists in a Trail Blazers win and cracked The Ringer's NBA Top 100, while Ben Saraf has yet to see real minutes for Brooklyn this season.",
+        "coffee": "Deni Avdija had 26 points, 6 rebounds and 6 assists in Portland's win over Sacramento, following a double-double in the Trail Blazers' season opener. It's been a strong start to the season for Avdija, who was ranked No. 27 on The Ringer's NBA Top 100 this week — recognition of a player increasingly seen as central to whatever Portland builds around him this season.\n\nBen Saraf's season has started more quietly. The most recent word on the Nets guard is that he played no minutes in Brooklyn's game against Charlotte, and there's no fresh update tonight: Brooklyn lost 125-121 at Cleveland in their last outing, with no box score yet showing his involvement. The Nets host the Indiana Pacers tonight, a chance for Saraf to get on the floor as Brooklyn looks to bounce back.\n\nBoth players' situations are worth tracking for different reasons: Avdija for how far his role keeps expanding, Saraf for whether he starts carving out consistent NBA minutes as a young player still establishing himself.",
+        "deep": "## Background\n\nDeni Avdija and Ben Saraf represent two different stages of the same story: Israeli basketball players trying to establish themselves in the NBA. Avdija, a first-round pick who was later traded to Portland, has spent recent seasons growing into a larger offensive role, the kind of progression that turns a solid role player into a name that shows up on national Top 100 lists. Saraf is earlier in that process, a young guard on Brooklyn's roster still working to turn practice reps and spot minutes into a consistent rotation spot — a phase every NBA player goes through, but one that's much less visible from the outside than a 26-point breakout game.\n\n## The story\n\nAvdija's week has been a strong one by any measure. He posted a double-double in Portland's season opener, then followed it with 26 points, 6 rebounds and 6 assists in a win over the Sacramento Kings — a near triple-double that multiple outlets flagged as evidence the Trail Blazers need to keep putting the ball in his hands. That run of form was enough to land him at No. 27 on The Ringer's NBA Top 100 this week, a notable marker this early in the season given how crowded that list typically is with established All-Stars.\n\nSaraf's situation is the opposite story in volume, though not necessarily in substance. The most recent specific information on him is that he recorded no minutes in Brooklyn's game against Charlotte. There's no newer update: the Nets lost 125-121 on the road at Cleveland in their most recent game, and no box score is available showing whether or how much Saraf played in that one. What is known is that the Nets host the Indiana Pacers tonight, giving Saraf another opportunity to get on the floor.\n\n## Second-order effects\n\nFor Avdija, a strong start carries its own momentum: the more he produces early, the more offensive responsibility Portland is likely to hand him, and the more his name circulates in conversations about league-wide player rankings and, eventually, awards buzz if the pace continues. For a Portland team still finding its footing, having a player other teams need to scheme around is valuable in itself, independent of any single box score.\n\nFor Saraf, the absence of minutes against Charlotte and the lack of fresh news since then is the normal, unglamorous reality of a young player's development — NBA rotations are earned in practice and in matchups that reward specific skill sets, and a lack of minutes on a given night rarely reflects on long-term potential by itself. The more useful signal will be whether his role grows over the next stretch of games, starting with tonight's matchup against Indiana.\n\n## What to watch next\n\nWatch Avdija's next box score for whether the 26-point outing was a peak or a new baseline — and watch where he lands if The Ringer or similar outlets update their rankings again later in the season. For Saraf, tonight's Nets-Pacers game, kicking off at 22:00 UTC, is the next data point: any minutes on the floor, and any box-score line that follows, will be the first real update on his season since the Charlotte game."
+      },
+      "he": {
+        "headline": "התחלת עונה חזקה לדני אבדיה מכניסה אותו לטופ 100 של ה-NBA, בן סרף עדיין מחכה לדקות",
+        "scroll": "דני אבדיה רשם 26 נקודות, 6 ריבאונדים ו-6 אסיסטים בניצחון של פורטלנד ונכנס לרשימת הטופ 100 של The Ringer, בזמן שבן סרף עדיין לא קיבל דקות משמעותיות עם ברוקלין העונה.",
+        "coffee": "דני אבדיה רשם 26 נקודות, 6 ריבאונדים ו-6 אסיסטים בניצחון של פורטלנד על סקרמנטו, אחרי דאבל-דאבל (double-double) במשחק הפתיחה של העונה עם הטרייל בלייזרס. זו התחלת עונה חזקה לאבדיה, שדורג במקום ה-27 ברשימת הטופ 100 של ה-NBA של The Ringer השבוע - הכרה בשחקן שנתפס יותר ויותר כמרכזי בכל מה שפורטלנד בונה סביבו העונה.\n\nהעונה של בן סרף התחילה בשקט רב יותר. העדכון האחרון על הגארד של נטס הוא שהוא לא שיחק אפילו דקה במשחק של ברוקלין נגד שארלוט, ואין עדכון חדש הערב: ברוקלין הפסידה 125-121 בקליבלנד במשחקה האחרון, ואין עדיין סטטיסטיקה שמראה את מעורבותו. נטס מארחת הערב את אינדיאנה פייסרס, הזדמנות לסרף לקבל דקות משחק כשברוקלין מנסה להתאושש.\n\nהמצב של שני השחקנים כדאי לעקוב אחריו מסיבות שונות: אבדיה - כדי לראות כמה עוד התפקיד שלו יתרחב; סרף - כדי לראות אם הוא מתחיל לגייס דקות קביעות ב-NBA בשלב מוקדם של הקריירה שלו.",
+        "deep": "## רקע\n\nדני אבדיה ובן סרף מייצגים שני שלבים שונים של אותו סיפור: שחקני כדורסל ישראלים שמנסים לבצר את מקומם ב-NBA. אבדיה, שנבחר בסבב הראשון של הדראפט ולאחר מכן עבר לפורטלנד, בילה את העונות האחרונות בגדילה לתוך תפקיד התקפי גדול יותר - מהסוג של התקדמות שהופכת שחקן תפקיד סולידי לשם שמופיע ברשימות טופ 100 ארציות. סרף נמצא בשלב מוקדם יותר של התהליך, גארד צעיר בסגל של ברוקלין שעדיין עובד על להפוך אימונים ודקות בודדות למקום קביעה ברוטציה - שלב שכל שחקן NBA עובר, אבל כזה שהרבה פחות נראה מבחוץ ממשחק פריצה של 26 נקודות.\n\n## הסיפור\n\nהשבוע של אבדיה היה חזק בכל קנה מידה. הוא רשם דאבל-דאבל במשחק הפתיחה של פורטלנד, ולאחר מכן המשיך עם 26 נקודות, 6 ריבאונדים ו-6 אסיסטים בניצחון על סקרמנטו קינגס - כמעט טריפל-דאבל שכלי תקשורת רבים הדגישו כהוכחה שהטרייל בלייזרס צריכים להמשיך לשים את הכדור בידיו. הרצף הזה הספיק כדי להכניס אותו למקום ה-27 ברשימת הטופ 100 של The Ringer השבוע, ציון דרך בולט בשלב כך מוקדם של העונה, בהתחשב בכמה הרשימה הזו בדרך כלל עמוסה בכוכבים מבוססים.\n\nהמצב של סרף הוא הסיפור ההפוך בנפח, אם כי לא בהכרח במשמעות. המידע הספציפי האחרון עליו הוא שהוא לא רשם אפילו דקת משחק אחת במשחק של ברוקלין נגד שארלוט. אין עדכון חדש יותר: נטס הפסידה 125-121 בחוץ בקליבלנד במשחקה האחרון, ואין סטטיסטיקה זמינה שמראה אם או כמה שיחק סרף במשחק הזה. מה שידוע הוא שנטס מארחת הערב את אינדיאנה פייסרס, הזדמנות נוספת לסרף לקבל דקות משחק.\n\n## אפקטים מסדר שני\n\nלאבדיה, התחלה חזקה נושאת מומנטום משל עצמה: ככל שהוא מייצר יותר בשלב מוקדם, כך פורטלנד צפויה להעניק לו יותר אחריות התקפית, וכך שמו יסתובב יותר בשיחות על דירוגי שחקנים ברחבי הליגה, ואפילו באזז של פרסים אם הקצב הזה יימשך. לקבוצת פורטלנד שעדיין מחפשת את עצמה, שחקן שקבוצות אחרות צריכות לבנות תוכנית נגדו הוא בעל ערך כשלעצמו, בלי קשר לסטטיסטיקה של משחק בודד.\n\nלסרף, היעדר הדקות נגד שארלוט וההיעדרות של חדשות טריות מאז הם המציאות הנורמלית והלא זוהרת של התפתחות שחקן צעיר - רוטציות ב-NBA נרכשות באימונים ובמצבי משחק שמתגמלים כישורים ספציפיים, וחוסר דקות בערב מסוים לעיתים רחוקות אומר משהו על הפוטנציאל לטווח ארוך בעצמו. הסיגנל השימושי יותר יהיה אם התפקיד שלו יגדל ברצף המשחקים הקרוב, החל מהמשחק הערב נגד אינדיאנה.\n\n## מה לעקוב אחריו הלאה\n\nשימו עין על הסטטיסטיקה הבאה של אבדיה כדי לראות אם משחק ה-26 הנקודות היה שיא חד-פעמי או קו בסיס חדש - ולאן הוא יתקדם אם The Ringer או גופים דומים יעדכנו את הדירוגים שלהם בהמשך העונה. לגבי סרף, משחק נטס-פייסרס הערב, שנפתח ב-22:00 UTC, הוא נקודת המידע הבאה: כל דקת משחק, וכל שורת סטטיסטיקה שתלווה אותה, יהיו העדכון האמיתי הראשון על העונה שלו מאז משחק שארלוט."
+      },
+      "tags": [
+        "nba",
+        "deni-avdija",
+        "ben-saraf",
+        "israeli-players"
+      ],
+      "sources": [
+        {
+          "outlet": "balldontlie.io",
+          "title": "NBA games",
+          "url": null
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Deni Avdija's 26 propels Portland past Sacramento - NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUEg2VUZpcHlyM2xrVUd2WVhyWElIaEl3bzR5a3ZOcm9ONHFXV3JMaVd3WFVxUnVfb0l5Sm91bHh5V1lEVElGUWU4aDZZRmlfRHowQ1Uyd2lYZTFuY0plaE1fb1d3bzMzQVA4eUpIRmE2UXd1b0hwR29VRWczX1hUYQ?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Deni Avdija with 26/6/6 in win against Kings - NBC Sports",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG5ZMWhoR1FPdkR6cUlMRE1vajNlRlhGSmZYeXRtV3k0LUM1T2NUYk80SHpjNU9CempGLTNtWC1TamJyd0RuOE9wLVE5RE9DaUYzNVU2SW1lRXItS05nZzZEUjNuWWUwUk81dzhyekswYzRMVXFsbVI2YnJkRDBoZC1ISzJsOU9jekJwdkRURUNJdlNzcHlhTXJhMzhrdzVIYzJJMXQtS25tNmNSSHhTTmJB?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Trail Blazers' Deni Avdija: Double-double in season opener - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2lyWTZwTUVNZ2pKX2NlYVVsRi1rYWNFVlJPS2pnZThuRjdtODZJNW9JVXJBUk10bXF2ZjZHQ0FTZF9ZZUVGSkZxMmxCQndHTHVfUXlSbVJBZ1lhRUFUZUtYV2JRWmRKeWh6Mng2b0pmZTBGaWlMVjhDcVJ5VmZYWVVQWG1FLTl0WTQwek54Z3F1UjZrYzhQSGZjMkFneXQxcVdManRiT0lMR2s?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Deni Avdija — No. 27 in The Ringer's NBA Top 100 - The Ringer",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIQUpiNjBhMXpCTnpRQl9oUDFfX1NSSi1SQW5mblBKbW5mZXlTTnZmdFhub0JKVHBpcWxMTXlHT2czSW5WZmIzb2p3NXkxWE1NYzF1a1hkemlJV3I0Y2RDV1J3?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Nets' Ben Saraf: No minutes against Charlotte - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVBOQzVwVGZJeV9GUXcwbGFFaU0tN08wbmdaMURCZ2NseFJVVlpZWThhRU9rR2I4LThsb09LcUxCaW5EVl9Nc2Q3NkdMejgwOGVHMk5VRzFCNldiNUw4Q0xNMndSUHJzZmFzeG5VY2FCOE1tZDJPaU9PLXpEMzljUU4wOC1ONF9QTzJ0NU00b3Jwc2Fwbmg3bzZR?oc=5"
+        }
+      ]
+    }
+  ],
+  "israeli_players": [
+    {
+      "name": "Deni Avdija",
+      "team": "Portland Trail Blazers",
+      "en": "No Trail Blazers game appears in last night's results, so his latest outing remains Friday's 26 points, 6 rebounds and 6 assists in a win over the Kings — a near triple-double that followed a double-double in the season opener and has him ranked No. 27 on The Ringer's NBA Top 100.",
+      "he": "אין משחק של הטרייל בלייזרס בתוצאות של הלילה האחרון, כך שההופעה האחרונה שלו היא עדיין 26 נקודות, 6 ריבאונדים ו-6 אסיסטים בניצחון על הקינגס - כמעט טריפל-דאבל שהגיע אחרי דאבל-דאבל במשחק הפתיחה, והציב אותו במקום ה-27 ברשימת הטופ 100 של The Ringer."
+    },
+    {
+      "name": "Ben Saraf",
+      "team": "Brooklyn Nets",
+      "en": "Nothing new to report: the most recent specific word on Saraf is that he played no minutes in Brooklyn's game against Charlotte. The Nets lost at Cleveland in their last game, with no box score showing his involvement, and host the Pacers tonight.",
+      "he": "אין עדכון חדש: המידע הספציפי האחרון על סרף הוא שהוא לא שיחק אפילו דקה במשחק של ברוקלין נגד שארלוט. נטס הפסידה בקליבלנד במשחקה האחרון בלי סטטיסטיקה שמראה את מעורבותו, והערב מארחת את פייסרס."
+    }
+  ],
+  "match_day": {
+    "is_match_day": true,
+    "events": [
+      {
+        "sport": "soccer",
+        "competition": "Primera Division",
+        "home": "Barça",
+        "away": "Real Madrid",
+        "kickoff_utc": "2026-10-25T20:00:00Z"
+      },
+      {
+        "sport": "nba",
+        "competition": "NBA",
+        "home": "Brooklyn Nets",
+        "away": "Indiana Pacers",
+        "kickoff_utc": "2026-10-25T22:00:00.000Z"
+      }
+    ]
+  }
+}

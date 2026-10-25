@@ -1,0 +1,96 @@
+{
+  "section": "business",
+  "date": "2026-10-25",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-25T03:49:28+00:00",
+  "stories": [
+    {
+      "id": "ai-debt-echoes-2008",
+      "kind": "analysis",
+      "en": {
+        "headline": "The AI Boom's Debt Problem: Analysts See Echoes of 2008",
+        "scroll": "Analysts warn AI data-center financing is growing more leveraged and opaque, with risk patterns echoing 2008's housing crash, while just ten stocks drive two-thirds of US profit growth.",
+        "coffee": "A warning is spreading among analysts: the financing behind the AI data-center boom is becoming more leveraged (funded with borrowed money rather than cash) and less transparent, and some of its patterns match research on how crises like the 2008 US housing crash actually build up. That matters because leverage cuts both ways — it lets companies build GPU clusters far faster than equity capital alone would allow, but it also means a downturn in AI revenue doesn't just hurt shareholders, it hits lenders, bondholders and anyone exposed to that debt.\n\nThis leverage problem is compounding a concentration problem. The Wall Street Journal reports that roughly ten companies — Nvidia, Micron and other AI-linked giants — now account for about two-thirds of all US corporate profit growth. That means the stock market's headline strength, and a growing share of the credit extended to build AI infrastructure, both rest on the same narrow bet paying off. Markets are already showing some nerves underneath the AI enthusiasm: a wave of AI-linked fear briefly hit tech stocks and sent investors rushing into US Treasuries, which posted their best day in over two years as a safe-haven trade. Private capital is leaning further in regardless — Blackstone's CEO has committed heavily to AI infrastructure bets, a reminder that leveraged buyout and private-credit money, not just Big Tech balance sheets, is funding this build-out.\n\nWatch three things: credit spreads on data-center-linked debt, whether upcoming hyperscaler earnings show capex plans holding steady or pulling back, and whether regulators start treating AI infrastructure leverage as a systemic question rather than a corporate-finance detail.",
+        "deep": "## Background\n\nBuilding the physical backbone of artificial intelligence — the data centers packed with GPUs that train and run models like the ones powering today's AI products — is extraordinarily capital-intensive. A single large data-center campus can cost tens of billions of dollars, and hyperscalers (the handful of giant cloud and AI companies building most of this capacity) have been spending at a pace that increasingly outruns what they can fund from cash flow and equity alone.\n\nThat gap gets filled with leverage: debt financing, project-level loans, and increasingly private credit — money raised not from banks or public bond markets but from specialized lending funds run by firms like Blackstone, which have grown into one of the largest sources of capital for exactly this kind of infrastructure. Leverage is a useful tool — it lets a company build $50 billion worth of compute without raising $50 billion in equity — but it also means losses, if they come, are magnified for whoever is on the other side of that debt, and that the health of the lender becomes tied to the fortunes of the borrower's bet.\n\n## The story\n\nThe specific warning making the rounds is that this financing is becoming both more leveraged and less transparent — harder for outsiders to see how much debt sits behind any given data-center project, who holds it, and how it's structured. Analysts say some of the patterns resemble dynamics identified in research on past financial crises, most notably the 2008 US housing crash, where rising leverage and opacity in mortgage-backed financing let risk build quietly before it became visible all at once.\n\nThat warning lands alongside a separate, related data point: the Wall Street Journal reports that about ten companies — Nvidia and Micron among them — are now responsible for roughly two-thirds of all US corporate profit growth. In other words, the earnings story that is holding up the broader stock market is itself a concentrated bet on AI continuing to deliver. When the equity side of a boom and the credit side of a boom are both leaning on the same narrow set of outcomes, the system has less room to absorb a disappointment in either direction.\n\nThere are already signs of nervousness beneath the surface. A wave of AI-related anxiety briefly hit technology stocks hard enough to send investors rushing into the safety of US Treasury bonds, which logged their best single day in more than two years — a classic \"flight to quality\" move, where capital exits risk assets for the safest available instrument the moment confidence wobbles. That it happened even briefly, in the middle of what is still broadly an AI investment boom, suggests the market itself is not fully confident the leverage underneath this buildout is as sound as the headline enthusiasm implies.\n\nMeanwhile, private capital keeps leaning in. Blackstone's chief executive has become one of Wall Street's most aggressive AI believers, a stance traced back to a chance conversation with Alibaba founder Jack Ma a decade ago — and private-equity-style capital, funded substantially through debt, is exactly the kind of financing that compounds the leverage concern rather than easing it.\n\n## Second-order effects\n\nIf AI revenue growth disappoints even modestly, the damage would not stay contained to tech-stock valuations. Because so much of US profit growth is concentrated in roughly ten names, passive index funds and pension portfolios tracking the broad market carry outsized exposure without investors necessarily realizing it — a phenomenon sometimes described as poor \"market breadth,\" where a strong headline index conceals a narrow base of support. On the credit side, leveraged and opaque data-center financing means a shortfall could hit private credit funds, their institutional investors, and the banks that lend to those funds, well beyond the AI companies themselves.\n\nThere are real-economy ripple effects too. Communities that host data centers, such as Loudoun County in Virginia, have built meaningful tax revenue — funding schools, parks and infrastructure — around the AI buildout continuing. A slowdown driven by a credit event upstream would hit those local budgets as well, showing how financial-market plumbing eventually reaches well outside Wall Street.\n\n## What to watch next\n\nThree signals will show whether this is a manageable risk or a genuine fault line: credit spreads on debt tied to data-center projects (widening spreads signal lenders pricing in more risk); capital-expenditure guidance in upcoming hyperscaler earnings, where any pullback would be a tell that the financing math is getting harder to justify; and whether regulators — central banks or financial-stability bodies — start treating AI infrastructure leverage as a systemic question rather than an individual company's balance-sheet choice. None of this means the AI investment boom is over; it means the way it's being financed deserves the same scrutiny as the technology itself."
+      },
+      "he": {
+        "headline": "חוב בועת ה-AI: אנליסטים רואים הדים ל-2008",
+        "scroll": "אנליסטים מזהירים שמימון מרכזי הנתונים ל-AI הופך ממונף ושקוף פחות, בדפוסים שמזכירים את קריסת 2008, בזמן שעשר מניות בלבד מניעות שני שלישים מצמיחת הרווחים בארה\"ב.",
+        "coffee": "אזהרה מתפשטת בין אנליסטים: המימון שמניע את בניית מרכזי הנתונים לבינה מלאכותית (AI) הופך ממונף יותר (leverage - מבוסס על כספי הלוואות ולא על הון עצמי) ושקוף פחות, וכמה מהדפוסים בו תואמים מחקרים על איך משברים פיננסיים כמו קריסת שוק הדיור האמריקאי ב-2008 נבנים בפועל. זה חשוב כי מינוף פועל בשני הכיוונים - הוא מאפשר לחברות לבנות מצבורי מעבדי GPU מהר בהרבה מכפי שהון עצמי בלבד יאפשר, אבל הוא גם אומר שהאטה בהכנסות מ-AI לא תפגע רק בבעלי המניות, אלא גם במלווים, בבעלי האג\"ח ובכל מי שחשוף לאותו חוב.\n\nבעיית המינוף הזו מצטרפת לבעיית ריכוזיות. ה-Wall Street Journal מדווח שכעשר חברות בלבד - בהן אנבידיה ומיקרון וחברות AI נוספות - אחראיות לכשני שלישים מכל צמיחת הרווחים התאגידית בארה\"ב. כלומר, החוזק הנראה לעין של שוק המניות, וחלק גדול מהאשראי שמוזרם לבניית תשתיות ה-AI, שניהם נשענים על אותה התערבות מצומצמת. השווקים כבר מראים סימני עצבנות מתחת לפני השטח: גל של חששות סביב AI הכה במניות הטכנולוגיה, והזניק משקיעים לעבר אג\"ח ממשלת ארה\"ב (Treasuries), שרשמו את היום הטוב ביותר שלהן ביותר משנתיים כנכס מבטחים (safe haven). בינתיים, הון פרטי ממשיך לזרום לכיוון ההפוך - מנכ\"ל בלקסטון הימר בכבדות על תשתיות AI, תזכורת לכך שכספי רכישות ממונפות ואשראי פרטי, לא רק מאזני הטכנולוגיה הגדולה, הם שמממנים את הבנייה הזו.\n\nשלושה דברים לעקוב אחריהם: מרווחי האשראי (credit spreads) על חוב הקשור למרכזי נתונים, האם דיווחי הרבעון הקרובים של חברות הענן הגדולות יראו תוכניות הוצאות הון (capex) יציבות או מתכווצות, והאם רגולטורים יתחילו להתייחס למינוף תשתיות ה-AI כסיכון מערכתי ולא כפרט מימוני תאגידי.",
+        "deep": "## רקע\n\nבניית השלד הפיזי של הבינה המלאכותית - מרכזי הנתונים העמוסים במעבדי GPU שמאמנים ומריצים מודלים כמו אלה שמניעים את מוצרי ה-AI של היום - היא עתירת הון במידה קיצונית. קמפוס מרכז נתונים גדול אחד יכול לעלות עשרות מיליארדי דולרים, וחברות הענן הגדולות (hyperscalers - קבוצת חברות הענן והבינה המלאכותית הגדולות שבונות את רוב הקיבולת הזו) מוציאות כספים בקצב שעולה יותר ויותר על מה שהן יכולות לממן מתזרים מזומנים ומהון עצמי בלבד.\n\nהפער הזה מתמלא במינוף: מימון חוב, הלוואות בהיקף הפרויקט, ובמידה גוברת גם אשראי פרטי (private credit) - כספים שמגיעים לא מבנקים או משוק האג\"ח הציבורי אלא מקרנות הלוואות מתמחות שמופעלות על ידי חברות כמו בלקסטון, שהפכו לאחד ממקורות ההון הגדולים בדיוק לסוג כזה של תשתיות. מינוף הוא כלי שימושי - הוא מאפשר לחברה לבנות כוח מחשוב בשווי 50 מיליארד דולר בלי לגייס 50 מיליארד דולר בהון עצמי - אבל הוא גם אומר שהפסדים, אם יגיעו, מתעצמים עבור מי שנמצא בצד השני של אותו חוב, ושהבריאות הפיננסית של המלווה נקשרת לגורל ההתערבות של הלווה.\n\n## הסיפור\n\nהאזהרה הספציפית שמסתובבת היא שהמימון הזה הופך גם ממונף יותר וגם שקוף פחות - קשה יותר לגורמים חוץ-ארגוניים לראות כמה חוב עומד מאחורי כל פרויקט מרכז נתונים נתון, מי מחזיק בו, ואיך הוא בנוי. אנליסטים אומרים שחלק מהדפוסים מזכירים דינמיקות שזוהו במחקר על משברים פיננסיים מהעבר, ובראשם קריסת שוק הדיור האמריקאי ב-2008, שבה מינוף ואי-שקיפות גוברים במימון מגובה-משכנתאות אפשרו לסיכון להיבנות בשקט עד שהתגלה בבת אחת.\n\nהאזהרה הזו מגיעה לצד נתון נפרד אך קשור: ה-Wall Street Journal מדווח שכעשר חברות - אנבידיה ומיקרון בהן - אחראיות כיום לכשני שלישים מכל צמיחת הרווחים התאגידית בארה\"ב. במילים אחרות, סיפור הרווחים שמחזיק את שוק המניות הרחב יותר הוא עצמו התערבות מרוכזת על כך שה-AI ימשיך לספק תוצאות. כשהצד המנייתי של בום וה הצד האשראי שלו שניהם נשענים על אותה קבוצה מצומצמת של תוצאות, יש למערכת פחות מקום לקלוט אכזבה בכל אחד מהכיוונים.\n\nיש כבר סימנים לעצבנות מתחת לפני השטח. גל של חרדה סביב AI הכה במניות הטכנולוגיה בעוצמה שהספיקה לשלוח משקיעים במהירות לבטחונן של אגרות החוב של ממשלת ארה\"ב, שרשמו את היום הטוב ביותר שלהן ביותר משנתיים - תנועה קלאסית של \"בריחה לאיכות\" (flight to quality), שבה הון נמלט מנכסי סיכון לכיוון המכשיר הבטוח ביותר הזמין ברגע שהביטחון מתנדנד. העובדה שזה קרה, אפילו באופן חולף, בתוך מה שעדיין נחשב לבום השקעות AI רחב, מעידה שהשוק עצמו אינו בטוח במלואו שהמינוף שמתחת לבנייה הזו תקין כמו שההתלהבות הכוללת מרמזת.\n\nבינתיים, הון פרטי ממשיך לזרום לכיוון. מנכ\"ל בלקסטון הפך לאחד המאמינים התקיפים ביותר בוול סטריט ב-AI, גישה שמקורה, לפי הדיווח, בשיחה מקרית עם ג'ק מא, מייסד עליבאבא, לפני כעשור - וכסף בסגנון רכישות ממונפות (private equity), המגיע במידה משמעותית ממימון חוב, הוא בדיוק סוג המימון שמעמיק את חששות המינוף במקום להקל עליהם.\n\n## אפקטים מסדר שני\n\nאם צמיחת ההכנסות מ-AI תאכזב, אפילו באופן מתון, הנזק לא יישאר מוגבל לשווי שוק מניות הטכנולוגיה. מכיוון שחלק כך גדול מצמיחת הרווחים בארה\"ב מתרכז בכעשר מניות, קרנות מדד פסיביות ותיקי קרנות פנסיה שעוקבים אחרי השוק הרחב נושאים חשיפה גדולה בלי שהמשקיעים בהם בהכרח מבינים זאת - תופעה שמתוארת לעיתים כ\"רוחב שוק\" (market breadth) חלש, שבו מדד מוביל חזק מסתיר בסיס תמיכה צר. בצד האשראי, מימון ממונף ושקוף פחות של מרכזי נתונים אומר שפגיעה יכולה להכות בקרנות אשראי פרטי, במשקיעים המוסדיים שלהן, ובבנקים שמלווים לקרנות האלה - הרבה מעבר לחברות ה-AI עצמן.\n\nיש גם השפעות מעגל חיים ריאלי. קהילות שמאכסנות מרכזי נתונים, כמו מחוז לאודון שבווירג'יניה, בנו הכנסות מס משמעותיות - למימון בתי ספר, פארקים ותשתיות - סביב ההמשכיות של בניית ה-AI. האטה שתיגרם מאירוע אשראי בשלב מוקדם יותר תפגע גם בתקציבים המקומיים האלה, ומדגימה איך המערכת הפיננסית מגיעה בסופו של דבר הרבה מעבר לוול סטריט.\n\n## מה לעקוב אחריו הלאה\n\nשלושה אינדיקטורים יראו אם זה סיכון ניתן לניהול או קו שבר ממשי: מרווחי אשראי (credit spreads) על חוב הקשור לפרויקטי מרכזי נתונים (התרחבות מרווחים מסמנת שמלווים מתמחרים סיכון גבוה יותר); הנחיות הוצאות הון (capex) בדיווחי הרבעון הקרובים של חברות הענן הגדולות, שבהן כל נסיגה תהיה סימן שהחשבון המימוני הופך קשה יותר להצדיק; והאם רגולטורים - בנקים מרכזיים או גופי יציבות פיננסית - יתחילו להתייחס למינוף תשתיות ה-AI כשאלה מערכתית ולא כבחירת מאזן של חברה בודדת. כל זה לא אומר שבום ההשקעות ב-AI הגיע לסיומו; זה אומר שהדרך שבה הוא ממומן מצדיקה בחינה קפדנית כמו הטכנולוגיה עצמה."
+      },
+      "tags": [
+        "ai-infrastructure",
+        "leverage",
+        "credit-risk",
+        "market-concentration"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "\"נורות האזהרה מהבהבות\": הסיכון למשבר פיננסי בארה\"ב גדול מכפי שנראה",
+          "url": "https://www.themarker.com/wallstreet/2026-10-24/ty-article/.premium/000001a1-6e3e-d9e6-a5b1-6e7fec800000"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks",
+          "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "החשש העולמי מבינה מלאכותית הפיל את מניות הטכנולוגיה — והזניק את שוק האג\"ח האמריקאי",
+          "url": "https://www.themarker.com/wallstreet/2026-10-23/ty-article/.premium/000001a1-674e-db3a-a9fb-f7ef40d70000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מפגש מקרי לפני כעשור גרם למנכ\"ל בלקסטון להמר בענק על AI",
+          "url": "https://www.themarker.com/wallstreet/2026-10-23/ty-article/.premium/000001a1-6944-d6e1-abb7-7fce515e0000"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "How This County Made the Data Center Boom Pay Off",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-24/how-this-county-made-the-data-center-boom-pay-off-video"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4124.1299,
+      "prev_close": 4166.25,
+      "change_pct": -1.01,
+      "as_of": "2026-10-23"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7623.6802,
+      "prev_close": 7663.4302,
+      "change_pct": -0.52,
+      "as_of": "2026-10-23"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0991,
+      "prev_close": 3.0876,
+      "change_pct": 0.37,
+      "as_of": "2026-10-23"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 116.72,
+      "prev_close": 113.17,
+      "change_pct": 3.14,
+      "as_of": "2026-10-23"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 80814.4062,
+      "prev_close": 81074.1875,
+      "change_pct": -0.32,
+      "as_of": "2026-10-25"
+    }
+  }
+}

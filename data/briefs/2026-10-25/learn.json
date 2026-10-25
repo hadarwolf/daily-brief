@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-10-25",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-25T03:49:28+00:00",
+  "stories": [
+    {
+      "id": "word-shadow-banking",
+      "kind": "word",
+      "en": {
+        "headline": "Shadow banking (בנקאות צל)",
+        "scroll": "Lending and credit-creation that happens outside traditional, regulated banks.",
+        "coffee": "Shadow banking refers to financial activity that functions like banking - lending money, creating credit, managing liquidity - but is carried out by entities that aren't licensed banks and don't face the same capital and reserve requirements. Private credit funds, money-market funds, and some fintech lenders are classic examples. For example: 'A growing share of corporate lending in the US now comes from shadow banking rather than traditional banks, which worries regulators because it's harder to monitor.'",
+        "deep": "Shadow banking describes financial activity that works like banking - lending, creating credit, managing liquidity - but is carried out by entities that aren't licensed banks and don't face the same capital and reserve requirements that banks do. Think private credit funds, money-market funds, and some fintech lenders.\n\nIt's used when you want to flag that a meaningful share of lending has moved outside the traditional banking system and is therefore harder for regulators to see and supervise. A common confusion: 'shadow banking' sounds illegal or like a black market, but it isn't - the activity is entirely legal, it's just outside the perimeter of bank-style regulation (capital requirements, liquidity ratios, central-bank oversight). More examples: 'Private equity firms have increasingly become shadow banks themselves, lending directly to companies that used to borrow from banks.' Or: 'The 2008 financial crisis exposed how fragile shadow banking had become when money-market funds froze almost overnight.' In Hebrew: בנקאות צל."
+      },
+      "he": {
+        "headline": "בנקאות צל (Shadow Banking)",
+        "scroll": "פעילות אשראי והלוואות שמתקיימת מחוץ למערכת הבנקאית המפוקחת.",
+        "coffee": "בנקאות צל מתייחסת לפעילות פיננסית שמתפקדת כמו בנקאות - הלוואות, יצירת אשראי, ניהול נזילות - אך מתבצעת על ידי גופים שאינם בנקים מורשים ולא כפופים לאותן דרישות הון ורזרבות. קרנות אשראי פרטיות (private credit), קרנות כספיות (money-market funds) וחלק מחברות הפינטק הן דוגמאות קלאסיות. למשל: 'חלק גדל והולך מהאשראי העסקי בארה\"ב מגיע כיום ממערכת הבנקאות-צל ולא מבנקים מסורתיים, מה שמדאיג את הרגולטורים כי קשה יותר לפקח על זה.'",
+        "deep": "המונח משמש כשרוצים להצביע על כך שפעילות אשראי משמעותית זרמה אל גופים שאינם בנקים ולכן נמצאת פחות בשדה הראייה של הרגולטורים. בלבול נפוץ: 'בנקאות צל' נשמע כמו פעילות פלילית או 'שוק שחור', אבל זה לא המקרה - הפעילות חוקית לגמרי, רק לא כפופה לרגולציה הבנקאית המחמירה (כגון דרישות הון, יחסי נזילות ופיקוח של בנק מרכזי). דוגמאות נוספות: 'קרנות הון פרטי (private equity) הפכו בעצמן ל\"בנקים צל\", ומעניקות הלוואות ישירות לחברות שבעבר היו פונות לבנק.' או: 'המשבר הפיננסי של 2008 חשף עד כמה מערכת הבנקאות-צל הייתה שבירה כשקרנות כספיות קפאו כמעט בן-לילה.' בעברית: בנקאות צל (או 'מערכת בנקאות הצללים')."
+      },
+      "tags": [
+        "finance",
+        "banking",
+        "vocabulary",
+        "regulation"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-talk-your-book",
+      "kind": "word",
+      "en": {
+        "headline": "Talk your book (לדבר לטובת הפוזיציה שלך)",
+        "scroll": "To publicly promote a view or forecast because it benefits a position you already hold.",
+        "coffee": "In trading and investing, to 'talk your book' means expressing an opinion - on TV, in a report, in a meeting - that happens to support an investment you already made, rather than giving a neutral analysis. For example: 'Take his bullish comments on the stock with a grain of salt - he's long 10,000 shares, so he's talking his book.'",
+        "deep": "The phrase is used mostly as a caution - a way of flagging that advice or a forecast might be shaped by self-interest. A common confusion: it's not necessarily lying or deliberate manipulation. Someone can sincerely believe the view they're pushing, and the fact that it happens to benefit them financially is exactly why they believe it so confidently. The distinction from 'conflict of interest' is useful: conflict of interest describes the structural situation, while 'talking your book' describes the behavior itself - the act of speaking. More examples: 'The CEO's upbeat guidance might just be him talking his book ahead of a secondary offering.' Or: 'Every analyst on this panel owns the coin, so of course they're all talking their book.' In Hebrew: לדבר לטובת הפוזיציה שלך."
+      },
+      "he": {
+        "headline": "לדבר לטובת הפוזיציה שלך (Talk Your Book)",
+        "scroll": "להביע בפומבי דעה או תחזית שמשרתת החזקה פיננסית שיש לך כבר.",
+        "coffee": "בעולם המסחר וההשקעות, 'to talk your book' פירושו להציג דעה - בטלוויזיה, בדוח, בפגישה - שבמקרה (או שלא במקרה) משרתת השקעה שכבר ביצעת, במקום לתת ניתוח נטול פניות. למשל: 'תתייחסו בעירבון מוגבל להתבטאויות האופטימיות שלו על המניה - הוא מחזיק 10,000 מניות, אז הוא פשוט מדבר לטובת הפוזיציה שלו.'",
+        "deep": "הביטוי משמש בעיקר כאזהרה - כשרוצים לרמוז שהמלצה או תחזית עלולה להיות מוטית על ידי אינטרס אישי. בלבול נפוץ: זה לא בהכרח שקר או מניפולציה מכוונת - אדם יכול להאמין בתמימות בדעה שהוא משמיע, והעובדה שהיא משרתת אותו כלכלית היא בדיוק הסיבה שהוא בטוח בה כך הרבה. ההבדל מ'ניגוד עניינים' (conflict of interest) מועיל: ניגוד עניינים הוא התיאור המבני של המצב, ואילו 'talk your book' הוא התיאור של ההתנהגות בפועל - הדיבור עצמו. דוגמאות נוספות: 'התחזית האופטימית של המנכ\"ל יכולה להיות פשוט דיבור לטובת הפוזיציה, לפני הנפקה משנית.' או: 'כל האנליסטים בפאנל מחזיקים במטבע, אז מובן שכולם מדברים לטובת הפוזיציה שלהם.' בעברית: 'לדבר לטובת הפוזיציה שלך'."
+      },
+      "tags": [
+        "finance",
+        "investing",
+        "vocabulary",
+        "markets"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-pennies-steamroller",
+      "kind": "word",
+      "en": {
+        "headline": "Picking up pennies in front of a steamroller (ללקט אגורות לפני מכבש)",
+        "scroll": "A strategy that earns small, steady gains most of the time but carries a rare risk of catastrophic loss.",
+        "coffee": "This Wall Street idiom describes strategies - like selling options for premium income, or running a business on thin margins with heavy leverage - that look safe and profitable almost all the time, until a rare event wipes out years of gains in a single hit. For example: 'Selling insurance against a market crash is picking up pennies in front of a steamroller - great returns, until the crash actually comes.'",
+        "deep": "The idiom comes up in risk-management conversations, often describing 'short-volatility' strategies or over-leveraged business models. A common confusion: it isn't just a synonym for 'risky' - the specific point is asymmetric tail risk, meaning frequent small rewards against a rare but enormous loss. Note the contrast with an 'asymmetric bet,' where it's the opposite: a small, known cost against a rare but enormous payoff. More examples: 'Airlines running on 2% margins with no cash buffer are picking up pennies in front of a steamroller.' Or: 'Many of the mortgage-backed strategies behind the 2008 crisis amounted to picking up pennies in front of a steamroller.' In Hebrew: ללקט אגורות לפני מכבש כבישים."
+      },
+      "he": {
+        "headline": "ללקט אגורות לפני מכבש כבישים (Picking Up Pennies In Front Of A Steamroller)",
+        "scroll": "אסטרטגיה שמניבה רווחים קטנים וקבועים רוב הזמן, אך חושפת לסיכון נדיר של הפסד קטסטרופלי.",
+        "coffee": "הביטוי הזה מוול סטריט מתאר אסטרטגיות - כמו מכירת אופציות לקבלת פרמיה, או ניהול עסק עם מרווחים דקים ומינוף גבוה - שנראות בטוחות ורווחיות כל הזמן, עד שאירוע נדיר מוחק בבת אחת רווחים שנצברו על פני שנים. למשל: 'מכירת 'ביטוח' מפני קריסת שוק היא בדיוק ללקט אגורות לפני מכבש - תשואות מצוינות, עד שהקריסה בפועל מגיעה.'",
+        "deep": "הביטוי משמש בדיונים על ניהול סיכונים, לתיאור אסטרטגיות 'שורט-וולטיליות' (short volatility) או מודלים עסקיים ממונפים מדי. בלבול נפוץ: זה לא רק 'מסוכן' באופן כללי - הדגש הוא על סיכון א-סימטרי בקצוות (tail risk): רווח קטן ותדיר מול הפסד נדיר אך עצום. שימו לב שזה ההפך מ'הימור א-סימטרי' (asymmetric bet) - שם ההפסד קטן וידוע מול רווח פוטנציאלי עצום. דוגמאות נוספות: 'חברות תעופה שפועלות עם 2% מרווח ובלי כרית מזומנים, בלי לדעת, מלקטות אגורות לפני מכבש.' או: 'הרבה אסטרטגיות של איגוח משכנתאות מאחורי המשבר של 2008 היו בעצם ליקוט אגורות לפני מכבש.' בעברית: 'ללקט אגורות לפני מכבש כבישים'."
+      },
+      "tags": [
+        "finance",
+        "risk",
+        "vocabulary",
+        "idiom"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why some products get more valuable as more people use them",
+        "scroll": "A product or platform gains value for every user as more people join it - the mechanism behind many tech monopolies.",
+        "coffee": "A network effect exists when a product becomes more useful to every user as more people use it. The classic example is a phone network: a single telephone is worthless, but incredibly useful once millions of people have one, because every new user adds value for everyone already on the network.\n\nTech platforms are built around this. Facebook, WhatsApp, and marketplaces like Uber or Etsy all get better - more connections, more drivers, more buyers and sellers - purely because more people show up. That's why so many tech markets tip into 'winner-take-all': once one platform pulls ahead, new users rationally prefer it, which pulls it further ahead still.",
+        "deep": "**What it is.** A network effect is a feedback loop: a product's value to each user rises as the total number of users rises. This is different from scale alone - a factory getting cheaper per unit the more it produces is about cost, not value to the customer. Network effects live on the demand side: value, not cost, compounds with size.\n\nThere are two flavors. Direct network effects: more users on the same side make the product better for everyone on that side (a phone network, a messaging app like WhatsApp). Indirect, or 'two-sided,' network effects: more users on one side make the product better for a different side (an app with more drivers attracts more riders, which attracts more drivers; a marketplace with more buyers attracts more sellers, who attract more buyers).\n\n**Worked example: Waze.** Waze's core product is live traffic and routing data. Every additional driver running the app adds a data point - their GPS location, their speed, whether they report a hazard or a police checkpoint. More drivers means denser, more accurate, more real-time traffic data, which means better routing for every driver on the app, including the ones who contributed nothing but their own location. A city with 1,000 active Waze users produces a noisier picture than one with 100,000 users; the routing suggestion for driver #100,001 is simply better than the one driver #1,001 would have gotten, for free, purely because the network grew. That improvement in turn attracts more drivers, which improves the data again - a virtuous cycle sometimes called a 'flywheel.'\n\n**Why it matters in business.** Network effects create a structural advantage - sometimes called a 'moat' - that's hard for a smaller competitor to out-engineer, because a rival app with better code but fewer drivers still has worse traffic data. This is why investors pay enormous valuations for platforms with strong network effects even before they're profitable: value compounds with scale in a way ordinary products don't. It's also why these markets tend toward winner-take-all outcomes, and why regulators increasingly scrutinize dominant platforms - the same mechanism that makes the product great for users also makes it extremely hard to dislodge the leader."
+      },
+      "he": {
+        "headline": "אפקט רשת: למה מוצרים מסוימים נהיים שווים יותר ככל שיותר אנשים משתמשים בהם",
+        "scroll": "מוצר או פלטפורמה צוברים ערך עבור כל משתמש ככל שיותר אנשים מצטרפים אליהם - המנגנון שמניע חלק גדול ממונופולי הטכנולוגיה.",
+        "coffee": "אפקט רשת (network effect) מתקיים כשמוצר הופך שימושי יותר לכל משתמש ככל שיותר אנשים משתמשים בו. הדוגמה הקלאסית היא רשת טלפונים: טלפון יחיד הוא חסר ערך, אבל שימושי מאוד כשמיליוני אנשים מחזיקים בו, כי כל משתמש חדש מוסיף ערך לכל מי שכבר ברשת.\n\nפלטפורמות טכנולוגיה נבנות סביב העיקרון הזה. פייסבוק, וואטסאפ, ומרקטפלייסים כמו אובר או אטסי משתפרים - יותר קשרים, יותר נהגים, יותר קונים ומוכרים - רק כתוצאה מכך שיותר אנשים מגיעים. זו הסיבה שבשווקי טכנולוגיה רבים נוצרת דינמיקה של 'המנצח לוקח הכל': ברגע שפלטפורמה אחת מתרחקת מהמתחרות, למשתמשים חדשים משתלם באופן רציונלי לבחור בה, מה שמרחיק אותה עוד יותר.",
+        "deep": "**מה זה.** אפקט רשת הוא מעגל משוב: הערך של מוצר עבור כל משתמש עולה כשמספר המשתמשים הכולל עולה. זה שונה מ'חיסכון לגודל' (economies of scale), שבו מפעל מתייעל וחוסך בעלות הייצור ליחידה כשמייצרים יותר - זה עניין של עלות, לא של ערך לצרכן. אפקט רשת הוא תופעה בצד הביקוש: הערך, לא העלות, הוא שמצטבר עם הגודל.\n\nיש שני סוגים. אפקט רשת ישיר (direct): יותר משתמשים מאותו צד הופכים את המוצר לטוב יותר לכולם באותו צד (רשת טלפונים, אפליקציית מסרים כמו וואטסאפ). אפקט רשת עקיף, או 'דו-צדי' (indirect / two-sided): יותר משתמשים בצד אחד הופכים את המוצר לטוב יותר לצד אחר (אפליקציה עם יותר נהגים מושכת יותר נוסעים, מה שמושך עוד נהגים; מרקטפלייס עם יותר קונים מושך יותר מוכרים, שמושכים עוד קונים).\n\n**דוגמה מעשית: Waze.** המוצר המרכזי של Waze הוא מידע תנועה וניווט בזמן אמת. כל נהג נוסף שמריץ את האפליקציה מוסיף נקודת מידע - מיקום ה-GPS שלו, המהירות שלו, דיווח על מכשול או מחסום משטרתי. יותר נהגים משמעם מידע תנועה צפוף, מדויק ובזמן אמת יותר, מה שמשמעו ניווט טוב יותר לכל נהג באפליקציה - כולל מי שלא תרם כלום מעבר למיקום שלו. עיר עם 1,000 משתמשי Waze פעילים מייצרת תמונה רועשת יותר מעיר עם 100,000 משתמשים; הצעת הניווט לנהג מספר 100,001 טובה יותר מזו שהייתה מוצעת לנהג מספר 1,001, בחינם, רק בגלל שהרשת גדלה. השיפור הזה מושך עוד נהגים, מה שמשפר את הנתונים עוד יותר - מעגל חיובי שנקרא לעיתים 'פלייוויל' (flywheel).\n\n**למה זה חשוב בעולם העסקים.** אפקט רשת יוצר יתרון מבני - שנקרא לעיתים 'חפיר' (moat) - שקשה למתחרה קטן יותר להתגבר עליו בעזרת קוד טוב יותר בלבד, כי אפליקציה מתחרה עם הנדסה טובה אך פחות נהגים תמיד תסבול מנתוני תנועה גרועים יותר. זו הסיבה שמשקיעים משלמים הערכות שווי עתק על פלטפורמות עם אפקט רשת חזק, אפילו לפני שהן רווחיות: הערך מצטבר עם הגודל בצורה שלא קיימת במוצרים רגילים. זו גם הסיבה שהשווקים האלה נוטים לדינמיקת 'מנצח לוקח הכל', ושרגולטורים בוחנים בביקורתיות גוברת פלטפורמות דומיננטיות - אותו מנגנון שמייצר מוצר טוב למשתמשים, הוא גם זה שמקשה ביותר להדיח את המוביל."
+      },
+      "tags": [
+        "network-effects",
+        "platforms",
+        "economics",
+        "tech"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-liz-truss-resignation",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2022: Liz Truss resigns as UK prime minister after just 49 days",
+        "scroll": "Liz Truss became the shortest-serving prime minister in British history after a bond-market crisis forced her to abandon her own economic program.",
+        "coffee": "Liz Truss took office on 6 September 2022, and within three weeks her government announced a 'mini-budget' of large, unfunded tax cuts with no independent economic forecast attached. Investors reacted by dumping UK government bonds ('gilts'), sending yields spiking and the pound briefly to a record low against the dollar. The Bank of England had to step in with emergency bond purchases to stop a near-collapse of pension funds exposed to the falling bond prices.\n\nWithin days, Truss fired her chancellor, reversed almost the entire tax-cut package, and - unable to recover politically - resigned on 20 October, concluding a tenure of 49 days, the shortest of any UK prime minister. Rishi Sunak succeeded her days later.\n\nWhy it mattered: the episode became a textbook case of markets disciplining a government in real time - sometimes called the 'bond vigilantes' effect - and is still cited whenever a government's spending plans spook bond markets.",
+        "deep": "On 6 September 2022, Liz Truss became UK prime minister, succeeding Boris Johnson after winning a Conservative Party leadership contest. Two days later, Queen Elizabeth II died, pushing economic policy off the front pages during a period of national mourning. But on 23 September, her government, led by Chancellor Kwasi Kwarteng, unveiled a 'mini-budget': roughly £45 billion in unfunded tax cuts, including scrapping the top income-tax rate, with no accompanying forecast from the independent Office for Budget Responsibility (OBR) to show how it would be paid for.\n\nMarkets read this as a government borrowing heavily with no credible plan to manage the debt. UK government bonds ('gilts') sold off sharply and yields spiked - the price investors demand to lend to a less creditworthy borrower. The pound fell to an all-time low against the dollar. The real danger emerged in an obscure corner of the pension industry: many UK pension funds used 'liability-driven investment' (LDI) strategies that required posting more collateral as bond prices fell, forcing them to sell more gilts to raise cash - a self-reinforcing fire sale that threatened a full-blown financial crisis. The Bank of England was forced into emergency, large-scale gilt purchases to stabilize the market, directly contradicting its own effort to fight inflation by raising rates.\n\nThe political fallout was immediate. Kwarteng was fired within days, and his replacement, Jeremy Hunt, reversed almost the entire mini-budget. With no economic program left and no support inside her own party, Truss resigned on 20 October 2022, after just 49 days in office - the shortest tenure of any prime minister in British history, beating George Canning's 119 days in 1827. Rishi Sunak became prime minister shortly after.\n\nThe episode is now widely taught as a case study in how quickly bond markets can discipline a government's fiscal choices, regardless of its parliamentary mandate - a dynamic investors call the 'bond vigilantes' reasserting themselves."
+      },
+      "he": {
+        "headline": "2022: ליז טראס מתפטרת מתפקיד ראש ממשלת בריטניה אחרי 49 יום בלבד",
+        "scroll": "ליז טראס הייתה לראש הממשלה הקצרה ביותר בתולדות בריטניה, אחרי שמשבר בשוק האג\"ח הכריח אותה לבטל את תוכניתה הכלכלית.",
+        "coffee": "ליז טראס נכנסה לתפקיד ב-6 בספטמבר 2022, ותוך שלושה שבועות הממשלה שלה הכריזה על 'תקציב מיני' - הפחתות מסים גדולות וללא מימון, בלי תחזית כלכלית עצמאית שתלווה אותן. המשקיעים הגיבו במכירה מסיבית של אג\"ח ממשלת בריטניה ('gilts'), התשואות זינקו והליש\"ט נחלש לשפל שיא לעומת הדולר. בנק אנגליה נאלץ להתערב ולרכוש אג\"ח בחירום כדי למנוע קריסה של קרנות פנסיה שנחשפו לצניחת מחירי האג\"ח.\n\nבתוך ימים, טראס פיטרה את שר האוצר שלה, ביטלה את רוב חבילת הפחתות המסים, ולאחר שלא הצליחה להתאושש פוליטית, התפטרה ב-20 באוקטובר, בסיום כהונה של 49 יום - הקצרה ביותר בתולדות בריטניה. ריש'י סונאק החליף אותה כמה ימים לאחר מכן.\n\nהחשיבות: הפרשה הפכה למקרה לימוד קלאסי על יכולתם של שווקים פיננסיים 'לייסר' ממשלה בזמן אמת - תופעה שמכונה לעיתים 'שומרי האג\"ח' (bond vigilantes) - והיא עדיין מצוטטת כל אימת שתוכניות תקציביות של ממשלה מפחידות את שוק האג\"ח.",
+        "deep": "ב-6 בספטמבר 2022 הפכה ליז טראס לראשת ממשלת בריטניה, בעקבות ניצחון בבחירות המנהיגות של המפלגה השמרנית ובזאת החליפה את בוריס ג'ונסון. יומיים לאחר מכן נפטרה המלכה אליזבת השנייה, מה שהסיט את תשומת הלב הציבורית מהמדיניות הכלכלית לתקופת אבל לאומי. אך ב-23 בספטמבר, הממשלה שלה, בראשות שר האוצר קוואסי קוורטנג, הציגה 'תקציב מיני': הפחתות מסים בלתי ממומנות בסך כ-45 מיליארד ליש\"ט, כולל ביטול שיעור המס השולי הגבוה ביותר, בלי תחזית מלווה מהגוף העצמאי לאחריות תקציבית (OBR) שתבהיר כיצד ימומנו.\n\nהשווקים קראו את הצעד הזה כממשלה שמגדילה את החוב בלי תוכנית אמינה לניהולו. אג\"ח ממשלת בריטניה ('gilts') נמכרו בהיקף נרחב והתשואות זינקו - המחיר שמשקיעים דורשים כדי להלוות לגוף שנראה פחות אמין. הליש\"ט נחלש לשפל שיא היסטורי מול הדולר. הסכנה האמיתית התגלתה בפינה לא צפויה של תעשיית הפנסיה: קרנות פנסיה רבות בבריטניה השתמשו באסטרטגיות 'השקעה מונחית התחייבויות' (liability-driven investment, LDI) שדרשו הפקדת בטחונות נוספים כשמחירי האג\"ח ירדו, מה שהכריח אותן למכור עוד אג\"ח כדי לגייס מזומן - מכירת חיסול שמזינה את עצמה ואיימה להפוך למשבר פיננסי של ממש. בנק אנגליה נאלץ לבצע רכישות אג\"ח חירום בהיקף גדול כדי לייצב את השוק, בסתירה ישירה למאמציו שלו להילחם באינפלציה דרך העלאת ריבית.\n\nהתגובה הפוליטית הייתה מהירה: קוורטנג פוטר בתוך ימים, והחליף אותו ג'רמי האנט, שביטל כמעט את כל התקציב המיני. בלי תוכנית כלכלית ובלי תמיכה במפלגה שלה עצמה, טראס התפטרה ב-20 באוקטובר 2022, אחרי 49 יום בתפקיד בלבד - הכהונה הקצרה ביותר בתולדות ראשי ממשלת בריטניה, קצרה אפילו מזו של ג'ורג' קנינג (119 יום, 1827). ריש'י סונאק הפך לראש הממשלה זמן קצר לאחר מכן.\n\nהפרשה מלמדת כיום, במוסדות רבים, כמקרה בוחן לאופן שבו שוקי האג\"ח יכולים לייסר החלטות פיסקליות של ממשלה בזמן קצר, בלי קשר למנדט הפרלמנטרי שלה - דינמיקה שמשקיעים מכנים 'שומרי האג\"ח' שמזכירים את נוכחותם."
+      },
+      "tags": [
+        "uk-politics",
+        "economics",
+        "markets",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2022: At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdom.",
+          "url": "https://en.wikipedia.org/wiki/Liz_Truss"
+        }
+      ]
+    }
+  ]
+}

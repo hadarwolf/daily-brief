@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-25",
+  "questions": [
+    {
+      "id": "quiz-arsenal-level-city",
+      "section": "sports",
+      "story_id": "arsenal-level-with-city",
+      "answer_index": 0,
+      "en": {
+        "question": "What happened to Arsenal's league position after they beat Everton 2-0?",
+        "options": [
+          "They moved level on points with leaders Manchester City at the top of the Premier League",
+          "They dropped out of the Champions League qualification spots",
+          "They overtook Man City outright to lead the table alone",
+          "They fell behind Chelsea on goal difference"
+        ],
+        "explanation": "The win over Everton took Arsenal to 21 points, level with Man City, who lost the same day to Aston Villa."
+      },
+      "he": {
+        "question": "מה קרה למיקומה של ארסנל בטבלה אחרי הניצחון 2-0 על אברטון?",
+        "options": [
+          "היא השתוותה בנקודות למובילה מנצ'סטר סיטי בפסגת הפרמייר ליג",
+          "היא נפלה מחוץ למקומות המזכים בליגת האלופות",
+          "היא עברה את סיטי והפכה למובילה היחידה",
+          "היא נפלה מאחורי צ'לסי בהפרש השערים"
+        ],
+        "explanation": "הניצחון על אברטון העלה את ארסנל ל-21 נקודות, בשוויון עם סיטי, שהפסידה באותו יום לאסטון וילה."
+      }
+    },
+    {
+      "id": "quiz-ai-debt-echoes",
+      "section": "business",
+      "story_id": "ai-debt-echoes-2008",
+      "answer_index": 0,
+      "en": {
+        "question": "Why are analysts drawing a comparison between AI data-center financing and the 2008 crisis?",
+        "options": [
+          "Because that financing is becoming more leveraged and less transparent, echoing patterns that preceded 2008",
+          "Because AI companies have already defaulted on most of their loans",
+          "Because the Federal Reserve just banned lending to AI firms",
+          "Because AI stocks have collapsed by half this year"
+        ],
+        "explanation": "The warning is about rising leverage and opacity in how AI data centers are financed, not an AI crash that has already happened."
+      },
+      "he": {
+        "question": "מדוע אנליסטים משווים את אופן המימון של מרכזי הנתונים של ה-AI למשבר 2008?",
+        "options": [
+          "כי המימון הזה הופך למנוף יותר (leveraged) ולשקוף פחות, ומזכיר דפוסים שהקדימו את 2008",
+          "כי חברות ה-AI כבר חדלו מלשרת את רוב החובות שלהן",
+          "כי הבנק הפדרלי אסר הלוואות לחברות AI",
+          "כי מניות ה-AI קרסו בחצי השנה הזו"
+        ],
+        "explanation": "האזהרה נוגעת לעלייה במנוף ובחוסר השקיפות במימון מרכזי הנתונים, לא לקריסה שכבר התרחשה."
+      }
+    },
+    {
+      "id": "quiz-state-inquiry-rally",
+      "section": "israeli_politics",
+      "story_id": "state-inquiry-rally-october-7",
+      "answer_index": 0,
+      "en": {
+        "question": "What were the thousands who rallied at Hostages Square on Saturday night demanding?",
+        "options": [
+          "A state commission of inquiry into the October 7 attack",
+          "The immediate resignation of the Shin Bet chief",
+          "Cancellation of this week's election",
+          "A ceasefire agreement with Hamas"
+        ],
+        "explanation": "The rally, organized by the 'October Council', renewed the long-standing demand for a state commission of inquiry into October 7."
+      },
+      "he": {
+        "question": "מה דרשו אלפי המשתתפים בעצרת בכיכר החטופים במוצאי שבת?",
+        "options": [
+          "הקמת ועדת חקירה ממלכתית על ה-7 באוקטובר",
+          "התפטרות מיידית של ראש השב\"כ",
+          "ביטול הבחירות השבוע",
+          "הסכם הפסקת אש עם חמאס"
+        ],
+        "explanation": "העצרת, שאורגנה בידי 'מועצת אוקטובר', חידשה את הדרישה המתמשכת להקמת ועדת חקירה ממלכתית על ה-7 באוקטובר."
+      }
+    }
+  ]
+}
