@@ -36,314 +36,314 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-24T11:30:00Z",
+     "home": "Portsmouth",
+     "away": "Millwall",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T11:30:00Z",
      "home": "Sheffield Utd",
      "away": "Derby County",
-     "status": "FINISHED",
-     "score": "1-1"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-24T11:30:00Z",
      "home": "Aston Villa",
      "away": "Man City",
-     "status": "FINISHED",
-     "score": "2-1"
+     "status": "IN_PLAY",
+     "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-24T11:30:00Z",
      "home": "Charlton",
      "away": "Norwich",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T11:30:00Z",
-     "home": "Portsmouth",
-     "away": "Millwall",
-     "status": "FINISHED",
-     "score": "2-1"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-24T12:00:00Z",
      "home": "Rayo Vallecano",
      "away": "Elche",
-     "status": "FINISHED",
-     "score": "0-3"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-24T13:00:00Z",
-     "home": "Cagliari",
-     "away": "Bologna",
-     "status": "FINISHED",
-     "score": "0-2"
+     "status": "IN_PLAY",
+     "score": null
     },
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-24T13:00:00Z",
      "home": "Como 1907",
      "away": "Sassuolo",
-     "status": "FINISHED",
-     "score": "2-0"
+     "status": "TIMED",
+     "score": null
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-24T13:30:00Z",
-     "home": "1. FC Köln",
-     "away": "Schalke",
-     "status": "FINISHED",
-     "score": "0-0"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-24T13:30:00Z",
-     "home": "Augsburg",
-     "away": "Union Berlin",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-24T13:30:00Z",
-     "home": "SC Paderborn",
-     "away": "HSV",
-     "status": "FINISHED",
-     "score": "1-0"
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-24T13:00:00Z",
+     "home": "Cagliari",
+     "away": "Bologna",
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-24T13:30:00Z",
      "home": "Mainz",
      "away": "Bremen",
-     "status": "FINISHED",
-     "score": "2-3"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-24T13:30:00Z",
      "home": "RB Leipzig",
      "away": "Elversberg",
-     "status": "FINISHED",
-     "score": "4-0"
+     "status": "IN_PLAY",
+     "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "Wolverhampton",
-     "away": "Watford",
-     "status": "FINISHED",
-     "score": "1-0"
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T13:30:00Z",
+     "home": "1. FC Köln",
+     "away": "Schalke",
+     "status": "TIMED",
+     "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "Lincoln City",
-     "away": "Burnley",
-     "status": "FINISHED",
-     "score": "4-1"
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T13:30:00Z",
+     "home": "Augsburg",
+     "away": "Union Berlin",
+     "status": "TIMED",
+     "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "Coventry City",
-     "away": "Fulham",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "Stoke",
-     "away": "Bristol City",
-     "status": "FINISHED",
-     "score": "0-0"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "Arsenal",
-     "away": "Everton",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "Preston NE",
-     "away": "West Brom",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "Cardiff",
-     "away": "Birmingham",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "West Ham",
-     "away": "Southampton",
-     "status": "FINISHED",
-     "score": "2-3"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-24T14:00:00Z",
-     "home": "QPR",
-     "away": "Swansea",
-     "status": "FINISHED",
-     "score": "5-0"
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-24T13:30:00Z",
+     "home": "SC Paderborn",
+     "away": "HSV",
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-24T14:00:00Z",
      "home": "Blackburn",
      "away": "Wrexham",
-     "status": "FINISHED",
-     "score": "2-0"
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Preston NE",
+     "away": "West Brom",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Cardiff",
+     "away": "Birmingham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "West Ham",
+     "away": "Southampton",
+     "status": "TIMED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "QPR",
+     "away": "Swansea",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Stoke",
+     "away": "Bristol City",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Arsenal",
+     "away": "Everton",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Wolverhampton",
+     "away": "Watford",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Lincoln City",
+     "away": "Burnley",
+     "status": "IN_PLAY",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-24T14:00:00Z",
+     "home": "Coventry City",
+     "away": "Fulham",
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-24T14:15:00Z",
      "home": "Santander",
      "away": "Espanyol",
-     "status": "FINISHED",
-     "score": "2-1"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-24T14:30:00Z",
      "home": "Utrecht",
      "away": "Zwolle",
-     "status": "FINISHED",
-     "score": "1-1"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-24T14:30:00Z",
      "home": "Amadora",
      "away": "Casa Pia",
-     "status": "FINISHED",
-     "score": "0-2"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-24T16:00:00Z",
      "home": "Napoli",
      "away": "Roma",
-     "status": "FINISHED",
-     "score": "3-3"
-    },
-    {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-10-24T16:30:00Z",
-     "home": "Valencia",
-     "away": "Villarreal",
-     "status": "FINISHED",
-     "score": "1-2"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-24T16:30:00Z",
      "home": "Chelsea",
      "away": "Tottenham",
-     "status": "FINISHED",
-     "score": "0-2"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-24T16:30:00Z",
      "home": "Dortmund",
      "away": "Frankfurt",
-     "status": "FINISHED",
-     "score": "1-0"
+     "status": "IN_PLAY",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-24T16:30:00Z",
+     "home": "Valencia",
+     "away": "Villarreal",
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-24T16:45:00Z",
      "home": "Willem II",
      "away": "Cambuur",
-     "status": "FINISHED",
-     "score": "1-6"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-24T17:00:00Z",
      "home": "Alverca",
      "away": "Arouca",
-     "status": "FINISHED",
-     "score": "0-1"
+     "status": "IN_PLAY",
+     "score": null
     },
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-24T18:45:00Z",
      "home": "Lazio",
      "away": "Parma",
-     "status": "FINISHED",
-     "score": "2-1"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-24T18:45:00Z",
      "home": "RC Lens",
      "away": "Paris FC",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-24T19:00:00Z",
-     "home": "Den Haag",
-     "away": "Heerenveen",
-     "status": "FINISHED",
-     "score": "2-3"
+     "status": "IN_PLAY",
+     "score": null
     },
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-24T19:00:00Z",
      "home": "Atleti",
      "away": "Deportivo",
-     "status": "FINISHED",
-     "score": "1-0"
+     "status": "TIMED",
+     "score": null
     },
     {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-10-24T19:30:00Z",
-     "home": "Gil Vicente",
-     "away": "Porto",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-24T19:30:00Z",
-     "home": "Internacional",
-     "away": "Botafogo",
-     "status": "FINISHED",
-     "score": "3-0"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-24T19:30:00Z",
-     "home": "Mirassol",
-     "away": "São Paulo",
-     "status": "FINISHED",
-     "score": "1-1"
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-24T19:00:00Z",
+     "home": "Den Haag",
+     "away": "Heerenveen",
+     "status": "IN_PLAY",
+     "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-24T19:30:00Z",
      "home": "Vitória",
      "away": "Paranaense",
-     "status": "FINISHED",
-     "score": "1-1"
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-24T19:30:00Z",
+     "home": "Mirassol",
+     "away": "São Paulo",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-24T19:30:00Z",
+     "home": "Internacional",
+     "away": "Botafogo",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-10-24T19:30:00Z",
+     "home": "Gil Vicente",
+     "away": "Porto",
+     "status": "IN_PLAY",
+     "score": null
     }
    ],
    "today": [
@@ -352,23 +352,23 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-24T21:30:00Z",
      "home": "Palmeiras",
      "away": "Bragantino",
-     "status": "FINISHED",
-     "score": "2-0"
+     "status": "IN_PLAY",
+     "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-24T21:30:00Z",
      "home": "Vasco da Gama",
      "away": "Corinthians",
-     "status": "FINISHED",
-     "score": "3-2"
+     "status": "TIMED",
+     "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-24T22:30:00Z",
      "home": "Chapecoense",
      "away": "Fluminense",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "score": null
     },
     {
@@ -376,7 +376,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-25T01:00:00Z",
      "home": "Santos",
      "away": "Bahia",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "score": null
     },
     {
@@ -406,32 +406,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-25T13:30:00Z",
-     "home": "PSV",
-     "away": "Feyenoord",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-25T13:30:00Z",
      "home": "NEC",
      "away": "Groningen",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-25T14:00:00Z",
-     "home": "Liverpool",
-     "away": "Brighton Hove",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-25T13:30:00Z",
+     "home": "PSV",
+     "away": "Feyenoord",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Serie A",
+     "competition": "Ligue 1",
      "kickoff_utc": "2026-10-25T14:00:00Z",
-     "home": "Atalanta",
-     "away": "Frosinone",
+     "home": "Monaco",
+     "away": "Lille",
      "status": "TIMED",
      "score": null
     },
@@ -468,10 +460,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
+     "competition": "Premier League",
      "kickoff_utc": "2026-10-25T14:00:00Z",
-     "home": "Monaco",
-     "away": "Lille",
+     "home": "Liverpool",
+     "away": "Brighton Hove",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-25T14:00:00Z",
+     "home": "Atalanta",
+     "away": "Frosinone",
      "status": "TIMED",
      "score": null
     },
@@ -510,6 +510,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-25T16:15:00Z",
+     "home": "Toulouse",
+     "away": "Troyes",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-25T16:15:00Z",
+     "home": "Auxerre",
+     "away": "Le Mans",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-25T16:15:00Z",
      "home": "Stade Rennais",
      "away": "Strasbourg",
      "status": "TIMED",
@@ -532,18 +548,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-25T16:15:00Z",
-     "home": "Auxerre",
-     "away": "Le Mans",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-25T16:15:00Z",
-     "home": "Toulouse",
-     "away": "Troyes",
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-25T16:30:00Z",
+     "home": "Sunderland",
+     "away": "Leeds United",
      "status": "TIMED",
      "score": null
     },
@@ -552,14 +560,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-25T16:30:00Z",
      "home": "Freiburg",
      "away": "Bayern",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-25T16:30:00Z",
-     "home": "Sunderland",
-     "away": "Leeds United",
      "status": "TIMED",
      "score": null
     },
@@ -582,16 +582,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-25T18:00:00Z",
-     "home": "Rio Ave",
-     "away": "Famalicão",
+     "home": "CD Nacional",
+     "away": "Braga",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-25T18:00:00Z",
-     "home": "CD Nacional",
-     "away": "Braga",
+     "home": "Rio Ave",
+     "away": "Famalicão",
      "status": "TIMED",
      "score": null
     },
@@ -856,14 +856,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "arsenal": {
     "recent": [
      {
-      "competition": "UEFA Champions League",
-      "kickoff_utc": "2026-10-13T19:00:00Z",
-      "home": "Arsenal",
-      "away": "Lille",
-      "status": "FINISHED",
-      "score": "3-0"
-     },
-     {
       "competition": "Premier League",
       "kickoff_utc": "2026-10-18T15:30:00Z",
       "home": "Nottingham",
@@ -878,21 +870,29 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
       "away": "Arsenal",
       "status": "FINISHED",
       "score": "2-2"
-     }
-    ],
-    "upcoming": [
+     },
      {
       "competition": "Premier League",
       "kickoff_utc": "2026-10-24T14:00:00Z",
       "home": "Arsenal",
       "away": "Everton",
-      "status": "TIMED",
-      "score": null
-     },
+      "status": "FINISHED",
+      "score": "2-0"
+     }
+    ],
+    "upcoming": [
      {
       "competition": "Premier League",
       "kickoff_utc": "2026-11-01T16:30:00Z",
       "home": "Liverpool",
+      "away": "Arsenal",
+      "status": "TIMED",
+      "score": null
+     },
+     {
+      "competition": "UEFA Champions League",
+      "kickoff_utc": "2026-11-04T20:00:00Z",
+      "home": "Slavia Praha",
       "away": "Arsenal",
       "status": "TIMED",
       "score": null
