@@ -18,111 +18,111 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels",
+     "published": "2026-10-25T07:44:43+00:00",
+     "summary": "Goldman Sachs Group Inc. strategists slashed their target for South Korea’s Kospi Index by 25%, after raising it repeatedly this year, as concerns over the artificial intelligence trade intensify."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Singapore’s Wong Vows More Support for Workers, Energy Security",
      "published": "2026-10-25T05:40:56+00:00",
      "summary": "Singapore Prime Minister Lawrence Wong pledged more support for workers and households, and said the government would step up efforts to secure energy supplies and attract investment as the city-state confronts growing global uncertainty."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "BC Left-Wing Leader Loses to Conservatives in Vote He Called",
      "published": "2026-10-25T04:08:12+00:00",
      "summary": "British Columbia elected its first Conservative Party majority in 98 years, swinging Canada’s third most populous province to the political right."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
      "published": "2026-10-25T02:02:19+00:00",
      "summary": "Luiz Inácio Lula da Silva wasn’t going down without a fight. And his fans weren’t ready to give up on him. Here, marching down Sao Paulo’s most iconic avenue, they were bearing witness to what may turn out to be the last rally by the most defining figure of Latin America’s left."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
      "published": "2026-10-24T21:27:28+00:00",
      "summary": "Saudi Arabia’s main airport was gearing up to reopen as early as Sunday after operations had been disrupted by a spate of attacks by Houthi rebels."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
      "published": "2026-10-24T17:05:04+00:00",
      "summary": "Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is \"a miracle of the modern world,\" and when we should actually start worrying about US debt. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "French Protesters Dispersed with Gas as Tensions Rise",
      "published": "2026-10-24T16:31:00+00:00",
      "summary": "Student protesters in Paris, France were dispersed with gas as conflict escalates. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "New Middle East Threats, Russian Diesel Coming to US",
      "published": "2026-10-24T15:57:32+00:00",
      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The New Yorker Staff Writer Gideon Lewis-Kraus, Linx Dating Founder & CEO Amy Andersen, Oliver Wyman Geostrategy Practice Partner & Global Head Daniel Tannebaum, Seaport Research Partners Chief Equit"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
      "published": "2026-10-24T15:21:35+00:00",
      "summary": "It was a panicked message from a colleague that woke fund manager Ivelina Green at 5 a.m. on Thursday morning in New York: “Total meltdown.”"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
      "published": "2026-10-24T14:45:05+00:00",
      "summary": "Metals traders are earning billions of dollars in a second consecutive blowout year for the sector, with several top trading houses notching up record profits."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "The Real Medical Detective Who Inspired Sherlock Holmes",
      "published": "2026-10-24T14:36:22+00:00",
      "summary": "Medical historian Lindsey Fitzharris tells Bloomberg This Weekend how Scottish surgeon Joseph Bell’s remarkable powers of observation inspired his student Arthur Conan Doyle to create Sherlock Holmes. Speaking with hosts Christina Ruffini and Lisa Mateo, Fitzharris discusses her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes, and Bell’s largely forgotten work applying his diagnostic "
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Venezuela to Restart a Crucial Power Plant With China’s Help",
      "published": "2026-10-24T14:30:00+00:00",
      "summary": "A Chinese engineering company is on the cusp of partially restarting a massive Venezuelan power plant that’s been largely idle for years, a crucial step toward fixing the nation’s dilapidated grid."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Dalmore Said to Express Interest in Cinven-Owned UK Supplier JLA",
      "published": "2026-10-24T14:08:54+00:00",
      "summary": "Dalmore Capital is among parties that have expressed interest in acquiring UK commercial equipment supplier and services provider JLA Group from buyout firm Cinven, according to people with knowledge of the matter."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "How This County Made the Data Center Boom Pay Off",
      "published": "2026-10-24T14:03:23+00:00",
      "summary": "AI is driving a wave of new data centers, but communities are increasingly asking what they get in return. Virginia’s Loudoun County turned the industry into a major tax base that helped fund schools, parks and infrastructure, yet even there, officials are now putting limits on further growth. The bigger lesson may be that towns have more bargaining power than they think. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Inside Gershkovich’s 16 Months in Russian Prisons",
      "published": "2026-10-24T13:53:29+00:00",
      "summary": "Wall Street Journal foreign correspondent Evan Gershkovich tells Bloomberg This Weekend how his reporting experience and knowledge of Russia helped him understand that his 2023 arrest on false espionage charges was likely intended to make him part of a prisoner exchange. Speaking with hosts David Gura and Christina Ruffini, Gershkovich discusses his 16 months in Russian prisons, his memoir This Cu"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "By The Way: Headlines You May Have Missed",
      "published": "2026-10-24T13:38:29+00:00",
      "summary": "Modern day apple-picking, country clubs getting more fun, AirBnB rules update, and The The Brewers' playoff anthem: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "HR Navigates AI and a Changing Workplace",
      "published": "2026-10-24T13:29:52+00:00",
      "summary": "SHRM President and CEO Johnny C. Taylor Jr. tells Bloomberg This Weekend how employers and workers can navigate open enrollment, AI-driven job disruption and growing generational divides in the workplace. Speaking with hosts David Gura and Christina Ruffini, Taylor says companies need to communicate more clearly about benefits, help employees understand how AI can complement human intelligence and"
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "Persistent Oil Prices Threaten Inflation Outlook",
      "published": "2026-10-24T13:19:00+00:00",
      "summary": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend that stocks are not in an AI bubble, arguing that strong earnings and lower valuations show investors remain skeptical even as AI drives much of the market. Speaking with hosts David Gura and Christina Ruffini, Golub says a prolonged Middle East conflict could keep oil and inflation elevated, eventually f"
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Russian Diesel Deal Confronts Legal Uncertainty",
-     "published": "2026-10-24T12:55:03+00:00",
-     "summary": "Oliver Wyman Geostrategy Practice Leader Daniel Tannebaum tells Bloomberg This Weekend that the first Russian diesel shipment under President Donald Trump’s deal with Vladimir Putin raises legal and compliance questions while offering limited relief for US fuel prices. Speaking with hosts David Gura and Christina Ruffini, Tannebaum says private companies remain wary of doing business with Russia a"
     },
     {
      "ref": "bloomberg_markets#18",
@@ -227,7 +227,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#6",
-     "title": "1.6 מיליון חשבונות, 4.3 מיליארד שקל - והבנקים עדיין חוגגים על העמלות שלכם",
+     "title": "1.6 מיליון חשבונות, 4.3 מיליארד שקל — והבנקים עדיין חוגגים על העמלות שלכם",
      "published": "2026-10-25T04:10:44+00:00",
      "summary": "בתי ההשקעות מציעים עמלות נמוכות באופן משמעותי ומגייסים מחצית מהלקוחות החדשים, אבל הבנקים שומרים על 74% מההכנסות בשוק המסחר העצמאי ■ הצעירים עוברים לאפליקציות, הכסף הגדול נשאר בבנק — והמשקיעים משלמים ביוקר על חוסר המודעות"
     },
@@ -517,9 +517,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 80578.3906,
+   "last": 80517.5703,
    "prev_close": 80790.8359,
-   "change_pct": -0.26,
+   "change_pct": -0.34,
    "as_of": "2026-10-25"
   }
  },

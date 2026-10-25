@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-25T07:45:51+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "Vladimir Putin - AP News",
+     "published": "2026-10-25T08:13:23+00:00",
+     "summary": "Vladimir Putin AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-25T08:11:05+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Brazil - AP News",
+     "published": "2026-10-25T08:07:06+00:00",
+     "summary": "Brazil AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Russia - AP News",
+     "published": "2026-10-25T08:07:05+00:00",
+     "summary": "Russia AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Golf - AP News",
+     "published": "2026-10-25T07:57:12+00:00",
+     "summary": "Golf AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-10-25T07:45:51+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#2",
-     "title": "Brazil - AP News",
-     "published": "2026-10-25T07:45:51+00:00",
-     "summary": "Brazil AP News"
-    },
-    {
-     "ref": "ap_world#3",
+     "ref": "ap_world#6",
      "title": "Paris - AP News",
      "published": "2026-10-25T07:35:38+00:00",
      "summary": "Paris AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#7",
      "title": "Drew Rasmusssen can't make it through 4th inning as Rays blow 4-0 lead in Game 2 loss to Brewers - AP News",
      "published": "2026-10-25T06:47:00+00:00",
      "summary": "Drew Rasmusssen can't make it through 4th inning as Rays blow 4-0 lead in Game 2 loss to Brewers AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#8",
      "title": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead - AP News",
      "published": "2026-10-25T06:39:00+00:00",
      "summary": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#9",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-10-25T06:02:53+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#10",
      "title": "Brewers’ Ashby nears postseason scoreless relief record with World Series save - AP News",
      "published": "2026-10-25T05:53:00+00:00",
      "summary": "Brewers’ Ashby nears postseason scoreless relief record with World Series save AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#11",
      "title": "Brazil faces a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake - AP News",
      "published": "2026-10-25T05:00:00+00:00",
      "summary": "Brazil faces a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#12",
      "title": "Arch Manning and No. 19 Texas hang on to beat No. 7 Ole Miss 34-27 after blowing 21-point lead - AP News",
      "published": "2026-10-25T04:59:00+00:00",
      "summary": "Arch Manning and No. 19 Texas hang on to beat No. 7 Ole Miss 34-27 after blowing 21-point lead AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#13",
      "title": "At least 12 people injured in shooting near a football stadium in Florida - AP News",
      "published": "2026-10-25T04:34:00+00:00",
      "summary": "At least 12 people injured in shooting near a football stadium in Florida AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#14",
      "title": "As the US and China form AI blocs, countries are increasingly torn between them - AP News",
      "published": "2026-10-25T04:05:00+00:00",
      "summary": "As the US and China form AI blocs, countries are increasingly torn between them AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#15",
+     "title": "UTSA wins 5th straight, rolls past Tulane 42-19 - AP News",
+     "published": "2026-10-25T03:47:00+00:00",
+     "summary": "UTSA wins 5th straight, rolls past Tulane 42-19 AP News"
+    },
+    {
+     "ref": "ap_world#16",
      "title": "Life at the top isn't easy as BYU becomes the latest top-2 team to lose to an unranked opponent - AP News",
      "published": "2026-10-25T03:44:00+00:00",
      "summary": "Life at the top isn't easy as BYU becomes the latest top-2 team to lose to an unranked opponent AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#17",
      "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
      "published": "2026-10-25T03:36:00+00:00",
      "summary": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge AP News"
     },
     {
-     "ref": "ap_world#14",
-     "title": "LeBron James - AP News",
-     "published": "2026-10-25T03:28:49+00:00",
-     "summary": "LeBron James AP News"
+     "ref": "ap_world#18",
+     "title": "Oklahoma State scores 34 points in the 2nd half to storm past Colorado 57-24 - AP News",
+     "published": "2026-10-25T03:23:00+00:00",
+     "summary": "Oklahoma State scores 34 points in the 2nd half to storm past Colorado 57-24 AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#19",
      "title": "Durant scores 22, Sheppard hits five 3-pointers to lead Rockets to a win in Atlanta's home opener - AP News",
      "published": "2026-10-25T03:19:00+00:00",
      "summary": "Durant scores 22, Sheppard hits five 3-pointers to lead Rockets to a win in Atlanta's home opener AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#20",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-10-25T03:16:02+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#21",
      "title": "Sullivan, Peltola seek support from Alaska Native voters ahead of crucial Senate race - AP News",
      "published": "2026-10-25T03:16:00+00:00",
      "summary": "Sullivan, Peltola seek support from Alaska Native voters ahead of crucial Senate race AP News"
     },
     {
-     "ref": "ap_world#18",
-     "title": "Wembanyama, Harper lead Spurs past short-handed Mavericks 122-106 for their first victory - AP News",
-     "published": "2026-10-25T02:48:00+00:00",
-     "summary": "Wembanyama, Harper lead Spurs past short-handed Mavericks 122-106 for their first victory AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Cavaliers survive a late Nets rally to win home opener 125-121 - AP News",
-     "published": "2026-10-25T02:48:00+00:00",
-     "summary": "Cavaliers survive a late Nets rally to win home opener 125-121 AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - AP News",
-     "published": "2026-10-25T02:45:00+00:00",
-     "summary": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Nylander scores twice to reach 300 NHL goals as Maple Leafs rout Oilers 7-2 - AP News",
-     "published": "2026-10-25T02:42:00+00:00",
-     "summary": "Nylander scores twice to reach 300 NHL goals as Maple Leafs rout Oilers 7-2 AP News"
-    },
-    {
      "ref": "ap_world#22",
-     "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News",
-     "published": "2026-10-25T02:22:00+00:00",
-     "summary": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state AP News"
+     "title": "Noah Fifita throws for 308 yards and 2 TDs, No. 25 Arizona dominates Iowa State 39-3 - AP News",
+     "published": "2026-10-25T03:16:00+00:00",
+     "summary": "Noah Fifita throws for 308 yards and 2 TDs, No. 25 Arizona dominates Iowa State 39-3 AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe - AP News",
-     "published": "2026-10-25T02:20:00+00:00",
-     "summary": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe AP News"
+     "title": "Jonathan Bond earns 12th clean sheet of the season as Dynamo play Minnesota to scoreless draw - AP News",
+     "published": "2026-10-25T03:12:00+00:00",
+     "summary": "Jonathan Bond earns 12th clean sheet of the season as Dynamo play Minnesota to scoreless draw AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Drake Batherson has 3 goals and an assist in the Senators’ 7-4 victory over the Rangers - AP News",
-     "published": "2026-10-25T02:14:00+00:00",
-     "summary": "Drake Batherson has 3 goals and an assist in the Senators’ 7-4 victory over the Rangers AP News"
+     "title": "Kenny Minchey helps No. 12 Kentucky beat Vanderbilt 34-17 - AP News",
+     "published": "2026-10-25T03:06:00+00:00",
+     "summary": "Kenny Minchey helps No. 12 Kentucky beat Vanderbilt 34-17 AP News"
     }
    ]
   },
@@ -378,27 +378,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "foreign_affairs#5",
-     "title": "The Limits of American Power",
-     "published": "2026-10-20T04:00:00+00:00",
-     "summary": "William McRaven, a retired four-star admiral and a major figure in American military affairs, uses history and his personal experiences to make an authoritative case that American leaders frequently overestimate the potential of military force to achieve political ends—and that new technologies like AI will exacerbate this problem."
-    },
-    {
-     "ref": "foreign_affairs#6",
-     "title": "The Chokepoint Trap",
-     "published": "2026-10-20T04:00:00+00:00",
-     "summary": "Niall Ferguson, the leading historian of empire, former Google CEO Eric Schmidt, and AI scholar Lisa Klassen offer a novel reframing of the US-China AI race in the history of world empires. The authors argue that AI is inherently imperial in it ambitions and structure, and that, like previous technological empires, China and US have amassed extraordinary global but that it's happening at a much fa"
-    },
-    {
-     "ref": "foreign_affairs#7",
      "title": "The Fog of Tech",
      "published": "2026-10-20T04:00:00+00:00",
      "summary": "Mara Karlin, a defense policy expert who served as senior national-security official in multiple American administrations, makes an authoritative case that war planners tend to be overconfident about their ability to predict how new tools will shape the battlefield—blinding them to the unchanging realities of war. Using examples from Gaza, Ukraine, and Iran, Karlin shows how this \"technology trap\""
     },
     {
-     "ref": "foreign_affairs#8",
+     "ref": "foreign_affairs#6",
      "title": "Empires of AI",
      "published": "2026-10-20T04:00:00+00:00",
      "summary": "In this essay, Niall Ferguson, one of the world’s foremost experts on imperial history, teams up the former CEO of Google, Eric Schmidt, and the researcher Lisa Klaassen to make the provocative argument that AI is an inherently “imperial technology”—and to reveal what the fate of past empires might say about the future of U.S.-Chinese competition in a world shaped by AI."
+    },
+    {
+     "ref": "foreign_affairs#7",
+     "title": "The Limits of American Power",
+     "published": "2026-10-20T04:00:00+00:00",
+     "summary": "William McRaven, a retired four-star admiral and a major figure in American military affairs, uses history and his personal experiences to make an authoritative case that American leaders frequently overestimate the potential of military force to achieve political ends—and that new technologies like AI will exacerbate this problem."
+    },
+    {
+     "ref": "foreign_affairs#8",
+     "title": "The Chokepoint Trap",
+     "published": "2026-10-20T04:00:00+00:00",
+     "summary": "Niall Ferguson, the leading historian of empire, former Google CEO Eric Schmidt, and AI scholar Lisa Klassen offer a novel reframing of the US-China AI race in the history of world empires. The authors argue that AI is inherently imperial in it ambitions and structure, and that, like previous technological empires, China and US have amassed extraordinary global but that it's happening at a much fa"
     },
     {
      "ref": "foreign_affairs#9",
@@ -438,153 +438,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Three people killed and 14 injured in Ukrainian attacks on Russia's Belgorod region, governor says - Reuters",
+     "published": "2026-10-25T08:05:12+00:00",
+     "summary": "Three people killed and 14 injured in Ukrainian attacks on Russia's Belgorod region, governor says Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Drone attack injures five people, damages industrial facility in Russia’s Perm region, governor says - Reuters",
+     "published": "2026-10-25T08:01:54+00:00",
+     "summary": "Drone attack injures five people, damages industrial facility in Russia’s Perm region, governor says Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Gulf bourses slip as Houthi-Saudi clashes rattle investors - Reuters",
      "published": "2026-10-25T07:39:43+00:00",
      "summary": "Gulf bourses slip as Houthi-Saudi clashes rattle investors Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
      "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports - Reuters",
      "published": "2026-10-25T07:22:39+00:00",
      "summary": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
-     "published": "2026-10-25T07:19:22+00:00",
+     "published": "2026-10-25T07:10:15+00:00",
      "summary": "Disenchanted Netanyahu supporters are prize of Israel election campaign Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr. - Reuters",
      "published": "2026-10-25T07:07:52+00:00",
      "summary": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr. Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "Borr Drilling rig sinks offshore Gabon, five personnel missing - Reuters",
      "published": "2026-10-25T06:30:00+00:00",
      "summary": "Borr Drilling rig sinks offshore Gabon, five personnel missing Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "Eleven shot near Florida A&M university in Tallahassee - Reuters",
      "published": "2026-10-25T04:36:00+00:00",
      "summary": "Eleven shot near Florida A&M university in Tallahassee Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "Portuguese police clear Lisbon housing protest camp, make arrests - Reuters",
      "published": "2026-10-25T03:31:00+00:00",
      "summary": "Portuguese police clear Lisbon housing protest camp, make arrests Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "British PM Burnham open to adopting EU free movement, Sunday Times reports - Reuters",
      "published": "2026-10-25T03:13:00+00:00",
      "summary": "British PM Burnham open to adopting EU free movement, Sunday Times reports Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Serbia votes as students seek to unseat Vucic in snap election - Reuters",
      "published": "2026-10-25T01:03:00+00:00",
      "summary": "Serbia votes as students seek to unseat Vucic in snap election Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Sydney's new international airport opens to passengers - Reuters",
      "published": "2026-10-25T00:29:00+00:00",
      "summary": "Sydney's new international airport opens to passengers Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes - Reuters",
      "published": "2026-10-25T00:03:00+00:00",
      "summary": "Bulgaria votes for president in wake of deadly Black Sea drone strikes Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Yemen's Houthis renew warning against using Riyadh airport - Reuters",
      "published": "2026-10-24T23:57:43+00:00",
      "summary": "Yemen's Houthis renew warning against using Riyadh airport Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports - Reuters",
      "published": "2026-10-24T23:23:00+00:00",
      "summary": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "Bolsonaro, Lula about even in polls for Brazil runoff vote - Reuters",
      "published": "2026-10-24T23:02:10+00:00",
      "summary": "Bolsonaro, Lula about even in polls for Brazil runoff vote Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
      "published": "2026-10-24T22:49:12+00:00",
      "summary": "Nigeria's Tinubu launches re-election campaign as economic pain tests support Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires - Reuters",
      "published": "2026-10-24T22:15:27+00:00",
      "summary": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
      "published": "2026-10-24T22:07:30+00:00",
      "summary": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff - Reuters",
      "published": "2026-10-24T21:56:37+00:00",
      "summary": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power - Reuters",
      "published": "2026-10-24T21:45:00+00:00",
      "summary": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms - Reuters",
      "published": "2026-10-24T21:39:57+00:00",
      "summary": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "UK budget set to hand English mayors new borrowing powers, growth funding - Reuters",
      "published": "2026-10-24T21:37:44+00:00",
      "summary": "UK budget set to hand English mayors new borrowing powers, growth funding Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "With his first smartphone, Lula seeks to catch up to Brazil's online generation - Reuters",
      "published": "2026-10-24T19:45:21+00:00",
      "summary": "With his first smartphone, Lula seeks to catch up to Brazil's online generation Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden - Reuters",
      "published": "2026-10-24T19:24:39+00:00",
      "summary": "Houthis say they targeted Saudi oil sites; attacks reported in Aden Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says - Reuters",
-     "published": "2026-10-24T19:03:57+00:00",
-     "summary": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters",
-     "published": "2026-10-24T18:22:00+00:00",
-     "summary": "Protests sweep Italian cities amid heavy security presence, some violence reported Reuters"
     }
    ]
   }
