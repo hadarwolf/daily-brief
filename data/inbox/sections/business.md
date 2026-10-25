@@ -18,117 +18,117 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Singapore’s Wong Vows More Support for Workers, Energy Security",
+     "published": "2026-10-25T05:40:56+00:00",
+     "summary": "Singapore Prime Minister Lawrence Wong pledged more support for workers and households, and said the government would step up efforts to secure energy supplies and attract investment as the city-state confronts growing global uncertainty."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "BC Left-Wing Leader Loses to Conservatives in Vote He Called",
+     "published": "2026-10-25T04:08:12+00:00",
+     "summary": "British Columbia elected its first Conservative Party majority in 98 years, swinging Canada’s third most populous province to the political right."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
      "published": "2026-10-25T02:02:19+00:00",
      "summary": "Luiz Inácio Lula da Silva wasn’t going down without a fight. And his fans weren’t ready to give up on him. Here, marching down Sao Paulo’s most iconic avenue, they were bearing witness to what may turn out to be the last rally by the most defining figure of Latin America’s left."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#3",
      "title": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
      "published": "2026-10-24T21:27:28+00:00",
      "summary": "Saudi Arabia’s main airport was gearing up to reopen as early as Sunday after operations had been disrupted by a spate of attacks by Houthi rebels."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
      "published": "2026-10-24T17:05:04+00:00",
      "summary": "Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is \"a miracle of the modern world,\" and when we should actually start worrying about US debt. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "French Protesters Dispersed with Gas as Tensions Rise",
      "published": "2026-10-24T16:31:00+00:00",
      "summary": "Student protesters in Paris, France were dispersed with gas as conflict escalates. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "New Middle East Threats, Russian Diesel Coming to US",
      "published": "2026-10-24T15:57:32+00:00",
      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The New Yorker Staff Writer Gideon Lewis-Kraus, Linx Dating Founder & CEO Amy Andersen, Oliver Wyman Geostrategy Practice Partner & Global Head Daniel Tannebaum, Seaport Research Partners Chief Equit"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
      "published": "2026-10-24T15:21:35+00:00",
      "summary": "It was a panicked message from a colleague that woke fund manager Ivelina Green at 5 a.m. on Thursday morning in New York: “Total meltdown.”"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
      "published": "2026-10-24T14:45:05+00:00",
      "summary": "Metals traders are earning billions of dollars in a second consecutive blowout year for the sector, with several top trading houses notching up record profits."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "The Real Medical Detective Who Inspired Sherlock Holmes",
      "published": "2026-10-24T14:36:22+00:00",
      "summary": "Medical historian Lindsey Fitzharris tells Bloomberg This Weekend how Scottish surgeon Joseph Bell’s remarkable powers of observation inspired his student Arthur Conan Doyle to create Sherlock Holmes. Speaking with hosts Christina Ruffini and Lisa Mateo, Fitzharris discusses her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes, and Bell’s largely forgotten work applying his diagnostic "
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "Venezuela to Restart a Crucial Power Plant With China’s Help",
      "published": "2026-10-24T14:30:00+00:00",
      "summary": "A Chinese engineering company is on the cusp of partially restarting a massive Venezuelan power plant that’s been largely idle for years, a crucial step toward fixing the nation’s dilapidated grid."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "Dalmore Said to Express Interest in Cinven-Owned UK Supplier JLA",
      "published": "2026-10-24T14:08:54+00:00",
      "summary": "Dalmore Capital is among parties that have expressed interest in acquiring UK commercial equipment supplier and services provider JLA Group from buyout firm Cinven, according to people with knowledge of the matter."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#12",
      "title": "How This County Made the Data Center Boom Pay Off",
      "published": "2026-10-24T14:03:23+00:00",
      "summary": "AI is driving a wave of new data centers, but communities are increasingly asking what they get in return. Virginia’s Loudoun County turned the industry into a major tax base that helped fund schools, parks and infrastructure, yet even there, officials are now putting limits on further growth. The bigger lesson may be that towns have more bargaining power than they think. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
      "title": "Inside Gershkovich’s 16 Months in Russian Prisons",
      "published": "2026-10-24T13:53:29+00:00",
      "summary": "Wall Street Journal foreign correspondent Evan Gershkovich tells Bloomberg This Weekend how his reporting experience and knowledge of Russia helped him understand that his 2023 arrest on false espionage charges was likely intended to make him part of a prisoner exchange. Speaking with hosts David Gura and Christina Ruffini, Gershkovich discusses his 16 months in Russian prisons, his memoir This Cu"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#14",
      "title": "By The Way: Headlines You May Have Missed",
      "published": "2026-10-24T13:38:29+00:00",
      "summary": "Modern day apple-picking, country clubs getting more fun, AirBnB rules update, and The The Brewers' playoff anthem: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#15",
      "title": "HR Navigates AI and a Changing Workplace",
      "published": "2026-10-24T13:29:52+00:00",
      "summary": "SHRM President and CEO Johnny C. Taylor Jr. tells Bloomberg This Weekend how employers and workers can navigate open enrollment, AI-driven job disruption and growing generational divides in the workplace. Speaking with hosts David Gura and Christina Ruffini, Taylor says companies need to communicate more clearly about benefits, help employees understand how AI can complement human intelligence and"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#16",
      "title": "Persistent Oil Prices Threaten Inflation Outlook",
      "published": "2026-10-24T13:19:00+00:00",
      "summary": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend that stocks are not in an AI bubble, arguing that strong earnings and lower valuations show investors remain skeptical even as AI drives much of the market. Speaking with hosts David Gura and Christina Ruffini, Golub says a prolonged Middle East conflict could keep oil and inflation elevated, eventually f"
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#17",
      "title": "Russian Diesel Deal Confronts Legal Uncertainty",
      "published": "2026-10-24T12:55:03+00:00",
      "summary": "Oliver Wyman Geostrategy Practice Leader Daniel Tannebaum tells Bloomberg This Weekend that the first Russian diesel shipment under President Donald Trump’s deal with Vladimir Putin raises legal and compliance questions while offering limited relief for US fuel prices. Speaking with hosts David Gura and Christina Ruffini, Tannebaum says private companies remain wary of doing business with Russia a"
     },
     {
-     "ref": "bloomberg_markets#16",
-     "title": "France Faces New Protests After Week of Violence",
-     "published": "2026-10-24T12:23:42+00:00",
-     "summary": "Bloomberg News Paris Deputy Bureau Chief James Regan tells Bloomberg This Weekend that France is deploying tens of thousands of police and shifting protest routes as authorities try to prevent a repeat of last weekend’s violence and looting. Speaking with hosts David Gura and Christina Ruffini, Regan says unrest that began with student demands has broadened into anger over the cost of living, thre"
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Gershkovich Says Putin Seeks His Terms, Not a Deal",
-     "published": "2026-10-24T11:54:12+00:00",
-     "summary": "Wall Street Journal foreign correspondent Evan Gershkovich tells Bloomberg This Weekend that he questions whether the Trump administration fully understands Vladimir Putin’s negotiating tactics after US envoy Steve Witkoff praised the Russian president as a “humanitarian” following Stephen Hubbard’s release. Speaking with hosts David Gura and Christina Ruffini, Gershkovich draws on years covering "
-    },
-    {
      "ref": "bloomberg_markets#18",
      "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
      "published": "2026-10-24T07:48:56+00:00",
-     "summary": "Indonesia is reducing natural gas exports to neighboring Singapore as President Prabowo Subianto seeks to shore up domestic supply and strengthen energy security for Southeast Asia’s largest economy."
+     "summary": "Indonesia reduced natural gas exports to neighboring Singapore from Saturday as President Prabowo Subianto seeks to shore up domestic supply and strengthen energy security for Southeast Asia’s largest economy."
     },
     {
      "ref": "bloomberg_markets#19",
@@ -144,45 +144,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+     "published": "2026-10-25T05:00:10+00:00",
+     "summary": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector"
+    },
+    {
+     "ref": "ft_home#1",
+     "title": "Bolsonaro and Lula face off in knife-edge Brazil election",
+     "published": "2026-10-25T05:00:10+00:00",
+     "summary": "Rightwing challenger seeks to oust leftist president and bring Latin America’s largest country closer to Donald Trump"
+    },
+    {
+     "ref": "ft_home#2",
+     "title": "The right’s obsession with ‘civil war’ in Britain",
+     "published": "2026-10-25T05:00:02+00:00",
+     "summary": "Many of those stoking fears of bloody unrest don’t actually live in the country"
+    },
+    {
+     "ref": "ft_home#3",
+     "title": "The Black Sea is now the world’s deadliest shipping route",
+     "published": "2026-10-25T05:00:02+00:00",
+     "summary": "Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf"
+    },
+    {
+     "ref": "ft_home#4",
+     "title": "More than 1mn antiquities returned to countries of origin",
+     "published": "2026-10-25T05:00:02+00:00",
+     "summary": "First comprehensive database of looted items returned by museums and collectors suggests articles worth at least $2bn have been repatriated since 1950"
+    },
+    {
+     "ref": "ft_home#5",
      "title": "Why 17 is not the magic number in industrial policy",
      "published": "2026-10-25T01:00:09+00:00",
      "summary": "A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy"
     },
     {
-     "ref": "ft_home#1",
-     "title": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
-     "published": "2026-10-25T01:00:09+00:00",
-     "summary": "Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures"
-    },
-    {
-     "ref": "ft_home#2",
-     "title": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
-     "published": "2026-10-25T01:00:09+00:00",
-     "summary": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers"
-    },
-    {
-     "ref": "ft_home#3",
-     "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
-     "published": "2026-10-24T23:23:01+00:00",
-     "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots"
-    },
-    {
-     "ref": "ft_home#4",
+     "ref": "ft_home#6",
      "title": "Ukraine military says Starlink service restrictions have been lifted",
      "published": "2026-10-24T21:30:37+00:00",
      "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes"
-    },
-    {
-     "ref": "ft_home#5",
-     "title": "France is looking ungovernable. And it’s going to get worse",
-     "published": "2026-10-24T04:00:23+00:00",
-     "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers"
-    },
-    {
-     "ref": "ft_home#6",
-     "title": "Tucker Carlson: ‘I so overstated my power it was embarrassing’",
-     "published": "2026-10-24T04:00:13+00:00",
-     "summary": "Does Trump’s loudest critic still have his finger on America’s pulse?"
     }
    ]
   },
@@ -192,152 +192,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "\"לא נוכל להשתמש בכרטיסי אשראי, עובדים זרים ינטשו\": האזהרה מפני תוכנית הסנקציות של נתניהו",
+     "published": "2026-10-25T07:00:07+00:00",
+     "summary": "סנקציות פיננסיות על ישראל ימיטו אסון לא רק על מצבה המקרו־כלכלי, אלא גם על ההתנהלות הכלכלית היומיומית של משקי הבית — כך מזהירים כ-100 כלכלנים, אנשי עסקים ויוצאי השירות הציבורי, בגילוי דעת ■ לטענתם, \"דברי ראש הממשלה מעידים על חוסר הבנה בסיסי ובורות נוכח קריסת מעמדה של ישראל בזירה הבינלאומית\""
+    },
+    {
+     "ref": "themarker#1",
+     "title": "אחרי חזון האפוקל-קריפטו של נתניהו, אפילו כלכלת בעזרת השם לא תעבוד",
+     "published": "2026-10-25T06:13:23+00:00",
+     "summary": "הבנקים ממשיכים ליהנות מרוב העמלות בשוק המסחר העצמאי, האמת מאחורי קורוויב וספייס־אקס, הסיכון למשבר פיננסי בארה\"ב גדול מכפי שנראה — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
+    },
+    {
+     "ref": "themarker#2",
+     "title": "חובות, אשליות AI ומזומנים לבעלי השליטה: האמת מאחורי קורוויב וספייס־אקס",
+     "published": "2026-10-25T04:13:44+00:00",
+     "summary": "קורוויב מציגה מדריך מואץ לבניית סחרור חובות ומחיקת בעלי מניות, בעוד אנבידיה ממשיכה לרשום הכנסות מגילוי עריות פיננסי ■ ומה לגבי ספייס־אקס? כשהדו\"חות הרבעוניים מחליפים את הלהט של המשקיעים, מגלים עסק שמסתמך כמעט לחלוטין על הנכונות של השוק להמשיך לתדלק אותו"
+    },
+    {
+     "ref": "themarker#3",
+     "title": "\"אני לא יודעת אם אני רוצה את הסיכון בשוק המניות\": ההזדמנות החדשה באג\"ח",
+     "published": "2026-10-25T04:13:09+00:00"
+    },
+    {
+     "ref": "themarker#4",
+     "title": "החזון השאפתני וסימני השאלה: מעבדת מחקר מת\"א מסעירה את שוק הקריפטו",
+     "published": "2026-10-25T04:11:25+00:00",
+     "summary": "מעבדת פרל, שגייסה מתחת לרדאר 130 מיליון דולר, מבטיחה להוזיל את עלויות ה–AI באמצעות תגמול בקריפטו ■ המטבע שיצרה זינק ב–520% בשלושה חודשים, אך המודל הכלכלי שהיא מציעה עדיין לא הוכח בהיקף נרחב"
+    },
+    {
+     "ref": "themarker#5",
+     "title": "1.6 מיליון חשבונות, 4.3 מיליארד שקל - והבנקים עדיין חוגגים על העמלות שלכם",
+     "published": "2026-10-25T04:10:44+00:00",
+     "summary": "בתי ההשקעות מציעים עמלות נמוכות באופן משמעותי ומגייסים מחצית מהלקוחות החדשים, אבל הבנקים שומרים על 74% מההכנסות בשוק המסחר העצמאי ■ הצעירים עוברים לאפליקציות, הכסף הגדול נשאר בבנק — והמשקיעים משלמים ביוקר על חוסר המודעות"
+    },
+    {
+     "ref": "themarker#6",
+     "title": "שלוש שריפות, ואין במה לכבות: צרפת מדגימה איך חוב ציבורי הופך למדורה",
+     "published": "2026-10-25T04:07:24+00:00",
+     "summary": "ברחובות הוטל עוצר, בסקרים לה פן מובילה — ושריפה מתרחשת גם במסכים של סוחרים באירופה ■ תשואות האג\"ח של צרפת עקפו את אלה של איטליה, הבנקים סופגים שורטים, ולממשלה המפורקת אין במה לכבות את שוק האג\"ח"
+    },
+    {
+     "ref": "themarker#7",
+     "title": "משבר ניהולי בחברת נגה: סמנכ\"ל פרש בלי מחליף, אחרים בדרך — ולחברה אין מנכ\"ל כמעט שנתיים",
+     "published": "2026-10-25T04:03:13+00:00",
+     "summary": "סמנכ\"ל התכנון והפיתוח, עוזי זרחיה, פרש לגמלאות בלי שמונה לו מחליף ■ תפקידו לדאוג שלמדינה יהיה חשמל גם בעוד עשור בהתאם לגידול האוכלוסייה ולדרישות אנרגיה מתחדשת ודאטה סנטרים ■ לחברה אין מנכ\"ל קבוע כמעט שנתיים, וסמנכ\"לים נוספים צפויים לפרוש בקרוב ■ נגה: \"המינויים צפויים בחודשים הקרובים\""
+    },
+    {
+     "ref": "themarker#8",
+     "title": "\"הנושא הועבר לגורמים הרלוונטיים\": אלפי הודעות ותמונות אישיות דלפו — פרטנר ומערך הסייבר התעלמו",
+     "published": "2026-10-25T04:02:31+00:00",
+     "summary": "ספקית הסלולר פרטנר זנחה דומיין ששימש לקבלת הודעות MMS של לקוחותיה ■ חוקר אבטחה ישראלי שרכש את הדומיין החל לקבל אלפי הודעות עם תוכן אינטימי ורגיש, כולל פרטי המשתמשים ששלחו אותן ■ פניותיו לפרטנר ולמערך הסייבר הלאומי לא נענו, ורק פניית TheMarker סגרה את הפרצה"
+    },
+    {
+     "ref": "themarker#9",
+     "title": "\"אחרי שלוש שנים טובות בשוק המניות אפשר להוריד את הרגל מהגז ולהיות יותר דפנסיבי\"",
+     "published": "2026-10-25T04:00:47+00:00",
+     "summary": "מאור קמינסקי, מנהל השקעות בקרנות הנאמנות של אלטשולר שחם, בנה ביוני 2023 תיק בחלוקה של 30% מניות ו-70% אג\"ח — שעשה מאז תשואה של 38% ■ \"בתקופה הנוכחית אפשר להוריד מעט את הסיכון בתיקים\" ■ המדור חוזר לתיק מהעבר ובודק מי עקף את מדדי היחס, אילו מגזרים הציגו ביצועים טובים ואילו איכזבו, ומה הלקח העיקרי שאפשר ללמוד"
+    },
+    {
+     "ref": "themarker#10",
+     "title": "פרופ' כריסטופר מרקיס: \"לימדתי במיטב תוכניות ה–MBA. הגיע הזמן לבטל אותן\"",
+     "published": "2026-10-25T04:00:42+00:00",
+     "summary": "פרופ' כריסטופר מרקיס מהרווארד, קורנל וקיימברידג' הגיע למסקנה שבתי ספר למינהל עסקים אינם מספקים פתרונות לקלקולי המערכת הכלכלית, אלא מייצרים את סדרי העדיפויות שלה ■ הוא קורא לבטל את תוכניות הלימודים הפופולריות כל כך, ולתת ללומדים בהן חלופה טובה יותר"
+    },
+    {
+     "ref": "themarker#11",
+     "title": "\"מכרו לאנשים ביטוח שטותי\": איך לחברה שמעולם לא שמעתי עליה יש את הפרטים שלי?",
+     "published": "2026-10-25T03:59:59+00:00",
+     "summary": "כולנו מקבלים מדי פעם שיחות טלפון עם הצעות ל\"בדיקת התיק הביטוחי\" ■ מי עומדים מאחוריהן, מה יוצא להם מזה וממה כדאי להיזהר? ■ רשות שוק ההון: \"אנחנו ממליצים שלא לשתף פעולה אלא עם סוכני ביטוח או חברות ביטוח\""
+    },
+    {
+     "ref": "themarker#12",
+     "title": "מניות שקפצו ביותר מ–1,000%: כך זינקה בורסת ת\"א למרות המלחמה וההפיכה המשטרית",
+     "published": "2026-10-25T03:59:03+00:00",
+     "summary": "בורסת תל אביב זינקה ביותר מ–100% בקדנציה של הממשלה הנוכחית ■ עליית המניות הביטחוניות, הזרמת הכספים של הממשלה והתפקוד של ענף ההייטק הם חלק מהסיבות להצלחה ■ המשקיעים התעלמו עד כה מהאיום המרכזי על המשק: ההוצאות הביטחוניות העצומות"
+    },
+    {
+     "ref": "themarker#13",
+     "title": "אם אני נופל — אתם נופלים איתי: נתניהו מאיים לרושש את הבוחרים כדי להטות בחירות",
+     "published": "2026-10-25T03:58:24+00:00",
+     "summary": "ראש הממשלה מרגיז את האמריקאים והאירופאים בידיעה שידונו את ישראל לסנקציות ■ המטרה: איום בעונש קולקטיבי אם יפסיד בבחירות ■ המסר הפלילי שמהדהדים רעייתו ושר הביטחון: הסיכוי היחיד להינצל מהפח שטמנו לכם ולהציל את העבודה והפנסיה שלכם — זה לבחור ליכוד"
+    },
+    {
+     "ref": "themarker#14",
      "title": "פגישת בכירי הבנקים, והתדהמה של ראשי המשק מדברי נתניהו: \"ההשקעות והיצוא יקרסו\"",
      "published": "2026-10-24T18:00:18+00:00",
      "summary": "ההתבטאות של נתניהו על שימוש ב\"כלכלה עוקפת\" כפתרון לסנקציות היכתה בתדהמה את המגזר העסקי ואת מערכת הבנקאות ■ היא מעוררת דאגה מפני תרחיש בלהות של שיתוק הבנקאות הישראלית, וממחישה את אוזלת ידה של הממשלה בטיפול במשבר הבינלאומי שישראל נמצאת בו ■ בנק ישראל: \"מטבעות קריפטו לא יכולים לשמש כמסלול עוקף סנקציות\""
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#15",
      "title": "\"נורות האזהרה מהבהבות\": הסיכון למשבר פיננסי בארה\"ב גדול מכפי שנראה",
      "published": "2026-10-24T17:25:47+00:00",
      "summary": "ההשקעה בתשתיות כוח מחשוב עבור תעשיית הבינה המלאכותית נעשית פחות שקופה ויותר ממונפת ■ חלק מהדפוסים שלה תואמים לאלו המזוהים במחקר עם דינמיקה של משברים כמו קריסת שוק הדיור האמריקאי ב-2008"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#16",
      "title": "בנק ישראל נגד נתניהו: \"מטבעות קריפטו לא יכולים לשמש כמסלול עוקף סנקציות\"",
      "published": "2026-10-24T16:20:22+00:00",
      "summary": "בנק ישראל הגיב לדברי נתניהו לפיהם קיים תרחיש בו ישראל תנותק מהמערכת הבנקאית העולמית בעקבות סנקציות עליה, וכתב כי הדבר הנכון לכלכלת ישראל הוא להתמקד במניעת הסנקציות ■ נתניהו בערוץ 14: \"מודה על העצות, אבל אני עושה מה שאני חושב כדי להמשיך את השגשוג הכלכלי\" ■ מנכ\"ל ביג: \"הוא חושב שיוביל אותנו לתהום וייבחר שוב\""
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#17",
      "title": "רכבת אווירית לקלפי? הנתונים בנתב\"ג מראים מציאות אחרת",
      "published": "2026-10-24T15:04:35+00:00",
      "summary": "במיזם Fly&Vote טוענים שסייעו ל-67 אלף ישראלים שמתגוררים בחו\"ל להגיע לארץ כדי לבחור, ואולם בהסתכלות על מספר בעלי זכות הבחירה שגרים בחו\"ל - המספרים לא נראים גדולים במיוחד ■ בשלושת הימים הקרובים ימריאו מישראל כ-55 אלף נוסעים, ברובם ככל הנראה ישראלים"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#18",
      "title": "גם בעידן דיגיטלי אנחנו לא מוותרים על נייר",
      "published": "2026-10-24T15:04:29+00:00",
      "summary": "שוב ושוב מספידים את הנייר, אבל הצריכה העולמית של הקרטונים ומגבות נייר גדלה והולכת"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#19",
      "title": "קריסה פיננסית וצניחה ברמת החיים: למה ההצהרה של נתניהו על קריפטו וכלכלה עוקפת היא קשקוש מוחלט",
      "published": "2026-10-24T15:01:34+00:00",
      "summary": "הסנקציות על רוסיה ממחישות איך בידוד פיננסי עלול להוביל לצניחת הבורסה והמטבע, לייקור היבוא ולפגיעה ברמת החיים ■ אם יתגברו הסנקציות על ישראל, שימוש בקריפטו ו\"כלכלה עוקפת\" לא יצילו את המשק הישראלי מנטישת חברות זרות, קריסת היצוא והתאדות שווי החסכונות של האזרחים"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#20",
      "title": "ערב הבחירות נשיא ברזיל קנה לראשונה סמארטפון. האם זה יביא לו את הניצחון?",
      "published": "2026-10-24T11:49:16+00:00",
      "summary": "לולה דה סילבה התנגד במשך שנים להחזיק בטלפון חכם, בטענה שהוא עסוק מדי בעבודה למען ארצו ■ אחרי שיריבו הסנאטור הימני פלאביו בולסונרו עקף אותו בסיבוב הראשון, הוא נענה להפצרות יועציו, החל להופיע בסטרימינג והצטרף לקבוצת וואטספ של תומכיו ■ לקראת הסיבוב השני מחר הסקרים צופים תיקו"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#21",
      "title": "אם ההערכה של החפיפניק שעומד בראש מדינת ישראל נכונה, מה יעזרו קשקושי הקריפטו?",
      "published": "2026-10-24T10:53:27+00:00",
      "summary": "הפליטה של של נתניהו כי הסיוע מצד ארה\"ב עומד להסתיים ושכדי להתחמק מסנקציות בעולם ניעזר ב\"קריפטו ובלוקצ'יין\" הייתה רגע של כנות ■ האיש מעולם לא התעניין בתוכניות ובחשיבה לטווח ארוך, ואת ההחלטות מקבלים מהרגע להרגע"
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#22",
      "title": "אפל השיקה טלפון מתקפל: אייפון דואו יצא לחנויות — ואזל תוך שעות",
      "published": "2026-10-24T08:50:46+00:00",
      "summary": "הדגם החדש נמכר במחיר התחלתי של 2,000 דולר, אך הקונים לא נרתעו מהמתנה ממושכת מחוץ לחנויות מניו יורק עד לבייג'ין ■ עם תצוגה קטנה יותר, \"גמגומים\" במעבר מאורך לרוחב ומעט אפליקציות המותאמות אליו, הדואו הוא \"מכשיר דור ראשון, שמגיע עם פגמים של דור ראשון\""
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#23",
      "title": "קרטלים והעסקת ילדים: הארגון שמפקח על שוק של טריליוני דולרים מלבין זהב לא חוקי",
      "published": "2026-10-24T04:02:24+00:00",
      "summary": "התאחדות מטילי הזהב של לונדון היא הרגולטור הלא־רשמי של הסחר הבינלאומי בזהב ■ הזינוק במחירים משך לשוק שחקנים מפוקפקים, ואף קרטלי פשע וארגוני טרור ■ מסמכים מראים כיצד ההתאחדות סייעה לטייח שורת הפרות בעסקה בין מדגסקר לחברה טורקית, שנחשפו רק במקרה"
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#24",
      "title": "שעון חורף 2026: מתי מזיזים את השעון וזוכים בעוד שעת שינה?",
      "published": "2026-10-24T04:01:51+00:00",
      "summary": "שעון חורף 2026 יתחיל בלילה שבין שבת לראשון, כשמחוגי השעון יוזזו שעה אחת לאחור בשעה 2:00 לפנות בוקר ■ בזכות המעבר לשעון החורף — שיימשך עד סוף מרץ 2027 — נזכה לזריחות ולשקיעות מוקדמות יותר"
-    },
-    {
-     "ref": "themarker#11",
-     "title": "סגירה אדומה בוול סטריט; נאסד\"ק נסוג השבוע ב-0.5%",
-     "published": "2026-10-23T20:00:00+00:00",
-     "summary": "החוזים על נפט גולמי מסוג ברנט זינקו ל-117 דולר לחבית, אך לאחר מכן ירדו ל-112 דולר ■ דאו ג'ונס ירד ב-1.2% ■ מדד מנהלי הרכש של אוקטובר - השני בגובהו מאז 2022 ■ בורסות אירופה נסגרו בירידות; המכירות הקמעוניות בבריטניה היו נמוכות מהתחזית ■ אסיה נסגרה בירידות; אינפלציית הליבה של יפן עלתה לרמתה הגבוהה ביותר השנה"
-    },
-    {
-     "ref": "themarker#12",
-     "title": "מפגש מקרי לפני כעשור גרם למנכ\"ל בלקסטון להמר בענק על AI",
-     "published": "2026-10-23T19:53:16+00:00",
-     "summary": "ב-2015 ישב סטיבן שוורצמן לצד ג'ק מא, מייסד עליבאבא, באוטובוס בסין ■ \"לא היה לי שום מושג על מה הוא מדבר\""
-    },
-    {
-     "ref": "themarker#13",
-     "title": "\"שומט לסתות. מעניין איך הבורסה תקבל את זה\": הרשת והפוליטיקאים מגיבים לנתניהו",
-     "published": "2026-10-23T18:09:02+00:00",
-     "summary": "רה\"מ סיפק הצהרה שעוררה תדהמה: ישראל צריכה להיערך לסנקציות בנקאיות, והוא כבר ביקש להכין תוכנית לעקיפתן באמצעות קריפטו ובלוקצ'יין ■ לפיד: \"האמירה של נתניהו מטורפת אבל נכונה\""
-    },
-    {
-     "ref": "themarker#14",
-     "title": "נתניהו ירד מהפסים: מציע להתמודד עם סנקציות באמצעות קריפטו כמו איראן",
-     "published": "2026-10-23T17:04:36+00:00",
-     "summary": "בראיון, הציע נתניהו שימוש בקריפטו ובלוקצ'יין כדי לעקוף בעתיד סנקציות אפשריות על המערכת הבנקאית בישראל ■ אם זה יתממש, דירוג האשראי של ישראל יצנח וההשקעות הזרות יקרסו ■ נתניהו הלך כמה צעדים רחוק מדי"
-    },
-    {
-     "ref": "themarker#15",
-     "title": "נתניהו: \"ישראל צריכה כלכלה עוקפת סנקציות בנקאיות; בלוקצ'יין זו אופציה\"",
-     "published": "2026-10-23T15:37:28+00:00",
-     "summary": "בראיון בערוץ 10 אמר נתניהו: \"אם אתם חושבים שנמשיך לקבל סיוע של עשרות מיליארדי דולרים לתקציב הביטחון — זה לא יהיה. זה רק עניין של זמן\""
-    },
-    {
-     "ref": "themarker#16",
-     "title": "כך שיכנעה מטא את צוקרברג להישאר בקליפורניה למרות החשש ממס מיליארדרים",
-     "published": "2026-10-23T11:08:43+00:00",
-     "summary": "השקעות העתק ב–AI איימו לדלל את הנתח של צוקרברג במטא, בזמן שגבר החשש שלו ממס המיליארדרים של קליפורניה ■ צוקרברג הגה תוכנית שהדירקטוריון מיהר לאשר כשאיום העזיבה הפך קונקרטי ■ וגם: עליית מדרגה במאבק של מפרסמים ומוציאים לאור נגד התנאים החדשים של מטא"
-    },
-    {
-     "ref": "themarker#17",
-     "title": "המשרד להגנת הסביבה שוב עצר את העבודות בבזן - אף שהן חודשו השבוע",
-     "published": "2026-10-23T10:40:07+00:00",
-     "summary": "בעקבות עלייה בפליטות המזהמים המשרד להגנת הסביבה הודיע על הפסקת עבודות התחזוקה בבזן ■ מוקדם יותר החודש נעצרו העבודות לאחר אירוע דומה ושני בתי ספר הושבתו מלימודים מחשש לזיהום אוויר"
-    },
-    {
-     "ref": "themarker#18",
-     "title": "החדשות הרעות: הרסו את משרדי הממשלה; החדשות הטובות: זה בר־שיקום, ואפילו במהירות",
-     "published": "2026-10-23T06:53:12+00:00",
-     "summary": "למרות קריסת השירות הממשלתי ומינוי \"פקידי גלידה\" חסרי כישורים תחת הממשלה הנוכחית, בכירי עבר וארגונים גיבשו מאות תוכניות עבודה מפורטות ליום שאחרי"
-    },
-    {
-     "ref": "themarker#19",
-     "title": "החשש העולמי מבינה מלאכותית הפיל את מניות הטכנולוגיה — והזניק את שוק האג\"ח האמריקאי",
-     "published": "2026-10-23T06:51:09+00:00",
-     "summary": "אג\"ח ממשלתיות אמריקאיות רשמו ביום חמישי את היום הטוב ביותר שלהן זה יותר משנתיים, בעקבות ההפסדים בנכסי סיכון, המחאות בצרפת והמתיחות במזרח התיכון ■ \"אף שמחיר הנפט מטפס, אג\"ח אמריקאיות שוב נהנות מכספים המחפשים מקלט בטוח\""
-    },
-    {
-     "ref": "themarker#20",
-     "title": "ביבי, בנט או זליכה: צ'אט יקר, למי כדאי להצביע בבחירות?",
-     "published": "2026-10-23T06:49:50+00:00",
-     "summary": "מה ההבדלים בין בנט לליברמן? מי בטוח לא ישב עם ביבי? ומה יהיה עם וינטר? ■ צעירים רבים מתייעצים עם ה–AI על הכל — וגם בשאלה למי לתת את הקול הכל כך יקר שלהם בשבוע הבא"
-    },
-    {
-     "ref": "themarker#21",
-     "title": "פימי מציעה לרכוש 50% ממיטרוניקס ב-200 מיליון שקל בלבד, ולהגדיל השקעה בהמשך",
-     "published": "2026-10-23T06:13:39+00:00",
-     "summary": "מיטרוניקס, יצרנית רובוטים לבריכות שחייה, איבדה 50% משווייה בשנה האחרונה ■ לפי מתווה העסקה, פימי מציעה להשקיע בחברה בשלב הראשון 200 מיליון שקל תמורת 50% ממניות מיטרוניקס, ולקבל אופציות להשקיע עוד 150 מיליון שקל בהמשך"
-    },
-    {
-     "ref": "themarker#22",
-     "title": "המסחר ננעל בירידות במחזור גבוה; ת\"א 35 איבד 2.4% בסיכום שבועי",
-     "published": "2026-10-23T05:56:45+00:00"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "מניות השבבים הישראליות נפלו בוול סטריט — איך זה ישפיע על המסחר בתל אביב?",
-     "published": "2026-10-23T05:41:21+00:00",
-     "summary": "נפילת מניות השבבים ורוחות המלחמה ישפיעו על יום המסחר האחרון בתל אביב ■ מיטרוניקס קיבלה הצעה לרכישתה בידי קרן פימי ■ מחירה של חבית נפט מזנק לכ-113 דולר ■ הדולר מתחזק הבוקר ב-0.1% ל-3.11 שקלים ■ אילו עוד מניות ירכזו היום עניין?"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "\"תיירות אפלה\": הייתם שורדים אסון טבע? מתקנים חדשים מציעים חוויה אמיתית",
-     "published": "2026-10-23T05:20:10+00:00",
-     "summary": "חברה סינית שמציעה חוויה של סופות, שיטפונות ומפולות בוץ נהפכה לוויראלית באחרונה, ומתכננת לפתוח עוד חמישה מרכזים לסימולציה של שריפות ורעידות אדמה ■ זהו חלק ממגמה תיירותית רחבה יותר במדינה — שבה גם ביקורים באתרי אסונות אמיתיים זוכים לפופולריות"
     }
    ]
   },
@@ -482,12 +482,6 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "title": "European Indexes Lower as Energy-Intensive Stocks Falter",
      "published": "2026-10-23T07:40:00+00:00",
      "summary": "European stock indexes were mixed in early trade, as higher oil prices weighed on the continent while earnings drive large individual moves."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
-     "published": "2026-10-23T03:33:00+00:00",
-     "summary": "The yen strengthened to its highest level in a year against the euro as investors sought the relative safety of the Japanese currency amid concerns over French debt."
     }
    ]
   }
@@ -516,16 +510,16 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 116.72,
+   "last": 111.7,
    "prev_close": 113.17,
-   "change_pct": 3.14,
+   "change_pct": -1.3,
    "as_of": "2026-10-23"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 80814.4062,
-   "prev_close": 81074.1875,
-   "change_pct": -0.32,
+   "last": 80494.5078,
+   "prev_close": 80790.8359,
+   "change_pct": -0.37,
    "as_of": "2026-10-25"
   }
  },
