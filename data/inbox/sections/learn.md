@@ -24,150 +24,137 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2015,
-   "text": "Lam Wing-kee, the owner of Causeway Bay Books in Hong Kong, known for publishing political books banned in mainland China, was abducted by Chinese authorities.",
+   "year": 2022,
+   "text": "At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdom.",
    "context": [
-    "Lam Wing-kee was a Hong Kong businessman and book seller. He was the owner of Causeway Bay Books in Taipei, a book store first located in Causeway Bay in Hong Kong and best known for its provision of politically related publications. In late 2015, he went missing along with four other staff members of the book store, sparking international concern."
+    "Mary Elizabeth Truss is a British politician who was Prime Minister of the United Kingdom and Leader of the Conservative Party from September to October 2022. On her fiftieth day in office, she stepped down amid a government crisis, making her the shortest-serving prime minister in British history. The member of Parliament (MP) for South West Norfolk from 2010 to 2024, Truss held various Cabinet positions under three prime ministers – David Cameron, Theresa May and Boris Johnson – lastly as foreign secretary from 2021 to 2022."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2004,
-   "text": "English football club Manchester United defeated rivals Arsenal 2–0 in the Battle of the Buffet, ending the latter's record-breaking unbeaten run.",
+   "year": 2010,
+   "text": "Mount Merapi in Central Java, Indonesia, began an increasingly violent series of eruptions that lasted over a month.",
    "context": [
-    "Manchester United Football Club, commonly referred to as Man United or simply United, is a professional football club based in Old Trafford, Greater Manchester, England. They compete in the Premier League, the top tier of English football. Manchester United are among the most successful football clubs in England, as well as one of the most successful football clubs in the world. Domestically, they have won a joint-record twenty top-flight league titles, thirteen FA Cups, six League Cups and a record twenty-one FA Community Shields. Additionally, in international football, they have won the European Cup/UEFA Champions League three times, and the UEFA Europa League, the UEFA Cup Winners' Cup, the UEFA Super Cup, the Intercontinental Cup and the FIFA Club World Cup once each."
+    "Mount Merapi is an active stratovolcano located on the border between the province of Central Java and the Special Region of Yogyakarta, Indonesia. It is the most active volcano in Indonesia and has erupted regularly since 1548. It is located approximately 28 km (17 mi) north of Yogyakarta city which has a population of 2.4 million. Thousands of people live on the flanks of the volcano, with villages as high as 1,700 m (5,577 ft) above sea level."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2003,
-   "text": "The inaugural Afro-Asian Games opened in Hyderabad, with 2,040 athletes from 96 nations competing.",
+   "year": 2001,
+   "text": "Windows XP, one of the most popular and widely used versions of the Microsoft Windows operating system, was released for retail sale.",
    "context": [
-    "The 2003 Afro-Asian Games, officially known as the First Afro-Asian Games or I Afro-Asian Games and unofficially known as the Inaugural Afro-Asian Games, was a major international multi-sport event held in Hyderabad, India, from 24 October to 1 November 2003."
+    "Windows XP is a major release of Microsoft's Windows NT operating system. It was released to manufacturing on August 24, 2001, and later to retail on October 25 that year. It is a direct successor to Windows 2000 for high-end and business users and Windows Me for home users."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1975,
-   "text": "In protest against wage discrepancy and unfair employment practices, 90 percent of Iceland's female population went on strike for a day.",
+   "year": 1950,
+   "text": "The People's Volunteer Army ambushed the South Korean II Corps at the Battle of Onjong, and elsewhere engaged the 1st Infantry Division at the Battle of Unsan, marking China's entry into the Korean War.",
    "context": [
-    "The gender pay gap or gender wage gap is the average difference between the remuneration for men and women who are employed. In most countries, women are paid less than men for the same work.non-adjusted pay gap is the average difference in yearly earnings between male and female workers\nadjusted pay gap is the difference between how much men and women make for the same work, and it takes into account differences in hours worked, occupations chosen, education attained, and job experience."
+    "The People's Volunteer Army (PVA), officially the Chinese People's Volunteers (CPV), was the designation for the Chinese communist contingent of armed expeditionary forces deployed by the People's Republic of China during the Korean War. Although all units in the PVA were actually transferred from the People's Liberation Army (PLA) under the orders of Chairman Mao Zedong, the PVA was separately constituted in order to prevent an official war with the United States. The PVA entered Korea on 19 October 1950 and completely withdrew by October 1958. The nominal commander and political commissar of the PVA was Peng Dehuai before the ceasefire agreement in 1953, although both Chen Geng and Deng Hua served as the acting commander and commissar after April 1952 following Peng's illness. The initial units in the PVA included 38th, 39th, 40th, 42nd, 50th, 66th Corps; totalling 250,000 men. About 3 million Chinese civilian and military personnel had served in Korea throughout the war."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1972,
-   "text": "Three people were killed when falsework collapsed during the construction of the Loddon Bridge in Berkshire, leading to reform of construction practices in the UK.",
+   "year": 1944,
+   "text": "Heinrich Himmler ordered a crackdown on the Edelweiss Pirates, a nonconformist youth group that assisted army deserters and others hiding from the Nazis.",
    "context": [
-    "Falsework consists of temporary structures used in construction to support a permanent structure until its construction is sufficiently advanced to support itself. For arches, this is specifically called centering. Falsework includes temporary support structures for formwork used to mold concrete in the construction of buildings, bridges, and elevated roadways."
+    "Heinrich Luitpold Himmler was a German Nazi politician, police administrator, and military leader. He was the fourth and longest-serving Reichsführer of the Schutzstaffel, serving from 1929 to 1945. He was a leading member of the Nazi Party and one of the most powerful figures in Nazi Germany. He was also one of the main architects of the Holocaust, the genocide of European Jews during World War II."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1964,
-   "text": "Charges in a military court against generals Dương Văn Đức and Lâm Văn Phát of leading a coup attempt against South Vietnamese leader Nguyễn Khánh were dropped.",
+   "year": 1944,
+   "text": "USS Tang, the U.S. Navy submarine credited with sinking more ships than any other American submarine, sank when it was struck by its own torpedo.",
    "context": [
-    "Lieutenant General Dương Văn Đức was a Vietnamese army officer. He is best known for leading a coup attempt against General Nguyễn Khánh on 14 September 1964. He was a supporter of the Đại Việt Quốc Dân Đảng, a Roman Catholic political movement."
+    "USS Tang was a Balao-class submarine of World War II, the first ship of the United States Navy to bear the name Tang. She was built and launched in 1943, serving until being sunk by her own torpedo off China in the Taiwan Strait on 24 October 1944."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1949,
-   "text": "The cornerstone of the United Nations headquarters was laid in New York City.",
+   "year": 1929,
+   "text": "Hundreds of students at Armstrong College in Newcastle, England, tarred and feathered Statue of Industry (pictured), a sculpture by Herbert Maryon.",
    "context": [
-    "The headquarters of the United Nations (UN) is on 17 to 18 acres of grounds in the Turtle Bay neighborhood of Midtown Manhattan in New York City, United States. It borders First Avenue to the west, 42nd Street to the south, 48th Street to the north, and the East River to the east. Completed in 1952, the complex consists of several structures, including the Secretariat, Conference, and General Assembly buildings, and the Dag Hammarskjöld Library. The complex was designed by a board of architects led by Wallace Harrison and built by the architectural firm Harrison & Abramovitz, with final projects developed by Oscar Niemeyer and Le Corbusier. The term Turtle Bay is occasionally used as a metonym for the UN headquarters or United Nations as a whole."
+    "The Colleges of Durham University are residential colleges that are the primary source of accommodation and support services for undergraduates and postgraduates at Durham University, as well as providing a focus for social, cultural and sporting life for their members, and offering bursaries and scholarships to students. They also provide funding and/or accommodation for some of the research posts in the University. All students at the University are required to be members of one of the colleges."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1945,
-   "text": "The Charter of the United Nations entered into force after being ratified by the five permanent members of the Security Council and a majority of the other signatories.",
+   "year": 1927,
+   "text": "The Italian cruise liner SS Principessa Mafalda sank when a propeller shaft broke and fractured the hull, resulting in 314 deaths.",
    "context": [
-    "The Charter of the United Nations, also referred to as the UN Charter, is the foundational treaty of the United Nations that founded the organization. It establishes the purposes, governing structure, and overall framework of the United Nations System, including its principal organs: the Secretariat, the General Assembly, the Security Council, the Economic and Social Council, the International Court of Justice, and the Trusteeship Council. The UN Charter is an important part of public international law, and is the foundation for much of international law governing the use of force, pacific settlement of disputes, arms control, and other important functions of the maintenance of international peace and security."
+    "SS Principessa Mafalda was an Italian transatlantic ocean liner built for the Navigazione Generale Italiana (NGI) company. Named after Princess Mafalda of Savoy, second daughter of King Victor Emmanuel III, the ship was completed and entered NGI's South American service between Genoa and Buenos Aires in 1909. Her sister ship SS Principessa Jolanda sank immediately upon launching on 22 September 1907."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1944,
-   "text": "World War II: The Japanese battleship Musashi, one of the heaviest and most powerfully armed ever constructed, was sunk by American aircraft during the Battle of Leyte Gulf.",
+   "year": 1924,
+   "text": "The Daily Mail published the Zinoviev letter, a hoax purported to be a directive from Moscow to increase communist agitation.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Daily Mail, often known simply as the Mail, is a British daily middle-market tabloid-size conservative newspaper founded in 1896 and published in London. Its sister paper The Mail on Sunday was launched in 1982, a Scottish edition was launched in 1947, and an Irish edition in 2006. Content from the paper appears on the MailOnline news website, although the website is managed separately and has its own editor."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1931,
-   "text": "The George Washington Bridge (pictured), connecting Manhattan, New York City, to Fort Lee, New Jersey, and today the world's busiest motor-vehicle bridge, was dedicated.",
+   "year": 1920,
+   "text": "Irish playwright and politician Terence MacSwiney died after a hunger strike in Brixton Prison, bringing the Irish struggle for independence to international attention.",
    "context": [
-    "The George Washington Bridge is a double-decked suspension bridge spanning the Hudson River, connecting Fort Lee in Bergen County, New Jersey, with the Washington Heights neighborhood of Manhattan, New York City. It is named after George Washington, a Founding Father of the United States and the country's first president. The George Washington Bridge is the world's busiest motor vehicle bridge, carrying a traffic volume of over 101 million motor vehicles in 2025, and is the world's only suspension bridge with 14 vehicular lanes. The George Washington Bridge measures 4,760 feet (1,450 m) long, and its main span is 3,500 feet (1,100 m) long. It was the longest main bridge span in the world from its 1931 opening until the Golden Gate Bridge in San Francisco opened in 1937."
+    "Terence James MacSwiney was an Irish playwright, author and politician. He was elected as Sinn Féin Lord Mayor of Cork during the Irish War of Independence in 1920. He was arrested by the British Government on charges of sedition and imprisoned in Brixton Prison. His death there in October 1920 after 74 days on hunger strike brought him and the Irish Republican campaign to international attention."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1930,
-   "text": "The Pacification Junta deposed Brazillian president Washington Luís, ending the Brazilian Revolution of 1930.",
+   "year": 1864,
+   "text": "American Civil War: During Price's Missouri Expedition, Union troops defeated Sterling Price's Confederate army in three successive battles: Marais des Cygnes, Mine Creek, and Marmiton River.",
    "context": [
-    "The Brazilian military junta of 1930, also known as the Pacification Junta, seized power during the Revolution of 1930 and governed Brazil from 24 October to 3 November 1930, when the junta leaders handed power over to revolutionary leader Getúlio Vargas."
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1929,
-   "text": "On \"Black Thursday\", the New York Stock Exchange lost 11 percent of its value at the opening bell on very heavy trading, marking the beginning of the Great Depression.",
+   "year": 1854,
+   "text": "Crimean War: The ill-fated Charge of the Light Brigade was decisively repelled by Russian forces during the Battle of Balaclava.",
    "context": [
-    "The Wall Street crash of 1929, also known as the Great Crash, was a major stock market crash in the United States which began in October 1929 with a sharp decline in prices on the New York Stock Exchange (NYSE). It triggered a rapid erosion of confidence in the U.S. banking system and marked what would later cascade into the worldwide Great Depression that lasted until the United States entered into World War II on December 8, 1941, making it the most devastating crash in the country's history. It is most associated with October 24, 1929, known as \"Black Thursday\", when a record 12.9 million shares were traded on the exchange, and October 29, 1929, or \"Black Tuesday\", when some 16.4 million shares were traded."
+    "The Crimean War was fought between Russia and an alliance of the Ottoman Empire, France, the United Kingdom, and Sardinia from October 1853 to February 1856. Geopolitical causes of the war included the Eastern question, the expansion of Russia in the preceding Russo-Turkish wars, and the British and French preference to preserve the Ottoman Empire to maintain the balance of power in the Concert of Europe."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1889,
-   "text": "Sir Henry Parkes, Premier of the Colony of New South Wales, gave a speech in which he called for the federation of the six Australian colonies.",
+   "year": 1760,
+   "text": "George III became King of Great Britain and Ireland, succeeding his grandfather George II.",
    "context": [
-    "Sir Henry Parkes, was a colonial Australian politician and the longest-serving non-consecutive premier of the Colony of New South Wales, the present-day state of New South Wales in the Commonwealth of Australia. He has been referred to as the \"Father of Federation\" due to his early promotion for the federation of the six colonies of Australia, as an early critic of British convict transportation and as a proponent for the expansion of the Australian continental rail network."
+    "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1885,
-   "text": "The Russian ship Dmitry ran aground in Whitby, an incident that inspired the arrival of Count Dracula to England in Bram Stoker's 1897 novel (cover pictured).",
+   "year": 1616,
+   "text": "Dutch explorer Dirk Hartog left a plate on an island in Shark Bay, the oldest-known artefact of European exploration in Australia still in existence.",
    "context": [
-    "Dmitry was a Russian cargo ship that was wrecked at Whitby, England, in 1885. The vessel had been travelling from Antwerp, Belgium, to Newcastle upon Tyne, England, when she sought safe harbour in Whitby during a gale on 24 October. She escaped rocks outside the harbour but drifted onto a sand bar and was wrecked there the following day. The wreck came to the attention of author Bram Stoker during a visit to the town in 1890 and served as the inspiration for the Demeter in his gothic horror novel Dracula."
+    "Dirk Hartog was a 17th-century Dutch mariner and explorer. Dirk Hartog's expedition was the second European group to land in Australia and the first to leave behind an artefact to record his visit, the Hartog Plate. His name is sometimes alternatively spelled Dirck Hartog or Dierick Hartochsz. Explorer Ernest Giles referred to him as Theodoric Hartog. The Western Australian island Dirk Hartog Island is named after Hartog."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1851,
-   "text": "Umbriel and Ariel, the third- and fourth-largest moons of Uranus, were discovered by William Lassell.",
+   "year": 1415,
+   "text": "Hundred Years' War: The army of Henry V of England, consisting mostly of archers, unexpectedly defeated the numerically superior French cavalry at the Battle of Agincourt (pictured) on Saint Crispin's Day.",
    "context": [
-    "Umbriel is the third-largest moon of Uranus. It was discovered on October 24, 1851, by William Lassell at the same time as neighboring moon Ariel. It was named after a character in Alexander Pope's 1712 poem The Rape of the Lock. Umbriel consists mainly of ice with a substantial fraction of rock, and may be differentiated into a rocky core and an icy mantle. The surface is the darkest among Uranian moons and appears to have been shaped primarily by impacts; however, the presence of canyons suggests early internal processes. The moon may have undergone an early endogenically driven resurfacing event that obliterated its older surface."
+    "The Hundred Years' War was a series of conflicts between the kingdoms of England and France and a civil war in France during the late Middle Ages. It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving different factions from across Western Europe, fueled by emerging nationalism on both sides. The periodization of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1796,
-   "text": "War of the First Coalition: The Battle of Schliengen was fought between the French and Austrian armies, who both claimed victory.",
+   "year": 1147,
+   "text": "Reconquista: Forces under Afonso I of Portugal captured Lisbon from the Moors after a four-month siege  in one of the few Christian victories during the Second Crusade.",
    "context": [
-    "The War of the First Coalition was a set of wars between a coalition of several European powers and France fought from 1792 to 1797. The coalition was only loosely allied and fought without much coordination; each power wanted to annex a different part of France should they defeat the French, something that never occurred."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 1789,
-   "text": "The Brabant Revolution, sometimes considered to be the first expression of Belgian nationalism, began with the invasion of the Austrian Netherlands by an émigré army from the Dutch Republic.",
-   "context": [
-    "The Brabant Revolution or Brabantine Revolution, sometimes referred to as the Belgian Revolution of 1789–1790 in older writing, was an armed insurrection that occurred in the Austrian Netherlands between October 1789 and December 1790. The revolution, which occurred at the same time as revolutions in France and Liège, led to the brief overthrow of Habsburg rule and the proclamation of a short-lived polity, the United Belgian States."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1260,
-   "text": "Qutuz (bust pictured), the sultan of Egypt, was assassinated and replaced by fellow Mamluk leader Baybars.",
-   "context": [
-    "Sayf ad-Din Qutuz, also romanized as Kutuz or Kotuz and fully al-Malik al-Muẓaffar Sayf ad-Dīn Quṭuz, was the Mamluk Sultan of Egypt. He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades."
+    "The Reconquista or the fall of al-Andalus was a series of military campaigns by northern Iberian Christian polities against Muslim-ruled al-Andalus, which had been part of the Visigothic Kingdom before the Muslim Conquest of 711. The Reconquista concluded in 1492 with the capture of Granada by the Catholic Monarchs of Spain, thereby ending the presence of any Muslim rule on the Iberian Peninsula."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Opex (הוצאות תפעוליות)",
+  "Due diligence (בדיקת נאותות)",
+  "Dead cat bounce (קפיצת החתול המת)",
   "Vendor lock-in (נעילת ספק)",
   "Pivot to profitability (מעבר לרווחיות)",
   "Herding cats (לרעות חתולים)",

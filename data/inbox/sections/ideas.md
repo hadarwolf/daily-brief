@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -143,81 +143,87 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Econvitals",
+     "published": "2026-10-24T17:54:44+00:00",
+     "summary": "From Jason Furman, it tracks economic indicators, mostly U.S. Here is the website. Subscribe here to briefings. Here is a thread on the site. The post Econvitals appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Why are cybersecurity losses not worse?",
+     "published": "2026-10-24T15:57:10+00:00",
+     "summary": "Here’s the first part of my theory: cybercriminals are not the organized geniuses we implicitly imagine. Anyone building a criminal gang has to find candidates willing to forgo more stable opportunities in the formal economy. My modeling estimated that something like 720,000 people are involved in the online criminal economy, 90% of them in scam […] The post Why are cybersecurity losses not worse?"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Cybersecurity ETF",
+     "published": "2026-10-24T08:46:22+00:00",
+     "summary": "Joe Weisenthal: “The Red Line is the day that Anthropic introduced Mythos” The post Cybersecurity ETF appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
      "published": "2026-10-24T04:53:27+00:00",
      "summary": "Here is the audio, video, and transcript. Here is one excerpt: Cowen: Talk me out of this worry: So we agree science is an ecosystem, and there’s always a temptation to want to fund the most dynamic, most productive parts of the ecosystem. And right now, that would probably be A.I. But if you need […] The post I guest host an NYT podcast with Michael Kratsios, Trump science advisor appeared first "
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "Friday assorted links",
      "published": "2026-10-23T16:35:40+00:00",
      "summary": "1. Weird diets (NYT). 2. Is this what the Denisovans looked like? 3. Measuring bottlenecks for AI. 4. How is violence diffferent when women lead drug cartels? 5. “Israel’s economy is growing so fast, it will leapfrog the Netherlands and Australia within the next 18 months, in time for it’s 80th birthday—not by 2030, as […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Prediction Markets Are Accurate",
      "published": "2026-10-23T11:18:43+00:00",
      "summary": "No surprise to me but a new paper looks at the forecast accuracy of over one million prediction questions from Polymarket, Kalshi, Manifold and the forecasting platform Metaculus. A virtue of the new analysis is that it covers many different areas from business to elections to geo-politics. An event predicted to happen p% of the […] The post Prediction Markets Are Accurate appeared first on Margin"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "Protecting Americans from Medicine",
      "published": "2026-10-23T11:14:10+00:00",
      "summary": "Max Doppelt: In January 2025 my mom’s lung cancer spread to her brain. The drug with the best chance of helping her was approved in China but not here. A doctor told me, almost as an aside, that if she were Chinese she could buy it at a pharmacy. So I flew to Shanghai and […] The post Protecting Americans from Medicine appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "Podcast with Rabbi David Wolpe",
      "published": "2026-10-23T07:38:28+00:00",
      "summary": "Here is their episode summary: Economist Tyler Cowen joins David Wolpe for a conversation about AI, religion, and what makes us human. Tyler makes the case that AI’s biggest impact may be on status: who gains it, who loses it, and what happens to experts like rabbis when anyone can ask ChatGPT all their questions. […] The post Podcast with Rabbi David Wolpe appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "Will bystander economies be able to finance their governments?",
      "published": "2026-10-23T04:51:50+00:00",
      "summary": "From Jesús Fernández-Villaverde: Will AI poison the public finances of many modern states? There is a real risk that it will. Yesterday, I circulated a new paper, “Saving for the Machines,” which makes a simple point. Building the AI transformation will require enormous investment. The only way to induce agents to save for that investment […] The post Will bystander economies be able to finance th"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026",
      "published": "2026-10-22T18:36:11+00:00",
      "summary": "What happens across generations to wealth shocks? Do they endure and even magnify, or do they dissipate? By implication, how much modern wealth is attributable to events before 1900? This paper uses random shocks to family size in England before 1880 that created wealth shocks for the children to measure the persistence of wealth shocks. […] The post How Long Do Wealth Shocks Persist? Less Than Th"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "Thursday assorted links",
      "published": "2026-10-22T15:55:47+00:00",
      "summary": "1. The cherries trade. 2. New YouTube channel for Indian architecture. 3. Where do Math Olympiad gold medal winners end up? “By total gold medal count, China is the clear leader, followed by the pack of USA, Russia, and South Korea. Over 20 years China has 105 out of a possible 120 gold medals which […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "Modern Principles of Economics!",
      "published": "2026-10-22T11:18:12+00:00",
      "summary": "If you are teaching economics Modern Principles is the book to use! Great and original writing, over one hundred videos, iClicker, Achieve and lots of additional support. Contact Mike Krotine to get an examination copy. https://alextabarrok.com/video/modern-principles.mp4 The post Modern Principles of Economics! appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "A simple point about the intertemporal regulation of AI",
      "published": "2026-10-22T07:12:46+00:00",
      "summary": "At some point AI will be more regulated than it is today. Furthermore, I believe that most parts of the American economy, once they are regulated, end up overregulated. Thus it is likely that the AI sector will, at some point, end up overregulated. Given that reality, perhaps the AI sector should be underregulated today. […] The post A simple point about the intertemporal regulation of AI appeared"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#13",
      "title": "Do mass shootings in universities lead to permanent effects?",
      "published": "2026-10-22T04:42:11+00:00",
      "summary": "Using a stacked difference-in-differences design covering shootings between 1990 and 2025, I compare cohorts at affected universities before and after the shooting with cohorts at matched control universities. I find no detectable effects on time to degree, but undergraduates enrolled at the time of the shooting are 4.2% less likely to pursue further studies. Those […] The post Do mass shootings i"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "More on Elizabeth Holmes and prison",
-     "published": "2026-10-21T19:12:57+00:00",
-     "summary": "The Free Press asked me to expand upon my views of this matter, here is one excerpt from the piece: Third, fewer women in prison does not have to mean less deterrence overall, as arguably we should concentrate more of our legal resources on deterring violent men. Note that if we can release enough women […] The post More on Elizabeth Holmes and prison appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Wednesday assorted links",
-     "published": "2026-10-21T16:09:38+00:00",
-     "summary": "1. The Romans and sex. 2. Apartments that expand at the touch of a button. 3. Has this guy composed more songs than anybody else? 4. Psychoanalyzing Elizabeth Holmes. 5. AI wrote some of the Dallas Michelin reviews. And the reviewer responds. 6. New Yorker profile of James Daunt. The last event I was at […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -357,6 +363,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "Why Understanding Someone Doesn't Mean Sharing Their Thought",
   "Disconnection Is Breaking Us — So She Moved Her Family Into a Shared House With Strangers",
   "An AI model was caught reasoning about how its own training will shape its future self — and nobody agrees whether that's reassuring or alarming",
   "How Intuition Justifies Belief — By Working Just Like Perception",
