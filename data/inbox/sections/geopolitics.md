@@ -19,110 +19,110 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "Brazil - AP News",
-     "published": "2026-10-25T07:21:36+00:00",
+     "published": "2026-10-25T07:35:38+00:00",
      "summary": "Brazil AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-25T07:17:33+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "Paris - AP News",
+     "published": "2026-10-25T07:35:38+00:00",
+     "summary": "Paris AP News"
     },
     {
      "ref": "ap_world#2",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-25T07:29:50+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#3",
      "title": "Drew Rasmusssen can't make it through 4th inning as Rays blow 4-0 lead in Game 2 loss to Brewers - AP News",
      "published": "2026-10-25T06:47:00+00:00",
      "summary": "Drew Rasmusssen can't make it through 4th inning as Rays blow 4-0 lead in Game 2 loss to Brewers AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead - AP News",
      "published": "2026-10-25T06:39:00+00:00",
      "summary": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-10-25T06:02:53+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "Brewers’ Ashby nears postseason scoreless relief record with World Series save - AP News",
      "published": "2026-10-25T05:53:00+00:00",
      "summary": "Brewers’ Ashby nears postseason scoreless relief record with World Series save AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#7",
      "title": "Brazil faces a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake - AP News",
      "published": "2026-10-25T05:00:00+00:00",
      "summary": "Brazil faces a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "Arch Manning and No. 19 Texas hang on to beat No. 7 Ole Miss 34-27 after blowing 21-point lead - AP News",
      "published": "2026-10-25T04:59:00+00:00",
      "summary": "Arch Manning and No. 19 Texas hang on to beat No. 7 Ole Miss 34-27 after blowing 21-point lead AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "At least 12 people injured in shooting near a football stadium in Florida - AP News",
      "published": "2026-10-25T04:34:00+00:00",
      "summary": "At least 12 people injured in shooting near a football stadium in Florida AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "As the US and China form AI blocs, countries are increasingly torn between them - AP News",
      "published": "2026-10-25T04:05:00+00:00",
      "summary": "As the US and China form AI blocs, countries are increasingly torn between them AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Life at the top isn't easy as BYU becomes the latest top-2 team to lose to an unranked opponent - AP News",
      "published": "2026-10-25T03:44:00+00:00",
      "summary": "Life at the top isn't easy as BYU becomes the latest top-2 team to lose to an unranked opponent AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
      "published": "2026-10-25T03:36:00+00:00",
      "summary": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#13",
      "title": "LeBron James - AP News",
      "published": "2026-10-25T03:28:49+00:00",
      "summary": "LeBron James AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
      "title": "Durant scores 22, Sheppard hits five 3-pointers to lead Rockets to a win in Atlanta's home opener - AP News",
      "published": "2026-10-25T03:19:00+00:00",
      "summary": "Durant scores 22, Sheppard hits five 3-pointers to lead Rockets to a win in Atlanta's home opener AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#15",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-10-25T03:16:02+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#16",
      "title": "Sullivan, Peltola seek support from Alaska Native voters ahead of crucial Senate race - AP News",
      "published": "2026-10-25T03:16:00+00:00",
      "summary": "Sullivan, Peltola seek support from Alaska Native voters ahead of crucial Senate race AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#17",
      "title": "Wembanyama, Harper lead Spurs past short-handed Mavericks 122-106 for their first victory - AP News",
      "published": "2026-10-25T02:48:00+00:00",
      "summary": "Wembanyama, Harper lead Spurs past short-handed Mavericks 122-106 for their first victory AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Cavaliers survive a late Nets rally to win home opener 125-121 - AP News",
-     "published": "2026-10-25T02:48:00+00:00",
-     "summary": "Cavaliers survive a late Nets rally to win home opener 125-121 AP News"
     },
     {
      "ref": "ap_world#18",
@@ -438,99 +438,99 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports - Reuters",
+     "published": "2026-10-25T07:22:39+00:00",
+     "summary": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
+     "published": "2026-10-25T07:19:22+00:00",
+     "summary": "Disenchanted Netanyahu supporters are prize of Israel election campaign Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr. - Reuters",
      "published": "2026-10-25T07:07:52+00:00",
      "summary": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr. Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
-     "published": "2026-10-25T07:05:43+00:00",
-     "summary": "Disenchanted Netanyahu supporters are prize of Israel election campaign Reuters"
-    },
-    {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Borr Drilling rig sinks offshore Gabon, five personnel missing - Reuters",
      "published": "2026-10-25T06:30:00+00:00",
      "summary": "Borr Drilling rig sinks offshore Gabon, five personnel missing Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Eleven shot near Florida A&M university in Tallahassee - Reuters",
      "published": "2026-10-25T04:36:00+00:00",
      "summary": "Eleven shot near Florida A&M university in Tallahassee Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Portuguese police clear Lisbon housing protest camp, make arrests - Reuters",
      "published": "2026-10-25T03:31:00+00:00",
      "summary": "Portuguese police clear Lisbon housing protest camp, make arrests Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "British PM Burnham open to adopting EU free movement, Sunday Times reports - Reuters",
      "published": "2026-10-25T03:13:00+00:00",
      "summary": "British PM Burnham open to adopting EU free movement, Sunday Times reports Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "Serbia votes as students seek to unseat Vucic in snap election - Reuters",
      "published": "2026-10-25T01:03:00+00:00",
      "summary": "Serbia votes as students seek to unseat Vucic in snap election Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Sydney's new international airport opens to passengers - Reuters",
      "published": "2026-10-25T00:29:00+00:00",
      "summary": "Sydney's new international airport opens to passengers Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes - Reuters",
      "published": "2026-10-25T00:03:00+00:00",
      "summary": "Bulgaria votes for president in wake of deadly Black Sea drone strikes Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Yemen's Houthis renew warning against using Riyadh airport - Reuters",
      "published": "2026-10-24T23:57:43+00:00",
      "summary": "Yemen's Houthis renew warning against using Riyadh airport Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports - Reuters",
      "published": "2026-10-24T23:23:00+00:00",
      "summary": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Bolsonaro, Lula about even in polls for Brazil runoff vote - Reuters",
      "published": "2026-10-24T23:02:10+00:00",
      "summary": "Bolsonaro, Lula about even in polls for Brazil runoff vote Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
      "published": "2026-10-24T22:49:12+00:00",
      "summary": "Nigeria's Tinubu launches re-election campaign as economic pain tests support Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires - Reuters",
      "published": "2026-10-24T22:15:27+00:00",
      "summary": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
      "published": "2026-10-24T22:07:30+00:00",
      "summary": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation Reuters"
-    },
-    {
-     "ref": "reuters_world#15",
-     "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters",
-     "published": "2026-10-24T22:06:52+00:00",
-     "summary": "Iran has ramped up efforts to target US personnel, intelligence memo warns Reuters"
     },
     {
      "ref": "reuters_world#16",
