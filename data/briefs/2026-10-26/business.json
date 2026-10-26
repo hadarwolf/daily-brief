@@ -1,0 +1,96 @@
+{
+  "section": "business",
+  "date": "2026-10-26",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-26T03:56:22+00:00",
+  "stories": [
+    {
+      "id": "ai-chip-earnings-concentration",
+      "kind": "analysis",
+      "en": {
+        "headline": "Two AI chipmakers now drive a third of America's entire corporate earnings growth",
+        "scroll": "Nvidia and Micron alone account for roughly a third of the profit growth across corporate America this earnings season, a concentration that makes the whole market's health hostage to two companies' results.",
+        "coffee": "The Wall Street Journal reports that Nvidia and Micron, both AI chipmakers, account for about 34% of the growth in US corporate earnings this reporting season, and that just ten companies — mostly AI infrastructure names — drive roughly two-thirds of total profit growth. That is an extreme case of what analysts call narrow market breadth: an index can look healthy on its headline number while the gains underneath are produced by a handful of firms, with most other companies growing far more slowly or not at all.\n\nThis matters because the S&P 500's price level and its earnings growth are increasingly two different stories. Investors who own an index fund are, in practice, making an outsized bet on a small cluster of AI-infrastructure companies continuing to execute — not on the diversified 500-company exposure the index's name implies. When earnings growth concentrates this heavily, a disappointment at just one or two of those firms can move the whole market far more than its official diversification would suggest.\n\nIt also raises a classic capital-cycle question: extraordinary profits in a hot sector attract a wave of new capacity and competing investment, which over time tends to compress the margins that made the sector so profitable in the first place. Whether AI chip demand can keep growing fast enough to outrun that incoming supply is the question underneath today's concentrated earnings boom.",
+        "deep": "## Background\n\nMarket breadth is a measure of how widely gains in a stock index are shared across its constituent companies. A \"broad\" rally means most stocks in an index are rising together; a \"narrow\" one means the index's return is being carried by a small number of large, fast-growing names while the rest lag or decline. The S&P 500 is capitalization-weighted, so the largest companies already have an outsized effect on its price level — but earnings growth concentration is a separate, deeper phenomenon: it means the *fundamental* profit engine of corporate America, not just the stock-price weighting, has narrowed.\n\n## The story\n\nThe Wall Street Journal's earnings-season analysis found that Nvidia and Micron — both suppliers of the specialized chips and memory that power AI data centers — together account for about 34% of the total growth in US corporate profits this quarter, and that a broader group of ten companies, dominated by AI infrastructure suppliers, accounts for roughly two-thirds of all profit growth. In other words, the overwhelming majority of the roughly 490 other companies in the S&P 500 are growing earnings far more slowly, and some not at all, even as the index's aggregate profit picture looks robust.\n\nThis comes against a backdrop in the same news cycle of wobbling confidence in the \"AI trade\": Bloomberg's markets wrap noted that AI-related shares took a fresh hit heading into megacap earnings, and a Natixis economist flagged a different, related risk — that if data-center construction cannot keep pace with compute demand, the AI buildout itself could become inflationary rather than deflationary for the broader economy, upending assumptions about AI's net economic effect. Gold steadying, a yen rally thesis built partly around hedging an AI-driven shock, and asset managers piling into Australian-dollar short positions on AI jitters all point to the same underlying unease: a large share of markets' recent gains rest on a narrow, AI-dependent foundation.\n\n## Second-order effects\n\nFor passive investors, concentrated earnings growth means that a broad-market index fund is, in practice, a leveraged bet on a handful of AI-infrastructure suppliers' execution, not the diversified exposure the index's branding implies. A disappointment at Nvidia, Micron or a few peers would ripple through index returns disproportionately to their nominal weight, because so much of the market's recent earnings momentum has been borrowed from their results specifically.\n\nFor the AI buildout itself, extraordinary current profitability is the classic precondition for a capital cycle: high returns attract competing capacity — more fabs, more memory plants, more rival chip designs — which historically compresses margins over a multi-year horizon as supply catches up with, and then overshoots, demand. Whether today's AI chip economics prove durable or prove to be a cyclical peak is the real question behind the concentration numbers, not the headline growth rate itself.\n\nFor the real economy, the Natixis argument adds a twist: if chip and compute demand keeps outrunning the physical buildout of data centers and power supply, the shortage itself could show up as inflation in AI-adjacent inputs, a very different scenario from the disinflationary story many investors have assumed AI would eventually deliver.\n\n## What to watch next\n\n- Upcoming megacap earnings reports and whether AI infrastructure demand signals hold up or soften.\n- Capital expenditure guidance from hyperscalers and chipmakers, which will show whether new supply is catching up with demand.\n- Market-breadth indicators (how many S&P 500 stocks are at new highs versus how concentrated gains remain) as a gauge of whether the rally broadens or narrows further."
+      },
+      "he": {
+        "headline": "שתי חברות שבבי AI מניבות כשליש מצמיחת הרווחים של כל החברות האמריקאיות",
+        "scroll": "אנבידיה ומיקרון, לבדן, אחראיות לכ-34% מצמיחת הרווחים בקרב החברות האמריקאיות העונה, ריכוז שהופך את בריאות השוק כולו לתלויה בתוצאות של שתי חברות בלבד.",
+        "coffee": "הוול סטריט ג'ורנל מדווח שאנבידיה ומיקרון, שתיהן חברות המייצרות שבבים לתשתית AI, אחראיות לכ-34% מהצמיחה ברווחי התאגידים האמריקאיים בעונת הדו\"חות הנוכחית, ושרק עשר חברות - רובן ספקיות תשתית AI - מניבות כשני שלישים מכלל צמיחת הרווחים. זהו מקרה קיצוני של מה שאנליסטים מכנים \"רוחב שוק\" (market breadth) נמוך: מדד יכול להיראות בריא במספר הכולל שלו, בעוד שהרווחים שמתחתיו מופקים על ידי קבוצה קטנה של חברות, בזמן שרוב החברות האחרות צומחות הרבה יותר לאט או לא צומחות בכלל.\n\nזה חשוב מכיוון שמחיר מדד ה-S&P 500 וצמיחת הרווחים שלו הופכים יותר ויותר לשני סיפורים שונים. משקיעים שמחזיקים בקרן מחקה מדד, בפועל, עושים התערבות מוגדלת על כך שאשכול קטן של חברות תשתית AI ימשיך להצליח - ולא על החשיפה המפוזרת ל-500 חברות שהשם של המדד מרמז עליה. כשצמיחת הרווחים מרוכזת ברמה כזו, אכזבה מצד חברה אחת או שתיים מבין אלה יכולה להזיז את השוק כולו הרבה יותר ממה שהפיזור הרשמי שלו היה מרמז.\n\nזה גם מעלה שאלה קלאסית של \"מחזור ההון\" (capital cycle): רווחים יוצאי דופן בסקטור חם מושכים גל של היצע חדש והשקעות מתחרות, מה שבמרוצת הזמן נוטה לכרסם ברווחיות שבגינה הסקטור היה רווחי מלכתחילה. השאלה שעומדת מתחת לבהלת הרווחים המרוכזת של היום היא אם ביקוש שבבי ה-AI יוכל להמשיך לצמוח מהר מספיק כדי להישאר צעד לפני ההיצע הזה.",
+        "deep": "## רקע\n\n\"רוחב שוק\" (market breadth) הוא מדד למידת הפיזור של עליות בתוך מדד מניות על פני כל החברות המרכיבות אותו. \"עלייה רחבה\" פירושה שרוב המניות במדד עולות יחד; \"עלייה צרה\" פירושה שהתשואה של המדד נישאת על ידי מספר קטן של חברות גדולות וצומחות מהר, בעוד שהשאר מפגרות או יורדות. מדד ה-S&P 500 משוקלל לפי שווי שוק, כך שלחברות הגדולות ביותר יש כבר השפעה מוגדלת על רמת המחיר שלו - אך ריכוז בצמיחת הרווחים הוא תופעה נפרדת ועמוקה יותר: הוא פירושו שמנוע הרווח ה*פונדמנטלי* של החברות האמריקאיות, ולא רק המשקל במחיר המניה, התכנס לקבוצה קטנה.\n\n## הסיפור\n\nניתוח עונת הדו\"חות של הוול סטריט ג'ורנל מצא שאנבידיה ומיקרון - שתיהן ספקיות של שבבים ייעודיים וזיכרון שמפעילים מרכזי נתונים של AI - אחראיות יחד לכ-34% מכלל הצמיחה ברווחי התאגידים האמריקאיים ברבעון זה, ושקבוצה רחבה יותר של עשר חברות, שבראשה ספקיות תשתית AI, אחראית לכשני שלישים מכלל צמיחת הרווחים. במילים אחרות, הרוב המכריע מבין כ-490 החברות האחרות במדד S&P 500 מגדילות את רווחיהן הרבה יותר לאט, וחלקן בכלל לא, אפילו שתמונת הרווח המצרפית של המדד נראית חסונה.\n\nזה מגיע על רקע אמון מתנודד ב\"סחר ה-AI\" באותו מחזור חדשות: סיכום השווקים של בלומברג ציין שמניות הקשורות ל-AI נפגעו שוב לפני פרסום דו\"חות החברות הגדולות, וכלכלן מבית ההשקעות נטיקסיס העלה סיכון נפרד אך קשור - שאם בנייתם של מרכזי הנתונים לא תספיק כדי לעמוד בביקוש לכוח מחשוב, בניית תשתית ה-AI עצמה עלולה להיות אינפלציונית ולא דפלציונית למשק הכללי, מה שמהפך הנחות על ההשפעה הכלכלית הנטית של AI. התייצבות הזהב, תזת עלייה בין (yen) שנבנתה בחלקה כגידור מפני זעזוע שמקורו ב-AI, וצבירת פוזיציות שורט שיא על הדולר האוסטרלי בשל חששות AI - כולם מצביעים על אותה חוסר נחת בסיסי: חלק גדול מהעליות האחרונות בשווקים נשען על בסיס צר, תלוי-AI.\n\n## אפקטים מסדר שני\n\nלמשקיעים פסיביים, צמיחת רווחים מרוכזת פירושה שקרן מחקה מדד רחב היא, בפועל, התערבות ממונפת על הביצועים של קבוצה קטנה של ספקיות תשתית AI, ולא החשיפה המפוזרת שהמיתוג של המדד מרמז עליה. אכזבה מצד אנבידיה, מיקרון או כמה חברות דומות תתגלגל בתשואות המדד באופן לא פרופורציונלי למשקלן הנומינלי, מכיוון שחלק גדול מהמומנטום האחרון ברווחי השוק הושאל ספציפית מתוצאותיהן.\n\nלבניית תשתית ה-AI עצמה, רווחיות יוצאת דופן נוכחית היא התנאי המוקדם הקלאסי ל\"מחזור הון\": תשואות גבוהות מושכות קיבולת מתחרה - עוד מפעלי שבבים, עוד מפעלי זיכרון, עוד תכנוני שבבים מתחרים - מה שבאופן היסטורי מכרסם ברווחיות על פני אופק של מספר שנים, כשההיצע משיג את הביקוש ולאחר מכן עובר אותו. האם הכלכלה של שבבי ה-AI כיום תתברר כעמידה או כשיא מחזורי היא השאלה האמיתית מאחורי מספרי הריכוז, ולא קצב הצמיחה הכותרתי עצמו.\n\nלמשק הריאלי, הטיעון של נטיקסיס מוסיף תפנית: אם הביקוש לשבבים ולכוח מחשוב יישאר גבוה מהבנייה הפיזית של מרכזי נתונים ואספקת חשמל, המחסור עצמו עלול להתבטא כאינפלציה בתשומות הקשורות ל-AI - תרחיש שונה בתכלית מהסיפור הדפלציוני שמשקיעים רבים הניחו ש-AI יספק בסופו של דבר.\n\n## מה לעקוב בהמשך\n\n- דו\"חות הרווחים הקרובים של חברות הטכנולוגיה הגדולות, והאם אותות הביקוש לתשתית AI נשארים חזקים או מתרככים.\n- הנחיות השקעה הונית (capex) מצד ספקיות התשתית הגדולות וחברות השבבים, שיראו אם ההיצע החדש משיג את הביקוש.\n- מדדי רוחב שוק (כמה ממניות S&P 500 נמצאות בשיאים חדשים לעומת כמה מרוכזות העליות) כמדד לכך אם העלייה מתרחבת או ממשיכה להצטמצם."
+      },
+      "tags": [
+        "ai",
+        "earnings",
+        "market-breadth",
+        "concentration-risk"
+      ],
+      "sources": [
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
+          "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Trade Falters in Runup to Earnings, Oil Drops: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Slow AI Buildout Could Be Inflationary: Natixis' Herrero",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/slow-ai-buildout-could-be-inflationary-natixis-herrero-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Asset Manager Australian Dollar Shorts Hit Record on Risk-Off",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/asset-manager-australian-dollar-shorts-hit-record-on-risk-off"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-says-yen-becoming-better-hedge-against-ai-market-shock"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4124.1299,
+      "prev_close": 4166.25,
+      "change_pct": -1.01,
+      "as_of": "2026-10-23"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7623.6802,
+      "prev_close": 7663.4302,
+      "change_pct": -0.52,
+      "as_of": "2026-10-23"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1152,
+      "prev_close": 3.1125,
+      "change_pct": 0.09,
+      "as_of": "2026-10-26"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 109.43,
+      "prev_close": 116.72,
+      "change_pct": -6.25,
+      "as_of": "2026-10-25"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 79511.7266,
+      "prev_close": 80790.8359,
+      "change_pct": -1.58,
+      "as_of": "2026-10-26"
+    }
+  }
+}

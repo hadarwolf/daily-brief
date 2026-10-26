@@ -1,0 +1,176 @@
+{
+  "section": "sports",
+  "date": "2026-10-26",
+  "title_en": "Sports",
+  "title_he": "ספורט",
+  "default_lang": "en",
+  "generated_at": "2026-10-26T03:56:22+00:00",
+  "stories": [
+    {
+      "id": "clasico-real-madrid-win",
+      "kind": "news",
+      "en": {
+        "headline": "Mbappe sinks Barça as Mourinho's Real Madrid win the Clasico again",
+        "scroll": "Kylian Mbappe scored twice as Real Madrid beat league-leaders Barça 2-1 at Camp Nou, ending Barça's winning run and tightening the title race.",
+        "coffee": "Real Madrid left Camp Nou with a 2-1 win after Kylian Mbappe capitalized on a Barça defensive mistake to put Madrid ahead in the 41st minute, then struck again three minutes from time to settle it. Raphinha had leveled for Barça at 1-1 in the 61st minute, but couldn't prevent Jose Mourinho's side from completing what the BBC called his \"Clasico Midas touch\" 13 years into his history with these fixtures.\n\nThe result doesn't change the top of the table dramatically — Barça still lead La Liga on 27 points from 10 games — but it closes the gap. Atletico Madrid sit second on 25, and Real Madrid move to third on 24, both within a game or two of the summit, with goal difference (Barça's +29 dwarfing both rivals) still Barça's biggest cushion.\n\nWhat to watch: Barça return to action October 31 against Alavés before a Champions League trip from Aston Villa on November 3, with a chance to respond immediately to the Clasico setback.",
+        "deep": "## The result\n\nReal Madrid won El Clasico 2-1 at Camp Nou, with Kylian Mbappe scoring both Madrid goals. His opener in the 41st minute came after a mistake in the Barça defense, and his second, three minutes before full time, proved decisive after Raphinha had pulled Barça level at 1-1 in the 61st minute. For Jose Mourinho, who has built a long personal record of success in this fixture across more than a decade, it was another chapter in what BBC Sport described as his enduring \"Clasico Midas touch.\"\n\n## What it means for the table\n\nBarça remain top of La Liga after 10 rounds with 27 points, but the defeat allows two direct rivals to close in: Atletico Madrid sit second on 25 points, and Real Madrid climb to third on 24. The margins at the top are now tight enough that a few results either way could reshuffle the order, though Barça's goal difference of +29 — far ahead of Atletico's +12 and Real Madrid's +15 — remains a significant cushion if the title race comes down to tiebreakers later in the season.\n\n## Context\n\nThe Clasico sits inside a broader pattern this season of unpredictable results across La Liga's top six, with Real Betis and Real Sociedad also picking up points to stay within range of the leading pack. For Barça specifically, this was their first defeat in a run of matches that had included a 5-2 win away at Real Betis and a tougher 2-4 loss away to PSG in the Champions League, suggesting defensive lapses rather than loss of attacking form are the current concern.\n\n## What to watch next\n\n- Barça's response on October 31 at home to Alavés, a chance to restore momentum before a tough Champions League assignment.\n- Real Madrid's ability to build on the win and continue closing the points gap on Barça.\n- Whether Barça's defense tightens up, given that their two recent defeats (to PSG and now Real Madrid) have both stemmed from individual defensive errors rather than being outplayed overall."
+      },
+      "he": {
+        "headline": "אמבפה שוקע את ברצלונה: ריאל מדריד של מוריניו מנצחת שוב בקלאסיקו",
+        "scroll": "קיליאן אמבפה כבש פעמיים כשריאל מדריד ניצחה 2:1 את מובילת הליגה ברצלונה בקאמפ נואו, וקטעה את רצף הניצחונות של הקטלאנים בעוד היא מצמצמת את המרדף על האליפות.",
+        "coffee": "ריאל מדריד עזבה את קאמפ נואו עם ניצחון 2:1 אחרי שקיליאן אמבפה ניצל טעות הגנתית של ברצלונה כדי להעלות את מדריד ליתרון בדקה ה-41, ולאחר מכן כבש בשנית שלוש דקות לפני הסיום כדי להכריע את התוצאה. ראפיניה השווה לברצלונה ל-1:1 בדקה ה-61, אך לא הצליח למנוע מקבוצתו של ז'וזה מוריניו להשלים את מה שה-BBC כינה \"מגע הקסם של מוריניו בקלאסיקו\", 13 שנה אחרי שהחל את הסיפור שלו במפגשים הללו.\n\nהתוצאה לא משנה דרמטית את פסגת הטבלה - ברצלונה ממשיכה להוביל בליגה הספרדית עם 27 נקודות מ-10 משחקים - אך היא מצמצמת את הפער. אתלטיקו מדריד נמצאת במקום השני עם 25 נקודות, וריאל מדריד עולה למקום השלישי עם 24, שתיהן במרחק משחק או שניים מהפסגה, בעוד שהפרש השערים (29+ לברצלונה, גבוה בהרבה משתי היריבות) נותר היתרון הגדול ביותר של הקטלאנים.\n\nמה לעקוב: ברצלונה תחזור לפעולה ב-31 באוקטובר מול אלאבס, לפני יציאה למשחק ליגת האלופות מול אסטון וילה ב-3 בנובמבר, עם הזדמנות להגיב באופן מיידי לכישלון בקלאסיקו.",
+        "deep": "## התוצאה\n\nריאל מדריד ניצחה בקלאסיקו 2:1 בקאמפ נואו, עם שני שערים של קיליאן אמבפה. השער הראשון שלו בדקה ה-41 הגיע בעקבות טעות בהגנת ברצלונה, והשער השני, שלוש דקות לפני הסיום, הוכרע כמכריע אחרי שראפיניה השווה את התוצאה ל-1:1 בדקה ה-61. לז'וזה מוריניו, שבנה רקורד אישי ארוך של הצלחה במפגש הזה על פני יותר מעשור, זה היה פרק נוסף במה שה-BBC תיאר כ\"מגע הקסם המתמשך שלו בקלאסיקו\".\n\n## המשמעות לטבלה\n\nברצלונה נותרה בראש הליגה הספרדית אחרי 10 מחזורים עם 27 נקודות, אך התבוסה מאפשרת לשני יריבים ישירים להתקרב: אתלטיקו מדריד במקום השני עם 25 נקודות, וריאל מדריד שעולה למקום השלישי עם 24. המרווחים בפסגה כעת צפופים מספיק כדי שכמה תוצאות בכל כיוון יוכלו לערבב את הסדר, אם כי הפרש השערים של ברצלונה, 29+ - הרבה מעבר ל-12+ של אתלטיקו ו-15+ של ריאל מדריד - נותר כרית משמעותית אם מרדף האליפות יוכרע בשוברי שוויון בהמשך העונה.\n\n## הקשר\n\nהקלאסיקו נמצא בתוך דפוס רחב יותר העונה של תוצאות לא צפויות בקרב שש הקבוצות המובילות בליגה הספרדית, כשגם ריאל בטיס וראיאל סוסיאדד אוספות נקודות כדי להישאר בטווח מהחבורה המובילה. לברצלונה ספציפית, זו הייתה התבוסה הראשונה שלה ברצף משחקים שכלל ניצחון 2:5 חוץ על ריאל בטיס, אך גם הפסד קשה יותר 4:2 בחוץ ל-PSG בליגת האלופות, מה שמרמז שהבעיה הנוכחית היא כשלים הגנתיים ולא אובדן הכושר ההתקפי.\n\n## מה לעקוב בהמשך\n\n- תגובת ברצלונה ב-31 באוקטובר בבית מול אלאבס, הזדמנות לשחזר מומנטום לפני משימה קשה בליגת האלופות.\n- יכולתה של ריאל מדריד להמשיך ולבנות על הניצחון ולהמשיך לצמצם את הפער מברצלונה.\n- האם ההגנה של ברצלונה תתייצב, בהתחשב בכך ששני ההפסדים האחרונים שלה (ל-PSG וכעת לריאל מדריד) נבעו משתיהם מטעויות הגנתיות אישיות ולא מהיתקלות עם קבוצה טובה יותר באופן כללי."
+      },
+      "tags": [
+        "barcelona",
+        "real-madrid",
+        "la-liga",
+        "clasico"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "arsenal-keeps-pace",
+      "kind": "news",
+      "en": {
+        "headline": "Arsenal stay level with Man City after beating Everton, eye Liverpool next",
+        "scroll": "Arsenal beat Everton 2-0 at home to stay level on points with leaders Manchester City, extending an unbeaten run that includes a 2-2 draw at Bayern Munich.",
+        "coffee": "Arsenal's 2-0 win over Everton kept them tied with Manchester City at the top of the Premier League, both on 21 points after eight games, with City holding first place only on a superior goal difference (+11 to Arsenal's +8). The win continued an unbeaten stretch that also included a 2-2 draw away at Bayern Munich in the Champions League and a 1-0 win at Nottingham Forest.\n\nArsenal's form has been built on consistency rather than dominance — close, controlled results rather than routs — which has kept them in touching distance of City despite not topping the table outright.\n\nWhat to watch: a genuine title-race litmus test on November 1 at Liverpool, who have themselves just climbed into the top four, followed by a Champions League trip to Slavia Praha on November 4.",
+        "deep": "## The result\n\nArsenal beat Everton 2-0 at home, continuing a run of results that has kept pace with Manchester City at the top of the Premier League. Both clubs sit on 21 points from eight matches, with City ahead only by virtue of a better goal difference (+11 versus Arsenal's +8). The win followed a 1-0 away win at Nottingham Forest and a 2-2 draw at Bayern Munich in the Champions League, giving Arsenal an unbeaten run across both domestic and European competition.\n\n## Context\n\nUnlike City, whose results this season have often come with wide margins, Arsenal's run has been built on tighter, more controlled scorelines. That pattern — efficient rather than dominant — has nonetheless been enough to keep them level on points at the summit, suggesting a team managing games rather than simply overpowering opponents.\n\n## What to watch next\n\n- The November 1 trip to Liverpool, who themselves just moved into the Premier League's top four after beating Brighton, shaping up as a genuine measure of Arsenal's title credentials against another in-form rival.\n- The Champions League trip to Slavia Praha on November 4, a chance to build on the Bayern draw with a first win of this European campaign stretch.\n- Whether Man City's superior goal difference becomes decisive if both clubs continue winning at a similar rate."
+      },
+      "he": {
+        "headline": "ארסנל נותרת צמודה למנצ'סטר סיטי אחרי ניצחון על אברטון, עכשיו תורו של ליברפול",
+        "scroll": "ארסנל ניצחה 2:0 את אברטון בבית ונותרה שוות נקודות עם מנצ'סטר סיטי המובילה, והאריכה רצף בלתי מנוצח שכולל שוויון 2:2 בבאיירן מינכן.",
+        "coffee": "הניצחון 2:0 של ארסנל על אברטון שימר אותה שוות נקודות עם מנצ'סטר סיטי בראש הליגה האנגלית, שתיהן עם 21 נקודות אחרי שמונה מחזורים, כשסיטי שומרת על המקום הראשון רק בזכות הפרש שערים טוב יותר (11+ לעומת 8+ לארסנל). הניצחון המשיך רצף בלתי מנוצח שכלל גם שוויון 2:2 בחוץ מול באיירן מינכן בליגת האלופות וניצחון 1:0 בחוץ על נוטינגהאם פורסט.\n\nהכושר של ארסנל נבנה על עקביות ולא על שליטה מוחצת - תוצאות צמודות ומבוקרות ולא הכרעות גדולות - מה שהספיק כדי לשמור אותה במרחק נגיעה מסיטי, אף שהיא לא בראש הטבלה באופן בלעדי.\n\nמה לעקוב: מבחן אמיתי למרדף האליפות ב-1 בנובמבר בחוץ מול ליברפול, שעלתה בעצמה לרביעייה הפותחת, ולאחריו יציאה לליגת האלופות מול סלאביה פראג ב-4 בנובמבר.",
+        "deep": "## התוצאה\n\nארסנל ניצחה 2:0 בבית את אברטון, והמשיכה רצף תוצאות ששמר אותה בקצב של מנצ'סטר סיטי בראש הליגה האנגלית. שתי הקבוצות מצויות עם 21 נקודות משמונה משחקים, כשסיטי מובילה רק בזכות הפרש שערים טוב יותר (11+ לעומת 8+ לארסנל). הניצחון הגיע בעקבות ניצחון 1:0 בחוץ על נוטינגהאם פורסט ושוויון 2:2 מול באיירן מינכן בליגת האלופות, מה שהעניק לארסנל רצף בלתי מנוצח גם במישור המקומי וגם באירופה.\n\n## הקשר\n\nבשונה מסיטי, שהתוצאות שלה העונה הגיעו לרוב בהפרשים גדולים, הרצף של ארסנל נבנה על תוצאות צמודות ומבוקרות יותר. הדפוס הזה - יעיל ולא שתלטני - היה בכל זאת מספיק כדי לשמור אותה שוות נקודות בפסגה, מה שמרמז על קבוצה שמנהלת משחקים ולא פשוט גוברת על יריבותיה בכוח.\n\n## מה לעקוב בהמשך\n\n- היציאה ב-1 בנובמבר מול ליברפול, שעלתה בעצמה לרביעייה הפותחת של הליגה האנגלית אחרי ניצחון על בריגהטון, מה שעושה את המפגש למבחן אמיתי של יכולותיה של ארסנל במרדף האליפות מול יריבה נוספת במצב כושר טוב.\n- היציאה לליגת האלופות מול סלאביה פראג ב-4 בנובמבר, הזדמנות לבנות על השוויון מול באיירן עם ניצחון ראשון בקטע הזה של הקמפיין האירופי.\n- האם הפרש השערים הטוב יותר של מנצ'סטר סיטי יהפוך למכריע אם שתי הקבוצות ימשיכו לנצח בקצב דומה."
+      },
+      "tags": [
+        "arsenal",
+        "premier-league",
+        "manchester-city"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "man-utd-carrick-crisis",
+      "kind": "news",
+      "en": {
+        "headline": "Manchester United's winless run hits eight games as pressure mounts on Carrick",
+        "scroll": "Manchester United lost 3-0 at home to Bournemouth, extending their winless run to eight matches in all competitions and intensifying pressure on manager Michael Carrick.",
+        "coffee": "Manchester United were beaten 3-0 by Bournemouth at Old Trafford, a result that stretches their winless run to eight games across all competitions and leaves manager Michael Carrick under what BBC Sport described as severe pressure. Pundits Toby Alderweireld and Ashley Williams pointed to a lack of intensity and fight, with Alderweireld suggesting there is no \"togetherness\" within the squad. Fans sang their support for Carrick personally during the game but made clear, per BBC reporting, that their frustration is directed elsewhere in the club.\n\nThe pressure has already produced speculation about Carrick's successor: former Newcastle manager Eddie Howe is reportedly open to talks with United should the club part ways with its current manager.\n\nWhat to watch: whether United's board acts before the losing run extends further, and how Carrick's side responds in their next fixture.",
+        "deep": "## The result\n\nManchester United lost 3-0 at home to Bournemouth, a result that extends the club's winless run to eight matches across all competitions. It is the kind of result that, at a club with United's expectations, tends to accelerate questions about managerial security rather than simply add to a bad run.\n\n## The reaction\n\nBBC Sport's Match of the Day analysis was blunt: pundits Toby Alderweireld and Ashley Williams criticized United's lack of intensity and fight, with Alderweireld specifically questioning whether there is genuine \"togetherness\" in the squad. Notably, supporters inside Old Trafford sang in support of manager Michael Carrick individually during the defeat, while directing their frustration elsewhere — a distinction BBC's reporting suggested reflects anger at the broader state of the club rather than at Carrick personally, even as he remains the manager under the most direct pressure.\n\n## Second-order effects\n\nThe scale of the crisis is already shaping succession speculation: BBC Sport's gossip column reported that Eddie Howe, who built his reputation managing Bournemouth and more recently Newcastle, is open to talks with United if the club decides to replace Carrick. That a managerial candidate's openness to the job is already circulating publicly, while Carrick remains in post, is itself a signal of how fragile his position is seen to be.\n\n## What to watch next\n\n- Whether United's hierarchy makes a managerial change before the run extends into a ninth game without a win.\n- United's performance and result in their next fixture as a test of whether the squad can respond to mounting pressure.\n- Further circulation of managerial names, including Howe, as contingency planning likely continues regardless of what United's board says publicly."
+      },
+      "he": {
+        "headline": "מנצ'סטר יונייטד ללא ניצחון כבר שמונה משחקים; הלחץ על קריק מתעצם",
+        "scroll": "מנצ'סטר יונייטד הפסידה 0:3 בבית לבורנמות', והאריכה את רצף חוסר הניצחונות שלה לשמונה משחקים בכל המסגרות, בעוד הלחץ על המאמן מייקל קריק מתגבר.",
+        "coffee": "מנצ'סטר יונייטד הובסה 0:3 על ידי בורנמות' באולד טראפורד, תוצאה שמאריכה את רצף חוסר הניצחונות שלה לשמונה משחקים בכל המסגרות ומשאירה את המאמן מייקל קריק במה שה-BBC תיאר כלחץ חריף. הפרשנים טובי אלדרוויירלד ואשלי ויליאמס הצביעו על חוסר אינטנסיביות ולחימה, כשאלדרוויירלד העלה את השאלה אם קיימת \"לכידות\" כלשהי בסגל. אוהדים שרו לתמיכה בקריק אישית במהלך המשחק, אך הבהירו, לפי דיווחי ה-BBC, שהתסכול שלהם מופנה למקום אחר במועדון.\n\nהלחץ כבר הוליד ניחושים על מחליפו האפשרי של קריק: המאמן לשעבר של ניוקאסל, אדי האו, לפי הדיווחים פתוח לשיחות עם יונייטד אם המועדון יחליט להיפרד ממאמנו הנוכחי.\n\nמה לעקוב: האם הנהלת המועדון תפעל לפני שרצף ההפסדים יתארך עוד, וכיצד תגיב קבוצתו של קריק במשחק הבא.",
+        "deep": "## התוצאה\n\nמנצ'סטר יונייטד הפסידה 0:3 בבית לבורנמות', תוצאה שמאריכה את רצף חוסר הניצחונות של המועדון לשמונה משחקים בכל המסגרות. זהו סוג התוצאה שבמועדון עם הציפיות של יונייטד נוטה להאיץ שאלות על יציבות הניהול, ולא רק להצטבר לרצף גרוע.\n\n## התגובה\n\nהניתוח של \"משחק היום\" ב-BBC Sport היה חד: הפרשנים טובי אלדרוויירלד ואשלי ויליאמס ביקרו את חוסר האינטנסיביות והלחימה של יונייטד, כשאלדרוויירלד שאל במפורש אם קיימת \"לכידות\" אמיתית בסגל. ראוי לציון שאוהדים באולד טראפורד שרו לתמיכה במאמן מייקל קריק באופן אישי במהלך ההפסד, בעוד שהפנו את תסכולם למקום אחר - הבחנה שלפי דיווחי ה-BBC משקפת כעס על מצבו הכללי של המועדון, ולא על קריק אישית, אף שהוא נותר המאמן הנמצא בלחץ הישיר ביותר.\n\n## אפקטים מסדר שני\n\nהיקף המשבר כבר מעצב ניחושים על ממשיכו: טור הרכילות של BBC Sport דיווח שאדי האו, שבנה את שמו בניהול בורנמות' ולאחר מכן ניוקאסל, פתוח לשיחות עם יונייטד אם המועדון יחליט להחליף את קריק. העובדה שפתיחותו של מועמד לתפקיד כבר מסתובבת בפומבי, בעוד קריק נותר בתפקידו, היא עצמה איתות למידת הרעידה שבה נתפסת עמדתו.\n\n## מה לעקוב בהמשך\n\n- האם הנהלת יונייטד תבצע שינוי בניהול לפני שהרצף יתארך למשחק תשיעי בלי ניצחון.\n- ביצועי יונייטד והתוצאה במשחק הבא שלה כמבחן ליכולת הסגל להגיב ללחץ הגובר.\n- המשך הפצת שמות מועמדים לניהול, כולל האו, ככל שתכנון חלופי ממשיך סביר להניח ללא קשר למה שהנהלת יונייטד אומרת בפומבי."
+      },
+      "tags": [
+        "manchester-united",
+        "premier-league",
+        "carrick"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Howe open to Man Utd talks - Monday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "inter-miami-messi-travel",
+      "kind": "news",
+      "en": {
+        "headline": "Messi's Ballon d'Or travel adds strain to Inter Miami's title defense push",
+        "scroll": "Lionel Messi's packed travel schedule, including a Ballon d'Or trip, is being cited as a factor in Inter Miami's recent form as they push for a second straight MLS Cup.",
+        "coffee": "Reports from Forza Football and Sports Illustrated highlight concern that Lionel Messi's hectic travel schedule, most recently a trip tied to Ballon d'Or activities, is taking a toll on Inter Miami as the club pushes into the business end of the MLS season. The club's most recent result, a 2-0 win over New York City FC, suggests the team can still get results, but the surrounding coverage frames the fatigue question as a live concern heading into the playoff push.\n\nAdding to the challenge, Diario AS reports that Nashville SC, winners of this season's Supporters' Shield, could stand between Inter Miami and a second consecutive MLS Cup title, setting up a potential high-stakes meeting between the league's top regular-season team and its highest-profile roster.\n\nWhat to watch: Inter Miami's next fixture against FC Cincinnati on October 28, and whether Messi's schedule is managed to keep him fresh for a potential playoff run against Nashville.",
+        "deep": "## Background\n\nInter Miami enters the business end of the MLS season attempting to defend an MLS Cup title built heavily around Lionel Messi's individual brilliance. With Messi now a global figure whose off-field obligations — including Ballon d'Or-related travel and appearances — compete directly with the club's packed fixture list, questions about managing his workload have become a recurring storyline.\n\n## The story\n\nBoth Forza Football and Sports Illustrated published reporting this week arguing that Messi's travel burden is already affecting Inter Miami's on-field output, pointing to his Ballon d'Or trip as the latest example of a schedule that leaves little room for rest between matches. The club's most recent result — a 2-0 win over New York City FC — did not on its own support a narrative of collapse, but the surrounding coverage suggests the concern is about sustainability over the coming playoff stretch rather than any single result.\n\nSeparately, Diario AS reported that Nashville SC, which won this season's Supporters' Shield as the league's best regular-season team, is positioned as a potential opponent standing between Inter Miami and a second consecutive MLS Cup. That framing raises the stakes on exactly the stretch of the calendar where Messi's fatigue is being questioned.\n\n## Second-order effects\n\nFor a club whose commercial and competitive identity is now inseparable from one player, managing Messi's calendar is as much a business decision as a football one: his global appearances drive Inter Miami's visibility and revenue, but any decline in his matchday output during the playoffs would directly threaten the club's chance at defending its title. Expect the club's coaching staff to face a real trade-off between resting Messi for freshness and risking match form by scaling back his training and travel further.\n\n## What to watch next\n\n- Inter Miami's result against FC Cincinnati on October 28 as a read on current form.\n- Whether the club publicly addresses or adjusts Messi's travel schedule ahead of the playoffs.\n- Nashville SC's form as the likeliest obstacle to a repeat MLS Cup, given their Supporters' Shield-winning regular season."
+      },
+      "he": {
+        "headline": "נסיעות מסי לכדור הזהב מכבידות על מרדף האליפות החזרה של אינטר מיאמי",
+        "scroll": "לוח הנסיעות העמוס של ליונל מסי, כולל נסיעה הקשורה לכדור הזהב, מוזכר כגורם בכושרה האחרון של אינטר מיאמי, בזמן שהיא נלחמת על גביע ה-MLS השני ברצף.",
+        "coffee": "דיווחים מאת Forza Football ו-Sports Illustrated מצביעים על חשש שלוח הנסיעות העמוס של ליונל מסי, לאחרונה נסיעה הקשורה לפעילויות כדור הזהב, גובה מחיר מאינטר מיאמי בזמן שהמועדון נכנס לשלב המכריע של עונת ה-MLS. התוצאה האחרונה של המועדון, ניצחון 2:0 על ניו יורק סיטי, מרמזת שהקבוצה עדיין מצליחה להשיג תוצאות, אך הסיקור שמסביב ממסגר את שאלת העייפות כחשש חי לקראת מרדף הפלייאוף.\n\nבנוסף לאתגר, Diario AS מדווח שנאשוויל SC, זוכת גביע התומכים (Supporters' Shield) של העונה הנוכחית, עלולה לעמוד בין אינטר מיאמי לתואר ה-MLS Cup השני ברצף, מה שמעמיד אפשרות למפגש בעל משקל רב בין הקבוצה הטובה ביותר בעונה הרגילה לבין הסגל הבולט ביותר בליגה.\n\nמה לעקוב: המשחק הבא של אינטר מיאמי מול FC סינסינטי ב-28 באוקטובר, והאם לוח הזמנים של מסי יתוכנן כך שישמור אותו רגוע למרדף פלייאוף פוטנציאלי מול נאשוויל.",
+        "deep": "## רקע\n\nאינטר מיאמי נכנסת לשלב המכריע של עונת ה-MLS בניסיון להגן על תואר MLS Cup שנבנה במידה רבה סביב הברק האישי של ליונל מסי. עם מסי שהפך לדמות גלובלית שהמחויבויות שלו מחוץ למגרש - כולל נסיעות והופעות הקשורות לכדור הזהב - מתחרות ישירות בלוח המשחקים העמוס של המועדון, שאלות על ניהול עומס העבודה שלו הפכו לנושא חזור ונשנה.\n\n## הסיפור\n\nגם Forza Football וגם Sports Illustrated פרסמו השבוע דיווחים הטוענים שעומס הנסיעות של מסי משפיע כבר על ביצועיו של אינטר מיאמי על המגרש, ומצביעים על נסיעת כדור הזהב שלו כדוגמה העדכנית ביותר ללוח זמנים שמשאיר מעט מקום למנוחה בין משחקים. התוצאה האחרונה של המועדון - ניצחון 2:0 על ניו יורק סיטי - לא תמכה בעצמה בנרטיב של קריסה, אך הסיקור שמסביב מרמז שהחשש הוא על קיימות לאורך תקופת הפלייאוף הקרובה ולא על תוצאה בודדת כלשהי.\n\nבנפרד, Diario AS דיווח שנאשוויל SC, שזכתה בגביע התומכים של העונה הנוכחית כקבוצה הטובה ביותר בעונה הרגילה, ממוקמת כיריבה פוטנציאלית שעומדת בין אינטר מיאמי לתואר MLS Cup שני ברצף. המסגור הזה מעלה את החשיבות של בדיוק אותה תקופה בלוח השנה שבה מוטלת בספק עייפותו של מסי.\n\n## אפקטים מסדר שני\n\nלמועדון שהזהות המסחרית והתחרותית שלו כבר אינה ניתנת להפרדה משחקן אחד, ניהול לוח הזמנים של מסי הוא החלטה עסקית במידה לא פחותה מהחלטה כדורגלית: הופעותיו הגלובליות מניעות את החשיפה וההכנסות של אינטר מיאמי, אך כל ירידה בביצועיו במשחקים במהלך הפלייאוף תאיים באופן ישיר על סיכויי המועדון להגן על תוארו. סביר שצוות האימון של המועדון יתמודד עם טרייד-אוף אמיתי בין מתן מנוחה למסי לשם רעננות לבין הסיכון בכושר המשחק אם יצמצמו עוד יותר את האימונים והנסיעות שלו.\n\n## מה לעקוב בהמשך\n\n- תוצאת אינטר מיאמי מול FC סינסינטי ב-28 באוקטובר כאינדיקציה לכושר הנוכחי.\n- האם המועדון יתייחס בפומבי או יתאים את לוח הנסיעות של מסי לפני הפלייאוף.\n- הכושר של נאשוויל SC כמכשול הסביר ביותר לחזרה על תואר ה-MLS Cup, בהתחשב בעונה הרגילה שלה שזיכתה אותה בגביע התומכים."
+      },
+      "tags": [
+        "inter-miami",
+        "messi",
+        "mls"
+      ],
+      "sources": [
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi’s Hectic Travels Hurt Inter Miami—And Ballon d’Or Trip Signals More Trouble - Forza Football",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa1BHaWpNUDNEaXVEeDAwR2tBckVQX2ttX0JoeVV4a3pqNkhNRHQ1cUozeThZR1JJTmhlbzFsR1dsYkxxV042OEw0aEtzX2NjOWRnMVdCRElkMzhxT0lrMHRzb2dYcnFMNVl6WmVvU25RWk96Y1J3NVAycC1TUXpOYVVRNGVjQjhPUW1faTB4M0dNbHM2eXYzNzEyNGp5T2lxdkFSUkUxRmtpcG5OSzlrM2xUT1p6dXlBaUw0a0g1Tm84amlVeHc?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi’s Hectic Travels Hurt Inter Miami—And Ballon d’Or Trip Signals More Trouble - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVZqZFU1dld3SkhwZEZLTzNOLW42ZFY4a2lvQkRYT0NGSGVjT0xkcTRibUY1R2drZFhwZ054YUdJN0JHd1hyVzlqTXlYS0pDb0Ftd2NqOERFdzRpU0loSFhsNTh6azhsdFFmdzhUSTBvRXg4Ulhxa25HRVZtMjEzSnFZTjYzZEtf?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Supporters’ Shield winner Nashville SC could stand between Lionel Messi’s Inter Miami and a second consecutive - Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNl9hRXFsM1FzdmVzT0FqeGNWc3h0NXJCdzVpMUZuQTVWRktOcXNvUlZVMEFhaEJpTmd6VG5FWlhsclNySlJTZVdoYWlEZUQ4RDU2aWNCMDdQSXl6MlVUMHBqeGpYZmo0V1pxYUVvTDdmWkMyWE1WTDlxb2dJZEo0aXFIcnpNb1lVcWhKaVRLQURpVDlBYnQ5UHFUTXEzaUJ6RnFvbUFHY2ttbS1nc1JmR2wtTklFc04zbEhWeHQ4Wnc5cUlERVNGMVhOcFZtSHQ5UlFhS3V5MnRaQVI4NEU3WFdENXh3MXRWUVM2UkRRRdIBgwJBVV95cUxPZnNrT3V2RWN1Y252bkVfMktpai1uUW1lWDNJNlozeWxKODFnSGpQVVQxUDNfUlc4MU9xMi11XzIxSEhXZnVjVVJtUkRkaF9SX2VmX0UxakRmYlFjRmwtM09OOGFMY01NWmE0T2JVY0MyT2prRHFhYUpYaU9IY3RJZjVnVEkyY1ZlcmhIb1k0ZVd6NzktQkxNajlUbG1SaHlaYS01SUxuY3gxdHcweU1rTEZHaEgwTFRXUjc1enBPeWcyZWZ5Wld5Y0R4c2tUNlJReUkwbE9JdXBGZXBKbHpGWVFXTWtubWZjTURuNlQtUUxCSXhXQzZQNndIbWwtbWZVTWU4?oc=5"
+        },
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    }
+  ],
+  "israeli_players": [
+    {
+      "name": "Deni Avdija",
+      "team": "Portland Trail Blazers",
+      "en": "Avdija's most recent reported outing was a near triple-double, 26 points, 6 rebounds and 6 assists, in a comeback win over the Sacramento Kings; coverage continues to describe him as Portland's best player and on track to become one of the franchise's greats. No box score is available confirming whether he played in the Trail Blazers' most recent game.",
+      "he": "ההופעה האחרונה המדווחת של אבדיה הייתה קרוב לטריפל-דאבל - 26 נקודות, 6 ריבאונדים ו-6 אסיסטים - בניצחון מהפך על סקרמנטו קינגס; הסיקור ממשיך לתאר אותו כשחקן הטוב ביותר של פורטלנד ובדרך להיות אחד השחקנים הגדולים בתולדות המועדון. אין תיעוד סטטיסטי זמין לאישור אם שיחק במשחק האחרון של טרייל בלייזרס."
+    },
+    {
+      "name": "Ben Saraf",
+      "team": "Brooklyn Nets",
+      "en": "The Nets lost 109-136 to the Indiana Pacers last night, but no individual box score is available, so there is no confirmed update on Saraf's playing time or stats from that game.",
+      "he": "הנטס הפסידו 136:109 לאינדיאנה פייסרס הלילה האחרון, אך אין תיעוד סטטיסטי אישי זמין, כך שאין עדכון מאושר על זמן המשחק או הסטטיסטיקות של סרף מהמשחק הזה."
+    }
+  ],
+  "match_day": {
+    "is_match_day": false,
+    "events": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-26",
+  "questions": [
+    {
+      "id": "q1-serbia",
+      "section": "geopolitics",
+      "story_id": "serbia-vucic-concedes",
+      "answer_index": 1,
+      "en": {
+        "question": "What brought down Serbia's Aleksandar Vučić after 12 years in power?",
+        "options": [
+          "A military coup backed by the European Union",
+          "A student-led protest movement that grew out of anger over a deadly, corruption-linked building collapse",
+          "Direct economic sanctions imposed by Russia",
+          "A court ruling that disqualified his party from running"
+        ],
+        "explanation": "A railway-station canopy collapse exposed corruption and sparked student-led protests that turned into the Student List coalition, which won the election outright."
+      },
+      "he": {
+        "question": "מה הביא לנפילתו של אלכסנדר וושיץ' בסרביה אחרי 12 שנות שלטון?",
+        "options": [
+          "הפיכה צבאית בגיבוי האיחוד האירופי",
+          "תנועת מחאה בהנהגת סטודנטים שצמחה מכעס על קריסת מבנה קטלנית הקשורה לשחיתות",
+          "סנקציות כלכליות ישירות שהטילה רוסיה",
+          "פסיקת בית משפט שפסלה את מפלגתו מהתמודדות"
+        ],
+        "explanation": "קריסת גגון בתחנת רכבת חשפה שחיתות ועוררה מחאת סטודנטים שהתגלגלה לקואליציית 'רשימת הסטודנטים', שניצחה בבחירות בבירור."
+      }
+    },
+    {
+      "id": "q2-ai-concentration",
+      "section": "business",
+      "story_id": "ai-chip-earnings-concentration",
+      "answer_index": 2,
+      "en": {
+        "question": "What's the real risk for someone who owns a broad S&P 500 index fund, given that Nvidia and Micron alone drive about a third of US corporate earnings growth right now?",
+        "options": [
+          "The index no longer includes any technology companies",
+          "Index funds are now legally required to hold more cash",
+          "They are effectively making an outsized bet on a handful of AI-infrastructure companies, not getting the diversified exposure the index's name implies",
+          "Their fund automatically short-sells any underperforming AI stock"
+        ],
+        "explanation": "When earnings growth is this concentrated, a disappointment at just one or two of those companies can move the whole index far more than their official weighting would suggest."
+      },
+      "he": {
+        "question": "מה הסיכון האמיתי למישהו שמחזיק בקרן מחקה מדד S&P 500 רחבה, בהתחשב בכך שאנבידיה ומיקרון לבדן מניבות כשליש מצמיחת הרווחים של החברות האמריקאיות כרגע?",
+        "options": [
+          "המדד כבר לא כולל חברות טכנולוגיה כלשהן",
+          "קרנות מחקות מדד מחויבות כעת חוקית להחזיק יותר מזומן",
+          "הם בפועל עושים התערבות מוגדלת על קבוצה קטנה של חברות תשתית AI, ולא מקבלים את החשיפה המפוזרת שהשם של המדד מרמז עליה",
+          "הקרן שלהם מוכרת אוטומטית בחסר כל מניית AI עם ביצועים חלשים"
+        ],
+        "explanation": "כשצמיחת הרווחים מרוכזת כך, אכזבה מצד חברה אחת או שתיים יכולה להזיז את המדד כולו הרבה יותר ממה שהמשקל הרשמי שלהן היה מרמז."
+      }
+    },
+    {
+      "id": "q3-netanyahu-iran",
+      "section": "israeli_politics",
+      "story_id": "netanyahu-idf-iran-rift",
+      "answer_index": 0,
+      "en": {
+        "question": "What is at the center of the reported clash between Netanyahu and the IDF over Iran, two days before Israel's election?",
+        "options": [
+          "The army objects to acting now, partly over concern that a strike so close to the vote could affect the election itself",
+          "The IDF wants to strike immediately but Netanyahu is refusing out of caution",
+          "The dispute is purely over which weapons systems to use",
+          "The army has publicly confirmed Iran rebuilt its nuclear program"
+        ],
+        "explanation": "Reports described IDF reservations rooted in disagreement over urgency and concern that a strike could influence the election, even its timing, while Netanyahu's own rhetoric on the Iranian threat has sharply escalated."
+      },
+      "he": {
+        "question": "מה עומד במרכז העימות המדווח בין נתניהו לצה\"ל בנוגע לאיראן, יומיים לפני הבחירות בישראל?",
+        "options": [
+          "הצבא מתנגד לפעול כעת, בין היתר מחשש שתקיפה בסמיכות כזו לבחירות תשפיע על ההצבעה עצמה",
+          "צה\"ל רוצה לתקוף באופן מיידי אך נתניהו מסרב מתוך זהירות",
+          "המחלוקת היא אך ורק על מערכות הנשק שבהן להשתמש",
+          "הצבא אישר בפומבי שאיראן שיחזרה את תוכנית הגרעין שלה"
+        ],
+        "explanation": "דיווחים תיארו הסתייגויות בצה\"ל שמקורן במחלוקת על מידת הדחיפות ובחשש שתקיפה תשפיע על הבחירות, אף על מועדן, בעוד הרטוריקה של נתניהו עצמו על האיום האיראני הסלימה בחדות."
+      }
+    }
+  ]
+}
