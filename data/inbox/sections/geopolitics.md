@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Brazil - AP News",
-     "published": "2026-10-26T08:01:17+00:00",
-     "summary": "Brazil AP News"
+     "title": "2026 World Cup schedule and results - AP News",
+     "published": "2026-10-26T08:39:23+00:00",
+     "summary": "2026 World Cup schedule and results AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-26T08:35:35+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-10-26T08:35:35+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
+     "published": "2026-10-26T08:33:21+00:00",
+     "summary": "Weather, Hurricanes and Storms | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Auto Racing - AP News",
+     "published": "2026-10-26T08:33:21+00:00",
+     "summary": "Auto Racing AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Protests and demonstrations - AP News",
+     "published": "2026-10-26T08:31:39+00:00",
+     "summary": "Protests and demonstrations AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Brazil - AP News",
+     "published": "2026-10-26T08:31:38+00:00",
+     "summary": "Brazil AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "South America - AP News",
+     "published": "2026-10-26T08:30:05+00:00",
+     "summary": "South America AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Crime - AP News",
+     "published": "2026-10-26T08:30:03+00:00",
+     "summary": "Crime AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-26T08:25:35+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Golf - AP News",
+     "published": "2026-10-26T08:19:53+00:00",
+     "summary": "Golf AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "College sports - AP News",
+     "published": "2026-10-26T08:17:49+00:00",
+     "summary": "College sports AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+     "published": "2026-10-26T08:01:17+00:00",
+     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "Women’s sports - AP News",
      "published": "2026-10-26T08:01:15+00:00",
      "summary": "Women’s sports AP News"
     },
     {
-     "ref": "ap_world#2",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-26T07:59:26+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#3",
+     "ref": "ap_world#14",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-10-26T07:57:19+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#15",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-10-26T07:57:18+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#16",
      "title": "Soccer - AP News",
      "published": "2026-10-26T07:55:17+00:00",
      "summary": "Soccer AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#17",
      "title": "War and unrest - AP News",
      "published": "2026-10-26T07:45:21+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#18",
      "title": "Minnesota - AP News",
      "published": "2026-10-26T07:43:19+00:00",
      "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#19",
      "title": "New York City - AP News",
      "published": "2026-10-26T07:43:18+00:00",
      "summary": "New York City AP News"
     },
     {
-     "ref": "ap_world#9",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-26T07:39:24+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
+     "ref": "ap_world#20",
+     "title": "Delegations meeting in Tehran with region on edge over potential for renewed fighting - AP News",
+     "published": "2026-10-26T07:20:00+00:00",
+     "summary": "Delegations meeting in Tehran with region on edge over potential for renewed fighting AP News"
     },
     {
-     "ref": "ap_world#10",
-     "title": "2026 World Cup schedule and results - AP News",
-     "published": "2026-10-26T07:39:22+00:00",
-     "summary": "2026 World Cup schedule and results AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "Auto Racing - AP News",
-     "published": "2026-10-26T07:33:25+00:00",
-     "summary": "Auto Racing AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "South America - AP News",
-     "published": "2026-10-26T07:29:17+00:00",
-     "summary": "South America AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Domestic News - AP News",
-     "published": "2026-10-26T07:29:17+00:00",
-     "summary": "Domestic News AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Crime - AP News",
-     "published": "2026-10-26T07:29:16+00:00",
-     "summary": "Crime AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Golf - AP News",
-     "published": "2026-10-26T07:20:22+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "College sports - AP News",
-     "published": "2026-10-26T07:17:08+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Accidents - AP News",
-     "published": "2026-10-26T07:16:12+00:00",
-     "summary": "Accidents AP News"
-    },
-    {
-     "ref": "ap_world#18",
+     "ref": "ap_world#21",
      "title": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results - AP News",
      "published": "2026-10-26T06:56:00+00:00",
      "summary": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#22",
      "title": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo - AP News",
      "published": "2026-10-26T06:30:00+00:00",
      "summary": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#23",
      "title": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu - AP News",
      "published": "2026-10-26T05:31:17+00:00",
      "summary": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#24",
      "title": "Australian Parliament pays tribute to injured lawmaker as it resumes work under increased security - AP News",
      "published": "2026-10-26T05:15:52+00:00",
      "summary": "Australian Parliament pays tribute to injured lawmaker as it resumes work under increased security AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-26T05:06:41+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-     "published": "2026-10-26T05:03:13+00:00",
-     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "‘Picasso of Pumpkin Carvers’ brings artistry to a Halloween tradition - AP News",
-     "published": "2026-10-26T05:03:00+00:00",
-     "summary": "‘Picasso of Pumpkin Carvers’ brings artistry to a Halloween tradition AP News"
     }
    ]
   },
@@ -216,7 +216,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#7",
-     "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+     "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
      "published": "2026-10-25T23:44:34+00:00",
      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts."
     },
@@ -306,21 +306,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#22",
-     "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-     "published": "2026-10-24T23:03:09+00:00",
-     "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy."
-    },
-    {
-     "ref": "bbc_world#23",
      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
      "published": "2026-10-24T23:02:51+00:00",
      "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward."
     },
     {
-     "ref": "bbc_world#24",
+     "ref": "bbc_world#23",
      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
      "published": "2026-10-24T19:37:35+00:00",
      "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall."
+    },
+    {
+     "ref": "bbc_world#24",
+     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+     "published": "2026-10-24T19:12:51+00:00",
+     "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
     }
    ]
   },
@@ -438,153 +438,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Middle East markets rebound as diplomacy fuels hopes of easing Iran hostilities - Reuters",
+     "published": "2026-10-26T08:33:44+00:00",
+     "summary": "Middle East markets rebound as diplomacy fuels hopes of easing Iran hostilities Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Asia-focused banks face capital squeeze due to inflation, bond turbulence - Reuters",
+     "published": "2026-10-26T08:25:44+00:00",
+     "summary": "Asia-focused banks face capital squeeze due to inflation, bond turbulence Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "UK to set out path to NATO target in Wednesday's budget, PM says - Reuters",
+     "published": "2026-10-26T08:20:38+00:00",
+     "summary": "UK to set out path to NATO target in Wednesday's budget, PM says Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "IDG leads race for ASMPT's SMT unit valued at over $1 billion, sources say - Reuters",
+     "published": "2026-10-26T08:08:41+00:00",
+     "summary": "IDG leads race for ASMPT's SMT unit valued at over $1 billion, sources say Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Hong Kong looks to profit from Halloween ghosts and zombies during longer festivities - Reuters",
+     "published": "2026-10-26T08:03:44+00:00",
+     "summary": "Hong Kong looks to profit from Halloween ghosts and zombies during longer festivities Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
+     "title": "Indonesia energy minister to visit China, India to ensure gasoline supply - Reuters",
+     "published": "2026-10-26T07:56:43+00:00",
+     "summary": "Indonesia energy minister to visit China, India to ensure gasoline supply Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
+     "title": "Sumitomo Life to remain cautious on JGB yields, keep investment pace unchanged from H1 - Reuters",
+     "published": "2026-10-26T07:55:43+00:00",
+     "summary": "Sumitomo Life to remain cautious on JGB yields, keep investment pace unchanged from H1 Reuters"
+    },
+    {
+     "ref": "reuters_world#7",
      "title": "Bulgaria heads to presidential runoff after close vote - Reuters",
      "published": "2026-10-26T07:53:43+00:00",
      "summary": "Bulgaria heads to presidential runoff after close vote Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#8",
      "title": "UK's Burnham says he agrees with principle of migration reform - Reuters",
      "published": "2026-10-26T07:46:08+00:00",
      "summary": "UK's Burnham says he agrees with principle of migration reform Reuters"
     },
     {
-     "ref": "reuters_world#2",
-     "title": "UK to set out path to NATO spending target in Wednesday's budget - Reuters",
-     "published": "2026-10-26T07:45:43+00:00",
-     "summary": "UK to set out path to NATO spending target in Wednesday's budget Reuters"
-    },
-    {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#9",
      "title": "Airtel Money reports 25% growth in first-half revenue in maiden results - Reuters",
      "published": "2026-10-26T07:38:41+00:00",
      "summary": "Airtel Money reports 25% growth in first-half revenue in maiden results Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#10",
+     "title": "UK's Man Group deepens Meiji Yasuda tie-up with $1.28 bln commitment, potential 5% stake - Reuters",
+     "published": "2026-10-26T07:36:56+00:00",
+     "summary": "UK's Man Group deepens Meiji Yasuda tie-up with $1.28 bln commitment, potential 5% stake Reuters"
+    },
+    {
+     "ref": "reuters_world#11",
      "title": "Mindful of the markets, UK's Healey is set to deliver a careful budget - Reuters",
      "published": "2026-10-26T07:22:46+00:00",
      "summary": "Mindful of the markets, UK's Healey is set to deliver a careful budget Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#12",
      "title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win - Reuters",
      "published": "2026-10-26T07:18:59+00:00",
      "summary": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#13",
      "title": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML - Reuters",
      "published": "2026-10-26T07:16:35+00:00",
      "summary": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#14",
      "title": "Indian opposition leader Rahul Gandhi acquitted in defamation case, TV channels report - Reuters",
      "published": "2026-10-26T07:09:43+00:00",
      "summary": "Indian opposition leader Rahul Gandhi acquitted in defamation case, TV channels report Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#15",
      "title": "Philippines defends bounty for fugitive senator wanted by ICC - Reuters",
      "published": "2026-10-26T07:06:58+00:00",
      "summary": "Philippines defends bounty for fugitive senator wanted by ICC Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#16",
      "title": "Drone attack on Russia's Voronezh region kills two men, governor says - Reuters",
      "published": "2026-10-26T06:45:00+00:00",
      "summary": "Drone attack on Russia's Voronezh region kills two men, governor says Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#17",
      "title": "South African rand steady with local economic data, Fed decision in focus - Reuters",
      "published": "2026-10-26T06:14:00+00:00",
      "summary": "South African rand steady with local economic data, Fed decision in focus Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#18",
      "title": "Who are the leading candidates in Israel's election? - Reuters",
      "published": "2026-10-26T06:02:00+00:00",
      "summary": "Who are the leading candidates in Israel's election? Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#19",
      "title": "Gold gains on softer oil prices; Fed decision in focus - Reuters",
      "published": "2026-10-26T05:56:00+00:00",
      "summary": "Gold gains on softer oil prices; Fed decision in focus Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#20",
      "title": "South Korea's Lee says unlikely to join Pacific trade pact within his term - Reuters",
      "published": "2026-10-26T05:52:00+00:00",
      "summary": "South Korea's Lee says unlikely to join Pacific trade pact within his term Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#21",
      "title": "Six injured in Russian strikes on Ukraine's Zaporizhzhia, Chernihiv, officials say - Reuters",
      "published": "2026-10-26T05:32:00+00:00",
      "summary": "Six injured in Russian strikes on Ukraine's Zaporizhzhia, Chernihiv, officials say Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#22",
      "title": "Yasuo Fukuda, Japan's first second-generation prime minister, dies at 90, Nikkei reports - Reuters",
      "published": "2026-10-26T05:26:00+00:00",
      "summary": "Yasuo Fukuda, Japan's first second-generation prime minister, dies at 90, Nikkei reports Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#23",
      "title": "South Africa's Pick n Pay narrows first-half loss as turnaround gains traction - Reuters",
      "published": "2026-10-26T05:19:00+00:00",
      "summary": "South Africa's Pick n Pay narrows first-half loss as turnaround gains traction Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#24",
      "title": "Down by the River Thames, a failure to build holds back Britain's growth - Reuters",
      "published": "2026-10-26T05:03:00+00:00",
      "summary": "Down by the River Thames, a failure to build holds back Britain's growth Reuters"
-    },
-    {
-     "ref": "reuters_world#18",
-     "title": "Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI - Reuters",
-     "published": "2026-10-26T04:16:00+00:00",
-     "summary": "Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI Reuters"
-    },
-    {
-     "ref": "reuters_world#19",
-     "title": "India's Shriram Finance hits 11-month low as growth outlook cut, credit costs weigh - Reuters",
-     "published": "2026-10-26T04:15:00+00:00",
-     "summary": "India's Shriram Finance hits 11-month low as growth outlook cut, credit costs weigh Reuters"
-    },
-    {
-     "ref": "reuters_world#20",
-     "title": "India's Infosys falls after revenue growth view cut flags AI, competitive pressures - Reuters",
-     "published": "2026-10-26T03:50:00+00:00",
-     "summary": "India's Infosys falls after revenue growth view cut flags AI, competitive pressures Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies - Reuters",
-     "published": "2026-10-26T03:48:00+00:00",
-     "summary": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "China's yuan climbs to fresh 4-year high ahead of key policy meetings - Reuters",
-     "published": "2026-10-26T03:39:00+00:00",
-     "summary": "China's yuan climbs to fresh 4-year high ahead of key policy meetings Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Jordan arrests three suspects in deadly church attack, state media says - Reuters",
-     "published": "2026-10-26T03:35:00+00:00",
-     "summary": "Jordan arrests three suspects in deadly church attack, state media says Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Bank of Japan's hawkish pause to leave scope for December hike - Reuters",
-     "published": "2026-10-26T03:33:00+00:00",
-     "summary": "Bank of Japan's hawkish pause to leave scope for December hike Reuters"
     }
    ]
   }

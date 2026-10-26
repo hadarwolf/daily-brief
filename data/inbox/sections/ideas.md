@@ -224,12 +224,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Protecting Americans from Medicine",
      "published": "2026-10-23T11:14:10+00:00",
      "summary": "Max Doppelt: In January 2025 my mom’s lung cancer spread to her brain. The drug with the best chance of helping her was approved in China but not here. A doctor told me, almost as an aside, that if she were Chinese she could buy it at a pharmacy. So I flew to Shanghai and […] The post Protecting Americans from Medicine appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Podcast with Rabbi David Wolpe",
-     "published": "2026-10-23T07:38:28+00:00",
-     "summary": "Here is their episode summary: Economist Tyler Cowen joins David Wolpe for a conversation about AI, religion, and what makes us human. Tyler makes the case that AI’s biggest impact may be on status: who gains it, who loses it, and what happens to experts like rabbis when anyone can ask ChatGPT all their questions. […] The post Podcast with Rabbi David Wolpe appeared first on Marginal REVOLUTION ."
     }
    ]
   },
