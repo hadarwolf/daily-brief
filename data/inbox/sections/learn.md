@@ -115,7 +115,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1871,
    "text": "Liberian president Edward James Roye (pictured) was overthrown in modern Africa's first coup d'état.",
    "context": [
-    "Edward James Roye was a Liberian merchant and politician who served as the fifth president of Liberia from 1870 until his overthrow in the 1871 Liberian coup d'état and subsequent death. He had previously served as the fourth Chief Justice of Liberia from 1865 until 1868. He was the first member of Liberia's True Whig Party to serve as president."
+    "Edward James Roye was an Americo-Liberian merchant and politician who served as the fifth president of Liberia from 1870 until his overthrow in the 1871 Liberian coup d'état and subsequent death. He had previously served as the fourth Chief Justice of Liberia from 1865 until 1868. He was the first member of Liberia's True Whig Party to serve as president."
    ]
   },
   {
