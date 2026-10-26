@@ -24,134 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2022,
-   "text": "At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdom.",
+   "year": 2004,
+   "text": "Rockstar Games released Grand Theft Auto: San Andreas, considered one of the best video games ever made, in North America.",
    "context": [
-    "Mary Elizabeth Truss is a British politician who was Prime Minister of the United Kingdom and Leader of the Conservative Party from September to October 2022. On her fiftieth day in office, she stepped down amid a government crisis, making her the shortest-serving prime minister in British history. The member of Parliament (MP) for South West Norfolk from 2010 to 2024, Truss held various Cabinet positions under three prime ministers – David Cameron, Theresa May and Boris Johnson – lastly as foreign secretary from 2021 to 2022."
+    "Rockstar Games, Inc. is an American video game publisher based in New York City. The company was established in December 1998 as a subsidiary of Take-Two Interactive, using the assets Take-Two had previously acquired from BMG Interactive. Founding members of the company were Terry Donovan, Gary Foreman, Dan and Sam Houser, and Jamie King, who worked for Take-Two at the time, and of which the Houser brothers were previously executives at BMG Interactive. Sam Houser heads the studio as president."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2010,
-   "text": "Mount Merapi in Central Java, Indonesia, began an increasingly violent series of eruptions that lasted over a month.",
+   "year": 2001,
+   "text": "President George W. Bush signed the Patriot Act into law, significantly expanding the authority of United States law enforcement agencies.",
    "context": [
-    "Mount Merapi is an active stratovolcano located on the border between the province of Central Java and the Special Region of Yogyakarta, Indonesia. It is the most active volcano in Indonesia and has erupted regularly since 1548. It is located approximately 28 km (17 mi) north of Yogyakarta city which has a population of 2.4 million. Thousands of people live on the flanks of the volcano, with villages as high as 1,700 m (5,577 ft) above sea level."
+    "George Walker Bush is an American former politician, businessman, and U.S. Air Force veteran who served as the 43rd president of the United States from 2001 to 2009. A member of the Republican Party, he served as the 46th governor of Texas from 1995 to 2000. He is the eldest son of George H. W. Bush, the 41st president of the United States."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2001,
-   "text": "Windows XP, one of the most popular and widely used versions of the Microsoft Windows operating system, was released for retail sale.",
+   "year": 2000,
+   "text": "Following protests against military leader Robert Guéï, Laurent Gbagbo (pictured) became the president of Ivory Coast.",
    "context": [
-    "Windows XP is a major release of Microsoft's Windows NT operating system. It was released to manufacturing on August 24, 2001, and later to retail on October 25 that year. It is a direct successor to Windows 2000 for high-end and business users and Windows Me for home users."
+    "Robert Guéï was an Ivorian politician who served as the third president of the Ivory Coast from 24 December 1999 to 26 October 2000. He succeeded President Henri Konan Bédié after the 1999 Ivorian coup d'état and lost to Laurent Gbagbo in the ensuing 2000 Ivorian presidential election. Guéï, his wife Rose Doudou Guéï, and his children were killed on 19 September 2002 on the first day of the First Ivorian Civil War."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1950,
-   "text": "The People's Volunteer Army ambushed the South Korean II Corps at the Battle of Onjong, and elsewhere engaged the 1st Infantry Division at the Battle of Unsan, marking China's entry into the Korean War.",
+   "year": 1994,
+   "text": "Israel and Jordan signed a peace treaty, settling relations between the two countries and pledging that neither would allow its territory to become a staging ground for military strikes by a third country.",
    "context": [
-    "The People's Volunteer Army (PVA), officially the Chinese People's Volunteers (CPV), was the designation for the Chinese communist contingent of armed expeditionary forces deployed by the People's Republic of China during the Korean War. Although all units in the PVA were actually transferred from the People's Liberation Army (PLA) under the orders of Chairman Mao Zedong, the PVA was separately constituted in order to prevent an official war with the United States. The PVA entered Korea on 19 October 1950 and completely withdrew by October 1958. The nominal commander and political commissar of the PVA was Peng Dehuai before the ceasefire agreement in 1953, although both Chen Geng and Deng Hua served as the acting commander and commissar after April 1952 following Peng's illness. The initial units in the PVA included 38th, 39th, 40th, 42nd, 50th, 66th Corps; totalling 250,000 men. About 3 million Chinese civilian and military personnel had served in Korea throughout the war."
+    "The Israel–Jordan peace treaty, sometimes referred to as the Wadi Araba Treaty, is an agreement that ended the state of war that had existed between the two countries since the 1948 Arab–Israeli War and established mutual diplomatic relations. In addition to establishing peace between the two countries, the treaty also settled land and water disputes, provided for broad cooperation in tourism and trade, and obligated both countries to prevent their territory being used as a staging ground for military strikes by a third country."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1944,
-   "text": "Heinrich Himmler ordered a crackdown on the Edelweiss Pirates, a nonconformist youth group that assisted army deserters and others hiding from the Nazis.",
+   "year": 1977,
+   "text": "Somali hospital cook Ali Maow Maalin began displaying symptoms of smallpox, becoming the last person known to be naturally infected by the disease.",
    "context": [
-    "Heinrich Luitpold Himmler was a German Nazi politician, police administrator, and military leader. He was the fourth and longest-serving Reichsführer of the Schutzstaffel, serving from 1929 to 1945. He was a leading member of the Nazi Party and one of the most powerful figures in Nazi Germany. He was also one of the main architects of the Holocaust, the genocide of European Jews during World War II."
+    "Ali Maow Maalin was a Somali hospital cook and health worker from Merca who is the last person known to have been infected with naturally occurring Variola minor smallpox. The disease was diagnosed in October 1977 and Maalin made a full recovery. Although he had many contacts, none of them developed the disease, and an aggressive containment campaign was successful in preventing an outbreak. Smallpox was declared to have been eradicated globally by the World Health Organization (WHO) two years later. Maalin was subsequently involved in the successful poliomyelitis eradication campaign in Somalia, and he died of malaria while carrying out polio vaccinations after the re-emergence of the poliovirus in 2013."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1944,
-   "text": "USS Tang, the U.S. Navy submarine credited with sinking more ships than any other American submarine, sank when it was struck by its own torpedo.",
+   "year": 1955,
+   "text": "Ngô Đình Diệm proclaimed himself president of the newly created Republic of Vietnam after defeating former emperor Bảo Đại in a fraudulent referendum supervised by his brother Ngô Đình Nhu.",
    "context": [
-    "USS Tang was a Balao-class submarine of World War II, the first ship of the United States Navy to bear the name Tang. She was built and launched in 1943, serving until being sunk by her own torpedo off China in the Taiwan Strait on 24 October 1944."
+    "Ngô Đình Diệm was a South Vietnamese politician. He was the final prime minister of the State of Vietnam (1954–1955), and later the first president of South Vietnam from 1955 until his capture and assassination during the CIA-backed 1963 coup d'état."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1929,
-   "text": "Hundreds of students at Armstrong College in Newcastle, England, tarred and feathered Statue of Industry (pictured), a sculpture by Herbert Maryon.",
+   "year": 1921,
+   "text": "The Chicago Theatre (pictured), the oldest surviving grand movie palace, opened.",
    "context": [
-    "The Colleges of Durham University are residential colleges that are the primary source of accommodation and support services for undergraduates and postgraduates at Durham University, as well as providing a focus for social, cultural and sporting life for their members, and offering bursaries and scholarships to students. They also provide funding and/or accommodation for some of the research posts in the University. All students at the University are required to be members of one of the colleges."
+    "The Chicago Theatre, originally known as the Balaban and Katz Chicago Theatre, is a theater on North State Street in the Loop area of Chicago, Illinois. Built in 1921, the Chicago Theatre was the flagship for the Balaban and Katz (B&K) group of theaters run by A. J. Balaban, his brother Barney Balaban and partner Sam Katz. Along with the other B&K theaters, from 1925 to 1945 the Chicago Theatre was a dominant movie theater enterprise. Currently, Madison Square Garden, Inc. owns and operates the Chicago Theatre as a 3600 seat performing arts venue for stage plays, magic shows, comedy, speeches, sporting events and popular music concerts."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1927,
-   "text": "The Italian cruise liner SS Principessa Mafalda sank when a propeller shaft broke and fractured the hull, resulting in 314 deaths.",
+   "year": 1906,
+   "text": "The Illinois Memorial, honoring Union army soldiers from Illinois who fought at the Siege of Vicksburg, was dedicated at Vicksburg National Military Park.",
    "context": [
-    "SS Principessa Mafalda was an Italian transatlantic ocean liner built for the Navigazione Generale Italiana (NGI) company. Named after Princess Mafalda of Savoy, second daughter of King Victor Emmanuel III, the ship was completed and entered NGI's South American service between Genoa and Buenos Aires in 1909. Her sister ship SS Principessa Jolanda sank immediately upon launching on 22 September 1907."
+    "The Illinois Memorial is a public memorial located at Vicksburg National Military Park in Vicksburg, Mississippi, United States. Dedicated in 1906, it honors the Union Army soldiers from Illinois who fought in the siege of Vicksburg during the Vicksburg campaign of the American Civil War. It was designed by architect William Le Baron Jenney and sculptor Charles Mulligan."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1924,
-   "text": "The Daily Mail published the Zinoviev letter, a hoax purported to be a directive from Moscow to increase communist agitation.",
+   "year": 1905,
+   "text": "The Saint Petersburg Soviet held its first meeting, becoming the first elected body in Russia to represent workers.",
    "context": [
-    "The Daily Mail, often known simply as the Mail, is a British daily middle-market tabloid-size conservative newspaper founded in 1896 and published in London. Its sister paper The Mail on Sunday was launched in 1982, a Scottish edition was launched in 1947, and an Irish edition in 2006. Content from the paper appears on the MailOnline news website, although the website is managed separately and has its own editor."
+    "The Petersburg Soviet of Workers' Delegates was a workers' council, or soviet, in Saint Petersburg in 1905."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1920,
-   "text": "Irish playwright and politician Terence MacSwiney died after a hunger strike in Brixton Prison, bringing the Irish struggle for independence to international attention.",
+   "year": 1902,
+   "text": "A group of Russian explorers led by Baron von Toll left their camp on Bennett Island and disappeared without a trace.",
    "context": [
-    "Terence James MacSwiney was an Irish playwright, author and politician. He was elected as Sinn Féin Lord Mayor of Cork during the Irish War of Independence in 1920. He was arrested by the British Government on charges of sedition and imprisoned in Brixton Prison. His death there in October 1920 after 74 days on hunger strike brought him and the Irish Republican campaign to international attention."
+    "Eduard Gustav Freiherr von Toll, also known as Baron von Toll, was a Russian geologist and Arctic explorer of Baltic German descent. He led the Russian polar expedition of 1900–1902 in search of the legendary Sannikov Land, a phantom island purported to lie off Russia's Arctic coast. During the expedition, Toll and a small party of explorers disappeared from Bennett Island, and their fate remains unknown to this day."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1864,
-   "text": "American Civil War: During Price's Missouri Expedition, Union troops defeated Sterling Price's Confederate army in three successive battles: Marais des Cygnes, Mine Creek, and Marmiton River.",
+   "year": 1892,
+   "text": "Ida B. Wells (pictured) began publishing her research on lynching in the United States, for which she was posthumously awarded a Pulitzer Prize in 2020.",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "Ida Bell Wells-Barnett was an American investigative journalist, sociologist, educator, and early leader in the civil rights movement. She was one of the founders of the National Association for the Advancement of Colored People (NAACP). Wells dedicated her career to combating prejudice and violence, and advocating for African-American equality—especially for women."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1854,
-   "text": "Crimean War: The ill-fated Charge of the Light Brigade was decisively repelled by Russian forces during the Battle of Balaclava.",
+   "year": 1871,
+   "text": "Liberian president Edward James Roye (pictured) was overthrown in modern Africa's first coup d'état.",
    "context": [
-    "The Crimean War was fought between Russia and an alliance of the Ottoman Empire, France, the United Kingdom, and Sardinia from October 1853 to February 1856. Geopolitical causes of the war included the Eastern question, the expansion of Russia in the preceding Russo-Turkish wars, and the British and French preference to preserve the Ottoman Empire to maintain the balance of power in the Concert of Europe."
+    "Edward James Roye was a Liberian merchant and politician who served as the fifth president of Liberia from 1870 until his overthrow in the 1871 Liberian coup d'état and subsequent death. He had previously served as the fourth Chief Justice of Liberia from 1865 until 1868. He was the first member of Liberia's True Whig Party to serve as president."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1760,
-   "text": "George III became King of Great Britain and Ireland, succeeding his grandfather George II.",
+   "year": 1863,
+   "text": "The Football Association, world's first governing body of association football, was founded in London.",
    "context": [
-    "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover."
+    "The Football Association is the governing body of association football in England and the Crown Dependencies of Jersey, Guernsey and the Isle of Man. Formed in 1863, it is the oldest football association in the world and is responsible for overseeing all aspects of the amateur and professional game in its territory."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1616,
-   "text": "Dutch explorer Dirk Hartog left a plate on an island in Shark Bay, the oldest-known artefact of European exploration in Australia still in existence.",
+   "year": 1813,
+   "text": "War of 1812: British forces and Mohawk allies under Charles de Salaberry repulsed an American attempt to invade Canada.",
    "context": [
-    "Dirk Hartog was a 17th-century Dutch mariner and explorer. Dirk Hartog's expedition was the second European group to land in Australia and the first to leave behind an artefact to record his visit, the Hartog Plate. His name is sometimes alternatively spelled Dirck Hartog or Dierick Hartochsz. Explorer Ernest Giles referred to him as Theodoric Hartog. The Western Australian island Dirk Hartog Island is named after Hartog."
+    "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Senate on 17 February 1815."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1415,
-   "text": "Hundred Years' War: The army of Henry V of England, consisting mostly of archers, unexpectedly defeated the numerically superior French cavalry at the Battle of Agincourt (pictured) on Saint Crispin's Day.",
+   "year": 1597,
+   "text": "Imjin War: Thirteen Korean ships commanded by Admiral Yi Sun-sin defeated a far larger Japanese invading fleet at the Battle of Myeongnyang in the Myeongnyang Strait.",
    "context": [
-    "The Hundred Years' War was a series of conflicts between the kingdoms of England and France and a civil war in France during the late Middle Ages. It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving different factions from across Western Europe, fueled by emerging nationalism on both sides. The periodization of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces."
+    "The Imjin War was a series of two Japanese invasions of Korea: an initial invasion in 1592 also individually called the \"Imjin War\", a brief truce in 1596 between the conflicts, followed by a second invasion in 1597 called the Chŏngyu War. The conflict ended in 1598 with the withdrawal of Japanese forces from the Korean Peninsula after a military stalemate in Korea's southern provinces."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1147,
-   "text": "Reconquista: Forces under Afonso I of Portugal captured Lisbon from the Moors after a four-month siege  in one of the few Christian victories during the Second Crusade.",
+   "year": 1520,
+   "text": "Charles V was crowned as Holy Roman Emperor.",
    "context": [
-    "The Reconquista or the fall of al-Andalus was a series of military campaigns by northern Iberian Christian polities against Muslim-ruled al-Andalus, which had been part of the Visigothic Kingdom before the Muslim Conquest of 711. The Reconquista concluded in 1492 with the capture of Granada by the Catholic Monarchs of Spain, thereby ending the presence of any Muslim rule on the Iberian Peninsula."
+    "Charles V was Holy Roman Emperor and Archduke of Austria from 1519 to 1556, King of Spain from 1516 to 1556, King of Sicily and Naples from 1516 to 1554, and also Lord of the Netherlands and titular Duke of Burgundy from 1506 to 1555. He was heir to and then head of the rising House of Habsburg. His dominions in Europe included the Holy Roman Empire, extending from Germany to northern Italy with rule over the Austrian hereditary lands and Burgundian Low Countries, and Spain with its possessions of the southern Italian kingdoms of Sicily, Naples, and Sardinia. In the Americas, he oversaw the continuation of Spanish colonisation and a short-lived German colonisation. The personal union of the European and American territories he ruled was the first collection of realms labelled \"the empire on which the sun never sets\"."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1341,
+   "text": "The Byzantine army proclaimed chief minister John VI Kantakouzenos as emperor, triggering a civil war between his supporters and those of John V Palaiologos, the heir to the throne.",
+   "context": [
+    "The Byzantine Empire, also known as the Eastern Roman Empire, was the continuation of the Eastern part of the Roman Empire centred on Constantinople during late antiquity and the Middle Ages. Having survived the fall of the Western Roman Empire in the 5th century AD, it endured until the fall of Constantinople to the Ottoman Empire in 1453. The term 'Byzantine Empire' was coined only after its demise; its citizens used the term 'Roman Empire' and called themselves 'Romans'."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Shadow banking (בנקאות צל)",
+  "Talk your book (לדבר לטובת הפוזיציה שלך)",
+  "Picking up pennies in front of a steamroller (ללקט אגורות לפני מכבש)",
   "Opex (הוצאות תפעוליות)",
   "Due diligence (בדיקת נאותות)",
   "Dead cat bounce (קפיצת החתול המת)",

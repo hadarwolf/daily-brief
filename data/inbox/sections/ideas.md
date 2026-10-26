@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -30,8 +30,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#0",
      "title": "Traction!",
      "published": "2026-10-23T10:00:00+00:00",
-     "summary": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on Aeon",
-     "full_text_file": "essays/aeon_0.txt"
+     "summary": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on Aeon"
     },
     {
      "ref": "aeon#1",
@@ -119,21 +118,22 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "lesswrong_curated#0",
+     "title": "I Did This Without Your Knowledge",
+     "published": "2026-10-25T20:51:57+00:00",
+     "summary": "It was fortunate that I was the first one to wake up on 8/1. The past week had been one where sleep was rare. The next year loomed large — I was dreading college applications. The stress woke me up bright and early at 5:14 AM, a little less than an hour after the messages were sent. I started off the day with a habit I knew I needed to break. I grabbed my phone off the nightstand to open up Reddit",
+     "full_text_file": "essays/lesswrong_curated_0.txt"
+    },
+    {
+     "ref": "lesswrong_curated#1",
      "title": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
      "published": "2026-10-20T20:26:31+00:00",
      "summary": "Authors: Axel Højmark*, Ezra Newman* (*Equal contribution) While reviewing transcripts from standard behavioral evaluations of GLM-5.3, we noticed that the model occasionally reasons, unprompted, about how its actions will shape future models. It appears to consider that its outputs might be used for supervised fine-tuning (SFT), reinforcement learning (RL), or other forms of training, and that th"
     },
     {
-     "ref": "lesswrong_curated#1",
+     "ref": "lesswrong_curated#2",
      "title": "Cat-Belling Problems",
      "published": "2026-10-15T02:32:11+00:00",
      "summary": "(Originally mainly drafted in 2021, just now completed and published. Today the discussion around AI may now seem odd; it is written for a time when people were still trying to solve what would now be called \"superalignment\" with clever plans they'd invented themselves, rather than saying, \"Oh, we will ask Fable to solve it.\") === This is an essay about a children's fable I read a long time ago, a"
-    },
-    {
-     "ref": "lesswrong_curated#2",
-     "title": "A critical look at Lean4",
-     "published": "2026-10-11T18:34:40+00:00",
-     "summary": "Lots of the discussion around Lean certificates and trust centers around general philosophical ideas of how much humans should trust formal certificates. It's important to remember, though, that Lean4 is not an ideal formal certificate machine: Lean4 is a software in its infancy and has issues. There are reasonable reasons to specifically not trust Lean4. If we're going to be putting our society's"
     }
    ]
   },
@@ -143,93 +143,87 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Sunday assorted links",
+     "published": "2026-10-25T15:42:58+00:00",
+     "summary": "1. A safe harbor for open source? 2. False but interesting claims about economic growth. 3. “In a calibrated model of the welfare effects of the estimated impacts of the Great Recession on consumption and mortality, we find that the welfare gain from the estimated mortality decline is quantitatively significant relative to the welfare loss […] The post Sunday assorted links appeared first on Margi"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "The Panic Patrol",
+     "published": "2026-10-25T11:15:45+00:00",
+     "summary": "The Panic Patrol, a division of the department of future corrections, reminds us of past panics. Here’s one case in point I wasn’t aware of: The post The Panic Patrol appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Facts about breastfeeding",
      "published": "2026-10-25T06:57:04+00:00",
      "summary": "We produce a numerical estimate of the value of unpaid breastfeeding relative to national income spanning five centuries and integrating historical and bioarchaeological data. The relative economic contribution of maternal nursing was greater in the distant past than in recent history, rivaling regionally significant industries such as pottery, glassmaking, and even the historical public sector. ["
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "How central bankers spend their time",
      "published": "2026-10-25T05:14:29+00:00",
      "summary": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries. We document several patterns. First, all Fed Chairs spend more […] The post How central bankers spen"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Emergent Ventures India, 20th cohort",
      "published": "2026-10-25T04:42:24+00:00",
      "summary": "Zahan Turel, a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community’s manuscripts and liturgical records before they are lost. Aditya Vijay, 17, is building Forge, supporting overlooked, self-taught young founders with shared housing, capital, and access. Dev Goyal received a grant for SCRIPT, exploring whether stylus-based drawing kinema"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Econvitals",
      "published": "2026-10-24T17:54:44+00:00",
      "summary": "From Jason Furman, it tracks economic indicators, mostly U.S. Here is the website. Subscribe here to briefings. Here is a thread on the site. The post Econvitals appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Why are cybersecurity losses not worse?",
      "published": "2026-10-24T15:57:10+00:00",
      "summary": "Here’s the first part of my theory: cybercriminals are not the organized geniuses we implicitly imagine. Anyone building a criminal gang has to find candidates willing to forgo more stable opportunities in the formal economy. My modeling estimated that something like 720,000 people are involved in the online criminal economy, 90% of them in scam […] The post Why are cybersecurity losses not worse?"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Cybersecurity ETF",
      "published": "2026-10-24T08:46:22+00:00",
      "summary": "Joe Weisenthal: “The Red Line is the day that Anthropic introduced Mythos” The post Cybersecurity ETF appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
      "published": "2026-10-24T04:53:27+00:00",
      "summary": "Here is the audio, video, and transcript. Here is one excerpt: Cowen: Talk me out of this worry: So we agree science is an ecosystem, and there’s always a temptation to want to fund the most dynamic, most productive parts of the ecosystem. And right now, that would probably be A.I. But if you need […] The post I guest host an NYT podcast with Michael Kratsios, Trump science advisor appeared first "
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Friday assorted links",
      "published": "2026-10-23T16:35:40+00:00",
      "summary": "1. Weird diets (NYT). 2. Is this what the Denisovans looked like? 3. Measuring bottlenecks for AI. 4. How is violence diffferent when women lead drug cartels? 5. “Israel’s economy is growing so fast, it will leapfrog the Netherlands and Australia within the next 18 months, in time for it’s 80th birthday—not by 2030, as […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Prediction Markets Are Accurate",
      "published": "2026-10-23T11:18:43+00:00",
      "summary": "No surprise to me but a new paper looks at the forecast accuracy of over one million prediction questions from Polymarket, Kalshi, Manifold and the forecasting platform Metaculus. A virtue of the new analysis is that it covers many different areas from business to elections to geo-politics. An event predicted to happen p% of the […] The post Prediction Markets Are Accurate appeared first on Margin"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Protecting Americans from Medicine",
      "published": "2026-10-23T11:14:10+00:00",
      "summary": "Max Doppelt: In January 2025 my mom’s lung cancer spread to her brain. The drug with the best chance of helping her was approved in China but not here. A doctor told me, almost as an aside, that if she were Chinese she could buy it at a pharmacy. So I flew to Shanghai and […] The post Protecting Americans from Medicine appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Podcast with Rabbi David Wolpe",
      "published": "2026-10-23T07:38:28+00:00",
      "summary": "Here is their episode summary: Economist Tyler Cowen joins David Wolpe for a conversation about AI, religion, and what makes us human. Tyler makes the case that AI’s biggest impact may be on status: who gains it, who loses it, and what happens to experts like rabbis when anyone can ask ChatGPT all their questions. […] The post Podcast with Rabbi David Wolpe appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "Will bystander economies be able to finance their governments?",
      "published": "2026-10-23T04:51:50+00:00",
      "summary": "From Jesús Fernández-Villaverde: Will AI poison the public finances of many modern states? There is a real risk that it will. Yesterday, I circulated a new paper, “Saving for the Machines,” which makes a simple point. Building the AI transformation will require enormous investment. The only way to induce agents to save for that investment […] The post Will bystander economies be able to finance th"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026",
-     "published": "2026-10-22T18:36:11+00:00",
-     "summary": "What happens across generations to wealth shocks? Do they endure and even magnify, or do they dissipate? By implication, how much modern wealth is attributable to events before 1900? This paper uses random shocks to family size in England before 1880 that created wealth shocks for the children to measure the persistence of wealth shocks. […] The post How Long Do Wealth Shocks Persist? Less Than Th"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Thursday assorted links",
-     "published": "2026-10-22T15:55:47+00:00",
-     "summary": "1. The cherries trade. 2. New YouTube channel for Indian architecture. 3. Where do Math Olympiad gold medal winners end up? “By total gold medal count, China is the clear leader, followed by the pack of USA, Russia, and South Korea. Over 20 years China has 105 out of a possible 120 gold medals which […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Modern Principles of Economics!",
-     "published": "2026-10-22T11:18:12+00:00",
-     "summary": "If you are teaching economics Modern Principles is the book to use! Great and original writing, over one hundred videos, iClicker, Achieve and lots of additional support. Contact Mike Krotine to get an examination copy. https://alextabarrok.com/video/modern-principles.mp4 The post Modern Principles of Economics! appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -263,15 +257,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#4",
-     "title": "Are you getting enough sun?",
-     "published": "2026-10-20T10:00:00+00:00",
-     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
-    },
-    {
-     "ref": "psyche#5",
      "title": "How to overcome task paralysis",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
+    },
+    {
+     "ref": "psyche#5",
+     "title": "Are you getting enough sun?",
+     "published": "2026-10-20T10:00:00+00:00",
+     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
     },
     {
      "ref": "psyche#6",
@@ -320,12 +314,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "What is hidden in the photographs we keep of each other?",
      "published": "2026-10-13T10:00:00+00:00",
      "summary": "Returning to family photo albums in my mother’s apartment in Japan, I was struck by the stories the images didn’t tell - by Sawa Kurotani Read on Psyche"
-    },
-    {
-     "ref": "psyche#14",
-     "title": "Black men suffer racial trauma yet are seen as the threat",
-     "published": "2026-10-11T22:00:00+00:00",
-     "summary": "The very conditions that subject Black men to chronic strain make it hard for them to receive the help they need and deserve - by Yamonte Cooper Read on Psyche"
     }
    ]
   },
@@ -368,6 +356,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "Friction Isn't Progress's Enemy — It's the Engine That Drives It",
   "Why Understanding Someone Doesn't Mean Sharing Their Thought",
   "Disconnection Is Breaking Us — So She Moved Her Family Into a Shared House With Strangers",
   "An AI model was caught reasoning about how its own training will shape its future self — and nobody agrees whether that's reassuring or alarming",
