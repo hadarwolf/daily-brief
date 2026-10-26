@@ -18,122 +18,122 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "AI Agents Are Already Changing the Price of Goods",
+     "published": "2026-10-26T08:00:10+00:00",
+     "summary": "The future of the \"fair price.\""
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "How a Chicago Restaurant Has Stayed Open For Nearly Three Decades",
+     "published": "2026-10-26T08:00:09+00:00",
+     "summary": "Why business school won’t teach you how to keep open a restaurant."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Odd Lots: AI Agents Are Changing the Prices of Goods (Podcast)",
+     "published": "2026-10-26T08:00:00+00:00",
+     "summary": "It’s obvious that things are getting more expensive, and there are plenty of reasons behind the surge in prices — whether it’s wars or inflation or companies padding their profit margins. But with the release of AI agents like Meta’s Muse, tech companies are promising consumers that agents will start saving them tons of money by finding the best deals. According to today’s guest, Lindsay Owens, th"
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "Sembcorp Is Said to Gauge Demand for $394 Million India Unit IPO",
+     "published": "2026-10-26T07:55:39+00:00",
+     "summary": "Singapore-based Sembcorp Industries Ltd. is meeting investors for a proposed initial public offering of its Indian unit, Sembcorp Green Infra Ltd., that could raise as much as $394 million, according to people familiar with the matter."
+    },
+    {
+     "ref": "bloomberg_markets#4",
      "title": "UK Budget Preview: Burnham and Healey’s Grip on Gilts and Business Tested",
      "published": "2026-10-26T07:48:04+00:00",
      "summary": "Plus, why the government wants to lean more on Treasury bills"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#5",
      "title": "Yen Haven Revived as Euro-Yen Bears Eye Move Below 175, BI Says",
      "published": "2026-10-26T07:28:18+00:00",
      "summary": "The yen’s appeal as a haven currency was revived as risk-off moves spread across asset classes, with euro-yen bears potentially extending below 175 and dollar-yen possibly sliding beneath 155, Bloomberg Intelligence said."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#6",
      "title": "Banque Du Caire Says IPO Priced at Top End of Range",
      "published": "2026-10-26T07:26:47+00:00",
      "summary": "Banque du Caire said the private placement of its initial public offering closed at the top of the range, following heavy demand for Egypt’s biggest IPO in more than a decade."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#7",
      "title": "India’s Opposition Leader Gandhi Acquitted in Defamation Case",
      "published": "2026-10-26T07:17:56+00:00",
      "summary": "India’s opposition leader Rahul Gandhi was acquitted in a criminal defamation case over remarks he allegedly made against Home Minister Amit Shah, ending an eight year legal battle."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#8",
      "title": "UK Dealers See More Treasury Bills Coming to Cut Debt Costs",
      "published": "2026-10-26T07:15:00+00:00",
      "summary": "The UK is poised to make greater use of short-term debt, according to government bond dealers, a shift that could bring down gilt yields and ease pressure on the country’s strained public finances."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#9",
      "title": "Billionaire Villar’s Vista Land Profit Sinks 70% on Higher Costs",
      "published": "2026-10-26T07:05:15+00:00",
      "summary": "Vista Land & Lifescapes Inc.’s net income sank about 70% in 2025, with the delayed disclosure offering a fresh look at the suspended developer’s finances ahead of a major debt repayment."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#10",
      "title": "FTSE 100 Live: UK Stock Futures Point to Brighter Start to Week",
      "published": "2026-10-26T06:51:17+00:00"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#11",
      "title": "World Bank Flags Somalia Low Tax Revenue as Key Fiscal Challenge",
      "published": "2026-10-26T06:35:03+00:00",
      "summary": "Domestic revenue mobilization remains Somalia’s biggest fiscal challenge, limiting the ability of the east Africa nation’s government to finance development priorities and public services."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#12",
      "title": "French Bond Rout Draws Australia Pension Into Market Others Shun",
      "published": "2026-10-26T06:30:00+00:00",
      "summary": "Australia’s second-biggest pension fund is buying French government bonds on the view that markets have overpriced France’s fiscal troubles and the prospect of European Central Bank interest-rate hikes."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#13",
      "title": "Ken Griffin’s Citadel Securities to Expand India Office",
      "published": "2026-10-26T05:39:56+00:00",
      "summary": "Billionaire Ken Griffin’s Citadel Securities LLC is moving into a larger India office early next year, according to a filing and a person familiar with the matter, as it expands in one of the world’s fastest-growing financial markets."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#14",
      "title": "IGU's Ydreos on Energy Demand Driven by Data Centers",
      "published": "2026-10-26T05:38:48+00:00",
      "summary": "Mel Ydreos, Secretary General of the International Gas Union, says data centers have emerged as a new driver of global gas demand. He speaks with Yvonne Man and Minmin Low on \"Bloomberg: The China Show.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#15",
      "title": "Moonshot's Latest AI Upgrade Takes on Top-Tier US Models",
      "published": "2026-10-26T05:37:40+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#16",
      "title": "JPMorgan's Travis Spence on China's Active ETF Market",
      "published": "2026-10-26T05:36:00+00:00",
      "summary": "JPMorgan Asset Management Global Head of ETFs Travis Spence discusses the approval of active ETFs in mainland China. He speaks with Yvonne Man and Minmin Low on \"Bloomberg: The China Show.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
-     "title": "Markets Brace After Lula's Surprise Comeback Win In Brazil Elections",
-     "published": "2026-10-26T05:20:15+00:00",
-     "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "(USD:UGX) Shilling Freefall Has Uganda Tapping Meager Reserve War-Chest",
-     "published": "2026-10-26T05:15:00+00:00",
-     "summary": "Uganda is running out of options to defend its currency, forcing policymakers to draw down on already thin buffers."
-    },
-    {
-     "ref": "bloomberg_markets#15",
-     "title": "Blackstone-Backed ASK Hires Ex-Motilal Executive as Mutual Fund Chief",
-     "published": "2026-10-26T05:13:39+00:00",
-     "summary": "India’s ASK Investment Managers Ltd. has hired Akhil Chaturvedi as chief executive officer of its mutual fund operations, according to people familiar with the matter, after the company secured regulatory nod to expand into the business in February."
-    },
-    {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "Brazil Markets Brace for Rout on Lula’s Improbable Election Win",
      "published": "2026-10-26T01:21:55+00:00",
      "summary": "Traders are bracing for steep losses across Brazilian markets Monday after President Luiz Inácio Lula da Silva pulled off a stunning comeback to defeat Flávio Bolsonaro, the right-wing candidate that many investors preferred."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#18",
      "title": "Gold Edges Higher After Weekly Decline as Focus Shifts to Fed",
      "published": "2026-10-25T23:23:38+00:00",
      "summary": "Gold edged higher – after its biggest weekly drop since June – as traders weighed reduced prospects for the Federal Reserve to hike interest rates at its upcoming policy meeting."
     },
     {
-     "ref": "bloomberg_markets#18",
+     "ref": "bloomberg_markets#19",
      "title": "Stocks Hold Losses Before Tech Earnings, Oil Drops: Markets Wrap",
      "published": "2026-10-25T22:09:07+00:00",
      "summary": "Stocks struggled for direction after a volatile week as investors positioned for a busy stretch of tech earnings that will offer clues on the staying power of the artificial intelligence trade. Treasuries rose and oil declined."
-    },
-    {
-     "ref": "bloomberg_markets#19",
-     "title": "Latest Oil Market News and Analysis for Oct. 26",
-     "published": "2026-10-25T22:04:00+00:00",
-     "summary": "Oil retreated as the US and Iran stuck to familiar rhetoric in their conflict, and a technical gauge pointed to overbought conditions."
     }
    ]
   },
@@ -143,60 +143,66 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Oil price falls back to $114 as traders remain focused on Middle East conflict",
+     "title": "Oil price falls back as traders remain focused on Middle East conflict",
      "published": "2026-10-26T07:28:34+00:00",
      "summary": "International benchmark eases after soaring to $117 late last week"
     },
     {
      "ref": "ft_home#1",
+     "title": "Singapore to store Saudi oil in rock caverns",
+     "published": "2026-10-26T06:57:54+00:00",
+     "summary": "Agreement with Saudi Aramco aims to secure energy supplies for south-east Asia amid Middle East war disruption"
+    },
+    {
+     "ref": "ft_home#2",
      "title": "How Lula turned his election fortunes around in three weeks",
      "published": "2026-10-26T06:14:35+00:00",
      "summary": "With an energetic online push and social giveaways, Brazil’s president reignited his campaign between the first and second rounds"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "Germany to tap Ukrainian tech with missile purchase",
      "published": "2026-10-26T05:00:30+00:00",
      "summary": "Bars strike system would be first offensive weapon developed in Ukraine to be purchased by the Bundeswehr"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Oxford Street’s pedestrian revolution is finally here",
      "published": "2026-10-26T05:00:21+00:00",
      "summary": "UK’s leading shopping parade embarks on a controversial transformation project"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "A day in Benjamin Netanyahu’s heartland",
      "published": "2026-10-26T05:00:20+00:00",
      "summary": "Many in Sderot, a city hit by Hamas’s October 7 2023 attack, remain firmly behind the prime minister ahead of the election"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "The reclusive quant billionaire coming into the light",
      "published": "2026-10-26T05:00:12+00:00",
      "summary": "Peter de Putron has spent decades maintaining a low profile. But the scale of his interests is commanding new attention"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "Guernsey, Jersey and other havens rake in revenues from global minimum tax",
      "published": "2026-10-26T05:00:12+00:00",
      "summary": "Offshore hubs expect windfall after raising rates to comply with OECD rules for large multinationals"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "Lula is re-elected Brazil’s president in knife-edge vote",
      "published": "2026-10-26T04:44:49+00:00",
      "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "After stunning victory, Lula will face a deep hangover",
      "published": "2026-10-26T01:15:16+00:00",
      "summary": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#10",
      "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
      "published": "2026-10-25T23:19:41+00:00",
      "summary": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm"
@@ -364,21 +370,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
-     "title": "French Bonds May Get Relief After Moody’s Decision to Keep Rating Unchanged",
-     "published": "2026-10-26T06:59:00+00:00",
-     "summary": "The 10-year OAT-Bund yield spread closed at 166bps on Friday. OATs should see rating relief after Moody’s Ratings surprisingly stayed put, Commerzbank said."
+     "title": "French Bonds Outperform Peers After Moody’s Maintains France’s Credit Rating",
+     "published": "2026-10-26T07:59:00+00:00",
+     "summary": "French government bonds outperformed their eurozone peers in opening trade after Moody’s Ratings left France’s credit rating unchanged at Aa3, albeit with a negative outlook."
     },
     {
      "ref": "wsj_markets#1",
-     "title": "Asian Stocks Decline as Appetite for Risky Assets Ebbs",
-     "published": "2026-10-26T05:30:00+00:00",
-     "summary": "Oil prices hovered around multimonth highs, while market participants look to the Federal Reserve’s coming interest-rate decision for direction."
+     "title": "Dollar Trades Steady Ahead of Fed Decision",
+     "published": "2026-10-26T07:57:00+00:00",
+     "summary": "The dollar traded steady as investors looked ahead to the Federal Reserve’s interest-rate decision on Wednesday."
     },
     {
      "ref": "wsj_markets#2",
-     "title": "New Taiwan Dollar Likely to Rebound After Recent Slump",
-     "published": "2026-10-26T03:24:00+00:00",
-     "summary": "The New Taiwan dollar will likely rebound after its recent slump, Goldman Sachs said."
+     "title": "Asian Stocks Decline as Appetite for Risky Assets Ebbs",
+     "published": "2026-10-26T05:30:00+00:00",
+     "summary": "Oil prices hovered around multimonth highs, while market participants look to the Federal Reserve’s coming interest-rate decision for direction."
     },
     {
      "ref": "wsj_markets#3",
@@ -460,23 +466,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1104,
+   "last": 3.1131,
    "prev_close": 3.1125,
-   "change_pct": -0.07,
+   "change_pct": 0.02,
    "as_of": "2026-10-26"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 110.23,
+   "last": 110.48,
    "prev_close": 116.72,
-   "change_pct": -5.56,
+   "change_pct": -5.35,
    "as_of": "2026-10-26"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 79963.1172,
+   "last": 79737.3594,
    "prev_close": 80024.0078,
-   "change_pct": -0.08,
+   "change_pct": -0.36,
    "as_of": "2026-10-26"
   }
  },

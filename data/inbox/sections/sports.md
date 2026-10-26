@@ -53,48 +53,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-25T13:30:00Z",
-     "home": "NEC",
-     "away": "Groningen",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-25T13:30:00Z",
      "home": "PSV",
      "away": "Feyenoord",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-25T14:00:00Z",
-     "home": "Crystal Palace",
-     "away": "Newcastle",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-25T13:30:00Z",
+     "home": "NEC",
+     "away": "Groningen",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-25T14:00:00Z",
-     "home": "Hull City",
-     "away": "Brentford",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-25T14:00:00Z",
-     "home": "Genoa",
-     "away": "Venezia FC",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-25T14:00:00Z",
-     "home": "Monaco",
-     "away": "Lille",
+     "home": "Liverpool",
+     "away": "Brighton Hove",
      "status": "TIMED",
      "score": null
     },
@@ -115,10 +91,34 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-25T14:00:00Z",
+     "home": "Genoa",
+     "away": "Venezia FC",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-25T14:00:00Z",
+     "home": "Monaco",
+     "away": "Lille",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-25T14:00:00Z",
-     "home": "Liverpool",
-     "away": "Brighton Hove",
+     "home": "Crystal Palace",
+     "away": "Newcastle",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-25T14:00:00Z",
+     "home": "Hull City",
+     "away": "Brentford",
      "status": "TIMED",
      "score": null
     },
@@ -157,22 +157,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-25T16:15:00Z",
-     "home": "Angers SCO",
-     "away": "Lorient",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-25T16:15:00Z",
-     "home": "Auxerre",
-     "away": "Le Mans",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-25T16:15:00Z",
      "home": "Stade Rennais",
      "away": "Strasbourg",
      "status": "TIMED",
@@ -195,10 +179,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-25T16:30:00Z",
-     "home": "Freiburg",
-     "away": "Bayern",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-25T16:15:00Z",
+     "home": "Auxerre",
+     "away": "Le Mans",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-25T16:15:00Z",
+     "home": "Angers SCO",
+     "away": "Lorient",
      "status": "TIMED",
      "score": null
     },
@@ -207,6 +199,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-25T16:30:00Z",
      "home": "Sunderland",
      "away": "Leeds United",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-25T16:30:00Z",
+     "home": "Freiburg",
+     "away": "Bayern",
      "status": "TIMED",
      "score": null
     },
@@ -229,16 +229,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-25T18:00:00Z",
-     "home": "CD Nacional",
-     "away": "Braga",
+     "home": "Rio Ave",
+     "away": "Famalicão",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-25T18:00:00Z",
-     "home": "Rio Ave",
-     "away": "Famalicão",
+     "home": "CD Nacional",
+     "away": "Braga",
      "status": "TIMED",
      "score": null
     },
@@ -877,75 +877,75 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#13",
-     "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-     "published": "2026-10-25T20:00:19+00:00",
-     "summary": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure."
-    },
-    {
-     "ref": "bbc_football#14",
-     "title": "Liverpool earn first league win at Anfield with victory over Brighton",
-     "published": "2026-10-25T20:00:09+00:00",
-     "summary": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four."
-    },
-    {
-     "ref": "bbc_football#15",
      "title": "Watch: Sportscene - Sunday's Scottish Premiership highlights",
      "published": "2026-10-25T20:00:04+00:00",
      "summary": "With Hibs v Celtic and Motherwell v Hearts, plus action and reaction from Saturday"
     },
     {
-     "ref": "bbc_football#16",
-     "title": "Sage continues to struggle as Palace lose at home to Newcastle",
-     "published": "2026-10-25T19:59:46+00:00",
-     "summary": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "Hull draw third consecutive home game after being held by Brentford",
-     "published": "2026-10-25T19:59:29+00:00",
-     "summary": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "Sunderland stay bottom after goalless draw with Leeds",
-     "published": "2026-10-25T19:59:07+00:00",
-     "summary": "Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light."
-    },
-    {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#14",
      "title": "Birmingham get first win of the season after edging past Charlton",
      "published": "2026-10-25T19:55:12+00:00",
      "summary": "Wilda Leidhammar scores as Birmingham secure their first WSL win this season, beating bottom club Charlton 1-0 at St Andrew's, as the away side's wait for a first point goes on."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#15",
      "title": "Late own goal gives Liverpool point against London City Lionesses",
      "published": "2026-10-25T19:54:45+00:00",
      "summary": "A stoppage time own goal from Jana Fernandez sees Liverpool snatch a point against London City Lionesses, as the two sides draw 2-2 in the Women's Super League."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#16",
      "title": "Vangsgaard scores twice as Villa hang on to beat Everton",
      "published": "2026-10-25T19:54:10+00:00",
      "summary": "Amalie Vangsgaard scores twice for Aston Villa as the away side survive a late fightback from Everton to win 3-2 at Goodison Park in the Women's Super League."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#17",
      "title": "Weir would swap Ballon d'Or nominations for World Cup",
      "published": "2026-10-25T19:34:15+00:00",
      "summary": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#18",
      "title": "Weir would swap Ballon d'Or nods for World Cup",
      "published": "2026-10-25T19:34:15+00:00",
      "summary": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland."
     },
     {
-     "ref": "bbc_football#24",
+     "ref": "bbc_football#19",
      "title": "Weir would swap Ballon d'Or nominations for World Cup",
      "published": "2026-10-25T19:34:15+00:00",
      "summary": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland."
+    },
+    {
+     "ref": "bbc_football#20",
+     "title": "Dunfermline meet Queen of the South in Scottish Cup",
+     "published": "2026-10-25T19:24:20+00:00",
+     "summary": "Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup."
+    },
+    {
+     "ref": "bbc_football#21",
+     "title": "Pressure grows on Sage as fans turn on Palace boss",
+     "published": "2026-10-25T18:36:12+00:00",
+     "summary": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure."
+    },
+    {
+     "ref": "bbc_football#22",
+     "title": "Chaos or concern - Hanley's striker cameo poses questions for Hibs",
+     "published": "2026-10-25T18:14:53+00:00",
+     "summary": "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?"
+    },
+    {
+     "ref": "bbc_football#23",
+     "title": "Chaos or concern - Hanley's striker cameo poses questions for Hibs",
+     "published": "2026-10-25T18:14:53+00:00",
+     "summary": "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?"
+    },
+    {
+     "ref": "bbc_football#24",
+     "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+     "published": "2026-10-25T18:13:55+00:00",
+     "summary": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola."
     }
    ]
   },
@@ -1171,60 +1171,54 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#10",
-     "title": "Deni Avdija Leads Trail Blazers to Thrilling Comeback Win vs Kings - Wunderfan",
-     "published": "2026-10-24T07:31:45+00:00",
-     "summary": "Deni Avdija Leads Trail Blazers to Thrilling Comeback Win vs Kings Wunderfan"
-    },
-    {
-     "ref": "gnews_israeli_nba#11",
      "title": "Delivery Boi: Full Episode 6 | GMA Entertainment - GMA Network",
      "published": "2026-10-24T07:20:04+00:00",
      "summary": "Delivery Boi: Full Episode 6 | GMA Entertainment GMA Network"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - myMotherLode.com",
      "published": "2026-10-24T06:37:43+00:00",
      "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings myMotherLode.com"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "NBA Roundup: Avdija lifts Blazers over Sabonis, Anunoby scores 20 - Eurohoops",
      "published": "2026-10-24T05:29:00+00:00",
      "summary": "NBA Roundup: Avdija lifts Blazers over Sabonis, Anunoby scores 20 Eurohoops"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - Times Union",
      "published": "2026-10-24T05:15:55+00:00",
      "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings Times Union"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - Niagara Falls Review",
      "published": "2026-10-24T05:09:09+00:00",
      "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings Niagara Falls Review"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - McAlester news",
      "published": "2026-10-24T05:07:45+00:00",
      "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings McAlester news"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - couriernews.com",
      "published": "2026-10-24T05:07:45+00:00",
      "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings couriernews.com"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija propels Blazers to comeback victory over Kings - Bellingham Herald",
      "published": "2026-10-24T05:00:00+00:00",
      "summary": "Deni Avdija propels Blazers to comeback victory over Kings Bellingham Herald"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
      "published": "2026-10-23T23:31:58+00:00",
      "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
