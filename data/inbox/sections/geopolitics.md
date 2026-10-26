@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "France - AP News",
+     "published": "2026-10-26T07:47:34+00:00",
+     "summary": "France AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "War and unrest - AP News",
+     "published": "2026-10-26T07:45:21+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Minnesota - AP News",
+     "published": "2026-10-26T07:43:19+00:00",
+     "summary": "Minnesota AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "New York City - AP News",
+     "published": "2026-10-26T07:43:18+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-26T07:39:25+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-10-26T07:39:24+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "2026 World Cup schedule and results - AP News",
+     "published": "2026-10-26T07:39:22+00:00",
+     "summary": "2026 World Cup schedule and results AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "Auto Racing - AP News",
      "published": "2026-10-26T07:33:25+00:00",
      "summary": "Auto Racing AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#8",
      "title": "Protests and demonstrations - AP News",
      "published": "2026-10-26T07:31:20+00:00",
      "summary": "Protests and demonstrations AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#9",
      "title": "JIM VERTUNO - AP News",
      "published": "2026-10-26T07:29:18+00:00",
      "summary": "JIM VERTUNO AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#10",
      "title": "South America - AP News",
      "published": "2026-10-26T07:29:17+00:00",
      "summary": "South America AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#11",
      "title": "Domestic News - AP News",
      "published": "2026-10-26T07:29:17+00:00",
      "summary": "Domestic News AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#12",
      "title": "Crime - AP News",
      "published": "2026-10-26T07:29:16+00:00",
      "summary": "Crime AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "France - AP News",
-     "published": "2026-10-26T07:27:27+00:00",
-     "summary": "France AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-26T07:25:21+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-26T07:23:19+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
-    },
-    {
-     "ref": "ap_world#9",
+     "ref": "ap_world#13",
      "title": "Golf - AP News",
      "published": "2026-10-26T07:20:22+00:00",
      "summary": "Golf AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#14",
      "title": "College sports - AP News",
      "published": "2026-10-26T07:17:08+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#15",
      "title": "Accidents - AP News",
      "published": "2026-10-26T07:16:12+00:00",
      "summary": "Accidents AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "United States - AP News",
-     "published": "2026-10-26T07:16:11+00:00",
-     "summary": "United States AP News"
-    },
-    {
-     "ref": "ap_world#13",
+     "ref": "ap_world#16",
      "title": "AP News Search - AP News",
      "published": "2026-10-26T07:05:46+00:00",
      "summary": "AP News Search AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#17",
      "title": "Women’s sports - AP News",
      "published": "2026-10-26T07:01:52+00:00",
      "summary": "Women’s sports AP News"
     },
     {
-     "ref": "ap_world#15",
-     "title": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results - AP News",
-     "published": "2026-10-26T06:56:00+00:00",
-     "summary": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results AP News"
-    },
-    {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo - AP News",
      "published": "2026-10-26T06:30:00+00:00",
      "summary": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "Singer Chris Brown to be sentenced over bottle attack at a London nightclub - AP News",
-     "published": "2026-10-26T06:13:00+00:00",
-     "summary": "Singer Chris Brown to be sentenced over bottle attack at a London nightclub AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Minnesota - AP News",
-     "published": "2026-10-26T05:36:06+00:00",
-     "summary": "Minnesota AP News"
-    },
-    {
      "ref": "ap_world#19",
+     "title": "Australian Parliament pays tribute to injured lawmaker as it resumes work under increased security - AP News",
+     "published": "2026-10-26T05:15:52+00:00",
+     "summary": "Australian Parliament pays tribute to injured lawmaker as it resumes work under increased security AP News"
+    },
+    {
+     "ref": "ap_world#20",
      "title": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu - AP News",
      "published": "2026-10-26T05:07:00+00:00",
      "summary": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-26T05:06:41+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+     "published": "2026-10-26T05:03:13+00:00",
+     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
+    },
+    {
+     "ref": "ap_world#23",
      "title": "‘Picasso of Pumpkin Carvers’ brings artistry to a Halloween tradition - AP News",
      "published": "2026-10-26T05:03:00+00:00",
      "summary": "‘Picasso of Pumpkin Carvers’ brings artistry to a Halloween tradition AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#24",
      "title": "What to know about China’s plenum as Xi seeks stronger Communist Party discipline - AP News",
      "published": "2026-10-26T04:54:00+00:00",
      "summary": "What to know about China’s plenum as Xi seeks stronger Communist Party discipline AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "TIM REYNOLDS - AP News",
-     "published": "2026-10-26T04:47:47+00:00",
-     "summary": "TIM REYNOLDS AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Caribbean seeks reparations and questions role of monarchy before King Charles III visits - AP News",
-     "published": "2026-10-26T04:11:00+00:00",
-     "summary": "Caribbean seeks reparations and questions role of monarchy before King Charles III visits AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-26T04:07:17+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     }
    ]
   },
@@ -174,153 +174,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+     "published": "2026-10-26T07:40:57+00:00",
+     "summary": "The highly secretive four-day Plenum starts Monday in Beijing."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
      "published": "2026-10-26T06:16:15+00:00",
      "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Venezuelan opposition leader María Machado returns after months in exile",
      "published": "2026-10-26T05:20:19+00:00",
      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Australian murderer loses bid to eat Vegemite in prison",
      "published": "2026-10-26T04:05:28+00:00",
      "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
      "published": "2026-10-26T02:53:00+00:00",
      "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "India's cartoonists built an audience online - now their posts are being restricted",
      "published": "2026-10-26T01:09:41+00:00",
      "summary": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
      "published": "2026-10-26T01:07:05+00:00",
      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
      "published": "2026-10-25T23:44:34+00:00",
      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
      "published": "2026-10-25T23:33:19+00:00",
      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#9",
      "title": "Deeply divided Israel braces for pivotal election",
      "published": "2026-10-25T22:11:13+00:00",
      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#10",
      "title": "Why Israel's election is one of the most important in its history",
      "published": "2026-10-25T22:05:30+00:00",
      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
      "published": "2026-10-25T19:14:27+00:00",
      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
      "published": "2026-10-25T15:32:51+00:00",
      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "Gabon says access to social media restored after eight-month ban",
      "published": "2026-10-25T14:39:47+00:00",
      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
      "published": "2026-10-25T14:34:33+00:00",
      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
      "published": "2026-10-25T10:55:33+00:00",
      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
      "published": "2026-10-25T10:38:15+00:00",
      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
      "published": "2026-10-25T09:00:00+00:00",
      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
      "published": "2026-10-25T08:36:47+00:00",
      "summary": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
      "published": "2026-10-25T05:15:52+00:00",
      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
      "published": "2026-10-25T02:27:15+00:00",
      "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\"."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#21",
      "title": "The bitter row over military service that could shape Israel's future",
      "published": "2026-10-24T23:03:21+00:00",
      "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?"
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#22",
      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
      "published": "2026-10-24T23:03:09+00:00",
      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#23",
      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
      "published": "2026-10-24T23:02:51+00:00",
      "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward."
     },
     {
-     "ref": "bbc_world#23",
+     "ref": "bbc_world#24",
      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
      "published": "2026-10-24T19:37:35+00:00",
      "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall."
-    },
-    {
-     "ref": "bbc_world#24",
-     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-     "published": "2026-10-24T19:12:51+00:00",
-     "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
     }
    ]
   },
