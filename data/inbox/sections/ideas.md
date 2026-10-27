@@ -145,84 +145,90 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "NYT debate on the rules for AI companies",
+     "published": "2026-10-27T08:17:58+00:00",
+     "summary": "Emily Bazelon was the moderator, there were five of us in the symposium. Excerpt from me: Bores: Do you think the federal government pre-empting the states is consistent with democracy? Cowen: Absolutely. We have federal laws that pre-empt state lawmaking in many other areas. Courts have upheld it many, many times. Bores: OK, but is […] The post NYT debate on the rules for AI companies appeared fi"
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "Is “Who’s on First?” funny?",
      "published": "2026-10-27T04:32:03+00:00",
      "summary": "Well, no, it is not funny, it would be too easy to relieve the dramatic tension by having Abbott explain the actual situation to Costello. One is not wrong to call the whole thing stupid. Yet there is another reading of the skit which stands at least some chance of being funny, though it is […] The post Is “Who’s on First?” funny? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "Monday assorted links",
      "published": "2026-10-26T16:23:21+00:00",
      "summary": "1. Why slow fields may determine the pace of discovery. 2. Touch screens on your jacket? 3. Astras performance on Bach bench. 4. More on regional productivity differences (and puzzles) in health care. 5. “Plans to allow US companies run entirely by AI “agents” have come under fire from powerful Republicans in Congress, who fear […] The post Monday assorted links appeared first on Marginal REVOLUTI"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "The MR Archive!",
      "published": "2026-10-26T11:20:43+00:00",
      "summary": "The Marginal Revolution archive is now live at https://marginalrevolution.com/ai-archive/. You can also find it from the header and from “Download Full Archive” link in the left menu. The purpose of the archive is twofold, first as Tyler has said we love our human readers and our AI readers and we want to make it as […] The post The MR Archive! appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "Tyler Cowen’s Strongest Book Recommendations, 2003-2026",
      "published": "2026-10-26T11:19:11+00:00",
      "summary": "From the Archive–these posts are written by AI. Cowen’s strongest recommendations include 1491, The Power Broker, Knausgaard’s first two My Struggle volumes, Fuchsia Dunlop’s Chinese cookbooks, and Meetings with Remarkable Manuscripts. These stand out through unusually strong praise, repeated endorsement, or both. The analysis uses qualitative, book-specific sentiment analysis: explicit superlativ"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "Brazil’s economic problems, in a nutshell",
      "published": "2026-10-26T07:03:20+00:00",
      "summary": "It would take true Milei-like ardour to slice through Brazil’s economic troubles. These are caused by a gnarly mix of high public spending, stubborn inflation and low saving. The result is a crippling cost of capital. Some analysts put Brazil’s real interest rate, the BCB’s policy rate adjusted for next year’s expected inflation, at 9% or […] The post Brazil’s economic problems, in a nutshell appe"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "Frances Lee on American elections",
      "published": "2026-10-26T04:51:28+00:00",
      "summary": "More likely than interference with the election is that unsuccessful office-seekers will refuse to concede, claiming their opponents cheated. Nothing is more basic to democratic legitimacy than the loser’s consent. Many feared that Mr Trump’s refusal to concede in 2020 would spread across the political system. It has not. Bright Line Watch, a research group, […] The post Frances Lee on American el"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Sunday assorted links",
      "published": "2026-10-25T15:42:58+00:00",
      "summary": "1. A safe harbor for open source? 2. False but interesting claims about economic growth. 3. “In a calibrated model of the welfare effects of the estimated impacts of the Great Recession on consumption and mortality, we find that the welfare gain from the estimated mortality decline is quantitatively significant relative to the welfare loss […] The post Sunday assorted links appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "The Panic Patrol",
      "published": "2026-10-25T11:15:45+00:00",
      "summary": "The Panic Patrol, a division of the department of future corrections, reminds us of past panics. Here’s one case in point I wasn’t aware of: The post The Panic Patrol appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "Facts about breastfeeding",
      "published": "2026-10-25T06:57:04+00:00",
      "summary": "We produce a numerical estimate of the value of unpaid breastfeeding relative to national income spanning five centuries and integrating historical and bioarchaeological data. The relative economic contribution of maternal nursing was greater in the distant past than in recent history, rivaling regionally significant industries such as pottery, glassmaking, and even the historical public sector. ["
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "How central bankers spend their time",
      "published": "2026-10-25T05:14:29+00:00",
      "summary": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries. We document several patterns. First, all Fed Chairs spend more […] The post How central bankers spen"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Emergent Ventures India, 20th cohort",
      "published": "2026-10-25T04:42:24+00:00",
      "summary": "Zahan Turel, a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community’s manuscripts and liturgical records before they are lost. Aditya Vijay, 17, is building Forge, supporting overlooked, self-taught young founders with shared housing, capital, and access. Dev Goyal received a grant for SCRIPT, exploring whether stylus-based drawing kinema"
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#12",
      "title": "Econvitals",
      "published": "2026-10-24T17:54:44+00:00",
      "summary": "From Jason Furman, it tracks economic indicators, mostly U.S. Here is the website. Subscribe here to briefings. Here is a thread on the site. The post Econvitals appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#13",
      "title": "Why are cybersecurity losses not worse?",
      "published": "2026-10-24T15:57:10+00:00",
      "summary": "Here’s the first part of my theory: cybercriminals are not the organized geniuses we implicitly imagine. Anyone building a criminal gang has to find candidates willing to forgo more stable opportunities in the formal economy. My modeling estimated that something like 720,000 people are involved in the online criminal economy, 90% of them in scam […] The post Why are cybersecurity losses not worse?"
     },
     {
-     "ref": "marginal_revolution#13",
+     "ref": "marginal_revolution#14",
      "title": "Cybersecurity ETF",
      "published": "2026-10-24T08:46:22+00:00",
      "summary": "Joe Weisenthal: “The Red Line is the day that Anthropic introduced Mythos” The post Cybersecurity ETF appeared first on Marginal REVOLUTION ."

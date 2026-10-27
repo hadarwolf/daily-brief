@@ -563,153 +563,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "McBurnie coughs up blood during Hull draw - gossip",
+     "published": "2026-10-27T08:05:20+00:00",
+     "summary": "Scotland striker Oli McBurnie coughs up blood during Hull City's draw with Brentford as Heart of Midlothian fear further injury woe."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Listen: One year of O'Neill - saviour or sticking plaster?",
+     "published": "2026-10-27T08:00:00+00:00",
+     "summary": "A year after O’Neill’s return, are Celtic actually moving forward?"
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
      "published": "2026-10-27T07:22:04+00:00",
      "summary": "Arsenal's defensive form is testament to the performances of Ezri Konsa, who has stepped up in William Saliba's absence and been given his chance to shine."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
+     "title": "Chinese brands drop Mbappe as backlash grows over Mao joke",
+     "published": "2026-10-27T07:15:08+00:00",
+     "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\"."
+    },
+    {
+     "ref": "bbc_football#4",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-27T06:57:27+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#5",
      "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
      "published": "2026-10-27T06:20:58+00:00",
      "summary": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?"
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#6",
      "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
      "published": "2026-10-26T23:35:27+00:00",
      "summary": "Harry Kane's dream of winning the Ballon d'Or came true on Monday, but a few hours earlier organisers prematurely released an article claiming he had clinched the award."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#7",
      "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
      "published": "2026-10-26T23:14:39+00:00",
      "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#8",
      "title": "Putellas wins record-equalling third Ballon d'Or",
      "published": "2026-10-26T23:14:39+00:00",
      "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#9",
      "title": "Hearts chairman calls for greater transparency on key decisions",
      "published": "2026-10-26T23:11:28+00:00",
      "summary": "Reflecting on last season's final-day title disappointment, Hearts chairman Calum Paterson calls for \"greater transparency and consistency around key decisions in Scottish football\"."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#10",
      "title": "Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend",
      "published": "2026-10-26T23:10:59+00:00",
      "summary": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#11",
      "title": "Arsenal eye Monza striker Varela - Tuesday's gossip",
      "published": "2026-10-26T21:38:42+00:00",
      "summary": "Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from some of Europe's biggest clubs, plus more."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#12",
      "title": "Football Daily",
      "published": "2026-10-26T21:18:00+00:00",
      "summary": "Mark Chapman is joined by Chris Sutton, Andros Townsend and Adam Crafton."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#13",
      "title": "Ballon d'Or winner Kane's best Bundesliga goals",
      "published": "2026-10-26T19:29:35+00:00",
      "summary": "Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#14",
      "title": "Donovan backed for big future on signing new Celtic deal",
      "published": "2026-10-26T18:37:36+00:00",
      "summary": "Manager Martin O'Neill is sure Colby Donovan is destined for \"very big future\" as the Celtic full-back extends his contract until 2031."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#15",
      "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
      "published": "2026-10-26T18:17:25+00:00",
      "summary": "The Under-15 World Cup Group C match between England and Republic of Ireland is abandoned after England allege an opposition player made a racist comment."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#16",
      "title": "BBC Women's Football Weekly",
      "published": "2026-10-26T17:18:00+00:00",
      "summary": "Arsenal have relieved the pressure with a north London derby win - can they kick on now?"
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#17",
      "title": "Celtic & Rangers wait for stadium closures ruling",
      "published": "2026-10-26T17:16:14+00:00",
      "summary": "Rangers and Celtic submit appeals against a ruling that they must play their next home Scottish Cup ties behind closed doors following scenes of disorder in last season's competition."
     },
     {
-     "ref": "bbc_football#15",
-     "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
-     "published": "2026-10-26T16:59:33+00:00",
-     "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's Football Awards 2026."
-    },
-    {
-     "ref": "bbc_football#16",
-     "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
-     "published": "2026-10-26T16:59:33+00:00",
-     "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's Football Awards 2026."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
-     "published": "2026-10-26T16:59:33+00:00",
-     "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's Football Awards 2026."
-    },
-    {
      "ref": "bbc_football#18",
+     "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
+     "published": "2026-10-26T16:59:33+00:00",
+     "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's Football Awards 2026."
+    },
+    {
+     "ref": "bbc_football#19",
+     "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
+     "published": "2026-10-26T16:59:33+00:00",
+     "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's Football Awards 2026."
+    },
+    {
+     "ref": "bbc_football#20",
+     "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
+     "published": "2026-10-26T16:59:33+00:00",
+     "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's Football Awards 2026."
+    },
+    {
+     "ref": "bbc_football#21",
      "title": "FAW sets ambitious 10-year plan but seeks more money",
      "published": "2026-10-26T16:58:55+00:00",
      "summary": "The Football Association of Wales has called for greater funding for Welsh football after setting out ambitious targets for the next decade."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#22",
      "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
      "published": "2026-10-26T15:34:23+00:00",
      "summary": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#23",
      "title": "Why is Wilcox in line of fire from Man Utd fans?",
      "published": "2026-10-26T15:24:12+00:00",
      "summary": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#24",
      "title": "Which game will Chelsea's Palmer miss after red card?",
      "published": "2026-10-26T14:12:43+00:00",
      "summary": "BBC Sport's Ask Me Anything team explains why Cole Palmer's red card suspension will not rule him out of Chelsea's Premier League match against Manchester United."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Fans assist Penicuik clear-up for Clyde cup tie",
-     "published": "2026-10-26T14:09:24+00:00",
-     "summary": "Penicuik Athletic are sure Tuesday's Scottish Cup tie with Clyde will go ahead in as the community rallies to clear storm debris from the pitch at Montgomery Park."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "All the goals from the Women's Super League - matchweek seven",
-     "published": "2026-10-26T12:02:22+00:00",
-     "summary": "Watch every goal from matchweek seven of the Women's Super League 2026-27 season."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Bayern continue unbeaten start in Kompany's absence",
-     "published": "2026-10-26T11:35:11+00:00",
-     "summary": "Bayern Munich beat Freiburg to return to the top of the Bundesliga, as the German champions paid tribute to absent manager Vincent Kompany who is recovering in hospital after he collapsed while watching Bayern's second team train."
     }
    ]
   },
@@ -719,153 +719,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "'The type of games we love to play'- Mohammed Sofo reflects on NY Red Bulls' famous victory over Inter Miami - Asaase Radio",
+     "published": "2026-10-27T08:10:56+00:00",
+     "summary": "'The type of games we love to play'- Mohammed Sofo reflects on NY Red Bulls' famous victory over Inter Miami Asaase Radio"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "Why did Messi skip Ballon d'Or ceremony? | Messi finished 5th In Ballon D'or 2026 rankings | Inshorts - Inshorts",
+     "published": "2026-10-27T07:54:47+00:00",
+     "summary": "Why did Messi skip Ballon d'Or ceremony? | Messi finished 5th In Ballon D'or 2026 rankings | Inshorts Inshorts"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "Inter Miami vs Cincinnati Prediction and Betting Tips | October 28th 2026 - Sportskeeda",
      "published": "2026-10-27T07:33:56+00:00",
      "summary": "Inter Miami vs Cincinnati Prediction and Betting Tips | October 28th 2026 Sportskeeda"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#3",
      "title": "Inter Miami vs FC Cincinnati Prediction, Betting Tips, Lineups & Odds | 28 Oct 2026 - Sportsgambler",
      "published": "2026-10-27T07:09:30+00:00",
      "summary": "Inter Miami vs FC Cincinnati Prediction, Betting Tips, Lineups & Odds | 28 Oct 2026 Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
      "title": "New England Revolution vs Inter Miami: Kalshi Promo Code & $25 Bonus - Squawka",
      "published": "2026-10-27T07:04:21+00:00",
      "summary": "New England Revolution vs Inter Miami: Kalshi Promo Code & $25 Bonus Squawka"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
+     "title": "Why Was Lionel Messi Not Present at Ballon d’Or 2026 Ceremony Despite Being Nominated? - MensXP",
+     "published": "2026-10-27T06:04:03+00:00",
+     "summary": "Why Was Lionel Messi Not Present at Ballon d’Or 2026 Ceremony Despite Being Nominated? MensXP"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
      "title": "Cincinnati visits Inter Miami after shutout victory - FOX Sports",
      "published": "2026-10-27T06:03:50+00:00",
      "summary": "Cincinnati visits Inter Miami after shutout victory FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#7",
+     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
+     "published": "2026-10-27T05:11:40+00:00",
+     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
      "title": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums - RealGM",
      "published": "2026-10-27T04:40:34+00:00",
      "summary": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums RealGM"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#9",
+     "title": "Why Was Lionel Messi Absent From Ballon d'Or 2026 Ceremony Despite Record 17th Nomination? - Outlook India",
+     "published": "2026-10-27T04:07:56+00:00",
+     "summary": "Why Was Lionel Messi Absent From Ballon d'Or 2026 Ceremony Despite Record 17th Nomination? Outlook India"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
      "title": "Why Did Lionel Messi Miss Ballon d'Or 2026 Ceremony in London? Here's What We Know - LatestLY",
      "published": "2026-10-27T04:03:26+00:00",
      "summary": "Why Did Lionel Messi Miss Ballon d'Or 2026 Ceremony in London? Here's What We Know LatestLY"
     },
     {
-     "ref": "gnews_inter_miami#6",
-     "title": "\"The type of games we love to play\"- Mohammed Sofo reflects on NY Red Bulls' famous victory over Inter Miami - GhanaSoccernet",
-     "published": "2026-10-27T03:50:47+00:00",
-     "summary": "\"The type of games we love to play\"- Mohammed Sofo reflects on NY Red Bulls' famous victory over Inter Miami GhanaSoccernet"
+     "ref": "gnews_inter_miami#11",
+     "title": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 - The Sun",
+     "published": "2026-10-27T03:53:10+00:00",
+     "summary": "See Lionel Messi with Inter Miami ticket and Caribbean cruise from just £1,479 The Sun"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#12",
      "title": "Why did Lionel Messi skip Ballon d'Or ceremony despite finishing fifth at 39 - Gulf News",
      "published": "2026-10-27T03:48:37+00:00",
      "summary": "Why did Lionel Messi skip Ballon d'Or ceremony despite finishing fifth at 39 Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#13",
      "title": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-27T03:05:00+00:00",
      "summary": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "Ballon d'Or 2026: Inter Miami star Lionel Messi finishes ahead of Erling Haaland, Ousmane Dembele in top 10 - Sports Mole",
-     "published": "2026-10-27T02:00:00+00:00",
-     "summary": "Ballon d'Or 2026: Inter Miami star Lionel Messi finishes ahead of Erling Haaland, Ousmane Dembele in top 10 Sports Mole"
+     "ref": "gnews_inter_miami#14",
+     "title": "Ballon d'Or 2026: Inter Miami star Lionel Messi finishes ahead of Erling Haalnd, Dembele in top 10 - Sports Mole",
+     "published": "2026-10-27T02:00:08+00:00",
+     "summary": "Ballon d'Or 2026: Inter Miami star Lionel Messi finishes ahead of Erling Haalnd, Dembele in top 10 Sports Mole"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#15",
      "title": "Germán Berterame scores goal for Inter Miami CF - ESPN",
      "published": "2026-10-27T01:44:33+00:00",
      "summary": "Germán Berterame scores goal for Inter Miami CF ESPN"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#16",
      "title": "Video: a special tournament: the secret behind Messi's absence from the Ballon d'Or ceremony - Goal.com",
      "published": "2026-10-27T01:36:07+00:00",
      "summary": "Video: a special tournament: the secret behind Messi's absence from the Ballon d'Or ceremony Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#17",
      "title": "Where Did Lionel Messi Finish in the 2026 Ballon d'Or? - beIN SPORTS",
      "published": "2026-10-27T01:05:00+00:00",
      "summary": "Where Did Lionel Messi Finish in the 2026 Ballon d'Or? beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#18",
      "title": "Lionel Messi secures remarkable Ballon d’Or finish as Inter Miami superstar defies age in 2026 rankings - Goal.com",
      "published": "2026-10-27T00:50:22+00:00",
      "summary": "Lionel Messi secures remarkable Ballon d’Or finish as Inter Miami superstar defies age in 2026 rankings Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#19",
      "title": "New England Revolution vs Inter Miami CF Prediction, 11/1/2026 Soccer Pick, Tips and Odds - Doc's Sports",
      "published": "2026-10-27T00:49:53+00:00",
      "summary": "New England Revolution vs Inter Miami CF Prediction, 11/1/2026 Soccer Pick, Tips and Odds Doc's Sports"
     },
     {
-     "ref": "gnews_inter_miami#15",
-     "title": "Prediction Inter Miami vs Cincinnati: analysis, odds and betting tips - BetMines",
-     "published": "2026-10-27T00:34:22+00:00",
-     "summary": "Prediction Inter Miami vs Cincinnati: analysis, odds and betting tips BetMines"
-    },
-    {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#20",
      "title": "New England Revolution vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-27T00:25:54+00:00",
      "summary": "New England Revolution vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#21",
      "title": "Se Atlético de Madrid vs. Inter Miami CF | Disney+ - Disney Plus",
      "published": "2026-10-27T00:13:41+00:00",
      "summary": "Se Atlético de Madrid vs. Inter Miami CF | Disney+ Disney Plus"
     },
     {
-     "ref": "gnews_inter_miami#18",
-     "title": "Lionel Messi opts to attend Messi Cup rather than Ballon d'Or ceremony - USA Today",
-     "published": "2026-10-26T22:04:00+00:00",
-     "summary": "Lionel Messi opts to attend Messi Cup rather than Ballon d'Or ceremony USA Today"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Messi follows in Buffon's footsteps in the Ballon d'Or race - Goal.com",
-     "published": "2026-10-26T19:54:08+00:00",
-     "summary": "Messi follows in Buffon's footsteps in the Ballon d'Or race Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "MIAvsCIN 10-28-2026 - Inter Miami CF",
-     "published": "2026-10-26T18:16:49+00:00",
-     "summary": "MIAvsCIN 10-28-2026 Inter Miami CF"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Lionel Messi to Miss 2026 Ballon d’Or Ceremony Due to Inter Miami Commitments - Morocco World News",
-     "published": "2026-10-26T16:32:38+00:00",
-     "summary": "Lionel Messi to Miss 2026 Ballon d’Or Ceremony Due to Inter Miami Commitments Morocco World News"
-    },
-    {
      "ref": "gnews_inter_miami#22",
-     "title": "Details Revealed for Wednesday’s Unified Night presented by Florida Blue at Nu Stadium - Inter Miami CF",
-     "published": "2026-10-26T16:26:12+00:00",
-     "summary": "Details Revealed for Wednesday’s Unified Night presented by Florida Blue at Nu Stadium Inter Miami CF"
+     "title": "Harry Kane Beats Lionel Messi to the 2026 Ballon d’Or After a Record-Breaking Season - Pasión Fútbol",
+     "published": "2026-10-26T23:08:22+00:00",
+     "summary": "Harry Kane Beats Lionel Messi to the 2026 Ballon d’Or After a Record-Breaking Season Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#23",
-     "title": "Inter Miami Falls 2-0 to Red Bulls, Nashville Wins Supporters’ Shield - MundoNOW",
-     "published": "2026-10-26T16:23:02+00:00",
-     "summary": "Inter Miami Falls 2-0 to Red Bulls, Nashville Wins Supporters’ Shield MundoNOW"
+     "title": "Harry Kane vs. Lionel Messi: Did the Bayern Star’s 73-Goal Season Leave the Inter Miami Icon Behind? - Pasión Fútbol",
+     "published": "2026-10-26T23:02:39+00:00",
+     "summary": "Harry Kane vs. Lionel Messi: Did the Bayern Star’s 73-Goal Season Leave the Inter Miami Icon Behind? Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#24",
-     "title": "Why did Lionel Messi not attend the 2026 Ballon d’Or gala today? - World Soccer Talk",
-     "published": "2026-10-26T16:16:25+00:00",
-     "summary": "Why did Lionel Messi not attend the 2026 Ballon d’Or gala today? World Soccer Talk"
+     "title": "Messi Cup 2026: How to watch in the UK, who is taking part, when and what is it? - ESPN",
+     "published": "2026-10-26T22:22:02+00:00",
+     "summary": "Messi Cup 2026: How to watch in the UK, who is taking part, when and what is it? ESPN"
     }
    ]
   },
@@ -881,96 +881,108 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#1",
+     "title": "Nuggets Have $125 Million Problem - Yahoo Sports",
+     "published": "2026-10-26T21:13:42+00:00",
+     "summary": "Nuggets Have $125 Million Problem Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
      "title": "Avdija shines as Lillard and Morant embrace new roles in Portland - The Jerusalem Post",
      "published": "2026-10-26T20:56:46+00:00",
      "summary": "Avdija shines as Lillard and Morant embrace new roles in Portland The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "r/u_MrBuckBuck on Reddit: Danny Wolf & Ben Saraf full FOOTAGE vs. Indiana Pacers last night (136-109 L) - Howl.Link",
      "published": "2026-10-26T18:48:57+00:00",
      "summary": "r/u_MrBuckBuck on Reddit: Danny Wolf & Ben Saraf full FOOTAGE vs. Indiana Pacers last night (136-109 L) Howl.Link"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Blazers' Sidy Cissoko Shows His Value Long After the Points Stop - roundtable.io",
      "published": "2026-10-26T18:24:24+00:00",
      "summary": "Blazers' Sidy Cissoko Shows His Value Long After the Points Stop roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Nets' Ben Saraf: Sent to Long Island - CBS Sports",
      "published": "2026-10-26T15:14:04+00:00",
      "summary": "Nets' Ben Saraf: Sent to Long Island CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Ben Saraf News: Sent to Long Island - RotoWire",
      "published": "2026-10-26T15:14:04+00:00",
      "summary": "Ben Saraf News: Sent to Long Island RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "How Do the Blazers Stop Luka Doncic? - roundtable.io",
      "published": "2026-10-26T03:41:56+00:00",
      "summary": "How Do the Blazers Stop Luka Doncic? roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Portland Trail Blazers open 2026-27 NBA season - OregonLive.com",
      "published": "2026-10-25T20:30:09+00:00",
      "summary": "Portland Trail Blazers open 2026-27 NBA season OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija Is Still the Trail Blazers’ Best Player Despite New-Look Roster - Yahoo Sports",
      "published": "2026-10-25T14:15:25+00:00",
      "summary": "Deni Avdija Is Still the Trail Blazers’ Best Player Despite New-Look Roster Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "'Deni Avdija on track to become one of the greatest in Portland history' - The Jerusalem Post",
      "published": "2026-10-25T08:30:04+00:00",
      "summary": "'Deni Avdija on track to become one of the greatest in Portland history' The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija's 26 propels Portland past Sacramento - NBA.com",
      "published": "2026-10-24T21:25:32+00:00",
      "summary": "Deni Avdija's 26 propels Portland past Sacramento NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
+     "title": "Ja Morant posts near double-double Friday against Kings - FantasyPros",
+     "published": "2026-10-24T15:31:39+00:00",
+     "summary": "Ja Morant posts near double-double Friday against Kings FantasyPros"
+    },
+    {
+     "ref": "gnews_israeli_nba#13",
      "title": "Damian Lillard fills stat sheet in Friday's win over Kings - FantasyPros",
      "published": "2026-10-24T15:27:01+00:00",
      "summary": "Damian Lillard fills stat sheet in Friday's win over Kings FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija flirts with triple-double in Friday's win over Kings - FantasyPros",
      "published": "2026-10-24T15:23:15+00:00",
      "summary": "Deni Avdija flirts with triple-double in Friday's win over Kings FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#15",
      "title": "Close call vs Kings proves Blazers must put the ball in Deni Avdija’s hands more - Rip City Project",
      "published": "2026-10-24T15:20:36+00:00",
      "summary": "Close call vs Kings proves Blazers must put the ball in Deni Avdija’s hands more Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#16",
      "title": "Trail Blazers' Deni Avdija: Superb in team's second win - CBS Sports",
      "published": "2026-10-24T08:55:19+00:00",
      "summary": "Trail Blazers' Deni Avdija: Superb in team's second win CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija News: Superb in team's second win - RotoWire",
      "published": "2026-10-24T08:55:19+00:00",
      "summary": "Deni Avdija News: Superb in team's second win RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - ABC News - Breaking News, Latest News and Videos",
      "published": "2026-10-24T08:26:34+00:00",
      "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings ABC News - Breaking News, Latest News and Videos"

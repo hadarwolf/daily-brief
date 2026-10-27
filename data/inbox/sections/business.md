@@ -18,109 +18,109 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "AFC, Munich Re to Share $1 Billion Trade Finance Risk (Video)",
-     "published": "2026-10-27T07:49:54+00:00"
+     "title": "Horizons Middle East & Africa 10/27/2026 (Video)",
+     "published": "2026-10-27T08:12:38+00:00"
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "AFC, Munich Re to Share $1 Billion Trade Finance Risk",
+     "published": "2026-10-27T07:49:54+00:00",
+     "summary": "Africa Finance Corporation says it's agreed to share 1 billion dollars worth of risk on African trade finance with Munich Re. In an exclusive conversation with Bloomberg’s Jennifer Zabasajja, AFC CEO and Founder Samaila Zubairu spoke on how the expansion fits into the institution's goals for African growth and productivity. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "Dangote Refinery IPO Set for Record on African, Global Demand",
      "published": "2026-10-27T07:34:18+00:00",
      "summary": "Africa’s biggest initial public offering has already secured enough commitments from Nigerian and retail investors to meet its fundraising target, according to people familiar with the matter."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Chinese Households Are Buying Gold’s Dip as Prices Test $4,000",
      "published": "2026-10-27T07:32:04+00:00",
      "summary": "Chinese households’ appetite for gold has grown over the past two months as prices soften and onshore equities lose their shine, providing support at a time when bullion is testing $4,000 an ounce."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "HSBC Earnings: Profit Jump and $1 Billion Buyback Fall Short of Investors Hopes",
      "published": "2026-10-27T07:31:27+00:00",
      "summary": "Plus: gilts, bunds and OATs"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "HSBC Reports Profit Miss, Announces Buyback",
      "published": "2026-10-27T07:29:20+00:00",
      "summary": "HSBC fell in Hong Kong after reporting earnings that fell short of estimates in the third quarter. The bank kept its outlook for the rest of year unchanged and announced a $1 billion share buyback. Phil Richards of Bloomberg Intelligence breaks down the numbers. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "French Banks to Face Investor Scrutiny Over Risks from Turmoil",
      "published": "2026-10-27T07:15:00+00:00",
      "summary": "French lenders will face heightened scrutiny over turmoil in the country when they present third-quarter earnings this week, with investors focused on their sovereign bond holdings and risks from a potential slowdown in the economy."
     },
     {
-     "ref": "bloomberg_markets#6",
-     "title": "Indonesia 10-Year Yield at Four-Year High on MSCI Risk, Oil",
+     "ref": "bloomberg_markets#7",
+     "title": "Indonesia Bond Yield Hits Four-Year High as MSCI Risk, Oil Weigh",
      "published": "2026-10-27T06:52:38+00:00",
-     "summary": "Indonesia’s 10-year government bond yield climbed to a four-year high and the rupiah fell toward a record low as elevated oil prices and the MSCI Inc. threat of a stocks downgrade hurt investor sentiment."
+     "summary": "Indonesia’s 10-year government bond yield climbed to a four-year high and the rupiah weakened toward a record low as elevated oil prices and MSCI Inc.’s threat of a stocks downgrade hurt investor sentiment."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "FTSE 100 Live: UK Stocks Set to Fall as HSBC Profit Falls Short",
      "published": "2026-10-27T06:44:47+00:00"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "China Bonds Rally As Gloom Deepens Over Stocks",
      "published": "2026-10-27T06:38:21+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Le Pen’s Rise Spurs Rush for French Renewable Contracts",
      "published": "2026-10-27T06:15:00+00:00",
      "summary": "French renewable developers are rushing to lock in state-backed contracts before next year’s presidential election, fearing a halt to new projects under a Marine Le Pen government."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Anthropic IPO Reignites AI Trade in Asia",
      "published": "2026-10-27T06:12:28+00:00",
      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "How China Is Setting the Pace on Nuclear Power",
      "published": "2026-10-27T06:08:02+00:00",
      "summary": "Sama Bilbao y Leon, Director General of the World Nuclear Association, says China’s 59 reactors under construction demonstrate a programmatic approach to nuclear development that Western Europe and North America should look to replicate. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "JSW Steel's Jayant Acharya on India Steel Demand",
      "published": "2026-10-27T06:03:26+00:00",
      "summary": "JSW Steel's joint MD and CEO Jayant Acharya expects the steel demand in India to remain extremely strong driven by public expenditure on infrastructure and manufacturing growth. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Dubai Firm’s $543 Million IPO Covered Within Minutes Despite War",
      "published": "2026-10-27T04:36:03+00:00",
      "summary": "DIP Holding Plc drew enough demand to cover its up to $543 million initial public offering within minutes of opening books, signaling strong appetite for the United Arab Emirates’ first listing since the Iran war began."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Samsung Life’s Record Bond Shows High-Grade Grit in Turmoil",
      "published": "2026-10-27T03:26:19+00:00",
      "summary": "Some high-grade borrowers are riding out the turmoil in credit markets, with an affiliate of Samsung Group selling a record $1.5 billion bond on strong demand, even as some issuers have postponed plans."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "AI Trade Bounces Back as Anthropic IPO Eases Funding Jitters",
      "published": "2026-10-27T01:00:52+00:00",
      "summary": "Anthropic PBC’s IPO filing is reviving the AI trade across Asia, offering reassurance on the billions needed to sustain the buildout while highlighting supply bottlenecks that favor the region’s chip and equipment makers."
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "Trading Platform Rocked by Japan Hack, $50 Million Ransom",
      "published": "2026-10-26T23:57:11+00:00",
      "summary": "Hackers targeting a currency trading platform claimed to have published customer information after failing to receive a $50 million ransom, adding to a wave of cyberattacks in Japan that have prompted the government to draw up emergency measures."
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Gold Steadies Near $4,000 as Traders Prepare for Fed Rate Call",
-     "published": "2026-10-26T23:20:28+00:00",
-     "summary": "Gold held near $4,000 an ounce as traders prepared for a Federal Reserve decision this week that’s expected to keep interest rates steady."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -142,9 +142,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "HSBC shares dip despite quarterly profits jumping amid cost cuts",
-     "published": "2026-10-27T05:53:24+00:00",
-     "summary": "Stocks fall after Europe’s biggest bank narrowly misses expectations and announces buyback of up to $1bn"
+     "title": "HSBC shares slide as results disappoint",
+     "published": "2026-10-27T08:00:50+00:00",
+     "summary": "Third-quarter profits and revenues at Europe’s biggest bank narrowly miss expectations"
     },
     {
      "ref": "ft_home#1",
@@ -172,9 +172,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#5",
-     "title": "Beware the political cost of economic insecurity",
+     "title": "How long can lawyers keep squeezing their clients?",
      "published": "2026-10-27T05:00:18+00:00",
-     "summary": "Interest rates are a blunt tool in the fight against the rising price of essential items"
+     "summary": "Possibly longer than one may think"
     },
     {
      "ref": "ft_home#6",
@@ -208,33 +208,33 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "התוכניות של אנתרופיק הקפיצו את מניות השבבים באסיה; סיאול טיפסה ב-3%",
+     "published": "2026-10-27T08:11:00+00:00",
+     "summary": "מחירי הנפט חוזרים לעלות; החוזים על ברנט מטפסים נעל 116 דולר לחבית ■ תשקיף אנתרופיק הרים את מניות הטכנולוגיה בוול סטריט; נאסד\"ק התחזק בכ–1%; מניית מיקרוסופט עלתה ב-1.5% בעקבות הצעה לפרישה מרצון לכ–60 אלף עובדים; מניית מטא נסוגה על רקע כוונתה לגייס 95 מיליארד דולר בהנפקת מניות חדשה"
+    },
+    {
+     "ref": "themarker#1",
      "title": "\"תחושה של שיתוק\": אוקטובר בדרך להירשם כחודש הגרוע ביותר להנפקות בוול סטריט ב–2026",
      "published": "2026-10-27T07:06:07+00:00",
      "summary": "אנתרופיק צפויה להיות בין היחידות שתצא לבורסה בחודשיים האחרונים של 2026 ■ עד סוף ספטמבר גויסו כמעט 163 מיליארד דולר בהנפקות, ומתחילת אוקטובר רק מעט יותר מחצי מיליארד דולר ■ בוול סטריט כבר מתחילים להתכונן לגל הנפקות במחצית השנייה של 2027"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "המילואימניק והיועץ לשעבר של ההסתדרות מנגנים על כל הכאבים של הדור הצעיר",
      "published": "2026-10-27T06:32:12+00:00",
      "summary": "נתניהו הקדיש לירון זליכה דקה שלמה בריאיון טלוויזיוני, אף שהרשימה שבה זליכה חבר לצד יועז הנדל מתנדנדת סביב אחוז החסימה ■ השניים מבקשים למשוך צעירים שמאסו במערכת הפוליטית — אך לא פוסלים ישיבה בממשלת נתניהו"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#3",
      "title": "תתעסקו במרמלדות, שוקולדות ותנינים. רק לא בהרוגים בתקופתו של בן גביר",
      "published": "2026-10-27T06:32:03+00:00",
      "summary": "איתמר בן גביר מתרברב בתנאי האסירים הירודים בבתי הכלא כדי לחפות על הקדנציה הכושלת שלו כשר לביטחון פנים, עם מספר הרוגים שהגיע לשיא ■ עם התחזקות בסקרים הוא שואף להתמנות לתפקיד שר הביטחון, ולאחר שכבר הוכיח שהוא יודע לקבל את מבוקשו — אסור להקל ראש בנזק האפשרי"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#4",
      "title": "יוסף ג'בארין מציע הצעה פוליטית שאפשר להתווכח איתה, אבל האחריות מוטלת גם על הצד השני",
      "published": "2026-10-27T06:31:51+00:00",
      "summary": "מול צעירים שרעשי הרקע והפשיעה גורמים להם להמשיך לגלול, יוסף ג'בארין מנסה להציע מהלך פוליטי מעשי ■ האם הפוליטיקאים היהודים ירימו את הכפפה?"
-    },
-    {
-     "ref": "themarker#4",
-     "title": "התוכניות של אנתרופיק מקפיצות את מניות השבבים באסיה; סיאול עולה ב-4%",
-     "published": "2026-10-27T06:20:00+00:00",
-     "summary": "ירידות של עד 1% בשוק הנפט; דיווח באיראן על מאמצים דיפלומטיים חדשים ■ תשקיף אנתרופיק הרים את מניות הטכנולוגיה בוול סטריט; נאסד\"ק התחזק בכ–1%; מניית מיקרוסופט עלתה ב-1.5% בעקבות הצעה לפרישה מרצון לכ–60 אלף עובדים; מניית מטא נסוגה על רקע כוונתה לגייס 95 מיליארד דולר בהנפקת מניות חדשה"
     },
     {
      "ref": "themarker#5",
@@ -364,27 +364,27 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Dollar Rises as Oil Prices Rally",
+     "published": "2026-10-27T07:59:00+00:00",
+     "summary": "The dollar rose to a 12-day high against a basket of currencies as oil prices rallied due to concerns about the continued Middle East conflict."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Italy’s Eni Expects More Gas Drilling Offshore Europe as Supply Concerns Mount",
      "published": "2026-10-27T07:14:00+00:00",
      "summary": "The Cronos project off Cyprus in the eastern Mediterranean lays the foundation for future drilling in the region, according to chief operating officer, Guido Brusco."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership",
      "published": "2026-10-27T07:01:00+00:00",
      "summary": "The investment comes as Nvidia and Meta Platforms expand their partnership on the Facebook parent’s artificial-intelligence offering Muse."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "HSBC Profit Growth Misses, Plans $1 Billion Buyback",
      "published": "2026-10-27T06:21:00+00:00",
      "summary": "The London-based bank reported slower-than-expected quarterly profit growth, sending shares lower despite its announcement of a new share buyback of up to $1 billion."
-    },
-    {
-     "ref": "wsj_markets#3",
-     "title": "Singapore Dollar Steady, May Be Supported by Improved Risk Appetite",
-     "published": "2026-10-27T03:37:00+00:00",
-     "summary": "The Singapore dollar was steady against its U.S. counterpart, possibly supported by improved risk appetite after gains for U.S. stocks Monday."
     },
     {
      "ref": "wsj_markets#4",
@@ -532,23 +532,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0792,
+   "last": 3.0772,
    "prev_close": 3.1047,
-   "change_pct": -0.82,
+   "change_pct": -0.89,
    "as_of": "2026-10-27"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 111.2,
+   "last": 111.31,
    "prev_close": 115.81,
-   "change_pct": -3.98,
+   "change_pct": -3.89,
    "as_of": "2026-10-27"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 79690.7969,
+   "last": 79723.1797,
    "prev_close": 80006.6562,
-   "change_pct": -0.39,
+   "change_pct": -0.35,
    "as_of": "2026-10-27"
   }
  },
