@@ -24,142 +24,153 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2004,
-   "text": "Rockstar Games released Grand Theft Auto: San Andreas, considered one of the best video games ever made, in North America.",
+   "year": 2019,
+   "text": "The Mocking of Christ (pictured) by Cimabue sold at auction in France for €19.5 million, a record for a pre-1500 artwork.",
    "context": [
-    "Rockstar Games, Inc. is an American video game publisher based in New York City. The company was established in December 1998 as a subsidiary of Take-Two Interactive, using the assets Take-Two had previously acquired from BMG Interactive. Founding members of the company were Terry Donovan, Gary Foreman, Dan and Sam Houser, and Jamie King, who worked for Take-Two at the time, and of which the Houser brothers were previously executives at BMG Interactive. Sam Houser heads the studio as president."
+    "The Mocking of Christ is a small 13th-century panel painting by the Italian artist Cimabue, in tempera on a poplar panel. It depicts the mocking of Jesus and is one of three panels known from Cimabue's Diptych of Devotion."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2001,
-   "text": "President George W. Bush signed the Patriot Act into law, significantly expanding the authority of United States law enforcement agencies.",
+   "year": 2011,
+   "text": "Michael D. Higgins (pictured) was elected President of Ireland with far more votes than any politician in the country's history.",
    "context": [
-    "George Walker Bush is an American former politician, businessman, and U.S. Air Force veteran who served as the 43rd president of the United States from 2001 to 2009. A member of the Republican Party, he served as the 46th governor of Texas from 1995 to 2000. He is the eldest son of George H. W. Bush, the 41st president of the United States."
+    "Michael Daniel Higgins is an Irish politician, poet and broadcaster who served as the president of Ireland from November 2011 to November 2025. Entering national politics through the Labour Party, he served as a senator from 1973 to 1977 and a Teachta Dála (TD) from 1981 to 1982, returning to the Seanad from 1983 to 1987 and the Dáil from 1987 to 2011. He served as minister for arts, culture and the Gaeltacht from 1993 to 1997 and as mayor of Galway from 1981 to 1982 and 1990 to 1991."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2000,
-   "text": "Following protests against military leader Robert Guéï, Laurent Gbagbo (pictured) became the president of Ivory Coast.",
+   "year": 2004,
+   "text": "The Boston Red Sox completed a sweep of the St. Louis Cardinals to win the 2004 World Series, breaking the so-called \"Curse of the Bambino\".",
    "context": [
-    "Robert Guéï was an Ivorian politician who served as the third president of the Ivory Coast from 24 December 1999 to 26 October 2000. He succeeded President Henri Konan Bédié after the 1999 Ivorian coup d'état and lost to Laurent Gbagbo in the ensuing 2000 Ivorian presidential election. Guéï, his wife Rose Doudou Guéï, and his children were killed on 19 September 2002 on the first day of the First Ivorian Civil War."
+    "The Boston Red Sox are an American professional baseball team based in Boston. The Red Sox compete in Major League Baseball (MLB) as a member club of the American League (AL) East Division. Founded in 1901 as one of the American League's eight charter franchises, the team's home ballpark has been Fenway Park since 1912. The \"Red Sox\" name was chosen by the team owner, John I. Taylor, c. 1908, following the lead of previous teams that had been known as the \"Boston Red Stockings\", including the Boston Braves. The team has won nine World Series championships, tied for the third-most of any MLB team, and has played in thirteen World Series. Their most recent World Series appearance and win was in 2018. In addition, they won the 1904 American League pennant, but were not able to defend their 1903 World Series championship when the New York Giants refused to participate in the 1904 World Series."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1994,
-   "text": "Israel and Jordan signed a peace treaty, settling relations between the two countries and pledging that neither would allow its territory to become a staging ground for military strikes by a third country.",
+   "year": 1999,
+   "text": "Armed men led by Nairi Hunanyan carried out a mass shooting at the Armenian parliament, killing Prime Minister Vazgen Sargsyan (pictured), National Assembly speaker Karen Demirchyan, and six others.",
    "context": [
-    "The Israel–Jordan peace treaty, sometimes referred to as the Wadi Araba Treaty, is an agreement that ended the state of war that had existed between the two countries since the 1948 Arab–Israeli War and established mutual diplomatic relations. In addition to establishing peace between the two countries, the treaty also settled land and water disputes, provided for broad cooperation in tourism and trade, and obligated both countries to prevent their territory being used as a staging ground for military strikes by a third country."
+    "Nairi Hrachiki Hunanyan is an Armenian journalist who led the armed attack on the Armenian parliament on 27 October 1999 and killed Prime Minister Vazgen Sargsyan and Parliament Speaker Karen Demirchyan and six other politicians."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1977,
-   "text": "Somali hospital cook Ali Maow Maalin began displaying symptoms of smallpox, becoming the last person known to be naturally infected by the disease.",
+   "year": 1993,
+   "text": "Widerøe Flight 744 suffered a controlled flight into terrain while on approach to Namsos Airport, Norway, killing two crew members and four passengers.",
    "context": [
-    "Ali Maow Maalin was a Somali hospital cook and health worker from Merca who is the last person known to have been infected with naturally occurring Variola minor smallpox. The disease was diagnosed in October 1977 and Maalin made a full recovery. Although he had many contacts, none of them developed the disease, and an aggressive containment campaign was successful in preventing an outbreak. Smallpox was declared to have been eradicated globally by the World Health Organization (WHO) two years later. Maalin was subsequently involved in the successful poliomyelitis eradication campaign in Somalia, and he died of malaria while carrying out polio vaccinations after the re-emergence of the poliovirus in 2013."
+    "Widerøe Flight 744, also known as the Namsos Accident, was a scheduled flight of Widerøes Flyveselskap from Trondheim Airport, Værnes, via Namsos, to Rørvik Airport, Ryumsjøen, Norway. On 27 October 1993, the de Havilland Canada DHC-6 Twin Otter serving the flight underwent a controlled flight into terrain during its approach to Namsos Airport, Høknesøra. The incident occurred at 19:16:48 and killed six of the nineteen people on board, including the crew of two. The aircraft crashed at Berg in Overhalla Municipality because it held too low an altitude."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1955,
-   "text": "Ngô Đình Diệm proclaimed himself president of the newly created Republic of Vietnam after defeating former emperor Bảo Đại in a fraudulent referendum supervised by his brother Ngô Đình Nhu.",
+   "year": 1992,
+   "text": "U.S. Navy Petty Officer Allen R. Schindler Jr. was killed in Sasebo, Japan, for being gay, which led to the U.S. Armed Forces' \"don't ask, don't tell\" policy.",
    "context": [
-    "Ngô Đình Diệm was a South Vietnamese politician. He was the final prime minister of the State of Vietnam (1954–1955), and later the first president of South Vietnam from 1955 until his capture and assassination during the CIA-backed 1963 coup d'état."
+    "A petty officer third class is a non-commissioned officer in some navies and coast guards."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1921,
-   "text": "The Chicago Theatre (pictured), the oldest surviving grand movie palace, opened.",
+   "year": 1980,
+   "text": "The Chun Doo-hwan government arrested 153 people related to the Jogye Order, which is considered an abuse of state power.",
    "context": [
-    "The Chicago Theatre, originally known as the Balaban and Katz Chicago Theatre, is a theater on North State Street in the Loop area of Chicago, Illinois. Built in 1921, the Chicago Theatre was the flagship for the Balaban and Katz (B&K) group of theaters run by A. J. Balaban, his brother Barney Balaban and partner Sam Katz. Along with the other B&K theaters, from 1925 to 1945 the Chicago Theatre was a dominant movie theater enterprise. Currently, Madison Square Garden, Inc. owns and operates the Chicago Theatre as a 3600 seat performing arts venue for stage plays, magic shows, comedy, speeches, sporting events and popular music concerts."
+    "Chun Doo-hwan was a South Korean army general and politician who served as the fifth president of South Korea from 1980 to 1988. A member of the military, he ruled the country as a military dictator following a successful coup in December 1979. The period encompassing his presidency is known as the Fifth Republic of Korea."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1906,
-   "text": "The Illinois Memorial, honoring Union army soldiers from Illinois who fought at the Siege of Vicksburg, was dedicated at Vicksburg National Military Park.",
+   "year": 1967,
+   "text": "American Catholic priest Philip Berrigan led a protest against the Vietnam War by pouring blood over Selective Service records in Baltimore, Maryland.",
    "context": [
-    "The Illinois Memorial is a public memorial located at Vicksburg National Military Park in Vicksburg, Mississippi, United States. Dedicated in 1906, it honors the Union Army soldiers from Illinois who fought in the siege of Vicksburg during the Vicksburg campaign of the American Civil War. It was designed by architect William Le Baron Jenney and sculptor Charles Mulligan."
+    "Philip Francis \"Phil\" Berrigan was an American peace activist and Catholic priest with the Josephites. He engaged in nonviolent, civil disobedience in the cause of peace and nuclear disarmament and was often arrested."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1905,
-   "text": "The Saint Petersburg Soviet held its first meeting, becoming the first elected body in Russia to represent workers.",
+   "year": 1964,
+   "text": "Actor Ronald Reagan delivered a speech on behalf of Republican presidential candidate Barry Goldwater, launching his own political career, which culminated in him serving two full terms as U.S. president.",
    "context": [
-    "The Petersburg Soviet of Workers' Delegates was a workers' council, or soviet, in Saint Petersburg in 1905."
+    "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1902,
-   "text": "A group of Russian explorers led by Baron von Toll left their camp on Bennett Island and disappeared without a trace.",
+   "year": 1946,
+   "text": "Inter-religious riots in which Hindu mobs targeted Muslim families began in the Indian state of Bihar, resulting in thousands of deaths.",
    "context": [
-    "Eduard Gustav Freiherr von Toll, also known as Baron von Toll, was a Russian geologist and Arctic explorer of Baltic German descent. He led the Russian polar expedition of 1900–1902 in search of the legendary Sannikov Land, a phantom island purported to lie off Russia's Arctic coast. During the expedition, Toll and a small party of explorers disappeared from Bennett Island, and their fate remains unknown to this day."
+    "Communal riots occurred in Bihar, India from 24 October to 11 November 1946, in which Hindu mobs targeted Muslim families. The riots were triggered by the Great Calcutta Killings, as well as the Noakhali riots earlier that year. Mahatma Gandhi declared that he would fast unto death if the riots did not stop. The riots were part of a sequence of communal violence that culminated in the partition of India."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1892,
-   "text": "Ida B. Wells (pictured) began publishing her research on lynching in the United States, for which she was posthumously awarded a Pulitzer Prize in 2020.",
+   "year": 1942,
+   "text": "The Empire of Japan achieved a pyrrhic victory against the United States at the Battle of the Santa Cruz Islands.",
    "context": [
-    "Ida Bell Wells-Barnett was an American investigative journalist, sociologist, educator, and early leader in the civil rights movement. She was one of the founders of the National Association for the Advancement of Colored People (NAACP). Wells dedicated her career to combating prejudice and violence, and advocating for African-American equality—especially for women."
+    "The Empire of Japan , also known as the Japanese Empire or Imperial Japan, was the period of Japanese history spanning 79 years, starting with the Meiji Restoration on 3 January 1868, and ending with ratification of the Constitution of Japan on 3 May 1947. From August 1910 to September 1945, it included mainland Japan, Okinawa, the Kurils, Karafuto, Korea, and Taiwan. The South Seas Mandate and concessions were de jure not internal parts of the empire but dependent territories. In the closing stages of World War II, with Japan defeated alongside the rest of the Axis powers, the formalized surrender was issued on 2 September 1945, in compliance with the Potsdam Declaration of the Allies, and the empire's territory subsequently shrunk to cover only mainland Japan. However, Okinawa was later returned to Japan in 1972."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1871,
-   "text": "Liberian president Edward James Roye (pictured) was overthrown in modern Africa's first coup d'état.",
+   "year": 1914,
+   "text": "World War I: The Royal Navy dreadnought HMS Audacious was sunk by a mine, but its loss was kept secret for four years.",
    "context": [
-    "Edward James Roye was an Americo-Liberian merchant and politician who served as the fifth president of Liberia from 1870 until his overthrow in the 1871 Liberian coup d'état and subsequent death. He had previously served as the fourth Chief Justice of Liberia from 1865 until 1868. He was the first member of Liberia's True Whig Party to serve as president."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1863,
-   "text": "The Football Association, world's first governing body of association football, was founded in London.",
+   "year": 1913,
+   "text": "A rail workers' strike in Chile escalates into a general strike, organized by the Regional Workers' Federation of Chile.",
    "context": [
-    "The Football Association is the governing body of association football in England and the Crown Dependencies of Jersey, Guernsey and the Isle of Man. Formed in 1863, it is the oldest football association in the world and is responsible for overseeing all aspects of the amateur and professional game in its territory."
+    "A general strike is a strike action in which a substantial proportion of the total labour force in a city, region, or country participates. General strikes are characterised by the participation of workers from a multitude of workplaces across different industries, and tend to involve entire communities. They are often used to strengthen the bargaining position of a trade union or achieve a common social or political goal. General strikes first occurred in the mid-19th century and have characterised many historically important strikes."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1813,
-   "text": "War of 1812: British forces and Mohawk allies under Charles de Salaberry repulsed an American attempt to invade Canada.",
+   "year": 1904,
+   "text": "The first underground segment of the New York City Subway opened, connecting New York City Hall with Harlem.",
    "context": [
-    "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Senate on 17 February 1815."
+    "The first regularly operated line of the New York City Subway opened on October 27, 1904, and was operated by the Interborough Rapid Transit Company (IRT). The early IRT system consisted of a single trunk line running south from 96th Street in Manhattan, with a southern branch to Brooklyn. North of 96th Street, the line had three northern branches in Upper Manhattan and the Bronx. The system had four tracks between Brooklyn Bridge–City Hall and 96th Street, allowing for local and express service. The original line and early extensions consisted of:The IRT Eastern Parkway Line, running between Atlantic Avenue–Barclays Center and Borough Hall\nThe IRT Lexington Avenue Line, running between Borough Hall and Grand Central–42nd Street\nThe IRT 42nd Street Shuttle running between Grand Central–42nd Street and Times Square\nThe IRT Broadway–Seventh Avenue Line, running between Times Square and Van Cortlandt Park–242nd Street\nThe IRT Lenox Avenue Line, running betwern 96th Street and 145th Street\nThe IRT White Plains Road Line, running between 142nd Street Junction and 180th Street–Bronx Park"
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1597,
-   "text": "Imjin War: Thirteen Korean ships commanded by Admiral Yi Sun-sin defeated a far larger Japanese invading fleet at the Battle of Myeongnyang in the Myeongnyang Strait.",
+   "year": 1775,
+   "text": "King George III expanded on his Proclamation of Rebellion in the Thirteen Colonies in his speech from the throne at the opening of Parliament.",
    "context": [
-    "The Imjin War was a series of two Japanese invasions of Korea: an initial invasion in 1592 also individually called the \"Imjin War\", a brief truce in 1596 between the conflicts, followed by a second invasion in 1597 called the Chŏngyu War. The conflict ended in 1598 with the withdrawal of Japanese forces from the Korean Peninsula after a military stalemate in Korea's southern provinces."
+    "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1520,
-   "text": "Charles V was crowned as Holy Roman Emperor.",
+   "year": 1726,
+   "text": "J. S. Bach led the first performance of Ich will den Kreuzstab gerne tragen, BWV 56, one of few works he called a cantata.",
    "context": [
-    "Charles V was Holy Roman Emperor and Archduke of Austria from 1519 to 1556, King of Spain from 1516 to 1556, King of Sicily and Naples from 1516 to 1554, and also Lord of the Netherlands and titular Duke of Burgundy from 1506 to 1555. He was heir to and then head of the rising House of Habsburg. His dominions in Europe included the Holy Roman Empire, extending from Germany to northern Italy with rule over the Austrian hereditary lands and Burgundian Low Countries, and Spain with its possessions of the southern Italian kingdoms of Sicily, Naples, and Sardinia. In the Americas, he oversaw the continuation of Spanish colonisation and a short-lived German colonisation. The personal union of the European and American territories he ruled was the first collection of realms labelled \"the empire on which the sun never sets\"."
+    "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers in the history of Western music."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1341,
-   "text": "The Byzantine army proclaimed chief minister John VI Kantakouzenos as emperor, triggering a civil war between his supporters and those of John V Palaiologos, the heir to the throne.",
+   "year": 1726,
+   "text": "In Leipzig, J. S. Bach led the first performance of Ich will den Kreuzstab gerne tragen, one of the few works that he called a cantata.",
    "context": [
-    "The Byzantine Empire, also known as the Eastern Roman Empire, was the continuation of the Eastern part of the Roman Empire centred on Constantinople during late antiquity and the Middle Ages. Having survived the fall of the Western Roman Empire in the 5th century AD, it endured until the fall of Constantinople to the Ottoman Empire in 1453. The term 'Byzantine Empire' was coined only after its demise; its citizens used the term 'Roman Empire' and called themselves 'Romans'."
+    "Leipzig is the most populous city in the German state of Saxony. The city has a population of 633,592 residents as of 31 December 2025. It is the eighth-largest city in Germany and is part of the Central German Metropolitan Region. Leipzig is located about 150 km (90 mi) southwest of Berlin, in the southernmost part of the North German Plain, at the confluence of the White Elster and its tributaries Pleiße and Parthe."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 1674,
+   "text": "Franco-Dutch War: French forces surrender the fortress town of Grave to the Dutch army after a three month siege.",
+   "context": [
+    "The Franco-Dutch War, 1672 to 1678, was primarily fought by France and the Dutch Republic, with both sides backed at different times by a variety of allies. Related conflicts include the Third Anglo-Dutch War of 1672 to 1674 and the Scanian War of 1675 to 1679."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Negative carry (קארי שלילי)",
+  "Barbell strategy (אסטרטגיית המשקולת)",
+  "Don't fight the Fed (אל תתעסק עם ה-Fed)",
   "Shadow banking (בנקאות צל)",
   "Talk your book (לדבר לטובת הפוזיציה שלך)",
   "Picking up pennies in front of a steamroller (ללקט אגורות לפני מכבש)",

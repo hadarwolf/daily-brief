@@ -1,0 +1,75 @@
+Click to tell Google to prioritize Quanta and see more of the best coverage of science and math in your search and AI results.
+
+Mathematically speaking, democracy is next to impossible.
+
+That may sound like the premise of a Silicon Valley billionaire’s six-hour podcast, but it’s actually a statement about a remarkably stubborn problem: How do you translate a group of individual preferences into a single choice?
+
+In 1785, the French mathematician and philosopher Nicolas de Condorcet discovered that a majority can sometimes vote itself into a logical loop. In elections with three or more candidates, each voter might rank the candidates in a perfectly clear and consistent way — yet when all the votes are tallied, every candidate loses in a head-to-head contest against one of their rivals. Changing the rules only gets us so far: As the economist Kenneth Arrow later proved, any method for combining individual rankings into a collective order must sacrifice at least one seemingly reasonable democratic requirement.
+
+Now three researchers have shown that Condorcet’s 240-year-old paradox has a shape, and it’s suitably peculiar: a Klein bottle, a surface with no distinct inside or outside. The result gives mathematicians a geometric way to explore why seemingly reasonable rules for collective decision-making can become impossible to reconcile.
+
+When there are only two choices, the will of the people is easy to divine: Barring a tie, the candidate preferred by a majority wins. Add a third contender, however, and things get weird. Suddenly, even agreeing on what it means to win becomes a problem.
+
+You might simply elect whoever receives the most votes, as in a typical American election. But suppose Alice receives 35% of the vote, Bob 34%, and Carol 31%. Alice wins. Yet if Carol’s supporters all prefer Bob to Alice, then 65% of the electorate would rather have Bob. By one perfectly reasonable definition of majority rule, the wrong candidate has won.
+
+Before anyone reaches for a tinfoil hat, let’s be clear: Every ballot is counted correctly. The question is what should count as winning.
+
+One solution is to ask voters to rank the candidates, then choose whoever would defeat every rival in a head-to-head contest. But consider the following scenario:
+
+Every voter has a perfectly coherent ranking, yet together they have produced a result that runs in circles.
+
+This is the paradox that Condorcet, a passionate believer in democracy, encountered in the late 18th century. As the secretary of the French Academy of Sciences, he’d been looking for ways to make sure the group was choosing new members fairly. (More enlightened than most, Condorcet would also question the democratic arithmetic of excluding half the population, explicitly defending women’s political rights in a 1790 essay. A few years later, during the Reign of Terror, the revolution he had supported put him in a prison cell; he was found dead two days after his arrest.)
+
+Over the centuries, mathematicians, political scientists, and reformers have devised an astonishing variety of voting systems in hopes of breaking Condorcet’s impasse. Yet every method brings its own vulnerabilities. Change the system and you may well change the winner, even when the voters and their preferences remain exactly the same.
+
+In 1951, the economist Kenneth Arrow showed how deep the problem ran. He sought a voting system that stayed consistent while meeting just a few simple democratic requirements. Voters should be free to rank the candidates in any order. No single voter should unilaterally dictate the outcome of an election. (Read: no kings.) If everyone prefers one option to another, the group’s ranking should reflect that preference. And the ranking of two candidates should depend only on how voters compare those two: Where voters place Carol on their ballots shouldn’t affect whether the group ranks Alice above Bob.
+
+Each requirement sounds reasonable enough on its own. But, Arrow showed, no method can satisfy them all. “Quite often the will of the people doesn’t exist,” said Iain McLean of the University of Oxford.
+
+Arrow’s impossibility theorem, as this result is now known, extended Condorcet’s paradox beyond majority rule, establishing a fundamental limit on how individual votes can be combined into a group decision. Different voting systems can change which of Arrow’s requirements fail, but no single system can ever preserve them all. “You have to make a choice as a system designer as to which of the conditions it’s most harmless to fail,” McLean said.
+
+In 1980, to better understand this phenomenon, the mathematician and economist Graciela Chichilnisky turned to topology, an area of math in which shapes are considered equivalent if one can be stretched into another without tearing. In a footnote, she mused that Condorcet’s paradox in particular could be thought about as a topological problem.
+
+Now mathematicians have proved her intuition true.
+
+What, then, does a voting paradox look like?
+
+To answer this question, the new work builds on a model that Yuliy Baryshnikov, now a professor at the University of Illinois, Urbana-Champaign, proposed in 1993. First, consider a single voter’s ballot in an election with three candidates. There are six possible ways to rank the options. Each one can be represented by a triangle:
+
+Each corner of this triangle represents one of the comparisons the ballot implies: Alice over Bob, Bob over Carol, and Alice over Carol.
+
+A different ballot listing Alice first, Carol second, and Bob third agrees on two of those comparisons, since both ballots put Alice above her rivals. Their triangles therefore share two corners and can be joined along the edge connecting them.
+
+Now join all six triangles (representing all possible ballots) along their matching edges. You get a strip:
+
+The edges at its two ends also match. So bend the strip around and glue those edges together, matching the labels. You get a tube with an opening at each end:
+
+Baryshnikov used this model to give a new topological proof of Arrow’s impossibility theorem.
+
+But look at what happens at either end of the tube. Around one rim, the comparisons read Alice over Bob, Bob over Carol, and Carol over Alice. Around the other, the cycle runs in reverse.
+
+We’re left with Condorcet’s paradoxical cycles — voting results that run in circles. Baryshnikov had ignored these rims. But 30 years later, in April 2025, Ori Livson, a doctoral student at the University of Sydney, reconsidered them. After all, sometimes such circular relationships are allowed, as in the rules of rock-paper-scissors. The trouble arises in situations like elections, when those relationships are expected to form a consistent ranking. Livson wanted a topological model that could distinguish cases where the cycles are allowed from cases where they aren’t.
+
+Together with his adviser, Mikhail Prokopenko, and Prokopenko’s longtime colleague Siddharth Pritam of the Chennai Mathematical Institute, he set out to model the troublesome case.
+
+Each cycle around the tube’s rims leads to the same impossible conclusion: Every candidate ranks above every other. In that sense, both rims are saying the same thing. And in topology, “once you realize two things are the same, you can glue them together,” Livson said.
+
+If you bend the tube until its two openings meet, you get a doughnut-shaped surface called a torus. But this gluing also connects individual edges from each rim in pairings that represent incompatible relationships. An edge representing “Bob over Alice over Carol,” for instance, gets glued to an edge representing “Bob over Carol over Alice.” The researchers needed a way to join the rims without creating such contradictions.
+
+The solution? A twist. Instead of matching one rim to the other point by point, in the same order, the twist allowed the researchers to reverse the order of preferences around one of the rims — making the cycles equivalent. “Gluing with the twist is the only valid option,” Livson said.
+
+If you twist a strip of paper and join its edges, you get a surface with only one side, called a Möbius strip. But what happens when you twist a tube? You end up with something remarkable and strange: a Klein bottle.
+
+Like a Möbius strip, a Klein bottle has only one side, with no distinct inside or outside. Unlike a Möbius strip, it has no edge. (If it looks as if this surface crosses itself, it does — in three dimensions. Mathematicians avoid this by constructing the Klein bottle in four dimensions, where it can close up without self-intersecting.)
+
+The trio had their model. Just as each voter can supply a coherent ranking, and yet the electorate’s preferences refuse to fit into a single order, each small patch of a Klein bottle appears to have two sides, yet those sides cannot be distinguished consistently across the whole surface. In both cases, something that makes sense piece by piece breaks down when we try to put the pieces together.
+
+For Livson, Pritam, and Prokopenko, that resemblance raises a larger question: Can topology help explain other fundamental limits on what mathematics can accomplish? Perhaps these different impossibilities, when given a shape, will turn out to share a deeper geometric explanation.
+
+Topology makes the paradox tangible, but choosing a voting system still means picking your poison. Mathematics can tell us what the trade-offs entail. Our priorities determine which ones are worth making. And that’s something no theorem can settle for us. “It’s not really a mathematical debate,” McLean said. “It’s a debate about values.”
+
+Get highlights of the most important news delivered to your email inbox
+
+Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional, misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can only accept comments written in English.
+
+We’ll email you instructions to reset your password

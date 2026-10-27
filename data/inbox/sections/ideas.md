@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is philosophy. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -28,87 +28,89 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
+     "title": "Great art explained: Tamara in the green Bugatti",
+     "published": "2026-10-26T10:01:00+00:00",
+     "summary": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish - by Aeon Video Watch on Aeon",
+     "full_text_file": "essays/aeon_0.txt"
+    },
+    {
+     "ref": "aeon#1",
+     "title": "How to build real peace",
+     "published": "2026-10-26T10:00:00+00:00",
+     "summary": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on Aeon",
+     "full_text_file": "essays/aeon_1.txt"
+    },
+    {
+     "ref": "aeon#2",
      "title": "Traction!",
      "published": "2026-10-23T10:00:00+00:00",
      "summary": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on Aeon"
     },
     {
-     "ref": "aeon#1",
+     "ref": "aeon#3",
      "title": "Bhutan: the last place",
      "published": "2026-10-22T10:01:00+00:00",
      "summary": "What happened when people in Bhutan, the last country on Earth without television, were allowed to watch it in 1999? - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#4",
      "title": "Other people",
      "published": "2026-10-22T10:00:00+00:00",
      "summary": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#5",
      "title": "When it started to burn",
      "published": "2026-10-21T10:01:00+00:00",
      "summary": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#6",
      "title": "How intuitions work",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#7",
      "title": "A vocabulary for the future: nature",
      "published": "2026-10-19T10:01:00+00:00",
      "summary": "For the philosopher Bruno Latour, seeing anything ‘natural’ as good and the ‘artificial’ as bad is perversely human-centric - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#8",
      "title": "Horrible, unmanly, indispensable",
      "published": "2026-10-19T10:00:00+00:00",
      "summary": "Renaissance Italians saw the gun as the Devil’s work. But soon they embraced this unchivalrous – and necessary – weapon - by Catherine Fletcher Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#9",
      "title": "How to be a (Roman) man",
      "published": "2026-10-16T10:00:00+00:00",
      "summary": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#10",
      "title": "The secrets of Hohle Fels cave",
      "published": "2026-10-15T10:01:00+00:00",
      "summary": "Why aren’t we all Neanderthals? These ancient bird figurines suggest that art was essential to our evolutionary success - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#11",
      "title": "The ladder of knowledge",
      "published": "2026-10-15T10:00:00+00:00",
      "summary": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#12",
      "title": "Into the fire",
      "published": "2026-10-14T10:01:00+00:00",
      "summary": "These women once fled ISIS. Now they defuse the landmines the militants left behind in their Yazidi homeland in northern Iraq - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#13",
      "title": "Deskilling the body",
      "published": "2026-10-13T10:00:00+00:00",
      "summary": "We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending - by Melanie Challenger Read on Aeon"
-    },
-    {
-     "ref": "aeon#12",
-     "title": "Africa’s cultural landmarks: tombs of Buganda kings",
-     "published": "2026-10-12T10:01:00+00:00",
-     "summary": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda - by Aeon Video Watch on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "Is everything conscious?",
-     "published": "2026-10-12T10:00:00+00:00",
-     "summary": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on Aeon"
     }
    ]
   },
@@ -143,87 +145,87 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Monday assorted links",
+     "published": "2026-10-26T16:23:21+00:00",
+     "summary": "1. Why slow fields may determine the pace of discovery. 2. Touch screens on your jacket? 3. Astras performance on Bach bench. 4. More on regional productivity differences (and puzzles) in health care. 5. “Plans to allow US companies run entirely by AI “agents” have come under fire from powerful Republicans in Congress, who fear […] The post Monday assorted links appeared first on Marginal REVOLUTI"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "The MR Archive!",
+     "published": "2026-10-26T11:20:43+00:00",
+     "summary": "The Marginal Revolution archive is now live at https://marginalrevolution.com/ai-archive/. You can also find it from the header and from “Download Full Archive” link in the left menu. The purpose of the archive is twofold, first as Tyler has said we love our human readers and our AI readers and we want to make it as […] The post The MR Archive! appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Tyler Cowen’s Strongest Book Recommendations, 2003-2026",
+     "published": "2026-10-26T11:19:11+00:00",
+     "summary": "From the Archive–these posts are written by AI. Cowen’s strongest recommendations include 1491, The Power Broker, Knausgaard’s first two My Struggle volumes, Fuchsia Dunlop’s Chinese cookbooks, and Meetings with Remarkable Manuscripts. These stand out through unusually strong praise, repeated endorsement, or both. The analysis uses qualitative, book-specific sentiment analysis: explicit superlativ"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "Brazil’s economic problems, in a nutshell",
      "published": "2026-10-26T07:03:20+00:00",
      "summary": "It would take true Milei-like ardour to slice through Brazil’s economic troubles. These are caused by a gnarly mix of high public spending, stubborn inflation and low saving. The result is a crippling cost of capital. Some analysts put Brazil’s real interest rate, the BCB’s policy rate adjusted for next year’s expected inflation, at 9% or […] The post Brazil’s economic problems, in a nutshell appe"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "Frances Lee on American elections",
      "published": "2026-10-26T04:51:28+00:00",
      "summary": "More likely than interference with the election is that unsuccessful office-seekers will refuse to concede, claiming their opponents cheated. Nothing is more basic to democratic legitimacy than the loser’s consent. Many feared that Mr Trump’s refusal to concede in 2020 would spread across the political system. It has not. Bright Line Watch, a research group, […] The post Frances Lee on American el"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Sunday assorted links",
      "published": "2026-10-25T15:42:58+00:00",
      "summary": "1. A safe harbor for open source? 2. False but interesting claims about economic growth. 3. “In a calibrated model of the welfare effects of the estimated impacts of the Great Recession on consumption and mortality, we find that the welfare gain from the estimated mortality decline is quantitatively significant relative to the welfare loss […] The post Sunday assorted links appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "The Panic Patrol",
      "published": "2026-10-25T11:15:45+00:00",
      "summary": "The Panic Patrol, a division of the department of future corrections, reminds us of past panics. Here’s one case in point I wasn’t aware of: The post The Panic Patrol appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "Facts about breastfeeding",
      "published": "2026-10-25T06:57:04+00:00",
      "summary": "We produce a numerical estimate of the value of unpaid breastfeeding relative to national income spanning five centuries and integrating historical and bioarchaeological data. The relative economic contribution of maternal nursing was greater in the distant past than in recent history, rivaling regionally significant industries such as pottery, glassmaking, and even the historical public sector. ["
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "How central bankers spend their time",
      "published": "2026-10-25T05:14:29+00:00",
      "summary": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries. We document several patterns. First, all Fed Chairs spend more […] The post How central bankers spen"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "Emergent Ventures India, 20th cohort",
      "published": "2026-10-25T04:42:24+00:00",
      "summary": "Zahan Turel, a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community’s manuscripts and liturgical records before they are lost. Aditya Vijay, 17, is building Forge, supporting overlooked, self-taught young founders with shared housing, capital, and access. Dev Goyal received a grant for SCRIPT, exploring whether stylus-based drawing kinema"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "Econvitals",
      "published": "2026-10-24T17:54:44+00:00",
      "summary": "From Jason Furman, it tracks economic indicators, mostly U.S. Here is the website. Subscribe here to briefings. Here is a thread on the site. The post Econvitals appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "Why are cybersecurity losses not worse?",
      "published": "2026-10-24T15:57:10+00:00",
      "summary": "Here’s the first part of my theory: cybercriminals are not the organized geniuses we implicitly imagine. Anyone building a criminal gang has to find candidates willing to forgo more stable opportunities in the formal economy. My modeling estimated that something like 720,000 people are involved in the online criminal economy, 90% of them in scam […] The post Why are cybersecurity losses not worse?"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "Cybersecurity ETF",
      "published": "2026-10-24T08:46:22+00:00",
      "summary": "Joe Weisenthal: “The Red Line is the day that Anthropic introduced Mythos” The post Cybersecurity ETF appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#13",
      "title": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
      "published": "2026-10-24T04:53:27+00:00",
      "summary": "Here is the audio, video, and transcript. Here is one excerpt: Cowen: Talk me out of this worry: So we agree science is an ecosystem, and there’s always a temptation to want to fund the most dynamic, most productive parts of the ecosystem. And right now, that would probably be A.I. But if you need […] The post I guest host an NYT podcast with Michael Kratsios, Trump science advisor appeared first "
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Friday assorted links",
-     "published": "2026-10-23T16:35:40+00:00",
-     "summary": "1. Weird diets (NYT). 2. Is this what the Denisovans looked like? 3. Measuring bottlenecks for AI. 4. How is violence diffferent when women lead drug cartels? 5. “Israel’s economy is growing so fast, it will leapfrog the Netherlands and Australia within the next 18 months, in time for it’s 80th birthday—not by 2030, as […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Prediction Markets Are Accurate",
-     "published": "2026-10-23T11:18:43+00:00",
-     "summary": "No surprise to me but a new paper looks at the forecast accuracy of over one million prediction questions from Polymarket, Kalshi, Manifold and the forecasting platform Metaculus. A virtue of the new analysis is that it covers many different areas from business to elections to geo-politics. An event predicted to happen p% of the […] The post Prediction Markets Are Accurate appeared first on Margin"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Protecting Americans from Medicine",
-     "published": "2026-10-23T11:14:10+00:00",
-     "summary": "Max Doppelt: In January 2025 my mom’s lung cancer spread to her brain. The drug with the best chance of helping her was approved in China but not here. A doctor told me, almost as an aside, that if she were Chinese she could buy it at a pharmacy. So I flew to Shanghai and […] The post Protecting Americans from Medicine appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -233,84 +235,91 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
+     "title": "Everyone says they have anxiety. Clinical anxiety is different",
+     "published": "2026-10-26T10:00:00+00:00",
+     "summary": "Anxiety put me in hospital. I’ve learned you can’t eradicate what is part of you – but you can change how you relate to it - by India Sturgis Read on Psyche",
+     "full_text_file": "essays/psyche_0.txt"
+    },
+    {
+     "ref": "psyche#1",
      "title": "Can you ever really think what someone else is thinking?",
      "published": "2026-10-23T10:00:00+00:00",
      "summary": "To see how communication truly works, we should set aside the notion that different people can share the same thoughts - by Víctor Verdejo Read on Psyche"
     },
     {
-     "ref": "psyche#1",
+     "ref": "psyche#2",
      "title": "How to live a life of awe",
      "published": "2026-10-22T10:01:00+00:00",
      "summary": "You don’t need to climb Kilimanjaro or see the Northern Lights to experience the benefits of awe. It’s everywhere if you look - Video by the University of California and the Greater Good Science Center Watch on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#3",
      "title": "Why romantic relationships matter more to men than to women",
      "published": "2026-10-22T10:00:00+00:00",
      "summary": "For too long, men were told to be self-sufficient. The research shows they’re more likely to thrive in a loving couple - by Iris Wahring Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#4",
      "title": "Dear Al Pacino",
      "published": "2026-10-21T10:00:00+00:00",
      "summary": "I wrote my mother’s mad letters to celebrities. It was the only time we shared the same plane of reality - by Joe Mullich Read on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#5",
      "title": "How to overcome task paralysis",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#6",
      "title": "Are you getting enough sun?",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#7",
      "title": "Portraits of another life: Nemo Gould",
      "published": "2026-10-19T10:01:00+00:00",
      "summary": "Driven by childhood curiosity, a sculptor turns discarded objects into kinetic artworks that are the antidote to AI slop - Video by Portraits of Another Life Watch on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#8",
      "title": "What life in Denmark shows about the power of emotional safety",
      "published": "2026-10-19T10:00:00+00:00",
      "summary": "A deep sense of ease – what the Danes call ‘tryg’ – is a collective responsibility that allows individuals to flourish - by Ruth Aharoni Nielsen Read on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#9",
      "title": "The social construction of emotions",
      "published": "2026-10-16T10:01:00+00:00",
      "summary": "Are our emotions universal? How two landmark studies upended our view of emotions – and challenged colonial stereotypes - Video by Then & Now Watch on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#10",
      "title": "Deciding to detransition",
      "published": "2026-10-16T10:00:00+00:00",
      "summary": "For two years, I lived as a trans woman – happy with my body, but fearful of the world it moved in - by André Aram Read on Psyche"
     },
     {
-     "ref": "psyche#10",
+     "ref": "psyche#11",
      "title": "How mental disorders play havoc with our motivation",
      "published": "2026-10-15T10:00:00+00:00",
      "summary": "Feeling energised to do something depends on a cost-benefit analysis that psychiatric conditions scramble in different ways - by Matthias Pillny Read on Psyche"
     },
     {
-     "ref": "psyche#11",
+     "ref": "psyche#12",
      "title": "Chu Prayad",
      "published": "2026-10-14T10:01:00+00:00",
      "summary": "Power, precision and acrobatic high kicks – the Southeast Asian sport of sepak takraw offers Prayad relief from the road - Directed by Habib Yazdi and Joseph Marra Watch on Psyche"
     },
     {
-     "ref": "psyche#12",
+     "ref": "psyche#13",
      "title": "How to handle jealous feelings",
      "published": "2026-10-14T10:00:00+00:00",
      "summary": "Jealousy can be a useful, insightful emotion – if you manage it well. Get curious about your jealousy to get a grip on it - by Carla Marie Manly Read on Psyche"
     },
     {
-     "ref": "psyche#13",
+     "ref": "psyche#14",
      "title": "What is hidden in the photographs we keep of each other?",
      "published": "2026-10-13T10:00:00+00:00",
      "summary": "Returning to family photo albums in my mother’s apartment in Japan, I was struck by the stories the images didn’t tell - by Sawa Kurotani Read on Psyche"
@@ -323,38 +332,40 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
+     "title": "How Voting Is Like a Klein Bottle",
+     "published": "2026-10-26T14:54:29+00:00",
+     "summary": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_0.txt"
+    },
+    {
+     "ref": "quanta#1",
      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
      "published": "2026-10-23T14:54:10+00:00",
      "summary": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail. The post Malaria Parasite Caught in the Act of Breaking and Entering first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#1",
+     "ref": "quanta#2",
      "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
      "published": "2026-10-21T14:00:07+00:00",
      "summary": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#2",
+     "ref": "quanta#3",
      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
      "published": "2026-10-19T15:40:26+00:00",
      "summary": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#3",
+     "ref": "quanta#4",
      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
      "published": "2026-10-16T13:25:08+00:00",
      "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine"
-    },
-    {
-     "ref": "quanta#4",
-     "title": "How Do Fungi Keep the Planet Healthy?",
-     "published": "2026-10-15T13:40:13+00:00",
-     "summary": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "A short story asks: if a superintelligence conquered the world overnight, honestly and mostly gently, would resisting it even make sense?",
   "Friction Isn't Progress's Enemy — It's the Engine That Drives It",
   "Why Understanding Someone Doesn't Mean Sharing Their Thought",
   "Disconnection Is Breaking Us — So She Moved Her Family Into a Shared House With Strangers",
