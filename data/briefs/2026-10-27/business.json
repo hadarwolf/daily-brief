@@ -1,0 +1,151 @@
+{
+  "section": "business",
+  "date": "2026-10-27",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-27T03:54:45+00:00",
+  "stories": [
+    {
+      "id": "anthropic-ipo-ai-financing",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic's IPO Filing Shows How Wall Street Is Really Financing the AI Boom",
+        "scroll": "Anthropic's IPO filing revealed deep losses, while Wall Street finances the AI buildout with record debt, leasing deals and stock sales rather than venture cash alone.",
+        "coffee": "Anthropic filed its S-1 to list on Nasdaq under the ticker ANT, with the IPO roadshow set to begin the week of November 9. The filing showed revenue jumping to about $16 billion in the first half of the year, against a net loss of more than $80 billion, and the company warned it may need more financing sooner than planned, staying silent on any path to an investment-grade credit rating. The 240,000-word prospectus also disclosed $800 billion in data-center commitments and an unusual governance structure — a pitch one Bloomberg columnist called deliberately unappealing to investors who aren't a good fit.\n\nThe filing landed alongside financing moves that show how the AI buildout is really being funded. Banks and Blackstone built a $63 billion vehicle — with Broadcom's CEO personally brokering it — to buy AI computing gear from Broadcom and lease it to Anthropic, helping push US investment-grade bond sales to an annual record on Monday. Meta said it would raise $95 billion in a stock offering with Nvidia, AMD and Broadcom as cornerstone investors, while Microsoft offered buyouts to 60,000 staff, about 27% of its workforce, even while planning to spend up to $175 billion on AI infrastructure this year.\n\nMarkets read it all as bullish for now, with the Nikkei up 1.7% on chip stocks and US tech rallying ahead of this week's Fed decision. The combination of leasing vehicles, record debt and cost-cutting to fund capex is exactly the leverage to watch if sentiment turns.",
+        "deep": "## Background\n\nAn S-1 is the disclosure document a company files with the US Securities and Exchange Commission before an initial public offering (IPO); it lays out audited financials, risk factors and governance terms for prospective investors. Two more pieces of vocabulary matter here. First, investment-grade vs. junk: credit-rating agencies sort corporate debt by risk, into investment-grade (lower risk, cheaper to service) or speculative, \"junk\" grade; which bucket a borrower lands in changes who is allowed to buy its bonds and at what interest rate. Second, a special purpose vehicle, or leasing vehicle: instead of a company buying expensive equipment outright, a separate financing entity buys it and leases it to the end user, letting that user access the asset without the debt necessarily sitting directly on its own balance sheet. A cornerstone investor is a large institutional investor that commits capital to a share offering before it goes to the broader market.\n\n## The story\n\nAnthropic's S-1 filing, released this week, gave the market its first audited look at the company's finances: revenue jumped to roughly $16 billion in the first half of the year, but net losses topped $80 billion over the same period. The company plans to list on Nasdaq under the ticker ANT, with the IPO roadshow — the marketing tour management runs for investors — starting the week of November 9. Buried in the 240,000-word prospectus are warnings that Anthropic may need to raise additional financing sooner than it previously expected, and the company stayed notably quiet about any path toward an investment-grade credit rating, a signal that its debt may for now sit in riskier territory. The filing also disclosed $800 billion in data-center commitments and what the Financial Times described as an \"extraordinary governance structure.\" One Bloomberg columnist went so far as to call the prospectus an \"anti-sell\": a document that reads less like a pitch and more like a warning, deliberately unappealing to investors who aren't a good fit, given its candid discussion of the risks the technology itself poses.\n\nThat filing did not arrive in isolation. The same week, a coalition of banks and the investment firm Blackstone assembled a $63 billion financing vehicle — reportedly sealed only after Broadcom's own CEO personally stepped in — to buy AI computing infrastructure from Broadcom and lease it to Anthropic, rather than have Anthropic purchase the hardware directly. That deal is described as the largest ever assembled to fund AI infrastructure, and it came as US investment-grade bond sales overall hit an annual record on Monday, driven by companies borrowing to fund AI spending. On the equity side, Meta announced plans to raise $95 billion through a stock offering, with chipmakers Nvidia, AMD and Broadcom acting as cornerstone investors — the same companies that sell Meta the chips it needs. And Microsoft, which plans to spend up to $175 billion on AI infrastructure this year, simultaneously offered buyouts to 60,000 staff, about 27% of its workforce, as it works to control costs elsewhere.\n\n## Second-order effects\n\nThe leasing structure is worth sitting with. By having a separate financing vehicle own the hardware and lease it to Anthropic, the arrangement can keep some of that debt off Anthropic's own books even as the AI lab gets to use the equipment — but the risk doesn't disappear, it just moves to the banks, Blackstone and the bondholders who ultimately fund the vehicle. Meanwhile, chipmakers acting as cornerstone investors in the companies buying their chips (as Nvidia, AMD and Broadcom are doing for Meta) means some of the capital funding AI purchases is coming from the sellers themselves — a circularity worth watching, since it can make demand look more independent than it is. And the Microsoft buyouts show the other side of this financing squeeze: even a company spending $175 billion on AI capex (capital expenditure) is simultaneously trimming its headcount, suggesting the AI buildout is being funded partly by cost cuts elsewhere in the business, not just by fresh capital.\n\n## What to watch next\n\nThree things converge in the next two weeks. The Federal Reserve's rate decision this week will shape how cheap all this new borrowing — investment-grade or not — actually is. Anthropic's roadshow, starting the week of November 9, will show whether investors buy the \"anti-sell\" pitch once reading the full risk disclosures, including the newly reported financing timeline. And whether rating agencies eventually place Anthropic's debt as investment-grade or junk will determine who is allowed to hold it and at what cost — a detail the company itself notably declined to address in its own filing."
+      },
+      "he": {
+        "headline": "תשקיף אנתרופיק חושף איך וול סטריט באמת מממנת את בניית תשתיות ה-AI",
+        "scroll": "תשקיף ההנפקה של אנתרופיק חשף הפסדים עצומים, בזמן שוול סטריט מממנת את בניית תשתיות ה-AI בחוב, בעסקאות ליסינג ובהנפקות מניות - ולא רק בהון סיכון.",
+        "coffee": "אנתרופיק הגישה תשקיף הנפקה (S-1 filing) להירשם למסחר בנאסד\"ק תחת הסימול ANT, והשיווק הרשמי של ההנפקה (IPO roadshow) צפוי להתחיל בשבוע של ה-9 בנובמבר. מהתשקיף עולה שההכנסות זינקו לכ-16 מיליארד דולר במחצית הראשונה של השנה, לצד הפסד של יותר מ-80 מיליארד דולר, והחברה הזהירה שתצטרך לגייס מימון נוסף מוקדם מהמתוכנן - ולא התייחסה לסיכוי לקבל דירוג אשראי בדרגת השקעה (investment grade). התשקיף בן כ-240 אלף המילים חשף גם מחויבויות של 800 מיליארד דולר למרכזי נתונים ומבנה שליטה חריג, מה שהוביל פרשן של בלומברג לתאר אותו כפנייה שנועדה בכוונה להרתיע משקיעים שלא מתאימים לפרופיל הסיכון.\n\nהתשקיף התפרסם לצד שורה של מהלכי מימון שמראים איך בניית תשתיות ה-AI ממומנת בפועל. בנקים וחברת ההשקעות בלקסטון הקימו ישות מימון ייעודית (special purpose vehicle) בשווי 63 מיליארד דולר - כשמנכ\"ל ברודקום התערב אישית לסגור את העסקה - כדי לרכוש מברודקום תשתיות מחשוב ל-AI ולהחכיר אותן לאנתרופיק, במקום שזו תרכוש את החומרה בעצמה. המהלך סייע לדחוף את מכירות אגרות החוב האמריקאיות בדרגת השקעה לשיא שנתי ביום שני. במקביל, מטא הודיעה על גיוס של 95 מיליארד דולר בהנפקת מניות (stock offering) שבה אנבידיה, AMD וברודקום ישמשו משקיעי עוגן (cornerstone investors), ומיקרוסופט הציעה פרישה מרצון (buyout) לכ-60 אלף עובדים - כ-27% מכוח האדם שלה - וזאת בזמן שהיא מתכננת להוציא עד 175 מיליארד דולר על תשתיות AI השנה.\n\nבשלב זה השווקים קיבלו את כל זה בחיוב: מדד הניקיי בטוקיו זינק ב-1.7% בהובלת מניות השבבים, ומניות הטכנולוגיה בארה\"ב עלו לפני החלטת הריבית של הפד השבוע. אבל השילוב של ישויות ליסינג, הנפקות חוב בשיא וקיצוצים בכוח האדם למימון הוצאות ההון (capex) הוא בדיוק סוג המנוף שכדאי לעקוב אחריו אם הסנטימנט יתהפך.",
+        "deep": "## רקע\n\nתשקיף הנפקה (S-1 filing) הוא המסמך שחברה מגישה לרשות ניירות הערך האמריקאית (SEC) לפני הנפקה ראשונית לציבור (IPO), ובו מפורטים נתונים פיננסיים מבוקרים, גורמי סיכון ותנאי שליטה בפני משקיעים פוטנציאליים. שני מושגים נוספים חשובים כאן. הראשון, דירוג אשראי בדרגת השקעה (investment grade) מול דרגת \"זבל\" (junk): סוכנויות דירוג האשראי ממיינות חוב חברות לפי רמת סיכון - דרגת השקעה (סיכון נמוך יותר, עלות מימון זולה יותר) או דרגה ספקולטיבית, \"זבל\". הדרגה שבה נופל הלווה קובעת מי מורשה לרכוש את האג\"ח שלו ובאיזו ריבית. השני, ישות מימון ייעודית (special purpose vehicle), או רכב ליסינג: במקום שחברה תרכוש ציוד יקר בעצמה, גוף מימון נפרד רוכש אותו ומחכיר אותו למשתמש הסופי, כך שהמשתמש מקבל גישה לנכס מבלי שהחוב יושב בהכרח ישירות על המאזן שלו. משקיע עוגן (cornerstone investor) הוא משקיע מוסדי גדול שמתחייב מראש להשקיע בהנפקת מניות לפני שזו מגיעה לשוק הרחב.\n\n## הסיפור\n\nתשקיף ההנפקה של אנתרופיק, שהתפרסם השבוע, נתן לשוק הצצה ראשונה ומבוקרת לנתוני החברה: ההכנסות זינקו לכ-16 מיליארד דולר במחצית הראשונה של השנה, אך ההפסד הנקי באותה תקופה עלה על 80 מיליארד דולר. החברה מתכוונת להירשם למסחר בנאסד\"ק תחת הסימול ANT, כשהשיווק הרשמי של ההנפקה (IPO roadshow) - סבב הפגישות שההנהלה מקיימת עם משקיעים - צפוי להתחיל בשבוע של ה-9 בנובמבר. בתוך התשקיף, שמונה כ-240 אלף מילים, מופיעות אזהרות לפיהן אנתרופיק עשויה להזדקק למימון נוסף מוקדם מהמתוכנן, והחברה נמנעה באופן בולט מלהתייחס לכל מסלול אפשרי לקבלת דירוג אשראי בדרגת השקעה - סימן לכך שהחוב שלה עשוי כרגע להיחשב מסוכן יותר. התשקיף חשף גם מחויבויות של 800 מיליארד דולר למרכזי נתונים ומה שה-Financial Times תיאר כ\"מבנה שליטה יוצא דופן\". פרשן של בלומברג כינה את התשקיף \"אנטי-מכירה\" (anti-sell): מסמך שנראה פחות כמו פנייה למשקיעים ויותר כמו אזהרה, שנועד בכוונה להרתיע משקיעים שלא מתאימים לפרופיל הסיכון, לאור הדיון הגלוי בסיכונים שהטכנולוגיה עצמה מציבה.\n\nהתשקיף לא התפרסם בחלל ריק. באותו שבוע, קבוצת בנקים וחברת ההשקעות בלקסטון הקימו ישות מימון ייעודית בשווי 63 מיליארד דולר - שנסגרה, לפי הדיווחים, רק לאחר שמנכ\"ל ברודקום התערב אישית - במטרה לרכוש מברודקום תשתיות מחשוב ל-AI ולהחכיר אותן לאנתרופיק, במקום שזו תרכוש את החומרה בעצמה. העסקה מתוארת כגדולה ביותר שהורכבה אי-פעם למימון תשתיות AI, והגיעה בזמן שמכירות אגרות החוב האמריקאיות בדרגת השקעה שברו שיא שנתי ביום שני, על רקע חברות שמגייסות חוב למימון הוצאות AI. בצד ההון העצמי, מטא הודיעה על תוכנית לגייס 95 מיליארד דולר בהנפקת מניות, שבה יצרניות השבבים אנבידיה, AMD וברודקום ישמשו משקיעות עוגן - אותן חברות שמוכרות למטא את השבבים שהיא צריכה. ומיקרוסופט, שמתכננת להוציא עד 175 מיליארד דולר על תשתיות AI השנה, הציעה במקביל פרישה מרצון לכ-60 אלף עובדים, כ-27% מכוח האדם שלה, כחלק ממאמץ לקצץ בעלויות במקומות אחרים.\n\n## אפקטי סדר שני\n\nשווה להתעכב על מבנה הליסינג. כשישות מימון נפרדת מחזיקה בחומרה ומחכירה אותה לאנתרופיק, ההסדר יכול להשאיר חלק מהחוב הזה מחוץ למאזן של אנתרופיק עצמה, בזמן שחברת ה-AI מקבלת גישה לציוד - אבל הסיכון לא נעלם, הוא רק עובר לבנקים, לבלקסטון ולמחזיקי האג\"ח שבפועל מממנים את הישות. במקביל, יצרניות שבבים שמשמשות משקיעות עוגן בחברות שרוכשות מהן שבבים (כמו שאנבידיה, AMD וברודקום עושות עבור מטא) אומר שחלק מההון שמממן רכישות AI מגיע מהמוכרות עצמן - מעגליות שכדאי לשים לב לה, כי היא יכולה לגרום לביקוש להיראות עצמאי יותר ממה שהוא בפועל. והפרישה מרצון של מיקרוסופט מראה את הצד השני של לחץ המימון הזה: גם חברה שמוציאה 175 מיליארד דולר על הוצאות הון (capex) ל-AI, מקצצת במקביל בכוח האדם שלה - מה שמרמז שבניית תשתיות ה-AI ממומנת בחלקה בקיצוצים במקומות אחרים בעסק, ולא רק בהון טרי.\n\n## מה לעקוב אחריו\n\nשלושה דברים מתלכדים בשבועיים הקרובים. החלטת הריבית של הפדרל ריזרב השבוע תקבע כמה זול - או לא - יהיה בפועל כל הגיוס החדש הזה, בדרגת השקעה או בלעדיה. השיווק הרשמי של הנפקת אנתרופיק, שיתחיל בשבוע של ה-9 בנובמבר, יראה אם משקיעים \"קונים\" את הגישה ה\"אנטי-מכירה\" לאחר קריאת כל גילויי הסיכון, כולל לוח הזמנים החדש שנחשף לגבי צרכי המימון. ושאלת השאלה אם סוכנויות הדירוג יסווגו בסופו של דבר את החוב של אנתרופיק כדרגת השקעה או כ\"זבל\" תקבע מי מורשה להחזיק בו ובאיזו עלות - פרט שהחברה עצמה נמנעה באופן בולט מלהתייחס אליו בתשקיף שלה."
+      },
+      "tags": [
+        "anthropic",
+        "ai-financing",
+        "ipo",
+        "corporate-debt"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Trade Bounces Back as Anthropic IPO Eases Funding Jitters",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/asian-chip-stocks-rise-as-anthropic-ipo-filing-rekindles-ai-bets"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Dave Lee: Anthropic Brings ‘Anti-Sell’ Strategy to Its IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Anthropic Mum on Investment Grade as It Warns of More Debt",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-remains-mum-on-investment-grade-as-it-flags-more-debt"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Funding Drives US High-Grade Bond Sales to Annual Record",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/ai-funding-needs-drive-us-high-grade-bond-sales-to-annual-record"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+          "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Microsoft offers buyouts to 60,000 staff",
+          "url": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
+          "url": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+          "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Nikkei Rises 1.7%, Led by Chip-Related Stocks",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-7-led-by-chip-related-stocks-a902969d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Opinion | Anthropic’s Big IPO Gamble",
+          "url": "https://www.wsj.com/opinion/anthropic-ipo-investors-regulation-dario-amodei-c7339185?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
+          "url": "https://www.wsj.com/tech/ai/banks-blackstone-form-63-billion-financing-vehicle-for-broadcom-ai-tech-0438f6d2?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Rise Ahead of Tech Earnings",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-ahead-of-tech-earnings-d53bc5e5?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "נכנסים לרשימת 300 עשירי העולם: תשקיף אנתרופיק חושף את הונם של המייסדים",
+          "url": "https://www.themarker.com/wallstreet/2026-10-26/ty-article/.premium/000001a1-796b-dd27-a1ef-fb7baef80000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "תשקיף אנתרופיק הרים את מניות הטכנולוגיה בוול סטריט; נאסד\"ק התחזק בקרוב ל–1%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-26/ty-article-live/000001a1-7688-d432-afbd-77fc593d0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מיקרוסופט תציע פרישה מרצון לכ-60 אלף עובדים — כ–27% מכוח האדם שלה",
+          "url": "https://www.themarker.com/wallstreet/2026-10-26/ty-article/.premium/000001a1-78fe-dfb9-a5a9-faff5c110000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "זינוק בהכנסות, הפסדי עתק ו\"סיכונים קיומיים\": אנתרופיק חשפה תשקיף להנפקה",
+          "url": "https://www.themarker.com/wallstreet/2026-10-26/ty-article/000001a1-7809-d222-a3e3-7f69f8250000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4206.3501,
+      "prev_close": 4124.1299,
+      "change_pct": 1.99,
+      "as_of": "2026-10-26"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7676.77,
+      "prev_close": 7623.6802,
+      "change_pct": 0.7,
+      "as_of": "2026-10-26"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0713,
+      "prev_close": 3.1047,
+      "change_pct": -1.08,
+      "as_of": "2026-10-27"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 109.72,
+      "prev_close": 116.72,
+      "change_pct": -6.0,
+      "as_of": "2026-10-26"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 79720.7891,
+      "prev_close": 80024.0078,
+      "change_pct": -0.38,
+      "as_of": "2026-10-27"
+    }
+  }
+}

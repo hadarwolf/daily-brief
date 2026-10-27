@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-27",
+  "questions": [
+    {
+      "id": "quiz-kane-ballon-dor",
+      "section": "sports",
+      "story_id": "kane-ballon-dor-win",
+      "answer_index": 1,
+      "en": {
+        "question": "What milestone did Harry Kane achieve by winning the 2026 Ballon d'Or?",
+        "options": [
+          "He became the youngest-ever Ballon d'Or winner",
+          "He became the first English winner since Michael Owen in 2001",
+          "He won it while playing for an English club",
+          "He became the first Bayern Munich player ever to win it"
+        ],
+        "explanation": "Kane's win ended a 25-year wait for an English winner, the last being Michael Owen in 2001."
+      },
+      "he": {
+        "question": "איזו אבן דרך השיג הארי קיין בזכייתו בכדור הזהב 2026?",
+        "options": [
+          "הוא הפך לזוכה הצעיר ביותר בתולדות כדור הזהב",
+          "הוא הפך לזוכה האנגלי הראשון מאז מייקל אוון ב-2001",
+          "הוא זכה בפרס בזמן שמשחק במועדון אנגלי",
+          "הוא הפך לשחקן הראשון של באיירן מינכן שזוכה בפרס"
+        ],
+        "explanation": "קיין סיים המתנה של 25 שנה לזוכה אנגלי, אחרי מייקל אוון ב-2001."
+      }
+    },
+    {
+      "id": "quiz-knesset-coalition-timeline",
+      "section": "israeli_politics",
+      "story_id": "knesset-26-election-day",
+      "answer_index": 2,
+      "en": {
+        "question": "According to analysts, what will happen with forming Israel's next government after today's election?",
+        "options": [
+          "The president will automatically appoint Netanyahu regardless of the result",
+          "By law, a new government must be formed within 48 hours",
+          "Forming a government could take weeks even if one bloc wins a majority",
+          "No coalition talks will be needed since one party is expected to win outright"
+        ],
+        "explanation": "Even if a bloc clears the 61-seat threshold, actually forming a government with ministerial appointments, coalition agreements and Knesset approval could still take weeks."
+      },
+      "he": {
+        "question": "לפי הפרשנים, מה צפוי לקרות עם הרכבת הממשלה הבאה בישראל אחרי הבחירות של היום?",
+        "options": [
+          "הנשיא ימנה את נתניהו אוטומטית בלי קשר לתוצאות",
+          "על פי חוק יש להרכיב ממשלה חדשה בתוך 48 שעות",
+          "הרכבת ממשלה עשויה לקחת שבועות גם אם גוש אחד ישיג רוב",
+          "לא יהיה צורך במשא ומתן קואליציוני כי מפלגה אחת צפויה לזכות ברוב מוחלט"
+        ],
+        "explanation": "גם אם גוש יעבור את רף 61 המנדטים, הרכבת הממשלה בפועל - מינויים, הסכמים קואליציוניים ואישור הכנסת - עשויה להימשך שבועות."
+      }
+    },
+    {
+      "id": "quiz-voting-klein-bottle",
+      "section": "ideas",
+      "story_id": "voting-klein-bottle",
+      "answer_index": 3,
+      "en": {
+        "question": "What did the mathematicians show about Condorcet's and Arrow's voting paradoxes?",
+        "options": [
+          "The paradox only occurs in elections with exactly two candidates",
+          "Ranked-choice voting fully solves the paradox",
+          "The paradox was mathematically disproven using the new model",
+          "The paradox can be given a precise geometric shape: a Klein bottle"
+        ],
+        "explanation": "By representing every possible ballot as a triangle and gluing them together with a twist, the researchers showed the paradoxical, circular voting rankings form a Klein bottle."
+      },
+      "he": {
+        "question": "מה הראו המתמטיקאים לגבי פרדוקס ההצבעה של קונדורסה וארו?",
+        "options": [
+          "הפרדוקס מתרחש רק בבחירות עם שני מועמדים בלבד",
+          "הצבעה מדורגת (ranked-choice) פותרת את הפרדוקס לחלוטין",
+          "הפרדוקס הופרך מתמטית באמצעות המודל החדש",
+          "לפרדוקס יש צורה גאומטרית מדויקת: בקבוק קליין"
+        ],
+        "explanation": "בהצגת כל פתקי ההצבעה האפשריים כמשולשים והדבקתם זה לזה עם פיתול, הראו החוקרים שהדירוגים המעגליים והפרדוקסליים יוצרים בקבוק קליין."
+      }
+    }
+  ]
+}
