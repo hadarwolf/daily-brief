@@ -86,16 +86,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-27T19:45:00Z",
-     "home": "Roma",
-     "away": "Cagliari",
+     "home": "Torino",
+     "away": "Como 1907",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-27T19:45:00Z",
-     "home": "Torino",
-     "away": "Como 1907",
+     "home": "Roma",
+     "away": "Cagliari",
      "status": "TIMED",
      "score": null
     }
@@ -719,123 +719,123 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Inter Miami vs Cincinnati Prediction and Betting Tips | October 28th 2026 - Sportskeeda",
+     "published": "2026-10-27T07:33:56+00:00",
+     "summary": "Inter Miami vs Cincinnati Prediction and Betting Tips | October 28th 2026 Sportskeeda"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Inter Miami vs FC Cincinnati Prediction, Betting Tips, Lineups & Odds | 28 Oct 2026 - Sportsgambler",
      "published": "2026-10-27T07:09:30+00:00",
      "summary": "Inter Miami vs FC Cincinnati Prediction, Betting Tips, Lineups & Odds | 28 Oct 2026 Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "New England Revolution vs Inter Miami: Kalshi Promo Code & $25 Bonus - Squawka",
      "published": "2026-10-27T07:04:21+00:00",
      "summary": "New England Revolution vs Inter Miami: Kalshi Promo Code & $25 Bonus Squawka"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Cincinnati visits Inter Miami after shutout victory - FOX Sports",
      "published": "2026-10-27T06:03:50+00:00",
      "summary": "Cincinnati visits Inter Miami after shutout victory FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums - RealGM",
      "published": "2026-10-27T04:40:34+00:00",
      "summary": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums RealGM"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Why Did Lionel Messi Miss Ballon d'Or 2026 Ceremony in London? Here's What We Know - LatestLY",
      "published": "2026-10-27T04:03:26+00:00",
      "summary": "Why Did Lionel Messi Miss Ballon d'Or 2026 Ceremony in London? Here's What We Know LatestLY"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
+     "title": "\"The type of games we love to play\"- Mohammed Sofo reflects on NY Red Bulls' famous victory over Inter Miami - GhanaSoccernet",
+     "published": "2026-10-27T03:50:47+00:00",
+     "summary": "\"The type of games we love to play\"- Mohammed Sofo reflects on NY Red Bulls' famous victory over Inter Miami GhanaSoccernet"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
      "title": "Why did Lionel Messi skip Ballon d'Or ceremony despite finishing fifth at 39 - Gulf News",
      "published": "2026-10-27T03:48:37+00:00",
      "summary": "Why did Lionel Messi skip Ballon d'Or ceremony despite finishing fifth at 39 Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-27T03:05:00+00:00",
      "summary": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "Ballon d'Or 2026: Inter Miami star Lionel Messi finishes ahead of Erling Haaland, Ousmane Dembele in top 10 - Sports Mole",
      "published": "2026-10-27T02:00:00+00:00",
      "summary": "Ballon d'Or 2026: Inter Miami star Lionel Messi finishes ahead of Erling Haaland, Ousmane Dembele in top 10 Sports Mole"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#10",
      "title": "Germán Berterame scores goal for Inter Miami CF - ESPN",
      "published": "2026-10-27T01:44:33+00:00",
      "summary": "Germán Berterame scores goal for Inter Miami CF ESPN"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#11",
      "title": "Video: a special tournament: the secret behind Messi's absence from the Ballon d'Or ceremony - Goal.com",
      "published": "2026-10-27T01:36:07+00:00",
      "summary": "Video: a special tournament: the secret behind Messi's absence from the Ballon d'Or ceremony Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#12",
      "title": "Where Did Lionel Messi Finish in the 2026 Ballon d'Or? - beIN SPORTS",
      "published": "2026-10-27T01:05:00+00:00",
      "summary": "Where Did Lionel Messi Finish in the 2026 Ballon d'Or? beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#13",
      "title": "Lionel Messi secures remarkable Ballon d’Or finish as Inter Miami superstar defies age in 2026 rankings - Goal.com",
      "published": "2026-10-27T00:50:22+00:00",
      "summary": "Lionel Messi secures remarkable Ballon d’Or finish as Inter Miami superstar defies age in 2026 rankings Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#14",
      "title": "New England Revolution vs Inter Miami CF Prediction, 11/1/2026 Soccer Pick, Tips and Odds - Doc's Sports",
      "published": "2026-10-27T00:49:53+00:00",
      "summary": "New England Revolution vs Inter Miami CF Prediction, 11/1/2026 Soccer Pick, Tips and Odds Doc's Sports"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#15",
      "title": "Prediction Inter Miami vs Cincinnati: analysis, odds and betting tips - BetMines",
      "published": "2026-10-27T00:34:22+00:00",
      "summary": "Prediction Inter Miami vs Cincinnati: analysis, odds and betting tips BetMines"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#16",
      "title": "New England Revolution vs Inter Miami: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-10-27T00:25:54+00:00",
      "summary": "New England Revolution vs Inter Miami: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#17",
      "title": "Se Atlético de Madrid vs. Inter Miami CF | Disney+ - Disney Plus",
      "published": "2026-10-27T00:13:41+00:00",
      "summary": "Se Atlético de Madrid vs. Inter Miami CF | Disney+ Disney Plus"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#18",
      "title": "Lionel Messi opts to attend Messi Cup rather than Ballon d'Or ceremony - USA Today",
      "published": "2026-10-26T22:04:00+00:00",
      "summary": "Lionel Messi opts to attend Messi Cup rather than Ballon d'Or ceremony USA Today"
     },
     {
-     "ref": "gnews_inter_miami#17",
-     "title": "Why Lionel Messi Isn’t Attending 2026 Ballon d’Or Ceremony - LiveScore",
-     "published": "2026-10-26T21:14:51+00:00",
-     "summary": "Why Lionel Messi Isn’t Attending 2026 Ballon d’Or Ceremony LiveScore"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Messi follows in Buffon's footsteps in the Ballon d'Or race - Goal.com",
      "published": "2026-10-26T19:54:08+00:00",
      "summary": "Messi follows in Buffon's footsteps in the Ballon d'Or race Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Inter Miami vs Cincinnati Prediction and Betting Tips | October 28th 2026 - Sportskeeda",
-     "published": "2026-10-26T19:29:00+00:00",
-     "summary": "Inter Miami vs Cincinnati Prediction and Betting Tips | October 28th 2026 Sportskeeda"
     },
     {
      "ref": "gnews_inter_miami#20",
@@ -875,153 +875,105 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "Trail Blazers' Hot Start Earns Great Recognition Through First Week Of The Season - roundtable.io",
-     "published": "2026-10-27T02:17:58+00:00",
-     "summary": "Trail Blazers' Hot Start Earns Great Recognition Through First Week Of The Season roundtable.io"
-    },
-    {
-     "ref": "gnews_israeli_nba#1",
      "title": "Brooklyn Nets send Israeli guard Ben Saraf to G League after limited NBA playing time - Ynetnews",
      "published": "2026-10-27T01:32:22+00:00",
      "summary": "Brooklyn Nets send Israeli guard Ben Saraf to G League after limited NBA playing time Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#2",
-     "title": "Fantasy basketball points league rankings update: George, Jerome on the rise - ESPN",
-     "published": "2026-10-26T23:09:00+00:00",
-     "summary": "Fantasy basketball points league rankings update: George, Jerome on the rise ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#3",
-     "title": "Nuggets Have $125 Million Problem - Yahoo Sports",
-     "published": "2026-10-26T21:13:42+00:00",
-     "summary": "Nuggets Have $125 Million Problem Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#1",
      "title": "Avdija shines as Lillard and Morant embrace new roles in Portland - The Jerusalem Post",
      "published": "2026-10-26T20:56:46+00:00",
      "summary": "Avdija shines as Lillard and Morant embrace new roles in Portland The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#2",
      "title": "r/u_MrBuckBuck on Reddit: Danny Wolf & Ben Saraf full FOOTAGE vs. Indiana Pacers last night (136-109 L) - Howl.Link",
      "published": "2026-10-26T18:48:57+00:00",
      "summary": "r/u_MrBuckBuck on Reddit: Danny Wolf & Ben Saraf full FOOTAGE vs. Indiana Pacers last night (136-109 L) Howl.Link"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#3",
      "title": "Blazers' Sidy Cissoko Shows His Value Long After the Points Stop - roundtable.io",
      "published": "2026-10-26T18:24:24+00:00",
      "summary": "Blazers' Sidy Cissoko Shows His Value Long After the Points Stop roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#4",
      "title": "Nets' Ben Saraf: Sent to Long Island - CBS Sports",
      "published": "2026-10-26T15:14:04+00:00",
      "summary": "Nets' Ben Saraf: Sent to Long Island CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#5",
      "title": "Ben Saraf News: Sent to Long Island - RotoWire",
      "published": "2026-10-26T15:14:04+00:00",
      "summary": "Ben Saraf News: Sent to Long Island RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#9",
-     "title": "NBA: Grizzlies stay unblemished with victory at winless Kings - GMA Network",
-     "published": "2026-10-26T04:17:51+00:00",
-     "summary": "NBA: Grizzlies stay unblemished with victory at winless Kings GMA Network"
-    },
-    {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#6",
      "title": "How Do the Blazers Stop Luka Doncic? - roundtable.io",
      "published": "2026-10-26T03:41:56+00:00",
      "summary": "How Do the Blazers Stop Luka Doncic? roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#11",
-     "title": "Nets Rookie Brown Jr. Will Sit Pacers Half of Back-To-Back - Yahoo",
-     "published": "2026-10-25T21:24:11+00:00",
-     "summary": "Nets Rookie Brown Jr. Will Sit Pacers Half of Back-To-Back Yahoo"
-    },
-    {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#7",
      "title": "Portland Trail Blazers open 2026-27 NBA season - OregonLive.com",
      "published": "2026-10-25T20:30:09+00:00",
      "summary": "Portland Trail Blazers open 2026-27 NBA season OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#8",
      "title": "Deni Avdija Is Still the Trail Blazers’ Best Player Despite New-Look Roster - Yahoo Sports",
      "published": "2026-10-25T14:15:25+00:00",
      "summary": "Deni Avdija Is Still the Trail Blazers’ Best Player Despite New-Look Roster Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#9",
      "title": "'Deni Avdija on track to become one of the greatest in Portland history' - The Jerusalem Post",
      "published": "2026-10-25T08:30:04+00:00",
      "summary": "'Deni Avdija on track to become one of the greatest in Portland history' The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#15",
-     "title": "Video - Trail Blazers' Future Looks Uncertain After Disappointing Ranking - roundtable.io",
-     "published": "2026-10-25T03:42:45+00:00",
-     "summary": "Video - Trail Blazers' Future Looks Uncertain After Disappointing Ranking roundtable.io"
-    },
-    {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija's 26 propels Portland past Sacramento - NBA.com",
      "published": "2026-10-24T21:25:32+00:00",
      "summary": "Deni Avdija's 26 propels Portland past Sacramento NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#17",
-     "title": "How to watch Cavs vs. Nets home opener on DAZN tonight for free - Cleveland.com",
-     "published": "2026-10-24T21:00:00+00:00",
-     "summary": "How to watch Cavs vs. Nets home opener on DAZN tonight for free Cleveland.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#18",
-     "title": "Should the Nets be worried about most of their 2025 NBA draft class? - AOL.ca",
-     "published": "2026-10-24T19:33:27+00:00",
-     "summary": "Should the Nets be worried about most of their 2025 NBA draft class? AOL.ca"
-    },
-    {
-     "ref": "gnews_israeli_nba#19",
-     "title": "Acuff scores 33 in home debut as Sacramento Kings fall to Portland - Sacramento Bee",
-     "published": "2026-10-24T18:06:57+00:00",
-     "summary": "Acuff scores 33 in home debut as Sacramento Kings fall to Portland Sacramento Bee"
-    },
-    {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Ja Morant posts near double-double Friday against Kings - FantasyPros",
-     "published": "2026-10-24T15:31:39+00:00",
-     "summary": "Ja Morant posts near double-double Friday against Kings FantasyPros"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#11",
      "title": "Damian Lillard fills stat sheet in Friday's win over Kings - FantasyPros",
      "published": "2026-10-24T15:27:01+00:00",
      "summary": "Damian Lillard fills stat sheet in Friday's win over Kings FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija flirts with triple-double in Friday's win over Kings - FantasyPros",
      "published": "2026-10-24T15:23:15+00:00",
      "summary": "Deni Avdija flirts with triple-double in Friday's win over Kings FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#13",
      "title": "Close call vs Kings proves Blazers must put the ball in Deni Avdija’s hands more - Rip City Project",
      "published": "2026-10-24T15:20:36+00:00",
      "summary": "Close call vs Kings proves Blazers must put the ball in Deni Avdija’s hands more Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Portland Trail Blazers Futures odds: Can this roster take the next step? - OregonLive.com",
-     "published": "2026-10-24T14:15:00+00:00",
-     "summary": "Portland Trail Blazers Futures odds: Can this roster take the next step? OregonLive.com"
+     "ref": "gnews_israeli_nba#14",
+     "title": "Trail Blazers' Deni Avdija: Superb in team's second win - CBS Sports",
+     "published": "2026-10-24T08:55:19+00:00",
+     "summary": "Trail Blazers' Deni Avdija: Superb in team's second win CBS Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
+     "title": "Deni Avdija News: Superb in team's second win - RotoWire",
+     "published": "2026-10-24T08:55:19+00:00",
+     "summary": "Deni Avdija News: Superb in team's second win RotoWire"
+    },
+    {
+     "ref": "gnews_israeli_nba#16",
+     "title": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings - ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-10-24T08:26:34+00:00",
+     "summary": "Deni Avdija scores 26 points to lead Trail Blazers in win over Kings ABC News - Breaking News, Latest News and Videos"
     }
    ]
   }

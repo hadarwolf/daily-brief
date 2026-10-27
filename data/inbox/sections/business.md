@@ -18,92 +18,91 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "AFC, Munich Re to Share $1 Billion Trade Finance Risk (Video)",
+     "published": "2026-10-27T07:49:54+00:00"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Dangote Refinery IPO Set for Record on African, Global Demand",
+     "published": "2026-10-27T07:34:18+00:00",
+     "summary": "Africa’s biggest initial public offering has already secured enough commitments from Nigerian and retail investors to meet its fundraising target, according to people familiar with the matter."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Chinese Households Are Buying Gold’s Dip as Prices Test $4,000",
+     "published": "2026-10-27T07:32:04+00:00",
+     "summary": "Chinese households’ appetite for gold has grown over the past two months as prices soften and onshore equities lose their shine, providing support at a time when bullion is testing $4,000 an ounce."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "HSBC Earnings: Profit Jump and $1 Billion Buyback Fall Short of Investors Hopes",
      "published": "2026-10-27T07:31:27+00:00",
      "summary": "Plus: gilts, bunds and OATs"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#4",
      "title": "HSBC Reports Profit Miss, Announces Buyback",
      "published": "2026-10-27T07:29:20+00:00",
      "summary": "HSBC fell in Hong Kong after reporting earnings that fell short of estimates in the third quarter. The bank kept its outlook for the rest of year unchanged and announced a $1 billion share buyback. Phil Richards of Bloomberg Intelligence breaks down the numbers. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#5",
      "title": "French Banks to Face Investor Scrutiny Over Risks from Turmoil",
      "published": "2026-10-27T07:15:00+00:00",
      "summary": "French lenders will face heightened scrutiny over turmoil in the country when they present third-quarter earnings this week, with investors focused on their sovereign bond holdings and risks from a potential slowdown in the economy."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
      "title": "Indonesia 10-Year Yield at Four-Year High on MSCI Risk, Oil",
      "published": "2026-10-27T06:52:38+00:00",
      "summary": "Indonesia’s 10-year government bond yield climbed to a four-year high and the rupiah fell toward a record low as elevated oil prices and the MSCI Inc. threat of a stocks downgrade hurt investor sentiment."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#7",
      "title": "FTSE 100 Live: UK Stocks Set to Fall as HSBC Profit Falls Short",
      "published": "2026-10-27T06:44:47+00:00"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#8",
      "title": "China Bonds Rally As Gloom Deepens Over Stocks",
      "published": "2026-10-27T06:38:21+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#9",
      "title": "Le Pen’s Rise Spurs Rush for French Renewable Contracts",
      "published": "2026-10-27T06:15:00+00:00",
      "summary": "French renewable developers are rushing to lock in state-backed contracts before next year’s presidential election, fearing a halt to new projects under a Marine Le Pen government."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#10",
      "title": "Anthropic IPO Reignites AI Trade in Asia",
      "published": "2026-10-27T06:12:28+00:00",
      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#11",
      "title": "How China Is Setting the Pace on Nuclear Power",
      "published": "2026-10-27T06:08:02+00:00",
      "summary": "Sama Bilbao y Leon, Director General of the World Nuclear Association, says China’s 59 reactors under construction demonstrate a programmatic approach to nuclear development that Western Europe and North America should look to replicate. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#12",
      "title": "JSW Steel's Jayant Acharya on India Steel Demand",
      "published": "2026-10-27T06:03:26+00:00",
      "summary": "JSW Steel's joint MD and CEO Jayant Acharya expects the steel demand in India to remain extremely strong driven by public expenditure on infrastructure and manufacturing growth. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
-     "title": "Anthropic IPO: Who Can Subscribe and What Are the Risks?",
-     "published": "2026-10-27T05:12:42+00:00",
-     "summary": "How is Anthropic's listing positioned in Asian markets? Moneta's global wealth managing director and Bloomberg News reporters discuss the opportunities and pitfalls of the long-awaited IPO. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "Pandora Bets on Vietnam With New $150 Million Factory",
-     "published": "2026-10-27T05:04:48+00:00",
-     "summary": "Pandora has opened a new $150 million factory in Vietnam, its first production base outside Thailand. The expansion comes as the Danish jeweler tackles higher costs and tariff risks while growth in Asia helps offset weaker US demand. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Dubai Firm’s $543 Million IPO Covered Within Minutes Despite War",
      "published": "2026-10-27T04:36:03+00:00",
      "summary": "DIP Holding Plc drew enough demand to cover its up to $543 million initial public offering within minutes of opening books, signaling strong appetite for the United Arab Emirates’ first listing since the Iran war began."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Samsung Life’s Record Bond Shows High-Grade Grit in Turmoil",
      "published": "2026-10-27T03:26:19+00:00",
      "summary": "Some high-grade borrowers are riding out the turmoil in credit markets, with an affiliate of Samsung Group selling a record $1.5 billion bond on strong demand, even as some issuers have postponed plans."
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "China’s 5-Year Government Bond Yield Trades Near Record Low",
-     "published": "2026-10-27T02:01:24+00:00",
-     "summary": "China’s five-year government bond yield dropped after the central bank increased its cash injection into the banking system."
     },
     {
      "ref": "bloomberg_markets#15",
@@ -115,7 +114,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "bloomberg_markets#16",
      "title": "Trading Platform Rocked by Japan Hack, $50 Million Ransom",
      "published": "2026-10-26T23:57:11+00:00",
-     "summary": "Hackers targeting a currency trading platform have published what they claim to be customer information after failing to receive a $50 million ransom, adding to a wave of cyberattacks in Japan that have prompted the government to draw up emergency measures."
+     "summary": "Hackers targeting a currency trading platform claimed to have published customer information after failing to receive a $50 million ransom, adding to a wave of cyberattacks in Japan that have prompted the government to draw up emergency measures."
     },
     {
      "ref": "bloomberg_markets#17",
@@ -209,9 +208,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "כולם מחכים לדבר אחד: ההמתנה לאנתרופיק שיתקה את שוק ההנפקות בוול סטריט",
+     "title": "\"תחושה של שיתוק\": אוקטובר בדרך להירשם כחודש הגרוע ביותר להנפקות בוול סטריט ב–2026",
      "published": "2026-10-27T07:06:07+00:00",
-     "summary": "חברת הבינה המלאכותית צפויה להיות בין היחידות שתצא לבורסה בחודשיים האחרונים של 2026 ■ עד סוף ספטמבר גויסו כמעט 163 מיליארד דולר בהנפקות, ומתחילת אוקטובר רק מעט יותר מחצי מיליארד דולר ■ בוול סטריט כבר מתחילים להתכונן לגל הנפקות במחצית השנייה של 2027"
+     "summary": "אנתרופיק צפויה להיות בין היחידות שתצא לבורסה בחודשיים האחרונים של 2026 ■ עד סוף ספטמבר גויסו כמעט 163 מיליארד דולר בהנפקות, ומתחילת אוקטובר רק מעט יותר מחצי מיליארד דולר ■ בוול סטריט כבר מתחילים להתכונן לגל הנפקות במחצית השנייה של 2027"
     },
     {
      "ref": "themarker#1",
@@ -245,7 +244,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#6",
-     "title": "ועדת הבחירות המרכזית: יותר מ־95% מהקלפיות נפתחו, ייתכנו עיכובים נקודתיים שאינם חריגים",
+     "title": "ראשי המפלגות בקלפי: איזנקוט הגיע לניר עוז, בן גביר הצביע בקריית ארבע",
      "published": "2026-10-27T05:07:55+00:00",
      "summary": "שלושה חודשים וחצי לאחר שפוזרה הכנסת ה–25 וארבע שנים אחרי בחירות 2022, נערכות הבחירות בישראל"
     },
@@ -367,7 +366,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "wsj_markets#0",
      "title": "Italy’s Eni Expects More Gas Drilling Offshore Europe as Supply Concerns Mount",
      "published": "2026-10-27T07:14:00+00:00",
-     "summary": "The Cronos project off Cyprus in the eastern Mediterranean lays the foundation for future drilling in the region, according to Eni’s chief operating officer, Guido Brusco."
+     "summary": "The Cronos project off Cyprus in the eastern Mediterranean lays the foundation for future drilling in the region, according to chief operating officer, Guido Brusco."
     },
     {
      "ref": "wsj_markets#1",
@@ -533,23 +532,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0738,
+   "last": 3.0792,
    "prev_close": 3.1047,
-   "change_pct": -1.0,
+   "change_pct": -0.82,
    "as_of": "2026-10-27"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 111.01,
+   "last": 111.2,
    "prev_close": 115.81,
-   "change_pct": -4.14,
+   "change_pct": -3.98,
    "as_of": "2026-10-27"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 79631.2422,
+   "last": 79690.7969,
    "prev_close": 80006.6562,
-   "change_pct": -0.47,
+   "change_pct": -0.39,
    "as_of": "2026-10-27"
   }
  },

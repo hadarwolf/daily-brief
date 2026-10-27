@@ -18,51 +18,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "U.S. Department of Justice - AP News",
-     "published": "2026-10-27T07:30:45+00:00",
-     "summary": "U.S. Department of Justice AP News"
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-27T07:49:53+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-27T07:49:53+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war - AP News",
+     "published": "2026-10-27T07:49:00+00:00",
+     "summary": "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-10-27T07:44:47+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#4",
      "title": "Rays put on the brink of World Series flop by Brewers’ historic 8-run, 2-out surge - AP News",
      "published": "2026-10-27T06:52:00+00:00",
      "summary": "Rays put on the brink of World Series flop by Brewers’ historic 8-run, 2-out surge AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#5",
      "title": "Lula’s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally - AP News",
      "published": "2026-10-27T06:45:00+00:00",
      "summary": "Lula’s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war - AP News",
-     "published": "2026-10-27T06:17:00+00:00",
-     "summary": "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war AP News"
-    },
-    {
-     "ref": "ap_world#4",
+     "ref": "ap_world#6",
      "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title - AP News",
      "published": "2026-10-27T05:46:00+00:00",
      "summary": "Brewers rout the Rays 10-1 to move within a win of their first World Series title AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#7",
      "title": "Risks spelled out for Anthropic investors include possible harms from runaway AI - AP News",
      "published": "2026-10-27T05:24:20+00:00",
      "summary": "Risks spelled out for Anthropic investors include possible harms from runaway AI AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-27T05:01:33+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "Luiz Inácio Lula da Silva - AP News",
-     "published": "2026-10-27T05:00:47+00:00",
-     "summary": "Luiz Inácio Lula da Silva AP News"
     },
     {
      "ref": "ap_world#8",
@@ -72,33 +72,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#9",
+     "title": "Brewers’ Robert Gasser spins World Series gem unlike any by a lefty since Sandy Koufax - AP News",
+     "published": "2026-10-27T04:26:00+00:00",
+     "summary": "Brewers’ Robert Gasser spins World Series gem unlike any by a lefty since Sandy Koufax AP News"
+    },
+    {
+     "ref": "ap_world#10",
      "title": "How Trump’s ‘little detour’ to Iran became a roadblock in the midterm elections - AP News",
      "published": "2026-10-27T04:04:00+00:00",
      "summary": "How Trump’s ‘little detour’ to Iran became a roadblock in the midterm elections AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington - AP News",
      "published": "2026-10-27T04:02:00+00:00",
      "summary": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "5 things to watch from the Federal Reserve’s next meeting - AP News",
      "published": "2026-10-27T03:57:00+00:00",
      "summary": "5 things to watch from the Federal Reserve’s next meeting AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#13",
      "title": "Jazz forwards Lauri Markkanen and Jaren Jackson Jr. exit early with injuries against Grizzlies - AP News",
      "published": "2026-10-27T03:54:00+00:00",
      "summary": "Jazz forwards Lauri Markkanen and Jaren Jackson Jr. exit early with injuries against Grizzlies AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Trump administration attempting to prosecute former FBI Director James Comey again - AP News",
-     "published": "2026-10-27T03:39:00+00:00",
-     "summary": "Trump administration attempting to prosecute former FBI Director James Comey again AP News"
     },
     {
      "ref": "ap_world#14",
@@ -108,63 +108,63 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#15",
+     "title": "Trump administration attempting to prosecute former FBI Director James Comey again - AP News",
+     "published": "2026-10-27T03:39:00+00:00",
+     "summary": "Trump administration attempting to prosecute former FBI Director James Comey again AP News"
+    },
+    {
+     "ref": "ap_world#16",
      "title": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas - AP News",
      "published": "2026-10-27T03:24:00+00:00",
      "summary": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#17",
      "title": "Oregon quarterback Dante Moore not expected to return this season, coach Dan Lanning says - AP News",
      "published": "2026-10-27T03:21:00+00:00",
      "summary": "Oregon quarterback Dante Moore not expected to return this season, coach Dan Lanning says AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
      "title": "Trump campaigns in Mississippi, highlighting Republicans’ challenges - AP News",
      "published": "2026-10-27T03:08:00+00:00",
      "summary": "Trump campaigns in Mississippi, highlighting Republicans’ challenges AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine as Russia attacks other areas - AP News",
      "published": "2026-10-27T02:57:00+00:00",
      "summary": "Local ceasefire brokered by Melania Trump starts in southern Ukraine as Russia attacks other areas AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics - AP News",
      "published": "2026-10-27T02:37:00+00:00",
      "summary": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Jay-Z picks himself to headline the Super Bowl halftime show at SoFi Stadium in Southern California - AP News",
      "published": "2026-10-27T02:27:00+00:00",
      "summary": "Jay-Z picks himself to headline the Super Bowl halftime show at SoFi Stadium in Southern California AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Taylor Swift, Lyle Lovett and more inducted into Nashville Songwriters Hall of Fame - AP News",
      "published": "2026-10-27T02:18:00+00:00",
      "summary": "Taylor Swift, Lyle Lovett and more inducted into Nashville Songwriters Hall of Fame AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "Kane becomes first Englishman in 25 years to win Ballon d’Or and Putellas wins her third - AP News",
      "published": "2026-10-27T02:04:00+00:00",
      "summary": "Kane becomes first Englishman in 25 years to win Ballon d’Or and Putellas wins her third AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "Appeals court declines to block California from counting 20,000 disputed ballots - AP News",
      "published": "2026-10-27T01:49:00+00:00",
      "summary": "Appeals court declines to block California from counting 20,000 disputed ballots AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Flood-weary US Southwest eyes forecast for more rain - AP News",
-     "published": "2026-10-27T00:55:00+00:00",
-     "summary": "Flood-weary US Southwest eyes forecast for more rain AP News"
     }
    ]
   },
@@ -402,135 +402,135 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says - Reuters",
+     "published": "2026-10-27T07:47:43+00:00",
+     "summary": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "India should not deplete reserves to defend rupee, ex-RBI chief Rajan says - Reuters",
+     "published": "2026-10-27T07:46:02+00:00",
+     "summary": "India should not deplete reserves to defend rupee, ex-RBI chief Rajan says Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "India's Tata Consumer rises as brokerages cheer growth in newer businesses - Reuters",
      "published": "2026-10-27T07:30:09+00:00",
      "summary": "India's Tata Consumer rises as brokerages cheer growth in newer businesses Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "Why has Modi’s privacy law alarmed India’s news publishers? - Reuters",
-     "published": "2026-10-27T07:15:44+00:00",
-     "summary": "Why has Modi’s privacy law alarmed India’s news publishers? Reuters"
-    },
-    {
-     "ref": "reuters_world#2",
-     "title": "China to send defence attaché to ASEAN meeting in Philippines - Reuters",
-     "published": "2026-10-27T06:51:00+00:00",
-     "summary": "China to send defence attaché to ASEAN meeting in Philippines Reuters"
-    },
-    {
      "ref": "reuters_world#3",
+     "title": "Several injured in car ramming in northern Germany, suspects at large - Reuters",
+     "published": "2026-10-27T06:50:00+00:00",
+     "summary": "Several injured in car ramming in northern Germany, suspects at large Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
      "title": "India to implement changes to goods and services tax from November 1 - Reuters",
      "published": "2026-10-27T06:31:00+00:00",
      "summary": "India to implement changes to goods and services tax from November 1 Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
+     "title": "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk - Reuters",
+     "published": "2026-10-27T06:15:00+00:00",
+     "summary": "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
      "title": "Gold eases on firmer dollar ahead of Fed decision - Reuters",
      "published": "2026-10-27T05:46:00+00:00",
      "summary": "Gold eases on firmer dollar ahead of Fed decision Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "Moody's sees positive shift in Japan's growth, resilience remains key test - Reuters",
      "published": "2026-10-27T04:33:00+00:00",
      "summary": "Moody's sees positive shift in Japan's growth, resilience remains key test Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "EU seeks to widen market access to counter trade restrictions, Germany's Merz says - Reuters",
      "published": "2026-10-27T04:07:00+00:00",
      "summary": "EU seeks to widen market access to counter trade restrictions, Germany's Merz says Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island - Reuters",
      "published": "2026-10-27T03:42:00+00:00",
      "summary": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom - Reuters",
      "published": "2026-10-27T02:17:00+00:00",
      "summary": "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows - Reuters",
      "published": "2026-10-27T02:17:00+00:00",
      "summary": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Yen eases on risk-on mood ahead of central bank bonanza - Reuters",
      "published": "2026-10-27T02:12:00+00:00",
      "summary": "Yen eases on risk-on mood ahead of central bank bonanza Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Russia, Ukraine begin Oleshky ceasefire but keep up strikes elsewhere - Reuters",
      "published": "2026-10-27T02:00:00+00:00",
      "summary": "Russia, Ukraine begin Oleshky ceasefire but keep up strikes elsewhere Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "China's industrial profit growth picks up amid deepening economic divergence - Reuters",
      "published": "2026-10-27T01:52:00+00:00",
      "summary": "China's industrial profit growth picks up amid deepening economic divergence Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "Asian stocks rise as AI enthusiasm returns ahead of earnings, central bank decisions - Reuters",
      "published": "2026-10-27T01:46:00+00:00",
      "summary": "Asian stocks rise as AI enthusiasm returns ahead of earnings, central bank decisions Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Explosions heard in Ukraine's Kyiv, Reuters witness says - Reuters",
      "published": "2026-10-27T01:46:00+00:00",
      "summary": "Explosions heard in Ukraine's Kyiv, Reuters witness says Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Macklemore vows to fight until 'last breath' at opening of 'Free Palestine' tour - Reuters",
      "published": "2026-10-27T01:42:00+00:00",
      "summary": "Macklemore vows to fight until 'last breath' at opening of 'Free Palestine' tour Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "US, dozens of countries warn of Sudan famine risk, urge aid - Reuters",
      "published": "2026-10-27T01:30:00+00:00",
      "summary": "US, dozens of countries warn of Sudan famine risk, urge aid Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "China is back in the bull semen market, but only the best will do - Reuters",
      "published": "2026-10-27T01:05:00+00:00",
      "summary": "China is back in the bull semen market, but only the best will do Reuters"
     },
     {
-     "ref": "reuters_world#18",
-     "title": "JYP Entertainment soars 10% on reports of tender offer plan to buy up to half of firm - Reuters",
-     "published": "2026-10-27T00:52:00+00:00",
-     "summary": "JYP Entertainment soars 10% on reports of tender offer plan to buy up to half of firm Reuters"
-    },
-    {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Israel election: What happens after polls close? - Reuters",
      "published": "2026-10-27T00:03:00+00:00",
      "summary": "Israel election: What happens after polls close? Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Netanyahu's political survival on the line as Israel votes - Reuters",
      "published": "2026-10-27T00:02:00+00:00",
      "summary": "Netanyahu's political survival on the line as Israel votes Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "UK retail body warns 'dam is starting to break' on price rises - Reuters",
-     "published": "2026-10-27T00:02:00+00:00",
-     "summary": "UK retail body warns 'dam is starting to break' on price rises Reuters"
     },
     {
      "ref": "reuters_world#22",
