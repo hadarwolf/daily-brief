@@ -18,104 +18,105 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Oil Is the Real Risk for Another Week: Market Analysis",
+     "published": "2026-10-28T08:43:15+00:00",
+     "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Adani Flagship Returns to Profit as Newer Businesses Deliver",
      "published": "2026-10-28T08:12:23+00:00",
      "summary": "Billionaire Gautam Adani-controlled Adani Enterprises Ltd. returned to profit in the second quarter as newer businesses including airports and data centers scaled up."
     },
     {
-     "ref": "bloomberg_markets#1",
-     "title": "Horizons Middle East & Africa 10/28/2026 (Video)",
-     "published": "2026-10-28T08:08:08+00:00"
+     "ref": "bloomberg_markets#2",
+     "title": "Houthi Strike Hits Aramco Refinery as Israel Election Ends in Deadlock",
+     "published": "2026-10-28T08:08:08+00:00",
+     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "UK Budget Tests Bond Markets as Fed, ECB and Oil Risks Loom",
      "published": "2026-10-28T07:44:07+00:00",
      "summary": "It’s budget day, but there’s plenty vying for investors’ attention"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "UK Budget Day: Here's What to Expect From Healey",
      "published": "2026-10-28T07:42:23+00:00",
      "summary": "UK Chancellor of the Exchequer John Healey's budget plans, due to be outlined in the House of Commons at 12:30 p.m. on Wednesday, are expected to include targeted rebates on heating bills, an increase to the national living wage and a freeze of fuel duty. Bloomberg's Louise Moon has a preview. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Mbappé Apologizes After China Backlash",
      "published": "2026-10-28T07:40:21+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Sachs: Netanyahu, Eisenkot Share Strategic Goals",
      "published": "2026-10-28T07:37:55+00:00",
      "summary": "Counting is still underway in Israel with no clear winner in sight. Natan Sachs, Senior Fellow at the Middle East Institute spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa as the number trickled in for Natanyahu & Eisenkot’s blocs to form the new government. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Anthropic IPO Shutout Sends Asia’s Investors Into Proxy Bets",
      "published": "2026-10-28T07:07:46+00:00",
      "summary": "For much of Asia, getting a piece of Anthropic’s blockbuster initial public offering may prove nearly impossible. That’s pushing investors toward a collection of proxies, from the Claude maker’s listed shareholders to crypto derivatives and semiconductor stocks."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Jio’s IPO Surge Ends Tata’s Reign as Most Valuable India Group",
      "published": "2026-10-28T07:07:16+00:00",
      "summary": "Jio Platforms Ltd.’s blockbuster stock market debut has propelled the digital company as well as its parent Reliance Industries Ltd. into rarified air. It also helped Mukesh Ambani’s conglomerate topple Tata Group as India’s largest conglomerate by market value."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Healey to Scrap UK’s Standing Charges on Gas Bills",
      "published": "2026-10-28T07:07:13+00:00",
      "summary": "Standing charges on gas bills will be scrapped for British households as soon as next year, Chancellor of the Exchequer John Healey will announce today."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "RBNZ Governor Says Further Rate Increases Highly Likely",
      "published": "2026-10-28T07:07:12+00:00",
      "summary": "Reserve Bank of New Zealand Governor Anna Breman says further OCR increases are highly likely at coming meetings after policymakers voted 4-3 to leave rates unchanged. She points to anchored inflation expectations, subdued wage growth and weak domestic demand. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Princeton Digital Sees Strong Asia Data Center Demand",
      "published": "2026-10-28T07:06:30+00:00",
      "summary": "Rangu Salgame, Chairman and CEO of Princeton Digital Group, says India, Australia, Japan and South Korea are poised to drive significant data center demand as AI adoption accelerates. He also discusses the company’s financing strategy and focus on investment-grade hyperscalers. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "UBS CEO Ermotti on Earnings, Cost Savings, Capital Return",
      "published": "2026-10-28T07:01:15+00:00",
      "summary": "UBS CEO Sergio Ermotti speaks to Bloomberg's Stephen Carroll after the lender posted third-quarter profit broadly in line with expectations, with a surge in client inflows potentially buoying the outlook for the global wealth manager. The Zurich-based bank said net income in the three months through September was $2.69 billion, while net new assets in the wealth unit came in at $55.1 billion, led "
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "AI Trade Rebounds, Jio Valuation in Focus",
      "published": "2026-10-28T06:55:57+00:00",
      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "BNP’s CIB Chairman Says European Clients Becoming More Active",
      "published": "2026-10-28T06:46:12+00:00",
      "summary": "BNP Paribas SA said clients in Europe put aside their reluctance and started engaging more actively last quarter, helping fueling a jump in revenue at the corporate and investment bank."
     },
     {
-     "ref": "bloomberg_markets#14",
-     "title": "Danone Sales Rise on Higher Prices, Medical Nutrition Demand",
-     "published": "2026-10-28T06:31:15+00:00",
-     "summary": "Danone SA sales climbed in the third quarter, driven by higher prices and persistent demand for its protein-rich yogurts and fortified drinks for the elderly and ill."
-    },
-    {
      "ref": "bloomberg_markets#15",
-     "title": "Remy Cointreau Falls as Spirits Division Sales Miss Views",
-     "published": "2026-10-28T06:29:36+00:00",
-     "summary": "Remy Cointreau SA’s second-quarter sales rose more than expected, though its the Cognac maker’s liqueurs and spirits division missed expectations."
+     "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade",
+     "published": "2026-10-28T06:43:56+00:00",
+     "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "Heineken Volumes Beat Estimates in Early Boost for New CEO",
-     "published": "2026-10-28T06:12:36+00:00",
-     "summary": "Heineken NV’s volumes grew more than expected in the third quarter as strong demand for beer in Asia and a rebound in the Americas gave Chief Executive Officer Rafael Oliveira a boost just weeks after joining the company."
+     "title": "Remy Cointreau Falls as Spirits Division Sales Miss Views",
+     "published": "2026-10-28T06:29:36+00:00",
+     "summary": "Remy Cointreau SA’s second-quarter sales rose more than expected, though its the Cognac maker’s liqueurs and spirits division missed expectations."
     },
     {
      "ref": "bloomberg_markets#17",
@@ -143,63 +144,63 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "European banks boost profits but fail to match Wall Street boom",
-     "published": "2026-10-28T08:21:42+00:00",
-     "summary": "Lenders benefit from investments by wealthy clients and resilient corporate and investment banking activity"
+     "title": "Bolsonaro lands in US after fleeing Brazil following election defeat",
+     "published": "2026-10-28T08:42:08+00:00",
+     "summary": "Rightwing politician and son of jailed ex-president Jair Bolsonaro arrived in Florida on Tuesday evening"
     },
     {
      "ref": "ft_home#1",
+     "title": "European banks boost profits but fail to match Wall Street boom",
+     "published": "2026-10-28T08:35:31+00:00",
+     "summary": "Lenders benefit from investments by wealthy clients and resilient corporate and investment banking activity"
+    },
+    {
+     "ref": "ft_home#2",
      "title": "Israel’s election: what happens next?",
      "published": "2026-10-28T08:18:16+00:00",
      "summary": "Partial results suggest neither Prime Minister Benjamin Netanyahu nor his rivals have a simple path to form a government"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "Netanyahu ahead but no clear winner in Israeli election",
      "published": "2026-10-28T08:07:17+00:00",
      "summary": "Prime minister urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "The AI bubble already popped — in China",
      "published": "2026-10-28T06:30:03+00:00",
      "summary": "Plus, two cheers for CGBs"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "Britain needs a coherent economic strategy — can Healey deliver one?",
      "published": "2026-10-28T05:00:23+00:00",
      "summary": "The chancellor’s first priority in the Budget is to make the UK look prudent again"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "Polymarket’s top trader is sports gambler ‘Swiss Tony’",
      "published": "2026-10-28T05:00:14+00:00",
      "summary": "FT analysis shows biggest winners on prediction platform are a mixture of long-shot bettors and high-frequency traders"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "The globetrotting Trump brothers",
      "published": "2026-10-28T05:00:07+00:00",
      "summary": "The president’s sons Donald Jr and Eric have met world leaders and foreign officials while building a lucrative web of financial interests"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "Anthropic’s seven founders tighten grip ahead of blockbuster IPO",
      "published": "2026-10-28T05:00:06+00:00",
      "summary": "From a rebellion at OpenAI to building the Claude-maker, the new billionaires are betting their future on staying united"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "China rushes to shore up struggling markets",
      "published": "2026-10-28T03:54:50+00:00",
      "summary": "‘National team’ of funds and brokers buy stocks as investors turn away from AI trade"
-    },
-    {
-     "ref": "ft_home#9",
-     "title": "Bolsonaro lands in US after fleeing Brazil following election defeat",
-     "published": "2026-10-28T02:58:30+00:00",
-     "summary": "Rightwing politician and son of jailed ex-president Jair Bolsonaro arrived in Florida on Tuesday evening"
     }
    ]
   },
@@ -211,7 +212,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "themarker#0",
      "title": "עונת דו\"חות הבנקים באירופה; מניית UBS יורדת למרות זינוק של 27% ברווחים",
      "published": "2026-10-28T08:25:00+00:00",
-     "summary": "אסיה נסגרה בעליות באסיה: סיאול קפצה ביותר מ-6%, SK הייניקס זינקה ביותר מ-10% ■ תקיפה במתקן הזיקוק הגדול בסעודיה מקפיצה את מחיר הנפט ב-2%; הברנט ב-116 דולר לחבית ■ וול סטריט ננעלה בעליות: נאסד\"ק עלה ב-1.2%; טסלה הוסיפה 4%"
+     "summary": "אסיה נסגרה בעליות: סיאול קפצה ביותר מ-6%, SK הייניקס זינקה ביותר מ-10% ■ תקיפה במתקן הזיקוק הגדול בסעודיה מקפיצה את מחיר הנפט ב-2%; הברנט ב-116 דולר לחבית ■ וול סטריט ננעלה בעליות: נאסד\"ק עלה ב-1.2%; טסלה הוסיפה 4%"
     },
     {
      "ref": "themarker#1",
@@ -221,8 +222,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#2",
-     "title": "המשקיעים לא אוהבים את תוצאות הבחירות: מדדי הנדל\"ן, הבנקים והביטוח נופלים",
-     "published": "2026-10-28T07:56:25+00:00"
+     "title": "המשקיעים לא אוהבים את תוצאות הבחירות: מדדי הנדל\"ן, הבנקים והביטוח נופלים ב–5%",
+     "published": "2026-10-28T07:56:25+00:00",
+     "summary": "בכיר בשוק: \"הענפים בעלי הרגישות הגבוהה לריבית סופגים את המכה הקשה ביותר — נדל\"ן, ביטוח ובנקים\" ■ מניית אלקטרה נדל\"ן צונחת ב–12%, אפריקה מגורים וישראל קנדה מאבדות 9% ■ ירידות נרשמות גם בשוק האג\"ח הממשלתיות ■ הדולר מתחזק ב–0.2% ונסחר סביב 3.08 שקלים"
     },
     {
      "ref": "themarker#3",
@@ -369,9 +371,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "wsj_markets#1",
-     "title": "Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate Decision",
+     "title": "Stock Market Today: Tech Stocks Buoyant Ahead of Fed Rate Decision",
      "published": "2026-10-28T08:17:33+00:00",
-     "summary": "Central bank expected to hold rates steady at 2 p.m. ET"
+     "summary": "Nasdaq futures rise after chip maker SK Hynix's earnings; Fed expected to hold rates steady"
     },
     {
      "ref": "wsj_markets#2",
@@ -517,9 +519,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4147.2598,
+   "last": 4135.0698,
    "prev_close": 4206.3501,
-   "change_pct": -1.4,
+   "change_pct": -1.69,
    "as_of": "2026-10-28"
   },
   "SP500": {
@@ -531,23 +533,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0849,
+   "last": 3.0824,
    "prev_close": 3.0833,
-   "change_pct": 0.05,
+   "change_pct": -0.03,
    "as_of": "2026-10-28"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 110.86,
+   "last": 111.14,
    "prev_close": 113.88,
-   "change_pct": -2.65,
+   "change_pct": -2.41,
    "as_of": "2026-10-28"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81508.3203,
+   "last": 81376.1562,
    "prev_close": 80805.0781,
-   "change_pct": 0.87,
+   "change_pct": 0.71,
    "as_of": "2026-10-28"
   }
  },
