@@ -24,150 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2019,
-   "text": "The Mocking of Christ (pictured) by Cimabue sold at auction in France for €19.5 million, a record for a pre-1500 artwork.",
+   "year": 2013,
+   "text": "Members of the Turkistan Islamic Party drove a vehicle into a crowd in Tiananmen Square, Beijing, China, killing five people and injuring thirty-eight others.",
    "context": [
-    "The Mocking of Christ is a small 13th-century panel painting by the Italian artist Cimabue, in tempera on a poplar panel. It depicts the mocking of Jesus and is one of three panels known from Cimabue's Diptych of Devotion."
+    "The Turkistan Islamic Party (TIP) is an Islamic militant organisation founded in Pakistan by Hasan Mahsum, who relocated the organization to Afghanistan following anti-terror crackdowns by the Pakistani government. Its stated goal is to establish an Islamic state in Xinjiang, China, and throughout the rest of Central Asia."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2011,
-   "text": "Michael D. Higgins (pictured) was elected President of Ireland with far more votes than any politician in the country's history.",
+   "year": 2007,
+   "text": "In the Argentine general election, Cristina Fernández de Kirchner became the first woman to be elected president of Argentina.",
    "context": [
-    "Michael Daniel Higgins is an Irish politician, poet and broadcaster who served as the president of Ireland from November 2011 to November 2025. Entering national politics through the Labour Party, he served as a senator from 1973 to 1977 and a Teachta Dála (TD) from 1981 to 1982, returning to the Seanad from 1983 to 1987 and the Dáil from 1987 to 2011. He served as minister for arts, culture and the Gaeltacht from 1993 to 1997 and as mayor of Galway from 1981 to 1982 and 1990 to 1991."
+    "General elections were held in Argentina on Sunday, 28 October 2007 to elect the president and members of the National Congress, while elections for provincial governors took place on staggered dates throughout the year. For the national elections, each of the 23 provinces and the Autonomous City of Buenos Aires are considered electoral districts. Voter turnout was 76.2%. Buenos Aires Province Senator and First Lady Cristina Fernández de Kirchner of the Front for Victory won the election by 45.28% of votes against Elisa Carrió of Civic Coalition ARI, making her the second female president of Argentina and the first female president to be directly elected. She broke the 40 percent barrier and won in the first round. Elisa Carrió won in the city of Buenos Aires and came second with more than 20 percent of the votes. Third was Roberto Lavagna, who won in Córdoba."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2004,
-   "text": "The Boston Red Sox completed a sweep of the St. Louis Cardinals to win the 2004 World Series, breaking the so-called \"Curse of the Bambino\".",
+   "year": 1992,
+   "text": "Hans-Adam II threatened to dismiss the Landtag of Liechtenstein over disagreements on the date of a referendum for the country's accession to the EEA.",
    "context": [
-    "The Boston Red Sox are an American professional baseball team based in Boston. The Red Sox compete in Major League Baseball (MLB) as a member club of the American League (AL) East Division. Founded in 1901 as one of the American League's eight charter franchises, the team's home ballpark has been Fenway Park since 1912. The \"Red Sox\" name was chosen by the team owner, John I. Taylor, c. 1908, following the lead of previous teams that had been known as the \"Boston Red Stockings\", including the Boston Braves. The team has won nine World Series championships, tied for the third-most of any MLB team, and has played in thirteen World Series. Their most recent World Series appearance and win was in 2018. In addition, they won the 1904 American League pennant, but were not able to defend their 1903 World Series championship when the New York Giants refused to participate in the 1904 World Series."
+    "Hans-Adam II is the Prince of Liechtenstein, reigning since 1989. As a member of the Liechtenstein princely family, he also holds the title of Duke of Troppau and Jägerndorf and Count of Rietberg."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1999,
-   "text": "Armed men led by Nairi Hunanyan carried out a mass shooting at the Armenian parliament, killing Prime Minister Vazgen Sargsyan (pictured), National Assembly speaker Karen Demirchyan, and six others.",
+   "year": 1971,
+   "text": "Prospero (flight spare pictured), the first British satellite launched on a British rocket, lifted off from Launch Area 5B in Woomera, South Australia.",
    "context": [
-    "Nairi Hrachiki Hunanyan is an Armenian journalist who led the armed attack on the Armenian parliament on 27 October 1999 and killed Prime Minister Vazgen Sargsyan and Parliament Speaker Karen Demirchyan and six other politicians."
+    "The Prospero satellite, also known as the X-3, was launched by the United Kingdom in 1971. It was designed to undertake a series of experiments to study the effects of the space environment on communications satellites and remained operational until 1973, after which it was contacted annually for over 25 years. Although Prospero was the first British satellite to have been launched successfully by a British rocket, Black Arrow, the first British satellite placed in orbit was Ariel 1, launched in April 1962 on a US rocket."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1993,
-   "text": "Widerøe Flight 744 suffered a controlled flight into terrain while on approach to Namsos Airport, Norway, killing two crew members and four passengers.",
+   "year": 1965,
+   "text": "In St. Louis, Missouri, U.S., the 630-foot (190 m)-tall steel catenary Gateway Arch was completed.",
    "context": [
-    "Widerøe Flight 744, also known as the Namsos Accident, was a scheduled flight of Widerøes Flyveselskap from Trondheim Airport, Værnes, via Namsos, to Rørvik Airport, Ryumsjøen, Norway. On 27 October 1993, the de Havilland Canada DHC-6 Twin Otter serving the flight underwent a controlled flight into terrain during its approach to Namsos Airport, Høknesøra. The incident occurred at 19:16:48 and killed six of the nineteen people on board, including the crew of two. The aircraft crashed at Berg in Overhalla Municipality because it held too low an altitude."
+    "St. Louis is an independent city in the U.S. state of Missouri. It lies near the confluence of the Mississippi and the Missouri rivers. In 2020, the city proper had a population of 301,578, while its metropolitan area, which extends into Illinois, had an estimated population of over 2.8 million. It is the largest metropolitan area in Missouri and the second-largest in Illinois. The city's metropolitan statistical area is the 23rd-largest in the United States."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1992,
-   "text": "U.S. Navy Petty Officer Allen R. Schindler Jr. was killed in Sasebo, Japan, for being gay, which led to the U.S. Armed Forces' \"don't ask, don't tell\" policy.",
+   "year": 1940,
+   "text": "World War II: Italy invaded Greece after Greek prime minister Ioannis Metaxas rejected Benito Mussolini's ultimatum demanding the cession of Greek territory.",
    "context": [
-    "A petty officer third class is a non-commissioned officer in some navies and coast guards."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1980,
-   "text": "The Chun Doo-hwan government arrested 153 people related to the Jogye Order, which is considered an abuse of state power.",
+   "year": 1928,
+   "text": "Indonesian composer Wage Rudolf Supratman introduced \"Indonesia Raya\", now the country's national anthem.",
    "context": [
-    "Chun Doo-hwan was a South Korean army general and politician who served as the fifth president of South Korea from 1980 to 1988. A member of the military, he ruled the country as a military dictator following a successful coup in December 1979. The period encompassing his presidency is known as the Fifth Republic of Korea."
+    "Wage Rudolf Supratman was an Indonesian journalist and songwriter who wrote both the lyrics and melody of the national anthem of Indonesia, \"Indonesia Raya\". He is an Indonesian national hero."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1967,
-   "text": "American Catholic priest Philip Berrigan led a protest against the Vietnam War by pouring blood over Selective Service records in Baltimore, Maryland.",
+   "year": 1925,
+   "text": "The funerary mask of Tutankhamun, possibly originally made for Queen Neferneferuaten, was uncovered for the first time in approximately 3,250 years.",
    "context": [
-    "Philip Francis \"Phil\" Berrigan was an American peace activist and Catholic priest with the Josephites. He engaged in nonviolent, civil disobedience in the cause of peace and nuclear disarmament and was often arrested."
+    "The mask of Tutankhamun is a gold funerary mask that belonged to Tutankhamun, who reigned over the New Kingdom of Egypt from 1332 BC to 1323 BC, during the Eighteenth Dynasty. After being buried with Tutankhamun's mummy for over 3,000 years, it was found in 1922 following the discovery of Tutankhamun's tomb three years earlier by the British archaeologist Howard Carter at the Valley of the Kings. It is on public display at the Grand Egyptian Museum in Cairo."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1964,
-   "text": "Actor Ronald Reagan delivered a speech on behalf of Republican presidential candidate Barry Goldwater, launching his own political career, which culminated in him serving two full terms as U.S. president.",
+   "year": 1919,
+   "text": "The U.S. Congress passed the Volstead Act over president Woodrow Wilson's veto, reinforcing Prohibition in the United States.",
    "context": [
-    "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era."
+    "The United States Congress is the legislative branch of the federal government of the United States. It is a bicameral legislature, including a lower body, the U.S. House of Representatives, and an upper body, the U.S. Senate. They both meet in the United States Capitol in Washington, D.C."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1946,
-   "text": "Inter-religious riots in which Hindu mobs targeted Muslim families began in the Indian state of Bihar, resulting in thousands of deaths.",
+   "year": 1886,
+   "text": "In New York Harbor, U.S. president Grover Cleveland dedicated the Statue of Liberty (pictured), a gift from France commemorating the Declaration of Independence.",
    "context": [
-    "Communal riots occurred in Bihar, India from 24 October to 11 November 1946, in which Hindu mobs targeted Muslim families. The riots were triggered by the Great Calcutta Killings, as well as the Noakhali riots earlier that year. Mahatma Gandhi declared that he would fast unto death if the riots did not stop. The riots were part of a sequence of communal violence that culminated in the partition of India."
+    "New York Harbor is a tidal body of water forming the upper part of New York Bay within the New York–New Jersey Harbor Estuary. Located on the East Coast of the United States at the mouth of the Hudson River, it is connected to Long Island Sound by the East River, which despite its name is actually a tidal strait."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1942,
-   "text": "The Empire of Japan achieved a pyrrhic victory against the United States at the Battle of the Santa Cruz Islands.",
+   "year": 1835,
+   "text": "In the first major engagement of the Texas Revolution, the Texian Army repelled a Mexican attack at the grounds of Mission Concepcion south of Downtown San Antonio.",
    "context": [
-    "The Empire of Japan , also known as the Japanese Empire or Imperial Japan, was the period of Japanese history spanning 79 years, starting with the Meiji Restoration on 3 January 1868, and ending with ratification of the Constitution of Japan on 3 May 1947. From August 1910 to September 1945, it included mainland Japan, Okinawa, the Kurils, Karafuto, Korea, and Taiwan. The South Seas Mandate and concessions were de jure not internal parts of the empire but dependent territories. In the closing stages of World War II, with Japan defeated alongside the rest of the Axis powers, the formalized surrender was issued on 2 September 1945, in compliance with the Potsdam Declaration of the Allies, and the empire's territory subsequently shrunk to cover only mainland Japan. However, Okinawa was later returned to Japan in 1972."
+    "The Texas Revolution was a rebellion by Anglo-American immigrants as well as Hispanic Texans against the centralist government of Mexico in the Mexican state of Coahuila y Tejas. Although the uprising was part of a larger revolt that included other provinces opposed to the regime of President Miguel Barragán and General Antonio López de Santa Anna, the Mexican government believed the United States had instigated the Texas insurrection with the goal of annexation. The Mexican Congress passed the Tornel Decree, declaring that any foreigners fighting against Mexican troops \"will be deemed pirates and dealt with as such, being citizens of no nation presently at war with the Republic and fighting under no recognized flag\". Only the province of Texas succeeded in breaking with Mexico, establishing the Republic of Texas. It was eventually annexed by the United States about a decade later."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1914,
-   "text": "World War I: The Royal Navy dreadnought HMS Audacious was sunk by a mine, but its loss was kept secret for four years.",
+   "year": 1776,
+   "text": "American Revolutionary War: As George Washington's Continental Army retreated northward from New York City, the British Army captured the village of White Plains.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1913,
-   "text": "A rail workers' strike in Chile escalates into a general strike, organized by the Regional Workers' Federation of Chile.",
+   "year": 1707,
+   "text": "The Hōei earthquake ruptured all segments of the Nankai megathrust simultaneously – the only earthquake recorded to have done so.",
    "context": [
-    "A general strike is a strike action in which a substantial proportion of the total labour force in a city, region, or country participates. General strikes are characterised by the participation of workers from a multitude of workplaces across different industries, and tend to involve entire communities. They are often used to strengthen the bargaining position of a trade union or achieve a common social or political goal. General strikes first occurred in the mid-19th century and have characterised many historically important strikes."
+    "The 1707 Hōei earthquake  struck south-central Japan at around 13:45 local time on 28 October 1707. It was the largest earthquake in Japanese history until it was surpassed by the 2011 Tōhoku earthquake. It caused moderate-to-severe damage throughout southwestern Honshu, Shikoku and southeastern Kyūshū. The earthquake, and the resulting destructive tsunami, caused more than 5,000 casualties. This event ruptured all of the segments of the Nankai megathrust simultaneously, the only earthquake known to have done this, with an estimated magnitude of 8.6 ML or 8.7 Mw. It possibly also triggered the last eruption of Mount Fuji 49 days later."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1904,
-   "text": "The first underground segment of the New York City Subway opened, connecting New York City Hall with Harlem.",
+   "year": 1664,
+   "text": "The Duke of York and Albany's Maritime Regiment of Foot, the forerunner to the Royal Marines, was established at the grounds of the Honourable Artillery Company in London.",
    "context": [
-    "The first regularly operated line of the New York City Subway opened on October 27, 1904, and was operated by the Interborough Rapid Transit Company (IRT). The early IRT system consisted of a single trunk line running south from 96th Street in Manhattan, with a southern branch to Brooklyn. North of 96th Street, the line had three northern branches in Upper Manhattan and the Bronx. The system had four tracks between Brooklyn Bridge–City Hall and 96th Street, allowing for local and express service. The original line and early extensions consisted of:The IRT Eastern Parkway Line, running between Atlantic Avenue–Barclays Center and Borough Hall\nThe IRT Lexington Avenue Line, running between Borough Hall and Grand Central–42nd Street\nThe IRT 42nd Street Shuttle running between Grand Central–42nd Street and Times Square\nThe IRT Broadway–Seventh Avenue Line, running between Times Square and Van Cortlandt Park–242nd Street\nThe IRT Lenox Avenue Line, running betwern 96th Street and 145th Street\nThe IRT White Plains Road Line, running between 142nd Street Junction and 180th Street–Bronx Park"
+    "Duke of York is a title of nobility in the Peerage of the United Kingdom. Since the 15th century, it has, when granted, usually been given to the second son of English monarchs. The analogous title in the Scottish peerage was Duke of Albany."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1775,
-   "text": "King George III expanded on his Proclamation of Rebellion in the Thirteen Colonies in his speech from the throne at the opening of Parliament.",
+   "year": 1640,
+   "text": "The Treaty of Ripon was agreed, ending the Second Bishops' War and forcing Charles I to summon the Long Parliament, ultimately leading to the First English Civil War.",
    "context": [
-    "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover."
+    "The Treaty of Ripon was a truce between Charles I, King of England, and the Covenanters, a Scottish political movement, which brought a cessation of hostilities to the Second Bishops' War."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1726,
-   "text": "J. S. Bach led the first performance of Ich will den Kreuzstab gerne tragen, BWV 56, one of few works he called a cantata.",
+   "year": 1453,
+   "text": "Ladislaus the Posthumous was crowned King of Bohemia, although George of Poděbrady remained in control of the government.",
    "context": [
-    "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers in the history of Western music."
+    "Ladislaus the Posthumous, known as Ladislaus V, was Duke of Austria and King of Hungary, Croatia and Bohemia. He was the posthumous son of Albert II of Germany with Elizabeth of Luxembourg. Albert had bequeathed all his realms to his future son on his deathbed, but only the estates of Austria accepted his last will. Fearing an Ottoman invasion, the majority of the Hungarian lords and prelates offered the crown to Władysław III of Poland. The Hussite noblemen and towns of Bohemia did not acknowledge the hereditary right of Albert's descendants to the throne, but also did not elect a new king."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1726,
-   "text": "In Leipzig, J. S. Bach led the first performance of Ich will den Kreuzstab gerne tragen, one of the few works that he called a cantata.",
+   "year": 312,
+   "text": "Civil wars of the Tetrarchy: Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge in Rome.",
    "context": [
-    "Leipzig is the most populous city in the German state of Saxony. The city has a population of 633,592 residents as of 31 December 2025. It is the eighth-largest city in Germany and is part of the Central German Metropolitan Region. Leipzig is located about 150 km (90 mi) southwest of Berlin, in the southernmost part of the North German Plain, at the confluence of the White Elster and its tributaries Pleiße and Parthe."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1674,
-   "text": "Franco-Dutch War: French forces surrender the fortress town of Grave to the Dutch army after a three month siege.",
-   "context": [
-    "The Franco-Dutch War, 1672 to 1678, was primarily fought by France and the Dutch Republic, with both sides backed at different times by a variety of allies. Related conflicts include the Third Anglo-Dutch War of 1672 to 1674 and the Scanian War of 1675 to 1679."
+    "The civil wars of the Tetrarchy were a series of conflicts between the co-emperors of the Roman Empire, starting from 306 AD with the usurpation of Maxentius and the defeat of Severus, and ending with the defeat of Licinius at the hands of Constantine I in 324 AD."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Clawback (קלובק)",
+  "In the black / in the red (ברווח / בגירעון)",
+  "Eating someone's lunch (לאכול למישהו את הארוחה)",
   "Negative carry (קארי שלילי)",
   "Barbell strategy (אסטרטגיית המשקולת)",
   "Don't fight the Fed (אל תתעסק עם ה-Fed)",

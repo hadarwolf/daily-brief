@@ -1,6 +1,6 @@
 {
- "date": "2026-10-27",
- "prepared_at": "2026-10-27T08:47:41+00:00",
+ "date": "2026-10-28",
+ "prepared_at": "2026-10-28T03:34:28+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -11,31 +11,16 @@
  ],
  "skipped_sections": [],
  "order": [
-  "sports",
   "geopolitics",
   "israeli_politics",
   "business",
+  "sports",
   "ideas",
   "learn"
  ],
  "match_day": {
-  "is_match_day": true,
-  "events": [
-   {
-    "sport": "nba",
-    "competition": "NBA",
-    "home": "Boston Celtics",
-    "away": "Brooklyn Nets",
-    "kickoff_utc": "2026-10-27T23:30:00.000Z"
-   },
-   {
-    "sport": "nba",
-    "competition": "NBA",
-    "home": "Los Angeles Lakers",
-    "away": "Portland Trail Blazers",
-    "kickoff_utc": "2026-10-28T03:00:00.000Z"
-   }
-  ]
+  "is_match_day": false,
+  "events": []
  },
  "markets": {
   "TA35": {
@@ -47,32 +32,32 @@
   },
   "SP500": {
    "symbol": "^GSPC",
-   "last": 7676.77,
-   "prev_close": 7623.6802,
-   "change_pct": 0.7,
-   "as_of": "2026-10-26"
+   "last": 7722.6001,
+   "prev_close": 7676.77,
+   "change_pct": 0.6,
+   "as_of": "2026-10-27"
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.074,
-   "prev_close": 3.1047,
-   "change_pct": -0.99,
-   "as_of": "2026-10-27"
+   "last": 3.0844,
+   "prev_close": 3.0833,
+   "change_pct": 0.04,
+   "as_of": "2026-10-28"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 111.57,
+   "last": 110.76,
    "prev_close": 115.81,
-   "change_pct": -3.66,
+   "change_pct": -4.36,
    "as_of": "2026-10-27"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 79703.2969,
+   "last": 81030.0312,
    "prev_close": 80006.6562,
-   "change_pct": -0.38,
-   "as_of": "2026-10-27"
+   "change_pct": 1.28,
+   "as_of": "2026-10-28"
   }
  },
- "essays_fetched": 5
+ "essays_fetched": 4
 }
