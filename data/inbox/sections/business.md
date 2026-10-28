@@ -18,123 +18,123 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Sprake: Fed Now Concerned About High Energy Prices",
+     "published": "2026-10-28T09:11:45+00:00",
+     "summary": "The Fed is expected to hold rates steady in their October meeting. Casey Sprake, Market Strategist at AG Capital says while the first hike in September reflected a clear shift in thinking, Kevin Warsh and his team have changed their view again. She spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa ahead of the Fed rate decision. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Turkey Cancels License of Brokerage at Heart of Fund Crisis",
+     "published": "2026-10-28T08:46:31+00:00",
+     "summary": "Turkey’s market authorities canceled Tera Yatirim Menkul Degerler’s license and suspended trading on its stock, part of a continued dismantling of the brokerage at the heart of the country’s fund crisis."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "Oil Is the Real Risk for Another Week: Market Analysis",
      "published": "2026-10-28T08:43:15+00:00",
      "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#3",
      "title": "Adani Flagship Returns to Profit as Newer Businesses Deliver",
      "published": "2026-10-28T08:12:23+00:00",
      "summary": "Billionaire Gautam Adani-controlled Adani Enterprises Ltd. returned to profit in the second quarter as newer businesses including airports and data centers scaled up."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Houthi Strike Hits Aramco Refinery as Israel Election Ends in Deadlock",
      "published": "2026-10-28T08:08:08+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "UK Budget Tests Bond Markets as Fed, ECB and Oil Risks Loom",
      "published": "2026-10-28T07:44:07+00:00",
      "summary": "It’s budget day, but there’s plenty vying for investors’ attention"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "UK Budget Day: Here's What to Expect From Healey",
      "published": "2026-10-28T07:42:23+00:00",
      "summary": "UK Chancellor of the Exchequer John Healey's budget plans, due to be outlined in the House of Commons at 12:30 p.m. on Wednesday, are expected to include targeted rebates on heating bills, an increase to the national living wage and a freeze of fuel duty. Bloomberg's Louise Moon has a preview. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Mbappé Apologizes After China Backlash",
      "published": "2026-10-28T07:40:21+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "Sachs: Netanyahu, Eisenkot Share Strategic Goals",
      "published": "2026-10-28T07:37:55+00:00",
      "summary": "Counting is still underway in Israel with no clear winner in sight. Natan Sachs, Senior Fellow at the Middle East Institute spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa as the number trickled in for Natanyahu & Eisenkot’s blocs to form the new government. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "Anthropic IPO Shutout Sends Asia’s Investors Into Proxy Bets",
      "published": "2026-10-28T07:07:46+00:00",
      "summary": "For much of Asia, getting a piece of Anthropic’s blockbuster initial public offering may prove nearly impossible. That’s pushing investors toward a collection of proxies, from the Claude maker’s listed shareholders to crypto derivatives and semiconductor stocks."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "Jio’s IPO Surge Ends Tata’s Reign as Most Valuable India Group",
      "published": "2026-10-28T07:07:16+00:00",
      "summary": "Jio Platforms Ltd.’s blockbuster stock market debut has propelled the digital company as well as its parent Reliance Industries Ltd. into rarified air. It also helped Mukesh Ambani’s conglomerate topple Tata Group as India’s largest conglomerate by market value."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "Healey to Scrap UK’s Standing Charges on Gas Bills",
      "published": "2026-10-28T07:07:13+00:00",
      "summary": "Standing charges on gas bills will be scrapped for British households as soon as next year, Chancellor of the Exchequer John Healey will announce today."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#12",
      "title": "RBNZ Governor Says Further Rate Increases Highly Likely",
      "published": "2026-10-28T07:07:12+00:00",
      "summary": "Reserve Bank of New Zealand Governor Anna Breman says further OCR increases are highly likely at coming meetings after policymakers voted 4-3 to leave rates unchanged. She points to anchored inflation expectations, subdued wage growth and weak domestic demand. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
      "title": "Princeton Digital Sees Strong Asia Data Center Demand",
      "published": "2026-10-28T07:06:30+00:00",
      "summary": "Rangu Salgame, Chairman and CEO of Princeton Digital Group, says India, Australia, Japan and South Korea are poised to drive significant data center demand as AI adoption accelerates. He also discusses the company’s financing strategy and focus on investment-grade hyperscalers. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#14",
      "title": "UBS CEO Ermotti on Earnings, Cost Savings, Capital Return",
      "published": "2026-10-28T07:01:15+00:00",
      "summary": "UBS CEO Sergio Ermotti speaks to Bloomberg's Stephen Carroll after the lender posted third-quarter profit broadly in line with expectations, with a surge in client inflows potentially buoying the outlook for the global wealth manager. The Zurich-based bank said net income in the three months through September was $2.69 billion, while net new assets in the wealth unit came in at $55.1 billion, led "
     },
     {
-     "ref": "bloomberg_markets#13",
-     "title": "AI Trade Rebounds, Jio Valuation in Focus",
-     "published": "2026-10-28T06:55:57+00:00",
-     "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "BNP’s CIB Chairman Says European Clients Becoming More Active",
-     "published": "2026-10-28T06:46:12+00:00",
-     "summary": "BNP Paribas SA said clients in Europe put aside their reluctance and started engaging more actively last quarter, helping fueling a jump in revenue at the corporate and investment bank."
-    },
-    {
      "ref": "bloomberg_markets#15",
-     "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade",
-     "published": "2026-10-28T06:43:56+00:00",
-     "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#16",
      "title": "Remy Cointreau Falls as Spirits Division Sales Miss Views",
      "published": "2026-10-28T06:29:36+00:00",
      "summary": "Remy Cointreau SA’s second-quarter sales rose more than expected, though its the Cognac maker’s liqueurs and spirits division missed expectations."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#16",
      "title": "PHP/USD: Marcos Pledges to “Do All We Can” to Defend Philippine Peso",
      "published": "2026-10-28T04:28:44+00:00",
      "summary": "President Ferdinand Marcos Jr. pledged that the Philippine authorities will extend their defense of the sinking peso after the currency hit a fresh record low this week."
     },
     {
-     "ref": "bloomberg_markets#18",
+     "ref": "bloomberg_markets#17",
      "title": "US-Friendly Nations Slash Treasury Purchases by 60%, Led by Asia",
      "published": "2026-10-28T03:21:11+00:00",
      "summary": "Being one of Washington’s closest partners no longer means reliably funding the US deficit."
     },
     {
-     "ref": "bloomberg_markets#19",
+     "ref": "bloomberg_markets#18",
      "title": "US Stocks Drift as Rising Oil Offsets AI Gains: Markets Wrap",
      "published": "2026-10-27T22:09:07+00:00",
      "summary": "US stock futures struggled for direction as the impact of rising oil prices offset fresh gains in the artificial intelligence trade."
+    },
+    {
+     "ref": "bloomberg_markets#19",
+     "title": "Latest Oil Market News and Analysis for Oct. 28",
+     "published": "2026-10-27T22:04:57+00:00",
+     "summary": "Oil rose as traders weighed whether the US may resume military strikes on Iran after next week’s midterms and tracked a tight Israeli election."
     }
    ]
   },
@@ -282,7 +282,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#12",
-     "title": "לאחר ספירת 66% מהקולות: גוש נתניהו עם 54 מנדטים, הליכוד יורדת ל–27 מנדטים",
+     "title": "לאחר ספירת 70% מהקולות: גוש נתניהו עם 54 מנדטים, המפלגות הערביות עלו ל–19",
      "published": "2026-10-28T03:51:54+00:00",
      "summary": "המדגמים הצביעו על היחלשות גוש נתניהו ועל התחזקות המפלגות הערביות, אך לא סיפקו הכרעה ברורה בשאלת הרכבת הממשלה ■ איזנקוט ובנט הכריזו כי יפעלו להחלפת נתניהו, אך נמנעו מלהתחייב לשיתוף פעולה עם המפלגות הערביות ■ כל העדכונים ותוצאות האמת"
     },
@@ -365,147 +365,147 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Tech Rally Continues, Treasurys Weaken Ahead of Fed Decision",
+     "published": "2026-10-28T09:24:00+00:00",
+     "summary": "Tech stocks extended gains and Treasury yields crept up, as investors awaited a bumper day of macroeconomic news and big tech earnings."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Dollar Likely to Remain Firm Unless Fed’s Warsh Dampens Rate-Rise Bets",
+     "published": "2026-10-28T09:22:00+00:00",
+     "summary": "The dollar rose against a basket of currencies and its strength should persist even if the Federal Reserve doesn’t send clear signals regarding December."
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "Gold Edges Lower Ahead of Fed Decision",
+     "published": "2026-10-28T09:19:00+00:00",
+     "summary": "Gold prices ticked lower as investors waited for the interest-rate decision by the Federal Reserve."
+    },
+    {
+     "ref": "wsj_markets#3",
+     "title": "Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ Risks",
+     "published": "2026-10-28T09:00:00+00:00",
+     "summary": "The Democratic senator is “deeply troubled” by risks Anthropic raised in its IPO paperwork and wants answers to a long list of questions before the AI giant goes public."
+    },
+    {
+     "ref": "wsj_markets#4",
      "title": "European Stocks Mixed as Earnings Drive Index Moves",
      "published": "2026-10-28T08:25:00+00:00",
      "summary": "European stock indexes were mixed at open as the earnings season gathered pace, with single-stock stories shaping indexes."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#5",
      "title": "Stock Market Today: Tech Stocks Buoyant Ahead of Fed Rate Decision",
      "published": "2026-10-28T08:17:33+00:00",
      "summary": "Nasdaq futures rise after chip maker SK Hynix's earnings; Fed expected to hold rates steady"
     },
     {
-     "ref": "wsj_markets#2",
-     "title": "Euro Hits 17-Month Low Vs Dollar Ahead of Fed, ECB Decisions",
-     "published": "2026-10-28T07:59:00+00:00",
-     "summary": "The euro fell to a 17-month low against the dollar as French fiscal concerns lingered."
-    },
-    {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#6",
      "title": "U.S. Treasury Yields Rise Ahead of Federal Reserve Interest-Rate Decision",
      "published": "2026-10-28T07:18:00+00:00",
      "summary": "Yields on Treasurys rose in Asian trade on Wednesday in the run-up to the Federal Reserve’s interest-rate decision later in the day."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#7",
      "title": "UBS Profit Climbs as Asia, Americas Growth Boosts Inflows",
      "published": "2026-10-28T06:51:00+00:00",
      "summary": "UBS Group reported a rise in third-quarter net profit, boosted by higher inflows to its wealth-management platform."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#8",
      "title": "Standard Chartered Posts Net Profit Beat, Raises Guidance",
      "published": "2026-10-28T06:39:00+00:00",
      "summary": "The bank boosted its annual income and profitability forecasts as quarterly profit growth beat expectations."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#9",
      "title": "Trump Moves to Weaken Methane Emissions Rules for Oil and Gas",
      "published": "2026-10-28T00:43:00+00:00",
      "summary": "Small fossil-fuel producers have opposed regulations to curb releases of the potent greenhouse gas."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#10",
      "title": "Oil Rises as Traders Focus on Potential Supply Risks",
      "published": "2026-10-28T00:39:00+00:00",
      "summary": "Oil gained. While prospects of diplomatic talks eased tension in the Middle East, they failed to generate any meaningful selling interest, as traders are increasingly focused on what is happening on the ground, said ANZ."
     },
     {
-     "ref": "wsj_markets#8",
-     "title": "Gold Clings to Gains Above $4,000 as Markets Await Fed",
-     "published": "2026-10-28T00:25:00+00:00",
-     "summary": "Gold hovered above the key $4,000 mark as markets await a raft of central bank decisions headlined by the Federal Reserve."
-    },
-    {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
      "published": "2026-10-28T00:10:00+00:00",
      "summary": "The company’s estimated market opportunity, tied to the economic value of work produced by knowledge workers, tops SpaceX’s enormous figure from earlier this year."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
      "published": "2026-10-28T00:08:00+00:00",
      "summary": "The law firm can’t afford to keep bleeding partners but could find ways to avoid bankruptcy."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#13",
      "title": "WSJ Dollar Index Rises 0.19% to 97.30",
      "published": "2026-10-27T21:45:00+00:00",
      "summary": "The WSJ Dollar Index rose 0.2%, up for three consecutive trading days."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#14",
      "title": "Apple Knows Some iPhone Duos Have a Major Issue",
      "published": "2026-10-27T21:21:00+00:00",
      "summary": "Plus, Brazil canceled Flávio Bolsonaro’s passport, and a $300 billion “debt wall” is looming over private-equity backed companies."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#15",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-10-27T21:00:00+00:00",
      "summary": "Find insight on gold, Sherwin-Williams, Sandfire Resources and more in the latest Market Talks covering Basic Materials."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#16",
      "title": "Energy & Utilities Roundup: Market Talk",
      "published": "2026-10-27T20:58:00+00:00",
      "summary": "Find insight on crude futures, alternative oil pipelines, energy prices and more in the latest Market Talks covering Energy and Utilities."
     },
     {
-     "ref": "wsj_markets#15",
-     "title": "Tech, Media & Telecom Roundup: Market Talk",
-     "published": "2026-10-27T20:56:00+00:00",
-     "summary": "Find insight on Corning, PayPal and more in the latest Market Talks covering Technology, Media and Telecom."
-    },
-    {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#17",
      "title": "Financial Services Roundup: Market Talk",
      "published": "2026-10-27T20:53:00+00:00",
      "summary": "Find insight on Advent International, Robinhood and more in the latest Market Talks covering Financial Services."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#18",
      "title": "U.S. Stocks Add to Gains Ahead of Earnings, Fed Statement",
      "published": "2026-10-27T20:45:00+00:00",
      "summary": "U.S. stocks rose for the second straight session amid growing optimism about upcoming earnings reports from so-called artificial-intelligence hyperscalers."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "Tech Stocks Power Higher, Oil Cools",
      "published": "2026-10-27T20:23:00+00:00",
      "summary": "Plus, Boeing shares slide on new losses and Weil Gotshal hires bankruptcy lawyer"
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "U.S. Natural Gas Futures Settle Higher",
      "published": "2026-10-27T20:01:00+00:00",
      "summary": "U.S. natural gas futures rose ahead of Wednesday’s November contract expiry, with some help from slightly cooler weather forecasts, although the two-week outlook remains for above-normal temperatures."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#21",
      "title": "Oil Futures Retreat as Middle East Diplomatic Efforts Pick Up",
      "published": "2026-10-27T19:49:00+00:00",
      "summary": "Crude futures settled lower as the market watches for any breakthrough in the latest Middle East diplomatic moves."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#22",
      "title": "Tech Stocks Add to Gains After Yesterday’s Anthropic Rally",
      "published": "2026-10-27T18:29:00+00:00",
      "summary": "The Anthropic-inspired rally yesterday is extending into day two: Tech stocks are up, pushing the Nasdaq more than 1% higher."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens",
      "published": "2026-10-27T18:09:00+00:00",
      "summary": "After a marathon partners’ meeting on Sunday, the law firm has tapped Davis Polk to advise on potential options."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
-     "published": "2026-10-27T17:50:00+00:00",
-     "summary": "The deal, announced on Monday, is the biggest ever to raise money for AI infrastructure."
     },
     {
      "ref": "wsj_markets#24",
@@ -519,9 +519,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4135.0698,
+   "last": 4095.1299,
    "prev_close": 4206.3501,
-   "change_pct": -1.69,
+   "change_pct": -2.64,
    "as_of": "2026-10-28"
   },
   "SP500": {
@@ -533,23 +533,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.0824,
+   "last": 3.0937,
    "prev_close": 3.0833,
-   "change_pct": -0.03,
+   "change_pct": 0.34,
    "as_of": "2026-10-28"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 111.14,
+   "last": 110.99,
    "prev_close": 113.88,
-   "change_pct": -2.41,
+   "change_pct": -2.54,
    "as_of": "2026-10-28"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 81376.1562,
+   "last": 81359.2188,
    "prev_close": 80805.0781,
-   "change_pct": 0.71,
+   "change_pct": 0.69,
    "as_of": "2026-10-28"
   }
  },

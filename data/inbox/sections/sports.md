@@ -29,18 +29,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-27T19:45:00Z",
-     "home": "Torino",
-     "away": "Como 1907",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-27T19:45:00Z",
      "home": "Roma",
      "away": "Cagliari",
      "status": "FINISHED",
      "score": "4-2"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-27T19:45:00Z",
+     "home": "Torino",
+     "away": "Como 1907",
+     "status": "FINISHED",
+     "score": "1-3"
     }
    ],
    "today": [
@@ -71,16 +71,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-28T19:45:00Z",
-     "home": "Genoa",
-     "away": "Juventus",
+     "home": "Monza",
+     "away": "Napoli",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-28T19:45:00Z",
-     "home": "Monza",
-     "away": "Napoli",
+     "home": "Genoa",
+     "away": "Juventus",
      "status": "TIMED",
      "score": null
     }
@@ -747,99 +747,99 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head - BBC",
+     "published": "2026-10-28T08:09:36+00:00",
+     "summary": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head BBC"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Spends the entire year in Miami: Benatia mocks Messi's Ballon d'Or ranking - Goal.com",
      "published": "2026-10-28T07:11:18+00:00",
      "summary": "Spends the entire year in Miami: Benatia mocks Messi's Ballon d'Or ranking Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#1",
-     "title": "Spends the entire year in Miami: Benatia mocks Messi's Ballon d'Or ranking - Goal.com",
+     "ref": "gnews_inter_miami#2",
+     "title": "He spends the entire year in Miami: Benatia mocks Messi's ranking in the Ballon d'Or - Goal.com",
      "published": "2026-10-28T07:10:16+00:00",
-     "summary": "Spends the entire year in Miami: Benatia mocks Messi's Ballon d'Or ranking Goal.com"
+     "summary": "He spends the entire year in Miami: Benatia mocks Messi's ranking in the Ballon d'Or Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Inter Miami vs. FC Cincinnati prediction, odds, MLS Cup first round picks [10/28/2026] - Dimers",
      "published": "2026-10-28T07:00:44+00:00",
      "summary": "Inter Miami vs. FC Cincinnati prediction, odds, MLS Cup first round picks [10/28/2026] Dimers"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami vs FC Cincinnati Prediction: Miami Will Feast On Cincinnati’s Defensive Problems - Telecom Asia Sport",
      "published": "2026-10-28T06:48:23+00:00",
      "summary": "Inter Miami vs FC Cincinnati Prediction: Miami Will Feast On Cincinnati’s Defensive Problems Telecom Asia Sport"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
      "published": "2026-10-28T06:41:57+00:00",
      "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Will Lionel Messi Play in Inter Miami vs FC Cincinnati MLS 2026 Match? - LatestLY",
      "published": "2026-10-28T05:32:51+00:00",
      "summary": "Will Lionel Messi Play in Inter Miami vs FC Cincinnati MLS 2026 Match? LatestLY"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Inter Miami CF vs FC Cincinnati prediction and betting tips 28 October 2026 - Dailysports",
      "published": "2026-10-28T05:32:04+00:00",
      "summary": "Inter Miami CF vs FC Cincinnati prediction and betting tips 28 October 2026 Dailysports"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "MIAvsCIN 10-28-2026 | MLS Match Recap - MLSsoccer.com",
      "published": "2026-10-28T05:02:53+00:00",
      "summary": "MIAvsCIN 10-28-2026 | MLS Match Recap MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Se UE Cornellà vs. Inter Milan (Quarterfinals) - Disney Plus",
      "published": "2026-10-28T03:30:56+00:00",
      "summary": "Se UE Cornellà vs. Inter Milan (Quarterfinals) Disney Plus"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Inter Miami CF v FC Cincinnati Odds - FanDuel Sportsbook",
      "published": "2026-10-28T03:20:32+00:00",
      "summary": "Inter Miami CF v FC Cincinnati Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Red Bulls, chasing East's final playoff spot, out to cool off Revs - Mahoning Matters",
      "published": "2026-10-28T02:03:09+00:00",
      "summary": "Red Bulls, chasing East's final playoff spot, out to cool off Revs Mahoning Matters"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi, Miami to face Evander, Cincinnati in high-stakes clash - Field Level Media",
      "published": "2026-10-28T01:54:06+00:00",
      "summary": "Lionel Messi, Miami to face Evander, Cincinnati in high-stakes clash Field Level Media"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Lionel Messi, Miami to face Evander, Cincinnati in high-stakes clash - The Daily News | Texas' Oldest Newspaper",
      "published": "2026-10-28T01:43:02+00:00",
      "summary": "Lionel Messi, Miami to face Evander, Cincinnati in high-stakes clash The Daily News | Texas' Oldest Newspaper"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami’s Concacaf Champions Cup 2027 Qualification: What Messi’s Team Needs in the Final MLS Games - Pasión Fútbol",
      "published": "2026-10-28T01:04:45+00:00",
      "summary": "Inter Miami’s Concacaf Champions Cup 2027 Qualification: What Messi’s Team Needs in the Final MLS Games Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Inter Miami Injury Update: Kily González Rules Out Fricio Caicedo Against FC Cincinnati - Pasión Fútbol",
      "published": "2026-10-28T00:54:01+00:00",
      "summary": "Inter Miami Injury Update: Kily González Rules Out Fricio Caicedo Against FC Cincinnati Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
-     "title": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head - BBC",
-     "published": "2026-10-28T00:53:17+00:00",
-     "summary": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head BBC"
     },
     {
      "ref": "gnews_inter_miami#16",

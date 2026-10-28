@@ -19,7 +19,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-10-28T08:53:30+00:00",
+     "published": "2026-10-28T09:19:23+00:00",
      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
@@ -60,27 +60,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#7",
+     "title": "Brewers' bullpen cracks in Game 4 loss after Aaron Ashby breaks postseason scoreless relief mark - AP News",
+     "published": "2026-10-28T05:59:00+00:00",
+     "summary": "Brewers' bullpen cracks in Game 4 loss after Aaron Ashby breaks postseason scoreless relief mark AP News"
+    },
+    {
+     "ref": "ap_world#8",
      "title": "Brewers fans at the Trop have to wait to celebrate the franchise’s first World Series title - AP News",
      "published": "2026-10-28T05:57:00+00:00",
      "summary": "Brewers fans at the Trop have to wait to celebrate the franchise’s first World Series title AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
      "title": "King Charles III arrives in Bahamas for official Caribbean trip as slavery reparation demands grow - AP News",
      "published": "2026-10-28T05:27:00+00:00",
      "summary": "King Charles III arrives in Bahamas for official Caribbean trip as slavery reparation demands grow AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "A US cruise ship ends a global voyage in Asia due to fuel costs and 200 passengers lose their homes - AP News",
      "published": "2026-10-28T05:14:00+00:00",
      "summary": "A US cruise ship ends a global voyage in Asia due to fuel costs and 200 passengers lose their homes AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "Brazil's Flávio Bolsonaro and family will get US visas after election loss, State Department says - AP News",
-     "published": "2026-10-28T04:58:00+00:00",
-     "summary": "Brazil's Flávio Bolsonaro and family will get US visas after election loss, State Department says AP News"
     },
     {
      "ref": "ap_world#11",
@@ -114,9 +114,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#16",
-     "title": "Brewers' bullpen cracks in Game 4 loss after Aaron Ashby breaks postseason scoreless relief mark - AP News",
-     "published": "2026-10-28T03:30:07+00:00",
-     "summary": "Brewers' bullpen cracks in Game 4 loss after Aaron Ashby breaks postseason scoreless relief mark AP News"
+     "title": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says - AP News",
+     "published": "2026-10-28T03:18:27+00:00",
+     "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says AP News"
     },
     {
      "ref": "ap_world#17",
@@ -138,33 +138,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#20",
-     "title": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says - AP News",
-     "published": "2026-10-28T02:37:00+00:00",
-     "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says AP News"
-    },
-    {
-     "ref": "ap_world#21",
      "title": "Special master could evaluate Justice Department's claims of noncitizens on California voter rolls - AP News",
      "published": "2026-10-28T02:34:00+00:00",
      "summary": "Special master could evaluate Justice Department's claims of noncitizens on California voter rolls AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#21",
      "title": "FACT FOCUS: Kennedy's claim that Arabs 'don't produce science' meets a Nobel Prize reality check - AP News",
      "published": "2026-10-28T02:06:00+00:00",
      "summary": "FACT FOCUS: Kennedy's claim that Arabs 'don't produce science' meets a Nobel Prize reality check AP News"
     },
     {
-     "ref": "ap_world#23",
-     "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say - AP News",
-     "published": "2026-10-28T02:02:00+00:00",
-     "summary": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say AP News"
-    },
-    {
-     "ref": "ap_world#24",
+     "ref": "ap_world#22",
      "title": "Who should be believed? Trump's social media post on golf course leads lawyers back to court - AP News",
      "published": "2026-10-28T01:22:00+00:00",
      "summary": "Who should be believed? Trump's social media post on golf course leads lawyers back to court AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "Soccer star Kylian Mbappé apologizes for apparent reference to Mao as a ‘dictator’ - AP News",
+     "published": "2026-10-28T01:14:00+00:00",
+     "summary": "Soccer star Kylian Mbappé apologizes for apparent reference to Mao as a ‘dictator’ AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Saudi Arabia says air defenses intercept Houthi missiles over capital - AP News",
+     "published": "2026-10-28T01:00:00+00:00",
+     "summary": "Saudi Arabia says air defenses intercept Houthi missiles over capital AP News"
     }
    ]
   },
@@ -375,12 +375,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "A Less-Is-More Strategy for America",
      "published": "2026-10-22T08:00:00+00:00",
      "summary": "Barry Posen, a professor at MIT, is one of America's leading experts on international security. He argues that the United States military is breaking down because it has been overused and overextended over the last 30 years, and that the only way to repair it is for Washington to exercise much more restraint."
-    },
-    {
-     "ref": "foreign_affairs#8",
-     "title": "How Russia Sees the World Now",
-     "published": "2026-10-21T08:00:00+00:00",
-     "summary": "Dmitry Adamsky, an expert on Russian security and Russian nuclear deterrence strategy at Harvard and Reichman Universities, examines a large-scale shift in Russia’s strategic thinking over the past year, centered around the view that Europe, rather than the United States, is now Russia’s primary geopolitical rival and adversary, and looking at the consequences of this shift for US efforts to end t"
     }
    ]
   },
@@ -390,27 +384,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Policeman kills knife attacker outside Israeli embassy in Serbia - Reuters",
+     "published": "2026-10-28T08:53:43+00:00",
+     "summary": "Policeman kills knife attacker outside Israeli embassy in Serbia Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Two high-speed trains collide in Spain, rail operator says - Reuters",
+     "published": "2026-10-28T08:47:53+00:00",
+     "summary": "Two high-speed trains collide in Spain, rail operator says Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "'Nobody heard us' – why Gen Z are leading protests across Europe - Reuters",
      "published": "2026-10-28T08:42:18+00:00",
      "summary": "'Nobody heard us' – why Gen Z are leading protests across Europe Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "Policeman kills knife attacker outside Israel's embassy in Serbia - Reuters",
-     "published": "2026-10-28T07:45:43+00:00",
-     "summary": "Policeman kills knife attacker outside Israel's embassy in Serbia Reuters"
-    },
-    {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "China calls on Germany, EU to be rational on trade, supply chain issues - Reuters",
      "published": "2026-10-28T07:36:09+00:00",
      "summary": "China calls on Germany, EU to be rational on trade, supply chain issues Reuters"
-    },
-    {
-     "ref": "reuters_world#3",
-     "title": "Ambani's heir Akash steps into the spotlight as India's Jio goes public - Reuters",
-     "published": "2026-10-28T06:59:00+00:00",
-     "summary": "Ambani's heir Akash steps into the spotlight as India's Jio goes public Reuters"
     },
     {
      "ref": "reuters_world#4",
@@ -474,69 +468,69 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#14",
+     "title": "Indian central bank likely intervenes to support rupee as oil prices weigh, traders say - Reuters",
+     "published": "2026-10-28T03:43:00+00:00",
+     "summary": "Indian central bank likely intervenes to support rupee as oil prices weigh, traders say Reuters"
+    },
+    {
+     "ref": "reuters_world#15",
      "title": "Indian rupee stumbles on oil strain; mild inflows and intervention cap fall - Reuters",
      "published": "2026-10-28T03:04:00+00:00",
      "summary": "Indian rupee stumbles on oil strain; mild inflows and intervention cap fall Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote - Reuters",
      "published": "2026-10-28T02:48:00+00:00",
      "summary": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Indian shares fall as oil rise weighs; Jio lists at 21.4% premium - Reuters",
      "published": "2026-10-28T02:37:00+00:00",
      "summary": "Indian shares fall as oil rise weighs; Jio lists at 21.4% premium Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage - Reuters",
      "published": "2026-10-28T02:10:00+00:00",
      "summary": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage Reuters"
     },
     {
-     "ref": "reuters_world#18",
-     "title": "Oil up over $2 as Saudi Arabian refinery attack reignites supply risk concerns - Reuters",
-     "published": "2026-10-28T01:49:00+00:00",
-     "summary": "Oil up over $2 as Saudi Arabian refinery attack reignites supply risk concerns Reuters"
-    },
-    {
      "ref": "reuters_world#19",
-     "title": "Stocks get AI lift, kiwi slides on RBNZ's surprise hold - Reuters",
-     "published": "2026-10-28T01:40:00+00:00",
-     "summary": "Stocks get AI lift, kiwi slides on RBNZ's surprise hold Reuters"
+     "title": "Oil up over 1% as Saudi Arabian refinery attack reignites supply risk concerns - Reuters",
+     "published": "2026-10-28T01:49:00+00:00",
+     "summary": "Oil up over 1% as Saudi Arabian refinery attack reignites supply risk concerns Reuters"
     },
     {
      "ref": "reuters_world#20",
+     "title": "Global stocks get AI lift ahead of packed 48 hours - Reuters",
+     "published": "2026-10-28T01:40:00+00:00",
+     "summary": "Global stocks get AI lift ahead of packed 48 hours Reuters"
+    },
+    {
+     "ref": "reuters_world#21",
      "title": "ASEAN envoy to lead humanitarian mission to Myanmar - Reuters",
      "published": "2026-10-28T01:21:00+00:00",
      "summary": "ASEAN envoy to lead humanitarian mission to Myanmar Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate - Reuters",
      "published": "2026-10-28T01:01:00+00:00",
      "summary": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Ambani’s Jio becomes India’s second-most valuable firm in $131.5 billion debut - Reuters",
      "published": "2026-10-28T00:34:00+00:00",
      "summary": "Ambani’s Jio becomes India’s second-most valuable firm in $131.5 billion debut Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Healey seeks to steer UK through 'difficult moment' with low-key budget - Reuters",
      "published": "2026-10-28T00:03:00+00:00",
      "summary": "Healey seeks to steer UK through 'difficult moment' with low-key budget Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit - Reuters",
-     "published": "2026-10-27T23:49:00+00:00",
-     "summary": "SK Hynix unveils $75 billion shareholder return plan after posting record profit Reuters"
     }
    ]
   }
