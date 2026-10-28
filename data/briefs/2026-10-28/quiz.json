@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-28",
+  "questions": [
+    {
+      "id": "q1-business-anthropic",
+      "section": "business",
+      "story_id": "anthropic-ipo-buildout",
+      "answer_index": 1,
+      "en": {
+        "question": "Before its potential IPO, how did Anthropic help fund its AI infrastructure buildout?",
+        "options": [
+          "By selling a majority stake to Broadcom",
+          "By closing a $63 billion debt deal, the largest ever raised for that purpose",
+          "By taking a loan from the US government",
+          "By issuing a stock buyback"
+        ],
+        "explanation": "Anthropic closed a $63 billion financing deal for AI infrastructure, described as the largest debt raise ever for that purpose, which reportedly needed Broadcom's CEO to personally help seal it."
+      },
+      "he": {
+        "question": "איך אנתרופיק עזרה לממן את בניית תשתיות ה-AI שלה לפני ההנפקה האפשרית שלה?",
+        "options": [
+          "במכירת מניית רוב לברודקום",
+          "בסגירת עסקת חוב בסך 63 מיליארד דולר, הגדולה בהיסטוריה למטרה הזו",
+          "בקבלת הלוואה מממשלת ארה\"ב",
+          "בהנפקת רכישה עצמית של מניות"
+        ],
+        "explanation": "אנתרופיק סגרה עסקת מימון של 63 מיליארד דולר לתשתיות AI, המתוארת כגיוס החוב הגדול בהיסטוריה למטרה הזו, עסקה שלפי הדיווחים דרשה את התערבותו האישית של מנכ\"ל ברודקום כדי להיסגר."
+      }
+    },
+    {
+      "id": "q2-geopolitics-kherson",
+      "section": "geopolitics",
+      "story_id": "kherson-ceasefire-nordic-diplomacy",
+      "answer_index": 2,
+      "en": {
+        "question": "What unusual diplomatic step took place alongside the ceasefire in Ukraine's Kherson region?",
+        "options": [
+          "NATO deployed troops to monitor the truce",
+          "The United Nations imposed new sanctions on Russia",
+          "Norway's and Finland's leaders held a rare direct call with Putin",
+          "Zelensky and Putin met in person for the first time"
+        ],
+        "explanation": "Norway's and Finland's leaders held a rare direct call with Vladimir Putin, with Finland's president saying an end to the conflict \"will not be achieved through silence.\""
+      },
+      "he": {
+        "question": "איזה צעד דיפלומטי בלתי שגרתי התרחש לצד הפסקת האש באזור חרסון באוקראינה?",
+        "options": [
+          "נאט\"ו שלח כוחות לפקח על ההפסקת אש",
+          "האו\"ם הטיל סנקציות חדשות על רוסיה",
+          "מנהיגי נורבגיה ופינלנד קיימו שיחה ישירה נדירה עם פוטין",
+          "זלנסקי ופוטין נפגשו פנים אל פנים בפעם הראשונה"
+        ],
+        "explanation": "מנהיגי נורבגיה ופינלנד קיימו שיחה ישירה נדירה עם ולדימיר פוטין, ונשיא פינלנד אמר שסיום הסכסוך \"לא יושג בשקט\"."
+      }
+    },
+    {
+      "id": "q3-israeli-politics-deadlock",
+      "section": "israeli_politics",
+      "story_id": "election-deadlock-balance-of-power",
+      "answer_index": 0,
+      "en": {
+        "question": "According to Haaretz's analysis after the election, why can't the change bloc form a government on its own?",
+        "options": [
+          "It cannot reach 61 seats without support from Arab-backed parties",
+          "It needs approval from the Supreme Court first",
+          "It needs the Haredi parties to join its coalition",
+          "Israeli law requires a national unity government after a tie"
+        ],
+        "explanation": "Haaretz reported that even if the change bloc ends up leading in the final count, it cannot form a government without support from at least some of the Joint List's and Ra'am's seats."
+      },
+      "he": {
+        "question": "לפי הניתוח של הארץ אחרי הבחירות, למה גוש השינוי לא יכול להרכיב ממשלה בעצמו?",
+        "options": [
+          "הוא לא יכול להגיע ל-61 מנדטים בלי תמיכה של המפלגות הערביות",
+          "הוא צריך קודם אישור של בית המשפט העליון",
+          "הוא צריך שהמפלגות החרדיות יצטרפו לקואליציה שלו",
+          "החוק בישראל מחייב ממשלת אחדות לאומית אחרי תוצאה צמודה"
+        ],
+        "explanation": "הארץ דיווח שגם אם גוש השינוי יוביל בספירה הסופית, הוא לא יוכל להרכיב ממשלה בלי תמיכה של לפחות חלק ממנדטי הרשימה המשותפת ורע\"מ."
+      }
+    }
+  ]
+}

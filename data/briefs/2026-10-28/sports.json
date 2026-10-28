@@ -1,0 +1,205 @@
+{
+  "section": "sports",
+  "date": "2026-10-28",
+  "title_en": "Sports",
+  "title_he": "ספורט",
+  "default_lang": "en",
+  "generated_at": "2026-10-28T04:05:18+00:00",
+  "stories": [
+    {
+      "id": "arsenal-fleetwood-cup-shock",
+      "kind": "news",
+      "en": {
+        "headline": "Arsenal's Season Survives a Historic Cup Humiliation at Fleetwood",
+        "scroll": "Arsenal, second in the Premier League, were knocked out of the Carabao Cup on penalties by fourth-tier Fleetwood Town — 83 league places below them — in what the home side called the biggest night in their history.",
+        "coffee": "Arsenal's Carabao Cup last-16 tie at League Two Fleetwood Town turned into one of the biggest shocks in the competition's history. Fleetwood — 83 league places below Arsenal — won on penalties after the match was even halted for more than eight minutes when a drone was spotted above the stadium. The home side called it the biggest night in the club's history, and BBC Sport is already ranking it among the all-time great cup upsets.\n\nFor Arsenal, the night also got uglier on the pitch: young forward Dowman was sent off, and BBC Sport is asking whether manager Mikel Arteta's team selection for the tie went too far in the other direction.\n\nThe cup exit doesn't change the bigger picture, though. Arsenal sit second in the Premier League on 21 points from eight games, level with leaders Manchester City but behind on goal difference (+8 to City's +11), after beating Everton 2-0 and drawing 2-2 away at Bayern Munich in the Champions League in their last two \"real\" fixtures. They travel to Liverpool on November 1 and to Slavia Praha in the Champions League on November 4.",
+        "deep": "## Background\n\nThe Carabao Cup (EFL Cup) is English football's lower-profile domestic cup, and top-flight clubs have long used it to rest first-team players and give young talent minutes — a practice that occasionally backfires spectacularly against lower-league opposition with nothing to lose and a passionate home crowd behind them.\n\n## The story\n\nFleetwood Town, who play in League Two (English football's fourth tier), beat Arsenal on penalties in the last 16 of the Carabao Cup — a gap of 83 league places between the two clubs. The tie was even halted for more than eight minutes after a drone was spotted flying above the stadium, adding a surreal twist to an already dramatic night. Fleetwood's players and fans treated it as the club's biggest-ever result, and BBC Sport's historical look at the biggest FA Cup and League Cup upsets suggests it belongs near the top of that list.\n\nArsenal's night was further soured by a red card for young forward Dowman, and BBC Sport specifically raised the question of whether manager Mikel Arteta's selection — presumably leaning heavily on fringe and academy players for the tie — went too far in prioritizing squad rotation over respecting the occasion.\n\n## Second-order effects\n\nA cup exit like this carries real sporting and commercial cost — lost matches, lost broadcast revenue, and a bruised reputation — but little direct effect on Arsenal's Premier League or Champions League campaigns, which remain the club's priorities. The bigger risk is reputational and psychological: a result this lopsided invites exactly the kind of scrutiny of Arteta's squad management that BBC Sport is now raising, and gives rival fans and pundits a ready-made talking point regardless of how the season's major competitions go.\n\nThe broader Premier League picture, meanwhile, is unaffected and arguably reassuring for Arsenal: they sit level on points with Manchester City at the top, with respectable recent form including a win over Everton and a hard-fought draw at Bayern Munich in the Champions League.\n\n## What to watch next\n\nWatch how Arteta responds in team selection for Arsenal's trip to Liverpool on November 1 — whether he reverts to a clearly first-choice lineup after the Fleetwood embarrassment — and how the Gunners fare away at Slavia Praha in the Champions League on November 4, their next test on that front."
+      },
+      "he": {
+        "headline": "העונה של ארסנל שורדת ביזיון היסטורי בגביע מול פליטווד",
+        "scroll": "ארסנל, השנייה בפרמייר ליג, נפלה בפנדלים בגביע הליגה מול פליטווד טאון מהליגה הרביעית — 83 מקומות מתחתיה בטבלאות — במה שהמארחת כינתה הערב הגדול בהיסטוריה של המועדון.",
+        "coffee": "משחק השלב השמיני-גמר של ארסנל בגביע הליגה (Carabao Cup) מול פליטווד טאון מהליגה הרביעית הפך לאחת ההפתעות הגדולות בהיסטוריה של התחרות. פליטווד — 83 מקומות מתחת לארסנל בטבלאות הליגה — ניצחה בפנדלים, אחרי שהמשחק אף הופסק ליותר משמונה דקות כשרחפן (drone) נראה מעל האצטדיון. המארחת כינתה זאת הערב הגדול בהיסטוריה של המועדון, ו-BBC Sport כבר מדרגת את התוצאה בין ההפתעות הגדולות בתולדות הגביעים האנגליים.\n\nלארסנל הערב קיבל גם ממד מכוער יותר על המגרש: החלוץ הצעיר דאומן קיבל כרטיס אדום, ו-BBC Sport שואל אם בחירת ההרכב של המאמן מיקל ארטטה למשחק הזה הלכה רחוק מדי בכיוון השני.\n\nהנפילה מהגביע לא משנה את התמונה הגדולה: ארסנל נמצאת במקום השני בפרמייר ליג עם 21 נקודות מתוך שמונה משחקים, בשוויון עם מנצ'סטר סיטי המובילה אך מאחור בהפרש השערים (פלוס 8 לעומת פלוס 11 של סיטי), אחרי שניצחה את אברטון 2-0 וסיימה בשוויון 2-2 כאורחת מול בايרן מינכן בליגת האלופות. במחזור הקרוב היא תארח את ליברפול ב-1 בנובמבר, ולאחר מכן תארח (כאורחת) את סלאביה פראג בליגת האלופות ב-4 בנובמבר.",
+        "deep": "## רקע\n\nגביע הליגה האנגלי (Carabao Cup / EFL Cup) הוא התחרות המקומית הפחות יוקרתית בכדורגל האנגלי, ומועדוני הדרגה הראשונה משתמשים בו לרוב כדי לנח שחקני הרכב ולתת דקות משחק לשחקנים צעירים — נוהג שמדי פעם מתפוצץ באופן דרמטי מול יריבה מליגה נמוכה יותר שאין לה מה לאבד, עם קהל בית נלהב מאחוריה.\n\n## הסיפור\n\nפליטווד טאון, ששחקת בליגה הרביעית האנגלית (League Two), ניצחה את ארסנל בפנדלים בשלב השמיני-גמר של גביע הליגה — פער של 83 מקומות בין שתי הקבוצות בטבלאות הליגה שלהן. המשחק אף הופסק ליותר משמונה דקות אחרי שרחפן נצפה מעל האצטדיון, מה שהוסיף נופך בלתי שגרתי לערב שכבר היה דרמטי. שחקני ואוהדי פליטווד התייחסו לכך כתוצאה הגדולה בהיסטוריית המועדון, והסקירה ההיסטורית של BBC Sport על ההפתעות הגדולות בגביעי האנגלים מרמזת שהתוצאה נמצאת קרוב לראש הרשימה הזו.\n\nהערב של ארסנל הוכתם עוד יותר בכרטיס אדום לחלוץ הצעיר דאומן, ו-BBC Sport העלה במפורש את השאלה אם בחירת ההרכב של המאמן מיקל ארטטה — שנשען כנראה במידה רבה על שחקני שוליים ואקדמיה למשחק הזה — הלכה רחוק מדי בכיוון של תעדוף סיבוב ההרכב על חשבון כבוד למשחק.\n\n## אפקטים מסדר שני\n\nנפילה מהגביע ברמה הזו גובה מחיר ספורטיבי ומסחרי אמיתי — משחקים אבודים, הכנסות שידור אבודות, ומוניטין פגום — אבל השפעה ישירה מוגבלת על מסע ארסנל בפרמייר ליג או בליגת האלופות, שנותרים סדרי העדיפויות של המועדון. הסיכון הגדול יותר הוא תדמיתי ופסיכולוגי: תוצאה חד-צדדית כזו מזמינה בדיוק את סוג הבדיקה של ניהול הסגל של ארטטה ש-BBC Sport מעלה כעת, ונותנת לאוהדי יריבות ולפרשנים נושא שיחה מוכן מראש, בלי קשר לאופן שבו העונה בתחרויות המרכזיות תתפתח.\n\nהתמונה הרחבה יותר בפרמייר ליג, לעומת זאת, לא נפגעה, ואף מעודדת במידה מה עבור ארסנל: היא בשוויון נקודות עם מנצ'סטר סיטי בראש הטבלה, עם טפסים אחרונים סבירים הכוללים ניצחון על אברטון ושוויון קשה שהושג מול ביירן מינכן בליגת האלופות.\n\n## מה לעקוב אחריו\n\nיש לעקוב איך ארטטה יגיב בבחירת ההרכב למשחק החוץ של ארסנל מול ליברפול ב-1 בנובמבר — אם יחזור להרכב ברור של השחקנים המובילים אחרי הבושה מול פליטווד — ואיך הקבוצה תתפקד כאורחת מול סלאביה פראג בליגת האלופות ב-4 בנובמבר, המבחן הבא שלה בחזית הזו."
+      },
+      "tags": [
+        "arsenal",
+        "carabao-cup",
+        "premier-league"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "'Biggest night in the club's history' for fearless Fleetwood",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "barcelona-table-form-alvarez-fine",
+      "kind": "news",
+      "en": {
+        "headline": "Barcelona Stay Top of La Liga Despite a Clásico Loss — and Pick Up a Fine for an Illegal Alvarez Approach",
+        "scroll": "Barcelona remain top of La Liga on 27 points despite losing El Clásico to Real Madrid and a Champions League defeat at PSG, and were separately fined for an improper approach to Atlético Madrid striker Julián Álvarez.",
+        "coffee": "Barcelona still top La Liga with 27 points from 10 games, three clear of Atlético Madrid and four clear of Real Madrid in third, and with a vastly superior goal difference (+29) to both. But recent form has been bumpier than the table suggests: after thrashing Real Betis 5-2 away, Barça lost 4-2 away at PSG in the Champions League and then lost El Clásico 2-1 at home to Real Madrid.\n\nOff the pitch, Barcelona were fined 602 euros (£503) after a complaint from Atlético Madrid over contact the club made with Atlético striker Julián Álvarez — a reminder that even a relatively small fine signals a breach of the rules governing approaches to players still under contract elsewhere.\n\nBarça next host Alavés in La Liga on October 31, before a home Champions League tie against Aston Villa on November 3 — a chance to settle back into the form that put them top of the table in the first place.",
+        "deep": "## Background\n\nTampering rules in European football generally bar one club from making contact with a player who is still under contract at a rival club without going through the proper channels — usually requiring permission from the player's current club before any approach. Breaching that rule typically results in a fine, and the size of the fine often says less about the severity of the breach than about the competition's own disciplinary scale for first offenses.\n\n## The story\n\nBarcelona enter this week still on top of La Liga, with 27 points from 10 games — three points clear of Atlético Madrid and four clear of Real Madrid, with a goal difference of +29 that dwarfs both rivals. That standing, though, undersells how turbulent the last couple of weeks have been. Barça beat Real Betis 5-2 away in their most recent league outing before that stretch, but then lost 4-2 away at Paris Saint-Germain in the Champions League, and followed that with a 2-1 home defeat to Real Madrid in El Clásico — arguably the club's two highest-profile fixtures of the season so far, both losses.\n\nSeparately, Barcelona were fined 602 euros (£503) following a complaint from Atlético Madrid, after the Catalan club made contact with Atlético striker Julián Álvarez without the proper process. The fine itself is modest, but it confirms that Barcelona's interest in Álvarez is real enough to have triggered a formal complaint from his current club.\n\n## Second-order effects\n\nStaying top of the table despite back-to-back defeats against two of the continent's best teams says something about the cushion Barcelona built earlier in the season — the +29 goal difference suggests many of their wins have been lopsided. But two straight losses against elite opposition, at a moment when Real Madrid and Atlético are both chasing closely, raise the stakes on Barça's next few fixtures to re-establish control of the title race rather than simply rely on an early-season cushion.\n\nThe Álvarez fine, though financially trivial, is a signal of intent in the transfer market: clubs don't usually risk a tampering complaint, however small the resulting penalty, unless they see a realistic path to signing the player down the line.\n\n## What to watch next\n\nWatch whether Barcelona can return to winning form at home against Alavés on October 31 before a significant Champions League test at home to Aston Villa on November 3 — two matches that will show whether the Clásico and PSG defeats were a blip or the start of a tougher stretch. On the transfer side, watch whether Barcelona's interest in Álvarez develops into a more serious, formally sanctioned approach once his contract situation allows it."
+      },
+      "he": {
+        "headline": "ברצלונה נותרת בראש הליגה הספרדית חרף הפסד באל קלאסיקו — וקיבלה קנס על פנייה לא חלקית לחלוארס",
+        "scroll": "ברצלונה נותרת בראש הליגה הספרדית עם 27 נקודות חרף הפסד באל קלאסיקו לריאל מדריד והפסד בליגת האלופות ל-PSG, וקיבלה בנפרד קנס על פנייה לא תקינה לחלוץ אתלטיקו מדריד חוליאן אלווארס.",
+        "coffee": "ברצלונה עדיין מובילה בליגה הספרדית עם 27 נקודות מתוך 10 משחקים, שלוש נקודות לפני אתלטיקו מדריד וארבע לפני ריאל מדריד השלישית, עם הפרש שערים עצום (פלוס 29) שמותיר את שתי היריבות מאחור בפער גדול. אבל הטפסים האחרונים היו הפכפכים יותר משהטבלה מרמזת: אחרי ניצחון 5-2 על ריאל בטיס כאורחת, ברצלונה הפסידה 4-2 כאורחת ל-PSG בליגת האלופות, ולאחר מכן הפסידה 1-2 בבית לריאל מדריד באל קלאסיקו.\n\nמעבר למגרש, ברצלונה נקנסה ב-602 יורו (כ-503 ליש\"ט) בעקבות תלונה של אתלטיקו מדריד על קשר שהקבוצה הקטלונית יזמה עם חלוץ אתלטיקו חוליאן אלווארס — תזכורת לכך שגם קנס יחסית קטן מצביע על הפרה של כללי הפנייה לשחקנים שעדיין חתומים במועדון אחר.\n\nברצלונה תארח את אלאווס בליגה ב-31 באוקטובר, ולפני כן תפגוש בבית את אסטון וילה בליגת האלופות ב-3 בנובמבר — הזדמנות לחזור לכושר שהביא אותה לראש הטבלה מלכתחילה.",
+        "deep": "## רקע\n\nכללי ה\"טמפרינג\" (tampering) בכדורגל האירופי אוסרים בדרך כלל על מועדון אחד ליצור קשר עם שחקן שעדיין חתום במועדון יריב בלי לעבור בערוצים המתאימים — בדרך כלל דרך קבלת אישור מהמועדון הנוכחי של השחקן לפני כל פנייה. הפרת הכלל הזה מובילה בדרך כלל לקנס, וגודל הקנס לרוב אומר יותר על סקאלת המשמעת של התחרות להפרות ראשונות מאשר על חומרת ההפרה עצמה.\n\n## הסיפור\n\nברצלונה נכנסת לשבוע הזה כשהיא עדיין בראש הליגה הספרדית, עם 27 נקודות מתוך 10 משחקים — שלוש נקודות לפני אתלטיקו מדריד וארבע לפני ריאל מדריד, עם הפרש שערים של פלוס 29 שמותיר את שתי היריבות הרחק מאחור. אבל המעמד הזה בטבלה מסתיר כמה סוערים היו השבועות האחרונים. ברצלונה ניצחה 5-2 את ריאל בטיס כאורחת במשחק הליגה האחרון שלפני התקופה הזו, אך לאחר מכן הפסידה 4-2 כאורחת לפריז סן ז'רמן בליגת האלופות, ובהמשך הפסידה 1-2 בבית לריאל מדריד באל קלאסיקו — כנראה שני המשחקים הבולטים ביותר של המועדון בעונה הזו עד כה, ושניהם הפסדים.\n\nבמקביל, ברצלונה נקנסה ב-602 יורו (כ-503 ליש\"ט) בעקבות תלונה של אתלטיקו מדריד, לאחר שהמועדון הקטלוני יצר קשר עם חלוץ אתלטיקו חוליאן אלווארס בלי לעבור בתהליך הנדרש. הקנס עצמו זניח כלכלית, אך הוא מאשר שההתעניינות של ברצלונה באלווארס רצינית מספיק כדי לעורר תלונה רשמית מהמועדון הנוכחי שלו.\n\n## אפקטים מסדר שני\n\nהעובדה שברצלונה נותרת בראש הטבלה חרף שני הפסדים ברצף מול שתי הקבוצות הטובות ביותר באירופה מעידה על הכרית שהמועדון בנה קודם לכן בעונה — הפרש השערים של פלוס 29 מרמז שהרבה מהניצחונות שלה היו חד-צדדיים. אבל שני הפסדים רצופים מול יריבות עילית, בזמן שריאל מדריד ואתלטיקו שניהם קרובים מאחור, מעלים את החשיבות של המשחקים הבאים של ברצלונה בחידוש השליטה במרוץ האליפות, ולא רק בהסתמכות על יתרון שנבנה בתחילת העונה.\n\nהקנס על אלווארס, אף שהוא זניח כלכלית, הוא סימן כוונה בשוק ההעברות: מועדונים לא מסתכנים בדרך כלל בתלונת טמפרינג, כמה שהעונש הסופי יהיה קטן, אלא אם הם רואים דרך ריאלית לחתום על השחקן בעתיד.\n\n## מה לעקוב אחריו\n\nיש לעקוב אם ברצלונה תחזור לכושר ניצחונות בבית מול אלאווס ב-31 באוקטובר, לפני מבחן משמעותי בליגת האלופות בבית מול אסטון וילה ב-3 בנובמבר — שני משחקים שיראו אם ההפסדים באל קלאסיקו ומול PSG היו תקרית חד-פעמית או תחילתה של תקופה קשה יותר. בצד ההעברות, יש לעקוב אם ההתעניינות של ברצלונה באלווארס תתפתח לפנייה רשמית ומסודרת יותר כשמצב החוזה שלו יאפשר זאת."
+      },
+      "tags": [
+        "barcelona",
+        "la-liga",
+        "transfer-tampering"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Barcelona fined £503 over approach for Alvarez",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "kane-ballon-dor",
+      "kind": "news",
+      "en": {
+        "headline": "Harry Kane Wins the Ballon d'Or, Ending a 25-Year Wait for an English Winner",
+        "scroll": "Harry Kane won the Ballon d'Or, the first English winner in 25 years and the first Bundesliga player to win it since 1996, while Alexia Putellas claimed the women's award for a third time and Lionel Messi finished fifth.",
+        "coffee": "Harry Kane has won the Ballon d'Or, football's most prestigious individual award, ending a 25-year wait for an English winner. BBC Sport also notes it is the first time since 1996 that a player based in Germany's Bundesliga has won the award — a detail that reflects well on both Kane's move to Bayern Munich and on the league itself. BBC's chief football writer Phil McNulty described Kane as a humble \"anti-superstar\" who defied doubters to reach this point.\n\nIn the women's competition, Alexia Putellas won the Ballon d'Or Féminin for the third time, underlining her status as one of the dominant players of her generation.\n\nFor fans of Lionel Messi and Inter Miami, there's a notable data point in the same voting: Messi finished fifth in this year's Ballon d'Or rankings, still firmly in the game's elite conversation even at this stage of his career.",
+        "deep": "## Background\n\nThe Ballon d'Or, awarded annually since 1956, is widely regarded as football's most prestigious individual honor, voted on by a panel of journalists based on performances over the preceding season. English players have historically struggled to win it compared with their Spanish, Portuguese, Argentine and French peers, and Bundesliga-based players have been similarly rare among winners in the award's recent history.\n\n## The story\n\nHarry Kane has been named the 2026 Ballon d'Or winner, breaking a 25-year drought for English players in football's most prominent individual award. BBC Sport highlights a second notable angle to the win: it is the first time since 1996 that a Bundesliga player has taken the award, a reflection of Kane's move to Bayern Munich and, the BBC suggests, a result that could boost the league's own profile and marketing. BBC chief football writer Phil McNulty framed Kane's path to the award as that of an \"anti-superstar\" — a humble figure who had to defy years of doubt about whether he would ever win major honors, let alond individual ones at this level.\n\nIn the parallel women's award, Alexia Putellas won the Ballon d'Or Féminin for the third time, further cementing her place among the sport's most decorated modern players.\n\nAway from the two winners, this year's voting also produced a data point of interest to anyone still following Lionel Messi's career at Inter Miami: he finished fifth in the rankings, a result that, while not a podium finish, confirms he remains among the small group of players still considered among the world's best discussion-worthy even well into the MLS phase of his career.\n\n## Second-order effects\n\nAn English Ballon d'Or winner after 25 years, and the first Bundesliga winner since 1996, both carry marketing value beyond the individual honor itself: expect English football and the Bundesliga to lean into both storylines, and expect renewed discussion in England about why it took a quarter of a century to produce another winner after the country's last one. For Kane personally, the award is likely to be framed as vindication after a career that, before his move to Bayern Munich, was often associated with near-misses in major finals rather than individual silverware.\n\n## What to watch next\n\nWatch how Kane's Ballon d'Or win is received back in the Premier League, where he no longer plays, versus in Germany, where BBC Sport suggests it could meaningfully boost Bundesliga's international profile. Also worth tracking, for fans following Messi specifically: whether a fifth-place finish at this stage of his Inter Miami career changes any narrative about his standing relative to the sport's current peak performers."
+      },
+      "he": {
+        "headline": "הארי קיין זוכה בכדור הזהב, מסיים המתנה של 25 שנה לזוכה אנגלי",
+        "scroll": "הארי קיין זכה בכדור הזהב, הזוכה האנגלי הראשון מזה 25 שנה והראשון מהבונדסליגה מאז 1996, בעוד אלקסיה פוטיאס זכתה בפרס הנשים בפעם השלישית ומסי סיים במקום החמישי.",
+        "coffee": "הארי קיין זכה בכדור הזהב (Ballon d'Or), הפרס האישי החשוב ביותר בכדורגל, ומסיים המתנה של 25 שנה לזוכה אנגלי. לפי BBC Sport, זו גם הפעם הראשונה מאז 1996 ששחקן מהבונדסליגה הגרמנית זוכה בפרס — פרט שמשתלב יפה עם המעבר של קיין לבאיירן מינכן ועם מעמד הליגה עצמה. הכתב הראשי לכדורגל של ה-BBC, פיל מקנאלטי, תיאר את קיין כ\"אנטי-כוכב\" צנוע שהתגבר על ספקנים כדי להגיע לרגע הזה.\n\nבתחרות הנשים, אלקסיה פוטיאס זכתה בכדור הזהב לנשים בפעם השלישית, וממשיכה לבסס את מעמדה כאחת השחקניות הבולטות של הדור שלה.\n\nלאוהדי ליאו מסי ואינטר מיאמי יש נתון מעניין מאותה הצבעה: מסי סיים במקום החמישי בדירוג כדור הזהב השנה — לא על הפודיום, אבל עדיין בשיח העולמי על השחקנים הטובים בעולם, גם בשלב הזה של הקריירה שלו.",
+        "deep": "## רקע\n\nכדור הזהב (Ballon d'Or), המוענק כל שנה מאז 1956, נחשב לפרס האישי היוקרתי ביותר בכדורגל, והזכייה בו נקבעת על ידי פאנל עיתונאים המצביעים על בסיס הביצועים בעונה שקדמה להכרזה. שחקנים אנגלים נאבקו היסטורית לזכות בו בהשוואה לעמיתיהם הספרדים, הפורטוגזים, הארגנטינים והצרפתים, ושחקני בונדסליגה היו נדירים באופן דומה בין הזוכים בהיסטוריה הקרובה של הפרס.\n\n## הסיפור\n\nהארי קיין הוכרז כזוכה בכדור הזהב לשנת 2026, ושבר המתנה של 25 שנה לזוכה אנגלי בפרס האישי הבולט ביותר בכדורגל. BBC Sport מדגיש זווית בולטת נוספת לזכייה: זו הפעם הראשונה מאז 1996 ששחקן מהבונדסליגה זוכה בפרס, מה שמשתלב עם המעבר של קיין לבאיירן מינכן ועלול, לפי ה-BBC, לחזק את מעמד הליגה עצמה. הכתב הראשי לכדורגל של ה-BBC, פיל מקנאלטי, תיאר את דרכו של קיין לפרס כזו של \"אנטי-כוכב\" — דמות צנועה שנאלצה להתגבר על שנים של ספקנות באשר לשאלה אם יזכה אי פעם בתארים גדולים, שלא לדבר על פרסים אישיים ברמה הזו.\n\nבפרס המקביל לנשים, אלקסיה פוטיאס זכתה בכדור הזהב לנשים בפעם השלישית, וממשיכה לבסס את מקומה בין השחקניות המעוטרות ביותר של הדור המודרני.\n\nמעבר לשני הזוכים, ההצבעה השנה הניבה גם נתון מעניין לכל מי שעדיין עוקב אחרי הקריירה של ליאו מסי באינטר מיאמי: הוא סיים במקום החמישי בדירוג — לא על הפודיום, אבל תוצאה שמאשרת שהוא נותר בקבוצה הקטנה של שחקנים שנחשבים עדיין בין הטובים בעולם, אפילו בשלב הזה, כבר בתוך הקריירה שלו ב-MLS.\n\n## אפקטים מסדר שני\n\nזוכה אנגלי בכדור הזהב אחרי 25 שנה, ושחקן בונדסליגה ראשון מאז 1996, שניהם נושאים ערך שיווקי מעבר לפרס האישי עצמו: צפו לכדורגל האנגלי ולבונדסליגה שינצלו את שני הסיפורים, ולדיון מחודש באנגליה בשאלה מדוע נדרש רבע מאה כדי להפיק זוכה נוסף אחרי הזוכה האנגלי האחרון של המדינה. עבור קיין באופן אישי, הפרס צפוי להיתפס כהצדקה אחרי קריירה שלפני המעבר שלו לבאיירן מינכן נקשרה לרוב עם הפסדים צמודים בגמרים גדולים ולא עם גביעים אישיים.\n\n## מה לעקוב אחריו\n\nיש לעקוב איך הזכייה של קיין בכדור הזהב תתקבל בפרמייר ליג, שבה הוא לא משחק יותר, בהשוואה לגרמניה, שם BBC Sport מציע שהיא עלולה לחזק באופן משמעותי את המעמד הבינלאומי של הבונדסליגה. כדאי לעקוב גם, עבור אוהדי מסי: אם סיום במקום החמישי בשלב הזה של הקריירה שלו באינטר מיאמי משנה את הנרטיב לגבי מעמדו לעומת השחקנים המובילים כיום."
+      },
+      "tags": [
+        "ballon-dor",
+        "harry-kane",
+        "bundesliga"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Carrick stays at Man Utd & Kane wins Ballon d’Or",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pjy46g?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "McInnes admits 'guilt' over Hearts exit for Rangers",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjr4y51g6zvvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Inter Miami, Argentina star Lionel Messi finishes 5th in 2026 Ballon d’Or voting - Waking The Red",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQllfaVFya1ZlVF9CU00xUGF2eFB4Ul8zSHBpWlh0UVhZbWoxSDVPcmMwSDF4dm1oUVBpaTNVYVVCcV9DQ2kyeHVWZ1hTTW1ldnhhQ2RJSmJxTG05MFMwTXg5MzJxWWpPTVNHSXhTVWc3Y2dEQnJFd1FWUUxRckxtNEhCR3hoS3Y1YXE5cjI3VGpNdTRXZWNBemVXY3paZWV6R1hSV3YtQ0JSaWN1MC1GcnNTMTk0Q2xicTdEN0FB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "inter-miami-cincinnati-playoff-push",
+      "kind": "news",
+      "en": {
+        "headline": "Messi Returns to Inter Miami's Starting XI for a High-Stakes Clash With FC Cincinnati",
+        "scroll": "Lionel Messi is back in Inter Miami's starting lineup as they host FC Cincinnati, who are still chasing an MLS playoff spot, in a match being billed as high-stakes for both sides.",
+        "coffee": "Inter Miami, fresh off a 2-0 win over New York City FC, host FC Cincinnati today with Lionel Messi returning to the starting lineup. Cincinnati arrive still in the midst of their own playoff push, making this what multiple outlets are calling a high-stakes clash for both clubs — Cincinnati fighting to secure their postseason position, and Miami looking to build on their recent win.\n\nSeveral outlets frame the match's importance beyond just the current MLS standings, tying it to Inter Miami's positioning for next year's Concacaf Champions Cup race as well. It's also Cincinnati's first-ever trip to South Beach to face Miami.\n\nFor a Messi-watching audience, the headline detail is simply that he's starting after reports he'd be back in the XI — a day-to-day storyline for a 39-year-old continuing to carry a franchise built around him.",
+        "deep": "## Background\n\nInter Miami's season-long storyline has been built around two things: Lionel Messi's continued ability to be a difference-maker deep into his career, and the club's push to convert his presence into actual silverware and playoff success rather than just box-office appeal. FC Cincinnati, for their part, have spent this stretch of the season fighting to lock up a playoff place rather than simply hoping for one.\n\n## The story\n\nInter Miami enter this match on the back of a 2-0 win over New York City FC in their most recent fixture, and with Lionel Messi back in the starting lineup after reports suggested his return. FC Cincinnati visit South Beach for the first time in club history to face Miami, still working to secure their place in this year's MLS playoffs, which several outlets reporting on the match describe as giving the game real stakes for Cincinnati beyond just the scoreline on the night.\n\nCoverage of the match also connects it to a longer-term storyline: Inter Miami's standing in the race for qualification to next year's Concacaf Champions Cup, meaning the result carries weight beyond this season's playoff picture alone.\n\n## Second-order effects\n\nFor Cincinnati, anything less than the result they need keeps their playoff fate out of their own hands going into the campaign's final stretch — exactly the position a team fighting for a postseason spot wants to avoid. For Inter Miami, continuing to win with Messi starting reinforces the case that the team's success isn't solely dependent on him being on the field for every possible minute, which matters for how the roster is managed as the Messi era at the club continues.\n\n## What to watch next\n\nWatch the final result and whether it meaningfully shifts Cincinnati's playoff positioning, and watch how Inter Miami's form holds up with Messi back in the side as the club continues to balance his game-to-game availability against the team's broader competitive goals, including the Concacaf Champions Cup picture referenced in coverage of this match."
+      },
+      "he": {
+        "headline": "מסי חוזר להרכב הפותח של אינטר מיאמי למשחק גורלי מול סינסינטי",
+        "scroll": "ליאו מסי חוזר להרכב הפותח של אינטר מיאמי לקראת אירוח פי.סי סינסינטי, שעדיין נלחמת על מקום בפלייאוף ה-MLS, במשחק שמתואר כגורלי לשני הצדדים.",
+        "coffee": "אינטר מיאמי, ישר אחרי ניצחון 2-0 על ניו יורק סיטי, מארחת היום את פי.סי סינסינטי, וליאו מסי חוזר להרכב הפותח. סינסינטי מגיעה באמצע מירוץ משלה על מקום בפלייאוף, מה שכמה כלי תקשורת מתארים כמשחק גורלי לשני הצדדים — סינסינטי נלחמת להבטיח את מקומה בפלייאוף, ומיאמי מחפשת להמשיך את הניצחון האחרון.\n\nכמה כלי תקשורת ממסגרים את חשיבות המשחק גם מעבר לטבלת ה-MLS הנוכחית, ומקשרים אותו למאבק של אינטר מיאמי על מקום במירוץ לגביע קונקאקאף לאלופות בעונה הבאה. זה גם הביקור הראשון בהיסטוריה של סינסינטי בסאות' ביץ' מול מיאמי.\n\nלקהל שעוקב אחרי מסי, הפרט המרכזי הוא פשוט שהוא יוצא בהרכב הפותח אחרי דיווחים שהוא חוזר — עדכון יום-יומי לגבי שחקן בן 39 שממשיך לשאת על גבו מועדון שנבנה סביבו.",
+        "deep": "## רקע\n\nהסיפור המרכזי של העונה של אינטר מיאמי נבנה סביב שני דברים: היכולת המתמשכת של ליאו מסי להיות גורם מכריע בשלב מתקדם כך של הקריירה שלו, והמאמץ של המועדון להמיר את הנוכחות שלו להצלחה אמיתית בפלייאוף ולא רק לעניין קופתי. פי.סי סינסינטי, מצידה, השקיעה את התקופה הזו בעונה במאבק להבטיח מקום בפלייאוף ולא רק לקוות לו.\n\n## הסיפור\n\nאינטר מיאמי נכנסת למשחק הזה אחרי ניצחון 2-0 על ניו יורק סיטי במשחק הליגה האחרון שלה, וליאו מסי חוזר להרכב הפותח אחרי דיווחים שרמזו על חזרתו. פי.סי סינסינטי מגיעה לסאות' ביץ' בפעם הראשונה בהיסטוריה של המועדון כדי לפגוש את מיאמי, בזמן שהיא עדיין פועלת להבטיח את מקומה בפלייאוף ה-MLS השנה — עניין שכמה כלי תקשורת שמסקרים את המשחק מתארים כמשחק עם משמעות אמיתית לסינסינטי, מעבר לתוצאה של הערב בלבד.\n\nהסיקור של המשחק מקשר אותו גם לסיפור ארוך טווח יותר: מעמדה של אינטר מיאמי במרוץ ההעפלה לגביע קונקאקאף לאלופות בעונה הבאה, כך שהתוצאה נושאת משקל מעבר לתמונת הפלייאוף של העונה הנוכחית בלבד.\n\n## אפקטים מסדר שני\n\nלסינסינטי, כל תוצאה פחות מהנדרש משאירה את גורלה בפלייאוף לא בשליטתה שלה לקראת השלב האחרון של העונה — בדיוק המצב שקבוצה שנלחמת על מקום בפלייאוף מנסה להימנע ממנו. לאינטר מיאמי, המשך ניצחונות עם מסי בהרכב הפותח מחזק את הטיעון שההצלחה של הקבוצה לא תלויה רק בנוכחותו על המגרש בכל דקה אפשרית — נקודה שחשובה לאופן שבו מנוהל הסגל בהמשך עידן מסי במועדון.\n\n## מה לעקוב אחריו\n\nיש לעקוב אחרי התוצאה הסופית ואם היא משנה באופן משמעותי את מעמד סינסינטי בפלייאוף, ואיך הטפסים של אינטר מיאמי יתפקדו עם מסי בחזרה להרכב, בזמן שהמועדון ממשיך לאזן בין הזמינות שלו ממשחק למשחק לבין המטרות התחרותיות הרחבות יותר של הקבוצה, כולל התמונה של גביע קונקאקאף לאלופות שמוזכרת בסיקור המשחק הזה."
+      },
+      "tags": [
+        "inter-miami",
+        "messi",
+        "mls"
+      ],
+      "sources": [
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi, Miami to face Evander, Cincinnati in high-stakes clash - Field Level Media",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzJHMXBMRE5pYzFaMkNibWFSNE53WDBMTWxuaDZERm9qcVVKWHlzczZHTnh6aTk3ay1OTHVNRl9SX1F2dWFEcmFpYnZYblJGaXlfM0lBSDludlBJU0I2VXo3YVhwNl9nUmFwRzRsRy1uNE82eXNJU2hmOHo2S1hSUUx3TzNsd3BrSC1LbWs0OTFleTBDY3ZnaFlobzhKeUZM?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "FC Cincinnati meet Messi and Miami with a chance to clinch - Cincinnati Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmt2QnJqUFVGcmlQa0U5OGFQREN3TGp2cXVOM3JXRFVfN2pkclNMY3ZwT2VzQ3MwMWhsWkJKLUZmenVJbG5rVUppX01oT01ZS2Rqdl9BQjc1S0N3NnpkVWNSUlFrUVU4ZkVCUXQzNU1DQnR1dGNvdWJfLXU0eGVoVFlDTF9RZzhkOTRYTlYtdG1qNWI2dGEyQi1ncmNHM2JaUnc4SjdB?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi Returns to Inter Miami’s Starting XI Against FC Cincinnati as Riquelme Fillipi Heads Back to t... - Pasión Fútbol",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMFhLRno2cGpITE1OZlpleEZfT2xndzktZkdqa0F1RUtQZUVBdDRBc1hSSXZObGZoRGlCWHlraWhmZkt2bjF3TldJV2RvQ1FvdG15NWx1dldFcjRscVIxWFdydndFOWdma2dqeHR0TXc1WEMyNHFkNE5XaHh4Z3FVUnVSUzlXRXVJbTMzcTJIYlR2bHdjbnF4TnFCRzF0MEtVT1h3T0s1ekdCdXNlVWlDRGNnNjVsZVlpZVVkOFA0TWg4cjk3OS0yQ3h4dDNxUmxIWEp5ZHd2WFR1SExQSmtMajFSXzYza3dnMnA1WkI5RjhCdGZzOUowQnpYMzA3R3PSAf8BQVVfeXFMTzBYS0Z6NnBqSExNTmZaZXhGX09sZ3c5LWZHamtBdUVLUGVFQXQ0QXNYUkl2TmxmaERpQlh5a2loZmZLdm4xd05XSVdkb0NRb3RteTVsdXZXRXI0bHFSMVhXcnZ3RTlnZmtnanh0dE13NVhDMjRxZDROV2h4eGdxVVJ1UlM5V0V1SW0zM3EySGJUdmx3Y25xeE5xQkcxdDBLVU9Yd09LNXpHQnVzZVVpQ0RjZzY1bGVZaWVVZDhQNE1oOHI5NzktMkN4eHQzcVJsSFhKeWR3dlhUdUhMUEprTGoxUl82M2t3ZzJwNVpCOUY4QnRmczlKMEJ6WDMwN0dz?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi and Inter Miami Face a Crucial Test Against FC Cincinnati in MLS Race for 2027 Concacaf Champi... - Pasión Fútbol",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEtZel8tOVFxQVBkNWRXRk41Z2ViRjVqX3J0X28zdzl5Tnl4TThqZ1lJanJieTdFaU5yaFlYejVtT09VUjM1blpWcmIzY2gyOFNVSEpHTUdqTUxtWTlpMmF0V2VCRmRSRTNIbnAwMVdiYUZVQzc1aEdGUFk1Wkw4bjRHcU5COFVFYUZ0ZWJoRmh2ZkJnTzF5TVRUZjFia0hyTXU0azNYYVpIY0hvbExXVEdtN0NJcUhhSmcyWGJidW9MeHYydUJGYXVoS3BqWnFHT2k3c1JOa0lMakdGTjIxRF8xV2JoNk5HdXRZc04wTXBsazhjak5NQW5TMk9YbmfSAf8BQVVfeXFMT2RLWXpfLTlRcUFQZDVkV0ZONWdlYkY1al9ydF9vM3c5eU55eE04amdZSWpyYnk3RWlOcmhZWHo1bU9PVVIzNW5aVnJiM2NoMjhTVUhKR01Hak1MbVk5aTJhdFdlQkZkUkUzSG5wMDFXYmFGVUM3NWhHRlBZNVpMOG40R3FOQjhVRWFGdGViaEZodmZCZ08xeU1UVGYxYmtIck11NGszWGFaSGNIb2xMV1RHbTdDSXFIYUpnMlhiYnVvTHh2MnVCRmF1aEtwalpxR09pN3NSTmtJTGpHRk4yMURfMVdiaDZOR3V0WXNOME1wbGs4Y2pOTUFuUzJPWG5n?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "MATCHDAY PREVIEW presented by Kiesland | FC Cincinnati make their first trip to South Beach for matchup with Inter Miami CF - FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMzF2Nzgxc1dyN3h6ZmlFVkdKOTlyMjc5Tm0xSHlXbUQ1elZpcjFvZkUwN2hPMkNnWElQMU9raUIyMDl0T20xS21UcU1pRERrbnVBdjJHM3BCX3FLUUNKelNnV0UtNHd1eFBiTEMyY2hveF9MOGlseHlnMXV6RTJtT0tvMkFYdWtjZWR5MnUwMXUzQVo4YUozR0Z6UllNbWQ0MmhVdTZ6ektCRTJpMThnTUxRODRwODlubmxuRXI1dVV0c3JHYUtpTnAtX1lYOTh4QWlGT203NE5HMFFkYlpVS1NvR3llcXQ3M000?oc=5"
+        },
+        {
+          "outlet": "TheSportsDB",
+          "title": "Inter Miami & Israel national team",
+          "url": null
+        }
+      ]
+    }
+  ],
+  "israeli_players": [
+    {
+      "name": "Deni Avdija",
+      "team": "Portland Trail Blazers",
+      "en": "Avdija continues to be singled out as Portland's best player early this season — The Jerusalem Post says he's on track to become one of the greatest in franchise history, and Yahoo Sports credits him as still the team's top player despite a reshuffled roster alongside Damian Lillard and Ja Morant. The Blazers were playing the Lakers tonight (early in the game at last update), after beating the Suns 124-83 on October 22; no personal box score is available for this game.",
+      "he": "דני אבדיה ממשיך להיות מוזכר כשחקן הטוב ביותר בפורטלנד בתחילת העונה — הג'רוזלם פוסט כותב שהוא בדרך להיות אחד הטובים בהיסטוריית המועדון, ויאהו ספורטס מציינים שהוא עדיין השחקן המוביל של הקבוצה חרף הרכב מחודש לצד דיימיאן לילארד וג'ה מוראנט. פורטלנד שיחקה הערב מול לוס אנג'לס לייקרס (בתחילת המשחק בעדכון האחרון), אחרי שניצחה את פיניקס סאנס 124-83 ב-22 באוקטובר; אין נתוני משחק אישיים זמינים למשחק הזה."
+    },
+    {
+      "name": "Ben Saraf",
+      "team": "Brooklyn Nets",
+      "en": "Nothing new on the court: Ben Saraf has been sent down to the Nets' G League affiliate in Long Island after limited NBA playing time, part of a broader move assigning several of Brooklyn's young players to the G League. No further news or stats are available on him beyond the demotion itself.",
+      "he": "אין חדש על הפרקט: בן סארף הורד לליגת ה-G, לסניף של הנטס בלונג איילנד, בעקבות זמן משחק מצומצם ב-NBA — כחלק ממהלך רחב יותר שבו הנטס הורידו כמה משחקניהם הצעירים לליגת ה-G. אין מידע נוסף או נתונים עליו מעבר להורדה עצמה."
+    }
+  ],
+  "match_day": {
+    "is_match_day": false,
+    "events": []
+  }
+}

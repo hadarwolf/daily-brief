@@ -1,0 +1,96 @@
+{
+  "section": "business",
+  "date": "2026-10-28",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-28T04:05:18+00:00",
+  "stories": [
+    {
+      "id": "anthropic-ipo-buildout",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic's IPO Takes Shape: A $40 Trillion Pitch, $63 Billion in Debt, and a Seat for Retail Investors",
+        "scroll": "Anthropic has tapped JPMorgan to sell shares to ordinary investors in what could be a record IPO, just days after borrowing $63 billion for AI infrastructure — a sign of how capital-intensive the AI race has become before it even reaches the public market.",
+        "coffee": "Anthropic is preparing to go public, and the shape of that IPO is now coming into focus. People familiar with the matter say the company has picked JPMorgan Chase to lead the US retail offering — the slice of shares sold directly to individual investors rather than institutions — in what could be one of the largest IPOs ever. That would make Anthropic one of the few bright spots in an otherwise frozen market: after nearly $163 billion was raised in US IPOs by the end of September, October is on pace to be 2026's worst month for new listings, with barely half a billion dollars priced since the start of the month. Wall Street is already positioning for a bigger wave of IPOs in the second half of 2027.\n\nThe bull case rests partly on a headline number: Anthropic's own estimated market opportunity is being pegged at $40 trillion, tied to the economic value of the work knowledge workers currently do — a figure that tops even SpaceX's widely cited opportunity estimate from earlier this year. But that growth story is already leaning on debt. On Monday, Anthropic sealed a $63 billion financing deal for AI infrastructure — the largest ever raised for that purpose — reportedly requiring personal intervention from Broadcom's CEO to close.\n\nThe tension underneath it all: Anthropic has publicly called for slowing the pace of AI development even as it faces pressure from its own backers to move faster. How the stock trades once public won't just be about one company — it will be read as a referendum on the AI boom's economics more broadly.",
+        "deep": "## Background\n\nWhen a private company goes public, the IPO is usually split into tranches: a large allocation sold to institutional investors (pension funds, mutual funds, hedge funds) through the underwriting banks' usual channels, and a smaller \"retail\" tranche sold directly to individual investors, often through a specific bank's brokerage platform. Landing the mandate to run that retail tranche is a visible, sought-after role for a bank, both for the fee income and for the prestige of being associated with a marquee listing.\n\nCompanies preparing to go public also tend to publish a \"total addressable market\" (TAM) figure: an estimate of how large the market for their product could eventually become, regardless of how much of it they currently capture. These numbers are marketing as much as forecasting — they are built on assumptions that are rarely stress-tested publicly, and they tend to get bigger as the IPO date approaches.\n\n## The story\n\nAnthropic now has both pieces in motion. JPMorgan Chase has reportedly been picked to lead the US retail offering for what people familiar with the matter describe as a potentially record-setting IPO. Alongside it, a $40 trillion market-opportunity estimate is circulating — tied to the economic value of the work knowledge workers currently perform, and explicitly framed as larger than the market-opportunity figure SpaceX put forward earlier this year. The comparison to SpaceX is itself a signal: it puts Anthropic in the same rhetorical category as the most hyped private company of the decade.\n\nThat pitch is landing in a specific market backdrop. Through the end of September, US IPOs had raised nearly $163 billion this year. Since the start of October, that figure has grown by only a little more than half a billion dollars — on pace to make October 2026 the weakest month for new listings this year. Bankers are reportedly already looking past this lull toward a bigger wave of IPOs in the second half of 2027. Anthropic going public in the final two months of 2026 would make it one of the few companies to buck that freeze.\n\nThe IPO pitch also sits on top of fresh leverage. On Monday, Anthropic closed a $63 billion debt deal to fund AI infrastructure — described as the largest financing ever raised for that specific purpose — and one that reportedly needed Broadcom's own chief executive to step in personally to get done. Borrowing at that scale before a public listing is a bet that the infrastructure buildout pays for itself in revenue growth that arrives faster than the debt's cost.\n\n## Second-order effects\n\nThe combination of a sky-high market-opportunity number, large pre-IPO borrowing, and a hand-picked retail tranche is not unique to Anthropic — it is close to the current playbook across the AI infrastructure buildout, where chipmakers, cloud providers, and AI labs are increasingly financing each other's growth through debt and supply deals. When one company's revenue projections depend on continued AI capital spending, and that capital spending is itself increasingly debt-financed, a slowdown anywhere in the chain (weaker enterprise AI adoption, a credit-market wobble, a disappointing earnings season from a hyperscaler) can ripple through the others faster than in a more diversified industry.\n\nRetail investors are a particular focus here. Individual investors buying into a record IPO are, in effect, taking a position not just on Anthropic's products but on the durability of a $40 trillion estimate that no one can yet verify, and on a debt load that assumes aggressive future growth.\n\n## What to watch next\n\nThe real test will be how Anthropic's shares trade once the quiet period ends and ordinary trading begins, and whether other AI companies waiting on the sidelines treat a strong debut as the signal to finally list in 2027. Also worth tracking: whether Anthropic's own public call to slow AI development survives the pressure of being a newly public company answering to quarterly expectations."
+      },
+      "he": {
+        "headline": "ההנפקה של אנתרופיק מתגבשת: הערכת שוק של 40 טריליון דולר, חוב של 63 מיליארד דולר, ומקום למשקיעים פרטיים",
+        "scroll": "אנתרופיק בחרה בג'יי.פי מורגן למכור מניות למשקיעים פרטיים במה שעלולה להיות הנפקה שוברת שיאים, רק ימים אחרי שגייסה חוב של 63 מיליארד דולר לתשתיות בינה מלאכותית — עדות לכמה עתיר ההון מירוץ ה-AI, עוד לפני שהוא מגיע לשוק הציבורי.",
+        "coffee": "אנתרופיק מתכוננת להנפיק מניות לציבור, והצורה של ההנפקה הזו מתחילה להתבהר. גורמים המקורבים לעניין מוסרים שהחברה בחרה בג'יי.פי מורגן צ'ייס (JPMorgan Chase) להוביל את ההצעה למשקיעים פרטיים בארה\"ב (retail offering) — החלק במניות שנמכר ישירות למשקיעים בודדים ולא למשקיעים מוסדיים — במה שעשויה להיות אחת ההנפקות הגדולות בהיסטוריה. זה יהפוך את אנתרופיק לאחד מנקודות האור הבודדות בשוק שכרגע קפוא: עד סוף ספטמבר גויסו בהנפקות בארה\"ב כ-163 מיליארד דולר, ואילו אוקטובר 2026 בדרך להיות החודש הגרוע ביותר להנפקות השנה, עם גיוס של קצת יותר מחצי מיליארד דולר בלבד מתחילת החודש. בוול סטריט כבר מתכוננים לגל הנפקות גדול יותר במחצית השנייה של 2027.\n\nתזת הביקוש נשענת בין היתר על מספר כותרת מרשים: הערכת פוטנציאל השוק (market opportunity) של אנתרופיק עצמה עומדת על 40 טריליון דולר, מבוססת על הערך הכלכלי של העבודה שמבצעים כיום עובדי ידע — נתון שעוקף אפילו את הערכת הפוטנציאל המפורסמת של ספייסX (SpaceX) מתחילת השנה. אבל סיפור הצמיחה הזה נשען כבר על חוב: ביום שני השלימה אנתרופיק עסקת מימון של 63 מיליארד דולר לתשתיות AI — הגדולה בהיסטוריה למטרה הזו — עסקה שדרשה, לפי הדיווחים, התערבות אישית של מנכ\"ל ברודקום (Broadcom) כדי להיסגר.\n\nהמתח שמתחת לכל זה: אנתרופיק קוראת בפומבי להאטת קצב פיתוח הבינה המלאכותית, ובה בעת נתונה לדרישה מבעלי המניות שלה להאיץ קדימה. איך המניה תיסחר כשתהיה ציבורית לא יהיה רק סיפור של חברה אחת — זה יתפרש כמשאל עם על הכלכלה שמאחורי כל פריחת ה-AI.",
+        "deep": "## רקע\n\nכשחברה פרטית מנפיקה מניות לציבור, ההנפקה (IPO) מתחלקת בדרך כלל לשתי שכבות: הקצאה גדולה הנמכרת למשקיעים מוסדיים (קרנות פנסיה, קרנות נאמנות, גופי גידור) בערוצים הרגילים של הבנקים המחתמים, והקצאה קטנה יותר של משקיעים פרטיים (retail), הנמכרת ישירות לאנשים פרטיים, לרוב דרך פלטפורמת המסחר של בנק מסוים. לקבל את המנדט לניהול השכבה הזו הוא תפקיד נחשק ובולט לבנק — גם בגלל הכנסות העמלות וגם בגלל הפרסטיגה שבהזדהות עם הנפקה מצליחה.\n\nחברות שמתכוננות להנפקה נוהגות גם לפרסם הערכת \"פוטנציאל שוק כולל\" (total addressable market, או TAM) — אומדן לגודל שאליו עשוי להגיע השוק של המוצר שלהן, בלי קשר לנתח השוק שהן בפועל תופסות כיום. מספרים כאלה הם שיווק לא פחות משהם תחזית — הם נשענים על הנחות שכמעט ואינן נבדקות בציבור, ונוטים להתנפח ככל שמתקרב מועד ההנפקה.\n\n## הסיפור\n\nבאנתרופיק שתי החלקים האלה כבר בתנועה. לפי הדיווחים, ג'יי.פי מורגן צ'ייס נבחרה להוביל את ההצעה למשקיעים פרטיים בארה\"ב, במה שגורמים המקורבים לעניין מתארים כהנפקה שעשויה לשבור שיאים. במקביל מסתובבת הערכת פוטנציאל שוק של 40 טריליון דולר, המבוססת על הערך הכלכלי של העבודה שמבצעים כיום עובדי ידע, ומוצגת במפורש כגדולה מהערכת הפוטנציאל שהציגה ספייסX מוקדם יותר השנה. ההשוואה לספייסX היא עצמה מסר: היא ממקמת את אנתרופיק באותה קטגוריה רטורית של החברה הפרטית המדוברת ביותר של העשור.\n\nהתזה הזו נוחתת על רקע שוק ספציפי. עד סוף ספטמבר גויסו בהנפקות בארה\"ב כ-163 מיליארד דולר. מתחילת אוקטובר הנתון הזה גדל בפחות מחצי מיליארד דולר בלבד — במסלול להפוך את אוקטובר 2026 לחודש החלש ביותר להנפקות חדשות השנה. לפי הדיווחים, בבנקים כבר מביטים מעבר לקיפאון הנוכחי, לעבר גל הנפקות גדול יותר במחצית השנייה של 2027. הנפקה של אנתרופיק בחודשיים האחרונים של 2026 תהפוך אותה לאחת החברות הבודדות שפורצות את הקיפאון הזה.\n\nתזת ההנפקה נשענת גם על מינוף (leverage) טרי. ביום שני סגרה אנתרופיק עסקת חוב בסך 63 מיליארד דולר למימון תשתיות AI — המתוארת כעסקת המימון הגדולה בהיסטוריה למטרה הזו — עסקה שלפי הדיווחים דרשה התערבות אישית של מנכ\"ל ברודקום כדי להיסגר. גיוס חוב בסדר גודל כזה לפני הנפקה ציבורית הוא הימור שהבנייה של התשתיות תממן את עצמה בזכות צמיחת הכנסות שתגיע מהר יותר מעלות החוב.\n\n## אפקטים מסדר שני\n\nהשילוב של מספר פוטנציאל שוק מרקיע שחקים, גיוס חוב גדול לפני ההנפקה, והקצאת retail נבחרת בקפידה, אינו ייחודי לאנתרופיק — הוא קרוב מאוד לתסריט הנוכחי בכל תעשיית תשתיות ה-AI, שבה יצרני שבבים, ספקי מחשוב עננים (cloud) ומעבדות AI מממנים זה את זה יותר ויותר באמצעות חוב ועסקאות אספקה. כשתחזיות ההכנסות של חברה אחת תלויות בהמשך ההשקעה ההונית (capex) בתחום ה-AI, וההשקעה ההונית הזו עצמה ממומנת יותר ויותר בחוב, האטה בכל נקודה בשרשרת — אימוץ חלש יותר של AI בחברות, תקלה בשוק האשראי, או דוח רבעוני מאכזב של ספק מחשוב ענן — יכולה להתגלגל לשאר השחקנים מהר יותר מבתעשייה מגוונת יותר.\n\nמשקיעים פרטיים הם כאן נקודת תשומת לב מיוחדת. משקיע פרטי שרוכש מניות בהנפקה שוברת שיאים לוקח בפועל עמדה לא רק על המוצרים של אנתרופיק, אלא גם על חוזק ההערכה של 40 טריליון דולר שאף אחד לא יכול עדיין לאמת, ועל נטל חוב שמניח צמיחה עתידית אגרסיבית.\n\n## מה לעקוב אחריו\n\nהמבחן האמיתי יהיה איך תיסחר מניית אנתרופיק כשתקופת השקט תסתיים והמסחר הרגיל יתחיל, ואם חברות AI אחרות שמחכות בצד יראו בהנפקה מוצלחת אות להנפיק גם הן, סוף סוף, ב-2027. כדאי גם לעקוב אם הקריאה הפומבית של אנתרופיק להאטת קצב פיתוח ה-AI תשרוד את הלחץ של להיות חברה ציבורית טרייה שצריכה לעמוד בתחזיות רבעוניות."
+      },
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai",
+        "debt-financing"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
+          "url": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+          "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "יתרסק או יזנק? היכונו לרגע האמת של וול סטריט והמסחר בבינה מלאכותית",
+          "url": "https://www.themarker.com/wallstreet/2026-10-27/ty-article/.premium/000001a1-7d08-d0ea-a1fb-7f5dbd9e0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "\"תחושה של שיתוק\": אוקטובר בדרך להירשם כחודש הגרוע ביותר להנפקות בוול סטריט ב–2026",
+          "url": "https://www.themarker.com/wallstreet/2026-10-27/ty-article/.premium/000001a1-7300-ddc4-adbd-7f74f4e10000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4206.3501,
+      "prev_close": 4124.1299,
+      "change_pct": 1.99,
+      "as_of": "2026-10-26"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7722.6001,
+      "prev_close": 7676.77,
+      "change_pct": 0.6,
+      "as_of": "2026-10-27"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.0844,
+      "prev_close": 3.0833,
+      "change_pct": 0.04,
+      "as_of": "2026-10-28"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 110.76,
+      "prev_close": 115.81,
+      "change_pct": -4.36,
+      "as_of": "2026-10-27"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 81030.0312,
+      "prev_close": 80006.6562,
+      "change_pct": 1.28,
+      "as_of": "2026-10-28"
+    }
+  }
+}

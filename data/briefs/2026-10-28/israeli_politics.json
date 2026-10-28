@@ -1,0 +1,177 @@
+{
+  "section": "israeli_politics",
+  "date": "2026-10-28",
+  "title_en": "Israeli Politics",
+  "title_he": "פוליטיקה ישראלית",
+  "default_lang": "he",
+  "generated_at": "2026-10-28T04:05:18+00:00",
+  "stories": [
+    {
+      "id": "election-deadlock-balance-of-power",
+      "kind": "news",
+      "en": {
+        "headline": "Israel's 2026 Election: No Bloc Has a Clear Majority, and the Balance of Power Sits With Arab Parties and the President",
+        "scroll": "Exit polls showed neither political bloc reaching the 61 seats needed for a majority, the real vote count stayed close through the night, and without some of the Joint List's and Ra'am's seats, the change bloc has no practical path to forming a government.",
+        "coffee": "Election night produced no decisive result. Public broadcaster Kan reported that when 21.4% of votes had been counted, the Netanyahu bloc stood at 63 seats, but Ynet later reported that once 31% of votes had been counted, Likud led with 29 seats and Yisrael Beiteinu with 20, Eisenkot's party was leading in Tel Aviv, United Torah Judaism was leading in Jerusalem, and Likud won roughly half the vote in Kiryat Shmona. Turnout stood at 77.7% of eligible voters, the highest since 2001, according to the Central Elections Committee as cited by Ynet.\n\nEven looking only at the change bloc, Haaretz reports it is clear the bloc cannot form a government without the Arab-backed parties. Joint List chairman Yousef Jabareen said the results proved \"a future cannot be built here without our vote,\" and that the Joint List cannot be ignored \"in any political scenario.\" Ra'am chairman Mansour Abbas told Ynet, \"If we join a government, we can see substantive change, not just talk in the air,\" while Ra'am MK Iman Khatib-Yasin said, \"it hurt when they called us traitors.\"\n\nPer Haaretz, the decision now moves to President Isaac Herzog, whose authority over who gets first crack at forming a government is close to unlimited: he is not required to give the mandate to the head of the largest party, the head of the larger bloc, or whoever received the most recommendations from elected MKs.",
+        "deep": "## Background\n\nIsrael's 2026 election took place against the backdrop of three years of war, and Haaretz described it as among the most consequential in the country's history. Turnout of 77.7% of eligible voters, per the Central Elections Committee as cited by Ynet, was the highest since 2001 — a sign of unusual public engagement that nonetheless did not translate into a clear verdict between the two blocs.\n\n## The story\n\nThe real-time vote count shifted repeatedly and did not necessarily track the exit polls published the moment voting ended. Kan reported that at the point when 21.4% of ballots had been counted, the Netanyahu bloc stood at 63 seats. Later in the night, once 31% of ballots had been counted, Ynet reported Likud leading with 29 seats and Yisrael Beiteinu with 20, with Eisenkot's party ahead in Tel Aviv, United Torah Judaism ahead in Jerusalem, and Likud taking roughly half the vote in Kiryat Shmona — a town that has endured three years of war. That volatility between counting stages is the central reason no clear winner could be declared even the following morning.\n\nBeyond the raw numbers, Haaretz reports it is already clear that even if the change bloc (led by Benny Gantz's successor Gadi Eisenkot, alongside Naftali Bennett and Yair Lapid) ultimately leads in the final count, it cannot form a government without support from at least some of the Joint List's and Ra'am's seats. That elevates the Arab-backed parties from influential bystanders to genuine kingmakers. Joint List chairman Yousef Jabareen said the results proved \"a future cannot be built here without our vote,\" and that the Joint List cannot be ignored \"in any political scenario that may unfold.\" Ra'am chairman Mansour Abbas told Ynet that if his party joins a government, \"we can see substantive change, not just talk in the air.\" Ra'am MK Iman Khatib-Yasin added that being called \"traitors\" throughout the campaign had been painful.\n\nThe formal decision, per Haaretz, rests not with either bloc leader but with President Isaac Herzog. His legal discretion over who gets the first attempt at forming a government is close to unlimited: he is not obligated to hand the mandate to the head of the largest party, the head of the larger bloc, or the candidate who received the most recommendations from the newly elected Knesset members.\n\n## Second-order effects\n\nUntil the vote count is finalized, any declaration of victory from either side remains a projection rather than a settled fact. The reality that Arab-backed parties may be structurally necessary to any change-bloc majority puts its leaders in a clear bind: openly committing to cooperation with Ra'am or the Joint List risks electoral cost with part of the public, while declining to do so leaves the bloc without a majority at all. Herzog's wide discretion also means the coming weeks of political maneuvering will not be decided by seat counts alone, but also by his own judgment about whom to task first.\n\n## What to watch next\n\nWatch the completion of the vote count, including the \"double envelope\" ballots that parties like Yisrael Beiteinu are counting on to shift the picture, and how President Herzog manages his consultations and decides who receives the first mandate. Also watch whether change-bloc leaders clarify their position on cooperating with the Arab-backed parties, or continue to avoid a clear public commitment."
+      },
+      "he": {
+        "headline": "בחירות 2026: אף גוש לא במובטח ברוב, והמאזן נמצא בידי המפלגות הערביות ונשיא המדינה",
+        "scroll": "מדגמי הבחירות לא הראו רוב של 61 מנדטים לאף אחד מהגושים, ספירת הקולות בפועל נותרה צמודה, ובלי כמה ממנדטי הרשימה המשותפת ורע\"מ לגוש השינוי אין דרך מעשית להרכיב ממשלה.",
+        "coffee": "ליל הבחירות לא הניב הכרעה. לפי כאן 11, כשנספרו 21.4% מהקולות עמד גוש נתניהו על 63 מנדטים, אבל ynet מדווח שאחרי שנספרו 31% מהקולות הליכוד הוביל עם 29 מנדטים וישראל ביתנו עם 20, איזנקוט הוביל בתל אביב, יהדות התורה הובילה בירושלים, ובקריית שמונה הליכוד קיבל כמחצית מהקולות. שיעור ההצבעה עמד על 77.7% מבעלי זכות הבחירה, הגבוה ביותר מאז 2001, לפי ועדת הבחירות המרכזית שצוטטה ב-ynet.\n\nגם כשמסתכלים רק על גוש השינוי, לפי הארץ ברור שהוא לא יכול להרכיב ממשלה בלי המפלגות הערביות. יו\"ר הרשימה המשותפת יוסף ג'בארין אמר שהוכיחו ש\"אי אפשר לבנות כאן עתיד בלי הקול שלנו\", ושאי אפשר להתעלם מהרשימה המשותפת \"בכל התרחישים הפוליטיים שיהיו\". יו\"ר רע\"מ מנסור עבאס אמר ל-ynet: \"אם נצטרף לממשלה, נוכל לראות שינויים מהותיים ולא רק דיבורים באוויר\", וחברת הכנסת אימאן חטיב יאסין מרע\"מ אמרה: \"כאב כשקראו לנו בוגדים\".\n\nלפי הארץ, הכדור עובר כעת לנשיא המדינה יצחק הרצוג, וסמכותו להטיל את מלאכת הרכבת הממשלה כמעט אינה מוגבלת: הוא לא מחויב להטיל אותה על ראש הסיעה הגדולה, ראש הגוש, או מי שקיבל את מספר הממליצים הגבוה ביותר.",
+        "deep": "## רקע\n\nבחירות 2026 התקיימו על רקע שלוש שנות מלחמה, ולפי הארץ מדובר במערכת הבחירות שהוצגה כחשובה ביותר בתולדות המדינה. שיעור ההצבעה, 77.7% מבעלי זכות ההצבעה לפי ועדת הבחירות המרכזית שצוטטה ב-ynet, היה הגבוה ביותר מאז 2001 — נתון שמעיד על מעורבות ציבורית חריגה, אך לא הניב הכרעה חדה בין הגושים.\n\n## הסיפור\n\nספירת הקולות בפועל השתנתה מרגע לרגע ולא תאמה בהכרח למדגמים שפורסמו מיד עם סגירת הקלפיות. כאן 11 דיווח שבשלב של 21.4% מהקולות שנספרו, גוש נתניהו עמד על 63 מנדטים. אבל בהמשך הלילה, כשכבר נספרו 31% מהקולות, ynet דיווח שהליכוד מוביל עם 29 מנדטים וישראל ביתנו עם 20, שבתל אביב מוביל איזנקוט, שבירושלים מובילה יהדות התורה, ושבקריית שמונה — אחרי שלוש שנות מלחמה — קיבל הליכוד כמחצית מהקולות. התנודתיות הזו בין שלבי הספירה היא הסיבה המרכזית לכך שגם למחרת הבוקר אי אפשר להכריז על מנצח ברור.\n\nמעבר למספרים, לפי הארץ ברור שגם אם גוש השינוי (בראשות איזנקוט, עם בנט ולפיד) יוביל בספירה הסופית, הוא לא יוכל להרכיב ממשלה בלי תמיכה של לפחות חלק ממנדטי הרשימה המשותפת ורע\"מ. זה מעלה את מעמדן של המפלגות הערביות למעמד של מאזן כוח של ממש, ולא רק גורם משפיע מהצד. יו\"ר הרשימה המשותפת יוסף ג'בארין אמר שהתוצאות הוכיחו ש\"אי אפשר לבנות כאן עתיד בלי הקול שלנו\" וש\"בכל התרחישים הפוליטיים שיהיו\" אי אפשר להתעלם מהרשימה. יו\"ר רע\"מ מנסור עבאס אמר ל-ynet שאם המפלגה תצטרף לממשלה, \"נוכל לראות שינויים מהותיים ולא רק דיבורים באוויר\". חברת הכנסת אימאן חטיב יאסין (רע\"מ) הוסיפה שהכינוי \"בוגדים\" שהוטח בהן לאורך הקמפיין פגע.\n\nההכרעה הפורמלית, לפי הארץ, לא נמצאת בידי אף אחד מראשי הגושים אלא בידי נשיא המדינה יצחק הרצוג. סמכותו להטיל את מלאכת הרכבת הממשלה כמעט אינה מוגבלת בחוק: הוא לא מחויב להטיל אותה על ראש הסיעה הגדולה ביותר, על ראש הגוש הגדול יותר, או על מי שקיבל את מספר הממליצים הגבוה ביותר מבין חברי הכנסת הנבחרים.\n\n## אפקטים מסדר שני\n\nכל עוד אין הכרעה סופית בספירת הקולות, כל הכרזת ניצחון משני הצדדים היא בגדר תחזית ולא עובדה מוגמרת. העובדה שהמפלגות הערביות עשויות להיות חלק הכרחי מכל רוב אפשרי לגוש השינוי מציבה את ראשיו בפני דילמה פוליטית מובהקת: הצהרות על שיתוף פעולה עם רע\"מ או הרשימה המשותפת עלולות לעלות ביוקר אלקטורלי מול חלק מהציבור, אך בלעדיהן אין לגוש רוב. גם הסמכות הרחבה של הנשיא הרצוג משמעותה שהתהליך הפוליטי בשבועות הקרובים לא יוכרע רק במספרים, אלא גם בשאלה למי הרצוג יבחר להטיל את המנדט הראשון.\n\n## מה לעקוב אחריו\n\nיש לעקוב אחרי השלמת ספירת הקולות, כולל \"המעטפות הכפולות\" שחלק מהמפלגות (כמו ישראל ביתנו) מצפות שישנו את התמונה, ואחרי האופן שבו הרצוג יבחר לנהל את המגעים ולמי להטיל את המנדט. יש לעקוב גם אם ראשי גוש השינוי יבהירו בפומבי את עמדתם לגבי שיתוף פעולה עם המפלגות הערביות, או ימשיכו להימנע מהצהרה ברורה."
+      },
+      "tags": [
+        "israel-election",
+        "arab-parties",
+        "herzog",
+        "coalition"
+      ],
+      "sources": [
+        {
+          "outlet": "כאן חדשות (via Google News)",
+          "title": "21.4% מהקולות נספרו, גוש נתניהו עם 63 מנדטים - כאן 11",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yRnhtWmpPak1aRk5JOUpmXzEyTjVxVlZaRVliYnNLQzhRcEp0MlZzbzRFd01uQWJ6b2lyZ1d0aERuMHZGZHNCamxwQ2x5cHgxWU9HbWJaWUdCT1loR3ZReFNkUENrbUU?oc=5"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "1.7 מיליון קולות נספרו: תוצאות האמת ביישובים - והמפה המתעדכנת",
+          "url": "https://www.ynet.co.il/news/elections2026/article/bj5pk302zg"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "המסר של מנסור עבאס לגוש השינוי - לפני שהעדכונים הרחיקו את הסיכוי שישפיע",
+          "url": "https://www.ynet.co.il/news/elections2026/article/h1dr86r2fl"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "שיעור ההצבעה הגבוה זה 25 שנה - והיישובים שבהם 100% הצביעו",
+          "url": "https://www.ynet.co.il/news/elections2026/article/rkcoxqc2ml"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "יו\"ר הרשימה המשותפת: הוכחנו שאי אפשר לבנות כאן עתיד בלי הקול שלנו",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/000001a1-7f1a-d330-aba1-ff5e68d90000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "הכדור יעבור להרצוג, וסמכותו להעניק את המנדט כמעט אינה מוגבלת",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.premium/000001a1-7ec3-d1eb-a7f1-fee74a800000"
+        }
+      ]
+    },
+    {
+      "id": "rival-claims-netanyahu-vs-change-bloc",
+      "kind": "news",
+      "en": {
+        "headline": "Netanyahu Claims a 'Decisive Jewish Majority' and Rules Out the Arab Parties; Eisenkot and Bennett Say He Lost",
+        "scroll": "Netanyahu called for a 'strong national-right government' and called a government with the Arab parties 'a disgrace,' while Eisenkot and Bennett declared victory for the change bloc and warned Netanyahu against using Israel's security for political ends.",
+        "coffee": "In his speech at Binyanei Ha'uma after the exit polls, Prime Minister Benjamin Netanyahu did not call for unity, thanked his \"loyal partners,\" and said: \"We have a decisive majority in the Jewish public. We must form a strong national-right government, the Zionist majority must unite.\" He described a possible government with the Arab parties as \"a disgrace,\" sarcastically calling it a \"covenant of the servants.\"\n\nOn the other side, Yesh! party chairman Gadi Eisenkot, presented by his camp as the next prime minister, warned: \"Netanyahu, don't dare use Israel's security for your political purposes,\" said \"a worthy leader would announce his resignation today,\" and that going to another election would be a mistake. He addressed security officials directly: \"Stand firm. Netanyahu is a transition prime minister, you serve the state.\" Yachad party chairman Naftali Bennett declared in his speech that \"the camp of those who serve beat the camp of draft-dodgers,\" called for forming a \"Zionist government,\" and said the change-bloc leaders are \"coordinated\" and \"will do everything, without ego\" to form one. Yesh Atid chairman Yair Lapid described the result as \"a tough defeat for Netanyahu,\" noting the coalition \"might not be broad on day one\" but \"we'll expand it later.\"",
+        "deep": "## Background\n\nThe election took place against a backdrop of exit polls that initially suggested some advantage for the change bloc, followed by an actual vote count that proved far more volatile. Against that backdrop, the leaders of the two rival camps — Netanyahu on one side, and the change bloc led by Eisenkot, Bennett and Lapid on the other — delivered speeches presenting starkly different pictures of the same night.\n\n## The story\n\nPer Ynet, the key difference between the speeches was tone: the experienced Netanyahu avoided declaring a \"big victory\" and instead opened what the outlet calls a delegitimization campaign against cooperation with the Arab parties, aimed at blocking the change bloc. In his speech he said: \"We have a decisive majority in the Jewish public. We must form a strong national-right government, the Zionist majority must unite,\" and referred to a possible government with the Arab parties as \"a disgrace,\" sarcastically dubbing it a \"covenant of the servants.\"\n\nEisenkot, presented by his campaign as the incoming prime minister, delivered what Ynet described as an unusually sharp and categorical speech by comparison. He said \"it would be a mistake to go to another election,\" that \"a worthy leader would announce his resignation today,\" and warned: \"Netanyahu, don't dare use Israel's security for your political purposes.\" He addressed security chiefs directly: \"Stand firm. Netanyahu is a transition prime minister, you serve the state.\"\n\nNaftali Bennett, chairman of the Yachad party, declared in his speech that \"the camp of those who serve beat the camp of draft-dodgers,\" called for forming a \"Zionist government,\" and said the change-bloc's leaders are \"coordinated\" and will \"do everything, without ego\" to form one. Yair Lapid, chairman of Yesh Atid, described the outcome as \"a tough defeat for Netanyahu\" and said the central task is to \"form a Zionist government\" — it \"might not be a broad coalition\" on day one, \"but we'll expand it later.\"\n\n## Second-order effects\n\nNetanyahu's framing — a \"decisive majority in the Jewish public\" and a \"disgrace\" for any government with the Arab parties — pre-emptively casts any change-bloc reliance on Arab-party support as illegitimate in the eyes of part of the public, before political negotiations have even begun. At the same time, Eisenkot's call for security officials to \"stand firm\" and his description of Netanyahu as a mere \"transition prime minister\" — while the final election result is still undetermined — is itself a sharp political statement that risks deepening the dispute over who actually holds legitimate authority to lead the country during the transition period.\n\n## What to watch next\n\nWatch whether Netanyahu continues to frame any cooperation with the Arab parties as illegitimate to a degree that makes it politically costly for the change bloc to rely on them, and whether Eisenkot, Bennett and Lapid can actually translate their talk of \"no-ego\" coordination into real coalition agreements — a point several Ynet pieces flagged as a weakness that marked their campaign."
+      },
+      "he": {
+        "headline": "נתניהו טוען ל\"רוב ציוני מכריע\" ופוסל ממשלה עם הערבים; איזנקוט ובנט טוענים שהוא הפסיד",
+        "scroll": "נתניהו קרא להקים \"ממשלה לאומית-ימנית חזקה\" ותיאר ממשלה עם המפלגות הערביות כ\"בושה\", בעוד איזנקוט ובנט הכריזו על ניצחון לגוש השינוי והזהירו את נתניהו לא לנצל את ביטחון ישראל למטרות פוליטיות.",
+        "coffee": "בנאומו בבנייני האומה לאחר פרסום המדגמים, ראש הממשלה בנימין נתניהו לא קרא לאחדות, הודה ל\"שותפיו הנאמנים\", ואמר: \"יש לנו רוב מכריע בציבור היהודי. עלינו להקים ממשלה לאומית-ימנית חזקה, הרוב הציוני חייב להתלכד\". הוא תיאר שיתוף פעולה אפשרי עם המפלגות הערביות כ\"בושה\" ועקץ בסרקזם: \"זו ברית המשרתים?\".\n\nמנגד, יו\"ר מפלגת ישר! גדי איזנקוט, שהוצג על ידי מטהו כראש הממשלה הבא, הזהיר: \"נתניהו, אל תעז להשתמש בביטחון ישראל לצרכיך הפוליטיים\", אמר ש\"מנהיג ראוי היה מתפטר\" ושזו תהיה טעות לצאת לבחירות חוזרות, ופנה למערכת הביטחון: \"עמדו איתן, אתם משרתים את הממלכה\". יו\"ר מפלגת ביחד נפתלי בנט הכריז בנאומו ש\"ברית המשרתים ניצחה את ברית המשתמטים\" ואמר שראשי גוש השינוי \"מתואמים, נעשה הכול, בלי אגו\" להקים ממשלה ציונית. יו\"ר יש עתיד יאיר לפיד תיאר את התוצאה כ\"תבוסה קשה לנתניהו\", והעיר שהקואליציה אולי לא תהיה רחבה ביום הראשון אך \"נרחיב אותה בהמשך\".",
+        "deep": "## רקע\n\nהבחירות נערכו על רקע מצב של מדגמים שהצביעו תחילה על יתרון מסוים לגוש השינוי, ולאחר מכן על ספירת קולות בפועל שהייתה הפכפכה הרבה יותר. בתוך הקשר הזה, שני ראשי המחנות המתחרים — נתניהו מצד אחד, וגוש השינוי בראשות איזנקוט, בנט ולפיד מצד שני — נשאו נאומים שהציגו שתי תמונות עולם שונות בתכלית של אותו לילה.\n\n## הסיפור\n\nלפי ynet, ההבדל המרכזי בין הנאומים היה בטון: נתניהו המנוסה נמנע מלהכריז על \"ניצחון גדול\" ובמקום זאת פתח במה שהעיתון מכנה קמפיין דה-לגיטימציה נגד שיתוף פעולה עם המפלגות הערביות, במטרה לסכל את גוש השינוי. בנאומו אמר: \"יש לנו רוב מכריע בציבור היהודי. עלינו להקים ממשלה לאומית-ימנית חזקה, הרוב הציוני חייב להתלכד\", והתייחס לאפשרות של ממשלה עם המפלגות הערביות כ\"בושה\", וכינה אותה בסרקזם \"ברית המשרתים\".\n\nמנגד, איזנקוט, שמטהו הציג אותו כראש הממשלה הנבחר הבא, נשא לדברי ynet נאום \"חד ונחרץ מדי\" לעומת זה של נתניהו. הוא אמר: \"זו תהיה טעות לצאת לבחירות חוזרות\", ש\"מנהיג ראוי היה מודיע היום על פרישתו\", והזהיר: \"נתניהו, אל תעז להשתמש בביטחון ישראל לצרכיך הפוליטיים\". הוא פנה ישירות לראשי מערכת הביטחון: \"עמדו איתן. נתניהו ראש ממשלת מעבר, אתם משרתים את הממלכה\".\n\nנפתלי בנט, יו\"ר מפלגת ביחד, הצהיר בנאומו: \"ברית המשרתים ניצחה את ברית המשתמטים\", קרא להקים \"ממשלה ציונית\", ואמר שראשי גוש התיקון \"מתואמים\" ו\"נעשה הכול, בלי אגו\" כדי להרכיב אותה. יאיר לפיד, יו\"ר יש עתיד, תיאר את התוצאה כ\"תבוסה קשה לנתניהו\" והעיר שהמשימה המרכזית היא \"להקים ממשלה ציונית\" — \"אולי לא תהיה קואליציה רחבה\" ביום הראשון, \"אך נרחיב אותה בהמשך\".\n\n## אפקטים מסדר שני\n\nהניסוח של נתניהו — \"רוב מכריע בציבור היהודי\" ו\"בושה\" לממשלה עם הערבים — ממסגר מראש כל ניסיון של גוש השינוי להסתמך על תמיכת המפלגות הערביות כבלתי לגיטימי בעיני חלק מהציבור, לפני שאפילו החלו המגעים הפוליטיים. במקביל, הקריאה של איזנקוט למערכת הביטחון \"לעמוד איתן\" ולהתייחס לנתניהו כ\"ראש ממשלת מעבר\" — בזמן שתוצאות הבחירות הסופיות עדיין לא ברורות — היא עצמה הצהרה פוליטית חריפה שעלולה להעמיק את המחלוקת על מי בעצם מחזיק בלגיטימיות להוביל את המדינה בתקופת המעבר.\n\n## מה לעקוב אחריו\n\nיש לעקוב אם נתניהו ימשיך להציג כל שיתוף פעולה אפשרי עם המפלגות הערביות כבלתי לגיטימי ברמה שתקשה על גוש השינוי להרכיב ממשלה, ואם איזנקוט, בנט ולפיד יצליחו בפועל לתרגם את ההכרזות על תיאום ל\"בלי אגו\" להסכמות קואליציוניות של ממש — נקודה שעליה הצביעו כמה כתבות ynet כחולשה שאפיינה את הקמפיין שלהם."
+      },
+      "tags": [
+        "netanyahu",
+        "eisenkot",
+        "bennett",
+        "coalition"
+      ],
+      "sources": [
+        {
+          "outlet": "ynet — חדשות",
+          "title": "טעות של טירון: איזנקוט חגג מוקדם מדי - ונתניהו מיהר לסמן לו את ה\"גבולות\"",
+          "url": "https://www.ynet.co.il/news/elections2026/article/h1mlv0r3zl"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "נתניהו חוגג את ההובלה: \"הרוב הציוני חייב להתלכד. ממשלה עם הערבים? זו בושה\"",
+          "url": "https://www.ynet.co.il/news/elections2026/article/bjwj83r2zg"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "איזנקוט הוצג כרה\"מ הבא, והזהיר: \"נתניהו, אל תעז להשתמש בביטחון ישראל לצרכיך\"",
+          "url": "https://www.ynet.co.il/news/elections2026/article/h1xfujrngl"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "בנט: \"נתניהו הפסיד, ממשלת 7/10 תלך הביתה. אנחנו בגוש מתואמים\"",
+          "url": "https://www.ynet.co.il/news/elections2026/article/skmmqicngx"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "נתניהו: עלינו להקים ממשלה לאומית־ימנית חזקה, הרוב הציוני חייב להתלכד",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f8b-de48-aba1-ffdba6e10000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "בנט: ראשי גוש התיקון מתואמים, נעשה הכל כדי להקים ממשלת משרתים ציונית",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f66-d343-adef-7f7ff0790000"
+        }
+      ]
+    },
+    {
+      "id": "threshold-casualties-and-bloc-strains",
+      "kind": "news",
+      "en": {
+        "headline": "Below the Threshold: Three Right-Wing and Haredi Lists Fall Short, as Liberman Calls for a 'Revolt' Inside Likud",
+        "scroll": "Exit polls put the Hendel-Zilicha list, Ofer Winter's Amcha Israel and Leitner's Haredi Public below the electoral threshold, while Avigdor Liberman called on Likud members to 'revolt' and bring down Netanyahu.",
+        "coffee": "Exit polls placed three lists below the electoral threshold: the Miluimnikim (Reservists) list led by Yoaz Hendel and Yariv Zilicha, Ofer Winter's Amcha Israel, and Leitner's Haredi Public. Amcha Israel blamed an \"irresponsible campaign\" by Likud and Religious Zionism for its defeat, though Winter himself said \"the movement is here to stay.\" Hendel said he expects the \"double envelope\" ballots to still change the picture.\n\nStrain was also visible inside Netanyahu's own bloc. Religious Zionism chairman Bezalel Smotrich declared \"we will not let them celebrate\" and promised \"Jewish settlements will rise in Gaza,\" while at Otzma Yehudit — which had hoped for around ten seats but got just six in the exit polls — party chairman Itamar Ben Gvir's aide first declared \"the people of Israel are stupid\" before walking it back. Ben Gvir himself warned against a unity government with Eisenkot, calling it \"a paralysis government.\" Shas, polling 6 to 8 seats, had chairman Aryeh Deri skip a speech entirely, saying the party would wait for \"the real results.\" Separately, Yisrael Beiteinu chairman Avigdor Liberman called on Likud members to \"revolt\" and bring down Netanyahu, describing his conduct as that of \"the head of a crime organization.\"",
+        "deep": "## Background\n\nBeyond the headline contest between the two main blocs, the exit polls also told a story about the edges of the political map: smaller lists fighting to clear the electoral threshold, and strains among former coalition partners exposed the moment the projections came out.\n\n## The story\n\nPer the exit polls, three lists fell below the electoral threshold: the Miluimnikim (Reservists) list led by Yoaz Hendel and Yariv Zilicha, Ofer Winter's Amcha Israel party, and Leitner's \"Haredi Public\" list. Amcha Israel blamed an \"irresponsible campaign\" by Likud and Religious Zionism for its defeat, though Winter himself insisted \"the movement is here to stay\" rather than folding. Hendel, for his part, said the two blocs were \"stuck,\" called that \"bad,\" and said he was hoping the \"double envelope\" ballots — votes cast by soldiers and citizens voting remotely — would still change the picture for his list.\n\nFault lines also opened within Netanyahu's own bloc. Religious Zionism chairman Bezalel Smotrich arrived at a hall his party had rented for a celebration that initially sat empty, and upon his arrival the dancing began as he declared: \"I see the Arabs celebrating tonight, so I'm announcing to you and to them — we will not let them celebrate,\" promising that \"Jewish settlements will rise in Gaza.\" At Otzma Yehudit, which had hoped for roughly ten seats but secured just six in the television exit polls, an aide to party chairman Itamar Ben Gvir first declared \"the people of Israel are stupid\" before walking it back: \"I'm sure we'll win in the end.\" Ben Gvir himself directly warned against forming a unity government with Eisenkot, calling that scenario \"a paralysis government\" he had warned about all along.\n\nIn the Haredi world, Shas — polling between 6 and 8 seats in the exit polls — chose silence, per Ynet: chairman Aryeh Deri skipped a speech and said the party would wait for \"the real results.\" United Torah Judaism, by contrast, tried per Haaretz to present an achievement despite the expected results, stressing that it was significant given the crisis the party had gone through — the ouster of its previous leaders, described by Haaretz as Moshe Gafni and Meklev, and the formation of new, competing Haredi parties.\n\nBeyond the divide between the two main blocs, a call for change was heard inside Likud itself: Yisrael Beiteinu chairman Avigdor Liberman called on Likud members to \"revolt\" and bring down Netanyahu in order to form a \"Zionist coalition,\" describing Netanyahu's conduct as that of \"the head of a crime organization.\" Liberman said he expects the double-envelope ballots to present a picture \"more optimistic\" than the current exit polls.\n\n## Second-order effects\n\nThe fact that several small right-wing and Haredi lists are hovering right at the electoral threshold means a handful of votes in the final count, or a shift in the double-envelope ballots, could determine whether an entire party enters the Knesset or disappears from it — a swing that could change the total seat math for either bloc. At the same time, the public warnings from Smotrich and Ben Gvir against any compromise with the other side, alongside Liberman's call for an internal revolt within Likud, show that the tension is not only between the blocs but inside them — which could complicate any attempt to form a stable government, whichever bloc ends up leading it.\n\n## What to watch next\n\nWatch the effect of the double-envelope ballots on the lists currently sitting below the electoral threshold, and watch whether Liberman's call for a \"revolt\" inside Likud finds any actual traction among the party's own Knesset members."
+      },
+      "he": {
+        "headline": "מתחת לאחוז החסימה: שתי רשימות ימין וחרדית אחת נשארות בחוץ, וליברמן קורא ל\"מרד\" בליכוד",
+        "scroll": "לפי המדגמים, רשימות הנדל-זליכה, עמך ישראל של וינטר והציבור החרדי של לייטנר לא עברו את אחוז החסימה, בעוד אביגדור ליברמן קרא לחברי הליכוד \"למרוד\" ולהפיל את נתניהו.",
+        "coffee": "המדגמים הציבו שלוש רשימות מתחת לאחוז החסימה: המילואימניקים בראשות יועז הנדל ויריב זליכה, עמך ישראל בראשות עופר וינטר, והציבור החרדי בראשות לייטנר. בעמך ישראל טענו ל\"קמפיין חסר אחריות\" של הליכוד והציונות הדתית שהוביל למפלה, אך וינטר עצמו אמר: \"התנועה כאן כדי להישאר\". הנדל אמר שהוא מצפה שה\"מעטפות הכפולות\" עוד ישנו את התמונה.\n\nבתוך גוש נתניהו עצמו ניכרו סימני מתח: סמוטריץ', יו\"ר הציונות הדתית, הכריז \"לא ניתן להם לחגוג\" והבטיח ש\"יקומו יישובים יהודיים בעזה\", בעוד שבעוצמה יהודית, לאחר שציפו לעשרה מנדטים וקיבלו שישה בלבד לפי המדגמים, עוזרו של בן גביר אמר \"עם ישראל מטומטם\" ומיהר לסייג את דבריו. בן גביר עצמו הזהיר מפני ממשלת אחדות עם איזנקוט: \"זו ממשלת שיתוק\". במפלגת ש\"ס, שקיבלה במדגמים 6 עד 8 מנדטים, בחר יו\"ר המפלגה אריה דרעי לא לנאום ולהמתין ל\"תוצאות האמת\". לצד זה, יו\"ר ישראל ביתנו אביגדור ליברמן קרא לחברי הליכוד \"למרוד\" ולהפיל את נתניהו, ותיאר את התנהלותו כ\"ראש ארגון פשע\".",
+        "deep": "## רקע\n\nמעבר לתמונה הגדולה של התחרות בין שני הגושים המרכזיים, מדגמי הבחירות סיפרו גם סיפור על קצוות המפה הפוליטית: רשימות קטנות יותר שנאבקו לעבור את אחוז החסימה, ומתחים בין שותפי קואליציה לשעבר שנחשפו עם פרסום התחזיות.\n\n## הסיפור\n\nלפי המדגמים, שלוש רשימות נשארו מתחת לאחוז החסימה: המילואימניקים בראשות יועז הנדל ויריב זליכה, מפלגת עמך ישראל בראשות עופר וינטר, וה\"ציבור החרדי\" בראשות לייטנר. בעמך ישראל טענו שקמפיין \"חסר אחריות\" של הליכוד והציונות הדתית הוא שגרם למפלה, אך וינטר עצמו אמר שה\"תנועה כאן כדי להישאר\" ולא נסוג מהמשך הדרך. הנדל, מצדו, אמר שהגושים \"תקועים\" ושזה \"רע\", והביע תקווה שה\"מעטפות הכפולות\" — קולות חיילים ואזרחים שהצביעו מרחוק — עוד ישנו את התמונה עבור רשימתו.\n\nבתוך גוש נתניהו עצמו ניכרו קווי שבר. בצד הציונות הדתית, יו\"ר המפלגה בצלאל סמוטריץ' הגיע לאולם שנשכר לחגיגה שנותר בתחילה שומם, ועם הגעתו החלו הריקודים כשהצהיר: \"אני רואה שהערבים חוגגים הערב אז אני מודיע לכם ולהם — אנחנו לא ניתן להם לחגוג\", והבטיח ש\"יקומו יישובים יהודיים בעזה\". בעוצמה יהודית, שציפתה לכ-10 מנדטים וקיבלה 6 בלבד לפי מדגמי הטלוויזיה, עוזרו של יו\"ר המפלגה איתמר בן גביר הכריז בתחילה \"עם ישראל מטומטם\" ומיהר לסייג: \"אני בטוח שבסוף ננצח\". בן גביר עצמו הזהיר באופן ישיר מפני הקמת ממשלת אחדות עם איזנקוט, וקרא לכך \"ממשלת שיתוק\" — התרחיש שלדבריו הזהיר מפניו מראש.\n\nבעולם החרדי, ש\"ס שקיבלה במדגמים בין 6 ל-8 מנדטים בחרה, לפי ynet, בשתיקה: יו\"ר המפלגה אריה דרעי לא נשא נאום, והודיע שהמפלגה תמתין ל\"תוצאות האמת\". ביהדות התורה, לעומת זאת, לפי הארץ ניסו להציג הישג למרות התוצאות הצפויות, בהדגישם שההישג משמעותי על רקע משבר שעברה המפלגה — הדחת מנהיגיה הקודמים משה גפני ויעקב מקלב (כך לפי הארץ) והקמת מפלגות חרדיות חדשות מתחרות.\n\nמעבר לקו שבין הגושים, גם בתוך הליכוד עצמו נשמעה קריאה לשינוי: יו\"ר ישראל ביתנו אביגדור ליברמן קרא לחברי הליכוד \"למרוד\" ולהפיל את נתניהו כדי להקים \"קואליציה ציונית\", ותיאר את התנהלות נתניהו כפעולה של \"ראש ארגון פשע\". ליברמן הבהיר שהוא מצפה שה\"מעטפות הכפולות\" יציגו תמונה \"יותר אופטימית\" מהמדגמים הנוכחיים.\n\n## אפקטים מסדר שני\n\nהישרדותן על הגבול של כמה רשימות ימין וחרדיות קטנות משמעותה שגם מספר קולות בודד בספירה הסופית, או שינוי במעטפות הכפולות, עלול לקבוע אם מפלגה שלמה נכנסת לכנסת או נעלמת ממנה — והכרעה כזו יכולה לשנות את חשבון המנדטים הכולל של כל גוש. במקביל, הקריאות הפומביות של סמוטריץ' ובן גביר נגד פשרה עם הצד השני, לצד הקריאה של ליברמן למרד פנימי בתוך הליכוד, מראות שהמתחים לא רק בין הגושים אלא גם בתוכם — מה שעלול להקשות על כל ניסיון להרכיב ממשלה יציבה, איזה גוש שיוביל אותה.\n\n## מה לעקוב אחריו\n\nיש לעקוב אחרי השלכת המעטפות הכפולות וההשפעה שלהן על הרשימות שנמצאות כרגע מתחת לאחוז החסימה, ואחרי השאלה אם קריאת ליברמן ל\"מרד\" בליכוד תמצא הד בפועל בקרב חברי הכנסת של המפלגה."
+      },
+      "tags": [
+        "smotrich",
+        "ben-gvir",
+        "shas",
+        "likud"
+      ],
+      "sources": [
+        {
+          "outlet": "ynet — חדשות",
+          "title": "אצל וינטר מאשימים את נתניהו וסמוטריץ'. הנדל מחכה לחיילים | המפלגות שלא עברו",
+          "url": "https://www.ynet.co.il/news/elections2026/article/h1pnwf03gg"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "בן גביר זכה רק ב-6 מנדטים לפי המדגמים: \"אחדות עם איזנקוט? אל תעשו את הטעות\"",
+          "url": "https://www.ynet.co.il/news/elections2026/article/hkvst9chge"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "ליברמן קרא למרד בתוך הליכוד, ולא התחייב שלא להישען על קולות ערבים",
+          "url": "https://www.ynet.co.il/news/elections2026/article/byrovcrhzx"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "בציונות הדתית היו שהתאכזבו מתוצאות המדגמים; אחרים שמחו שנכנסו לכנסת",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/.premium/000001a1-7fa6-d01e-a9ad-7fef0c6c0000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "בש\"ס קוראים להמתין לתוצאות הסופיות, ביהדות התורה טוענים להישג",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/.premium/000001a1-7f43-d031-a3e1-ff6771de0000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "בעוצמה יהודית ציפו לעשרה מנדטים, אך במדגמים גילו שנתניהו שתה אותם",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/.premium/000001a1-7f55-d031-a3e1-ff75e0960000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "הנדל: הגושים תקועים, זה רע. נחכה למעטפות הכפולות",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f6e-d343-adef-7f7f5ff30000"
+        }
+      ]
+    }
+  ]
+}

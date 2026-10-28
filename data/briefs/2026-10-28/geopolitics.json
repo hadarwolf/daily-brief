@@ -1,0 +1,103 @@
+{
+  "section": "geopolitics",
+  "date": "2026-10-28",
+  "title_en": "Geopolitics",
+  "title_he": "גיאופוליטיקה",
+  "default_lang": "en",
+  "generated_at": "2026-10-28T04:05:18+00:00",
+  "stories": [
+    {
+      "id": "kherson-ceasefire-nordic-diplomacy",
+      "kind": "analysis",
+      "en": {
+        "headline": "Kherson Ceasefire Holds as Nordic Leaders Make a Rare Direct Call to Putin",
+        "scroll": "A ceasefire across Ukraine's Kherson region is holding with no reported breaches, as Norway and Finland's leaders made a rare direct call to Putin pushing to end the war — even as analysts argue his strategy is still working.",
+        "coffee": "A ceasefire across Ukraine's Kherson region has been extended, with Russia and Ukraine both reporting no breaches. It began as a truce to help stranded residents of Oleshky, a Russian-occupied city that has had no electricity, gas or water for three years, forcing residents to resort to eating weeds to survive. The arrangement was brokered with help from Melania Trump.\n\nOn the diplomatic track, Norway's and Finland's leaders held a rare direct call with Vladimir Putin. Finland's President Alexander Stubb argued that an end to the conflict \"will not be achieved through silence\" — a notable departure from the mostly indirect contact European leaders have maintained with Moscow through most of the war.\n\nBut two sobering analyses from Foreign Affairs temper the diplomatic movement. One argues that Donald Trump's approach could end up salvaging the Kremlin's core objectives in Ukraine rather than reversing them. Another describes Russia and Ukraine as locked in an \"energy war\" that has become a grinding adaptation spiral, with both sides absorbing rising costs and no resolution in sight despite US pressure.",
+        "deep": "## Background\n\nOleshky, a city in Ukraine's Kherson region, has been under Russian occupation for roughly three years. During that time it has had no functioning electricity, gas or water supply, and residents have reported having to eat weeds to survive — a measure of how total the collapse of basic services has been in parts of the occupied territory. Kherson region as a whole has been one of the most fought-over and divided parts of the war, split between Ukrainian- and Russian-controlled areas since 2022.\n\n## The story\n\nA ceasefire originally arranged to let aid reach Oleshky's stranded residents has now been extended across the wider Kherson region, with both Russia and Ukraine reporting no breaches so far. The arrangement was brokered with the involvement of Melania Trump — an unusual, high-profile role for a US first lady in wartime diplomacy.\n\nAlongside the ceasefire, Europe's diplomatic track with Moscow took an unusual turn: the leaders of Norway and Finland held a rare direct call with Vladimir Putin. Most European contact with the Kremlin during the war has gone through lower-level or indirect channels, so a call at the head-of-state level is itself notable. Finland's President Alexander Stubb, after the call, said that an end to the conflict \"will not be achieved through silence\" — a comment that reads as both an explanation for why he picked up the phone and a gentle rebuke of the diplomatic caution other European leaders have shown.\n\n## Second-order effects\n\nTwo Foreign Affairs analyses published this week complicate the otherwise hopeful read of these developments. One argues that Donald Trump's approach to the war could end up handing Russia's President Vladimir Putin the outcome he wanted all along, even without a formal Russian military victory — the argument being that a negotiated settlement shaped substantially on US terms, under pressure from Washington to wrap up the conflict, could still leave the Kremlin's strategic objectives largely intact.\n\nA second analysis, by Tatiana Mitrova (a fellow at Columbia University's Center on Global Energy Policy and a former energy scholar at Moscow's Russian Academy of Sciences) and Sergey Vakulenko (an oil and gas expert at the Carnegie Russia Eurasia Center), looks at the energy dimension of the war specifically. They argue Russia and Ukraine are locked in what amounts to an energy war: each side striking the other's power and fuel infrastructure, and each side adapting around the damage, in a cycle that keeps escalating in cost without producing a decisive outcome for either side — despite the growing human and economic toll, and despite current US pressure on both parties.\n\nTaken together, the ceasefire and the Nordic outreach to Putin represent genuine, if narrow, diplomatic progress — proof that direct contact and localized truces are possible even deep into the war. But the Foreign Affairs analyses are a reminder that local de-escalation (one region's ceasefire, one phone call) does not necessarily translate into a shift in the war's underlying strategic balance, which both pieces suggest may still be tilting in Russia's favor.\n\n## What to watch next\n\nWhether the Kherson ceasefire holds without breaches over a longer stretch, and whether it becomes a template other regions can copy, will be the first test. On the diplomatic side, watch whether the Norway-Finland call to Putin is followed by other European leaders doing the same, or whether it remains an isolated outreach. And on the strategic question raised by Foreign Affairs, watch how far the Trump administration pushes for a negotiated settlement in the coming weeks, and on whose terms — since that is where the argument about who is actually \"winning\" the diplomacy will be decided."
+      },
+      "he": {
+        "headline": "הפסקת האש בחרסון מחזיקה, מנהיגי נורבגיה ופינלנד משוחחים ישירות עם פוטין — צעד נדיר",
+        "scroll": "הפסקת האש באזור חרסון באוקראינה מחזיקה בלי הפרות מדווחות, בעת שמנהיגי נורבגיה ופינלנד שוחחו ישירות עם פוטין בניסיון לקדם סיום המלחמה — אך פרשנים טוענים שהאסטרטגיה שלו עדיין עובדת.",
+        "coffee": "הפסקת האש באזור חרסון שבאוקראינה הוארכה, ורוסיה ואוקראינה מדווחות שלא היו הפרות. ההסכם התחיל כהפסקת אש מקומית שנועדה לעזור לתושבים הכלואים בעיר אולשקי (Oleshky) שבשליטה רוסית — עיר שכבר שלוש שנים בלי חשמל, גז או מים, עד שתושביה נאלצו לאכול עשבים כדי לשרוד. ההסדר גובש בעזרתה של מלניה טראמפ.\n\nבמסלול הדיפלומטי, מנהיגי נורבגיה ופינלנד קיימו שיחה ישירה נדירה עם ולדימיר פוטין. נשיא פינלנד אלכסנדר סטאב אמר שסיום הסכסוך \"לא יושג בשקט\" — סטייה בולטת מהמגע העקיף שהנהיגו בעיקר מנהיגי אירופה עם מוסקבה במהלך רוב שנות המלחמה.\n\nאבל שני ניתוחים מאופקים של כתב העת פורין אפיירס (Foreign Affairs) מרסנים את ההתלהבות מההתקדמות הדיפלומטית. הניתוח האחד טוען שהגישה של דונלד טראמפ עשויה בסופו של דבר להציל בשביל הקרמלין את המטרות שהציב לעצמו באוקראינה. ניתוח נוסף מתאר את רוסיה ואוקראינה כלכודות ב\"מלחמת אנרגיה\" שהפכה למעגל הסתגלות שוחק, שבו שני הצדדים סופגים עלויות גדלות בלי פתרון באופק, חרף הלחץ האמריקאי.",
+        "deep": "## רקע\n\nאולשקי, עיר באזור חרסון שבאוקראינה, נמצאת בשליטה רוסית כשלוש שנים. בתקופה הזו לא היו בה חשמל, גז או מים זורמים כסדרם, ותושבים דיווחו שנאלצו לאכול עשבים כדי לשרוד — מדד לקריסה הכוללת של השירותים הבסיסיים בחלקים מהשטח הכבוש. אזור חרסון בכללותו הוא אחד האזורים השסועים ביותר במלחמה, מחולק בין שטח בשליטה אוקראינית לשטח בשליטה רוסית מאז 2022.\n\n## הסיפור\n\nהפסקת אש שגובשה במקור כדי לאפשר סיוע לתושבים הכלואים באולשקי הורחבה כעת לכל אזור חרסון, ורוסיה ואוקראינה מדווחות שלא היו הפרות עד כה. ההסדר גובש בסיוע מלניה טראמפ — תפקיד בלתי שגרתי ובעל נראות גבוהה לרעיית נשיא ארה\"ב בדיפלומטיה של זמן מלחמה.\n\nבמקביל להפסקת האש, המסלול הדיפלומטי האירופי עם מוסקבה קיבל תפנית בלתי שגרתית: מנהיגי נורבגיה ופינלנד קיימו שיחה ישירה נדירה עם ולדימיר פוטין. רוב המגע האירופי עם הקרמלין במהלך המלחמה התנהל בערוצים עקיפים או בדרגים נמוכים יותר, כך ששיחה בדרג ראשי מדינה היא כבר לכשעצמה אירוע בולט. נשיא פינלנד אלכסנדר סטאב אמר לאחר השיחה שסיום הסכסוך \"לא יושג בשקט\" — אמירה שאפשר לקרוא גם כהסבר לכך שהרים את הטלפון, וגם כביקורת עדינה על הזהירות הדיפלומטית שגילו מנהיגים אירופים אחרים.\n\n## אפקטים מסדר שני\n\nשני ניתוחים שפורסמו השבוע בכתב העת פורין אפיירס מורידים מעט מהאופטימיות שעולה מההתפתחויות הללו. הניתוח האחד טוען שהגישה של דונלד טראמפ למלחמה עשויה בסופו של דבר להעניק לנשיא רוסיה ולדימיר פוטין את התוצאה שרצה מההתחלה, גם בלי ניצחון צבאי רוסי פורמלי — הטיעון הוא שהסדר מדיני שמעוצב במידה רבה לפי תנאים אמריקאיים, תחת לחץ מוושינגטון לסגור את הסכסוך, עדיין יכול להשאיר את המטרות האסטרטגיות של הקרמלין כמעט שלמות.\n\nניתוח שני, מאת טטיאנה מיטרובה (עמיתת מחקר במרכז למדיניות אנרגיה גלובלית באוניברסיטת קולומביה, ולשעבר חוקרת אנרגיה באקדמיה הרוסית למדעים במוסקבה) וסרגיי ואקולנקו (מומחה נפט וגז במרכז קרנגי רוסיה-איראסיה), בוחן את הממד האנרגטי של המלחמה באופן ספציפי. לטענתם, רוסיה ואוקראינה לכודות במעין מלחמת אנרגיה: כל צד תוקף את תשתיות החשמל והדלק של הצד השני, וכל צד מסתגל מחדש לנזק, במעגל שממשיך להסלים בעלות בלי לייצר תוצאה מכרעת לטובת אחד הצדדים — חרף הנזק האנושי והכלכלי הגדל, וחרף הלחץ האמריקאי הנוכחי על שני הצדדים.\n\nיחד, הפסקת האש וההתקרבות הנורדית לפוטין מהוות התקדמות דיפלומטית אמיתית, אך צרה — הוכחה שמגע ישיר והפסקות אש מקומיות אפשריים אפילו בשלב מתקדם כך של המלחמה. אבל הניתוחים בפורין אפיירס מזכירים שדה-אסקלציה מקומית (הפסקת אש באזור אחד, שיחת טלפון אחת) לא בהכרח מתורגמת לשינוי במאזן האסטרטגי הבסיסי של המלחמה, שלפי שני המאמרים עדיין עשוי לנטות לטובת רוסיה.\n\n## מה לעקוב אחריו\n\nהמבחן הראשון הוא אם הפסקת האש בחרסון תחזיק לאורך זמן בלי הפרות, ואם היא תהפוך לתבנית שאזורים אחרים יוכלו לאמץ. בצד הדיפלומטי, יש לעקוב אם השיחה של נורבגיה ופינלנד עם פוטין תימשך במנהיגים אירופים נוספים, או שתישאר מקרה חד-פעמי. ובאשר לשאלה האסטרטגית שמעלה פורין אפיירס, יש לעקוב עד כמה ממשל טראמפ ילחץ להסדר מדיני בשבועות הקרובים, ועל בסיס התנאים של מי — כי זה המקום שבו תוכרע השאלה מי בעצם \"מנצח\" בדיפלומטיה."
+      },
+      "tags": [
+        "ukraine",
+        "russia",
+        "ceasefire",
+        "energy"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+          "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Norway and Finland leaders hold rare call with Putin",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "Putin’s Strategy Is Working",
+          "url": "https://www.foreignaffairs.com/russia/putins-strategy-working-michael-mcfaul"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "The New Energy Stalemate in Ukraine",
+          "url": "https://www.foreignaffairs.com/ukraine/new-energy-stalemate-ukraine"
+        }
+      ]
+    },
+    {
+      "id": "jordan-syria-is-strike-security-committee",
+      "kind": "analysis",
+      "en": {
+        "headline": "Jordan Strikes Islamic State Targets in Syria, Killing Five, Then Agrees With Damascus to Set Up a Joint Security Committee",
+        "scroll": "Jordan carried out a deadly strike on Islamic State targets in a Syrian village in retaliation for a church attack, killing five people including women and children, and the two countries are now forming a joint security committee.",
+        "coffee": "Jordan struck Islamic State-linked targets in a village in Syria in retaliation for an attack on a church, with Syrian health officials saying the strike killed five people, including women and children. Islamic State lost the territorial \"caliphate\" it once held across Syria and Iraq years ago, but Reuters notes the group still operates as a clandestine insurgent network in parts of Syria, periodically carrying out attacks like the one on the church that triggered Jordan's response.\n\nIn the strike's aftermath, Jordan and Syria agreed to form a joint security committee. That is the more significant long-term development: rather than Jordan acting alone across the border again, the two governments are moving toward coordinated counter-terrorism cooperation — a sign of how Amman and Damascus are now managing a shared security threat together rather than separately.",
+        "deep": "## Background\n\nIslamic State lost the territorial \"caliphate\" it once controlled across large parts of Syria and Iraq years ago, but the group did not disappear. It has continued to operate as a decentralized, clandestine insurgent network, particularly in Syria's more remote and contested areas, carrying out periodic attacks rather than holding territory outright. Jordan, which borders Syria directly, has long treated this residual Islamic State presence as a direct security threat along its northern frontier.\n\n## The story\n\nThe immediate trigger for this week's events was an attack on a church, which Jordan attributed to Islamic State-linked militants operating from a village inside Syria. Jordan responded with a strike on the village. Syrian health officials said the strike killed five people, including women and children — a toll that underscores how strikes aimed at a decentralized insurgent network can carry a heavy civilian cost when militants are embedded in populated areas rather than isolated bases.\n\nIn the aftermath, rather than letting the episode remain a one-off cross-border strike, Jordan and Syria agreed to establish a joint security committee. The move suggests both governments see a shared interest in formalizing cooperation against Islamic State's residual presence, rather than leaving Jordan to act unilaterally whenever it judges a threat has emerged on Syrian soil.\n\n## Second-order effects\n\nA formal joint security mechanism between Jordan and Syria, if it holds, would mark a shift from reactive, unilateral strikes toward structured cooperation — the kind of arrangement that typically aims to share intelligence and coordinate operations rather than relying on one side to strike first and explain afterward. For Jordan, it reduces the risk of diplomatic friction with Damascus over future strikes. For Syria, it signals an attempt to show it can help police its own territory against Islamic State in partnership with a neighbor, rather than appearing unable to contain the threat on its own.\n\nThe civilian toll from this particular strike is also likely to draw scrutiny, both domestically in Jordan and internationally, about the tradeoffs involved in striking insurgents who operate inside populated villages rather than isolated territory.\n\n## What to watch next\n\nWatch whether the joint security committee produces visible, sustained cooperation — joint patrols, intelligence-sharing, coordinated raids — or whether it turns out to be a diplomatic gesture that fades once this episode is out of the news. Also watch whether further Islamic State-linked attacks in the area prompt Jordan to strike again, and whether future strikes are coordinated through the new committee rather than carried out unilaterally as this one was."
+      },
+      "he": {
+        "headline": "ירדן תקפה מטרות דאעש בסוריה והרגה חמישה — והשתיים מקימות ועדת ביטחון משותפת",
+        "scroll": "ירדן תקפה מטרות של דאעש בכפר בסוריה בתגובה לפיגוע בכנסייה, וההרג כלל חמישה בני אדם, בהם נשים וילדים — והמדינות הקימו בעקבות זאת ועדת ביטחון משותפת.",
+        "coffee": "ירדן תקפה מטרות הקשורות לדאעש בכפר בסוריה בתגובה לפיגוע בכנסייה, וגורמי בריאות סוריים מסרו שההתקפה הרגה חמישה בני אדם, בהם נשים וילדים. דאעש (Islamic State) איבד לפני שנים את ה\"כליפות\" הטריטוריאלית שהחזיק בעבר בחלקים נרחבים מסוריה ועיראק, אך לפי רויטרס הארגון עדיין פועל כרשת מחתרתית בחלקים מסוריה, ומבצע מדי פעם פיגועים כמו זה בכנסייה שהוביל לתגובה הירדנית.\n\nבעקבות התקיפה, ירדן וסוריה הסכימו להקים ועדת ביטחון משותפת. זה ההתפתחות המשמעותית יותר לטווח ארוך: במקום שירדן תפעל שוב באופן חד-צדדי מעבר לגבול, שתי הממשלות נעות לעבר שיתוף פעולה מתואם נגד טרור — סימן לכך שעמאן ודמשק מנהלות כיום איום ביטחוני משותף יחד, ולא בנפרד.",
+        "deep": "## רקע\n\nדאעש איבד לפני שנים את ה\"כליפות\" הטריטוריאלית שהחזיק בעבר בחלקים נרחבים מסוריה ועיראק, אך הארגון לא נעלם. הוא ממשיך לפעול כרשת מחתרתית מבוזרת, בעיקר באזורים מרוחקים ושנויים במחלוקת בסוריה, ומבצע פיגועים מדי פעם בלי להחזיק בשטח של ממש. ירדן, שגובלת ישירות בסוריה, מתייחסת זה מכבר לנוכחות השיורית של דאעש כאיום ביטחוני ישיר על גבולה הצפוני.\n\n## הסיפור\n\nהטריגר המיידי לאירועי השבוע היה פיגוע בכנסייה, שירדן ייחסה לפעילים הקשורים לדאעש הפועלים מכפר בתוך סוריה. ירדן הגיבה בתקיפת הכפר. גורמי בריאות סוריים מסרו שהתקיפה הרגה חמישה בני אדם, בהם נשים וילדים — מחיר שמדגיש כיצד תקיפות שמכוונות לרשת מחתרתית מבוזרת יכולות לגבות מחיר אזרחי כבד כשפעילים משתלבים באוכלוסייה ולא מסתגרים בבסיסים מבודדים.\n\nבעקבות האירוע, במקום להשאיר את הפרשה כתקיפה חד-פעמית מעבר לגבול, ירדן וסוריה הסכימו להקים ועדת ביטחון משותפת. הצעד מעיד ששתי הממשלות רואות אינטרס משותף בעיגון שיתוף הפעולה נגד הנוכחות השיורית של דאעש, במקום להשאיר לירדן לפעול באופן חד-צדדי בכל פעם שהיא מזהה איום על אדמה סורית.\n\n## אפקטים מסדר שני\n\nמנגנון ביטחוני משותף ורשמי בין ירדן וסוריה, אם יחזיק, יסמן מעבר מתקיפות תגובתיות וחד-צדדיות לשיתוף פעולה מובנה — מהסוג שבדרך כלל נועד לחלוק מודיעין ולתאם פעולות, במקום להסתמך על כך שצד אחד תוקף ראשון ומסביר רק אחר כך. לירדן, זה מקטין את הסיכון לחיכוך דיפלומטי עם דמשק סביב תקיפות עתידיות. לסוריה, זה מסמן ניסיון להראות שהיא מסוגלת לעזור באכיפת החוק בשטחה נגד דאעש בשיתוף עם שכנה, ולא להיראות חסרת יכולת לבלום את האיום בכוחות עצמה.\n\nהמחיר האזרחי של התקיפה הספציפית הזו צפוי גם הוא למשוך ביקורת, גם בתוך ירדן וגם בזירה הבינלאומית, על האיזון הכרוך בתקיפת פעילים הפועלים בתוך כפרים מיושבים ולא בשטח מבודד.\n\n## מה לעקוב אחריו\n\nיש לעקוב אם ועדת הביטחון המשותפת תייצר שיתוף פעולה גלוי ומתמשך — סיורים משותפים, שיתוף מודיעין, פשיטות מתואמות — או שתתגלה כמחווה דיפלומטית שדועכת כשהפרשה הנוכחית תרד מסדר היום החדשותי. כדאי גם לעקוב אם פיגועים נוספים הקשורים לדאעש באזור יובילו את ירדן לתקוף שוב, ואם תקיפות עתידיות יתואמו דרך הוועדה החדשה במקום להתבצע באופן חד-צדדי כמו הפעם."
+      },
+      "tags": [
+        "jordan",
+        "syria",
+        "islamic-state",
+        "counterterrorism"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Explainer: What is Islamic State, the militant group Jordan targeted in Syria? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWUx2TkFCNmEzdGdyRzBPS2o1dXVPSUUxUFFndkFpQmhraUxvZ1dpNGpzZERjbTFfSjVBYUJiTUdsdzVLOFEwT2RhWFRNSVYzTkNfWlp0LV9MQmNMUnFpSE5FVC1wWG1COW1YSGxGckltREZzaWFlR0FkMEpRUGFTR2VyTW1TNXhfdC1BMC1FT3JHZUxkT0dyZURsdTZQZ085SldkRDNVTXI5aER6SlZtUllHd1Y3QQ?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Jordan, Syria to form security committee after deadly strikes on Islamic State sites - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUTlkRXhpdTRCZ2g4U0hDdDlkZlBWVDFkTTg2WWhBUXktS3c4akJZck9XbHdmdkpsazJiSVdjUmcxdFdZRmhITzEwRU9vS0pUNkFWSThqZlhYMUVWVnV3ZHRtRVlvdDdrSWhQSGQ0Zy1HOXhNbDEydkRscGV1eG04Q1A4a0VlajhCLTJpVTJYMVhzVzgzb0VTLUpURGl4c0VvanhreWVJcm1RUFNzRnFUMjliUlVZOURxOHlFWmVMNWNPTWsyT1p5a2trNA?oc=5"
+        }
+      ]
+    }
+  ]
+}
