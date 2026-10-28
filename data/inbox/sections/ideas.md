@@ -37,8 +37,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#1",
      "title": "Great art explained: Tamara in the green Bugatti",
      "published": "2026-10-26T10:01:00+00:00",
-     "summary": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#2",
@@ -144,87 +143,75 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "AI hacking risks",
+     "published": "2026-10-28T04:38:22+00:00",
+     "summary": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction: Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection, including public key […] The post AI hacking risks appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "Tuesday assorted links",
      "published": "2026-10-27T16:33:54+00:00",
      "summary": "1. Which musical styles do smart people prefer? 2. U. of Austin job ads. 3. Walter Koenig, RIP (NYT). Chekov. 4. One take on the new computational result. And one (overstated) Chinese interpretation. And another extreme and unwarranted view. 5. New research method: Arjo Klamer’s revenge. 6. How did the Nobel Prize become high status? The post Tuesday assorted links appeared first on Marginal REVOL"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok",
      "published": "2026-10-27T11:17:35+00:00",
      "summary": "From the Archive–these posts are written by ChatGPT These selections emphasize the quality of the criticism: original interpretations, close attention to the work, and arguments worth considering even when you disagree. They are not a ranking of the films and television shows themselves. The list includes five reviews by Tyler Cowen and six by Alex […] The post Eleven outstanding film and televisi"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "NYT debate on the rules for AI companies",
      "published": "2026-10-27T08:17:58+00:00",
      "summary": "Emily Bazelon was the moderator, there were five of us in the symposium. Excerpt from me: Bores: Do you think the federal government pre-empting the states is consistent with democracy? Cowen: Absolutely. We have federal laws that pre-empt state lawmaking in many other areas. Courts have upheld it many, many times. Bores: OK, but is […] The post NYT debate on the rules for AI companies appeared fi"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "Is “Who’s on First?” funny?",
      "published": "2026-10-27T04:32:03+00:00",
      "summary": "Well, no, it is not funny, it would be too easy to relieve the dramatic tension by having Abbott explain the actual situation to Costello. One is not wrong to call the whole thing stupid. Yet there is another reading of the skit which stands at least some chance of being funny, though it is […] The post Is “Who’s on First?” funny? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "Monday assorted links",
      "published": "2026-10-26T16:23:21+00:00",
      "summary": "1. Why slow fields may determine the pace of discovery. 2. Touch screens on your jacket? 3. Astras performance on Bach bench. 4. More on regional productivity differences (and puzzles) in health care. 5. “Plans to allow US companies run entirely by AI “agents” have come under fire from powerful Republicans in Congress, who fear […] The post Monday assorted links appeared first on Marginal REVOLUTI"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "The MR Archive!",
      "published": "2026-10-26T11:20:43+00:00",
      "summary": "The Marginal Revolution archive is now live at https://marginalrevolution.com/ai-archive/. You can also find it from the header and from “Download Full Archive” link in the left menu. The purpose of the archive is twofold, first as Tyler has said we love our human readers and our AI readers and we want to make it as […] The post The MR Archive! appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Tyler Cowen’s Strongest Book Recommendations, 2003-2026",
      "published": "2026-10-26T11:19:11+00:00",
      "summary": "From the Archive–these posts are written by AI. Cowen’s strongest recommendations include 1491, The Power Broker, Knausgaard’s first two My Struggle volumes, Fuchsia Dunlop’s Chinese cookbooks, and Meetings with Remarkable Manuscripts. These stand out through unusually strong praise, repeated endorsement, or both. The analysis uses qualitative, book-specific sentiment analysis: explicit superlativ"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "Brazil’s economic problems, in a nutshell",
      "published": "2026-10-26T07:03:20+00:00",
      "summary": "It would take true Milei-like ardour to slice through Brazil’s economic troubles. These are caused by a gnarly mix of high public spending, stubborn inflation and low saving. The result is a crippling cost of capital. Some analysts put Brazil’s real interest rate, the BCB’s policy rate adjusted for next year’s expected inflation, at 9% or […] The post Brazil’s economic problems, in a nutshell appe"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "Frances Lee on American elections",
      "published": "2026-10-26T04:51:28+00:00",
      "summary": "More likely than interference with the election is that unsuccessful office-seekers will refuse to concede, claiming their opponents cheated. Nothing is more basic to democratic legitimacy than the loser’s consent. Many feared that Mr Trump’s refusal to concede in 2020 would spread across the political system. It has not. Bright Line Watch, a research group, […] The post Frances Lee on American el"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "Sunday assorted links",
      "published": "2026-10-25T15:42:58+00:00",
      "summary": "1. A safe harbor for open source? 2. False but interesting claims about economic growth. 3. “In a calibrated model of the welfare effects of the estimated impacts of the Great Recession on consumption and mortality, we find that the welfare gain from the estimated mortality decline is quantitatively significant relative to the welfare loss […] The post Sunday assorted links appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "The Panic Patrol",
      "published": "2026-10-25T11:15:45+00:00",
      "summary": "The Panic Patrol, a division of the department of future corrections, reminds us of past panics. Here’s one case in point I wasn’t aware of: The post The Panic Patrol appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Facts about breastfeeding",
-     "published": "2026-10-25T06:57:04+00:00",
-     "summary": "We produce a numerical estimate of the value of unpaid breastfeeding relative to national income spanning five centuries and integrating historical and bioarchaeological data. The relative economic contribution of maternal nursing was greater in the distant past than in recent history, rivaling regionally significant industries such as pottery, glassmaking, and even the historical public sector. ["
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "How central bankers spend their time",
-     "published": "2026-10-25T05:14:29+00:00",
-     "summary": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries. We document several patterns. First, all Fed Chairs spend more […] The post How central bankers spen"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Emergent Ventures India, 20th cohort",
-     "published": "2026-10-25T04:42:24+00:00",
-     "summary": "Zahan Turel, a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community’s manuscripts and liturgical records before they are lost. Aditya Vijay, 17, is building Forge, supporting overlooked, self-taught young founders with shared housing, capital, and access. Dev Goyal received a grant for SCRIPT, exploring whether stylus-based drawing kinema"
     }
    ]
   },
@@ -277,15 +264,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#7",
-     "title": "Are you getting enough sun?",
-     "published": "2026-10-20T10:00:00+00:00",
-     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
-    },
-    {
-     "ref": "psyche#8",
      "title": "How to overcome task paralysis",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
+    },
+    {
+     "ref": "psyche#8",
+     "title": "Are you getting enough sun?",
+     "published": "2026-10-20T10:00:00+00:00",
+     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
     },
     {
      "ref": "psyche#9",
