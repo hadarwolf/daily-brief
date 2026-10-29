@@ -617,153 +617,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Do Dundee United have Scotland's best midfield three?",
+     "published": "2026-10-29T08:21:35+00:00",
+     "summary": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Do Dundee United have Scotland's best midfield three?",
+     "published": "2026-10-29T08:21:35+00:00",
+     "summary": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
      "published": "2026-10-29T08:07:22+00:00",
      "summary": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?"
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Podcast: Midweek mayhem in the SPFL - The full debrief",
      "published": "2026-10-29T08:00:00+00:00",
      "summary": "Tynecastle drama, Celtic held and mounting pressure at Aberdeen."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "'Leggy' Rangers frustrate Makhanya - gossip",
      "published": "2026-10-29T07:40:56+00:00",
      "summary": "Rangers scorer frustrated as Celtic manager plays down hopes of winger getting starts."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
      "published": "2026-10-29T06:27:10+00:00",
      "summary": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-29T06:23:21+00:00",
      "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#7",
      "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
      "published": "2026-10-29T00:17:48+00:00",
      "summary": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?"
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#8",
      "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
      "published": "2026-10-29T00:05:21+00:00",
      "summary": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?"
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "Watch: Sportscene - all of Wednesday's Premiership goals",
      "published": "2026-10-28T23:58:05+00:00",
      "summary": "With Hearts v Rangers, Celtic v Dundee Utd and masses of midweek action"
     },
     {
-     "ref": "bbc_football#8",
-     "title": "How unbeaten Chelsea are getting back to their best",
-     "published": "2026-10-28T23:17:33+00:00",
-     "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?"
-    },
-    {
-     "ref": "bbc_football#9",
-     "title": "How unbeaten Chelsea are getting back to their best",
-     "published": "2026-10-28T23:17:33+00:00",
-     "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?"
-    },
-    {
      "ref": "bbc_football#10",
+     "title": "How unbeaten Chelsea are getting back to their best",
+     "published": "2026-10-28T23:17:33+00:00",
+     "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?"
+    },
+    {
+     "ref": "bbc_football#11",
+     "title": "How unbeaten Chelsea are getting back to their best",
+     "published": "2026-10-28T23:17:33+00:00",
+     "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?"
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
      "published": "2026-10-28T23:10:06+00:00",
      "summary": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Fleetwood to face Everton or Newcastle in last eight",
      "published": "2026-10-28T22:45:35+00:00",
      "summary": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "Russo scores hat-trick as Arsenal beat Benfica",
      "published": "2026-10-28T22:19:57+00:00",
      "summary": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Kompany discharged from hospital following collapse",
      "published": "2026-10-28T21:37:08+00:00",
      "summary": "Bayern Munich head coach Vincent Kompany is discharged from hospital and \"doing well\" following his collapse at the club's training ground, according to a club board member."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Sancho rejects Getafe - Thursday's gossip",
      "published": "2026-10-28T21:34:36+00:00",
      "summary": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "Chelsea continue unbeaten start with win over Roma",
      "published": "2026-10-28T20:36:25+00:00",
      "summary": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Sesko ruled out until January with shin injury",
      "published": "2026-10-28T19:57:04+00:00",
      "summary": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Wrexham fined for fielding ineligible players",
      "published": "2026-10-28T18:22:42+00:00",
      "summary": "The English Football League fines Wrexham £75k for two instances of fielding ineligible players."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#20",
      "title": "Burnley appoint ex-Basel boss Celestini as head coach",
      "published": "2026-10-28T18:16:58+00:00",
      "summary": "Burnley appoint Fabio Celestini as their head coach, four days after the departure of Nicky Hayen."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "72+: The EFL Podcast",
      "published": "2026-10-28T16:32:00+00:00",
      "summary": "Fleetwood Town manager Matt Lawlor chats after knocking Arsenal out of the League Cup."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Ousmane Dembele, Winchester City and the Ballon d'Or",
      "published": "2026-10-28T16:01:47+00:00",
      "summary": "France and PSG star Ousmane Dembele's unique connection to non-league side Winchester City resurfaces at Monday's Ballon d'Or ceremony."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "Johnstone Burgh to play two cup ties simultaneously after schedule clash",
      "published": "2026-10-28T15:34:02+00:00",
      "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "McClean leaves Derry City after contract dispute",
      "published": "2026-10-28T13:25:57+00:00",
      "summary": "James McClean says Derry City \"will always hold a special place in my heart\" after mutually agreeing to terminate his contract with immediate effect."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "All Spanish cup matches suspended after Madrid train collision",
-     "published": "2026-10-28T13:25:48+00:00",
-     "summary": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "MacAnthony promises to sell if Peterborough not in top 10",
-     "published": "2026-10-28T13:14:22+00:00",
-     "summary": "Peterborough United chairman and majority owner Darragh MacAnthony \"promises\" to sell the club if they are not in the League One top 10 by February."
     }
    ]
   },
@@ -773,9 +773,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Inter Miami CF - FC Cincinnati 1 - 1 | GOAL - Kenji Mboma Dem - OneFootball",
-     "published": "2026-10-29T06:33:45+00:00",
-     "summary": "Inter Miami CF - FC Cincinnati 1 - 1 | GOAL - Kenji Mboma Dem OneFootball"
+     "title": "Inter Miami rescue 2-2 draw against FC Cincinnati with late Fillipi goal - The Statesman",
+     "published": "2026-10-29T08:26:00+00:00",
+     "summary": "Inter Miami rescue 2-2 draw against FC Cincinnati with late Fillipi goal The Statesman"
     },
     {
      "ref": "gnews_inter_miami#1",
@@ -815,93 +815,93 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#7",
-     "title": "No goal for Messi as Inter Miami secures draw with FC Cincinnati in MLS - Sportstar",
-     "published": "2026-10-29T03:16:34+00:00",
-     "summary": "No goal for Messi as Inter Miami secures draw with FC Cincinnati in MLS Sportstar"
-    },
-    {
-     "ref": "gnews_inter_miami#8",
      "title": "RECAP | Inter Miami CF 2, FC Cincinnati 2 - FC Cincinnati",
      "published": "2026-10-29T03:11:59+00:00",
      "summary": "RECAP | Inter Miami CF 2, FC Cincinnati 2 FC Cincinnati"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#8",
      "title": "FC Cincinnati draws with Messi, Miami on goals by Mboma Dem, Gidi - Cincinnati Enquirer",
      "published": "2026-10-29T02:57:57+00:00",
      "summary": "FC Cincinnati draws with Messi, Miami on goals by Mboma Dem, Gidi Cincinnati Enquirer"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#9",
      "title": "MATCH RECAP: Inter Miami CF Draws Against FC Cincinnati - Inter Miami CF",
      "published": "2026-10-29T02:38:44+00:00",
      "summary": "MATCH RECAP: Inter Miami CF Draws Against FC Cincinnati Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#10",
      "title": "HIGHLIGHTS | Inter Miami CF vs. FC Cincinnati | October 28, 2026 - FC Cincinnati",
      "published": "2026-10-29T02:34:50+00:00",
      "summary": "HIGHLIGHTS | Inter Miami CF vs. FC Cincinnati | October 28, 2026 FC Cincinnati"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#11",
      "title": "Inter Miami nearly collapses, ties FC Cincinnati 2-2 thanks to equalizer in 90th minute - Yahoo Sports",
      "published": "2026-10-29T02:31:00+00:00",
      "summary": "Inter Miami nearly collapses, ties FC Cincinnati 2-2 thanks to equalizer in 90th minute Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#12",
      "title": "Messi’s sweet interaction with a child wins over fans before Inter Miami match - MARCA",
      "published": "2026-10-29T02:31:00+00:00",
      "summary": "Messi’s sweet interaction with a child wins over fans before Inter Miami match MARCA"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "Inter Miami stumble to draw against Cincinnati - Free Malaysia Today",
      "published": "2026-10-29T02:19:16+00:00",
      "summary": "Inter Miami stumble to draw against Cincinnati Free Malaysia Today"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 - WSVN",
      "published": "2026-10-29T02:04:08+00:00",
      "summary": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 WSVN"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "Inter Miami CF vs. FC Cincinnati - Game Highlights - ESPN",
      "published": "2026-10-29T02:00:38+00:00",
      "summary": "Inter Miami CF vs. FC Cincinnati - Game Highlights ESPN"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Inter Miami CF - FC Cincinnati 2 - 2 | GOAL - Riquelme Fillipi, Major League Soccer - Forza Football",
      "published": "2026-10-29T01:59:19+00:00",
      "summary": "Inter Miami CF - FC Cincinnati 2 - 2 | GOAL - Riquelme Fillipi, Major League Soccer Forza Football"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Highlights: Inter Miami CF 2-2 FC Cincinnati (MLS), Major League Soccer - Forza Football",
      "published": "2026-10-29T01:59:12+00:00",
      "summary": "Highlights: Inter Miami CF 2-2 FC Cincinnati (MLS), Major League Soccer Forza Football"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Photo Gallery: Inter Miami vs. FC Cincinnati | Wednesday, Oct. 28, 2026 - Miami Herald",
      "published": "2026-10-29T01:58:25+00:00",
      "summary": "Photo Gallery: Inter Miami vs. FC Cincinnati | Wednesday, Oct. 28, 2026 Miami Herald"
     },
     {
+     "ref": "gnews_inter_miami#19",
+     "title": "Inter Miami CF - FC Cincinnati 1 - 0 | GOAL - Luis Suárez - OneFootball",
+     "published": "2026-10-29T01:57:19+00:00",
+     "summary": "Inter Miami CF - FC Cincinnati 1 - 0 | GOAL - Luis Suárez OneFootball"
+    },
+    {
      "ref": "gnews_inter_miami#20",
-     "title": "Inter Miami CF - FC Cincinnati 1 - 0 | GOAL - Luis Suárez, Major League Soccer - Forza Football",
-     "published": "2026-10-29T01:58:00+00:00",
-     "summary": "Inter Miami CF - FC Cincinnati 1 - 0 | GOAL - Luis Suárez, Major League Soccer Forza Football"
+     "title": "Suarez scores, Messi frustrated and Casemiro steadies the back line as Inter Miami rescue 2-2 draw with Cincinnati - Goal.com",
+     "published": "2026-10-29T01:56:53+00:00",
+     "summary": "Suarez scores, Messi frustrated and Casemiro steadies the back line as Inter Miami rescue 2-2 draw with Cincinnati Goal.com"
     },
     {
      "ref": "gnews_inter_miami#21",
-     "title": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 - Times Union",
-     "published": "2026-10-29T01:55:00+00:00",
-     "summary": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 Times Union"
+     "title": "Inter Miami CF - FC Cincinnati 2 - 2 | GOAL - Riquelme Fillipi - OneFootball",
+     "published": "2026-10-29T01:56:20+00:00",
+     "summary": "Inter Miami CF - FC Cincinnati 2 - 2 | GOAL - Riquelme Fillipi OneFootball"
     },
     {
      "ref": "gnews_inter_miami#22",
@@ -1013,18 +1013,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#14",
-     "title": "r/u_MrBuckBuck on Reddit: Danny Wolf & Ben Saraf full FOOTAGE vs. Indiana Pacers last night (136-109 L) - Howl.Link",
-     "published": "2026-10-26T18:48:57+00:00",
-     "summary": "r/u_MrBuckBuck on Reddit: Danny Wolf & Ben Saraf full FOOTAGE vs. Indiana Pacers last night (136-109 L) Howl.Link"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
      "title": "Nets' Ben Saraf: Sent to Long Island - CBS Sports",
      "published": "2026-10-26T15:14:04+00:00",
      "summary": "Nets' Ben Saraf: Sent to Long Island CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Ben Saraf News: Sent to Long Island - RotoWire",
      "published": "2026-10-26T15:14:04+00:00",
      "summary": "Ben Saraf News: Sent to Long Island RotoWire"

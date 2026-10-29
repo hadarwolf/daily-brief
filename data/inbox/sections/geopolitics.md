@@ -19,152 +19,152 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-29T08:06:53+00:00",
+     "published": "2026-10-29T08:32:01+00:00",
      "summary": "Latin American News | Latest Latin American News AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-29T08:06:51+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "War and unrest - AP News",
+     "published": "2026-10-29T08:30:12+00:00",
+     "summary": "War and unrest AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Trending News - AP News",
-     "published": "2026-10-29T07:54:50+00:00",
-     "summary": "Trending News AP News"
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-10-29T08:30:11+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
      "ref": "ap_world#3",
+     "title": "2026 World Cup schedule and results - AP News",
+     "published": "2026-10-29T08:20:05+00:00",
+     "summary": "2026 World Cup schedule and results AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Europe News | Breaking European News Today - AP News",
+     "published": "2026-10-29T08:14:01+00:00",
+     "summary": "Europe News | Breaking European News Today AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-10-29T07:52:55+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "War and unrest - AP News",
-     "published": "2026-10-29T07:30:13+00:00",
-     "summary": "War and unrest AP News"
-    },
-    {
-     "ref": "ap_world#5",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-10-29T07:30:11+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
      "ref": "ap_world#6",
-     "title": "2026 World Cup schedule and results - AP News",
-     "published": "2026-10-29T07:20:10+00:00",
-     "summary": "2026 World Cup schedule and results AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "Auto Racing - AP News",
-     "published": "2026-10-29T07:15:57+00:00",
-     "summary": "Auto Racing AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "Europe News | Breaking European News Today - AP News",
-     "published": "2026-10-29T07:13:54+00:00",
-     "summary": "Europe News | Breaking European News Today AP News"
-    },
-    {
-     "ref": "ap_world#9",
      "title": "Rays become third team to lose first three World Series, joining Brooklyn Dodgers, Detroit Tigers - AP News",
      "published": "2026-10-29T06:46:00+00:00",
      "summary": "Rays become third team to lose first three World Series, joining Brooklyn Dodgers, Detroit Tigers AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#7",
      "title": "North Korea fires missile barrage toward the sea as tensions with South rise - AP News",
      "published": "2026-10-29T06:35:00+00:00",
      "summary": "North Korea fires missile barrage toward the sea as tensions with South rise AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#8",
      "title": "Israelis await final election results as difficult choices lie ahead - AP News",
      "published": "2026-10-29T06:35:00+00:00",
      "summary": "Israelis await final election results as difficult choices lie ahead AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#9",
      "title": "The Miz caps a likely Cy Young season with poise in Brewers’ World Series clincher - AP News",
      "published": "2026-10-29T06:22:00+00:00",
      "summary": "The Miz caps a likely Cy Young season with poise in Brewers’ World Series clincher AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#10",
      "title": "Trump in Ohio and Obama in Georgia make closing stretch appeals to midterm voters in pivotal states - AP News",
      "published": "2026-10-29T06:19:00+00:00",
      "summary": "Trump in Ohio and Obama in Georgia make closing stretch appeals to midterm voters in pivotal states AP News"
     },
     {
-     "ref": "ap_world#14",
-     "title": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history - AP News",
-     "published": "2026-10-29T06:06:00+00:00",
-     "summary": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history AP News"
-    },
-    {
-     "ref": "ap_world#15",
+     "ref": "ap_world#11",
      "title": "A US cruise ship suspends a global voyage in Asia due to fuel costs, stranding 200 passengers - AP News",
      "published": "2026-10-29T06:00:00+00:00",
      "summary": "A US cruise ship suspends a global voyage in Asia due to fuel costs, stranding 200 passengers AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#12",
      "title": "Charming, cantankerous Pat Murphy at age 67 leads Brewers to first World Series title - AP News",
      "published": "2026-10-29T05:45:00+00:00",
      "summary": "Charming, cantankerous Pat Murphy at age 67 leads Brewers to first World Series title AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#13",
      "title": "Milwaukee’s William Contreras wins World Series MVP with .381 average, 10 ABS overturns - AP News",
      "published": "2026-10-29T05:32:00+00:00",
      "summary": "Milwaukee’s William Contreras wins World Series MVP with .381 average, 10 ABS overturns AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#14",
+     "title": "Asian shares and U.S. futures are mixed after Google parent Alphabet’s earnings disappoint - AP News",
+     "published": "2026-10-29T05:03:00+00:00",
+     "summary": "Asian shares and U.S. futures are mixed after Google parent Alphabet’s earnings disappoint AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting - AP News",
      "published": "2026-10-29T04:50:00+00:00",
      "summary": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#16",
      "title": "Drones strike a container ship off Bulgaria's Black Sea coast and its crew members are rescued - AP News",
      "published": "2026-10-29T04:36:00+00:00",
      "summary": "Drones strike a container ship off Bulgaria's Black Sea coast and its crew members are rescued AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#17",
      "title": "The Milwaukee Brewers are World Series champs. A look at their title, by the numbers - AP News",
      "published": "2026-10-29T04:23:00+00:00",
      "summary": "The Milwaukee Brewers are World Series champs. A look at their title, by the numbers AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#18",
      "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance - AP News",
      "published": "2026-10-29T04:19:00+00:00",
      "summary": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#19",
      "title": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is - AP News",
      "published": "2026-10-29T04:04:00+00:00",
      "summary": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#20",
      "title": "How Trump's immigration crackdown sparked a backlash that could boomerang in the midterms - AP News",
      "published": "2026-10-29T04:01:00+00:00",
      "summary": "How Trump's immigration crackdown sparked a backlash that could boomerang in the midterms AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#21",
      "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election - AP News",
      "published": "2026-10-29T04:01:00+00:00",
      "summary": "Spain reckons with 2nd deadly train crash of the year ahead of national election AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "BC-BBO--World Series MVPs - AP News",
+     "published": "2026-10-29T03:37:00+00:00",
+     "summary": "BC-BBO--World Series MVPs AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "The path of Cyclone Arnab went through India’s plans for data centers and future growth - AP News",
+     "published": "2026-10-29T03:25:00+00:00",
+     "summary": "The path of Cyclone Arnab went through India’s plans for data centers and future growth AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history - AP News",
+     "published": "2026-10-29T03:24:00+00:00",
+     "summary": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history AP News"
     }
    ]
   },
@@ -408,153 +408,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Germany's Steinmeier says China must avoid one-sided benefits in economic ties - Reuters",
+     "published": "2026-10-29T07:24:36+00:00",
+     "summary": "Germany's Steinmeier says China must avoid one-sided benefits in economic ties Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Hong Kong leader apologises for deadly Tai Po fire, pledges reforms - Reuters",
+     "published": "2026-10-29T07:19:28+00:00",
+     "summary": "Hong Kong leader apologises for deadly Tai Po fire, pledges reforms Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Volkswagen's Q3 loss widens to more than $6.5 billion, raising restructuring stakes - Reuters",
+     "published": "2026-10-29T06:46:00+00:00",
+     "summary": "Volkswagen's Q3 loss widens to more than $6.5 billion, raising restructuring stakes Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "South Korea says considering deployment options to Strait of Hormuz, including aircraft - Reuters",
      "published": "2026-10-29T06:45:00+00:00",
      "summary": "South Korea says considering deployment options to Strait of Hormuz, including aircraft Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#4",
      "title": "EXCLUSIVE: Bank of Korea board member says won moves faster than expected - Reuters",
      "published": "2026-10-29T04:33:00+00:00",
      "summary": "EXCLUSIVE: Bank of Korea board member says won moves faster than expected Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#5",
      "title": "Gold drops 1% as markets assess Fed signals, await US inflation data - Reuters",
      "published": "2026-10-29T04:25:00+00:00",
      "summary": "Gold drops 1% as markets assess Fed signals, await US inflation data Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#6",
      "title": "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say - Reuters",
      "published": "2026-10-29T04:20:00+00:00",
      "summary": "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#7",
      "title": "AI-related investment, consumers likely boosted US economic growth in third quarter - Reuters",
      "published": "2026-10-29T04:01:00+00:00",
      "summary": "AI-related investment, consumers likely boosted US economic growth in third quarter Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
      "title": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says - Reuters",
      "published": "2026-10-29T03:59:00+00:00",
      "summary": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters",
      "published": "2026-10-29T03:28:00+00:00",
      "summary": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "One injured in fire at South Carolina nuclear site; no contamination reported - Reuters",
      "published": "2026-10-29T02:30:00+00:00",
      "summary": "One injured in fire at South Carolina nuclear site; no contamination reported Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "Asian shares wobble as Alphabet earnings miss drags Wall St futures lower - Reuters",
      "published": "2026-10-29T02:28:00+00:00",
      "summary": "Asian shares wobble as Alphabet earnings miss drags Wall St futures lower Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "El Salvador to send over 2,000 soldiers to Haiti for rescue while elections postponed - Reuters",
      "published": "2026-10-29T02:28:00+00:00",
      "summary": "El Salvador to send over 2,000 soldiers to Haiti for rescue while elections postponed Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters - Reuters",
      "published": "2026-10-29T02:24:00+00:00",
      "summary": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
      "title": "Reliance, IT lead Indian shares higher; Fed holds rates steady as expected - Reuters",
      "published": "2026-10-29T02:12:00+00:00",
      "summary": "Reliance, IT lead Indian shares higher; Fed holds rates steady as expected Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#15",
      "title": "Euro steady before ECB decision, dollar holds ground as Fed stands pat - Reuters",
      "published": "2026-10-29T01:55:00+00:00",
      "summary": "Euro steady before ECB decision, dollar holds ground as Fed stands pat Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#16",
      "title": "Australia's corporate regulator says talking to bankers over failed $5 billion Firmus IPO - Reuters",
      "published": "2026-10-29T01:00:00+00:00",
      "summary": "Australia's corporate regulator says talking to bankers over failed $5 billion Firmus IPO Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#17",
      "title": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns - Reuters",
      "published": "2026-10-29T00:56:00+00:00",
      "summary": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#18",
      "title": "Judge says Trump bid to set aside California ballots would ‘wreak havoc’ on democracy - Reuters",
      "published": "2026-10-29T00:44:00+00:00",
      "summary": "Judge says Trump bid to set aside California ballots would ‘wreak havoc’ on democracy Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#19",
      "title": "New Zealand central bank governor says chances of December hike are 'high' - Reuters",
      "published": "2026-10-29T00:22:00+00:00",
      "summary": "New Zealand central bank governor says chances of December hike are 'high' Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "UK vehicle production rises sharply in September against cyber-hit comparison - Reuters",
      "published": "2026-10-29T00:20:27+00:00",
      "summary": "UK vehicle production rises sharply in September against cyber-hit comparison Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
      "title": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says - Reuters",
      "published": "2026-10-28T23:58:00+00:00",
      "summary": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#22",
      "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters",
      "published": "2026-10-28T23:53:34+00:00",
      "summary": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#23",
      "title": "Cyberattack concealed political spending by big donors before US midterm elections - Reuters",
      "published": "2026-10-28T23:43:42+00:00",
      "summary": "Cyberattack concealed political spending by big donors before US midterm elections Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#24",
      "title": "EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say - Reuters",
      "published": "2026-10-28T23:01:00+00:00",
      "summary": "EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Libya's eastern administration bars entry to Iranians, Afghans - Reuters",
-     "published": "2026-10-28T22:20:02+00:00",
-     "summary": "Libya's eastern administration bars entry to Iranians, Afghans Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Trump says imported robotics pose national security risks but does not impose tariffs - Reuters",
-     "published": "2026-10-28T22:11:43+00:00",
-     "summary": "Trump says imported robotics pose national security risks but does not impose tariffs Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang - Reuters",
-     "published": "2026-10-28T21:41:54+00:00",
-     "summary": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang Reuters"
     }
    ]
   }

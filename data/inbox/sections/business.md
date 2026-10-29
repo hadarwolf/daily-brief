@@ -18,103 +18,104 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Taiwan's Deputy Foreign Minister Responds to Pakistan's Airspace U-Turn",
+     "published": "2026-10-29T08:15:13+00:00",
+     "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "How Taylor Rooks Interviews Big-Name Athletes",
      "published": "2026-10-29T08:01:07+00:00",
      "summary": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with the sports broadcaster Taylor Rooks about the art of the interview. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "What Wall Street Really Thanks About the AI Trade (Podcast)",
      "published": "2026-10-29T08:00:00+00:00",
      "summary": "It has been a big week for the AI trade — we've seen wobbles in the market, many of them in response to headlines like the Anthropic S-1 and earnings from the hyperscalers (Oracle, Microsoft, etc.). So what does Wall Street make of all the news, and how are they processing an increasing sense that the laws of the economy barely apply to AI? Today, we speak with Alexander 'Alty' Altmann, global hea"
     },
     {
-     "ref": "bloomberg_markets#2",
-     "title": "Horizons Middle East & Africa 10/29/2026 (Video)",
-     "published": "2026-10-29T07:41:40+00:00"
+     "ref": "bloomberg_markets#3",
+     "title": "Netanyahu Bloc Falls Short as Iran Diplomacy Picks Up Across the Region",
+     "published": "2026-10-29T07:41:40+00:00",
+     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "ECB Expected to Keep Rates on Hold",
      "published": "2026-10-29T07:40:08+00:00",
      "summary": "The European Central Bank is set to keep borrowing costs steady as it weighs bond-market turmoil in France and a renewed advance in energy costs. Bloomberg's Oliver Crook reports from Frankfurt. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "India’s GIFT City Steps Up Push for Global Capital",
      "published": "2026-10-29T07:36:48+00:00",
      "summary": "IFSCA Chairperson K. Rajaraman discusses how GIFT City can help attract global capital to India. He also addresses tax incentives, infrastructure and net-zero investment, fund management and progress toward dual listings. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "UK Budget Is Bond-Friendly But Healey Warns of Hard Decisions Ahead",
      "published": "2026-10-29T07:32:29+00:00",
      "summary": "The chancellor warns on future spending decisions"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "South African Bank Absa Expands to Dubai",
      "published": "2026-10-29T07:28:08+00:00",
      "summary": "South Africa’s Absa Group has expanded to Dubai’s DIFC. The bank aims to use the location to better support trade and investment flows between Gulf and African markets. Absa International Chief Executive Cheryl Buss spoke to Bloomberg's Chief Africa Correspondent Jennifer Zabasajja on the expansion. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Kochugovindan: Two Dissents Shows Fed Independence",
      "published": "2026-10-29T07:27:01+00:00",
      "summary": "The Fed held interest rates as largely expected but did not offer a clear signal on their movement in the next meeting in December. Sree Kochugovindan, Senior Research Economist at Aberdeen Investments spoke to Bloomberg’s Abeer Abu Omar on the decision which was widely anticipated (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
-     "title": "Lloyds Beats Estimates on Rise in Fees and Interest Income",
+     "ref": "bloomberg_markets#9",
+     "title": "Lloyds Profit Beat Marred by Flat Outlook Amid Rising Rates",
      "published": "2026-10-29T07:24:12+00:00",
-     "summary": "Lloyds Banking Group Plc beat profit estimates in the third quarter, driven by both an increase in interest income and fees, and maintained its guidance through the end of the year."
+     "summary": "Lloyds Banking Group Plc’s profit beat estimates in the third quarter, but disappointed investors as the UK lender kept its guidance steady against a rising rate environment."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Shell Announces $5 Billion Buyback as Oil Refining Booms",
      "published": "2026-10-29T07:06:16+00:00",
      "summary": "Shell Plc announced one of its highest-ever share buybacks as the Iran war and the Russia-Ukraine conflict lead to record margins for its oil-refining business and surging profits."
     },
     {
-     "ref": "bloomberg_markets#10",
-     "title": "FTSE 100 Live: UK Stock Futures Edge Higher to Dodge AI Selloff",
+     "ref": "bloomberg_markets#11",
+     "title": "FTSE 100 Live: Shell Leads Stocks Higher as Europe Slumps on Tech",
      "published": "2026-10-29T06:48:08+00:00"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Traders Brace for China Earnings as Samsung Disappoints",
      "published": "2026-10-29T06:41:45+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
      "published": "2026-10-29T06:00:36+00:00",
      "summary": "Chancellor of the Exchequer John Healey defended his first budget against criticism that it lacked ambition, while warning the UK would face “tough decisions” about its spending priorities in the years ahead. Speaking to Bloomberg’s Caroline Hepker, Healey said a tax increase on banks would be temporary, and that he had urged the Bank of England to consider lenders’ international competitiveness i"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Jio’s Halo Brightens Momentum for Mega Deals in India Pipeline",
      "published": "2026-10-29T05:49:10+00:00",
      "summary": "Jio Platforms Ltd.’s sparkling debut was met with enthusiasm among investors, paving the way for more potential offerings by some of the country’s largest privately held companies."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Anthropic IPO: How Investors in Asia Can Get In",
      "published": "2026-10-29T05:36:18+00:00",
      "summary": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
      "published": "2026-10-29T05:13:28+00:00",
      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#16",
-     "title": "Chinese Tech Stocks Sink Even as Chipmaker Sales Surge 1,800%",
-     "published": "2026-10-29T04:29:03+00:00",
-     "summary": "Chinese tech hardware shares tumbled as impressive quarterly results at some companies failed to offset persistent concerns over fundamentals and weak global AI sentiment."
     },
     {
      "ref": "bloomberg_markets#17",
@@ -172,7 +173,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#5",
-     "title": "Debt woes throttle European commercial property market",
+     "title": "European office deals fall to lowest since financial crisis as debt costs bite",
      "published": "2026-10-29T00:01:08+00:00",
      "summary": "Office transactions slide to lowest level since 2009 in third quarter"
     },
@@ -226,7 +227,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#2",
-     "title": "אחרי הנפילות אתמול בעקבות תוצאות הבחירות - המסחר בת\"א נפתח בירידות",
+     "title": "זמן קצר אחרי הפתיחה השלילית, הירידות כמעט נמחקו; מדד הבנקים עולה ב-1%",
      "published": "2026-10-29T08:03:24+00:00"
     },
     {
@@ -239,7 +240,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "themarker#4",
      "title": "סירבה לעבור לישראל, גם במחיר התפקיד: סמנכ\"לית העסקים של פייבר עוזבת",
      "published": "2026-10-29T06:45:44+00:00",
-     "summary": "פייבר מסרה כי הליך האיתור של מחליפה נמצא בשלבים מתקדמים ■ כל חברי ההנהלה הבכירה של פייבר הם ישראלים שגרים בישראל"
+     "summary": "האיתור של מחליפה נמצא בשלבים מתקדמים ■ כל חברי ההנהלה הבכירה של פייבר הם ישראלים שגרים בישראל ■ למרות שהרווח נחתך כמעט כחצי, תוצאות הרבעון השלישי עלו על הציפיות ■ פעילות המסחר המקוון מיתנה את הירידה בהכנסות משירותי פרילנסרים, וגם בזכותה התחזית השנתית הועלתה"
     },
     {
      "ref": "themarker#5",
@@ -368,69 +369,69 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "European Stock Indexes Mostly Higher",
+     "published": "2026-10-29T08:29:00+00:00",
+     "summary": "European stock indexes were mostly gaining at market open as corporate earnings lifted shares."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Gold Falls as Investors Assess Fed Signals, Await Inflation Data",
+     "published": "2026-10-29T08:24:00+00:00",
+     "summary": "Gold prices fell as investors digested the Fed’s policy meeting while waiting for the release of U.S. inflation data later on Thursday."
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "Euro Falls Ahead of ECB Decision",
+     "published": "2026-10-29T08:23:00+00:00",
+     "summary": "The euro fell ahead of the European Central Bank’s policy decision later in the day."
+    },
+    {
+     "ref": "wsj_markets#3",
+     "title": "Eurozone Bond Yields Fall Ahead of ECB Decision; French OATs Outperform",
+     "published": "2026-10-29T08:17:00+00:00",
+     "summary": "Eurozone government bond yields fell at open, tracking their U.S. peers, as markets prepare for the ECB rate decision. The 10-year French OAT outperformed."
+    },
+    {
+     "ref": "wsj_markets#4",
      "title": "U.S. Treasury Yields Fall as Investors Digest Fed Meet, Focus Shifts to ECB",
      "published": "2026-10-29T07:27:00+00:00",
      "summary": "Treasury yields dropped in Asian trade as markets digested the Federal Reserve’s interest-rate decision, with the focus now shifting to the European Central Bank’s meeting."
     },
     {
-     "ref": "wsj_markets#1",
-     "title": "ING Launches Buyback But Flags Job Cuts and Unit Restructuring",
-     "published": "2026-10-29T06:52:00+00:00",
-     "summary": "The Dutch bank launched a new buyback program of $1.84 billion and set out plans to restructure its wholesale banking unit."
-    },
-    {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#5",
      "title": "Societe Generale Posts Profit, Revenue Increase in 3Q",
      "published": "2026-10-29T06:26:00+00:00",
      "summary": "Societe Generale reported third-quarter net profit that beat market expectations despite a volatile macroeconomic backdrop in its home country."
     },
     {
-     "ref": "wsj_markets#3",
-     "title": "Singapore Dollar Strengthens as Investors Turn to U.S. Econ Data",
-     "published": "2026-10-29T03:47:00+00:00",
-     "summary": "The Singapore dollar strengthened against its U.S. counterpart in the Asian session."
-    },
-    {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#6",
      "title": "Weil Gotshal Taps AlixPartners to Steer Wind-Down",
      "published": "2026-10-29T02:25:00+00:00",
      "summary": "The restructuring advisory firm will help dissolve the New York law firm after a wave of partner departures forced it to announce Wednesday it was shutting down."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#7",
      "title": "Oil Falls as Traders Weigh Middle East Risks",
      "published": "2026-10-29T01:21:00+00:00",
      "summary": "Oil fell in early Asian trade after settling higher overnight."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#8",
      "title": "The Fed’s AI Puzzle: Will High Rates Slow the Boom?",
      "published": "2026-10-29T01:12:00+00:00",
      "summary": "Chairman Kevin Warsh said higher rates are reaching the investment surge and growth is broadening beyond it. The positions cut in opposite directions for where to set rates."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "See the Trump Administration Stock Portfolio That Spans More Than 40 Companies",
      "published": "2026-10-29T01:00:00+00:00",
      "summary": "A $30 billion spending spree is slated to give the government stakes in chip firms, miners and more."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "Weil Gotshal Says It Is Shutting Its Doors",
      "published": "2026-10-29T00:59:00+00:00",
      "summary": "The once-storied law firm suffered a series of high-profile defections and failed merger talks that left it with few options."
-    },
-    {
-     "ref": "wsj_markets#9",
-     "title": "Gold Falls as Traders Mull Fed Decision",
-     "published": "2026-10-29T00:38:00+00:00",
-     "summary": "Gold declined in the early Asian session after the Federal Reserve held rates at its October policy meeting."
-    },
-    {
-     "ref": "wsj_markets#10",
-     "title": "Nikkei Rises 0.6%, Led by AI-Related Stocks",
-     "published": "2026-10-29T00:23:00+00:00",
-     "summary": "Japan’s Nikkei Stock Average was up 0.6% as gains in artificial intelligence-related shares help offset losses in videogame and other electronics stocks."
     },
     {
      "ref": "wsj_markets#11",
@@ -482,39 +483,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "wsj_markets#19",
-     "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
-     "published": "2026-10-28T20:00:00+00:00",
-     "summary": "U.S. Treasury yields went in different directions as markets reacted to the Federal Reserve’s widely expected decision to hold rates unchanged and to Chairman Kevin Warsh’s press conference."
-    },
-    {
-     "ref": "wsj_markets#20",
      "title": "Oil Futures Rise on Fears of Middle East Escalation",
      "published": "2026-10-28T19:59:00+00:00",
      "summary": "Oil futures recovered most of the previous two days’ losses as traders worried that the U.S. could renew military strikes against Iran following the midterm elections."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#20",
      "title": "The Firm That Pioneered Bankruptcy Law Is Winding Down Itself",
      "published": "2026-10-28T19:54:00+00:00",
      "summary": "Weil Gotshal & Manges lost its grip on the lucrative business of bankruptcy it helped create, squeezed by rising competition and industry changes."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#21",
      "title": "U.S. Stocks Narrowly Mixed Following Fed Decision",
      "published": "2026-10-28T18:31:00+00:00",
      "summary": "Stocks remained mostly higher, but the Nasdaq fell into negative territory following the Federal Reserve’s decision to leave interest rates unchanged."
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#22",
      "title": "Opinion | How Do Investors Measure ‘Social Impact’?",
      "published": "2026-10-28T16:35:00+00:00",
      "summary": "Developing a common standard would be one of the best ways of expanding economic opportunity."
     },
     {
-     "ref": "wsj_markets#24",
+     "ref": "wsj_markets#23",
      "title": "Nasdaq Edges Lower as Tech Rally Stalls Out",
      "published": "2026-10-28T16:25:00+00:00",
      "summary": "The Nasdaq edged lower as the tech euphoria sparked by Anthropic’s IPO filing fizzled out. The Dow Jones Industrial Average and the S&P 500 ticked higher."
+    },
+    {
+     "ref": "wsj_markets#24",
+     "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+     "published": "2026-10-28T13:08:00+00:00",
+     "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     }
    ]
   }
@@ -522,9 +523,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4098.8501,
+   "last": 4130.9302,
    "prev_close": 4130.3599,
-   "change_pct": -0.76,
+   "change_pct": 0.01,
    "as_of": "2026-10-29"
   },
   "SP500": {
@@ -536,23 +537,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1229,
+   "last": 3.1173,
    "prev_close": 3.0226,
-   "change_pct": 3.32,
+   "change_pct": 3.13,
    "as_of": "2026-10-29"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 110.61,
+   "last": 110.48,
    "prev_close": 115.32,
-   "change_pct": -4.08,
+   "change_pct": -4.2,
    "as_of": "2026-10-29"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 79907.0078,
+   "last": 79926.9688,
    "prev_close": 81267.5859,
-   "change_pct": -1.67,
+   "change_pct": -1.65,
    "as_of": "2026-10-29"
   }
  },
