@@ -18,104 +18,104 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Can Chancellor Healey's Budget Aid Britain's Founders?",
+     "published": "2026-10-29T08:40:53+00:00",
+     "summary": "Bloomberg UK Senior Columnist Merryn Somerset Webb discusses Chancellor of the Exchequer John Healey's promise of a founder's allowance and government support for young entrepreneurs. \"It's an announcement but it is meaningless and, of course, a lot of the stuff in the budget is that,\" she says on \"The Opening Trade\" during an event held exclusively for Bloomberg.com subscribers in London. (Source"
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Taiwan's Deputy Foreign Minister Responds to Pakistan's Airspace U-Turn",
      "published": "2026-10-29T08:15:13+00:00",
      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "How Taylor Rooks Interviews Big-Name Athletes",
      "published": "2026-10-29T08:01:07+00:00",
      "summary": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with the sports broadcaster Taylor Rooks about the art of the interview. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "What Wall Street Really Thanks About the AI Trade (Podcast)",
      "published": "2026-10-29T08:00:00+00:00",
      "summary": "It has been a big week for the AI trade — we've seen wobbles in the market, many of them in response to headlines like the Anthropic S-1 and earnings from the hyperscalers (Oracle, Microsoft, etc.). So what does Wall Street make of all the news, and how are they processing an increasing sense that the laws of the economy barely apply to AI? Today, we speak with Alexander 'Alty' Altmann, global hea"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Netanyahu Bloc Falls Short as Iran Diplomacy Picks Up Across the Region",
      "published": "2026-10-29T07:41:40+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "ECB Expected to Keep Rates on Hold",
      "published": "2026-10-29T07:40:08+00:00",
      "summary": "The European Central Bank is set to keep borrowing costs steady as it weighs bond-market turmoil in France and a renewed advance in energy costs. Bloomberg's Oliver Crook reports from Frankfurt. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "India’s GIFT City Steps Up Push for Global Capital",
      "published": "2026-10-29T07:36:48+00:00",
      "summary": "IFSCA Chairperson K. Rajaraman discusses how GIFT City can help attract global capital to India. He also addresses tax incentives, infrastructure and net-zero investment, fund management and progress toward dual listings. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "UK Budget Is Bond-Friendly But Healey Warns of Hard Decisions Ahead",
      "published": "2026-10-29T07:32:29+00:00",
      "summary": "The chancellor warns on future spending decisions"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "South African Bank Absa Expands to Dubai",
      "published": "2026-10-29T07:28:08+00:00",
      "summary": "South Africa’s Absa Group has expanded to Dubai’s DIFC. The bank aims to use the location to better support trade and investment flows between Gulf and African markets. Absa International Chief Executive Cheryl Buss spoke to Bloomberg's Chief Africa Correspondent Jennifer Zabasajja on the expansion. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Kochugovindan: Two Dissents Shows Fed Independence",
      "published": "2026-10-29T07:27:01+00:00",
      "summary": "The Fed held interest rates as largely expected but did not offer a clear signal on their movement in the next meeting in December. Sree Kochugovindan, Senior Research Economist at Aberdeen Investments spoke to Bloomberg’s Abeer Abu Omar on the decision which was widely anticipated (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Lloyds Profit Beat Marred by Flat Outlook Amid Rising Rates",
      "published": "2026-10-29T07:24:12+00:00",
      "summary": "Lloyds Banking Group Plc’s profit beat estimates in the third quarter, but disappointed investors as the UK lender kept its guidance steady against a rising rate environment."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Shell Announces $5 Billion Buyback as Oil Refining Booms",
      "published": "2026-10-29T07:06:16+00:00",
      "summary": "Shell Plc announced one of its highest-ever share buybacks as the Iran war and the Russia-Ukraine conflict lead to record margins for its oil-refining business and surging profits."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "FTSE 100 Live: Shell Leads Stocks Higher as Europe Slumps on Tech",
      "published": "2026-10-29T06:48:08+00:00"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Traders Brace for China Earnings as Samsung Disappoints",
      "published": "2026-10-29T06:41:45+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
      "published": "2026-10-29T06:00:36+00:00",
      "summary": "Chancellor of the Exchequer John Healey defended his first budget against criticism that it lacked ambition, while warning the UK would face “tough decisions” about its spending priorities in the years ahead. Speaking to Bloomberg’s Caroline Hepker, Healey said a tax increase on banks would be temporary, and that he had urged the Bank of England to consider lenders’ international competitiveness i"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Jio’s Halo Brightens Momentum for Mega Deals in India Pipeline",
      "published": "2026-10-29T05:49:10+00:00",
      "summary": "Jio Platforms Ltd.’s sparkling debut was met with enthusiasm among investors, paving the way for more potential offerings by some of the country’s largest privately held companies."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Anthropic IPO: How Investors in Asia Can Get In",
      "published": "2026-10-29T05:36:18+00:00",
      "summary": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#16",
-     "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
-     "published": "2026-10-29T05:13:28+00:00",
-     "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#17",
@@ -144,32 +144,32 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "ft_home#0",
      "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
-     "published": "2026-10-29T06:32:40+00:00",
+     "published": "2026-10-29T08:37:11+00:00",
      "summary": "Nasdaq 100 to open 1% down after Google parent Alphabet and Microsoft report lower than expected capex"
     },
     {
      "ref": "ft_home#1",
-     "title": "The Fed plays for time (but doesn’t have much)",
-     "published": "2026-10-29T06:30:00+00:00",
-     "summary": "Plus, tech results and UK bank taxes"
-    },
-    {
-     "ref": "ft_home#2",
      "title": "How Flávio Bolsonaro fled Brazil",
      "published": "2026-10-29T05:00:30+00:00",
      "summary": "Facing a money laundering probe, the losing presidential candidate said he had never thought of leaving. The next day he was gone"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#2",
      "title": "Israel vote leaves door open to Iran attack",
      "published": "2026-10-29T05:00:30+00:00",
      "summary": "Netanyahu could launch fresh bombing campaign with US while he serves as caretaker prime minister during coalition talks, security experts say"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#3",
      "title": "Private equity grows up",
      "published": "2026-10-29T05:00:30+00:00",
      "summary": "The past decade has demonstrated that PE at scale is a differentiated asset class — not a better form of capitalism"
+    },
+    {
+     "ref": "ft_home#4",
+     "title": "Israel’s ‘Houdini’ and his latest escape",
+     "published": "2026-10-29T05:00:30+00:00",
+     "summary": "Ever the political survivor, Benjamin Netanyahu retains a chance at a fresh term even after the failures of October 7"
     },
     {
      "ref": "ft_home#5",
@@ -191,21 +191,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#8",
-     "title": "Fed holds fire on interest rates despite intensifying inflation",
-     "published": "2026-10-28T21:32:08+00:00",
-     "summary": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings"
-    },
-    {
-     "ref": "ft_home#9",
      "title": "Weil leadership tells partners firm should be dissolved",
      "published": "2026-10-28T20:28:37+00:00",
      "summary": "Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious"
     },
     {
-     "ref": "ft_home#10",
+     "ref": "ft_home#9",
      "title": "Republicans seek to deflect Epstein anger on to Democrats",
      "published": "2026-10-28T20:20:32+00:00",
      "summary": "Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign"
+    },
+    {
+     "ref": "ft_home#10",
+     "title": "Israel’s Arabs seek a slice of power",
+     "published": "2026-10-28T17:40:19+00:00",
+     "summary": "Arab parties are eyeing a record number of Knesset seats and potential kingmaker role after a surge in Palestinian Israeli votes"
     }
    ]
   },
@@ -215,19 +215,19 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "עליות בבורסות אירופה; מניית סמסונג נחלשה ביותר מ-4% בסוף יום מסחר תנודתי באסיה",
+     "published": "2026-10-29T08:35:00+00:00",
+     "summary": "מגעים לעסקת ענק בין יצרנית השבבים מארוול לספקית הציוד האופטי למרכזי נתונים לומנטום ■ החוזים על הנפט נסוגים בשיעור של עד 1% בציפייה לחידוש המגעים בין איראן למערב ■ הבנק הפדרלי הותיר את הריבית בארה\"ב ללא שינוי ■ מניית אורקל זינקה ב-11% אמש, בתום יום מסחר תנודתי בוול סטריט"
+    },
+    {
+     "ref": "themarker#1",
      "title": "אחרי 45 שנה בבנק: מנהלת מגזר הנדל\"ן בפועלים, קלרה צברגל, פורשת מתפקידה",
      "published": "2026-10-29T08:10:42+00:00",
      "summary": "צברגל כיהנה בתפקיד יותר מ-20 שנה ובין היתר הייתה אחראית למימון פרויקטים גדולים בישראל ■ המחליף שלה יהיה אייל גלעד, שמכהן כיום כמנהל מרכז עסקים ירושלים בבנק"
     },
     {
-     "ref": "themarker#1",
-     "title": "מרבית בורסות אסיה ננעלו בירידות; סמסונג נחלשה ביותר מ-4%",
-     "published": "2026-10-29T08:06:00+00:00",
-     "summary": "מגעים לעסקת ענק בין יצרנית השבבים מארוול לספקית הציוד האופטי למרכזי נתונים לומנטום ■ החוזים על הנפט נסוגים בשיעור של עד 1% בציפייה לחידוש המגעים בין איראן למערב ■ הבנק הפדרלי הותיר את הריבית בארה\"ב ללא שינוי ■ מניית אורקל זינקה ב-11% אמש, בתום יום מסחר תנודתי בוול סטריט"
-    },
-    {
      "ref": "themarker#2",
-     "title": "זמן קצר אחרי הפתיחה השלילית, הירידות כמעט נמחקו; מדד הבנקים עולה ב-1%",
+     "title": "אחרי פתיחה שלילית, הבורסה עברה לעליות; מדד הבנקים מטפס ב-2%",
      "published": "2026-10-29T08:03:24+00:00"
     },
     {
@@ -523,9 +523,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4130.9302,
+   "last": 4138.1201,
    "prev_close": 4130.3599,
-   "change_pct": 0.01,
+   "change_pct": 0.19,
    "as_of": "2026-10-29"
   },
   "SP500": {
@@ -537,23 +537,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1173,
+   "last": 3.1211,
    "prev_close": 3.0226,
-   "change_pct": 3.13,
+   "change_pct": 3.26,
    "as_of": "2026-10-29"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 110.48,
+   "last": 110.6,
    "prev_close": 115.32,
-   "change_pct": -4.2,
+   "change_pct": -4.09,
    "as_of": "2026-10-29"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 79926.9688,
+   "last": 79755.5781,
    "prev_close": 81267.5859,
-   "change_pct": -1.65,
+   "change_pct": -1.86,
    "as_of": "2026-10-29"
   }
  },

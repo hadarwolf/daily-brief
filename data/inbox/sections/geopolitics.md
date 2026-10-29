@@ -18,39 +18,39 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-10-29T08:32:01+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
+     "title": "2026 World Cup venue map - AP News",
+     "published": "2026-10-29T08:52:12+00:00",
+     "summary": "2026 World Cup venue map AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-29T08:50:14+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-10-29T08:40:09+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#3",
      "title": "War and unrest - AP News",
      "published": "2026-10-29T08:30:12+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#4",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-10-29T08:30:11+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "2026 World Cup schedule and results - AP News",
-     "published": "2026-10-29T08:20:05+00:00",
-     "summary": "2026 World Cup schedule and results AP News"
-    },
-    {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "Europe News | Breaking European News Today - AP News",
      "published": "2026-10-29T08:14:01+00:00",
      "summary": "Europe News | Breaking European News Today AP News"
-    },
-    {
-     "ref": "ap_world#5",
-     "title": "2026 World Cup venue map - AP News",
-     "published": "2026-10-29T07:52:55+00:00",
-     "summary": "2026 World Cup venue map AP News"
     },
     {
      "ref": "ap_world#6",
@@ -102,69 +102,69 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#14",
-     "title": "Asian shares and U.S. futures are mixed after Google parent Alphabet’s earnings disappoint - AP News",
-     "published": "2026-10-29T05:03:00+00:00",
-     "summary": "Asian shares and U.S. futures are mixed after Google parent Alphabet’s earnings disappoint AP News"
-    },
-    {
-     "ref": "ap_world#15",
      "title": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting - AP News",
      "published": "2026-10-29T04:50:00+00:00",
      "summary": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#15",
      "title": "Drones strike a container ship off Bulgaria's Black Sea coast and its crew members are rescued - AP News",
      "published": "2026-10-29T04:36:00+00:00",
      "summary": "Drones strike a container ship off Bulgaria's Black Sea coast and its crew members are rescued AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#16",
      "title": "The Milwaukee Brewers are World Series champs. A look at their title, by the numbers - AP News",
      "published": "2026-10-29T04:23:00+00:00",
      "summary": "The Milwaukee Brewers are World Series champs. A look at their title, by the numbers AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#17",
      "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance - AP News",
      "published": "2026-10-29T04:19:00+00:00",
      "summary": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#18",
      "title": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is - AP News",
      "published": "2026-10-29T04:04:00+00:00",
      "summary": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#19",
      "title": "How Trump's immigration crackdown sparked a backlash that could boomerang in the midterms - AP News",
      "published": "2026-10-29T04:01:00+00:00",
      "summary": "How Trump's immigration crackdown sparked a backlash that could boomerang in the midterms AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#20",
      "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election - AP News",
      "published": "2026-10-29T04:01:00+00:00",
      "summary": "Spain reckons with 2nd deadly train crash of the year ahead of national election AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#21",
      "title": "BC-BBO--World Series MVPs - AP News",
      "published": "2026-10-29T03:37:00+00:00",
      "summary": "BC-BBO--World Series MVPs AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#22",
      "title": "The path of Cyclone Arnab went through India’s plans for data centers and future growth - AP News",
      "published": "2026-10-29T03:25:00+00:00",
      "summary": "The path of Cyclone Arnab went through India’s plans for data centers and future growth AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#23",
      "title": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history - AP News",
      "published": "2026-10-29T03:24:00+00:00",
      "summary": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Inflation - AP News",
+     "published": "2026-10-29T03:17:05+00:00",
+     "summary": "Inflation AP News"
     }
    ]
   },
@@ -354,48 +354,60 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
+     "title": "Only the Gulf Can End the Iran War",
+     "published": "2026-10-29T08:00:00+00:00",
+     "summary": "The Arab monarchies must help Washington and Tehran save face."
+    },
+    {
+     "ref": "foreign_affairs#1",
+     "title": "Don't Go Backward on China Policy",
+     "published": "2026-10-29T08:00:00+00:00",
+     "summary": "The folly of a hawkish restoration."
+    },
+    {
+     "ref": "foreign_affairs#2",
      "title": "How to Secure the Straits",
      "published": "2026-10-28T08:00:00+00:00",
      "summary": "Why Iran and the Houthis keep winning the waterways."
     },
     {
-     "ref": "foreign_affairs#1",
+     "ref": "foreign_affairs#3",
      "title": "The Backdoor to American Innovation",
      "published": "2026-10-28T08:00:00+00:00",
      "summary": "How military partnerships make Washington vulnerable to its adversaries."
     },
     {
-     "ref": "foreign_affairs#2",
+     "ref": "foreign_affairs#4",
      "title": "The Israel Netanyahu Made",
      "published": "2026-10-27T04:00:00+00:00",
      "summary": "Why Bibi’s national security vision will endure."
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#5",
      "title": "Putin’s Strategy Is Working",
      "published": "2026-10-27T04:00:00+00:00",
      "summary": "Trump could salvage the Kremlin’s objectives in Ukraine."
     },
     {
-     "ref": "foreign_affairs#4",
+     "ref": "foreign_affairs#6",
      "title": "The New Energy Stalemate in Ukraine",
      "published": "2026-10-23T12:33:00+00:00",
      "summary": "Tatiana Mitrova, a fellow at Columbia University’s Center on Global Energy Policy and former energy scholar at Moscow’s Russian Academy of Sciences, and Sergey Vakulenko, an oil and gas expert at Carnegie’s Russia Eurasia Center, argue that Russia and Ukraine are locked in an energy war that has become an adaptation spiral, despite growing human and economic costs and despite current US pressure o"
     },
     {
-     "ref": "foreign_affairs#5",
+     "ref": "foreign_affairs#7",
      "title": "What Israel’s Election Won’t Change",
      "published": "2026-10-23T04:00:00+00:00",
      "summary": "The constraints and costs of the new security consensus."
     },
     {
-     "ref": "foreign_affairs#6",
+     "ref": "foreign_affairs#8",
      "title": "Brazil’s Economic Impasse",
      "published": "2026-10-22T08:00:00+00:00",
      "summary": "Monica de Bolle, an expert in Brazilian economic policy, makes an authoritative argument that Brazil’s economic problems will persist no matter the outcome of the country’s presidential election. A Flávio Bolsonaro administration would fare no better than Lula when it comes to reducing debt and delivering growth—and Bolsonaro’s illiberal policies could make the economic picture even worse."
     },
     {
-     "ref": "foreign_affairs#7",
+     "ref": "foreign_affairs#9",
      "title": "A Less-Is-More Strategy for America",
      "published": "2026-10-22T08:00:00+00:00",
      "summary": "Barry Posen, a professor at MIT, is one of America's leading experts on international security. He argues that the United States military is breaking down because it has been overused and overextended over the last 30 years, and that the only way to repair it is for Washington to exercise much more restraint."
@@ -408,153 +420,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Hong Kong leader apologises for deadly Tai Po fire, pledges reforms - Reuters",
+     "published": "2026-10-29T08:34:12+00:00",
+     "summary": "Hong Kong leader apologises for deadly Tai Po fire, pledges reforms Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Taliban’s poppy ban falters as Afghan farmers say they can't feed their children - Reuters",
+     "published": "2026-10-29T08:07:14+00:00",
+     "summary": "Taliban’s poppy ban falters as Afghan farmers say they can't feed their children Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Germany's Steinmeier says China must avoid one-sided benefits in economic ties - Reuters",
      "published": "2026-10-29T07:24:36+00:00",
      "summary": "Germany's Steinmeier says China must avoid one-sided benefits in economic ties Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "Hong Kong leader apologises for deadly Tai Po fire, pledges reforms - Reuters",
-     "published": "2026-10-29T07:19:28+00:00",
-     "summary": "Hong Kong leader apologises for deadly Tai Po fire, pledges reforms Reuters"
-    },
-    {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Volkswagen's Q3 loss widens to more than $6.5 billion, raising restructuring stakes - Reuters",
      "published": "2026-10-29T06:46:00+00:00",
      "summary": "Volkswagen's Q3 loss widens to more than $6.5 billion, raising restructuring stakes Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "South Korea says considering deployment options to Strait of Hormuz, including aircraft - Reuters",
      "published": "2026-10-29T06:45:00+00:00",
      "summary": "South Korea says considering deployment options to Strait of Hormuz, including aircraft Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
+     "title": "Morning Bid: In the AI alphabet, cash is king - Reuters",
+     "published": "2026-10-29T05:32:00+00:00",
+     "summary": "Morning Bid: In the AI alphabet, cash is king Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
      "title": "EXCLUSIVE: Bank of Korea board member says won moves faster than expected - Reuters",
      "published": "2026-10-29T04:33:00+00:00",
      "summary": "EXCLUSIVE: Bank of Korea board member says won moves faster than expected Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "Gold drops 1% as markets assess Fed signals, await US inflation data - Reuters",
      "published": "2026-10-29T04:25:00+00:00",
      "summary": "Gold drops 1% as markets assess Fed signals, await US inflation data Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say - Reuters",
      "published": "2026-10-29T04:20:00+00:00",
      "summary": "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "AI-related investment, consumers likely boosted US economic growth in third quarter - Reuters",
      "published": "2026-10-29T04:01:00+00:00",
      "summary": "AI-related investment, consumers likely boosted US economic growth in third quarter Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says - Reuters",
      "published": "2026-10-29T03:59:00+00:00",
      "summary": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters",
      "published": "2026-10-29T03:28:00+00:00",
      "summary": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "One injured in fire at South Carolina nuclear site; no contamination reported - Reuters",
      "published": "2026-10-29T02:30:00+00:00",
      "summary": "One injured in fire at South Carolina nuclear site; no contamination reported Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Asian shares wobble as Alphabet earnings miss drags Wall St futures lower - Reuters",
      "published": "2026-10-29T02:28:00+00:00",
      "summary": "Asian shares wobble as Alphabet earnings miss drags Wall St futures lower Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "El Salvador to send over 2,000 soldiers to Haiti for rescue while elections postponed - Reuters",
      "published": "2026-10-29T02:28:00+00:00",
      "summary": "El Salvador to send over 2,000 soldiers to Haiti for rescue while elections postponed Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters - Reuters",
      "published": "2026-10-29T02:24:00+00:00",
      "summary": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Reliance, IT lead Indian shares higher; Fed holds rates steady as expected - Reuters",
      "published": "2026-10-29T02:12:00+00:00",
      "summary": "Reliance, IT lead Indian shares higher; Fed holds rates steady as expected Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Euro steady before ECB decision, dollar holds ground as Fed stands pat - Reuters",
      "published": "2026-10-29T01:55:00+00:00",
      "summary": "Euro steady before ECB decision, dollar holds ground as Fed stands pat Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Australia's corporate regulator says talking to bankers over failed $5 billion Firmus IPO - Reuters",
      "published": "2026-10-29T01:00:00+00:00",
      "summary": "Australia's corporate regulator says talking to bankers over failed $5 billion Firmus IPO Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns - Reuters",
      "published": "2026-10-29T00:56:00+00:00",
      "summary": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Judge says Trump bid to set aside California ballots would ‘wreak havoc’ on democracy - Reuters",
      "published": "2026-10-29T00:44:00+00:00",
      "summary": "Judge says Trump bid to set aside California ballots would ‘wreak havoc’ on democracy Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "New Zealand central bank governor says chances of December hike are 'high' - Reuters",
      "published": "2026-10-29T00:22:00+00:00",
      "summary": "New Zealand central bank governor says chances of December hike are 'high' Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "UK vehicle production rises sharply in September against cyber-hit comparison - Reuters",
      "published": "2026-10-29T00:20:27+00:00",
      "summary": "UK vehicle production rises sharply in September against cyber-hit comparison Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says - Reuters",
      "published": "2026-10-28T23:58:00+00:00",
      "summary": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters",
      "published": "2026-10-28T23:53:34+00:00",
      "summary": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Cyberattack concealed political spending by big donors before US midterm elections - Reuters",
-     "published": "2026-10-28T23:43:42+00:00",
-     "summary": "Cyberattack concealed political spending by big donors before US midterm elections Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say - Reuters",
-     "published": "2026-10-28T23:01:00+00:00",
-     "summary": "EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say Reuters"
     }
    ]
   }
