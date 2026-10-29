@@ -25,141 +25,144 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   {
    "ref": "wikipedia#0",
    "year": 2013,
-   "text": "Members of the Turkistan Islamic Party drove a vehicle into a crowd in Tiananmen Square, Beijing, China, killing five people and injuring thirty-eight others.",
+   "text": "The first phase of the Marmaray project opened with an undersea rail tunnel (train pictured) across the Bosphorus strait.",
    "context": [
-    "The Turkistan Islamic Party (TIP) is an Islamic militant organisation founded in Pakistan by Hasan Mahsum, who relocated the organization to Afghanistan following anti-terror crackdowns by the Pakistani government. Its stated goal is to establish an Islamic state in Xinjiang, China, and throughout the rest of Central Asia."
+    "Marmaray or B1 Commuter Train is a 77-kilometre-long (48 mi) commuter rail line in Istanbul, Turkey. The line runs from Halkalı, on the European side, to Gebze, on the Asian side, along the north shore of the Sea of Marmara. Mostly using the right-of-way of two existing commuter rail lines, the Marmaray line linked the two lines via a tunnel under the Bosporus strait, becoming the first standard gauge rail connection between Europe and Asia. The two existing sections of the line were rebuilt and expanded from two tracks to three tracks, to allow for higher capacity with intercity and freight rail. The name Marmaray is a portmanteau of the words Marmara and Ray, which is Turkish for rail."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2007,
-   "text": "In the Argentine general election, Cristina Fernández de Kirchner became the first woman to be elected president of Argentina.",
+   "year": 2012,
+   "text": "Hurricane Sandy, the largest Atlantic hurricane on record, made landfall in New Jersey and caused nearly $75 billion in damages, becoming the second-most destructive storm in U.S. history.",
    "context": [
-    "General elections were held in Argentina on Sunday, 28 October 2007 to elect the president and members of the National Congress, while elections for provincial governors took place on staggered dates throughout the year. For the national elections, each of the 23 provinces and the Autonomous City of Buenos Aires are considered electoral districts. Voter turnout was 76.2%. Buenos Aires Province Senator and First Lady Cristina Fernández de Kirchner of the Front for Victory won the election by 45.28% of votes against Elisa Carrió of Civic Coalition ARI, making her the second female president of Argentina and the first female president to be directly elected. She broke the 40 percent barrier and won in the first round. Elisa Carrió won in the city of Buenos Aires and came second with more than 20 percent of the votes. Third was Roberto Lavagna, who won in Córdoba."
+    "Hurricane Sandy was an extremely large and devastating tropical cyclone which ravaged the Caribbean and the coastal Mid-Atlantic region of the United States in late October 2012. It was the largest Atlantic hurricane on record as measured by diameter, with tropical-storm-force winds spanning 1,150 miles (1,850 km). The storm inflicted nearly US$70 billion in damage, and killed 254 people in eight countries, from the Caribbean to Canada. The eighteenth named storm, tenth hurricane, and second major hurricane of the 2012 Atlantic hurricane season, Sandy was a Category 3 storm at its peak intensity when it made landfall in Cuba, though most of the damage it caused was after it became a Category 1–equivalent extratropical cyclone off the coast of the Northeastern United States."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1992,
-   "text": "Hans-Adam II threatened to dismiss the Landtag of Liechtenstein over disagreements on the date of a referendum for the country's accession to the EEA.",
+   "year": 2007,
+   "text": "Somali pirates hijacked a North Korean ship in the Indian Ocean northeast of Mogadishu.",
    "context": [
-    "Hans-Adam II is the Prince of Liechtenstein, reigning since 1989. As a member of the Liechtenstein princely family, he also holds the title of Duke of Troppau and Jägerndorf and Count of Rietberg."
+    "On the evening of 29 October 2007, seven Somali pirates hijacked the North Korean cargo ship MV Dai Hong Dan (Korean: 대홍단호) in the Indian Ocean, approximately 110 kilometres northeast of the Somali capital, Mogadishu. The Dai Hong Dan, with a crew of 22 sailors, had departed Mogadishu earlier that day after unloading a shipment of sugar with the help of locals, including the pirates. The pirates gained permission to board the ship under the pretense of being Somali security personnel. They subsequently confined the crew to the steering and engine rooms at gunpoint and demanded a ransom of US$15,000 for their release."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1971,
-   "text": "Prospero (flight spare pictured), the first British satellite launched on a British rocket, lifted off from Launch Area 5B in Woomera, South Australia.",
+   "year": 1999,
+   "text": "About 10,000 people died when the most intense tropical cyclone ever recorded in the North Indian Ocean made landfall in the Indian state of Odisha near Bhubaneswar.",
    "context": [
-    "The Prospero satellite, also known as the X-3, was launched by the United Kingdom in 1971. It was designed to undertake a series of experiments to study the effects of the space environment on communications satellites and remained operational until 1973, after which it was contacted annually for over 25 years. Although Prospero was the first British satellite to have been launched successfully by a British rocket, Black Arrow, the first British satellite placed in orbit was Ariel 1, launched in April 1962 on a US rocket."
+    "The 1999 Odisha cyclone was the most intense tropical cyclone ever recorded in the North Indian Ocean and among the most destructive in the region. The cyclone organized into a tropical depression in the Andaman Sea on 25 October, though its origins could be traced back to an area of convection in the Sulu Sea four days prior. The disturbance gradually strengthened as it took a west-northwesterly path, reaching cyclonic storm strength the next day. Aided by highly favorable conditions, the storm rapidly intensified, attaining super cyclonic storm intensity on 28 October, before peaking on the next day with winds of 260 km/h (160 mph) and a record-low pressure of 912 hPa mbar 26.93 inHg). The storm maintained this intensity as it made landfall on Odisha on 29 October. The cyclone steadily weakened due to persistent land interaction and dry air, remaining quasi-stationary for two days before slowly drifting offshore as a much weaker system; the storm dissipated on 4 November over the Bay of Bengal."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1965,
-   "text": "In St. Louis, Missouri, U.S., the 630-foot (190 m)-tall steel catenary Gateway Arch was completed.",
+   "year": 1998,
+   "text": "At 77 years old, former astronaut John Glenn (pictured) returned to space aboard the Space Shuttle Discovery on the STS-95 mission.",
    "context": [
-    "St. Louis is an independent city in the U.S. state of Missouri. It lies near the confluence of the Mississippi and the Missouri rivers. In 2020, the city proper had a population of 301,578, while its metropolitan area, which extends into Illinois, had an estimated population of over 2.8 million. It is the largest metropolitan area in Missouri and the second-largest in Illinois. The city's metropolitan statistical area is the 23rd-largest in the United States."
+    "John Herschel Glenn Jr. was an American Marine Corps aviator, astronaut, businessman, and politician. He was the third American in space and the first to orbit the Earth, circling it three times in 1962. Following his retirement from NASA, he served from 1974 to 1999 as a U.S. senator from Ohio. In 1998, he flew into space again at the age of 77."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1940,
-   "text": "World War II: Italy invaded Greece after Greek prime minister Ioannis Metaxas rejected Benito Mussolini's ultimatum demanding the cession of Greek territory.",
+   "year": 1991,
+   "text": "Galileo became the first spacecraft to visit an asteroid when it made a flyby of Gaspra.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "Galileo was an American robotic space probe that studied the planet Jupiter and its moons, as well as the asteroids Gaspra and Ida. Named after the Italian astronomer Galileo Galilei, it consisted of an orbiter and an entry probe. It was delivered into Earth orbit on October 18, 1989, by Space Shuttle Atlantis, during STS-34. Galileo arrived at Jupiter on December 7, 1995, after gravitational assist flybys of Venus and Earth, and became the first spacecraft to orbit an outer planet."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1928,
-   "text": "Indonesian composer Wage Rudolf Supratman introduced \"Indonesia Raya\", now the country's national anthem.",
+   "year": 1986,
+   "text": "British prime minister Margaret Thatcher officially opened the M25, one of Britain's busiest motorways.",
    "context": [
-    "Wage Rudolf Supratman was an Indonesian journalist and songwriter who wrote both the lyrics and melody of the national anthem of Indonesia, \"Indonesia Raya\". He is an Indonesian national hero."
+    "Margaret Hilda Thatcher, Baroness Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990 and Leader of the Conservative Party from 1975 to 1990. She was the longest-serving British prime minister of the 20th century and the first woman to hold the office. As prime minister, she implemented policies that came to be known as Thatcherism. A Soviet journalist dubbed her the \"Iron Lady\", a nickname that became associated with her uncompromising politics and leadership style."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1925,
-   "text": "The funerary mask of Tutankhamun, possibly originally made for Queen Neferneferuaten, was uncovered for the first time in approximately 3,250 years.",
+   "year": 1960,
+   "text": "A C-46 airliner carrying the Cal Poly Mustangs football team crashed during takeoff from Toledo Express Airport in Ohio, U.S., resulting in 22 deaths.",
    "context": [
-    "The mask of Tutankhamun is a gold funerary mask that belonged to Tutankhamun, who reigned over the New Kingdom of Egypt from 1332 BC to 1323 BC, during the Eighteenth Dynasty. After being buried with Tutankhamun's mummy for over 3,000 years, it was found in 1922 following the discovery of Tutankhamun's tomb three years earlier by the British archaeologist Howard Carter at the Valley of the Kings. It is on public display at the Grand Egyptian Museum in Cairo."
+    "The Curtiss C-46 Commando is a low-wing, twin-engine aircraft derived from the Curtiss CW-20 pressurized high-altitude airliner design. Early press reports used the name \"Condor III\" but the Commando name was in use by early 1942 in company publicity. It was used primarily as a cargo aircraft during World War II, with fold-down seating for military transport and some use in delivering paratroops. Mainly deployed by the United States Army Air Forces, it also served the U.S. Navy/Marine Corps, which called it R5C. The C-46 filled similar roles as its Douglas-built counterpart, the C-47 Skytrain, with some 3,200 C-46s produced to approximately 10,200 C-47s."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1919,
-   "text": "The U.S. Congress passed the Volstead Act over president Woodrow Wilson's veto, reinforcing Prohibition in the United States.",
+   "year": 1956,
+   "text": "The Suez Crisis began with Israel invading the Sinai Peninsula and pushing Egyptian forces back toward the Suez Canal.",
    "context": [
-    "The United States Congress is the legislative branch of the federal government of the United States. It is a bicameral legislature, including a lower body, the U.S. House of Representatives, and an upper body, the U.S. Senate. They both meet in the United States Capitol in Washington, D.C."
+    "The Suez Crisis, also known as the second Arab–Israeli war, the Tripartite Aggression in the Arab world and the Sinai War in Israel, was a British–French–Israeli invasion of Egypt in 1956. Israel invaded on 29 October, with the primary objective of re-opening the Straits of Tiran and the Gulf of Aqaba as the recent tightening of the eight-year-long Egyptian blockade prevented Israeli passage. After issuing a joint ultimatum for a ceasefire, the United Kingdom and France joined the Israelis on 31 October in an attempt to depose Egyptian president Gamal Abdel Nasser and regain control of the Suez Canal. The countries came under heavy political pressure from the United States, the Soviet Union and the United Nations, prompting their withdrawal from Egypt."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1886,
-   "text": "In New York Harbor, U.S. president Grover Cleveland dedicated the Statue of Liberty (pictured), a gift from France commemorating the Declaration of Independence.",
+   "year": 1956,
+   "text": "Suez Crisis: The Israel Border Police massacred 48 Arab citizens in Kafr Qasim, among them women and children who were returning from work.",
    "context": [
-    "New York Harbor is a tidal body of water forming the upper part of New York Bay within the New York–New Jersey Harbor Estuary. Located on the East Coast of the United States at the mouth of the Hudson River, it is connected to Long Island Sound by the East River, which despite its name is actually a tidal strait."
+    "The Suez Crisis, also known as the second Arab–Israeli war, the Tripartite Aggression in the Arab world and the Sinai War in Israel, was a British–French–Israeli invasion of Egypt in 1956. Israel invaded on 29 October, with the primary objective of re-opening the Straits of Tiran and the Gulf of Aqaba as the recent tightening of the eight-year-long Egyptian blockade prevented Israeli passage. After issuing a joint ultimatum for a ceasefire, the United Kingdom and France joined the Israelis on 31 October in an attempt to depose Egyptian president Gamal Abdel Nasser and regain control of the Suez Canal. The countries came under heavy political pressure from the United States, the Soviet Union and the United Nations, prompting their withdrawal from Egypt."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1835,
-   "text": "In the first major engagement of the Texas Revolution, the Texian Army repelled a Mexican attack at the grounds of Mission Concepcion south of Downtown San Antonio.",
+   "year": 1955,
+   "text": "An explosion, likely caused by a World War II–era naval mine, capsized the Soviet ship Novorossiysk in the harbor of Sevastopol, with the loss of 608 men.",
    "context": [
-    "The Texas Revolution was a rebellion by Anglo-American immigrants as well as Hispanic Texans against the centralist government of Mexico in the Mexican state of Coahuila y Tejas. Although the uprising was part of a larger revolt that included other provinces opposed to the regime of President Miguel Barragán and General Antonio López de Santa Anna, the Mexican government believed the United States had instigated the Texas insurrection with the goal of annexation. The Mexican Congress passed the Tornel Decree, declaring that any foreigners fighting against Mexican troops \"will be deemed pirates and dealt with as such, being citizens of no nation presently at war with the Republic and fighting under no recognized flag\". Only the province of Texas succeeded in breaking with Mexico, establishing the Republic of Texas. It was eventually annexed by the United States about a decade later."
+    "A naval mine or sea mine is a self-contained explosive weapon placed in water to damage or destroy surface ships or submarines. Similar to anti-personnel and other land mines, and unlike purpose-launched naval depth charges, they are deposited and left to wait until, depending on their fuzing, they are triggered by the approach of or contact with any vessel."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1776,
-   "text": "American Revolutionary War: As George Washington's Continental Army retreated northward from New York City, the British Army captured the village of White Plains.",
+   "year": 1948,
+   "text": "Arab–Israeli War: The Israel Defense Forces massacred at least 52 villagers while capturing the Palestinian Arab village of Safsaf.",
    "context": [
-    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
+    "The 1948 Arab–Israeli War, also known as the First Arab–Israeli War, followed the civil war in Mandatory Palestine as the second and final stage of the 1948 Palestine war. The civil war became a war of separate states with the Israeli Declaration of Independence on 14 May 1948, the end of the British Mandate for Palestine at midnight, and the entry of a military coalition of Arab states into the territory of Mandatory Palestine the following morning. The war formally ended with the 1949 Armistice Agreements which established the Green Line."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1707,
-   "text": "The Hōei earthquake ruptured all segments of the Nankai megathrust simultaneously – the only earthquake recorded to have done so.",
+   "year": 1883,
+   "text": "The San Francisco Mint signed a contract to produce the Kalākaua coinage (coin pictured) for the Hawaiian Kingdom.",
    "context": [
-    "The 1707 Hōei earthquake  struck south-central Japan at around 13:45 local time on 28 October 1707. It was the largest earthquake in Japanese history until it was surpassed by the 2011 Tōhoku earthquake. It caused moderate-to-severe damage throughout southwestern Honshu, Shikoku and southeastern Kyūshū. The earthquake, and the resulting destructive tsunami, caused more than 5,000 casualties. This event ruptured all of the segments of the Nankai megathrust simultaneously, the only earthquake known to have done this, with an estimated magnitude of 8.6 ML or 8.7 Mw. It possibly also triggered the last eruption of Mount Fuji 49 days later."
+    "The San Francisco Mint is a branch of the United States Mint. Located in San Francisco, California and opened in 1854 to serve the gold mines of the California gold rush, in twenty years its operations exceeded the capacity of the first building. It moved into a new one in 1874, now known as the Old San Francisco Mint. In 1937 Mint operations moved into a third building, the current one, completed that year. Since 1955, it has primarily produced coins for numismatic purposes, though has been occasionally used for circulating issues. Coins produced at the San Francisco Mint bear the \"S\" mint mark."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1664,
-   "text": "The Duke of York and Albany's Maritime Regiment of Foot, the forerunner to the Royal Marines, was established at the grounds of the Honourable Artillery Company in London.",
+   "year": 1868,
+   "text": "The Nanbu clan of Honshu surrendered to Japanese imperial forces during the Boshin War.",
    "context": [
-    "Duke of York is a title of nobility in the Peerage of the United Kingdom. Since the 15th century, it has, when granted, usually been given to the second son of English monarchs. The analogous title in the Scottish peerage was Duke of Albany."
+    "The Nanbu clan  was a Japanese samurai clan who ruled most of northeastern Honshū in the Tōhoku region of Japan for over 700 years, from the Kamakura period through the Meiji Restoration of 1868. The Nanbu claimed descent from the Seiwa Genji of Kai Province and were thus related to the Takeda clan. The clan moved its seat from Kai to Mutsu Province in the early Muromachi period, and were confirmed as daimyō of Morioka Domain under the Edo-period Tokugawa shogunate. The domain was in constant conflict with neighboring Hirosaki Domain, whose ruling Tsugaru clan were once Nanbu retainers."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1640,
-   "text": "The Treaty of Ripon was agreed, ending the Second Bishops' War and forcing Charles I to summon the Long Parliament, ultimately leading to the First English Civil War.",
+   "year": 1863,
+   "text": "American Civil War: The Battle of Wauhatchie, one of the few night battles of the war, concluded with the Union Army opening a supply line to troops in Chattanooga, Tennessee.",
    "context": [
-    "The Treaty of Ripon was a truce between Charles I, King of England, and the Covenanters, a Scottish political movement, which brought a cessation of hostilities to the Second Bishops' War."
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1453,
-   "text": "Ladislaus the Posthumous was crowned King of Bohemia, although George of Poděbrady remained in control of the government.",
+   "year": 1831,
+   "text": "Rioting broke out in Bristol, England, after the Second Reform Bill failed during its passage through Parliament, causing 250 casualties and £300,000 of damage (pictured).",
    "context": [
-    "Ladislaus the Posthumous, known as Ladislaus V, was Duke of Austria and King of Hungary, Croatia and Bohemia. He was the posthumous son of Albert II of Germany with Elizabeth of Luxembourg. Albert had bequeathed all his realms to his future son on his deathbed, but only the estates of Austria accepted his last will. Fearing an Ottoman invasion, the majority of the Hungarian lords and prelates offered the crown to Władysław III of Poland. The Hussite noblemen and towns of Bohemia did not acknowledge the hereditary right of Albert's descendants to the throne, but also did not elect a new king."
+    "The 1831 Bristol riots took place on 29–31 October 1831 and were part of the 1831 reform riots in England. The riots arose after the second Reform Bill was voted down in the House of Lords, stalling efforts at electoral reform. The arrival of the anti-reform judge Charles Wetherell in the city on 29 October led to a protest, which degenerated into a riot. The civic and military authorities were poorly focused and uncoordinated and lost control of the city. Order was restored on the third day by a combination of a posse comitatus of the city's middle-class citizens and military forces."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 312,
-   "text": "Civil wars of the Tetrarchy: Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge in Rome.",
+   "year": 1792,
+   "text": "William Robert Broughton, a member of George Vancouver's expedition, observed a peak in the present-day U.S. state of Oregon and named it Mount Hood after British admiral Samuel Hood.",
    "context": [
-    "The civil wars of the Tetrarchy were a series of conflicts between the co-emperors of the Roman Empire, starting from 306 AD with the usurpation of Maxentius and the defeat of Severus, and ending with the defeat of Licinius at the hands of Constantine I in 324 AD."
+    "William Robert Broughton was a British naval officer in the late 18th century. As a lieutenant in the Royal Navy, he commanded HMS Chatham as part of the Vancouver Expedition, a voyage of exploration through the Pacific Ocean led by Captain George Vancouver in the early 1790s."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Total addressable market / TAM (פוטנציאל שוק כולל)",
+  "Circular financing / circular deal (מימון מעגלי)",
+  "Paper tiger (נמר של ניר)",
   "Clawback (קלובק)",
   "In the black / in the red (ברווח / בגירעון)",
   "Eating someone's lunch (לאכול למישהו את הארוחה)",
