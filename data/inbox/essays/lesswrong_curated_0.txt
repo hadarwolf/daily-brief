@@ -126,6 +126,10 @@ What it mostly seems to do is throw sand in the gears, which, ok but doesn't rea
 
 Blocking any sort of test time t... (read more)
 
+So the plan is… only let academic institutions do capabilities research, but force them to do it in air-gapped facilities?
+
+This seems like a massive sacrifice and I'm not sure the safety benefits are that much given you still plan to mass-produce AIs and hand them de facto control of large chunks of the economy.
+
 This is one of the more lucid plans on ai safety and alignment, although in fairness it would have to involve massive amounts of civilisational cooperation- I would not necessarily put it past humanity's abilities (see transnational agreements on nuclear warheads and their proliferation). I think currently there is only possible path for the complete execution of plan R:
 
 So if one AI R&D org pulls ahead, inferior ASICs from other companies slow it down.
