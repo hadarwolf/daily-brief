@@ -29,6 +29,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-28T17:30:00Z",
+     "home": "Venezia FC",
+     "away": "Inter",
+     "status": "FINISHED",
+     "score": "0-2"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-10-28T17:30:00Z",
      "home": "Milan",
      "away": "Bologna",
      "status": "FINISHED",
@@ -41,14 +49,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Udinese",
      "status": "FINISHED",
      "score": "0-0"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-28T17:30:00Z",
-     "home": "Venezia FC",
-     "away": "Inter",
-     "status": "FINISHED",
-     "score": "0-2"
     },
     {
      "competition": "Serie A",
@@ -71,6 +71,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-28T22:30:00Z",
+     "home": "Bragantino",
+     "away": "Chapecoense",
+     "status": "FINISHED",
+     "score": "3-0"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-28T22:30:00Z",
      "home": "Fluminense",
      "away": "Internacional",
      "status": "FINISHED",
@@ -86,11 +94,11 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-28T22:30:00Z",
-     "home": "Bragantino",
-     "away": "Chapecoense",
+     "kickoff_utc": "2026-10-29T00:30:00Z",
+     "home": "Clube do Remo",
+     "away": "Botafogo",
      "status": "FINISHED",
-     "score": "3-0"
+     "score": "2-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -99,14 +107,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "São Paulo",
      "status": "FINISHED",
      "score": "3-2"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-29T00:30:00Z",
-     "home": "Clube do Remo",
-     "away": "Botafogo",
-     "status": "FINISHED",
-     "score": "2-1"
     },
     {
      "competition": "Serie A",
@@ -677,7 +677,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#10",
-     "title": "How unbeaten Chelsea are getting back to their best",
+     "title": "Chelsea 'weren't clicking' but now they're flying - so what changed?",
      "published": "2026-10-28T23:17:33+00:00",
      "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?"
     },
@@ -689,7 +689,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#12",
-     "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+     "title": "'He knows his role' - Man City penalty hero Rulli still Donnarumma deputy",
      "published": "2026-10-28T23:10:06+00:00",
      "summary": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one."
     },
@@ -773,45 +773,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw - Al Jazeera",
+     "published": "2026-10-29T09:12:52+00:00",
+     "summary": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw Al Jazeera"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "Inter Miami 2-2 FC Cincinnati: Filipi's late equaliser rescues a point for Messi and Co. - beIN SPORTS",
+     "published": "2026-10-29T08:55:26+00:00",
+     "summary": "Inter Miami 2-2 FC Cincinnati: Filipi's late equaliser rescues a point for Messi and Co. beIN SPORTS"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "Inter Miami rescue 2-2 draw against FC Cincinnati with late Fillipi goal - The Statesman",
      "published": "2026-10-29T08:26:00+00:00",
      "summary": "Inter Miami rescue 2-2 draw against FC Cincinnati with late Fillipi goal The Statesman"
     },
     {
-     "ref": "gnews_inter_miami#1",
-     "title": "Inter Miami CF - FC Cincinnati 1 - 1 | GOAL - Kenji Mboma Dem - OneFootball",
-     "published": "2026-10-29T06:33:45+00:00",
-     "summary": "Inter Miami CF - FC Cincinnati 1 - 1 | GOAL - Kenji Mboma Dem OneFootball"
+     "ref": "gnews_inter_miami#3",
+     "title": "Suarez scores, Messi frustrated and Casemiro steadies the back line as Inter Miami rescue 2-2 draw with Cincinnati - Goal.com",
+     "published": "2026-10-29T06:00:44+00:00",
+     "summary": "Suarez scores, Messi frustrated and Casemiro steadies the back line as Inter Miami rescue 2-2 draw with Cincinnati Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-10-29T05:18:05+00:00",
      "summary": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami vs FC Cincinnati - Matchday Album - FC Cincinnati",
      "published": "2026-10-29T04:09:55+00:00",
      "summary": "Inter Miami vs FC Cincinnati - Matchday Album FC Cincinnati"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Missing out on valuable points: Inter Miami nets late goal to tie FC Cincinnati 2-2 - WKRC",
-     "published": "2026-10-29T03:54:21+00:00",
-     "summary": "Missing out on valuable points: Inter Miami nets late goal to tie FC Cincinnati 2-2 WKRC"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis - ESPN",
      "published": "2026-10-29T03:52:47+00:00",
      "summary": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis ESPN"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
-     "title": "Messi is angry that Inter Miami dropped points again, leaving their place in the 2027 CONCACAF Champions Cup still uncertain. - Vietnam.vn",
-     "published": "2026-10-29T03:38:17+00:00",
-     "summary": "Messi is angry that Inter Miami dropped points again, leaving their place in the 2027 CONCACAF Champions Cup still uncertain. Vietnam.vn"
     },
     {
      "ref": "gnews_inter_miami#7",
@@ -821,105 +821,105 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#8",
-     "title": "Missing out on valuable points: Inter Miami nets late goal to tie FC Cincinnati 2-2 - WKRC",
-     "published": "2026-10-29T03:29:27+00:00",
-     "summary": "Missing out on valuable points: Inter Miami nets late goal to tie FC Cincinnati 2-2 WKRC"
-    },
-    {
-     "ref": "gnews_inter_miami#9",
      "title": "No goal for Messi as Inter Miami secures draw with FC Cincinnati in MLS - Sportstar",
      "published": "2026-10-29T03:16:34+00:00",
      "summary": "No goal for Messi as Inter Miami secures draw with FC Cincinnati in MLS Sportstar"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#9",
      "title": "RECAP | Inter Miami CF 2, FC Cincinnati 2 - FC Cincinnati",
      "published": "2026-10-29T03:11:59+00:00",
      "summary": "RECAP | Inter Miami CF 2, FC Cincinnati 2 FC Cincinnati"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#10",
      "title": "FC Cincinnati draws with Messi, Miami on goals by Mboma Dem, Gidi - Cincinnati Enquirer",
      "published": "2026-10-29T02:57:57+00:00",
      "summary": "FC Cincinnati draws with Messi, Miami on goals by Mboma Dem, Gidi Cincinnati Enquirer"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#11",
      "title": "MATCH RECAP: Inter Miami CF Draws Against FC Cincinnati - Inter Miami CF",
      "published": "2026-10-29T02:38:44+00:00",
      "summary": "MATCH RECAP: Inter Miami CF Draws Against FC Cincinnati Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#12",
      "title": "HIGHLIGHTS | Inter Miami CF vs. FC Cincinnati | October 28, 2026 - FC Cincinnati",
      "published": "2026-10-29T02:34:50+00:00",
      "summary": "HIGHLIGHTS | Inter Miami CF vs. FC Cincinnati | October 28, 2026 FC Cincinnati"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "Inter Miami nearly collapses, ties FC Cincinnati 2-2 thanks to equalizer in 90th minute - Yahoo Sports",
      "published": "2026-10-29T02:31:00+00:00",
      "summary": "Inter Miami nearly collapses, ties FC Cincinnati 2-2 thanks to equalizer in 90th minute Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi’s sweet interaction with a child wins over fans before Inter Miami match - MARCA",
      "published": "2026-10-29T02:31:00+00:00",
      "summary": "Messi’s sweet interaction with a child wins over fans before Inter Miami match MARCA"
     },
     {
-     "ref": "gnews_inter_miami#16",
-     "title": "Inter Miami stumble to draw against Cincinnati - Free Malaysia Today",
-     "published": "2026-10-29T02:19:16+00:00",
-     "summary": "Inter Miami stumble to draw against Cincinnati Free Malaysia Today"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 - WSVN",
      "published": "2026-10-29T02:04:08+00:00",
      "summary": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 WSVN"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#16",
      "title": "Inter Miami CF vs. FC Cincinnati - Game Highlights - ESPN",
      "published": "2026-10-29T02:00:38+00:00",
      "summary": "Inter Miami CF vs. FC Cincinnati - Game Highlights ESPN"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami CF - FC Cincinnati 2 - 2 | GOAL - Riquelme Fillipi, Major League Soccer - Forza Football",
      "published": "2026-10-29T01:59:19+00:00",
      "summary": "Inter Miami CF - FC Cincinnati 2 - 2 | GOAL - Riquelme Fillipi, Major League Soccer Forza Football"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#18",
      "title": "Highlights: Inter Miami CF 2-2 FC Cincinnati (MLS), Major League Soccer - Forza Football",
      "published": "2026-10-29T01:59:12+00:00",
      "summary": "Highlights: Inter Miami CF 2-2 FC Cincinnati (MLS), Major League Soccer Forza Football"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#19",
      "title": "Photo Gallery: Inter Miami vs. FC Cincinnati | Wednesday, Oct. 28, 2026 - Miami Herald",
      "published": "2026-10-29T01:58:25+00:00",
      "summary": "Photo Gallery: Inter Miami vs. FC Cincinnati | Wednesday, Oct. 28, 2026 Miami Herald"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami CF - FC Cincinnati 1 - 0 | GOAL - Luis Suárez, Major League Soccer - Forza Football",
      "published": "2026-10-29T01:58:00+00:00",
      "summary": "Inter Miami CF - FC Cincinnati 1 - 0 | GOAL - Luis Suárez, Major League Soccer Forza Football"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 - Times Union",
      "published": "2026-10-29T01:55:00+00:00",
      "summary": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 Times Union"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#22",
      "title": "HIGHLIGHTS: Inter Miami CF vs. FC Cincinnati | October 28, 2026 - MLSsoccer.com",
      "published": "2026-10-29T01:53:57+00:00",
      "summary": "HIGHLIGHTS: Inter Miami CF vs. FC Cincinnati | October 28, 2026 MLSsoccer.com"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
+     "title": "Inter Miami CF Draws FC Cincinnati 2-2 in Dramatic Late Comeback - WPLG Local 10",
+     "published": "2026-10-29T01:53:25+00:00",
+     "summary": "Inter Miami CF Draws FC Cincinnati 2-2 in Dramatic Late Comeback WPLG Local 10"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 - Toronto Star",
+     "published": "2026-10-29T01:52:21+00:00",
+     "summary": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 Toronto Star"
     }
    ]
   },
@@ -941,96 +941,84 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#2",
-     "title": "Famous Jewish NBA players and the stories behind their careers - Tuko News",
-     "published": "2026-10-28T15:33:31+00:00",
-     "summary": "Famous Jewish NBA players and the stories behind their careers Tuko News"
-    },
-    {
-     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA - The Straits Times",
      "published": "2026-10-28T10:24:00+00:00",
      "summary": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA The Straits Times"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija Scores 23 Points In Win Over Lakers - FanDuel",
      "published": "2026-10-28T09:41:12+00:00",
      "summary": "Deni Avdija Scores 23 Points In Win Over Lakers FanDuel"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#4",
      "title": "Trail Blazers' Deni Avdija: Logs team-high 23 points - CBS Sports",
      "published": "2026-10-28T09:41:00+00:00",
      "summary": "Trail Blazers' Deni Avdija: Logs team-high 23 points CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija News: Logs team-high 23 points - RotoWire",
      "published": "2026-10-28T09:33:34+00:00",
      "summary": "Deni Avdija News: Logs team-high 23 points RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#6",
      "title": "NBA: Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - GMA Network",
      "published": "2026-10-28T06:35:07+00:00",
      "summary": "NBA: Deni Avdija, Blazers prevail in battle of unbeatens against Lakers GMA Network"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - The Daily News | Texas' Oldest Newspaper",
      "published": "2026-10-28T06:24:06+00:00",
      "summary": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers The Daily News | Texas' Oldest Newspaper"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#8",
      "title": "Deni Avdija gets the hoop and the harm - ESPN",
      "published": "2026-10-28T06:17:23+00:00",
      "summary": "Deni Avdija gets the hoop and the harm ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#9",
      "title": "Ja Morant, Damian Lillard lead unbeaten Trail Blazers past Lakers 136-129 despite Luka Doncic's 41 - Bozeman Daily Chronicle",
      "published": "2026-10-28T06:09:49+00:00",
      "summary": "Ja Morant, Damian Lillard lead unbeaten Trail Blazers past Lakers 136-129 despite Luka Doncic's 41 Bozeman Daily Chronicle"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija dials from long distance, 10/27/2026 - Yahoo Sports",
      "published": "2026-10-28T06:09:11+00:00",
      "summary": "Deni Avdija dials from long distance, 10/27/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija gets the hoop and the harm - ESPN",
      "published": "2026-10-28T05:38:05+00:00",
      "summary": "Deni Avdija gets the hoop and the harm ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Brooklyn Nets send Israeli guard Ben Saraf to G League after limited NBA playing time - Ynetnews",
      "published": "2026-10-27T01:32:22+00:00",
      "summary": "Brooklyn Nets send Israeli guard Ben Saraf to G League after limited NBA playing time Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Ben Saraf game log — 2026-27 / NBA - BasketNews.com",
      "published": "2026-10-27T01:28:18+00:00",
      "summary": "Ben Saraf game log — 2026-27 / NBA BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#15",
-     "title": "r/u_MrBuckBuck on Reddit: Danny Wolf & Ben Saraf full FOOTAGE vs. Indiana Pacers last night (136-109 L) - Howl.Link",
-     "published": "2026-10-26T18:48:57+00:00",
-     "summary": "r/u_MrBuckBuck on Reddit: Danny Wolf & Ben Saraf full FOOTAGE vs. Indiana Pacers last night (136-109 L) Howl.Link"
-    },
-    {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#14",
      "title": "Nets' Ben Saraf: Sent to Long Island - CBS Sports",
      "published": "2026-10-26T15:14:04+00:00",
      "summary": "Nets' Ben Saraf: Sent to Long Island CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#15",
      "title": "Ben Saraf News: Sent to Long Island - RotoWire",
      "published": "2026-10-26T15:14:04+00:00",
      "summary": "Ben Saraf News: Sent to Long Island RotoWire"

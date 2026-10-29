@@ -283,15 +283,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#8",
-     "title": "How to overcome task paralysis",
-     "published": "2026-10-20T10:00:00+00:00",
-     "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
-    },
-    {
-     "ref": "psyche#9",
      "title": "Are you getting enough sun?",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
+    },
+    {
+     "ref": "psyche#9",
+     "title": "How to overcome task paralysis",
+     "published": "2026-10-20T10:00:00+00:00",
+     "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
     },
     {
      "ref": "psyche#10",
