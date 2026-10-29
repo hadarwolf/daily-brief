@@ -1,0 +1,101 @@
+{
+  "section": "business",
+  "date": "2026-10-29",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-29T03:53:46+00:00",
+  "stories": [
+    {
+      "id": "weil-gotshal-partnership-collapse",
+      "kind": "analysis",
+      "en": {
+        "headline": "Weil Gotshal's Collapse Is a Case Study in How Partnerships Die",
+        "scroll": "Weil Gotshal, the storied law firm that pioneered bankruptcy practice, is dissolving after partner defections and failed merger talks — proof that partnerships run on confidence, not assets.",
+        "coffee": "Weil Gotshal & Manges — a law firm nearly a century old, among the largest and most prestigious in the United States — told its partners this week that the firm should be dissolved. The decision follows a wave of high-profile partner departures and failed merger talks that left leadership, in the Wall Street Journal's words, with \"few options.\" Weil has hired AlixPartners, a restructuring advisory firm, to manage its own wind-down — notable because Weil itself helped pioneer the modern bankruptcy-law practice it is now exiting through.\n\nThe collapse illustrates a feature of partnership-model firms that differs sharply from ordinary corporations: the real asset is the partners themselves, not factories, patents or inventory. A top partner can leave overnight and take clients and billings along, so once a firm's standing starts to slip, departures tend to accelerate each other — the remaining partners, worried the compensation pool and client base are shrinking, have more reason to leave too. It is a confidence-driven unraveling, closer to a bank run than a slow market-share loss.\n\nWorth watching: which firms absorb Weil's partners and their client relationships, and whether rivals keep moving into the space — Sidley Austin has just hired a banker to lead a restructuring practice group, a rare cross-over that shows finance talent now competing directly for legal-industry turf.",
+        "deep": "Weil Gotshal & Manges spent nearly a century building a reputation as one of Wall Street's most storied law firms, with a restructuring and bankruptcy practice it is credited with helping to pioneer. This week, its leadership told partners the firm should be dissolved — one of the most dramatic implosions in the modern history of the legal industry, and a useful case study in how a very different kind of business — the professional-services partnership — can come apart far faster than a conventional company.\n\n## Background: What a Partnership Actually Owns\n\nA corporation's value usually sits in things a balance sheet can list: factories, patents, inventory, brand. A law firm partnership's value sits almost entirely in its people — their expertise, judgment, and above all their relationships with clients, often called a partner's \"book of business.\" Compensation in firms like Weil typically follows some version of a lockstep or origination-based system, where pay tracks seniority or the revenue a partner personally brings in. That structure makes a firm's reputation function like an economic moat: it is what lets the firm charge premium rates and attract the best junior lawyers. But it is an unusually fragile moat, because the asset generating it — the partner and the client relationship — can walk out the door with no warning, taking the moat along.\n\n## The Story: How Weil Unraveled\n\nAccording to this week's reporting, Weil suffered a series of high-profile partner defections and saw merger talks with another firm fail, leaving leadership with, in one account, \"few options.\" Leaders confirmed plans to dissolve the partnership and have hired AlixPartners — a restructuring advisory firm — to steer the wind-down. The detail carries its own irony: Weil built much of its modern prestige on bankruptcy and restructuring work, and the firm that \"pioneered bankruptcy law,\" as one headline put it, is now itself the subject of the kind of unwind it used to advise other companies through. Coverage also frames the firm as having \"lost its grip on the lucrative business of bankruptcy it helped create, squeezed by rising competition and industry changes.\"\n\n## Second-Order Effects: A Run, Not a Slide\n\nWhat makes this instructive is the mechanism, not just the outcome. In an ordinary company, losing market share is usually gradual — a competitor's better product slowly draws customers away, a process closer to commoditization, where having the same offering as everyone else stops being an advantage. A partnership can fail faster, through something closer to a bank run: confidence, not assets, is what's actually being withdrawn. Once a few senior partners leave — taking clients and revenue with them — the partners who remain start worrying that the shrinking firm means a shrinking compensation pool and a weaker platform to serve their own clients from. That worry gives them a reason to leave too, which confirms the worry for everyone else, and the decline that started with a handful of departures turns into a dissolution.\n\nThe effects spread beyond Weil itself. Rival firms gain an opening to absorb displaced partners and their client relationships in one move, rather than winning clients the slow way. There is already a related signal in this week's news: Sidley Austin, a competing firm, has hired a banker — a restructuring specialist — to lead one of its own practice groups, an unusual move for a banker rather than a lawyer to run a legal specialty. It suggests that finance professionals increasingly see restructuring and bankruptcy advisory as contestable territory, not a moat that belongs permanently to a handful of white-shoe law firms.\n\n## What to Watch Next\n\nThe things worth tracking from here are less about Weil itself, which is already winding down, and more about what the episode reveals. Watch which firms end up with Weil's bankruptcy and restructuring partners, since that will show where the specialty's client relationships actually land. Watch whether other large, storied firms show the same early symptoms — departures, failed merger talks — since a partnership's fragility is often invisible until it tips. And watch whether the boundary between legal advisory and financial advisory keeps blurring, as bankers like Sidley's new hire move into roles once reserved for lawyers, turning what used to be a stable professional hierarchy into a more competitive, cross-industry market for advisory talent."
+      },
+      "he": {
+        "headline": "קריסת ויל גוטשל: שיעור בכלכלה של שותפויות",
+        "scroll": "משרד עורכי הדין ויל גוטשל, בין הגדולים והיוקרתיים בארה\"ב ומהחברות שהניחו את היסוד לדיני חדלות פירעון, מתפרק בעקבות עזיבת שותפים בכירים ומיזוג שהתפוצץ - עדות לכך ששותפויות מתבססות על אמון ולא על נכסים.",
+        "coffee": "משרד עורכי הדין ויל גוטשל ומאנג'ס (Weil Gotshal & Manges) - כמעט מאה שנה בפעילות, ובין המשרדים הגדולים והיוקרתיים בארצות הברית - הודיע השבוע לשותפיו כי יש לפרק את המשרד. ההחלטה מגיעה בעקבות גל עזיבות של שותפים בכירים ומשא ומתן למיזוג שהתפוצץ, שהשאירו את ההנהלה, לפי הוול סטריט ג'ורנל, עם \"מעט מאוד אפשרויות\". ויל שכרה את AlixPartners, חברת ייעוץ לשיקום חברות (restructuring advisory), כדי לנהל את פירוקה - עניין טעון אירוניה, שכן ויל עצמה הייתה מהחברות שחוללו את תחום דיני חדלות הפירעון המודרני שממנו היא עצמה יוצאת כעת.\n\nהקריסה חושפת תכונה של עסקים מבוססי שותפות (partnership) שמבדילה אותם מחברות רגילות: הנכס האמיתי הוא השותפים עצמם, לא מפעלים, פטנטים או מלאי. שותף בכיר יכול לעזוב בן לילה ולקחת איתו לקוחות והכנסות, ולכן כשהמעמד של המשרד מתחיל להיסדק, עזיבות מאיצות זו את זו - שותפים שנותרים, שחוששים שבריכת התגמול ובסיס הלקוחות מתכווצים, מקבלים תמריץ נוסף לעזוב גם הם. זאת התפרקות מבוססת-אמון, שדומה יותר לריצה על הבנק (bank run) מאשר לאובדן נתח שוק הדרגתי.\n\nכדאי לעקוב אחרי מי יקלוט את השותפים של ויל ואת קשרי הלקוחות שלהם, ואם מתחרים ימשיכו לחדור לתחום - משרד סידלי אוסטין (Sidley Austin) גייס לאחרונה בנקאי שינהל קבוצת פרקטיקה לשיקום חברות, מעבר נדיר שמראה שאנשי פיננסים מתחרים כיום ישירות על שטח שהיה שייך למשרדי עורכי דין.",
+        "deep": "משרד עורכי הדין ויל גוטשל ומאנג'ס (Weil Gotshal & Manges) בנה במשך כמעט מאה שנה מוניטין כאחד ממשרדי עורכי הדין הנחשבים בוול סטריט, עם פרקטיקת שיקום וחדלות פירעון (restructuring and bankruptcy) שהוא נחשב לאחד היוצרים שלה. השבוע הודיעה הנהלת המשרד לשותפים כי יש לפרק אותו - אחת הקריסות הדרמטיות ביותר בתולדות ענף עריכת הדין בעשורים האחרונים, ומקרה מבחן שימושי להבנת סוג עסקי שונה מאוד מחברה רגילה: שותפות של אנשי מקצוע (professional-services partnership), שיכולה להתפרק הרבה יותר מהר מחברה קונבנציונלית.\n\n## רקע: מה בעצם שייך לשותפות\n\nהערך של חברה רגילה נמצא בדרך כלל בדברים שאפשר לרשום במאזן: מפעלים, פטנטים, מלאי, מותג. הערך של שותפות עורכי דין נמצא כמעט כולו באנשים - בידע שלהם, בשיקול הדעת שלהם, ומעל הכול בקשרים שלהם עם לקוחות, מה שבענף מכונה \"תיק הלקוחות\" של השותף. התגמול במשרדים כמו ויל פועל לרוב לפי מודל של תגמול לוקסטפ (lockstep compensation) או תגמול לפי ההכנסה שהשותף עצמו מביא. המבנה הזה גורם למוניטין של המשרד לתפקד כמעין חפיר כלכלי (economic moat): הוא מה שמאפשר למשרד לגבות תעריפים גבוהים ולמשוך את עורכי הדין הצעירים הטובים ביותר. אבל זהו חפיר שברירי במיוחד, כי הנכס שמייצר אותו - השותף והקשר עם הלקוח - יכול לצאת בדלת בלי התראה, ולקחת את החפיר איתו.\n\n## הסיפור: איך ויל התפרקה\n\nלפי הדיווחים השבוע, ויל ספגה סבב עזיבות של שותפים בכירים וראתה משא ומתן למיזוג עם משרד אחר מתפוצץ, מה שהשאיר את ההנהלה, לפי אחד הדיווחים, עם \"מעט מאוד אפשרויות\". ההנהלה אישרה תוכנית לפרק את השותפות ושכרה את AlixPartners - חברת ייעוץ לשיקום חברות - כדי להוביל את הפירוק. בפרט הזה יש אירוניה: ויל בנתה חלק גדול מהיוקרה שלה על עבודת חדלות פירעון ושיקום, והמשרד ש\"חולל את דיני חדלות הפירעון\", כפי שנכתב באחת הכתבות, הוא עצמו כעת הנושא של אותו סוג פירוק שבו היה מייעץ לאחרים בעבר. דיווחים נוספים מתארים את המשרד כמי ש\"איבד את האחיזה בעסק הרווחי של חדלות פירעון שהוא עצמו עזר ליצור, בלחץ של תחרות גוברת ושינויים בענף\".\n\n## השפעות מסדר שני: ריצה, לא שקיעה הדרגתית\n\nמה שהופך את המקרה למלמד הוא המכניזם, לא רק התוצאה. בחברה רגילה, אובדן נתח שוק הוא בדרך כלל הדרגתי - מתחרה עם מוצר טוב יותר סוחף אליו לקוחות לאט, תהליך שקרוב יותר למסחור (commoditization), שבו מוצר זהה למתחרים מפסיק להיות יתרון. שותפות יכולה לקרוס הרבה יותר מהר, במנגנון שקרוב יותר לריצה על הבנק (bank run): מה שנמשך בפועל הוא אמון, לא נכסים. כשכמה שותפים בכירים עוזבים - ולוקחים איתם לקוחות והכנסות - השותפים שנותרים מתחילים לחשוש שמשרד מתכווץ פירושו בריכת תגמול מתכווצת ובסיס חלש יותר לשרת ממנו את הלקוחות שלהם. החשש הזה נותן להם סיבה לעזוב גם הם, מה שמאשש את החשש לכל השאר, וכך עזיבה של כמה שותפים הופכת לפירוק.\n\nההשפעות חוצות את גבולות ויל עצמה. משרדים מתחרים מקבלים הזדמנות לקלוט שותפים עקורים ואת קשרי הלקוחות שלהם בבת אחת, במקום לכבוש לקוחות בדרך האיטית. יש לכך סימן קשור בחדשות השבוע: משרד סידלי אוסטין (Sidley Austin), מתחרה, גייס בנקאי - מומחה שיקום חברות - לנהל אחת מקבוצות הפרקטיקה שלו, מעבר חריג שבו בנקאי ולא עורך דין עומד בראש תחום משפטי. זה מרמז שאנשי פיננסים תופסים יותר ויותר את תחום השיקום וחדלות הפירעון כשטח שאפשר לכבוש, לא כחפיר ששייך לנצח לקבוצה מצומצמת של משרדי עורכי דין יוקרתיים.\n\n## מה לעקוב אחריו\n\nמכאן, מה שכדאי לעקוב אחריו נוגע פחות לויל עצמה, שכבר בתהליך פירוק, ויותר למה שהפרשה חושפת. לעקוב אחרי מי יקלוט את שותפי חדלות הפירעון והשיקום של ויל, כי זה יראה לאן בפועל נודדים קשרי הלקוחות של התחום. לעקוב אם משרדים יוקרתיים אחרים מגלים תסמינים מוקדמים דומים - עזיבות, מיזוגים שמתפוצצים - כי השבריריות של שותפות נשארת לרוב בלתי נראית עד שהיא מתהפכת. ולעקוב אם הגבול בין ייעוץ משפטי לייעוץ פיננסי ממשיך להיטשטש, כשבנקאים כמו זה שגייסה סידלי נכנסים לתפקידים ששמורים היו בעבר לעורכי דין, וממירים היררכיה מקצועית שהייתה פעם יציבה לשוק תחרותי וחוצה-ענפים של טאלנט ייעוץ."
+      },
+      "tags": [
+        "law-firms",
+        "partnerships",
+        "restructuring",
+        "human-capital"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Weil leadership tells partners firm should be dissolved",
+          "url": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Law firm Sidley Austin hires banker to lead practice group in Wall Street rarity",
+          "url": "https://www.ft.com/content/84da55e7-f544-4c80-81fc-02fa166454fa?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Weil Gotshal Taps AlixPartners to Steer Wind-Down",
+          "url": "https://www.wsj.com/pro/bankruptcy/weil-gotshal-taps-alixpartners-to-steer-wind-down-c51b561f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Weil Gotshal Says It Is Shutting Its Doors",
+          "url": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
+          "url": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Firm That Pioneered Bankruptcy Law Is Winding Down Itself",
+          "url": "https://www.wsj.com/pro/bankruptcy/the-firm-that-pioneered-bankruptcy-law-is-on-the-brink-itself-837a39a4?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4130.3599,
+      "prev_close": 4206.3501,
+      "change_pct": -1.81,
+      "as_of": "2026-10-28"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7743.98,
+      "prev_close": 7722.6001,
+      "change_pct": 0.28,
+      "as_of": "2026-10-28"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.117,
+      "prev_close": 3.0226,
+      "change_pct": 3.12,
+      "as_of": "2026-10-29"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 110.23,
+      "prev_close": 113.88,
+      "change_pct": -3.21,
+      "as_of": "2026-10-28"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 79740.8281,
+      "prev_close": 80805.0781,
+      "change_pct": -1.32,
+      "as_of": "2026-10-29"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-29",
+  "questions": [
+    {
+      "id": "q-election-ballots",
+      "section": "israeli_politics",
+      "story_id": "election-knife-edge",
+      "answer_index": 1,
+      "en": {
+        "question": "As of Wednesday night, what votes were still being counted that could still shift Israel's final election seat tally?",
+        "options": [
+          "Exit-poll recounts",
+          "Double-envelope ballots from soldiers, hospital patients, prisoners and Israelis abroad",
+          "A recount ordered by the Supreme Court",
+          "Postal ballots from foreign election observers"
+        ],
+        "explanation": "Double-envelope ballots are opened last to verify each voter's identity, and their count, underway overnight, could still move the final seat numbers."
+      },
+      "he": {
+        "question": "למצב שעמד ביום רביעי בלילה, אילו קולות עדיין נספרו ועלולים לשנות את מספר המנדטים הסופי בבחירות לישראל?",
+        "options": [
+          "ספירה חוזרת של סקרי יציאה",
+          "מעטפות כפולות של חיילים, מאושפזים, אסירים וישראלים בחו\"ל",
+          "ספירה חוזרת שהורה עליה בית המשפט העליון",
+          "קולות בדואר ממשקיפי בחירות מחו\"ל"
+        ],
+        "explanation": "מעטפות כפולות נפתחות אחרונות כדי לאמת את זהות המצביע, וספירתן, שהחלה בלילה, עדיין יכולה לשנות את מספרי המנדטים הסופיים."
+      }
+    },
+    {
+      "id": "q-weil-gotshal-dynamic",
+      "section": "business",
+      "story_id": "weil-gotshal-partnership-collapse",
+      "answer_index": 1,
+      "en": {
+        "question": "Why did partner departures at Weil Gotshal tend to accelerate each other, according to the brief?",
+        "options": [
+          "The firm's software and office costs rose with every departure",
+          "In a partnership, the partners themselves are the real asset, so a few exits make the rest fear a shrinking client base and pay pool, pushing more to leave — closer to a bank run than a slow loss of market share",
+          "Regulators fined the firm for each partner who left",
+          "Clients were contractually required to follow whichever partner left first"
+        ],
+        "explanation": "A partnership's core asset is its people, not fixed assets, so once confidence slips, departures can snowball the way depositors fleeing a bank do."
+      },
+      "he": {
+        "question": "לפי הכתבה, מדוע עזיבות השותפים בוויל גוטשל האיצו זו את זו?",
+        "options": [
+          "עלויות התוכנה והמשרדים של המשרד עלו עם כל עזיבה",
+          "בשותפות, השותפים עצמם הם הנכס האמיתי, כך שכמה עזיבות מגבירות את החשש של הנותרים מהתכווצות בסיס הלקוחות ובריכת התגמול, ומניעות עוד עזיבות — תהליך שדומה יותר לריצה על הבנק מאשר לאובדן נתח שוק הדרגתי",
+          "הרגולטורים קנסו את המשרד על כל שותף שעזב",
+          "לקוחות היו מחויבים חוזית לעקוב אחרי השותף הראשון שעזב"
+        ],
+        "explanation": "הנכס המרכזי של שותפות הוא האנשים שבה ולא נכסים קבועים, כך שכשהאמון מתחיל להיסדק, העזיבות יכולות להיגרר זו בזו כמו ריצה על הבנק."
+      }
+    },
+    {
+      "id": "q-price-elasticity-driver",
+      "section": "learn",
+      "story_id": "concept-price-elasticity",
+      "answer_index": 2,
+      "en": {
+        "question": "What mainly determines whether demand for a product is elastic or inelastic, according to the brief?",
+        "options": [
+          "Whether the product is sold online or in physical stores",
+          "The size of the company selling it",
+          "Whether easy substitutes exist for customers to switch to",
+          "How often the price was last changed"
+        ],
+        "explanation": "Elasticity depends mostly on whether substitutes exist: few substitutes means inelastic demand, easy substitutes mean elastic demand."
+      },
+      "he": {
+        "question": "לפי הכתבה, מה קובע בעיקר אם הביקוש למוצר הוא אלסטי או לא-אלסטי?",
+        "options": [
+          "אם המוצר נמכר באינטרנט או בחנויות פיזיות",
+          "גודל החברה שמוכרת אותו",
+          "אם קיימים תחליפים נגישים שלקוחות יכולים לעבור אליהם",
+          "באיזו תדירות שונה המחיר לאחרונה"
+        ],
+        "explanation": "האלסטיות תלויה בעיקר בקיום תחליפים: מעט תחליפים משמעו ביקוש לא-אלסטי, ותחליפים נגישים משמעם ביקוש אלסטי."
+      }
+    }
+  ]
+}

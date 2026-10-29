@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-10-29",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-29T03:53:46+00:00",
+  "stories": [
+    {
+      "id": "word-jawboning",
+      "kind": "word",
+      "en": {
+        "headline": "Jawboning (שידול מילולי)",
+        "scroll": "Jawboning is when a central banker or executive talks markets into moving in the desired direction, instead of changing policy or spending money to do it.",
+        "coffee": "Jawboning means using words, not action, to move a market. A Fed chair who warns that inflation 'remains too high' without actually raising rates is jawboning: hoping the warning alone cools spending. Companies do it too, talking up demand on earnings calls to support the stock price.\n\nIt's cheap and reversible, but it only works as long as people believe the talker could, in fact, act. Example: 'Traders shrugged off another round of jawboning from the central bank and kept buying stocks, betting the rhetoric wouldn't be backed by an actual rate hike.'",
+        "deep": "Jawboning is central-bank and corporate-speak for influencing behavior through public statements rather than through real policy moves or spending. The term comes from 'jaw' as a stand-in for talking: using your jaw instead of your wallet. It's most associated with monetary policy — a central banker hints that rates 'could rise further' to cool an overheating market without actually lifting them — but executives, regulators and even presidents jawbone too, commenting on currency levels or stock prices to nudge them.\n\nThe common confusion is with 'forward guidance,' jawboning's more formal cousin: guidance is an official, structured signal about future policy, while jawboning is looser, often improvised, and sometimes used precisely because the institution doesn't want to commit to anything yet.\n\nMore examples: 'The president's jawboning about tariffs moved currency markets more than any actual trade order.' 'Oil ministers have jawboned prices higher simply by hinting at production cuts.'\n\nHebrew term: שידול מילולי — פעולה באמצעות דיבור והכרזות ולא באמצעות מדיניות או כסף בפועל."
+      },
+      "he": {
+        "headline": "שידול מילולי (Jawboning)",
+        "scroll": "שידול מילולי הוא כשבנקאי מרכזי או מנהל מדבר את השוק לכיוון הרצוי, בלי לשנות בפועל מדיניות או להוציא כסף.",
+        "coffee": "שידול מילולי הוא השפעה על השוק באמצעות מילים ולא מעשים. כשיו\"ר הפד מזהיר שהאינפלציה 'עדיין גבוהה מדי' בלי להעלות את הריבית בפועל, הוא משדל במילים — בתקווה שהאזהרה עצמה תצנן את ההוצאות. גם חברות עושות את זה, כשהן מנפחות את הביקוש בשיחות הדוחות כדי לתמוך במחיר המניה.\n\nזו טקטיקה זולה והפיכה, אבל היא עובדת רק כל עוד השוק מאמין שהמדבר באמת יכול לפעול אם יצטרך. לדוגמה: 'הסוחרים התעלמו מסיבוב נוסף של שידול מילולי מהבנק המרכזי והמשיכו לקנות מניות, בהנחה שהרטוריקה לא תגובה בהעלאת ריבית ממשית.'",
+        "deep": "שידול מילולי הוא הכינוי לניסיון של בנקים מרכזיים וחברות להשפיע על התנהגות השוק באמצעות הצהרות פומביות, ולא באמצעות מדיניות או הוצאה בפועל. השם באנגלית (jawboning) מגיע מהמילה jaw — לסת — ככינוי לדיבור: להשתמש בלסת במקום בכיס. הביטוי נפוץ בעיקר בהקשר של מדיניות מוניטרית — בנקאי מרכזי מרמז ש'הריבית עוד עלולה לעלות' כדי לצנן שוק מתחמם, בלי להעלות אותה בפועל — אבל גם מנהלים, רגולטורים ואפילו נשיאים משתמשים בטקטיקה הזו, כשהם מתבטאים על שערי מטבע או מחירי מניות כדי להזיז אותם.\n\nהבלבול הנפוץ הוא עם 'הכוונה קדימה' (forward guidance), קרובת המשפחה הרשמית יותר של השידול המילולי: הכוונה קדימה היא אות רשמי ומובנה לגבי מדיניות עתידית, בעוד ששידול מילולי רפוי יותר, לעיתים אימפרוביזציה, ומשמש בדיוק כשהמוסד לא רוצה להתחייב לכלום עדיין.\n\nעוד דוגמאות: 'השידול המילולי של הנשיא בנושא המכסים הזיז את שוקי המטבעות יותר מכל צעד סחר ממשי.' 'שרי נפט העלו מחירים רק באמצעות רמיזה על קיצוץ בייצור.'\n\nהמונח בעברית: שידול מילולי — פעולה באמצעות דיבור והכרזות ולא באמצעות מדיניות או כסף בפועל."
+      },
+      "tags": [
+        "vocabulary",
+        "monetary-policy",
+        "central-banks",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-stalking-horse-bid",
+      "kind": "word",
+      "en": {
+        "headline": "Stalking-horse bid (הצעת פתיחה מוקדמת)",
+        "scroll": "A stalking-horse bid is a pre-arranged first offer for a bankrupt company's assets, set deliberately to establish a floor and draw in better bids.",
+        "coffee": "In a bankruptcy sale, the seller often lines up one bidder in advance to make an initial offer — the stalking horse. That bid becomes the floor: anyone else who wants the assets has to beat it, usually by a minimum increment, in a court-supervised auction.\n\nThe stalking horse isn't trying to be generous; it's there to stop the auction from opening too low and to prove serious interest exists. Example: 'The retailer's advisors lined up a private equity firm as the stalking-horse bidder, setting a $200 million floor before opening the assets to a full auction.'",
+        "deep": "A stalking-horse bid shows up almost exclusively in distressed M&A and bankruptcy proceedings (Chapter 11 in the U.S. or equivalent). The seller, usually under court supervision, pre-negotiates a floor price and terms with one buyer before the auction opens to the wider market. That buyer gets protections in return for going first — typically a 'breakup fee' (often 2-3% of the deal) if it's outbid, plus reimbursement of its due-diligence costs.\n\nThe common confusion is treating a stalking-horse bid as a lowball offer or a sign the assets are cheap. It's the opposite: a credible stalking horse signals the assets have real value and invites competition, which usually pushes the final price well above the opening number.\n\nMore examples: 'The stalking-horse agreement included a $4 million breakup fee if a higher bid won the auction.' 'Creditors pushed back on the proposed stalking-horse bid, arguing the floor price was set too low.'\n\nHebrew term: הצעת פתיחה מוקדמת (או 'הצעת סוס-פיתיון') — הצעה ראשונית שנקבעת מראש כדי לקבוע רצפת מחיר במכירה של חברה בפירוק."
+      },
+      "he": {
+        "headline": "הצעת פתיחה מוקדמת (Stalking-horse bid)",
+        "scroll": "הצעת פתיחה מוקדמת היא הצעה שנקבעת מראש לנכסי חברה בפירוק, במחיר נמוך בכוונה, כדי לקבוע רצפת מחיר ולמשוך הצעות טובות יותר.",
+        "coffee": "במכירה של חברה בפשיטת רגל, המוכר לרוב מסדר מראש קונה אחד שיגיש הצעה ראשונית — 'הצעת הפתיחה'. ההצעה הזו הופכת לרצפה: כל מי שרוצה את הנכסים צריך להכות אותה, בדרך כלל בתוספת מינימלית, במכירה פומבית בפיקוח בית משפט.\n\nהקונה הראשון לא מנסה להיות נדיב — התפקיד שלו הוא למנוע שהמכירה תיפתח במחיר נמוך מדי, ולהראות שיש עניין אמיתי בנכסים. לדוגמה: 'היועצים של הרשת הקימעונאית סידרו קרן פרייבט אקוויטי כמציעת הפתיחה, וקבעו רצפה של 200 מיליון דולר לפני שפתחו את הנכסים למכירה פומבית מלאה.'",
+        "deep": "הצעת פתיחה מוקדמת (stalking-horse bid) מופיעה בעיקר בעסקאות רכישה של חברות במצוקה ובהליכי פירוק (Chapter 11 בארצות הברית או מקביליו). המוכר, בפיקוח בית משפט בדרך כלל, מסכם מראש עם קונה אחד על מחיר רצפה ותנאים, לפני שהמכירה נפתחת לשוק הרחב. בתמורה לכך שהוא 'פותח' את התהליך, הקונה הזה מקבל הגנות — בעיקר 'עמלת פרידה' (breakup fee, לרוב 2-3% מהעסקה) אם מישהו אחר יציע יותר, בתוספת כיסוי עלויות הבדיקה שהוא ביצע.\n\nהבלבול הנפוץ הוא לחשוב שהצעת פתיחה היא הצעה באיכות נמוכה או סימן שהנכסים גרועים. למעשה זה ההפך: הצעת פתיחה אמינה מראה שיש לנכסים ערך אמיתי, ומזמינה תחרות — מה שבדרך כלל דוחף את המחיר הסופי הרבה מעל נקודת הפתיחה.\n\nעוד דוגמאות: 'הסכם הפתיחה כלל עמלת פרידה של 4 מיליון דולר אם הצעה גבוהה יותר תזכה במכירה.' 'נושים התנגדו להצעת הפתיחה המוצעת, בטענה שהרצפה נקבעה נמוך מדי.'\n\nהמונח בעברית: הצעת פתיחה מוקדמת (או 'הצעת סוס-פיתיון') — הצעה ראשונית שנקבעת מראש כדי לקבוע רצפת מחיר במכירה של חברה בפירוק."
+      },
+      "tags": [
+        "vocabulary",
+        "m-and-a",
+        "bankruptcy",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-spaghetti-on-the-wall",
+      "kind": "word",
+      "en": {
+        "headline": "Throwing spaghetti at the wall (לזרוק ספגטי על הקיר)",
+        "scroll": "Throwing spaghetti at the wall means trying many different approaches at once, with no clear strategy, to see which one sticks.",
+        "coffee": "The image is literal: throw enough strands of cooked spaghetti at a wall and a few will stick. In business it describes launching several products, campaigns or features in parallel without a clear hypothesis, hoping something works rather than testing one idea rigorously.\n\nIt's usually used critically, implying a lack of focus or discipline. Example: 'Instead of validating one use case first, the startup threw spaghetti at the wall, shipping five features in a month to see which one users actually wanted.'",
+        "deep": "Throwing spaghetti at the wall describes, almost always critically, a scattershot approach: trying lots of things simultaneously instead of forming a hypothesis and testing it properly. It shows up in product strategy ('the team threw spaghetti at the wall with feature ideas instead of talking to customers first'), in marketing ('they threw spaghetti at the wall across five ad channels and still couldn't say which one drove sales'), and even in fundraising pitches that chase every trend at once.\n\nThe common confusion is with legitimate rapid experimentation, such as A/B testing or an agile sprint. The difference is intent and measurement: real experimentation has a hypothesis and a way to read the result; spaghetti-throwing just hopes something sticks and often can't explain afterward why it worked.\n\nMore examples: 'The board accused management of throwing spaghetti at the wall rather than committing to one roadmap.' 'After throwing spaghetti at the wall for two quarters, the company finally doubled down on the one product that showed real traction.'\n\nHebrew term: לזרוק ספגטי על הקיר — לנסות הרבה דברים בבת אחת, בלי אסטרטגיה ברורה, ולראות מה 'נדבק' ועובד."
+      },
+      "he": {
+        "headline": "לזרוק ספגטי על הקיר (Throwing spaghetti at the wall)",
+        "scroll": "לזרוק ספגטי על הקיר פירושו לנסות כמה גישות בבת אחת, בלי אסטרטגיה ברורה, כדי לראות מה מצליח.",
+        "coffee": "התמונה היא ממש מילולית: זורקים על הקיר כמה חוטי ספגטי מבושלים, וכמה מהם יידבקו. בעסקים משתמשים בביטוי לתיאור השקת כמה מוצרים, קמפיינים או פיצ'רים במקביל בלי הנחת יסוד ברורה, בתקווה שמשהו יעבוד במקום לבדוק רעיון אחד בצורה שיטתית.\n\nהביטוי נפוץ בטון שלילי בדרך כלל, כרמז לחוסר מיקוד ומשמעת. לדוגמה: 'במקום לבדוק מקרה שימוש אחד לפני הכול, הסטארט-אפ זרק ספגטי על הקיר והשיק חמישה פיצ'רים בחודש אחד כדי לראות מה המשתמשים בעצם רצו.'",
+        "deep": "לזרוק ספגטי על הקיר הוא ביטוי שמתאר, כמעט תמיד בטון שלילי, גישה מפוזרת: לנסות הרבה דברים במקביל במקום לגבש הנחת יסוד ולבדוק אותה בצורה מסודרת. הביטוי מופיע באסטרטגיית מוצר ('הצוות זרק ספגטי על הקיר עם רעיונות לפיצ'רים במקום לדבר עם לקוחות קודם'), בשיווק ('הם זרקו ספגטי על הקיר בחמישה ערוצי פרסום במקביל ועדיין לא הצליחו להסביר מה בעצם הביא מכירות'), ואפילו בפיצ'ים לגיוס הון שרודפים אחרי כל טרנד בבת אחת.\n\nהבלבול הנפוץ הוא עם ניסוי מהיר ולגיטימי, כמו A/B טסטינג או ספרינט אג'ילי. ההבדל הוא בכוונה ובמדידה: לניסוי אמיתי יש הנחת יסוד ודרך לקרוא את התוצאה; זריקת ספגטי רק מקווה שמשהו יידבק, ולרוב אי אפשר להסביר אחר כך למה זה עבד.\n\nעוד דוגמאות: 'הדירקטוריון האשים את ההנהלה שהיא זורקת ספגטי על הקיר במקום להתחייב למפת דרכים אחת.' 'אחרי שזרקה ספגטי על הקיר במשך שני רבעונים, החברה סוף סוף הכפילה מאמצים במוצר האחד שהראה אחיזה אמיתית בשוק.'\n\nהמונח בעברית: לזרוק ספגטי על הקיר — לנסות הרבה דברים בבת אחת, בלי אסטרטגיה ברורה, ולראות מה 'נדבק' ועובד."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "product-strategy",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-price-elasticity",
+      "kind": "concept",
+      "en": {
+        "headline": "Price elasticity of demand",
+        "scroll": "Price elasticity of demand measures how much quantity demanded changes when price changes — it's the difference between a price hike that boosts revenue and one that backfires.",
+        "coffee": "Price elasticity of demand asks a simple question: if you raise the price by 1%, how many customers walk away? If demand is 'inelastic,' very few do, and the price increase adds more revenue than it loses. If demand is 'elastic,' a small price change sends a lot of customers elsewhere, and revenue falls even though the price per unit rose.\n\nElasticity depends mostly on whether substitutes exist. Insulin and gasoline tend to be inelastic — people need them and can't easily switch, so sellers can raise prices without losing many customers. Restaurant meals and leisure flights tend to be elastic — there are easy substitutes (cook at home, fly a different week), so a price increase pushes demand down sharply.\n\nThis is why a streaming service can raise subscription prices gradually and still grow revenue, while a corner coffee shop raising prices 20% might lose a third of its customers to the shop next door. What to watch: companies with real pricing power usually have a moat — a brand, a habit, or a lack of alternatives — that makes demand inelastic.",
+        "deep": "## The idea\n\nPrice elasticity of demand measures the sensitivity of quantity demanded to a change in price. The formula is simple: elasticity = (% change in quantity demanded) / (% change in price). If the result is greater than 1 in absolute value, demand is 'elastic' — quantity reacts more than price does. If it's less than 1, demand is 'inelastic' — quantity barely moves.\n\n## Why it matters for a business\n\nElasticity tells a company whether raising prices will increase or decrease total revenue (price × quantity). This is the single most important number behind every pricing decision, yet it's invisible until you measure it — which is why companies run price tests rather than guessing.\n\n## A worked example\n\nSay a streaming service has 100 million subscribers at $10/month, for $1 billion in monthly revenue. It raises the price to $11/month, a 10% increase.\n\n- If only 4% of subscribers cancel (96 million remain), elasticity = -4% / 10% = -0.4 (inelastic). New revenue = 96 million × $11 = $1.056 billion. Revenue rose despite fewer subscribers, because the ones who stayed are paying more, and that more than offsets the loss.\n- If instead 15% cancel (85 million remain), elasticity = -15% / 10% = -1.5 (elastic). New revenue = 85 million × $11 = $935 million. Revenue fell, because the price increase chased away too many customers.\n\nSame price move, opposite outcome — the only thing that changed is how substitutable the product feels to customers.\n\n## What drives elasticity\n\nThe main factors are the availability of substitutes (more alternatives, more elastic), how large the purchase is relative to income (big-ticket items are usually more elastic), whether it's a necessity or a luxury, and habit or switching cost (a subscription with a lot of saved history, like a watchlist, is stickier, hence less elastic).\n\n## Second-order effects\n\nElasticity isn't fixed — it changes as a market matures. A new product category (say, ride-hailing) often starts elastic, because customers are still comparing it to taxis and public transport. As the product becomes the default and competitors consolidate, elasticity can fall, giving the surviving players more pricing power. This is also why companies spend heavily on brand and habit-formation: not to grow revenue today, but to make demand less elastic tomorrow.\n\n## What to watch\n\nWhen a company raises prices, the real test isn't the headline percentage — it's the next quarter's volume numbers. If customers barely budge, that company just revealed it has real pricing power."
+      },
+      "he": {
+        "headline": "אלסטיות מחיר של הביקוש",
+        "scroll": "אלסטיות מחיר של הביקוש מודדת כמה הכמות המבוקשת משתנה כשהמחיר משתנה — וזה ההבדל בין העלאת מחיר שמגדילה הכנסות לבין אחת שמתפוצצת בפרצוף.",
+        "coffee": "אלסטיות מחיר של הביקוש עונה על שאלה פשוטה: אם מעלים את המחיר ב-1%, כמה לקוחות עוזבים? אם הביקוש 'לא אלסטי', רק מעטים עוזבים, וההעלאה מוסיפה יותר הכנסות ממה שהיא מאבדת. אם הביקוש 'אלסטי', שינוי קטן במחיר שולח הרבה לקוחות למקום אחר, וההכנסות יורדות אפילו שהמחיר ליחידה עלה.\n\nהאלסטיות תלויה בעיקר בשאלה אם יש תחליפים. אינסולין ובנזין נוטים להיות לא-אלסטיים — אנשים צריכים אותם ולא יכולים לעבור בקלות לחלופה, כך שמוכרים יכולים להעלות מחירים בלי להפסיד הרבה לקוחות. ארוחות במסעדה וטיסות נופש נוטים להיות אלסטיים — קל למצוא תחליפים (לבשל בבית, לטוס בשבוע אחר), כך שהעלאת מחיר דוחפת את הביקוש למטה בחדות.\n\nזו הסיבה שחברת סטרימינג יכולה להעלות מחירי מנוי בהדרגה ועדיין לגדול בהכנסות, בעוד בית קפה שכונתי שמעלה מחירים ב-20% עלול להפסיד שליש מהלקוחות לבית הקפה ממול. מה שכדאי לעקוב אחריו: לחברות עם כוח תמחור אמיתי כמעט תמיד יש חפיר כלכלי (economic moat) — מותג, הרגל, או חוסר אלטרנטיבות — שמקשיח את הביקוש.",
+        "deep": "## הרעיון\n\nאלסטיות מחיר של הביקוש מודדת את הרגישות של הכמות המבוקשת לשינוי במחיר. הנוסחה פשוטה: אלסטיות = (אחוז השינוי בכמות המבוקשת) חלקי (אחוז השינוי במחיר). אם התוצאה גדולה מ-1 בערך מוחלט, הביקוש 'אלסטי' — הכמות מגיבה יותר מהמחיר. אם היא קטנה מ-1, הביקוש 'לא אלסטי' — הכמות בקושי זזה.\n\n## למה זה חשוב לעסק\n\nהאלסטיות אומרת לחברה אם העלאת מחירים תגדיל או תקטין את ההכנסה הכוללת (מחיר כפול כמות). זה המספר החשוב ביותר מאחורי כל החלטת תמחור, אבל הוא בלתי נראה עד שמודדים אותו — וזו הסיבה שחברות מריצות ניסויי מחיר במקום להמר.\n\n## דוגמה מספרית\n\nנניח שלשירות סטרימינג יש 100 מיליון מנויים במחיר של 10 דולר לחודש, כלומר מיליארד דולר הכנסה חודשית. החברה מעלה את המחיר ל-11 דולר, עלייה של 10%.\n\n- אם רק 4% מהמנויים מבטלים (נשארים 96 מיליון), האלסטיות היא -4% חלקי 10% = מינוס 0.4 (לא אלסטי). ההכנסה החדשה: 96 מיליון כפול 11 דולר = 1.056 מיליארד דולר. ההכנסה עלתה, למרות פחות מנויים, מכיוון שאלה שנשארו משלמים יותר, וזה יותר ממכסה את ההפסד.\n- אם לעומת זאת 15% מבטלים (נשארים 85 מיליון), האלסטיות היא -1.5 (אלסטי). ההכנסה החדשה: 85 מיליון כפול 11 דולר = 935 מיליון דולר. ההכנסה ירדה, מכיוון שההעלאה הבריחה יותר מדי לקוחות.\n\nאותו מהלך תמחור, תוצאה הפוכה — הדבר היחיד שהשתנה הוא כמה קל ללקוחות למצוא תחליף.\n\n## מה קובע את האלסטיות\n\nהגורמים המרכזיים הם זמינות תחליפים (יותר אלטרנטיבות, יותר אלסטי), כמה גדולה הרכישה בהשוואה להכנסה (מוצרים יקרים נוטים להיות אלסטיים יותר), אם זה מוצר הכרחי או מותרות, והרגל או עלות מעבר (מנוי עם הרבה היסטוריה שמורה, כמו רשימת צפייה, 'דביק' יותר ולכן פחות אלסטי).\n\n## אפקטים מסדר שני\n\nהאלסטיות אינה קבועה — היא משתנה כשהשוק מתבגר. קטגוריית מוצר חדשה (למשל שירותי הזמנת נסיעות) מתחילה לרוב אלסטית, מכיוון שהלקוחות עדיין משווים אותה למוניות ולתחבורה ציבורית. כשהמוצר הופך לברירת המחדל והמתחרים מתמזגים, האלסטיות יכולה לרדת, מה שנותן לשורדים כוח תמחור גדול יותר. זו גם הסיבה שחברות משקיעות כל כך הרבה במותג וביצירת הרגל: לא כדי להגדיל הכנסות היום, אלא כדי להקשיח את הביקוש מחר.\n\n## מה לעקוב אחריו\n\nכשחברה מעלה מחירים, המבחן האמיתי אינו האחוז בכותרת — הוא מספרי הנפח של הרבעון הבא. אם הלקוחות בקושי זזים, החברה הזו בדיוק הוכיחה שיש לה כוח תמחור אמיתי."
+      },
+      "tags": [
+        "concept",
+        "pricing",
+        "microeconomics",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-suez-crisis-1956",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1956: Israel invades Sinai, opening the Suez Crisis",
+        "scroll": "On 29 October 1956, Israel's invasion of Sinai triggered the Suez Crisis, which the US ended by threatening Britain's currency — not its army.",
+        "coffee": "On 29 October 1956, Israel invaded the Sinai Peninsula, pushing Egyptian forces back toward the Suez Canal. The stated aim was to reopen the Straits of Tiran and the Gulf of Aqaba, which Egypt had blockaded for eight years. Two days later, Britain and France — after issuing a joint ultimatum for a ceasefire — joined the invasion, aiming to topple Egyptian president Gamal Abdel Nasser and reclaim control of the Suez Canal, which Nasser had nationalized that July.\n\nWhat makes the episode consequential isn't just the fighting — it's how it ended. The United States and the Soviet Union both opposed the invasion, and Washington applied financial, not military, pressure: it signaled it might withhold IMF support for Britain and sell its holdings of British government bonds, at a moment when a run on the pound sterling was already under way. Unable to defend its own currency while fighting a war, Britain withdrew within weeks.\n\nThe crisis is widely seen as the moment Britain and France's status as first-tier global powers ended, and the moment the US and USSR confirmed themselves as the two poles of the Cold War. It also led to the first large-scale UN peacekeeping force, deployed to the Sinai afterward.",
+        "deep": "## Background\n\nBy 1956, Egypt's President Gamal Abdel Nasser had nationalized the Suez Canal Company, the Anglo-French-owned operator of the canal that carried most of Europe's oil imports from the Middle East. Egypt had also maintained an eight-year blockade of the Straits of Tiran and the Gulf of Aqaba, cutting off Israeli shipping to its southern port of Eilat.\n\n## The invasion\n\nOn 29 October 1956, Israel invaded the Sinai Peninsula, driving Egyptian forces back toward the canal with the stated goal of reopening the blockaded waterways. Britain and France, who wanted the canal back under their control and Nasser removed, issued a joint ultimatum calling for a ceasefire, then joined the invasion on 31 October once Egypt refused to comply.\n\n## The pressure that ended it\n\nThe military operation succeeded quickly, but it collapsed diplomatically. Both the United States and the Soviet Union opposed the invasion — a rare moment of Cold War alignment — and the US leaned on financial leverage rather than troops: it signaled it would not support the British pound, already under speculative pressure, and would block an IMF loan Britain needed. Unable to defend its currency and wage a war at the same time, Britain withdrew by December, with France and Israel following.\n\n## Why it mattered\n\nThe crisis is usually marked as the point at which Britain and France's era as first-rank imperial powers ended, replaced by a world run by two superpowers who could make or break a currency with a phone call. For Egypt, Nasser emerged politically stronger despite the military defeat, having kept the canal nationalized. The episode also produced the first large-scale UN peacekeeping force, deployed to the Sinai once the fighting stopped — a template still used today.\n\n## What to watch\n\nThe Suez Canal remains one of the most economically sensitive chokepoints in global trade — roughly 12% of world trade passes through it — and disruptions there, from blockages to regional conflict to shipping diversions, still move oil prices and shipping costs seven decades later."
+      },
+      "he": {
+        "headline": "1956: ישראל פולשת לסיני, ופותחת את משבר סואץ",
+        "scroll": "ב-29 באוקטובר 1956 פלשה ישראל לסיני ופתחה את משבר סואץ, שהסתיים כשארצות הברית הכריחה את בריטניה לסגת באמצעות איום על המטבע שלה, לא באמצעות צבא.",
+        "coffee": "ב-29 באוקטובר 1956 פלשה ישראל לחצי האי סיני, ודחקה את הכוחות המצריים לכיוון תעלת סואץ. המטרה המוצהרת הייתה לפתוח מחדש את מצרי טיראן ואת מפרץ אילת, שמצרים חסמה שמונה שנים קודם לכן. יומיים לאחר מכן הצטרפו בריטניה וצרפת לפלישה — לאחר שהציבו אולטימטום משולב להפסקת אש — בניסיון להפיל את נשיא מצרים גמאל עבד אל-נאצר ולהשיב לידיהן את השליטה בתעלת סואץ, שנאצר הלאים ביולי אותה שנה.\n\nמה שהופך את הפרשה למשמעותית הוא לא רק הקרבות, אלא איך היא הסתיימה. ארצות הברית וברית המועצות התנגדו שתיהן לפלישה, וושינגטון הפעילה לחץ כלכלי, לא צבאי: היא רמזה שתמנע מבריטניה תמיכה של קרן המטבע הבין-לאומית ושתמכור את אחזקותיה באגרות החוב הבריטיות, בזמן שכבר התנהלה בריחה מהלירה הבריטית בשווקים. בריטניה, שלא יכלה להגן על המטבע שלה בזמן שהיא מנהלת מלחמה, נסוגה בתוך שבועות.\n\nהמשבר נחשב כנקודה שבה בריטניה וצרפת איבדו את מעמדן כמעצמות עולמיות מהשורה הראשונה, והרגע שבו ארצות הברית וברית המועצות התבססו כשני הקטבים של המלחמה הקרה. הוא גם הוביל לכוח שומרי השלום הגדול הראשון של האומות המאוחדות, שנשלח לסיני בעקבות המשבר.",
+        "deep": "## רקע\n\nעד 1956 הלאים נשיא מצרים גמאל עבד אל-נאצר את חברת תעלת סואץ, שהייתה בבעלות בריטית-צרפתית ותפעלה את התעלה שבה עבר רוב יבוא הנפט של אירופה מהמזרח התיכון. מצרים גם שמרה על חסימה של שמונה שנים על מצרי טיראן ומפרץ אילת, שחתכה את השיט הישראלי לנמל הדרומי אילת.\n\n## הפלישה\n\nב-29 באוקטובר 1956 פלשה ישראל לחצי האי סיני, ודחקה את הכוחות המצריים לכיוון התעלה, במטרה המוצהרת לפתוח מחדש את המעברים החסומים. בריטניה וצרפת, שרצו להשיב את השליטה בתעלה ולהפיל את נאצר, הציבו אולטימטום משולב לדרישת הפסקת אש, ואז הצטרפו לפלישה ב-31 באוקטובר כשמצרים לא נענתה.\n\n## הלחץ שסיים את המשבר\n\nהפעולה הצבאית הצליחה במהירות, אבל קרסה דיפלומטית. ארצות הברית וברית המועצות התנגדו שתיהן לפלישה — רגע נדיר של הסכמה בין שני הצדדים במלחמה הקרה — וארצות הברית הפעילה מנוף כלכלי במקום חיילים: היא רמזה שלא תתמוך בלירה הבריטית, שכבר הייתה תחת לחץ ספקולטיבי, ושתחסום הלוואת קרן מטבע שבריטניה נזקקה לה. מכיוון שלא יכלה להגן על המטבע שלה ולנהל מלחמה בו-זמנית, בריטניה נסוגה עד דצמבר, וצרפת וישראל בעקבותיה.\n\n## למה זה היה משמעותי\n\nהמשבר מסומן כנקודה שבה הסתיימה תקופתן של בריטניה וצרפת כמעצמות קולוניאליות מהשורה הראשונה, והוחלף בעולם שמנוהל בידי שתי מעצמות-על שיכולות לשבור מטבע בשיחת טלפון אחת. עבור מצרים, נאצר התחזק פוליטית חרף התבוסה הצבאית, אחרי ששמר על הלאמת התעלה. הפרשה גם הולידה את כוח שומרי השלום הגדול הראשון של האומות המאוחדות, שנשלח לסיני כשהקרבות נפסקו — תבנית שעדיין משמשת כיום.\n\n## מה לעקוב אחריו\n\nתעלת סואץ נשארת אחת מנקודות התחבורה הרגישות ביותר כלכלית בסחר העולמי — בה עובר כ-12% מהסחר העולמי — ושיבושים בה, מחסימות ועד סכסוך אזורי והפניית שיט, עדיין מזיזים מחירי נפט ועלויות שילוח שבעה עשורים לאחר מכן."
+      },
+      "tags": [
+        "history",
+        "geopolitics",
+        "suez-canal",
+        "on-this-day"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1956: The Suez Crisis began with Israel invading the Sinai Peninsula and pushing Egyptian forces back toward the Suez Canal.",
+          "url": "https://en.wikipedia.org/wiki/Suez_Crisis"
+        }
+      ]
+    }
+  ]
+}
