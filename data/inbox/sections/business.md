@@ -42,8 +42,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#4",
-     "title": "Horizons Middle East & Africa 10/30/2026 (Video)",
-     "published": "2026-10-30T08:07:15+00:00"
+     "title": "Binance says $6.3B Hacked in Crypto Heist",
+     "published": "2026-10-30T08:07:15+00:00",
+     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#5",
@@ -59,45 +60,44 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#7",
-     "title": "Audi Dials Back Outlook on China Slump, Competition in Europe",
-     "published": "2026-10-30T08:00:00+00:00",
-     "summary": "Audi cut its full-year earnings outlook after the slump in China worsened during the third quarter and competition in Europe intensified, prompting deeper cost cuts."
-    },
-    {
-     "ref": "bloomberg_markets#8",
      "title": "Odd Lots: What Cybersecurity Means in the Age of AI (Podcast)",
      "published": "2026-10-30T08:00:00+00:00",
      "summary": "Earlier this year, cybersecurity researchers discovered a vulnerability in PHP, an open-source coding language used in roughly 70% of the world's websites, that had been lying dormant for a long time, and if exploited, could have led to disaster. And the researchers only understood the extent of this bug through the use of frontier AI models. Today, we talk to two staffers at Calif (CEO Thai Duong"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#8",
      "title": "Tesco Strikes €1.7 Billion Deal to Sell Czech, Slovakia Unit",
      "published": "2026-10-30T07:46:43+00:00",
      "summary": "Tesco Plc agreed to sell its supermarket division in the Czech Republic and Slovakia to Ahold Delhaize for an enterprise value of €1.7 billion (£1.5 billion), marking the end of a once ambitious plan to become a global grocery giant."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#9",
      "title": "BP's Refining Business Had a 'Banner Quarter,' CEO Says",
      "published": "2026-10-30T07:44:12+00:00",
      "summary": "BP said profit surged to the highest in 18 years as soaring refining margins boosted earnings, giving Chief Executive Officer Meg O’Neill a powerful tailwind as she seeks to turn around the beleaguered British energy major. \"When we look forward into the fourth quarter, the margins are softening a bit,\" O’Neill tells Bloomberg Television. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#10",
      "title": "BP Earnings: Profits Jump as Refining Margins Surge",
      "published": "2026-10-30T07:40:32+00:00",
      "summary": "Plus, hiding from AI tech worries in the FTSE 100"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#11",
      "title": "BP Profit Hits 18-Year High as Oil Refining Margins Surge",
      "published": "2026-10-30T07:08:11+00:00",
      "summary": "BP Plc said profit surged to the highest in 18 years as soaring refining margins boosted earnings, while a sharp drop in net debt moved the British energy major closer to a position where it could restart buybacks."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#12",
      "title": "Jio Boosts India to Top of Global IPO Market With Record October",
      "published": "2026-10-30T07:03:16+00:00",
      "summary": "India was the world’s top market for initial public offerings in October, thanks to a record month driven by the blockbuster share sale of Jio Platforms Ltd."
+    },
+    {
+     "ref": "bloomberg_markets#13",
+     "title": "FTSE 100 Live: UK Stocks Set to Outperform as Tech Sells Off",
+     "published": "2026-10-30T06:51:22+00:00"
     },
     {
      "ref": "bloomberg_markets#14",
@@ -143,21 +143,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Global tech rout deepens as US earnings stoke AI spending fears",
+     "published": "2026-10-30T08:36:31+00:00",
+     "summary": "Wall Street heading for steep losses at Friday’s open after Amazon results disappoint"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "French economy shrinks 0.1% in third quarter",
      "published": "2026-10-30T08:19:55+00:00",
      "summary": "Eurozone’s second-largest economy is grappling with high energy prices and surge in borrowing costs"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "Binance halts withdrawals after record $6.3bn heist",
      "published": "2026-10-30T08:14:36+00:00",
      "summary": "World’s largest crypto exchange said an engineer’s laptop was compromised in major security breach"
-    },
-    {
-     "ref": "ft_home#2",
-     "title": "Global tech rout deepens as US earnings stoke AI spending fears",
-     "published": "2026-10-30T07:44:12+00:00",
-     "summary": "Wall Street set to open lower as Japan’s tech-heavy Nikkei 225 index declines"
     },
     {
      "ref": "ft_home#3",
@@ -358,153 +358,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "European Indexes Largely Lower as AI Selloff Bites",
+     "published": "2026-10-30T08:55:00+00:00",
+     "summary": "European equities retreated broadly, pressured by surging oil prices and fresh selloffs across AI-linked tech stocks."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Gold Below $4,000 on Inflation Concerns, Tech Selloff",
+     "published": "2026-10-30T08:52:00+00:00",
+     "summary": "Gold prices slid below the $4,000-a-troy-ounce mark as higher oil prices and sticky inflation fueled expectations the Federal Reserve will raise interest rates later this year."
+    },
+    {
+     "ref": "wsj_markets#2",
+     "title": "European TTF Gas Is Back Above 100 Euros a Megawatt-Hour",
+     "published": "2026-10-30T08:49:00+00:00",
+     "summary": "European natural-gas prices rose above 100 euros a megawatt-hour, driven by fears of escalating tensions in the Middle East and colder temperatures."
+    },
+    {
+     "ref": "wsj_markets#3",
+     "title": "Stock Market Today: Intel Stock Crashes Premarket as Tech Selloff Extends",
+     "published": "2026-10-30T08:44:05+00:00",
+     "summary": "Earnings from the chipmaker and Amazon further stoke fears around AI trade"
+    },
+    {
+     "ref": "wsj_markets#4",
      "title": "French, Italian, Belgian Bond Yields Rise; German Yields Fall",
      "published": "2026-10-30T08:21:00+00:00",
      "summary": "Government bond yields of France, Belgium and Italy, rose in early trade Friday."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#5",
      "title": "U.S. Treasury Yields Fall to Multiweek Lows in Asian Trade",
      "published": "2026-10-30T07:17:00+00:00",
      "summary": "The move follows a week marked by interest-rate decisions from key central banks."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#6",
      "title": "Monte dei Paschi Investors Reject Defense Plan Against Intesa’s Bid",
      "published": "2026-10-30T07:08:00+00:00",
      "summary": "Around 91% of voters rejected the proposed offers, valued together at nearly $40 billion, which the bank’s CEO launched in August to try to fend off Intesa’s planned takeover."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#7",
      "title": "Lithium Miners Look Past Falling Prices to Expand Output",
      "published": "2026-10-30T04:14:00+00:00",
      "summary": "After regaining their footing following a two-year slump, lithium prices have dropped sharply in recent weeks. That isn’t restraining miners’ ambitions."
     },
     {
-     "ref": "wsj_markets#4",
-     "title": "Nikkei Extends Losses, Yen Strengthens After BOJ Decisions",
-     "published": "2026-10-30T03:47:00+00:00",
-     "summary": "Japanese stocks extended declines after the Bank of Japan’s decisions pointed to further policy tightening."
-    },
-    {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#8",
      "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
      "published": "2026-10-30T03:02:00+00:00",
      "summary": "The crypto exchange says users will be made whole. But hackers made off with an estimated $6.3 billion."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#9",
      "title": "Singapore Dollar Strengthens Amid Falling U.S. Treasury Yields",
      "published": "2026-10-30T02:53:00+00:00",
      "summary": "The Singapore dollar strengthened against its U.S. counterpart, amid falling U.S. Treasury yields."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#10",
      "title": "Cryptocurrencies Slide as News of Major Hack Spooks Markets",
      "published": "2026-10-30T02:48:00+00:00",
      "summary": "Bitcoin, Ethereum and Ripple each dropped more than 2% after Binance, the world’s biggest crypto exchange, suspended transactions to investigate what could be the industry’s largest-ever hack."
     },
     {
-     "ref": "wsj_markets#8",
-     "title": "Gold Declines, Weighed by Tighter Monetary Policy Expectations",
-     "published": "2026-10-30T01:21:00+00:00",
-     "summary": "Gold declined in early Asian trade. U.S. inflation is still above the Fed’s 2% target and markets continue to price in and further tightening, keeping yields supported and weighing on gold, Infinox said."
-    },
-    {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "Oil Ticks Back Up as Uncertainty Clouds Peace Hopes",
      "published": "2026-10-30T01:18:00+00:00",
      "summary": "Oil prices gained in early Asia trade after settling lower on hopes of U.S.-Iran talks."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "The Easy Money Offers That Disguise a Deathtrap for Small Businesses",
      "published": "2026-10-30T01:00:00+00:00",
      "summary": "Merchant cash advances deliver quick funding, but some carry effective finance costs as high as 2,000%."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#13",
      "title": "The Five Whirlwind Days That Brought Down Weil Gotshal",
      "published": "2026-10-29T23:05:00+00:00",
      "summary": "The legendary Wall Street law firm was built on advising companies in duress. Then it was forced to turn its expertise on itself."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#14",
      "title": "Why Josh Kushner’s Firm Just Spent $7.6 Billion on a 150-Year-Old Company",
      "published": "2026-10-29T23:00:00+00:00",
      "summary": "Thrive Holdings is acquiring ADT, part of a buying spree that shows his ambitions beyond traditional venture capital."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#15",
      "title": "WSJ Dollar Index Falls 0.09% to 97.09",
      "published": "2026-10-29T21:29:00+00:00",
      "summary": "The WSJ Dollar Index fell 0.1%, down for two consecutive trading days."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#16",
      "title": "U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism",
      "published": "2026-10-29T20:43:00+00:00",
      "summary": "Stocks declined as a revenue shortfall from the Google parent caused one of the largest one-session market capitalization drops for a single company on record, feeding doubts about the payoff from artificial-intelligence infrastructure spending."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#17",
      "title": "Oil Settles Lower As U.S. Seeks to Engage Iran in Talks",
      "published": "2026-10-29T20:34:00+00:00",
      "summary": "Oil futures retreated on news that the U.S. is seeking to establish talks with Iranian hard-liners, although concerns of renewed military conflict kept losses to a minimum."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#18",
      "title": "Alphabet Stumbles, U.S. Economy Surges",
      "published": "2026-10-29T20:32:00+00:00",
      "summary": "Plus, DoorDash to buy Instacart and ServiceNow shares tank"
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#19",
      "title": "U.S. Natural Gas Futures Fall on Mild Weather Outlook",
      "published": "2026-10-29T20:26:00+00:00",
      "summary": "U.S. natural gas futures settled lower with the December contract retreating from the $3 level in its debut at the front of the curve."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#20",
      "title": "Alphabet Stock Sinks, Dragging Nasdaq Lower",
      "published": "2026-10-29T18:35:00+00:00",
      "summary": "U.S. stocks declined, led by the Nasdaq Composite, after Alphabet’s earnings disappointed investors and sparked another bout of AI worries."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#21",
      "title": "Polymarket Is Investigating Suspicious Trades on Israel Election",
      "published": "2026-10-29T17:55:00+00:00",
      "summary": "The trades under investigation came in shortly before polls closed, betting that Israeli Prime Minister Benjamin Netanyahu would do better than his opponent."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#22",
      "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
      "published": "2026-10-29T17:14:00+00:00",
      "summary": "Reliance on the island for AI chip production puts it among America’s top foreign policy interests."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#23",
      "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
      "published": "2026-10-29T16:38:00+00:00",
      "summary": "Prop. 40, on the ballot Tuesday, represents the closest the group of “nerdy academics” has come with a wealth tax."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#24",
      "title": "ING Launches Buyback But Flags Job Cuts and Unit Restructuring",
      "published": "2026-10-29T14:43:00+00:00",
      "summary": "The Dutch bank launched a new buyback program of $1.84 billion and set out plans to restructure its wholesale banking unit."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-     "published": "2026-10-29T13:12:00+00:00",
-     "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Intercontinental Exchange Posts Higher Profit, Revenue",
-     "published": "2026-10-29T12:15:00+00:00",
-     "summary": "The company posted a third-quarter profit of $940 million, or $1.67 a share, compared with $816 million, or $1.42 a share, a year earlier."
     }
    ]
   }
@@ -512,9 +512,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4086.55,
+   "last": 4080.05,
    "prev_close": 4144.3999,
-   "change_pct": -1.4,
+   "change_pct": -1.55,
    "as_of": "2026-10-30"
   },
   "SP500": {
@@ -526,21 +526,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1169,
+   "last": 3.1167,
    "prev_close": 3.1226,
-   "change_pct": -0.18,
+   "change_pct": -0.19,
    "as_of": "2026-10-30"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 112.93,
+   "last": 112.89,
    "prev_close": 114.88,
-   "change_pct": -1.7,
+   "change_pct": -1.73,
    "as_of": "2026-10-30"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 77878.8281,
+   "last": 77873.4922,
    "prev_close": 77775.1094,
    "change_pct": 0.13,
    "as_of": "2026-10-30"

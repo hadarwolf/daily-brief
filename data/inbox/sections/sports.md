@@ -613,7 +613,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Afcon to return to two-year cycle after Caf u-turn",
+     "title": "Afcon to return to two-year cycle after Caf U-turn",
      "published": "2026-10-30T08:39:36+00:00",
      "summary": "The African Cup of Nations (Afcon) will return to its traditional two-year cycle after a review into December's decision to host it every four years instead."
     },
@@ -625,21 +625,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#2",
+     "title": "Podcast: Old Firm fan ban & League Cup semi-finals",
+     "published": "2026-10-30T08:00:00+00:00",
+     "summary": "It’s make-or-break at Hampden, can Aberdeen stun Rangers? And who survives the cup derby?"
+    },
+    {
+     "ref": "bbc_football#3",
      "title": "Time to invest in Bournemouth? - FPL gameweek nine dilemmas",
      "published": "2026-10-30T07:51:08+00:00",
      "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek nine."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "'The most important person managers must manage is themselves'",
      "published": "2026-10-30T07:41:38+00:00",
      "summary": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally"
-    },
-    {
-     "ref": "bbc_football#4",
-     "title": "Families v loyal fans - women's football's attendance dilemma",
-     "published": "2026-10-30T07:04:53+00:00",
-     "summary": "Average Women's Super League attendances surged by 192% in the season after the Lionesses' Euro 2022 triumph, but the boom has stalled."
     },
     {
      "ref": "bbc_football#5",
@@ -649,27 +649,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#6",
+     "title": "Families v loyal fans - women's football's attendance dilemma",
+     "published": "2026-10-30T07:04:53+00:00",
+     "summary": "Average Women's Super League attendances surged by 192% in the season after the Lionesses' Euro 2022 triumph, but the boom has stalled."
+    },
+    {
+     "ref": "bbc_football#7",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-30T06:22:04+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "How talking about Man Utd's cycle of doom became an industry",
      "published": "2026-10-30T06:14:19+00:00",
      "summary": "Manchester United's struggles are pored over more than ever before - not least by former players."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Sub-plots intensify Blades and Wrexham's rivalry",
      "published": "2026-10-30T04:12:07+00:00",
      "summary": "Former team-mates Chris Wilder and Phil Parkinson lock horns again as Sheffield United face Wrexham in the Championship on Friday night."
-    },
-    {
-     "ref": "bbc_football#9",
-     "title": "PSG score late to hold struggling Man City",
-     "published": "2026-10-29T22:40:17+00:00",
-     "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
     },
     {
      "ref": "bbc_football#10",
@@ -679,21 +679,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#11",
+     "title": "PSG score late to hold struggling Man City",
+     "published": "2026-10-29T22:40:17+00:00",
+     "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Fleetwood to face Everton in EFL Cup quarters",
      "published": "2026-10-29T21:42:29+00:00",
      "summary": "League Two Fleetwood Town will face Everton at Highbury in the quarter-finals of the EFL Cup."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
      "published": "2026-10-29T21:40:24+00:00",
      "summary": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin."
-    },
-    {
-     "ref": "bbc_football#13",
-     "title": "What have we learned from first round of Premiership?",
-     "published": "2026-10-29T20:53:07+00:00",
-     "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far."
     },
     {
      "ref": "bbc_football#14",
@@ -703,21 +703,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#15",
+     "title": "What have we learned from first round of Premiership?",
+     "published": "2026-10-29T20:53:07+00:00",
+     "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far."
+    },
+    {
+     "ref": "bbc_football#16",
      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
      "published": "2026-10-29T19:55:24+00:00",
      "summary": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "Grealish dropped over 'breach of club discipline' - what now?",
      "published": "2026-10-29T19:31:36+00:00",
      "summary": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\"."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "Scottish football could pave way for 3pm TV blackout to end",
-     "published": "2026-10-29T17:43:53+00:00",
-     "summary": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle."
     },
     {
      "ref": "bbc_football#18",
@@ -727,9 +727,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#19",
-     "title": "Celtic & Rangers Scottish Cup stadium closure upheld",
-     "published": "2026-10-29T17:20:57+00:00",
-     "summary": "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed."
+     "title": "Scottish football could pave way for 3pm TV blackout to end",
+     "published": "2026-10-29T17:43:53+00:00",
+     "summary": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle."
     },
     {
      "ref": "bbc_football#20",
@@ -739,27 +739,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#21",
+     "title": "Celtic & Rangers Scottish Cup stadium closure upheld",
+     "published": "2026-10-29T17:20:57+00:00",
+     "summary": "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed."
+    },
+    {
+     "ref": "bbc_football#22",
      "title": "Dowman to miss three matches after appeal rejected",
      "published": "2026-10-29T17:19:06+00:00",
      "summary": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Football Daily",
      "published": "2026-10-29T16:54:00+00:00",
      "summary": "Rick & Lloyd are joined by Julien Laurens to discuss De Zerbi’s quiet transformation."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Euro Leagues",
      "published": "2026-10-29T16:21:00+00:00",
      "summary": "Was David Raya robbed at the Ballon d'Or? And what did the continent make of Kane's win?"
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "McInnes defends Fernandez before League Cup semi",
-     "published": "2026-10-29T15:36:21+00:00",
-     "summary": "Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back \"has been a big part of our better performances this season\"."
     }
    ]
   },
@@ -967,108 +967,102 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#7",
-     "title": "Deni Avdija with the and-1 bucket - ESPN",
-     "published": "2026-10-29T22:31:10+00:00",
-     "summary": "Deni Avdija with the and-1 bucket ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#8",
      "title": "Nets' Ben Saraf: Option picked up - CBS Sports",
      "published": "2026-10-29T17:12:13+00:00",
      "summary": "Nets' Ben Saraf: Option picked up CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#8",
      "title": "Ben Saraf News: Option picked up - RotoWire",
      "published": "2026-10-29T17:12:13+00:00",
      "summary": "Ben Saraf News: Option picked up RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija First Basket Pick & Odds Today (Oct. 29) - Lineups",
      "published": "2026-10-29T15:36:08+00:00",
      "summary": "Deni Avdija First Basket Pick & Odds Today (Oct. 29) Lineups"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija shines with 23 points as undefeated Portland defeats Lakers - The Jerusalem Post",
      "published": "2026-10-29T08:45:15+00:00",
      "summary": "Deni Avdija shines with 23 points as undefeated Portland defeats Lakers The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "NBA player props today: Thursday's best props include Deni Avdija [10/29/2026] - Dimers",
      "published": "2026-10-29T07:56:55+00:00",
      "summary": "NBA player props today: Thursday's best props include Deni Avdija [10/29/2026] Dimers"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija scores nine fourth-quarter points - NBC Sports",
      "published": "2026-10-28T15:37:36+00:00",
      "summary": "Deni Avdija scores nine fourth-quarter points NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Famous Jewish NBA players and the stories behind their careers - Tuko News",
      "published": "2026-10-28T15:33:31+00:00",
      "summary": "Famous Jewish NBA players and the stories behind their careers Tuko News"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA - The Straits Times",
      "published": "2026-10-28T10:24:00+00:00",
      "summary": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA The Straits Times"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Trail Blazers' Deni Avdija: Logs team-high 23 points - CBS Sports",
      "published": "2026-10-28T09:41:00+00:00",
      "summary": "Trail Blazers' Deni Avdija: Logs team-high 23 points CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija News: Logs team-high 23 points - RotoWire",
      "published": "2026-10-28T09:33:34+00:00",
      "summary": "Deni Avdija News: Logs team-high 23 points RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "NBA: Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - GMA Network",
      "published": "2026-10-28T06:35:07+00:00",
      "summary": "NBA: Deni Avdija, Blazers prevail in battle of unbeatens against Lakers GMA Network"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija gets the hoop and the harm - ESPN",
      "published": "2026-10-28T06:33:03+00:00",
      "summary": "Deni Avdija gets the hoop and the harm ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - The Daily News | Texas' Oldest Newspaper",
      "published": "2026-10-28T06:24:06+00:00",
      "summary": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers The Daily News | Texas' Oldest Newspaper"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#20",
      "title": "Ja Morant, Damian Lillard lead unbeaten Trail Blazers past Lakers 136-129 despite Luka Doncic's 41 - Bozeman Daily Chronicle",
      "published": "2026-10-28T06:09:49+00:00",
      "summary": "Ja Morant, Damian Lillard lead unbeaten Trail Blazers past Lakers 136-129 despite Luka Doncic's 41 Bozeman Daily Chronicle"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija dials from long distance, 10/27/2026 - Yahoo Sports",
      "published": "2026-10-28T06:09:11+00:00",
      "summary": "Deni Avdija dials from long distance, 10/27/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija gets the hoop and the harm - ESPN",
      "published": "2026-10-28T05:38:05+00:00",
      "summary": "Deni Avdija gets the hoop and the harm ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija Stats, Props & Recent Performance - PrizePicks",
      "published": "2026-10-27T22:00:00+00:00",
      "summary": "Deni Avdija Stats, Props & Recent Performance PrizePicks"

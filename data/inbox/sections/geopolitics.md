@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-10-30T08:30:11+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-10-30T08:55:39+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-10-30T08:44:13+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "War and unrest - AP News",
+     "published": "2026-10-30T08:24:12+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "2026 World Cup hometown heroes - AP News",
+     "published": "2026-10-30T08:18:07+00:00",
+     "summary": "2026 World Cup hometown heroes AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Animals - AP News",
+     "published": "2026-10-30T08:13:58+00:00",
+     "summary": "Animals AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Trending News - AP News",
+     "published": "2026-10-30T08:04:03+00:00",
+     "summary": "Trending News AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Accidents - AP News",
+     "published": "2026-10-30T08:01:59+00:00",
+     "summary": "Accidents AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority - AP News",
      "published": "2026-10-30T06:08:00+00:00",
      "summary": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#8",
      "title": "Asian trading is mixed as worries about AI-related issues grow - AP News",
      "published": "2026-10-30T06:00:00+00:00",
      "summary": "Asian trading is mixed as worries about AI-related issues grow AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Peltola denies she knew of effort to put candidate with same name as Sen. Sullivan on Alaska ballot - AP News",
-     "published": "2026-10-30T05:41:00+00:00",
-     "summary": "Peltola denies she knew of effort to put candidate with same name as Sen. Sullivan on Alaska ballot AP News"
+     "ref": "ap_world#9",
+     "title": "El-Sayed and Stevens to make rare joint appearance as Democrats seek unity in Michigan Senate race - AP News",
+     "published": "2026-10-30T05:56:00+00:00",
+     "summary": "El-Sayed and Stevens to make rare joint appearance as Democrats seek unity in Michigan Senate race AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-     "published": "2026-10-30T05:30:46+00:00",
-     "summary": "Associated Press News: Breaking News | Latest News Today AP News"
-    },
-    {
-     "ref": "ap_world#5",
+     "ref": "ap_world#10",
      "title": "Spain’s latest deadly train crash puts human error and systemic failure under scrutiny - AP News",
      "published": "2026-10-30T05:03:00+00:00",
      "summary": "Spain’s latest deadly train crash puts human error and systemic failure under scrutiny AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "A midterm crossroads for both parties eyeing the beginning of the end of the Trump era - AP News",
-     "published": "2026-10-30T04:14:00+00:00",
-     "summary": "A midterm crossroads for both parties eyeing the beginning of the end of the Trump era AP News"
-    },
-    {
-     "ref": "ap_world#7",
+     "ref": "ap_world#11",
      "title": "Australian court orders Erin Patterson never to be released from prison for mushroom poisonings - AP News",
      "published": "2026-10-30T04:11:00+00:00",
      "summary": "Australian court orders Erin Patterson never to be released from prison for mushroom poisonings AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#12",
      "title": "Killed almost 430 years ago, 5 Catholic friars will soon be one step from sainthood - AP News",
      "published": "2026-10-30T04:05:00+00:00",
      "summary": "Killed almost 430 years ago, 5 Catholic friars will soon be one step from sainthood AP News"
     },
     {
-     "ref": "ap_world#9",
-     "title": "G20 diplomats, including from China and Russia, face deep rifts as they prepare to meet in Atlanta - AP News",
-     "published": "2026-10-30T04:02:00+00:00",
-     "summary": "G20 diplomats, including from China and Russia, face deep rifts as they prepare to meet in Atlanta AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#13",
      "title": "The roof of a water tower in Manhattan where a rare family of barn owls nested has been removed - AP News",
      "published": "2026-10-30T04:01:00+00:00",
      "summary": "The roof of a water tower in Manhattan where a rare family of barn owls nested has been removed AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#14",
      "title": "Carney, top EU official push Canada associate membership and wider alliance against Trump threats - AP News",
      "published": "2026-10-30T03:55:00+00:00",
      "summary": "Carney, top EU official push Canada associate membership and wider alliance against Trump threats AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#15",
      "title": "3 killed in helicopter collision that shut down part of an Oregon highway - AP News",
      "published": "2026-10-30T03:42:00+00:00",
      "summary": "3 killed in helicopter collision that shut down part of an Oregon highway AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#16",
      "title": "European Central Bank head resigns, allowing EU leaders to choose successor before French election - AP News",
      "published": "2026-10-30T03:42:00+00:00",
      "summary": "European Central Bank head resigns, allowing EU leaders to choose successor before French election AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#17",
      "title": "Binance flags ‘potential security issue,’ says approximately $6.3 billion impacted - AP News",
      "published": "2026-10-30T03:32:00+00:00",
      "summary": "Binance flags ‘potential security issue,’ says approximately $6.3 billion impacted AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#18",
      "title": "Red Wings suspend Dylan Larkin after GM says his agent told team he would no longer play for Detroit - AP News",
      "published": "2026-10-30T03:29:00+00:00",
      "summary": "Red Wings suspend Dylan Larkin after GM says his agent told team he would no longer play for Detroit AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#19",
      "title": "A popemobile exhibition at the Vatican features the vehicle popes have used since 1930 - AP News",
      "published": "2026-10-30T03:09:00+00:00",
      "summary": "A popemobile exhibition at the Vatican features the vehicle popes have used since 1930 AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#20",
      "title": "Vivek Ramaswamy's attack ad featuring opponent Amy Acton’s estranged mother is off the air in Ohio - AP News",
      "published": "2026-10-30T02:46:00+00:00",
      "summary": "Vivek Ramaswamy's attack ad featuring opponent Amy Acton’s estranged mother is off the air in Ohio AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#21",
+     "title": "Amazon offers cautious view after disappointing 3Q results but delivers strong cloud growth - AP News",
+     "published": "2026-10-30T02:35:00+00:00",
+     "summary": "Amazon offers cautious view after disappointing 3Q results but delivers strong cloud growth AP News"
+    },
+    {
+     "ref": "ap_world#22",
      "title": "Young girls skip school with their parents to attend Valkyries’ early WNBA Finals watch party - AP News",
      "published": "2026-10-30T02:31:50+00:00",
      "summary": "Young girls skip school with their parents to attend Valkyries’ early WNBA Finals watch party AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#23",
      "title": "Trump cancels rallies in Kansas and Iowa, opting for telerallies to reach more voters, RNC says - AP News",
      "published": "2026-10-30T01:47:00+00:00",
      "summary": "Trump cancels rallies in Kansas and Iowa, opting for telerallies to reach more voters, RNC says AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#24",
      "title": "Bodies of 2 Colorado students and aspiring outdoorsmen are recovered after they died on hiking trip - AP News",
      "published": "2026-10-30T01:43:00+00:00",
      "summary": "Bodies of 2 Colorado students and aspiring outdoorsmen are recovered after they died on hiking trip AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "June Jones, whose run-and-shoot offense dazzled at Hawaii and in the NFL, dies at 73 - AP News",
-     "published": "2026-10-30T01:40:00+00:00",
-     "summary": "June Jones, whose run-and-shoot offense dazzled at Hawaii and in the NFL, dies at 73 AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Ex-FBI officials accused of false statements about Hunter Biden press for dismissal of charges - AP News",
-     "published": "2026-10-30T01:17:00+00:00",
-     "summary": "Ex-FBI officials accused of false statements about Hunter Biden press for dismissal of charges AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86 - AP News",
-     "published": "2026-10-30T00:49:00+00:00",
-     "summary": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86 AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Spain reckons with second deadly train crash of the year ahead of national election - AP News",
-     "published": "2026-10-30T00:42:00+00:00",
-     "summary": "Spain reckons with second deadly train crash of the year ahead of national election AP News"
     }
    ]
   },
@@ -408,147 +408,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#1",
+     "title": "Greece arrests three over explosion that killed six people in Athens - Reuters",
+     "published": "2026-10-30T07:53:43+00:00",
+     "summary": "Greece arrests three over explosion that killed six people in Athens Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Toyota, Waymo to test autonomous bZ4Xs in Japan in 2027, eye overseas expansion - Reuters",
+     "published": "2026-10-30T07:29:56+00:00",
+     "summary": "Toyota, Waymo to test autonomous bZ4Xs in Japan in 2027, eye overseas expansion Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "Qatari mediators return to Tehran to push for US-Iran deal, official says - Reuters",
      "published": "2026-10-30T07:25:07+00:00",
      "summary": "Qatari mediators return to Tehran to push for US-Iran deal, official says Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "Yemen's Houthis deny launching drone after coalition reports interception in Mecca region - Reuters",
      "published": "2026-10-30T06:12:00+00:00",
      "summary": "Yemen's Houthis deny launching drone after coalition reports interception in Mecca region Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "Aid convoy sets off for Russian-held town of Oleshky in Ukraine, Izvestia says - Reuters",
      "published": "2026-10-30T04:32:00+00:00",
      "summary": "Aid convoy sets off for Russian-held town of Oleshky in Ukraine, Izvestia says Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "US plans to ban Chinese telecom firms from direct access to US phone numbers - Reuters",
      "published": "2026-10-30T03:44:00+00:00",
      "summary": "US plans to ban Chinese telecom firms from direct access to US phone numbers Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "North Korea denounces South Korea-US air defence drills, KCNA reports - Reuters",
      "published": "2026-10-30T03:40:00+00:00",
      "summary": "North Korea denounces South Korea-US air defence drills, KCNA reports Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "South Korea to respond firmly to North Korean breaches of border, security aide says - Reuters",
      "published": "2026-10-30T03:35:00+00:00",
      "summary": "South Korea to respond firmly to North Korean breaches of border, security aide says Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets - Reuters",
      "published": "2026-10-30T03:24:00+00:00",
      "summary": "Gold slips as higher oil, US inflation data bolster Fed hike bets Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "BOJ keeps interest rates steady, signals further rate hikes - Reuters",
      "published": "2026-10-30T03:15:00+00:00",
      "summary": "BOJ keeps interest rates steady, signals further rate hikes Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Germany's Merz says EU to shape better offer as global trade order comes under pressure - Reuters",
      "published": "2026-10-30T03:11:00+00:00",
      "summary": "Germany's Merz says EU to shape better offer as global trade order comes under pressure Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Indian shares inch higher on IT rally, earnings-led rebound; oil caps gains - Reuters",
      "published": "2026-10-30T02:25:00+00:00",
      "summary": "Indian shares inch higher on IT rally, earnings-led rebound; oil caps gains Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Japan's Nikkei slumps up to 3% as tech stocks tumble on AI worries - Reuters",
      "published": "2026-10-30T02:20:00+00:00",
      "summary": "Japan's Nikkei slumps up to 3% as tech stocks tumble on AI worries Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "Yen has brief gain after BOJ, while AI jitters weigh on dollar - Reuters",
      "published": "2026-10-30T01:48:00+00:00",
      "summary": "Yen has brief gain after BOJ, while AI jitters weigh on dollar Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "Tokyo core inflation exceeds BOJ target in October - Reuters",
      "published": "2026-10-29T23:52:39+00:00",
      "summary": "Tokyo core inflation exceeds BOJ target in October Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events - Reuters",
      "published": "2026-10-29T23:33:43+00:00",
      "summary": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Australian mushroom murderer Erin Patterson loses appeal bid - Reuters",
      "published": "2026-10-29T23:24:00+00:00",
      "summary": "Australian mushroom murderer Erin Patterson loses appeal bid Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road - Reuters",
      "published": "2026-10-29T23:02:00+00:00",
      "summary": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Colombia government proposes steep spending cut as fiscal woes deepen - Reuters",
      "published": "2026-10-29T22:55:43+00:00",
      "summary": "Colombia government proposes steep spending cut as fiscal woes deepen Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti - Reuters",
      "published": "2026-10-29T22:43:00+00:00",
      "summary": "Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "US Homeland Security cites risk to over 40,000 personnel in effort to take leaked data offline - Reuters",
      "published": "2026-10-29T22:24:54+00:00",
      "summary": "US Homeland Security cites risk to over 40,000 personnel in effort to take leaked data offline Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "Meta loses appeals against interim measures imposed by French regulators - Reuters",
      "published": "2026-10-29T22:15:05+00:00",
      "summary": "Meta loses appeals against interim measures imposed by French regulators Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "One dead in Russian missile attack on Kyiv, Ukrainian officials say - Reuters",
      "published": "2026-10-29T22:08:52+00:00",
      "summary": "One dead in Russian missile attack on Kyiv, Ukrainian officials say Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Putin says Moscow seeks better European ties, conflict will produce no winners - Reuters",
      "published": "2026-10-29T22:08:00+00:00",
      "summary": "Putin says Moscow seeks better European ties, conflict will produce no winners Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Four killed in crash of Italian helicopter on EU mission in Bosnia - Reuters",
-     "published": "2026-10-29T21:11:44+00:00",
-     "summary": "Four killed in crash of Italian helicopter on EU mission in Bosnia Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "US proposes Venezuela elections for 2027, opposition leader Machado says - Reuters",
-     "published": "2026-10-29T21:10:51+00:00",
-     "summary": "US proposes Venezuela elections for 2027, opposition leader Machado says Reuters"
     }
    ]
   }
