@@ -24,142 +24,137 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2013,
-   "text": "The first phase of the Marmaray project opened with an undersea rail tunnel (train pictured) across the Bosphorus strait.",
+   "year": 2020,
+   "text": "A magnitude-7.0 earthquake occurred in the Aegean Sea between Greece and Turkey, triggering a tsunami and causing 119 deaths.",
    "context": [
-    "Marmaray or B1 Commuter Train is a 77-kilometre-long (48 mi) commuter rail line in Istanbul, Turkey. The line runs from Halkalı, on the European side, to Gebze, on the Asian side, along the north shore of the Sea of Marmara. Mostly using the right-of-way of two existing commuter rail lines, the Marmaray line linked the two lines via a tunnel under the Bosporus strait, becoming the first standard gauge rail connection between Europe and Asia. The two existing sections of the line were rebuilt and expanded from two tracks to three tracks, to allow for higher capacity with intercity and freight rail. The name Marmaray is a portmanteau of the words Marmara and Ray, which is Turkish for rail."
+    "An earthquake with a moment magnitude of 7.0 occurred on 30 October 2020 about 14 km (8.7 mi) northeast of the Greek island of Samos. Although Samos was closest to the epicentre, it was the large Turkish city İzmir, 70 km (43 mi) northeast that was heavily affected—more than 700 residential and commercial structures were seriously damaged or destroyed. One hundred and seventeen people died in İzmir Province while an additional 1,034 were injured. In Greece, there were two fatalities and 19 injured. The earthquake is the deadliest in the year 2020, and the third major earthquake to strike Turkey that year. It generated an unusually large tsunami. The event is called the Samos earthquake by the International Seismological Centre."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2012,
-   "text": "Hurricane Sandy, the largest Atlantic hurricane on record, made landfall in New Jersey and caused nearly $75 billion in damages, becoming the second-most destructive storm in U.S. history.",
+   "year": 2010,
+   "text": "American comedians Jon Stewart and Stephen Colbert hosted the Rally to Restore Sanity and/or Fear in Washington, D.C.",
    "context": [
-    "Hurricane Sandy was an extremely large and devastating tropical cyclone which ravaged the Caribbean and the coastal Mid-Atlantic region of the United States in late October 2012. It was the largest Atlantic hurricane on record as measured by diameter, with tropical-storm-force winds spanning 1,150 miles (1,850 km). The storm inflicted nearly US$70 billion in damage, and killed 254 people in eight countries, from the Caribbean to Canada. The eighteenth named storm, tenth hurricane, and second major hurricane of the 2012 Atlantic hurricane season, Sandy was a Category 3 storm at its peak intensity when it made landfall in Cuba, though most of the damage it caused was after it became a Category 1–equivalent extratropical cyclone off the coast of the Northeastern United States."
+    "Jon Stewart is an American comedian, writer, producer, director, progressive political commentator, actor, and television host. Stewart is known as the host of the satirical news program The Daily Show on Comedy Central from 1999 to 2015 and part-time since 2024. He hosted The Problem with Jon Stewart on Apple TV+ from 2021 to 2023. Stewart has received numerous accolades, including 25 Primetime Emmy Awards, 2 Grammy Awards, and 5 Peabody Awards. He was honored with the Bronze Medallion in 2019 and the Mark Twain Prize for American Humor in 2022."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2007,
-   "text": "Somali pirates hijacked a North Korean ship in the Indian Ocean northeast of Mogadishu.",
+   "year": 2002,
+   "text": "After his terminal-cancer diagnosis, Warren Zevon made his last public appearance on the Late Show with David Letterman, giving the advice to \"enjoy every sandwich\".",
    "context": [
-    "On the evening of 29 October 2007, seven Somali pirates hijacked the North Korean cargo ship MV Dai Hong Dan (Korean: 대홍단호) in the Indian Ocean, approximately 110 kilometres northeast of the Somali capital, Mogadishu. The Dai Hong Dan, with a crew of 22 sailors, had departed Mogadishu earlier that day after unloading a shipment of sugar with the help of locals, including the pirates. The pirates gained permission to board the ship under the pretense of being Somali security personnel. They subsequently confined the crew to the steering and engine rooms at gunpoint and demanded a ransom of US$15,000 for their release."
+    "Warren William Zevon was an American rock singer and songwriter. His most famous compositions include \"Werewolves of London\", \"Lawyers, Guns and Money\" and \"Roland the Headless Thompson Gunner\". All three songs are featured on his third album, Excitable Boy (1978), the title track of which is also well-known. He also wrote major hits that were recorded by other artists, including \"Poor Poor Pitiful Me\", \"Mohammed's Radio\", \"Carmelita\" and \"Hasten Down the Wind\". Per The New York Times, \"Mr. Zevon had a pulp-fiction imagination\" which yielded \"terse, action-packed, gallows-humored tales that could sketch an entire screenplay in four minutes and often had death as a punchline. But there was also vulnerability and longing in Mr. Zevon's ballads, like 'Mutineer,' 'Accidentally Like a Martyr' and 'Hasten Down the Wind'.\""
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1999,
-   "text": "About 10,000 people died when the most intense tropical cyclone ever recorded in the North Indian Ocean made landfall in the Indian state of Odisha near Bhubaneswar.",
+   "year": 2001,
+   "text": "Michael Jackson released Invincible, his final studio album and the most expensive album ever produced.",
    "context": [
-    "The 1999 Odisha cyclone was the most intense tropical cyclone ever recorded in the North Indian Ocean and among the most destructive in the region. The cyclone organized into a tropical depression in the Andaman Sea on 25 October, though its origins could be traced back to an area of convection in the Sulu Sea four days prior. The disturbance gradually strengthened as it took a west-northwesterly path, reaching cyclonic storm strength the next day. Aided by highly favorable conditions, the storm rapidly intensified, attaining super cyclonic storm intensity on 28 October, before peaking on the next day with winds of 260 km/h (160 mph) and a record-low pressure of 912 hPa mbar 26.93 inHg). The storm maintained this intensity as it made landfall on Odisha on 29 October. The cyclone steadily weakened due to persistent land interaction and dry air, remaining quasi-stationary for two days before slowly drifting offshore as a much weaker system; the storm dissipated on 4 November over the Bay of Bengal."
+    "Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist. Dubbed the \"King of Pop\", he is widely regarded as one of the most culturally significant figures of the 20th century. His musical achievements broke American racial barriers and made him a dominant figure worldwide. Through his songs, music videos, concerts, and fashion, he transformed visual performance in popular music, popularizing street dance moves such as the moonwalk, the robot, and the anti-gravity lean. Jackson is often deemed the greatest entertainer of all time."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1998,
-   "text": "At 77 years old, former astronaut John Glenn (pictured) returned to space aboard the Space Shuttle Discovery on the STS-95 mission.",
+   "year": 1993,
+   "text": "The Troubles: Three members of the Ulster Defence Association opened fire in a crowded pub during a Halloween party, killing eight people and wounding nineteen others.",
    "context": [
-    "John Herschel Glenn Jr. was an American Marine Corps aviator, astronaut, businessman, and politician. He was the third American in space and the first to orbit the Earth, circling it three times in 1962. Following his retirement from NASA, he served from 1974 to 1999 as a U.S. senator from Ohio. In 1998, he flew into space again at the age of 77."
+    "The Troubles were an ethno-nationalist conflict in Northern Ireland that lasted from the late 1960s to 1998. Also known internationally as the Northern Ireland conflict, it is usually deemed to have ended with the Good Friday Agreement of 1998. Although centred in Northern Ireland, violence at times spilled into the Republic of Ireland, England, and mainland Europe. The conflict arose from political and nationalistic disputes with a strong ethnic and sectarian dimension. Unionists and loyalists, mostly Ulster Protestants, wanted Northern Ireland to remain in the United Kingdom, while Irish nationalists and republicans, mostly Irish Catholics, wanted it to join a united Ireland. Despite the division between Protestants and Catholics, it was not a religious war."
    ]
   },
   {
    "ref": "wikipedia#5",
    "year": 1991,
-   "text": "Galileo became the first spacecraft to visit an asteroid when it made a flyby of Gaspra.",
+   "text": "The Madrid Conference, an attempt by the international community to revive the Israeli–Palestinian peace process through negotiations, convened.",
    "context": [
-    "Galileo was an American robotic space probe that studied the planet Jupiter and its moons, as well as the asteroids Gaspra and Ida. Named after the Italian astronomer Galileo Galilei, it consisted of an orbiter and an entry probe. It was delivered into Earth orbit on October 18, 1989, by Space Shuttle Atlantis, during STS-34. Galileo arrived at Jupiter on December 7, 1995, after gravitational assist flybys of Venus and Earth, and became the first spacecraft to orbit an outer planet."
+    "The Madrid Conference of 1991 was a peace conference, held from 30 October to 1 November 1991 in Madrid, hosted by Spain and co-sponsored by the Soviet Union and the United States. It was an attempt by the international community to revive the Israeli–Palestinian peace process through negotiations, involving Israel and the Palestinians as well as Arab countries, including Jordan, Lebanon, Syria, and Egypt."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1986,
-   "text": "British prime minister Margaret Thatcher officially opened the M25, one of Britain's busiest motorways.",
+   "year": 1983,
+   "text": "As the military dictatorship came to an end, Argentina's first democratic election in a decade resulted in Raúl Alfonsín being elected president.",
    "context": [
-    "Margaret Hilda Thatcher, Baroness Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990 and Leader of the Conservative Party from 1975 to 1990. She was the longest-serving British prime minister of the 20th century and the first woman to hold the office. As prime minister, she implemented policies that came to be known as Thatcherism. A Soviet journalist dubbed her the \"Iron Lady\", a nickname that became associated with her uncompromising politics and leadership style."
+    "The National Reorganization Process was the military dictatorship that ruled Argentina from the coup d'état of 24 March 1976 until the transfer of power on 10 December 1983 to a government elected at the 1983 general election. In Argentina it is often known simply as the última junta militar, última dictadura militar, última dictadura cívico-militar, or última dictadura cívico-eclesial-militar —because there have been several in the country's history and no others like it since it ended. In journalism, and more rarely in academic literature, it has sometimes been referred to as totalitarian for its state terrorism mechanisms and an ideology centered around \"national integrity\", although the more commonly used terms in academia are \"authoritarian\" and \"bureaucratic-authoritarian\". Some scholars describe the regime as an example of neo-fascism."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1960,
-   "text": "A C-46 airliner carrying the Cal Poly Mustangs football team crashed during takeoff from Toledo Express Airport in Ohio, U.S., resulting in 22 deaths.",
+   "year": 1968,
+   "text": "A squad of 120 North Korean Army commandos landed in boats along a 25-mile long section of the eastern coast of South Korea in a failed attempt to overthrow the dictatorship of Park Chung Hee and reunify Korea.",
    "context": [
-    "The Curtiss C-46 Commando is a low-wing, twin-engine aircraft derived from the Curtiss CW-20 pressurized high-altitude airliner design. Early press reports used the name \"Condor III\" but the Commando name was in use by early 1942 in company publicity. It was used primarily as a cargo aircraft during World War II, with fold-down seating for military transport and some use in delivering paratroops. Mainly deployed by the United States Army Air Forces, it also served the U.S. Navy/Marine Corps, which called it R5C. The C-46 filled similar roles as its Douglas-built counterpart, the C-47 Skytrain, with some 3,200 C-46s produced to approximately 10,200 C-47s."
+    "The Korean People's Army encompasses the combined military forces of North Korea and the armed wing of the Workers' Party of Korea (WPK). The KPA consists of five branches: the Ground Force, the Naval Force, the Air Force, the Strategic Force, and the Special Operations Forces. It is commanded by the WPK Central Military Commission, which is chaired by the WPK general secretary, and the president of the State Affairs; both posts are currently headed by Kim Jong Un."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1956,
-   "text": "The Suez Crisis began with Israel invading the Sinai Peninsula and pushing Egyptian forces back toward the Suez Canal.",
+   "year": 1966,
+   "text": "Singaporean leftist opposition leader Chia Thye Poh was detained under the Internal Security Act, which allows for preventive detention; he was released 32 years later.",
    "context": [
-    "The Suez Crisis, also known as the second Arab–Israeli war, the Tripartite Aggression in the Arab world and the Sinai War in Israel, was a British–French–Israeli invasion of Egypt in 1956. Israel invaded on 29 October, with the primary objective of re-opening the Straits of Tiran and the Gulf of Aqaba as the recent tightening of the eight-year-long Egyptian blockade prevented Israeli passage. After issuing a joint ultimatum for a ceasefire, the United Kingdom and France joined the Israelis on 31 October in an attempt to depose Egyptian president Gamal Abdel Nasser and regain control of the Suez Canal. The countries came under heavy political pressure from the United States, the Soviet Union and the United Nations, prompting their withdrawal from Egypt."
+    "Chia Thye Poh is a Singaporean former politician who was the de facto Leader of the Opposition in 1966. He was the Legislative Assemblyman and later Member of Parliament (MP) for Jurong Constituency from 1963 to 1966."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1956,
-   "text": "Suez Crisis: The Israel Border Police massacred 48 Arab citizens in Kafr Qasim, among them women and children who were returning from work.",
+   "year": 1965,
+   "text": "English model Jean Shrimpton wore a controversially short minidress to Derby Day at Flemington Racecourse in Melbourne, Australia – a pivotal moment of the introduction of the miniskirt to women's fashion.",
    "context": [
-    "The Suez Crisis, also known as the second Arab–Israeli war, the Tripartite Aggression in the Arab world and the Sinai War in Israel, was a British–French–Israeli invasion of Egypt in 1956. Israel invaded on 29 October, with the primary objective of re-opening the Straits of Tiran and the Gulf of Aqaba as the recent tightening of the eight-year-long Egyptian blockade prevented Israeli passage. After issuing a joint ultimatum for a ceasefire, the United Kingdom and France joined the Israelis on 31 October in an attempt to depose Egyptian president Gamal Abdel Nasser and regain control of the Suez Canal. The countries came under heavy political pressure from the United States, the Soviet Union and the United Nations, prompting their withdrawal from Egypt."
+    "Jean Rosemary Shrimpton is an English model and actress. She was an icon of Swinging London and is considered one of the world's first supermodels. She appeared on numerous magazine covers including Vogue, Harper's Bazaar, Vanity Fair, Glamour, Elle, Ladies' Home Journal, Newsweek and Time."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1955,
-   "text": "An explosion, likely caused by a World War II–era naval mine, capsized the Soviet ship Novorossiysk in the harbor of Sevastopol, with the loss of 608 men.",
+   "year": 1960,
+   "text": "At the Royal Infirmary of Edinburgh, Michael Woodruff performed the first successful kidney transplantation in the United Kingdom.",
    "context": [
-    "A naval mine or sea mine is a self-contained explosive weapon placed in water to damage or destroy surface ships or submarines. Similar to anti-personnel and other land mines, and unlike purpose-launched naval depth charges, they are deposited and left to wait until, depending on their fuzing, they are triggered by the approach of or contact with any vessel."
+    "The Royal Infirmary of Edinburgh (RIE) is the oldest voluntary hospital in Scotland. It was established in 1729. After moving to a new site in 1879, it claimed to be the largest voluntary hospital in the United Kingdom, and later, in the British Empire. In 2003, it moved to a 900-bed site at Little France. It is the site of clinical medicine teaching as well as a teaching hospital for the University of Edinburgh Medical School. In 1960 the first successful kidney transplant in the UK was performed at the hospital. In 1964 the world's first coronary care unit was established at the hospital. It is the only site for liver, pancreas, and pancreatic islet cell transplantation in Scotland, and one of the country's two sites for kidney transplantation. In 2012, the Emergency Department had 113,000 patient attendances, the highest number in Scotland. It is managed by NHS Lothian."
    ]
   },
   {
    "ref": "wikipedia#11",
    "year": 1948,
-   "text": "Arab–Israeli War: The Israel Defense Forces massacred at least 52 villagers while capturing the Palestinian Arab village of Safsaf.",
+   "text": "A luzzu (Maltese fishing boat) overloaded with passengers capsized and sank in the Gozo Channel off Qala, killing 23 of the 27 people on board (monument pictured).",
    "context": [
-    "The 1948 Arab–Israeli War, also known as the First Arab–Israeli War, followed the civil war in Mandatory Palestine as the second and final stage of the 1948 Palestine war. The civil war became a war of separate states with the Israeli Declaration of Independence on 14 May 1948, the end of the British Mandate for Palestine at midnight, and the entry of a military coalition of Arab states into the territory of Mandatory Palestine the following morning. The war formally ended with the 1949 Armistice Agreements which established the Green Line."
+    "A luzzu is a traditional fishing boat from the Maltese islands. This type of boat developed in the early 20th century, although it is very similar to much older traditional Maltese boats such as the ferilla. They are usually painted in bright colours, while the bow has a pair of eyes."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1883,
-   "text": "The San Francisco Mint signed a contract to produce the Kalākaua coinage (coin pictured) for the Hawaiian Kingdom.",
+   "year": 1938,
+   "text": "CBS Radio broadcast \"The War of the Worlds\", a radio drama that newspapers accused of tricking Americans into believing there was an actual Martian invasion.",
    "context": [
-    "The San Francisco Mint is a branch of the United States Mint. Located in San Francisco, California and opened in 1854 to serve the gold mines of the California gold rush, in twenty years its operations exceeded the capacity of the first building. It moved into a new one in 1874, now known as the Old San Francisco Mint. In 1937 Mint operations moved into a third building, the current one, completed that year. Since 1955, it has primarily produced coins for numismatic purposes, though has been occasionally used for circulating issues. Coins produced at the San Francisco Mint bear the \"S\" mint mark."
+    "CBS Radio was a radio broadcasting company and radio network operator owned by CBS Corporation and founded in 1928, with consolidated radio station groups owned by CBS and Westinghouse Broadcasting/Group W since the 1920s, and Infinity Broadcasting since the 1970s. The broadcasting company was sold to Entercom on November 17, 2017."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1868,
-   "text": "The Nanbu clan of Honshu surrendered to Japanese imperial forces during the Boshin War.",
+   "year": 1888,
+   "text": "Lobengula, King of Matabeleland, granted the Rudd Concession (pictured) to agents of Cecil Rhodes, leading to the creation of the British South Africa Company.",
    "context": [
-    "The Nanbu clan  was a Japanese samurai clan who ruled most of northeastern Honshū in the Tōhoku region of Japan for over 700 years, from the Kamakura period through the Meiji Restoration of 1868. The Nanbu claimed descent from the Seiwa Genji of Kai Province and were thus related to the Takeda clan. The clan moved its seat from Kai to Mutsu Province in the early Muromachi period, and were confirmed as daimyō of Morioka Domain under the Edo-period Tokugawa shogunate. The domain was in constant conflict with neighboring Hirosaki Domain, whose ruling Tsugaru clan were once Nanbu retainers."
+    "Lobengula Khumalo was the second and last official king of Mthwakazi. Both names in the Ndebele language mean \"the men of the long shields\", a reference to the Ndebele warriors' use of the Nguni shield."
    ]
   },
   {
    "ref": "wikipedia#14",
    "year": 1863,
-   "text": "American Civil War: The Battle of Wauhatchie, one of the few night battles of the war, concluded with the Union Army opening a supply line to troops in Chattanooga, Tennessee.",
+   "text": "Seventeen-year-old Vilhelm, Prince of Denmark, arrived in Athens to become King George I of Greece (pictured).",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "Athens is the capital and largest city of Greece. A significant coastal urban area in the Mediterranean, Athens is also the capital of the Attica region and is the southernmost capital on the European mainland. With its urban area's population numbering over 3.6 million, it is the eighth-largest urban area in the European Union (EU). The Municipality of Athens, which constitutes a small administrative unit of the entire urban area, had a population of 643,452 in 2021, within its official limits, and a land area of 38.96 square kilometres. Athens joined the UNESCO Global Network of Learning Cities in 2016."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1831,
-   "text": "Rioting broke out in Bristol, England, after the Second Reform Bill failed during its passage through Parliament, causing 250 casualties and £300,000 of damage (pictured).",
+   "year": 1806,
+   "text": "War of the Fourth Coalition: Believing that they were outnumbered, the German garrison at Stettin surrendered to a much smaller French force (pictured) without a fight.",
    "context": [
-    "The 1831 Bristol riots took place on 29–31 October 1831 and were part of the 1831 reform riots in England. The riots arose after the second Reform Bill was voted down in the House of Lords, stalling efforts at electoral reform. The arrival of the anti-reform judge Charles Wetherell in the city on 29 October led to a protest, which degenerated into a riot. The civic and military authorities were poorly focused and uncoordinated and lost control of the city. Order was restored on the third day by a combination of a posse comitatus of the city's middle-class citizens and military forces."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 1792,
-   "text": "William Robert Broughton, a member of George Vancouver's expedition, observed a peak in the present-day U.S. state of Oregon and named it Mount Hood after British admiral Samuel Hood.",
-   "context": [
-    "William Robert Broughton was a British naval officer in the late 18th century. As a lieutenant in the Royal Navy, he commanded HMS Chatham as part of the Vancouver Expedition, a voyage of exploration through the Pacific Ocean led by Captain George Vancouver in the early 1790s."
+    "The War of the Fourth Coalition was a war spanning 1806–1807 that saw a multinational coalition fight against Napoleon's French Empire, subsequently being defeated. The main coalition partners were Prussia and Russia with Saxony, Sweden, and Great Britain also contributing. Excluding Prussia, some members of the coalition had previously been fighting France as part of the Third Coalition, and there was no intervening period of general peace. On 9 October 1806, Prussia declared war on France and joined a renewed coalition, fearing the rise in French power after the defeat of Austria and establishment of the French-sponsored Confederation of the Rhine in addition to having learned of French plans to cede Prussian-desired Hanover to Britain in exchange for peace. Prussia and Russia mobilized for a fresh campaign with France, massing troops in Saxony."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Jawboning (שידול מילולי)",
+  "Stalking-horse bid (הצעת פתיחה מוקדמת)",
+  "Throwing spaghetti at the wall (לזרוק ספגטי על הקיר)",
   "Total addressable market / TAM (פוטנציאל שוק כולל)",
   "Circular financing / circular deal (מימון מעגלי)",
   "Paper tiger (נמר של ניר)",
@@ -246,10 +241,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Priced in (כבר מגולם במחיר)",
   "Basis point (נקודת בסיס)",
   "Table stakes (דרישות סף)",
-  "Kick the can down the road (לדחות את ההכרעה)",
-  "Runway (זמן עד אזילת המזומן)",
-  "Dry powder (הון זמין להשקעה)",
-  "Boil the ocean (לנסות לעשות הכל בבת אחת)"
+  "Kick the can down the road (לדחות את ההכרעה)"
  ]
 }
 </input>

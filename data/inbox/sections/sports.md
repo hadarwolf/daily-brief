@@ -9,9 +9,9 @@ Write the Sports section: 3-5 stories.
  {
   "sport": "nba",
   "competition": "NBA",
-  "home": "Portland Trail Blazers",
-  "away": "Memphis Grizzlies",
-  "kickoff_utc": "2026-10-30T02:00:00.000Z"
+  "home": "Brooklyn Nets",
+  "away": "Detroit Pistons",
+  "kickoff_utc": "2026-10-30T23:30:00.000Z"
  }
 ]. Lead with a preview of that game (what's at stake, form, table position).
 - Fill israeli_players with one entry per player listed in nba_data.israeli_players, giving their latest game or news. If the input has nothing new on a player, say so plainly. Never invent stats. Box scores are often unavailable.
@@ -27,70 +27,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
   "matches": {
    "yesterday": [
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-28T17:30:00Z",
-     "home": "Venezia FC",
-     "away": "Inter",
-     "status": "FINISHED",
-     "score": "0-2"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-28T17:30:00Z",
-     "home": "Milan",
-     "away": "Bologna",
-     "status": "FINISHED",
-     "score": "2-4"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-28T17:30:00Z",
-     "home": "Parma",
-     "away": "Udinese",
-     "status": "FINISHED",
-     "score": "0-0"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-28T19:45:00Z",
-     "home": "Monza",
-     "away": "Napoli",
-     "status": "FINISHED",
-     "score": "1-4"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-10-28T19:45:00Z",
-     "home": "Genoa",
-     "away": "Juventus",
-     "status": "FINISHED",
-     "score": "2-0"
-    }
-   ],
-   "today": [
-    {
      "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-28T22:30:00Z",
-     "home": "Bragantino",
-     "away": "Chapecoense",
+     "kickoff_utc": "2026-10-29T00:30:00Z",
+     "home": "Bahia",
+     "away": "São Paulo",
      "status": "FINISHED",
-     "score": "3-0"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-28T22:30:00Z",
-     "home": "Fluminense",
-     "away": "Internacional",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-28T22:30:00Z",
-     "home": "Santos",
-     "away": "Palmeiras",
-     "status": "FINISHED",
-     "score": "0-0"
+     "score": "3-2"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -101,26 +43,100 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-1"
     },
     {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-29T00:30:00Z",
-     "home": "Bahia",
-     "away": "São Paulo",
-     "status": "FINISHED",
-     "score": "3-2"
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-29T17:30:00Z",
      "home": "Frosinone",
      "away": "Lecce",
-     "status": "TIMED",
-     "score": null
+     "status": "FINISHED",
+     "score": "5-1"
     },
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-10-29T19:45:00Z",
      "home": "Fiorentina",
      "away": "Atalanta",
+     "status": "FINISHED",
+     "score": "2-2"
+    }
+   ],
+   "today": [
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-29T22:30:00Z",
+     "home": "Mineiro",
+     "away": "Cruzeiro",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-29T23:00:00Z",
+     "home": "Vasco da Gama",
+     "away": "Flamengo",
+     "status": "FINISHED",
+     "score": "1-4"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-30T00:30:00Z",
+     "home": "Grêmio",
+     "away": "Paranaense",
+     "status": "FINISHED",
+     "score": "2-0"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-30T18:00:00Z",
+     "home": "Nice",
+     "away": "Stade Rennais",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-30T18:00:00Z",
+     "home": "Le Havre",
+     "away": "PSG",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-30T19:30:00Z",
+     "home": "Elversberg",
+     "away": "Mainz",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-30T20:00:00Z",
+     "home": "Sheffield Utd",
+     "away": "Wrexham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-30T20:00:00Z",
+     "home": "Villarreal",
+     "away": "Espanyol",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-30T20:05:00Z",
+     "home": "Lille",
+     "away": "RC Lens",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-10-30T20:15:00Z",
+     "home": "Casa Pia",
+     "away": "Sporting CP",
      "status": "TIMED",
      "score": null
     }
@@ -128,17 +144,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "tomorrow": [
     {
      "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-29T22:30:00Z",
-     "home": "Mineiro",
-     "away": "Cruzeiro",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-29T23:00:00Z",
-     "home": "Vasco da Gama",
-     "away": "Flamengo",
+     "kickoff_utc": "2026-10-30T23:00:00Z",
+     "home": "Corinthians",
+     "away": "Mirassol",
      "status": "TIMED",
      "score": null
     }
@@ -315,10 +323,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "pos": 6,
-     "team": "Napoli",
+     "team": "Frosinone",
      "played": 9,
-     "pts": 14,
-     "gd": 6
+     "pts": 17,
+     "gd": 8
     }
    ],
    "Ligue 1": [
@@ -465,95 +473,83 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
   "games_last_night": [
    {
     "home": "Atlanta Hawks",
-    "away": "Miami Heat",
-    "score": "117-129",
-    "status": "Final"
-   },
-   {
-    "home": "Cleveland Cavaliers",
-    "away": "Washington Wizards",
-    "score": "121-111",
-    "status": "Final"
-   },
-   {
-    "home": "Detroit Pistons",
-    "away": "Charlotte Hornets",
-    "score": "97-89",
-    "status": "Final"
-   },
-   {
-    "home": "Indiana Pacers",
-    "away": "Philadelphia 76ers",
-    "score": "109-114",
-    "status": "Final"
-   },
-   {
-    "home": "Toronto Raptors",
-    "away": "Orlando Magic",
-    "score": "129-99",
-    "status": "Final"
-   },
-   {
-    "home": "Chicago Bulls",
-    "away": "New York Knicks",
-    "score": "127-133",
-    "status": "Final"
-   },
-   {
-    "home": "Milwaukee Bucks",
-    "away": "Houston Rockets",
-    "score": "100-132",
-    "status": "Final"
-   },
-   {
-    "home": "Minnesota Timberwolves",
-    "away": "Golden State Warriors",
-    "score": "114-119",
-    "status": "Final"
-   },
-   {
-    "home": "New Orleans Pelicans",
-    "away": "Denver Nuggets",
-    "score": "91-104",
-    "status": "Final"
-   },
-   {
-    "home": "Utah Jazz",
-    "away": "San Antonio Spurs",
-    "score": "111-117",
-    "status": "Final"
-   },
-   {
-    "home": "Dallas Mavericks",
-    "away": "Oklahoma City Thunder",
-    "score": "120-96",
-    "status": "Final"
-   },
-   {
-    "home": "LA Clippers",
-    "away": "Los Angeles Lakers",
-    "score": "87-103",
-    "status": "Final"
-   }
-  ],
-  "games_today": [
-   {
-    "home": "Atlanta Hawks",
     "away": "Cleveland Cavaliers",
-    "score": null,
-    "status": "2026-10-30T00:00:00Z"
+    "score": "114-111",
+    "status": "Final"
    },
    {
     "home": "New Orleans Pelicans",
     "away": "Sacramento Kings",
-    "score": null,
-    "status": "2026-10-30T00:00:00Z"
+    "score": "132-120",
+    "status": "Final"
    },
    {
     "home": "Portland Trail Blazers",
     "away": "Memphis Grizzlies",
+    "score": "66-67",
+    "status": "3rd Qtr"
+   }
+  ],
+  "games_today": [
+   {
+    "home": "Washington Wizards",
+    "away": "Charlotte Hornets",
     "score": null,
-    "status": "2026-10-30T02:00:00Z"
+    "status": "2026-10-30T23:00:00Z"
+   },
+   {
+    "home": "Boston Celtics",
+    "away": "Chicago Bulls",
+    "score": null,
+    "status": "2026-10-30T23:30:00Z"
+   },
+   {
+    "home": "Brooklyn Nets",
+    "away": "Detroit Pistons",
+    "score": null,
+    "status": "2026-10-30T23:30:00Z"
+   },
+   {
+    "home": "Philadelphia 76ers",
+    "away": "New York Knicks",
+    "score": null,
+    "status": "2026-10-30T23:30:00Z"
+   },
+   {
+    "home": "Toronto Raptors",
+    "away": "Orlando Magic",
+    "score": null,
+    "status": "2026-10-30T23:30:00Z"
+   },
+   {
+    "home": "Miami Heat",
+    "away": "Indiana Pacers",
+    "score": null,
+    "status": "2026-10-31T00:00:00Z"
+   },
+   {
+    "home": "Dallas Mavericks",
+    "away": "Houston Rockets",
+    "score": null,
+    "status": "2026-10-31T00:00:00Z"
+   },
+   {
+    "home": "Minnesota Timberwolves",
+    "away": "LA Clippers",
+    "score": null,
+    "status": "2026-10-31T00:00:00Z"
+   },
+   {
+    "home": "Golden State Warriors",
+    "away": "Los Angeles Lakers",
+    "score": null,
+    "status": "2026-10-31T02:00:00Z"
+   },
+   {
+    "home": "Phoenix Suns",
+    "away": "Denver Nuggets",
+    "score": null,
+    "status": "2026-10-31T02:00:00Z"
    }
   ],
   "israeli_players": {
@@ -617,153 +613,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "Do Dundee United have Scotland's best midfield three?",
-     "published": "2026-10-29T08:21:35+00:00",
-     "summary": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland."
+     "title": "PSG score late to hold struggling Man City",
+     "published": "2026-10-29T22:40:17+00:00",
+     "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
     },
     {
      "ref": "bbc_football#1",
-     "title": "Do Dundee United have Scotland's best midfield three?",
-     "published": "2026-10-29T08:21:35+00:00",
-     "summary": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland."
+     "title": "PSG score late to hold struggling Man City",
+     "published": "2026-10-29T22:40:17+00:00",
+     "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
     },
     {
      "ref": "bbc_football#2",
-     "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
-     "published": "2026-10-29T08:07:22+00:00",
-     "summary": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?"
+     "title": "Fleetwood to face Everton in EFL Cup quarters",
+     "published": "2026-10-29T21:42:29+00:00",
+     "summary": "League Two Fleetwood Town will face Everton at Highbury in the quarter-finals of the EFL Cup."
     },
     {
      "ref": "bbc_football#3",
-     "title": "Podcast: Midweek mayhem in the SPFL - The full debrief",
-     "published": "2026-10-29T08:00:00+00:00",
-     "summary": "Tynecastle drama, Celtic held and mounting pressure at Aberdeen."
+     "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
+     "published": "2026-10-29T21:40:24+00:00",
+     "summary": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin."
     },
     {
      "ref": "bbc_football#4",
-     "title": "'Leggy' Rangers frustrate Makhanya - gossip",
-     "published": "2026-10-29T07:40:56+00:00",
-     "summary": "Rangers scorer frustrated as Celtic manager plays down hopes of winger getting starts."
+     "title": "What have we learned from first round of Premiership?",
+     "published": "2026-10-29T20:53:07+00:00",
+     "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far."
     },
     {
      "ref": "bbc_football#5",
-     "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
-     "published": "2026-10-29T06:27:10+00:00",
-     "summary": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him."
+     "title": "What have we learned from first round of Premiership?",
+     "published": "2026-10-29T20:53:07+00:00",
+     "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far."
     },
     {
      "ref": "bbc_football#6",
-     "title": "Who am I? Plus today's other quizzes",
-     "published": "2026-10-29T06:23:21+00:00",
-     "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
+     "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+     "published": "2026-10-29T19:55:24+00:00",
+     "summary": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
     },
     {
      "ref": "bbc_football#7",
-     "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-     "published": "2026-10-29T00:17:48+00:00",
-     "summary": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?"
+     "title": "Grealish dropped over 'breach of club discipline' - what now?",
+     "published": "2026-10-29T19:31:36+00:00",
+     "summary": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\"."
     },
     {
      "ref": "bbc_football#8",
-     "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-     "published": "2026-10-29T00:05:21+00:00",
-     "summary": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?"
+     "title": "Scottish football could pave way for 3pm TV blackout to end",
+     "published": "2026-10-29T17:43:53+00:00",
+     "summary": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle."
     },
     {
      "ref": "bbc_football#9",
-     "title": "Watch: Sportscene - all of Wednesday's Premiership goals",
-     "published": "2026-10-28T23:58:05+00:00",
-     "summary": "With Hearts v Rangers, Celtic v Dundee Utd and masses of midweek action"
+     "title": "Scottish football could pave way for 3pm TV blackout to end",
+     "published": "2026-10-29T17:43:53+00:00",
+     "summary": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle."
     },
     {
      "ref": "bbc_football#10",
-     "title": "Chelsea 'weren't clicking' but now they're flying - so what changed?",
-     "published": "2026-10-28T23:17:33+00:00",
-     "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?"
+     "title": "Celtic & Rangers Scottish Cup stadium closure upheld",
+     "published": "2026-10-29T17:20:57+00:00",
+     "summary": "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed."
     },
     {
      "ref": "bbc_football#11",
-     "title": "How unbeaten Chelsea are getting back to their best",
-     "published": "2026-10-28T23:17:33+00:00",
-     "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?"
+     "title": "Celtic & Rangers Scottish Cup stadium closure upheld",
+     "published": "2026-10-29T17:20:57+00:00",
+     "summary": "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed."
     },
     {
      "ref": "bbc_football#12",
-     "title": "'He knows his role' - Man City penalty hero Rulli still Donnarumma deputy",
-     "published": "2026-10-28T23:10:06+00:00",
-     "summary": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one."
+     "title": "Dowman to miss three matches after appeal rejected",
+     "published": "2026-10-29T17:19:06+00:00",
+     "summary": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected."
     },
     {
      "ref": "bbc_football#13",
-     "title": "Fleetwood to face Everton or Newcastle in last eight",
-     "published": "2026-10-28T22:45:35+00:00",
-     "summary": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup."
+     "title": "Football Daily",
+     "published": "2026-10-29T16:54:00+00:00",
+     "summary": "Rick & Lloyd are joined by Julien Laurens to discuss De Zerbi’s quiet transformation."
     },
     {
      "ref": "bbc_football#14",
-     "title": "Russo scores hat-trick as Arsenal beat Benfica",
-     "published": "2026-10-28T22:19:57+00:00",
-     "summary": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica."
+     "title": "Euro Leagues",
+     "published": "2026-10-29T16:21:00+00:00",
+     "summary": "Was David Raya robbed at the Ballon d'Or? And what did the continent make of Kane's win?"
     },
     {
      "ref": "bbc_football#15",
-     "title": "Kompany discharged from hospital following collapse",
-     "published": "2026-10-28T21:37:08+00:00",
-     "summary": "Bayern Munich head coach Vincent Kompany is discharged from hospital and \"doing well\" following his collapse at the club's training ground, according to a club board member."
+     "title": "McInnes defends Fernandez before League Cup semi",
+     "published": "2026-10-29T15:36:21+00:00",
+     "summary": "Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back \"has been a big part of our better performances this season\"."
     },
     {
      "ref": "bbc_football#16",
-     "title": "Sancho rejects Getafe - Thursday's gossip",
-     "published": "2026-10-28T21:34:36+00:00",
-     "summary": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford."
+     "title": "McInnes defends Fernandez before League Cup semi",
+     "published": "2026-10-29T15:36:21+00:00",
+     "summary": "Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back \"has been a big part of our better performances this season\"."
     },
     {
      "ref": "bbc_football#17",
-     "title": "Chelsea continue unbeaten start with win over Roma",
-     "published": "2026-10-28T20:36:25+00:00",
-     "summary": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League."
+     "title": "'Fully committed' Fernandes to remain Man Utd captain",
+     "published": "2026-10-29T14:31:52+00:00",
+     "summary": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea."
     },
     {
      "ref": "bbc_football#18",
-     "title": "Sesko ruled out until January with shin injury",
-     "published": "2026-10-28T19:57:04+00:00",
-     "summary": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury."
+     "title": "How Pressley's 'jobby team' are defying expectations to sit fourth",
+     "published": "2026-10-29T13:49:51+00:00",
+     "summary": "Steven Pressley has Dundee soaring high in fourth place in the Scottish Premiership after the first round of fixtures, but how has he done it?"
     },
     {
      "ref": "bbc_football#19",
-     "title": "Wrexham fined for fielding ineligible players",
-     "published": "2026-10-28T18:22:42+00:00",
-     "summary": "The English Football League fines Wrexham £75k for two instances of fielding ineligible players."
+     "title": "Toney nightclub assault trial set for June 2028",
+     "published": "2026-10-29T13:47:43+00:00",
+     "summary": "The footballer has denied assaulting a man at a Soho nightclub on 6 December last year."
     },
     {
      "ref": "bbc_football#20",
-     "title": "Burnley appoint ex-Basel boss Celestini as head coach",
-     "published": "2026-10-28T18:16:58+00:00",
-     "summary": "Burnley appoint Fabio Celestini as their head coach, four days after the departure of Nicky Hayen."
+     "title": "Is double drop from the Premier League becoming more common?",
+     "published": "2026-10-29T13:19:52+00:00",
+     "summary": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester."
     },
     {
      "ref": "bbc_football#21",
-     "title": "72+: The EFL Podcast",
-     "published": "2026-10-28T16:32:00+00:00",
-     "summary": "Fleetwood Town manager Matt Lawlor chats after knocking Arsenal out of the League Cup."
+     "title": "Why is there only one Premier League match on Sunday?",
+     "published": "2026-10-29T12:47:29+00:00",
+     "summary": "BBC Sport's Ask Me Anything team explains where is no 14:00 GMT kick-off on Sunday in the Premier League this weekend."
     },
     {
      "ref": "bbc_football#22",
-     "title": "Ousmane Dembele, Winchester City and the Ballon d'Or",
-     "published": "2026-10-28T16:01:47+00:00",
-     "summary": "France and PSG star Ousmane Dembele's unique connection to non-league side Winchester City resurfaces at Monday's Ballon d'Or ceremony."
+     "title": "Sometimes managers need sacking for own good - Neville",
+     "published": "2026-10-29T11:00:53+00:00",
+     "summary": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick."
     },
     {
      "ref": "bbc_football#23",
-     "title": "Johnstone Burgh to play two cup ties simultaneously after schedule clash",
-     "published": "2026-10-28T15:34:02+00:00",
-     "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart."
+     "title": "'I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle",
+     "published": "2026-10-29T10:45:18+00:00",
+     "summary": "Carlisle boss Rob Elliot praises his nine-man side after their \"incredible\" win over Harrogate."
     },
     {
      "ref": "bbc_football#24",
-     "title": "McClean leaves Derry City after contract dispute",
-     "published": "2026-10-28T13:25:57+00:00",
-     "summary": "James McClean says Derry City \"will always hold a special place in my heart\" after mutually agreeing to terminate his contract with immediate effect."
+     "title": "Do Dundee United have Scotland's best midfield three?",
+     "published": "2026-10-29T08:21:35+00:00",
+     "summary": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland."
     }
    ]
   },
@@ -773,153 +769,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw - Al Jazeera",
-     "published": "2026-10-29T09:12:52+00:00",
-     "summary": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw Al Jazeera"
+     "title": "The reason Lionel Messi can play vs NE Revolution despite 5th yellow card with Inter Miami - Bolavip US",
+     "published": "2026-10-29T21:13:21+00:00",
+     "summary": "The reason Lionel Messi can play vs NE Revolution despite 5th yellow card with Inter Miami Bolavip US"
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Inter Miami 2-2 FC Cincinnati: Filipi's late equaliser rescues a point for Messi and Co. - beIN SPORTS",
-     "published": "2026-10-29T08:55:26+00:00",
-     "summary": "Inter Miami 2-2 FC Cincinnati: Filipi's late equaliser rescues a point for Messi and Co. beIN SPORTS"
+     "title": "Messi eligible for crunch Miami game with Revs despite yellow card haul - ESPN",
+     "published": "2026-10-29T20:07:00+00:00",
+     "summary": "Messi eligible for crunch Miami game with Revs despite yellow card haul ESPN"
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "Inter Miami rescue 2-2 draw against FC Cincinnati with late Fillipi goal - The Statesman",
-     "published": "2026-10-29T08:26:00+00:00",
-     "summary": "Inter Miami rescue 2-2 draw against FC Cincinnati with late Fillipi goal The Statesman"
+     "title": "Lionel Messi Suspension Canceled By MLS ‘Good Behavior’ Rule - Heavy.com",
+     "published": "2026-10-29T19:45:14+00:00",
+     "summary": "Lionel Messi Suspension Canceled By MLS ‘Good Behavior’ Rule Heavy.com"
     },
     {
      "ref": "gnews_inter_miami#3",
-     "title": "Suarez scores, Messi frustrated and Casemiro steadies the back line as Inter Miami rescue 2-2 draw with Cincinnati - Goal.com",
-     "published": "2026-10-29T06:00:44+00:00",
-     "summary": "Suarez scores, Messi frustrated and Casemiro steadies the back line as Inter Miami rescue 2-2 draw with Cincinnati Goal.com"
+     "title": "MATCHDAY GUIDE | Revs vs. Inter Miami CF (November 1, 2026) - revolutionsoccer.net",
+     "published": "2026-10-29T19:08:04+00:00",
+     "summary": "MATCHDAY GUIDE | Revs vs. Inter Miami CF (November 1, 2026) revolutionsoccer.net"
     },
     {
      "ref": "gnews_inter_miami#4",
-     "title": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head - BBC",
-     "published": "2026-10-29T05:18:05+00:00",
-     "summary": "Inter Miami vs Cincinnati: Major League Soccer stats & head-to-head BBC"
+     "title": "NYCFC SPRINT SEASON: Club opens at Nashville on Feb. 20, hosts Inter Miami on March 3 - Front Row Soccer",
+     "published": "2026-10-29T19:00:21+00:00",
+     "summary": "NYCFC SPRINT SEASON: Club opens at Nashville on Feb. 20, hosts Inter Miami on March 3 Front Row Soccer"
     },
     {
      "ref": "gnews_inter_miami#5",
+     "title": "Everything You Need to Know About the 2027 MLS Sprint Season - Inter Miami CF",
+     "published": "2026-10-29T18:45:55+00:00",
+     "summary": "Everything You Need to Know About the 2027 MLS Sprint Season Inter Miami CF"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
+     "title": "Lionel Messi's Inter Miami to open 2027 MLS Sprint Season vs. FC Cincinnati on Feb. 19 - Goal.com",
+     "published": "2026-10-29T18:12:40+00:00",
+     "summary": "Lionel Messi's Inter Miami to open 2027 MLS Sprint Season vs. FC Cincinnati on Feb. 19 Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
+     "title": "Inter Miami CF’s 2027 MLS Sprint Season Schedule Unveiled - Inter Miami CF",
+     "published": "2026-10-29T18:00:49+00:00",
+     "summary": "Inter Miami CF’s 2027 MLS Sprint Season Schedule Unveiled Inter Miami CF"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
+     "title": "MLS Picks: Revolution Vs Inter Miami, Whitecaps Vs Sounders Odds - RG.org",
+     "published": "2026-10-29T17:42:37+00:00",
+     "summary": "MLS Picks: Revolution Vs Inter Miami, Whitecaps Vs Sounders Odds RG.org"
+    },
+    {
+     "ref": "gnews_inter_miami#9",
+     "title": "Inter Miami CF Academy Enjoys Successful Tournament Weekend - Inter Miami CF",
+     "published": "2026-10-29T17:10:44+00:00",
+     "summary": "Inter Miami CF Academy Enjoys Successful Tournament Weekend Inter Miami CF"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
+     "title": "Will Messi Be Able to Play for Inter Miami This Weekend? - beIN SPORTS",
+     "published": "2026-10-29T16:33:49+00:00",
+     "summary": "Will Messi Be Able to Play for Inter Miami This Weekend? beIN SPORTS"
+    },
+    {
+     "ref": "gnews_inter_miami#11",
+     "title": "Lionel Messi’s Inter Miami compromise 2027 Concacaf Champions Cup spot with 2-2 draw vs Cincinnati - World Soccer Talk",
+     "published": "2026-10-29T16:29:47+00:00",
+     "summary": "Lionel Messi’s Inter Miami compromise 2027 Concacaf Champions Cup spot with 2-2 draw vs Cincinnati World Soccer Talk"
+    },
+    {
+     "ref": "gnews_inter_miami#12",
+     "title": "MLS unveils key 2027 sprint season matches on Apple TV as Lionel Messi’s Inter Miami opens historic calendar shift - MacDailyNews",
+     "published": "2026-10-29T13:30:16+00:00",
+     "summary": "MLS unveils key 2027 sprint season matches on Apple TV as Lionel Messi’s Inter Miami opens historic calendar shift MacDailyNews"
+    },
+    {
+     "ref": "gnews_inter_miami#13",
+     "title": "MLS 2027 Sprint Season: Lionel Messi’s Inter Miami to face Cincinnati in February 19 opener - Sportstar",
+     "published": "2026-10-29T12:08:54+00:00",
+     "summary": "MLS 2027 Sprint Season: Lionel Messi’s Inter Miami to face Cincinnati in February 19 opener Sportstar"
+    },
+    {
+     "ref": "gnews_inter_miami#14",
+     "title": "A DECISION FOR DECISION DAY: Tubi to stream 2 matches, including Inter Miami on Nov. 7 - Front Row Soccer",
+     "published": "2026-10-29T12:00:00+00:00",
+     "summary": "A DECISION FOR DECISION DAY: Tubi to stream 2 matches, including Inter Miami on Nov. 7 Front Row Soccer"
+    },
+    {
+     "ref": "gnews_inter_miami#15",
+     "title": "Will Lionel Messi play for Inter Miami against New England Revolution? - Diario AS",
+     "published": "2026-10-29T10:53:50+00:00",
+     "summary": "Will Lionel Messi play for Inter Miami against New England Revolution? Diario AS"
+    },
+    {
+     "ref": "gnews_inter_miami#16",
+     "title": "Messi did not score or assist: Inter Miami escape defeat with a late equaliser against Cincinnati - Goal.com",
+     "published": "2026-10-29T10:38:47+00:00",
+     "summary": "Messi did not score or assist: Inter Miami escape defeat with a late equaliser against Cincinnati Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
+     "title": "Lionel Messi’s Inter Miami to open MLS Sprint Season 2027: Key dates revealed - Diario AS",
+     "published": "2026-10-29T10:38:40+00:00",
+     "summary": "Lionel Messi’s Inter Miami to open MLS Sprint Season 2027: Key dates revealed Diario AS"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
+     "title": "Inter Miami draw 2-2 with Cincinnati and drop to third place — Al Jazeera - UA.NEWS",
+     "published": "2026-10-29T09:56:25+00:00",
+     "summary": "Inter Miami draw 2-2 with Cincinnati and drop to third place — Al Jazeera UA.NEWS"
+    },
+    {
+     "ref": "gnews_inter_miami#19",
+     "title": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw - Al Jazeera",
+     "published": "2026-10-29T09:17:16+00:00",
+     "summary": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw Al Jazeera"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
+     "title": "Inter Miami 2-2 FC Cincinnati: Filipi's late equaliser rescues a point for Messi and Co. - FotMob",
+     "published": "2026-10-29T08:55:26+00:00",
+     "summary": "Inter Miami 2-2 FC Cincinnati: Filipi's late equaliser rescues a point for Messi and Co. FotMob"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
+     "title": "New England Revolution - Inter Miami - Flashscore.com",
+     "published": "2026-10-29T06:52:35+00:00",
+     "summary": "New England Revolution - Inter Miami Flashscore.com"
+    },
+    {
+     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami vs FC Cincinnati - Matchday Album - FC Cincinnati",
      "published": "2026-10-29T04:09:55+00:00",
      "summary": "Inter Miami vs FC Cincinnati - Matchday Album FC Cincinnati"
     },
     {
-     "ref": "gnews_inter_miami#6",
-     "title": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis - ESPN",
-     "published": "2026-10-29T03:52:47+00:00",
-     "summary": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis ESPN"
-    },
-    {
-     "ref": "gnews_inter_miami#7",
-     "title": "FC Cincinnati at Inter Miami CF - MLS Game Summary - Oct 28, 2026 - USA Today",
-     "published": "2026-10-29T03:30:27+00:00",
-     "summary": "FC Cincinnati at Inter Miami CF - MLS Game Summary - Oct 28, 2026 USA Today"
-    },
-    {
-     "ref": "gnews_inter_miami#8",
-     "title": "No goal for Messi as Inter Miami secures draw with FC Cincinnati in MLS - Sportstar",
-     "published": "2026-10-29T03:16:34+00:00",
-     "summary": "No goal for Messi as Inter Miami secures draw with FC Cincinnati in MLS Sportstar"
-    },
-    {
-     "ref": "gnews_inter_miami#9",
-     "title": "RECAP | Inter Miami CF 2, FC Cincinnati 2 - FC Cincinnati",
-     "published": "2026-10-29T03:11:59+00:00",
-     "summary": "RECAP | Inter Miami CF 2, FC Cincinnati 2 FC Cincinnati"
-    },
-    {
-     "ref": "gnews_inter_miami#10",
-     "title": "FC Cincinnati draws with Messi, Miami on goals by Mboma Dem, Gidi - Cincinnati Enquirer",
-     "published": "2026-10-29T02:57:57+00:00",
-     "summary": "FC Cincinnati draws with Messi, Miami on goals by Mboma Dem, Gidi Cincinnati Enquirer"
-    },
-    {
-     "ref": "gnews_inter_miami#11",
-     "title": "MATCH RECAP: Inter Miami CF Draws Against FC Cincinnati - Inter Miami CF",
-     "published": "2026-10-29T02:38:44+00:00",
-     "summary": "MATCH RECAP: Inter Miami CF Draws Against FC Cincinnati Inter Miami CF"
-    },
-    {
-     "ref": "gnews_inter_miami#12",
-     "title": "HIGHLIGHTS | Inter Miami CF vs. FC Cincinnati | October 28, 2026 - FC Cincinnati",
-     "published": "2026-10-29T02:34:50+00:00",
-     "summary": "HIGHLIGHTS | Inter Miami CF vs. FC Cincinnati | October 28, 2026 FC Cincinnati"
-    },
-    {
-     "ref": "gnews_inter_miami#13",
-     "title": "Inter Miami nearly collapses, ties FC Cincinnati 2-2 thanks to equalizer in 90th minute - Yahoo Sports",
-     "published": "2026-10-29T02:31:00+00:00",
-     "summary": "Inter Miami nearly collapses, ties FC Cincinnati 2-2 thanks to equalizer in 90th minute Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#14",
-     "title": "Messi’s sweet interaction with a child wins over fans before Inter Miami match - MARCA",
-     "published": "2026-10-29T02:31:00+00:00",
-     "summary": "Messi’s sweet interaction with a child wins over fans before Inter Miami match MARCA"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
-     "title": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 - WSVN",
-     "published": "2026-10-29T02:04:08+00:00",
-     "summary": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 WSVN"
-    },
-    {
-     "ref": "gnews_inter_miami#16",
-     "title": "Inter Miami CF vs. FC Cincinnati - Game Highlights - ESPN",
-     "published": "2026-10-29T02:00:38+00:00",
-     "summary": "Inter Miami CF vs. FC Cincinnati - Game Highlights ESPN"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
-     "title": "Inter Miami CF - FC Cincinnati 2 - 2 | GOAL - Riquelme Fillipi, Major League Soccer - Forza Football",
-     "published": "2026-10-29T01:59:19+00:00",
-     "summary": "Inter Miami CF - FC Cincinnati 2 - 2 | GOAL - Riquelme Fillipi, Major League Soccer Forza Football"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
-     "title": "Highlights: Inter Miami CF 2-2 FC Cincinnati (MLS), Major League Soccer - Forza Football",
-     "published": "2026-10-29T01:59:12+00:00",
-     "summary": "Highlights: Inter Miami CF 2-2 FC Cincinnati (MLS), Major League Soccer Forza Football"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Photo Gallery: Inter Miami vs. FC Cincinnati | Wednesday, Oct. 28, 2026 - Miami Herald",
-     "published": "2026-10-29T01:58:25+00:00",
-     "summary": "Photo Gallery: Inter Miami vs. FC Cincinnati | Wednesday, Oct. 28, 2026 Miami Herald"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Inter Miami CF - FC Cincinnati 1 - 0 | GOAL - Luis Suárez, Major League Soccer - Forza Football",
-     "published": "2026-10-29T01:58:00+00:00",
-     "summary": "Inter Miami CF - FC Cincinnati 1 - 0 | GOAL - Luis Suárez, Major League Soccer Forza Football"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 - Times Union",
-     "published": "2026-10-29T01:55:00+00:00",
-     "summary": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 Times Union"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "HIGHLIGHTS: Inter Miami CF vs. FC Cincinnati | October 28, 2026 - MLSsoccer.com",
-     "published": "2026-10-29T01:53:57+00:00",
-     "summary": "HIGHLIGHTS: Inter Miami CF vs. FC Cincinnati | October 28, 2026 MLSsoccer.com"
-    },
-    {
      "ref": "gnews_inter_miami#23",
-     "title": "Inter Miami CF Draws FC Cincinnati 2-2 in Dramatic Late Comeback - WPLG Local 10",
-     "published": "2026-10-29T01:53:25+00:00",
-     "summary": "Inter Miami CF Draws FC Cincinnati 2-2 in Dramatic Late Comeback WPLG Local 10"
+     "title": "FC Cincinnati vs. Inter Miami CF - WHIO TV",
+     "published": "2026-10-29T04:00:00+00:00",
+     "summary": "FC Cincinnati vs. Inter Miami CF WHIO TV"
     },
     {
      "ref": "gnews_inter_miami#24",
-     "title": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 - Toronto Star",
-     "published": "2026-10-29T01:52:21+00:00",
-     "summary": "Lionel Messi goes scoreless, Inter Miami needs late goal to tie Cincinnati 2-2 Toronto Star"
+     "title": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis - ESPN",
+     "published": "2026-10-29T03:52:47+00:00",
+     "summary": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis ESPN"
     }
    ]
   },
@@ -929,99 +925,111 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Should I Trade Andre Drummond for Ben Saraf? | Fantasy Basketball - FantasyPros",
+     "published": "2026-10-29T22:57:57+00:00",
+     "summary": "Should I Trade Andre Drummond for Ben Saraf? | Fantasy Basketball FantasyPros"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
+     "title": "Deni Avdija with the and-1 bucket - ESPN",
+     "published": "2026-10-29T22:31:10+00:00",
+     "summary": "Deni Avdija with the and-1 bucket ESPN"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
+     "title": "Nets' Ben Saraf: Option picked up - CBS Sports",
+     "published": "2026-10-29T17:12:13+00:00",
+     "summary": "Nets' Ben Saraf: Option picked up CBS Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
+     "title": "Ben Saraf News: Option picked up - RotoWire",
+     "published": "2026-10-29T17:12:13+00:00",
+     "summary": "Ben Saraf News: Option picked up RotoWire"
+    },
+    {
+     "ref": "gnews_israeli_nba#4",
+     "title": "Deni Avdija First Basket Pick & Odds Today (Oct. 29) - Lineups",
+     "published": "2026-10-29T15:36:08+00:00",
+     "summary": "Deni Avdija First Basket Pick & Odds Today (Oct. 29) Lineups"
+    },
+    {
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija shines with 23 points as undefeated Portland defeats Lakers - The Jerusalem Post",
      "published": "2026-10-29T08:45:15+00:00",
      "summary": "Deni Avdija shines with 23 points as undefeated Portland defeats Lakers The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#6",
+     "title": "NBA player props today: Thursday's best props include Deni Avdija [10/29/2026] - Dimers",
+     "published": "2026-10-29T07:56:55+00:00",
+     "summary": "NBA player props today: Thursday's best props include Deni Avdija [10/29/2026] Dimers"
+    },
+    {
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija scores nine fourth-quarter points - NBC Sports",
      "published": "2026-10-28T15:37:36+00:00",
      "summary": "Deni Avdija scores nine fourth-quarter points NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#8",
+     "title": "Famous Jewish NBA players and the stories behind their careers - Tuko News",
+     "published": "2026-10-28T15:33:31+00:00",
+     "summary": "Famous Jewish NBA players and the stories behind their careers Tuko News"
+    },
+    {
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA - The Straits Times",
      "published": "2026-10-28T10:24:00+00:00",
      "summary": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA The Straits Times"
     },
     {
-     "ref": "gnews_israeli_nba#3",
-     "title": "Deni Avdija Scores 23 Points In Win Over Lakers - FanDuel",
-     "published": "2026-10-28T09:41:12+00:00",
-     "summary": "Deni Avdija Scores 23 Points In Win Over Lakers FanDuel"
-    },
-    {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#10",
      "title": "Trail Blazers' Deni Avdija: Logs team-high 23 points - CBS Sports",
      "published": "2026-10-28T09:41:00+00:00",
      "summary": "Trail Blazers' Deni Avdija: Logs team-high 23 points CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija News: Logs team-high 23 points - RotoWire",
      "published": "2026-10-28T09:33:34+00:00",
      "summary": "Deni Avdija News: Logs team-high 23 points RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#12",
      "title": "NBA: Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - GMA Network",
      "published": "2026-10-28T06:35:07+00:00",
      "summary": "NBA: Deni Avdija, Blazers prevail in battle of unbeatens against Lakers GMA Network"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - The Daily News | Texas' Oldest Newspaper",
      "published": "2026-10-28T06:24:06+00:00",
      "summary": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers The Daily News | Texas' Oldest Newspaper"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija gets the hoop and the harm - ESPN",
      "published": "2026-10-28T06:17:23+00:00",
      "summary": "Deni Avdija gets the hoop and the harm ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#15",
      "title": "Ja Morant, Damian Lillard lead unbeaten Trail Blazers past Lakers 136-129 despite Luka Doncic's 41 - Bozeman Daily Chronicle",
      "published": "2026-10-28T06:09:49+00:00",
      "summary": "Ja Morant, Damian Lillard lead unbeaten Trail Blazers past Lakers 136-129 despite Luka Doncic's 41 Bozeman Daily Chronicle"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija dials from long distance, 10/27/2026 - Yahoo Sports",
      "published": "2026-10-28T06:09:11+00:00",
      "summary": "Deni Avdija dials from long distance, 10/27/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija gets the hoop and the harm - ESPN",
      "published": "2026-10-28T05:38:05+00:00",
      "summary": "Deni Avdija gets the hoop and the harm ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#12",
-     "title": "Brooklyn Nets send Israeli guard Ben Saraf to G League after limited NBA playing time - Ynetnews",
-     "published": "2026-10-27T01:32:22+00:00",
-     "summary": "Brooklyn Nets send Israeli guard Ben Saraf to G League after limited NBA playing time Ynetnews"
-    },
-    {
-     "ref": "gnews_israeli_nba#13",
-     "title": "Ben Saraf game log — 2026-27 / NBA - BasketNews.com",
-     "published": "2026-10-27T01:28:18+00:00",
-     "summary": "Ben Saraf game log — 2026-27 / NBA BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
-     "title": "Nets' Ben Saraf: Sent to Long Island - CBS Sports",
-     "published": "2026-10-26T15:14:04+00:00",
-     "summary": "Nets' Ben Saraf: Sent to Long Island CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
-     "title": "Ben Saraf News: Sent to Long Island - RotoWire",
-     "published": "2026-10-26T15:14:04+00:00",
-     "summary": "Ben Saraf News: Sent to Long Island RotoWire"
     }
    ]
   }

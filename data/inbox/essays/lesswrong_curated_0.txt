@@ -98,23 +98,23 @@ Cool. I must admit, it's pretty fun to envision the cyberpunk world you'd create
 
 The year is 2047. For twenty years, Plan R has been in effect, the world paused on the brink of AGI. The world's best AIs are only about as capable as Mythos 6 / Astra 6.5 / etc., when it comes to AI R&D skills, because the transparent, government-monitored AI R&D orgs have really gone hard at prosaic AI safety. No neuralese, CoT more faithful than ever, plus an extra layer of j-space monitoring. Teaching the models AI R&D, bio, and persuasion skills is basically forbidden, so their skills in those domains come from generalizing from the world knowledge, video game, physical engineering, and robotic manipulation and navigation environments they are trained in. They are basically AGI now, able to do pretty much any profession except those that heavily rely on persuasion/charisma and those that heavily involve coding or AI research or those that heavily involve bio research. In those domains they are merely very good, but they've been trained to refuse and al... (read more)
 
+Curated. Love to see more specific plans being worked out, which is still greatly undervalued, and I like how this utilizes ASICs and separates out financial incentives from research groups and companies. Also loved Kokotajlo's comment visualizing this world.
+
 For those who haven't seen it, LLMs burnt into ASICs can run shockingly fast. Here's a demo of an ASIC that can run Llama-3.1-8B (which came out only slightly more than two years ago! This chip did not take that long to make!) The numbers here are around 17,000 tokens/sec, compared to the B300's ~500 tokens/sec.
 
 I'd guess that if capabilities did stagnate at the current level for ~years (whether due to a pause or some ceiling in ability), companies would begin to turn to ASIC inference for their frontier models for purely financial reasons, which could set up for this. I'm not sure what other worlds lead to a pursual of Plan R.
 
 SRAM or hardcoded weights (with SRAM KV cache) doesn't really work for the biggest models. You need too many chips to fit a big model, many more than you need if you also use HBM for each chip (to store both weights and KV), at which point the networking gets infeasible. With B300s and such you can serve the biggest models batch-size-1 with no MTP to get 10x faster (by only reading the active-not-total params and KV for a single request each pass), but that's maybe 20x more expensive per token.
 
-Curated. Love to see more specific plans being worked out, which is still greatly undervalued, and I like how this utilizes ASICs and separates out financial incentives from research groups and companies. Also loved Kokotajlo's comment visualizing this world.
-
 I might be missing something, but why is (B) relevant, given (A)? If (A) also involves the likely destruction of the controlling entity itself (as is the case with unaligned ASI), then for a rational player there is no incentive to pursue it even given (B). And if (A) doesn't harm the controlling entitiy, and just gives it control over the world, then it automatically implies (B) as well, since no one can stop it?The analogy with nuclear weapons breaks down, because there the relevant fact was not (B), but rather that other players also got nuclear weapons, and in particular, second-strike capability / MAD.
-
-Burning the weights into an ASIC would effectively make them public to anyone willing to expend with one of their purchased chips, right? They could extract the weights and then run them in their own GPUs/TPUs. One would need to encrypt the weights in the chip to avoid extraction, but that would increase the transistors per weight immensely with of the decryption circuits (or slow it down with serial decryptions). Or, one could FHE everything, but this would also come with an immense size/transistor count cost.
 
 Nuclear technology and bioweapon technology both approximate (A) and they are mostly okay because without (B), there isn't an incentive for people controlling them to push their luck on safety.
 
 Wait, what? I thought the massive runup in nuclear weapons was primarily because of the 'unbounded claim' dynamics (first strike capability maybe means you can rule the world).
 
 Obviously, the humans made a mistake in letting the AI company write the IOUs to them. But once there's a system for stocks, banking, money, etc, letting people write you IOUs is the default an
+
+Burning the weights into an ASIC would effectively make them public to anyone willing to expend with one of their purchased chips, right? They could extract the weights and then run them in their own GPUs/TPUs. One would need to encrypt the weights in the chip to avoid extraction, but that would increase the transistors per weight immensely with of the decryption circuits (or slow it down with serial decryptions). Or, one could FHE everything, but this would also come with an immense size/transistor count cost.
 
 I wonder what a red teaming of this idea looks like?
 
@@ -126,9 +126,27 @@ What it mostly seems to do is throw sand in the gears, which, ok but doesn't rea
 
 Blocking any sort of test time t... (read more)
 
+Firstly, can the lab repeatedly train the same model (with different seeds) to get past the copy limit? This seems like the main barrier to the research org gaining and "unbounded claim on the future"? I suppose there's also the limit on equity and maybe you think that means they'll only be able to do this at a certain rate?
+
 This seems like a massive sacrifice and I'm not sure the safety benefits are that much given you still plan to mass-produce AIs and hand them de facto control of large chunks of the economy.
 
+It's a nice idea in theory, but I'm skeptical that it is achievable. Especially as you describe it.
+
+I would say this boils down to separating out the economic incentives, so that A) has room to proceed slightly slower and more safely. The ASIC question is kind of orthogonal, and I think it would not be well-received because it would devalue our massive existing infrastructure investments, and slow progress more than would be palatable.To me, on the incentives side, your proposal is basically nationalization of compute and the formation of a gov-supervised Manhattan project, with corporate partners handling the diffusion. The AI R&D arm can't be corporate, because any way you give them revenue for funding, it brings back in the economic incentives. Debt is not realistic without revenue expectations (which would reintroduce economic incentives). Charity is insufficient. So they would need to be government financed, one way or another. You could have the deployment partners send licensing revenue back up, but that still reintroduces economic incentives.If you could snap your fingers and make it happen, I do think it lowers p(doom). But there is a massive political boulder to be mov... (read more)
+
+I've built 3 production level harnesses and find the value to be in the tools that leverage the LLM output. A model that is burned in is (IMO) better than one that can have personality changes and blow out prompts and puke outputs.
+
+This sounds like the way people here would talk about alignment in the late 2010s, where you look for a technical solution for AI safety that's bulletproof as long as everybody agrees to do AI a certain way.
+
+But, well... This is not a realistic plan. People, investment funds, countries have invested literal billions of dollars into NVidia GPUs. If you come to them and say "I am the AI czar, you must now sign an international treaty that says that the only AIs you're allowed to run must be printed on single-purpose ASICs", they're going to laugh in your face.
+
+I'm not going to go into this point by point, but it just doesn't seem grounded in reality at all.
+
 So the plan is… only let academic institutions do capabilities research, but force them to do it in air-gapped facilities?
+
+Well, a simple rule that might help seriously blunt that risk is that the AI R&D orgs would not be allowed to use their own models
+
+How will they benchmark the models? You could say the deployment companies will do that, but what about sensitive capabilities? You don't want to hand a cyber-capable and misaligned model to the deployment company that wants to "move fast and break things," and how can you ensure you won't do that without some kind of testing? The government will do that, perhaps?Then are they allowed to benchmark but not use it on research? Isn't it worth determining if AI is good at frontier AI R&D? I don't necessarily oppose this idea but these are important gaps.
 
 This is one of the more lucid plans on ai safety and alignment, although in fairness it would have to involve massive amounts of civilisational cooperation- I would not necessarily put it past humanity's abilities (see transnational agreements on nuclear warheads and their proliferation). I think currently there is only possible path for the complete execution of plan R:
 
