@@ -29,18 +29,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-29T00:30:00Z",
-     "home": "Bahia",
-     "away": "São Paulo",
-     "status": "FINISHED",
-     "score": "3-2"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-10-29T00:30:00Z",
      "home": "Clube do Remo",
      "away": "Botafogo",
      "status": "FINISHED",
      "score": "2-1"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-10-29T00:30:00Z",
+     "home": "Bahia",
+     "away": "São Paulo",
+     "status": "FINISHED",
+     "score": "3-2"
     },
     {
      "competition": "Serie A",
@@ -87,16 +87,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-30T18:00:00Z",
-     "home": "Nice",
-     "away": "Stade Rennais",
+     "home": "Le Havre",
+     "away": "PSG",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-30T18:00:00Z",
-     "home": "Le Havre",
-     "away": "PSG",
+     "home": "Nice",
+     "away": "Stade Rennais",
      "status": "TIMED",
      "score": null
     },
@@ -615,7 +615,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "ref": "bbc_football#0",
      "title": "Afcon to return to two-year cycle after Caf U-turn",
      "published": "2026-10-30T08:39:36+00:00",
-     "summary": "The African Cup of Nations (Afcon) will return to its traditional two-year cycle after a review into December's decision to host it every four years instead."
+     "summary": "The Africa Cup of Nations (Afcon) will return to its traditional two-year cycle after a review into December's decision to host it every four years instead."
     },
     {
      "ref": "bbc_football#1",
@@ -643,123 +643,123 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#5",
-     "title": "Families v loyal fans - women's football's attendance dilemma",
-     "published": "2026-10-30T07:04:53+00:00",
-     "summary": "Average Women's Super League attendances surged by 192% in the season after the Lionesses' Euro 2022 triumph, but the boom has stalled."
-    },
-    {
-     "ref": "bbc_football#6",
-     "title": "Families v loyal fans - women's football's attendance dilemma",
-     "published": "2026-10-30T07:04:53+00:00",
-     "summary": "Average Women's Super League attendances surged by 192% in the season after the Lionesses' Euro 2022 triumph, but the boom has stalled."
-    },
-    {
-     "ref": "bbc_football#7",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-10-30T06:22:04+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#6",
      "title": "How talking about Man Utd's cycle of doom became an industry",
      "published": "2026-10-30T06:14:19+00:00",
      "summary": "Manchester United's struggles are pored over more than ever before - not least by former players."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#7",
      "title": "Sub-plots intensify Blades and Wrexham's rivalry",
      "published": "2026-10-30T04:12:07+00:00",
      "summary": "Former team-mates Chris Wilder and Phil Parkinson lock horns again as Sheffield United face Wrexham in the Championship on Friday night."
     },
     {
+     "ref": "bbc_football#8",
+     "title": "PSG score late to hold struggling Man City",
+     "published": "2026-10-29T22:40:17+00:00",
+     "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
+    },
+    {
+     "ref": "bbc_football#9",
+     "title": "PSG score late to hold struggling Man City",
+     "published": "2026-10-29T22:40:17+00:00",
+     "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
+    },
+    {
      "ref": "bbc_football#10",
-     "title": "PSG score late to hold struggling Man City",
-     "published": "2026-10-29T22:40:17+00:00",
-     "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
-    },
-    {
-     "ref": "bbc_football#11",
-     "title": "PSG score late to hold struggling Man City",
-     "published": "2026-10-29T22:40:17+00:00",
-     "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
-    },
-    {
-     "ref": "bbc_football#12",
      "title": "Fleetwood to face Everton in EFL Cup quarters",
      "published": "2026-10-29T21:42:29+00:00",
      "summary": "League Two Fleetwood Town will face Everton at Highbury in the quarter-finals of the EFL Cup."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#11",
      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
      "published": "2026-10-29T21:40:24+00:00",
      "summary": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin."
     },
     {
+     "ref": "bbc_football#12",
+     "title": "What have we learned from first round of Premiership?",
+     "published": "2026-10-29T20:53:07+00:00",
+     "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far."
+    },
+    {
+     "ref": "bbc_football#13",
+     "title": "What have we learned from first round of Premiership?",
+     "published": "2026-10-29T20:53:07+00:00",
+     "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far."
+    },
+    {
      "ref": "bbc_football#14",
-     "title": "What have we learned from first round of Premiership?",
-     "published": "2026-10-29T20:53:07+00:00",
-     "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far."
-    },
-    {
-     "ref": "bbc_football#15",
-     "title": "What have we learned from first round of Premiership?",
-     "published": "2026-10-29T20:53:07+00:00",
-     "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far."
-    },
-    {
-     "ref": "bbc_football#16",
      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
      "published": "2026-10-29T19:55:24+00:00",
      "summary": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#15",
      "title": "Grealish dropped over 'breach of club discipline' - what now?",
      "published": "2026-10-29T19:31:36+00:00",
      "summary": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\"."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#16",
      "title": "Scottish football could pave way for 3pm TV blackout to end",
      "published": "2026-10-29T17:43:53+00:00",
      "summary": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle."
+    },
+    {
+     "ref": "bbc_football#17",
+     "title": "Scottish football could pave way for 3pm TV blackout to end",
+     "published": "2026-10-29T17:43:53+00:00",
+     "summary": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle."
+    },
+    {
+     "ref": "bbc_football#18",
+     "title": "Celtic & Rangers Scottish Cup stadium closure upheld",
+     "published": "2026-10-29T17:20:57+00:00",
+     "summary": "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed."
     },
     {
      "ref": "bbc_football#19",
-     "title": "Scottish football could pave way for 3pm TV blackout to end",
-     "published": "2026-10-29T17:43:53+00:00",
-     "summary": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle."
+     "title": "Celtic & Rangers Scottish Cup stadium closure upheld",
+     "published": "2026-10-29T17:20:57+00:00",
+     "summary": "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed."
     },
     {
      "ref": "bbc_football#20",
-     "title": "Celtic & Rangers Scottish Cup stadium closure upheld",
-     "published": "2026-10-29T17:20:57+00:00",
-     "summary": "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "Celtic & Rangers Scottish Cup stadium closure upheld",
-     "published": "2026-10-29T17:20:57+00:00",
-     "summary": "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed."
-    },
-    {
-     "ref": "bbc_football#22",
      "title": "Dowman to miss three matches after appeal rejected",
      "published": "2026-10-29T17:19:06+00:00",
      "summary": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#21",
      "title": "Football Daily",
      "published": "2026-10-29T16:54:00+00:00",
      "summary": "Rick & Lloyd are joined by Julien Laurens to discuss De Zerbi’s quiet transformation."
     },
     {
-     "ref": "bbc_football#24",
+     "ref": "bbc_football#22",
      "title": "Euro Leagues",
      "published": "2026-10-29T16:21:00+00:00",
      "summary": "Was David Raya robbed at the Ballon d'Or? And what did the continent make of Kane's win?"
+    },
+    {
+     "ref": "bbc_football#23",
+     "title": "McInnes defends Fernandez before League Cup semi",
+     "published": "2026-10-29T15:36:21+00:00",
+     "summary": "Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back \"has been a big part of our better performances this season\"."
+    },
+    {
+     "ref": "bbc_football#24",
+     "title": "'Fully committed' Fernandes to remain Man Utd captain",
+     "published": "2026-10-29T14:31:52+00:00",
+     "summary": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea."
     }
    ]
   },
@@ -769,153 +769,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Sunday Night Soccer Preview - New England vs Inter Miami | SI FC - Yahoo Sports",
+     "published": "2026-10-30T08:26:07+00:00",
+     "summary": "Sunday Night Soccer Preview - New England vs Inter Miami | SI FC Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "How Many Goals Does Lionel Messi Need to Match Cristiano Ronaldo’s 985? - Heavy.com",
      "published": "2026-10-30T07:50:52+00:00",
      "summary": "How Many Goals Does Lionel Messi Need to Match Cristiano Ronaldo’s 985? Heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Is Lionel Messi Leaving Inter Miami in 2027? What We Know - Heavy.com",
      "published": "2026-10-30T07:07:00+00:00",
      "summary": "Is Lionel Messi Leaving Inter Miami in 2027? What We Know Heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Is Messi leaving Inter Miami? Contract details revealed - Diario AS",
      "published": "2026-10-30T06:27:09+00:00",
      "summary": "Is Messi leaving Inter Miami? Contract details revealed Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami: Sprint Season 2027 schedule revealed - Diario AS",
      "published": "2026-10-30T06:13:06+00:00",
      "summary": "Inter Miami: Sprint Season 2027 schedule revealed Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw | Daily FT - newspaper - Magzter",
-     "published": "2026-10-30T04:18:42+00:00",
-     "summary": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw | Daily FT - newspaper Magzter"
-    },
-    {
      "ref": "gnews_inter_miami#5",
-     "title": "Lionel Messi and Inter Miami to Kick Off Historic 2027 MLS Season - beIN SPORTS",
-     "published": "2026-10-30T03:36:00+00:00",
-     "summary": "Lionel Messi and Inter Miami to Kick Off Historic 2027 MLS Season beIN SPORTS"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
-     "title": "Miami 2-2 Cincinnati (29 Oct, 2026) Player Stats - ESPN Singapore",
-     "published": "2026-10-30T03:20:50+00:00",
-     "summary": "Miami 2-2 Cincinnati (29 Oct, 2026) Player Stats ESPN Singapore"
-    },
-    {
-     "ref": "gnews_inter_miami#7",
-     "title": "Lionel Messi Suspension Canceled By MLS ‘Good Behavior’ Rule - Yahoo Sports",
-     "published": "2026-10-29T22:45:14+00:00",
-     "summary": "Lionel Messi Suspension Canceled By MLS ‘Good Behavior’ Rule Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#8",
      "title": "The reason Lionel Messi can play vs NE Revolution despite 5th yellow card with Inter Miami - Bolavip US",
      "published": "2026-10-29T21:13:21+00:00",
      "summary": "The reason Lionel Messi can play vs NE Revolution despite 5th yellow card with Inter Miami Bolavip US"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#6",
      "title": "Messi eligible for crunch Miami game with Revs despite yellow card haul - ESPN",
      "published": "2026-10-29T20:07:00+00:00",
      "summary": "Messi eligible for crunch Miami game with Revs despite yellow card haul ESPN"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#7",
+     "title": "Lionel Messi Suspension Canceled By MLS ‘Good Behavior’ Rule - Heavy.com",
+     "published": "2026-10-29T19:45:14+00:00",
+     "summary": "Lionel Messi Suspension Canceled By MLS ‘Good Behavior’ Rule Heavy.com"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
      "title": "MATCHDAY GUIDE | Revs vs. Inter Miami CF (November 1, 2026) - revolutionsoccer.net",
      "published": "2026-10-29T19:08:04+00:00",
      "summary": "MATCHDAY GUIDE | Revs vs. Inter Miami CF (November 1, 2026) revolutionsoccer.net"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#9",
      "title": "NYCFC SPRINT SEASON: Club opens at Nashville on Feb. 20, hosts Inter Miami on March 3 - Front Row Soccer",
      "published": "2026-10-29T19:00:21+00:00",
      "summary": "NYCFC SPRINT SEASON: Club opens at Nashville on Feb. 20, hosts Inter Miami on March 3 Front Row Soccer"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#10",
      "title": "Everything You Need to Know About the 2027 MLS Sprint Season - Inter Miami CF",
      "published": "2026-10-29T18:45:55+00:00",
      "summary": "Everything You Need to Know About the 2027 MLS Sprint Season Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi's Inter Miami to open 2027 MLS Sprint Season vs. FC Cincinnati on Feb. 19 - Goal.com",
      "published": "2026-10-29T18:12:40+00:00",
      "summary": "Lionel Messi's Inter Miami to open 2027 MLS Sprint Season vs. FC Cincinnati on Feb. 19 Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami CF’s 2027 MLS Sprint Season Schedule Unveiled - Inter Miami CF",
      "published": "2026-10-29T18:00:49+00:00",
      "summary": "Inter Miami CF’s 2027 MLS Sprint Season Schedule Unveiled Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#13",
      "title": "MLS Picks: Revolution Vs Inter Miami, Whitecaps Vs Sounders Odds - RG.org",
      "published": "2026-10-29T17:42:37+00:00",
      "summary": "MLS Picks: Revolution Vs Inter Miami, Whitecaps Vs Sounders Odds RG.org"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami CF Academy Enjoys Successful Tournament Weekend - Inter Miami CF",
      "published": "2026-10-29T17:10:44+00:00",
      "summary": "Inter Miami CF Academy Enjoys Successful Tournament Weekend Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#17",
-     "title": "David Beckham makes 5-year-old Huddy’s dream come true - HOLA",
-     "published": "2026-10-29T16:49:11+00:00",
-     "summary": "David Beckham makes 5-year-old Huddy’s dream come true HOLA"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#15",
      "title": "Will Messi Be Able to Play for Inter Miami This Weekend? - beIN SPORTS",
      "published": "2026-10-29T16:33:49+00:00",
      "summary": "Will Messi Be Able to Play for Inter Miami This Weekend? beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#16",
      "title": "Lionel Messi’s Inter Miami compromise 2027 Concacaf Champions Cup spot with 2-2 draw vs Cincinnati - World Soccer Talk",
      "published": "2026-10-29T16:29:47+00:00",
      "summary": "Lionel Messi’s Inter Miami compromise 2027 Concacaf Champions Cup spot with 2-2 draw vs Cincinnati World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#17",
      "title": "MLS unveils key 2027 sprint season matches on Apple TV as Lionel Messi’s Inter Miami opens historic calendar shift - MacDailyNews",
      "published": "2026-10-29T13:30:16+00:00",
      "summary": "MLS unveils key 2027 sprint season matches on Apple TV as Lionel Messi’s Inter Miami opens historic calendar shift MacDailyNews"
     },
     {
-     "ref": "gnews_inter_miami#21",
-     "title": "Messi Gets Opening Night as MLS Sprint Season Ushers In Huge Change - Yahoo Sports",
-     "published": "2026-10-29T12:04:02+00:00",
-     "summary": "Messi Gets Opening Night as MLS Sprint Season Ushers In Huge Change Yahoo Sports"
+     "ref": "gnews_inter_miami#18",
+     "title": "A DECISION FOR DECISION DAY: Tubi to stream 2 matches, including Inter Miami on Nov. 7 - Front Row Soccer",
+     "published": "2026-10-29T12:00:00+00:00",
+     "summary": "A DECISION FOR DECISION DAY: Tubi to stream 2 matches, including Inter Miami on Nov. 7 Front Row Soccer"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#19",
+     "title": "SILENT NIGHT: No points for Messi as Inter Miami equalizes late for draw - Front Row Soccer",
+     "published": "2026-10-29T10:56:01+00:00",
+     "summary": "SILENT NIGHT: No points for Messi as Inter Miami equalizes late for draw Front Row Soccer"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
      "title": "Will Lionel Messi play for Inter Miami against New England Revolution? - Diario AS",
      "published": "2026-10-29T10:53:50+00:00",
      "summary": "Will Lionel Messi play for Inter Miami against New England Revolution? Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#21",
      "title": "Messi did not score or assist: Inter Miami escape defeat with a late equaliser against Cincinnati - Goal.com",
      "published": "2026-10-29T10:38:47+00:00",
      "summary": "Messi did not score or assist: Inter Miami escape defeat with a late equaliser against Cincinnati Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#22",
      "title": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw - Al Jazeera",
      "published": "2026-10-29T09:17:16+00:00",
      "summary": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw Al Jazeera"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
+     "title": "New England Revolution - Inter Miami - Flashscore.com",
+     "published": "2026-10-29T06:52:35+00:00",
+     "summary": "New England Revolution - Inter Miami Flashscore.com"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Inter Miami vs FC Cincinnati - Matchday Album - FC Cincinnati",
+     "published": "2026-10-29T04:09:55+00:00",
+     "summary": "Inter Miami vs FC Cincinnati - Matchday Album FC Cincinnati"
     }
    ]
   },
@@ -943,126 +943,132 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#3",
+     "title": "Grizzlies 124-103 Trail Blazers (30 Oct, 2026) Final Score - ESPN Singapore",
+     "published": "2026-10-30T05:54:27+00:00",
+     "summary": "Grizzlies 124-103 Trail Blazers (30 Oct, 2026) Final Score ESPN Singapore"
+    },
+    {
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija puts up 24/9/7 line in loss to Memphis - NBC Sports",
      "published": "2026-10-30T05:51:08+00:00",
      "summary": "Deni Avdija puts up 24/9/7 line in loss to Memphis NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija with the And-1!, 10/29/2026 - Yahoo Sports",
      "published": "2026-10-30T04:31:22+00:00",
      "summary": "Deni Avdija with the And-1!, 10/29/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija's 24 Points Not Enough, Blazers Fall to Grizzlies - Sports Illustrated",
      "published": "2026-10-30T04:24:46+00:00",
      "summary": "Deni Avdija's 24 Points Not Enough, Blazers Fall to Grizzlies Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Should I Trade Andre Drummond for Ben Saraf? | Fantasy Basketball - FantasyPros",
      "published": "2026-10-29T22:57:57+00:00",
      "summary": "Should I Trade Andre Drummond for Ben Saraf? | Fantasy Basketball FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Nets' Ben Saraf: Option picked up - CBS Sports",
      "published": "2026-10-29T17:12:13+00:00",
      "summary": "Nets' Ben Saraf: Option picked up CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Ben Saraf News: Option picked up - RotoWire",
      "published": "2026-10-29T17:12:13+00:00",
      "summary": "Ben Saraf News: Option picked up RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija First Basket Pick & Odds Today (Oct. 29) - Lineups",
      "published": "2026-10-29T15:36:08+00:00",
      "summary": "Deni Avdija First Basket Pick & Odds Today (Oct. 29) Lineups"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija shines with 23 points as undefeated Portland defeats Lakers - The Jerusalem Post",
      "published": "2026-10-29T08:45:15+00:00",
      "summary": "Deni Avdija shines with 23 points as undefeated Portland defeats Lakers The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "NBA player props today: Thursday's best props include Deni Avdija [10/29/2026] - Dimers",
      "published": "2026-10-29T07:56:55+00:00",
      "summary": "NBA player props today: Thursday's best props include Deni Avdija [10/29/2026] Dimers"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija scores nine fourth-quarter points - NBC Sports",
      "published": "2026-10-28T15:37:36+00:00",
      "summary": "Deni Avdija scores nine fourth-quarter points NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Famous Jewish NBA players and the stories behind their careers - Tuko News",
      "published": "2026-10-28T15:33:31+00:00",
      "summary": "Famous Jewish NBA players and the stories behind their careers Tuko News"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA - The Straits Times",
      "published": "2026-10-28T10:24:00+00:00",
      "summary": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA The Straits Times"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Trail Blazers' Deni Avdija: Logs team-high 23 points - CBS Sports",
      "published": "2026-10-28T09:41:00+00:00",
      "summary": "Trail Blazers' Deni Avdija: Logs team-high 23 points CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija News: Logs team-high 23 points - RotoWire",
      "published": "2026-10-28T09:33:34+00:00",
      "summary": "Deni Avdija News: Logs team-high 23 points RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "NBA: Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - GMA Network",
      "published": "2026-10-28T06:35:07+00:00",
      "summary": "NBA: Deni Avdija, Blazers prevail in battle of unbeatens against Lakers GMA Network"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija gets the hoop and the harm - ESPN",
      "published": "2026-10-28T06:33:03+00:00",
      "summary": "Deni Avdija gets the hoop and the harm ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - The Daily News | Texas' Oldest Newspaper",
      "published": "2026-10-28T06:24:06+00:00",
      "summary": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers The Daily News | Texas' Oldest Newspaper"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Ja Morant, Damian Lillard lead unbeaten Trail Blazers past Lakers 136-129 despite Luka Doncic's 41 - Bozeman Daily Chronicle",
      "published": "2026-10-28T06:09:49+00:00",
      "summary": "Ja Morant, Damian Lillard lead unbeaten Trail Blazers past Lakers 136-129 despite Luka Doncic's 41 Bozeman Daily Chronicle"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija dials from long distance, 10/27/2026 - Yahoo Sports",
      "published": "2026-10-28T06:09:11+00:00",
      "summary": "Deni Avdija dials from long distance, 10/27/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija gets the hoop and the harm - ESPN",
      "published": "2026-10-28T05:38:05+00:00",
      "summary": "Deni Avdija gets the hoop and the harm ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#24",
      "title": "Deni Avdija Stats, Props & Recent Performance - PrizePicks",
      "published": "2026-10-27T22:00:00+00:00",
      "summary": "Deni Avdija Stats, Props & Recent Performance PrizePicks"
