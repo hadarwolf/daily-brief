@@ -1,0 +1,156 @@
+{
+  "section": "business",
+  "date": "2026-10-30",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-30T03:51:49+00:00",
+  "stories": [
+    {
+      "id": "ai-earnings-reckoning",
+      "kind": "analysis",
+      "en": {
+        "headline": "Alphabet, Amazon and Intel Earnings Rattle the AI Trade",
+        "scroll": "Weak earnings and guidance from Alphabet, Amazon and Intel wiped roughly half a trillion dollars off Alphabet alone and triggered a global rotation out of AI-linked tech stocks into bonds.",
+        "coffee": "Alphabet (Google's parent) fell 13% on Wall Street after a revenue shortfall, wiping out roughly half a trillion dollars in market capitalization — one of the largest single-day losses for one company on record. Amazon fell more than 7% on a disappointing holiday-quarter sales forecast despite booming cloud (AWS) growth, and posted negative free cash flow for a second straight quarter because of heavy AI infrastructure spending. Intel fell 17% (TheMarker) to 22% (Financial Times) on a weak sales outlook and shrinking margins, worsened by a fire at its Kiryat Gat fab that will cut about $300 million from fourth-quarter revenue.\n\nAll three are pouring enormous sums into AI data centers and chips, betting the spending pays off later. Investors are now questioning that bet — and in Alphabet's case, worrying AI itself could erode its core search business. The selloff dragged the Nasdaq down 1.4% and pushed money into Treasuries, even though the US economy grew a strong 3.4% in the third quarter. The gap shows stock prices move mainly on forward guidance, not today's economic data.\n\nMobileye (Intel-majority-owned, Israeli-founded) showed the flip side: revenue up 11%, profit up 25%, guidance raised — yet its shares still fell about 4% because operating-profit guidance came in just slightly below expectations.",
+        "deep": "## Background\n\nOver the past two years, Alphabet, Amazon, Microsoft and Meta have poured hundreds of billions of dollars into data centers, chips and other AI infrastructure — a bet that building the \"picks and shovels\" of artificial intelligence will generate enormous future revenue. Investors have mostly rewarded this capital expenditure (capex) spree, pushing valuations higher on the assumption the payoff is coming. That assumption is now being tested.\n\n## The story\n\nOn Thursday, three of the sector's biggest names reported earnings within hours of each other, and none reassured the market.\n\nAlphabet, Google's parent, fell 13% on Wall Street after a revenue shortfall, wiping out roughly half a trillion dollars in market capitalization — one of the largest single-day losses for one company on record. The drop reflected something more specific than a bad quarter: investors are increasingly worried that AI chatbots could erode Google's core search advertising business, the engine that has funded the company for two decades.\n\nAmazon fell more than 7% despite a disappointing holiday-quarter sales forecast, even as its cloud unit (AWS) kept booming. The detail that mattered most to analysts: Amazon posted negative free cash flow (FCF) — the cash left over after operating expenses and capex — for a second consecutive quarter, a direct result of the money it is pouring into AI data centers.\n\nIntel added to the gloom, falling as much as 22% (Financial Times) to 17% (TheMarker) on a weak sales outlook and shrinking margins. Intel's problems were partly its own making: a fire at its Kiryat Gat fab in Israel is expected to cut about $300 million from fourth-quarter revenue and roughly two percentage points from margins, with effects continuing into next quarter. Behind that sits a more structural issue: global PC chip sales fell 4% year-on-year, a sign the PC market Intel depends on is still shrinking.\n\nTogether, the three results dragged the Nasdaq down 1.4% and fed what Bloomberg described as a broader rotation out of the AI trade — money moving out of AI-linked tech stocks and into havens such as US Treasuries, whose yields fell as prices rose.\n\n## Second-order effects\n\nThe selloff's reach went well beyond the three companies that reported. Asian chip stocks, including Japan's Kioxia (down 60% from its earlier peak), fell on the same demand worries. Gold, often a haven in a selloff, actually dropped toward $4,000 an ounce — partly because investors were selling even their winning positions to cover losses elsewhere, a pattern typical of a broad risk-off move rather than a one-company story.\n\nThe reaction is also a lesson in how markets price expectations, not just results. The US economy itself looks strong — third-quarter GDP grew 3.4%, beating forecasts, and the Federal Reserve and European Central Bank both held interest rates steady this week. Yet the stocks most tied to AI capex fell hard anyway. Stock prices move on guidance — management's forward-looking signal about the next quarter or year — more than on how the economy is doing today.\n\nThat distinction showed up clearly in Mobileye's results. The Israeli-founded, Intel-majority-owned autonomous-driving chipmaker beat expectations, with revenue up 11% even as global vehicle production fell 1%, adjusted profit up 25%, and new design wins with major automakers. It even raised the low end of its full-year revenue guidance. But its operating-profit guidance came in just slightly below what analysts wanted, and the stock still fell roughly 4% in early Wall Street trading — proof that a strong quarter isn't enough if forward guidance disappoints even a little.\n\n## What to watch next\n\nThree things will determine whether this is a brief wobble or the start of something bigger. First, whether other AI-capex-heavy companies reporting in the coming weeks confirm the same pattern of rising spending and falling free cash flow. Second, whether the rotation into bonds persists or reverses once earnings season ends. Third, whether Intel's Kiryat Gat disruption — a plant-specific problem — gets conflated with sector-wide demand questions or stays a separate story, worth tracking given the plant's importance to Intel's Israeli operations and Mobileye's own ties to Intel."
+      },
+      "he": {
+        "headline": "דוחות אלפבית, אמזון ואינטל מטלטלים את עסקת ה-AI בוול סטריט",
+        "scroll": "דוחות חלשים ותחזיות מאכזבות של אלפבית, אמזון ואינטל מחקו כחצי טריליון דולר משוויה של אלפבית בלבד, והובילו למעבר סיכונים (risk-off) גלובלי מניירות טכנולוגיה הקשורים ל-AI לאג\"ח.",
+        "coffee": "אלפבית (חברת האם של גוגל) צנחה 13% בוול סטריט אחרי הכנסות מתחת לתחזיות, ומחקה כחצי טריליון דולר משווי השוק (market capitalization) שלה - אחת הירידות החד-יומיות הגדולות בהיסטוריה לחברה בודדת. אמזון נפלה ביותר מ-7% על רקע תחזית מכירות מאכזבת לרבעון החגים, חרף צמיחה חזקה בעסקי העננים (AWS), ודיווחה על תזרים מזומנים חופשי (free cash flow) שלילי לרבעון שני ברציפות, בשל ההוצאות הגבוהות על תשתיות AI. אינטל צנחה אף היא - 17% לפי TheMarker ואף 22% לפי ה-Financial Times - על רקע תחזית מכירות חלשה ושחיקת רווחיות, בין היתר בעקבות פיצוץ במפעל שלה בקריית גת שיוריד כ-300 מיליון דולר מההכנסות ברבעון הרביעי.\n\nשלוש החברות משקיעות סכומים אדירים בהוצאות הון (capex) על תשתיות AI, בהנחה שההשקעה תחזיר את עצמה בעתיד. המשקיעים מתחילים לפקפק בכך, ובמקרה של אלפבית יש גם חשש ספציפי שה-AI עצמו יפגע בעסקי החיפוש המסורתיים של גוגל. הירידות גרפו את נאסד\"ק ב-1.4% ושלחו כספים לנכסי מחסה (haven assets) כמו אג\"ח ממשלת ארה\"ב - וזאת אף שהכלכלה האמריקאית צמחה ברבעון השלישי ב-3.4%, מעל התחזיות. הפער הזה מלמד שמחירי מניות מגיבים בעיקר לתחזיות (guidance) של החברות, ולא רק למצב הכלכלה הנוכחי.\n\nמובילאיי, לעומת זאת, הציגה דוח חזק (הכנסות +11%, רווח מתואם +25%) והעלתה את התחזית השנתית, אך המניה נחלשה כ-4% במסחר המוקדם כי תחזית הרווח התפעולי הייתה מעט מתחת לציפיות - עדות לכך שבעיתות כאלה גם תחזית טובה-אך-לא-מספיק-טובה מכבידה על מניה.",
+        "deep": "## רקע\n\nבשנתיים האחרונות שפכו אלפבית, אמזון, מיקרוסופט ומטא מאות מיליארדי דולרים למרכזי נתונים, שבבים ותשתיות AI אחרות - הימור על כך שבניית \"המחפרים והאתים\" של הבינה המלאכותית תייצר הכנסות עתק בעתיד. המשקיעים תגמלו עד כה את גל הוצאות ההון (capex) הזה, והעלו את שווי החברות הללו מתוך הנחה שהתשואה בדרך. ההנחה הזו עומדת כעת במבחן.\n\n## הסיפור\n\nביום חמישי דיווחו שלוש מהחברות הגדולות בענף תוך שעות ספורות זו מזו, ואף אחת מהן לא הרגיעה את השוק.\n\nאלפבית, חברת האם של גוגל, צנחה 13% בוול סטריט בעקבות הכנסות מתחת לתחזיות, ומחקה כחצי טריליון דולר משווי השוק שלה - אחת הירידות החד-יומיות הגדולות בהיסטוריה לחברה בודדת. הנפילה שיקפה חשש ספציפי יותר מסתם רבעון חלש: המשקיעים חוששים שצ'אטבוטים מבוססי AI יכרסמו בעסקי החיפוש והפרסום של גוגל - המנוע שמימן את החברה כשני עשורים.\n\nאמזון נפלה ביותר מ-7% על רקע תחזית מכירות מאכזבת לרבעון החגים, חרף המשך הצמיחה החזקה בעסקי העננים (AWS). הפרט שהדאיג הכי הרבה אנליסטים: אמזון דיווחה על תזרים מזומנים חופשי (free cash flow) שלילי לרבעון שני ברציפות - כלומר הכסף שנותר לאחר הוצאות התפעול וההשקעה - כתוצאה ישירה מההוצאות הכבדות שלה על מרכזי נתוני AI.\n\nאינטל הוסיפה לקדרות: המניה צנחה עד 22% לפי ה-Financial Times (ו-17% לפי TheMarker), על רקע תחזית מכירות חלשה ושחיקה ברווחיות. לחלק מהבעיות של אינטל היה גם מקור מקומי - פיצוץ במפעל שלה בקריית גת צפוי להוריד כ-300 מיליון דולר מההכנסות ברבעון הרביעי וכ-2 נקודות אחוז מהרווחיות, עם השפעה שתימשך גם לרבעון הבא. מעבר לכך, יש בעיה מבנית יותר: מכירות שבבי המחשבים האישיים בעולם ירדו ב-4% בהשוואה לשנה הקודמת - סימן שהשוק שעליו אינטל נשענת עדיין מתכווץ.\n\nשלושת הדוחות ביחד גרפו את נאסד\"ק למטה ב-1.4% והאיצו מה שבלומברג תיארה כ\"מעבר סיכונים\" (rotation) רחב יותר מתוך \"עסקת ה-AI\" - כסף שעוזב מניות טכנולוגיה הקשורות ל-AI ונכנס לנכסי מחסה (haven assets) כמו אג\"ח ממשלת ארה\"ב, שתשואותיהן ירדו כשהמחירים שלהן עלו.\n\n## אפקטים מסדר שני\n\nההשפעה של המכירה חרגה בהרבה משלוש החברות המדווחות. מניות שבבים אסיאתיות, כולל היפנית Kioxia (שצנחה 60% מהשיא שלה), נפלו על רקע אותם חששות ביקוש. הזהב, שבדרך כלל משמש נכס מחסה בזמן מכירה, למעשה ירד לכיוון 4,000 דולר לאונקיה - בין היתר כי משקיעים מכרו אפילו את הפוזיציות המנצחות שלהם כדי לכסות הפסדים במקומות אחרים, דפוס טיפוסי למעבר סיכונים (risk-off) רחב ולא לסיפור של חברה בודדת.\n\nהתגובה גם מלמדת איך שווקים מתמחרים תחזיות, לא רק תוצאות. הכלכלה האמריקאית עצמה נראית חזקה - התמ\"ג ברבעון השלישי צמח ב-3.4%, מעל התחזיות, והפד והבנק המרכזי האירופי שמרו שניהם על ריבית קבועה השבוע. ובכל זאת, המניות הקשורות ביותר להוצאות ה-AI נפלו בחריפות. מחירי מניות מגיבים לתחזית (guidance) - האיתות העתידי שההנהלה נותנת לרבעון או לשנה הקרובה - יותר מאשר למצב הכלכלה כיום.\n\nההבדל הזה בלט במיוחד בדוח של מובילאיי. חברת השבבים לנהיגה אוטונומית, שהוקמה בישראל ונמצאת בשליטת אינטל, הציגה דוח טוב מהצפוי - הכנסות שעלו ב-11% אפילו כשייצור הרכבים העולמי ירד ב-1%, רווח מתואם שעלה ב-25%, וזכיות חדשות מול יצרניות רכב גדולות. היא אף העלתה את הרף התחתון של תחזית ההכנסות השנתית. אבל תחזית הרווח התפעולי שלה הייתה מעט מתחת לציפיות האנליסטים, והמניה בכל זאת נחלשה בכ-4% במסחר המוקדם בוול סטריט - הוכחה שגם דוח חזק לא מספיק אם התחזית הקדימה מאכזבת, אפילו במעט.\n\n## מה לעקוב\n\nשלושה דברים יקבעו אם זו תנודה חולפת או התחלה של מהלך גדול יותר. ראשית, האם חברות נוספות שמשקיעות רבות ב-AI, שידווחו בשבועות הקרובים, יאשרו את אותו דפוס של הוצאות עולות ותזרים מזומנים חופשי יורד. שנית, האם המעבר לאג\"ח יימשך או יתהפך בסיום עונת הדוחות. שלישית, האם התקרית בקריית גת - בעיה ספציפית למפעל - תתערבב עם שאלות הביקוש הרחבות יותר בענף, או תישאר סיפור נפרד - שווה מעקב בהתחשב בחשיבות המפעל לפעילות אינטל בישראל ובקשר של מובילאיי עצמה לאינטל."
+      },
+      "tags": [
+        "ai-capex",
+        "big-tech-earnings",
+        "market-selloff",
+        "mobileye"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "אמזון החמיצה את התחזיות — המניה נופלת ביותר מ-7%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-29/ty-article/.premium/000001a1-8847-dbb9-a7ef-fa7776660000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "אינטל סיפקה תחזית מאכזבת — המניה צונחת ב-17%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-29/ty-article/.premium/000001a1-8835-d646-a9f3-d87515530000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט ננעלה בירידות; נאסד\"ק ירד ב-1.4%; אלפבית צנחה ב-13%",
+          "url": "https://www.themarker.com/wallstreet/2026-10-29/ty-article-live/000001a1-7688-d432-afbd-77fc593d0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "המשקיעים חרדים מהשפעת ה–AI על גוגל — ושווי החברה נחתך בחצי טריליון דולר",
+          "url": "https://www.themarker.com/wallstreet/2026-10-29/ty-article/.premium/000001a1-87e9-db67-afb3-efe9ad9c0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מובילאיי: \"מכירות המעבדים שלנו גדלו השנה ב-11%, כשייצור הרכבים בעולם קטן ב-1%\"",
+          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-878e-dabc-afb5-ffdebfa60000"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Global tech rout deepens after US earnings stoke AI spending fears",
+          "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
+          "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Amazon shares slide on lower Christmas sales forecast",
+          "url": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-alphabet-slide-weighs-on-ai-optimism-1a8d67b7?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Alphabet Stumbles, U.S. Economy Surges",
+          "url": "https://www.wsj.com/finance/stocks/alphabet-stumbles-u-s-economy-surges-7f47a441?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Treasury Yields Fall Following Major Central Banks’ Hold",
+          "url": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Alphabet Stock Sinks, Dragging Nasdaq Lower",
+          "url": "https://www.wsj.com/finance/stocks/ai-stocks-fall-after-alphabet-earnings-disappoint-61d526ed?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Big Tech Earnings Stoke Fresh Unease Across Asian Chip Stocks",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Gold Drops to Near $4,000 on Hot Inflation, Tech-Stock Selloff",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Kioxia Faces Test to Impress With Earnings After 60% Stock Slump",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/kioxia-faces-test-to-impress-with-earnings-after-60-stock-slump"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Stocks Drop, Bonds Gain as Tech Results Underwhelm: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Treasuries Extend Rally With Global Peers as Risk-Off Haven",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4144.3999,
+      "prev_close": 4130.3599,
+      "change_pct": 0.34,
+      "as_of": "2026-10-29"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7720.3901,
+      "prev_close": 7743.98,
+      "change_pct": -0.3,
+      "as_of": "2026-10-29"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1139,
+      "prev_close": 3.1226,
+      "change_pct": -0.28,
+      "as_of": "2026-10-30"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 112.19,
+      "prev_close": 115.32,
+      "change_pct": -2.71,
+      "as_of": "2026-10-29"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 77584.0312,
+      "prev_close": 81267.5859,
+      "change_pct": -4.53,
+      "as_of": "2026-10-30"
+    }
+  }
+}

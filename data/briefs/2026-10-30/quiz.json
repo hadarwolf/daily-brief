@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-30",
+  "questions": [
+    {
+      "id": "quiz-ai-earnings",
+      "section": "business",
+      "story_id": "ai-earnings-reckoning",
+      "answer_index": 1,
+      "en": {
+        "question": "Why did Alphabet's stock drop 13%, wiping out roughly half a trillion dollars in market value?",
+        "options": [
+          "The Federal Reserve raised interest rates unexpectedly",
+          "A revenue shortfall raised fears that AI itself could erode Google's core search business",
+          "Alphabet announced it was shutting down its cloud division",
+          "A cybersecurity breach exposed user data"
+        ],
+        "explanation": "Alphabet missed revenue expectations, and investors worried AI products could end up cannibalizing its core search and advertising business."
+      },
+      "he": {
+        "question": "למה מניית אלפבית צנחה ב-13% ומחקה כמחצית טריליון דולר משווי השוק שלה?",
+        "options": [
+          "הפד העלה את הריבית בהפתעה",
+          "פער בהכנסות הצית חששות שה-AI עצמו יפגע בעסקי החיפוש המרכזיים של גוגל",
+          "אלפבית הודיעה על סגירת חטיבת הענן שלה",
+          "פרצת אבטחה חשפה מידע של משתמשים"
+        ],
+        "explanation": "אלפבית הציגה הכנסות מתחת לתחזיות, ומשקיעים חששו שמוצרי AI יפגעו בעסקי החיפוש והפרסום המרכזיים שלה."
+      }
+    },
+    {
+      "id": "quiz-knesset-paradox",
+      "section": "israeli_politics",
+      "story_id": "knesset-26-results",
+      "answer_index": 1,
+      "en": {
+        "question": "What was the 'paradox' in Israel's Knesset 26 election results, per Ynet?",
+        "options": [
+          "Netanyahu's bloc won more seats despite losing the popular vote",
+          "Netanyahu's bloc got more votes than in 2022 but still lost 11 seats, because of a turnout surge",
+          "The opposition bloc won fewer seats despite higher turnout",
+          "Voter turnout dropped sharply compared with 2022"
+        ],
+        "explanation": "Netanyahu's bloc received about 83,000 more votes than in 2022 but lost 11 seats because overall turnout jumped nearly 20%, concentrated among opposition and Arab-led party voters."
+      },
+      "he": {
+        "question": "מה היה ה\"פרדוקס\" בתוצאות הבחירות לכנסת ה-26, לפי ynet?",
+        "options": [
+          "גוש נתניהו זכה ביותר מנדטים אף שאיבד ברוב הקולות",
+          "גוש נתניהו קיבל יותר קולות מ-2022 אך בכל זאת איבד 11 מנדטים, בשל עלייה באחוז ההצבעה",
+          "גוש האופוזיציה זכה בפחות מנדטים אף שאחוז ההצבעה עלה",
+          "אחוז ההצבעה צנח בחדות בהשוואה ל-2022"
+        ],
+        "explanation": "גוש נתניהו קיבל כ-83,000 קולות יותר מ-2022, אך איבד מנדטים כי אחוז ההצבעה עלה בכמעט 20%, בעיקר לטובת גוש השינוי והמפלגות הערביות."
+      }
+    },
+    {
+      "id": "quiz-surge-capacity",
+      "section": "ideas",
+      "story_id": "physics-of-getting-fired",
+      "answer_index": 1,
+      "en": {
+        "question": "According to Zahaan Bharmal's Aeon essay, what should people build to handle career and economic shocks, instead of just working harder?",
+        "options": [
+          "A diversified investment portfolio",
+          "'Surge capacity' — deliberate slack that absorbs sudden shocks",
+          "A larger professional network",
+          "A strict five-year career plan"
+        ],
+        "explanation": "Bharmal argues that because economies behave like chaotic systems, resilience comes from building slack (\"surge capacity\"), not from maximizing effort."
+      },
+      "he": {
+        "question": "לפי המאמר של זהאן בהרמל ב-Aeon, מה צריך לבנות כדי להתמודד עם זעזועים בקריירה ובכלכלה, במקום רק לעבוד קשה יותר?",
+        "options": [
+          "תיק השקעות מגוון",
+          "\"יכולת גלישה\" (surge capacity) - רזרבה מכוונת שסופגת זעזועים פתאומיים",
+          "רשת מקצועית גדולה יותר",
+          "תוכנית קריירה קשוחה לחמש שנים"
+        ],
+        "explanation": "בהרמל טוען שמכיוון שכלכלות מתנהגות כמערכות כאוטיות, חוסן נובע מבניית רזרבה (\"יכולת גלישה\"), לא ממיקסום המאמץ."
+      }
+    }
+  ]
+}
