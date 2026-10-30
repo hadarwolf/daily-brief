@@ -18,91 +18,92 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Bleak Friday Looms for Stocks: Market Analysis",
+     "published": "2026-10-30T08:29:07+00:00",
+     "summary": "Tom Mackenzie, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Moody’s Warns of Deeper Losses for Bondholders in Senegal Revamp",
+     "published": "2026-10-30T08:20:13+00:00",
+     "summary": "Moody’s Ratings warned that bondholders could face wider-than-expected losses as Senegal seeks to rework billions of dollars of external debt, as it downgraded the West African nation’s credit rating."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Kia Shares Plunge as Cost Surge Linked to Iran War Hits Profit",
+     "published": "2026-10-30T08:19:58+00:00",
+     "summary": "Kia Corp. shares fell to their lowest level in more than a year after the company warned that its earnings are being eroded by mounting costs linked to the war in the Middle East."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "BlackRock Says Bonds Offer Compelling Income Opportunity",
      "published": "2026-10-30T08:12:22+00:00",
      "summary": "James Turner, BlackRock’s head of global fixed income for EMEA, says bonds offer an \"extremely strong\" income opportunity with yields at generational highs. \"It's just such an attractive time to invest in fixed income,\" he tells Bloomberg Television. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#4",
      "title": "Horizons Middle East & Africa 10/30/2026 (Video)",
      "published": "2026-10-30T08:07:15+00:00"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#5",
      "title": "Credit Agricole Reports Higher Profit, Warns of France Risk",
      "published": "2026-10-30T08:00:27+00:00",
      "summary": "Clotilde L'Angevin, deputy general manager at Credit Agricole, speaks on Bloomberg Television after the lender joined its French rivals in reporting higher profit for the third quarter, but warned that the recent turmoil in France could hurt business there in coming months. \"Going forward, we want to remain very cautious because it is possible that the macroeconomic environment will have an impact"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
      "title": "PHP2Shell Won’t Be the Last Big AI Cybersecurity Risk",
      "published": "2026-10-30T08:00:10+00:00",
      "summary": "What cybersecurity means in the age of AI."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#7",
      "title": "Audi Dials Back Outlook on China Slump, Competition in Europe",
      "published": "2026-10-30T08:00:00+00:00",
      "summary": "Audi cut its full-year earnings outlook after the slump in China worsened during the third quarter and competition in Europe intensified, prompting deeper cost cuts."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#8",
      "title": "Odd Lots: What Cybersecurity Means in the Age of AI (Podcast)",
      "published": "2026-10-30T08:00:00+00:00",
      "summary": "Earlier this year, cybersecurity researchers discovered a vulnerability in PHP, an open-source coding language used in roughly 70% of the world's websites, that had been lying dormant for a long time, and if exploited, could have led to disaster. And the researchers only understood the extent of this bug through the use of frontier AI models. Today, we talk to two staffers at Calif (CEO Thai Duong"
     },
     {
-     "ref": "bloomberg_markets#6",
-     "title": "Tesco Strikes Deal to Sell Czech, Slovakia Unit for €1.7 Billion",
+     "ref": "bloomberg_markets#9",
+     "title": "Tesco Strikes €1.7 Billion Deal to Sell Czech, Slovakia Unit",
      "published": "2026-10-30T07:46:43+00:00",
-     "summary": "Tesco Plc agreed to sell its supermarket division in the Czech Republic and Slovakia to Ahold Delhaize for an enterprise value of €1.7 billion (£1. 5 billion) as it continues to focus on its core UK business."
+     "summary": "Tesco Plc agreed to sell its supermarket division in the Czech Republic and Slovakia to Ahold Delhaize for an enterprise value of €1.7 billion (£1.5 billion), marking the end of a once ambitious plan to become a global grocery giant."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#10",
      "title": "BP's Refining Business Had a 'Banner Quarter,' CEO Says",
      "published": "2026-10-30T07:44:12+00:00",
      "summary": "BP said profit surged to the highest in 18 years as soaring refining margins boosted earnings, giving Chief Executive Officer Meg O’Neill a powerful tailwind as she seeks to turn around the beleaguered British energy major. \"When we look forward into the fourth quarter, the margins are softening a bit,\" O’Neill tells Bloomberg Television. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#11",
      "title": "BP Earnings: Profits Jump as Refining Margins Surge",
      "published": "2026-10-30T07:40:32+00:00",
      "summary": "Plus, hiding from AI tech worries in the FTSE 100"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#12",
      "title": "BP Profit Hits 18-Year High as Oil Refining Margins Surge",
      "published": "2026-10-30T07:08:11+00:00",
      "summary": "BP Plc said profit surged to the highest in 18 years as soaring refining margins boosted earnings, while a sharp drop in net debt moved the British energy major closer to a position where it could restart buybacks."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#13",
      "title": "Jio Boosts India to Top of Global IPO Market With Record October",
      "published": "2026-10-30T07:03:16+00:00",
      "summary": "India was the world’s top market for initial public offerings in October, thanks to a record month driven by the blockbuster share sale of Jio Platforms Ltd."
     },
     {
-     "ref": "bloomberg_markets#11",
-     "title": "FTSE 100 Live: UK Stocks Set to Outperform as Tech Sells Off",
-     "published": "2026-10-30T06:51:22+00:00"
-    },
-    {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#14",
      "title": "GLP-1 Demand Boosts Dis-Chem’s South Africa Pharmacy Revenue",
      "published": "2026-10-30T06:48:21+00:00",
      "summary": "Dis-Chem Pharmacies Ltd. said surging demand for GLP-1 medicines is helping drive double-digit growth in its dispensary revenue as South Africans increasingly turn to the expensive drugs used to treat diabetes and obesity."
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Varkey: AI to Help Bridge Teacher Shortage Gap",
-     "published": "2026-10-30T06:47:21+00:00",
-     "summary": "Ongoing regional conflict is testing the UAE's post-pandemic boom and the new school year is offering another gauge of the country's resilience. Dubai-based private school operator GEMS Education plans to launch a school model next January, which combines AI-powered, self-paced learning with teacher mentoring. Dino Varkey, Group CEO, GEMS Education spoke to Bloomberg’s Abeer Abu Omar on the AI dep"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Japanese Stocks Signal Confidence Over Faster BOJ ETF Sales",
-     "published": "2026-10-30T05:48:24+00:00",
-     "summary": "Japanese equities shrugged off the Bank of Japan’s surprise move to accelerate selling of its massive holdings of exchange-traded funds, as investors showed confidence in the market’s ability to absorb the extra supply."
     },
     {
      "ref": "bloomberg_markets#15",
@@ -142,21 +143,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Global tech rout deepens as US earnings stoke AI spending fears",
-     "published": "2026-10-30T07:44:12+00:00",
-     "summary": "Wall Street set to open lower as Japan’s tech-heavy Nikkei 225 index declines"
+     "title": "French economy shrinks 0.1% in third quarter",
+     "published": "2026-10-30T08:19:55+00:00",
+     "summary": "Eurozone’s second-largest economy is grappling with high energy prices and surge in borrowing costs"
     },
     {
      "ref": "ft_home#1",
      "title": "Binance halts withdrawals after record $6.3bn heist",
-     "published": "2026-10-30T06:54:19+00:00",
-     "summary": "World’s largest crypto exchange says an engineer’s laptop was compromised in one of sector’s biggest security breaches"
+     "published": "2026-10-30T08:14:36+00:00",
+     "summary": "World’s largest crypto exchange said an engineer’s laptop was compromised in major security breach"
     },
     {
      "ref": "ft_home#2",
-     "title": "French economy shrinks 0.1% in third quarter",
-     "published": "2026-10-30T06:54:08+00:00",
-     "summary": "Eurozone’s second-largest economy is grappling with high energy prices and surge in borrowing costs"
+     "title": "Global tech rout deepens as US earnings stoke AI spending fears",
+     "published": "2026-10-30T07:44:12+00:00",
+     "summary": "Wall Street set to open lower as Japan’s tech-heavy Nikkei 225 index declines"
     },
     {
      "ref": "ft_home#3",
@@ -202,50 +203,50 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "ירידות באירופה; הנפט עולה ב-2% בשל חשש מחידוש המלחמה",
+     "published": "2026-10-30T08:22:00+00:00",
+     "summary": "הבנק המרכזי של יפן הותיר את הריבית ללא שינוי לאחר שהאינפלציה הגיעה ליעד לראשונה מזה למעלה מעשור ■ בורסת סיאול צנחה ב-3.5% וטוקיו ירדה ב-2% ■ וול סטריט ננעלה אתמול בירידות בעקבות דו\"חות מאכזבים של ענקיות הטכנולוגיה"
+    },
+    {
+     "ref": "themarker#1",
      "title": "הדואליות מושכות את הבורסה למטה: ת\"א 35 מאבד 1.1% בפתיחה",
      "published": "2026-10-30T08:08:18+00:00"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "דיווח: סייארה מנסה לגייס השקעה לפי שווי של 20 מיליארד דולר",
      "published": "2026-10-30T07:41:07+00:00",
      "summary": "אתר הטכנולוגיה האמריקאי The Information דיווח כי סייארה נמצאת בשלבים מוקדמים של שיחות עם משקיעים על האפשרות לגייס סיבוב מימון נוסף ■ חברת הסייבר כבר גייסה 2.7 מיליארד דולר, והגיוס האחרון שלה היה לפי שווי של 12 מיליארד דולר"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#3",
      "title": "האזהרה של מנהלי ההשקעות: אף שוק אינו מוגן לגמרי מהשלכות סופר אל־ניניו",
      "published": "2026-10-30T07:39:27+00:00",
      "summary": "תופעת האקלים המחזורית מכה השנה בעוצמות חריגות ברחבי הגלובוס — עם שילוב של בצורות וגשמי זלעפות שמשבשים את תוכניות החקלאים ■ אינדונזיה, ברזיל וקולומביה נחשבות לפגיעות במיוחד, אך המומחים מזהירים מ\"זליגה\" לאזורים נוספים בעולם"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#4",
      "title": "בזמן שהבורסה ממתינה להתפזרות הערפל הפוליטי, ירידות ה–AI מחו\"ל יגיעו היום",
      "published": "2026-10-30T06:54:35+00:00",
      "summary": "בין המניות שירכזו העניין הבוקר בבורסת ת\"א חברת אביב בנייה לאחר שהמנכ\"לית הודיעה על התפטרותה, והשותפות במאגר הגזר תמר, ישראמקו, אקויטל ותומר אנרגיה, שעידכנה על הארכת מזכר הבנות לא מחייב ליצוא גז למצרים ■ הדולר נסחר הבוקר בשער של 3.11 שקלים"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#5",
      "title": "פולימרקט חוקרת הימורים חשודים על הבחירות בישראל",
      "published": "2026-10-30T06:38:00+00:00",
      "summary": "בורסת החיזוי פולימרקט מסרה כי היא בודקת מאות חשבונות חדשים שביצעו הימורים על הבחירות בישראל ביום שלישי, זמן קצר לפני סגירת הקלפיות"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#6",
      "title": "רכב שנמסר לסוכנות תיווך לשם מכירה נשרף. מנורה: מסירת הרכב ביטלה את הביטוח",
      "published": "2026-10-30T06:00:00+00:00",
      "summary": "חברת הביטוח מנורה סירבה לשלם את תגמולי הביטוח בטענה כי הבעלות במכונית עברה לסוכנות התיווך, ועם פקיעת הבעלות המקורית פקעה גם הפוליסה ■ השופטת: אדם מותיר את רכבו באחריות אדם אחר במצבים רבים, למשל במוסך — ברור כי לא מתנתקת הזיקה בין הרכב לבעליו"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#7",
      "title": "סמוטריץ' פירסם את הצו להפחתת הבלו: מחיר הדלק בנובמבר יהיה 7.85 שקלים לליטר בנזין",
      "published": "2026-10-30T05:43:43+00:00",
      "summary": "ב-5 בנובמבר המחיר של ליטר בנזין היה אמור לזנק ל-8.35 שקלים לעומת 7.77 שקלים כיום ■ צו הפחתת הבלו אותו פירסם שר האוצר סמוטריץ' יוריד את המחיר ב-50 אגורות לליטר"
-    },
-    {
-     "ref": "themarker#7",
-     "title": "חששות ה-AI גוררים את אסיה לירידות; טוקיו יורדת ב-2%; סיאול נופלת ב-3%",
-     "published": "2026-10-30T05:22:00+00:00",
-     "summary": "הבנק המרכזי של יפן הותיר את הריבית ללא שינוי לאחר שהאינפלציה הגיעה ליעד לראשונה מזה למעלה מעשור ■ וול סטריט ננעלה אתמול בירידות בעקבות דו\"חות מאכזבים של ענקיות הטכנולוגיה"
     },
     {
      "ref": "themarker#8",
@@ -357,9 +358,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
-     "title": "Treasury Yields Likely to Stay Rangebound Near Term",
-     "published": "2026-10-30T07:59:00+00:00",
-     "summary": "Treasury yields were expected to remain rangebound in the near term, with the 10-year yield trading mostly near 5% in the coming weeks, SEB said."
+     "title": "French, Italian, Belgian Bond Yields Rise; German Yields Fall",
+     "published": "2026-10-30T08:21:00+00:00",
+     "summary": "Government bond yields of France, Belgium and Italy, rose in early trade Friday."
     },
     {
      "ref": "wsj_markets#1",
@@ -511,9 +512,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4093.4199,
+   "last": 4086.55,
    "prev_close": 4144.3999,
-   "change_pct": -1.23,
+   "change_pct": -1.4,
    "as_of": "2026-10-30"
   },
   "SP500": {
@@ -525,23 +526,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1227,
+   "last": 3.1169,
    "prev_close": 3.1226,
-   "change_pct": 0.0,
+   "change_pct": -0.18,
    "as_of": "2026-10-30"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 112.89,
+   "last": 112.93,
    "prev_close": 114.88,
-   "change_pct": -1.73,
+   "change_pct": -1.7,
    "as_of": "2026-10-30"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 78004.3438,
+   "last": 77878.8281,
    "prev_close": 77775.1094,
-   "change_pct": 0.29,
+   "change_pct": 0.13,
    "as_of": "2026-10-30"
   }
  },
