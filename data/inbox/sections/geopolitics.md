@@ -18,51 +18,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Women’s world rugby player of the year - AP News",
+     "published": "2026-10-31T08:51:00+00:00",
+     "summary": "Women’s world rugby player of the year AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Kaipo Olsen-Baker crowned World Rugby women's player of the year after NZ sweep France - AP News",
+     "published": "2026-10-31T08:47:00+00:00",
+     "summary": "Kaipo Olsen-Baker crowned World Rugby women's player of the year after NZ sweep France AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "War and unrest - AP News",
      "published": "2026-10-31T08:27:21+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#1",
-     "title": "South America - AP News",
-     "published": "2026-10-31T08:21:19+00:00",
-     "summary": "South America AP News"
-    },
-    {
-     "ref": "ap_world#2",
-     "title": "Crime - AP News",
-     "published": "2026-10-31T08:20:07+00:00",
-     "summary": "Crime AP News"
-    },
-    {
      "ref": "ap_world#3",
-     "title": "Russia - AP News",
-     "published": "2026-10-31T08:20:07+00:00",
-     "summary": "Russia AP News"
+     "title": "Brigham Young Cougars football - AP News",
+     "published": "2026-10-31T07:12:39+00:00",
+     "summary": "Brigham Young Cougars football AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "Accidents - AP News",
-     "published": "2026-10-31T08:12:16+00:00",
-     "summary": "Accidents AP News"
+     "title": "In 28 years of walking, Karl Bushby has overcome jungle, desert and red tape. Now he's nearly home - AP News",
+     "published": "2026-10-31T07:05:00+00:00",
+     "summary": "In 28 years of walking, Karl Bushby has overcome jungle, desert and red tape. Now he's nearly home AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "Golf - AP News",
-     "published": "2026-10-31T08:12:14+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#6",
      "title": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension - AP News",
      "published": "2026-10-31T06:11:00+00:00",
      "summary": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#6",
      "title": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region - AP News",
      "published": "2026-10-31T06:00:00+00:00",
      "summary": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Other women contacted police about previous incidents with Packers' Josh Jacobs after his arrest - AP News",
+     "published": "2026-10-31T05:51:00+00:00",
+     "summary": "Other women contacted police about previous incidents with Packers' Josh Jacobs after his arrest AP News"
     },
     {
      "ref": "ap_world#8",
@@ -72,57 +72,57 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#9",
-     "title": "In 28 years of walking, Karl Bushby has overcome jungle, desert and red tape. Now he's nearly home - AP News",
-     "published": "2026-10-31T05:23:00+00:00",
-     "summary": "In 28 years of walking, Karl Bushby has overcome jungle, desert and red tape. Now he's nearly home AP News"
-    },
-    {
-     "ref": "ap_world#10",
      "title": "Karl Bushby’s 28-year walk across the world is ending. A look at the trek, by the numbers - AP News",
      "published": "2026-10-31T05:07:00+00:00",
      "summary": "Karl Bushby’s 28-year walk across the world is ending. A look at the trek, by the numbers AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#10",
      "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate - AP News",
      "published": "2026-10-31T04:29:00+00:00",
      "summary": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "Yemen - AP News",
-     "published": "2026-10-31T04:25:34+00:00",
-     "summary": "Yemen AP News"
-    },
-    {
-     "ref": "ap_world#13",
+     "ref": "ap_world#11",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-10-31T04:23:39+00:00",
+     "published": "2026-10-31T04:25:33+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#12",
      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
      "published": "2026-10-31T04:23:36+00:00",
      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#13",
      "title": "FBI visits Dan J. Sullivan donor in candidate’s home town as Alaska Senate inquiry widens - AP News",
      "published": "2026-10-31T04:18:00+00:00",
      "summary": "FBI visits Dan J. Sullivan donor in candidate’s home town as Alaska Senate inquiry widens AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#14",
      "title": "Meet the ‘socialist’ progressive Democrats likely on their way to Congress - AP News",
      "published": "2026-10-31T04:13:00+00:00",
      "summary": "Meet the ‘socialist’ progressive Democrats likely on their way to Congress AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#15",
      "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues - AP News",
      "published": "2026-10-31T04:08:00+00:00",
      "summary": "G20 foreign ministers to end Atlanta meeting without consensus on key issues AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Houdini’s centennial spotlight: A newly published essay and a fresh fight over when and how he died - AP News",
+     "published": "2026-10-31T04:02:00+00:00",
+     "summary": "Houdini’s centennial spotlight: A newly published essay and a fresh fight over when and how he died AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "LeBron James is 41 and feeling young in Philly. He had his best game yet with the 76ers - AP News",
+     "published": "2026-10-31T03:40:00+00:00",
+     "summary": "LeBron James is 41 and feeling young in Philly. He had his best game yet with the 76ers AP News"
     },
     {
      "ref": "ap_world#18",
@@ -156,15 +156,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#23",
-     "title": "US beats Canada 4-0 in 2nd of 2 exhibition games ahead of the women’s worlds - AP News",
-     "published": "2026-10-31T01:32:00+00:00",
-     "summary": "US beats Canada 4-0 in 2nd of 2 exhibition games ahead of the women’s worlds AP News"
-    },
-    {
-     "ref": "ap_world#24",
      "title": "Judge puts off decision in Comey case as prosecutors pursue new indictment against ex-FBI head - AP News",
      "published": "2026-10-31T01:18:00+00:00",
      "summary": "Judge puts off decision in Comey case as prosecutors pursue new indictment against ex-FBI head AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft - AP News",
+     "published": "2026-10-31T01:04:00+00:00",
+     "summary": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft AP News"
     }
    ]
   },
@@ -174,153 +174,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+     "published": "2026-10-31T09:16:14+00:00",
+     "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
      "published": "2026-10-31T08:49:35+00:00",
      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Spain train disaster clouds Sánchez chances of re-election",
      "published": "2026-10-31T05:44:21+00:00",
      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
      "published": "2026-10-31T04:32:07+00:00",
      "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?"
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
      "published": "2026-10-31T02:39:25+00:00",
      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
      "published": "2026-10-31T02:12:19+00:00",
      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "The Indian chef who brought curry to America - then vanished",
      "published": "2026-10-31T02:02:16+00:00",
      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
      "published": "2026-10-31T01:32:33+00:00",
      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "Global nature talks reach deal but money remains an issue",
      "published": "2026-10-31T01:27:05+00:00",
      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#9",
      "title": "Police deployed during stand-off over control of top Poland court",
      "published": "2026-10-31T01:11:43+00:00",
      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#10",
      "title": "US approves sale of 500 Patriot missiles to Ukraine",
      "published": "2026-10-31T00:40:43+00:00",
      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
      "published": "2026-10-31T00:29:58+00:00",
      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
      "published": "2026-10-31T00:16:03+00:00",
      "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
      "published": "2026-10-30T23:26:16+00:00",
      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
      "published": "2026-10-30T23:19:17+00:00",
      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
      "published": "2026-10-30T22:11:52+00:00",
      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
      "published": "2026-10-30T21:13:14+00:00",
      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
      "published": "2026-10-30T20:41:51+00:00",
      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
      "published": "2026-10-30T20:34:46+00:00",
      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
      "published": "2026-10-30T17:07:19+00:00",
      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
      "published": "2026-10-30T17:00:32+00:00",
      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#21",
      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
      "published": "2026-10-30T15:17:11+00:00",
      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#22",
      "title": "Six dead after helicopter crashes in northern Indian state",
      "published": "2026-10-30T15:06:05+00:00",
      "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#23",
      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
      "published": "2026-10-30T15:03:39+00:00",
      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
     },
     {
-     "ref": "bbc_world#23",
+     "ref": "bbc_world#24",
      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
      "published": "2026-10-30T14:48:22+00:00",
      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
-    },
-    {
-     "ref": "bbc_world#24",
-     "title": "What we know about Binance's $6.3bn hack",
-     "published": "2026-10-30T12:27:28+00:00",
-     "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
     }
    ]
   },
@@ -415,152 +415,152 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "reuters_world#0",
      "title": "After Louvre heist and string of thefts, Europe's smaller museums are on guard - Reuters",
-     "published": "2026-10-31T06:05:00+00:00",
+     "published": "2026-10-31T08:46:15+00:00",
      "summary": "After Louvre heist and string of thefts, Europe's smaller museums are on guard Reuters"
     },
     {
      "ref": "reuters_world#1",
+     "title": "Egypt fears escalation in Iran war would be more destructive, foreign minister says - Reuters",
+     "published": "2026-10-31T08:21:43+00:00",
+     "summary": "Egypt fears escalation in Iran war would be more destructive, foreign minister says Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Three planes carrying residents evacuated from Oleshky arrive in Belarus, news agency reports - Reuters",
+     "published": "2026-10-31T08:13:39+00:00",
+     "summary": "Three planes carrying residents evacuated from Oleshky arrive in Belarus, news agency reports Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "India extends duty-free cotton imports by two months to ease domestic prices - Reuters",
      "published": "2026-10-31T04:02:00+00:00",
      "summary": "India extends duty-free cotton imports by two months to ease domestic prices Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "China willing to import more German goods, Premier Li says - Reuters",
      "published": "2026-10-31T02:21:00+00:00",
      "summary": "China willing to import more German goods, Premier Li says Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "China's factory activity shrinks in October, third contraction in four months - Reuters",
      "published": "2026-10-31T01:48:00+00:00",
      "summary": "China's factory activity shrinks in October, third contraction in four months Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "Poland's Sikorski calls for rapid ceasefire in Black Sea to allow food shipments - Reuters",
      "published": "2026-10-31T00:08:00+00:00",
      "summary": "Poland's Sikorski calls for rapid ceasefire in Black Sea to allow food shipments Reuters"
     },
     {
-     "ref": "reuters_world#5",
-     "title": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies - Reuters",
-     "published": "2026-10-31T00:03:00+00:00",
-     "summary": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies Reuters"
-    },
-    {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "France braces for fresh unrest, government vows tough response - Reuters",
      "published": "2026-10-31T00:03:00+00:00",
      "summary": "France braces for fresh unrest, government vows tough response Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
+     "title": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies - Reuters",
+     "published": "2026-10-31T00:03:00+00:00",
+     "summary": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies Reuters"
+    },
+    {
+     "ref": "reuters_world#9",
      "title": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged - Reuters",
      "published": "2026-10-30T23:19:43+00:00",
      "summary": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Russia's Lavrov says inviting Poland to attend G20 meeting breaks diplomatic rules - Reuters",
      "published": "2026-10-30T22:55:43+00:00",
      "summary": "Russia's Lavrov says inviting Poland to attend G20 meeting breaks diplomatic rules Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Japan demands release of national in meeting with Russia's Lavrov - Reuters",
      "published": "2026-10-30T22:26:28+00:00",
      "summary": "Japan demands release of national in meeting with Russia's Lavrov Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Fitch revises France's outlook to 'negative' on worsening debt dynamics - Reuters",
      "published": "2026-10-30T22:19:00+00:00",
      "summary": "Fitch revises France's outlook to 'negative' on worsening debt dynamics Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
      "published": "2026-10-30T21:44:09+00:00",
      "summary": "North Korea says sanctions don't work to deny its status as nuclear weapons state Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "Justice Department files request for preliminary injunction in Alaska election case - Reuters",
      "published": "2026-10-30T21:17:58+00:00",
      "summary": "Justice Department files request for preliminary injunction in Alaska election case Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz - Reuters",
      "published": "2026-10-30T20:40:06+00:00",
      "summary": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say - Reuters",
      "published": "2026-10-30T20:37:59+00:00",
      "summary": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "King Charles' sorrow over slavery faces test as reparations movement gains ground - Reuters",
      "published": "2026-10-30T20:24:20+00:00",
      "summary": "King Charles' sorrow over slavery faces test as reparations movement gains ground Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Zelenskiy says he will head to Turkey for talks - Reuters",
      "published": "2026-10-30T20:20:09+00:00",
      "summary": "Zelenskiy says he will head to Turkey for talks Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Explainer: Key questions around the Russian and Ukrainian evacuation of Oleshky - Reuters",
      "published": "2026-10-30T20:19:28+00:00",
      "summary": "Explainer: Key questions around the Russian and Ukrainian evacuation of Oleshky Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Thousands gather in Paris suburb in tribute to victims of shooting - Reuters",
      "published": "2026-10-30T20:13:44+00:00",
      "summary": "Thousands gather in Paris suburb in tribute to victims of shooting Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "Brazil's Lula faces spending rows as supporters oppose tougher fiscal measures - Reuters",
      "published": "2026-10-30T20:11:00+00:00",
      "summary": "Brazil's Lula faces spending rows as supporters oppose tougher fiscal measures Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "US to return to standard time Sunday as lawmakers rebuff Trump push - Reuters",
      "published": "2026-10-30T20:05:43+00:00",
      "summary": "US to return to standard time Sunday as lawmakers rebuff Trump push Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "Democrats have long known heartbreak in Texas. Could this finally be their year? - Reuters",
      "published": "2026-10-30T20:01:54+00:00",
      "summary": "Democrats have long known heartbreak in Texas. Could this finally be their year? Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Tennessee execution survivor says she is isolated, in constant pain - Reuters",
      "published": "2026-10-30T20:01:06+00:00",
      "summary": "Tennessee execution survivor says she is isolated, in constant pain Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Competing US, Russia resolutions on Western Sahara defeated in UN Security Council - Reuters",
-     "published": "2026-10-30T19:59:00+00:00",
-     "summary": "Competing US, Russia resolutions on Western Sahara defeated in UN Security Council Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Brazil summons Argentine diplomat over role in Bolsonaro's flight to US, sources say - Reuters",
-     "published": "2026-10-30T19:45:24+00:00",
-     "summary": "Brazil summons Argentine diplomat over role in Bolsonaro's flight to US, sources say Reuters"
     }
    ]
   }

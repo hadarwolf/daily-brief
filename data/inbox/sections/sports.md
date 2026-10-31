@@ -44,18 +44,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-10-30T18:00:00Z",
-     "home": "Le Havre",
-     "away": "PSG",
-     "status": "FINISHED",
-     "score": "1-5"
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-30T18:00:00Z",
      "home": "Nice",
      "away": "Stade Rennais",
      "status": "FINISHED",
      "score": "5-2"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-30T18:00:00Z",
+     "home": "Le Havre",
+     "away": "PSG",
+     "status": "FINISHED",
+     "score": "1-5"
     },
     {
      "competition": "Bundesliga",
@@ -66,20 +66,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "4-1"
     },
     {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-10-30T20:00:00Z",
-     "home": "Villarreal",
-     "away": "Espanyol",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-30T20:00:00Z",
      "home": "Sheffield Utd",
      "away": "Wrexham",
      "status": "TIMED",
      "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-10-30T20:00:00Z",
+     "home": "Villarreal",
+     "away": "Espanyol",
+     "status": "FINISHED",
+     "score": "0-1"
     },
     {
      "competition": "Ligue 1",
@@ -110,8 +110,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-31T12:30:00Z",
-     "home": "Lincoln City",
-     "away": "Birmingham",
+     "home": "Stoke",
+     "away": "Preston NE",
      "status": "TIMED",
      "score": null
     },
@@ -134,8 +134,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-31T12:30:00Z",
-     "home": "Stoke",
-     "away": "Preston NE",
+     "home": "Lincoln City",
+     "away": "Birmingham",
      "status": "TIMED",
      "score": null
     },
@@ -158,30 +158,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-10-31T14:30:00Z",
-     "home": "Bremen",
-     "away": "Hoffenheim",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-31T14:30:00Z",
-     "home": "Schalke",
-     "away": "RB Leipzig",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-31T14:30:00Z",
-     "home": "Augsburg",
-     "away": "Freiburg",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-31T14:30:00Z",
      "home": "M'gladbach",
      "away": "SC Paderborn",
      "status": "TIMED",
@@ -196,26 +172,66 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-31T14:30:00Z",
+     "home": "Augsburg",
+     "away": "Freiburg",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-31T14:30:00Z",
+     "home": "Schalke",
+     "away": "RB Leipzig",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-31T14:30:00Z",
+     "home": "Bremen",
+     "away": "Hoffenheim",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-31T15:00:00Z",
+     "home": "West Ham",
+     "away": "West Brom",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-31T15:00:00Z",
+     "home": "Burnley",
+     "away": "Portsmouth",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Coventry City",
-     "away": "Sunderland",
+     "home": "Bournemouth",
+     "away": "Leeds United",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-31T15:00:00Z",
+     "home": "Brentford",
+     "away": "Nottingham",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Bolton",
-     "away": "Bristol City",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Wolverhampton",
-     "away": "Cardiff",
+     "home": "Southampton",
+     "away": "QPR",
      "status": "TIMED",
      "score": null
     },
@@ -262,40 +278,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Brentford",
-     "away": "Nottingham",
+     "home": "Coventry City",
+     "away": "Sunderland",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Southampton",
-     "away": "QPR",
+     "home": "Bolton",
+     "away": "Bristol City",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "West Ham",
-     "away": "West Brom",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Burnley",
-     "away": "Portsmouth",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Bournemouth",
-     "away": "Leeds United",
+     "home": "Wolverhampton",
+     "away": "Cardiff",
      "status": "TIMED",
      "score": null
     },
@@ -308,18 +308,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-31T15:30:00Z",
-     "home": "Feyenoord",
-     "away": "Sittard",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-31T15:30:00Z",
      "home": "Moreirense",
      "away": "Amadora",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-31T15:30:00Z",
+     "home": "Feyenoord",
+     "away": "Sittard",
      "status": "TIMED",
      "score": null
     },
@@ -332,10 +332,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primera Division",
+     "competition": "Bundesliga",
      "kickoff_utc": "2026-10-31T17:30:00Z",
-     "home": "Real Betis",
-     "away": "Málaga",
+     "home": "Bayern",
+     "away": "Dortmund",
      "status": "TIMED",
      "score": null
     },
@@ -348,18 +348,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Bundesliga",
+     "competition": "Primera Division",
      "kickoff_utc": "2026-10-31T17:30:00Z",
-     "home": "Bayern",
-     "away": "Dortmund",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-31T17:45:00Z",
-     "home": "Heerenveen",
-     "away": "NEC",
+     "home": "Real Betis",
+     "away": "Málaga",
      "status": "TIMED",
      "score": null
     },
@@ -368,6 +360,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-10-31T17:45:00Z",
      "home": "PSV",
      "away": "Willem II",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-31T17:45:00Z",
+     "home": "Heerenveen",
+     "away": "NEC",
      "status": "TIMED",
      "score": null
     },
@@ -396,10 +396,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-31T20:00:00Z",
+     "home": "Aston Villa",
+     "away": "Fulham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-31T20:00:00Z",
-     "home": "Cambuur",
-     "away": "Go Ahead",
+     "home": "Ajax",
+     "away": "AZ",
      "status": "TIMED",
      "score": null
     },
@@ -414,16 +422,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-10-31T20:00:00Z",
-     "home": "Ajax",
-     "away": "AZ",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-31T20:00:00Z",
-     "home": "Aston Villa",
-     "away": "Fulham",
+     "home": "Cambuur",
+     "away": "Go Ahead",
      "status": "TIMED",
      "score": null
     },
@@ -1103,129 +1103,129 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#4",
-     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
-     "published": "2026-10-31T06:43:12+00:00",
-     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
      "title": "New England Revolution aim to extend win streak in matchup with Inter Miami - FOX Sports",
      "published": "2026-10-31T06:03:45+00:00",
      "summary": "New England Revolution aim to extend win streak in matchup with Inter Miami FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#6",
-     "title": "Messi expected to start in Miami’s crucial Cincinnati clash - The Daily Star",
-     "published": "2026-10-31T04:11:53+00:00",
-     "summary": "Messi expected to start in Miami’s crucial Cincinnati clash The Daily Star"
-    },
-    {
-     "ref": "gnews_inter_miami#7",
-     "title": "Miami FC upsets top-seeded Rowdies in conference quarterfinals - Yahoo Sports",
-     "published": "2026-10-31T04:05:00+00:00",
-     "summary": "Miami FC upsets top-seeded Rowdies in conference quarterfinals Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami Adidas Jersey - khorasantimes.com",
      "published": "2026-10-31T03:45:49+00:00",
      "summary": "Inter Miami Adidas Jersey khorasantimes.com"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#6",
+     "title": "Prediction New England vs Inter Miami: analysis, odds and betting tips - BetMines",
+     "published": "2026-10-31T03:45:17+00:00",
+     "summary": "Prediction New England vs Inter Miami: analysis, odds and betting tips BetMines"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
      "title": "MATCHDAY GUIDE | Revs vs. Inter Miami CF (November 1, 2026) - revolutionsoccer.net",
      "published": "2026-10-31T03:40:17+00:00",
      "summary": "MATCHDAY GUIDE | Revs vs. Inter Miami CF (November 1, 2026) revolutionsoccer.net"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#8",
      "title": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums - RealGM",
      "published": "2026-10-31T02:58:55+00:00",
      "summary": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums RealGM"
     },
     {
-     "ref": "gnews_inter_miami#11",
-     "title": "New England Revolution v Inter Miami CF Odds - FanDuel Sportsbook",
-     "published": "2026-10-31T02:24:25+00:00",
-     "summary": "New England Revolution v Inter Miami CF Odds FanDuel Sportsbook"
-    },
-    {
-     "ref": "gnews_inter_miami#12",
-     "title": "November 1, 2026: New England vs Miami Soccer Prediction Market - Robinhood",
-     "published": "2026-10-31T01:25:50+00:00",
-     "summary": "November 1, 2026: New England vs Miami Soccer Prediction Market Robinhood"
-    },
-    {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#9",
      "title": "Inter Miami Receive Classic U.S. Honor, but Without Lionel Messi - Heavy.com",
      "published": "2026-10-30T23:32:50+00:00",
      "summary": "Inter Miami Receive Classic U.S. Honor, but Without Lionel Messi Heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#14",
-     "title": "Major League Soccer - Goal.com",
-     "published": "2026-10-30T23:25:36+00:00",
-     "summary": "Major League Soccer Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#10",
      "title": "Turner previews Miami | \"We've been up to the task for those really intense moments\" - revolutionsoccer.net",
      "published": "2026-10-30T21:40:18+00:00",
      "summary": "Turner previews Miami | \"We've been up to the task for those really intense moments\" revolutionsoccer.net"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#11",
      "title": "New England Revolution evolve into MLS Cup contender: \"Never satisfied\" - MLSsoccer.com",
      "published": "2026-10-30T21:37:53+00:00",
      "summary": "New England Revolution evolve into MLS Cup contender: \"Never satisfied\" MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#17",
-     "title": "FC Cincinnati seeks playoff clincher when it hosts Philadelphia - Sun Herald",
+     "ref": "gnews_inter_miami#12",
+     "title": "FC Cincinnati seeks playoff clincher when it hosts Philadelphia - Miami Herald",
      "published": "2026-10-30T20:31:07+00:00",
-     "summary": "FC Cincinnati seeks playoff clincher when it hosts Philadelphia Sun Herald"
+     "summary": "FC Cincinnati seeks playoff clincher when it hosts Philadelphia Miami Herald"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#13",
      "title": "The Rondo: Can Lionel Messi and Inter Miami repeat as champions? Will Nashville fall short? Are Cavan Sullivan, Julian Hall and the kids taking over MLS? - Goal.com",
      "published": "2026-10-30T20:23:08+00:00",
      "summary": "The Rondo: Can Lionel Messi and Inter Miami repeat as champions? Will Nashville fall short? Are Cavan Sullivan, Julian Hall and the kids taking over MLS? Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#14",
      "title": "Why was Lionel Messi not banned for his fifth MLS yellow card? A unique rule helped him - The New York Times",
      "published": "2026-10-30T20:02:23+00:00",
      "summary": "Why was Lionel Messi not banned for his fifth MLS yellow card? A unique rule helped him The New York Times"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#15",
      "title": "Preview | Revs close regular season home slate against Inter Miami CF on Sunday night - revolutionsoccer.net",
      "published": "2026-10-30T19:38:47+00:00",
      "summary": "Preview | Revs close regular season home slate against Inter Miami CF on Sunday night revolutionsoccer.net"
     },
     {
-     "ref": "gnews_inter_miami#21",
-     "title": "New England Revolution vs Inter Miami: Kalshi Promo Code & $25 Bonus - Squawka",
-     "published": "2026-10-30T19:20:12+00:00",
-     "summary": "New England Revolution vs Inter Miami: Kalshi Promo Code & $25 Bonus Squawka"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#16",
      "title": "Real Madrid Had a Chance to Sign Lionel Messi - Heavy.com",
      "published": "2026-10-30T19:00:42+00:00",
      "summary": "Real Madrid Had a Chance to Sign Lionel Messi Heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#17",
+     "title": "New England Revolution vs. Inter Miami: Lineups, Stats, Schedule, and How to Watch - news.bet365.com",
+     "published": "2026-10-30T18:30:27+00:00",
+     "summary": "New England Revolution vs. Inter Miami: Lineups, Stats, Schedule, and How to Watch news.bet365.com"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
      "title": "Lionel Messi could extend his Inter Miami contract beyond 2028 despite reports of a return to Argentina - World Soccer Talk",
      "published": "2026-10-30T17:15:30+00:00",
      "summary": "Lionel Messi could extend his Inter Miami contract beyond 2028 despite reports of a return to Argentina World Soccer Talk"
     },
     {
+     "ref": "gnews_inter_miami#19",
+     "title": "Cristiano Ronaldo Hits 8 Hat-Tricks with Al-Nassr and Doubles Messi’s Tally at Inter Miami: How Many Does the Argentine Have? - Soy Futbol",
+     "published": "2026-10-30T16:26:04+00:00",
+     "summary": "Cristiano Ronaldo Hits 8 Hat-Tricks with Al-Nassr and Doubles Messi’s Tally at Inter Miami: How Many Does the Argentine Have? Soy Futbol"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
+     "title": "No, Messi Isn’t Coming to Newell’s—And He Might Just Stick Around in Miami: Will He Stay in the USA? - Soy Futbol",
+     "published": "2026-10-30T16:25:54+00:00",
+     "summary": "No, Messi Isn’t Coming to Newell’s—And He Might Just Stick Around in Miami: Will He Stay in the USA? Soy Futbol"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
+     "title": "Lionel Messi has no Newell's talks and wants to stay at Inter Miami until 2028, maybe longer - https://www.footballmuse.com/",
+     "published": "2026-10-30T16:14:00+00:00",
+     "summary": "Lionel Messi has no Newell's talks and wants to stay at Inter Miami until 2028, maybe longer https://www.footballmuse.com/"
+    },
+    {
+     "ref": "gnews_inter_miami#22",
+     "title": "Messi reaches five yellows, but won't be banned: how MLS works - Yahoo Sports",
+     "published": "2026-10-30T16:04:00+00:00",
+     "summary": "Messi reaches five yellows, but won't be banned: how MLS works Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
+     "title": "Fifth yellow, no ban: Curious MLS rule saves Messi - The Daily Star",
+     "published": "2026-10-30T15:27:49+00:00",
+     "summary": "Fifth yellow, no ban: Curious MLS rule saves Messi The Daily Star"
+    },
+    {
      "ref": "gnews_inter_miami#24",
-     "title": "MLS 2027 ‘Sprint Season’ to begin Feb. 19 at Miami - Field Level Media",
-     "published": "2026-10-30T17:03:45+00:00",
-     "summary": "MLS 2027 ‘Sprint Season’ to begin Feb. 19 at Miami Field Level Media"
+     "title": "‘At Least’—Lionel Messi’s Future Takes New Twist Amid Shock Inter Miami Exit Talk - Sports Illustrated",
+     "published": "2026-10-30T15:15:00+00:00",
+     "summary": "‘At Least’—Lionel Messi’s Future Takes New Twist Amid Shock Inter Miami Exit Talk Sports Illustrated"
     }
    ]
   },
@@ -1235,153 +1235,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Portland Trail Blazers @ Utah Jazz Odds - FanDuel Sportsbook",
+     "published": "2026-10-31T06:06:51+00:00",
+     "summary": "Portland Trail Blazers @ Utah Jazz Odds FanDuel Sportsbook"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
+     "title": "NBA Most Improved Player Odds & Favorites for 2027 - sports.betmgm.com",
+     "published": "2026-10-31T04:13:18+00:00",
+     "summary": "NBA Most Improved Player Odds & Favorites for 2027 sports.betmgm.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
+     "title": "Portland Trail Blazers open 2026-27 NBA season - OregonLive.com",
+     "published": "2026-10-31T01:59:29+00:00",
+     "summary": "Portland Trail Blazers open 2026-27 NBA season OregonLive.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
+     "title": "Blazers vs. Jazz Game Preview: Portland Looks to Bounce Back Despite Morant Injury - Sports Illustrated",
+     "published": "2026-10-31T01:00:01+00:00",
+     "summary": "Blazers vs. Jazz Game Preview: Portland Looks to Bounce Back Despite Morant Injury Sports Illustrated"
+    },
+    {
+     "ref": "gnews_israeli_nba#4",
      "title": "Ja Morant injury makes it clear Blazers need Point Deni back - Rip City Project",
      "published": "2026-10-30T19:59:33+00:00",
      "summary": "Ja Morant injury makes it clear Blazers need Point Deni back Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#5",
+     "title": "Ja Morant Injury Forces Blazers to Rethink Offense After 3-0 Start - roundtable.io",
+     "published": "2026-10-30T19:50:26+00:00",
+     "summary": "Ja Morant Injury Forces Blazers to Rethink Offense After 3-0 Start roundtable.io"
+    },
+    {
+     "ref": "gnews_israeli_nba#6",
      "title": "Trail Blazers' Deni Avdija: Strong start continues - CBS Sports",
      "published": "2026-10-30T17:10:52+00:00",
      "summary": "Trail Blazers' Deni Avdija: Strong start continues CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija News: Strong start continues - RotoWire",
      "published": "2026-10-30T17:10:52+00:00",
      "summary": "Deni Avdija News: Strong start continues RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#8",
+     "title": "Nets exercise Egor Demin and four others’ options - TalkBasket.net",
+     "published": "2026-10-30T17:04:40+00:00",
+     "summary": "Nets exercise Egor Demin and four others’ options TalkBasket.net"
+    },
+    {
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija leads Blazers in loss to Memphis - FantasyPros",
      "published": "2026-10-30T13:52:16+00:00",
      "summary": "Deni Avdija leads Blazers in loss to Memphis FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#10",
+     "title": "Blazers Loss to Grizzlies a Learning Experience on Team Ball - Yahoo Sports",
+     "published": "2026-10-30T13:00:07+00:00",
+     "summary": "Blazers Loss to Grizzlies a Learning Experience on Team Ball Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#11",
      "title": "Nets Exercise Options For Egor Demin, Drake Powell, Ben Saraf, Nolan Traore, Danny Wolf - RealGM",
      "published": "2026-10-30T12:34:00+00:00",
      "summary": "Nets Exercise Options For Egor Demin, Drake Powell, Ben Saraf, Nolan Traore, Danny Wolf RealGM"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#12",
      "title": "NBA Notes: Blazers, Deni Avdija, Pelicans, Jeremiah Fears, Hawks - Hoops Wire",
      "published": "2026-10-30T07:38:51+00:00",
      "summary": "NBA Notes: Blazers, Deni Avdija, Pelicans, Jeremiah Fears, Hawks Hoops Wire"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#13",
+     "title": "Nets pick up 2027-28 options on five young players - TalkBasket.net",
+     "published": "2026-10-30T07:25:39+00:00",
+     "summary": "Nets pick up 2027-28 options on five young players TalkBasket.net"
+    },
+    {
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija scores 24 points as Portland suffers first loss of NBA season - Ynetnews",
      "published": "2026-10-30T06:19:28+00:00",
      "summary": "Deni Avdija scores 24 points as Portland suffers first loss of NBA season Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija Postgame Interview | Portland Trail Blazers 103, Memphis Grizzlies 124 | Oct. 29, 2026 - NBA.com",
      "published": "2026-10-30T06:05:19+00:00",
      "summary": "Deni Avdija Postgame Interview | Portland Trail Blazers 103, Memphis Grizzlies 124 | Oct. 29, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#16",
+     "title": "Grizzlies 124-103 Trail Blazers (30 Oct, 2026) Final Score - ESPN Singapore",
+     "published": "2026-10-30T05:54:27+00:00",
+     "summary": "Grizzlies 124-103 Trail Blazers (30 Oct, 2026) Final Score ESPN Singapore"
+    },
+    {
+     "ref": "gnews_israeli_nba#17",
+     "title": "Blazers Suffer First Loss of Season in Blowout Against Grizzlies - roundtable.io",
+     "published": "2026-10-30T05:49:58+00:00",
+     "summary": "Blazers Suffer First Loss of Season in Blowout Against Grizzlies roundtable.io"
+    },
+    {
+     "ref": "gnews_israeli_nba#18",
+     "title": "NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten - GMA Network",
+     "published": "2026-10-30T05:13:01+00:00",
+     "summary": "NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten GMA Network"
+    },
+    {
+     "ref": "gnews_israeli_nba#19",
+     "title": "Trail Blazers fall to Memphis, suffer first loss of season - KATU",
+     "published": "2026-10-30T05:11:27+00:00",
+     "summary": "Trail Blazers fall to Memphis, suffer first loss of season KATU"
+    },
+    {
+     "ref": "gnews_israeli_nba#20",
      "title": "Portland Trail Blazers vs. Memphis Grizzlies: Oct. 29, 2026 - OregonLive.com",
      "published": "2026-10-30T04:55:46+00:00",
      "summary": "Portland Trail Blazers vs. Memphis Grizzlies: Oct. 29, 2026 OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija puts up 24/9/7 line in loss to Memphis - NBC Sports",
      "published": "2026-10-30T04:38:44+00:00",
      "summary": "Deni Avdija puts up 24/9/7 line in loss to Memphis NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#22",
+     "title": "NBA Roundup: Iisalo, Grizzlies stay perfect, Sabonis passes Divac - Eurohoops",
+     "published": "2026-10-30T04:36:00+00:00",
+     "summary": "NBA Roundup: Iisalo, Grizzlies stay perfect, Sabonis passes Divac Eurohoops"
+    },
+    {
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija with the And-1!, 10/29/2026 - Yahoo Sports",
      "published": "2026-10-30T04:31:22+00:00",
      "summary": "Deni Avdija with the And-1!, 10/29/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#24",
      "title": "Deni Avdija's 24 Points Not Enough, Blazers Fall to Grizzlies - Sports Illustrated",
      "published": "2026-10-30T04:24:46+00:00",
      "summary": "Deni Avdija's 24 Points Not Enough, Blazers Fall to Grizzlies Sports Illustrated"
-    },
-    {
-     "ref": "gnews_israeli_nba#12",
-     "title": "Deni Avdija with the and-1 bucket - ESPN",
-     "published": "2026-10-29T22:31:10+00:00",
-     "summary": "Deni Avdija with the and-1 bucket ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#13",
-     "title": "Nets' Ben Saraf: Option picked up - CBS Sports",
-     "published": "2026-10-29T17:12:13+00:00",
-     "summary": "Nets' Ben Saraf: Option picked up CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
-     "title": "Ben Saraf News: Option picked up - RotoWire",
-     "published": "2026-10-29T17:12:13+00:00",
-     "summary": "Ben Saraf News: Option picked up RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
-     "title": "Deni Avdija First Basket Pick & Odds Today (Oct. 29) - Lineups",
-     "published": "2026-10-29T15:36:08+00:00",
-     "summary": "Deni Avdija First Basket Pick & Odds Today (Oct. 29) Lineups"
-    },
-    {
-     "ref": "gnews_israeli_nba#16",
-     "title": "Two Ex-Knicks Walk Into a Bar Mitzvah (And Other NBA Jewish Culture Crossovers) - Honest Reporting",
-     "published": "2026-10-29T10:41:34+00:00",
-     "summary": "Two Ex-Knicks Walk Into a Bar Mitzvah (And Other NBA Jewish Culture Crossovers) Honest Reporting"
-    },
-    {
-     "ref": "gnews_israeli_nba#17",
-     "title": "Deni Avdija shines with 23 points as undefeated Portland defeats Lakers - The Jerusalem Post",
-     "published": "2026-10-29T08:45:15+00:00",
-     "summary": "Deni Avdija shines with 23 points as undefeated Portland defeats Lakers The Jerusalem Post"
-    },
-    {
-     "ref": "gnews_israeli_nba#18",
-     "title": "NBA player props today: Thursday's best props include Deni Avdija [10/29/2026] - Dimers",
-     "published": "2026-10-29T07:56:55+00:00",
-     "summary": "NBA player props today: Thursday's best props include Deni Avdija [10/29/2026] Dimers"
-    },
-    {
-     "ref": "gnews_israeli_nba#19",
-     "title": "Famous Jewish NBA players and the stories behind their careers - Tuko News",
-     "published": "2026-10-28T15:33:31+00:00",
-     "summary": "Famous Jewish NBA players and the stories behind their careers Tuko News"
-    },
-    {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Luka scores 41, but Lakers lose to unbeaten Trail Blazers 136-129 - Spectrum News",
-     "published": "2026-10-28T13:00:00+00:00",
-     "summary": "Luka scores 41, but Lakers lose to unbeaten Trail Blazers 136-129 Spectrum News"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
-     "title": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers - KQSM-FM",
-     "published": "2026-10-28T11:08:06+00:00",
-     "summary": "Deni Avdija, Blazers prevail in battle of unbeatens against Lakers KQSM-FM"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA - The Straits Times",
-     "published": "2026-10-28T10:24:00+00:00",
-     "summary": "Deni Avdija, Trail Blazers prevail in battle of unbeaten teams against Lakers in NBA The Straits Times"
-    },
-    {
-     "ref": "gnews_israeli_nba#23",
-     "title": "Trail Blazers' Deni Avdija: Logs team-high 23 points - CBS Sports",
-     "published": "2026-10-28T09:41:00+00:00",
-     "summary": "Trail Blazers' Deni Avdija: Logs team-high 23 points CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija News: Logs team-high 23 points - RotoWire",
-     "published": "2026-10-28T09:33:34+00:00",
-     "summary": "Deni Avdija News: Logs team-high 23 points RotoWire"
     }
    ]
   }
