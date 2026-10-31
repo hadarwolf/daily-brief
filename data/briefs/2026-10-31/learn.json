@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-10-31",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-10-31T03:46:24+00:00",
+  "stories": [
+    {
+      "id": "word-greenshoe-option",
+      "kind": "word",
+      "en": {
+        "headline": "Greenshoe option (אופציית גרינשו)",
+        "scroll": "A clause letting IPO underwriters sell extra shares to stabilize the price, named after the first company to use it.",
+        "coffee": "A greenshoe option (also called an over-allotment option) lets the underwriters of an IPO sell up to 15% more shares than planned. If demand is strong, they exercise it and buy those shares from the company at the IPO price, pocketing the difference if the stock trades higher. If the stock falls after listing, they can buy shares back in the open market instead, propping up the price without taking on their own risk.\n\nExample: \"The bankers exercised the greenshoe option after the stock popped 20% on day one.\"",
+        "deep": "The greenshoe option takes its name from the Green Shoe Manufacturing Company (now Stride Rite), whose 1963 IPO was the first to include one. In practice, it's written into the underwriting agreement before the IPO and gives underwriters a 30-day window to buy up to 15% more shares from the company at the offer price.\n\nIt exists to absorb exactly the risk that scares issuers: wild first-day price swings. If the stock soars, underwriters exercise the option and sell those extra shares to meet demand, keeping the price from spiking further. If it slides, they can buy shares in the open market below the IPO price to support it, then use those same shares to cover their short position instead of buying from the company.\n\nA common confusion: it isn't an open-ended backstop — it's capped, time-limited, and specific to the IPO period. You'll see it in prospectuses as \"over-allotment option.\" More examples: \"Regulators let underwriters use a greenshoe of up to 15% of the offering.\" In Hebrew: אופציית גרינשו."
+      },
+      "he": {
+        "headline": "Greenshoe option (אופציית גרינשו)",
+        "scroll": "סעיף שמאפשר לחתמי הנפקה למכור מניות נוספות כדי לייצב את המחיר, על שם החברה הראשונה שהשתמשה בו.",
+        "coffee": "אופציית גרינשו (הנקראת גם אופציית הקצאת יתר) מאפשרת לחתמים של הנפקה (IPO) למכור עד 15% מניות נוספות מהמתוכנן. אם הביקוש חזק, הם מממשים את האופציה וקונים את המניות הללו מהחברה במחיר ההנפקה, ונהנים מההפרש אם המניה נסחרת גבוה יותר. אם המניה יורדת אחרי ההנפקה, הם יכולים לקנות מניות בשוק הפתוח במקום זאת, ולתמוך במחיר בלי לקחת על עצמם סיכון.\n\nלדוגמה: \"הבנקאים מימשו את אופציית הגרינשו אחרי שהמניה קפצה 20% ביום הראשון.\"",
+        "deep": "אופציית הגרינשו נקראת על שם חברת Green Shoe Manufacturing (כיום Stride Rite), שההנפקה שלה ב-1963 הייתה הראשונה שכללה אותה. בפועל, הסעיף נכתב בהסכם החיתום לפני ההנפקה ונותן לחתמים חלון של 30 יום לקנות עד 15% מניות נוספות מהחברה במחיר ההנפקה.\n\nהוא קיים כדי לבלוע בדיוק את הסיכון שמפחיד מנפיקים: תנודות פרועות במחיר ביום הראשון. אם המניה מזנקת, החתמים מממשים את האופציה ומוכרים את המניות הנוספות כדי לספק ביקוש, ומונעים מהמחיר להמשיך ולטפס. אם היא נופלת, הם יכולים לקנות מניות בשוק הפתוח מתחת למחיר ההנפקה כדי לתמוך בה, ואז להשתמש באותן מניות כדי לכסות את הפוזיציה השורט שלהם במקום לקנות מהחברה.\n\nבלבול נפוץ: זו לא רשת הגנה בלתי מוגבלת - היא מוגבלת בכמות ובזמן, וספציפית לתקופת ההנפקה. תמצאו אותה בתשקיפים בשם \"אופציית הקצאת יתר\" (over-allotment option). עוד דוגמה: \"הרגולטור אישר לחתמים גרינשו של עד 15% מההנפקה.\" בעברית: אופציית גרינשו."
+      },
+      "tags": [
+        "vocabulary",
+        "ipo",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "phrase-kick-the-can-down-the-road",
+      "kind": "word",
+      "en": {
+        "headline": "Kick the can down the road (לגלגל את הבעיה קדימה)",
+        "scroll": "To defer a hard decision or problem instead of solving it, pushing the consequences onto someone — or some later date.",
+        "coffee": "\"Kicking the can down the road\" describes postponing a difficult decision — raising the debt ceiling, restructuring a loan, delaying a layoff — without actually fixing the underlying problem. The costs don't disappear; they just land on a future date, or a future person.\n\nIt's usually used critically, implying the delay is politically convenient but economically irresponsible. Example: \"The central bank extended the credit line again — critics say it's just kicking the can down the road on an insolvent borrower.\"",
+        "deep": "The image is a child kicking an empty can along the pavement instead of picking it up and throwing it away — the can keeps moving, but the job never gets done. In finance and policy, it describes any fix that defers a cost or decision rather than resolving it: extending a loan's maturity instead of restructuring it, passing a stopgap budget instead of a real one, or letting a struggling company keep operating (\"extend and pretend\") instead of forcing a write-down.\n\nThe common confusion is with \"buying time,\" which implies a deliberate strategy to use the extra period productively. Kicking the can usually carries a negative connotation — there's no plan, just avoidance.\n\nMore examples: \"Congress kicked the can down the road again with another short-term funding bill.\" \"Zombie companies get kept alive by banks kicking the can down the road on their debt.\" In Hebrew: לגלגל את הבעיה קדימה."
+      },
+      "he": {
+        "headline": "Kick the can down the road (לגלגל את הבעיה קדימה)",
+        "scroll": "לדחות החלטה קשה או בעיה במקום לפתור אותה, ולהעביר את ההשלכות למישהו אחר או למועד אחר.",
+        "coffee": "\"לגלגל את הבעיה קדימה\" מתאר דחייה של החלטה קשה - העלאת תקרת החוב, מבנה מחדש של הלוואה, דחיית פיטורים - בלי לפתור בפועל את הבעיה שבבסיס. העלויות לא נעלמות, הן רק נופלות על תאריך עתידי, או על מישהו אחר.\n\nהביטוי משמש בדרך כלל באופן ביקורתי, ומרמז שהדחייה נוחה פוליטית אך לא אחראית כלכלית. לדוגמה: \"הבנק המרכזי האריך את קו האשראי בפעם נוספת - מבקרים אומרים שזה רק גלגול הבעיה קדימה לגבי לווה חדל פירעון.\"",
+        "deep": "הדימוי הוא של ילד שמבעט בפחית ריקה במדרכה במקום להרים אותה ולזרוק אותה לפח - הפחית ממשיכה לנוע, אבל המשימה לא מתבצעת. בפיננסים ובמדיניות, הביטוי מתאר כל פתרון שדוחה עלות או החלטה במקום לפתור אותה: הארכת מועד פירעון של הלוואה במקום מבנה מחדש, אישור תקציב ביניים במקום תקציב אמיתי, או השארת חברה מתקשה פועלת (\"extend and pretend\") במקום לכפות מחיקה.\n\nהבלבול הנפוץ הוא עם \"לקנות זמן\", שמרמז על אסטרטגיה מכוונת לשימוש יעיל בזמן הנוסף. גלגול הבעיה קדימה נושא בדרך כלל משמעות שלילית - אין תוכנית, רק הימנעות.\n\nעוד דוגמאות: \"הקונגרס גלגל את הבעיה קדימה שוב עם עוד חוק תקצוב זמני.\" \"חברות זומבי נשארות בחיים כשבנקים מגלגלים את החוב שלהן קדימה.\" בעברית: לגלגל את הבעיה קדימה."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "policy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "idiom-white-knight",
+      "kind": "word",
+      "en": {
+        "headline": "White knight (אביר לבן)",
+        "scroll": "A friendly acquirer who rescues a company from a hostile takeover by buying it on better terms.",
+        "coffee": "In M&A, a \"white knight\" is a company or investor that swoops in to acquire a target facing a hostile takeover, offering better terms — a higher price, or a promise to keep management and jobs — than the hostile bidder. The target's board invites the white knight in specifically to block the unwanted buyer.\n\nExample: \"When the activist fund launched its hostile bid, the board found a white knight willing to pay a premium and keep the headquarters in place.\"",
+        "deep": "A white knight is an outside party — usually a company in the same industry, or a friendly investor — that acquires a firm to save it from a hostile takeover it doesn't want. The target's board actively seeks out this buyer once a hostile bidder shows up, because the white knight's offer usually comes with softer terms: it might pay a similar or higher price but promise to retain management, keep the headquarters, or avoid breaking the company into pieces.\n\nIt's distinct from a \"white squire,\" which buys a large minority stake — enough to block the hostile bidder's control — without acquiring the whole company. People sometimes confuse it with a poison pill, but a poison pill is an internal defense a board adopts in advance (like letting other shareholders buy discounted shares), while a white knight is an external rescuer brought in after the threat appears.\n\nExample: \"Fearing a takeover by its rival, the retailer courted a white knight from a neighboring sector.\" In Hebrew: אביר לבן."
+      },
+      "he": {
+        "headline": "White knight (אביר לבן)",
+        "scroll": "רוכש ידידותי שמציל חברה מרכישה עוינת על ידי קנייתה בתנאים טובים יותר.",
+        "coffee": "בעולם המיזוגים והרכישות, \"אביר לבן\" הוא חברה או משקיע שנכנס לתמונה ורוכש חברת מטרה שעומדת בפני רכישה עוינת, ומציע תנאים טובים יותר - מחיר גבוה יותר, או הבטחה לשמר את ההנהלה ואת מקומות העבודה - מאלה של המציע העוין. דירקטוריון החברה מזמין את האביר הלבן באופן יזום כדי לחסום את הרוכש הלא רצוי.\n\nלדוגמה: \"כשקרן אקטיביסטית השיקה הצעת רכש עוינת, הדירקטוריון מצא אביר לבן שהיה מוכן לשלם פרמיה ולהשאיר את המשרד הראשי במקום.\"",
+        "deep": "אביר לבן הוא גורם חיצוני - בדרך כלל חברה מאותו תחום, או משקיע ידידותי - שרוכש חברה כדי להצילה מרכישה עוינת שהיא לא רוצה בה. הדירקטוריון של חברת המטרה מחפש באופן יזום את הרוכש הזה כשמופיע מציע עוין, כי ההצעה של האביר הלבן מגיעה בדרך כלל עם תנאים רכים יותר: הוא עשוי לשלם מחיר דומה או גבוה יותר אך להבטיח לשמר את ההנהלה, להשאיר את המשרד הראשי, או להימנע מפירוק החברה לחלקים.\n\nזה שונה מ\"חוזר לבן\" (white squire), שקונה נתח מיעוט גדול - מספיק כדי לחסום שליטה של המציע העוין - בלי לרכוש את כל החברה. אנשים מתבלבלים לפעמים בין זה לבין \"גלולת רעל\" (poison pill), אבל גלולת רעל היא מנגנון הגנה פנימי שהדירקטוריון מאמץ מראש (כמו לאפשר לבעלי מניות אחרים לקנות מניות בהנחה), בעוד שאביר לבן הוא מציל חיצוני שמובא לאחר שהאיום מופיע.\n\nלדוגמה: \"מחשש לרכישה על ידי מתחרה, הרשת הקימעונאית חיזרה אחר אביר לבן מתחום סמוך.\" בעברית: אביר לבן."
+      },
+      "tags": [
+        "vocabulary",
+        "m&a",
+        "idiom"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-economic-moat",
+      "kind": "concept",
+      "en": {
+        "headline": "What makes a business hard to attack: the economic moat",
+        "scroll": "An economic moat is a durable advantage — a cost edge, brand, network effect, or switching cost — that protects a company's profits from competitors for years.",
+        "coffee": "Warren Buffett and Charlie Munger popularized \"economic moat\" as a metaphor: a castle surrounded by a moat is hard to attack, so a business surrounded by durable competitive advantages is hard for rivals to erode. The point isn't that a company is profitable today — lots of companies are. It's whether competitors can take those profits away, and how long it would take them to try.\n\nEconomists and investors usually sort moats into five buckets: cost advantages (structurally cheaper production, often from scale), intangible assets (brands, patents, licenses that let a company charge more or exclude rivals), network effects (a product that gets more valuable as more people use it), switching costs (the hassle or risk of moving to a competitor), and efficient scale (markets small enough that one or two players can serve all the demand, discouraging new entrants).",
+        "deep": "## Where the term comes from\nWarren Buffett and Charlie Munger popularized \"economic moat\" as a metaphor: a castle surrounded by a moat is hard to attack, so a business surrounded by durable competitive advantages is hard for rivals to erode. The point isn't that a company is profitable today — lots of companies are. It's whether competitors can take those profits away, and how long it would take them to try.\n\n## The five common types\nEconomists and investors usually sort moats into five buckets: (1) cost advantages — a company that structurally produces something cheaper than anyone else, often through scale or a unique process; (2) intangible assets — brands, patents, or regulatory licenses that let a company charge more or exclude competitors; (3) network effects — a product that gets more valuable as more people use it, so a new entrant starts at a disadvantage no matter how good its product is; (4) switching costs — the hassle, cost, or risk of moving to a competitor, even if the competitor is slightly better or cheaper; and (5) efficient scale — markets small enough that one or two players can serve all the demand profitably, discouraging anyone else from entering.\n\n## A worked example\nTake a payments network like Visa. A single additional merchant that accepts Visa makes the card marginally more useful to every cardholder, and a single additional cardholder makes Visa marginally more attractive for every merchant to accept — that's a network effect. A startup could build a technically superior payment network tomorrow, but it would have almost no merchants and almost no cardholders, so neither side has a reason to switch first. That chicken-and-egg problem is the moat: it's not that Visa is unbeatable in theory, it's that unseating it requires coordinating millions of people to switch simultaneously, which almost never happens.\n\n## Why it matters now\nMoats explain why some companies keep earning high margins for decades while others in seemingly similar businesses get squeezed by competition within a few years. When evaluating a company — as an investor, an employee, or a competitor — the question isn't just \"is this profitable,\" but \"what, specifically, stops someone else from copying this and charging less.\" If there's no good answer, the current profits are probably temporary."
+      },
+      "he": {
+        "headline": "חפיר כלכלי: מה הופך עסק לקשה לתקיפה",
+        "scroll": "חפיר כלכלי (economic moat) הוא יתרון עמיד - יתרון עלות, מותג, אפקט רשת או עלות מעבר - ששומר על הרווחים של חברה מפני מתחרים לאורך שנים.",
+        "coffee": "וורן באפט וצ'רלי מאנגר הפכו את המטפורה \"חפיר כלכלי\" (economic moat) לפופולרית: טירה מוקפת בחפיר קשה לתקוף, ולכן עסק מוקף ביתרונות תחרותיים עמידים קשה למתחרים לשחוק. הנקודה היא לא שחברה רווחית היום - הרבה חברות רווחיות. השאלה היא אם מתחרים יכולים לקחת את הרווחים האלה, ובאיזו מהירות הם יכולים לנסות.\n\nכלכלנים ומשקיעים מחלקים בדרך כלל חפירים לחמש קטגוריות: יתרון עלות (ייצור זול יותר באופן מבני, בדרך כלל בזכות קנה מידה), נכסים לא מוחשיים (מותגים, פטנטים או רישיונות שמאפשרים לגבות יותר או לחסום מתחרים), אפקטי רשת (מוצר שהופך לשימושי יותר כשיותר אנשים משתמשים בו), עלויות מעבר (הטרחה או הסיכון במעבר למתחרה), וקנה מידה יעיל (שווקים קטנים מספיק שרק שחקן אחד או שניים יכולים לשרת בהם את כל הביקוש, מה שמרתיע כניסה של שחקנים חדשים).",
+        "deep": "## מקור המונח\nוורן באפט וצ'רלי מאנגר הפכו את \"חפיר כלכלי\" למטפורה פופולרית: טירה מוקפת בחפיר קשה לתקוף, ולכן עסק מוקף ביתרונות תחרותיים עמידים קשה למתחרים לשחוק. הנקודה היא לא שהחברה רווחית היום - הרבה חברות רווחיות. השאלה היא אם מתחרים יכולים לקחת את הרווחים האלה, ולכמה זמן ייקח להם לנסות.\n\n## חמשת הסוגים הנפוצים\nכלכלנים ומשקיעים בדרך כלל מחלקים חפירים לחמש קטגוריות: (1) יתרון עלות - חברה שמייצרת משהו זול יותר מכל אחד אחר באופן מבני, בדרך כלל בזכות קנה מידה או תהליך ייחודי; (2) נכסים לא מוחשיים - מותגים, פטנטים או רישיונות רגולטוריים שמאפשרים לחברה לגבות יותר או לחסום מתחרים; (3) אפקטי רשת - מוצר שהופך ליותר שימושי כשיותר אנשים משתמשים בו, כך שמתחרה חדש מתחיל בנחיתות לא משנה כמה המוצר שלו טוב; (4) עלויות מעבר - הטרחה, העלות או הסיכון במעבר למתחרה, אפילו אם הוא קצת יותר טוב או זול; ו-(5) קנה מידה יעיל - שווקים קטנים מספיק שרק שחקן אחד או שניים יכולים לשרת בהם את כל הביקוש ברווחיות, מה שמרתיע כניסה של עוד שחקנים.\n\n## דוגמה מעשית\nניקח רשת תשלומים כמו Visa. סוחר נוסף אחד שמקבל Visa הופך את הכרטיס לשימושי קצת יותר לכל מחזיק כרטיס, ומחזיק כרטיס נוסף אחד הופך את Visa לאטרקטיבית קצת יותר לכל סוחר שישקול לקבל אותה - זה אפקט רשת. סטארט-אפ יכול לבנות מחר רשת תשלומים טכנולוגית עדיפה, אבל לא יהיו לו כמעט סוחרים וכמעט מחזיקי כרטיסים, כך שלשני הצדדים אין סיבה לעבור ראשונים. בעיית \"הביצה והתרנגולת\" הזו היא החפיר: לא ש-Visa בלתי ניתנת לניצחון בתיאוריה, אלא שלהדיח אותה דורש לתאם מעבר של מיליוני אנשים בבת אחת, מה שכמעט אף פעם לא קורה.\n\n## למה זה חשוב עכשיו\nחפירים מסבירים מדוע חברות מסוימות ממשיכות להרוויח שולי רווח גבוהים לאורך עשורים, בעוד אחרות בעסקים שנראים דומים נדחקות על ידי תחרות בתוך כמה שנים. כשמעריכים חברה - כמשקיע, כעובד או כמתחרה - השאלה היא לא רק \"האם זה רווחי\", אלא \"מה, בדיוק, מונע ממישהו אחר להעתיק את זה ולגבות פחות\". אם אין תשובה טובה, הרווחים הנוכחיים הם כנראה זמניים."
+      },
+      "tags": [
+        "concept",
+        "business",
+        "moat"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-beersheba-1917",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1917: Allied cavalry take Beersheba from Ottoman forces in one of history's last great cavalry charges",
+        "scroll": "In 1917, Allied forces — including the Australian Light Horse — captured Beersheba from Ottoman troops in a battle famous for one of the last successful massed cavalry charges in warfare.",
+        "coffee": "In October 1917, British-led forces in World War I's Sinai and Palestine campaign had spent months stuck outside Gaza, the western end of an Ottoman defensive line across the Negev. Beersheba, at the line's eastern end, held the region's only wells reliable enough to water an army — so British commander Edmund Allenby planned a surprise attack from the desert side, timed to seize the wells intact before defenders could destroy them.\n\nLate in the day, with infantry stalled and daylight running out, the Australian Light Horse charged roughly four miles across open ground straight at Ottoman trenches and guns. Riding too fast for rifle sights to track, they jumped the trenches and took the position hand-to-hand — one of the last successful large-scale cavalry charges in military history.\n\nThe wells survived, Gaza fell within days, and Allenby's forces entered Jerusalem by December — all in the same weeks Britain issued the Balfour Declaration, tying the region's military and political future together for the century ahead.",
+        "deep": "## The water problem\nBy October 1917, the British-led Egyptian Expeditionary Force had spent months failing to break through Gaza, the western anchor of a Turkish defensive line stretching east across the Negev desert. Beersheba, at the eastern end of that line, held the only wells in the area capable of watering an army of tens of thousands of men and horses. British commander Edmund Allenby planned a surprise attack from the desert side, where the Ottomans expected it least — but it had to succeed in a single day, before the defenders could destroy the wells.\n\n## The charge\nWith infantry pinned down by Ottoman trenches late in the afternoon and daylight running out, the Australian Light Horse — mounted infantry, not traditionally cavalry — were ordered to charge roughly four miles across open ground directly at the Ottoman trenches and guns. Riding too fast for the defenders' rifle sights to track, they jumped the trenches, dismounted, and took the position in close combat. It is remembered as one of the last successful large-scale cavalry charges in military history, arriving just as mechanized warfare and the machine gun were making cavalry increasingly obsolete elsewhere on the Western Front.\n\n## What followed\nThe wells were captured largely intact, Gaza fell within days once its flank collapsed, and Allenby's forces took Jerusalem by December 1917 — the first time it had been under Christian control since the Crusades. The campaign also unfolded in the same week as the Balfour Declaration, Britain's statement of support for a Jewish national home in Palestine, linking the region's military and political fates for decades to come."
+      },
+      "he": {
+        "headline": "1917: פרשי ההסכמה כובשים את באר שבע מידי העות'מאנים באחת מהתקפות הפרשים ההמוניות האחרונות בהיסטוריה",
+        "scroll": "ב-1917 כוחות ההסכמה - ובהם פרשי האור האוסטרלים - כבשו את באר שבע מידי הכוחות העות'מאניים בקרב שנודע כאחת מהתקפות הפרשים ההמוניות המוצלחות האחרונות בתולדות המלחמה.",
+        "coffee": "באוקטובר 1917, כוחות בריטיים במסע סיני-פלשתינה (ארץ ישראל) של מלחמת העולם הראשונה היו תקועים כמה חודשים מול עזה, הקצה המערבי של קו ההגנה העות'מאני שחצה את הנגב. בבאר שבע, בקצה המזרחי של הקו, היו הבארות האמינות היחידות באזור שיכלו להשקות צבא שלם - כך שהמפקד הבריטי אדמונד אלנבי תכנן התקפת פתע מצד המדבר, בתזמון שיאפשר לכבוש את הבארות שלמות לפני שהמגינים יספיקו להשמיד אותן.\n\nבשעות אחר הצהריים המאוחרות, כשהחי\"ר נתקע ואור היום הלך ואפס, פרשי האור האוסטרלים דהרו כארבעה קילומטרים בשטח פתוח ישר לעבר תעלות ותותחי העות'מאנים. הם דהרו מהר מכדי שכוונות הרובאים יעקבו אחריהם, קפצו מעל התעלות וכבשו את העמדה בקרב פנים אל פנים - אחת מהתקפות הפרשים ההמוניות המוצלחות האחרונות בתולדות הצבא.\n\nהבארות נשארו שלמות, עזה נפלה בתוך ימים, וכוחות אלנבי נכנסו לירושלים עד דצמבר - הכל באותם השבועות שבהם פרסמה בריטניה את הצהרת בלפור, וקשרה את העתיד הצבאי והפוליטי של האזור לדורות הבאים.",
+        "deep": "## בעיית המים\nעד אוקטובר 1917, הכוח המצרי-בריטי (Egyptian Expeditionary Force) כבר בילה חודשים בניסיונות כושלים לפרוץ את עזה, העוגן המערבי של קו הגנה טורקי שנמשך מזרחה על פני הנגב. בבאר שבע, בקצה המזרחי של הקו, היו הבארות היחידות באזור שיכלו להשקות צבא של עשרות אלפי אנשים וסוסים. המפקד הבריטי אדמונד אלנבי תכנן התקפת פתע מצד המדבר, מהכיוון שהעות'מאנים ציפו לו הכי פחות - אבל היה עליה להצליח ביום אחד, לפני שהמגינים יספיקו להשמיד את הבארות.\n\n## הדהירה\nכשהחי\"ר נתקע בתעלות העות'מאניות בשעות אחר הצהריים המאוחרות ואור היום הלך ואפס, פרשי האור האוסטרלים - חיל רגלים ממונע, לא פרשים במובן המסורתי - קיבלו פקודה לדהור כארבעה קילומטרים בשטח פתוח ישר לעבר התעלות והתותחים העות'מאניים. הם דהרו מהר מכדי שכוונות הרובאים של המגינים יעקבו אחריהם, קפצו מעל התעלות, ירדו מהסוסים וכבשו את העמדה בקרב פנים אל פנים. זה זכור כאחת מהתקפות הפרשים ההמוניות המוצלחות האחרונות בתולדות הצבא, שהתרחשה בדיוק כשהלחימה הממוכנת והמקלע הפכו את הפרשים למיושנים יותר ויותר בחזיתות אחרות של המלחמה.\n\n## מה שקרה אחר כך\nהבארות נכבשו ברובן שלמות, עזה נפלה בתוך ימים לאחר שהאגף שלה קרס, וכוחות אלנבי כבשו את ירושלים עד דצמבר 1917 - בפעם הראשונה שהייתה בשליטה נוצרית מתקופת מסעי הצלב. הקמפיין התרחש גם באותו השבוע שבו פורסמה הצהרת בלפור, הצהרת בריטניה בדבר תמיכה בבית לאומי יהודי בפלשתינה (ארץ ישראל), שקשרה את הגורל הצבאי והפוליטי של האזור לעשורים הבאים."
+      },
+      "tags": [
+        "history",
+        "wwi",
+        "israel"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1917: World War I: Allied forces defeated Turkish troops in Beersheba in Southern Palestine at the Battle of Beersheba, with the battle involving one of the last successful cavalry charges.",
+          "url": "https://en.wikipedia.org/wiki/World_War_I"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "section": "business",
+  "date": "2026-10-31",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-10-31T03:46:24+00:00",
+  "stories": [
+    {
+      "id": "ai-capital-cycle-cracks",
+      "kind": "analysis",
+      "en": {
+        "headline": "The AI Boom's Credit Problem: Why Cheap Money Is Suddenly Scarce",
+        "scroll": "A rough week for AI stocks — Intel's record one-day crash, OpenAI's shrunk funding ask and Anthropic's expected junk rating — shows lenders turning cautious on the industry's enormous capital needs.",
+        "coffee": "For years, the AI boom ran on money that was both abundant and cheap: chipmakers, cloud providers and model labs all borrowed and raised equity on favorable terms, betting that demand would keep outrunning supply. This week offered the clearest sign yet that the capital cycle — the pattern by which an industry's hottest, most profitable moment attracts so much investment that it eventually crushes its own returns — is turning.\n\nIntel, a pillar of the AI buildout, posted its worst-ever single-day stock decline after a disappointing forecast blamed on weak PC demand, a drop expected to erase more than $110 billion in market value even as the company keeps expanding chip capacity. Amazon's own earnings added to the gloom, dragging the Nasdaq toward its third correction this year. Meanwhile the money flowing into AI itself is getting pickier: OpenAI cut its own fundraising target by $10 billion, now seeking about $20 billion at a $1.25 trillion valuation, and Blackstone says Anthropic is likely to land a junk rating rather than investment grade after its IPO. A hedge fund known for bold bets had to offload $800 million in debt after margin calls hit its AI-adjacent positions.\n\nNone of this proves the AI trade is broken. It shows lenders and investors, after years of easy terms, starting to ask harder questions about who actually profits.",
+        "deep": "## Background\n\nFor most of the past few years, the artificial intelligence buildout has been financed by money that was unusually easy to get: low borrowing costs, enthusiastic equity investors and a widespread assumption that demand for AI compute would keep outrunning supply for years to come. Chipmakers borrowed to build fabs, cloud providers borrowed to build data centers, and AI labs raised equity at valuations that assumed near-flawless execution.\n\nThat pattern has a name economists use for any boom industry: the capital cycle. The idea is simple — a sector's hottest, most profitable moment is exactly the moment that draws in the most capital, and that capital eventually overbuilds supply, invites competition, or simply demands returns the business can't deliver on the promised timeline. Investors who buy into a capital cycle at its peak tend to get the worst returns, even if the underlying technology turns out to matter as much as advertised.\n\n## The story\n\nThis week produced the clearest cluster of evidence yet that the AI capital cycle is entering a harder phase. Intel, whose chips sit at the center of AI compute buildout, posted its worst-ever single-day stock decline after issuing a forecast for the final quarter of 2026 that fell short of expectations. The company blamed weakening demand for personal computers, even as it keeps expanding its manufacturing capacity — including at a plant in Kiryat Gat that is still dealing with damage from an earlier explosion. The drop is expected to erase more than $110 billion of Intel's market value. Amazon's own disappointing results added to the selling, and the combination pushed the Nasdaq to the edge of its third correction of the year.\n\nThe capital side of the story is just as telling. OpenAI, the company most associated with the AI boom, cut its own fundraising target by $10 billion, and is now seeking around $20 billion at a valuation of $1.25 trillion — a sign that even the sector's most prominent name is tempering its ambitions rather than testing how much the market will bear. Anthropic, preparing for an IPO, is reportedly headed for a \"high\" junk rating rather than investment grade, according to Blackstone — a downgrade from earlier guidance on how credit-rating agencies are likely to view the company's debt. And Arini, a hedge fund known for aggressive bets, had to offload $800 million in debt after margin calls hit several of its positions as they lost value — a direct consequence of using borrowed money (leverage) to amplify returns that, this time, ran the other way.\n\n## Second-order effects\n\nNone of these four events are, on their own, proof that AI spending is unsustainable. But together they describe a shift in who is willing to supply money to the industry, and on what terms. When lenders and investors get choosier — demanding stricter terms, as is already happening according to reporting on the AI buildout's financing — it becomes more expensive for every company downstream to keep building at the same pace. A chipmaker that misses forecasts gets punished harder by markets that are already nervous; an AI lab seeking capital finds investors asking tougher questions about the timeline to profitability; and funds that leaned on leverage to chase AI-adjacent trades become forced sellers exactly when they'd prefer to hold.\n\nThe credit-rating detail matters beyond Anthropic itself. A junk rating, as opposed to investment grade, doesn't just carry a stigma — it mechanically raises the cost of every dollar a company borrows afterward, because many large institutional lenders are restricted from holding debt below investment grade at all. If a company as prominent as Anthropic is heading for that outcome, it signals that rating agencies are applying more skepticism to AI-sector cash flows generally, not just to one firm's balance sheet.\n\n## What to watch next\n\nThe next signals will come from earnings season itself: whether more AI-linked companies beyond Intel and Amazon miss forecasts, and how harshly markets punish them given that, per market commentary this week, equity investors are already meting out unusually severe selloffs for misses. Also worth tracking: whether OpenAI's lower fundraising target closes smoothly or gets negotiated down further, whether Anthropic's actual bond rating (once issued) matches Blackstone's expectation, and whether other leveraged funds beyond Arini are forced into similar debt sales. A capital cycle turning doesn't mean the technology stops mattering — it means the money gets more selective about who gets to keep building on credit."
+      },
+      "he": {
+        "headline": "הבעיה הפיננסית של בום ה-AI: למה כסף זול הפך פתאום לנדיר",
+        "scroll": "שבוע קשה למניות ה-AI – הנפילה החדה ביותר בהיסטוריה של אינטל, קיצוץ יעד הגיוס של OpenAI וציפייה לדירוג זבל לאנתרופיק – מעיד שהמלווים נעשים זהירים יותר לגבי צורכי ההון העצומים של הענף.",
+        "coffee": "שנים רבות רכב בום ה-AI על הון שהיה גם זמין וגם זול: יצרניות השבבים, ספקי העננים ומעבדות המודלים גייסו חוב והון מניות בתנאים נוחים, בהנחה שהביקוש ימשיך להקדים את ההיצע. השבוע התקבל הסימן הברור ביותר לכך שמחזור ההון (capital cycle) – התבנית שבה הרגע החם והרווחי ביותר של ענף שלם מושך כל כך הרבה השקעות שהוא בסוף מוחץ את התשואות של עצמו – מתחיל להתהפך.\n\nאינטל, אחד מעמודי התווך של בניית תשתיות ה-AI, רשמה את הנפילה החדה ביותר שלה אי פעם ביום מסחר אחד, אחרי תחזית מאכזבת שיוחסה לירידה בביקוש למחשבים אישיים – נפילה שצפויה למחוק יותר מ-110 מיליארד דולר משוויה בשוק, וזאת בעוד החברה ממשיכה להרחיב את כושר הייצור שלה. גם הדו\"ח של אמזון הוסיף לאווירה הקודרת, וגרר את נאסד\"ק אל סף התיקון השלישי שלו מתחילת השנה. במקביל, גם הכסף שזורם לתוך ענף ה-AI עצמו נעשה בררני יותר: OpenAI קיצצה את יעד הגיוס שלה ב-10 מיליארד דולר, ועכשיו מבקשת כ-20 מיליארד דולר לפי שווי של 1.25 טריליון דולר, ולפי בלקסטון אנתרופיק צפויה לקבל דירוג זבל (junk rating) ולא דירוג השקעה (investment grade) לאחר ההנפקה שלה. קרן גידור שידועה בהתערבויות נועזות נאלצה למכור חוב בשווי 800 מיליון דולר אחרי שדרישות בטחונות (margin calls) פגעו בפוזיציות הקשורות ל-AI שלה.\n\nכל זה לא מוכיח שהעסקה של ה-AI התפוצצה. הוא מראה שמלווים ומשקיעים, אחרי שנים של תנאים נוחים, מתחילים לשאול שאלות קשות יותר על מי בעצם מרוויח.",
+        "deep": "## רקע\n\nברוב השנים האחרונות, בניית תשתיות הבינה המלאכותית (AI) מומנה בכסף שהיה קל להשגה באופן חריג: עלויות אשראי נמוכות, משקיעי מניות נלהבים, והנחה רחבה שהביקוש לכוח מחשוב ל-AI ימשיך להקדים את ההיצע לשנים קדימה. יצרניות השבבים גייסו חוב כדי לבנות מפעלים, ספקי העננים גייסו חוב כדי לבנות מרכזי נתונים, ומעבדות ה-AI גייסו הון מניות לפי שווי שהניח ביצוע חף משגיאות.\n\nלתבנית הזו יש שם שכלכלנים משתמשים בו לכל ענף בבום: מחזור ההון (capital cycle). הרעיון פשוט – הרגע החם והרווחי ביותר של ענף הוא בדיוק הרגע שמושך את רוב ההון, וההון הזה בסופו של דבר מייצר עודף היצע, מזמין תחרות, או פשוט דורש תשואות שהעסק לא יכול לספק בלוח הזמנים שהובטח. משקיעים שנכנסים למחזור הון בשיאו נוטים לקבל את התשואות הגרועות ביותר, גם אם הטכנולוגיה שבבסיסו מתגלה כחשובה כפי שהובטח.\n\n## הסיפור\n\nהשבוע הצטברה העדות הברורה ביותר עד כה לכך שמחזור ההון של ה-AI נכנס לשלב קשה יותר. אינטל, שהשבבים שלה נמצאים בלב בניית תשתיות המחשוב ל-AI, רשמה את הנפילה החדה ביותר שלה אי פעם ביום מסחר אחד, אחרי שהוציאה תחזית לרבעון האחרון של 2026 שהיתה נמוכה מהציפיות. החברה תלתה את הסיבה בהיחלשות הביקוש למחשבים אישיים, וזאת בעוד היא ממשיכה להרחיב את כושר הייצור שלה – כולל במפעל בקריית גת שעדיין מתמודד עם נזקי פיצוץ קודם. הנפילה צפויה למחוק יותר מ-110 מיליארד דולר משווי השוק של אינטל. הדו\"ח המאכזב של אמזון הוסיף למכירות, והשילוב דחף את נאסד\"ק אל סף התיקון השלישי שלו מתחילת השנה.\n\nהצד של ההון בסיפור לא פחות מספר. OpenAI, החברה המזוהה ביותר עם בום ה-AI, קיצצה את יעד הגיוס שלה ב-10 מיליארד דולר, ועכשיו מבקשת כ-20 מיליארד דולר לפי שווי של 1.25 טריליון דולר – סימן שאפילו השם הבולט ביותר בענף מרכך את השאיפות שלו, במקום לבדוק כמה השוק מוכן לספוג. אנתרופיק, שמתכוננת להנפקה, צפויה לקבל לפי בלקסטון דירוג \"זבל\" גבוה (junk rating) ולא דירוג השקעה (investment grade) – שינוי לרעה לעומת ההערכה הקודמת לגבי האופן שבו סוכנויות דירוג האשראי עשויות להתייחס לחוב של החברה. וקרן הגידור Arini, שידועה בהתערבויות אגרסיביות, נאלצה למכור חוב בשווי 800 מיליון דולר אחרי שדרישות בטחונות (margin calls) פגעו בכמה מהפוזיציות שלה כשאלה ירדו בשווי – תוצאה ישירה של שימוש בכסף מושאל (מינוף, leverage) להגדיל תשואות שהפעם פעלו בכיוון ההפוך.\n\n## השפעות מדרגה שנייה\n\nארבעת האירועים האלה, כל אחד בנפרד, אינם הוכחה שההשקעה ב-AI אינה ברת-קיימא. אבל יחד הם מתארים שינוי במי שמוכן לספק כסף לענף, ובאילו תנאים. כשמלווים ומשקיעים נעשים בררניים יותר – ודורשים תנאים נוקשים יותר, כפי שכבר קורה לפי דיווחים על מימון בניית תשתיות ה-AI – זה הופך את המשך הבנייה באותו קצב ליקר יותר לכל חברה בהמשך השרשרת. יצרנית שבבים שמפספסת תחזית נענשת בחריפות רבה יותר על ידי שווקים שכבר עצבניים; מעבדת AI שמחפשת הון נתקלת במשקיעים ששואלים שאלות קשות יותר על לוח הזמנים לרווחיות; וקרנות שנשענו על מינוף כדי לרדוף אחרי עסקאות הקשורות ל-AI הופכות למוכרות בכפייה, בדיוק ברגע שהן היו מעדיפות להמשיך להחזיק.\n\nלפרט על דירוג האשראי יש חשיבות שחורגת מאנתרופיק עצמה. דירוג זבל, בניגוד לדירוג השקעה, לא רק נושא סטיגמה – הוא מייקר באופן מכני כל דולר שהחברה תלווה מרגע זה, כי רבים מהמלווים המוסדיים הגדולים מוגבלים מלהחזיק חוב מתחת לדירוג השקעה בכלל. אם חברה בולטת כמו אנתרופיק צועדת לכיוון התוצאה הזו, זה מסמן שסוכנויות הדירוג מיישמות ספקנות רבה יותר כלפי תזרימי המזומנים של ענף ה-AI בכלל, לא רק כלפי המאזן של חברה אחת.\n\n## מה לעקוב אחריו הלאה\n\nהאיתותים הבאים יגיעו מעונת הדו\"חות עצמה: האם עוד חברות הקשורות ל-AI מעבר לאינטל ואמזון יפספסו תחזיות, ובאיזו חריפות השווקים יענישו אותן, בהתחשב בכך שלפי הפרשנות בשוק השבוע, משקיעי המניות כבר מחלקים עונשים חריגים בחריפותם על פספוסים. כדאי גם לעקוב אחרי: האם יעד הגיוס המוקטן של OpenAI יסתגר בלי בעיות או ימשיך להיגרר למטה, האם דירוג האג\"ח בפועל של אנתרופיק (כשיתפרסם) יתאים לציפייה של בלקסטון, והאם קרנות ממונפות נוספות מעבר ל-Arini יאלצו למכירות חוב דומות. מחזור הון שמתהפך לא אומר שהטכנולוגיה מפסיקה להיות חשובה – זה אומר שהכסף נעשה בררני יותר לגבי מי מקבל להמשיך לבנות באשראי."
+      },
+      "tags": [
+        "ai",
+        "credit-markets",
+        "intel",
+        "capital-cycle"
+      ],
+      "sources": [
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The New Bottleneck in America’s AI Build-Out: A Shortage of Cheap Money",
+          "url": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen",
+          "url": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling-5670f50d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Cracks in AI Trade Power Sharp Tech Selloff",
+          "url": "https://www.wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Week the Cracks in the AI Trade Grew Deeper",
+          "url": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
+          "url": "https://www.wsj.com/finance/stocks/ai-selloff-deepens-oil-jumps-and-crypto-falls-4703d21b?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+          "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+          "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מניות הטכנולוגיה הפילו את נאסד\"ק בכמעט 3%, אל סף תיקון שלישי מתחילת השנה",
+          "url": "https://www.themarker.com/wallstreet/2026-10-30/ty-article-live/000001a1-7688-d432-afbd-77fc593d0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "אינטל צנחה בכמעט 30% לאחר הדו\"ח המאכזב — וצפויה למחוק יותר מ-110 מיליארד דולר",
+          "url": "https://www.themarker.com/wallstreet/2026-10-30/ty-article/.premium/000001a1-8d35-dbb9-a7ef-ff75cce60000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4058.95,
+      "prev_close": 4144.3999,
+      "change_pct": -2.06,
+      "as_of": "2026-10-30"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7580.0698,
+      "prev_close": 7720.3901,
+      "change_pct": -1.82,
+      "as_of": "2026-10-30"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1084,
+      "prev_close": 3.1226,
+      "change_pct": -0.46,
+      "as_of": "2026-10-30"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 112.33,
+      "prev_close": 114.88,
+      "change_pct": -2.22,
+      "as_of": "2026-10-30"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 77142.7266,
+      "prev_close": 77775.1094,
+      "change_pct": -0.81,
+      "as_of": "2026-10-31"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-31",
+  "questions": [
+    {
+      "id": "q1",
+      "section": "sports",
+      "story_id": "barca-host-alaves",
+      "answer_index": 0,
+      "en": {
+        "question": "Heading into today's match against Alavés, where does Barça sit in La Liga?",
+        "options": [
+          "In first place, two points ahead of Atlético Madrid",
+          "In second place, behind Real Madrid",
+          "Tied for first with Real Madrid",
+          "In fourth place, chasing the top three"
+        ],
+        "explanation": "Barça lead La Liga with 27 points from 10 games, two clear of Atlético Madrid, as they host Alavés."
+      },
+      "he": {
+        "question": "לפני משחק היום מול אלאבס, היכן ברצלונה ניצבת בליגה הספרדית?",
+        "options": [
+          "במקום הראשון, שתי נקודות לפני אתלטיקו מדריד",
+          "במקום השני, מאחורי ריאל מדריד",
+          "במקום הראשון בשוויון עם ריאל מדריד",
+          "במקום הרביעי, במרדף אחר השלישייה המובילה"
+        ],
+        "explanation": "ברצלונה מובילה את הליגה עם 27 נקודות מ-10 משחקים, שתי נקודות לפני אתלטיקו מדריד, לפני שתארח את אלאבס."
+      }
+    },
+    {
+      "id": "q2",
+      "section": "business",
+      "story_id": "ai-capital-cycle-cracks",
+      "answer_index": 0,
+      "en": {
+        "question": "What triggered Intel's historic one-day stock plunge this week?",
+        "options": [
+          "A disappointing earnings forecast for late 2026",
+          "A cyberattack on its factories",
+          "A government antitrust lawsuit",
+          "The resignation of its CEO"
+        ],
+        "explanation": "Intel issued a weaker-than-expected forecast for the final quarter of 2026, citing falling PC demand, and the stock fell nearly 30%, erasing more than $110 billion in value."
+      },
+      "he": {
+        "question": "מה גרם לנפילה ההיסטורית במניית אינטל השבוע?",
+        "options": [
+          "תחזית מאכזבת לרבעון האחרון של 2026",
+          "מתקפת סייבר על המפעלים שלה",
+          "תביעה אנטי-מונופוליסטית מצד הממשלה",
+          "התפטרות מנכ\"ל החברה"
+        ],
+        "explanation": "אינטל פרסמה תחזית חלשה מהצפוי לסוף 2026 בשל ירידה בביקוש למחשבים אישיים, והמניה צנחה בכ-30%, מחיקה של יותר מ-110 מיליארד דולר."
+      }
+    },
+    {
+      "id": "q3",
+      "section": "israeli_politics",
+      "story_id": "coalition-talks-liberman-redline",
+      "answer_index": 0,
+      "en": {
+        "question": "What position did Yisrael Beiteinu chair Avigdor Liberman reaffirm after the election?",
+        "options": [
+          "He will not join a coalition that includes Ra'am and the Joint List",
+          "He will only join a government led by Netanyahu",
+          "He is demanding new elections be held immediately",
+          "He will merge his party with Likud"
+        ],
+        "explanation": "Liberman repeated that he will not be part of a coalition resting on parties he called \"supporters of terror,\" referring to the Arab parties."
+      },
+      "he": {
+        "question": "איזו עמדה חזר וקבע יו\"ר ישראל ביתנו אביגדור ליברמן לאחר הבחירות?",
+        "options": [
+          "הוא לא יצטרף לקואליציה שתכלול את רע\"ם והמשותפת",
+          "הוא יצטרף רק לממשלה בראשות נתניהו",
+          "הוא דורש בחירות חדשות באופן מיידי",
+          "הוא יאחד את מפלגתו עם הליכוד"
+        ],
+        "explanation": "ליברמן חזר על עמדתו שלא יהיה חלק מקואליציה הנשענת על מי שהגדיר \"תומכי טרור\", בהתייחס למפלגות הערביות."
+      }
+    }
+  ]
+}
