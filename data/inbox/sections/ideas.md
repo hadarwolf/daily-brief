@@ -143,87 +143,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The pass-through of retail crime",
+     "published": "2026-10-31T06:44:07+00:00",
+     "summary": "This paper shows retailers increase prices in response to organized retail crime. We match store-level crime data to scanner data from the universe of transactions for cannabis retailers in Washington state. Using quasi-experimental variation from robberies and burglaries, we find a 1.7–1.8 percent price increase at victimized stores and nearby competitors. This rise is not […] The post The pass-t"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "The unintended consequences of academic leniency",
+     "published": "2026-10-31T04:43:23+00:00",
+     "summary": "Education is widely recognized as the primary driver of human capital accumulation. However, policies designed to promote educational attainment often overlook students’ endogenous responses. This paper provides empirical evidence of the causal impact of relaxed academic standards on student effort and achievement. We find that academic leniency results in mechanical GPA increases, but significant"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Friday assorted links",
      "published": "2026-10-30T16:16:29+00:00",
      "summary": "1. Dwarkesh interviews Robert Caro (!). 2. New and pretty brutal results on CTE and football. 3. Interview with Dan Wang. 4. Updated version of the Saez-Zucman audit. Contestable and speculative assumptions are now separated from true defects. 5. Rosalind Arden interviews Greg Clark on social status. 6. GPTs vs. Claudes, in games. 7. The […] The post Friday assorted links appeared first on Margina"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Better Incentives, More Kidneys, More Lives",
      "published": "2026-10-30T11:18:21+00:00",
      "summary": "The organ procurement system has long been a miasma of inefficient monopoly providers. In 2024 I quoted some shocking facts from a great Statecraft interview with Jennifer Erickson and Greg Segal: “Organs are literally lost and damaged in transit every single week. The OPTN contractor is 15 times more likely to lose or damage an organ in […] The post Better Incentives, More Kidneys, More Lives app"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Are there too many misdemeanor convictions?",
      "published": "2026-10-30T07:33:45+00:00",
      "summary": "Maybe so: Misdemeanors account for three-quarters of criminal cases filed annually in the United States, yet causal evidence on the impacts of misdemeanor conviction is scarce. We combine administrative and survey data to provide novel evidence of how misdemeanor conviction affects the socioeconomic outcomes of defendants and their families. Using data on nearly seven million […] The post Are ther"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Chronicle of Higher Education interviews me on AI and education",
      "published": "2026-10-30T04:32:28+00:00",
      "summary": "Scott Carlson did the work (gated, but free with registration), here is one excerpt: Cowen: …Another proposal I’ve made is that schools should let people do one class, only one class, AI-only — no professor, except a professor grades at the end. The professor grades not answers to an exam but the workflow of how […] The post Chronicle of Higher Education interviews me on AI and education appeared "
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
      "published": "2026-10-29T18:02:03+00:00",
      "summary": "I use LLMs to forecast treatment effects of research studies pre-registered on the AEA RCT Registry and the Open Science Framework. I focus on studies whose results were first publicly released in 2026 and elicit forecasts from models whose training or knowledge cut-off dates were before the relevant set of papers was released. First, LLM […] The post Can Artificial Intelligence Forecast Treatment"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Thursday assorted links",
      "published": "2026-10-29T16:19:21+00:00",
      "summary": "1. “A whopping 79 NBA players are listed on today’s 2:30 PM injury report for tonight’s games. That’s roughly 15% of the entire league” This is just week one people! And some commentary. 2. Video making the case that AI has been fine for jobs. 3. John Repetti reviews The Rouse at Jacobin. 4. Is […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree",
      "published": "2026-10-29T11:17:47+00:00",
      "summary": "From the Archives-written by ChatGPT. Both became dramatically more confident in AI’s capabilities while remaining optimistic about its economic potential. Their differences concern how benefits arrive, how seriously to weight emerging dangers, and whether AI might possess consciousness. Cowen emphasizes institutions, bottlenecks, and geopolitical competition. Tabarrok emphasizes inexpensive intel"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "AI dominates human peer reviews",
      "published": "2026-10-29T07:13:03+00:00",
      "summary": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with concerning downsides as well as potential paths to […] The post AI dominates human peer reviews appeare"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "My design Conversation with Roman Mars",
      "published": "2026-10-29T04:41:19+00:00",
      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Roman Mars has built one of podcasting’s great empires out of noticing things everyone else walks past. His show, 99% Invisible, has racked up over 500 million downloads telling stories about the unnoticed design choices that quietly shape how cities and […] The post My design Conversation with Roman Mars appeared first"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
      "published": "2026-10-28T18:56:51+00:00",
      "summary": "AI issues its judgment: 138 papers audited 2,035 problems found 147 serious enough to change a headline number 69% of papers have at least one 97% of major and moderate errors with a clear direction overstate the paper’s claim And on the method: Two independent audits of each paper. One by Claude Opus 5.5, one […] The post Errors in the research of Emmanuel Saez and Gabriel Zucman appeared first o"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "How is AI shaping economic research?",
      "published": "2026-10-28T18:52:56+00:00",
      "summary": "Does generative AI narrow or widen productivity gaps in research? We study the distributional effects of AI on research productivity in economics using evidence from three sources: NBER working-paper and publication records, text-based measures of LLM-assisted writing, and an original survey of 227 academic economists measuring AI use across research tasks. We first show that […] The post How is A"
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "Wednesday assorted links",
      "published": "2026-10-28T15:55:58+00:00",
      "summary": "1. A new taxonomy of work, for the AI era. Thread here. 2. On Morel’s Invention (NYT). 3. Iranian brick architecture. 4. How do non-profits use cash windfalls? 5. The roots of earlier German industrial success. 6. Susquehanna Hat Company skit. The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#14",
      "title": "Inequality in Equal Land",
      "published": "2026-10-28T11:18:28+00:00",
      "summary": "Adam Nash has a good post on wealth inequality: …Every year, we pull the most recent data from the US Census on household wealth, cut by age. …invariably, the students’ initial response is a reaction to the apparent disparity in wealth between households based on age. For many students, it just doesn’t seem fair at […] The post Inequality in Equal Land appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "AI hacking risks",
-     "published": "2026-10-28T04:38:22+00:00",
-     "summary": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction: Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection, including public key […] The post AI hacking risks appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -301,15 +307,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#11",
-     "title": "Are you getting enough sun?",
-     "published": "2026-10-20T10:00:00+00:00",
-     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
-    },
-    {
-     "ref": "psyche#12",
      "title": "How to overcome task paralysis",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
+    },
+    {
+     "ref": "psyche#12",
+     "title": "Are you getting enough sun?",
+     "published": "2026-10-20T10:00:00+00:00",
+     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
     },
     {
      "ref": "psyche#13",
@@ -340,8 +346,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#1",
      "title": "How Do You Take a Picture of a Black Hole?",
      "published": "2026-10-29T15:11:57+00:00",
-     "summary": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_1.txt"
+     "summary": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#2",

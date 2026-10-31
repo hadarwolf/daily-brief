@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "prepared_at": "2026-10-31T03:34:13+00:00",
+ "prepared_at": "2026-10-31T08:12:31+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -61,18 +61,18 @@
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 112.33,
+   "last": 117.64,
    "prev_close": 114.88,
-   "change_pct": -2.22,
+   "change_pct": 2.4,
    "as_of": "2026-10-30"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 77142.7266,
-   "prev_close": 77775.1094,
-   "change_pct": -0.81,
+   "last": 77253.8672,
+   "prev_close": 77198.2109,
+   "change_pct": 0.07,
    "as_of": "2026-10-31"
   }
  },
- "essays_fetched": 5
+ "essays_fetched": 4
 }
