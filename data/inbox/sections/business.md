@@ -18,87 +18,87 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
-     "published": "2026-10-31T02:32:32+00:00",
-     "summary": "The Bank of Japan’s decision to accelerate sales of exchange-traded funds could boost its payments to the government, potentially helping Prime Minister Sanae Takaichi finance her costly policy agenda."
-    },
-    {
-     "ref": "bloomberg_markets#1",
      "title": "Chocolate Price Spook Families for Halloween",
      "published": "2026-10-30T22:21:45+00:00",
      "summary": "Halloween candy is getting more expensive as higher labor, energy and transportation costs continue to pressure food prices. Stew Leonard Jr., CEO of Stew Leonard’s, says bags of popular candy are up about 50 cents from last year, prompting some shoppers to trade down to cheaper options. He joins Bloomberg Businessweek Daily to discuss how affordability is changing consumer behavior, and how both "
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#1",
      "title": "Crypto Hack Reignites Regulatory Debate",
      "published": "2026-10-30T22:08:41+00:00",
      "summary": "A $6 billion crypto hack is putting digital-asset security back in the spotlight. Former CFTC chairman J. Christopher Giancarlo, known as “CryptoDad”, argues the attack exposed vulnerabilities at an individual firm rather than a failure of underlying blockchain technology. He is also calling for the US to take a more aggressive approach to state-sponsored cyberattacks. He joins Bloomberg Businessw"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#2",
      "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
      "published": "2026-10-30T22:05:55+00:00",
      "summary": "Lonnie Ali, Muhammad Ali's wife & Executive Producer of The Greatest, joins Marc Rosen of Authentic Brands to discuss the first authorized scripted series to take a more intimate look at Muhammad Ali beyond his boxing career. The two speak with Romaine Bostick on \"The Close\" on October 29, 2026. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#3",
      "title": "Bloomberg Screentime: Streaming, AI & Creators",
      "published": "2026-10-30T22:05:47+00:00",
      "summary": "Entertainment leaders examine how streaming, AI, and the creator economy are reshaping Hollywood and the future of media. Guests include Ted Sarandos, Donna Langley, Ben Affleck, & Conan O'Brien. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#4",
      "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
      "published": "2026-10-30T22:01:02+00:00",
      "summary": "Brieane Olson, CEO of PacSun, says that the retailer’s core customer is 16 to 24, while it is also tracking differences between Gen Z and Gen Alpha. Drawing on a PacSun Youth Report conducted with GlobalData and surveying 6,000 young people, Olson said mental health ranks as their top priority. She cited PACSUN’s ongoing partnership with Selena Gomez and the Rare Impact Foundation as an example of"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#5",
      "title": "New Balance CEO Joe Preston on NYC Marathon Partnership",
      "published": "2026-10-30T21:59:01+00:00",
      "summary": "Joe Preston, New Balance President and CEO, discussed the company’s long-running partnership with the New York City Marathon, which he described as a key part of the brand. More than 300 New Balance associates are in the city for race week, including 200 retail staff at the Javits Center expo, where more than 100,000 visitors are expected over three days. He speaks with Romaine Bostick on \"The Clo"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#6",
      "title": "Ice Cube on Big3 League: In a Great Position To Scale",
      "published": "2026-10-30T21:55:31+00:00",
      "summary": "Ice Cube, CEO & Co-Founder of the Big3 basketball league, says audiences want more basketball in the summer and argues that the league has helped professionalize three-on-three play. He describes basketball as a globally beloved sport and say the league is well positioned to grow, noting that it is already recognized as the world’s premier professional three-on-three league. He speaks with Romaine"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#7",
      "title": "Burger King US President on Sales Turnaround",
      "published": "2026-10-30T21:51:18+00:00",
      "summary": "Burger King US and Canada President Tom Curtis discussed the chain’s comparable-sales growth, cited in the conversation as 8.4%, against an estimate of 6.2%. Curtis said growth is being driven largely by customers who had stopped visiting and are now returning, drawn by a renewed connection to the brand. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#8",
      "title": "Rich Steinmeier on a Career in Management",
      "published": "2026-10-30T21:21:38+00:00",
      "summary": "Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#9",
      "title": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
      "published": "2026-10-30T21:14:16+00:00",
      "summary": "Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#10",
      "title": "Wall Street Boom to Cut New York State Budget Deficit in Half",
      "published": "2026-10-30T20:55:32+00:00",
      "summary": "New York projected the budget deficit will narrow by $3.5 billion next year as the state expects a boom in trading and borrowing to deliver record profits to Wall Street and stronger bonus payments to boost revenue."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#11",
      "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
      "published": "2026-10-30T20:40:59+00:00",
      "summary": "Hedge funds this week amassed the largest-ever short position on US natural gas on expectations that an unusually warm winter will slash demand for the furnace and power-plant fuel."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#12",
      "title": "Tech Selloff Burns AI Dip-Buyers as Sector Slides for Third Week",
      "published": "2026-10-30T20:30:15+00:00",
      "summary": "The deep selloff in technology stocks delivered a painful reckoning to those who remained all-in on the AI trade as the companies at the center of it tumbled, one after another, and investors rushed back to the defensive stocks they had swept out of vogue."
+    },
+    {
+     "ref": "bloomberg_markets#13",
+     "title": "Intel Plunges 29% on Weak Outlook as Tech Selloff Deepens | Closing Bell",
+     "published": "2026-10-30T20:23:36+00:00",
+     "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kristine Aquino, Jess Menton and Tim Stenovec. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#14",
@@ -553,9 +553,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 77240.75,
+   "last": 77189.1406,
    "prev_close": 77198.2109,
-   "change_pct": 0.06,
+   "change_pct": -0.01,
    "as_of": "2026-10-31"
   }
  },

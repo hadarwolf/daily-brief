@@ -113,7 +113,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   {
    "ref": "wikipedia#11",
    "year": 1917,
-   "text": "World War I: Allied forces defeated Turkish troops in Beersheba in Southern Palestine at the Battle of Beersheba, with the battle involving one of the last successful cavalry charges.",
+   "text": "World War I: Allied forces defeated Turkish troops in Beersheba in Southern Palestine at the Battle of Beersheba, the battle involving one of the last successful cavalry charges.",
    "context": [
     "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
