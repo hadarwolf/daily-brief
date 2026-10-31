@@ -24,134 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2020,
-   "text": "A magnitude-7.0 earthquake occurred in the Aegean Sea between Greece and Turkey, triggering a tsunami and causing 119 deaths.",
+   "year": 2017,
+   "text": "An Uzbek immigrant drove a rented truck into cyclists and runners in Lower Manhattan, New York City, killing eight people.",
    "context": [
-    "An earthquake with a moment magnitude of 7.0 occurred on 30 October 2020 about 14 km (8.7 mi) northeast of the Greek island of Samos. Although Samos was closest to the epicentre, it was the large Turkish city İzmir, 70 km (43 mi) northeast that was heavily affected—more than 700 residential and commercial structures were seriously damaged or destroyed. One hundred and seventeen people died in İzmir Province while an additional 1,034 were injured. In Greece, there were two fatalities and 19 injured. The earthquake is the deadliest in the year 2020, and the third major earthquake to strike Turkey that year. It generated an unusually large tsunami. The event is called the Samos earthquake by the International Seismological Centre."
+    "On October 31, 2017, Sayfullo Habibullaevic Saipov drove a rented pickup truck into cyclists and runners for about one mile of the Hudson River Park's bike path alongside West Street from Houston Street south to Chambers Street in Lower Manhattan, New York City. The vehicle-ramming attack killed eight people, six of whom were foreign tourists, and injured thirteen others."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2010,
-   "text": "American comedians Jon Stewart and Stephen Colbert hosted the Rally to Restore Sanity and/or Fear in Washington, D.C.",
+   "year": 2005,
+   "text": "The discovery of the Plutonian moons Nix and Hydra, based on photographs taken by the Hubble Space Telescope nearly five months earlier, was announced.",
    "context": [
-    "Jon Stewart is an American comedian, writer, producer, director, progressive political commentator, actor, and television host. Stewart is known as the host of the satirical news program The Daily Show on Comedy Central from 1999 to 2015 and part-time since 2024. He hosted The Problem with Jon Stewart on Apple TV+ from 2021 to 2023. Stewart has received numerous accolades, including 25 Primetime Emmy Awards, 2 Grammy Awards, and 5 Peabody Awards. He was honored with the Bronze Medallion in 2019 and the Mark Twain Prize for American Humor in 2022."
+    "There are five known moons of the dwarf planet Pluto. In order of distance from Pluto, they are Charon, Styx, Nix, Kerberos, and Hydra. Charon, the largest, is mutually tidally locked with Pluto, and is massive enough that Pluto and Charon are sometimes considered a binary dwarf planet."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2002,
-   "text": "After his terminal-cancer diagnosis, Warren Zevon made his last public appearance on the Late Show with David Letterman, giving the advice to \"enjoy every sandwich\".",
+   "year": 2003,
+   "text": "After 22 years in power, Mahathir Mohamad retired as Prime Minister of Malaysia.",
    "context": [
-    "Warren William Zevon was an American rock singer and songwriter. His most famous compositions include \"Werewolves of London\", \"Lawyers, Guns and Money\" and \"Roland the Headless Thompson Gunner\". All three songs are featured on his third album, Excitable Boy (1978), the title track of which is also well-known. He also wrote major hits that were recorded by other artists, including \"Poor Poor Pitiful Me\", \"Mohammed's Radio\", \"Carmelita\" and \"Hasten Down the Wind\". Per The New York Times, \"Mr. Zevon had a pulp-fiction imagination\" which yielded \"terse, action-packed, gallows-humored tales that could sketch an entire screenplay in four minutes and often had death as a punchline. But there was also vulnerability and longing in Mr. Zevon's ballads, like 'Mutineer,' 'Accidentally Like a Martyr' and 'Hasten Down the Wind'.\""
+    "Mahathir bin Mohamad is a Malaysian politician, physician and author who served as the fourth and seventh prime minister of Malaysia from 1981 to 2003 and again from 2018 to 2020. He was the country's longest-serving prime minister, serving for a cumulative total of 24 years. His political career has spanned more than 75 years, from joining protests opposing citizenship policies for non-Malays in the Malayan Union in the 1940s to forming the Gerakan Tanah Air coalition in 2022. During his premiership, Mahathir was granted the title \"Father of Modernisation\" for his pivotal role in transforming the country's economy and infrastructure. At 101 years old, he is the second-oldest living former state leader in the world and the first Malaysian prime minister to reach that age."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2001,
-   "text": "Michael Jackson released Invincible, his final studio album and the most expensive album ever produced.",
+   "year": 2000,
+   "text": "Singapore Airlines Flight 006 collided with construction equipment while attempting to take off from Chiang Kai-shek International Airport in Taiwan during heavy rain, killing 83 people aboard.",
    "context": [
-    "Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist. Dubbed the \"King of Pop\", he is widely regarded as one of the most culturally significant figures of the 20th century. His musical achievements broke American racial barriers and made him a dominant figure worldwide. Through his songs, music videos, concerts, and fashion, he transformed visual performance in popular music, popularizing street dance moves such as the moonwalk, the robot, and the anti-gravity lean. Jackson is often deemed the greatest entertainer of all time."
+    "Singapore Airlines Flight 006 was an international scheduled passenger flight from Singapore Changi Airport to Los Angeles International Airport, United States, via Chiang Kai-shek International Airport near Taipei, Taiwan. On 31 October 2000, at 23:18 Taipei local time, the Boeing 747-400 operating the flight crashed into construction equipment during a typhoon. The disaster resulted in 83 fatalities among the 179 people aboard the aircraft, with 98 occupants initially surviving the impact before two passengers later succumbed to their injuries in the hospital. This was the first fatal accident involving a Boeing 747-400 and the first fatal crash in the history of Singapore Airlines."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1993,
-   "text": "The Troubles: Three members of the Ulster Defence Association opened fire in a crowded pub during a Halloween party, killing eight people and wounding nineteen others.",
+   "year": 1999,
+   "text": "All 217 people on board EgyptAir Flight 990 perished when the aircraft suddenly crashed into the Atlantic Ocean off the coast of Nantucket, Massachusetts.",
    "context": [
-    "The Troubles were an ethno-nationalist conflict in Northern Ireland that lasted from the late 1960s to 1998. Also known internationally as the Northern Ireland conflict, it is usually deemed to have ended with the Good Friday Agreement of 1998. Although centred in Northern Ireland, violence at times spilled into the Republic of Ireland, England, and mainland Europe. The conflict arose from political and nationalistic disputes with a strong ethnic and sectarian dimension. Unionists and loyalists, mostly Ulster Protestants, wanted Northern Ireland to remain in the United Kingdom, while Irish nationalists and republicans, mostly Irish Catholics, wanted it to join a united Ireland. Despite the division between Protestants and Catholics, it was not a religious war."
+    "EgyptAir Flight 990 was a scheduled flight from Los Angeles International Airport to Cairo International Airport, with a stop at John F. Kennedy International Airport, New York City. On October 31, 1999, the Boeing 767 operating the route crashed into the Atlantic Ocean about 60 miles (100 km) south of Nantucket Island, Massachusetts, killing all 217 passengers and crew on board, making it the deadliest aviation disaster for EgyptAir. Since the crash occurred in international waters, it was investigated by the Egyptian Ministry of Civil Aviation's Civil Aviation Agency (ECAA) and the American National Transportation Safety Board (NTSB) under International Civil Aviation Organization rules. Since the ECAA lacked the resources of the NTSB, the Egyptian government asked the American government to have the NTSB handle the investigation."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1991,
-   "text": "The Madrid Conference, an attempt by the international community to revive the Israeli–Palestinian peace process through negotiations, convened.",
+   "year": 1999,
+   "text": "Australian sailor Jesse Martin arrived in Melbourne, becoming the youngest person to circumnavigate the globe solo, non-stop, and unassisted.",
    "context": [
-    "The Madrid Conference of 1991 was a peace conference, held from 30 October to 1 November 1991 in Madrid, hosted by Spain and co-sponsored by the Soviet Union and the United States. It was an attempt by the international community to revive the Israeli–Palestinian peace process through negotiations, involving Israel and the Palestinians as well as Arab countries, including Jordan, Lebanon, Syria, and Egypt."
+    "Jesse Martin, is an Australian sailor who in 1999, at age 18, became the youngest person to circumnavigate the globe solo, non-stop and unassisted. His journey in the 10-metre (34 ft) S&S 34 sloop Lionheart-Mistral took approximately 11 months. He chronicled his adventures in the book Lionheart: A Journey of the Human Spirit, and his story was made into a documentary, Lionheart: The Jesse Martin Story."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1983,
-   "text": "As the military dictatorship came to an end, Argentina's first democratic election in a decade resulted in Raúl Alfonsín being elected president.",
+   "year": 1984,
+   "text": "Indian prime minister Indira Gandhi (pictured) was assassinated by two of her own Sikh bodyguards, sparking riots that killed thousands of Sikhs.",
    "context": [
-    "The National Reorganization Process was the military dictatorship that ruled Argentina from the coup d'état of 24 March 1976 until the transfer of power on 10 December 1983 to a government elected at the 1983 general election. In Argentina it is often known simply as the última junta militar, última dictadura militar, última dictadura cívico-militar, or última dictadura cívico-eclesial-militar —because there have been several in the country's history and no others like it since it ended. In journalism, and more rarely in academic literature, it has sometimes been referred to as totalitarian for its state terrorism mechanisms and an ideology centered around \"national integrity\", although the more commonly used terms in academia are \"authoritarian\" and \"bureaucratic-authoritarian\". Some scholars describe the regime as an example of neo-fascism."
+    "Indira Priyadarshini Gandhi was an Indian stateswoman who twice served as the Prime Minister of India from 1966 to 1977 and again from 1980 until her assassination in 1984. She was India's first and only female prime minister, and a central figure in Indian politics as the leader of the Indian National Congress (INC). Gandhi also served as chairperson of the Non-Aligned Movement (NAM) from 1983 to 1984, becoming the first Indian to hold the position. She was the daughter of Jawaharlal Nehru, the first prime minister of India, and the mother of Rajiv Gandhi, who succeeded her as prime minister. Her cumulative tenure of 15 years and 350 days, spanning four terms, makes her the second-longest-serving Indian prime minister after her father and the longest-serving female head of government at the time of her death."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1968,
-   "text": "A squad of 120 North Korean Army commandos landed in boats along a 25-mile long section of the eastern coast of South Korea in a failed attempt to overthrow the dictatorship of Park Chung Hee and reunify Korea.",
+   "year": 1973,
+   "text": "Three Provisional Irish Republican Army members escaped from Mountjoy Prison in Dublin aboard a hijacked helicopter that landed in the prison's exercise yard.",
    "context": [
-    "The Korean People's Army encompasses the combined military forces of North Korea and the armed wing of the Workers' Party of Korea (WPK). The KPA consists of five branches: the Ground Force, the Naval Force, the Air Force, the Strategic Force, and the Special Operations Forces. It is commanded by the WPK Central Military Commission, which is chaired by the WPK general secretary, and the president of the State Affairs; both posts are currently headed by Kim Jong Un."
+    "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. It was the most active republican paramilitary group during the Troubles. It argued that the all-island Irish Republic continued to exist, and it saw itself as that state's army, the sole legitimate successor to the original IRA from the Irish War of Independence. It was designated a terrorist organisation in the United Kingdom and an unlawful organisation in the Republic of Ireland, both of whose authority it rejected."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1966,
-   "text": "Singaporean leftist opposition leader Chia Thye Poh was detained under the Internal Security Act, which allows for preventive detention; he was released 32 years later.",
+   "year": 1963,
+   "text": "A gas explosion at the  Indiana State Fairgrounds Coliseum in Indianapolis killed 81 people and injured about 400 others.",
    "context": [
-    "Chia Thye Poh is a Singaporean former politician who was the de facto Leader of the Opposition in 1966. He was the Legislative Assemblyman and later Member of Parliament (MP) for Jurong Constituency from 1963 to 1966."
+    "On October 31, 1963, a gas explosion occurred at the Indiana State Fairgrounds Coliseum in Indianapolis, United States, killing 81 people and injuring about 400 others. It was one of the worst disasters in the history of the state."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1965,
-   "text": "English model Jean Shrimpton wore a controversially short minidress to Derby Day at Flemington Racecourse in Melbourne, Australia – a pivotal moment of the introduction of the miniskirt to women's fashion.",
+   "year": 1941,
+   "text": "Approximately 400 workers completed the 60-foot (18 m) busts of U.S. presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln at Mount Rushmore in South Dakota.",
    "context": [
-    "Jean Rosemary Shrimpton is an English model and actress. She was an icon of Swinging London and is considered one of the world's first supermodels. She appeared on numerous magazine covers including Vogue, Harper's Bazaar, Vanity Fair, Glamour, Elle, Ladies' Home Journal, Newsweek and Time."
+    "A bust is a sculpted or cast representation of the upper part of the human body, depicting a person's head and neck, and a variable portion of the chest and shoulders. The piece is normally supported by a plinth. The bust is generally a portrait intended to record the appearance of an individual, but may sometimes represent a type. They may be of any medium used for sculpture, such as marble, bronze, terracotta, plaster, wax or wood."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1960,
-   "text": "At the Royal Infirmary of Edinburgh, Michael Woodruff performed the first successful kidney transplantation in the United Kingdom.",
+   "year": 1941,
+   "text": "One hundred crew members of the USS Reuben James perished when their vessel became the first U.S. Navy ship sunk by hostile action during World War II after it was torpedoed by the German submarine U-552.",
    "context": [
-    "The Royal Infirmary of Edinburgh (RIE) is the oldest voluntary hospital in Scotland. It was established in 1729. After moving to a new site in 1879, it claimed to be the largest voluntary hospital in the United Kingdom, and later, in the British Empire. In 2003, it moved to a 900-bed site at Little France. It is the site of clinical medicine teaching as well as a teaching hospital for the University of Edinburgh Medical School. In 1960 the first successful kidney transplant in the UK was performed at the hospital. In 1964 the world's first coronary care unit was established at the hospital. It is the only site for liver, pancreas, and pancreatic islet cell transplantation in Scotland, and one of the country's two sites for kidney transplantation. In 2012, the Emergency Department had 113,000 patient attendances, the highest number in Scotland. It is managed by NHS Lothian."
+    "USS Reuben James (DD-245) was a four-funnel Clemson-class destroyer that was constructed after World War I. She was the first United States Navy ship to be named after Boatswain's Mate Reuben James, who had distinguished himself fighting in the First Barbary War, and was the first US navy ship to be sunk by hostile action in the European Theater of World War II. Four US flagged merchant ships were also sunk by hostile action before the attack on Pearl Harbor."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1948,
-   "text": "A luzzu (Maltese fishing boat) overloaded with passengers capsized and sank in the Gozo Channel off Qala, killing 23 of the 27 people on board (monument pictured).",
+   "year": 1917,
+   "text": "World War I: Allied forces defeated Turkish troops in Beersheba in Southern Palestine at the Battle of Beersheba, with the battle involving one of the last successful cavalry charges.",
    "context": [
-    "A luzzu is a traditional fishing boat from the Maltese islands. This type of boat developed in the early 20th century, although it is very similar to much older traditional Maltese boats such as the ferilla. They are usually painted in bright colours, while the bow has a pair of eyes."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1938,
-   "text": "CBS Radio broadcast \"The War of the Worlds\", a radio drama that newspapers accused of tricking Americans into believing there was an actual Martian invasion.",
+   "year": 1913,
+   "text": "Public-transportation workers in Indianapolis went on strike (pictured), shutting down mass transit in the city.",
    "context": [
-    "CBS Radio was a radio broadcasting company and radio network operator owned by CBS Corporation and founded in 1928, with consolidated radio station groups owned by CBS and Westinghouse Broadcasting/Group W since the 1920s, and Infinity Broadcasting since the 1970s. The broadcasting company was sold to Entercom on November 17, 2017."
+    "Indianapolis, colloquially known as Indy, is the capital and most populous city of the U.S. state of Indiana and the county seat of Marion County. Indianapolis is situated in the state's central till plain region along the west fork of the White River. The city's official slogan, \"Crossroads of America\", reflects its historic importance as a transportation hub and its relative proximity to other major North American markets."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1888,
-   "text": "Lobengula, King of Matabeleland, granted the Rudd Concession (pictured) to agents of Cecil Rhodes, leading to the creation of the British South Africa Company.",
+   "year": 1517,
+   "text": "Martin Luther posted his Ninety-five Theses onto the door of All Saints' Church in Wittenberg, marking the beginning of the Protestant Reformation.",
    "context": [
-    "Lobengula Khumalo was the second and last official king of Mthwakazi. Both names in the Ndebele language mean \"the men of the long shields\", a reference to the Ndebele warriors' use of the Nguni shield."
+    "Martin Luther was a German priest, theologian, author, hymnwriter, professor, and former Augustinian friar. Luther was the seminal figure of the Protestant Reformation, and his theological beliefs form the basis of Lutheranism. He is considered one of the most influential figures in Western and Christian history."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1863,
-   "text": "Seventeen-year-old Vilhelm, Prince of Denmark, arrived in Athens to become King George I of Greece (pictured).",
+   "year": 475,
+   "text": "Romulus Augustulus took the throne as the last emperor of the Western Roman Empire.",
    "context": [
-    "Athens is the capital and largest city of Greece. A significant coastal urban area in the Mediterranean, Athens is also the capital of the Attica region and is the southernmost capital on the European mainland. With its urban area's population numbering over 3.6 million, it is the eighth-largest urban area in the European Union (EU). The Municipality of Athens, which constitutes a small administrative unit of the entire urban area, had a population of 643,452 in 2021, within its official limits, and a land area of 38.96 square kilometres. Athens joined the UNESCO Global Network of Learning Cities in 2016."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
-   "year": 1806,
-   "text": "War of the Fourth Coalition: Believing that they were outnumbered, the German garrison at Stettin surrendered to a much smaller French force (pictured) without a fight.",
-   "context": [
-    "The War of the Fourth Coalition was a war spanning 1806–1807 that saw a multinational coalition fight against Napoleon's French Empire, subsequently being defeated. The main coalition partners were Prussia and Russia with Saxony, Sweden, and Great Britain also contributing. Excluding Prussia, some members of the coalition had previously been fighting France as part of the Third Coalition, and there was no intervening period of general peace. On 9 October 1806, Prussia declared war on France and joined a renewed coalition, fearing the rise in French power after the defeat of Austria and establishment of the French-sponsored Confederation of the Rhine in addition to having learned of French plans to cede Prussian-desired Hanover to Britain in exchange for peace. Prussia and Russia mobilized for a fresh campaign with France, massing troops in Saxony."
+    "Romulus Augustus, nicknamed Augustulus, was Roman emperor of the West from 31 October 475 until 4 September 476. Romulus was placed on the imperial throne while still a minor by his father Orestes, the magister militum, for whom he served as little more than a figurehead. After a rule of ten months, the barbarian general Odoacer defeated and killed Orestes and deposed Romulus. As Odoacer did not proclaim any successor, Romulus is typically regarded as the last Western Roman emperor, his deposition marking the end of the Western Roman Empire as a political entity. The deposition of Romulus Augustulus is also sometimes used by historians to mark the transition from antiquity to the medieval period."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Dry Powder (אבק שריפה)",
+  "Boil the Ocean (להרתיח את האוקיינוס)",
+  "Kill the Goose That Lays the Golden Eggs (לשחוט את האווזה שמטילה ביצי זהב)",
   "Jawboning (שידול מילולי)",
   "Stalking-horse bid (הצעת פתיחה מוקדמת)",
   "Throwing spaghetti at the wall (לזרוק ספגטי על הקיר)",
@@ -238,10 +233,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Kick the tires (לבדוק ביסודיות לפני סגירת עסקה)",
   "Yield spread (מרווח תשואות)",
   "Flight to quality (בריחה לנכסי מקלט)",
-  "Priced in (כבר מגולם במחיר)",
-  "Basis point (נקודת בסיס)",
-  "Table stakes (דרישות סף)",
-  "Kick the can down the road (לדחות את ההכרעה)"
+  "Priced in (כבר מגולם במחיר)"
  ]
 }
 </input>
