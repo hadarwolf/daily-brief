@@ -19,152 +19,152 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "War and unrest - AP News",
-     "published": "2026-10-31T07:26:54+00:00",
+     "published": "2026-10-31T08:27:21+00:00",
      "summary": "War and unrest AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "South America - AP News",
-     "published": "2026-10-31T07:22:42+00:00",
-     "summary": "South America AP News"
-    },
-    {
-     "ref": "ap_world#2",
-     "title": "Russia - AP News",
-     "published": "2026-10-31T07:19:06+00:00",
-     "summary": "Russia AP News"
-    },
-    {
-     "ref": "ap_world#3",
      "title": "Crime - AP News",
-     "published": "2026-10-31T07:19:03+00:00",
+     "published": "2026-10-31T08:20:07+00:00",
      "summary": "Crime AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Golf - AP News",
-     "published": "2026-10-31T07:14:46+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#5",
+     "ref": "ap_world#2",
      "title": "Accidents - AP News",
-     "published": "2026-10-31T07:11:36+00:00",
+     "published": "2026-10-31T08:12:16+00:00",
      "summary": "Accidents AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#3",
+     "title": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension - AP News",
+     "published": "2026-10-31T06:11:00+00:00",
+     "summary": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension AP News"
+    },
+    {
+     "ref": "ap_world#4",
      "title": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region - AP News",
      "published": "2026-10-31T06:00:00+00:00",
      "summary": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#5",
      "title": "Carney eyes June deal for Canada to become EU associate member as Trump reshapes alliances - AP News",
      "published": "2026-10-31T05:35:00+00:00",
      "summary": "Carney eyes June deal for Canada to become EU associate member as Trump reshapes alliances AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#6",
      "title": "In 28 years of walking, Karl Bushby has overcome jungle, desert and red tape. Now he's nearly home - AP News",
      "published": "2026-10-31T05:23:00+00:00",
      "summary": "In 28 years of walking, Karl Bushby has overcome jungle, desert and red tape. Now he's nearly home AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#7",
      "title": "Karl Bushby’s 28-year walk across the world is ending. A look at the trek, by the numbers - AP News",
      "published": "2026-10-31T05:07:00+00:00",
      "summary": "Karl Bushby’s 28-year walk across the world is ending. A look at the trek, by the numbers AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#8",
      "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate - AP News",
      "published": "2026-10-31T04:29:00+00:00",
      "summary": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#9",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-10-31T04:23:39+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#10",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-10-31T04:23:36+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#11",
      "title": "FBI visits Dan J. Sullivan donor in candidate’s home town as Alaska Senate inquiry widens - AP News",
      "published": "2026-10-31T04:18:00+00:00",
      "summary": "FBI visits Dan J. Sullivan donor in candidate’s home town as Alaska Senate inquiry widens AP News"
     },
     {
-     "ref": "ap_world#13",
-     "title": "China’s factory activity slips as new export orders weaken - AP News",
-     "published": "2026-10-31T04:13:00+00:00",
-     "summary": "China’s factory activity slips as new export orders weaken AP News"
-    },
-    {
-     "ref": "ap_world#14",
+     "ref": "ap_world#12",
      "title": "Meet the ‘socialist’ progressive Democrats likely on their way to Congress - AP News",
      "published": "2026-10-31T04:13:00+00:00",
      "summary": "Meet the ‘socialist’ progressive Democrats likely on their way to Congress AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#13",
      "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues - AP News",
      "published": "2026-10-31T04:08:00+00:00",
      "summary": "G20 foreign ministers to end Atlanta meeting without consensus on key issues AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-10-31T04:01:46+00:00",
-     "summary": "College football | Latest News & Updates AP News"
+     "ref": "ap_world#14",
+     "title": "Houdini’s centennial spotlight: A newly published essay and a fresh fight over when and how he died - AP News",
+     "published": "2026-10-31T04:02:00+00:00",
+     "summary": "Houdini’s centennial spotlight: A newly published essay and a fresh fight over when and how he died AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#15",
      "title": "Yemen - AP News",
      "published": "2026-10-31T03:24:26+00:00",
      "summary": "Yemen AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#16",
      "title": "Press Releases - AP News",
      "published": "2026-10-31T03:21:52+00:00",
      "summary": "Press Releases AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#17",
      "title": "Trump and Clinton rally as early voting surges, Alaska probe widens, and Michigan Democrats feud - AP News",
      "published": "2026-10-31T02:30:00+00:00",
      "summary": "Trump and Clinton rally as early voting surges, Alaska probe widens, and Michigan Democrats feud AP News"
     },
     {
-     "ref": "ap_world#20",
-     "title": "Brazil - AP News",
-     "published": "2026-10-31T02:09:17+00:00",
-     "summary": "Brazil AP News"
-    },
-    {
-     "ref": "ap_world#21",
+     "ref": "ap_world#18",
      "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots - AP News",
      "published": "2026-10-31T02:09:00+00:00",
      "summary": "Appeals court rejects Justice Department request for California to set aside disputed ballots AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#19",
      "title": "Graphika finds China-linked Spamouflage accounts posing as US voters on X - AP News",
      "published": "2026-10-31T01:47:59+00:00",
      "summary": "Graphika finds China-linked Spamouflage accounts posing as US voters on X AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#20",
      "title": "Nikita Kucherov tells Lightning he won’t re-sign and asks for a trade, AP source says - AP News",
      "published": "2026-10-31T01:34:00+00:00",
      "summary": "Nikita Kucherov tells Lightning he won’t re-sign and asks for a trade, AP source says AP News"
     },
     {
+     "ref": "ap_world#21",
+     "title": "Judge puts off decision in Comey case as prosecutors pursue new indictment against ex-FBI head - AP News",
+     "published": "2026-10-31T01:18:00+00:00",
+     "summary": "Judge puts off decision in Comey case as prosecutors pursue new indictment against ex-FBI head AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft - AP News",
+     "published": "2026-10-31T01:04:00+00:00",
+     "summary": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council - AP News",
+     "published": "2026-10-31T01:04:00+00:00",
+     "summary": "Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council AP News"
+    },
+    {
      "ref": "ap_world#24",
-     "title": "US beats Canada 4-0 in 2nd of 2 exhibition games ahead of the women’s worlds - AP News",
-     "published": "2026-10-31T01:32:00+00:00",
-     "summary": "US beats Canada 4-0 in 2nd of 2 exhibition games ahead of the women’s worlds AP News"
+     "title": "An introspective Kirk Franklin is no longer apologizing with ‘I Am What I Am’ album - AP News",
+     "published": "2026-10-30T22:52:00+00:00",
+     "summary": "An introspective Kirk Franklin is no longer apologizing with ‘I Am What I Am’ album AP News"
     }
    ]
   },
@@ -414,81 +414,81 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "After Louvre heist and string of thefts, Europe's smaller museums are on guard - Reuters",
+     "published": "2026-10-31T06:05:00+00:00",
+     "summary": "After Louvre heist and string of thefts, Europe's smaller museums are on guard Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "India extends duty-free cotton imports by two months to ease domestic prices - Reuters",
      "published": "2026-10-31T04:02:00+00:00",
      "summary": "India extends duty-free cotton imports by two months to ease domestic prices Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "China willing to import more German goods, Premier Li says - Reuters",
      "published": "2026-10-31T02:21:00+00:00",
      "summary": "China willing to import more German goods, Premier Li says Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "China's factory activity shrinks in October, third contraction in four months - Reuters",
      "published": "2026-10-31T01:48:00+00:00",
      "summary": "China's factory activity shrinks in October, third contraction in four months Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Poland's Sikorski calls for rapid ceasefire in Black Sea to allow food shipments - Reuters",
      "published": "2026-10-31T00:08:00+00:00",
      "summary": "Poland's Sikorski calls for rapid ceasefire in Black Sea to allow food shipments Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies - Reuters",
      "published": "2026-10-31T00:03:00+00:00",
      "summary": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "France braces for fresh unrest, government vows tough response - Reuters",
      "published": "2026-10-31T00:03:00+00:00",
      "summary": "France braces for fresh unrest, government vows tough response Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged - Reuters",
      "published": "2026-10-30T23:19:43+00:00",
      "summary": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Russia's Lavrov says inviting Poland to attend G20 meeting breaks diplomatic rules - Reuters",
      "published": "2026-10-30T22:55:43+00:00",
      "summary": "Russia's Lavrov says inviting Poland to attend G20 meeting breaks diplomatic rules Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Japan demands release of national in meeting with Russia's Lavrov - Reuters",
      "published": "2026-10-30T22:26:28+00:00",
      "summary": "Japan demands release of national in meeting with Russia's Lavrov Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Fitch revises France's outlook to 'negative' on worsening debt dynamics - Reuters",
      "published": "2026-10-30T22:19:00+00:00",
      "summary": "Fitch revises France's outlook to 'negative' on worsening debt dynamics Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
      "published": "2026-10-30T21:44:09+00:00",
      "summary": "North Korea says sanctions don't work to deny its status as nuclear weapons state Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Justice Department files request for preliminary injunction in Alaska election case - Reuters",
      "published": "2026-10-30T21:17:58+00:00",
      "summary": "Justice Department files request for preliminary injunction in Alaska election case Reuters"
-    },
-    {
-     "ref": "reuters_world#12",
-     "title": "Mass protests sweep Italy during nationwide strike - Reuters",
-     "published": "2026-10-30T20:51:43+00:00",
-     "summary": "Mass protests sweep Italy during nationwide strike Reuters"
     },
     {
      "ref": "reuters_world#13",
@@ -534,33 +534,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#20",
+     "title": "US to return to standard time Sunday as lawmakers rebuff Trump push - Reuters",
+     "published": "2026-10-30T20:05:43+00:00",
+     "summary": "US to return to standard time Sunday as lawmakers rebuff Trump push Reuters"
+    },
+    {
+     "ref": "reuters_world#21",
      "title": "Democrats have long known heartbreak in Texas. Could this finally be their year? - Reuters",
      "published": "2026-10-30T20:01:54+00:00",
      "summary": "Democrats have long known heartbreak in Texas. Could this finally be their year? Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Tennessee execution survivor says she is isolated, in constant pain - Reuters",
      "published": "2026-10-30T20:01:06+00:00",
      "summary": "Tennessee execution survivor says she is isolated, in constant pain Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Competing US, Russia resolutions on Western Sahara defeated in UN Security Council - Reuters",
      "published": "2026-10-30T19:59:00+00:00",
      "summary": "Competing US, Russia resolutions on Western Sahara defeated in UN Security Council Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Brazil summons Argentine diplomat over role in Bolsonaro's flight to US, sources say - Reuters",
      "published": "2026-10-30T19:45:24+00:00",
      "summary": "Brazil summons Argentine diplomat over role in Bolsonaro's flight to US, sources say Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Saudi-led coalition says it downs drone over oil-rich Eastern Region - Reuters",
-     "published": "2026-10-30T19:37:00+00:00",
-     "summary": "Saudi-led coalition says it downs drone over oil-rich Eastern Region Reuters"
     }
    ]
   }
