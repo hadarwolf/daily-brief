@@ -24,126 +24,121 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2017,
-   "text": "An Uzbek immigrant drove a rented truck into cyclists and runners in Lower Manhattan, New York City, killing eight people.",
+   "year": 1998,
+   "text": "Karl Bushby set off from Punta Arenas, Chile, beginning his attempt to walk around the world towards England, a journey that remains ongoing.",
    "context": [
-    "On October 31, 2017, Sayfullo Habibullaevic Saipov drove a rented pickup truck into cyclists and runners for about one mile of the Hudson River Park's bike path alongside West Street from Houston Street south to Chambers Street in Lower Manhattan, New York City. The vehicle-ramming attack killed eight people, six of whom were foreign tourists, and injured thirteen others."
+    "Karl Bushby is an English walking adventurer, author and former paratrooper."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2005,
-   "text": "The discovery of the Plutonian moons Nix and Hydra, based on photographs taken by the Hubble Space Telescope nearly five months earlier, was announced.",
+   "year": 1981,
+   "text": "The Associated State of Antigua gained independence from the United Kingdom as Antigua and Barbuda.",
    "context": [
-    "There are five known moons of the dwarf planet Pluto. In order of distance from Pluto, they are Charon, Styx, Nix, Kerberos, and Hydra. Charon, the largest, is mutually tidally locked with Pluto, and is massive enough that Pluto and Charon are sometimes considered a binary dwarf planet."
+    "Antigua, officially the Associated State of Antigua, was an associated state of the United Kingdom, which was established on 27 February 1967. The associated state was abolished on November 1, 1981, by the Antigua Order."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2003,
-   "text": "After 22 years in power, Mahathir Mohamad retired as Prime Minister of Malaysia.",
+   "year": 1972,
+   "text": "Elvis on Tour, a concert film that documented Elvis Presley's tour throughout the United States, opened.",
    "context": [
-    "Mahathir bin Mohamad is a Malaysian politician, physician and author who served as the fourth and seventh prime minister of Malaysia from 1981 to 2003 and again from 2018 to 2020. He was the country's longest-serving prime minister, serving for a cumulative total of 24 years. His political career has spanned more than 75 years, from joining protests opposing citizenship policies for non-Malays in the Malayan Union in the 1940s to forming the Gerakan Tanah Air coalition in 2022. During his premiership, Mahathir was granted the title \"Father of Modernisation\" for his pivotal role in transforming the country's economy and infrastructure. At 101 years old, he is the second-oldest living former state leader in the world and the first Malaysian prime minister to reach that age."
+    "Elvis on Tour is a 1972 American concert film starring Elvis Presley during his fifteen-city spring tour earlier that year. It was written, produced, directed by Pierre Adidge and Robert Abel and released by Metro-Goldwyn-Mayer (MGM)."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2000,
-   "text": "Singapore Airlines Flight 006 collided with construction equipment while attempting to take off from Chiang Kai-shek International Airport in Taiwan during heavy rain, killing 83 people aboard.",
+   "year": 1963,
+   "text": "Lê Quang Tung, loyalist head of the South Vietnam Special Forces, was executed in a U.S.-backed coup against president Ngô Đình Diệm following a period of religious unrest.",
    "context": [
-    "Singapore Airlines Flight 006 was an international scheduled passenger flight from Singapore Changi Airport to Los Angeles International Airport, United States, via Chiang Kai-shek International Airport near Taipei, Taiwan. On 31 October 2000, at 23:18 Taipei local time, the Boeing 747-400 operating the flight crashed into construction equipment during a typhoon. The disaster resulted in 83 fatalities among the 179 people aboard the aircraft, with 98 occupants initially surviving the impact before two passengers later succumbed to their injuries in the hospital. This was the first fatal accident involving a Boeing 747-400 and the first fatal crash in the history of Singapore Airlines."
+    "Colonel Lê Quang Tung was the commander of the Army of the Republic of Vietnam Special Forces under the command of Ngô Đình Nhu. Nhu was the brother of South Vietnam's president, Ngô Đình Diệm. A former servant of the Ngô family, Tung's military background was in security and counterespionage."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1999,
-   "text": "All 217 people on board EgyptAir Flight 990 perished when the aircraft suddenly crashed into the Atlantic Ocean off the coast of Nantucket, Massachusetts.",
+   "year": 1959,
+   "text": "Dominique Mbonyumutwa, one of the few Hutu sub-chiefs in colonial Rwanda, was attacked by Tutsi activists, precipitating the Rwandan Revolution.",
    "context": [
-    "EgyptAir Flight 990 was a scheduled flight from Los Angeles International Airport to Cairo International Airport, with a stop at John F. Kennedy International Airport, New York City. On October 31, 1999, the Boeing 767 operating the route crashed into the Atlantic Ocean about 60 miles (100 km) south of Nantucket Island, Massachusetts, killing all 217 passengers and crew on board, making it the deadliest aviation disaster for EgyptAir. Since the crash occurred in international waters, it was investigated by the Egyptian Ministry of Civil Aviation's Civil Aviation Agency (ECAA) and the American National Transportation Safety Board (NTSB) under International Civil Aviation Organization rules. Since the ECAA lacked the resources of the NTSB, the Egyptian government asked the American government to have the NTSB handle the investigation."
+    "Dominique Mbonyumutwa was a Rwandan politician who served as the interim first President of Rwanda for a period of nine months in 1961, during a transitional phase between the overthrow of the Rwandan monarchy in the Rwandan Revolution and the country's independence. Following an election in October of that year, he was succeeded by Grégoire Kayibanda who became the first elected president of the country following independence."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1999,
-   "text": "Australian sailor Jesse Martin arrived in Melbourne, becoming the youngest person to circumnavigate the globe solo, non-stop, and unassisted.",
+   "year": 1959,
+   "text": "After being struck in the face with a hockey puck, Jacques Plante played the rest of the game wearing a face mask (pictured), now mandatory equipment for goaltenders in ice hockey.",
    "context": [
-    "Jesse Martin, is an Australian sailor who in 1999, at age 18, became the youngest person to circumnavigate the globe solo, non-stop and unassisted. His journey in the 10-metre (34 ft) S&S 34 sloop Lionheart-Mistral took approximately 11 months. He chronicled his adventures in the book Lionheart: A Journey of the Human Spirit, and his story was made into a documentary, Lionheart: The Jesse Martin Story."
+    "A hockey puck is either an open or closed disk used in a variety of sports and games. There are designs made for use on an ice surface, such as in ice hockey, and others for the different variants of floor hockey which includes the wheeled skate variant of inline hockey. They are all designed to serve the same function a ball does in ball games."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1984,
-   "text": "Indian prime minister Indira Gandhi (pictured) was assassinated by two of her own Sikh bodyguards, sparking riots that killed thousands of Sikhs.",
+   "year": 1956,
+   "text": "The Indian states Kerala, Andhra Pradesh, and Karnataka were formally created under the States Reorganisation Act.",
    "context": [
-    "Indira Priyadarshini Gandhi was an Indian stateswoman who twice served as the Prime Minister of India from 1966 to 1977 and again from 1980 until her assassination in 1984. She was India's first and only female prime minister, and a central figure in Indian politics as the leader of the Indian National Congress (INC). Gandhi also served as chairperson of the Non-Aligned Movement (NAM) from 1983 to 1984, becoming the first Indian to hold the position. She was the daughter of Jawaharlal Nehru, the first prime minister of India, and the mother of Rajiv Gandhi, who succeeded her as prime minister. Her cumulative tenure of 15 years and 350 days, spanning four terms, makes her the second-longest-serving Indian prime minister after her father and the longest-serving female head of government at the time of her death."
+    "Kerala, officially Keralam, is a state on the Malabar Coast of southern India. It was formed on 1 November 1956 under the States Reorganisation Act, which unified the country's Malayalam-speaking regions into a single state. Covering 38,863 km2 (15,005 sq mi), Kerala is primarily a strip of coastal plains sandwiched by the Western Ghats and the Laccadive Sea, bound by Karnataka to the northeast, Tamil Nadu to the east, and the Lakshadweep islands in the western vicinity. With 33 million inhabitants according to the 2011 census, Kerala is the 13th-most populous state in India. Thiruvananthapuram is the capital city while the Kochi metropolitan area is the state's most populated region. Malayalam is the most widely spoken language and, alongside English, serves as an official language of the state."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1973,
-   "text": "Three Provisional Irish Republican Army members escaped from Mountjoy Prison in Dublin aboard a hijacked helicopter that landed in the prison's exercise yard.",
+   "year": 1944,
+   "text": "World War II: An American F-13 Superfortress made the first flight by an Allied aircraft over Tokyo since the Doolittle Raid in April 1942.",
    "context": [
-    "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. It was the most active republican paramilitary group during the Troubles. It argued that the all-island Irish Republic continued to exist, and it saw itself as that state's army, the sole legitimate successor to the original IRA from the Irish War of Independence. It was designated a terrorist organisation in the United Kingdom and an unlawful organisation in the Republic of Ireland, both of whose authority it rejected."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1963,
-   "text": "A gas explosion at the  Indiana State Fairgrounds Coliseum in Indianapolis killed 81 people and injured about 400 others.",
+   "year": 1941,
+   "text": "American photographer Ansel Adams (pictured) shot Moonrise, Hernandez, New Mexico, one of his most famous photographs.",
    "context": [
-    "On October 31, 1963, a gas explosion occurred at the Indiana State Fairgrounds Coliseum in Indianapolis, United States, killing 81 people and injuring about 400 others. It was one of the worst disasters in the history of the state."
+    "Ansel Easton Adams was an American landscape photographer and environmentalist known for his black-and-white images of the American West. He helped found Group f/64, an association of photographers advocating \"pure\" photography which favored sharp focus and the use of the full tonal range of a photograph. He and Fred Archer developed a system of image-making called the Zone System, a method of achieving a desired final print through a technical understanding of how the tonal range of an image is the result of choices made in exposure, negative development, and printing."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1941,
-   "text": "Approximately 400 workers completed the 60-foot (18 m) busts of U.S. presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln at Mount Rushmore in South Dakota.",
+   "year": 1921,
+   "text": "Frances Kyle was called to the Bar of Ireland, becoming the first female barrister in Ireland or Great Britain.",
    "context": [
-    "A bust is a sculpted or cast representation of the upper part of the human body, depicting a person's head and neck, and a variable portion of the chest and shoulders. The piece is normally supported by a plinth. The bust is generally a portrait intended to record the appearance of an individual, but may sometimes represent a type. They may be of any medium used for sculpture, such as marble, bronze, terracotta, plaster, wax or wood."
+    "Frances Christian Kyle, LLB was a Northern Irish barrister and the first woman, together with Averil Deverell, to be admitted to the bar in either Ireland or Great Britain, being called to the Bar of Ireland on 1 November 1921. It not only made headlines in Dublin but also New York City, London, and India. It was almost a year before any woman was called to the English bar."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1941,
-   "text": "One hundred crew members of the USS Reuben James perished when their vessel became the first U.S. Navy ship sunk by hostile action during World War II after it was torpedoed by the German submarine U-552.",
-   "context": [
-    "USS Reuben James (DD-245) was a four-funnel Clemson-class destroyer that was constructed after World War I. She was the first United States Navy ship to be named after Boatswain's Mate Reuben James, who had distinguished himself fighting in the First Barbary War, and was the first US navy ship to be sunk by hostile action in the European Theater of World War II. Four US flagged merchant ships were also sunk by hostile action before the attack on Pearl Harbor."
-   ]
-  },
-  {
-   "ref": "wikipedia#11",
-   "year": 1917,
-   "text": "World War I: Allied forces defeated Turkish troops in Beersheba in Southern Palestine at the Battle of Beersheba, the battle involving one of the last successful cavalry charges.",
+   "year": 1914,
+   "text": "World War I: The first contingent of the First Australian Imperial Force departed Albany, Western Australia.",
    "context": [
     "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
-   "ref": "wikipedia#12",
-   "year": 1913,
-   "text": "Public-transportation workers in Indianapolis went on strike (pictured), shutting down mass transit in the city.",
+   "ref": "wikipedia#11",
+   "year": 1824,
+   "text": "The disposable ship Columbus (pictured) arrived in the The Downs off England, becoming, at that time, the largest vessel to have crossed the Atlantic Ocean.",
    "context": [
-    "Indianapolis, colloquially known as Indy, is the capital and most populous city of the U.S. state of Indiana and the county seat of Marion County. Indianapolis is situated in the state's central till plain region along the west fork of the White River. The city's official slogan, \"Crossroads of America\", reflects its historic importance as a transportation hub and its relative proximity to other major North American markets."
+    "A disposable ship, also called raft ship, timber ship, or timber drogher is a ship or sea vessel that is intended for use on a single voyage. At the final destination, the vessel is broken up for sale or reuse of materials. Until the end of the 19th century, such ships were common on major rivers such as the Danube and the Rhine in Central Europe and the Mississippi in North America. There were also saltwater vessels that were primarily built for one-time sailing to break up. Some of the largest wooden ships in history were of this type."
+   ]
+  },
+  {
+   "ref": "wikipedia#12",
+   "year": 1214,
+   "text": "Byzantine–Seljuk wars: Seljuq Turks captured the important port city of Sinope.",
+   "context": [
+    "The Byzantine–Seljuk wars were a series of conflicts in the Middle Ages between the Byzantine Empire and the Seljuk Empire. They shifted the balance of power in Asia Minor, Armenia and Syria, sparking multiple wars for control over these regions, including the Crusades. These conflicts lasted until the collapse of the Sultanate of Rum in 1308."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1517,
-   "text": "Martin Luther posted his Ninety-five Theses onto the door of All Saints' Church in Wittenberg, marking the beginning of the Protestant Reformation.",
+   "year": 1141,
+   "text": "After Empress Matilda released her rival King Stephen, he in turn released Robert of Gloucester, her strongest supporter, thus prolonging the Anglo-Norman civil war known as The Anarchy.",
    "context": [
-    "Martin Luther was a German priest, theologian, author, hymnwriter, professor, and former Augustinian friar. Luther was the seminal figure of the Protestant Reformation, and his theological beliefs form the basis of Lutheranism. He is considered one of the most influential figures in Western and Christian history."
-   ]
-  },
-  {
-   "ref": "wikipedia#14",
-   "year": 475,
-   "text": "Romulus Augustulus took the throne as the last emperor of the Western Roman Empire.",
-   "context": [
-    "Romulus Augustus, nicknamed Augustulus, was Roman emperor of the West from 31 October 475 until 4 September 476. Romulus was placed on the imperial throne while still a minor by his father Orestes, the magister militum, for whom he served as little more than a figurehead. After a rule of ten months, the barbarian general Odoacer defeated and killed Orestes and deposed Romulus. As Odoacer did not proclaim any successor, Romulus is typically regarded as the last Western Roman emperor, his deposition marking the end of the Western Roman Empire as a political entity. The deposition of Romulus Augustulus is also sometimes used by historians to mark the transition from antiquity to the medieval period."
+    "Empress Matilda, also known as Empress Maud or Athelicia, was Holy Roman Empress as the consort of Emperor Henry V from 1110 until 1125, and was subsequently a claimant to the English throne during the civil war known as the Anarchy (1138–1153). Following the death of her father, King Henry I of England, as his only surviving legitimate child and nominated heir, she asserted her right to the English throne. However, her cousin Stephen of Blois usurped the crown."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Greenshoe option (אופציית גרינשו)",
+  "Kick the can down the road (לגלגל את הבעיה קדימה)",
+  "White knight (אביר לבן)",
   "Dry Powder (אבק שריפה)",
   "Boil the Ocean (להרתיח את האוקיינוס)",
   "Kill the Goose That Lays the Golden Eggs (לשחוט את האווזה שמטילה ביצי זהב)",
@@ -230,10 +225,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Move the needle (להזיז את המחוג)",
   "Crowding out (דחיקת השקעות)",
   "Mark-to-market (הערכת שווי לפי שוק)",
-  "Kick the tires (לבדוק ביסודיות לפני סגירת עסקה)",
-  "Yield spread (מרווח תשואות)",
-  "Flight to quality (בריחה לנכסי מקלט)",
-  "Priced in (כבר מגולם במחיר)"
+  "Kick the tires (לבדוק ביסודיות לפני סגירת עסקה)"
  ]
 }
 </input>
