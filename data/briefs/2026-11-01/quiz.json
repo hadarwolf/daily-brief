@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-01",
+  "questions": [
+    {
+      "id": "quiz-city-brighton-shock",
+      "section": "sports",
+      "story_id": "city-united-weekend-shockwaves",
+      "answer_index": 1,
+      "en": {
+        "question": "What happened to Manchester City over the weekend that shook up the Premier League title race?",
+        "options": [
+          "They won big to extend their lead at the top of the table",
+          "They lost 1-0 away to Brighton, their second straight league defeat and, Brighton said, their first-ever away league loss to the Seagulls",
+          "They drew with Arsenal to stay level on points",
+          "Their manager was sacked after a dressing-room dispute"
+        ],
+        "explanation": "Brighton's 1-0 win, their first-ever away league win over City, gave City back-to-back Premier League defeats just as Arsenal closed in at the top."
+      },
+      "he": {
+        "question": "מה קרה למנצ'סטר סיטי בסוף השבוע, באופן שטלטל את מירוץ האליפות בפרמייר ליג?",
+        "options": [
+          "היא ניצחה בגדול והרחיבה את יתרונה בפסגת הטבלה",
+          "היא הפסידה 1-0 בחוץ לברייטון, הפסד שני ברצף בליגה, ולפי ברייטון גם הניצחון החוץ הראשון בהיסטוריה שלה על סיטי",
+          "היא סיימה בשוויון עם ארסנל ונשארה שווה לה בנקודות",
+          "המאמן שלה הודח בעקבות מחלוקת בחדר ההלבשה"
+        ],
+        "explanation": "ניצחון 1-0 של ברייטון, ניצחון החוץ הראשון שלה אי פעם על סיטי בליגה, הביא לסיטי הפסד שני ברצף בדיוק כשארסנל התקרבה לפסגה."
+      }
+    },
+    {
+      "id": "quiz-coalition-math",
+      "section": "israeli_politics",
+      "story_id": "government-formation-talks-open",
+      "answer_index": 1,
+      "en": {
+        "question": "Why can't either political bloc in Israel simply form the next government on its own right now?",
+        "options": [
+          "Both blocs have refused to meet with President Herzog",
+          "Neither Netanyahu's bloc (53 seats) nor Eizenkot's change bloc (48 seats, without the Arab parties) reaches the 61 seats needed for a majority",
+          "The Knesset voted to dissolve itself before a government could be formed",
+          "Likud lost its position as the largest party in the Knesset"
+        ],
+        "explanation": "With Netanyahu's bloc at 53 seats and Eizenkot's change bloc at 48, neither side reaches the 61-seat majority needed, forcing Herzog to weigh unconventional options like a minority government."
+      },
+      "he": {
+        "question": "למה אף אחד מהגושים הפוליטיים בישראל לא יכול פשוט להרכיב בעצמו את הממשלה הבאה כרגע?",
+        "options": [
+          "שני הגושים מסרבים להיפגש עם הנשיא הרצוג",
+          "גם גוש נתניהו (53 מושבים) וגם גוש השינוי של איזנקוט (48 מושבים, בלי המפלגות הערביות) לא מגיעים ל-61 המושבים הדרושים לרוב",
+          "הכנסת הצביעה להתפזר לפני שהספיקו להרכיב ממשלה",
+          "הליכוד הפסיד את מעמדו כמפלגה הגדולה ביותר בכנסת"
+        ],
+        "explanation": "גוש נתניהו עומד על 53 מושבים וגוש השינוי של איזנקוט על 48, כך שאף אחד מהם לא מגיע ל-61 המושבים הדרושים לרוב, מה שמאלץ את הרצוג לשקול אפשרויות לא שגרתיות כמו ממשלת מיעוט."
+      }
+    },
+    {
+      "id": "quiz-ai-financing-cracks",
+      "section": "business",
+      "story_id": "ai-trade-cracks",
+      "answer_index": 0,
+      "en": {
+        "question": "Beyond disappointing earnings, what deeper financial shift is showing up in this week's AI-stock selloff?",
+        "options": [
+          "Lenders and investors are tightening terms on AI-related debt and even seeking insurance-like protection against the trade going wrong",
+          "The US government banned the export of AI chips entirely",
+          "Intel announced it was exiting the chip business",
+          "Central banks raised interest rates specifically to slow down AI spending"
+        ],
+        "explanation": "As AI infrastructure increasingly gets funded with debt rather than companies' own cash flow, lenders are demanding stricter terms and some investors are seeking insurance against the trade souring, signaling the easy-credit phase of the AI boom is ending."
+      },
+      "he": {
+        "question": "מעבר לדוחות הרבעוניים המאכזבים, איזה שינוי פיננסי עמוק יותר מתגלה במכירת מניות ה-AI השבוע?",
+        "options": [
+          "מלווים ומשקיעים מקשיחים את התנאים על חוב הקשור ל-AI ואף מחפשים כיסוי מסוג ביטוח למקרה שהעסקה תיכשל",
+          "ממשלת ארצות הברית אסרה כליל על ייצוא שבבי AI",
+          "אינטל הודיעה שהיא עוזבת את תחום השבבים",
+          "הבנקים המרכזיים העלו ריבית במיוחד כדי לצנן את ההשקעות ב-AI"
+        ],
+        "explanation": "ככל שתשתיות ה-AI ממומנות יותר ויותר בחוב ולא רק מהרווחים השוטפים של החברות, מלווים מציבים תנאים נוקשים יותר וחלק מהמשקיעים מחפשים ביטוח מפני כישלון העסקה, סימן שהשלב הנדיב של בום ה-AI מגיע לסיומו."
+      }
+    }
+  ]
+}

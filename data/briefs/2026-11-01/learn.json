@@ -1,0 +1,128 @@
+{
+  "section": "learn",
+  "date": "2026-11-01",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-01T03:52:40+00:00",
+  "stories": [
+    {
+      "id": "word-overhang",
+      "kind": "word",
+      "en": {
+        "headline": "Overhang (עומס היצע תלוי)",
+        "scroll": "A large, expected future supply of shares, debt, or inventory that depresses the current price because the market is waiting for it to be sold or resolved.",
+        "coffee": "An overhang is supply sitting over a market like a cloud: investors know it's coming but it hasn't been sold yet. The classic example is a stock overhang: insiders or early investors hold millions of locked-up shares, and once that lock-up expires, everyone expects fresh selling pressure, so the price sags in the meantime. The pressure comes from the expectation as much as from the actual sale, which is why an overhang can drag on a stock for months.\n\nExample: \"Even though earnings beat estimates, the stock barely moved, traders are watching the overhang from the IPO lock-up expiring next month.\"",
+        "deep": "**When to use it:** \"Overhang\" fits whenever a known, not-yet-realized supply or liability is weighing on a price. \"Debt overhang\" describes a company that owes so much it can't raise fresh equity without existing lenders capturing the upside. \"Supply overhang\" shows up in commodities, when inventories are bloated and a price rally looks fragile. \"Regulatory overhang\" is when a pending law or investigation keeps investors cautious before anything is even decided.\n\n**Common confusion:** people use \"overhang\" as a stand-in for any risk, but it specifically means a quantifiable, pending supply or liability priced in as a drag, not vague uncertainty.\n\n**More examples:**\n- \"The chipmaker's margins stayed under pressure from a persistent inventory overhang after the 2023 downturn.\"\n- \"Startups loaded with convertible debt face a real overhang problem once they try to raise again.\"\n\nHebrew: עומס היצע תלוי."
+      },
+      "he": {
+        "headline": "עומס היצע תלוי (Overhang)",
+        "scroll": "כמות היצע עתידית וידועה מראש של מניות, חוב או מלאי, שמכבידה על המחיר הנוכחי כי השוק מצפה שהיא תימכר או תיפתר בעתיד.",
+        "coffee": "'Overhang' הוא מצב שבו קיים היצע ידוע שממתין מעל השוק כמו עננה: המשקיעים יודעים שהוא בדרך, אבל הוא עדיין לא נמכר בפועל. הדוגמה הקלאסית היא overhang של מניות: בעלי מניות מוקדמים או עובדים מחזיקים במניות נעולות (lock-up), וכשתקופת הנעילה מסתיימת כולם מצפים לגל מכירות, כך שהמחיר נשאר מדוכא כל עוד זה לא קרה. חשוב להבין שהלחץ נובע מהציפייה ולא רק מהמכירה עצמה, וזו הסיבה שה-overhang יכול למשוך מניה מטה חודשים ארוכים.\n\nלדוגמה: \"אף שהחברה הכפילה את הרווח, המניה בקושי זזה, הסוחרים עדיין שומרים עין על ה-overhang מתום תקופת הנעילה בעוד חודש.\"",
+        "deep": "**מתי להשתמש:** המילה 'overhang' מתאימה לכל מצב שבו היצע או התחייבות ידועים ועדיין לא ממומשים מכבידים על המחיר. 'debt overhang' - חברה חייבת כך הרבה שהיא לא יכולה לגייס הון חדש בלי שהמלווים הקיימים יבלעו את כל הרווח. 'supply overhang' בשוק הסחורות, כשמלאים גדולים מהרגיל הופכים כל עלייה במחיר לשבירה. 'regulatory overhang' כשחוק או חקירה שעוד לא הוכרעו משאירים משקיעים זהירים עוד לפני שהוחלט דבר.\n\n**בלבול נפוץ:** אנשים משתמשים ב-'overhang' כמילה גנרית לכל סיכון, אבל המשמעות המדויקת שלה היא היצע או התחייבות מדידים וממתינים, לא רק חוסר ודאות מעורפל.\n\n**עוד דוגמאות:**\n- \"שולי הרווח של יצרנית השבבים נשארו תחת לחץ בגלל overhang מתמשך של מלאי אחרי המשבר ב-2023.\"\n- \"סטארטאפים עמוסים בחוב להמרה (convertible debt) מתמודדים עם בעיית overhang כשהם מנסים לגייס שוב.\"\n\nהמונח העברי: עומס היצע תלוי."
+      },
+      "tags": [
+        "finance",
+        "markets",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-priced-in",
+      "kind": "word",
+      "en": {
+        "headline": "Priced in (מגולם במחיר)",
+        "scroll": "Information or an expected event that the market has already absorbed into the current price, so when it actually happens, the price barely moves.",
+        "coffee": "When analysts say something is \"priced in,\" they mean the market already expected it, so the surprise, and therefore the price reaction, is gone. Markets trade on expectations, not just facts: if everyone already assumed a central bank would cut rates, the cut itself changes little once announced, because traders bought or sold ahead of time based on that expectation.\n\nExample: \"The CEO's resignation barely dented the stock, the news had been rumored for weeks and was already priced in.\"",
+        "deep": "**When to use it:** \"Priced in\" describes any outcome, good or bad, that the market anticipated and already traded on in advance: an earnings beat, a merger approval, a war escalating. It's the mirror image of a \"surprise\" or a \"shock,\" which move prices precisely because they were not priced in.\n\n**Common confusion:** being priced in doesn't mean an event doesn't matter, it means the market's prior reaction already captured most of the expected impact. A fully priced-in rate cut can still matter enormously for the real economy, it just won't move markets on the day it's announced.\n\n**More examples:**\n- \"A recession is largely priced in at this point, which is why stocks rallied on merely bad, not terrible, data.\"\n- \"If the tariffs are already priced in, the real risk is that they turn out worse than expected.\"\n- \"Don't buy the rumor and sell the news: by the time the news breaks, it's usually priced in.\"\n\nHebrew: מגולם במחיר."
+      },
+      "he": {
+        "headline": "מגולם במחיר (Priced in)",
+        "scroll": "מידע או אירוע צפוי שהשוק כבר שיקף במחיר הנוכחי, כך שברגע שהאירוע קורה בפועל המחיר כבר לא זז הרבה.",
+        "coffee": "כשאנליסטים אומרים שמשהו 'priced in' (מגולם במחיר), הכוונה היא שהשוק כבר ציפה לזה, ולכן ברגע שהדבר קורה בפועל אין הפתעה, ובלי הפתעה אין תגובת מחיר. שווקים נסחרים לפי ציפיות ולא רק לפי עובדות: אם כולם כבר הניחו שהבנק המרכזי יוריד ריבית, ההורדה בפועל כבר לא תזיז הרבה, כי הסוחרים קנו או מכרו מראש בהתבסס על אותה ציפייה.\n\nלדוגמה: \"ההתפטרות של המנכ\\\"ל בקושי הזיזה את המניה, השמועות רצו כבר שבועות וזה היה מגולם במחיר.\"",
+        "deep": "**מתי להשתמש:** 'priced in' מתאר כל תוצאה, טובה או רעה, שהשוק צפה אותה מראש ונסחר לפיה: דוחות טובים מהצפוי, אישור מיזוג, החמרה במלחמה. זה ההיפך המדויק מ'הפתעה' או 'שוק', שמזיזים מחירים בדיוק בגלל שלא היו מגולמים מראש.\n\n**בלבול נפוץ:** 'מגולם במחיר' לא אומר שהאירוע לא חשוב, זה אומר שהתגובה המוקדמת של השוק כבר לכדה את רוב ההשפעה הצפויה. הורדת ריבית שמגולמת במלואה עדיין יכולה להשפיע עמוקות על המשק הריאלי, היא רק לא תזיז שווקים ביום שבו היא מוכרזת.\n\n**עוד דוגמאות:**\n- \"מיתון כבר מגולם במידה רבה במחירים, וזו הסיבה שהמדדים עלו על נתונים גרועים-אבל-לא-איומים.\"\n- \"אם המכסים כבר מגולמים במחיר, הסיכון האמיתי הוא שהם יתגלו כגרועים מהצפוי.\"\n- \"אל תקנה את השמועה ותמכור את החדשות: עד שהחדשות מתפרסמות, הן כבר בדרך כלל מגולמות.\"\n\nהמונח באנגלית: Priced in."
+      },
+      "tags": [
+        "markets",
+        "trading",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-asleep-at-the-wheel",
+      "kind": "word",
+      "en": {
+        "headline": "Asleep at the wheel (ישנו בשמירה)",
+        "scroll": "An idiom for a person or institution responsible for watching over something who fails to notice or prevent a problem while it was happening.",
+        "coffee": "Literally about a driver who dozes off, the idiom is used constantly in business and regulation to criticize a board, auditor, or regulator who should have caught a problem early but didn't. It implies negligence through inattention rather than malice, the failure was in not watching closely enough.\n\nExample: \"Regulators were asleep at the wheel for years before the fraud finally came to light.\"",
+        "deep": "**When to use it:** reach for \"asleep at the wheel\" when assigning blame for a failure of oversight, not a failure of strategy. A board that didn't notice a CEO's fraud for years, a central bank that missed inflation building up, an auditor who signed off on cooked books: all asleep at the wheel.\n\n**Common confusion:** it isn't the same as general incompetence. You can be sharp overall and still be asleep at the wheel on one specific issue, the phrase targets a lapse in vigilance over a specific risk, not overall skill. It also differs from \"kicking the can down the road,\" which is knowingly deferring a problem, asleep at the wheel means not seeing it at all.\n\n**More examples:**\n- \"Investors accused the board of being asleep at the wheel as the company burned through its cash reserves.\"\n- \"Nobody wants to be the risk manager caught asleep at the wheel when the next crisis hits.\"\n- \"Critics said antitrust enforcers were asleep at the wheel while the market consolidated into three giants.\"\n\nHebrew: ישנו בשמירה."
+      },
+      "he": {
+        "headline": "ישנו בשמירה (Asleep at the wheel)",
+        "scroll": "ניב לתיאור גורם שהיה אמור לפקח ולשמור, אך לא שם לב לבעיה או לא פעל למנוע אותה בזמן שהתרחשה.",
+        "coffee": "במקור זה תיאור של נהג שנרדם מאחורי ההגה, אבל בעסקים וברגולציה משתמשים בניב הזה כל הזמן כדי לבקר דירקטוריון, רואה חשבון מבקר, או רגולטור שהיו צריכים לתפוס בעיה מוקדם ולא תפסו. הכוונה היא לרשלנות מתוך חוסר ערנות, לא מתוך כוונה רעה, הכשל הוא באי-שימת לב, לא בזדון.\n\nלדוגמה: \"הרגולטורים 'ישנו בשמירה' שנים לפני שההונאה התגלתה.\"",
+        "deep": "**מתי להשתמש:** משתמשים בביטוי 'ישנו בשמירה' (asleep at the wheel) כשמייחסים אשמה לכשל בפיקוח, לא לכשל באסטרטגיה. דירקטוריון שלא שם לב להונאה של מנכ\\\"ל במשך שנים, בנק מרכזי שפספס אינפלציה שהתפתחה מתחת לרדאר, רואה חשבון שאישר דוחות מזויפים, כולם 'ישנו בשמירה'.\n\n**בלבול נפוץ:** זה לא זהה לחוסר יכולת כללי. אפשר להיות חד ומוכשר ועדיין 'להיות ישן בשמירה' בנושא ספציפי אחד, הביטוי מתמקד בכשל ערנות סביב סיכון מסוים, לא ביכולת הכוללת. הוא גם שונה מ'לגלגל את הבעיה קדימה' (kick the can down the road), שזו דחייה מודעת של בעיה, בעוד 'ישן בשמירה' פירושו שלא ראו אותה כלל.\n\n**עוד דוגמאות:**\n- \"משקיעים האשימו את הדירקטוריון שנרדם בשמירה בזמן שהחברה שרפה את עודפי המזומנים שלה.\"\n- \"אף מנהל סיכונים לא רוצה להיתפס ישן בשמירה כשהמשבר הבא מגיע.\"\n- \"מבקרים טענו שרשויות התחרות ישנו בשמירה בזמן שהשוק התכנס לשלושה גיגנטים.\"\n\nהמונח באנגלית: Asleep at the wheel."
+      },
+      "tags": [
+        "business",
+        "oversight",
+        "idiom"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why some platforms become winner-take-all",
+        "scroll": "A network effect is when a product gets more valuable to each user as more people join, which is why dominant platforms snowball while laggards struggle to catch up.",
+        "coffee": "A network effect exists when the value of a product increases with the number of people using it, independent of any improvement to the product itself. A phone is nearly worthless if you're the only one who owns one; it becomes essential once everyone you know has one too. The same logic drives messaging apps, marketplaces, operating systems, and social networks: each new user makes the product slightly more valuable to every existing user, which attracts even more users.\n\nThis creates compounding, winner-take-all dynamics. Once a network crosses a critical mass, competitors face an uphill battle, not because their product is worse, but because they're offering less value simply by having fewer users. That's also why so many networked businesses tolerate years of losses to win market share first: the real prize is the effect itself, not near-term profit.\n\nWhat to watch for: network effects can also reverse. If enough users leave, the product gets less valuable for everyone remaining, accelerating the exit, which is exactly what happened to platforms like MySpace.",
+        "deep": "## What it is\nA network effect occurs when each additional user of a product makes it more valuable to every other user. A **direct network effect** works through the product itself: more people on WhatsApp means more people you can actually reach through it. An **indirect network effect** runs through two linked groups, like a marketplace, where more buyers attract more sellers and vice versa.\n\n## Why it matters\nNetwork effects explain why a handful of platforms, search engines, social networks, app stores, ride-hailing, end up dominated by one or two players rather than many roughly equal competitors, what economists call a **winner-take-all market**. Once the effect kicks in, growth becomes self-reinforcing: a bigger network is a better product, which attracts more users, which widens the gap with smaller rivals instead of closing it. It's also why these businesses are valued on user growth long before profit, investors are pricing in a future economic moat (חפיר כלכלי) that solidifies once the network locks in.\n\n## A worked example\nA ride-hailing app launches in a new city with 10 drivers and 10 riders: wait times are long and the app is barely useful. A rival that reaches 1,000 drivers and 1,000 riders in the same city offers much shorter waits, purely from scale. Riders flock to whichever app has shorter waits, which attracts more drivers chasing rides, which shortens waits further, which attracts more riders still. A new entrant has to convince both sides to jump to a thinner, slower network simultaneously, a far harder sell than simply building a nicer app.\n\n## Related ideas\nSwitching costs reinforce network effects: once your contacts or history live inside a network, leaving is costly even if a rival's product is objectively better. **Multi-homing** is the escape valve, when users can easily run several networks at once (many drivers use Uber and Lyft simultaneously), the effect weakens because no single platform fully captures the value of scale. **Critical mass** is the threshold a network must cross before self-reinforcing growth kicks in at all.\n\n## What to watch next\nNetwork effects can run in reverse: once enough users leave, the product loses value for everyone remaining, pushing more people out, a death spiral that hit several early social networks. In AI, it's an open question whether large models develop similar effects through data or developer ecosystems, or whether the technology stays closer to a commodity, with value concentrating in distribution or compute instead."
+      },
+      "he": {
+        "headline": "אפקט הרשת: למה פלטפורמות מסוימות הופכות ל'המנצח לוקח הכל'",
+        "scroll": "אפקט רשת (network effect) הוא מצב שבו מוצר נהיה שווה יותר לכל משתמש כשיותר אנשים מצטרפים אליו, וזו הסיבה שפלטפורמות דומיננטיות צומחות בכדור שלג בעוד מתחרות קטנות נשארות מאחור.",
+        "coffee": "אפקט רשת מתקיים כשהערך של מוצר עולה עם מספר האנשים שמשתמשים בו, בלי שום קשר לשיפור במוצר עצמו. טלפון שאתם היחידים שמחזיקים בו חסר תועלת, הוא הופך הכרחי כשלכל מי שאתם מכירים יש אחד. אותו היגיון מניע אפליקציות הודעות, מרקטפלייסים (marketplaces), מערכות הפעלה ורשתות חברתיות: כל משתמש חדש מוסיף ערך לכל המשתמשים הקיימים, מה שמושך עוד משתמשים.\n\nזה יוצר דינמיקה של 'המנצח לוקח הכל' (winner-take-all) שמתעצמת עם הזמן. כשרשת עוברת מסה קריטית, מתחרים נאבקים בעלייה, לא בגלל שהמוצר שלהם גרוע יותר, אלא כי הם מציעים ערך קטן יותר בפשטות כי יש להם פחות משתמשים. זו גם הסיבה שעסקים מבוססי-רשת מוכנים לספוג הפסדים שנים כדי לכבוש נתח שוק קודם: הפרס האמיתי הוא האפקט עצמו, לא הרווח בקרוב.\n\nמה לשים לב: אפקטי רשת יכולים גם להתהפך. כשמספיק משתמשים עוזבים, המוצר נהיה שווה פחות לכל מי שנשאר, מה שמאיץ את העזיבה, בדיוק מה שקרה לפלטפורמות כמו MySpace.",
+        "deep": "## מה זה\nאפקט רשת מתקיים כשכל משתמש נוסף במוצר הופך אותו לשווה יותר לכל משתמש אחר. אפקט רשת ישיר (direct network effect) פועל ישירות דרך המוצר, יותר אנשים ב-WhatsApp פירושו יותר אנשים שאפשר ממש להגיע אליהם דרכו. אפקט רשת עקיף (indirect network effect) פועל בין שתי קבוצות מקושרות, כמו במרקטפלייס: יותר קונים מושכים יותר מוכרים, ולהפך.\n\n## למה זה חשוב\nאפקטי רשת מסבירים למה חופן פלטפורמות, מנועי חיפוש, רשתות חברתיות, חנויות אפליקציות, שירותי הסעה, מגיעות לשליטה של שחקן אחד או שניים, במקום הרבה מתחרים שווים בגודלם, מה שכלכלנים מכנים שוק 'המנצח לוקח הכל' (winner-take-all market). כשהאפקט מתחיל לפעול, הצמיחה הופכת למחזקת את עצמה: רשת גדולה יותר היא מוצר טוב יותר, מה שמושך עוד משתמשים, מה שמרחיב את הפער ממתחרים קטנים במקום לסגור אותו. זו גם הסיבה שעסקים כאלה מוערכים לפי צמיחת משתמשים הרבה לפני רווח, משקיעים מגלמים במחיר חפיר כלכלי (economic moat) עתידי, שיתגבש כשהרשת תינעל.\n\n## דוגמה מוחשית\nאפליקציית הסעות משיקה בעיר חדשה עם 10 נהגים ו-10 נוסעים: זמני ההמתנה ארוכים והאפליקציה כמעט חסרת תועלת. מתחרה שמגיעה ל-1,000 נהגים ו-1,000 נוסעים באותה עיר מציעה זמני המתנה קצרים בהרבה, רק בגלל קנה המידה. נוסעים נוהרים לאפליקציה עם ההמתנה הקצרה יותר, מה שמושך יותר נהגים שרודפים אחרי נסיעות, מה שמקצר את ההמתנה עוד יותר, ומושך עוד נוסעים. שחקן חדש צריך לשכנע את שני הצדדים לעבור בו-זמנית לרשת דלילה ואיטית יותר, משימה הרבה יותר קשה מסתם לבנות אפליקציה נחמדה יותר.\n\n## רעיונות קרובים\nעלויות מעבר (switching costs) מחזקות אפקטי רשת: כשאנשי הקשר או ההיסטוריה שלכם חיים בתוך רשת, לעזוב עולה, גם אם למתחרה יש מוצר אובייקטיבית טוב יותר. Multi-homing הוא שסתום המילוט: כשמשתמשים יכולים להשתמש בכמה רשתות במקביל בקלות (נהגים רבים מריצים בו-זמנית Uber ו-Lyft), האפקט נחלש, כי אין פלטפורמה אחת שלוכדת את כל הערך של קנה המידה. מסה קריטית (critical mass) הוא הסף שרשת צריכה לעבור כדי שהצמיחה המחזקת את עצמה תתחיל כלל.\n\n## מה לשים לב להמשך\nאפקטי רשת יכולים גם לפעול לאחור: כשמספיק משתמשים עוזבים, המוצר נהיה שווה פחות לכל מי שנשאר, מה שדוחף עוד אנשים לעזוב, מערבולת מוות שפגעה ברשתות חברתיות מוקדמות. בתחום ה-AI יש דיון פתוח אם מודלי שפה גדולים (LLMs) יפתחו אפקטים דומים דרך נתונים או מערכות אקולוגיות של מפתחים, או שהטכנולוגיה תישאר קרובה יותר למוצר סחורתי (commodity), עם ערך שיתרכז בהפצה או בכוח מחשוב במקום."
+      },
+      "tags": [
+        "economics",
+        "tech",
+        "platforms",
+        "strategy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-1963-vietnam-coup",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1963: A U.S.-backed coup topples South Vietnam's government",
+        "scroll": "On 1 November 1963, a coup against South Vietnamese President Ngô Đình Diệm executed his loyalist Special Forces chief, Lê Quang Tung, a turning point that reshaped the Vietnam War.",
+        "coffee": "By late 1963, President Ngô Đình Diệm's government was unraveling after months of unrest sparked by his treatment of South Vietnam's Buddhist majority. On 1 November, a group of South Vietnamese generals launched a coup against him, with the tacit backing of the United States, which had grown frustrated with how Diệm was handling the war against communist insurgents. Among the coup's first targets was Lê Quang Tung, the loyalist commander of South Vietnam's Special Forces and a former servant of the Ngô family who had risen through its ranks on personal loyalty rather than battlefield command. He was executed that day.\n\nDiệm himself was captured and killed as the coup concluded the following day, ending his presidency. The United States had signaled it would not block the coup, a decision that deepened its political entanglement in South Vietnam just as its own military commitment there was starting to grow.",
+        "deep": "## The context\nBy 1963, South Vietnam's President Ngô Đình Diệm, in power since 1955, was facing a crisis of legitimacy. His government had alienated the country's Buddhist majority through discriminatory policies and met the protests that followed with crackdowns, while power concentrated increasingly around his brother, Ngô Đình Nhu, and Nhu's wife. Washington, which had bankrolled and backed Diệm's government as a Cold War ally against communist North Vietnam, grew frustrated that the unrest was undermining the war effort against the Viet Cong insurgency.\n\n## The event\nOn 1 November 1963, a group of South Vietnamese generals launched a coup, having received assurances that the United States would not intervene to save Diệm. One of the plotters' first moves was against Lê Quang Tung, the loyalist commander of the Special Forces, a unit built around personal fidelity to the Ngô family rather than the regular army's chain of command. Tung, a former servant of the family who had risen through the ranks on that loyalty and a background in security and counterespionage, was executed that day, removing Diệm's most reliable instrument of control in the capital.\n\n## Why it mattered\nDiệm himself was captured and killed as the coup concluded, ending his presidency and plunging South Vietnam into a period of political instability, with a rapid succession of military governments over the following two years. For the United States, the coup marked a point of no return: having tacitly condoned the overthrow of an ally it had installed and financed, Washington became more directly responsible for South Vietnam's stability, just as its own military commitment was escalating from advisers toward combat troops.\n\n## What came after\nHistorians often cite the coup as a hinge moment in the Vietnam War, a war the US was drawn deeper into over the following decade partly because of the instability that followed Diệm's fall. President Kennedy, under whose administration the coup was tacitly approved, was himself assassinated three weeks later, on 22 November 1963, an eerie coincidence historians still note when discussing the two events' entangled place in Cold War history."
+      },
+      "he": {
+        "headline": "1963: הפיכה שנתמכה על ידי ארצות הברית מפילה את ממשלת וייטנאם הדרומית",
+        "scroll": "ב-1 בנובמבר 1963 הוצא להורג מפקד הכוחות המיוחדים הנאמן לנשיא וייטנאם הדרומית, לה קוואנג טונג, כחלק מהפיכה שנתמכה על ידי ארצות הברית, רגע מפנה שעיצב מחדש את מלחמת וייטנאם.",
+        "coffee": "עד סוף 1963 ממשלתו של הנשיא נגו דין דיים התפוררה, בעקבות חודשים של מחאות שפרצו על רקע יחסו לרוב הבודהיסטי בווייטנאם הדרומית. ב-1 בנובמבר יצאה קבוצת גנרלים וייטנאמים דרומיים להפיכה נגדו, בגיבוי שקט של ארצות הברית, שכבר הייתה מתוסכלת מהאופן שבו דיים התמודד עם המרד הקומוניסטי. אחת המטרות הראשונות של ההפיכה הייתה לה קוואנג טונג, מפקד הכוחות המיוחדים הנאמן לדיים, מי שהיה בעבר משרת של משפחת נגו ועלה בדרגות בזכות נאמנות אישית ולא בזכות פיקוד בשטח. הוא הוצא להורג באותו היום.\n\nדיים עצמו נתפס ונהרג כשההפיכה הסתיימה, יום לאחר מכן, בסיומו של תפקידו כנשיא. ארצות הברית סימנה שלא תתערב למנוע את ההפיכה, החלטה שהעמיקה את ההסתבכות המדינית שלה בווייטנאם הדרומית, בדיוק כשהמחויבות הצבאית שלה שם התחילה לגדול.",
+        "deep": "## הרקע\nעד 1963 הנשיא נגו דין דיים, ששלט בווייטנאם הדרומית מאז 1955, עמד בפני משבר לגיטימיות. ממשלתו ניכרה את הרוב הבודהיסטי במדינה דרך מדיניות מפלה, והגיבה למחאות שפרצו בעקבות כך בדיכוי, בזמן שהכוח התרכז יותר ויותר בידי אחיו, נגו דין נהו, ואשתו של נהו. וושינגטון, שמימנה וגיבתה את ממשלת דיים כבעלת ברית במלחמה הקרה נגד וייטנאם הצפונית הקומוניסטית, נעשתה מתוסכלת מכך שחוסר השקט פגע במאמץ המלחמתי נגד מרד הוייט קונג.\n\n## האירוע\nב-1 בנובמבר 1963 קבוצת גנרלים וייטנאמים דרומיים יצאה להפיכה, לאחר שקיבלה הבטחות שארצות הברית לא תתערב כדי להציל את דיים. אחד הצעדים הראשונים של המתכננים היה נגד לה קוואנג טונג, מפקד הכוחות המיוחדים הנאמן, יחידה שנבנתה על בסיס נאמנות אישית למשפחת נגו ולא על שרשרת הפיקוד הרגילה של הצבא. טונג, שהיה בעבר משרת של המשפחה ועלה בדרגות בזכות אותה נאמנות ורקע בביטחון וריגול נגדי, הוצא להורג באותו היום, מה שהסיר מדיים את כלי השליטה האמין ביותר שלו בבירה.\n\n## למה זה חשוב\nדיים עצמו נתפס ונהרג כשההפיכה הסתיימה, מה שסיים את כהונתו כנשיא והטביע את וייטנאם הדרומית בתקופה של חוסר יציבות מדינית, עם רצף מהיר של ממשלות צבאיות בשנתיים שלאחר מכן. לארצות הברית, ההפיכה סימנה נקודת אל-חזור: אחרי שהשלימה בשקט עם הפלת בעלת ברית שהיא עצמה הקימה ומימנה, וושינגטון נעשתה אחראית יותר ישירות ליציבות וייטנאם הדרומית, בדיוק כשהמחויבות הצבאית שלה עצמה הסלימה מיועצים לכוחות קרביים.\n\n## מה קרה אחר כך\nהיסטוריונים מתייחסים להפיכה כאל רגע ציר במלחמת וייטנאם, מלחמה שארצות הברית נשאבה אליה עמוק יותר בעשור שלאחר מכן, בין היתר בגלל חוסר היציבות שבא בעקבות נפילתו של דיים. הנשיא קנדי, שבתקופת כהונתו ההפיכה אושרה בשקט, נרצח בעצמו שלושה שבועות לאחר מכן, ב-22 בנובמבר 1963, צירוף מקרים מטריד שהיסטוריונים עדיין מציינים כשהם דנים במקום המשולב של שני האירועים בהיסטוריה של המלחמה הקרה."
+      },
+      "tags": [
+        "history",
+        "vietnam",
+        "cold-war",
+        "geopolitics"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1963: Lê Quang Tung, loyalist head of the South Vietnam Special Forces, was executed in a U.S.-backed coup against president Ngô Đình Diệm following a period of religious unrest.",
+          "url": "https://en.wikipedia.org/wiki/L%C3%AA_Quang_Tung"
+        }
+      ]
+    }
+  ]
+}

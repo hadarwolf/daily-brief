@@ -1,0 +1,146 @@
+{
+  "section": "business",
+  "date": "2026-11-01",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-01T03:52:40+00:00",
+  "stories": [
+    {
+      "id": "ai-trade-cracks",
+      "kind": "analysis",
+      "en": {
+        "headline": "The AI Boom's Financing Is Starting to Show Cracks",
+        "scroll": "Disappointing Big Tech earnings deepened the AI stock selloff, and lenders funding the AI buildout are now demanding tighter terms and insurance against the trade going wrong.",
+        "coffee": "Intel's stock plunged almost 30% after a disappointing forecast for the final quarter of 2026, its worst one-day drop ever and enough to erase more than $110 billion in market value. The chipmaker blamed weak PC demand, even as it keeps expanding production capacity and deals with the aftermath of an explosion at its Kiryat Gat plant in Israel, where it is one of the tech sector's largest employers. Combined with a weak report from Amazon, the news pushed the Nasdaq toward its worst month in over a year and close to its third correction (a 10%+ drop from a recent peak) of 2026.\n\nThe bigger story is how the AI buildout is financed. Trillions of dollars are riding on the bet that AI spending pays off, and increasingly that spending runs on debt rather than only Big Tech's own cash flow. Lenders and investors are now demanding stricter terms, and some are hunting for insurance-like protection against the trade souring - a sign that the easy-credit phase of the AI capital cycle is ending. Money is also rotating into safety: global bond yields fell sharply in October, and in Tel Aviv, dual-listed tech stocks dragged the TA-35 down 2.1% in a single session.\n\nWatch the US midterm elections on Tuesday, which could reshape the policy backdrop for AI oversight, and whether lenders keep tightening terms on AI-linked debt - that's the clearest signal of whether Wall Street still believes in the trade.",
+        "deep": "## Background\n\nFor the past two years, Big Tech's defining trait has been the scale of its capital expenditure (capex) - the money companies spend building long-lived assets like data centers, chips and power infrastructure. Through 2024 and 2025, most of that capex was funded out of hyperscalers' own operating cash flow, which let investors treat AI spending as a sign of strength rather than risk: companies profitable enough to self-fund a buildout of this size. That started to change as the scale of the buildout outgrew what even the largest companies could cover internally. Increasingly, AI infrastructure is financed with debt - loans, bonds, leasing structures and off-balance-sheet vehicles - a shift that changes who bears the risk if the spending doesn't pay off fast enough. This is the pattern economists call the capital cycle: in a boom, lenders and investors compete to fund the hottest sector, financing terms loosen, and capital floods in; when results disappoint, terms tighten and funding becomes scarcer and more expensive right when companies need it most.\n\n## The story\n\nThis week supplied the stress test. Intel reported a disappointing outlook for the final quarter of 2026, and its stock fell almost 30% - the company's worst single-day decline on record, a drop set to erase more than $110 billion in market value. Intel pinned the miss on weak demand for personal computers, even as it keeps expanding manufacturing capacity and absorbs the costs of an explosion at its Kiryat Gat plant in Israel, where it is one of the largest employers in the local tech industry. Amazon's earnings added to the pressure. Together, the reports pushed the Nasdaq toward its worst month in more than a year and close to a third correction of 2026 - market shorthand for a 10%-plus drop from a recent high.\n\nWhat makes this more than an earnings story is what's happening underneath the stock prices. Wall Street Journal reporting describes lenders and investors becoming choosier about AI-related financing, demanding stricter terms as the AI build-out enters what one report calls a new phase - language that signals the cheap, permissive-credit stage of the cycle is ending. At the same time, with trillions of dollars riding on the AI trade, investors, traders and even tech executives are hunting for high-stakes, insurance-like protection in case the bet goes wrong. That's a telling signal in itself: when market participants pay up for protection against a trade, it usually means the downside now looks real enough to insure against, not just hypothetical.\n\n## Second-order effects\n\nThe selloff is already rippling outward. Capital is rotating toward safety: global bond yields fell sharply through October as investors sought shelter from the tech selloff, and a Financial Times report described investors trimming growth bets specifically over concern about the US economy's exposure to AI spending - concern that the economy has leaned too hard on one sector's capital expenditure to drive growth.\n\nThe spillover reaches Israel directly. Israeli dual-listed stocks (companies that trade on both the Tel Aviv Stock Exchange and a foreign exchange, moving in step with the foreign listing) pulled the TA-35 down 2.1% in a single session, a reminder that for Israeli investors, diversification doesn't fully disconnect you from a US tech correction.\n\nThere's also an early labor-market signal worth watching: reporting on whether this is the first clear evidence of AI's impact on the labor market found productivity rising and employment falling in the tech sector specifically, even as the picture elsewhere in the economy stays far murkier. If AI is already reshaping hiring in the industry doing the spending, that's a second, slower-moving story running underneath the stock-price one - relevant to anyone, including computer science and engineering students, thinking about where tech hiring goes next.\n\n## What to watch next\n\nThree things to track. First, the US midterm elections on Tuesday: Wall Street reportedly expects Democrats to win at least one chamber of Congress, and the outcome could reshape policy on AI oversight, defense spending and crypto regulation - all factors that feed back into how investors price the AI trade. Second, whether lenders keep tightening terms on AI-linked debt, or start pulling back altogether; that credit behavior, more than any single stock move, is the real tell on whether Wall Street still believes the AI buildout pays for itself. Third, expect more earnings-driven swings as the market tests whether this week's selloff was a healthy repricing or the start of something larger - the kind of question that defines every capital cycle until it's resolved in hindsight."
+      },
+      "he": {
+        "headline": "סדקים במימון בועת ה-AI: אינטל קורסת, המלווים מהדקים את התנאים",
+        "scroll": "דו\"חות מאכזבים מענקיות הטכנולוגיה החריפו את מכירת מניות ה-AI, והמלווים שמממנים את תשתיות ה-AI מתחילים להקשיח תנאים ולחפש ביטוח מפני כישלון העסקה.",
+        "coffee": "מניית אינטל צנחה בכמעט 30% אחרי שהחברה פרסמה תחזית מאכזבת לרבעון הרביעי של 2026 - הירידה החדה ביותר שלה אי פעם ביום מסחר אחד, שצפויה למחוק יותר מ-110 מיליארד דולר משווי השוק שלה. יצרנית השבבים תלתה את התחזית הנמוכה בירידה בביקוש למחשבים אישיים, זאת בזמן שהיא ממשיכה להרחיב את כושר הייצור שלה ומתמודדת עם נזקי הפיצוץ במפעלה בקריית גת, שם היא אחת המעסיקות הגדולות בהייטק הישראלי. בשילוב עם דו\"ח חלש של אמזון, המהלך דחף את מדד הנאסד\"ק לכיוון החודש הגרוע ביותר שלו מזה יותר משנה, וקרוב ל'תיקון' (correction) שלישי - צניחה של 10% ומעלה משיא קודם - מתחילת 2026.\n\nהסיפור המעניין יותר הוא איך מומן הבום של ה-AI. טריליוני דולרים מושקעים בהנחה שההשקעות ב-AI ישתלמו, וחלק גדל ומומן בחוב (debt financing) ולא רק מהרווחים השוטפים של חברות הטכנולוגיה הגדולות. מלווים ומשקיעים מתחילים להציב תנאים נוקשים יותר, וחלקם מחפשים כיסוי מסוג ביטוח (insurance) מפני כישלון העסקה - סימן שהשלב הנדיב של מחזור ההון (capital cycle) בתחום ה-AI מגיע לסיומו. כסף גם זורם חזרה לנכסים בטוחים: תשואות האג\"ח העולמיות צנחו באוקטובר, ובתל אביב מניות דואליות (חברות הנסחרות גם בבורסה זרה) משכו את מדד ת\"א 35 למטה ב-2.1% במסחר יחיד.\n\nלעקוב אחרי בחירות הביניים בארה\"ב ביום שלישי, שעלולות לשנות את המדיניות הרגולטורית בנושא AI, ואחרי השאלה אם המלווים ימשיכו להקשיח תנאים על חוב הקשור ל-AI - זה הסימן הברור ביותר לכך שוול סטריט עדיין מאמינה בעסקה.",
+        "deep": "## רקע\n\nבשנתיים האחרונות המאפיין המרכזי של חברות הטכנולוגיה הגדולות היה קנה המידה של ההוצאות ההוניות (capex) - הכסף שהן משקיעות בנכסים ארוכי טווח כמו מרכזי נתונים, שבבים ותשתיות אנרגיה. עד 2024-2025 רוב ההוצאה הזו מומנה מתוך הרווחים השוטפים (operating cash flow) של חברות הטכנולוגיה הגדולות עצמן, מה שאפשר למשקיעים להתייחס להשקעות ב-AI כסימן לחוזק ולא לסיכון: חברות רווחיות מספיק כדי למַמֵּן בעצמן בום בסדר גודל כזה. זה התחיל להשתנות כשההשקעות גדלו מעבר ליכולת המימון העצמית אפילו של החברות הגדולות בעולם. יותר ויותר, תשתיות ה-AI ממומנות בחוב (debt financing) - הלוואות, אג\"ח, הסכמי ליסינג וכלים חוץ-מאזניים - שינוי שמשנה מי נושא בסיכון אם ההשקעה לא תחזיר את עצמה מהר מספיק. זו התבנית שכלכלנים מכנים מחזור ההון (capital cycle): בתקופת בום, מלווים ומשקיעים מתחרים על מימון הסקטור החם ביותר, תנאי המימון מתרככים וההון זורם בשטף; כשהתוצאות מאכזבות, התנאים מתקשחים והמימון הופך נדיר ויקר יותר, בדיוק ברגע שהחברות הכי צריכות אותו.\n\n## הסיפור\n\nהשבוע הזה היה מבחן הלחץ. אינטל פרסמה תחזית מאכזבת לרבעון הרביעי של 2026, ומנייתה צנחה בכמעט 30% - הירידה החדה ביותר שלה ביום מסחר אחד אי פעם, שצפויה למחוק יותר מ-110 מיליארד דולר משווי השוק שלה. אינטל תלתה את התחזית הנמוכה בירידה בביקוש למחשבים אישיים, זאת בעת שהיא ממשיכה להרחיב את כושר הייצור שלה ומתמודדת עם נזקי הפיצוץ במפעלה בקריית גת, שם היא אחת המעסיקות הגדולות בתעשיית ההייטק הישראלית. דו\"ח של אמזון הוסיף לחץ. בשילוב, הדו\"חות דחפו את הנאסד\"ק לכיוון החודש הגרוע ביותר שלו מזה יותר משנה, וקרוב ל'תיקון' (correction) שלישי מתחילת 2026 - מונח שוק לצניחה של 10% ומעלה משיא קודם.\n\nמה שהופך את זה ליותר מסיפור דו\"חות הוא מה שקורה מתחת למחירי המניות. דיווחים ב-Wall Street Journal מתארים מלווים ומשקיעים שהופכים בררנים יותר במימון הקשור ל-AI, ומציבים תנאים נוקשים יותר, בעוד הבום בתשתיות ה-AI נכנס לשלב חדש - ניסוח שמסמן שהשלב הזול והנדיב של המחזור מתקרב לסיומו. במקביל, עם טריליוני דולרים שמונחים על ההימור הזה, משקיעים, סוחרים ואפילו מנהלי טכנולוגיה מחפשים כיסוי מסוג ביטוח (insurance) יקר למקרה שההימור יתברר כשגוי. זה סימן בפני עצמו: כשמשתתפי השוק מוכנים לשלם על ביטוח מפני עסקה, זה בדרך כלל אומר שהסיכון נראה להם ממשי מספיק כדי לכסות אותו - לא תיאורטי בלבד.\n\n## אפקטים מסדר שני\n\nגלי ההדף כבר מתפשטים. הון זורם חזרה לנכסים בטוחים: תשואות האג\"ח העולמיות (bond yields) צנחו בחדות באוקטובר, כשמשקיעים חיפשו מחסה ממכירת הטכנולוגיה, ודיווח ב-Financial Times תיאר משקיעים שמקצצים בהימורי צמיחה בדיוק מחשש לחשיפה של הכלכלה האמריקאית להשקעות ה-AI - חשש שהכלכלה נשענה יותר מדי על ההוצאה ההונית של סקטור אחד כמנוע צמיחה.\n\nהגל הזה מגיע גם לישראל במישרין. מניות דואליות (חברות הנסחרות גם בבורסה בתל אביב וגם בבורסה זרה, ונעות בהתאם למסחר בחו\"ל) משכו את מדד ת\"א 35 למטה ב-2.1% במסחר יחיד - תזכורת לכך שעבור משקיעים ישראלים, 'פיזור' (diversification) לא מנתק אתכם במלואו מתיקון בטכנולוגיה האמריקאית.\n\nיש גם איתות מוקדם בשוק העבודה שכדאי לשים אליו עין: דיווח שבדק אם זו העדות הראשונה הברורה להשפעת ה-AI על שוק העבודה מצא עלייה בפרודוקטיביות וירידה בתעסוקה בסקטור הטכנולוגיה עצמו, גם אם התמונה בשאר הכלכלה עמומה בהרבה. אם ה-AI כבר משנה את ההתנהלות של גיוס עובדים בענף שמוביל את ההשקעה בו, זה סיפור שני ואיטי יותר שרץ מתחת לסיפור מחירי המניות - רלוונטי לכל מי שחושב על עתיד התעסוקה בהייטק, כולל סטודנטים למדעי המחשב ולהנדסת חשמל.\n\n## מה לעקוב אחרי\n\nשלושה דברים לעקוב אחריהם. ראשית, בחירות הביניים בארה\"ב ביום שלישי: לפי דיווחים, וול סטריט מצפה שהדמוקרטים ינצחו לפחות באחד מבתי הקונגרס, והתוצאה יכולה לשנות את המדיניות בנושאי פיקוח על AI, הוצאות הביטחון ורגולציית קריפטו - כולם גורמים שמשפיעים בחזרה על איך משקיעים מתמחרים את עסקת ה-AI. שנית, האם המלווים ימשיכו להקשיח תנאים על חוב הקשור ל-AI, או יתחילו לסגת ממנו לחלוטין; ההתנהגות הזו בשוק האשראי, יותר מכל תנודה במניה בודדת, היא הסימן האמיתי לשאלה אם וול סטריט עדיין מאמינה שההשקעה בתשתיות ה-AI תחזיר את עצמה. שלישית, יש לצפות לעוד תנודות מבוססות-דו\"חות, כשהשוק בוחן אם מכירת השבוע הזה היתה תמחור מחדש בריא או תחילתו של משהו גדול יותר - שאלה שמאפיינת כל מחזור הון עד שהוא נפתר, בדיעבד."
+      },
+      "tags": [
+        "ai",
+        "intel",
+        "markets",
+        "credit-markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+          "url": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+          "url": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "אינטל, אלפבית והגורמים שהפילו את נאסד\"ק קרוב לתיקון: מה צריך לדעת על השוק",
+          "url": "https://www.themarker.com/wallstreet/2026-10-31/ty-article-magazine/.premium/000001a1-91a0-def7-adad-9bf893900000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מניות הטכנולוגיה הפילו את נאסד\"ק בכמעט 3%, אל סף תיקון שלישי מתחילת השנה",
+          "url": "https://www.themarker.com/wallstreet/2026-10-30/ty-article-live/000001a1-7688-d432-afbd-77fc593d0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "אינטל צנחה בכמעט 30% לאחר הדו\"ח המאכזב — וצפויה למחוק יותר מ-110 מיליארד דולר",
+          "url": "https://www.themarker.com/wallstreet/2026-10-30/ty-article/.premium/000001a1-8d35-dbb9-a7ef-ff75cce60000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הדואליות משכו את הבורסה למטה; ת\"א 35 איבד 2.1%",
+          "url": "https://www.themarker.com/markets/2026-10-30/ty-article-live/000001a1-8bd7-dd01-a9ed-abfff9250000"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+          "url": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Wall Street Is Starting to Call the Shots in America’s AI Build-Out",
+          "url": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling-5670f50d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Cracks in AI Trade Power Sharp Tech Selloff",
+          "url": "https://www.wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Week the Cracks in the AI Trade Grew Deeper",
+          "url": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
+          "url": "https://www.wsj.com/finance/stocks/u-s-treasury-yields-fall-to-multiweek-lows-in-asian-trade-d355dffd?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
+          "url": "https://www.wsj.com/finance/stocks/ai-selloff-deepens-oil-jumps-and-crypto-falls-4703d21b?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4058.95,
+      "prev_close": 4144.3999,
+      "change_pct": -2.06,
+      "as_of": "2026-10-30"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7580.0698,
+      "prev_close": 7720.3901,
+      "change_pct": -1.82,
+      "as_of": "2026-10-30"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1084,
+      "prev_close": 3.1226,
+      "change_pct": -0.46,
+      "as_of": "2026-10-30"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 117.64,
+      "prev_close": 114.88,
+      "change_pct": 2.4,
+      "as_of": "2026-10-30"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 77648.7422,
+      "prev_close": 77198.2109,
+      "change_pct": 0.58,
+      "as_of": "2026-11-01"
+    }
+  }
+}
