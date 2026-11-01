@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-11-01T08:38:41+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
+     "title": "Georgetown opens season at home against Delaware State - AP News",
+     "published": "2026-11-01T09:16:53+00:00",
+     "summary": "Georgetown opens season at home against Delaware State AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "War and unrest - AP News",
-     "published": "2026-11-01T08:20:32+00:00",
-     "summary": "War and unrest AP News"
+     "title": "Ball State hosts Arkansas State to start season - AP News",
+     "published": "2026-11-01T09:16:52+00:00",
+     "summary": "Ball State hosts Arkansas State to start season AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Ukraine - AP News",
-     "published": "2026-11-01T08:20:28+00:00",
-     "summary": "Ukraine AP News"
+     "title": "Arkansas State begins season at home against Toledo - AP News",
+     "published": "2026-11-01T09:16:51+00:00",
+     "summary": "Arkansas State begins season at home against Toledo AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "Texas - AP News",
-     "published": "2026-11-01T08:19:15+00:00",
-     "summary": "Texas AP News"
+     "title": "Baylor Bears tip off season at home against the Fairleigh Dickinson Knights - AP News",
+     "published": "2026-11-01T09:16:50+00:00",
+     "summary": "Baylor Bears tip off season at home against the Fairleigh Dickinson Knights AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "South America - AP News",
-     "published": "2026-11-01T08:16:30+00:00",
-     "summary": "South America AP News"
+     "title": "Texas State hosts Texas A&M-CC to tip off season - AP News",
+     "published": "2026-11-01T09:16:50+00:00",
+     "summary": "Texas State hosts Texas A&M-CC to tip off season AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-11-01T08:16:26+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
+     "title": "Charlotte 49ers open season at home against the Richmond Spiders - AP News",
+     "published": "2026-11-01T09:16:49+00:00",
+     "summary": "Charlotte 49ers open season at home against the Richmond Spiders AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-01T08:16:24+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+     "title": "Butler Bulldogs open season at home against the Tennessee Tech Golden Eagles - AP News",
+     "published": "2026-11-01T09:16:49+00:00",
+     "summary": "Butler Bulldogs open season at home against the Tennessee Tech Golden Eagles AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "Crime - AP News",
-     "published": "2026-11-01T08:16:24+00:00",
-     "summary": "Crime AP News"
+     "title": "Brown opens season at home against New Hampshire - AP News",
+     "published": "2026-11-01T09:16:49+00:00",
+     "summary": "Brown opens season at home against New Hampshire AP News"
     },
     {
      "ref": "ap_world#8",
-     "title": "Auto Racing - AP News",
-     "published": "2026-11-01T08:16:24+00:00",
-     "summary": "Auto Racing AP News"
+     "title": "Colorado State starts season at home against Lindenwood (MO) - AP News",
+     "published": "2026-11-01T09:16:49+00:00",
+     "summary": "Colorado State starts season at home against Lindenwood (MO) AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "Golf - AP News",
-     "published": "2026-11-01T08:14:31+00:00",
-     "summary": "Golf AP News"
+     "title": "Air Force hosts Denver for season opener - AP News",
+     "published": "2026-11-01T09:16:49+00:00",
+     "summary": "Air Force hosts Denver for season opener AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "College sports - AP News",
-     "published": "2026-11-01T08:14:31+00:00",
-     "summary": "College sports AP News"
+     "title": "No. 16 Michigan tips off season at home against Oakland - AP News",
+     "published": "2026-11-01T09:10:49+00:00",
+     "summary": "No. 16 Michigan tips off season at home against Oakland AP News"
     },
     {
      "ref": "ap_world#11",
-     "title": "Russia - AP News",
-     "published": "2026-11-01T08:14:30+00:00",
-     "summary": "Russia AP News"
+     "title": "Yale hosts Howard for season opener - AP News",
+     "published": "2026-11-01T09:10:49+00:00",
+     "summary": "Yale hosts Howard for season opener AP News"
     },
     {
      "ref": "ap_world#12",
-     "title": "Soccer - AP News",
-     "published": "2026-11-01T08:14:29+00:00",
-     "summary": "Soccer AP News"
+     "title": "Domestic News - AP News",
+     "published": "2026-11-01T08:18:58+00:00",
+     "summary": "Domestic News AP News"
     },
     {
      "ref": "ap_world#13",
-     "title": "Trending News - AP News",
-     "published": "2026-11-01T08:12:20+00:00",
-     "summary": "Trending News AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Minnesota - AP News",
-     "published": "2026-11-01T08:12:19+00:00",
-     "summary": "Minnesota AP News"
-    },
-    {
-     "ref": "ap_world#15",
      "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
      "published": "2026-11-01T08:12:00+00:00",
      "summary": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "United States - AP News",
-     "published": "2026-11-01T08:10:24+00:00",
-     "summary": "United States AP News"
+     "ref": "ap_world#14",
+     "title": "Oilers visit the Rangers after Nugent-Hopkins’ 2-goal game - AP News",
+     "published": "2026-11-01T08:10:00+00:00",
+     "summary": "Oilers visit the Rangers after Nugent-Hopkins’ 2-goal game AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "New York City - AP News",
-     "published": "2026-11-01T08:10:23+00:00",
-     "summary": "New York City AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "AP News Search - AP News",
-     "published": "2026-11-01T08:10:22+00:00",
-     "summary": "AP News Search AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Deportes - AP News",
-     "published": "2026-11-01T08:10:21+00:00",
-     "summary": "Deportes AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Iran war - AP News",
-     "published": "2026-11-01T07:54:06+00:00",
-     "summary": "Iran war AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Homicide - AP News",
-     "published": "2026-11-01T07:17:09+00:00",
-     "summary": "Homicide AP News"
-    },
-    {
-     "ref": "ap_world#22",
+     "ref": "ap_world#15",
      "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-01T07:05:02+00:00",
+     "published": "2026-11-01T08:04:24+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#16",
+     "title": "Iran war - AP News",
+     "published": "2026-11-01T07:36:02+00:00",
+     "summary": "Iran war AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "International trade - AP News",
+     "published": "2026-11-01T07:28:09+00:00",
+     "summary": "International trade AP News"
+    },
+    {
+     "ref": "ap_world#18",
+     "title": "Violence - AP News",
+     "published": "2026-11-01T07:19:11+00:00",
+     "summary": "Violence AP News"
+    },
+    {
+     "ref": "ap_world#19",
+     "title": "New Zealand finally wins a toss and decides to bowl in the 5th T20 against India - AP News",
+     "published": "2026-11-01T07:14:00+00:00",
+     "summary": "New Zealand finally wins a toss and decides to bowl in the 5th T20 against India AP News"
+    },
+    {
+     "ref": "ap_world#20",
+     "title": "College sports - AP News",
+     "published": "2026-11-01T07:09:00+00:00",
+     "summary": "College sports AP News"
+    },
+    {
+     "ref": "ap_world#21",
+     "title": "Miyu Yamashita holds off Yan Liu to defend her LPGA Maybank Championship title - AP News",
+     "published": "2026-11-01T07:08:00+00:00",
+     "summary": "Miyu Yamashita holds off Yan Liu to defend her LPGA Maybank Championship title AP News"
+    },
+    {
+     "ref": "ap_world#22",
      "title": "For vegans, it's not just what's on the dinner plate, but also what happens after the dinner date - AP News",
      "published": "2026-11-01T06:22:00+00:00",
      "summary": "For vegans, it's not just what's on the dinner plate, but also what happens after the dinner date AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#23",
      "title": "Mexico comes alive during annual Day of the Dead celebrations - AP News",
      "published": "2026-11-01T06:19:00+00:00",
      "summary": "Mexico comes alive during annual Day of the Dead celebrations AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Immigration - AP News",
+     "published": "2026-11-01T06:12:21+00:00",
+     "summary": "Immigration AP News"
     }
    ]
   },
