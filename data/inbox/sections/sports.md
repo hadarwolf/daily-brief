@@ -34,22 +34,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
   "matches": {
    "yesterday": [
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-31T12:30:00Z",
-     "home": "Chelsea",
-     "away": "Man United",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-31T12:30:00Z",
-     "home": "Lincoln City",
-     "away": "Birmingham",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-31T12:30:00Z",
      "home": "Norwich",
@@ -66,6 +50,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-0"
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-31T12:30:00Z",
+     "home": "Chelsea",
+     "away": "Man United",
+     "status": "FINISHED",
+     "score": "2-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-31T12:30:00Z",
+     "home": "Lincoln City",
+     "away": "Birmingham",
+     "status": "FINISHED",
+     "score": "1-3"
+    },
+    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-10-31T13:00:00Z",
      "home": "Levante",
@@ -80,22 +80,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Monza",
      "status": "FINISHED",
      "score": "2-1"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-31T14:30:00Z",
-     "home": "Bremen",
-     "away": "Hoffenheim",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-10-31T14:30:00Z",
-     "home": "M'gladbach",
-     "away": "SC Paderborn",
-     "status": "FINISHED",
-     "score": "0-0"
     },
     {
      "competition": "Bundesliga",
@@ -122,20 +106,68 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-2"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Brentford",
-     "away": "Nottingham",
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-31T14:30:00Z",
+     "home": "Bremen",
+     "away": "Hoffenheim",
      "status": "FINISHED",
      "score": "2-0"
     },
     {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-10-31T14:30:00Z",
+     "home": "M'gladbach",
+     "away": "SC Paderborn",
+     "status": "FINISHED",
+     "score": "0-0"
+    },
+    {
      "competition": "Championship",
      "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Bolton",
-     "away": "Bristol City",
+     "home": "West Ham",
+     "away": "West Brom",
      "status": "FINISHED",
-     "score": "2-3"
+     "score": "1-3"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-31T15:00:00Z",
+     "home": "Man City",
+     "away": "Brighton Hove",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-31T15:00:00Z",
+     "home": "Burnley",
+     "away": "Portsmouth",
+     "status": "FINISHED",
+     "score": "0-0"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-31T15:00:00Z",
+     "home": "Hull City",
+     "away": "Ipswich Town",
+     "status": "FINISHED",
+     "score": "2-2"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-10-31T15:00:00Z",
+     "home": "Coventry City",
+     "away": "Sunderland",
+     "status": "FINISHED",
+     "score": "3-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-10-31T15:00:00Z",
+     "home": "Southampton",
+     "away": "QPR",
+     "status": "FINISHED",
+     "score": "4-1"
     },
     {
      "competition": "Championship",
@@ -180,50 +212,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Coventry City",
-     "away": "Sunderland",
+     "home": "Brentford",
+     "away": "Nottingham",
      "status": "FINISHED",
-     "score": "3-1"
+     "score": "2-0"
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Southampton",
-     "away": "QPR",
+     "home": "Bolton",
+     "away": "Bristol City",
      "status": "FINISHED",
-     "score": "4-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "West Ham",
-     "away": "West Brom",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Man City",
-     "away": "Brighton Hove",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Burnley",
-     "away": "Portsmouth",
-     "status": "FINISHED",
-     "score": "0-0"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-10-31T15:00:00Z",
-     "home": "Hull City",
-     "away": "Ipswich Town",
-     "status": "FINISHED",
-     "score": "2-2"
+     "score": "2-3"
     },
     {
      "competition": "Primera Division",
@@ -234,20 +234,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-0"
     },
     {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-31T15:30:00Z",
-     "home": "Feyenoord",
-     "away": "Sittard",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-10-31T15:30:00Z",
      "home": "Moreirense",
      "away": "Amadora",
      "status": "FINISHED",
      "score": "2-1"
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-31T15:30:00Z",
+     "home": "Feyenoord",
+     "away": "Sittard",
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "Serie A",
@@ -258,12 +258,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-5"
     },
     {
-     "competition": "Primera Division",
+     "competition": "Premier League",
      "kickoff_utc": "2026-10-31T17:30:00Z",
-     "home": "Real Betis",
-     "away": "Málaga",
+     "home": "Tottenham",
+     "away": "Crystal Palace",
      "status": "FINISHED",
-     "score": "2-1"
+     "score": "2-0"
     },
     {
      "competition": "Bundesliga",
@@ -274,20 +274,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-2"
     },
     {
-     "competition": "Premier League",
+     "competition": "Primera Division",
      "kickoff_utc": "2026-10-31T17:30:00Z",
-     "home": "Tottenham",
-     "away": "Crystal Palace",
+     "home": "Real Betis",
+     "away": "Málaga",
      "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-31T17:45:00Z",
-     "home": "Heerenveen",
-     "away": "NEC",
-     "status": "FINISHED",
-     "score": "1-0"
+     "score": "2-1"
     },
     {
      "competition": "Eredivisie",
@@ -298,10 +290,26 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "7-0"
     },
     {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-31T17:45:00Z",
+     "home": "Heerenveen",
+     "away": "NEC",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-10-31T19:00:00Z",
      "home": "Coritiba",
      "away": "Vitória",
+     "status": "FINISHED",
+     "score": "2-0"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-10-31T19:45:00Z",
+     "home": "Troyes",
+     "away": "Le Mans",
      "status": "FINISHED",
      "score": "2-0"
     },
@@ -314,12 +322,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-1"
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-10-31T19:45:00Z",
-     "home": "Troyes",
-     "away": "Le Mans",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-10-31T20:00:00Z",
+     "home": "Ajax",
+     "away": "AZ",
      "status": "FINISHED",
-     "score": "2-0"
+     "score": "1-0"
     },
     {
      "competition": "Primera Division",
@@ -344,14 +352,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Go Ahead",
      "status": "FINISHED",
      "score": "4-0"
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-10-31T20:00:00Z",
-     "home": "Ajax",
-     "away": "AZ",
-     "status": "FINISHED",
-     "score": "1-0"
     },
     {
      "competition": "Primeira Liga",
@@ -390,24 +390,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-11-01T13:30:00Z",
-     "home": "Telstar",
-     "away": "Utrecht",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-01T13:30:00Z",
      "home": "Excelsior",
      "away": "Twente",
      "status": "TIMED",
      "score": null
     },
     {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-01T13:30:00Z",
+     "home": "Telstar",
+     "away": "Utrecht",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-01T14:00:00Z",
-     "home": "Lazio",
-     "away": "Cagliari",
+     "home": "Frosinone",
+     "away": "Torino",
      "status": "TIMED",
      "score": null
     },
@@ -422,8 +422,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-01T14:00:00Z",
-     "home": "Frosinone",
-     "away": "Torino",
+     "home": "Lazio",
+     "away": "Cagliari",
      "status": "TIMED",
      "score": null
     },
@@ -462,16 +462,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-01T16:15:00Z",
-     "home": "Paris FC",
-     "away": "Monaco",
+     "home": "Olympique Lyon",
+     "away": "Angers SCO",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-01T16:15:00Z",
-     "home": "Olympique Lyon",
-     "away": "Angers SCO",
+     "home": "Paris FC",
+     "away": "Monaco",
      "status": "TIMED",
      "score": null
     },
@@ -510,24 +510,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-01T18:00:00Z",
-     "home": "Acad. Viseu",
-     "away": "Rio Ave",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-01T18:00:00Z",
      "home": "Marítimo",
      "away": "Santa Clara",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-01T19:45:00Z",
-     "home": "Marseille",
-     "away": "Toulouse",
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-01T18:00:00Z",
+     "home": "Acad. Viseu",
+     "away": "Rio Ave",
      "status": "TIMED",
      "score": null
     },
@@ -536,6 +528,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-01T19:45:00Z",
      "home": "Juventus",
      "away": "Napoli",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-01T19:45:00Z",
+     "home": "Marseille",
+     "away": "Toulouse",
      "status": "TIMED",
      "score": null
     },
@@ -1163,111 +1163,111 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Lionel Messi benefits from unusual MLS rule that doesn't exist in any other league - SPORTbible",
+     "published": "2026-11-01T09:40:12+00:00",
+     "summary": "Lionel Messi benefits from unusual MLS rule that doesn't exist in any other league SPORTbible"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "5 Yellow Cards Don’t Suspend Lionel Messi Thanks to This Unusual Rule - شبكة تواصل الإخبارية",
+     "published": "2026-11-01T09:33:53+00:00",
+     "summary": "5 Yellow Cards Don’t Suspend Lionel Messi Thanks to This Unusual Rule شبكة تواصل الإخبارية"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "Lionel Messi's only vote: he surprises Ibrahim Maza in the Ballon d'Or voting - Goal.com",
      "published": "2026-11-01T09:07:49+00:00",
      "summary": "Lionel Messi's only vote: he surprises Ibrahim Maza in the Ballon d'Or voting Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#1",
-     "title": "Inter Miami - Charlotte - Soccerway",
-     "published": "2026-11-01T08:24:05+00:00",
-     "summary": "Inter Miami - Charlotte Soccerway"
+     "ref": "gnews_inter_miami#3",
+     "title": "Major League Soccer - Goal.com",
+     "published": "2026-11-01T07:49:51+00:00",
+     "summary": "Major League Soccer Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami vs Charlotte FC: Kalshi Promo Code & $25 Bonus - Squawka",
      "published": "2026-11-01T07:05:11+00:00",
      "summary": "Inter Miami vs Charlotte FC: Kalshi Promo Code & $25 Bonus Squawka"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
+     "title": "Watch New England Revolution vs. Inter Miami CF live today: Who is broadcasting the match on TV and via live stream? - Goal.com",
+     "published": "2026-11-01T07:02:57+00:00",
+     "summary": "Watch New England Revolution vs. Inter Miami CF live today: Who is broadcasting the match on TV and via live stream? Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
      "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
      "published": "2026-11-01T06:43:47+00:00",
      "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Inter Miami are playing for direct qualification to the Concachampions 2027 this weekend - Tribuna.com",
-     "published": "2026-11-01T06:33:04+00:00",
-     "summary": "Inter Miami are playing for direct qualification to the Concachampions 2027 this weekend Tribuna.com"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "New England Revolution vs Inter Miami CF prediction and betting tips 01 November 2026 - Dailysports",
      "published": "2026-11-01T05:38:16+00:00",
      "summary": "New England Revolution vs Inter Miami CF prediction and betting tips 01 November 2026 Dailysports"
     },
     {
-     "ref": "gnews_inter_miami#6",
-     "title": "Watch New England Revolution vs. Inter Miami CF live today: Who is broadcasting the match on TV and via live stream? - Goal.com",
-     "published": "2026-11-01T04:34:10+00:00",
-     "summary": "Watch New England Revolution vs. Inter Miami CF live today: Who is broadcasting the match on TV and via live stream? Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Where to Watch New England Revolution vs. Inter Miami CF: TV Channel, Start Time and Live Stream - Bleacher Nation",
      "published": "2026-11-01T02:23:22+00:00",
      "summary": "Where to Watch New England Revolution vs. Inter Miami CF: TV Channel, Start Time and Live Stream Bleacher Nation"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Revolution host Messi, Inter Miami as they try to seal second place in East - Field Level Media",
      "published": "2026-11-01T01:57:58+00:00",
      "summary": "Revolution host Messi, Inter Miami as they try to seal second place in East Field Level Media"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "MATCHDAY GUIDE | Revs vs. Inter Miami CF (November 1, 2026) - revolutionsoccer.net",
      "published": "2026-11-01T01:45:09+00:00",
      "summary": "MATCHDAY GUIDE | Revs vs. Inter Miami CF (November 1, 2026) revolutionsoccer.net"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Inter Miami vs Charlotte FC: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-11-01T01:35:30+00:00",
      "summary": "Inter Miami vs Charlotte FC: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami vs Charlotte FC: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-11-01T01:19:58+00:00",
      "summary": "Inter Miami vs Charlotte FC: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "New England Revolution v Inter Miami CF Odds - FanDuel Sportsbook",
      "published": "2026-11-01T00:29:46+00:00",
      "summary": "New England Revolution v Inter Miami CF Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "How to watch New England vs Inter Miami match in the USA: Live stream and TV for 2026 MLS season - World Soccer Talk",
      "published": "2026-11-01T00:06:03+00:00",
      "summary": "How to watch New England vs Inter Miami match in the USA: Live stream and TV for 2026 MLS season World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "A strange rule prevents Messi from being suspended despite receiving 5 yellow cards - Goal.com",
      "published": "2026-10-31T23:38:06+00:00",
      "summary": "A strange rule prevents Messi from being suspended despite receiving 5 yellow cards Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Lionel Messi’s Inter Miami can clinch 2027 Concacaf Champions Cup spot with a win vs New England - World Soccer Talk",
      "published": "2026-10-31T23:29:59+00:00",
      "summary": "Lionel Messi’s Inter Miami can clinch 2027 Concacaf Champions Cup spot with a win vs New England World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Cristiano Ronaldo vs Lionel Messi: Carlos Tevez reveals how Argentina’s legend predicts his own goals and w... - World Soccer Talk",
      "published": "2026-10-31T23:11:04+00:00",
      "summary": "Cristiano Ronaldo vs Lionel Messi: Carlos Tevez reveals how Argentina’s legend predicts his own goals and w... World Soccer Talk"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
-     "title": "Major League Soccer - Goal.com",
-     "published": "2026-10-31T22:36:10+00:00",
-     "summary": "Major League Soccer Goal.com"
     },
     {
      "ref": "gnews_inter_miami#18",
@@ -1320,7 +1320,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_israeli_nba#0",
      "title": "NBA: Trail Blazers bounce back, roll over Jazz - Inquirer.net",
-     "published": "2026-11-01T06:43:00+00:00",
+     "published": "2026-11-01T06:49:24+00:00",
      "summary": "NBA: Trail Blazers bounce back, roll over Jazz Inquirer.net"
     },
     {

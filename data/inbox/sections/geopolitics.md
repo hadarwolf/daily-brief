@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "No. 5 Arizona squares off against No. 22 UCLA in Las Vegas, Nevada - AP News",
+     "published": "2026-11-01T09:19:25+00:00",
+     "summary": "No. 5 Arizona squares off against No. 22 UCLA in Las Vegas, Nevada AP News"
+    },
+    {
+     "ref": "ap_world#1",
      "title": "Georgetown opens season at home against Delaware State - AP News",
      "published": "2026-11-01T09:16:53+00:00",
      "summary": "Georgetown opens season at home against Delaware State AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#2",
      "title": "Ball State hosts Arkansas State to start season - AP News",
      "published": "2026-11-01T09:16:52+00:00",
      "summary": "Ball State hosts Arkansas State to start season AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "Arkansas State begins season at home against Toledo - AP News",
      "published": "2026-11-01T09:16:51+00:00",
      "summary": "Arkansas State begins season at home against Toledo AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
+     "title": "South Dakota State hosts Creighton for season opener - AP News",
+     "published": "2026-11-01T09:16:51+00:00",
+     "summary": "South Dakota State hosts Creighton for season opener AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "Baylor Bears tip off season at home against the Fairleigh Dickinson Knights - AP News",
      "published": "2026-11-01T09:16:50+00:00",
      "summary": "Baylor Bears tip off season at home against the Fairleigh Dickinson Knights AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#6",
      "title": "Texas State hosts Texas A&M-CC to tip off season - AP News",
      "published": "2026-11-01T09:16:50+00:00",
      "summary": "Texas State hosts Texas A&M-CC to tip off season AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#7",
+     "title": "Northwestern hosts Binghamton in season opener - AP News",
+     "published": "2026-11-01T09:16:50+00:00",
+     "summary": "Northwestern hosts Binghamton in season opener AP News"
+    },
+    {
+     "ref": "ap_world#8",
      "title": "Charlotte 49ers open season at home against the Richmond Spiders - AP News",
      "published": "2026-11-01T09:16:49+00:00",
      "summary": "Charlotte 49ers open season at home against the Richmond Spiders AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#9",
      "title": "Butler Bulldogs open season at home against the Tennessee Tech Golden Eagles - AP News",
      "published": "2026-11-01T09:16:49+00:00",
      "summary": "Butler Bulldogs open season at home against the Tennessee Tech Golden Eagles AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#10",
      "title": "Brown opens season at home against New Hampshire - AP News",
      "published": "2026-11-01T09:16:49+00:00",
      "summary": "Brown opens season at home against New Hampshire AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#11",
      "title": "Colorado State starts season at home against Lindenwood (MO) - AP News",
      "published": "2026-11-01T09:16:49+00:00",
      "summary": "Colorado State starts season at home against Lindenwood (MO) AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#12",
      "title": "Air Force hosts Denver for season opener - AP News",
      "published": "2026-11-01T09:16:49+00:00",
      "summary": "Air Force hosts Denver for season opener AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#13",
+     "title": "George Washington hosts Navy for season opener - AP News",
+     "published": "2026-11-01T09:16:48+00:00",
+     "summary": "George Washington hosts Navy for season opener AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
+     "published": "2026-11-01T09:12:00+00:00",
+     "summary": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "No. 16 Michigan tips off season at home against Oakland - AP News",
      "published": "2026-11-01T09:10:49+00:00",
      "summary": "No. 16 Michigan tips off season at home against Oakland AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#16",
      "title": "Yale hosts Howard for season opener - AP News",
      "published": "2026-11-01T09:10:49+00:00",
      "summary": "Yale hosts Howard for season opener AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "Domestic News - AP News",
-     "published": "2026-11-01T08:18:58+00:00",
-     "summary": "Domestic News AP News"
+     "ref": "ap_world#17",
+     "title": "Clemson hosts Stetson to open season - AP News",
+     "published": "2026-11-01T09:10:48+00:00",
+     "summary": "Clemson hosts Stetson to open season AP News"
     },
     {
-     "ref": "ap_world#13",
-     "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
-     "published": "2026-11-01T08:12:00+00:00",
-     "summary": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 AP News"
+     "ref": "ap_world#18",
+     "title": "Sports - Europe - AP News",
+     "published": "2026-11-01T08:12:22+00:00",
+     "summary": "Sports - Europe AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#19",
      "title": "Oilers visit the Rangers after Nugent-Hopkins’ 2-goal game - AP News",
      "published": "2026-11-01T08:10:00+00:00",
      "summary": "Oilers visit the Rangers after Nugent-Hopkins’ 2-goal game AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#20",
+     "title": "College sports - AP News",
+     "published": "2026-11-01T08:06:20+00:00",
+     "summary": "College sports AP News"
+    },
+    {
+     "ref": "ap_world#21",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-11-01T08:04:24+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#22",
      "title": "Iran war - AP News",
-     "published": "2026-11-01T07:36:02+00:00",
+     "published": "2026-11-01T07:54:06+00:00",
      "summary": "Iran war AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "International trade - AP News",
-     "published": "2026-11-01T07:28:09+00:00",
-     "summary": "International trade AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Violence - AP News",
-     "published": "2026-11-01T07:19:11+00:00",
-     "summary": "Violence AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "New Zealand finally wins a toss and decides to bowl in the 5th T20 against India - AP News",
-     "published": "2026-11-01T07:14:00+00:00",
-     "summary": "New Zealand finally wins a toss and decides to bowl in the 5th T20 against India AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "College sports - AP News",
-     "published": "2026-11-01T07:09:00+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Miyu Yamashita holds off Yan Liu to defend her LPGA Maybank Championship title - AP News",
-     "published": "2026-11-01T07:08:00+00:00",
-     "summary": "Miyu Yamashita holds off Yan Liu to defend her LPGA Maybank Championship title AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "For vegans, it's not just what's on the dinner plate, but also what happens after the dinner date - AP News",
-     "published": "2026-11-01T06:22:00+00:00",
-     "summary": "For vegans, it's not just what's on the dinner plate, but also what happens after the dinner date AP News"
-    },
-    {
      "ref": "ap_world#23",
-     "title": "Mexico comes alive during annual Day of the Dead celebrations - AP News",
-     "published": "2026-11-01T06:19:00+00:00",
-     "summary": "Mexico comes alive during annual Day of the Dead celebrations AP News"
+     "title": "Accidents - AP News",
+     "published": "2026-11-01T07:38:23+00:00",
+     "summary": "Accidents AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Immigration - AP News",
-     "published": "2026-11-01T06:12:21+00:00",
-     "summary": "Immigration AP News"
+     "title": "International trade - AP News",
+     "published": "2026-11-01T07:28:09+00:00",
+     "summary": "International trade AP News"
     }
    ]
   },
@@ -174,51 +174,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "published": "2026-11-01T09:28:06+00:00",
+     "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Shops looted as German cost of living protests turn violent",
      "published": "2026-11-01T08:43:00+00:00",
      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "India's opposition holds mega rally seeking election chief's resignation",
      "published": "2026-11-01T07:00:55+00:00",
      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
      "published": "2026-11-01T06:03:57+00:00",
      "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
      "published": "2026-11-01T05:26:02+00:00",
      "summary": "The supermodel and TV host provided a gory new shock at her New York event."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
      "published": "2026-11-01T01:37:26+00:00",
      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
      "published": "2026-11-01T00:55:06+00:00",
      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
      "published": "2026-10-31T23:06:13+00:00",
      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka."
-    },
-    {
-     "ref": "bbc_world#7",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "published": "2026-10-31T22:11:45+00:00",
-     "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
     },
     {
      "ref": "bbc_world#8",
