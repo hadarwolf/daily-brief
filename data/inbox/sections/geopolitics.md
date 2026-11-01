@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "College Football Full FBS Schedule - AP News",
-     "published": "2026-11-01T03:08:39+00:00",
-     "summary": "College Football Full FBS Schedule AP News"
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-11-01T08:38:41+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "Texas - AP News",
-     "published": "2026-11-01T03:07:07+00:00",
-     "summary": "Texas AP News"
+     "title": "War and unrest - AP News",
+     "published": "2026-11-01T08:20:32+00:00",
+     "summary": "War and unrest AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-01T02:54:12+00:00",
-     "summary": "College football | Latest News & Updates AP News"
+     "title": "Ukraine - AP News",
+     "published": "2026-11-01T08:20:28+00:00",
+     "summary": "Ukraine AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
-     "published": "2026-11-01T01:56:00+00:00",
-     "summary": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter AP News"
+     "title": "Texas - AP News",
+     "published": "2026-11-01T08:19:15+00:00",
+     "summary": "Texas AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens - AP News",
-     "published": "2026-11-01T01:40:00+00:00",
-     "summary": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens AP News"
+     "title": "South America - AP News",
+     "published": "2026-11-01T08:16:30+00:00",
+     "summary": "South America AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "Federal officials investigate arson at beleaguered police department in Mississippi - AP News",
-     "published": "2026-11-01T01:38:00+00:00",
-     "summary": "Federal officials investigate arson at beleaguered police department in Mississippi AP News"
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-01T08:16:26+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "Brazil - AP News",
-     "published": "2026-11-01T01:28:42+00:00",
-     "summary": "Brazil AP News"
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-01T08:16:24+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - AP News",
-     "published": "2026-11-01T01:28:00+00:00",
-     "summary": "FBI blames North Korea for stolen billions from Binance in biggest hack in history AP News"
+     "title": "Crime - AP News",
+     "published": "2026-11-01T08:16:24+00:00",
+     "summary": "Crime AP News"
     },
     {
      "ref": "ap_world#8",
-     "title": "BETH HARRIS - AP News",
-     "published": "2026-11-01T01:18:39+00:00",
-     "summary": "BETH HARRIS AP News"
+     "title": "Auto Racing - AP News",
+     "published": "2026-11-01T08:16:24+00:00",
+     "summary": "Auto Racing AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "AL champion Rays pick up $20 million option on ace pitcher Drew Rasmussen for 2027 - AP News",
-     "published": "2026-11-01T01:16:00+00:00",
-     "summary": "AL champion Rays pick up $20 million option on ace pitcher Drew Rasmussen for 2027 AP News"
+     "title": "Golf - AP News",
+     "published": "2026-11-01T08:14:31+00:00",
+     "summary": "Golf AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin - AP News",
-     "published": "2026-11-01T01:10:00+00:00",
-     "summary": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin AP News"
-    },
-    {
-     "ref": "ap_world#11",
      "title": "College sports - AP News",
-     "published": "2026-11-01T01:07:33+00:00",
+     "published": "2026-11-01T08:14:31+00:00",
      "summary": "College sports AP News"
     },
     {
+     "ref": "ap_world#11",
+     "title": "Russia - AP News",
+     "published": "2026-11-01T08:14:30+00:00",
+     "summary": "Russia AP News"
+    },
+    {
      "ref": "ap_world#12",
-     "title": "No. 4 Indiana forces overtime with a 60-yard FG then beats Minnesota 23-16 - AP News",
-     "published": "2026-11-01T00:52:00+00:00",
-     "summary": "No. 4 Indiana forces overtime with a 60-yard FG then beats Minnesota 23-16 AP News"
+     "title": "Soccer - AP News",
+     "published": "2026-11-01T08:14:29+00:00",
+     "summary": "Soccer AP News"
     },
     {
      "ref": "ap_world#13",
-     "title": "Republicans on defense in Texas while Democrats in Michigan can’t get on the same page - AP News",
-     "published": "2026-11-01T00:48:00+00:00",
-     "summary": "Republicans on defense in Texas while Democrats in Michigan can’t get on the same page AP News"
+     "title": "Trending News - AP News",
+     "published": "2026-11-01T08:12:20+00:00",
+     "summary": "Trending News AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "No. 4 Indiana needs matching 60-yard field goal, overtime stop to outlast Minnesota 23-16 - AP News",
-     "published": "2026-11-01T00:24:00+00:00",
-     "summary": "No. 4 Indiana needs matching 60-yard field goal, overtime stop to outlast Minnesota 23-16 AP News"
+     "title": "Minnesota - AP News",
+     "published": "2026-11-01T08:12:19+00:00",
+     "summary": "Minnesota AP News"
     },
     {
      "ref": "ap_world#15",
-     "title": "Anti-riot measures taken by police in Barcelona - AP News",
-     "published": "2026-11-01T00:06:00+00:00",
-     "summary": "Anti-riot measures taken by police in Barcelona AP News"
+     "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
+     "published": "2026-11-01T08:12:00+00:00",
+     "summary": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 AP News"
     },
     {
      "ref": "ap_world#16",
-     "title": "Heavy rains expected to bring flooding risk to already saturated parts of the US Southwest - AP News",
-     "published": "2026-10-31T23:57:00+00:00",
-     "summary": "Heavy rains expected to bring flooding risk to already saturated parts of the US Southwest AP News"
+     "title": "United States - AP News",
+     "published": "2026-11-01T08:10:24+00:00",
+     "summary": "United States AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "Europe’s youth return to the streets for another weekend of protests, in photos - AP News",
-     "published": "2026-10-31T23:45:00+00:00",
-     "summary": "Europe’s youth return to the streets for another weekend of protests, in photos AP News"
+     "title": "New York City - AP News",
+     "published": "2026-11-01T08:10:23+00:00",
+     "summary": "New York City AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "Immigration - AP News",
-     "published": "2026-10-31T23:43:01+00:00",
-     "summary": "Immigration AP News"
+     "title": "AP News Search - AP News",
+     "published": "2026-11-01T08:10:22+00:00",
+     "summary": "AP News Search AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "A third weekend of protests in France as youth-led rallies sweep Europe - AP News",
-     "published": "2026-10-31T23:38:00+00:00",
-     "summary": "A third weekend of protests in France as youth-led rallies sweep Europe AP News"
+     "title": "Deportes - AP News",
+     "published": "2026-11-01T08:10:21+00:00",
+     "summary": "Deportes AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "US plans to deport Afghans back to their home country through Pakistan, documents show - AP News",
-     "published": "2026-10-31T23:29:00+00:00",
-     "summary": "US plans to deport Afghans back to their home country through Pakistan, documents show AP News"
+     "title": "Iran war - AP News",
+     "published": "2026-11-01T07:54:06+00:00",
+     "summary": "Iran war AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Castellanos starts at QB over Hammond and No. 13 Texas Tech beats Arizona a week after 1st loss - AP News",
-     "published": "2026-10-31T22:53:00+00:00",
-     "summary": "Castellanos starts at QB over Hammond and No. 13 Texas Tech beats Arizona a week after 1st loss AP News"
+     "title": "Homicide - AP News",
+     "published": "2026-11-01T07:17:09+00:00",
+     "summary": "Homicide AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded - AP News",
-     "published": "2026-10-31T22:34:00+00:00",
-     "summary": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded AP News"
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-01T07:05:02+00:00",
+     "summary": "College football | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds - AP News",
-     "published": "2026-10-31T22:32:00+00:00",
-     "summary": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds AP News"
+     "title": "For vegans, it's not just what's on the dinner plate, but also what happens after the dinner date - AP News",
+     "published": "2026-11-01T06:22:00+00:00",
+     "summary": "For vegans, it's not just what's on the dinner plate, but also what happens after the dinner date AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Pressure piles on Carrick as 10-man Man United beaten at Chelsea and Man City lose again - AP News",
-     "published": "2026-10-31T22:25:00+00:00",
-     "summary": "Pressure piles on Carrick as 10-man Man United beaten at Chelsea and Man City lose again AP News"
+     "title": "Mexico comes alive during annual Day of the Dead celebrations - AP News",
+     "published": "2026-11-01T06:19:00+00:00",
+     "summary": "Mexico comes alive during annual Day of the Dead celebrations AP News"
     }
    ]
   },
@@ -175,140 +175,140 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "bbc_world#0",
      "title": "Shops looted as German cost of living protests turn violent",
-     "published": "2026-11-01T01:59:57+00:00",
-     "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
+     "published": "2026-11-01T08:43:00+00:00",
+     "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
     },
     {
      "ref": "bbc_world#1",
+     "title": "India's opposition holds mega rally seeking election chief's resignation",
+     "published": "2026-11-01T07:00:55+00:00",
+     "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+     "published": "2026-11-01T06:03:57+00:00",
+     "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+     "published": "2026-11-01T05:26:02+00:00",
+     "summary": "The supermodel and TV host provided a gory new shock at her New York event."
+    },
+    {
+     "ref": "bbc_world#4",
      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
      "published": "2026-11-01T01:37:26+00:00",
      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#5",
      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
      "published": "2026-11-01T00:55:06+00:00",
      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary."
     },
     {
-     "ref": "bbc_world#3",
-     "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-     "published": "2026-11-01T00:12:07+00:00",
-     "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
-    },
-    {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#6",
      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
      "published": "2026-10-31T23:06:13+00:00",
      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#7",
      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
      "published": "2026-10-31T22:11:45+00:00",
      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
     },
     {
-     "ref": "bbc_world#6",
-     "title": "Thousands demonstrate in Paris as protests spread across Europe",
-     "published": "2026-10-31T21:29:01+00:00",
-     "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
-    },
-    {
-     "ref": "bbc_world#7",
-     "title": "Thousands demonstrate in Paris as protests spread across Europe",
-     "published": "2026-10-31T21:29:01+00:00",
-     "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
-    },
-    {
      "ref": "bbc_world#8",
+     "title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "published": "2026-10-31T21:29:01+00:00",
+     "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
+    },
+    {
+     "ref": "bbc_world#9",
+     "title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "published": "2026-10-31T21:29:01+00:00",
+     "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
+    },
+    {
+     "ref": "bbc_world#10",
      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
      "published": "2026-10-31T19:22:26+00:00",
      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#11",
      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
      "published": "2026-10-31T17:53:35+00:00",
      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#12",
      "title": "Emotional reunions with loved ones for Oleshky evacuees",
      "published": "2026-10-31T16:55:47+00:00",
      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#13",
      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
      "published": "2026-10-31T15:16:20+00:00",
      "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#14",
      "title": "Ethiopian PM puts ministers through military training",
      "published": "2026-10-31T14:28:15+00:00",
      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
     },
     {
-     "ref": "bbc_world#13",
-     "title": "Watch: Blood donors get a Halloween fright in Thailand",
-     "published": "2026-10-31T12:50:45+00:00",
-     "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok."
-    },
-    {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
      "published": "2026-10-31T09:16:14+00:00",
      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Spain train disaster clouds Sánchez chances of re-election",
      "published": "2026-10-31T05:44:21+00:00",
      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "The fight to save Canadian town threatened by Trump's tariffs",
      "published": "2026-10-31T02:39:25+00:00",
      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
      "published": "2026-10-31T02:12:19+00:00",
      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "The Indian chef who brought curry to America - then vanished",
      "published": "2026-10-31T02:02:16+00:00",
      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
      "published": "2026-10-31T01:32:33+00:00",
      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#21",
      "title": "Global nature talks reach deal but money remains an issue",
      "published": "2026-10-31T01:27:05+00:00",
      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#22",
      "title": "Police deployed during stand-off over control of top Poland court",
      "published": "2026-10-31T01:11:43+00:00",
      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
-    },
-    {
-     "ref": "bbc_world#22",
-     "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
-     "published": "2026-10-31T00:16:03+00:00",
-     "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out."
     },
     {
      "ref": "bbc_world#23",
@@ -414,153 +414,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Bulgaria votes in presidential runoff after tight first round - Reuters",
+     "published": "2026-11-01T08:51:44+00:00",
+     "summary": "Bulgaria votes in presidential runoff after tight first round Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high - Reuters",
+     "published": "2026-11-01T07:42:09+00:00",
+     "summary": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "India's October net goods and services tax collection rises 25.6% year-on-year - Reuters",
+     "published": "2026-11-01T07:25:43+00:00",
+     "summary": "India's October net goods and services tax collection rises 25.6% year-on-year Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "India's October coal-fired power output jumps most in 3 years as hydro generation slumps - Reuters",
+     "published": "2026-11-01T06:54:00+00:00",
+     "summary": "India's October coal-fired power output jumps most in 3 years as hydro generation slumps Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Turkey appoints Muhsin Atci as head of Capital Markets Board - Reuters",
+     "published": "2026-11-01T06:41:00+00:00",
+     "summary": "Turkey appoints Muhsin Atci as head of Capital Markets Board Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
+     "title": "Indian authorities tighten security ahead of big opposition march in Delhi - Reuters",
+     "published": "2026-11-01T04:20:00+00:00",
+     "summary": "Indian authorities tighten security ahead of big opposition march in Delhi Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
      "title": "Hanwha signs $269 million shipbuilding contract for US Navy - Reuters",
      "published": "2026-11-01T01:45:00+00:00",
      "summary": "Hanwha signs $269 million shipbuilding contract for US Navy Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#7",
      "title": "Taiwan says China harassing shipping with east coast patrol - Reuters",
      "published": "2026-11-01T01:20:00+00:00",
      "summary": "Taiwan says China harassing shipping with east coast patrol Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#8",
      "title": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants' - Reuters",
      "published": "2026-11-01T00:45:00+00:00",
      "summary": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants' Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#9",
      "title": "South Korea exports nearly double in October on AI investment boom - Reuters",
      "published": "2026-11-01T00:39:00+00:00",
      "summary": "South Korea exports nearly double in October on AI investment boom Reuters"
     },
     {
-     "ref": "reuters_world#4",
-     "title": "After Louvre heist and string of thefts, Europe's smaller museums are on guard - Reuters",
-     "published": "2026-10-31T23:49:30+00:00",
-     "summary": "After Louvre heist and string of thefts, Europe's smaller museums are on guard Reuters"
-    },
-    {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#10",
      "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead - Reuters",
      "published": "2026-10-31T23:49:00+00:00",
      "summary": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#11",
      "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting - Reuters",
      "published": "2026-10-31T22:58:33+00:00",
      "summary": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#12",
      "title": "FBI links North Korea to theft of $6 billion from Binance - Reuters",
      "published": "2026-10-31T21:44:23+00:00",
      "summary": "FBI links North Korea to theft of $6 billion from Binance Reuters"
     },
     {
-     "ref": "reuters_world#8",
-     "title": "Thousands return to Lisbon square, press government to scrap rental bill - Reuters",
-     "published": "2026-10-31T21:22:49+00:00",
-     "summary": "Thousands return to Lisbon square, press government to scrap rental bill Reuters"
-    },
-    {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#13",
      "title": "Polish PM Tusk vows support for tribunal amid court crisis - Reuters",
      "published": "2026-10-31T21:13:03+00:00",
      "summary": "Polish PM Tusk vows support for tribunal amid court crisis Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#14",
      "title": "Canada advancing its 'middle power' strategy with new trade deals, Anand says - Reuters",
      "published": "2026-10-31T21:11:43+00:00",
      "summary": "Canada advancing its 'middle power' strategy with new trade deals, Anand says Reuters"
     },
     {
-     "ref": "reuters_world#11",
-     "title": "Rubio, Brazil's foreign minister to meet again as diplomatic tensions simmer - Reuters",
-     "published": "2026-10-31T20:07:12+00:00",
-     "summary": "Rubio, Brazil's foreign minister to meet again as diplomatic tensions simmer Reuters"
-    },
-    {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#15",
      "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters",
      "published": "2026-10-31T20:00:36+00:00",
      "summary": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#16",
      "title": "Ghana says Russia to back 2,000 MW nuclear plant, deepen ties - Reuters",
      "published": "2026-10-31T19:45:43+00:00",
      "summary": "Ghana says Russia to back 2,000 MW nuclear plant, deepen ties Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#17",
+     "title": "Police clear new Lisbon housing protest camp after thousands rally - Reuters",
+     "published": "2026-10-31T19:39:00+00:00",
+     "summary": "Police clear new Lisbon housing protest camp after thousands rally Reuters"
+    },
+    {
+     "ref": "reuters_world#18",
      "title": "UN says Yemeni staff member dies in Houthi custody, demands investigation - Reuters",
      "published": "2026-10-31T19:37:51+00:00",
      "summary": "UN says Yemeni staff member dies in Houthi custody, demands investigation Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#19",
      "title": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions - Reuters",
      "published": "2026-10-31T18:41:19+00:00",
      "summary": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#20",
      "title": "Borsa Istanbul general manager detained in fund investigation, Anadolu Agency says - Reuters",
      "published": "2026-10-31T18:27:43+00:00",
      "summary": "Borsa Istanbul general manager detained in fund investigation, Anadolu Agency says Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#21",
      "title": "US Senate candidate El-Sayed wants Democratic rival to stay away, source says - Reuters",
      "published": "2026-10-31T18:20:00+00:00",
      "summary": "US Senate candidate El-Sayed wants Democratic rival to stay away, source says Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#22",
      "title": "US, Canada see growing interest in limited ceasefire in Black Sea - Reuters",
      "published": "2026-10-31T17:39:00+00:00",
      "summary": "US, Canada see growing interest in limited ceasefire in Black Sea Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#23",
      "title": "Jordan stops armed group from attempting to enter from Syria, armed forces say - Reuters",
      "published": "2026-10-31T17:35:50+00:00",
      "summary": "Jordan stops armed group from attempting to enter from Syria, armed forces say Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#24",
      "title": "FSB says US warned Russia of possible Moscow attack - Reuters",
      "published": "2026-10-31T16:37:08+00:00",
      "summary": "FSB says US warned Russia of possible Moscow attack Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "When buses stopped running on Brazil election day, 'Lula's Army' grabbed their car keys - Reuters",
-     "published": "2026-10-31T16:34:20+00:00",
-     "summary": "When buses stopped running on Brazil election day, 'Lula's Army' grabbed their car keys Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire - Reuters",
-     "published": "2026-10-31T16:26:58+00:00",
-     "summary": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says - Reuters",
-     "published": "2026-10-31T16:14:09+00:00",
-     "summary": "Meta builds humanoid robot with Chinese startup Fourier, The Information says Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Abuse survivors to press Church on accountability during pope's trip to South America - Reuters",
-     "published": "2026-10-31T16:09:02+00:00",
-     "summary": "Abuse survivors to press Church on accountability during pope's trip to South America Reuters"
     }
    ]
   }

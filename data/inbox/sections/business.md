@@ -18,21 +18,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+     "published": "2026-11-01T05:14:49+00:00",
+     "summary": "Macau’s gaming revenue declined for a fifth straight month in October, as weak spending by high-end players offset a surge in Golden Week visitors."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
      "published": "2026-11-01T00:00:00+00:00",
      "summary": "Asia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense."
     },
     {
-     "ref": "bloomberg_markets#1",
-     "title": "Turkey Appoints New Top Market Regulator in Fund Crisis Response",
-     "published": "2026-10-31T21:50:23+00:00",
-     "summary": "Turkish President Recep Tayyip Erdogan appointed Muhsin Atci, head of the nation’s tax inspection board, as chief of Turkey’s market regulator to help deal with an investment fund crisis that rocked financial markets."
-    },
-    {
      "ref": "bloomberg_markets#2",
-     "title": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
-     "published": "2026-10-31T20:41:04+00:00",
-     "summary": "Secretary of State Marco Rubio defended the US decision to include Russia in this year’s Group of 20 meetings after criticism from the European Union and other allies, calling dialogue the only way to end the war in Ukraine."
+     "title": "Turkey Picks Tax Chief to Lead Markets Board After Fund Rout",
+     "published": "2026-10-31T21:50:23+00:00",
+     "summary": "Turkish President Recep Tayyip Erdogan appointed Muhsin Atci, head of the nation’s tax inspection body, as chief of the Capital Markets Board to help deal with an investment fund crisis that rocked financial markets."
     },
     {
      "ref": "bloomberg_markets#3",
@@ -48,72 +48,48 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#5",
-     "title": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
-     "published": "2026-10-31T15:00:00+00:00",
-     "summary": "With control of Congress hanging on a number of razor-thin races, both Democrats and Republicans are seizing on voters’ frustrations with rising credit card debt to win over inflation-weary Americans."
-    },
-    {
-     "ref": "bloomberg_markets#6",
-     "title": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
-     "published": "2026-10-31T14:11:01+00:00",
-     "summary": "Vladimir Putin’s possible attendance at the Group of 20 leaders’ summit in Florida in December would risk regularizing Russia’s return to international forums while its war in Ukraine continues, according to the European Union’s top diplomat Kaja Kallas."
-    },
-    {
-     "ref": "bloomberg_markets#7",
      "title": "Stadiums Rethink the Women’s Restroom",
      "published": "2026-10-31T13:48:28+00:00",
      "summary": "On Bloomberg This Weekend, Writer and Journalist Benton Graham explains how stadiums and arenas are redesigning restrooms as women’s sports grow and venues recognize that equal restroom space does not necessarily mean equal access. Speaking with host Lisa Mateo, Graham says newer venues are dedicating more restroom capacity to women, while upgrades at older stadiums can carry significant costs. (S"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#6",
      "title": "Haunted Attractions Help Revive Neighborhoods",
      "published": "2026-10-31T13:34:43+00:00",
      "summary": "Journalist Elizabeth Yuko tells Bloomberg This Weekend how haunted attractions are drawing visitors and investment to struggling neighborhoods, including Baltimore’s Old Town and former industrial districts in Kansas City and Salt Lake City. Speaking with hosts David Gura and Lisa Mateo, Yuko explains how haunted-house operators can become unlikely partners in urban revitalization by investing in "
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#7",
      "title": "EU Foreign Policy Chief Warns Against Normalizing Russia",
      "published": "2026-10-31T13:15:03+00:00",
      "summary": "EU foreign policy chief Kaja Kallas tells Bloomberg This Weekend that Russia is escalating its war in Ukraine and is not serious about peace, criticizing Russian Foreign Minister Sergei Lavrov’s statements at the G20 foreign ministers’ meeting in Atlanta and warning against normalizing Moscow on the international stage. Speaking with host David Gura, Kallas also calls for a diplomatic solution to "
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#8",
      "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
      "published": "2026-10-31T13:00:00+00:00",
      "summary": "The last two weeks were supposed to bring some clarity to a stock market wobbling on a series of risks, particularly doubts about heavy spending on artificial intelligence, as a series of technology giants reported their earnings."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#9",
      "title": "By The Way: Headlines You May Have Missed",
      "published": "2026-10-31T12:50:53+00:00",
      "summary": "Spirit Halloween's best year, America's love for the giant skeleton decoration, the Cheesecake Factory says the look is the point, and Cheerios introducing a ziploc-sealed bag: Join Nathan Hager, David Gura and Lisa Mateo for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
-     "title": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
-     "published": "2026-10-31T12:27:56+00:00",
-     "summary": "Senegalese lawmakers have again rejected the government’s revised 2026 finance law, prolonging a standoff that threatens to delay approval of a crucial International Monetary Fund program."
-    },
-    {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#10",
      "title": "Russia Extends Ban on Most Diesel Exports Through January",
      "published": "2026-10-31T12:13:37+00:00",
      "summary": "Russia’s government has extended a general ban on diesel exports by producers until the end of January while still allowing some volumes to flow to the global market."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#11",
      "title": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
      "published": "2026-10-31T11:30:00+00:00",
      "summary": "As lawyers for Mercuria Energy Group presented the commodity giant’s case against the Baltic Exchange this week, a group of smartly dressed Norwegian businessmen listened intently to the arguments from the back of a packed London courtroom."
     },
     {
-     "ref": "bloomberg_markets#15",
-     "title": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
-     "published": "2026-10-31T09:39:45+00:00",
-     "summary": "Angola, sub-Saharan Africa’s second-largest oil producer, plans to cut spending on fuel subsidies in 2027 without significant increases in pump prices, relying instead on other measures to reduce costs."
-    },
-    {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#12",
      "title": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
      "published": "2026-10-30T11:00:00+00:00",
      "summary": "Wall Street expects Democrats to win at least one of the houses of Congress in the US midterm elections on Tuesday, setting the stage for a potentially volatile ride in the stock and bond markets with artificial intelligence oversight, defense spending and crypto legislation on the table."
@@ -126,57 +102,63 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals",
-     "published": "2026-11-01T01:00:06+00:00",
-     "summary": "Archion chief says repair network offers competitive strength after Thai floods bring service quality to fore"
+     "title": "Oil majors resist pressure to invest in new refineries as fuel prices keep rising",
+     "published": "2026-11-01T05:00:18+00:00",
+     "summary": "Conflicts in the Middle East and Ukraine have slashed fuel production capacity and sent margins way up"
     },
     {
      "ref": "ft_home#1",
+     "title": "Quant hedge fund to spin out of Tudor in record $9bn launch",
+     "published": "2026-11-01T05:00:18+00:00",
+     "summary": "Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year"
+    },
+    {
+     "ref": "ft_home#2",
+     "title": "Germany fails to meet winter gas storage target",
+     "published": "2026-11-01T05:00:17+00:00",
+     "summary": "Prices could rise for other EU countries as bloc’s biggest economy will be forced to rely on more spot market purchases"
+    },
+    {
+     "ref": "ft_home#3",
+     "title": "Bond investors sit out ‘most consequential’ US midterm elections in years",
+     "published": "2026-11-01T05:00:17+00:00",
+     "summary": "Big fund managers are pressing ‘pause’ as vote and economic data releases loom"
+    },
+    {
+     "ref": "ft_home#4",
+     "title": "Russia forced to ship grain via Arctic as Black Sea battles rage",
+     "published": "2026-11-01T05:00:09+00:00",
+     "summary": "Farmers are exporting agricultural goods from ports thousands of miles away, driving up costs for overseas buyers"
+    },
+    {
+     "ref": "ft_home#5",
+     "title": "Military briefing: what would another US-Iran conflict look like?",
+     "published": "2026-11-01T05:00:09+00:00",
+     "summary": "US and Israeli options to escalate range from maritime campaigns to attempting regime change but risk provoking retaliation"
+    },
+    {
+     "ref": "ft_home#6",
+     "title": "EU leaders risk breaking their promise to help European start-ups",
+     "published": "2026-11-01T05:00:09+00:00",
+     "summary": "The bloc is addressing the funding gap for innovators but going the wrong way on harmonising rules to help them stay in Europe"
+    },
+    {
+     "ref": "ft_home#7",
+     "title": "New Zealand’s kingmaker could be a 38-year-old ex-KPMG consultant",
+     "published": "2026-11-01T05:00:09+00:00",
+     "summary": "Fiji-born Qiulae Wong backs ‘land tax’ to fund universal basic income and push down housing prices"
+    },
+    {
+     "ref": "ft_home#8",
      "title": "Michigan feud threatens Democratic unity in key Senate race",
      "published": "2026-10-31T23:57:07+00:00",
      "summary": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel"
     },
     {
-     "ref": "ft_home#2",
-     "title": "Tusk vows to press on with overhaul of Poland’s judiciary",
-     "published": "2026-10-31T22:51:11+00:00",
-     "summary": "Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup"
-    },
-    {
-     "ref": "ft_home#3",
-     "title": "Investors trim growth bets over fears of US economy’s AI exposure",
-     "published": "2026-10-31T14:00:02+00:00",
-     "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending"
-    },
-    {
-     "ref": "ft_home#4",
-     "title": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
-     "published": "2026-10-31T13:38:29+00:00",
-     "summary": "Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign"
-    },
-    {
-     "ref": "ft_home#5",
-     "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
-     "published": "2026-10-31T12:00:01+00:00",
-     "summary": "Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in"
-    },
-    {
-     "ref": "ft_home#6",
-     "title": "The right to be apolitical",
-     "published": "2026-10-31T05:01:09+00:00",
-     "summary": "The film ‘Fatherland’ is too harsh on the uncommitted"
-    },
-    {
-     "ref": "ft_home#7",
-     "title": "Is this the first clear evidence of AI’s impact on the labour market?",
-     "published": "2026-10-31T05:00:31+00:00",
-     "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier"
-    },
-    {
-     "ref": "ft_home#8",
-     "title": "Donald Trump’s endgame",
-     "published": "2026-10-31T05:00:20+00:00",
-     "summary": "What will the US president’s last two years in Washington look like?"
+     "ref": "ft_home#9",
+     "title": "Evacuees from Russian-occupied city arrive in Ukraine",
+     "published": "2026-10-31T15:17:34+00:00",
+     "summary": "Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv"
     }
    ]
   },
@@ -186,152 +168,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "המיליארדר הצ'כי מיכאל סטרנד הגיש הצעת רכש מפתיעה של 30 מיליארד יורו ליצרנית ריי באן",
+     "published": "2026-11-01T08:39:23+00:00",
+     "summary": "מיכאל סטרנד, שהתעשר מעסקי נשק, מבקש להרחיב את השקעותיו באיטליה באמצעות רכישת חברת ההחזקות של משפחת דל וקיו ■ אלא ששמונת יורשיו של מייסד אימפריית המשקפיים מסוכסכים ביניהם, וכל עסקה תחייב את הסכמתם"
+    },
+    {
+     "ref": "themarker#1",
+     "title": "בורסת הקריפטו בייננס מחדשת את המשיכות; ה-FBI: צפון קוריאה אחראית לפריצה",
+     "published": "2026-11-01T07:41:04+00:00",
+     "summary": "בפריצה לבורסת הקריפטו הגדולה בעולם בייננס נגנבו 6.3 מיליארד דולר במטבעות קריפטו ■ החברה התחייבה להחזיר את הכסף במלואו ללקוחותיה"
+    },
+    {
+     "ref": "themarker#2",
+     "title": "הבהלה ניכרת: OpenAI חתכה ב–10 מיליארד דולר את יעד הגיוס — וממהרת להקדים את אנתרופיק",
+     "published": "2026-11-01T07:36:20+00:00",
+     "summary": "לפי דיווח של FT, קרנות הון סיכון בהן סקויה, פאונדרס ואנדריסן צפויות להשתתף בסבב שיגייס 20 מיליארד דולר ■ גם השווי הופחת, מ-1.4 טריליון דולר ל-1.25 טריליון דולר"
+    },
+    {
+     "ref": "themarker#3",
+     "title": "מתוק אבל מר",
+     "published": "2026-11-01T07:19:09+00:00",
+     "summary": "בעונת הפסטיבלים השנה נאלצו ההודים לשלם יותר עבור הממתקים שלהם בגלל זינוק במחירי הסוכר. במדינה מפנים אצבע לממשלתו של נרנדרה מודי"
+    },
+    {
+     "ref": "themarker#4",
+     "title": "בצל חשש ממלחמה עם איראן, פלונטר פוליטי ושחיקת הרווחים: זה הזמן לשבת על הגדר",
+     "published": "2026-11-01T06:19:32+00:00",
+     "summary": "השותפות במאגר לווייתן דורשות להרחיב את אזורי הזיכיון, מי משלם את החשבון של ה–AI, איך המינוי החדש של קוינט הוא חלק משיטת העבודה של תשובה — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
+    },
+    {
+     "ref": "themarker#5",
+     "title": "אלה החברות שעלולות להיפגע קשה במיוחד מתבוסת הרפובליקאים בבחירות",
+     "published": "2026-11-01T04:17:23+00:00",
+     "summary": "שוקי החיזוי הגדולים, פלטפורמות קריפטו וקרנות השקעה מצטיידות בלוביסטים ועורכי דין לקראת חקירות בקונגרס האמריקאי שהדמוקרטים מתכננים ■ הדמוקרטים אומרים שברצונם לחשוף את השחיתות של טראמפ ואת ניגוד העניינים שלו"
+    },
+    {
+     "ref": "themarker#6",
+     "title": "פתיחת דלתות וקיצוץ ביורוקרטיה: קוינט הוא מינוי נוסף בשיטת העבודה של תשובה",
+     "published": "2026-11-01T04:13:35+00:00",
+     "summary": "יצחק תשובה ידוע בחיבתו להעסקת כוכבים לשעבר מהשירות הציבורי, מהפוליטיקה ואפילו מהתקשורת, לאו דווקא בתחום התמחותם ■ תפקידם הוא להתחבר בכל זמן נתון לטלפון האישי של השר או של מנכ\"ל המשרד הממשלתי, ולהסדיר בתוך שעות את מה שדורש מאחרים התרוצצות של חודשים ואף של שנים"
+    },
+    {
+     "ref": "themarker#7",
+     "title": "לעבור לאפיק סולידי, להשקיע בחו\"ל או לא לגעת: מה לעשות עם הכסף אחרי הבחירות?",
+     "published": "2026-11-01T04:12:33+00:00",
+     "summary": "שאלנו כמה מנהלי השקעות מה לעשות עם הכסף בתקופה שאחרי הבחירות ■ בעוד שעל חוסר הוודאות בטווח הקצר כולם הסכימו, הדעות לגבי הצעדים המומלצים היו שונות כשהרוב הציעו לא לעשות דבר ■ \"הסיכויים להמשך הממשלה הנוכחית שהגבירה את הסיכונים לסנקציות נמוכים, וזה צריך להרגיע את המשקיעים\""
+    },
+    {
+     "ref": "themarker#8",
+     "title": "בין 2 טריליון דולר לאובדן השקעה: כמה באמת שווה אנתרופיק?",
+     "published": "2026-11-01T04:10:52+00:00",
+     "summary": "הנפקת ענקית ה–AI מתקרבת, אבל גם המומחים מתקשים להסכים על מחירה ■ בעוד השוק מצפה לשווי של עד 2 טריליון דולר, ניתוח של \"גורו\"' של הערכות שווי למניות מצביע על פער עצום בין התרחישים ■ בסופו של דבר, השווי של אנתרופיק ייקבע במידה רבה על ידי האווירה בשוק כלפי AI ביום ההנפקה ובתחילת המסחר"
+    },
+    {
+     "ref": "themarker#9",
+     "title": "מרוב הייטק, בסוף לא תישאר פה מדינה",
+     "published": "2026-11-01T04:09:07+00:00",
+     "summary": "סירוב אחד של הרמטכ\"ל אייל זמיר מנע ביטול בחירות ופתיחת מלחמה, אך האירוע חשף אמת מטרידה: הדמוקרטיה הישראלית נחלשה לרמה מסוכנת ■ מתיקוני חקיקה ועד חזרת הציבור הליברלי לשירות הציבורי — אלה הצעדים הנדרשים כדי למנוע את הקריסה הבאה"
+    },
+    {
+     "ref": "themarker#10",
+     "title": "\"יש יסודות מוצקים להתנגדות\": אחרי שנדחתה בשל ריכוזיות, בממשלה לוחצים לאפשר לשפיר שליטה בבז\"א",
+     "published": "2026-11-01T04:08:04+00:00",
+     "summary": "בקשתה של שפיר לקבלת שליטה בבית הזיקוק באשדוד נדחתה לפני שלושה חודשים בלבד ■ למרות זאת, מנכ\"ל משרד האנרגיה יוסי דיין וראש המועצה הלאומית לכלכלה פרופ' אבי שמחון לוחצים להפוך את ההחלטה, ודיון נוסף נקבע לנובמבר ■ הממונה לשעבר על התחרות: \"אין שינוי נסיבות שמצדיק שינוי של ההחלטה\""
+    },
+    {
+     "ref": "themarker#11",
+     "title": "מי משלם את החשבון של ה–AI — ומדוע המניות הפכו לאג\"ח החדשות?",
+     "published": "2026-11-01T04:07:26+00:00",
+     "summary": "הריביות הנוסקות על החוב של קורוויב והתזרים השלילי של מטא חשפו את האמת: משקיעי החוב דורשים קו גמר ברור, בעוד משקיעי המניות הם היחידים שעוד מוכנים לשלם על תקווה ■ שלוש דרכים שבהן וול סטריט גובה את מחיר הבועה"
+    },
+    {
+     "ref": "themarker#12",
+     "title": "השותפות במאגר לווייתן דורשות להרחיב את אזורי הזיכיון — באוצר מנסים לעצור מחטף",
+     "published": "2026-11-01T04:04:45+00:00",
+     "summary": "השותפות במאגר לווייתן מעוניינות לבצע חיפושי גז במים עמוקים, ופונות לגופי ממשלה שונים כדי לקבל הקלות במיסוי ובהחלטות מקדמיות על שטח ההחזקה ■ באגף התקציבים דורשים תיאום ממשלתי ולא להיענות לבקשות בנפרד"
+    },
+    {
+     "ref": "themarker#13",
+     "title": "\"אם האי־ודאות לגבי הרכבת הממשלה תימשך כמה חודשים נראה עליות בתשואות האג\"ח\"",
+     "published": "2026-11-01T04:02:49+00:00",
+     "summary": "שוק האג\"ח הממשלתיות הגיב בעלייה מתונה יחסית של התשואות בתגובה לתוצאות הבחירות ■ העלייה נובעת מהאי־ודאות הפוליטית הגבוהה, אף שישראל כבר ידעה תקופה של בחירות תכופות ב–2019–2022 ■ \"הישראלים חיים בשקלים ולכן ההזדמנויות האמיתיות שלהם הן באג\"ח שקליות. ככל שפרמיית הסיכון תרד — בנק ישראל יוכל להוריד ריבית\""
+    },
+    {
+     "ref": "themarker#14",
+     "title": "המעבורת החשמלית הגדולה בעולם ואדם בן 83 מבשרים על עידן חדש בתחבורה ימית",
+     "published": "2026-11-01T04:01:25+00:00",
+     "summary": "לאחר המעבר לחשמל בסירות מנוע, גוררות וכלי שיט קטנים אחרים — מעבורות הן הצעד הבא ■ מייסד החברה האוסטרלית שבנתה מעבורת חשמלית חסרת תקדים בגודלה: \"פרשתי לפני 15 שנה — זה לא ממש הצליח\""
+    },
+    {
+     "ref": "themarker#15",
+     "title": "מאי גולן ועידית סילמן עדיין שרות. ברכות לח\"כים הטריים יעקב ברדוגו וחנמאל דורפמן",
+     "published": "2026-11-01T04:01:02+00:00",
+     "summary": "ביום שלישי הבא יושבעו 53 ח\"כים חדשים (44%) ■ הח\"כים היהודים־חילונים במיעוט (40%) — וגם הנשים (28%) ■ הממשלה המכהנת תמשיך עד שתושבע ממשלה חדשה"
+    },
+    {
+     "ref": "themarker#16",
+     "title": "\"חברה ביטחונית אירופית, קרן סל של שחקן פוקר וחברה של רוטשילד: בניתי תיק שממוקד בחו\"ל\"",
+     "published": "2026-11-01T04:00:53+00:00",
+     "summary": "התגובה הראשונית לתוצאות הבחירות בבורסת תל אביב הייתה ירידה חדה ■ אמיל גולדפרב, שותף ומנהל ההשקעות בקרן הגידור סנטנריו קפיטל: \"הכלכלה פה חזקה. יש צמיחה יפה מאוד בתוצר והאינפלציה לא גבוהה ביחס לעולם\""
+    },
+    {
+     "ref": "themarker#17",
+     "title": "\"הדולר בדרך ל־2.40 שקלים בטווח הארוך\": התחזית המפתיעה של מומחה המט\"ח",
+     "published": "2026-11-01T03:59:17+00:00"
+    },
+    {
+     "ref": "themarker#18",
      "title": "הפתרון לכשלים בנתב\"ג: רשות החברות מקדמת תוכנית להפרטת רשות שדות התעופה",
      "published": "2026-10-31T18:37:12+00:00",
      "summary": "רשות החברות מקדמת מודל שבו רש\"ת תתמקד בפיתוח התשתיות, בעוד הפעלת הטרמינלים בנתב\"ג תועבר לזכיינים פרטיים שיתחרו זה בזה ■ ההשבתה בקיץ האחרון והכשלים המתמשכים בשירות האיצו את המהלך, אך הצלחתו תלויה גם בהקמת רגולטור חזק שיפקח על המפעילים"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#19",
      "title": "דיווחים: עסקת הענק בין התעשייה האווירית לחיל האוויר ההודי לקראת חתימה",
      "published": "2026-10-31T17:57:36+00:00",
      "summary": "במסגרת העסקה יימכרו שישה מתדלקים אווירים תמורת 900 מיליון דולר ■ לפני שנה דווח ב–TheMarker כי התעשייה האווירית נותרה החברה היחידה במכרז, לאחר שהסכימה לכך ש–30% מעבודת הסבת המטוסים המסחריים למטוסי תדלוק תיעשה בהודו — על ידי חברות מקומיות"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#20",
      "title": "נתניהו היטה את הבחירות. המשטרה ושב\"כ עבדו בשביל יונתן אוריך",
      "published": "2026-10-31T17:40:51+00:00",
      "summary": "מעצר מיותר בבוקר הבחירות שימש את ראש הממשלה לקמפיין געוואלד מצליח — והתגלה כספין שנרקח בלשכתו ■ מי שאמורים לחקור את ההטיה נפלו בעצמם בפח ■ איזנקוט, בנט וליברמן חייבים להבין שהבחירות בישראל אינן נקיות עוד — ולפעול להחלפת יו\"ר הכנסת בכל מחיר"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#21",
      "title": "אינטל, אלפבית והגורמים שהפילו את נאסד\"ק קרוב לתיקון: מה צריך לדעת על השוק",
      "published": "2026-10-31T13:27:18+00:00",
      "summary": "דו\"חות ותחזיות מאכזבים הזכירו את הסיכון הגדול בהשקעות הענק ב–AI. מי נפלה יותר, איפה אפשר למצוא מקלט וכיצד משפיעה הריבית"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#22",
      "title": "ענקיות הנפט גרפו 130 מיליארד דולר מהמלחמה באיראן — האמריקאים שילמו יותר מזה על דלק",
      "published": "2026-10-31T09:45:48+00:00",
      "summary": "משבר האנרגיה שחוללה המלחמה הזניק את מחירי הנפט הגולמי — והרווחים של אקסון מוביל, שברון ודומותיהן זינקו פי שניים ויותר מכך בין אפריל לספטמבר. המצביעים בבחירות לקונגרס מתמודדים עם הכבדה ביוקר המחיה: הוצאות הדלק בארה\"ב זינקו ב–1,300 דולר למשק בית"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#23",
      "title": "כלכלן אמריקאי אפרורי מהבנק הפדרלי מגיע לכנס בסין. זו תחילתו של סיפור ריגול עגום",
      "published": "2026-10-31T05:29:40+00:00",
      "summary": "בקיץ האחרון נגזרו על ג'ון רוג'רס, יועץ בכיר לשעבר בבנק הפדרלי, 38 חודשי מאסר על ריגול לטובת סין ■ סוכן סיני צעיר שפגש אותו בכנס הצליח לרקום סביבו רשת קורים מפתה — ולהוציא ממנו מידע בעל ערך"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#24",
      "title": "מניות הטכנולוגיה הפילו את נאסד\"ק בכמעט 3%, אל סף תיקון שלישי מתחילת השנה",
      "published": "2026-10-30T20:10:00+00:00",
      "summary": "מניית אינטל צנחה בכמעט 30% אחרי שפרסמה תחזית מאכזבת לסוף 2026 ■ מרבית בורסות אירופה ננעלו בירידות: פרנקפורט נחלשה בקרוב ל-1% ■ החוזים על הנפט עולים ב-2.5% בשל חשש מחידוש המלחמה באיראן ■ רווחי ענקיות הנפט זינקו ברבעון השלישי פי שניים ושלושה - על רקע המשך השיבושים במצר הורמוז ■ הביטקוין נסחר סביב שפל של חודש - מעט מתחת ל-77 אלף דולר ■ בורסת סיאול צנחה ב-3.5% וטוקיו ירדה ב-2%"
-    },
-    {
-     "ref": "themarker#7",
-     "title": "אינטל צנחה בכמעט 30% לאחר הדו\"ח המאכזב — וצפויה למחוק יותר מ-110 מיליארד דולר",
-     "published": "2026-10-30T15:35:43+00:00",
-     "summary": "יצרנית השבבים והמעסיקה הגדולה בענף ההייטק הישראלי הציגה תחזית נמוכה מהצפוי לרבעון האחרון של 2026 ■ החברה תלתה את האשמה בירידה בביקוש למחשבים אישיים, בעוד היא ממשיכה להרחיב את כושר הייצור שלה — ומתמודדת עם נזקי הפיצוץ במפעל בקריית גת"
-    },
-    {
-     "ref": "themarker#8",
-     "title": "פיץ': הסיכון הפוליטי בישראל תואם את דירוג האשראי הנוכחי והתחזית השלילית",
-     "published": "2026-10-30T11:18:57+00:00",
-     "summary": "בסוכנות דירוג האשראי פיץ' הסבירו כי לחוסר היציבות הפוליטי יש חשיבות בתרחיש של היעדר תקציב — מצב שיגביל את ההוצאה הממשלתית ■ \"מצפים כי יחס החוב־תוצר של הממשלה ימשיך לעלות באופן מתון, דבר שנשאר אחד הגורמים המרכזיים לתחזית השלילית של ישראל\""
-    },
-    {
-     "ref": "themarker#9",
-     "title": "נתניהו ניצח — וגם הפסיד, איזנקוט ובנט עקפו אותו, ושוחד המיליארדים שלא הספיק לסמוטריץ'",
-     "published": "2026-10-30T10:08:07+00:00",
-     "summary": "ש\"ס חוזרת לימי 1992, עם פחות מ-300 אלף קולות ■ הציונות הדתית במקום האחרון בין המפלגות שנכנסו לכנסת, והליכוד צנחה ל-20.5% בלבד — התוצאה החלשה ביותר שלה זה שנים ■ 800 אלף מצביעים נתנו את קולם לרשימה המשותפת"
-    },
-    {
-     "ref": "themarker#10",
-     "title": "העימות בין קשת 12 לרשת 13 עובר לבית הדין לעבודה: בקשה דחופה לעכב את כניסת דנקנר לתפקיד",
-     "published": "2026-10-30T09:57:49+00:00",
-     "summary": "קשת 12 הגישה בקשה דחופה למתן צווים שימנעו את כניסתו של איתי דנקנר לתפקיד מנכ\"ל חברת החדשות כבר בשבוע הבא ■ דנקנר בהתכתבות עם קשת: \"הצעתי פשרה כי חששתי שתסכנו את עבודתי החדשה וכי לא רציתי שתפגעו בזכויותיי. זה לא אומר שחשבתי שהדרישה שלכם תקינה, סבירה וחוקית\""
-    },
-    {
-     "ref": "themarker#11",
-     "title": "יצחק תשובה מבקש לשלם לינקי קוינט 100 אלף שקל בחודש עבור 70% משרה",
-     "published": "2026-10-30T09:24:50+00:00",
-     "summary": "בנוסף, קוינט צפוי לקבל חבילת אופציות בשווי 3 מיליון שקל ובונוס שנתי של עד 560 אלף שקל ■ \"יכולת להתמודד עם אתגרים רגולטוריים\" היא בין הנימוקים לחריגה ממדיניות התגמול, המגבילה שכר ל-70% משרה עד 84 אלף שקל"
-    },
-    {
-     "ref": "themarker#12",
-     "title": "תאילנד חוקרת את נכסיו של הרב הראשי — לאחר ששללה את אזרחותו",
-     "published": "2026-10-30T09:07:39+00:00",
-     "summary": "ראש ממשלת תאילנד שלל השבוע את אזרחותו של יוסף חיים קנטור, האחראי על שליחי חב\"ד במדינה כבר יותר מ-30 שנה, לאחר שלדברי הרשויות הוא המשיך להשתמש באזרחות האמריקאית שלו לצורך נסיעות"
-    },
-    {
-     "ref": "themarker#13",
-     "title": "הדואליות משכו את הבורסה למטה; ת\"א 35 איבד 2.1%",
-     "published": "2026-10-30T08:08:18+00:00"
-    },
-    {
-     "ref": "themarker#14",
-     "title": "דיווח: סייארה מנסה לגייס השקעה לפי שווי של 20 מיליארד דולר",
-     "published": "2026-10-30T07:41:07+00:00",
-     "summary": "אתר הטכנולוגיה האמריקאי The Information דיווח כי סייארה נמצאת בשלבים מוקדמים של שיחות עם משקיעים על האפשרות לגייס סיבוב מימון נוסף ■ חברת הסייבר כבר גייסה 2.7 מיליארד דולר, והגיוס האחרון שלה היה לפי שווי של 12 מיליארד דולר"
-    },
-    {
-     "ref": "themarker#15",
-     "title": "האזהרה של מנהלי ההשקעות: אף שוק אינו מוגן לגמרי מהשלכות סופר אל־ניניו",
-     "published": "2026-10-30T07:39:27+00:00",
-     "summary": "תופעת האקלים המחזורית מכה השנה בעוצמות חריגות ברחבי הגלובוס — עם שילוב של בצורות וגשמי זלעפות שמשבשים את תוכניות החקלאים ■ אינדונזיה, ברזיל וקולומביה נחשבות לפגיעות במיוחד, אך המומחים מזהירים מ\"זליגה\" לאזורים נוספים בעולם"
-    },
-    {
-     "ref": "themarker#16",
-     "title": "בזמן שהבורסה ממתינה להתפזרות הערפל הפוליטי, ירידות ה–AI מחו\"ל יגיעו היום",
-     "published": "2026-10-30T06:54:35+00:00",
-     "summary": "בין המניות שירכזו העניין הבוקר בבורסת ת\"א חברת אביב בנייה לאחר שהמנכ\"לית הודיעה על התפטרותה, והשותפות במאגר הגזר תמר, ישראמקו, אקויטל ותומר אנרגיה, שעידכנה על הארכת מזכר הבנות לא מחייב ליצוא גז למצרים ■ הדולר נסחר הבוקר בשער של 3.11 שקלים"
-    },
-    {
-     "ref": "themarker#17",
-     "title": "פולימרקט חוקרת הימורים חשודים על הבחירות בישראל",
-     "published": "2026-10-30T06:38:00+00:00",
-     "summary": "בורסת החיזוי פולימרקט מסרה כי היא בודקת מאות חשבונות חדשים שביצעו הימורים על הבחירות בישראל ביום שלישי, זמן קצר לפני סגירת הקלפיות"
-    },
-    {
-     "ref": "themarker#18",
-     "title": "רכב שנמסר לסוכנות תיווך לשם מכירה נשרף. מנורה: מסירת הרכב ביטלה את הביטוח",
-     "published": "2026-10-30T06:00:00+00:00",
-     "summary": "חברת הביטוח מנורה סירבה לשלם את תגמולי הביטוח בטענה כי הבעלות במכונית עברה לסוכנות התיווך, ועם פקיעת הבעלות המקורית פקעה גם הפוליסה ■ השופטת: אדם מותיר את רכבו באחריות אדם אחר במצבים רבים, למשל במוסך — ברור כי לא מתנתקת הזיקה בין הרכב לבעליו"
-    },
-    {
-     "ref": "themarker#19",
-     "title": "סמוטריץ' פירסם את הצו להפחתת הבלו: מחיר הדלק בנובמבר יהיה 7.85 שקלים לליטר בנזין",
-     "published": "2026-10-30T05:43:43+00:00",
-     "summary": "ב-5 בנובמבר המחיר של ליטר בנזין היה אמור לזנק ל-8.35 שקלים לעומת 7.77 שקלים כיום ■ צו הפחתת הבלו אותו פירסם שר האוצר סמוטריץ' יוריד את המחיר ב-50 אגורות לליטר"
-    },
-    {
-     "ref": "themarker#20",
-     "title": "פריצת הקריפטו הגדולה בהיסטוריה: בייננס חשפה גניבה של 6.3 מיליארד דולר",
-     "published": "2026-10-30T05:01:08+00:00",
-     "summary": "בורסת הקריפטו גדולה בעולם בייננס הקפיאה משיכות והפקדות ופועלת למזער את הנזק"
-    },
-    {
-     "ref": "themarker#21",
-     "title": "שתי דירות 72 מ\"ר בפתח תקווה נמכרו בפער של 300 אלף שקל",
-     "published": "2026-10-30T04:19:21+00:00",
-     "summary": "וגם: בתל אביב נמכרה דירת 5 חדרים, קומה 2 מתוך 8, תמורת 7.11 מיליון שקל ■ ובכמה נמכרה דירת 3 חדרים ברחוב בית הכרם בירושלים?"
-    },
-    {
-     "ref": "themarker#22",
-     "title": "למה מצביעי הימין מצופפים שורות, ולא משנים את ההצבעה שלהם ויהי מה?",
-     "published": "2026-10-30T04:12:51+00:00",
-     "summary": "ממחקרים חדשים עולה כי הנאמנות העיוורת למפלגות, דחיקת לימודי האזרחות והאיסור על שיח פוליטי בבתי הספר מייצרים דור שאינו מאמין עוד בעקרונות הדמוקרטיים"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "בנט ואיזנקוט, אל תיתנו לערוץ 14 למנוע הקמת ממשלת שינוי אמיתית",
-     "published": "2026-10-30T04:10:10+00:00",
-     "summary": "יש להם 33 מנדטים ורוב להחלפת השלטון, אבל ראש הממשלה לשעבר והרמטכ\"ל לשעבר מתנהלים כמי שהפסידו ■ המבחן האמיתי שלהם אינו הקמפיין שנגמר, אלא הנכונות להתמודד מול הרעל התקשורתי ולהקים קואליציה עם החברה הערבית"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "\"יוקר המחיה גומר אנשים. גם מי שמרוויח הרבה כסף לא יכול לשרוד פה\"",
-     "published": "2026-10-30T04:09:15+00:00",
-     "summary": "לתשומת לב כל ממשלה שתקום: בעיית מחירי המזון והדיור אמנם לא כיכבה במערכת הבחירות הזאת, אבל אלה בדיוק הדברים שבוערים בקרב הדור הצעיר ■ ארבעה צעירים מתארים איך הנושא שהוזנח במשך שנים גורם להם לשאול אם יוכלו לבנות פה עתיד"
     }
    ]
   },
@@ -516,16 +498,16 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 117.64,
+   "last": 113.43,
    "prev_close": 114.88,
-   "change_pct": 2.4,
+   "change_pct": -1.26,
    "as_of": "2026-10-30"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 77648.7422,
-   "prev_close": 77198.2109,
-   "change_pct": 0.58,
+   "last": 78027.4766,
+   "prev_close": 77434.75,
+   "change_pct": 0.77,
    "as_of": "2026-11-01"
   }
  },
