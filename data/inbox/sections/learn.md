@@ -24,118 +24,105 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 1998,
-   "text": "Karl Bushby set off from Punta Arenas, Chile, beginning his attempt to walk around the world towards England, a journey that remains ongoing.",
+   "year": 2008,
+   "text": "Lewis Hamilton overtook Timo Glock in the final corners of the Brazilian Grand Prix to become the Formula One World Drivers' Champion by one point.",
    "context": [
-    "Karl Bushby is an English walking adventurer, author and former paratrooper."
+    "Sir Lewis Carl Davidson Hamilton is a British racing driver who competes in Formula One for Ferrari. Hamilton has won a joint-record seven Formula One World Drivers' Championship titles—tied with Michael Schumacher—and holds the records for most wins (106), pole positions (105), and podium finishes (209), among others."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1981,
-   "text": "The Associated State of Antigua gained independence from the United Kingdom as Antigua and Barbuda.",
+   "year": 2000,
+   "text": "As members of Expedition 1, American astronaut William Shepherd and Russian cosmonauts Sergei Krikalev and Yuri Gidzenko (all pictured) became the first resident crew to arrive at the International Space Station.",
    "context": [
-    "Antigua, officially the Associated State of Antigua, was an associated state of the United Kingdom, which was established on 27 February 1967. The associated state was abolished on November 1, 1981, by the Antigua Order."
+    "Expedition 1 was the first long-duration expedition to the International Space Station (ISS). The three-person crew stayed aboard the station for 136 days, from 2 November 2000 to 19 March 2001. It was the beginning of an uninterrupted human presence on the station which continues as of 2026."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1972,
-   "text": "Elvis on Tour, a concert film that documented Elvis Presley's tour throughout the United States, opened.",
+   "year": 1997,
+   "text": "Tropical Storm Linda made landfall in the Mekong Delta in Vietnam, causing more than 3,000 deaths.",
    "context": [
-    "Elvis on Tour is a 1972 American concert film starring Elvis Presley during his fifteen-city spring tour earlier that year. It was written, produced, directed by Pierre Adidge and Robert Abel and released by Metro-Goldwyn-Mayer (MGM)."
+    "Severe Tropical Storm Linda, also known as Typhoon Linda, Cyclonic Storm Linda , or in the Philippines as Tropical Depression Openg, and in Vietnam as Typhoon No. 5 of 1997 was the worst typhoon in southern Vietnam in at least 100 years, killing thousands of people and leaving extensive damage. It formed on October 31, 1997, in the South China Sea, between Indochina and the Philippines. Strengthening as it moved westward, Linda struck extreme southern Vietnam on November 2 with winds of 65 mph (105 km/h), dropping heavy rainfall. Once in the Gulf of Thailand it strengthened further to minimal typhoon status, but weakened to tropical storm strength before crossing the Malay Peninsula into the Bay of Bengal, the first storm to do so in five years. It restrengthened in the Indian Ocean to typhoon status, but increasing wind shear and weakened steering currents caused Linda to dissipate on November 9."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1963,
-   "text": "Lê Quang Tung, loyalist head of the South Vietnam Special Forces, was executed in a U.S.-backed coup against president Ngô Đình Diệm following a period of religious unrest.",
+   "year": 1994,
+   "text": "A lightning strike ruptured three oil tanks near Dronka, Egypt, causing a flood that killed 469 people.",
    "context": [
-    "Colonel Lê Quang Tung was the commander of the Army of the Republic of Vietnam Special Forces under the command of Ngô Đình Nhu. Nhu was the brother of South Vietnam's president, Ngô Đình Diệm. A former servant of the Ngô family, Tung's military background was in security and counterespionage."
+    "On 2 November 1994, a lightning strike ignited three diesel and aircraft fuel tanks belonging to the Egyptian Army strategic reserve near the village of Durunka, Asyut Governorate in Egypt. The lightning was part of a severe storm that caused heavy flash flooding and widespread damage in four governorates in Upper Egypt leading to hundreds of deaths and tens of thousands of people made homeless in one of Egypt's worst urban disasters. The flooding compounded with the lightning strike meant flaming oil leaked from the tanks and was carried by floodwater into the village. More than 200 houses were destroyed and 469 people killed."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1959,
-   "text": "Dominique Mbonyumutwa, one of the few Hutu sub-chiefs in colonial Rwanda, was attacked by Tutsi activists, precipitating the Rwandan Revolution.",
+   "year": 1984,
+   "text": "Velma Barfield, a convicted serial killer, became the first woman to be executed in the United States since 1962.",
    "context": [
-    "Dominique Mbonyumutwa was a Rwandan politician who served as the interim first President of Rwanda for a period of nine months in 1961, during a transitional phase between the overthrow of the Rwandan monarchy in the Rwandan Revolution and the country's independence. Following an election in October of that year, he was succeeded by Grégoire Kayibanda who became the first elected president of the country following independence."
+    "Margie Velma Barfield was an American serial killer who was convicted of one murder but was linked to seven murders in total. She became the first woman in the United States to be executed after the resumption of capital punishment in 1976, and the first since 1962. She was also the first woman to be executed by lethal injection."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1959,
-   "text": "After being struck in the face with a hockey puck, Jacques Plante played the rest of the game wearing a face mask (pictured), now mandatory equipment for goaltenders in ice hockey.",
+   "year": 1963,
+   "text": "South Vietnamese president Ngô Đình Diệm (pictured) was arrested and assassinated in Saigon, marking the culmination of a coup d'état led by Dương Văn Minh.",
    "context": [
-    "A hockey puck is either an open or closed disk used in a variety of sports and games. There are designs made for use on an ice surface, such as in ice hockey, and others for the different variants of floor hockey which includes the wheeled skate variant of inline hockey. They are all designed to serve the same function a ball does in ball games."
+    "The Republic of Vietnam, commonly known as South Vietnam, was a country in Southeast Asia that existed from 1955 to 1975. It first garnered recognition in 1949 as the associated State of Vietnam within the French Union, with its capital at Saigon. Since 1950, it was a member of the Western Bloc during the Cold War. Following the 1954 partition of Vietnam, it became known as South Vietnam and was established as a republic in 1955. Although South Vietnam failed to gain admission into the United Nations as a result of a Soviet veto in 1957, its sovereignty was recognized by 95 countries as of January 1975. It was succeeded by the communist-controlled Republic of South Vietnam in 1975. In 1976, North Vietnam and the Republic of South Vietnam merged to form the Socialist Republic of Vietnam."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1956,
-   "text": "The Indian states Kerala, Andhra Pradesh, and Karnataka were formally created under the States Reorganisation Act.",
+   "year": 1957,
+   "text": "A large number of people witnessed a fiery object in the sky near Levelland, Texas, which the United States Air Force said was ball lightning.",
    "context": [
-    "Kerala, officially Keralam, is a state on the Malabar Coast of southern India. It was formed on 1 November 1956 under the States Reorganisation Act, which unified the country's Malayalam-speaking regions into a single state. Covering 38,863 km2 (15,005 sq mi), Kerala is primarily a strip of coastal plains sandwiched by the Western Ghats and the Laccadive Sea, bound by Karnataka to the northeast, Tamil Nadu to the east, and the Lakshadweep islands in the western vicinity. With 33 million inhabitants according to the 2011 census, Kerala is the 13th-most populous state in India. Thiruvananthapuram is the capital city while the Kochi metropolitan area is the state's most populated region. Malayalam is the most widely spoken language and, alongside English, serves as an official language of the state."
+    "The Levelland UFO case refers to UFOs reportedly seen around highways near Levelland, Texas on 2–3 November 1957. Both the US Air Force and UFO skeptics concluded that the reports were caused by either ball lightning or a severe electrical storm. Ufologists believe it represents the most impressive case in UFO history, mainly because of the large number of witnesses involved over a relatively short period of time."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1944,
-   "text": "World War II: An American F-13 Superfortress made the first flight by an Allied aircraft over Tokyo since the Doolittle Raid in April 1942.",
+   "year": 1949,
+   "text": "The Dutch–Indonesian Round Table Conference ended with the Netherlands agreeing to transfer sovereignty of the Dutch East Indies to the United States of Indonesia.",
+   "context": [
+    "The Dutch–Indonesian Round Table Conference was held in The Hague from 23 August to 2 November 1949, between representatives of the Kingdom of the Netherlands, the Republic of Indonesia and the Federal Consultative Assembly, representing various states the Dutch had created in the Indonesian archipelago."
+   ]
+  },
+  {
+   "ref": "wikipedia#8",
+   "year": 1943,
+   "text": "World War II: A U.S. Navy task force turned away an Imperial Japanese Navy formation at the Battle of Empress Augusta Bay, thus protecting the landings at Cape Torokina.",
    "context": [
     "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
-   "ref": "wikipedia#8",
-   "year": 1941,
-   "text": "American photographer Ansel Adams (pictured) shot Moonrise, Hernandez, New Mexico, one of his most famous photographs.",
-   "context": [
-    "Ansel Easton Adams was an American landscape photographer and environmentalist known for his black-and-white images of the American West. He helped found Group f/64, an association of photographers advocating \"pure\" photography which favored sharp focus and the use of the full tonal range of a photograph. He and Fred Archer developed a system of image-making called the Zone System, a method of achieving a desired final print through a technical understanding of how the tonal range of an image is the result of choices made in exposure, negative development, and printing."
-   ]
-  },
-  {
    "ref": "wikipedia#9",
-   "year": 1921,
-   "text": "Frances Kyle was called to the Bar of Ireland, becoming the first female barrister in Ireland or Great Britain.",
+   "year": 1932,
+   "text": "The Australian military began a \"war against emus\", flightless native birds blamed for widespread damage to crops in Western Australia.",
    "context": [
-    "Frances Christian Kyle, LLB was a Northern Irish barrister and the first woman, together with Averil Deverell, to be admitted to the bar in either Ireland or Great Britain, being called to the Bar of Ireland on 1 November 1921. It not only made headlines in Dublin but also New York City, London, and India. It was almost a year before any woman was called to the English bar."
+    "The Australian Defence Force (ADF) is the military organisation responsible for the defence of Australia and its national interests. It consists of three services: the Royal Australian Navy (RAN), the Australian Army and the Royal Australian Air Force (RAAF). The ADF has a strength of just over 90,000 personnel and is supported by the Department of Defence and other civilian entities that altogether constitute the Australian Defence Organisation."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1914,
-   "text": "World War I: The first contingent of the First Australian Imperial Force departed Albany, Western Australia.",
+   "year": 1917,
+   "text": "The British government issued the Balfour Declaration in support of a Jewish homeland in Palestine, then an Ottoman region with a small Jewish minority.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "The Balfour Declaration was a public statement issued by the British Government in 1917 during the First World War announcing its support for the establishment of a \"national home for the Jewish people\" in Palestine, then an Ottoman region with a small Jewish minority among an overwhelming Arab majority, mostly Muslim but also including Christians. The declaration was contained in a letter dated 2 November 1917 from Arthur Balfour, the British foreign secretary, to Lord Rothschild, a leader of the British Jewish community, for transmission to the Zionist Federation of Great Britain and Ireland. The text of the declaration was published in the press on 9 November 1917."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1824,
-   "text": "The disposable ship Columbus (pictured) arrived in the The Downs off England, becoming, at that time, the largest vessel to have crossed the Atlantic Ocean.",
+   "year": 1880,
+   "text": "James A. Garfield was elected as president of the United States; the election is the closest to date by popular vote margin.",
    "context": [
-    "A disposable ship, also called raft ship, timber ship, or timber drogher is a ship or sea vessel that is intended for use on a single voyage. At the final destination, the vessel is broken up for sale or reuse of materials. Until the end of the 19th century, such ships were common on major rivers such as the Danube and the Rhine in Central Europe and the Mississippi in North America. There were also saltwater vessels that were primarily built for one-time sailing to break up. Some of the largest wooden ships in history were of this type."
-   ]
-  },
-  {
-   "ref": "wikipedia#12",
-   "year": 1214,
-   "text": "Byzantine–Seljuk wars: Seljuq Turks captured the important port city of Sinope.",
-   "context": [
-    "The Byzantine–Seljuk wars were a series of conflicts in the Middle Ages between the Byzantine Empire and the Seljuk Empire. They shifted the balance of power in Asia Minor, Armenia and Syria, sparking multiple wars for control over these regions, including the Crusades. These conflicts lasted until the collapse of the Sultanate of Rum in 1308."
-   ]
-  },
-  {
-   "ref": "wikipedia#13",
-   "year": 1141,
-   "text": "After Empress Matilda released her rival King Stephen, he in turn released Robert of Gloucester, her strongest supporter, thus prolonging the Anglo-Norman civil war known as The Anarchy.",
-   "context": [
-    "Empress Matilda, also known as Empress Maud or Athelicia, was Holy Roman Empress as the consort of Emperor Henry V from 1110 until 1125, and was subsequently a claimant to the English throne during the civil war known as the Anarchy (1138–1153). Following the death of her father, King Henry I of England, as his only surviving legitimate child and nominated heir, she asserted her right to the English throne. However, her cousin Stephen of Blois usurped the crown."
+    "James Abram Garfield was the 20th president of the United States, serving from March 1881 until his death in September that year after being shot in July. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before he ran for president, the Ohio General Assembly had elected him to the U.S. Senate, a position he declined upon becoming president-elect."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Overhang (עומס היצע תלוי)",
+  "Priced in (מגולם במחיר)",
+  "Asleep at the wheel (ישנו בשמירה)",
   "Greenshoe option (אופציית גרינשו)",
   "Kick the can down the road (לגלגל את הבעיה קדימה)",
   "White knight (אביר לבן)",
@@ -222,10 +209,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Skin in the game (עניין אישי בתוצאה)",
   "Run-rate (קצב שנתי מוערך)",
   "Kitchen-sink quarter (רבעון של ניקוי ארונות)",
-  "Move the needle (להזיז את המחוג)",
-  "Crowding out (דחיקת השקעות)",
-  "Mark-to-market (הערכת שווי לפי שוק)",
-  "Kick the tires (לבדוק ביסודיות לפני סגירת עסקה)"
+  "Move the needle (להזיז את המחוג)"
  ]
 }
 </input>

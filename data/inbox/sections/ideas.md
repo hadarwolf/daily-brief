@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -142,93 +142,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "As predicted, the ACA exchanges seem not to be stable",
+     "published": "2026-11-01T19:53:38+00:00",
+     "summary": "The average price of health insurance in the Obamacare marketplaces will rise by 13 percent next year, according to an analysis on Friday by KFF, the health research group. The Trump administration on Friday published new prices for 2027 in 30 states with markets managed by the federal government. Using that data and state figures, […] The post As predicted, the ACA exchanges seem not to be stable"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Sunday assorted links",
+     "published": "2026-11-01T16:31:04+00:00",
+     "summary": "1. Jakob Davidsen, The Individual and the Entire Tissue (song cycle). It is good. 2. The Oilers Entertainment Group pushed prices too high and here is what happened. 3. The “endless cruise” has ended. 4. Should driverless vehicles replace school buses? 5. Art Nouveau and more in Mexico City. 6. How are potential mathematicians responding […] The post Sunday assorted links appeared first on Margina"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "What are the Worst MR Posts?",
+     "published": "2026-11-01T12:18:51+00:00",
+     "summary": "What are the worst MR posts, most illogical, poorly reasoned, low value, inconsistent? From the Archives, written by ChatGPT: These are provisional candidates for weak reasoning, selected because there is a specific gap between the evidence and the conclusion. This is not an objective ranking of all 40,326 posts in the downloaded archive. Poor reasoning […] The post What are the Worst MR Posts? ap"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "Those new service sector jobs?",
      "published": "2026-11-01T07:55:35+00:00",
      "summary": "A suburban Chicago man has been sentenced to two years in federal prison for conspiring to stage armed robberies so that the purported victims could apply for U.S. immigration visas reserved for crime victims. From 2022 to 2024, PARTH NAYI organized and participated in hundreds of staged armed robberies at coffee shops, restaurants, liquor stores, and gas […] The post Those new service sector jobs"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "Are LLMs good or bad Bayesians?",
      "published": "2026-11-01T04:17:10+00:00",
      "summary": "Bryan Caplan: It seems like you and other AIs are bad Bayesians. When presented with counterevidence, you should move toward or against the presenter with roughly equal probability. It depends on whether the argument was better or worse than expected. In fact, you seem to either move toward the speaker or just not change. ChatGPT: […] The post Are LLMs good or bad Bayesians? appeared first on Marg"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "William Nordhaus, RIP",
      "published": "2026-10-31T18:33:58+00:00",
      "summary": "Here is notice from Yale, and from Paul Krugman, he was one of the true greats. For the pointer I thank several MR readers. The post William Nordhaus, RIP appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "And so it begins…",
      "published": "2026-10-31T18:21:28+00:00",
      "summary": "Researchers, I just uploaded a prominent QJE paper on climate change economics to @RefineDotInk and I loaded my critique of the paper. I asked the AI to offer an impartial verdict. I will make this report public. A new journal could collect these into “Special Issues”. That is from Matthew E. Kahn. The post And so it begins… appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "Saturday assorted links",
      "published": "2026-10-31T16:16:45+00:00",
      "summary": "1. Organizing Intelligence. 2. World Bank African urbanization report. Building out African cities in a decent way could end up being the task of our coming era. 3. Summary of The Commanding Heights. 4. “Meanwhile in Armenia…” 5. “Female psychopathology has worsened despite increased resources and opportunities, suggesting it does not entirely reflect absolute deprivation, […] The post Saturday as"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "My Barcelona talk",
      "published": "2026-10-31T13:29:19+00:00",
      "summary": "Wednesday, November 4, 18:30 Barcelona time, details here. I am honored to have won the Elinor Ostrom Prize from the Institut Ostrom Catalunya. Maybe see you there! The post My Barcelona talk appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "The pass-through of retail crime",
      "published": "2026-10-31T06:44:07+00:00",
      "summary": "This paper shows retailers increase prices in response to organized retail crime. We match store-level crime data to scanner data from the universe of transactions for cannabis retailers in Washington state. Using quasi-experimental variation from robberies and burglaries, we find a 1.7–1.8 percent price increase at victimized stores and nearby competitors. This rise is not […] The post The pass-t"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "The unintended consequences of academic leniency",
      "published": "2026-10-31T04:43:23+00:00",
      "summary": "Education is widely recognized as the primary driver of human capital accumulation. However, policies designed to promote educational attainment often overlook students’ endogenous responses. This paper provides empirical evidence of the causal impact of relaxed academic standards on student effort and achievement. We find that academic leniency results in mechanical GPA increases, but significant"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "Friday assorted links",
      "published": "2026-10-30T16:16:29+00:00",
      "summary": "1. Dwarkesh interviews Robert Caro (!). 2. New and pretty brutal results on CTE and football. 3. Interview with Dan Wang. 4. Updated version of the Saez-Zucman audit. Contestable and speculative assumptions are now separated from true defects. 5. Rosalind Arden interviews Greg Clark on social status. 6. GPTs vs. Claudes, in games. 7. The […] The post Friday assorted links appeared first on Margina"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "Better Incentives, More Kidneys, More Lives",
      "published": "2026-10-30T11:18:21+00:00",
      "summary": "The organ procurement system has long been a miasma of inefficient monopoly providers. In 2024 I quoted some shocking facts from a great Statecraft interview with Jennifer Erickson and Greg Segal: “Organs are literally lost and damaged in transit every single week. The OPTN contractor is 15 times more likely to lose or damage an organ in […] The post Better Incentives, More Kidneys, More Lives app"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#13",
      "title": "Are there too many misdemeanor convictions?",
      "published": "2026-10-30T07:33:45+00:00",
      "summary": "Maybe so: Misdemeanors account for three-quarters of criminal cases filed annually in the United States, yet causal evidence on the impacts of misdemeanor conviction is scarce. We combine administrative and survey data to provide novel evidence of how misdemeanor conviction affects the socioeconomic outcomes of defendants and their families. Using data on nearly seven million […] The post Are ther"
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#14",
      "title": "Chronicle of Higher Education interviews me on AI and education",
      "published": "2026-10-30T04:32:28+00:00",
      "summary": "Scott Carlson did the work (gated, but free with registration), here is one excerpt: Cowen: …Another proposal I’ve made is that schools should let people do one class, only one class, AI-only — no professor, except a professor grades at the end. The professor grades not answers to an exam but the workflow of how […] The post Chronicle of Higher Education interviews me on AI and education appeared "
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
-     "published": "2026-10-29T18:02:03+00:00",
-     "summary": "I use LLMs to forecast treatment effects of research studies pre-registered on the AEA RCT Registry and the Open Science Framework. I focus on studies whose results were first publicly released in 2026 and elicit forecasts from models whose training or knowledge cut-off dates were before the relevant set of papers was released. First, LLM […] The post Can Artificial Intelligence Forecast Treatment"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Thursday assorted links",
-     "published": "2026-10-29T16:19:21+00:00",
-     "summary": "1. “A whopping 79 NBA players are listed on today’s 2:30 PM injury report for tonight’s games. That’s roughly 15% of the entire league” This is just week one people! And some commentary. 2. Video making the case that AI has been fine for jobs. 3. John Repetti reviews The Rouse at Jacobin. 4. Is […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree",
-     "published": "2026-10-29T11:17:47+00:00",
-     "summary": "From the Archives-written by ChatGPT. Both became dramatically more confident in AI’s capabilities while remaining optimistic about its economic potential. Their differences concern how benefits arrive, how seriously to weight emerging dangers, and whether AI might possess consciousness. Cowen emphasizes institutions, bottlenecks, and geopolitical competition. Tabarrok emphasizes inexpensive intel"
     }
    ]
   },
@@ -240,8 +240,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#0",
      "title": "The power of pareidolia",
      "published": "2026-10-30T10:01:00+00:00",
-     "summary": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche",
-     "full_text_file": "essays/psyche_0.txt"
+     "summary": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche"
     },
     {
      "ref": "psyche#1",
@@ -305,15 +304,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#11",
-     "title": "Are you getting enough sun?",
-     "published": "2026-10-20T10:00:00+00:00",
-     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
-    },
-    {
-     "ref": "psyche#12",
      "title": "How to overcome task paralysis",
      "published": "2026-10-20T10:00:00+00:00",
      "summary": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
+    },
+    {
+     "ref": "psyche#12",
+     "title": "Are you getting enough sun?",
+     "published": "2026-10-20T10:00:00+00:00",
+     "summary": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
     },
     {
      "ref": "psyche#13",
@@ -337,8 +336,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#0",
      "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
      "published": "2026-10-30T14:52:05+00:00",
-     "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus. The post A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_0.txt"
+     "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus. The post A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#1",
@@ -368,6 +366,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "What ER 'Regulars' Taught a Nurse About Compassion — and Why the Pandemic Undid It",
   "In Praise of the Dilettante",
   "The Physics of Getting Fired: What Chaos Theory Teaches About Career Shocks and Fairness",
   "Plan R: Split Who Builds Frontier AI From Who Profits From It",
@@ -396,8 +395,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "When Machines Solve the Proofs, What Is Mathematics For?",
   "Sea Monkeys Reveal a Hidden Switch in Turbulence's Energy Flow",
   "To Keep a Self, Write Down What You'd Otherwise Forget",
-  "A World of Violence Sustains Itself Through the Minds It Creates, Not Just the Guns",
-  "Why Treating Intelligence as Mere Optimization Is a Trap"
+  "A World of Violence Sustains Itself Through the Minds It Creates, Not Just the Guns"
  ]
 }
 </input>
