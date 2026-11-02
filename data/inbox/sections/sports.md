@@ -67,18 +67,26 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-11-01T13:30:00Z",
+     "home": "Telstar",
+     "away": "Utrecht",
+     "status": "FINISHED",
+     "score": "4-2"
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-01T13:30:00Z",
      "home": "Excelsior",
      "away": "Twente",
      "status": "FINISHED",
      "score": "0-9"
     },
     {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-01T13:30:00Z",
-     "home": "Telstar",
-     "away": "Utrecht",
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-01T14:00:00Z",
+     "home": "Frosinone",
+     "away": "Torino",
      "status": "FINISHED",
-     "score": "4-2"
+     "score": "2-0"
     },
     {
      "competition": "Serie A",
@@ -95,14 +103,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Auxerre",
      "status": "FINISHED",
      "score": "5-1"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-01T14:00:00Z",
-     "home": "Frosinone",
-     "away": "Torino",
-     "status": "FINISHED",
-     "score": "2-0"
     },
     {
      "competition": "Bundesliga",
@@ -139,24 +139,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-01T16:15:00Z",
-     "home": "Paris FC",
-     "away": "Monaco",
-     "status": "FINISHED",
-     "score": "3-1"
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-01T16:15:00Z",
      "home": "Olympique Lyon",
      "away": "Angers SCO",
      "status": "FINISHED",
      "score": "2-0"
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-01T16:30:00Z",
-     "home": "Frankfurt",
-     "away": "HSV",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-01T16:15:00Z",
+     "home": "Paris FC",
+     "away": "Monaco",
      "status": "FINISHED",
      "score": "3-1"
     },
@@ -167,6 +159,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Arsenal",
      "status": "FINISHED",
      "score": "0-1"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-01T16:30:00Z",
+     "home": "Frankfurt",
+     "away": "HSV",
+     "status": "FINISHED",
+     "score": "3-1"
     },
     {
      "competition": "Serie A",
@@ -187,18 +187,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-01T18:00:00Z",
-     "home": "Marítimo",
-     "away": "Santa Clara",
-     "status": "FINISHED",
-     "score": "0-2"
-    },
-    {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-01T18:00:00Z",
      "home": "Acad. Viseu",
      "away": "Rio Ave",
      "status": "FINISHED",
      "score": "2-1"
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-01T18:00:00Z",
+     "home": "Marítimo",
+     "away": "Santa Clara",
+     "status": "FINISHED",
+     "score": "0-2"
     },
     {
      "competition": "Serie A",
@@ -243,14 +243,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-02T19:45:00Z",
-     "home": "Lorient",
-     "away": "Brest",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-02T19:45:00Z",
      "home": "Atalanta",
@@ -259,10 +251,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-02T20:00:00Z",
-     "home": "Newcastle",
-     "away": "Everton",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-02T19:45:00Z",
+     "home": "Lorient",
+     "away": "Brest",
      "status": "TIMED",
      "score": null
     },
@@ -275,10 +267,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-02T20:15:00Z",
-     "home": "SL Benfica",
-     "away": "Alverca",
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-02T20:00:00Z",
+     "home": "Newcastle",
+     "away": "Everton",
      "status": "TIMED",
      "score": null
     },
@@ -287,6 +279,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-02T20:15:00Z",
      "home": "Gil Vicente",
      "away": "Vitória SC",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-02T20:15:00Z",
+     "home": "SL Benfica",
+     "away": "Alverca",
      "status": "TIMED",
      "score": null
     }
@@ -955,39 +955,39 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Lionel Messi's latest moment of genius is why we'll never get bored watching him - Planet Football",
+     "published": "2026-11-02T09:22:00+00:00",
+     "summary": "Lionel Messi's latest moment of genius is why we'll never get bored watching him Planet Football"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Messi scores and assists in Inter Miami’s win over New England in the MLS (video) - صوت الإمارات",
      "published": "2026-11-02T09:20:04+00:00",
      "summary": "Messi scores and assists in Inter Miami’s win over New England in the MLS (video) صوت الإمارات"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "With a stunning goal: Messi leads Inter Miami to the CONCACAF Champions Cup - Goal.com",
      "published": "2026-11-02T09:19:22+00:00",
      "summary": "With a stunning goal: Messi leads Inter Miami to the CONCACAF Champions Cup Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "With a sensational goal: Messi leads Inter Miami to the CONCACAF Champions Cup | Goal.com India - Goal.com",
      "published": "2026-11-02T09:19:22+00:00",
      "summary": "With a sensational goal: Messi leads Inter Miami to the CONCACAF Champions Cup | Goal.com India Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "New England vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-11-02T09:19:07+00:00",
      "summary": "New England vs Inter Miami: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Messi reaches 937 career goals in Inter Miami 2-1 victory - The Sun Nigeria",
      "published": "2026-11-02T09:11:15+00:00",
      "summary": "Messi reaches 937 career goals in Inter Miami 2-1 victory The Sun Nigeria"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
-     "title": "Messi Leads Inter Miami to 2-1 Win, Secures Champions Cup Spot - Nigerian Bulletin",
-     "published": "2026-11-02T09:07:30+00:00",
-     "summary": "Messi Leads Inter Miami to 2-1 Win, Secures Champions Cup Spot Nigerian Bulletin"
     },
     {
      "ref": "gnews_inter_miami#6",
@@ -1009,99 +1009,99 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#9",
-     "title": "Messi Magic Fires Inter Miami In 2nd Place After Comeback Win Over New England - Head Topics",
-     "published": "2026-11-02T08:03:00+00:00",
-     "summary": "Messi Magic Fires Inter Miami In 2nd Place After Comeback Win Over New England Head Topics"
-    },
-    {
-     "ref": "gnews_inter_miami#10",
-     "title": "Messi leads Inter Miami to qualify for CONCACAF Champ… - YSscores",
-     "published": "2026-11-02T07:58:40+00:00",
-     "summary": "Messi leads Inter Miami to qualify for CONCACAF Champ… YSscores"
-    },
-    {
-     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi heroics lead Inter Miami to Champions Cup - MLSsoccer.com",
      "published": "2026-11-02T07:52:30+00:00",
      "summary": "Lionel Messi heroics lead Inter Miami to Champions Cup MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#10",
      "title": "Inter Miami Secures Crucial Win Following Record-Breaking Goal - BGNES",
      "published": "2026-11-02T07:46:05+00:00",
      "summary": "Inter Miami Secures Crucial Win Following Record-Breaking Goal BGNES"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#11",
      "title": "Messi scores game-winner as Inter Miami edges Revs 2-1 - nashuatelegraph.com",
      "published": "2026-11-02T07:23:52+00:00",
      "summary": "Messi scores game-winner as Inter Miami edges Revs 2-1 nashuatelegraph.com"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#12",
      "title": "Messi hits 937 career goals in Inter Miami 2-1 win - Punch Newspapers",
      "published": "2026-11-02T07:17:25+00:00",
      "summary": "Messi hits 937 career goals in Inter Miami 2-1 win Punch Newspapers"
     },
     {
-     "ref": "gnews_inter_miami#15",
-     "title": "Messi scores and assists in Inter Miami victory - Footboom",
-     "published": "2026-11-02T07:10:32+00:00",
-     "summary": "Messi scores and assists in Inter Miami victory Footboom"
-    },
-    {
-     "ref": "gnews_inter_miami#16",
-     "title": "Messi heroics lead Inter Miami to Champions Cup - MorungExpress",
-     "published": "2026-11-02T06:55:11+00:00",
-     "summary": "Messi heroics lead Inter Miami to Champions Cup MorungExpress"
-    },
-    {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#13",
      "title": "Messi Scores As Inter Miami Beat New England, Seal Champions Cup Qualification - TVC News",
      "published": "2026-11-02T06:45:00+00:00",
      "summary": "Messi Scores As Inter Miami Beat New England, Seal Champions Cup Qualification TVC News"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi’s late goal lifts Inter Miami to second in MLS Eastern Conference - TheReport.live",
      "published": "2026-11-02T06:39:14+00:00",
      "summary": "Messi’s late goal lifts Inter Miami to second in MLS Eastern Conference TheReport.live"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi scores and assists as Inter Miami beat New England Revolution 2-1 - Telangana Today",
      "published": "2026-11-02T06:29:06+00:00",
      "summary": "Lionel Messi scores and assists as Inter Miami beat New England Revolution 2-1 Telangana Today"
     },
     {
-     "ref": "gnews_inter_miami#20",
-     "title": "WATCH: Lionel Messi produces incredible solo goal after dribbling past three defenders to seal Inter Miami’s comeback win - Sports Tiger",
-     "published": "2026-11-02T06:24:43+00:00",
-     "summary": "WATCH: Lionel Messi produces incredible solo goal after dribbling past three defenders to seal Inter Miami’s comeback win Sports Tiger"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Lionel Messi scores, assists for Inter Miami vs. New England - Mundo Albiceleste",
-     "published": "2026-11-02T06:22:35+00:00",
-     "summary": "Lionel Messi scores, assists for Inter Miami vs. New England Mundo Albiceleste"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Lionel Messi Sends Inter Miami Second With 2-1 Win At New England - NDTV Sports",
-     "published": "2026-11-02T06:19:29+00:00",
-     "summary": "Lionel Messi Sends Inter Miami Second With 2-1 Win At New England NDTV Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#16",
      "title": "Lionel Messi magic leads Inter Miami comeback against New England Revolution to secure 2027 Champions Cup berth - Goal.com",
      "published": "2026-11-02T05:26:40+00:00",
      "summary": "Lionel Messi magic leads Inter Miami comeback against New England Revolution to secure 2027 Champions Cup berth Goal.com"
     },
     {
+     "ref": "gnews_inter_miami#17",
+     "title": "Messi Scores Winner as Inter Miami Beats New England 2-1 - https://www.businesstimes-bd.com/",
+     "published": "2026-11-02T05:11:50+00:00",
+     "summary": "Messi Scores Winner as Inter Miami Beats New England 2-1 https://www.businesstimes-bd.com/"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
+     "title": "4 takeaways as Messi magic the difference in the Revolution’s 2-1 loss vs. Inter Miami - Boston.com",
+     "published": "2026-11-02T04:09:41+00:00",
+     "summary": "4 takeaways as Messi magic the difference in the Revolution’s 2-1 loss vs. Inter Miami Boston.com"
+    },
+    {
+     "ref": "gnews_inter_miami#19",
+     "title": "Aksi Brilian Messi Menangkan Inter Miami di Kandang New England - OneFootball",
+     "published": "2026-11-02T04:01:26+00:00",
+     "summary": "Aksi Brilian Messi Menangkan Inter Miami di Kandang New England OneFootball"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
+     "title": "New England Revolution vs Inter Miami Lineups - MLS 2025/26 - BeSoccer Livescore",
+     "published": "2026-11-02T03:58:03+00:00",
+     "summary": "New England Revolution vs Inter Miami Lineups - MLS 2025/26 BeSoccer Livescore"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
+     "title": "Inter Miami CF at New England Revolution - MLS Game Summary - Nov 01, 2026 - USA Today",
+     "published": "2026-11-02T03:33:45+00:00",
+     "summary": "Inter Miami CF at New England Revolution - MLS Game Summary - Nov 01, 2026 USA Today"
+    },
+    {
+     "ref": "gnews_inter_miami#22",
+     "title": "Messi's solo goal propels Inter Miami to second place in the MLS standings. - Vietnam.vn",
+     "published": "2026-11-02T03:31:01+00:00",
+     "summary": "Messi's solo goal propels Inter Miami to second place in the MLS standings. Vietnam.vn"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
+     "title": "Messi delivers game-winner as Inter Miami edges Revolution in front of 54,112 fans - MassLive.com",
+     "published": "2026-11-02T03:24:00+00:00",
+     "summary": "Messi delivers game-winner as Inter Miami edges Revolution in front of 54,112 fans MassLive.com"
+    },
+    {
      "ref": "gnews_inter_miami#24",
-     "title": "Pure cinema from Messi! How did Inter Miami captain score his 937th career goal, against New England in MLS? Watch video - Livemint",
-     "published": "2026-11-02T05:09:04+00:00",
-     "summary": "Pure cinema from Messi! How did Inter Miami captain score his 937th career goal, against New England in MLS? Watch video Livemint"
+     "title": "Lionel Messi’s brilliance lifts Inter Miami over Revolution in Foxboro - Boston Herald",
+     "published": "2026-11-02T03:20:09+00:00",
+     "summary": "Lionel Messi’s brilliance lifts Inter Miami over Revolution in Foxboro Boston Herald"
     }
    ]
   },
