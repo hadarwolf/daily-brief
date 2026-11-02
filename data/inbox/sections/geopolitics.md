@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-11-02T08:05:45+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#1",
      "title": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world - AP News",
      "published": "2026-11-02T08:03:00+00:00",
      "summary": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#2",
      "title": "Manchester United FC - AP News",
      "published": "2026-11-02T07:47:25+00:00",
      "summary": "Manchester United FC AP News"
     },
     {
-     "ref": "ap_world#2",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "ref": "ap_world#3",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-11-02T07:05:18+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "Jerry Koosman, who got final out in the 1969 Miracle Mets’ World Series victory, dies at 83 - AP News",
      "published": "2026-11-02T06:13:00+00:00",
      "summary": "Jerry Koosman, who got final out in the 1969 Miracle Mets’ World Series victory, dies at 83 AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "Flash flooding triggers evacuations in Southwest and dire warning for Colorado spa town - AP News",
      "published": "2026-11-02T06:02:00+00:00",
      "summary": "Flash flooding triggers evacuations in Southwest and dire warning for Colorado spa town AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
+     "title": "Asian shares mostly advance but tech stocks remain volatile, while oil sinks 3.3% - AP News",
+     "published": "2026-11-02T05:29:00+00:00",
+     "summary": "Asian shares mostly advance but tech stocks remain volatile, while oil sinks 3.3% AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "Ex-Cleveland Guardians pitchers, including star reliever, go to trial in New York on fraud charges - AP News",
      "published": "2026-11-02T05:20:00+00:00",
      "summary": "Ex-Cleveland Guardians pitchers, including star reliever, go to trial in New York on fraud charges AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#8",
      "title": "Court hears Lori Vallow Daybell’s appeal in Idaho killings of 2 of her children, romantic rival - AP News",
      "published": "2026-11-02T05:12:00+00:00",
      "summary": "Court hears Lori Vallow Daybell’s appeal in Idaho killings of 2 of her children, romantic rival AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
      "title": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone - AP News",
      "published": "2026-11-02T05:09:00+00:00",
      "summary": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#10",
+     "title": "Amateur historian’s look into murderous pirate finds New York beach namesake may have helped - AP News",
+     "published": "2026-11-02T05:05:00+00:00",
+     "summary": "Amateur historian’s look into murderous pirate finds New York beach namesake may have helped AP News"
+    },
+    {
+     "ref": "ap_world#11",
      "title": "In Alaska fishing community, the Dan Sullivan episode takes an ominous turn as FBI comes knocking - AP News",
      "published": "2026-11-02T05:03:00+00:00",
      "summary": "In Alaska fishing community, the Dan Sullivan episode takes an ominous turn as FBI comes knocking AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#12",
+     "title": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world - AP News",
+     "published": "2026-11-02T05:03:00+00:00",
+     "summary": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "Trump rallies in Iowa and Kansas as Republicans fight to keep Senate and House control - AP News",
      "published": "2026-11-02T04:25:00+00:00",
      "summary": "Trump rallies in Iowa and Kansas as Republicans fight to keep Senate and House control AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#14",
      "title": "Japanese players Teruaki Sato, Kaima Taira and Hiromi Itoh enter MLB posting system - AP News",
      "published": "2026-11-02T04:07:00+00:00",
      "summary": "Japanese players Teruaki Sato, Kaima Taira and Hiromi Itoh enter MLB posting system AP News"
     },
     {
-     "ref": "ap_world#11",
-     "title": "Dozens of Commonwealth leaders descend on Antigua during global political turbulence - AP News",
-     "published": "2026-11-02T04:00:00+00:00",
-     "summary": "Dozens of Commonwealth leaders descend on Antigua during global political turbulence AP News"
+     "ref": "ap_world#15",
+     "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends - AP News",
+     "published": "2026-11-02T03:05:00+00:00",
+     "summary": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#16",
      "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race - AP News",
      "published": "2026-11-02T03:04:00+00:00",
      "summary": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#17",
      "title": "The UK’s stance on its role in the slave trade is shifting, but reparations remain off the table - AP News",
      "published": "2026-11-02T03:02:00+00:00",
      "summary": "The UK’s stance on its role in the slave trade is shifting, but reparations remain off the table AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#18",
      "title": "Trump is giving his closing midterm pitch at problem-plagued Lincoln Memorial Reflecting Pool - AP News",
      "published": "2026-11-02T01:52:00+00:00",
      "summary": "Trump is giving his closing midterm pitch at problem-plagued Lincoln Memorial Reflecting Pool AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#19",
      "title": "Florida State fires Mike Norvell after 6-plus seasons and takes on his nearly $50M buyout - AP News",
      "published": "2026-11-02T01:28:00+00:00",
      "summary": "Florida State fires Mike Norvell after 6-plus seasons and takes on his nearly $50M buyout AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#20",
      "title": "How did a 20-year-old become F1’s youngest world champion? - AP News",
      "published": "2026-11-02T01:27:00+00:00",
      "summary": "How did a 20-year-old become F1’s youngest world champion? AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#21",
      "title": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20 - AP News",
      "published": "2026-11-02T01:03:00+00:00",
      "summary": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20 AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#22",
      "title": "Lions All-Pro LB Jack Campbell staying overnight at hospital with neck injury - AP News",
      "published": "2026-11-02T00:51:00+00:00",
      "summary": "Lions All-Pro LB Jack Campbell staying overnight at hospital with neck injury AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#23",
      "title": "Mass shootings over Halloween weekend leave at least 6 dead and dozens injured across US - AP News",
      "published": "2026-11-02T00:42:00+00:00",
      "summary": "Mass shootings over Halloween weekend leave at least 6 dead and dozens injured across US AP News"
     },
     {
-     "ref": "ap_world#20",
-     "title": "Lamar Jackson needs surgery for thumb injury and could miss rest of season, Ravens coach says - AP News",
-     "published": "2026-11-02T00:24:00+00:00",
-     "summary": "Lamar Jackson needs surgery for thumb injury and could miss rest of season, Ravens coach says AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims - AP News",
-     "published": "2026-11-01T23:01:00+00:00",
-     "summary": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Youngest Formula One champions - AP News",
-     "published": "2026-11-01T22:48:00+00:00",
-     "summary": "Youngest Formula One champions AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Goff throws go-ahead touchdown pass to Williams and Lions beat Vikings 19-15 for their 1st loss - AP News",
-     "published": "2026-11-01T22:45:00+00:00",
-     "summary": "Goff throws go-ahead touchdown pass to Williams and Lions beat Vikings 19-15 for their 1st loss AP News"
-    },
-    {
      "ref": "ap_world#24",
-     "title": "Buccaneers beat Falcons 16-0 despite failing to complete a single pass in wet, sloppy conditions - AP News",
-     "published": "2026-11-01T22:16:00+00:00",
-     "summary": "Buccaneers beat Falcons 16-0 despite failing to complete a single pass in wet, sloppy conditions AP News"
+     "title": "Lamar Jackson needs surgery for thumb injury and could miss rest of season, Ravens coach says - AP News",
+     "published": "2026-11-01T23:57:09+00:00",
+     "summary": "Lamar Jackson needs surgery for thumb injury and could miss rest of season, Ravens coach says AP News"
     }
    ]
   },
@@ -174,27 +174,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
+     "title": "Nine killed as small jet crashes on Florida street",
+     "published": "2026-11-02T09:10:19+00:00",
+     "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Ryanair may freeze workers' pay and raise airfares",
      "published": "2026-11-02T08:33:57+00:00",
      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Popular Australian children's author jailed over child exploitation offences",
      "published": "2026-11-02T08:03:39+00:00",
      "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
      "published": "2026-11-02T07:42:33+00:00",
      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group."
-    },
-    {
-     "ref": "bbc_world#3",
-     "title": "Nine killed as small jet crashes on Florida street",
-     "published": "2026-11-02T07:33:17+00:00",
-     "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
     },
     {
      "ref": "bbc_world#4",
@@ -210,7 +210,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#6",
-     "title": "Trump makes fevered campaign push in final weekend before election",
+     "title": "Trump makes final campaign push in final weekend before election",
      "published": "2026-11-02T04:04:28+00:00",
      "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress."
     },
@@ -414,153 +414,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "China's central bank taps liquidity tool to fund share purchases - Reuters",
+     "published": "2026-11-02T09:15:43+00:00",
+     "summary": "China's central bank taps liquidity tool to fund share purchases Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Euro zone factory growth eases in October but remains solid, PMI shows - Reuters",
+     "published": "2026-11-02T09:11:43+00:00",
+     "summary": "Euro zone factory growth eases in October but remains solid, PMI shows Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "South African factory sentiment improves for second month in October, PMI shows - Reuters",
+     "published": "2026-11-02T09:10:16+00:00",
+     "summary": "South African factory sentiment improves for second month in October, PMI shows Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "French manufacturing back in contraction in October, PMI shows - Reuters",
+     "published": "2026-11-02T08:59:43+00:00",
+     "summary": "French manufacturing back in contraction in October, PMI shows Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Explainer: Why is India's probe of Scotch imports from Britain rattling liquor majors? - Reuters",
+     "published": "2026-11-02T08:57:32+00:00",
+     "summary": "Explainer: Why is India's probe of Scotch imports from Britain rattling liquor majors? Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
      "title": "French school protests resume on smaller scale as students return from break - Reuters",
      "published": "2026-11-02T08:47:43+00:00",
      "summary": "French school protests resume on smaller scale as students return from break Reuters"
     },
     {
-     "ref": "reuters_world#1",
-     "title": "Why is India's probe of Scotch imports from Britain rattling liquor majors? - Reuters",
-     "published": "2026-11-02T08:26:02+00:00",
-     "summary": "Why is India's probe of Scotch imports from Britain rattling liquor majors? Reuters"
-    },
-    {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#6",
      "title": "How does India tax equity investors? - Reuters",
      "published": "2026-11-02T08:19:47+00:00",
      "summary": "How does India tax equity investors? Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#7",
      "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
      "published": "2026-11-02T08:16:45+00:00",
      "summary": "China's slow buying of US farm goods tests $17 billion trade pledge Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#8",
      "title": "Facing Chinese pressure, Taiwan says it must be master of its own maritime information - Reuters",
      "published": "2026-11-02T07:48:00+00:00",
      "summary": "Facing Chinese pressure, Taiwan says it must be master of its own maritime information Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#9",
      "title": "Saudi civil defence sounds all-clear after alerts in southern cities - Reuters",
      "published": "2026-11-02T07:22:00+00:00",
      "summary": "Saudi civil defence sounds all-clear after alerts in southern cities Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#10",
      "title": "Israeli strikes kill three people in Gaza, medics say - Reuters",
      "published": "2026-11-02T07:18:00+00:00",
      "summary": "Israeli strikes kill three people in Gaza, medics say Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#11",
      "title": "Pizza Hut, KFC India operator's Q2 loss narrows sharply on strong same-store sales growth - Reuters",
      "published": "2026-11-02T07:14:00+00:00",
      "summary": "Pizza Hut, KFC India operator's Q2 loss narrows sharply on strong same-store sales growth Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#12",
      "title": "South Africa's splintering vote sets up multi-party battle for cities - Reuters",
      "published": "2026-11-02T07:02:00+00:00",
      "summary": "South Africa's splintering vote sets up multi-party battle for cities Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#13",
      "title": "Water, jobs and crime among key issues for South African voters - Reuters",
      "published": "2026-11-02T07:01:00+00:00",
      "summary": "Water, jobs and crime among key issues for South African voters Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#14",
      "title": "South African rand broadly steady before manufacturing survey, car sales data - Reuters",
      "published": "2026-11-02T06:49:00+00:00",
      "summary": "South African rand broadly steady before manufacturing survey, car sales data Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#15",
      "title": "Bulgaria's Iotova wins presidential runoff, near-final results show - Reuters",
      "published": "2026-11-02T06:42:00+00:00",
      "summary": "Bulgaria's Iotova wins presidential runoff, near-final results show Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#16",
      "title": "EXCLUSIVE: India markets regulator backs removal of long-term capital gains tax for foreign investors, sources say - Reuters",
      "published": "2026-11-02T06:38:00+00:00",
      "summary": "EXCLUSIVE: India markets regulator backs removal of long-term capital gains tax for foreign investors, sources say Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#17",
      "title": "Afghanistan asks US to act responsibly on deporting Afghan immigrants back home - Reuters",
      "published": "2026-11-02T06:38:00+00:00",
      "summary": "Afghanistan asks US to act responsibly on deporting Afghan immigrants back home Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#18",
      "title": "AVID matches Warburg Pincus' sweetened $1.6 billion bid for Australia's Ingenia - Reuters",
      "published": "2026-11-02T06:36:00+00:00",
      "summary": "AVID matches Warburg Pincus' sweetened $1.6 billion bid for Australia's Ingenia Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#19",
      "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows - Reuters",
      "published": "2026-11-02T06:25:00+00:00",
      "summary": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#20",
      "title": "BOJ flags progress in anchoring inflation around target - Reuters",
      "published": "2026-11-02T06:15:00+00:00",
      "summary": "BOJ flags progress in anchoring inflation around target Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#21",
      "title": "South Korea's Woori Bank says first offshore won payment carried out - Reuters",
      "published": "2026-11-02T06:06:00+00:00",
      "summary": "South Korea's Woori Bank says first offshore won payment carried out Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#22",
      "title": "As Europe's right advances, Germany's AfD rethinks its anti-euro roots - Reuters",
      "published": "2026-11-02T06:04:00+00:00",
      "summary": "As Europe's right advances, Germany's AfD rethinks its anti-euro roots Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#23",
      "title": "Ambuja Cements to invest $1.5 billion to lift capacity to 155 MTPA by fiscal 2030 - Reuters",
      "published": "2026-11-02T06:01:00+00:00",
      "summary": "Ambuja Cements to invest $1.5 billion to lift capacity to 155 MTPA by fiscal 2030 Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#24",
      "title": "Morning Bid: Markets hope for relief in Apple margins - Reuters",
      "published": "2026-11-02T05:35:00+00:00",
      "summary": "Morning Bid: Markets hope for relief in Apple margins Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "Bangladesh garment factories reopen as wage protests keep industry on edge - Reuters",
-     "published": "2026-11-02T05:08:00+00:00",
-     "summary": "Bangladesh garment factories reopen as wage protests keep industry on edge Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Gold rises on softer oil; markets parse Fed signals - Reuters",
-     "published": "2026-11-02T05:04:00+00:00",
-     "summary": "Gold rises on softer oil; markets parse Fed signals Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "China's Xi says Middle East should not become battleground for great power rivalry - Reuters",
-     "published": "2026-11-02T04:32:00+00:00",
-     "summary": "China's Xi says Middle East should not become battleground for great power rivalry Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Indonesia October inflation eases slightly to 3.23% y/y - Reuters",
-     "published": "2026-11-02T04:17:00+00:00",
-     "summary": "Indonesia October inflation eases slightly to 3.23% y/y Reuters"
     }
    ]
   }

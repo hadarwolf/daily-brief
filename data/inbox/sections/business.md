@@ -18,87 +18,87 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Spotify Investor Creandum Raises $750M Fund",
+     "published": "2026-11-02T09:25:58+00:00",
+     "summary": "Peter Specht, Partner at Creandum, on raising of capital and Creadum's plans to deploy the fund across Europe and the US. He speaks with Tom Mackenzie, Guy Johnson and Anna Edwards on Bloomberg's \"The Opening Trade.\" (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "What Are Structured Notes And Why the Market for Them Is Booming",
      "published": "2026-11-02T09:00:02+00:00",
      "summary": "A conversation with Nomura's Alex Micalizzi."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "Odd Lots: The Structured Notes Market Is Booming (Podcast)",
      "published": "2026-11-02T09:00:00+00:00",
      "summary": "The structured products business in the US has gotten very large recently — on track to hit $300 billion in sales this year. That they are all the rage means a once opaque financial product is getting a lot more attention. So what are structured products, exactly, and how are they influencing the economy? In short, structured products are basically a fusion of a bank IOU with a derivative product,"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "German Protests Erupt in Violence",
      "published": "2026-11-02T08:35:38+00:00",
      "summary": "Mass demonstrations in Germany that passed largely peacefully on Saturday erupted in violence as night fell and rioters faced off against police in Frankfurt, Cologne, Hamburg and Berlin. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "This Bounce in Stocks Appears Premature: Market Analysis",
      "published": "2026-11-02T08:26:04+00:00",
      "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Nordic Investment Bank Mulls SRTs After Adding Defense Focus",
      "published": "2026-11-02T08:15:07+00:00",
      "summary": "The Nordic Investment Bank is considering adding synthetic risk transfers to its toolkit as a precautionary measure to bolster its balance sheet and give it more scope to lend to industries including defense."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Kneron Looks Beyond Chips as It Prepares for IPO",
      "published": "2026-11-02T07:44:28+00:00",
      "summary": "Founder and CEO Albert Liu says Kneron aims to become a broader provider of AI services and solutions as the chipmaker prepares for a Nasdaq listing. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Ryanair CEO O'Leary on Cost Savings, Fuel Prices, Higher Fares",
      "published": "2026-11-02T07:41:05+00:00",
      "summary": "Ryanair CEO Michael O'Leary speaks on Bloomberg Television after the airline announced it will embark on a cost purge to help offset a €2 billion ($2.2 billion) increase in fuel charges next year. \"My advice to consumers now is book early for next summer because the prices are going to rise significantly,\" O'Leary says. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Where to Invest 1 Crore Rupees",
      "published": "2026-11-02T07:37:33+00:00",
      "summary": "Oil is above $100, Indian stocks have struggled and the rupee is under pressure. So where should you invest 1 crore rupees right now? Four experts weigh the opportunities and risks. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Kneron Looks Beyond Chips as It Prepares for IPO",
      "published": "2026-11-02T07:37:11+00:00",
      "summary": "Founder and CEO Albert Liu says Kneron aims to become a broader provider of AI services and solutions as the chipmaker prepares for a Nasdaq listing. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Ryanair Slashes Costs After €2 Billion Fuel-Charge Increase",
      "published": "2026-11-02T07:31:26+00:00",
      "summary": "Plus, it’s been a good month for the pound against the euro"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Turkish Market Clearinghouse CEO Resigns as Fund Probe Widens",
      "published": "2026-11-02T07:25:14+00:00",
      "summary": "Yunus Arinci, the chief executive officer of Turkey’s settlement and custody bank Takasbank, resigned after being questioned by prosecutors as part of an investigation into the country’s fund crisis, according to people familiar with the matter."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked",
      "published": "2026-11-02T07:19:07+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Alphabet Tests Bond Market’s AI Faith With Second Euro Sale",
      "published": "2026-11-02T07:17:51+00:00",
      "summary": "Alphabet Inc. kicked off its second sale of euro bonds this year, testing investor demand less than a week after its disappointing third-quarter earnings sent the stock to a record drop and pushed spreads wider across the technology sector."
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Traders Brace for Treasury Sales Overhaul",
-     "published": "2026-11-02T07:09:58+00:00",
-     "summary": "Wall Street is preparing for a potential revamp in guidance for US Treasuries issuance. Many dealers expect the Treasury Department to alter the guidance in its quarterly policy statement. A shift in Wednesday’s announcement could pave the way for potential cuts in 2027 to sales of the longest-dated debt. Bloomberg's Mark Cranfield reports. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#14",
@@ -174,7 +174,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#5",
-     "title": "The meaning of the midterms",
+     "title": "What to watch for in the midterms",
      "published": "2026-11-02T05:00:17+00:00",
      "summary": "This week will tell us many important things about the future of American politics"
     },
@@ -365,39 +365,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Gold Edges Higher But Remains Below $4,000 an Ounce",
+     "published": "2026-11-02T09:05:00+00:00",
+     "summary": "Gold futures ticked higher, but held below $4,000 a troy ounce after slumping last week."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "European Indexes Open Mostly Lower as Healthcare Stocks Slide",
      "published": "2026-11-02T08:25:00+00:00",
      "summary": "European stock indexes were mostly lower at the open, as investors recalibrated after last week’s strength."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Euro Could Stay Weak After Fitch Downgrades France Outlook",
      "published": "2026-11-02T08:12:00+00:00",
      "summary": "The euro rose but the currency could remain weak after credit ratings agency Fitch revised its outlook on France to negative."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "BOE Expected to Join Peers in Raising Key Rate",
      "published": "2026-11-02T07:28:00+00:00",
      "summary": "The bank is expected to join its peers in raising borrowing costs Thursday as it attempts to contain a pickup in inflation ahead of an intense period of wage negotiations."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Treasury Yields Little Changed in Asian Trade Ahead of Midterms, Key Data This Week",
      "published": "2026-11-02T07:10:00+00:00",
      "summary": "Initial results for Tuesday’s midterm elections will begin emerging after the first polls close, but the final outcome determining control of Congress might not be known for days or even weeks."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Oil Drops Amid Diplomatic Efforts to Revive Mideast Peace Talks",
      "published": "2026-11-02T01:15:00+00:00",
      "summary": "Oil prices dropped amid recent diplomatic efforts to revive peace negotiations between Washington and Tehran."
-    },
-    {
-     "ref": "wsj_markets#5",
-     "title": "Gold Rises, But Expectations of Tighter U.S. Monetary Policy Weigh",
-     "published": "2026-11-02T00:51:00+00:00",
-     "summary": "Gold rose in early Asian trade but remains below the key $4,000 level."
     },
     {
      "ref": "wsj_markets#6",
@@ -453,9 +453,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4077.02,
+   "last": 4063.1201,
    "prev_close": 4058.95,
-   "change_pct": 0.45,
+   "change_pct": 0.1,
    "as_of": "2026-11-02"
   },
   "SP500": {
@@ -467,23 +467,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1283,
+   "last": 3.1303,
    "prev_close": 3.1084,
-   "change_pct": 0.64,
+   "change_pct": 0.7,
    "as_of": "2026-11-02"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 109.21,
+   "last": 108.53,
    "prev_close": 117.64,
-   "change_pct": -7.17,
+   "change_pct": -7.74,
    "as_of": "2026-11-02"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 78187.1094,
+   "last": 78004.2266,
    "prev_close": 78248.4531,
-   "change_pct": -0.08,
+   "change_pct": -0.31,
    "as_of": "2026-11-02"
   }
  },

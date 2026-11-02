@@ -81,6 +81,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "4-2"
     },
     {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-01T14:00:00Z",
+     "home": "Lazio",
+     "away": "Cagliari",
+     "status": "FINISHED",
+     "score": "2-1"
+    },
+    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-01T14:00:00Z",
      "home": "Strasbourg",
@@ -95,14 +103,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Torino",
      "status": "FINISHED",
      "score": "2-0"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-01T14:00:00Z",
-     "home": "Lazio",
-     "away": "Cagliari",
-     "status": "FINISHED",
-     "score": "2-1"
     },
     {
      "competition": "Bundesliga",
@@ -243,18 +243,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-02T19:45:00Z",
-     "home": "Atalanta",
-     "away": "Parma",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-02T19:45:00Z",
      "home": "Lorient",
      "away": "Brest",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-02T19:45:00Z",
+     "home": "Atalanta",
+     "away": "Parma",
      "status": "TIMED",
      "score": null
     },
@@ -955,153 +955,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Messi scores and assists in Inter Miami’s win over New England in the MLS (video) - صوت الإمارات",
+     "published": "2026-11-02T09:20:04+00:00",
+     "summary": "Messi scores and assists in Inter Miami’s win over New England in the MLS (video) صوت الإمارات"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "With a stunning goal: Messi leads Inter Miami to the CONCACAF Champions Cup - Goal.com",
+     "published": "2026-11-02T09:19:22+00:00",
+     "summary": "With a stunning goal: Messi leads Inter Miami to the CONCACAF Champions Cup Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "With a sensational goal: Messi leads Inter Miami to the CONCACAF Champions Cup | Goal.com India - Goal.com",
+     "published": "2026-11-02T09:19:22+00:00",
+     "summary": "With a sensational goal: Messi leads Inter Miami to the CONCACAF Champions Cup | Goal.com India Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
+     "title": "New England vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
+     "published": "2026-11-02T09:19:07+00:00",
+     "summary": "New England vs Inter Miami: Major League Soccer stats & head-to-head BBC"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
+     "title": "Messi reaches 937 career goals in Inter Miami 2-1 victory - The Sun Nigeria",
+     "published": "2026-11-02T09:11:15+00:00",
+     "summary": "Messi reaches 937 career goals in Inter Miami 2-1 victory The Sun Nigeria"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
+     "title": "Messi Leads Inter Miami to 2-1 Win, Secures Champions Cup Spot - Nigerian Bulletin",
+     "published": "2026-11-02T09:07:30+00:00",
+     "summary": "Messi Leads Inter Miami to 2-1 Win, Secures Champions Cup Spot Nigerian Bulletin"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
      "title": "MLS: Lionel Messi Sends Inter Miami Second With 2-1 Win Over New England - Deccan Chronicle",
      "published": "2026-11-02T08:12:45+00:00",
      "summary": "MLS: Lionel Messi Sends Inter Miami Second With 2-1 Win Over New England Deccan Chronicle"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#7",
      "title": "How Many Goals Lionel Messi Needs to Catch Cristiano Ronaldo After Inter Miami Beat New England? - Heavy.com",
      "published": "2026-11-02T08:09:59+00:00",
      "summary": "How Many Goals Lionel Messi Needs to Catch Cristiano Ronaldo After Inter Miami Beat New England? Heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#8",
      "title": "Messi scores a stunning winner for Inter Miami in a moment of pure magic - Mundo Deportivo",
      "published": "2026-11-02T08:09:51+00:00",
      "summary": "Messi scores a stunning winner for Inter Miami in a moment of pure magic Mundo Deportivo"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#9",
+     "title": "Messi Magic Fires Inter Miami In 2nd Place After Comeback Win Over New England - Head Topics",
+     "published": "2026-11-02T08:03:00+00:00",
+     "summary": "Messi Magic Fires Inter Miami In 2nd Place After Comeback Win Over New England Head Topics"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
      "title": "Messi leads Inter Miami to qualify for CONCACAF Champ… - YSscores",
      "published": "2026-11-02T07:58:40+00:00",
      "summary": "Messi leads Inter Miami to qualify for CONCACAF Champ… YSscores"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi heroics lead Inter Miami to Champions Cup - MLSsoccer.com",
      "published": "2026-11-02T07:52:30+00:00",
      "summary": "Lionel Messi heroics lead Inter Miami to Champions Cup MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#5",
-     "title": "Messi Magic Fires Inter Miami In 2nd Place After Comeback Win Over New England - LEADERSHIP Newspapers",
-     "published": "2026-11-02T07:51:07+00:00",
-     "summary": "Messi Magic Fires Inter Miami In 2nd Place After Comeback Win Over New England LEADERSHIP Newspapers"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami Secures Crucial Win Following Record-Breaking Goal - BGNES",
      "published": "2026-11-02T07:46:05+00:00",
      "summary": "Inter Miami Secures Crucial Win Following Record-Breaking Goal BGNES"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#13",
      "title": "Messi scores game-winner as Inter Miami edges Revs 2-1 - nashuatelegraph.com",
      "published": "2026-11-02T07:23:52+00:00",
      "summary": "Messi scores game-winner as Inter Miami edges Revs 2-1 nashuatelegraph.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi hits 937 career goals in Inter Miami 2-1 win - Punch Newspapers",
      "published": "2026-11-02T07:17:25+00:00",
      "summary": "Messi hits 937 career goals in Inter Miami 2-1 win Punch Newspapers"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#15",
      "title": "Messi scores and assists in Inter Miami victory - Footboom",
      "published": "2026-11-02T07:10:32+00:00",
      "summary": "Messi scores and assists in Inter Miami victory Footboom"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#16",
      "title": "Messi heroics lead Inter Miami to Champions Cup - MorungExpress",
      "published": "2026-11-02T06:55:11+00:00",
      "summary": "Messi heroics lead Inter Miami to Champions Cup MorungExpress"
     },
     {
-     "ref": "gnews_inter_miami#11",
-     "title": "Goal and assist from Messi: Inter Miami secures important away win with a comeback - Zamin.uz",
-     "published": "2026-11-02T06:51:00+00:00",
-     "summary": "Goal and assist from Messi: Inter Miami secures important away win with a comeback Zamin.uz"
-    },
-    {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#17",
      "title": "Messi Scores As Inter Miami Beat New England, Seal Champions Cup Qualification - TVC News",
      "published": "2026-11-02T06:45:00+00:00",
      "summary": "Messi Scores As Inter Miami Beat New England, Seal Champions Cup Qualification TVC News"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#18",
      "title": "Messi’s late goal lifts Inter Miami to second in MLS Eastern Conference - TheReport.live",
      "published": "2026-11-02T06:39:14+00:00",
      "summary": "Messi’s late goal lifts Inter Miami to second in MLS Eastern Conference TheReport.live"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi scores and assists as Inter Miami beat New England Revolution 2-1 - Telangana Today",
      "published": "2026-11-02T06:29:06+00:00",
      "summary": "Lionel Messi scores and assists as Inter Miami beat New England Revolution 2-1 Telangana Today"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#20",
      "title": "WATCH: Lionel Messi produces incredible solo goal after dribbling past three defenders to seal Inter Miami’s comeback win - Sports Tiger",
      "published": "2026-11-02T06:24:43+00:00",
      "summary": "WATCH: Lionel Messi produces incredible solo goal after dribbling past three defenders to seal Inter Miami’s comeback win Sports Tiger"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi scores, assists for Inter Miami vs. New England - Mundo Albiceleste",
      "published": "2026-11-02T06:22:35+00:00",
      "summary": "Lionel Messi scores, assists for Inter Miami vs. New England Mundo Albiceleste"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi Sends Inter Miami Second With 2-1 Win At New England - NDTV Sports",
      "published": "2026-11-02T06:19:29+00:00",
      "summary": "Lionel Messi Sends Inter Miami Second With 2-1 Win At New England NDTV Sports"
     },
     {
-     "ref": "gnews_inter_miami#18",
-     "title": "New England vs Inter Miami: Major League Soccer stats & head-to-head - BBC",
-     "published": "2026-11-02T06:18:03+00:00",
-     "summary": "New England vs Inter Miami: Major League Soccer stats & head-to-head BBC"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi magic leads Inter Miami comeback against New England Revolution to secure 2027 Champions Cup berth - Goal.com",
      "published": "2026-11-02T05:26:40+00:00",
      "summary": "Lionel Messi magic leads Inter Miami comeback against New England Revolution to secure 2027 Champions Cup berth Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#24",
      "title": "Pure cinema from Messi! How did Inter Miami captain score his 937th career goal, against New England in MLS? Watch video - Livemint",
      "published": "2026-11-02T05:09:04+00:00",
      "summary": "Pure cinema from Messi! How did Inter Miami captain score his 937th career goal, against New England in MLS? Watch video Livemint"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Lionel Messi Dribbles Past Defenders To Score Stunning Goal In Inter Miami's 2-1 Win | WATCH - The Daily Jagran",
-     "published": "2026-11-02T04:58:00+00:00",
-     "summary": "Lionel Messi Dribbles Past Defenders To Score Stunning Goal In Inter Miami's 2-1 Win | WATCH The Daily Jagran"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "4 takeaways as Messi magic the difference in the Revolution’s 2-1 loss vs. Inter Miami - Boston.com",
-     "published": "2026-11-02T04:09:41+00:00",
-     "summary": "4 takeaways as Messi magic the difference in the Revolution’s 2-1 loss vs. Inter Miami Boston.com"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "New England Revolution vs Inter Miami standings: How the MLS points table looks like after Lionel Messi's 937th goal? - Livemint",
-     "published": "2026-11-02T04:07:55+00:00",
-     "summary": "New England Revolution vs Inter Miami standings: How the MLS points table looks like after Lionel Messi's 937th goal? Livemint"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Aksi Brilian Messi Menangkan Inter Miami di Kandang New England - OneFootball",
-     "published": "2026-11-02T04:01:12+00:00",
-     "summary": "Aksi Brilian Messi Menangkan Inter Miami di Kandang New England OneFootball"
     }
    ]
   },
@@ -1142,7 +1142,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_israeli_nba#5",
      "title": "NBA: Trail Blazers bounce back, roll over Jazz - Inquirer.net",
-     "published": "2026-11-01T06:43:00+00:00",
+     "published": "2026-11-01T06:49:24+00:00",
      "summary": "NBA: Trail Blazers bounce back, roll over Jazz Inquirer.net"
     },
     {
@@ -1165,9 +1165,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#9",
-     "title": "Blazers blow out Jazz with Ja Morant sidelined - FASTBREAK.com.ph",
-     "published": "2026-11-01T01:45:17+00:00",
-     "summary": "Blazers blow out Jazz with Ja Morant sidelined FASTBREAK.com.ph"
+     "title": "Blazers blow out Jazz with Ja Morant sidelined - NST Online",
+     "published": "2026-11-01T00:29:35+00:00",
+     "summary": "Blazers blow out Jazz with Ja Morant sidelined NST Online"
     },
     {
      "ref": "gnews_israeli_nba#10",
@@ -1177,48 +1177,78 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#11",
+     "title": "Trail Blazers Play A Tune On The Jazz - Rip City Radio 620 Portland",
+     "published": "2026-10-31T22:06:00+00:00",
+     "summary": "Trail Blazers Play A Tune On The Jazz Rip City Radio 620 Portland"
+    },
+    {
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija Highlights (24 Points, 5 Rebounds) | Trail Blazers 112, Jazz 90 | Oct. 31, 2026 - NBA.com",
      "published": "2026-10-31T22:03:10+00:00",
      "summary": "Deni Avdija Highlights (24 Points, 5 Rebounds) | Trail Blazers 112, Jazz 90 | Oct. 31, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija finishes through contact - Yahoo Sports",
      "published": "2026-10-31T21:36:33+00:00",
      "summary": "Deni Avdija finishes through contact Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija scores game-high 24 points vs. Utah - NBC Sports",
      "published": "2026-10-31T21:33:00+00:00",
      "summary": "Deni Avdija scores game-high 24 points vs. Utah NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
+     "title": "Trail Blazers vs. Nuggets - Live Score - November 02, 2026 - FOX Sports",
+     "published": "2026-10-31T20:09:45+00:00",
+     "summary": "Trail Blazers vs. Nuggets - Live Score - November 02, 2026 FOX Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#16",
+     "title": "Trail Blazers 112-90 Jazz (31 Oct, 2026) Final Score - ESPN",
+     "published": "2026-10-31T09:07:15+00:00",
+     "summary": "Trail Blazers 112-90 Jazz (31 Oct, 2026) Final Score ESPN"
+    },
+    {
+     "ref": "gnews_israeli_nba#17",
+     "title": "Portland Trail Blazers open 2026-27 NBA season - OregonLive.com",
+     "published": "2026-10-31T01:59:28+00:00",
+     "summary": "Portland Trail Blazers open 2026-27 NBA season OregonLive.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#18",
      "title": "Ja Morant injury makes it clear Blazers need Point Deni back - Rip City Project",
      "published": "2026-10-30T19:59:33+00:00",
      "summary": "Ja Morant injury makes it clear Blazers need Point Deni back Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#19",
+     "title": "Ja Morant Injury Forces Blazers to Rethink Offense After 3-0 Start - roundtable.io",
+     "published": "2026-10-30T19:50:26+00:00",
+     "summary": "Ja Morant Injury Forces Blazers to Rethink Offense After 3-0 Start roundtable.io"
+    },
+    {
+     "ref": "gnews_israeli_nba#20",
      "title": "Trail Blazers' Deni Avdija: Strong start continues - CBS Sports",
      "published": "2026-10-30T17:10:52+00:00",
      "summary": "Trail Blazers' Deni Avdija: Strong start continues CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija News: Strong start continues - RotoWire",
      "published": "2026-10-30T17:10:52+00:00",
      "summary": "Deni Avdija News: Strong start continues RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija leads Blazers in loss to Memphis - FantasyPros",
      "published": "2026-10-30T13:52:16+00:00",
      "summary": "Deni Avdija leads Blazers in loss to Memphis FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#23",
      "title": "Nets Exercise Options For Egor Demin, Drake Powell, Ben Saraf, Nolan Traore, Danny Wolf - RealGM",
      "published": "2026-10-30T12:34:00+00:00",
      "summary": "Nets Exercise Options For Egor Demin, Drake Powell, Ben Saraf, Nolan Traore, Danny Wolf RealGM"
