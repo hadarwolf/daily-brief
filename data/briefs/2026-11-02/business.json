@@ -1,0 +1,91 @@
+{
+  "section": "business",
+  "date": "2026-11-02",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-02T03:47:53+00:00",
+  "stories": [
+    {
+      "id": "openai-funding-markdown",
+      "kind": "analysis",
+      "en": {
+        "headline": "OpenAI Trims Its Ask as Wall Street Quietly Hedges the AI Trade",
+        "scroll": "OpenAI reportedly cut its new funding round by $10B and marked its own valuation down to $1.25 trillion to beat Anthropic to the close, as Wall Street hunts for insurance against the wider AI trade unwinding.",
+        "coffee": "OpenAI has reportedly cut the size of its next funding round by $10 billion, to $20 billion, and lowered its own implied valuation from $1.4 trillion to $1.25 trillion, according to a Financial Times report. Sequoia, Founders Fund and Andreessen Horowitz are expected to take part, and OpenAI is said to be racing to close the round before rival Anthropic completes its own.\n\nA valuation markdown before a round even closes usually means investors pushed back during negotiation, not that the company simply wanted less money. It lands alongside a Wall Street Journal report that investors across the AI trade are actively hunting for ways to insure themselves against it unwinding, partly because so much of the buildout runs on vendor financing — chip and cloud suppliers extending credit or taking stakes in the very companies buying their hardware, which flatters both sides' numbers on the way up and exposes both on the way down.\n\nWhy it matters: a lower OpenAI mark makes it harder for every other AI-adjacent company to justify its own high valuation to investors, and it sharpens the race with Anthropic over who sets the next price. Watch whether the round actually closes at these reduced terms, and how costly AI-downside insurance gets.",
+        "deep": "## Background\n\nA frontier AI lab like OpenAI burns cash faster than almost any company in history: training and running large models requires renting enormous amounts of cloud computing and chips, well before the resulting products turn a profit. That makes late-stage fundraising rounds — where a private company sells new shares to investors like venture funds, sovereign wealth funds or hedge funds — existential rather than optional. The size and price of such a round (the company's implied valuation) are set through negotiation between the company and the investors it is courting, not by a public market.\n\n## The story\n\nOpenAI is reportedly cutting the size of its next funding round by $10 billion, from a $30 billion target to $20 billion, and has lowered its own implied valuation from $1.4 trillion to $1.25 trillion, according to a Financial Times report relayed by TheMarker. Venture firms including Sequoia, Founders Fund and Andreessen Horowitz are expected to take part. The same report describes OpenAI as racing to close the round quickly, ahead of a rumored raise by rival Anthropic.\n\nA valuation cut before a round even closes is a meaningful signal. It usually means investors pushed back on the original asking price during negotiations, rather than the company simply deciding to raise less for its own reasons. Scaling back the target size alongside the lower valuation points the same way: demand at the original terms was not as deep as OpenAI had hoped.\n\nThis is happening against a backdrop described in the Wall Street Journal: with trillions of dollars now riding on the \"AI trade\" — the broad bet that AI will justify today's spending on chips, data centers and model training — investors and even tech executives are actively hunting for ways to insure themselves against that bet going wrong. One mechanism inflating the stakes on both sides is vendor financing: chip makers and cloud providers extending credit, taking equity stakes, or signing huge forward purchase commitments with the AI labs and startups that buy their hardware. That arrangement flatters both sides' numbers while they are rising, because a supplier's \"sales\" and a customer's \"committed capacity\" can be two sides of the same financing arrangement — but it means a slowdown on either side hits both.\n\n## Second-order effects\n\nA markdown at OpenAI, even a modest one relative to its still-enormous $1.25 trillion valuation, matters beyond the company itself. Venture and growth investors use recent \"marks\" — the prices at which shares last changed hands — to value their stakes in every other AI-adjacent company they hold, public or private. A lower OpenAI mark gives late-stage investors in rival labs and AI infrastructure startups a harder time justifying their own higher marks. It also changes the competitive calculus with Anthropic: if OpenAI is racing to close before Anthropic raises, it is trying to lock in capital — and a valuation benchmark — before its closest rival can set a new, possibly lower, one.\n\nThe vendor-financing angle compounds this. Because so much of the AI buildout is funded by deals between a small number of chip, cloud and model companies investing in each other's customers and suppliers, a wobble in confidence anywhere in that chain — a lower valuation, a stalled round, a disappointing earnings report — can ripple through all of it. That is consistent with other items in today's feeds: Japanese technology stocks fell on a selloff in their American AI-linked peers, and foreign investors pulled a record amount of money out of Taiwanese stocks (whose index is dominated by chipmakers) over fears of an AI-driven correction.\n\n## What to watch next\n\nWhether OpenAI's round actually closes at the reduced $20 billion size and $1.25 trillion valuation, and on what timeline relative to Anthropic's own reported fundraising, will be the clearest read on whether this is a one-off negotiation or the start of a broader repricing of AI bets. Also worth watching: how visible and how costly the \"insurance\" products Wall Street is now building against an AI-trade unwind become — their price is itself a market signal of how seriously professional investors take the downside case, separate from what any single company says in public."
+      },
+      "he": {
+        "headline": "OpenAI מקצצת את יעד הגיוס שלה, בזמן שוול סטריט מגדרת בשקט את העסקה של ה-AI",
+        "scroll": "לפי דיווח, OpenAI קיצצה ב-10 מיליארד דולר את סבב הגיוס שלה והפחיתה את שוויה ל-1.25 טריליון דולר כדי להקדים את אנתרופיק — בזמן שוול סטריט מחפשת דרכים לגדר את עצמה מפני התפוצצות העסקה הרחבה של ה-AI.",
+        "coffee": "לפי דיווח ב-Financial Times, OpenAI מקצצת את גיוס ההון הקרוב שלה ב-10 מיליארד דולר, ל-20 מיליארד דולר, ומפחיתה את השווי המשתמע שלה (valuation) מ-1.4 טריליון דולר ל-1.25 טריליון דולר. סקויה, פאונדרס פאנד ואנדריסן הורוביץ צפויות להשתתף, ו-OpenAI ממהרת, כך נטען, לסגור את הסבב לפני שהמתחרה אנתרופיק תשלים גיוס משל עצמה.\n\nהפחתת שווי לפני שסבב נסגר בדרך כלל מעידה על כך שהמשקיעים דחפו נגד המחיר במשא ומתן, לא שהחברה פשוט רצתה פחות כסף. זה מגיע לצד דיווח ב-Wall Street Journal על כך שמשקיעים בכל רחבי \"העסקה של ה-AI\" מחפשים באופן אקטיבי דרכים לגדר את עצמם מפני התפוצצותה — בין היתר כי חלק גדול מהבנייה ממומן במימון ספקים (vendor financing): ספקי שבבים וענן שמעניקים אשראי או רוכשים אחזקות בחברות שרוכשות מהם חומרה, מה שמייפה את המספרים של שני הצדדים בעלייה וחושף את שניהם בירידה.\n\nלמה זה חשוב: שווי מופחת ב-OpenAI מקשה על כל חברת AI אחרת להצדיק למשקיעים את השווי הגבוה שלה, ומחדד את התחרות עם אנתרופיק על מי קובע את המחיר הבא. שווה לעקוב אם הסבב אכן נסגר בתנאים המופחתים, וכמה יקר יהפוך ביטוח מפני תרחיש שלילי ב-AI.",
+        "deep": "## רקע\n\nמעבדת AI מהשורה הראשונה כמו OpenAI שורפת מזומן בקצב שכמעט אין לו תחרות בעולם העסקי: אימון והרצה של מודלים גדולים מחייבים שכירת כוח מחשוב וערכות שבבים (chips) בכמויות עתק, הרבה לפני שהמוצרים שנוצרים מהם מניבים רווח. זה הופך גיוסי הון (fundraising rounds) בשלבים מאוחרים למשהו קיומי ולא לבררה. בגיוס כזה חברה פרטית מוכרת מניות חדשות למשקיעים — קרנות הון סיכון, קרנות עושר של מדינות או קרנות גידור — והגודל והמחיר שלו (כלומר, השווי המשתמע של החברה) נקבעים במשא ומתן, לא בשוק פתוח.\n\n## הסיפור\n\nלפי דיווח ב-Financial Times שתורגם בדה מרקר, OpenAI מקצצת את גיוס ההון הקרוב שלה ב-10 מיליארד דולר — מיעד של 30 מיליארד דולר ל-20 מיליארד דולר — ומפחיתה את השווי המשתמע שלה מ-1.4 טריליון דולר ל-1.25 טריליון דולר. קרנות הון סיכון כמו סקויה, פאונדרס פאנד ואנדריסן הורוביץ צפויות להשתתף. לפי אותו דיווח, OpenAI ממהרת לסגור את הסבב לפני שהמתחרה אנתרופיק תשלים גיוס משל עצמה.\n\nהפחתת שווי לפני שהסבב נסגר היא אות משמעותי: היא בדרך כלל מעידה על כך שהמשקיעים דחפו נגד המחיר המקורי במשא ומתן, ולא שהחברה פשוט בחרה לגייס פחות מרצונה. הקיצוץ בגודל הסבב, במקביל להפחתת השווי, מצביע לאותו כיוון — הביקוש במחיר המקורי לא היה עמוק כמו ש-OpenAI קיוותה.\n\nזה קורה על רקע שמתואר ב-Wall Street Journal: עם טריליוני דולרים שמונחים כעת על \"העסקה של ה-AI\" (the AI trade) — ההנחה הרחבה שה-AI יצדיק את ההוצאות של היום על שבבים, מרכזי נתונים ואימון מודלים — משקיעים ואפילו מנהלי טכנולוגיה מחפשים באופן אקטיבי דרכים לגדר (hedge) את עצמם מפני מצב שבו ההנחה הזו מתבררת כשגויה. מכניזם אחד שמנפח את הסיכון משני הצדדים הוא מימון ספקים (vendor financing): יצרני שבבים וחברות תשתית ענן שמעניקות אשראי, רוכשות אחזקות מניות, או חותמות על התחייבויות רכישה עתידיות עתירות היקף עם מעבדות ה-AI והחברות שרוכשות את החומרה שלהן. ההסדר הזה מייפה את המספרים של שני הצדדים כל עוד הם עולים — כי \"מכירות\" של ספק ו\"התחייבות קיבולת\" של לקוח יכולות להיות שני צדדים של אותו הסדר מימוני בדיוק — אבל הוא אומר שהאטה בכל אחד מהצדדים פוגעת בשניהם.\n\n## השפעות מדרגה שנייה\n\nהפחתת שווי ב-OpenAI, אפילו מתונה יחסית לשווי העצום עדיין של 1.25 טריליון דולר, חשובה הרבה מעבר לחברה עצמה. משקיעי הון סיכון וגידול (growth) משתמשים ב\"סימוני מחיר\" (marks) אחרונים — המחירים שבהם מניות החברה הוחלפו לאחרונה — כדי להעריך את האחזקות שלהם בכל חברה אחרת הקשורה ל-AI, ציבורית או פרטית. סימון נמוך יותר ב-OpenAI מקשה על משקיעים בשלבים מאוחרים בחברות AI מתחרות ובחברות תשתית AI להצדיק את הסימונים הגבוהים משל עצמם. זה גם משנה את החשבון התחרותי עם אנתרופיק: אם OpenAI ממהרת לסגור לפני שאנתרופיק מגייסת, היא מנסה לנעול הון — ואמת מידה לשווי — לפני שהיריבה הקרובה שלה תקבע אמת מידה חדשה, אולי נמוכה יותר.\n\nזווית מימון הספקים מגבירה את זה. מכיוון שחלק גדול מבנייתה של תעשיית ה-AI ממומן בעסקות בין מספר קטן של חברות שבבים, ענן ומודלים שמשקיעות זו בלקוחותיה וספקיה של זו, רעידה באמון בכל מקום בשרשרת הזו — שווי מופחת, סבב גיוס שנתקע, דוח רבעוני מאכזב — יכולה להתפשט על פני כל המערכת. זה מתיישב עם פריטים אחרים בפיד של היום: מניות טכנולוגיה יפניות נפלו בעקבות מכירת חיסול (selloff) במניות AI אמריקאיות מקבילות, ומשקיעים זרים משכו סכום שיא ממניות טאיוואניות (שהמדד שלהן נשלט על ידי יצרני שבבים) מחשש לתיקון שמקורו ב-AI.\n\n## מה לעקוב אחריו הלאה\n\nהשאלה אם סבב הגיוס של OpenAI אכן ייסגר בגודל המופחת של 20 מיליארד דולר ובשווי 1.25 טריליון דולר, ובאיזה לוח זמנים יחסית לגיוס המדווח של אנתרופיק, תהיה האינדיקציה הברורה ביותר לכך שזה אירוע חד-פעמי במשא ומתן ולא תחילתה של תמחור מחדש רחב יותר של התחייבויות ה-AI. שווה לעקוב גם אחרי כמה גלויים וכמה יקרים יהפכו מוצרי ה\"ביטוח\" שוול סטריט בונה כעת נגד התפוצצות העסקה של ה-AI — המחיר שלהם הוא עצמו אינדיקציה שוקית לכמה בכובד ראש משקיעים מקצועיים מתייחסים לתרחיש השלילי, בלי קשר למה שכל חברה בודדת אומרת בפומבי."
+      },
+      "tags": [
+        "openai",
+        "ai",
+        "venture-capital",
+        "valuation"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "הבהלה ניכרת: OpenAI חתכה ב–10 מיליארד דולר את יעד הגיוס — וממהרת להקדים את אנתרופיק",
+          "url": "https://www.themarker.com/wallstreet/2026-11-01/ty-article-live/000001a1-9606-df63-ade5-f6579a5e0000"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+          "url": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Investors Are Hedging Against the Risks of the AI Boom",
+          "url": "https://www.wsj.com/articles/investors-are-hedging-against-the-risks-of-the-ai-boom-603203d5?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Tangled Web of AI Bets Is Reason to Fear Tech Stocks",
+          "url": "https://www.wsj.com/tech/the-tangled-web-of-ai-bets-is-reason-to-fear-tech-stocks-905bde86?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4058.95,
+      "prev_close": 4144.3999,
+      "change_pct": -2.06,
+      "as_of": "2026-10-30"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7580.0698,
+      "prev_close": 7720.3901,
+      "change_pct": -1.82,
+      "as_of": "2026-10-30"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1412,
+      "prev_close": 3.1084,
+      "change_pct": 1.06,
+      "as_of": "2026-11-02"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 110.17,
+      "prev_close": 117.64,
+      "change_pct": -6.35,
+      "as_of": "2026-11-01"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 78545.6562,
+      "prev_close": 77434.75,
+      "change_pct": 1.43,
+      "as_of": "2026-11-02"
+    }
+  }
+}

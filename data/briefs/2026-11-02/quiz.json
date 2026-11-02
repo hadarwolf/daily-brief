@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-02",
+  "questions": [
+    {
+      "id": "q-sports-arsenal-anfield",
+      "section": "sports",
+      "story_id": "arsenal-end-anfield-curse",
+      "answer_index": 0,
+      "en": {
+        "question": "Why was Arsenal's 1-0 win over Liverpool at Anfield significant?",
+        "options": [
+          "It was their first win there in 14 years, and put them three points clear at the top of the table",
+          "It was Arsenal's first ever win at Anfield",
+          "It eliminated Liverpool from the title race entirely",
+          "It avenged a League Cup final defeat"
+        ],
+        "explanation": "Arsenal hadn't won at Anfield since 2012, and the result opened a three-point lead at the top of the Premier League."
+      },
+      "he": {
+        "question": "למה היה חשוב הניצחון 1-0 של ארסנל על ליברפול באנפילד?",
+        "options": [
+          "זה היה הניצחון הראשון שלה באנפילד מזה 14 שנה, והוא פתח לה יתרון של שלוש נקודות בראש הטבלה",
+          "זה היה הניצחון הראשון בהיסטוריה של ארסנל באנפילד",
+          "זה הדיח את ליברפול לחלוטין ממרוץ האליפות",
+          "זה היה נקמה על הפסד בגמר ליגת הגביע"
+        ],
+        "explanation": "ארסנל לא ניצחה באנפילד מאז 2012, והניצחון הזה פתח לה יתרון של שלוש נקודות בראש הפרמייר ליג."
+      }
+    },
+    {
+      "id": "q-israeli-politics-eisenkot",
+      "section": "israeli_politics",
+      "story_id": "coalition-eisenkot-standoff",
+      "answer_index": 0,
+      "en": {
+        "question": "What tension did Bennett's recommendation of Eisenkot expose in the 'change bloc'?",
+        "options": [
+          "It can only keep one of its two founding commitments - drafting Haredim or shunning the Arab parties",
+          "It guaranteed an immediate Haredi-led government",
+          "It eliminated the need for a Knesset Speaker vote",
+          "It forced Netanyahu's resignation"
+        ],
+        "explanation": "The bloc was built on drafting Haredi yeshiva students and shunning Arab parties, but the election result means it can only keep one of the two."
+      },
+      "he": {
+        "question": "איזה מתח חשפה ההמלצה של בנט על איזנקוט בתוך 'גוש השינוי'?",
+        "options": [
+          "שהוא יכול לשמור רק על אחת משתי ההתחייבויות המקוריות שלו - גיוס חרדים או החרמת המפלגות הערביות",
+          "שהוא הבטיח ממשלה חרדית מיידית",
+          "שהוא ביטל את הצורך בהצבעה על יו\"ר הכנסת",
+          "שהוא הביא להתפטרות נתניהו"
+        ],
+        "explanation": "הגוש נבנה על גיוס בני ישיבות חרדים והחרמת המפלגות הערביות, אך תוצאות הבחירות מאפשרות לו לעמוד רק באחת מהשתיים."
+      }
+    },
+    {
+      "id": "q-business-openai-markdown",
+      "section": "business",
+      "story_id": "openai-funding-markdown",
+      "answer_index": 0,
+      "en": {
+        "question": "What does a valuation markdown before a funding round closes, like OpenAI's, usually signal?",
+        "options": [
+          "That investors pushed back on the original asking price during negotiations",
+          "That the company has become profitable",
+          "That a regulator forced the company to cut its valuation",
+          "That a rival company acquired it"
+        ],
+        "explanation": "A markdown before a round closes usually means investors negotiated the price down, not that the company simply chose to raise less."
+      },
+      "he": {
+        "question": "מה בדרך כלל מסמנת הפחתת שווי לפני סגירת סבב גיוס הון, כמו זו של OpenAI?",
+        "options": [
+          "שהמשקיעים דחפו נגד המחיר המקורי במהלך המשא ומתן",
+          "שהחברה הפכה לרווחית",
+          "שרגולטור הכריח את החברה להפחית את שוויה",
+          "שחברה מתחרה רכשה אותה"
+        ],
+        "explanation": "הפחתת שווי לפני סגירת סבב כמעט תמיד מעידה שהמשקיעים דרשו מחיר נמוך יותר במשא ומתן, ולא שהחברה החליטה מיוזמתה לגייס פחות."
+      }
+    }
+  ]
+}

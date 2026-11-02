@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-02",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-02T03:47:53+00:00",
+  "stories": [
+    {
+      "id": "word-runway",
+      "kind": "word",
+      "en": {
+        "headline": "Runway (מסלול מזומנים)",
+        "scroll": "How many months a company can keep spending before its cash runs out.",
+        "coffee": "Runway is the number of months a company can keep operating at its current spending rate before it runs out of cash — found by dividing cash on hand by the monthly burn rate. It's the metric that sets the deadline for the next fundraising round, a profitable quarter, or a round of cuts. \"The seed round gave us eighteen months of runway, but a slower-than-planned launch cut that to ten.\"",
+        "deep": "Runway and burn rate are often used interchangeably, which causes real confusion: burn rate is a speed (how much cash disappears per month), while runway is the resulting distance — how many months that speed allows before the account hits zero. A company can have a high burn rate and still have long runway, if it also holds a lot of cash.\n\nThe number is also a snapshot, not a forecast: it assumes spending stays flat, but burn usually rises as a company hires, so a \"twelve-month runway\" calculated today can shrink faster than expected. Founders and CFOs talk about \"extending runway\" (cutting costs or raising a bridge round) long before the number hits zero, because investors get nervous well in advance.\n\nExamples: \"They laid off 15% of staff to extend runway into next year.\" \"Our runway is tight, so the next round isn't optional.\" In Hebrew, the concept is usually just called מסלול מזומנים — literally \"cash runway\" — borrowing the aviation image of a plane needing enough track left to take off before reaching the end."
+      },
+      "he": {
+        "headline": "Runway (מסלול מזומנים)",
+        "scroll": "כמה חודשי פעילות נשארו לחברה בקצב ההוצאה הנוכחי, לפני שהמזומן נגמר.",
+        "coffee": "מסלול מזומנים (runway) הוא מספר החודשים שחברה יכולה להמשיך לפעול בקצב ההוצאה הנוכחי לפני שהמזומן בקופה מתאפס – מחשבים אותו על ידי חילוק המזומן הקיים בקצב השריפה החודשי (burn rate). זה המדד שקובע את הדדליין לסבב הגיוס הבא, לרבעון רווחי, או לסבב קיצוצים. \"סבב הזרע נתן לנו מסלול של שמונה עשר חודשים, אבל השקה שהתעכבה קיצרה אותו לעשרה.\"",
+        "deep": "קצב השריפה (burn rate) ומסלול המזומנים (runway) מתבלבלים לעיתים קרובות, אך ההבדל חשוב: קצב השריפה הוא מהירות – כמה כסף נעלם בכל חודש – ואילו המסלול הוא התוצאה: כמה חודשים אפשר להחזיק מעמד במהירות הזו לפני שהחשבון מתאפס. חברה יכולה לשרוף הרבה כסף בחודש ועדיין ליהנות ממסלול ארוך, אם יש לה כרית מזומנים גדולה מספיק.\n\nהמספר הזה הוא גם תצלום רגעי, לא תחזית: ההנחה היא שההוצאה נשארת קבועה, אבל בפועל קצב השריפה עולה כשחברה מגדילה את כוח האדם, כך ש\"מסלול של שנה\" שחושב היום יכול להתקצר הרבה יותר מהר. מייסדים ומנהלי כספים מדברים על \"הארכת המסלול\" (קיצוץ בהוצאות או גיוס גישור) הרבה לפני שהמספר מגיע לאפס, כי משקיעים מתחילים לדאוג מבעוד מועד.\n\nדוגמאות: \"הם פיטרו 15% מהעובדים כדי להאריך את המסלול לשנה הבאה.\" \"המסלול שלנו קצר, אז הסבב הבא אינו אופציונלי.\" באנגלית המונח, runway, שואל את הדימוי מעולם התעופה – מטוס שצריך מסלול מספיק ארוך כדי להמריא לפני שהוא מגיע לקצה."
+      },
+      "tags": [
+        "vocabulary",
+        "startups",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-flight-to-quality",
+      "kind": "word",
+      "en": {
+        "headline": "Flight to quality (מעבר לנכסים בטוחים)",
+        "scroll": "Investors dumping risky assets for safer ones when fear rises.",
+        "coffee": "A flight to quality is what happens when investors, spooked by risk, sell riskier assets — stocks, corporate debt, emerging-market currencies — and pile into the safest instruments they can find, usually government bonds, gold or cash. It's less about an individual asset's fundamentals and more about collective nerves. \"When the market sold off on Monday, the flight to quality pushed yields on short-term treasuries down sharply.\"",
+        "deep": "\"Flight to quality\" is often used as a synonym for \"risk-off\" or \"flight to safety\" — and in casual business talk, it mostly is. The subtle distinction worth knowing: risk-off describes the mood (investors broadly reducing risk, including by raising cash or hedging), while flight to quality specifically means money moving into recognizably safer, higher-grade assets rather than simply out of risky ones. It's also a relative term: during a crisis, even some \"safe\" assets can get swept up in selling if everyone needs cash at once, which confuses people expecting them to always hold up.\n\nExamples: \"Corporate bond spreads widened as the flight to quality accelerated.\" \"Demand for government paper surged on a flight to quality after the surprise data.\" \"Gold, as usual, benefited from the flight to quality.\" In Hebrew this is usually rendered מעבר לנכסים בטוחים — literally \"a shift to safe assets\" — capturing the same idea of money retreating toward safety rather than disappearing."
+      },
+      "he": {
+        "headline": "Flight to quality (מעבר לנכסים בטוחים)",
+        "scroll": "משקיעים נוטשים נכסים מסוכנים לטובת נכסים בטוחים יותר כשהפחד עולה.",
+        "coffee": "מעבר לנכסים בטוחים (flight to quality) הוא מה שקורה כשמשקיעים, מבוהלים מסיכון, מוכרים נכסים מסוכנים יותר – מניות, אג\"ח קונצרניות, מטבעות של שווקים מתעוררים – ונוהרים לכלים הבטוחים ביותר שהם מוצאים, בדרך כלל אג\"ח ממשלתיות, זהב או מזומן. זה פחות קשור לנתונים הבסיסיים של נכס מסוים ויותר לעצבנות קולקטיבית. \"כשהשוק נפל ביום שני, המעבר לנכסים בטוחים דחף את התשואות על אג\"ח ממשלתיות קצרות למטה בחדות.\"",
+        "deep": "\"מעבר לנכסים בטוחים\" משמש לעיתים קרובות כמילה נרדפת ל\"risk-off\" או ל\"בריחה לבטיחות\" – ובשיחת עסקים יומיומית זה בעיקר נכון. ההבדל הדק שכדאי להכיר: risk-off מתאר מצב רוח (משקיעים מקטינים סיכון באופן כללי, כולל על ידי החזקת מזומן או גידור), בעוד מעבר לנכסים בטוחים מתייחס באופן ספציפי לכסף שעובר לנכסים מוכרים כבטוחים ואיכותיים יותר, ולא רק יוצא מנכסים מסוכנים. זה גם מונח יחסי: במשבר, אפילו חלק מהנכסים ה\"בטוחים\" יכולים להיסחף במכירות אם כולם צריכים מזומן בבת אחת, מה שמבלבל מי שמצפה מהם להחזיק מעמד תמיד.\n\nדוגמאות: \"מרווחי האג\"ח הקונצרניות התרחבו כשהמעבר לנכסים בטוחים התגבר.\" \"הביקוש לאג\"ח ממשלתיות זינק במעבר לנכסים בטוחים אחרי הנתונים המפתיעים.\" \"הזהב, כמו תמיד, נהנה מהמעבר לנכסים בטוחים.\" באנגלית זה נקרא flight to quality, שמבטא את אותו רעיון של כסף שנסוג לכיוון ביטחון, ולא נעלם."
+      },
+      "tags": [
+        "vocabulary",
+        "markets",
+        "risk"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-kick-the-tires",
+      "kind": "word",
+      "en": {
+        "headline": "Kick the tires (לבדוק מקרוב לפני החלטה)",
+        "scroll": "To examine something carefully and test it yourself before committing to a deal.",
+        "coffee": "To kick the tires means to inspect something closely and test it in practice before buying it or agreeing to a deal, the way a buyer might literally kick a used car's tires before purchasing it. In business talk it's shorthand for doing hands-on due diligence rather than just reading the pitch deck. \"Before we sign, let's kick the tires on their customer data — talk to a few actual users.\"",
+        "deep": "The idiom comes from car-buying: kicking a tire supposedly reveals whether it's properly inflated, though in practice it tells you almost nothing about the car's real condition — which is part of the joke when people use the phrase in finance. Said earnestly, \"kicking the tires\" means doing real due diligence: checking the numbers, talking to customers, stress-testing the product. Said sarcastically, it can mean doing only superficial, symbolic diligence that doesn't catch real problems — so tone and context matter.\n\nIt's often confused with \"due diligence\" itself, but the two aren't quite synonyms: due diligence is the formal process (financial, legal, technical review), while kicking the tires usually refers to a more informal, hands-on gut check that happens alongside or before the formal process.\n\nExamples: \"The fund spent a month kicking the tires before committing capital.\" \"We just want to kick the tires on the product — no commitment yet.\" In Hebrew, the closest equivalent phrase is לבדוק מקרוב (or colloquially לבדוק ברצינות לפני קנייה), capturing the same hands-on scrutiny rather than a literal translation of the car idiom."
+      },
+      "he": {
+        "headline": "Kick the tires (לבדוק מקרוב לפני החלטה)",
+        "scroll": "לבחון משהו מקרוב ולבדוק אותו בעצמך לפני שמתחייבים לעסקה.",
+        "coffee": "kick the tires פירושו המילולי \"לבעוט בצמיגים\" – כמו קונה שבועט בצמיגי מכונית יד שנייה לפני הרכישה – ובפועל פירושו לבחון משהו מקרוב ולבדוק אותו בשטח לפני שחותמים על עסקה. בשיחת עסקים זה קיצור דרך ל\"בדיקת נאותות עצמאית\" ולא רק קריאת מצגת המכירה. \"לפני שחותמים, בואו נבדוק מקרוב את נתוני הלקוחות שלהם – נדבר עם כמה משתמשים אמיתיים.\"",
+        "deep": "הביטוי מגיע מעולם רכישת המכוניות: בעיטה בצמיג כאילו חושפת אם הוא מנופח כראוי, אך בפועל היא לא מגלה כלום על המצב האמיתי של הרכב – וזה חלק מהבדיחה כשמשתמשים בביטוי בעולם הפיננסי. כשאומרים את זה בכנות, \"kicking the tires\" פירושו בדיקת נאותות אמיתית: בדיקת המספרים, שיחה עם לקוחות, מבחן עומס למוצר. כשאומרים את זה בציניות, זה יכול להצביע על בדיקה שטחית וסמלית בלבד שלא תופסת בעיות אמיתיות – כך שהטון וההקשר קובעים.\n\nהביטוי מתבלבל לעיתים קרובות עם \"due diligence\" (בדיקת נאותות) עצמה, אבל אלה לא בדיוק מילים נרדפות: due diligence הוא התהליך הפורמלי (בדיקה כספית, משפטית, טכנית), בעוד kick the tires מתייחס בדרך כלל לבדיקת בטן אינפורמלית יותר, מעשית, שמתרחשת לצד התהליך הפורמלי או לפניו.\n\nדוגמאות: \"הקרן העבירה חודש שלם ב-kicking the tires לפני שהתחייבה להון.\" \"אנחנו רק רוצים לבדוק מקרוב את המוצר – בלי התחייבות בשלב הזה.\" בעברית הביטוי הקרוב ביותר הוא לבדוק מקרוב (או בשפה יומיומית, לבדוק ברצינות לפני קנייה), ומבטא את אותה בדיקה מעשית, ולא תרגום מילולי לביטוי המכוניות."
+      },
+      "tags": [
+        "vocabulary",
+        "due-diligence",
+        "idiom"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-price-elasticity",
+      "kind": "concept",
+      "en": {
+        "headline": "Price elasticity of demand",
+        "scroll": "How much the quantity people buy changes when the price changes — the difference between a price hike nobody notices and one that drives customers away.",
+        "coffee": "Price elasticity of demand measures how sensitive buyers are to a price change: the percentage change in quantity demanded, divided by the percentage change in price. If a 10% price increase causes demand to fall by 20%, demand is \"elastic\" — raising the price loses more in volume than it gains in margin. If the same 10% increase only cuts demand by 2%, demand is \"inelastic\" — customers barely flinch, so the price increase is close to pure profit.\n\nWhat makes demand elastic or inelastic is mostly about substitutes and necessity. Insulin and gasoline are classically inelastic in the short run: people need them and have few alternatives, so sellers can raise prices without losing much volume. Streaming subscriptions or a specific brand of soda are far more elastic, because switching to a competitor costs the buyer almost nothing.\n\nThis is why airlines charge business travelers (inelastic — their employer is paying, they need the specific flight) far more than leisure travelers booking the same route weeks in advance (elastic — they'll shop around or skip the trip). The same seat, two different prices, because the two customers have very different sensitivity to price.",
+        "deep": "## The idea\n\nPrice elasticity of demand answers one question that every business with pricing power eventually asks: if I raise the price, do I come out ahead? The formula is straightforward — percentage change in quantity demanded, divided by percentage change in price — but the number it produces decides whether a price increase is a smart move or a mistake.\n\n## A worked example\n\nSuppose a neighborhood coffee shop sells 1,000 lattes a week at 15 shekels each, for weekly revenue of 15,000 shekels. The owner raises the price to 17 shekels — a 13.3% increase — and weekly sales drop to 880 lattes, a 12% fall in quantity.\n\nElasticity = -12% / 13.3% ≈ -0.9. Because the absolute value is just under 1, demand is close to \"unit elastic\" — the quantity drop almost exactly offsets the price gain. New revenue: 880 × 17 = 14,960 shekels — essentially unchanged from before. The price increase didn't help much, because customers were sensitive enough to the higher price to cancel out most of the gain.\n\nNow suppose a nearby chain with no real local competitor raises its price by the same 13.3%, and sales only fall by 4% because loyal customers have nowhere else convenient to go. Elasticity ≈ -0.3 (inelastic). New revenue rises meaningfully — the price increase is close to free money, because customers didn't have a good alternative.\n\n## Why it matters beyond coffee\n\nThis is the logic behind almost every pricing decision a business makes. A monopoly or a product with strong brand loyalty and few substitutes (an iPhone, a patented drug) can raise prices with limited volume loss — demand is inelastic. A commodity good sold by a dozen nearby competitors (gas stations on the same street) faces highly elastic demand, because a small price gap sends customers next door.\n\nIt also explains why governments tax cigarettes and alcohol rather than, say, bread: demand for addictive goods is relatively inelastic, so a tax raises revenue without crushing consumption, while taxing a necessity like bread would be both regressive and could sharply cut consumption of something people can't easily do without.\n\n## The catch\n\nElasticity isn't fixed — it changes with time horizon (demand for gasoline is inelastic in the short run, but elastic over years as people buy fuel-efficient cars), and with how narrowly a product is defined (demand for \"Coca-Cola\" is far more elastic than demand for \"soft drinks\" in general, since Pepsi is a close substitute for the former but not the latter). Any elasticity number is only a snapshot of one market at one moment."
+      },
+      "he": {
+        "headline": "גמישות מחיר של הביקוש",
+        "scroll": "כמה משתנה הכמות שאנשים קונים כשהמחיר משתנה – ההבדל בין העלאת מחיר שהלקוחות בקושי שמים לב אליה לבין אחת שמבריחה אותם.",
+        "coffee": "גמישות מחיר של הביקוש מודדת כמה רוכשים רגישים לשינוי במחיר: השינוי האחוזי בכמות המבוקשת, חלקי השינוי האחוזי במחיר. אם העלאת מחיר של 10% מובילה לצניחה של 20% בביקוש, הביקוש \"גמיש\" – העלאת המחיר מפסידה יותר בנפח מכירות ממה שהיא מרוויחה בשולי הרווח. אם אותה העלאה של 10% מקטינה את הביקוש בסך הכל ב-2%, הביקוש \"לא גמיש\" – הלקוחות בקושי מגיבים, כך שההעלאה היא בעיקר רווח נקי.\n\nמה שקובע אם ביקוש גמיש או לא הוא בעיקר קיומן של תחליפים והכרחיות המוצר. אינסולין ודלק הם דוגמאות קלאסיות לביקוש לא גמיש בטווח הקצר: אנשים חייבים אותם ויש להם מעט אלטרנטיבות, כך שמוכרים יכולים להעלות מחירים בלי לאבד נפח מכירות משמעותי. מנוי סטרימינג או מותג משקה מסוים הם גמישים הרבה יותר, כי המעבר למתחרה עולה ללקוח כמעט כלום.\n\nזו הסיבה שחברות תעופה גובות ממטיילי עסקים (ביקוש לא גמיש – המעסיק משלם, והם צריכים את הטיסה הספציפית) הרבה יותר ממטיילי פנאי שמזמינים את אותו קו שבועות מראש (ביקוש גמיש – הם יבדקו אלטרנטיבות או ידלגו על הטיול). אותו מושב, שני מחירים שונים, כי לשני הלקוחות יש רגישות שונה מאוד למחיר.",
+        "deep": "## הרעיון\n\nגמישות מחיר של הביקוש עונה על שאלה שכל עסק עם כוח תמחור שואל את עצמו במוקדם או במאוחר: אם אעלה את המחיר, האם ארוויח יותר בסוף? הנוסחה פשוטה – השינוי האחוזי בכמות המבוקשת, חלקי השינוי האחוזי במחיר – אבל התוצאה שהיא מניבה קובעת אם העלאת מחיר היא מהלך חכם או טעות.\n\n## דוגמה מחושבת\n\nנניח שבית קפה שכונתי מוכר 1,000 קפה-לאטה בשבוע במחיר של 15 שקלים ליחידה, כלומר הכנסה שבועית של 15,000 שקלים. הבעלים מעלה את המחיר ל-17 שקלים – עלייה של 13.3% – והמכירות השבועיות צונחות ל-880 יחידות, ירידה של 12% בכמות.\n\nגמישות = 12%- חלקי 13.3% ≈ 0.9-. מכיוון שהערך המוחלט קרוב ל-1, הביקוש הוא \"גמיש יחידתי\" – ירידת הכמות כמעט שמקזזת לחלוטין את עליית המחיר. הכנסה חדשה: 880 × 17 = 14,960 שקלים – כלומר בערך ללא שינוי. העלאת המחיר לא עזרה הרבה, כי הלקוחות היו רגישים מספיק למחיר הגבוה כדי לבטל את רוב הרווח הפוטנציאלי.\n\nנניח כעת שרשת סמוכה בלי מתחרה מקומי ממשי מעלה את המחיר באותם 13.3%, והמכירות צונחות רק ב-4%, כי ללקוחות הנאמנים אין לאן לזוז בנוחות. גמישות ≈ 0.3- (לא גמיש). ההכנסה עולה באופן משמעותי – העלאת המחיר היא כמעט כסף בחינם, כי לא הייתה ללקוחות אלטרנטיבה טובה.\n\n## למה זה חשוב מעבר לקפה\n\nזו הלוגיקה שעומדת מאחורי כמעט כל החלטת תמחור שעסק עושה. מונופול או מוצר עם נאמנות מותג חזקה ומעט תחליפים (אייפון, תרופה עם פטנט) יכול להעלות מחירים עם אובדן נפח מוגבל – הביקוש לא גמיש. מוצר סטנדרטי שנמכר על ידי עשרות מתחרים סמוכים (תחנות דלק באותו רחוב) מתמודד עם ביקוש גמיש מאוד, כי פער מחיר קטן שולח לקוחות לתחנה הסמוכה.\n\nזה גם מסביר למה ממשלות ממסות סיגריות ואלכוהול ולא, למשל, לחם: הביקוש למוצרים מכורים הוא יחסית לא גמיש, כך שמס מעלה הכנסות בלי לפגוע קשות בצריכה, בעוד מיסוי על מוצר הכרחי כמו לחם יהיה גם רגרסיבי וגם עלול לפגוע בצריכה של דבר שאנשים לא יכולים בקלות להתקיים בלעדיו.\n\n## הקאץ'\n\nגמישות אינה קבועה – היא משתנה עם אורך טווח הזמן (הביקוש לדלק לא גמיש בטווח הקצר, אבל גמיש יותר על פני שנים כשאנשים עוברים לרכבים חסכוניים), ועם רמת הדיוק בהגדרת המוצר (הביקוש ל\"קוקה קולה\" גמיש הרבה יותר מהביקוש ל\"משקאות קלים\" בכלל, כי פפסי הוא תחליף קרוב לראשון אך לא לשני). כל מספר גמישות הוא רק תצלום רגעי של שוק אחד ברגע אחד."
+      },
+      "tags": [
+        "economics",
+        "pricing",
+        "concept"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-balfour-declaration",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1917: Britain issues the Balfour Declaration backing a Jewish homeland in Palestine",
+        "scroll": "A one-paragraph letter from Britain's foreign secretary became one of the founding documents of modern Israel.",
+        "coffee": "On 2 November 1917, British foreign secretary Arthur Balfour wrote to Lord Rothschild, a leader of Britain's Jewish community, declaring the government's support for \"the establishment in Palestine of a national home for the Jewish people.\" At the time, Palestine was still an Ottoman territory with a small Jewish minority alongside a large Arab majority — Britain had not yet conquered it and had no formal authority there.\n\nThe declaration mattered less for its length (one paragraph) than for what it signaled: a major world power, for the first time, publicly endorsing Zionism's core aim. It was published in the press a week later and became a cornerstone of the British Mandate for Palestine after World War I, shaping the diplomacy — and the conflicts — that followed for the rest of the 20th century and into today.",
+        "deep": "## Background\n\nBy 1917, the Zionist movement — political action aimed at establishing a Jewish homeland, founded formally by Theodor Herzl in 1897 — had spent two decades building settlements in Ottoman Palestine and lobbying European governments for support. Britain, fighting the Ottoman Empire (an ally of Germany) in World War I, had strategic reasons to back the idea: sympathy among some British officials, a hope to rally Jewish opinion in the US and Russia behind the Allied war effort, and an eye on postwar influence in the Middle East once the Ottoman Empire collapsed.\n\n## The letter\n\nForeign secretary Arthur Balfour's letter to Lord Rothschild ran to a single paragraph. Its core line — Britain would \"view with favour the establishment in Palestine of a national home for the Jewish people\" — sat alongside a second clause stating this \"home\" must not prejudice \"the civil and religious rights of existing non-Jewish communities in Palestine.\" That second clause, often overlooked at the time, pointed straight at the tension that would define the following century: a promise of a homeland for one people, on land where another people already lived and had made no such promise to.\n\n## What followed\n\nThe declaration had no binding legal force on its own — Britain didn't yet control Palestine — but it shaped how Britain governed once it did, after the League of Nations granted it the Mandate for Palestine in 1922. Jewish immigration accelerated over the next three decades, Arab opposition hardened, and Britain's attempt to honor both halves of Balfour's sentence satisfied neither side. The Mandate ended in violence and a British withdrawal in 1948, the same year Israel declared independence.\n\n## The legacy\n\nOver a century later, the Balfour Declaration is remembered as a founding document in Israel and as the moment Britain promised away a land it didn't own in Palestinian national memory — two readings of the same 67 words that still shape how the conflict's origins are argued about today."
+      },
+      "he": {
+        "headline": "1917: בריטניה מפרסמת את הצהרת בלפור בתמיכה בבית לאומי יהודי בפלשתינה",
+        "scroll": "מכתב של פסקה אחת מאת שר החוץ הבריטי הפך לאחד המסמכים המכוננים של ישראל המודרנית.",
+        "coffee": "בשני בנובמבר 1917 כתב שר החוץ הבריטי ארתור בלפור ללורד רוטשילד, ממנהיגי הקהילה היהודית בבריטניה, מכתב שבו הצהירה הממשלה הבריטית על תמיכתה ב\"הקמת בית לאומי לעם היהודי בפלשתינה (ארץ ישראל)\". באותה עת פלשתינה הייתה עדיין שטח עות'מאני עם מיעוט יהודי קטן לצד רוב ערבי גדול – בריטניה עוד לא כבשה אותה ולא הייתה לה סמכות רשמית שם.\n\nחשיבות ההצהרה לא נבעה מאורכה (פסקה אחת) אלא מהמסר שהיא שלחה: מעצמה עולמית גדולה, בפעם הראשונה, מכירה בפומבי במטרת הציונות המרכזית. ההצהרה פורסמה בעיתונות שבוע לאחר מכן והפכה לאבן יסוד במנדט הבריטי על פלשתינה (א\"י) שהחל בתום מלחמת העולם הראשונה, ועיצבה את הדיפלומטיה – והסכסוכים – שבאו בעקבותיה במשך כל המאה ה-20 ועד היום.",
+        "deep": "## רקע\n\nעד 1917 התנועה הציונית – פעולה פוליטית לכינון בית לאומי לעם היהודי, שהוקמה רשמית בידי תיאודור הרצל ב-1897 – כבר השקיעה שני עשורים בבניית התיישבות בפלשתינה העות'מאנית ובשידול ממשלות אירופה לתמוך במטרתה. בריטניה, שנלחמה באימפריה העות'מאנית (בת בריתה של גרמניה) במלחמת העולם הראשונה, ראתה בכך הגיון אסטרטגי: אהדה בקרב חלק מהפקידים הבריטים, תקווה לגייס את דעת הקהל היהודית בארצות הברית וברוסיה לטובת מאמץ המלחמה של בעלות הברית, וגם עין על ההשפעה הבריטית במזרח התיכון לאחר קריסת האימפריה העות'מאנית.\n\n## המכתב\n\nמכתבו של שר החוץ ארתור בלפור ללורד רוטשילד היה פסקה אחת. השורה המרכזית בו – בריטניה \"תביע אהדה לגבי הקמת בית לאומי לעם היהודי בפלשתינה\" – לוותה בסעיף נוסף שקבע שהבית הזה לא יפגע ב\"זכויות האזרחיות והדתיות של הקהילות הלא-יהודיות הקיימות בפלשתינה\". הסעיף הזה, שכמעט לא תפס תשומת לב בזמנו, הצביע בדיוק על המתח שיגדיר את המאה שתבוא: הבטחה לבית לאומי לעם אחד, על אדמה שעם אחר גר בה כבר, בלי שהובטח לו דבר כזה.\n\n## מה קרה בהמשך\n\nלהצהרה לא הייתה תוקף משפטי מחייב כשלעצמה – בריטניה עדיין לא שלטה בפלשתינה – אבל היא עיצבה את אופן השלטון הבריטי שם מאז שחבר הלאומים העניק לבריטניה את המנדט על פלשתינה ב-1922. ההעפלה היהודית התגברה בשלושת העשורים הבאים, ההתנגדות הערבית התחזקה, וניסיונה של בריטניה לקיים את שני חלקי המשפט של בלפור לא סיפק אף אחד מהצדדים. המנדט הסתיים באלימות ובנסיגה בריטית ב-1948, השנה שבה הכריזה ישראל על עצמאותה.\n\n## המורשת\n\nיותר ממאה שנה לאחר מכן, הצהרת בלפור נזכרת בישראל כמסמך מכונן, ובזיכרון הלאומי הפלסטיני כרגע שבו בריטניה הבטיחה ארץ שלא הייתה שלה. שתי קריאות של אותן 67 מילים, שעדיין מעצבות את האופן שבו מתווכחים על שורשי הסכסוך היום."
+      },
+      "tags": [
+        "history",
+        "balfour-declaration",
+        "israel"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1917: The British government issued the Balfour Declaration in support of a Jewish homeland in Palestine, then an Ottoman region with a small Jewish minority.",
+          "url": "https://en.wikipedia.org/wiki/Balfour_Declaration"
+        }
+      ]
+    }
+  ]
+}

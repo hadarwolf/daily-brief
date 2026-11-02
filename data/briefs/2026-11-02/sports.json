@@ -1,0 +1,232 @@
+{
+  "section": "sports",
+  "date": "2026-11-02",
+  "title_en": "Sports",
+  "title_he": "ספורט",
+  "default_lang": "en",
+  "generated_at": "2026-11-02T03:47:53+00:00",
+  "stories": [
+    {
+      "id": "arsenal-end-anfield-curse",
+      "kind": "news",
+      "en": {
+        "headline": "Arsenal End 14-Year Anfield Curse, Open a Three-Point Lead",
+        "scroll": "Arsenal won 1-0 at Anfield for the first time since 2012, taking a three-point lead atop the Premier League.",
+        "coffee": "Arsenal beat Liverpool 1-0 at Anfield on Sunday, their first win there in 14 years, to move three points clear at the top of the table with 24 points from nine games. It capped a frustrating week that began with a League Cup defeat to fourth-tier Fleetwood; manager Mikel Arteta said that embarrassment \"spurred\" the response at Anfield.\n\nLiverpool had the louder complaint: manager Andoni Iraola said he \"doesn't understand\" why Alexander Isak wasn't given a penalty after a shirt-pull by Arsenal defender Jurrien Timber, and joked afterwards that he'll now tell his players to go down more easily. Declan Rice was named among Arsenal's best performers, continuing to anchor midfield, while summer signing Ezri Konsa has settled in smoothly at the back.\n\nArsenal are three points ahead of Manchester City (21) and nine ahead of fifth-placed Liverpool (15), with games at Slavia Praha in the Champions League on Wednesday and at home to Hull City next Saturday.",
+        "deep": "## Background\n\nArsenal's trip to Anfield has carried a psychological weight out of proportion to a single league fixture: they hadn't won there since 2012, a run that survived multiple title challenges and multiple Liverpool eras. For a side that has spent the past two seasons knocking on the title's door, each failed visit became its own small verdict on whether Arsenal were genuinely the superior team or merely the nearly-team.\n\n## The story\n\nSunday's visit arrived in an unflattering context: four days earlier, Arsenal had been knocked out of the League Cup by Fleetwood Town, a club three divisions below them. Rather than compound the week, Arsenal responded with a 1-0 win at Anfield, their first there since 2012. Mikel Arteta was explicit about the connection afterwards, crediting the Fleetwood defeat with sharpening his side's response rather than dragging them down.\n\nThe match itself turned on a moment of controversy. Liverpool striker Alexander Isak went down under what appeared, to Liverpool's manager Andoni Iraola at least, to be a clear shirt-pull from Arsenal defender Jurrien Timber inside the box. No penalty was awarded. Iraola said afterwards that he didn't understand the non-call and that \"everyone saw it,\" adding, half in jest, that he would now instruct his own players to go down more readily in similar situations — a pointed remark about refereeing standards rather than a serious tactical change.\n\nFor Arsenal, the performance was built on familiar foundations: Declan Rice continuing his evolution into the division's most complete defensive midfielder, with pundits now debating whether a more selfish, goal-hungry version of Rice would be even more valuable than the pass-master he already is. At the back, Ezri Konsa — signed from Aston Villa over the summer — has integrated with unexpected speed, giving Arteta a defensive unit that looks settled rather than still bedding in.\n\n## Second-order effects\n\nThe win does more than add three points; it resets the emotional register of Arsenal's season after the Fleetwood humiliation and answers, at least for one weekend, the question of whether this group can win the games that have historically eluded them. A three-point cushion over Manchester City, who sit second, is not decisive this early, but it is Arsenal's largest gap of the season and comes against the club they have struggled most to beat on the road.\n\nFor Liverpool, the frustration is less about the table position — fifth, nine points back — and more about a growing sense that marginal refereeing decisions keep breaking against them in matches that matter. That narrative, true or not, can shape how a club's dressing room and supporters read every subsequent setback.\n\n## What to watch next\n\nArsenal turn to Europe on Wednesday, away at Slavia Praha in the Champions League, before returning to league business at home against newly promoted Hull City the following Saturday — a fixture they will be expected to win comfortably if they want to keep pace at the top. Liverpool, meanwhile, need a response of their own; another dropped result risks turning one bad afternoon at Anfield into a wider crisis narrative around Iraola's first season in charge."
+      },
+      "he": {
+        "headline": "ארסנל שברה את הקללה באנפילד לאחר 14 שנה, פתחה ביתרון של שלוש נקודות",
+        "scroll": "ארסנל ניצחה 1-0 באנפילד בפעם הראשונה מאז 2012, ופתחה ביתרון של שלוש נקודות בראש הפרמייר ליג.",
+        "coffee": "ארסנל ניצחה את ליברפול 1-0 באנפילד ביום ראשון, הניצחון הראשון שלה שם מזה 14 שנה, ועלתה ליתרון של שלוש נקודות בראש הטבלה עם 24 נקודות מתשעה משחקים. הניצחון חתם שבוע מתסכל שנפתח בהפסד בליגת הגביע למועדון פליטווד מהליגה הרביעית; המאמן מיקל ארטטה אמר שהבושה הזו \"דרבנה\" את התגובה באנפילד.\n\nלליברפול הייתה התלונה הקולנית יותר: המאמן אנדוני איראולה אמר שהוא \"לא מבין\" מדוע לא ניתנה פנדל לאלכסנדר איסאק לאחר משיכת חולצה מצד המגן של ארסנל, יוריין טימבר, ובדיעבד אמר בחצי צחוק שמעכשיו יגיד לשחקניו ליפול יותר בקלות. דקלן רייס נבחר לאחד השחקנים הטובים של ארסנל, וממשיך לעגן את קו האמצע, בעוד שהרכישה הקיצית עזרי קונסה התאקלם בצורה חלקה בהגנה.\n\nארסנל מובילה בשלוש נקודות על מנצ'סטר סיטי (21) ובתשע נקודות על ליברפול החמישית (15), עם משחקים מול סלביה פראג בליגת האלופות ביום רביעי ומול האל סיטי בבית בשבת הקרובה.",
+        "deep": "## רקע\n\nהנסיעה של ארסנל לאנפילד נשאה משקל פסיכולוגי שלא היה פרופורציונלי למשחק ליגה בודד: הקבוצה לא ניצחה שם מאז 2012, רצף ששרד כמה מרוצי אליפות וכמה עידנים של ליברפול. לקבוצה שמנסה לדפוק על דלת האליפות בשנתיים האחרונות, כל ביקור כושל הפך לפסק דין קטן בשאלה אם ארסנל היא באמת הקבוצה הטובה יותר, או רק זו שמגיעה קרוב ולא סוגרת.\n\n## הסיפור\n\nהביקור של יום ראשון הגיע בהקשר לא מחמיא: ארבעה ימים קודם לכן, ארסנל הודחה מליגת הגביע האנגלי על ידי פליטווד טאון, מועדון משלוש דרגות נמוך יותר. במקום להעמיק את המשבר, ארסנל הגיבה בניצחון 1-0 באנפילד, הראשון שלה שם מאז 2012. מיקל ארטטה היה ברור בנושא אחרי המשחק, וטען שההפסד לפליטווד חידד את התגובה של השחקנים במקום לשבור אותם.\n\nהמשחק עצמו הוכרע בעקבות רגע שנוי במחלוקת: חלוץ ליברפול אלכסנדר איסאק נפל בעקבות מה שנראה, לפחות בעיני המאמן אנדוני איראולה, כמשיכת חולצה ברורה מצד המגן של ארסנל, יוריין טימבר, בתוך הרחבה. לא נשפט פנדל. איראולה אמר שהוא לא מבין את ההחלטה וש\"כולם ראו את זה\", והוסיף, בחצי צחוק, שמעכשיו יורה לשחקניו שלו ליפול בקלות יותר במצבים דומים — הערה עוקצנית על רמת השיפוט ולא שינוי טקטי של ממש.\n\nבצד של ארסנל, הביצוע נשען על יסודות מוכרים: דקלן רייס ממשיך להתפתח לקשר ההגנתי המושלם ביותר בליגה, כשפרשנים דנים כבר אם גרסה אגואיסטית יותר שלו, רעבה יותר לשערים, הייתה אפילו שימושית יותר מהמבנה-משחק שהוא כבר היום. בהגנה, עזרי קונסה — שהגיע מאסטון ויאלה בקיץ — השתלב במהירות בלתי צפויה, ונותן לארטטה קו הגנה שנראה מיושב ולא עדיין בתהליך התאקלמות.\n\n## אפקטים מסדר שני\n\nהניצחון עושה יותר מלהוסיף שלוש נקודות; הוא מאפס את המצב הרגשי של עונת ארסנל אחרי הבושה בפליטווד, ועונה, לפחות לסוף שבוע אחד, על השאלה אם הקבוצה הזו מסוגלת לנצח במשחקים שבהיסטוריה חמקו ממנה. יתרון של שלוש נקודות על מנצ'סטר סיטי, שנמצאת במקום השני, אינו מכריע בשלב כך מוקדם של העונה, אבל זה הפער הגדול ביותר של ארסנל העונה, והוא מגיע נגד המועדון שהיה לה הקשה ביותר לניצחון מחוץ לבית.\n\nלליברפול, התסכול נוגע פחות למיקום בטבלה — מקום חמישי, תשע נקודות מאחור — ויותר לתחושה גוברת שהחלטות שיפוט גבוליות ממשיכות להיפול לרעתם במשחקים חשובים. נרטיב כזה, נכון או לא, יכול לעצב את האופן שבו האוהדים וחדר ההלבשה של המועדון קוראים כל תקלה שתבוא בעקבותיו.\n\n## למה לשים לב בהמשך\n\nארסנל פונה לאירופה ביום רביעי, חוץ מול סלביה פראג בליגת האלופות, ולאחר מכן חוזרת לעניינים בליגה בשבת הקרובה בבית מול האל סיטי שעלתה לאחרונה — משחק שבו תהיה הציפייה שארסנל תנצח בנוחות אם היא רוצה לשמור על הקצב בראש הטבלה. ליברפול, מצדה, צריכה תגובה משלה; עוד תוצאה שתיפול תסכן להסלים את מה שהיה אחר צהריים בעייתי אחד באנפילד לנרטיב משבר רחב יותר סביב העונה הראשונה של איראולה בתפקיד."
+      },
+      "tags": [
+        "arsenal",
+        "premier-league",
+        "liverpool"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Arsenal move clear at the top with a rare win at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Rice relishing title race 'anxiety' after win at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Arteta credits Fleetwood loss for spirited win at Anfield",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cx2d2yxv84zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "barca-thrash-alaves-madrid-closes-gap",
+      "kind": "news",
+      "en": {
+        "headline": "Barça Thrash Alavés 6-1 as Real Madrid Close the Gap to Three Points",
+        "scroll": "Barcelona hammered Alavés 6-1 to stay top of La Liga, but Real Madrid's 3-0 win at Santander cut the lead to three points.",
+        "coffee": "Barcelona bounced back from back-to-back defeats — a 4-2 Champions League loss to PSG and a 1-2 home loss to Real Madrid — with a emphatic 6-1 win over Alavés, keeping them top of La Liga on 30 points from 11 games with a league-best +34 goal difference.\n\nThe cushion is shrinking, though: Real Madrid eased to a 3-0 win at Santander, with goals from Kylian Mbappé, Jude Bellingham and Yan Diomande, closing to within three points in third place. Atlético Madrid sit second, two points behind Barça.\n\nBarça are back in Champions League action at home against Aston Villa on Tuesday, before a tricky trip to league rival Atlético on November 8 — a match that could decide whether their lead survives the month.",
+        "deep": "## Background\n\nAfter two defeats in the space of a week — a 4-2 Champions League loss away to PSG and, more painfully, a 1-2 home defeat to Real Madrid — Barcelona's form had started to look shakier than their league position suggested. A top-of-the-table team that loses its two biggest games in quick succession invites questions, fairly or not, about whether the underlying performances match the results.\n\n## The story\n\nBarcelona answered those questions, for now, with a 6-1 demolition of Alavés. The scoreline put them back on 30 points from 11 games, still top of La Liga, with a goal difference of +34 that remains the best in the division by a wide margin — a sign that even in a rough patch, their attack has rarely stopped functioning.\n\nThe complication is that Real Madrid did not slip up. A comfortable 3-0 win at Racing Santander, built on goals from Kylian Mbappé, Jude Bellingham and Yan Diomande, took Madrid to 27 points and within three of Barça, while Atlético Madrid's own form keeps them second on 28, just two adrift. What looked a week ago like a race Barcelona might be pulling away from is now a genuine three-way contest through the November internationals and beyond.\n\n## Second-order effects\n\nThe timing matters. Barcelona's next two fixtures are about as demanding as the calendar allows: a Champions League home game against Aston Villa, followed by an away trip to Atlético Madrid, who sit immediately behind them in the table. A dropped result in either could hand the league initiative to Madrid, who have now won three fixtures in a row across competitions and look to be gathering momentum at exactly the moment Barcelona would prefer to be building a cushion.\n\nFor a squad that has leaned heavily on its attacking depth to paper over defensive lapses this season, the Alavés result is reassuring evidence that the goals are still there when needed. Whether that holds against better-organized opponents than Alavés is the open question.\n\n## What to watch next\n\nAston Villa visit the Camp Nou (or Barça's current home ground) on Tuesday in the Champions League, a fixture Barça should be expected to win but which will test their defensive solidity after the PSG mauling. The bigger test comes on November 8, when Barça travel to Atlético Madrid in what amounts to a direct battle for second place in the table — and, depending on results elsewhere, potentially top spot by the time the two sides kick off."
+      },
+      "he": {
+        "headline": "ברצלונה הצליפה 6-1 באלאבס, ריאל מדריד מקצרת את הפער לשלוש נקודות",
+        "scroll": "ברצלונה גברה 6-1 על אלאבס ונשארה בראש הליגה הספרדית, אך ניצחון 3-0 של ריאל מדריד בסנטנדר קיצר את הפער לשלוש נקודות.",
+        "coffee": "ברצלונה חזרה משני הפסדים רצופים — 4-2 בליגת האלופות נגד פריז סן ז'רמן ו-1-2 בבית נגד ריאל מדריד — עם ניצחון מוחץ 6-1 על אלאבס, ונשארה בראש הליגה הספרדית עם 30 נקודות מ-11 משחקים ויתרון שערים מוביל בליגה של +34.\n\nעם זאת, הפער מצטמק: ריאל מדריד ניצחה בנוחות 3-0 בסנטנדר, עם שערים של קיליאן אמבפה, ג'וד בלינגהאם ויאן דיומנדה, וקיצרה את הפער לשלוש נקודות מהמקום השלישי. אתלטיקו מדריד נמצאת במקום השני, שתי נקודות מאחורי ברצלונה.\n\nברצלונה חוזרת לפעילות בליגת האלופות בבית מול אסטון ויאלה ביום שלישי, ולפני כן יוצאת למשימה מורכבת מול היריבה הליגתית אתלטיקו ב-8 בנובמבר — משחק שעלול להכריע אם היתרון שלה ישרוד את החודש.",
+        "deep": "## רקע\n\nלאחר שני הפסדים בתוך שבוע — 4-2 בליגת האלופות בחוץ נגד פריז סן ז'רמן, וכואב יותר, 1-2 בבית נגד ריאל מדריד — המצב של ברצלונה התחיל להיראות רעוע יותר ממה שמיקומה בטבלה העיד. קבוצה שמובילה בטבלה ומפסידה בשני המשחקים הגדולים שלה בזה אחר זה מזמינה שאלות, בצדק או לא, על התאמה בין הביצועים האמיתיים לתוצאות.\n\n## הסיפור\n\nברצלונה ענתה לשאלות האלה, לפחות לעת עתה, בהריסה 6-1 של אלאבס. התוצאה החזירה אותה ל-30 נקודות מ-11 משחקים, עדיין בראש הליגה הספרדית, עם יתרון שערים של +34 שנשאר הטוב ביותר בליגה בפער גדול — סימן שגם בתקופה בעייתית, קו ההתקפה שלה כמעט לא הפסיק לתפקד.\n\nהסיבוך הוא שריאל מדריד לא נכשלה. ניצחון נוח 3-0 על ראסינג סנטנדר, שנבנה על שערים של קיליאן אמבפה, ג'וד בלינגהאם ויאן דיומנדה, העלה את מדריד ל-27 נקודות ולפער של שלוש בלבד מברצלונה, בעוד שהצורה של אתלטיקו מדריד שומרת עליה במקום השני עם 28, רק שתי נקודות מאחור. מה שנראה לפני שבוע כמרוץ שברצלונה עלולה להתרחק בו, הופך כעת לתחרות אמיתית בין שלוש קבוצות שתעבור את חלון הנבחרות של נובמבר וקדימה.\n\n## אפקטים מסדר שני\n\nהתזמון חשוב. שני המשחקים הקרובים של ברצלונה הם בערך הכי תובעניים שהלו\"ז מאפשר: משחק בית בליגת האלופות נגד אסטון ויאלה, ולאחריו נסיעה לאתלטיקו מדריד, שנמצאת ממש מתחתיה בטבלה. תוצאה שתיפול באחד מהם יכולה להעביר את היתרון בליגה למדריד, שניצחה כבר שלושה משחקים ברצף בכל המסגרות ונראית כאוספת תנופה בדיוק ברגע שבו ברצלונה הייתה מעדיפה לבנות כרית ביטחון.\n\nלסגל שנשען הרבה על עומק ההתקפה שלו כדי לכסות על פערים הגנתיים העונה, התוצאה נגד אלאבס היא עדות מרגיעה שהשערים עדיין שם כשצריך. אם זה יחזיק נגד יריבות מאורגנות יותר מאלאבס היא השאלה הפתוחה.\n\n## למה לשים לב בהמשך\n\nאסטון ויאלה מגיעה לאצטדיון הבית של ברצלונה ביום שלישי בליגת האלופות, משחק שברצלונה צפויה לנצח בו אך שיבחן את יציבותה ההגנתית אחרי המכה מפריז סן ז'רמן. המבחן הגדול יותר מגיע ב-8 בנובמבר, כשברצלונה נוסעת לאתלטיקו מדריד במה שמהווה קרב ישיר על המקום השני בטבלה — ובהתאם לתוצאות במקומות אחרים, אולי אפילו על המקום הראשון בזמן שהקבוצות ייפתחו את המשחק."
+      },
+      "tags": [
+        "barcelona",
+        "la-liga",
+        "real-madrid"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Bellingham & Mbappe score as Real Madrid earn statement win",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "messi-inter-miami-comeback-champions-cup",
+      "kind": "news",
+      "en": {
+        "headline": "Messi's Late Goal Completes Inter Miami Comeback, Clinches Champions Cup Spot",
+        "scroll": "Messi scored and assisted as Inter Miami came from behind to beat New England Revolution 2-1, moving into second place in the East and securing a Concacaf Champions Cup spot.",
+        "coffee": "Inter Miami trailed New England Revolution before Lionel Messi took over, setting up one goal and scoring another — his 937th career goal — to seal a 2-1 comeback win in Foxboro. The result lifts Miami into second place in MLS's Eastern Conference and clinches their place in next year's Concacaf Champions Cup.\n\nThe win comes just days after a reminder of how beatable this Miami side can be without a big individual moment: Nashville SC stunned them earlier in the week. Sunday's response suggests the margin between Miami's best and worst versions still comes down largely to whether Messi delivers in the closing stages.\n\nMiami's rise up the Eastern Conference table, built on moments like this one, sets up a meaningful run through the end of the MLS regular season.",
+        "deep": "## Background\n\nInter Miami's season has followed a familiar pattern since Lionel Messi's arrival: spells of vulnerability bookended by individual brilliance that erases the problems underneath. The club's position in the Eastern Conference has fluctuated accordingly, and a loss to Nashville SC in the days before this game was a fresh reminder that Miami, stripped of a decisive Messi contribution, is beatable by sides with a fraction of their star power.\n\n## The story\n\nAgainst New England Revolution in Foxboro, Miami found themselves behind, needing a response rather than simply managing a lead. Messi provided it directly: an assist to level the scoreline, followed by a goal of his own — the 937th of his career — that turned a potential draw or defeat into a come-from-behind win. The 2-1 scoreline undersells how much of the game was decided by that one sequence of contributions in the closing stages.\n\nThe result carries weight beyond the three points. It moves Inter Miami into second place in the Eastern Conference, a tangible improvement in playoff positioning with the MLS regular season drawing to a close, and it clinches qualification for next year's Concacaf Champions Cup — a continental competition that gives the club meaningful fixtures, and revenue, beyond the domestic season.\n\n## Second-order effects\n\nThe juxtaposition with the Nashville defeat earlier in the week is instructive. Miami's underlying structure has not visibly changed between the two results; what changed is whether Messi's individual quality showed up at the decisive moment. That dependency is both the team's greatest asset — few sides in MLS have an answer for a player producing a goal and an assist inside a single half — and its biggest long-term question, since it ties Miami's ceiling to the health and form of a 39-year-old.\n\nFor New England, the loss compounds a season defined by missed opportunities against the league's glamour side, and will sharpen scrutiny on a Revolution team that let a result slip in the final minutes against a Miami side that was there to be beaten for most of the match.\n\n## What to watch next\n\nWith the Champions Cup spot secured, Miami's remaining focus shifts to the MLS playoff picture and seeding, where every remaining match carries weight for conference positioning. For Messi individually, the goal tally — now at 937 for club and country — keeps pace with a career that shows little sign of slowing down, even as questions about workload management become more pressing with each passing MLS season."
+      },
+      "he": {
+        "headline": "שער מאוחר של מסי השלים מהפך לאינטר מיאמי, הבטיח מקום בצ'מפיונס קאפ",
+        "scroll": "מסי בישל ובקע כשאינטר מיאמי ביצעה מהפך וניצחה 2-1 את ניו אינגלנד רבולושן, עלתה למקום השני במזרח והבטיחה מקום בצ'מפיונס קאפ של קונקאקאף.",
+        "coffee": "אינטר מיאמי נותרה מאחור נגד ניו אינגלנד רבולושן לפני שליונל מסי השתלט על המשחק, בישל שער אחד והבקיע שער משלו — ה-937 בקריירה שלו — כדי לחתום על ניצחון 2-1 במהפך בפוקסבורו. התוצאה מעלה את מיאמי למקום השני בקונפרנס המזרחי של ה-MLS ומבטיחה את מקומה בצ'מפיונס קאפ (Champions Cup) של קונקאקאף בשנה הבאה.\n\nהניצחון מגיע ימים ספורים בלבד אחרי תזכורת לכך שקבוצת מיאמי הזו בהחלט ניתנת לניצחון בלי רגע אישי גדול: נאשוויל הפתיעה אותם בתחילת השבוע. התגובה של יום ראשון מרמזת שהמרחק בין מיאמי הטובה ביותר לגרסה הגרועה ביותר שלה עדיין תלוי בעיקר בשאלה אם מסי מספק תוצאה בדקות הסיום.\n\nהעלייה של מיאמי בטבלת המזרח, שנבנתה על רגעים כאלה, מעמידה רצף בעל משמעות עד לסוף העונה הסדירה של ה-MLS.",
+        "deep": "## רקע\n\nהעונה של אינטר מיאמי עוקבת אחרי דפוס מוכר מאז הגעתו של ליונל מסי: תקופות של פגיעות שמוקפות ברגעי זוהר אישיים שמוחקים את הבעיות שמתחתיהן. מיקומה של הקבוצה בקונפרנס המזרחי השתנה בהתאם, והפסד לנאשוויל ימים ספורים לפני המשחק הזה היה תזכורת רעננה שמיאמי, בלי תרומה מכרעת של מסי, ניתנת לניצחון על ידי קבוצות עם שבריר מהכוח הכוכבי שלה.\n\n## הסיפור\n\nנגד ניו אינגלנד רבולושן בפוקסבורו, מיאמי מצאה את עצמה מאחור, וצריכה תגובה ולא רק ניהול יתרון. מסי ספק אותה בעצמו: בישול להשוואת התוצאה, ולאחריו שער משלו — ה-937 בקריירה שלו — שהפך תיקו או הפסד פוטנציאליים לניצחון במהפך. התוצאה 2-1 לא מעבירה כמה מהמשחק הוכרע באותו רצף תרומות אחד בדקות הסיום.\n\nלתוצאה יש משקל שמעבר לשלוש הנקודות. היא מעלה את אינטר מיאמי למקום השני בקונפרנס המזרחי, שיפור ממשי במיקום לפלייאוף עם סיום העונה הסדירה של ה-MLS מתקרב, והיא מבטיחה הסמכה לצ'מפיונס קאפ של קונקאקאף בשנה הבאה — תחרות קונטיננטלית שמעמידה למועדון משחקים בעלי משמעות, וגם הכנסות, מעבר לעונה המקומית.\n\n## אפקטים מסדר שני\n\nההנגדה להפסד לנאשוויל בתחילת השבוע מלמדת. המבנה הבסיסי של מיאמי לא השתנה בצורה גלויה בין שתי התוצאות; מה שהשתנה הוא אם האיכות האישית של מסי הופיעה ברגע המכריע. התלות הזו היא גם הנכס הגדול ביותר של הקבוצה — למעט קבוצות ב-MLS יש מענה לשחקן שמפיק שער ובישול בתוך מחצית אחת — וגם השאלה המשמעותית ביותר לטווח הארוך, מכיוון שהיא קושרת את התקרה של מיאמי לבריאות ולכושר של שחקן בן 39.\n\nלניו אינגלנד, ההפסד מעמיק עונה שמוגדרת על ידי הזדמנויות שהוחמצו נגד קבוצת הזוהר של הליגה, ויחדד את הביקורת על קבוצת רבולושן שאיבדה תוצאה בדקות האחרונות נגד קבוצת מיאמי שהייתה ניתנת לניצחון במשך רוב המשחק.\n\n## למה לשים לב בהמשך\n\nעם הבטחת המקום בצ'מפיונס קאפ, המיקוד הנותר של מיאמי עובר לתמונת הפלייאוף וה-MLS וסידור הקבוצות, שבו לכל משחק נותר יש משקל למיקום בקונפרנס. עבור מסי באופן אישי, מניין השערים — שעומד כעת על 937 למועדון ולנבחרת — ממשיך קריירה שמראה מעט סימני התמתנות, אפילו כששאלות על ניהול העומס שלו נעשות דוחקות יותר עם כל עונת MLS שעוברת."
+      },
+      "tags": [
+        "inter-miami",
+        "mls",
+        "messi"
+      ],
+      "sources": [
+        {
+          "outlet": "TheSportsDB",
+          "title": "Inter Miami & Israel national team",
+          "url": null
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Messi brings Miami back to stun Revs, clinch Champions Cup spot - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnpaX29QcWplTkUydnFvejFQQnVIYzBfVmxjZDJicnAwbURuZlZILVVUZXhUNmRpNjNpalVqN0xOUEpDaXBJdnpTZDkzN19CY1FUai1YVHR1NHh2cXNvLXpRQjRCcXYweURCSng3UlZjUlRjVmtHUW1sU0xYazNGT3RFQkx3UC1CQUJfMk5wb05POEVxVkNfUTU2RWUzdnQxd2JPbg?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi lifts Inter Miami past Revolution to move into second place in East - Field Level Media",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ3VLajRYRjR2UFRKU1JmVXdsN21NbnV6djFkSHc2RkZDRGs2VjVBQ2NxNDl3bmt3Y3gwREMtVElVRkFsVDF5ejdoOXpibWlTZTRaTUE0OXVZMUloRWRmT0RZVW5rTElQSlptS0xWSXBpNHNkamxnQTVjV1JHVDU2QUZRbjFrazl6QVpDNG45cmRYd3dEaV9JekVicHJrVFlGRlIxMUw3eEtjRFJLZnlOaFoxcw?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "MATCH RECAP: Inter Miami CF Secures 1-2 Comeback Victory On the Road Over New England Revolution - Inter Miami CF",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUxBS2dTYUJ3SUxhTEVjTG9rS1k3d2dOcFNHeXBqY19EQXhkV1M0NVdOczJNV1Q0TVc2NVc2MEg3Mi1HWmVfU3F3M2lWbmtvNWJ0OEc1eVpjYjltM3UycnA2eWxiM2RxX1VVTEE1WDcxRVpwenp4bHpTSnR3ckNFbVRMTl8yMDgxUjRNV21UX0Y5VkwxNzlDc0pjMXllbHpNSW5yOW04OWFfN1VqQ3cyQWtMYnA2SkprWmVfekRlcFBGSXVJZFlQMw?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Nashville SC stun Lionel Messi and Inter Miami by snatching historic MLS milestone - World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjZyT3dyQUJldG5vX0pQZU9xV2dmQXhraDN6eG9zcXZodV9rVGJVWXVHWWJ5bTFpN1NMOTRrSnFrWDhJVVBoX2l0NFEzR2MxSk5xNWdWWUFVWHhuaF9Pa3NSdmZtenhWUndLTU5uQU1EUVMwZUVsTGFBV2dIWl9HcU83MTdIb1UzbWdVdHBOdEM0ckdJdmJCUVlDUU5PTXh0RWxEek8yU2hoUUw5M2ViZkNyM1Z4VWfSAbsBQVVfeXFMTjZKY2ZkVVp0eW1IeDBIX2VjZmJxZGg4T0pTaWZWVEptMVhSaHpzcEsyX2xKYnNQWVdNMFNGQTNSZUVydHNja00zTEhpR2lEYkl2NWVWNGJLak9wSGFISW5va2g3dXJ4MFRwX1NkampHR3hmYm5iZkdKQ2NRUVJ1QzI4RnVEWVhrM21iS3ZTd3c0Rmk3czdKTDBYd2hHYlNlOUVwTDloOU5hS2hCd0JESm4wVXBvRTNYdEJndw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "avdija-hot-start-saraf-option",
+      "kind": "news",
+      "en": {
+        "headline": "Avdija Powers Blazers' Hot Start as Nets Lock In Ben Saraf's Rookie Option",
+        "scroll": "Deni Avdija scored a game-high 24 points in Portland's win over Utah, while Brooklyn secured Ben Saraf's rookie-scale option for 2027-28.",
+        "coffee": "Deni Avdija continued his strong start to the season with a game-high 24 points and five rebounds as Portland routed Utah 112-90 on Saturday, with Damian Lillard adding 22. The win came with starting point guard Ja Morant sidelined, pushing more playmaking responsibility onto Avdija — commentators have taken to calling it his \"Point Deni\" duties.\n\nIn Brooklyn, the Nets exercised next season's rookie-scale option on Ben Saraf, along with four other young players (Egor Demin, Drake Powell, Nolan Traore, Danny Wolf) — a procedural move, but one that signals the organization's continued commitment to Saraf's development. No recent box score was available for Saraf individually.\n\nBoth Israeli players are in action tonight: the Blazers travel to Denver to face the Nuggets, while the Nets are on the road against the Knicks.",
+        "deep": "## Background\n\nDeni Avdija has spent the early part of this NBA season building on the breakout form that made him one of the league's most-discussed young wings, while Ben Saraf, still establishing himself in Brooklyn's rotation, represents a longer-term development bet for a Nets franchise in a clear rebuilding phase.\n\n## The story\n\nPortland's 112-90 win over Utah on Saturday was built around Avdija, who finished with a game-high 24 points to go with five rebounds, outscoring teammate Damian Lillard's 22. The performance mattered beyond the individual numbers: with starting point guard Ja Morant unavailable, Portland leaned on Avdija to take on more ball-handling and creation duties than usual, a role some outlets have started calling his \"Point Deni\" assignment. His ability to absorb that responsibility without the offense stalling is an early sign of the positional versatility teams have hoped he'd develop.\n\nIn Brooklyn, the news was procedural rather than dramatic: the Nets exercised their rookie-scale contract options on five players for the 2027-28 season, Ben Saraf among them, alongside Egor Demin, Drake Powell, Nolan Traore and Danny Wolf. These options are a standard mechanism in young, cost-controlled rosters and don't guarantee playing time, but they do confirm the organization still sees Saraf as part of its longer-term plan rather than a player it's looking to move on from quickly. No individual box score was available for Saraf's most recent appearances, reflecting the data gaps that come with a player still working for consistent minutes.\n\n## Second-order effects\n\nFor Portland, Morant's absence creating an opening for Avdija to run more offense is a useful stress test of his range as a player — if the Blazers can stay competitive with him facilitating rather than purely scoring, it strengthens his case as a genuine two-way, multi-skill piece rather than a complementary scorer. For Brooklyn, locking in Saraf's option is low-cost and low-risk, but it does commit roster and salary-cap planning around him for another season, raising the stakes on his development curve.\n\n## What to watch next\n\nBoth players are in action again tonight: Avdija and the Blazers travel to Denver to face the Nuggets, a tougher defensive test than Utah, while Saraf and the Nets play on the road against the Knicks. Continued strong form from Avdija against a better opponent would reinforce the early-season narrative; a meaningful run of minutes for Saraf would be the first real data point on how the Nets plan to use their rookie-option investment."
+      },
+      "he": {
+        "headline": "אבדיה מוביל את ההתחלה החמה של בלייזרס, נטס נועלת את האופציה על בן סרף",
+        "scroll": "דני אבדיה קלע 24 נקודות, הגבוה במשחק, בניצחון של פורטלנד על יוטה, בעוד ברוקלין מימשה את אופציית הרוקי של בן סרף לעונת 2027-28.",
+        "coffee": "דני אבדיה המשיך את ההתחלה החזקה שלו לעונה עם 24 נקודות, הגבוה במשחק, וחמישה ריבאונדים, כשפורטלנד גברה 112-90 על יוטה בשבת, עם 22 נקודות נוספות של דיימיאן לילארד. הניצחון הגיע כשהגארד המוביל חא מורנט נעדר מהמשחק, מה שהעביר אחריות הרבה יותר גדולה בבניית המשחק לאבדיה — פרשנים כינו זאת תפקיד ה\"פוינט דני\" שלו.\n\nבברוקלין, נטס מימשה את אופציית החוזה לרוקי של העונה הבאה על בן סרף, יחד עם ארבעה שחקנים צעירים נוספים (איגור דמין, דרייק פאוול, נולאן טוארה ודני וולף) — צעד פרוצדורלי, אך כזה שמסמן המשך מחויבות של הארגון להתפתחות של סרף. לא היה סטטיסטיקת משחק עדכנית עבור סרף באופן אישי.\n\nשני השחקנים הישראלים פעילים הערב: בלייזרס נוסעת לדנוור מול נאגטס, ונטס משחקת בחוץ מול ניקס.",
+        "deep": "## רקע\n\nדני אבדיה בילה את תחילת עונת ה-NBA הזו בבנייה על הביצועים הפורצים שהפכו אותו לאחד השחקנים הצעירים הנדונים ביותר בליגה, בעוד בן סרף, שעדיין מבסס את מקומו בסגל הסיבובי של ברוקלין, מייצג התערבות פיתוח ארוכת טווח לקבוצת נטס שנמצאת בבירור בשלב של בנייה מחדש.\n\n## הסיפור\n\nהניצחון 112-90 של פורטלנד על יוטה בשבת נבנה סביב אבדיה, שסיכם עם 24 נקודות, הגבוה במשחק, וחמישה ריבאונדים, יותר מ-22 הנקודות של חברו לקבוצה דיימיאן לילארד. הביצוע היה חשוב מעבר למספרים האישיים: עם היעדרו של הגארד המוביל חא מורנט, פורטלנד נשענה על אבדיה כדי שייקח על עצמו יותר אחריות של ניהול הכדור ויצירת מצבים מהרגיל, תפקיד שכמה גופי תקשורת התחילו לקרוא לו תפקיד ה\"פוינט דני\". היכולת שלו לקחת על עצמו אחריות כזו בלי שההתקפה תיתקע היא סימן מוקדם לגמישות העמדות שקבוצות קיוו שהוא יפתח.\n\nבברוקלין, החדשות היו פרוצדורליות יותר מדרמטיות: נטס מימשה את אופציות החוזה לרוקי על חמישה שחקנים לעונת 2027-28, בן סרף בכללם, לצד איגור דמין, דרייק פאוול, נולאן טוארה ודני וולף. אופציות כאלה הן מכניזם סטנדרטי בסגלים צעירים ובעלי שכר מבוקר, והן לא מבטיחות זמן משחק, אבל הן מאשרות שהארגון עדיין רואה בסרף חלק מהתכנון ארוך הטווח שלו ולא שחקן שמנסים להיפרד ממנו במהירות. לא הייתה סטטיסטיקת משחק פרטנית להופעותיו האחרונות של סרף, מה שמשקף את פערי המידע שמגיעים עם שחקן שעדיין נלחם על דקות קביעות.\n\n## אפקטים מסדר שני\n\nלפורטלנד, היעדרו של מורנט שיצר הזדמנות לאבדיה להריץ יותר התקפה הוא מבחן עומס שימושי לטווח היכולות שלו — אם בלייזרס יכולה להישאר תחרותית כשהוא מנהל משחק ולא רק קולע, זה מחזק את הטיעון שהוא רכיב אמיתי דו-כיווני ומגוון יכולות, לא רק קולע משלים. לברוקלין, נעילת האופציה של סרף היא זולה ובסיכון נמוך, אבל היא כן מחייבת תכנון סגל וכיפת שכר סביבו לעוד עונה, מה שמעלה את החשיבות של עקומת ההתפתחות שלו.\n\n## למה לשים לב בהמשך\n\nשני השחקנים פעילים שוב הערב: אבדיה ובלייזרס נוסעים לדנוור מול נאגטס, מבחן הגנתי קשה יותר מיוטה, וסרף ונטס משחקים בחוץ מול ניקס. המשך הצגה חזקה של אבדיה נגד יריבה טובה יותר יחזק את הנרטיב של תחילת העונה; רצף משמעותי של דקות לסרף יהיה נקודת המידע האמיתית הראשונה על האופן שבו נטס מתכננת להשתמש בהשקעה שלה באופציית הרוקי."
+      },
+      "tags": [
+        "nba",
+        "deni-avdija",
+        "ben-saraf"
+      ],
+      "sources": [
+        {
+          "outlet": "balldontlie.io",
+          "title": "NBA games",
+          "url": null
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Trail Blazers' Deni Avdija: Hits for game-high 24 in win - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOHBKOWxOQ3BTWUY0bE90UkJrbUJpWTFKclZyVFRLQjdTMTlhVnE4UTdYQ0FUY2w4MDhMZjZ0Vks0VVVyM25zSTV3YjBmN3p4Qk9XWE9YZnk3VUlYWndNR1ljY1VUQmNiZE56ODdBc2NFUGt6Qmg0MEtLNkpGYlE0MjFrMWNURnFSaDFzYWJsQ3Iwc19kRTFSbExpZlBIYktZMlpiRHZZV0o?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Nets Exercise Options For Egor Demin, Drake Powell, Ben Saraf, Nolan Traore, Danny Wolf - RealGM",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMW1PZ1RTVWE5MzVqZ3dNcXNGNFh6cVBPdzZ3THAwNF9jZDd1Nk51WkhlUjVSNk9GYWpISXRfMW1URGRlaHhSTnl6NWlNNXBaS3VtUHF4S0lNNk82MmYtN1A1ZFlTdC1aN3FxQngwc3V2dlJKSnFBb0pDbnhKb25mSDFHbHl1dzRMYkhWU3dtaGhsLUNNMm0tUTRpWUxOUngtYTNHb2RjVC1PNll3TFpaR3hBd3dFQmpXcW96dVRLTGVRZXZhSWl3?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Ja Morant injury makes it clear Blazers need Point Deni back - Rip City Project",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3lmVkhYdFE3YzZjVUh6NjFNM05JLWJxbXowVTlQR1dNRkhxbEpZQnNmSDF6SG5hb3pneDdIb1kwVmpqZmFiSEJIQXJqQUpGZ0RYTXZzQXFhbU5SUWpYNm5HZGdfZVFfZFNNQklUc1NYRDM5WEVtNk1SRzRMdDZPR3RZTG1CZw?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Europeans in the NBA: Deni Avdija leads the way as Mario Hezonja makes his mark - basketballsphere.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rR29SeWhfM2R0WFdxUUlaSXRqN2dMa29OaWJBS3ltWE9XRzlkWlctZ0VzdVBEZzRyM2JqSU8zZUVJVlVzTjZEaUowUGpPUXJwNHZINWp1Z18wNFByMENhYnBJRlV3TUF5RVJxeE8tRF93Yzl4UGVRc2NrU0E?oc=5"
+        }
+      ]
+    }
+  ],
+  "israeli_players": [
+    {
+      "name": "Deni Avdija",
+      "team": "Portland Trail Blazers",
+      "en": "Avdija posted a game-high 24 points and 5 rebounds in Portland's 112-90 win over Utah on Oct 31, filling extra playmaking duties with Ja Morant out; the Blazers play at Denver tonight.",
+      "he": "אבדיה סיכם עם 24 נקודות, הגבוה במשחק, וחמישה ריבאונדים בניצחון 112-90 של פורטלנד על יוטה ב-31 באוקטובר, ומילא תפקידי יצירה נוספים בהיעדרו של חא מורנט; בלייזרס משחקת הערב בדנוור."
+    },
+    {
+      "name": "Ben Saraf",
+      "team": "Brooklyn Nets",
+      "en": "No box score is available for Saraf's recent games; the Nets exercised his rookie-scale contract option this week, and Brooklyn plays on the road at the Knicks tonight.",
+      "he": "אין סטטיסטיקת משחק זמינה למשחקים האחרונים של סרף; נטס מימשה את אופציית החוזה לרוקי שלו השבוע, וברוקלין משחקת הערב בחוץ מול ניקס."
+    }
+  ],
+  "match_day": {
+    "is_match_day": true,
+    "events": [
+      {
+        "sport": "soccer",
+        "competition": "American Major League Soccer",
+        "home": "New England Revolution",
+        "away": "Inter Miami",
+        "kickoff_utc": "2026-11-02T00:00:00"
+      },
+      {
+        "sport": "nba",
+        "competition": "NBA",
+        "home": "New York Knicks",
+        "away": "Brooklyn Nets",
+        "kickoff_utc": "2026-11-03T00:30:00.000Z"
+      },
+      {
+        "sport": "nba",
+        "competition": "NBA",
+        "home": "Denver Nuggets",
+        "away": "Portland Trail Blazers",
+        "kickoff_utc": "2026-11-03T02:00:00.000Z"
+      }
+    ]
+  }
+}

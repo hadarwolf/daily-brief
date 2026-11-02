@@ -1,0 +1,123 @@
+{
+  "section": "geopolitics",
+  "date": "2026-11-02",
+  "title_en": "Geopolitics",
+  "title_he": "גיאופוליטיקה",
+  "default_lang": "en",
+  "generated_at": "2026-11-02T03:47:53+00:00",
+  "stories": [
+    {
+      "id": "oleshky-ceasefire-ends",
+      "kind": "analysis",
+      "en": {
+        "headline": "A rare Ukraine ceasefire ends, and with it a glimpse of what occupation did to Oleshky",
+        "scroll": "A brief humanitarian ceasefire let starving civilians flee Russian-occupied Oleshky before Russian strikes resumed and cut power across Ukraine.",
+        "coffee": "A rare humanitarian ceasefire around Oleshky, a Russian-occupied town in Ukraine's Kherson region, let civilians evacuate this weekend before it lapsed. Evacuees described years cut off from food, water and electricity, some surviving on garden weeds, and crossing minefields to reach safety; the BBC filmed emotional reunions as buses and ambulances brought them across the border. Hours after the ceasefire ended, Russian strikes cut power to thousands of Ukrainians, and separately, Ukraine's air-raid alert app was apparently hacked to send false radiation warnings, with Russian authorities reporting a similar hack of their own warning app.\n\nWhy it matters: localized ceasefires like this one are rare exceptions to nearly five years of war, and their brevity underscores how little humanitarian pauses change the underlying military calculus. The parallel hacking of both sides' public warning systems shows the war's information dimension escalating alongside the shooting war.\n\nWhat to watch: Foreign Affairs argues Donald Trump's approach to ending the war risks handing Vladimir Putin his core objectives regardless of battlefield outcomes — worth watching as any renewed ceasefire talk is weighed against what evacuees from Oleshky just described living through.",
+        "deep": "## Background\n\nKherson region, straddling the Dnipro river in southern Ukraine, has been one of the most fought-over stretches of the war since Russia's 2022 invasion. Ukraine recaptured the regional capital and the river's right (western) bank in late 2022, but towns on the occupied left bank, including Oleshky, have remained under Russian control ever since — cut off from Ukrainian territory by the river and from much of the outside world by the front line.\n\n## A narrow window to leave\n\nThis weekend, a rare humanitarian ceasefire opened a brief window for civilians to leave Oleshky. Evacuees who reached safety described years without reliable food, water or electricity, with some residents reduced to cooking garden weeds to survive. Reaching the evacuation point reportedly meant crossing minefields. The BBC's Dan Johnson met arriving evacuees as buses and ambulances brought them north to a crossing on Ukraine's border with Belarus, where families separated for years were reunited — scenes the BBC described as emotional homecomings after what one evacuated couple called a return \"from hell.\"\n\n## The ceasefire ends\n\nThe pause did not last. Hours after it lapsed, Russian strikes resumed and cut electricity to thousands of people elsewhere in Ukraine, a reminder that these localized, negotiated pauses are narrow exceptions rather than a sign of any broader de-escalation. They exist to solve an immediate humanitarian problem — civilians trapped in a specific occupied town — without touching the war's trajectory anywhere else.\n\n## An information war running in parallel\n\nSeparately, Ukraine's air-raid alert app was apparently hacked to push false radiation-threat warnings to users. Russian authorities said, hours later, that a Russian warning app had also been hacked and used to send fake alerts inside Russia. Neither BBC nor Reuters attributed either hack to a specific actor, but the symmetry — both sides' public-facing warning infrastructure compromised on the same day — illustrates how the war's cyber and information dimensions have become an arena of their own, distinct from and running alongside the physical fighting. Public alert systems are trust infrastructure: once either population learns to doubt them, real warnings carry less weight too.\n\n## Second-order effects\n\nFor Ukraine, episodes like Oleshky's evacuation put a human face on what nearly five years of occupation has meant for civilians on the wrong side of the front line, and they generate pressure — domestic and international — for more such pauses. For Russia, the hacking of its own alert app is a minor embarrassment that nonetheless signals its domestic information space is not as sealed off as the Kremlin would like. For outside powers, including the United States, these episodes are a reminder that the war's humanitarian toll continues even where the front line itself is largely static.\n\n## What to watch next\n\nThe bigger question is what any of this means for the diplomacy around ending the war. Foreign Affairs' analysis this week, titled \"Putin's Strategy Is Working,\" argues that Donald Trump's approach to a settlement could end up handing the Kremlin its core objectives even without further territorial gains — essentially that Putin may be winning the negotiation even as Russia struggles on individual fronts. If that argument gains traction in Washington, it will shape how much weight future ceasefire proposals — localized or general — are expected to carry. For now, Oleshky's evacuees are a reminder of what is actually being negotiated over: not abstract lines on a map, but towns where getting out alive meant crossing a minefield."
+      },
+      "he": {
+        "headline": "הפסקת אש נדירה באוקראינה מסתיימת, ואיתה הצצה למה שהכיבוש עשה לאולשקי",
+        "scroll": "הפסקת אש הומניטרית קצרה אפשרה לתושבים רעבים לברוח מהעיר הכבושה אולשקי, לפני שהתקפות רוסיות התחדשו וניתקו חשמל ברחבי אוקראינה.",
+        "coffee": "הפסקת אש הומניטרית נדירה באזור אולשקי, עיירה כבושה בידי רוסיה במחוז חרסון שבאוקראינה, אפשרה לתושבים להתפנות בסוף השבוע - לפני שפקעה. המפונים תיארו שנים של ניתוק ממזון, מים וחשמל, חלקם ניזונו מעשבים מהגינה כדי לשרוד, ונאלצו לחצות שדות מוקשים כדי להגיע לביטחון. צוות ה-BBC תיעד מפגשים רגשיים כשאוטובוסים ואמבולנסים הביאו אותם מעבר לגבול. שעות אחר כך, התקפות רוסיות ניתקו חשמל מאלפים באוקראינה, ובמקביל, אפליקציית האזעקות האוקראינית נפרצה כנראה ושלחה אזהרות קרינה כוזבות - ורוסיה דיווחה שגם אפליקציית האזעקות שלה נפרצה באופן דומה.\n\nלמה זה חשוב: הפסקות אש מקומיות כאלה הן חריג נדיר בתוך כמעט חמש שנות מלחמה, והקוצר שלהן מדגיש כמה מעט הפוגות הומניטריות משנות את התחשיב הצבאי שמתחתן. הפריצה המקבילה למערכות האזהרה הציבוריות של שני הצדדים מראה שהממד המודיעיני-תודעתי של המלחמה מחמיר במקביל לקרבות עצמם.\n\nמה לעקוב אחריו: כתבה בפורין אפרס (Foreign Affairs) טוענת שהגישה של דונלד טראמפ לסיום המלחמה מסתכנת בהענקת המטרות המרכזיות של פוטין לרוסיה, בלי קשר למצב בשטח - שווה מעקב כשמעריכים כל הצעת הפסקת אש עתידית לעומת מה שמפוני אולשקי תיארו שעברו.",
+        "deep": "## רקע\n\nמחוז חרסון, הפרוש על שני גדותיו של נהר הדנייפר בדרום אוקראינה, הוא אחד האזורים הנלחמים ביותר במלחמה מאז הפלישה הרוסית ב-2022. אוקראינה כבשה בחזרה את בירת המחוז ואת הגדה המערבית (הימנית) של הנהר בסוף 2022, אבל עיירות על הגדה המזרחית הכבושה, ובהן אולשקי, נותרו בשליטה רוסית מאז - מנותקות משטח אוקראיני בשל הנהר, ומרוב העולם החיצון בשל קו החזית.\n\n## חלון צר ליציאה\n\nבסוף השבוע האחרון נפתח, בעקבות הפסקת אש הומניטרית נדירה, חלון זמן קצר שאפשר לתושבים לעזוב את אולשקי. מפונים שהגיעו לביטחון תיארו שנים בלי אספקה סבירה של מזון, מים או חשמל, וחלקם נאלצו לבשל עשבי בר מהגינה כדי לשרוד. כדי להגיע לנקודת הפינוי, כך דווח, היה צריך לחצות שדות מוקשים. כתב ה-BBC דן ג'ונסון פגש את המפונים כשאוטובוסים ואמבולנסים הביאו אותם צפונה, למעבר בגבול אוקראינה עם בלארוס, שם נפגשו מחדש משפחות שהיו מופרדות שנים - סצנות שה-BBC תיאר כשובים הביתה מרגשים, אחרי מה שזוג מפונים כינה חזרה \"מהגיהינום\".\n\n## הפסקת האש מסתיימת\n\nההפוגה לא החזיקה זמן רב. שעות אחרי שפקעה, התקפות רוסיות התחדשו וניתקו חשמל מאלפי אנשים במקומות אחרים באוקראינה - תזכורת לכך שהפסקות אש מקומיות ומתווכות כאלה הן חריג צר, ולא סימן לדה-אסקלציה (de-escalation) רחבה יותר. הן נועדו לפתור בעיה הומניטרית מיידית - אזרחים הלכודים בעיירה כבושה ספציפית - בלי לגעת במסלול המלחמה בשום מקום אחר.\n\n## מלחמת מידע המתקיימת במקביל\n\nבמקביל, אפליקציית האזעקות האוקראינית נפרצה כנראה ושלחה למשתמשים אזהרות כוזבות על איום קרינה. שעות אחר כך דיווחו גורמים רוסיים שגם אפליקציית אזעקות רוסית נפרצה ושימשה לשליחת התראות מזויפות בתוך רוסיה. לא ה-BBC ולא רויטרס ייחסו את הפריצות לגורם ספציפי, אבל הסימטריה - תשתיות האזהרה הציבוריות של שני הצדדים נפרצות באותו היום - מראה איך הממדים הסייבריים והמודיעיניים-תודעתיים של המלחמה הפכו לזירה בפני עצמה, הנפרדת מהקרבות הפיזיים ומתקיימת לצידם. מערכות אזעקה ציבוריות הן תשתית של אמון: כשאוכלוסייה כלשהי לומדת לפקפק בהן, גם אזהרות אמיתיות שוות פחות.\n\n## השפעות מסדר שני\n\nלאוקראינה, פרקים כמו פינוי אולשקי נותנים פנים אנושיות למה שכמעט חמש שנות כיבוש עשו לאזרחים בצד הלא נכון של קו החזית, והם מייצרים לחץ - פנימי ובינלאומי - ליותר הפוגות כאלה. לרוסיה, הפריצה לאפליקציית האזעקות שלה עצמה היא מבוכה קטנה שמעידה בכל זאת שהמרחב המודיעיני הפנימי שלה אינו אטום כמו שהקרמלין היה רוצה. למעצמות חוץ, ובהן ארצות הברית, פרקים כאלה הם תזכורת לכך שהמחיר ההומניטרי של המלחמה ממשיך גם כשקו החזית עצמו די סטטי.\n\n## מה לעקוב אחריו הלאה\n\nהשאלה הגדולה יותר היא מה כל זה אומר על הדיפלומטיה סביב סיום המלחמה. ניתוח של פורין אפרס (Foreign Affairs) השבוע, שכותרתו \"האסטרטגיה של פוטין עובדת\", טוען שהגישה של דונלד טראמפ להסדר עלולה בסופו של דבר להעניק לקרמלין את מטרותיו המרכזיות אפילו בלי רווחים טריטוריאליים נוספים - בעיקרו של דבר, שפוטין אולי מנצח במשא ומתן אפילו כשרוסיה מתקשה בחזיתות בודדות. אם הטיעון הזה יתפוס אחיזה בוושינגטון, הוא יעצב את המשקל שיינתן להצעות הפסקת אש עתידיות - מקומיות או כלליות. בינתיים, מפוני אולשקי הם תזכורת למה שבאמת נמצא על שולחן המשא ומתן: לא קווים מופשטים על מפה, אלא עיירות שבהן לצאת בחיים פירושו לחצות שדה מוקשים."
+      },
+      "tags": [
+        "ukraine",
+        "russia",
+        "ceasefire",
+        "disinformation"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Emotional reunions with loved ones for Oleshky evacuees",
+          "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "AP — World (via Google News)",
+          "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Ukraine says public air raid alert app sent false alerts after being hacked - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "Putin’s Strategy Is Working",
+          "url": "https://www.foreignaffairs.com/russia/putins-strategy-working-michael-mcfaul"
+        }
+      ]
+    },
+    {
+      "id": "gulf-states-iran-war-mediation",
+      "kind": "analysis",
+      "en": {
+        "headline": "Markets start pricing in an end to the Iran war as Gulf states push to mediate",
+        "scroll": "Indian markets rallied on hopes for an Iran war settlement as Iran's top diplomat called for US 'rationality,' with analysts arguing only Gulf mediation can close the deal.",
+        "coffee": "Talk of ending the war involving Iran gathered pace: Reuters reported Indian shares were set for a positive start on hopes of a settlement, and Iran's top diplomat said he hopes the United States shows \"rationality\" in the talks. Foreign Affairs argues the Arab Gulf monarchies, not Washington or Tehran directly, are best placed to broker a deal that lets both sides save face — and that shipping security through the regional straits will keep slipping toward Iran and the Houthis until that happens.\n\nWhy it matters: the Gulf states have deep economic and security stakes in de-escalation — they sit next to the shipping lanes and energy infrastructure most exposed to the conflict — giving them leverage neither superpower fully has. Markets are already treating a deal as plausible enough to move prices.\n\nWhat to watch: The Economist warns separately that Donald Trump's broader Middle East approach — betting on strongman allies and commercial deals to stabilize the region — carries its own risks. Whether Gulf-brokered diplomacy can actually convert into a durable settlement, rather than another pause, is the test ahead.",
+        "deep": "## Background\n\nThe conflict involving Iran has drawn in regional shipping lanes, energy markets and great-power diplomacy well beyond Iran's own borders. Gulf Arab states — Saudi Arabia, the UAE, Qatar and others — sit geographically between Iran and the open sea routes that much of the world's oil and trade depend on, giving them an acute interest in how the conflict ends.\n\n## Signs of momentum toward a deal\n\nReuters reported that Indian shares were poised for a positive start on talk of progress toward ending the Iran war, alongside strong earnings from Reliance — markets treating the prospect of a settlement as real enough to price in. Separately, Iran's top diplomat said he hopes the United States will show \"rationality\" in the negotiations, a carefully chosen word suggesting Tehran sees the current US posture as anything but, while still leaving the door open to talks.\n\n## Why Foreign Affairs says the Gulf has to broker it\n\nForeign Affairs argues that a durable resolution cannot come from direct US-Iran or Israel-Iran diplomacy alone — both sides need a way to accept a deal without appearing to have capitulated, and the Gulf monarchies, with credibility on both sides and their own stake in regional stability, are positioned to provide that face-saving channel. The same outlet's companion piece on maritime security argues that until a settlement is reached, Iran and Yemen's Houthi movement will keep gaining the upper hand over the straits that regional and global shipping depends on, meaning the cost of delay is not just diplomatic but economic — higher insurance and shipping costs, and periodic disruptions to oil flows.\n\n## The risk in Washington's broader bet\n\nThe Economist's commentary this week takes a skeptical view of the Trump administration's wider regional strategy, describing it as a bet on nationalist strongman allies and commercial deal-making to pacify the Middle East. The magazine's framing — that Trump \"may love the Middle East to death\" — suggests concern that an approach built around transactional relationships with individual leaders may not hold up if any one of those leaders' domestic positions weakens, or if the underlying disputes (Iran's nuclear and regional ambitions chief among them) are not actually resolved by a ceasefire alone.\n\n## Second-order effects\n\nFor Gulf states, successful mediation would cement their role as indispensable regional brokers, reinforcing a trend of Gulf capitals positioning themselves as diplomatic hubs independent of Washington. For global markets, continued uncertainty over the straits keeps a risk premium baked into shipping and energy prices; a credible settlement could unwind some of that. For Israel, which has its own direct stake in how any Iran settlement is structured, the terms Gulf mediators broker — and whether they address missile and proxy capabilities, not just an immediate ceasefire — will matter as much as the fact of a deal itself.\n\n## What to watch next\n\nWatch whether Gulf-led shuttle diplomacy produces anything more concrete than statements of hope, whether Iran's \"rationality\" framing is matched by any actual concession, and whether markets' current optimism — visible in Monday's Indian equities reaction — survives contact with the details of any proposed deal."
+      },
+      "he": {
+        "headline": "השווקים מתחילים לתמחר סיום למלחמת איראן, ככל שמדינות המפרץ מנסות לתווך",
+        "scroll": "המניות בהודו עלו על תקוות להסדר במלחמת איראן, כשהדיפלומט הבכיר של איראן קורא ל\"רציונליות\" אמריקאית - ולפי ניתוחים, רק תיווך מפרצי יכול לסגור את העניין.",
+        "coffee": "הדיבורים על סיום המלחמה שאיראן מעורבת בה מתגברים: רויטרס מדווחת שמניות בהודו נפתחו בעלייה על רקע תקוות להסדר, ושר החוץ הבכיר של איראן אמר שהוא מקווה שארצות הברית תפגין \"רציונליות\" בשיחות. פורין אפרס (Foreign Affairs) טוען שמדינות המפרץ הערביות - ולא וושינגטון או טהרן במישרין - נמצאות בעמדה הטובה ביותר לתווך הסדר שיאפשר לשני הצדדים \"לשמור על הפנים\", וכי אבטחת השילוח במיצרים האזוריים תמשיך לדרדר לכיוון איראן והחות'ים עד שזה יקרה.\n\nלמה זה חשוב: למדינות המפרץ אינטרס כלכלי וביטחוני עמוק בדה-אסקלציה (de-escalation) - הן ממוקמות לצד נתיבי השילוח ותשתיות האנרגיה החשופים ביותר לסכסוך - מה שנותן להן מנופי השפעה שלאף אחת מהמעצמות אין במידה שלמה. השווקים כבר מתייחסים להסדר כאפשרי מספיק כדי להזיז מחירים.\n\nמה לעקוב אחריו: הכלכלן (The Economist) מזהיר בנפרד שהגישה הרחבה יותר של דונלד טראמפ למזרח התיכון - הסתמכות על בעלי ברית חזקים וסדרים מסחריים כדי לייצב את האזור - טומנת בחובה סיכונים משלה. השאלה אם דיפלומטיה בתיווך מפרצי תתורגם בפועל להסדר יציב, ולא עוד הפסקה זמנית, היא המבחן שלפנינו.",
+        "deep": "## רקע\n\nהסכסוך שאיראן מעורבת בו גרר אליו נתיבי שילוח אזוריים, שוקי אנרגיה ודיפלומטיה של מעצמות גדולות, הרבה מעבר לגבולותיה של איראן עצמה. מדינות המפרץ הערביות - סעודיה, האמירויות, קטאר ואחרות - ממוקמות גיאוגרפית בין איראן לבין נתיבי הים הפתוחים שרוב הסחר והנפט העולמי תלויים בהם, מה שנותן להן אינטרס חד בדרך שבה הסכסוך יסתיים.\n\n## סימנים למומנטום לכיוון הסדר\n\nרויטרס דיווחה שמניות בהודו היו בכיוון חיובי על רקע דיבורים על התקדמות לכיוון סיום מלחמת איראן, לצד תוצאות חזקות של חברת Reliance - סימן לכך שהשווקים מתייחסים לאפשרות של הסדר כרצינית מספיק כדי לתמחר אותה. בנפרד, שר החוץ הבכיר של איראן אמר שהוא מקווה שארצות הברית תפגין \"רציונליות\" במשא ומתן - מילה שנבחרה בקפידה, שמרמזת שטהרן תופסת את העמדה האמריקאית הנוכחית כלא רציונלית, אבל עדיין משאירה פתח לשיחות.\n\n## למה פורין אפרס טוען שהמפרץ צריך לתווך\n\nפורין אפרס (Foreign Affairs) טוען שהסדר יציב לא יכול לצאת רק מדיפלומטיה ישירה בין ארצות הברית לאיראן, או בין ישראל לאיראן - שני הצדדים צריכים דרך לקבל הסדר בלי להיראות כמי שהתכופפו, ולמלכויות המפרץ, עם אמינות מול שני הצדדים ואינטרס משלהן ביציבות אזורית, יש את המעמד לשמש כצינור הזה ש\"שומר על הפנים\". מאמר נוסף של אותו גוף תקשורת, על אבטחה ימית, טוען שעד שיגיע הסדר, איראן ותנועת החות'ים בתימן ימשיכו לצבור יתרון על המיצרים שהשילוח האזורי והעולמי תלוי בהם - כך שמחיר העיכוב אינו רק דיפלומטי אלא גם כלכלי: עלויות ביטוח ושילוח גבוהות יותר, ושיבושים תקופתיים בזרימת הנפט.\n\n## הסיכון בהתערבות הרחבה יותר של וושינגטון\n\nהפרשנות של הכלכלן (The Economist) השבוע מביאה מבט ספקני על האסטרטגיה האזורית הרחבה יותר של ממשל טראמפ, ומתארת אותה כהתערבות המבוססת על בעלי ברית לאומניים חזקים ועל עסקאות מסחריות כדי לרסן את המזרח התיכון. הניסוח של המגזין - שטראמפ \"אולי אוהב את המזרח התיכון למות\" - מרמז על חשש שגישה הבנויה על יחסים טרנזקציוניים עם מנהיגים בודדים לא תשרוד אם המעמד הפנימי של מי מהם יתערער, או אם המחלוקות שבבסיס הסכסוך - ובראשן השאיפות הגרעיניות והאזוריות של איראן - לא יפתרו רק באמצעות הפסקת אש.\n\n## השפעות מסדר שני\n\nלמדינות המפרץ, תיווך מוצלח יחזק את מעמדן כמתווכות אזוריות הכרחיות, ויעמיק מגמה של בירות מפרציות שמתמצבות כמרכזי דיפלומטיה עצמאיים מוושינגטון. לשווקים העולמיים, חוסר ודאות מתמשך לגבי המיצרים משאיר פרמיית סיכון בתוך מחירי השילוח והאנרגיה; הסדר אמין יכול לפרק חלק מהפרמיה הזו. לישראל, שיש לה אינטרס ישיר משלה באופן שבו יבנה כל הסדר עם איראן, התנאים שמתווכי המפרץ יגבשו - ואם הם יתייחסו ליכולות הטילים והפרוקסי ולא רק להפסקת אש מיידית - יהיו חשובים כמו עצם קיומו של ההסדר.\n\n## מה לעקוב אחריו הלאה\n\nיש לעקוב אחרי השאלה אם הדיפלומטיה המתגלגלת בהובלת המפרץ תייצר משהו מעבר להצהרות תקווה, אם הניסוח האיראני של \"רציונליות\" ילווה בוויתור ממשי כלשהו, ואם האופטימיות הנוכחית של השווקים - שנראתה בתגובת המניות ההודית ביום שני - תשרוד את המגע עם הפרטים של כל הסדר שיוצע."
+      },
+      "tags": [
+        "iran",
+        "gulf-states",
+        "middle-east",
+        "markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Indian shares set for positive start on talks to end Iran war, strong Reliance earnings - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nWF8tcV9tRkNYTENXRnRyTDhkcnRoZEJmMFJ1Wm1USDJwbDNxcEFuU0xNbE9JSnRJb2xScTBmWWVpZWJ5SmlhXzdBajNuSDhnOWdULWQ4UUZ2T3RRdjhpNWxZb08tcEQxR01tdks4dkhLTUN1WjJiZVFSa1JCbHBRdGVsZVZqNzFoQ2ZDdF9zbE9MeUlvRHhzZGRRM05SeGxlaFB1MFZjWVB3TVZjbTBfUlprRTZ2eTA3bFBFQVpLdw?oc=5"
+        },
+        {
+          "outlet": "AP — World (via Google News)",
+          "title": "Iran’s top diplomat hopes US shows ‘rationality,’ and other Mideast news - AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNFZ2bTFqUjZkZlNGNXBaRDQ5c2FxOUduU1c4a052d3kwemJPbUJrZ1l3TXdpQXZXN18zX0NaUUlUa1hDYWluZ0pETDZfZWtwdF81b2xOcFVDZlFfS3RMb2hma2ZCNV92aV9sWUVQR3ZlR2EzYm5sakVwMnhPRmNGZUVQNGhjNGE1cDlQNHdoamRZUQ?oc=5"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "Only the Gulf Can End the Iran War",
+          "url": "https://www.foreignaffairs.com/united-states/only-gulf-can-end-iran-war"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "How to Secure the Straits",
+          "url": "https://www.foreignaffairs.com/iran/how-secure-straits"
+        },
+        {
+          "outlet": "The Economist — International",
+          "title": "Donald Trump may love the Middle East to death",
+          "url": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death"
+        }
+      ]
+    }
+  ]
+}
