@@ -1,0 +1,111 @@
+{
+  "section": "business",
+  "date": "2026-11-03",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-03T03:55:25+00:00",
+  "stories": [
+    {
+      "id": "anthropic-ipo-burn-rate",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic's $23 Billion Quarterly Loss Tests the Math Behind Its IPO",
+        "scroll": "Anthropic lost over $23 billion last quarter and committed $900 billion to AI infrastructure, and IPO investors now want a more cautious $1.5 trillion valuation.",
+        "coffee": "Anthropic's third-quarter numbers, filed with the SEC ahead of its initial public offering (IPO) later this month, show a company spending far faster than it earns. Operating expenses jumped almost 300% between July and September, pushing the quarterly loss above $23 billion, even as the company separately revealed roughly $900 billion in future AI infrastructure spending commitments — mostly for the data centers and chips Claude runs on. Infrastructure costs are rising faster than revenue, exactly the pattern investors are scrutinizing before they price the deal.\n\nThat scrutiny is already showing up in the price investors are willing to pay. After a broader selloff hit AI-linked stocks, institutional buyers planning to join the IPO are pushing for a valuation closer to $1.5 trillion rather than a higher figure Anthropic might once have expected — a sign that price discovery, the process by which a market works out what something is actually worth, is running less in Anthropic's favor than it did a few months ago. Not everyone is rushing in, either: Lucid Capital's Shachar Cohen, who says he believes in Anthropic long-term, told a podcast his fund won't buy on IPO day and will instead wait to see how much stock insiders choose to sell once they can.\n\nWatch the IPO pricing itself this month, and how much supply insiders put on the market once lock-up restrictions lift.",
+        "deep": "## Background\n\nBefore a private company sells shares to the public for the first time, in an initial public offering (IPO), it has to convince institutional investors that its price makes sense. That process is called book-building: banks gauge how much big investors are willing to pay, and the final price set shortly before trading begins is really the market's best guess — a process economists call price discovery — at what something is actually worth. For a company that is still losing large sums of money, that guess rests less on current profit and more on a story about future growth, and on measuring just how fast cash is going out the door — the company's cash burn rate — against how fast revenue is coming in.\n\nAI infrastructure makes that calculation unusually hard. Training and running large models requires enormous, continuous spending on chips and data centers — what accountants call capital expenditure, or capex — and that spending tends to show up on the balance sheet well before the revenue it is supposed to generate. That mismatch is at the center of why Wall Street is suddenly nervous about Anthropic's books.\n\n## The story\n\nDocuments Anthropic filed with the US Securities and Exchange Commission (SEC) ahead of its planned IPO this month show operating expenses — the day-to-day cost of running the business, separate from one-off charges — jumped almost 300% between July and September, pushing the company's quarterly loss past $23 billion. Separately, Anthropic has revealed roughly $900 billion in future AI infrastructure spending commitments, and its infrastructure costs are rising faster than its revenue, exactly the imbalance investors are now scrutinizing as they try to price the deal.\n\nThat scrutiny shows up directly in the price institutional buyers are willing to pay. After a broader selloff in AI-linked stocks, investors planning to buy into the IPO are pushing for a valuation closer to $1.5 trillion rather than a higher number Anthropic might once have expected — a sign that, for now, price discovery is working against the company compared to a few months ago. Some big names are also simply choosing to wait: Lucid Capital's founder and CEO, Shachar Cohen, said on a podcast that although he believes in Anthropic's long-term prospects, his fund will not buy shares on IPO day itself, preferring to wait and see how much stock company insiders choose to sell once they are permitted to.\n\n## Second-order effects\n\nAnthropic's cash needs are not happening in isolation — they're part of an industry-wide shift in how AI is being financed. Oracle is seeking to raise $20 billion for its own AI growth, split evenly between $10 billion of new common stock and $10 billion of bonds, and Meta is reportedly weighing new debt of its own. Big Tech had avoided the US bond market for almost three months after an earlier debt binge spooked investors, but that caution is ending: companies are increasingly funding AI capex with leverage — borrowed money — rather than relying only on operating cash flow or equity. Leverage can magnify returns when growth is strong, but it magnifies losses just as fast if that growth disappoints, which is exactly the risk investors are pricing into Anthropic.\n\nThe anxiety is also spilling into commodity markets. Copper and tin fell alongside other industrial metals as a renewed selloff in AI-related tech stocks in Asia weakened the outlook for demand — these metals are used in data centers and for soldering circuit boards, so expectations about the pace of AI buildout now move prices well outside the tech sector itself.\n\n## What to watch next\n\nThe clearest near-term signal is the IPO pricing itself this month: a deal that lands close to the $1.5 trillion level investors are pushing for, versus a higher figure, will say a lot about how much benefit of the doubt markets are still giving AI infrastructure spending. After that, watch how much stock insiders actually sell once lock-up restrictions lift — Cohen's comment suggests that moment, not the opening trade, is where real demand will be tested. Keep an eye too on whether Oracle's and Meta's returns to the bond market go smoothly or whether lenders start demanding a bigger risk premium for AI-linked debt. Goldman Sachs CEO David Solomon has already framed this moment as a technology supercycle that will have \"bumps\" along the way, while still describing the broader US economy as resilient — the next few weeks of IPO pricing and bond issuance will test whether that framing holds."
+      },
+      "he": {
+        "headline": "ההפסד הרבעוני של 23 מיליארד דולר של אנתרופיק מעמיד במבחן את ההנפקה המתוכננת",
+        "scroll": "אנתרופיק הפסידה יותר מ-23 מיליארד דולר ברבעון האחרון והתחייבה ל-900 מיליארד דולר בהשקעות תשתית לבינה מלאכותית, ומשקיעים לקראת ההנפקה החודש דוחקים להערכת שווי שמרנית יותר של 1.5 טריליון דולר.",
+        "coffee": "הדו\"חות שאנתרופיק הגישה לרשות ניירות ערך האמריקאית (SEC) לפני ההנפקה הראשונית (IPO) המתוכננת לה החודש מראים חברה שמוציאה כסף הרבה יותר מהר משהיא מכניסה. ההוצאות התפעוליות (operating expenses) זינקו בכמעט 300% בין יולי לספטמבר, וההפסד הרבעוני עבר את רף 23 מיליארד הדולר - וזאת בזמן שהחברה חשפה בנפרד התחייבויות של כ-900 מיליארד דולר בהשקעות תשתית, בעיקר למרכזי הנתונים והשבבים שמריצים את קלוד. עלויות התשתית גדלות מהר יותר מההכנסות - בדיוק הדפוס שמשקיעים בוחנים בזכוכית מגדלת לפני שהם מתמחרים את העסקה.\n\nהבחינה הזו כבר ניכרת במספרים שמשקיעים מוכנים לשלם. אחרי גל ירידות רחב במניות הטכנולוגיה שפגע גם במניות הקשורות לבינה מלאכותית, גופים מוסדיים שמתכננים להיכנס להנפקה דוחקים להערכת שווי (valuation) של כ-1.5 טריליון דולר, נמוכה מהמספר שאנתרופיק אולי קיוותה לו - סימן לכך שתהליך גילוי המחיר (price discovery), שבו השוק מגלה כמה דבר שווה בפועל, פועל כרגע פחות לטובת אנתרופיק מכפי שפעל לפני כמה חודשים. לא כולם ממהרים לשום כיוון: שחר כהן, מנכ\"ל לוסיד קפיטל, שאמר שהוא מאמין באנתרופיק לטווח ארוך, סיפר בפודקאסט שהקרן שלו לא תקנה ביום ההנפקה, ותמתין לראות כמה מניות בעלי העניין ימכרו כשיוכלו.\n\nשימו לב לתמחור ההנפקה עצמה, ולכמות המניות שבעלי העניין יציפו לשוק כשתוקף חסימת המכירה (lock-up) יפוג.",
+        "deep": "## רקע\n\nלפני שחברה פרטית מוכרת מניות לציבור בפעם הראשונה, בהנפקה ראשונית (IPO), היא צריכה לשכנע משקיעים מוסדיים שהמחיר שהיא מבקשת הגיוני. התהליך הזה נקרא בניית ספר הזמנות (book-building): הבנקים החתמים בודקים כמה משקיעים גדולים מוכנים לשלם, והמחיר הסופי שנקבע סמוך למועד תחילת המסחר הוא בעצם ההערכה הטובה ביותר של השוק - תהליך שכלכלנים מכנים גילוי מחיר (price discovery) - לכמה דבר שווה בפועל. לגבי חברה שעדיין מפסידה סכומים גדולים, ההערכה הזו נשענת פחות על רווח נוכחי ויותר על סיפור צמיחה עתידי, ועל מדידה של הקצב שבו הכסף זורם אל מחוץ לחברה - שיעור שריפת המזומנים (cash burn rate) שלה - לעומת הקצב שבו הכנסות נכנסות.\n\nתשתיות בינה מלאכותית מקשות על החישוב הזה באופן חריג. אימון והרצה של מודלים גדולים מחייבים הוצאה עצומה ומתמשכת על שבבים ומרכזי נתונים - מה שרואי חשבון מכנים הוצאות הון (capital expenditure, capex) - וההוצאה הזו נרשמת במאזן הרבה לפני ההכנסות שהיא אמורה ליצור. חוסר ההתאמה הזה נמצא בלב הסיבה לכך שוול סטריט פתאום חרדה לגבי הספרים של אנתרופיק.\n\n## הסיפור\n\nמסמכים שאנתרופיק הגישה לרשות ניירות ערך האמריקאית (SEC) לפני ההנפקה המתוכננת לה החודש מראים שההוצאות התפעוליות (operating expenses) - העלות היומיומית של הפעלת העסק, בנפרד מחיובים חד-פעמיים - זינקו בכמעט 300% בין יולי לספטמבר, וההפסד הרבעוני של החברה עבר את רף 23 מיליארד הדולר. בנפרד, אנתרופיק חשפה התחייבויות של כ-900 מיליארד דולר בהשקעות תשתית עתידיות לבינה מלאכותית, ועלויות התשתית שלה גדלות מהר יותר מההכנסות - בדיוק חוסר האיזון שמשקיעים בוחנים כעת כשהם מנסים לתמחר את העסקה.\n\nהבחינה הזו ניכרת ישירות במחיר שמשקיעים מוסדיים מוכנים לשלם. אחרי גל ירידות רחב במניות הקשורות לבינה מלאכותית, משקיעים שמתכננים לקנות בהנפקה דוחקים להערכת שווי (valuation) של כ-1.5 טריליון דולר, נמוכה מהמספר שאנתרופיק אולי קיוותה לו בעבר - סימן לכך שבשלב הזה גילוי המחיר פועל נגד החברה בהשוואה לכמה חודשים אחורה. כמה שמות גדולים גם בוחרים פשוט להמתין: שחר כהן, מייסד ומנכ\"ל לוסיד קפיטל, אמר בפודקאסט שאף שהוא מאמין בסיכויים ארוכי הטווח של אנתרופיק, הקרן שלו לא תקנה מניות ביום ההנפקה עצמו, ותעדיף להמתין ולראות כמה מניות בעלי העניין בחברה בוחרים למכור כשיתאפשר להם.\n\n## אפקטים מסדר שני\n\nהצורך של אנתרופיק במזומן לא קורה בבדידות - הוא חלק משינוי כלל-ענפי באופן שבו מממנים בינה מלאכותית. אורקל מבקשת לגייס 20 מיליארד דולר לצמיחת הבינה המלאכותית שלה, מחצית בהנפקת מניות רגילות ומחצית באג\"ח, ומטא, כך מדווח, שוקלת חוב חדש משלה. חברות הטכנולוגיה הגדולות נמנעו משוק האג\"ח האמריקאי כשלושה חודשים אחרי גל גיוסי חוב קודם שהבריח משקיעים, אבל הזהירות הזו מתפוגגת: החברות מממנות יותר ויותר את הוצאות ההון שלהן לבינה מלאכותית במינוף (leverage) - כסף שאול - ולא רק בתזרים מזומנים תפעולי או בהון עצמי. מינוף יכול להגדיל תשואות כשהצמיחה חזקה, אבל הוא מגדיל בדיוק באותה מהירות את ההפסדים אם הצמיחה מאכזבת - וזה בדיוק הסיכון שמשקיעים מתמחרים כיום באנתרופיק.\n\nהחרדה הזו מגיעה גם לשוקי הסחורות. נחושת ובדיל נפלו לצד מתכות תעשייתיות אחרות, כשגל ירידות מחודש במניות טכנולוגיה הקשורות לבינה מלאכותית באסיה החליש את תחזית הביקוש - המתכות האלה משמשות במרכזי נתונים ולהלחמת לוחות מעגלים, כך שתחזיות לגבי קצב בניית תשתיות הבינה המלאכותית מזיזות כיום מחירים הרבה מעבר לענף הטכנולוגיה עצמו.\n\n## מה לעקוב אחריו\n\nהסיגנל הקרוב והברור ביותר הוא תמחור ההנפקה עצמה החודש: עסקה שתיסגר קרוב לרמה של 1.5 טריליון דולר שהמשקיעים דוחקים אליה, לעומת מספר גבוה יותר, תעיד הרבה על כמה אמון השוק עדיין נותן להוצאות על תשתיות בינה מלאכותית. מעבר לכך, שימו לב כמה מניות בעלי העניין בפועל ימכרו כשחסימת המכירה (lock-up) תפוג - ההערה של כהן מרמזת שהרגע הזה, ולא יום המסחר הראשון, הוא שבו הביקוש האמיתי יעמוד למבחן. כדאי לעקוב גם אחרי השאלה אם החזרה של אורקל ומטא לשוק האג\"ח תעבור בשלווה, או שמלווים יתחילו לדרוש פרמיית סיכון (risk premium) גבוהה יותר על חוב הקשור לבינה מלאכותית. מנכ\"ל גולדמן זאקס, דיוויד סולומון, כבר הגדיר את הרגע הזה כמחזור-על טכנולוגי (tech supercycle) שיכלול \"מהמורות\" בדרך, בעוד שהוא ממשיך לתאר את הכלכלה האמריקאית הרחבה כגמישה וחסינה (resilient) - השבועות הקרובים של תמחור ההנפקה וגיוסי האג\"ח יבחנו אם התיאור הזה אכן מחזיק מים."
+      },
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai-capex",
+        "valuation"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "אנתרופיק דיווחה על הפסד של יותר מ-23 מיליארד דולר ברבעון השלישי",
+          "url": "https://www.themarker.com/wallstreet/2026-11-02/ty-article/.premium/000001a1-9cc0-de48-abb1-dde1c4b00000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מאמין באנתרופיק, מחכה עם הכסף: \"אנחנו לעולם לא נקנה ביום ההנפקה\"",
+          "url": "https://www.themarker.com/podcasts/2026-11-02/ty-article/.premium/000001a1-9bde-d02e-abe7-dfde89510000"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+          "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Oracle Looks to Raise $20 Billion to Fund AI Ambitions",
+          "url": "https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Solomon on Tech Supercycle 'Bumps'",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-03/solomon-on-tech-supercycle-bumps-video"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4037.3601,
+      "prev_close": 4058.95,
+      "change_pct": -0.53,
+      "as_of": "2026-11-02"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7541.3999,
+      "prev_close": 7580.0698,
+      "change_pct": -0.51,
+      "as_of": "2026-11-02"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1472,
+      "prev_close": 3.1438,
+      "change_pct": 0.11,
+      "as_of": "2026-11-03"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 104.8,
+      "prev_close": 117.64,
+      "change_pct": -10.91,
+      "as_of": "2026-11-02"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 76671.9766,
+      "prev_close": 78248.4531,
+      "change_pct": -2.01,
+      "as_of": "2026-11-03"
+    }
+  }
+}
