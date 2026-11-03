@@ -111,22 +111,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-03T19:45:00Z",
-     "home": "Blackburn",
-     "away": "Stoke",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-03T19:45:00Z",
-     "home": "Portsmouth",
-     "away": "Swansea",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-03T19:45:00Z",
      "home": "Watford",
      "away": "Lincoln City",
      "status": "TIMED",
@@ -137,6 +121,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-03T19:45:00Z",
      "home": "QPR",
      "away": "Burnley",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-03T19:45:00Z",
+     "home": "Blackburn",
+     "away": "Stoke",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-03T19:45:00Z",
+     "home": "Portsmouth",
+     "away": "Swansea",
      "status": "TIMED",
      "score": null
     },
@@ -167,6 +167,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-03T20:00:00Z",
+     "home": "Man United",
+     "away": "Roma",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-03T20:00:00Z",
+     "home": "Feyenoord",
+     "away": "Inter",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-03T20:00:00Z",
      "home": "LASK",
      "away": "Sl. Bratislava",
      "status": "TIMED",
@@ -183,16 +199,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-03T20:00:00Z",
-     "home": "Man United",
-     "away": "Roma",
+     "home": "Villarreal",
+     "away": "PSG",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-03T20:00:00Z",
-     "home": "Feyenoord",
-     "away": "Inter",
+     "home": "Bodø/Glimt",
+     "away": "Lille",
      "status": "TIMED",
      "score": null
     },
@@ -217,22 +233,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-03T20:00:00Z",
      "home": "West Brom",
      "away": "Southampton",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-03T20:00:00Z",
-     "home": "Villarreal",
-     "away": "PSG",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-03T20:00:00Z",
-     "home": "Bodø/Glimt",
-     "away": "Lille",
      "status": "TIMED",
      "score": null
     }
@@ -882,93 +882,93 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Messi leads Inter Miami to the 2027 CONCACAF Champions Cup after an exciting win over New England - arabcanadanews.ca",
-     "published": "2026-11-03T03:29:24+00:00",
-     "summary": "Messi leads Inter Miami to the 2027 CONCACAF Champions Cup after an exciting win over New England arabcanadanews.ca"
+     "title": "Messi inspires Inter Miami comeback to move second in Eastern Conference - News Today",
+     "published": "2026-11-03T06:38:50+00:00",
+     "summary": "Messi inspires Inter Miami comeback to move second in Eastern Conference News Today"
     },
     {
      "ref": "gnews_inter_miami#2",
+     "title": "Messi heroics lead Inter Miami to Champions Cup - Nagaland Post",
+     "published": "2026-11-03T06:10:10+00:00",
+     "summary": "Messi heroics lead Inter Miami to Champions Cup Nagaland Post"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
+     "title": "Messi Reaches 937 Career Goals In Inter Miami 2-1 Victory - New National Star",
+     "published": "2026-11-03T05:32:04+00:00",
+     "summary": "Messi Reaches 937 Career Goals In Inter Miami 2-1 Victory New National Star"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
+     "title": "Lionel Messi Steals The Show In 2-1 Away Triumph For Inter Miami - Outlook India",
+     "published": "2026-11-03T04:11:31+00:00",
+     "summary": "Lionel Messi Steals The Show In 2-1 Away Triumph For Inter Miami Outlook India"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
      "title": "Gearing Up for The Huddle Vol. 3: A Look Back at Lively Second In-App Player Chat Featuring Sergio Reguilón - Inter Miami CF",
      "published": "2026-11-03T01:10:37+00:00",
      "summary": "Gearing Up for The Huddle Vol. 3: A Look Back at Lively Second In-App Player Chat Featuring Sergio Reguilón Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#3",
-     "title": "Messi leads Inter Miami comeback and Concacaf berth - KarloBag.eu",
-     "published": "2026-11-02T22:26:39+00:00",
-     "summary": "Messi leads Inter Miami comeback and Concacaf berth KarloBag.eu"
+     "ref": "gnews_inter_miami#6",
+     "title": "Lionel Messi Leads Inter Miami to Concacaf Champions Cup Qualification Comeback - CubaHeadlines",
+     "published": "2026-11-03T00:03:37+00:00",
+     "summary": "Lionel Messi Leads Inter Miami to Concacaf Champions Cup Qualification Comeback CubaHeadlines"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#7",
      "title": "Revolution Struggle Under Pressure Against Miami - The Blazing Musket",
      "published": "2026-11-02T21:51:13+00:00",
      "summary": "Revolution Struggle Under Pressure Against Miami The Blazing Musket"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#8",
      "title": "Lionel Messi and Inter Miami get unexpected helping hand from MLS - Diario AS",
      "published": "2026-11-02T21:47:32+00:00",
      "summary": "Lionel Messi and Inter Miami get unexpected helping hand from MLS Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#9",
+     "title": "Messi leads the comeback that qualifies Inter Miami for the Concachampions - CiberCuba",
+     "published": "2026-11-02T20:29:45+00:00",
+     "summary": "Messi leads the comeback that qualifies Inter Miami for the Concachampions CiberCuba"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
      "title": "Messi Named to MLS Team of the Matchday - Inter Miami CF",
      "published": "2026-11-02T19:04:16+00:00",
      "summary": "Messi Named to MLS Team of the Matchday Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#11",
      "title": "MLS Power Rankings: Miamis finds its feet with Decision Day coming up - ESPN",
      "published": "2026-11-02T18:35:00+00:00",
      "summary": "MLS Power Rankings: Miamis finds its feet with Decision Day coming up ESPN"
     },
     {
-     "ref": "gnews_inter_miami#8",
-     "title": "Another 30-Goal Season for Lionel Andrés Messi - beIN SPORTS",
-     "published": "2026-11-02T18:18:21+00:00",
-     "summary": "Another 30-Goal Season for Lionel Andrés Messi beIN SPORTS"
+     "ref": "gnews_inter_miami#12",
+     "title": "MLS: Messi sends Inter Miami to second win at New England - Blueprint Newspapers",
+     "published": "2026-11-02T17:13:10+00:00",
+     "summary": "MLS: Messi sends Inter Miami to second win at New England Blueprint Newspapers"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "Messi sends Miami second with 2-1 win at New England - Kuwait Times",
-     "published": "2026-11-02T18:00:00+00:00",
-     "summary": "Messi sends Miami second with 2-1 win at New England Kuwait Times"
-    },
-    {
-     "ref": "gnews_inter_miami#10",
-     "title": "Lionel Messi lifts Inter Miami past Revs, into second in East - Oman Observer",
-     "published": "2026-11-02T17:03:40+00:00",
-     "summary": "Lionel Messi lifts Inter Miami past Revs, into second in East Oman Observer"
-    },
-    {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#13",
      "title": "MLS Winners and Losers: Nashville SC flirt with MLS records, Lionel Messi's Inter Miami get lucky and the West seems well-poised for Decision Day - Goal.com",
      "published": "2026-11-02T16:40:43+00:00",
      "summary": "MLS Winners and Losers: Nashville SC flirt with MLS records, Lionel Messi's Inter Miami get lucky and the West seems well-poised for Decision Day Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
-     "title": "LIONEL MESSI SENDS INTER MIAMI TO SECOND SPOT - The Manila Times",
-     "published": "2026-11-02T16:01:00+00:00",
-     "summary": "LIONEL MESSI SENDS INTER MIAMI TO SECOND SPOT The Manila Times"
-    },
-    {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "On Sale Now: Round One Tickets for Inter Miami CF’s Audi 2026 MLS Cup Playoffs Available - Inter Miami CF",
      "published": "2026-11-02T15:18:47+00:00",
      "summary": "On Sale Now: Round One Tickets for Inter Miami CF’s Audi 2026 MLS Cup Playoffs Available Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi pulls off sensational 'bluetooth assist' with BACKWARDS header in Inter Miami win - The Sun",
      "published": "2026-11-02T14:56:58+00:00",
      "summary": "Lionel Messi pulls off sensational 'bluetooth assist' with BACKWARDS header in Inter Miami win The Sun"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
-     "title": "Messi shkëlqen me gol dhe asist, Inter Miami përmbys rezultatin ndaj New England - Reporteri.net",
-     "published": "2026-11-02T14:29:24+00:00",
-     "summary": "Messi shkëlqen me gol dhe asist, Inter Miami përmbys rezultatin ndaj New England Reporteri.net"
     },
     {
      "ref": "gnews_inter_miami#16",
@@ -997,20 +997,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_inter_miami#20",
      "title": "New England Revolution - Inter Miami CF 1 - 2 | TOR - Leo Messi - OneFootball",
-     "published": "2026-11-02T11:31:03+00:00",
+     "published": "2026-11-02T11:31:22+00:00",
      "summary": "New England Revolution - Inter Miami CF 1 - 2 | TOR - Leo Messi OneFootball"
     },
     {
      "ref": "gnews_inter_miami#21",
-     "title": "Lionel Messi strikes late as Inter Miami forge comeback to beat New England - TribalFootball",
-     "published": "2026-11-02T10:47:22+00:00",
-     "summary": "Lionel Messi strikes late as Inter Miami forge comeback to beat New England TribalFootball"
+     "title": "Messi scores and assists as Inter Miami beat New England - playmakerstats.com",
+     "published": "2026-11-02T10:59:02+00:00",
+     "summary": "Messi scores and assists as Inter Miami beat New England playmakerstats.com"
     },
     {
      "ref": "gnews_inter_miami#22",
-     "title": "Messi leads Inter Miami to secure its place in the CONCACAF Champions Cup - www.jordannews.jo",
-     "published": "2026-11-02T10:13:44+00:00",
-     "summary": "Messi leads Inter Miami to secure its place in the CONCACAF Champions Cup www.jordannews.jo"
+     "title": "Lionel Messi strikes late as Inter Miami forge comeback to beat New England - TribalFootball",
+     "published": "2026-11-02T10:47:22+00:00",
+     "summary": "Lionel Messi strikes late as Inter Miami forge comeback to beat New England TribalFootball"
     },
     {
      "ref": "gnews_inter_miami#23",
@@ -1020,9 +1020,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#24",
-     "title": "New England Revolution 1-2 Inter Miami: Messi strikes winner as battle for second stays open - FotMob",
-     "published": "2026-11-02T10:11:05+00:00",
-     "summary": "New England Revolution 1-2 Inter Miami: Messi strikes winner as battle for second stays open FotMob"
+     "title": "Messi steps up when Inter Miami need him most to secure Champions Cup spot - 101 Great Goals",
+     "published": "2026-11-02T10:06:52+00:00",
+     "summary": "Messi steps up when Inter Miami need him most to secure Champions Cup spot 101 Great Goals"
     }
    ]
   },
@@ -1032,153 +1032,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "Deni Avdija, Jrue Holiday Power a Win in Denver | The Early Season Trail Blazers Are Fun & Fearsome - kare11.com",
-     "published": "2026-11-03T07:42:52+00:00",
-     "summary": "Deni Avdija, Jrue Holiday Power a Win in Denver | The Early Season Trail Blazers Are Fun & Fearsome kare11.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#1",
      "title": "Deni Avdija, Jrue Holiday Power a Win in Denver | The Early Season Trail Blazers Are Fun & Fearsome - fox61.com",
      "published": "2026-11-03T07:38:00+00:00",
      "summary": "Deni Avdija, Jrue Holiday Power a Win in Denver | The Early Season Trail Blazers Are Fun & Fearsome fox61.com"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#1",
      "title": "DENVER — Deni Avdija scored nine of his 28 points in the fourth quarter and the Portland Trail Blazers beat the Denver Nuggets 118-110 on Monday night, extending their road winning streak to begin the season. Read more: https://rebrand.ly/2460269 - LinkedIn",
      "published": "2026-11-03T07:32:49+00:00",
      "summary": "DENVER — Deni Avdija scored nine of his 28 points in the fourth quarter and the Portland Trail Blazers beat the Denver Nuggets 118-110 on Monday night, extending their road winning streak to begin the season. Read more: https://rebrand.ly/2460269 LinkedIn"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija scores team-high 28 points in win - NBC Sports",
      "published": "2026-11-03T07:17:01+00:00",
      "summary": "Deni Avdija scores team-high 28 points in win NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija powers Trail Blazers past Nuggets - TalkBasket.net",
      "published": "2026-11-03T07:09:07+00:00",
      "summary": "Deni Avdija powers Trail Blazers past Nuggets TalkBasket.net"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija drops 28 points Monday - FantasyPros",
      "published": "2026-11-03T07:06:06+00:00",
      "summary": "Deni Avdija drops 28 points Monday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - The Manila Times",
      "published": "2026-11-03T07:00:00+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets The Manila Times"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#6",
      "title": "Blazers storm back to beat Nuggets, remain perfect on the road - Field Level Media",
      "published": "2026-11-03T06:56:11+00:00",
      "summary": "Blazers storm back to beat Nuggets, remain perfect on the road Field Level Media"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Denver7",
      "published": "2026-11-03T06:45:01+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Denver7"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#8",
      "title": "Highlights From Deni Avdija 28-Point Game - NBA.com",
      "published": "2026-11-03T06:42:46+00:00",
      "summary": "Highlights From Deni Avdija 28-Point Game NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#9",
      "title": "Damian Lillard already looks like the co-star Deni Avdija was missing - Rip City Project",
      "published": "2026-11-03T05:17:11+00:00",
      "summary": "Damian Lillard already looks like the co-star Deni Avdija was missing Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Oskaloosa Herald",
      "published": "2026-11-03T04:51:18+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Oskaloosa Herald"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija scores 28 points in the Trail Blazers’ 118-110 win over the Nuggets - Durango Herald",
      "published": "2026-11-03T04:51:18+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers’ 118-110 win over the Nuggets Durango Herald"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - The Killeen Daily Herald",
      "published": "2026-11-03T04:51:18+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets The Killeen Daily Herald"
     },
     {
-     "ref": "gnews_israeli_nba#14",
-     "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Eagle-Tribune",
-     "published": "2026-11-03T04:51:18+00:00",
-     "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Eagle-Tribune"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
-     "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - ESPN",
-     "published": "2026-11-03T04:51:00+00:00",
-     "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#13",
      "title": "Trail Blazers' Deni Avdija: Drops season-high 28 points in win - CBS Sports",
      "published": "2026-11-03T04:45:41+00:00",
      "summary": "Trail Blazers' Deni Avdija: Drops season-high 28 points in win CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#17",
-     "title": "Deni Avdija News: Drops season-high 28 points in win - RotoWire",
-     "published": "2026-11-03T04:45:41+00:00",
-     "summary": "Deni Avdija News: Drops season-high 28 points in win RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija finishes through contact, 11/02/2026 - Yahoo Sports",
      "published": "2026-11-03T04:37:25+00:00",
      "summary": "Deni Avdija finishes through contact, 11/02/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#19",
-     "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
-     "published": "2026-11-03T04:30:55+00:00",
-     "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
-    },
-    {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Trail Blazers 118-110 Nuggets (3 Nov, 2026) Final Score - ESPN Philippines",
-     "published": "2026-11-03T04:01:34+00:00",
-     "summary": "Trail Blazers 118-110 Nuggets (3 Nov, 2026) Final Score ESPN Philippines"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija gets the and-1 to fall - ESPN",
      "published": "2026-11-03T02:50:02+00:00",
      "summary": "Deni Avdija gets the and-1 to fall ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Trail Blazers, Deni Avdija Mute Jazz in Easy Win | Thoughts On Scoot, Dame, Donovan Clingan and More - 12newsnow.com",
-     "published": "2026-11-02T13:58:01+00:00",
-     "summary": "Trail Blazers, Deni Avdija Mute Jazz in Easy Win | Thoughts On Scoot, Dame, Donovan Clingan and More 12newsnow.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#23",
-     "title": "Trail Blazers, Deni Avdija Mute Jazz in Easy Win | Thoughts On Scoot, Dame, Donovan Clingan and More - 5newsonline.com",
-     "published": "2026-11-02T13:54:36+00:00",
-     "summary": "Trail Blazers, Deni Avdija Mute Jazz in Easy Win | Thoughts On Scoot, Dame, Donovan Clingan and More 5newsonline.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#16",
      "title": "Trail Blazers, Deni Avdija Mute Jazz in Easy Win | Thoughts On Scoot, Dame, Donovan Clingan and More - fox61.com",
      "published": "2026-11-02T13:52:00+00:00",
      "summary": "Trail Blazers, Deni Avdija Mute Jazz in Easy Win | Thoughts On Scoot, Dame, Donovan Clingan and More fox61.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#17",
+     "title": "NBA: Israeli Deni Avdija Shines With 24 Points, Leads Portland To Victory - i24NEWS",
+     "published": "2026-11-02T11:47:00+00:00",
+     "summary": "NBA: Israeli Deni Avdija Shines With 24 Points, Leads Portland To Victory i24NEWS"
+    },
+    {
+     "ref": "gnews_israeli_nba#18",
+     "title": "Blazers crush Jazz, 112-90, despite Morant absence - Panay News",
+     "published": "2026-11-01T16:42:00+00:00",
+     "summary": "Blazers crush Jazz, 112-90, despite Morant absence Panay News"
+    },
+    {
+     "ref": "gnews_israeli_nba#19",
+     "title": "Deni Avdija leads offense in Saturday's win over Jazz - FantasyPros",
+     "published": "2026-11-01T13:35:47+00:00",
+     "summary": "Deni Avdija leads offense in Saturday's win over Jazz FantasyPros"
+    },
+    {
+     "ref": "gnews_israeli_nba#20",
+     "title": "Trail Blazers' Deni Avdija: Hits for game-high 24 in win - CBS Sports",
+     "published": "2026-11-01T03:46:58+00:00",
+     "summary": "Trail Blazers' Deni Avdija: Hits for game-high 24 in win CBS Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#21",
+     "title": "Deni Avdija News: Hits for game-high 24 in win - RotoWire",
+     "published": "2026-11-01T03:46:58+00:00",
+     "summary": "Deni Avdija News: Hits for game-high 24 in win RotoWire"
+    },
+    {
+     "ref": "gnews_israeli_nba#22",
+     "title": "Avdija scores 24 and Lillard has 22 as Trail Blazers roll over Jazz - TSN",
+     "published": "2026-11-01T03:09:00+00:00",
+     "summary": "Avdija scores 24 and Lillard has 22 as Trail Blazers roll over Jazz TSN"
+    },
+    {
+     "ref": "gnews_israeli_nba#23",
+     "title": "Blazers blow out Jazz with Ja Morant sidelined - FASTBREAK.com.ph",
+     "published": "2026-11-01T01:45:17+00:00",
+     "summary": "Blazers blow out Jazz with Ja Morant sidelined FASTBREAK.com.ph"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Deni Avdija, Damian Lillard lead Blazers past Utah in easy win - HoopsHype",
+     "published": "2026-10-31T22:53:00+00:00",
+     "summary": "Deni Avdija, Damian Lillard lead Blazers past Utah in easy win HoopsHype"
     }
    ]
   }
