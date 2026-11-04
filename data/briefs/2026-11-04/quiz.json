@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-04",
+  "questions": [
+    {
+      "id": "q-arsenal-slavia",
+      "section": "sports",
+      "story_id": "slavia-praha-arsenal-preview",
+      "answer_index": 0,
+      "en": {
+        "question": "Heading into their Champions League trip to Slavia Praha, what's true about Arsenal's position?",
+        "options": [
+          "They sit 1st in the Premier League, and William Saliba has returned to full training after injury.",
+          "They sit 3rd in the Premier League, and lost William Saliba to a long-term injury.",
+          "They sit 1st in the Premier League, but face a long injury list.",
+          "They dropped out of the top 4 after back-to-back losses."
+        ],
+        "explanation": "Arsenal lead the Premier League with 24 points from nine games, and Saliba is back in full training after injury."
+      },
+      "he": {
+        "question": "לפני הנסיעה האירופית של ארסנל למשחק מול סלאביה פראג בליגת האלופות, מה נכון לגבי מעמד הקבוצה?",
+        "options": [
+          "היא מובילה את הפרמייר ליג, ווויליאם סאליבה חזר לאימונים מלאים אחרי פציעה.",
+          "היא במקום השלישי בפרמייר ליג, ואיבדה את סאליבה לפציעה ארוכת טווח.",
+          "היא מובילה את הפרמייר ליג, אך סובלת מרשימת פציעות ארוכה.",
+          "היא נפלה מהרביעייה העליונה אחרי שני הפסדים רצופים."
+        ],
+        "explanation": "ארסנל מובילה את הפרמייר ליג עם 24 נקודות מתוך תשעה משחקים, וסאליבה חזר לאימונים מלאים אחרי פציעה."
+      }
+    },
+    {
+      "id": "q-eisenkot-mandate",
+      "section": "israeli_politics",
+      "story_id": "eisenkot-mandate-race",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did President Herzog begin consultations on forming Israel's next government?",
+        "options": [
+          "Netanyahu's bloc fell to only 46 of 120 Knesset seats, and Gadi Eisenkot's \"change bloc\" is reportedly leading in recommendations.",
+          "Netanyahu resigned following a corruption conviction.",
+          "The ultra-Orthodox parties formed a new government on their own.",
+          "Eisenkot's party won an outright majority of 61 seats."
+        ],
+        "explanation": "Netanyahu's bloc holds only 46 of 120 seats, and Eisenkot's bloc is reported to be leading in recommendations for the mandate."
+      },
+      "he": {
+        "question": "מדוע פתח הנשיא הרצוג בהתייעצויות להרכבת הממשלה הבאה?",
+        "options": [
+          "כי הגוש של נתניהו נותר עם 46 מושבים בלבד מתוך 120, וגוש השינוי של גדי איזנקוט מדווח כמוביל בהמלצות.",
+          "כי נתניהו התפטר לאחר הרשעה בשחיתות.",
+          "כי המפלגות החרדיות הרכיבו ממשלה בעצמן.",
+          "כי מפלגתו של איזנקוט זכתה ברוב מוחלט של 61 מושבים."
+        ],
+        "explanation": "הגוש של נתניהו מחזיק רק ב-46 מתוך 120 מושבים, וגוש השינוי של איזנקוט מדווח כמוביל בהמלצות למנדט."
+      }
+    },
+    {
+      "id": "q-blue-wave-selloff",
+      "section": "business",
+      "story_id": "blue-wave-ai-selloff",
+      "answer_index": 0,
+      "en": {
+        "question": "What happened in markets after early returns pointed to a Democratic sweep of Congress in the US midterms?",
+        "options": [
+          "AI and chip stocks sold off while gold, the yen, the franc and Treasuries rallied.",
+          "AI and chip stocks rallied while gold and Treasuries sold off.",
+          "The dollar surged to a one-month high.",
+          "Oil prices collapsed on recession fears."
+        ],
+        "explanation": "Markets rotated into safe havens (gold, yen, franc, Treasuries) and sold off AI/chip stocks on fears of tighter regulation under a Democratic Congress."
+      },
+      "he": {
+        "question": "מה קרה בשווקים אחרי שהתוצאות הראשוניות מהבחירות לקונגרס האמריקאי הצביעו על ניצחון דמוקרטי?",
+        "options": [
+          "מניות ה-AI והשבבים נמכרו, בעוד זהב, ין, פרנק ואג\"ח אמריקאיות עלו.",
+          "מניות ה-AI והשבבים עלו, בעוד זהב ואג\"ח נמכרו.",
+          "הדולר זינק לשיא של חודש.",
+          "מחירי הנפט קרסו מחשש למיתון."
+        ],
+        "explanation": "המשקיעים עברו לנכסי מבטחה (זהב, ין, פרנק, אג\"ח) ומכרו מניות AI ושבבים מחשש לפיקוח רגולטורי הדוק יותר תחת קונגרס דמוקרטי."
+      }
+    }
+  ]
+}

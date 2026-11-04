@@ -1,0 +1,141 @@
+{
+  "section": "business",
+  "date": "2026-11-04",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-04T03:48:15+00:00",
+  "stories": [
+    {
+      "id": "blue-wave-ai-selloff",
+      "kind": "analysis",
+      "en": {
+        "headline": "Markets Price In a Blue Wave: AI Stocks Sink, Safe Havens Rally",
+        "scroll": "Early signs that Democrats will win Congress sent chip and AI stocks tumbling on regulation fears, while the dollar hit a one-month low and gold, the yen and Treasuries rallied.",
+        "coffee": "Early returns from Tuesday's US midterms pointed to Democrats winning control of both the House and Senate, and markets reacted within hours. The dollar had its worst day in a month, chip and AI-linked stocks sold off in Asia and Europe, and Nasdaq futures fell as much as 2%. Investors rotated into traditional safe havens instead: gold, the Swiss franc, the Japanese yen and US Treasuries all rallied.\n\nThe logic is straightforward. A Democratic-controlled Congress would make it harder for the Trump administration to pass further tax cuts or spending bills, which bond investors read as lower deficits and lower inflation risk ahead, so they bought Treasuries and yields fell. The same shift in power raises the odds of tighter regulatory scrutiny of the AI industry specifically, hence the selloff in chipmakers and the companies, including Elon Musk's, most exposed to that scrutiny. Solar and renewable-energy stocks moved the opposite way, rallying on bets that a Democratic Congress would favor clean-energy policy.\n\nNone of this depends on a bill actually passing. Markets are pricing probabilities and policy risk in real time, long before any law changes - that's the mechanism worth watching as final control of Congress is confirmed.",
+        "deep": "## The Setup\n\nBy Tuesday night, Nasdaq futures were already down as much as 2% and bitcoin was slipping - not because anything had changed in any company's business, but because traders were positioning for a specific political outcome: a \"blue wave,\" in which Democrats take back not just the House but also the Senate. As vote counts came in overnight and early returns pointed to Democratic gains in both chambers, that bet firmed up, and the market moves that followed show how directly politics can reprice entire sectors before a single law is passed.\n\n## How Markets Price an Election Before the Facts Are In\n\nFinancial markets don't wait for certainty; they price probabilities continuously as new information arrives, and an election is one of the purest examples of this at work. Every incremental data point out of a vote count - a county reporting, a race called - shifts the market's estimate of who ends up controlling Congress, and asset prices move accordingly in real time, long before any new policy is actually written into law. This is why so much happened on Tuesday night and Wednesday morning even though the official results were not yet final.\n\n## Who Won and Who Lost Overnight\n\nThree groups of assets moved together in a classic \"risk-off\" pattern. The US dollar had its worst day in a month, falling to a one-month low, while the Swiss franc and Japanese yen - the two currencies investors reach for when they want safety rather than yield - both jumped. Gold rose for the same reason, and so did US Treasuries, pushing yields down. Bloomberg's own framing of the Treasury move is a useful lesson in how bond markets think: traders bought Treasuries because a Congress split between the parties would make it harder for the Trump administration to pass new tax cuts or spending bills. Less deficit spending ahead generally means less upward pressure on inflation and interest rates, so bonds already in investors' hands become relatively more attractive - hence the rally in price and the fall in yield (bond prices and yields always move in opposite directions).\n\nThe sharper move was in equities tied to artificial intelligence. South Korea's Kospi fell as its chipmakers' shares plunged, European chip stocks dropped after a selloff that started in Asia, and Nasdaq futures slid further as the blue-wave odds rose. The concern repeated across the coverage was consistent: a Democratic-controlled Congress is expected to bring \"greater scrutiny\" of the AI industry, meaning tighter rules, more oversight hearings, and potentially new legislation aimed at the sector's biggest players. Coverage specifically flagged the AI-linked companies of Republican megadonor Elon Musk as exposed to that shift. Copper, a classic bellwether for industrial demand and risk appetite, also held its recent losses, trading below $14,000, as the broader equity selloff weighed on sentiment.\n\n## The Other Side of the Trade\n\nNot every sector read the result as bad news. Global solar stocks rallied on the same information set, because investors expect a Democratic Congress to be friendlier to renewable-energy policy than a Republican one. This is sector rotation in its purest form: the same headline that sends one industry's stocks down sends another's up, because the underlying trade isn't \"stocks good or bad\" but \"whose expected policy environment just got better or worse.\" Recognizing that a single piece of news can be simultaneously bullish and bearish, depending on which sector you're looking at, is one of the more useful habits in reading market reactions to politics.\n\n## What to Watch Next\n\nFinal control of the House and Senate was still being confirmed as results continued to come in, so some of Tuesday night's moves could partly unwind if the final math is less lopsided than early returns suggested. Worth watching: whether the dollar's slide extends once the result is official, whether AI and chip stocks stabilize or keep underperforming as Congress's composition becomes certain, and how hard a divided Congress makes it to pass whatever tax or spending plans the Trump administration had been counting on. The pattern itself is one worth recognizing at every future election with market-moving stakes: watch which assets move as safe havens, which sectors move on regulatory expectations, and which move on fiscal expectations - three distinct mechanisms running in parallel."
+      },
+      "he": {
+        "headline": "השווקים מתמחרים \"גל כחול\": מניות ה-AI צונחות, נכסי המבטחה מזנקים",
+        "scroll": "סימנים ראשונים שהדמוקרטים מנצחים בקונגרס הובילו לצניחת מניות השבבים וה-AI מחשש לרגולציה מחמירה, בעוד הדולר צלל לשפל של חודש והזהב, הין והאג\"ח האמריקאיות מזנקים.",
+        "coffee": "פתיחת ספירת הקולות בבחירות בארה\"ב ביום שלישי הצביעה על ניצחון דמוקרטי גם בבית הנבחרים וגם בסנאט, והשווקים הגיבו תוך שעות. הדולר רשם את היום הגרוע ביותר שלו בחודש האחרון וצלל לשפל של חודש, מניות השבבים וה-AI נמכרו באסיה ובאירופה, וחוזים על מדד הנאסד\"ק צנחו בשיעור של עד 2%. במקביל, המשקיעים עברו לנכסי מבטחה (safe-haven assets) קלאסיים: זהב, פרנק שוויצרי, ין יפני ואג\"ח אמריקאיות - כולם עלו.\n\nההיגיון פשוט: קונגרס בשליטה דמוקרטית יקשה על ממשל טראמפ להעביר הקלות מס או תוכניות הוצאה נוספות, מה שמשקיעי אג\"ח מפרשים כגירעון נמוך יותר וסיכון אינפלציה נמוך יותר בעתיד - ולכן הם קנו אג\"ח והתשואות (yields) ירדו. אותו שינוי בכוחות גם מעלה את הסיכוי לפיקוח רגולטורי (regulatory scrutiny) הדוק יותר על תעשיית ה-AI, ומכאן המכירה במניות יצרניות השבבים ובחברות החשופות לפיקוח הזה, כולל חברותיו של אילון מאסק. מניות סולר ואנרגיה מתחדשת זזו בכיוון ההפוך ועלו, על רקע הערכה שקונגרס דמוקרטי יהיה אוהד יותר למדיניות אנרגיה נקייה.\n\nכל זה קורה בלי שחוק אחד עבר בפועל. השווקים מתמחרים הסתברויות וסיכון מדיני בזמן אמת, הרבה לפני שחקיקה בפועל משתנה - וזה המכניזם שכדאי לעקוב אחריו כשהשליטה הסופית בקונגרס תתאשר.",
+        "deep": "## הרקע\n\nעד ליל שלישי, החוזים העתידיים על מדד הנאסד\"ק כבר ירדו בשיעור של עד 2% וביטקוין נחלש - לא כי השתנה משהו בעסקים של חברה כזו או אחרת, אלא כי הסוחרים התמקמו מול תוצאה מדינית מסוימת: \"גל כחול\" (blue wave), מצב שבו הדמוקרטים חוזרים לשלוט לא רק בבית הנבחרים אלא גם בסנאט. במהלך הלילה, ככל שנכנסו תוצאות ספירה שהראו יתרון דמוקרטי בשני הבתים, ההתערבות הזו התחזקה, והתזוזות בשווקים שבאו בעקבותיה מדגימות כמה ישירות פוליטיקה יכולה לתמחר מחדש סקטורים שלמים - עוד לפני שחוק אחד עבר.\n\n## איך שווקים מתמחרים בחירות לפני שהעובדות ידועות\n\nשווקים פיננסיים לא מחכים לוודאות; הם מתמחרים הסתברויות באופן רציף ככל שמידע חדש נכנס, ובחירות הן אחת הדוגמאות הנקיות ביותר לכך. כל פרט שולי שמגיע מספירת הקולות - מחוז שמדווח, מירוץ שמוכרז - משנה את ההערכה של השוק מי בסוף ישלוט בקונגרס, ומחירי הנכסים זזים בהתאם בזמן אמת, הרבה לפני שמדיניות חדשה בפועל נכתבת לחוק. זו הסיבה שכל כך הרבה קרה בליל שלישי ובבוקר רביעי אף שהתוצאות הרשמיות עדיין לא היו סופיות.\n\n## מי ניצח ומי הפסיד במהלך הלילה\n\nשלוש קבוצות נכסים זזו יחד בתבנית קלאסית של הימנעות מסיכון (risk-off). הדולר האמריקאי רשם את היום הגרוע ביותר שלו בחודש האחרון וצלל לשפל של חודש, בעוד הפרנק השוויצרי והין היפני - שתי המטבעות שמשקיעים פונים אליהן כשהם מחפשים בטיחות ולא תשואה - זינקו. הזהב עלה מהסיבה הזו, וכך גם אג\"ח ממשלת ארה\"ב, מה שהוריד את התשואות (yields) שלהן. ההסבר שבלומברג נותנת לתנועה באג\"ח הוא שיעור שימושי בהיגיון של שוק האג\"ח: סוחרים קנו אג\"ח כי קונגרס מפוצל בין המפלגות (ממשל מפוצל, divided government) יקשה על ממשל טראמפ להעביר הקלות מס או תוכניות הוצאה חדשות. פחות הוצאה בגירעון (deficit spending) בעתיד הקרוב משמעותה בדרך כלל פחות לחץ לעלייה באינפלציה ובריבית, כך שהאג\"ח שכבר בידי המשקיעים נהפכות לאטרקטיביות יותר באופן יחסי - מכאן העלייה במחיר והירידה בתשואה (מחיר אג\"ח ותשואה נעים תמיד בכיוונים מנוגדים).\n\nהתזוזה החדה יותר הייתה במניות הקשורות לבינה מלאכותית. מדד הקוספי הקוריאני ירד כשמניות יצרניות השבבים שלו צנחו, מניות שבבים אירופיות נפלו בהמשך לגל מכירות שהתחיל באסיה, וחוזי הנאסד\"ק צללו עוד יותר ככל שהסיכויים ל\"גל כחול\" עלו. החשש שחזר בכל הסיקור היה עקבי: קונגרס בשליטה דמוקרטית צפוי להביא \"פיקוח הדוק יותר\" על תעשיית ה-AI - כלומר כללים מחמירים יותר, יותר דיוני פיקוח, ואולי גם חקיקה חדשה שעלולה להיות מכוונת לשחקניות הגדולות בתעשייה. הסיקור ציין במפורש שחברותיו של אילון מאסק, מהתורמים הרפובליקנים הגדולים, חשופות לשינוי הזה. גם הנחושת, מדד מקדים (bellwether) קלאסי לביקוש תעשייתי ולתאבון סיכון, נותרה מתחת לרמה של 14,000 דולר, כשגל המכירות הרחב יותר במניות הכביד על הסנטימנט.\n\n## הצד השני של העסקה\n\nלא כל הסקטורים קראו את התוצאה כבשורה רעה. מניות סולר גלובליות עלו על בסיס אותו מידע בדיוק, כי משקיעים מניחים שקונגרס דמוקרטי יהיה אוהד יותר למדיניות אנרגיה מתחדשת מקונגרס רפובליקני. זו רוטציה סקטוריאלית (sector rotation) בצורתה הטהורה ביותר: אותה כתבת חדשות שמורידה מניות של תעשייה אחת, מעלה מניות של תעשייה אחרת - כי העסקה שבבסיס התנועה אינה \"מניות טובות או רעות\" אלא \"של מי סביבת המדיניות הצפויה השתפרה ושל מי היא התדרדרה\". ההרגל לזהות שידיעה בודדת יכולה להיות בו-זמנית חיובית לסקטור אחד ושלילית לאחר הוא אחד הכלים השימושיים ביותר בקריאת תגובות השוק לפוליטיקה.\n\n## מה לעקוב אחריו הלאה\n\nהשליטה הסופית בבית הנבחרים ובסנאט עדיין לא הייתה סגורה כשהתוצאות המשיכו להיכנס, כך שחלק מהתזוזות של ליל שלישי יכולות להתהפך חלקית אם התוצאה הסופית תהיה הדוקה יותר מהרושם הראשוני. מה שכדאי לעקוב אחריו: האם צניחת הדולר תימשך כשהתוצאה תהיה רשמית, האם מניות ה-AI והשבבים יתייצבו או ימשיכו להיחלש ככל שהרכב הקונגרס יתבהר, ועד כמה קונגרס מפוצל יקשה על העברת תוכניות המס וההוצאה שעליהן ממשל טראמפ נשען. התבנית עצמה היא כזו שהקורא יזהה שוב בכל בחירות עתידיות שמזיזות שווקים: לשים לב לאיזה נכסים זזים כ\"מבטחה\", אילו סקטורים זזים על בסיס ציפיות רגולטוריות, ואילו זזים על בסיס ציפיות פיסקליות - שלושה מכניזמים שונים שרצים במקביל."
+      },
+      "tags": [
+        "us-midterms",
+        "ai-regulation",
+        "safe-haven-assets",
+        "sector-rotation"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Democrats score early victories over Trump’s Republicans in battle for Congress",
+          "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "South Korea’s AI Darlings Become Big Casualty of US Midterm Vote",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/kospi-slumps-as-democrats-us-election-lead-spurs-chip-selloff"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Global Solar Stocks Jump as Democrats Hold Early US Midterm Lead",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/global-solar-stocks-jump-as-democrats-hold-early-us-midterm-lead"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/franc-yen-emerge-as-fx-winners-as-us-midterms-weaken-dollar"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Copper Holds Losses Below $14,000 on US Midterm Risks to Stocks",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/copper-holds-losses-below-14-000-on-us-midterm-risks-to-stocks"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Treasuries Rise on Democrat Lead as Traders Await Refunding Plan",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Gold Rises as Dollar and Yields Fall on Midterm Voting Signals",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Nasdaq Futures Slide as Signs of Blue Wave Weigh on AI Complex",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Stocks Slide With Dollar on Rising Blue-Wave Bets: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Gold in Demand as Dollar, U.S. Yields Fall",
+          "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks, Dollar Set to Weaken as Blue Wave Forms",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Dollar Index Weakens to One-Month Low as Democrats Take Lead",
+          "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "European Chip Stocks Fall After Asia Selloff",
+          "url": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Market News, Nov. 3, 2026: Stock Futures Drop as Investors Weigh Potential Democratic Gains",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4048.9399,
+      "prev_close": 4037.3601,
+      "change_pct": 0.29,
+      "as_of": "2026-11-03"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7568.9199,
+      "prev_close": 7541.3999,
+      "change_pct": 0.36,
+      "as_of": "2026-11-03"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1757,
+      "prev_close": 3.1393,
+      "change_pct": 1.16,
+      "as_of": "2026-11-04"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 103.29,
+      "prev_close": 104.77,
+      "change_pct": -1.41,
+      "as_of": "2026-11-03"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 76417.9531,
+      "prev_close": 76677.2969,
+      "change_pct": -0.34,
+      "as_of": "2026-11-04"
+    }
+  }
+}

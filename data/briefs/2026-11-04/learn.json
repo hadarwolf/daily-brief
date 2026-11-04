@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-11-04",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-04T03:48:15+00:00",
+  "stories": [
+    {
+      "id": "word-take-rate",
+      "kind": "word",
+      "en": {
+        "headline": "Take rate (שיעור נטילה)",
+        "scroll": "The percentage of each transaction's value that a platform or marketplace keeps as its own revenue.",
+        "coffee": "A take rate is the slice of every transaction a platform pockets before passing the rest to sellers or service providers. Uber, Amazon's third-party marketplace and Apple's App Store all run on take rates instead of selling anything themselves — they just tax the flow of money through their platform. The rate matters because it's the simplest way to compare how much value a marketplace extracts versus how much it leaves for the people actually doing the work.\n\nExample: \"Investors worried that raising the take rate from 15% to 20% would push sellers onto a cheaper rival.\"",
+        "deep": "## When to use it\nUse \"take rate\" whenever you're talking about a marketplace, platform, or payments business that sits between buyers and sellers and skims a percentage rather than owning inventory. It shows up in food delivery (DoorDash), ride-hailing (Uber), app stores (Apple's 30%), payments (Stripe) and e-commerce marketplaces (Etsy, Amazon third-party).\n\n## Common confusions\nTake rate is not the same as gross margin. A high take rate doesn't automatically mean a profitable company — Uber had a healthy take rate for years while still losing money on marketing and subsidies elsewhere. It's also not the same as a management fee charged on assets under management; that's a different kind of \"fee\" entirely.\n\n## More examples\n- \"The marketplace's take rate crept up from 12% to 18% as it added advertising and logistics services.\"\n- \"A lower take rate can be a growth lever: cut your cut, and sellers undercut competitors instead of you.\"\n\nHebrew: שיעור נטילה — האחוז שהפלטפורמה גוזרת לעצמה מכל עסקה."
+      },
+      "he": {
+        "headline": "Take rate (שיעור נטילה)",
+        "scroll": "האחוז מתוך שווי כל עסקה שפלטפורמה או שוק מקוון (marketplace) שומר לעצמו כהכנסה.",
+        "coffee": "שיעור הנטילה (take rate) הוא האחוז מכל עסקה שפלטפורמה גוזרת לעצמה כהכנסה, לפני שהשאר עובר לספקים או למוכרים. אובר, חנות הצד השלישי של אמזון וחנות האפליקציות של אפל כולן מתבססות על שיעור נטילה במקום למכור משהו בעצמן — הן פשוט ממסות את תנועת הכסף שעוברת במערכת שלהן. השיעור הזה חשוב כי הוא הדרך הפשוטה ביותר להשוות כמה ערך פלטפורמה שולית לעצמה וכמה היא משאירה למי שעושה את העבודה בפועל.\n\nלדוגמה: חברה שמעלה את שיעור הנטילה שלה מ-15% ל-20% מסתכנת בכך שספקים יעברו למתחרה זול יותר.",
+        "deep": "## מתי להשתמש במונח\nמשתמשים במונח \"שיעור נטילה\" (take rate) כשמדברים על פלטפורמה, שוק מקוון (marketplace) או חברת תשלומים שעומדת בין קונים למוכרים וגוזרת אחוז, בלי להחזיק מלאי בעצמה. הביטוי מופיע במשלוחי אוכל (דואורדאש), הסעות (אובר), חנויות אפליקציות (30% של אפל) ותשלומים (סטרייפ).\n\n## בלבול נפוץ\nשיעור נטילה אינו זהה לשולי רווח גולמי (gross margin). שיעור נטילה גבוה לא בהכרח אומר חברה רווחית — לאובר היה שיעור נטילה בריא שנים רבות בזמן שהפסידה כספים על שיווק והטבות במקומות אחרים. זה גם לא דומה לעמלת ניהול על נכסים מנוהלים (AUM fee), שהיא סוג אחר של עמלה.\n\n## דוגמאות נוספות\n- שיעור הנטילה של השוק המקוון עלה מ-12% ל-18% כשהוא הוסיף שירותי פרסום ולוגיסטיקה.\n- הורדת שיעור הנטילה יכולה להיות מנוע צמיחה: תחתכו מהעמלה שלכם, והמוכרים יוזילו מחיר למתחרים במקומכם.\n\nמונח באנגלית: Take rate."
+      },
+      "tags": [
+        "business-vocab",
+        "marketplaces",
+        "fintech",
+        "startups"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-move-fast-break-things",
+      "kind": "word",
+      "en": {
+        "headline": "Move fast and break things (לנוע מהר ולשבור דברים)",
+        "scroll": "A startup mantra for shipping quickly and fixing the damage later, rather than moving slowly to avoid mistakes.",
+        "coffee": "\"Move fast and break things\" was Mark Zuckerberg's early motto at Facebook: ship features fast, tolerate bugs and mistakes, and iterate rather than polish everything before launch. It captures a real tradeoff in tech — speed versus carefulness — and became shorthand for a whole culture of aggressive shipping in Silicon Valley.\n\nExample: \"The team adopted a move-fast-and-break-things approach for the MVP, knowing they'd clean up the rough edges after launch.\"",
+        "deep": "## When to use it\nUse it to describe a deliberate choice to prioritize speed and iteration over caution — in product launches, feature rollouts, or even policy debates about how fast companies should be allowed to deploy new technology.\n\n## Common confusion\nIt's often used critically today, not as praise. Facebook itself quietly dropped the slogan around 2014, switching to \"move fast with stable infrastructure,\" once bugs and privacy mistakes started carrying real costs. So when people invoke the phrase now, they're often warning against recklessness, not endorsing it.\n\n## More examples\n- \"Regulators argued that AI labs can't keep moving fast and breaking things when the 'things' include people's data and safety.\"\n- \"Early AWS teams moved fast and broke things internally, then hardened the systems once they scaled.\"\n\nHebrew: לנוע מהר ולשבור דברים — לתת עדיפות למהירות ולאיטרציה על פני זהירות וליטוש מושלם."
+      },
+      "he": {
+        "headline": "Move fast and break things (לנוע מהר ולשבור דברים)",
+        "scroll": "סלוגן של סטארטאפים שמעדיף שחרור מהיר של פיצ'רים ותיקון הנזק בהמשך, על פני תנועה איטית שנועדה למנוע טעויות.",
+        "coffee": "\"לנוע מהר ולשבור דברים\" היה הסלוגן המוקדם של מארק צוקרברג בפייסבוק: לשלוח פיצ'רים בקצב גבוה, לסבול באגים וטעויות, ולשפר בהדרגה במקום ללטש הכול לפני ההשקה. הביטוי תופס דילמה אמיתית בעולם הטכנולוגיה — מהירות מול זהירות — והפך לכינוי לתרבות שלמה של שחרור אגרסיבי של מוצרים בסיליקון ואלי.\n\nלדוגמה: הצוות אימץ גישה של \"לנוע מהר ולשבור דברים\" עבור המוצר המינימלי, מתוך ידיעה שינקו את הפינות החדות אחרי ההשקה.",
+        "deep": "## מתי להשתמש בביטוי\nמשתמשים בביטוי כדי לתאר בחירה מכוונת להעדיף מהירות ואיטרציה על פני זהירות — בהשקות מוצר, גלגולי פיצ'רים, ואפילו בדיונים רגולטוריים על הקצב המותר לפריסת טכנולוגיות חדשות.\n\n## בלבול נפוץ\nכיום הביטוי משמש לעיתים קרובות באופן ביקורתי ולא כמחמאה. פייסבוק עצמה זנחה את הסלוגן בשקט סביב 2014, ועברה ל\"לנוע מהר עם תשתית יציבה\", כשבאגים וטעויות פרטיות התחילו לעלות ביוקר. כך שכשמשתמשים בביטוי היום, לרוב מזהירים מפני חוסר אחריות ולא ממליצים עליו.\n\n## דוגמאות נוספות\n- רגולטורים טענו שמעבדות AI לא יכולות להמשיך \"לנוע מהר ולשבור דברים\" כשה\"דברים\" כוללים נתונים ובטיחות של אנשים.\n- צוותי AWS המוקדמים נעו מהר ושברו דברים פנימית, ואז חיזקו את המערכות כשהתרחבו.\n\nמונח באנגלית: Move fast and break things."
+      },
+      "tags": [
+        "business-vocab",
+        "startups",
+        "product",
+        "silicon-valley"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-tail-wagging-the-dog",
+      "kind": "word",
+      "en": {
+        "headline": "The tail wagging the dog (הזנב מכשכש בכלב)",
+        "scroll": "When a small part of something ends up controlling the much larger whole it's supposed to serve.",
+        "coffee": "This idiom describes a situation where the minor element is driving the major one — a small subsidiary dictating strategy to its parent company, a niche derivatives market moving the price of the much bigger underlying asset, or a small vocal customer segment steering an entire product roadmap. It flags that something is backwards: the dog should move the tail, not the other way around.\n\nExample: \"With options volume now dwarfing the actual stock trading, some traders worry it's a case of the tail wagging the dog.\"",
+        "deep": "## When to use it\nReach for this idiom when a dependency, a side business, or a minority stakeholder ends up setting the agenda for the much larger entity it's part of — in corporate strategy, financial markets, or even geopolitics (a small faction steering a coalition's policy).\n\n## Common confusion\nIt's not the same as \"the exception that proves the rule\" or simple favoritism — it specifically implies an inversion of proportional power, where size and influence don't match. It also differs from \"putting the cart before the horse,\" which is about getting the sequence of steps wrong, not about who's really in control.\n\n## More examples\n- \"Index funds buying shares mechanically can make passive flows the tail wagging the dog of individual stock prices.\"\n- \"Critics said the small but noisy user base was the tail wagging the dog of the company's product decisions.\"\n\nHebrew: הזנב מכשכש בכלב — כשחלק קטן שולט בשלם הגדול שהוא אמור לשרת."
+      },
+      "he": {
+        "headline": "The tail wagging the dog (הזנב מכשכש בכלב)",
+        "scroll": "מצב שבו חלק קטן מתוך משהו מצליח לשלוט בשלם הגדול בהרבה שהוא אמור לשרת.",
+        "coffee": "הניב הזה מתאר מצב שבו הגורם הקטן למעשה מכתיב לגדול — חברת בת קטנה שקובעת אסטרטגיה לחברת האם, שוק נגזרים שולי שמזיז את המחיר של הנכס הבסיס הגדול בהרבה ממנו, או פלח לקוחות קטן אך רועש שמכוון את כל מפת הדרכים של המוצר. משתמשים בביטוי כדי לסמן שמשהו הפוך מכיוון שהוא צריך להיות: הכלב אמור להזיז את הזנב, לא להפך.\n\nלדוגמה: כשנפח המסחר באופציות עולה בהרבה על המסחר במניה עצמה, סוחרים מסוימים חוששים שזה מקרה של הזנב שמכשכש בכלב.",
+        "deep": "## מתי להשתמש בניב\nמשתמשים בניב הזה כשתלות, עסק צדדי, או בעל מניות מיעוט מצליח לקבוע את סדר היום של הגוף הגדול בהרבה שהוא חלק ממנו — באסטרטגיה עסקית, בשווקים פיננסיים, ואפילו בגיאופוליטיקה (סיעה קטנה שמכוונת את מדיניות הקואליציה).\n\n## בלבול נפוץ\nזה לא זהה ל\"יוצא מן הכלל שמוכיח את הכלל\" או להעדפה פשוטה — הניב מרמז במפורש על היפוך יחסי הכוח, כשהגודל וההשפעה לא תואמים. הוא גם שונה מ\"לשים את העגלה לפני הסוסים\", שמתייחס לסדר שגוי של שלבים ולא לשאלה מי שולט בפועל.\n\n## דוגמאות נוספות\n- קרנות מחקות שקונות מניות באופן מכני עושות את הזרימות הפסיביות לזנב שמכשכש בכלב של מחירי המניות הבודדות.\n- מבקרים אמרו שבסיס המשתמשים הקטן אך הרועש הוא הזנב שמכשכש בכלב של החלטות המוצר של החברה.\n\nמונח באנגלית: The tail wagging the dog."
+      },
+      "tags": [
+        "business-vocab",
+        "idiom",
+        "markets",
+        "corporate-strategy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why some products get better the more people use them",
+        "scroll": "A network effect is when a product becomes more valuable to every user simply because more people are using it.",
+        "coffee": "A network effect exists when a product becomes more valuable to each user as more people use it. A phone network is useless with one phone, but transformative once everyone has one — each new user doesn't just use the network, they make it better for everyone already on it. Modern tech runs on this: WhatsApp, Instagram, LinkedIn and marketplaces like Amazon or Airbnb all compound in value as their user base grows, which is why early growth matters so much more than early revenue for these businesses.\n\nThe flip side is that network effects can reverse: if enough users leave, the product gets worse for everyone remaining, which can trigger a death spiral. That's why incumbents with strong network effects are so hard to dislodge — but also why they can collapse fast once trust breaks, as MySpace once did.",
+        "deep": "## The basic idea\nA network effect exists when a product or service becomes more valuable to each user as more people use it. This is different from ordinary economies of scale, which make a product cheaper to produce at volume — a network effect makes the product itself better, for free, just because the network got bigger.\n\n## A worked example: messaging apps\nImagine a new messaging app with exactly one user: you. It's worthless — there's no one to message. Add a second user, your friend, and suddenly it has some value: you two can talk. Add a thousand users and the number of possible connections between them grows roughly with the square of the user count (this is sometimes loosely called Metcalfe's Law). By the time an app like WhatsApp has two billion users, the value of joining isn't \"I get to message two billion people\" in practice — it's \"basically everyone I already know is already there,\" which makes the decision to join (or to switch away) almost automatic in one direction.\n\nThis is why messaging apps, social networks and marketplaces are so winner-take-most: the leader's advantage compounds, and a better-designed but smaller competitor often can't catch up on quality alone, because the thing users actually want — other people — is what the leader already has.\n\n## Second-order effects\nBecause the value comes from other users rather than from the company's own engineering, network effects create a powerful moat: competitors can copy features overnight, but they can't copy an existing user base. That's one reason venture capitalists will fund years of losses for a company chasing network effects — early market share can be worth more than early profit.\n\nBut the same dynamic runs in reverse. If enough users leave — because of a scandal, a better alternative, or simply fading relevance — the product gets less useful for everyone who stays, which pushes more people to leave. This death spiral is why dominant platforms can look unbeatable for a decade and then collapse within a couple of years once the exodus starts; MySpace in the late 2000s is the classic case.\n\n## What to watch for\nWhen evaluating any platform business — a social app, a marketplace, even an AI tool with shared prompts or plugins — ask whether its value genuinely comes from other users (a real network effect) or merely from habit and switching cost, which is a weaker, more reversible kind of lock-in."
+      },
+      "he": {
+        "headline": "אפקטי רשת: למה מוצרים מסוימים משתפרים ככל שיותר אנשים משתמשים בהם",
+        "scroll": "אפקט רשת (network effect) הוא הסיבה שמוצר נהיה בעל ערך רב יותר לכל משתמש רק בגלל שעוד אנשים משתמשים בו.",
+        "coffee": "אפקט רשת (network effect) מתקיים כשמוצר נהיה בעל ערך רב יותר לכל משתמש ככל שיותר אנשים משתמשים בו. רשת טלפונים חסרת תועלת עם מכשיר אחד, אבל הופכת למשנה מציאות כשלכולם יש מכשיר — כל משתמש חדש לא רק נהנה מהרשת, הוא גם משפר אותה לכל מי שכבר נמצא בה. הטכנולוגיה המודרנית בנויה על זה: וואטסאפ, אינסטגרם, לינקדאין ושווקים כמו אמזון או Airbnb צוברים ערך ככל שבסיס המשתמשים שלהם גדל, וזו הסיבה שצמיחה מוקדמת חשובה הרבה יותר מהכנסות מוקדמות בעסקים כאלה.\n\nהצד השני של המטבע הוא שאפקטי רשת יכולים להתהפך: אם מספיק משתמשים עוזבים, המוצר נהיה גרוע יותר לכל מי שנשאר, מה שעלול להפעיל מעגל קריסה. זו הסיבה שחברות מבוססות עם אפקט רשת חזק קשה מאוד להפיל — אבל גם הסיבה שהן יכולות לקרוס מהר ברגע שהאמון נשבר, כמו שקרה למייספייס.",
+        "deep": "## הרעיון הבסיסי\nאפקט רשת (network effect) מתקיים כשמוצר או שירות נהיה בעל ערך רב יותר לכל משתמש ככל שיותר אנשים משתמשים בו. זה שונה מחיסכון לגודל (economies of scale) רגיל, שהופך מוצר לזול יותר בייצור בכמות גדולה — אפקט רשת הופך את המוצר עצמו לטוב יותר, בלי עלות נוספת, רק בגלל שהרשת התרחבה.\n\n## דוגמה מפורטת: אפליקציות הודעות\nתארו לכם אפליקציית הודעות חדשה עם משתמש אחד בלבד: אתם. היא חסרת ערך — אין למי לשלוח הודעה. הוסיפו משתמש שני, חבר שלכם, ופתאום יש לה ערך: שניכם יכולים לדבר. הוסיפו אלף משתמשים, ומספר החיבורים האפשריים בין כולם גדל בערך ביחס לריבוע מספר המשתמשים (זה מה שמכונה באופן רופף \"חוק מטקאלף\", Metcalfe's Law). בשלב שבו לאפליקציה כמו וואטסאפ יש שני מיליארד משתמשים, הערך של הצטרפות אינו בפועל \"אני יכול לשלוח הודעה לשני מיליארד אנשים\" — הוא \"כל מי שאני מכיר כבר שם\", מה שהופך את ההחלטה להצטרף (או לעבור לאפליקציה אחרת) לכמעט אוטומטית בכיוון אחד.\n\nזו הסיבה שאפליקציות הודעות, רשתות חברתיות ושווקים מקוונים הם שוק שבו המנצח לוקח (כמעט) הכל: היתרון של המוביל מצטבר, ומתחרה קטן יותר אך מתוכנן טוב יותר לרוב לא מצליח לסגור את הפער באיכות בלבד, כי הדבר שמשתמשים באמת רוצים — אנשים אחרים — כבר נמצא אצל המוביל.\n\n## אפקטים מסדר שני\nמכיוון שהערך מגיע ממשתמשים אחרים ולא מההנדסה של החברה עצמה, אפקט רשת יוצר חפיר כלכלי (economic moat) עוצמתי: מתחרים יכולים להעתיק פיצ'רים בן לילה, אבל הם לא יכולים להעתיק בסיס משתמשים קיים. זו אחת הסיבות שקרנות הון סיכון מוכנות לממן שנים של הפסדים לחברה שרודפת אחרי אפקט רשת — נתח שוק מוקדם יכול להיות שווה יותר מרווח מוקדם.\n\nאבל אותה דינמיקה פועלת גם בכיוון ההפוך. אם מספיק משתמשים עוזבים — בגלל שערורייה, אלטרנטיבה טובה יותר, או סתם דעיכת רלוונטיות — המוצר נהיה שימושי פחות לכל מי שנשאר, וזה דוחף עוד אנשים לעזוב. מעגל הקריסה הזה הוא הסיבה שפלטפורמות דומיננטיות יכולות להיראות בלתי מנוצחות במשך עשור ואז לקרוס בתוך שנה-שנתיים כשגל העזיבה מתחיל; מייספייס בסוף שנות ה-2000 הוא המקרה הקלאסי.\n\n## למה לשים לב\nכשמעריכים כל עסק מבוסס פלטפורמה — אפליקציה חברתית, שוק מקוון, ואפילו כלי AI עם פרומפטים או פלאגינים משותפים — שאלו אם הערך שלו מגיע באמת ממשתמשים אחרים (אפקט רשת אמיתי) או רק מהרגל ומעלות מעבר (lock-in חלש יותר וניתן להיפוך)."
+      },
+      "tags": [
+        "economics",
+        "network-effects",
+        "platforms",
+        "tech"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-rabin-assassination",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1995: Prime Minister Yitzhak Rabin Is Assassinated at a Tel Aviv Peace Rally",
+        "scroll": "On 4 November 1995, Yigal Amir, a right-wing extremist, shot and killed Israeli prime minister Yitzhak Rabin after a peace rally in Tel Aviv.",
+        "coffee": "On the night of 4 November 1995, Yitzhak Rabin — then serving his second term as Israeli prime minister, after also leading the country from 1974 to 1977 — was assassinated by Yigal Amir, a right-wing extremist, as he left a peace rally at what is now Rabin Square in Tel Aviv. Rabin, a former general, had spent the preceding two years negotiating the Oslo Accords with the Palestine Liberation Organization, a process that deeply polarized Israeli society between supporters of territorial compromise and opponents who saw it as an existential threat.\n\nThe assassination is remembered as one of the most consequential events in modern Israeli history: it removed the leader most directly responsible for the Oslo process at the moment it was most contested, and it is widely seen as having reshaped Israeli politics for decades afterward. The date is marked annually in Israel as Rabin's memorial day.",
+        "deep": "## Background\nBy 1995, Yitzhak Rabin was serving his second term as Israeli prime minister. A former IDF chief of staff, he had also been prime minister from 1974 to 1977 before returning to the role in 1992. In the years before his death, Rabin had led Israel into the Oslo Accords, a set of agreements with the Palestine Liberation Organization aimed at establishing Palestinian self-government in parts of the West Bank and Gaza as a step toward resolving the broader conflict.\n\n## The event\nOn the evening of 4 November 1995, Rabin addressed a large peace rally at Kings of Israel Square in Tel Aviv (renamed Rabin Square after his death), organized in support of the Oslo process. As he walked to his car afterward, Yigal Amir, a right-wing extremist opposed to the territorial concessions in the accords, shot him at close range. Rabin died shortly after at a nearby hospital.\n\n## Why it mattered\nThe assassination struck at the heart of Israel's most contested political question of the era — how far to go in trading land for peace — and it did so by killing the sitting prime minister who was driving that process. It exposed how far political rhetoric against Oslo had escalated within parts of Israeli society, and it remains the only assassination of a serving Israeli prime minister.\n\n## Aftermath and legacy\nShimon Peres, Rabin's foreign minister, succeeded him and continued the peace process, but momentum slowed, and the following decades saw repeated breakdowns in Israeli-Palestinian negotiations alongside periods of violence. Rabin's assassination is commemorated every year in Israel on its Hebrew-calendar anniversary as a memorial day, and it continues to be referenced in Israeli political debate as a symbol of the costs of political incitement and the fragility of the peace process he helped start."
+      },
+      "he": {
+        "headline": "1995: ראש הממשלה יצחק רבין נרצח בעצרת שלום בתל אביב",
+        "scroll": "ב-4 בנובמבר 1995 רצח יגאל עמיר, קיצוני ימני, את ראש הממשלה יצחק רבין בסיום עצרת שלום בתל אביב.",
+        "coffee": "בליל ה-4 בנובמבר 1995 נרצח יצחק רבין — ששימש אז בקדנציה השנייה שלו כראש ממשלת ישראל, אחרי שעמד בראש הממשלה גם בשנים 1974–1977 — בידי יגאל עמיר, קיצוני ימני, בעת שעזב עצרת שלום בכיכר מלכי ישראל בתל אביב (שלימים שונה שמה לכיכר רבין). רבין, גנרל בעברו, ניהל בשנתיים שקדמו לרצח משא ומתן על הסכמי אוסלו עם ארגון השחרור הפלסטיני — תהליך שפילג עמוקות את החברה הישראלית בין תומכי פשרה טריטוריאלית למתנגדים שראו בה סיכון קיומי.\n\nהרצח נחשב לאחד האירועים המשמעותיים ביותר בתולדות ישראל המודרנית: הוא הסיר מהבמה את המנהיג שהיה אחראי באופן המובהק ביותר לתהליך אוסלו, בדיוק ברגע שבו היה הכי שנוי במחלוקת, ונתפס כמי שעיצב מחדש את הפוליטיקה הישראלית לעשורים שבאו אחריו. התאריך מצוין כל שנה בישראל כיום הזיכרון לרבין.",
+        "deep": "## רקע\nבשנת 1995 שימש יצחק רבין בקדנציה השנייה שלו כראש ממשלת ישראל. רבין, שהיה בעבר הרמטכ\"ל של צה\"ל, כיהן גם כראש ממשלה בשנים 1974–1977 לפני שחזר לתפקיד ב-1992. בשנים שקדמו למותו הוביל רבין את ישראל להסכמי אוסלו — מערכת הסכמים עם ארגון השחרור הפלסטיני שנועדה להקים שלטון עצמי פלסטיני בחלקים מהגדה המערבית ועזה, כצעד בדרך לפתרון הסכסוך הרחב יותר.\n\n## האירוע\nבערב ה-4 בנובמבר 1995 נשא רבין נאום בעצרת שלום גדולה בכיכר מלכי ישראל בתל אביב (ששמה שונה לאחר מכן לכיכר רבין), שאורגנה כתמיכה בתהליך אוסלו. בעת שהלך לעבר רכבו בסיום העצרת, יגאל עמיר, קיצוני ימני שהתנגד לפשרות הטריטוריאליות שבהסכמים, ירה בו מטווח קרוב. רבין מת זמן קצר אחר כך בבית חולים סמוך.\n\n## למה זה היה משמעותי\nהרצח פגע בלב השאלה הפוליטית השנויה ביותר במחלוקת באותה תקופה בישראל — כמה רחוק צריך ללכת בעסקה של שטחים בתמורה לשלום — ועשה זאת באמצעות הריגת ראש הממשלה המכהן שהוביל את התהליך הזה בעצמו. הרצח חשף עד כמה הרטוריקה הפוליטית נגד אוסלו הסלימה בחלקים מהחברה הישראלית, והוא נותר הרצח היחיד של ראש ממשלה ישראלי מכהן.\n\n## מה קרה אחר כך ולמה לשים לב\nשמעון פרס, שר החוץ של רבין, מילא את מקומו והמשיך את תהליך השלום, אך המומנטום התמתן, והעשורים שלאחר מכן ראו קריסות חוזרות ונשנות במשא ומתן הישראלי-פלסטיני לצד גלי אלימות. רצח רבין מצוין כל שנה בישראל בתאריך העברי שלו כיום זיכרון, והוא ממשיך לשמש כסמל פוליטי בישראל לסכנות שבהסתה פוליטית ולשבירות של תהליך השלום שהוא עצמו תרם להתחיל."
+      },
+      "tags": [
+        "israel",
+        "history",
+        "on-this-day",
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1995: Israeli prime minister Yitzhak Rabin (pictured) was assassinated by Yigal Amir, a right-wing extremist, at a peace rally at Kings of Israel Square in Tel Aviv.",
+          "url": "https://en.wikipedia.org/wiki/Yitzhak_Rabin"
+        }
+      ]
+    }
+  ]
+}
