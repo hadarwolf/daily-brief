@@ -18,110 +18,111 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Canada Indigenous Group Expects Lending Boom With New Projects on Horizon",
+     "published": "2026-11-04T09:00:00+00:00",
+     "summary": "A Canadian body that provides financing for Indigenous groups issued its largest-ever bond, and expects to ramp up activity quickly to pay for a flurry of planned resource and infrastructure projects."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "BMW Accelerates Model Rollout, Cuts Profit Forecast",
+     "published": "2026-11-04T08:59:59+00:00",
+     "summary": "BMW will speed up the rollout of new models, betting the move will help counter a slump in China after another profit warning. Bloomberg's Elisabeth Behrmann reports. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Crop Trader Olam to Bet $400 Million More on Africa’s Diet Shift",
+     "published": "2026-11-04T08:55:49+00:00",
+     "summary": "Agricultural commodities trader Olam Agri is boosting investment in African food supply chains to tap the continent’s dietary shift toward more meat and processed products."
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "India Sees Some Trade Relief, New Risks After US Midterm Vote",
+     "published": "2026-11-04T08:39:36+00:00",
+     "summary": "Indian officials were cautious on the US midterm election results, saying it eases some of the pressure over trade tensions but creates a new layer of uncertainty in an already fragile relationship."
+    },
+    {
+     "ref": "bloomberg_markets#4",
      "title": "It's Time for an Unloved Stock Rally: Market Analysis",
      "published": "2026-11-04T08:11:34+00:00",
      "summary": "Anna Edwards, Guy Johnson, and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#5",
      "title": "Marks & Spencer Results Show UK Retail Strength Despite Consumer Squeeze",
      "published": "2026-11-04T07:42:56+00:00",
      "summary": "Plus, the pound is rallying against the dollar after Democrats’ midterm sweep"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#6",
      "title": "India’s Central Bank Sets Up Panel to Assess Forex, Bond Markets",
      "published": "2026-11-04T07:37:26+00:00",
      "summary": "India’s central bank announced a new technical panel to examine the efficiency, liquidity and resilience of the country’s foreign exchange and government bond markets."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#7",
      "title": "Encube Ethicals Said to Plan $317 Million India IPO This Month",
      "published": "2026-11-04T07:20:50+00:00",
      "summary": "Encube Ethicals Pvt., backed by private equity firm Quadria Capital, is preparing for an initial public offering in Mumbai as soon as this month that could raise about 30 billion rupees ($317 million), according to people familiar with the matter."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#8",
+     "title": "Hedge Funds Flag Growing Private Credit Risks Amid Rising Rates",
+     "published": "2026-11-04T07:15:30+00:00",
+     "summary": "Some of the world’s biggest hedge funds warned that risks are growing in private credit, adding to debate about how rising interest rates will impact the asset class after scrutiny intensified this year."
+    },
+    {
+     "ref": "bloomberg_markets#9",
      "title": "India’s BHEL Wins $3 Billion Adani Power Orders, Shares Jump",
      "published": "2026-11-04T07:09:25+00:00",
      "summary": "Bharat Heavy Electricals Ltd. secured contracts worth as much as 280 billion rupees ($3 billion) for supplying equipment to Adani Power Ltd., underscoring an increase in private-sector spending on new capacity."
     },
     {
-     "ref": "bloomberg_markets#5",
-     "title": "FTSE 100 Live: UK, European Stocks Set to Fall After US Democratic Sweep",
-     "published": "2026-11-04T06:57:20+00:00"
-    },
-    {
-     "ref": "bloomberg_markets#6",
-     "title": "Frozen Turkish Funds Sell Stock Privately, Easing Market Strains",
-     "published": "2026-11-04T06:54:32+00:00",
-     "summary": "Banks overseeing Turkey’s fund liquidations sold about $254 million of blue-chip shares held by frozen funds off-market, in a move that could help remove an overhang on the country’s stock indexes."
-    },
-    {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#10",
      "title": "European Stocks Rise After Democrat Win; Renewables Jump",
      "published": "2026-11-04T05:51:38+00:00",
      "summary": "European stocks rose after Democrats won control of both chambers of Congress in the US midterms, with renewables stocks outperforming."
     },
     {
-     "ref": "bloomberg_markets#8",
-     "title": "Ex-Temasek Holdings Executive to Lead Motilal Oswal’s Alternates Business",
-     "published": "2026-11-04T05:34:04+00:00",
-     "summary": "Padmanabh Sinha, who previously co-led Temasek Holdings Pte.’s India operations, will lead Motilal Oswal Financial Services’ alternative-investment business, as the firm bolsters its leadership team, the company said in a statement."
-    },
-    {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "Japan Stocks Trim Declines as Investors Weigh US Vote",
      "published": "2026-11-04T04:45:41+00:00",
      "summary": "Japanese equities pared declines as investors shifted focus to where AI regulation might head after Democrats won control of both chambers of Congress in the US midterm elections."
     },
     {
-     "ref": "bloomberg_markets#10",
-     "title": "Korean Stocks Rebound as US Midterm-Driven Losses Seen Excessive",
-     "published": "2026-11-04T03:22:59+00:00",
-     "summary": "Shares of South Korean chipmakers staged a sharp rebound as investors viewed the earlier selloff driven by a Democratic sweep of the US Congress as overdone."
+     "ref": "bloomberg_markets#12",
+     "title": "Musk’s Tesla, SpaceX Slide as Democrats Sweep Congress",
+     "published": "2026-11-04T04:28:06+00:00",
+     "summary": "Democrats swept to control of the US Congress in a midterm landslide, weighing on the shares of Republican megadonor Elon Musk’s Tesla Inc. and Space Exploration Technologies Corp. ahead of Wednesday’s open."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
+     "title": "Korean Stocks’ Wild US Election Day Swings Show AI Trade on Edge",
+     "published": "2026-11-04T03:22:59+00:00",
+     "summary": "Among all the market gyrations triggered by the US midterm elections, few were as wild as those in South Korea, where the stock benchmark swung through a seven-percentage-point range before ending higher."
+    },
+    {
+     "ref": "bloomberg_markets#14",
      "title": "Global Renewable Stocks Jump as Democrats Win Congress Control",
      "published": "2026-11-04T03:13:54+00:00",
      "summary": "Global renewable stocks rallied after the Democrats won control of both chambers of Congress in the US midterm elections, an outcome seen supporting more favorable policy for the industry going forward."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#15",
      "title": "China Boosts Market Defense With National Team, Buybacks",
      "published": "2026-11-04T02:57:05+00:00",
      "summary": "China escalated its defense of the stock market, as state-backed funds answered the government’s rallying call by increasing purchases and more companies stepped up buyback plans."
     },
     {
-     "ref": "bloomberg_markets#13",
-     "title": "Copper Swings as Traders Weigh Midterm Results and Weaker Dollar",
-     "published": "2026-11-04T02:47:04+00:00",
-     "summary": "Copper swung after US midterm elections that saw a Democratic sweep of Congress, with the dollar easing."
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Treasuries Rise on Democrat Win as Traders Await Refunding Plan",
-     "published": "2026-11-04T01:00:49+00:00",
-     "summary": "Treasuries rallied as the Democrats won control of both chambers of the US Congress, pointing to a political environment that may limit the Trump administration’s tax and spending plans."
-    },
-    {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Gold Surges Above $4,000 as Dollar, Yields Fall on Democrat Win",
      "published": "2026-11-04T00:24:37+00:00",
      "summary": "Gold jumped above $4,000 an ounce as the dollar and Treasury yields fell after Democrats swept a US midterm election that was dominated by voter frustration over inflationary pressures."
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "US Stock Futures Erase Losses as Democratic Sweep Seen Priced In",
      "published": "2026-11-04T00:01:14+00:00",
      "summary": "US equity index futures erased losses as the Democratic sweep in the midterms was seen as largely priced into equity markets, which had fallen in the run-up to the vote on concerns that the artificial intelligence buildout would face greater regulatory scrutiny."
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Latest Oil Market News and Analysis for Nov. 4",
-     "published": "2026-11-03T23:08:04+00:00",
-     "summary": "Oil fluctuated after a two-day decline as traders weighed mixed signals on the trajectory of US-Iran peace talks."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -137,21 +138,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Live coverage: Trump admits Iran war a factor as Republicans routed",
+     "published": "2026-11-04T08:52:29+00:00",
+     "summary": "President’s party defeated in battleground races from Kansas to South Carolina"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
      "published": "2026-11-04T08:34:14+00:00",
      "summary": "Democrats take Congress as Republicans defeated in midterm races from Texas to Georgia"
     },
     {
-     "ref": "ft_home#1",
-     "title": "Who are the new faces in the US Senate?",
+     "ref": "ft_home#2",
+     "title": "Who are the new faces in the Senate?",
      "published": "2026-11-04T08:24:35+00:00",
      "summary": "The new intake includes several winners who are seen as future presidential candidates"
-    },
-    {
-     "ref": "ft_home#2",
-     "title": "Live coverage: Trump admits Iran war a factor as Republicans routed",
-     "published": "2026-11-04T08:21:46+00:00",
-     "summary": "President’s party defeated in battleground races from Kansas to South Carolina"
     },
     {
      "ref": "ft_home#3",
@@ -209,151 +210,151 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "לא לשכוח לתדלק: מחיר הדלק מזנק הלילה ל-7.85 שקלים",
+     "published": "2026-11-04T08:51:20+00:00",
+     "summary": "שר האוצר בצלאל סמוטריץ' חתם על צו להפחתת הבלו במחיר הדלק, כך שהמחיר יעלה מ-7.35 שקלים לליטר בנזין ל-7.85 שקלים, בעוד שללא הצו המחיר היה מגיע ל-8.35 שקלים ■ מאז החלו להיחתם הצווים איבדה קופת האוצר כ–700 מיליון שקל"
+    },
+    {
+     "ref": "themarker#1",
      "title": "התמתנות בחוזים על וול סטריט: דאו ג'ונס עולה ב-0.5%; עליות בבורסות אירופה",
      "published": "2026-11-04T08:33:00+00:00",
      "summary": "המסחר באסיה הסתיים ברובו בירידות, שהתמתנו לאחר נפילה חדה בעקבות \"הגל הכחול\" ששטף הלילה את ארה\"ב ■ המשקיעים נערכים לאפשרות שהקונגרס בשליטת הדמוקרטים יגביל את בהלת ההשקעות במרכזי נתונים ■ הזהב שב להיסחר מעל ל-4,000 דולר והנפט מתחת ל-105 דולר"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "אחרי בחירות האמצע: ירידות בבורסה בת\"א, מניות האנרגיה המתחדשת מזנקות",
      "published": "2026-11-04T08:06:57+00:00"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#3",
      "title": "בת 85 העבירה עשרות אלפי שקלים לנוכלים — בנק הדואר חויב לפצות אותה",
      "published": "2026-11-04T08:03:28+00:00",
      "summary": "התובעת, ניצולת שואה, נעקצה במסגרת \"עוקץ רוסי\" בסכום של 50 אלף שקל ■ בית המשפט קבע כי בנק הדואר יפצה אותה בסכום המקסימלי בתביעות קטנות, 40 אלף שקל, לאחר שהתרשל כשלא זיהה את דפוס הפעילות החריג, לא עצר את המשיכות וההעברות — ולא יצר קשר עם הבת שהייתה מיופת כוח"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#4",
      "title": "\"מתמודדים עם רוח נגדית משמעותית\": מאחורי הקריסה של 44% במניית אמדוקס",
      "published": "2026-11-04T07:56:01+00:00",
      "summary": "הסכסוך המשפטי עם טי־מובייל, הלקוחה השנייה בגודלה של אמדוקס שאחראית ל–20% מהכנסותיה, מטלטל את ענקית התוכנה ■ בעקבות החשש מביטול ההסכם בין החברות, אמדוקס צופה ירידה של עד 18% בהכנסות בשנת הכספים 2027 ■ במקביל, החברה הודיעה על רכישת חברת הטכנולוגיה EIS תמורת 340 מיליון דולר ■ מניית אמדוקס צנחה ב-44% במסחר המאוחר"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#5",
      "title": "הבטיחו סטייק שיציל את העולם: מה קרה לבועת הבשר המתורבת?",
      "published": "2026-11-04T07:42:52+00:00",
      "summary": "בקיץ 2021 היה נראה ששום דבר לא יוכל לעצור את מהפכת הבשר המתורבת. כיום, היזמים שהובילו את המהפכה משרטטים תמונת מצב מפוכחת של תעשייה שנלחמת על חייה הרחק מאור הזרקורים"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#6",
      "title": "אלקו מבקשת למכור את אחזקתה בסופרגז",
      "published": "2026-11-04T07:25:38+00:00",
      "summary": "שווי האחזקה של אלקו בסופרגז פאוור הוא 273 מיליון שקל, ולפי החברה המהלך מגיע במסגרת \"החלטה אסטרטגית להתמקד בפעילויות הליבה של החברה\""
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#7",
      "title": "רשות שוק ההון שמה סוף לאפליה בביטוח רכב לפי מקום מגורים",
      "published": "2026-11-04T07:07:37+00:00",
      "summary": "בעקבות תלונות על אפליית מבוטחים, בעיקר ביישובי הפריפריה, פירסמה רשות שוק ההון עמדה סופית האוסרת על חברות הביטוח לסרב לבטח נהגים או להציב בפניהם דרישות מחמירות בשל כתובתם ■ גם תמחור הביטוח לפי אזור מגורים ייאסר, אלא אם יוכח כי הוא מבוסס על נתונים סטטיסטיים המעידים על סיכון מוגבר"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#8",
      "title": "\"עלול להוביל לעליית מחיר גורפת\": עמית גל שוב מטלטל את תחום ביטוח הרכב",
      "published": "2026-11-04T06:38:20+00:00",
      "summary": "אמדוקס צונחת ב–44% במסחר לאחר הסגירה ואילו טבע מזנקת בוול סטריט, מה מחפש גדעון תדמור בענף החיתום הלוהט, מלחמת סוכני הביטוח בחברת פינק — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#9",
      "title": "תשע שנים לאחר הקמתה ואחרי שגייסה כ-130 מיליון דולר: חברת אקספלוריום נסגרת",
      "published": "2026-11-04T05:10:16+00:00",
      "summary": "מייסדי החברה, עומר הר ואור טמיר, הודיעו כי החליטו לסגור את אקספלוריום ■ בשנים האחרונות החברה נתקלה בקשיים על רקע עליית גל הבינה המלאכותית והשינויים בשוק ■ קרוב ל–40 עובדים צפויים להיות מפוטרים ■ \"המשכנו לצמוח בשנה החולפת. עצוב לנו לומר שזה פשוט לא הספיק\""
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#10",
      "title": "אמדוקס צונחת ב–44% במסחר לאחר הסגירה בעקבות תחזית מאכזבת",
      "published": "2026-11-04T04:48:35+00:00",
      "summary": "ברבעון שהסתיים בסוף ספטמבר היו לאמדוקס הכנסות 1.19 מיליארד דולר, לעומת 1.15 מיליארד דולר ברבעון המקביל ■ אמדוקס חוזה שבשנת הכספים 2027 תהיה ירידה של 14%–17% בהכנסות, וגם הרווח יפול באופן חד, בשל סכסוך עם הלקוחה טי־מובייל"
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#11",
      "title": "בדרך להיות טייקון רב־זרועי: מה מחפש גדעון תדמור בענף החיתום הלוהט?",
      "published": "2026-11-04T04:16:28+00:00",
      "summary": "מנפט וגז לנדל\"ן, חוות שרתים, קולנוע וכעת חיתום: איש העסקים גדעון תדמור, מייסד נאוויטס, שהונו מוערך במיליארדי שקלים, חובר לגיל קלדרון במנורה חיתום ■ מה עומד מאחורי המהלך, ואיך מנורה ביטוח תמנע ניגוד עניינים בניהול כספי העמיתים?"
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#12",
      "title": "התחשמלות, שחפת וניצול: מה קורה במרכזי הנתונים של גוגל ומיקרוסופט באירופה",
      "published": "2026-11-04T04:15:41+00:00",
      "summary": "מאחורי תנופת הבנייה של מרכזי נתונים עבור גוגל, מיקרוסופט וענקיות טכנולוגיה נוספות באירופה מסתתרת מציאות קשה ■ תחקיר חושף עדויות של עובדים שנפצעו קשה, נאלצו להתגורר בצפיפות ולא קיבלו את מלוא שכרם — בזמן שחששו להתלונן על תנאי ההעסקה"
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#13",
      "title": "\"מחיר הקדמה\": אחרי מתקפות הסייבר באירופה, גם רשתות המזון בישראל נערכות",
      "published": "2026-11-04T04:14:28+00:00",
      "summary": "התקפות סייבר פגעו במערכות קירור באירופה בשבועות האחרונים ועירערו את הביטחון התזונתי ביבשת ■ הן הובילו לחשש שגם רשתות המזון בישראל בסכנה ■ בכירים ברשתות בארץ טוענים כי המוכנות גבוהה, אבל מודים כי \"כל זמן שעובדים תחת מערכת ממוחשבת, אנחנו חשופים לפגעי סייבר\""
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#14",
      "title": "לקבוצות העניות בישראל, חרדים וערבים, יש הזדמנות נדירה. האם יש מי שיקפוץ עליה?",
      "published": "2026-11-04T04:06:56+00:00",
      "summary": "בגוש השינוי צריכים לצרף את המפלגות הערביות והחרדיות לא רק כי הם צריכים את המנדטים שלהן ■ עליהם להבין שנוצרה כאן הזדמנות לא רק לשינוי של הרכב הקואליציה, אלא לשינוי מהותי בחברה הישראלית — שיכלול טיפול באתגרים האדירים של החברה הערבית והחרדית"
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#15",
      "title": "ארקיע נקלעה למשבר כלכלי, דווקא בשנה שבה חברות התעופה הישראליות פרחו",
      "published": "2026-11-04T04:04:09+00:00",
      "summary": "השבוע נחשף כי ארקיע מצויה בהפסדים של עשרות מיליוני שקלים, בעוד הנהלת החברה סובלת מבלגן עסקי ■ עובדי ארקיע הפגינו מול מטה החברה, מתוך חשש שהם יהיו אלה שישלמו את המחיר על המחלוקות הניהוליות ■ ארקיע: \"החברה גאה בהישגיה יוצאי הדופן בשלוש השנים האחרונות\""
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#16",
      "title": "יוון וקפריסין מקשיחות את תנאי השקעות הנדל\"ן לזרים — ועשויות להוציא ישראלים מהמשחק",
      "published": "2026-11-04T04:03:26+00:00",
      "summary": "הצעת חוק ביוון מבקשת להעלות את מס הרכישה שמוטל על זרים מ-3% ל-15% — הגבוה באיחוד, וגם קפריסין מקשיחה עמדות ■ פרטי החוק המדויקים ביוון עדיין לא נקבעו, אך משקיעים רבים כבר מנסים להקדים ולהשלים עסקות ■ מי חשוף לשינויים, והאם יש דרכים להתחמק מהם?"
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#17",
      "title": "עיתוי הצהרת טראמפ גרוע למערכת הביטחון — אך נועד לסייע לו מבית",
      "published": "2026-11-04T04:01:20+00:00",
      "summary": "הכרזת טראמפ על הפסקת הסיוע הביטחוני בסך 3.8 מיליארד דולר בשנה הפתיעה את מערכת הביטחון, שנמצאת ממילא במצוקה תקציבית ■ מעבר להשלכות הכלכליות, ההכרזה מאותתת על שינוי עמוק ביחס האמריקאי לישראל"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#18",
      "title": "\"קשה למצוא תופרות שמתמחות בשמלות כלה בארץ. זה גרם לי לבזבז זמן ובדים\"",
      "published": "2026-11-04T04:00:35+00:00",
      "summary": "ענת חן למדה עיצוב אופנה, ושנתיים אחרי שסיימה את התואר פתחו הוריה סלון כלות משפחתי, שהציע שמלות, איפור ושיער ■ לאחר כ-13 שנה היא רצתה לצאת לדרך נפרדת, ופתחה בביתה סטודיו לשמלות כלה ■ \"העבודה בתחום עונתית. בינואר, למשל, אין כמעט כלות\""
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#19",
      "title": "רמי לוי: \"הייתה תקופה שספקים לא העלו מחירים, ברגע שמישהו רצה להעלות התקשורת ירדה עליו\"",
      "published": "2026-11-04T04:00:00+00:00",
      "summary": "המשפט הוא הפעם הראשונה שבה רשות התחרות הגישה כתבי אישום בגין איתותים לתיאום מחירים ■ בתיק יש שבעה אישומים — רובם נגד רביד ורשת ויקטורי, וחלקם נגד הרשתות יוחננוף וסופר ברקת, וגם נגד בכירים באותן חברות"
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#20",
      "title": "בעקבות עבודות חשמול בסופ\"ש: איילון ייחסם באזור הרצליה ויחולו שינויים בתנועות הרכבות באזור",
      "published": "2026-11-03T18:41:17+00:00",
      "summary": "התנועה תשוב לסדרה ביום ראשון, 8 בנובמבר, בשעה 04:00 לפנות בוקר ■ יופעלו שאטלים חינמיים באזור"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#21",
      "title": "יום הדין של מבצעי 90/10: גל ביטולי העסקות מחזק את שוק הנדל\"ן הישראלי",
      "published": "2026-11-03T17:23:00+00:00",
      "summary": "זינוק של 41% בביטולי עסקות נדל\"ן אינו מעיד על משבר מערכתי, אלא על תהליך הבראה וסינון טבעי של השוק ■ הנדל\"ן הישראלי עובר מגל ספקולטיבי לבחינה ריאלית של יכולות החזר, שבה יזמים יציבים, אשראי משלים וקרנות חוב מגובות בנכסים — גורפים את היתרון"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#22",
      "title": "כרם נבו, סמנכ\"לית ברשות החדשנות: \"למדינה יהיה תפקיד במימון חברות דיפ־טק גם בשלבים מאוחרים\"",
      "published": "2026-11-03T17:17:45+00:00"
     },
     {
-     "ref": "themarker#22",
+     "ref": "themarker#23",
      "title": "טבע מזנקת בוול סטריט, ולסמנכ\"ל הכספים יש תחזית אופטימית",
      "published": "2026-11-03T16:07:15+00:00",
      "summary": "טבע מאיצה את השינוי האסטרטגי שלה להתמקד בתרופות מקוריות על פני גנריות ■ מחיר היעד שהוצב לה נע בין 48 ל–52 דולר"
     },
     {
-     "ref": "themarker#23",
+     "ref": "themarker#24",
      "title": "חברה פיקטיבית וראיון עבודה מזויף: כך התנהלה פריצת הענק לבורסת בייננס",
      "published": "2026-11-03T16:03:00+00:00",
      "summary": "בורסת הקריפטו חשפה דו\"ח ראשוני לפריצת הסייבר, שבמהלכה גנבו האקרים מטבעות דיגיטליים בשווי שעשוי לעמוד על כ–6.3 מיליארד דולר ■ ההאקרים פעלו במשך חודשים ובין היתר התחזו לחברה פיקטיבית וניהלו ריאיון עבודה עם מהנדס בבייננס"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "האם נתניהו קנה את התמיכה של טראמפ בצ'ק על סך 7.5 מיליארד דולר?",
-     "published": "2026-11-03T15:35:33+00:00",
-     "summary": "מדברי טראמפ היום עולה כי נתניהו הסכים לבטל את הסכם הסיוע האמריקאי החתום לשנתיים הקרובות ■ העובדה שטראמפ הודיע על ביטול ההסכם באמצע יום הבחירות בארה\"ב חידדה את ההערכה שהסיכום בינו לבין נתניהו היה מעין אתנן פוליטי שנתניהו שילם לטראמפ"
     }
    ]
   },
@@ -363,27 +364,27 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Dollar Trims Losses Slightly After Midterms But Outlook Looks Modestly Negative",
+     "published": "2026-11-04T09:18:00+00:00",
+     "summary": "The dollar was lower, but trimmed some of its initial losses in reaction to the U.S. midterm results as the Democrats won’t take control of Congress until January, ING said."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Stock Futures Turn Higher, Treasurys Strengthen After Democratic Sweep",
+     "published": "2026-11-04T09:16:00+00:00",
+     "summary": "U.S. stock futures rose and Treasurys strengthened after the Democrats delivered a resounding win in the midterm elections."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "European Indexes Higher After Democrats Triumph in Midterms",
      "published": "2026-11-04T08:36:00+00:00",
      "summary": "European stock indexes rose after Democrats’ resounding win in the midterm elections gave investors clarity."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
      "published": "2026-11-04T08:29:00+00:00",
      "summary": "Gold prices were supported by a softer dollar and falling Treasury yields after the U.S. midterm election results boosted demand for safe-haven assets."
-    },
-    {
-     "ref": "wsj_markets#2",
-     "title": "Stock Futures Edge Lower, Treasurys Strengthen After Democratic Sweep",
-     "published": "2026-11-04T08:17:00+00:00",
-     "summary": "U.S. stock futures were slightly lower and Treasurys strengthened after the Democrats delivered a resounding win in the midterm elections."
-    },
-    {
-     "ref": "wsj_markets#3",
-     "title": "Dollar Falls as Democrats on Course to Sweep Midterms",
-     "published": "2026-11-04T07:54:00+00:00",
-     "summary": "The dollar was weaker after reaching a one-month low against a basket of currencies as the Democrats were firmly on course to take control of both Congress and the Senate in the U.S. midterms."
     },
     {
      "ref": "wsj_markets#4",
@@ -517,9 +518,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4014.26,
+   "last": 4011.3701,
    "prev_close": 4048.9399,
-   "change_pct": -0.86,
+   "change_pct": -0.93,
    "as_of": "2026-11-04"
   },
   "SP500": {
@@ -531,23 +532,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1596,
+   "last": 3.1563,
    "prev_close": 3.1393,
-   "change_pct": 0.65,
+   "change_pct": 0.54,
    "as_of": "2026-11-04"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 103.82,
+   "last": 103.4,
    "prev_close": 103.6,
-   "change_pct": 0.21,
+   "change_pct": -0.19,
    "as_of": "2026-11-04"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 78378.3594,
+   "last": 78197.9531,
    "prev_close": 77345.0469,
-   "change_pct": 1.34,
+   "change_pct": 1.1,
    "as_of": "2026-11-04"
   }
  },

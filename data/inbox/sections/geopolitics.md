@@ -19,26 +19,26 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "Artificial intelligence - AP News",
-     "published": "2026-11-04T08:43:12+00:00",
+     "published": "2026-11-04T09:19:52+00:00",
      "summary": "Artificial intelligence AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "2026 Elections - AP News",
-     "published": "2026-11-04T08:08:23+00:00",
-     "summary": "2026 Elections AP News"
+     "title": "Midterms launch wave of historic firsts for some states — and for the nation - AP News",
+     "published": "2026-11-04T09:02:00+00:00",
+     "summary": "Midterms launch wave of historic firsts for some states — and for the nation AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans - AP News",
-     "published": "2026-11-04T07:57:00+00:00",
-     "summary": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans AP News"
+     "title": "South Africans vote in local elections that could continue the decline of the once-mighty ANC - AP News",
+     "published": "2026-11-04T07:59:00+00:00",
+     "summary": "South Africans vote in local elections that could continue the decline of the once-mighty ANC AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "Midterms bringing in wave of historic firsts for some states — and for the nation - AP News",
-     "published": "2026-11-04T07:52:00+00:00",
-     "summary": "Midterms bringing in wave of historic firsts for some states — and for the nation AP News"
+     "title": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans - AP News",
+     "published": "2026-11-04T07:57:00+00:00",
+     "summary": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans AP News"
     },
     {
      "ref": "ap_world#4",
@@ -54,21 +54,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#6",
+     "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses - AP News",
+     "published": "2026-11-04T07:11:00+00:00",
+     "summary": "Takeaways: Voters punish Trump, and the GOP suffers historic losses AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP - AP News",
      "published": "2026-11-04T07:04:00+00:00",
      "summary": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat - AP News",
      "published": "2026-11-04T06:57:00+00:00",
      "summary": "Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "This time, determining which party will control Congress didn’t take days - AP News",
-     "published": "2026-11-04T06:46:00+00:00",
-     "summary": "This time, determining which party will control Congress didn’t take days AP News"
     },
     {
      "ref": "ap_world#9",
@@ -78,33 +78,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#10",
-     "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses - AP News",
-     "published": "2026-11-04T06:41:00+00:00",
-     "summary": "Takeaways: Voters punish Trump, and the GOP suffers historic losses AP News"
+     "title": "Israel’s election commission says no fraud found in last week’s vote - AP News",
+     "published": "2026-11-04T06:36:30+00:00",
+     "summary": "Israel’s election commission says no fraud found in last week’s vote AP News"
     },
     {
      "ref": "ap_world#11",
+     "title": "California could become the first state to tax billionaires’ wealth - AP News",
+     "published": "2026-11-04T06:32:00+00:00",
+     "summary": "California could become the first state to tax billionaires’ wealth AP News"
+    },
+    {
+     "ref": "ap_world#12",
      "title": "Voters back abortion rights and reject Trump’s redistricting in state ballot measures - AP News",
      "published": "2026-11-04T06:32:00+00:00",
      "summary": "Voters back abortion rights and reject Trump’s redistricting in state ballot measures AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#13",
      "title": "Democrat Hakeem Jeffries poised to make history as the first Black speaker of the House - AP News",
      "published": "2026-11-04T06:30:00+00:00",
      "summary": "Democrat Hakeem Jeffries poised to make history as the first Black speaker of the House AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
      "title": "Democrat Annie Andrews wins US Senate election in South Carolina over Republican Darline Graham - AP News",
      "published": "2026-11-04T06:29:00+00:00",
      "summary": "Democrat Annie Andrews wins US Senate election in South Carolina over Republican Darline Graham AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race - AP News",
-     "published": "2026-11-04T06:27:00+00:00",
-     "summary": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race AP News"
     },
     {
      "ref": "ap_world#15",
@@ -114,57 +114,57 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#16",
+     "title": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race - AP News",
+     "published": "2026-11-04T06:27:00+00:00",
+     "summary": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race AP News"
+    },
+    {
+     "ref": "ap_world#17",
      "title": "Sherrod Brown flips Senate seat in Ohio for Democrats by ousting Sen. Jon Husted - AP News",
      "published": "2026-11-04T06:25:00+00:00",
      "summary": "Sherrod Brown flips Senate seat in Ohio for Democrats by ousting Sen. Jon Husted AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
+     "title": "FACT FOCUS: False accusations and unverified claims quickly spread about Election Day voting - AP News",
+     "published": "2026-11-04T06:21:00+00:00",
+     "summary": "FACT FOCUS: False accusations and unverified claims quickly spread about Election Day voting AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "Democrat Gina Hinojosa elected Texas' first Latina governor, ousts Republican incumbent Greg Abbott - AP News",
      "published": "2026-11-04T06:13:00+00:00",
      "summary": "Democrat Gina Hinojosa elected Texas' first Latina governor, ousts Republican incumbent Greg Abbott AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#20",
      "title": "Democrats capture governorships in Texas and other GOP-controlled states in rebuke to Republicans - AP News",
      "published": "2026-11-04T06:07:00+00:00",
      "summary": "Democrats capture governorships in Texas and other GOP-controlled states in rebuke to Republicans AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#21",
      "title": "Troy Jackson wins the Maine US Senate race over GOP Sen. Susan Collins in a key Democratic victory - AP News",
      "published": "2026-11-04T06:04:00+00:00",
      "summary": "Troy Jackson wins the Maine US Senate race over GOP Sen. Susan Collins in a key Democratic victory AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#22",
      "title": "Vote-scanning machine malfunction to delay counting in New York’s Westchester County - AP News",
      "published": "2026-11-04T05:56:00+00:00",
      "summary": "Vote-scanning machine malfunction to delay counting in New York’s Westchester County AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#23",
      "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack - AP News",
      "published": "2026-11-04T05:51:00+00:00",
      "summary": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#24",
      "title": "Democrat Xavier Becerra wins California governor’s race, defeating Republican Steve Hilton - AP News",
      "published": "2026-11-04T05:33:00+00:00",
      "summary": "Democrat Xavier Becerra wins California governor’s race, defeating Republican Steve Hilton AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Pastor Adam Hamilton ousts GOP Sen. Roger Marshall, Democrats' 1st Senate win in Kansas in 94 years - AP News",
-     "published": "2026-11-04T05:33:00+00:00",
-     "summary": "Pastor Adam Hamilton ousts GOP Sen. Roger Marshall, Democrats' 1st Senate win in Kansas in 94 years AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Supreme Court hears challenge to Catholic preschools' exclusion from Colorado-funded program - AP News",
-     "published": "2026-11-04T05:16:00+00:00",
-     "summary": "Supreme Court hears challenge to Catholic preschools' exclusion from Colorado-funded program AP News"
     }
    ]
   },
@@ -175,7 +175,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "bbc_world#0",
      "title": "Key moments from a night of midterm election firsts",
-     "published": "2026-11-04T07:40:12+00:00",
+     "published": "2026-11-04T09:01:40+00:00",
      "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration."
     },
     {
@@ -210,7 +210,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#6",
-     "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+     "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
      "published": "2026-11-04T06:53:56+00:00",
      "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats."
     },
@@ -426,141 +426,141 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#2",
+     "title": "EXCLUSIVE: Lindt investors seek board shake-up at chocolate maker after CEO ouster - Reuters",
+     "published": "2026-11-04T06:02:00+00:00",
+     "summary": "EXCLUSIVE: Lindt investors seek board shake-up at chocolate maker after CEO ouster Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr - Reuters",
      "published": "2026-11-04T05:57:00+00:00",
      "summary": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Morning Bid: Markets fret blue wave will drown data centres - Reuters",
      "published": "2026-11-04T05:41:00+00:00",
      "summary": "Morning Bid: Markets fret blue wave will drown data centres Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Democrat Troy Jackson ousts Republican Senator Susan Collins in Maine - Reuters",
      "published": "2026-11-04T05:27:00+00:00",
      "summary": "Democrat Troy Jackson ousts Republican Senator Susan Collins in Maine Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports - Reuters",
      "published": "2026-11-04T05:21:00+00:00",
      "summary": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "Cruise ship leaves Cambodia after forcing hundreds of passengers off - Reuters",
      "published": "2026-11-04T05:19:00+00:00",
      "summary": "Cruise ship leaves Cambodia after forcing hundreds of passengers off Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Trump acknowledges Iran role in Democratic sweep - Reuters",
      "published": "2026-11-04T05:17:00+00:00",
      "summary": "Trump acknowledges Iran role in Democratic sweep Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Indonesia president sacks chief of staff over alleged wiretap - Reuters",
      "published": "2026-11-04T05:11:00+00:00",
      "summary": "Indonesia president sacks chief of staff over alleged wiretap Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Senator Jon Ossoff wins reelection, holding Georgia for Democrats - Reuters",
      "published": "2026-11-04T05:02:13+00:00",
      "summary": "Senator Jon Ossoff wins reelection, holding Georgia for Democrats Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Democrat Josh Turek flips Republican-held US Senate seat in Iowa - Reuters",
      "published": "2026-11-04T04:34:00+00:00",
      "summary": "Democrat Josh Turek flips Republican-held US Senate seat in Iowa Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Adam Hamilton becomes first Democrat elected to US Senate from Kansas in 94 years - Reuters",
      "published": "2026-11-04T04:24:00+00:00",
      "summary": "Adam Hamilton becomes first Democrat elected to US Senate from Kansas in 94 years Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "One Indian killed in attack on ship near Oman, Indian foreign ministry says - Reuters",
      "published": "2026-11-04T04:23:34+00:00",
      "summary": "One Indian killed in attack on ship near Oman, Indian foreign ministry says Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "China's solar push reshapes traditional ways of life on Tibet's high plateau - Reuters",
      "published": "2026-11-04T04:16:00+00:00",
      "summary": "China's solar push reshapes traditional ways of life on Tibet's high plateau Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Democrat Sherrod Brown wins back US Senate seat in Ohio - Reuters",
      "published": "2026-11-04T04:12:00+00:00",
      "summary": "Democrat Sherrod Brown wins back US Senate seat in Ohio Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "James Talarico becomes first Democrat to win statewide in Texas since 1994 - Reuters",
      "published": "2026-11-04T04:04:00+00:00",
      "summary": "James Talarico becomes first Democrat to win statewide in Texas since 1994 Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Trump says he is willing to accept midterm election results, NYT reports - Reuters",
      "published": "2026-11-04T04:02:00+00:00",
      "summary": "Trump says he is willing to accept midterm election results, NYT reports Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz - Reuters",
      "published": "2026-11-04T03:50:00+00:00",
      "summary": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Democrats projected to win majority control of US House, US media project - Reuters",
      "published": "2026-11-04T03:18:00+00:00",
      "summary": "Democrats projected to win majority control of US House, US media project Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Democrat Annie Andrews wins US Senate seat in South Carolina upset - Reuters",
      "published": "2026-11-04T03:17:00+00:00",
      "summary": "Democrat Annie Andrews wins US Senate seat in South Carolina upset Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Democrats flip US Representative Tom Kean's New Jersey district - Reuters",
      "published": "2026-11-04T02:52:00+00:00",
      "summary": "Democrats flip US Representative Tom Kean's New Jersey district Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Indian stocks inch higher as investors assess foreign fund flows, US election results - Reuters",
      "published": "2026-11-04T02:39:00+00:00",
      "summary": "Indian stocks inch higher as investors assess foreign fund flows, US election results Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Rupee claims near two-week high as US midterms singe dollar, flows improve - Reuters",
      "published": "2026-11-04T02:36:00+00:00",
      "summary": "Rupee claims near two-week high as US midterms singe dollar, flows improve Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state - Reuters",
      "published": "2026-11-04T02:33:00+00:00",
      "summary": "Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says - Reuters",
-     "published": "2026-11-04T01:57:00+00:00",
-     "summary": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says Reuters"
     }
    ]
   }
