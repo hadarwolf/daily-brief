@@ -10,9 +10,9 @@
         "question": "What happened to Anthropic's operating expenses in Q3, ahead of its IPO?",
         "options": [
           "They jumped nearly 300%, pushing the quarterly loss above $23 billion",
-          "They fell slightly, but the IPO valuation still dropped to $1.5 trillion",
           "They stayed flat, as revenue from the $900 billion infrastructure deals offset new costs",
-          "They turned into a quarterly profit for the first time"
+          "They turned into a quarterly profit for the first time",
+          "They fell slightly, but the IPO valuation still dropped to $1.5 trillion"
         ],
         "explanation": "Anthropic's SEC filings ahead of its IPO showed operating expenses jumping almost 300% quarter over quarter, pushing the loss above $23 billion."
       },
@@ -20,9 +20,9 @@
         "question": "מה קרה להוצאות התפעוליות של אנתרופיק ברבעון השלישי, לפני ההנפקה שלה?",
         "options": [
           "הן זינקו בכמעט 300%, וההפסד הרבעוני עבר את 23 מיליארד דולר",
-          "הן ירדו קלות, אבל הערכת השווי להנפקה בכל זאת צנחה ל-1.5 טריליון דולר",
           "הן נשארו ללא שינוי, כי ההכנסות מהתחייבויות התשתית של 900 מיליארד דולר קיזזו את העלויות החדשות",
-          "הן התהפכו לרווח רבעוני לראשונה"
+          "הן התהפכו לרווח רבעוני לראשונה",
+          "הן ירדו קלות, אבל הערכת השווי להנפקה בכל זאת צנחה ל-1.5 טריליון דולר"
         ],
         "explanation": "הדו\"חות שאנתרופיק הגישה ל-SEC לפני ההנפקה הראו זינוק של כמעט 300% בהוצאות התפעוליות, שהוביל להפסד רבעוני של למעלה מ-23 מיליארד דולר."
       }
@@ -31,24 +31,24 @@
       "id": "q-geopolitics-ukraine-ceasefire",
       "section": "geopolitics",
       "story_id": "ukraine-ceasefire-collapse",
-      "answer_index": 0,
+      "answer_index": 3,
       "en": {
         "question": "What ended the war's longest ceasefire so far, per today's brief?",
         "options": [
-          "A Russian strike that killed 26 people at an aid center and shelter, after which fighting resumed in Kherson",
-          "An unexpected Ukrainian counteroffensive into Russian territory",
           "The expiration of the Abu Dhabi talks framework",
-          "A ceasefire violation by European peacekeeping troops"
+          "A ceasefire violation by European peacekeeping troops",
+          "An unexpected Ukrainian counteroffensive into Russian territory",
+          "A Russian strike that killed 26 people at an aid center and shelter, after which fighting resumed in Kherson"
         ],
         "explanation": "A Russian strike killed 26 people at an aid center and shelter in southern Ukraine, and fighting resumed in Kherson following the six-day truce."
       },
       "he": {
         "question": "מה סיים את שביתת הנשק הארוכה ביותר במלחמה עד כה, לפי הבריף של היום?",
         "options": [
-          "תקיפה רוסית שהרגה 26 בני אדם במרכז סיוע ומקלט, ולאחריה חזרה הלחימה לאזור חרסון",
-          "מתקפת נגד אוקראינית בלתי צפויה לעבר שטח רוסי",
           "פקיעת מסגרת שיחות אבו דאבי",
-          "הפרת הפסקת האש על ידי כוחות שמירת שלום אירופיים"
+          "הפרת הפסקת האש על ידי כוחות שמירת שלום אירופיים",
+          "מתקפת נגד אוקראינית בלתי צפויה לעבר שטח רוסי",
+          "תקיפה רוסית שהרגה 26 בני אדם במרכז סיוע ומקלט, ולאחריה חזרה הלחימה לאזור חרסון"
         ],
         "explanation": "תקיפה רוסית הרגה 26 בני אדם במרכז סיוע ומקלט בדרום אוקראינה, והלחימה חזרה לאזור חרסון בעקבות שביתת הנשק בת שישה הימים."
       }

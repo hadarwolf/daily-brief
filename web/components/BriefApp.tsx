@@ -2,11 +2,12 @@
 
 import { useEffect, useMemo, useState } from "react";
 
-import { loadBrief, loadIndex } from "@/lib/data";
+import { loadBrief, loadIndex, loadQuiz } from "@/lib/data";
 import { useStored } from "@/lib/storage";
-import type { Brief, Lang, Length, Section } from "@/lib/types";
+import type { Brief, Lang, Length, Quiz, Section } from "@/lib/types";
 
 import { IsraeliPlayers, Markets, MatchDayBanner } from "./Extras";
+import { QuizView } from "./QuizView";
 import { StoryCard } from "./StoryCard";
 
 const LENGTHS: { id: Length; label: string; hint: string }[] = [
@@ -14,6 +15,8 @@ const LENGTHS: { id: Length; label: string; hint: string }[] = [
   { id: "coffee", label: "Coffee", hint: "3m" },
   { id: "deep", label: "Deep", hint: "10m" },
 ];
+
+const QUIZ_ID = "quiz";
 
 type State = { status: "loading" } | { status: "empty" } | { status: "error"; message: string } | { status: "ready"; brief: Brief };
 
@@ -26,11 +29,23 @@ export function BriefApp() {
   const [length, setLength] = useStored<Length>("length", "coffee");
   const [langOverrides, setLangOverrides] = useStored<Record<string, Lang>>("section-lang", {});
   const [activeId, setActiveId] = useState<string | null>(null);
+  // Today's quiz is about the previous brief, so it tests what you read rather than what you just read.
+  const [quiz, setQuiz] = useState<Quiz | null>(null);
 
   useEffect(() => {
     loadIndex()
-      .then((index) => (index.latest ? loadBrief(index.latest) : null))
-      .then((brief) => setState(brief ? { status: "ready", brief } : { status: "empty" }))
+      .then(async (index) => {
+        if (!index.latest) return null;
+        const [brief, previousQuiz] = await Promise.all([
+          loadBrief(index.latest),
+          index.dates[1] ? loadQuiz(index.dates[1]) : Promise.resolve(null),
+        ]);
+        return { brief, previousQuiz };
+      })
+      .then((loaded) => {
+        setQuiz(loaded?.previousQuiz ?? null);
+        setState(loaded ? { status: "ready", brief: loaded.brief } : { status: "empty" });
+      })
       .catch((e: Error) => setState({ status: "error", message: e.message }));
 
     if ("serviceWorker" in navigator && process.env.NODE_ENV === "production") {
@@ -49,9 +64,11 @@ export function BriefApp() {
   if (state.status === "error") return <Centered>Couldn&apos;t load the brief ({state.message}).</Centered>;
 
   const { meta } = state.brief;
+  const showingQuiz = activeId === QUIZ_ID && quiz !== null;
   const active = sections.find((s) => s.section === activeId) ?? sections[0];
   const activeIndex = sections.indexOf(active);
   const next = sections[activeIndex + 1];
+  const nextIsQuiz = !next && quiz !== null;
   const langOf = (s: Section): Lang => langOverrides[s.section] ?? s.default_lang;
   const lang = langOf(active);
   const title = (s: Section) => (langOf(s) === "he" ? s.title_he : s.title_en);
@@ -92,7 +109,7 @@ export function BriefApp() {
                 <button
                   onClick={() => goTo(s.section)}
                   className={`whitespace-nowrap rounded-full px-3.5 py-1.5 text-sm font-medium ring-1 transition-colors ${
-                    s === active ? "bg-fg text-bg ring-fg" : "ring-line text-muted"
+                    s === active && !showingQuiz ? "bg-fg text-bg ring-fg" : "ring-line text-muted"
                   }`}
                 >
                   {title(s)}
@@ -100,11 +117,27 @@ export function BriefApp() {
                 </button>
               </li>
             ))}
+            {quiz && (
+              <li>
+                <button
+                  onClick={() => goTo(QUIZ_ID)}
+                  className={`whitespace-nowrap rounded-full px-3.5 py-1.5 text-sm font-medium ring-1 transition-colors ${
+                    showingQuiz ? "bg-fg text-bg ring-fg" : "ring-line text-muted"
+                  }`}
+                >
+                  Quiz
+                </button>
+              </li>
+            )}
           </ul>
         </nav>
       </header>
 
-      <main className="px-4 pt-5" dir={lang === "he" ? "rtl" : "ltr"} lang={lang}>
+      <main className="px-4 pt-5" dir={showingQuiz ? undefined : lang === "he" ? "rtl" : "ltr"} lang={showingQuiz ? undefined : lang}>
+        {showingQuiz && quiz ? (
+          <QuizView quiz={quiz} dateLabel={formatDate(quiz.date)} />
+        ) : (
+          <>
         <div className="flex items-center justify-between gap-3">
           <h2 className="text-2xl font-bold tracking-tight">{title(active)}</h2>
           <button
@@ -133,6 +166,16 @@ export function BriefApp() {
           >
             {langOf(next) === "he" ? `הבא: ${title(next)} ←` : `Next: ${title(next)} →`}
           </button>
+        )}
+        {nextIsQuiz && (
+          <button
+            onClick={() => goTo(QUIZ_ID)}
+            className="mt-6 w-full rounded-2xl bg-accent py-4 text-center font-medium text-accent-fg"
+          >
+            Test yourself: yesterday&apos;s quiz →
+          </button>
+        )}
+          </>
         )}
       </main>
     </div>

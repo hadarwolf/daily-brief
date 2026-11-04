@@ -6,7 +6,7 @@ import pytest
 
 from daily_brief.config import Settings
 from daily_brief.summarize import prepare as prepare_mod
-from daily_brief.summarize.assemble import assemble
+from daily_brief.summarize.assemble import LETTER_REFERENCE, assemble, shuffle_quiz
 from daily_brief.summarize.inputs import build_inputs, israel_date
 from daily_brief.summarize.matchday import detect_match_day
 
@@ -94,7 +94,8 @@ def settings(tmp_path, monkeypatch):
 
     monkeypatch.setattr(prepare_mod, "fetch_article_text", fake_fetch)
     monkeypatch.setattr(prepare_mod, "load_sources", lambda: SOURCES_CFG)
-    s = replace(Settings.from_env(), data_dir=tmp_path)
+    # Never carry real API keys into tests: pytest prints fixture values when a test fails.
+    s = replace(Settings.from_env(), data_dir=tmp_path, football_data_token=None, balldontlie_token=None)
     prepare_mod.prepare(TODAY, s)
     return s
 
@@ -185,3 +186,73 @@ def test_assemble_rejects_hallucinated_refs(settings):
     write_drafts(settings, geopolitics={"stories": [_story("world", ["invented#7"])]})
     rep = assemble(settings)
     assert any("unknown source_refs ['invented#7']" in e for e in rep.errors)
+
+
+# ---------------------------------------------------------------- quiz shuffling
+
+
+def _quiz(n=12):
+    """n questions whose correct answer is always option A, like the model tends to write."""
+    questions = []
+    for i in range(n):
+        en = {"question": f"q{i}?", "options": [f"right-en-{i}", f"x-en-{i}", f"y-en-{i}", f"z-en-{i}"], "explanation": "e"}
+        he = {"question": f"ש{i}?", "options": [f"נכון-{i}", f"א-{i}", f"ב-{i}", f"ג-{i}"], "explanation": "ה"}
+        questions.append({"id": f"q{i}", "section": "s", "story_id": "x", "answer_index": 0, "en": en, "he": he})
+    return {"questions": questions}
+
+
+def test_shuffle_keeps_the_correct_answer_correct_in_both_languages():
+    shuffled = shuffle_quiz(_quiz(), "2026-10-10")
+    for i, q in enumerate(shuffled["questions"]):
+        assert q["en"]["options"][q["answer_index"]] == f"right-en-{i}"
+        assert q["he"]["options"][q["answer_index"]] == f"נכון-{i}"
+        assert sorted(q["en"]["options"]) == sorted(_quiz()["questions"][i]["en"]["options"])  # nothing lost
+
+
+def test_shuffle_is_deterministic_and_spreads_answers_out():
+    a, b = shuffle_quiz(_quiz(), "2026-10-10"), shuffle_quiz(_quiz(), "2026-10-10")
+    assert a == b  # re-running assemble must not reshuffle
+    assert shuffle_quiz(_quiz(), "2026-10-11") != a  # but a new day shuffles differently
+    positions = {q["answer_index"] for q in a["questions"]}
+    assert len(positions) >= 3  # 12 questions that were all "A" no longer are
+
+
+def test_shuffle_does_not_mutate_its_input():
+    original = _quiz()
+    shuffle_quiz(original, "2026-10-10")
+    assert original == _quiz()
+
+
+def test_assemble_publishes_a_shuffled_quiz_with_a_valid_key(settings):
+    write_drafts(settings)
+    assert assemble(settings).ok
+    quiz = json.loads((settings.data_dir / "briefs" / TODAY.isoformat() / "quiz.json").read_text(encoding="utf-8"))
+    for q in quiz["questions"]:
+        assert 0 <= q["answer_index"] < 4 and len(q["en"]["options"]) == len(q["he"]["options"]) == 4
+
+
+@pytest.mark.parametrize(
+    "option",
+    ["All of the above", "None of the above", "כל התשובות נכונות", "אף אחת מהתשובות"],
+)
+def test_assemble_rejects_options_that_depend_on_order(settings, option):
+    bad = _quiz_q("q1", "geopolitics", "world")
+    bad["en"] = {**bad["en"], "options": ["a", "b", "c", option]}
+    bad["he"] = {**bad["he"], "options": ["a", "b", "c", option]}
+    write_drafts(settings, quiz={"questions": [bad, _quiz_q("q2", "business", "company"), _quiz_q("q3", "learn", "word")]})
+    rep = assemble(settings)
+    assert any("must not depend on order" in e for e in rep.errors)
+
+
+def test_assemble_rejects_explanations_that_name_an_option_letter(settings):
+    bad = _quiz_q("q1", "geopolitics", "world")
+    bad["en"] = {**bad["en"], "explanation": "Option B is right because of X."}
+    write_drafts(settings, quiz={"questions": [bad, _quiz_q("q2", "business", "company"), _quiz_q("q3", "learn", "word")]})
+    assert any("must not depend on order" in e for e in assemble(settings).errors)
+
+
+def test_letter_reference_matches_option_letters_but_not_ordinary_prose():
+    assert LETTER_REFERENCE.search("Option B is right because of X.")
+    assert LETTER_REFERENCE.search("The correct answer C reflects the cost.")
+    assert not LETTER_REFERENCE.search("Analysts answer a basic question: who pays?")
+    assert not LETTER_REFERENCE.search("It was the best choice and a bold one.")

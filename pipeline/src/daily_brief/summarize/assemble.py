@@ -6,7 +6,10 @@ until everything passes.
 
 from __future__ import annotations
 
+import copy
 import json
+import random
+import re
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
@@ -18,6 +21,14 @@ from .prepare import inbox_dir, load_brief_cfg
 from .schemas import SECTION_SCHEMAS, QuizOutput
 
 MAX_ERRORS_SHOWN = 12
+
+# Options are shuffled after validation, so nothing may depend on their order.
+ORDER_DEPENDENT = re.compile(
+    r"of the above|all of these|none of these|both of these|כל התשובות|אף אחת מהתשובות|מהאמור לעיל|כל האמור",
+    re.IGNORECASE,
+)
+# The keyword is case-insensitive but the letter is not, so "answer a question" is not flagged.
+LETTER_REFERENCE = re.compile(r"(?<![A-Za-z])(?i:option|answer|choice) +[A-D](?![A-Za-z])")
 
 
 @dataclass
@@ -49,6 +60,25 @@ def _validation_errors(name: str, e: ValidationError) -> list[str]:
 def _write_json(path: Path, obj) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def shuffle_quiz(quiz: dict, day: str) -> dict:
+    """Shuffle each question's options and remap answer_index.
+
+    The model puts the right answer first or second far too often (over 37 days: A 52x,
+    B 41x, C 17x, D 1x), so a reader could score well by always tapping A. Shuffling in code
+    fixes that. It is seeded by date + question id, so re-running assemble gives the same
+    order, and the same permutation is applied to English and Hebrew so answer_index stays
+    valid for both.
+    """
+    out = copy.deepcopy(quiz)
+    for q in out["questions"]:
+        order = list(range(len(q["en"]["options"])))
+        random.Random(f"{day}:{q['id']}").shuffle(order)
+        for lang in ("en", "he"):
+            q[lang]["options"] = [q[lang]["options"][i] for i in order]
+        q["answer_index"] = order.index(q["answer_index"])
+    return out
 
 
 def assemble(settings: Settings) -> Report:
@@ -102,6 +132,13 @@ def assemble(settings: Settings) -> Report:
             for q in quiz["questions"]:
                 if (q["section"], q["story_id"]) not in story_ids:
                     rep.errors.append(f"quiz/{q['id']}: no story {q['story_id']!r} in section {q['section']!r}")
+                for lang in ("en", "he"):
+                    texts = [*q[lang]["options"], q[lang]["explanation"]]
+                    if any(ORDER_DEPENDENT.search(t) or LETTER_REFERENCE.search(t) for t in texts):
+                        rep.errors.append(
+                            f"quiz/{q['id']} ({lang}): options and explanation must not depend on order "
+                            "(no 'all of the above', no 'option B'); the app shuffles the options"
+                        )
 
     if not rep.ok:
         return rep
@@ -126,7 +163,7 @@ def assemble(settings: Settings) -> Report:
             **extras,
         })
         rep.written.append(f"{section}.json")
-    _write_json(out / "quiz.json", {"date": day, **quiz})
+    _write_json(out / "quiz.json", {"date": day, **shuffle_quiz(quiz, day)})
 
     _write_json(out / "brief.json", {
         "date": day,
