@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Artificial intelligence - AP News",
-     "published": "2026-11-04T09:19:52+00:00",
-     "summary": "Artificial intelligence AP News"
+     "title": "Voters back abortion rights and reject Trump’s redistricting in state ballot measures - AP News",
+     "published": "2026-11-04T09:21:00+00:00",
+     "summary": "Voters back abortion rights and reject Trump’s redistricting in state ballot measures AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "Indonesia's military deploys thousands of troops to boost Jakarta's security after generals' arrest - AP News",
+     "published": "2026-11-04T09:05:00+00:00",
+     "summary": "Indonesia's military deploys thousands of troops to boost Jakarta's security after generals' arrest AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Midterms launch wave of historic firsts for some states — and for the nation - AP News",
      "published": "2026-11-04T09:02:00+00:00",
      "summary": "Midterms launch wave of historic firsts for some states — and for the nation AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
+     "title": "Democrats capture governorships in Texas and other GOP-controlled states in rebuke to Republicans - AP News",
+     "published": "2026-11-04T08:57:00+00:00",
+     "summary": "Democrats capture governorships in Texas and other GOP-controlled states in rebuke to Republicans AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "World shares are mostly higher as Democrats gain majorities in both the US House and Senate - AP News",
+     "published": "2026-11-04T08:53:00+00:00",
+     "summary": "World shares are mostly higher as Democrats gain majorities in both the US House and Senate AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Democrats deliver a stunning rout in Texas to retake power for the first time in decades - AP News",
+     "published": "2026-11-04T08:49:00+00:00",
+     "summary": "Democrats deliver a stunning rout in Texas to retake power for the first time in decades AP News"
+    },
+    {
+     "ref": "ap_world#6",
      "title": "South Africans vote in local elections that could continue the decline of the once-mighty ANC - AP News",
      "published": "2026-11-04T07:59:00+00:00",
      "summary": "South Africans vote in local elections that could continue the decline of the once-mighty ANC AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#7",
      "title": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans - AP News",
      "published": "2026-11-04T07:57:00+00:00",
      "summary": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Asian shares and US futures are mixed as Democrats gain majorities in both the US House and Senate - AP News",
-     "published": "2026-11-04T07:47:00+00:00",
-     "summary": "Asian shares and US futures are mixed as Democrats gain majorities in both the US House and Senate AP News"
+     "ref": "ap_world#8",
+     "title": "In photos: Midterm election night unfolds with big wins and tough losses - AP News",
+     "published": "2026-11-04T07:53:00+00:00",
+     "summary": "In photos: Midterm election night unfolds with big wins and tough losses AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#9",
+     "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses - AP News",
+     "published": "2026-11-04T07:42:00+00:00",
+     "summary": "Takeaways: Voters punish Trump, and the GOP suffers historic losses AP News"
+    },
+    {
+     "ref": "ap_world#10",
      "title": "Democrat Rob Sand wins election to be Iowa’s next governor, flipping the seat - AP News",
      "published": "2026-11-04T07:33:00+00:00",
      "summary": "Democrat Rob Sand wins election to be Iowa’s next governor, flipping the seat AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses - AP News",
-     "published": "2026-11-04T07:11:00+00:00",
-     "summary": "Takeaways: Voters punish Trump, and the GOP suffers historic losses AP News"
+     "ref": "ap_world#11",
+     "title": "Democrat Josh Turek wins election to the US Senate from Iowa as Democrats win US Senate - AP News",
+     "published": "2026-11-04T07:16:00+00:00",
+     "summary": "Democrat Josh Turek wins election to the US Senate from Iowa as Democrats win US Senate AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#12",
      "title": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP - AP News",
      "published": "2026-11-04T07:04:00+00:00",
      "summary": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#13",
+     "title": "Election Day unfolded with relatively few problems, despite worries over Trump election interference - AP News",
+     "published": "2026-11-04T07:01:00+00:00",
+     "summary": "Election Day unfolded with relatively few problems, despite worries over Trump election interference AP News"
+    },
+    {
+     "ref": "ap_world#14",
      "title": "Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat - AP News",
      "published": "2026-11-04T06:57:00+00:00",
      "summary": "Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat AP News"
     },
     {
-     "ref": "ap_world#9",
-     "title": "After midterm losses, Trump stares down the specter of Democratic probes and the race to succeed him - AP News",
-     "published": "2026-11-04T06:44:00+00:00",
-     "summary": "After midterm losses, Trump stares down the specter of Democratic probes and the race to succeed him AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#15",
      "title": "Israel’s election commission says no fraud found in last week’s vote - AP News",
-     "published": "2026-11-04T06:36:30+00:00",
+     "published": "2026-11-04T06:48:46+00:00",
      "summary": "Israel’s election commission says no fraud found in last week’s vote AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#16",
+     "title": "This time, determining which party will control Congress didn’t take days - AP News",
+     "published": "2026-11-04T06:46:00+00:00",
+     "summary": "This time, determining which party will control Congress didn’t take days AP News"
+    },
+    {
+     "ref": "ap_world#17",
      "title": "California could become the first state to tax billionaires’ wealth - AP News",
      "published": "2026-11-04T06:32:00+00:00",
      "summary": "California could become the first state to tax billionaires’ wealth AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "Voters back abortion rights and reject Trump’s redistricting in state ballot measures - AP News",
-     "published": "2026-11-04T06:32:00+00:00",
-     "summary": "Voters back abortion rights and reject Trump’s redistricting in state ballot measures AP News"
-    },
-    {
-     "ref": "ap_world#13",
+     "ref": "ap_world#18",
      "title": "Democrat Hakeem Jeffries poised to make history as the first Black speaker of the House - AP News",
      "published": "2026-11-04T06:30:00+00:00",
      "summary": "Democrat Hakeem Jeffries poised to make history as the first Black speaker of the House AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#19",
      "title": "Democrat Annie Andrews wins US Senate election in South Carolina over Republican Darline Graham - AP News",
      "published": "2026-11-04T06:29:00+00:00",
      "summary": "Democrat Annie Andrews wins US Senate election in South Carolina over Republican Darline Graham AP News"
     },
     {
-     "ref": "ap_world#15",
-     "title": "Democrat Josh Turek wins election to the US Senate from Iowa as Democrats win US Senate - AP News",
-     "published": "2026-11-04T06:27:00+00:00",
-     "summary": "Democrat Josh Turek wins election to the US Senate from Iowa as Democrats win US Senate AP News"
-    },
-    {
-     "ref": "ap_world#16",
+     "ref": "ap_world#20",
      "title": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race - AP News",
      "published": "2026-11-04T06:27:00+00:00",
      "summary": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#21",
      "title": "Sherrod Brown flips Senate seat in Ohio for Democrats by ousting Sen. Jon Husted - AP News",
      "published": "2026-11-04T06:25:00+00:00",
      "summary": "Sherrod Brown flips Senate seat in Ohio for Democrats by ousting Sen. Jon Husted AP News"
     },
     {
-     "ref": "ap_world#18",
-     "title": "FACT FOCUS: False accusations and unverified claims quickly spread about Election Day voting - AP News",
-     "published": "2026-11-04T06:21:00+00:00",
-     "summary": "FACT FOCUS: False accusations and unverified claims quickly spread about Election Day voting AP News"
-    },
-    {
-     "ref": "ap_world#19",
+     "ref": "ap_world#22",
      "title": "Democrat Gina Hinojosa elected Texas' first Latina governor, ousts Republican incumbent Greg Abbott - AP News",
      "published": "2026-11-04T06:13:00+00:00",
      "summary": "Democrat Gina Hinojosa elected Texas' first Latina governor, ousts Republican incumbent Greg Abbott AP News"
     },
     {
-     "ref": "ap_world#20",
-     "title": "Democrats capture governorships in Texas and other GOP-controlled states in rebuke to Republicans - AP News",
-     "published": "2026-11-04T06:07:00+00:00",
-     "summary": "Democrats capture governorships in Texas and other GOP-controlled states in rebuke to Republicans AP News"
-    },
-    {
-     "ref": "ap_world#21",
+     "ref": "ap_world#23",
      "title": "Troy Jackson wins the Maine US Senate race over GOP Sen. Susan Collins in a key Democratic victory - AP News",
      "published": "2026-11-04T06:04:00+00:00",
      "summary": "Troy Jackson wins the Maine US Senate race over GOP Sen. Susan Collins in a key Democratic victory AP News"
     },
     {
-     "ref": "ap_world#22",
-     "title": "Vote-scanning machine malfunction to delay counting in New York’s Westchester County - AP News",
-     "published": "2026-11-04T05:56:00+00:00",
-     "summary": "Vote-scanning machine malfunction to delay counting in New York’s Westchester County AP News"
-    },
-    {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack - AP News",
      "published": "2026-11-04T05:51:00+00:00",
      "summary": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Democrat Xavier Becerra wins California governor’s race, defeating Republican Steve Hilton - AP News",
-     "published": "2026-11-04T05:33:00+00:00",
-     "summary": "Democrat Xavier Becerra wins California governor’s race, defeating Republican Steve Hilton AP News"
     }
    ]
   },
@@ -174,51 +174,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+     "published": "2026-11-04T10:35:03+00:00",
+     "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Iran's chief negotiator says Americans voted 'no to war'",
+     "published": "2026-11-04T10:11:39+00:00",
+     "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "How America voted in maps and charts",
+     "published": "2026-11-04T09:53:18+00:00",
+     "summary": "See the maps and charts that show how America voted in the US midterm elections."
+    },
+    {
+     "ref": "bbc_world#3",
      "title": "Key moments from a night of midterm election firsts",
      "published": "2026-11-04T09:01:40+00:00",
      "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#4",
      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
      "published": "2026-11-04T07:39:38+00:00",
      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#5",
      "title": "South Carolina elects Democratic senator for first time in almost three decades",
      "published": "2026-11-04T07:32:02+00:00",
      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death."
     },
     {
-     "ref": "bbc_world#3",
-     "title": "How America voted in maps and charts",
-     "published": "2026-11-04T07:24:59+00:00",
-     "summary": "See the maps and charts that show how America voted in the US midterm elections."
-    },
-    {
-     "ref": "bbc_world#4",
-     "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
-     "published": "2026-11-04T07:17:08+00:00",
-     "summary": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route."
-    },
-    {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Florida Republicans fend off Democrats as state elects first black governor",
      "published": "2026-11-04T07:12:21+00:00",
      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
      "published": "2026-11-04T06:53:56+00:00",
      "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats."
-    },
-    {
-     "ref": "bbc_world#7",
-     "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-     "published": "2026-11-04T06:07:24+00:00",
-     "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials."
     },
     {
      "ref": "bbc_world#8",
@@ -288,7 +288,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#19",
-     "title": "How sporting events are being impacted by Middle East conflict",
+     "title": "How sporting events are being affected by Middle East conflict",
      "published": "2026-11-03T16:01:24+00:00",
      "summary": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area."
     },
@@ -354,54 +354,66 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
-     "title": "What Sanctions Get Right",
-     "published": "2026-11-03T09:00:00+00:00",
-     "summary": "A useful tool has been unjustly maligned."
+     "title": "The Dangers of a Lame-Duck Trump",
+     "published": "2026-11-04T09:00:00+00:00",
+     "summary": "How far will he go to make peace—and war?"
     },
     {
      "ref": "foreign_affairs#1",
+     "title": "The Missing Critical Minerals Investment",
+     "published": "2026-11-04T09:00:00+00:00",
+     "summary": "To catch up to China, America and its allies must dig."
+    },
+    {
+     "ref": "foreign_affairs#2",
      "title": "The Fight for the Future of Democratic Foreign Policy",
      "published": "2026-11-03T09:00:00+00:00",
      "summary": "Which debates matter most for 2028."
     },
     {
-     "ref": "foreign_affairs#2",
+     "ref": "foreign_affairs#3",
+     "title": "What Sanctions Get Right",
+     "published": "2026-11-03T09:00:00+00:00",
+     "summary": "A useful tool has been unjustly maligned."
+    },
+    {
+     "ref": "foreign_affairs#4",
      "title": "America’s AI Ambitions Depend on Taiwan",
      "published": "2026-11-03T05:00:00+00:00",
      "summary": "The United States and China are locked in a global competition to determine who will dominate artificial intelligence and whether it will be democracies or autocracies that set the standards and values of the new digital age. The United States leads the world in the sophistication and power of its artificial intelligence models, and its innovation base and investment in research and development re"
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#5",
      "title": "The Limits of China’s Self-Sufficiency",
      "published": "2026-11-02T09:00:00+00:00",
      "summary": "China’s Food Insecurity Could Prevent a War Over Taiwan"
     },
     {
-     "ref": "foreign_affairs#4",
+     "ref": "foreign_affairs#6",
      "title": "How America Can Counter Chinese Coercion",
      "published": "2026-11-02T09:00:00+00:00",
      "summary": "The case for an economic security alliance."
     },
     {
-     "ref": "foreign_affairs#5",
+     "ref": "foreign_affairs#7",
      "title": "Can the Nordic Model Save NATO?",
      "published": "2026-10-30T08:00:00+00:00",
      "summary": "A new way to deter Russia."
     },
     {
-     "ref": "foreign_affairs#6",
+     "ref": "foreign_affairs#8",
      "title": "North Korea’s Enemies Within",
      "published": "2026-10-30T08:00:00+00:00",
      "summary": "How long will elites stay loyal to Kim Jong Un?"
     },
     {
-     "ref": "foreign_affairs#7",
+     "ref": "foreign_affairs#9",
      "title": "Don’t Go Backward on China Policy",
      "published": "2026-10-29T08:00:00+00:00",
      "summary": "The folly of a hawkish restoration."
     },
     {
-     "ref": "foreign_affairs#8",
+     "ref": "foreign_affairs#10",
      "title": "Only the Gulf Can End the Iran War",
      "published": "2026-10-29T08:00:00+00:00",
      "summary": "The Arab monarchies must help Washington and Tehran save face."
@@ -414,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Spain's Sanchez reshuffles cabinet after transport minister quits over train crashes - Reuters",
+     "published": "2026-11-04T09:31:53+00:00",
+     "summary": "Spain's Sanchez reshuffles cabinet after transport minister quits over train crashes Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "India rupee set to resume slide as foreign inflows remain weak - Reuters",
+     "published": "2026-11-04T08:45:01+00:00",
+     "summary": "India rupee set to resume slide as foreign inflows remain weak Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Abdul El-Sayed becomes first Muslim elected to US Senate - Reuters",
      "published": "2026-11-04T07:35:00+00:00",
      "summary": "Abdul El-Sayed becomes first Muslim elected to US Senate Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
+     "title": "BMW warns on profit again as restructuring costs bite - Reuters",
+     "published": "2026-11-04T07:21:00+00:00",
+     "summary": "BMW warns on profit again as restructuring costs bite Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
      "title": "BMW reports lower Q3 earnings as restructuring spells more pain towards end of year - Reuters",
      "published": "2026-11-04T06:34:00+00:00",
      "summary": "BMW reports lower Q3 earnings as restructuring spells more pain towards end of year Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#5",
      "title": "EXCLUSIVE: Lindt investors seek board shake-up at chocolate maker after CEO ouster - Reuters",
      "published": "2026-11-04T06:02:00+00:00",
      "summary": "EXCLUSIVE: Lindt investors seek board shake-up at chocolate maker after CEO ouster Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#6",
      "title": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr - Reuters",
      "published": "2026-11-04T05:57:00+00:00",
      "summary": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#7",
      "title": "Morning Bid: Markets fret blue wave will drown data centres - Reuters",
      "published": "2026-11-04T05:41:00+00:00",
      "summary": "Morning Bid: Markets fret blue wave will drown data centres Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
      "title": "Democrat Troy Jackson ousts Republican Senator Susan Collins in Maine - Reuters",
      "published": "2026-11-04T05:27:00+00:00",
      "summary": "Democrat Troy Jackson ousts Republican Senator Susan Collins in Maine Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports - Reuters",
      "published": "2026-11-04T05:21:00+00:00",
      "summary": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "Cruise ship leaves Cambodia after forcing hundreds of passengers off - Reuters",
      "published": "2026-11-04T05:19:00+00:00",
      "summary": "Cruise ship leaves Cambodia after forcing hundreds of passengers off Reuters"
     },
     {
-     "ref": "reuters_world#8",
-     "title": "Trump acknowledges Iran role in Democratic sweep - Reuters",
+     "ref": "reuters_world#11",
+     "title": "Trump acknowledges role of Iran war in Democratic sweep in midterm elections - Reuters",
      "published": "2026-11-04T05:17:00+00:00",
-     "summary": "Trump acknowledges Iran role in Democratic sweep Reuters"
+     "summary": "Trump acknowledges role of Iran war in Democratic sweep in midterm elections Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "Indonesia president sacks chief of staff over alleged wiretap - Reuters",
      "published": "2026-11-04T05:11:00+00:00",
      "summary": "Indonesia president sacks chief of staff over alleged wiretap Reuters"
     },
     {
-     "ref": "reuters_world#10",
-     "title": "Senator Jon Ossoff wins reelection, holding Georgia for Democrats - Reuters",
-     "published": "2026-11-04T05:02:13+00:00",
-     "summary": "Senator Jon Ossoff wins reelection, holding Georgia for Democrats Reuters"
-    },
-    {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Democrat Josh Turek flips Republican-held US Senate seat in Iowa - Reuters",
      "published": "2026-11-04T04:34:00+00:00",
      "summary": "Democrat Josh Turek flips Republican-held US Senate seat in Iowa Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "Adam Hamilton becomes first Democrat elected to US Senate from Kansas in 94 years - Reuters",
      "published": "2026-11-04T04:24:00+00:00",
      "summary": "Adam Hamilton becomes first Democrat elected to US Senate from Kansas in 94 years Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "One Indian killed in attack on ship near Oman, Indian foreign ministry says - Reuters",
      "published": "2026-11-04T04:23:34+00:00",
      "summary": "One Indian killed in attack on ship near Oman, Indian foreign ministry says Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "China's solar push reshapes traditional ways of life on Tibet's high plateau - Reuters",
      "published": "2026-11-04T04:16:00+00:00",
      "summary": "China's solar push reshapes traditional ways of life on Tibet's high plateau Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Democrat Sherrod Brown wins back US Senate seat in Ohio - Reuters",
      "published": "2026-11-04T04:12:00+00:00",
      "summary": "Democrat Sherrod Brown wins back US Senate seat in Ohio Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "James Talarico becomes first Democrat to win statewide in Texas since 1994 - Reuters",
      "published": "2026-11-04T04:04:00+00:00",
      "summary": "James Talarico becomes first Democrat to win statewide in Texas since 1994 Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
+     "title": "World Bank urges Kenya to curb graft, raises 2026 growth forecast - Reuters",
+     "published": "2026-11-04T04:03:00+00:00",
+     "summary": "World Bank urges Kenya to curb graft, raises 2026 growth forecast Reuters"
+    },
+    {
+     "ref": "reuters_world#20",
      "title": "Trump says he is willing to accept midterm election results, NYT reports - Reuters",
      "published": "2026-11-04T04:02:00+00:00",
      "summary": "Trump says he is willing to accept midterm election results, NYT reports Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
      "title": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz - Reuters",
      "published": "2026-11-04T03:50:00+00:00",
      "summary": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#22",
      "title": "Democrats projected to win majority control of US House, US media project - Reuters",
      "published": "2026-11-04T03:18:00+00:00",
      "summary": "Democrats projected to win majority control of US House, US media project Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#23",
      "title": "Democrat Annie Andrews wins US Senate seat in South Carolina upset - Reuters",
      "published": "2026-11-04T03:17:00+00:00",
      "summary": "Democrat Annie Andrews wins US Senate seat in South Carolina upset Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#24",
      "title": "Democrats flip US Representative Tom Kean's New Jersey district - Reuters",
      "published": "2026-11-04T02:52:00+00:00",
      "summary": "Democrats flip US Representative Tom Kean's New Jersey district Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Indian stocks inch higher as investors assess foreign fund flows, US election results - Reuters",
-     "published": "2026-11-04T02:39:00+00:00",
-     "summary": "Indian stocks inch higher as investors assess foreign fund flows, US election results Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Rupee claims near two-week high as US midterms singe dollar, flows improve - Reuters",
-     "published": "2026-11-04T02:36:00+00:00",
-     "summary": "Rupee claims near two-week high as US midterms singe dollar, flows improve Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state - Reuters",
-     "published": "2026-11-04T02:33:00+00:00",
-     "summary": "Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state Reuters"
     }
    ]
   }
