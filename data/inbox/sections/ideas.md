@@ -144,87 +144,87 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The election",
+     "published": "2026-11-04T07:41:25+00:00",
+     "summary": "Procedurally it seems to have gone just fine, and the people predicting “the end of democracy in America” now look foolish. They have been suffering under fundamental misunderstandings of how this country works. During this election cycle, democracy never was under threat and the United States has not been under risk of fascism. Rising in […] The post The election appeared first on Marginal REVOLU"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Trade and the end of antiquity, or did Islam serve to deglobalize the world?",
+     "published": "2026-11-04T05:54:16+00:00",
+     "summary": "How did trade and economic activity evolve at the End of Antiquity, when political power shifts away from the Mediterranean towards the Middle East and northern Europe? No records of ancient production, consumption, and trade exist. Yet the composition of coin finds reveals information about monetized transactions, as coins gradually diffused along trade routes. To […] The post Trade and the end o"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Ireland fact of the day",
      "published": "2026-11-03T19:26:51+00:00",
      "summary": "Almost half of Ireland’s corporation tax haul comes from just three companies: Apple, Eli Lilly and Microsoft. Here is much more from Jude Webber at the FT, on why Ireland does not always feel or operate like a wealthy country. The post Ireland fact of the day appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Tuesday assorted links",
      "published": "2026-11-03T17:01:23+00:00",
      "summary": "1. Jason Furman on AI and the CEA. 2. Matt Kahn uses Refine and gets results. 3. Cyril Hilsum, RIP (flat screen TV, NYT). 4. How much of the return to education is in fact a return to genes? 5. Essay contest on how AI will affect developing economies. 6. AI sanity from Nicholas Decker. […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Thoughts on Owning a Self-Driving Tesla",
      "published": "2026-11-03T12:18:06+00:00",
      "summary": "My Subaru was showing its years so I recently bought a Tesla. My thinking was I can buy a car or I can buy a car+driver for the same price. Simple choice. I’ve driven about 2000 miles including one long trip (6 hours) to North Carolina and back. FSD is incredible. I don’t mind driving […] The post Thoughts on Owning a Self-Driving Tesla appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "The economics of tips",
      "published": "2026-11-03T07:58:10+00:00",
      "summary": "Tipping is large and growing, but we know little about its consequences for workers and firms. We link point-of-sale and payroll records at 20,000 U.S. firms, which lets us observe tips from customer payment to worker earnings. We find that tips are a nearly constant share of revenue, which means hourly pay moves with revenue. […] The post The economics of tips appeared first on Marginal REVOLUTIO"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Are economists declining in status?",
      "published": "2026-11-03T05:22:51+00:00",
      "summary": "That is the theme of my latest Free Press article. Excerpt, which offers the beginning of the story: If we look at the 1960s, the John F. Kennedy and Lyndon Baines Johnson administrations brought James Tobin, Robert Solow, Kenneth Arrow (all three later Nobel laureates), Arthur Okun, Walter Heller, Gardner Ackley, Otto Eckstein, and Walt […] The post Are economists declining in status? appeared fi"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "*Fjord* and *Fatherland*",
      "published": "2026-11-02T19:44:38+00:00",
      "summary": "Both of these movies I found worth watching. Fjord won the Golden Prize at Cannes, and it concerns the rights of the family vs. the rights of the state, when it comes to raising children. As I interpreted the story, it was so right-wing and so based I am shocked it won. It is by […] The post *Fjord* and *Fatherland* appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Monday assorted links",
      "published": "2026-11-02T17:13:35+00:00",
      "summary": "1. Why is it now so common to be asked about your food allergies? (GPT Pro answer) 2. Training for alignment, applies principal-agent theory. 3. Do people offload empathy when they think AI can give it instead? 4. The Wallace line. 5. AI can draw blueprints now. 6. Ed Glaeser review of the new book […] The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Expensive Pharmaceuticals for Targeted Diseases",
      "published": "2026-11-02T12:16:34+00:00",
      "summary": "My latest paper, The Price of a Cure: Luxturna and the Economic Dilemmas of Precision Medicine, is in the Journal of Law, Medicine and Ethics. I discuss the economics of the pharmaceutical industry and the special issues that arise with targeted drugs that cure. We are going to get many more of these drugs in […] The post Expensive Pharmaceuticals for Targeted Diseases appeared first on Marginal R"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Should you feel grief for the dead who go to heaven?",
      "published": "2026-11-02T05:24:47+00:00",
      "summary": "I am not myself religious, but let us consider the possible gulf between behavior and doctrine amongst those who are. It has long struck me as a kind of mini-puzzle why people feel so much grief for the departed, at least for the departed who are supposed to be headed for heaven (and yes there […] The post Should you feel grief for the dead who go to heaven? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "As predicted, the ACA exchanges seem not to be stable",
      "published": "2026-11-01T19:53:38+00:00",
      "summary": "The average price of health insurance in the Obamacare marketplaces will rise by 13 percent next year, according to an analysis on Friday by KFF, the health research group. The Trump administration on Friday published new prices for 2027 in 30 states with markets managed by the federal government. Using that data and state figures, […] The post As predicted, the ACA exchanges seem not to be stable"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Sunday assorted links",
      "published": "2026-11-01T16:31:04+00:00",
      "summary": "1. Jakob Davidsen, The Individual and the Entire Tissue (song cycle). It is good. 2. The Oilers Entertainment Group pushed prices too high and here is what happened. 3. The “endless cruise” has ended. 4. Should driverless vehicles replace school buses? 5. Art Nouveau and more in Mexico City. 6. How are potential mathematicians responding […] The post Sunday assorted links appeared first on Margina"
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "What are the Worst MR Posts?",
      "published": "2026-11-01T12:18:51+00:00",
      "summary": "What are the worst MR posts, most illogical, poorly reasoned, low value, inconsistent? From the Archives, written by ChatGPT: These are provisional candidates for weak reasoning, selected because there is a specific gap between the evidence and the conclusion. This is not an objective ranking of all 40,326 posts in the downloaded archive. Poor reasoning […] The post What are the Worst MR Posts? ap"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Those new service sector jobs?",
-     "published": "2026-11-01T07:55:35+00:00",
-     "summary": "A suburban Chicago man has been sentenced to two years in federal prison for conspiring to stage armed robberies so that the purported victims could apply for U.S. immigration visas reserved for crime victims. From 2022 to 2024, PARTH NAYI organized and participated in hundreds of staged armed robberies at coffee shops, restaurants, liquor stores, and gas […] The post Those new service sector jobs"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Are LLMs good or bad Bayesians?",
-     "published": "2026-11-01T04:17:10+00:00",
-     "summary": "Bryan Caplan: It seems like you and other AIs are bad Bayesians. When presented with counterevidence, you should move toward or against the presenter with roughly equal probability. It depends on whether the argument was better or worse than expected. In fact, you seem to either move toward the speaker or just not change. ChatGPT: […] The post Are LLMs good or bad Bayesians? appeared first on Marg"
     }
    ]
   },
@@ -327,8 +327,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#0",
      "title": "Is There Anything Left in the Dream of Cold Fusion?",
      "published": "2026-11-02T15:48:57+00:00",
-     "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_0.txt"
+     "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#1",
