@@ -28,6 +28,8 @@ Orland is credited on Uelsmann's Wikipedia page as the photographer of a 1969 po
 
 someone should just actually run a good version of this experiment! there's been so much ink spilled on it that it makes sense to actually just go and do it.
 
+It doesn't call for an experiment. If anything, a meta-analysis of writing books. Start with Allison K Williams's Seven Drafts, which includes the same ceramics parable.Photography students need to refine and habitualize observation. Best way to do that is to take a lot of photos. For an advanced photographer like Gregory Crewdson, a preponderance of thinking and planning are essential to making his detailed large-format prints, some 6 ft x 8ft. He has spent months preparing for a photoshoot. (https://frameandfocal.com/photography-tips/gregory-crewdsons-cinematic-shots-displayed-in-the-first-major-retrospective; or watch film, Gregory Crewdson: Brief Encounters.)A writer needs to both think and write. Some writers are held back by one or the other at different stages of their life.
+
 If an academic faked a study, then later said "Okay yes I fabricated this data but here's this other data that's totally real", we would not trust them. Here we have a pair of writers who are under laxer truth standards than academics saying "Okay yes we fabricated this anecdote but here's this other anecdote that's totally real". I think the author of this post and the commenters are being too trusting when they proceed as if the photography anecdote is real.
 
 Otoh, it would be pretty surprising if more bites at the apple in a medium where checking your work takes weeks didn't produce better peak results.
@@ -66,19 +68,29 @@ Clarification after chatting with claude: It's the conditional probability of th
 
 There's also some annoying stuff around how getting high variance in the results doesn't mean the domain isn't skill based since it is only the conditional on the mean moving that matters. So the writing thing might actually not be true in terms of being a non-skilled domain, it is more that it is inherently high variance in the feedback domain.
 
+I used the Clay Pots story a lot over the past few years and it was very frustrating to find out it about photography. (I interpreted the Clay Pots version to be more about gaining skill via repeated drills, and the photography version, insofar as it's true at all, seems more about "shots on goal", since it's normal to take tons of photos and only some are good).
+
+Praise be to the people who dig into good-sounding-anecdotes and find out the truth.
+
+I do, uh, still basically believe it, but primarily for "the rest of my personal life experience" reasons rather than anything specific to the anecdote.
+
 I believe the original anecdotes confound opportunities for success versus increasing opportunities to succeed.
 
 For example, if one were to run the photography experiment, 20 photographs versus 1000 photographs, its clear the 1000 photograph set has more opportunity for something remarkable: a chance meeting of subject, angle, framing, and light.
 
 What would be useful would be to lay the photographs out chronologically: is the best photograph closer to the first or the last? And if we asked 10 judges to lay out the photographs in order of quality, and compared their ratings, then compared the aggregate to the order of the photographs, is there correlation?
 
+My presumption is that all teaching stories are fiction.
+
+They may express wise truths or they may not, but the story frame is pretty wrapping, not evidence. Even if the story as told is literally true, it’s still just a data point. For the pots (or photographs) story, or for that matter the entire works of Oliver Sacks, Malcolm Gladwell, and the like, and the entire “self-help” genre, I look for whatever may be useful in them for myself and ignore the larger claims.
+
+For writers who say that everything in their stories is true, they’re just merging and simplifying real case studies, well, that’s a common way for writers of avowed fiction to invent their characters. You don’t have to realise you’re writing fiction, to be writing fiction.
+
 Keep going! By the process of elimination our descendants will one day figure it out.
 
-I used the Clay Pots story a lot over the past few years and it was very frustrating to find out it about photography. (I interpreted the Clay Pots version to be more about gaining skill via repeated drills, and the photography version, insofar as it's true at all, seems more about "shots on goal", since it's normal to take tons of photos and only some are good).
+careful! If we keep trying ones we might be favoring quantity over quality
 
-Praise be to the people who dig into good-sounding-anecdotes and find out the truth.
-
-I do, uh, still basically believe it, but primarily for "the rest of my personal life experience" reasons rather than anything specific to the anecdote.
+Neither quality nor quantity is sufficient to completely overwhelm the opposition. But it would be in some specific field and needs. i.e : When it comes to famine, quantity is more important than quality. However, if "quality" is defined by how well something meets basic human survival needs, then in this context, quality can be considered equivalent to quantity. Yet, when the difficulty of obtaining high-quality items exceeds that of obtaining a larger quantity of items, then quantity once again becomes more significant. The experiment in question lacks persuasive power—most likely for the very reason the author points out: "What does 'all works of highest quality' even mean? If you sort all the produced works by quality, where does 'highest quality' stop? You have to draw the threshold somewhere." The definition is simply too vague.
 
 So will I get better at writing by writing a bunch of posts? Sadly, this story does not answer that, but we can just wait and see.
 
@@ -86,11 +98,13 @@ Even if it was a rigorous study, the story cannot answer that for anyone. "You w
 
 It might be "good advice" because of sampling bias, in that the people who seek out and read advice are disproportionately the people who think too much and do too little. But ultimately whether it is actually true comes down to you, not the proportion of overthinkers in the population.
 
-My presumption is that all teaching stories are fiction.
+Come on, obviously actually good studies should affect your predictions and your actions. If a study found that the vast majority of people improved a lot doing quantity vs doing quality for a wide swath of tasks then this should clearly lead you to try the thing that worked for more people first and for longer. The proportion of people that respond in a certain way should obviously affect your predictions about whether you are one of the people who will be affected in that way.
 
-They may express wise truths or they may not, but the story frame is pretty wrapping, not evidence. Even if the story as told is literally true, it’s still just a data point. For the pots (or photographs) story, or for that matter the entire works of Oliver Sacks, Malcolm Gladwell, and the like, and the entire “self-help” genre, I look for whatever may be useful in them for myself and ignore the larger claims.
+I would hope that I have tried enough things and have enough self-knowledge about what works for me that an update to my prior over all humans would do very little.
 
-For writers who say that everything in their stories is true, they’re just merging and simplifying real case studies, well, that’s a common way for writers of avowed fiction to invent their characters. You don’t have to realise you’re writing fiction, to be writing fiction.
+(Edit: Anecdotally, in domains like art or writing, the baseline level of experience and experimentation required to achieve anything is already very high.)
+
+Meh? But anyways, why not just use it as a source of things to try? And depending on how strong the study is, you can definitely get significant information. How many instances of trying to quality vs quantity have most people done, and how strong of a signal is that anyways? Sure, if the advice sounds stupid for me given my experiences and other self-knowledge, then I'll think it probably won't work unless there's good evidence that it works for the vast majority of people (instead of the usual thing the studies tell you, which is that there's meh quality evidence that it maybe works a bit for a majority). But even then if the other ideas don't work and the other one is cheap to try, then I try to try it anyway.
 
 Edit: a couple hour after posting the rest of this comment, oops it turns out this post is in fact pointing out that an anecdote held up as evidence for quantity getting you quality, is in fact less solid then it’s historically been treated as and ultimately hearsay + some fabrication. In my mostly joking defense, at least my failure mode here was a bit like the one describe in the post—maybe it’s just that memetically fit a conclusion to jump to (because obv me needing to slow down and read what’s actually there can’t possibly just be a thing.)
 
@@ -116,9 +130,43 @@ Think what’s meant is the anecdote being false. But agree, like I’ve been th
 
 My foul. Got very excited by thought that I had occur and posted it at the end of the first paragraph without reading the rest. Note taken for future commenting.
 
-I suspect the object of this parable gets replaced frequently during oral transmission. I think I’d heard it about birdhouses
+I actually did that experiment in a photography course in 2016. How uncanny. As I was reading it, I knew I recognised it from somewhere. I was racking my brain for what, but then, when you said that it originated from photography, not pottery or any other medium it clicked. Now my focus is AI, and I'm doing a lot of research and little photography, so it brought me back.
 
-Neither quality nor quantity is sufficient to completely overwhelm the opposition. But it would be in some specific field and needs. i.e : When it comes to famine, quantity is more important than quality. However, if "quality" is defined by how well something meets basic human survival needs, then in this context, quality can be considered equivalent to quantity. Yet, when the difficulty of obtaining high-quality items exceeds that of obtaining a larger quantity of items, then quantity once again becomes more significant. The experiment in question lacks persuasive power—most likely for the very reason the author points out: "What does 'all works of highest quality' even mean? If you sort all the produced works by quality, where does 'highest quality' stop? You have to draw the threshold somewhere." The definition is simply too vague.
+Do you mean the experiment with Jerry Uelsmann? Or an experiment like that one in a different photography course? How was it set up? What was your impression?
+
+This is discouraging to read on the morning of a major election. It leaves me with the impression that my efforts to be well-informed and to follow the evidence (e.g. on how to become a better writer) seem just as likely to mislead me, because the evidence might be fabricated or misrepresented beyond my ability to investigate. (Even if I could investigate one claim satisfactorily, I wouldn't have the time to do it for most important claims.)
+
+It doesn't help my outlook that, within the last few months, I've caught one serious epistemic error from Transformer News and another from 404 Media, and neither publication has properly acknowledged it when challenged.
+
+because the evidence might be fabricated or misrepresented beyond my ability to investigate. (Even if I could investigate one claim satisfactorily, I wouldn't have the time to do it for most important claims.)
+
+I want to push back on that. You too can use the power of... just not believing things just because people say they're true. It's a very achievable power.
+
+Like, the pottery story isn't an incredibly cunning lie, it's just two people who baaaasically decided to make shit up because they though it would be cool if what they said was true (assuming this article is right, I haven't checked it). People do that all the time! Your default assumption when reading some unsourced factual claim on the internet should be "maybe they read something someone made up".
+
+ChatGPT makes it especially easy to do in-depth checking, because by now it's pretty good at internet detective work (using search engines, looking for variations of a quote, searching for an original source) and it can give you the condensed result, but really, that's just icing on the cake.
+
+The basic skill of saying "wait, is that actually true or just complete bullshit" and pushing back on unsourced claims is the part that matters, you don't actually need to follow up on every single claim you read.
+
+You can still "be well-informed and follow the evidence" as long as there's... like, actual information and actual evidence, not just people uncritically repeating what they saw/read/heard.
+
+I think it would depend on how good you are at mental modeling. If you are that rare person who is able to plan out the perfect pot in your mind then execute it according to your mental model, then you will have better results over simply making a bunch of pots that display your average skill. But that isn't most people. And some people don't even have the mental modeling capacity to reliably learn from their mistakes. (I have a friend who is like that--she almost never internalizes feedback from her own experiences, but instead always relies on an external authority to tell her how to do something. I find that fascinating.)
+
+While reading this, I wasn't really paying attention to the validity of the experiment or anything like that. I was simply trying to relate it to real life and think about what it means in practice.
+
+I don't think you can produce something of good quality the first time you try. As the saying goes, the first pancake is never quite right!
+
+What the research doesn't tell us is at what point the first group achieved good quality – was it after the third attempt or the tenth? Maybe you don't need 40 attempts; maybe you only need one.
+
+But expecting to produce something of good quality straight away is quite utopian and, in reality, very unlikely. More importantly, you risk missing out on a huge part of the process: experimenting, being curious, trying different things and discovering something new along the way, while gradually bringing it to the standard you want.
+
+Agreed that it was a little disappointing that the tale was not told verbatim. I can assume some confirmation bias in my own take on it, due to my own experiences (my own clay pots "tale" https://www.unresolvedforces.com/ufbook/02_The_Link_to_Agile/03_Moving_away_from_documentation_and_requirements_gathering.html) but also in others. 'How Big Things Get Done' covers it without naming it, iirc, with the idea of smaller, voluminous projects being more likely to be successful, simply because practice makes adept. And I think that was the point of the tale for me. It wasn't that the numerous pots (or photos) produced a better best pot, but produced a better potter.
+
+Also, I would love to counter the claim that more photos is more like a lottery ticket, however I have my own counter-counterexample in a really nice photo I took as a child when I had no idea what I was doing when taking it. The crucial question is how the quality distribution lies. Are the numerous photos, code snippets, pots, or watercolour paintings of random quality, or do they become better over the sequence of production? And, if they do improve (again, I have a strong hunch they do), where on that sequence to they eclipse the quality bar of the "one good one" group?
+
+Yes, we should run a better controlled experiment, if ethically possible, because it could reveal a better way to teach and learn (especially if it counters the original claim as many people have built training around the concept).
+
+I suspect the object of this parable gets replaced frequently during oral transmission. I think I’d heard it about birdhouses
 
 What does "all works of highest quality" even mean? If you sort all the produced works by quality, where does "highest quality" stop? You have to draw the threshold somewhere.
 
