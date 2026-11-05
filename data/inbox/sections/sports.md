@@ -29,26 +29,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-04T17:45:00Z",
-     "home": "Fenerbahçe",
-     "away": "Liverpool",
-     "status": "FINISHED",
-     "score": "3-2"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T17:45:00Z",
      "home": "PAE AEK",
      "away": "Real Madrid",
      "status": "FINISHED",
      "score": "2-3"
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-04T19:45:00Z",
-     "home": "Wrexham",
-     "away": "Middlesbrough",
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T17:45:00Z",
+     "home": "Fenerbahçe",
+     "away": "Liverpool",
      "status": "FINISHED",
-     "score": "2-0"
+     "score": "3-2"
     },
     {
      "competition": "Championship",
@@ -59,36 +51,28 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-3"
     },
     {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Slavia Praha",
-     "away": "Arsenal",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Dortmund",
-     "away": "Real Betis",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "RC Lens",
-     "away": "Como 1907",
-     "status": "FINISHED",
-     "score": "1-9"
-    },
-    {
      "competition": "Championship",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Bristol City",
-     "away": "Wolverhampton",
+     "kickoff_utc": "2026-11-04T19:45:00Z",
+     "home": "Wrexham",
+     "away": "Middlesbrough",
      "status": "FINISHED",
-     "score": "1-2"
+     "score": "2-0"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "Porto",
+     "away": "Napoli",
+     "status": "FINISHED",
+     "score": "4-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "RB Leipzig",
+     "away": "Man City",
+     "status": "FINISHED",
+     "score": "2-3"
     },
     {
      "competition": "UEFA Champions League",
@@ -109,29 +93,37 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Porto",
-     "away": "Napoli",
+     "home": "RC Lens",
+     "away": "Como 1907",
      "status": "FINISHED",
-     "score": "4-1"
+     "score": "1-9"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "Bristol City",
+     "away": "Wolverhampton",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "RB Leipzig",
-     "away": "Man City",
+     "home": "Slavia Praha",
+     "away": "Arsenal",
      "status": "FINISHED",
-     "score": "2-3"
+     "score": "1-2"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "Dortmund",
+     "away": "Real Betis",
+     "status": "FINISHED",
+     "score": "2-1"
     }
    ],
    "today": [
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-04T22:30:00Z",
-     "home": "Paranaense",
-     "away": "Vasco da Gama",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-04T22:30:00Z",
@@ -139,6 +131,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Grêmio",
      "status": "FINISHED",
      "score": "3-1"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-11-04T22:30:00Z",
+     "home": "Paranaense",
+     "away": "Vasco da Gama",
+     "status": "FINISHED",
+     "score": "1-3"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -793,33 +793,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Son Heung-min (Los Angeles FC) ranked second in uniform sales in the U.S. Major League Soccer (MLS) - 매일경제",
-     "published": "2026-11-05T06:51:19+00:00",
-     "summary": "Son Heung-min (Los Angeles FC) ranked second in uniform sales in the U.S. Major League Soccer (MLS) 매일경제"
-    },
-    {
-     "ref": "gnews_inter_miami#2",
      "title": "Son Heung-min ranks second behind Messi in MLS jersey sales for second straight year - The Korea Herald",
      "published": "2026-11-05T05:42:33+00:00",
      "summary": "Son Heung-min ranks second behind Messi in MLS jersey sales for second straight year The Korea Herald"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#2",
      "title": "Son Heung-min Second in MLS Jersey Sales for Second Consecutive Year - 조선일보",
      "published": "2026-11-05T05:22:49+00:00",
      "summary": "Son Heung-min Second in MLS Jersey Sales for Second Consecutive Year 조선일보"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#3",
      "title": "Messi and Inter Miami's opponent in the MLS Cup playoffs has been revealed. - Vietnam.vn",
      "published": "2026-11-05T04:59:08+00:00",
      "summary": "Messi and Inter Miami's opponent in the MLS Cup playoffs has been revealed. Vietnam.vn"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#4",
      "title": "Incredibly popular: Thomas Müller outshines several world stars – and pips Robert Lewandowski - LiveScore",
      "published": "2026-11-05T03:40:48+00:00",
      "summary": "Incredibly popular: Thomas Müller outshines several world stars – and pips Robert Lewandowski LiveScore"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
+     "title": "Messi magic! Inter Miami star scores twice in four-minute span - ESPN",
+     "published": "2026-11-05T03:04:37+00:00",
+     "summary": "Messi magic! Inter Miami star scores twice in four-minute span ESPN"
     },
     {
      "ref": "gnews_inter_miami#6",
@@ -973,9 +973,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#5",
-     "title": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions - Yahoo Sports",
-     "published": "2026-11-04T13:00:11+00:00",
-     "summary": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions Yahoo Sports"
+     "title": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions - roundtable.io",
+     "published": "2026-11-04T13:01:53+00:00",
+     "summary": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions roundtable.io"
     },
     {
      "ref": "gnews_israeli_nba#6",
@@ -1069,27 +1069,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#21",
+     "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Oskaloosa Herald",
+     "published": "2026-11-03T04:51:18+00:00",
+     "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Oskaloosa Herald"
+    },
+    {
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Eagle-Tribune",
      "published": "2026-11-03T04:51:18+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Eagle-Tribune"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Trail Blazers' Deni Avdija: Drops season-high 28 points in win - CBS Sports",
      "published": "2026-11-03T04:45:00+00:00",
      "summary": "Trail Blazers' Deni Avdija: Drops season-high 28 points in win CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#24",
      "title": "Deni Avdija gets the basket plus the foul - ESPN",
      "published": "2026-11-03T04:24:08+00:00",
      "summary": "Deni Avdija gets the basket plus the foul ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija gets the and-1 to fall - ESPN",
-     "published": "2026-11-03T02:50:02+00:00",
-     "summary": "Deni Avdija gets the and-1 to fall ESPN"
     }
    ]
   }
