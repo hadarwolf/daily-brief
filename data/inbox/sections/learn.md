@@ -35,7 +35,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 2009,
    "text": "U.S. Army major Nidal Hasan went on a shooting rampage at Fort Hood, Texas, the worst shooting ever to take place on an American military base, killing 13.",
    "context": [
-    "The United States Army is the land service branch of the United States Armed Forces. It is designated as the army of the United States in the United States Constitution. As a part of the United States Department of Defense, it is one of the six armed forces of the United States and one of the eight uniformed services of the United States. Founded in 1784, it succeeded the Continental Army, formed in 1775 during the American Revolutionary War."
+    "The United States Army is the land service branch of the United States Armed Forces. It is designated as the army of the United States in the United States Constitution. As a part of the United States Department of War, it is one of the six armed forces of the United States and one of the eight uniformed services of the United States. Founded in 1784, it succeeded the Continental Army, formed in 1775 during the American Revolutionary War."
    ]
   },
   {
@@ -51,7 +51,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1995,
    "text": "Aline Chrétien (pictured) thwarted André Dallaire's attempt to assassinate her husband, Canadian prime minister Jean Chrétien, by locking the bedroom door in 24 Sussex Drive, their official residence in Ottawa.",
    "context": [
-    "Aline Chrétien was a Canadian academic administrator who was the wife of Canada's 20th prime minister, Jean Chrétien. She previously worked as a secretary, payroll manager, and model. In her later life, she was a trained pianist with The Royal Conservatory of Music."
+    "Aline Chrétien was the wife of Canada's 20th prime minister, Jean Chrétien. She previously worked as a secretary, payroll manager, and model. In her later life, she was a trained pianist with The Royal Conservatory of Music."
    ]
   },
   {

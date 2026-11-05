@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison in 2nd national security case - AP News",
-     "published": "2026-11-05T03:11:00+00:00",
-     "summary": "Hong Kong activist Joshua Wong sentenced to 10 years in prison in 2nd national security case AP News"
+     "title": "Death toll rises to 5 in Nairobi collapsed building tragedy after 3 bodies are found - AP News",
+     "published": "2026-11-05T09:01:00+00:00",
+     "summary": "Death toll rises to 5 in Nairobi collapsed building tragedy after 3 bodies are found AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "Miyu Yamashita shares the first-round LPGA lead in Japan as she tries for two wins in a row - AP News",
+     "published": "2026-11-05T07:49:00+00:00",
+     "summary": "Miyu Yamashita shares the first-round LPGA lead in Japan as she tries for two wins in a row AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Well, well, well: ancient water sources unearthed in southern England - AP News",
+     "published": "2026-11-05T07:48:00+00:00",
+     "summary": "Well, well, well: ancient water sources unearthed in southern England AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Hong Kong activist Joshua Wong jailed for 10 years in 2nd national security case - AP News",
+     "published": "2026-11-05T07:45:00+00:00",
+     "summary": "Hong Kong activist Joshua Wong jailed for 10 years in 2nd national security case AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Klay Thompson hits winning 3 with a second left in OT as Heat rally past skidding Clippers 117-116 - AP News",
+     "published": "2026-11-05T06:52:00+00:00",
+     "summary": "Klay Thompson hits winning 3 with a second left in OT as Heat rally past skidding Clippers 117-116 AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison - AP News",
+     "published": "2026-11-05T06:09:00+00:00",
+     "summary": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Alan Jones, the Australian who became the 1st driver to win an F1 title with Williams, dies aged 80 - AP News",
+     "published": "2026-11-05T05:23:00+00:00",
+     "summary": "Alan Jones, the Australian who became the 1st driver to win an F1 title with Williams, dies aged 80 AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Inflation, tariffs and a voter revolt: The midterm verdict on Trump’s economy - AP News",
+     "published": "2026-11-05T05:04:00+00:00",
+     "summary": "Inflation, tariffs and a voter revolt: The midterm verdict on Trump’s economy AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home - AP News",
+     "published": "2026-11-05T05:02:00+00:00",
+     "summary": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Arab parties extend a hand to try and topple Netanyahu, but challenges remain - AP News",
+     "published": "2026-11-05T05:00:00+00:00",
+     "summary": "Arab parties extend a hand to try and topple Netanyahu, but challenges remain AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Former Chinese Politburo member Ma Xingrui charged with taking bribes - AP News",
+     "published": "2026-11-05T04:43:00+00:00",
+     "summary": "Former Chinese Politburo member Ma Xingrui charged with taking bribes AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Minnesota - AP News",
+     "published": "2026-11-05T04:29:08+00:00",
+     "summary": "Minnesota AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "Valkyries' victory celebration includes Oakland where team practices, San Francisco where games are - AP News",
+     "published": "2026-11-05T03:45:51+00:00",
+     "summary": "Valkyries' victory celebration includes Oakland where team practices, San Francisco where games are AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-05T03:09:38+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "SIU-Edwardsville earns 85-61 win against Concordia of Illinois - AP News",
+     "published": "2026-11-05T03:00:00+00:00",
+     "summary": "SIU-Edwardsville earns 85-61 win against Concordia of Illinois AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "Voters reject proposed taxes tied to planned new arena for NHL’s Dallas Stars - AP News",
+     "published": "2026-11-05T02:28:00+00:00",
+     "summary": "Voters reject proposed taxes tied to planned new arena for NHL’s Dallas Stars AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Israel's president takes first steps on building new government after accepting election results - AP News",
+     "published": "2026-11-05T02:23:00+00:00",
+     "summary": "Israel's president takes first steps on building new government after accepting election results AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "1 deputy dies and another not expected to survive after firefight with suspect at Washington home - AP News",
+     "published": "2026-11-05T02:16:00+00:00",
+     "summary": "1 deputy dies and another not expected to survive after firefight with suspect at Washington home AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "Report: LIV’s financial backer dropping plan for new league in 2027 - AP News",
      "published": "2026-11-05T02:07:25+00:00",
      "summary": "Report: LIV’s financial backer dropping plan for new league in 2027 AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#19",
+     "title": "Australia approves seabed site where a Japanese company will store carbon pollution - AP News",
+     "published": "2026-11-05T02:04:00+00:00",
+     "summary": "Australia approves seabed site where a Japanese company will store carbon pollution AP News"
+    },
+    {
+     "ref": "ap_world#20",
      "title": "Midterms launch wave of historic firsts for some states — and for the nation - AP News",
      "published": "2026-11-05T01:31:00+00:00",
      "summary": "Midterms launch wave of historic firsts for some states — and for the nation AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#21",
      "title": "Bangladesh garment factories close as workers clash with police in pay protests - AP News",
      "published": "2026-11-05T01:24:00+00:00",
      "summary": "Bangladesh garment factories close as workers clash with police in pay protests AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Analysis: Trump has defied political consequences for years. The midterms changed that - AP News",
-     "published": "2026-11-05T01:00:00+00:00",
-     "summary": "Analysis: Trump has defied political consequences for years. The midterms changed that AP News"
-    },
-    {
-     "ref": "ap_world#5",
+     "ref": "ap_world#22",
      "title": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead - AP News",
      "published": "2026-11-05T01:00:00+00:00",
      "summary": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "An acclaimed biography of Alexander the Great wins the Baillie Gifford nonfiction prize - AP News",
-     "published": "2026-11-05T00:46:00+00:00",
-     "summary": "An acclaimed biography of Alexander the Great wins the Baillie Gifford nonfiction prize AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "Artificial intelligence - AP News",
-     "published": "2026-11-05T00:41:04+00:00",
-     "summary": "Artificial intelligence AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "US and Canada are wearing generic jerseys at the women’s world championships - AP News",
-     "published": "2026-11-05T00:27:00+00:00",
-     "summary": "US and Canada are wearing generic jerseys at the women’s world championships AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "JetBlue raises baggage fees for a second time as jet fuel prices stay elevated - AP News",
-     "published": "2026-11-05T00:21:00+00:00",
-     "summary": "JetBlue raises baggage fees for a second time as jet fuel prices stay elevated AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "Alaskans wait for more votes in US Senate, governor's races. Both could go to ranked tabulations - AP News",
-     "published": "2026-11-05T00:21:00+00:00",
-     "summary": "Alaskans wait for more votes in US Senate, governor's races. Both could go to ranked tabulations AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "Trump-backed Republican redistricting sought a midterm edge. It didn’t work - AP News",
-     "published": "2026-11-05T00:09:00+00:00",
-     "summary": "Trump-backed Republican redistricting sought a midterm edge. It didn’t work AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "1 deputy dies and another not expected to survive after firefight with suspect at Washington home - AP News",
-     "published": "2026-11-05T00:04:00+00:00",
-     "summary": "1 deputy dies and another not expected to survive after firefight with suspect at Washington home AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Florida authorities say 2 dead at Tampa office complex, including gunman shot by security guard - AP News",
-     "published": "2026-11-04T23:23:00+00:00",
-     "summary": "Florida authorities say 2 dead at Tampa office complex, including gunman shot by security guard AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Democrats deliver a stunning rout in Texas to retake power for the first time in decades - AP News",
-     "published": "2026-11-04T23:22:00+00:00",
-     "summary": "Democrats deliver a stunning rout in Texas to retake power for the first time in decades AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Obituaries: Notable people who died - AP News",
-     "published": "2026-11-04T23:11:59+00:00",
-     "summary": "Obituaries: Notable people who died AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "3 executions scheduled for the same day in Indiana, Florida and Alabama - AP News",
-     "published": "2026-11-04T23:09:00+00:00",
-     "summary": "3 executions scheduled for the same day in Indiana, Florida and Alabama AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks - AP News",
-     "published": "2026-11-04T22:45:00+00:00",
-     "summary": "El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Valkyries' victory celebration includes Oakland where team practices, San Francisco where games are - AP News",
-     "published": "2026-11-04T22:44:00+00:00",
-     "summary": "Valkyries' victory celebration includes Oakland where team practices, San Francisco where games are AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "1 killed and 2 others injured when a helicopter crashes into bay near Miami, officials say - AP News",
-     "published": "2026-11-04T22:38:00+00:00",
-     "summary": "1 killed and 2 others injured when a helicopter crashes into bay near Miami, officials say AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Vance tries to distance himself from Iran war after GOP’s deep losses in midterm elections - AP News",
-     "published": "2026-11-04T22:07:00+00:00",
-     "summary": "Vance tries to distance himself from Iran war after GOP’s deep losses in midterm elections AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections - AP News",
-     "published": "2026-11-04T21:51:00+00:00",
-     "summary": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Democrat Hakeem Jeffries poised to make history as the first Black speaker of the House - AP News",
-     "published": "2026-11-04T21:41:00+00:00",
-     "summary": "Democrat Hakeem Jeffries poised to make history as the first Black speaker of the House AP News"
-    },
-    {
      "ref": "ap_world#23",
-     "title": "Trump brags about his White House ballroom and seeks to deflect blame for GOP midterm drubbing - AP News",
-     "published": "2026-11-04T21:39:00+00:00",
-     "summary": "Trump brags about his White House ballroom and seeks to deflect blame for GOP midterm drubbing AP News"
+     "title": "Analysis: Trump has defied political consequences for years. The midterms changed that - AP News",
+     "published": "2026-11-05T01:00:00+00:00",
+     "summary": "Analysis: Trump has defied political consequences for years. The midterms changed that AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Which Senate, governors races are still uncalled by The Associated Press - AP News",
-     "published": "2026-11-04T21:26:00+00:00",
-     "summary": "Which Senate, governors races are still uncalled by The Associated Press AP News"
+     "title": "Sports - Europe - AP News",
+     "published": "2026-11-05T00:58:18+00:00",
+     "summary": "Sports - Europe AP News"
     }
    ]
   },
@@ -174,87 +174,87 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+     "published": "2026-11-05T08:07:22+00:00",
+     "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Italian chef fired after refusing to put pineapple on pizza",
+     "published": "2026-11-05T07:56:53+00:00",
+     "summary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+     "published": "2026-11-05T03:47:56+00:00",
+     "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+     "published": "2026-11-05T02:09:23+00:00",
+     "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament."
+    },
+    {
+     "ref": "bbc_world#4",
+     "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+     "published": "2026-11-04T23:50:40+00:00",
+     "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths."
+    },
+    {
+     "ref": "bbc_world#5",
+     "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+     "published": "2026-11-04T23:12:47+00:00",
+     "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
+    },
+    {
+     "ref": "bbc_world#6",
      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
      "published": "2026-11-04T22:48:43+00:00",
      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
     },
     {
-     "ref": "bbc_world#1",
-     "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-     "published": "2026-11-04T18:01:31+00:00",
-     "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal."
+     "ref": "bbc_world#7",
+     "title": "'Hopefully things get done': Americans react to historic political shift",
+     "published": "2026-11-04T22:34:08+00:00",
+     "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives."
     },
     {
-     "ref": "bbc_world#2",
-     "title": "Iran's chief negotiator says Americans voted 'no to war'",
-     "published": "2026-11-04T16:59:15+00:00",
-     "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat."
+     "ref": "bbc_world#8",
+     "title": "What Democrats can and can't do with their new power after taking Congress",
+     "published": "2026-11-04T18:01:27+00:00",
+     "summary": "Democrats can vote legislation through. But Trump still has veto power."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#9",
      "title": "'Most difficult days of my life' for keeper Owono",
      "published": "2026-11-04T16:40:38+00:00",
      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#10",
      "title": "The young politicians with African roots making history in the US midterms",
      "published": "2026-11-04T16:34:32+00:00",
      "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#11",
      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
      "published": "2026-11-04T16:26:15+00:00",
      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#12",
      "title": "Israel's president begins consultations with parties after election deadlock",
      "published": "2026-11-04T16:18:21+00:00",
      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election."
     },
     {
-     "ref": "bbc_world#7",
-     "title": "Secret police files released in Hungary, 37 years after fall of communism",
-     "published": "2026-11-04T15:28:18+00:00",
-     "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish."
-    },
-    {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#13",
      "title": "Everything you need to know from the US midterm elections",
      "published": "2026-11-04T14:05:42+00:00",
      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump."
-    },
-    {
-     "ref": "bbc_world#9",
-     "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-     "published": "2026-11-04T13:33:30+00:00",
-     "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
-    },
-    {
-     "ref": "bbc_world#10",
-     "title": "Nadal set to join Real Madrid board of directors",
-     "published": "2026-11-04T13:21:01+00:00",
-     "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid."
-    },
-    {
-     "ref": "bbc_world#11",
-     "title": "Sharp objects found in Halloween sweets in three European nations",
-     "published": "2026-11-04T12:34:33+00:00",
-     "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin."
-    },
-    {
-     "ref": "bbc_world#12",
-     "title": "ANC under pressure to reverse South Africa decline",
-     "published": "2026-11-04T11:47:44+00:00",
-     "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
-    },
-    {
-     "ref": "bbc_world#13",
-     "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-     "published": "2026-11-04T11:46:09+00:00",
-     "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo."
     },
     {
      "ref": "bbc_world#14",
@@ -270,18 +270,12 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#16",
-     "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-     "published": "2026-11-04T07:39:38+00:00",
-     "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category."
-    },
-    {
-     "ref": "bbc_world#17",
      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
      "published": "2026-11-04T06:53:56+00:00",
      "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#17",
      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
      "published": "2026-11-03T23:58:36+00:00",
      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer."
@@ -318,69 +312,69 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
+     "title": "The New Congress Must Save the American Military",
+     "published": "2026-11-05T09:00:00+00:00",
+     "summary": "How to blunt Hegseth’s assault on the brass."
+    },
+    {
+     "ref": "foreign_affairs#1",
+     "title": "China’s Economics of Denial",
+     "published": "2026-11-05T09:00:00+00:00",
+     "summary": "Beijing’s theory of success in the face of failure."
+    },
+    {
+     "ref": "foreign_affairs#2",
      "title": "The Missing Critical Minerals Investment",
      "published": "2026-11-04T09:00:00+00:00",
      "summary": "To catch up to China, America and its allies must dig."
     },
     {
-     "ref": "foreign_affairs#1",
+     "ref": "foreign_affairs#3",
      "title": "The Dangers of a Lame-Duck Trump",
      "published": "2026-11-04T09:00:00+00:00",
      "summary": "How far will he go to make peace—and war?"
     },
     {
-     "ref": "foreign_affairs#2",
+     "ref": "foreign_affairs#4",
      "title": "The Fight for the Future of Democratic Foreign Policy",
      "published": "2026-11-03T09:00:00+00:00",
      "summary": "Which debates matter most for 2028."
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#5",
      "title": "What Sanctions Get Right",
      "published": "2026-11-03T09:00:00+00:00",
      "summary": "A useful tool has been unjustly maligned."
     },
     {
-     "ref": "foreign_affairs#4",
+     "ref": "foreign_affairs#6",
      "title": "America’s AI Ambitions Depend on Taiwan",
      "published": "2026-11-03T05:00:00+00:00",
      "summary": "The United States and China are locked in a global competition to determine who will dominate artificial intelligence and whether it will be democracies or autocracies that set the standards and values of the new digital age. The United States leads the world in the sophistication and power of its artificial intelligence models, and its innovation base and investment in research and development re"
     },
     {
-     "ref": "foreign_affairs#5",
+     "ref": "foreign_affairs#7",
      "title": "The Limits of China’s Self-Sufficiency",
      "published": "2026-11-02T09:00:00+00:00",
      "summary": "China’s Food Insecurity Could Prevent a War Over Taiwan"
     },
     {
-     "ref": "foreign_affairs#6",
+     "ref": "foreign_affairs#8",
      "title": "How America Can Counter Chinese Coercion",
      "published": "2026-11-02T09:00:00+00:00",
      "summary": "The case for an economic security alliance."
     },
     {
-     "ref": "foreign_affairs#7",
+     "ref": "foreign_affairs#9",
      "title": "Can the Nordic Model Save NATO?",
      "published": "2026-10-30T08:00:00+00:00",
      "summary": "A new way to deter Russia."
     },
     {
-     "ref": "foreign_affairs#8",
+     "ref": "foreign_affairs#10",
      "title": "North Korea’s Enemies Within",
      "published": "2026-10-30T08:00:00+00:00",
      "summary": "How long will elites stay loyal to Kim Jong Un?"
-    },
-    {
-     "ref": "foreign_affairs#9",
-     "title": "Don’t Go Backward on China Policy",
-     "published": "2026-10-29T08:00:00+00:00",
-     "summary": "The folly of a hawkish restoration."
-    },
-    {
-     "ref": "foreign_affairs#10",
-     "title": "Only the Gulf Can End the Iran War",
-     "published": "2026-10-29T08:00:00+00:00",
-     "summary": "The Arab monarchies must help Washington and Tehran save face."
     }
    ]
   },
@@ -390,153 +384,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Kenyan father haunted by children's deaths ahead of starvation cult leader's sentencing - Reuters",
+     "published": "2026-11-05T09:07:44+00:00",
+     "summary": "Kenyan father haunted by children's deaths ahead of starvation cult leader's sentencing Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Tanker struck by two projectiles north of Qatar, crew status unconfirmed, UKMTO says - Reuters",
+     "published": "2026-11-05T09:00:34+00:00",
+     "summary": "Tanker struck by two projectiles north of Qatar, crew status unconfirmed, UKMTO says Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
+     "published": "2026-11-05T07:44:00+00:00",
+     "summary": "China says US farm purchases hinge on tariff-cut deal Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "India's Mahindra & Mahindra's quarterly profit rises almost 13% on healthy demand - Reuters",
+     "published": "2026-11-05T07:39:00+00:00",
+     "summary": "India's Mahindra & Mahindra's quarterly profit rises almost 13% on healthy demand Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Emirates airline net profit drops 66% in first half dragged down by Iran war - Reuters",
+     "published": "2026-11-05T06:03:00+00:00",
+     "summary": "Emirates airline net profit drops 66% in first half dragged down by Iran war Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
+     "title": "New Zealand leaders make final appeals as election remains tight - Reuters",
+     "published": "2026-11-05T05:48:00+00:00",
+     "summary": "New Zealand leaders make final appeals as election remains tight Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
+     "title": "France faces new protests as Macron seeks to prevent repeat of October unrest - Reuters",
+     "published": "2026-11-05T05:02:00+00:00",
+     "summary": "France faces new protests as Macron seeks to prevent repeat of October unrest Reuters"
+    },
+    {
+     "ref": "reuters_world#7",
+     "title": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz - Reuters",
+     "published": "2026-11-05T04:21:00+00:00",
+     "summary": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
+     "title": "Indonesia Q3 GDP growth beats forecast on improved exports, steady consumption - Reuters",
+     "published": "2026-11-05T04:17:00+00:00",
+     "summary": "Indonesia Q3 GDP growth beats forecast on improved exports, steady consumption Reuters"
+    },
+    {
+     "ref": "reuters_world#9",
+     "title": "ANC narrowly leads DA in early South Africa municipal election results - Reuters",
+     "published": "2026-11-05T04:12:00+00:00",
+     "summary": "ANC narrowly leads DA in early South Africa municipal election results Reuters"
+    },
+    {
+     "ref": "reuters_world#10",
+     "title": "Gold rallies as dollar, Treasury yields soften after US midterm results - Reuters",
+     "published": "2026-11-05T03:46:00+00:00",
+     "summary": "Gold rallies as dollar, Treasury yields soften after US midterm results Reuters"
+    },
+    {
+     "ref": "reuters_world#11",
+     "title": "Indian benchmarks near three-month highs as oil slides after US Democratic win - Reuters",
+     "published": "2026-11-05T02:37:00+00:00",
+     "summary": "Indian benchmarks near three-month highs as oil slides after US Democratic win Reuters"
+    },
+    {
+     "ref": "reuters_world#12",
+     "title": "Taiwan sees continued US arms sale support after midterm election - Reuters",
+     "published": "2026-11-05T02:29:00+00:00",
+     "summary": "Taiwan sees continued US arms sale support after midterm election Reuters"
+    },
+    {
+     "ref": "reuters_world#13",
+     "title": "China indicts ex-Politburo member Ma Xingrui for bribery - Reuters",
+     "published": "2026-11-05T02:15:00+00:00",
+     "summary": "China indicts ex-Politburo member Ma Xingrui for bribery Reuters"
+    },
+    {
+     "ref": "reuters_world#14",
+     "title": "South Korea to expand anti-piracy unit operations closer to Strait of Hormuz - Reuters",
+     "published": "2026-11-05T01:54:00+00:00",
+     "summary": "South Korea to expand anti-piracy unit operations closer to Strait of Hormuz Reuters"
+    },
+    {
+     "ref": "reuters_world#15",
+     "title": "Dollar slides as US election drives oil and Treasury yields lower; sterling gains - Reuters",
+     "published": "2026-11-05T01:06:00+00:00",
+     "summary": "Dollar slides as US election drives oil and Treasury yields lower; sterling gains Reuters"
+    },
+    {
+     "ref": "reuters_world#16",
+     "title": "Japan services activity expands for fifth month, PMI shows - Reuters",
+     "published": "2026-11-05T00:33:00+00:00",
+     "summary": "Japan services activity expands for fifth month, PMI shows Reuters"
+    },
+    {
+     "ref": "reuters_world#17",
+     "title": "Australia data centre inquiry finds inadequate checks, stops short of moratorium - Reuters",
+     "published": "2026-11-05T00:20:00+00:00",
+     "summary": "Australia data centre inquiry finds inadequate checks, stops short of moratorium Reuters"
+    },
+    {
+     "ref": "reuters_world#18",
+     "title": "BOJ debated need for more rate hikes, scope for faster moves, September minutes show - Reuters",
+     "published": "2026-11-05T00:05:00+00:00",
+     "summary": "BOJ debated need for more rate hikes, scope for faster moves, September minutes show Reuters"
+    },
+    {
+     "ref": "reuters_world#19",
      "title": "Bank of England poised to hike rates for first time in 3 years - Reuters",
      "published": "2026-11-05T00:03:00+00:00",
      "summary": "Bank of England poised to hike rates for first time in 3 years Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#20",
      "title": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom - Reuters",
      "published": "2026-11-04T23:41:41+00:00",
      "summary": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#21",
+     "title": "Brazil's central bank ends run of rate cuts after Lula election win - Reuters",
+     "published": "2026-11-04T23:38:07+00:00",
+     "summary": "Brazil's central bank ends run of rate cuts after Lula election win Reuters"
+    },
+    {
+     "ref": "reuters_world#22",
      "title": "German police investigate death of Bavaria deputy premier, found in hotel room - Reuters",
      "published": "2026-11-04T23:37:48+00:00",
      "summary": "German police investigate death of Bavaria deputy premier, found in hotel room Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#23",
      "title": "Seven numbers that explain Democrats' US midterm triumph - Reuters",
      "published": "2026-11-04T23:36:32+00:00",
      "summary": "Seven numbers that explain Democrats' US midterm triumph Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#24",
      "title": "Democratic victories bring historic breakthroughs for women and minorities - Reuters",
      "published": "2026-11-04T23:33:44+00:00",
      "summary": "Democratic victories bring historic breakthroughs for women and minorities Reuters"
-    },
-    {
-     "ref": "reuters_world#5",
-     "title": "Trump says Hegseth doing 'a very good job' as questions swirl about his future - Reuters",
-     "published": "2026-11-04T23:32:38+00:00",
-     "summary": "Trump says Hegseth doing 'a very good job' as questions swirl about his future Reuters"
-    },
-    {
-     "ref": "reuters_world#6",
-     "title": "Paraguay bank crisis spurs lawmakers' calls to impeach president - Reuters",
-     "published": "2026-11-04T23:10:09+00:00",
-     "summary": "Paraguay bank crisis spurs lawmakers' calls to impeach president Reuters"
-    },
-    {
-     "ref": "reuters_world#7",
-     "title": "Hong Kong activist Joshua Wong set to be sentenced on national security charge - Reuters",
-     "published": "2026-11-04T23:02:00+00:00",
-     "summary": "Hong Kong activist Joshua Wong set to be sentenced on national security charge Reuters"
-    },
-    {
-     "ref": "reuters_world#8",
-     "title": "Texas data centers face uncertain future after Hinojosa wins governor’s race - Reuters",
-     "published": "2026-11-04T22:47:43+00:00",
-     "summary": "Texas data centers face uncertain future after Hinojosa wins governor’s race Reuters"
-    },
-    {
-     "ref": "reuters_world#9",
-     "title": "Zelenskiy hopes US election outcome will generate more help for Ukraine - Reuters",
-     "published": "2026-11-04T22:20:02+00:00",
-     "summary": "Zelenskiy hopes US election outcome will generate more help for Ukraine Reuters"
-    },
-    {
-     "ref": "reuters_world#10",
-     "title": "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say - Reuters",
-     "published": "2026-11-04T22:11:38+00:00",
-     "summary": "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say Reuters"
-    },
-    {
-     "ref": "reuters_world#11",
-     "title": "North Korea says it tested air-defence missile, staged cruise missile drill - Reuters",
-     "published": "2026-11-04T21:18:00+00:00",
-     "summary": "North Korea says it tested air-defence missile, staged cruise missile drill Reuters"
-    },
-    {
-     "ref": "reuters_world#12",
-     "title": "Democratic Congress could test decades of US support for Israel - Reuters",
-     "published": "2026-11-04T20:52:21+00:00",
-     "summary": "Democratic Congress could test decades of US support for Israel Reuters"
-    },
-    {
-     "ref": "reuters_world#13",
-     "title": "Spain's Sanchez reshuffles cabinet after transport minister quits over train crashes - Reuters",
-     "published": "2026-11-04T20:25:15+00:00",
-     "summary": "Spain's Sanchez reshuffles cabinet after transport minister quits over train crashes Reuters"
-    },
-    {
-     "ref": "reuters_world#14",
-     "title": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports - Reuters",
-     "published": "2026-11-04T20:21:44+00:00",
-     "summary": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports Reuters"
-    },
-    {
-     "ref": "reuters_world#15",
-     "title": "Serbia detains police officers over alleged use of force against protesters - Reuters",
-     "published": "2026-11-04T20:10:51+00:00",
-     "summary": "Serbia detains police officers over alleged use of force against protesters Reuters"
-    },
-    {
-     "ref": "reuters_world#16",
-     "title": "Zelenskiy in Spain to meet Sanchez, other leaders at Ibero-American summit - Reuters",
-     "published": "2026-11-04T20:04:10+00:00",
-     "summary": "Zelenskiy in Spain to meet Sanchez, other leaders at Ibero-American summit Reuters"
-    },
-    {
-     "ref": "reuters_world#17",
-     "title": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him - Reuters",
-     "published": "2026-11-04T19:46:21+00:00",
-     "summary": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him Reuters"
-    },
-    {
-     "ref": "reuters_world#18",
-     "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
-     "published": "2026-11-04T19:40:29+00:00",
-     "summary": "From Iran to trade: how the US midterms impact the rest of the world Reuters"
-    },
-    {
-     "ref": "reuters_world#19",
-     "title": "US House Speaker Johnson will not seek minority leadership post - Reuters",
-     "published": "2026-11-04T19:24:37+00:00",
-     "summary": "US House Speaker Johnson will not seek minority leadership post Reuters"
-    },
-    {
-     "ref": "reuters_world#20",
-     "title": "Netanyahu rivals seize on Democrats' sweep of US Congress, seeking his ouster - Reuters",
-     "published": "2026-11-04T19:12:12+00:00",
-     "summary": "Netanyahu rivals seize on Democrats' sweep of US Congress, seeking his ouster Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
-     "published": "2026-11-04T19:06:12+00:00",
-     "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Morocco says it will uphold Western Sahara ceasefire after UN mission ends - Reuters",
-     "published": "2026-11-04T18:50:09+00:00",
-     "summary": "Morocco says it will uphold Western Sahara ceasefire after UN mission ends Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Explainer: Five ways US foreign policy may change with a Democratic Congress - Reuters",
-     "published": "2026-11-04T18:43:14+00:00",
-     "summary": "Explainer: Five ways US foreign policy may change with a Democratic Congress Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Bob Dylan blows in for meeting with Pope Leo at Vatican - Reuters",
-     "published": "2026-11-04T18:39:06+00:00",
-     "summary": "Bob Dylan blows in for meeting with Pope Leo at Vatican Reuters"
     }
    ]
   }
