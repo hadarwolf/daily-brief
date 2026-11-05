@@ -24,142 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2025,
-   "text": "A UPS Airlines plane crashed in Louisville, Kentucky, killing at least twelve people.",
+   "year": 2013,
+   "text": "The Indian Space Research Organisation launched the Mars Orbiter Mission, India's first interplanetary probe.",
    "context": [
-    "UPS Airlines is a major American cargo airline based in Louisville, Kentucky. One of the largest cargo airlines worldwide in terms of freight volume flown, UPS Airlines flies to 815 destinations worldwide. It has been a wholly owned subsidiary of United Parcel Service since its launch in 1988."
+    "The Indian Space Research Organisation is the national space agency of India, headquartered in Bengaluru, Karnataka. It serves as the principal research and development arm of the Department of Space (DoS), overseen by the Prime Minister of India, with the Chairman of ISRO also working as the chief executive of the DoS. It is primarily responsible for space-based operations, space exploration, international space cooperation and the development of related technologies. The agency maintains a constellation of imaging, communications and remote sensing satellites. It operates the satellite navigation systems such as GAGAN and NavIC. It has sent three missions to the Moon and one mission to Mars."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2016,
-   "text": "The Paris Agreement, under the United Nations Framework Convention on Climate Change, came into effect.",
+   "year": 2009,
+   "text": "U.S. Army major Nidal Hasan went on a shooting rampage at Fort Hood, Texas, the worst shooting ever to take place on an American military base, killing 13.",
    "context": [
-    "The Paris Agreement is an international treaty on climate change that was signed in 2016. The treaty covers climate change mitigation, adaptation, and finance. The Paris Agreement was negotiated by 196 parties at the 2015 United Nations Climate Change Conference near Paris, France. As of January 2026, 194 members of the United Nations Framework Convention on Climate Change (UNFCCC) are parties to the agreement. Of the three UNFCCC member states which have not ratified the agreement, the only major emitter is Iran. The United States, the second largest emitter, withdrew from the agreement in 2020, rejoined in 2021, and withdrew again in 2026."
+    "The United States Army is the land service branch of the United States Armed Forces. It is designated as the army of the United States in the United States Constitution. As a part of the United States Department of Defense, it is one of the six armed forces of the United States and one of the eight uniformed services of the United States. Founded in 1784, it succeeded the Continental Army, formed in 1775 during the American Revolutionary War."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2008,
-   "text": "Barack Obama (pictured) became the first person of biracial or African-American descent to be elected President of the United States.",
+   "year": 2003,
+   "text": "American serial killer Gary Ridgway pleaded guilty to 48 counts of first-degree murder.",
    "context": [
-    "Barack Hussein Obama II is an American retired politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to serve as president. Obama represented Illinois in the United States Senate from 2005 to 2008 and served as an Illinois state senator from 1997 to 2004."
+    "Gary Leon Ridgway, known as the Green River Killer or the Green River Strangler, is an American serial killer who was convicted of murdering forty-nine women between 1982 and 1998 in the northwestern United States. At the time of his arrest in 2001, he was believed to be the most prolific serial killer in United States history, according to confirmed murders."
    ]
   },
   {
    "ref": "wikipedia#3",
    "year": 1995,
-   "text": "Israeli prime minister Yitzhak Rabin (pictured) was assassinated by Yigal Amir, a right-wing extremist, at a peace rally at Kings of Israel Square in Tel Aviv.",
+   "text": "Aline Chrétien (pictured) thwarted André Dallaire's attempt to assassinate her husband, Canadian prime minister Jean Chrétien, by locking the bedroom door in 24 Sussex Drive, their official residence in Ottawa.",
    "context": [
-    "Yitzhak Rabin was an Israeli statesman and general who was the prime minister of Israel, having served from 1974 to 1977 and again from 1992 until his assassination in 1995. He was the first prime minister to have been born in the region of Palestine, at the time under British control."
+    "Aline Chrétien was a Canadian academic administrator who was the wife of Canada's 20th prime minister, Jean Chrétien. She previously worked as a secretary, payroll manager, and model. In her later life, she was a trained pianist with The Royal Conservatory of Music."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1970,
-   "text": "Authorities in California discovered a 13-year-old feral child, pseudonymously known as Genie, who had spent nearly her entire life in social isolation.",
+   "year": 1990,
+   "text": "Israeli ultra-nationalist rabbi Meir Kahane (pictured) was assassinated in a New York City hotel by an Arab gunman.",
    "context": [
-    "A feral child is a young individual who has lived isolated from human contact from a very young age, with little or no experience of human care, social behavior, or language. Such children lack the basics of primary and secondary socialization. The term is used to refer to children who have suffered severe abuse or trauma before being abandoned or running away. They are sometimes the subjects of folklore and legends, often portrayed as having been raised by animals. While there are many cases of children being found in proximity to wild animals, there are no eyewitness accounts of animals feeding human children."
+    "Ultranationalism, or extreme nationalism, is an extremist form of nationalism in which a country asserts or maintains hegemony, supremacy, or other forms of control over other nations, to pursue its specific interests. Ultranationalist entities have been associated with the engagement of political violence even during peacetime."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1964,
-   "text": "Ruhollah Khomeini, an influential Shia cleric, was arrested by the Iranian secret police and exiled to Turkey.",
+   "year": 1952,
+   "text": "An earthquake struck the Kamchatka Peninsula, triggering a major tsunami that affected the Kuril Islands and other parts of the Pacific Ocean.",
    "context": [
-    "Ruhollah Mostafavi Khomeini was an Iranian politician and Shia cleric who served as the first supreme leader of Iran from 1979 until his death in 1989. He was the leader of the Iranian Revolution, which overthrew Mohammad Reza Pahlavi, ended the Pahlavi era, and transformed the country into an Islamic republic. As supreme leader, he implemented policies that came to be known as Khomeinism."
+    "The 1952 Severo-Kurilsk earthquake struck off the coast of the Kamchatka Peninsula. The Mw 8.8–9.0 earthquake occurred on 5 November 1952 at 04:58 local time, triggering a major tsunami that struck the Kuril Islands and the Kamchatka Peninsula within the Russian SFSR in the Soviet Union. This led to the destruction of many settlements in Sakhalin Oblast and Kamchatka Oblast, while the main impact struck the town of Severo-Kurilsk. It remains the most powerful earthquake ever recorded in Russia and the fifth most powerful earthquake ever recorded in the world since modern seismography began in 1900. It was also the deadliest and most damaging tsunami recorded in Russia."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1952,
-   "text": "Robert A. Lovett, United States Secretary of Defense, issued a memorandum establishing the National Security Agency, with responsibility for all communications intelligence for the government.",
+   "year": 1950,
+   "text": "Korean War: The 27th British Commonwealth Brigade succeeded in preventing a Chinese breakthrough at the Battle of Pakchon.",
    "context": [
-    "Robert Abercrombie Lovett was an American politician who served as the fourth United States secretary of defense, having been promoted to this position from Deputy Secretary of Defense. He served in the cabinet of President Harry S. Truman from 1951 to 1953 and in this capacity, directed the Korean War. As Under Secretary of State, he handled most of the tasks of the State Department while George C. Marshall was secretary."
+    "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC)."
    ]
   },
   {
    "ref": "wikipedia#7",
    "year": 1944,
-   "text": "Second World War: Allied forces completed Operation Pheasant, a major operation to clear German troops from the province of North Brabant in the Netherlands.",
+   "text": "World War II: Allied forces began a military campaign on Japanese-occupied Singapore.",
    "context": [
     "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1938,
-   "text": "The Hlinka Guard and Slovakian police began the deportation of several thousand Jews from the country.",
+   "year": 1943,
+   "text": "World War II: An unknown aircraft dropped four bombs on Vatican City, which maintained neutrality during the war.",
    "context": [
-    "The Hlinka Guard was the militia maintained by the Slovak People's Party in the period from 1938 to 1945; it was named after Andrej Hlinka."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1924,
-   "text": "In a special election in Wyoming, Nellie Tayloe Ross became the first woman to be elected as a governor in the United States.",
+   "year": 1916,
+   "text": "An armed confrontation in Everett, Washington, between local authorities and members of the Industrial Workers of the World resulted in seven deaths.",
    "context": [
-    "The 1924 Wyoming gubernatorial special election took place on November 4, 1924. William B. Ross, the Democratic Governor of Wyoming, died in office on October 2, 1924, temporarily elevating Republican Secretary of State Frank Lucas to the governorship. A special election was held to fill the remainder of Ross's term and his widow, Nellie Tayloe Ross, defeated Republican nominee E. J. Sullivan, becoming the first ever female governor of any U.S. state."
+    "The Everett massacre, also known as Bloody Sunday, was an armed confrontation between local authorities and members of the Industrial Workers of the World (IWW) union, commonly called \"Wobblies\", in Everett, Washington, United States on November 5, 1916. The event happened amidst a time of rising tensions in Pacific Northwest labor history."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1922,
-   "text": "The tomb of Tutankhamun (pictured) was discovered by a team led by British Egyptologist Howard Carter.",
+   "year": 1854,
+   "text": "Crimean War: Despite being severely outnumbered, and fighting in heavy foggy conditions, the allied armies of the United Kingdom and France defeated the Russians in present-day Inkerman, Ukraine.",
    "context": [
-    "The tomb of Tutankhamun, a pharaoh of the Eighteenth Dynasty of ancient Egypt, is located in the Valley of the Kings. The tomb, also known by its tomb number KV62, consists of four chambers and an entrance staircase and corridor. It is smaller and less extensively decorated than other Egyptian royal tombs of its time, and it probably originated as a tomb for a non-royal individual that was adapted for Tutankhamun's use after his premature death. Like other pharaohs, Tutankhamun was buried with a wide variety of funerary objects and personal possessions, such as coffins, furniture, clothing and jewelry, though in the unusually limited space these goods had to be densely packed. Robbers entered the tomb twice in the years immediately following the burial, but Tutankhamun's mummy and most of the burial goods remained intact. The tomb's low position, dug into the floor of the valley, allowed its entrance to be hidden by debris deposited by flooding and tomb construction. Thus, unlike other tombs in the valley, it was not stripped of its valuables during the Third Intermediate Period."
+    "The Crimean War was fought between Russia and an alliance of the Ottoman Empire, France, the United Kingdom, and Sardinia from October 1853 to February 1856. Geopolitical causes of the war included the Eastern question, the expansion of Russia in the preceding Russo-Turkish wars, and the British and French preference to preserve the Ottoman Empire to maintain the balance of power in the Concert of Europe."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1922,
-   "text": "The tomb of Tutankhamun (pictured) was discovered by a team led by British Egyptologist Howard Carter.",
+   "year": 1757,
+   "text": "Seven Years' War: Prussian forces led by Frederick the Great defeated the allied French and Habsburg armies at the Battle of Rossbach.",
    "context": [
-    "The tomb of Tutankhamun, a pharaoh of the Eighteenth Dynasty of ancient Egypt, is located in the Valley of the Kings. The tomb, also known by its tomb number KV62, consists of four chambers and an entrance staircase and corridor. It is smaller and less extensively decorated than other Egyptian royal tombs of its time, and it probably originated as a tomb for a non-royal individual that was adapted for Tutankhamun's use after his premature death. Like other pharaohs, Tutankhamun was buried with a wide variety of funerary objects and personal possessions, such as coffins, furniture, clothing and jewelry, though in the unusually limited space these goods had to be densely packed. Robbers entered the tomb twice in the years immediately following the burial, but Tutankhamun's mummy and most of the burial goods remained intact. The tomb's low position, dug into the floor of the valley, allowed its entrance to be hidden by debris deposited by flooding and tomb construction. Thus, unlike other tombs in the valley, it was not stripped of its valuables during the Third Intermediate Period."
+    "The Seven Years' War, 1756 to 1763, was a global conflict fought by numerous great powers, primarily in Europe, with significant subsidiary campaigns in North America and the Indian subcontinent. The primary warring states were Great Britain and Prussia fighting against France and Austria, with other countries joining these coalitions: Portugal, Spain, Sweden, and Russia, plus Saxony and many other minor states of the Holy Roman Empire. Related conflicts include the Third Silesian War, French and Indian War, Third Carnatic War, Anglo-Spanish War (1762–1763), and Spanish–Portuguese War."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1921,
-   "text": "The remains of an unknown soldier were buried with an eternal flame at the Altare della Patria (pictured) in Rome.",
+   "year": 1605,
+   "text": "The arrest of Guy Fawkes, found during a search of the Palace of Westminster, foiled the Gunpowder Plot, which planned to blow up the House of Lords.",
    "context": [
-    "The Tomb of the Unknown Soldier is a war memorial located in Rome under the statue of the goddess Roma at the Altare della Patria. It is a sacellum dedicated to the Italian soldiers killed and missing during war."
+    "Guy Fawkes, also known as Guido Fawkes while fighting for the Spanish, was a member of a group of provincial English Catholics involved in the failed Gunpowder Plot of 1605. He was born and educated in York; his father died when Fawkes was eight years old, after which his mother married a recusant Catholic."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1912,
-   "text": "The keel of USS Nevada was laid down, beginning construction on the United States Navy's first \"super-dreadnought\".",
+   "year": 1556,
+   "text": "At the Second Battle of Panipat, forces of the Mughal emperor Akbar captured Hemu, the Hindu emperor of north India.",
    "context": [
-    "The keel is the bottom-most longitudinal structural element of a watercraft, important for stability. On some sailboats, it may have a hydrodynamic and counterbalancing purpose as well. The laying of the keel is often the initial step in constructing a ship. In the British and American shipbuilding traditions, this event marks the beginning date of a ship's construction."
+    "The Second Battle of Panipat was fought on 5 November 1556, between the Mughals under Akbar and king Hemu, titularly known as Hemchandra Vikramaditya. Hemchandra had conquered Delhi and Agra a few weeks earlier by defeating Mughal forces under Tardi Beg Khan in the Battle of Delhi. He crowned himself Vikramaditya at Purana Quila in Delhi."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1890,
-   "text": "The City and South London Railway (carriage pictured), the first deep-level underground railway in the world, officially opened, running 3.2 mi (5.1 km) between the City of London and Stockwell.",
+   "year": 1138,
+   "text": "Lý Anh Tông was enthroned as the emperor of Đại Việt at the age of two, beginning a 37-year reign.",
    "context": [
-    "The City and South London Railway (C&SLR) was the first successful deep-level underground \"tube\" railway in the world, and the first major railway to use electric traction. The railway was originally intended for cable-hauled trains, but owing to the bankruptcy of the cable contractor during construction, a system of electric traction using electric locomotives – an experimental technology at the time – was chosen instead."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
-   "year": 1864,
-   "text": "American Civil War: Nathan Bedford Forrest led a cavalry division in an attack on a Union army supply base at Johnsonville, Tennessee, resulting in the capture of 150 prisoners.",
-   "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve slavery in the United States. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 1780,
-   "text": "Túpac Amaru II led a rebellion of Aymara, Quechua, and mestizo peasants in protest against the Bourbon Reforms in the Spanish Viceroyalty of Peru.",
-   "context": [
-    "Túpac Amaru II was an Indigenous cacique who led a large Andean rebellion against the Spanish in Peru as self-proclaimed Sapa Inca of the new Inca Empire. He was later elevated to a mythical status in the Peruvian struggle for independence and indigenous rights movement, as well as an inspiration to myriad causes in Spanish America and beyond."
+    "Emperor Lý Anh Tông of Đại Việt was the sixth emperor of the later Lý dynasty in Vietnamese history, from 1138 until his death in 1175. Since Lý Anh Tông, given name Lý Thiên Tộ, was chosen as the successor of his father Lý Thần Tông at the age of only two, the early period of his reign witnessed the dominant position of Đỗ Anh Vũ in the royal court until he died in 1157; afterwards, the Emperor ruled the country with the assistance of a prominent official named Tô Hiến Thành. The reign of Lý Anh Tông was considered the last relatively stable period of the Lý dynasty before the turbulence during the reign of Lý Cao Tông."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Take rate (שיעור נטילה)",
+  "Move fast and break things (לנוע מהר ולשבור דברים)",
+  "The tail wagging the dog (הזנב מכשכש בכלב)",
   "Flywheel effect (אפקט הגלגל התנופה)",
   "Table stakes (דמי כניסה למשחק)",
   "Move the needle (לחולל שינוי משמעותי)",
@@ -246,10 +233,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Moving the goalposts (להזיז את השער)",
   "Vesting cliff (תקופת הבשלה מינימלית)",
   "Top line vs. bottom line (שורת ההכנסות מול שורת הרווח)",
-  "Bet the farm (להמר על הכל)",
-  "Churn rate (שיעור נטישה)",
-  "Race to the bottom (מירוץ לתחתית)",
-  "Cook the books (לזייף דוחות כספיים)"
+  "Bet the farm (להמר על הכל)"
  ]
 }
 </input>

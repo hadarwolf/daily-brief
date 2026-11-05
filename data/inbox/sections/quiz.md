@@ -5,6 +5,7 @@ Write the quiz: exactly 3 multiple-choice questions on the drafts you just wrote
 - Each question must be answerable from the coffee version of its story.
 - Give 4 options with plausible distractors and exactly one correct answer.
 - Provide en and he versions with the options in the same order, so answer_index works for both.
+- Don't think about where the correct answer sits: the app shuffles the options. So never write "all of the above" or "none of the above", and never refer to an option by its letter or position, in the options or the explanation.
 - story_id and section must match the story the question comes from.
 
 Output: write `drafts/quiz.json` matching `schemas/quiz.schema.json`.
