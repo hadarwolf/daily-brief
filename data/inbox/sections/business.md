@@ -376,21 +376,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "European Defense Stocks Under Pressure After Mixed Earnings, Midterm Results",
+     "published": "2026-11-05T09:24:00+00:00",
+     "summary": "European defense companies were in decline after a mixed set of earnings and midterm election results that cast doubt on the extent of U.S. military spending going forward."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
      "published": "2026-11-05T08:58:00+00:00",
      "summary": "Europe’s largest steelmaker booked a 34% surge in earnings before interest, taxes, depreciation and amortization over the third quarter of the year."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Oil Holds Near Two-Month Low on U.S.-Iran Diplomatic Hopes After Midterms",
      "published": "2026-11-05T08:45:00+00:00",
      "summary": "Oil prices held near a two-month low after tumbling more than 8% in the previous session on hopes the Democratic sweep in the U.S. elections could accelerate an end the Iran war."
-    },
-    {
-     "ref": "wsj_markets#2",
-     "title": "European Indexes Rise, Stoxx 600 on Pace for Record Close",
-     "published": "2026-11-05T08:36:00+00:00",
-     "summary": "European stock indexes extended a post-midterms rally with banks and autos among the strongest-performing sectors, lifting the Stoxx 600 above the record close it posted in August."
     },
     {
      "ref": "wsj_markets#3",
@@ -530,9 +530,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3914.24,
+   "last": 3887.04,
    "prev_close": 3969.53,
-   "change_pct": -1.39,
+   "change_pct": -2.08,
    "as_of": "2026-11-05"
   },
   "SP500": {
@@ -544,23 +544,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1623,
+   "last": 3.1668,
    "prev_close": 3.162,
-   "change_pct": 0.01,
+   "change_pct": 0.15,
    "as_of": "2026-11-05"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 95.26,
+   "last": 95.71,
    "prev_close": 94.62,
-   "change_pct": 0.68,
+   "change_pct": 1.15,
    "as_of": "2026-11-05"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 80322.8828,
+   "last": 80214.6562,
    "prev_close": 80405.2891,
-   "change_pct": -0.1,
+   "change_pct": -0.24,
    "as_of": "2026-11-05"
   }
  },

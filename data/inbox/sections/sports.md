@@ -29,18 +29,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-04T17:45:00Z",
-     "home": "PAE AEK",
-     "away": "Real Madrid",
-     "status": "FINISHED",
-     "score": "2-3"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T17:45:00Z",
      "home": "Fenerbahçe",
      "away": "Liverpool",
      "status": "FINISHED",
      "score": "3-2"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T17:45:00Z",
+     "home": "PAE AEK",
+     "away": "Real Madrid",
+     "status": "FINISHED",
+     "score": "2-3"
     },
     {
      "competition": "Championship",
@@ -61,10 +61,34 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "RB Leipzig",
-     "away": "Man City",
+     "home": "Slavia Praha",
+     "away": "Arsenal",
      "status": "FINISHED",
-     "score": "2-3"
+     "score": "1-2"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "Dortmund",
+     "away": "Real Betis",
+     "status": "FINISHED",
+     "score": "2-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "RC Lens",
+     "away": "Como 1907",
+     "status": "FINISHED",
+     "score": "1-9"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "Bristol City",
+     "away": "Wolverhampton",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "UEFA Champions League",
@@ -93,45 +117,13 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "RC Lens",
-     "away": "Como 1907",
+     "home": "RB Leipzig",
+     "away": "Man City",
      "status": "FINISHED",
-     "score": "1-9"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Bristol City",
-     "away": "Wolverhampton",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Slavia Praha",
-     "away": "Arsenal",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Dortmund",
-     "away": "Real Betis",
-     "status": "FINISHED",
-     "score": "2-1"
+     "score": "2-3"
     }
    ],
    "today": [
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-04T22:30:00Z",
-     "home": "Flamengo",
-     "away": "Grêmio",
-     "status": "FINISHED",
-     "score": "3-1"
-    },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-04T22:30:00Z",
@@ -139,6 +131,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Vasco da Gama",
      "status": "FINISHED",
      "score": "1-3"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-11-04T22:30:00Z",
+     "home": "Flamengo",
+     "away": "Grêmio",
+     "status": "FINISHED",
+     "score": "3-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
@@ -973,15 +973,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#5",
-     "title": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions - roundtable.io",
-     "published": "2026-11-04T13:01:53+00:00",
-     "summary": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions roundtable.io"
+     "title": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions - Yahoo Sports",
+     "published": "2026-11-04T13:00:11+00:00",
+     "summary": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions Yahoo Sports"
     },
     {
      "ref": "gnews_israeli_nba#6",
-     "title": "Deni Avdija is no longer alone: how Portland's stars unlocked his next NBA level - ynetnews",
+     "title": "Deni Avdija is no longer alone: how Portland's stars unlocked his next NBA level - Ynetnews",
      "published": "2026-11-04T09:12:43+00:00",
-     "summary": "Deni Avdija is no longer alone: how Portland's stars unlocked his next NBA level ynetnews"
+     "summary": "Deni Avdija is no longer alone: how Portland's stars unlocked his next NBA level Ynetnews"
     },
     {
      "ref": "gnews_israeli_nba#7",
@@ -1069,27 +1069,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#21",
-     "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Oskaloosa Herald",
-     "published": "2026-11-03T04:51:18+00:00",
-     "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Oskaloosa Herald"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Eagle-Tribune",
      "published": "2026-11-03T04:51:18+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Eagle-Tribune"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#22",
      "title": "Trail Blazers' Deni Avdija: Drops season-high 28 points in win - CBS Sports",
      "published": "2026-11-03T04:45:00+00:00",
      "summary": "Trail Blazers' Deni Avdija: Drops season-high 28 points in win CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija gets the basket plus the foul - ESPN",
      "published": "2026-11-03T04:24:08+00:00",
      "summary": "Deni Avdija gets the basket plus the foul ESPN"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Deni Avdija gets the and-1 to fall - ESPN",
+     "published": "2026-11-03T02:50:02+00:00",
+     "summary": "Deni Avdija gets the and-1 to fall ESPN"
     }
    ]
   }
