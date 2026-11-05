@@ -18,81 +18,81 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Alphabet’s Search Dominance Is at Risk From Its Own AI Success",
+     "published": "2026-11-05T10:05:58+00:00",
+     "summary": "Since the artificial intelligence boom began, investors have worried about how Google’s dominance in internet search would hold up in an AI world."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Renee Montgomery’s Move From Player to Owner",
      "published": "2026-11-05T09:00:05+00:00",
      "summary": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with the Atlanta Dream’s Renee Montgomery about why she decided to retire from the WNBA to co-own the team. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "Odd Lots: What Comes Next After Lula’s Big Win (Podcast)",
      "published": "2026-11-05T09:00:00+00:00",
      "summary": "When we last talked to James Bosworth, it seemed like an “orange wave” was going to take over Latin America and further realign the region’s interests with those of the Trump administration. But with Luiz Inacio Lula da Silva’s surprise victory in Brazil’s presidential election last month, and opposition leader María Corina Machado’s return to Venezuela, it now looks like the orange wave might be "
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Rheinmetall Cuts 2026 Sales Guidance, Shares Plunge",
      "published": "2026-11-05T08:55:19+00:00",
      "summary": "German defense firm Rheinmetall cut its 2026 sales target for the second time, citing delays with the Boxer armored vehicle program that would push orders into next year. Bloomberg's Benedikt Kammel has the details. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "European Stocks Hit Fresh Record as AI Unwind Boosts Region",
      "published": "2026-11-05T08:09:35+00:00",
      "summary": "European stocks surpassed their previous closing record as the region extended an outperformance driven by a rotation out of the artificial intelligence trade and a strong earnings season."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "BOE Set to Hike Rates for First Time in Three Years",
      "published": "2026-11-05T07:50:30+00:00",
      "summary": "The Bank of England looks ready to raise interest rates by a quarter point to 4%, its first hike in more than three years. Ana Andrade of Bloomberg Economics has a preview of the decision. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "BOE Decision Day: With a Hike Baked in Traders Look to December",
      "published": "2026-11-05T07:45:03+00:00",
      "summary": "Plus earnings from Next and Diageo"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
      "published": "2026-11-05T07:32:55+00:00",
      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Commerzbank in 'Position of Strength' Ahead of UniCredit Deal, CEO Says",
      "published": "2026-11-05T07:31:20+00:00",
      "summary": "Commerzbank CEO Bettina Orlopp speaks on Bloomberg Television after the lender reported a better-than-expected 45% jump in profit, in one of the last quarterly results as an independent bank before UniCredit SpA takes control of the German rival. \"I think we can act out of a position of strength,\" Orlopp says. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
      "published": "2026-11-05T07:16:56+00:00",
      "summary": "Yardeni Research President, Ed Yardeni, says US 10-year Treasury yields look “very attractive” at around the 5% level with inflation expected to cool. On Bloomberg's Insight with Haslinda Amin, he also told us why the Nasdaq 100 is his preferred asset for the next 24 months. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Indonesia Deploys Troops Amid Wiretapping Scandal",
      "published": "2026-11-05T07:16:45+00:00",
      "summary": "Indonesia's military is mobilizing troops to bolster security in Jakarta as authorities investigate the alleged wiretapping of President Prabowo Subianto. Bloomberg's Ben Otto and Faris Mokhtar discussed the developments on Insight with Haslinda Amin. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
      "published": "2026-11-05T07:16:38+00:00",
      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Annabelle Droulers give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Emirates Profit Drops 66% as Iran War, High Oil Prices Hit Dubai Airline",
      "published": "2026-11-05T07:15:48+00:00",
      "summary": "Emirates Group’s first-half profit dropped by more than half as regional warfare and soaring oil prices weighed on the world’s largest international carrier."
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Canada’s Avenir Global Acquires Marker Collective, Adding Nvidia, Meta Clients",
-     "published": "2026-11-05T07:01:00+00:00",
-     "summary": "Canadian holding company Avenir Global struck a deal to acquire communications and marketing firms owned by London’s Next 15 Group Plc, expanding its client list to reach more technology companies."
     },
     {
      "ref": "bloomberg_markets#13",
@@ -102,15 +102,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#14",
-     "title": "Hormuz Diplomacy Gains Ground as Trump Plays Down New Iran Strikes",
-     "published": "2026-11-05T06:58:28+00:00",
-     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#15",
      "title": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
      "published": "2026-11-05T03:35:41+00:00",
      "summary": "After languishing for much of the year, Hong Kong stocks are staging a comeback as investors rotate away from hardware stocks into discounted Chinese internet platforms."
+    },
+    {
+     "ref": "bloomberg_markets#15",
+     "title": "India Stocks, Bonds Surge as Oil Plunge Eases Inflation Risks",
+     "published": "2026-11-05T03:34:12+00:00",
+     "summary": "Indian stocks and bonds rallied as a plunge in crude prices reduced inflation concerns and pressure on the external finances of the oil-importing nation."
     },
     {
      "ref": "bloomberg_markets#16",
@@ -168,7 +168,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#4",
-     "title": "Republicans paid the price for Trump’s failed policies — they must rethink",
+     "title": "Trump’s economic agenda wasn’t Republican enough",
      "published": "2026-11-05T05:00:07+00:00",
      "summary": "The president promised — but did not deliver — more manufacturing jobs and higher employment rates for native-born Americans"
     },
@@ -222,21 +222,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "עליות באירופה; הורדת תחזית לריינמטאל מפילה את מניית ענקית הנשק הגרמנית ביותר מ-16%",
+     "published": "2026-11-05T10:03:00+00:00",
+     "summary": "מחירי הנפט חוזרים לעלות; החוזים על הברנט מוסיפים יותר מ-1% ■ ענקיות האינטרנט של סין מרוצות מהבחירות בארה\"ב; סיאול וטוקיו נסגרו בירידות חדות; סמסונג ו-SK הייניקס נפלו על רקע חשש מפגיעה בביקוש לשבבים למרכזי נתונים ■ וול סטריט הגיבה בעליות חדות לניצחון הדמוקרטים; דאו ג'ונס זינק ב-3%"
+    },
+    {
+     "ref": "themarker#1",
      "title": "דלק, ריבית ואינפלציה עלו לטראמפ בבחירות. החשבון עלול להיות מוגש לישראל",
      "published": "2026-11-05T09:31:06+00:00",
      "summary": "בריאיון לפודקאסט \"האינטרסנטים\" הסביר ערן ניצן, מגיש הפודקאסט \"עושים היסטוריה\" ולשעבר הציר הכלכלי של ישראל בוושינגטון, שהדלק, הריבית והאינפלציה הם שהכריעו את בחירות האמצע, ושגם המכסים, תוכנית הדגל של טראמפ, רק הסיטו את היבוא ממדינה למדינה ■ \"הדרישה ממנו היא Let us go\""
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#2",
      "title": "לפני הקמת הממשלה: סמוטריץ' מנסה להבטיח מינוי קבע ליהודה אליהו ברמ\"י",
      "published": "2026-11-05T08:55:00+00:00",
      "summary": "מינויו של יהודה אליהו למנהל רשות מקרקעי ישראל נפסל בבג\"ץ מתוך חשש לניגוד עניינים של שניים מחברי ועדת האיתור — והוא מכהן כממלא מקום ■ מזכיר הממשלה ביקש מנציב שירות המדינה לכנס את ועדת האיתור החדשה מכיוון שהבחירות הסתיימו, ורומז שעליה לבחור באליהו מתוך \"חשש ממשי לפגיעה ברציפות הניהולית ובתפקוד של רמ\"י\""
-    },
-    {
-     "ref": "themarker#2",
-     "title": "עליות באירופה; הורדת תחזית לריינמטאל מפילה את מניית ענקית הנשק הגרמנית ב-14%",
-     "published": "2026-11-05T08:25:00+00:00",
-     "summary": "ענקיות האינטרנט של סין מרוצות מהבחירות בארה\"ב; סיאול וטוקיו נסגרו בירידות חדות; סמסונג ו-SK הייניקס נפלו על רקע חשש מפגיעה בביקוש לשבבים למרכזי נתונים ■ מחירי הנפט מתייצבים; משקיעים מעריכים כי יגבר הלחץ לסיום המלחמה באיראן ■ וול סטריט הגיבה בעליות חדות לניצחון הדמוקרטים; דאו ג'ונס זינק ב-3%"
     },
     {
      "ref": "themarker#3",
@@ -257,7 +257,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#6",
-     "title": "הירידות בבורסה מעמיקות: מדד ת\"א 35 יורד ב-2.3%, מדד הבנקים מאבד 3%",
+     "title": "הירידות בבורסה מעמיקות: מדד ת\"א 35 יורד ב-2.5%, מדד הבנקים מאבד 3%",
      "published": "2026-11-05T06:49:01+00:00"
     },
     {
@@ -376,153 +376,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "How the Data Center Backlash Could Play Into the Hands of Big Tech",
+     "published": "2026-11-05T10:30:00+00:00",
+     "summary": "Giants like Amazon and Microsoft stand to benefit from a shakeout."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Treasury, European Bond Yields Tumble as Markets Lifted By U.S. Democrats’ Victory",
+     "published": "2026-11-05T10:15:00+00:00",
+     "summary": "Bond markets cheered the prospect of fiscal restraint in the U.S., as the election result could lead to political gridlock, with a Republican President and Democrat-controlled Congress."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates",
      "published": "2026-11-05T09:46:00+00:00",
      "summary": "Artificial-intelligence stocks continued to weaken globally as investors digested the implications of the Democratic sweep in the U.S. midterm elections."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "Sterling Gains Could Prove Limited Unless BOE Boosts Lofty Rate-Rise Bets",
      "published": "2026-11-05T09:38:00+00:00",
      "summary": "Sterling was flat against the dollar and weaker against the euro. The BOE looks set to raise interest rates Thursday, which ING said would keep the pound supported after recent gains."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#4",
      "title": "A Fifth of Global Refineries at Risk as Oil Demand Peaks in 2032, Wood Mackenzie Says",
      "published": "2026-11-05T09:30:00+00:00",
      "summary": "Around a fifth of global refineries are at risk of closure as they face falling or negative operating net cash margins over the coming years, according to Wood Mackenzie."
     },
     {
-     "ref": "wsj_markets#3",
-     "title": "Stock Market Today: AI Stocks Under Pressure While Dow Futures Rise",
+     "ref": "wsj_markets#5",
+     "title": "Stock Market Today: AI Stocks Under Pressure as Investors Reassess Positions",
      "published": "2026-11-05T09:25:53+00:00",
      "summary": "Chipmaker Qualcomm's earnings disappoint"
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#6",
      "title": "European Defense Stocks Under Pressure After Mixed Earnings, Midterm Results",
      "published": "2026-11-05T09:24:00+00:00",
      "summary": "European defense companies were in decline after a mixed set of earnings and midterm election results that cast doubt on the extent of U.S. military spending going forward."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#7",
      "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
      "published": "2026-11-05T08:58:00+00:00",
      "summary": "Europe’s largest steelmaker booked a 34% surge in earnings before interest, taxes, depreciation and amortization over the third quarter of the year."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#8",
      "title": "Gold Climbs to Two-Week High on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
      "published": "2026-11-05T08:16:00+00:00",
      "summary": "Gold futures rose to a two-week high supported by a weaker dollar and declining Treasury yields after the Democratic sweep of U.S. Congress raised expectations of tighter fiscal discipline."
     },
     {
-     "ref": "wsj_markets#7",
-     "title": "U.S. Treasury Yields Fall to Eight-Week Lows as Markets Digest Midterm Results",
-     "published": "2026-11-05T07:11:00+00:00",
-     "summary": "Long-end Treasury yields fell to eight-week lows as investors saw relief for bond markets following the Democrat sweep in U.S. midterm elections."
-    },
-    {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "WSJ Dollar Index Falls 0.30% to 96.94",
      "published": "2026-11-04T22:23:00+00:00",
      "summary": "The WSJ Dollar Index fell 0.3%, down five of the past six trading days."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "Auto & Transport Roundup: Market Talk",
      "published": "2026-11-04T22:05:00+00:00",
      "summary": "Find insight on motor-vehicle sales in Canada, Uber, BMW and more in the latest Market Talks covering Auto and Transport."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "Financial Services Roundup: Market Talk",
      "published": "2026-11-04T22:04:00+00:00",
      "summary": "Find insight on One Rock Capital Partners, U.K. bank stocks and more in the latest Market Talks covering Financial Services."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-11-04T22:03:00+00:00",
      "summary": "Find insight on gold futures, Canfor, Canadian miners and more in the latest Market Talks covering Basic Materials."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "U.S. Stocks Rally on Divided Government as AI Wobbles Continue",
      "published": "2026-11-04T21:55:00+00:00",
      "summary": "Stocks surged as oil prices tumbled and traders bet a divided government would be good for business, offsetting ongoing unease about artificial-intelligence bets."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "U.S. Natural Gas Futures Rise for Second Session",
      "published": "2026-11-04T21:50:00+00:00",
      "summary": "U.S. natural gas futures posted back-to-back gains, rising 2.2% to $2.959/mmBtu."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#15",
      "title": "Stocks Surge, Oil Plummets on Democrat Victory",
      "published": "2026-11-04T21:32:00+00:00",
      "summary": "Plus, CVS decides to break itself up."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#16",
      "title": "The Blue Wave Sets Off a Potential Regime Change in Markets",
      "published": "2026-11-04T21:21:00+00:00",
      "summary": "U.S. stock indexes surged on hope that legislative gridlock, an AI slowdown and checks on presidential power will mark the start of a new era for the economy."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#17",
      "title": "Oil Futures Fall As Democrats Win U.S. Congress",
      "published": "2026-11-04T20:59:00+00:00",
      "summary": "Oil futures fell after the Democrats won control of the U.S. Congress, raising hopes for a settlement to the Middle East conflict, while diplomatic efforts continued in the region."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#18",
      "title": "U.S. Stocks Jump After Democrats Sweep Congress",
      "published": "2026-11-04T19:16:00+00:00",
      "summary": "U.S. stocks are surging as investors react to a blue wave that puts Democrats in control of both chambers of Congress."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "Health Care Roundup: Market Talk",
      "published": "2026-11-04T17:25:00+00:00",
      "summary": "Find insight on Switzerland’s pharmaceutical industry, Novo Nordisk, Roche Holding and more in the latest Market Talks covering Health Care."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
      "published": "2026-11-04T15:43:00+00:00",
      "summary": "We analyzed everything from estate planning to retirement income options at some of the larger registered investment advisor firms to help retirees select a firm that could best connect them with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#21",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-11-04T14:06:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#22",
      "title": "The Morning Risk Report: The Little-Known Chinese Bank in the Middle of Iranian and Russian Money Flows",
      "published": "2026-11-04T12:38:00+00:00",
      "summary": "Plus: 3M announces $7.4 billion settlement in ‘forever chemicals’ injuries case, and Democrats’ control of the House and Senate set stage for major conflicts."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "Index Funds Are Better When They’re Lucky and Smart",
      "published": "2026-11-04T11:22:00+00:00",
      "summary": "Plus, markets digest the blue tsunami"
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "How Beer Companies Stole Happy Hour From Liquor Brands",
      "published": "2026-11-04T10:30:00+00:00",
      "summary": "Diageo and Pernod Ricard have missed the cocktails-in-a-can craze, and investors are paying the price."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "WSJ Dollar Index Rises 0.23% to 97.22",
-     "published": "2026-11-03T22:24:00+00:00",
-     "summary": "The WSJ Dollar Index rose 0.2%, snapping a four-trading-day losing streak."
     }
    ]
   }
@@ -530,9 +530,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3882.04,
+   "last": 3874.8,
    "prev_close": 3969.53,
-   "change_pct": -2.2,
+   "change_pct": -2.39,
    "as_of": "2026-11-05"
   },
   "SP500": {
@@ -544,23 +544,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1655,
+   "last": 3.1637,
    "prev_close": 3.162,
-   "change_pct": 0.11,
+   "change_pct": 0.05,
    "as_of": "2026-11-05"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 95.76,
+   "last": 96.32,
    "prev_close": 94.62,
-   "change_pct": 1.2,
+   "change_pct": 1.8,
    "as_of": "2026-11-05"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 80284.1719,
+   "last": 80292.0312,
    "prev_close": 80405.2891,
-   "change_pct": -0.15,
+   "change_pct": -0.14,
    "as_of": "2026-11-05"
   }
  },

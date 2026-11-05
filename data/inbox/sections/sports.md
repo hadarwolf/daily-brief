@@ -29,18 +29,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "UEFA Champions League",
      "kickoff_utc": "2026-11-04T17:45:00Z",
-     "home": "PAE AEK",
-     "away": "Real Madrid",
-     "status": "FINISHED",
-     "score": "2-3"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T17:45:00Z",
      "home": "Fenerbahçe",
      "away": "Liverpool",
      "status": "FINISHED",
      "score": "3-2"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T17:45:00Z",
+     "home": "PAE AEK",
+     "away": "Real Madrid",
+     "status": "FINISHED",
+     "score": "2-3"
     },
     {
      "competition": "Championship",
@@ -57,38 +57,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Middlesbrough",
      "status": "FINISHED",
      "score": "2-0"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Porto",
-     "away": "Napoli",
-     "status": "FINISHED",
-     "score": "4-1"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "RB Leipzig",
-     "away": "Man City",
-     "status": "FINISHED",
-     "score": "2-3"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "Viking",
-     "away": "Sabah FK",
-     "status": "FINISHED",
-     "score": "4-1"
-    },
-    {
-     "competition": "UEFA Champions League",
-     "kickoff_utc": "2026-11-04T20:00:00Z",
-     "home": "PSV",
-     "away": "Club Brugge",
-     "status": "FINISHED",
-     "score": "1-2"
     },
     {
      "competition": "UEFA Champions League",
@@ -121,6 +89,38 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Real Betis",
      "status": "FINISHED",
      "score": "2-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "Porto",
+     "away": "Napoli",
+     "status": "FINISHED",
+     "score": "4-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "RB Leipzig",
+     "away": "Man City",
+     "status": "FINISHED",
+     "score": "2-3"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "Viking",
+     "away": "Sabah FK",
+     "status": "FINISHED",
+     "score": "4-1"
+    },
+    {
+     "competition": "UEFA Champions League",
+     "kickoff_utc": "2026-11-04T20:00:00Z",
+     "home": "PSV",
+     "away": "Club Brugge",
+     "status": "FINISHED",
+     "score": "1-2"
     }
    ],
    "today": [
@@ -143,18 +143,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-05T00:30:00Z",
-     "home": "São Paulo",
-     "away": "Corinthians",
-     "status": "FINISHED",
-     "score": "0-0"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-05T00:30:00Z",
      "home": "Botafogo",
      "away": "Mineiro",
      "status": "FINISHED",
      "score": "1-0"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-11-05T00:30:00Z",
+     "home": "São Paulo",
+     "away": "Corinthians",
+     "status": "FINISHED",
+     "score": "0-0"
     }
    ],
    "tomorrow": [
@@ -631,153 +631,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "FA and WSL launch major study into ACL injuries in women's football",
+     "published": "2026-11-05T10:24:06+00:00",
+     "summary": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "FA and WSL launch major study into ACL injuries in women's football",
+     "published": "2026-11-05T10:24:06+00:00",
+     "summary": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "England captain Kane signs new Bayern contract",
      "published": "2026-11-05T08:39:18+00:00",
      "summary": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
      "published": "2026-11-05T08:24:46+00:00",
      "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "Podcast: Celtic under pressure & injury-hit Hearts head for Europe",
      "published": "2026-11-05T08:00:00+00:00",
      "summary": "Can Celtic stop their European slide and can injury-hit Hearts deliver in Switzerland?"
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Ferguson harbours Rangers ambition - gossip",
      "published": "2026-11-05T07:27:38+00:00",
      "summary": "Midfielder expects Rangers move one day as Celtic willing to sell right-back."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "World record 53 red cards shown in Brazilian youth game",
      "published": "2026-11-05T07:23:08+00:00",
      "summary": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#7",
      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
      "published": "2026-11-05T07:17:20+00:00",
      "summary": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#8",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-05T06:30:52+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "Meet the people set for key role in deciding Man City fate",
      "published": "2026-11-05T06:26:11+00:00",
      "summary": "The five individuals at the Premier League set to play a key role in the fate of Manchester City."
     },
     {
-     "ref": "bbc_football#8",
-     "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
-     "published": "2026-11-04T23:18:03+00:00",
-     "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad."
-    },
-    {
-     "ref": "bbc_football#9",
-     "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
-     "published": "2026-11-04T23:18:03+00:00",
-     "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad."
-    },
-    {
      "ref": "bbc_football#10",
+     "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
+     "published": "2026-11-04T23:18:03+00:00",
+     "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad."
+    },
+    {
+     "ref": "bbc_football#11",
+     "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
+     "published": "2026-11-04T23:18:03+00:00",
+     "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad."
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Como score nine to make Champions League history",
      "published": "2026-11-04T22:45:45+00:00",
      "summary": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Dortmund take narrow win over Real Betis",
      "published": "2026-11-04T22:31:57+00:00",
      "summary": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "Emphatic Porto thrash Napoli in second-half romp",
      "published": "2026-11-04T22:17:34+00:00",
      "summary": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Haaland scores winner as Man City beat Leipzig",
      "published": "2026-11-04T22:15:31+00:00",
      "summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Arsenal survive late Slavia scare for hard-fought win",
      "published": "2026-11-04T22:10:07+00:00",
      "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "Liverpool crumble at Kuyt's Fenerbahce",
      "published": "2026-11-04T22:04:16+00:00",
      "summary": "Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Bellingham backheel and Valverde rocket earn Real late win at AEK",
      "published": "2026-11-04T22:04:13+00:00",
      "summary": "Real Madrid continue their 100% start to their Champions League campaign with another late win, this time through captain Federico Valverde to inflict Athens' third loss in a row."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Manchester United beat Roma in epic second-half comeback",
      "published": "2026-11-04T22:04:05+00:00",
      "summary": "Manchester United drag themselves up off the canvas to come from two goals down to record a sensational Champions League victory against Roma at Old Trafford."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#20",
      "title": "Raphinha scores twice as Barcelona beat Aston Villa",
      "published": "2026-11-04T22:04:02+00:00",
      "summary": "Barcelona end Aston Villa's perfect Champions League start with an enthralling win at the Spotify Nou Camp."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "Bayern continue unbeaten CL start with win at Atletico",
      "published": "2026-11-04T22:03:54+00:00",
      "summary": "Bayern Munich continued their unbeaten start to the Champions League season with an assured 2-0 victory at Atletico Madrid."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Spence stars as Inter Milan cruise to win at Feyenoord",
      "published": "2026-11-04T22:03:51+00:00",
      "summary": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "Emery in line for new Villa deal - Thursday's gossip",
      "published": "2026-11-04T21:41:04+00:00",
      "summary": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Hearts lose Miller for two months as injuries mount",
      "published": "2026-11-04T19:00:49+00:00",
      "summary": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "An island in mourning: Tenerife processes death of De Miguel",
-     "published": "2026-11-04T18:51:21+00:00",
-     "summary": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "How landmark Everton compensation prevented Burnley record loss",
-     "published": "2026-11-04T17:48:19+00:00",
-     "summary": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive."
     }
    ]
   },
@@ -787,135 +787,135 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Lionel Messi tops MLS shirt sales for fourth consecutive year - Tribuna.com",
+     "published": "2026-11-05T10:28:01+00:00",
+     "summary": "Lionel Messi tops MLS shirt sales for fourth consecutive year Tribuna.com"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Son Heung-min trails only Messi in 2026 MLS jersey sales - Korea JoongAng Daily",
      "published": "2026-11-05T08:24:01+00:00",
      "summary": "Son Heung-min trails only Messi in 2026 MLS jersey sales Korea JoongAng Daily"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Son Heung-min ranks second behind Messi in MLS jersey sales for second straight year - The Korea Herald",
      "published": "2026-11-05T05:42:33+00:00",
      "summary": "Son Heung-min ranks second behind Messi in MLS jersey sales for second straight year The Korea Herald"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Son Heung-min Second in MLS Jersey Sales for Second Consecutive Year - 조선일보",
      "published": "2026-11-05T05:22:49+00:00",
      "summary": "Son Heung-min Second in MLS Jersey Sales for Second Consecutive Year 조선일보"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Messi and Inter Miami's opponent in the MLS Cup playoffs has been revealed. - Vietnam.vn",
      "published": "2026-11-05T04:59:08+00:00",
      "summary": "Messi and Inter Miami's opponent in the MLS Cup playoffs has been revealed. Vietnam.vn"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Incredibly popular: Thomas Müller outshines several world stars – and pips Robert Lewandowski - LiveScore",
      "published": "2026-11-05T03:40:48+00:00",
      "summary": "Incredibly popular: Thomas Müller outshines several world stars – and pips Robert Lewandowski LiveScore"
     },
     {
-     "ref": "gnews_inter_miami#5",
-     "title": "Messi magic! Inter Miami star scores twice in four-minute span - ESPN",
-     "published": "2026-11-05T03:04:37+00:00",
-     "summary": "Messi magic! Inter Miami star scores twice in four-minute span ESPN"
-    },
-    {
      "ref": "gnews_inter_miami#6",
-     "title": "Lionel Messi has goal, assist to rally Inter Miami to 2-1 victory over Revolution - ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-11-04T23:32:31+00:00",
-     "summary": "Lionel Messi has goal, assist to rally Inter Miami to 2-1 victory over Revolution ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "ref": "gnews_inter_miami#7",
      "title": "Son Heung-min Ranks 2nd in MLS Jersey Sales for Second Consecutive Year Behind Messi - news.sbs.co.kr",
      "published": "2026-11-04T22:06:23+00:00",
      "summary": "Son Heung-min Ranks 2nd in MLS Jersey Sales for Second Consecutive Year Behind Messi news.sbs.co.kr"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#7",
      "title": "International Duty Roundup: Inter Miami CF Academy Players Represent National Teams in October - Inter Miami CF",
      "published": "2026-11-04T20:41:43+00:00",
      "summary": "International Duty Roundup: Inter Miami CF Academy Players Represent National Teams in October Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#8",
      "title": "Who will Lionel Messi play against in the MLS Playoffs? Decision Day scenarios for Inter Miami - Diario AS",
      "published": "2026-11-04T20:36:32+00:00",
      "summary": "Who will Lionel Messi play against in the MLS Playoffs? Decision Day scenarios for Inter Miami Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#9",
      "title": "10 Players With the Highest Selling MLS Jerseys in 2026: Messi Monopoly Under Threat - Sports Illustrated",
      "published": "2026-11-04T20:00:01+00:00",
      "summary": "10 Players With the Highest Selling MLS Jerseys in 2026: Messi Monopoly Under Threat Sports Illustrated"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#10",
      "title": "The 6 Lionel Messi Ballon d'Or jurors who officially placed first place votes for him - MARCA",
      "published": "2026-11-04T19:13:54+00:00",
      "summary": "The 6 Lionel Messi Ballon d'Or jurors who officially placed first place votes for him MARCA"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#11",
      "title": "Messi Tops 2026 MLS Jersey Rankings For Fourth Straight Year - Yahoo Sports",
      "published": "2026-11-04T18:35:12+00:00",
      "summary": "Messi Tops 2026 MLS Jersey Rankings For Fourth Straight Year Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#12",
      "title": "Lil Durk Could Face New Charges As Feds Reveal Prison Investigation In Bail Opposition Filing - HotNewHipHop",
      "published": "2026-11-04T18:18:24+00:00",
      "summary": "Lil Durk Could Face New Charges As Feds Reveal Prison Investigation In Bail Opposition Filing HotNewHipHop"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "Lionel 0 Gauge - Lionel Messi expected to resist joining MLS club Inter Miami and stay in European football until - auroradesio.it",
      "published": "2026-11-04T16:43:38+00:00",
      "summary": "Lionel 0 Gauge - Lionel Messi expected to resist joining MLS club Inter Miami and stay in European football until auroradesio.it"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami CF - Charlotte FC prediction & tips 07.11.2026 - Transfermarkt",
      "published": "2026-11-04T16:22:30+00:00",
      "summary": "Inter Miami CF - Charlotte FC prediction & tips 07.11.2026 Transfermarkt"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi extends his MLS jersey reign for a fourth straight year, leaving three World Cup champions behind - World Soccer Talk",
      "published": "2026-11-04T15:50:00+00:00",
      "summary": "Lionel Messi extends his MLS jersey reign for a fourth straight year, leaving three World Cup champions behind World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Nashville SC chase MLS points record on Decision Day - MLSsoccer.com",
      "published": "2026-11-04T15:42:41+00:00",
      "summary": "Nashville SC chase MLS points record on Decision Day MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Messi closes in on second straight MLS Golden Boot - Score Nigeria",
      "published": "2026-11-04T14:33:10+00:00",
      "summary": "Messi closes in on second straight MLS Golden Boot Score Nigeria"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Messi once again showed who’s in charge: a new MLS record for the fourth consecutive season - MARCA",
      "published": "2026-11-04T13:23:36+00:00",
      "summary": "Messi once again showed who’s in charge: a new MLS record for the fourth consecutive season MARCA"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami CF Names American Airlines Official Airline Partner - https://safariindia.com/",
      "published": "2026-11-04T10:10:36+00:00",
      "summary": "Inter Miami CF Names American Airlines Official Airline Partner https://safariindia.com/"
     },
     {
+     "ref": "gnews_inter_miami#20",
+     "title": "Goals conceded per 90 - Inter Miami CF stats for MLS 2026 - FotMob",
+     "published": "2026-11-04T10:07:40+00:00",
+     "summary": "Goals conceded per 90 - Inter Miami CF stats for MLS 2026 FotMob"
+    },
+    {
      "ref": "gnews_inter_miami#21",
-     "title": "Marriott Bonvoy Partners with Inter Miami CF - https://safariindia.com/",
-     "published": "2026-11-04T10:08:39+00:00",
-     "summary": "Marriott Bonvoy Partners with Inter Miami CF https://safariindia.com/"
+     "title": "Columbus vs. Miami (Apr 21, 2027) Live Score - ESPN",
+     "published": "2026-11-04T08:08:54+00:00",
+     "summary": "Columbus vs. Miami (Apr 21, 2027) Live Score ESPN"
     },
     {
      "ref": "gnews_inter_miami#22",
@@ -1069,27 +1069,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#21",
-     "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Oskaloosa Herald",
-     "published": "2026-11-03T04:51:18+00:00",
-     "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Oskaloosa Herald"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Eagle-Tribune",
      "published": "2026-11-03T04:51:18+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Eagle-Tribune"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#22",
      "title": "Trail Blazers' Deni Avdija: Drops season-high 28 points in win - CBS Sports",
      "published": "2026-11-03T04:45:00+00:00",
      "summary": "Trail Blazers' Deni Avdija: Drops season-high 28 points in win CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija gets the basket plus the foul - ESPN",
      "published": "2026-11-03T04:24:08+00:00",
      "summary": "Deni Avdija gets the basket plus the foul ESPN"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Deni Avdija gets the and-1 to fall - ESPN",
+     "published": "2026-11-03T02:50:02+00:00",
+     "summary": "Deni Avdija gets the and-1 to fall ESPN"
     }
    ]
   }
