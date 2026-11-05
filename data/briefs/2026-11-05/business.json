@@ -1,0 +1,201 @@
+{
+  "section": "business",
+  "date": "2026-11-05",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-05T03:52:10+00:00",
+  "stories": [
+    {
+      "id": "post-midterm-sector-rotation",
+      "kind": "analysis",
+      "en": {
+        "headline": "Wall Street's Blue Wave Rotation Trade, Explained",
+        "scroll": "Democrats' sweep of Congress set off a sector-rotation trade: stocks up, yields and oil down, chip stocks sold on AI-policy risk, while Tel Aviv fell on local political uncertainty.",
+        "coffee": "A Democratic sweep of both chambers of Congress in this week's US midterm elections triggered one of the cleanest sector-rotation trades markets have seen in months. US stocks had their best session in roughly a year and a half — the Dow jumped about 3% and the S&P 500 closed up 1.58% at 7,688.62 — as traders bet that divided government means less of the fiscal spending markets had been pricing in, pulling down Treasury yields and the dollar (the WSJ Dollar Index fell 0.3% to 96.94).\n\nThe rotation ran deeper than one index. Gold pushed above $4,100 as yields and the dollar fell. Oil cratered — Brent dropped more than 8.7% and traded near $93.89, down from $103.60 — on hopes a chastened White House will ease out of the Middle East conflict. Hardest hit were AI-linked chipmakers: a selloff briefly halted trading on South Korea's main exchange, even as \"hyperscaler\" cloud giants rallied and Chinese renewables and autos gained, as investors priced in political risk to the AI buildout after Big Tech's $600 million midterm spending push failed to protect its favored candidates.\n\nTel Aviv was the outlier. The TA-35 fell 1.96% to 3,969.53 even as Wall Street surged, with IBI's chief economist pointing to political uncertainty at home — attempts to contest Israel's own election results — rather than anything from Washington.",
+        "deep": "## Background\n\nMarkets price in expectations, not just facts. A \"sector rotation\" happens when investors sell the winners of one period and buy into another part of the market, usually because something has changed the expected future cash flows of each sector — a shift in interest rates, regulation, or political risk. Divided government, where the opposition controls Congress while the other party holds the White House, is a classic trigger for this: it generally makes large new spending bills, tax overhauls, or aggressive new regulation harder to pass. Markets often read that as lowering both fiscal risk (the risk that government deficits balloon and flood the bond market with new debt, pushing yields up) and policy risk (the risk that a specific industry gets hit by new rules).\n\n## The story\n\nThis week's US midterm elections delivered Democrats control of both the House and the Senate — described as the party's largest House swing in more than 75 years. Wall Street responded with its best session in about a year and a half: the Dow jumped roughly 3% and the S&P 500 closed up 1.58% at 7,688.62. The logic traders cited directly: a divided Congress curbs the Trump administration's tax-and-spending agenda, reducing the Treasury bond supply markets had been bracing for — which is why Treasuries rallied for a second straight day and yields fell. The weaker-yield, weaker-dollar combination (the WSJ Dollar Index fell 0.3% to 96.94, its fifth decline in six sessions) pushed gold back above $4,100.\n\nOil told a separate but related story. Brent crude fell more than 8.7% in its sharpest single session in months and kept sliding into Thursday, trading near $93.89, down from $103.60, after Vice President JD Vance explicitly blamed the Iran war for the Republican defeat and President Trump said he had no immediate plans for further strikes on Iran. Traders read that combination — a chastened administration plus a Congress with less appetite for funding a war — as raising the odds of Middle East de-escalation, which is bearish for crude.\n\nThe rotation's sharpest edge ran through tech itself. Hyperscalers (the handful of cloud and AI-infrastructure giants that build the largest data centers) rallied, while AI-linked chipmakers sold off hard enough that a semiconductor rout on South Korea's main exchange triggered a trading halt. The same rotation lifted less-obvious winners elsewhere in Asia: Chinese renewable-energy stocks extended a sharp rally, and automakers and consumer-goods names gained even as regional chipmakers sank. The explanation markets settled on: Big Tech spent roughly $600 million trying to shape the midterms and lost anyway, with voter anger at AI's economic disruption and Silicon Valley's political spending helping fuel the Democratic wave. That anger is now being priced as direct political risk to the AI capital-expenditure (\"capex\") boom itself.\n\n## Second-order effects\n\nTwo slower-moving stories sit underneath the one-day price moves. First, the Financial Times reported midterm results could affect roughly 45% of planned US data-center capacity expansion — a direct hit to the capital cycle, the pattern where today's hottest, most-funded industry overbuilds capacity and erodes its own future returns. A political check on that buildout can, paradoxically, be a medium-term positive for investors worried about overcapacity even as it is a short-term negative for chip demand.\n\nSecond, the \"blue wave\" keeps a different policy risk alive: wealth taxes. California's Proposition 40 billionaire tax looks set to fail — a rare win for mega-donors — but the broader Democratic wave keeps national wealth-tax proposals on the table, a live tail risk for concentrated tech and founder wealth even as today's rally is driven by hopes of gridlock elsewhere. Democrats also face a narrower mandate than the market move suggests: commentary around the results noted the party will try to use the next two years to build toward 2028, but will struggle to force through much against a presidency that still holds veto power.\n\nIsrael offered a reminder that not every market trades the same news the same way. The TA-35 closed down 1.96% at 3,969.53 the same day Wall Street opened sharply higher, a move IBI's chief economist Rafi Gozlan attributed mainly to political instability at home — attempts to contest Israel's own recent election results — rather than to anything from Washington. Israeli tech names including Check Point, Tower, Nice, and Amdocs also fell sharply after earnings, even where results beat forecasts, suggesting the negative sentiment hitting US-listed tech stocks is not sparing Israeli shares either.\n\n## What to watch next\n\nThree threads worth following: whether the chip-stock selloff is a one-day repricing or the start of a sustained rotation out of AI-infrastructure names; whether a less combative Congress actually translates into lower Treasury issuance and durably lower yields, rather than just a one-day relief rally; and whether oil's slide holds if the hoped-for Middle East de-escalation doesn't materialize as fast as traders are now betting. Also watch whether Democrats can convert congressional control into real policy — on taxes, AI regulation, or spending — given the limits a presidential veto still imposes. Closer to home, watch whether Israel's political uncertainty over the election-result challenges resolves or deepens — that, more than Wall Street, is what Gozlan flagged as the driver of the TA-35's divergence."
+      },
+      "he": {
+        "headline": "רוטציית ה'גל הכחול': איך וול סטריט תמחרה מחדש ממשל מפוצל בוושינגטון",
+        "scroll": "ניצחון הדמוקרטים בקונגרס חולל רוטציה סקטוריאלית (sector rotation) קלאסית: המניות עלו, התשואות והנפט ירדו, מניות השבבים צנחו על רקע סיכון מדיני ל-AI, ותל אביב ירדה בשל אי-יציבות פוליטית מקומית.",
+        "coffee": "ניצחון מכריע של הדמוקרטים בשני בתי הקונגרס בבחירות האמצע בארה\"ב השבוע הוביל לאחת מהרוטציות הסקטוריאליות (sector rotation) הנקיות שהשווקים ראו זה זמן. וול סטריט רשמה את יום המסחר הטוב ביותר שלה כבר כשנה וחצי — דאו ג'ונס זינק כ-3% ומדד S&P 500 נסגר בעלייה של 1.58% ל-7,688.62 נקודות — על רקע הערכת סוחרים שממשל מפוצל (divided government) מצמצם את ההוצאה הפיסקלית שהשווקים גילמו, מה שהוריד את תשואות האג\"ח ואת הדולר (מדד הדולר של וול סטריט ג'ורנל נפל ב-0.3% ל-96.94).\n\nהרוטציה חרגה ממדד בודד. הזהב חזר מעל ל-4,100 דולר על רקע תשואות ודולר חלשים יותר. הנפט צנח בחדות — חביות ברנט ירדו ביותר מ-8.7% ונסחרו סביב 93.89 דולר, לעומת 103.60 דולר קודם לכן — על תקוות שממשל מרוסן יותר יוביל לדה-אסקלציה במזרח התיכון. הפגיעה החדה ביותר הייתה במניות השבבים הקשורות ל-AI: גל מכירות עצר זמנית את המסחר בבורסה הראשית של דרום קוריאה, בעוד מניות ה'היפרסקיילרס' (hyperscalers, חברות תשתיות העננים וה-AI הגדולות) עלו, וגם מניות אנרגיה מתחדשת סיניות ויצרניות רכב עלו, על רקע תמחור מחדש של הסיכון המדיני לבום ה-AI אחרי שהטכנולוגיה הגדולה הוציאה כ-600 מיליון דולר על בחירות האמצע וכשלה בכך.\n\nתל אביב הייתה החריגה: מדד ת\"א-35 ירד 1.96% ל-3,969.53 נקודות באותו היום שבו וול סטריט זינקה, תנועה שהכלכלן הראשי של בית ההשקעות אי.בי.אי תלה באי-יציבות פוליטית מקומית ולא בוושינגטון.",
+        "deep": "## רקע\n\nהשווקים מתמחרים תמיד ציפיות, לא רק עובדות. \"רוטציה סקטוריאלית\" (sector rotation) מתרחשת כשמשקיעים מוכרים את המנצחות של תקופה אחת וקונים חלק אחר של השוק, בדרך כלל כתגובה לשינוי בציפיות לגבי תזרים המזומנים העתידי של כל ענף — שינוי בריבית, ברגולציה או בסיכון המדיני. \"ממשל מפוצל\" (divided government), מצב שבו המפלגה המתחרה שולטת בקונגרס בזמן שמפלגה אחרת מחזיקה בבית הלבן, הוא טריגר קלאסי לכך: הוא מקשה בדרך כלל על העברת חוקי הוצאות גדולים, רפורמות מס או רגולציה אגרסיבית. השווקים נוטים לפרש זאת כהפחתה גם של הסיכון הפיסקלי (fiscal risk — הסיכון שהגירעון הממשלתי יתנפח ויציף את שוק האג\"ח בחוב חדש, מה שמעלה תשואות) וגם של הסיכון הרגולטורי (regulatory risk) הספציפי לענפים מסוימים.\n\n## הסיפור\n\nבבחירות האמצע שנערכו השבוע בארה\"ב, הדמוקרטים זכו בשליטה בשני בתי הקונגרס — תיאור שניתן לכך הוא השינוי הגדול ביותר במפת הבית הנבחרים ביותר מ-75 שנה. וול סטריט הגיבה במסחר הטוב ביותר שלה כבר כשנה וחצי: דאו ג'ונס זינק כ-3%, ומדד S&P 500 נסגר בעלייה של 1.58% ל-7,688.62 נקודות. ההיגיון שהסוחרים ציטטו במישרין: קונגרס מפוצל יקשה על מימוש תוכנית המס וההוצאות של ממשל טראמפ, ומצמצם את היקף הנפקות האג\"ח הממשלתי שהשווקים גילמו — ולכן איגרות החוב האמריקאיות (treasuries) עלו ליום שני ברצף והתשואות ירדו. השילוב של תשואות ודולר חלשים יותר (מדד הדולר של וול סטריט ג'ורנל צנח 0.3% ל-96.94, הנפילה החמישית מתוך שישה ימי מסחר) החזיר את הזהב מעל ל-4,100 דולר לאונקיה.\n\nלנפט היה סיפור משלו, אך קשור. חביות ברנט צנחו ביותר מ-8.7%, בתנועה החדה ביותר במסחר יחיד זה חודשים, והמשיכו להידרדר גם ביום חמישי לרמה של כ-93.89 דולר (לעומת 103.60 דולר קודם לכן), אחרי שסגן הנשיא ג'יי.די ואנס תלה את התבוסה הרפובליקנית במלחמת איראן, וטראמפ אמר שאין לו כוונה לתקוף את איראן בעת הקרובה. הסוחרים קראו בשילוב הזה — ממשל נזוף יחד עם קונגרס עם תאווה פחותה למימון מלחמה — הסתברות גבוהה יותר לדה-אסקלציה במזרח התיכון, מה שדוחף את הנפט למטה.\n\nהחוד החד ביותר של הרוטציה עבר בתוך ענף הטכנולוגיה עצמו. מניות ה\"היפרסקיילרס\" (hyperscalers — חברות תשתיות העננים וה-AI הגדולות) עלו, בעוד מניות יצרניות השבבים הקשורות ל-AI צנחו בחדות עד כדי עצירת מסחר בבורסה הראשית של דרום קוריאה. אותה רוטציה הרימה גם מנצחות פחות מובנות מאליהן באסיה: מניות אנרגיה מתחדשת סיניות המשיכו ראלי חד, ויצרניות רכב ומוצרי צריכה עלו גם הן, בזמן שמניות השבבים האזוריות צנחו. ההסבר שהשווקים אימצו: הטכנולוגיה הגדולה הוציאה כ-600 מיליון דולר בניסיון להשפיע על בחירות האמצע ונכשלה בכך, בעוד זעם הבוחרים על השיבוש הכלכלי שה-AI מחולל ועל המעורבות הפוליטית של סיליקון ואלי סייע להזין את הגל הדמוקרטי. הזעם הזה מתומחר כעת כסיכון מדיני ישיר לבום ההוצאות ההוניות (capital expenditure, או \"קאפקס\") בתחום ה-AI.\n\n## אפקטים מסדר שני\n\nשני סיפורים אטיים יותר עומדים מתחת לתנודות המחירים של יום אחד. ראשית, ה-Financial Times דיווח שתוצאות הבחירות עשויות להשפיע על כ-45% מתוכניות ההרחבה של מרכזי הנתונים (data centers) בארה\"ב — מכה ישירה במחזור ההון (capital cycle), התבנית שבה הענף החם והממומן ביותר של התקופה בונה יתר על המידה ומכרסם בתשואות העתידיות שלו עצמו. בלימה פוליטית של אותה הרחבה היא, במידה מסוימת ופרדוקסלית, חיובית לטווח הבינוני עבור משקיעים שמודאגים מעודף קיבולת — גם אם היא שלילית לטווח הקצר לביקוש לשבבים.\n\nשנית, ה\"גל הכחול\" משאיר על השולחן סיכון מדיני אחר: מיסי עושר. הצעת החוק בקליפורניה למיסוי מיליארדרים (Proposition 40) צפויה להיכשל — ניצחון נדיר לתורמי העל — אבל הגל הדמוקרטי הרחב יותר משאיר את הדיון במיסי עושר ברמה הלאומית פתוח, סיכון זנב (tail risk) שעדיין קיים לעושר ממוקד בהון טכנולוגי וביזמים, גם אם הראלי של היום מונע מתקוות לפיגור חוקי (gridlock) בנושאים אחרים. לדמוקרטים יש גם מנדט צר יותר ממה שתנועת השוק מרמזת: לפי הפרשנות שליוותה את התוצאות, המפלגה תנסה לנצל את השנתיים הקרובות כדי למנף את עצמה לקראת 2028, אך תתקשה להשיג הרבה מול נשיא שעדיין מחזיק בזכות וטו.\n\nישראל סיפקה תזכורת לכך שלא כל שוק מתמחר את אותן חדשות באותו אופן. מדד ת\"א-35 נסגר בירידה של 1.96% ל-3,969.53 נקודות, באותו היום שבו וול סטריט נפתחה בעליות חדות — תנועה שרפי גוזלן, הכלכלן הראשי של בית ההשקעות אי.בי.אי, תלה בעיקר באי-יציבות פוליטית מקומית, ובפרט בניסיונות לערער על תוצאות הבחירות בישראל עצמה, ולא בוושינגטון. גם מניות טכנולוגיה ישראליות כמו צ'ק פוינט, טאואר, נייס ואמדוקס צנחו בחדות אחרי פרסום הדו\"חות, גם כשחלקן עקפו את התחזיות — סימן שהסנטימנט השלילי שפוגע במניות הטכנולוגיה האמריקאיות לא פוסח גם על החברות הישראליות.\n\n## מה לעקוב אחריו בהמשך\n\nשלושה קווים ששווה לעקוב אחריהם: האם הנפילה במניות השבבים היא תמחור חד-יומי או תחילתה של רוטציה מתמשכת מתוך מניות תשתיות ה-AI; האם קונגרס פחות עוין אכן יתורגם לירידה מתמשכת בהנפקות האג\"ח הממשלתי ובתשואות, ולא רק לראלי הקלה של יום אחד; והאם ירידת הנפט תישמר אם הדה-אסקלציה המיוחלת במזרח התיכון לא תתממש בקצב שהסוחרים מגלמים כבר כעת. שווה לעקוב גם אחרי השאלה אם הדמוקרטים יצליחו לתרגם שליטה בקונגרס למדיניות ממשית — במס, ברגולציית AI או בהוצאות — בהינתן המגבלות שזכות הווטו הנשיאותית עדיין מטילה. קרוב יותר לבית, שווה לעקוב אחרי השאלה אם חוסר הוודאות הפוליטי בישראל בנוגע לערעורים על תוצאות הבחירות יתפוגג או יחמיר — זה, יותר מוול סטריט, מה שגוזלן סימן כגורם לפיצול בין ת\"א-35 לשאר העולם."
+      },
+      "tags": [
+        "us-midterms",
+        "sector-rotation",
+        "ai-stocks",
+        "israel-markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "US stocks post best day since August after Democrats sweep midterms",
+          "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Oil tumbles below $100 on post-election peace hopes",
+          "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "US midterm results herald upheaval in Middle East policy",
+          "url": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Democratic wave keeps US wealth taxes on the agenda despite California setback",
+          "url": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
+          "url": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Vance blames Iran war for crushing Republican midterms defeat",
+          "url": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "How Democrats pulled off the blue wave in maps and charts",
+          "url": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Voters have put a helpful chill on the US data centre boom",
+          "url": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "South Korean Chip Selloff Triggers Trading Halt on Main Bourse",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-7-led-by-auto-pharma-stocks-f42def12?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Oil Continues to Fall Amid Rising Hopes to End Iran War",
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "WSJ Dollar Index Falls 0.30% to 96.94",
+          "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Rally on Divided Government as AI Wobbles Continue",
+          "url": "https://www.wsj.com/finance/investing/u-s-stocks-rally-on-divided-government-as-ai-wobbles-continue-1a679abe?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Blue Wave Sets Off a Potential Regime Change in Markets",
+          "url": "https://www.wsj.com/politics/elections/the-winners-and-losers-on-wall-street-from-the-election-earthquake-55ff9cd4?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Oil Futures Fall As Democrats Win U.S. Congress",
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Gold Recovers $4,000 Level as Oil Prices Fall",
+          "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil Slides",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Treasuries Gain as US Vote Fuels Hopes for Curbing Bond Supply",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-gain-as-us-vote-fuels-hopes-for-curbing-bond-supply"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Chinese Renewables Stocks Extend Surge After Democratic Sweep",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/chinese-renewables-stocks-extend-surge-after-democratic-sweep"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Blue Wave Stock Rotation Sinks Asian Chipmakers, Boosts Autos",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/blue-wave-stock-rotation-sinks-asian-chipmakers-boosts-autos"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Gold Extends Rebound Above $4,100 as Dollar and Yields Decline",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Asian Markets React as Trump Cools Iran Fears",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-04/asian-markets-react-as-trump-cools-iran-fears-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Post-Midterm Rotation Hits Chips, Boosts China: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "דאו ג'ונס זינק ב-3% — היום הטוב ביותר של המדד בשנה וחצי האחרונות",
+          "url": "https://www.themarker.com/wallstreet/2026-11-04/ty-article-live/000001a1-9606-df63-ade5-f6579a5e0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "\"המשקיעים תמיד ירצו עוד\": מהפכת ה–AI מטלטלת את הישראליות בוול סטריט",
+          "url": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a76c-defa-a7f7-af7f851e0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "לאחר הירידות בבורסה: \"הניסיונות לערער על תוצאות הבחירות בישראל לא מוסיפים ביטחון לשוק\"",
+          "url": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a76a-d041-a5f9-e76bae070000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הניצחון מאפשר לדמוקרטים לשנות את המדיניות הכלכלית, אבל רק בעירבון מוגבל",
+          "url": "https://www.themarker.com/wallstreet/2026-11-04/ty-article/.premium/000001a1-a6a8-db8d-a9f7-a7ecce4e0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3969.53,
+      "prev_close": 4048.9399,
+      "change_pct": -1.96,
+      "as_of": "2026-11-04"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7688.6201,
+      "prev_close": 7568.9199,
+      "change_pct": 1.58,
+      "as_of": "2026-11-04"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.151,
+      "prev_close": 3.162,
+      "change_pct": -0.35,
+      "as_of": "2026-11-05"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 93.89,
+      "prev_close": 103.6,
+      "change_pct": -9.37,
+      "as_of": "2026-11-04"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 80641.0781,
+      "prev_close": 77345.0469,
+      "change_pct": 4.26,
+      "as_of": "2026-11-05"
+    }
+  }
+}

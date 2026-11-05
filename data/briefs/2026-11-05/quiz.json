@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-05",
+  "questions": [
+    {
+      "id": "midterms-iran-casualty",
+      "section": "geopolitics",
+      "story_id": "us-midterms-foreign-policy-shock",
+      "answer_index": 2,
+      "en": {
+        "question": "What foreign policy commitment did senior Republicans distance themselves from after Tuesday's sweeping midterm loss?",
+        "options": [
+          "Military aid to Ukraine",
+          "The trade dispute with Canada",
+          "The war in Iran",
+          "Long-standing support for Israel"
+        ],
+        "explanation": "Vice President Vance moved to distance himself from the Iran war, and Trump himself said the conflict had hurt Republicans at the polls."
+      },
+      "he": {
+        "question": "ממה התרחקו רפובליקנים בכירים במדיניות החוץ לאחר התבוסה המכרעת בבחירות לקונגרס ביום שלישי?",
+        "options": [
+          "הסיוע הצבאי לאוקראינה",
+          "הסכסוך הסחר עם קנדה",
+          "מלחמת איראן",
+          "התמיכה המתמשכת בישראל"
+        ],
+        "explanation": "סגן הנשיא ואנס מיהר להתרחק ממלחמת איראן, וטראמפ עצמו אמר שהסכסוך פגע ברפובליקנים בקלפי."
+      }
+    },
+    {
+      "id": "eisenkort-mandate-favorite",
+      "section": "israeli_politics",
+      "story_id": "government-formation-eisenkort",
+      "answer_index": 1,
+      "en": {
+        "question": "Which party leader looked positioned to receive the mandate to form Israel's next government, after Ra'am and other parties filed their recommendations?",
+        "options": [
+          "Aryeh Deri",
+          "Gadi Eisenkort",
+          "Benjamin Netanyahu",
+          "Moshe Feiglin"
+        ],
+        "explanation": "Ra'am said it would recommend Yesh party chair Gadi Eisenkort, aligning him with the \"change bloc\" and putting him in position to receive the mandate."
+      },
+      "he": {
+        "question": "מי מראשי המפלגות נראה במעמד המוביל לקבל את המנדט להרכיב את הממשלה הבאה של ישראל, לאחר שרע\"ם ומפלגות נוספות הגישו את המלצותיהן?",
+        "options": [
+          "אריה דרעי",
+          "גדי איזנקוט",
+          "בנימין נתניהו",
+          "משה פייגלין"
+        ],
+        "explanation": "רע\"ם הודיעה שתמליץ על יו\"ר מפלגת ישר גדי איזנקוט, מה שמיישר אותו עם \"גוש השינוי\" ומציב אותו במעמד מוביל לקבלת המנדט."
+      }
+    },
+    {
+      "id": "ta35-divergence-reason",
+      "section": "business",
+      "story_id": "post-midterm-sector-rotation",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did Tel Aviv's TA-35 index fall even as Wall Street surged after the US midterm results?",
+        "options": [
+          "Local political uncertainty over attempts to contest Israel's own election results",
+          "A new round of US tariffs on Israeli exports",
+          "Israeli interest rates were raised sharply that day",
+          "A sharp drop in Israeli tech earnings across the board"
+        ],
+        "explanation": "IBI's chief economist attributed the TA-35's drop mainly to domestic political instability, specifically attempts to contest Israel's recent election results, not to anything from Washington."
+      },
+      "he": {
+        "question": "למה מדד ת\"א-35 ירד גם כשוול סטריט זינקה בתגובה לתוצאות בחירות האמצע בארה\"ב?",
+        "options": [
+          "אי-יציבות פוליטית מקומית סביב ניסיונות לערער על תוצאות הבחירות בישראל עצמה",
+          "סבב חדש של מכסים אמריקאיים על יצוא ישראלי",
+          "ריבית בישראל הועלתה בחדות באותו היום",
+          "נפילה חדה בדוחות הרבעוניים של חברות הטכנולוגיה הישראליות באופן גורף"
+        ],
+        "explanation": "הכלכלן הראשי של אי.בי.אי תלה את הנפילה בעיקר באי-יציבות פוליטית מקומית, ובפרט בניסיונות לערער על תוצאות הבחירות האחרונות בישראל, ולא בוושינגטון."
+      }
+    }
+  ]
+}
