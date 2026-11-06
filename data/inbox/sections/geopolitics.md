@@ -66,105 +66,105 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#8",
+     "title": "Uninsured and flooded out, a Colorado man worries if life will be normal again - AP News",
+     "published": "2026-11-06T05:03:00+00:00",
+     "summary": "Uninsured and flooded out, a Colorado man worries if life will be normal again AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "25 years after 'Britney,' 5 new Britney Spears songs showcase a pop icon at a transformative moment - AP News",
+     "published": "2026-11-06T05:03:00+00:00",
+     "summary": "25 years after 'Britney,' 5 new Britney Spears songs showcase a pop icon at a transformative moment AP News"
+    },
+    {
+     "ref": "ap_world#10",
      "title": "They fled persecution in Myanmar. In Muslim-majority Malaysia, Rohingya still struggle to belong - AP News",
      "published": "2026-11-06T03:44:00+00:00",
      "summary": "They fled persecution in Myanmar. In Muslim-majority Malaysia, Rohingya still struggle to belong AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "FIFA council member Tashima to run against Infantino in election, Japanese media report - AP News",
      "published": "2026-11-06T03:36:00+00:00",
      "summary": "FIFA council member Tashima to run against Infantino in election, Japanese media report AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million - AP News",
      "published": "2026-11-06T03:22:00+00:00",
      "summary": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of threatening estate - AP News",
      "published": "2026-11-06T02:59:00+00:00",
      "summary": "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of threatening estate AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
      "title": "Row house fire in Brooklyn kills 6 people and injures 9 - AP News",
      "published": "2026-11-06T02:49:00+00:00",
      "summary": "Row house fire in Brooklyn kills 6 people and injures 9 AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
+     "title": "Once a teen activist, Hong Kong’s Joshua Wong is spending years of his adult life in prison - AP News",
+     "published": "2026-11-06T02:42:00+00:00",
+     "summary": "Once a teen activist, Hong Kong’s Joshua Wong is spending years of his adult life in prison AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison - AP News",
+     "published": "2026-11-06T02:40:00+00:00",
+     "summary": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison AP News"
+    },
+    {
+     "ref": "ap_world#17",
      "title": "3 executions are carried out on the same day in the US, including Florida tying a record - AP News",
      "published": "2026-11-06T02:32:00+00:00",
      "summary": "3 executions are carried out on the same day in the US, including Florida tying a record AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#18",
      "title": "Gina Hinojosa begins work to take office as Texas’ first Democratic governor in decades - AP News",
      "published": "2026-11-06T02:21:00+00:00",
      "summary": "Gina Hinojosa begins work to take office as Texas’ first Democratic governor in decades AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#19",
+     "title": "UN climate talks start in the year of disasters, energy price shocks and fast rising temperatures - AP News",
+     "published": "2026-11-06T02:06:00+00:00",
+     "summary": "UN climate talks start in the year of disasters, energy price shocks and fast rising temperatures AP News"
+    },
+    {
+     "ref": "ap_world#20",
      "title": "Left-leaning Washington and Colorado join more conservative states in banning transgender athletes - AP News",
-     "published": "2026-11-06T02:09:48+00:00",
+     "published": "2026-11-06T02:04:00+00:00",
      "summary": "Left-leaning Washington and Colorado join more conservative states in banning transgender athletes AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "‘JD, habibi.’ Arabs celebrate El-Sayed’s use of a term of affection in his victory speech - AP News",
-     "published": "2026-11-06T02:02:00+00:00",
-     "summary": "‘JD, habibi.’ Arabs celebrate El-Sayed’s use of a term of affection in his victory speech AP News"
-    },
-    {
-     "ref": "ap_world#17",
+     "ref": "ap_world#21",
      "title": "A veteran Arab lawmaker in Israel is willing to break with precedent to topple Netanyahu - AP News",
      "published": "2026-11-06T01:53:00+00:00",
      "summary": "A veteran Arab lawmaker in Israel is willing to break with precedent to topple Netanyahu AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#22",
      "title": "New Zealand police dismiss rape allegation against Cape Verde soccer captain and charge accuser - AP News",
      "published": "2026-11-06T01:42:00+00:00",
      "summary": "New Zealand police dismiss rape allegation against Cape Verde soccer captain and charge accuser AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "Trump makes the Oval Office a national monument. But future presidents can still redecorate - AP News",
-     "published": "2026-11-06T01:31:00+00:00",
-     "summary": "Trump makes the Oval Office a national monument. But future presidents can still redecorate AP News"
-    },
-    {
-     "ref": "ap_world#20",
+     "ref": "ap_world#23",
      "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - AP News",
      "published": "2026-11-06T01:24:00+00:00",
      "summary": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#24",
      "title": "Hegseth is not under consideration as jockeying begins for Tennessee Senate seat, AP source says - AP News",
      "published": "2026-11-06T01:21:00+00:00",
      "summary": "Hegseth is not under consideration as jockeying begins for Tennessee Senate seat, AP source says AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "LIV and let die: Rival league tells bankruptcy court it will wind down operations - AP News",
-     "published": "2026-11-06T00:51:00+00:00",
-     "summary": "LIV and let die: Rival league tells bankruptcy court it will wind down operations AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "California Gov. Newsom says he will commute all death sentences in state to life without parole - AP News",
-     "published": "2026-11-06T00:47:00+00:00",
-     "summary": "California Gov. Newsom says he will commute all death sentences in state to life without parole AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Former Mississippi district attorney sentenced to more than 3 years in prison for bribery scheme - AP News",
-     "published": "2026-11-06T00:41:00+00:00",
-     "summary": "Former Mississippi district attorney sentenced to more than 3 years in prison for bribery scheme AP News"
     }
    ]
   },
@@ -174,144 +174,150 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "'Several victims' after bus crashes in France, officials say",
-     "published": "2026-11-06T09:46:49+00:00",
-     "summary": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved."
+     "title": "Two dead after bus crashes in France, officials say",
+     "published": "2026-11-06T10:20:46+00:00",
+     "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
     },
     {
      "ref": "bbc_world#1",
      "title": "Tanzanian opposition leader found guilty of incitement",
-     "published": "2026-11-06T09:33:31+00:00",
+     "published": "2026-11-06T10:05:32+00:00",
      "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason."
     },
     {
      "ref": "bbc_world#2",
+     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "published": "2026-11-06T09:57:04+00:00",
+     "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
+    },
+    {
+     "ref": "bbc_world#3",
      "title": "Trump signs order to preserve Oval Office as national monument",
      "published": "2026-11-06T09:19:57+00:00",
      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Somalia's top court rejects president's term extension amid political crisis",
      "published": "2026-11-06T08:18:10+00:00",
      "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
      "published": "2026-11-06T07:56:19+00:00",
      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
      "published": "2026-11-06T07:33:41+00:00",
      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "Macau jails pro-democracy campaigner in city's first national security case",
      "published": "2026-11-06T06:46:21+00:00",
      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\"."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "Did a data centre revolt affect the US mid-term election results?",
      "published": "2026-11-06T06:01:13+00:00",
      "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#9",
      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
      "published": "2026-11-06T06:00:46+00:00",
      "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#10",
      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
      "published": "2026-11-06T02:08:57+00:00",
      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
      "published": "2026-11-06T01:28:03+00:00",
      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
      "published": "2026-11-06T00:02:57+00:00",
      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
      "published": "2026-11-05T23:16:53+00:00",
      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "California governor commutes sentences for state's 548 death row inmates",
      "published": "2026-11-05T23:09:33+00:00",
      "summary": "California has historically had the largest population of people on death row in the US."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "Nigerian court rules opposition candidate cannot stand in elections",
      "published": "2026-11-05T22:00:33+00:00",
      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Who could be behind hoax bomb threats to European air travel?",
      "published": "2026-11-05T19:58:40+00:00",
      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "Eight killed in series of shootings in western Turkey",
      "published": "2026-11-05T19:32:54+00:00",
      "summary": "Victims are found in several locations in three separate vehicles, according to local reports."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
      "published": "2026-11-05T19:08:48+00:00",
      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
      "published": "2026-11-05T18:22:46+00:00",
      "summary": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "French protests see numbers surge as unions join strikes over high cost of living",
      "published": "2026-11-05T17:59:53+00:00",
      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#21",
      "title": "Paraguay President Santiago Peña resigns after bank collapse",
      "published": "2026-11-05T17:40:40+00:00",
      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#22",
      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
      "published": "2026-11-05T17:39:48+00:00",
      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#23",
      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
      "published": "2026-11-05T10:33:21+00:00",
      "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\"."
     },
     {
-     "ref": "bbc_world#23",
+     "ref": "bbc_world#24",
      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
      "published": "2026-11-05T03:47:56+00:00",
      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
@@ -348,54 +354,66 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
+     "title": "The True Meaning of Power",
+     "published": "2026-11-06T09:00:00+00:00",
+     "summary": "What the godfather of realism can teach Trump."
+    },
+    {
+     "ref": "foreign_affairs#1",
+     "title": "Don’t Soak the Rich",
+     "published": "2026-11-06T09:00:00+00:00",
+     "summary": "Weak institutions—not private fortunes—deform democracy."
+    },
+    {
+     "ref": "foreign_affairs#2",
      "title": "China’s Economics of Denial",
      "published": "2026-11-05T09:00:00+00:00",
      "summary": "Beijing’s theory of success in the face of failure."
     },
     {
-     "ref": "foreign_affairs#1",
+     "ref": "foreign_affairs#3",
      "title": "The New Congress Can Repair Civil-Military Relations",
      "published": "2026-11-05T09:00:00+00:00",
      "summary": "How to blunt Hegseth’s assault on the brass."
     },
     {
-     "ref": "foreign_affairs#2",
+     "ref": "foreign_affairs#4",
      "title": "The Dangers of a Lame-Duck Trump",
      "published": "2026-11-04T09:00:00+00:00",
      "summary": "How far will he go to make peace—and war?"
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#5",
      "title": "The Missing Critical Minerals Investment",
      "published": "2026-11-04T09:00:00+00:00",
      "summary": "To catch up to China, America and its allies must dig."
     },
     {
-     "ref": "foreign_affairs#4",
+     "ref": "foreign_affairs#6",
      "title": "What Sanctions Get Right",
      "published": "2026-11-03T09:00:00+00:00",
      "summary": "A useful tool has been unjustly maligned."
     },
     {
-     "ref": "foreign_affairs#5",
+     "ref": "foreign_affairs#7",
      "title": "The Fight for the Future of Democratic Foreign Policy",
      "published": "2026-11-03T09:00:00+00:00",
      "summary": "Which debates matter most for 2028."
     },
     {
-     "ref": "foreign_affairs#6",
+     "ref": "foreign_affairs#8",
      "title": "America’s AI Ambitions Depend on Taiwan",
      "published": "2026-11-03T05:00:00+00:00",
      "summary": "The United States and China are locked in a global competition to determine who will dominate artificial intelligence and whether it will be democracies or autocracies that set the standards and values of the new digital age. The United States leads the world in the sophistication and power of its artificial intelligence models, and its innovation base and investment in research and development re"
     },
     {
-     "ref": "foreign_affairs#7",
+     "ref": "foreign_affairs#9",
      "title": "The Limits of China’s Self-Sufficiency",
      "published": "2026-11-02T09:00:00+00:00",
      "summary": "China’s Food Insecurity Could Prevent a War Over Taiwan"
     },
     {
-     "ref": "foreign_affairs#8",
+     "ref": "foreign_affairs#10",
      "title": "How America Can Counter Chinese Coercion",
      "published": "2026-11-02T09:00:00+00:00",
      "summary": "The case for an economic security alliance."
@@ -408,15 +426,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Belgium to allow home searches for suspected illegal migrants - Reuters",
-     "published": "2026-11-06T07:07:00+00:00",
-     "summary": "Belgium to allow home searches for suspected illegal migrants Reuters"
+     "title": "Bus crashes in eastern France, several casualties, authorities say - Reuters",
+     "published": "2026-11-06T10:00:15+00:00",
+     "summary": "Bus crashes in eastern France, several casualties, authorities say Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "Tech selloff wipes out hedge fund gains, prompting risk cuts and layoffs - Reuters",
-     "published": "2026-11-06T06:55:00+00:00",
-     "summary": "Tech selloff wipes out hedge fund gains, prompting risk cuts and layoffs Reuters"
+     "title": "Belgium to allow home searches for suspected illegal migrants - Reuters",
+     "published": "2026-11-06T07:07:00+00:00",
+     "summary": "Belgium to allow home searches for suspected illegal migrants Reuters"
     },
     {
      "ref": "reuters_world#2",
@@ -474,21 +492,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#11",
-     "title": "Pope Leo starts South America 'homecoming' tour a month after lung surgery - Reuters",
-     "published": "2026-11-06T04:03:00+00:00",
-     "summary": "Pope Leo starts South America 'homecoming' tour a month after lung surgery Reuters"
-    },
-    {
-     "ref": "reuters_world#12",
      "title": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say - Reuters",
      "published": "2026-11-06T04:03:00+00:00",
      "summary": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say Reuters"
     },
     {
+     "ref": "reuters_world#12",
+     "title": "Pope Leo starts South America 'homecoming' tour a month after lung surgery - Reuters",
+     "published": "2026-11-06T04:03:00+00:00",
+     "summary": "Pope Leo starts South America 'homecoming' tour a month after lung surgery Reuters"
+    },
+    {
      "ref": "reuters_world#13",
-     "title": "Gold drops 1% on higher oil prices; US payrolls data in focus - Reuters",
+     "title": "Gold drops, on track for best week in over 2 months before US payrolls - Reuters",
      "published": "2026-11-06T03:46:00+00:00",
-     "summary": "Gold drops 1% on higher oil prices; US payrolls data in focus Reuters"
+     "summary": "Gold drops, on track for best week in over 2 months before US payrolls Reuters"
     },
     {
      "ref": "reuters_world#14",

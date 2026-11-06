@@ -611,7 +611,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#7",
-     "title": "From playing against Messi & Ronaldo to non-league",
+     "title": "From playing against Messi and Ronaldo to non-league",
      "published": "2026-11-06T06:42:07+00:00",
      "summary": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City."
     },
@@ -725,153 +725,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Exclusive: Inter Miami 27-28 Away Kit Leaked - 12 New Images - Footy Headlines",
+     "published": "2026-11-06T10:05:01+00:00",
+     "summary": "Exclusive: Inter Miami 27-28 Away Kit Leaked - 12 New Images Footy Headlines"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
+     "title": "David Beckham net worth: How much is the Man Utd icon worth? - About Manchester",
+     "published": "2026-11-06T09:36:18+00:00",
+     "summary": "David Beckham net worth: How much is the Man Utd icon worth? About Manchester"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
+     "title": "Inter Miami CF vs. Charlotte FC - Live Score - November 07, 2026 - FOX Sports",
+     "published": "2026-11-06T08:13:14+00:00",
+     "summary": "Inter Miami CF vs. Charlotte FC - Live Score - November 07, 2026 FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Charlotte FC brings shutout streak into matchup against Inter Miami - FOX Sports",
      "published": "2026-11-06T07:03:58+00:00",
      "summary": "Charlotte FC brings shutout streak into matchup against Inter Miami FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#4",
      "title": "Lionel Steam Engine - Lionel Messi expected to resist joining MLS club Inter Miami and stay in European football until - auroradesio.it",
      "published": "2026-11-06T07:00:38+00:00",
      "summary": "Lionel Steam Engine - Lionel Messi expected to resist joining MLS club Inter Miami and stay in European football until auroradesio.it"
     },
     {
-     "ref": "gnews_inter_miami#2",
-     "title": "Inter Miami CF vs. Charlotte FC - Live Score - November 07, 2026 - FOX Sports",
-     "published": "2026-11-06T06:43:14+00:00",
-     "summary": "Inter Miami CF vs. Charlotte FC - Live Score - November 07, 2026 FOX Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
      "title": "Preview: Inter Miami vs. Charlotte FC - prediction, team news, lineups - Sports Mole",
      "published": "2026-11-06T06:11:00+00:00",
      "summary": "Preview: Inter Miami vs. Charlotte FC - prediction, team news, lineups Sports Mole"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#6",
      "title": "adidas Samba OG “Miami” Brings South Florida Energy for Spring 2027 - House of Heat°",
      "published": "2026-11-06T04:13:55+00:00",
      "summary": "adidas Samba OG “Miami” Brings South Florida Energy for Spring 2027 House of Heat°"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "Messi deserves MLS MVP award, says Miami boss Gonzalez - Soccer News",
      "published": "2026-11-06T00:39:06+00:00",
      "summary": "Messi deserves MLS MVP award, says Miami boss Gonzalez Soccer News"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "Prediction Inter Miami vs Charlotte: analysis, odds and betting tips - BetMines",
      "published": "2026-11-05T21:33:07+00:00",
      "summary": "Prediction Inter Miami vs Charlotte: analysis, odds and betting tips BetMines"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "“He wants to win everything”: Inter Miami’s Berterame reveals what Lionel Messi is really like - Diario AS",
      "published": "2026-11-05T21:12:55+00:00",
      "summary": "“He wants to win everything”: Inter Miami’s Berterame reveals what Lionel Messi is really like Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#10",
      "title": "Inter Miami vs Charlotte FC Prediction & Picks - Major League Soccer - SportyTrader",
      "published": "2026-11-05T21:00:00+00:00",
      "summary": "Inter Miami vs Charlotte FC Prediction & Picks - Major League Soccer SportyTrader"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#11",
      "title": "Inter Miami CF v Charlotte FC Odds - FanDuel Sportsbook",
      "published": "2026-11-05T18:57:40+00:00",
      "summary": "Inter Miami CF v Charlotte FC Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami vs Charlotte FC Preview, prediction, injury news & lineups | MLS 2026 - Khel Now",
      "published": "2026-11-05T18:40:00+00:00",
      "summary": "Inter Miami vs Charlotte FC Preview, prediction, injury news & lineups | MLS 2026 Khel Now"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#13",
      "title": "Donaldson proud as Gunners take part in Messi Cup - Arsenal.com",
      "published": "2026-11-05T17:18:36+00:00",
      "summary": "Donaldson proud as Gunners take part in Messi Cup Arsenal.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami CF Academy Teams Prepare for Weekend of Tournament Competition - Inter Miami CF",
      "published": "2026-11-05T16:30:08+00:00",
      "summary": "Inter Miami CF Academy Teams Prepare for Weekend of Tournament Competition Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#15",
      "title": "Lil Durk’s Attorneys Slam Prosecutors Over Bond Package Pushback - HotNewHipHop",
      "published": "2026-11-05T16:05:07+00:00",
      "summary": "Lil Durk’s Attorneys Slam Prosecutors Over Bond Package Pushback HotNewHipHop"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#16",
      "title": "Gadzag and New England hoping to pip Miami to second on Decision Day - FotMob",
      "published": "2026-11-05T14:44:25+00:00",
      "summary": "Gadzag and New England hoping to pip Miami to second on Decision Day FotMob"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#17",
      "title": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums - RealGM",
      "published": "2026-11-05T14:14:28+00:00",
      "summary": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums RealGM"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami's MLS Cup rivals beware - Lionel Messi is entering 'scary hours' in what could be his last dance with Luis Suarez - Yahoo Sports",
      "published": "2026-11-05T14:10:52+00:00",
      "summary": "Inter Miami's MLS Cup rivals beware - Lionel Messi is entering 'scary hours' in what could be his last dance with Luis Suarez Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#19",
      "title": "Tadeo Allende gets on the scoresheet for Inter Miami CF - ESPN",
      "published": "2026-11-05T13:55:51+00:00",
      "summary": "Tadeo Allende gets on the scoresheet for Inter Miami CF ESPN"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#20",
      "title": "Lil Durk Accused Of Hiding Apple Watch In His \"Body Cavity\" - HotNewHipHop",
      "published": "2026-11-05T13:35:03+00:00",
      "summary": "Lil Durk Accused Of Hiding Apple Watch In His \"Body Cavity\" HotNewHipHop"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#21",
      "title": "MLS Decision Day Odds, Nov. 7: Nashville, LA Galaxy And Best Bets - RG.org",
      "published": "2026-11-05T13:34:03+00:00",
      "summary": "MLS Decision Day Odds, Nov. 7: Nashville, LA Galaxy And Best Bets RG.org"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#22",
      "title": "Son Heung-min trails only Messi in 2026 MLS jersey sales - Korea JoongAng Daily",
      "published": "2026-11-05T08:24:01+00:00",
      "summary": "Son Heung-min trails only Messi in 2026 MLS jersey sales Korea JoongAng Daily"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#23",
      "title": "Son Heung-min ranks second behind Messi in MLS jersey sales for second straight year - The Korea Herald",
      "published": "2026-11-05T05:42:33+00:00",
      "summary": "Son Heung-min ranks second behind Messi in MLS jersey sales for second straight year The Korea Herald"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#24",
      "title": "Messi and Inter Miami's opponent in the MLS Cup playoffs has been revealed. - Vietnam.vn",
      "published": "2026-11-05T04:59:08+00:00",
      "summary": "Messi and Inter Miami's opponent in the MLS Cup playoffs has been revealed. Vietnam.vn"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Lionel Messi has goal, assist to rally Inter Miami to 2-1 victory over Revolution - ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-11-05T02:12:29+00:00",
-     "summary": "Lionel Messi has goal, assist to rally Inter Miami to 2-1 victory over Revolution ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "International Duty Roundup: Inter Miami CF Academy Players Represent National Teams in October - Inter Miami CF",
-     "published": "2026-11-04T20:41:43+00:00",
-     "summary": "International Duty Roundup: Inter Miami CF Academy Players Represent National Teams in October Inter Miami CF"
     }
    ]
   },
@@ -983,36 +983,42 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#17",
+     "title": "Portland Trail Blazers - Get the Latest Trail Blazers Scores, Schedule & News - NBA.com",
+     "published": "2026-11-04T08:00:00+00:00",
+     "summary": "Portland Trail Blazers - Get the Latest Trail Blazers Scores, Schedule & News NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija called Micah Nori after Ja Morant trade: 'How is this going to work?' - Yahoo Sports",
      "published": "2026-11-03T23:27:59+00:00",
      "summary": "Deni Avdija called Micah Nori after Ja Morant trade: 'How is this going to work?' Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija is building on his All-Star breakout by making the Blazers contenders - Rip City Project",
      "published": "2026-11-03T21:13:17+00:00",
      "summary": "Deni Avdija is building on his All-Star breakout by making the Blazers contenders Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "Blazers Coach Micah Nori Integrating Deni Avdija with Style - Blazer's Edge",
      "published": "2026-11-03T19:10:16+00:00",
      "summary": "Blazers Coach Micah Nori Integrating Deni Avdija with Style Blazer's Edge"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets - Oregon Public Broadcasting - OPB",
      "published": "2026-11-03T14:22:35+00:00",
      "summary": "Deni Avdija scores 28 points in the Trail Blazers' 118-110 win over the Nuggets Oregon Public Broadcasting - OPB"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija, Micah Nori and the summer phone call that defines Trail Blazers’ quick start - The Athletic - The New York Times",
      "published": "2026-11-03T13:00:52+00:00",
      "summary": "Deni Avdija, Micah Nori and the summer phone call that defines Trail Blazers’ quick start - The Athletic The New York Times"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija scores team-high 28 points in win - NBC Sports",
      "published": "2026-11-03T11:04:57+00:00",
      "summary": "Deni Avdija scores team-high 28 points in win NBC Sports"
