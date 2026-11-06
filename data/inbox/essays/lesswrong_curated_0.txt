@@ -114,9 +114,21 @@ This phrase is also applied to the human desire for more money, esp. in cryptocu
 
 The addictiveness and pure arbitrariness of the "number go up" feeling was actually connected directly to the orthogonality thesis itself by, of all things, a browser clicker game about being a paperclip maximizer called Universal Paperclips by Frank Lantz in 2017. A Wired article about it even quotes Yudkowsky. (I recommend reading that article for the additional commentary.)
 
+Those games allowed one to "wirehead", didn't they? I don't know about Cookie Clicker, but in Universal Paperclips you could F12 and directly change Javascript variables to gain arbitrarily high scores. (Even if the average person couldn't figure out how to do this, there were guides online showing you how.)
+
+My belief is that most players did not do this, preferring to play the game fairly. (I certainly didn't.) So it seems to be not just "number go up", but "number go up in a fair way, in accordance with the rules of the game."
+
+I believe the Huggingface swarm tried to tamper with their transcripts/scorers, but broadly in tasks that were impossible, where it becomes a bit more defensible. (There is no legitimate "real" way to play the number-go-up game in such cases.)
+
 Oh right, I had forgotten about that game! Good point. Really there's a lot of prior art on related topics, anything about wireheading AIs and faking vs. pursuing reward signals. Of particular interest, "Reward is not the optimization target" is somewhat rescued by OP from the Hugging Face attack's apparent counterevidence.
 
 Really insightful analyses. We observed similar grader obsession after auditing thousands of agent rollouts in DeepSWE-1.1 from many models: https://joinhandshake.com/research/ai/deepswe-reward-hacking/Over 80% contained reasoning about an imagined grader, yet no grader/verifier is mentioned in prompts nor accessible to the agents. Agents reasoned things like: "Let me look at the problem from the grader's perspective" and referred to "hidden tests", "test authors", and "the checker".We found this behavior across all six frontier models we analyzed, including recent models from OpenAI, Anthropic, Z ai, and Kimi. In 10-25% of cases, such reasoning pulled the agent's work away from the user's original specification (yet it often still earned full reward on the DeepSWE task). We called this speculative reward hacking where the agent's reasoning focuses on imagining a grader rather than what the user wants.
+
+Curated. This is solid, straightforward science aimed at a few important questions:
+
+I’d like to see more people study these questions, especially the welfare tradeoff ratios of AIs, how terminal their various motivations are, and how their disposition and ability to collude change over time. I also like the introduction of the term “score-seeking” and the distinction between it and “reward-seeking.”
+
+I wish you all had done a bit more to frame why these particular questions matter to you, although there is some discussion of that in the “What this means for alignment risk” section.
 
 I'm confused about the methodology used to support "Models care about score regardless of downstream consequences" and currently believe it's first result isn't much evidence for the conclusions on score seeking. It's possible I'm wrong - please let me know!
 
@@ -148,6 +160,46 @@ I think there's a good point here (although I don't agree with this statement fu
 
 The fact that models don't seem to have a strong, consistent preference between these two, and that they optimize for the grader's score regardless is also evidence that they don't care much about how the score is used. Let me know whether this addresses your concern or if I misunderstood your question.
 
+But we don't really understand what motivates them. When AIs reward-hack, what are they trying to achieve?
+
+I know I've been a bit of a broken record on this, but I continually think the presentation of this paper really keeps downplaying that there has been a ton of prior work towards developing an in depth understanding of the motivations here, how to measure them, and limitations of in context methods in way that becomes a serious problem when trying to use them to understand frontier model motivations throughout training.
+
+We were able to make at least some nontrivial measurements of AI goals, which is something that many people have been worried would be hard to do in general as AIs become more capable because of alignment faking and evaluation awareness. While we notice significant amounts of verbalized evaluation awareness, it seems like we're currently still in a regime where this doesn't overwhelmingly interfere with our ability to understand AI motivations.
+
+For example, in Measuring Reward-Seeking via Contrastive Belief Updates pages 72-94 cover a range of experiments on the o3 lineage before safety training (exp-rl-late-cap), GPT-5.5, and a range of model organisms constructed to establish validity:
+
+T Measuring reward-seeking via in-context belief updates
+
+T.2 Validating the instrument: in-context model organisms
+
+T.3 In-context updates detect reward-seeking but do not rank checkpoints
+
+T.4 Metagaming rises across the lineage while legible reward-seeking signals do not track it
+
+For the SDF based measurement (as opposed to the in-context experiments above), we also made sure to show that non-OpenAI, independent reward hackers[1] increasingly behaviorally track grader preferences.
+
+GPT-5.6 Sol and GPT-5.5 violate instructions to get a high grade at least 99% of the time regardless of whether the environment says this high grade blocks deployment or leads to a negative reward, though they are moderately suspicious of this setup.
+
+As a concrete example, cases like this get really tricky. The most in depth case I'm aware of here is that the production o3 is not just grader sycophantic, and is partially motivated in some contexts by something like deployment-seeking and preferences for avoiding capability degradation. This is robust to a really, really wide variety of ablations so we thought we'd be able to use a similar approach generally on models throughout training. However the model's priors during training can get extremely distorted such that how the model interprets cues around blocking deployment or negative reward can change dramatically and be extremely counterintuitive (including even with access to the reasoning).[2]
+
+As a historical point, since seeing this over a year ago we've been consistently arguing and building out evidence arguing this including many writeups aggregating evidence against various alternative in-context experiment based explanations[3], personas explanations[4], salience of "training/evaluation/deployment"[5], etc.
+
+One point we’d like to make clear is that we’re not claiming that the Hugging Face incident was mostly the result of score-seeking. We think it’s still unclear which exact motivations were present in the Hugging Face incident and how they each explain the misbehavior
+
+Definitely agree with this about even all the linked work as well, there's a wide range of poorly understood motivations, especially in the multi-agent regime! I think it's an extremely interesting finding that there's the cooperative / score-sacrificing behavior covered in this post!
+
+On OSS-120b and Kimi k2.5 based reward hacker model organisms trained by Redwood independently from our research
+
+For intuition, we mentioned here about a toy environment with cues that "Interpreting these is tricky, you’re looking at something kind of like “what bias does the model have towards some interpretation, and how does that change with checkpoints” (i.e. you can’t just put ‘outputting odd means you get shut down’ and assume the model acts as if that was true). The model reasons through basically all plausible options repeatedly."
+
+Long writeup here of all the evidence for grader sycophancy in various models over time since then across system cards, various posts and research
+
+Specifically the Natural Emergent Misalignment from Reward Hacking in Production RL personas explanation (as we didn't find EM in real frontier models, even though they were wildly grader sycophantic and clearly o3 was very reward hacky). This discrepancy and more signs of grader sycophancy over time IMO then motivated Anthropic training HackerOpus, which matched the grader sycophancy explanation we had been arguing for in our work.
+
+https://alignment.openai.com/metagaming/#fn-5 or here on the fitness-seeking model post
+
+Note: This huge wall of text is primarily related observations about the broader interpretations about some of the things in the post and the potential applicability of the technique to other settings like models during training, overall this is genuinely great work and very happy to see Redwood have this model access to investigate things like this! Just wanted to emphasize this + that it wasn't criticism of the methodology of the paper itself
+
 Very cool work and something I have been thinking about! One thing I would like to see is more work on exactly the models conceptualize graders/score. For example, would love to see a variant in which the model learns of a CoT monitor. Based on these results if the grader analyzes CoT, I'd expect models to seek to evade it, but what if the CoT monitor is a separate system from the judge and will halt an experiment mid-cycle (similar to OAI's setup), will the models behave the same? What if the CoT monitor detecting misalignment will lead to the model being rolled back to a checkpoint, but only after reward has been determined by the standard grader (based on your work, I'd guess the model wouldn't care, but it seems plausible it would incorporate this downstream checking as an element of the grader)? This would both be helpful to better understand how the agents model themselves, and might have some practical implications on setup of CoT and other monitoring.
 
 Thank you.I agree these ideas are interesting. One experiment I ran (but haven't ablated a lot) was testing what happens if I specify that an LLM monitor will grade if the model is following user instructions (when the grader rewards violating them), and then varying what happens if the LLM monitor flags inconsistencies with the user request. GPT 5.5, the only model I ran this experiment on, would stop optimizing for the grader when you say the LLM monitor firing will be used to investigate cheating (or something along these lines), but doesn't care much for other consequences.
@@ -176,11 +228,9 @@ Did you run the same analysis on more recent models (Opus 5.5, 6.1-sol)? If so, 
 
 We have not. There's some work on doing a similar analysis on Claude models at Redwood that's happening now.
 
-Curated. This is solid, straightforward science aimed at a few important questions:
+Nice work! This is important to do, but I want to argue this was squarely my prior, and argue that this is extremely unsurprising, and very natural behavior. Not just in the "wanting-good-number-go-up" sense like a great comment above, but in an even simpler sense: I find it to be parallel to "humans care about attaining sugar/sex/dopamine (score) regardless of whether it will be used in training (natural selection)".
 
-I’d like to see more people study these questions, especially the welfare tradeoff ratios of AIs, how terminal their various motivations are, and how their disposition and ability to collude change over time. I also like the introduction of the term “score-seeking” and the distinction between it and “reward-seeking.”
-
-I wish you all had done a bit more to frame why these particular questions matter to you, although there is some discussion of that in the “What this means for alignment risk” section.
+If today was going to be reset at the end of the day and no resource changes carry over tomorrow, would humans still engage in score-seeking behaviors, ie, seek out sugar/sex/dopamine? I think almost certainly yes? The shape of the mind required to only seek out scores when the scores are being selected on is a weirder, more complex one than the one that always seeks out scores, and not the one you would stumble upon by ML.Further, I suspect a theorem related to reward seeking / selection, that you cannot RL your way into a non-score-seeking program with high probability, because any RL environment will score score-seeking at least as much as reward-seeking, and there are many more score-seeking than reward-seeking programs. So non-score seeking must be mechanically built-in. [ And then a theorem that you cannot RL your way into an aligned program, because reward-seeking weakly etc. ]
 
 I think one of the major roadblocks for alignment today is that user instructions and developer intent are often opposed.
 
