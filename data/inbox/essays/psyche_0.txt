@@ -1,115 +1,63 @@
-is a psychologist whose research focuses on belief, delusion and identity.
+is an associate professor in the Department of Psychiatry and Behavioral Neuroscience at Saint Louis University School of Medicine in Missouri, US. Her research focuses on the use of effective learning strategies and individual differences in learning. She is a member of The Learning Scientists and co-author of Ace That Test: A Student’s Guide to Learning Better (2023).
 
-is a psychologist whose research focuses on belief, delusion and identity.
+is an associate professor in the Department of Psychiatry and Behavioral Neuroscience at Saint Louis University School of Medicine in Missouri, US. Her research focuses on the use of effective learning strategies and individual differences in learning. She is a member of The Learning Scientists and co-author of Ace That Test: A Student’s Guide to Learning Better (2023).
 
-The young woman sitting in front of me is sure she is dead. It – her dying – happened two weeks ago, she says. Now she simply doesn’t exist.
+Notetaking is a versatile skill. Perhaps you take notes during lectures in class, or as part of your job, or when you’re reading an insightful book, or when you have an important meeting. If you’re a notetaker, in any case, you want your notes to be as useful as they can be. And that starts with thinking about their function. Since taking notes is such a common activity, it’s easy to overlook the question of what notes are actually doing for us.
 
-I check the scrawl of referral notes, which don’t say anything about this. There isn’t much time; I’m supposed to administer her a battery of cognitive tests, dictate a brief report, and move on to my next patient. I want to reassure her, but her eyes dart about my office – small, over-lit and cluttered with stacked folders and a tangle of dusty cables.
+Many people assume that just by writing information down, they are doing something useful. But the cognitive processes involved in taking notes and the way you take them can make a big difference in terms of what you ultimately get out of them.
 
-I’ve spent my professional life trying to make sense of cases like these: delusions. Part of the challenge is how to draw the line between who a person is and what has gone wrong with them. In the clinic this is often straightforward, and as a clinician or theorist trying to understand such cases there is at least a measure of certainty, and the possibility of detachment. But these questions are increasingly contested in cultural spaces – and sometimes they must be confronted not just at work, but at home.
+There are two broad goals of notetaking: recording and learning. The first is when you try to take down as much information as you can so that you don’t miss anything and can review it later. This might be necessary sometimes – for instance, if you are going to be tested on the information presented in a lecture, and you won’t have a recording, text, or slides to refer back to later. Similarly, if you are in charge of meeting minutes or want to do more research on what you’re hearing from your doctor, you may need to simply record as much information as possible.
 
-Many of the most fascinating clinical examples of delusion concern personal identity and bodily integrity. Some patients look in the mirror and see a stranger; others believe their loved ones have been replaced by physically identical impostors. In one strange case, published in 2018, a man presented to an Australian emergency department convinced that his penis had been stolen and substituted with someone else’s.
+But in many situations, the most effective and efficient way to take notes is to treat them as a tool for learning: that is, to use them to help you retain and understand the information by putting it down in your own words and organising your thoughts about it. This is the kind of notetaking that I’ll focus on in this Guide.
 
-Are delusions merely the dysfunctional products of a broken brain? Or might they in some cases be functional – purposive constructions that protect the self? Sigmund Freud famously described a delusion as a kind of psychic bandage, and many others have followed suit. Psychoanalytically inclined theorists have construed the conviction that you are dead as a paradoxical defence against death: if you are already dead, you have nothing to fear from dying. Others in the Freudian tradition have cast a young woman’s belief that her father has been replaced by an impostor as a way of denying that her sexual feelings for him – supposedly rooted in ‘penis envy’ – are incestuous.
+What do good notes look like, and how can you get better at notetaking? There is not one right answer to these questions, but knowing a bit about how and when notetaking is effective will help you to decide what kind of notes to take when, and what to do with them afterward. As a cognitive psychologist and director of learning services at a medical school, I have a lot of experience with the most effective strategies for notetaking and why they work. Below, I’ll explain how to use some of these strategies and the reasoning behind them.
 
-Freud’s ideas are easy to pillory and caricature, and in lectures on the Freudian approach to psychopathology I have sometimes lightened the mood with an anecdote about my kids:
+You may have heard before that taking notes by hand, on paper, is better than typing them on a laptop. There is truth to this, but it is due to more than just the effect of handwriting. Writing on paper can be more effective because it is much slower than typing. It’s difficult to write down every word or detail, requiring you to decide what the most important pieces of information are before putting them on paper. When you do this, you’re engaging in a type of mental processing that leads to better learning. Taking notes on paper also allows you to easily jump back and forth between different concepts and to organise them visually (using a diagram, for example).
 
-Two-year-old [noticing older brother’s penis in the bath]: ‘I want a willy.’
+These things can be done electronically, but most people find that it’s clunkier. If you must use a device, my recommendation is to not simply copy what you hear or read verbatim, but rather to prioritise what seem to be the most important points, and to ensure you process the information by doing some of the things I’ll describe next.
 
-Seven-year-old: ‘Girls don’t have willies. Boys have willies, and girls have pyjamas.’
+When you’re taking notes to learn, it’s essential to organise the information in your own way and to think about how it relates to other things you know (even examples from your own life). You could make bulleted lists, write summaries in your own words or write questions about the material. Maybe you also want to draw pictures or flow charts, or connect different parts of a lecture with arrows. All these activities involve somehow mentally processing the information, which leads to actual learning rather than just recording.
 
-Yet the idea that delusions can serve a psychological purpose isn’t always far-fetched. And, of course, the idea that beliefs can serve emotional functions is not confined to clinical disorders. I’ve often wondered about the emotional underpinnings of my own convictions, particularly those concerning God and religion. Some psychologists have argued that atheism is driven by feelings of abandonment, perhaps from losing one’s father at a formative age. This theory doesn’t enjoy much contemporary support, but for a while I was quite taken with it: my dad had died suddenly as I was on the cusp of adulthood.
+For example, some of my students will create a high-level outline of the main topics from a lecture; under each heading, they write a summary of the information in their own words once that part of the lecture ends. Other students try to anticipate how they might be quizzed on the material and write practice test questions in their notes.
 
-One prominent commentator has claimed that gender dysphoria is the clearest case of social contagion in history
+Here’s an example from outside the classroom – let’s say I’m reading a book about a historical figure and want to better retain the information. How might I start? As I go from chapter to chapter, I could take notes in the margins, or in a separate notebook, about how each part of the book relates to contemporary events, other history that I know, or situations in my own life. I might find certain areas interesting or inspiring and write in my notes about why those things caught my attention. Again, these all involve mentally processing, or what we can call active (vs passive) reading.
 
-That summer, I got a job on a gold mine, in the Australian outback. The work was hard, and I drank a lot. But for a while the new environment offered escape from the palpability of my dad’s absence. As the weeks passed, however, something began to give. While working a night shift, hurtling through the dark desert in a fuel truck, I felt him there with me in the cab. Afterwards I became fixated on the jarring discordance between the way we react to death and the comforting stories we tell about it. If it was true that my dad was in heaven, then why all the grief and grim faces? Why hadn’t my relatives arrived with beaming smiles to impart the good news about where he had gone? For a short while, the rawness of grief opened me to really believing, and I wanted to convince my family that his death was something wonderful, that we should feel joy. I was approaching an edge. But then I stepped back.
+Coming up with your own way of taking notes may seem like a big challenge. The good news is that there are existing notetaking strategies that can help you with this process. One of the strategies that is supported by research is the Cornell notetaking system, created by the Cornell University education professor Walter Pauk.
 
-Thereafter, rigid analysis and brittle abstraction became both shields and weapons. I identified as a scientist and an atheist, and relished taking a scalpel to the Christian tradition I had been raised in. As a graduate student, I wrote a paper provocatively titled ‘Hallucinating God?’, arguing that religious belief is delusional. Part of the argument was that typical religious beliefs – virgin births, transubstantiation, bodily resurrection – often violate just as many established scientific principles as clinical delusions do. God, I was convinced, simply doesn’t exist.
+In this approach, you separate a page into three parts. On the main part of the page will be your ‘notes’. At the bottom of the page, you include a ‘summary’. In the lefthand margin, you label an area for ‘cues’. Here’s an example:
 
-However, the ‘bible’ of psychiatry – the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM) – specifies that religious beliefs are not delusional because they enjoy wide cultural acceptance. On this view, the impostor-penis patient was delusional not simply because his belief was false and harmful (he had cut and burned his penis), but because it lacked cultural scaffolding in Australia.
+As you’re taking in the information (eg, in class or during a discussion), you use the ‘notes’ area to keep track of important points and ideas.
 
-I was impatient with this perspective. After all, similar beliefs – also false, also harmful – have at times arisen in shared, collective contexts. Did that mean they weren’t delusions? So-called ‘penis panics’ have been reported in various countries. Such ‘collective delusions’ demonstrate that harmful ideas, sometimes untethered from biological reality, can gain a cultural foothold.
+Afterward, you fill out the ‘cues’ section, which is primarily used to help guide your study later on, when you go back to review your notes. You might write down questions to help you think about the material that was covered, or prompts related to what is most important. These serve as retrieval cues to help you practise recalling the information later, which is a highly effective learning strategy. It could also be helpful to note in the cues section anything you don’t understand, to clarify what you might have to review further or follow up about. Sometimes, depending on the context, you might be able to fill out the cues section while you’re still taking down your main notes.
 
-According to some commentators sceptical of the concept of gender identity, the recent rise in gender dysphoria is a Western ‘culture-bound syndrome’, part of a lineage of culturally mediated expressions of distress, from penis-theft scares in Asia and Africa to the collective delusions catalogued in Charles Mackay’s classic book Extraordinary Popular Delusions and the Madness of Crowds (1841). Indeed, one prominent commentator has claimed on social media that gender dysphoria is the clearest case of social contagion in history.
+Last, you fill out the ‘summary’ section, writing down the big-picture ideas that came out of what you heard or read, in your own words. This allows you to take a step back and think through what all of this means and how it fits with other things you’ve been learning.
 
-Given the hard-nosed mindset I had spent decades cultivating, I could understand the pull of claims like these.
+What’s great about this notetaking system is that it requires you to process the material in multiple ways. The system is also very adaptable. If, for example, you attend a lecture that’s very dense, you could take verbatim notes first and then take Cornell notes later, based on your initial round of notes. And if you need more space, you can reserve a whole page for the ‘cues’ section and subsequent pages where you put your notes, including a summary at the end.
 
-A summer’s night, and I’m reading to my younger child, who is now seven, in the soft glow of a rabbit-shaped lamp. One of the characters in the story describes something as ‘queer’, and I’m immediately asked to explain this word. I say it means strange or unusual, but after a moment I add that it also has another meaning: that some people use it to describe themselves, people who might be gay or not comfortable with their gender.
+While the Cornell approach is a reliable technique, there are other structured ways of taking notes that you might want to explore as well. For example, mind-mapping is a strategy in which you put the main idea in the centre of a page and organise related material around it using branching connections. With sketchnoting, you take advantage of the powerful interaction between verbal and visual material by creating notes that involve lots of pictures. And outlining can be an effective strategy because it requires you to consider what is most important and how various pieces of information support each topic. Each of these strategies is evidence-based and they work in different ways to support deeper processing.
 
-‘I don’t know, love, that’s for you to decide.’
+Once you have your notes, what should you do with them? Hopefully it’s clear by now that processing the information is key, so just rewriting the same notes is mostly a waste of time. When you do that, you don’t really have to think about the notes you’ve taken. However, if you reorganise your notes in some way – such as by summarising them, or creating diagrams, flow charts, or hierarchies – that is likely to be more useful, especially if you had to take verbatim notes at first. For example, after hearing about how the heart works, you could draw a picture with arrows showing the direction of blood flow, or you could create appropriate headings and subheadings to organise the main ideas and supporting facts.
 
-This has been clear for years by this point. I no longer tell the willies-and-pyjamas story in class.
+Similarly, just rereading your notes doesn’t require a lot of mental effort. It feels like you’re learning, and you might get better at it over time. But if you’re trying to internalise and retain information for later (for example, if you want to be able to retrieve answers on a test), then the best way to prepare is to practise doing that. Instead of rereading, you could try using your ‘cues’ from the Cornell method to bring as much of the information to mind as you can. Then you can go back to your main ‘notes’ section to see what you missed.
 
-‘It’s not your fault, Dad. I might have selected the wrong gender in Baby Heaven.’
+If you’re using a different notetaking strategy, you could write quiz questions based on your notes that you can then answer from memory. Or, you could use your notes to make flashcards. Instead of just copying down the notes onto the cards, try using the front side of the card for questions that you could get someone to ask you, or for different ways of comparing and contrasting the information. For example, you could write: ‘Compare and contrast the upbringings of Alexander Hamilton and Aaron Burr.’ This will give you a processing benefit while you’re creating the cards, as well as the retrieval benefit when you use them later.
 
-I learn that Baby Heaven is an endless playground of fun where you play until you’re born. You arrive on a flying bus after God creates you, and while you wait to be born you choose your gender, eye colour and skin colour. God chooses other things, like which country you’re born in or which parents you’re born to.
+You could also do a ‘brain dump’, where you try to write down everything you can remember about a topic and then check your notes for accuracy and to fill in any gaps. All of these strategies involve more productive mental effort than rereading does, and they come with the advantage of helping you figure out what you do and don’t know.
 
-I can’t help seeing the rise in trans identification not as a wave of delusion but, in part, as a wave of visibility
+If you’re recording a lecture or a conversation and you want a thorough transcription and summary that you can revisit later, AI tools can be useful for that. However, when you use AI to take notes rather than doing it yourself, you are bypassing the kinds of mental processing that will help you learn. Because of this, I don’t recommend relying on AI for notetaking if your goal is to retain the information. In situations where it’s important to have a detailed record and you use AI to create one, just make sure that you go back to those notes later and apply one or more of the review strategies above if you hope to remember the material later on.
 
-I switch off the lamp, and we study the sticker constellations on the ceiling: a makeshift Southern Cross, an improvised Saucepan.
+Notetaking is not just one thing and you should adjust your approach depending on the situation. If the information is very dense and it’s not contained anywhere else, then trying to take down as much as you can makes sense – but you’ll still need to revisit and make sense of those notes later on. And when your aim is not to copy but to internalise what you’re hearing or reading, then the best way to take notes is to summarise, organise and make connections between the material and what you already know. Ultimately, the key is to think about what you’re learning, both as you’re taking it in and when you come back to it later. The best way of taking notes is the one that helps you do that.
 
-Memory is fallible, but this moment still feels vivid and glimmering. A bulwark against what might lie ahead.
+Forget cramming, ditch the highlighter, and stop passively rereading. The psychology of learning offers better tactics
 
-As a parent, scenes from the boarding school I attended increasingly return to me, like scraps of a language you once spoke emerging unbidden on return to that country.
+Frustrated by elusive names and misplaced phones? The science of memory reveals ways to improve your powers of recall
 
-No one in the boarding house would have dreamed of admitting to being gay, but signs of homosexuality were scrupulously monitored. Mornings could be tough, especially in the earlier years. An older boy would burst in and tear your blankets off, and you were ushered straight into a communal shower. The only respite was a quick visit to the urinal on the way to try and kill off the erection you had inevitably woken with. Taking it into the shower with you was unthinkable.
+Our limited mental resources make multitasking inefficient. As you’re unlikely to stop it, you can learn to do it better
 
-Although pornographic magazines were traded fairly openly (care was taken to avoid housemasters, who would confiscate them), there was an extremely strong taboo against masturbation. Presumably we were only reading these magazines for the articles. This taboo called for extreme caution. One unfortunate boy who was caught in the act became a social pariah. While I wish I could say that I’d stuck up for him, or even that I’d empathised, my attitude towards him was more a mix of anthropological curiosity and contempt.
+Use AI thoughtlessly and it dulls your mind. But with a strategic approach and the right prompts, it can be a powerful tool
 
-It’s clear to me now that the strikingly low prevalence of homosexuality and masturbation in the boarding house reflected taboo rather than true absence. One of my closest friends there later came out as gay; I had absolutely no inkling before he phoned to tell me. He had somehow survived years of pressure to keep this invisible. While trans and gender-questioning youth still face a hostile climate, bullied today at twice the rate of their peers, I can’t help seeing the rise in trans identification not as a wave of delusion but, in part, as a wave of visibility – less a contagion of identity than of permission to be seen.
+It may sound illogical, but growing evidence shows the benefits of testing yourself before you start learning new material
 
-‘Dad, were you happy when you realised I was trans?’
+So often we underestimate the time and effort required to reach our goals. You can avoid that trap with realistic planning
 
-A year or two has passed. We’re in the changing room of our local community swimming pool. It’s not really a conversation I want to have in such a public place.
-
-‘Let’s just finish getting dressed, and we’ll talk about it in the car.’
-
-Back in the car, I sit in the driver’s seat. My son climbs in behind me, and when the door shuts, I start to talk. I choose my words carefully.
-
-I don’t say that the experience of being his parent has forced a sometimes-uncomfortable realignment of my own beliefs and identity, that it has surfaced some of my own prejudices and many of my fears.
-
-I don’t admit that, for a while, I’d been irritated by phrases like ‘assigned at birth’, or that I’d resented the growing pressure to state pronouns in email signatures and social media bios, that I’d considered this performative. That it took having a deeply personal stake to consider what such practices might mean to people like him.
-
-Rather than ceding authority for who he is to God or biological happenstance, he claims it for himself
-
-I don’t talk about how I’ve been distressed by the viciousness of the rhetoric I’ve seen online, but humbled by the kindness and unhesitating acceptance of people in our own community. I don’t say that I recognise now that people’s beliefs and identities are not my intellectual playthings, not just specimens on my board. That they can be vessels of anguish and fragile, questing hope. I don’t tell my son that I’m awed by his courage to be himself.
-
-I do try to explain that, as a parent, you want your child to be who they are, without having to pretend, to wear a mask. But at the same time, you worry about them having a difficult path through life.
-
-I talk for a minute or two, and when I stop, there’s a silence.
-
-Another silence. I turn around, and he looks up.
-
-He hasn’t been listening at all. Must have tuned me out almost immediately.
-
-A mix of emotions. Annoyance, obviously – I’d spoken with care, and thought I’d acquitted myself well.
-
-But mostly I’m relieved. For the time being at least, this subject is not the be all and end all.
-
-What I find quietly inspiring about my son’s musings on Baby Heaven is also what frightens me: rather than ceding authority for who he is to God or biological happenstance, he claims it for himself. His cosmology is a metaphor for self-authorship, but also for accountability. It opens the door to pride, if others acknowledge what is authored, but also to shame or even erasure, if they do not.
-
-A book from my own childhood that my kids have enjoyed is an Australian classic: The Bunyip of Berkeley’s Creek (1973) by Jenny Wagner. The titular bunyip wanders about, asking others (a platypus, a wallaby, an emu) what bunyips look like.
-
-‘Horrible,’ they say, with ‘horrible feathers’ and ‘horrible fur’.
-
-When a scientist tells the bunyip that bunyips ‘don’t look like anything’ because they ‘simply don’t exist’, his reaction is mournful but understated: ‘What a pity.’
-
-A common gender-critical refrain is that ‘There is no such thing as a transgender child.’
-
-Perhaps, for such commentators, this denial is a swish of the lab coat, an abstract intellectual dismissal. But to a trans child, it may land as something closer to annihilation.
-
-Ego death obliterated my gender identity, but then I stumbled upon the Public Universal Friend
-
-My child grew into a new version of himself – as all children do – and I wondered about my new role. Anger helped me grasp it
-
-I wanted conviction to tell me if I could be gay and Catholic. My convictions told me something bigger
-
-I loved my three sons but still yearned for a girl. Why did this fill me with such shame?
-
-In my therapy room, I’ve seen the costs of the controlling impulse. Winnicott and Rogers show us healthier alternatives
-
-In the therapy room, I’ve seen how rethinking what we are – and what it means to ‘be dead’ – can lighten our fears
-
-My world was dark and scary. But beautiful things crept in, and threats of hell just couldn’t compete
-
-How transitioning upended my own gendered understanding of strength, desirability, and power
+How we take in information has a remarkably significant effect on how intuitive or analytical we are in thinking about it

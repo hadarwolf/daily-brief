@@ -18,123 +18,123 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Alphabet’s Search Dominance Is at Risk From Its Own AI Success",
-     "published": "2026-11-05T10:05:58+00:00",
-     "summary": "Since the artificial intelligence boom began, investors have worried about how Google’s dominance in internet search would hold up in an AI world."
+     "title": "Korea’s $1.7 Trillion Rout Burns Day Traders, Challenges Lee",
+     "published": "2026-11-06T03:20:35+00:00",
+     "summary": "South Korea’s government turned the world’s hottest stock market into a political trophy. Now, a reversal that’s wiped out more than a trillion dollars in value is stirring a retail investor backlash and testing public faith in its leaders."
     },
     {
      "ref": "bloomberg_markets#1",
-     "title": "Renee Montgomery’s Move From Player to Owner",
-     "published": "2026-11-05T09:00:05+00:00",
-     "summary": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with the Atlanta Dream’s Renee Montgomery about why she decided to retire from the WNBA to co-own the team. (Source: Bloomberg)"
+     "title": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
+     "published": "2026-11-06T03:15:32+00:00",
+     "summary": "With the Iran war roiling oil markets, concerns about AI spending rattling technology stocks and uncertainty over the global economic lookout, there’s no shortage of turbulence in global markets."
     },
     {
      "ref": "bloomberg_markets#2",
-     "title": "Odd Lots: What Comes Next After Lula’s Big Win (Podcast)",
-     "published": "2026-11-05T09:00:00+00:00",
-     "summary": "When we last talked to James Bosworth, it seemed like an “orange wave” was going to take over Latin America and further realign the region’s interests with those of the Trump administration. But with Luiz Inacio Lula da Silva’s surprise victory in Brazil’s presidential election last month, and opposition leader María Corina Machado’s return to Venezuela, it now looks like the orange wave might be "
+     "title": "Nasdaq Suffers Worst Rout Since March 2020",
+     "published": "2026-11-06T03:10:46+00:00",
+     "summary": "The stock-market rout on Thursday pulled down companies at the heart of the AI boom due to the prospect of a political shift that will tap the brakes on the industry’s growth. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#3",
-     "title": "Rheinmetall Cuts 2026 Sales Guidance, Shares Plunge",
-     "published": "2026-11-05T08:55:19+00:00",
-     "summary": "German defense firm Rheinmetall cut its 2026 sales target for the second time, citing delays with the Boxer armored vehicle program that would push orders into next year. Bloomberg's Benedikt Kammel has the details. (Source: Bloomberg)"
+     "title": "Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally",
+     "published": "2026-11-06T02:30:02+00:00",
+     "summary": "A bigger test for the benchmark could come around 24,800."
     },
     {
      "ref": "bloomberg_markets#4",
-     "title": "European Stocks Hit Fresh Record as AI Unwind Boosts Region",
-     "published": "2026-11-05T08:09:35+00:00",
-     "summary": "European stocks surpassed their previous closing record as the region extended an outperformance driven by a rotation out of the artificial intelligence trade and a strong earnings season."
+     "title": "Hedge Fund Samlyn Dumps All Stocks But Financials, Cuts Staff",
+     "published": "2026-11-06T02:23:55+00:00",
+     "summary": "Rob Pohly’s Samlyn Capital is dismissing senior analysts after selling off its exposure to nearly every industry except global financials, as it pivots to focus on that sector."
     },
     {
      "ref": "bloomberg_markets#5",
-     "title": "BOE Set to Hike Rates for First Time in Three Years",
-     "published": "2026-11-05T07:50:30+00:00",
-     "summary": "The Bank of England looks ready to raise interest rates by a quarter point to 4%, its first hike in more than three years. Ana Andrade of Bloomberg Economics has a preview of the decision. (Source: Bloomberg)"
+     "title": "John Woods Sees AI Selloff as Positioning-Driven",
+     "published": "2026-11-06T02:15:21+00:00",
+     "summary": "John Woods says the sharp pullback in AI-exposed stocks is a positioning-driven correction rather than a sign of deteriorating market fundamentals. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#6",
-     "title": "BOE Decision Day: With a Hike Baked in Traders Look to December",
-     "published": "2026-11-05T07:45:03+00:00",
-     "summary": "Plus earnings from Next and Diageo"
+     "title": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
+     "published": "2026-11-06T01:51:18+00:00",
+     "summary": "Wall Street’s biggest trading desks spent weeks saying the stock-market rally would resume once the election was done. On Thursday, that call backfired spectacularly."
     },
     {
      "ref": "bloomberg_markets#7",
-     "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-     "published": "2026-11-05T07:32:55+00:00",
-     "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
+     "title": "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
+     "published": "2026-11-06T01:15:16+00:00",
+     "summary": "The Taiwan dollar weakened past the key psychological level of 33 per US dollar for the first time since April 2025, as a broad retreat in artificial intelligence shares weighed on the island’s tech-heavy equity market."
     },
     {
      "ref": "bloomberg_markets#8",
-     "title": "Commerzbank in 'Position of Strength' Ahead of UniCredit Deal, CEO Says",
-     "published": "2026-11-05T07:31:20+00:00",
-     "summary": "Commerzbank CEO Bettina Orlopp speaks on Bloomberg Television after the lender reported a better-than-expected 45% jump in profit, in one of the last quarterly results as an independent bank before UniCredit SpA takes control of the German rival. \"I think we can act out of a position of strength,\" Orlopp says. (Source: Bloomberg)"
+     "title": "China’s 10-Year Yield Hits Record Intraday Low on Haven Demand",
+     "published": "2026-11-06T00:55:01+00:00",
+     "summary": "China’s benchmark 10-year sovereign yield dropped to an all-time intraday low, driven by haven demand and a recent shift in the policy rate that was regarded as de facto easing."
     },
     {
      "ref": "bloomberg_markets#9",
-     "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
-     "published": "2026-11-05T07:16:56+00:00",
-     "summary": "Yardeni Research President, Ed Yardeni, says US 10-year Treasury yields look “very attractive” at around the 5% level with inflation expected to cool. On Bloomberg's Insight with Haslinda Amin, he also told us why the Nasdaq 100 is his preferred asset for the next 24 months. (Source: Bloomberg)"
+     "title": "Putin Transfers Japan Tobacco Assets to Local Firm in Latest Asset Seizure",
+     "published": "2026-11-06T00:31:44+00:00",
+     "summary": "Tokyo said it has protested Moscow’s seizure of the assets of the Russian operation of Japan Tobacco Inc., the latest twist in an escalating diplomatic spat between the two nations."
     },
     {
      "ref": "bloomberg_markets#10",
-     "title": "Indonesia Deploys Troops Amid Wiretapping Scandal",
-     "published": "2026-11-05T07:16:45+00:00",
-     "summary": "Indonesia's military is mobilizing troops to bolster security in Jakarta as authorities investigate the alleged wiretapping of President Prabowo Subianto. Bloomberg's Ben Otto and Faris Mokhtar discussed the developments on Insight with Haslinda Amin. (Source: Bloomberg)"
+     "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
+     "published": "2026-11-06T00:24:58+00:00",
+     "summary": "Officials at the Inter-American Development Bank’s investment arm suspected something was off almost as soon as they walked through the doors of Paraguay’s Ueno Bank SA."
     },
     {
      "ref": "bloomberg_markets#11",
-     "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-     "published": "2026-11-05T07:16:38+00:00",
-     "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Annabelle Droulers give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)"
+     "title": "Japan’s Nikkei Poised to Enter Bear Market as AI Selloff Deepens",
+     "published": "2026-11-06T00:15:36+00:00",
+     "summary": "Japan’s Nikkei 225 Stock Average slumped Friday, putting the tech-heavy gauge on course to enter a technical bear market as investors unwind artificial intelligence-related trades."
     },
     {
      "ref": "bloomberg_markets#12",
-     "title": "Emirates Profit Drops 66% as Iran War, High Oil Prices Hit Dubai Airline",
-     "published": "2026-11-05T07:15:48+00:00",
-     "summary": "Emirates Group’s first-half profit dropped by more than half as regional warfare and soaring oil prices weighed on the world’s largest international carrier."
+     "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms",
+     "published": "2026-11-06T00:09:55+00:00",
+     "summary": "Gold was on track for its biggest weekly gain since August, despite losing steam on Friday, after the US midterm elections sent the dollar and Treasury yields lower."
     },
     {
      "ref": "bloomberg_markets#13",
-     "title": "Air France-KLM Deepens Dutch Airline Overhaul; Stock Surges",
-     "published": "2026-11-05T07:00:00+00:00",
-     "summary": "Air France-KLM is deepening an overhaul of its Dutch subsidiary as the airline group grapples with higher fuel expenses and a cost-of-living crisis that’s starting to deter some passengers."
+     "title": "Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand",
+     "published": "2026-11-05T23:54:47+00:00",
+     "summary": "Japanese government bonds rose on Friday, tracking a rally in Treasuries, as a US stock selloff spilled into Asian markets and deepened a broader risk-off move."
     },
     {
      "ref": "bloomberg_markets#14",
-     "title": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
-     "published": "2026-11-05T03:35:41+00:00",
-     "summary": "After languishing for much of the year, Hong Kong stocks are staging a comeback as investors rotate away from hardware stocks into discounted Chinese internet platforms."
+     "title": "Korean Stocks Tumble, Testing 5,000 Milestone as Panic Spreads",
+     "published": "2026-11-05T23:35:44+00:00",
+     "summary": "South Korean stocks dropped as the chip rout deepened, briefly falling below a key milestone in the latest bearish turn for a market closely tied to the global AI boom."
     },
     {
      "ref": "bloomberg_markets#15",
-     "title": "India Stocks, Bonds Surge as Oil Plunge Eases Inflation Risks",
-     "published": "2026-11-05T03:34:12+00:00",
-     "summary": "Indian stocks and bonds rallied as a plunge in crude prices reduced inflation concerns and pressure on the external finances of the oil-importing nation."
+     "title": "Latest Oil Market News and Analysis for Nov. 6",
+     "published": "2026-11-05T23:08:17+00:00",
+     "summary": "Oil pushed higher after rebounding on Thursday from a sharp selloff triggered by a Democratic sweep of US midterm elections, as traders weighed the outlook for an end to war in the Middle East."
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "China’s Copper Squeeze Deepens as Buyers Scramble For Metal",
-     "published": "2026-11-05T02:30:00+00:00",
-     "summary": "Copper buyers in China are scrambling for physical metal, with spot premiums soaring as supplies tighten sharply in the world’s biggest consumer."
+     "title": "Hedge Funds Tout Nvidia, Disney at Sohn Queenstown Conference",
+     "published": "2026-11-05T23:00:20+00:00",
+     "summary": "Stock pickers touted an AI favorite, a Japanese confectionary maker and a Canadian gold miner at the inaugural Sohn Conference in Queenstown, New Zealand."
     },
     {
      "ref": "bloomberg_markets#17",
-     "title": "Philippine October Inflation Accelerates 7.8%, Close to Four-Year High",
-     "published": "2026-11-05T00:05:46+00:00",
-     "summary": "Philippine inflation accelerated to the fastest pace in almost four years in October as the prolonged Middle East conflict drove up energy costs, raising the odds of another large interest rate increase by the central bank."
+     "title": "AI Slump Deepens as Japan Slides Most Since 2025: Markets Wrap",
+     "published": "2026-11-05T22:17:59+00:00",
+     "summary": "The global stock selloff worsened in Asia, with Japan’s benchmark dropping the most in more than a year, on concern the US will tighten AI regulations after Democrats’ decisive election win."
     },
     {
      "ref": "bloomberg_markets#18",
-     "title": "Latest Oil Market News and Analysis for Nov. 5",
-     "published": "2026-11-04T23:08:01+00:00",
-     "summary": "Brent oil held near a two-month low after tumbling almost 9% in the previous session as investors bet that a Democratic sweep in the US midterm elections could accelerate efforts to end the war in the Middle East."
+     "title": "Worst Rout Since 2020 Leaves Virtually Nowhere to Hide in Stocks",
+     "published": "2026-11-05T22:11:53+00:00",
+     "summary": "The fears had shadowed Wall Street off and on for months. Then, all at once, everyone rushed for the exits."
     },
     {
      "ref": "bloomberg_markets#19",
-     "title": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap",
-     "published": "2026-11-04T22:15:04+00:00",
-     "summary": "A rotation trade fueled by the US midterm elections entered a second day, with previously unfavored markets and economically sensitive stocks outperforming at the expense of chipmakers."
+     "title": "Mystery Seller Puts Up $500 Million Data Center Loans Backing Stargate, CyrusOne",
+     "published": "2026-11-05T18:52:30+00:00",
+     "summary": "Dutch bank ING is putting up for sale a roughly $500 million portfolio of data center loans all at once, according to people familiar with the matter. The rare auction comes just days after a Democratic sweep of the US midterm elections raised doubts about the future of many of the projects."
     }
    ]
   },
@@ -144,75 +144,69 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Oil tumbles below $100 on post-election peace hopes",
-     "published": "2026-11-05T07:20:20+00:00",
-     "summary": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war"
+     "title": "Asian tech stocks sink",
+     "published": "2026-11-06T02:30:40+00:00",
+     "summary": "‘Complete carnage’ as Nikkei 225 falls below 60,000 points for first time since May with Seoul’s Kospi under 5,000 points"
     },
     {
      "ref": "ft_home#1",
-     "title": "Democrats look to reshape America after historic midterm victories",
-     "published": "2026-11-05T05:00:25+00:00",
-     "summary": "Party promises dramatic change in the wake of its ‘blue wave’"
+     "title": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
+     "published": "2026-11-05T22:41:52+00:00",
+     "summary": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading"
     },
     {
      "ref": "ft_home#2",
+     "title": "Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’",
+     "published": "2026-11-05T21:57:51+00:00",
+     "summary": "Unpredictable electorates can lead to overcorrecting after presidential elections"
+    },
+    {
+     "ref": "ft_home#3",
+     "title": "Los Angeles elects democratic socialist Nithya Raman as mayor",
+     "published": "2026-11-05T21:15:09+00:00",
+     "summary": "Win follows Zohran Mamdani’s rise in New York and resounding victories by other progressives in Washington and Providence"
+    },
+    {
+     "ref": "ft_home#4",
+     "title": "Will Democrats stall the AI boom?",
+     "published": "2026-11-05T20:28:44+00:00",
+     "summary": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets"
+    },
+    {
+     "ref": "ft_home#5",
+     "title": "Wall Street mega-donors clobbered by Democratic sweep",
+     "published": "2026-11-05T19:48:28+00:00",
+     "summary": "Top hedge fund managers and private equity executives spent more than $300mn on Republican campaigns to little or no effect"
+    },
+    {
+     "ref": "ft_home#6",
+     "title": "Tech leaders need an urgent rethink of their political strategy",
+     "published": "2026-11-05T19:04:55+00:00",
+     "summary": "America’s data centre backlash is emblematic of AI anxiety and a scepticism of the industry’s power and wealth"
+    },
+    {
+     "ref": "ft_home#7",
+     "title": "Global stocks tumble as Democratic midterm sweep sparks AI rout",
+     "published": "2026-11-05T16:59:34+00:00",
+     "summary": "Investors fear US will now seek to slow data centre buildout in potential blow to tech companies"
+    },
+    {
+     "ref": "ft_home#8",
+     "title": "AI backlash threatens trillion-dollar data centre boom, say tech leaders",
+     "published": "2026-11-05T15:35:47+00:00",
+     "summary": "Executives at FT’s Future of AI summit admit tech industry has fuelled hostility towards its own expansion"
+    },
+    {
+     "ref": "ft_home#9",
      "title": "Morning in America, twilight in the markets",
      "published": "2026-11-05T05:00:16+00:00",
      "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#10",
      "title": "The next US presidential race has begun",
      "published": "2026-11-05T05:00:07+00:00",
      "summary": "The Republicans and Democrats positioning themselves for a run at the Oval Office in 2028"
-    },
-    {
-     "ref": "ft_home#4",
-     "title": "Trump’s economic agenda wasn’t Republican enough",
-     "published": "2026-11-05T05:00:07+00:00",
-     "summary": "The president promised — but did not deliver — more manufacturing jobs and higher employment rates for native-born Americans"
-    },
-    {
-     "ref": "ft_home#5",
-     "title": "US midterm results herald upheaval in Middle East policy",
-     "published": "2026-11-05T01:33:29+00:00",
-     "summary": "American voters — including vice-president JD Vance — want an end to Trump’s Iran war and Washington’s proximity to Israel"
-    },
-    {
-     "ref": "ft_home#6",
-     "title": "Democratic wave keeps US wealth taxes alive despite California loss",
-     "published": "2026-11-05T00:52:16+00:00",
-     "summary": "Proposition 40 billionaire tax set to be defeated in a rare victory for mega-donors in the US midterms"
-    },
-    {
-     "ref": "ft_home#7",
-     "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
-     "published": "2026-11-04T22:38:45+00:00",
-     "summary": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats"
-    },
-    {
-     "ref": "ft_home#8",
-     "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
-     "published": "2026-11-04T20:58:24+00:00",
-     "summary": "Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat"
-    },
-    {
-     "ref": "ft_home#9",
-     "title": "How Democrats pulled off the blue wave in maps and charts",
-     "published": "2026-11-04T19:12:33+00:00",
-     "summary": "Party on track for largest swing in their favour in House elections in more than 75 years"
-    },
-    {
-     "ref": "ft_home#10",
-     "title": "Voters have put a helpful chill on the US data centre boom",
-     "published": "2026-11-04T18:33:54+00:00",
-     "summary": "Midterm results could affect 45 per cent of planned expansion, but there is a silver lining for investors"
-    },
-    {
-     "ref": "ft_home#11",
-     "title": "The beginning of the end of the age of Trump",
-     "published": "2026-11-04T17:42:56+00:00",
-     "summary": "A stunning rebuke by Americans offers a chance to start rebuilding US democracy"
     }
    ]
   },
@@ -222,151 +216,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "עליות באירופה; הורדת תחזית לריינמטאל מפילה את מניית ענקית הנשק הגרמנית ביותר מ-16%",
-     "published": "2026-11-05T10:03:00+00:00",
-     "summary": "מחירי הנפט חוזרים לעלות; החוזים על הברנט מוסיפים יותר מ-1% ■ ענקיות האינטרנט של סין מרוצות מהבחירות בארה\"ב; סיאול וטוקיו נסגרו בירידות חדות; סמסונג ו-SK הייניקס נפלו על רקע חשש מפגיעה בביקוש לשבבים למרכזי נתונים ■ וול סטריט הגיבה בעליות חדות לניצחון הדמוקרטים; דאו ג'ונס זינק ב-3%"
+     "title": "מניות הטכנולוגיה הפילו את וול סטריט; נאסד\"ק בצניחה החדה זה 19 חודשים",
+     "published": "2026-11-05T21:06:00+00:00",
+     "summary": "אנבידיה וקורוויב נפלו ב-9%, AMD ומיקרון צללו בכ-17%; טסלה וספייס־אקס צנחו ב–11% וב–8% בהתאמה ■ מטבעות הקריפטו המרכזיים נופלים; ביטקוין ברמתו הנמוכה מאז ספטמבר ■ אירופה ננעלה בירידות; בריטניה מעלה את הריבית לראשונה זה יותר משלוש שנים ■ מחירי הנפט חוזרים לעלות; החוזים על הברנט מוסיפים יותר מ–2% ■ סיאול וטוקיו נסגרו בירידות חדות"
     },
     {
      "ref": "themarker#1",
-     "title": "דלק, ריבית ואינפלציה עלו לטראמפ בבחירות. החשבון עלול להיות מוגש לישראל",
-     "published": "2026-11-05T09:31:06+00:00",
-     "summary": "בריאיון לפודקאסט \"האינטרסנטים\" הסביר ערן ניצן, מגיש הפודקאסט \"עושים היסטוריה\" ולשעבר הציר הכלכלי של ישראל בוושינגטון, שהדלק, הריבית והאינפלציה הם שהכריעו את בחירות האמצע, ושגם המכסים, תוכנית הדגל של טראמפ, רק הסיטו את היבוא ממדינה למדינה ■ \"הדרישה ממנו היא Let us go\""
+     "title": "בהלה מ\"הגל הכחול\"? מה עומד מאחורי המפולת במניות הטכנולוגיה בוול סטריט",
+     "published": "2026-11-05T19:29:06+00:00",
+     "summary": "נאסד\"ק, S&P 500 ודאו ג'ונס נצבעו באדום בוהק בעוד משקיעים בוחנים את השלכות הניצחון המוחץ של הדמוקרטים על תעשיית ה–AI ■ האם מדובר רק בתזוזות הון בתוך השוק — או בשינוי יסודי? ■ אנליסט בוולס פארגו: \"השוק מתחיל לגלם את האפשרות שיגיעו עוד רגולציות\""
     },
     {
      "ref": "themarker#2",
-     "title": "לפני הקמת הממשלה: סמוטריץ' מנסה להבטיח מינוי קבע ליהודה אליהו ברמ\"י",
-     "published": "2026-11-05T08:55:00+00:00",
-     "summary": "מינויו של יהודה אליהו למנהל רשות מקרקעי ישראל נפסל בבג\"ץ מתוך חשש לניגוד עניינים של שניים מחברי ועדת האיתור — והוא מכהן כממלא מקום ■ מזכיר הממשלה ביקש מנציב שירות המדינה לכנס את ועדת האיתור החדשה מכיוון שהבחירות הסתיימו, ורומז שעליה לבחור באליהו מתוך \"חשש ממשי לפגיעה ברציפות הניהולית ובתפקוד של רמ\"י\""
+     "title": "בוולט טענו שזה \"צעד קיצוני\" — המהלך של פז מוכיח אחרת",
+     "published": "2026-11-05T17:48:13+00:00",
+     "summary": "האוויר יצא מהבלון של וולט מרקט כשבפז הגיעו למסקנה שאי אפשר להפוך אותה לרווחית ■ המהלך המפתיע של בלווטניק, מה התהפך כמו סטייק (מתורבת), וגוגל מנצלת את המונופול שלה בבתי הספר ■ כל מה שצריך לדעת על היום שהיה בכלכלה"
     },
     {
      "ref": "themarker#3",
-     "title": "דליה איציק פורשת מתפקידה כיו\"ר דירקטוריון המרכז הרפואי הדסה",
-     "published": "2026-11-05T08:09:38+00:00"
+     "title": "הכלכלן שמעריך — זאת הסיבה לנפילות החדות בבורסה",
+     "published": "2026-11-05T16:56:49+00:00",
+     "summary": "מודי שפריר, האסטרטג הראשי של בנק הפועלים, מצביע על שני ביטויים להתגברות הסיכון שמייחסים המשקיעים בארץ ובחו\"ל לשוק הישראלי: שער השקל־דולר והירידה במדדי המניות בבורסת ת\"א ■ בניגוד למגמה בישראל, בורסות בולטות בעולם הציגו עליות בימים האחרונים, ומטבעות בולטים התחזקו מול הדולר"
     },
     {
      "ref": "themarker#4",
-     "title": "בתוך שבוע: ברן מצילה עסקה של כחצי מיליארד דולר",
-     "published": "2026-11-05T07:54:51+00:00",
-     "summary": "רק בשבוע שעבר הודיעה החברה כי קיבלה הודעת ביטול על העסקה באפריקה ■ בימים האחרונים נפגשו נציגיה עם בכירי ממשל במדינה, ואלה החליטו למשוך את הודעת הביטול ■ מאז ביטול העסקה ירדה המניה בכ-14%"
+     "title": "כמה עולה שעת עבודה של שבב AI? אף אחד לא באמת יודע, וזה עלול לעלות למשקיעים ביוקר",
+     "published": "2026-11-05T16:54:58+00:00",
+     "summary": "ברשות החדשנות קובעים את \"מחיר השוק\" של שעת עבודה של שבב AI לפי האתר שמרוויח ממנו, בוול סטריט מנסים להשיק חוזים עתידיים על שבבי אנבידיה, ובדרך מגלים שאין שום מדד מוסכם ■ כששוק של מאות מיליארדים מתומחר בשיטת \"סמוך\", מלחמת המדדים שבדרך תכריע מי מוגן — ומי יתרסק"
     },
     {
      "ref": "themarker#5",
-     "title": "בזכות אגירת החשמל: הכנסות אורמת עלו ל-275 מיליון דולר",
-     "published": "2026-11-05T07:25:20+00:00",
-     "summary": "ההכנסות ממגזר האגירה זינקו ב-145% בשעה שמגזר ייצור החשמל הגיאותרמי נסוג ב-2% לכ-164 מיליון דולר ■ החברה מעלה את טווח תחזית האמצע ל-2026"
+     "title": "ב–2027 נשלם הרבה יותר על טיסות: \"כשמחיר הדלק עולה, מרחב התמרון מצטמצם\"",
+     "published": "2026-11-05T16:29:34+00:00",
+     "summary": "הזינוק במחירי הדלק הסילוני, על רקע המלחמה במזרח התיכון, צפוי להוביל לעלייה של 15%–20% במחירי כרטיסי הטיסה ב–2027 ■ בישראל חוששים מהתייקרות חדה אף יותר, בשל התחרות המוגבלת והביקוש הגבוה ■ מנכ\"ל ישראייר: \"מנגנוני גידור מחירי הדלק מוגבלים\""
     },
     {
      "ref": "themarker#6",
-     "title": "הירידות בבורסה מעמיקות: מדד ת\"א 35 יורד ב-2.5%, מדד הבנקים מאבד 3%",
-     "published": "2026-11-05T06:49:01+00:00"
+     "title": "ביטוח נגד חדלות פירעון חזר לאופנה — הפעם על חובות AI",
+     "published": "2026-11-05T15:38:46+00:00",
+     "summary": "חברות שמייצרות שבבים, בונות מרכזי נתונים או מעורבות בדרכים אחרות בכלכלת הבינה המלאכותית, הצומחת במהירות, פונות להסדרי מימון מורכבים — ולא בטוח שחוזי CDS נגד חדלות פירעון יספיקו כדי להגן על משקיעים מפניהן"
     },
     {
      "ref": "themarker#7",
-     "title": "מה כאב לטראמפ יותר - ההפסד לדמוקרטים או העליות בוול סטריט?",
-     "published": "2026-11-05T06:23:57+00:00",
-     "summary": "מניית ישראל קנדה איבדה 55% מהשיא, ארקיע מחפשת רוכש, חברת חוליות בדרך לבורסה — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
+     "title": "טלטלה בשוק הספורט: DAZN של בלווטניק זכתה בזכויות השידור של הצ'מפיונס ליג",
+     "published": "2026-11-05T15:19:09+00:00",
+     "summary": "הפלטפורמה הבינלאומית זכתה במכרז של אופ\"א לארבע עונות, מ-2027/28 ■ הזכייה כוללת גם את הליגה האירופית והקונפרנס ליג, שזכויות השידור שלהן מוחזקות היום על ידי צ'רלטון של אלי עזור"
     },
     {
      "ref": "themarker#8",
-     "title": "דיפלומטיית המינרלים חוזרת: אלה המדינות שמרוויחות מהמאבק בין ארה\"ב לסין",
-     "published": "2026-11-05T06:01:44+00:00",
-     "summary": "אוצרות טבע יכולים לחולל שינוי דרמטי במצבן הכלכלי של מדינות עניות ■ עכשיו הן מרוויחות מהתחרות העזה בין שתי המעצמות הגדולות בעולם על מינרלים נדירים"
+     "title": "מאותו הכפר",
+     "published": "2026-11-05T14:49:50+00:00",
+     "summary": "הניסיון לערער על תוצאות הבחירות עקב העלייה ההיסטורית בשיעורי ההצבעה בחברה הערבית - מעיד עד כמה השינוי מרעיד את אמות הסיפים של חובבי הסדר הישן"
     },
     {
      "ref": "themarker#9",
-     "title": "עובדת במאפייה קיבלה \"תמריץ\" על כל יום שהגיעה. האם זה חלק מהשכר?",
-     "published": "2026-11-05T05:59:56+00:00",
-     "summary": "בית הדין הארצי לעבודה קבע כי \"תמריץ יומי\" שניתן עבור הגעה לעבודה ו\"תמריץ הסתגלות\" שניתן כפיצוי על ביטול משמרות לילה ייחשבו חלק משכר היסוד לצורך זכויות סוציאליות ■ תוספת עבור עבודת לילה לא תיחשב במקרה זה לחלק מהשכר ■ להכרעה יש משמעות רוחבית למקרים בנסיבות דומות"
+     "title": "נובה עקפה את התחזיות עם הכנסות שיא של 288 מיליון דולר; המניה יורדת",
+     "published": "2026-11-05T14:25:42+00:00",
+     "summary": "נובה נהנתה ממכירות שיא של מערכות מדידה ובדיקה לשבבי זיכרון ■ החברה צופה הכנסות של כ-310 מיליון דולר ברבעון הרביעי של 2026 ■ מניית החברה יורדת ב-4% במסחר המוקדם בוול סטריט"
     },
     {
      "ref": "themarker#10",
-     "title": "דיווח: פאלו אלטו במו\"מ לרכישת קלאץ' הישראלית בחצי מיליארד דולר",
-     "published": "2026-11-05T05:53:58+00:00",
-     "summary": "אתר הטכנולוגיה האמריקאי דה אינפורמיישן מדווח כי ענקית הסייבר מנהלת מגעים להשלמת רכישה נוספת בישראל ■ קלאץ' סקיוריטי, שעוסקת בתחום הזהויות הלא אנושיות, הוקמה ב-2023 וגייסה 28.5 מיליון דולר בשני סבבי השקעה"
+     "title": "גלעד קריב: \"ניצחון הדמוקרטים בארה\"ב יסייע לנו לקדם הסדר עם הפלסטינים\"",
+     "published": "2026-11-05T13:44:32+00:00"
     },
     {
      "ref": "themarker#11",
-     "title": "אין יותר מה לרחם על בני דור המילניום",
-     "published": "2026-11-05T04:14:31+00:00",
-     "summary": "רבים מבני דור המילניום מרוויחים יותר מהוריהם והגיעו לעמדות כוח בעסקים, פוליטיקה ותרבות - גם והבעלות שלהם על בתים צומחת במהירות ■ אם כבר דור ה־Z יכול לטעון שהוא אומלל, בעוד מנהלי דור המילניום משקיעים בטכנולוגיה שמייתרת עובדים"
+     "title": "\"הכסף ל–2027 כבר יצא מהתחנה\": מתי ייפסק הסיוע האמריקאי לישראל, אם בכלל?",
+     "published": "2026-11-05T13:10:28+00:00",
+     "summary": "ההחלטה לעצור את כספי הסיוע של ארה\"ב לישראל כבר ב–2027 לא יכולה לצאת לפועל רק על סמך הצהרה של נשיא ארה\"ב ■ מומחים מסבירים את התהליך החקיקתי שתצטרך לעבור החלטה לעצור את כספי הסיוע, ומציגים את ההערכות שלהם בדבר כוונותיו של טראמפ — והנזק שההצהרה לבדה כבר גרמה"
     },
     {
      "ref": "themarker#12",
-     "title": "טראמפ הוא לא הלוזר היחיד בבחירות האמצע בארה\"ב",
-     "published": "2026-11-05T04:13:48+00:00",
-     "summary": "אילון מאסק תרם כחצי מיליארד דולר למועמדים רפובליקאים בבחירות אמצע הכהונה שנערכו אתמול ■ ההפסד המוחץ שלהם, בעיקר בטקסס, מעמיד בסכנה כמה מהתוכניות הגרנדיוזיות שלו"
+     "title": "מנהל רשות המסים שי אהרונוביץ': \"אין מנוס מהטלת מס רכוש על קרקעות פנויות\"",
+     "published": "2026-11-05T12:58:29+00:00",
+     "summary": "אהרונוביץ' מודאג מעצירת המימון האמריקאי לישראל ■ \"2027–2028 יהיו שנים מאתגרות. צריך לחשוב על מקורות הכנסה הכי פחות פוגעניים כלפי הציבור\" ■ \"אני מקווה שהפוליטיקאים מכל הצדדים מבינים כמה קריטי שתהיה ממשלה עם קואליציה יציבה\""
     },
     {
      "ref": "themarker#13",
-     "title": "מניית ישראל קנדה איבדה 55% מהשיא: המבחן הקשה של רוזן וטוכמאייר אחרי המיזוג הענק",
-     "published": "2026-11-05T04:12:01+00:00",
-     "summary": "עסקת הענק לרכישת אקרו אמורה הייתה להפוך את ישראל קנדה לחברת הנדל\"ן למגורים הגדולה בבורסה ■ צמד היזמים ברק רוזן ואסי טוכמאייר ידעו בעבר לצאת מכל משבר — אבל צניחת המניה, חובות של מיליארדים והאטה במכירות של דירות יוקרה מעמידים בפניהם אתגר גדול ■ בכיר בשוק: \"הם נהנים ממוניטין רב אצל מנכ\"לי בנקים ומוסדיים, ויידעו להגיבו\""
+     "title": "גוגל תחסום את מנוע החיפוש שלה עבור בתי ספר שלא יסכימו להציע לתלמידים כלי AI",
+     "published": "2026-11-05T12:48:18+00:00",
+     "summary": "ענקית החיפוש מספקת מכשירי קצה וחבילות תוכנה לילדי גן עד סוף התיכון ברחבי ארה\"ב, והפכה למונופול בתחום ■ החלטתה האחרונה ממחישה כי פסיקות בתי המשפט נגדה בשנים האחרונות לא הרתיעו את החברה, כך מזהירה יו\"ר נציבות הסחר הפדרלית לשעבר לינה קאן"
     },
     {
      "ref": "themarker#14",
-     "title": "מאשדוד, ממצרים ומכרם שלום — כל הזירות שדרכן מנסים להבריח סיגריות לרצועה",
-     "published": "2026-11-05T04:11:07+00:00",
-     "summary": "סיגריות מוברחות בשווי של יותר מ–200 מיליון שקל נתפסו ביום שלישי בנמל אשדוד ■ גם במעברים ממצרים ומישראל נתפסו סיגריות מוברחות ■ לפני שבועיים שבתו סוחרים מעזה במחאה על המיסוי של חמאס"
+     "title": "פרודלים תרכוש חברה מדרום אפריקה תמורת עד 46 מיליון דולר; המניה קופצת 5.5%",
+     "published": "2026-11-05T12:47:12+00:00",
+     "summary": "פרודלים רוכשת 93.25% מחברת BOK הדרום אפריקאית, המתמחה בהפקת רכיבים טבעיים מתוצרי לוואי של תעשיית היין ■ חברת BOK צופה EBITDA של כ-9 מיליון דולר ב-2026 ■ הרכישה מצטרפת לשורת עסקות שביצעה פרודלים בשנה האחרונה, בניסיון להאיץ את צמיחתה ■ מניית פרודלים איבדה כ-37% מערכה מאז ההנפקה בפברואר"
     },
     {
      "ref": "themarker#15",
-     "title": "אין לי בגרות, אין לי תואר. \"האוטונומיה החרדית\" היא לא דבר להתהדר בו, וגם לא לשמר",
-     "published": "2026-11-05T04:07:15+00:00",
-     "summary": "כשהמו\"ל של עיתון \"משפחה\" שואל \"מי הסמיך את המדינה להחליט איזה אורח חיים יהודי הוא הנכון?\", וטוען בעד שימור הכללים הנוקשים של הקהילה החרדית, הוא מעדיף שנשכח את כל מי שנשללה ממנו הזכות ללימודים בלי הפרדה, ללימודי ליבה, לתארים מתקדמים - כאלה שבני משפחתו דווקא זכו בהם, אבל נשללו ממני"
+     "title": "אף שנחשבה למתמודדת מובילה: פז החליטה לסגת מהצעתה לרכישת וולט מרקט",
+     "published": "2026-11-05T12:36:52+00:00",
+     "summary": "לפי הערכות, פז הייתה המתמודדת שהגישה את ההצעה הכספית הגבוהה ביותר עד כה במכרז, בסכום של כ-300 מיליון שקל ■ פז נחשבה מתמודדת מובילה גם בשל הפוטנציאל העסקי-תפעולי שלה, אך נסוגה בעקבות הבנה שתתקשה להביא את העסק לרווחיות"
     },
     {
      "ref": "themarker#16",
-     "title": "תוכנית Access to Space תסבסד שיגור טכנולוגיות ישראליות לחלל",
-     "published": "2026-11-05T04:05:52+00:00",
-     "summary": "התוכנית של רשות החדשנות וסוכנות החלל הישראלית תאפשר לחברות ישראליות לבחון את הטכנולוגיות שלהן בתנאי חלל אמיתיים, בסבסוד של 35% מעלויות השיגור ובליווי מקצועי ■ המטרה: לפתוח בפני חברות מתחומי הרפואה, האנרגיה, התקשורת והסייבר שוק חדש"
+     "title": "אקסטנד מפטרת כ–10% מכוח האדם שלה; נייס תיפרד מ-5% מהעובדים",
+     "published": "2026-11-05T11:53:00+00:00",
+     "summary": "האניבוק מפטרת 35 איש, פייפאל מפטרת כחמישית מעובדיה, מאנדיי מפטרת מאות. רדיס לאבס מפטרת 75 ■ פלקסידיטי, לשעבר ארגוס, מפטרת 80 עובדים; אלמנטור מפטרת 100 ■ ארטליסט מפטרת 200 עובדים, 40% מהחברה"
     },
     {
      "ref": "themarker#17",
-     "title": "\"העסקים שמחים לחסוך, וכותבי התוכן חוסלו\"",
-     "published": "2026-11-05T04:05:09+00:00",
-     "summary": "עסקים שעד לאחרונה שילמו על כתיבת הודעות לעיתונות, מצגות, פוסטים לרשתות החברתיות ותקשורת פנים-ארגונית, העבירו את המשימות האלה לבינה מלאכותית שעושה את העבודה מהר וחינם. מי בכל זאת שורד בתחום הקשה של כתיבת תוכן, ומה עושים מקצועני המילים שנהנו מביקוש גבוה בתחילת העשור — והשוק שלהם התאדה"
+     "title": "חברת Bria AI מפטרת שליש מעובדיה ומצמצמת את היקף הפיתוח של המודל שלה",
+     "published": "2026-11-05T11:43:28+00:00",
+     "summary": "חברת הבינה המלאכותית הישראלית בריאה (Bria AI) פיטרה בשבוע שעבר 20 מתוך 60 מעובדיה ■ במסגרת המהלך עזב גם סמנכ\"ל המחקר של החברה"
     },
     {
      "ref": "themarker#18",
-     "title": "\"הציוד שלהם דפוק, תעברו\": ספקית אינטרנט טוענת שטכנאי בזק משדלים לקוחות לנטוש",
-     "published": "2026-11-05T04:04:28+00:00",
-     "summary": "ספקית האינטרנט טופיקו הגישה נגד בזק תביעה בסך 8.3 מיליון שקל בטענה שבזק מנצלת את מעמדה המונופוליסטי בשוק ■ נטען גם כי בזק משתמשת במערכות ובמידע שבידיה כספקית תשתיות ומנטרת לקוחות שחוו תקלות של הספקית כדי לפנות אליהם באופן יזום"
+     "title": "הקושי למכור דירות בהתחדשות עירונית: \"תל אביב בהגירה שלילית של 22 אלף איש, ירושלים במינוס 88 אלף\"",
+     "published": "2026-11-05T11:43:15+00:00",
+     "summary": "יו\"ר ארגון הקבלנים של מחוז תל אביב, עמית גוטליב, אמר כי החברות \"עושות התחדשות עירונית אז מצפות שהערים יגדלו\", אבל הערים הגדולות דווקא מאבדות תושבים ■ יקי רייסנר, בעלי רייסדור: \"המדינה יכולה לעשות בשלושה חודשים מה שחברת דירה להשכיר לא עשתה בעשר שנים\""
     },
     {
      "ref": "themarker#19",
-     "title": "ממשלת אחדות או ממשלה עם חרדים יהפכו את ממשלת השינוי לממשלת השיתוק",
-     "published": "2026-11-05T04:03:51+00:00",
-     "summary": "חוסר הנכונות של חלק מגוש השינוי לשיתוף פעולה עם המפלגות הערביות גוזר שתי חלופות שימנעו שוויון בנטל וישאירו את ישראל לכודה בחוסר יעילות ובשחיתות ■ החרדים הם מתנגדי רפורמות ושינוי, הערבים הם בדיוק ההפך מכך — ולכן ממשלה איתם היא מנוע דחיפה"
+     "title": "השוק נתן טריליון דולר, ולקח אותם: מה קורה בוול סטריט בעקבות הבחירות",
+     "published": "2026-11-05T10:57:29+00:00",
+     "summary": "חמישה דברים שצריך לדעת על תגובת השוק לניצחון המפלגה הדמוקרטית בבחירות האמצע, ולמה עלו המניות בתחומים שהמחוקקים מבטיחים לרסן"
     },
     {
      "ref": "themarker#20",
-     "title": "חברת חוליות בדרך לבורסה: רוצה לגייס לפי שווי של 1.2-1 מיליארד שקל",
-     "published": "2026-11-05T04:02:32+00:00",
-     "summary": "ארבע שנים אחרי שספגו כתף קרה מהמוסדיים ונאלצו לבטל את ההנפקה, קרן טנא וקיבוץ שדה נחמיה מנסים שוב לרכוב על הגל ■ יצרנית הצנרת חוליות, שמציגה הכנסות שנתיות של כ-800 מיליון שקל הגישה, תשקיף חסוי"
+     "title": "בבורסה מנסים להרגיע: \"הזרים רכשו מניות ב-900 מיליון שקל נטו אחרי הבחירות\"",
+     "published": "2026-11-05T10:55:29+00:00",
+     "summary": "הבורסה מאבדת גובה לאחר הבחירות: מאז התוצאות, שהגבירו את האי-ודאות הפוליטית, איבדו המדדים המרכזיים 8% ■ בסקירה של מחלקת המחקר של הבורסה נכתב כי \"בעוד המשקיעים הזרים הגדילו את החזקותיהם בבנקים, בביטוח ובשירותים הפיננסיים, המוסדיים המקומיים צימצמו את חשיפתם לענפים אלה\""
     },
     {
      "ref": "themarker#21",
-     "title": "הסטארט־אפ פיירבולט, שהפך לחד קרן בימי הבועה, במשא ומתן למכירה תמורת 250–300 מיליון דולר",
-     "published": "2026-11-05T04:01:49+00:00",
-     "summary": "חברת MongoDB האמריקאית מנהלת מגעים מתקדמים לרכישת הסטארט-אפ הישראלי פיירבולט, ששוויו הוערך ב-1.4 מיליארד דולר בגיוס האחרון ב-2022 ■ אם תצא העסקה לפועל צפויים המשקיעים בפיירבולט לקבל חזרה את רוב השקעתם, אך ללא תשואה משמעותית"
+     "title": "כלכלת איראן שורדת, אבל האזרחים מותשים: \"האי־ודאות חונקת אותנו\"",
+     "published": "2026-11-05T10:45:28+00:00",
+     "summary": "האינפלציה באיראן ברמה של כמעט 80%, והריאל נפל השנה שוב ושוב לרמות שפל חדשות — אך מה שמייאש את האיראנים יותר מכל הוא חוסר היכולת לתכנן תוכניות ■ \"בין אם תהיה שוב מלחמה או שתיחתם עסקה — אנחנו רוצים כבר לדעת\""
     },
     {
      "ref": "themarker#22",
-     "title": "\"הבנתי שאפשר לאבד ברגע את הגב הכלכלי המשפחתי, ושאני חייבת להשתכר יותר\"",
-     "published": "2026-11-05T04:00:00+00:00",
-     "summary": "מאיה שלו עבדה בחברה שעובדת עם גופי ביטחון, אבל הלחץ והשחיקה דחפו אותה לחפש כיוון אחר ■ היא למדה עבודה סוציאלית, אך המשכורת הנמוכה ושעות העבודה הארוכות הרחיקו אותה מהתחום ■ כיום היא מנהלת שיווק ושותפויות בעמותת בוגרי 8200 ■ \"זו עבודת החלומות שלי: אני עובדת מרחוק וזה חוסך לי זמן מבוזבז של נסיעות\""
+     "title": "בפעם השנייה השבוע: מטוסים באירופה הוסטו ממסלולם בשל איומי פצצה",
+     "published": "2026-11-05T10:43:04+00:00",
+     "summary": "יותר מעשרה מטוסים נאלצו לסטות ממסלולם או לנקוט אמצעי זהירות אחרים לאחר שהתקבלו התרעות על פצצות שהוטמנו בהם, לכאורה ■ מוקדם יותר השבוע נאלצו מטוסים באירופה לשנות מסלול וחלקם אף לוו על ידי מטוסים צבאיים בשל איומים בפצצות, אך אף אחד מהאיומים לא התגלה כממשי"
     },
     {
      "ref": "themarker#23",
-     "title": "\"המשקיעים תמיד ירצו עוד\": מהפכת ה–AI מטלטלת את הישראליות בוול סטריט",
-     "published": "2026-11-04T19:10:21+00:00",
-     "summary": "צ'ק פוינט, טאואר, נייס ואמדוקס ספגו ירידות חדות לאחר פרסום הדו\"חות, גם כשחלקן עקפו את התחזיות ■ אם בעבר אפשר היה לייחס את התגובה לאירוע בחברה, כעת נראה כי הסנטימנט השלילי בבורסה בניו יורק לא פוסח על אף אחת"
+     "title": "זו האנרגיה, טמבל: המדיניות של טראמפ סללה את הדרך לניצחון הדמוקרטים",
+     "published": "2026-11-05T10:28:49+00:00",
+     "summary": "המלחמה באיראן, התמיכה בתנופת ההקמה של מרכזי נתונים והחסימה של פרויקטים בתחום האנרגיות המתחדשות הזניקו את מחירי החשמל והדלק בארה\"ב ■ המצביעים הגיעו לקלפי כשהם זועמים על הנשיא, שהבטיח דווקא להוזיל את עלויות האנרגיה"
     },
     {
      "ref": "themarker#24",
-     "title": "בהשקעה של 5.6 מיליארד שקל: תחנת הכוח שורק קיבלה אישור סופי להקמה",
-     "published": "2026-11-04T18:03:18+00:00",
-     "summary": "התחנה, בהספק של כ–850 מגה־ואט, צפויה לקום בתוך שלוש שנים באתר שורק שבאזור ראשון לציון ■ קבוצת אדלטק ומנורה מבטחים, שזכו במכרז בדצמבר 2024, השלימו את הסגירה הפיננסית לפרויקט ■ הפרויקט ינוהל בהקמה עצמית ויספק חשמל קריטי לגוש דן"
+     "title": "דלק, ריבית ואינפלציה עלו לטראמפ בבחירות. החשבון עלול להיות מוגש לישראל",
+     "published": "2026-11-05T09:31:06+00:00",
+     "summary": "בריאיון לפודקאסט \"האינטרסנטים\" הסביר ערן ניצן, מגיש הפודקאסט \"עושים היסטוריה\" ולשעבר הציר הכלכלי של ישראל בוושינגטון, שהדלק, הריבית והאינפלציה הם שהכריעו את בחירות האמצע, ושגם המכסים, תוכנית הדגל של טראמפ, רק הסיטו את היבוא ממדינה למדינה ■ \"הדרישה ממנו היא Let us go\""
     }
    ]
   },
@@ -376,153 +371,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
-     "title": "How the Data Center Backlash Could Play Into the Hands of Big Tech",
-     "published": "2026-11-05T10:30:00+00:00",
-     "summary": "Giants like Amazon and Microsoft stand to benefit from a shakeout."
+     "title": "U.S. Stock Market Will Likely Struggle to Regain October Peak",
+     "published": "2026-11-06T03:10:00+00:00",
+     "summary": "The U.S. equity market will likely struggle to regain its early October peak anytime soon, even if fears around the U.S. political outlook prove overdone, Capital Economics said."
     },
     {
      "ref": "wsj_markets#1",
-     "title": "Treasury, European Bond Yields Tumble as Markets Lifted By U.S. Democrats’ Victory",
-     "published": "2026-11-05T10:15:00+00:00",
-     "summary": "Bond markets cheered the prospect of fiscal restraint in the U.S., as the election result could lead to political gridlock, with a Republican President and Democrat-controlled Congress."
+     "title": "Hedge Funds Dump Positions and Cut Staff as Selloff Deepens",
+     "published": "2026-11-06T02:10:00+00:00",
+     "summary": "Last month saw the highest rate of stock-picking funds unwinding positions in over a decade."
     },
     {
      "ref": "wsj_markets#2",
-     "title": "AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates",
-     "published": "2026-11-05T09:46:00+00:00",
-     "summary": "Artificial-intelligence stocks continued to weaken globally as investors digested the implications of the Democratic sweep in the U.S. midterm elections."
+     "title": "The JPMorgan Alums Whose Big Bet on AI Stocks Is Being Put to the Test",
+     "published": "2026-11-06T02:00:00+00:00",
+     "summary": "Phil Scott and Jim Atwood struck out on their own in October in an effort to keep their wealth clients’ concentrated portfolios intact."
     },
     {
      "ref": "wsj_markets#3",
-     "title": "Sterling Gains Could Prove Limited Unless BOE Boosts Lofty Rate-Rise Bets",
-     "published": "2026-11-05T09:38:00+00:00",
-     "summary": "Sterling was flat against the dollar and weaker against the euro. The BOE looks set to raise interest rates Thursday, which ING said would keep the pound supported after recent gains."
+     "title": "Elizabeth Warren’s Power in New Senate Is a Wall Street Nightmare",
+     "published": "2026-11-06T02:00:00+00:00",
+     "summary": "The Democrat is expected to head the Senate Banking Committee, giving her expansive authority over the financial industry."
     },
     {
      "ref": "wsj_markets#4",
-     "title": "A Fifth of Global Refineries at Risk as Oil Demand Peaks in 2032, Wood Mackenzie Says",
-     "published": "2026-11-05T09:30:00+00:00",
-     "summary": "Around a fifth of global refineries are at risk of closure as they face falling or negative operating net cash margins over the coming years, according to Wood Mackenzie."
+     "title": "Oil Holds Gains After Selloff",
+     "published": "2026-11-06T01:35:00+00:00",
+     "summary": "Oil prices rose in early Asian trade, paring overnight gains but staying in the green after a volatile week."
     },
     {
      "ref": "wsj_markets#5",
-     "title": "Stock Market Today: AI Stocks Under Pressure as Investors Reassess Positions",
-     "published": "2026-11-05T09:25:53+00:00",
-     "summary": "Chipmaker Qualcomm's earnings disappoint"
+     "title": "The Birkin Fund Cashing In on the Hermès Luxury-Resale Market",
+     "published": "2026-11-06T01:00:00+00:00",
+     "summary": "Luxus, an investment fund devoted to exclusive Hermès bags, returned 24%, but the luxury-goods market remains risky."
     },
     {
      "ref": "wsj_markets#6",
-     "title": "European Defense Stocks Under Pressure After Mixed Earnings, Midterm Results",
-     "published": "2026-11-05T09:24:00+00:00",
-     "summary": "European defense companies were in decline after a mixed set of earnings and midterm election results that cast doubt on the extent of U.S. military spending going forward."
+     "title": "Asian Currencies Mixed; Diminishing Risk Appetite Might Weigh",
+     "published": "2026-11-06T00:53:00+00:00",
+     "summary": "Asian currencies were mixed in early trade."
     },
     {
      "ref": "wsj_markets#7",
-     "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
-     "published": "2026-11-05T08:58:00+00:00",
-     "summary": "Europe’s largest steelmaker booked a 34% surge in earnings before interest, taxes, depreciation and amortization over the third quarter of the year."
+     "title": "Gold Continues to Rise Amid Better Risk Sentiment",
+     "published": "2026-11-06T00:25:00+00:00",
+     "summary": "Gold gained in early Asian trade amid better risk sentiment. There are increased hopes that a Democratic-led Congress will be able to fight inflation more effectively, said ANZ Research."
     },
     {
      "ref": "wsj_markets#8",
-     "title": "Gold Climbs to Two-Week High on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
-     "published": "2026-11-05T08:16:00+00:00",
-     "summary": "Gold futures rose to a two-week high supported by a weaker dollar and declining Treasury yields after the Democratic sweep of U.S. Congress raised expectations of tighter fiscal discipline."
+     "title": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
+     "published": "2026-11-06T00:00:00+00:00",
+     "summary": "The stunning election results make it more important than ever to stick with your investing playbook."
     },
     {
      "ref": "wsj_markets#9",
-     "title": "WSJ Dollar Index Falls 0.30% to 96.94",
-     "published": "2026-11-04T22:23:00+00:00",
-     "summary": "The WSJ Dollar Index fell 0.3%, down five of the past six trading days."
+     "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+     "published": "2026-11-05T23:17:00+00:00",
+     "summary": "The artificial intelligence giant could need to set a significantly lower-than-expected valuation, investors say."
     },
     {
      "ref": "wsj_markets#10",
-     "title": "Auto & Transport Roundup: Market Talk",
-     "published": "2026-11-04T22:05:00+00:00",
-     "summary": "Find insight on motor-vehicle sales in Canada, Uber, BMW and more in the latest Market Talks covering Auto and Transport."
+     "title": "Why Investors Are Searching for Hope in Home Builders",
+     "published": "2026-11-05T22:45:00+00:00",
+     "summary": "D.R. Horton, PulteGroup and Lennar have all outperformed since Tuesday’s midterm elections."
     },
     {
      "ref": "wsj_markets#11",
-     "title": "Financial Services Roundup: Market Talk",
-     "published": "2026-11-04T22:04:00+00:00",
-     "summary": "Find insight on One Rock Capital Partners, U.K. bank stocks and more in the latest Market Talks covering Financial Services."
+     "title": "Opinion | Politics Shakes Up the Markets",
+     "published": "2026-11-05T22:40:00+00:00",
+     "summary": "A tech correction could force Washington to focus on the economy."
     },
     {
      "ref": "wsj_markets#12",
-     "title": "Basic Materials Roundup: Market Talk",
-     "published": "2026-11-04T22:03:00+00:00",
-     "summary": "Find insight on gold futures, Canfor, Canadian miners and more in the latest Market Talks covering Basic Materials."
+     "title": "WSJ Dollar Index Rises 0.11% to 97.05",
+     "published": "2026-11-05T22:26:00+00:00",
+     "summary": "The WSJ Dollar Index rose 0.1% — up two of the past three trading days."
     },
     {
      "ref": "wsj_markets#13",
-     "title": "U.S. Stocks Rally on Divided Government as AI Wobbles Continue",
-     "published": "2026-11-04T21:55:00+00:00",
-     "summary": "Stocks surged as oil prices tumbled and traders bet a divided government would be good for business, offsetting ongoing unease about artificial-intelligence bets."
+     "title": "Health Care Roundup: Market Talk",
+     "published": "2026-11-05T22:15:00+00:00",
+     "summary": "Find insight on Siemens Healthineers, AstraZeneca and more in the latest Market Talks covering Health Care."
     },
     {
      "ref": "wsj_markets#14",
-     "title": "U.S. Natural Gas Futures Rise for Second Session",
-     "published": "2026-11-04T21:50:00+00:00",
-     "summary": "U.S. natural gas futures posted back-to-back gains, rising 2.2% to $2.959/mmBtu."
+     "title": "Auto & Transport Roundup: Market Talk",
+     "published": "2026-11-05T22:13:00+00:00",
+     "summary": "Find insight on Rheinmetall, Renk, Air France-KLM and more in the latest Market Talks covering Auto and Transport."
     },
     {
      "ref": "wsj_markets#15",
-     "title": "Stocks Surge, Oil Plummets on Democrat Victory",
-     "published": "2026-11-04T21:32:00+00:00",
-     "summary": "Plus, CVS decides to break itself up."
+     "title": "Basic Materials Roundup: Market Talk",
+     "published": "2026-11-05T22:10:00+00:00",
+     "summary": "Find insight on gold futures, palm oil, London’s miners and more in the latest Market Talks covering Basic Materials."
     },
     {
      "ref": "wsj_markets#16",
-     "title": "The Blue Wave Sets Off a Potential Regime Change in Markets",
-     "published": "2026-11-04T21:21:00+00:00",
-     "summary": "U.S. stock indexes surged on hope that legislative gridlock, an AI slowdown and checks on presidential power will mark the start of a new era for the economy."
+     "title": "Energy & Utilities Roundup: Market Talk",
+     "published": "2026-11-05T22:10:00+00:00",
+     "summary": "Find insight on oil futures, Orsted, National Grid and more in the latest Market Talks covering Energy and Utilities."
     },
     {
      "ref": "wsj_markets#17",
-     "title": "Oil Futures Fall As Democrats Win U.S. Congress",
-     "published": "2026-11-04T20:59:00+00:00",
-     "summary": "Oil futures fell after the Democrats won control of the U.S. Congress, raising hopes for a settlement to the Middle East conflict, while diplomatic efforts continued in the region."
+     "title": "Tech, Media & Telecom Roundup: Market Talk",
+     "published": "2026-11-05T22:08:00+00:00",
+     "summary": "Find insight on Ziply, Cisco, Expedia and more in the latest Market Talks covering Technology, Media and Telecom."
     },
     {
      "ref": "wsj_markets#18",
-     "title": "U.S. Stocks Jump After Democrats Sweep Congress",
-     "published": "2026-11-04T19:16:00+00:00",
-     "summary": "U.S. stocks are surging as investors react to a blue wave that puts Democrats in control of both chambers of Congress."
+     "title": "Financial Services Roundup: Market Talk",
+     "published": "2026-11-05T21:55:00+00:00",
+     "summary": "Find insight on Canada’s bank regulator, Fair Isaac Corporation, Sun Life Financial and more in the latest Market Talks covering Financial Services."
     },
     {
      "ref": "wsj_markets#19",
-     "title": "Health Care Roundup: Market Talk",
-     "published": "2026-11-04T17:25:00+00:00",
-     "summary": "Find insight on Switzerland’s pharmaceutical industry, Novo Nordisk, Roche Holding and more in the latest Market Talks covering Health Care."
+     "title": "U.S. Stocks Slide as AI Rally Hits a Wall",
+     "published": "2026-11-05T21:51:00+00:00",
+     "summary": "Stocks plunged as disappointment in two major chip designers’ earnings and post-election fears about curbed data-center development caused a rout in artificial-intelligence companies."
     },
     {
      "ref": "wsj_markets#20",
-     "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
-     "published": "2026-11-04T15:43:00+00:00",
-     "summary": "We analyzed everything from estate planning to retirement income options at some of the larger registered investment advisor firms to help retirees select a firm that could best connect them with a fiduciary financial advisor."
+     "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
+     "published": "2026-11-05T21:41:00+00:00",
+     "summary": "The Nasdaq composite closes in correction territory in the stock market’s worst day since last April’s tariff turmoil."
     },
     {
      "ref": "wsj_markets#21",
-     "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-     "published": "2026-11-04T14:06:00+00:00",
-     "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
+     "title": "AI Panic Grips Stocks",
+     "published": "2026-11-05T21:17:00+00:00",
+     "summary": "Plus, bonds rally and General Mills considers a divestiture"
     },
     {
      "ref": "wsj_markets#22",
-     "title": "The Morning Risk Report: The Little-Known Chinese Bank in the Middle of Iranian and Russian Money Flows",
-     "published": "2026-11-04T12:38:00+00:00",
-     "summary": "Plus: 3M announces $7.4 billion settlement in ‘forever chemicals’ injuries case, and Democrats’ control of the House and Senate set stage for major conflicts."
+     "title": "U.S. Natural Gas Futures Slip as Storage Continues to Build",
+     "published": "2026-11-05T21:13:00+00:00",
+     "summary": "U.S. natural gas futures settled modestly lower after the EIA reported a larger-than-usual 77 Bcf increase in inventories for last week, increasing the storage surplus over the five-year average."
     },
     {
      "ref": "wsj_markets#23",
-     "title": "Index Funds Are Better When They’re Lucky and Smart",
-     "published": "2026-11-04T11:22:00+00:00",
-     "summary": "Plus, markets digest the blue tsunami"
+     "title": "Oil Futures Recover Some Lost Ground",
+     "published": "2026-11-05T20:55:00+00:00",
+     "summary": "Oil futures rebounded from the previous session’s heavy losses while the market maintained hopes for the U.S. and Iran to come to an agreement following the midterm elections."
     },
     {
      "ref": "wsj_markets#24",
-     "title": "How Beer Companies Stole Happy Hour From Liquor Brands",
-     "published": "2026-11-04T10:30:00+00:00",
-     "summary": "Diageo and Pernod Ricard have missed the cocktails-in-a-can craze, and investors are paying the price."
+     "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
+     "published": "2026-11-05T20:46:00+00:00",
+     "summary": "Santiago Peña’s downfall rattled a fast-growing South American economy that has attracted investors and forged close ties with the U.S."
     }
    ]
   }
@@ -530,41 +525,42 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3874.8,
+   "last": 3823.1799,
    "prev_close": 3969.53,
-   "change_pct": -2.39,
+   "change_pct": -3.69,
    "as_of": "2026-11-05"
   },
   "SP500": {
    "symbol": "^GSPC",
-   "last": 7688.6201,
-   "prev_close": 7568.9199,
-   "change_pct": 1.58,
-   "as_of": "2026-11-04"
+   "last": 7353.73,
+   "prev_close": 7688.6201,
+   "change_pct": -4.36,
+   "as_of": "2026-11-05"
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1637,
-   "prev_close": 3.162,
-   "change_pct": 0.05,
-   "as_of": "2026-11-05"
+   "last": 3.2082,
+   "prev_close": 3.1532,
+   "change_pct": 1.74,
+   "as_of": "2026-11-06"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 96.32,
+   "last": 99.58,
    "prev_close": 94.62,
-   "change_pct": 1.8,
+   "change_pct": 5.24,
    "as_of": "2026-11-05"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 80292.0312,
+   "last": 75779.6875,
    "prev_close": 80405.2891,
-   "change_pct": -0.14,
-   "as_of": "2026-11-05"
+   "change_pct": -5.75,
+   "as_of": "2026-11-06"
   }
  },
  "recent_weekly_concepts": [
+  "Network effects: why some products get more valuable as more people use them",
   "Network effects: why some products get better the more people use them",
   "Network effects: why some products get better as more people join",
   "Price elasticity of demand",
@@ -593,8 +589,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   "Network Effects: Why the Biggest Network Wins",
   "Network effects: why platforms get more valuable as they grow",
   "Network Effects: Why Some Products Get More Valuable the More People Use Them",
-  "Network effects",
-  "Network Effects: Why Some Products Get More Valuable the More People Use Them"
+  "Network effects"
  ]
 }
 </input>

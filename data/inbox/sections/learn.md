@@ -24,126 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2013,
-   "text": "The Indian Space Research Organisation launched the Mars Orbiter Mission, India's first interplanetary probe.",
+   "year": 2016,
+   "text": "Syrian civil war: The Syrian Democratic Forces launched a successful military campaign to isolate and eventually capture Raqqa, the Islamic State's capital.",
    "context": [
-    "The Indian Space Research Organisation is the national space agency of India, headquartered in Bengaluru, Karnataka. It serves as the principal research and development arm of the Department of Space (DoS), overseen by the Prime Minister of India, with the Chairman of ISRO also working as the chief executive of the DoS. It is primarily responsible for space-based operations, space exploration, international space cooperation and the development of related technologies. The agency maintains a constellation of imaging, communications and remote sensing satellites. It operates the satellite navigation systems such as GAGAN and NavIC. It has sent three missions to the Moon and one mission to Mars."
+    "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2009,
-   "text": "U.S. Army major Nidal Hasan went on a shooting rampage at Fort Hood, Texas, the worst shooting ever to take place on an American military base, killing 13.",
+   "year": 2012,
+   "text": "Tammy Baldwin became the first openly gay politician to be elected to the United States Senate.",
    "context": [
-    "The United States Army is the land service branch of the United States Armed Forces. It is designated as the army of the United States in the United States Constitution. As a part of the United States Department of War, it is one of the six armed forces of the United States and one of the eight uniformed services of the United States. Founded in 1784, it succeeded the Continental Army, formed in 1775 during the American Revolutionary War."
+    "Tammy Suzanne Green Baldwin is an American politician and lawyer serving since 2013 as the junior United States senator from Wisconsin. A member of the Democratic Party, she has also served as the secretary of the Senate Democratic Caucus since 2017. Baldwin has been the dean of the United States congressional delegation from Wisconsin since 2023, when Representative Ron Kind retired."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2003,
-   "text": "American serial killer Gary Ridgway pleaded guilty to 48 counts of first-degree murder.",
+   "year": 2004,
+   "text": "A man committing suicide parked his car on the railway tracks in Ufton Nervet, Berkshire, England, causing a derailment that also killed six people on the train.",
    "context": [
-    "Gary Leon Ridgway, known as the Green River Killer or the Green River Strangler, is an American serial killer who was convicted of murdering forty-nine women between 1982 and 1998 in the northwestern United States. At the time of his arrest in 2001, he was believed to be the most prolific serial killer in United States history, according to confirmed murders."
+    "Ufton Nervet is a village and civil parish in West Berkshire, England centred 6 miles (10 km) west southwest of the large town of Reading and 7 miles\neast of Thatcham. Ufton Nervet has an elected civil parish council."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1995,
-   "text": "Aline Chrétien (pictured) thwarted André Dallaire's attempt to assassinate her husband, Canadian prime minister Jean Chrétien, by locking the bedroom door in 24 Sussex Drive, their official residence in Ottawa.",
+   "year": 1988,
+   "text": "Two earthquakes occurring 12 minutes apart struck Yunnan near the China–Myanmar border, killing more than 730 people.",
    "context": [
-    "Aline Chrétien was the wife of Canada's 20th prime minister, Jean Chrétien. She previously worked as a secretary, payroll manager, and model. In her later life, she was a trained pianist with The Royal Conservatory of Music."
+    "On 6 November 1988, two earthquakes struck Lancang and Gengma counties, Yunnan, near the China–Myanmar border. The first earthquake measured moment magnitude (Mw) 7.0, occurring at 21:03 CST. Twelve minutes later, a Mw 6.9 earthquake occurred about 60 km (37 mi) to north–northwest. They were caused by movement along the Lancang–Gengma Fault Zone, a 210 km (130 mi) long right-lateral strike-slip fault. Both earthquakes generated oblique-normal surface ruptures with larger displacements reported following the second event."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1990,
-   "text": "Israeli ultra-nationalist rabbi Meir Kahane (pictured) was assassinated in a New York City hotel by an Arab gunman.",
+   "year": 1977,
+   "text": "The Kelly Barnes Dam in Stephens County, Georgia, collapsed; the resulting flood killed 39 people and caused US$2.8 million in damages.",
    "context": [
-    "Ultranationalism, or extreme nationalism, is an extremist form of nationalism in which a country asserts or maintains hegemony, supremacy, or other forms of control over other nations, to pursue its specific interests. Ultranationalist entities have been associated with the engagement of political violence even during peacetime."
+    "Kelly Barnes Dam was an earthen embankment dam on Toccoa Creek in Stephens County, Georgia, United States, just outside the city of Toccoa. Heavy rainfall caused it to collapse on November 6, 1977, and the resulting flood killed 39 people and caused $2.8 million in damage. The dam was never rebuilt."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1952,
-   "text": "An earthquake struck the Kamchatka Peninsula, triggering a major tsunami that affected the Kuril Islands and other parts of the Pacific Ocean.",
+   "year": 1963,
+   "text": "Nguyễn Ngọc Thơ was appointed by the junta of General Dương Văn Minh to head the South Vietnamese government, five days after Minh deposed and assassinated President Ngô Đình Diệm.",
    "context": [
-    "The 1952 Severo-Kurilsk earthquake struck off the coast of the Kamchatka Peninsula. The Mw 8.8–9.0 earthquake occurred on 5 November 1952 at 04:58 local time, triggering a major tsunami that struck the Kuril Islands and the Kamchatka Peninsula within the Russian SFSR in the Soviet Union. This led to the destruction of many settlements in Sakhalin Oblast and Kamchatka Oblast, while the main impact struck the town of Severo-Kurilsk. It remains the most powerful earthquake ever recorded in Russia and the fifth most powerful earthquake ever recorded in the world since modern seismography began in 1900. It was also the deadliest and most damaging tsunami recorded in Russia."
+    "Nguyễn Ngọc Thơ was a South Vietnamese politician who was the first vice president of South Vietnam, serving under President Ngô Đình Diệm from 1956 until Diệm's overthrow and assassination in 1963. He also served as the first prime minister of South Vietnam, serving from November 1963 to late January 1964. Thơ was appointed to head a civilian cabinet by the military junta of General Dương Văn Minh, which came to power after overthrowing and assassinating Diệm, the nation's first president. Thơ's rule was marked by a period of confusion and weak government, as the Military Revolutionary Council (MRC) and the civilian cabinet vied for power. Thơ lost his job and retired from politics when Minh's junta was deposed in a January 1964 coup by General Nguyễn Khánh."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1950,
-   "text": "Korean War: The 27th British Commonwealth Brigade succeeded in preventing a Chinese breakthrough at the Battle of Pakchon.",
+   "year": 1944,
+   "text": "The B Reactor at the Hanford Site in the U.S. state of Washington began producing plutonium, with the facility later going on to create more for nearly the entire American nuclear arsenal.",
    "context": [
-    "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC)."
+    "The B Reactor at the Hanford Site, near Richland, Washington, was the first large-scale nuclear reactor ever built, at 250 MW. It achieved criticality on September 26, 1944. This reactor was of vital importance to the Manhattan Project, the United States nuclear weapons development program during World War II. Its purpose was to convert part of its natural uranium fuel into plutonium-239 by neutron activation, for use in nuclear weapons. Pure plutonium was then chemically separated at the site's T Plant, as an alternative to the Project's uranium enrichment plants in Tennessee. The B reactor was graphite moderated and water-cooled, via a contaminating open cycle with the Columbia River."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1944,
-   "text": "World War II: Allied forces began a military campaign on Japanese-occupied Singapore.",
+   "year": 1939,
+   "text": "As part of their plan to eradicate the Polish intellectual elite, the Gestapo arrested 184 professors, students and employees of the Jagiellonian University (location pictured) in Kraków.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Intelligenzaktion (German pronunciation: [ɪntɛliˈɡɛnt͡s.akˌt͡sjoːn] was a series of mass murders committed against the Polish intelligentsia during the early years of the Second World War by Nazi Germany. The Germans conducted the operations in accordance with their plan to Germanize the western regions of occupied Poland, before their territorial annexation to the German Reich."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1943,
-   "text": "World War II: An unknown aircraft dropped four bombs on Vatican City, which maintained neutrality during the war.",
+   "year": 1924,
+   "text": "The Spanish anarchist group Los Solidarios unsuccessfully attempted to launch an insurrection against the dictatorship of Miguel Primo de Rivera.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides, including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "Los Solidarios was a Spanish anarchist militant group, established in 1922 to combat the rise of pistolerismo and yellow syndicalism, which represented the interests of business owners. At first, the group organised the Catalan anarchist movement, stockpiled weapons and infiltrated the Spanish Armed Forces. Following the assassination of Salvador Seguí, the general secretary of the anarchist trade union centre, the Confederación Nacional del Trabajo (CNT), the group initiated its own campaign of targeted assassinations against officials who they held responsible for state terrorism. In 1923, Los Solidarios assassinated pistolero leader Ramón Laguía, the former governor of Biscay Fernando González Regueral, and the Archbishop of Zaragoza Juan Soldevila. As news began to spread of an impending military coup in the country, Los Solidarios sought to acquire weapons in order to resist the coup. The group robbed a branch of the Bank of Spain in Xixón and used the money to buy rifles, but were ultimately unable to stop the 1923 Spanish coup d'état, which resulted in the establishment of the Dictatorship of Primo de Rivera."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1916,
-   "text": "An armed confrontation in Everett, Washington, between local authorities and members of the Industrial Workers of the World resulted in seven deaths.",
+   "year": 1917,
+   "text": "First World War: Canadian forces captured Passendale, Belgium, after three months of fighting against the Germans at the Battle of Passchendaele.",
    "context": [
-    "The Everett massacre, also known as Bloody Sunday, was an armed confrontation between local authorities and members of the Industrial Workers of the World (IWW) union, commonly called \"Wobblies\", in Everett, Washington, United States on November 5, 1916. The event happened amidst a time of rising tensions in Pacific Northwest labor history."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1854,
-   "text": "Crimean War: Despite being severely outnumbered, and fighting in heavy foggy conditions, the allied armies of the United Kingdom and France defeated the Russians in present-day Inkerman, Ukraine.",
+   "year": 1868,
+   "text": "Sioux Wars: Red Cloud (pictured), a Native American leader of the Oglala Lakota tribe, signed the Treaty of Fort Laramie, ending Red Cloud's War and establishing the Great Sioux Reservation.",
    "context": [
-    "The Crimean War was fought between Russia and an alliance of the Ottoman Empire, France, the United Kingdom, and Sardinia from October 1853 to February 1856. Geopolitical causes of the war included the Eastern question, the expansion of Russia in the preceding Russo-Turkish wars, and the British and French preference to preserve the Ottoman Empire to maintain the balance of power in the Concert of Europe."
+    "The Sioux Wars were a series of conflicts between the United States and various subgroups of the Sioux people which occurred in the later half of the 19th century. The earliest conflict came in 1854 when a fight broke out at Fort Laramie in Wyoming, when Sioux warriors killed 31 American soldiers in the Grattan Massacre, and the final came in 1890 during the Ghost Dance War."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1757,
-   "text": "Seven Years' War: Prussian forces led by Frederick the Great defeated the allied French and Habsburg armies at the Battle of Rossbach.",
+   "year": 1863,
+   "text": "American Civil War: A Union brigade defeated a Confederate force at the Battle of Droop Mountain in Pocahontas County, West Virginia.",
    "context": [
-    "The Seven Years' War, 1756 to 1763, was a global conflict fought by numerous great powers, primarily in Europe, with significant subsidiary campaigns in North America and the Indian subcontinent. The primary warring states were Great Britain and Prussia fighting against France and Austria, with other countries joining these coalitions: Portugal, Spain, Sweden, and Russia, plus Saxony and many other minor states of the Holy Roman Empire. Related conflicts include the Third Silesian War, French and Indian War, Third Carnatic War, Anglo-Spanish War (1762–1763), and Spanish–Portuguese War."
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1605,
-   "text": "The arrest of Guy Fawkes, found during a search of the Palace of Westminster, foiled the Gunpowder Plot, which planned to blow up the House of Lords.",
+   "year": 1856,
+   "text": "The first story from the collection Scenes of Clerical Life by the English author George Eliot was submitted for publication.",
    "context": [
-    "Guy Fawkes, also known as Guido Fawkes while fighting for the Spanish, was a member of a group of provincial English Catholics involved in the failed Gunpowder Plot of 1605. He was born and educated in York; his father died when Fawkes was eight years old, after which his mother married a recusant Catholic."
+    "Scenes of Clerical Life is an 1858 collection of three short stories, published in book form, by George Eliot; it was Eliot's first published work of fiction and the first of her works to be released under her famous pseudonym. The stories were first published in Blackwood's Magazine over the course of the year 1857, initially anonymously, before being released as a two-volume set by Blackwood and Sons in January 1858. The three stories are set during the last twenty years of the eighteenth century and the early nineteenth century over a fifty-year period. The stories take place in and around the fictional town of Milby in the English Midlands. Each of the Scenes concerns a different Anglican clergyman, but is not necessarily centred upon him. Eliot examines, among other things, the effects of religious reform and the tension between the Established and the Dissenting Churches on the clergymen and their congregations, and draws attention to various social issues, such as poverty, alcoholism and domestic violence."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1556,
-   "text": "At the Second Battle of Panipat, forces of the Mughal emperor Akbar captured Hemu, the Hindu emperor of north India.",
+   "year": 1794,
+   "text": "French Revolutionary Wars: Two British ships were intercepted by a French squadron, leading to the French seizure of HMS Alexander.",
    "context": [
-    "The Second Battle of Panipat was fought on 5 November 1556, between the Mughals under Akbar and king Hemu, titularly known as Hemchandra Vikramaditya. Hemchandra had conquered Delhi and Agra a few weeks earlier by defeating Mughal forces under Tardi Beg Khan in the Battle of Delhi. He crowned himself Vikramaditya at Purana Quila in Delhi."
+    "The French Revolutionary Wars were a series of sweeping military conflicts resulting from the French Revolution that lasted from 1792 until 1802. They pitted France against Great Britain, Austria, Prussia, Russia, and several other countries. The wars are divided into two periods: the War of the First Coalition (1792–1797) and the War of the Second Coalition (1798–1802). Initially confined to Europe, the fighting gradually assumed a global dimension. After a decade of constant warfare and aggressive diplomacy, France had conquered territories in the Italian peninsula, the Low Countries, and the Rhineland with its very large and powerful military which had been totally mobilized for war against most of Europe with mass conscription of the vast French population. French success in these conflicts ensured military occupation and the spread of revolutionary principles over much of Europe."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1138,
-   "text": "Lý Anh Tông was enthroned as the emperor of Đại Việt at the age of two, beginning a 37-year reign.",
+   "year": 1217,
+   "text": "King Henry III of England issued the Charter of the Forest, re-establishing the rights of access of free men to royal forests.",
    "context": [
-    "Emperor Lý Anh Tông of Đại Việt was the sixth emperor of the later Lý dynasty in Vietnamese history, from 1138 until his death in 1175. Since Lý Anh Tông, given name Lý Thiên Tộ, was chosen as the successor of his father Lý Thần Tông at the age of only two, the early period of his reign witnessed the dominant position of Đỗ Anh Vũ in the royal court until he died in 1157; afterwards, the Emperor ruled the country with the assistance of a prominent official named Tô Hiến Thành. The reign of Lý Anh Tông was considered the last relatively stable period of the Lý dynasty before the turbulence during the reign of Lý Cao Tông."
+    "Henry III, also known as Henry of Winchester, was King of England, Lord of Ireland and Duke of Aquitaine from 1216 until his death in 1272."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Net interest margin (מרווח ריבית נקי)",
+  "Race to the bottom (מירוץ לתחתית)",
+  "Skin in the game (עור במשחק)",
   "Take rate (שיעור נטילה)",
   "Move fast and break things (לנוע מהר ולשבור דברים)",
   "The tail wagging the dog (הזנב מכשכש בכלב)",
@@ -230,10 +233,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Throw good money after bad (להשקיע כסף טוב על גבי כסף רע)",
   "Vertical integration (אינטגרציה אנכית)",
   "First-mover advantage (יתרון הראשונים)",
-  "Moving the goalposts (להזיז את השער)",
-  "Vesting cliff (תקופת הבשלה מינימלית)",
-  "Top line vs. bottom line (שורת ההכנסות מול שורת הרווח)",
-  "Bet the farm (להמר על הכל)"
+  "Moving the goalposts (להזיז את השער)"
  ]
 }
 </input>
