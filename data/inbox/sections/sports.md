@@ -569,69 +569,69 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Championship preview: Contenders, pretenders and strugglers",
+     "published": "2026-11-06T09:22:00+00:00",
+     "summary": "BBC Sport highlights five things to look out for across Saturday's Championship action."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "Lampard looks for Coventry progress as belief grows",
      "published": "2026-11-06T08:11:03+00:00",
      "summary": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview",
      "published": "2026-11-06T08:00:00+00:00",
      "summary": "Can Celtic build on their European comeback as another huge Premiership weekend looms?"
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "How much prize money can teams win in FA Cup?",
      "published": "2026-11-06T07:50:11+00:00",
      "summary": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "How to follow the FA Cup on the BBC this weekend",
      "published": "2026-11-06T07:47:46+00:00",
      "summary": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Goodwin keen but realistic over Cameron move - gossip",
      "published": "2026-11-06T07:27:05+00:00",
      "summary": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
      "published": "2026-11-06T06:53:56+00:00",
      "summary": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "From playing against Messi & Ronaldo to non-league",
      "published": "2026-11-06T06:42:07+00:00",
      "summary": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
      "published": "2026-11-06T06:22:00+00:00",
      "summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
      "published": "2026-11-06T06:17:13+00:00",
      "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-06T06:13:26+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
-    },
-    {
-     "ref": "bbc_football#10",
-     "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
-     "published": "2026-11-06T00:10:28+00:00",
-     "summary": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle."
     },
     {
      "ref": "bbc_football#11",
@@ -641,81 +641,81 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#12",
+     "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+     "published": "2026-11-06T00:10:28+00:00",
+     "summary": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle."
+    },
+    {
+     "ref": "bbc_football#13",
      "title": "Deschamps not interested in Man Utd job - Friday's gossip",
      "published": "2026-11-05T22:49:23+00:00",
      "summary": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Forest need balance between Woodstock and military - Glasner",
      "published": "2026-11-05T22:30:07+00:00",
      "summary": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
      "published": "2026-11-05T22:26:23+00:00",
      "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "What legacy does Ronaldo leave on international stage?",
      "published": "2026-11-05T22:18:00+00:00",
      "summary": "Reaction to Cristiano Ronaldo’s retirement from Portugal."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "England check on Palmer - what are Tuchel's other big choices?",
      "published": "2026-11-05T19:00:04+00:00",
      "summary": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "'Clock is ticking' - Gateshead fans fear for future",
      "published": "2026-11-05T18:33:33+00:00",
      "summary": "Bottom of the National League and with a prospective takeover at the point of collapse, there are fears for the very future of Gateshead."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Sutton's predictions v Football Manager, the game",
      "published": "2026-11-05T18:02:15+00:00",
      "summary": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "Good to feel club are committed to me - Jaissle",
      "published": "2026-11-05T17:25:41+00:00",
      "summary": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "Football Daily",
      "published": "2026-11-05T16:31:00+00:00",
      "summary": "Charlie Adam & Nedum Onuoha join Rick to discuss Ronaldo’s international retirement."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
      "published": "2026-11-05T16:12:37+00:00",
      "summary": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Scotland's Welsh avoids serious knee injury",
      "published": "2026-11-05T16:00:44+00:00",
      "summary": "Swansea City receive major fitness boost as influential centre-back Stephen Welsh is cleared of serious injury."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Emery close to agreeing new Aston Villa contract",
      "published": "2026-11-05T15:45:22+00:00",
      "summary": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Everton's Grealish unavailable again after 'breach of discipline'",
-     "published": "2026-11-05T15:28:37+00:00",
-     "summary": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms."
     }
    ]
   },
@@ -815,63 +815,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#15",
-     "title": "Inter Miami CF vs. Orlando City SC - Game Highlights - ESPN",
-     "published": "2026-11-05T14:24:31+00:00",
-     "summary": "Inter Miami CF vs. Orlando City SC - Game Highlights ESPN"
-    },
-    {
-     "ref": "gnews_inter_miami#16",
      "title": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums - RealGM",
      "published": "2026-11-05T14:14:28+00:00",
      "summary": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums RealGM"
     },
     {
-     "ref": "gnews_inter_miami#17",
-     "title": "Inter Miami's MLS Cup rivals beware - Lionel Messi is entering 'scary hours' in what could be his last dance with Luis Suarez - Goal.com",
+     "ref": "gnews_inter_miami#16",
+     "title": "Inter Miami's MLS Cup rivals beware - Lionel Messi is entering 'scary hours' in what could be his last dance with Luis Suarez - Yahoo Sports",
      "published": "2026-11-05T14:10:52+00:00",
-     "summary": "Inter Miami's MLS Cup rivals beware - Lionel Messi is entering 'scary hours' in what could be his last dance with Luis Suarez Goal.com"
+     "summary": "Inter Miami's MLS Cup rivals beware - Lionel Messi is entering 'scary hours' in what could be his last dance with Luis Suarez Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Tadeo Allende gets on the scoresheet for Inter Miami CF - ESPN",
      "published": "2026-11-05T13:55:51+00:00",
      "summary": "Tadeo Allende gets on the scoresheet for Inter Miami CF ESPN"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Lil Durk Accused Of Hiding Apple Watch In His \"Body Cavity\" - HotNewHipHop",
      "published": "2026-11-05T13:35:03+00:00",
      "summary": "Lil Durk Accused Of Hiding Apple Watch In His \"Body Cavity\" HotNewHipHop"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "MLS Decision Day Odds, Nov. 7: Nashville, LA Galaxy And Best Bets - RG.org",
      "published": "2026-11-05T13:34:03+00:00",
      "summary": "MLS Decision Day Odds, Nov. 7: Nashville, LA Galaxy And Best Bets RG.org"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Son Heung-min trails only Messi in 2026 MLS jersey sales - Korea JoongAng Daily",
      "published": "2026-11-05T08:24:01+00:00",
      "summary": "Son Heung-min trails only Messi in 2026 MLS jersey sales Korea JoongAng Daily"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Son Heung-min ranks second behind Messi in MLS jersey sales for second straight year - The Korea Herald",
      "published": "2026-11-05T05:42:33+00:00",
      "summary": "Son Heung-min ranks second behind Messi in MLS jersey sales for second straight year The Korea Herald"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Messi and Inter Miami's opponent in the MLS Cup playoffs has been revealed. - Vietnam.vn",
      "published": "2026-11-05T04:59:08+00:00",
      "summary": "Messi and Inter Miami's opponent in the MLS Cup playoffs has been revealed. Vietnam.vn"
     },
     {
+     "ref": "gnews_inter_miami#23",
+     "title": "Lionel Messi has goal, assist to rally Inter Miami to 2-1 victory over Revolution - ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-05T02:12:29+00:00",
+     "summary": "Lionel Messi has goal, assist to rally Inter Miami to 2-1 victory over Revolution ABC News - Breaking News, Latest News and Videos"
+    },
+    {
      "ref": "gnews_inter_miami#24",
-     "title": "Incredibly popular: Thomas Müller outshines several world stars – and pips Robert Lewandowski - LiveScore",
-     "published": "2026-11-05T03:40:48+00:00",
-     "summary": "Incredibly popular: Thomas Müller outshines several world stars – and pips Robert Lewandowski LiveScore"
+     "title": "International Duty Roundup: Inter Miami CF Academy Players Represent National Teams in October - Inter Miami CF",
+     "published": "2026-11-04T20:41:43+00:00",
+     "summary": "International Duty Roundup: Inter Miami CF Academy Players Represent National Teams in October Inter Miami CF"
     }
    ]
   },
