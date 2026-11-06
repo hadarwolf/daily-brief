@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-06",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-06T03:43:57+00:00",
+  "stories": [
+    {
+      "id": "word-circuit-breaker",
+      "kind": "word",
+      "en": {
+        "headline": "Circuit breaker (מנתק מעגל)",
+        "scroll": "A circuit breaker is an automatic trading halt triggered when a market index falls (or rises) by a set percentage in one session.",
+        "coffee": "Exchanges built circuit breakers after the 1987 crash to stop panic selling from feeding on itself: when prices move far enough, fast enough, trading pauses for a few minutes so traders can digest the news instead of just reacting to the falling tape. Most major exchanges, including the NYSE and the Tel Aviv Stock Exchange, use tiered breakers — a small drop triggers a short pause, a bigger one a longer pause, and an extreme move can halt trading for the rest of the day.\n\nExample: \"When the index dropped 7% before lunch, the circuit breaker kicked in and halted trading for fifteen minutes.\"",
+        "deep": "Use it for an exchange-wide pause, not a single stock's halt — that's usually called a \"trading halt,\" or, when it's about pending news, a \"volatility interruption.\" It's also distinct from \"limit up / limit down\" in futures markets, where price simply can't move past a band rather than trading stopping outright.\n\nA common confusion: a circuit breaker doesn't prevent losses. It only slows the pace of a selloff by forcing a pause for information to catch up with price.\n\nMore examples:\n- \"Asian markets tripped their circuit breakers for the second day running after the central bank's surprise move.\"\n- \"Regulators are reviewing whether the circuit breaker thresholds are too wide for a market this volatile.\"\n\nHebrew: מנתק מעגל (circuit breaker)."
+      },
+      "he": {
+        "headline": "מנתק מעגל (Circuit breaker)",
+        "scroll": "מנתק מעגל הוא עצירת מסחר אוטומטית שמופעלת כשמדד נופל (או עולה) באחוז מסוים במהלך יום מסחר אחד.",
+        "coffee": "בורסות הקימו מנתקי מעגל בעקבות הקריסה של 1987, כדי למנוע ממכירות בפאניקה להאכיל את עצמן: כשהמחיר זז מהר ומספיק, המסחר נעצר לכמה דקות כדי לתת לסוחרים לעכל את החדשות במקום להגיב לטיקר הנופל. ברוב הבורסות הגדולות, כולל ה-NYSE והבורסה לניירות ערך בתל אביב, יש מנתקים מדורגים — ירידה קטנה מפעילה הפסקה קצרה, ירידה גדולה יותר הפסקה ארוכה יותר, וירידה קיצונית יכולה לעצור את המסחר עד סוף היום.\n\nלדוגמה: \"When the index dropped 7% before lunch, the circuit breaker kicked in and halted trading for fifteen minutes.\"",
+        "deep": "כדאי להשתמש במונח לתיאור הפסקה שחלה על הבורסה כולה, לא על מניה בודדת (לזה קוראים \"trading halt\", ואם מדובר בהמתנה לחדשות - \"volatility interruption\"). המונח שונה גם מ-\"limit up / limit down\" בשוקי החוזים העתידיים, שבהם המחיר פשוט לא יכול לחצות רצועה מסוימת, בלי שהמסחר נעצר לגמרי.\n\nבלבול נפוץ: מנתק מעגל לא מונע הפסדים, הוא רק מאט את קצב הנפילה כדי לתת למידע להשיג את המחיר.\n\nעוד דוגמאות:\n- \"Asian markets tripped their circuit breakers for the second day running after the central bank's surprise move.\"\n- \"Regulators are reviewing whether the circuit breaker thresholds are too wide for a market this volatile.\"\n\nבעברית: מנתק מעגל (circuit breaker)."
+      },
+      "tags": [
+        "markets",
+        "trading",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-risk-off",
+      "kind": "word",
+      "en": {
+        "headline": "Risk-off (מצב הימנעות מסיכון)",
+        "scroll": "\"Risk-off\" describes a shift in investor behavior toward safer assets and away from anything volatile.",
+        "coffee": "When markets turn \"risk-off,\" investors sell stocks, crypto and other volatile assets and move into cash, government bonds or gold, because appetite for uncertainty has dropped — often after bad economic data, a shock, or rising rates. The opposite mood, buying into risk because confidence is high, is called \"risk-on.\"\n\nExample: \"Traders went risk-off after the inflation print, dumping tech stocks and piling into Treasuries.\"",
+        "deep": "\"Risk-off\" is a mood descriptor, not a prediction — people use it to describe what the market is doing right now, not necessarily what it will do next. It's easy to confuse with \"bearish,\" which is a specific view that prices will fall; you can be risk-off (holding cash) without having any strong view on direction at all, simply waiting out the uncertainty.\n\nMore examples:\n- \"It was a classic risk-off day: the dollar and gold rallied while small-cap stocks and bitcoin both fell hard.\"\n- \"Risk-off sentiment spread from Asia to Europe overnight as investors rotated into safe havens.\"\n\nHebrew: מצב הימנעות מסיכון (risk-off)."
+      },
+      "he": {
+        "headline": "מצב הימנעות מסיכון (Risk-off)",
+        "scroll": "\"Risk-off\" מתאר מעבר של משקיעים לנכסים בטוחים יותר, והימנעות מכל דבר תנודתי.",
+        "coffee": "כשהשוק נכנס למצב \"risk-off\", משקיעים מוכרים מניות, קריפטו ונכסים תנודתיים אחרים ועוברים למזומן, אג\"ח ממשלתיות או זהב, כי התיאבון לקחת סיכון יורד — בדרך כלל בעקבות נתון כלכלי גרוע, זעזוע, או עליית ריבית. מצב הרוח ההפוך, קנייה של סיכון כשהביטחון גבוה, נקרא \"risk-on\".\n\nלדוגמה: \"Traders went risk-off after the inflation print, dumping tech stocks and piling into Treasuries.\"",
+        "deep": "\"Risk-off\" הוא תיאור של מצב רוח, לא תחזית — אנשים משתמשים בו לתאר מה השוק עושה כרגע, לא בהכרח מה יקרה בהמשך. קל להתבלבל בינו לבין \"bearish\" (דעה פסימית), שהיא עמדה ספציפית שהמחירים ירדו; אפשר להיות ב-risk-off (להחזיק מזומן) בלי שום דעה חזקה על הכיוון, פשוט להמתין שהאי-ודאות תעבור.\n\nעוד דוגמאות:\n- \"It was a classic risk-off day: the dollar and gold rallied while small-cap stocks and bitcoin both fell hard.\"\n- \"Risk-off sentiment spread from Asia to Europe overnight as investors rotated into safe havens.\"\n\nבעברית: מצב הימנעות מסיכון (risk-off)."
+      },
+      "tags": [
+        "markets",
+        "sentiment",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-baby-with-the-bathwater",
+      "kind": "word",
+      "en": {
+        "headline": "Throwing the baby out with the bathwater (לשפוך את התינוק עם המים)",
+        "scroll": "To overreact to a problem by discarding something valuable along with what's actually wrong.",
+        "coffee": "In investing, this idiom describes indiscriminate selling during a panic — dumping good, healthy assets simply because they sit in the same portfolio or sector as the thing that actually went wrong. It's a warning against overcorrecting.\n\nExample: \"Investors sold every chipmaker on the news, even the profitable ones — classic throwing the baby out with the bathwater.\"",
+        "deep": "Use it when a reaction is too broad relative to the actual problem — not every selloff qualifies; it has to involve clearly good assets being punished alongside bad ones. People sometimes confuse it with simple caution, but caution is proportionate, while this idiom implies an overreaction that a cooler look would correct.\n\nMore examples:\n- \"The fund manager argued the market was throwing the baby out with the bathwater by punishing the whole sector for one company's fraud.\"\n- \"Don't throw the baby out with the bathwater — the new policy has real flaws, but scrapping it entirely would lose its genuine benefits too.\"\n\nHebrew: לשפוך את התינוק עם המים (throwing the baby out with the bathwater)."
+      },
+      "he": {
+        "headline": "לשפוך את התינוק עם המים (Throwing the baby out with the bathwater)",
+        "scroll": "להגיב בצורה מוגזמת לבעיה על ידי זניחת משהו בעל ערך יחד עם מה שבאמת השתבש.",
+        "coffee": "בהשקעות, הניב הזה מתאר מכירה גורפת וחסרת הבחנה בזמן פאניקה — זניחת נכסים טובים ובריאים רק בגלל שהם נמצאים באותו תיק השקעות או סקטור כמו הדבר שבאמת השתבש. זו אזהרה מפני תיקון-יתר.\n\nלדוגמה: \"Investors sold every chipmaker on the news, even the profitable ones — classic throwing the baby out with the bathwater.\"",
+        "deep": "משתמשים בניב הזה כשתגובה רחבה מדי יחסית לבעיה בפועל — לא כל מכירה גורפת מתאימה; צריך שנכסים טובים באופן ברור יינזקו יחד עם הרעים. לעיתים מתבלבלים בינו לבין זהירות פשוטה, אבל זהירות היא פרופורציונלית, ואילו הניב הזה מרמז על תגובת יתר שמבט קר יותר היה מתקן.\n\nעוד דוגמאות:\n- \"The fund manager argued the market was throwing the baby out with the bathwater by punishing the whole sector for one company's fraud.\"\n- \"Don't throw the baby out with the bathwater — the new policy has real flaws, but scrapping it entirely would lose its genuine benefits too.\"\n\nבעברית: לשפוך את התינוק עם המים (throwing the baby out with the bathwater)."
+      },
+      "tags": [
+        "markets",
+        "idiom",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-financial-contagion",
+      "kind": "concept",
+      "en": {
+        "headline": "Financial contagion",
+        "scroll": "Financial contagion is how a shock in one market or asset spreads to others that aren't directly connected, through shared investors, leverage and fear.",
+        "coffee": "Markets that have nothing fundamentally to do with each other often move together during a crisis, and contagion is the mechanism. The main channel is leveraged, cross-asset investors: a fund that holds both stocks and crypto, say, gets a margin call when equities fall, and to raise cash fast it sells whatever is liquid — including assets that had nothing wrong with them. That forced selling pushes prices down elsewhere, which triggers more margin calls, and the loop feeds itself.\n\nA second channel is pure psychology: a sharp move in one market makes investors re-price risk everywhere, pulling money out of anything that feels similarly exposed, even without any real financial link.\n\nContagion is why a single bad data point can turn into a broad, multi-asset selloff within hours.",
+        "deep": "## Why unrelated markets fall together\n\nFinancial contagion describes how stress in one market transmits to others that have no obvious fundamental connection to it. It's one of the main reasons crises escalate faster than the underlying news seems to justify.\n\n## The leverage channel\n\nThe clearest mechanism runs through leveraged investors who hold multiple asset classes at once. Imagine a hedge fund that owns both a basket of tech stocks and a position in bitcoin, financed partly with borrowed money. A disappointing earnings report knocks 5% off the tech stocks in a single session. Because the fund is leveraged, its broker issues a margin call, demanding more cash or collateral to cover the now-larger risk on the position.\n\nThe fund doesn't have spare cash sitting around, so it raises it by selling whatever it can sell fastest — often its most liquid holding, which might be the bitcoin position rather than the stocks that actually dropped. Bitcoin falls, which triggers margin calls at other leveraged funds holding bitcoin, who in turn sell other things to cover their own calls. None of this has anything to do with bitcoin's own fundamentals; it's a byproduct of forced deleveraging spreading through shared balance sheets.\n\n## The psychological channel\n\nA second, softer channel runs through risk perception rather than balance sheets. When one market moves sharply, investors update their general sense of how risky \"risk assets\" are right now, and pull back from anything that feels similarly exposed — emerging-market currencies, high-yield bonds, growth stocks — even where there's no direct financial link to the original shock. This is sometimes called a flight to quality: money moves toward whatever feels safest (cash, government bonds, gold), regardless of fundamentals.\n\n## Why it matters\n\nContagion explains why diversification can fail exactly when it's needed most: assets that are uncorrelated in calm markets can become highly correlated during a panic, because the same forced sellers and the same fear are acting on all of them at once. It's also why central banks and regulators watch leverage in the financial system closely — not because leverage causes the initial shock, but because it determines how far and how fast that shock will travel once it starts."
+      },
+      "he": {
+        "headline": "הדבקה פיננסית (Financial contagion)",
+        "scroll": "הדבקה פיננסית היא האופן שבו זעזוע בשוק או בנכס אחד מתפשט לשווקים אחרים שאינם מחוברים אליו במישרין, באמצעות משקיעים משותפים, מנוף ופחד.",
+        "coffee": "שווקים שאין להם קשר יסודי אחד לשני נוטים לזוז יחד בזמן משבר, וההדבקה היא המנגנון שמאחורי זה. התעלה המרכזית היא משקיעים ממונפים שמחזיקים כמה סוגי נכסים בבת אחת: קרן שמחזיקה גם מניות וגם קריפטו, למשל, מקבלת דרישת בטחונות (margin call) כשהמניות נופלות, ולגיוס מזומן מהיר היא מוכרת כל מה שסחיר — כולל נכסים שלא היה בהם שום דבר רע. המכירה הכפויה הזו מורידה מחירים במקומות אחרים, מה שמפעיל עוד דרישות בטחונות, והמעגל מאכיל את עצמו.\n\nתעלה שנייה היא פסיכולוגית בלבד: תנועה חדה בשוק אחד גורמת למשקיעים לתמחר מחדש סיכון בכל מקום, ולמשוך כסף מכל דבר שמרגיש חשוף באופן דומה, גם בלי קשר פיננסי ממשי.\n\nההדבקה היא הסיבה שנתון רע אחד יכול להפוך לגל מכירות רחב על פני כמה סוגי נכסים בתוך שעות.",
+        "deep": "## למה שווקים לא קשורים נופלים יחד\n\nהדבקה פיננסית מתארת איך לחץ בשוק אחד עובר לשווקים אחרים שאין להם קשר יסודי ברור אליו. זו אחת הסיבות המרכזיות למשברים שמחריפים מהר יותר ממה שהחדשות הבסיסיות מצדיקות.\n\n## תעלת המנוף (leverage)\n\nהמנגנון הברור ביותר עובר דרך משקיעים ממונפים שמחזיקים כמה סוגי נכסים בבת אחת. נניח קרן גידור שמחזיקה גם סל מניות טכנולוגיה וגם פוזיציה בביטקוין, ממונפת בחלקה בכסף מושאל. דוח רבעוני מאכזב מוריד 5% מהמניות בתוך יום מסחר אחד. מכיוון שהקרן ממונפת, הברוקר שלה מוציא דרישת בטחונות (margin call), ודורש עוד מזומן או בטחונות לכיסוי הסיכון שגדל בפוזיציה.\n\nלקרן אין מזומן פנוי מוכן, אז היא מגייסת אותו במכירת כל מה שאפשר למכור הכי מהר — לרוב ההחזקה הסחירה ביותר שלה, שיכולה להיות פוזיציית הביטקוין ולא המניות שבאמת נפלו. הביטקוין נופל, מה שמפעיל דרישות בטחונות בקרנות ממונפות אחרות שמחזיקות ביטקוין, שבתורן מוכרות דברים אחרים לכיסוי הדרישות שלהן. לשום דבר מזה אין קשר לפונדמנטלס של הביטקוין עצמו; זה תוצר לוואי של דה-לוורג' כפוי שמתפשט בין מאזנים משותפים.\n\n## התעלה הפסיכולוגית\n\nתעלה שנייה, רכה יותר, עוברת דרך תפיסת הסיכון ולא דרך מאזנים. כששוק אחד זז בחדות, משקיעים מעדכנים את התחושה הכללית שלהם לגבי כמה מסוכנים \"נכסי סיכון\" כרגע, ונסוגים מכל דבר שמרגיש חשוף באופן דומה — מטבעות שווקים מתעוררים, אג\"ח בתשואה גבוהה, מניות צמיחה — גם כשאין קשר פיננסי ישיר לזעזוע המקורי. לפעמים קוראים לזה \"מעבר לנכסים בטוחים\" (flight to quality): הכסף זורם למה שמרגיש הכי בטוח (מזומן, אג\"ח ממשלתיות, זהב), בלי קשר לפונדמנטלס.\n\n## למה זה חשוב\n\nהדבקה מסבירה למה פיזור השקעות (diversification) יכול להיכשל בדיוק כשהוא הכי נדרש: נכסים שאינם מתואמים בשווקים רגועים יכולים להפוך למתואמים מאוד בזמן פאניקה, כי אותם מוכרים כפויים ואותו פחד פועלים על כולם בבת אחת. זו גם הסיבה שבנקים מרכזיים ורגולטורים עוקבים מקרוב אחרי מנוף במערכת הפיננסית — לא כי מנוף גורם לזעזוע הראשוני, אלא כי הוא קובע כמה רחוק וכמה מהר הזעזוע הזה יטייל ברגע שהתחיל."
+      },
+      "tags": [
+        "economics",
+        "markets",
+        "risk"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-hanford-b-reactor",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1944: The Hanford B Reactor starts making plutonium for the Manhattan Project",
+        "scroll": "On this day in 1944, the world's first large-scale nuclear reactor began converting uranium into plutonium for the US atomic bomb program.",
+        "coffee": "The B Reactor at the Hanford Site in Washington State was the first large-scale nuclear reactor ever built, and on November 6, 1944, it began producing plutonium-239 for the Manhattan Project — the United States' wartime effort to build an atomic bomb. The reactor worked by bombarding natural uranium fuel with neutrons, converting part of it into plutonium, which was then chemically separated at a dedicated facility on site.\n\nIt mattered because plutonium offered an alternative route to a bomb that didn't require the slow, resource-intensive process of enriching uranium. Hanford's plutonium went on to fuel the Trinity test and the bomb dropped on Nagasaki, and the site continued producing plutonium for most of the US nuclear arsenal for decades after the war.",
+        "deep": "## A reactor built to make bomb fuel\n\nThe B Reactor at the Hanford Site, near Richland in Washington State, holds a specific distinction: it was the first large-scale nuclear reactor ever built. On November 6, 1944, it began producing plutonium — not for energy, but as fuel for the atomic bomb the United States was racing to build during World War II.\n\n## How it worked\n\nThe reactor used natural uranium as fuel, moderated by graphite and cooled by a continuous flow of water drawn from the nearby Columbia River. Inside the reactor, neutrons bombarded the uranium fuel, and some of it transmuted into plutonium-239 through neutron capture. The irradiated fuel was then transported to Hanford's T Plant, where the plutonium was chemically separated out from the remaining uranium and fission byproducts.\n\n## Why plutonium, and why it mattered\n\nThe Manhattan Project pursued two parallel paths to a bomb: enriching uranium-235, a slow and resource-intensive process, and breeding plutonium-239 in reactors, which could be done faster at scale once a working reactor design existed. Hanford's plutonium production let the US pursue the plutonium path in parallel with uranium enrichment happening at Oak Ridge, Tennessee, hedging against either approach failing.\n\nThe plutonium produced at Hanford fueled the Trinity test, the first-ever detonation of a nuclear weapon in July 1945, and the bomb dropped on Nagasaki weeks later.\n\n## The long aftermath\n\nB Reactor didn't shut down once the war ended. Hanford's reactors — B Reactor and others built later at the same site — went on to produce the overwhelming majority of plutonium for the US nuclear arsenal throughout the Cold War, running for decades. The site is now one of the largest and most expensive nuclear cleanup projects in the world, a legacy of the environmental cost of the production that happened there. B Reactor itself is preserved today as a National Historic Landmark, open to public tours — a rare case of a weapons-production facility turned into a museum of its own history."
+      },
+      "he": {
+        "headline": "1944: הכור B בהנפורד מתחיל לייצר פלוטוניום לפרויקט מנהטן",
+        "scroll": "ביום הזה ב-1944, הכור הגדול-בקנה-מידה הראשון בעולם התחיל להמיר אורניום לפלוטוניום לתוכנית הנשק הגרעיני האמריקאית.",
+        "coffee": "הכור B באתר הנפורד שבמדינת וושינגטון היה הכור הגרעיני הגדול-בקנה-מידה הראשון שנבנה אי פעם, וב-6 בנובמבר 1944 הוא התחיל לייצר פלוטוניום-239 לפרויקט מנהטן — המאמץ האמריקאי בזמן המלחמה לבנות פצצת אטום. הכור עבד על ידי הפגזת דלק אורניום טבעי בנייטרונים, שהמירה חלק ממנו לפלוטוניום, שהופרד לאחר מכן כימית במתקן מיועד באתר.\n\nזה היה חשוב כי פלוטוניום הציע מסלול חלופי לפצצה שלא דרש את התהליך האיטי וכבד-המשאבים של העשרת אורניום. הפלוטוניום מהנפורד שימש בהמשך לניסוי טריניטי ולפצצה שהוטלה על נגסאקי, והאתר המשיך לייצר פלוטוניום לרוב הארסנל הגרעיני האמריקאי במשך עשרות שנים אחרי המלחמה.",
+        "deep": "## כור שנבנה כדי לייצר דלק לפצצה\n\nהכור B באתר הנפורד, קרוב לריצ'לנד שבמדינת וושינגטון, מחזיק ביחוד מסוים: הוא היה הכור הגרעיני הגדול-בקנה-מידה הראשון שנבנה אי פעם. ב-6 בנובמבר 1944 הוא התחיל לייצר פלוטוניום — לא לאנרגיה, אלא כדלק לפצצת האטום שארצות הברית מיהרה לבנות במהלך מלחמת העולם השנייה.\n\n## איך הוא עבד\n\nהכור השתמש באורניום טבעי כדלק, הואט בגרפיט והתקרר בזרימה רצופה של מים שנשאבו מנהר קולומביה הקרוב. בתוך הכור, נייטרונים הפגיזו את דלק האורניום, וחלק ממנו הפך לפלוטוניום-239 בתהליך של קליטת נייטרונים. הדלק המוקרן הועבר אז למתקן T Plant בהנפורד, שם הפלוטוניום הופרד כימית משאריות האורניום ומתוצרי הביקוע.\n\n## למה פלוטוניום, ולמה זה היה חשוב\n\nפרויקט מנהטן רדף אחרי שני מסלולים מקבילים לפצצה: העשרת אורניום-235, תהליך איטי וכבד-משאבים, וגידול פלוטוניום-239 בכורים, שיכול היה להתבצע מהר יותר בקנה מידה גדול ברגע שהיה עיצוב כור עובד. ייצור הפלוטוניום בהנפורד אפשר לארצות הברית לרדוף במקביל אחרי מסלול הפלוטוניום בזמן שהעשרת האורניום התבצעה באוק רידג', טנסי, כגידור מפני כישלון של אחת הגישות.\n\nהפלוטוניום שיוצר בהנפורד שימש לניסוי טריניטי, הפיצוץ הראשון אי פעם של נשק גרעיני ביולי 1945, ולפצצה שהוטלה על נגסאקי שבועות לאחר מכן.\n\n## ההשלכות ארוכות הטווח\n\nהכור B לא נסגר כשהמלחמה הסתיימה. הכורים בהנפורד — הכור B ואחרים שנבנו מאוחר יותר באותו אתר — המשיכו לייצר את רוב הפלוטוניום לארסנל הגרעיני האמריקאי במהלך המלחמה הקרה, ופעלו במשך עשרות שנים. האתר הוא כיום אחד מפרויקטי ניקוי הגרעין הגדולים והיקרים בעולם, מורשת של העלות הסביבתית של הייצור שהתקיים בו. הכור B עצמו משומר כיום כאתר מורשת לאומי, פתוח לסיורי ציבור — מקרה נדיר שבו מתקן ייצור נשק הופך למוזיאון של ההיסטוריה שלו."
+      },
+      "tags": [
+        "history",
+        "nuclear",
+        "science"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1944: The B Reactor at the Hanford Site in the U.S. state of Washington began producing plutonium, with the facility later going on to create more for nearly the entire American nuclear arsenal.",
+          "url": "https://en.wikipedia.org/wiki/B_Reactor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "section": "business",
+  "date": "2026-11-06",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-06T03:43:57+00:00",
+  "stories": [
+    {
+      "id": "ai-selloff-midterms",
+      "kind": "analysis",
+      "en": {
+        "headline": "How a US Election Wiped Out the AI Trade",
+        "scroll": "A Democratic sweep of the US midterms, fearing curbs on AI data-center spending, triggered Wall Street's worst rout since 2020 and dragged Asian and European tech stocks down with it.",
+        "coffee": "The Nasdaq 100 tumbled 6.4% on Wednesday, its worst day since April's tariff turmoil, closing in correction territory as the Nasdaq Composite suffered its sharpest drop since March 2020. The trigger wasn't mainly earnings but politics: a decisive Democratic sweep of Tuesday's midterms puts Elizabeth Warren in line to chair the Senate Banking Committee and brings in a wave of newly elected officials who campaigned on curbing the data-center buildout that has powered the AI boom.\n\nThe selloff didn't stay in the US. Japan's Nikkei slid toward a bear market and briefly dipped below 60,000 for the first time since May; South Korea's Kospi tested the 5,000 level as the chipmakers that supply Nvidia and its rivals cratered; the Taiwan dollar weakened past 33 per US dollar. Hedge funds that had crowded into the same AI trade unwound positions at the fastest pace in over a decade, while money flowed instead into gold and government bonds.\n\nMarkets will now test whether this is a healthy repricing of political risk or the start of something deeper: investors are already skeptical that AI darling Anthropic can justify a $1.5 trillion IPO valuation, and a major lender has just put $500 million of data-center loans up for sale.",
+        "deep": "## Background: The AI Trade Everyone Crowded Into\n\nOver the past two years, a handful of US tech companies — the ones building AI chips, cloud infrastructure and the data centers that run large language models — came to account for an outsized share of US stock market gains. Trillions of dollars in planned data-center construction became the market's biggest growth story, and also its biggest point of political vulnerability: if the spending slows, every company that depends on it (chipmakers, cloud providers, construction and power suppliers) feels it at once. The risk was less about whether AI itself works, and more about positioning: so much capital had leaned the same way that a single catalyst could unwind a lot of gains fast.\n\nThat catalyst arrived this week.\n\n## The Rout\n\nOn Wednesday, the Nasdaq 100 tumbled 6.4% and the broader Nasdaq Composite suffered its steepest one-day drop since March 2020, closing in what traders call \"correction\" territory — commonly understood as a decline of roughly 10% or more from a recent peak (a \"bear market\" is the next threshold down, around 20%). Wall Street had spent weeks betting the rally would resume once the US midterm elections were behind it. Instead, Tuesday's results delivered a decisive Democratic sweep, and newly elected officials immediately signaled they would move to curb data-center construction. Two of the industry's major chip designers also disappointed with their earnings the same week, giving investors a second reason to sell.\n\nThe reaction in Washington compounded the market shock: Senator Elizabeth Warren is positioned to chair the Senate Banking Committee, handing a long-time critic of Wall Street and Big Tech expansive oversight of the financial industry just as it absorbs the AI unwind. Wall Street's own mega-donors felt the sting too — top hedge fund and private equity figures had spent more than $300 million backing Republican campaigns, to little effect.\n\n## Second-Order Effects\n\nThe selloff didn't stop at the US border, because the AI trade was never a purely American one. Japan's Nikkei 225 slid toward a technical bear market, falling below the 60,000 level for the first time since May as investors unwound AI-linked positions. South Korea's Kospi — a market dominated by memory-chip exporters Samsung and SK Hynix — briefly dropped below the symbolically important 5,000 mark in what Bloomberg estimated as a $1.7 trillion rout, enough to become a political headache for a government that had championed the market's earlier rise. Taiwan's dollar weakened past 33 per US dollar for the first time since April 2025, alongside a retreat in its chip-heavy stock market.\n\nHedge funds that had piled into the same handful of AI winners rushed for the exits together, producing the highest rate of position-unwinding among stock-picking funds in more than a decade. One high-profile fund, Samlyn Capital, dumped its holdings in every sector except financials and cut staff. As money left risk assets, it went somewhere else: gold is on pace for its best week since August, Japanese and US government bonds rallied on haven demand, and China's benchmark 10-year bond yield hit a record intraday low.\n\nThe stress is starting to show up in credit markets too. Dutch lender ING put roughly $500 million of data-center loans — the kind of debt backing giant projects like Stargate and CyrusOne — up for sale just days after the election, a sign that financiers are repricing the risk attached to the AI buildout itself, not just its publicly traded cheerleaders.\n\n## What to Watch Next\n\nTwo tests will show whether this settles into a correction or turns into something worse. The first is the fate of Anthropic's expected IPO: major investors are already voicing skepticism that the AI company can justify a reported $1.5 trillion valuation, and a weak debut would confirm that public markets, not just politicians, are losing patience with AI's pricing. The second is Washington itself — whether the new Congress follows through on campaign rhetoric with actual legislation curbing data-center permits and subsidies, or whether, as with past tech panics, the policy threat turns out louder than the eventual policy.\n\nFor a market that spent two years treating AI capital spending as a one-way bet, the past week was a reminder that a trade this concentrated can unwind as fast as it built."
+      },
+      "he": {
+        "headline": "איך בחירות באמריקה חיסלו את עסקת ה-AI",
+        "scroll": "ניצחון דמוקרטי מכריע בבחירות אמצע הקדנציה בארה\"ב, מתוך חשש מהגבלות על ההשקעה במרכזי נתונים של AI, הצית את המפולת החדה ביותר בוול סטריט מאז 2020, וסחף איתה את מניות הטכנולוגיה באסיה ובאירופה.",
+        "coffee": "מדד הנאסד\"ק 100 צנח ב-6.4% ביום רביעי, היום הגרוע ביותר שלו מאז סוחות המכסים של אפריל, ונסגר בתחום ה\"תיקון\" (correction) - ירידה של כ-10% ומעלה משיא קודם - בעוד שמדד הנאסד\"ק המורכב הרחב רשם את נפילתו החדה ביותר מאז מרץ 2020. הטריגר לא היה בעיקר דוחות כספיים אלא פוליטיקה: ניצחון דמוקרטי מכריע בבחירות אמצע הקדנציה של יום שלישי מציב את הסנטורית אליזבת וורן בעמדה הראשונה לעמוד בראש ועדת הבנקאות בסנאט, ומביא איתו גל של נבחרים חדשים שהתחייבו בקמפיין שלהם לרסן את גל הקמת מרכזי הנתונים שהניע את שגשוג ה-AI.\n\nהמפולת לא נשארה בארה\"ב. מדד הניקיי היפני נגרר לכיוון שוק דובי (bear market) וירד לרגע מתחת לרמת 60,000 נקודות לראשונה מאז מאי; מדד הקוספי הדרום-קוריאני בדק את רמת ה-5,000, כשיצרניות השבבים שמזינות את אנבידיה ומתחרותיה צנחו; הדולר הטייוואני נחלש לראשונה מאז אפריל 2025. קרנות גידור, שרבות מהן התגודדו לתוך אותה \"עסקת AI\", פרקו פוזיציות בקצב המהיר ביותר ביותר מעשור, בעוד שהכסף זרם במקום זאת לזהב ולאיגרות חוב ממשלתיות.\n\nהשווקים יבחנו כעת אם זהו תמחור מחדש בריא של סיכון פוליטי, או תחילתו של משהו עמוק יותר: משקיעים כבר מביעים ספקנות שחברת ה-AI אנתרופיק יכולה להצדיק הערכת שווי של 1.5 טריליון דולר בהנפקה (IPO) המתוכננת שלה, ובנק מרכזי כבר הציע למכירה הלוואות של 500 מיליון דולר שמימנו מרכזי נתונים.",
+        "deep": "## רקע: עסקת ה-AI שכולם נדחקו אליה\n\nבשנתיים האחרונות הפכה קבוצה קטנה של חברות טכנולוגיה אמריקאיות - אלה שבונות שבבי AI, תשתיות עננים (cloud infrastructure) ומרכזי הנתונים (data centers) שמריצים את מודלי השפה הגדולים - לנתח חורג מהעלייה הכוללת של וול סטריט. טריליוני דולרים של בנייה מתוכננת של מרכזי נתונים הפכו לסיפור הצמיחה הגדול ביותר של השוק - וגם לנקודת התורפה הפוליטית הגדולה ביותר שלו: אם ההשקעה מתמתנת, כל החברות שתלויות בה (יצרניות שבבים, ספקיות עננים, קבלני בנייה וחברות אנרגיה) סופגות את זה בבת אחת. הסיכון לא נגע כל כך בשאלה אם ה-AI עובד, אלא במיצוב (positioning): כל כך הרבה הון נשען לכיוון אחד, שטריגר בודד יכול למחוק חלק גדול מהרווחים במהירות.\n\nהטריגר הזה הגיע השבוע.\n\n## המפולת\n\nביום רביעי צנח הנאסד\"ק 100 ב-6.4%, ומדד הנאסד\"ק המורכב הרחב רשם את נפילתו החדה ביותר ביום בודד מאז מרץ 2020, ונסגר באזור שסוחרים מכנים \"תיקון\" (correction) - ירידה של כ-10% ומעלה משיא אחרון (\"שוק דובי\", bear market, הוא הסף הבא, סביב 20%). וול סטריט הימרה שבועות ארוכים שהראלי יתחדש אחרי שבחירות אמצע הקדנציה בארה\"ב יסתיימו. במקום זאת, תוצאות יום שלישי הביאו ניצחון דמוקרטי מכריע, ונבחרים חדשים אותתו באופן מיידי שיפעלו לרסן את בנייתם של מרכזי הנתונים. שתיים מיצרניות השבבים המרכזיות בתעשייה גם הן אכזבו באותו השבוע עם דוחותיהן הכספיים, מה שנתן למשקיעים סיבה נוספת למכור.\n\nהתגובה בוושינגטון החריפה את הזעזוע בשוק: הסנטורית אליזבת וורן ממוקמת לעמוד בראש ועדת הבנקאות בסנאט, ומעניקה למבקרת ותיקה של וול סטריט וחברות הטכנולוגיה הגדולות סמכות פיקוח רחבה על התעשייה הפיננסית, בדיוק כשזו קולטת את התפרקות עסקת ה-AI. גם התורמים הגדולים של וול סטריט ספגו את המכה - בכירי קרנות גידור ופרייבט אקוויטי (private equity) תרמו יותר מ-300 מיליון דולר לקמפיינים רפובליקנים, וכמעט בלי תוצאה.\n\n## אפקטים מסדר שני\n\nהמפולת לא נעצרה בגבול ארה\"ב, כי עסקת ה-AI מעולם לא הייתה אמריקאית בלבד. מדד הניקיי 225 היפני נגרר לעבר שוק דובי טכני, ונפל מתחת לרמת 60,000 נקודות לראשונה מאז מאי, כשמשקיעים פרקו פוזיציות הקשורות ל-AI. מדד הקוספי הדרום-קוריאני - שוק שנשלט על ידי יצואניות שבבי הזיכרון סמסונג ו-SK Hynix - ירד לרגע מתחת לרמה הסמלית של 5,000 נקודות, במה שבלומברג העריכה כמפולת של 1.7 טריליון דולר, די בשביל להפוך לכאב ראש פוליטי לממשלה שחגגה בעבר את עליית השוק. הדולר הטייוואני נחלש מעבר ל-33 ליחידת דולר אמריקאי לראשונה מאז אפריל 2025, במקביל לנסיגה בשוק המניות שלו, העמוס בחברות שבבים.\n\nקרנות גידור (hedge funds) שנדחקו לאותו מספר מצומצם של \"מנצחות AI\" מיהרו לצאת יחד, מה שהוביל לקצב הגבוה ביותר של פריקת פוזיציות בין קרנות סטוק-פיקינג (stock-picking) ביותר מעשור. קרן בולטת אחת, סמלין קפיטל, מכרה את כל אחזקותיה בכל הסקטורים מלבד פיננסים, ופיטרה עובדים. הכסף שעזב נכסי סיכון זרם למקום אחר: הזהב בדרך לשבועו הטוב ביותר מאז אוגוסט, איגרות חוב ממשלתיות יפניות ואמריקאיות עלו בעקבות ביקוש למקלט בטוח (haven demand), ותשואת אגרות החוב הממשלתיות הסיניות ל-10 שנים נגעה בשפל תוך-יומי שיא.\n\nהלחץ מתחיל להיראות גם בשוקי האשראי. הבנק ההולנדי ING הציע למכירה כ-500 מיליון דולר של הלוואות שמימנו מרכזי נתונים - מהסוג שמימן פרויקטים עצומים כמו Stargate ו-CyrusOne - רק ימים ספורים אחרי הבחירות, סימן לכך שגורמי מימון מתמחרים מחדש את הסיכון הצמוד לבנייה עצמה של תשתיות ה-AI, לא רק למניות הציבוריות שמריעות לה.\n\n## מה לצפות בהמשך\n\nשני מבחנים יראו אם זה מתבסס כתיקון או מתדרדר למשהו גרוע יותר. הראשון הוא גורלה של ההנפקה (IPO) המתוכננת של אנתרופיק: משקיעים גדולים כבר מביעים ספקנות שחברת ה-AI יכולה להצדיק הערכת שווי מדווחת של 1.5 טריליון דולר, וחניכה חלשה תאשר שהשווקים הציבוריים, לא רק הפוליטיקאים, מאבדים סבלנות לתמחור ה-AI. המבחן השני הוא וושינגטון עצמה - האם הקונגרס החדש יתרגם את רטוריקת הקמפיין לחקיקה בפועל שמגבילה היתרים וסובסידיות למרכזי נתונים, או שכמו בפאניקות טכנולוגיה קודמות, האיום הרגולטורי יתגלה כרועש יותר מהמדיניות שתיושם בסוף.\n\nלשוק שבמשך שנתיים התייחס להשקעת ההון ב-AI כהימור חד-כיווני, השבוע האחרון היה תזכורת לכך שעסקה מרוכזת כזו יכולה להתפרק באותה המהירות שבה היא נבנתה."
+      },
+      "tags": [
+        "ai",
+        "stock-market",
+        "midterm-elections",
+        "regulation"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
+          "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
+          "url": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Slide as AI Rally Hits a Wall",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-rally-hits-a-wall-ec689f1e?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Will Democrats stall the AI boom?",
+          "url": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Elizabeth Warren’s Power in New Senate Is a Wall Street Nightmare",
+          "url": "https://www.wsj.com/politics/policy/elizabeth-warrens-power-in-new-senate-is-a-wall-street-nightmare-dff8fb6e?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Wall Street mega-donors clobbered by Democratic sweep",
+          "url": "https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Japan’s Nikkei Poised to Enter Bear Market as AI Selloff Deepens",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Asian tech stocks sink",
+          "url": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Korea’s $1.7 Trillion Rout Burns Day Traders, Challenges Lee",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/korea-s-1-7-trillion-rout-burns-day-traders-challenges-lee"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Korean Stocks Tumble, Testing 5,000 Milestone as Panic Spreads",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Hedge Fund Samlyn Dumps All Stocks But Financials, Cuts Staff",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-fund-samlyn-dumps-all-stocks-but-financials-cuts-staff"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Hedge Funds Dump Positions and Cut Staff as Selloff Deepens",
+          "url": "https://www.wsj.com/finance/investing/hedge-funds-dump-positions-and-cut-staff-as-selloff-deepens-7eb14493?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/japan-bonds-rally-as-global-risk-off-move-boosts-haven-demand"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "China’s 10-Year Yield Hits Record Intraday Low on Haven Demand",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-10-year-yield-hits-record-intraday-low-on-ample-cash"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Mystery Seller Puts Up $500 Million Data Center Loans Backing Stargate, CyrusOne",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/mystery-seller-puts-up-500-million-data-center-loans-backing-stargate-cyrusone"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+          "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3823.1799,
+      "prev_close": 3969.53,
+      "change_pct": -3.69,
+      "as_of": "2026-11-05"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7353.73,
+      "prev_close": 7688.6201,
+      "change_pct": -4.36,
+      "as_of": "2026-11-05"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2082,
+      "prev_close": 3.1532,
+      "change_pct": 1.74,
+      "as_of": "2026-11-06"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 99.58,
+      "prev_close": 94.62,
+      "change_pct": 5.24,
+      "as_of": "2026-11-05"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 75779.6875,
+      "prev_close": 80405.2891,
+      "change_pct": -5.75,
+      "as_of": "2026-11-06"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-06",
+  "questions": [
+    {
+      "id": "quiz-geo-ukraine",
+      "section": "geopolitics",
+      "story_id": "trump-ukraine-peace-push",
+      "answer_index": 2,
+      "en": {
+        "question": "What raised questions about which side Washington is leaning toward in the Ukraine peace push?",
+        "options": [
+          "The US ended all arms shipments to Ukraine.",
+          "Melania Trump called for Ukraine to accept Russia's annexation of Crimea.",
+          "Trump met with Putin's envoy at the White House but did not meet Ukrainian officials who were also in Washington that day.",
+          "Zelensky announced he would no longer seek a ceasefire with Russia."
+        ],
+        "explanation": "Trump met Putin's envoy Dmitriev at the White House while skipping a meeting with Ukrainian officials who were in Washington that same day."
+      },
+      "he": {
+        "question": "מה עורר שאלות לגבי הצד שאליו נוטה וושינגטון במאמץ להשגת הסכם שלום באוקראינה?",
+        "options": [
+          "ארה\"ב הפסיקה לחלוטין את משלוחי הנשק לאוקראינה.",
+          "מלניה טראמפ קראה לאוקראינה להכיר בסיפוח קרים בידי רוסיה.",
+          "טראמפ נפגש עם שליחו של פוטין בבית הלבן, אך לא נפגש עם הפקידים האוקראינים ששהו גם הם בוושינגטון באותו יום.",
+          "זלנסקי הודיע שהוא לא ימשיך לשאוף להפסקת אש עם רוסיה."
+        ],
+        "explanation": "טראמפ נפגש עם השליח הרוסי דמיטרייב בבית הלבן, אך לא נפגש עם הפקידים האוקראינים ששהו בוושינגטון באותו יום."
+      }
+    },
+    {
+      "id": "quiz-il-knesset-speaker",
+      "section": "israeli_politics",
+      "story_id": "knesset-speaker-legal-overhaul-repeal",
+      "answer_index": 0,
+      "en": {
+        "question": "What was the incoming Knesset's 'change bloc' reported to do first, before moving to repeal judicial-overhaul legislation?",
+        "options": [
+          "Demand an immediate vote to replace sitting Speaker Amir Ohana.",
+          "Dissolve the Knesset's judicial committee entirely.",
+          "Form a unity government with Netanyahu's bloc.",
+          "Call for new general elections."
+        ],
+        "explanation": "The bloc's opening move was to demand a vote on replacing Speaker Amir Ohana, before turning to repealing laws from the judicial overhaul."
+      },
+      "he": {
+        "question": "מה היה הצעד הראשון שגוש השינוי בכנסת הנכנסת דיווח כי הוא מתכוון לבצע, לפני המעבר לביטול חוקי המהפכה המשפטית?",
+        "options": [
+          "דרישה להצבעה מיידית על החלפת יושב ראש הכנסת המכהן, אמיר אוחנה.",
+          "פירוק ועדת החוקה של הכנסת כליל.",
+          "הקמת ממשלת אחדות עם גוש נתניהו.",
+          "קריאה לבחירות כלליות חדשות."
+        ],
+        "explanation": "הצעד הפותח של הגוש היה דרישה להצבעה על החלפת יושב הראש אמיר אוחנה, לפני המעבר לביטול חוקי המהפכה המשפטית."
+      }
+    },
+    {
+      "id": "quiz-biz-ai-selloff",
+      "section": "business",
+      "story_id": "ai-selloff-midterms",
+      "answer_index": 2,
+      "en": {
+        "question": "What triggered the sharp Nasdaq selloff that spread to markets in Japan, South Korea and Taiwan?",
+        "options": [
+          "A surprise interest-rate hike by the Federal Reserve.",
+          "Anthropic abandoning its IPO plans.",
+          "A decisive Democratic sweep in the US midterms raised the prospect of new restrictions on the AI data-center boom.",
+          "A major earnings miss by Nvidia."
+        ],
+        "explanation": "A decisive Democratic midterm sweep raised prospects of tighter scrutiny of the AI data-center buildout, triggering a selloff in the AI trade that spread to markets in Japan, South Korea and Taiwan."
+      },
+      "he": {
+        "question": "מה הצית את מכירת החיסול החדה בנאסד\"ק שהתפשטה לשווקים ביפן, בדרום קוריאה ובטייוואן?",
+        "options": [
+          "העלאת ריבית מפתיעה מצד הבנק המרכזי האמריקאי.",
+          "נטישת אנתרופיק את תוכניות ההנפקה שלה.",
+          "ניצחון דמוקרטי מכריע בבחירות אמצע הקדנציה בארה\"ב, שהעלה את הסיכוי להטלת מגבלות חדשות על גל הקמת מרכזי הנתונים של ה-AI.",
+          "דוחות כספיים גרועים מהצפוי של אנבידיה."
+        ],
+        "explanation": "ניצחון דמוקרטי מכריע בבחירות אמצע הקדנציה הגביר את הציפיות לפיקוח מחמיר יותר על גל הקמת מרכזי הנתונים של ה-AI, מה שהצית מכירת חיסול ב'עסקת ה-AI' שהתפשטה לשווקים ביפן, בדרום קוריאה ובטייוואן."
+      }
+    }
+  ]
+}
