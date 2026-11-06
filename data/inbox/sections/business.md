@@ -18,39 +18,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Herzog to Choose Between Eisenkot, Netanyahu on Sunday",
+     "published": "2026-11-06T09:20:22+00:00",
+     "summary": "Israel’s President Isaac Herzog says he will decide Sunday whether Benjamin Netanyahu or election challenger Gadi Eisenkot will get the first chance to form a governing coalition. Eisenkot has secured recommendations from 67 members of the 120-seat Knesset, compared with 46 for Netanyahu. Bloomberg’s Jerusalem reporter Dan Williams reports. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "What Does a Democratic Congress Mean for Markets?",
      "published": "2026-11-06T09:00:33+00:00",
      "summary": "Skanda Amarnath on the market after midterms."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "Odd Lots: The Macro Implications of the Blue Tsunami (Podcast)",
      "published": "2026-11-06T09:00:00+00:00",
      "summary": "We don’t need to tell you that the midterm elections were historic: The Democrats won bigger than even they imagined. But as the dust settles, an open question we are puzzling over is the market’s ongoing reaction to this massive political sea change. Democratic control of Congress — and control over a number of formerly red statehouses, like Texas and Iowa — will influence everything from the com"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "US Treasury Traders Make Bullish Bets Ahead of Jobs Report",
      "published": "2026-11-06T08:43:24+00:00",
      "summary": "Bond traders are positioned for further gains for the Treasury market ahead of Friday’s October employment report as expectations for additional Federal Reserve interest-rate hikes continue to fade."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Oil Declines on Signs of Moves Toward Gulf War De-Escalation",
      "published": "2026-11-06T08:38:49+00:00",
      "summary": "Oil erased an earlier advance as traders weighed reports of US engagement in efforts to step up negotiations in the Middle East."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Asia Reels From the Global AI Selloff",
      "published": "2026-11-06T08:37:50+00:00",
      "summary": "The global AI trade went into reverse, wiping $2.3 trillion from the Nasdaq 100 and triggering a brutal selloff across Asia. Why did the rout turn so violent, and why is India emerging as a rare bright spot? (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#5",
-     "title": "Angola’s Central Bank Expects Single-Digit Inflation to Last",
-     "published": "2026-11-06T08:36:24+00:00",
-     "summary": "Angola’s central bank expects to keep inflation under control after bringing it down to single digits, avoiding a repeat of previous episodes when prices surged again."
     },
     {
      "ref": "bloomberg_markets#6",
@@ -167,7 +167,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#4",
-     "title": "‘Blue wave’ hopes for US economic change are likely to be disappointed",
+     "title": "Don’t bet on a ‘blue wave’ changing the economy",
      "published": "2026-11-06T05:00:14+00:00",
      "summary": "A shift in the composition of Congress will have little impact on policymaking in the remainder of Trump’s term"
     },
@@ -227,13 +227,13 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#1",
-     "title": "מנכ\"ל ישראייר: \"ימים מתוחים מאוד ביטחונית\", שיחררנו מטוסים חכורים כדי להקטין את הסיכון",
+     "title": "מנכ\"ל ישראייר לעובדים: \"מיזוג עם ארקיע ישנה את מפת התעופה\"",
      "published": "2026-11-06T06:58:41+00:00",
-     "summary": "במכתב לעובדים התייחס אורי סירקיס גם להצעת הרכישה של החברה בידי ארקיע, וגם למתיחות הביטחונית באזור ■ לופטהנזה נערכת לעצירות ביניים בחלק מטיסותיה בנתב\"ג לצורך החלפת צוותים"
+     "summary": "במכתב לעובדים התייחס אורי סירקיס מנכ\"ל ישראייר למתיחות הביטחונית באזור: \"שיחררנו מטוסים חכורים כדי להקטין את הסיכון\" ■ לופטהנזה נערכת לעצירות ביניים בחלק מטיסותיה בנתב\"ג לצורך החלפת צוותים"
     },
     {
      "ref": "themarker#2",
-     "title": "מתגברות העליות בבורסה: ת\"א 125 מטפס ב-2%, מדד הבנקים מוסיף 2.5%",
+     "title": "מתגברות העליות בבורסה: ת\"א 125 מטפס ב-2%, הדולר יורד ל-3.19",
      "published": "2026-11-06T06:09:53+00:00"
     },
     {
@@ -376,33 +376,33 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Dollar Could Strengthen If Upcoming U.S. Jobs Data Are Solid",
+     "published": "2026-11-06T09:08:00+00:00",
+     "summary": "The DXY dollar index rose and ING said it was likely to firm if to firm if upcoming U.S. nonfarm payrolls data was strong."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Oil Set for Sharp Weekly Fall After U.S. Midterms",
      "published": "2026-11-06T08:58:00+00:00",
      "summary": "Oil prices fell below $100 a barrel, with investors focused on Washington’s next move on Iran after the U.S. midterm elections."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Asian Equities Tumble as AI Selloff Deepens",
      "published": "2026-11-06T08:51:00+00:00",
      "summary": "Asian equities slumped Friday as the rout in stocks tied to the artificial-intelligence boom continued, sending tech-heavy indexes hurtling toward bear-market territory."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "Gold Falls But Remains on Track for Weekly Gains Ahead of Payrolls Data",
      "published": "2026-11-06T08:51:00+00:00",
      "summary": "Gold prices edged lower in early trading but remained on course for a weekly gain of more than 4%, as investors turned their attention to U.S. payrolls data due later on Friday."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "European Indexes All Lower as Equity Selloff Intensifies",
      "published": "2026-11-06T08:38:00+00:00",
      "summary": "European stock indexes fell sharply at the open after a market selloff in the U.S. session Thursday accelerated in Asia overnight."
-    },
-    {
-     "ref": "wsj_markets#4",
-     "title": "Swiss Franc Strengthens to 5-Month High Vs Euro After Tech Selloff",
-     "published": "2026-11-06T08:17:00+00:00",
-     "summary": "The Swiss franc strengthened to a five-month high against the euro as a selloff in tech stocks encouraged investors to seek safety."
     },
     {
      "ref": "wsj_markets#5",
@@ -414,7 +414,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "wsj_markets#6",
      "title": "Stock Market Today: Global Stocks Swoon as Selloff Spreads",
      "published": "2026-11-06T07:48:13+00:00",
-     "summary": "Nasdaq futures calm while Dow is poised for another bruising day"
+     "summary": "Nasdaq futures rebound while Dow is poised for another bruising day"
     },
     {
      "ref": "wsj_markets#7",
@@ -530,9 +530,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3898.47,
+   "last": 3898.8799,
    "prev_close": 3823.1799,
-   "change_pct": 1.97,
+   "change_pct": 1.98,
    "as_of": "2026-11-06"
   },
   "SP500": {
@@ -544,23 +544,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1971,
+   "last": 3.1913,
    "prev_close": 3.1532,
-   "change_pct": 1.39,
+   "change_pct": 1.21,
    "as_of": "2026-11-06"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 97.83,
+   "last": 97.5,
    "prev_close": 98.29,
-   "change_pct": -0.47,
+   "change_pct": -0.8,
    "as_of": "2026-11-06"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 75726.4375,
+   "last": 76111.4688,
    "prev_close": 75942.125,
-   "change_pct": -0.28,
+   "change_pct": 0.22,
    "as_of": "2026-11-06"
   }
  },

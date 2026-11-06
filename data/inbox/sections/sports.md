@@ -101,18 +101,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-06T20:00:00Z",
-     "home": "Derby County",
-     "away": "Bolton",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-06T20:00:00Z",
      "home": "Sevilla FC",
      "away": "Alavés",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-06T20:00:00Z",
+     "home": "Derby County",
+     "away": "Bolton",
      "status": "TIMED",
      "score": null
     },
