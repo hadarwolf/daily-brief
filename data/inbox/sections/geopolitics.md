@@ -102,69 +102,69 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#14",
+     "title": "Inflation - AP News",
+     "published": "2026-11-07T03:03:17+00:00",
+     "summary": "Inflation AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery - AP News",
      "published": "2026-11-07T02:53:00+00:00",
      "summary": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#16",
      "title": "Trump discusses Middle East de-escalation with Qatar’s emir, and other Mideast news - AP News",
      "published": "2026-11-07T02:47:00+00:00",
      "summary": "Trump discusses Middle East de-escalation with Qatar’s emir, and other Mideast news AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#17",
      "title": "Obituaries: Notable people who died - AP News",
      "published": "2026-11-07T02:43:15+00:00",
      "summary": "Obituaries: Notable people who died AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
      "title": "Warriors center Kristaps Porzingis steps away from the NBA to focus on undisclosed health issue - AP News",
      "published": "2026-11-07T02:38:21+00:00",
      "summary": "Warriors center Kristaps Porzingis steps away from the NBA to focus on undisclosed health issue AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "Diwali celebrations coincide with worsening air. Here’s how to stay safer - AP News",
      "published": "2026-11-07T02:27:00+00:00",
      "summary": "Diwali celebrations coincide with worsening air. Here’s how to stay safer AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "Tariffs and global trade - AP News",
      "published": "2026-11-07T01:43:18+00:00",
      "summary": "Tariffs and global trade AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat - AP News",
      "published": "2026-11-07T01:37:00+00:00",
      "summary": "Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Former pro-democracy lawmaker sentenced to 12½ years in Macao’s first national security case - AP News",
      "published": "2026-11-07T01:36:00+00:00",
      "summary": "Former pro-democracy lawmaker sentenced to 12½ years in Macao’s first national security case AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "World Wide Technology Championship Par Scores - AP News",
      "published": "2026-11-07T01:21:00+00:00",
      "summary": "World Wide Technology Championship Par Scores AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "NFL tells Brandon Aiyuk he owes the 49ers about $13 million, AP source says - AP News",
      "published": "2026-11-07T00:51:00+00:00",
      "summary": "NFL tells Brandon Aiyuk he owes the 49ers about $13 million, AP source says AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Ben James produces another low round and takes the 36-hole lead in Mexico - AP News",
-     "published": "2026-11-07T00:30:00+00:00",
-     "summary": "Ben James produces another low round and takes the 36-hole lead in Mexico AP News"
     }
    ]
   },

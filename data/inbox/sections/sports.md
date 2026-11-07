@@ -72,6 +72,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-1"
     },
     {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-06T19:45:00Z",
+     "home": "Venezia FC",
+     "away": "Udinese",
+     "status": "FINISHED",
+     "score": "2-1"
+    },
+    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-06T19:45:00Z",
      "home": "Toulouse",
@@ -80,12 +88,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-1"
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-06T19:45:00Z",
-     "home": "Venezia FC",
-     "away": "Udinese",
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-06T20:00:00Z",
+     "home": "Everton",
+     "away": "Coventry City",
      "status": "FINISHED",
-     "score": "2-1"
+     "score": "3-1"
     },
     {
      "competition": "Primera Division",
@@ -100,14 +108,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-06T20:00:00Z",
      "home": "Derby County",
      "away": "Bolton",
-     "status": "FINISHED",
-     "score": "3-1"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-06T20:00:00Z",
-     "home": "Everton",
-     "away": "Coventry City",
      "status": "FINISHED",
      "score": "3-1"
     },
@@ -128,14 +128,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Fluminense",
      "status": "FINISHED",
      "score": "0-3"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T12:30:00Z",
-     "home": "Portsmouth",
-     "away": "Stoke",
-     "status": "SCHEDULED",
-     "score": null
     },
     {
      "competition": "Premier League",
@@ -162,18 +154,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T12:30:00Z",
+     "home": "Portsmouth",
+     "away": "Stoke",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-07T13:00:00Z",
      "home": "Málaga",
      "away": "Santander",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-07T14:00:00Z",
-     "home": "Torino",
-     "away": "Lecce",
      "status": "TIMED",
      "score": null
     },
@@ -186,18 +178,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-07T14:30:00Z",
-     "home": "Mainz",
-     "away": "Bayern",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-07T14:30:00Z",
-     "home": "SC Paderborn",
-     "away": "Frankfurt",
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-07T14:00:00Z",
+     "home": "Torino",
+     "away": "Lecce",
      "status": "TIMED",
      "score": null
     },
@@ -218,27 +202,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Cardiff",
-     "away": "Burnley",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Birmingham",
-     "away": "Swansea",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Arsenal",
-     "away": "Hull City",
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-07T14:30:00Z",
+     "home": "SC Paderborn",
+     "away": "Frankfurt",
      "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-07T14:30:00Z",
+     "home": "Mainz",
+     "away": "Bayern",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Preston NE",
+     "away": "Southampton",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "QPR",
+     "away": "Lincoln City",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Blackburn",
+     "away": "West Ham",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Charlton",
+     "away": "Sheffield Utd",
+     "status": "SCHEDULED",
      "score": null
     },
     {
@@ -268,33 +276,25 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Blackburn",
-     "away": "West Ham",
+     "home": "Cardiff",
+     "away": "Burnley",
      "status": "SCHEDULED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Charlton",
-     "away": "Sheffield Utd",
+     "home": "Birmingham",
+     "away": "Swansea",
      "status": "SCHEDULED",
      "score": null
     },
     {
-     "competition": "Championship",
+     "competition": "Premier League",
      "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Preston NE",
-     "away": "Southampton",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "QPR",
-     "away": "Lincoln City",
-     "status": "SCHEDULED",
+     "home": "Arsenal",
+     "away": "Hull City",
+     "status": "TIMED",
      "score": null
     },
     {
@@ -302,14 +302,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-07T15:15:00Z",
      "home": "Espanyol",
      "away": "Deportivo",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-07T15:30:00Z",
-     "home": "Sittard",
-     "away": "Telstar",
      "status": "TIMED",
      "score": null
     },
@@ -322,6 +314,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-07T15:30:00Z",
+     "home": "Sittard",
+     "away": "Telstar",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-07T17:00:00Z",
      "home": "Parma",
@@ -330,10 +330,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Bundesliga",
+     "competition": "Premier League",
      "kickoff_utc": "2026-11-07T17:30:00Z",
-     "home": "Stuttgart",
-     "away": "Bremen",
+     "home": "Nottingham",
+     "away": "Man City",
      "status": "TIMED",
      "score": null
     },
@@ -346,10 +346,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
+     "competition": "Bundesliga",
      "kickoff_utc": "2026-11-07T17:30:00Z",
-     "home": "Nottingham",
-     "away": "Man City",
+     "home": "Stuttgart",
+     "away": "Bremen",
      "status": "TIMED",
      "score": null
     },
@@ -386,18 +386,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-07T20:00:00Z",
-     "home": "Excelsior",
-     "away": "Go Ahead",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-07T20:00:00Z",
      "home": "Valencia",
      "away": "Real Madrid",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-07T20:00:00Z",
+     "home": "Excelsior",
+     "away": "Go Ahead",
      "status": "TIMED",
      "score": null
     },
@@ -1047,39 +1047,39 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Inter Miami CF vs. Charlotte FC - Live Score - November 07, 2026 - FOX Sports",
+     "published": "2026-11-07T08:13:18+00:00",
+     "summary": "Inter Miami CF vs. Charlotte FC - Live Score - November 07, 2026 FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Union’s Bruno Damiani gets Uruguay call; Malik Jakupovic to U17 World Cup - Scranton Times-Tribune",
      "published": "2026-11-07T08:01:48+00:00",
      "summary": "Union’s Bruno Damiani gets Uruguay call; Malik Jakupovic to U17 World Cup Scranton Times-Tribune"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "A trendsetter? Messi shows off a personalized bag PSG fans won't appreciate! - Dailysports",
      "published": "2026-11-07T07:18:32+00:00",
      "summary": "A trendsetter? Messi shows off a personalized bag PSG fans won't appreciate! Dailysports"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Messi humiliates PSG?! One detail sparks controversy among football fans - Dailysports",
      "published": "2026-11-07T07:05:16+00:00",
      "summary": "Messi humiliates PSG?! One detail sparks controversy among football fans Dailysports"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Lionel Messi is close to setting another MLS record on Decision Day - Diario AS",
      "published": "2026-11-07T07:05:06+00:00",
      "summary": "Lionel Messi is close to setting another MLS record on Decision Day Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Watch Inter Miami CF vs. Charlotte FC live today: Who is broadcasting the match on TV and via live stream? - Goal.com",
      "published": "2026-11-07T06:25:15+00:00",
      "summary": "Watch Inter Miami CF vs. Charlotte FC live today: Who is broadcasting the match on TV and via live stream? Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
-     "title": "Inter Miami CF vs. Charlotte FC - Live Score - November 07, 2026 - FOX Sports",
-     "published": "2026-11-07T05:13:16+00:00",
-     "summary": "Inter Miami CF vs. Charlotte FC - Live Score - November 07, 2026 FOX Sports"
     },
     {
      "ref": "gnews_inter_miami#6",
@@ -1311,30 +1311,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#18",
-     "title": "Deni Avdija with the and-1 bucket - ESPN",
-     "published": "2026-11-05T03:57:29+00:00",
-     "summary": "Deni Avdija with the and-1 bucket ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija Admits He Had Concerns When Trail Blazers Traded For Ja Morant - Fadeaway World",
      "published": "2026-11-04T18:23:06+00:00",
      "summary": "Deni Avdija Admits He Had Concerns When Trail Blazers Traded For Ja Morant Fadeaway World"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#19",
      "title": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions - roundtable.io",
      "published": "2026-11-04T13:00:11+00:00",
      "summary": "Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#20",
      "title": "Video - Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions - roundtable.io",
      "published": "2026-11-04T13:00:11+00:00",
      "summary": "Video - Micah Nori Had A Message For Deni Avdija Amid Trail Blazers' Star Additions roundtable.io"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#21",
      "title": "Blazers storm back to beat Nuggets, remain perfect on the road - Field Level Media",
      "published": "2026-11-04T08:53:14+00:00",
      "summary": "Blazers storm back to beat Nuggets, remain perfect on the road Field Level Media"
