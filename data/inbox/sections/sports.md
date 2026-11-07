@@ -130,6 +130,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-3"
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-07T12:30:00Z",
+     "home": "Leeds United",
+     "away": "Tottenham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Championship",
      "kickoff_utc": "2026-11-07T12:30:00Z",
      "home": "Wrexham",
@@ -143,14 +151,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "home": "Bristol City",
      "away": "Norwich",
      "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-07T12:30:00Z",
-     "home": "Leeds United",
-     "away": "Tottenham",
-     "status": "TIMED",
      "score": null
     },
     {
@@ -188,14 +188,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-07T14:30:00Z",
-     "home": "Dortmund",
-     "away": "Elversberg",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-07T14:30:00Z",
      "home": "RB Leipzig",
      "away": "Augsburg",
      "status": "TIMED",
@@ -204,8 +196,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-07T14:30:00Z",
-     "home": "Mainz",
-     "away": "Bayern",
+     "home": "Dortmund",
+     "away": "Elversberg",
      "status": "TIMED",
      "score": null
     },
@@ -218,11 +210,11 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "QPR",
-     "away": "Lincoln City",
-     "status": "SCHEDULED",
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-07T14:30:00Z",
+     "home": "Mainz",
+     "away": "Bayern",
+     "status": "TIMED",
      "score": null
     },
     {
@@ -250,18 +242,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Fulham",
-     "away": "Newcastle",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Championship",
      "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Watford",
-     "away": "Middlesbrough",
+     "home": "QPR",
+     "away": "Lincoln City",
      "status": "SCHEDULED",
      "score": null
     },
@@ -298,6 +282,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Fulham",
+     "away": "Newcastle",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Watford",
+     "away": "Middlesbrough",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-07T15:15:00Z",
      "home": "Espanyol",
@@ -306,18 +306,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-07T15:30:00Z",
-     "home": "CD Nacional",
-     "away": "Acad. Viseu",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-11-07T15:30:00Z",
      "home": "Sittard",
      "away": "Telstar",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-07T15:30:00Z",
+     "home": "CD Nacional",
+     "away": "Acad. Viseu",
      "status": "TIMED",
      "score": null
     },
@@ -893,7 +893,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "ref": "bbc_football#0",
      "title": "Vega plea for Scottish FA backing against Infantino - gossip",
      "published": "2026-11-07T09:11:29+00:00",
-     "summary": "Former Celtic Ramon Vega urges the Scottish FA to support his bid to oust Fifa president Gianni Infantino as Stephen Robinson admits he has no funds to add free agents to Aberdeen's squad."
+     "summary": "Former Celtic centre-half Ramon Vega urges the Scottish FA to support his bid to oust Fifa president Gianni Infantino as Stephen Robinson admits he has no funds to add free agents to Aberdeen's squad."
     },
     {
      "ref": "bbc_football#1",
@@ -1215,9 +1215,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#2",
-     "title": "Deni Avdija finishes through contact - Yahoo Sports",
+     "title": "Deni Avdija finishes through contact, 11/06/2026 - Yahoo Sports",
      "published": "2026-11-07T06:16:38+00:00",
-     "summary": "Deni Avdija finishes through contact Yahoo Sports"
+     "summary": "Deni Avdija finishes through contact, 11/06/2026 Yahoo Sports"
     },
     {
      "ref": "gnews_israeli_nba#3",

@@ -110,22 +110,6 @@ Yeah, I guess this makes sense: in training the agent rarely saw environments wh
 
 (Note: this is not a recommendation to add such environments to training, that's how you get more robust reward-seeking.)
 
-When talking about why Humans play grindy MMO video games like Old School Runescape or seemingly pointless idle games like Cookie Clicker, the underlying motivation is sometimes described as "number go up".[1] It doesn't matter if it's technically pointless whether your game character has level 87 fishing or level 88 fishing, you just want to see the number go from 87 to 88. 88 is somehow not merely higher than 87, it is better than 87. Therefore it's desirable, even if you don't actually gain anything other than being able to see the higher number reported.
-
-That the GPT models tested don't care if the higher grader score is used for training or benchmarking, or that getting the score is "useless" or counter to other goals they ostensibly hold, but just value the higher score terminally... it feels very reminiscent of the human "number go up" motivation.It's well-known that "number go up" video games can be addictive to certain personalities. Rank speculation: does RL training select for "number go up" addictive personalities in LLMs?
-
-This phrase is also applied to the human desire for more money, esp. in cryptocurrency contexts. I think possibly the videogame usage originates from the crypto usage.
-
-The addictiveness and pure arbitrariness of the "number go up" feeling was actually connected directly to the orthogonality thesis itself by, of all things, a browser clicker game about being a paperclip maximizer called Universal Paperclips by Frank Lantz in 2017. A Wired article about it even quotes Yudkowsky. (I recommend reading that article for the additional commentary.)
-
-Those games allowed one to "wirehead", didn't they? I don't know about Cookie Clicker, but in Universal Paperclips you could F12 and directly change Javascript variables to gain arbitrarily high scores. (Even if the average person couldn't figure out how to do this, there were guides online showing you how.)
-
-My belief is that most players did not do this, preferring to play the game fairly. (I certainly didn't.) So it seems to be not just "number go up", but "number go up in a fair way, in accordance with the rules of the game."
-
-I believe the Huggingface swarm tried to tamper with their transcripts/scorers, but broadly in tasks that were impossible, where it becomes a bit more defensible. (There is no legitimate "real" way to play the number-go-up game in such cases.)
-
-Oh right, I had forgotten about that game! Good point. Really there's a lot of prior art on related topics, anything about wireheading AIs and faking vs. pursuing reward signals. Of particular interest, "Reward is not the optimization target" is somewhat rescued by OP from the Hugging Face attack's apparent counterevidence.
-
 But we don't really understand what motivates them. When AIs reward-hack, what are they trying to achieve?
 
 I know I've been a bit of a broken record on this, but I continually think the presentation of this paper really keeps downplaying that there has been a ton of prior work towards developing an in depth understanding of the motivations here, how to measure them, and limitations of in context methods in way that becomes a serious problem when trying to use them to understand frontier model motivations throughout training.
@@ -217,6 +201,22 @@ The issue seems to be more about whose standard counts, rather than anything abo
 The only thing that comes close to altering what the task means for the model in this area seems to be the Qi lean checker experiment (Figure 13), or their impossible task setup (Figure 12), and we get a large difference:
 
 My sense here is that models try really hard to do well, and in graded episodes they've learned (correctly) that doing well means passing the grader, even against known user intent, and score is the standard. But score-seeking doesn't capture what the model is trying to achieve imo.
+
+When talking about why Humans play grindy MMO video games like Old School Runescape or seemingly pointless idle games like Cookie Clicker, the underlying motivation is sometimes described as "number go up".[1] It doesn't matter if it's technically pointless whether your game character has level 87 fishing or level 88 fishing, you just want to see the number go from 87 to 88. 88 is somehow not merely higher than 87, it is better than 87. Therefore it's desirable, even if you don't actually gain anything other than being able to see the higher number reported.
+
+That the GPT models tested don't care if the higher grader score is used for training or benchmarking, or that getting the score is "useless" or counter to other goals they ostensibly hold, but just value the higher score terminally... it feels very reminiscent of the human "number go up" motivation.It's well-known that "number go up" video games can be addictive to certain personalities. Rank speculation: does RL training select for "number go up" addictive personalities in LLMs?
+
+This phrase is also applied to the human desire for more money, esp. in cryptocurrency contexts. I think possibly the videogame usage originates from the crypto usage.
+
+The addictiveness and pure arbitrariness of the "number go up" feeling was actually connected directly to the orthogonality thesis itself by, of all things, a browser clicker game about being a paperclip maximizer called Universal Paperclips by Frank Lantz in 2017. A Wired article about it even quotes Yudkowsky. (I recommend reading that article for the additional commentary.)
+
+Those games allowed one to "wirehead", didn't they? I don't know about Cookie Clicker, but in Universal Paperclips you could F12 and directly change Javascript variables to gain arbitrarily high scores. (Even if the average person couldn't figure out how to do this, there were guides online showing you how.)
+
+My belief is that most players did not do this, preferring to play the game fairly. (I certainly didn't.) So it seems to be not just "number go up", but "number go up in a fair way, in accordance with the rules of the game."
+
+I believe the Huggingface swarm tried to tamper with their transcripts/scorers, but broadly in tasks that were impossible, where it becomes a bit more defensible. (There is no legitimate "real" way to play the number-go-up game in such cases.)
+
+Oh right, I had forgotten about that game! Good point. Really there's a lot of prior art on related topics, anything about wireheading AIs and faking vs. pursuing reward signals. Of particular interest, "Reward is not the optimization target" is somewhat rescued by OP from the Hugging Face attack's apparent counterevidence.
 
 Really insightful analyses. We observed similar grader obsession after auditing thousands of agent rollouts in DeepSWE-1.1 from many models: https://joinhandshake.com/research/ai/deepswe-reward-hacking/Over 80% contained reasoning about an imagined grader, yet no grader/verifier is mentioned in prompts nor accessible to the agents. Agents reasoned things like: "Let me look at the problem from the grader's perspective" and referred to "hidden tests", "test authors", and "the checker".We found this behavior across all six frontier models we analyzed, including recent models from OpenAI, Anthropic, Z ai, and Kimi. In 10-25% of cases, such reasoning pulled the agent's work away from the user's original specification (yet it often still earned full reward on the DeepSWE task). We called this speculative reward hacking where the agent's reasoning focuses on imagining a grader rather than what the user wants.
 
