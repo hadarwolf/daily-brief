@@ -24,27 +24,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#1",
+     "title": "After the US midterm rout of Trumpism, the world struggles to trust America again - AP News",
+     "published": "2026-11-07T06:12:39+00:00",
+     "summary": "After the US midterm rout of Trumpism, the world struggles to trust America again AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "In his words: Miller is an immigration hardliner and a bombastic critic of Democrats - AP News",
      "published": "2026-11-07T05:05:00+00:00",
      "summary": "In his words: Miller is an immigration hardliner and a bombastic critic of Democrats AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "US election confirms erosion of support for Israel, with even Trump questioning military aid - AP News",
      "published": "2026-11-07T05:05:00+00:00",
      "summary": "US election confirms erosion of support for Israel, with even Trump questioning military aid AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "After their midterm win and Stephen Miller’s promotion, Democrats gear up for a fight on immigration - AP News",
      "published": "2026-11-07T05:02:00+00:00",
      "summary": "After their midterm win and Stephen Miller’s promotion, Democrats gear up for a fight on immigration AP News"
-    },
-    {
-     "ref": "ap_world#4",
-     "title": "After the US midterm rout of Trumpism, the world struggles to trust America again - AP News",
-     "published": "2026-11-07T05:01:00+00:00",
-     "summary": "After the US midterm rout of Trumpism, the world struggles to trust America again AP News"
     },
     {
      "ref": "ap_world#5",
@@ -90,21 +90,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#12",
+     "title": "Inflation - AP News",
+     "published": "2026-11-07T03:45:38+00:00",
+     "summary": "Inflation AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "US Justice Department drops bid to force California to set aside disputed ballots - AP News",
      "published": "2026-11-07T03:41:00+00:00",
      "summary": "US Justice Department drops bid to force California to set aside disputed ballots AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
      "title": "AP Exclusive: Departing UN chief calls this ‘a moment of truth’ in fight to curb global warming - AP News",
      "published": "2026-11-07T03:27:00+00:00",
      "summary": "AP Exclusive: Departing UN chief calls this ‘a moment of truth’ in fight to curb global warming AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Inflation - AP News",
-     "published": "2026-11-07T03:03:17+00:00",
-     "summary": "Inflation AP News"
     },
     {
      "ref": "ap_world#15",
@@ -150,21 +150,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#22",
-     "title": "Former pro-democracy lawmaker sentenced to 12½ years in Macao’s first national security case - AP News",
-     "published": "2026-11-07T01:36:00+00:00",
-     "summary": "Former pro-democracy lawmaker sentenced to 12½ years in Macao’s first national security case AP News"
-    },
-    {
-     "ref": "ap_world#23",
      "title": "World Wide Technology Championship Par Scores - AP News",
      "published": "2026-11-07T01:21:00+00:00",
      "summary": "World Wide Technology Championship Par Scores AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#23",
      "title": "NFL tells Brandon Aiyuk he owes the 49ers about $13 million, AP source says - AP News",
      "published": "2026-11-07T00:51:00+00:00",
      "summary": "NFL tells Brandon Aiyuk he owes the 49ers about $13 million, AP source says AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Ben James produces another low round and takes the 36-hole lead in Mexico - AP News",
+     "published": "2026-11-07T00:30:00+00:00",
+     "summary": "Ben James produces another low round and takes the 36-hole lead in Mexico AP News"
     }
    ]
   },
@@ -426,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Iran executes Baluch militant over armed attack on police station - Reuters",
+     "published": "2026-11-07T08:50:11+00:00",
+     "summary": "Iran executes Baluch militant over armed attack on police station Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "Russian aide and military intelligence chief to attend talks with US and Ukraine, Kremlin says - Reuters",
      "published": "2026-11-07T07:50:00+00:00",
      "summary": "Russian aide and military intelligence chief to attend talks with US and Ukraine, Kremlin says Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "Russia says it hit targets in and around Kyiv in massive overnight strike - Reuters",
      "published": "2026-11-07T07:31:00+00:00",
      "summary": "Russia says it hit targets in and around Kyiv in massive overnight strike Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Malaysia's king warns against challenging his order allowing house arrest for ex-PM Najib - Reuters",
      "published": "2026-11-07T06:46:00+00:00",
      "summary": "Malaysia's king warns against challenging his order allowing house arrest for ex-PM Najib Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Hong Kong lawmakers condemn foreign governments' criticism of Joshua Wong ruling - Reuters",
      "published": "2026-11-07T05:15:00+00:00",
      "summary": "Hong Kong lawmakers condemn foreign governments' criticism of Joshua Wong ruling Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation - Reuters",
      "published": "2026-11-07T04:23:00+00:00",
      "summary": "Qatar says its mediation efforts between US and Iran continue to prevent escalation Reuters"
     },
     {
-     "ref": "reuters_world#5",
-     "title": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says - Reuters",
+     "ref": "reuters_world#6",
+     "title": "Russian strikes hit power facilities around Kyiv, damage major bridge - Reuters",
      "published": "2026-11-07T01:23:00+00:00",
-     "summary": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says Reuters"
+     "summary": "Russian strikes hit power facilities around Kyiv, damage major bridge Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "Haiti PM says gang leader Mathias Saintil is dead - Reuters",
      "published": "2026-11-07T00:27:00+00:00",
      "summary": "Haiti PM says gang leader Mathias Saintil is dead Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "Four-story building collapses in Sao Paulo, four injured - Reuters",
      "published": "2026-11-06T23:49:58+00:00",
      "summary": "Four-story building collapses in Sao Paulo, four injured Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Paraguay's Alliana sworn in as president after Peña impeachment - Reuters",
      "published": "2026-11-06T23:37:59+00:00",
      "summary": "Paraguay's Alliana sworn in as president after Peña impeachment Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat - Reuters",
      "published": "2026-11-06T23:37:27+00:00",
      "summary": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Pope Leo voted in US midterms because 'I'm proud to be an American' - Reuters",
      "published": "2026-11-06T23:34:23+00:00",
      "summary": "Pope Leo voted in US midterms because 'I'm proud to be an American' Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says - Reuters",
      "published": "2026-11-06T23:04:12+00:00",
      "summary": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions - Reuters",
      "published": "2026-11-06T22:46:57+00:00",
      "summary": "US Treasury sanctions Canadian money services firms over Iran-related transactions Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Thomas Markle, father of Meghan, charged with possession of child sexual abuse photos - Reuters",
      "published": "2026-11-06T22:23:28+00:00",
      "summary": "Thomas Markle, father of Meghan, charged with possession of child sexual abuse photos Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Cornell faculty senate declares no confidence in university leadership - Reuters",
      "published": "2026-11-06T22:22:51+00:00",
      "summary": "Cornell faculty senate declares no confidence in university leadership Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "Paraguay Senate votes to impeach President Peña - Reuters",
      "published": "2026-11-06T22:19:50+00:00",
      "summary": "Paraguay Senate votes to impeach President Peña Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "'We have nothing': Displaced mothers in Yemen's Taiz collect plastic to survive - Reuters",
      "published": "2026-11-06T22:05:54+00:00",
      "summary": "'We have nothing': Displaced mothers in Yemen's Taiz collect plastic to survive Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "In Republican collapse, Colorado military town elects Democrat for the first time - Reuters",
      "published": "2026-11-06T22:03:17+00:00",
      "summary": "In Republican collapse, Colorado military town elects Democrat for the first time Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "EU charges TikTok over harmful algorithmic 'rabbit hole' effects - Reuters",
      "published": "2026-11-06T21:38:51+00:00",
      "summary": "EU charges TikTok over harmful algorithmic 'rabbit hole' effects Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Ukraine's Zelenskiy: Russian forces plan new strikes on energy targets, bridges, infrastructure - Reuters",
      "published": "2026-11-06T20:37:43+00:00",
      "summary": "Ukraine's Zelenskiy: Russian forces plan new strikes on energy targets, bridges, infrastructure Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "White House recasts Trump arch as military tribute - Reuters",
      "published": "2026-11-06T20:31:43+00:00",
      "summary": "White House recasts Trump arch as military tribute Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "BOJ chief Ueda sees 'some upside risks' to inflation - Reuters",
      "published": "2026-11-06T20:28:16+00:00",
      "summary": "BOJ chief Ueda sees 'some upside risks' to inflation Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Congo says US minerals deal should be judged by projects, not signed deals - Reuters",
      "published": "2026-11-06T20:07:24+00:00",
      "summary": "Congo says US minerals deal should be judged by projects, not signed deals Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Congo says China's Huayou unit must pay $6 million compensation despite halt - Reuters",
      "published": "2026-11-06T19:32:34+00:00",
      "summary": "Congo says China's Huayou unit must pay $6 million compensation despite halt Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Four things to note from Friday's US jobs report - Reuters",
-     "published": "2026-11-06T19:21:00+00:00",
-     "summary": "Four things to note from Friday's US jobs report Reuters"
     }
    ]
   }
