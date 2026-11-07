@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "prepared_at": "2026-11-07T03:33:27+00:00",
+ "prepared_at": "2026-11-07T08:33:25+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -75,16 +75,16 @@
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 97.76,
+   "last": 98.32,
    "prev_close": 98.29,
-   "change_pct": -0.54,
+   "change_pct": 0.03,
    "as_of": "2026-11-06"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 75866.8281,
-   "prev_close": 75942.125,
-   "change_pct": -0.1,
+   "last": 76013.2969,
+   "prev_close": 75746.9297,
+   "change_pct": 0.35,
    "as_of": "2026-11-07"
   }
  },

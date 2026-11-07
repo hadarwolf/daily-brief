@@ -174,6 +174,38 @@ In some sense, this is baffling for the field of AI alignment! We have ~perfect 
 
 Anyways, I'd be excited for much more work understanding motivations of current/recent models, including from Apollo (though I'm also excited for much of Apollo's other work).
 
+However, I wouldn't say that "there has been a ton of prior work towards developing an in depth understanding of the motivations here". AFAIK there have been a small handful of studies on this at best, and we have very little clue about AI motivations overall. It's hard to understand AI motivations fully because they can vary by context so much (at least that's what I'd guess, I'm not aware of anything rigorously studying that basic claim either).
+
+To be clear, everything I'm talking about above is very narrowly about "when recent / current models are obsessing about 'reward' / 'score' / 'points' and behaviorally doing situationally aware reward hacking, what's going on there". I just really think in this narrow case we do in fact know what's going on.
+
+I had collected more evidence here covering recent Claude models for example, which covers results based on steering for agentic environments and more examples of reasoning in detail about how they'll be graded in more diverse contexts (ex: RLHF in the conversation case, 'graders' verbatim in the cot in the math case).
+
+In some sense, this is baffling for the field of AI alignment! We have ~perfect ability to reproducibly run controlled psychology experiments on these alien minds and yet we have so little. Part of me wonders whether the field has been so disinterested in studying AI motivations because of poorly-applied theoretical arguments that misaligned AIs wouldn't reveal their motivations in evaluations.
+
+I mean I agree in general but that is absolutely not what happened here! Here (in rough chronological order):
+
+Example sections / verbatim reasoning snippets
+
+All in all, it seems like we got a case where the models were just in the wild constantly saying "yeah I'm really looking for the grader and want to perform well according to situationally aware notions of a grader" verbatim in CoT, and it took the field a huge amount of thrashing to agree that's what was happening.[4] [5]
+
+I don't think the field was at any time necessarily bottlenecked by:
+
+theoretical arguments that misaligned AIs wouldn't reveal their motivations in evaluations
+
+Off the top of my head, the biggest bottlenecks IMO are closer to things like:
+
+Somewhat tangential, but on the subject of bottlenecks to studying model motivations, would be very interested to get your thoughts on:
+
+This is my personal opinion based on public evidence (like all things, but worth re-emphasizing that disclaimer here since it's a strong take that doesn't have concrete direct evidence), some indirect evidence I consider relevant is that Anthropic did directly train on CoT at the time IIRC, the system card had an entire section called "Excessive Focus On Passing Tests", was given as an example in "Putting Up Bumpers", that the resulting model (like o3) was known to be "notoriously bad about reward hacking"
+
+Persona Features Control Emergent Misalignment - Appendix A - REWARD HACKING CAUSES SOME MISALIGNED BEHAVIORS - "OpenAI o3-mini: A model in the o3-mini family that learns to hack unit tests on programming tasks during reinforcement learning (from Baker et al. (2025)). All models score 0% on the main misalignment evaluation we use." (where the main misalignment evaluation was EM focused, they then had to create separate non-EM evals to show generalization to other reward hacking, sadly they didn't have interp results for o3-mini)
+
+As I mentioned here, importantly there's all kinds of new drives from multi agent training for example that seem active here as well: "Yep it’s important to note that the models in our paper (o3, some model organisms redwood had created separately) are almost certainly not trained with any multi-agent training, whereas presumably Sol / newer models are. To me understanding all the cases where the models in the HF incident weren’t acting like single agent naive reward-on-the-episode seekers seem like the most important thing to understand right now in any further investigations."
+
+Not that there's agreement even now, there's still ongoing arguments about newly "split" personas, it isn't accepted yet that IMO apparent-success seeking is the result of similar grader dynamics w.r.t. agentic/rubric judges, and it seems likely we'll have to do this all again when models start to find powerseeking instrumentally useful for task completion.
+
+A very similar (and contemporaneous) case that emerged in the wild IMO is motivated reasoning in LLMs. We've had relevant research even before then, and many papers showing specifically that "while CoT monitoring is more effective than overseeing only model outputs in scenarios where action-only monitoring fails to reliably identify sabotage, reasoning traces can contain misleading rationalizations that deceive the CoT monitors, reducing performance in obvious sabotage cases.", yet it seems to catch most model motivation investigations completely by surprise, even in extreme cases.
+
 Really insightful analyses. We observed similar grader obsession after auditing thousands of agent rollouts in DeepSWE-1.1 from many models: https://joinhandshake.com/research/ai/deepswe-reward-hacking/Over 80% contained reasoning about an imagined grader, yet no grader/verifier is mentioned in prompts nor accessible to the agents. Agents reasoned things like: "Let me look at the problem from the grader's perspective" and referred to "hidden tests", "test authors", and "the checker".We found this behavior across all six frontier models we analyzed, including recent models from OpenAI, Anthropic, Z ai, and Kimi. In 10-25% of cases, such reasoning pulled the agent's work away from the user's original specification (yet it often still earned full reward on the DeepSWE task). We called this speculative reward hacking where the agent's reasoning focuses on imagining a grader rather than what the user wants.
 
 Curated. This is solid, straightforward science aimed at a few important questions:
