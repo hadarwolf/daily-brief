@@ -1,0 +1,166 @@
+{
+  "section": "business",
+  "date": "2026-11-07",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-07T03:56:07+00:00",
+  "stories": [
+    {
+      "id": "ai-stock-rout",
+      "kind": "analysis",
+      "en": {
+        "headline": "A $5.7 Trillion AI Stock Rout Tests How Dependent Markets Have Become on the AI Boom",
+        "scroll": "Systematic trading amplified a week-long AI stock rout — sized at $5.7 trillion by one estimate — forcing Taiwan and South Korea to intervene; Friday's rebound was too feeble to end it.",
+        "coffee": "Months of unease over Wall Street's AI boom erupted this week into a global market convulsion, as systematic trading strategies amplified a selloff that Bloomberg sized at $5.7 trillion and the Financial Times put at $3.2 trillion for US stocks alone. The trigger: Democrats' sweep of the midterm elections \"supercharged\" anxieties that had been building for weeks, and Thursday's Nasdaq losses were historic. Chipmakers led a partial rebound Friday, but the Nasdaq still finished the week down 3%, and the FT called the bounce \"feeble\" next to past recoveries from severe selloffs. Taiwan and South Korea activated market-stabilization measures as their chip-heavy exchanges fell into a bear market, dropping as much as 6% at one point. Retail investors bought the dip, as they usually do, but \"their typical enthusiasm was nowhere to be found,\" Bloomberg reported.\n\nThe selloff spread well beyond AI darlings: healthcare stocks, copper and even oil got swept up as investors cut risk broadly. It also collided with a stronger-than-expected October US jobs report, which reinforced bets that the Federal Reserve will raise rates in December rather than ease — squeezing already-stretched AI valuations further. Watch the Anthropic IPO, which is pressing ahead toward a $1.5 trillion valuation before Thanksgiving despite the rout, as the next test of whether private AI prices hold up in public markets.",
+        "deep": "## Background\n\nFor much of the past two years, spending tied to artificial intelligence — on chips, data centers and the software built on top of them — has been one of the biggest engines behind rising stock prices, corporate capital spending and overall economic growth, Bloomberg noted in its coverage of this week's rout. That concentration cuts both ways: when AI-linked stocks move, they now move the whole market with them.\n\nPart of what turned an ordinary wobble into a global event was systematic trading — strategies, often run by quantitative hedge funds, that follow pre-set rules rather than human judgment. Some buy as prices rise and sell as they fall (momentum-following); others resize positions to keep volatility constant, so a sharper-than-usual move forces them to sell more, not less. Either way, these strategies can turn a normal selloff into a faster, deeper one, because the selling itself triggers more selling.\n\n## The Rout\n\nThe unease had been building for weeks, but the Wall Street Journal reported that Democrats' sweep of the midterm elections \"supercharged\" it. Thursday's losses on the Nasdaq were historic; Bloomberg put the week's damage at $5.7 trillion erased from markets, while the Financial Times measured a $3.2 trillion rout in US stocks specifically — the gap likely reflects different scopes (global versus US-only), but both describe the same event. Friday brought a rebound, but a \"feeble\" one by the FT's own description, nowhere near the scale of past bounces after severe selloffs. Chipmakers led the recovery, though, as Bloomberg put it, \"AI doubts linger.\" By week's end, the Nasdaq had still fallen 3% even after a 1% Friday gain, while the Dow slipped 0.5%.\n\nThe damage reached furthest in Asia: Taiwan and South Korea, both heavy with chip manufacturers, activated formal market-stabilization measures after their exchanges tumbled into bear-market territory, with chip stocks in Tokyo and Seoul down as much as 6% at one point. Retail investors, who have reliably bought every dip since the pandemic, showed up again on Friday — but, Bloomberg noted, \"their typical enthusiasm was nowhere to be found.\" Hedge funds, meanwhile, had already cut their bullish oil bets by the most since June, positioning for a selloff as signs of US-Iran de-escalation and the Democratic sweep combined; copper slid to its lowest since July as the same political shakeup threatened both the AI infrastructure buildout and the tariff trade that had been propping up the metal.\n\n## Second-Order Effects\n\nThe selloff didn't stay contained to obviously AI-exposed names. Healthcare stocks in both the US and Europe were swept into the rout — the Wall Street Journal suggested some of that was simply investors locking in profits on a sector that had recently rallied, once a broad reduction of risk was underway.\n\nThe timing was awkward in another way too: the US economy added 165,000 jobs in October, comfortably beating forecasts. Ordinarily that would be reassuring, but it also reinforced bets that the Federal Reserve will raise interest rates in December rather than cut them — tightening financial conditions right as AI-linked valuations, some of the most richly priced in the market, were already under pressure. Gold extended its own decline on the same jobs data.\n\nA political dimension was forming in the background, too: once the newly elected Congress is seated in January, Democrats — who swept the midterms — are planning a legislative push aimed at AI and data-center companies, covering the electricity data centers draw from the grid, stricter testing requirements for advanced AI models, and legal liability for AI firms. Any such legislation would still face high hurdles while Donald Trump remains in the White House.\n\n## What to Watch Next\n\nThe clearest test of whether this week's doubts are durable is Anthropic's IPO. The Claude maker is pressing ahead with plans to list before Thanksgiving at a targeted $1.5 trillion valuation, despite the rout. Major investors are reportedly skeptical that figure is achievable, though others argue Anthropic's October financial results could soften the blow. Meanwhile, the low-profile investment firm XN has built a $5.3 billion stake in Anthropic through private funding rounds and says it plans to double down rather than retreat. Between them, those two positions amount to a live experiment in whether private-market AI valuations can survive contact with public markets — and whether December brings the rate hike that markets are now pricing in."
+      },
+      "he": {
+        "headline": "מכירה מאסית של 5.7 טריליון דולר במניות ה-AI בוחנת עד כמה השווקים תלויים בגאות הבינה המלאכותית",
+        "scroll": "מסחר סיסטמטי (systematic trading) העצים מכירה מאסית שנמשכה שבוע במניות ה-AI - שהוערכה ב-5.7 טריליון דולר - והכריח את טייוואן ודרום קוריאה להתערב; ההתאוששות ביום שישי הייתה חלשה מכדי לסמן את סוף הבהלה.",
+        "coffee": "חודשים של חששות ביחס לגאות ה-AI בוול סטריט התפרצו השבוע לכדי זעזוע שוק גלובלי, כאשר אסטרטגיות מסחר סיסטמטי (systematic trading) - מסחר מבוסס כללים קבועים מראש ולא שיקול דעת אנושי - העצימו מכירה מאסית שבלומברג כימתה ב-5.7 טריליון דולר, ופייננשל טיימס מדד ב-3.2 טריליון דולר במניות האמריקאיות בלבד. הטריגר: ניצחון מכריע של הדמוקרטים בבחירות לקונגרס (midterms) \"העצים\" חששות שהצטברו שבועות קודם לכן, ומניות הנאסד\\\"ק רשמו ביום חמישי הפסדים היסטוריים. מניות השבבים הובילו התאוששות חלקית ביום שישי, אך הנאסד\\\"ק עדיין נסגר השבוע בירידה של 3%, ופייננשל טיימס הגדיר את הקפיצה \"חלשה\" בהשוואה להתאוששויות קודמות ממכירות מאסיות חדות. טייוואן ודרום קוריאה הפעילו צעדי ייצוב שוק (market-stabilization measures) כאשר הבורסות שלהן, העמוסות במניות שבבים, נכנסו לשוק דובי (bear market) וירדו ב-6% בשלב מסוים. משקיעים פרטיים קנו את הירידה, כהרגלם, אך לפי בלומברג \"ההתלהבות האופיינית להם לא נראתה באופק\".\n\nהמכירה המאסית התפשטה הרבה מעבר למניות ה-AI המובילות: מניות הבריאות, הנחושת ואפילו הנפט נגרפו אל תוכה כשמשקיעים הפחיתו סיכון באופן גורף. היא גם התנגשה עם נתוני תעסוקה אמריקאיים חזקים מהצפוי לחודש אוקטובר, שחידדו את ההערכות כי הפדרל ריזרב יעלה את הריבית בדצמבר במקום להקל עליה - לחץ נוסף על שווי מניות ה-AI שכבר נסחרות ביוקר. כדאי לעקוב אחרי ההנפקה (IPO) של אנתרופיק, שממשיכה לקראת שווי של 1.5 טריליון דולר לפני חג ההודיה חרף המכירה המאסית, כמבחן הבא לשאלה אם תמחור ה-AI בשוק הפרטי יחזיק גם בשוק הציבורי.",
+        "deep": "## רקע\n\nבשנתיים האחרונות ההוצאות הקשורות לבינה מלאכותית (AI) - על שבבים, מרכזי נתונים (data centers) ותוכנה שנבנית מעליהם - היו אחד המנועים המרכזיים לעליית מחירי המניות, להוצאות ההון של החברות ולצמיחה הכלכלית הכוללת, כך ציינה בלומברג בסיקור המכירה המאסית של השבוע. לריכוזיות הזו יש מחיר: כשמניות ה-AI זזות, הן גוררות איתן את כל השוק.\n\nחלק מהסיבה שתנודה רגילה הפכה לאירוע גלובלי הוא מסחר סיסטמטי (systematic trading) - אסטרטגיות, שמופעלות לרוב בידי קרנות גידור כמותיות, הפועלות לפי כללים קבועים מראש ולא לפי שיקול דעת אנושי. חלקן קונות כשהמחירים עולים ומוכרות כשהם יורדים (מסחר מומנטום), אחרות משנות את גודל הפוזיציות כדי לשמור על תנודתיות (volatility) קבועה - כך שתנודה חדה מהרגיל מכריחה אותן למכור יותר, לא פחות. בשני המקרים, האסטרטגיות הללו יכולות להפוך מכירה מאסית רגילה למהירה ועמוקה יותר, כי המכירה עצמה מעוררת מכירות נוספות.\n\n## המכירה המאסית\n\nהחששות הצטברו שבועות, אך לפי הוול סטריט ג'ורנל, הניצחון המכריע של הדמוקרטים בבחירות לקונגרס \"העצים\" אותם. ההפסדים בנאסד\\\"ק ביום חמישי היו היסטוריים; בלומברג אמדה את הנזק השבועי ב-5.7 טריליון דולר שנמחקו מהשווקים, בעוד פייננשל טיימס מדד מכירה מאסית של 3.2 טריליון דולר במניות האמריקאיות בלבד - הפער נובע כנראה מהיקף שונה (עולמי מול אמריקאי בלבד), אך שניהם מתארים את אותו אירוע. יום שישי הביא התאוששות, אך \"חלשה\" לפי תיאורה של פייננשל טיימס עצמה, רחוקה מאוד מהיקף הקפיצות שאחרי מכירות מאסיות חדות בעבר. מניות השבבים הובילו את ההתאוששות, אך כפי שבלומברג ניסחה זאת, \"החששות מה-AI נמשכים\". בסיכום השבוע, הנאסד\\\"ק עדיין נסגר בירידה של 3% חרף עלייה של 1% ביום שישי, ואילו דאו ג'ונס נחלש ב-0.5%.\n\nהנזק הורגש בעוצמה גם באסיה: טייוואן ודרום קוריאה, ששוקי המניות שלהן עמוסים בחברות שבבים, הפעילו צעדי ייצוב שוק (market-stabilization measures) רשמיים לאחר שהבורסות שלהן צנחו לשוק דובי (bear market), עם ירידות של עד 6% במניות השבבים בטוקיו ובסיאול. משקיעים פרטיים, שקונים בנאמנות כל ירידה מאז מגפת הקורונה, הגיעו שוב ביום שישי - אך לפי בלומברג, \"ההתלהבות האופיינית להם לא נראתה באופק\". קרנות גידור, מצדן, כבר קיצצו את ההימורים העולים שלהן על נפט בהיקף החד ביותר מאז יוני, מתוך הערכה למכירה מאסית על רקע סימני דה-אסקלציה בין ארה\\\"ב לאיראן והניצחון הדמוקרטי; הנחושת ירדה לשפל מאז יולי, כשאותו טלטול פוליטי איים גם על בניית תשתיות ה-AI וגם על ציפיות המכסים (tariffs) שתמכו במחיר המתכת.\n\n## השפעות מדרגה שנייה\n\nהמכירה המאסית לא נשארה מוגבלת למניות ה-AI המובילות. מניות הבריאות בארה\\\"ב ובאירופה נסחפו אף הן לתוך המפולת - הוול סטריט ג'ורנל העלה אפשרות שחלק מכך היה פשוט מימוש רווחים בסקטור שעלה לאחרונה, לאחר שההפחתה הגורפת של סיכון כבר הייתה בעיצומה.\n\nהתזמון היה מביך גם מכיוון אחר: הכלכלה האמריקאית הוסיפה 165,000 משרות באוקטובר, הרבה מעל התחזיות. בנסיבות רגילות זה היה מרגיע, אך זה גם חידד את ההערכות שהפדרל ריזרב יעלה את הריבית בדצמבר במקום להקל - הידוק פיננסי נוסף בדיוק כשמניות ה-AI, חלק מהיקרות בשוק, היו כבר תחת לחץ. הזהב המשיך לרדת על בסיס אותם נתוני תעסוקה.\n\nמתפתח ברקע גם ממד פוליטי: עם כינון הקונגרס הנבחר בינואר, הדמוקרטים - שניצחו בבחירות - מתכננים גל חקיקה שיתמקד בענקיות ה-AI ומרכזי הנתונים: צריכת החשמל של מרכזי הנתונים, בדיקות מחמירות למודלי AI מתקדמים, ואחריות משפטית של חברות ה-AI. כל מהלך חקיקתי כזה עדיין יעמוד בפני משוכות גבוהות כל עוד דונלד טראמפ נשיא.\n\n## מה לעקוב אחריו בהמשך\n\nהמבחן הברור ביותר לשאלה אם החששות השבועיים האלה יחזיקו הוא ההנפקה (IPO) של אנתרופיק. חברת Claude ממשיכה בתוכניתה להנפיק לפני חג ההודיה בשווי מטרה של 1.5 טריליון דולר, חרף המכירה המאסית. משקיעים מוסדיים גדולים מביעים ספק שהשווי הזה יושג, אך אחרים טוענים שתוצאותיה הכספיות של אנתרופיק לחודש אוקטובר יכולות לרכך את המכה. במקביל, חברת ההשקעות הדיסקרטית XN בנתה החזקה של 5.3 מיליארד דולר באנתרופיק בסבבי גיוס פרטיים, ולדבריה בכוונתה להכפיל את ההשקעה ולא לסגת. בין שני אלו, יש כאן למעשה ניסוי חי בשאלה אם תמחור ה-AI בשוק הפרטי יכול לשרוד את המפגש עם השוק הציבורי - ואם דצמבר יביא בפועל את העלאת הריבית שהשווקים כבר מגלמים."
+      },
+      "tags": [
+        "ai-stocks",
+        "stock-market",
+        "systematic-trading",
+        "anthropic"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Chip Stocks Climb After Rout, But AI Doubts Linger: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+          "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
+          "url": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+          "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+          "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Wild Week That Brought AI Investors to the Brink",
+          "url": "https://www.wsj.com/finance/stocks/midterms-markets-week-ai-trade-97b3fc5d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "AI Stocks Rebound After Brutal Week for Nasdaq",
+          "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-after-asian-ai-rout-as-investors-brace-for-jobs-day-83415c52?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Healthcare Stocks Fall as Market Rout Spreads",
+          "url": "https://www.wsj.com/finance/stocks/healthcare-stocks-fall-as-market-rout-spreads-f789b5c8?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding",
+          "url": "https://www.wsj.com/finance/commodities-futures/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding-169e36e1?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Healthcare Stocks Caught Up in Market Selloff",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+          "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "דאו ג'ונס איבד 0.5%; נאסד\"ק עלה ב-1% אך נסוג ב-3% השבוע",
+          "url": "https://www.themarker.com/wallstreet/2026-11-06/ty-article-live/000001a1-9606-df63-ade5-f6579a5e0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הדמוקרטים מתכננים גל חקיקה נגד ענקיות ה-AI ודאטה סנטרס",
+          "url": "https://www.themarker.com/wallstreet/2026-11-06/ty-article/.premium/000001a1-b1e9-d041-a5f9-f5e9b42a0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3941.1399,
+      "prev_close": 3823.1799,
+      "change_pct": 3.09,
+      "as_of": "2026-11-06"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7376.8599,
+      "prev_close": 7353.73,
+      "change_pct": 0.31,
+      "as_of": "2026-11-06"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2005,
+      "prev_close": 3.1532,
+      "change_pct": 1.5,
+      "as_of": "2026-11-06"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 97.76,
+      "prev_close": 98.29,
+      "change_pct": -0.54,
+      "as_of": "2026-11-06"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 75866.8281,
+      "prev_close": 75942.125,
+      "change_pct": -0.1,
+      "as_of": "2026-11-07"
+    }
+  }
+}

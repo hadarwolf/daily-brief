@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-07",
+  "questions": [
+    {
+      "id": "quiz-ai-stock-rout",
+      "section": "business",
+      "story_id": "ai-stock-rout",
+      "answer_index": 3,
+      "en": {
+        "question": "What amplified this week's multi-trillion-dollar AI stock selloff beyond its initial trigger?",
+        "options": [
+          "A major AI company filing for bankruptcy",
+          "New export controls on chips to China",
+          "A sudden interest-rate hike by the Federal Reserve",
+          "Systematic trading strategies that mechanically deepened the selling"
+        ],
+        "explanation": "Systematic/algorithmic trading strategies compounded the selloff, turning the initial trigger into a much larger, global market convulsion."
+      },
+      "he": {
+        "question": "מה החריף את גל מכירת המניות הענק בסקטור ה-AI השבוע, מעבר לטריגר הראשוני?",
+        "options": [
+          "הודעה על פשיטת רגל של חברת AI גדולה",
+          "הגבלות יצוא חדשות על שבבים לסין",
+          "העלאת ריבית פתאומית של הפדרל ריזרב",
+          "אסטרטגיות מסחר סיסטמטיות שהעמיקו את המכירה באופן מכני"
+        ],
+        "explanation": "אסטרטגיות מסחר סיסטמטיות/אלגוריתמיות החריפו את גל המכירות והפכו את הטריגר הראשוני לזעזוע שוק עולמי גדול בהרבה."
+      }
+    },
+    {
+      "id": "quiz-coalition-61st-seat",
+      "section": "israeli_politics",
+      "story_id": "coalition-talks-draft-law-eisenkot-liberman",
+      "answer_index": 0,
+      "en": {
+        "question": "In the current coalition talks, who holds the decisive 61st Knesset seat and has not yet committed it to either side?",
+        "options": [
+          "Shas chairman Aryeh Deri",
+          "Yisrael Beiteinu chairman Avigdor Liberman",
+          "Gadi Eisenkot",
+          "Benjamin Netanyahu"
+        ],
+        "explanation": "Shas chairman Aryeh Deri controls the decisive 61st seat needed to form a government and has not yet committed it to either bloc."
+      },
+      "he": {
+        "question": "בשיחות הקואליציה הנוכחיות, מי מחזיק במושב ה-61 המכריע ועדיין לא התחייב בו לאף צד?",
+        "options": [
+          "יו\"ר ש\"ס אריה דרעי",
+          "יו\"ר ישראל ביתנו אביגדור ליברמן",
+          "גדי איזנקוט",
+          "בנימין נתניהו"
+        ],
+        "explanation": "יו\"ר ש\"ס אריה דרעי מחזיק במושב ה-61 המכריע הדרוש להרכבת ממשלה, ועדיין לא התחייב בו לאף אחד מהצדדים."
+      }
+    },
+    {
+      "id": "quiz-avdija-point-forward",
+      "section": "sports",
+      "story_id": "nba-avdija-saraf-matchday",
+      "answer_index": 0,
+      "en": {
+        "question": "What role has Deni Avdija been playing for Portland this season, which raised questions after the team traded for Ja Morant?",
+        "options": [
+          "A point-forward role, running the offense",
+          "A bench scorer coming off the bench",
+          "A backup center",
+          "A defensive specialist rarely involved on offense"
+        ],
+        "explanation": "Avdija has kept running Portland's offense as a point-forward, posting 21 points and 12 assists on 4 November despite questions about his role after the Morant trade."
+      },
+      "he": {
+        "question": "באיזה תפקיד משחק דני אבדיה בפורטלנד העונה, מה שעורר שאלות לאחר שהקבוצה סחרה עבור ג'ה מורנט?",
+        "options": [
+          "תפקיד פוינט-פורוורד (point-forward), מנהל את ההתקפה",
+          "יורה מהספסל",
+          "מרכז מחליף",
+          "מתמחה הגנתי שמעורב רק לעיתים רחוקות בהתקפה"
+        ],
+        "explanation": "אבדיה ממשיך לנהל את ההתקפה של פורטלנד בתפקיד פוינט-פורוורד, ורשם 21 נקודות ו-12 אסיסטים ב-4 בנובמבר, חרף השאלות שעלו לאחר עסקת מורנט."
+      }
+    }
+  ]
+}

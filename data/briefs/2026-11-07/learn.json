@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-11-07",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-07T03:56:07+00:00",
+  "stories": [
+    {
+      "id": "word-creative-destruction",
+      "kind": "word",
+      "en": {
+        "headline": "Creative destruction (הרס יצירתי)",
+        "scroll": "Joseph Schumpeter's term for how innovation drives growth by actively destroying the older businesses, jobs, and technologies it replaces, not just competing alongside them.",
+        "coffee": "Creative destruction is economist Joseph Schumpeter's name for the churn at the heart of capitalism: new products, firms, and technologies don't just compete with the old ones, they make them obsolete and drive them out of business entirely. The gain in efficiency and the loss of specific jobs are the same process, not two separate effects.\n\nExample: \"The smartphone was pure creative destruction — it didn't just outsell the camera and the GPS unit, it made standalone versions of both nearly extinct.\"",
+        "deep": "Use creative destruction when you want to describe disruption at the level of an entire industry, not just one company losing market share to a rival. It's the right term when a new technology or business model doesn't merely take a slice of an existing market but changes what the product even is, making the old category shrink or disappear.\n\nA common confusion: creative destruction isn't the same as a company just going bankrupt from bad management, or a market simply growing. The \"creative\" half matters — something genuinely new has to be built, and that newness is what causes the destruction, as a byproduct rather than a goal.\n\nMore examples: \"Digital photography was creative destruction for Kodak's film business.\" \"Economists debate whether AI-driven automation will be creative destruction or just destruction, if the new jobs don't materialize fast enough.\"\n\nHebrew: הרס יצירתי."
+      },
+      "he": {
+        "headline": "הרס יצירתי (Creative destruction)",
+        "scroll": "המונח של הכלכלן ג'וזף שומפטר לתהליך שבו חדשנות מניעה צמיחה כלכלית דרך השמדה פעילה של העסקים, המשרות והטכנולוגיות הישנות שהיא מחליפה, ולא רק תחרות לצידם.",
+        "coffee": "הרס יצירתי הוא המונח שטבע הכלכלן ג'וזף שומפטר לתיאור הדינמיקה שבבסיס הקפיטליזם: מוצרים, חברות וטכנולוגיות חדשים לא רק מתחרים בישנים, הם הופכים אותם למיותרים ודוחקים אותם מהשוק כליל. העלייה בייעילות וההפסד של משרות ספציפיות הם למעשה אותו תהליך, לא שתי תוצאות נפרדות.\n\nלדוגמה: \"הסמארטפון היה דוגמה קלאסית להרס יצירתי - הוא לא רק מכר יותר ממצלמות ומכשירי ניווט, הוא כמעט מיגר את הגרסאות העצמאיות שלהם.\"",
+        "deep": "כדאי להשתמש במונח הרס יצירתי כשרוצים לתאר שיבוש (disruption) בקנה מידה של תעשייה שלמה, לא רק חברה אחת שמאבדת נתח שוק למתחרה. זה המונח הנכון כשטכנולוגיה או מודל עסקי חדש לא רק נוגסים בשוק קיים, אלא משנים את ההגדרה של המוצר עצמו, כך שהקטגוריה הישנה מתכווצת או נעלמת.\n\nבלבול נפוץ: הרס יצירתי אינו זהה לחברה שקורסת בגלל ניהול כושל, או לשוק שפשוט צומח. החלק ה\"יצירתי\" הוא המפתח - צריך להיבנות דבר מה חדש באמת, וההרס הוא תוצר לוואי של אותה יצירה, לא המטרה שלה.\n\nעוד דוגמאות: \"הצילום הדיגיטלי היה הרס יצירתי לעסק הסרטים של קודאק.\" \"כלכלנים חלוקים בשאלה אם האוטומציה המבוססת על AI תהיה הרס יצירתי או סתם הרס, אם המשרות החדשות לא יופיעו מהר מספיק.\"\n\nבמונח האנגלי: Creative destruction."
+      },
+      "tags": [
+        "vocabulary",
+        "economics",
+        "business-terms",
+        "innovation"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-ballpark-figure",
+      "kind": "word",
+      "en": {
+        "headline": "Ballpark figure (הערכה גסה)",
+        "scroll": "A rough, unofficial estimate given quickly, with the explicit understanding that it isn't precise.",
+        "coffee": "A ballpark figure is a number you give when someone needs a sense of scale right now and an exact answer would take too long to produce — it signals \"this is in the right range, don't hold me to it.\" It's common in early-stage planning, sales conversations, and any meeting where false precision would be worse than an honest rough number.\n\nExample: \"Can you give me a ballpark figure for the migration cost before we scope the full project?\"",
+        "deep": "Use a ballpark figure when you want to move a conversation forward without committing to a number you'd need to defend later — it's a deliberate signal of imprecision, not an estimate you're trying to pass off as exact. The confusion to avoid: a ballpark figure is not the same as a formal estimate or a quote. If someone later holds you to a ballpark number as if it were a commitment, that's a misunderstanding of the term, and it's worth saying so explicitly rather than quietly trying to hit it.\n\nMore examples: \"Just give me a ballpark figure — plus or minus 20% is fine.\" \"Their ballpark figure for headcount next year was somewhere between fifteen and twenty-five, nothing more precise than that.\"\n\nHebrew: הערכה גסה."
+      },
+      "he": {
+        "headline": "הערכה גסה (Ballpark figure)",
+        "scroll": "הערכה מהירה ולא רשמית שנותנים כשצריך תחושת סדר גודל, בלי להתחייב למספר מדויק.",
+        "coffee": "הערכה גסה היא מספר שנותנים כשמישהו צריך תחושת סדר גודל עכשיו, ותשובה מדויקת תדרוש יותר זמן ממה שיש. זו למעשה דרך לומר \"זה בטווח הנכון, אל תתפסו אותי במילה\". המונח נפוץ בתכנון בשלבים מוקדמים, בשיחות מכירה, ובכל פגישה שבה דיוק מדומה יזיק יותר ממספר גס אבל כן.\n\nלדוגמה: \"תוכל לתת לי הערכה גסה לעלות המיגרציה לפני שנתחיל לתכנן את הפרויקט במלואו?\"",
+        "deep": "כדאי לתת הערכה גסה כשרוצים להמשיך את השיחה קדימה בלי להתחייב למספר שתצטרכו להגן עליו בהמשך - זה סימן מכוון לחוסר דיוק, לא הערכה שמנסים להציג כמדויקת. הבלבול שכדאי להימנע ממנו: הערכה גסה אינה זהה להצעת מחיר רשמית. אם מישהו מנסה בהמשך להחזיק אתכם למספר שניתן כהערכה גסה כאילו היה התחייבות, זו טעות בהבנת המונח, וראוי לציין את זה במפורש במקום לנסות בשקט לעמוד בו.\n\nעוד דוגמאות: \"תן לי רק הערכה גסה - פלוס מינוס 20% זה בסדר.\" \"ההערכה הגסה שלהם לכוח האדם בשנה הבאה הייתה בין חמישה עשר לעשרים וחמישה, לא יותר מדויק מזה.\"\n\nבמונח האנגלי: Ballpark figure."
+      },
+      "tags": [
+        "vocabulary",
+        "business-terms",
+        "communication",
+        "estimation"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-in-the-weeds",
+      "kind": "word",
+      "en": {
+        "headline": "In the weeds (שקוע בפרטים הקטנים)",
+        "scroll": "Stuck in excessive detail, losing sight of the bigger picture — often said to pull a conversation back up to the main point.",
+        "coffee": "When a meeting gets \"in the weeds,\" it means the discussion has drifted from the decision that actually matters into small implementation details that could be handled separately, by someone else, later. It's usually said as a gentle correction, not a criticism of the details themselves — they might matter, just not right now.\n\nExample: \"Let's not get in the weeds on button colors — are we actually agreed on the feature?\"",
+        "deep": "Use \"in the weeds\" when a conversation has lost altitude: it's spending executive or group time on something that one person could resolve alone, or that doesn't change the decision on the table. It's a useful phrase precisely because it's non-confrontational — it faults the moment, not the person. A common confusion: being \"in the weeds\" isn't the same as being \"in over your head,\" which means struggling or overwhelmed. Weeds are about detail and scope, not competence.\n\nMore examples: \"The founder was great at vision but kept getting in the weeds on hiring decisions her managers should have owned.\" \"I'll spare you the weeds — the short version is the migration is two weeks behind.\"\n\nHebrew: שקוע בפרטים הקטנים."
+      },
+      "he": {
+        "headline": "שקוע בפרטים הקטנים (In the weeds)",
+        "scroll": "תקוע בפרטים קטנים מדי, עד שמאבדים את התמונה הגדולה - ביטוי שאומרים כדי למשוך שיחה בחזרה לנושא המרכזי.",
+        "coffee": "כשפגישה \"שקועה בפרטים הקטנים\", זה אומר שהדיון התרחק מההחלטה שבאמת חשובה ונכנס לפרטי יישום קטנים שאפשר לטפל בהם בנפרד, מישהו אחר, בשלב אחר. בדרך כלל אומרים את זה כתיקון עדין, לא כביקורת על הפרטים עצמם - הם יכולים להיות חשובים, רק לא ברגע הזה.\n\nלדוגמה: \"בואו לא נשקע בפרטים הקטנים של צבעי הכפתורים - אנחנו בכלל מסכימים על הפיצ'ר עצמו?\"",
+        "deep": "משתמשים בביטוי \"שקוע בפרטים הקטנים\" כשהשיחה ירדה לגובה טיסה נמוך מדי: היא מקדישה זמן של הנהלה או צוות שלם לדבר שאדם אחד יכול לפתור בעצמו, או שלא משנה את ההחלטה שעל השולחן. זה ביטוי שימושי בדיוק בגלל שהוא לא תוקפני - הוא מאשים את הרגע, לא את האדם. בלבול נפוץ: \"שקוע בפרטים הקטנים\" אינו זהה ל\"מעבר לראש\", שמשמעותו התמודדות קשה או הצפה. פרטים קטנים נוגעים להיקף ולפירוט, לא ליכולת.\n\nעוד דוגמאות: \"המייסדת הייתה מצוינת בחזון אבל כל הזמן נשקעה בפרטים הקטנים של החלטות גיוס שהמנהלים שלה היו צריכים לקחת על עצמם.\" \"אחסוך לכם את הפרטים הקטנים - הגרסה הקצרה היא שהמיגרציה מאחורה בשבועיים.\"\n\nבמונח האנגלי: In the weeds."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "business-terms",
+        "communication"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why some products get more valuable the more people use them",
+        "scroll": "A network effect is when a product becomes more valuable to each user as more people join it, which is why some digital markets tip rapidly toward one dominant winner.",
+        "coffee": "Most products don't get better just because more people buy them — a toaster works the same whether you're the first owner or the millionth. A network effect is different: the product's value to you depends on how many other people are also using it. A phone with no one else to call is useless; a phone network with a billion users is extraordinarily useful, and every new user who joins makes it slightly more valuable for everyone already on it.\n\nThis is why messaging apps, marketplaces, and social platforms tend to consolidate around one or two winners rather than splitting evenly among many competitors: once a network pulls ahead, joining it becomes more attractive than joining a smaller rival, which pulls it further ahead still. What looks like a product preference is often really a coordination problem — everyone wants to be where everyone else already is.",
+        "deep": "## What a network effect actually is\n\nA network effect exists when the value a user gets from a product increases as more other users join it. This is distinct from ordinary economies of scale, where a company's *costs* fall as it grows. Network effects are about *value*, not cost — and they attach to the product experience itself, not just the company's balance sheet.\n\nEconomists split them into two broad types. *Direct* network effects happen when users benefit straightforwardly from the presence of other users, as with a phone network or a messaging app — more people on it, more people you can reach. *Indirect* network effects happen through a side market: more buyers on a marketplace attract more sellers, and more sellers in turn attract more buyers, each side making the other side more valuable without directly interacting with \"more of itself.\"\n\n## A worked example\n\nPicture an early ride-hailing app in a new city with 50 drivers and 200 riders. A rider opens the app and waits 12 minutes for a car — mediocre, but usable. Now double the drivers to 100. Average wait time might fall to 6 minutes, which makes the app noticeably more attractive, which brings in more riders, say 400 of them. More riders means more trips per driver, which makes driving for the app more profitable, which attracts more drivers. Neither side grew because the product itself changed — it grew because each side made the other side's experience better. This loop is what lets ride-hailing, food delivery, and marketplace apps go from barely functional to dominant in a given city within a year or two, and it's also why a new entrant trying to compete there has to somehow bootstrap both sides at once, which is expensive and slow.\n\n## Why it matters for strategy\n\nThe practical consequence is that these markets often don't stay fragmented. Once one network is big enough that joining it is obviously the better choice, growth can become self-reinforcing to the point that a single player captures most of the market in that geography, even if a competitor's product is just as good on paper. That's why so much early-stage effort in network-effect businesses goes into subsidizing growth before the effect kicks in — a marketplace with 50 drivers and 200 riders doesn't yet have a network effect worth defending; it has to get big enough for the loop to start running on its own. It's also why these businesses are unusually vulnerable to a determined, well-funded challenger that can afford to subsidize both sides simultaneously in one city at a time, rather than trying to win everywhere at once."
+      },
+      "he": {
+        "headline": "אפקט הרשת: למה מוצרים מסוימים נהיים יותר שימושיים כשיותר אנשים משתמשים בהם",
+        "scroll": "אפקט רשת (network effect) הוא מצב שבו מוצר נהיה יותר שימושי לכל משתמש ככל שיותר אנשים מצטרפים אליו, ובגלל זה שווקים דיגיטליים רבים מתכנסים במהירות לכיוון שחקן דומינטי אחד.",
+        "coffee": "רוב המוצרים לא נהיים טובים יותר רק בגלל שיותר אנשים קונים אותם - מצנם עובד אותו דבר אם אתם הבעלים הראשון או המיליון. אפקט רשת הוא דבר אחר: הערך של המוצר בשבילכם תלוי בכמה אנשים נוספים משתמשים בו. טלפון בלי אף אחד להתקשר אליו הוא חסר תועלת; רשת טלפונים עם מיליארד משתמשים היא שימושית בצורה יוצאת דופן, וכל משתמש חדש שמצטרף הופך אותה למעט יותר ערכית לכל מי שכבר בה.\n\nזו הסיבה שאפליקציות הודעות, שוקי מסחר ופלטפורמות חברתיות נוטות להתכנס לכיוון מנצח אחד או שניים במקום להתחלק בצורה שווה בין מתחרים רבים: מרגע שרשת מתחילה להוביל, להצטרף אליה הופך להיות אטרקטיבי יותר מהצטרפות למתחרה קטנה יותר, מה שמוביל אותה להוביל עוד יותר. מה שנראה כהעדפת צרכנים הוא למעשה, במקרים רבים, בעיית תיאום - כולם רוצים להיות במקום שכולם כבר בו.",
+        "deep": "## מה זה בעצם אפקט רשת\n\nאפקט רשת קיים כשהערך שמשתמש מקבל ממוצר עולה ככל שיותר משתמשים אחרים מצטרפים אליו. זה שונה מחיסכון לגודל (economies of scale) רגיל, שבו ה*עלויות* של חברה יורדות עם הצמיחה. אפקט רשת נוגע ל*ערך*, לא לעלות - והוא נצמד לחוויית המוצר עצמה, לא רק לדוח הכספי של החברה.\n\nכלכלנים מחלקים אותו לשני סוגים עיקריים. אפקט רשת *ישיר* קורה כשמשתמשים מרווחים ישירות מנוכחות משתמשים אחרים, כמו ברשת טלפונים או אפליקציית הודעות - יותר אנשים ברשת, יותר אנשים שאפשר להגיע אליהם. אפקט רשת *עקיף* קורה דרך שוק צד: יותר קונים בשוק מסחר מושכים יותר מוכרים, ויותר מוכרים מושכים בתורם יותר קונים, כל צד הופך את הצד השני ליותר ערכי בלי שהם בעצמם מתקשרים זה עם זה.\n\n## דוגמה מספרית\n\nדמיינו אפליקציית הזמנת נסיעות חדשה בעיר, עם 50 נהגים ו-200 נוסעים. נוסע פותח את האפליקציה ומחכה 12 דקות למונית - סביר, אבל לא מרשים. כעת הכפילו את מספר הנהגים ל-100. זמן ההמתנה הממוצע עשוי לרדת ל-6 דקות, מה שהופך את האפליקציה לאטרקטיבית בצורה בולטת, מה שמביא יותר נוסעים, נגיד 400. יותר נוסעים פירושו יותר נסיעות לכל נהג, מה שהופך את הנהיגה באפליקציה לרווחית יותר, מה שמושך עוד נהגים. אף צד לא גדל בגלל שהמוצר עצמו השתנה - הוא גדל בגלל שכל צד שיפר את החוויה של הצד השני. המעגל הזה הוא מה שמאפשר לאפליקציות הזמנת נסיעות, משלוחי אוכל ושוקי מסחר לעבור ממצב גבולי לדומיננטיות בעיר נתונה בתוך שנה-שנתיים, וזו גם הסיבה שמתחרה חדש שמנסה להיכנס לאותה עיר צריך להצליח להניע את שני הצדדים בבת אחת, מה שיקר ואיטי.\n\n## למה זה חשוב לאסטרטגיה\n\nהמשמעות המעשית היא ששווקים כאלה הרבה פעמים לא נשארים מפוזרים. מרגע שרשת אחת גדולה מספיק כך שההצטרפות אליה היא הבחירה הברורה, הצמיחה יכולה להפוך למחזקת את עצמה עד כדי כך ששחקן בודד תופס את רוב השוק באזור נתון, גם אם המוצר של מתחרה טוב בדיוק באותה מידה על הנייר. זו הסיבה שכל כך הרבה מהמאמץ בשלבים המוקדמים של עסקים מבוססי אפקט-רשת מוקדש לסבסוד הצמיחה לפני שהאפקט מתחיל לפעול - שוק עם 50 נהגים ו-200 נוסעים עדיין לא מגיע לאפקט רשת ששווה להגן עליו; הוא צריך לגדול מספיק כדי שהמעגל יתחיל לרוץ מעצמו. זו גם הסיבה שעסקים כאלה חשופים במיוחד למתחרה נחוש ובעל מימון שמסוגל לסבסד את שני הצדדים בבת אחת בעיר אחת בכל פעם, במקום לנסות לנצח בכל מקום בבת אחת."
+      },
+      "tags": [
+        "economics",
+        "network-effects",
+        "tech",
+        "platforms"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-gaza-1917",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1917: British Forces Capture Gaza as the Ottomans Retreat",
+        "scroll": "In 1917, British troops took Gaza after the Ottoman garrison withdrew, breaking the deadlock on the Palestine front and opening the road to Jerusalem.",
+        "coffee": "On this day in 1917, British forces captured Gaza after the Ottoman garrison defending it retreated, ending months of stalemate on this front of World War I. Two earlier British assaults on Gaza that year had failed outright; this time, a broader offensive finally forced the Ottomans to pull back rather than lose their army in the city.\n\nThe fall of Gaza mattered because it broke open the road north. Within weeks, British and allied forces pushed on to take Jerusalem in December 1917, ending four centuries of Ottoman rule over the city. The campaign unfolded just days after Britain's Balfour Declaration had committed the government to supporting \"a national home for the Jewish people\" in Palestine — so the military collapse of Ottoman control and the political groundwork for what would become the British Mandate were happening almost simultaneously, a coincidence of timing that still shapes the region's history.",
+        "deep": "## Background\n\nBy late 1917, World War I's Middle Eastern front had been stuck for most of the year. Gaza sat at the gateway between the Ottoman Empire's territory and British-controlled Egypt, and whoever held it controlled the route north into Palestine. British forces had already tried to take the city twice that year, in March and April, and failed both times against determined Ottoman defense — costly attempts that achieved nothing.\n\n## The event\n\nThe attack that finally succeeded, in late October and early November 1917, was different in scale and approach: rather than attacking Gaza head-on a third time, British and allied forces moved to outflank the Ottoman lines further inland, threatening to cut the garrison off entirely. Facing encirclement, the Ottoman garrison retreated from Gaza rather than be destroyed there, and British forces entered the city.\n\n## Why it mattered\n\nThe capture removed the single biggest obstacle on the road to Jerusalem. Ottoman forces fell back in a broader retreat across southern Palestine, and by mid-December, British troops took Jerusalem, ending over 400 years of Ottoman control over the city. It was one of the first major Allied victories of the war to be widely celebrated as something more than attrition — a visible, symbolic turning point rather than another grinding battle of the Western Front.\n\nThe timing is what gives it lasting resonance. Only days before Gaza fell, the British government had issued the Balfour Declaration, publicly backing the idea of a Jewish national home in Palestine. As Ottoman military control crumbled on the ground, the political architecture for what would become the British Mandate for Palestine, and eventually the state of Israel, was already being drafted in London. The two threads — a battlefield collapse and a diplomatic letter — would braid together into one of the twentieth century's most consequential regional transformations."
+      },
+      "he": {
+        "headline": "1917: הכוחות הבריטיים כובשים את עזה עם נסיגת העות'מאנים",
+        "scroll": "בשנת 1917 כבשו כוחות בריטיים את עזה לאחר שהחיל העות'מאני שהגן עליה נסוג, מה שפרץ את הקיפאון בחזית פלשתינה ופתח את הדרך לירושלים.",
+        "coffee": "ביום הזה בשנת 1917 כבשו כוחות בריטיים את עזה, לאחר שהחיל העות'מאני שהגן על העיר נסוג, ובכך הגיע לסיומו קיפאון של חודשים בחזית הזו של מלחמת העולם הראשונה. שני ניסיונות בריטיים קודמים לכבוש את עזה באותה שנה נכשלו לחלוטין; הפעם, מתקפה רחבה יותר הצליחה לבסוף להכריח את העות'מאנים לסגת, במקום לסכן את כל הכוח שלהם בעיר.\n\nנפילת עזה הייתה חשובה כי היא פתחה את הדרך צפונה. בתוך שבועות, כוחות בריטיים ובעלי-ברית התקדמו וכבשו את ירושלים בדצמבר 1917, וכך הסתיימו ארבע מאות שנה של שלטון עות'מאני בעיר. הקמפיין הזה התרחש ממש ימים ספורים אחרי שבריטניה פרסמה את הצהרת בלפור, שבה התחייבה הממשלה הבריטית לתמוך ב\"בית לאומי לעם היהודי\" בפלשתינה - כך שהקריסה הצבאית של השלטון העות'מאני וההכנה הפוליטית למה שיהפוך למנדט הבריטי התרחשו כמעט באותו זמן, צירוף תזמון שעדיין מעצב את ההיסטוריה של האזור.",
+        "deep": "## רקע\n\nעד סוף 1917, החזית של מלחמת העולם הראשונה במזרח התיכון הייתה תקועה במשך רוב השנה. עזה שכנה בפתח שבין שטחי האימפריה העות'מאנית למצרים שבשליטה בריטית, ומי ששלט בה שלט על הדרך צפונה לפלשתינה. כוחות בריטיים ניסו לכבוש את העיר פעמיים קודם לכן באותה שנה, במרץ ובאפריל, ונכשלו בשתי הפעמים מול הגנה עות'מאנית נחושה - ניסיונות יקרים שלא הביאו לשום הישג.\n\n## האירוע\n\nהמתקפה שהצליחה לבסוף, בסוף אוקטובר ותחילת נובמבר 1917, הייתה שונה בקנה מידה ובגישה: במקום לתקוף את עזה חזיתית בפעם השלישית, כוחות בריטיים ובעלי-ברית פעלו לעקוף את הקווים העות'מאניים עמוק יותר ביבשה, ואיימו לחתוך את החיל מעורפו כליל. בעקבות הסכנה להיקפה, החיל העות'מאני נסוג מעזה במקום להיחרב בה, וכוחות בריטיים נכנסו לעיר.\n\n## למה זה היה חשוב\n\nהכיבוש הסיר את המכשול הגדול ביותר בדרך לירושלים. כוחות עות'מאניים נסוגו בנסיגה רחבה יותר ברחבי דרום פלשתינה, ועד אמצע דצמבר כבשו כוחות בריטיים את ירושלים, ובכך הסתיימו למעלה מ-400 שנה של שלטון עות'מאני בעיר. זה היה אחד הניצחונות הראשונים של בעלות הברית במלחמה שנחגג באופן נרחב כמשהו מעבר לשחיקה גרידא - נקודת מפנה גלויה וסימלית, ולא עוד קרב מתיש בחזית המערבית.\n\nהתזמון הוא מה שמעניק לאירוע הזה הד מתמשך. רק ימים ספורים לפני נפילת עזה, פרסמה הממשלה הבריטית את הצהרת בלפור, שתמכה בפומבי ברעיון של בית לאומי יהודי בפלשתינה. בזמן שהשלטון הצבאי העות'מאני קרס בשטח, המבנה המדיני של מה שיהפוך למנדט הבריטי על פלשתינה, ובהמשך למדינת ישראל, היה כבר בתהליך גיבוש בלונדון. שני החוטים האלה - קריסה בשדה הקרב ומכתב דיפלומטי - נשזרו זה בזה לכדי אחד השינויים האזוריים המכריעים ביותר של המאה העשרים."
+      },
+      "tags": [
+        "history",
+        "middle-east",
+        "wwi",
+        "israel"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1917: World War I: British forces captured Gaza following the retreat of the Ottoman garrison.",
+          "url": "https://en.wikipedia.org/wiki/World_War_I"
+        }
+      ]
+    }
+  ]
+}
