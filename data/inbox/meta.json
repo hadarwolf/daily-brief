@@ -1,6 +1,6 @@
 {
- "date": "2026-11-06",
- "prepared_at": "2026-11-06T10:36:59+00:00",
+ "date": "2026-11-07",
+ "prepared_at": "2026-11-07T03:33:27+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -22,50 +22,71 @@
   "is_match_day": true,
   "events": [
    {
+    "sport": "soccer",
+    "competition": "Premier League",
+    "home": "Arsenal",
+    "away": "Hull City",
+    "kickoff_utc": "2026-11-07T15:00:00Z"
+   },
+   {
+    "sport": "soccer",
+    "competition": "American Major League Soccer",
+    "home": "Inter Miami",
+    "away": "Charlotte FC",
+    "kickoff_utc": "2026-11-07T21:00:00"
+   },
+   {
     "sport": "nba",
     "competition": "NBA",
-    "home": "Los Angeles Lakers",
-    "away": "Portland Trail Blazers",
-    "kickoff_utc": "2026-11-07T03:00:00.000Z"
+    "home": "Atlanta Hawks",
+    "away": "Brooklyn Nets",
+    "kickoff_utc": "2026-11-08T00:30:00.000Z"
+   },
+   {
+    "sport": "nba",
+    "competition": "NBA",
+    "home": "Portland Trail Blazers",
+    "away": "San Antonio Spurs",
+    "kickoff_utc": "2026-11-08T03:00:00.000Z"
    }
   ]
  },
  "markets": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3923.29,
+   "last": 3941.1399,
    "prev_close": 3823.1799,
-   "change_pct": 2.62,
+   "change_pct": 3.09,
    "as_of": "2026-11-06"
   },
   "SP500": {
    "symbol": "^GSPC",
-   "last": 7353.73,
-   "prev_close": 7688.6201,
-   "change_pct": -4.36,
-   "as_of": "2026-11-05"
+   "last": 7376.8599,
+   "prev_close": 7353.73,
+   "change_pct": 0.31,
+   "as_of": "2026-11-06"
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1952,
+   "last": 3.2005,
    "prev_close": 3.1532,
-   "change_pct": 1.33,
+   "change_pct": 1.5,
    "as_of": "2026-11-06"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 97.74,
+   "last": 97.76,
    "prev_close": 98.29,
-   "change_pct": -0.56,
+   "change_pct": -0.54,
    "as_of": "2026-11-06"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 76145.7031,
+   "last": 75866.8281,
    "prev_close": 75942.125,
-   "change_pct": 0.27,
-   "as_of": "2026-11-06"
+   "change_pct": -0.1,
+   "as_of": "2026-11-07"
   }
  },
- "essays_fetched": 5
+ "essays_fetched": 4
 }

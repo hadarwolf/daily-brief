@@ -24,126 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2016,
-   "text": "Syrian civil war: The Syrian Democratic Forces launched a successful military campaign to isolate and eventually capture Raqqa, the Islamic State's capital.",
+   "year": 2000,
+   "text": "Hillary Clinton was elected as a US senator from New York, the first time a first lady had been elected to public office.",
    "context": [
-    "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026."
+    "Hillary Diane Rodham Clinton is an American politician, lawyer and diplomat. She was the 67th United States secretary of state in the administration of Barack Obama from 2009 to 2013, a U.S. senator representing New York from 2001 to 2009, and the first lady of the United States from 1993 to 2001 as the wife of Bill Clinton. A member of the Democratic Party, she was the party's nominee in the 2016 presidential election, becoming the first woman to win a presidential nomination by a major U.S. political party. Clinton won the popular vote but lost the election to Republican Party nominee Donald Trump in the United States Electoral College. She is the only first lady of the United States to have run for, or held, elected office."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2012,
-   "text": "Tammy Baldwin became the first openly gay politician to be elected to the United States Senate.",
+   "year": 1996,
+   "text": "NASA launched Mars Global Surveyor from the Kennedy Space Center at Cape Canaveral, Florida.",
    "context": [
-    "Tammy Suzanne Green Baldwin is an American politician and lawyer serving since 2013 as the junior United States senator from Wisconsin. A member of the Democratic Party, she has also served as the secretary of the Senate Democratic Caucus since 2017. Baldwin has been the dean of the United States congressional delegation from Wisconsin since 2023, when Representative Ron Kind retired."
+    "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the United States' civil space program, as well as research in aeronautics and space. Headquartered in Washington, D.C., NASA operates ten field centers across the US and is organized into three mission directorates: Human Spaceflight, Research and Technology, and Science. Established in 1958 amid the Space Race, NASA succeeded the National Advisory Committee for Aeronautics (NACA) to give the US space program a distinct civilian orientation focused on peaceful applications. Since then, it has led most American spaceflight programs, including Project Mercury, Project Gemini, the Apollo program, Skylab, the Space Shuttle, the International Space Station (ISS), and the ongoing multinational Artemis program."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2004,
-   "text": "A man committing suicide parked his car on the railway tracks in Ufton Nervet, Berkshire, England, causing a derailment that also killed six people on the train.",
+   "year": 1991,
+   "text": "Magic Johnson announced his retirement from professional basketball due to HIV infection.",
    "context": [
-    "Ufton Nervet is a village and civil parish in West Berkshire, England centred 6 miles (10 km) west southwest of the large town of Reading and 7 miles\neast of Thatcham. Ufton Nervet has an elected civil parish council."
+    "Earvin \"Magic\" Johnson Jr. is an American businessman and former professional basketball player. He is widely regarded as the greatest point guard of all time and one of the greatest basketball players in history. Johnson spent his entire career with the Los Angeles Lakers in the National Basketball Association (NBA). After winning a national championship with the Michigan State Spartans in 1979, Johnson was selected first overall in the 1979 NBA draft by the Lakers, then led the team to five NBA championships during their \"Showtime\" era. Johnson retired abruptly in 1991 after announcing that he had contracted HIV, but returned to play in the 1992 All-Star Game, winning the All-Star MVP Award. He retired again after fellow players protested his return, but returned in 1996, at age 36, to play 32 games for the Lakers before retiring for the third and final time."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1988,
-   "text": "Two earthquakes occurring 12 minutes apart struck Yunnan near the China–Myanmar border, killing more than 730 people.",
+   "year": 1987,
+   "text": "Tunisian prime minister Zine El Abidine Ben Ali deposed and replaced President Habib Bourguiba by declaring him medically unfit for the duties of the office.",
    "context": [
-    "On 6 November 1988, two earthquakes struck Lancang and Gengma counties, Yunnan, near the China–Myanmar border. The first earthquake measured moment magnitude (Mw) 7.0, occurring at 21:03 CST. Twelve minutes later, a Mw 6.9 earthquake occurred about 60 km (37 mi) to north–northwest. They were caused by movement along the Lancang–Gengma Fault Zone, a 210 km (130 mi) long right-lateral strike-slip fault. Both earthquakes generated oblique-normal surface ruptures with larger displacements reported following the second event."
+    "Zine El Abidine Ben Ali, commonly known as Ben Ali or Ezzine, was a Tunisian politician, military officer and dictator who served as the second president of Tunisia from 1987 to 2011. In that year, during the Tunisian revolution, he was overthrown and fled to Saudi Arabia."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1977,
-   "text": "The Kelly Barnes Dam in Stephens County, Georgia, collapsed; the resulting flood killed 39 people and caused US$2.8 million in damages.",
+   "year": 1987,
+   "text": "Singapore's first Mass Rapid Transit line opened, with train services running between Yio Chu Kang and Toa Payoh.",
    "context": [
-    "Kelly Barnes Dam was an earthen embankment dam on Toccoa Creek in Stephens County, Georgia, United States, just outside the city of Toccoa. Heavy rainfall caused it to collapse on November 6, 1977, and the resulting flood killed 39 people and caused $2.8 million in damage. The dam was never rebuilt."
+    "The Mass Rapid Transit (MRT) is a rapid transit system in Singapore and the island country's principal mode of railway transportation. After two decades of planning, the system commenced operations in November 1987 with an initial 6 km (3.7 mi) stretch consisting of five stations. The network has since grown to span the length and breadth of the country's main island – with the exception of the forested core and the rural northwestern region – in accordance with Singapore's aim of developing a comprehensive rail network as the backbone of the country's public transportation system, averaging a daily ridership of 3.49 million in 2025."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1963,
-   "text": "Nguyễn Ngọc Thơ was appointed by the junta of General Dương Văn Minh to head the South Vietnamese government, five days after Minh deposed and assassinated President Ngô Đình Diệm.",
+   "year": 1972,
+   "text": "A ship collision with the Sidney Lanier Bridge in the U.S. state of Georgia resulted in a bridge collapse (pictured), which killed ten people.",
    "context": [
-    "Nguyễn Ngọc Thơ was a South Vietnamese politician who was the first vice president of South Vietnam, serving under President Ngô Đình Diệm from 1956 until Diệm's overthrow and assassination in 1963. He also served as the first prime minister of South Vietnam, serving from November 1963 to late January 1964. Thơ was appointed to head a civilian cabinet by the military junta of General Dương Văn Minh, which came to power after overthrowing and assassinating Diệm, the nation's first president. Thơ's rule was marked by a period of confusion and weak government, as the Military Revolutionary Council (MRC) and the civilian cabinet vied for power. Thơ lost his job and retired from politics when Minh's junta was deposed in a January 1964 coup by General Nguyễn Khánh."
+    "The Sidney Lanier Bridge is a cable-stayed bridge that spans the Brunswick River in Brunswick, Georgia, United States. The bridge is named after Georgia-born poet Sidney Lanier and carries part of U.S. Route 17 in Georgia. It was also the name of an earlier bridge which was next to the current site."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1944,
-   "text": "The B Reactor at the Hanford Site in the U.S. state of Washington began producing plutonium, with the facility later going on to create more for nearly the entire American nuclear arsenal.",
+   "year": 1949,
+   "text": "Oil was discovered in the Caspian Sea off the coast of Azerbaijan, leading to the construction of Neft Daşları, the world's first offshore oil platform.",
    "context": [
-    "The B Reactor at the Hanford Site, near Richland, Washington, was the first large-scale nuclear reactor ever built, at 250 MW. It achieved criticality on September 26, 1944. This reactor was of vital importance to the Manhattan Project, the United States nuclear weapons development program during World War II. Its purpose was to convert part of its natural uranium fuel into plutonium-239 by neutron activation, for use in nuclear weapons. Pure plutonium was then chemically separated at the site's T Plant, as an alternative to the Project's uranium enrichment plants in Tennessee. The B reactor was graphite moderated and water-cooled, via a contaminating open cycle with the Columbia River."
+    "The Caspian Sea is the world's largest inland body of water, also described as the world's largest lake and usually referred to as a full-fledged sea. An endorheic basin, it is situated in both Europe and Asia: east of the Caucasus, west of the broad steppe of Central Asia, south of the fertile plains of Southern Russia in Eastern Europe, and north of the mountainous Iranian Plateau. It covers a surface area of 371,000 km2 (143,244 sq mi), an area similar to Japan, with a volume of 78,200 km3 (19,000 cu mi). It has a salinity of approximately 1.2%, about a third of the salinity of average seawater. It is bounded by Kazakhstan to the northeast, Russia to the northwest, Azerbaijan to the southwest, Iran to the south, and Turkmenistan to the southeast. The name of the Caspian Sea is derived from the ancient Iranic Caspi people."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1939,
-   "text": "As part of their plan to eradicate the Polish intellectual elite, the Gestapo arrested 184 professors, students and employees of the Jagiellonian University (location pictured) in Kraków.",
+   "year": 1934,
+   "text": "The first specimens of the tufted jay (pictured) to be scientifically described were collected in Mexico.",
    "context": [
-    "The Intelligenzaktion (German pronunciation: [ɪntɛliˈɡɛnt͡s.akˌt͡sjoːn] was a series of mass murders committed against the Polish intelligentsia during the early years of the Second World War by Nazi Germany. The Germans conducted the operations in accordance with their plan to Germanize the western regions of occupied Poland, before their territorial annexation to the German Reich."
+    "The tufted jay, also known as the painted jay and Dickey's jay, is a species of bird in the crow family Corvidae. It is endemic to a small area of the Sierra Madre Occidental in the Mexican states of Sinaloa, Durango, and Nayarit. A distinctive large jay, it has a prominent dark crest on its head; purplish blue back, wings, and face; a white spot above the eye and on the cheek; white undersides; and a partially white tail. Its typical call is a quick, four-note vocalization."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1924,
-   "text": "The Spanish anarchist group Los Solidarios unsuccessfully attempted to launch an insurrection against the dictatorship of Miguel Primo de Rivera.",
-   "context": [
-    "Los Solidarios was a Spanish anarchist militant group, established in 1922 to combat the rise of pistolerismo and yellow syndicalism, which represented the interests of business owners. At first, the group organised the Catalan anarchist movement, stockpiled weapons and infiltrated the Spanish Armed Forces. Following the assassination of Salvador Seguí, the general secretary of the anarchist trade union centre, the Confederación Nacional del Trabajo (CNT), the group initiated its own campaign of targeted assassinations against officials who they held responsible for state terrorism. In 1923, Los Solidarios assassinated pistolero leader Ramón Laguía, the former governor of Biscay Fernando González Regueral, and the Archbishop of Zaragoza Juan Soldevila. As news began to spread of an impending military coup in the country, Los Solidarios sought to acquire weapons in order to resist the coup. The group robbed a branch of the Bank of Spain in Xixón and used the money to buy rifles, but were ultimately unable to stop the 1923 Spanish coup d'état, which resulted in the establishment of the dictatorship of Miguel Primo de Rivera."
-   ]
-  },
-  {
-   "ref": "wikipedia#9",
    "year": 1917,
-   "text": "First World War: Canadian forces captured Passendale, Belgium, after three months of fighting against the Germans at the Battle of Passchendaele.",
+   "text": "World War I: British forces captured Gaza following the retreat of the Ottoman garrison.",
    "context": [
     "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
-   "ref": "wikipedia#10",
-   "year": 1868,
-   "text": "Sioux Wars: Red Cloud (pictured), a Native American leader of the Oglala Lakota tribe, signed the Treaty of Fort Laramie, ending Red Cloud's War and establishing the Great Sioux Reservation.",
+   "ref": "wikipedia#9",
+   "year": 1916,
+   "text": "Jeannette Rankin (pictured) became the first woman to be elected to the United States House of Representatives.",
    "context": [
-    "The Sioux Wars were a series of conflicts between the United States and various subgroups of the Sioux people which occurred in the later half of the 19th century. The earliest conflict came in 1854 when a fight broke out at Fort Laramie in Wyoming, when Sioux warriors killed 31 American soldiers in the Grattan Massacre, and the final came in 1890 during the Ghost Dance War."
+    "Jeannette Pickering Rankin was an American politician and women's rights advocate who became the first woman to hold federal office in the United States. She was elected to the U.S. House of Representatives as a Republican from Montana in 1916 for one term, then was elected again in 1940. Rankin remains the only woman ever elected to Congress from Montana."
+   ]
+  },
+  {
+   "ref": "wikipedia#10",
+   "year": 1893,
+   "text": "Between 20 and 30 people in the Grand Lyceum Theatre in Barcelona were killed in a terrorist attack  by Spanish anarchist Santiago Salvador.",
+   "context": [
+    "The Gran Teatre del Liceu, or simply Liceu, is a theater in Barcelona, Spain. Situated on La Rambla, it is the city's oldest theater building still in use for its original purpose."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1863,
-   "text": "American Civil War: A Union brigade defeated a Confederate force at the Battle of Droop Mountain in Pocahontas County, West Virginia.",
+   "year": 1861,
+   "text": "American Civil War: Future U.S. president Ulysses S. Grant engaged in his first combat leadership role in the Battle of Belmont in Mississippi County, Missouri.",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860 and the growing abolitionist movement in the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1856,
-   "text": "The first story from the collection Scenes of Clerical Life by the English author George Eliot was submitted for publication.",
+   "year": 1837,
+   "text": "American abolitionist Elijah Parish Lovejoy was murdered by a pro-slavery mob in Alton, Illinois, during an attack to destroy his printing press and abolitionist materials.",
    "context": [
-    "Scenes of Clerical Life is an 1858 collection of three short stories, published in book form, by George Eliot; it was Eliot's first published work of fiction and the first of her works to be released under her famous pseudonym. The stories were first published in Blackwood's Magazine over the course of the year 1857, initially anonymously, before being released as a two-volume set by Blackwood and Sons in January 1858. The three stories are set during the last twenty years of the eighteenth century and the early nineteenth century over a fifty-year period. The stories take place in and around the fictional town of Milby in the English Midlands. Each of the Scenes concerns a different Anglican clergyman, but is not necessarily centred upon him. Eliot examines, among other things, the effects of religious reform and the tension between the Established and the Dissenting Churches on the clergymen and their congregations, and draws attention to various social issues, such as poverty, alcoholism and domestic violence."
+    "In the United States, abolitionism, the movement that sought to end chattel slavery in the country, was active from the colonial era until the American Civil War, the end of which brought about the abolition of American Chattel Slavery, except as punishment for a crime, through the Thirteenth Amendment to the United States Constitution."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1794,
-   "text": "French Revolutionary Wars: Two British ships were intercepted by a French squadron, leading to the French seizure of HMS Alexander.",
+   "year": 1825,
+   "text": "Jereboam O. Beauchamp murdered Kentucky legislator Solomon P. Sharp; Beauchamp later became the first person legally executed in the state.",
    "context": [
-    "The French Revolutionary Wars were a series of sweeping military conflicts resulting from the French Revolution that lasted from 1792 until 1802. They pitted France against Great Britain, Austria, Prussia, Russia, and several other countries. The wars are divided into two periods: the War of the First Coalition (1792–1797) and the War of the Second Coalition (1798–1802). Initially confined to Europe, the fighting gradually assumed a global dimension. After a decade of constant warfare and aggressive diplomacy, France had conquered territories in the Italian peninsula, the Low Countries, and the Rhineland with its very large and powerful military which had been totally mobilized for war against most of Europe with mass conscription of the vast French population. French success in these conflicts ensured military occupation and the spread of revolutionary principles over much of Europe."
+    "Jereboam Orville Beauchamp was an American lawyer who murdered the Kentucky legislator Solomon P. Sharp; the crime is known as the Beauchamp–Sharp Tragedy. In 1821, Sharp had been accused in Bowling Green, Kentucky, by Anna Cooke of fathering her illegitimate child; it was stillborn.[a] Sharp denied paternity, and public opinion favored him. In 1824, Beauchamp married Cooke, who was seventeen years his senior. She asked him to kill Sharp to defend her honor."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1217,
-   "text": "King Henry III of England issued the Charter of the Forest, re-establishing the rights of access of free men to royal forests.",
+   "year": 1811,
+   "text": "Tecumseh's War: American forces led by William Henry Harrison defeated the forces of Shawnee leader Tecumseh's growing confederation at the Battle of Tippecanoe near present-day Battle Ground, Indiana.",
    "context": [
-    "Henry III, also known as Henry of Winchester, was King of England, Lord of Ireland and Duke of Aquitaine from 1216 until his death in 1272."
+    "Tecumseh's War was a conflict between the United States and Tecumseh's confederacy, led by the Shawnee leader Tecumseh in the Indiana Territory. Although the war is often considered to have climaxed with William Henry Harrison's victory at the Battle of Tippecanoe in 1811, Tecumseh's War essentially continued into the War of 1812 and is frequently considered a part of that larger struggle. The war lasted for two more years, until 1813, when Tecumseh died fighting Harrison's Army of the Northwest at the Battle of Moraviantown in Upper Canada, near present-day Chatham, Ontario, and his confederacy disintegrated. Tecumseh's War is viewed by some academic historians as the final conflict of a longer-term military struggle for control of the Great Lakes region of North America, encompassing a number of wars over several generations, referred to as the Sixty Years' War."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1723,
+   "text": "O Ewigkeit, du Donnerwort, BWV 60, a dialogue cantata by Johann Sebastian Bach for Leipzig, was first performed.",
+   "context": [
+    "O Ewigkeit, du Donnerwort, BWV 60, is a church cantata for the 24th Sunday after Trinity composed by Johann Sebastian Bach. It was first performed in Leipzig on 7 November 1723, and is part of Bach's first cantata cycle. It is one of Bach's dialogue cantatas: its topic, fear of death and hope of salvation, plays out mainly through a conversation between two allegorical figures, Fear and Hope."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 680,
+   "text": "The Third Council of Constantinople convened to settle the Christological controversies of monoenergism and monothelitism.",
+   "context": [
+    "The Third Council of Constantinople, counted as the Sixth Ecumenical Council by the Eastern Orthodox and Catholic Churches, and by certain other Western Churches, met in 680–681 and condemned monoenergism and monothelitism as heretical and defined Jesus Christ as having two energies and two wills."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Circuit breaker (מנתק מעגל)",
+  "Risk-off (מצב הימנעות מסיכון)",
+  "Throwing the baby out with the bathwater (לשפוך את התינוק עם המים)",
   "Net interest margin (מרווח ריבית נקי)",
   "Race to the bottom (מירוץ לתחתית)",
   "Skin in the game (עור במשחק)",
@@ -230,10 +249,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Catching a falling knife (לתפוס סכין נופל)",
   "Earnout (תשלום מותנה בתוצאות)",
   "Term sheet (גיליון תנאים)",
-  "Throw good money after bad (להשקיע כסף טוב על גבי כסף רע)",
-  "Vertical integration (אינטגרציה אנכית)",
-  "First-mover advantage (יתרון הראשונים)",
-  "Moving the goalposts (להזיז את השער)"
+  "Throw good money after bad (להשקיע כסף טוב על גבי כסף רע)"
  ]
 }
 </input>
