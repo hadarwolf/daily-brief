@@ -81,9 +81,9 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   {
    "ref": "wikipedia#7",
    "year": 1966,
-   "text": "Former Massachusetts attorney general Edward Brooke (pictured) became the first African American to be elected to the United States Senate since Reconstruction.",
+   "text": "Massachusetts Attorney General Edward Brooke (pictured) became the first African American to be elected to the United States Senate since Reconstruction.",
    "context": [
-    "Massachusetts, officially the Commonwealth of Massachusetts, is a state in the New England region of the Northeastern United States. It borders the Atlantic Ocean and the Gulf of Maine to its east, Connecticut and Rhode Island to its south, New Hampshire and Vermont to its north, and New York to its west. Massachusetts is the seventh-smallest state by land area. With an estimated population of over 7.1 million, it is the most populous state in New England, the 16th-most-populous in the United States, and the third-most densely populated U.S. state after New Jersey and Rhode Island."
+    "The Massachusetts attorney general is an elected constitutionally defined executive officer of the Massachusetts government. The officeholder is the chief lawyer and law enforcement officer of the Commonwealth of Massachusetts. The officeholder also acts as an advocate and resource for the Commonwealth and its residents in many areas, including consumer protection, combating fraud and corruption, protecting civil rights, and maintaining economic competition. The current attorney general is Andrea Campbell."
    ]
   },
   {

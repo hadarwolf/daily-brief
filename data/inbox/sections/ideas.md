@@ -149,87 +149,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The Pope probably knows this song",
+     "published": "2026-11-08T07:30:49+00:00",
+     "summary": "The post The Pope probably knows this song appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "What I’ve been reading",
+     "published": "2026-11-08T05:46:05+00:00",
+     "summary": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the mainstream view these days? Excerpt: “For all of Szasz’s rhetorical flair and provocation, he […] The post What I’ve been reading appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Saturday assorted links",
      "published": "2026-11-07T16:49:22+00:00",
      "summary": "1. Simon Winchester, RIP (NYT). 2. Pork roll vs. Taylor Ham, a NJ map. 3. Those new service sector jobs, Bradford edition. 4. “New assessment of the greatest of all time: Antarctic blue whales, showing how whaling reduced them from >200,000 to a low of just 418 before slow recovery at 4.5% per year to […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "What are the Best MR Posts?",
      "published": "2026-11-07T12:17:10+00:00",
      "summary": "From the Archives–written by ChatGPT. This ranking judges posts on reasoning, originality of framing, explanatory power, intellectual stimulation, timeliness, and how much they accomplish in their length. Originality includes an unusually illuminating application of an existing idea. Provocation earns credit when it exposes a real problem; unsupported certainty still counts against a post. The sel"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "The Anthropic succession plan?",
      "published": "2026-11-07T08:38:47+00:00",
      "summary": "Anthropic’s version is rather more elaborate. Each of its seven co-founders will maintain a confidential, ranked list of up to ten people who may eventually inherit that founder’s membership and voting role inside a special Founder LLC. Five of the other six co-founders must approve the list. The first eight candidates on the list must […] The post The Anthropic succession plan? appeared first on "
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Was Mossadegh a liberal, democratizing force?",
      "published": "2026-11-07T05:58:54+00:00",
      "summary": "One reads and hears so many times that Iran was on the path to democracy until a CIA coup installed the Shah in 1953. It turns out that account is quite wrong, as is detailed by Simon Sebag Montefiore: As his support in the Majlis ebbed, Mosaddegh demanded autocratic powers. Both the shah and Majlis […] The post Was Mossadegh a liberal, democratizing force? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Friday assorted links",
      "published": "2026-11-06T18:07:28+00:00",
      "summary": "1. What will happen with Texas data centers? And more on that. 2. What is the half life of a claim about LLMs? 3. YouTube video created by AI. Titled Der Zauberberg. 4. Data centers tend to be put in places with relatively flat supply curves. 5. “According to Twenge, one of the great Cassandras […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Untethered AI agents in Delaware?",
      "published": "2026-11-06T17:00:22+00:00",
      "summary": "A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of property, and incur obligations… That is a current proposal, here is the full article. […] The post Untethered AI agents in Delaware? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "What They Took From You",
      "published": "2026-11-06T12:15:49+00:00",
      "summary": "Until August 1914 a sensible, law-abiding Englishman could pass through life and hardly notice the existence of the state, beyond the post office and the police. He could live where he liked and as he liked. He had no official number or identity card. He could travel abroad or leave forever without a passport or […] The post What They Took From You appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "The Global Office",
      "published": "2026-11-06T06:18:58+00:00",
      "summary": "This paper argues that globalisation’s frontier has shifted from manufacturing GVCs to services GVCs: from the Global Factory to the Global Office. While the Factory remains larger in gross trade, the Office is growing much faster. A heatmap of trade in intermediates shows that the Factory is bloc-shaped and dominated by China, whereas the Office […] The post The Global Office appeared first on Ma"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Natasha Cowen guest posts on Caffrey",
      "published": "2026-11-06T05:54:49+00:00",
      "summary": "I am on my way back home from Armenia, where I was on a Fulbright teaching U.S. securities regulation to Armenian law students. I’m an active user of AI for multiple areas of my life, including my professional life. When I just started preparing for teaching this class, I had a plan: I would use […] The post Natasha Cowen guest posts on Caffrey appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Love at first photo?",
      "published": "2026-11-05T19:55:13+00:00",
      "summary": "Romantic interest on swipe-based dating apps (SBDAs) is highly concentrated. This can frustrate both popular users who feel overwhelmed by a glut of attention, and less popular users who feel dejected by a lack of it. Is the concentration of interest exacerbated by the platform design of dating apps? I provide causal evidence on the […] The post Love at first photo? appeared first on Marginal REVO"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Thursday assorted links",
      "published": "2026-11-05T17:25:46+00:00",
      "summary": "1. Economics job market site. 2. Data on the flattening of consumer culture (NYT). One-sided, but still of interest. 3. A new and better measure of how much of educational value is signaling. 4. Inside joke concerning the Pope that only some Beatles fans will get. 5. U.S. productivity growth is looking up. 6. NYT […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "Pollution as Growth Killer",
      "published": "2026-11-05T12:17:06+00:00",
      "summary": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am interviewed; here is one bit: Q. Doesn’t the demographic dividend argue for growth first? The demographic dividend is people. […] The post Pollution as Growth Killer appeared first on Mar"
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#14",
      "title": "Social media and political radicalization",
      "published": "2026-11-05T09:19:09+00:00",
      "summary": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly moderate results, repudiations of both Trump and the extreme Democratic left. You may or may not like those results, […] The post Social media and political radicalization appeared "
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "My very good Conversation with Richard Hanania",
-     "published": "2026-11-05T05:51:48+00:00",
-     "summary": "Here is the video, audio, and transcript. Here is part of the episode summary: The first half of the conversation stays close to the text [Conrad’s Nostromo], covering the novel’s political backdrop, its deliberately scrambled timeline, the near-total absence of religion in Conrad’s universe, Nostromo’s own vanity and treatment of women, a close reading of […] The post My very good Conversation wi"
     }
    ]
   },
