@@ -246,15 +246,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#1",
-     "title": "Who am I if I don’t run?",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
-    },
-    {
-     "ref": "psyche#2",
      "title": "How to take notes that actually help you learn",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
+    },
+    {
+     "ref": "psyche#2",
+     "title": "Who am I if I don’t run?",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
     },
     {
      "ref": "psyche#3",
