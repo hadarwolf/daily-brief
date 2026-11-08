@@ -34,22 +34,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
   "matches": {
    "yesterday": [
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T12:30:00Z",
-     "home": "Wrexham",
-     "away": "Wolverhampton",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T12:30:00Z",
-     "home": "Bristol City",
-     "away": "Norwich",
-     "status": "FINISHED",
-     "score": "0-5"
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-07T12:30:00Z",
      "home": "Leeds United",
@@ -66,6 +50,22 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-2"
     },
     {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T12:30:00Z",
+     "home": "Wrexham",
+     "away": "Wolverhampton",
+     "status": "FINISHED",
+     "score": "1-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T12:30:00Z",
+     "home": "Bristol City",
+     "away": "Norwich",
+     "status": "FINISHED",
+     "score": "0-5"
+    },
+    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-07T13:00:00Z",
      "home": "Málaga",
@@ -76,18 +76,34 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-07T14:00:00Z",
+     "home": "Cagliari",
+     "away": "Frosinone",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-07T14:00:00Z",
      "home": "Torino",
      "away": "Lecce",
      "status": "FINISHED",
      "score": "1-1"
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-07T14:00:00Z",
-     "home": "Cagliari",
-     "away": "Frosinone",
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-07T14:30:00Z",
+     "home": "Mainz",
+     "away": "Bayern",
      "status": "FINISHED",
-     "score": "1-0"
+     "score": "1-2"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-07T14:30:00Z",
+     "home": "Dortmund",
+     "away": "Elversberg",
+     "status": "FINISHED",
+     "score": "2-1"
     },
     {
      "competition": "Bundesliga",
@@ -106,60 +122,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "5-2"
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-07T14:30:00Z",
-     "home": "Dortmund",
-     "away": "Elversberg",
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Watford",
+     "away": "Middlesbrough",
+     "status": "FINISHED",
+     "score": "0-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "QPR",
+     "away": "Lincoln City",
      "status": "FINISHED",
      "score": "2-1"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-07T14:30:00Z",
-     "home": "Mainz",
-     "away": "Bayern",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Blackburn",
-     "away": "West Ham",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Cardiff",
-     "away": "Burnley",
-     "status": "FINISHED",
-     "score": "5-4"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Preston NE",
-     "away": "Southampton",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Fulham",
-     "away": "Newcastle",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Arsenal",
-     "away": "Hull City",
-     "status": "FINISHED",
-     "score": "1-0"
     },
     {
      "competition": "Championship",
@@ -186,20 +162,44 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-1"
     },
     {
-     "competition": "Championship",
+     "competition": "Premier League",
      "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "Watford",
-     "away": "Middlesbrough",
+     "home": "Fulham",
+     "away": "Newcastle",
      "status": "FINISHED",
-     "score": "0-0"
+     "score": "1-1"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Arsenal",
+     "away": "Hull City",
+     "status": "FINISHED",
+     "score": "1-0"
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-07T15:00:00Z",
-     "home": "QPR",
-     "away": "Lincoln City",
+     "home": "Blackburn",
+     "away": "West Ham",
      "status": "FINISHED",
      "score": "2-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Cardiff",
+     "away": "Burnley",
+     "status": "FINISHED",
+     "score": "5-4"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-07T15:00:00Z",
+     "home": "Preston NE",
+     "away": "Southampton",
+     "status": "FINISHED",
+     "score": "1-0"
     },
     {
      "competition": "Primera Division",
@@ -226,14 +226,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-2"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-07T17:30:00Z",
-     "home": "Nottingham",
-     "away": "Man City",
-     "status": "FINISHED",
-     "score": "3-1"
-    },
-    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-07T17:30:00Z",
      "home": "Stuttgart",
@@ -250,20 +242,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-1"
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-07T17:30:00Z",
+     "home": "Nottingham",
+     "away": "Man City",
+     "status": "FINISHED",
+     "score": "3-1"
+    },
+    {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-11-07T17:45:00Z",
      "home": "Den Haag",
      "away": "Sparta",
      "status": "FINISHED",
      "score": "3-1"
-    },
-    {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-07T18:00:00Z",
-     "home": "Alverca",
-     "away": "Casa Pia",
-     "status": "FINISHED",
-     "score": "1-1"
     },
     {
      "competition": "Ligue 1",
@@ -274,6 +266,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-1"
     },
     {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-07T18:00:00Z",
+     "home": "Alverca",
+     "away": "Casa Pia",
+     "status": "FINISHED",
+     "score": "1-1"
+    },
+    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-07T19:45:00Z",
      "home": "Roma",
@@ -282,20 +282,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "3-0"
     },
     {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-07T20:00:00Z",
-     "home": "Excelsior",
-     "away": "Go Ahead",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-07T20:00:00Z",
      "home": "Valencia",
      "away": "Real Madrid",
      "status": "FINISHED",
      "score": "0-3"
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-07T20:00:00Z",
+     "home": "Excelsior",
+     "away": "Go Ahead",
+     "status": "FINISHED",
+     "score": "0-1"
     },
     {
      "competition": "Ligue 1",
@@ -356,26 +356,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
+     "competition": "Ligue 1",
      "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Sunderland",
-     "away": "Chelsea",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Monza",
-     "away": "Atalanta",
+     "home": "Stade Rennais",
+     "away": "Lille",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Brighton Hove",
-     "away": "Brentford",
+     "home": "Crystal Palace",
+     "away": "Liverpool",
      "status": "TIMED",
      "score": null
     },
@@ -396,18 +388,26 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
+     "competition": "Premier League",
      "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Stade Rennais",
-     "away": "Lille",
+     "home": "Brighton Hove",
+     "away": "Brentford",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Crystal Palace",
-     "away": "Liverpool",
+     "home": "Sunderland",
+     "away": "Chelsea",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Monza",
+     "away": "Atalanta",
      "status": "TIMED",
      "score": null
     },
@@ -430,18 +430,26 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-08T15:30:00Z",
+     "home": "CD Nacional",
+     "away": "Acad. Viseu",
+     "status": "TIMED",
+     "score": "0-0"
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-08T15:30:00Z",
      "home": "Santa Clara",
      "away": "Gil Vicente",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-08T15:30:00Z",
-     "home": "CD Nacional",
-     "away": "Acad. Viseu",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-08T15:45:00Z",
+     "home": "Cambuur",
+     "away": "PSV",
      "status": "TIMED",
-     "score": "0-0"
+     "score": null
     },
     {
      "competition": "Eredivisie",
@@ -452,10 +460,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-08T15:45:00Z",
-     "home": "Cambuur",
-     "away": "PSV",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-08T16:15:00Z",
+     "home": "Brest",
+     "away": "Olympique Lyon",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-08T16:15:00Z",
+     "home": "Angers SCO",
+     "away": "Nice",
      "status": "TIMED",
      "score": null
     },
@@ -476,18 +492,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-08T16:15:00Z",
-     "home": "Angers SCO",
-     "away": "Nice",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-08T16:15:00Z",
-     "home": "Brest",
-     "away": "Olympique Lyon",
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-08T16:30:00Z",
+     "home": "Man United",
+     "away": "Aston Villa",
      "status": "TIMED",
      "score": null
     },
@@ -496,14 +504,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-08T16:30:00Z",
      "home": "Freiburg",
      "away": "Union Berlin",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-08T16:30:00Z",
-     "home": "Man United",
-     "away": "Aston Villa",
      "status": "TIMED",
      "score": null
     },
@@ -518,16 +518,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-08T17:30:00Z",
-     "home": "Villarreal",
-     "away": "Getafe",
+     "home": "Celta",
+     "away": "Levante",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-08T17:30:00Z",
-     "home": "Celta",
-     "away": "Levante",
+     "home": "Villarreal",
+     "away": "Getafe",
      "status": "TIMED",
      "score": null
     },
@@ -556,18 +556,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-08T19:45:00Z",
-     "home": "Fiorentina",
-     "away": "Juventus",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-08T19:45:00Z",
      "home": "RC Lens",
      "away": "Marseille",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-08T19:45:00Z",
+     "home": "Fiorentina",
+     "away": "Juventus",
      "status": "TIMED",
      "score": null
     },
@@ -582,16 +582,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-08T20:30:00Z",
-     "home": "Rio Ave",
-     "away": "Braga",
+     "home": "Amadora",
+     "away": "SL Benfica",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-08T20:30:00Z",
-     "home": "Amadora",
-     "away": "SL Benfica",
+     "home": "Rio Ave",
+     "away": "Braga",
      "status": "TIMED",
      "score": null
     }
@@ -1109,7 +1109,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#10",
-     "title": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
+     "title": "'Curtains for Robinson' or can foundering Aberdeen boss survive?",
      "published": "2026-11-08T00:04:00+00:00",
      "summary": "Will the \"unacceptable\" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?"
     },
@@ -1205,153 +1205,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Inter Miami blows 3-0 lead, settle for 3-3 draw vs Charlotte FC in regular season finale - Social News XYZ",
+     "published": "2026-11-08T08:40:43+00:00",
+     "summary": "Inter Miami blows 3-0 lead, settle for 3-3 draw vs Charlotte FC in regular season finale Social News XYZ"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Lionel Messi makes MLS History with second consecutive Golden Boot award - t2ONLINE",
      "published": "2026-11-08T08:01:00+00:00",
      "summary": "Lionel Messi makes MLS History with second consecutive Golden Boot award t2ONLINE"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Inter Miami star Lionel Messi makes MLS history with incredible back-to-back Golden Boot awards - Yahoo Sports",
      "published": "2026-11-08T07:33:00+00:00",
      "summary": "Inter Miami star Lionel Messi makes MLS history with incredible back-to-back Golden Boot awards Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Video: result and goals of Inter Miami's match: Lionel Messi makes history | Goal.com South Africa - Goal.com",
      "published": "2026-11-08T07:26:10+00:00",
      "summary": "Video: result and goals of Inter Miami's match: Lionel Messi makes history | Goal.com South Africa Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
-     "title": "Messi makes history with MLS Golden Boot - BBC",
-     "published": "2026-11-08T07:23:50+00:00",
-     "summary": "Messi makes history with MLS Golden Boot BBC"
+     "ref": "gnews_inter_miami#4",
+     "title": "Messi makes history with MLS Golden Boot - Yahoo Sports",
+     "published": "2026-11-08T07:23:00+00:00",
+     "summary": "Messi makes history with MLS Golden Boot Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Messi makes MLS history with back-to-back Golden Boot awards - Latest news from Azerbaijan",
      "published": "2026-11-08T07:12:36+00:00",
      "summary": "Messi makes MLS history with back-to-back Golden Boot awards Latest news from Azerbaijan"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Inter Miami vs Charlotte: Major League Soccer stats & head-to-head - BBC",
      "published": "2026-11-08T06:51:11+00:00",
      "summary": "Inter Miami vs Charlotte: Major League Soccer stats & head-to-head BBC"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
+     "title": "Lionel Messi makes history by retaining MLS golden boot title - Eastern Daily Press",
+     "published": "2026-11-08T05:22:06+00:00",
+     "summary": "Lionel Messi makes history by retaining MLS golden boot title Eastern Daily Press"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
      "title": "Full-Time Clip: Three Goal Second Half Propel Charlotte FC to 3-3 Draw Versus Inter Miami CF - Charlotte FC",
      "published": "2026-11-08T05:09:08+00:00",
      "summary": "Full-Time Clip: Three Goal Second Half Propel Charlotte FC to 3-3 Draw Versus Inter Miami CF Charlotte FC"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "Lionel Messi becomes first player to win MLS Golden Boot in consecutive seasons - Sportstar",
      "published": "2026-11-08T05:04:41+00:00",
      "summary": "Lionel Messi becomes first player to win MLS Golden Boot in consecutive seasons Sportstar"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#10",
      "title": "Inter Miami’s Lionel Messi Makes MLS History as Golden Boot Winner - Heavy.com",
      "published": "2026-11-08T04:32:00+00:00",
      "summary": "Inter Miami’s Lionel Messi Makes MLS History as Golden Boot Winner Heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "Messi scripts MLS history with second straight Golden Boot - Rediff",
-     "published": "2026-11-08T03:46:14+00:00",
-     "summary": "Messi scripts MLS history with second straight Golden Boot Rediff"
-    },
-    {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Messi claims second straight Golden Boot as Nashville sets points record on MLS Decision Day - The Guardian",
      "published": "2026-11-08T03:32:00+00:00",
      "summary": "Messi claims second straight Golden Boot as Nashville sets points record on MLS Decision Day The Guardian"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi wins MLS Golden Boot for second consecutive time - Yahoo Sports",
      "published": "2026-11-08T03:10:00+00:00",
      "summary": "Lionel Messi wins MLS Golden Boot for second consecutive time Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Messi becomes first to win MLS Golden Boot in consecutive seasons - Reuters",
      "published": "2026-11-08T03:06:00+00:00",
      "summary": "Messi becomes first to win MLS Golden Boot in consecutive seasons Reuters"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Lionel Messi wins MLS Golden Boot for second straight year with 26 goals for Inter Miami - Yahoo Sports",
      "published": "2026-11-08T03:06:00+00:00",
      "summary": "Lionel Messi wins MLS Golden Boot for second straight year with 26 goals for Inter Miami Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Inter Miami ends regular season with 3-3 tie vs. Charlotte FC - Miami Herald",
      "published": "2026-11-08T02:56:25+00:00",
      "summary": "Inter Miami ends regular season with 3-3 tie vs. Charlotte FC Miami Herald"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Inter Miami's Lionel Messi wins 2026 MLS Golden Boot presented by Audi - MLSsoccer.com",
      "published": "2026-11-08T02:22:03+00:00",
      "summary": "Inter Miami's Lionel Messi wins 2026 MLS Golden Boot presented by Audi MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami CF Forward Lionel Messi Wins 2026 MLS Golden Boot Presented by Audi - MLSsoccer.com",
      "published": "2026-11-08T02:19:07+00:00",
      "summary": "Inter Miami CF Forward Lionel Messi Wins 2026 MLS Golden Boot Presented by Audi MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Leo Messi Adds Another Milestone by Becoming First Player in MLS History to Secure the Golden Boot in Consecutive Seasons - Inter Miami CF",
      "published": "2026-11-08T02:16:01+00:00",
      "summary": "Leo Messi Adds Another Milestone by Becoming First Player in MLS History to Secure the Golden Boot in Consecutive Seasons Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi makes history as 1st back-to-back MLS Golden Boot winner - ESPN",
      "published": "2026-11-08T02:15:44+00:00",
      "summary": "Lionel Messi makes history as 1st back-to-back MLS Golden Boot winner ESPN"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Messi’s Miami survive defensive horror show to clinch playoff advantage - Malay Mail",
      "published": "2026-11-08T01:36:57+00:00",
      "summary": "Messi’s Miami survive defensive horror show to clinch playoff advantage Malay Mail"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
+     "title": "Columbus Crew earn playoff date with Leo Messi & Inter Miami - MLSsoccer.com",
+     "published": "2026-11-08T01:27:28+00:00",
+     "summary": "Columbus Crew earn playoff date with Leo Messi & Inter Miami MLSsoccer.com"
+    },
+    {
+     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami dropped an incredible 3-0 lead, but Messi is still close to setting a US soccer record. - Vietnam.vn",
      "published": "2026-11-08T01:26:54+00:00",
      "summary": "Inter Miami dropped an incredible 3-0 lead, but Messi is still close to setting a US soccer record. Vietnam.vn"
     },
     {
-     "ref": "gnews_inter_miami#21",
-     "title": "Columbus Crew earn playoff date with Leo Messi & Inter Miami - Yahoo Sports",
-     "published": "2026-11-08T01:24:00+00:00",
-     "summary": "Columbus Crew earn playoff date with Leo Messi & Inter Miami Yahoo Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Nashville SC dethrones Messi's Miami with best-ever MLS regular season - USA Today",
      "published": "2026-11-08T01:13:00+00:00",
      "summary": "Nashville SC dethrones Messi's Miami with best-ever MLS regular season USA Today"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "MIAMI, United States — Lionel Messi's Inter Miami clung on for second place in the Eastern Conference with a wasteful 3-3 draw against Charlotte on the final day of the MLS regular season Saturday. Read more: https://tmt.news/2464624 - LinkedIn",
      "published": "2026-11-08T01:03:01+00:00",
      "summary": "MIAMI, United States — Lionel Messi's Inter Miami clung on for second place in the Eastern Conference with a wasteful 3-3 draw against Charlotte on the final day of the MLS regular season Saturday. Read more: https://tmt.news/2464624 LinkedIn"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Messi's Miami cling to second spot on dramatic final MLS day - The Manila Times",
-     "published": "2026-11-08T00:45:00+00:00",
-     "summary": "Messi's Miami cling to second spot on dramatic final MLS day The Manila Times"
     }
    ]
   },
@@ -1496,12 +1496,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "title": "Deni Avdija approaches a triple-double Wednesday night - FantasyPros",
      "published": "2026-11-05T14:59:31+00:00",
      "summary": "Deni Avdija approaches a triple-double Wednesday night FantasyPros"
-    },
-    {
-     "ref": "gnews_israeli_nba#23",
-     "title": "Deni Avdija Leads Trail Blazers Past Suns 132-119 With 12 Assists - SportsRation",
-     "published": "2026-11-05T08:55:46+00:00",
-     "summary": "Deni Avdija Leads Trail Blazers Past Suns 132-119 With 12 Assists SportsRation"
     }
    ]
   }

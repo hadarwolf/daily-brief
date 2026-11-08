@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-08T09:21:26+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Georgia U.S. Senate Election Live Results 2026 - AP News",
+     "published": "2026-11-08T09:21:25+00:00",
+     "summary": "Georgia U.S. Senate Election Live Results 2026 AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-11-08T09:04:08+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Crime - AP News",
+     "published": "2026-11-08T09:04:08+00:00",
+     "summary": "Crime AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Rugby - AP News",
+     "published": "2026-11-08T09:02:49+00:00",
+     "summary": "Rugby AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "War and unrest - AP News",
+     "published": "2026-11-08T08:59:31+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "2026 U.S. House Election Results - AP News",
+     "published": "2026-11-08T08:59:30+00:00",
+     "summary": "2026 U.S. House Election Results AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Soccer - AP News",
+     "published": "2026-11-08T08:55:30+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-08T08:45:56+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "United States - AP News",
      "published": "2026-11-08T08:40:07+00:00",
      "summary": "United States AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#10",
+     "title": "New York City - AP News",
+     "published": "2026-11-08T08:40:06+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#11",
      "title": "College sports - AP News",
      "published": "2026-11-08T08:40:05+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#12",
      "title": "South America - AP News",
      "published": "2026-11-08T08:38:10+00:00",
      "summary": "South America AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#13",
      "title": "Minnesota - AP News",
      "published": "2026-11-08T08:38:07+00:00",
      "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#14",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-08T08:38:06+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "Central America - AP News",
      "published": "2026-11-08T08:32:21+00:00",
      "summary": "Central America AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#16",
+     "title": "2026 World Cup venue map - AP News",
+     "published": "2026-11-08T08:32:18+00:00",
+     "summary": "2026 World Cup venue map AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "AP News Search - AP News",
+     "published": "2026-11-08T08:30:29+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election - AP News",
      "published": "2026-11-08T08:24:00+00:00",
      "summary": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "Rugby - AP News",
-     "published": "2026-11-08T08:04:12+00:00",
-     "summary": "Rugby AP News"
+     "ref": "ap_world#19",
+     "title": "Sports - Europe - AP News",
+     "published": "2026-11-08T08:07:57+00:00",
+     "summary": "Sports - Europe AP News"
     },
     {
-     "ref": "ap_world#7",
-     "title": "War and unrest - AP News",
-     "published": "2026-11-08T08:00:02+00:00",
-     "summary": "War and unrest AP News"
+     "ref": "ap_world#20",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-11-08T07:38:06+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#21",
      "title": "2026 Washington Midterm Election Results - AP News",
      "published": "2026-11-08T07:37:39+00:00",
      "summary": "2026 Washington Midterm Election Results AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#22",
+     "title": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22 - AP News",
+     "published": "2026-11-08T07:23:00+00:00",
+     "summary": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22 AP News"
+    },
+    {
+     "ref": "ap_world#23",
      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary - AP News",
      "published": "2026-11-08T07:10:00+00:00",
      "summary": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary AP News"
     },
     {
-     "ref": "ap_world#10",
-     "title": "New York City - AP News",
-     "published": "2026-11-08T06:26:46+00:00",
-     "summary": "New York City AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "Carr helps lead No. 4 Notre Dame past No. 1 Miami, 31-24 - AP News",
-     "published": "2026-11-08T06:23:00+00:00",
-     "summary": "Carr helps lead No. 4 Notre Dame past No. 1 Miami, 31-24 AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "2026 California Proposition 39 Election Live Results - AP News",
-     "published": "2026-11-08T06:06:53+00:00",
-     "summary": "2026 California Proposition 39 Election Live Results AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Elija Lofton’s near-catch for Miami becomes latest entry in Canes-Irish rivalry lore - AP News",
-     "published": "2026-11-08T05:33:00+00:00",
-     "summary": "Elija Lofton’s near-catch for Miami becomes latest entry in Canes-Irish rivalry lore AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Texas high school football playoff pairings - AP News",
-     "published": "2026-11-08T05:33:00+00:00",
-     "summary": "Texas high school football playoff pairings AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "No. 4 Notre Dame takes big lead, then holds off No. 1 Miami 31-24 in a classic - AP News",
-     "published": "2026-11-08T05:27:00+00:00",
-     "summary": "No. 4 Notre Dame takes big lead, then holds off No. 1 Miami 31-24 in a classic AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "The Kremlin hopes the US election shake-up won’t shift Trump’s negotiations on Ukraine - AP News",
-     "published": "2026-11-08T05:00:00+00:00",
-     "summary": "The Kremlin hopes the US election shake-up won’t shift Trump’s negotiations on Ukraine AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Sidney Crosby takes sole possession of 6th on NHL scoring list in Penguins' 5-2 win over Kings - AP News",
-     "published": "2026-11-08T04:53:00+00:00",
-     "summary": "Sidney Crosby takes sole possession of 6th on NHL scoring list in Penguins' 5-2 win over Kings AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Jake Fette throws, catches a TD pass in Arizona State’s 20-10 win over Colorado - AP News",
-     "published": "2026-11-08T04:52:00+00:00",
-     "summary": "Jake Fette throws, catches a TD pass in Arizona State’s 20-10 win over Colorado AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "No. 4 Notre Dame's win over No. 1 Miami is payback for 2025 and solidifies its positioning for CFP - AP News",
-     "published": "2026-11-08T04:49:00+00:00",
-     "summary": "No. 4 Notre Dame's win over No. 1 Miami is payback for 2025 and solidifies its positioning for CFP AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Blackwood makes 27 saves, Necas has 4 points, Avs beat Wings 4-0 - AP News",
-     "published": "2026-11-08T04:43:00+00:00",
-     "summary": "Blackwood makes 27 saves, Necas has 4 points, Avs beat Wings 4-0 AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Canadian Football League Playoff Glance - AP News",
-     "published": "2026-11-08T04:36:00+00:00",
-     "summary": "Canadian Football League Playoff Glance AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-11-08T04:29:29+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Michigan State makes 5 field goals, forces 4 turnovers and has 5 sacks in 15-6 win over Michigan - AP News",
-     "published": "2026-11-08T04:29:00+00:00",
-     "summary": "Michigan State makes 5 field goals, forces 4 turnovers and has 5 sacks in 15-6 win over Michigan AP News"
-    },
-    {
      "ref": "ap_world#24",
-     "title": "Maryland Governor Election Live Results 2026 - AP News",
-     "published": "2026-11-08T04:20:39+00:00",
-     "summary": "Maryland Governor Election Live Results 2026 AP News"
+     "title": "Texas Attorney General Election Live Results 2026 - AP News",
+     "published": "2026-11-08T07:04:27+00:00",
+     "summary": "Texas Attorney General Election Live Results 2026 AP News"
     }
    ]
   },
@@ -414,153 +414,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "South Africa's ANC battered by local election losses ahead of coalition talks - Reuters",
+     "published": "2026-11-08T08:53:37+00:00",
+     "summary": "South Africa's ANC battered by local election losses ahead of coalition talks Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says - Reuters",
+     "published": "2026-11-08T08:52:12+00:00",
+     "summary": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Gulf markets retreat as traders await Trump's next move on Iran - Reuters",
      "published": "2026-11-08T08:21:43+00:00",
      "summary": "Gulf markets retreat as traders await Trump's next move on Iran Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
      "title": "Saudi-led coalition intercepts two Houthi missiles fired towards Riyadh - Reuters",
      "published": "2026-11-08T05:24:00+00:00",
      "summary": "Saudi-led coalition intercepts two Houthi missiles fired towards Riyadh Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "Iran executes three men over armed unrest during January protests - Reuters",
      "published": "2026-11-08T04:41:00+00:00",
      "summary": "Iran executes three men over armed unrest during January protests Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "Astellas employee imprisoned in China to be released in December, Japanese media report - Reuters",
      "published": "2026-11-08T03:49:00+00:00",
      "summary": "Astellas employee imprisoned in China to be released in December, Japanese media report Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "Who is Qiulae Wong, the outsider who could decide New Zealand's next government? - Reuters",
      "published": "2026-11-08T01:24:00+00:00",
      "summary": "Who is Qiulae Wong, the outsider who could decide New Zealand's next government? Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "Explainer: What happens next after New Zealand's vote? - Reuters",
      "published": "2026-11-07T23:47:20+00:00",
      "summary": "Explainer: What happens next after New Zealand's vote? Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters",
      "published": "2026-11-07T22:49:13+00:00",
      "summary": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital - Reuters",
      "published": "2026-11-07T22:48:58+00:00",
      "summary": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Guatemalan lawmaker, three police officers killed in armed attack - Reuters",
      "published": "2026-11-07T22:45:43+00:00",
      "summary": "Guatemalan lawmaker, three police officers killed in armed attack Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Police officer's home in France destroyed by fire, interior minister says - Reuters",
      "published": "2026-11-07T22:06:52+00:00",
      "summary": "Police officer's home in France destroyed by fire, interior minister says Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Explosions heard in areas in southern Iran, Iranian media report - Reuters",
      "published": "2026-11-07T21:57:14+00:00",
      "summary": "Explosions heard in areas in southern Iran, Iranian media report Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "US military says it disabled cargo vessel in Gulf of Oman - Reuters",
      "published": "2026-11-07T21:22:00+00:00",
      "summary": "US military says it disabled cargo vessel in Gulf of Oman Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "Trump orders DOJ to look into Democrats for 'threatening' people - Reuters",
      "published": "2026-11-07T20:13:18+00:00",
      "summary": "Trump orders DOJ to look into Democrats for 'threatening' people Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "After close vote, New Zealand must wait weeks for new government - Reuters",
      "published": "2026-11-07T18:05:00+00:00",
      "summary": "After close vote, New Zealand must wait weeks for new government Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call - Reuters",
      "published": "2026-11-07T18:01:39+00:00",
      "summary": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Egypt reopens embassy in Libya's Tripoli after 12-year closure - Reuters",
      "published": "2026-11-07T17:20:56+00:00",
      "summary": "Egypt reopens embassy in Libya's Tripoli after 12-year closure Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen - Reuters",
      "published": "2026-11-07T16:35:43+00:00",
      "summary": "Syria denies plans to send troops to Yemen as Saudi military ties deepen Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal - Reuters",
      "published": "2026-11-07T15:59:25+00:00",
      "summary": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "EXCLUSIVE: Rubio warns top staff against conflicts of interest as Republicans look to 2028 - Reuters",
      "published": "2026-11-07T15:11:47+00:00",
      "summary": "EXCLUSIVE: Rubio warns top staff against conflicts of interest as Republicans look to 2028 Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "Poland in shock after six die in Krakow mass shooting - Reuters",
      "published": "2026-11-07T15:08:00+00:00",
      "summary": "Poland in shock after six die in Krakow mass shooting Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "After midterm rout, Vance tries to build his own 2028 brand - Reuters",
      "published": "2026-11-07T15:05:38+00:00",
      "summary": "After midterm rout, Vance tries to build his own 2028 brand Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing - Reuters",
      "published": "2026-11-07T15:02:21+00:00",
      "summary": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour - Reuters",
      "published": "2026-11-07T13:58:00+00:00",
      "summary": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters",
-     "published": "2026-11-07T13:36:00+00:00",
-     "summary": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Putin expands temporary administration of Japan Tobacco assets in Russia - Reuters",
-     "published": "2026-11-07T13:29:20+00:00",
-     "summary": "Putin expands temporary administration of Japan Tobacco assets in Russia Reuters"
     }
    ]
   }

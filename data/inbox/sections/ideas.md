@@ -230,12 +230,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Pollution as Growth Killer",
      "published": "2026-11-05T12:17:06+00:00",
      "summary": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am interviewed; here is one bit: Q. Doesn’t the demographic dividend argue for growth first? The demographic dividend is people. […] The post Pollution as Growth Killer appeared first on Mar"
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Social media and political radicalization",
-     "published": "2026-11-05T09:19:09+00:00",
-     "summary": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly moderate results, repudiations of both Trump and the extreme Democratic left. You may or may not like those results, […] The post Social media and political radicalization appeared "
     }
    ]
   },
@@ -252,15 +246,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#1",
-     "title": "How to take notes that actually help you learn",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
-    },
-    {
-     "ref": "psyche#2",
      "title": "Who am I if I don’t run?",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
+    },
+    {
+     "ref": "psyche#2",
+     "title": "How to take notes that actually help you learn",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     },
     {
      "ref": "psyche#3",
