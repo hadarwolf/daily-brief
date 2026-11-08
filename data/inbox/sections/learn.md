@@ -24,142 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2000,
-   "text": "Hillary Clinton was elected as a US senator from New York, the first time a first lady had been elected to public office.",
+   "year": 2020,
+   "text": "Second Nagorno-Karabakh War: Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.",
    "context": [
-    "Hillary Diane Rodham Clinton is an American politician, lawyer and diplomat. She was the 67th United States secretary of state in the administration of Barack Obama from 2009 to 2013, a U.S. senator representing New York from 2001 to 2009, and the first lady of the United States from 1993 to 2001 as the wife of Bill Clinton. A member of the Democratic Party, she was the party's nominee in the 2016 presidential election, becoming the first woman to win a presidential nomination by a major U.S. political party. Clinton won the popular vote but lost the election to Republican Party nominee Donald Trump in the United States Electoral College. She is the only first lady of the United States to have run for, or held, elected office."
+    "The Second Nagorno-Karabakh War was an armed conflict in 2020 that took place in the disputed region of Nagorno-Karabakh and the surrounding occupied territories. It was a major escalation of an unresolved conflict over the region, involving Azerbaijan, Armenia and the self-declared Armenian breakaway state of Artsakh. The war lasted for 44 days and resulted in Azerbaijani victory, with the defeat igniting anti-government protests in Armenia. Post-war skirmishes continued in the region, including substantial clashes in 2022."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1996,
-   "text": "NASA launched Mars Global Surveyor from the Kennedy Space Center at Cape Canaveral, Florida.",
+   "year": 2017,
+   "text": "The Louvre Abu Dhabi was inaugurated by the French president Emmanuel Macron and then-crown prince of Abu Dhabi Mohamed bin Zayed Al Nahyan.",
    "context": [
-    "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the United States' civil space program, as well as research in aeronautics and space. Headquartered in Washington, D.C., NASA operates ten field centers across the US and is organized into three mission directorates: Human Spaceflight, Research and Technology, and Science. Established in 1958 amid the Space Race, NASA succeeded the National Advisory Committee for Aeronautics (NACA) to give the US space program a distinct civilian orientation focused on peaceful applications. Since then, it has led most American spaceflight programs, including Project Mercury, Project Gemini, the Apollo program, Skylab, the Space Shuttle, the International Space Station (ISS), and the ongoing multinational Artemis program."
+    "The Louvre Abu Dhabi is an art museum located on Saadiyat Island in Abu Dhabi, United Arab Emirates. It runs under an agreement between the UAE and France, signed in March 2007, that allows it to use the Louvre's name until 2047, and has been described by the Louvre as \"France's largest cultural project abroad.\" It is approximately 24,000 square metres (260,000 ft2) in size, with 8,000 square metres (86,000 ft2) of galleries, making it the largest art museum in the Arabian Peninsula. Artworks from around the world are showcased at the museum, with stated intent to bridge the gap between Eastern and Western art. Louvre Abu Dhabi is one of the first completed projects of the Saadiyat Cultural District, which Abu Dhabi intends to develop into \"a leading destination for art, history and culture.\""
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1991,
-   "text": "Magic Johnson announced his retirement from professional basketball due to HIV infection.",
+   "year": 2013,
+   "text": "Typhoon Haiyan made landfall in the Visayas region of the Philippines, killing at least 6,300 people, making it the deadliest Philippine typhoon recorded in modern history.",
    "context": [
-    "Earvin \"Magic\" Johnson Jr. is an American businessman and former professional basketball player. He is widely regarded as the greatest point guard of all time and one of the greatest basketball players in history. Johnson spent his entire career with the Los Angeles Lakers in the National Basketball Association (NBA). After winning a national championship with the Michigan State Spartans in 1979, Johnson was selected first overall in the 1979 NBA draft by the Lakers, then led the team to five NBA championships during their \"Showtime\" era. Johnson retired abruptly in 1991 after announcing that he had contracted HIV, but returned to play in the 1992 All-Star Game, winning the All-Star MVP Award. He retired again after fellow players protested his return, but returned in 1996, at age 36, to play 32 games for the Lakers before retiring for the third and final time."
+    "Typhoon Haiyan, known in the Philippines as Super Typhoon Yolanda, was an extremely powerful and catastrophic tropical cyclone that is among the most intense tropical cyclones ever recorded. Upon making landfall, Haiyan devastated portions of Southeast Asia, particularly the Philippines, during early November 2013. It is one of the deadliest typhoons on record in the Philippines, killing at least 6,300 people in the region of Visayas alone. It was the most intense and deadliest tropical cyclone worldwide in 2013."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1987,
-   "text": "Tunisian prime minister Zine El Abidine Ben Ali deposed and replaced President Habib Bourguiba by declaring him medically unfit for the duties of the office.",
+   "year": 1999,
+   "text": "German newspaper Der Spiegel publishes a report by the Federal Intelligence Service accusing figures in Liechtenstein of cooperating with organized crime.",
    "context": [
-    "Zine El Abidine Ben Ali, commonly known as Ben Ali or Ezzine, was a Tunisian politician, military officer and dictator who served as the second president of Tunisia from 1987 to 2011. In that year, during the Tunisian revolution, he was overthrown and fled to Saudi Arabia."
+    "Der Spiegel is a German weekly news magazine published in Hamburg. With a weekly circulation of about 724,000 copies in 2022, it is one of the largest such publications in Europe. It was founded in 1947 by John Seymour Chaloner, a British army officer, and Rudolf Augstein, a former Wehrmacht radio operator who was recognized in 2000 by the International Press Institute as one of the fifty World Press Freedom Heroes."
    ]
   },
   {
    "ref": "wikipedia#4",
    "year": 1987,
-   "text": "Singapore's first Mass Rapid Transit line opened, with train services running between Yio Chu Kang and Toa Payoh.",
+   "text": "A Provisional Irish Republican Army bomb exploded during a Remembrance Sunday ceremony in Enniskillen, Northern Ireland, killing 12 people and injuring 63 others.",
    "context": [
-    "The Mass Rapid Transit (MRT) is a rapid transit system in Singapore and the island country's principal mode of railway transportation. After two decades of planning, the system commenced operations in November 1987 with an initial 6 km (3.7 mi) stretch consisting of five stations. The network has since grown to span the length and breadth of the country's main island – with the exception of the forested core and the rural northwestern region – in accordance with Singapore's aim of developing a comprehensive rail network as the backbone of the country's public transportation system, averaging a daily ridership of 3.49 million in 2025."
+    "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. It was the most active republican paramilitary group during the Troubles. It argued that the all-island Irish Republic continued to exist, and it saw itself as that state's army, the sole legitimate successor to the original IRA from the Irish War of Independence. It was designated a terrorist organisation in the United Kingdom and an unlawful organisation in the Republic of Ireland, both of whose authority it rejected."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1972,
-   "text": "A ship collision with the Sidney Lanier Bridge in the U.S. state of Georgia resulted in a bridge collapse (pictured), which killed ten people.",
+   "year": 1974,
+   "text": "British peer Lord Lucan disappeared without a trace, a day after allegedly murdering Sandra Rivett, his children's nanny.",
    "context": [
-    "The Sidney Lanier Bridge is a cable-stayed bridge that spans the Brunswick River in Brunswick, Georgia, United States. The bridge is named after Georgia-born poet Sidney Lanier and carries part of U.S. Route 17 in Georgia. It was also the name of an earlier bridge which was next to the current site."
+    "Richard John Bingham, 7th Earl of Lucan, commonly known as Lord Lucan, was a British peer and gambler who vanished in 1974 after being suspected of killing Sandra Rivett, his children's nanny, and attempting to murder his wife. An evacuee during World War II, Lucan attended Eton College and served with the Coldstream Guards in West Germany from 1953 to 1955. He developed a taste for gambling, playing backgammon and bridge, and became an early member of the exclusive group of wealthy British gamblers at the Clermont Club. His losses often exceeded his winnings, yet he left his job at a London-based merchant bank and became a professional gambler. He was known as Lord Bingham from April 1949 until January 1964."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1949,
-   "text": "Oil was discovered in the Caspian Sea off the coast of Azerbaijan, leading to the construction of Neft Daşları, the world's first offshore oil platform.",
+   "year": 1971,
+   "text": "The English rock group Led Zeppelin released their fourth album, which became one of the best-selling albums worldwide.",
    "context": [
-    "The Caspian Sea is the world's largest inland body of water, also described as the world's largest lake and usually referred to as a full-fledged sea. An endorheic basin, it is situated in both Europe and Asia: east of the Caucasus, west of the broad steppe of Central Asia, south of the fertile plains of Southern Russia in Eastern Europe, and north of the mountainous Iranian Plateau. It covers a surface area of 371,000 km2 (143,244 sq mi), an area similar to Japan, with a volume of 78,200 km3 (19,000 cu mi). It has a salinity of approximately 1.2%, about a third of the salinity of average seawater. It is bounded by Kazakhstan to the northeast, Russia to the northwest, Azerbaijan to the southwest, Iran to the south, and Turkmenistan to the southeast. The name of the Caspian Sea is derived from the ancient Iranic Caspi people."
+    "Led Zeppelin were an English rock band formed in London in 1968. The band comprised vocalist Robert Plant, guitarist Jimmy Page, bass-guitarist and keyboardist John Paul Jones and drummer John Bonham. Their combination of a heavy electric-guitar sound with elements of blues and folk music popularised album-oriented rock and stadium rock and established them as the progenitor of hard rock and heavy metal. They are amongst the best-selling music artists of all time, with an estimated 200 to 300 million records sold worldwide."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1934,
-   "text": "The first specimens of the tufted jay (pictured) to be scientifically described were collected in Mexico.",
+   "year": 1966,
+   "text": "Former Massachusetts attorney general Edward Brooke (pictured) became the first African American to be elected to the United States Senate since Reconstruction.",
    "context": [
-    "The tufted jay, also known as the painted jay and Dickey's jay, is a species of bird in the crow family Corvidae. It is endemic to a small area of the Sierra Madre Occidental in the Mexican states of Sinaloa, Durango, and Nayarit. A distinctive large jay, it has a prominent dark crest on its head; purplish blue back, wings, and face; a white spot above the eye and on the cheek; white undersides; and a partially white tail. Its typical call is a quick, four-note vocalization."
+    "Massachusetts, officially the Commonwealth of Massachusetts, is a state in the New England region of the Northeastern United States. It borders the Atlantic Ocean and the Gulf of Maine to its east, Connecticut and Rhode Island to its south, New Hampshire and Vermont to its north, and New York to its west. Massachusetts is the seventh-smallest state by land area. With an estimated population of over 7.1 million, it is the most populous state in New England, the 16th-most-populous in the United States, and the third-most densely populated U.S. state after New Jersey and Rhode Island."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1917,
-   "text": "World War I: British forces captured Gaza following the retreat of the Ottoman garrison.",
+   "year": 1965,
+   "text": "Vietnam War: In the Battle of Gang Toi, one of the earliest battles between the two sides, Viet Cong forces repelled an Australian attack.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 and peaked in 1969. After this, the US scaled back involvement until US forces were completely withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1916,
-   "text": "Jeannette Rankin (pictured) became the first woman to be elected to the United States House of Representatives.",
+   "year": 1957,
+   "text": "En route from San Francisco to Honolulu, Pan Am Flight 7 crashed into the Pacific Ocean due to unknown causes, killing all 44 people on board.",
    "context": [
-    "Jeannette Pickering Rankin was an American politician and women's rights advocate who became the first woman to hold federal office in the United States. She was elected to the U.S. House of Representatives as a Republican from Montana in 1916 for one term, then was elected again in 1940. Rankin remains the only woman ever elected to Congress from Montana."
+    "Pan Am Flight 7 was a westbound round-the-world flight operated by Pan American World Airways. On November 8, 1957, the Boeing 377 Stratocruiser serving the flight, named Clipper Romance of the Skies, crashed in the Pacific Ocean en route to Honolulu International Airport from San Francisco. The crash killed all 36 passengers and eight crew members."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1893,
-   "text": "Between 20 and 30 people in the Grand Lyceum Theatre in Barcelona were killed in a terrorist attack  by Spanish anarchist Santiago Salvador.",
+   "year": 1940,
+   "text": "The Italian invasion of Greece failed as outnumbered Greek units repulsed the Italians at the Battle of Elaia–Kalamas.",
    "context": [
-    "The Gran Teatre del Liceu, or simply Liceu, is a theater in Barcelona, Spain. Situated on La Rambla, it is the city's oldest theater building still in use for its original purpose."
+    "The Greco-Italian War, also called the Italo-Greek War, took place between Italy and Greece from 28 October 1940 to 23 April 1941. This conflict began the Balkans campaign of World War II between the Axis powers and the Allies, and eventually turned into the Battle of Greece with British and German involvement. On 10 June 1940, Italy declared war on France and the United Kingdom. By September 1940, the Italians had invaded France, British Somaliland and Egypt. This was followed by a hostile press campaign in Italy against Greece, accused of being a British ally. A number of provocations culminated in the sinking of the Greek light cruiser Elli by the Italians on 15 August. On 28 October, Mussolini issued an ultimatum to Greece demanding the cession of Greek territory, which the Prime Minister of Greece, Ioannis Metaxas, rejected."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1861,
-   "text": "American Civil War: Future U.S. president Ulysses S. Grant engaged in his first combat leadership role in the Battle of Belmont in Mississippi County, Missouri.",
+   "year": 1932,
+   "text": "The Australian military withdrew from their \"war against emus\" in Western Australia, due to negative press coverage of the operation.",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "The Australian Defence Force (ADF) is the military organisation responsible for the defence of Australia and its national interests. It consists of three services: the Royal Australian Navy (RAN), the Australian Army and the Royal Australian Air Force (RAAF). The ADF has a strength of just over 90,000 personnel and is supported by the Department of Defence and other civilian entities that altogether constitute the Australian Defence Organisation."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1837,
-   "text": "American abolitionist Elijah Parish Lovejoy was murdered by a pro-slavery mob in Alton, Illinois, during an attack to destroy his printing press and abolitionist materials.",
+   "year": 1644,
+   "text": "The Shunzhi Emperor (portrait shown), the third emperor of the Qing dynasty, was enthroned in Beijing after the collapse of the Ming dynasty as the first Qing emperor to rule over China.",
    "context": [
-    "In the United States, abolitionism, the movement that sought to end chattel slavery in the country, was active from the colonial era until the American Civil War, the end of which brought about the abolition of American Chattel Slavery, except as punishment for a crime, through the Thirteenth Amendment to the United States Constitution."
+    "The Shunzhi Emperor, personal name Fulin, was the second emperor of the Qing dynasty, and the first Qing emperor to rule over China proper. Upon the death of his father Hong Taiji, a committee of Manchu princes chose the 5-year-old Fulin as successor. The princes also appointed two co-regents: Dorgon, the 14th son of Nurhaci, and Jirgalang, one of Nurhaci's nephews, both of whom were members of the Aisin-Gioro clan. In November 1644, the Shunzhi Emperor was enthroned as emperor of China in Beijing."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1825,
-   "text": "Jereboam O. Beauchamp murdered Kentucky legislator Solomon P. Sharp; Beauchamp later became the first person legally executed in the state.",
+   "year": 1520,
+   "text": "After his coronation as king of Sweden, Christian II (pictured) gave the order to execute nearly 100 people, mostly noblemen, despite promises of general amnesty.",
    "context": [
-    "Jereboam Orville Beauchamp was an American lawyer who murdered the Kentucky legislator Solomon P. Sharp; the crime is known as the Beauchamp–Sharp Tragedy. In 1821, Sharp had been accused in Bowling Green, Kentucky, by Anna Cooke of fathering her illegitimate child; it was stillborn.[a] Sharp denied paternity, and public opinion favored him. In 1824, Beauchamp married Cooke, who was seventeen years his senior. She asked him to kill Sharp to defend her honor."
+    "The monarchy of Sweden is centred on the monarchical head of state of Sweden, by law a constitutional and hereditary monarchy with a parliamentary system. There have been kings in what now is the Kingdom of Sweden for more than a millennium. Originally an elective monarchy, it became a hereditary monarchy in the 16th century during the reign of Gustav Vasa, though virtually all monarchs before that belonged to a limited and small number of political families which are considered to be the royal dynasties of Sweden."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1811,
-   "text": "Tecumseh's War: American forces led by William Henry Harrison defeated the forces of Shawnee leader Tecumseh's growing confederation at the Battle of Tippecanoe near present-day Battle Ground, Indiana.",
+   "year": 1291,
+   "text": "A law was passed that confined most of Venice's glassmaking industry to nearby Murano.",
    "context": [
-    "Tecumseh's War was a conflict between the United States and Tecumseh's confederacy, led by the Shawnee leader Tecumseh in the Indiana Territory. Although the war is often considered to have climaxed with William Henry Harrison's victory at the Battle of Tippecanoe in 1811, Tecumseh's War essentially continued into the War of 1812 and is frequently considered a part of that larger struggle. The war lasted for two more years, until 1813, when Tecumseh died fighting Harrison's Army of the Northwest at the Battle of Moraviantown in Upper Canada, near present-day Chatham, Ontario, and his confederacy disintegrated. Tecumseh's War is viewed by some academic historians as the final conflict of a longer-term military struggle for control of the Great Lakes region of North America, encompassing a number of wars over several generations, referred to as the Sixty Years' War."
+    "Venetian glass is glassware made in Venice, typically on the island of Murano near the city. Traditionally it is made with a soda–lime \"metal\" and is typically elaborately decorated, with various \"hot\" glass-forming techniques, as well as gilding, enamel, or engraving. Production has been concentrated on the Venetian island of Murano since the 13th century. Today Murano is known for its art glass, but it has a long history of innovations in glassmaking in addition to its artistic fame—and was Europe's major center for luxury glass from the High Middle Ages to the Italian Renaissance. During the 15th century, Murano glassmakers created cristallo—which was almost transparent and considered the finest glass in the world. Murano glassmakers also developed a white-colored glass that looked like porcelain. They later became Europe's finest makers of mirrors."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1723,
-   "text": "O Ewigkeit, du Donnerwort, BWV 60, a dialogue cantata by Johann Sebastian Bach for Leipzig, was first performed.",
+   "year": 1278,
+   "text": "Trần Thánh Tông, the second emperor of Vietnam's Trần dynasty, took up the title of retired emperor, but continued to co-rule with his son Nhân Tông for eleven more years.",
    "context": [
-    "O Ewigkeit, du Donnerwort, BWV 60, is a church cantata for the 24th Sunday after Trinity composed by Johann Sebastian Bach. It was first performed in Leipzig on 7 November 1723, and is part of Bach's first cantata cycle. It is one of Bach's dialogue cantatas: its topic, fear of death and hope of salvation, plays out mainly through a conversation between two allegorical figures, Fear and Hope."
+    "Trần Thánh Tông, personal name Trần Hoảng (陳晃), was the second emperor of the Trần dynasty, reigning over Đại Việt from 1258 to 1278. After ceding the throne to his son Trần Nhân Tông, Thánh Tông held the title of retired emperor from 1279 until his death in 1290. During the second and the third Mongol invasions of Đại Việt, Retired Emperor Thánh Tông and Emperor Nhân Tông were credited as the supreme commanders who led the nation to the final victories and, as a result, established a long period of peace and prosperity over the country. With his successful rulings in both military and civil matters, Trần Thánh Tông was considered one of the greatest emperors of not only the Trần dynasty but also the whole dynastic era in the history of Vietnam."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 680,
-   "text": "The Third Council of Constantinople convened to settle the Christological controversies of monoenergism and monothelitism.",
+   "year": 960,
+   "text": "Arab–Byzantine wars: Having been the target of many raids by the Emirate of Aleppo, Byzantine forces led by Leo Phokas the Younger ambushed the Hamdanids and annihilated their army.",
    "context": [
-    "The Third Council of Constantinople, counted as the Sixth Ecumenical Council by the Eastern Orthodox and Catholic Churches, and by certain other Western Churches, met in 680–681 and condemned monoenergism and monothelitism as heretical and defined Jesus Christ as having two energies and two wills."
+    "The Arab–Byzantine wars or Muslim–Byzantine wars were a series of wars from the 7th to 11th centuries between the successive Islamic caliphates and the Byzantine Empire. Following the Byzantine defeat at the Battle of the Yarmuk, Muslim armies conquered most Byzantine territory in the Levant, Egypt and North Africa within decades. Arab expansion subsequently slowed to a more gradual rate, following two failed sieges of the Byzantine capital of Constantinople in the late 7th and early 8th centuries. By the mid-9th century, the Byzantines had partially recovered and proceeded to recapture some of their lost territory in Anatolia in the following decades."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Creative destruction (הרס יצירתי)",
+  "Ballpark figure (הערכה גסה)",
+  "In the weeds (שקוע בפרטים הקטנים)",
   "Circuit breaker (מנתק מעגל)",
   "Risk-off (מצב הימנעות מסיכון)",
   "Throwing the baby out with the bathwater (לשפוך את התינוק עם המים)",
@@ -246,10 +249,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Eat your own dog food (לעשות דוגפודינג)",
   "Float (פלואט)",
   "Land and expand (לנחות ולהתרחב)",
-  "Catching a falling knife (לתפוס סכין נופל)",
-  "Earnout (תשלום מותנה בתוצאות)",
-  "Term sheet (גיליון תנאים)",
-  "Throw good money after bad (להשקיע כסף טוב על גבי כסף רע)"
+  "Catching a falling knife (לתפוס סכין נופל)"
  ]
 }
 </input>

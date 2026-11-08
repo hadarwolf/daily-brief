@@ -1,6 +1,6 @@
 {
- "date": "2026-11-07",
- "prepared_at": "2026-11-07T09:47:54+00:00",
+ "date": "2026-11-08",
+ "prepared_at": "2026-11-08T03:33:51+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -23,31 +23,17 @@
   "events": [
    {
     "sport": "soccer",
-    "competition": "Premier League",
-    "home": "Arsenal",
-    "away": "Hull City",
-    "kickoff_utc": "2026-11-07T15:00:00Z"
-   },
-   {
-    "sport": "soccer",
-    "competition": "American Major League Soccer",
-    "home": "Inter Miami",
-    "away": "Charlotte FC",
-    "kickoff_utc": "2026-11-07T21:00:00"
+    "competition": "Primera Division",
+    "home": "Atleti",
+    "away": "Barça",
+    "kickoff_utc": "2026-11-08T20:00:00Z"
    },
    {
     "sport": "nba",
     "competition": "NBA",
-    "home": "Atlanta Hawks",
+    "home": "Dallas Mavericks",
     "away": "Brooklyn Nets",
-    "kickoff_utc": "2026-11-08T00:30:00.000Z"
-   },
-   {
-    "sport": "nba",
-    "competition": "NBA",
-    "home": "Portland Trail Blazers",
-    "away": "San Antonio Spurs",
-    "kickoff_utc": "2026-11-08T03:00:00.000Z"
+    "kickoff_utc": "2026-11-09T00:30:00.000Z"
    }
   ]
  },
@@ -82,11 +68,11 @@
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 75978.5703,
+   "last": 75756.0703,
    "prev_close": 75746.9297,
-   "change_pct": 0.31,
-   "as_of": "2026-11-07"
+   "change_pct": 0.01,
+   "as_of": "2026-11-08"
   }
  },
- "essays_fetched": 4
+ "essays_fetched": 3
 }
