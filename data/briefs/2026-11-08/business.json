@@ -1,0 +1,96 @@
+{
+  "section": "business",
+  "date": "2026-11-08",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-08T03:49:42+00:00",
+  "stories": [
+    {
+      "id": "berkshire-buyback-earnings",
+      "kind": "analysis",
+      "en": {
+        "headline": "Berkshire Hathaway's $9.6 Billion Buyback, and Why Its Profit Fell Anyway",
+        "scroll": "Berkshire Hathaway spent a record $9.6 billion buying back its own stock even as quarterly profit fell 28%, because buybacks track cash and conviction, not GAAP earnings.",
+        "coffee": "Berkshire Hathaway spent a record $9.6 billion buying back its own shares in the third quarter — even as its net income fell 28% year-on-year. The split matters: management's buyback decision is a bet on intrinsic value, while the profit decline came mostly from a volatile, non-operating source. Operating income, which strips out investment gains and losses, slipped a milder 5.8%, as weaker insurance underwriting weighed on results. Net income, the full GAAP figure, fell much further because the paper gains on Berkshire's stock portfolio shrank versus a year ago — a swing that has little to do with how the underlying businesses actually performed.\n\nCEO Greg Abel is reading the operating businesses as healthy enough, and the stock as cheap enough, to justify the biggest buyback in the company's history, deploying some of Berkshire's enormous cash pile alongside acquisitions and new equity stakes. A buyback only makes sense if management believes the market price undervalues the business — otherwise it's better to hold cash or find something else to buy.\n\nThe timing is notable: Berkshire shares rose more than 5% this past week as investors fled the unwinding AI trade and rotated into a diversified conglomerate with little direct AI exposure — a reminder that in a selloff, not having the hot trade can itself become the safe one.",
+        "deep": "## Background: Reading a Conglomerate's Earnings\n\nBerkshire Hathaway isn't one business; it's a holding company that owns dozens of operating subsidiaries — insurance, railroads, utilities, manufacturing — plus a portfolio of publicly traded stocks worth hundreds of billions of dollars. That structure creates a reporting quirk that trips up casual readers of its earnings: under GAAP accounting rules, Berkshire has to include the quarter-to-quarter change in the market value of its stock holdings as part of net income, even though it hasn't sold a single share. Warren Buffett has long argued this makes headline net income close to meaningless quarter to quarter, and pushed investors toward operating earnings — profit from the actual businesses, insurance, rail, energy, manufacturing, retail — as the number that reflects real performance.\n\n## The Story\n\nThat's exactly the split in Berkshire's third-quarter results. Operating income fell a relatively modest 5.8% year-on-year, driven mainly by weaker insurance underwriting — the profit insurers make from premiums minus claims and expenses, before investment income. Net income, which folds in the swings in the value of Berkshire's stock portfolio, fell much further: 28%, because investment gains shrank compared with a year earlier. Same company, same quarter, two very different-looking numbers, because one measures the business and the other measures the market.\n\nAgainst that backdrop, Berkshire did something that looks almost contradictory: CEO Greg Abel's team spent a record $9.6 billion buying back Berkshire's own stock. A share buyback is a capital allocation decision — a company deciding that its own stock is the best use of its cash, better than paying it out as a dividend, holding it, or acquiring something else. Buffett has always framed Berkshire's buyback trigger around intrinsic value: the company only buys back stock when management believes the market price sits meaningfully below what the business is actually worth. A record-size buyback is effectively a public, dollar-denominated statement that management thinks the market is underpricing the business, even in the same quarter it reported a double-digit decline in net income. Abel is also putting Berkshire's famous mountain of cash to work through acquisitions and new equity stakes, not just buybacks — the point being that cash sitting idle is itself a decision, and not necessarily a cheap one once inflation and opportunity cost are factored in.\n\n## Second-Order Effects\n\nThe market reaction points to something broader than Berkshire itself. Berkshire shares climbed more than 5% over the week, even as the earnings release showed falling profit, because investors were rotating out of the AI trade that had dominated markets and into companies seen as insulated from it. A diversified conglomerate with railroads, insurance and utilities, and comparatively little exposure to AI infrastructure spending, became a kind of safe harbor precisely because it was boring. That's a classic flight-to-quality pattern: when a crowded, high-beta trade unwinds, capital doesn't just leave the market — it rotates into the parts of the market perceived to carry a durable economic moat and steady cash generation rather than speculative growth.\n\nIt's also a live example of why buyback announcements can move a stock independently of the earnings they accompany. A buyback shrinks the share count outstanding, mechanically boosting earnings per share and signaling management confidence, and can offset a soft headline number entirely if the market reads it as a vote of confidence from the people with the best information about the business — the insiders.\n\n## What to Watch Next\n\nThree threads are worth following from here. First, whether insurance underwriting improves or keeps dragging on operating income in the fourth quarter — that's the organic health of Berkshire's core business, separate from stock-market noise. Second, whether the buyback pace continues at this record rate or slows; a sustained high pace would say management still sees the stock as cheap, while a pullback could mean the valuation gap has closed. Third, watch where else Abel deploys Berkshire's cash pile — further acquisitions or new equity stakes would be the clearest signal of what the company sees as attractively priced in a market still digesting the end of the AI trade's one-way run."
+      },
+      "he": {
+        "headline": "רכישת המניות השיא של ברקשייר - ולמה הרווח בכל זאת צנח",
+        "scroll": "ברקשייר האת'וויי רכשה בחזרה מניות של עצמה בשיא של 9.6 מיליארד דולר, גם כשהרווח הרבעוני צנח ב-28%, כי רכישה עצמית (buyback) נשענת על מזומן ואמון בשווי - לא על הרווח החשבונאי.",
+        "coffee": "ברקשייר האת'וויי רכשה ברבעון השלישי מניות של עצמה בסכום שיא של 9.6 מיליארד דולר - וזאת בזמן שהרווח הנקי (net income) שלה צנח ב-28% לעומת התקופה המקבילה בשנה שעברה. הפער הזה חשוב: ההחלטה לרכוש מניות היא הימור הנהלה על השווי הפנימי (intrinsic value) של העסק, בעוד שהצניחה ברווח נבעה בעיקרה ממקור תנודתי שאינו קשור לתפעול השוטף. הרווח התפעולי (operating income), שמנקה רווחי והפסדי השקעות, ירד בצורה מתונה בהרבה - 5.8% - בעיקר על רקע היחלשות בחיתום הביטוחי (insurance underwriting). הרווח הנקי, המספר המלא לפי כללי החשבונאות המקובלים (GAAP), צנח הרבה יותר, כי רווחי ה\\\"נייר\\\" על תיק המניות של ברקשייר התכווצו לעומת השנה שעברה - תנודה שאין לה קשר ממשי לאופן שבו העסקים עצמם מתפקדים.\n\nהמנכ\\\"ל גרג אייבל (Greg Abel) קורא את העסקים התפעוליים כבריאים מספיק, ואת המניה כזולה מספיק, כדי להצדיק את רכישת המניות הגדולה בהיסטוריה של החברה, ומפעיל חלק מהר המזומנים העצום של ברקשייר גם לרכישות חברות ולהשקעות הון חדשות. רכישה עצמית הגיונית רק אם ההנהלה מאמינה שמחיר השוק מתמחר את העסק בחסר - אחרת עדיף להחזיק מזומן או לחפש השקעה אחרת.\n\nהתזמון מעניין: מניית ברקשייר עלתה השבוע ביותר מ-5%, בזמן שמשקיעים נמלטו מהתפוצצות עסקת ה-AI ועברו לקונגלומרט מגוון עם חשיפה ישירה נמוכה לבינה מלאכותית - תזכורת לכך שבתקופת מכירות, אי-החזקה בטרנד החם יכולה דווקא להפוך לבטוחה.",
+        "deep": "## רקע: איך קוראים רווח של קונגלומרט\n\nברקשייר האת'וויי אינה עסק אחד, אלא חברת אחזקות (holding company) שמחזיקה בעשרות חברות תפעוליות - ביטוח, מסילות רכבת, חברות חשמל, תעשייה - וגם בתיק מניות ציבוריות בשווי מאות מיליארדי דולרים. המבנה הזה יוצר תופעה מוזרה בדיווחים הכספיים: לפי כללי החשבונאות המקובלים (GAAP), ברקשייר נדרשת לכלול בתוך הרווח הנקי (net income) שלה גם את השינוי הרבעוני בשווי השוק של תיק המניות - גם אם לא מכרה אפילו מניה אחת. וורן באפט טען שנים רבות שהדבר הזה מרדד את הרווח הנקי הרבעוני והופך אותו לחסר משמעות, והפנה משקיעים לרווח התפעולי (operating income) - הרווח מהעסקים עצמם: ביטוח, רכבות, אנרגיה, תעשייה וקמעונאות - בלי ההשפעה של תנודות השוק.\n\n## הסיפור\n\nזה בדיוק הפער שראינו בתוצאות הרבעון השלישי של ברקשייר. הרווח התפעולי ירד בשיעור מתון יחסית, 5.8% לעומת התקופה המקבילה, בעיקר בשל היחלשות בחיתום הביטוחי (insurance underwriting) - הרווח שמבטחים מרוויחים מפרמיות בניכוי תביעות והוצאות, לפני הכנסות השקעה. הרווח הנקי, שכולל גם את התנודות בשווי תיק המניות, ירד הרבה יותר - 28% - כי רווחי ההשקעות התכווצו לעומת השנה שעברה. אותה חברה, אותו רבעון, שני מספרים שנראים אחרת לחלוטין, כי אחד מודד את העסק והשני מודד את השוק.\n\nעל רקע זה, ברקשייר עשתה משהו שנראה כמעט סותר: הצוות של המנכ\\\"ל גרג אייבל (Greg Abel) הוציא סכום שיא של 9.6 מיליארד דולר על רכישה עצמית (buyback) של מניות החברה. רכישה עצמית היא החלטת הקצאת הון (capital allocation) - החברה קובעת שהדרך הטובה ביותר לנצל את המזומן שלה היא לקנות את המניה של עצמה, ולא לחלק דיבידנד, להחזיק מזומן, או לרכוש חברה אחרת. באפט תמיד הציב את רכישות המניות של ברקשייר על בסיס השווי הפנימי (intrinsic value): החברה רוכשת מניות רק כשההנהלה מאמינה שמחיר השוק נמוך באופן משמעותי מהשווי האמיתי של העסק. רכישה עצמית בסדר גודל שיא היא בעצם הצהרה פומבית, במונחי דולרים, שההנהלה חושבת שהשוק מתמחר את העסק בחסר - וזאת באותו רבעון שבו דווח על צניחה דו-ספרתית ברווח הנקי. אייבל גם מפעיל את הר המזומנים המיתולוגי של ברקשייר באמצעות רכישות חברות והשקעות הון חדשות, לא רק רכישה עצמית - הנקודה היא שמזומן שיושב בלי לעשות דבר הוא בעצמו החלטה, ולא בהכרח זולה, כשאינפלציה ועלות אלטרנטיבית (opportunity cost) נכנסות לתמונה.\n\n## אפקטים מסדר שני\n\nתגובת השוק מרמזת על משהו רחב יותר מברקשייר עצמה. מניית ברקשייר טיפסה השבוע ביותר מ-5%, בזמן שהדיווח הכספי הציג רווח נמוך יותר - כי משקיעים עברו מעסקת ה-AI שהתפוצצה לחברות שנראות מוגנות ממנה. קונגלומרט מגוון עם רכבות, ביטוח וחברות חשמל, וחשיפה ישירה נמוכה יחסית להשקעות בתשתיות AI, הפך למעין \\\"נמל מבטחים\\\" בדיוק בגלל שהוא משעמם. זהו דפוס קלאסי של \\\"מעבר לאיכות\\\" (flight to quality): כשטרנד צפוף ותנודתי מתפרק, הכסף לא רק יוצא מהשוק - הוא עובר לחלקים בשוק שנחשבים כבעלי חפיר כלכלי (economic moat) יציב ויצירת מזומנים עקבית, ולא צמיחה ספקולטיבית.\n\nזה גם מקרה חיים לכך שהודעות על רכישה עצמית מזיזות מניות בפני עצמן, בלי קשר לרווח שמתפרסם באותו מועד. רכישה עצמית מקטינה את מספר המניות במחזור, ובכך מגדילה מכאנית את הרווח למניה (EPS), ומשדרת ביטחון הנהלה - וזה יכול לקזז לחלוטין מספר רבעוני חלש, אם השוק קורא בה הצבעת אמון מצד מי שמחזיק במידע הטוב ביותר על העסק.\n\n## מה לעקוב אחריו הלאה\n\nשלושה דברים ששווה לעקוב אחריהם מכאן. ראשית, האם החיתום הביטוחי יתאושש או ימשיך לגרור את הרווח התפעולי ברבעון הרביעי - זה המדד לבריאות האורגנית של עסקי הליבה של ברקשייר, בנפרד מרעשי השוק. שנית, האם קצב הרכישה העצמית יישמר בשיא הזה או יירד - קצב גבוה ומתמשך יאמר שההנהלה עדיין רואה את המניה כזולה, בעוד האטה עשויה להעיד שפער התמחור נסגר. שלישית, לאן עוד אייבל יפנה את הר המזומנים של ברקשייר - רכישות חברות או השקעות הון חדשות יהיו הסימן הברור ביותר למה שהחברה רואה כתמחור אטרקטיבי בשוק שעדיין מעכל את סיום המהלך החד-כיווני של עסקת ה-AI."
+      },
+      "tags": [
+        "berkshire-hathaway",
+        "buybacks",
+        "capital-allocation",
+        "insurance"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Berkshire Makes Record $9.6 Billion Buyback",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
+          "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Berkshire Hathaway’s Quarterly Profit Falls After Investment Gains Shrink",
+          "url": "https://www.wsj.com/business/earnings/berkshire-hathaway-brkb-q3-earnings-report-2026-stock-02843721?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "עם הר של מזומנים: ירידה ברווחי ברקשייר, שלא מפסיקה לרכוש מניות של עצמה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-07/ty-article-live/.premium/000001a1-b4b2-d041-a5f9-f5b36bdf0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3941.1399,
+      "prev_close": 3823.1799,
+      "change_pct": 3.09,
+      "as_of": "2026-11-06"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7376.8599,
+      "prev_close": 7353.73,
+      "change_pct": 0.31,
+      "as_of": "2026-11-06"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2005,
+      "prev_close": 3.1532,
+      "change_pct": 1.5,
+      "as_of": "2026-11-06"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 98.32,
+      "prev_close": 98.29,
+      "change_pct": 0.03,
+      "as_of": "2026-11-06"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 75756.0703,
+      "prev_close": 75746.9297,
+      "change_pct": 0.01,
+      "as_of": "2026-11-08"
+    }
+  }
+}

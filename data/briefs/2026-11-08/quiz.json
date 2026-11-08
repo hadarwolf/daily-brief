@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-08",
+  "questions": [
+    {
+      "id": "arsenal-lead-growth",
+      "section": "sports",
+      "story_id": "arsenal-six-point-lead",
+      "answer_index": 2,
+      "en": {
+        "question": "What is the most important takeaway from Arsenal's result against Hull City?",
+        "options": [
+          "Manchester City closed the gap to Arsenal to within one point",
+          "Arsenal lost their lead at the top of the Premier League after a shock defeat",
+          "Arsenal's Premier League lead grew to six points after beating Hull, while Manchester City lost to Nottingham Forest",
+          "Arsenal were deducted points over a VAR controversy involving Kai Havertz"
+        ],
+        "explanation": "Arsenal beat Hull 1-0 to extend their lead to six points, while City fell to 21 points after losing to Nottingham Forest."
+      },
+      "he": {
+        "question": "מה העובדה החשובה ביותר מהניצחון של ארסנל על האל סיטי?",
+        "options": [
+          "מנצ'סטר סיטי סגרה את הפער לארסנל לנקודה אחת בלבד",
+          "ארסנל איבדה את ההובלה בפרמייר ליג אחרי הפסד מפתיע",
+          "היתרון של ארסנל בראש הפרמייר ליג התרחב לשש נקודות אחרי הניצחון על האל, בעוד מנצ'סטר סיטי הפסידה לנוטינגהאם פורסט",
+          "ארסנל הורדה נקודות בעקבות פרשת VAR שנגעה לקאי הברץ"
+        ],
+        "explanation": "ארסנל ניצחה את האל 0-1 והרחיבה את היתרון שלה לשש נקודות, בזמן שסיטי צנחה ל-21 נקודות אחרי הפסד לנוטינגהאם פורסט."
+      }
+    },
+    {
+      "id": "eisenkot-gets-mandate",
+      "section": "israeli_politics",
+      "story_id": "eisenkot-mandate",
+      "answer_index": 3,
+      "en": {
+        "question": "What is the most important takeaway from Herzog's decision on who gets the mandate to form Israel's next government?",
+        "options": [
+          "Herzog refused to give anyone a mandate and called new elections immediately",
+          "Herzog tasked Netanyahu with forming the government after he received more recommendations than Eisenkot",
+          "Eisenkot and Netanyahu agreed to form a unity government together before Herzog's decision",
+          "Herzog tasked Eisenkot with forming the government after he received far more recommendations than Netanyahu"
+        ],
+        "explanation": "Herzog handed Eisenkot the mandate after he got 67 recommendations versus 46 for Netanyahu."
+      },
+      "he": {
+        "question": "מה העובדה החשובה ביותר בהחלטת הרצוג על המנדט להרכבת הממשלה?",
+        "options": [
+          "הרצוג סירב להטיל מנדט על מישהו והכריז על בחירות חדשות באופן מיידי",
+          "הרצוג הטיל את המנדט על נתניהו אחרי שקיבל יותר המלצות מאיזנקוט",
+          "איזנקוט ונתניהו הסכימו להקים ממשלת אחדות משותפת לפני הכרעת הרצוג",
+          "הרצוג הטיל את המנדט על איזנקוט אחרי שקיבל הרבה יותר המלצות מנתניהו"
+        ],
+        "explanation": "הרצוג הטיל את המנדט על איזנקוט אחרי שזכה ב-67 המלצות לעומת 46 בלבד לנתניהו."
+      }
+    },
+    {
+      "id": "us-iran-pressure-campaign",
+      "section": "geopolitics",
+      "story_id": "us-pressure-campaign-iran",
+      "answer_index": 0,
+      "en": {
+        "question": "What is the most important takeaway about the US's latest moves on Iran?",
+        "options": [
+          "Washington is widening its pressure on Iran, offering a bounty for nuclear intelligence, expanding its blockade toward land trade, and floating renewed strikes",
+          "The US and Iran announced a joint naval patrol agreement in the Gulf of Oman",
+          "Iran agreed to dismantle its nuclear program in exchange for the reward money",
+          "Washington lifted its sanctions on Iran as part of a new de-escalation agreement"
+        ],
+        "explanation": "The US combined a $20 million reward for nuclear-program intel with plans to expand its naval blockade into land commerce, while Trump kept raising the possibility of renewed strikes."
+      },
+      "he": {
+        "question": "מה העובדה החשובה ביותר בנוגע לצעדים האחרונים של ארצות הברית נגד איראן?",
+        "options": [
+          "וושינגטון מרחיבה את הלחץ על איראן: פרס כספי על מודיעין גרעיני, הרחבת הסגר למסחר יבשתי, ואיומי תקיפה חדשים",
+          "ארצות הברית ואיראן הכריזו על שיטור ימי משותף במפרץ עומאן",
+          "איראן הסכימה לפרק את התוכנית הגרעינית שלה בתמורה לכסף הפרס",
+          "וושינגטון הסירה את הסנקציות על איראן כחלק מהסכם הפחתת מתיחות חדש"
+        ],
+        "explanation": "ארצות הברית שילבה פרס של 20 מיליון דולר על מודיעין הנוגע לתוכנית הגרעינית עם תוכניות להרחיב את הסגר הימי גם למסחר יבשתי, בזמן שטראמפ ממשיך להעלות את האפשרות לתקיפות חדשות."
+      }
+    }
+  ]
+}
