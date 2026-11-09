@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Idaho Governor Election Live Results 2026 - AP News",
+     "published": "2026-11-09T11:07:29+00:00",
+     "summary": "Idaho Governor Election Live Results 2026 AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "A cozy chicken fricassee to add to your dinner rotation, from Corre Larkin - AP News",
+     "published": "2026-11-09T11:00:00+00:00",
+     "summary": "A cozy chicken fricassee to add to your dinner rotation, from Corre Larkin AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Russell Brand awaits sentencing - AP News",
+     "published": "2026-11-09T10:58:00+00:00",
+     "summary": "Russell Brand awaits sentencing AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Soccer - AP News",
+     "published": "2026-11-09T10:56:29+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "China - AP News",
+     "published": "2026-11-09T10:52:29+00:00",
+     "summary": "China AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Minnesota - AP News",
+     "published": "2026-11-09T10:50:05+00:00",
+     "summary": "Minnesota AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "TIM REYNOLDS - AP News",
+     "published": "2026-11-09T10:48:32+00:00",
+     "summary": "TIM REYNOLDS AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "New York City - AP News",
+     "published": "2026-11-09T10:48:32+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "STEVE REED - AP News",
+     "published": "2026-11-09T10:48:29+00:00",
+     "summary": "STEVE REED AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Russia - AP News",
+     "published": "2026-11-09T10:37:36+00:00",
+     "summary": "Russia AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "College sports - AP News",
+     "published": "2026-11-09T10:37:35+00:00",
+     "summary": "College sports AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "International News - AP News",
+     "published": "2026-11-09T10:37:34+00:00",
+     "summary": "International News AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "My Fan Picks - AP News",
+     "published": "2026-11-09T10:37:34+00:00",
+     "summary": "My Fan Picks AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-09T10:37:33+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources - AP News",
+     "published": "2026-11-09T10:28:00+00:00",
+     "summary": "In Senegal, Black surfers want to reclaim the waves despite lack of resources AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "2026 California Proposition 37 Election Live Results - AP News",
+     "published": "2026-11-09T10:21:04+00:00",
+     "summary": "2026 California Proposition 37 Election Live Results AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Golf - AP News",
+     "published": "2026-11-09T10:17:55+00:00",
+     "summary": "Golf AP News"
+    },
+    {
+     "ref": "ap_world#17",
+     "title": "Nevada Governor Election Live Results 2026 - AP News",
+     "published": "2026-11-09T10:17:54+00:00",
+     "summary": "Nevada Governor Election Live Results 2026 AP News"
+    },
+    {
+     "ref": "ap_world#18",
+     "title": "Africa News Reports | Latest News in Africa - AP News",
+     "published": "2026-11-09T10:17:52+00:00",
+     "summary": "Africa News Reports | Latest News in Africa AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "Crime - AP News",
      "published": "2026-11-09T10:14:36+00:00",
      "summary": "Crime AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#20",
      "title": "Latin American News | Latest Latin American News - AP News",
      "published": "2026-11-09T10:07:53+00:00",
      "summary": "Latin American News | Latest Latin American News AP News"
     },
     {
-     "ref": "ap_world#2",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-11-09T10:05:53+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
-     "ref": "ap_world#3",
-     "title": "Europe News | Breaking European News Today - AP News",
-     "published": "2026-11-09T09:54:55+00:00",
-     "summary": "Europe News | Breaking European News Today AP News"
-    },
-    {
-     "ref": "ap_world#4",
-     "title": "Soccer - AP News",
-     "published": "2026-11-09T09:54:10+00:00",
-     "summary": "Soccer AP News"
-    },
-    {
-     "ref": "ap_world#5",
-     "title": "China - AP News",
-     "published": "2026-11-09T09:50:02+00:00",
-     "summary": "China AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "Auto Racing - AP News",
-     "published": "2026-11-09T09:50:00+00:00",
-     "summary": "Auto Racing AP News"
-    },
-    {
-     "ref": "ap_world#7",
+     "ref": "ap_world#21",
      "title": "Asia Pacific - AP News",
      "published": "2026-11-09T09:50:00+00:00",
      "summary": "Asia Pacific AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "Minnesota - AP News",
-     "published": "2026-11-09T09:49:55+00:00",
-     "summary": "Minnesota AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "Utah - AP News",
-     "published": "2026-11-09T09:49:51+00:00",
-     "summary": "Utah AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "New York City - AP News",
-     "published": "2026-11-09T09:48:25+00:00",
-     "summary": "New York City AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "STEVE REED - AP News",
-     "published": "2026-11-09T09:48:14+00:00",
-     "summary": "STEVE REED AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "Gun violence - AP News",
-     "published": "2026-11-09T09:48:14+00:00",
-     "summary": "Gun violence AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "TIM REYNOLDS - AP News",
-     "published": "2026-11-09T09:48:13+00:00",
-     "summary": "TIM REYNOLDS AP News"
-    },
-    {
-     "ref": "ap_world#14",
+     "ref": "ap_world#22",
      "title": "Greek authorities find 12 bodies in a boat carrying migrants south of Crete; 18 people are rescued - AP News",
      "published": "2026-11-09T09:44:00+00:00",
      "summary": "Greek authorities find 12 bodies in a boat carrying migrants south of Crete; 18 people are rescued AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#23",
      "title": "Houston leads Washington State against Duquesne after 31-point game - AP News",
      "published": "2026-11-09T09:43:00+00:00",
      "summary": "Houston leads Washington State against Duquesne after 31-point game AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "UL Monroe plays Texas A&M following Anderson’s 24-point game - AP News",
-     "published": "2026-11-09T09:42:00+00:00",
-     "summary": "UL Monroe plays Texas A&M following Anderson’s 24-point game AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Georgia State visits Fresno State after Jones’ 22-point showing - AP News",
-     "published": "2026-11-09T09:42:00+00:00",
-     "summary": "Georgia State visits Fresno State after Jones’ 22-point showing AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Claytor leads Georgia Southern against Mercer after 24-point game - AP News",
-     "published": "2026-11-09T09:42:00+00:00",
-     "summary": "Claytor leads Georgia Southern against Mercer after 24-point game AP News"
-    },
-    {
-     "ref": "ap_world#19",
+     "ref": "ap_world#24",
      "title": "Warner backs Khawaja’s Sandpapergate account, calls Cricket Australia probe 'rushed and botched' - AP News",
      "published": "2026-11-09T09:40:00+00:00",
      "summary": "Warner backs Khawaja’s Sandpapergate account, calls Cricket Australia probe 'rushed and botched' AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Russia - AP News",
-     "published": "2026-11-09T09:37:50+00:00",
-     "summary": "Russia AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "International News - AP News",
-     "published": "2026-11-09T09:37:49+00:00",
-     "summary": "International News AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "College sports - AP News",
-     "published": "2026-11-09T09:37:49+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "My Fan Picks - AP News",
-     "published": "2026-11-09T09:37:48+00:00",
-     "summary": "My Fan Picks AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-11-09T09:37:46+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
     }
    ]
   },
@@ -174,15 +174,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-     "published": "2026-11-09T08:49:17+00:00",
-     "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday."
+     "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+     "published": "2026-11-09T10:59:26+00:00",
+     "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life"
     },
     {
      "ref": "bbc_world#1",
-     "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-     "published": "2026-11-09T08:16:57+00:00",
-     "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life"
+     "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+     "published": "2026-11-09T08:49:17+00:00",
+     "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday."
     },
     {
      "ref": "bbc_world#2",
@@ -426,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Gunmen kill 11 relatives of security volunteer in northwest Nigeria, abduct 13 - Reuters",
+     "published": "2026-11-09T10:37:58+00:00",
+     "summary": "Gunmen kill 11 relatives of security volunteer in northwest Nigeria, abduct 13 Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Lawyers for Philippine VP Duterte open defence in high-stakes trial - Reuters",
+     "published": "2026-11-09T10:26:22+00:00",
+     "summary": "Lawyers for Philippine VP Duterte open defence in high-stakes trial Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "India's Jindal, Italy's Arvedi bid for former Ilva steelworks - Reuters",
      "published": "2026-11-09T10:03:18+00:00",
      "summary": "India's Jindal, Italy's Arvedi bid for former Ilva steelworks Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
      "title": "South African voters rebuff ANC, accelerating shift to coalition politics - Reuters",
      "published": "2026-11-09T10:02:10+00:00",
      "summary": "South African voters rebuff ANC, accelerating shift to coalition politics Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "Lights to go out at Russia's Novaya Gazeta, independent newspaper known for its fearless reporting - Reuters",
      "published": "2026-11-09T09:41:15+00:00",
      "summary": "Lights to go out at Russia's Novaya Gazeta, independent newspaper known for its fearless reporting Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "Iran defends two-day proposal for peace talks after US rejects conditions - Reuters",
      "published": "2026-11-09T09:19:43+00:00",
      "summary": "Iran defends two-day proposal for peace talks after US rejects conditions Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "China extends suspension of new rare earth controls until January - Reuters",
      "published": "2026-11-09T09:14:20+00:00",
      "summary": "China extends suspension of new rare earth controls until January Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "South Africa's Shoprite, Investec partner to expand banking services offering - Reuters",
      "published": "2026-11-09T09:00:01+00:00",
      "summary": "South Africa's Shoprite, Investec partner to expand banking services offering Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "NextDC pauses uncontracted projects after Australian data centre woes - Reuters",
      "published": "2026-11-09T08:54:29+00:00",
      "summary": "NextDC pauses uncontracted projects after Australian data centre woes Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "Taiwan's October exports surge again on strong AI demand - Reuters",
      "published": "2026-11-09T08:49:44+00:00",
      "summary": "Taiwan's October exports surge again on strong AI demand Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Gulf stocks gain on Trump's signal against renewed Iran strikes - Reuters",
      "published": "2026-11-09T08:21:45+00:00",
      "summary": "Gulf stocks gain on Trump's signal against renewed Iran strikes Reuters"
     },
     {
-     "ref": "reuters_world#9",
-     "title": "G7 allies to assess impact of Trump's midterm setback at Paris talks - Reuters",
-     "published": "2026-11-09T08:21:43+00:00",
-     "summary": "G7 allies to assess impact of Trump's midterm setback at Paris talks Reuters"
-    },
-    {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Indonesia considers bug sweeps, tighter controls on spy tools after wiretap scandal - Reuters",
      "published": "2026-11-09T08:09:46+00:00",
      "summary": "Indonesia considers bug sweeps, tighter controls on spy tools after wiretap scandal Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Le Pen and Melenchon ahead in 2027 French presidential race, poll shows - Reuters",
      "published": "2026-11-09T07:46:00+00:00",
      "summary": "Le Pen and Melenchon ahead in 2027 French presidential race, poll shows Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "Saudi Arabia says danger passed in Riyadh after alert, day after Houthi attack - Reuters",
      "published": "2026-11-09T07:15:00+00:00",
      "summary": "Saudi Arabia says danger passed in Riyadh after alert, day after Houthi attack Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Poll: China's export growth expected to have remained strong in October - Reuters",
      "published": "2026-11-09T07:13:00+00:00",
      "summary": "Poll: China's export growth expected to have remained strong in October Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Tears and joy as Ukrainian couple divided by occupation meet again - Reuters",
      "published": "2026-11-09T07:10:00+00:00",
      "summary": "Tears and joy as Ukrainian couple divided by occupation meet again Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "German exports rise more than expected in September - Reuters",
      "published": "2026-11-09T07:10:00+00:00",
      "summary": "German exports rise more than expected in September Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult - Reuters",
      "published": "2026-11-09T07:01:00+00:00",
      "summary": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "South African rand firms on softer oil; coalition talks in focus - Reuters",
      "published": "2026-11-09T06:56:00+00:00",
      "summary": "South African rand firms on softer oil; coalition talks in focus Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "What we know about Nvidia's probe into CEO Jensen Huang - Reuters",
      "published": "2026-11-09T06:50:00+00:00",
      "summary": "What we know about Nvidia's probe into CEO Jensen Huang Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "South African telco MTN's service revenue rises over 17% as Nigeria recovers - Reuters",
      "published": "2026-11-09T06:41:00+00:00",
      "summary": "South African telco MTN's service revenue rises over 17% as Nigeria recovers Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "Krakow mass shooter dies as political dispute over motives builds - Reuters",
      "published": "2026-11-09T06:38:00+00:00",
      "summary": "Krakow mass shooter dies as political dispute over motives builds Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Greece recovers 12 dead migrants from boat off of Crete, coast guard says - Reuters",
      "published": "2026-11-09T06:28:00+00:00",
      "summary": "Greece recovers 12 dead migrants from boat off of Crete, coast guard says Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
      "published": "2026-11-09T06:10:00+00:00",
      "summary": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Morning Bid: Fragile calm after AI whiplash - Reuters",
      "published": "2026-11-09T05:45:00+00:00",
      "summary": "Morning Bid: Fragile calm after AI whiplash Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Logistics group CTP reaches $500 million deal to expand in Vietnam as clients seek China alternative - Reuters",
-     "published": "2026-11-09T05:35:00+00:00",
-     "summary": "Logistics group CTP reaches $500 million deal to expand in Vietnam as clients seek China alternative Reuters"
     }
    ]
   }

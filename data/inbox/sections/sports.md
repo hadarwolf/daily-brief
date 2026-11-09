@@ -59,38 +59,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-2"
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Stade Rennais",
-     "away": "Lille",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Genoa",
-     "away": "Milan",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Brighton Hove",
-     "away": "Brentford",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Sunderland",
-     "away": "Chelsea",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-08T14:00:00Z",
      "home": "Ipswich Town",
@@ -115,6 +83,38 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-3"
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Brighton Hove",
+     "away": "Brentford",
+     "status": "FINISHED",
+     "score": "2-0"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Sunderland",
+     "away": "Chelsea",
+     "status": "FINISHED",
+     "score": "1-0"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Stade Rennais",
+     "away": "Lille",
+     "status": "FINISHED",
+     "score": "1-2"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Genoa",
+     "away": "Milan",
+     "status": "FINISHED",
+     "score": "1-2"
+    },
+    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-08T14:30:00Z",
      "home": "1. FC Köln",
@@ -133,26 +133,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-08T15:30:00Z",
-     "home": "CD Nacional",
-     "away": "Acad. Viseu",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-08T15:30:00Z",
      "home": "Santa Clara",
      "away": "Gil Vicente",
      "status": "FINISHED",
      "score": "1-2"
     },
     {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-08T15:45:00Z",
-     "home": "AZ",
-     "away": "Groningen",
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-08T15:30:00Z",
+     "home": "CD Nacional",
+     "away": "Acad. Viseu",
      "status": "FINISHED",
-     "score": "4-3"
+     "score": "1-0"
     },
     {
      "competition": "Eredivisie",
@@ -163,20 +155,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-5"
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-08T16:15:00Z",
-     "home": "Le Mans",
-     "away": "Monaco",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-08T15:45:00Z",
+     "home": "AZ",
+     "away": "Groningen",
      "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-08T16:15:00Z",
-     "home": "Le Havre",
-     "away": "Lorient",
-     "status": "FINISHED",
-     "score": "0-2"
+     "score": "4-3"
     },
     {
      "competition": "Ligue 1",
@@ -195,12 +179,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-2"
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-08T16:30:00Z",
-     "home": "Freiburg",
-     "away": "Union Berlin",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-08T16:15:00Z",
+     "home": "Le Mans",
+     "away": "Monaco",
      "status": "FINISHED",
-     "score": "2-0"
+     "score": "1-1"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-08T16:15:00Z",
+     "home": "Le Havre",
+     "away": "Lorient",
+     "status": "FINISHED",
+     "score": "0-2"
     },
     {
      "competition": "Premier League",
@@ -209,6 +201,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Aston Villa",
      "status": "FINISHED",
      "score": "4-4"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-08T16:30:00Z",
+     "home": "Freiburg",
+     "away": "Union Berlin",
+     "status": "FINISHED",
+     "score": "2-0"
     },
     {
      "competition": "Serie A",
@@ -221,18 +221,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-08T17:30:00Z",
-     "home": "Villarreal",
-     "away": "Getafe",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-11-08T17:30:00Z",
      "home": "Celta",
      "away": "Levante",
      "status": "FINISHED",
      "score": "0-0"
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-11-08T17:30:00Z",
+     "home": "Villarreal",
+     "away": "Getafe",
+     "status": "FINISHED",
+     "score": "2-0"
     },
     {
      "competition": "Primeira Liga",
@@ -285,18 +285,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-08T20:30:00Z",
-     "home": "Amadora",
-     "away": "SL Benfica",
-     "status": "FINISHED",
-     "score": "2-3"
-    },
-    {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-08T20:30:00Z",
      "home": "Rio Ave",
      "away": "Braga",
      "status": "FINISHED",
      "score": "0-1"
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-08T20:30:00Z",
+     "home": "Amadora",
+     "away": "SL Benfica",
+     "status": "FINISHED",
+     "score": "2-3"
     }
    ],
    "today": [],
@@ -751,153 +751,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Which Premier League players are set for yellow card suspensions?",
+     "published": "2026-11-09T10:33:57+00:00",
+     "summary": "Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Which Premier League players are set for yellow card suspensions?",
+     "published": "2026-11-09T10:33:57+00:00",
+     "summary": "Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "SPFL round-up: Morton stun Stenny, Cove humble Accies & Clyde keep pace",
      "published": "2026-11-09T08:00:34+00:00",
      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Watch: Morton stun Stenny, Cove humble Accies & Clyde keep pace",
      "published": "2026-11-09T08:00:34+00:00",
      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "Dutch match postponed after fans block team bus",
      "published": "2026-11-09T08:00:07+00:00",
      "summary": "A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Podcast: Falkirk run riot as pressure mounts at Pittodrie",
      "published": "2026-11-09T08:00:00+00:00",
      "summary": "A huge week for Hibs, a nightmare afternoon for Hearts and growing concern for Aberdeen."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "O'Neill nervous about Baur injury - gossip",
      "published": "2026-11-09T07:30:18+00:00",
      "summary": "Injury sweat for Celtic as Hearts boss hopeful over improved form and latest injury setback."
     },
     {
-     "ref": "bbc_football#5",
-     "title": "Fishlock retires after record-breaking career",
-     "published": "2026-11-09T06:32:11+00:00",
-     "summary": "Wales' record cap-holder and goalscorer, Jess Fishlock, hangs up her boots after Seattle Reign were beaten in the NWSL play-offs."
-    },
-    {
-     "ref": "bbc_football#6",
-     "title": "Fishlock retires after record-breaking career",
-     "published": "2026-11-09T06:32:11+00:00",
-     "summary": "Wales' record cap-holder and goalscorer, Jess Fishlock, hangs up her boots after Seattle Reign were beaten in the NWSL play-offs."
-    },
-    {
      "ref": "bbc_football#7",
+     "title": "Fishlock retires after record-breaking career",
+     "published": "2026-11-09T06:32:11+00:00",
+     "summary": "Wales' record cap-holder and goalscorer, Jess Fishlock, hangs up her boots after Seattle Reign were beaten in the NWSL play-offs."
+    },
+    {
+     "ref": "bbc_football#8",
+     "title": "Fishlock retires after record-breaking career",
+     "published": "2026-11-09T06:32:11+00:00",
+     "summary": "Wales' record cap-holder and goalscorer, Jess Fishlock, hangs up her boots after Seattle Reign were beaten in the NWSL play-offs."
+    },
+    {
+     "ref": "bbc_football#9",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-09T06:25:16+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#10",
      "title": "Football Daily",
      "published": "2026-11-09T00:30:00+00:00",
      "summary": "Adam Crafton joins Rick and Lloyd to discuss Brighton, Man City and Man Utd."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#11",
      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
      "published": "2026-11-08T23:53:20+00:00",
      "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#12",
      "title": "Why defenders hate playing against brilliant Brobbey",
      "published": "2026-11-08T23:53:15+00:00",
      "summary": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "'A horrible place to be' - What's gone wrong for Palace?",
      "published": "2026-11-08T23:53:08+00:00",
      "summary": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
      "published": "2026-11-08T23:41:30+00:00",
      "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga."
     },
     {
-     "ref": "bbc_football#13",
-     "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
-     "published": "2026-11-08T22:14:38+00:00",
-     "summary": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership."
-    },
-    {
-     "ref": "bbc_football#14",
-     "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
-     "published": "2026-11-08T22:14:38+00:00",
-     "summary": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership."
-    },
-    {
      "ref": "bbc_football#15",
+     "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
+     "published": "2026-11-08T22:14:38+00:00",
+     "summary": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership."
+    },
+    {
+     "ref": "bbc_football#16",
+     "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
+     "published": "2026-11-08T22:14:38+00:00",
+     "summary": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership."
+    },
+    {
+     "ref": "bbc_football#17",
      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
      "published": "2026-11-08T22:01:57+00:00",
      "summary": "Oldham Athletic stage an FA Cup upset by beating Sheffield Wednesday 2-1 in extra time at Boundary Park, with a 110th-minute winner from Will Sutton securing victory and handing Dave Challinor defeat in his first game in charge for The Owls."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
      "published": "2026-11-08T21:50:05+00:00",
      "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?"
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
      "published": "2026-11-08T21:08:44+00:00",
      "summary": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#20",
      "title": "Palace consider replacing Sage, with Frank among contenders",
      "published": "2026-11-08T20:49:40+00:00",
      "summary": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "Who has made Troy's Premier League team of the week?",
      "published": "2026-11-08T20:18:01+00:00",
      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
      "published": "2026-11-08T20:05:53+00:00",
      "summary": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?"
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
      "published": "2026-11-08T20:01:16+00:00",
      "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Watch: Sunday's Scottish Premiership highlights",
      "published": "2026-11-08T20:00:23+00:00",
      "summary": "With Kilmarnock v Celtic and Hearts welcoming the season's surprise package Falkirk"
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Brighton breeze past 10-man Brentford to move up to second",
-     "published": "2026-11-08T20:00:21+00:00",
-     "summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Bournemouth beat Ipswich to extend winning streak",
-     "published": "2026-11-08T19:59:53+00:00",
-     "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich."
     }
    ]
   },
@@ -907,33 +907,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo - Transfermarkt",
-     "published": "2026-11-09T10:00:55+00:00",
-     "summary": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo Transfermarkt"
+     "title": "Jorrel Aristorenas represents PH in virtual football cup in Miami - GMA Network",
+     "published": "2026-11-09T10:13:28+00:00",
+     "summary": "Jorrel Aristorenas represents PH in virtual football cup in Miami GMA Network"
     },
     {
      "ref": "gnews_inter_miami#1",
+     "title": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo - Transfermarkt",
+     "published": "2026-11-09T09:59:54+00:00",
+     "summary": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo Transfermarkt"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "Columbus Crew vs. Inter Miami CF: Live game updates, stats, play-by-play - Yahoo Sports",
      "published": "2026-11-09T08:57:56+00:00",
      "summary": "Columbus Crew vs. Inter Miami CF: Live game updates, stats, play-by-play Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Messi Inter Miami MLS Playoffs Path: The Road to Another Trophy - Heavy.com",
      "published": "2026-11-09T08:54:00+00:00",
      "summary": "Messi Inter Miami MLS Playoffs Path: The Road to Another Trophy Heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Messi may be about to return to Argentina - Laodong.vn",
      "published": "2026-11-09T08:47:28+00:00",
      "summary": "Messi may be about to return to Argentina Laodong.vn"
-    },
-    {
-     "ref": "gnews_inter_miami#4",
-     "title": "Messi wins MLS second consecutive Golden Boot - Blueprint Newspapers",
-     "published": "2026-11-09T07:30:49+00:00",
-     "summary": "Messi wins MLS second consecutive Golden Boot Blueprint Newspapers"
     },
     {
      "ref": "gnews_inter_miami#5",
@@ -1015,45 +1015,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#18",
-     "title": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day - The Guardian",
-     "published": "2026-11-08T11:21:00+00:00",
-     "summary": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day The Guardian"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi set for emotional Argentina return following international retirement as Inter Miami plot blockbuster clash - Goal.com",
      "published": "2026-11-08T11:19:05+00:00",
      "summary": "Lionel Messi set for emotional Argentina return following international retirement as Inter Miami plot blockbuster clash Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami live score, table and standings - BeSoccer Livescore",
      "published": "2026-11-08T11:16:09+00:00",
      "summary": "Inter Miami live score, table and standings BeSoccer Livescore"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards - Al Jazeera",
      "published": "2026-11-08T11:12:13+00:00",
      "summary": "Messi becomes first player to win back-to-back MLS Golden Boot awards Al Jazeera"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Miami's Lionel Messi first back-to-back MLS Golden Boot recipient - Mahoning Matters",
      "published": "2026-11-08T10:29:06+00:00",
      "summary": "Miami's Lionel Messi first back-to-back MLS Golden Boot recipient Mahoning Matters"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi wins MLS Golden Boot for second consecutive time: Became the first player to do so; scored 26 ... - Bhaskar English",
      "published": "2026-11-08T10:27:37+00:00",
      "summary": "Lionel Messi wins MLS Golden Boot for second consecutive time: Became the first player to do so; scored 26 ... Bhaskar English"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi wins second consecutive MLS Golden Boot after scoring 26 goals for Inter Miami - Telangana Today",
      "published": "2026-11-08T09:32:31+00:00",
      "summary": "Lionel Messi wins second consecutive MLS Golden Boot after scoring 26 goals for Inter Miami Telangana Today"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Messi features in Inter Miami’s draw with Charlotte in the MLS (video) - صوت الإمارات",
+     "published": "2026-11-08T09:29:45+00:00",
+     "summary": "Messi features in Inter Miami’s draw with Charlotte in the MLS (video) صوت الإمارات"
     }
    ]
   },

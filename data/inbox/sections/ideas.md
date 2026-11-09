@@ -28,72 +28,86 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
+     "title": "A trip to upside-down world",
+     "published": "2026-11-09T11:01:00+00:00",
+     "summary": "Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece - by Aeon Video Watch on Aeon",
+     "full_text_file": "essays/aeon_0.txt"
+    },
+    {
+     "ref": "aeon#1",
+     "title": "Equality talk",
+     "published": "2026-11-09T11:00:00+00:00",
+     "summary": "In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon",
+     "full_text_file": "essays/aeon_1.txt"
+    },
+    {
+     "ref": "aeon#2",
      "title": "Celestial nuisance",
      "published": "2026-11-06T11:00:00+00:00",
      "summary": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on Aeon"
     },
     {
-     "ref": "aeon#1",
+     "ref": "aeon#3",
      "title": "Their eyes",
      "published": "2026-11-05T11:01:00+00:00",
      "summary": "In Kenya, the Philippines and Venezuela, low-paid labour fuels the driverless future of the Global North - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#4",
      "title": "Methodical/mercurial",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "I need order and routine – just as much as I crave excitement and variety. What’s life like with both autism and ADHD? - by Sarah Hendrickx Read on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#5",
      "title": "Like aliens",
      "published": "2026-11-04T11:01:00+00:00",
      "summary": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#6",
      "title": "Believing and thinking",
      "published": "2026-11-03T11:00:00+00:00",
      "summary": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think - by Neil Van Leeuwen & Jacob Eisler Read on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#7",
      "title": "Jo Marchant: In search of now",
      "published": "2026-11-02T11:01:00+00:00",
      "summary": "What is ‘now’? Through physics via philosophy and psychology, discover the science and mystery of the present moment - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#8",
      "title": "The self-making world",
      "published": "2026-11-02T11:00:00+00:00",
      "summary": "Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback - by Jessica Riskin Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#9",
      "title": "In praise of the dilettante",
      "published": "2026-10-30T10:00:00+00:00",
      "summary": "A wayfaring cosmopolitan who never gets stuck, the dilettante is the right anti-hero for our hyper-specialised age - by Jay Miller Read on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#10",
      "title": "Hills and mountains",
      "published": "2026-10-29T10:01:00+00:00",
      "summary": "A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#11",
      "title": "The physics of getting fired",
      "published": "2026-10-29T10:00:00+00:00",
      "summary": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#12",
      "title": "The Amarna letters",
      "published": "2026-10-28T10:01:00+00:00",
      "summary": "Petty disputes, pleas for help and requests for gold – explore letters sent to Egyptian pharaohs more than 3,000 years ago - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#13",
      "title": "Love with nowhere to go",
      "published": "2026-10-27T10:00:00+00:00",
      "summary": "Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves - by Derek van Zoonen Read on Aeon"
@@ -215,78 +229,85 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
+     "title": "The ethics of having a good time at Disney World, Florida",
+     "published": "2026-11-09T11:00:00+00:00",
+     "summary": "Is the value of the universalist experience undermined by the profit-hungry global corporation behind the theme parks? - by Adam Kadlac Read on Psyche",
+     "full_text_file": "essays/psyche_0.txt"
+    },
+    {
+     "ref": "psyche#1",
      "title": "How to break a bad habit",
      "published": "2026-11-06T11:01:00+00:00",
      "summary": "Feel stuck with a habit you know is bad for you? Getting to know your brain better could help you change the narrative - Video by Dr Tracey Marks Watch on Psyche"
     },
     {
-     "ref": "psyche#1",
+     "ref": "psyche#2",
      "title": "Who am I if I don’t run?",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#3",
      "title": "How to take notes that actually help you learn",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#4",
      "title": "Baby heaven",
      "published": "2026-11-04T11:00:00+00:00",
      "summary": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#5",
      "title": "Orbites",
      "published": "2026-11-03T11:01:00+00:00",
      "summary": "‘Imagining is another kind of seeing’: immerse in the exquisite sensory world of a woman with impaired vision - Directed by Sarah Seené Watch on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#6",
      "title": "That feeling of values crumbling has a name: civic grief",
      "published": "2026-11-03T11:00:00+00:00",
      "summary": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#7",
      "title": "How psychology’s classic studies misled us about the self",
      "published": "2026-11-02T11:00:00+00:00",
      "summary": "Milgram, Zimbardo and recent priming studies suggested we’re highly malleable. They underestimated how stable we really are - by Jack W Klein & William B Swann Read on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#8",
      "title": "The power of pareidolia",
      "published": "2026-10-30T10:01:00+00:00",
      "summary": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#9",
      "title": "‘Heroes work here’: why I quit being an ER nurse",
      "published": "2026-10-30T10:00:00+00:00",
      "summary": "Spitting, swearing regulars at a Chicago ER opened my mind. Then came the COVID-19 deniers - by Anita Lambert Read on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#10",
      "title": "When giving up teaches you more than persevering ever could",
      "published": "2026-10-29T10:00:00+00:00",
      "summary": "Grit is all well and good, but sometimes abandoning your goals can be crucial to discovering who you are - by Mario I Juarez-Garcia Read on Psyche"
     },
     {
-     "ref": "psyche#10",
+     "ref": "psyche#11",
      "title": "The bookshelf builder",
      "published": "2026-10-28T10:00:00+00:00",
      "summary": "Ellah Wakatama is editor, agent, publisher and mentor, all rolled into one. Her mission: to put the work of gifted Black writers into the literary canon - by Carey Baraka Read on Psyche"
     },
     {
-     "ref": "psyche#11",
+     "ref": "psyche#12",
      "title": "A plane crossing the Moon",
      "published": "2026-10-27T10:01:00+00:00",
      "summary": "How a harmless thought turned into one man’s 10-year odyssey: to film a plane silhouetted against the Moon - Directed by Agustín Ferrando Trenchi Watch on Psyche"
     },
     {
-     "ref": "psyche#12",
+     "ref": "psyche#13",
      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
      "published": "2026-10-27T10:00:00+00:00",
      "summary": "If eating on a public train gets seen as an act of terrorism, insights from olfactory genetics can pave the way for empathy - by Yusuke Fujioka Read on Psyche"
