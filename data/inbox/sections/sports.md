@@ -59,30 +59,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-2"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Ipswich Town",
-     "away": "Bournemouth",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Monza",
-     "away": "Atalanta",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Crystal Palace",
-     "away": "Liverpool",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-08T14:00:00Z",
      "home": "Stade Rennais",
@@ -115,6 +91,30 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-0"
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Ipswich Town",
+     "away": "Bournemouth",
+     "status": "FINISHED",
+     "score": "1-2"
+    },
+    {
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Monza",
+     "away": "Atalanta",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Crystal Palace",
+     "away": "Liverpool",
+     "status": "FINISHED",
+     "score": "1-3"
+    },
+    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-08T14:30:00Z",
      "home": "1. FC Köln",
@@ -133,18 +133,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-08T15:30:00Z",
-     "home": "Santa Clara",
-     "away": "Gil Vicente",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-08T15:30:00Z",
      "home": "CD Nacional",
      "away": "Acad. Viseu",
      "status": "FINISHED",
      "score": "1-0"
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-08T15:30:00Z",
+     "home": "Santa Clara",
+     "away": "Gil Vicente",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "Eredivisie",
@@ -165,22 +165,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-08T16:15:00Z",
-     "home": "Brest",
-     "away": "Olympique Lyon",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-08T16:15:00Z",
-     "home": "Angers SCO",
-     "away": "Nice",
-     "status": "FINISHED",
-     "score": "0-2"
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-08T16:15:00Z",
      "home": "Le Mans",
      "away": "Monaco",
      "status": "FINISHED",
@@ -195,12 +179,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "0-2"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-08T16:30:00Z",
-     "home": "Man United",
-     "away": "Aston Villa",
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-08T16:15:00Z",
+     "home": "Brest",
+     "away": "Olympique Lyon",
      "status": "FINISHED",
-     "score": "4-4"
+     "score": "2-0"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-08T16:15:00Z",
+     "home": "Angers SCO",
+     "away": "Nice",
+     "status": "FINISHED",
+     "score": "0-2"
     },
     {
      "competition": "Bundesliga",
@@ -209,6 +201,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Union Berlin",
      "status": "FINISHED",
      "score": "2-0"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-08T16:30:00Z",
+     "home": "Man United",
+     "away": "Aston Villa",
+     "status": "FINISHED",
+     "score": "4-4"
     },
     {
      "competition": "Serie A",
@@ -221,18 +221,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-08T17:30:00Z",
-     "home": "Celta",
-     "away": "Levante",
-     "status": "FINISHED",
-     "score": "0-0"
-    },
-    {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-11-08T17:30:00Z",
      "home": "Villarreal",
      "away": "Getafe",
      "status": "FINISHED",
      "score": "2-0"
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-11-08T17:30:00Z",
+     "home": "Celta",
+     "away": "Levante",
+     "status": "FINISHED",
+     "score": "0-0"
     },
     {
      "competition": "Primeira Liga",
@@ -259,20 +259,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "2-3"
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-08T19:45:00Z",
-     "home": "RC Lens",
-     "away": "Marseille",
-     "status": "FINISHED",
-     "score": "1-2"
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-08T19:45:00Z",
      "home": "Fiorentina",
      "away": "Juventus",
      "status": "FINISHED",
      "score": "2-2"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-08T19:45:00Z",
+     "home": "RC Lens",
+     "away": "Marseille",
+     "status": "FINISHED",
+     "score": "1-2"
     },
     {
      "competition": "Primera Division",
@@ -285,18 +285,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Primeira Liga",
      "kickoff_utc": "2026-11-08T20:30:00Z",
-     "home": "Rio Ave",
-     "away": "Braga",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Primeira Liga",
-     "kickoff_utc": "2026-11-08T20:30:00Z",
      "home": "Amadora",
      "away": "SL Benfica",
      "status": "FINISHED",
      "score": "2-3"
+    },
+    {
+     "competition": "Primeira Liga",
+     "kickoff_utc": "2026-11-08T20:30:00Z",
+     "home": "Rio Ave",
+     "away": "Braga",
+     "status": "FINISHED",
+     "score": "0-1"
     }
    ],
    "today": [],
@@ -907,153 +907,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo - Transfermarkt",
+     "published": "2026-11-09T10:00:55+00:00",
+     "summary": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo Transfermarkt"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Columbus Crew vs. Inter Miami CF: Live game updates, stats, play-by-play - Yahoo Sports",
      "published": "2026-11-09T08:57:56+00:00",
      "summary": "Columbus Crew vs. Inter Miami CF: Live game updates, stats, play-by-play Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Messi Inter Miami MLS Playoffs Path: The Road to Another Trophy - Heavy.com",
      "published": "2026-11-09T08:54:00+00:00",
      "summary": "Messi Inter Miami MLS Playoffs Path: The Road to Another Trophy Heavy.com"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
+     "title": "Messi may be about to return to Argentina - Laodong.vn",
+     "published": "2026-11-09T08:47:28+00:00",
+     "summary": "Messi may be about to return to Argentina Laodong.vn"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
      "title": "Messi wins MLS second consecutive Golden Boot - Blueprint Newspapers",
      "published": "2026-11-09T07:30:49+00:00",
      "summary": "Messi wins MLS second consecutive Golden Boot Blueprint Newspapers"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami CF vs. Columbus - Live Score - November 21, 2026 - FOX Sports",
      "published": "2026-11-09T06:53:57+00:00",
      "summary": "Inter Miami CF vs. Columbus - Live Score - November 21, 2026 FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#6",
      "title": "Columbus Crew vs Inter Miami Box Score - December 01, 2026 - The Athletic - The New York Times",
      "published": "2026-11-09T04:56:26+00:00",
      "summary": "Columbus Crew vs Inter Miami Box Score - December 01, 2026 - The Athletic The New York Times"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "Columbus Crew to open MLS playoffs Nov. 21 in Miami vs Lionel Messi - The Columbus Dispatch",
      "published": "2026-11-09T02:32:00+00:00",
      "summary": "Columbus Crew to open MLS playoffs Nov. 21 in Miami vs Lionel Messi The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "Inter Miami vs Columbus Crew - Major League Soccer - OneFootball",
      "published": "2026-11-09T01:34:05+00:00",
      "summary": "Inter Miami vs Columbus Crew - Major League Soccer OneFootball"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "Columbus Crew's 2026 playoff run: When do they face Miami? - Cleveland.com",
      "published": "2026-11-09T00:53:00+00:00",
      "summary": "Columbus Crew's 2026 playoff run: When do they face Miami? Cleveland.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#10",
      "title": "It’s Miami Time presented by Royal Caribbean: Schedule Announced for Audi 2026 MLS Cup Playoffs Round One Series Against Columbus Crew - Inter Miami CF",
      "published": "2026-11-08T22:14:26+00:00",
      "summary": "It’s Miami Time presented by Royal Caribbean: Schedule Announced for Audi 2026 MLS Cup Playoffs Round One Series Against Columbus Crew Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#11",
      "title": "Columbus Crew to face Inter Miami in playoffs. What to know - The Columbus Dispatch",
      "published": "2026-11-08T22:14:13+00:00",
      "summary": "Columbus Crew to face Inter Miami in playoffs. What to know The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#12",
      "title": "MLS Decision Day: Is Greg Vanney's time up? LA Galaxy blow playoff spot as Nashville SC make history and Inter Miami unravel - Goal.com",
      "published": "2026-11-08T20:02:20+00:00",
      "summary": "MLS Decision Day: Is Greg Vanney's time up? LA Galaxy blow playoff spot as Nashville SC make history and Inter Miami unravel Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#13",
      "title": "Lionel Messi Makes History Winning Consecutive MLS Golden Boots - Sportscape Magazine",
      "published": "2026-11-08T19:55:06+00:00",
      "summary": "Lionel Messi Makes History Winning Consecutive MLS Golden Boots Sportscape Magazine"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi Makes History, Back-to-Back MLS Golden Boot Wins - Yahoo Sports",
      "published": "2026-11-08T14:30:46+00:00",
      "summary": "Messi Makes History, Back-to-Back MLS Golden Boot Wins Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#15",
      "title": "“Once I spoke to David Beckham, Inter Miami appealed to me. I knew it was going to be a physical game. People mentioned the travel, but I didn’t think that was going to be quite so difficult” Kieran Gibbs on moving to Major League Soccer - FourFourTwo",
      "published": "2026-11-08T13:00:00+00:00",
      "summary": "“Once I spoke to David Beckham, Inter Miami appealed to me. I knew it was going to be a physical game. People mentioned the travel, but I didn’t think that was going to be quite so difficult” Kieran Gibbs on moving to Major League Soccer FourFourTwo"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#16",
      "title": "Messi wins a second straight MLS Golden Boot - The False 9",
      "published": "2026-11-08T12:58:23+00:00",
      "summary": "Messi wins a second straight MLS Golden Boot The False 9"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#17",
      "title": "Ranking Lionel Messi’s 26 goals that won him the MLS Golden Boot - The New York Times",
      "published": "2026-11-08T12:00:58+00:00",
      "summary": "Ranking Lionel Messi’s 26 goals that won him the MLS Golden Boot The New York Times"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#18",
      "title": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day - The Guardian",
      "published": "2026-11-08T11:21:00+00:00",
      "summary": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day The Guardian"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi set for emotional Argentina return following international retirement as Inter Miami plot blockbuster clash - Goal.com",
      "published": "2026-11-08T11:19:05+00:00",
      "summary": "Lionel Messi set for emotional Argentina return following international retirement as Inter Miami plot blockbuster clash Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami live score, table and standings - BeSoccer Livescore",
      "published": "2026-11-08T11:16:09+00:00",
      "summary": "Inter Miami live score, table and standings BeSoccer Livescore"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#21",
      "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards - Al Jazeera",
      "published": "2026-11-08T11:12:13+00:00",
      "summary": "Messi becomes first player to win back-to-back MLS Golden Boot awards Al Jazeera"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#22",
      "title": "Miami's Lionel Messi first back-to-back MLS Golden Boot recipient - Mahoning Matters",
      "published": "2026-11-08T10:29:06+00:00",
      "summary": "Miami's Lionel Messi first back-to-back MLS Golden Boot recipient Mahoning Matters"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi wins MLS Golden Boot for second consecutive time: Became the first player to do so; scored 26 ... - Bhaskar English",
      "published": "2026-11-08T10:27:37+00:00",
      "summary": "Lionel Messi wins MLS Golden Boot for second consecutive time: Became the first player to do so; scored 26 ... Bhaskar English"
     },
     {
-     "ref": "gnews_inter_miami#22",
-     "title": "Lionel Messi makes MLS history and joins EFL legend in rare feat - talkSPORT",
-     "published": "2026-11-08T10:13:08+00:00",
-     "summary": "Lionel Messi makes MLS history and joins EFL legend in rare feat talkSPORT"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Lionel Messi wins second consecutive MLS Golden Boot after scoring 26 goals for Inter Miami - Telangana Today",
      "published": "2026-11-08T09:32:31+00:00",
      "summary": "Lionel Messi wins second consecutive MLS Golden Boot after scoring 26 goals for Inter Miami Telangana Today"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Messi features in Inter Miami’s draw with Charlotte in the MLS (video) - صوت الإمارات",
-     "published": "2026-11-08T09:29:45+00:00",
-     "summary": "Messi features in Inter Miami’s draw with Charlotte in the MLS (video) صوت الإمارات"
     }
    ]
   },
@@ -1063,99 +1063,99 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "Should I Trade Ben Saraf for Cody Martin? | Fantasy Basketball - FantasyPros",
-     "published": "2026-11-09T00:28:25+00:00",
-     "summary": "Should I Trade Ben Saraf for Cody Martin? | Fantasy Basketball FantasyPros"
-    },
-    {
-     "ref": "gnews_israeli_nba#1",
      "title": "Nets’ Egor Dëmin progressing but ruled out against Mavericks; Ben Saraf shines in G League - New York Daily News",
      "published": "2026-11-08T15:25:28+00:00",
      "summary": "Nets’ Egor Dëmin progressing but ruled out against Mavericks; Ben Saraf shines in G League New York Daily News"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#1",
      "title": "Victor Wembanyama scores 29 points in Spurs' massive win over Blazers - MySA",
      "published": "2026-11-08T14:57:42+00:00",
      "summary": "Victor Wembanyama scores 29 points in Spurs' massive win over Blazers MySA"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#2",
      "title": "Portland Trail Blazers open 2026-27 NBA season - OregonLive.com",
      "published": "2026-11-08T14:30:47+00:00",
      "summary": "Portland Trail Blazers open 2026-27 NBA season OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#3",
      "title": "Trail Blazers' Deni Avdija: Poor shooting performance - CBS Sports",
      "published": "2026-11-08T14:25:37+00:00",
      "summary": "Trail Blazers' Deni Avdija: Poor shooting performance CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija News: Poor shooting performance - RotoWire",
      "published": "2026-11-08T14:25:37+00:00",
      "summary": "Deni Avdija News: Poor shooting performance RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija should remain Portland’s top offensive option despite Lillard, Morant - Ynetnews",
      "published": "2026-11-08T07:51:00+00:00",
      "summary": "Deni Avdija should remain Portland’s top offensive option despite Lillard, Morant Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija with the 2 Pt, 11/07/2026 - Yahoo Sports",
      "published": "2026-11-08T05:42:48+00:00",
      "summary": "Deni Avdija with the 2 Pt, 11/07/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#7",
      "title": "Ben Saraf and Dain Dainja combine for 50 in Long Island’s big win over Greensboro - NetsDaily",
      "published": "2026-11-08T04:14:00+00:00",
      "summary": "Ben Saraf and Dain Dainja combine for 50 in Long Island’s big win over Greensboro NetsDaily"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#8",
      "title": "Lakers showcase early resolve for best start since 2019 - Orange County Register",
      "published": "2026-11-07T23:40:40+00:00",
      "summary": "Lakers showcase early resolve for best start since 2019 Orange County Register"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#9",
      "title": "Deni Avdija’s turnovers are still holding him back as Blazers’ point forward - Rip City Project",
      "published": "2026-11-07T19:48:16+00:00",
      "summary": "Deni Avdija’s turnovers are still holding him back as Blazers’ point forward Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija flirts with triple-double in Friday's loss to Lakers - FantasyPros",
      "published": "2026-11-07T15:33:22+00:00",
      "summary": "Deni Avdija flirts with triple-double in Friday's loss to Lakers FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Trail Blazers' Deni Avdija: Sniffs triple-double in loss - CBS Sports",
      "published": "2026-11-07T11:57:04+00:00",
      "summary": "Trail Blazers' Deni Avdija: Sniffs triple-double in loss CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija News: Sniffs triple-double in loss - RotoWire",
      "published": "2026-11-07T11:57:04+00:00",
      "summary": "Deni Avdija News: Sniffs triple-double in loss RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Spurs vs. Trail Blazers: How to watch the game, who's starting, who's out - San Antonio Express-News",
      "published": "2026-11-07T10:11:09+00:00",
      "summary": "Spurs vs. Trail Blazers: How to watch the game, who's starting, who's out San Antonio Express-News"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Luka Doncic just showed the Blazers why Deni Avdija isn't a superstar yet - Rip City Project",
      "published": "2026-11-07T07:22:10+00:00",
      "summary": "Luka Doncic just showed the Blazers why Deni Avdija isn't a superstar yet Rip City Project"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
+     "title": "TST Images: Lakers defeat Trailblazers, 124-118, at Crypto.com Arena - The Sporting Tribune",
+     "published": "2026-11-07T06:45:47+00:00",
+     "summary": "TST Images: Lakers defeat Trailblazers, 124-118, at Crypto.com Arena The Sporting Tribune"
     },
     {
      "ref": "gnews_israeli_nba#16",

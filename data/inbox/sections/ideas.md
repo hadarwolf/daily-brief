@@ -97,18 +97,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Love with nowhere to go",
      "published": "2026-10-27T10:00:00+00:00",
      "summary": "Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves - by Derek van Zoonen Read on Aeon"
-    },
-    {
-     "ref": "aeon#12",
-     "title": "Great art explained: Tamara in the green Bugatti",
-     "published": "2026-10-26T10:01:00+00:00",
-     "summary": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish - by Aeon Video Watch on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "How to build real peace",
-     "published": "2026-10-26T10:00:00+00:00",
-     "summary": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on Aeon"
     }
    ]
   },
@@ -302,12 +290,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
      "published": "2026-10-27T10:00:00+00:00",
      "summary": "If eating on a public train gets seen as an act of terrorism, insights from olfactory genetics can pave the way for empathy - by Yusuke Fujioka Read on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "Everyone says they have anxiety. Clinical anxiety is different",
-     "published": "2026-10-26T10:00:00+00:00",
-     "summary": "Anxiety put me in hospital. I’ve learned you can’t eradicate what is part of you – but you can change how you relate to it - by India Sturgis Read on Psyche"
     }
    ]
   },
