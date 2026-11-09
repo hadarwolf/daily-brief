@@ -1,6 +1,6 @@
 {
- "date": "2026-11-08",
- "prepared_at": "2026-11-08T09:59:50+00:00",
+ "date": "2026-11-09",
+ "prepared_at": "2026-11-09T03:33:56+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -11,31 +11,16 @@
  ],
  "skipped_sections": [],
  "order": [
-  "sports",
   "geopolitics",
   "israeli_politics",
   "business",
+  "sports",
   "ideas",
   "learn"
  ],
  "match_day": {
-  "is_match_day": true,
-  "events": [
-   {
-    "sport": "soccer",
-    "competition": "Primera Division",
-    "home": "Atleti",
-    "away": "Barça",
-    "kickoff_utc": "2026-11-08T20:00:00Z"
-   },
-   {
-    "sport": "nba",
-    "competition": "NBA",
-    "home": "Dallas Mavericks",
-    "away": "Brooklyn Nets",
-    "kickoff_utc": "2026-11-09T00:30:00.000Z"
-   }
-  ]
+  "is_match_day": false,
+  "events": []
  },
  "markets": {
   "TA35": {
@@ -54,25 +39,25 @@
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.2005,
-   "prev_close": 3.1532,
-   "change_pct": 1.5,
-   "as_of": "2026-11-06"
+   "last": 3.169,
+   "prev_close": 3.2005,
+   "change_pct": -0.99,
+   "as_of": "2026-11-09"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 98.32,
-   "prev_close": 98.29,
-   "change_pct": 0.03,
-   "as_of": "2026-11-06"
+   "last": 98.17,
+   "prev_close": 98.32,
+   "change_pct": -0.15,
+   "as_of": "2026-11-08"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 75818.6562,
+   "last": 74948.8281,
    "prev_close": 75747.5781,
-   "change_pct": 0.09,
-   "as_of": "2026-11-08"
+   "change_pct": -1.05,
+   "as_of": "2026-11-09"
   }
  },
- "essays_fetched": 3
+ "essays_fetched": 2
 }

@@ -24,142 +24,137 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2020,
-   "text": "Second Nagorno-Karabakh War: Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.",
+   "year": 2019,
+   "text": "The Alabama Crimson Tide and LSU Tigers football teams, both with undefeated records thus far that season, played in a \"Game of the Century\".",
    "context": [
-    "The Second Nagorno-Karabakh War was an armed conflict in 2020 that took place in the disputed region of Nagorno-Karabakh and the surrounding occupied territories. It was a major escalation of an unresolved conflict over the region, involving Azerbaijan, Armenia and the self-declared Armenian breakaway state of Artsakh. The war lasted for 44 days and resulted in Azerbaijani victory, with the defeat igniting anti-government protests in Armenia. Post-war skirmishes continued in the region, including substantial clashes in 2022."
+    "The Alabama Crimson Tide football program represents the University of Alabama in American football. It is part of the wider Crimson Tide athletics program and competes in the Southeastern Conference (SEC), a conference of the NCAA's Football Bowl Subdivision (FBS)."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2017,
-   "text": "The Louvre Abu Dhabi was inaugurated by the French president Emmanuel Macron and then-crown prince of Abu Dhabi Mohamed bin Zayed Al Nahyan.",
+   "year": 2019,
+   "text": "Pakistani prime minister Imran Khan inaugurated the Kartarpur Corridor, a visa-free border crossing connecting the Gurdwara Darbar Sahib to the India–Pakistan border.",
    "context": [
-    "The Louvre Abu Dhabi is an art museum located on Saadiyat Island in Abu Dhabi, United Arab Emirates. It runs under an agreement between the UAE and France, signed in March 2007, that allows it to use the Louvre's name until 2047, and has been described by the Louvre as \"France's largest cultural project abroad.\" It is approximately 24,000 square metres (260,000 ft2) in size, with 8,000 square metres (86,000 ft2) of galleries, making it the largest art museum in the Arabian Peninsula. Artworks from around the world are showcased at the museum, with stated intent to bridge the gap between Eastern and Western art. Louvre Abu Dhabi is one of the first completed projects of the Saadiyat Cultural District, which Abu Dhabi intends to develop into \"a leading destination for art, history and culture.\""
+    "Imran Ahmed Khan Niazi is a Pakistani former cricketer, philanthropist, and politician who served as the 19th prime minister of Pakistan from August 2018 until April 2022. As a cricketer, he captained the Pakistan national cricket team to victory in the 1992 Cricket World Cup. After retiring from cricket, he established the Shaukat Khanum Memorial Cancer Hospital and Research Centre, Pakistan's first cancer hospital. He is the founder of the political party Pakistan Tehreek-e-Insaf (PTI) and was its chairman from 1996 to 2023."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2013,
-   "text": "Typhoon Haiyan made landfall in the Visayas region of the Philippines, killing at least 6,300 people, making it the deadliest Philippine typhoon recorded in modern history.",
+   "year": 2016,
+   "text": "A tram derailment in Croydon, London, killed seven people.",
    "context": [
-    "Typhoon Haiyan, known in the Philippines as Super Typhoon Yolanda, was an extremely powerful and catastrophic tropical cyclone that is among the most intense tropical cyclones ever recorded. Upon making landfall, Haiyan devastated portions of Southeast Asia, particularly the Philippines, during early November 2013. It is one of the deadliest typhoons on record in the Philippines, killing at least 6,300 people in the region of Visayas alone. It was the most intense and deadliest tropical cyclone worldwide in 2013."
+    "On 9 November 2016, a tram operated by Tramlink in London, United Kingdom, derailed and overturned on a sharp bend approaching a junction. Of 69 passengers, there were seven fatalities and 62 injured, 19 of whom sustained serious injuries. This was the first tram incident in the UK in which passengers died since 1959."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1999,
-   "text": "German newspaper Der Spiegel publishes a report by the Federal Intelligence Service accusing figures in Liechtenstein of cooperating with organized crime.",
+   "year": 1993,
+   "text": "Bosnian War: Croatian Defence Council forces destroyed the Stari Most, a 16th-century bridge crossing the river Neretva in the city of Mostar (rebuilt bridge pictured).",
    "context": [
-    "Der Spiegel is a German weekly news magazine published in Hamburg. With a weekly circulation of about 724,000 copies in 2022, it is one of the largest such publications in Europe. It was founded in 1947 by John Seymour Chaloner, a British army officer, and Rudolf Augstein, a former Wehrmacht radio operator who was recognized in 2000 by the International Press Institute as one of the fifty World Press Freedom Heroes."
+    "The Bosnian War was an armed conflict that took place in Bosnia and Herzegovina, from 1992 until 1995. Following several earlier violent incidents, the war is commonly seen as having started on 6 April 1992 when the newly independent Republic of Bosnia and Herzegovina was internationally recognized. It ended on 21 November 1995 when the Dayton Accords were initialed. The main belligerents were the forces of the government of the Republic of Bosnia and Herzegovina, and those of the breakaway proto-states of the Republic of Herzeg-Bosnia and the Republika Srpska which were led and supplied by Croatia and Serbia, respectively."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1987,
-   "text": "A Provisional Irish Republican Army bomb exploded during a Remembrance Sunday ceremony in Enniskillen, Northern Ireland, killing 12 people and injuring 63 others.",
+   "year": 1989,
+   "text": "East German official Günter Schabowski mistakenly announced the immediate opening of the inner German border, resulting in the fall of the Berlin Wall that night (border crossing pictured).",
    "context": [
-    "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. It was the most active republican paramilitary group during the Troubles. It argued that the all-island Irish Republic continued to exist, and it saw itself as that state's army, the sole legitimate successor to the original IRA from the Irish War of Independence. It was designated a terrorist organisation in the United Kingdom and an unlawful organisation in the Republic of Ireland, both of whose authority it rejected."
+    "Günter Schabowski was a German politician who served as an official of the Socialist Unity Party of Germany, the ruling party during most of the existence of East Germany. After climbing up the party ladder, he became the regime's unofficial spokesman. He gained worldwide fame in November 1989 when he improvised a slightly mistaken answer to a press conference question about the future of the Berlin Wall, that seemed to announce the Wall's immediate end and raised popular expectations much more rapidly than the government planned. Massive crowds gathered at the Wall the same night, which forced its opening after 28 years. Soon afterward, the entire inner German border was opened; not much later, East Germany ceased to exist."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1974,
-   "text": "British peer Lord Lucan disappeared without a trace, a day after allegedly murdering Sandra Rivett, his children's nanny.",
+   "year": 1985,
+   "text": "At age 22, Garry Kasparov became the then-youngest World Chess Champion by defeating then-champion Anatoly Karpov.",
    "context": [
-    "Richard John Bingham, 7th Earl of Lucan, commonly known as Lord Lucan, was a British peer and gambler who vanished in 1974 after being suspected of killing Sandra Rivett, his children's nanny, and attempting to murder his wife. An evacuee during World War II, Lucan attended Eton College and served with the Coldstream Guards in West Germany from 1953 to 1955. He developed a taste for gambling, playing backgammon and bridge, and became an early member of the exclusive group of wealthy British gamblers at the Clermont Club. His losses often exceeded his winnings, yet he left his job at a London-based merchant bank and became a professional gambler. He was known as Lord Bingham from April 1949 until January 1964."
+    "Garry Kimovich Kasparov is a Russian chess grandmaster, political activist and writer, who was the World Chess Champion from 1985 to 2000. His peak FIDE chess rating of 2851, achieved in 1999, was the highest recorded until being surpassed by Magnus Carlsen in 2013. From 1984 until his retirement from regular competitive chess in 2005, Kasparov was ranked the world's No. 1 player for a record 255 months overall. Kasparov also holds records for the most consecutive professional tournament victories (15) and Chess Oscars (11)."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1971,
-   "text": "The English rock group Led Zeppelin released their fourth album, which became one of the best-selling albums worldwide.",
+   "year": 1967,
+   "text": "The first issue of Rolling Stone, an American magazine focusing on music, politics and popular culture, was published.",
    "context": [
-    "Led Zeppelin were an English rock band formed in London in 1968. The band comprised vocalist Robert Plant, guitarist Jimmy Page, bass-guitarist and keyboardist John Paul Jones and drummer John Bonham. Their combination of a heavy electric-guitar sound with elements of blues and folk music popularised album-oriented rock and stadium rock and established them as the progenitor of hard rock and heavy metal. They are amongst the best-selling music artists of all time, with an estimated 200 to 300 million records sold worldwide."
+    "Rolling Stone is an American monthly magazine that focuses on music, politics, and popular culture. It was founded in San Francisco, California, in 1967 by Jann Wenner and the music critic Ralph J. Gleason. It is described as left-leaning and liberal."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1966,
-   "text": "Massachusetts Attorney General Edward Brooke (pictured) became the first African American to be elected to the United States Senate since Reconstruction.",
+   "year": 1939,
+   "text": "World War II: A covert Sicherheitsdienst operation captured two British agents of the Secret Intelligence Service near Venlo in the Netherlands.",
    "context": [
-    "The Massachusetts attorney general is an elected constitutionally defined executive officer of the Massachusetts government. The officeholder is the chief lawyer and law enforcement officer of the Commonwealth of Massachusetts. The officeholder also acts as an advocate and resource for the Commonwealth and its residents in many areas, including consumer protection, combating fraud and corruption, protecting civil rights, and maintaining economic competition. The current attorney general is Andrea Campbell."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1965,
-   "text": "Vietnam War: In the Battle of Gang Toi, one of the earliest battles between the two sides, Viet Cong forces repelled an Australian attack.",
+   "year": 1938,
+   "text": "Kristallnacht began as SA stormtroopers and civilians destroyed and ransacked Jewish homes, businesses and synagogues in Germany and Austria, resulting in at least 90 deaths and the deportation of 30,000 men to concentration camps.",
    "context": [
-    "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 and peaked in 1969. After this, the US scaled back involvement until US forces were completely withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975."
+    "Kristallnacht (German: [kʁɪsˈtalnaχt] ; lit. 'crystal night') or the Night of Broken Glass, also called the November pogrom(s) (German: Novemberpogrome ), was a pogrom against Jews carried out by the Nazi Party's Sturmabteilung (SA) and Schutzstaffel (SS) paramilitary forces along with some participation from the Hitler Youth and German civilians throughout Nazi Germany on 9–10 November 1938. The German authorities looked on without intervening. The euphemistic name Kristallnacht comes from the shards of broken glass that littered the streets after the windows of Jewish-owned stores, buildings, and synagogues were smashed. The pretext for the attacks was the assassination, on 9 November 1938, of the German diplomat Ernst vom Rath by Herschel Grynszpan, a 17-year-old German-born Polish Jew living in Paris."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1957,
-   "text": "En route from San Francisco to Honolulu, Pan Am Flight 7 crashed into the Pacific Ocean due to unknown causes, killing all 44 people on board.",
+   "year": 1928,
+   "text": "The Great Mecca Feast, the first documentary film on the Hajj, premiered in the Netherlands.",
    "context": [
-    "Pan Am Flight 7 was a westbound round-the-world flight operated by Pan American World Airways. On November 8, 1957, the Boeing 377 Stratocruiser serving the flight, named Clipper Romance of the Skies, crashed in the Pacific Ocean en route to Honolulu International Airport from San Francisco. The crash killed all 36 passengers and eight crew members."
+    "The Great Mecca Feast is a 1928 silent documentary film by George Krugers. Divided into four acts, it opens with a group of Muslim men from the Dutch East Indies beginning the Hajj pilgrimage, then showcases elements of everyday life and worship in the Hejaz region of the Arabian Peninsula – including the Hajj itself. As Mecca had long been closed to non-Muslims, Krugers passed as a Muslim and recorded film and still-photographic documentation of the pilgrimage. In this endeavour, he was supported by people in both the Dutch East Indies and the Hejaz."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1940,
-   "text": "The Italian invasion of Greece failed as outnumbered Greek units repulsed the Italians at the Battle of Elaia–Kalamas.",
+   "year": 1926,
+   "text": "Paul Hindemith's opera Cardillac (scene pictured) premiered at the Dresden State Opera, conducted by Fritz Busch.",
    "context": [
-    "The Greco-Italian War, also called the Italo-Greek War, took place between Italy and Greece from 28 October 1940 to 23 April 1941. This conflict began the Balkans campaign of World War II between the Axis powers and the Allies, and eventually turned into the Battle of Greece with British and German involvement. On 10 June 1940, Italy declared war on France and the United Kingdom. By September 1940, the Italians had invaded France, British Somaliland and Egypt. This was followed by a hostile press campaign in Italy against Greece, accused of being a British ally. A number of provocations culminated in the sinking of the Greek light cruiser Elli by the Italians on 15 August. On 28 October, Mussolini issued an ultimatum to Greece demanding the cession of Greek territory, which the Prime Minister of Greece, Ioannis Metaxas, rejected."
+    "Paul Hindemith was a German and American composer, music theorist, teacher, violist, and conductor. He founded the Amar Quartet in 1921, touring extensively in Europe. As a composer, he became a major advocate of the Neue Sachlichkeit style of music in the 1920s, with compositions such as Kammermusik, including works with viola and viola d'amore as solo instruments in a neo-Bachian spirit. His other notable compositions include the song cycle Das Marienleben (1923), Der Schwanendreher for viola and orchestra (1935), the opera Mathis der Maler (1938) and the symphony Mathis der Maler (1934), the Symphonic Metamorphosis of Themes by Carl Maria von Weber (1943), and the oratorio When Lilacs Last in the Dooryard Bloom'd (1946), a requiem based on Walt Whitman's poem. Hindemith and his wife emigrated to Switzerland and the United States ahead of World War II, after worsening difficulties with the Nazi German regime. In his later years, he conducted and recorded much of his own music."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1932,
-   "text": "The Australian military withdrew from their \"war against emus\" in Western Australia, due to negative press coverage of the operation.",
+   "year": 1918,
+   "text": "The government of the Azerbaijan Democratic Republic adopted a tricolour national flag (pictured), which is again in use today, with slight modifications, by the present-day Republic of Azerbaijan.",
    "context": [
-    "The Australian Defence Force (ADF) is the military organisation responsible for the defence of Australia and its national interests. It consists of three services: the Royal Australian Navy (RAN), the Australian Army and the Royal Australian Air Force (RAAF). The ADF has a strength of just over 90,000 personnel and is supported by the Department of Defence and other civilian entities that altogether constitute the Australian Defence Organisation."
+    "The Republic of Azerbaijan, better known in historiography as the Azerbaijan Democratic Republic, was the first secular democratic republic in the Turkic and Muslim worlds. The ADR was founded by the Azerbaijani National Council in Tiflis on 28 May 1918 after the collapse of the Transcaucasian Democratic Federative Republic, and ceased to exist on 28 April 1920. Its established borders were with Russia to the north, the Democratic Republic of Georgia to the north-west, the Republic of Armenia to the west, and Iran to the south. It had a population of around 3 million. Ganja was the temporary capital of the Republic as Baku was under Bolshevik control."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1644,
-   "text": "The Shunzhi Emperor (portrait shown), the third emperor of the Qing dynasty, was enthroned in Beijing after the collapse of the Ming dynasty as the first Qing emperor to rule over China.",
+   "year": 1914,
+   "text": "World War I: Off the Cocos (Keeling) Islands, the Australian light cruiser Sydney sank Emden, the last active German warship in the Indian Ocean, at the Battle of Cocos.",
    "context": [
-    "The Shunzhi Emperor, personal name Fulin, was the second emperor of the Qing dynasty, and the first Qing emperor to rule over China proper. Upon the death of his father Hong Taiji, a committee of Manchu princes chose the 5-year-old Fulin as successor. The princes also appointed two co-regents: Dorgon, the 14th son of Nurhaci, and Jirgalang, one of Nurhaci's nephews, both of whom were members of the Aisin-Gioro clan. In November 1644, the Shunzhi Emperor was enthroned as emperor of China in Beijing."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1520,
-   "text": "After his coronation as king of Sweden, Christian II (pictured) gave the order to execute nearly 100 people, mostly noblemen, despite promises of general amnesty.",
+   "year": 1913,
+   "text": "A severe blizzard reached its maximum intensity in the Great Lakes Basin of North America, destroying 19 ships and 68,300 tons of cargo, and killing more than 250 people.",
    "context": [
-    "The monarchy of Sweden is centred on the monarchical head of state of Sweden, by law a constitutional and hereditary monarchy with a parliamentary system. There have been kings in what now is the Kingdom of Sweden for more than a millennium. Originally an elective monarchy, it became a hereditary monarchy in the 16th century during the reign of Gustav Vasa, though virtually all monarchs before that belonged to a limited and small number of political families which are considered to be the royal dynasties of Sweden."
+    "The Great Lakes Storm of 1913, historically referred to as the Big Blow, the Freshwater Fury and the White Hurricane, was a blizzard with hurricane-force winds that devastated the Great Lakes region in the Midwestern United States and Southwestern Ontario, Canada, between November 7 and 10, 1913. The storm was at its most powerful on November 9, battering and overturning ships on four of the five Great Lakes, particularly Lake Huron."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1291,
-   "text": "A law was passed that confined most of Venice's glassmaking industry to nearby Murano.",
+   "year": 1888,
+   "text": "Mary Jane Kelly, widely believed to be the fifth and final victim of the notorious unidentified serial killer Jack the Ripper, was murdered in London.",
    "context": [
-    "Venetian glass is glassware made in Venice, typically on the island of Murano near the city. Traditionally it is made with a soda–lime \"metal\" and is typically elaborately decorated, with various \"hot\" glass-forming techniques, as well as gilding, enamel, or engraving. Production has been concentrated on the Venetian island of Murano since the 13th century. Today Murano is known for its art glass, but it has a long history of innovations in glassmaking in addition to its artistic fame—and was Europe's major center for luxury glass from the High Middle Ages to the Italian Renaissance. During the 15th century, Murano glassmakers created cristallo—which was almost transparent and considered the finest glass in the world. Murano glassmakers also developed a white-colored glass that looked like porcelain. They later became Europe's finest makers of mirrors."
+    "Mary Jane Kelly, also known as Marie Jeanette Kelly, Fair Emma, Ginger, Dark Mary and Black Mary, is widely believed by scholars to have been the final victim of the unidentified serial killer Jack the Ripper, who murdered at least five women in the Whitechapel and Spitalfields districts of London from late August to early November 1888. At the time of her death, Kelly was approximately 25 years old, working as a prostitute and living in relative poverty."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1278,
-   "text": "Trần Thánh Tông, the second emperor of Vietnam's Trần dynasty, took up the title of retired emperor, but continued to co-rule with his son Nhân Tông for eleven more years.",
+   "year": 1822,
+   "text": "USS Alligator engaged three pirate schooners off the coast of Cuba in one of the West Indies anti-piracy operations of the United States.",
    "context": [
-    "Trần Thánh Tông, personal name Trần Hoảng (陳晃), was the second emperor of the Trần dynasty, reigning over Đại Việt from 1258 to 1278. After ceding the throne to his son Trần Nhân Tông, Thánh Tông held the title of retired emperor from 1279 until his death in 1290. During the second and the third Mongol invasions of Đại Việt, Retired Emperor Thánh Tông and Emperor Nhân Tông were credited as the supreme commanders who led the nation to the final victories and, as a result, established a long period of peace and prosperity over the country. With his successful rulings in both military and civil matters, Trần Thánh Tông was considered one of the greatest emperors of not only the Trần dynasty but also the whole dynastic era in the history of Vietnam."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 960,
-   "text": "Arab–Byzantine wars: Having been the target of many raids by the Emirate of Aleppo, Byzantine forces led by Leo Phokas the Younger ambushed the Hamdanids and annihilated their army.",
-   "context": [
-    "The Arab–Byzantine wars or Muslim–Byzantine wars were a series of wars from the 7th to 11th centuries between the successive Islamic caliphates and the Byzantine Empire. Following the Byzantine defeat at the Battle of the Yarmuk, Muslim armies conquered most Byzantine territory in the Levant, Egypt and North Africa within decades. Arab expansion subsequently slowed to a more gradual rate, following two failed sieges of the Byzantine capital of Constantinople in the late 7th and early 8th centuries. By the mid-9th century, the Byzantines had partially recovered and proceeded to recapture some of their lost territory in Anatolia in the following decades."
+    "USS Alligator was a schooner of the United States Navy that served from 1821 until her loss in 1822. Built at the Boston Navy Yard, she was commissioned in March 1821 under Lieutenant Robert F. Stockton. During two cruises off the west coast of Africa, Alligator operated against the Atlantic slave trade, capturing several slave ships. On her first cruise, Stockton and American Colonization Society representative Eli Ayers also negotiated the acquisition of territory around Cape Mesurado, which became an early centre of the settlement that developed into Liberia."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Run rate (קצב שנתי)",
+  "Golden handcuffs (אזיקי זהב)",
+  "The elephant in the room (הפיל בחדר)",
   "Creative destruction (הרס יצירתי)",
   "Ballpark figure (הערכה גסה)",
   "In the weeds (שקוע בפרטים הקטנים)",
@@ -246,10 +241,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Low-hanging fruit (פרי בשל)",
   "Loss leader (מוצר-פיתיון)",
   "Soft landing (נחיתה רכה)",
-  "Eat your own dog food (לעשות דוגפודינג)",
-  "Float (פלואט)",
-  "Land and expand (לנחות ולהתרחב)",
-  "Catching a falling knife (לתפוס סכין נופל)"
+  "Eat your own dog food (לעשות דוגפודינג)"
  ]
 }
 </input>

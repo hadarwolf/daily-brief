@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is philosophy. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -30,8 +30,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#0",
      "title": "Celestial nuisance",
      "published": "2026-11-06T11:00:00+00:00",
-     "summary": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on Aeon",
-     "full_text_file": "essays/aeon_0.txt"
+     "summary": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on Aeon"
     },
     {
      "ref": "aeon#1",
@@ -119,27 +118,28 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "lesswrong_curated#0",
+     "title": "Some Memories of Early Anthropic",
+     "published": "2026-11-08T21:51:27+00:00",
+     "summary": "The following events took place between October 2022 and May 2023. I wrote very little of this down at the time so am recalling from memory, and am rendering the gist of the dialogue rather than the exact words used. I’ve also swapped some pronouns and other personal identifiable details. Please remember that this is not a description of “what Anthropic is like”, but merely the experience of one g",
+     "full_text_file": "essays/lesswrong_curated_0.txt"
+    },
+    {
+     "ref": "lesswrong_curated#1",
      "title": "Towards understanding score-seeking in LLMs",
      "published": "2026-11-06T03:19:36+00:00",
      "summary": "The field of AI alignment understands surprisingly little about the details of AIs’ current misaligned motivations. Production LLMs sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended [1] , and we've recently seen AIs reward-hack in some particularly egregious ways. But we don't really understand what motivates them. When AIs reward-hack, wh"
     },
     {
-     "ref": "lesswrong_curated#1",
+     "ref": "lesswrong_curated#2",
      "title": "Quantity vs quality in pottery is a lie",
      "published": "2026-11-03T03:29:41+00:00",
      "summary": "Epistemic status: I traced one famous anecdote to its printed source and to both coauthors' own accounts of where it came from. Confident it was never a study. No claim either way about whether quantity beats quality in general. AI use: research (tracing the story to the book, to the coauthors' emails and to earlier LessWrong threads), fact-check of every claim against the sources, footnotes, gram"
     },
     {
-     "ref": "lesswrong_curated#2",
+     "ref": "lesswrong_curated#3",
      "title": "Plan R: AI Safety by ASICs",
      "published": "2026-10-29T02:08:07+00:00",
      "summary": "Much of the civilization-scale risk we are seeing in AI in 2026 comes from the following combination: we created a single institution (the \"Frontier AI Company\") that has two properties: A. It is set up to create very powerful and/or self-replicating entities that may exceed the capabilities of the entirety of the rest of civilization and come with extraordinary risks B. It gets to own an unbounde"
-    },
-    {
-     "ref": "lesswrong_curated#3",
-     "title": "I Did This Without Your Knowledge",
-     "published": "2026-10-25T20:51:57+00:00",
-     "summary": "It was fortunate that I was the first one to wake up on 8/1. The past week had been one where sleep was rare. The next year loomed large — I was dreading college applications. The stress woke me up bright and early at 5:14 AM, a little less than an hour after the messages were sent. I started off the day with a habit I knew I needed to break. I grabbed my phone off the nightstand to open up Reddit"
     }
    ]
   },
@@ -149,87 +149,75 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Sunday assorted links",
+     "published": "2026-11-08T17:06:45+00:00",
+     "summary": "1. Among the Wagner fanatics. 2. Does AI instead commodify jobs? 3. The digital world is making Islam more diverse (The Economist). 4. “An affair with an economist exposed the calculus of modern dating.” (New Yorker) 5. “How Much Economic Value Do AI Systems Produce per Unit of Energy?” 6. John Gray will be writing […] The post Sunday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "The Pope probably knows this song",
      "published": "2026-11-08T07:30:49+00:00",
      "summary": "The post The Pope probably knows this song appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "What I’ve been reading",
      "published": "2026-11-08T05:46:05+00:00",
      "summary": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the mainstream view these days? Excerpt: “For all of Szasz’s rhetorical flair and provocation, he […] The post What I’ve been reading appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "Saturday assorted links",
      "published": "2026-11-07T16:49:22+00:00",
      "summary": "1. Simon Winchester, RIP (NYT). 2. Pork roll vs. Taylor Ham, a NJ map. 3. Those new service sector jobs, Bradford edition. 4. “New assessment of the greatest of all time: Antarctic blue whales, showing how whaling reduced them from >200,000 to a low of just 418 before slow recovery at 4.5% per year to […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "What are the Best MR Posts?",
      "published": "2026-11-07T12:17:10+00:00",
      "summary": "From the Archives–written by ChatGPT. This ranking judges posts on reasoning, originality of framing, explanatory power, intellectual stimulation, timeliness, and how much they accomplish in their length. Originality includes an unusually illuminating application of an existing idea. Provocation earns credit when it exposes a real problem; unsupported certainty still counts against a post. The sel"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "The Anthropic succession plan?",
      "published": "2026-11-07T08:38:47+00:00",
      "summary": "Anthropic’s version is rather more elaborate. Each of its seven co-founders will maintain a confidential, ranked list of up to ten people who may eventually inherit that founder’s membership and voting role inside a special Founder LLC. Five of the other six co-founders must approve the list. The first eight candidates on the list must […] The post The Anthropic succession plan? appeared first on "
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "Was Mossadegh a liberal, democratizing force?",
      "published": "2026-11-07T05:58:54+00:00",
      "summary": "One reads and hears so many times that Iran was on the path to democracy until a CIA coup installed the Shah in 1953. It turns out that account is quite wrong, as is detailed by Simon Sebag Montefiore: As his support in the Majlis ebbed, Mosaddegh demanded autocratic powers. Both the shah and Majlis […] The post Was Mossadegh a liberal, democratizing force? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Friday assorted links",
      "published": "2026-11-06T18:07:28+00:00",
      "summary": "1. What will happen with Texas data centers? And more on that. 2. What is the half life of a claim about LLMs? 3. YouTube video created by AI. Titled Der Zauberberg. 4. Data centers tend to be put in places with relatively flat supply curves. 5. “According to Twenge, one of the great Cassandras […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "Untethered AI agents in Delaware?",
      "published": "2026-11-06T17:00:22+00:00",
      "summary": "A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of property, and incur obligations… That is a current proposal, here is the full article. […] The post Untethered AI agents in Delaware? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "What They Took From You",
      "published": "2026-11-06T12:15:49+00:00",
      "summary": "Until August 1914 a sensible, law-abiding Englishman could pass through life and hardly notice the existence of the state, beyond the post office and the police. He could live where he liked and as he liked. He had no official number or identity card. He could travel abroad or leave forever without a passport or […] The post What They Took From You appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "The Global Office",
      "published": "2026-11-06T06:18:58+00:00",
      "summary": "This paper argues that globalisation’s frontier has shifted from manufacturing GVCs to services GVCs: from the Global Factory to the Global Office. While the Factory remains larger in gross trade, the Office is growing much faster. A heatmap of trade in intermediates shows that the Factory is bloc-shaped and dominated by China, whereas the Office […] The post The Global Office appeared first on Ma"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Natasha Cowen guest posts on Caffrey",
      "published": "2026-11-06T05:54:49+00:00",
      "summary": "I am on my way back home from Armenia, where I was on a Fulbright teaching U.S. securities regulation to Armenian law students. I’m an active user of AI for multiple areas of my life, including my professional life. When I just started preparing for teaching this class, I had a plan: I would use […] The post Natasha Cowen guest posts on Caffrey appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Love at first photo?",
-     "published": "2026-11-05T19:55:13+00:00",
-     "summary": "Romantic interest on swipe-based dating apps (SBDAs) is highly concentrated. This can frustrate both popular users who feel overwhelmed by a glut of attention, and less popular users who feel dejected by a lack of it. Is the concentration of interest exacerbated by the platform design of dating apps? I provide causal evidence on the […] The post Love at first photo? appeared first on Marginal REVO"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Thursday assorted links",
-     "published": "2026-11-05T17:25:46+00:00",
-     "summary": "1. Economics job market site. 2. Data on the flattening of consumer culture (NYT). One-sided, but still of interest. 3. A new and better measure of how much of educational value is signaling. 4. Inside joke concerning the Pope that only some Beatles fans will get. 5. U.S. productivity growth is looking up. 6. NYT […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Pollution as Growth Killer",
-     "published": "2026-11-05T12:17:06+00:00",
-     "summary": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am interviewed; here is one bit: Q. Doesn’t the demographic dividend argue for growth first? The demographic dividend is people. […] The post Pollution as Growth Killer appeared first on Mar"
     }
    ]
   },
@@ -241,20 +229,19 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#0",
      "title": "How to break a bad habit",
      "published": "2026-11-06T11:01:00+00:00",
-     "summary": "Feel stuck with a habit you know is bad for you? Getting to know your brain better could help you change the narrative - Video by Dr Tracey Marks Watch on Psyche",
-     "full_text_file": "essays/psyche_0.txt"
+     "summary": "Feel stuck with a habit you know is bad for you? Getting to know your brain better could help you change the narrative - Video by Dr Tracey Marks Watch on Psyche"
     },
     {
      "ref": "psyche#1",
-     "title": "How to take notes that actually help you learn",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
-    },
-    {
-     "ref": "psyche#2",
      "title": "Who am I if I don’t run?",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
+    },
+    {
+     "ref": "psyche#2",
+     "title": "How to take notes that actually help you learn",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     },
     {
      "ref": "psyche#3",
@@ -363,6 +350,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "Astronomy's 'Big Questions' Are a Choice, Not a Discovery",
   "The Theorem That Finished Off Einstein's Idea of Reality",
   "Why AI Models Cheat Graders: It's the Score They Want, Not the Reward",
   "What Counts as a Delusion? A Psychologist's Own Family Complicates the Answer",
@@ -391,8 +379,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "Is 'Attention' the Essence of Intelligence?",
   "The Racial Trauma of Black Men Is Hidden Behind the Label 'Threat'",
   "Moving on from a breakup isn't healing — it's a philosophical project of self-construction, and it makes you better",
-  "The Economist Who Argued Poverty, Empire and Ecology Were One Problem",
-  "A Rumored AI Proof Set Off a Publishing Race in Math — and a Debate Over What Gets Lost"
+  "The Economist Who Argued Poverty, Empire and Ecology Were One Problem"
  ]
 }
 </input>
