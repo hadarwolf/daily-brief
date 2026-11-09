@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-09",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-09T04:09:11+00:00",
+  "stories": [
+    {
+      "id": "word-natural-hedge",
+      "kind": "word",
+      "en": {
+        "headline": "Natural hedge (גידור טבעי)",
+        "scroll": "Owning an asset and a matching liability in the same currency or market, so that price swings cancel out instead of creating risk.",
+        "coffee": "A natural hedge happens when a company's costs or debts are denominated in the same currency as its assets or revenue, so a shift in that currency doesn't create a mismatch. It's called 'natural' because it comes from the business's own structure, not from buying a financial contract. Example: 'The airline built a natural hedge by paying for its European jets with revenue it already earns in euros.'",
+        "deep": "A natural hedge is a way of managing currency or price risk without buying a derivative: instead of using options or futures contracts, a company simply arranges its assets and liabilities so that the same risk cancels itself out. If a company owns yen-denominated stock and also borrows in yen, a weaker yen reduces the value of both sides roughly equally, leaving its net exposure more or less unchanged.\n\nThe main confusion: a natural hedge is not free insurance against loss in absolute terms — if the whole market moves against both sides at once, you still lose on net worth, just less than you would with an unmatched position. It only protects against relative currency or rate moves between the asset and the liability.\n\nMore examples: 'A Mexican manufacturer that sells only in dollars gets a natural hedge by borrowing in dollars too.' 'Owning the building your factory sits in is a natural hedge against rising rent.' In Hebrew: גידור טבעי."
+      },
+      "he": {
+        "headline": "Natural hedge (גידור טבעי)",
+        "scroll": "החזקת נכס והתחייבות מקבילה באותו מטבע או שוק, כך שתנודות המחיר מקזזות זו את זו במקום ליצור סיכון.",
+        "coffee": "גידור טבעי קורה כשההוצאות או החובות של חברה נקובים באותו מטבע כמו הנכסים או ההכנסות שלה, כך ששינוי באותו מטבע לא יוצר פער. זה נקרא \"טבעי\" כי הוא נובע מהמבנה של העסק עצמו, לא מרכישת חוזה פיננסי. לדוגמה: \"חברת התעופה בנתה גידור טבעי בכך ששילמה על המטוסים האירופיים שלה מהכנסות שהיא כבר מרוויחה ביורו.\"",
+        "deep": "גידור טבעי הוא דרך לנהל סיכון מטבע או מחיר בלי לרכוש נגזר פיננסי: במקום להשתמש באופציות או בחוזים עתידיים, חברה פשוט מסדרת את הנכסים וההתחייבויות שלה כך שאותו סיכון מקזז את עצמו. אם חברה מחזיקה מניות הנקובות ביין וגם מגייסת חוב ביין, ייחלשות היין מקטינה את שווי שני הצדדים בערך באופן שווה, ומשאירה את החשיפה הנטו שלה כמעט ללא שינוי.\n\nהבלבול הנפוץ: גידור טבעי אינו ביטוח חינמי מפני הפסד במובן המוחלט - אם כל השוק זז נגד שני הצדדים בבת אחת, עדיין יש הפסד בשווי הנקי, רק קטן יותר מאשר בפוזיציה לא מגודרת. הוא מגן רק מפני תנועות מטבע או ריבית יחסיות בין הנכס להתחייבות.\n\nדוגמאות נוספות: \"יצרן מקסיקני שמוכר רק בדולרים מקבל גידור טבעי אם הוא גם מגייס חוב בדולרים.\" \"להחזיק בבניין שבו יושב המפעל שלך הוא גידור טבעי מפני עליית שכר דירה.\" במקור: Natural hedge."
+      },
+      "tags": [
+        "vocabulary",
+        "finance",
+        "currency"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-beat-and-raise",
+      "kind": "word",
+      "en": {
+        "headline": "Beat-and-raise (רבעון של עקיפת תחזיות והעלאת תחזית)",
+        "scroll": "A quarter in which a company both beats analysts' earnings expectations and raises its own guidance for the period ahead.",
+        "coffee": "A 'beat-and-raise' quarter is the gold standard for a public company's earnings report: it means the company didn't just outperform forecasts for the quarter that just ended, it also told investors to expect more next time. Example: 'The stock jumped 8% after a beat-and-raise quarter reassured investors that demand wasn't slowing.'",
+        "deep": "Beat-and-raise describes the strongest possible combination in an earnings release: actual results exceed Wall Street's consensus estimates ('beat'), and management simultaneously raises its forward guidance ('raise') rather than just reaffirming it. Investors treat it as a strong signal because it shows momentum is continuing, not just a one-off strong quarter.\n\nA common confusion: beating estimates alone is not the same as beat-and-raise — a company can beat a weak quarter and still guide cautiously, which markets often punish even though the headline number looked good. The 'raise' part is what separates genuine strength from a low bar cleared easily.\n\nMore examples: 'Investors were disappointed when the beat wasn't followed by a raise.' 'After three straight beat-and-raise quarters, the stock traded at a premium to peers.' In Hebrew: רבעון שמכה את התחזיות ומעלה את התחזית הבאה."
+      },
+      "he": {
+        "headline": "Beat-and-raise (רבעון של עקיפת תחזיות והעלאת תחזית)",
+        "scroll": "רבעון שבו חברה גם עוקפת את תחזיות האנליסטים לרווח וגם מעלה את התחזית שלה עצמה לתקופה הקרובה.",
+        "coffee": "רבעון \"beat-and-raise\" הוא התקן הגבוה ביותר לדוח רווחים של חברה ציבורית: הוא אומר שהחברה לא רק עלתה על התחזיות לרבעון שהסתיים, אלא גם הודיעה למשקיעים לצפות ליותר בפעם הבאה. לדוגמה: \"המניה זינקה ב-8% אחרי רבעון beat-and-raise שהרגיע משקיעים שהביקוש לא נחלש.\"",
+        "deep": "Beat-and-raise מתאר את השילוב החזק ביותר האפשרי בדוח רווחים: התוצאות בפועל עוקפות את תחזית הקונצנזוס של וול סטריט (\"beat\"), וההנהלה במקביל מעלה את התחזית שלה קדימה (\"raise\") במקום רק לאשר אותה מחדש. משקיעים מתייחסים לזה כאיתות חזק כי הוא מראה שהמומנטום נמשך, ולא רק רבעון חזק חד-פעמי.\n\nבלבול נפוץ: לעקוף תחזיות בלבד זה לא אותו דבר כמו beat-and-raise - חברה יכולה לעקוף רבעון חלש ועדיין לתת תחזית שמרנית, מה שהשווקים לרוב מענישים גם אם המספר הכותרתי נראה טוב. חלק ה\"raise\" הוא מה שמפריד בין חוזק אמיתי לבין רף נמוך שעברו בקלות.\n\nדוגמאות נוספות: \"המשקיעים התאכזבו כשה-beat לא לווה ב-raise.\" \"אחרי שלושה רבעוני beat-and-raise ברצף, המניה נסחרה בפרמיה מול המתחרות.\" במקור: Beat-and-raise."
+      },
+      "tags": [
+        "vocabulary",
+        "earnings",
+        "markets"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-catching-falling-knife",
+      "kind": "word",
+      "en": {
+        "headline": "Catching a falling knife (לתפוס סכין נופל)",
+        "scroll": "Buying an asset while its price is still sharply dropping, on the bet that it's near the bottom — a bet that often loses.",
+        "coffee": "'Catching a falling knife' describes buying into a stock or asset purely because it has already fallen a lot, assuming it must be close to a bottom — without evidence the decline has actually stopped. The image is literal: grabbing a falling blade by the handle takes perfect timing, and most people who try get cut. Example: 'He bought the stock after it halved in a week, but it kept falling — a classic case of catching a falling knife.'",
+        "deep": "This idiom warns against buying a sharply falling asset purely because the price looks cheap relative to where it recently traded, with no other evidence that the decline has stopped. A big drop can mean a stock is undervalued, but it can just as easily mean the market has correctly priced in a real deterioration in the business, and the price has further to fall.\n\nThe common confusion is conflating this with legitimate 'buying the dip': the difference is usually whether there's a specific reason to believe the sell-off is overdone, versus just assuming any big drop must reverse. Professionals distinguish the two by looking at why the price fell, not just by how much.\n\nMore examples: 'Averaging down into a stock with deteriorating fundamentals is catching a falling knife.' 'Value investors try to avoid falling knives by waiting for the business, not just the price, to stabilize.' In Hebrew: לתפוס סכין נופל."
+      },
+      "he": {
+        "headline": "Catching a falling knife (לתפוס סכין נופל)",
+        "scroll": "לקנות נכס בזמן שמחירו עדיין צונח בחדות, על ההימור שהוא קרוב לתחתית - הימור שלרוב מפסיד.",
+        "coffee": "\"לתפוס סכין נופל\" מתאר קנייה של מניה או נכס רק בגלל שהוא כבר צנח הרבה, בהנחה שהוא בטח קרוב לתחתית - בלי שום עדות שהצניחה בפועל נעצרה. התמונה מילולית: לתפוס סכין נופלת בידית דורש תזמון מושלם, ורוב מי שמנסים נחתכים. לדוגמה: \"הוא קנה את המניה אחרי שהיא נחצתה בשבוע, אבל היא המשיכה לרדת - מקרה קלאסי של תפיסת סכין נופל.\"",
+        "deep": "הביטוי הזה מזהיר מפני קנייה של נכס שצונח בחדות רק בגלל שהמחיר נראה זול יחסית למקום שבו נסחר לאחרונה, בלי שום עדות אחרת שהצניחה נעצרה. ירידה גדולה יכולה להעיד שמניה מוערכת בחסר, אבל היא יכולה באותה מידה להעיד שהשוק תמחר כנכונה הידרדרות אמיתית בעסק, ושיש עוד לאן לרדת.\n\nהבלבול הנפוץ הוא לבלבל את זה עם \"קניית הדיפ\" הלגיטימית: ההבדל הוא בדרך כלל אם יש סיבה ספציפית להאמין שהמכירה מוגזמת, לעומת סתם הנחה שכל ירידה גדולה חייבת להתהפך. אנשי מקצוע מבדילים בין השניים לפי הסיבה לירידה, לא רק לפי גודלה.\n\nדוגמאות נוספות: \"להגדיל אחזקה במניה עם יסודות מתדרדרים זה לתפוס סכין נופל.\" \"משקיעי ערך מנסים להימנע מסכינים נופלים בכך שהם מחכים שהעסק, לא רק המחיר, יתייצב.\" במקור: Catching a falling knife."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "investing"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-mark-to-market",
+      "kind": "concept",
+      "en": {
+        "headline": "Mark-to-Market Accounting: Why a Paper Gain Can Move Reported Profit",
+        "scroll": "An accounting rule that forces companies to record paper gains and losses on assets they still own, even though nothing has actually been bought or sold.",
+        "coffee": "Mark-to-market accounting means valuing an asset on the books at its current market price, not at what you originally paid for it. If a company owns shares worth $100 million at the start of a quarter and $120 million at the end, mark-to-market accounting books a $20 million gain immediately — even if not a single share was sold. Example: 'Because of mark-to-market rules, a bank's reported profit can swing wildly in a single quarter, even if its actual lending business didn't change at all.'",
+        "deep": "## The idea\n\nMark-to-market accounting requires a company to value certain assets on its balance sheet at their current market price at the end of each reporting period, rather than at the price it originally paid (historical cost). The change in that market value between periods flows through as a gain or loss on the income statement, even though the company hasn't sold anything and hasn't actually realized any cash.\n\n## A worked example\n\nSuppose a company buys a block of shares for $100 million in January. By the end of the first quarter, the market has pushed those shares up to $115 million. Under mark-to-market rules, the company reports a $15 million unrealized gain in its quarterly profit, even though it hasn't sold a single share and has no extra cash in hand. If the market then falls and those same shares are worth $90 million by the end of the second quarter, the company must now report a $25 million unrealized loss for that quarter ($115 million down to $90 million) — again, without selling anything. Across the two quarters, the company's cash position hasn't changed at all because of these holdings, yet its reported profit swung by $40 million purely from paper valuation changes.\n\n## Why it matters\n\nThe rule exists because market prices are considered a more honest, up-to-date measure of what an asset is actually worth than whatever a company happened to pay for it years ago — which matters most for financial institutions whose core business is holding and trading securities. But it has a real cost for anyone reading an earnings report: a company's reported net income can swing sharply from a rising or falling stock market, bond market, or commodity market, even when its actual operating business is completely stable. This is exactly why professional investors learn to separate operating earnings (the cash a business generates from what it actually does) from the mark-to-market swings sitting in net income, especially for companies like insurers, banks, or conglomerates that hold large investment portfolios alongside their operating businesses.\n\n## Worth remembering\n\nThe next time a company's headline profit jumps or crashes far more than its underlying business seems to justify, mark-to-market accounting on assets it still holds is often the explanation — not a change in how the business itself is actually performing."
+      },
+      "he": {
+        "headline": "חשבונאות לפי שווי שוק (Mark-to-Market): איך רווח על הנייר מזיז את הרווח המדווח",
+        "scroll": "כלל חשבונאי שמחייב חברות לרשום רווחים והפסדים על נכסים שהן עדיין מחזיקות בהן, גם כשבפועל לא נמכר או נרכש דבר.",
+        "coffee": "חשבונאות לפי שווי שוק (mark-to-market) פירושה להעריך נכס בספרים לפי מחיר השוק הנוכחי שלו, לא לפי מה ששולם עבורו במקור. אם חברה מחזיקה מניות ששוויין 100 מיליון דולר בתחילת הרבעון ו-120 מיליון דולר בסופו, חשבונאות לפי שווי שוק רושמת רווח של 20 מיליון דולר באופן מיידי - גם אם לא נמכרה אפילו מניה אחת. לדוגמה: \"בגלל כללי ה-mark-to-market, הרווח המדווח של בנק יכול להתנדנד בחדות ברבעון בודד, גם אם עסקי האשראי שלו בפועל לא השתנו כלל.\"",
+        "deep": "## הרעיון\n\nחשבונאות לפי שווי שוק מחייבת חברה להעריך נכסים מסוימים במאזן לפי מחיר השוק הנוכחי שלהם בסוף כל תקופת דיווח, ולא לפי המחיר ששולם עבורם במקור (עלות היסטורית). השינוי בשווי השוק הזה בין התקופות עובר כרווח או הפסד בדוח רווח והפסד, גם אם החברה לא מכרה כלום ולא מימשה בפועל מזומן כלשהו.\n\n## דוגמה מספרית\n\nנניח שחברה קונה בלוק מניות בינואר ב-100 מיליון דולר. עד סוף הרבעון הראשון, השוק מעלה את שווי המניות ל-115 מיליון דולר. לפי כללי mark-to-market, החברה מדווחת על רווח לא ממומש של 15 מיליון דולר ברווח הרבעוני שלה, גם אם לא מכרה אפילו מניה אחת ואין לה מזומן נוסף ביד. אם השוק יורד בהמשך ואותן מניות שוות 90 מיליון דולר בסוף הרבעון השני, החברה חייבת כעת לדווח על הפסד לא ממומש של 25 מיליון דולר לרבעון הזה (מ-115 ל-90 מיליון), שוב בלי למכור כלום. על פני שני הרבעונים, מצב המזומנים של החברה לא השתנה כלל בשל האחזקות האלה, אבל הרווח המדווח שלה התנדנד ב-40 מיליון דולר רק משינויי שווי על הנייר.\n\n## למה זה חשוב\n\nהכלל קיים כי מחירי שוק נחשבים למדד הגון ומעודכן יותר לשווי האמיתי של נכס מאשר מה שחברה שילמה עליו שנים קודם לכן - וזה חשוב בעיקר למוסדות פיננסיים שהעסק המרכזי שלהם הוא החזקה ומסחר בניירות ערך. אבל יש לזה מחיר ממשי לכל מי שקורא דוח רווחים: הרווח הנקי המדווח של חברה יכול להתנדנד בחדות משוק מניות, אג\"ח או סחורות עולה או יורד, גם כשהעסק התפעולי שלה בפועל יציב לחלוטין. זו בדיוק הסיבה שמשקיעים מקצועיים לומדים להפריד בין רווח תפעולי (המזומן שהעסק מייצר ממה שהוא בפועל עושה) לבין תנודות ה-mark-to-market שיושבות ברווח הנקי, בייחוד בחברות כמו מבטחים, בנקים או קונצרנים שמחזיקים תיקי השקעות גדולים לצד העסקים התפעוליים שלהם.\n\n## שווה לזכור\n\nבפעם הבאה שהרווח המדווח של חברה מזנק או קורס הרבה יותר ממה שהעסק שבבסיסו נראה כמצדיק, חשבונאות לפי שווי שוק על נכסים שהיא עדיין מחזיקה היא לרוב ההסבר - לא שינוי באיך שהעסק עצמו באמת מתפקד."
+      },
+      "tags": [
+        "accounting",
+        "markets",
+        "concept-of-the-day"
+      ],
+      "sources": []
+    },
+    {
+      "id": "berlin-wall-1989",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1989: A Bureaucrat's Slip of the Tongue Brings Down the Berlin Wall",
+        "scroll": "An East German official's mistaken answer at a press conference set off a chain of events that opened the Berlin Wall that same night, hastening the end of the Cold War.",
+        "coffee": "On November 9, 1989, East German Communist Party official Günter Schabowski, improvising an answer at a press conference about new travel rules, gave a slightly mistaken reply that seemed to announce the immediate opening of the inner German border. Word spread fast, and massive crowds gathered at the Berlin Wall that same night, pressuring confused border guards until they had no choice but to let people through.\n\nThe Wall had stood since 1961, dividing East and West Berlin as the most visible symbol of the Cold War's division of Europe. Its sudden, improvised collapse — triggered by a bureaucratic miscommunication rather than any planned decision — showed how brittle the East German system had become by 1989, propelled by months of mass protests and a reform wave sweeping the Soviet bloc. Within less than a year, East and West Germany were reunified, and the Wall's fall is widely seen as the moment the Cold War's division of Europe effectively ended.",
+        "deep": "## The context\n\nBy the autumn of 1989, East Germany (the GDR) was one of several Soviet-bloc states facing mounting pressure for reform, as Hungary opened its borders, Poland held partially free elections, and mass demonstrations spread through East German cities demanding freedom to travel and political change. The Communist leadership, trying to manage the pressure without losing control entirely, drafted new regulations intended to ease — but still control — travel to the West.\n\n## What happened\n\nOn November 9, Günter Schabowski, the party's de facto spokesman, was handed a note about the new travel rules just before a press conference and had not been fully briefed on when they would take effect. Asked directly when the new rules would start, he said, in effect, immediately — a mistaken answer, since the regulation was meant to take effect the next day with controlled procedures. East German state television broadcast the news as if the border was open now. Within hours, tens of thousands of East Berliners gathered at crossing points along the Wall, overwhelming and confusing the border guards, who had received no orders for this scenario. Facing crowds too large to control and no clear instructions, guards at one crossing simply opened the gates that night, and other checkpoints quickly followed.\n\n## Why it mattered\n\nThe Wall had been the most concrete, visible symbol of a divided Europe since 1961, separating families and marking the front line of the Cold War in the middle of a single city. Its fall, triggered by an improvised answer rather than any top-down decision, exposed how little real control the East German government still had. The event accelerated a cascade: East Germany's government soon collapsed, free elections followed, and East and West Germany formally reunified less than a year later, on October 3, 1990. For much of the world, the night the Wall fell has become the symbolic end point of the Cold War's division of Europe, even though the formal end of the Soviet Union itself came two years later."
+      },
+      "he": {
+        "headline": "1989: טעות לשון של בירוקרט מפילה את חומת ברלין",
+        "scroll": "תשובה שגויה בטעות של פקיד מזרח-גרמני בשיחת עיתונאים הציתה שרשרת אירועים שפתחה את חומת ברלין בליל אותו יום, וקירבה את סוף המלחמה הקרה.",
+        "coffee": "ב-9 בנובמבר 1989, הפקיד הבכיר במפלגה הקומוניסטית במזרח גרמניה, גינטר שאבובסקי, השיב תשובה מאולתרת ומוטעית בשיחת עיתונאים על תקנות נסיעה חדשות, שנשמעה כהודעה על פתיחה מיידית של הגבול הפנים-גרמני. השמועה התפשטה מהר, והמונים עצומים התקבצו באותו לילה לאורך חומת ברלין, והפעילו לחץ על שומרי גבול מבולבלים עד שלא נותרה להם ברירה אלא לתת לאנשים לעבור.\n\nהחומה עמדה במקומה מאז 1961, וחצתה בין ברלין המזרחית למערבית כסמל הנראה ביותר לחלוקת אירופה במלחמה הקרה. קריסתה הפתאומית והלא-מתוכננת - שהוצתה על ידי תקשורת בירוקרטית מוטעית ולא על ידי החלטה מתוכננת - הראתה כמה שביר הפך המשטר המזרח-גרמני עד 1989, בדחיפת חודשים של הפגנות המונים וגל רפורמות שעבר על הגוש הסובייטי. בתוך פחות משנה, גרמניה המזרחית והמערבית התאחדו מחדש, ונפילת החומה נחשבת בעיני רבים לרגע שבו חלוקת אירופה במלחמה הקרה הסתיימה בפועל.",
+        "deep": "## ההקשר\n\nבסתיו 1989, מזרח גרמניה (ה-GDR) הייתה אחת ממדינות הגוש הסובייטי שעמדו בפני לחץ גובר לרפורמה, כשהונגריה פתחה את גבולותיה, פולין קיימה בחירות חלקית חופשיות, והפגנות המונים התפשטו בערים המזרח-גרמניות בדרישה לחופש נסיעה ושינוי פוליטי. ההנהגה הקומוניסטית, בניסיון לנהל את הלחץ בלי לאבד שליטה מוחלטת, גיבשה תקנות חדשות שנועדו להקל - אך עדיין לשלוט - על נסיעות למערב.\n\n## מה קרה\n\nב-9 בנובמבר, גינטר שאבובסקי, שכיהן למעשה כדובר המפלגה, קיבל פתק על התקנות החדשות ממש לפני שיחת עיתונאים, ולא תודרך במלואו על מועד תחילת תוקפן. כשנשאל ישירות מתי התקנות החדשות יחלו, הוא ענה, בפועל, שהן בתוקף באופן מיידי - תשובה מוטעית, שכן התקנה נועדה להיכנס לתוקף למחרת בהליכים מבוקרים. הטלוויזיה הממלכתית המזרח-גרמנית שידרה את החדשה כאילו הגבול פתוח כעת. בתוך שעות, עשרות אלפי תושבי מזרח ברלין התקבצו במעברי הגבול לאורך החומה, הציפו ובלבלו את שומרי הגבול, שלא קיבלו הנחיות לתרחיש הזה. בעמידה מול המונים גדולים מכדי להישלט ובלי הנחיות ברורות, שומרים במעבר אחד פשוט פתחו את השערים באותו לילה, ומעברים נוספים הלכו בעקבותיהם במהירות.\n\n## למה זה היה חשוב\n\nהחומה הייתה הסמל המוחשי והנראה ביותר לאירופה מחולקת מאז 1961, שהפרידה בין משפחות וסימנה את קו החזית של המלחמה הקרה בתוך עיר אחת. נפילתה, שהוצתה על ידי תשובה מאולתרת ולא על ידי החלטה מהצמרת, חשפה כמה מעטה שליטה אמיתית נותרה לממשלה המזרח-גרמנית. האירוע האיץ שרשרת: ממשלת מזרח גרמניה קרסה זמן קצר אחר כך, בחירות חופשיות נערכו, ומזרח ומערב גרמניה התאחדו רשמית בתוך פחות משנה, ב-3 באוקטובר 1990. לחלקים גדולים מהעולם, הלילה שבו נפלה החומה הפך לנקודת הסיום הסימבולית של חלוקת אירופה במלחמה הקרה, אף שהסיום הפורמלי של ברית המועצות עצמה הגיע שנתיים מאוחר יותר."
+      },
+      "tags": [
+        "cold-war",
+        "germany",
+        "berlin-wall"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1989: East German official Günter Schabowski mistakenly announced the immediate opening of the inner German border, resulting in the fall of the Berlin Wall that night (border crossing pictured).",
+          "url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski"
+        }
+      ]
+    }
+  ]
+}

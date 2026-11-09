@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-09",
+  "questions": [
+    {
+      "id": "q-iran-rubio",
+      "section": "geopolitics",
+      "story_id": "iran-conflict-houthi-strikes",
+      "answer_index": 2,
+      "en": {
+        "question": "What did Secretary of State Marco Rubio say about the US war against Iran?",
+        "options": [
+          "Congress had voted to immediately halt it",
+          "It had already ended successfully with no further risk",
+          "It wasn't necessarily popular with Americans, but was needed to stop a nuclear threat",
+          "Saudi Arabia had formally requested that the US launch it"
+        ],
+        "explanation": "Rubio made the unusual admission that the war carried a real political cost at home but was necessary to stop Iran's nuclear program."
+      },
+      "he": {
+        "question": "מה אמר מזכיר המדינה מרקו רוביו על המלחמה האמריקנית באיראן?",
+        "options": [
+          "שהקונגרס הצביע להפסיקה באופן מיידי",
+          "שהיא הסתיימה בהצלחה וללא סיכון נוסף",
+          "שהיא לא בהכרח פופולרית בקרב האמריקאים, אך נדרשת כדי לעצור איום גרעיני",
+          "שסעודיה ביקשה רשמית מארה\"ב להשיק אותה"
+        ],
+        "explanation": "רוביו הודה בצורה חריגה שלמלחמה יש מחיר פוליטי אמיתי בבית, אך היא נדרשת כדי לעצור את התוכנית הגרעינית של איראן."
+      }
+    },
+    {
+      "id": "q-eisenkot-deadline",
+      "section": "israeli_politics",
+      "story_id": "eisenkot-coalition-countdown",
+      "answer_index": 1,
+      "en": {
+        "question": "What happens if no government is formed in Israel by February 26?",
+        "options": [
+          "Netanyahu would automatically return as prime minister",
+          "The Knesset is expected to disperse toward new elections in May",
+          "Avigdor Liberman would be sworn in as prime minister",
+          "President Herzog would dissolve the Knesset immediately"
+        ],
+        "explanation": "If the coalition talks fail by that deadline, the Knesset is expected to disperse and new elections would be held in May."
+      },
+      "he": {
+        "question": "מה קורה אם לא תורכב ממשלה בישראל עד 26 בפברואר?",
+        "options": [
+          "נתניהו יחזור באופן אוטומטי לכהן כראש ממשלה",
+          "הכנסת צפויה להתפזר לקראת בחירות נוספות שייערכו במאי",
+          "אביגדור ליברמן יושבע כראש ממשלה",
+          "הנשיא הרצוג יפזר את הכנסת באופן מיידי"
+        ],
+        "explanation": "אם המשא ומתן הקואליציוני יכשל עד למועד הזה, הכנסת צפויה להתפזר ובחירות חדשות יתקיימו במאי."
+      }
+    },
+    {
+      "id": "q-berkshire-profit",
+      "section": "business",
+      "story_id": "berkshire-profit-swing-yen-bonds",
+      "answer_index": 2,
+      "en": {
+        "question": "Why did Berkshire Hathaway's quarterly profit fall 28%?",
+        "options": [
+          "A one-time accounting fraud was uncovered at the company",
+          "It sold its Japanese stock holdings at a steep loss",
+          "Its stock portfolio gained less on paper, and its insurance results softened",
+          "Regulators fined it for an antitrust violation"
+        ],
+        "explanation": "The drop came from smaller unrealized investment gains and weaker insurance results, not from any deterioration in how its core businesses are run."
+      },
+      "he": {
+        "question": "למה הרווח הרבעוני של ברקשייר הת'אווי צנח ב-28%?",
+        "options": [
+          "התגלתה בחברה הונאה חשבונאית חד-פעמית",
+          "היא מכרה את אחזקותיה במניות יפניות בהפסד חד",
+          "תיק המניות שלה עלה פחות על הנייר, ותוצאות הביטוח נחלשו",
+          "רגולטורים הטילו עליה קנס בגין הפרת תחרות"
+        ],
+        "explanation": "הצניחה נבעה מרווחי השקעות לא ממומשים קטנים יותר ומתוצאות ביטוח חלשות יותר, לא מהתדרדרות באופן שבו מתפקדים העסקים המרכזיים שלה."
+      }
+    }
+  ]
+}

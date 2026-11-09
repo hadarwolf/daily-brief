@@ -1,0 +1,214 @@
+{
+  "section": "sports",
+  "date": "2026-11-09",
+  "title_en": "Sports",
+  "title_he": "ספורט",
+  "default_lang": "en",
+  "generated_at": "2026-11-09T04:09:11+00:00",
+  "stories": [
+    {
+      "id": "barca-comeback-atleti",
+      "kind": "news",
+      "en": {
+        "headline": "Barcelona Fight Back to Beat Atletico as Fermin Lopez Scores Twice",
+        "scroll": "Barcelona came from behind to beat Atletico Madrid 2-1, with Fermin Lopez's brace keeping them top of La Liga.",
+        "coffee": "Barcelona trailed early at the Metropolitano but fought back to beat Atletico Madrid 2-1, with Fermin Lopez scoring twice to complete the comeback. The win keeps Barca five points clear of Real Madrid in La Liga's title race (33 points from 12 games, a +35 goal difference) and six ahead of a resurgent Atletico side now third on 28 points.\n\nIt was the kind of gritty away win that title-winning teams need to find even when they're not at their best, following Barca's 3-0 Champions League win over Aston Villa and a 6-1 league thrashing of Alaves in their last two outings. The next test comes on November 22 at home to Villarreal, with the international break sitting in between.",
+        "deep": "## The match\n\nBarcelona went behind early away at Atletico Madrid, but Fermin Lopez's double turned the game around, giving Barca a 2-1 win that extended their unbeaten run at the top of La Liga. It continues a strong run of form: a 6-1 demolition of Alaves and a 3-0 Champions League win over Aston Villa preceded it.\n\n## Where they stand\n\nThe win pushes Barcelona to 33 points from 12 games with a goal difference of +35, five points clear of Real Madrid (30 points, +21) and six ahead of Atletico themselves, who sit third on 28 points despite Saturday's defeat. Real Betis are a further two points back in fourth. With almost a third of the season gone, Barca's goal difference in particular points to a side scoring heavily as well as winning.\n\n## What to watch\n\nBarcelona's next league fixture is at home to Villarreal on November 22, after the international break. Whether they can turn these narrow away wins into more comfortable ones at home will say a lot about how serious their title defense is this season; Real Madrid, five points back, will be chasing every slip."
+      },
+      "he": {
+        "headline": "ברצלונה הפכה את המשחק וגברה על אתלטיקו, פרמין לופס עם צמד",
+        "scroll": "ברצלונה התאוששה מפיגור וניצחה 2:1 את אתלטיקו מדריד, עם צמד של פרמין לופס ששומר עליה בפסגת הליגה הספרדית.",
+        "coffee": "ברצלונה נקלעה לפיגור מוקדם כאורחת במטרופוליטנו, אך התאוששה וניצחה 2:1 את אתלטיקו מדריד, עם צמד של פרמין לופס שהשלים את המהפך. הניצחון משמר לברצה יתרון של חמש נקודות על ריאל מדריד במירוץ לאליפות (33 נקודות מ-12 משחקים, הפרש שערים של +35) ושש נקודות על אתלטיקו עצמה, שנמצאת כעת במקום השלישי עם 28 נקודות.\n\nזה היה ניצחון חוצתי לא פשוט, מהסוג שקבוצות שרוצות לזכות באליפות צריכות למצוא גם כשהן לא במיטבן, בהמשך לניצחון 3:0 בליגת האלופות על אסטון וילה ולניצחון 6:1 בליגה על אלאבס. המשחק הבא בליגה הוא ב-22 בנובמבר בבית מול וייאריאל, אחרי פגרת הנבחרות.",
+        "deep": "## המשחק\n\nברצלונה נקלעה לפיגור מוקדם כאורחת מול אתלטיקו מדריד, אך צמד של פרמין לופס הפך את התוצאה, והביא לברצה ניצחון 2:1 ששומר על רצף ללא הפסדים בפסגת הליגה. זה המשך לרצף תוצאות חזק: ניצחון 6:1 על אלאבס וניצחון 3:0 בליגת האלופות על אסטון וילה קדמו לו.\n\n## המצב בטבלה\n\nהניצחון מעלה את ברצלונה ל-33 נקודות מ-12 משחקים עם הפרש שערים של +35, חמש נקודות לפני ריאל מדריד (30 נקודות, +21) ושש לפני אתלטיקו עצמה, שנמצאת שלישית עם 28 נקודות חרף ההפסד בשבת. ריאל בטיס נמצאת במקום הרביעי, שתי נקודות נוספות מאחור. עם כמעט שליש מהעונה מאחור, הפרש השערים של ברצלונה בפרט מעיד על קבוצה שגם מנצחת וגם כובשת הרבה.\n\n## מה לעקוב אחריו\n\nהמשחק הבא של ברצלונה בליגה הוא בבית מול וייאריאל ב-22 בנובמבר, אחרי פגרת הנבחרות. השאלה אם היא תהפוך את הניצחונות החוצתיים הצמודים האלה לניצחונות נוחים יותר בבית תגיד הרבה על כמה רצינית ההגנה על האליפות העונה; ריאל מדריד, חמש נקודות מאחור, ירדוף אחרי כל מעידה."
+      },
+      "tags": [
+        "barcelona",
+        "la-liga",
+        "fermin-lopez"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "arsenal-table-form",
+      "kind": "news",
+      "en": {
+        "headline": "Arsenal Still Top as Brighton Close the Gap, With Newcastle Next After the Break",
+        "scroll": "Arsenal remain top of the Premier League after beating Hull City, but a surging Brighton side has cut the gap to five points heading into the international break.",
+        "coffee": "It's a quiet week for Arsenal, who sit top of the Premier League on 27 points from 10 games after a 1-0 win over Hull City last time out. That followed a Champions League win away at Slavia Praha and a league defeat at Liverpool, a mixed run that still leaves them two points clear of their nearest challenger.\n\nThe real story around Arsenal this week is who's catching up: Brighton have won eight of their last nine matches and moved up to second on 22 points, five behind Arsenal, overtaking Man City in the process. With the international break now underway, Arsenal's players scatter to their national teams before returning to face Newcastle away on November 21 — their only fixture before December.",
+        "deep": "## Where Arsenal stand\n\nArsenal sit top of the Premier League with 27 points from 10 games and a goal difference of +10. Their most recent results were mixed in quality if not in outcome: a 1-0 win over Hull City at home, preceded by a 2-1 Champions League win away at Slavia Praha, and before that a 1-0 league defeat away at Liverpool. Taken together, it's a team still winning the games it needs to while dropping occasional points to direct rivals.\n\n## The chasing pack\n\nWhat makes this week notable isn't Arsenal's own form so much as who is closing in. Brighton have been the Premier League's form team, winning eight of their last nine matches, including a 2-0 win over Brentford that moved them above Manchester City into second place on 22 points — five adrift of Arsenal. Manchester City themselves sit third on 21 points, with Liverpool fourth on 18 after beating Crystal Palace, and Chelsea fifth on 16. The table is still bunched enough that Arsenal's lead, while real, is not yet commanding.\n\n## What to watch next\n\nWith the international break underway and no Premier League fixtures this week, Arsenal's next match is away at Newcastle on November 21. Given how tightly packed the top of the table is, a slip there would hand the initiative straight to Brighton, who have shown no signs of slowing down."
+      },
+      "he": {
+        "headline": "ארסנל עדיין בפסגה, אך ברייטון סוגרת את הפער לפני פגרת הנבחרות",
+        "scroll": "ארסנל נותרת בראש הליגה האנגלית אחרי ניצחון על האל סיטי, אך ברייטון הדוהרת קיצרה את הפער לחמש נקודות לפני פגרת הנבחרות.",
+        "coffee": "זה שבוע שקט לארסנל, שנמצאת בפסגת הפרמייר ליג עם 27 נקודות מ-10 משחקים, אחרי ניצחון 0:1 על האל סיטי במשחק האחרון. לפני כן היה ניצחון בליגת האלופות כאורחת על סלאביה פראג, והפסד בליגה בביקור בליברפול - רצף מעורב שבכל זאת משאיר אותה עם יתרון של שתי נקודות על המתחרה הקרובה ביותר.\n\nהסיפור האמיתי סביב ארסנל השבוע הוא מי שמתקרבת: ברייטון ניצחה בשמונה מתוך תשעת משחקיה האחרונים ועלתה למקום השני עם 22 נקודות, חמש מאחורי ארסנל, ובדרך עקפה את מנצ'סטר סיטי. עם תחילת פגרת הנבחרות, שחקני ארסנל מתפזרים לנבחרותיהם לפני שיחזרו למשחק הבא, חוצתי מול ניוקאסל ב-21 בנובמבר - המשחק היחיד שלהם לפני דצמבר.",
+        "deep": "## המצב של ארסנל\n\nארסנל נמצאת בפסגת הפרמייר ליג עם 27 נקודות מ-10 משחקים והפרש שערים של +10. התוצאות האחרונות שלה היו מעורבות באיכות, אם לא בתוצאה הסופית: ניצחון 0:1 על האל סיטי בבית, לפני כן ניצחון 1:2 בליגת האלופות כאורחת על סלאביה פראג, ולפני כן הפסד 0:1 בליגה כאורחת בליברפול. בשורה התחתונה, זו קבוצה שעדיין מנצחת את המשחקים שהיא צריכה לנצח, אך מפילה נקודות מדי פעם למתחרות ישירות.\n\n## מי רודפת מאחור\n\nמה שהופך את השבוע הזה למעניין הוא לא דווקא הכושר של ארסנל עצמה, אלא מי שמתקרבת. ברייטון היא קבוצת הכושר של הפרמייר ליג, עם שמונה ניצחונות מתוך תשעת המשחקים האחרונים, כולל ניצחון 0:2 על ברנטפורד שהעלה אותה מעל מנצ'סטר סיטי למקום השני עם 22 נקודות - חמש מאחורי ארסנל. מנצ'סטר סיטי עצמה נמצאת שלישית עם 21 נקודות, ליברפול רביעית עם 18 אחרי ניצחון על קריסטל פאלאס, וצ'לסי חמישית עם 16. הטבלה עדיין צפופה מספיק כדי שהיתרון של ארסנל, אף שהוא אמיתי, לא יהיה מכריע.\n\n## מה לעקוב אחריו\n\nעם פגרת הנבחרות ובלי משחקי פרמייר ליג השבוע, המשחק הבא של ארסנל הוא חוצתי מול ניוקאסל ב-21 בנובמבר. בהתחשב בכמה צפופה הפסגה, מעידה שם תעביר את היתרון היישר לברייטון, שלא מראה סימני האטה."
+      },
+      "tags": [
+        "arsenal",
+        "premier-league",
+        "brighton"
+      ],
+      "sources": [
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "man-utd-drama-carrick-pressure",
+      "kind": "news",
+      "en": {
+        "headline": "Man Utd Twice Blow a Two-Goal Lead in 4-4 Thriller, Leaving Carrick's Job in Question",
+        "scroll": "Manchester United came back from two goals down twice to draw 4-4 with Aston Villa, a result that leaves them in the relegation zone and manager Michael Carrick under pressure.",
+        "coffee": "Manchester United and Aston Villa shared eight goals at Old Trafford in a draw that swung twice: United fell two goals behind, clawed level, fell behind again, and salvaged a point with two stoppage-time goals to finish 4-4. It was, by some measures, one of the most dramatic Premier League games in years — and United still head into the international break in the relegation zone.\n\nPundits pointed to basic defensive errors — BBC analysts flagged four separate mistakes behind United's goals conceded — as the real story behind the scoreline, with manager Michael Carrick admitting afterward his side \"made it hard on themselves.\" Coming back twice from two down shows character, but conceding four goals at home does not, and the result does little to settle the growing question of whether Carrick survives if results don't improve soon.",
+        "deep": "## The match\n\nManchester United hosted Aston Villa in a Premier League game that produced eight goals and two separate two-goal swings. United fell behind 2-0 inside the first four minutes, clawed their way level, then fell behind again before scoring twice in stoppage time — including a 96th-minute equalizer — to salvage a 4-4 draw. BBC Sport's Match of the Day analysts identified four distinct defensive mistakes behind the goals United conceded, pointing to basic lapses rather than bad luck as the underlying problem.\n\n## The context\n\nDespite the dramatic comeback, the result leaves United in the Premier League's relegation zone heading into the international break, with manager Michael Carrick acknowledging his side \"made it hard on themselves.\" Villa manager Unai Emery, for his part, described himself as \"frustrated and disappointed\" at surrendering a two-goal lead twice, which says something about how open and error-strewn the game was for both sides, not just United.\n\n## Why it matters\n\nFor a club of United's size and expectations, sitting in the drop zone after 10-plus games is itself a crisis, regardless of how entertaining any single match was. A draw salvaged by stoppage-time goals can read as resilience or as a lucky escape depending on results either side of it, and with basic defensive errors repeatedly cited as the cause of conceded goals, the pressure on Carrick is about process, not just outcomes.\n\n## What to watch next\n\nHow Carrick uses the international break to address United's defensive errors, and whether patience from the club's hierarchy holds if results don't improve when league play resumes. A team capable of scoring four away from home showed attacking quality; whether it can stop conceding four at home is the more urgent question."
+      },
+      "he": {
+        "headline": "מנצ'סטר יונייטד מפסידה יתרון של שני שערים פעמיים ונחלצת ל-4:4, וקאריק תחת לחץ",
+        "scroll": "מנצ'סטר יונייטד חזרה מפיגור של שני שערים פעמיים מול אסטון וילה ונחלצה לשוויון 4:4 - תוצאה שמשאירה אותה באזור ההרחקה ואת המאמן מייקל קאריק תחת לחץ.",
+        "coffee": "מנצ'סטר יונייטד ואסטון וילה חלקו שמונה שערים באולד טראפורד בדרמה שהתהפכה פעמיים: יונייטד נקלעה לפיגור של שני שערים, השתוותה, נקלעה לפיגור נוסף, וחילצה נקודה עם שני שערים בתוספת הזמן לתוצאה 4:4. זה היה, לפי קריטריונים מסוימים, אחד המשחקים הדרמטיים ביותר בפרמייר ליג בשנים האחרונות - ויונייטד עדיין נכנסת לפגרת הנבחרות באזור ההרחקה.\n\nפרשנים הצביעו על טעויות הגנתיות בסיסיות - אנליסטים של ה-BBC ציינו ארבע טעויות נפרדות מאחורי השערים שספגה יונייטד - כסיפור האמיתי מתחת לתוצאה, עם המאמן מייקל קאריק שהודה בתום המשחק שהקבוצה \"הקשה על עצמה\". לחזור פעמיים מפיגור של שני שערים מעיד על אופי, אבל לספוג ארבעה שערים בבית לא, והתוצאה לא עושה הרבה כדי ליישב את השאלה הגוברת אם קאריק ישרוד אם התוצאות לא ישתפרו בקרוב.",
+        "deep": "## המשחק\n\nמנצ'סטר יונייטד אירחה את אסטון וילה במשחק פרמייר ליג שהניב שמונה שערים ושני תהפוכות של שני שערים. יונייטד נקלעה לפיגור 0:2 בתוך ארבע הדקות הראשונות, השתוותה, נקלעה לפיגור נוסף, וכבשה פעמיים בתוספת הזמן - כולל שער השוויון בדקה ה-96 - כדי לחלץ תוצאה 4:4. אנליסטים של תוכנית Match of the Day ב-BBC זיהו ארבע טעויות הגנתיות נפרדות מאחורי השערים שספגה יונייטד, ורמזו שהבעיה הבסיסית היא מחדלים, לא מזל רע.\n\n## ההקשר\n\nחרף המהפך הדרמטי, התוצאה משאירה את יונייטד באזור ההרחקה בפרמייר ליג לקראת פגרת הנבחרות, עם המאמן מייקל קאריק שהודה שהקבוצה \"הקשה על עצמה\". מאמן וילה אוניאי אמרי, מצדו, תיאר את עצמו כ\"מתוסכל ומאוכזב\" מכך שהקבוצה שלו הפסידה יתרון של שני שערים פעמיים - מה שמעיד על כמה פתוח ורווי טעויות היה המשחק לשני הצדדים, לא רק ליונייטד.\n\n## למה זה חשוב\n\nלמועדון בגודל ובציפיות של יונייטד, להימצא באזור ההרחקה אחרי יותר מעשרה משחקים הוא משבר בפני עצמו, בלי קשר לכמה מהנה היה משחק בודד. שוויון שנחלץ עם שערים בתוספת הזמן יכול להתפרש כחוסן או כבריחה ממזל, תלוי בתוצאות משני צדיו, וכשטעויות הגנתיות בסיסיות מצוינות שוב ושוב כגורם לשערים שנספגו, הלחץ על קאריק נוגע לתהליך, לא רק לתוצאות.\n\n## מה לעקוב אחריו\n\nאיך קאריק ינצל את פגרת הנבחרות כדי לטפל בטעויות ההגנתיות של יונייטד, והאם הסבלנות מצד הנהלת המועדון תחזיק אם התוצאות לא ישתפרו כשהליגה תחזור. קבוצה שמסוגלת לכבוש ארבעה שערים כאורחת הוכיחה איכות התקפית; השאלה הדחופה יותר היא אם היא מסוגלת להפסיק לספוג ארבעה בבית."
+      },
+      "tags": [
+        "manchester-united",
+        "premier-league",
+        "michael-carrick"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC Sport — Football",
+          "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "football-data.org",
+          "title": "Match data & standings",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "doncic-53-points-blazers",
+      "kind": "news",
+      "en": {
+        "headline": "Luka Doncic Scores 53 as Lakers Overwhelm Deni Avdija's Trail Blazers",
+        "scroll": "Luka Doncic scored 53 points to carry the Lakers past Portland 124-118, outdueling Trail Blazers forward Deni Avdija on a night of big individual numbers on both sides.",
+        "coffee": "Luka Doncic put up 53 points in another standout offensive performance, leading the Los Angeles Lakers to a 124-118 win over the Portland Trail Blazers. It was one of the most eye-catching individual scoring nights of the young NBA season, and it came at the direct expense of Portland, who got a strong game of their own from Deni Avdija but couldn't keep pace.\n\nFor Portland, the loss raised a familiar question about Avdija's growth: commentary around the game argued that nights like this, where an opposing superstar simply takes over, show why Avdija isn't yet a superstar himself, even as he continues to anchor the Blazers' offense as their top option this season.",
+        "deep": "## The game\n\nLuka Doncic scored 53 points as the Los Angeles Lakers beat the Portland Trail Blazers 124-118, continuing a run of huge individual scoring games to start the season. For a Lakers team trying to balance Doncic's usage with its other pieces, a 53-point night is the kind of individual takeover that can single-handedly decide a game against a team playing well everywhere else.\n\n## The Portland side\n\nPortland's own performance wasn't bad; Deni Avdija, the Blazers' Israeli forward, had a strong statistical night of his own and remains the team's primary offensive option even with other ball-handlers on the roster. But outscoring an opponent isn't the same as beating a team whose best player drops 53 — and commentary around the loss framed it as evidence of the gap that still separates a very good, improving player like Avdija from a true franchise superstar like Doncic.\n\n## Why it matters\n\nEarly-season individual outbursts like this one shape how teams are perceived well before the standings settle: Doncic's Lakers are serving early notice that his scoring load alone can win difficult road games, while Portland's challenge is less about any single player's ceiling and more about building enough depth around Avdija that one opposing superstar can't simply decide a game.\n\n## What to watch next\n\nWhether Doncic's scoring continues at this pace as the season lengthens, and whether Avdija's continued growth as Portland's offensive focal point — including his ability to limit turnovers, a point raised repeatedly this season — translates into more wins against the league's better teams."
+      },
+      "he": {
+        "headline": "לוקה דונצ'יץ' כובש 53 נקודות, הלייקרס גוברים על הטרייל בלייזרס של דני אבדיה",
+        "scroll": "לוקה דונצ'יץ' כבש 53 נקודות והוביל את הלייקרס לניצחון 124:118 על פורטלנד, ועקף את החלוץ דני אבדיה בערב של מספרים אישיים גדולים משני הצדדים.",
+        "coffee": "לוקה דונצ'יץ' כבש 53 נקודות במשחק התקפי בולט נוסף, והוביל את לוס אנג'לס לייקרס לניצחון 124:118 על פורטלנד טרייל בלייזרס. זה היה אחד מערבי הקליעה האישיים הבולטים ביותר בתחילת עונת ה-NBA, והוא הגיע על חשבונה הישיר של פורטלנד, שקיבלה משחק חזק משלה מהחלוץ דני אבדיה אך לא הצליחה לשמור על הקצב.\n\nלפורטלנד, ההפסד העלה שאלה מוכרת על ההתפתחות של אבדיה: פרשנות סביב המשחק טענה שערבים כאלה, שבהם כוכב-על יריב פשוט משתלט על המשחק, מראים למה אבדיה עדיין לא כוכב-על בעצמו, גם כשהוא ממשיך לשמש עוגן התקפי ואת האופציה המרכזית של הבלייזרס העונה.",
+        "deep": "## המשחק\n\nלוקה דונצ'יץ' כבש 53 נקודות כשלוס אנג'לס לייקרס ניצחה 124:118 את פורטלנד טרייל בלייזרס, בהמשך לרצף של משחקי קליעה אישיים גדולים בתחילת העונה. לקבוצת לייקרס שמנסה לאזן בין העומס על דונצ'יץ' לשאר השחקנים, ערב של 53 נקודות הוא מהסוג שיכול להכריע משחק בכוחות עצמו נגד קבוצה שמשחקת טוב בכל התחומים האחרים.\n\n## הצד של פורטלנד\n\nהביצוע של פורטלנד עצמה לא היה רע; דני אבדיה, החלוץ הישראלי של הבלייזרס, עשה ערב סטטיסטי חזק משלו ונותר האופציה ההתקפית המרכזית של הקבוצה, גם כשיש לה מכווני משחק נוספים בסגל. אבל לכבוש יותר נקודות מהיריב זה לא כמו לנצח קבוצה שהשחקן הטוב שלה כובש 53 - והפרשנות סביב ההפסד הציגה זאת כעדות לפער שעדיין קיים בין שחקן טוב מאוד ומשתפר כמו אבדיה לבין כוכב-על אמיתי כמו דונצ'יץ'.\n\n## למה זה חשוב\n\nערבים אישיים כאלה בתחילת העונה מעצבים את התפיסה לגבי קבוצות הרבה לפני שהטבלה מתייצבת: הלייקרס של דונצ'יץ' מודיעים מוקדם שהקליעה שלו בלבד יכולה להכריע משחקי חוץ קשים, בעוד שהאתגר של פורטלנד הוא פחות עניין של התקרת היכולת של שחקן בודד, ויותר בניית עומק סביב אבדיה שימנע ממצב שבו כוכב-על יריב אחד פשוט מכריע משחק.\n\n## מה לעקוב אחריו\n\nהאם הקליעה של דונצ'יץ' תמשיך בקצב הזה כשהעונה מתארכת, והאם ההתפתחות המתמשכת של אבדיה כמוקד ההתקפי של פורטלנד - כולל היכולת שלו להגביל איבודי כדור, נושא שעלה כמה פעמים העונה - תתורגם ליותר ניצחונות נגד הקבוצות הטובות יותר בליגה."
+      },
+      "tags": [
+        "nba",
+        "luka-doncic",
+        "los-angeles-lakers",
+        "deni-avdija"
+      ],
+      "sources": [
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Luka Doncic scores 53 in another spectacular offensive game, carrying Lakers past Blazers 124-118 - Click2Houston",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeDRsWFBjeGJka0pEeVJTYVFOLU9lU1psUjJkWVN2VktGYmZKUlZocm45Qm0ydGpVa0FUeUNxTXh4Wjc5QUJmTWEwb1RXWGZmWXNIZjIzR2VlRUpqdTBMVkctbkZlY2haa1dGM1BhTkZnLVR6Vm5EbGh3QldJU1NFTEx5anJ4LXVQS25KNm5OTXViZGNYN0QxejZpRXk2Um5TUFRwd1JjWHNOMHhON183SlFFNVN3VmROSnVmRy14UWFTVVRyNmVBT1dXTk4wRVZsOXlCUkpZNEs0MTZHVjBHZlZldEo0cW1B?oc=5"
+        },
+        {
+          "outlet": "Google News — Deni Avdija / Ben Saraf",
+          "title": "Luka Doncic just showed the Blazers why Deni Avdija isn't a superstar yet - Rip City Project",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHBmZ3NiYzlPMHZoUXE3QUFVbmxESk92c0pqajN4OEg3b2dWZkNnQnZ2OGxVLWc3WjBvWEVOTi1OMG9QNkN1Ri1YZGEzRDdwTERFcTVBVUtSVFdfSnJ1ZHpZUmlVOExJNU5nczhIWVU0blVxQUtRS0ZvNUx4TjFGUQ?oc=5"
+        },
+        {
+          "outlet": "balldontlie.io",
+          "title": "NBA games",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "messi-golden-boot-playoffs",
+      "kind": "news",
+      "en": {
+        "headline": "Messi Wins Back-to-Back MLS Golden Boot, but Inter Miami Blow a 3-0 Lead Heading Into the Playoffs",
+        "scroll": "Lionel Messi became the first player to win consecutive MLS Golden Boots with 26 goals, even as Inter Miami squandered a 3-0 lead to draw Charlotte FC on the season's final day before the playoffs.",
+        "coffee": "Lionel Messi made MLS history by winning the Golden Boot for a second consecutive season, finishing with 26 goals and becoming the first player to retain the award. It's the latest individual landmark in a Major League Soccer career that has reshaped the league's profile since Messi joined Inter Miami.\n\nThe team result around it was messier: Inter Miami blew a 3-0 lead to draw 3-3 with Charlotte FC on MLS Decision Day, a reminder that individual brilliance hasn't translated into total control for the team this season. It didn't cost them their playoff spot — Inter Miami now know they will open the MLS Cup Playoffs at home against the Columbus Crew on November 21, the first leg of a Round One series shaping up as one of the ties of the opening round.",
+        "deep": "## The individual story\n\nLionel Messi finished the MLS regular season with 26 goals, enough to win the league's Golden Boot for a second year running — the first player in MLS history to win the award in consecutive seasons. It extends a run of individual honors since his move to Inter Miami that has consistently made him the most closely tracked player in the league, regardless of his team's results in any given week.\n\n## The team story\n\nThat individual success came alongside a shakier team performance on Decision Day, the final round of the MLS regular season: Inter Miami led Charlotte FC 3-0 before conceding three times to draw 3-3, a collapse that will raise questions about Miami's defensive resilience even as Messi's numbers dominate the headlines. The result didn't change Miami's playoff position, but it's the kind of result that tends to resurface if the team struggles again in the postseason.\n\n## What's next\n\nThe MLS Cup Playoffs schedule has been set: Inter Miami will host the Columbus Crew to open their Round One series on November 21. Columbus reached the playoffs on the back of their own strong campaign, and a series opening in Miami against Messi's team is likely to be one of the most watched ties of the opening round.\n\n## Why it matters\n\nFor a league still building its global audience, Messi's individual numbers do real commercial work regardless of Miami's team form — but a club built so heavily around one player's brilliance still needs the rest of the roster to hold up defensively if it wants its first MLS Cup. The Columbus series will be an early test of whether this version of Inter Miami can do both at once."
+      },
+      "he": {
+        "headline": "מסי זוכה במגף הזהב של ה-MLS בפעם השנייה ברצף, אבל אינטר מיאמי מפסידה יתרון 3:0 לפני הפלייאוף",
+        "scroll": "ליאונל מסי הפך לשחקן הראשון שזוכה במגף הזהב של ה-MLS בשתי עונות רצופות עם 26 שערים, גם כשאינטר מיאמי איבדה יתרון 3:0 ונחלצה ל-3:3 מול שרלוט בסיום העונה הרגילה.",
+        "coffee": "ליאונל מסי כתב היסטוריה בליגת ה-MLS בזכייה במגף הזהב בעונה רצופה שנייה, עם 26 שערים - והפך לשחקן הראשון בהיסטוריה של הליגה ששומר על התואר. זהו עוד ציון דרך אישי בקריירה שעיצבה מחדש את הפרופיל של הליגה מאז שמסי הצטרף לאינטר מיאמי.\n\nהתוצאה הקבוצתית סביב זה הייתה פחות חלקה: אינטר מיאמי איבדה יתרון 3:0 ונחלצה ל-3:3 מול שרלוט FC ביום ההכרעה של העונה הרגילה, תזכורת לכך שהברק האישי לא תורגם לשליטה מלאה של הקבוצה העונה. זה לא עלה לה במקום בפלייאוף - אינטר מיאמי יודעת כעת שהיא תפתח את פלייאוף גביע ה-MLS בבית מול קולומבוס קרו ב-21 בנובמבר, המפגש הראשון בסבב שמצטייר כאחד המעניינים בשלב הראשון.",
+        "deep": "## הסיפור האישי\n\nליאונל מסי סיכם את העונה הרגילה של ה-MLS עם 26 שערים, מספר שהספיק לו לזכות במגף הזהב של הליגה בעונה שנייה ברצף - השחקן הראשון בהיסטוריית ה-MLS שזוכה בתואר בעונות רצופות. זה מאריך רצף של הישגים אישיים מאז המעבר שלו לאינטר מיאמי, שהפכו אותו לשחקן הנצפה ביותר בליגה, בלי קשר לתוצאות הקבוצה שלו בכל שבוע נתון.\n\n## הסיפור הקבוצתי\n\nההצלחה האישית הזו הגיעה לצד ביצוע קבוצתי יותר רעוע ביום ההכרעה, הסבב האחרון של העונה הרגילה: אינטר מיאמי הובילה 3:0 על שרלוט FC לפני שספגה שלושה שערים ונחלצה ל-3:3 - קריסה שתעלה שאלות על החוסן ההגנתי של מיאמי, גם כשהמספרים של מסי שולטים בכותרות. התוצאה לא שינתה את מקומה של מיאמי בפלייאוף, אבל זה מהסוג של תוצאות שנוטות לצוף מחדש אם הקבוצה תתקשה גם בפלייאוף.\n\n## מה הלאה\n\nלוח הזמנים של פלייאוף גביע ה-MLS נקבע: אינטר מיאמי תארח את קולומבוס קרו לפתיחת סבב השלב הראשון ב-21 בנובמבר. קולומבוס הגיעה לפלייאוף בזכות עונה חזקה משלה, וסבב שנפתח במיאמי מול הקבוצה של מסי צפוי להיות אחד המפגשים הנצפים ביותר בשלב הראשון.\n\n## למה זה חשוב\n\nלליגה שעדיין בונה את הקהל הגלובלי שלה, המספרים האישיים של מסי עושים עבודה מסחרית ממשית בלי קשר לכושר הקבוצתי של מיאמי - אבל מועדון שנבנה כך סביב הברק של שחקן אחד עדיין צריך שאר הסגל יחזיק מעמד הגנתית אם הוא רוצה את גביע ה-MLS הראשון שלו. סבב קולומבוס יהיה מבחן מוקדם לשאלה אם הגרסה הזו של אינטר מיאמי מסוגלת לשני הדברים בבת אחת."
+      },
+      "tags": [
+        "inter-miami",
+        "lionel-messi",
+        "mls"
+      ],
+      "sources": [
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi Makes History Winning Consecutive MLS Golden Boots - Sportscape Magazine",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnYwS3RwakhINENUYWQ5OS1mZjJldG5YZDBEQThLNE91cFV0andqal91SWFBUlZCZEdVUnpwZXlIdzdLb3J0ZXhoMWU5bzNaMVNtR0lLZG56MzNudTRGZFhFWldJN3NPa2dZY0ROMENmUFlyQWpHVmZmLUxGRUVxWDhnNFVqcHcxUjlPb1NzbnFpV3R6YldIN3RNenVRUUt2?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "Lionel Messi retains MLS Golden Boot with 26 goals, but Inter Miami blew a 3-0 lead on the final day - https://www.footballmuse.com/",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMWZiLTFBbVhoUTRTQnhoUFkxT1d5ZEx3Tld6Z0N0ZXRRWmo0M1Y5VzdwY2J0R0VQQXVJcTB3ck9zd3hvU0o3Zl9MWVVNT3B4UGYyeU5Id2hPTFNQNDlKdGZIcDNCS1pEQTZCeWhuMnBjTmVwRDdpQkRkYnczNWYwaldVVDloNEZaYnpvTmQzSkhSZTJUckxUbllqeFZnNVB5YnR3dHlUT0Q0TW5aSUJ5QlEyWFgtNDFUR0JIVU1fQUtqQzhI?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "It’s Miami Time presented by Royal Caribbean: Schedule Announced for Audi 2026 MLS Cup Playoffs Round One Series Against Columbus Crew - Inter Miami CF",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQUVwVjI4cWMzNFh2b2hxcTQ1NFdHamJiZFpqampKZlpEb1dzMUJRU2JwRVlfaEF5d2JTQU1kODB5T0pyOHR3N0JMeW5QSlhfbVBNMGZhMk1yT0pOaGlCS0MyNVVXel9VQ241bUNxZmJ6dVZreGU0MF9yZzFTekxZUUNOYWlUM0YxeG4tNlpyXzdYYUljczVnRjlhWmd0QnpVQWFqZVI1eEZLMDRyRGhfcTI4azJPN3RjbGNoU19ZdnhWRnN5MThkWjB0OFl5WmpyNEVlaktUeUpSUDBCd21XdVNUc3VEYWFXa3JnMFM1N1RHcjc4eUlUODNxUQ?oc=5"
+        },
+        {
+          "outlet": "Google News — Inter Miami",
+          "title": "MLS Decision Day: Is Greg Vanney's time up? LA Galaxy blow playoff spot as Nashville SC make history and Inter Miami unravel - Goal.com",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNdmszSnVsSmdLaHlEbkhNV21rVzRtZkVzaDF5QmVsZ0VBd3ZrUnZ1QS1ZNGoyYmc0bzV3VmdibzRMT3pjLW9BRjZSQVB3Sk9WZTkyWUFHa1hwaW5FUHp2MXNXTWg5MlQwdDVodFNuMnMyU2xJUVB1LVlEaUpqUV9EWFVPaGJHZlVRV1UzcXY5b081aVJPQXpJSEZGcklwZFJzXzFNdWlvSlFHZExsNFhPRE9aOGN2aVVJZFZOZXo2WFQ1MlRsOXhWZkhTZ1R4aXM2TE5zRl9GNm8yWUdVdVFpWWJtdWVpdFR1MmpWaDlvd3RLOHlXeGR0Uk9tcWwxUmNINDRwMXdoZ0hnMzU1MHJscUxxeGdqMHVTb2hj?oc=5"
+        }
+      ]
+    }
+  ],
+  "israeli_players": [
+    {
+      "name": "Deni Avdija",
+      "team": "Portland Trail Blazers",
+      "en": "In Portland's 124-118 loss to the Lakers on November 7, Avdija had a strong all-around game, flirting with a triple-double (22 points, 11 assists) and finishing through contact, though turnovers remain a recurring issue in his role as the Blazers' point forward.",
+      "he": "בהפסד 124:118 של פורטלנד ללייקרס ב-7 בנובמבר, אבדיה שיחק משחק מקיף וחזק וכמעט רשם טריפל-דאבל (22 נקודות, 11 אסיסטים), אך איבודי כדור נותרו בעיה חזרתית בתפקידו ככוח-חלוץ-מנהל-משחק של הבלייזרס."
+    },
+    {
+      "name": "Ben Saraf",
+      "team": "Brooklyn Nets",
+      "en": "Saraf is currently playing for the Nets' G League affiliate, Long Island, where he has been shining: he and teammate Dain Dainja combined for 50 points in a big win over Greensboro, while fellow Nets rookie Egor Demin was ruled out of Brooklyn's game against the Mavericks.",
+      "he": "סרף משחק כעת בנבחרת ה-G ליג של הנטס, לונג איילנד, שם הוא מצטיין: הוא וחברו לקבוצה דיין דיינג'ה כבשו יחד 50 נקודות בניצחון גדול על גרינסבורו, בעוד עמיתו הטירון בנטס אגור דמין הוצא מהרכב נטס למשחק מול מאבריקס."
+    }
+  ],
+  "match_day": {
+    "is_match_day": false,
+    "events": []
+  }
+}

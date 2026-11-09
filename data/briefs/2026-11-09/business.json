@@ -1,0 +1,81 @@
+{
+  "section": "business",
+  "date": "2026-11-09",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-09T04:09:11+00:00",
+  "stories": [
+    {
+      "id": "berkshire-profit-swing-yen-bonds",
+      "kind": "analysis",
+      "en": {
+        "headline": "Why Berkshire's Profit Fell 28% Without the Business Getting Worse",
+        "scroll": "Berkshire Hathaway's quarterly profit dropped 28% purely because its stock portfolio gained less on paper — a reminder that reported earnings and real operating performance aren't the same thing.",
+        "coffee": "Berkshire Hathaway reported a 28% decline in quarterly net income after investment gains shrank and its insurance operations posted lower profits. That sounds like bad news for Warren Buffett's conglomerate, but most of the swing has nothing to do with how its businesses actually performed this quarter.\n\nUnder US accounting rules, companies that hold large stock portfolios — and Berkshire holds one of the largest in the world — must include the quarter-to-quarter change in the market value of those unsold holdings directly in reported net income, even though no stock was sold and no cash changed hands. When markets rally, Berkshire's reported profit balloons; when they cool off, as happened this quarter, profit shrinks, purely on paper. Buffett has long argued investors should look past this number to operating earnings, the cash the actual businesses generate, which is a steadier gauge of performance than a number that moves with the stock market's mood.\n\nSeparately, Berkshire is preparing its first yen bond sale since April, hiring banks to raise fresh funds in Japan. That is not a coincidence: Berkshire has built large stakes in Japanese trading houses over several years, and borrowing in yen lets it fund and roughly match those yen-denominated assets with yen-denominated debt — a classic natural hedge that protects it if the yen moves sharply against the dollar.",
+        "deep": "## Background\n\nBerkshire Hathaway is a conglomerate that both owns operating businesses outright (insurance, railroads, energy, manufacturing) and holds a large portfolio of publicly traded stocks. Since an accounting rule change in 2018, US GAAP requires companies to run unrealized gains and losses on equity holdings they still own through the income statement every quarter, rather than parking them in a separate equity account the way companies used to. That single rule change turned Berkshire's quarterly net income into a number that swings heavily with the stock market, independent of how its underlying businesses are doing.\n\n## The story\n\nThis quarter, Berkshire reported a 28% drop in net income, driven by investment gains that were smaller than a year earlier and softer results from its insurance operations. None of that necessarily means the underlying businesses deteriorated — it mainly means the paper value of Berkshire's stock holdings rose less than it did in the comparable prior period. This is exactly the dynamic Buffett has spent years warning shareholders about: reported net income, he argues, is close to meaningless quarter to quarter for a company like Berkshire, and operating earnings — premiums collected minus claims paid, railroad freight revenue minus costs, and so on — are the number that actually reflects how the businesses performed.\n\nSeparately, and on a longer timeline, Berkshire has hired banks for its first yen-denominated bond offering since April. Berkshire has been one of the most prominent buyers of shares in Japan's largest trading houses (sogo shosha) for several years, building multibillion-dollar stakes. Raising debt in yen rather than dollars lets Berkshire fund more of that Japan exposure with yen-denominated liabilities, so that if the yen weakens or strengthens against the dollar, the value of its Japanese assets and the value of its yen debt move together rather than in opposite directions.\n\n## Why it matters\n\nThe two stories illustrate two different but related lessons in financial literacy. The profit swing shows why \"net income\" is not always the number that matters: accounting rules can inject real market volatility into a line that is labeled \"profit,\" even when nothing about the business has changed. Sophisticated investors instead track operating earnings, free cash flow, or other measures stripped of unrealized market swings. The yen bond plan shows the other side of managing risk: a natural hedge, where a company deliberately borrows in the same currency as an asset it holds, so currency movements wash out instead of creating a mismatch between what it owns and what it owes.\n\n## What to watch next\n\nWhether Berkshire's insurance underwriting — the actual cash-generating part of that business, separate from investment gains — continues to soften; the size and terms of the new yen bond sale when it is announced; and whether Berkshire adds to or trims its Japanese trading-house stakes, which would signal how it currently views that currency and equity exposure together."
+      },
+      "he": {
+        "headline": "למה הרווח של ברקשייר צנח ב-28% בלי שהעסק באמת נחלש",
+        "scroll": "הרווח הרבעוני של ברקשייר הת'אווי צנח ב-28% רק בגלל שתיק המניות שלה עלה פחות על הנייר - תזכורת לכך שרווח מדווח וביצועים תפעוליים אמיתיים הם לא אותו דבר.",
+        "coffee": "ברקשייר הת'אווי דיווחה על צניחה של 28% ברווח הנקי הרבעוני, בעקבות רווחי השקעות קטנים יותר ורווחיות נמוכה יותר בפעילות הביטוח. זה נשמע כמו חדשות רעות לקונצרן של וורן באפט, אבל רוב התנודה הזו לא קשורה לביצועים האמיתיים של העסקים שלה הרבעון הזה.\n\nלפי כללי החשבונאות האמריקניים, חברות שמחזיקות תיקי מניות גדולים - וברקשייר מחזיקה באחד הגדולים בעולם - נדרשות לכלול את השינוי הרבעוני בשווי השוק של אותן אחזקות שלא נמכרו ישירות ברווח הנקי המדווח, גם אם לא נמכרה אף מניה ולא עבר כסף בין ידיים. כשהשווקים עולים, הרווח המדווח של ברקשייר מתנפח; כשהם מתקררים, כמו שקרה הרבעון הזה, הרווח מצטמק - רק על הנייר. באפט טוען כבר שנים שמשקיעים צריכים להתעלם מהמספר הזה ולהתמקד ברווח התפעולי, הכסף שהעסקים בפועל מייצרים, שהוא מדד הרבה יותר יציב מאשר מספר שנע עם מצב הרוח של השוק.\n\nבמקביל, ברקשייר מתכננת את מכירת האג\"ח הראשונה שלה ביין יפני מאז אפריל, ושכרה בנקים לגיוס כספים טריים ביפן. זה לא מקרי: ברקשייר בנתה בשנים האחרונות אחזקות גדולות בחברות סחר יפניות, וגיוס חוב ביין מאפשר לה למַמֵּן ולהצמיד בקירוב את אותם נכסים הנקובים ביין לחוב הנקוב באותו מטבע - גידור טבעי (natural hedge) קלאסי שמגן עליה אם היין יזוז בחדות מול הדולר.",
+        "deep": "## רקע\n\nברקשייר הת'אווי היא קונצרן שמחזיק גם עסקים תפעוליים בבעלות מלאה (ביטוח, מסילות רכבת, אנרגיה, תעשייה) וגם תיק גדול של מניות נסחרות בבורסה. מאז שינוי בכללי החשבונאות האמריקניים ב-2018, חברות מחויבות להעביר רווחים והפסדים לא ממומשים על אחזקות מניות שהן עדיין מחזיקות בהן דרך דוח רווח והפסד בכל רבעון, ולא לרשום אותם בסעיף הון נפרד כפי שהיה נהוג בעבר. שינוי כלל אחד זה הפך את הרווח הנקי הרבעוני של ברקשייר למספר שנע בעוצמה עם השוק, ללא קשר לאופן שבו מתפקדים העסקים שבבסיסו.\n\n## הסיפור\n\nהרבעון הזה דיווחה ברקשייר על צניחה של 28% ברווח הנקי, שנבעה מרווחי השקעות קטנים יותר מאשר בתקופה המקבילה בשנה שעברה, ומתוצאות חלשות יותר בפעילות הביטוח. אין בכך בהכרח עדות להתדרדרות בעסקים עצמם - זה בעיקר אומר ששווי הנייר של אחזקות המניות של ברקשייר עלה פחות משעלה בתקופה המקבילה הקודמת. זו בדיוק הדינמיקה שעליה באפט מזהיר את בעלי המניות כבר שנים: לדבריו, הרווח הנקי המדווח הוא כמעט חסר משמעות מרבעון לרבעון לחברה כמו ברקשייר, והרווח התפעולי - פרמיות שנגבו בניכוי תביעות ששולמו, הכנסות מהובלה ברכבת בניכוי עלויות, וכן הלאה - הוא המספר שבאמת משקף את תפקוד העסקים.\n\nבנפרד, ובטווח זמן ארוך יותר, ברקשייר שכרה בנקים למכירת אג\"ח נקובות ביין הראשונה שלה מאז אפריל. ברקשייר היתה בשנים האחרונות אחת הקונות הבולטות ביותר של מניות בחברות הסחר היפניות הגדולות (sogo shosha), ובנתה אחזקות בשווי מיליארדי דולרים. גיוס חוב ביין במקום בדולר מאפשר לברקשייר לממן חלק גדול יותר מהחשיפה שלה ליפן באמצעות התחייבויות הנקובות ביין, כך שאם היין יתחזק או יתחלש מול הדולר, שווי הנכסים היפניים ושווי החוב ביין יזוזו יחד ולא בכיוונים מנוגדים.\n\n## למה זה חשוב\n\nשני הסיפורים מדגימים שני לקחים שונים אך קשורים לאוריינות פיננסית. תנודת הרווח מראה למה \"רווח נקי\" הוא לא בהכרח המספר שחשוב: כללי חשבונאות יכולים להזרים תנודתיות אמיתית בשוק לתוך שורה שמתויגת כ\"רווח\", גם כשכלום לא השתנה בעסק עצמו. משקיעים מנוסים עוקבים במקום זאת אחרי הרווח התפעולי, תזרים המזומנים החופשי, או מדדים אחרים שמנוקים מתנודות שוק לא ממומשות. תוכנית האג\"ח ביין מדגימה את הצד השני של ניהול סיכונים: גידור טבעי, שבו חברה בוחרת במכוון לגייס חוב באותו מטבע שבו מוחזק נכס, כך שתנודות המטבע מתקזזות במקום ליצור פער בין מה שהיא מחזיקה למה שהיא חייבת.\n\n## מה לעקוב אחריו\n\nהאם פעילות החיתום בביטוח של ברקשייר - החלק שבאמת מייצר מזומנים בעסק הזה, בנפרד מרווחי השקעות - תמשיך להיחלש; הגודל והתנאים של מכירת האג\"ח החדשה ביין כשתוכרז; והאם ברקשייר תוסיף או תקטין את אחזקותיה בחברות הסחר היפניות, מה שיעיד על האופן שבו היא תופסת כעת את החשיפה המשולבת למטבע ולמניות."
+      },
+      "tags": [
+        "berkshire-hathaway",
+        "accounting",
+        "currency-hedging",
+        "earnings"
+      ],
+      "sources": [
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Berkshire Hathaway’s Quarterly Profit Falls After Investment Gains Shrink",
+          "url": "https://www.wsj.com/business/earnings/berkshire-hathaway-brkb-q3-earnings-report-2026-stock-02843721?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Berkshire Plans First Japan Bond Offering Since April",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/berkshire-hathaway-plans-first-japan-bond-offering-since-april"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3941.1399,
+      "prev_close": 3823.1799,
+      "change_pct": 3.09,
+      "as_of": "2026-11-06"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7376.8599,
+      "prev_close": 7353.73,
+      "change_pct": 0.31,
+      "as_of": "2026-11-06"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.169,
+      "prev_close": 3.2005,
+      "change_pct": -0.99,
+      "as_of": "2026-11-09"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 98.17,
+      "prev_close": 98.32,
+      "change_pct": -0.15,
+      "as_of": "2026-11-08"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 74948.8281,
+      "prev_close": 75747.5781,
+      "change_pct": -1.05,
+      "as_of": "2026-11-09"
+    }
+  }
+}
