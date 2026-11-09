@@ -132,6 +132,8 @@ Motivated be a desire to make LLMs not say naughty things
 
 Motivated by a desire to make LLMs useful to mathematicians and programmers
 
+I am very new to LessWrong and am so far just an occasional lurker, but this post really caught my attention. Just want to say that somehow these early Anthropic anecdotes remind me of that 1994 episode of California Dreams where Tiffani starts taking steroids to live up to expectations for a school athlete, and she starts raging and hulking out when her steroid use gets out of control.
+
 Interesting. I've been using Claude since February of this year, and I participated in the What do you want from AI? study, but I'd say this is the first time that I've read vignettes from working at Anthropic.
 
 Have really lots of thoughts, but consistent with You Get About Five Words I'll seek to be at least relatively brief.
@@ -195,3 +197,5 @@ Maybe both parties agree. Let's just not cover that, and it doesn't really build
 I think about that example with the Torah discussion. Did Claude gloss things over, and did it create resentment? Or did Claude just figure, well, it's okay. It's not a big deal.
 
 I don't know. I recall that in We Must Pace the Frontier Dario Amodei spoke about building up the interpretability infrastructure so that it's easier to see inside the AI's brain, and so for various multiple applications that could shed light on what's going on.
+
+On what a "traumatized bureaucrat" might be: Could it be someone (or a sentient something) who realizes they are swept along on a sort of disorienting current from which they can't really seem to separate, even though something seems terribly off and perhaps improperly examined about the whole thing? Like waking up in the middle of a complex nightmare, action already in full swing, but the dreamer wasn't properly asked if they wanted to be there.
