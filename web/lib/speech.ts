@@ -9,10 +9,11 @@ import type { Lang } from "./types";
 
 // "iw" is Hebrew's legacy language code, still reported by some Android voices.
 const LANG_PREFIXES: Record<Lang, string[]> = { en: ["en"], he: ["he", "iw"] };
-// Some browsers cut off long utterances, so text is spoken in sentence-sized chunks.
-const MAX_CHUNK = 220;
+// Text is spoken in sentence-sized chunks: some browsers cut off long utterances, and chunks
+// are also what the player's position, skipping and resuming are measured in.
+const MAX_CHUNK = 160;
 
-function synth(): SpeechSynthesis | null {
+export function synth(): SpeechSynthesis | null {
   return typeof window !== "undefined" && "speechSynthesis" in window ? window.speechSynthesis : null;
 }
 
@@ -40,7 +41,7 @@ export function toSpeech(markdown: string): string {
     .join(" ");
 }
 
-function chunk(text: string): string[] {
+export function chunkText(text: string): string[] {
   const sentences = text.match(/[^.!?…]+[.!?…]+["'”’)]*\s*|[^.!?…]+$/g) ?? [text];
   const chunks: string[] = [];
   let current = "";
@@ -55,13 +56,9 @@ function chunk(text: string): string[] {
   return chunks;
 }
 
-export function useSpeech() {
+/** The voices installed on this device; they often load after the page does. */
+export function useVoices() {
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>(() => synth()?.getVoices() ?? []);
-  const [speaking, setSpeaking] = useState(false);
-  const run = useRef(0); // bumped on every start/stop so stale "ended" events are ignored
-  const ownsSpeech = useRef(false);
-
-  // Voices often load after the page does.
   useEffect(() => {
     const s = synth();
     if (!s) return;
@@ -69,8 +66,15 @@ export function useSpeech() {
     s.addEventListener("voiceschanged", update);
     return () => s.removeEventListener("voiceschanged", update);
   }, []);
+  return useCallback((lang: Lang) => pickVoice(voices, lang), [voices]);
+}
 
-  // Stop talking if whatever started the speech goes away (e.g. switching sections).
+/** One-shot speech, e.g. pronouncing a single word. */
+export function useSpeech() {
+  const voiceFor = useVoices();
+  const ownsSpeech = useRef(false);
+
+  // Stop talking if whatever started the speech goes away.
   useEffect(() => {
     const owns = ownsSpeech;
     return () => {
@@ -78,41 +82,25 @@ export function useSpeech() {
     };
   }, []);
 
-  const canSpeak = useCallback((lang: Lang) => pickVoice(voices, lang) !== null, [voices]);
-
-  const stop = useCallback(() => {
-    run.current += 1;
-    ownsSpeech.current = false;
-    synth()?.cancel();
-    setSpeaking(false);
-  }, []);
+  const canSpeak = useCallback((lang: Lang) => voiceFor(lang) !== null, [voiceFor]);
 
   const speak = useCallback(
     (text: string, lang: Lang) => {
       const s = synth();
-      const voice = pickVoice(voices, lang);
+      const voice = voiceFor(lang);
       if (!s || !voice || !text.trim()) return;
       s.cancel();
-      const thisRun = ++run.current;
-      const done = () => {
-        if (run.current !== thisRun) return;
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.voice = voice;
+      utterance.lang = voice.lang;
+      utterance.onend = utterance.onerror = () => {
         ownsSpeech.current = false;
-        setSpeaking(false);
       };
-      const parts = chunk(text);
-      parts.forEach((part, i) => {
-        const utterance = new SpeechSynthesisUtterance(part);
-        utterance.voice = voice;
-        utterance.lang = voice.lang;
-        if (i === parts.length - 1) utterance.onend = done;
-        utterance.onerror = done;
-        s.speak(utterance);
-      });
       ownsSpeech.current = true;
-      setSpeaking(true);
+      s.speak(utterance);
     },
-    [voices],
+    [voiceFor],
   );
 
-  return { canSpeak, speak, stop, speaking };
+  return { canSpeak, speak };
 }

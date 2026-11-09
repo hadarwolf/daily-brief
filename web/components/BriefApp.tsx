@@ -8,7 +8,7 @@ import { useStored } from "@/lib/storage";
 import type { Brief, Lang, Length, Quiz, Section } from "@/lib/types";
 
 import { IsraeliPlayers, Markets, MatchDayBanner } from "./Extras";
-import { ListenButton } from "./ListenButton";
+import { ListenPlayer } from "./ListenPlayer";
 import { QuizView } from "./QuizView";
 import { StoryCard } from "./StoryCard";
 import { VocabView } from "./VocabView";
@@ -96,7 +96,7 @@ export function BriefApp() {
     }`;
 
   return (
-    <div className="mx-auto w-full max-w-xl pb-16">
+    <div className="mx-auto w-full max-w-xl pb-40">
       <header className="sticky top-0 z-10 border-b border-line bg-bg/90 px-4 pt-[max(env(safe-area-inset-top),0.75rem)] pb-3 backdrop-blur">
         <div className="flex items-baseline justify-between gap-3">
           <h1 className="text-lg font-bold tracking-tight">Daily Brief</h1>
@@ -160,9 +160,11 @@ export function BriefApp() {
           <div className="flex items-center justify-between gap-3">
             <h2 className="text-2xl font-bold tracking-tight">{title(active)}</h2>
             <div className="flex shrink-0 gap-2">
-              {/* Keyed so switching section, language or length stops the current reading. */}
-              <ListenButton
-                key={`${active.section}-${lang}-${length}`}
+              {/* Keyed so switching section, language or length stops the current reading;
+                  the id also keys the saved listening position. */}
+              <ListenPlayer
+                key={`${meta.date}:${active.section}:${lang}:${length}`}
+                id={`${meta.date}:${active.section}:${lang}:${length}`}
                 text={sectionSpeech(active, lang, length)}
                 lang={lang}
               />
