@@ -42,6 +42,12 @@ title_he = "עסקים וכלכלה"
 default_lang = "en"
 stories = "1"
 
+[sections.tech]
+title_en = "Tech & AI"
+title_he = "טכנולוגיה ובינה מלאכותית"
+default_lang = "en"
+stories = "2-3"
+
 [sections.ideas]
 title_en = "Ideas"
 title_he = "רעיונות"
@@ -58,4 +64,4 @@ vocab_per_day = 3
 
 # Section order in the app. On match days sports jumps to the top.
 [layout]
-order = ["geopolitics", "israeli_politics", "business", "sports", "ideas", "learn"]
+order = ["geopolitics", "israeli_politics", "business", "tech", "sports", "ideas", "learn"]

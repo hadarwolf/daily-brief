@@ -172,7 +172,7 @@ def build_inputs(raw: dict[str, dict], today: date, sources_cfg: dict, history: 
     data = lambda sid: raw.get(sid, {}).get("data", {})  # noqa: E731
     inputs: dict[str, SectionInput] = {}
 
-    for section in ("geopolitics", "israeli_politics", "business", "ideas"):
+    for section in ("geopolitics", "israeli_politics", "business", "tech", "ideas"):
         inp = SectionInput(section, {})
         inp.payload["news_feeds" if section != "ideas" else "candidates"] = _rss_block(raw, section, feed_names, inp)
         inputs[section] = inp

@@ -101,6 +101,17 @@ def _business(n, **_):
 - markets_snapshot is context only. The app displays it separately, so don't write a markets story unless there is a genuine market event."""
 
 
+def _tech(n, **_):
+    return f"""Write the Tech & AI section: {n} stories.
+
+- The reader studies Computer Science and Electrical Engineering. Choose what a sharp CS/EE student should know about: AI models and research, chips and hardware, software and security, big-tech strategy, and Israeli tech (startups, funding, exits).
+- Prefer substance over gadgets. Skip product reviews, deals and phone rumors unless they signal something bigger.
+- Hacker News points show what engineers find interesting, not how important a story is.
+- Explain the technical idea behind each story in plain terms: what it is, how it works, and why it matters, the way a good senior engineer would explain it to a student. Define a technical term the first time you use it.
+- Use kind "news" for straight news and "analysis" when the story is about what a development means.
+- Leave pure stock moves and earnings to the Business section unless the technology itself is the story."""
+
+
 def _ideas(today, **_):
     rotation = IDEAS_ROTATION[today.toordinal() % len(IDEAS_ROTATION)]
     return f"""Write the Ideas section: one essay or long read, summarized.
@@ -146,6 +157,7 @@ SECTION_INSTRUCTIONS = {
     "geopolitics": _geopolitics,
     "israeli_politics": _israeli_politics,
     "business": _business,
+    "tech": _tech,
     "ideas": _ideas,
     "learn": _learn,
 }

@@ -16,6 +16,15 @@ export async function loadBrief(date: string): Promise<Brief> {
   return { meta, sections };
 }
 
+/** One section of a given day's brief, or null if that day doesn't have it. */
+export async function loadSection(date: string, section: string): Promise<Section | null> {
+  try {
+    return await getJson<Section>(`/briefs/${date}/${section}.json`);
+  } catch {
+    return null;
+  }
+}
+
 export async function loadQuiz(date: string): Promise<Quiz | null> {
   try {
     return await getJson<Quiz>(`/briefs/${date}/quiz.json`);

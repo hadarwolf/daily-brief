@@ -3,12 +3,15 @@
 import { useEffect, useMemo, useState } from "react";
 
 import { loadBrief, loadIndex, loadQuiz } from "@/lib/data";
+import { toSpeech } from "@/lib/speech";
 import { useStored } from "@/lib/storage";
 import type { Brief, Lang, Length, Quiz, Section } from "@/lib/types";
 
 import { IsraeliPlayers, Markets, MatchDayBanner } from "./Extras";
+import { ListenButton } from "./ListenButton";
 import { QuizView } from "./QuizView";
 import { StoryCard } from "./StoryCard";
+import { VocabView } from "./VocabView";
 
 const LENGTHS: { id: Length; label: string; hint: string }[] = [
   { id: "scroll", label: "Scroll", hint: "30s" },
@@ -16,12 +19,19 @@ const LENGTHS: { id: Length; label: string; hint: string }[] = [
   { id: "deep", label: "Deep", hint: "10m" },
 ];
 
+// Tabs after the sections.
 const QUIZ_ID = "quiz";
+const VOCAB_ID = "vocab";
 
 type State = { status: "loading" } | { status: "empty" } | { status: "error"; message: string } | { status: "ready"; brief: Brief };
 
 function formatDate(iso: string): string {
   return new Date(`${iso}T12:00:00`).toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long" });
+}
+
+/** What the Listen button reads: every story's headline, then its body at the chosen length. */
+function sectionSpeech(section: Section, lang: Lang, length: Length): string {
+  return section.stories.map((story) => `${toSpeech(story[lang].headline)} ${toSpeech(story[lang][length])}`).join(" ");
 }
 
 export function BriefApp() {
@@ -31,6 +41,7 @@ export function BriefApp() {
   const [activeId, setActiveId] = useState<string | null>(null);
   // Today's quiz is about the previous brief, so it tests what you read rather than what you just read.
   const [quiz, setQuiz] = useState<Quiz | null>(null);
+  const [dates, setDates] = useState<string[]>([]); // every brief the app has, newest first
 
   useEffect(() => {
     loadIndex()
@@ -40,10 +51,11 @@ export function BriefApp() {
           loadBrief(index.latest),
           index.dates[1] ? loadQuiz(index.dates[1]) : Promise.resolve(null),
         ]);
-        return { brief, previousQuiz };
+        return { brief, previousQuiz, dates: index.dates };
       })
       .then((loaded) => {
         setQuiz(loaded?.previousQuiz ?? null);
+        setDates(loaded?.dates ?? []);
         setState(loaded ? { status: "ready", brief: loaded.brief } : { status: "empty" });
       })
       .catch((e: Error) => setState({ status: "error", message: e.message }));
@@ -64,7 +76,7 @@ export function BriefApp() {
   if (state.status === "error") return <Centered>Couldn&apos;t load the brief ({state.message}).</Centered>;
 
   const { meta } = state.brief;
-  const showingQuiz = activeId === QUIZ_ID && quiz !== null;
+  const tab = activeId === QUIZ_ID && quiz ? "quiz" : activeId === VOCAB_ID ? "vocab" : "section";
   const active = sections.find((s) => s.section === activeId) ?? sections[0];
   const activeIndex = sections.indexOf(active);
   const next = sections[activeIndex + 1];
@@ -77,6 +89,11 @@ export function BriefApp() {
     setActiveId(id);
     window.scrollTo({ top: 0 });
   };
+
+  const pill = (selected: boolean) =>
+    `whitespace-nowrap rounded-full px-3.5 py-1.5 text-sm font-medium ring-1 transition-colors ${
+      selected ? "bg-fg text-bg ring-fg" : "ring-line text-muted"
+    }`;
 
   return (
     <div className="mx-auto w-full max-w-xl pb-16">
@@ -106,12 +123,7 @@ export function BriefApp() {
           <ul className="flex gap-2">
             {sections.map((s) => (
               <li key={s.section}>
-                <button
-                  onClick={() => goTo(s.section)}
-                  className={`whitespace-nowrap rounded-full px-3.5 py-1.5 text-sm font-medium ring-1 transition-colors ${
-                    s === active && !showingQuiz ? "bg-fg text-bg ring-fg" : "ring-line text-muted"
-                  }`}
-                >
+                <button onClick={() => goTo(s.section)} className={pill(tab === "section" && s === active)}>
                   {title(s)}
                   {s.match_day?.is_match_day && " ⚽"}
                 </button>
@@ -119,13 +131,15 @@ export function BriefApp() {
             ))}
             {quiz && (
               <li>
-                <button
-                  onClick={() => goTo(QUIZ_ID)}
-                  className={`whitespace-nowrap rounded-full px-3.5 py-1.5 text-sm font-medium ring-1 transition-colors ${
-                    showingQuiz ? "bg-fg text-bg ring-fg" : "ring-line text-muted"
-                  }`}
-                >
+                <button onClick={() => goTo(QUIZ_ID)} className={pill(tab === "quiz")}>
                   Quiz
+                </button>
+              </li>
+            )}
+            {dates.length > 0 && (
+              <li>
+                <button onClick={() => goTo(VOCAB_ID)} className={pill(tab === "vocab")}>
+                  Vocab
                 </button>
               </li>
             )}
@@ -133,51 +147,63 @@ export function BriefApp() {
         </nav>
       </header>
 
-      <main className="px-4 pt-5" dir={showingQuiz ? undefined : lang === "he" ? "rtl" : "ltr"} lang={showingQuiz ? undefined : lang}>
-        {showingQuiz && quiz ? (
+      {tab === "quiz" && quiz ? (
+        <main className="px-4 pt-5">
           <QuizView quiz={quiz} dateLabel={formatDate(quiz.date)} />
-        ) : (
-          <>
-        <div className="flex items-center justify-between gap-3">
-          <h2 className="text-2xl font-bold tracking-tight">{title(active)}</h2>
-          <button
-            onClick={() => setLangOverrides((prev) => ({ ...prev, [active.section]: lang === "he" ? "en" : "he" }))}
-            className="rounded-full px-3 py-1 text-sm font-medium ring-1 ring-line"
-            aria-label="Switch language"
-          >
-            {lang === "he" ? "English" : "עברית"}
-          </button>
-        </div>
+        </main>
+      ) : tab === "vocab" ? (
+        <main className="px-4 pt-5">
+          <VocabView dates={dates} />
+        </main>
+      ) : (
+        <main className="px-4 pt-5" dir={lang === "he" ? "rtl" : "ltr"} lang={lang}>
+          <div className="flex items-center justify-between gap-3">
+            <h2 className="text-2xl font-bold tracking-tight">{title(active)}</h2>
+            <div className="flex shrink-0 gap-2">
+              {/* Keyed so switching section, language or length stops the current reading. */}
+              <ListenButton
+                key={`${active.section}-${lang}-${length}`}
+                text={sectionSpeech(active, lang, length)}
+                lang={lang}
+              />
+              <button
+                onClick={() => setLangOverrides((prev) => ({ ...prev, [active.section]: lang === "he" ? "en" : "he" }))}
+                className="rounded-full px-3 py-1 text-sm font-medium ring-1 ring-line"
+                aria-label="Switch language"
+              >
+                {lang === "he" ? "English" : "עברית"}
+              </button>
+            </div>
+          </div>
 
-        <div className="mt-4 space-y-4">
-          {active.match_day && <MatchDayBanner matchDay={active.match_day} lang={lang} />}
-          {active.markets && <Markets quotes={active.markets} />}
-          {active.stories.map((story) => (
-            <StoryCard key={story.id} story={story} lang={lang} length={length} />
-          ))}
-          {active.israeli_players && <IsraeliPlayers players={active.israeli_players} lang={lang} />}
-        </div>
+          <div className="mt-4 space-y-4">
+            {active.match_day && <MatchDayBanner matchDay={active.match_day} lang={lang} />}
+            {active.markets && <Markets quotes={active.markets} />}
+            {active.stories.map((story) => (
+              <StoryCard key={story.id} story={story} lang={lang} length={length} />
+            ))}
+            {active.israeli_players && <IsraeliPlayers players={active.israeli_players} lang={lang} />}
+          </div>
 
-        {next && (
-          <button
-            onClick={() => goTo(next.section)}
-            className="mt-6 w-full rounded-2xl bg-card py-4 text-center font-medium ring-1 ring-line"
-            dir={langOf(next) === "he" ? "rtl" : "ltr"}
-          >
-            {langOf(next) === "he" ? `הבא: ${title(next)} ←` : `Next: ${title(next)} →`}
-          </button>
-        )}
-        {nextIsQuiz && (
-          <button
-            onClick={() => goTo(QUIZ_ID)}
-            className="mt-6 w-full rounded-2xl bg-accent py-4 text-center font-medium text-accent-fg"
-          >
-            Test yourself: yesterday&apos;s quiz →
-          </button>
-        )}
-          </>
-        )}
-      </main>
+          {next && (
+            <button
+              onClick={() => goTo(next.section)}
+              className="mt-6 w-full rounded-2xl bg-card py-4 text-center font-medium ring-1 ring-line"
+              dir={langOf(next) === "he" ? "rtl" : "ltr"}
+            >
+              {langOf(next) === "he" ? `הבא: ${title(next)} ←` : `Next: ${title(next)} →`}
+            </button>
+          )}
+          {nextIsQuiz && (
+            <button
+              onClick={() => goTo(QUIZ_ID)}
+              className="mt-6 w-full rounded-2xl bg-accent py-4 text-center font-medium text-accent-fg"
+            >
+              Test yourself: yesterday&apos;s quiz →
+            </button>
+          )}
+        </main>
+      )}
     </div>
   );
 }

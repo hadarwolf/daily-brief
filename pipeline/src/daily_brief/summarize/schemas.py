@@ -71,6 +71,7 @@ SECTION_SCHEMAS: dict[str, type[SectionOutput]] = {
     "geopolitics": SectionOutput,
     "israeli_politics": SectionOutput,
     "business": SectionOutput,
+    "tech": SectionOutput,
     "ideas": SectionOutput,
     "learn": SectionOutput,
 }

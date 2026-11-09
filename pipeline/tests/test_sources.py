@@ -1,7 +1,7 @@
 from daily_brief.config import load_sources
 from daily_brief.fetchers import build_sources
 
-SECTIONS = {"sports", "geopolitics", "israeli_politics", "business", "ideas", "learn"}
+SECTIONS = {"sports", "geopolitics", "israeli_politics", "business", "tech", "ideas", "learn"}
 
 
 def test_sources_toml_is_valid_and_covers_every_section():

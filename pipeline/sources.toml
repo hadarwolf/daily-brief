@@ -1,4 +1,4 @@
-# Daily Brief sources. Sections: sports, geopolitics, israeli_politics, business, ideas, learn.
+# Daily Brief sources. Sections: sports, geopolitics, israeli_politics, business, tech, ideas, learn.
 # Any source can be turned off with `enabled = false`.
 #
 # RSS options: id, name, section, lang, url, max_age_hours (default 48), max_items (default 25),
@@ -234,3 +234,58 @@ section = "ideas"
 lang = "en"
 url = "https://www.quantamagazine.org/feed/"
 max_age_hours = 336
+
+# ---------------------------------------------------------------- Tech & AI (EN)
+
+[[rss]]
+id = "hn_frontpage"
+name = "Hacker News (150+ points)"
+section = "tech"
+lang = "en"
+url = "https://hnrss.org/frontpage?points=150"
+
+[[rss]]
+id = "ars_technica"
+name = "Ars Technica"
+section = "tech"
+lang = "en"
+url = "https://feeds.arstechnica.com/arstechnica/index"
+
+[[rss]]
+id = "mit_tech_review"
+name = "MIT Technology Review"
+section = "tech"
+lang = "en"
+url = "https://www.technologyreview.com/feed/"
+max_age_hours = 72
+
+[[rss]]
+id = "ieee_spectrum"
+name = "IEEE Spectrum"
+section = "tech"
+lang = "en"
+url = "https://spectrum.ieee.org/feeds/feed.rss"
+max_age_hours = 168
+
+[[rss]]
+id = "simon_willison"
+name = "Simon Willison"
+section = "tech"
+lang = "en"
+url = "https://simonwillison.net/atom/everything/"
+max_age_hours = 72
+
+[[rss]]
+id = "the_verge"
+name = "The Verge"
+section = "tech"
+lang = "en"
+url = "https://www.theverge.com/rss/index.xml"
+max_age_hours = 36
+
+[[rss]]
+id = "geektime"
+name = "Geektime (Israeli tech)"
+section = "tech"
+lang = "he"
+url = "https://www.geektime.co.il/feed/"
