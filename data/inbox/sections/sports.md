@@ -83,14 +83,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-3"
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-08T14:00:00Z",
-     "home": "Sunderland",
-     "away": "Chelsea",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-08T14:00:00Z",
      "home": "Stade Rennais",
@@ -113,6 +105,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Brentford",
      "status": "FINISHED",
      "score": "2-0"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-08T14:00:00Z",
+     "home": "Sunderland",
+     "away": "Chelsea",
+     "status": "FINISHED",
+     "score": "1-0"
     },
     {
      "competition": "Bundesliga",
@@ -149,18 +149,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Eredivisie",
      "kickoff_utc": "2026-11-08T15:45:00Z",
-     "home": "Cambuur",
-     "away": "PSV",
-     "status": "FINISHED",
-     "score": "2-5"
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-08T15:45:00Z",
      "home": "AZ",
      "away": "Groningen",
      "status": "FINISHED",
      "score": "4-3"
+    },
+    {
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-08T15:45:00Z",
+     "home": "Cambuur",
+     "away": "PSV",
+     "status": "FINISHED",
+     "score": "2-5"
     },
     {
      "competition": "Ligue 1",
@@ -1003,57 +1003,57 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#16",
+     "title": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day - The Guardian",
+     "published": "2026-11-08T11:21:00+00:00",
+     "summary": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day The Guardian"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
      "title": "Lionel Messi set for emotional Argentina return following international retirement as Inter Miami plot blockbuster clash - Goal.com",
      "published": "2026-11-08T11:19:05+00:00",
      "summary": "Lionel Messi set for emotional Argentina return following international retirement as Inter Miami plot blockbuster clash Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami live score, table and standings - BeSoccer Livescore",
      "published": "2026-11-08T11:16:09+00:00",
      "summary": "Inter Miami live score, table and standings BeSoccer Livescore"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards - Al Jazeera",
      "published": "2026-11-08T11:12:13+00:00",
      "summary": "Messi becomes first player to win back-to-back MLS Golden Boot awards Al Jazeera"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Miami's Lionel Messi first back-to-back MLS Golden Boot recipient - Mahoning Matters",
      "published": "2026-11-08T10:29:06+00:00",
      "summary": "Miami's Lionel Messi first back-to-back MLS Golden Boot recipient Mahoning Matters"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi wins MLS Golden Boot for second consecutive time: Became the first player to do so; scored 26 ... - Bhaskar English",
      "published": "2026-11-08T10:27:37+00:00",
      "summary": "Lionel Messi wins MLS Golden Boot for second consecutive time: Became the first player to do so; scored 26 ... Bhaskar English"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi makes MLS history and joins EFL legend in rare feat - talkSPORT",
      "published": "2026-11-08T10:13:08+00:00",
      "summary": "Lionel Messi makes MLS history and joins EFL legend in rare feat talkSPORT"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi wins second consecutive MLS Golden Boot after scoring 26 goals for Inter Miami - Telangana Today",
      "published": "2026-11-08T09:32:31+00:00",
      "summary": "Lionel Messi wins second consecutive MLS Golden Boot after scoring 26 goals for Inter Miami Telangana Today"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Messi features in Inter Miami’s draw with Charlotte in the MLS (video) - صوت الإمارات",
      "published": "2026-11-08T09:29:45+00:00",
      "summary": "Messi features in Inter Miami’s draw with Charlotte in the MLS (video) صوت الإمارات"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Messi wins second consecutive MLS Golden Boot - Türkiye Today",
-     "published": "2026-11-08T08:22:38+00:00",
-     "summary": "Messi wins second consecutive MLS Golden Boot Türkiye Today"
     }
    ]
   },
@@ -1063,138 +1063,144 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Should I Trade Ben Saraf for Cody Martin? | Fantasy Basketball - FantasyPros",
+     "published": "2026-11-09T00:28:25+00:00",
+     "summary": "Should I Trade Ben Saraf for Cody Martin? | Fantasy Basketball FantasyPros"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "Nets’ Egor Dëmin progressing but ruled out against Mavericks; Ben Saraf shines in G League - New York Daily News",
      "published": "2026-11-08T15:25:28+00:00",
      "summary": "Nets’ Egor Dëmin progressing but ruled out against Mavericks; Ben Saraf shines in G League New York Daily News"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
      "title": "Victor Wembanyama scores 29 points in Spurs' massive win over Blazers - MySA",
      "published": "2026-11-08T14:57:42+00:00",
      "summary": "Victor Wembanyama scores 29 points in Spurs' massive win over Blazers MySA"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "Portland Trail Blazers open 2026-27 NBA season - OregonLive.com",
      "published": "2026-11-08T14:30:47+00:00",
      "summary": "Portland Trail Blazers open 2026-27 NBA season OregonLive.com"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Trail Blazers' Deni Avdija: Poor shooting performance - CBS Sports",
      "published": "2026-11-08T14:25:37+00:00",
      "summary": "Trail Blazers' Deni Avdija: Poor shooting performance CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Deni Avdija News: Poor shooting performance - RotoWire",
      "published": "2026-11-08T14:25:37+00:00",
      "summary": "Deni Avdija News: Poor shooting performance RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija should remain Portland’s top offensive option despite Lillard, Morant - Ynetnews",
      "published": "2026-11-08T07:51:00+00:00",
      "summary": "Deni Avdija should remain Portland’s top offensive option despite Lillard, Morant Ynetnews"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija with the 2 Pt, 11/07/2026 - Yahoo Sports",
      "published": "2026-11-08T05:42:48+00:00",
      "summary": "Deni Avdija with the 2 Pt, 11/07/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Ben Saraf and Dain Dainja combine for 50 in Long Island’s big win over Greensboro - NetsDaily",
      "published": "2026-11-08T04:14:00+00:00",
      "summary": "Ben Saraf and Dain Dainja combine for 50 in Long Island’s big win over Greensboro NetsDaily"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Lakers showcase early resolve for best start since 2019 - Orange County Register",
      "published": "2026-11-07T23:40:40+00:00",
      "summary": "Lakers showcase early resolve for best start since 2019 Orange County Register"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija’s turnovers are still holding him back as Blazers’ point forward - Rip City Project",
      "published": "2026-11-07T19:48:16+00:00",
      "summary": "Deni Avdija’s turnovers are still holding him back as Blazers’ point forward Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija flirts with triple-double in Friday's loss to Lakers - FantasyPros",
      "published": "2026-11-07T15:33:22+00:00",
      "summary": "Deni Avdija flirts with triple-double in Friday's loss to Lakers FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Trail Blazers' Deni Avdija: Sniffs triple-double in loss - CBS Sports",
      "published": "2026-11-07T11:57:04+00:00",
      "summary": "Trail Blazers' Deni Avdija: Sniffs triple-double in loss CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija News: Sniffs triple-double in loss - RotoWire",
      "published": "2026-11-07T11:57:04+00:00",
      "summary": "Deni Avdija News: Sniffs triple-double in loss RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Spurs vs. Trail Blazers: How to watch the game, who's starting, who's out - San Antonio Express-News",
      "published": "2026-11-07T10:11:09+00:00",
      "summary": "Spurs vs. Trail Blazers: How to watch the game, who's starting, who's out San Antonio Express-News"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Luka Doncic just showed the Blazers why Deni Avdija isn't a superstar yet - Rip City Project",
      "published": "2026-11-07T07:22:10+00:00",
      "summary": "Luka Doncic just showed the Blazers why Deni Avdija isn't a superstar yet Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija records 22 points, 11 assists vs. LAL - NBC Sports",
      "published": "2026-11-07T06:28:00+00:00",
      "summary": "Deni Avdija records 22 points, 11 assists vs. LAL NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija finishes through contact, 11/06/2026 - Yahoo Sports",
      "published": "2026-11-07T06:16:38+00:00",
      "summary": "Deni Avdija finishes through contact, 11/06/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Luka Doncic scores 53 in another spectacular offensive game, carrying Lakers past Blazers 124-118 - Click2Houston",
      "published": "2026-11-07T06:14:43+00:00",
      "summary": "Luka Doncic scores 53 in another spectacular offensive game, carrying Lakers past Blazers 124-118 Click2Houston"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Luka Doncic scores 53 in another spectacular offensive game, carrying Lakers past Blazers 124-118 - WSLS",
      "published": "2026-11-07T06:14:25+00:00",
      "summary": "Luka Doncic scores 53 in another spectacular offensive game, carrying Lakers past Blazers 124-118 WSLS"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "2 Winners, 2 Losers in Blazers Loss vs. Luka Doncic, Lakers - Sports Illustrated",
      "published": "2026-11-07T06:05:12+00:00",
      "summary": "2 Winners, 2 Losers in Blazers Loss vs. Luka Doncic, Lakers Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Lakers 124-118 Trail Blazers (7 Nov, 2026) Final Score - ESPN Singapore",
      "published": "2026-11-07T04:15:52+00:00",
      "summary": "Lakers 124-118 Trail Blazers (7 Nov, 2026) Final Score ESPN Singapore"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija gets the and-1 for the Trail Blazers - ESPN",
      "published": "2026-11-07T03:56:34+00:00",
      "summary": "Deni Avdija gets the and-1 for the Trail Blazers ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija is at it again - Jewish Telegraphic Agency",
      "published": "2026-11-06T16:18:37+00:00",
      "summary": "Deni Avdija is at it again Jewish Telegraphic Agency"

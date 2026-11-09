@@ -18,122 +18,123 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Euro-Zone Officials to Discuss Lagarde Succession Plan (Video)",
-     "published": "2026-11-09T09:25:14+00:00"
+     "title": "Euro-Zone Officials Meet to Discuss Lagarde Succession Plan",
+     "published": "2026-11-09T09:25:14+00:00",
+     "summary": "Euro-zone finance ministers convened for a first assessment of the European Central Bank presidency race after both candidates — Dutchman Klaas Knot and Spaniard Pablo Hernandez de Cos — spoke out on current economic risks. Oliver Crook reports from Brussels. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "China’s National Team Ramps Up ETF Buying to Record High",
+     "published": "2026-11-09T09:04:19+00:00",
+     "summary": "China’s state-led funds poured a record amount of money into the stock market last week, as authorities intensified efforts to stem a bruising selloff."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "Inside the Race to Upgrade Transformers",
      "published": "2026-11-09T09:01:00+00:00",
      "summary": "Transformers are critical to the power grid, but the rise of renewables and surging energy demand are pushing them to their limits. Could the solid-state transformer meet these new challenges? (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "This Is How New York City Takes Out Its Trash",
      "published": "2026-11-09T09:00:21+00:00",
      "summary": "A government service untouched by neoliberalism."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Odd Lots: How New York City Takes Out Its Trash (Podcast)",
      "published": "2026-11-09T09:00:00+00:00",
      "summary": "According to Joshua Goodman, trash collection in New York is one of the last services the city offers that is not yet touched by neoliberalism. What he means is that it’s the last free and unlimited city service — there is no opt-in; it is not means tested. Goodman — who is the DSNY’s deputy commissioner for public affairs and customer experience — tells us that the city deals with 24 million poun"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Hedge Funds Dump Tech Stocks at One of Fastest Paces on Record",
      "published": "2026-11-09T08:58:47+00:00",
      "summary": "Hedge funds sold global technology stocks at one of the fastest paces on record last week, as concerns that political opposition could derail the data-center buildout triggered an aggressive reassessment of the artificial intelligence trade."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Data Center Boss Vows Engagement After Backlash Tanks Stock",
      "published": "2026-11-09T08:57:00+00:00",
      "summary": "Nextdc Ltd. Chief Executive Officer Craig Scroggie vowed to make communities his top priority after a local backlash delayed a major data center project in Melbourne last month, triggering a stock-price meltdown."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Aramco Tower Targeted in Riyadh as Eisenkot Gets Israeli Government Mandate",
      "published": "2026-11-09T08:49:33+00:00",
      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "BMW Widens Battery Component Suppliers With Samsung, LG Energy",
      "published": "2026-11-09T08:44:51+00:00",
      "summary": "BMW AG is adding South Korean battery-cell makers Samsung SDI Co. and LG Energy Solution Ltd. to its supplier networks in Europe and the US as the German carmaker looks to reduce dependencies."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "QatarEnergy Adds Chevron Block to Stakes in African Oil Hotspot",
      "published": "2026-11-09T08:39:00+00:00",
      "summary": "QatarEnergy agreed to take a stake in an offshore oil block held by Chevron Corp. in Namibia, adding to its holdings in the African exploration hotspot."
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "European Stocks Rise as Banks, Technology Shares Advance",
      "published": "2026-11-09T08:26:42+00:00",
      "summary": "European stocks rose, led by banks after better-than-expected earnings for Italy’s UniCredit SpA and a merger proposal for Banco BPM SpA."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Russia’s Japan Tobacco Grab Is Risk for Takaichi’s Spending Plan",
      "published": "2026-11-09T08:25:36+00:00",
      "summary": "Russia’s seizure of Japan Tobacco Inc.’s local assets risks reducing the Japanese government’s pool of spending money just as Prime Minister Sanae Takaichi pushes a costly policy agenda."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Italy’s Agnellis Divest Further With $700 Million CNH Stake Sale",
      "published": "2026-11-09T08:25:29+00:00",
      "summary": "CNH Industrial NV agreed to sell 70% of its construction equipment business to a unit of Japan’s Kobe Steel, furthering efforts by Italy’s Fiat-founding Agnelli family to streamline its industrial holdings."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Orcel Sees New Commerzbank Governance as Early as Q1",
      "published": "2026-11-09T08:19:52+00:00",
      "summary": "UniCredit CEO Andrea Orcel discusses the bank’s record quarterly profit and plans to take control of Germany's Commerzbank. Speaking to Bloomberg, Orcel says governance arrangements including a revamp of Commerzbank's supervisory board is coming early next year. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "AI Turbulence to Keep on Running: Market Analysis",
      "published": "2026-11-09T08:14:57+00:00",
      "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Adam Linton break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Thames Water Creditors Back Debt Extension as Rescue Talks Drag",
      "published": "2026-11-09T08:06:40+00:00",
      "summary": "A group of Thames Water creditors agreed to back plans to push out debt repayments, buying more time to agree on a broader rescue for the troubled utility."
     },
     {
-     "ref": "bloomberg_markets#15",
-     "title": "ICE Joins Wind Derivatives Push as Renewables Reshape Power",
-     "published": "2026-11-09T08:00:00+00:00",
-     "summary": "Intercontinental Exchange Inc. is launching new wind derivatives, joining a growing wave of exchanges trying to turn weather volatility into a more easily traded financial risk as renewable power reshapes electricity markets."
-    },
-    {
      "ref": "bloomberg_markets#16",
-     "title": "Access Considers Foreign-Asset Exit to Meet Nigeria Bank Rules",
-     "published": "2026-11-09T07:34:45+00:00",
-     "summary": "Nigeria’s top lender by assets is considering exiting at least one of its foreign markets as the business with operations in about 24 countries looks to comply with central-bank rules limiting external investments."
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Jensen Huang’s Affair with Suspected Chinese Spy Adds New Risks to AI Trade",
-     "published": "2026-11-09T07:33:02+00:00",
-     "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#18",
      "title": "Global Yuan Flows on China’s Network Head for Record Year",
      "published": "2026-11-09T05:57:55+00:00",
      "summary": "China’s cross-border yuan payment system is heading for its busiest year since its launch in 2015, as robust trade and greater use of the currency for settlements accelerate growth in a key piece of Beijing’s financial infrastructure."
     },
     {
-     "ref": "bloomberg_markets#19",
+     "ref": "bloomberg_markets#17",
      "title": "US Stocks Rise as Drop in Oil Offsets Nvidia Woes: Markets Wrap",
      "published": "2026-11-08T22:20:51+00:00",
      "summary": "US stocks started Monday on a more solid footing following the S&P 500’s worst week since April 2025, with support from cheaper oil prices partly offset by continued pressure on chipmakers."
+    },
+    {
+     "ref": "bloomberg_markets#18",
+     "title": "New Zealand Dollar Climbs as Ruling Party Gets Election Edge",
+     "published": "2026-11-08T22:07:45+00:00",
+     "summary": "New Zealand’s dollar rose after the incumbent National Party emerged from the weekend election with a path back to power, putting it in pole position to lead negotiations with minor parties."
+    },
+    {
+     "ref": "bloomberg_markets#19",
+     "title": "Democratic Sweep Tests Trump-Tied Trades in Latin America",
+     "published": "2026-11-08T13:30:00+00:00",
+     "summary": "Investors who spent the past year factoring countries’ standing with Donald Trump into their Latin America trades are confronting a new variable: a Democratic-controlled US Congress."
     }
    ]
   },
@@ -155,54 +156,48 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#2",
-     "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-     "published": "2026-11-09T07:59:00+00:00",
-     "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison"
-    },
-    {
-     "ref": "ft_home#3",
      "title": "Democrat triumph offers China ‘window to catch up’ on AI",
      "published": "2026-11-09T05:00:48+00:00",
      "summary": "Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#3",
      "title": "BA parent says onerous green charges will ‘kill’ Europe’s aviation industry",
      "published": "2026-11-09T05:00:34+00:00",
      "summary": "Luis Gallego says planned environmental charges that are more onerous for UK carriers will lead to higher fares and damage the industry"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#4",
      "title": "ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis",
      "published": "2026-11-09T05:00:34+00:00",
      "summary": "Candidate says he would be ready to invent new crisis-fighting tools if required"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#5",
      "title": "Tech’s teetering towers",
      "published": "2026-11-09T05:00:25+00:00",
      "summary": "The AI race is defined by vertical integration. Will it withstand a storm?"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#6",
      "title": "Russian military turns to deepfake videos to claim battlefield success",
      "published": "2026-11-09T05:00:25+00:00",
      "summary": "Army units and pro-war military bloggers are posting videos researchers say have been manipulated"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#7",
      "title": "EU sues IBM and partners over troubled border system",
      "published": "2026-11-09T05:00:16+00:00",
      "summary": "Lawsuit filed in Estonia relates to repeated delays in developing Entry/Exit System"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#8",
      "title": "The great British sell-off",
      "published": "2026-11-09T05:00:08+00:00",
      "summary": "Companies worth half a trillion pounds have been snapped up by foreign buyers over the past decade"
     },
     {
-     "ref": "ft_home#10",
+     "ref": "ft_home#9",
      "title": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
      "published": "2026-11-09T02:54:00+00:00",
      "summary": "President concedes US voters were turned off by deportations, Iran war and ‘bad messaging’ on the economy in midterm elections"
@@ -217,7 +212,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "themarker#0",
      "title": "השאלה שתרעיד את אנבידיה ואת תעשיית ה-AI כולה: האם ג'נסן הואנג ייאלץ לעזוב?",
      "published": "2026-11-09T09:25:48+00:00",
-     "summary": "דירקטוריון אנבידיה מיהר להבהיר שאין סיבה לחשוב שסודות החברה או הביטחון הלאומי נפגעו, אך הקים ועדת בדיקה ■ אם יתברר שהועבר מידע רגיש או שהיתה לפרשה השפעה על מדיניותו של הואנג, עתידו בחברה עלול לעמוד בסכנה ■ האירוע צפוי לטלטל את החברה ואת השוק, במיוחד בהיעדר יורש ברור, ולהוסיף אי־ודאות לגבי תוכניות החברה בישראל"
+     "summary": "דירקטוריון אנבידיה מיהר להבהיר שאין סיבה לחשוב שסודות החברה או הביטחון הלאומי נפגעו, אך הקים ועדת בדיקה ■ אם יתברר שהועבר מידע רגיש או שהייתה לפרשה השפעה על מדיניותו של הואנג, עתידו בחברה עלול לעמוד בסכנה ■ האירוע צפוי לטלטל את החברה ואת השוק, במיוחד בהיעדר יורש ברור, ולהוסיף אי־ודאות לגבי תוכניות החברה בישראל"
     },
     {
      "ref": "themarker#1",
@@ -370,96 +365,102 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Stock Futures, Treasurys Steady But Nvidia Slides Premarket on Huang Probe",
+     "published": "2026-11-09T09:41:00+00:00",
+     "summary": "Shares in Nvidia fell close to 5% premarket after the company said it was launching an investigation into Huang’s relationship with an executive suspected of working for Chinese intelligence."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "Sterling Looks Overvalued Vs. Euro",
+     "published": "2026-11-09T09:32:00+00:00",
+     "summary": "The pound was flat against the euro and ING said sterling might struggle to rise further against the EU’s single currency."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "Gold Rises Above $4,100 an Ounce, With Focus on U.S. Inflation Data",
      "published": "2026-11-09T08:49:00+00:00",
      "summary": "Gold rose above $4,100 a troy ounce as lower oil prices eased inflation concerns."
     },
     {
-     "ref": "wsj_markets#1",
-     "title": "Euro Could Weaken Due to French Fiscal Uncertainty",
-     "published": "2026-11-09T08:48:00+00:00",
-     "summary": "The euro rose against the dollar but Convera said it could depreciate given France’s political and fiscal challenges."
-    },
-    {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "European Indexes Steady to Start Week",
      "published": "2026-11-09T08:31:00+00:00",
      "summary": "After heavy selling at the end of last week, European stock indexes were little moved in quiet early Monday trade."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Asian Equities Mostly Rebound, Though Sentiment Remains Fragile",
      "published": "2026-11-09T08:17:00+00:00",
      "summary": "Brutal stock losses last week had prompted both South Korean and Taiwanese authorities to intervene to stem losses in local equities."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "U.S. Treasury Yields Edge Lower as Oil Prices Decline",
      "published": "2026-11-09T07:38:00+00:00",
      "summary": "Treasury yields edged lower, with falling oil prices steering direction for now."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
      "published": "2026-11-09T02:58:00+00:00",
      "summary": "Japan spent a record $50 billion in one day during July to prop up the yen, underscoring an aggressive intervention campaign that included rare joint action with the U.S."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
      "title": "Oil Falls Amid Hopes for Easing Mideast Tensions",
      "published": "2026-11-09T02:33:00+00:00",
      "summary": "Oil fell in Asian trade amid rising hopes for easing tensions in the Middle East. Investors are eager to see progress on the Iran war after Democrats’ sweeping win at the midterm elections, ANZ said."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#8",
      "title": "Dwindling Pay Fuels High-Profile Exits From Blackstone’s Marquee Real Estate Team",
      "published": "2026-11-09T02:00:00+00:00",
      "summary": "A rocky investing period for real estate hurt returns and cut the payout for senior partners by millions of dollars."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
      "published": "2026-11-08T20:00:00+00:00",
      "summary": "A group backed by Citadel Securities and Cboe is suing over the approval of single-stock perps."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026",
      "published": "2026-11-08T15:00:00+00:00",
      "summary": "Fund investors in October felt the downdraft in artificial-intelligence shares. Plus: A Financial Flashback to 40 years ago, the Boesky insider-trading bombshell."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities",
      "published": "2026-11-08T11:59:00+00:00",
      "summary": "Plus, Netanyahu’s opponent gets a chance to form a new government, and how a talent war spelled doom for traditional law firms"
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "Don’t Trust the Market’s Knee-Jerk Reaction to the Midterms",
      "published": "2026-11-08T10:30:00+00:00",
      "summary": "There are usually good reasons for politically driven trades. Yet they often prove catastrophic once the postelection hype settles down."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
      "published": "2026-11-08T10:30:00+00:00",
      "summary": "Following Instacart acquisition plans and an Amazon deal with rival Uber Eats, DoorDash stock is on sale."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "How a Talent War Spelled Doom for the Traditional Law Firm",
      "published": "2026-11-08T01:00:00+00:00",
      "summary": "A record year for partner turnover helped bring down Weil Gotshal and is forcing similar firms to make changes to compete."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#15",
      "title": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
      "published": "2026-11-07T17:00:00+00:00",
      "summary": "Some crypto developers say they can’t stop North Korean hackers from laundering stolen funds through their platforms, frustrating law enforcement."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#16",
      "title": "Berkshire Hathaway’s Quarterly Profit Falls After Investment Gains Shrink",
      "published": "2026-11-07T15:14:00+00:00",
      "summary": "The conglomerate posted a 28% decline in quarterly net income after investment gains slumped and its insurance operations reported lower profits."
@@ -470,9 +471,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3938.79,
+   "last": 3948.4199,
    "prev_close": 3941.1399,
-   "change_pct": -0.06,
+   "change_pct": 0.18,
    "as_of": "2026-11-09"
   },
   "SP500": {
@@ -484,23 +485,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1771,
-   "prev_close": 3.2005,
-   "change_pct": -0.73,
-   "as_of": "2026-11-09"
+   "last": 3.2005,
+   "prev_close": 3.1532,
+   "change_pct": 1.5,
+   "as_of": "2026-11-06"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 96.54,
+   "last": 97.48,
    "prev_close": 98.32,
-   "change_pct": -1.81,
+   "change_pct": -0.85,
    "as_of": "2026-11-09"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 74064.1875,
+   "last": 74157.3594,
    "prev_close": 74584.6484,
-   "change_pct": -0.7,
+   "change_pct": -0.57,
    "as_of": "2026-11-09"
   }
  },

@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Maryland U.S. House Election Live Results 2026 - AP News",
-     "published": "2026-11-09T09:25:45+00:00",
-     "summary": "Maryland U.S. House Election Live Results 2026 AP News"
-    },
-    {
-     "ref": "ap_world#1",
-     "title": "New Mexico - AP News",
-     "published": "2026-11-09T09:25:45+00:00",
-     "summary": "New Mexico AP News"
-    },
-    {
-     "ref": "ap_world#2",
-     "title": "Immigration - AP News",
-     "published": "2026-11-09T09:25:43+00:00",
-     "summary": "Immigration AP News"
-    },
-    {
-     "ref": "ap_world#3",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-11-09T09:23:22+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
-     "ref": "ap_world#4",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-09T09:22:19+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#5",
-     "title": "Nevada Governor Election Live Results 2026 - AP News",
-     "published": "2026-11-09T09:17:07+00:00",
-     "summary": "Nevada Governor Election Live Results 2026 AP News"
-    },
-    {
-     "ref": "ap_world#6",
      "title": "Poland | Latest News & Updates - AP News",
-     "published": "2026-11-09T09:17:06+00:00",
+     "published": "2026-11-09T09:50:10+00:00",
      "summary": "Poland | Latest News & Updates AP News"
     },
     {
+     "ref": "ap_world#1",
+     "title": "Middle East News | Latest News From The Middle East Today - AP News",
+     "published": "2026-11-09T09:50:01+00:00",
+     "summary": "Middle East News | Latest News From The Middle East Today AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-09T09:43:47+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Mullins leads No. 4 UConn against Wagner after 23-point game - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "Mullins leads No. 4 UConn against Wagner after 23-point game AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "SIU-Edwardsville visits Missouri following Cobb’s 20-point game - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "SIU-Edwardsville visits Missouri following Cobb’s 20-point game AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "No. 14 Miami Hurricanes host the North Florida Ospreys in non-conference play - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "No. 14 Miami Hurricanes host the North Florida Ospreys in non-conference play AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Whitlock leads Georgia Tech against Eastern Kentucky after 29-point performance - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "Whitlock leads Georgia Tech against Eastern Kentucky after 29-point performance AP News"
+    },
+    {
      "ref": "ap_world#7",
-     "title": "Golf - AP News",
-     "published": "2026-11-09T09:17:06+00:00",
-     "summary": "Golf AP News"
+     "title": "Oregon State faces Eastern Washington following Smiley’s 21-point outing - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "Oregon State faces Eastern Washington following Smiley’s 21-point outing AP News"
     },
     {
      "ref": "ap_world#8",
-     "title": "Oregon U.S. House Election Live Results 2026 - AP News",
-     "published": "2026-11-09T09:17:05+00:00",
-     "summary": "Oregon U.S. House Election Live Results 2026 AP News"
+     "title": "King leads Northeastern against Harvard after 26-point performance - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "King leads Northeastern against Harvard after 26-point performance AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "Africa News Reports | Latest News in Africa - AP News",
-     "published": "2026-11-09T09:14:59+00:00",
-     "summary": "Africa News Reports | Latest News in Africa AP News"
+     "title": "LSU Tigers to host the Louisiana Tech Bulldogs Monday - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "LSU Tigers to host the Louisiana Tech Bulldogs Monday AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "Crime - AP News",
-     "published": "2026-11-09T09:14:57+00:00",
-     "summary": "Crime AP News"
+     "title": "Davidson faces Bradley after Janowski’s 25-point game - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "Davidson faces Bradley after Janowski’s 25-point game AP News"
     },
     {
      "ref": "ap_world#11",
-     "title": "European Union - AP News",
-     "published": "2026-11-09T09:10:44+00:00",
-     "summary": "European Union AP News"
+     "title": "Taylor leads Howard against Pennsylvania after 27-point showing - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "Taylor leads Howard against Pennsylvania after 27-point showing AP News"
     },
     {
      "ref": "ap_world#12",
-     "title": "Idaho Governor Election Live Results 2026 - AP News",
-     "published": "2026-11-09T09:08:20+00:00",
-     "summary": "Idaho Governor Election Live Results 2026 AP News"
+     "title": "No. 8 Tennessee faces Radford in non-conference matchup - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "No. 8 Tennessee faces Radford in non-conference matchup AP News"
     },
     {
      "ref": "ap_world#13",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-11-09T09:08:20+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
+     "title": "Purdue takes on Illinois State following Jacobsen’s 28-point game - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "Purdue takes on Illinois State following Jacobsen’s 28-point game AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "Soccer - AP News",
-     "published": "2026-11-09T08:49:52+00:00",
-     "summary": "Soccer AP News"
+     "title": "Villanova hosts La Salle after Royal’s 22-point game - AP News",
+     "published": "2026-11-09T09:43:00+00:00",
+     "summary": "Villanova hosts La Salle after Royal’s 22-point game AP News"
     },
     {
      "ref": "ap_world#15",
-     "title": "Auto Racing - AP News",
-     "published": "2026-11-09T08:49:51+00:00",
-     "summary": "Auto Racing AP News"
+     "title": "UL Monroe plays Texas A&M following Anderson’s 24-point game - AP News",
+     "published": "2026-11-09T09:42:00+00:00",
+     "summary": "UL Monroe plays Texas A&M following Anderson’s 24-point game AP News"
     },
     {
      "ref": "ap_world#16",
-     "title": "China - AP News",
-     "published": "2026-11-09T08:49:49+00:00",
-     "summary": "China AP News"
+     "title": "Claytor leads Georgia Southern against Mercer after 24-point game - AP News",
+     "published": "2026-11-09T09:42:00+00:00",
+     "summary": "Claytor leads Georgia Southern against Mercer after 24-point game AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "Minnesota - AP News",
-     "published": "2026-11-09T08:49:48+00:00",
-     "summary": "Minnesota AP News"
+     "title": "Presbyterian visits NC State following Edmead’s 20-point outing - AP News",
+     "published": "2026-11-09T09:42:00+00:00",
+     "summary": "Presbyterian visits NC State following Edmead’s 20-point outing AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "New York City - AP News",
-     "published": "2026-11-09T08:48:59+00:00",
-     "summary": "New York City AP News"
+     "title": "No. 9 Virginia takes on Bucknell, looks for 4th straight home win - AP News",
+     "published": "2026-11-09T09:42:00+00:00",
+     "summary": "No. 9 Virginia takes on Bucknell, looks for 4th straight home win AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "Gun violence - AP News",
-     "published": "2026-11-09T08:48:59+00:00",
-     "summary": "Gun violence AP News"
+     "title": "Hofstra visits Arizona State following Murauskas’ 33-point game - AP News",
+     "published": "2026-11-09T09:42:00+00:00",
+     "summary": "Hofstra visits Arizona State following Murauskas’ 33-point game AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "TIM REYNOLDS - AP News",
-     "published": "2026-11-09T08:48:58+00:00",
-     "summary": "TIM REYNOLDS AP News"
+     "title": "Warner backs Khawaja’s Sandpapergate account, calls Cricket Australia probe 'rushed and botched' - AP News",
+     "published": "2026-11-09T09:40:00+00:00",
+     "summary": "Warner backs Khawaja’s Sandpapergate account, calls Cricket Australia probe 'rushed and botched' AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "STEVE REED - AP News",
-     "published": "2026-11-09T08:48:56+00:00",
-     "summary": "STEVE REED AP News"
+     "title": "Russia - AP News",
+     "published": "2026-11-09T09:37:50+00:00",
+     "summary": "Russia AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Texas - AP News",
-     "published": "2026-11-09T08:39:27+00:00",
-     "summary": "Texas AP News"
+     "title": "International News - AP News",
+     "published": "2026-11-09T09:37:49+00:00",
+     "summary": "International News AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Michigan - AP News",
-     "published": "2026-11-09T08:37:39+00:00",
-     "summary": "Michigan AP News"
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-09T09:37:46+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Russia - AP News",
-     "published": "2026-11-09T08:37:39+00:00",
-     "summary": "Russia AP News"
+     "title": "Women’s college basketball - AP News",
+     "published": "2026-11-09T09:25:48+00:00",
+     "summary": "Women’s college basketball AP News"
     }
    ]
   },
@@ -426,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Lights to go out at Russia's Novaya Gazeta, independent newspaper known for its fearless reporting - Reuters",
+     "published": "2026-11-09T09:35:58+00:00",
+     "summary": "Lights to go out at Russia's Novaya Gazeta, independent newspaper known for its fearless reporting Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "Iran defends two-day proposal for peace talks after US rejects conditions - Reuters",
      "published": "2026-11-09T09:19:43+00:00",
      "summary": "Iran defends two-day proposal for peace talks after US rejects conditions Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "China extends suspension of new rare earth controls until January - Reuters",
      "published": "2026-11-09T09:14:20+00:00",
      "summary": "China extends suspension of new rare earth controls until January Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "South Africa's Shoprite, Investec partner to expand banking services offering - Reuters",
      "published": "2026-11-09T09:00:01+00:00",
      "summary": "South Africa's Shoprite, Investec partner to expand banking services offering Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "NextDC pauses uncontracted projects after Australian data centre woes - Reuters",
      "published": "2026-11-09T08:54:29+00:00",
      "summary": "NextDC pauses uncontracted projects after Australian data centre woes Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Taiwan's October exports surge again on strong AI demand - Reuters",
      "published": "2026-11-09T08:49:44+00:00",
      "summary": "Taiwan's October exports surge again on strong AI demand Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Gulf stocks gain on Trump's signal against renewed Iran strikes - Reuters",
      "published": "2026-11-09T08:21:45+00:00",
      "summary": "Gulf stocks gain on Trump's signal against renewed Iran strikes Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
+     "title": "G7 allies to assess impact of Trump's midterm setback at Paris talks - Reuters",
+     "published": "2026-11-09T08:21:43+00:00",
+     "summary": "G7 allies to assess impact of Trump's midterm setback at Paris talks Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
      "title": "Indonesia considers bug sweeps, tighter controls on spy tools after wiretap scandal - Reuters",
      "published": "2026-11-09T08:09:46+00:00",
      "summary": "Indonesia considers bug sweeps, tighter controls on spy tools after wiretap scandal Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "Le Pen and Melenchon ahead in 2027 French presidential race, poll shows - Reuters",
      "published": "2026-11-09T07:46:00+00:00",
      "summary": "Le Pen and Melenchon ahead in 2027 French presidential race, poll shows Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Saudi Arabia says danger passed in Riyadh after alert, day after Houthi attack - Reuters",
      "published": "2026-11-09T07:15:00+00:00",
      "summary": "Saudi Arabia says danger passed in Riyadh after alert, day after Houthi attack Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Poll: China's export growth expected to have remained strong in October - Reuters",
      "published": "2026-11-09T07:13:00+00:00",
      "summary": "Poll: China's export growth expected to have remained strong in October Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Tears and joy as Ukrainian couple divided by occupation meet again - Reuters",
      "published": "2026-11-09T07:10:00+00:00",
      "summary": "Tears and joy as Ukrainian couple divided by occupation meet again Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "German exports rise more than expected in September - Reuters",
      "published": "2026-11-09T07:10:00+00:00",
      "summary": "German exports rise more than expected in September Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult - Reuters",
      "published": "2026-11-09T07:01:00+00:00",
      "summary": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "South African rand firms on softer oil; coalition talks in focus - Reuters",
      "published": "2026-11-09T06:56:00+00:00",
      "summary": "South African rand firms on softer oil; coalition talks in focus Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "What we know about Nvidia's probe into CEO Jensen Huang - Reuters",
      "published": "2026-11-09T06:50:00+00:00",
      "summary": "What we know about Nvidia's probe into CEO Jensen Huang Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "South African telco MTN's service revenue rises over 17% as Nigeria recovers - Reuters",
      "published": "2026-11-09T06:41:00+00:00",
      "summary": "South African telco MTN's service revenue rises over 17% as Nigeria recovers Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Krakow mass shooting assailant dies in hospital, Polish police say - Reuters",
      "published": "2026-11-09T06:38:00+00:00",
      "summary": "Krakow mass shooting assailant dies in hospital, Polish police say Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Greece recovers 12 dead migrants from boat off of Crete, coast guard says - Reuters",
      "published": "2026-11-09T06:28:00+00:00",
      "summary": "Greece recovers 12 dead migrants from boat off of Crete, coast guard says Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
      "published": "2026-11-09T06:10:00+00:00",
      "summary": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "Morning Bid: Fragile calm after AI whiplash - Reuters",
      "published": "2026-11-09T05:45:00+00:00",
      "summary": "Morning Bid: Fragile calm after AI whiplash Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "Logistics group CTP reaches $500 million deal to expand in Vietnam as clients seek China alternative - Reuters",
      "published": "2026-11-09T05:35:00+00:00",
      "summary": "Logistics group CTP reaches $500 million deal to expand in Vietnam as clients seek China alternative Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "China's October car exports stay resilient, falling domestic sales yet to hit bottom - Reuters",
      "published": "2026-11-09T05:13:00+00:00",
      "summary": "China's October car exports stay resilient, falling domestic sales yet to hit bottom Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Voters desert New Zealand’s main parties, echoing global shift away from the political establishment - Reuters",
      "published": "2026-11-09T04:58:00+00:00",
      "summary": "Voters desert New Zealand’s main parties, echoing global shift away from the political establishment Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Canada's Strathcona to buy Greenfire in up to $2.1 billion deal - Reuters",
-     "published": "2026-11-09T04:57:00+00:00",
-     "summary": "Canada's Strathcona to buy Greenfire in up to $2.1 billion deal Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Win or lose, FIFA candidate Tashima making a stand for Japanese values - Reuters",
-     "published": "2026-11-09T04:48:00+00:00",
-     "summary": "Win or lose, FIFA candidate Tashima making a stand for Japanese values Reuters"
     }
    ]
   }
