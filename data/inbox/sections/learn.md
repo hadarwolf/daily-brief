@@ -24,134 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2019,
-   "text": "The Alabama Crimson Tide and LSU Tigers football teams, both with undefeated records thus far that season, played in a \"Game of the Century\".",
+   "year": 2020,
+   "text": "The British government announced that it had removed the last land mine from the Falkland Islands, laid by Argentine forces during the 1982 Falklands War.",
    "context": [
-    "The Alabama Crimson Tide football program represents the University of Alabama in American football. It is part of the wider Crimson Tide athletics program and competes in the Southeastern Conference (SEC), a conference of the NCAA's Football Bowl Subdivision (FBS)."
+    "There were approximately 30,000 land mines laid in the British overseas territory of the Falkland Islands by Argentinian forces following their 1982 invasion. Some of the mines were cleared immediately following the successful British operation to retake the islands, but following a series of accidents, demining operations ceased. In the following years the minefields were fenced off and, with human access limited, became havens for Falklands flora and the native penguin population. The British government ratified the Ottawa Treaty in 1998 that required the removal of all mines within its territory. Demining operations, which had to be carried out by hand due to the climate and local condition, restarted in 2009. The last mines were cleared in November 2020."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2019,
-   "text": "Pakistani prime minister Imran Khan inaugurated the Kartarpur Corridor, a visa-free border crossing connecting the Gurdwara Darbar Sahib to the India–Pakistan border.",
+   "year": 2009,
+   "text": "A skirmish occurred between South Korean and North Korean naval ships off Daecheong Island in the Yellow Sea.",
    "context": [
-    "Imran Ahmed Khan Niazi is a Pakistani former cricketer, philanthropist, and politician who served as the 19th prime minister of Pakistan from August 2018 until April 2022. As a cricketer, he captained the Pakistan national cricket team to victory in the 1992 Cricket World Cup. After retiring from cricket, he established the Shaukat Khanum Memorial Cancer Hospital and Research Centre, Pakistan's first cancer hospital. He is the founder of the political party Pakistan Tehreek-e-Insaf (PTI) and was its chairman from 1996 to 2023."
+    "The Daecheong incident, also known as the Battle of Daecheong, was a skirmish between the South Korean and North Korean navies near the Northern Limit Line (NLL) on 10 November 2009 off Daecheong Island."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2016,
-   "text": "A tram derailment in Croydon, London, killed seven people.",
+   "year": 2007,
+   "text": "At the Ibero-American Summit in Santiago, Chile, King Juan Carlos I of Spain asked Venezuelan president Hugo Chávez \"Why don't you shut up?\" after Chávez repeatedly interrupted a speech by Spanish prime minister José Luis Rodríguez Zapatero.",
    "context": [
-    "On 9 November 2016, a tram operated by Tramlink in London, United Kingdom, derailed and overturned on a sharp bend approaching a junction. Of 69 passengers, there were seven fatalities and 62 injured, 19 of whom sustained serious injuries. This was the first tram incident in the UK in which passengers died since 1959."
+    "The Ibero-American Summit, formally the Ibero-American Conference of Heads of State and Governments, is a meeting of the heads of government and state of the Spanish- and Portuguese-speaking nations of Europe and the Americas. Held every year from 1991, it has been held every two years since the 2014 summit in Veracruz. The permanent secretariat in preparation of the summits is the Ibero-American General Secretariat (SEGIB)."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1993,
-   "text": "Bosnian War: Croatian Defence Council forces destroyed the Stari Most, a 16th-century bridge crossing the river Neretva in the city of Mostar (rebuilt bridge pictured).",
+   "year": 2006,
+   "text": "Sri Lankan Tamil politician and human rights lawyer Nadarajah Raviraj was assassinated in Colombo.",
    "context": [
-    "The Bosnian War was an armed conflict that took place in Bosnia and Herzegovina, from 1992 until 1995. Following several earlier violent incidents, the war is commonly seen as having started on 6 April 1992 when the newly independent Republic of Bosnia and Herzegovina was internationally recognized. It ended on 21 November 1995 when the Dayton Accords were initialed. The main belligerents were the forces of the government of the Republic of Bosnia and Herzegovina, and those of the breakaway proto-states of the Republic of Herzeg-Bosnia and the Republika Srpska which were led and supplied by Croatia and Serbia, respectively."
+    "Sri Lankan Tamils, also known as Ceylon Tamils or Eelam Tamils, are Tamils native to the South Asian island state of Sri Lanka. Today, they constitute a majority in the Northern Province, form the plurality in the Eastern Province and are in the minority throughout the rest of the country. 70% of Sri Lankan Tamils in Sri Lanka live in the Northern and Eastern provinces."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1989,
-   "text": "East German official Günter Schabowski mistakenly announced the immediate opening of the inner German border, resulting in the fall of the Berlin Wall that night (border crossing pictured).",
+   "year": 1995,
+   "text": "Writer and environmental activist Ken Saro-Wiwa and eight others from the Movement for the Survival of the Ogoni People were executed by the Nigerian military regime led by Sani Abacha.",
    "context": [
-    "Günter Schabowski was a German politician who served as an official of the Socialist Unity Party of Germany, the ruling party during most of the existence of East Germany. After climbing up the party ladder, he became the regime's unofficial spokesman. He gained worldwide fame in November 1989 when he improvised a slightly mistaken answer to a press conference question about the future of the Berlin Wall, that seemed to announce the Wall's immediate end and raised popular expectations much more rapidly than the government planned. Massive crowds gathered at the Wall the same night, which forced its opening after 28 years. Soon afterward, the entire inner German border was opened; not much later, East Germany ceased to exist."
+    "Kenule Beeson Saro-Wiwa was a Nigerian writer, teacher, television producer, and social rights activist. He was a member of the Ogoni people, an ethnic minority in the Niger Delta whose homeland, Ogoniland, has been targeted for crude oil extraction since the 1950s and has suffered extreme environmental damage from decades of indiscriminate petroleum waste dumping."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1985,
-   "text": "At age 22, Garry Kasparov became the then-youngest World Chess Champion by defeating then-champion Anatoly Karpov.",
+   "year": 1975,
+   "text": "SS Edmund Fitzgerald sank in Lake Superior, claiming all 29 of her crew's lives.",
    "context": [
-    "Garry Kimovich Kasparov is a Russian chess grandmaster, political activist and writer, who was the World Chess Champion from 1985 to 2000. His peak FIDE chess rating of 2851, achieved in 1999, was the highest recorded until being surpassed by Magnus Carlsen in 2013. From 1984 until his retirement from regular competitive chess in 2005, Kasparov was ranked the world's No. 1 player for a record 255 months overall. Kasparov also holds records for the most consecutive professional tournament victories (15) and Chess Oscars (11)."
+    "SS Edmund Fitzgerald was an American Great Lakes freighter that sank in Lake Superior during a storm on November 10, 1975, with the loss of the entire crew of 29 men. When launched on June 7, 1958, she was the largest ship on North America's Great Lakes and remains the largest to have sunk there. Her wreck was located in deep water on November 14, 1975, by a U.S. Navy aircraft detecting magnetic anomalies, and soon afterwards found to be in two large pieces."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1967,
-   "text": "The first issue of Rolling Stone, an American magazine focusing on music, politics and popular culture, was published.",
+   "year": 1975,
+   "text": "Angolan Civil War: The MPLA decisively defeated the FNLA at the Battle of Quifangondo, while Portugal simultaneously withdrew all its colonial and military personnel from Luanda.",
    "context": [
-    "Rolling Stone is an American monthly magazine that focuses on music, politics, and popular culture. It was founded in San Francisco, California, in 1967 by Jann Wenner and the music critic Ralph J. Gleason. It is described as left-leaning and liberal."
+    "The Angolan Civil War was a civil war in Angola, beginning in 1975 and continuing, with interludes, until 2002. The war began immediately after Angola became independent from Portugal in November 1975. It was a power struggle between two former anti-colonial guerrilla movements, the communist People's Movement for the Liberation of Angola (MPLA) and the anti-communist National Union for the Total Independence of Angola (UNITA)."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1939,
-   "text": "World War II: A covert Sicherheitsdienst operation captured two British agents of the Secret Intelligence Service near Venlo in the Netherlands.",
+   "year": 1969,
+   "text": "The first episode of the children's television series Sesame Street was broadcast in the United States.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "Sesame Street is an American educational children's television series that combines live-action, sketch comedy, animation, and puppetry. It is produced by Sesame Workshop and was created by Joan Ganz Cooney and Lloyd Morrisett. It features Jim Henson's Muppets, and includes short films, with humor and cultural references. It premiered on November 10, 1969, to positive reviews, some controversy, and high viewership. It has aired on the United States national public television provider PBS since its debut, with its first run moving to premium channel HBO on January 16, 2016, then its sister streaming service HBO Max on November 12, 2020, which continued through the service's rebrand as Max in 2023 and as HBO Max in 2025, and most recently Netflix on November 10, 2025."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1938,
-   "text": "Kristallnacht began as SA stormtroopers and civilians destroyed and ransacked Jewish homes, businesses and synagogues in Germany and Austria, resulting in at least 90 deaths and the deportation of 30,000 men to concentration camps.",
+   "year": 1945,
+   "text": "Indonesian National Revolution: Following the killing of Brigadier A. W. S. Mallaby on 30 October, British forces retaliated by attacking Surabaya (present-day logo depicted).",
    "context": [
-    "Kristallnacht (German: [kʁɪsˈtalnaχt] ; lit. 'crystal night') or the Night of Broken Glass, also called the November pogrom(s) (German: Novemberpogrome ), was a pogrom against Jews carried out by the Nazi Party's Sturmabteilung (SA) and Schutzstaffel (SS) paramilitary forces along with some participation from the Hitler Youth and German civilians throughout Nazi Germany on 9–10 November 1938. The German authorities looked on without intervening. The euphemistic name Kristallnacht comes from the shards of broken glass that littered the streets after the windows of Jewish-owned stores, buildings, and synagogues were smashed. The pretext for the attacks was the assassination, on 9 November 1938, of the German diplomat Ernst vom Rath by Herschel Grynszpan, a 17-year-old German-born Polish Jew living in Paris."
+    "The Indonesian National Revolution, also known as the Indonesian War of Independence, was an armed conflict and diplomatic struggle between the Republic of Indonesia and the Dutch Empire and an internal social revolution during postwar and postcolonial Indonesia. It took place between Indonesia's declaration of independence in 1945 and the Netherlands' transfer of sovereignty over the Dutch East Indies to the Republic of the United States of Indonesia at the end of 1949."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1928,
-   "text": "The Great Mecca Feast, the first documentary film on the Hajj, premiered in the Netherlands.",
+   "year": 1940,
+   "text": "An earthquake registering 7.7 Mw struck the Vrancea region of Romania.",
    "context": [
-    "The Great Mecca Feast is a 1928 silent documentary film by George Krugers. Divided into four acts, it opens with a group of Muslim men from the Dutch East Indies beginning the Hajj pilgrimage, then showcases elements of everyday life and worship in the Hejaz region of the Arabian Peninsula – including the Hajj itself. As Mecca had long been closed to non-Muslims, Krugers passed as a Muslim and recorded film and still-photographic documentation of the pilgrimage. In this endeavour, he was supported by people in both the Dutch East Indies and the Hejaz."
+    "The 1940 Vrancea earthquake, also known as the 1940 Bucharest earthquake, occurred on Sunday, 10 November 1940, in Romania, at 03:39, when the majority of the population was at home."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1926,
-   "text": "Paul Hindemith's opera Cardillac (scene pictured) premiered at the Dresden State Opera, conducted by Fritz Busch.",
+   "year": 1937,
+   "text": "Brazilian president Getúlio Vargas led a coup against his own constitutional government, establishing the dictatorial Estado Novo regime.",
    "context": [
-    "Paul Hindemith was a German and American composer, music theorist, teacher, violist, and conductor. He founded the Amar Quartet in 1921, touring extensively in Europe. As a composer, he became a major advocate of the Neue Sachlichkeit style of music in the 1920s, with compositions such as Kammermusik, including works with viola and viola d'amore as solo instruments in a neo-Bachian spirit. His other notable compositions include the song cycle Das Marienleben (1923), Der Schwanendreher for viola and orchestra (1935), the opera Mathis der Maler (1938) and the symphony Mathis der Maler (1934), the Symphonic Metamorphosis of Themes by Carl Maria von Weber (1943), and the oratorio When Lilacs Last in the Dooryard Bloom'd (1946), a requiem based on Walt Whitman's poem. Hindemith and his wife emigrated to Switzerland and the United States ahead of World War II, after worsening difficulties with the Nazi German regime. In his later years, he conducted and recorded much of his own music."
+    "Getúlio Dornelles Vargas was a Brazilian military officer, lawyer, and politician who served as the 14th and 17th president of Brazil, from 1930 to 1945 and from 1951 until his suicide in 1954. Due to his long and controversial tenure as Brazil's provisional, constitutional, dictatorial and democratic leader, he is considered by historians as the most influential Brazilian politician of the 20th century."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1918,
-   "text": "The government of the Azerbaijan Democratic Republic adopted a tricolour national flag (pictured), which is again in use today, with slight modifications, by the present-day Republic of Azerbaijan.",
+   "year": 1898,
+   "text": "White supremacists seized power and massacred black Americans during the Wilmington massacre (newspaper headline pictured), the only instance of a municipal government being overthrown in United States history.",
    "context": [
-    "The Republic of Azerbaijan, better known in historiography as the Azerbaijan Democratic Republic, was the first secular democratic republic in the Turkic and Muslim worlds. The ADR was founded by the Azerbaijani National Council in Tiflis on 28 May 1918 after the collapse of the Transcaucasian Democratic Federative Republic, and ceased to exist on 28 April 1920. Its established borders were with Russia to the north, the Democratic Republic of Georgia to the north-west, the Republic of Armenia to the west, and Iran to the south. It had a population of around 3 million. Ganja was the temporary capital of the Republic as Baku was under Bolshevik control."
+    "\n\n\nWhite supremacy is the belief that white people are superior to those of other races. The belief favors the maintenance and defense of any power and privilege held by white people. White supremacy has roots in the now-discredited doctrine of scientific racism and was a key justification for European colonialism."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1914,
-   "text": "World War I: Off the Cocos (Keeling) Islands, the Australian light cruiser Sydney sank Emden, the last active German warship in the Indian Ocean, at the Battle of Cocos.",
+   "year": 1865,
+   "text": "Henry Wirz, the Confederate superintendent of Andersonville Prison, was hanged after a controversial conviction, becoming the only American Civil War officer executed for war crimes.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "Henry Wirz was a Confederate States Army officer and convicted war criminal best known for commanding Andersonville Prison during the American Civil War. Born in Zurich, Switzerland, Wirz immigrated to the United States in 1849 after being exiled from the canton of Zurich following a conviction of embezzlement and fraud. He worked in a Massachusetts factory for five years before moving south to Kentucky to begin a career in medicine; specializing in homeopathy, Wirz divided his time between the two states. In 1854, he moved to Louisiana with his new wife and her two daughters, working as an overseer on a slave plantation."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1913,
-   "text": "A severe blizzard reached its maximum intensity in the Great Lakes Basin of North America, destroying 19 ships and 68,300 tons of cargo, and killing more than 250 people.",
+   "year": 1599,
+   "text": "At the culmination of a Swedish civil war, supporters of the deposed King Sigismund III Vasa were publicly executed in the Åbo Bloodbath.",
    "context": [
-    "The Great Lakes Storm of 1913, historically referred to as the Big Blow, the Freshwater Fury and the White Hurricane, was a blizzard with hurricane-force winds that devastated the Great Lakes region in the Midwestern United States and Southwestern Ontario, Canada, between November 7 and 10, 1913. The storm was at its most powerful on November 9, battering and overturning ships on four of the five Great Lakes, particularly Lake Huron."
+    "Sigismund III Vasa was King of Poland and Grand Duke of Lithuania from 1587 to 1632 and, as Sigismund, King of Sweden from 1592 to 1599. He was the first Polish sovereign from the House of Vasa. Zealously religious, he imposed Catholicism across the vast realm, and his crusades against neighbouring states marked Poland's largest territorial expansion. A deeply polarising ruler, he presided over the end of the Golden Age of prosperity and achievement, further distinguished by the transfer of the country's capital from Kraków to Warsaw."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1888,
-   "text": "Mary Jane Kelly, widely believed to be the fifth and final victim of the notorious unidentified serial killer Jack the Ripper, was murdered in London.",
+   "year": 1202,
+   "text": "Fourth Crusade: The Siege of Zara, the first attack on a Catholic city by Catholic crusaders, began in present-day Zadar, Croatia.",
    "context": [
-    "Mary Jane Kelly, also known as Marie Jeanette Kelly, Fair Emma, Ginger, Dark Mary and Black Mary, is widely believed by scholars to have been the final victim of the unidentified serial killer Jack the Ripper, who murdered at least five women in the Whitechapel and Spitalfields districts of London from late August to early November 1888. At the time of her death, Kelly was approximately 25 years old, working as a prostitute and living in relative poverty."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
-   "year": 1822,
-   "text": "USS Alligator engaged three pirate schooners off the coast of Cuba in one of the West Indies anti-piracy operations of the United States.",
-   "context": [
-    "USS Alligator was a schooner of the United States Navy that served from 1821 until her loss in 1822. Built at the Boston Navy Yard, she was commissioned in March 1821 under Lieutenant Robert F. Stockton. During two cruises off the west coast of Africa, Alligator operated against the Atlantic slave trade, capturing several slave ships. On her first cruise, Stockton and American Colonization Society representative Eli Ayers also negotiated the acquisition of territory around Cape Mesurado, which became an early centre of the settlement that developed into Liberia."
+    "The Fourth Crusade (1202–1204) was a Latin Christian armed expedition called by Pope Innocent III. The stated intent of the expedition was to recapture the Muslim-controlled city of Jerusalem, by first defeating the powerful Egyptian Ayyubid Sultanate. However, a sequence of economic and political events culminated in the Crusader army's 1202 siege of Zara and the 1204 sack of Constantinople, rather than the conquest of Egypt as originally planned. This led to the partition of the Byzantine Empire by the Crusaders and their Venetian allies, leading to a period known as the Frankokratia."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Natural hedge (גידור טבעי)",
+  "Beat-and-raise (רבעון של עקיפת תחזיות והעלאת תחזית)",
+  "Catching a falling knife (לתפוס סכין נופל)",
   "Run rate (קצב שנתי)",
   "Golden handcuffs (אזיקי זהב)",
   "The elephant in the room (הפיל בחדר)",
@@ -238,10 +233,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Burning the boats (לשרוף את הסיפונים)",
   "Working capital (הון חוזר)",
   "Sweat equity (הון מאמץ)",
-  "Low-hanging fruit (פרי בשל)",
-  "Loss leader (מוצר-פיתיון)",
-  "Soft landing (נחיתה רכה)",
-  "Eat your own dog food (לעשות דוגפודינג)"
+  "Low-hanging fruit (פרי בשל)"
  ]
 }
 </input>

@@ -134,6 +134,28 @@ Motivated by a desire to make LLMs useful to mathematicians and programmers
 
 I am very new to LessWrong and am so far just an occasional lurker, but this post really caught my attention. Just want to say that somehow these early Anthropic anecdotes remind me of that 1994 episode of California Dreams where Tiffani starts taking steroids to live up to expectations for a school athlete, and she starts raging and hulking out when her steroid use gets out of control.
 
+I have a significant amount of uncertainty about the following opinion, but I think it's possibly something that should be said re. this post.
+
+I think this post has a very high amount of karma for what it is, and this leads me to suspect that people are upvoting it based on emotional reactions.
+
+What I think it is: an interesting post about one person's experiences within Anthropic, heavily painted by their emotional affect while they were there. The testimony we're given, to me, speaks most clearly about that emotional state, rather than about Anthropic. In my experience, persistent negative emotional affect has a powerfully distorting effect on worldview and evaluation of one's environment.
+
+My qualitative impression from the reaction of this post and regular reading of Lesswrong, is that a substantial majority of the readership here is primed by belief in the imminent likelihood and inherent danger of RSI and superintelligence to skip rational evaluation of new information about labs like Anthropic, and jump straight to vilification (in the literal sense).
+
+I believe that exactly this subset of people should be extra careful of negatively emotionally charged accounts like the OP, because they will be less likely to critically evaluate their content.
+
+If I had to pick a specific aspect of the OP I'd like to hear other opinions on, it's the "Traumatized Bureaucrat" concept. I didn't know before today that Ivan Vendrov is the person who AFAICT popularized this concept in the first place. I am personally quite unsure of whether this concept has positive informational value, or if it's a hostile meme.
+
+To be clear, I don't think that the OP is not valuable, or that it should not have posted it. I'm glad that it was posted. I just see something wanting in the reception.
+
+I can't tell whether I'm poorly read on alignment strategies or whether the author explained this point poorly, but I don't have a concrete understanding of what they wanted to work on. For example, how does one work on "beneficial deployments"?
+
+I suspect it is less about alignment specifically and more about deploying models in situations (and I guess organizations?) where it would be positively impactful. Anthropic's non-profit program from a couple of years ago came to mind when I was reading the post, but maybe I'm completely off.
+
+It was Feb 2026, when I read about Anthropic's position in withdrawing from Pentagon's AI contract. That was the time when I started researching on Frontier Lab's position on AI Safety, and from the news articles I read at the time - Anthropic's position seemed that they really cared about "build AI that serves humanity responsibly". Their great volume of work on Alignment further added to this predisposition I had developed. Reading their work has greatly inspired me to make contributions to this field. Recently as I have talked to more researchers my perception has shifted a bit and this article kind is a testament to their portrayal on AI Safety to the outside world may not be super accurate representation on what's really happening. Although I still really look up to and refer their very thorough studies on interpretability. And I think I also sympathize with their positions, as the race to SuperIntelligence is real.
+
+Thanks Ivan for writing this, even though you are writing this 3 years after your resignation, it will be relevant forever to folks who think about doing the right thing and steps to take when things don't feel right. Because guess what, it's not easy to be true to themselves and breakout of golden handcuffs :)
+
 Interesting. I've been using Claude since February of this year, and I participated in the What do you want from AI? study, but I'd say this is the first time that I've read vignettes from working at Anthropic.
 
 Have really lots of thoughts, but consistent with You Get About Five Words I'll seek to be at least relatively brief.

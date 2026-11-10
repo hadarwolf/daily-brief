@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -151,75 +151,75 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Monday assorted links",
+     "published": "2026-11-09T17:42:35+00:00",
+     "summary": "1. What WWII looked like, four and a half minute video. 2. Intellectual Deep Web, YouTube channel. 3. Complete works of Schelling, and no I do not mean Thomas. 4. What the French Left is proposing. 5. How much AI could the CEA manage? 6. Douthat! 7. Andrew Maxfield, Stations of the Cross, vocal music. The post Monday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "End the State Veto on Power Lines",
+     "published": "2026-11-09T12:18:45+00:00",
+     "summary": "It’s one of the peculiarities of American regulatory history that a natural gas pipeline can cross state lines with a single federal permit, but oil and electricity must run a gauntlet of state approvals. When a power line crosses one state to reach another, for example, the intervening state often imposes exorbitant tolls or, worse, […] The post End the State Veto on Power Lines appeared first on"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "The economics of honeypots",
+     "published": "2026-11-09T11:35:02+00:00",
+     "summary": "Of course as an economist I am always wondering what the equilibrium is. And, in this case, what is the scarce factor? It seems that in the case under current consideration, the returns to honeypotting are very high for somebody. Maybe for China, maybe for the shorts, or maybe for parts of the Deep State […] The post The economics of honeypots appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "Seb Krier, Ricardian?",
      "published": "2026-11-09T07:21:09+00:00",
      "summary": "Here is the initial post. In the comments Michael Wiebe notes: “So progress per R&D dollar fell by 63%, even while progress per year doubled.” File under: David Ricardo, underrated. The post Seb Krier, Ricardian? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "The Paraguayan bank story",
      "published": "2026-11-09T05:27:57+00:00",
      "summary": "Despite its weaknesses, Paraguay’s young democracy was still able to deliver under stress. Its free, boisterous press was the first to sound the alarm about Peña’s shenanigans. The Central Bank’s supervision chief did his job: he examined ueno’s numbers and recommended blocking the sale of its bad loans to a related company (Peña had appointed […] The post The Paraguayan bank story appeared first "
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Sunday assorted links",
      "published": "2026-11-08T17:06:45+00:00",
      "summary": "1. Among the Wagner fanatics. 2. Does AI instead commodify jobs? 3. The digital world is making Islam more diverse (The Economist). 4. “An affair with an economist exposed the calculus of modern dating.” (New Yorker) 5. “How Much Economic Value Do AI Systems Produce per Unit of Energy?” 6. John Gray will be writing […] The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "The Pope probably knows this song",
      "published": "2026-11-08T07:30:49+00:00",
      "summary": "The post The Pope probably knows this song appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "What I’ve been reading",
      "published": "2026-11-08T05:46:05+00:00",
      "summary": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the mainstream view these days? Excerpt: “For all of Szasz’s rhetorical flair and provocation, he […] The post What I’ve been reading appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "Saturday assorted links",
      "published": "2026-11-07T16:49:22+00:00",
      "summary": "1. Simon Winchester, RIP (NYT). 2. Pork roll vs. Taylor Ham, a NJ map. 3. Those new service sector jobs, Bradford edition. 4. “New assessment of the greatest of all time: Antarctic blue whales, showing how whaling reduced them from >200,000 to a low of just 418 before slow recovery at 4.5% per year to […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "What are the Best MR Posts?",
      "published": "2026-11-07T12:17:10+00:00",
      "summary": "From the Archives–written by ChatGPT. This ranking judges posts on reasoning, originality of framing, explanatory power, intellectual stimulation, timeliness, and how much they accomplish in their length. Originality includes an unusually illuminating application of an existing idea. Provocation earns credit when it exposes a real problem; unsupported certainty still counts against a post. The sel"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "The Anthropic succession plan?",
      "published": "2026-11-07T08:38:47+00:00",
      "summary": "Anthropic’s version is rather more elaborate. Each of its seven co-founders will maintain a confidential, ranked list of up to ten people who may eventually inherit that founder’s membership and voting role inside a special Founder LLC. Five of the other six co-founders must approve the list. The first eight candidates on the list must […] The post The Anthropic succession plan? appeared first on "
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "Was Mossadegh a liberal, democratizing force?",
      "published": "2026-11-07T05:58:54+00:00",
      "summary": "One reads and hears so many times that Iran was on the path to democracy until a CIA coup installed the Shah in 1953. It turns out that account is quite wrong, as is detailed by Simon Sebag Montefiore: As his support in the Majlis ebbed, Mosaddegh demanded autocratic powers. Both the shah and Majlis […] The post Was Mossadegh a liberal, democratizing force? appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#9",
-     "title": "Friday assorted links",
-     "published": "2026-11-06T18:07:28+00:00",
-     "summary": "1. What will happen with Texas data centers? And more on that. 2. What is the half life of a claim about LLMs? 3. YouTube video created by AI. Titled Der Zauberberg. 4. Data centers tend to be put in places with relatively flat supply curves. 5. “According to Twenge, one of the great Cassandras […] The post Friday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#10",
-     "title": "Untethered AI agents in Delaware?",
-     "published": "2026-11-06T17:00:22+00:00",
-     "summary": "A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of property, and incur obligations… That is a current proposal, here is the full article. […] The post Untethered AI agents in Delaware? appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "What They Took From You",
-     "published": "2026-11-06T12:15:49+00:00",
-     "summary": "Until August 1914 a sensible, law-abiding Englishman could pass through life and hardly notice the existence of the state, beyond the post office and the police. He could live where he liked and as he liked. He had no official number or identity card. He could travel abroad or leave forever without a passport or […] The post What They Took From You appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -320,38 +320,40 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
+     "title": "Did Life Begin in an RNA World?",
+     "published": "2026-11-09T15:20:29+00:00",
+     "summary": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_0.txt"
+    },
+    {
+     "ref": "quanta#1",
      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
      "published": "2026-11-06T15:48:54+00:00",
      "summary": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#1",
+     "ref": "quanta#2",
      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
      "published": "2026-11-04T15:32:52+00:00",
      "summary": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#2",
+     "ref": "quanta#3",
      "title": "Is There Anything Left in the Dream of Cold Fusion?",
      "published": "2026-11-02T15:48:57+00:00",
      "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine"
     },
     {
-     "ref": "quanta#3",
+     "ref": "quanta#4",
      "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
      "published": "2026-10-30T14:52:05+00:00",
      "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus. The post A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy first appeared on Quanta Magazine"
-    },
-    {
-     "ref": "quanta#4",
-     "title": "How Do You Take a Picture of a Black Hole?",
-     "published": "2026-10-29T15:11:57+00:00",
-     "summary": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "An Anonymous Ex-Anthropic Employee on How Fear, Not Conviction, Kept Him There for Eight Months",
   "Astronomy's 'Big Questions' Are a Choice, Not a Discovery",
   "The Theorem That Finished Off Einstein's Idea of Reality",
   "Why AI Models Cheat Graders: It's the Score They Want, Not the Reward",
@@ -380,8 +382,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "We Were Never Machines: Why Offloading Navigation, Writing and Attention to Technology Is Eroding the Body's Own Intelligence",
   "Is 'Attention' the Essence of Intelligence?",
   "The Racial Trauma of Black Men Is Hidden Behind the Label 'Threat'",
-  "Moving on from a breakup isn't healing — it's a philosophical project of self-construction, and it makes you better",
-  "The Economist Who Argued Poverty, Empire and Ecology Were One Problem"
+  "Moving on from a breakup isn't healing — it's a philosophical project of self-construction, and it makes you better"
  ]
 }
 </input>
