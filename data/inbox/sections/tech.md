@@ -92,75 +92,81 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "מטא פותחת מחזור חדש לתוכנית הסטארטאפים שלה בישראל, וכדאי שתזדרזו להירשם",
+     "published": "2026-11-10T09:27:47+00:00",
+     "summary": "חברת Meta פתחה את ההרשמה למחזור השני של Meta Startup Growth Program – תוכנית לליווי סטארטאפים ישראליים בשלבים מוקדמים, המתמקדת בצמיחה והתרחבות לשווקים בינלאומיים. המשתתפים יפגשו עם מומחי החברה מהארץ ומהעולם, ישתתפו בסדנאות מקצועיות ויקבלו שעות ייעוץ אישיות. התוכנית מיועדת לסטארטאפים B2C שכבר מציגים פעילות ראשונית בשוק, מתמקדים בצמיחה גלובלית ושואפים להרחיב את פעילותם לשווקים […] The post מטא פותחת"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "ג'יימס גאן התפוטר מתפקידו ב-DC Studios – וקשה לנו להיראות מופתעים",
+     "published": "2026-11-10T08:43:14+00:00",
+     "summary": "בעוד קצת יותר מחודש סביר להניח שכל עולם הגיקים ידבר רק על Avengers: Doomsday, אבל עד אז יש לנו דרמה אחרת: הלילה (ב') נודע כי ג'יימס גאן ופיטר ספרן \"עוזבים\" את תפקידיהם כמנכ\"לים משותפים ומנהלי אולפני DC Studios. אז מה קרה שם ולמה לדעתנו DC מראה לגאן את הדלת? הכישלונות וההצלחות של גאן גאן מונה […] The post ג'יימס גאן התפוטר מתפקידו ב-DC Studios – וקשה לנו להיראות מופתעים appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#2",
+     "title": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
+     "published": "2026-11-10T07:04:47+00:00",
+     "summary": "קשה להפריז בכוחה של אנבידיה בשנים האחרונות, וזה ממש לא רק שווי השוק המטורף (והמשחק עם אפל על מי החברה בעלת השווי הגבוה בעולם). השבבים של החברה הם תשתית ה-AI העולמית, ואיפשהו גם התקן העולמי שכמעט כל החברות מתיישרות אליו, כך שהדרישה למוצרים של החברה עולה כבר שנים על קצב הייצור שלה. לכן, כשהתפוצצה פרשת […] The post פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג? appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#3",
      "title": "עוד 29 מיליון דולר לסטארטאפ הישראלי שמאפשר לכל אחד לפרסם ספר",
      "published": "2026-11-09T14:00:43+00:00",
      "summary": "יום אחד מישהו יכתוב ספר על כמה שזה קשה להוציא ספר לאור. עד אז, יש סטארטאפ ישראלי שמנסה לעזור לסופרים להפוך את תהליך ההפקה, ההפצה ואפילו השיווק של הספרים שלהם – מתהליך של יותר משנה לכזה שאורך שבועות ספורים. היום (ב') הוא מודיע גם על גיוס של 29 מיליון דולר. תנו לאייג'נטס להוציא לאור Spines […] The post עוד 29 מיליון דולר לסטארטאפ הישראלי שמאפשר לכל אחד לפרסם ספר appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#4",
      "title": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
      "published": "2026-11-09T13:29:17+00:00",
      "summary": "אם אתם משתמשים בסוכני AI בארגון, כנראה שאתם כבר סומכים עליהם עם לא מעט מידע רגיש כדי שיבצעו עבורכם פעולות מורכבות. אבל מחקר חדש של חברת אבטחת המידע הישראלית Profero חושף היום (ב') שורה של חולשות אבטחה ב-Grok Bot, סוכן ה-AI מבית xAI של אילון מאסק. החולשות הללו עלולות לאפשר לכאורה לתוקפים להשתלט על סביבת […] The post החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה appear"
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#5",
      "title": "בכנס הזה תלמדו איך מחברים AI לדאטה שלכם בלי שורת SQL אחת",
      "published": "2026-11-09T12:40:47+00:00",
      "summary": "השלב הבא ב-AI הוא להפוך את המודלים לחלק בלתי נפרד מהמערכות, התהליכים הארגוניים וסביבת העבודה: לחבר אותו לדאטה אמיתי, לאפשר לו לבצע פעולות, להניע תהליכים ולקבל החלטות מבוססות מידע. אבל איך עוברים מדמו מרשים למערכת שעובדת בפרודקשן, מתממשקת לתשתיות קיימות ועומדת בדרישות האבטחה וה-Governance של הארגון? השאלה הזאת היא המקום שבו מתחיל האתגר ההנדסי האמיתי. […] The post בכנס הזה תלמדו איך מחברים AI לדאטה "
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#6",
      "title": "חורים בפנסיה: לאן נעלמים 7,000 שקל בחודש מהשכר של ההייטקיסטים?",
      "published": "2026-11-09T09:59:07+00:00",
      "summary": "מאת אור אייזנברג לצפות בצבע מתייבש… לקרוא תנאי שימוש של תוכנה… לראות אקסל של רואה חשבון… יש כמה דברים משעממים במיוחד, וגם הם, כך נדמה, לא מתקרבים להתעסקות בפנסיה. ואנחנו איתכם: מושגים כמו שכר מבוטח, תשואות, דמי ניהול והפרשות מעסיק הם ההגדרה המילונית ל-50 גוונים של אפור. העניין הוא שהסיפור הזה שווה לכם המון כסף, […] The post חורים בפנסיה: לאן נעלמים 7,000 שקל בחודש מהשכר של ההייטקיסטים? appeared fi"
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#7",
      "title": "המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים",
      "published": "2026-11-09T08:13:18+00:00",
      "summary": "יותר משנתיים אחרי ההכרזה המקורית, אפל סוף סוף השיקה השנה את Siri AI, הגרסה החדשה של העוזרת האישית שלה. אולם כעת כשיש לה עוזרת מודרנית והרבה יותר חכמה, היא הגיעה לשלב שבו היא מבינה שהיא כבר לא יכולה לנוח על זרי הדפנה, כיוון שבכל פעם שאתה משחק תופסת עם המתחרים בשוק ה-AI, המשחק משתנה לך […] The post המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#8",
      "title": "\"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי אנבידיה הלילה",
      "published": "2026-11-09T05:29:17+00:00",
      "summary": "הלילה דווח שאנבידיה פתחה בחקירה רשמית לגבי קשריו של המייסד והמנכ\"ל האגדי שלה, ג'נסן הואנג, עם אליס הואנג, מנהלת בכירה בחברת Megaspeed, ועל פי החשד, סוכנת של ממשלת סין. במקביל, הואנג הודה ברומן במכתב ששלח לעובדי החברה. הנה תרגום של המייל המלא. \"אין שום תירוץ למה שעשיתי\" לעמיתיי באנבידיה, אני חייב למשפחתי ולכולכם התנצלות. לא […] The post \"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי "
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#9",
      "title": "ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פתח בחקירה",
      "published": "2026-11-08T20:33:45+00:00",
      "summary": "רק לפני כמה ימים נחשפה פרשת הריגול הסיני שמסעירה את NVIDIA, ובמרכזה החשד שמנהלת בכירה בחברה סינגפורית גויסה על ידי המודיעין הסיני כדי להתקרב למנכ\"ל החברה, ג'נסן הואנג, ולהוציא ממנו מידע רגיש. אחרי הדיווחים כי בין השניים היה רומן, הערב (א') מנכ\"ל ענקית השבבים הודה בפני עובדי החברה כי ניהל רומן מחוץ לנישואים, בזמן שדירקטוריון […] The post ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פ"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#10",
      "title": "שר האוצר הבא, רוצה להשאיר פה את ההייטק? תתחיל במס האופציות",
      "published": "2026-11-08T16:45:34+00:00",
      "summary": "עם סיום הבחירות וההיערכות להקמת ממשלה חדשה, שר האוצר הבא יידרש לקבל שורה של החלטות כלכליות משמעותיות. אחת הראשונות שבהן צריכה להיות הסרתן מסדר היום של היוזמות להעלאת המס על אופציות המוענקות לעובדי הייטק. דווקא עכשיו, כאשר ענף ההייטק הישראלי מתמודד עם אי-ודאות גיאופוליטית ואתגרים בגיוס השקעות, הדבר האחרון שהוא זקוק לו הוא חוסר ודאות […] The post שר האוצר הבא, רוצה להשאיר פה את ההייטק? תתחיל במס האו"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#11",
      "title": "צפרתם בתל אביב? מערכת חדשה תזהה ותשלח לכם קנס אוטומטית",
      "published": "2026-11-08T14:12:23+00:00",
      "summary": "אמנם עברית היא השפה הרשמית במדינת ישראל, אולם נדמה שיש שפה יותר פופולרית: צפירות. בכל זאת, איך עוד הנהג שמאחוריכם יעדכן אתכם שלפני 3 מילישניות הרמזור התחלף לירוק ואתם עוד לא נוסעים בפול גז לתוך צומת חסום? איך עוד הנהג הישראלי יודיע לחבר שלו שהוא מחכה לו מתחת לבית? איך עוד נהגי אוטובוס שחולפים אחד […] The post צפרתם בתל אביב? מערכת חדשה תזהה ותשלח לכם קנס אוטומטית appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#9",
+     "ref": "geektime#12",
      "title": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
      "published": "2026-11-08T09:58:48+00:00",
      "summary": "מאת אריאל עוז דמיינו סוכן AI שמקבל גישה למערכות הארגון. הוא שולף נתונים, קורא מסמכים, כותב שאילתות SQL ואפילו מבצע פעולות בעצמו. עכשיו בקשו ממנו לחשב את הכנסות החברה ברבעון האחרון. הוא ימצא את הנתונים ויחזיר מספר מדויק, אולי אפילו בגרף מרשים. רק שיש בעיה קטנה: הוא השתמש בהגדרה הלא נכונה של הכנסה, התעלם מהחרגה […] The post למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה? appeared first on גי"
-    },
-    {
-     "ref": "geektime#10",
-     "title": "חשד: ישראלים עקצו 129 מיליון דולר בעזרת דיפ פייק של מנכ\"לים",
-     "published": "2026-11-08T08:42:17+00:00",
-     "summary": "תארו לכם עוד יום עבודה סטנדרטי, שבו אתם עולים לזום עם המנכ\"ל, שמסביר שהוא צריך אתכם לעסקה גדולה וסודית, ומזמין אתכם על הדרך ככה לחתום על הסכם סודיות בנושא. עכשיו תארו לכם שאחרי החתימה על המסמכים ואחרי שהעברתם את הכספים שהתבקשתם, אתם מגלים שזה לא היה המנכ\"ל שלכם, והכסף שהעברתם לטובת העסקה הגיע בכלל לגורמים […] The post חשד: ישראלים עקצו 129 מיליון דולר בעזרת דיפ פייק של מנכ\"לים appeared first on גי"
-    },
-    {
-     "ref": "geektime#11",
-     "title": "על המדף: אמנון שעשוע מחפש רוכשים לבנק ONE ZERO",
-     "published": "2026-11-08T07:50:14+00:00",
-     "summary": "לפני 4 שנים הושק לראשונה הבנק הדיגיטלי הראשון בישראל, ONE ZERO. מאז השיק הבנק לא מעט פיצ'רים חדשים וניסה לשבור את השוק פעם אחר פעם, אך הוא גם עבר טלטלות רבות וסבבי פיטורים, והתקשה לשכנע את המוני הישראלים לנטוש את הבנקים המסורתיים לטובתו עם כ-200 אלף לקוחות בלבד. כעת, דיווח חדש טוען כי בעל השליטה […] The post על המדף: אמנון שעשוע מחפש רוכשים לבנק ONE ZERO appeared first on גיקטיים ."
     }
    ]
   },
@@ -170,87 +176,81 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Fable 5.2 one-shotted my nephew's dream game",
-     "published": "2026-11-09T23:08:13+00:00",
-     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 225 # Comments: 153"
+     "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+     "published": "2026-11-10T06:01:08+00:00",
+     "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 248 # Comments: 81"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "TPU 8tx and TPU 8i Max",
-     "published": "2026-11-09T21:56:57+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 222 # Comments: 67"
+     "title": "Locating the source of a mysterious beep",
+     "published": "2026-11-10T00:10:46+00:00",
+     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 176 # Comments: 77"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-     "published": "2026-11-09T20:04:55+00:00",
-     "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 301 # Comments: 225"
+     "title": "Horible public key tricks",
+     "published": "2026-11-10T00:07:17+00:00",
+     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 159 # Comments: 47"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "USPS now offers official ZIP Code boundary polygons",
-     "published": "2026-11-09T19:58:59+00:00",
-     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 514 # Comments: 266"
+     "title": "Fable 5.2 one-shotted my nephew's dream game",
+     "published": "2026-11-09T23:08:13+00:00",
+     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 389 # Comments: 269"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "CUI – Native UI components for C",
-     "published": "2026-11-09T19:35:16+00:00",
-     "summary": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 159 # Comments: 84"
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "published": "2026-11-09T19:58:59+00:00",
+     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 617 # Comments: 311"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "E-means: Outperforming k-means in one-tenth the epochs",
      "published": "2026-11-09T18:45:43+00:00",
-     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 293 # Comments: 21"
+     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 397 # Comments: 37"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Google Gemini routes personal Drive files and emails to human annotators",
      "published": "2026-11-09T18:24:38+00:00",
-     "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 460 # Comments: 109"
+     "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 591 # Comments: 128"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "published": "2026-11-09T18:01:10+00:00",
-     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 246 # Comments: 622"
+     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 567 # Comments: 785"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Muse Ember: Our smallest, most efficient model",
      "published": "2026-11-09T17:58:46+00:00",
-     "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 259 # Comments: 108"
+     "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 298 # Comments: 123"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
      "published": "2026-11-09T17:51:31+00:00",
-     "summary": "hey HN, i built this because i wanted to know what had actually photographed my street. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes. some fun bits: - the pass search can't skip a pass. checked it against a b"
+     "summary": "hey HN, i built this because I'm a satellite nerd who was bored this past weekend. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, tracking 17k+ objects and runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes. fun fact: all ~17k objects in orbit are drawn on the "
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "published": "2026-11-09T16:00:45+00:00",
-     "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 482 # Comments: 266"
+     "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 530 # Comments: 285"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
      "published": "2026-11-09T14:31:39+00:00",
-     "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 286 # Comments: 184"
+     "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 312 # Comments: 207"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Foldable Flight: The Best Paper Airplanes",
      "published": "2026-11-09T12:19:22+00:00",
-     "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 875 # Comments: 141"
-    },
-    {
-     "ref": "hn_frontpage#13",
-     "title": "What is malloc doing, anyway?",
-     "published": "2026-11-09T11:31:05+00:00",
-     "summary": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway Comments URL: https://news.ycombinator.com/item?id=50424157 Points: 231 # Comments: 62"
+     "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1015 # Comments: 149"
     }
    ]
   },
@@ -338,42 +338,60 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "simon_willison#0",
-     "title": "llm-anthropic 0.31",
-     "published": "2026-11-09T23:58:46+00:00",
-     "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate an SVG of a pelican riding a bicycle\" I ran pelicans at all five reasoning levels - low , medium , high , xhig"
+     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "published": "2026-11-10T07:28:21+00:00",
+     "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced th"
     },
     {
      "ref": "simon_willison#1",
+     "title": "Quoting Prompting Claude Fable 5.2",
+     "published": "2026-11-10T05:34:14+00:00",
+     "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want the model to improve the structure as it works, say that the c"
+    },
+    {
+     "ref": "simon_willison#2",
+     "title": "Yonkers Rises",
+     "published": "2026-11-10T03:53:04+00:00",
+     "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and átomos around manhattan and queens and Brooklyn, use"
+    },
+    {
+     "ref": "simon_willison#3",
+     "title": "llm-anthropic 0.31",
+     "published": "2026-11-09T23:58:46+00:00",
+     "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! I've added the new models to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm"
+    },
+    {
+     "ref": "simon_willison#4",
      "title": "Locating the source of a mysterious beep with Claude",
      "published": "2026-11-09T23:57:21+00:00",
      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build Beep Locator , "
     },
     {
-     "ref": "simon_willison#2",
+     "ref": "simon_willison#5",
      "title": "The Web Is More Than Enough, by Paul Ford",
      "published": "2026-11-09T04:32:33+00:00",
      "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it "
     },
     {
-     "ref": "simon_willison#3",
+     "ref": "simon_willison#6",
      "title": "Hide your slop PR descriptions behind",
      "published": "2026-11-09T04:25:05+00:00",
      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is "
     },
     {
-     "ref": "simon_willison#4",
+     "ref": "simon_willison#7",
      "title": "parse_number() as a SQLite extension: C vs Rust",
      "published": "2026-11-08T22:26:00+00:00",
      "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted : I'm thinking about a SQLite custom fu"
     },
     {
-     "ref": "simon_willison#5",
+     "ref": "simon_willison#8",
      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
      "published": "2026-11-07T23:57:46+00:00",
      "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: <https://latest.datasette.io/fixtures/compound_three_p"
     },
     {
-     "ref": "simon_willison#6",
+     "ref": "simon_willison#9",
      "title": "Terry Pratchett's Study",
      "published": "2026-11-07T19:34:24+00:00",
      "summary": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked before you got rich: https://chibuikeani.blogspot.com/2017/02/the-price-of-happin... But horizontal wealth means not lett"
