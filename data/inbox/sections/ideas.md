@@ -105,12 +105,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "The Amarna letters",
      "published": "2026-10-28T10:01:00+00:00",
      "summary": "Petty disputes, pleas for help and requests for gold – explore letters sent to Egyptian pharaohs more than 3,000 years ago - by Aeon Video Watch on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "Love with nowhere to go",
-     "published": "2026-10-27T10:00:00+00:00",
-     "summary": "Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves - by Derek van Zoonen Read on Aeon"
     }
    ]
   },
@@ -242,15 +236,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#2",
-     "title": "Who am I if I don’t run?",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
-    },
-    {
-     "ref": "psyche#3",
      "title": "How to take notes that actually help you learn",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
+    },
+    {
+     "ref": "psyche#3",
+     "title": "Who am I if I don’t run?",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
     },
     {
      "ref": "psyche#4",
@@ -299,18 +293,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "The bookshelf builder",
      "published": "2026-10-28T10:00:00+00:00",
      "summary": "Ellah Wakatama is editor, agent, publisher and mentor, all rolled into one. Her mission: to put the work of gifted Black writers into the literary canon - by Carey Baraka Read on Psyche"
-    },
-    {
-     "ref": "psyche#12",
-     "title": "A plane crossing the Moon",
-     "published": "2026-10-27T10:01:00+00:00",
-     "summary": "How a harmless thought turned into one man’s 10-year odyssey: to film a plane silhouetted against the Moon - Directed by Agustín Ferrando Trenchi Watch on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
-     "published": "2026-10-27T10:00:00+00:00",
-     "summary": "If eating on a public train gets seen as an act of terrorism, insights from olfactory genetics can pave the way for empathy - by Yusuke Fujioka Read on Psyche"
     }
    ]
   },

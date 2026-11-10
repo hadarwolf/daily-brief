@@ -167,12 +167,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "צפרתם בתל אביב? מערכת חדשה תזהה ותשלח לכם קנס אוטומטית",
      "published": "2026-11-08T14:12:23+00:00",
      "summary": "אמנם עברית היא השפה הרשמית במדינת ישראל, אולם נדמה שיש שפה יותר פופולרית: צפירות. בכל זאת, איך עוד הנהג שמאחוריכם יעדכן אתכם שלפני 3 מילישניות הרמזור התחלף לירוק ואתם עוד לא נוסעים בפול גז לתוך צומת חסום? איך עוד הנהג הישראלי יודיע לחבר שלו שהוא מחכה לו מתחת לבית? איך עוד נהגי אוטובוס שחולפים אחד […] The post צפרתם בתל אביב? מערכת חדשה תזהה ותשלח לכם קנס אוטומטית appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#13",
-     "title": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
-     "published": "2026-11-08T09:58:48+00:00",
-     "summary": "מאת אריאל עוז דמיינו סוכן AI שמקבל גישה למערכות הארגון. הוא שולף נתונים, קורא מסמכים, כותב שאילתות SQL ואפילו מבצע פעולות בעצמו. עכשיו בקשו ממנו לחשב את הכנסות החברה ברבעון האחרון. הוא ימצא את הנתונים ויחזיר מספר מדויק, אולי אפילו בגרף מרשים. רק שיש בעיה קטנה: הוא השתמש בהגדרה הלא נכונה של הכנסה, התעלם מהחרגה […] The post למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה? appeared first on גי"
     }
    ]
   },
@@ -184,79 +178,85 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "published": "2026-11-10T06:01:08+00:00",
-     "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 265 # Comments: 83"
+     "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 289 # Comments: 93"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Locating the source of a mysterious beep",
-     "published": "2026-11-10T00:10:46+00:00",
-     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 184 # Comments: 79"
+     "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+     "published": "2026-11-10T03:20:06+00:00",
+     "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 150 # Comments: 110"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Horible public key tricks",
-     "published": "2026-11-10T00:07:17+00:00",
-     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 164 # Comments: 47"
+     "title": "Locating the source of a mysterious beep",
+     "published": "2026-11-10T00:10:46+00:00",
+     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 198 # Comments: 87"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Fable 5.2 one-shotted my nephew's dream game",
-     "published": "2026-11-09T23:08:13+00:00",
-     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 391 # Comments: 277"
+     "title": "Horible public key tricks",
+     "published": "2026-11-10T00:07:17+00:00",
+     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 167 # Comments: 49"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "USPS now offers official ZIP Code boundary polygons",
-     "published": "2026-11-09T19:58:59+00:00",
-     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 617 # Comments: 314"
+     "title": "Fable 5.2 one-shotted my nephew's dream game",
+     "published": "2026-11-09T23:08:13+00:00",
+     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 399 # Comments: 293"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "E-means: Outperforming k-means in one-tenth the epochs",
-     "published": "2026-11-09T18:45:43+00:00",
-     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 400 # Comments: 37"
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "published": "2026-11-09T19:58:59+00:00",
+     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 622 # Comments: 318"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Google Gemini routes personal Drive files and emails to human annotators",
-     "published": "2026-11-09T18:24:38+00:00",
-     "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 598 # Comments: 129"
+     "title": "E-means: Outperforming k-means in one-tenth the epochs",
+     "published": "2026-11-09T18:45:43+00:00",
+     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 404 # Comments: 37"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Claude Fable 5.2 and Mythos 5.2",
-     "published": "2026-11-09T18:01:10+00:00",
-     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 578 # Comments: 793"
+     "title": "Google Gemini routes personal Drive files and emails to human annotators",
+     "published": "2026-11-09T18:24:38+00:00",
+     "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 606 # Comments: 129"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Muse Ember: Our smallest, most efficient model",
-     "published": "2026-11-09T17:58:46+00:00",
-     "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 299 # Comments: 124"
+     "title": "Claude Fable 5.2 and Mythos 5.2",
+     "published": "2026-11-09T18:01:10+00:00",
+     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 603 # Comments: 803"
     },
     {
      "ref": "hn_frontpage#9",
+     "title": "Muse Ember: Our smallest, most efficient model",
+     "published": "2026-11-09T17:58:46+00:00",
+     "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 301 # Comments: 125"
+    },
+    {
+     "ref": "hn_frontpage#10",
      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
      "published": "2026-11-09T17:51:31+00:00",
      "summary": "hey HN, i built this because I'm a satellite nerd who was bored this past weekend. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, tracking 17k+ objects and runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes. fun fact: all ~17k objects in orbit are drawn on the "
     },
     {
-     "ref": "hn_frontpage#10",
+     "ref": "hn_frontpage#11",
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "published": "2026-11-09T16:00:45+00:00",
-     "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 531 # Comments: 286"
-    },
-    {
-     "ref": "hn_frontpage#11",
-     "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-     "published": "2026-11-09T14:31:39+00:00",
-     "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 315 # Comments: 209"
+     "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 532 # Comments: 287"
     },
     {
      "ref": "hn_frontpage#12",
+     "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+     "published": "2026-11-09T14:31:39+00:00",
+     "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 316 # Comments: 211"
+    },
+    {
+     "ref": "hn_frontpage#13",
      "title": "Foldable Flight: The Best Paper Airplanes",
      "published": "2026-11-09T12:19:22+00:00",
-     "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1018 # Comments: 151"
+     "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1032 # Comments: 152"
     }
    ]
   },

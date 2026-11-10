@@ -644,153 +644,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Messi extends FIFPRO World XI record to 18 as Kane misses out | Daily Sabah - Daily Sabah",
+     "published": "2026-11-10T08:25:00+00:00",
+     "summary": "Messi extends FIFPRO World XI record to 18 as Kane misses out | Daily Sabah Daily Sabah"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo - Transfermarkt",
      "published": "2026-11-10T07:55:25+00:00",
      "summary": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo Transfermarkt"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
+     "title": "Messi Makes History! Brace and Records Cement Inter Miami Legacy - beIN SPORTS",
+     "published": "2026-11-10T07:30:00+00:00",
+     "summary": "Messi Makes History! Brace and Records Cement Inter Miami Legacy beIN SPORTS"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Abada's magic seals wild 3–3 comeback against Messi's Miami - The Jerusalem Post",
      "published": "2026-11-10T07:26:43+00:00",
      "summary": "Abada's magic seals wild 3–3 comeback against Messi's Miami The Jerusalem Post"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
+     "title": "Messi Becomes First To Win MLS Golden Boot In Consecutive Seasons - Menafn",
+     "published": "2026-11-10T06:17:10+00:00",
+     "summary": "Messi Becomes First To Win MLS Golden Boot In Consecutive Seasons Menafn"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami CF vs. Charlotte FC - Game Highlights - ESPN",
      "published": "2026-11-10T04:39:45+00:00",
      "summary": "Inter Miami CF vs. Charlotte FC - Game Highlights ESPN"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#6",
      "title": "Messi returns to World XI as Spain dominates both lineups - The Korea Herald",
      "published": "2026-11-10T04:27:55+00:00",
      "summary": "Messi returns to World XI as Spain dominates both lineups The Korea Herald"
     },
     {
-     "ref": "gnews_inter_miami#4",
-     "title": "Messi Makes History! Brace and Records Cement Inter Miami Legacy - beIN SPORTS",
-     "published": "2026-11-10T03:56:15+00:00",
-     "summary": "Messi Makes History! Brace and Records Cement Inter Miami Legacy beIN SPORTS"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "Inter Miami vs Columbus Crew - beIN SPORTS",
      "published": "2026-11-10T00:05:23+00:00",
      "summary": "Inter Miami vs Columbus Crew beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "Is Lionel Messi the obvious option for MLS MVP? - Yahoo Sports",
      "published": "2026-11-09T23:30:25+00:00",
      "summary": "Is Lionel Messi the obvious option for MLS MVP? Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "Messi’s Not Heading Back to Argentina in 2027! Inter Miami Is Still His Home - Soy Futbol",
      "published": "2026-11-09T23:25:12+00:00",
      "summary": "Messi’s Not Heading Back to Argentina in 2027! Inter Miami Is Still His Home Soy Futbol"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#10",
      "title": "More Messi MLS booty as superstar strikes gold again - Sport Nation",
      "published": "2026-11-09T22:49:10+00:00",
      "summary": "More Messi MLS booty as superstar strikes gold again Sport Nation"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - RiverBender.com",
      "published": "2026-11-09T20:45:00+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season RiverBender.com"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#12",
      "title": "DC United closes out 7th consecutive losing season - Baltimore Sun",
      "published": "2026-11-09T19:58:29+00:00",
      "summary": "DC United closes out 7th consecutive losing season Baltimore Sun"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#13",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - CFJC Today Kamloops",
      "published": "2026-11-09T18:13:19+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season CFJC Today Kamloops"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#14",
      "title": "Called Up: Seven Inter Miami CF Players Set for November International Duty - Inter Miami CF",
      "published": "2026-11-09T18:07:23+00:00",
      "summary": "Called Up: Seven Inter Miami CF Players Set for November International Duty Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#15",
      "title": "Inter Miami CF Hosts 2026 Edition of Annual Media Appreciation Day and Copa de Medios - beIN SPORTS",
      "published": "2026-11-09T18:04:53+00:00",
      "summary": "Inter Miami CF Hosts 2026 Edition of Annual Media Appreciation Day and Copa de Medios beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#16",
      "title": "Germán Berterame scores goal for Inter Miami CF - ESPN",
      "published": "2026-11-09T17:53:11+00:00",
      "summary": "Germán Berterame scores goal for Inter Miami CF ESPN"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#17",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Oskaloosa Herald",
      "published": "2026-11-09T17:45:05+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Oskaloosa Herald"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#18",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Ottumwa Courier",
      "published": "2026-11-09T17:39:54+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Ottumwa Courier"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#19",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Yahoo Sports",
      "published": "2026-11-09T17:21:00+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami brings media together at Nu Stadium for Copa de Medios - MARCA",
      "published": "2026-11-09T17:14:01+00:00",
      "summary": "Inter Miami brings media together at Nu Stadium for Copa de Medios MARCA"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#21",
      "title": "Nashville SC Breaks MLS Points Record, Miami Ties 3-3 with Charlotte - MundoNOW",
      "published": "2026-11-09T17:10:43+00:00",
      "summary": "Nashville SC Breaks MLS Points Record, Miami Ties 3-3 with Charlotte MundoNOW"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi makes final decision on leaving Inter Miami as Argentina return rumors grow - https://latination.com/",
      "published": "2026-11-09T17:10:19+00:00",
      "summary": "Lionel Messi makes final decision on leaving Inter Miami as Argentina return rumors grow https://latination.com/"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#23",
      "title": "Messi returns to FIFPRO World 11, Ballon d'Or winner Kane misses out - Reuters",
      "published": "2026-11-09T16:55:43+00:00",
      "summary": "Messi returns to FIFPRO World 11, Ballon d'Or winner Kane misses out Reuters"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#24",
      "title": "Kane excluded: Messi and Hakimi head FIFPro's 2026 best XI - Goal.com",
      "published": "2026-11-09T16:44:23+00:00",
      "summary": "Kane excluded: Messi and Hakimi head FIFPro's 2026 best XI Goal.com"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "Lionel Messi named to 2026 FIFPRO World 11 alongside Mbappé, Haaland - MLSsoccer.com",
-     "published": "2026-11-09T16:31:07+00:00",
-     "summary": "Lionel Messi named to 2026 FIFPRO World 11 alongside Mbappé, Haaland MLSsoccer.com"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo - Transfermarkt",
-     "published": "2026-11-09T15:50:01+00:00",
-     "summary": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo Transfermarkt"
     }
    ]
   },
@@ -866,57 +866,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#11",
-     "title": "NBA: Victory Wembanyama scores 29, Spurs trounce Blazers - Inquirer.net",
-     "published": "2026-11-08T06:08:24+00:00",
-     "summary": "NBA: Victory Wembanyama scores 29, Spurs trounce Blazers Inquirer.net"
-    },
-    {
-     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija with the 2 Pt, 11/07/2026 - Yahoo Sports",
      "published": "2026-11-08T05:42:48+00:00",
      "summary": "Deni Avdija with the 2 Pt, 11/07/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Ben Saraf and Dain Dainja combine for 50 in Long Island’s big win over Greensboro - NetsDaily",
      "published": "2026-11-08T04:14:00+00:00",
      "summary": "Ben Saraf and Dain Dainja combine for 50 in Long Island’s big win over Greensboro NetsDaily"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Lakers showcase early resolve for best start since 2019 - Orange County Register",
      "published": "2026-11-07T23:40:40+00:00",
      "summary": "Lakers showcase early resolve for best start since 2019 Orange County Register"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija’s turnovers are still holding him back as Blazers’ point forward - Rip City Project",
      "published": "2026-11-07T19:48:16+00:00",
      "summary": "Deni Avdija’s turnovers are still holding him back as Blazers’ point forward Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija flirts with triple-double in Friday's loss to Lakers - FantasyPros",
      "published": "2026-11-07T15:33:22+00:00",
      "summary": "Deni Avdija flirts with triple-double in Friday's loss to Lakers FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#16",
      "title": "Trail Blazers' Deni Avdija: Sniffs triple-double in loss - CBS Sports",
      "published": "2026-11-07T11:57:04+00:00",
      "summary": "Trail Blazers' Deni Avdija: Sniffs triple-double in loss CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija News: Sniffs triple-double in loss - RotoWire",
      "published": "2026-11-07T11:57:04+00:00",
      "summary": "Deni Avdija News: Sniffs triple-double in loss RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#19",
-     "title": "Spurs vs. Trail Blazers: How to watch the game, who's starting, who's out - San Antonio Express-News",
-     "published": "2026-11-07T10:11:09+00:00",
-     "summary": "Spurs vs. Trail Blazers: How to watch the game, who's starting, who's out San Antonio Express-News"
     }
    ]
   }
