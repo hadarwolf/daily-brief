@@ -1,0 +1,128 @@
+{
+  "section": "learn",
+  "date": "2026-11-10",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-10T03:50:31+00:00",
+  "stories": [
+    {
+      "id": "soft-landing",
+      "kind": "word",
+      "en": {
+        "headline": "Soft landing (נחיתה רכה)",
+        "scroll": "A soft landing is when a central bank cools inflation by raising rates without tipping the economy into recession.",
+        "coffee": "A soft landing describes a central bank successfully slowing an overheated economy — usually by raising interest rates to curb inflation — without causing a recession or a spike in unemployment. It's the opposite of a \"hard landing,\" where tightening policy overshoots and growth stalls or shrinks.\n\nSoft landings are rare because the tools used to fight inflation (higher borrowing costs) work by weakening demand, and it's hard to calibrate exactly how much weakening is \"just enough.\" Central banks, including the US Federal Reserve, are often praised or criticized in real time for whether they're engineering one.\n\nExample: \"After two years of rate hikes, most economists now think the Fed pulled off a soft landing — inflation cooled without a recession.\"",
+        "deep": "When to use it: in any discussion of monetary-policy tightening cycles, especially when assessing whether a central bank raised rates successfully.\n\nCommon confusion: people sometimes use \"soft landing\" loosely to mean \"things turned out fine,\" but it specifically refers to disinflation without recession — not just any good economic outcome. It's also sometimes confused with a \"no landing\" scenario, where growth simply never slows at all, which carries its own risk of re-accelerating inflation.\n\nMore examples:\n- \"The central bank is threading the needle, trying to engineer a soft landing rather than crush growth.\"\n- \"Markets rallied on hopes of a soft landing after the jobs report came in better than expected.\"\n\nHebrew term: נחיתה רכה."
+      },
+      "he": {
+        "headline": "Soft landing (נחיתה רכה)",
+        "scroll": "נחיתה רכה היא מצב שבו בנק מרכזי מצליח לקרר אינפלציה באמצעות העלאת ריבית, בלי לגרום למשק להיכנס למיתון.",
+        "coffee": "נחיתה רכה (soft landing) מתארת בנק מרכזי שמצליח להאט משק שהתחמם יתר על המידה - בדרך כלל באמצעות העלאת ריבית כדי לדכא אינפלציה - בלי לגרום למיתון או לזינוק באבטלה. זהו ההפך מ\"נחיתה קשה\" (hard landing), שבה המדיניות המכווצת חורגת מהמידה הנכונה והצמיחה נתקעת או מצטמצמת.\n\nנחיתות רכות נדירות, כי הכלים להילחם באינפלציה (עלויות מימון גבוהות יותר) פועלים על ידי החלשת הביקוש, וקשה לכוון בדיוק כמה החלשה היא \"בדיוק מספיק\". בנקים מרכזיים, כולל הפדרל ריזרב האמריקאי, מקבלים לעיתים קרובות שבחים או ביקורת בזמן אמת על השאלה אם הם מצליחים להנדס נחיתה כזו.\n\nלדוגמה: \"אחרי שנתיים של העלאות ריבית, רוב הכלכלנים כבר חושבים שהפד הצליח בנחיתה רכה - האינפלציה התקררה בלי מיתון.\"",
+        "deep": "מתי להשתמש: בכל דיון על מחזורי צמצום מוניטרי, ובמיוחד כשבוחנים אם בנק מרכזי העלה ריבית בהצלחה.\n\nבלבול נפוץ: לעיתים משתמשים ב\"נחיתה רכה\" בצורה רפויה כדי לתאר כל תוצאה כלכלית טובה, אבל המונח מתייחס במדויק לירידת אינפלציה בלי מיתון - לא לכל תוצאה חיובית. הוא גם מתבלבל לעיתים עם תרחיש \"בלי נחיתה\" (no landing), שבו הצמיחה בכלל לא מואטת, מה שנושא בתוכו סיכון להתלקחות מחודשת של האינפלציה.\n\nעוד דוגמאות:\n- \"הבנק המרכזי מנסה לדרוך על הקו הדק, לנסות להנדס נחיתה רכה במקום לרסק את הצמיחה.\"\n- \"השווקים עלו בתגובה לתקוות לנחיתה רכה אחרי שנתוני התעסוקה הגיעו טובים מהצפוי.\"\n\nהמונח בעברית: נחיתה רכה."
+      },
+      "tags": [
+        "monetary-policy",
+        "macroeconomics",
+        "central-banks"
+      ],
+      "sources": []
+    },
+    {
+      "id": "base-effect",
+      "kind": "word",
+      "en": {
+        "headline": "Base effect (אפקט בסיס)",
+        "scroll": "The base effect is when a growth rate looks unusually high or low only because of what happened in the earlier period being compared against.",
+        "coffee": "The base effect happens when a percentage change, like inflation or revenue growth, is distorted by an unusual starting point rather than genuine new movement. If a metric collapsed a year ago, this year's year-over-year comparison can look dramatically high purely from clearing that low bar — not because anything is actually accelerating.\n\nIt shows up constantly in inflation reporting and company earnings. Analysts strip it out by looking at two-year or three-year growth rates, or by comparing sequential (month-over-month) changes instead.\n\nExample: \"Oil prices are 'down' only 2% from last year, but that's a base effect — last November's price was already unusually low.\"",
+        "deep": "When to use it: whenever a year-over-year percentage seems surprising, ask what the comparison period looked like before trusting the number at face value.\n\nCommon confusion: the base effect isn't a prediction or a trend — it's an artifact of arithmetic. A company's revenue \"growing 40%\" off a terrible prior-year quarter isn't the same achievement as 40% growth off a strong one, even though the percentage is identical.\n\nMore examples:\n- \"Expect inflation prints to look hot this spring — that's mostly a base effect from last year's price cuts.\"\n- \"Strip out the base effect and underlying demand is actually flat.\"\n\nHebrew term: אפקט בסיס."
+      },
+      "he": {
+        "headline": "Base effect (אפקט בסיס)",
+        "scroll": "אפקט בסיס הוא מצב שבו שיעור שינוי נראה גבוה או נמוך באופן חריג רק בגלל נקודת ההשוואה בתקופה הקודמת, לא בגלל שינוי אמיתי.",
+        "coffee": "אפקט בסיס (base effect) קורה כשאחוז שינוי - כמו אינפלציה או צמיחת הכנסות - מעוות בשל נקודת פתיחה חריגה, ולא בגלל תנועה חדשה ואמיתית. אם מדד כלשהו קרס לפני שנה, ההשוואה השנתית (year-over-year) הנוכחית יכולה להיראות דרמטית גבוהה רק בגלל שהוא עובר רף נמוך - לא בגלל שמשהו באמת מאיץ.\n\nהתופעה נפוצה מאוד בדיווחי אינפלציה ובדוחות חברות. אנליסטים מנטרלים אותה על ידי בחינת שיעורי צמיחה על פני שנתיים-שלוש, או השוואה עקבית (sequential) בין חודש לחודש הקודם לו.\n\nלדוגמה: \"מחירי הנפט 'ירדו' רק 2% משנה שעברה, אבל זה אפקט בסיס - המחיר בנובמבר שעבר היה כבר חריג בנמיכותו.\"",
+        "deep": "מתי להשתמש: כל פעם שאחוז שינוי שנתי נראה מפתיע, יש לבדוק איך נראתה תקופת ההשוואה לפני שמאמינים למספר כפי שהוא.\n\nבלבול נפוץ: אפקט בסיס אינו תחזית או מגמה - הוא תוצר של חשבון אריתמטי. חברה ש\"הכנסותיה צמחו ב-40%\" על בסיס רבעון חלש בשנה שעברה לא הגיעה להישג זהה לחברה שצמחה 40% על בסיס רבעון חזק, אף שהאחוז זהה.\n\nעוד דוגמאות:\n- \"צפו לנתוני אינפלציה 'חמים' באביב - זה בעיקר אפקט בסיס מהורדות המחירים בשנה שעברה.\"\n- \"אם מנטרלים את אפקט הבסיס, הביקוש בפועל שטוח למעשה.\"\n\nהמונח בעברית: אפקט בסיס."
+      },
+      "tags": [
+        "economics",
+        "inflation",
+        "statistics"
+      ],
+      "sources": []
+    },
+    {
+      "id": "kitchen-sinking",
+      "kind": "word",
+      "en": {
+        "headline": "Kitchen-sinking (לרוקן את כל הבעיות בבת אחת)",
+        "scroll": "Kitchen-sinking is when a company dumps every piece of bad news into one quarter at once, so future results look cleaner by comparison.",
+        "coffee": "Kitchen-sinking means loading all the write-offs, cost cuts, restructuring charges and bad news a company has been sitting on into a single bad quarter — often right after a new CEO arrives or during an already-rough period — so subsequent quarters look like an improvement by comparison. It's a reporting and expectations-management tactic, not an accounting rule.\n\nInvestors watch for it because a \"kitchen sink quarter\" can make a turnaround look more impressive than it really is, since the bar for \"better\" was deliberately set low.\n\nExample: \"The new CFO took every possible write-down this quarter — classic kitchen-sinking before the holiday numbers come in.\"",
+        "deep": "When to use it: when discussing a company's earnings strategy, especially around leadership transitions or restructurings.\n\nCommon confusion: kitchen-sinking isn't illegal or even necessarily dishonest — the charges are usually real — but it's a timing choice that makes trend lines misleading if you don't know it happened. It differs from an ordinary one-off charge in that it bundles many unrelated bad items into one period on purpose.\n\nMore examples:\n- \"Wall Street expected a kitchen-sink quarter, so the stock barely moved on the loss.\"\n- \"They kitchen-sinked everything from inventory write-downs to severance into Q4.\"\n\nHebrew term: לרוקן את כל הבעיות בבת אחת."
+      },
+      "he": {
+        "headline": "Kitchen-sinking (לרוקן את כל הבעיות בבת אחת)",
+        "scroll": "Kitchen-sinking הוא מצב שבו חברה דוחסת את כל החדשות הרעות שלה לרבעון אחד, כדי שהרבעונים הבאים יראו טוב יותר בהשוואה.",
+        "coffee": "Kitchen-sinking פירושו לרכז את כל המחיקות, קיצוצי העלויות, חיובי ההתאוששות והחדשות הרעות שחברה דחתה - לרוב ממש אחרי כניסת מנכ\"ל חדש או בתקופה קשה בלאו הכי - לתוך רבעון גרוע אחד, כדי שהרבעונים הבאים יראו כמו שיפור בהשוואה. זו טקטיקת דיווח וניהול ציפיות, לא כלל חשבונאי.\n\nמשקיעים שומרים על ערנות לתופעה כי \"רבעון קיטשן-סינק\" יכול לגרום למהפך להיראות מרשים יותר ממה שהוא באמת, כיוון שהרף ל\"שיפור\" הוגדר בכוונה נמוך.\n\nלדוגמה: \"סמנכ\"ל הכספים החדש לקח כל מחיקה אפשרית ברבעון הזה - קלאסיקה של קיטשן-סינקינג לפני נתוני החגים.\"",
+        "deep": "מתי להשתמש: בדיון על אסטרטגיית הדיווח של חברה, במיוחד סביב מעברי הנהלה או תהליכי הבראה.\n\nבלבול נפוץ: קיטשן-סינקינג אינו בלתי חוקי ואף לא בהכרח לא כן - החיובים עצמם הם לרוב אמיתיים - אבל זו בחירת תזמון שמטעה את קווי המגמה אם לא יודעים שזה קרה. הוא נבדל מחיוב חד-פעמי רגיל בכך שהוא מאגד בכוונה הרבה פריטים רעים לא קשורים לתוך תקופה אחת.\n\nעוד דוגמאות:\n- \"וול סטריט ציפתה לרבעון קיטשן-סינק, כך שהמניה כמעט לא זזה בתגובה להפסד.\"\n- \"הם רוקנו הכל ברבעון הרביעי - ממחיקות מלאי ועד פיצויי פיטורים.\"\n\nהמונח בעברית: לרוקן את כל הבעיות בבת אחת."
+      },
+      "tags": [
+        "earnings",
+        "corporate-finance",
+        "accounting"
+      ],
+      "sources": []
+    },
+    {
+      "id": "network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Concept of the Day: Network Effects",
+        "scroll": "Network effects are when a product gets more valuable to each user as more people use it — which is why winners in platform markets tend to win big.",
+        "coffee": "A network effect is a feedback loop where a product or service becomes more useful to every user simply because more people are using it, independent of any change to the product itself. A phone is useless if you're the only person who owns one; it becomes essential once everyone else has one too.\n\nThis is why so many tech and finance businesses obsess over user growth even at a loss: if network effects are strong, an early lead can compound into a durable advantage, because new users prefer whichever network already has the most people, creating a winner-take-most dynamic.\n\nNot all network effects are equal — a two-sided marketplace (like a ride-hailing app, which needs both drivers and riders) has to grow both sides in balance, which is harder than a single-sided one like a messaging app.",
+        "deep": "## The basic idea\nA network effect exists when each additional user makes the product more valuable for everyone already using it. Informally, the value of the network scales with some function of its size — not linearly, and in the classic (if oversimplified) telephone-network argument, with the number of possible connections between users, which grows roughly with the square of the number of users.\n\n## A worked example\nConsider a messaging app. If you're the only person on it, its value to you is zero — there's no one to message. Add one friend, and now there's exactly one conversation possible. Add a hundred friends, and there are thousands of possible conversations. The app hasn't changed at all; its usefulness to you has exploded purely because other people joined. This is a \"direct\" network effect: more users of the same type (other people you'd message) directly increase value.\n\nContrast this with an \"indirect\" or cross-side network effect, found in two-sided markets. A ride-hailing app is more valuable to riders when there are more drivers nearby (shorter wait times), and more valuable to drivers when there are more riders (more fares). Growing one side benefits the other side, but the company has to bootstrap both simultaneously — often subsidizing one side (free rides, driver bonuses) until the loop becomes self-sustaining.\n\n## Why it matters strategically\nNetwork effects explain why some markets tip toward a single dominant player (a \"winner-take-most\" market) while others stay fragmented. If network effects are strong and switching costs are low, early scale becomes self-reinforcing: more users attract more users, who attract more still. This is part of why early-stage platform companies will spend heavily to acquire users even without a path to near-term profit — they're racing to reach the point where the network effect becomes the moat itself, rather than competing purely on product quality.\n\n## The limits\nNetwork effects aren't unconditional. They can plateau (a city only has so many potential riders), reverse into negative congestion effects (a crowded social feed or an overloaded server gets worse, not better, as it grows), or get undercut by a competitor who offers interoperability, letting users keep the network's benefits while switching products. Antitrust regulators increasingly scrutinize dominant platforms precisely because network effects can entrench a leader regardless of whether its product remains the best one."
+      },
+      "he": {
+        "headline": "מושג היום: אפקט רשת (Network Effects)",
+        "scroll": "אפקט רשת הוא מצב שבו מוצר נהיה שימושי יותר לכל משתמש ככל שיותר אנשים משתמשים בו - וזו הסיבה שמנצחים בשוקי פלטפורמות מנצחים בגדול.",
+        "coffee": "אפקט רשת הוא לופ משוב שבו מוצר או שירות הופך למועיל יותר לכל משתמש רק בגלל שיותר אנשים משתמשים בו, בלי שום שינוי במוצר עצמו. טלפון חסר תועלת אם אתה האדם היחיד שמחזיק באחד; הוא הופך הכרחי כשלכולם יש אחד.\n\nזו הסיבה שעסקי טכנולוגיה ופיננסים רבים מתמקדים בגדילת משתמשים אפילו בהפסד: אם אפקטי הרשת חזקים, יתרון מוקדם יכול להצטבר ליתרון עמיד, כי משתמשים חדשים מעדיפים את הרשת שבה כבר יש הכי הרבה אנשים - מה שיוצר דינמיקה של \"המנצח לוקח הכל\" (winner-take-most).\n\nלא כל אפקטי הרשת שווים: שוק דו-צדי (two-sided marketplace), כמו אפליקציית הזמנת נסיעות שצריכה גם נהגים וגם נוסעים, צריך לגדול משני הצדדים באיזון - וזה הרבה יותר קשה מרשת חד-צדית כמו אפליקציית הודעות.",
+        "deep": "## הרעיון הבסיסי\nאפקט רשת קיים כשכל משתמש נוסף מגדיל את הערך של המוצר לכל מי שכבר משתמש בו. באופן לא פורמלי, ערך הרשת גדל כפונקציה של גודלה - לא באופן לינארי, ולפי הטיעון הקלאסי (אם כי מופשט מדי) של רשת הטלפונים, לפי מספר החיבורים האפשריים בין משתמשים, שגדל בקירוב כריבוע מספר המשתמשים.\n\n## דוגמה מפורטת\nנניח אפליקציית הודעות. אם אתה היחיד בה, הערך שלה בשבילך הוא אפס - אין למי לשלוח הודעה. הוסף חבר אחד, ועכשיו יש שיחה אפשרית אחת. הוסף מאה חברים, ויש אלפי שיחות אפשריות. האפליקציה לא השתנתה כלל; התועלת שלה בשבילך התפוצצה רק כי אנשים אחרים הצטרפו. זה אפקט רשת \"ישיר\": יותר משתמשים מהסוג הזהה (אנשים נוספים שאפשר לשלוח להם הודעה) מגדילים ערך באופן ישיר.\n\nלעומת זאת, אפקט רשת \"עקיף\" (או צולב-צדדי) קיים בשווקים דו-צדיים. אפליקציית הזמנת נסיעות שווה יותר לנוסעים כשיש יותר נהגים בקרבת מקום (זמני המתנה קצרים יותר), ושווה יותר לנהגים כשיש יותר נוסעים (יותר נסיעות). גדילה בצד אחד מיטיבה עם הצד השני, אבל החברה צריכה להתניע את שני הצדדים בו-זמנית - לרוב דרך סובסידיה לצד אחד (נסיעות חינם, בונוסים לנהגים) עד שהלופ הופך לעומד ברשות עצמו.\n\n## למה זה חשוב אסטרטגית\nאפקטי רשת מסבירים מדוע שווקים מסוימים נוטים להיטות לכיוון שחקן דומיננטי בודד (שוק \"מנצח לוקח הכל בקירוב\") בעוד אחרים נשארים מפוצלים. אם אפקטי הרשת חזקים ועלויות המעבר נמוכות, היקף מוקדם הופך לתגבור עצמי: יותר משתמשים מביאים יותר משתמשים, שמביאים עוד. זו אחת הסיבות שחברות פלטפורמה בשלב מוקדם מוכנות להשקיע כבדות בגיוס משתמשים גם בלי מסלול לרווחיות קרובה - הן מתחרות על הנקודה שבה אפקט הרשת עצמו הופך לחפיר (moat), ולא על תחרות טהורה על איכות המוצר.\n\n## המגבלות\nאפקטי רשת אינם בלתי מוגבלים. הם יכולים להתייצב (לעיר יש מספר מוגבל של נוסעים פוטנציאליים), להתהפך לאפקטי עומס שליליים (פיד חברתי עמוס או שרת עמוס נעשים גרועים יותר, לא טובים יותר, כשהם גדלים), או להיחתך על ידי מתחרה שמציע אינטרופרביליות (interoperability) ומאפשר למשתמשים לשמור על יתרונות הרשת תוך מעבר למוצר אחר. רגולטורים של הגבלים עסקיים בוחנים יותר ויותר פלטפורמות דומיננטיות בדיוק בשל כך שאפקטי רשת יכולים לבצר מנהיג בשוק בלי קשר לשאלה אם המוצר שלו נשאר הטוב ביותר."
+      },
+      "tags": [
+        "network-effects",
+        "economics",
+        "platforms",
+        "strategy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "saro-wiwa-execution",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1995: Nigeria Executes Writer and Activist Ken Saro-Wiwa Over Shell Oil Protests",
+        "scroll": "On 10 November 1995, Nigeria's military government hanged writer Ken Saro-Wiwa and eight other Ogoni activists who had campaigned against oil pollution by Shell in the Niger Delta.",
+        "coffee": "On 10 November 1995, the Nigerian military regime of General Sani Abacha executed the writer, television producer and activist Ken Saro-Wiwa, along with eight other members of the Movement for the Survival of the Ogoni People (MOSOP). Saro-Wiwa, a member of the Ogoni ethnic minority, had spent years campaigning against the environmental damage caused by decades of oil extraction in the Niger Delta, much of it tied to Shell's operations, and against what MOSOP argued was the Ogoni people's exclusion from the oil wealth extracted from their land.\n\nThe executions followed a trial widely condemned internationally as a sham, intended to silence the protest movement rather than deliver justice. The killings triggered global outrage: Nigeria was suspended from the Commonwealth of Nations, and the case became a landmark in the debate over corporate accountability for environmental and human rights abuses in resource-rich but politically repressive countries — a debate still very much alive today wherever extractive industries operate under weak governance.",
+        "deep": "## Who was Ken Saro-Wiwa\nKen Saro-Wiwa was a Nigerian writer, television producer and member of the Ogoni, an ethnic minority of roughly half a million people in the Niger Delta. Ogoniland sits atop some of Nigeria's richest oil deposits, extracted largely by Shell from the 1950s onward. Saro-Wiwa became the leading voice of the Movement for the Survival of the Ogoni People (MOSOP), which argued that decades of oil extraction had devastated Ogoni farmland and waterways through spills and gas flaring, while the wealth it generated flowed to the Nigerian state and foreign oil companies rather than to the communities living with the damage.\n\n## The execution\nBy the early 1990s, MOSOP's protests — including a 1993 demonstration that drew an estimated 300,000 Ogoni people — had made Saro-Wiwa a prominent target of Nigeria's military government under General Sani Abacha. In 1994, he and several colleagues were arrested and charged with incitement to murder after four Ogoni chiefs were killed by a mob, in a trial that international observers, including the Commonwealth and the United Nations, criticized as politically motivated and lacking due process. On 10 November 1995, Saro-Wiwa and eight other MOSOP activists, now remembered as the \"Ogoni Nine,\" were hanged in Port Harcourt.\n\n## The aftermath\nThe executions drew immediate international condemnation. Nigeria was suspended from the Commonwealth of Nations within days, and the case significantly damaged Shell's global reputation, feeding into decades of litigation and activism over the company's environmental record and alleged complicity in the Nigerian government's crackdown — claims Shell has denied, though it settled a related civil lawsuit brought by victims' families in 2009 without admitting liability.\n\n## Why it still matters\nThe case remains a reference point in debates over how multinational companies should be held accountable for human rights and environmental harm in countries where they operate alongside authoritarian or weak governments — an issue that has only grown more prominent as scrutiny of extractive industries' environmental and social impact has intensified globally."
+      },
+      "he": {
+        "headline": "1995: ניגריה מוציאה להורג את הסופר והפעיל קן סארו-ויווה בשל מחאתו נגד של (Shell)",
+        "scroll": "ב-10 בנובמבר 1995 תלה המשטר הצבאי של ניגריה את הסופר קן סארו-ויווה ושמונה פעילים אוגוני נוספים, שמחו נגד זיהום נפט של של (Shell) בדלתת הנייג'ר.",
+        "coffee": "ב-10 בנובמבר 1995 הוציא להורג המשטר הצבאי הניגרי בהנהגת הגנרל סאני אבאצ'ה את הסופר, יצרן הטלוויזיה והפעיל קן סארו-ויווה, לצד שמונה חברים נוספים בתנועה להישרדות העם האוגוני (MOSOP). סארו-ויווה, בן המיעוט האתני האוגוני, הוביל שנים של מחאה נגד הנזק הסביבתי שנגרם מעשרות שנות הפקת נפט בדלתת הנייג'ר, רובו בקשר לפעילות של של (Shell), ונגד מה ש-MOSOP טענה שהוא הדרה של העם האוגוני מעושר הנפט שהופק מאדמתו.\n\nההוצאה להורג באה בעקבות משפט שגונה באופן נרחב בקהילה הבינלאומית כמשפט מבוים, שנועד להשתיק את תנועת המחאה ולא לחלק צדק. ההוצאה להורג עוררה זעם עולמי: ניגריה הושעתה מחבר העמים הבריטי (Commonwealth), והמקרה הפך לאבן דרך בדיון על אחריות תאגידית לפגיעות סביבתיות וזכויות אדם במדינות עשירות במשאבים אך מדכאות פוליטית - דיון שרלוונטי מאוד גם היום, בכל מקום שבו תעשיות חציבה פועלות תחת שלטון חלש.",
+        "deep": "## מי היה קן סארו-ויווה\nקן סארו-ויווה היה סופר, יצרן טלוויזיה ובן למיעוט האוגוני - קבוצה אתנית של כחצי מיליון בני אדם בדלתת הנייג'ר. אדמת האוגוני יושבת על חלק מעתודות הנפט העשירות ביותר בניגריה, שהופקו ברובן על ידי של (Shell) מאז שנות ה-50. סארו-ויווה הפך לקול המוביל של התנועה להישרדות העם האוגוני (MOSOP), שטענה שעשרות שנות הפקת נפט החריבו שדות ונחלי האוגוני בעקבות דליפות ושריפת גז (gas flaring), בעוד העושר שנוצר זרם למדינה הניגרית ולחברות נפט זרות ולא לקהילות שחיות עם הנזק.\n\n## ההוצאה להורג\nבתחילת שנות ה-90 הפכו מחאות MOSOP - כולל הפגנה ב-1993 שהביאה כ-300,000 בני אוגוני לרחובות - את סארו-ויווה למטרה בולטת למשטר הצבאי של ניגריה בהנהגת הגנרל סאני אבאצ'ה. ב-1994 הוא ועוד מספר עמיתים נעצרו והואשמו בהסתה לרצח, בעקבות רצח ארבעה מנהיגים אוגוניים על ידי אספסוף, במשפט שמשקיפים בינלאומיים, כולל חבר העמים הבריטי והאומות המאוחדות, גינו כפוליטי ונטול הליך הוגן. ב-10 בנובמבר 1995 נתלו סארו-ויווה ושמונה פעילי MOSOP נוספים, שנודעו מאז כ\"תשעת האוגוני\", בעיר פורט הארקורט.\n\n## ההשלכות\nההוצאה להורג עוררה גינוי בינלאומי מיידי. ניגריה הושעתה מחבר העמים הבריטי בתוך ימים, והמקרה הזיק משמעותית לתדמית הגלובלית של של (Shell), והזין עשרות שנים של התדיינות משפטית ופעילות סביב הרישום הסביבתי של החברה והאשמות לשותפות בפעולות הדיכוי של ממשלת ניגריה - האשמות ששל הכחישה, אף שהחברה פשרה בתביעה אזרחית קשורה שהגישו משפחות הקורבנות ב-2009, בלי להכיר באחריות.\n\n## למה זה עדיין חשוב\nהמקרה נשאר נקודת התייחסות מרכזית בדיון על האחריות שצריכות לשאת חברות רב-לאומיות לפגיעות בזכויות אדם ובסביבה במדינות שבהן הן פועלות לצד שלטונות סמכותניים או חלשים - נושא שרק התחדד ככל שהביקורת על ההשפעה הסביבתית והחברתית של תעשיות החציבה התגברה גלובלית."
+      },
+      "tags": [
+        "nigeria",
+        "ogoni",
+        "shell",
+        "human-rights"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1995: Writer and environmental activist Ken Saro-Wiwa and eight others from the Movement for the Survival of the Ogoni People were executed by the Nigerian military regime led by Sani Abacha.",
+          "url": "https://en.wikipedia.org/wiki/Ken_Saro-Wiwa"
+        }
+      ]
+    }
+  ]
+}

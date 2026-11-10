@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-10",
+  "questions": [
+    {
+      "id": "q-tech-ai-launch-day",
+      "section": "tech",
+      "story_id": "claude-fable-mythos-launch",
+      "answer_index": 2,
+      "en": {
+        "question": "Anthropic's launch of Claude Fable 5.2 and Mythos 5.2 landed on a particularly crowded day for AI announcements. What else happened that same day?",
+        "options": [
+          "Nvidia announced it was exiting the AI chip business",
+          "The US government banned AI chip exports to all countries",
+          "Google announced new TPU chip generations and Meta released a new small, efficient model",
+          "OpenAI announced it was shutting down GPT development entirely"
+        ],
+        "explanation": "Google announced new TPU generations and Meta released Muse Ember the same day, illustrating how compressed the release cycle has become among major AI labs."
+      },
+      "he": {
+        "question": "ההשקה של Fable 5.2 ו-Mythos 5.2 מבית אנתרופיק נפלה על יום עמוס במיוחד בהכרזות AI. מה עוד קרה באותו היום?",
+        "options": [
+          "אנבידיה הודיעה שהיא נוטשת את תחום שבבי ה-AI",
+          "ממשלת ארצות הברית אסרה על ייצוא שבבי AI לכל המדינות",
+          "גוגל הכריזה על דורות שבבי TPU חדשים, ומטא השיקה מודל קטן ויעיל חדש",
+          "OpenAI הודיעה שהיא מפסיקה לגמרי את פיתוח GPT"
+        ],
+        "explanation": "גוגל הכריזה על דורות TPU חדשים ומטא השיקה את Muse Ember באותו היום, מה שממחיש כמה הצטופף קצב ההשקות בין מעבדות ה-AI הגדולות."
+      }
+    },
+    {
+      "id": "q-sports-messi-world-xi",
+      "section": "sports",
+      "story_id": "messi-golden-boot-world-xi",
+      "answer_index": 3,
+      "en": {
+        "question": "What made Lionel Messi's selection to FIFPro's World XI for 2026 notable?",
+        "options": [
+          "He was picked despite having announced his retirement from football",
+          "He became the first MLS player ever named to the World XI",
+          "He was selected as a center-back for the first time in his career",
+          "He was picked over Ballon d'Or winner Harry Kane, who missed out on the list"
+        ],
+        "explanation": "Harry Kane won the Ballon d'Or in 2026 but did not make FIFPro's World XI, while Messi did, alongside Mbappe, Haaland and Hakimi."
+      },
+      "he": {
+        "question": "מה הפך את הבחירה של ליאו מסי לנבחרת העולם (World XI) של FIFPro לשנת 2026 לבלתי שגרתית?",
+        "options": [
+          "הוא נבחר חרף הכרזה על פרישה מכדורגל",
+          "הוא הפך לשחקן ה-MLS הראשון אי פעם שנבחר לנבחרת העולם",
+          "הוא נבחר כבלם במרכז ההגנה בפעם הראשונה בקריירה שלו",
+          "הוא נבחר על חשבון הזוכה בכדור הזהב הארי קיין, שלא נכלל ברשימה"
+        ],
+        "explanation": "הארי קיין זכה בכדור הזהב ב-2026 אך לא נכלל בנבחרת העולם של FIFPro, בעוד מסי נכלל בה לצד אמבפה, הולנד וחכימי."
+      }
+    },
+    {
+      "id": "q-business-nvidia-key-person-risk",
+      "section": "business",
+      "story_id": "nvidia-jensen-huang-key-person-risk",
+      "answer_index": 3,
+      "en": {
+        "question": "Why did Nvidia's stock slide after its board opened an investigation into CEO Jensen Huang?",
+        "options": [
+          "Regulators ordered Nvidia to divest its AI chip business",
+          "A rival chipmaker overtook Nvidia as the world's most valuable company",
+          "Nvidia reported a sudden drop in chip demand from its largest customers",
+          "Investors began pricing in the risk that Nvidia's story and customer trust are closely tied to its CEO personally"
+        ],
+        "explanation": "The investigation didn't change Nvidia's chips or demand, but it highlighted how much of the company's value is tied to one long-time CEO with no obvious successor."
+      },
+      "he": {
+        "question": "למה מניית אנבידיה נפלה אחרי שהדירקטוריון שלה פתח בחקירה על המנכ\"ל ג'נסן הואנג?",
+        "options": [
+          "רגולטורים הורו לאנבידיה למכור את פעילות שבבי ה-AI שלה",
+          "חברת שבבים מתחרה עקפה את אנבידיה כחברה השווה ביותר בעולם",
+          "אנבידיה דיווחה על נפילה פתאומית בביקוש לשבבים מהלקוחות הגדולים שלה",
+          "המשקיעים התחילו לתמחר את הסיכון שהסיפור של אנבידיה ואמון הלקוחות בה קשורים קשר הדוק למנכ\"ל עצמו"
+        ],
+        "explanation": "החקירה לא שינתה דבר בשבבים או בביקוש להם, אבל היא הדגישה כמה מהערך של אנבידיה קשור למנכ\"ל ותיק אחד בלי מחליף ברור."
+      }
+    }
+  ]
+}

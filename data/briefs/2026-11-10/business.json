@@ -1,0 +1,116 @@
+{
+  "section": "business",
+  "date": "2026-11-10",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-10T03:50:31+00:00",
+  "stories": [
+    {
+      "id": "nvidia-jensen-huang-key-person-risk",
+      "kind": "analysis",
+      "en": {
+        "headline": "Jensen Huang's Scandal Is a Lesson in Key-Person Risk",
+        "scroll": "A board probe and a reported FBI look into Nvidia CEO Jensen Huang's personal ties show how much the world's second-largest company rides on one man.",
+        "coffee": "Nvidia's board has opened a formal investigation into CEO Jensen Huang after reports that he had a relationship with Alice Huang, a former journalist and private-equity figure who built Mega Speed International into the largest buyer of Nvidia chips in Southeast Asia. She has boasted of access to Nvidia GPUs and ties to Alibaba, and pitched AI-chip deals to investors on the strength of her connection to Jensen Huang. President Trump said the FBI is \"looking into\" the matter, and part of the reporting raises the question of whether she acted as an intelligence asset for China — an allegation, not an established fact, but serious enough to prompt a board inquiry.\n\nNvidia's stock slid when the board probe became public, even as the broader US market climbed the same day. A Hebrew-language market analysis argued Nvidia would survive the discount investors are now pricing in for this \"Jensen premium,\" noting the stock trades at a forward price-to-earnings ratio of just 11 and that companies like Apple and Berkshire Hathaway also outgrew dependence on one founder. But Financial Times commentary cut the other way, calling the episode a reminder that Nvidia — the world's second-largest company by market value — has no obvious successor to a CEO who co-founded it and has run it for more than three decades.\n\nThe real lesson: when an executive's judgment and relationships become inseparable from a company's story and its customers' trust, a personal scandal turns directly into a business risk priced into the stock, with no change to the underlying chips or demand.",
+        "deep": "## The affair, and what's alleged\n\nNvidia's board has opened a formal investigation into the conduct of co-founder and CEO Jensen Huang, after reports surfaced that he had a personal relationship with Alice Huang, a former journalist and private-equity figure with deep connections across Nvidia's Asian business ecosystem. Alice Huang founded Mega Speed International, which the Hebrew financial outlet TheMarker reports became the largest single buyer of Nvidia chips in Southeast Asia. The Financial Times reports she boasted of having access to Nvidia GPUs and pitched AI-chip deals to investors, trading on her connection to both Jensen Huang and Alibaba. US President Donald Trump has said the FBI is \"looking into\" the matter, and the public reporting has raised, without resolving, the question of whether her activity amounted to intelligence-gathering on China's behalf. That allegation is unproven, but it was serious enough to draw a formal Nvidia board inquiry and reach the president's own comments.\n\n## Why a personal matter became a market event\n\nNvidia's stock fell on the day the board's investigation became public, even as the Nasdaq and S&P 500 both rallied sharply on the same trading day, in part on relief over the midterm election outcome and in part on a broader rebound in AI-related stocks. That split matters: it shows markets distinguishing a company-specific governance problem from the sector-wide story about artificial intelligence spending, rather than treating Nvidia's trouble as a verdict on AI demand itself. Commentary from TheMarker made the specific-to-Nvidia case explicitly, arguing that the company trades at a forward price-to-earnings ratio of just 11 — a notably low multiple for a company still growing revenue rapidly — and that the market is applying something like a \"Jensen premium\" discount to the stock price purely because of uncertainty about its CEO, not its order book.\n\n## Key-person risk, explained\n\nWhat investors are grappling with is a textbook case of key-person risk: the danger that a company's value is unusually dependent on one specific individual, so that losing that person — to scandal, health, departure, or any other reason — would damage the business far more than an orderly management change normally would. Every company has some of this risk, but it is sharpest at founder-led companies where the CEO's personal credibility, relationships and technical judgment are woven into how customers, suppliers and investors price the stock. Jensen Huang co-founded Nvidia and has led it for more than three decades, through its transformation from a graphics-chip maker into the dominant supplier of the chips that train and run AI models. A Financial Times piece bluntly titled \"How the world became too reliant on Jensen Huang\" argued that this concentration of trust in one executive is itself a vulnerability for a company Nvidia's size — and a companion piece asked whether Huang can survive as CEO at all, noting that Nvidia, now the world's second-largest company by market value, has no obvious successor waiting in the wings.\n\n## The counter-argument\n\nNot every analyst agrees the risk is as acute as the headlines suggest. The TheMarker analysis pushed back directly, pointing out that other giant companies have survived the departure or diminished centrality of a singular founder: Apple continued thriving years after Steve Jobs's death, and Berkshire Hathaway's succession planning has long been designed around the idea that Warren Buffett's eventual exit shouldn't break the company. By that reasoning, Nvidia's actual product — chips that remain, for now, the default choice for AI infrastructure build-outs — matters more to its long-term value than any one person's personal conduct, however uncomfortable the headlines.\n\n## What to watch next\n\nThe outcome of Nvidia's board investigation, and whether it concludes Huang's conduct created any genuine security or governance exposure for the company, as opposed to a personal matter with no bearing on his fitness to run it. Also worth watching: whether Nvidia's stock keeps trading at a discount to its earnings once the news cycle fades, which would suggest the market has priced in a lasting key-person risk, or whether it closes the gap, which would suggest investors ultimately agreed the company's value sits in its chips and customer relationships rather than in one man's personal life."
+      },
+      "he": {
+        "headline": "הפרשה של ג'נסן הואנג היא שיעור בסיכון תלות באדם מפתח",
+        "scroll": "חקירת דירקטוריון וחשד לבדיקת ה-FBI בעניין הקשרים האישיים של מנכ\"ל אנבידיה ג'נסן הואנג מראים כמה החברה השנייה בגודלה בעולם נשענת על אדם אחד.",
+        "coffee": "דירקטוריון אנבידיה פתח בחקירה רשמית נגד המנכ\"ל ג'נסן הואנג, בעקבות דיווחים על קשר בינו לבין אליס הואנג, עיתונאית בעבר ואשת השקעות פרטיות שהקימה את מגה ספיד אינטרנשיונל - החברה שהפכה לרוכשת הגדולה ביותר של שבבי אנבידיה בדרום-מזרח אסיה. היא התגאתה בגישה לשבבי ה-GPU של אנבידיה ובקשרים לעליבאבא, ושיווקה למשקיעים עסקאות בתחום שבבי ה-AI בהסתמך על הקשר שלה לג'נסן הואנג. נשיא ארה\"ב דונלד טראמפ אמר שה-FBI \"בודק\" את הפרשה, וחלק מהדיווחים מעלים, בלי לקבוע, את השאלה אם פעילותה היתה סוג של ריגול תעשייתי לטובת סין - חשד שלא הוכח, אך חמור מספיק כדי להוביל לחקירת דירקטוריון רשמית.\n\nמניית אנבידיה נפלה ביום שבו נודע על חקירת הדירקטוריון, בזמן שהשוק האמריקאי הרחב זינק באותו יום מסחר. ניתוח כלכלי בעברית טען שאנבידיה תשרוד את ההנחה שהמשקיעים מתמחרים כעת בשל \"פרמיית ג'נסן\" הזו, וציין שהמניה נסחרת במכפיל רווח עתידי (forward P/E) של רק 11 - נמוך במיוחד לחברה שעדיין צומחת בקצב מהיר - ושגם אפל וברקשייר הת'אוויי הצליחו לצמוח מעבר לתלות במייסד בודד. אבל טור דעה בפייננשל טיימס טען בכיוון ההפוך, וכינה את הפרשה תזכורת לכך שלאנבידיה, החברה השנייה בגודלה בעולם לפי שווי שוק, אין יורש מובן מאליו למנכ\"ל שהקים אותה וניהל אותה יותר משלושה עשורים.\n\nהשיעור האמיתי: כשהשיקול הדעת והקשרים האישיים של מנהל הופכים לבלתי נפרדים מהסיפור של החברה ומאמון הלקוחות בה, פרשה אישית הופכת ישירות לסיכון עסקי שמתומחר במניה, בלי שום שינוי בשבבים עצמם או בביקוש להם.",
+        "deep": "## הפרשה, והחשדות\n\nדירקטוריון אנבידיה פתח בחקירה רשמית נגד המנכ\"ל והמייסד-שותף ג'נסן הואנג, בעקבות דיווחים על קשר אישי בינו לבין אליס הואנג, עיתונאית בעבר ואשת השקעות פרטיות עם קשרים עמוקים במערכת העסקית האסייתית של אנבידיה. אליס הואנג הקימה את מגה ספיד אינטרנשיונל, שלפי העיתון הכלכלי הישראלי TheMarker הפכה לרוכשת הבודדת הגדולה ביותר של שבבי אנבידיה בדרום-מזרח אסיה. פייננשל טיימס מדווח שהיא התגאתה בגישה לשבבי GPU של אנבידיה ושיווקה למשקיעים עסקאות בתחום שבבי ה-AI, כשהיא נסמכת על הקשר שלה לג'נסן הואנג ולעליבאבא. נשיא ארה\"ב דונלד טראמפ אמר שה-FBI \"בודק\" את הפרשה, והדיווחים הציבוריים העלו, מבלי להכריע, את השאלה אם פעילותה היתה סוג של איסוף מודיעין לטובת סין. זה חשד שלא הוכח, אבל הוא חמור מספיק כדי שהוביל לחקירת דירקטוריון רשמית ולהגיע להתבטאויות הנשיא עצמו.\n\n## למה עניין אישי הפך לאירוע שוק\n\nמניית אנבידיה נפלה ביום שבו נודע על חקירת הדירקטוריון, בזמן שמדדי הנאסד\"ק וה-S&P 500 זינקו חזק באותו יום מסחר - בין היתר על רקע הקלה מתוצאות בחירות הביניים בארה\"ב והתאוששות רחבה יותר במניות הקשורות ל-AI. הפער הזה משמעותי: הוא מראה שהשוק מבדיל בין בעיית ממשל תאגידי (corporate governance) ספציפית לאנבידיה לבין הסיפור הענפי הרחב יותר על ההשקעה בבינה מלאכותית, ולא מתייחס לצרות של אנבידיה כפסק דין על הביקוש ל-AI עצמו. ניתוח ב-TheMarker חידד את הטיעון הספציפי לאנבידיה, בטענה שהחברה נסחרת במכפיל רווח עתידי (forward P/E) של רק 11 - מכפיל נמוך במיוחד לחברה שממשיכה לצמוח בהכנסות בקצב מהיר - ושהשוק מתמחר למעשה הנחה, מעין \"פרמיית ג'נסן\" הפוכה, רק בשל חוסר הוודאות סביב המנכ\"ל שלה, ולא סביב צבר ההזמנות שלה.\n\n## סיכון תלות באדם מפתח, בפירוט\n\nמה שהמשקיעים מתמודדים איתו הוא מקרה קלאסי של סיכון תלות באדם מפתח (key-person risk): הסיכון ששווי החברה תלוי באופן חריג באדם ספציפי אחד, כך שאובדן אותו אדם - בשל פרשה, מחלה, התפטרות או כל סיבה אחרת - יפגע בעסק הרבה יותר מהחלפת הנהלה מסודרת. לכל חברה יש מידה כלשהי של סיכון הזה, אבל הוא חד במיוחד בחברות שבראשן עומד מייסד, שבהן האמינות האישית, הקשרים והשיקול הדעת הטכני של המנכ\"ל שלובים בתוך האופן שבו לקוחות, ספקים ומשקיעים מתמחרים את המניה. ג'נסן הואנג הקים את אנבידיה וניהל אותה יותר משלושה עשורים, דרך הטרנספורמציה שלה מיצרנית שבבי גרפיקה לספקת השבבים הדומיננטית לאימון והפעלה של מודלי AI. מאמר בפייננשל טיימס שכותרתו, בגילוי לב, \"איך העולם הפך תלוי יותר מדי בג'נסן הואנג\", טען שהריכוז הזה של אמון באדם אחד הוא בעיה בפני עצמה לחברה בגודל של אנבידיה - ומאמר נוסף שאל אם הואנג יכול לשרוד בתפקיד המנכ\"ל בכלל, וציין שלאנבידיה, שהיא כיום החברה השנייה בגודלה בעולם לפי שווי שוק, אין יורש מובן מאליו.\n\n## הטיעון שכנגד\n\nלא כל האנליסטים מסכימים שהסיכון חד כמו שהכותרות מרמזות. הניתוח של TheMarker דחה את הטיעון הזה במישרין, והצביע על כך שחברות עצומות אחרות שרדו עזיבה או היחלשות של מרכזיות מייסד בודד: אפל המשיכה לשגשג שנים אחרי מותו של סטיב ג'ובס, ותכנון ההמשכיות בברקשייר הת'אוויי נבנה כבר מזמן על ההנחה שעזיבתו העתידית של וורן באפט לא צריכה לשבור את החברה. לפי ההיגיון הזה, המוצר בפועל של אנבידיה - שבבים שנותרים, לפחות כרגע, הבחירה המועדפת לבניית תשתיות AI - חשוב לשווי שלה לטווח ארוך יותר מההתנהלות האישית של אדם אחד, כמה שלא נעימה הכתבה עליה.\n\n## מה לעקוב אחריו\n\nתוצאות חקירת הדירקטוריון של אנבידיה, והאם היא תקבע שההתנהלות של הואנג יצרה חשיפה ביטחונית או ממשלית אמיתית לחברה, בניגוד לעניין אישי שאין לו השלכה על כשירותו לנהל אותה. כדאי לעקוב גם אחרי השאלה אם מניית אנבידיה תמשיך להיסחר בהנחה לעומת הרווחים שלה ברגע שמחזור החדשות ידעך - מה שיעיד על סיכון תלות באדם מפתח מתמשך - או אם היא תסגור את הפער, מה שיעיד שבסופו של דבר המשקיעים הסכימו ששווי החברה נמצא בשבבים ובקשרי הלקוחות שלה ולא בחיים האישיים של אדם אחד."
+      },
+      "tags": [
+        "nvidia",
+        "key-person-risk",
+        "corporate-governance",
+        "ai"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+          "url": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "How the world became too reliant on Jensen Huang",
+          "url": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
+          "url": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+          "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
+          "url": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Nvidia Stock Slides After Chip Maker Opens Probe",
+          "url": "https://www.wsj.com/finance/stocks/nvidia-stock-slides-after-chip-maker-opens-probe-b22a7a13?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Leap Despite Nvidia Slide",
+          "url": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "גם אפל וברקשייר לא היו תלויות באדם אחד. אנבידיה תשרוד את \"פרמיית ג'נסן\"",
+          "url": "https://www.themarker.com/news/internal-info/2026-11-09/ty-article/000001a1-bfed-d146-ada9-fffd30e20000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "החשודה בריגול אחר הואנג פעלה במשך שנים במעגלים של אנבידיה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-09/ty-article/.premium/000001a1-c015-dd57-a1e1-e47fdef70000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4013.5,
+      "prev_close": 3941.1399,
+      "change_pct": 1.84,
+      "as_of": "2026-11-09"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7549.9399,
+      "prev_close": 7376.8599,
+      "change_pct": 2.35,
+      "as_of": "2026-11-09"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1538,
+      "prev_close": 3.1849,
+      "change_pct": -0.98,
+      "as_of": "2026-11-10"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 91.68,
+      "prev_close": 98.32,
+      "change_pct": -6.75,
+      "as_of": "2026-11-09"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 74410.7422,
+      "prev_close": 74584.6484,
+      "change_pct": -0.23,
+      "as_of": "2026-11-10"
+    }
+  }
+}
