@@ -42,129 +42,129 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#4",
+     "title": "STEVE REED - AP News",
+     "published": "2026-11-10T08:56:16+00:00",
+     "summary": "STEVE REED AP News"
+    },
+    {
+     "ref": "ap_world#5",
      "title": "US-mediated talks on ending the war between Russia and Ukraine begin in Abu Dhabi - AP News",
      "published": "2026-11-10T08:53:00+00:00",
      "summary": "US-mediated talks on ending the war between Russia and Ukraine begin in Abu Dhabi AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "PHOTO ESSAY: Greek theater production seeks to show that art has no age - AP News",
      "published": "2026-11-10T08:50:00+00:00",
      "summary": "PHOTO ESSAY: Greek theater production seeks to show that art has no age AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#7",
      "title": "Tennis Scores, News & Stats - AP News",
      "published": "2026-11-10T08:49:09+00:00",
      "summary": "Tennis Scores, News & Stats AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-10T08:39:11+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "DAVE SKRETTA - AP News",
      "published": "2026-11-10T08:03:03+00:00",
      "summary": "DAVE SKRETTA AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "Yemen - AP News",
-     "published": "2026-11-10T07:56:18+00:00",
-     "summary": "Yemen AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-10T07:39:16+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
      "ref": "ap_world#10",
      "title": "Trending News - AP News",
-     "published": "2026-11-10T07:22:40+00:00",
+     "published": "2026-11-10T07:57:23+00:00",
      "summary": "Trending News AP News"
     },
     {
      "ref": "ap_world#11",
+     "title": "The US to become first nation to fully shun a UN Human Rights Council review - AP News",
+     "published": "2026-11-10T07:54:00+00:00",
+     "summary": "The US to become first nation to fully shun a UN Human Rights Council review AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "Yemen - AP News",
+     "published": "2026-11-10T07:23:12+00:00",
+     "summary": "Yemen AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "Thousands of Ethiopian Jews gather to mark Sigd - AP News",
      "published": "2026-11-10T07:05:00+00:00",
      "summary": "Thousands of Ethiopian Jews gather to mark Sigd AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "TIM REYNOLDS - AP News",
-     "published": "2026-11-10T07:01:36+00:00",
-     "summary": "TIM REYNOLDS AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-10T06:26:35+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
      "ref": "ap_world#14",
+     "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+     "published": "2026-11-10T07:03:17+00:00",
+     "summary": "Russia-Ukraine | Breaking News & Live Updates AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-10T06:56:20+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#16",
      "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
      "published": "2026-11-10T06:23:00+00:00",
      "summary": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#17",
+     "title": "Josh Allen and the Bills move to 7-1 with a 23-6 win over the sputtering Vikings - AP News",
+     "published": "2026-11-10T06:12:00+00:00",
+     "summary": "Josh Allen and the Bills move to 7-1 with a 23-6 win over the sputtering Vikings AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "‘Like gods reigning over humans’: Many defectors see daughter of North Korea's Kim as heir apparent - AP News",
      "published": "2026-11-10T05:42:00+00:00",
      "summary": "‘Like gods reigning over humans’: Many defectors see daughter of North Korea's Kim as heir apparent AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
-     "published": "2026-11-10T05:12:36+00:00",
-     "summary": "Russia-Ukraine | Breaking News & Live Updates AP News"
+     "ref": "ap_world#19",
+     "title": "TIM REYNOLDS - AP News",
+     "published": "2026-11-10T05:32:11+00:00",
+     "summary": "TIM REYNOLDS AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#20",
+     "title": "Republican Ken Calvert wins reelection to U.S. House in California's 40th Congressional District - AP News",
+     "published": "2026-11-10T05:16:04+00:00",
+     "summary": "Republican Ken Calvert wins reelection to U.S. House in California's 40th Congressional District AP News"
+    },
+    {
+     "ref": "ap_world#21",
      "title": "Hegseth is set for his first Pentagon news briefing since May as he faces possible impeachment - AP News",
      "published": "2026-11-10T05:10:00+00:00",
      "summary": "Hegseth is set for his first Pentagon news briefing since May as he faces possible impeachment AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#22",
      "title": "Here are some of the House seats that Democrats didn’t expect to win this year - AP News",
      "published": "2026-11-10T05:06:00+00:00",
      "summary": "Here are some of the House seats that Democrats didn’t expect to win this year AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#23",
      "title": "Democrats have gained control in more states. That could change the way the US elects its president - AP News",
      "published": "2026-11-10T05:03:00+00:00",
      "summary": "Democrats have gained control in more states. That could change the way the US elects its president AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#24",
      "title": "At a UN celebration for Ted Turner, memories of a man who saw the power of global cooperation - AP News",
      "published": "2026-11-10T05:00:00+00:00",
      "summary": "At a UN celebration for Ted Turner, memories of a man who saw the power of global cooperation AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "How North Korean defectors view Kim Jong Un’s daughter as his possible successor - AP News",
-     "published": "2026-11-10T04:44:00+00:00",
-     "summary": "How North Korean defectors view Kim Jong Un’s daughter as his possible successor AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Josh Allen and the Bills move to 7-1 with a 23-6 win over the sputtering Vikings - AP News",
-     "published": "2026-11-10T04:43:00+00:00",
-     "summary": "Josh Allen and the Bills move to 7-1 with a 23-6 win over the sputtering Vikings AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Faced with influx, prosecutor in Washington says he lacks resources to defend immigration cases - AP News",
-     "published": "2026-11-10T04:35:00+00:00",
-     "summary": "Faced with influx, prosecutor in Washington says he lacks resources to defend immigration cases AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "FBI investigating Nvidia CEO Jensen Huang’s affair with an alleged Chinese agent, Trump says - AP News",
-     "published": "2026-11-10T04:11:00+00:00",
-     "summary": "FBI investigating Nvidia CEO Jensen Huang’s affair with an alleged Chinese agent, Trump says AP News"
     }
    ]
   },
@@ -175,7 +175,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "bbc_world#0",
      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-     "published": "2026-11-10T10:13:51+00:00",
+     "published": "2026-11-10T10:24:20+00:00",
      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city."
     },
     {
@@ -420,153 +420,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "UAE is selling Saudi oil in a rare move, document shows - Reuters",
+     "published": "2026-11-10T10:36:29+00:00",
+     "summary": "UAE is selling Saudi oil in a rare move, document shows Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Vanishing vessels and missing sailors: The Iran war's human cost at sea - Reuters",
+     "published": "2026-11-10T10:13:06+00:00",
+     "summary": "Vanishing vessels and missing sailors: The Iran war's human cost at sea Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Indian police advise Bollywood stars to avoid public places after shooting, local media report - Reuters",
      "published": "2026-11-10T10:11:44+00:00",
      "summary": "Indian police advise Bollywood stars to avoid public places after shooting, local media report Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
+     "title": "EXCLUSIVE: Saudi PIF weighs fresh fundraising options to generate cash from companies, sources say - Reuters",
+     "published": "2026-11-10T10:11:35+00:00",
+     "summary": "EXCLUSIVE: Saudi PIF weighs fresh fundraising options to generate cash from companies, sources say Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
      "title": "France summons Iran envoy over supermarket fridge hack, warns of response - Reuters",
      "published": "2026-11-10T09:52:02+00:00",
      "summary": "France summons Iran envoy over supermarket fridge hack, warns of response Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#5",
      "title": "At least 10 die in Bulgarian motorway pile-up - Reuters",
      "published": "2026-11-10T09:41:43+00:00",
      "summary": "At least 10 die in Bulgarian motorway pile-up Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#6",
      "title": "Chinese exports to Russia slow in October, imports gain pace - Reuters",
      "published": "2026-11-10T09:38:09+00:00",
      "summary": "Chinese exports to Russia slow in October, imports gain pace Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#7",
      "title": "Spanish police officer killed, another injured in explosion after neighbourhood dispute - Reuters",
      "published": "2026-11-10T09:28:14+00:00",
      "summary": "Spanish police officer killed, another injured in explosion after neighbourhood dispute Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#8",
      "title": "Indonesia vice president expresses intention to resign, presidential official says - Reuters",
      "published": "2026-11-10T09:11:43+00:00",
      "summary": "Indonesia vice president expresses intention to resign, presidential official says Reuters"
     },
     {
-     "ref": "reuters_world#6",
-     "title": "Asked if Xi will discuss Nvidia's Huang with Trump, Beijing cites preparation for leader interactions - Reuters",
-     "published": "2026-11-10T08:45:24+00:00",
-     "summary": "Asked if Xi will discuss Nvidia's Huang with Trump, Beijing cites preparation for leader interactions Reuters"
-    },
-    {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "Qatari PM makes unscheduled stop at G7 to brief Europeans post Trump talks - Reuters",
      "published": "2026-11-10T08:29:08+00:00",
      "summary": "Qatari PM makes unscheduled stop at G7 to brief Europeans post Trump talks Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Meghan, wife of Prince Harry, will no longer speak at Brussels event - Reuters",
      "published": "2026-11-10T07:59:00+00:00",
      "summary": "Meghan, wife of Prince Harry, will no longer speak at Brussels event Reuters"
     },
     {
-     "ref": "reuters_world#9",
-     "title": "Russia sees new security framework for Europe as main thrust of Ukraine talks, delegation source says - Reuters",
+     "ref": "reuters_world#11",
+     "title": "Russia sees European security framework as main thrust of Ukraine talks, delegation source says - Reuters",
      "published": "2026-11-10T07:43:00+00:00",
-     "summary": "Russia sees new security framework for Europe as main thrust of Ukraine talks, delegation source says Reuters"
+     "summary": "Russia sees European security framework as main thrust of Ukraine talks, delegation source says Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says - Reuters",
      "published": "2026-11-10T07:26:00+00:00",
      "summary": "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says Reuters"
     },
     {
-     "ref": "reuters_world#11",
-     "title": "Malaysian attorney general seeks High Court review of Najib house arrest order, Bernama reports - Reuters",
-     "published": "2026-11-10T07:23:00+00:00",
-     "summary": "Malaysian attorney general seeks High Court review of Najib house arrest order, Bernama reports Reuters"
-    },
-    {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "Indian tyre maker MRF posts lower quarterly profit as higher costs bite - Reuters",
      "published": "2026-11-10T07:13:00+00:00",
      "summary": "Indian tyre maker MRF posts lower quarterly profit as higher costs bite Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "North Korea accuses UN chief of siding with South Korea over border tensions - Reuters",
      "published": "2026-11-10T06:46:00+00:00",
      "summary": "North Korea accuses UN chief of siding with South Korea over border tensions Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "SoftBank books $7 billion quarterly loss on US data centre hit, financing costs - Reuters",
      "published": "2026-11-10T06:37:00+00:00",
      "summary": "SoftBank books $7 billion quarterly loss on US data centre hit, financing costs Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
+     "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach - Reuters",
+     "published": "2026-11-10T06:34:09+00:00",
+     "summary": "Australia to mandate AI breach reporting, create regulator after OpenAI breach Reuters"
+    },
+    {
+     "ref": "reuters_world#17",
      "title": "South African rand steady ahead of jobs data - Reuters",
      "published": "2026-11-10T06:31:00+00:00",
      "summary": "South African rand steady ahead of jobs data Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Myanmar lobbies US to invest in its rare earths sector, dominated by China - Reuters",
      "published": "2026-11-10T06:15:00+00:00",
      "summary": "Myanmar lobbies US to invest in its rare earths sector, dominated by China Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Oman exchange expects FTSE emerging market upgrade, trio of IPOs in 2027 - Reuters",
      "published": "2026-11-10T06:12:00+00:00",
      "summary": "Oman exchange expects FTSE emerging market upgrade, trio of IPOs in 2027 Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Philippines says reported plane crash was a false alarm - Reuters",
      "published": "2026-11-10T05:47:00+00:00",
      "summary": "Philippines says reported plane crash was a false alarm Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "What we know about Megaspeed, Singapore-based customer of Nvidia - Reuters",
      "published": "2026-11-10T05:38:00+00:00",
      "summary": "What we know about Megaspeed, Singapore-based customer of Nvidia Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "Morning Bid: Anthropic IPO - Please try again - Reuters",
      "published": "2026-11-10T05:31:00+00:00",
      "summary": "Morning Bid: Anthropic IPO - Please try again Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "US aircraft evacuated from second British base due to Iran threat, WSJ reports - Reuters",
      "published": "2026-11-10T04:58:00+00:00",
      "summary": "US aircraft evacuated from second British base due to Iran threat, WSJ reports Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "Market rout tests BOJ's upbeat view of financial conditions - Reuters",
      "published": "2026-11-10T04:32:00+00:00",
      "summary": "Market rout tests BOJ's upbeat view of financial conditions Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "Gold prices ease as focus shifts to US inflation data - Reuters",
-     "published": "2026-11-10T03:31:00+00:00",
-     "summary": "Gold prices ease as focus shifts to US inflation data Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Three workers die at Tata's India iPhone parts factory in latest safety incident - Reuters",
-     "published": "2026-11-10T03:28:00+00:00",
-     "summary": "Three workers die at Tata's India iPhone parts factory in latest safety incident Reuters"
     }
    ]
   }

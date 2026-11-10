@@ -18,99 +18,99 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "ECB's Kazāks Sees Rate-Hike Judgments Getting ‘More Nuanced’",
+     "published": "2026-11-10T10:30:43+00:00",
+     "summary": "Latvia Central Bank Governor Mārtiņš Kazāks said further monetary tightening may be necessary if elevated energy prices persist and risk spilling into broader inflation. In an interview with Bloomberg TV on Tuesday, he added that policy trade-offs are becoming increasingly nuanced as officials have to balance price stability against the danger of undermining economic growth. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
+     "published": "2026-11-10T10:30:28+00:00",
+     "summary": "“Marry the house, date the rate.” The idea, boosted by Realtors, mortgage bankers and influencers as interest rates started rising in 2022, was that buyers shouldn’t worry too much about loan costs. Focus instead on getting the house you want, then refinance when rates inevitably came down. Michelle Amponsah reports. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Fed's Waller Supports Rate Hike in December",
+     "published": "2026-11-10T10:22:40+00:00",
+     "summary": "Federal Reserve Governor Christopher Waller said he supports an interest-rate hike in December, and warned that if inflation continues to accelerate he would support a half-percentage-point increase to protect the central bank’s credibility. “If inflation comes in substantially higher than I expect, more robust action by the FOMC may be called for,” Waller said at the Bank of England and Its Watch"
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "Hedge-Fund Founder Shah Fights 12-Year Danish Jail Sentence Over Cum-Ex Tax Scam",
+     "published": "2026-11-10T10:22:17+00:00",
+     "summary": "British hedge-fund trader Sanjay Shah returned to court in Denmark to try to overturn a 12-year prison sentence for orchestrating a billion-dollar tax scam."
+    },
+    {
+     "ref": "bloomberg_markets#4",
      "title": "France 'Still Attractive' Despite Protests: Trade Minister",
      "published": "2026-11-10T10:03:03+00:00",
      "summary": "The French Trade Minister says he wants to carry on the trade relationship with the US in the spirit of the Turnberry agreement, the EU-US trade framework agreed with President Trump in 2025. He also argued that France remains attractive, despite images of violent protests going around the world in recent weeks. Nicolas Forissier spoke exclusively with Bloomberg’s Anna Edwards, Tom Mackenzie and G"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#5",
      "title": "Can China Upend Commercial Aviation? Emirates Says Be Prepared",
      "published": "2026-11-10T09:35:44+00:00",
      "summary": "China has demonstrated that it can catch up and dominate so many industries that it’s probably only a matter of time until they do the same with the civil aviation duopoly now dominated by Airbus SE and Boeing Co."
     },
     {
-     "ref": "bloomberg_markets#2",
-     "title": "Fed’s Waller Backs December Rate Hike, Says Open to Larger Move",
+     "ref": "bloomberg_markets#6",
+     "title": "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
      "published": "2026-11-10T09:00:00+00:00",
      "summary": "Federal Reserve Governor Christopher Waller on Tuesday said he supports an interest-rate hike in December, and warned that if inflation continues to accelerate he would support a half-percentage-point increase to protect the central bank’s credibility."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#7",
      "title": "Lane Says ECB Shouldn't Deploy Tools to Ease France Woes",
      "published": "2026-11-10T08:45:20+00:00",
      "summary": "European Central Bank Chief Economist Philip Lane said the ECB shouldn’t adjust the run-off of its bond holdings or deploy its crisis tool to help France with its budget problems. “Where this needs to be fixed is in Paris,” Lane said in an interview with Bloomberg's Francine Lacqua. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#8",
      "title": "US Gasoline Prices Drop Below $4 a Gallon After Months of Pain",
      "published": "2026-11-10T08:39:50+00:00",
      "summary": "US gasoline dropped below $4 a gallon for the first time since July, offering consumers some relief at the pump, although prices remain significantly elevated on a seasonal basis."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#9",
      "title": "Great for Investors, Tough for Traders: Market Analysis",
      "published": "2026-11-10T08:36:02+00:00",
      "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#10",
      "title": "Italy’s Open Fiber Said to Start Planning €8 Billion Refinancing",
      "published": "2026-11-10T08:32:41+00:00",
      "summary": "Italy’s Open Fiber SpA is kicking off preliminary work to refinance around €8 billion ($9 billion) of bank debt, in what would rank among Europe’s largest fiber-sector debt deals."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#11",
      "title": "UK’s Top Rolex Retailer Improves Outlook After US Sales Jump",
      "published": "2026-11-10T08:25:44+00:00",
      "summary": "Watches of Switzerland Group Plc’s sales jumped in the US and UK, prompting the luxury watch retailer to improve its full-year outlook."
     },
     {
-     "ref": "bloomberg_markets#8",
-     "title": "Falling Oil and Gas Prices Give Gilt Traders Some Relief",
-     "published": "2026-11-10T07:48:22+00:00",
-     "summary": "Plus, retail sales point to consumer caution"
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "BOE's Bailey Backs UK Trade Opportunities, Including With EU",
-     "published": "2026-11-10T07:44:52+00:00",
-     "summary": "Bank of England Governor Andrew Bailey, speaking at an event in Zurich Monday, encouraged the UK to pursue any opportunity for greater trade and market access. \"If there are opportunities to increase the openness and the markets that we serve, wherever they are, whether it’s the European Union, Switzerland, or anywhere else — other things equal, we should take them,” Bailey said. On Thursday UK Pr"
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "Nvidia Turmoil Raises Stakes for the US-China Tech Rivalry",
-     "published": "2026-11-10T07:39:13+00:00",
-     "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "New World’s Top Shareholder Seeks Bank Loan as Equity Deal Looms",
-     "published": "2026-11-10T07:03:46+00:00",
-     "summary": "Chow Tai Fook Enterprises Ltd., an investment arm of Hong Kong’s billionaire Cheng family, is seeking about HK$5 billion ($637 million) in fresh funding from banks, according to people familiar with the matter."
-    },
-    {
      "ref": "bloomberg_markets#12",
-     "title": "Treasury Yields Won’t Peak Until Recession Hits, T. Rowe Says",
-     "published": "2026-11-10T06:54:34+00:00",
-     "summary": "US Treasury yields risk climbing once again until the world’s biggest economy enters a slowdown, according to T. Rowe Price."
-    },
-    {
-     "ref": "bloomberg_markets#13",
      "title": "AI Rout Has Investors Scouring Emerging Markets for Bargains",
      "published": "2026-11-10T06:15:00+00:00",
      "summary": "Stock pickers seeking relief from the AI-fueled turbulence in global equities are zeroing in on opportunities in emerging markets."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#13",
      "title": "Aluminum Falls on Reports Chinese Inventories Starting to Rise",
      "published": "2026-11-10T03:04:14+00:00",
      "summary": "Aluminum fell in London, tracking a slump in Shanghai futures, on a report that Chinese inventories have started to expand."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#14",
      "title": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
      "published": "2026-11-10T01:59:09+00:00",
      "summary": "A leveraged product tracking Kioxia Holdings Corp. debuts in Hong Kong on Tuesday, the first such single-stock instrument in the city since a similar SK Hynix Inc. product helped trigger extreme volatility in the underlying stock and drew market scrutiny."
+    },
+    {
+     "ref": "bloomberg_markets#15",
+     "title": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
+     "published": "2026-11-10T00:46:46+00:00",
+     "summary": "Bond traders are waiting for a key inflation report for clues on the direction of the Federal Reserve’s policy path and whether the recent Treasury rally has more room to run."
     },
     {
      "ref": "bloomberg_markets#16",
@@ -126,9 +126,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#18",
-     "title": "US Stock Rebound Pauses on Waller’s Rate Warning: Markets Wrap",
+     "title": "US Stock Rebound Stalls as Waller Favors Rate Hike: Markets Wrap",
      "published": "2026-11-09T22:16:53+00:00",
-     "summary": "A powerful rebound in US stocks ran out of steam after Federal Reserve Governor Christopher Waller backed an interest-rate hike in December just hours before Tuesday’s inflation data."
+     "summary": "A powerful rebound in US stocks ran out of steam after Federal Reserve Governor Christopher Waller backed an interest-rate hike in December just hours before Tuesday’s inflation report."
     },
     {
      "ref": "bloomberg_markets#19",
@@ -144,66 +144,72 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+     "published": "2026-11-10T10:08:36+00:00",
+     "summary": "Falling crude prices have supported recovery in global stocks from last week’s sell-off"
+    },
+    {
+     "ref": "ft_home#1",
      "title": "US removes planes from second UK military base after Iran threat",
      "published": "2026-11-10T09:55:47+00:00",
      "summary": "Move follows September security incident at RAF Fairford"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#2",
      "title": "Top Federal Reserve official considers largest rate rise since 2022",
      "published": "2026-11-10T09:00:09+00:00",
      "summary": "Governor Christopher Waller says policymakers should weigh a 50-basis-point move if US inflation fails to slow"
     },
     {
-     "ref": "ft_home#2",
+     "ref": "ft_home#3",
      "title": "SoftBank posts unexpected $7bn loss on data centre writedown",
      "published": "2026-11-10T08:33:19+00:00",
      "summary": "AI-focused Japanese group blames first quarterly loss in nearly two years on ‘evolving requirements’ in US projects"
     },
     {
-     "ref": "ft_home#3",
+     "ref": "ft_home#4",
      "title": "Too big to fire",
      "published": "2026-11-10T07:10:16+00:00",
      "summary": "Should Jensen Huang stay or go?"
     },
     {
-     "ref": "ft_home#4",
+     "ref": "ft_home#5",
      "title": "VW pivots again as ‘In China, For China’ runs out of road",
      "published": "2026-11-10T05:00:21+00:00",
      "summary": "The German group is changing its strategy in the world’s largest car market as it struggles with a sharp downturn"
     },
     {
-     "ref": "ft_home#5",
+     "ref": "ft_home#6",
      "title": "The last of the Botíns",
      "published": "2026-11-10T05:00:11+00:00",
      "summary": "The Santander chief says she will be the last in her family to run the bank"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#7",
      "title": "Investors pile into defensive stocks amid fears AI bull market may be over",
      "published": "2026-11-10T05:00:11+00:00",
      "summary": "Consumer staples and healthcare among sectors to perform strongly as investors fret over future tech earnings"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#8",
      "title": "The high price of Japan’s disaster-proof society",
      "published": "2026-11-10T00:47:30+00:00",
      "summary": "Telling people to stock up is one thing but the Japanese know that building a stockpile of civil credibility requires greater effort"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#9",
      "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
      "published": "2026-11-10T00:35:56+00:00",
      "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#10",
      "title": "Republican lawmaker moves to impeach Hegseth",
      "published": "2026-11-09T22:15:51+00:00",
      "summary": "Trump critic Thomas Massie cites abuse of power and flouting of the US constitution"
     },
     {
-     "ref": "ft_home#10",
+     "ref": "ft_home#11",
      "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
      "published": "2026-11-09T17:02:52+00:00",
      "summary": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company"
@@ -216,9 +222,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "עליות של 1% באירופה; תחזית חזקה להכנסות ממרכזי נתונים מקפיצה את מניית אינפיניון",
-     "published": "2026-11-10T09:49:00+00:00",
-     "summary": "ה-FDA הזהיר נוטלי תרופות הרזיה מפני סיכון לאובדן ראייה פתאומי ■ אסיה נסגרה בעליות; סופטבנק זינקה ב-14% לפני שהציגה הפסד רבעוני של 7 מיליארד דולר על רקע השקעות עתק ב-OpenAI ■ מחיר הנפט בשפל של יותר מחודשיים לאחר איתותים מטראמפ על סיום המלחמה ■ אנתרופיק הפיצה לבנקים תוכניות להנפקה של 70 מיליארד דולר - והתחרטה"
+     "title": "איתותי טראמפ על סיום המלחמה מפילים את מחיר הנפט לשפל של יותר מחודשיים",
+     "published": "2026-11-10T10:45:00+00:00",
+     "summary": "עליות של 1% באירופה; תחזית חזקה להכנסות ממרכזי נתונים מקפיצה את מניית אינפיניון; ה-FDA הזהיר נוטלי תרופות הרזיה מפני סיכון לאובדן ראייה פתאומי ■ אסיה נסגרה בעליות; סופטבנק זינקה ב-14% לפני שהציגה הפסד רבעוני של 7 מיליארד דולר על רקע השקעות עתק ב-OpenAI ■ אנתרופיק הפיצה לבנקים תוכניות להנפקה של 70 מיליארד דולר - והתחרטה"
     },
     {
      "ref": "themarker#1",
@@ -257,7 +263,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#7",
-     "title": "מתן כהנא ימונה ליו\"ר הכנסת; בראש ועדת הכספים: לירן אבישר בן חורין",
+     "title": "לנתניהו 4.4 מיליון עוקבים, לאיזנקוט 45 אלף, אבל הוא עושה לו בית ספר",
      "published": "2026-11-10T08:06:34+00:00"
     },
     {
@@ -370,39 +376,39 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "A Reined In Jensen Huang Is Nvidia’s Best Option",
+     "published": "2026-11-10T10:30:00+00:00",
+     "summary": "A more restrained chief would suit the chip giant well for the next phase of the AI boom."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Stoxx 600 on Track for Record Close as Oil Drop Buoys Sentiment",
      "published": "2026-11-10T10:14:00+00:00",
      "summary": "The Europe-wide Stoxx 600 index was on track to close at its first record high since August, as lower oil prices and a broader market recovery lifted stocks."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Dollar, Treasury Yields Rise After Fed’s Waller Backs December Rate Increase",
      "published": "2026-11-10T10:12:00+00:00",
      "summary": "The dollar turned higher after Fed Governor Christopher Waller said he would support raising interest rates by 25 basis points in December."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "Stock Market Today: Oil Prices Fall to $90 a Barrel on Trump Iran Comments; Investors Await CPI Report",
      "published": "2026-11-10T10:01:59+00:00",
      "summary": "Nvidia stock on course to recover some losses"
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Global Stocks Strengthen as Oil Dips Below $90 a Barrel",
      "published": "2026-11-10T09:38:00+00:00",
      "summary": "Stocks rose across the globe as benchmark oil prices briefly fell below $90 for the first time since August."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Gold Holds Above $4,100 on Softer Dollar, Oil Prices",
      "published": "2026-11-10T09:36:00+00:00",
      "summary": "Gold futures held above $4,100 supported by a weaker dollar and falling oil prices, which were helping to temper inflation concerns."
-    },
-    {
-     "ref": "wsj_markets#5",
-     "title": "Eurozone Bond Yields Slide, Treasury Yields Seek Direction Ahead of CPI Data",
-     "published": "2026-11-10T09:24:00+00:00",
-     "summary": "Treasury yields were little changed on Tuesday as investors awaited U.S. consumer-price inflation data for October, while eurozone bond yields fell sharply as oil prices retreated."
     },
     {
      "ref": "wsj_markets#6",
@@ -472,51 +478,51 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "wsj_markets#17",
+     "title": "Tech, Media & Telecom Roundup: Market Talk",
+     "published": "2026-11-09T21:58:00+00:00",
+     "summary": "Find insight on Meta Platforms, Nvidia, Anthropic, Constellation Software and more in the latest Market Talks covering Technology, Media and Telecom."
+    },
+    {
+     "ref": "wsj_markets#18",
      "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
      "published": "2026-11-09T21:49:00+00:00",
      "summary": "Even if the woman Huang had an affair with isn’t a spy, a relationship with an executive of a major customer should matter to shareholders."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "Oil Futures Extend Retreat on Middle East Peace Hopes",
      "published": "2026-11-09T21:38:00+00:00",
      "summary": "Oil futures settled at their lowest level since Aug. 31 after President Trump said it was unlikely the U.S. would renew attacks on Iran as long as talks continue to progress."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "U.S. Stocks Climb as Investors Regain Confidence",
      "published": "2026-11-09T21:26:00+00:00",
      "summary": "Stocks surged as investors regained confidence that the midterm election results will be positive for the economy following a sharp selloff last week."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#21",
      "title": "Nvidia Stock Slides After Chip Maker Opens Probe",
      "published": "2026-11-09T21:21:00+00:00",
      "summary": "Plus, Dow jumps more than 1,000 points, Nasdaq rallies."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#22",
      "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
      "published": "2026-11-09T21:12:00+00:00",
      "summary": "The Claude maker is braving investor nerves around artificial intelligence and an Nvidia investigation."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
      "published": "2026-11-09T20:50:00+00:00",
      "summary": "Oil prices fell after President Trump downplayed the prospect of further U.S. strikes on Iran, even as attacks on Saudi Arabia and fresh incidents involving tankers in the Strait of Hormuz highlighted continuing risks to Middle Eastern oil supplies."
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "U.S. Stocks Leap Despite Nvidia Slide",
      "published": "2026-11-09T19:29:00+00:00",
      "summary": "U.S. stocks jumped, even as Nvidia’s shares sank after the company’s board launched an investigation into CEO Jensen Huang."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
-     "published": "2026-11-09T19:28:00+00:00",
-     "summary": "Measures against the Jewish state’s banks could damage the financial-services industry in the British territory."
     }
    ]
   }
@@ -524,9 +530,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4064.0601,
+   "last": 4067.97,
    "prev_close": 4013.5,
-   "change_pct": 1.26,
+   "change_pct": 1.36,
    "as_of": "2026-11-10"
   },
   "SP500": {
@@ -538,23 +544,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1561,
+   "last": 3.1606,
    "prev_close": 3.1849,
-   "change_pct": -0.91,
+   "change_pct": -0.76,
    "as_of": "2026-11-10"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 89.66,
+   "last": 90.38,
    "prev_close": 92.57,
-   "change_pct": -3.14,
+   "change_pct": -2.37,
    "as_of": "2026-11-10"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 74211.4688,
+   "last": 74148.3594,
    "prev_close": 75223.1484,
-   "change_pct": -1.34,
+   "change_pct": -1.43,
    "as_of": "2026-11-10"
   }
  },

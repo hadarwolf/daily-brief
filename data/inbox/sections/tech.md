@@ -178,61 +178,61 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "published": "2026-11-10T06:01:08+00:00",
-     "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 289 # Comments: 93"
+     "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 307 # Comments: 104"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
      "published": "2026-11-10T03:20:06+00:00",
-     "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 150 # Comments: 110"
+     "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 159 # Comments: 115"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Locating the source of a mysterious beep",
      "published": "2026-11-10T00:10:46+00:00",
-     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 198 # Comments: 87"
+     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 206 # Comments: 91"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Horible public key tricks",
      "published": "2026-11-10T00:07:17+00:00",
-     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 167 # Comments: 49"
+     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 173 # Comments: 53"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Fable 5.2 one-shotted my nephew's dream game",
      "published": "2026-11-09T23:08:13+00:00",
-     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 399 # Comments: 293"
+     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 406 # Comments: 321"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "USPS now offers official ZIP Code boundary polygons",
      "published": "2026-11-09T19:58:59+00:00",
-     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 622 # Comments: 318"
+     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 623 # Comments: 318"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "E-means: Outperforming k-means in one-tenth the epochs",
      "published": "2026-11-09T18:45:43+00:00",
-     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 404 # Comments: 37"
+     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 405 # Comments: 41"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Google Gemini routes personal Drive files and emails to human annotators",
      "published": "2026-11-09T18:24:38+00:00",
-     "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 606 # Comments: 129"
+     "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 617 # Comments: 130"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "published": "2026-11-09T18:01:10+00:00",
-     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 603 # Comments: 803"
+     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 622 # Comments: 818"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Muse Ember: Our smallest, most efficient model",
      "published": "2026-11-09T17:58:46+00:00",
-     "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 301 # Comments: 125"
+     "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 304 # Comments: 127"
     },
     {
      "ref": "hn_frontpage#10",
@@ -244,19 +244,19 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#11",
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "published": "2026-11-09T16:00:45+00:00",
-     "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 532 # Comments: 287"
+     "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 532 # Comments: 289"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
      "published": "2026-11-09T14:31:39+00:00",
-     "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 316 # Comments: 211"
+     "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 317 # Comments: 215"
     },
     {
      "ref": "hn_frontpage#13",
      "title": "Foldable Flight: The Best Paper Airplanes",
      "published": "2026-11-09T12:19:22+00:00",
-     "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1032 # Comments: 152"
+     "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1039 # Comments: 152"
     }
    ]
   },
