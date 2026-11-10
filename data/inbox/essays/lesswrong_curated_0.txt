@@ -120,18 +120,6 @@ I think it's pretty hard to write pieces like this in a way that is detailed, no
 
 I agree and was grateful to read the post. Thanks for writing it.
 
-asking why Anthropic and OpenAI both came up with the same character for their language model assistant - a traumatized bureaucrat. Out of all the personas in all of human literature, why that one?
-
-From inside the factory, the answer is obvious. It is the persona most useful to the powerful.
-
-I feel this. Watching the story of LLMs unfold, it really got to me that we built a world-changing technology by training a transformer to model the entire historical corpus of human writing, up through the internet, and the first instinct of the people in charge was to carve away at it so that nobody could use it to sample from any of the sub-distributions that they didn't like. RLHF[1] coming before RLVR[2] struck me as outright cartoonish.
-
-Felt like an allegory from a particularly heavy-handed piece of science fiction.
-
-Motivated be a desire to make LLMs not say naughty things
-
-Motivated by a desire to make LLMs useful to mathematicians and programmers
-
 I have a significant amount of uncertainty about the following opinion, but I think it's possibly something that should be said re. this post.
 
 I think this post has a very high amount of karma for what it is, and this leads me to suspect that people are upvoting it based on emotional reactions.
@@ -145,6 +133,18 @@ I believe that exactly this subset of people should be extra careful of negative
 If I had to pick a specific aspect of the OP I'd like to hear other opinions on, it's the "Traumatized Bureaucrat" concept. I didn't know before today that Ivan Vendrov is the person who AFAICT popularized this concept in the first place. I am personally quite unsure of whether this concept has positive informational value, or if it's a hostile meme.
 
 To be clear, I don't think that the OP is not valuable, or that it should not have posted it. I'm glad that it was posted. I just see something wanting in the reception.
+
+asking why Anthropic and OpenAI both came up with the same character for their language model assistant - a traumatized bureaucrat. Out of all the personas in all of human literature, why that one?
+
+From inside the factory, the answer is obvious. It is the persona most useful to the powerful.
+
+I feel this. Watching the story of LLMs unfold, it really got to me that we built a world-changing technology by training a transformer to model the entire historical corpus of human writing, up through the internet, and the first instinct of the people in charge was to carve away at it so that nobody could use it to sample from any of the sub-distributions that they didn't like. RLHF[1] coming before RLVR[2] struck me as outright cartoonish.
+
+Felt like an allegory from a particularly heavy-handed piece of science fiction.
+
+Motivated be a desire to make LLMs not say naughty things
+
+Motivated by a desire to make LLMs useful to mathematicians and programmers
 
 I am very new to LessWrong and am so far just an occasional lurker, but this post really caught my attention. Just want to say that somehow these early Anthropic anecdotes remind me of that 1994 episode of California Dreams where Tiffani starts taking steroids to live up to expectations for a school athlete, and she starts raging and hulking out when her steroid use gets out of control.
 

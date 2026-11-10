@@ -92,78 +92,84 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מיליון דולר בשנה",
+     "published": "2026-11-10T09:55:18+00:00",
+     "summary": "לפני כשנה וחצי רכשה Wix את Base44, סטארטאפ ישראלי צעיר שהוקם כמה חודשים לפני, ב-80 מיליון דולר. אבל מה שנראה אז בעיקר כאקזיט חלומי ליזם מאור שלמה, מתברר עכשיו, עם פרסום הדוחות הרבעוניים של וויקס, כאחד המהלכים האסטרטגיים והחשובים שוויקס עשתה בשנים האחרונות. עסקה חלומית לכולם על פי הדוחות הרבעוניים של וויקס לרבעון השלישי של […] The post וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מ"
+    },
+    {
+     "ref": "geektime#1",
      "title": "מטא פותחת מחזור חדש לתוכנית הסטארטאפים שלה בישראל, וכדאי שתזדרזו להירשם",
      "published": "2026-11-10T09:27:47+00:00",
      "summary": "חברת Meta פתחה את ההרשמה למחזור השני של Meta Startup Growth Program – תוכנית לליווי סטארטאפים ישראליים בשלבים מוקדמים, המתמקדת בצמיחה והתרחבות לשווקים בינלאומיים. המשתתפים יפגשו עם מומחי החברה מהארץ ומהעולם, ישתתפו בסדנאות מקצועיות ויקבלו שעות ייעוץ אישיות. התוכנית מיועדת לסטארטאפים B2C שכבר מציגים פעילות ראשונית בשוק, מתמקדים בצמיחה גלובלית ושואפים להרחיב את פעילותם לשווקים […] The post מטא פותחת"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#2",
      "title": "ג'יימס גאן התפוטר מתפקידו ב-DC Studios – וקשה לנו להיראות מופתעים",
      "published": "2026-11-10T08:43:14+00:00",
      "summary": "בעוד קצת יותר מחודש סביר להניח שכל עולם הגיקים ידבר רק על Avengers: Doomsday, אבל עד אז יש לנו דרמה אחרת: הלילה (ב') נודע כי ג'יימס גאן ופיטר ספרן \"עוזבים\" את תפקידיהם כמנכ\"לים משותפים ומנהלי אולפני DC Studios. אז מה קרה שם ולמה לדעתנו DC מראה לגאן את הדלת? הכישלונות וההצלחות של גאן גאן מונה […] The post ג'יימס גאן התפוטר מתפקידו ב-DC Studios – וקשה לנו להיראות מופתעים appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#3",
      "title": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
      "published": "2026-11-10T07:04:47+00:00",
      "summary": "קשה להפריז בכוחה של אנבידיה בשנים האחרונות, וזה ממש לא רק שווי השוק המטורף (והמשחק עם אפל על מי החברה בעלת השווי הגבוה בעולם). השבבים של החברה הם תשתית ה-AI העולמית, ואיפשהו גם התקן העולמי שכמעט כל החברות מתיישרות אליו, כך שהדרישה למוצרים של החברה עולה כבר שנים על קצב הייצור שלה. לכן, כשהתפוצצה פרשת […] The post פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג? appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#4",
      "title": "עוד 29 מיליון דולר לסטארטאפ הישראלי שמאפשר לכל אחד לפרסם ספר",
      "published": "2026-11-09T14:00:43+00:00",
      "summary": "יום אחד מישהו יכתוב ספר על כמה שזה קשה להוציא ספר לאור. עד אז, יש סטארטאפ ישראלי שמנסה לעזור לסופרים להפוך את תהליך ההפקה, ההפצה ואפילו השיווק של הספרים שלהם – מתהליך של יותר משנה לכזה שאורך שבועות ספורים. היום (ב') הוא מודיע גם על גיוס של 29 מיליון דולר. תנו לאייג'נטס להוציא לאור Spines […] The post עוד 29 מיליון דולר לסטארטאפ הישראלי שמאפשר לכל אחד לפרסם ספר appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#5",
      "title": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
      "published": "2026-11-09T13:29:17+00:00",
      "summary": "אם אתם משתמשים בסוכני AI בארגון, כנראה שאתם כבר סומכים עליהם עם לא מעט מידע רגיש כדי שיבצעו עבורכם פעולות מורכבות. אבל מחקר חדש של חברת אבטחת המידע הישראלית Profero חושף היום (ב') שורה של חולשות אבטחה ב-Grok Bot, סוכן ה-AI מבית xAI של אילון מאסק. החולשות הללו עלולות לאפשר לכאורה לתוקפים להשתלט על סביבת […] The post החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה appear"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#6",
      "title": "בכנס הזה תלמדו איך מחברים AI לדאטה שלכם בלי שורת SQL אחת",
      "published": "2026-11-09T12:40:47+00:00",
      "summary": "השלב הבא ב-AI הוא להפוך את המודלים לחלק בלתי נפרד מהמערכות, התהליכים הארגוניים וסביבת העבודה: לחבר אותו לדאטה אמיתי, לאפשר לו לבצע פעולות, להניע תהליכים ולקבל החלטות מבוססות מידע. אבל איך עוברים מדמו מרשים למערכת שעובדת בפרודקשן, מתממשקת לתשתיות קיימות ועומדת בדרישות האבטחה וה-Governance של הארגון? השאלה הזאת היא המקום שבו מתחיל האתגר ההנדסי האמיתי. […] The post בכנס הזה תלמדו איך מחברים AI לדאטה "
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#7",
      "title": "חורים בפנסיה: לאן נעלמים 7,000 שקל בחודש מהשכר של ההייטקיסטים?",
      "published": "2026-11-09T09:59:07+00:00",
      "summary": "מאת אור אייזנברג לצפות בצבע מתייבש… לקרוא תנאי שימוש של תוכנה… לראות אקסל של רואה חשבון… יש כמה דברים משעממים במיוחד, וגם הם, כך נדמה, לא מתקרבים להתעסקות בפנסיה. ואנחנו איתכם: מושגים כמו שכר מבוטח, תשואות, דמי ניהול והפרשות מעסיק הם ההגדרה המילונית ל-50 גוונים של אפור. העניין הוא שהסיפור הזה שווה לכם המון כסף, […] The post חורים בפנסיה: לאן נעלמים 7,000 שקל בחודש מהשכר של ההייטקיסטים? appeared fi"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#8",
      "title": "המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים",
      "published": "2026-11-09T08:13:18+00:00",
      "summary": "יותר משנתיים אחרי ההכרזה המקורית, אפל סוף סוף השיקה השנה את Siri AI, הגרסה החדשה של העוזרת האישית שלה. אולם כעת כשיש לה עוזרת מודרנית והרבה יותר חכמה, היא הגיעה לשלב שבו היא מבינה שהיא כבר לא יכולה לנוח על זרי הדפנה, כיוון שבכל פעם שאתה משחק תופסת עם המתחרים בשוק ה-AI, המשחק משתנה לך […] The post המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#9",
      "title": "\"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי אנבידיה הלילה",
      "published": "2026-11-09T05:29:17+00:00",
      "summary": "הלילה דווח שאנבידיה פתחה בחקירה רשמית לגבי קשריו של המייסד והמנכ\"ל האגדי שלה, ג'נסן הואנג, עם אליס הואנג, מנהלת בכירה בחברת Megaspeed, ועל פי החשד, סוכנת של ממשלת סין. במקביל, הואנג הודה ברומן במכתב ששלח לעובדי החברה. הנה תרגום של המייל המלא. \"אין שום תירוץ למה שעשיתי\" לעמיתיי באנבידיה, אני חייב למשפחתי ולכולכם התנצלות. לא […] The post \"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי "
     },
     {
-     "ref": "geektime#9",
+     "ref": "geektime#10",
      "title": "ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פתח בחקירה",
      "published": "2026-11-08T20:33:45+00:00",
      "summary": "רק לפני כמה ימים נחשפה פרשת הריגול הסיני שמסעירה את NVIDIA, ובמרכזה החשד שמנהלת בכירה בחברה סינגפורית גויסה על ידי המודיעין הסיני כדי להתקרב למנכ\"ל החברה, ג'נסן הואנג, ולהוציא ממנו מידע רגיש. אחרי הדיווחים כי בין השניים היה רומן, הערב (א') מנכ\"ל ענקית השבבים הודה בפני עובדי החברה כי ניהל רומן מחוץ לנישואים, בזמן שדירקטוריון […] The post ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פ"
     },
     {
-     "ref": "geektime#10",
+     "ref": "geektime#11",
      "title": "שר האוצר הבא, רוצה להשאיר פה את ההייטק? תתחיל במס האופציות",
      "published": "2026-11-08T16:45:34+00:00",
      "summary": "עם סיום הבחירות וההיערכות להקמת ממשלה חדשה, שר האוצר הבא יידרש לקבל שורה של החלטות כלכליות משמעותיות. אחת הראשונות שבהן צריכה להיות הסרתן מסדר היום של היוזמות להעלאת המס על אופציות המוענקות לעובדי הייטק. דווקא עכשיו, כאשר ענף ההייטק הישראלי מתמודד עם אי-ודאות גיאופוליטית ואתגרים בגיוס השקעות, הדבר האחרון שהוא זקוק לו הוא חוסר ודאות […] The post שר האוצר הבא, רוצה להשאיר פה את ההייטק? תתחיל במס האו"
     },
     {
-     "ref": "geektime#11",
+     "ref": "geektime#12",
      "title": "צפרתם בתל אביב? מערכת חדשה תזהה ותשלח לכם קנס אוטומטית",
      "published": "2026-11-08T14:12:23+00:00",
      "summary": "אמנם עברית היא השפה הרשמית במדינת ישראל, אולם נדמה שיש שפה יותר פופולרית: צפירות. בכל זאת, איך עוד הנהג שמאחוריכם יעדכן אתכם שלפני 3 מילישניות הרמזור התחלף לירוק ואתם עוד לא נוסעים בפול גז לתוך צומת חסום? איך עוד הנהג הישראלי יודיע לחבר שלו שהוא מחכה לו מתחת לבית? איך עוד נהגי אוטובוס שחולפים אחד […] The post צפרתם בתל אביב? מערכת חדשה תזהה ותשלח לכם קנס אוטומטית appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#12",
+     "ref": "geektime#13",
      "title": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
      "published": "2026-11-08T09:58:48+00:00",
      "summary": "מאת אריאל עוז דמיינו סוכן AI שמקבל גישה למערכות הארגון. הוא שולף נתונים, קורא מסמכים, כותב שאילתות SQL ואפילו מבצע פעולות בעצמו. עכשיו בקשו ממנו לחשב את הכנסות החברה ברבעון האחרון. הוא ימצא את הנתונים ויחזיר מספר מדויק, אולי אפילו בגרף מרשים. רק שיש בעיה קטנה: הוא השתמש בהגדרה הלא נכונה של הכנסה, התעלם מהחרגה […] The post למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה? appeared first on גי"
@@ -178,55 +184,55 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "published": "2026-11-10T06:01:08+00:00",
-     "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 248 # Comments: 81"
+     "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 265 # Comments: 83"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Locating the source of a mysterious beep",
      "published": "2026-11-10T00:10:46+00:00",
-     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 176 # Comments: 77"
+     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 184 # Comments: 79"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Horible public key tricks",
      "published": "2026-11-10T00:07:17+00:00",
-     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 159 # Comments: 47"
+     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 164 # Comments: 47"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Fable 5.2 one-shotted my nephew's dream game",
      "published": "2026-11-09T23:08:13+00:00",
-     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 389 # Comments: 269"
+     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 391 # Comments: 277"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "USPS now offers official ZIP Code boundary polygons",
      "published": "2026-11-09T19:58:59+00:00",
-     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 617 # Comments: 311"
+     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 617 # Comments: 314"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "E-means: Outperforming k-means in one-tenth the epochs",
      "published": "2026-11-09T18:45:43+00:00",
-     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 397 # Comments: 37"
+     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 400 # Comments: 37"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Google Gemini routes personal Drive files and emails to human annotators",
      "published": "2026-11-09T18:24:38+00:00",
-     "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 591 # Comments: 128"
+     "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 598 # Comments: 129"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "published": "2026-11-09T18:01:10+00:00",
-     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 567 # Comments: 785"
+     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 578 # Comments: 793"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Muse Ember: Our smallest, most efficient model",
      "published": "2026-11-09T17:58:46+00:00",
-     "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 298 # Comments: 123"
+     "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 299 # Comments: 124"
     },
     {
      "ref": "hn_frontpage#9",
@@ -238,19 +244,19 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#10",
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "published": "2026-11-09T16:00:45+00:00",
-     "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 530 # Comments: 285"
+     "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 531 # Comments: 286"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
      "published": "2026-11-09T14:31:39+00:00",
-     "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 312 # Comments: 207"
+     "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 315 # Comments: 209"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Foldable Flight: The Best Paper Airplanes",
      "published": "2026-11-09T12:19:22+00:00",
-     "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1015 # Comments: 149"
+     "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1018 # Comments: 151"
     }
    ]
   },

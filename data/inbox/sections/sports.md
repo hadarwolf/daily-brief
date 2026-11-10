@@ -548,39 +548,39 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#10",
+     "title": "The fans at the FA Cup game no-one could see",
+     "published": "2026-11-10T06:00:05+00:00",
+     "summary": "Thick fog left Notts County fans unable to see parts of the Magpies' FA Cup win over Altrincham."
+    },
+    {
+     "ref": "bbc_football#11",
      "title": "Injuries, noise & scalps - Wrexham's season so far",
      "published": "2026-11-10T04:13:48+00:00",
      "summary": "Wrexham have had a slow start to the season and some off-field turbulence but having steadied the ship could they be on track for the play-offs?"
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#12",
      "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
      "published": "2026-11-10T00:13:13+00:00",
      "summary": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Man Utd expected to sack head coach Carrick",
      "published": "2026-11-09T23:13:31+00:00",
      "summary": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Brady ends association with Birmingham City",
      "published": "2026-11-09T22:18:17+00:00",
      "summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
      "published": "2026-11-09T22:10:22+00:00",
      "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic."
-    },
-    {
-     "ref": "bbc_football#15",
-     "title": "BBC Women's Football Weekly",
-     "published": "2026-11-09T21:46:00+00:00",
-     "summary": "Ellen and Ben are on location with the London City Lionesses and Spain defender!"
     },
     {
      "ref": "bbc_football#16",
@@ -590,51 +590,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#17",
+     "title": "BBC Women's Football Weekly",
+     "published": "2026-11-09T21:46:00+00:00",
+     "summary": "Ellen and Ben are on location with the London City Lionesses and Spain defender!"
+    },
+    {
+     "ref": "bbc_football#18",
      "title": "NI's O'Neill ruled out of Nations League matches",
      "published": "2026-11-09T21:44:23+00:00",
      "summary": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
      "published": "2026-11-09T21:39:37+00:00",
      "summary": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "Football Daily",
      "published": "2026-11-09T21:33:00+00:00",
      "summary": "White opens up about his England departure, will Sage get sacked & will Frank come in?"
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "Atletico target Zubimendi move - Tuesday's gossip",
      "published": "2026-11-09T21:13:37+00:00",
      "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "People don't know full story behind England exile - White",
      "published": "2026-11-09T19:00:10+00:00",
      "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Kane and Bellingham air strong views in England World Cup review",
      "published": "2026-11-09T17:30:23+00:00",
      "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Wilson eyeing survival step as Wales tackle Norway",
      "published": "2026-11-09T17:21:28+00:00",
      "summary": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
-     "published": "2026-11-09T17:10:00+00:00",
-     "summary": "Watch the best of the action as Hibernian thrash Aberdeen 4-0 in what would proved to be Stephen Robinson's final match in charge."
     }
    ]
   },
