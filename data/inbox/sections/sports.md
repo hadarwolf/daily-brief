@@ -516,7 +516,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "bbc_football#0",
      "title": "Man Utd open talks with Pochettino about replacing Carrick",
-     "published": "2026-11-11T08:58:58+00:00",
+     "published": "2026-11-11T09:11:28+00:00",
      "summary": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job."
     },
     {
@@ -737,87 +737,87 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#11",
-     "title": "Messi's Inter Miami Book Playoffs With 2-0 Win Over New York City - Sarawak Tribune",
-     "published": "2026-11-10T05:18:41+00:00",
-     "summary": "Messi's Inter Miami Book Playoffs With 2-0 Win Over New York City Sarawak Tribune"
-    },
-    {
-     "ref": "gnews_inter_miami#12",
      "title": "Messi makes MLS history - Altoona Mirror",
      "published": "2026-11-10T04:40:01+00:00",
      "summary": "Messi makes MLS history Altoona Mirror"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#12",
      "title": "Is Lionel Messi the obvious option for MLS MVP? - Yahoo Sports",
      "published": "2026-11-09T23:30:25+00:00",
      "summary": "Is Lionel Messi the obvious option for MLS MVP? Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "Messi’s Not Heading Back to Argentina in 2027! Inter Miami Is Still His Home - Soy Futbol",
      "published": "2026-11-09T23:25:12+00:00",
      "summary": "Messi’s Not Heading Back to Argentina in 2027! Inter Miami Is Still His Home Soy Futbol"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "DC United closes out 7th consecutive losing season - Baltimore Sun",
      "published": "2026-11-09T19:58:29+00:00",
      "summary": "DC United closes out 7th consecutive losing season Baltimore Sun"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Gulf News",
      "published": "2026-11-09T19:21:07+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Messi voted to World XI by players again as Spain dominates men’s and women’s lineups - Sun Sentinel",
      "published": "2026-11-09T19:21:04+00:00",
      "summary": "Messi voted to World XI by players again as Spain dominates men’s and women’s lineups Sun Sentinel"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Called Up: Seven Inter Miami CF Players Set for November International Duty - Inter Miami CF",
      "published": "2026-11-09T18:07:23+00:00",
      "summary": "Called Up: Seven Inter Miami CF Players Set for November International Duty Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami CF Hosts 2026 Edition of Annual Media Appreciation Day and Copa de Medios - beIN SPORTS",
      "published": "2026-11-09T18:01:48+00:00",
      "summary": "Inter Miami CF Hosts 2026 Edition of Annual Media Appreciation Day and Copa de Medios beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Germán Berterame scores goal for Inter Miami CF - ESPN",
      "published": "2026-11-09T17:53:11+00:00",
      "summary": "Germán Berterame scores goal for Inter Miami CF ESPN"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Oskaloosa Herald",
      "published": "2026-11-09T17:45:05+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Oskaloosa Herald"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "It’s Miami Time presented by Royal Caribbean: Schedule Announced for Audi 2026 MLS Cup Playoffs Round One Series Against Columbus Crew - WebWire",
      "published": "2026-11-09T17:34:09+00:00",
      "summary": "It’s Miami Time presented by Royal Caribbean: Schedule Announced for Audi 2026 MLS Cup Playoffs Round One Series Against Columbus Crew WebWire"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Bozeman Daily Chronicle",
      "published": "2026-11-09T17:21:00+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Bozeman Daily Chronicle"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami brings media together at Nu Stadium for Copa de Medios - MARCA",
      "published": "2026-11-09T17:14:01+00:00",
      "summary": "Inter Miami brings media together at Nu Stadium for Copa de Medios MARCA"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Lionel Messi makes final decision on leaving Inter Miami as Argentina return rumors grow - https://latination.com/",
+     "published": "2026-11-09T17:10:19+00:00",
+     "summary": "Lionel Messi makes final decision on leaving Inter Miami as Argentina return rumors grow https://latination.com/"
     }
    ]
   },
@@ -839,9 +839,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#2",
-     "title": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder - Field Level Media",
-     "published": "2026-11-11T07:13:08+00:00",
-     "summary": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder Field Level Media"
+     "title": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder - Hilton Head Island Packet",
+     "published": "2026-11-11T06:51:00+00:00",
+     "summary": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder Hilton Head Island Packet"
     },
     {
      "ref": "gnews_israeli_nba#3",
@@ -857,48 +857,36 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#5",
-     "title": "Deni Avdija gets the and-1 to fall for Trail Blazers - ESPN",
-     "published": "2026-11-11T05:03:49+00:00",
-     "summary": "Deni Avdija gets the and-1 to fall for Trail Blazers ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#6",
      "title": "Avdija Nominated for Western Conference Player of the Week - Blazer's Edge",
      "published": "2026-11-10T03:16:00+00:00",
      "summary": "Avdija Nominated for Western Conference Player of the Week Blazer's Edge"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#6",
      "title": "Should I Trade Braden Smith for Deni Avdija? | Fantasy Basketball - FantasyPros",
      "published": "2026-11-09T06:52:00+00:00",
      "summary": "Should I Trade Braden Smith for Deni Avdija? | Fantasy Basketball FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#7",
      "title": "Should I Trade Ben Saraf for Cody Martin? | Fantasy Basketball - FantasyPros",
      "published": "2026-11-09T00:28:25+00:00",
      "summary": "Should I Trade Ben Saraf for Cody Martin? | Fantasy Basketball FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#8",
      "title": "Nets’ Egor Dëmin progressing but ruled out against Mavericks; Ben Saraf shines in G League - New York Daily News",
      "published": "2026-11-08T15:25:28+00:00",
      "summary": "Nets’ Egor Dëmin progressing but ruled out against Mavericks; Ben Saraf shines in G League New York Daily News"
     },
     {
-     "ref": "gnews_israeli_nba#10",
-     "title": "Victor Wembanyama scores 29 points in Spurs' massive win over Blazers - MySA",
-     "published": "2026-11-08T14:57:42+00:00",
-     "summary": "Victor Wembanyama scores 29 points in Spurs' massive win over Blazers MySA"
-    },
-    {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#9",
      "title": "Trail Blazers' Deni Avdija: Poor shooting performance - CBS Sports",
      "published": "2026-11-08T14:25:37+00:00",
      "summary": "Trail Blazers' Deni Avdija: Poor shooting performance CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#10",
      "title": "Deni Avdija News: Poor shooting performance - RotoWire",
      "published": "2026-11-08T14:25:37+00:00",
      "summary": "Deni Avdija News: Poor shooting performance RotoWire"
