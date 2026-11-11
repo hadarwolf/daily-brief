@@ -149,81 +149,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "UK fact of the day",
+     "published": "2026-11-11T07:51:15+00:00",
+     "summary": "UK panel data, 1991-2019. Couples who support different parties separate more often. The effect is as strong as some other mismatches, like education. Disagreement over Brexit mattered even more than party preference. Here is a longer Nikolaus Haufler thread on European fertility, with a variety of interesting observations about other countries. The post UK fact of the day appeared first on Margin"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Spying makes a comeback",
+     "published": "2026-11-11T05:55:45+00:00",
+     "summary": "That is the theme of my latest Free Press article, here is one excerpt: It may look like merely the latest story of a wealthy, powerful man making an irresponsible decision. But below the surface, it is also a harbinger of the erosion of privacy today, as well as the acceleration of espionage and the […] The post Spying makes a comeback appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Are RCTs underpowered?",
      "published": "2026-11-10T20:05:26+00:00",
      "summary": "Maybe so: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark of 2.8 expected under 80 percent power, though above values […] The post"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Tuesday assorted links",
      "published": "2026-11-10T16:50:08+00:00",
      "summary": "1. AI as a normal technology. 2. Hayek for our time, by Cass Sunstein, free download for two weeks. 3. Works in Progress is looking for business and finance writers. 4. Matthew Lilley on Harvard grad students. I believe they teach the permanent income hypothesis there? 5. Ethan Mollick on Fable 5.2. 6. John Cochrane […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Checking the AI audit of Saez and Zucman’s research.",
      "published": "2026-11-10T11:32:14+00:00",
      "summary": "From SaneCite: We checked the anonymous AI audit of Emmanuel Saez and Gabriel Zucman’s research that Marginal Revolution featured on 28 Oct: all 147 problems it calls serious enough to change a headline number, against the papers, their sources and the authors’ own data. The audit’s facts hold up: for 131 of the 147, every […] The post Checking the AI audit of Saez and Zucman’s research. appeared "
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "*Godzilla: Minus Zero* (no spoilers)",
      "published": "2026-11-10T08:24:18+00:00",
      "summary": "This is a morally serious movie (really). And Ghidorah stars! The whole thing is about twenty minutes too long, but mostly very good. And like many in the Godzilla series, it offers extended and instructive commentary on American-Japanese relations, and how the Japanese view them. Not for everyone, but I am glad I went. The post *Godzilla: Minus Zero* (no spoilers) appeared first on Marginal REVOL"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "*Unbeatable: The Brutally Honest Case for Free Markets*",
      "published": "2026-11-10T05:39:10+00:00",
      "summary": "That is the new and forthcoming book from Bryan Caplan, University of Chicago Press. Excerpt: Real-world free markets deliver one broad benefit that flies under the radar of economic theory: They shield humanity from its own Social Desirability Bias. Markets do the good things that sounds bad. Good things like driving incompetent, unresponsive, and obsolete […] The post *Unbeatable: The Brutally H"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Monday assorted links",
      "published": "2026-11-09T17:42:35+00:00",
      "summary": "1. What WWII looked like, four and a half minute video. 2. Intellectual Deep Web, YouTube channel. 3. Complete works of Schelling, and no I do not mean Thomas. 4. What the French Left is proposing. 5. How much AI could the CEA manage? 6. Douthat! 7. Andrew Maxfield, Stations of the Cross, vocal music. The post Monday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "End the State Veto on Power Lines",
      "published": "2026-11-09T12:18:45+00:00",
      "summary": "It’s one of the peculiarities of American regulatory history that a natural gas pipeline can cross state lines with a single federal permit, but oil and electricity must run a gauntlet of state approvals. When a power line crosses one state to reach another, for example, the intervening state often imposes exorbitant tolls or, worse, […] The post End the State Veto on Power Lines appeared first on"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "The economics of honeypots",
      "published": "2026-11-09T11:35:02+00:00",
      "summary": "Of course as an economist I am always wondering what the equilibrium is. And, in this case, what is the scarce factor? It seems that in the case under current consideration, the returns to honeypotting are very high for somebody. Maybe for China, maybe for the shorts, or maybe for parts of the Deep State […] The post The economics of honeypots appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Seb Krier, Ricardian?",
      "published": "2026-11-09T07:21:09+00:00",
      "summary": "Here is the initial post. In the comments Michael Wiebe notes: “So progress per R&D dollar fell by 63%, even while progress per year doubled.” File under: David Ricardo, underrated. The post Seb Krier, Ricardian? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "The Paraguayan bank story",
      "published": "2026-11-09T05:27:57+00:00",
      "summary": "Despite its weaknesses, Paraguay’s young democracy was still able to deliver under stress. Its free, boisterous press was the first to sound the alarm about Peña’s shenanigans. The Central Bank’s supervision chief did his job: he examined ueno’s numbers and recommended blocking the sale of its bad loans to a related company (Peña had appointed […] The post The Paraguayan bank story appeared first "
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Sunday assorted links",
      "published": "2026-11-08T17:06:45+00:00",
      "summary": "1. Among the Wagner fanatics. 2. Does AI instead commodify jobs? 3. The digital world is making Islam more diverse (The Economist). 4. “An affair with an economist exposed the calculus of modern dating.” (New Yorker) 5. “How Much Economic Value Do AI Systems Produce per Unit of Energy?” 6. John Gray will be writing […] The post Sunday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "The Pope probably knows this song",
-     "published": "2026-11-08T07:30:49+00:00",
-     "summary": "The post The Pope probably knows this song appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "What I’ve been reading",
-     "published": "2026-11-08T05:46:05+00:00",
-     "summary": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the mainstream view these days? Excerpt: “For all of Szasz’s rhetorical flair and provocation, he […] The post What I’ve been reading appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -333,8 +333,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#1",
      "title": "Did Life Begin in an RNA World?",
      "published": "2026-11-09T15:20:29+00:00",
-     "summary": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_1.txt"
+     "summary": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#2",

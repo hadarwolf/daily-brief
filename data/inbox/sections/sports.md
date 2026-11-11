@@ -370,26 +370,26 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    {
     "home": "Phoenix Suns",
     "away": "LA Clippers",
-    "score": "83-56",
-    "status": "3rd Qtr"
+    "score": "133-110",
+    "status": "Final"
    },
    {
     "home": "Utah Jazz",
     "away": "Miami Heat",
-    "score": "54-64",
-    "status": "2nd Qtr"
+    "score": "109-115",
+    "status": "Final"
    },
    {
     "home": "Sacramento Kings",
     "away": "Orlando Magic",
-    "score": "20-31",
-    "status": "1st Qtr"
+    "score": "100-107",
+    "status": "Final"
    },
    {
     "home": "Portland Trail Blazers",
     "away": "Oklahoma City Thunder",
-    "score": null,
-    "status": "2026-11-11T04:00:00Z"
+    "score": "123-103",
+    "status": "Final"
    }
   ],
   "games_today": [
@@ -515,153 +515,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Man Utd open talks with Pochettino about replacing Carrick",
+     "published": "2026-11-11T08:58:58+00:00",
+     "summary": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "NI can draw on strong club form in key window",
+     "published": "2026-11-11T08:09:02+00:00",
+     "summary": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars."
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
+     "published": "2026-11-11T08:00:14+00:00",
+     "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane."
+    },
+    {
+     "ref": "bbc_football#3",
+     "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
+     "published": "2026-11-11T08:00:14+00:00",
+     "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane."
+    },
+    {
+     "ref": "bbc_football#4",
+     "title": "Podcast: What’s going wrong at Hearts?",
+     "published": "2026-11-11T08:00:00+00:00",
+     "summary": "Why are Hearts conceding so many goals and how do they stop the slide?"
+    },
+    {
+     "ref": "bbc_football#5",
+     "title": "Wimmer among Aberdeen applicants - gossip",
+     "published": "2026-11-11T07:40:54+00:00",
+     "summary": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day..."
+    },
+    {
+     "ref": "bbc_football#6",
+     "title": "From Jersey to Somalia... via Liverpool & Man City",
+     "published": "2026-11-11T07:13:52+00:00",
+     "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls."
+    },
+    {
+     "ref": "bbc_football#7",
+     "title": "Who am I? Plus today's other quizzes",
+     "published": "2026-11-11T06:47:18+00:00",
+     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+     "ref": "bbc_football#8",
+     "title": "Does Pickford finally face serious competition for his England place?",
+     "published": "2026-11-11T06:24:28+00:00",
+     "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty."
+    },
+    {
+     "ref": "bbc_football#9",
      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
      "published": "2026-11-10T23:08:35+00:00",
      "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#10",
      "title": "72+: The EFL Podcast",
      "published": "2026-11-10T22:29:00+00:00",
      "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#11",
      "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
      "published": "2026-11-10T22:17:53+00:00",
      "summary": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#12",
      "title": "Man City thrash Inter to claim first CL win of season",
      "published": "2026-11-10T22:05:15+00:00",
      "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#13",
      "title": "Man City thrash Inter to claim first CL win of season",
      "published": "2026-11-10T22:05:15+00:00",
      "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#14",
      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
      "published": "2026-11-10T20:49:11+00:00",
      "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#15",
      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
      "published": "2026-11-10T20:49:11+00:00",
      "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#16",
      "title": "Chelsea play out goalless draw with Hacken",
      "published": "2026-11-10T20:07:12+00:00",
      "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#17",
      "title": "Partick Thistle lose SWPL points for amateur player payments",
      "published": "2026-11-10T19:23:42+00:00",
      "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#18",
      "title": "Partick Thistle lose SWPL points for amateur player payments",
      "published": "2026-11-10T19:23:42+00:00",
      "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#19",
      "title": "Partick Thistle lose SWPL points for amateur player payments",
      "published": "2026-11-10T19:23:42+00:00",
      "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#20",
      "title": "Lecturer's bid to challenge Fifa president Infantino",
      "published": "2026-11-10T19:14:14+00:00",
      "summary": "University lecturer Peter Auf der Heyde is seeking to be nominated to take on Gianni Infantino for the Fifa presidency."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#21",
      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
      "published": "2026-11-10T18:12:02+00:00",
      "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach"
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#22",
      "title": "Wales' Johnson says definitely more to come after 50 caps",
      "published": "2026-11-10T18:01:03+00:00",
      "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales."
     },
     {
-     "ref": "bbc_football#14",
-     "title": "McTominay reveals heart treatment at World Cup",
-     "published": "2026-11-10T16:46:31+00:00",
-     "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June."
-    },
-    {
-     "ref": "bbc_football#15",
-     "title": "McTominay reveals heart treatment at World Cup",
-     "published": "2026-11-10T16:46:31+00:00",
-     "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June."
-    },
-    {
-     "ref": "bbc_football#16",
-     "title": "Oldham boss Mellon charged by FA following red card",
-     "published": "2026-11-10T16:41:54+00:00",
-     "summary": "Oldham Athletic manager Micky Mellon is charged by the FA following his red card during his side's FA Cup win over Sheffield Wednesday."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "What is the Women's Champions League prize money?",
-     "published": "2026-11-10T16:29:16+00:00",
-     "summary": "Our Ask Me Anything team break down the prize money on offer in the Women's Champions League."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
-     "published": "2026-11-10T16:17:10+00:00",
-     "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?"
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "Birthdays and broken lamps - at home with the Charles brothers",
-     "published": "2026-11-10T14:36:21+00:00",
-     "summary": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team."
-    },
-    {
-     "ref": "bbc_football#20",
-     "title": "Kompany back at Bayern training after collapse",
-     "published": "2026-11-10T14:17:04+00:00",
-     "summary": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "Managerial 'inconsistency' hurting Ghana - Hughton",
-     "published": "2026-11-10T14:14:26+00:00",
-     "summary": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black Stars."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Who are the main candidates for the Aberdeen job?",
-     "published": "2026-11-10T13:24:07+00:00",
-     "summary": "Two domestic names stand out, while there is also the possibility of a foreign appointment following Stephen Robinson's departure."
-    },
-    {
      "ref": "bbc_football#23",
-     "title": "Who are the main candidates for the Aberdeen job?",
-     "published": "2026-11-10T13:24:07+00:00",
-     "summary": "Two domestic names stand out, while there is also the possibility of a foreign appointment following Stephen Robinson's departure."
+     "title": "McTominay reveals heart treatment at World Cup",
+     "published": "2026-11-10T16:46:31+00:00",
+     "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June."
     },
     {
      "ref": "bbc_football#24",
-     "title": "Dortmund fans' group criticises Nmecha celebration",
-     "published": "2026-11-10T12:48:21+00:00",
-     "summary": "A Christian group set up for footballers says it wants to \"demonstrate love and respect towards everyone\" following criticism from fans."
+     "title": "McTominay reveals heart treatment at World Cup",
+     "published": "2026-11-10T16:46:31+00:00",
+     "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June."
     }
    ]
   },
@@ -683,63 +683,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "Gerard compares him to Cristiano and Messi: a striking testimony in favour of Yamal - Goal.com",
-     "published": "2026-11-10T19:32:54+00:00",
-     "summary": "Gerard compares him to Cristiano and Messi: a striking testimony in favour of Yamal Goal.com"
+     "title": "Lionel Messi Set for Emotional Return to Argentina for Career-First Milestone - LiveScore",
+     "published": "2026-11-10T18:24:42+00:00",
+     "summary": "Lionel Messi Set for Emotional Return to Argentina for Career-First Milestone LiveScore"
     },
     {
      "ref": "gnews_inter_miami#3",
-     "title": "Lionel Messi did not win a single MLS Player of the Month award this season: Can he still win the MVP? - World Soccer Talk",
-     "published": "2026-11-10T18:19:24+00:00",
-     "summary": "Lionel Messi did not win a single MLS Player of the Month award this season: Can he still win the MVP? World Soccer Talk"
+     "title": "Inter Miami CF Academy Teams Claim Four Tournament Titles in Successful Weekend - WebWire",
+     "published": "2026-11-10T17:05:39+00:00",
+     "summary": "Inter Miami CF Academy Teams Claim Four Tournament Titles in Successful Weekend WebWire"
     },
     {
      "ref": "gnews_inter_miami#4",
-     "title": "Lionel Messi Set for Emotional Return to Argentina for Career-First Milestone - Sports Illustrated",
-     "published": "2026-11-10T18:08:56+00:00",
-     "summary": "Lionel Messi Set for Emotional Return to Argentina for Career-First Milestone Sports Illustrated"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
-     "title": "Inter Miami CF Academy Teams Claim Four Tournament Titles in Successful Weekend - Inter Miami CF",
-     "published": "2026-11-10T16:45:32+00:00",
-     "summary": "Inter Miami CF Academy Teams Claim Four Tournament Titles in Successful Weekend Inter Miami CF"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
      "title": "MLS Cup 2026: Why Miami, Nashville & Vancouver are the favorites - MLSsoccer.com",
      "published": "2026-11-10T15:27:09+00:00",
      "summary": "MLS Cup 2026: Why Miami, Nashville & Vancouver are the favorites MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#5",
      "title": "Top 10 Most Valuable MLS Teams (Ranked) - GiveMeSport",
      "published": "2026-11-10T15:25:44+00:00",
      "summary": "Top 10 Most Valuable MLS Teams (Ranked) GiveMeSport"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#6",
+     "title": "Nashville SC Sets MLS Record as Playoffs Kick Off - Yahoo Sports",
+     "published": "2026-11-10T12:41:00+00:00",
+     "summary": "Nashville SC Sets MLS Record as Playoffs Kick Off Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#7",
      "title": "Inter Miami vs Columbus Crew prediction – Odds & stats – 21 November 2026 - Wincomparator",
      "published": "2026-11-10T09:00:44+00:00",
      "summary": "Inter Miami vs Columbus Crew prediction – Odds & stats – 21 November 2026 Wincomparator"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#8",
      "title": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo - Transfermarkt",
      "published": "2026-11-10T07:55:25+00:00",
      "summary": "Latest transfer news: Lionel Messi Inter Miami exit ruled out as Man Utd eye Murillo Transfermarkt"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#9",
      "title": "Messi Makes History! Brace and Records Cement Inter Miami Legacy - beIN SPORTS",
      "published": "2026-11-10T07:30:00+00:00",
      "summary": "Messi Makes History! Brace and Records Cement Inter Miami Legacy beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#10",
      "title": "Abada's magic seals wild 3–3 comeback against Messi's Miami - The Jerusalem Post",
      "published": "2026-11-10T07:26:43+00:00",
      "summary": "Abada's magic seals wild 3–3 comeback against Messi's Miami The Jerusalem Post"
+    },
+    {
+     "ref": "gnews_inter_miami#11",
+     "title": "Messi's Inter Miami Book Playoffs With 2-0 Win Over New York City - Sarawak Tribune",
+     "published": "2026-11-10T05:18:41+00:00",
+     "summary": "Messi's Inter Miami Book Playoffs With 2-0 Win Over New York City Sarawak Tribune"
     },
     {
      "ref": "gnews_inter_miami#12",
@@ -803,21 +803,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#22",
-     "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Ottumwa Courier",
-     "published": "2026-11-09T17:39:54+00:00",
-     "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Ottumwa Courier"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
      "title": "It’s Miami Time presented by Royal Caribbean: Schedule Announced for Audi 2026 MLS Cup Playoffs Round One Series Against Columbus Crew - WebWire",
      "published": "2026-11-09T17:34:09+00:00",
      "summary": "It’s Miami Time presented by Royal Caribbean: Schedule Announced for Audi 2026 MLS Cup Playoffs Round One Series Against Columbus Crew WebWire"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Bozeman Daily Chronicle",
      "published": "2026-11-09T17:21:00+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Bozeman Daily Chronicle"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Inter Miami brings media together at Nu Stadium for Copa de Medios - MARCA",
+     "published": "2026-11-09T17:14:01+00:00",
+     "summary": "Inter Miami brings media together at Nu Stadium for Copa de Medios MARCA"
     }
    ]
   },
@@ -827,51 +827,51 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "Oklahoma City Thunder @ Portland Trail Blazers Odds - FanDuel Sportsbook",
-     "published": "2026-11-11T03:00:59+00:00",
-     "summary": "Oklahoma City Thunder @ Portland Trail Blazers Odds FanDuel Sportsbook"
+     "title": "Deni Avdija posts 24/6/8/1 line vs. Oklahoma City - NBC Sports",
+     "published": "2026-11-11T07:46:45+00:00",
+     "summary": "Deni Avdija posts 24/6/8/1 line vs. Oklahoma City NBC Sports"
     },
     {
      "ref": "gnews_israeli_nba#1",
-     "title": "Thunder vs. Blazers predictions: Portland looks to snap two-game skid in the first of back-to-back meetings - OregonLive.com",
-     "published": "2026-11-10T22:07:00+00:00",
-     "summary": "Thunder vs. Blazers predictions: Portland looks to snap two-game skid in the first of back-to-back meetings OregonLive.com"
+     "title": "Deni Avdija Highlights (24 Points, 8 Assists) | Trail Blazers 123, Thunder 103 | Nov. 10, 2026 - NBA.com",
+     "published": "2026-11-11T07:45:52+00:00",
+     "summary": "Deni Avdija Highlights (24 Points, 8 Assists) | Trail Blazers 123, Thunder 103 | Nov. 10, 2026 NBA.com"
     },
     {
      "ref": "gnews_israeli_nba#2",
-     "title": "Taco Tuesday — Expert Picks in the NBA Tonight (11/10) - Betting News",
-     "published": "2026-11-10T17:51:00+00:00",
-     "summary": "Taco Tuesday — Expert Picks in the NBA Tonight (11/10) Betting News"
+     "title": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder - Field Level Media",
+     "published": "2026-11-11T07:13:08+00:00",
+     "summary": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder Field Level Media"
     },
     {
      "ref": "gnews_israeli_nba#3",
-     "title": "Blazers Prepare to Host SGA and the Oklahoma City Thunder - Sports Illustrated",
-     "published": "2026-11-10T14:00:34+00:00",
-     "summary": "Blazers Prepare to Host SGA and the Oklahoma City Thunder Sports Illustrated"
+     "title": "Deni Avdija with the And-1!, 11/10/2026 - Yahoo Sports",
+     "published": "2026-11-11T06:40:42+00:00",
+     "summary": "Deni Avdija with the And-1!, 11/10/2026 Yahoo Sports"
     },
     {
      "ref": "gnews_israeli_nba#4",
+     "title": "Deni Avdija gets the and-1 to fall for Trail Blazers - ESPN",
+     "published": "2026-11-11T05:03:49+00:00",
+     "summary": "Deni Avdija gets the and-1 to fall for Trail Blazers ESPN"
+    },
+    {
+     "ref": "gnews_israeli_nba#5",
+     "title": "Deni Avdija gets the and-1 to fall for Trail Blazers - ESPN",
+     "published": "2026-11-11T05:03:49+00:00",
+     "summary": "Deni Avdija gets the and-1 to fall for Trail Blazers ESPN"
+    },
+    {
+     "ref": "gnews_israeli_nba#6",
      "title": "Avdija Nominated for Western Conference Player of the Week - Blazer's Edge",
      "published": "2026-11-10T03:16:00+00:00",
      "summary": "Avdija Nominated for Western Conference Player of the Week Blazer's Edge"
     },
     {
-     "ref": "gnews_israeli_nba#5",
-     "title": "Damian Lillard Media Availability | Nov. 9, 2026 | Portland Trail Blazers - NBA.com",
-     "published": "2026-11-09T23:31:15+00:00",
-     "summary": "Damian Lillard Media Availability | Nov. 9, 2026 | Portland Trail Blazers NBA.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Should I Trade Braden Smith for Deni Avdija? | Fantasy Basketball - FantasyPros",
      "published": "2026-11-09T06:52:00+00:00",
      "summary": "Should I Trade Braden Smith for Deni Avdija? | Fantasy Basketball FantasyPros"
-    },
-    {
-     "ref": "gnews_israeli_nba#7",
-     "title": "Scoot Henderson still seeking rhythm amid Blazers’ strong start - Hoops Wire",
-     "published": "2026-11-09T06:00:23+00:00",
-     "summary": "Scoot Henderson still seeking rhythm amid Blazers’ strong start Hoops Wire"
     },
     {
      "ref": "gnews_israeli_nba#8",
@@ -893,45 +893,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#11",
-     "title": "Portland Trail Blazers open 2026-27 NBA season - OregonLive.com",
-     "published": "2026-11-08T14:30:47+00:00",
-     "summary": "Portland Trail Blazers open 2026-27 NBA season OregonLive.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#12",
      "title": "Trail Blazers' Deni Avdija: Poor shooting performance - CBS Sports",
      "published": "2026-11-08T14:25:37+00:00",
      "summary": "Trail Blazers' Deni Avdija: Poor shooting performance CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija News: Poor shooting performance - RotoWire",
      "published": "2026-11-08T14:25:37+00:00",
      "summary": "Deni Avdija News: Poor shooting performance RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
-     "title": "Trail Blazers 110-98 Kings (14 Oct, 2026) Final Score - ESPN Philippines",
-     "published": "2026-11-08T08:00:00+00:00",
-     "summary": "Trail Blazers 110-98 Kings (14 Oct, 2026) Final Score ESPN Philippines"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
-     "title": "Deni Avdija should remain Portland’s top offensive option despite Lillard, Morant - Ynetnews",
-     "published": "2026-11-08T07:51:00+00:00",
-     "summary": "Deni Avdija should remain Portland’s top offensive option despite Lillard, Morant Ynetnews"
-    },
-    {
-     "ref": "gnews_israeli_nba#16",
-     "title": "Deni Avdija with the 2 Pt - Yahoo Sports",
-     "published": "2026-11-08T05:42:00+00:00",
-     "summary": "Deni Avdija with the 2 Pt Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#17",
-     "title": "Ben Saraf and Dain Dainja combine for 50 in Long Island’s big win over Greensboro - NetsDaily",
-     "published": "2026-11-08T04:14:00+00:00",
-     "summary": "Ben Saraf and Dain Dainja combine for 50 in Long Island’s big win over Greensboro NetsDaily"
     }
    ]
   }

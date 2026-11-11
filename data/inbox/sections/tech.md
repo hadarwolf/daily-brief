@@ -141,194 +141,116 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    ]
   },
   {
-   "outlet": "Geektime (Israeli tech)",
-   "lang": "he",
-   "items": [
-    {
-     "ref": "geektime#0",
-     "title": "\"בלי המפתחות הכל מושבת\": היזמים שמאחורי Zerto חושפים סטארטאפ חדש עם סבב סיד גדול במיוחד",
-     "published": "2026-11-10T15:00:37+00:00",
-     "summary": "האחים זיו ועודד קדם הם לא שמות חדשים בהייטק המקומי, אבל עכשיו, אחרי שהקימו ומכרו את Kashya ל-EMC ואת Zerto ל-HPE, הם חוזרים כעת לסיבוב נוסף, הפעם עם סטארטאפ חדש בשם Dreeze. היום (ג') יוצאת החברה ממצב Stealth עם גיוס סיד חריג בהיקפו של 33 מיליון דולר. את הסבב הובילו הקרנות האמריקאיות Norwest ו-Bessemer Venture Partners, […] The post \"בלי המפתחות הכל מושבת\": היזמים שמאחורי Zerto חושפים סטארטאפ חדש ע"
-    },
-    {
-     "ref": "geektime#1",
-     "title": "גיוס של 80 מיליון דולר לסטארטאפ הישראלי שמגן על Lovable ו-LastPass",
-     "published": "2026-11-10T14:31:48+00:00",
-     "summary": "בדיוק שנה עברה מאז שחברת הסייבר הישראלית Daylight הודיעה על סבב הגיוס הקודם שלה, והיום (ג') היא חושפת גיוס גדול נוסף. עכשיו מודיע הסטארטאפ על השלמת סבב B בגובה 80 מיליון דולר בהובלת Goldman Sachs ובהשתתפות משקיעה חדשה, Okta Ventures, לצד הקרנות הקיימות Vintage Partners, Craft Ventures, Bain Capital ו-Maple Capital. הגיוס הנוכחי מביא את […] The post גיוס של 80 מיליון דולר לסטארטאפ הישראלי שמגן על L"
-    },
-    {
-     "ref": "geektime#2",
-     "title": "מה? הדמעות? זה בגלל ש-Waze מאפשרת עכשיו לבחור נקודת מוצא",
-     "published": "2026-11-10T13:37:23+00:00",
-     "summary": "גם לכם זה בטח קרה. אתם רוצים לבדוק כמה זמן ייקח לחבר להגיע אליכם או כמה מה הדרך הכי טובה להגיע מהעבודה למסעדה כלשהי, אבל Waze מתעקשת לתת לכם את המסלול רק מהמיקום הנוכחי שלכם. אז עד היום עקפנו את זה בכל מיני שיטות או בעזרת Google Maps, אבל עכשיו, אפליקציית הניווט הפופולרית סוף סוף […] The post מה? הדמעות? זה בגלל ש-Waze מאפשרת עכשיו לבחור נקודת מוצא appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#3",
-     "title": "יובל זכריה מגייסת 50 מיליון דולר לסטארטאפ שהקימה לפני פחות משנה",
-     "published": "2026-11-10T13:00:47+00:00",
-     "summary": "בשנה האחרונה סוכני AI משנים לגמרי את הדרך שבה אנחנו עובדים. מעולם שבו בני אדם מפעילים (או כותבים) תוכנות, אנחנו עוברים למציאות שבה האייג'נטים כבר מקבלים החלטות לבד, ולא פעם הם עושים את זה עם גישה ישירה למערכות רגישות. הבעיה היא שמערכות אבטחה מסורתיות פשוט לא נבנו לעולם הזה, ומתקשות להבין מתי פעולה לגיטימית הופכת […] The post יובל זכריה מגייסת 50 מיליון דולר לסטארטאפ שהקימה לפני פחות משנה appeared "
-    },
-    {
-     "ref": "geektime#4",
-     "title": "מתחרה חדשה: Revolut הבריטית קיבלה אישור להקים בנק בישראל",
-     "published": "2026-11-10T11:58:00+00:00",
-     "summary": "אחרי השמועות והדיווחים הלא רשמיים, זה רשמי: בנק ישראל העניק היום (ג') לקבוצת Revolut הבריטית רישיון מותנה להקמת בנק בישראל. הגוף החדש, שיזכה לשם הסקסי \"בנק רבולוט ישראל (בהקמה)\", הוא ניסיון נוסף של המדינה ובנק ישראל לפתוח קצת את שוק הבנקאות המקומי המנומנם לתחרות. הרישיון הזה הוא השלישי שניתן לבנק חדש בישראל מאז 2019, כשבנק […] The post מתחרה חדשה: Revolut הבריטית קיבלה אישור להקים בנק בישראל appea"
-    },
-    {
-     "ref": "geektime#5",
-     "title": "וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מיליון דולר בשנה",
-     "published": "2026-11-10T09:55:18+00:00",
-     "summary": "לפני כשנה וחצי רכשה Wix את Base44, סטארטאפ ישראלי צעיר שהוקם כמה חודשים לפני, ב-80 מיליון דולר. אבל מה שנראה אז בעיקר כאקזיט חלומי ליזם מאור שלמה, מתברר עכשיו, עם פרסום הדוחות הרבעוניים של וויקס, כאחד המהלכים האסטרטגיים והחשובים שוויקס עשתה בשנים האחרונות. עסקה חלומית לכולם על פי הדוחות הרבעוניים של וויקס לרבעון השלישי של […] The post וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מ"
-    },
-    {
-     "ref": "geektime#6",
-     "title": "מטא פותחת מחזור חדש לתוכנית הסטארטאפים שלה בישראל, וכדאי שתזדרזו להירשם",
-     "published": "2026-11-10T09:27:47+00:00",
-     "summary": "חברת Meta פתחה את ההרשמה למחזור השני של Meta Startup Growth Program – תוכנית לליווי סטארטאפים ישראליים בשלבים מוקדמים, המתמקדת בצמיחה והתרחבות לשווקים בינלאומיים. המשתתפים יפגשו עם מומחי החברה מהארץ ומהעולם, ישתתפו בסדנאות מקצועיות ויקבלו שעות ייעוץ אישיות. התוכנית מיועדת לסטארטאפים B2C שכבר מציגים פעילות ראשונית בשוק, מתמקדים בצמיחה גלובלית ושואפים להרחיב את פעילותם לשווקים […] The post מטא פותחת"
-    },
-    {
-     "ref": "geektime#7",
-     "title": "ג'יימס גאן התפוטר מתפקידו ב-DC Studios – וקשה לנו להיראות מופתעים",
-     "published": "2026-11-10T08:43:14+00:00",
-     "summary": "בעוד קצת יותר מחודש סביר להניח שכל עולם הגיקים ידבר רק על Avengers: Doomsday, אבל עד אז יש לנו דרמה אחרת: הלילה (ב') נודע כי ג'יימס גאן ופיטר ספרן \"עוזבים\" את תפקידיהם כמנכ\"לים משותפים ומנהלי אולפני DC Studios. אז מה קרה שם ולמה לדעתנו DC מראה לגאן את הדלת? הכישלונות וההצלחות של גאן גאן מונה […] The post ג'יימס גאן התפוטר מתפקידו ב-DC Studios – וקשה לנו להיראות מופתעים appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#8",
-     "title": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
-     "published": "2026-11-10T07:04:47+00:00",
-     "summary": "קשה להפריז בכוחה של אנבידיה בשנים האחרונות, וזה ממש לא רק שווי השוק המטורף (והמשחק עם אפל על מי החברה בעלת השווי הגבוה בעולם). השבבים של החברה הם תשתית ה-AI העולמית, ואיפשהו גם התקן העולמי שכמעט כל החברות מתיישרות אליו, כך שהדרישה למוצרים של החברה עולה כבר שנים על קצב הייצור שלה. לכן, כשהתפוצצה פרשת […] The post פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג? appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#9",
-     "title": "עוד 29 מיליון דולר לסטארטאפ הישראלי שמאפשר לכל אחד לפרסם ספר",
-     "published": "2026-11-09T14:00:43+00:00",
-     "summary": "יום אחד מישהו יכתוב ספר על כמה שזה קשה להוציא ספר לאור. עד אז, יש סטארטאפ ישראלי שמנסה לעזור לסופרים להפוך את תהליך ההפקה, ההפצה ואפילו השיווק של הספרים שלהם – מתהליך של יותר משנה לכזה שאורך שבועות ספורים. היום (ב') הוא מודיע גם על גיוס של 29 מיליון דולר. תנו לאייג'נטס להוציא לאור Spines […] The post עוד 29 מיליון דולר לסטארטאפ הישראלי שמאפשר לכל אחד לפרסם ספר appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#10",
-     "title": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
-     "published": "2026-11-09T13:29:17+00:00",
-     "summary": "אם אתם משתמשים בסוכני AI בארגון, כנראה שאתם כבר סומכים עליהם עם לא מעט מידע רגיש כדי שיבצעו עבורכם פעולות מורכבות. אבל מחקר חדש של חברת אבטחת המידע הישראלית Profero חושף היום (ב') שורה של חולשות אבטחה ב-Grok Bot, סוכן ה-AI מבית xAI של אילון מאסק. החולשות הללו עלולות לאפשר לכאורה לתוקפים להשתלט על סביבת […] The post החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה appear"
-    },
-    {
-     "ref": "geektime#11",
-     "title": "בכנס הזה תלמדו איך מחברים AI לדאטה שלכם בלי שורת SQL אחת",
-     "published": "2026-11-09T12:40:47+00:00",
-     "summary": "השלב הבא ב-AI הוא להפוך את המודלים לחלק בלתי נפרד מהמערכות, התהליכים הארגוניים וסביבת העבודה: לחבר אותו לדאטה אמיתי, לאפשר לו לבצע פעולות, להניע תהליכים ולקבל החלטות מבוססות מידע. אבל איך עוברים מדמו מרשים למערכת שעובדת בפרודקשן, מתממשקת לתשתיות קיימות ועומדת בדרישות האבטחה וה-Governance של הארגון? השאלה הזאת היא המקום שבו מתחיל האתגר ההנדסי האמיתי. […] The post בכנס הזה תלמדו איך מחברים AI לדאטה "
-    },
-    {
-     "ref": "geektime#12",
-     "title": "חורים בפנסיה: לאן נעלמים 7,000 שקל בחודש מהשכר של ההייטקיסטים?",
-     "published": "2026-11-09T09:59:07+00:00",
-     "summary": "מאת אור אייזנברג לצפות בצבע מתייבש… לקרוא תנאי שימוש של תוכנה… לראות אקסל של רואה חשבון… יש כמה דברים משעממים במיוחד, וגם הם, כך נדמה, לא מתקרבים להתעסקות בפנסיה. ואנחנו איתכם: מושגים כמו שכר מבוטח, תשואות, דמי ניהול והפרשות מעסיק הם ההגדרה המילונית ל-50 גוונים של אפור. העניין הוא שהסיפור הזה שווה לכם המון כסף, […] The post חורים בפנסיה: לאן נעלמים 7,000 שקל בחודש מהשכר של ההייטקיסטים? appeared fi"
-    },
-    {
-     "ref": "geektime#13",
-     "title": "המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים",
-     "published": "2026-11-09T08:13:18+00:00",
-     "summary": "יותר משנתיים אחרי ההכרזה המקורית, אפל סוף סוף השיקה השנה את Siri AI, הגרסה החדשה של העוזרת האישית שלה. אולם כעת כשיש לה עוזרת מודרנית והרבה יותר חכמה, היא הגיעה לשלב שבו היא מבינה שהיא כבר לא יכולה לנוח על זרי הדפנה, כיוון שבכל פעם שאתה משחק תופסת עם המתחרים בשוק ה-AI, המשחק משתנה לך […] The post המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#14",
-     "title": "\"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי אנבידיה הלילה",
-     "published": "2026-11-09T05:29:17+00:00",
-     "summary": "הלילה דווח שאנבידיה פתחה בחקירה רשמית לגבי קשריו של המייסד והמנכ\"ל האגדי שלה, ג'נסן הואנג, עם אליס הואנג, מנהלת בכירה בחברת Megaspeed, ועל פי החשד, סוכנת של ממשלת סין. במקביל, הואנג הודה ברומן במכתב ששלח לעובדי החברה. הנה תרגום של המייל המלא. \"אין שום תירוץ למה שעשיתי\" לעמיתיי באנבידיה, אני חייב למשפחתי ולכולכם התנצלות. לא […] The post \"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי "
-    }
-   ]
-  },
-  {
    "outlet": "Hacker News (150+ points)",
    "lang": "en",
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-     "published": "2026-11-10T22:17:56+00:00",
-     "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 305 # Comments: 135"
+     "title": "Protecting SSH Keys with macOS Secure Enclave",
+     "published": "2026-11-11T04:28:57+00:00",
+     "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 165 # Comments: 60"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Six Math Essentials by Terence Tao",
-     "published": "2026-11-10T20:58:44+00:00",
-     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 154 # Comments: 27"
+     "title": "Tracking Anthropic-discovered vulnerabilities",
+     "published": "2026-11-10T22:17:56+00:00",
+     "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 393 # Comments: 186"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Scion is back and is going to sell a kei truck in America",
-     "published": "2026-11-10T19:50:46+00:00",
-     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 360 # Comments: 265"
+     "title": "Apple has new Mac app coming to make running local AI models easy",
+     "published": "2026-11-10T21:25:03+00:00",
+     "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 206 # Comments: 173"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Starlink Mini 2",
-     "published": "2026-11-10T18:22:32+00:00",
-     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 293 # Comments: 296"
+     "title": "Six Math Essentials",
+     "published": "2026-11-10T20:58:44+00:00",
+     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 234 # Comments: 42"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Synaptics patent claims stop work on DisplayLink drivers",
-     "published": "2026-11-10T18:02:02+00:00",
-     "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 322 # Comments: 180"
+     "title": "Scion is back and is going to sell a kei truck in America",
+     "published": "2026-11-10T19:50:46+00:00",
+     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 460 # Comments: 309"
     },
     {
      "ref": "hn_frontpage#5",
+     "title": "Starlink Mini 2",
+     "published": "2026-11-10T18:22:32+00:00",
+     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 397 # Comments: 400"
+    },
+    {
+     "ref": "hn_frontpage#6",
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "published": "2026-11-10T18:02:02+00:00",
+     "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 389 # Comments: 220"
+    },
+    {
+     "ref": "hn_frontpage#7",
      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
      "published": "2026-11-10T18:01:15+00:00",
      "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default"
     },
     {
-     "ref": "hn_frontpage#6",
-     "title": "Val Town is winding down",
-     "published": "2026-11-10T17:31:14+00:00",
-     "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 322 # Comments: 85"
-    },
-    {
-     "ref": "hn_frontpage#7",
-     "title": "AMD's Zen 6 Family: Feeding the Beast",
-     "published": "2026-11-10T17:02:32+00:00",
-     "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 194 # Comments: 74"
-    },
-    {
      "ref": "hn_frontpage#8",
-     "title": ".name Grandfathered",
-     "published": "2026-11-10T16:37:44+00:00",
-     "summary": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 715 # Comments: 168"
+     "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+     "published": "2026-11-10T17:55:07+00:00",
+     "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 211 # Comments: 150"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Smart home devices should work without the internet",
-     "published": "2026-11-10T15:25:20+00:00",
-     "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 755 # Comments: 269"
+     "title": "Val Town is winding down",
+     "published": "2026-11-10T17:31:14+00:00",
+     "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 373 # Comments: 93"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-     "published": "2026-11-10T15:12:16+00:00",
-     "summary": "Article URL: https://tinyvalencia.com/ Comments URL: https://news.ycombinator.com/item?id=50441518 Points: 207 # Comments: 52"
+     "title": "AMD's Zen 6 Family: Feeding the Beast",
+     "published": "2026-11-10T17:02:32+00:00",
+     "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 228 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Ableton Live 13",
-     "published": "2026-11-10T12:58:04+00:00",
-     "summary": "Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 289 # Comments: 304"
+     "title": ".name Grandfathered",
+     "published": "2026-11-10T16:37:44+00:00",
+     "summary": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 812 # Comments: 178"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "What's new in the .NET 11 runtime",
-     "published": "2026-11-10T12:20:07+00:00",
-     "summary": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/ Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 247 # Comments: 178"
+     "title": "Announcing .NET 11",
+     "published": "2026-11-10T16:01:27+00:00",
+     "summary": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotn... Comments URL: https://news.ycombinator.com/item?id=50442225 Points: 177 # Comments: 229"
     },
     {
      "ref": "hn_frontpage#13",
-     "title": "AlphaProof Code",
-     "published": "2026-11-10T12:11:12+00:00",
-     "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 586 # Comments: 178"
+     "title": "Smart home devices should work without the internet",
+     "published": "2026-11-10T15:25:20+00:00",
+     "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 906 # Comments: 322"
     },
     {
      "ref": "hn_frontpage#14",
+     "title": "Ableton Live 13",
+     "published": "2026-11-10T12:58:04+00:00",
+     "summary": "Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 311 # Comments: 323"
+    },
+    {
+     "ref": "hn_frontpage#15",
+     "title": "AlphaProof Code",
+     "published": "2026-11-10T12:11:12+00:00",
+     "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 624 # Comments: 182"
+    },
+    {
+     "ref": "hn_frontpage#16",
      "title": "AI usage generates a fragile codebase",
      "published": "2026-11-10T10:25:58+00:00",
-     "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 407 # Comments: 424"
+     "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 527 # Comments: 507"
+    },
+    {
+     "ref": "hn_frontpage#17",
+     "title": "Process Explorer for macOS",
+     "published": "2026-11-09T22:30:41+00:00",
+     "summary": "Article URL: https://github.com/microsoft/Procexp-Mac Comments URL: https://news.ycombinator.com/item?id=50433216 Points: 197 # Comments: 62"
     }
    ]
   },
