@@ -24,126 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2020,
-   "text": "The British government announced that it had removed the last land mine from the Falkland Islands, laid by Argentine forces during the 1982 Falklands War.",
+   "year": 2008,
+   "text": "After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives.",
    "context": [
-    "There were approximately 30,000 land mines laid in the British overseas territory of the Falkland Islands by Argentinian forces following their 1982 invasion. Some of the mines were cleared immediately following the successful British operation to retake the islands, but following a series of accidents, demining operations ceased. In the following years the minefields were fenced off and, with human access limited, became havens for Falklands flora and the native penguin population. The British government ratified the Ottawa Treaty in 1998 that required the removal of all mines within its territory. Demining operations, which had to be carried out by hand due to the climate and local condition, restarted in 2009. The last mines were cleared in November 2020."
+    "Maumoon Abdul Gayoom is a Maldivian politician, statesman and diplomat who served as the 3rd president of the Maldives from 1978 to 2008. He previously served as the Minister of Transport from 1977 to 1978, and as the Permanent Representative of the Maldives to the United Nations from 1976 to 1977. Gayoom is the longest-serving president in Maldivian history."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2009,
-   "text": "A skirmish occurred between South Korean and North Korean naval ships off Daecheong Island in the Yellow Sea.",
+   "year": 1999,
+   "text": "The House of Lords Act was given royal assent, removing most hereditary peers from the British House of Lords.",
    "context": [
-    "The Daecheong incident, also known as the Battle of Daecheong, was a skirmish between the South Korean and North Korean navies near the Northern Limit Line (NLL) on 10 November 2009 off Daecheong Island."
+    "The House of Lords Act 1999 is an act of the Parliament of the United Kingdom which reformed the House of Lords, one of the chambers of Parliament. The act was given royal assent on 11 November 1999. For centuries, the House of Lords had included several hundred members who inherited their seats. The act removed this as a right, but as part of a compromise allowed 92 hereditary peers to remain in the House until further reforms. Another ten were created life peers to enable them to remain in the House."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2007,
-   "text": "At the Ibero-American Summit in Santiago, Chile, King Juan Carlos I of Spain asked Venezuelan president Hugo Chávez \"Why don't you shut up?\" after Chávez repeatedly interrupted a speech by Spanish prime minister José Luis Rodríguez Zapatero.",
+   "year": 1975,
+   "text": "During a constitutional crisis, Governor-General Sir John Kerr (pictured) dismissed Prime Minister Gough Whitlam's government and dissolved the Parliament of Australia for a double-dissolution election.",
    "context": [
-    "The Ibero-American Summit, formally the Ibero-American Conference of Heads of State and Governments, is a meeting of the heads of government and state of the Spanish- and Portuguese-speaking nations of Europe and the Americas. Held every year from 1991, it has been held every two years since the 2014 summit in Veracruz. The permanent secretariat in preparation of the summits is the Ibero-American General Secretariat (SEGIB)."
+    "The 1975 Australian constitutional crisis, also called the Dismissal, culminated with the dismissal of the prime minister, Gough Whitlam of the Australian Labor Party (ALP), by Sir John Kerr, the governor-general of Australia, on 11 November 1975. Kerr then commissioned the leader of the opposition, Malcolm Fraser of the Liberal Party, as prime minister on the condition that he advise a new election. It has been described as the greatest political and constitutional crisis in Australian history."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2006,
-   "text": "Sri Lankan Tamil politician and human rights lawyer Nadarajah Raviraj was assassinated in Colombo.",
+   "year": 1965,
+   "text": "Rhodesia, led by Prime Minister Ian Smith (pictured), unilaterally declared independence from the United Kingdom.",
    "context": [
-    "Sri Lankan Tamils, also known as Ceylon Tamils or Eelam Tamils, are Tamils native to the South Asian island state of Sri Lanka. Today, they constitute a majority in the Northern Province, form the plurality in the Eastern Province and are in the minority throughout the rest of the country. 70% of Sri Lankan Tamils in Sri Lanka live in the Northern and Eastern provinces."
+    "Rhodesia, officially the Republic of Rhodesia from 1970 onwards, was an unrecognised state in Southern Africa that existed from 1965 to 1979. Rhodesia was the de facto successor to the self-governing colony of Southern Rhodesia following its unilateral declaration of independence (UDI) from the United Kingdom in 1965. Throughout this fourteen-year period, Rhodesia faced internal conflict and political unrest. Following the Lancaster House Agreement in 1979 and general elections held under a universal suffrage in 1980, the territory finally gained de jure independence and international recognition as the Republic of Zimbabwe."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1995,
-   "text": "Writer and environmental activist Ken Saro-Wiwa and eight others from the Movement for the Survival of the Ogoni People were executed by the Nigerian military regime led by Sani Abacha.",
+   "year": 1960,
+   "text": "A coup attempt by the Army of the Republic of Vietnam against President Ngô Đình Diệm was crushed after he falsely promised reform, allowing loyalists to rescue him.",
    "context": [
-    "Kenule Beeson Saro-Wiwa was a Nigerian writer, teacher, television producer, and social rights activist. He was a member of the Ogoni people, an ethnic minority in the Niger Delta whose homeland, Ogoniland, has been targeted for crude oil extraction since the 1950s and has suffered extreme environmental damage from decades of indiscriminate petroleum waste dumping."
+    "On 11 November 1960, a failed coup attempt against President Ngô Đình Diệm of South Vietnam was led by Lieutenant Colonel Vương Văn Đông and Colonel Nguyễn Chánh Thi of the Airborne Division of the Army of the Republic of Vietnam (ARVN)."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1975,
-   "text": "SS Edmund Fitzgerald sank in Lake Superior, claiming all 29 of her crew's lives.",
+   "year": 1940,
+   "text": "Second World War: The Royal Navy launched the first all-aircraft ship-to-ship naval attack in history against the Italians in the Battle of Taranto.",
    "context": [
-    "SS Edmund Fitzgerald was an American Great Lakes freighter that sank in Lake Superior during a storm on November 10, 1975, with the loss of the entire crew of 29 men. When launched on June 7, 1958, she was the largest ship on North America's Great Lakes and remains the largest to have sunk there. Her wreck was located in deep water on November 14, 1975, by a U.S. Navy aircraft detecting magnetic anomalies, and soon afterwards found to be in two large pieces."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1975,
-   "text": "Angolan Civil War: The MPLA decisively defeated the FNLA at the Battle of Quifangondo, while Portugal simultaneously withdrew all its colonial and military personnel from Luanda.",
+   "year": 1934,
+   "text": "The Shrine of Remembrance (pictured), a memorial to all Australians who have served in war, opened in Melbourne.",
    "context": [
-    "The Angolan Civil War was a civil war in Angola, beginning in 1975 and continuing, with interludes, until 2002. The war began immediately after Angola became independent from Portugal in November 1975. It was a power struggle between two former anti-colonial guerrilla movements, the communist People's Movement for the Liberation of Angola (MPLA) and the anti-communist National Union for the Total Independence of Angola (UNITA)."
+    "The Shrine of Remembrance is a war memorial in Melbourne, Victoria, Australia, located in Kings Domain on St Kilda Road. It was built to honour the men and women of Victoria who served in World War I, but now functions as a memorial to all Australians who have served in any war. It is a site of annual observances for Anzac Day and Remembrance Day, and is one of the largest war memorials in Australia."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1969,
-   "text": "The first episode of the children's television series Sesame Street was broadcast in the United States.",
+   "year": 1926,
+   "text": "The plan for the United States Numbered Highway System was approved by the American Association of State Highway Officials.",
    "context": [
-    "Sesame Street is an American educational children's television series that combines live-action, sketch comedy, animation, and puppetry. It is produced by Sesame Workshop and was created by Joan Ganz Cooney and Lloyd Morrisett. It features Jim Henson's Muppets, and includes short films, with humor and cultural references. It premiered on November 10, 1969, to positive reviews, some controversy, and high viewership. It has aired on the United States national public television provider PBS since its debut, with its first run moving to premium channel HBO on January 16, 2016, then its sister streaming service HBO Max on November 12, 2020, which continued through the service's rebrand as Max in 2023 and as HBO Max in 2025, and most recently Netflix on November 10, 2025."
+    "The United States Numbered Highway System is an integrated network of roads and highways numbered within a nationwide grid in the contiguous United States. As the designation and numbering of these highways were coordinated among the states, they are sometimes called Federal Highways, but the roadways were built and have always been maintained by state or local governments since their initial designation in 1926."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1945,
-   "text": "Indonesian National Revolution: Following the killing of Brigadier A. W. S. Mallaby on 30 October, British forces retaliated by attacking Surabaya (present-day logo depicted).",
+   "year": 1920,
+   "text": "In London, the Cenotaph was unveiled and the Unknown Warrior was buried in Westminster Abbey in remembrance of the First World War.",
    "context": [
-    "The Indonesian National Revolution, also known as the Indonesian War of Independence, was an armed conflict and diplomatic struggle between the Republic of Indonesia and the Dutch Empire and an internal social revolution during postwar and postcolonial Indonesia. It took place between Indonesia's declaration of independence in 1945 and the Netherlands' transfer of sovereignty over the Dutch East Indies to the Republic of the United States of Indonesia at the end of 1949."
+    "The Cenotaph is a war memorial on Whitehall in London, England. Designed by Sir Edwin Lutyens, it was unveiled in 1920 as the United Kingdom's national memorial to the dead of Britain and the British Empire of the First World War. It was rededicated in 1946 to include those of the Second World War, and has since come to represent the Commonwealth casualties from those and later conflicts. The word cenotaph is derived from Greek, meaning 'empty tomb'. Most of the dead were buried close to where they fell; thus, the Cenotaph symbolises their absence and is a focal point for public mourning. The original temporary Cenotaph was erected in 1919 for a parade celebrating the end of the First World War, at which more than 15,000 servicemen, including French and American soldiers, saluted the monument. More than a million people visited the site within a week of the parade."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1940,
-   "text": "An earthquake registering 7.7 Mw struck the Vrancea region of Romania.",
+   "year": 1918,
+   "text": "The armistice between the German Empire and the Allies was signed in a railway carriage in the Forest of Compiègne of France (signatories pictured).",
    "context": [
-    "The 1940 Vrancea earthquake, also known as the 1940 Bucharest earthquake, occurred on Sunday, 10 November 1940, in Romania, at 03:39, when the majority of the population was at home."
+    "The Armistice of 11 November 1918 was the armistice that ended fighting on land, at sea, and in the air in World War I between the Entente and their last remaining opponent, Germany. It was signed in a railroad car in the Compiègne Forest, near the town of Compiègne. Previous armistices had been agreed with Bulgaria, the Ottoman Empire and Austria-Hungary. It was concluded after the German government sent a message to American president Woodrow Wilson to negotiate terms on the basis of a recent speech of his and the earlier declared \"Fourteen Points\", which later became the basis of the German surrender at the Paris Peace Conference, which took place the following year."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1937,
-   "text": "Brazilian president Getúlio Vargas led a coup against his own constitutional government, establishing the dictatorial Estado Novo regime.",
+   "year": 1918,
+   "text": "Józef Piłsudski (pictured), appointed the commander-in-chief of Polish forces by the Regency Council, was entrusted with the creation of a national government for the newly independent Poland.",
    "context": [
-    "Getúlio Dornelles Vargas was a Brazilian military officer, lawyer, and politician who served as the 14th and 17th president of Brazil, from 1930 to 1945 and from 1951 until his suicide in 1954. Due to his long and controversial tenure as Brazil's provisional, constitutional, dictatorial and democratic leader, he is considered by historians as the most influential Brazilian politician of the 20th century."
+    "Józef Klemens Piłsudski was a Polish statesman who served as the Chief of State (1918–1922) and first Marshal of Poland. In the aftermath of World War I, he became an increasingly dominant figure in Polish politics and exerted significant influence on shaping the country's foreign policy. Piłsudski is viewed as a father of the Second Polish Republic, which was re-established in 1918, 123 years after the final partition of Poland in 1795, and was considered de facto leader (1926–1935) of the Second Republic as the Minister of Military Affairs."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1898,
-   "text": "White supremacists seized power and massacred black Americans during the Wilmington massacre (newspaper headline pictured), the only instance of a municipal government being overthrown in United States history.",
+   "year": 1880,
+   "text": "In spite of sympathizers holding rallies for his reprieve, Australian bushranger and outlaw Ned Kelly was hanged in Melbourne.",
    "context": [
-    "\n\n\nWhite supremacy is the belief that white people are superior to those of other races. The belief favors the maintenance and defense of any power and privilege held by white people. White supremacy has roots in the now-discredited doctrine of scientific racism and was a key justification for European colonialism."
+    "Bushrangers were armed robbers and outlaws who resided in the Australian bush between the 1780s and the early 20th century. The original use of the term dates back to the early years of the British colonisation of Australia, and applied to transported convicts who had escaped into the bush to hide from the authorities. By the 1820s, the term had evolved to refer to those who took up \"robbery under arms\" as a way of life, using the bush as their base."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1865,
-   "text": "Henry Wirz, the Confederate superintendent of Andersonville Prison, was hanged after a controversial conviction, becoming the only American Civil War officer executed for war crimes.",
+   "year": 1813,
+   "text": "War of 1812: British–Canadian forces repelled an American attack at the Battle of Crysler's Farm, forcing the United States to give up their attempt to capture Montreal.",
    "context": [
-    "Henry Wirz was a Confederate States Army officer and convicted war criminal best known for commanding Andersonville Prison during the American Civil War. Born in Zurich, Switzerland, Wirz immigrated to the United States in 1849 after being exiled from the canton of Zurich following a conviction of embezzlement and fraud. He worked in a Massachusetts factory for five years before moving south to Kentucky to begin a career in medicine; specializing in homeopathy, Wirz divided his time between the two states. In 1854, he moved to Louisiana with his new wife and her two daughters, working as an overseer on a slave plantation."
+    "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Senate on 17 February 1815."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1599,
-   "text": "At the culmination of a Swedish civil war, supporters of the deposed King Sigismund III Vasa were publicly executed in the Åbo Bloodbath.",
+   "year": 1805,
+   "text": "War of the Third Coalition: French, Austrian and Russian units suffered heavy losses at the Battle of Dürenstein.",
    "context": [
-    "Sigismund III Vasa was King of Poland and Grand Duke of Lithuania from 1587 to 1632 and, as Sigismund, King of Sweden from 1592 to 1599. He was the first Polish sovereign from the House of Vasa. Zealously religious, he imposed Catholicism across the vast realm, and his crusades against neighbouring states marked Poland's largest territorial expansion. A deeply polarising ruler, he presided over the end of the Golden Age of prosperity and achievement, further distinguished by the transfer of the country's capital from Kraków to Warsaw."
+    "The War of the Third Coalition was a European conflict lasting from 1805 to 1806 and was the first conflict of the Napoleonic Wars. During the war, France and its client states under Napoleon I and its ally Spain opposed an alliance, the Third Coalition, which was made up of the United Kingdom, the Austrian Empire, the Russian Empire, Naples, Sicily, and Sweden. Prussia remained neutral during the war."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1202,
-   "text": "Fourth Crusade: The Siege of Zara, the first attack on a Catholic city by Catholic crusaders, began in present-day Zadar, Croatia.",
+   "year": 1778,
+   "text": "American Revolutionary War: British forces and their Iroquois allies attacked a fort and the village of Cherry Valley, New York, killing 14 soldiers and 30 civilians.",
    "context": [
-    "The Fourth Crusade (1202–1204) was a Latin Christian armed expedition called by Pope Innocent III. The stated intent of the expedition was to recapture the Muslim-controlled city of Jerusalem, by first defeating the powerful Egyptian Ayyubid Sultanate. However, a sequence of economic and political events culminated in the Crusader army's 1202 siege of Zara and the 1204 sack of Constantinople, rather than the conquest of Egypt as originally planned. This led to the partition of the Byzantine Empire by the Crusaders and their Venetian allies, leading to a period known as the Frankokratia."
+    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Soft landing (נחיתה רכה)",
+  "Base effect (אפקט בסיס)",
+  "Kitchen-sinking (לרוקן את כל הבעיות בבת אחת)",
   "Natural hedge (גידור טבעי)",
   "Beat-and-raise (רבעון של עקיפת תחזיות והעלאת תחזית)",
   "Catching a falling knife (לתפוס סכין נופל)",
@@ -230,10 +233,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Bagholder (מחזיק השקית)",
   "Hockey-stick growth (צמיחת מקל הוקי)",
   "Asymmetric bet (הימור א-סימטרי)",
-  "Burning the boats (לשרוף את הסיפונים)",
-  "Working capital (הון חוזר)",
-  "Sweat equity (הון מאמץ)",
-  "Low-hanging fruit (פרי בשל)"
+  "Burning the boats (לשרוף את הסיפונים)"
  ]
 }
 </input>
