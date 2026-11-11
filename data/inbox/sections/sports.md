@@ -515,117 +515,117 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Shirt pull on Isak should have been penalty - panel",
+     "published": "2026-11-11T10:23:37+00:00",
+     "summary": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Robinson unfazed by Pochettino departure talk",
+     "published": "2026-11-11T09:54:38+00:00",
+     "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "Man Utd open talks with Pochettino about replacing Carrick",
      "published": "2026-11-11T09:11:28+00:00",
      "summary": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "NI can draw on strong club form in key window",
      "published": "2026-11-11T08:09:02+00:00",
      "summary": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars."
     },
     {
-     "ref": "bbc_football#2",
-     "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
-     "published": "2026-11-11T08:00:14+00:00",
-     "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane."
-    },
-    {
-     "ref": "bbc_football#3",
-     "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
-     "published": "2026-11-11T08:00:14+00:00",
-     "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane."
-    },
-    {
      "ref": "bbc_football#4",
+     "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
+     "published": "2026-11-11T08:00:14+00:00",
+     "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane."
+    },
+    {
+     "ref": "bbc_football#5",
+     "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
+     "published": "2026-11-11T08:00:14+00:00",
+     "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane."
+    },
+    {
+     "ref": "bbc_football#6",
      "title": "Podcast: What’s going wrong at Hearts?",
      "published": "2026-11-11T08:00:00+00:00",
      "summary": "Why are Hearts conceding so many goals and how do they stop the slide?"
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#7",
      "title": "Wimmer among Aberdeen applicants - gossip",
      "published": "2026-11-11T07:40:54+00:00",
      "summary": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day..."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#8",
      "title": "From Jersey to Somalia... via Liverpool & Man City",
      "published": "2026-11-11T07:13:52+00:00",
      "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-11T06:47:18+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#10",
      "title": "Does Pickford finally face serious competition for his England place?",
      "published": "2026-11-11T06:24:28+00:00",
      "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#11",
      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
      "published": "2026-11-10T23:08:35+00:00",
      "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#12",
      "title": "72+: The EFL Podcast",
      "published": "2026-11-10T22:29:00+00:00",
      "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
      "published": "2026-11-10T22:17:53+00:00",
      "summary": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories."
     },
     {
-     "ref": "bbc_football#12",
-     "title": "Man City thrash Inter to claim first CL win of season",
-     "published": "2026-11-10T22:05:15+00:00",
-     "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season."
-    },
-    {
-     "ref": "bbc_football#13",
-     "title": "Man City thrash Inter to claim first CL win of season",
-     "published": "2026-11-10T22:05:15+00:00",
-     "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season."
-    },
-    {
      "ref": "bbc_football#14",
-     "title": "Pocognoli to lean on Scotland's 'captain group of five'",
-     "published": "2026-11-10T20:49:11+00:00",
-     "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach."
+     "title": "Man City thrash Inter to claim first CL win of season",
+     "published": "2026-11-10T22:05:15+00:00",
+     "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season."
     },
     {
      "ref": "bbc_football#15",
+     "title": "Man City thrash Inter to claim first CL win of season",
+     "published": "2026-11-10T22:05:15+00:00",
+     "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season."
+    },
+    {
+     "ref": "bbc_football#16",
      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
      "published": "2026-11-10T20:49:11+00:00",
      "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach."
     },
     {
-     "ref": "bbc_football#16",
-     "title": "Chelsea play out goalless draw with Hacken",
-     "published": "2026-11-10T20:07:12+00:00",
-     "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition."
-    },
-    {
      "ref": "bbc_football#17",
-     "title": "Partick Thistle lose SWPL points for amateur player payments",
-     "published": "2026-11-10T19:23:42+00:00",
-     "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season."
+     "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+     "published": "2026-11-10T20:49:11+00:00",
+     "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach."
     },
     {
      "ref": "bbc_football#18",
-     "title": "Partick Thistle lose SWPL points for amateur player payments",
-     "published": "2026-11-10T19:23:42+00:00",
-     "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season."
+     "title": "Chelsea play out goalless draw with Hacken",
+     "published": "2026-11-10T20:07:12+00:00",
+     "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition."
     },
     {
      "ref": "bbc_football#19",
@@ -635,33 +635,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#20",
+     "title": "Partick Thistle lose SWPL points for amateur player payments",
+     "published": "2026-11-10T19:23:42+00:00",
+     "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season."
+    },
+    {
+     "ref": "bbc_football#21",
+     "title": "Partick Thistle lose SWPL points for amateur player payments",
+     "published": "2026-11-10T19:23:42+00:00",
+     "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season."
+    },
+    {
+     "ref": "bbc_football#22",
      "title": "Lecturer's bid to challenge Fifa president Infantino",
      "published": "2026-11-10T19:14:14+00:00",
      "summary": "University lecturer Peter Auf der Heyde is seeking to be nominated to take on Gianni Infantino for the Fifa presidency."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
      "published": "2026-11-10T18:12:02+00:00",
      "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach"
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Wales' Johnson says definitely more to come after 50 caps",
      "published": "2026-11-10T18:01:03+00:00",
      "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "McTominay reveals heart treatment at World Cup",
-     "published": "2026-11-10T16:46:31+00:00",
-     "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "McTominay reveals heart treatment at World Cup",
-     "published": "2026-11-10T16:46:31+00:00",
-     "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June."
     }
    ]
   },

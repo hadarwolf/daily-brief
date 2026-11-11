@@ -104,12 +104,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "The physics of getting fired",
      "published": "2026-10-29T10:00:00+00:00",
      "summary": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "The Amarna letters",
-     "published": "2026-10-28T10:01:00+00:00",
-     "summary": "Petty disputes, pleas for help and requests for gold – explore letters sent to Egyptian pharaohs more than 3,000 years ago - by Aeon Video Watch on Aeon"
     }
    ]
   },
@@ -309,12 +303,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "When giving up teaches you more than persevering ever could",
      "published": "2026-10-29T10:00:00+00:00",
      "summary": "Grit is all well and good, but sometimes abandoning your goals can be crucial to discovering who you are - by Mario I Juarez-Garcia Read on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "The bookshelf builder",
-     "published": "2026-10-28T10:00:00+00:00",
-     "summary": "Ellah Wakatama is editor, agent, publisher and mentor, all rolled into one. Her mission: to put the work of gifted Black writers into the literary canon - by Carey Baraka Read on Psyche"
     }
    ]
   },
