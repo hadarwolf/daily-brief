@@ -1,0 +1,106 @@
+{
+  "section": "business",
+  "date": "2026-11-11",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-11T03:46:08+00:00",
+  "stories": [
+    {
+      "id": "anthropic-ipo-circular-ai-financing",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic's IPO Puts AI's Circular Financing Under the Microscope",
+        "scroll": "Anthropic's IPO prices near $1.3-1.5 trillion the same week SoftBank posts a $7bn AI writedown and CoreWeave raises chip-backed debt — a glimpse of how circularly AI's boom finances itself.",
+        "coffee": "Anthropic, the company behind the Claude AI models, is heading toward an IPO expected to price around November 18 — and the numbers kept moving through the day. Bloomberg cited a $1.4 trillion target valuation with up to $90.4 billion raised; the Wall Street Journal put it near $1.3 trillion; the Financial Times reported bankers pushing toward $1.5 trillion or more on strong demand. Hebrew-language coverage (TheMarker) cited a $64.4 billion raise alongside the $1.4 trillion figure.\n\nThe deal uses a dual-class structure: each of the seven founders is set to sell about $250 million in stock — cashing in on a stake worth roughly $18 billion each — while keeping total voting control.\n\nThe same day brought reminders of how intertwined AI financing has become. SoftBank reported its first net loss in almost two years, with a $3.7 billion writedown on US data-center bets, sending its shares down as much as 11%. CoreWeave, meanwhile, is reportedly planning a multibillion-dollar debt deal backed by its chips and customer prepayments rather than ordinary borrowing. Together with Anthropic's own listing — meant to fund more computing capacity — these moves are fueling questions about whether AI firms are increasingly financing each other's growth in a closed loop, rather than selling into independent demand. What to watch: how Anthropic trades after pricing, and whether SoftBank's writedown turns out to be the first of several.",
+        "deep": "## Background\n\nAnthropic, the maker of the Claude AI models, is preparing to go public, with pricing expected around November 18. An IPO (initial public offering) is the process by which a private company sells shares to public investors for the first time, typically preceded by \"bookbuilding\": bankers canvass large investors to gauge demand and set a price range before the stock starts trading. Anthropic's bankers have reportedly been revising that range upward as demand came in strong.\n\n## The story\n\nReports during the day gave different numbers for where the deal will land: Bloomberg cited a target \"fully diluted valuation\" (counting all shares that could ever exist, including options and grants, not just those issued today) of about $1.4 trillion, raising up to $90.4 billion; the Wall Street Journal put the target nearer $1.3 trillion; and the Financial Times reported bankers were preparing to push the valuation to $1.5 trillion or more after strong investor demand. Hebrew-language coverage (TheMarker) cited a $64.4 billion raise target alongside the $1.4 trillion figure. Whichever number lands on November 18, the scale is enormous for any IPO.\n\nThe deal's structure also gives the seven listed insiders — Anthropic's founders — a window into one of the more unusual features of recent tech IPOs: a dual-class share structure. Each founder is reported to be selling roughly $250 million of stock at the IPO price, cashing in a slice of a stake now worth about $18 billion each, while retaining total voting control of the company. Dual-class structures split economic ownership (what you're paid as shares rise or fall) from control (who gets to vote on company decisions), letting founders raise large sums without ceding the boardroom.\n\nBloomberg's own framing of the deal raised a second, more structural question: whether the IPO proceeds — which Anthropic says will fund computing capacity for its AI models — illustrate a \"circular financing\" dynamic increasingly visible across the AI industry. The term describes a loop in which AI labs, chipmakers and cloud providers invest in, lend to, or prepay each other, so that one company's capital spending becomes another's revenue, without necessarily reflecting demand from outside the loop.\n\n## Second-order effects\n\nTwo same-day stories show that loop under strain. SoftBank, a major AI investor, reported its first net loss in nearly two years after taking a $3.7 billion writedown tied to US data-center projects and falling AI valuations elsewhere in its portfolio; its shares fell as much as 11%. Separately, CoreWeave — a cloud company that rents out GPU computing power — is reportedly planning a multibillion-dollar debt deal secured by its chips and backed partly by prepayments from its own customers, rather than conventional corporate borrowing. Chip-backed debt and customer prepayments let a capital-intensive company raise money faster than profits would otherwise allow, but they also tie a lender's and a customer's fortunes more tightly to the borrower's — stacking risk if AI spending growth were to slow.\n\nNone of this means Anthropic's IPO is unsound; a company can have genuinely strong demand for its product and still sit inside a web of circular financing elsewhere in its industry. But the juxtaposition — a record-breaking valuation pricing in the same week as a major writedown and a chip-collateralized debt deal — is why investors and reporters are increasingly asking whether AI infrastructure spending is self-reinforcing in a way that could unwind quickly if growth disappoints.\n\n## What to watch next\n\nThe IPO is expected to price around November 18; how it trades in the days after will be read as a referendum on investor appetite for AI-sector risk more broadly, not just for Anthropic specifically. Also worth watching: whether SoftBank's writedown is a one-off or the first of several as other AI investors mark down data-center bets, and whether CoreWeave's chip-backed debt deal gets done on the terms reported."
+      },
+      "he": {
+        "headline": "ההנפקה של אנתרופיק חושפת את המימון המעגלי של תעשיית ה-AI",
+        "scroll": "ההנפקה (IPO) של אנתרופיק מתומחרת בין 1.3 ל-1.5 טריליון דולר, באותו שבוע שבו סופטבנק מוחקת 3.7 מיליארד דולר מהשקעות AI וקוראוויב מגייסת חוב מגובה-שבבים - תמונה של מימון מעגלי בתעשייה.",
+        "coffee": "אנתרופיק, החברה שמפתחת את מודלי ה-AI קלוד, בדרך להנפקה ראשונה לציבור (IPO) שצפויה להיתמחר סביב ה-18 בנובמבר - והמספרים השתנו במהלך היום. בלומברג ציינה שווי יעד של 1.4 טריליון דולר וגיוס של עד 90.4 מיליארד דולר; הוול סטריט ג'ורנל דיווח על יעד קרוב יותר ל-1.3 טריליון דולר; הפייננשל טיימס דיווח שהבנקרים דוחפים את השווי ל-1.5 טריליון דולר או יותר בשל ביקוש חזק. התקשורת העברית (TheMarker) ציינה גיוס של 64.4 מיליארד דולר לצד הנתון של 1.4 טריליון דולר.\n\nהעסקה בנויה על מבנה בעלות דו-מעמדי (dual-class structure): כל אחד משבעת המייסדים צפוי למכור מניות בשווי של כ-250 מיליון דולר - ולממש חלק מההחזקה שלו, ששווה כ-18 מיליארד דולר - אך לשמור על שליטה מלאה בהצבעה בחברה.\n\nאותו היום הביא גם תזכורות לכך שהמימון בתעשיית ה-AI הפך למקושר יותר ויותר. סופטבנק דיווחה על ההפסד הנקי הראשון שלה בכשנתיים, עם מחיקה של 3.7 מיליארד דולר על השקעות במרכזי נתונים בארה״ב, מה שהוריד את מנייתה בעד 11%. במקביל, קוראוויב (CoreWeave) מתכננת, לפי הדיווחים, עסקת חוב של מיליארדי דולרים המגובה בשבבים ובתשלומים מקדימים של לקוחות, במקום הלוואה רגילה. לצד ההנפקה של אנתרופיק עצמה - שמיועדת למימון כוח מחשוב נוסף - המהלכים הללו מעוררים שאלות אם חברות ה-AI מממנות יותר ויותר את הצמיחה זו של זו במעגל סגור, ולא מוכרות לביקוש עצמאי מהשוק. מה לעקוב אחריו: איך אנתרופיק תיסחר אחרי התמחור, ואם המחיקה של סופטבנק תתגלה כראשונה מתוך כמה.",
+        "deep": "## רקע\n\nאנתרופיק, החברה שמפתחת את מודלי השפה קלוד, נמצאת בדרך להנפקה ראשונה לציבור (IPO - Initial Public Offering), שצפויה להיתמחר סביב ה-18 בנובמבר. בהנפקה ראשונה חברה פרטית מוכרת מניות למשקיעים בבורסה בפעם הראשונה, ולפני כן הבנקים המלווים את ההנפקה מבצעים \"בניית ספר הזמנות\" (bookbuilding): הם בוחנים את הביקוש בקרב משקיעים גדולים כדי לקבוע טווח מחירים לפני שהמניה מתחילה להיסחר. לפי הדיווחים, הבנקרים של אנתרופיק העלו את הטווח הזה במהלך התהליך בעקבות ביקוש חזק.\n\n## הסיפור\n\nדיווחים שונים שהתפרסמו באותו היום נתנו מספרים שונים לגבי התוצאה הצפויה של ההנפקה: בלומברג ציינה יעד של \"שווי מדולל במלואו\" (fully diluted valuation - שווי שמביא בחשבון את כל המניות שעשויות להתקיים בעתיד, כולל אופציות ומניות שהוקצו ועוד לא הומרו, לא רק את אלה שקיימות כיום) של כ-1.4 טריליון דולר, עם גיוס של עד 90.4 מיליארד דולר; הוול סטריט ג'ורנל דיווח על יעד קרוב יותר ל-1.3 טריליון דולר; הפייננשל טיימס דיווח שהבנקרים מתכוונים לדחוף את השווי ל-1.5 טריליון דולר או יותר בעקבות ביקוש חזק של משקיעים. גם התקשורת העברית (TheMarker) דיווחה על יעד גיוס של 64.4 מיליארד דולר לצד הנתון של 1.4 טריליון דולר. איזה מספר בדיוק יתממש ב-18 בנובמבר עדיין לא ידוע, אבל בכל מקרה מדובר בהנפקה בסדר גודל חריג.\n\nמבנה העסקה חושף תכונה נוספת שמאפיינת הנפקות טכנולוגיה רבות בשנים האחרונות: מבנה בעלות דו-מעמדי (dual-class structure). לפי הדיווחים, כל אחד משבעת המייסדים הרשומים כבעלי עניין צפוי למכור מניות בשווי של כ-250 מיליון דולר בהנפקה - ולממש חלק מההחזקה שלו, ששווה כעת כ-18 מיליארד דולר - אך לשמור על שליטה מלאה בהצבעה בחברה. מבנה דו-מעמדי מפריד בין הבעלות הכלכלית (מה שמשקיע מרוויח או מפסיד כשהמניה עולה או יורדת) לבין השליטה (מי מחליט בפועל על החברה), ומאפשר למייסדים לגייס סכומי עתק מבלי לאבד את מושב הניהול.\n\nבלומברג עצמה הציגה את העסקה גם כהזדמנות לדון בשאלה מבנית יותר: האם תמורת ההנפקה - שאנתרופיק מתכננת להשקיע בהרחבת כוח המחשוב למודלים שלה - משקפת דינמיקה של \"מימון מעגלי\" (circular financing) שהופכת בולטת יותר ויותר בתעשיית ה-AI. המונח מתאר מעגל שבו חברות AI, יצרני שבבים וספקי מחשוב בענן משקיעים זה בזה, מלווים זה לזה או משלמים זה לזה מראש, כך שההוצאה ההונית של חברה אחת הופכת להכנסה של חברה אחרת - לא בהכרח מתוך ביקוש שמקורו מחוץ למעגל הזה.\n\n## השפעות מדרגה שנייה\n\nשני סיפורים נוספים מאותו היום מראים את המעגל הזה תחת לחץ. סופטבנק, אחת המשקיעות המרכזיות בתעשיית ה-AI, דיווחה על ההפסד הנקי הראשון שלה בכשנתיים, בעקבות מחיקה של 3.7 מיליארד דולר שקשורה להשקעות במרכזי נתונים בארה״ב ולירידות שווי נוספות בתיק ה-AI שלה; מנייתה צנחה בעד 11%. במקביל, קוראוויב (CoreWeave), חברה שמשכירה כוח מחשוב מבוסס מעבדי גרפיקה (GPU), מתכננת לפי הדיווחים עסקת חוב של מיליארדי דולרים המגובה בשבבים שלה ובתשלומים מקדימים מלקוחותיה, במקום הלוואה רגילה. חוב מגובה-שבבים ותשלומים מקדימים של לקוחות מאפשרים לחברה עתירת הון לגייס כסף מהר יותר ממה שרווחיה היו מאפשרים, אך הם גם קושרים את גורלם של המלווה והלקוח בגורל החברה החייבת בצורה הדוקה יותר - וכך מצטבר סיכון אם קצב הצמיחה בהשקעות ב-AI יואט.\n\nכל זה לא אומר שההנפקה של אנתרופיק עצמה אינה מוצדקת - חברה יכולה לזכות לביקוש אמיתי וחזק למוצר שלה, ועדיין לשכון בתוך רשת של מימון מעגלי במקום אחר בתעשייה שלה. אבל הסמיכות בזמן - שווי שיא שמתומחר באותו שבוע שבו מתפרסמת מחיקה גדולה ועסקת חוב מגובה-שבבים - היא הסיבה לכך שמשקיעים ועיתונאים שואלים יותר ויותר אם ההשקעה בתשתיות AI מזינה את עצמה בצורה שעלולה להתהפך במהירות אם הצמיחה תתאכזב.\n\n## מה לעקוב אחריו\n\nההנפקה צפויה להיתמחר סביב ה-18 בנובמבר; האופן שבו המניה תיסחר בימים שאחרי יתפרש כמשאל עם על התשוקה של משקיעים לסיכון בתעשיית ה-AI בכללותה, לא רק על אנתרופיק עצמה. כדאי לעקוב גם אם המחיקה של סופטבנק היא מקרה חד-פעמי או הראשונה מתוך כמה, ככל שמשקיעי AI נוספים ירשמו הפחתות ערך על השקעות במרכזי נתונים, ואם עסקת החוב מגובה-השבבים של קוראוויב תיסגר בתנאים שדווחו."
+      },
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai-financing",
+        "circular-financing"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "SoftBank Group Shares Drop 11% After Booking $7 Billion Loss",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/softbank-group-shares-drop-10-after-booking-7-billion-loss"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Breaking Down Anthropic's $1.4 Trillion IPO Valuation",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-11/breaking-down-anthropic-s-1-4-trillion-ipo-valuation-video"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+          "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
+          "url": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
+          "url": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "המסחר בוול סטריט הסתיים בירידות; נאסד\"ק נסוג ב-0.7%, אנבידיה איבדה 5.5%",
+          "url": "https://www.themarker.com/wallstreet/2026-11-10/ty-article-live/.premium/000001a1-b4b2-d041-a5f9-f5b36bdf0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4100.7798,
+      "prev_close": 4013.5,
+      "change_pct": 2.17,
+      "as_of": "2026-11-10"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7520.9302,
+      "prev_close": 7549.9399,
+      "change_pct": -0.38,
+      "as_of": "2026-11-10"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1738,
+      "prev_close": 3.1575,
+      "change_pct": 0.52,
+      "as_of": "2026-11-11"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 92.32,
+      "prev_close": 92.57,
+      "change_pct": -0.27,
+      "as_of": "2026-11-10"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 73621.8828,
+      "prev_close": 75223.1484,
+      "change_pct": -2.13,
+      "as_of": "2026-11-11"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-11",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-11T03:46:08+00:00",
+  "stories": [
+    {
+      "id": "vesting-cliff",
+      "kind": "word",
+      "en": {
+        "headline": "Vesting cliff (צוק הבשלה)",
+        "scroll": "A vesting cliff is the waiting period — often a year — before any of your granted stock options actually become yours.",
+        "coffee": "Startup equity grants rarely transfer all at once. A vesting cliff is the initial stretch, commonly twelve months, during which you own zero percent of your grant; quit or get let go before it passes and you leave with nothing. Once you clear the cliff, a chunk vests immediately and the rest trickles in monthly or quarterly over the following years. Example: \"Her offer had a four-year vesting schedule with a one-year cliff, so leaving after ten months meant forfeiting every option.\"",
+        "deep": "The cliff mainly protects a company from handing real equity to someone who leaves after a few weeks. The default structure in Silicon Valley, and increasingly in Israeli tech, is a four-year vest with a one-year cliff: nothing vests for twelve months, then 25% vests in one go, with the remaining 75% following monthly or quarterly over the next three years.\n\nA common mix-up: the cliff isn't the whole vesting period, just its first stretch. People sometimes use \"cliff\" loosely to describe the entire four years, but technically it's only the no-vesting zone at the start. A second wrinkle shows up after acquisitions: some buyers impose a fresh \"re-vesting\" cliff on existing employees, quietly resetting the clock.\n\nMore examples: \"He hit his cliff in March and exercised the first batch immediately.\" \"Founders sometimes face a vesting cliff of their own, tied to the very company they started.\"\n\nThe Hebrew term is צוק הבשלה — literally \"ripening cliff,\" since vesting (הבשלה) is the same word used for fruit ripening."
+      },
+      "he": {
+        "headline": "צוק ההבשלה (Vesting Cliff)",
+        "scroll": "צוק הבשלה הוא פרק הזמן — לרוב שנה — שבו אף אחת מהאופציות שהוקצו לך עדיין לא שייכת לך בפועל.",
+        "coffee": "הקצאות מניות בסטארטאפים כמעט לא מבשילות בבת אחת. צוק ההבשלה הוא פרק הזמן הראשוני, בדרך כלל שנה, שבו אתה מחזיק באחוז אפס מההקצאה שלך — ואם אתה עוזב או מפוטר לפני שהוא עובר, אתה נשאר בלי כלום. ברגע שעוברים את הצוק, חלק מההקצאה מבשיל בבת אחת והשאר ממשיך להבשיל בקצב חודשי או רבעוני בשנים הבאות. לדוגמה: \"ההצעה שלה כללה הבשלה על פני ארבע שנים עם צוק של שנה אחת, כך שעזיבה אחרי עשרה חודשים משמעותה אובדן כל האופציות.\"",
+        "deep": "הצוק נועד בעיקר להגן על החברה מפני הקצאת מניות ממשיות למי שעוזב אחרי כמה שבועות. המבנה הנפוץ בעמק הסיליקון, ויותר ויותר גם בהייטק הישראלי, הוא הבשלה על פני ארבע שנים עם צוק של שנה: במהלך שנה שלמה לא מבשיל כלום, ואז 25% מבשילים בבת אחת, והיתר — 75% הנותרים — ממשיכים להבשיל בקצב חודשי או רבעוני בשלוש השנים שלאחר מכן.\n\nבלבול נפוץ: הצוק אינו כל תקופת ההבשלה, אלא רק הקטע הראשוני שלה. יש שמשתמשים במילה \"צוק\" לתיאור כל ארבע השנים, אבל במובן המדויק זהו רק האזור שבו אין הבשלה בכלל. סיבוך נוסף מופיע לאחר רכישות: קונים מסוימים מטילים צוק הבשלה חדש (\"re-vesting\") על עובדים קיימים, ובכך מאפסים בשקט את השעון.\n\nעוד דוגמאות: \"הוא עבר את הצוק במרץ ומימש מיד את המנה הראשונה.\" \"גם מייסדים נתקלים לפעמים בצוק הבשלה משלהם, הצמוד לחברה שהם עצמם הקימו.\"\n\nהמונח האנגלי, vesting cliff, משתמש במילה vesting שמקורה בדימוי של \"הבשלה\" — כמו פרי שמבשיל בהדרגה."
+      },
+      "tags": [
+        "equity",
+        "startups",
+        "compensation"
+      ],
+      "sources": []
+    },
+    {
+      "id": "mark-to-market",
+      "kind": "word",
+      "en": {
+        "headline": "Mark-to-market (הערכה לפי שווי שוק)",
+        "scroll": "Mark-to-market means valuing an asset on your books at today's market price, not at what you originally paid for it.",
+        "coffee": "Instead of carrying an asset at its purchase cost forever, mark-to-market (often shortened to \"marking\" a position) means updating its value on the balance sheet to reflect the current market price — every day, in some trading books. It cuts both ways: gains get recognized before you sell, but so do losses. Example: \"After the bond sell-off, the fund had to mark its portfolio to market and report a paper loss even though it hadn't sold a single bond.\"",
+        "deep": "Mark-to-market accounting matters most for things that trade in liquid markets — bonds, stocks, derivatives, commodities — where a current price is easy to observe. It's the opposite of \"historical cost\" accounting, which keeps assets on the books at what you paid, ignoring later price moves.\n\nThe common confusion is mixing up realized and unrealized results. A mark-to-market loss hasn't cost you a cent in cash; it only means the position would lose money if you closed it out today. That distinction mattered enormously during the 2008 financial crisis, when banks had to mark illiquid mortgage securities to market prices that had briefly collapsed, forcing them to report huge losses on assets they had no intention of selling — part of why regulators later eased the rules for certain illiquid holdings.\n\nMore examples: \"Margin accounts are marked to market daily, so a bad day can trigger a margin call even if you plan to hold long-term.\" \"The company marks its crypto holdings to market every quarter, so its reported profit swings with bitcoin's price.\"\n\nIn Hebrew: הערכה לפי שווי שוק, or in short, \"מרקינג\"."
+      },
+      "he": {
+        "headline": "הערכה לפי שווי שוק (Mark-to-Market)",
+        "scroll": "הערכה לפי שווי שוק פירושה לרשום נכס בספרים לפי המחיר שלו היום בשוק, ולא לפי המחיר שבו נרכש בעבר.",
+        "coffee": "במקום להציג נכס בספרים לפי עלות הרכישה שלו לנצח, הערכה לפי שווי שוק (mark-to-market) מעדכנת את שוויו בדוחות הכספיים כך שישקף את מחיר השוק הנוכחי — בחלק מתיקי המסחר, אפילו על בסיס יומי. לשיטה הזו שני צדדים: רווחים נרשמים לפני שמוכרים בפועל, אבל כך גם הפסדים. לדוגמה: \"אחרי המכירה החדה באג\"חים, הקרן נאלצה להעריך את התיק לפי שווי שוק ולדווח על הפסד על הנייר, אף שלא מכרה אפילו אג\"ח אחת.\"",
+        "deep": "חשבונאות לפי שווי שוק חשובה בעיקר לנכסים שנסחרים בשווקים נזילים — אג\"ח, מניות, נגזרים, סחורות — שבהם קל לראות מחיר עדכני. זו השיטה המנוגדת לחשבונאות \"לפי עלות היסטורית\", שמותירה נכסים בספרים לפי מה ששולם עליהם בעבר, בלי קשר לתנודות מחיר מאוחרות יותר.\n\nהבלבול הנפוץ הוא בין תוצאה ממומשת לתוצאה שאינה ממומשת. הפסד לפי שווי שוק לא עלה לך אגורה אחת במזומן בפועל — הוא רק אומר שאם תסגור את הפוזיציה היום, תפסיד. ההבחנה הזו הייתה קריטית במהלך המשבר הפיננסי של 2008, כשבנקים נאלצו להעריך איגרות מגובות משכנתאות לא-נזילות לפי מחירי שוק שקרסו באופן זמני, מה שהכריח אותם לדווח על הפסדים עצומים על נכסים שלא תכננו למכור — וזו אחת הסיבות לכך שהרגולטורים הקלו מאוחר יותר על הכללים לגבי אחזקות לא-נזילות מסוימות.\n\nעוד דוגמאות: \"חשבונות מרג'ין מוערכים לפי שווי שוק על בסיס יומי, כך שיום גרוע יכול לגרום לקריאת מרג'ין גם אם מתכוונים להמשיך להחזיק לטווח ארוך.\" \"החברה מעריכה את אחזקות הקריפטו שלה לפי שווי שוק כל רבעון, כך שהרווח המדווח שלה מתנדנד עם מחיר הביטקוין.\"\n\nבאנגלית: mark-to-market, ולעיתים בקצרה marking."
+      },
+      "tags": [
+        "accounting",
+        "markets",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "drinking-the-kool-aid",
+      "kind": "word",
+      "en": {
+        "headline": "Drinking the Kool-Aid (לאמץ נרטיב בעיניים עצומות)",
+        "scroll": "To \"drink the Kool-Aid\" is to accept a company's or leader's story so completely that you stop questioning it, even when the evidence turns shaky.",
+        "coffee": "The phrase describes uncritical, almost cult-like belief in an organization's narrative — adopted so fully that warning signs get waved away. It's usually used as a mild accusation, not a compliment. Example: \"Early employees who drank the Kool-Aid kept defending the CEO's growth projections long after the numbers stopped adding up.\"",
+        "deep": "The phrase traces back to the 1978 Jonestown mass murder-suicide, in which followers of cult leader Jim Jones drank a cyanide-laced grape drink (not actually Kool-Aid brand) on his orders. Because the origin is genuinely grim, some writers avoid the phrase or soften it to \"drank the punch\"; it's worth knowing the history even when using it casually in a business context.\n\nIn practice it's used two ways: to describe employees who buy fully into a founder's vision (sometimes admiringly, usually with a hint of irony), and to describe investors or customers who ignore red flags because they're emotionally invested in a story. It overlaps with \"true believer\" but carries a sharper implication that the belief is naive or manipulated.\n\nMore examples: \"Analysts who drank the Kool-Aid kept their buy ratings on the stock through three consecutive profit warnings.\" \"You don't have to drink the Kool-Aid to work here, but it helps to at least like the product.\"\n\nIn Hebrew there's no single fixed idiom; the sense is usually rendered as לאמץ נרטיב בעיניים עצומות (to adopt a narrative with eyes closed), or more loosely as \"לשתות את הקוקטייל\" in slang."
+      },
+      "he": {
+        "headline": "לאמץ נרטיב בעיניים עצומות (Drinking the Kool-Aid)",
+        "scroll": "\"לשתות את הקוקטייל\" (Drinking the Kool-Aid) פירושו לאמץ את הסיפור של חברה או מנהיג בצורה כך מוחלטת שמפסיקים לשאול שאלות — אפילו כשהעדויות מתחילות להתערער.",
+        "coffee": "הביטוי מתאר אמונה לא-ביקורתית, כמעט כמו-כתית, בנרטיב של ארגון — אמונה שמתקבלת בצורה שלמה כך שסימני אזהרה נדחים בלי התייחסות. בדרך כלל זו האשמה עדינה ולא מחמאה. לדוגמה: \"עובדים ותיקים ש'שתו את הקוקטייל' המשיכו להגן על תחזיות הצמיחה של המנכ\"ל הרבה אחרי שהמספרים הפסיקו להסתדר.\"",
+        "deep": "מקור הביטוי הוא בטבח-ההתאבדות ההמוני בג'ונסטאון ב-1978, שבו חסידי הכת של ג'ים ג'ונס שתו משקה ענבים מורעל בציאניד (לא ממש מוצר בשם קול-אייד) בהוראתו. מכיוון שהמקור כך קשה, חלק מהכותבים נמנעים מהביטוי או מרככים אותו ל\"שתו את המיץ\"; שווה להכיר את ההיסטוריה הזו גם כשמשתמשים בביטוי בהקשר עסקי קליל.\n\nבפועל הוא משמש בשני אופנים: לתיאור עובדים שמאמצים לחלוטין את החזון של המייסד (לעיתים בהערכה, אך לרוב עם נימה אירונית), ולתיאור משקיעים או לקוחות שמתעלמים מדגלים אדומים כי הם מחוברים רגשית לסיפור. יש חפיפה עם \"מאמין אמת\", אבל הביטוי הזה נוקב יותר — הוא מרמז שהאמונה נאיבית או מניפולטיבית.\n\nעוד דוגמאות: \"אנליסטים ש'שתו את הקוקטייל' השאירו דירוג 'קנייה' על המניה דרך שלוש אזהרות רווח רצופות.\" \"לא חייבים לשתות את הקוקטייל כדי לעבוד כאן, אבל זה עוזר לפחות לאהוב את המוצר.\"\n\nבעברית אין ביטוי מקובע אחד; המשמעות מתורגמת בדרך כלל כ'לאמץ נרטיב בעיניים עצומות', או בסלנג פשוט 'לשתות את הקוקטייל'."
+      },
+      "tags": [
+        "corporate-culture",
+        "behavioral-finance",
+        "idiom"
+      ],
+      "sources": []
+    },
+    {
+      "id": "network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why the biggest platform keeps winning",
+        "scroll": "A network effect is when a product gets more valuable to each user as more people join — which is why dominant platforms tend to snowball.",
+        "coffee": "Network effects explain why the first phone on an exchange is nearly worthless and the millionth is extremely valuable: each new user makes the network better for everyone already on it. Direct network effects happen between users of the same product (a messaging app); indirect ones happen between two different groups a platform connects (buyers and sellers on a marketplace). They're a big reason winners in social networks, marketplaces and payment systems tend to pull far ahead of competitors with technically similar products — and why the products are so hard to displace once they're established.",
+        "deep": "## Background\nThe concept is old — Theodore Vail used it to justify AT&T's telephone monopoly over a century ago — but it became a core idea in tech economics once internet platforms made it the main driver of value. The simplest version is a direct network effect: with a messaging app or a fax machine, a lone user gets nothing, and value compounds roughly with the number of possible connections between users.\n\n## The mechanism\nIndirect (or \"two-sided\") network effects are more common in modern platforms: more riders on Uber attract more drivers, which shortens wait times, which attracts more riders. More sellers on eBay or Amazon attract more buyers, who in turn attract more sellers. Each side feeds the other.\n\n## Worked example\nImagine a food-delivery app with 1,000 restaurants and 10,000 users in a city. A competitor launches with the same app quality but only 100 restaurants. A new user comparing the two sees far less restaurant choice on the smaller app, and worse average wait times too, since drivers are spread over fewer orders. So even though the apps are functionally identical, users gravitate to the bigger one, restaurants follow the users, and the gap widens on its own. This is sometimes visualized as a flywheel: each loop around makes the next loop easier.\n\n## The catch\nNetwork effects can run in reverse too. If users start leaving a platform — a social network going out of fashion, for instance — the product gets worse for everyone remaining, which pushes more people out. The same mechanism that builds dominance can also collapse it quickly once it tips. That's why incumbents defend their networks so aggressively, and why genuinely new platforms usually need to start in a narrow niche (a single city, a single college campus) where they can reach a self-sustaining density before expanding."
+      },
+      "he": {
+        "headline": "אפקט רשת: למה הפלטפורמה הגדולה ביותר ממשיכה לנצח",
+        "scroll": "אפקט רשת (network effect) הוא מצב שבו מוצר נהיה שימושי יותר לכל משתמש ככל שיותר אנשים מצטרפים אליו — וזו הסיבה שפלטפורמות דומיננטיות נוטות להתרחב מעצמן.",
+        "coffee": "אפקט רשת מסביר למה הטלפון הראשון בתוך רשת מסוימת שווה כמעט כלום, ואילו הטלפון המיליון שווה הרבה: כל משתמש חדש משפר את הרשת לכל מי שכבר נמצא בה. אפקט רשת ישיר קורה בין משתמשים של אותו מוצר (אפליקציית הודעות); אפקט רשת עקיף קורה בין שתי קבוצות שונות שהפלטפורמה מחברת ביניהן (קונים ומוכרים בשוק מקוון). זו אחת הסיבות המרכזיות לכך שהמנצחים ברשתות חברתיות, בשווקים מקוונים ובמערכות תשלום נוטים להתרחק הרבה מהמתחרים שלהם, גם כשהמוצרים טכנית דומים — ולמה קשה מאוד להחליף אותם ברגע שהם מתבססים.",
+        "deep": "## רקע\nהמושג אינו חדש — תיאודור וייל השתמש בו כדי להצדיק את המונופול של AT&T על רשת הטלפונים לפני למעלה ממאה שנה — אבל הוא הפך לרעיון מרכזי בכלכלת הטכנולוגיה כשפלטפורמות אינטרנט הפכו אותו לגורם המרכזי בערך שלהן. הגרסה הפשוטה ביותר היא אפקט רשת ישיר: באפליקציית הודעות או במכונת פקס, משתמש בודד לא מקבל כלום, והערך גדל בערך לפי מספר החיבורים האפשריים בין המשתמשים.\n\n## המכניזם\nאפקט רשת עקיף (\"דו-צדי\") נפוץ יותר בפלטפורמות מודרניות: יותר נוסעים באובר מושכים יותר נהגים, מה שמקצר את זמני ההמתנה, מה שמושך עוד נוסעים. יותר מוכרים באיביי או באמזון מושכים יותר קונים, שמושכים בחזרה עוד מוכרים. כל צד מזין את הצד השני.\n\n## דוגמה מספרית\nנניח אפליקציית משלוחי אוכל עם 1,000 מסעדות ו-10,000 משתמשים בעיר. מתחרה משיקה אפליקציה באותה איכות אבל עם רק 100 מסעדות. משתמש חדש שמשווה בין השתיים רואה הרבה פחות בחירת מסעדות באפליקציה הקטנה, וגם זמני המתנה גרועים יותר בממוצע, כי הנהגים מפוזרים על פני פחות הזמנות. כך שאף שהאפליקציות דומות מבחינה פונקציונלית, המשתמשים נוטים לבחור בגדולה, המסעדות עוקבות אחרי המשתמשים, והפער מתרחב מעצמו. זה מה שמכונה לעיתים \"אפקט הגלגל התנופה\" (flywheel effect) — כל סחרור מקל על הסחרור הבא.\n\n## הקאץ'\nאפקט הרשת יכול לפעול גם בכיוון ההפוך. אם משתמשים מתחילים לעזוב פלטפורמה — רשת חברתית שיוצאת מאופנה, לדוגמה — המוצר נהיה גרוע יותר לכל מי שנשאר, מה שדוחף עוד אנשים לעזוב. אותו מכניזם שבונה דומיננטיות יכול גם לקרוס במהירות ברגע שהוא מתהפך. זו הסיבה שחברות מבוססות מגנות על הרשתות שלהן בעוצמה כך רבה, ולמה פלטפורמות חדשות באמת צריכות בדרך כלל להתחיל בנישה צרה (עיר אחת, קמפוס קולג' אחד) שבה הן יכולות להגיע לצפיפות שמקיימת את עצמה לפני שמתרחבים."
+      },
+      "tags": [
+        "network-effects",
+        "platforms",
+        "economics"
+      ],
+      "sources": []
+    },
+    {
+      "id": "1918-armistice",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1918: The guns fall silent in the Forest of Compiègne",
+        "scroll": "On 11 November 1918, Germany signed an armistice with the Allies in a railway carriage near Compiègne, ending the fighting of the First World War.",
+        "coffee": "At 5 a.m. on 11 November 1918, German representatives signed an armistice with the Allied powers in a railway carriage in the Forest of Compiègne, north of Paris. The ceasefire took effect six hours later, at 11 a.m. — the \"eleventh hour of the eleventh day of the eleventh month\" — ending more than four years of fighting that had already claimed millions of lives. It followed a cascade of earlier armistices with Germany's exhausted allies: Bulgaria, the Ottoman Empire and Austria-Hungary had all already dropped out of the war.\n\nThe armistice halted the fighting but did not legally end the war; that took the Treaty of Versailles, signed the following June. The date became Armistice Day across much of the former Allied world, later renamed Veterans Day in the United States and kept as Remembrance Day in Britain and the Commonwealth — still marked every year with a moment of silence at 11 a.m. on 11 November.",
+        "deep": "## Background\nBy late 1918, Germany's position had collapsed on every front. Its allies were falling away one by one: Bulgaria signed an armistice in September, the Ottoman Empire in late October, and Austria-Hungary on 3 November. German troops were retreating steadily on the Western Front, the home front was gripped by food shortages and strikes, and on 9 November — two days before the armistice — Kaiser Wilhelm II abdicated and fled to the Netherlands, leaving a new civilian government to negotiate an end to the war.\n\n## The signing\nThe German delegation, led by politician Matthias Erzberger, met Allied supreme commander Ferdinand Foch in a converted railway carriage at Compiègne, chosen partly for its seclusion from journalists. The terms were effectively dictated rather than negotiated: German forces had to withdraw from occupied France and Belgium and from Alsace-Lorraine, surrender large quantities of weapons and equipment, and allow Allied occupation of German territory west of the Rhine. The document was signed shortly after 5 a.m. Paris time, with the ceasefire set for 11 a.m. to allow time for the news to reach units at the front — which is why fighting, in some places, continued for those final six hours.\n\n## Second-order effects\nThe armistice ended the fighting but left the hardest questions — reparations, borders, war guilt — to the peace conference that produced the Treaty of Versailles in 1919. Its harsh terms, especially the war-guilt clauses and reparations imposed on Germany, are widely cited by historians as a contributing factor to the political and economic instability that helped fuel the rise of Nazism two decades later. The armistice's own railway carriage became a symbol in its own right: Adolf Hitler deliberately staged France's 1940 surrender to Germany in that same carriage, at that same spot, as a calculated act of historical revenge.\n\n## What to remember\nThe armistice is why 11 November is marked across much of the world — as Armistice Day, Remembrance Day or Veterans Day — with poppies, moments of silence and ceremonies at war memorials, more than a century after the guns fell silent."
+      },
+      "he": {
+        "headline": "1918: השתיקה יורדת ביער קומפיין",
+        "scroll": "ב-11 בנובמבר 1918 חתמה גרמניה על הסכם שביתת נשק עם בעלות הברית בקרון רכבת ליד קומפיין, ובכך הסתיימו הקרבות של מלחמת העולם הראשונה.",
+        "coffee": "בשעה 5 לפנות בוקר, ב-11 בנובמבר 1918, חתמו נציגי גרמניה על הסכם שביתת נשק עם מעצמות ההסכמה בקרון רכבת ביער קומפיין, מצפון לפריז. שביתת הנשק נכנסה לתוקף שש שעות לאחר מכן, בשעה 11 בבוקר — \"בשעה האחת-עשרה של היום האחד-עשר של החודש האחד-עשר\" — וסיימה יותר מארבע שנים של קרבות שכבר גבו מיליוני חיים. היא הגיעה בעקבות שרשרת של הסכמי שביתת נשק קודמים עם בעלות בריתה המתרופפות של גרמניה: בולגריה, האימפריה העות'מאנית ואוסטרו-הונגריה כולן כבר פרשו מהמלחמה.\n\nהסכם שביתת הנשק עצר את הקרבות אך לא סיים את המלחמה באופן משפטי; לשם כך נדרשה אמנת ורסאי, שנחתמה ביוני שלאחר מכן. התאריך הפך ל\"יום שביתת הנשק\" ברחבי עולם בעלות הברית לשעבר, ושונה מאוחר יותר ל\"יום הוותיקים\" בארצות הברית, ונשאר \"יום הזיכרון\" בבריטניה ובחבר העמים הבריטי — ועדיין מצוין בכל שנה בדקת דומייה בשעה 11 בבוקר, ב-11 בנובמבר.",
+        "deep": "## רקע\nעד סוף 1918 קרס מעמדה של גרמניה בכל החזיתות. בעלות בריתה נשרו אחת אחרי השנייה: בולגריה חתמה על הסכם שביתת נשק בספטמבר, האימפריה העות'מאנית בסוף אוקטובר, ואוסטרו-הונגריה ב-3 בנובמבר. הכוחות הגרמניים נסוגו בהתמדה בחזית המערבית, החזית הפנימית הייתה שרויה במחסורי מזון ושביתות, וב-9 בנובמבר — יומיים לפני שביתת הנשק — הקיסר וילהלם השני התפטר ונמלט להולנד, והותיר ממשלה אזרחית חדשה לנהל את המשא ומתן על סיום המלחמה.\n\n## החתימה\nהמשלחת הגרמנית, בראשות המדינאי מתיאס ארצברגר, נפגשה עם המפקד העליון של בעלות הברית פרדיננד פוש בקרון רכבת מיוחד בקומפיין, שנבחר בין היתר כדי להתבודד מעיתונאים. התנאים נכתבו בפועל יותר מאשר נוהלו במשא ומתן: הכוחות הגרמניים נדרשו לסגת מהשטחים הכבושים בצרפת ובבלגיה ומאלזס-לורן, להחזיר כמויות גדולות של נשק וציוד, ולאפשר לבעלות הברית לכבוש שטח גרמני ממערב לנהר הריין. המסמך נחתם זמן קצר אחרי השעה 5 לפנות בוקר לפי שעון פריז, ושביתת הנשק נקבעה לשעה 11 בבוקר כדי לאפשר לבשורה להגיע ליחידות בחזית — וזו הסיבה לכך שבמקומות מסוימים הקרבות נמשכו באותן שש שעות אחרונות.\n\n## השלכות מדרגה שנייה\nשביתת הנשק סיימה את הקרבות אך הותירה את השאלות הקשות ביותר — שיפויים, גבולות, אחריות למלחמה — לוועידת השלום שהולידה את אמנת ורסאי ב-1919. תנאיה הקשים, ובפרט סעיפי האחריות למלחמה והשיפויים שהוטלו על גרמניה, מצוטטים רבות על ידי היסטוריונים כגורם שתרם לחוסר היציבות הפוליטי והכלכלי שסייע להצעיד את עלייתו של הנאציזם שני עשורים לאחר מכן. קרון הרכבת של שביתת הנשק עצמו הפך לסמל בזכות עצמו: אדולף היטלר העמיד באופן מכוון את כניעתה של צרפת לגרמניה ב-1940 באותו קרון ממש, באותו מקום ממש, כמעשה נקמה היסטורית מחושב.\n\n## מה חשוב לזכור\nשביתת הנשק היא הסיבה לכך שה-11 בנובמבר מצוין ברחבי חלק גדול מהעולם — כ\"יום שביתת הנשק\", \"יום הזיכרון\" או \"יום הוותיקים\" — עם פרגים, דקות דומייה וטקסים באנדרטאות מלחמה, יותר ממאה שנה אחרי שהנשק השתתק."
+      },
+      "tags": [
+        "world-war-one",
+        "history",
+        "armistice"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1918: The armistice between the German Empire and the Allies was signed in a railway carriage in the Forest of Compiègne of France (signatories pictured).",
+          "url": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918"
+        }
+      ]
+    }
+  ]
+}

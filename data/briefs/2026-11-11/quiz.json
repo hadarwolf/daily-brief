@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-11",
+  "questions": [
+    {
+      "id": "q1",
+      "section": "geopolitics",
+      "story_id": "ukraine-peace-talks-uae",
+      "answer_index": 1,
+      "en": {
+        "question": "What domestic political reality might shape how hard the US pushes in the new Ukraine peace talks?",
+        "options": [
+          "Trump is facing impeachment proceedings over the talks",
+          "Trump is negotiating from a weaker position after his party's recent election losses",
+          "Trump just won a sweeping midterm victory that strengthens his hand",
+          "The US Senate passed a resolution opposing any negotiated settlement"
+        ],
+        "explanation": "The brief notes Trump enters the talks weakened by his party's recent election losses, which analysts say affects how hard he'll push either side."
+      },
+      "he": {
+        "question": "איזו מציאות פוליטית בזירה הפנימית עשויה להשפיע על מידת הלחץ שארה\"ב תפעיל בשיחות השלום החדשות על אוקראינה?",
+        "options": [
+          "טראמפ מתמודד עם הליכי הדחה בשל השיחות",
+          "טראמפ מגיע לשיחות ממעמד מקומי חלש יותר אחרי התבוסות שספגה מפלגתו בבחירות האחרונות",
+          "טראמפ זכה לאחרונה בניצחון מכריע בבחירות האמצע שמחזק את מעמדו",
+          "הסנאט האמריקאי אישר החלטה המתנגדת לכל הסכם מוסכם"
+        ],
+        "explanation": "הכתבה מציינת שטראמפ נכנס לשיחות במעמד חלש יותר בעקבות התבוסות שספגה מפלגתו, מה שלפי אנליסטים ישפיע על מידת הלחץ שיפעיל על הצדדים."
+      }
+    },
+    {
+      "id": "q2",
+      "section": "israeli_politics",
+      "story_id": "coalition-talks-freeze",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did Gadi Eisenkot's Yashar party cancel its scheduled coalition talks with Likud?",
+        "options": [
+          "In protest of Netanyahu's Knesset speech calling for a probe into alleged election interference",
+          "Because Haredi party leaders vetoed Yashar joining any coalition",
+          "Because Eisenkot was himself named in the Shin Bet's interference warnings",
+          "Because Likud demanded Yashar drop out of the Change Bloc first"
+        ],
+        "explanation": "Eisenkot canceled the talks after calling Netanyahu's swearing-in speech, which called for investigating alleged election interference, a divisive speech."
+      },
+      "he": {
+        "question": "מדוע ביטל גדי איזנקוט, יו\"ר מפלגת ישר, את פגישת המו\"מ המתוכננת עם הליכוד?",
+        "options": [
+          "במחווה של מחאה על נאומו של נתניהו בכנסת שקרא לחקור חשדות להשפעה זרה על הבחירות",
+          "בגלל שמנהיגי המפלגות החרדיות הטילו וטו על הצטרפות ישר לכל קואליציה",
+          "בגלל שאיזנקוט עצמו הוזכר באזהרות השב\"כ על ההשפעה הזרה",
+          "בגלל שהליכוד דרש שישר תפרוש קודם מגוש השינוי"
+        ],
+        "explanation": "איזנקוט ביטל את הפגישה בטענה שנאום ההשבעה של נתניהו, שקרא לחקור חשדות להשפעה זרה על הבחירות, היה נאום מפלג."
+      }
+    },
+    {
+      "id": "q3",
+      "section": "tech",
+      "story_id": "israeli-tech-funding-roundup",
+      "answer_index": 2,
+      "en": {
+        "question": "What recent news made Wix's acquisition of the Israeli startup Base44 look especially savvy in hindsight?",
+        "options": [
+          "Base44 just went public at a multi-billion-dollar valuation",
+          "Wix resold Base44 to a competitor for ten times the purchase price",
+          "Base44 is now generating $250 million a year in revenue",
+          "Base44 merged with the cybersecurity startup Daylight"
+        ],
+        "explanation": "Wix's earnings showed Base44, bought for $80 million about a year and a half ago, now brings in $250 million a year in revenue."
+      },
+      "he": {
+        "question": "איזו התפתחות אחרונה הפכה את רכישת הסטארטאפ הישראלי Base44 בידי וויקס למהלך נבון במיוחד בדיעבד?",
+        "options": [
+          "Base44 הנפיק לאחרונה לפי שווי של מיליארדי דולרים",
+          "וויקס מכרה את Base44 מחדש למתחרה בעשר מחיר הרכישה",
+          "Base44 מכניס כיום 250 מיליון דולר בשנה",
+          "Base44 התמזג עם סטארטאפ הסייבר Daylight"
+        ],
+        "explanation": "דוחות וויקס הראו ש-Base44, שנרכש לפני כשנה וחצי ב-80 מיליון דולר, מכניס כיום 250 מיליון דולר בשנה."
+      }
+    }
+  ]
+}
