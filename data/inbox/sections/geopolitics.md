@@ -18,45 +18,45 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Donald Trump - AP News",
-     "published": "2026-11-11T07:55:10+00:00",
-     "summary": "Donald Trump AP News"
+     "title": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending - AP News",
+     "published": "2026-11-11T08:42:00+00:00",
+     "summary": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec - AP News",
+     "published": "2026-11-11T07:57:00+00:00",
+     "summary": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak - AP News",
      "published": "2026-11-11T07:53:00+00:00",
      "summary": "Ebola tops 11,000 cases in Congo’s deadliest outbreak AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "Spain’s first general strike in 14 years brings clashing social and political desires to the fore - AP News",
      "published": "2026-11-11T07:16:00+00:00",
      "summary": "Spain’s first general strike in 14 years brings clashing social and political desires to the fore AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "Minivan crashes into people outside Los Angeles metro station, killing 3 - AP News",
      "published": "2026-11-11T06:52:00+00:00",
      "summary": "Minivan crashes into people outside Los Angeles metro station, killing 3 AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-11-11T06:48:23+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "World leaders begin talks at UN climate conference amid concerns that actions are inadequate, slow - AP News",
      "published": "2026-11-11T06:25:00+00:00",
      "summary": "World leaders begin talks at UN climate conference amid concerns that actions are inadequate, slow AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "DAVE SKRETTA - AP News",
-     "published": "2026-11-11T06:09:21+00:00",
-     "summary": "DAVE SKRETTA AP News"
     },
     {
      "ref": "ap_world#7",
@@ -66,105 +66,105 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#8",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-11-11T05:28:27+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#9",
      "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington - AP News",
      "published": "2026-11-11T05:26:00+00:00",
      "summary": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington AP News"
     },
     {
-     "ref": "ap_world#10",
-     "title": "As Greenland’s climate changes, a new project preserves memories of a fading past - AP News",
-     "published": "2026-11-11T05:08:00+00:00",
-     "summary": "As Greenland’s climate changes, a new project preserves memories of a fading past AP News"
+     "ref": "ap_world#9",
+     "title": "Walliams and Brand were leading UK comics. Now they are part of a reckoning over sexual misconduct - AP News",
+     "published": "2026-11-11T05:04:00+00:00",
+     "summary": "Walliams and Brand were leading UK comics. Now they are part of a reckoning over sexual misconduct AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#10",
      "title": "Immigration arrests go on unabated despite Trump's misgivings after the GOP's midterm wipeout - AP News",
      "published": "2026-11-11T05:03:00+00:00",
      "summary": "Immigration arrests go on unabated despite Trump's misgivings after the GOP's midterm wipeout AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#11",
      "title": "This ocean liner was the world’s fastest. It’s being sunk to make the largest artificial reef - AP News",
      "published": "2026-11-11T05:01:00+00:00",
      "summary": "This ocean liner was the world’s fastest. It’s being sunk to make the largest artificial reef AP News"
     },
     {
-     "ref": "ap_world#13",
-     "title": "Asian shares mostly rise on AI chip demand despite Wall Street’s retreat on inflation data - AP News",
-     "published": "2026-11-11T04:46:00+00:00",
-     "summary": "Asian shares mostly rise on AI chip demand despite Wall Street’s retreat on inflation data AP News"
-    },
-    {
-     "ref": "ap_world#14",
+     "ref": "ap_world#12",
      "title": "Dozens injured in South Korea after bus crashes into 32 vehicles - AP News",
      "published": "2026-11-11T04:26:00+00:00",
      "summary": "Dozens injured in South Korea after bus crashes into 32 vehicles AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#13",
      "title": "Strangers trade punches and chase thrills at Colombia’s pop-up fights - AP News",
      "published": "2026-11-11T04:06:00+00:00",
      "summary": "Strangers trade punches and chase thrills at Colombia’s pop-up fights AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#14",
      "title": "Judge jails Thomas Markle, father of Meghan, after he cut off his ankle monitor - AP News",
      "published": "2026-11-11T04:01:00+00:00",
      "summary": "Judge jails Thomas Markle, father of Meghan, after he cut off his ankle monitor AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending - AP News",
-     "published": "2026-11-11T03:42:00+00:00",
-     "summary": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending AP News"
-    },
-    {
-     "ref": "ap_world#18",
+     "ref": "ap_world#15",
      "title": "Tech consultant sentenced to 16 years to life in stabbing death of Cash App founder Bob Lee - AP News",
      "published": "2026-11-11T03:32:00+00:00",
      "summary": "Tech consultant sentenced to 16 years to life in stabbing death of Cash App founder Bob Lee AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "Milwaukee's Pat Murphy first to win 3 straight Manager of Year awards. Will Venable takes AL honor - AP News",
-     "published": "2026-11-11T03:29:00+00:00",
-     "summary": "Milwaukee's Pat Murphy first to win 3 straight Manager of Year awards. Will Venable takes AL honor AP News"
-    },
-    {
-     "ref": "ap_world#20",
+     "ref": "ap_world#16",
      "title": "Pope Leo XIV urges youth in Argentina to reject ‘idols’ and to follow the model of saints - AP News",
      "published": "2026-11-11T03:17:00+00:00",
      "summary": "Pope Leo XIV urges youth in Argentina to reject ‘idols’ and to follow the model of saints AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#17",
      "title": "Brazil presents road map away from fossil fuels and toward renewable energies at UN climate talks - AP News",
      "published": "2026-11-11T03:16:26+00:00",
      "summary": "Brazil presents road map away from fossil fuels and toward renewable energies at UN climate talks AP News"
     },
     {
-     "ref": "ap_world#22",
-     "title": "See the world in vertical: Top photos by AP photojournalists - AP News",
-     "published": "2026-11-11T02:55:00+00:00",
-     "summary": "See the world in vertical: Top photos by AP photojournalists AP News"
-    },
-    {
-     "ref": "ap_world#23",
+     "ref": "ap_world#18",
      "title": "Texas man charged in cruise ship killing had argued with wife in their cabin, FBI says - AP News",
      "published": "2026-11-11T02:05:00+00:00",
      "summary": "Texas man charged in cruise ship killing had argued with wife in their cabin, FBI says AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#19",
      "title": "Bernie Sanders won't support Schumer for Senate Democratic leader, saying it's time for change - AP News",
      "published": "2026-11-11T01:36:00+00:00",
      "summary": "Bernie Sanders won't support Schumer for Senate Democratic leader, saying it's time for change AP News"
+    },
+    {
+     "ref": "ap_world#20",
+     "title": "Rep. Jim Jordan of Ohio elected to lead House Republicans in the minority - AP News",
+     "published": "2026-11-11T01:31:00+00:00",
+     "summary": "Rep. Jim Jordan of Ohio elected to lead House Republicans in the minority AP News"
+    },
+    {
+     "ref": "ap_world#21",
+     "title": "From ink to sacred text, Malaysia’s Quran makers blend craft and faith - AP News",
+     "published": "2026-11-11T01:13:00+00:00",
+     "summary": "From ink to sacred text, Malaysia’s Quran makers blend craft and faith AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's US Senate race - AP News",
+     "published": "2026-11-11T01:07:00+00:00",
+     "summary": "Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's US Senate race AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "An Idaho man gets 18 years in prison for an Islamic State support plot - AP News",
+     "published": "2026-11-11T01:05:00+00:00",
+     "summary": "An Idaho man gets 18 years in prison for an Islamic State support plot AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Vikings bring back QB Kirk Cousins in a trade with the Raiders to lift a struggling offense - AP News",
+     "published": "2026-11-11T01:04:00+00:00",
+     "summary": "Vikings bring back QB Kirk Cousins in a trade with the Raiders to lift a struggling offense AP News"
     }
    ]
   },

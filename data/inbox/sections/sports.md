@@ -737,63 +737,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#11",
+     "title": "Messi's Inter Miami Book Playoffs With 2-0 Win Over New York City - Sarawak Tribune",
+     "published": "2026-11-10T05:18:41+00:00",
+     "summary": "Messi's Inter Miami Book Playoffs With 2-0 Win Over New York City Sarawak Tribune"
+    },
+    {
+     "ref": "gnews_inter_miami#12",
      "title": "Messi makes MLS history - Altoona Mirror",
      "published": "2026-11-10T04:40:01+00:00",
      "summary": "Messi makes MLS history Altoona Mirror"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Is Lionel Messi the obvious option for MLS MVP? - Yahoo Sports",
      "published": "2026-11-09T23:30:25+00:00",
      "summary": "Is Lionel Messi the obvious option for MLS MVP? Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Messi’s Not Heading Back to Argentina in 2027! Inter Miami Is Still His Home - Soy Futbol",
      "published": "2026-11-09T23:25:12+00:00",
      "summary": "Messi’s Not Heading Back to Argentina in 2027! Inter Miami Is Still His Home Soy Futbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "DC United closes out 7th consecutive losing season - Baltimore Sun",
      "published": "2026-11-09T19:58:29+00:00",
      "summary": "DC United closes out 7th consecutive losing season Baltimore Sun"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Gulf News",
      "published": "2026-11-09T19:21:07+00:00",
      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Gulf News"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Messi voted to World XI by players again as Spain dominates men’s and women’s lineups - Sun Sentinel",
      "published": "2026-11-09T19:21:04+00:00",
      "summary": "Messi voted to World XI by players again as Spain dominates men’s and women’s lineups Sun Sentinel"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Called Up: Seven Inter Miami CF Players Set for November International Duty - Inter Miami CF",
      "published": "2026-11-09T18:07:23+00:00",
      "summary": "Called Up: Seven Inter Miami CF Players Set for November International Duty Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami CF Hosts 2026 Edition of Annual Media Appreciation Day and Copa de Medios - beIN SPORTS",
      "published": "2026-11-09T18:01:48+00:00",
      "summary": "Inter Miami CF Hosts 2026 Edition of Annual Media Appreciation Day and Copa de Medios beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Germán Berterame scores goal for Inter Miami CF - ESPN",
      "published": "2026-11-09T17:53:11+00:00",
      "summary": "Germán Berterame scores goal for Inter Miami CF ESPN"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Lionel Messi wins the MLS Golden Boot for a second straight season - Oskaloosa Herald",
-     "published": "2026-11-09T17:45:05+00:00",
-     "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season Oskaloosa Herald"
     },
     {
      "ref": "gnews_inter_miami#21",
@@ -839,9 +839,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#2",
-     "title": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder - Hilton Head Island Packet",
+     "title": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder - Belleville News-Democrat",
      "published": "2026-11-11T06:51:00+00:00",
-     "summary": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder Hilton Head Island Packet"
+     "summary": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder Belleville News-Democrat"
     },
     {
      "ref": "gnews_israeli_nba#3",
