@@ -24,126 +24,177 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2008,
-   "text": "After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives.",
+   "year": 2014,
+   "text": "The European Space Agency's lander Philae  touched down on 67P/Churyumov–Gerasimenko, becoming the first spacecraft to land on a comet.",
    "context": [
-    "Maumoon Abdul Gayoom is a Maldivian politician, statesman and diplomat who served as the 3rd president of the Maldives from 1978 to 2008. He previously served as the Minister of Transport from 1977 to 1978, and as the Permanent Representative of the Maldives to the United Nations from 1976 to 1977. Gayoom is the longest-serving president in Maldivian history."
+    "The European Space Agency is a 23-member international organisation devoted to space exploration. It has its headquarters in Paris and a staff of around 3,000 people globally as of 2025. ESA was founded in 1975 in the context of European integration. Its 2026 annual budget was around €8.3 billion."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1999,
-   "text": "The House of Lords Act was given royal assent, removing most hereditary peers from the British House of Lords.",
+   "year": 2011,
+   "text": "An explosion in the Shahid Modarres missile base led to the deaths of 17 members of the Revolutionary Guards, including Hassan Tehrani Moghaddam, a key figure in Iran's missile program.",
    "context": [
-    "The House of Lords Act 1999 is an act of the Parliament of the United Kingdom which reformed the House of Lords, one of the chambers of Parliament. The act was given royal assent on 11 November 1999. For centuries, the House of Lords had included several hundred members who inherited their seats. The act removed this as a right, but as part of a compromise allowed 92 hereditary peers to remain in the House until further reforms. Another ten were created life peers to enable them to remain in the House."
+    "On 12 November 2011 at about 13:30 local time, a large explosion occurred at the Modarres garrison missile base in Tehran Province, Iran. The facility is also referred to as Shahid Modarres missile base, and the Alghadir missile base. Seventeen members of the Revolutionary Guards were killed in this incident, including Major General Hassan Moqaddam, described as \"a key figure in Iran's missile programme\"."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1975,
-   "text": "During a constitutional crisis, Governor-General Sir John Kerr (pictured) dismissed Prime Minister Gough Whitlam's government and dissolved the Parliament of Australia for a double-dissolution election.",
+   "year": 2006,
+   "text": "South Ossetia held a referendum on independence from Georgia; more than 99 percent of voters were in favour of maintaining the region's status as a de facto independent state.",
    "context": [
-    "The 1975 Australian constitutional crisis, also called the Dismissal, culminated with the dismissal of the prime minister, Gough Whitlam of the Australian Labor Party (ALP), by Sir John Kerr, the governor-general of Australia, on 11 November 1975. Kerr then commissioned the leader of the opposition, Malcolm Fraser of the Liberal Party, as prime minister on the condition that he advise a new election. It has been described as the greatest political and constitutional crisis in Australian history."
+    "South Ossetia, formally the Republic of South Ossetia—the State of Alania since 2017, and originally the Republic of South Ossetia, is a partially recognised state in the South Caucasus. It has an officially stated population of just over 56,500 people (2022), who live in an area of 3,900 square kilometres (1,500 sq mi), with 33,000 living in the capital city, Tskhinvali. It de facto borders only Russia and Georgia."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1965,
-   "text": "Rhodesia, led by Prime Minister Ian Smith (pictured), unilaterally declared independence from the United Kingdom.",
+   "year": 2001,
+   "text": "American Airlines Flight 587 crashed into residential buildings shortly after takeoff from John F. Kennedy International Airport in New York, killing 265 people.",
    "context": [
-    "Rhodesia, officially the Republic of Rhodesia from 1970 onwards, was an unrecognised state in Southern Africa that existed from 1965 to 1979. Rhodesia was the de facto successor to the self-governing colony of Southern Rhodesia following its unilateral declaration of independence (UDI) from the United Kingdom in 1965. Throughout this fourteen-year period, Rhodesia faced internal conflict and political unrest. Following the Lancaster House Agreement in 1979 and general elections held under a universal suffrage in 1980, the territory finally gained de jure independence and international recognition as the Republic of Zimbabwe."
+    "American Airlines Flight 587 was a regularly scheduled international passenger flight from John F. Kennedy International Airport, New York City, to Las Américas International Airport, Santo Domingo, Dominican Republic. On November 12, 2001, the Airbus A300 flying the route crashed into the neighborhood of Belle Harbor on the Rockaway Peninsula of Queens, New York City, shortly after takeoff, killing all 251 passengers and nine crew members aboard, as well as five people on the ground. It is the second-deadliest aviation accident to have occurred in the United States, behind the crash of American Airlines Flight 191 in 1979, and the second-deadliest aviation incident involving an Airbus A300, after Iran Air Flight 655."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1960,
-   "text": "A coup attempt by the Army of the Republic of Vietnam against President Ngô Đình Diệm was crushed after he falsely promised reform, allowing loyalists to rescue him.",
+   "year": 1996,
+   "text": "A Saudi Arabian Airlines Boeing 747 and a Kazakhstan Airlines Ilyushin Il-76 collided in mid-air near New Delhi, killing 349 people, the deadliest such collision in history.",
    "context": [
-    "On 11 November 1960, a failed coup attempt against President Ngô Đình Diệm of South Vietnam was led by Lieutenant Colonel Vương Văn Đông and Colonel Nguyễn Chánh Thi of the Airborne Division of the Army of the Republic of Vietnam (ARVN)."
+    "Saudia is the first flag carrier of Saudi Arabia, headquartered in Jeddah. Its main hub is King Abdulaziz International Airport in Jeddah, with secondary hubs at Prince Mohammad bin Abdulaziz International Airport in Medina and King Fahd International Airport in Dammam, and a hub at King Khalid International Airport in Riyadh, which it plans to vacate by 2030 for the launch of Riyadh Air."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1940,
-   "text": "Second World War: The Royal Navy launched the first all-aircraft ship-to-ship naval attack in history against the Italians in the Battle of Taranto.",
+   "year": 1991,
+   "text": "Indonesian forces opened fire on student demonstrators protesting the occupation of East Timor in the capital Dili, killing at least 250 people.",
+   "context": [
+    "The Santa Cruz massacre was the murder of at least 250 East Timorese pro-independence demonstrators in the Santa Cruz cemetery in the capital, Dili, on 12 November 1991, during the Indonesian occupation of East Timor and is part of the East Timor genocide."
+   ]
+  },
+  {
+   "ref": "wikipedia#6",
+   "year": 1973,
+   "text": "The first episode of Last of the Summer Wine, the longest-running television sitcom in history, premiered on the BBC.",
+   "context": [
+    "Last of the Summer Wine is a British sitcom set in Yorkshire created and written by Roy Clarke and originally broadcast by the BBC from 1973 to 2010. It premiered as an episode of Comedy Playhouse on 4 January 1973, and the first series of episodes followed on 12 November 1973. Alan J. W. Bell produced and directed all episodes of the show from late 1981 to 2010. The BBC confirmed on 2 June 2010 that Last of the Summer Wine would no longer be produced and the 31st series would be its last. Subsequently, the final episode was broadcast on 29 August 2010. Since its original release, all 295 episodes, comprising thirty-one series – including the pilot and all films and specials – have been released on DVD. Repeats of the show are broadcast in the UK on BBC One, U&Gold, U&Yesterday, and U&Drama. It is also seen in more than 25 countries, including various PBS stations in the United States and on VisionTV in Canada. With the exception of programmes relaunched after long hiatuses, Last of the Summer Wine is the longest-running TV comedy programme in Britain and the longest-running TV sitcom in the world."
+   ]
+  },
+  {
+   "ref": "wikipedia#7",
+   "year": 1970,
+   "text": "The deadliest tropical cyclone in history made landfall on the coast of East Pakistan (present-day Bangladesh), killing at least 250,000 people.",
+   "context": [
+    "The 1970 Bhola cyclone, also known as the Great Cyclone of 1970 or simply the Bhola Cyclone, was the deadliest tropical cyclone on record, as well as one of the deadliest humanitarian disasters ever recorded. It struck East Pakistan and India's West Bengal on 12 November 1970. At least 300,000 people died in the storm, possibly as many as 500,000, primarily as a result of the storm surge that flooded much of the low-lying islands of the Ganges Delta. The Bhola cyclone was the sixth and strongest cyclonic storm of the 1970 North Indian Ocean cyclone season."
+   ]
+  },
+  {
+   "ref": "wikipedia#8",
+   "year": 1970,
+   "text": "The Oregon Highway Division unsuccessfully attempted to destroy a rotting beached sperm whale near Florence, Oregon, with dynamite.",
+   "context": [
+    "The Oregon Department of Transportation (ODOT) is a department of the state government of the U.S. state of Oregon responsible for systems of transportation. It was first established in 1969. It had been preceded by the Oregon State Highway Department which, along with the Oregon State Highway Commission, was created by an act of the Oregon Legislative Assembly in 1913. It works closely with the five-member Oregon Transportation Commission in managing the state's transportation systems."
+   ]
+  },
+  {
+   "ref": "wikipedia#9",
+   "year": 1956,
+   "text": "Suez Crisis: During an invasion of Rafah, Israeli soldiers shot and killed an estimated 111 Palestinian refugees and local inhabitants.",
+   "context": [
+    "The Suez Crisis, also known as the second Arab–Israeli war, the Tripartite Aggression in the Arab world and the Sinai War in Israel, was a British–French–Israeli invasion of Egypt in 1956. Israel invaded on 29 October, with the primary objective of re-opening the Straits of Tiran and the Gulf of Aqaba as the recent tightening of the eight-year-long Egyptian blockade prevented Israeli passage. After issuing a joint ultimatum for a ceasefire, the United Kingdom and France joined the Israelis on 31 October in an attempt to depose Egyptian President Gamal Abdel Nasser and regain control of the Suez Canal. The countries came under heavy political pressure from the United States, the Soviet Union and the United Nations, prompting their withdrawal from Egypt."
+   ]
+  },
+  {
+   "ref": "wikipedia#10",
+   "year": 1944,
+   "text": "Second World War: In Operation Catechism, the Royal Air Force sank the German battleship Tirpitz  (video featured) near Tromsø, Norway, killing about 1,000 sailors on board.",
    "context": [
     "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
-   "ref": "wikipedia#6",
-   "year": 1934,
-   "text": "The Shrine of Remembrance (pictured), a memorial to all Australians who have served in war, opened in Melbourne.",
-   "context": [
-    "The Shrine of Remembrance is a war memorial in Melbourne, Victoria, Australia, located in Kings Domain on St Kilda Road. It was built to honour the men and women of Victoria who served in World War I, but now functions as a memorial to all Australians who have served in any war. It is a site of annual observances for Anzac Day and Remembrance Day, and is one of the largest war memorials in Australia."
-   ]
-  },
-  {
-   "ref": "wikipedia#7",
-   "year": 1926,
-   "text": "The plan for the United States Numbered Highway System was approved by the American Association of State Highway Officials.",
-   "context": [
-    "The United States Numbered Highway System is an integrated network of roads and highways numbered within a nationwide grid in the contiguous United States. As the designation and numbering of these highways were coordinated among the states, they are sometimes called Federal Highways, but the roadways were built and have always been maintained by state or local governments since their initial designation in 1926."
-   ]
-  },
-  {
-   "ref": "wikipedia#8",
-   "year": 1920,
-   "text": "In London, the Cenotaph was unveiled and the Unknown Warrior was buried in Westminster Abbey in remembrance of the First World War.",
-   "context": [
-    "The Cenotaph is a war memorial on Whitehall in London, England. Designed by Sir Edwin Lutyens, it was unveiled in 1920 as the United Kingdom's national memorial to the dead of Britain and the British Empire of the First World War. It was rededicated in 1946 to include those of the Second World War, and has since come to represent the Commonwealth casualties from those and later conflicts. The word cenotaph is derived from Greek, meaning 'empty tomb'. Most of the dead were buried close to where they fell; thus, the Cenotaph symbolises their absence and is a focal point for public mourning. The original temporary Cenotaph was erected in 1919 for a parade celebrating the end of the First World War, at which more than 15,000 servicemen, including French and American soldiers, saluted the monument. More than a million people visited the site within a week of the parade."
-   ]
-  },
-  {
-   "ref": "wikipedia#9",
-   "year": 1918,
-   "text": "The armistice between the German Empire and the Allies was signed in a railway carriage in the Forest of Compiègne of France (signatories pictured).",
-   "context": [
-    "The Armistice of 11 November 1918 was the armistice that ended fighting on land, at sea, and in the air in World War I between the Entente and their last remaining opponent, Germany. It was signed in a railroad car in the Compiègne Forest, near the town of Compiègne. Previous armistices had been agreed with Bulgaria, the Ottoman Empire and Austria-Hungary. It was concluded after the German government sent a message to American president Woodrow Wilson to negotiate terms on the basis of a recent speech of his and the earlier declared \"Fourteen Points\", which later became the basis of the German surrender at the Paris Peace Conference, which took place the following year."
-   ]
-  },
-  {
-   "ref": "wikipedia#10",
-   "year": 1918,
-   "text": "Józef Piłsudski (pictured), appointed the commander-in-chief of Polish forces by the Regency Council, was entrusted with the creation of a national government for the newly independent Poland.",
-   "context": [
-    "Józef Klemens Piłsudski was a Polish statesman who served as the Chief of State (1918–1922) and first Marshal of Poland. In the aftermath of World War I, he became an increasingly dominant figure in Polish politics and exerted significant influence on shaping the country's foreign policy. Piłsudski is viewed as a father of the Second Polish Republic, which was re-established in 1918, 123 years after the final partition of Poland in 1795, and was considered de facto leader (1926–1935) of the Second Republic as the Minister of Military Affairs."
-   ]
-  },
-  {
    "ref": "wikipedia#11",
-   "year": 1880,
-   "text": "In spite of sympathizers holding rallies for his reprieve, Australian bushranger and outlaw Ned Kelly was hanged in Melbourne.",
+   "year": 1942,
+   "text": "World War II: The Naval Battle of Guadalcanal, the decisive engagement in a series of sea battles between Allied and Japanese forces during the months-long Guadalcanal campaign in the Solomon Islands, began.",
    "context": [
-    "Bushrangers were armed robbers and outlaws who resided in the Australian bush between the 1780s and the early 20th century. The original use of the term dates back to the early years of the British colonisation of Australia, and applied to transported convicts who had escaped into the bush to hide from the authorities. By the 1820s, the term had evolved to refer to those who took up \"robbery under arms\" as a way of life, using the bush as their base."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1813,
-   "text": "War of 1812: British–Canadian forces repelled an American attack at the Battle of Crysler's Farm, forcing the United States to give up their attempt to capture Montreal.",
+   "year": 1940,
+   "text": "World War II: Free French forces captured Gabon from Vichy France.",
    "context": [
-    "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Senate on 17 February 1815."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1805,
-   "text": "War of the Third Coalition: French, Austrian and Russian units suffered heavy losses at the Battle of Dürenstein.",
+   "year": 1940,
+   "text": "World War II: Soviet foreign minister Vyacheslav Molotov arrived in Berlin to discuss the possibility of the Soviet Union joining the Axis powers.",
    "context": [
-    "The War of the Third Coalition was a European conflict lasting from 1805 to 1806 and was the first conflict of the Napoleonic Wars. During the war, France and its client states under Napoleon I and its ally Spain opposed an alliance, the Third Coalition, which was made up of the United Kingdom, the Austrian Empire, the Russian Empire, Naples, Sicily, and Sweden. Prussia remained neutral during the war."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1778,
-   "text": "American Revolutionary War: British forces and their Iroquois allies attacked a fort and the village of Cherry Valley, New York, killing 14 soldiers and 30 civilians.",
+   "year": 1932,
+   "text": "At the request of the Government of Western Australia, the Australian military officially resumed fighting the Emu War after their prior withdrawal.",
    "context": [
-    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
+    "The Government of Western Australia, also known as the WA Government, is the executive branch of government for the Australian state of Western Australia. It comprises the State Cabinet, Executive Council and the public sector. The WA Government includes approximately 130 agencies and authorities delivering frontline and support services, employs approximately 240,000 people and had an expected operating expenditure of A$43.59 billion in the 2024–25 financial year."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1928,
+   "text": "The British ocean liner SS Vestris sank in the western Atlantic Ocean, killing 111 people.",
+   "context": [
+    "An ocean liner is a type of passenger ship that was primarily used for transportation across seas or oceans. Ocean liners may also carry cargo or mail, and may sometimes be used for other purposes. The Queen Mary 2 is the only active ocean liner in 2026, serving with Cunard Line."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1920,
+   "text": "The Kingdom of Italy and the Kingdom of Serbs, Croats and Slovenes signed the Treaty of Rapallo to establish national borders east of the Adriatic Sea.",
+   "context": [
+    "The Kingdom of Italy was a unitary state that existed from 17 March 1861, when Victor Emmanuel II, King of Sardinia, was proclaimed King of Italy, until 18 June 1946, when the monarchy was abolished, following civil discontent that led to an institutional referendum on 2 June, resulting in the establishment of the modern Italian Republic. The kingdom was established through the unification of several states over a decades-long process, called the Risorgimento. That process was influenced by House of Savoy-ruled Sardinia, which was one of Italy's legal predecessor states."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 1912,
+   "text": "Eight months after perishing during the ill-fated Terra Nova Expedition, the bodies of Robert Falcon Scott (pictured) and his companions were discovered on the Ross Ice Shelf in Antarctica.",
+   "context": [
+    "The Terra Nova Expedition, officially the British Antarctic Expedition, was an expedition to Antarctica which took place between 1910 and 1913. Led by Captain Robert Falcon Scott, the expedition had various scientific and geographical objectives. Scott wished to continue the scientific work that he had begun when leading the Discovery Expedition from 1901 to 1904, and wanted to be the first to reach the geographic South Pole."
+   ]
+  },
+  {
+   "ref": "wikipedia#18",
+   "year": 1911,
+   "text": "The Corozal (pictured), at the time the most powerful dredger ever built, was launched in London for service in the construction of the Panama Canal.",
+   "context": [
+    "Corozal was a Scottish-built dredger used on the Panama Canal. The Renfrew-based firm of Messrs. Wm. Simons & Company won a US government tender for its construction in 1911. The vessel was launched in November 1911 and taken into US government service as the US Corozal. It was the most powerful dredger ever built at that time. The Corozal operated on the difficult Culebra Cut, deepening a channel excavated by hand and dynamite. It became the first ship to sail through the cut in December 1913, shortly before the canal opened to traffic. The Corozal was sold to the Arundel Corporation in 1926 and scrapped in 1956."
+   ]
+  },
+  {
+   "ref": "wikipedia#19",
+   "year": 1892,
+   "text": "William Heffelfinger was paid $500 by the Allegheny Athletic Association, becoming the first professional American football player.",
+   "context": [
+    "William Walter \"Pudge\" Heffelfinger, also spelled Hafelfinger, was an American football player and coach. He is considered the greatest lineman of his time, and the first athlete to play American football professionally, having been paid to play in 1892 for the Allegheny Athletic Association."
+   ]
+  },
+  {
+   "ref": "wikipedia#20",
+   "year": 1330,
+   "text": "Led by the voivode Basarab I, Wallachian forces defeated the Hungarian army in an ambush at the Battle of Posada (depicted).",
+   "context": [
+    "Voivode is a title denoting a military leader or warlord in Central, Southeastern and Eastern Europe, in use since the Early Middle Ages. It primarily referred to the medieval rulers of the Romanian-inhabited states and of governors and military commanders of Polish, Hungarian, Lithuanian, Balkan, Russian and other Slavic-speaking populations."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Vesting cliff (צוק הבשלה)",
+  "Mark-to-market (הערכה לפי שווי שוק)",
+  "Drinking the Kool-Aid (לאמץ נרטיב בעיניים עצומות)",
   "Soft landing (נחיתה רכה)",
   "Base effect (אפקט בסיס)",
   "Kitchen-sinking (לרוקן את כל הבעיות בבת אחת)",
@@ -230,10 +281,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Whistle past the graveyard (לשרוק ליד בית הקברות / להתעלם מסכנה גלויה)",
   "Glut (עודף היצע)",
   "Front-run (להקדים את המהלך)",
-  "Bagholder (מחזיק השקית)",
-  "Hockey-stick growth (צמיחת מקל הוקי)",
-  "Asymmetric bet (הימור א-סימטרי)",
-  "Burning the boats (לשרוף את הסיפונים)"
+  "Bagholder (מחזיק השקית)"
  ]
 }
 </input>
