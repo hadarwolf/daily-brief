@@ -98,18 +98,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "In praise of the dilettante",
      "published": "2026-10-30T10:00:00+00:00",
      "summary": "A wayfaring cosmopolitan who never gets stuck, the dilettante is the right anti-hero for our hyper-specialised age - by Jay Miller Read on Aeon"
-    },
-    {
-     "ref": "aeon#12",
-     "title": "Hills and mountains",
-     "published": "2026-10-29T10:01:00+00:00",
-     "summary": "A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan - by Aeon Video Watch on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "The physics of getting fired",
-     "published": "2026-10-29T10:00:00+00:00",
-     "summary": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on Aeon"
     }
    ]
   },
@@ -270,15 +258,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#5",
-     "title": "Who am I if I don’t run?",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
-    },
-    {
-     "ref": "psyche#6",
      "title": "How to take notes that actually help you learn",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
+    },
+    {
+     "ref": "psyche#6",
+     "title": "Who am I if I don’t run?",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
     },
     {
      "ref": "psyche#7",
@@ -315,12 +303,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "‘Heroes work here’: why I quit being an ER nurse",
      "published": "2026-10-30T10:00:00+00:00",
      "summary": "Spitting, swearing regulars at a Chicago ER opened my mind. Then came the COVID-19 deniers - by Anita Lambert Read on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "When giving up teaches you more than persevering ever could",
-     "published": "2026-10-29T10:00:00+00:00",
-     "summary": "Grit is all well and good, but sometimes abandoning your goals can be crucial to discovering who you are - by Mario I Juarez-Garcia Read on Psyche"
     }
    ]
   },

@@ -698,9 +698,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#9",
-     "title": "Does Lionel Messi Deserve to Win a Historic Third Consecutive MLS MVP Award? - Sports Illustrated",
-     "published": "2026-11-11T19:00:02+00:00",
-     "summary": "Does Lionel Messi Deserve to Win a Historic Third Consecutive MLS MVP Award? Sports Illustrated"
+     "title": "Does Lionel Messi Deserve to Win a Historic Third Consecutive MLS MVP Award? - LiveScore",
+     "published": "2026-11-11T19:14:58+00:00",
+     "summary": "Does Lionel Messi Deserve to Win a Historic Third Consecutive MLS MVP Award? LiveScore"
     },
     {
      "ref": "gnews_inter_miami#10",
@@ -818,9 +818,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#3",
-     "title": "Deni Avdija, Blazers complete two-game sweep of Thunder - 98.1 The Sports Animal",
-     "published": "2026-11-12T06:23:05+00:00",
-     "summary": "Deni Avdija, Blazers complete two-game sweep of Thunder 98.1 The Sports Animal"
+     "title": "Deni Avdija, Blazers complete two-game sweep of Thunder - Belleville News-Democrat",
+     "published": "2026-11-12T06:05:00+00:00",
+     "summary": "Deni Avdija, Blazers complete two-game sweep of Thunder Belleville News-Democrat"
     },
     {
      "ref": "gnews_israeli_nba#4",

@@ -239,12 +239,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "מתחרה חדשה: Revolut הבריטית קיבלה אישור להקים בנק בישראל",
      "published": "2026-11-10T11:58:00+00:00",
      "summary": "אחרי השמועות והדיווחים הלא רשמיים, זה רשמי: בנק ישראל העניק היום (ג') לקבוצת Revolut הבריטית רישיון מותנה להקמת בנק בישראל. הגוף החדש, שיזכה לשם הסקסי \"בנק רבולוט ישראל (בהקמה)\", הוא ניסיון נוסף של המדינה ובנק ישראל לפתוח קצת את שוק הבנקאות המקומי המנומנם לתחרות. הרישיון הזה הוא השלישי שניתן לבנק חדש בישראל מאז 2019, כשבנק […] The post מתחרה חדשה: Revolut הבריטית קיבלה אישור להקים בנק בישראל appea"
-    },
-    {
-     "ref": "geektime#16",
-     "title": "וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מיליון דולר בשנה",
-     "published": "2026-11-10T09:55:18+00:00",
-     "summary": "לפני כשנה וחצי רכשה Wix את Base44, סטארטאפ ישראלי צעיר שהוקם כמה חודשים לפני, ב-80 מיליון דולר. אבל מה שנראה אז בעיקר כאקזיט חלומי ליזם מאור שלמה, מתברר עכשיו, עם פרסום הדוחות הרבעוניים של וויקס, כאחד המהלכים האסטרטגיים והחשובים שוויקס עשתה בשנים האחרונות. עסקה חלומית לכולם על פי הדוחות הרבעוניים של וויקס לרבעון השלישי של […] The post וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מ"
     }
    ]
   },
@@ -256,61 +250,61 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Critical RCE Vulnerability in Apache HTTP Server",
      "published": "2026-11-12T02:11:11+00:00",
-     "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 192 # Comments: 83"
+     "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 203 # Comments: 89"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "93% of paint splatters are valid Perl programs (2019)",
      "published": "2026-11-11T22:34:23+00:00",
-     "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 418 # Comments: 55"
+     "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 429 # Comments: 57"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Nvidia is preparing to oust Jensen Huang",
      "published": "2026-11-11T22:31:06+00:00",
-     "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 1003 # Comments: 1355"
+     "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 1025 # Comments: 1381"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Lock Your GitHub Actions",
      "published": "2026-11-11T22:16:41+00:00",
-     "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 251 # Comments: 49"
+     "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 253 # Comments: 51"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
      "published": "2026-11-11T21:24:35+00:00",
-     "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 550 # Comments: 544"
+     "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 556 # Comments: 548"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Emacs in the Age of Magic",
      "published": "2026-11-11T20:26:32+00:00",
-     "summary": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 225 # Comments: 102"
+     "summary": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 231 # Comments: 106"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Gemini Decisions API",
      "published": "2026-11-11T18:32:42+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 428 # Comments: 129"
+     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 434 # Comments: 131"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "AWS emulator",
      "published": "2026-11-11T18:21:38+00:00",
-     "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 843 # Comments: 235"
+     "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 850 # Comments: 236"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Faster Retrieval for Better, More Efficient RAG",
      "published": "2026-11-11T16:57:45+00:00",
-     "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 207 # Comments: 38"
+     "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 209 # Comments: 38"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "published": "2026-11-11T16:38:44+00:00",
-     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 489 # Comments: 236"
+     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 494 # Comments: 236"
     },
     {
      "ref": "hn_frontpage#10",
@@ -320,39 +314,45 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Hyper-Realistic Sand with WebGL2",
-     "published": "2026-11-11T13:39:29+00:00",
-     "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 374 # Comments: 71"
+     "title": "Atuin Threads: All your agent sessions on every machine",
+     "published": "2026-11-11T14:10:46+00:00",
+     "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 219 # Comments: 79"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "Can a Linear Program Do Weight-Space Programming?",
-     "published": "2026-11-11T12:30:17+00:00",
-     "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 277 # Comments: 38"
+     "title": "Hyper-Realistic Sand with WebGL2",
+     "published": "2026-11-11T13:39:29+00:00",
+     "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 379 # Comments: 71"
     },
     {
      "ref": "hn_frontpage#13",
-     "title": "My AI agents found an unmapped Maya site?",
-     "published": "2026-11-11T12:05:22+00:00",
-     "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 989 # Comments: 359"
+     "title": "Can a Linear Program Do Weight-Space Programming?",
+     "published": "2026-11-11T12:30:17+00:00",
+     "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 281 # Comments: 38"
     },
     {
      "ref": "hn_frontpage#14",
-     "title": "Using voltage glitching to unleash the A100 in my mining card",
-     "published": "2026-11-11T10:48:40+00:00",
-     "summary": "Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ Comments URL: https://news.ycombinator.com/item?id=50451903 Points: 301 # Comments: 115"
+     "title": "My AI agents found an unmapped Maya site?",
+     "published": "2026-11-11T12:05:22+00:00",
+     "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 990 # Comments: 361"
     },
     {
      "ref": "hn_frontpage#15",
-     "title": "Tim Peters has died",
-     "published": "2026-11-11T07:03:17+00:00",
-     "summary": "https://www.reddit.com/r/Python/s/2Cm5dBcvQw Comments URL: https://news.ycombinator.com/item?id=50450488 Points: 1188 # Comments: 133"
+     "title": "Using voltage glitching to unleash the A100 in my mining card",
+     "published": "2026-11-11T10:48:40+00:00",
+     "summary": "Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ Comments URL: https://news.ycombinator.com/item?id=50451903 Points: 304 # Comments: 115"
     },
     {
      "ref": "hn_frontpage#16",
+     "title": "Tim Peters has died",
+     "published": "2026-11-11T07:03:17+00:00",
+     "summary": "https://www.reddit.com/r/Python/s/2Cm5dBcvQw Comments URL: https://news.ycombinator.com/item?id=50450488 Points: 1204 # Comments: 134"
+    },
+    {
+     "ref": "hn_frontpage#17",
      "title": "Jane Street: Socratic Tutor",
      "published": "2026-11-10T10:18:22+00:00",
-     "summary": "Article URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md Comments URL: https://news.ycombinator.com/item?id=50438261 Points: 154 # Comments: 39"
+     "summary": "Article URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md Comments URL: https://news.ycombinator.com/item?id=50438261 Points: 205 # Comments: 48"
     }
    ]
   },
@@ -461,12 +461,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "Innovating with AI in the special chemicals industry",
      "published": "2026-11-09T13:00:00+00:00",
      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, "
-    },
-    {
-     "ref": "mit_tech_review#8",
-     "title": "The climate case for AI has not been made",
-     "published": "2026-11-09T10:00:00+00:00",
-     "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world…"
     }
    ]
   },
