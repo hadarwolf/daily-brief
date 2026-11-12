@@ -169,7 +169,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   {
    "ref": "wikipedia#18",
    "year": 1911,
-   "text": "The Corozal (pictured), at the time the most powerful dredger ever built, was launched in London for service in the construction of the Panama Canal.",
+   "text": "The Corozal (pictured), at the time the most powerful dredger ever built, was launched in Renfrew, Scotland, for service in the construction of the Panama Canal.",
    "context": [
     "Corozal was a Scottish-built dredger used on the Panama Canal. The Renfrew-based firm of Messrs. Wm. Simons & Company won a US government tender for its construction in 1911. The vessel was launched in November 1911 and taken into US government service as the US Corozal. It was the most powerful dredger ever built at that time. The Corozal operated on the difficult Culebra Cut, deepening a channel excavated by hand and dynamite. It became the first ship to sail through the cut in December 1913, shortly before the canal opened to traffic. The Corozal was sold to the Arundel Corporation in 1926 and scrapped in 1956."
    ]

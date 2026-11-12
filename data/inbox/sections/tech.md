@@ -146,105 +146,105 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
+     "published": "2026-11-12T08:58:03+00:00",
+     "summary": "מאת אלי איינהורן אם אתם מפתחים שמשתמשים ב-Claude Code Desktop, אז אתם מכירים את הפיצ'ר הבא: מבקשים מ-Claude לבדוק קובץ HTML לדוגמה, והאפליקציה מרנדרת אותו אוטומטית בפאנל צדדי. נוח, מהיר, ושימושי. ובכן… לא בדיוק. החוקרים שלנו ב-Noma Labs גילו חולשה חמורה ב-Preview Pane של אפליקציית הדסקטופ, שאפשרה לקובץ HTML לעקוף שלוש שכבות הגנה ולשלוף סיסמאות, […] The post איך Claude Code Desktop כמעט הדליף את כל"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "מה זאת אומרת מי יכול להחליף את ג'נסן? יש הרבה שמות",
+     "published": "2026-11-12T08:08:27+00:00",
+     "summary": "איך הגלגל מתהפך. לפני שנייה וחצי ג'נסן הואנג היה אחת מהדמויות המוערכות והאהובות ביותר בעולם הטכנולוגיה. סופרסטאר, שגדל בתנאים לא פשוטים, הצליח להקים חברה, לפוצץ אצטדיונים עם עשרות אלפי מעריצים בעזרת מעיל שחור, השפריץ כריזמה נדירה, הוכיח הבנה טכנולוגית נדירה עד לרמת השערים הלוגיים, והוביל תוכניות עסקיות מבריקות. אבל זה היה עד השבוע. השבוע האחרון […] The post מה זאת אומרת מי יכול להחליף את ג'נסן? יש"
+    },
+    {
+     "ref": "geektime#2",
+     "title": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה",
+     "published": "2026-11-12T04:47:17+00:00",
+     "summary": "חשבתם שהשבוע האחרון היה סוער לאנבידיה? נראה שזו רק ההתחלה, עם צל כבד על אחד מהאנשים החזקים ביותר בעולם הטכנולוגיה. דירקטוריון NVIDIA נערך להדיח את המנכ\"ל והמייסד של החברה, ג'נסן הואנג, כך מדווח הלילה (ה') הוול סטריט ג'ורנל על סמך גורמים המקורבים לנושא. על פי הדיווח, הדירקטוריון צפוי להתכנס כנראה כבר היום כדי להכריע על […] The post דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומ"
+    },
+    {
+     "ref": "geektime#3",
      "title": "סטארטאפ ישראלי שנחשף עכשיו בונה Holodeck לסוכנים",
      "published": "2026-11-11T14:00:29+00:00",
      "summary": "כן. כולם במשרד כבר שמעו על הסוכן שלך שחסך לך 50 שקל או מוסיף אירועים ללוח השנה עם המשפחה. באמת, אנחנו לא יכולים לשמוע מה עוד הוא יודע לעשות. אבל בניגוד לאייג'נט המרתק שלך, כשארגונים בונים אייג'נטים ומשחררים אותם לעולם האמיתי, דברים משתבשים. אז סטארטאפ ישראלי חדש שנחשף היום (ד') רוצה ליצור סביבה שבה הסוכנים […] The post סטארטאפ ישראלי שנחשף עכשיו בונה Holodeck לסוכנים appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#4",
      "title": "הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 מיליון דולר כדי להתחרות בה",
      "published": "2026-11-11T14:00:04+00:00",
      "summary": "כשארבעה מהנדסים, שעומדים מאחורי אחת מתשתיות הדאטה המרכזיות של מיקרוסופט, עוזבים את החברה כדי להקים סטארטאפ, אתם יכולים לדעת די בבטחון שזה לא בשביל לבנות עוד אפליקציית To-Do… הסטארטאפ הישראלי Edelbyte, שנחשף היום (ד') לראשונה, מודיע על גיוסים בגובה 70 מיליון דולר בתוך שנה בלבד מאז הקמתו. המטרה? לפתור את כאב הראש שתשתיות ה-AI עושות […] The post הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 "
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#5",
      "title": "אחרי צירופה של נועה ארגמני: קרן Vine מגייסת 236 מיליון דולר להשקעות בסטארטאפים",
      "published": "2026-11-11T13:09:59+00:00",
      "summary": "קרן ההון סיכון Vine Ventures הודיעה על השלמת גיוס של 236 מיליון דולר לקרן השלישית שלה, שתשקיע בחברות בארה\"ב ובישראל. לפי הקרן, כ-50% מכספי הקרן החדשה צפויים להיות מוקצים לחברות ישראליות. הגיוס מביא את היקף הנכסים המנוהלים של Vine ליותר מ-500 מיליון דולר, חמש שנים בלבד מאז שהוקמה. בגיוס השתתפו משקיעים חדשים וקיימים, ובהם מנכ\"לי […] The post אחרי צירופה של נועה ארגמני: קרן Vine מגייסת 236 מיליון דול"
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#6",
      "title": "חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה",
      "published": "2026-11-11T12:34:46+00:00",
      "summary": "יצרנית ה-LiDAR הישראלית Innoviz מראש העין הכריזה היום (ד') על מהלך פיטורים חריג, שבמסגרתו היא צפויה להיפרד מרבע ממצבת כוח האדם שלה – כ-90 עובדים בסך הכל. זה סבב הפיטורים השלישי של החברה בשלוש השנים האחרונות, כאשר בתחילת 2024 פיטרה עשרות עובדים – שהם 13% מכוח האדם שלה. בתחילת השנה שעברה הכריזה אינוויז על סבב […] The post חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#7",
      "title": "הקרב על הצופים בישראל: דיסני מכריזה על מבצע ל-Disney+",
      "published": "2026-11-11T10:17:41+00:00",
      "summary": "רגע לפני סוף 2026, דיסני+ יוצאת במבצע חדש כדי לנסות לגייס מנויים חדשים בישראל, ועל הדרך גם לפתות אולי מנויים נוטשים לחזור לשירות הסטרימינג שלה. אל תשכחו לשים תזכורת החל מהיום (ד') ועד ה-24 בנובמבר, החברה מציעה למצטרפים חדשים וחוזרים את המינוי שלה במחיר של 34.90 שקלים לחודש למשך חודשיים. לאחר תום תקופת ההטבה, התשלום […] The post הקרב על הצופים בישראל: דיסני מכריזה על מבצע ל-Disney+ appeared first o"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#8",
      "title": "חיפאים, Google Cloud מזמינה אתכם לאירוע AI ודאטה חדש",
      "published": "2026-11-11T09:42:36+00:00",
      "summary": "במקום ששוב תסעו לתל אביב כדי להיחשף לחידושים של Google Cloud – הפעם הם מגיעים לצפון: Google פותחת את משרדיה בחיפה ליום טכנולוגי שיוקדש לכלי ה-AI והדאטה שלה. תוכלו לצפות בהדגמות חיות וללמוד מדוגמאות אמיתיות, כך שתצאו מהאירוע עם רעיונות וכלים פרקטיים שניתן ליישם מיד. האירוע, AI in Action | Haifa, יתקיים ב-30 בנובמבר (9:00-14:00) […] The post חיפאים, Google Cloud מזמינה אתכם לאירוע AI ודאטה חדש appea"
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#9",
      "title": "זה לקח 6 שנים, אבל אמזון משיקה עכשיו את המצלמה המשוגעת שלה",
      "published": "2026-11-11T09:07:24+00:00",
      "summary": "בואו נחזור רגע לחודשים האחרונים של 2020. כולנו נכנסים לסגר השני; הסכמי אברהם נחתמים; ובארה\"ב זוכה ג'ו ביידן בבחירות… אבל במקביל לכל האירועים האלה, אמזון מקיימת את אירוע ההשקה השנתי שלה שבו היא חושפת את אחד הפיתוחים המעניינים והמשונים ביותר שראינו: Always Home Cam. רחפן אוטונומי עם מצלמה שישמור לכם על הבית. עכשיו בואו נחזור […] The post זה לקח 6 שנים, אבל אמזון משיקה עכשיו את המצלמה המשוגעת שלה app"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#10",
      "title": "אנת'רופיק הולכת על הראש של אקסל עם פיצ'ר חדש של Claude",
      "published": "2026-11-11T08:00:57+00:00",
      "summary": "התרגלתם לכתוב קוד, טקסטים או לנתח נתונים בקלוד ואז לרוץ להדביק אותם בתוכנות אחרות? אנת'רופיק רוצה לשים לזה סוף. בהכרזה שגרמה אפילו למניית מיקרוסופט לרדת, החברה מציגה סט כלים חדש שמכניס את האקסל, הלוח המחיק ודשבורד הנתונים שלכם – ישירות לתוך חלון הצ'אט. אקסל, אבל בתוך קלוד אחד החידושים המעניינים ביותר בהכרזה הוא Claude Sheets, […] The post אנת'רופיק הולכת על הראש של אקסל עם פיצ'ר חדש של Claude appe"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#11",
      "title": "\"בלי המפתחות הכל מושבת\": היזמים שמאחורי Zerto חושפים סטארטאפ חדש עם סבב סיד גדול במיוחד",
      "published": "2026-11-10T15:00:37+00:00",
      "summary": "האחים זיו ועודד קדם הם לא שמות חדשים בהייטק המקומי, אבל עכשיו, אחרי שהקימו ומכרו את Kashya ל-EMC ואת Zerto ל-HPE, הם חוזרים כעת לסיבוב נוסף, הפעם עם סטארטאפ חדש בשם Dreeze. היום (ג') יוצאת החברה ממצב Stealth עם גיוס סיד חריג בהיקפו של 33 מיליון דולר. את הסבב הובילו הקרנות האמריקאיות Norwest ו-Bessemer Venture Partners, […] The post \"בלי המפתחות הכל מושבת\": היזמים שמאחורי Zerto חושפים סטארטאפ חדש ע"
     },
     {
-     "ref": "geektime#9",
+     "ref": "geektime#12",
      "title": "גיוס של 80 מיליון דולר לסטארטאפ הישראלי שמגן על Lovable ו-LastPass",
      "published": "2026-11-10T14:31:48+00:00",
      "summary": "בדיוק שנה עברה מאז שחברת הסייבר הישראלית Daylight הודיעה על סבב הגיוס הקודם שלה, והיום (ג') היא חושפת גיוס גדול נוסף. עכשיו מודיע הסטארטאפ על השלמת סבב B בגובה 80 מיליון דולר בהובלת Goldman Sachs ובהשתתפות משקיעה חדשה, Okta Ventures, לצד הקרנות הקיימות Vintage Partners, Craft Ventures, Bain Capital ו-Maple Capital. הגיוס הנוכחי מביא את […] The post גיוס של 80 מיליון דולר לסטארטאפ הישראלי שמגן על L"
     },
     {
-     "ref": "geektime#10",
+     "ref": "geektime#13",
      "title": "מה? הדמעות? זה בגלל ש-Waze מאפשרת עכשיו לבחור נקודת מוצא",
      "published": "2026-11-10T13:37:23+00:00",
      "summary": "גם לכם זה בטח קרה. אתם רוצים לבדוק כמה זמן ייקח לחבר להגיע אליכם או כמה מה הדרך הכי טובה להגיע מהעבודה למסעדה כלשהי, אבל Waze מתעקשת לתת לכם את המסלול רק מהמיקום הנוכחי שלכם. אז עד היום עקפנו את זה בכל מיני שיטות או בעזרת Google Maps, אבל עכשיו, אפליקציית הניווט הפופולרית סוף סוף […] The post מה? הדמעות? זה בגלל ש-Waze מאפשרת עכשיו לבחור נקודת מוצא appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#11",
+     "ref": "geektime#14",
      "title": "יובל זכריה מגייסת 50 מיליון דולר לסטארטאפ שהקימה לפני פחות משנה",
      "published": "2026-11-10T13:00:47+00:00",
      "summary": "בשנה האחרונה סוכני AI משנים לגמרי את הדרך שבה אנחנו עובדים. מעולם שבו בני אדם מפעילים (או כותבים) תוכנות, אנחנו עוברים למציאות שבה האייג'נטים כבר מקבלים החלטות לבד, ולא פעם הם עושים את זה עם גישה ישירה למערכות רגישות. הבעיה היא שמערכות אבטחה מסורתיות פשוט לא נבנו לעולם הזה, ומתקשות להבין מתי פעולה לגיטימית הופכת […] The post יובל זכריה מגייסת 50 מיליון דולר לסטארטאפ שהקימה לפני פחות משנה appeared "
     },
     {
-     "ref": "geektime#12",
+     "ref": "geektime#15",
      "title": "מתחרה חדשה: Revolut הבריטית קיבלה אישור להקים בנק בישראל",
      "published": "2026-11-10T11:58:00+00:00",
      "summary": "אחרי השמועות והדיווחים הלא רשמיים, זה רשמי: בנק ישראל העניק היום (ג') לקבוצת Revolut הבריטית רישיון מותנה להקמת בנק בישראל. הגוף החדש, שיזכה לשם הסקסי \"בנק רבולוט ישראל (בהקמה)\", הוא ניסיון נוסף של המדינה ובנק ישראל לפתוח קצת את שוק הבנקאות המקומי המנומנם לתחרות. הרישיון הזה הוא השלישי שניתן לבנק חדש בישראל מאז 2019, כשבנק […] The post מתחרה חדשה: Revolut הבריטית קיבלה אישור להקים בנק בישראל appea"
     },
     {
-     "ref": "geektime#13",
+     "ref": "geektime#16",
      "title": "וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מיליון דולר בשנה",
      "published": "2026-11-10T09:55:18+00:00",
      "summary": "לפני כשנה וחצי רכשה Wix את Base44, סטארטאפ ישראלי צעיר שהוקם כמה חודשים לפני, ב-80 מיליון דולר. אבל מה שנראה אז בעיקר כאקזיט חלומי ליזם מאור שלמה, מתברר עכשיו, עם פרסום הדוחות הרבעוניים של וויקס, כאחד המהלכים האסטרטגיים והחשובים שוויקס עשתה בשנים האחרונות. עסקה חלומית לכולם על פי הדוחות הרבעוניים של וויקס לרבעון השלישי של […] The post וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מ"
-    },
-    {
-     "ref": "geektime#14",
-     "title": "מטא פותחת מחזור חדש לתוכנית הסטארטאפים שלה בישראל, וכדאי שתזדרזו להירשם",
-     "published": "2026-11-10T09:27:47+00:00",
-     "summary": "חברת Meta פתחה את ההרשמה למחזור השני של Meta Startup Growth Program – תוכנית לליווי סטארטאפים ישראליים בשלבים מוקדמים, המתמקדת בצמיחה והתרחבות לשווקים בינלאומיים. המשתתפים יפגשו עם מומחי החברה מהארץ ומהעולם, ישתתפו בסדנאות מקצועיות ויקבלו שעות ייעוץ אישיות. התוכנית מיועדת לסטארטאפים B2C שכבר מציגים פעילות ראשונית בשוק, מתמקדים בצמיחה גלובלית ושואפים להרחיב את פעילותם לשווקים […] The post מטא פותחת"
-    },
-    {
-     "ref": "geektime#15",
-     "title": "ג'יימס גאן התפוטר מתפקידו ב-DC Studios – וקשה לנו להיראות מופתעים",
-     "published": "2026-11-10T08:43:14+00:00",
-     "summary": "בעוד קצת יותר מחודש סביר להניח שכל עולם הגיקים ידבר רק על Avengers: Doomsday, אבל עד אז יש לנו דרמה אחרת: הלילה (ב') נודע כי ג'יימס גאן ופיטר ספרן \"עוזבים\" את תפקידיהם כמנכ\"לים משותפים ומנהלי אולפני DC Studios. אז מה קרה שם ולמה לדעתנו DC מראה לגאן את הדלת? הכישלונות וההצלחות של גאן גאן מונה […] The post ג'יימס גאן התפוטר מתפקידו ב-DC Studios – וקשה לנו להיראות מופתעים appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#16",
-     "title": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
-     "published": "2026-11-10T07:04:47+00:00",
-     "summary": "קשה להפריז בכוחה של אנבידיה בשנים האחרונות, וזה ממש לא רק שווי השוק המטורף (והמשחק עם אפל על מי החברה בעלת השווי הגבוה בעולם). השבבים של החברה הם תשתית ה-AI העולמית, ואיפשהו גם התקן העולמי שכמעט כל החברות מתיישרות אליו, כך שהדרישה למוצרים של החברה עולה כבר שנים על קצב הייצור שלה. לכן, כשהתפוצצה פרשת […] The post פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג? appeared first on גיקטיים ."
     }
    ]
   },
@@ -254,69 +254,69 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "93% of paint splatters are valid Perl programs (2019)",
-     "published": "2026-11-11T22:34:23+00:00",
-     "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 215 # Comments: 30"
+     "title": "Humble Bundle just killed most of their security through vibecoding",
+     "published": "2026-11-12T06:52:48+00:00",
+     "summary": "Article URL: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ Comments URL: https://news.ycombinator.com/item?id=50463899 Points: 259 # Comments: 130"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Nvidia is preparing to oust Jensen Huang",
-     "published": "2026-11-11T22:31:06+00:00",
-     "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 622 # Comments: 869"
+     "title": "Critical RCE Vulnerability in Apache HTTP Server",
+     "published": "2026-11-12T02:11:11+00:00",
+     "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 184 # Comments: 80"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Lock Your GitHub Actions",
-     "published": "2026-11-11T22:16:41+00:00",
-     "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 161 # Comments: 27"
+     "title": "93% of paint splatters are valid Perl programs (2019)",
+     "published": "2026-11-11T22:34:23+00:00",
+     "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 412 # Comments: 54"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Jensen Huang said to have had relationship with executive who reports to him",
-     "published": "2026-11-11T22:03:58+00:00",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html Comments URL: https://news.ycombinator.com/item?id=50459321 Points: 278 # Comments: 304"
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "published": "2026-11-11T22:31:06+00:00",
+     "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 992 # Comments: 1340"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-     "published": "2026-11-11T21:24:35+00:00",
-     "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 432 # Comments: 414"
+     "title": "Lock Your GitHub Actions",
+     "published": "2026-11-11T22:16:41+00:00",
+     "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 249 # Comments: 48"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Emacs in the Age of Magic",
-     "published": "2026-11-11T20:26:32+00:00",
-     "summary": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 160 # Comments: 58"
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "published": "2026-11-11T21:24:35+00:00",
+     "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 547 # Comments: 539"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-     "published": "2026-11-11T19:12:16+00:00",
-     "summary": "Article URL: https://termsheetplease.com/ Comments URL: https://news.ycombinator.com/item?id=50457230 Points: 195 # Comments: 77"
+     "title": "Emacs in the Age of Magic",
+     "published": "2026-11-11T20:26:32+00:00",
+     "summary": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 223 # Comments: 100"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Gemini Decisions API",
      "published": "2026-11-11T18:32:42+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 303 # Comments: 98"
+     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 425 # Comments: 127"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "AWS emulator",
      "published": "2026-11-11T18:21:38+00:00",
-     "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 721 # Comments: 222"
+     "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 839 # Comments: 233"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Faster Retrieval for Better, More Efficient RAG",
      "published": "2026-11-11T16:57:45+00:00",
-     "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 172 # Comments: 29"
+     "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 207 # Comments: 38"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "published": "2026-11-11T16:38:44+00:00",
-     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 432 # Comments: 221"
+     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 487 # Comments: 236"
     },
     {
      "ref": "hn_frontpage#11",
@@ -326,39 +326,33 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "Atuin Threads: All your agent sessions on every machine",
-     "published": "2026-11-11T14:10:46+00:00",
-     "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 194 # Comments: 75"
+     "title": "Hyper-Realistic Sand with WebGL2",
+     "published": "2026-11-11T13:39:29+00:00",
+     "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 373 # Comments: 71"
     },
     {
      "ref": "hn_frontpage#13",
-     "title": "Hyper-Realistic Sand with WebGL2",
-     "published": "2026-11-11T13:39:29+00:00",
-     "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 327 # Comments: 66"
+     "title": "Can a Linear Program Do Weight-Space Programming?",
+     "published": "2026-11-11T12:30:17+00:00",
+     "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 276 # Comments: 38"
     },
     {
      "ref": "hn_frontpage#14",
-     "title": "Can a Linear Program Do Weight-Space Programming?",
-     "published": "2026-11-11T12:30:17+00:00",
-     "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 250 # Comments: 37"
+     "title": "My AI agents found an unmapped Maya site?",
+     "published": "2026-11-11T12:05:22+00:00",
+     "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 988 # Comments: 358"
     },
     {
      "ref": "hn_frontpage#15",
-     "title": "My AI agents found an unmapped Maya site?",
-     "published": "2026-11-11T12:05:22+00:00",
-     "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 941 # Comments: 339"
+     "title": "Using voltage glitching to unleash the A100 in my mining card",
+     "published": "2026-11-11T10:48:40+00:00",
+     "summary": "Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ Comments URL: https://news.ycombinator.com/item?id=50451903 Points: 300 # Comments: 115"
     },
     {
      "ref": "hn_frontpage#16",
-     "title": "Using voltage glitching to unleash the A100 in my mining card",
-     "published": "2026-11-11T10:48:40+00:00",
-     "summary": "Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ Comments URL: https://news.ycombinator.com/item?id=50451903 Points: 272 # Comments: 108"
-    },
-    {
-     "ref": "hn_frontpage#17",
      "title": "Tim Peters has died",
      "published": "2026-11-11T07:03:17+00:00",
-     "summary": "https://www.reddit.com/r/Python/s/2Cm5dBcvQw Comments URL: https://news.ycombinator.com/item?id=50450488 Points: 927 # Comments: 101"
+     "summary": "https://www.reddit.com/r/Python/s/2Cm5dBcvQw Comments URL: https://news.ycombinator.com/item?id=50450488 Points: 1171 # Comments: 132"
     }
    ]
   },
@@ -545,18 +539,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "Locating the source of a mysterious beep with Claude",
      "published": "2026-11-09T23:57:21+00:00",
      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build Beep Locator , "
-    },
-    {
-     "ref": "simon_willison#11",
-     "title": "The Web Is More Than Enough, by Paul Ford",
-     "published": "2026-11-09T04:32:33+00:00",
-     "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it "
-    },
-    {
-     "ref": "simon_willison#12",
-     "title": "Hide your slop PR descriptions behind",
-     "published": "2026-11-09T04:25:05+00:00",
-     "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is "
     }
    ]
   },
