@@ -788,9 +788,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#24",
-     "title": "Lionel Messi Could Make History With Inter Miami in Potential Friendly Against River Plate in Argentina - Pasión Fútbol",
-     "published": "2026-11-11T02:26:31+00:00",
-     "summary": "Lionel Messi Could Make History With Inter Miami in Potential Friendly Against River Plate in Argentina Pasión Fútbol"
+     "title": "Inter Miami CF Hosts 2026 Edition of Annual Media Appreciation Day and Copa de Medios - Inter Miami CF",
+     "published": "2026-11-10T20:05:51+00:00",
+     "summary": "Inter Miami CF Hosts 2026 Edition of Annual Media Appreciation Day and Copa de Medios Inter Miami CF"
     }
    ]
   },
@@ -800,33 +800,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
-     "title": "Trail Blazers sweep the Thunder with a 118-108 win - The Washington Post",
-     "published": "2026-11-12T09:08:30+00:00",
-     "summary": "Trail Blazers sweep the Thunder with a 118-108 win The Washington Post"
-    },
-    {
-     "ref": "gnews_israeli_nba#1",
      "title": "Deni Avdija leads Trail Blazers with 28 points - NBC Sports",
      "published": "2026-11-12T07:03:38+00:00",
      "summary": "Deni Avdija leads Trail Blazers with 28 points NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#1",
      "title": "Deni Avdija drops 28 points Wednesday - FantasyPros",
-     "published": "2026-11-12T07:00:50+00:00",
+     "published": "2026-11-12T07:00:00+00:00",
      "summary": "Deni Avdija drops 28 points Wednesday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija, Damian Lillard rally Blazers past Thunder - TalkBasket.net",
      "published": "2026-11-12T06:45:22+00:00",
      "summary": "Deni Avdija, Damian Lillard rally Blazers past Thunder TalkBasket.net"
     },
     {
+     "ref": "gnews_israeli_nba#3",
+     "title": "Deni Avdija, Blazers complete two-game sweep of Thunder - 98.1 The Sports Animal",
+     "published": "2026-11-12T06:23:05+00:00",
+     "summary": "Deni Avdija, Blazers complete two-game sweep of Thunder 98.1 The Sports Animal"
+    },
+    {
      "ref": "gnews_israeli_nba#4",
-     "title": "Deni Avdija, Blazers complete two-game sweep of Thunder - Belleville News-Democrat",
-     "published": "2026-11-12T06:05:00+00:00",
-     "summary": "Deni Avdija, Blazers complete two-game sweep of Thunder Belleville News-Democrat"
+     "title": "Trail Blazers sweep Thunder behind Deni Avdija's 28 points - CBS Sports",
+     "published": "2026-11-12T05:56:00+00:00",
+     "summary": "Trail Blazers sweep Thunder behind Deni Avdija's 28 points CBS Sports"
     },
     {
      "ref": "gnews_israeli_nba#5",
@@ -860,15 +860,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#10",
-     "title": "Trail Blazers' Deni Avdija: Powers Portland to victory - CBS Sports",
-     "published": "2026-11-11T12:19:07+00:00",
-     "summary": "Trail Blazers' Deni Avdija: Powers Portland to victory CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija News: Powers Portland to victory - RotoWire",
      "published": "2026-11-11T12:19:07+00:00",
      "summary": "Deni Avdija News: Powers Portland to victory RotoWire"
+    },
+    {
+     "ref": "gnews_israeli_nba#11",
+     "title": "Trail Blazers' Deni Avdija: Powers Portland to victory - CBS Sports",
+     "published": "2026-11-11T12:19:07+00:00",
+     "summary": "Trail Blazers' Deni Avdija: Powers Portland to victory CBS Sports"
     },
     {
      "ref": "gnews_israeli_nba#12",
@@ -884,21 +884,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#14",
-     "title": "Trail Blazers 118-108 Thunder (12 Nov, 2026) Final Score - ESPN India",
-     "published": "2026-11-11T07:03:43+00:00",
-     "summary": "Trail Blazers 118-108 Thunder (12 Nov, 2026) Final Score ESPN India"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
      "title": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder - Hilton Head Island Packet",
      "published": "2026-11-11T06:51:00+00:00",
      "summary": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder Hilton Head Island Packet"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija with the And-1!, 11/10/2026 - Yahoo Sports",
      "published": "2026-11-11T06:40:42+00:00",
      "summary": "Deni Avdija with the And-1!, 11/10/2026 Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#16",
+     "title": "Trail Blazers 118-108 Thunder (12 Nov, 2026) Final Score - ESPN Singapore",
+     "published": "2026-11-11T05:37:22+00:00",
+     "summary": "Trail Blazers 118-108 Thunder (12 Nov, 2026) Final Score ESPN Singapore"
     },
     {
      "ref": "gnews_israeli_nba#17",

@@ -18,111 +18,111 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Dubai DET on the Emirate’s Growth Outlook in 2026",
+     "published": "2026-11-12T09:44:16+00:00",
+     "summary": "H.E. Hadi Badri, CEO, Dubai Economic Development Corporation, Dubai Department of Economy & Tourism, discusses Dubai’s economic growth, investment priorities and outlook with Bloomberg's Jacob Greaves at Bloomberg Invest Dubai 2026. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "Nvidia Weighs on US Index Futures as CEO Uncertainty Hits Shares",
+     "published": "2026-11-12T09:40:38+00:00",
+     "summary": "US stock index futures slid as Nvidia Corp. considers replacing Chief Executive Officer Jensen Huang, with the AI chipmaker’s drop making up over half of the Nasdaq 100 contracts’ declines."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Russia Steps Up Attacks on Ukraine’s Vital Food Factories",
+     "published": "2026-11-12T09:36:47+00:00",
+     "summary": "Russia is stepping up attacks on Ukraine’s crop-processing facilities, further straining an industry vital to the war-battered economy and global food supplies."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Alexis Ohanian Bet on Women’s Sports First",
      "published": "2026-11-12T09:01:00+00:00",
      "summary": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with entrepreneur and investor Alexis Ohanian at Bloomberg’s Power Players conference about investing in women’s sports. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#4",
      "title": "Jensen Huang Scandal: Investigating Nvidia's Relationship to Megaspeed",
      "published": "2026-11-12T09:00:27+00:00",
      "summary": "The geopolitics of chip smuggling."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#5",
      "title": "Odd Lots: What Nvidia’s Megaspeed Scandal Is All About (Podcast)",
      "published": "2026-11-12T09:00:00+00:00",
      "summary": "Nvidia CEO Jensen Huang’s extramarital relationship with a woman named Alice Huang, whom US intelligence reportedly identified as a Chinese intelligence asset, is one of the biggest stories in the world right now. Bloomberg News tech reporter Mackenzie Hawkins has been paying close attention to Megaspeed, the Singapore-based neocloud that Alice Huang was a former executive at — and one of Nvidia’s"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
      "title": "Blackstone, Pimco Target Gulf’s Multibillion-Dollar Buildout",
      "published": "2026-11-12T08:47:31+00:00",
      "summary": "Some of the world’s biggest investment firms are looking to deploy more capital across the Middle East just as governments open more infrastructure projects to outside investors."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#7",
      "title": "China and Korea Will Outperform Taiwan: Market Analysis",
      "published": "2026-11-12T08:19:10+00:00",
      "summary": "Anna Edwards, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#8",
      "title": "Santander Sweetens Offer for Brazil Unit Stake With 5% Increase",
      "published": "2026-11-12T08:12:41+00:00",
      "summary": "Banco Santander SA raised an offer to buy out minority shareholders of its Brazilian unit by 5%, while saying it still provides an attractive return on invested capital for the Spanish lender."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#9",
      "title": "BHP Plans Overhaul of Australia Iron Ore Business to Cut Costs",
      "published": "2026-11-12T08:08:49+00:00",
      "summary": "BHP Group plans to restructure its Australian iron ore business as part of a wider cost-cutting effort aimed at helping the world’s largest miner cope with rising expenses and softer prices for the vital steelmaking ingredient."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#10",
      "title": "London Infrastructure Investment Firm Arcus Said to Weigh Sale",
      "published": "2026-11-12T08:06:30+00:00",
      "summary": "Arcus Infrastructure Partners is weighing strategic options including a potential sale, people familiar with the matter said, in what could be the latest sign of consolidation among private capital managers."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#11",
      "title": "Mittal: Clear Govt Policy Made UAE an Expansion Hub",
      "published": "2026-11-12T08:04:42+00:00",
      "summary": "Shravin Mittal, Founder & CEO of Unbound, joined Horizons Middle East and Africa from the inaugural Bloomberg Invest Dubai where some of the world’s leading investors, family offices and business leaders gathered to discuss the future of wealth and where capital is moving next. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#12",
      "title": "Gross: Private Credit Remains Attractive",
      "published": "2026-11-12T08:03:42+00:00",
      "summary": "Michael Gross, SLR Capital Partner Co-Founder, joined Horizons Middle East and Africa from the inaugural Bloomberg Invest Dubai where some of the world’s leading investors, family offices and business leaders gathered to discuss the future of wealth and where capital is moving next. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
-     "title": "Why The Fed Is A Bigger Risk For The AI Boom Than Nvidia",
-     "published": "2026-11-12T08:01:42+00:00",
-     "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#13",
      "title": "OMNIYAT on What Draws Global Wealth to Dubai in 2026",
      "published": "2026-11-12T07:52:35+00:00",
      "summary": "Mahdi Amjad, Founder & Executive Chairman, OMNIYAT, discusses what attracts global wealth to Dubai and what keeps capital rooted in the city with Bloomberg’s Duncan Chater at Bloomberg Invest Dubai 2026. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
-     "title": "Neste CEO Sees Renewable Diesel Demand Doubling",
-     "published": "2026-11-12T07:48:37+00:00",
-     "summary": "Neste President and CEO Heikki Malinen says rising renewable fuel mandates are driving global demand and expects it to double by 2030. Malinen joined Insight with Haslinda Amin. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Persimmon Defies UK Housing Gloom with Rising Sales, Values",
      "published": "2026-11-12T07:39:30+00:00",
      "summary": "Persimmon Plc maintained its guidance for the year, increasing sales even as the UK housing market endures a protracted slump."
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Poland Loses Luster as Debt Woes Mount on Political Turmoil",
      "published": "2026-11-12T07:30:16+00:00",
      "summary": "Bondholders are increasingly questioning Poland’s long-held status as an emerging-market favorite as political turmoil undermines the government’s ability to rein in its fast-growing $600 billion debt load."
     },
     {
-     "ref": "bloomberg_markets#15",
-     "title": "Alibaba Shares Drop 7% as Nvidia Saga Triggers Chip Access Fears",
-     "published": "2026-11-12T07:00:44+00:00",
-     "summary": "Chinese artificial intelligence stocks tumbled on concerns that cloud operators’ access to advanced chips may face tighter US scrutiny amid the escalating espionage and leadership controversy surrounding Nvidia Corp."
-    },
-    {
      "ref": "bloomberg_markets#16",
-     "title": "Aussie Falls to Lowest Since January on RBA Outlook, AI Concern",
-     "published": "2026-11-12T05:57:01+00:00",
-     "summary": "Australia’s dollar dropped to its lowest level in more than nine months as risk sentiment waned and the interest-rate outlook with the US diverged."
+     "title": "IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks",
+     "published": "2026-11-12T02:06:49+00:00",
+     "summary": "The Indonesian rupiah fell to an all-time low, prompting authorities to once again step in to contain a recent selloff that also hit the nation’s stocks and bonds."
     },
     {
      "ref": "bloomberg_markets#17",
      "title": "Latest Oil Market News and Analysis for Nov. 12",
      "published": "2026-11-11T23:04:06+00:00",
-     "summary": "Oil gained, reversing earlier losses, as tensions between Iran and the US remain a threat to shipments through the Strait of Hormuz amid mixed signals on prospects to end the war."
+     "summary": "Oil fluctuated amid higher production from the Middle East, even as tensions between Iran and the US remain a threat to shipments through the Strait of Hormuz."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -353,45 +353,45 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
+     "published": "2026-11-12T09:44:00+00:00",
+     "summary": "Strategy stock dropped premarket after MSCI ruled the company ineligible for its global indexes."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Nvidia Leadership Crisis Drags on U.S. Stock Futures, Pressures AI Trade",
      "published": "2026-11-12T09:17:00+00:00",
      "summary": "Nvidia dragged futures for major U.S. indexes lower, putting the brakes on a rally in AI stocks and weighing Asian equities."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "Endeavour Mining Shares Tumble as Stoppages Affect Full-Year Output",
      "published": "2026-11-12T09:09:00+00:00",
      "summary": "Shares opened sharply lower after the company warned it would likely hit only the lower end of its guided range for production this year amid problems at one of its mines."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "Metro Bank Hangs Up ‘For Sale’ Sign",
      "published": "2026-11-12T08:25:00+00:00",
      "summary": "The lender said Thursday that it wasn’t in any active discussions and it hadn’t received an approach for a potential takeover."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "European Stock Indexes Higher as Investors Rotate Away From AI",
      "published": "2026-11-12T08:23:00+00:00",
      "summary": "European stock indexes rose at the open, as the tech-light continent benefited from a rotation away from artificial-intelligence stocks."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Dollar’s Strong Upward Momentum Could Continue",
      "published": "2026-11-12T08:09:00+00:00",
      "summary": "The dollar remained elevated after reaching a 19-month high against a basket of currencies overnight."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "Stock Market Today: Nvidia Shares Tumble Over Leadership Crisis",
      "published": "2026-11-12T07:42:54+00:00",
      "summary": "Nasdaq futures drop 1%, while Asian indexes decline"
-    },
-    {
-     "ref": "wsj_markets#6",
-     "title": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
-     "published": "2026-11-12T07:19:00+00:00",
-     "summary": "The index provider ruled firms without substantial operating assets now count as nonoperating, making them ineligible for its global indexes."
     },
     {
      "ref": "wsj_markets#7",
@@ -507,9 +507,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4084.7,
+   "last": 4091.8701,
    "prev_close": 4058.75,
-   "change_pct": 0.64,
+   "change_pct": 0.82,
    "as_of": "2026-11-12"
   },
   "SP500": {
@@ -521,23 +521,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1795,
+   "last": 3.1785,
    "prev_close": 3.1821,
-   "change_pct": -0.08,
+   "change_pct": -0.11,
    "as_of": "2026-11-12"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 92.77,
+   "last": 92.27,
    "prev_close": 92.76,
-   "change_pct": 0.01,
+   "change_pct": -0.53,
    "as_of": "2026-11-12"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 73374.0312,
+   "last": 73325.25,
    "prev_close": 73964.4688,
-   "change_pct": -0.8,
+   "change_pct": -0.86,
    "as_of": "2026-11-12"
   }
  },
