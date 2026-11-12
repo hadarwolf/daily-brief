@@ -18,123 +18,123 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "What We're Watching at COP31",
+     "published": "2026-11-12T10:31:12+00:00",
+     "summary": "Bloomberg's John Ainger, Selcan Hacaoğlu, Lili Pike and Rebecca Penty discuss the key climate issues they're following at Bloomberg Green at COP31 in Antalya, Türkiye. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "BoA, Temasek, Citi Leaders on Where Capital is Moving",
+     "published": "2026-11-12T10:29:42+00:00",
+     "summary": "​​Alexandra Liftman, Global Environmental Executive, Bank of America; Kyung-Ah Park, Chief Sustainability Officer, Temasek; and Valerie Smith, Chief Sustainability Officer, Citi discuss how investors and banks are making strategic choices about where to deploy capital with Bloomberg's Aaron Rutkoff at Bloomberg Green at COP31 in Antalya, Türkiye. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Barclays’ Lafargue Says Nvidia Turmoil Doesn’t Derail AI Trade",
+     "published": "2026-11-12T10:26:04+00:00",
+     "summary": "Investors should stay exposed to the AI boom, even as financing risks and Nvidia Corp.’s leadership turmoil test the trade’s resilience, said Julien Lafargue, chief market strategist at Barclays Private Bank."
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "What Will It Take For a Clean, Resilient Energy Economy?",
+     "published": "2026-11-12T10:22:40+00:00",
+     "summary": "Albert Cheung, CEO, BloombergNEF discusses what it will take to build a cleaner, more resilient energy economy at Bloomberg Green at COP31 in Antalya, Türkiye. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#4",
+     "title": "Damac Group on Dubai, Real Estate, Global Growth in 2026",
+     "published": "2026-11-12T10:18:23+00:00",
+     "summary": "Hussain Sajwani, Founder & Chariman, DAMAC Group, discusses Dubai, real estate investment and global growth with Bloomberg’s Guy Johnson at Bloomberg Invest Dubai 2026. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#5",
+     "title": "Family Businesses on Resilience, Succession in 2026",
+     "published": "2026-11-12T10:17:06+00:00",
+     "summary": "Mishal Kanoo, Chairman, The Kanoo Group and Shravin Bharti Mittal, Founder & CEO, Unbound; Director, Bharti Global Limited, discuss resilience, long-term investment and preparing the next generation of family leadership with Bloomberg’s Abeer Abu Omar at Bloomberg Invest Dubai 2026. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#6",
+     "title": "UAE Minister of Investment's Investment Outlook",
+     "published": "2026-11-12T10:13:56+00:00",
+     "summary": "H.E. Mohamed Hassan Alsuwaidi, UAE Minister of Investment, joins Bloomberg’s Guy Johnson to discuss the country’s investment outlook, the resilience of its financial markets and the future of global capital amid shifting geopolitical dynamics at Bloomberg Invest Dubai 2026. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#7",
+     "title": "Emaar on Dubai, Growth, Global Investment in 2026",
+     "published": "2026-11-12T10:11:26+00:00",
+     "summary": "Mohamed Alabbar, Founder & Managing Director, Emaar Properties, discusses Dubai’s growth, global investment and the outlook for business with Bloomberg’s Guy Johnson at Bloomberg Invest Dubai 2026. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#8",
      "title": "Bundesbank Warns Commercial Property Prices May Decline Again",
      "published": "2026-11-12T09:45:10+00:00",
      "summary": "Germany’s central bank warned that commercial real estate prices may decline again if interest rates rise or troubled property funds are forced to sell assets."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#9",
      "title": "Dubai DET on the Emirate’s Growth Outlook in 2026",
      "published": "2026-11-12T09:44:16+00:00",
      "summary": "H.E. Hadi Badri, CEO, Dubai Economic Development Corporation, Dubai Department of Economy & Tourism, discusses Dubai’s economic growth, investment priorities and outlook with Bloomberg's Jacob Greaves at Bloomberg Invest Dubai 2026. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#10",
      "title": "Nvidia Weighs on US Index Futures as CEO Uncertainty Hits Shares",
      "published": "2026-11-12T09:40:38+00:00",
      "summary": "US stock index futures slid as Nvidia Corp. considers replacing Chief Executive Officer Jensen Huang, with the AI chipmaker’s drop making up over half of the Nasdaq 100 contracts’ declines."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#11",
      "title": "Russia Steps Up Attacks on Ukraine’s Vital Food Factories",
      "published": "2026-11-12T09:36:47+00:00",
      "summary": "Russia is stepping up attacks on Ukraine’s crop-processing facilities, further straining an industry vital to the war-battered economy and global food supplies."
     },
     {
-     "ref": "bloomberg_markets#4",
-     "title": "Alexis Ohanian Bet on Women’s Sports First",
-     "published": "2026-11-12T09:01:00+00:00",
-     "summary": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with entrepreneur and investor Alexis Ohanian at Bloomberg’s Power Players conference about investing in women’s sports. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#5",
-     "title": "Jensen Huang Scandal: Investigating Nvidia's Relationship to Megaspeed",
-     "published": "2026-11-12T09:00:27+00:00",
-     "summary": "The geopolitics of chip smuggling."
-    },
-    {
-     "ref": "bloomberg_markets#6",
-     "title": "Odd Lots: What Nvidia’s Megaspeed Scandal Is All About (Podcast)",
-     "published": "2026-11-12T09:00:00+00:00",
-     "summary": "Nvidia CEO Jensen Huang’s extramarital relationship with a woman named Alice Huang, whom US intelligence reportedly identified as a Chinese intelligence asset, is one of the biggest stories in the world right now. Bloomberg News tech reporter Mackenzie Hawkins has been paying close attention to Megaspeed, the Singapore-based neocloud that Alice Huang was a former executive at — and one of Nvidia’s"
-    },
-    {
-     "ref": "bloomberg_markets#7",
-     "title": "Blackstone, Pimco Target Gulf’s Multibillion-Dollar Buildout",
-     "published": "2026-11-12T08:47:31+00:00",
-     "summary": "Some of the world’s biggest investment firms are looking to deploy more capital across the Middle East just as governments open more infrastructure projects to outside investors."
-    },
-    {
-     "ref": "bloomberg_markets#8",
-     "title": "BofA Says India’s Foreign Inflow Revival Has Further Room to Run",
-     "published": "2026-11-12T08:44:28+00:00",
-     "summary": "The strong momentum in foreign inflows into Indian stocks may continue given a combination of improving earnings, cheaper valuations and light positioning, according to BofA Global Research."
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "China and Korea Will Outperform Taiwan: Market Analysis",
-     "published": "2026-11-12T08:19:10+00:00",
-     "summary": "Anna Edwards, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "Santander Sweetens Offer for Brazil Unit Stake With 5% Increase",
-     "published": "2026-11-12T08:12:41+00:00",
-     "summary": "Banco Santander SA raised an offer to buy out minority shareholders of its Brazilian unit by 5%, while saying it still provides an attractive return on invested capital for the Spanish lender."
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "BHP Plans Overhaul of Australia Iron Ore Business to Cut Costs",
-     "published": "2026-11-12T08:08:49+00:00",
-     "summary": "BHP Group plans to restructure its Australian iron ore business as part of a wider cost-cutting effort aimed at helping the world’s largest miner cope with rising expenses and softer prices for the vital steelmaking ingredient."
-    },
-    {
      "ref": "bloomberg_markets#12",
-     "title": "London Infrastructure Investment Firm Arcus Said to Weigh Sale",
-     "published": "2026-11-12T08:06:30+00:00",
-     "summary": "Arcus Infrastructure Partners is weighing strategic options including a potential sale, people familiar with the matter said, in what could be the latest sign of consolidation among private capital managers."
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Mittal: Clear Govt Policy Made UAE an Expansion Hub",
-     "published": "2026-11-12T08:04:42+00:00",
-     "summary": "Shravin Mittal, Founder & CEO of Unbound, joined Horizons Middle East and Africa from the inaugural Bloomberg Invest Dubai where some of the world’s leading investors, family offices and business leaders gathered to discuss the future of wealth and where capital is moving next. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Persimmon Defies UK Housing Gloom with Rising Sales, Values",
-     "published": "2026-11-12T07:39:30+00:00",
-     "summary": "Persimmon Plc maintained its guidance for the year, increasing sales even as the UK housing market endures a protracted slump."
-    },
-    {
-     "ref": "bloomberg_markets#15",
      "title": "Poland Loses Luster as Debt Woes Mount on Political Turmoil",
      "published": "2026-11-12T07:30:16+00:00",
      "summary": "Bondholders are increasingly questioning Poland’s long-held status as an emerging-market favorite as political turmoil undermines the government’s ability to rein in its fast-growing $600 billion debt load."
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#13",
+     "title": "AMD, Broadcom Poised to Gain From Scandal Roiling Nvidia",
+     "published": "2026-11-12T02:56:15+00:00",
+     "summary": "Nvidia Corp.’s leadership turmoil is boosting potential beneficiaries, with Advanced Micro Devices Inc. and Broadcom Inc. gaining on bets they may win business from the chip giant."
+    },
+    {
+     "ref": "bloomberg_markets#14",
      "title": "IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks",
      "published": "2026-11-12T02:06:49+00:00",
      "summary": "The Indonesian rupiah fell to an all-time low, prompting authorities to once again step in to contain a recent selloff that also hit the nation’s stocks and bonds."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#15",
+     "title": "Long-Dated US Treasuries Rise as Nvidia Woes Revive Haven Demand",
+     "published": "2026-11-12T00:58:09+00:00",
+     "summary": "Long-dated Treasuries rose as trading resumed on Thursday, with turmoil around Nvidia Corp. weighing on technology shares and encouraging demand for safer assets."
+    },
+    {
+     "ref": "bloomberg_markets#16",
      "title": "Latest Oil Market News and Analysis for Nov. 12",
      "published": "2026-11-11T23:04:06+00:00",
      "summary": "Oil fluctuated amid higher production from the Middle East, even as tensions between Iran and the US remain a threat to shipments through the Strait of Hormuz."
     },
     {
-     "ref": "bloomberg_markets#18",
+     "ref": "bloomberg_markets#17",
      "title": "Nvidia Sinks as Analyst Downgrades Start to Come In: Street Wrap",
      "published": "2026-11-11T22:48:40+00:00",
      "summary": "Nvidia Corp. shares fall as much as 8.1% in premarket trading following reports the AI chipmaker’s board is working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang. The move follows reports of multiple extramarital affairs, including with an alleged Chinese spy. The Wall Street Journal said the board is preparing to oust Huang."
     },
     {
-     "ref": "bloomberg_markets#19",
-     "title": "Stocks Fall as Nvidia Leadership Crisis Hits Tech: Markets Wrap",
+     "ref": "bloomberg_markets#18",
+     "title": "Stocks Slip as Nvidia Crisis Halts Tech Comeback: Markets Wrap",
      "published": "2026-11-11T22:08:05+00:00",
-     "summary": "A technology-stock-driven rally came to a sudden halt as traders confronted a leadership crisis at Nvidia Corp. that risks reverberating across the global artificial intelligence supply chain."
+     "summary": "A rebound in technology stocks came to a halt as traders confronted a leadership crisis at Nvidia Corp. that threatens a wider fallout across the global artificial intelligence supply chain."
+    },
+    {
+     "ref": "bloomberg_markets#19",
+     "title": "LME Aluminum Market Faces Biggest Supply Squeeze in Decades",
+     "published": "2026-11-11T17:05:03+00:00",
+     "summary": "Aluminum buyers on the London Metal Exchange are facing the most severe squeeze in decades as inventories backing contracts plunge and much of the remaining stock comes under the control of just two traders."
     }
    ]
   },
@@ -145,8 +145,8 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     {
      "ref": "ft_home#0",
      "title": "Nvidia shares slide as board considers Huang’s future",
-     "published": "2026-11-12T09:09:28+00:00",
-     "summary": "Stock down more than 7 per cent ahead of Wall Street open as chief executive’s fate hangs in balance"
+     "published": "2026-11-12T10:14:25+00:00",
+     "summary": "Stock down more than 6% ahead of Wall Street open as chief executive’s fate hangs in balance"
     },
     {
      "ref": "ft_home#1",
@@ -507,9 +507,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4090.75,
+   "last": 4092.3201,
    "prev_close": 4058.75,
-   "change_pct": 0.79,
+   "change_pct": 0.83,
    "as_of": "2026-11-12"
   },
   "SP500": {
@@ -521,23 +521,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1788,
+   "last": 3.1736,
    "prev_close": 3.1821,
-   "change_pct": -0.1,
+   "change_pct": -0.27,
    "as_of": "2026-11-12"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 92.22,
+   "last": 92.04,
    "prev_close": 92.76,
-   "change_pct": -0.58,
+   "change_pct": -0.78,
    "as_of": "2026-11-12"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 73323.3906,
+   "last": 73397.2031,
    "prev_close": 73964.4688,
-   "change_pct": -0.87,
+   "change_pct": -0.77,
    "as_of": "2026-11-12"
   }
  },

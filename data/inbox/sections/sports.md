@@ -488,153 +488,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Six matches that defined Carrick's Man Utd tenure",
+     "published": "2026-11-12T10:39:54+00:00",
+     "summary": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+     "published": "2026-11-12T10:21:29+00:00",
+     "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?"
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "'Unfinished business' - Tuchel committed to England",
      "published": "2026-11-12T08:42:47+00:00",
      "summary": "England head coach Thomas Tuchel says he has \"no intention\" of leaving the job before Euro 2028 regardless of any offers from major clubs."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "Young duo at heart of Nations League's meanest defence",
      "published": "2026-11-12T08:17:52+00:00",
      "summary": "With Northern Ireland yet to concede a goal in the 2026-27 Nations League, young defenders Ruairi McConville and Tom Atcheson have been impressing for Michael O'Neill's side."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "Podcast: What kind of boss do Aberdeen need & have Hibs turned a corner?",
      "published": "2026-11-12T08:00:00+00:00",
      "summary": "Scotland face North Macedonia, Aberdeen seek a manager and Hibs find form."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "Aberdeen speak to seven managerial candidates - gossip",
      "published": "2026-11-12T07:44:49+00:00",
      "summary": "Aberdeen speak to managerial candidates and in-form Rangers forward attracts attention from English Championship."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "USA withdraw from U17 World Cup",
      "published": "2026-11-12T07:44:21+00:00",
      "summary": "The USA pull out of the Under-17 World Cup, which starts in Qatar next week, because of the risk of armed conflict."
     },
     {
-     "ref": "bbc_football#5",
-     "title": "Robertson set to make history but his hero Dalglish will always be King",
-     "published": "2026-11-12T07:19:57+00:00",
-     "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English."
-    },
-    {
-     "ref": "bbc_football#6",
-     "title": "Robertson set to make history but his hero Dalglish will always be King",
-     "published": "2026-11-12T07:19:57+00:00",
-     "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English."
-    },
-    {
      "ref": "bbc_football#7",
+     "title": "Robertson set to make history but his hero Dalglish will always be King",
+     "published": "2026-11-12T07:19:57+00:00",
+     "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English."
+    },
+    {
+     "ref": "bbc_football#8",
+     "title": "Robertson set to make history but his hero Dalglish will always be King",
+     "published": "2026-11-12T07:19:57+00:00",
+     "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English."
+    },
+    {
+     "ref": "bbc_football#9",
      "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
      "published": "2026-11-12T07:12:41+00:00",
      "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years."
     },
     {
-     "ref": "bbc_football#8",
-     "title": "How 'Barca way' continues despite big-name exits",
-     "published": "2026-11-12T06:41:09+00:00",
-     "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?"
-    },
-    {
-     "ref": "bbc_football#9",
-     "title": "How 'Barca way' continues despite big-name exits",
-     "published": "2026-11-12T06:41:09+00:00",
-     "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?"
-    },
-    {
      "ref": "bbc_football#10",
+     "title": "How 'Barca way' continues despite big-name exits",
+     "published": "2026-11-12T06:41:09+00:00",
+     "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?"
+    },
+    {
+     "ref": "bbc_football#11",
+     "title": "How 'Barca way' continues despite big-name exits",
+     "published": "2026-11-12T06:41:09+00:00",
+     "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?"
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-12T06:29:12+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Kane's top 10 England moments - which was your favourite?",
      "published": "2026-11-12T06:25:26+00:00",
      "summary": "BBC Sport looks at 10 of Harry Kane's most iconic England moments as he prepares to break his country's caps record."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "Wales' James warns of Norwegian revenge in Oslo",
      "published": "2026-11-12T04:32:42+00:00",
      "summary": "Winger Dan James says Wales proved a point when they beat Norway – but is wary Erling Haaland's team will now want to do the same to them."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Euro Leagues",
      "published": "2026-11-11T23:08:00+00:00",
      "summary": "John Bennett is joined by Rafa Honigstein and Julien Laurens"
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Arsenal join Scott chase - Thursday's gossip",
      "published": "2026-11-11T21:38:01+00:00",
      "summary": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "Football Daily",
      "published": "2026-11-11T20:53:00+00:00",
      "summary": "Mauricio Pochettino could replace Michael Carrick at Manchester United."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Football Daily",
      "published": "2026-11-11T18:15:00+00:00",
      "summary": "Harry Kane will make his 126th appearance for England on Thursday"
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "Shrewsbury 'hit all the boxes' for new owners - Friedel",
      "published": "2026-11-11T17:44:42+00:00",
      "summary": "In an exclusive interview with BBC Radio Shropshire new Shrewsbury Town sporting director Brad Friedel says the club are a perfect fit."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#20",
      "title": "Legally restrict heading a football in training, says MP",
      "published": "2026-11-11T17:38:18+00:00",
      "summary": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "O'Shea proud of how team-mates handled Israel games",
      "published": "2026-11-11T17:33:37+00:00",
      "summary": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
      "published": "2026-11-11T16:44:58+00:00",
      "summary": "From the 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "No excuses as Pocognoli seeks first Hampden victory",
      "published": "2026-11-11T16:38:14+00:00",
      "summary": "Having lost his first two home matches, Scotland head coach Sebastien Pocognoli needs to deliver a convincing win against North Macedonia, writes Tom English."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Referee observer banned for discriminatory comments",
      "published": "2026-11-11T16:26:24+00:00",
      "summary": "A Pro Ref referee observer is banned for nine weeks and fined £200 for making discriminatory remarks after a match he was working at."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
-     "published": "2026-11-11T16:03:02+00:00",
-     "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Bristol City give Skubala opportunity to improve form",
-     "published": "2026-11-11T15:52:30+00:00",
-     "summary": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results."
     }
    ]
   },
@@ -818,9 +818,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#3",
-     "title": "Deni Avdija, Blazers complete two-game sweep of Thunder - Belleville News-Democrat",
-     "published": "2026-11-12T06:05:00+00:00",
-     "summary": "Deni Avdija, Blazers complete two-game sweep of Thunder Belleville News-Democrat"
+     "title": "Deni Avdija, Blazers complete two-game sweep of Thunder - 98.1 The Sports Animal",
+     "published": "2026-11-12T06:23:05+00:00",
+     "summary": "Deni Avdija, Blazers complete two-game sweep of Thunder 98.1 The Sports Animal"
     },
     {
      "ref": "gnews_israeli_nba#4",
@@ -860,54 +860,60 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#10",
+     "title": "Deni Avdija posts 24/6/8/1 line vs. Oklahoma City - NBC Sports",
+     "published": "2026-11-11T17:55:19+00:00",
+     "summary": "Deni Avdija posts 24/6/8/1 line vs. Oklahoma City NBC Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija News: Powers Portland to victory - RotoWire",
      "published": "2026-11-11T12:19:07+00:00",
      "summary": "Deni Avdija News: Powers Portland to victory RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Trail Blazers' Deni Avdija: Powers Portland to victory - CBS Sports",
      "published": "2026-11-11T12:19:07+00:00",
      "summary": "Trail Blazers' Deni Avdija: Powers Portland to victory CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "\"Actions speak better than words\" - Deni Avdija reveals what Damian Lillard's presence has meant to him - Basketball Network",
      "published": "2026-11-11T11:26:00+00:00",
      "summary": "\"Actions speak better than words\" - Deni Avdija reveals what Damian Lillard's presence has meant to him Basketball Network"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija Highlights (24 Points, 8 Assists) | Trail Blazers 123, Thunder 103 | Nov. 10, 2026 - NBA.com",
      "published": "2026-11-11T07:45:52+00:00",
      "summary": "Deni Avdija Highlights (24 Points, 8 Assists) | Trail Blazers 123, Thunder 103 | Nov. 10, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder - Hilton Head Island Packet",
      "published": "2026-11-11T06:51:00+00:00",
      "summary": "Damian Lillard, Deni Avdija propel Trail Blazers past Thunder Hilton Head Island Packet"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija with the And-1!, 11/10/2026 - Yahoo Sports",
      "published": "2026-11-11T06:40:42+00:00",
      "summary": "Deni Avdija with the And-1!, 11/10/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Trail Blazers 118-108 Thunder (12 Nov, 2026) Final Score - ESPN Singapore",
      "published": "2026-11-11T05:37:22+00:00",
      "summary": "Trail Blazers 118-108 Thunder (12 Nov, 2026) Final Score ESPN Singapore"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija gets the and-1 to fall for Trail Blazers - ESPN India",
      "published": "2026-11-11T05:03:49+00:00",
      "summary": "Deni Avdija gets the and-1 to fall for Trail Blazers ESPN India"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Avdija Nominated for Western Conference Player of the Week - Blazer's Edge",
      "published": "2026-11-10T03:16:09+00:00",
      "summary": "Avdija Nominated for Western Conference Player of the Week Blazer's Edge"
