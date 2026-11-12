@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-12",
+  "questions": [
+    {
+      "id": "q-nvidia-huang-crisis",
+      "section": "tech",
+      "story_id": "nvidia-huang-ouster-crisis",
+      "answer_index": 1,
+      "en": {
+        "question": "What triggered the FBI investigation and board crisis around Nvidia CEO Jensen Huang?",
+        "options": [
+          "A leak of Nvidia's chip designs to a competitor",
+          "Huang's admission of an affair with a woman alleged to be a Chinese intelligence asset",
+          "A shareholder lawsuit over Nvidia's AI chip export licenses",
+          "An insider-trading complaint filed by a former Nvidia executive"
+        ],
+        "explanation": "Huang admitted to an affair with a woman alleged to be tied to Chinese intelligence, which drew in the FBI and pushed Nvidia's board to weigh ousting him."
+      },
+      "he": {
+        "question": "מה הצית את חקירת ה-FBI ואת משבר הדירקטוריון סביב מנכ\"ל אנבידיה ג'נסן הואנג?",
+        "options": [
+          "דליפת תכנוני שבבים של אנבידיה למתחרה",
+          "הודאתו של הואנג בפרשת רומן עם אישה המשוייכת, כפי שנטען, לגורמי ביון סיניים",
+          "תביעת בעלי מניות בנוגע לרישיונות ייצוא שבבי ה-AI של אנבידיה",
+          "תלונת מסחר פנים שהגיש מנהל בכיר לשעבר באנבידיה"
+        ],
+        "explanation": "הואנג הודה בפרשת רומן עם אישה המשוייכת, כפי שנטען, לביון הסיני, מה שהכניס את ה-FBI לתמונה והוביל את הדירקטוריון לשקול להדיחו."
+      }
+    },
+    {
+      "id": "q-eizenkot-iran-letter",
+      "section": "israeli_politics",
+      "story_id": "netanyahu-eizenkot-iran-oversight",
+      "answer_index": 2,
+      "en": {
+        "question": "What did Gadi Eizenkot urge Netanyahu to do, as the cabinet weighed a possible operation against Iran?",
+        "options": [
+          "Dissolve the Knesset's Foreign Affairs and Defense Committee",
+          "Launch the operation quickly before coalition talks conclude",
+          "Show restraint and avoid dangerous moves that could wait until a new government is sworn in",
+          "Resign immediately and hand power to a unity government"
+        ],
+        "explanation": "Eizenkot's letter urged 'restraint and caution from dangerous moves,' arguing action could wait until a new government takes office."
+      },
+      "he": {
+        "question": "מה דרש גדי איזנקוט מנתניהו, בעוד הקבינט שוקל פעולה אפשרית באיראן?",
+        "options": [
+          "לפזר את ועדת החוץ והביטחון של הכנסת",
+          "להוציא את המבצע לפועל במהירות לפני סיום המשא ומתן הקואליציוני",
+          "לנהוג באיפוק ולהימנע ממהלכים מסוכנים שיכולים להמתין להשבעת ממשלה חדשה",
+          "להתפטר לאלתר ולהעביר את השלטון לממשלת אחדות"
+        ],
+        "explanation": "במכתבו דרש איזנקוט \"איפוק וזהירות ממהלכים מסוכנים\", בטענה שאפשר להמתין עד להשבעת ממשלה חדשה."
+      }
+    },
+    {
+      "id": "q-g7-china-taiwan-warning",
+      "section": "geopolitics",
+      "story_id": "china-taiwan-south-china-sea-tension",
+      "answer_index": 0,
+      "en": {
+        "question": "What did G7 foreign ministers warn about this week, according to Reuters?",
+        "options": [
+          "That China's actions near Taiwan threaten regional stability",
+          "That a new South China Sea code of conduct had already been finalized",
+          "That North Korea's missile tests threaten regional stability",
+          "That ASEAN had withdrawn from talks with China entirely"
+        ],
+        "explanation": "G7 foreign ministers said China's actions east of Taiwan threaten regional stability, even as China and ASEAN made separate progress on South China Sea talks without finishing them."
+      },
+      "he": {
+        "question": "על מה הזהירו שרי החוץ של ה-G7 השבוע, לפי רויטרס?",
+        "options": [
+          "שפעולות סין בקרבת טייוואן מאיימות על היציבות האזורית",
+          "שקוד התנהגות חדש לים סין הדרומי כבר גובש באופן סופי",
+          "שניסויי הטילים של צפון קוריאה מאיימים על היציבות האזורית",
+          "שה-ASEAN פרשו לחלוטין מהשיחות עם סין"
+        ],
+        "explanation": "שרי החוץ של ה-G7 אמרו שפעולות סין ממזרח לטייוואן מאיימות על היציבות האזורית, גם כשסין וה-ASEAN התקדמו בנפרד בשיחות על ים סין הדרומי מבלי לסיימן."
+      }
+    }
+  ]
+}

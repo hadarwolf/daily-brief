@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-12",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-12T03:51:02+00:00",
+  "stories": [
+    {
+      "id": "blended-rate",
+      "kind": "word",
+      "en": {
+        "headline": "Blended rate (שיעור ממוצע משוקלל)",
+        "scroll": "The single average interest rate you get when you combine debt priced at different rates into one number.",
+        "coffee": "A blended rate is the weighted average cost of several debts or prices lumped together, rather than looking at each piece on its own. Companies use it when they've borrowed at different times under different conditions — some old debt at 3%, some new debt at 7% — and want one number that describes their overall cost of capital. Example: \"Our blended rate on $500 million of debt is 4.8%, even though the bonds we issued this year carry a 7% coupon.\"",
+        "deep": "Use \"blended rate\" whenever multiple prices or rates need to be collapsed into a single representative figure — debt costs, mortgage refinancing, or even pricing across product tiers. It's weighted by size, not a simple average: $400 million at 3% and $100 million at 7% blends to 3.8%, not 5%, because the cheaper tranche is four times larger. A common confusion is mixing it up with the \"marginal rate\" — the cost of the next dollar borrowed, which for a company near its credit limit might be far above its blended rate. That gap matters: a CFO looking only at the comfortable blended number can miss that refinancing maturing debt today would happen at a much higher marginal rate. Other examples: \"Mortgage holders who refinanced part of their loan now carry a blended rate of 5.2%.\" \"The merger gives the combined firm a blended tax rate of 24%, between the two countries' statutory rates.\" In Hebrew: שיעור ממוצע משוקלל."
+      },
+      "he": {
+        "headline": "שיעור ממוצע משוקלל (Blended rate)",
+        "scroll": "שיעור הריבית הממוצע שמתקבל כשמשלבים חוב שתומחר בריביות שונות למספר אחד.",
+        "coffee": "שיעור ממוצע משוקלל (blended rate) הוא העלות הממוצעת המשוקללת של כמה חובות או מחירים שמאוחדים למספר אחד, במקום להתייחס לכל חלק בנפרד. חברות משתמשות בו כשהן לוות בזמנים שונים ובתנאים שונים - חלק מהחוב הישן בריבית של 3%, חלק מהחוב החדש בריבית של 7% - ורוצות מספר אחד שמתאר את עלות ההון הכוללת שלהן. לדוגמה: \"שיעור הריבית הממוצע המשוקלל שלנו על חוב של 500 מיליון דולר הוא 4.8%, אף על פי שהאג\\\"ח שהנפקנו השנה נושא קופון של 7%.\"",
+        "deep": "כדאי להשתמש במונח \"שיעור ממוצע משוקלל\" כל פעם שצריך לצמצם כמה ריביות או מחירים למספר מייצג אחד - עלות חוב, מיחזור משכנתא, או אפילו תמחור במדרגות מוצר שונות. החישוב משוקלל לפי גודל, לא ממוצע פשוט: 400 מיליון דולר בריבית 3% ו-100 מיליון דולר בריבית 7% נותנים שיעור משוקלל של 3.8%, לא 5%, כי המקטע הזול גדול פי ארבע מהיקר. בלבול נפוץ הוא לבלבל בין זה לבין \"הריבית המרג'ינלית\" (marginal rate) - העלות של הדולר הבא שנלווה, שעבור חברה שמתקרבת לתקרת האשראי שלה יכולה להיות הרבה מעל השיעור הממוצע המשוקלל. הפער הזה חשוב: סמנכ\\\"ל כספים שמביט רק במספר הממוצע הנוח עלול לפספס שמיחזור חוב שמבשיל היום יתבצע בריבית מרג'ינלית גבוהה בהרבה. דוגמאות נוספות: \"בעלי משכנתא שמיחזרו חלק מההלוואה נושאים כעת שיעור משוקלל של 5.2%.\" \"המיזוג נותן לחברה המשולבת שיעור מס משוקלל של 24%, בין שיעורי המס החוקיים של שתי המדינות.\" באנגלית: Blended rate."
+      },
+      "tags": [
+        "finance",
+        "debt",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "growing-into-your-valuation",
+      "kind": "word",
+      "en": {
+        "headline": "Growing into your valuation (לצמוח לתוך השווי)",
+        "scroll": "When a company's revenue and profits eventually catch up to justify a stock price that looked too expensive when it was set.",
+        "coffee": "\"Growing into your valuation\" describes what happens when a company is priced today on the expectation of future growth, and then actually delivers that growth — so a multiple that looked absurd in year one looks reasonable by year three. It's the optimistic twin of the warning that a stock is \"priced for perfection.\" Example: \"The stock traded at 80 times earnings after the IPO, but two years of 60% revenue growth let the company grow into its valuation.\"",
+        "deep": "Analysts reach for this phrase to defend a high price-to-earnings or price-to-sales multiple: the bet isn't that the price is wrong today, it's that the denominator (earnings, revenue) will rise fast enough to make the ratio look normal later, without the share price needing to fall. The common confusion is treating it as something that happens automatically with time — it doesn't. Growth has to actually show up, and plenty of companies \"priced for growth\" never close the gap and instead de-rate, meaning the multiple collapses because the market loses patience. A trader might say: \"If guidance disappoints again next quarter, this stock will stop trying to grow into its valuation and start shrinking into one instead.\" Or: \"Investors gave the company three years to grow into its valuation before the market got nervous.\" In Hebrew: לצמוח לתוך השווי."
+      },
+      "he": {
+        "headline": "לצמוח לתוך השווי (Growing into your valuation)",
+        "scroll": "מצב שבו ההכנסות והרווחים של חברה מצליחים בסוף להצדיק מחיר מניה שנראה מנופח מדי כשנקבע.",
+        "coffee": "הביטוי \"לצמוח לתוך השווי\" (growing into your valuation) מתאר מצב שבו חברה מתומחרת היום לפי צמיחה עתידית צפויה, ואז בפועל מגשימה את הצמיחה הזו - כך שמכפיל שנראה מופרך בשנה הראשונה נראה סביר בשנה השלישית. זה התאום האופטימי לאזהרה שמניה \"מתומחרת לשלמות\". לדוגמה: \"המניה נסחרה פי 80 מהרווח אחרי ההנפקה, אבל שנתיים של צמיחת הכנסות של 60% נתנו לחברה לצמוח לתוך השווי שלה.\"",
+        "deep": "אנליסטים נעזרים בביטוי הזה כדי להגן על מכפיל רווח או מכפיל הכנסות גבוה: ההנחה אינה שהמחיר שגוי היום, אלא שהמכנה (רווחים, הכנסות) יעלה מהר מספיק כדי שהיחס יראה נורמלי בהמשך, בלי שמחיר המניה יצטרך לרדת. הבלבול הנפוץ הוא להתייחס לזה כמשהו שקורה אוטומטית עם הזמן - זה לא. הצמיחה חייבת להתממש בפועל, ולא מעט חברות ש\"תומחרו לצמיחה\" לעולם לא סוגרות את הפער ובמקום זאת סופגות הורדת מכפיל (de-rate), כלומר המכפיל קורס כי השוק מאבד סבלנות. סוחר יכול לומר: \"אם התחזית תאכזב שוב ברבעון הבא, המניה הזו תפסיק לנסות לצמוח לתוך השווי שלה ותתחיל להתכווץ לתוכו.\" או: \"המשקיעים נתנו לחברה שלוש שנים לצמוח לתוך השווי שלה לפני שהשוק נעשה עצבני.\" באנגלית: Growing into your valuation."
+      },
+      "tags": [
+        "valuation",
+        "markets",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "when-the-music-stops",
+      "kind": "word",
+      "en": {
+        "headline": "When the music stops (כשהמוזיקה נפסקת)",
+        "scroll": "A warning that easy money and rising prices can't last forever, and whoever is still exposed when they end gets hurt.",
+        "coffee": "\"When the music stops\" comes from musical chairs: as long as the song is playing, everyone keeps dancing and no one wants to be the one left standing. In markets, it means a bull run fueled by cheap credit or speculation can keep going well past the point of reason — but when it ends, the people who kept playing longest (holding the riskiest positions) are the ones caught without a seat. Example: \"Everyone knew the lending standards were too loose, but no one wanted to stop lending before the music stopped.\"",
+        "deep": "The phrase is most associated with former Citigroup CEO Chuck Prince, who said in 2007, shortly before the financial crisis, that \"as long as the music is playing, you've got to get up and dance\" — meaning his bank had to keep taking on risk as long as competitors were doing the same and profiting from it, even while sensing danger. \"When the music stops\" is the other half of that line: the moment liquidity dries up, confidence breaks, or a credit cycle turns, and the game of musical chairs ends all at once. A common confusion is thinking the music \"stopping\" is a single dramatic event, like a crash headline. In practice it's often the silent part — funding quietly getting harder to roll over, a usually reliable buyer disappearing — that happens before the obvious part. Examples: \"Private credit funds have grown fast in this cycle; the real test is what happens when the music stops.\" \"He sold his stake a year early, before the music stopped, and looked lucky rather than smart.\" In Hebrew: כשהמוזיקה נפסקת."
+      },
+      "he": {
+        "headline": "כשהמוזיקה נפסקת (When the music stops)",
+        "scroll": "אזהרה שכסף זול ומחירים עולים לא יכולים להימשך לנצח, ומי שעדיין חשוף כשהם נגמרים - נפגע.",
+        "coffee": "הביטוי \"כשהמוזיקה נפסקת\" (when the music stops) מגיע ממשחק הכיסאות המוזיקליים: כל עוד השיר מתנגן, כולם ממשיכים לרקוד ואף אחד לא רוצה להיות זה שנשאר בלי כיסא. בשווקים, הכוונה היא שגאות שמוזנת באשראי זול או בספקולציה יכולה להימשך הרבה מעבר לנקודת ההיגיון - אבל כשהיא נגמרת, אלה שהמשיכו לשחק הכי הרבה זמן (והחזיקו בפוזיציות המסוכנות ביותר) הם אלה שנתפסים בלי כיסא. לדוגמה: \"כולם ידעו שתנאי האשראי רופפים מדי, אבל אף אחד לא רצה להפסיק להלוות לפני שהמוזיקה תיפסק.\"",
+        "deep": "הביטוי מזוהה בעיקר עם צ'אק פרינס, מנכ\\\"ל סיטיגרופ לשעבר, שאמר ב-2007, זמן קצר לפני המשבר הפיננסי, ש\"כל עוד המוזיקה מתנגנת, צריך לקום ולרקוד\" - בכוונה שהבנק שלו נאלץ להמשיך לקחת סיכונים כל עוד המתחרים עשו את אותו הדבר והרוויחו מזה, גם כשהוא חש בסכנה. \"כשהמוזיקה נפסקת\" הוא החלק השני של אותו משפט: הרגע שבו הנזילות מתאדה, האמון נשבר, או מחזור האשראי מתהפך, ומשחק הכיסאות המוזיקליים נגמר בבת אחת. בלבול נפוץ הוא לחשוב ש\"הפסקת המוזיקה\" היא אירוע דרמטי בודד, כמו כותרת על קריסה. בפועל זה לרוב החלק השקט - מימון שהופך בשקט לקשה יותר למחזר, קונה שתמיד היה אמין ומתחיל להיעלם - שקורה לפני החלק הגלוי. דוגמאות: \"קרנות האשראי הפרטי צמחו מהר במחזור הזה; המבחן האמיתי הוא מה קורה כשהמוזיקה נפסקת.\" \"הוא מכר את החלק שלו שנה מוקדם, לפני שהמוזיקה נפסקה, ונראה בר מזל יותר מאשר חכם.\" באנגלית: When the music stops."
+      },
+      "tags": [
+        "markets",
+        "risk",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "unit-economics",
+      "kind": "concept",
+      "en": {
+        "headline": "Unit economics: the profit (or loss) hiding inside every single customer",
+        "scroll": "Unit economics means a business's profit or loss per one unit — one customer, one order, one ride — stripped of fixed costs.",
+        "coffee": "Unit economics asks a narrow but decisive question: if you ignore rent, salaries, and other overhead, does making or serving one more unit — one customer, one delivery, one subscription — make money or lose it? The classic version in subscription and app businesses compares customer acquisition cost (CAC), what it costs in marketing and sales to win one customer, against lifetime value (LTV), how much profit that customer generates over the time they stay. A healthy business usually needs an LTV-to-CAC ratio of roughly 3-to-1 or better.\n\nThe reason unit economics matters so much is that a company can grow revenue fast while every new unit it adds loses money — scale doesn't fix a broken unit, it just multiplies the loss.",
+        "deep": "Take a direct-to-consumer subscription box that costs $30 a month. Say the product and shipping cost $14, so gross profit per unit is $16 a month. If a customer stays subscribed for an average of 10 months before cancelling, lifetime value is $160. Now compare that to customer acquisition cost: if the company spends $9,000 on ads to win 100 new customers, CAC is $90 per customer. An LTV of $160 against a CAC of $90 gives a ratio of about 1.8-to-1 — positive, but below the 3-to-1 benchmark investors usually want, meaning the business is marginal rather than clearly healthy.\n\nThe power of unit economics is that it separates two very different problems that both show up as \"losing money.\" A company can be unprofitable overall simply because it hasn't yet grown large enough to cover its fixed costs (offices, engineering, executives) even though every individual unit is profitable — in which case growth is the cure, since each new unit adds more profit on top of the fixed base. Or a company can be unprofitable because each individual unit is a money-loser on its own — in which case growth makes things worse, not better, since every new customer deepens the hole rather than filling it.\n\nA common confusion is treating a healthy gross margin as proof of healthy unit economics. Gross margin only strips out the direct cost of the product itself; unit economics also has to account for every other variable cost tied to serving that specific customer — payment processing fees, customer support tickets, returns, and the cost of inevitable churn. A company can show an attractive 70% gross margin while still losing money on each customer once acquisition cost and servicing costs are folded in, which is exactly the gap unit economics is built to catch.\n\nThis is why experienced investors ask \"what are your unit economics?\" before they ask about total revenue growth. A business growing 200% a year while losing money on every single customer is building a bigger version of a problem, not a bigger version of a company."
+      },
+      "he": {
+        "headline": "כלכלת היחידה (unit economics): הרווח - או ההפסד - שמסתתר בכל לקוח בודד",
+        "scroll": "כלכלת היחידה בודקת מה הרווח או ההפסד על יחידה בודדת - לקוח אחד, הזמנה אחת, נסיעה אחת - בלי להתחשב בעלויות הקבועות.",
+        "coffee": "כלכלת היחידה (unit economics) שואלת שאלה מצומצמת אך מכרעת: אם מתעלמים משכר דירה, משכורות ועלויות תקורה אחרות, האם שירות של עוד יחידה אחת - לקוח אחד, משלוח אחד, מנוי אחד - מרוויח או מפסיד? הגרסה הקלאסית בעסקי מנויים ואפליקציות משווה בין עלות גיוס לקוח (CAC - customer acquisition cost), כמה עולה בשיווק ובמכירות לגייס לקוח אחד, לבין שווי החיים של הלקוח (LTV - lifetime value), כמה רווח הלקוח הזה מייצר במהלך כל הזמן שהוא נשאר. עסק בריא בדרך כלל צריך יחס LTV-ל-CAC של בערך 3 ל-1 או יותר.\n\nהסיבה שכלכלת היחידה חשובה כך היא שחברה יכולה לצמוח בהכנסות מהר מאוד כשכל יחידה חדשה שהיא מוסיפה מפסידה כסף - קנה מידה (scale) לא מתקן יחידה שבורה, הוא רק מכפיל את ההפסד.",
+        "deep": "קחו קופסת מנוי לצרכן שעולה 30 דולר בחודש. נניח שהמוצר והמשלוח עולים 14 דולר, כך שהרווח הגולמי ליחידה הוא 16 דולר בחודש. אם לקוח נשאר במנוי בממוצע 10 חודשים לפני שמבטל, שווי החיים שלו הוא 160 דולר. עכשיו השוו את זה לעלות גיוס הלקוח: אם החברה מוציאה 9,000 דולר על פרסום כדי לגייס 100 לקוחות חדשים, ה-CAC הוא 90 דולר ללקוח. LTV של 160 דולר מול CAC של 90 דולר נותן יחס של בערך 1.8 ל-1 - חיובי, אבל מתחת לרף של 3 ל-1 שמשקיעים בדרך כלל רוצים לראות, כלומר העסק גבולי ולא בבריאות ברורה.\n\nהעוצמה של כלכלת היחידה היא שהיא מפרידה בין שתי בעיות שונות מאוד שלמעשה גורמות לכולן להופיע כ\"הפסד כספי\". חברה יכולה להיות לא רווחית בסך הכולל פשוט כי היא עדיין לא גדלה מספיק כדי לכסות את העלויות הקבועות שלה (משרדים, הנדסה, הנהלה) אף על פי שכל יחידה בודדת רווחית - ובמקרה הזה הצמיחה היא התרופה, כי כל יחידה חדשה מוסיפה עוד רווח מעל הבסיס הקבוע. או שחברה יכולה להיות לא רווחית כי כל יחידה בודדת מפסידה כסף בעצמה - ובמקרה הזה הצמיחה מחמירה את המצב, לא משפרת אותו, כי כל לקוח חדש מעמיק את הבור במקום למלא אותו.\n\nבלבול נפוץ הוא להתייחס לשיעור רווח גולמי (gross margin) גבוה כהוכחה לכלכלת יחידה בריאה. שיעור הרווח הגולמי מסנן רק את העלות הישירה של המוצר עצמו; כלכלת היחידה חייבת להתחשב גם בכל עלות משתנה אחרת שקשורה לשירות אותו לקוח ספציפי - עמלות סליקת תשלומים, פניות לתמיכת לקוחות, החזרות, ועלות הנטישה (churn) הבלתי נמנעת. חברה יכולה להציג שיעור רווח גולמי מרשים של 70% ועדיין להפסיד כסף על כל לקוח כשעלות הגיוס ועלויות השירות נכנסות לתמונה - וזה בדיוק הפער שכלכלת היחידה נועדה לתפוס.\n\nזו הסיבה שמשקיעים מנוסים שואלים \"מה כלכלת היחידה שלכם?\" לפני שהם שואלים על צמיחת ההכנסות הכוללת. עסק שצומח ב-200% בשנה כשהוא מפסיד על כל לקוח בודד בונה גרסה גדולה יותר של בעיה, לא גרסה גדולה יותר של חברה."
+      },
+      "tags": [
+        "unit-economics",
+        "startups",
+        "business-fundamentals"
+      ],
+      "sources": []
+    },
+    {
+      "id": "philae-comet-landing",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2014: Philae becomes the first spacecraft to land on a comet",
+        "scroll": "In 2014, the European Space Agency's Philae lander touched down on comet 67P/Churyumov–Gerasimenko, the first spacecraft ever to land on a comet.",
+        "coffee": "On 12 November 2014, the European Space Agency's lander Philae separated from its mothership, Rosetta, and descended onto the surface of comet 67P/Churyumov–Gerasimenko — becoming the first spacecraft in history to land on a comet. ESA, a 23-member international organization headquartered in Paris with a global staff of around 3,000 people, had spent a decade getting Rosetta to the comet, which it had been orbiting since earlier that year.\n\nThe landing wasn't clean: Philae's anchoring harpoons failed to fire, and the lander bounced across the surface before coming to rest in a shadowed spot that starved its solar panels of sunlight, cutting its working life short. Even so, Philae managed to send back data in its first hours on the surface, including what later analysis identified as the first known example of \"handedness\" detected in how the comet's material had moved and settled over its history — a small but striking clue about the physical processes at work on a body with a history reaching back further than Earth's oldest rocks.",
+        "deep": "Rosetta launched in 2004 and spent ten years travelling through the solar system, including several gravity-assist flybys of Earth and Mars, before entering orbit around comet 67P/Churyumov–Gerasimenko in August 2014 — the first spacecraft ever to orbit a comet rather than just fly past one. After mapping the comet's oddly shaped, two-lobed \"rubber duck\" surface from orbit, mission scientists picked a landing site and sent the washing-machine-sized Philae lander down on 12 November.\n\nThe descent exposed how little was really known about a comet's surface up close. Philae's harpoons, designed to fire on contact and anchor it against the comet's extremely weak gravity, failed to deploy. The lander bounced — at one point reaching roughly a kilometer above the surface — before settling nearly two hours later at a site later nicknamed Abydos, wedged against a cliff that blocked most sunlight from reaching its solar panels. With only about 1.5 hours of sunlight per 12-hour comet day instead of the roughly 6 hours planned for, Philae's battery ran out after about 60 hours, though it managed a final brief data transmission in 2015 after the comet's orbit brought it closer to the sun.\n\nDespite the rough landing, Philae returned real science before going silent: temperature readings, the first analysis of organic molecules on a comet's surface, and imagery that, combined with data from the orbiting Rosetta, later let researchers reconstruct how material on the comet had shifted and compacted over time — including the first documented instance of \"handedness,\" an asymmetry in how matter had settled, found on a comet.\n\nThe mission mattered because comets are thought to preserve some of the oldest, least-altered material in the solar system, largely unchanged since the planets formed roughly 4.6 billion years ago. Rosetta and Philae gave scientists their first ground-level look at that material, rather than relying on telescopes or brief flybys — a milestone in understanding the building blocks the solar system, and Earth, formed from."
+      },
+      "he": {
+        "headline": "2014: פילאה הופכת לכלי החלל הראשון שנוחת על שביט",
+        "scroll": "ב-2014 נחתה פילאה, הנחתת של סוכנות החלל האירופית, על השביט 67P/צ'וריומוב-גרסימנקו - כלי החלל הראשון בהיסטוריה שנוחת על שביט.",
+        "coffee": "ב-12 בנובמבר 2014 נפרדה הנחתת פילאה (Philae) של סוכנות החלל האירופית (ESA) מחללית האם שלה, רוזטה (Rosetta), וירדה על פני השטח של השביט 67P/צ'וריומוב-גרסימנקו - והפכה לכלי החלל הראשון בהיסטוריה שנוחת על שביט. ה-ESA, ארגון בין-לאומי בן 23 חברות שמרכזו בפריז ועם כ-3,000 עובדים בעולם, הקדיש עשור שלם להביא את רוזטה לשביט, שהחללית הקיפה אותו עוד מוקדם יותר באותה שנה.\n\nהנחיתה לא הייתה חלקה: הצלצלים (harpoons) שנועדו לעגן את פילאה לא נפתחו, והנחתת ניתרה על פני השטח עד שנחה במקום מוצלל שחסם את האור משלוחי השמש שלה וקיצר את חיי הפעולה שלה. בכל זאת, פילאה הצליחה לשלוח נתונים בשעותיה הראשונות על הקרקע, כולל מה שניתוח מאוחר יותר זיהה כעדות הראשונה הידועה ל\"כיוריות\" (handedness) שהתגלתה באופן שבו חומר השביט זז והתיישב במהלך ההיסטוריה שלו - רמז קטן אך בולט לתהליכים הפיזיקליים שפעלו בגוף שההיסטוריה שלו מגיעה רחוק יותר מהסלעים העתיקים ביותר על כדור הארץ.",
+        "deep": "רוזטה שוגרה ב-2004 והעבירה עשר שנים בטיסה דרך מערכת השמש, כולל כמה מעברים בעזרת כבידה (gravity assist) ליד כדור הארץ ומאדים, לפני שנכנסה למסלול סביב השביט 67P/צ'וריומוב-גרסימנקו באוגוסט 2014 - כלי החלל הראשון שהקיף שביט במקום רק לחלוף לידו. לאחר שמיפו ממסלול את פני השטח המשונים, בעלי שתי האונות, של השביט ('ברווז הגומי'), חברי המשימה בחרו אתר נחיתה ושלחו את הנחתת פילאה, בגודל מכונת כביסה, למטה ב-12 בנובמבר.\n\nהנחיתה חשפה כמה מעט ידעו המדענים בפועל על פני שביט מקרוב. הצלצלים של פילאה, שנועדו להיפתח במגע ולעגן אותה נגד הכבידה החלשה ביותר של השביט, לא נפתחו. הנחתת ניתרה - פעם אחת היא הגיעה לגובה של כקילומטר מעל פני השטח - לפני שהתיישבה כשעתיים לאחר מכן באתר שכונה מאוחר יותר אבידוס, תקועה ליד מצוק שחסם את רוב אור השמש מהפאנלים הסולאריים שלה. עם רק כשעה וחצי של אור שמש בכל יממה שבטית (12 שעות) במקום כשש השעות המתוכננות, הסוללה של פילאה התרוקנה אחרי כ-60 שעות, אף על פי שהיא הצליחה לשלוח שידור נתונים קצר ואחרון ב-2015, אחרי שמסלול השביט קירב אותה יותר לשמש.\n\nלמרות הנחיתה הגסה, פילאה החזירה מדע אמיתי לפני שהשתתקה: קריאות טמפרטורה, הניתוח הראשון של מולקולות אורגניות על פני שביט, וצילומים שבשילוב עם נתונים מרוזטה שהקיפה את השביט, אפשרו לחוקרים לשחזר מאוחר יותר איך חומר על השביט זז והתכבש עם הזמן - כולל התיעוד הראשון של 'כיוריות', אסימטריה באופן שבו חומר התיישב, שנמצא בשביט.\n\nהמשימה היתה חשובה כי שביטים נחשבים לשמורים של כמה מהחומרים העתיקים והכי פחות משתנים במערכת השמש, שנותרו כמעט ללא שינוי מאז שהכוכבים נוצרו לפני כ-4.6 מיליארד שנה. רוזטה ופילאה נתנו למדענים את המבט הראשון שלהם מקרוב על החומר הזה, במקום להסתמך על טלסקופים או מעברים קצרים - אבן דרך בהבנת אבני הבניין שמהן נוצרה מערכת השמש, וכדור הארץ."
+      },
+      "tags": [
+        "space",
+        "science",
+        "on-this-day"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2014: The European Space Agency's lander Philae  touched down on 67P/Churyumov–Gerasimenko, becoming the first spacecraft to land on a comet.",
+          "url": "https://en.wikipedia.org/wiki/European_Space_Agency"
+        }
+      ]
+    }
+  ]
+}
