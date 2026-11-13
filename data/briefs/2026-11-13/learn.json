@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-13",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-13T03:53:17+00:00",
+  "stories": [
+    {
+      "id": "word-loss-leader",
+      "kind": "word",
+      "en": {
+        "headline": "Loss leader (מוצר מכירת הפסד)",
+        "scroll": "A product sold at a loss, or near-zero profit, specifically to pull customers in so they buy other, more profitable things.",
+        "coffee": "A loss leader is an item priced so low that the seller barely breaks even, or loses money outright, on that item alone — the point isn't to profit from it, but to use it as bait to get customers through the door (physical or digital) so they spend on everything else. Supermarkets famously do this with milk or eggs. \"The streaming service treats its cheapest tier as a loss leader, betting that enough subscribers will eventually upgrade to a pricier plan.\"",
+        "deep": "Use \"loss leader\" whenever a business deliberately prices one product below cost (or below normal margin) to drive traffic or adoption elsewhere — a classic retail and tech-platform tactic. It's different from \"dumping\" (selling below cost to kill a competitor, which can be illegal under trade law) and from a simple \"discount\" or \"sale\" (temporary price cuts on items the seller still expects to profit from directly). A loss leader is a deliberate, often permanent, strategic choice: the loss on that specific item is the cost of acquiring or retaining a customer who will spend profitably elsewhere. Examples: \"Razors are sometimes sold as a loss leader so the company can profit from the recurring blade refills.\" \"Game consoles are a classic loss leader — the real profit comes from game sales.\" \"Analysts questioned whether the grocery chain's loss-leader pricing on bread was sustainable long-term.\" In Hebrew: מוצר מכירת הפסד."
+      },
+      "he": {
+        "headline": "Loss leader (מוצר מכירת הפסד)",
+        "scroll": "מוצר שנמכר בהפסד, או ברווח אפסי, במיוחד כדי למשוך לקוחות שירכשו דברים אחרים ורווחיים יותר.",
+        "coffee": "מוצר מכירת הפסד (loss leader) הוא מוצר שמתומחר כך נמוך שהמוכר כמעט ולא מרוויח עליו, או מפסיד עליו ממש - המטרה אינה להרוויח מהמוצר הזה עצמו, אלא להשתמש בו כפתיון שיביא לקוחות לחנות (פיזית או דיגיטלית) כדי שיוציאו כסף על כל השאר. רשתות סופרמרקט עושות את זה באופן קלאסי עם חלב או ביצים. \"שירות הסטרימינג מתייחס למסלול הזול ביותר שלו כמוצר מכירת הפסד, במהלך שמתערב על כך שמנויים מספיקים בסופו של דבר יעברו למסלול היקר יותר.\"",
+        "deep": "משתמשים במונח \"מוצר מכירת הפסד\" כשחברה מתמחרת בכוונה מוצר אחד מתחת לעלות (או מתחת למרווח הרגיל שלה) כדי להניע תנועת לקוחות או אימוץ מוצר במקום אחר - טקטיקה קלאסית בקמעונאות ובפלטפורמות טכנולוגיה. זה שונה מ\"דאמפינג\" (dumping) - מכירה מתחת לעלות כדי להשמיד מתחרה, שעלולה להיות בלתי חוקית לפי דיני סחר - ומ\"מבצע\" או \"הנחה\" פשוטים, שהם הפחתות מחיר זמניות על מוצרים שהמוכר עדיין מצפה להרוויח מהם ישירות. מוצר מכירת הפסד הוא בחירה אסטרטגית מכוונת, ולעיתים קבועה: ההפסד על המוצר הספציפי הוא עלות גיוס או שימור לקוח שיוציא כסף ברווח במקום אחר. לדוגמה: \"סכיני גילוח נמכרים לעיתים כמוצר מכירת הפסד כדי שהחברה תרוויח מהחלפות הסכינים החוזרות.\" \"קונסולות משחק הן מוצר מכירת הפסד קלאסי - הרווח האמיתי מגיע ממכירת המשחקים.\" \"אנליסטים שאלו אם תמחור מכירת ההפסד של רשת המזון על לחם היה מתמשך לאורך זמן.\" באנגלית: loss leader."
+      },
+      "tags": [
+        "vocabulary",
+        "pricing",
+        "retail"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-earnout",
+      "kind": "word",
+      "en": {
+        "headline": "Earnout (תשלום מותנה בתוצאות)",
+        "scroll": "A deal structure where part of an acquisition's price is paid later, contingent on the acquired business hitting agreed performance targets.",
+        "coffee": "An earnout splits a sale price into an upfront payment plus a deferred amount the seller only receives if the business performs as promised after the deal closes — usually tied to revenue, profit, or user-growth targets over one to three years. It's a way to bridge a disagreement over valuation: the buyer doesn't want to overpay for optimistic projections, and the seller doesn't want to leave money on the table if those projections turn out to be true. \"The founders agreed to a lower upfront price with a two-year earnout tied to hitting revenue milestones.\"",
+        "deep": "Earnouts are common in acquisitions of startups and founder-led businesses, where the buyer is uncertain about future performance and the seller is confident in it. They differ from a simple \"deferred payment\" (which is just delayed, not conditional) and from \"vesting\" (which is about an employee or founder earning equity over time for staying, not about hitting business targets). Earnouts can create friction after closing: the seller, no longer in full control, may feel the new owner is managing the business in ways that make the targets harder to hit, which is why earnout agreements usually spell out exactly how the business will be run and measured during the earnout period. Examples: \"The acquirer structured 30% of the purchase price as an earnout tied to the subsidiary's EBITDA over three years.\" \"Disputes over missed earnout targets are a common source of post-acquisition litigation.\" \"She negotiated a shorter earnout period to reduce her exposure to decisions she no longer controlled.\" In Hebrew: תשלום מותנה בתוצאות."
+      },
+      "he": {
+        "headline": "Earnout (תשלום מותנה בתוצאות)",
+        "scroll": "מבנה עסקה שבו חלק ממחיר הרכישה משולם מאוחר יותר, בתנאי שהעסק הנרכש יעמוד ביעדי ביצוע מוסכמים.",
+        "coffee": "Earnout מחלק את מחיר המכירה לתשלום מיידי בתוספת סכום דחוי שהמוכר מקבל רק אם העסק מתפקד כמובטח אחרי השלמת העסקה - בדרך כלל מותנה ביעדי הכנסות, רווח או צמיחת משתמשים על פני שנה עד שלוש. זו דרך לגשר על חילוקי דעות בנוגע לשווי: הקונה לא רוצה לשלם יותר מדי על תחזיות אופטימיות, והמוכר לא רוצה להשאיר כסף על השולחן אם התחזיות האלה יתבררו כנכונות. \"המייסדים הסכימו למחיר מיידי נמוך יותר עם תשלום מותנה לשנתיים, הקשור לעמידה באבני דרך של הכנסות.\"",
+        "deep": "Earnouts נפוצים ברכישות של סטארטאפים ועסקים המובלים על ידי מייסדים, כשהקונה חשוד בנוגע לביצועים עתידיים והמוכר בטוח בהם. הם שונים מ\"תשלום דחוי\" פשוט (שהוא רק מושהה, לא מותנה) ומ\"הבשלה\" (vesting) - שעניינה עובד או מייסד שמרוויח מניות בהדרגה כתלות בהישארותו בחברה, לא בעמידה ביעדי עסק. Earnouts יכולים ליצור חיכוך אחרי השלמת העסקה: המוכר, שאינו עוד בשליטה מלאה, עלול לחוש שהבעלים החדש מנהל את העסק בדרכים שמקשות על עמידה ביעדים, ולכן הסכמי earnout בדרך כלל מגדירים בדיוק איך העסק ינוהל ויימדד בתקופת ה-earnout. לדוגמה: \"הרוכש בנה 30% ממחיר הרכישה כ-earnout הקשור ל-EBITDA של החברה הבת על פני שלוש שנים.\" \"מחלוקות על אי-עמידה ביעדי earnout הן מקור נפוץ להתדיינות משפטית לאחר רכישות.\" \"היא ניהלה משא ומתן על תקופת earnout קצרה יותר כדי להפחית את החשיפה שלה להחלטות שאינה שולטת בהן יותר.\" בעברית: תשלום מותנה בתוצאות."
+      },
+      "tags": [
+        "vocabulary",
+        "mergers-and-acquisitions",
+        "deal-structure"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-move-the-goalposts",
+      "kind": "word",
+      "en": {
+        "headline": "Move the goalposts (להזיז את קווי השער)",
+        "scroll": "To unfairly change the rules or targets of an agreement after it's already underway, usually to make success harder to reach.",
+        "coffee": "Moving the goalposts means changing the criteria for success partway through, after someone has already started working toward the original target — making the game feel rigged even if no one admits it. It's often used to accuse a counterparty, regulator, or boss of bad faith. \"The startup complained that its lead investor kept moving the goalposts on what counted as hitting the growth milestone needed to unlock the next funding tranche.\"",
+        "deep": "The idiom comes straight from sports: literally shifting the goal in football or rugby mid-match would make scoring impossible, so figuratively it describes any unfair change to the terms of success after the fact. It's distinct from a legitimate renegotiation (where both sides agree to new terms) — moving the goalposts implies the change is one-sided, unannounced, or designed to keep the other party from ever \"winning.\" It's also different from \"kicking the can down the road\", which is about delaying a decision rather than changing its criteria. Examples: \"Regulators were accused of moving the goalposts after the merger had already cleared two review rounds.\" \"Employees felt the company kept moving the goalposts on the bonus targets.\" \"Don't move the goalposts now — we agreed on these terms in writing.\" In Hebrew: להזיז את קווי השער."
+      },
+      "he": {
+        "headline": "Move the goalposts (להזיז את קווי השער)",
+        "scroll": "לשנות בצורה לא הוגנת את כללי המשחק או את היעדים של הסכם אחרי שהוא כבר בעיצומו, כך שההצלחה הופכת קשה יותר.",
+        "coffee": "להזיז את קווי השער פירושו לשנות את קריטריוני ההצלחה באמצע הדרך, אחרי שמישהו כבר התחיל לפעול למען המטרה המקורית - מה שגורם למשחק להרגיש מכור, גם אם אף אחד לא מודה בכך. משתמשים בביטוי כדי להאשים צד שכנגד, רגולטור או מעביד בחוסר תום לב. \"הסטארטאפ התלונן שהמשקיע המוביל שלו ממשיך להזיז את קווי השער בנוגע למה שנחשב עמידה באבן הדרך הנדרשת לפתיחת מחזור המימון הבא.\"",
+        "deep": "הביטוי מגיע ישירות מעולם הספורט: הזזת השער ממש באמצע משחק כדורגל או רוגבי הייתה הופכת את ההבקעה לבלתי אפשרית, ולכן באופן מושאל הוא מתאר כל שינוי לא הוגן בתנאי ההצלחה בדיעבד. יש להבדיל בינו לבין משא-ומתן מחדש לגיטימי (שבו שני הצדדים מסכימים על תנאים חדשים) - הזזת קווי השער מרמזת שהשינוי חד-צדדי, לא מוכרז, או נועד למנוע מהצד השני \"לנצח\" אי פעם. זה גם שונה מ-\"kick the can down the road\" (לגלגל את הבעיה קדימה), שעוסק בדחיית החלטה ולא בשינוי הקריטריונים שלה. לדוגמה: \"הרגולטורים הואשמו בהזזת קווי השער אחרי שהמיזוג עבר כבר שני סבבי בדיקה.\" \"העובדים הרגישו שהחברה ממשיכה להזיז את קווי השער ביעדי הבונוס.\" \"אל תזיז את קווי השער עכשיו - הסכמנו על התנאים האלה בכתב.\" באנגלית: move the goalposts."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "negotiation"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-key-person-risk",
+      "kind": "concept",
+      "en": {
+        "headline": "Key-person risk",
+        "scroll": "The risk that a business's value depends so heavily on one individual that losing them — to resignation, illness, or scandal — threatens the business itself.",
+        "coffee": "Key-person risk is what's exposed when a company's strategy, relationships, or market value turn out to rest disproportionately on one irreplaceable person rather than on institutional processes anyone could step into. Today's Nvidia story is a clean real-world case: CEO Jensen Huang personally brokered the financing deals and customer relationships that tie Nvidia to much of the AI industry, and his sudden resignation this week left a board that, by most accounts, lacked a clear succession plan or independent chair.\n\nThe concept applies far beyond tech giants — a small clinic built around one star doctor, or a sales team that lives or dies by one rainmaker, carries the same exposure, just at a smaller scale.",
+        "deep": "## The first-principles idea\n\nAny organization runs on two kinds of capability: capability that lives in institutions — documented processes, distributed knowledge, a board that can function with any competent CEO — and capability that lives in one person's head, relationships, or judgment. Key-person risk is the gap between those two: the more a business leans on the second kind, the more its value could evaporate the moment that person leaves, for any reason, voluntary or not.\n\n## A worked example\n\nImagine a 20-person consulting firm where one partner, \"Dana,\" personally holds relationships with the five clients who generate 70% of revenue. The firm looks healthy on paper — steady contracts, growing headcount — but its real economic value is concentrated almost entirely in Dana's Rolodex and the trust clients place in her specifically, not in the firm's brand or processes. If Dana leaves to start a competing firm, she doesn't just take a salary line with her; she can take the clients, and the firm's valuation (if someone were trying to buy it) would collapse far more than a simple headcount reduction would suggest. That gap between the firm's apparent value and its value-without-Dana is key-person risk made concrete.\n\nNow scale that up to Nvidia: Jensen Huang didn't just set strategy, he personally negotiated the financing arrangements, supply guarantees and investments that tie Nvidia to the cloud providers and AI labs that are also its biggest customers — a web of deals some industry commentators have called \"circular financing.\" When Huang resigned abruptly this week following a personal scandal, the immediate question wasn't just \"who runs the company day to day\" but \"how much of Nvidia's unique position in the industry was really Nvidia the institution, versus Nvidia-as-extension-of-Huang.\"\n\n## How businesses actually manage it\n\nThree standard tools reduce key-person risk without eliminating the key person's value while they're still there: succession planning (identifying and developing backups for critical roles before they're needed, not after); key-man insurance (a policy that pays the company if the person dies or becomes incapacitated, cushioning the financial — though not the strategic — blow); and deliberately distributing relationships and knowledge across a team rather than letting them pool in one person, even when that person is highly effective. Boards are also expected to maintain independent oversight — a chair who isn't beholden to the CEO — specifically so a single dominant figure's judgment isn't the only check on their own power.\n\n## Why boards still get caught out\n\nThe uncomfortable truth is that the traits that make someone a brilliant, irreplaceable leader — speed, conviction, deep personal control over strategy — are often exactly the traits that prevent an organization from building the institutional redundancy that would make them replaceable. That tension is why key-person risk tends to surface suddenly, in a crisis, rather than being managed calmly in advance: addressing it well requires a founder or star performer to willingly dilute their own indispensability, which few are eager to do while things are going well."
+      },
+      "he": {
+        "headline": "סיכון איש מפתח",
+        "scroll": "הסיכון שערכו של עסק תלוי באופן כזה באדם אחד, שאובדנו - בהתפטרות, מחלה או שערורייה - מאיים על העסק עצמו.",
+        "coffee": "סיכון איש מפתח (key-person risk) נחשף כשמתברר שהאסטרטגיה, הקשרים או השווי של חברה נשענים באופן לא פרופורציונלי על אדם בלתי ניתן להחלפה אחד, ולא על תהליכים מוסדיים שכל אדם יכול להיכנס אליהם. הסיפור של אנבידיה היום הוא מקרה אמיתי ונקי: המנכ\"ל ג'נסן הואנג ליווה אישית את הסכמי המימון והקשרים עם הלקוחות שקושרים את אנבידיה לחלק גדול מתעשיית ה-AI, והתפטרותו הפתאומית השבוע חשפה דירקטוריון שככל הנראה היה חסר תוכנית המשכיות ברורה או יו\"ר עצמאי.\n\nהמושג חל הרבה מעבר לענקיות טכנולוגיה - גם מרפאה קטנה שנבנתה סביב רופא כוכב אחד, או צוות מכירות שחייו תלויים באיש מכירות מצטיין אחד, נושאים את אותה חשיפה, פשוט בקנה מידה קטן יותר.",
+        "deep": "## הרעיון מראשית היסודות\n\nכל ארגון פועל על שני סוגי יכולת: יכולת שחיה במוסדות - תהליכים מתועדים, ידע מפוזר, דירקטוריון שיכול לתפקד עם כל מנכ\"ל כשיר - ויכולת שחיה בראש, בקשרים או בשיקול הדעת של אדם אחד. סיכון איש מפתח הוא הפער בין שני אלה: ככל שעסק נשען יותר על הסוג השני, כך ערכו יכול להתאדות ברגע שהאדם הזה עוזב, מכל סיבה, רצונית או לא.\n\n## דוגמה מעשית\n\nדמיינו משרד ייעוץ בן 20 עובדים, שבו שותפה אחת, \"דנה\", מחזיקה אישית בקשרים עם חמשת הלקוחות שמייצרים 70% מההכנסות. המשרד נראה בריא על הנייר - חוזים יציבים, צוות גדל - אבל הערך הכלכלי האמיתי שלו מרוכז כמעט לחלוטין בפנקס הקשרים של דנה ובאמון שהלקוחות נותנים בה באופן ספציפי, לא במותג המשרד או בתהליכיו. אם דנה תעזוב כדי להקים משרד מתחרה, היא לא רק תיקח איתה שורת שכר - היא יכולה לקחת את הלקוחות, ושווי המשרד (אם מישהו היה מנסה לרכוש אותו) יקרוס הרבה יותר ממה שהפחתת כוח אדם פשוטה הייתה מרמזת. הפער הזה בין הערך הנראה של המשרד לערכו בלי דנה הוא סיכון איש מפתח במוחשיותו.\n\nכעת תעלו את זה בקנה מידה לאנבידיה: ג'נסן הואנג לא רק קבע אסטרטגיה, הוא ליווה אישית את הסכמי המימון, ערבויות האספקה וההשקעות שקושרות את אנבידיה לספקיות העננים ומעבדות ה-AI שהן גם לקוחותיה הגדולים ביותר - רשת הסכמים שחלק מהפרשנים בתעשייה כינו \"מימון מעגלי\". כשהואנג התפטר בפתאומיות השבוע בעקבות שערורייה אישית, השאלה המיידית לא הייתה רק \"מי מנהל את החברה יום-יום\" אלא \"כמה מהמעמד הייחודי של אנבידיה בתעשייה היה בעצם אנבידיה כמוסד, לעומת אנבידיה כהרחבה של הואנג\".\n\n## איך עסקים מנהלים את זה בפועל\n\nשלושה כלים סטנדרטיים מצמצמים סיכון איש מפתח מבלי לבטל את הערך של אותו אדם כל עוד הוא עדיין נמצא: תכנון רציפות ניהולית (איתור ופיתוח מחליפים לתפקידים קריטיים לפני שהם נדרשים, לא אחרי); ביטוח \"איש מפתח\" (key-man insurance) - פוליסה שמשלמת לחברה אם האדם נפטר או מאבד כושר עבודה, שמרככת את המכה הכספית, אך לא את האסטרטגית; ופיזור מכוון של קשרים וידע בין חברי צוות, במקום לאפשר להם להצטבר באדם אחד, גם כשאותו אדם יעיל במיוחד. מצופה מדירקטוריונים גם לשמור על פיקוח עצמאי - יו\"ר שאינו כפוף למנכ\"ל - בדיוק כדי שהשיקול של דמות דומיננטית אחת לא יהיה הבלם היחיד על הכוח שלה עצמה.\n\n## למה דירקטוריונים בכל זאת נתפסים לא מוכנים\n\nהאמת הלא נוחה היא שהתכונות שמהפכות מישהו למנהיג מבריק ובלתי ניתן להחלפה - מהירות, החלטיות, שליטה אישית עמוקה באסטרטגיה - הן בדיוק התכונות שמונעות מהארגון לבנות את העודפות המוסדית שהייתה הופכת אותו להחלפה. המתח הזה הוא הסיבה שסיכון איש מפתח נוטה לצוף בפתאומיות, בעת משבר, ולא להיות מנוהל בשלווה מראש: טיפול נכון בו מחייב מייסד או כוכב מצטיין להסכים מרצונו לדלל את חוסר-ההחלפתיות של עצמו, דבר שמעטים ששים לעשות כל עוד הדברים הולכים טוב."
+      },
+      "tags": [
+        "concept",
+        "corporate-governance",
+        "risk"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-2015-paris-attacks",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2015: Coordinated ISIS attacks kill 130 in Paris",
+        "scroll": "On this date in 2015, Islamic State gunmen and suicide bombers killed 130 people in a coordinated series of attacks across Paris, including a mass shooting and hostage siege at the Bataclan theatre.",
+        "coffee": "On the night of 13 November 2015, a cell of Islamic State attackers carried out a coordinated assault across Paris and its northern suburb Saint-Denis. Three suicide bombers struck outside the Stade de France during a France–Germany football match after failing to get inside. Separately, gunmen opened fire on crowded cafés and restaurants, and one attacker detonated an explosive vest among diners. The deadliest attack came at the Bataclan theatre, where gunmen opened fire on roughly 1,500 people attending a concert and took hostages, leading to a standoff that ended when police stormed the building; the attackers were killed or detonated their own suicide vests.\n\nIn total, 130 people were killed and 413 wounded — the deadliest attack on French soil since the Second World War. France declared a state of emergency that lasted nearly two years, tightened border and surveillance powers, and intensified its military campaign against Islamic State in Syria. The attacks reshaped European debates over counter-terrorism, intelligence-sharing, and migration policy, and became a defining moment in the West's confrontation with Islamic State in the years before the group lost its territorial strongholds.",
+        "deep": "On the evening of Friday, 13 November 2015, a cell of Islamic State operatives launched one of the deadliest terrorist attacks in modern European history across Paris and the northern suburb of Saint-Denis. The assault unfolded in three coordinated waves. Just after 9:16pm, three suicide bombers tried to enter the Stade de France, where France was playing a friendly football match against Germany with President François Hollande in attendance; unable to get past security, they detonated their vests outside the stadium. At roughly the same time, gunmen in a car opened fire on diners at crowded Paris cafés and restaurants in the 10th and 11th arrondissements, killing dozens, with one attacker blowing himself up at a different restaurant.\n\nThe attack's bloodiest chapter took place at the Bataclan theatre, where around 1,500 people had gathered for a concert by the American rock band Eagles of Death Metal. Gunmen entered and opened fire on the crowd, then took hostages as police surrounded the building. The siege ended when French special forces stormed the theatre; the remaining attackers were shot or detonated suicide vests.\n\nBy the time the attacks ended, 130 people were dead and 413 injured, making it the deadliest attack in France since the Second World War and the deadliest in the European Union until that point in the post-9/11 era. Islamic State claimed responsibility, describing the attacks as retaliation for French airstrikes against the group in Syria and Iraq.\n\nThe aftermath reshaped French and European security policy. President Hollande declared a nationwide state of emergency, which granted police expanded search, surveillance and detention powers and remained in force, with renewals, for nearly two years. France intensified its air campaign against Islamic State targets in Syria, and European governments accelerated intelligence-sharing arrangements and border-control measures, including scrutiny of the Schengen open-border system. The attacks also fed into broader European political debates over immigration and the integration of Muslim communities, debates that continued to shape politics across the continent for years afterward. The Bataclan and Stade de France sites have since become permanent memorials to the victims."
+      },
+      "he": {
+        "headline": "2015: פיגועים מתואמים של דאעש הורגים 130 בני אדם בפריז",
+        "scroll": "בתאריך זה ב-2015 רצחו חמושים ומתאבדים של דאעש 130 בני אדם בסבב פיגועים מתואם בפריז, ובהם ירי המוני ומצור בני ערובה באולם התיאטרון בטקלן.",
+        "coffee": "בליל 13 בנובמבר 2015 ביצעה תאית פעילים של דאעש מתקפה מתואמת בפריז ובפרבר סן-דני שבצפונה. שלושה מתאבדים תקפו בחוץ את אצטדיון סטאד דה פראנס, במהלך משחק כדורגל בין צרפת לגרמניה, לאחר שלא הצליחו להיכנס פנימה. במקביל, חמושים פתחו באש על בתי קפה ומסעדות מלאים באדם, ואחד המחבלים הפעיל חגורת נפץ בין הסועדים. הפיגוע הקטלני ביותר התרחש באולם התיאטרון בטקלן, שם פתחו חמושים באש על כ-1,500 אנשים שהגיעו להופעה, ולקחו בני ערובה, במצור שהסתיים כשהמשטרה פרצה לבניין; המחבלים נורו או הפעילו את חגורות הנפץ שלהם.\n\nבסך הכול נהרגו 130 בני אדם ו-413 נפצעו - הפיגוע הקטלני ביותר על אדמת צרפת מאז מלחמת העולם השנייה. צרפת הכריזה על מצב חירום שנמשך כשנתיים, החמירה את סמכויות הפיקוח והגבולות שלה, והגבירה את המערכה הצבאית שלה נגד דאעש בסוריה. הפיגועים עיצבו מחדש את השיח האירופי בנוגע ללחימה בטרור, שיתוף מודיעין ומדיניות הגירה, והפכו לרגע מכריע בהתמודדות המערב עם דאעש בשנים שקדמו לאובדן המעוזים הטריטוריאליים של הארגון.",
+        "deep": "בערב יום שישי, 13 בנובמבר 2015, ביצעה תאית פעילים של דאעש אחד הפיגועים הקטלניים ביותר בהיסטוריה האירופית המודרנית, בפריז ובפרבר סן-דני שבצפונה. המתקפה התרחשה בשלושה גלים מתואמים. מעט אחרי השעה 21:16, שלושה מתאבדים ניסו להיכנס לאצטדיון סטאד דה פראנס, שבו שיחקה צרפת משחק ידידות נגד גרמניה בנוכחות הנשיא פרנסואה הולנד; משלא הצליחו לעבור את אבטחת האצטדיון, הם הפעילו את חגורות הנפץ שלהם בחוץ. בערך באותו זמן, חמושים ברכב פתחו באש על סועדים בבתי קפה ומסעדות מלאים ברובעים העשירי והאחד-עשר של פריז, והרגו עשרות, בעוד מחבל נוסף הפעיל חגורת נפץ במסעדה אחרת.\n\nהפרק הקטלני ביותר של הפיגוע התרחש באולם התיאטרון בטקלן, שם התאספו כ-1,500 איש להופעה של להקת הרוק האמריקאית Eagles of Death Metal. חמושים נכנסו ופתחו באש על הקהל, ולאחר מכן לקחו בני ערובה בעוד המשטרה מקיפה את הבניין. המצור הסתיים כשכוחות מיוחדים צרפתיים פרצו לתיאטרון; המחבלים שנותרו נורו או הפעילו את חגורות הנפץ שלהם.\n\nבסיום הפיגועים נהרגו 130 בני אדם ו-413 נפצעו, מה שהפך אותם לפיגוע הקטלני ביותר בצרפת מאז מלחמת העולם השנייה ולפיגוע הקטלני ביותר באיחוד האירופי עד אותה נקודה בעידן שאחרי ה-11 בספטמבר. דאעש קיבל על עצמו אחריות לפיגועים, ותיאר אותם כתגמול על תקיפות אוויריות צרפתיות נגד הארגון בסוריה ובעיראק.\n\nהתוצאות עיצבו מחדש את מדיניות הביטחון הצרפתית והאירופית. הנשיא הולנד הכריז על מצב חירום ארצי, שהעניק למשטרה סמכויות חיפוש, מעקב ומעצר מורחבות ונשאר בתוקף, עם הארכות, במשך כשנתיים. צרפת החריפה את מערכת התקיפות האוויריות שלה נגד מטרות דאעש בסוריה, וממשלות אירופיות האיצו הסדרי שיתוף מודיעין ואמצעי בקרת גבולות, כולל בחינה מחודשת של מערכת שנגן לגבולות פתוחים. הפיגועים גם הזינו דיונים פוליטיים אירופיים רחבים יותר על הגירה ושילוב קהילות מוסלמיות, דיונים שהמשיכו לעצב את הפוליטיקה ביבשת שנים רבות אחר כך. אתרי הבטקלן וסטאד דה פראנס הפכו מאז לאתרי הנצחה קבועים לזכר הקורבנות."
+      },
+      "tags": [
+        "terrorism",
+        "france",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2015: Coordinated terrorist attacks in Paris perpetrated by the Islamic State killed 130 people and injured 413 others.",
+          "url": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-13",
+  "questions": [
+    {
+      "id": "quiz-avdija-form",
+      "section": "sports",
+      "story_id": "avdija-blazers-at-kings",
+      "answer_index": 1,
+      "en": {
+        "question": "What has fueled talk of Deni Avdija earning his first All-NBA selection this season?",
+        "options": [
+          "He was named captain of Israel's national soccer team",
+          "He led Portland to a two-game sweep of Oklahoma City, including a 28-point game, playing some of the best basketball of his career",
+          "He was traded to a championship contender over the offseason",
+          "He broke the franchise's all-time career scoring record"
+        ],
+        "explanation": "Avdija's two-game sweep of the Thunder, including a 28-point outing, has beat writers calling him Portland's most important player and projecting his first All-NBA nod."
+      },
+      "he": {
+        "question": "מה הניב את הדיבורים על כך שדני אבדיה עשוי לקבל את בחירתו הראשונה לנבחרת האול-NBA?",
+        "options": [
+          "הוא מונה לקפטן נבחרת הכדורגל של ישראל",
+          "הוא הוביל את פורטלנד לניצחון כפול על אוקלהומה סיטי, כולל משחק של 28 נקודות, ושיחק את הכדורסל הטוב ביותר בקריירה שלו",
+          "הוא עבר בטרייד לקבוצה מתמודדת על האליפות",
+          "הוא שבר את שיא הקלעים הכל-זמנים של המועדון"
+        ],
+        "explanation": "הניצחון הכפול המרשים של אבדיה על אוקלהומה סיטי, כולל משחק של 28 נקודות, גרם לכתבים להגדירו כשחקן החשוב ביותר של פורטלנד ולדבר על בחירה ראשונה לאול-NBA."
+      }
+    },
+    {
+      "id": "quiz-nvidia-governance-gap",
+      "section": "business",
+      "story_id": "nvidia-key-person-risk",
+      "answer_index": 1,
+      "en": {
+        "question": "What governance gap did commentators say Nvidia's board had going into Jensen Huang's sudden resignation?",
+        "options": [
+          "No audit committee at all",
+          "No independent board chair and no clear succession plan",
+          "A bylaw requiring the CEO to be replaced every five years",
+          "A rule requiring shareholder approval before any CEO change"
+        ],
+        "explanation": "A corporate-governance expert said Nvidia's board lacked an independent chair and a clear succession plan despite Huang's 33-year tenure, a textbook case of key-person risk."
+      },
+      "he": {
+        "question": "איזה פער בממשל התאגידי, לפי פרשנים, היה לדירקטוריון אנבידיה לפני התפטרותו הפתאומית של ג'נסן הואנג?",
+        "options": [
+          "לא הייתה לו ועדת ביקורת בכלל",
+          "לא היה יו\"ר דירקטוריון עצמאי ולא תוכנית המשכיות ניהולית ברורה",
+          "תקנון שמחייב להחליף את המנכ\"ל כל חמש שנים",
+          "כלל שמחייב אישור בעלי מניות לפני כל שינוי מנכ\"ל"
+        ],
+        "explanation": "מומחה לממשל תאגידי אמר שלדירקטוריון אנבידיה לא היה יו\"ר עצמאי ולא תוכנית המשכיות ברורה, חרף 33 שנות כהונתו של הואנג - מקרה קלאסי של סיכון איש מפתח."
+      }
+    },
+    {
+      "id": "quiz-gemini-orchestrator",
+      "section": "tech",
+      "story_id": "gemini-4-hydrogen",
+      "answer_index": 1,
+      "en": {
+        "question": "Why did Google give its cheapest new Gemini 4 model, Hydrogen, a built-in 'Orchestrator'?",
+        "options": [
+          "To automatically translate questions into other languages first",
+          "To break a complicated, multi-part question into pieces, route each to the best internal process, and stitch the answers back together",
+          "To block unsafe prompts before they reach the model",
+          "To let the model generate images instead of just text"
+        ],
+        "explanation": "The Orchestrator is a routing layer that splits hard, multi-part questions into sub-tasks rather than trying to answer everything in one pass."
+      },
+      "he": {
+        "question": "למה גוגל הוסיפה למודל הזול החדש שלה, Gemini 4 Hydrogen, יכולת 'Orchestrator' מובנית?",
+        "options": [
+          "כדי לתרגם שאלות אוטומטית לשפות אחרות",
+          "כדי לפרק שאלה מורכבת ומרובת חלקים לחלקים, לנתב כל חלק לתהליך הפנימי המתאים לו ולאחד את התשובות",
+          "כדי לחסום בקשות לא בטוחות לפני שהן מגיעות למודל",
+          "כדי לאפשר למודל ליצור תמונות ולא רק טקסט"
+        ],
+        "explanation": "ה-Orchestrator הוא שכבת ניתוב שמפרקת שאלות מורכבות ומרובות חלקים למשימות משנה, במקום לנסות לענות על הכול במעבר אחד."
+      }
+    }
+  ]
+}

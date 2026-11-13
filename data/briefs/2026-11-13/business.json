@@ -1,0 +1,126 @@
+{
+  "section": "business",
+  "date": "2026-11-13",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-13T03:53:17+00:00",
+  "stories": [
+    {
+      "id": "nvidia-key-person-risk",
+      "kind": "analysis",
+      "en": {
+        "headline": "Nvidia's Scandal Exposes the Cost of Betting a Trillion-Dollar Company on One Man",
+        "scroll": "Jensen Huang's abrupt resignation shows what happens when a company has no real succession plan for its most important person.",
+        "coffee": "Nvidia CEO Jensen Huang resigned this week after revelations of extramarital affairs, one allegedly with a woman under investigation as a possible Chinese intelligence asset. CFO Colette Kress became interim CEO. Nvidia's stock fell, then mostly recovered as investors decided the AI trade is bigger than one executive.\n\nBut the scramble exposed something uncomfortable: after 33 years of Huang running Nvidia, the board apparently had no independent chair and no clear succession plan, according to a University of Delaware corporate-governance expert. That is a textbook case of key-person risk, the danger that a business depends so heavily on one individual that losing them threatens the business itself.\n\nHuang wasn't just a manager. He personally brokered financing deals, supply guarantees and investments that tie Nvidia to much of the AI industry's \"circular financing\" web, the practice of AI giants investing in each other's customers and suppliers so the same dollars circulate between them. Analysts now ask how much of that web depended on Huang's personal relationships rather than Nvidia's institutional strength, and whether Washington will use the moment to tighten chip-export rules to China.",
+        "deep": "## A founder, not just a CEO\n\nWhen Jensen Huang resigned as Nvidia's chief executive this week, following reports of two extramarital affairs — one allegedly with a woman US officials have not ruled out was linked to Chinese intelligence — the shock went beyond the tabloid details. Huang had co-founded and run Nvidia for more than three decades, turning a maker of graphics chips for video games into the company whose processors power almost every major AI system in the world. Nvidia's chief financial officer, Colette Kress, became interim CEO while the board searches for a permanent successor.\n\nWall Street's initial reaction was a sharp selloff, followed by a partial recovery once investors concluded that demand for AI chips doesn't depend on one person. That split reaction is itself instructive: markets can price in a management shock quickly, but the deeper governance question — why Nvidia was so unprepared for Huang's exit — takes longer to answer.\n\n## Key-person risk and the succession gap\n\nIn corporate finance, key-person risk describes a business whose value depends disproportionately on a single individual: a founder with unique relationships, judgment or technical insight that the organization has not managed to institutionalize. It's the reason investors sometimes insist on \"key-man insurance\" for founders, and the reason good boards maintain a standing succession plan even for executives who show no sign of leaving.\n\nBy most accounts, Nvidia hadn't done this well. A corporate-governance scholar at the University of Delaware argued the board should have had a clearer succession plan and stronger independent oversight in place well before this week. A Nvidia board member, speaking publicly about the episode, called it not \"a normal company having a CEO issue,\" acknowledging that the stakes — for the AI industry, national security and the broader economy — are unusually high given how central Nvidia has become.\n\nPart of the problem is structural: like many founder-led tech companies, Nvidia operated in what's sometimes called \"founder mode,\" where the founder's direct, hands-on involvement in strategy and dealmaking is treated as a feature rather than a governance gap to be managed. Founder mode can produce extraordinary results — it's widely credited with Nvidia's speed and conviction during the AI boom — but it also means decisions, relationships and institutional memory concentrate in one person instead of being distributed across a board and management team. When that person exits suddenly, there's no well-worn playbook to fall back on.\n\n## Why this matters beyond Nvidia\n\nHuang's role went well beyond setting strategy. Over the past few years he personally helped negotiate the financing arrangements, supply commitments and equity investments that tie Nvidia to its biggest customers — the cloud providers and AI labs building data centers. Much of this falls under what's known as circular financing: Nvidia invests in or extends credit to companies that then use the money to buy Nvidia chips, so the same capital effectively cycles between supplier and customer. This isn't illegal or even unusual in capital-intensive industries, but it does mean the health of that whole financing web rested partly on relationships Huang built personally rather than on standardized, institutional processes anyone could step into.\n\nThat raises a harder question analysts are now asking: how much of Nvidia's dealmaking advantage was really Huang, and how much was Nvidia the institution? If it was mostly Huang, the company faces a period of renegotiating or re-anchoring relationships under new leadership, precisely when competitors want to pry open any crack in Nvidia's dominance.\n\n## What to watch next\n\nThe episode has political fallout too. US lawmakers are pressing Commerce Secretary Howard Lutnick to explain why export licenses allowed chip sales to a company allegedly linked to the suspected Chinese operative at the center of the affair, and expectations are building in Washington for tougher controls on AI-chip exports to China. If Congress tightens export rules in response, it would mark a case where a personal scandal reshapes trade policy with global consequences — a reminder that in an industry as concentrated as AI chips, a governance failure at the top of one company can ripple into national-security policy, not just a single stock price."
+      },
+      "he": {
+        "headline": "השערורייה באנבידיה חושפת את המחיר של הישענות על אדם אחד",
+        "scroll": "התפטרותו הפתאומית של ג'נסן הואנג מראה מה קורה כשלחברה אין תוכנית המשכיות אמיתית לאדם המרכזי בה.",
+        "coffee": "מנכ\"ל אנבידיה ג'נסן הואנג התפטר השבוע לאחר שנחשפו שני רומנים חוץ-זוגיים שלו, אחד מהם לכאורה עם אישה שנבדקת כחשודה בריגול למען סין. סמנכ\"לית הכספים קולט קרס מונתה למנכ\"לית זמנית. מניית אנבידיה נפלה ואז התאוששה ברובה, אחרי שהמשקיעים הגיעו למסקנה שתעשיית ה-AI גדולה מאדם אחד.\n\nאבל הבהלה חשפה דבר לא נוח: אחרי 33 שנה שבהן ניהל הואנג את אנבידיה, לדירקטוריון, כך עולה מדברי מומחה לממשל תאגידי מאוניברסיטת דלאוור, לא היה יו\"ר עצמאי ולא תוכנית המשכיות מסודרת. זה מקרה ספר לימוד של סיכון האדם המרכזי (key-person risk) — הסיכון שעסק תלוי במידה כזו באדם אחד, שאובדנו מאיים על העסק עצמו.\n\nהואנג לא היה רק מנהל. הוא עצמו ליווה אישית הסכמי מימון, התחייבויות אספקה והשקעות שקושרות את אנבידיה לחלק גדול מרשת ה\"מימון המעגלי\" (circular financing) של תעשיית ה-AI — כשענקיות הבינה המלאכותית משקיעות זו בלקוחותיה וספקיה שלה, כך שאותם הדולרים זורמים הלוך ושוב. אנליסטים שואלים כעת כמה מהרשת הזו נשענה על הקשרים האישיים של הואנג ולא על חוזק מוסדי של אנבידיה עצמה, ואם וושינגטון תשתמש ברגע הזה כדי להחמיר את מגבלות ייצוא השבבים לסין.",
+        "deep": "## מייסד, לא רק מנכ\"ל\n\nכשג'נסן הואנג התפטר מתפקיד מנכ\"ל אנבידיה השבוע, בעקבות דיווחים על שני רומנים חוץ-זוגיים — אחד מהם לכאורה עם אישה שגורמים רשמיים בארצות הברית לא פסלו קשר אפשרי שלה לביון הסיני — ההפתעה חרגה בהרבה מפרטי הרכילות. הואנג היה שותף-מייסד וניהל את אנבידיה במשך יותר משלושה עשורים, והפך אותה מיצרנית שבבי גרפיקה למשחקי מחשב לחברה ששבביה מפעילים כמעט כל מערכת AI משמעותית בעולם. סמנכ\"לית הכספים של אנבידיה, קולט קרס, מונתה למנכ\"לית זמנית בזמן שהדירקטוריון מחפש מחליף קבוע.\n\nהתגובה הראשונית בוול סטריט הייתה מכירה חדה, ואחריה התאוששות חלקית, אחרי שהמשקיעים הגיעו למסקנה שהביקוש לשבבי AI אינו תלוי באדם אחד. התגובה הכפולה הזו מלמדת משהו בעצמה: השוק יכול לגלם בתמחור זעזוע ניהולי במהירות, אבל שאלת הממשל התאגידי העמוקה יותר — מדוע אנבידיה לא הייתה מוכנה טוב יותר לעזיבתו של הואנג — דורשת זמן רב יותר למענה.\n\n## סיכון האדם המרכזי ופער ההמשכיות\n\nבמימון תאגידי, \"סיכון האדם המרכזי\" (key-person risk) מתאר עסק שערכו תלוי באופן בלתי פרופורציונלי באדם בודד — מייסד עם קשרים, שיקול דעת או ידע טכני ייחודיים שהארגון לא הצליח למסד. זו הסיבה שמשקיעים מתעקשים לעיתים על \"ביטוח אדם מפתח\" (key-man insurance) למייסדים, וגם הסיבה שדירקטוריונים טובים מקיימים תוכנית המשכיות קבועה אפילו למנכ\"לים שאין כל סימן שהם מתכוונים לעזוב.\n\nככל הנראה, אנבידיה לא עשתה את זה טוב. חוקר ממשל תאגידי מאוניברסיטת דלאוור טען שהדירקטוריון היה צריך לקבוע תוכנית המשכיות ברורה ופיקוח עצמאי חזק יותר, הרבה לפני השבוע הזה. חברת דירקטוריון של אנבידיה, שהתבטאה בפומבי בנושא, אמרה שזה לא \"מקרה רגיל של חברה עם בעיית מנכ\"ל\", והכירה בכך שההשלכות — על תעשיית ה-AI, הביטחון הלאומי והכלכלה הרחבה — חריגות בהתחשב במרכזיותה של אנבידיה.\n\nחלק מהבעיה הוא מבני: כמו חברות טכנולוגיה רבות המובלות על ידי מייסדים, אנבידיה פעלה במה שמכונה \"מצב מייסד\" (founder mode), שבו מעורבותו הישירה והמעשית של המייסד באסטרטגיה ובעסקאות נתפסת כיתרון ולא כפער ממשל שיש לנהל. מצב מייסד יכול להוביל לתוצאות יוצאות דופן — ולו מיוחסת במידה רבה המהירות וההחלטיות של אנבידיה בזמן גאות ה-AI — אבל הוא גם אומר שהחלטות, קשרים וזיכרון מוסדי מתרכזים באדם אחד, במקום להתפזר בין הדירקטוריון להנהלה. כשאותו אדם עוזב בפתאומיות, אין נוהל מגובש להיכנס אליו.\n\n## למה זה חשוב מעבר לאנבידיה\n\nתפקידו של הואנג חרג בהרבה מקביעת אסטרטגיה. בשנים האחרונות הוא ליווה אישית את הסכמי המימון, התחייבויות האספקה וההשקעות שקושרות את אנבידיה ללקוחותיה הגדולים — ספקיות העננים ומעבדות ה-AI שבונות מרכזי נתונים. חלק גדול מזה נכלל במה שמכונה \"מימון מעגלי\" (circular financing): אנבידיה משקיעה בחברות או מעניקה להן אשראי, ואלו משתמשות בכסף כדי לקנות שבבי אנבידיה, כך שאותו הון למעשה חוזר במעגל בין הספק ללקוח. זה לא בלתי חוקי או אפילו חריג בתעשיות עתירות הון, אבל זה אומר שהבריאות של כל רשת המימון הזו נשענה בחלקה על קשרים שהואנג בנה באופן אישי, ולא על תהליכים מוסדיים וסטנדרטיים שכל אדם יכול להיכנס אליהם.\n\nזה מעלה שאלה קשה יותר שאנליסטים שואלים כעת: כמה מהיתרון העסקי של אנבידיה בעסקאות היה בעצם הואנג, וכמה היה אנבידיה כמוסד? אם זה היה בעיקר הואנג, החברה צפויה לעבור תקופה של משא ומתן מחדש או עיגון מחדש של הקשרים הללו תחת הנהגה חדשה — בדיוק כשמתחרים מעוניינים לפרוץ כל סדק בדומיננטיות של אנבידיה.\n\n## מה לעקוב אחריו הלאה\n\nלפרשה יש גם השלכות פוליטיות. חברי קונגרס אמריקנים מפעילים לחץ על שר המסחר הווארד לוטניק להסביר מדוע רישיונות ייצוא אפשרו מכירת שבבים לחברה שלכאורה קשורה לחשודה בריגול שבמרכז הפרשה, ובוושינגטון גוברות הציפיות להחמרת מגבלות ייצוא שבבי AI לסין. אם הקונגרס יחמיר את כללי הייצוא בתגובה, זה יהיה מקרה שבו שערורייה אישית מעצבת מדיניות סחר עם השלכות גלובליות — תזכורת לכך שבתעשייה מרוכזת כמו שבבי AI, כשל ממשל בראש חברה אחת יכול להשפיע הרבה מעבר למחיר המניה שלה, ועד למדיניות ביטחון לאומי."
+      },
+      "tags": [
+        "nvidia",
+        "corporate-governance",
+        "key-person-risk",
+        "ai-industry"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "The Silicon Valley veterans now steering Nvidia",
+          "url": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+          "url": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
+          "url": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+          "url": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Huang’s fall is an indictment of founder mode at Big Tech",
+          "url": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Nvidia Is Not a Normal Company Having a CEO Issue: Everson",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/nvda-is-not-a-normal-company-having-a-ceo-issue-everson-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Charles Elson on Nvidia’s Corporate Governance Structure",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/charles-elson-on-nvidia-s-corporate-governance-structure-video"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Nvidia Tumbles as its CEO Jensen Huang Departs Amid Multiplying Scandals",
+          "url": "https://www.wsj.com/finance/stocks/nvidia-tumbles-as-its-ceo-jensen-huang-departs-amid-multiplying-scandals-d380df1f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Jensen Huang’s Exit Will Test AI’s Stocks, and Great-Man Theory",
+          "url": "https://www.wsj.com/finance/stocks/jensen-huangs-exit-will-test-ais-stocks-and-great-man-theory-3c4cd404?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מנכ\"ל אנבידיה הואנג התפטר — המחליפה: קולט קרס; המניה נופלת ב-5%",
+          "url": "https://www.themarker.com/wallstreet/2026-11-12/ty-article/.premium/000001a1-d011-da30-a7fb-d8bd6b180000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הואנג השקיע מיליארדים בלקוחות אנבידיה. מה יקרה בלעדיו לתעשייה?",
+          "url": "https://www.themarker.com/technation/2026-11-12/ty-article/.highlight/000001a1-cfbb-d608-a1a7-efff63910000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4073.77,
+      "prev_close": 4058.75,
+      "change_pct": 0.37,
+      "as_of": "2026-11-12"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7592.3999,
+      "prev_close": 7619.3799,
+      "change_pct": -0.35,
+      "as_of": "2026-11-12"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.193,
+      "prev_close": 3.1739,
+      "change_pct": 0.6,
+      "as_of": "2026-11-13"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 95.38,
+      "prev_close": 92.76,
+      "change_pct": 2.82,
+      "as_of": "2026-11-12"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 69104.1094,
+      "prev_close": 73964.4688,
+      "change_pct": -6.57,
+      "as_of": "2026-11-13"
+    }
+  }
+}
