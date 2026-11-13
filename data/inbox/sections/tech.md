@@ -238,121 +238,121 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Microsoft Outlook/365 still down after 12 hours",
      "published": "2026-11-13T05:08:23+00:00",
-     "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 171 # Comments: 89"
+     "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 198 # Comments: 107"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Nvidia employees petition to bring back Jensen Huang",
-     "published": "2026-11-13T02:16:24+00:00",
-     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 556 # Comments: 391"
+     "title": "IceWM",
+     "published": "2026-11-13T04:54:53+00:00",
+     "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 154 # Comments: 81"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-     "published": "2026-11-12T23:06:17+00:00",
-     "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 235 # Comments: 69"
+     "title": "Nvidia employees petition to bring back Jensen Huang",
+     "published": "2026-11-13T02:16:24+00:00",
+     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 563 # Comments: 400"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-     "published": "2026-11-12T21:56:11+00:00",
-     "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 288 # Comments: 87"
+     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+     "published": "2026-11-12T23:06:17+00:00",
+     "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 236 # Comments: 70"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Foundation Models framework",
-     "published": "2026-11-12T21:13:26+00:00",
-     "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 204 # Comments: 27"
+     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+     "published": "2026-11-12T21:56:11+00:00",
+     "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 292 # Comments: 96"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-     "published": "2026-11-12T19:51:33+00:00",
-     "summary": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 259 # Comments: 266"
+     "title": "Foundation Models framework",
+     "published": "2026-11-12T21:13:26+00:00",
+     "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 207 # Comments: 27"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-     "published": "2026-11-12T19:05:33+00:00",
-     "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 296 # Comments: 123"
+     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+     "published": "2026-11-12T19:51:33+00:00",
+     "summary": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 264 # Comments: 272"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "published": "2026-11-12T18:52:01+00:00",
-     "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 409 # Comments: 110"
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "published": "2026-11-12T19:05:33+00:00",
+     "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 300 # Comments: 125"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Rust 1.100",
-     "published": "2026-11-12T18:39:05+00:00",
-     "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 661 # Comments: 251"
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "published": "2026-11-12T18:52:01+00:00",
+     "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 412 # Comments: 111"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-     "published": "2026-11-12T18:22:22+00:00",
-     "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 190 # Comments: 35"
+     "title": "Rust 1.100",
+     "published": "2026-11-12T18:39:05+00:00",
+     "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 664 # Comments: 253"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Service degradation on Microsoft 365",
-     "published": "2026-11-12T18:20:48+00:00",
-     "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 859 # Comments: 758"
+     "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+     "published": "2026-11-12T18:22:22+00:00",
+     "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 192 # Comments: 35"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Gemini 4 Hydrogen",
-     "published": "2026-11-12T18:01:48+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 525 # Comments: 330"
+     "title": "Service degradation on Microsoft 365",
+     "published": "2026-11-12T18:20:48+00:00",
+     "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 866 # Comments: 762"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-     "published": "2026-11-12T17:02:42+00:00",
-     "summary": "https://x.com/simpsoka/status/2115254318161182876 Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 506 # Comments: 179"
+     "title": "Gemini 4 Hydrogen",
+     "published": "2026-11-12T18:01:48+00:00",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 526 # Comments: 330"
     },
     {
      "ref": "hn_frontpage#13",
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "published": "2026-11-12T17:02:42+00:00",
+     "summary": "https://x.com/simpsoka/status/2115254318161182876 Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 514 # Comments: 180"
+    },
+    {
+     "ref": "hn_frontpage#14",
      "title": "I'm making LLMs work on small and old devices",
      "published": "2026-11-12T15:23:10+00:00",
      "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 361 # Comments: 127"
     },
     {
-     "ref": "hn_frontpage#14",
+     "ref": "hn_frontpage#15",
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "published": "2026-11-12T14:18:49+00:00",
-     "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 269 # Comments: 99"
-    },
-    {
-     "ref": "hn_frontpage#15",
-     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-     "published": "2026-11-12T14:12:37+00:00",
-     "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 215 # Comments: 5"
+     "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 270 # Comments: 99"
     },
     {
      "ref": "hn_frontpage#16",
-     "title": "Our software engineering interviews are changing a little",
-     "published": "2026-11-12T14:05:28+00:00",
-     "summary": "Article URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/ Comments URL: https://news.ycombinator.com/item?id=50467297 Points: 220 # Comments: 208"
+     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+     "published": "2026-11-12T14:12:37+00:00",
+     "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 216 # Comments: 5"
     },
     {
      "ref": "hn_frontpage#17",
      "title": "Jensen Huang resigns",
      "published": "2026-11-12T13:52:29+00:00",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens... Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 3494 # Comments: 3100"
+     "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens... Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 3513 # Comments: 3108"
     },
     {
      "ref": "hn_frontpage#18",
      "title": "Anthropic IPO",
      "published": "2026-11-12T11:46:41+00:00",
-     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 920 # Comments: 861"
+     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 921 # Comments: 862"
     },
     {
      "ref": "hn_frontpage#19",
      "title": "Relax: JIT compiler for Rust to reduce build times",
      "published": "2026-11-11T21:20:01+00:00",
-     "summary": "Article URL: https://makepad.github.io/relax/ Comments URL: https://news.ycombinator.com/item?id=50458849 Points: 158 # Comments: 71"
+     "summary": "Article URL: https://makepad.github.io/relax/ Comments URL: https://news.ycombinator.com/item?id=50458849 Points: 158 # Comments: 72"
     }
    ]
   },

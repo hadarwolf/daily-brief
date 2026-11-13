@@ -246,16 +246,16 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
+     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
-     "title": "Eye on the mark",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
      "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
     },
     {
      "ref": "psyche#2",

@@ -18,93 +18,93 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Indonesian Stocks Set for Best Week Since June on Foreign Buying",
+     "published": "2026-11-13T09:17:11+00:00",
+     "summary": "Indonesia’s stocks are heading for their best week since mid-June as foreign investors tiptoed back into the market after months of selling."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "ICTSI: Keen to Expand in Southern, Western Africa",
+     "published": "2026-11-13T09:13:12+00:00",
+     "summary": "International Container Terminal Services Senior Adviser Christian Gonzalez says the world’s largest, independent terminal operator is keen to expand in Southern and Western Africa. It currently has 34 terminal operations and port development projects across 19 countries. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "China’s Credit Growth Disappoints Despite Greater Policy Support",
+     "published": "2026-11-13T09:12:53+00:00",
+     "summary": "China’s credit expansion fell short of expectations in October with loans contracting for the third time this year, as greater policy support struggled to offset persistently weak borrowing demand."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says",
      "published": "2026-11-13T09:05:30+00:00",
      "summary": "Iraq’s oil output surged in October and production in the United Arab Emirates held near the previous month’s high, as Gulf producers increased crude flows despite shipping disruptions caused by the Iran war, the International Energy Agency said."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#4",
      "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
      "published": "2026-11-13T09:00:02+00:00",
      "summary": "What Weil Gotshal’s collapse says about the frailty of big law."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#5",
      "title": "Odd Lots: Why a $2 Billion Law Firm Suddenly Collapsed (Podcast)",
      "published": "2026-11-13T09:00:00+00:00",
      "summary": "At the end of October, seemingly overnight, a major law firm called Weil Gotshal announced it was winding down after a number of partners departed and talks of a merger with another firm failed. So how did a $2 billion big law firm collapse in the span of a few weeks? In 2015, Yale Law professor John Morley published a paper called \"Why Law Firms Collapse,\" that now looks very prescient, with his "
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#6",
      "title": "Global Oil Market Swings to Surplus on Gulf Exports, IEA Says",
      "published": "2026-11-13T09:00:00+00:00",
      "summary": "Global oil markets will swing to a supply surplus for the first time since the start of the Iran war as Persian Gulf exports recover despite the ongoing conflict, the International Energy Agency said."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#7",
      "title": "Tech Tries to Soldier On Without Huang: Market Analysis",
      "published": "2026-11-13T08:55:57+00:00",
      "summary": "Anna Edwards, Tom Mackenzie and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#8",
+     "title": "China’s AI Sector Caught in the Crossfire After Nvidia Ousts Huang",
+     "published": "2026-11-13T08:44:29+00:00",
+     "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#9",
      "title": "Hong Kong Turns Even More Bullish on Economy With Growth Upgrade",
      "published": "2026-11-13T08:34:47+00:00",
      "summary": "Hong Kong raised its full-year growth forecast for a second time in months after the global artificial intelligence boom turbocharged trade and brought the pace of its economic expansion to a five-year high."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#10",
      "title": "European Shares Pull Back From Record High After Four-Day Rally",
      "published": "2026-11-13T08:22:26+00:00",
      "summary": "European stocks slipped as a four-day rally to record highs ran out of steam after a busy week."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#11",
      "title": "Talabat CEO: Grocery Demand Up Amid Mideast Situation",
      "published": "2026-11-13T08:18:03+00:00",
      "summary": "Food delivery giant Talabat reported its 3Q revenue jumped 18 percent to $1.2 billion. The Dubai-based firm says the growth is driven by robust demand during the summer and back-to-school periods. Talabat CEO Toon Gyssels spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the earnings. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#12",
      "title": "Hidary: Investors See Anthropic IPO as Key Bellwether",
      "published": "2026-11-13T08:17:22+00:00",
      "summary": "Anthropic’s IPO is said to be about 6 times oversubscribed. The Claude AI Model firm and its co-founders are seeking to raise $64.4 billion in the public listing as well as $26 billion in private placement, making it bigger than Space X’s IPO. Jack Hidary, CEO of SandboxAQ spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa about the listing as well as his deals in the UAE on the "
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#13",
      "title": "EGA CFO: Al Taweelah At Full Production by 1Q 2027",
      "published": "2026-11-13T08:15:56+00:00",
      "summary": "Emirates Global Aluminium says it’s making “strong progress” on restoring production at its main smelter, which was damaged in an Iranian strike earlier this year. It comes as the firm reported 9m revenue of $5.3 billion compared to $6.3 billion y/y. EGA’s CFO, Pal Kildemo spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#14",
      "title": "UK Gilts Head for Worst Weekly Drop Since September",
      "published": "2026-11-13T07:48:40+00:00",
      "summary": "Plus, a protracted software outage at Microsoft"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "(USD:ZWG) Zimbabwe Moves to Rebuild Local Bond Market After Currency Turmoil",
-     "published": "2026-11-13T07:44:25+00:00",
-     "summary": "Zimbabwe is taking steps to rebuild its domestic bond market after stabilizing the gold-backed ZiG currency and bringing inflation down to single digits following years of economic turmoil."
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Nvidia Names Kress Interim CEO After Huang Exit as Trump Cools on Iran Deal",
-     "published": "2026-11-13T07:35:24+00:00",
-     "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "India’s Manufacturing Incentives Fall Short on Jobs, Report Says",
-     "published": "2026-11-13T07:29:35+00:00",
-     "summary": "India’s flagship manufacturing incentive program is falling well short of its job-creation goals, a government think tank said, highlighting the challenge of generating enough work for its large and growing young population."
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "ICTSI to Stay Listed in Philippines, Targets More Ports",
-     "published": "2026-11-13T07:01:39+00:00",
-     "summary": "Global port operator International Container Terminal Services Inc. will stay listed in the Philippine stock market, while the nation’s most valuable company explore ways to improve its liquidity."
     },
     {
      "ref": "bloomberg_markets#15",
@@ -114,15 +114,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#16",
-     "title": "Copper Set for Worst Run in Two Years on Nvidia and Rates Unease",
-     "published": "2026-11-13T03:44:36+00:00",
-     "summary": "Copper tumbled toward a fifth weekly loss — the longest run in nearly two years — on a wave of upheaval in the artificial-intelligence industry and growing expectations for further hikes in US interest rates."
+     "title": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over",
+     "published": "2026-11-13T06:00:17+00:00",
+     "summary": "Just when global bond investors were starting to believe the worst of this year’s rout was over, surging Treasury yields are making them think again."
     },
     {
      "ref": "bloomberg_markets#17",
-     "title": "China Internet Stock Gains Face Reality Check in Nvidia Fallout",
-     "published": "2026-11-13T00:07:02+00:00",
-     "summary": "A nascent November rebound in beaten-down Chinese internet stocks is facing a reckoning in collateral damage from the scandal at Nvidia Corp."
+     "title": "Copper Set for Worst Run in Two Years on Nvidia and Rates Unease",
+     "published": "2026-11-13T03:44:36+00:00",
+     "summary": "Copper tumbled toward a fifth weekly loss — the longest run in nearly two years — on a wave of upheaval in the artificial-intelligence industry and growing expectations for further hikes in US interest rates."
     },
     {
      "ref": "bloomberg_markets#18",
@@ -132,9 +132,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#19",
-     "title": "Stocks Slip Before Inflation Test of Fed-Hike Bets: Markets Wrap",
+     "title": "US Stocks Drift Before Inflation Test of Fed Bets: Markets Wrap",
      "published": "2026-11-12T22:17:13+00:00",
-     "summary": "US stock futures edged lower ahead of inflation data that will cap a dramatic week of mounting bets on Federal Reserve interest-rate hikes and the ouster of Jensen Huang at Nvidia Corp."
+     "summary": "US stocks struggled for direction ahead of inflation data that will cap a dramatic week in which traders ramped up bets on Federal Reserve interest-rate hikes and Jensen Huang was ousted from Nvidia Corp."
     }
    ]
   },
@@ -144,9 +144,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
-     "published": "2026-11-13T08:22:16+00:00",
-     "summary": "Ousted chief executive Jensen Huang had supported keeping sales open to China"
+     "title": "Global oil markets swing to surplus as Gulf shipments rebound",
+     "published": "2026-11-13T09:04:06+00:00",
+     "summary": "IEA analysts warn it will take months to rebuild stockpiles depleted by conflict"
     },
     {
      "ref": "ft_home#1",
@@ -168,48 +168,42 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#4",
-     "title": "Nscale warns it needs more cash ahead of $35bn IPO",
-     "published": "2026-11-13T04:10:06+00:00",
-     "summary": "Nvidia-backed ‘neocloud’ tells investors it must obtain additional financing to fulfil Anthropic contracts"
-    },
-    {
-     "ref": "ft_home#5",
      "title": "The downfall of Jensen Huang",
      "published": "2026-11-13T03:47:19+00:00",
      "summary": "After 33 years building Nvidia into the world’s most valuable company, its founder’s career disintegrated in less than two weeks"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#5",
      "title": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
      "published": "2026-11-13T02:08:58+00:00",
      "summary": "American envoy’s comments come as European leaders reject Russian push to overhaul continent’s security"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#6",
      "title": "The Silicon Valley veterans now steering Nvidia",
      "published": "2026-11-13T01:42:30+00:00",
      "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#7",
      "title": "US lawmakers pile pressure on Lutnick as Nvidia scandal widens",
      "published": "2026-11-12T23:35:11+00:00",
      "summary": "Legislators demand commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy"
     },
     {
-     "ref": "ft_home#9",
+     "ref": "ft_home#8",
      "title": "Huang’s fall is an indictment of founder mode at Big Tech",
      "published": "2026-11-12T22:50:43+00:00",
      "summary": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear"
     },
     {
-     "ref": "ft_home#10",
+     "ref": "ft_home#9",
      "title": "Trump signals end to vice-president’s Iran peace deal push",
      "published": "2026-11-12T20:32:43+00:00",
      "summary": "President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns"
     },
     {
-     "ref": "ft_home#11",
+     "ref": "ft_home#10",
      "title": "Meet the contenders to succeed Jensen Huang",
      "published": "2026-11-12T17:24:08+00:00",
      "summary": "From chief executives of rival companies to the former CEO’s own children, the race to lead Nvidia has begun"
@@ -378,129 +372,129 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Stock Futures Lower as Investors Look to U.S. Inflation Data",
+     "published": "2026-11-13T09:28:00+00:00",
+     "summary": "Stock futures fell as the fallout from Nvidia’s leadership change continued to hang over markets, while longer-dated Treasurys continued to sell off ahead of key U.S. inflation data."
+    },
+    {
+     "ref": "wsj_markets#1",
      "title": "Dollar Could Take Another Leg Higher After Strong Rally",
      "published": "2026-11-13T09:05:00+00:00",
      "summary": "The DXY dollar index was flat after reaching a 19-month high Thursday. ING said the index could rise further toward the next resistance level of 104.600 which would be consistent with the euro falling to $1.0880."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#2",
      "title": "London’s Miners Drop as Oil Traders Weigh Iran War Outlook",
      "published": "2026-11-13T09:01:00+00:00",
      "summary": "London’s miners open lower Friday morning."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#3",
      "title": "Asia’s Stock Rebound Fades as Nvidia Uncertainty Lingers",
      "published": "2026-11-13T07:09:00+00:00",
      "summary": "The tentative rebound in Asia’s bruised technology stocks faded Friday afternoon as bearish sentiment overpowered the initial lift."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#4",
      "title": "Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
      "published": "2026-11-13T06:21:00+00:00",
      "summary": "Finance Minister Satsuki Katayama called recent yen movements “one-sided and rapid.”"
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#5",
      "title": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
      "published": "2026-11-13T02:00:00+00:00",
      "summary": "Interim CEO Colette Kress has questioned some Huang dealmaking. He called her “a deer in the headlights.”"
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#6",
      "title": "Oil Slips Again as Traders Weigh Diplomacy Hopes",
      "published": "2026-11-13T01:28:00+00:00",
      "summary": "Oil prices slipped in Asia, surrendering gains made after comments from Trump saying the U.S. no longer needs a deal with Iran."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
      "title": "Gold Edges Higher in Technical Rebound",
      "published": "2026-11-13T01:24:00+00:00",
      "summary": "Gold edged higher in a likely technical rebound after falling overnight."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#8",
      "title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
      "published": "2026-11-13T01:00:00+00:00",
      "summary": "Stripe is positioning itself as a key cog for agentic commerce, while JPMorgan Chase is a skeptic."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#9",
      "title": "U.S. Stocks Down as Huang Ouster Sends Shockwaves Through Tech",
      "published": "2026-11-12T22:12:00+00:00",
      "summary": "U.S. stocks slipped after the sudden ouster of one of the key architects of the artificial-intelligence boom sent shockwaves through the technology sector."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#10",
      "title": "Oil Futures Rebound as Trump Shrugs Off Need for Iran Deal",
      "published": "2026-11-12T22:02:00+00:00",
      "summary": "Oil futures rose after President Trump said the U.S. doesn’t need to reach a deal with Iran, adding risk premium back into the market despite the recent increase in supply from the Middle East."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#11",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-11-12T21:55:00+00:00",
      "summary": "Find insight on gold futures, Hudbay Minerals, palm oil and more in the latest Market Talks covering basic materials."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#12",
      "title": "U.S. Natural Gas Futures Extend Gains",
      "published": "2026-11-12T21:54:00+00:00",
      "summary": "U.S. natural gas futures rose as a colder near-term weather outlook supported heating demand expectations along with solid LNG exports."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#13",
      "title": "Jensen Huang’s Exit Will Test AI’s Stocks, and Great-Man Theory",
      "published": "2026-11-12T21:41:00+00:00",
      "summary": "Nvidia’s crisis divides the AI trade between companies dependent on Huang’s patronage, and those that didn’t need his chips or financing deals."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#14",
      "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
      "published": "2026-11-12T21:40:00+00:00",
      "summary": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#15",
      "title": "US FX: Dollar Strengthens; Emerging Markets Mixed",
      "published": "2026-11-12T21:18:00+00:00",
      "summary": "The U.S. dollar strengthened against major currencies, and Convera said the currency was likely to stay elevated due to increased Fed rate-hike expectations."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#16",
      "title": "Nvidia Tumbles as its CEO Jensen Huang Departs Amid Multiplying Scandals",
      "published": "2026-11-12T21:11:00+00:00",
      "summary": "Plus, competitors AMD and Broadcom advance and yields rise."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#17",
      "title": "Opinion | ‘Peer-to-Peer’ Wagering Isn’t Gambling? Don’t Bet on It",
      "published": "2026-11-12T20:50:00+00:00",
      "summary": "Kalshi says it is different from a sportsbook. Utah says Kalshi’s own trading arm acts like the house."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#18",
      "title": "Nvidia’s Meteoric Rise, in One Chart",
      "published": "2026-11-12T20:14:00+00:00",
      "summary": "A once-modest company soared after ChatGPT unleashed demand for its chips."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#19",
      "title": "Another Winner From the Midterms: Crusaders Against Insurance Companies",
      "published": "2026-11-12T18:52:00+00:00",
      "summary": "California’s incoming insurance commissioner wants to impose profit caps on home and auto insurers."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#20",
      "title": "Here Are the New Contribution Limits for 401(k)s and IRAs in 2027",
      "published": "2026-11-12T18:01:00+00:00",
      "summary": "High earners in their early 60s can get up to $86,750 in these plans."
-    },
-    {
-     "ref": "wsj_markets#20",
-     "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
-     "published": "2026-11-12T17:43:00+00:00",
-     "summary": "Steadier hands could be better suited to enriching shareholders as the AI chip company enters a new phase."
     },
     {
      "ref": "wsj_markets#21",
@@ -510,20 +504,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "wsj_markets#22",
+     "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
+     "published": "2026-11-12T17:43:00+00:00",
+     "summary": "Steadier hands could be better suited to enriching shareholders as the AI chip company enters a new phase."
+    },
+    {
+     "ref": "wsj_markets#23",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-11-12T14:07:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#23",
+     "ref": "wsj_markets#24",
      "title": "Brookfield Earnings Buoyed by Fund Raising, Wealth Solutions Growth",
      "published": "2026-11-12T12:57:00+00:00",
      "summary": "Brookfield notched stronger earnings in the third quarter as the investment firm saw strong fundraising in its asset-management operations and growth in wealth solutions."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Praise Was Heaped on Jensen Huang. That Might Be Part of the Problem.",
-     "published": "2026-11-12T12:03:00+00:00"
     }
    ]
   }
@@ -531,9 +526,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4064.6399,
+   "last": 4054.1201,
    "prev_close": 4073.77,
-   "change_pct": -0.22,
+   "change_pct": -0.48,
    "as_of": "2026-11-13"
   },
   "SP500": {
@@ -545,23 +540,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.1972,
+   "last": 3.2021,
    "prev_close": 3.1739,
-   "change_pct": 0.73,
+   "change_pct": 0.89,
    "as_of": "2026-11-13"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 96.01,
+   "last": 95.97,
    "prev_close": 95.82,
-   "change_pct": 0.2,
+   "change_pct": 0.16,
    "as_of": "2026-11-13"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 68841.0469,
+   "last": 69002.3906,
    "prev_close": 71342.9688,
-   "change_pct": -3.51,
+   "change_pct": -3.28,
    "as_of": "2026-11-13"
   }
  },
