@@ -24,174 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2014,
-   "text": "The European Space Agency's lander Philae  touched down on 67P/Churyumov–Gerasimenko, becoming the first spacecraft to land on a comet.",
+   "year": 2015,
+   "text": "Coordinated terrorist attacks in Paris perpetrated by the Islamic State killed 130 people and injured 413 others.",
    "context": [
-    "The European Space Agency is a 23-member international organisation devoted to space exploration. It has its headquarters in Paris and a staff of around 3,000 people globally as of 2025. ESA was founded in 1975 in the context of European integration. Its 2026 annual budget was around €8.3 billion."
+    "A series of coordinated Islamic terrorist attacks took place on Friday, 13 November 2015 in Paris, France, and the city's northern suburb, Saint-Denis. Beginning at 21:16, three suicide bombers struck outside the Stade de France in Saint-Denis, during an international football match, after failing to gain entry to the stadium. Another group of attackers then fired on crowded cafés and restaurants in Paris with one of them also detonating an explosive, killing himself in the process. A third group carried out another mass shooting and took hostages at an Eagles of Death Metal concert attended by 1,500 people in the Bataclan theatre, leading to a stand-off with police. The attackers were either shot or detonated suicide vests when police raided the theatre."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2011,
-   "text": "An explosion in the Shahid Modarres missile base led to the deaths of 17 members of the Revolutionary Guards, including Hassan Tehrani Moghaddam, a key figure in Iran's missile program.",
+   "year": 1992,
+   "text": "In Dietrich v The Queen, the High Court of Australia ruled that, although there is no absolute right to have publicly funded counsel, a judge should grant any request for an adjournment or stay in most circumstances in which an accused is unrepresented.",
    "context": [
-    "On 12 November 2011 at about 13:30 local time, a large explosion occurred at the Modarres garrison missile base in Tehran Province, Iran. The facility is also referred to as Shahid Modarres missile base, and the Alghadir missile base. Seventeen members of the Revolutionary Guards were killed in this incident, including Major General Hassan Moqaddam, described as \"a key figure in Iran's missile programme\"."
+    "Dietrich v The Queen is a 1992 High Court of Australia constitutional case which established that a person accused of serious criminal charges must be granted an adjournment until appropriate legal representation is provided if they are unrepresented through no fault of their own and proceeding would result in the trial being unfair."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2006,
-   "text": "South Ossetia held a referendum on independence from Georgia; more than 99 percent of voters were in favour of maintaining the region's status as a de facto independent state.",
+   "year": 1985,
+   "text": "The volcano Nevado del Ruiz (pictured) erupted, causing a volcanic mudslide that buried the town of Armero, Colombia, killing approximately 23,000 people.",
    "context": [
-    "South Ossetia, formally the Republic of South Ossetia—the State of Alania since 2017, and originally the Republic of South Ossetia, is a partially recognised state in the South Caucasus. It has an officially stated population of just over 56,500 people (2022), who live in an area of 3,900 square kilometres (1,500 sq mi), with 33,000 living in the capital city, Tskhinvali. It de facto borders only Russia and Georgia."
+    "Nevado del Ruiz, also known as La Mesa de Herveo is a volcano on the border of the departments of Caldas and Tolima in Colombia, being the highest point of both. It is located about 130 km (81 mi) west of the capital city Bogotá. It is a stratovolcano composed of many layers of lava alternating with hardened volcanic ash and other pyroclastic rocks. Volcanic activity at Nevado del Ruiz began about two million years ago, during the Early Pleistocene or Late Pliocene, with three major eruptive periods. The current volcanic cone formed during the present eruptive period, which began 150,000 years ago."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2001,
-   "text": "American Airlines Flight 587 crashed into residential buildings shortly after takeoff from John F. Kennedy International Airport in New York, killing 265 people.",
+   "year": 1982,
+   "text": "South Korean boxer Kim Duk-koo suffered fatal brain injuries during a match with American Ray Mancini in Las Vegas, leading to significant rule changes in the sport.",
    "context": [
-    "American Airlines Flight 587 was a regularly scheduled international passenger flight from John F. Kennedy International Airport, New York City, to Las Américas International Airport, Santo Domingo, Dominican Republic. On November 12, 2001, the Airbus A300 flying the route crashed into the neighborhood of Belle Harbor on the Rockaway Peninsula of Queens, New York City, shortly after takeoff, killing all 251 passengers and nine crew members aboard, as well as five people on the ground. It is the second-deadliest aviation accident to have occurred in the United States, behind the crash of American Airlines Flight 191 in 1979, and the second-deadliest aviation incident involving an Airbus A300, after Iran Air Flight 655."
+    "Kim Duk-koo was a South Korean professional boxer who competed in the Lightweight division. He died after a world lightweight championship boxing match against Ray Mancini in 1982. His death sparked reforms aimed at better protecting the health of boxers, including reducing the number of rounds in championship bouts from 15 to 12."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1996,
-   "text": "A Saudi Arabian Airlines Boeing 747 and a Kazakhstan Airlines Ilyushin Il-76 collided in mid-air near New Delhi, killing 349 people, the deadliest such collision in history.",
+   "year": 1974,
+   "text": "Six members of the DeFeo family were murdered in their home (house pictured) in Amityville, New York, events that later inspired the book The Amityville Horror and a subsequent media franchise.",
    "context": [
-    "Saudia is the first flag carrier of Saudi Arabia, headquartered in Jeddah. Its main hub is King Abdulaziz International Airport in Jeddah, with secondary hubs at Prince Mohammad bin Abdulaziz International Airport in Medina and King Fahd International Airport in Dammam, and a hub at King Khalid International Airport in Riyadh, which it plans to vacate by 2030 for the launch of Riyadh Air."
+    "On November 13, 1974, six members of the DeFeo family were murdered in their home in Amityville, New York, United States. The sole surviving family member, 23-year-old Ronald DeFeo Jr., first claimed that his parents and four siblings were targeted in a contract killing by the American Mafia before confessing that he had committed the murders. DeFeo was found guilty of six counts of second degree murder and was sentenced to 25 years to life. The case inspired the book and film versions of The Amityville Horror."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1991,
-   "text": "Indonesian forces opened fire on student demonstrators protesting the occupation of East Timor in the capital Dili, killing at least 250 people.",
+   "year": 1966,
+   "text": "Arab–Israeli conflict: In response to a Fatah landmine incident, the Israeli military conducted a large cross-border assault on the Jordanian-controlled West Bank village of Samu.",
    "context": [
-    "The Santa Cruz massacre was the murder of at least 250 East Timorese pro-independence demonstrators in the Santa Cruz cemetery in the capital, Dili, on 12 November 1991, during the Indonesian occupation of East Timor and is part of the East Timor genocide."
+    "Since the declaration of Israel's establishment in 1948, conflict has existed between Israel and the surrounding Arab countries, rooted in the Israeli–Palestinian conflict. Zionists viewed the region of Palestine as the Jewish ancestral homeland and sought to establish a Jewish state or homeland there through colonization, while Arabs generally opposed Zionism, envisioning Palestine as Arab Palestinian land and an essential part of the Arab world."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1973,
-   "text": "The first episode of Last of the Summer Wine, the longest-running television sitcom in history, premiered on the BBC.",
+   "year": 1963,
+   "text": "A man wielding a dagger was subdued as he was about to attack Sanzō Nosaka, the chairman of the Japanese Communist Party.",
    "context": [
-    "Last of the Summer Wine is a British sitcom set in Yorkshire created and written by Roy Clarke and originally broadcast by the BBC from 1973 to 2010. It premiered as an episode of Comedy Playhouse on 4 January 1973, and the first series of episodes followed on 12 November 1973. Alan J. W. Bell produced and directed all episodes of the show from late 1981 to 2010. The BBC confirmed on 2 June 2010 that Last of the Summer Wine would no longer be produced and the 31st series would be its last. Subsequently, the final episode was broadcast on 29 August 2010. Since its original release, all 295 episodes, comprising thirty-one series – including the pilot and all films and specials – have been released on DVD. Repeats of the show are broadcast in the UK on BBC One, U&Gold, U&Yesterday, and U&Drama. It is also seen in more than 25 countries, including various PBS stations in the United States and on VisionTV in Canada. With the exception of programmes relaunched after long hiatuses, Last of the Summer Wine is the longest-running TV comedy programme in Britain and the longest-running TV sitcom in the world."
+    "Sanzō Nosaka  was a Japanese writer, editor, labor organizer, communist agent, politician, and university professor and a founder of the Japanese Communist Party (JCP). He was the son of a wealthy Japanese merchant, and attended Keio University. While in university, Nosaka became interested in social movements, and joined a moderate labor organization after graduation, working as a research staff member, and as a writer and editor of the organization's magazine. He traveled to Britain in 1919 to study political economy, where he deepened his studies of Marxism and became a confirmed communist. Nosaka was a founding member of the Communist Party of Great Britain, but his activity within British communist circles led to him being deported from Britain in 1921."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1970,
-   "text": "The deadliest tropical cyclone in history made landfall on the coast of East Pakistan (present-day Bangladesh), killing at least 250,000 people.",
+   "year": 1945,
+   "text": "FC Dynamo Moscow opened their exhibition tour of the United Kingdom with a 3–3 draw against Chelsea, breaking the attendance record for a British club football match.",
    "context": [
-    "The 1970 Bhola cyclone, also known as the Great Cyclone of 1970 or simply the Bhola Cyclone, was the deadliest tropical cyclone on record, as well as one of the deadliest humanitarian disasters ever recorded. It struck East Pakistan and India's West Bengal on 12 November 1970. At least 300,000 people died in the storm, possibly as many as 500,000, primarily as a result of the storm surge that flooded much of the low-lying islands of the Ganges Delta. The Bhola cyclone was the sixth and strongest cyclonic storm of the 1970 North Indian Ocean cyclone season."
+    "FC Dynamo Moscow is a Russian professional football club based in Moscow. Dynamo returned to the Russian Premier League for the 2017–18 season after one season in the second-tier Russian Football National League."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1970,
-   "text": "The Oregon Highway Division unsuccessfully attempted to destroy a rotting beached sperm whale near Florence, Oregon, with dynamite.",
+   "year": 1940,
+   "text": "Walt Disney's Fantasia, the first commercial film shown with stereophonic sound, premiered at the Broadway Theatre in New York City.",
    "context": [
-    "The Oregon Department of Transportation (ODOT) is a department of the state government of the U.S. state of Oregon responsible for systems of transportation. It was first established in 1969. It had been preceded by the Oregon State Highway Department which, along with the Oregon State Highway Commission, was created by an act of the Oregon Legislative Assembly in 1913. It works closely with the five-member Oregon Transportation Commission in managing the state's transportation systems."
+    "Walter Elias Disney was an American animator, film producer, voice actor, and entrepreneur. A pioneer of the American animation industry, he introduced several developments in the production of cartoons. As a film producer, he holds the record for most Academy Awards won by (22) and nominated for (59) an individual. He was presented with two Golden Globe Special Achievement Awards and an Emmy Award, among other honors. Several of his films are included in the National Film Registry by the Library of Congress and have also been named as some of the greatest films ever by the American Film Institute."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1956,
-   "text": "Suez Crisis: During an invasion of Rafah, Israeli soldiers shot and killed an estimated 111 Palestinian refugees and local inhabitants.",
+   "year": 1927,
+   "text": "The Holland Tunnel opened, connecting Manhattan with Jersey City under the Hudson River.",
    "context": [
-    "The Suez Crisis, also known as the second Arab–Israeli war, the Tripartite Aggression in the Arab world and the Sinai War in Israel, was a British–French–Israeli invasion of Egypt in 1956. Israel invaded on 29 October, with the primary objective of re-opening the Straits of Tiran and the Gulf of Aqaba as the recent tightening of the eight-year-long Egyptian blockade prevented Israeli passage. After issuing a joint ultimatum for a ceasefire, the United Kingdom and France joined the Israelis on 31 October in an attempt to depose Egyptian President Gamal Abdel Nasser and regain control of the Suez Canal. The countries came under heavy political pressure from the United States, the Soviet Union and the United Nations, prompting their withdrawal from Egypt."
+    "The Holland Tunnel is a vehicular tunnel under the Hudson River that connects Hudson Square and Lower Manhattan in New York City in the east to Jersey City, New Jersey, in the west. The tunnel is operated by the Port Authority of New York and New Jersey and carries Interstate 78. The New Jersey side of the tunnel is the eastern terminus of New Jersey Route 139. It consists of two tubes: the eastbound tube is a toll road, while the westbound tube is toll-free. The Holland Tunnel is one of three vehicular crossings between Manhattan and New Jersey; the two others are the Lincoln Tunnel and George Washington Bridge."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1944,
-   "text": "Second World War: In Operation Catechism, the Royal Air Force sank the German battleship Tirpitz  (video featured) near Tromsø, Norway, killing about 1,000 sailors on board.",
+   "year": 1914,
+   "text": "Zaian War: Zaian Berber tribesmen routed French forces at the Battle of El Herri in Morocco.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Zaian War was fought between France and the Zaian Confederation of Berber tribes in Morocco between 1914 and 1921 during the French conquest of Morocco. Morocco had become a French protectorate in 1912, and Resident-General Louis-Hubert Lyautey sought to extend French influence eastwards through the Middle Atlas mountains towards French Algeria. This was opposed by the Zaians, led by Mouha ou Hammou Zayani. The war began well for the French, who quickly took the key towns of Taza and Khénifra. Despite the loss of their base at Khénifra, the Zaians inflicted heavy losses on the French, who responded by establishing groupes mobiles, combined arms formations that mixed regular and irregular infantry, cavalry and artillery into a single force."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1942,
-   "text": "World War II: The Naval Battle of Guadalcanal, the decisive engagement in a series of sea battles between Allied and Japanese forces during the months-long Guadalcanal campaign in the Solomon Islands, began.",
+   "year": 1809,
+   "text": "As part of the Persian Gulf campaign, a British flotilla arrived at and launched an amphibious assault on Ras Al Khaimah.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Persian Gulf campaign of 1809 was an operation by the British East India Company and Royal Navy to force the Al Qasimi to cease their attacks on British ships in the Persian Gulf, particularly on the Persian and Arab coasts of the Strait of Hormuz. The operation's success was limited as the British did not press their advantage when invading Ras Al Khaimah and embarked without consolidating their gains and failed to permanently suppress the strong fleets of the Qawasim of Ras Al Khaimah and Sharjah. The expedition did achieve its short-term goals by destroying three Al Qasimi bases and over 80 vessels, including the largest Al Qasimi ship in the region, the converted merchant ship Minerva. Although operations continued into 1810, the British were unable to destroy every Al Qasimi vessel. By 1811, attacks had resumed, although at a lower intensity than previously."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1940,
-   "text": "World War II: Free French forces captured Gabon from Vichy France.",
+   "year": 1775,
+   "text": "American Revolutionary War: American forces captured Montreal without significant opposition as part of the Invasion of Quebec.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1940,
-   "text": "World War II: Soviet foreign minister Vyacheslav Molotov arrived in Berlin to discuss the possibility of the Soviet Union joining the Axis powers.",
+   "year": 1642,
+   "text": "First English Civil War: Royalist forces engaged the much larger Parliamentarian army at the Battle of Turnham Green near Turnham Green, Middlesex.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The First English Civil War took place in England and Wales from 1642 to 1646, and forms part of the 1639 to 1653 Wars of the Three Kingdoms. An estimated 15% to 20% of adult males in England and Wales served in the military at some point between 1639 and 1653, while around 4% of the total population died from war-related causes. These figures illustrate the widespread impact of the conflict on society, and the bitterness it engendered as a result."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1932,
-   "text": "At the request of the Government of Western Australia, the Australian military officially resumed fighting the Emu War after their prior withdrawal.",
+   "year": 1002,
+   "text": "King Æthelred II (pictured) ordered the massacre of all Danes in England.",
    "context": [
-    "The Government of Western Australia, also known as the WA Government, is the executive branch of government for the Australian state of Western Australia. It comprises the State Cabinet, Executive Council and the public sector. The WA Government includes approximately 130 agencies and authorities delivering frontline and support services, employs approximately 240,000 people and had an expected operating expenditure of A$43.59 billion in the 2024–25 financial year."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
-   "year": 1928,
-   "text": "The British ocean liner SS Vestris sank in the western Atlantic Ocean, killing 111 people.",
-   "context": [
-    "An ocean liner is a type of passenger ship that was primarily used for transportation across seas or oceans. Ocean liners may also carry cargo or mail, and may sometimes be used for other purposes. The Queen Mary 2 is the only active ocean liner in 2026, serving with Cunard Line."
-   ]
-  },
-  {
-   "ref": "wikipedia#16",
-   "year": 1920,
-   "text": "The Kingdom of Italy and the Kingdom of Serbs, Croats and Slovenes signed the Treaty of Rapallo to establish national borders east of the Adriatic Sea.",
-   "context": [
-    "The Kingdom of Italy was a unitary state that existed from 17 March 1861, when Victor Emmanuel II, King of Sardinia, was proclaimed King of Italy, until 18 June 1946, when the monarchy was abolished, following civil discontent that led to an institutional referendum on 2 June, resulting in the establishment of the modern Italian Republic. The kingdom was established through the unification of several states over a decades-long process, called the Risorgimento. That process was influenced by House of Savoy-ruled Sardinia, which was one of Italy's legal predecessor states."
-   ]
-  },
-  {
-   "ref": "wikipedia#17",
-   "year": 1912,
-   "text": "Eight months after perishing during the ill-fated Terra Nova Expedition, the bodies of Robert Falcon Scott (pictured) and his companions were discovered on the Ross Ice Shelf in Antarctica.",
-   "context": [
-    "The Terra Nova Expedition, officially the British Antarctic Expedition, was an expedition to Antarctica which took place between 1910 and 1913. Led by Captain Robert Falcon Scott, the expedition had various scientific and geographical objectives. Scott wished to continue the scientific work that he had begun when leading the Discovery Expedition from 1901 to 1904, and wanted to be the first to reach the geographic South Pole."
-   ]
-  },
-  {
-   "ref": "wikipedia#18",
-   "year": 1911,
-   "text": "The Corozal (pictured), at the time the most powerful dredger ever built, was launched in Renfrew, Scotland, for service in the construction of the Panama Canal.",
-   "context": [
-    "Corozal was a Scottish-built dredger used on the Panama Canal. The Renfrew-based firm of Messrs. Wm. Simons & Company won a US government tender for its construction in 1911. The vessel was launched in November 1911 and taken into US government service as the US Corozal. It was the most powerful dredger ever built at that time. The Corozal operated on the difficult Culebra Cut, deepening a channel excavated by hand and dynamite. It became the first ship to sail through the cut in December 1913, shortly before the canal opened to traffic. The Corozal was sold to the Arundel Corporation in 1926 and scrapped in 1956."
-   ]
-  },
-  {
-   "ref": "wikipedia#19",
-   "year": 1892,
-   "text": "William Heffelfinger was paid $500 by the Allegheny Athletic Association, becoming the first professional American football player.",
-   "context": [
-    "William Walter \"Pudge\" Heffelfinger, also spelled Hafelfinger, was an American football player and coach. He is considered the greatest lineman of his time, and the first athlete to play American football professionally, having been paid to play in 1892 for the Allegheny Athletic Association."
-   ]
-  },
-  {
-   "ref": "wikipedia#20",
-   "year": 1330,
-   "text": "Led by the voivode Basarab I, Wallachian forces defeated the Hungarian army in an ambush at the Battle of Posada (depicted).",
-   "context": [
-    "Voivode is a title denoting a military leader or warlord in Central, Southeastern and Eastern Europe, in use since the Early Middle Ages. It primarily referred to the medieval rulers of the Romanian-inhabited states and of governors and military commanders of Polish, Hungarian, Lithuanian, Balkan, Russian and other Slavic-speaking populations."
+    "Æthelred II, known as Æthelred the Unready, was King of the English from March 978 to December 1013 and again from February 1014 until his death. The epithet \"Unready\" or \"Unræd\" is a pun on his name in Old English, Æðel (noble) and ræd (counsel). He was the son of King Edgar and Queen Ælfthryth."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Blended rate (שיעור ממוצע משוקלל)",
+  "Growing into your valuation (לצמוח לתוך השווי)",
+  "When the music stops (כשהמוזיקה נפסקת)",
   "Vesting cliff (צוק הבשלה)",
   "Mark-to-market (הערכה לפי שווי שוק)",
   "Drinking the Kool-Aid (לאמץ נרטיב בעיניים עצומות)",
@@ -278,10 +233,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Poison pill (גלולת רעל)",
   "Covenant (אמנת אשראי / תנאי הלוואה)",
   "Take a haircut (לספוג \"תספורת\" / הפחתה בערך)",
-  "Whistle past the graveyard (לשרוק ליד בית הקברות / להתעלם מסכנה גלויה)",
-  "Glut (עודף היצע)",
-  "Front-run (להקדים את המהלך)",
-  "Bagholder (מחזיק השקית)"
+  "Whistle past the graveyard (לשרוק ליד בית הקברות / להתעלם מסכנה גלויה)"
  ]
 }
 </input>

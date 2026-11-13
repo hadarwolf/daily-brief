@@ -1,0 +1,181 @@
+This is a weird moment. I have a hunch that we'll look back later and tell ourselves stories in which it seemed obvious where things were going. So I wanted to lay down a little time capsule and register just how confusing everything felt at the time. This is a personal view from the trenches.
+
+If you're a normal person, you may feel that AI has been good at math for a long time.[1]But for "real" math, this is roughly what it felt like:
+
+Even having been astonished by AI progress in the past, it was still astonishing to see AI move in a matter of months from a mildly-useful toy to something that many people now consider almost impossible to do without.
+
+Personally, I'd say that current AI makes me around 50% more productive at "doing math". That's despite the fact that AI can now often do in a few minutes things that would have taken me hours to do myself.
+
+The main reason is that my concept of "doing math" involves various steps, like coming up with ideas for theorems, trying to prove them, writing things down, reorganizing everything to make it more clear, and so on. AI is good at some parts of this, but still pretty bad at others, so the overall speedup isn't as high as you might expect.
+
+(Even if planes could go 10× faster, your door-to-door travel time from your apartment in London to your friend's place in Rome wouldn't decrease that much, because you still have to get to the airport and wait to board.)
+
+But then, I'm still (sort of; more on this later) trying to follow my old "doing math" workflow, just automating certain parts of it. That can't be right, can it?
+
+If we found a way to make batteries at 1% of the current cost, we wouldn't just say, "cool, batteries are cheap now". We'd find all sorts of new ways to use batteries that didn't make sense before, and change the ways we generate power to account for all these new batteries. Probably our whole energy system would end up transformed. Analogously, AI being good at proofs should lead to a very different equilibrium. But what is that?[2]
+
+It seems healthy, at the moment, to maintain a fluid view of what "doing math" means. But at bare minimum it surely involves understanding the math that "I" am "doing". So long as that's part of the workflow, it would seem to impose a limit on how quickly "I" could "do" math, no matter how good AI is.
+
+One obvious conclusion would be that my tiny organic brain should be removed from the workflow entirely. Maybe! But it's interesting to speculate about how much faster things could go while still keeping a human brain in the loop. I think the answer is: A lot.
+
+Contrary to what you may have heard, humans are not obsolete for math. Not yet. The most obvious reason is that AI is still bad at writing.
+
+People often complain that AI writing overuses various patterns or lacks a unique voice or whatever. I don't disagree, but I always felt like there was a deeper issue that I couldn't quite put my finger on. With math, this becomes very clear: The problem is it doesn't make any goddamned sense.
+
+Really, I think it's deeper than being bad "at writing". It seems like AI is bad at thinking in certain ways that manifest as bad writing.
+
+When novices do math, they often create "spaghetti-code math": Imagine a long document with lots of equations, but if you point at any one equation, it's hard to say what assumptions underpin it, or how it fits into the bigger picture. Any random idea that was mentioned 17 pages ago might be used again at any time with no warning. With experience, people learn to break complex arguments down into modular pieces with a good "API", in the sense that the assumptions and conclusions for each part are relatively simple.
+
+Somehow, AI has developed these amazing technical skills, while still being bad at creating abstractions So the arguments it gives are long and tangled and bewildering. This is what makes AI math seem so alien.
+
+Now I know what you're thinking. Maybe AI isn't bad at creating abstractions. It's just bad at creating abstractions that work for you, human with tiny organic brain.
+
+From a distance, that seems plausible. And it might be true to some degree. I have high-bandwidth access to a human brain. It's not crazy to imagine that this gives me an advantage in predicting how a human brain would react to a given presentation of ideas. But still, I claim that current AI is objectively bad at creating abstractions, regardless of if the consumer of those abstractions is human or artificial.
+
+Here's why: If I ask AI to prove something hard, it will produce a proof that starts simple and gradually descends into a rampage of complexity. If I tell it to break that proof down into self-contained pieces, it will produce lemmas that each take a full page just to state. If I ask, "Why? Why have you done this to me?", the AI will say, "This is as simple as it gets. It's not that bad. What's your problem?"
+
+But if I argue with the AI for a while, I can start to understand the basic contours of the argument. And I'll ask, "Why don't you first just try to prove blah using only assumptions blahblah, without worrying about blahblahblah? Wouldn't that be easier?" Often, this doesn't work, either because my idea was bad, or because the AI isn't smart enough to do it. (Which one? Who knows!) But after a few attempts, I can usually find something that that works, and the AI can use it to re-write the proof in a somewhat simpler way. If I repeat this many times, I can gradually chip away at the complexity.
+
+But maybe that's still just making the proof easier for humans to understand? No! For one, this usually makes the proof shorter, and sometimes dramatically shorter. More importantly, during this process, someone (maybe me, maybe the AI) will often realize that there's a different proof strategy that gives a stronger result. Instead of proving x < 9.7, now we can prove x < 7.1. Thus, artisanal human abstractions are "objectively" useful.
+
+Some people might claim that it's already possible to automate some of what I'm doing with some multi-agent Rube Goldberg thing. I'm not sure, because my experience has been that investing lots of time into clever AGENTS.MD or custom skills or harnesses isn't a great use of time. That stuff is somewhat helpful, but things are changing so fast that the knowledge has a short half-life. Also, the majority of information about these tricks seems to come from people who are excited about the technology itself.
+
+On the other hand, the automator told me to try typing, "ask independent agents for an adversarial review", and I've found those seven words to be quite helpful. I wish I could find a source with boring best practices for people who are happy to stay away from the bleeding edge.
+
+Another reason AI doesn't improve my productivity more is that it is often the green light, the orgastic future that recedes before me. I'll ask AI to do something, and it will almost seem to do it. So I'll ask for changes, and it seems to help, but it's still not quite right. Hours later, I've accomplished nothing and learned nothing. Eventually, I start over, either doing it myself or with AI on a very tight leash, and I'm done in 30 minutes. Each time this happens I feel foolish and tell myself not to do it again. But it's very hard to judge in real-time.
+
+Of course, I'm not claiming that AI is intrinsically bad at writing or thinking or abstraction-making. It's gotten better at all of these and I expect it will continue to do so. All I'm saying is that as of Autumn 2026, humans still have a lot to contribute, and it's not just better exposition.
+
+Did AI actually get much better at math in Autumn 2025? Or perhaps, in the grand scheme of things, human math ability falls into a narrow range?
+
+Some people are responding to the new reality by gleefully using AI to generate lots of semi-OK-ish papers and puking them up on arXiv. I understand the incentives that drive this. In some sense, it seems like the logical response to the new reality. (After inventing cars, we started taking a lot more low-value trips.) But I don't think this is socially useful, and I tend to think everyone will soon agree that this is embarrassing. But… I'm not sure. Maybe it is socially useful? And I find myself feeling vaguely jealous of the people who are wired this way, who instead of feeling blinkered, see opportunity and plunder.
+
+Want an optimistic pro-AI, pro-progress take? OK. If I take my old "doing math" workflow, AI makes it strictly better. A lot better. It's like having a hyper-conscientious intern that is smarter than me in many ways, works at incredible speed, and knows approximately everything.
+
+Yes, AI sucks at writing and making abstractions. But if I'm disciplined and try to mostly do the math "myself" while asking the AI for help, I can explore ideas much faster than before, make far fewer mistakes, and produce something just as clear as before, while developing just as much understanding. I can ask, "What happens if you do a Kofuni expansion?", and get an answer instantly. I can ask for illustrations or interactive visualizations and see them instantly. Arguably, we're incredibly lucky to be alive at this moment, when these new tools have opened up this new territory to explore.
+
+And isn't that what I wanted? Back in 2024, I bemoaned that what AI most seemed to struggle with was getting the facts straight:
+
+Perhaps the old science fiction robots were a projection of our fantasies. I want my style and voice to be precious and uncopyable. I want an AI assistant that will tirelessly hunt down facts while I provide creativity and panache and magic. But that’s not how it is. So we should remember: In a scenario where AI is useful but humans retain some comparative advantage, we might not like where that comparative advantage lies.
+
+At least with math, and at least for the moment, I get to be Kirk, while the AI is Spock. (Even with other types of writing, my impression is that since 2024, AI has improved more along Spock dimensions than along Kirk dimensions.) So that's nice.
+
+In the last few months, it frequently happens that a collaborator will use AI to generate something, and then send it to me and ask me to check if it's useful. I can see why this seems reasonable. (Really, I do.) But when it happens a lot, one can't help but wonder what the point of the human collaborator is.
+
+On the other hand—with creative writing, my advice is not to use AI to write, at all. Ask questions if you want, but write every damned word yourself.[3]With math, I don't feel like such a hard line makes sense. It seems that creating something good still requires a lot of human involvement, to the point of agonizing over notation, repeatedly re-organizing things, and heavily editing individual sentences. Still, I find that if people make that effort, they can create something just as good as they could by hand, while still being perhaps 50% AI written.[4]
+
+So I don't mind if people send me "centaur math", provided they take responsibility for the contents. The problem is that when working with AI, it takes constant paranoid vigilance to avoid letting things slip beyond your understanding. I often find myself wanting to awkwardly ask people, "OK, you obviously used AI to make this… which is OK… but how much of this do you vouch for? If we have a meeting to discuss it, will you crumble the moment I start asking questions?"
+
+When I'm in abstraction-creation mode, I feel like I'm doing something intelligent. When yell at AI about bad notation and writing, I feel like I'm providing taste. But I often find myself giving feedback that seems incredibly basic. Things like: This is a mess, clean it up. Or: Do you need that assumption? Or: If you can't solve this problem, why don't you create a simpler version and try to solve it first?
+
+On the one hand, I guess a lot of what good human managers do amounts to giving very basic feedback. On the other hand, it's hard to imagine that I have much durable advantage in doing this kind of thing. So I wonder how much durable advantage I have in abstraction-making or taste, too.
+
+A common reaction to AI getting better at proofs is that humans need to focus more on exposition. This has an obvious Bourdieu-esque criticism: Human painters used to strongly value photo-realism, but after cameras were invented they convinced everyone that, oops, photo-realism isn't important, what matters is expression, which coincidentally cameras can't do. Isn't a shift towards exposition in math just a way for humans to move the goalposts and justify their own continued relevance?
+
+The only credible way I see to avoid that criticism seems to be to bite the bullet and say that, in fact, math should have already have focused more on exposition, even before AI. Personally, I strongly believe that this is true.
+
+I think the biggest reason I'm not more productive is: What's the point? In the past, if you came up with an elegant proof, you'd tell yourself, "I made a thing! Other people will read and use my thing! I am advancing human progress." You can still tell yourself that now. But you have to wonder, will anyone actually read your proof? Or will they just ask another AI to explain it to them? Will your proof help their AI explain it better? For how long? If you just waited a year, would some other AI produce that same proof independently?
+
+Alternatively, if you're a normal person, you might think that LLMs still struggle with basic arithmetic?
+
+AI progress is so fast, compared to society's ability to adjust, that we may never actually see what "the current equilibrium" looks like.
+
+This essay, if you're wondering, was created by writing every damned word myself and not asking AI anything.
+
+You could have a whole debate about what that percentage means. It's not the number of words written by AI that really matters, in my opinion, so much as who is responsible for the overall structure of the ideas.
+
+When I'm in abstraction-creation mode, I feel like I'm doing something intelligent. When yell at AI about bad notation and writing, I feel like I'm providing taste. But I often find myself giving feedback that seems incredibly basic. Things like: This is a mess, clean it up. Or: Do you need that assumption? Or: If you can't solve this problem, why don't you create a simpler version and try to solve it first?
+
+On the one hand, I guess a lot of what good human managers do amounts to giving very basic feedback. On the other hand, it's hard to imagine that I have much durable advantage in doing this kind of thing.
+
+Well, LLMs being terrible at this harkens back all the way to the olden days of the original Cyborgism whitepaper (February 2023). I remember reading all the same takes and having all the same discussions back then: that LLMs are already basically human-level agents that can work autonomously sans needing periodic basic course-corrections from humans, which will stop being necessary aaaany day now. Yet by all indications LLMs have somehow not really gotten an iota better at this since, despite all their other achievements, in a way that strikes me as almost paradoxical.
+
+So maybe the paradox will persist, and you have until like 2040-2050? ¯\_(ツ)_/¯
+
+IMO, they have gotten quite a bit better, but still suffer from a lack of continual learning that would allow them to course-correct better over long tasks. It's hard to gain new competencies when the experience never flows back into the weights after initial training.
+
+My guess is they haven't gotten better at the underlying skill, they got better at the surrounding skills which camouflages the stagnancy. Like, they haven't gotten better at genuinely "orienting to new situations" (or whatever's missing), they just memorized more patterns regarding what the correct way to orient to a given type of situation is, or something.
+
+⁠the [quasi Riemann] paper “is actually remarkably well-written,” Maynard says. “This doesn’t feel like it’s some impenetrable, incomprehensible proof. … There’s definitely gold here.”
+
+poor Field's medalist, falling into AI psychosis
+
+https://github.com/openai/math/blob/main/preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf
+
+A lot of the individual claims look not that bad to me, although Proposition 5.1 is exactly the kind of insanely-long-and-complicated claim that I find AI often produces.
+
+The quasi-Riemann paper was not written purely by AI, but edited by mathematicians at OpenAI for readability. This is mentioned in the repository's Readme. So it doesn't give serious evidence for any improvement in writing capabilities of LLMs.
+
+Partly what is going on here is that the LLM does not have full access to the context to solve any particular task. The full context lives in the minds of humans, or the collective minds of many humans, or inside some institution.
+
+When you are like 'clean this up'. I always wonder how much of that is "clean it up so it is in line with some context that actually lives in my mind but I forgot to tell you"It's for this reason I don't expect humans to be out of a job, even when ASI hits (until the entire economy is automated). There's too much context inside of human minds that constantly needs to be elicited from you by the LLM through interacting with it.
+
+When you are like 'clean this up'. I always wonder how much of that is "clean it up so it is in line with some context that actually lives in my mind but I forgot to tell you"
+
+Yeah, there's definitely a lot of that. If we had decent BCIs, that would plausibly indeed make strong cyborgism/centaurs work. Like, I think that may actually 10x even my cursed work.
+
+That said, humans don't have telepathy, yet human-to-human collaboration still works better than human-to-LLM. So I don't think it's the whole story, LLMs are genuinely dropping the ball in some ways that humans with just as much context (e. g., a remote-worker subcontractor, communicated-with via pretty sparse, mostly text-only, channels) wouldn't.
+
+I suspect a lot of context lives in the collective minds of humans that is not easily or obviously inferred in a one-to-one sense from all the training data. It's not a one-to-one mapping or many-to-one from training to outcome, there's many ways to interpret the training data that the AI is seeing during training and also tacit knowledge/wisdom. The latter is how I imagine you can have superintelligence but it will still fail to build an EUV machine one-shot because so much context lives in the entire supply chain and it's nowhere written down and it has to go and each and every one of those people and observe very closely what they do, and then try it out iterate and fail.
+
+Human painters used to strongly value photo-realism, but after cameras were invented they convinced everyone that, oops, photo-realism isn't important, what matters is expression, which coincidentally cameras can't do.
+
+It's worth pointing out that photo-realism wasn't always the goal, and indeed we've seen cultures go back-and-forth (valuing realism more, then less, then more), even restricting ourselves to just western history. Classical sculpture is of course renowned for its realism and naturalistic focus, traits which are still evident in art dating to the Principate.
+
+Yet by the time of the Dominate it becomes much harder to find such depictions, with the pieces we do have tending towards a much more 'brutish' looking, even simplistic, form of depiction that to many modern viewers looks rather ugly in comparison.
+
+A common explanation is that as the Roman Empire 'declined', the skills to produce such masterworks were lost, and so these forms were the best that they could do. But that wasn't the case at all: while I won't link any here, we still do have 'realistic' examples from that period, and even much later (e.g. the highly detailed sculptures of saints on various baroque cathedrals). Rather, the historical consensus is that this change represents a change in what the artists (or rather, the people commissioning them) were trying to communicate, and a change in the expectations of the people viewing it. The Augustus of Prima Porta above wants you to think of Augustus as the ideal ruler, as represented by the classical ideal: perfect youth suggests divine favor, poise shows self-mastery, and the breastplate signals military command. Basically he's supposed to be the 'perfect man'.
+
+The Colossus of Constantine does the same thing, but using a very different approach. The scale, blocky features, humongous eyes, and solid pose instead suggest someone 'greater than life', entirely set apart from his subjects in a way Augustus did not attempt to convey. And looking further back, the Augustus of Prima Porta deviated from earlier artistic norms by failing to convey age, which was the conventional symbol of wisdom and thus ability-to-rule in Republican art.
+
+This is all a long way of saying that realism isn't and has never been the only ideal in art. Obviously there's some element of cope in people saying "we don't care about that anyways!" with the advent of photography, but I think that that would be a poor explanation in isolation. I could say more about how this is relevant to AI art but perhaps another time.
+
+Thank you for sharing! It's very strange that AIs are as good as they are at proofs but as bad as they are at writing. Naively, you'd think that since their mathematical abilities originate in the work of human mathematicians in the pre-training corpus, that their abilities to develop proofs and their ability to layout their proofs in a human understandable way would scale together. One suggestive thing is that AIs are generally very good at understanding other AI's spaghetti writing which is super weird. It is almost like they are developing a sloppy but consistent style of writing that is very different and very repellent to humans. Naively, as an outsider, this seems to me to be the tail tail sign of using a lot of synthetic data in pre-training. Like, I wonder if to improve the mathematical abilities of models, the frontier companies are including a lot of AI slop mathematics in the training data. I can guess that perhaps that would increase the mathematical ability of models but decrease the model's ability to describe its proofs in a human friendly way. It might also explain why AIs are so good at understanding AI slop.
+
+The way I make sense of it is by keeping in mind how tiny our human working memory is. We struggle to keep more than a handful of things in mind at a time. As a result, we have to do all kinds of chunking and abstraction tricks to understand complicated things, so we're essentially forced to make things more elegant to understand them. Machines are far less limited in this way. They can hold far more detail and context in working memory, which allows them to follow the spaghetti we cannot without expending excessive mental effort. As an analogy, compare how easy it is for a human versus a machine to interpret a QR code.
+
+do you ever tell the LLM explicitly to minimize total proof length (in English or Lean)? (including definitions to avoid game playing that way - although there is a case where a model exploited a Lean kernel bug to get the requested result because it was easier than solving the problem).
+
+I've tried (for proofs in English) without much success. It mostly seems to just sort of semi-randomly remove details rather than finding ways to simplify the argument itself, it that makes sense? That doesn't mean it can't be made to work! My intuition is that this might work better in Lean, though Goodharting would be a natural concern...
+
+definitely if you train on it. it's just something measurable to point in a direction or show absolutely no effect. trying to conceive a metric for "good" abstraction is like trying to conceive a metric for beauty. you haven't quite convinced me that the LLM abstraction isn't just "human-bad."
+
+you know working on a worthy problem is like inventing a new language. LLMs might do the same but just have the same translation problems as they do with every other language pair (novel problem language, English or rather the mathematicese dialect thereof).
+
+have you read any reviews of the Lean formalization of Navier-Stokes? I wonder if it is pretty or a tangle.
+
+I really have no idea how to judge this: https://github.com/openai/NavierStokesAndEuler/tree/main/NavierStokes
+
+It looks extremely tangled to me, compared to these human-curated proofs. But Navier-Stokes blowup is itself a very complicated thing.
+
+I'd conjecture (just based on my own experience) that it's possible to make that Navier-Stokes formalization much nicer. But not confident at all.
+
+Contrary to what you may have heard, humans are not obsolete for math. Not yet. The most obvious reason is that AI is still bad at writing.
+
+My question is - what about when they are. That is, if LLMs become better at writing mathematics articles than humans in all respects. To me this is the urgent point that requires consideration. I feel that we are reacting to partial stages on the way to that one and so are always reactive and behind the game.
+
+then ... well, we have been playing on the shore of a vast ocean. the ocean voyaging ship has been invented. get a ship and set sail. explore unknown lands.
+
+but safety first. please help characterize and formalize (AI) mindspace so we can mitigate x-risk. this is the actual urgent priority since it really should be in place before recursive self-improvement begins. https://resolution.org/ is working on this.
+
+Could you clarify your intention here? You appear to me to be being poetically opaque. On a site dedicated to rational thought and expression, no less. Are you saying you expect some kind of transcendence? AI going off on its own is not a human adventure.
+
+It seems very important to figure out the degree to which AIs can think, and the degree to which they help with human thought, and how exactly to leverage that if you're trying to do serious intellectual work.
+
+I have a somewhat different relationship to the final few questions than Dynomight does, where I don't particularly care about whether "mathematicians have a job/cultural-relevance", and instead just, like, ya know, get superalignment or various other intellectual problems solved, correctly.
+
+I think we are still in the stage where exposition is a meaningful bottleneck. There may come a time where AIs are perfectly good at that too. I think the step where "a human actually understands the final result and would be able to tell if it was either incorrect, or missing something important, or not actually useful" will continue being important for applied work.
+
+But, I appreciated this as a fairly in-depth report from someone who seems to both be trying to use AIs to do real work, with a fair amount of introspective and surrounding detail.
+
+But maybe that's still just making the proof easier for humans to understand? No! For one, this usually makes the proof shorter, and sometimes dramatically shorter. More importantly, during this process, someone (maybe me, maybe the AI) will often realize that there's a different proof strategy that gives a stronger result. Instead of proving x < 9.7, now we can prove x < 7.1. Thus, artisanal human abstractions are "objectively" useful.
+
+It seems to me that making the AI do reinforcement learning on actually creating working proofs was the sensible first step for doing reinforcement learning.
+
+Making them do reinforcement learning to make the proofs shorter should also be easy to do if they just throw compute at the problem given that proof complexity and length are variables you can automatically measure.
+
+Apologies, seems to have confused a lot of people, it's just a placeholder for some kind of generic mathematical transformation.
+
+I liked your point that AI has improved more in a Spock-like direction than a Kirk-like direction. I suspect this will continue, since the only algorithm we have for achieving superhuman performance is RLVR, and only really possible on Spock-like tasks.
+
+RLHF which relies on human labels will likely asymptote-out just below the capabilities of the average human providing feedback.

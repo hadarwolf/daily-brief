@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is philosophy. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -28,73 +28,85 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
-     "title": "Decoding Ediacaran fossils",
-     "published": "2026-11-11T11:01:00+00:00",
-     "summary": "Ancient specimens reveal how animals began to move half a billion years ago – and even the first known example of ‘handedness’ - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_0.txt"
+     "title": "My grandfather been tell me a lot of story about Lasseter",
+     "published": "2026-11-12T11:01:00+00:00",
+     "summary": "A strange man on camelback – the artist Nora Abbott retells her grandfather’s story of a prospector’s last ride - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#1",
+     "title": "Why anything exists",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on Aeon",
+     "full_text_file": "essays/aeon_1.txt"
+    },
+    {
+     "ref": "aeon#2",
+     "title": "Decoding Ediacaran fossils",
+     "published": "2026-11-11T11:01:00+00:00",
+     "summary": "Ancient specimens reveal how animals began to move half a billion years ago – and even the first known example of ‘handedness’ - by Aeon Video Watch on Aeon"
+    },
+    {
+     "ref": "aeon#3",
      "title": "The wholehearted life",
      "published": "2026-11-10T11:00:00+00:00",
      "summary": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#4",
      "title": "A trip to upside-down world",
      "published": "2026-11-09T11:01:00+00:00",
      "summary": "Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#5",
      "title": "Equality talk",
      "published": "2026-11-09T11:00:00+00:00",
      "summary": "In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#6",
      "title": "Celestial nuisance",
      "published": "2026-11-06T11:00:00+00:00",
      "summary": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#7",
      "title": "Their eyes",
      "published": "2026-11-05T11:01:00+00:00",
      "summary": "In Kenya, the Philippines and Venezuela, low-paid labour fuels the driverless future of the Global North - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#8",
      "title": "Methodical/mercurial",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "I need order and routine – just as much as I crave excitement and variety. What’s life like with both autism and ADHD? - by Sarah Hendrickx Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#9",
      "title": "Like aliens",
      "published": "2026-11-04T11:01:00+00:00",
      "summary": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#10",
      "title": "Believing and thinking",
      "published": "2026-11-03T11:00:00+00:00",
      "summary": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think - by Neil Van Leeuwen & Jacob Eisler Read on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#11",
      "title": "Jo Marchant: In search of now",
      "published": "2026-11-02T11:01:00+00:00",
      "summary": "What is ‘now’? Through physics via philosophy and psychology, discover the science and mystery of the present moment - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#12",
      "title": "The self-making world",
      "published": "2026-11-02T11:00:00+00:00",
      "summary": "Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback - by Jessica Riskin Read on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#13",
      "title": "In praise of the dilettante",
      "published": "2026-10-30T10:00:00+00:00",
      "summary": "A wayfaring cosmopolitan who never gets stuck, the dilettante is the right anti-hero for our hyper-specialised age - by Jay Miller Read on Aeon"
@@ -107,18 +119,25 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "lesswrong_curated#0",
+     "title": "Scattered thoughts on how doing math feels these days",
+     "published": "2026-11-13T01:10:37+00:00",
+     "summary": "This is a weird moment. I have a hunch that we'll look back later and tell ourselves stories in which it seemed obvious where things were going. So I wanted to lay down a little time capsule and register just how confusing everything felt at the time. This is a personal view from the trenches. 1. If you're a normal person, you may feel that AI has been good at math for a long time. [1] But for \"re",
+     "full_text_file": "essays/lesswrong_curated_0.txt"
+    },
+    {
+     "ref": "lesswrong_curated#1",
      "title": "Some Memories of Early Anthropic",
      "published": "2026-11-08T21:51:27+00:00",
      "summary": "The following events took place between October 2022 and May 2023. I wrote very little of this down at the time so am recalling from memory, and am rendering the gist of the dialogue rather than the exact words used. I’ve also swapped some pronouns and other personal identifiable details. Please remember that this is not a description of “what Anthropic is like”, but merely the experience of one g"
     },
     {
-     "ref": "lesswrong_curated#1",
+     "ref": "lesswrong_curated#2",
      "title": "Towards understanding score-seeking in LLMs",
      "published": "2026-11-06T03:19:36+00:00",
      "summary": "The field of AI alignment understands surprisingly little about the details of AIs’ current misaligned motivations. Production LLMs sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended [1] , and we've recently seen AIs reward-hack in some particularly egregious ways. But we don't really understand what motivates them. When AIs reward-hack, wh"
     },
     {
-     "ref": "lesswrong_curated#2",
+     "ref": "lesswrong_curated#3",
      "title": "Quantity vs quality in pottery is a lie",
      "published": "2026-11-03T03:29:41+00:00",
      "summary": "Epistemic status: I traced one famous anecdote to its printed source and to both coauthors' own accounts of where it came from. Confident it was never a study. No claim either way about whether quantity beats quality in general. AI use: research (tracing the story to the book, to the coauthors' emails and to earlier LessWrong threads), fact-check of every claim against the sources, footnotes, gram"
@@ -131,93 +150,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "My Barcelona talk on AI",
+     "published": "2026-11-12T18:47:51+00:00",
+     "summary": "The post My Barcelona talk on AI appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Thursday assorted links",
+     "published": "2026-11-12T17:21:52+00:00",
+     "summary": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French person believes there are 6.4 workers for every retiree. The real number is about 1.8.” 4. Sulfuric acid as a basic […] The post Thursday assorted links appeared first on Marginal R"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "The Everywhere Rent Seekers",
+     "published": "2026-11-12T12:18:57+00:00",
+     "summary": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention given to (some days) trillionaires and billionaires, the combined wealth of the Everywhere Millionaires, the dentists, the car dealers, the […] The post The Everywhere Rent Seekers a"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "USG assets are worth less than Arnold Kling had thought",
      "published": "2026-11-12T08:01:35+00:00",
      "summary": "Federal oil and gas rights are worth about $625 billion on the paper’s own method, down 75% in real terms since 1981. Federal land has gone the other way, to roughly $1.1 trillion to $1.6 trillion. Land, not minerals, is now the larger asset. Here is the full post. The post USG assets are worth less than Arnold Kling had thought appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#4",
      "title": "My excellent Conversation with Terence Tao",
      "published": "2026-11-12T05:44:38+00:00",
      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s incompleteness theorem, before moving into why mathematical history gets stripped out of classrooms, whether abstract math is a lottery ticket or […] The post My excellent Conversation"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#5",
      "title": "Richard Posner, RIP…",
      "published": "2026-11-11T22:57:43+00:00",
      "summary": "One of the greats. The post Richard Posner, RIP… appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#6",
      "title": "Experimentally validated digital twins",
      "published": "2026-11-11T19:12:56+00:00",
      "summary": "There is a new paper by Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter, and James Reisinger: Modern program evaluation prioritizes evidence from randomized controlled trials (RCTs) because prior research found that observational estimates of program impacts often diverge substantially from experimental benchmarks. We revisit this finding — which was based on […] The post Exp"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#7",
      "title": "Wednesday assorted links",
      "published": "2026-11-11T17:28:55+00:00",
      "summary": "1. “We were discussing this today in office: future paper is 5 pages (what’s question, where is lit now very briefly, what do we do, what do we find), with all details left to a long appendix, hyperlinked, with rigorous AI review. We would read many more papers in that world! Agree?” Kevin Bryan. 2. […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#8",
      "title": "What should I ask Simon Sebag Montefiore?",
      "published": "2026-11-11T13:55:24+00:00",
      "summary": "I will be doing a Conversation with him, most of all about his new and very good book The Cauldron: The Making of the Modern Middle East. He has many other excellent books too, including on Russian history and some fiction. Here is his home page, here is his Wikipedia page. So what should I […] The post What should I ask Simon Sebag Montefiore? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#9",
      "title": "UK fact of the day",
      "published": "2026-11-11T07:51:15+00:00",
      "summary": "UK panel data, 1991-2019. Couples who support different parties separate more often. The effect is as strong as some other mismatches, like education. Disagreement over Brexit mattered even more than party preference. Here is a longer Nikolaus Haufler thread on European fertility, with a variety of interesting observations about other countries. The post UK fact of the day appeared first on Margin"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#10",
      "title": "Spying makes a comeback",
      "published": "2026-11-11T05:55:45+00:00",
      "summary": "That is the theme of my latest Free Press article, here is one excerpt: It may look like merely the latest story of a wealthy, powerful man making an irresponsible decision. But below the surface, it is also a harbinger of the erosion of privacy today, as well as the acceleration of espionage and the […] The post Spying makes a comeback appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#11",
      "title": "Are RCTs underpowered?",
      "published": "2026-11-10T20:05:26+00:00",
      "summary": "Maybe so: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark of 2.8 expected under 80 percent power, though above values […] The post"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#12",
      "title": "Tuesday assorted links",
      "published": "2026-11-10T16:50:08+00:00",
      "summary": "1. AI as a normal technology. 2. Hayek for our time, by Cass Sunstein, free download for two weeks. 3. Works in Progress is looking for business and finance writers. 4. Matthew Lilley on Harvard grad students. I believe they teach the permanent income hypothesis there? 5. Ethan Mollick on Fable 5.2. 6. John Cochrane […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#13",
      "title": "Checking the AI audit of Saez and Zucman’s research.",
      "published": "2026-11-10T11:32:14+00:00",
      "summary": "From SaneCite: We checked the anonymous AI audit of Emmanuel Saez and Gabriel Zucman’s research that Marginal Revolution featured on 28 Oct: all 147 problems it calls serious enough to change a headline number, against the papers, their sources and the authors’ own data. The audit’s facts hold up: for 131 of the 147, every […] The post Checking the AI audit of Saez and Zucman’s research. appeared "
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#14",
      "title": "*Godzilla: Minus Zero* (no spoilers)",
      "published": "2026-11-10T08:24:18+00:00",
      "summary": "This is a morally serious movie (really). And Ghidorah stars! The whole thing is about twenty minutes too long, but mostly very good. And like many in the Godzilla series, it offers extended and instructive commentary on American-Japanese relations, and how the Japanese view them. Not for everyone, but I am glad I went. The post *Godzilla: Minus Zero* (no spoilers) appeared first on Marginal REVOL"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "*Unbeatable: The Brutally Honest Case for Free Markets*",
-     "published": "2026-11-10T05:39:10+00:00",
-     "summary": "That is the new and forthcoming book from Bryan Caplan, University of Chicago Press. Excerpt: Real-world free markets deliver one broad benefit that flies under the radar of economic theory: They shield humanity from its own Social Desirability Bias. Markets do the good things that sounds bad. Good things like driving incompetent, unresponsive, and obsolete […] The post *Unbeatable: The Brutally H"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Monday assorted links",
-     "published": "2026-11-09T17:42:35+00:00",
-     "summary": "1. What WWII looked like, four and a half minute video. 2. Intellectual Deep Web, YouTube channel. 3. Complete works of Schelling, and no I do not mean Thomas. 4. What the French Left is proposing. 5. How much AI could the CEA manage? 6. Douthat! 7. Andrew Maxfield, Stations of the Cross, vocal music. The post Monday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "End the State Veto on Power Lines",
-     "published": "2026-11-09T12:18:45+00:00",
-     "summary": "It’s one of the peculiarities of American regulatory history that a natural gas pipeline can cross state lines with a single federal permit, but oil and electricity must run a gauntlet of state approvals. When a power line crosses one state to reach another, for example, the intervening state often imposes exorbitant tolls or, worse, […] The post End the State Veto on Power Lines appeared first on"
     }
    ]
   },
@@ -227,79 +246,92 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "Why ‘patient influencers’ should come with a health warning",
-     "published": "2026-11-11T11:00:00+00:00",
-     "summary": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity - by Zoe Cunniffe Read on Psyche",
+     "title": "Eye on the mark",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
+     "full_text_file": "essays/psyche_1.txt"
+    },
+    {
+     "ref": "psyche#2",
+     "title": "Why ‘patient influencers’ should come with a health warning",
+     "published": "2026-11-11T11:00:00+00:00",
+     "summary": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity - by Zoe Cunniffe Read on Psyche"
+    },
+    {
+     "ref": "psyche#3",
      "title": "Passersby",
      "published": "2026-11-10T11:01:00+00:00",
      "summary": "This expansive portrait of Los Angeles shows that the heart of a city is its people – with all their quirks and charms - Directed by Sue Ding and Sarah Garrahan Watch on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#4",
      "title": "How to help someone whose thinking seems delusional",
      "published": "2026-11-10T11:00:00+00:00",
      "summary": "If their beliefs appear strange and fixed, you don’t need to prove them wrong. A clinical psychologist shows a gentler way - by Laura Yoviene Sykes Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#5",
      "title": "The ethics of having a good time at Disney World, Florida",
      "published": "2026-11-09T11:00:00+00:00",
      "summary": "Is the value of the universalist experience undermined by the profit-hungry global corporation behind the theme parks? - by Adam Kadlac Read on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#6",
      "title": "How to break a bad habit",
      "published": "2026-11-06T11:01:00+00:00",
      "summary": "Feel stuck with a habit you know is bad for you? Getting to know your brain better could help you change the narrative - Video by Dr Tracey Marks Watch on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#7",
      "title": "How to take notes that actually help you learn",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#8",
      "title": "Who am I if I don’t run?",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#9",
      "title": "Baby heaven",
      "published": "2026-11-04T11:00:00+00:00",
      "summary": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#10",
      "title": "Orbites",
      "published": "2026-11-03T11:01:00+00:00",
      "summary": "‘Imagining is another kind of seeing’: immerse in the exquisite sensory world of a woman with impaired vision - Directed by Sarah Seené Watch on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#11",
      "title": "That feeling of values crumbling has a name: civic grief",
      "published": "2026-11-03T11:00:00+00:00",
      "summary": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche"
     },
     {
-     "ref": "psyche#10",
+     "ref": "psyche#12",
      "title": "How psychology’s classic studies misled us about the self",
      "published": "2026-11-02T11:00:00+00:00",
      "summary": "Milgram, Zimbardo and recent priming studies suggested we’re highly malleable. They underestimated how stable we really are - by Jack W Klein & William B Swann Read on Psyche"
     },
     {
-     "ref": "psyche#11",
+     "ref": "psyche#13",
      "title": "The power of pareidolia",
      "published": "2026-10-30T10:01:00+00:00",
      "summary": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche"
     },
     {
-     "ref": "psyche#12",
+     "ref": "psyche#14",
      "title": "‘Heroes work here’: why I quit being an ER nurse",
      "published": "2026-10-30T10:00:00+00:00",
      "summary": "Spitting, swearing regulars at a Chicago ER opened my mind. Then came the COVID-19 deniers - by Anita Lambert Read on Psyche"
@@ -312,39 +344,41 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "quanta#0",
-     "title": "How a Metabolic Spark Could Have Jump-Started Life",
-     "published": "2026-11-11T15:10:30+00:00",
-     "summary": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have Jump-Started Life first appeared on Quanta Magazine",
+     "title": "Can Network Science Transform Health and Nutrition?",
+     "published": "2026-11-12T19:40:54+00:00",
+     "summary": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food. The post Can Network Science Transform Health and Nutrition? first appeared on Quanta Magazine",
      "full_text_file": "essays/quanta_0.txt"
     },
     {
      "ref": "quanta#1",
-     "title": "The Case for a Bubble at Life’s Start",
-     "published": "2026-11-10T15:08:35+00:00",
-     "summary": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather. The post The Case for a Bubble at Life’s Start first appeared on Quanta Magazine"
+     "title": "A New Era for the Dawn of Life",
+     "published": "2026-11-12T16:20:28+00:00",
+     "summary": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life. The post A New Era for the Dawn of Life first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#2",
-     "title": "Did Life Begin in an RNA World?",
-     "published": "2026-11-09T15:20:29+00:00",
-     "summary": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine"
+     "title": "The Evolving Story of How Chemistry Became Biology",
+     "published": "2026-11-12T15:45:27+00:00",
+     "summary": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be. The post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine",
+     "full_text_file": "essays/quanta_2.txt"
     },
     {
      "ref": "quanta#3",
-     "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
-     "published": "2026-11-06T15:48:54+00:00",
-     "summary": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine"
+     "title": "How a Metabolic Spark Could Have Jump-Started Life",
+     "published": "2026-11-11T15:10:30+00:00",
+     "summary": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have Jump-Started Life first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#4",
-     "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-     "published": "2026-11-04T15:32:52+00:00",
-     "summary": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on Quanta Magazine"
+     "title": "The Case for a Bubble at Life’s Start",
+     "published": "2026-11-10T15:08:35+00:00",
+     "summary": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather. The post The Case for a Bubble at Life’s Start first appeared on Quanta Magazine"
     }
    ]
   }
  ],
  "recently_featured": [
+  "The Hidden Cost of 'Patient Influencers': How Watching Others' Symptoms Online Can Give You Them",
   "Before DNA, Life May Have Needed a Bubble",
   "Life May Have Begun as Self-Copying RNA — and It's Easier to Make Than We Thought",
   "An Anonymous Ex-Anthropic Employee on How Fear, Not Conviction, Kept Him There for Eight Months",
@@ -373,8 +407,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "AI Benchmarks Have Been Broken Since 1959 — and Progress Happened Anyway",
   "Why 'Just Try Harder' Misunderstands Motivation — It's a Hidden Cost-Benefit Calculation, Not a Fuel Tank",
   "The Cat-Belling Problem: Why Ambitious Plans Fail at the One Step Nobody Can Do",
-  "We Were Never Machines: Why Offloading Navigation, Writing and Attention to Technology Is Eroding the Body's Own Intelligence",
-  "Is 'Attention' the Essence of Intelligence?"
+  "We Were Never Machines: Why Offloading Navigation, Writing and Attention to Technology Is Eroding the Body's Own Intelligence"
  ]
 }
 </input>
