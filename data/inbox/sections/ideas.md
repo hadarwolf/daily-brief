@@ -104,12 +104,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "The self-making world",
      "published": "2026-11-02T11:00:00+00:00",
      "summary": "Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback - by Jessica Riskin Read on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "In praise of the dilettante",
-     "published": "2026-10-30T10:00:00+00:00",
-     "summary": "A wayfaring cosmopolitan who never gets stuck, the dilettante is the right anti-hero for our hyper-specialised age - by Jay Miller Read on Aeon"
     }
    ]
   },
@@ -246,16 +240,16 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "Eye on the mark",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
      "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche",
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
-     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
+     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
     },
     {
      "ref": "psyche#2",
@@ -322,18 +316,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "How psychology’s classic studies misled us about the self",
      "published": "2026-11-02T11:00:00+00:00",
      "summary": "Milgram, Zimbardo and recent priming studies suggested we’re highly malleable. They underestimated how stable we really are - by Jack W Klein & William B Swann Read on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "The power of pareidolia",
-     "published": "2026-10-30T10:01:00+00:00",
-     "summary": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche"
-    },
-    {
-     "ref": "psyche#14",
-     "title": "‘Heroes work here’: why I quit being an ER nurse",
-     "published": "2026-10-30T10:00:00+00:00",
-     "summary": "Spitting, swearing regulars at a Chicago ER opened my mind. Then came the COVID-19 deniers - by Anita Lambert Read on Psyche"
     }
    ]
   },

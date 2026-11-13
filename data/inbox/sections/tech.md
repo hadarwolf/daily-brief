@@ -221,12 +221,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה",
      "published": "2026-11-11T12:34:46+00:00",
      "summary": "יצרנית ה-LiDAR הישראלית Innoviz מראש העין הכריזה היום (ד') על מהלך פיטורים חריג, שבמסגרתו היא צפויה להיפרד מרבע ממצבת כוח האדם שלה – כ-90 עובדים בסך הכל. זה סבב הפיטורים השלישי של החברה בשלוש השנים האחרונות, כאשר בתחילת 2024 פיטרה עשרות עובדים – שהם 13% מכוח האדם שלה. בתחילת השנה שעברה הכריזה אינוויז על סבב […] The post חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#13",
-     "title": "הקרב על הצופים בישראל: דיסני מכריזה על מבצע ל-Disney+",
-     "published": "2026-11-11T10:17:41+00:00",
-     "summary": "רגע לפני סוף 2026, דיסני+ יוצאת במבצע חדש כדי לנסות לגייס מנויים חדשים בישראל, ועל הדרך גם לפתות אולי מנויים נוטשים לחזור לשירות הסטרימינג שלה. אל תשכחו לשים תזכורת החל מהיום (ד') ועד ה-24 בנובמבר, החברה מציעה למצטרפים חדשים וחוזרים את המינוי שלה במחיר של 34.90 שקלים לחודש למשך חודשיים. לאחר תום תקופת ההטבה, התשלום […] The post הקרב על הצופים בישראל: דיסני מכריזה על מבצע ל-Disney+ appeared first o"
     }
    ]
   },
@@ -238,115 +232,115 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Microsoft Outlook/365 still down after 12 hours",
      "published": "2026-11-13T05:08:23+00:00",
-     "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 229 # Comments: 129"
+     "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 305 # Comments: 202"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "IceWM",
      "published": "2026-11-13T04:54:53+00:00",
-     "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 160 # Comments: 83"
+     "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 182 # Comments: 92"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Nvidia employees petition to bring back Jensen Huang",
      "published": "2026-11-13T02:16:24+00:00",
-     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 567 # Comments: 405"
+     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 599 # Comments: 446"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "published": "2026-11-12T23:06:17+00:00",
-     "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 238 # Comments: 71"
+     "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 255 # Comments: 72"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Foundation Models framework",
      "published": "2026-11-12T21:13:26+00:00",
-     "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 209 # Comments: 27"
+     "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 215 # Comments: 31"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
      "published": "2026-11-12T19:51:33+00:00",
-     "summary": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 268 # Comments: 277"
+     "summary": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 287 # Comments: 297"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "published": "2026-11-12T19:05:33+00:00",
-     "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 302 # Comments: 127"
+     "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 317 # Comments: 129"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "published": "2026-11-12T18:52:01+00:00",
-     "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 414 # Comments: 112"
+     "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 420 # Comments: 115"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Rust 1.100",
      "published": "2026-11-12T18:39:05+00:00",
-     "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 671 # Comments: 254"
+     "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 692 # Comments: 260"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
      "published": "2026-11-12T18:22:22+00:00",
-     "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 193 # Comments: 37"
+     "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 195 # Comments: 38"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Service degradation on Microsoft 365",
      "published": "2026-11-12T18:20:48+00:00",
-     "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 871 # Comments: 770"
+     "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 901 # Comments: 784"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Gemini 4 Hydrogen",
      "published": "2026-11-12T18:01:48+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 528 # Comments: 331"
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 531 # Comments: 333"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "published": "2026-11-12T17:02:42+00:00",
-     "summary": "https://x.com/simpsoka/status/2115254318161182876 Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 516 # Comments: 181"
+     "summary": "https://x.com/simpsoka/status/2115254318161182876 Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 532 # Comments: 183"
     },
     {
      "ref": "hn_frontpage#13",
      "title": "I'm making LLMs work on small and old devices",
      "published": "2026-11-12T15:23:10+00:00",
-     "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 364 # Comments: 129"
+     "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 377 # Comments: 134"
     },
     {
      "ref": "hn_frontpage#14",
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "published": "2026-11-12T14:18:49+00:00",
-     "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 271 # Comments: 99"
+     "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 274 # Comments: 101"
     },
     {
      "ref": "hn_frontpage#15",
      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
      "published": "2026-11-12T14:12:37+00:00",
-     "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 216 # Comments: 5"
+     "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 219 # Comments: 5"
     },
     {
      "ref": "hn_frontpage#16",
      "title": "Jensen Huang resigns",
      "published": "2026-11-12T13:52:29+00:00",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens... Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 3526 # Comments: 3120"
+     "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens... Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 3582 # Comments: 3148"
     },
     {
      "ref": "hn_frontpage#17",
      "title": "Anthropic IPO",
      "published": "2026-11-12T11:46:41+00:00",
-     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 925 # Comments: 863"
+     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 938 # Comments: 869"
     },
     {
      "ref": "hn_frontpage#18",
      "title": "Relax: JIT compiler for Rust to reduce build times",
      "published": "2026-11-11T21:20:01+00:00",
-     "summary": "Article URL: https://makepad.github.io/relax/ Comments URL: https://news.ycombinator.com/item?id=50458849 Points: 158 # Comments: 73"
+     "summary": "Article URL: https://makepad.github.io/relax/ Comments URL: https://news.ycombinator.com/item?id=50458849 Points: 163 # Comments: 74"
     }
    ]
   },
@@ -392,36 +386,48 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "mit_tech_review#0",
+     "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+     "published": "2026-11-13T10:00:00+00:00",
+     "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…"
+    },
+    {
+     "ref": "mit_tech_review#1",
+     "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+     "published": "2026-11-13T10:00:00+00:00",
+     "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…"
+    },
+    {
+     "ref": "mit_tech_review#2",
      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
      "published": "2026-11-12T20:16:24+00:00",
      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…"
     },
     {
-     "ref": "mit_tech_review#1",
+     "ref": "mit_tech_review#3",
      "title": "The Download: COP31’s climate challenge and the quest for immortality",
      "published": "2026-11-12T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…"
     },
     {
-     "ref": "mit_tech_review#2",
+     "ref": "mit_tech_review#4",
      "title": "What to know about this year’s UN climate talks",
      "published": "2026-11-11T17:00:00+00:00",
      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this…"
     },
     {
-     "ref": "mit_tech_review#3",
+     "ref": "mit_tech_review#5",
      "title": "The Download: preserving minds and weighing open AI risks",
      "published": "2026-11-11T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…"
     },
     {
-     "ref": "mit_tech_review#4",
+     "ref": "mit_tech_review#6",
      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
      "published": "2026-11-10T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…"
     },
     {
-     "ref": "mit_tech_review#5",
+     "ref": "mit_tech_review#7",
      "title": "Evolving metal extraction processes",
      "published": "2026-11-10T13:00:00+00:00",
      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems…"
