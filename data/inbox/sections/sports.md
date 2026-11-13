@@ -736,63 +736,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#15",
-     "title": "Messi shortlisted for third consecutive MLS MVP award - Punch Newspapers",
-     "published": "2026-11-12T20:26:20+00:00",
-     "summary": "Messi shortlisted for third consecutive MLS MVP award Punch Newspapers"
-    },
-    {
-     "ref": "gnews_inter_miami#16",
      "title": "MLS Cup: Why each Eastern Conference playoff team will (or won't) win it all - Yahoo Sports",
      "published": "2026-11-12T20:16:00+00:00",
      "summary": "MLS Cup: Why each Eastern Conference playoff team will (or won't) win it all Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Vancouver Whitecaps up for two MLS year-end awards, Messi finalist for MVP - TSN",
      "published": "2026-11-12T19:52:44+00:00",
      "summary": "Vancouver Whitecaps up for two MLS year-end awards, Messi finalist for MVP TSN"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Lionel Messi could achieve incredible MLS record no player has ever reached after dominant 2026 Inter Miami... - World Soccer Talk",
      "published": "2026-11-12T18:59:02+00:00",
      "summary": "Lionel Messi could achieve incredible MLS record no player has ever reached after dominant 2026 Inter Miami... World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Hip-Hop Albums & Songs Dropping Tonight, November 13, 2026 - HotNewHipHop",
      "published": "2026-11-12T18:45:00+00:00",
      "summary": "Hip-Hop Albums & Songs Dropping Tonight, November 13, 2026 HotNewHipHop"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Telasco Segovia Amongst Finalists for 2026 MLS Humanitarian of the Year - Inter Miami CF",
      "published": "2026-11-12T18:24:51+00:00",
      "summary": "Telasco Segovia Amongst Finalists for 2026 MLS Humanitarian of the Year Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Tradeify becomes Inter Miami CF’s Official Trading Partner - LeapRate",
      "published": "2026-11-12T18:18:34+00:00",
      "summary": "Tradeify becomes Inter Miami CF’s Official Trading Partner LeapRate"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Leo Messi Amongst Finalists for 2026 Landon Donovan MLS MVP Award - Inter Miami CF",
      "published": "2026-11-12T18:04:51+00:00",
      "summary": "Leo Messi Amongst Finalists for 2026 Landon Donovan MLS MVP Award Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Tradeify scores Inter Miami CF partnership - Bdaily",
      "published": "2026-11-12T17:49:45+00:00",
      "summary": "Tradeify scores Inter Miami CF partnership Bdaily"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "🏝️⚽️ OPEN GOAL x MIAMI TAKEOVER | Slaney’s Inter Miami Vlog To See Messi & To PLAY At Nu Stadium! 🤯 - Celtic news now - Celtic FC News",
      "published": "2026-11-12T17:40:51+00:00",
      "summary": "🏝️⚽️ OPEN GOAL x MIAMI TAKEOVER | Slaney’s Inter Miami Vlog To See Messi & To PLAY At Nu Stadium! 🤯 Celtic news now - Celtic FC News"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Lionel Messi Effect Shatters MLS Attendance Records as Inter Miami Dominates 2026 - Yahoo Sports",
+     "published": "2026-11-12T16:52:52+00:00",
+     "summary": "Lionel Messi Effect Shatters MLS Attendance Records as Inter Miami Dominates 2026 Yahoo Sports"
     }
    ]
   },

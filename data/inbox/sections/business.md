@@ -18,93 +18,93 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Indonesian Stocks Set for Best Week Since June on Foreign Buying",
-     "published": "2026-11-13T09:17:11+00:00",
-     "summary": "Indonesia’s stocks are heading for their best week since mid-June as foreign investors tiptoed back into the market after months of selling."
+     "title": "Brasília em Off",
+     "published": "2026-11-13T09:36:50+00:00",
+     "summary": "Martha Beck conta sobre os cotados para a Fazenda e a Casa Civil no quarto mandato do presidente Lula. Com edição de Patricia Xavier. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#1",
+     "title": "Indonesian Stocks Notch Best Week Since June on Foreign Buying",
+     "published": "2026-11-13T09:17:11+00:00",
+     "summary": "Indonesia’s stocks marked their best week since mid-June as foreign investors tiptoed back into the market after months of selling."
+    },
+    {
+     "ref": "bloomberg_markets#2",
      "title": "ICTSI: Keen to Expand in Southern, Western Africa",
      "published": "2026-11-13T09:13:12+00:00",
      "summary": "International Container Terminal Services Senior Adviser Christian Gonzalez says the world’s largest, independent terminal operator is keen to expand in Southern and Western Africa. It currently has 34 terminal operations and port development projects across 19 countries. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "China’s Credit Growth Disappoints Despite Greater Policy Support",
      "published": "2026-11-13T09:12:53+00:00",
      "summary": "China’s credit expansion fell short of expectations in October with loans contracting for the third time this year, as greater policy support struggled to offset persistently weak borrowing demand."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says",
      "published": "2026-11-13T09:05:30+00:00",
      "summary": "Iraq’s oil output surged in October and production in the United Arab Emirates held near the previous month’s high, as Gulf producers increased crude flows despite shipping disruptions caused by the Iran war, the International Energy Agency said."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
      "published": "2026-11-13T09:00:02+00:00",
      "summary": "What Weil Gotshal’s collapse says about the frailty of big law."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Odd Lots: Why a $2 Billion Law Firm Suddenly Collapsed (Podcast)",
      "published": "2026-11-13T09:00:00+00:00",
      "summary": "At the end of October, seemingly overnight, a major law firm called Weil Gotshal announced it was winding down after a number of partners departed and talks of a merger with another firm failed. So how did a $2 billion big law firm collapse in the span of a few weeks? In 2015, Yale Law professor John Morley published a paper called \"Why Law Firms Collapse,\" that now looks very prescient, with his "
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Global Oil Market Swings to Surplus on Gulf Exports, IEA Says",
      "published": "2026-11-13T09:00:00+00:00",
      "summary": "Global oil markets will swing to a supply surplus for the first time since the start of the Iran war as Persian Gulf exports recover despite the ongoing conflict, the International Energy Agency said."
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Tech Tries to Soldier On Without Huang: Market Analysis",
      "published": "2026-11-13T08:55:57+00:00",
      "summary": "Anna Edwards, Tom Mackenzie and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "China’s AI Sector Caught in the Crossfire After Nvidia Ousts Huang",
      "published": "2026-11-13T08:44:29+00:00",
      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Hong Kong Turns Even More Bullish on Economy With Growth Upgrade",
      "published": "2026-11-13T08:34:47+00:00",
      "summary": "Hong Kong raised its full-year growth forecast for a second time in months after the global artificial intelligence boom turbocharged trade and brought the pace of its economic expansion to a five-year high."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "European Shares Pull Back From Record High After Four-Day Rally",
      "published": "2026-11-13T08:22:26+00:00",
      "summary": "European stocks slipped as a four-day rally to record highs ran out of steam after a busy week."
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Talabat CEO: Grocery Demand Up Amid Mideast Situation",
      "published": "2026-11-13T08:18:03+00:00",
      "summary": "Food delivery giant Talabat reported its 3Q revenue jumped 18 percent to $1.2 billion. The Dubai-based firm says the growth is driven by robust demand during the summer and back-to-school periods. Talabat CEO Toon Gyssels spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the earnings. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Hidary: Investors See Anthropic IPO as Key Bellwether",
      "published": "2026-11-13T08:17:22+00:00",
      "summary": "Anthropic’s IPO is said to be about 6 times oversubscribed. The Claude AI Model firm and its co-founders are seeking to raise $64.4 billion in the public listing as well as $26 billion in private placement, making it bigger than Space X’s IPO. Jack Hidary, CEO of SandboxAQ spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa about the listing as well as his deals in the UAE on the "
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "EGA CFO: Al Taweelah At Full Production by 1Q 2027",
      "published": "2026-11-13T08:15:56+00:00",
      "summary": "Emirates Global Aluminium says it’s making “strong progress” on restoring production at its main smelter, which was damaged in an Iranian strike earlier this year. It comes as the firm reported 9m revenue of $5.3 billion compared to $6.3 billion y/y. EGA’s CFO, Pal Kildemo spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "UK Gilts Head for Worst Weekly Drop Since September",
-     "published": "2026-11-13T07:48:40+00:00",
-     "summary": "Plus, a protracted software outage at Microsoft"
     },
     {
      "ref": "bloomberg_markets#15",
@@ -144,15 +144,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Global oil markets swing to surplus as Gulf shipments rebound",
-     "published": "2026-11-13T09:04:06+00:00",
-     "summary": "IEA analysts warn it will take months to rebuild stockpiles depleted by conflict"
+     "title": "Microsoft races to restore services after global outage",
+     "published": "2026-11-13T09:42:01+00:00",
+     "summary": "Issue affecting Outlook, Teams and other services not caused by ‘malicious or cyber activity’, company says"
     },
     {
      "ref": "ft_home#1",
-     "title": "Microsoft races to restore services after global outage",
-     "published": "2026-11-13T07:55:47+00:00",
-     "summary": "Issue affecting Outlook, Teams and other services not caused by ‘malicious or cyber activity’, company says"
+     "title": "Global oil markets swing to surplus as Gulf shipments rebound",
+     "published": "2026-11-13T09:04:06+00:00",
+     "summary": "IEA analysts warn it will take months to rebuild stockpiles depleted by conflict"
     },
     {
      "ref": "ft_home#2",
@@ -216,9 +216,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "ירידות בבורסות אירופה בהובלת מניות השבבים; ASML מאבדת 1.5% מערכה",
+     "title": "הנפט בדרך לשבוע שני של ירידות; הסוכנות הבינלאומית לאנרגיה צופה התאששות בשוק",
      "published": "2026-11-13T08:57:00+00:00",
-     "summary": "המשבר באנבידיה הפך להזדמנות: משקיעים קמעונאיים מיהרו בהמוניהם לרכוש בירידות ■ אסיה נסגרה בירידות; רף ה-160 ין לדולר שוב נחצה: \"תנודות חדות וחד-צדדיות בשוק המט\"ח\" ■ מחירי הנפט נסחרים ביציבות, אבל בדרך לשבוע שני של ירידות ■ וול סטריט נסגרה בירידות; אנבידיה נפלה ב-4% אחרי התפטרות הואנג"
+     "summary": "ירידות בבורסות אירופה בהובלת מניות השבבים; ASML מאבדת 1.5% מערכה ■ המשבר באנבידיה הפך להזדמנות: משקיעים קמעונאיים מיהרו בהמוניהם לרכוש בירידות ■ אסיה נסגרה בירידות; רף ה-160 ין לדולר שוב נחצה: \"תנודות חדות וחד-צדדיות בשוק המט\"ח\" ■ וול סטריט נסגרה בירידות; אנבידיה נפלה ב-4% אחרי התפטרות הואנג"
     },
     {
      "ref": "themarker#1",
@@ -234,9 +234,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#3",
-     "title": "המסחר בת\"א עבר לירידות קלות; נקסט ויז'ן יורדת ב-1.5%",
+     "title": "הירידות בבורסה מעמיקות; סלקום מאבדת 2.9%",
      "published": "2026-11-13T06:39:34+00:00",
-     "summary": "המניות הדואליות, בפרט בתחום השבבים, ירכזו עניין במסחר היום לצד מניות ענף הפיננסים שנמצא בעיצומה של תקופת הדו\"חות ■ הדולר מתחזק הבוקר ב-0.3% ונסחר סביב 3.2 שקלים"
+     "summary": "הדולר מתחזק הבוקר ב-0.3% ונסחר סביב 3.2 שקלים"
     },
     {
      "ref": "themarker#4",
@@ -278,7 +278,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "ref": "themarker#10",
      "title": "ערן וולף, מייסד LoanWise: \"הלקוחות שלנו לא קיבלו משכנתא בבנק, זה לא אומר שהם גרועים\"",
      "published": "2026-11-13T04:23:12+00:00",
-     "summary": "אחרי שעזב את מימון ישיר הקים ערן וולף את LoanWise, חברה חוץ־בנקאית למשכנתאות שגובה ריבית גבוהה מהבנקים ■ הוא מאמין שלמרות \"משבר האימים\" בישראל שוק הדיור נותר סולידי, ולא מסתיר תיאבון מוגבר לסיכון ושאיפה להנפקה תוך שנתיים ■ \"תיק האשראי שלנו חצה את המיליארד שקל, היעד — 6 מיליארד שקל תוך חמש שנים\""
+     "summary": "אחרי שעזב את מימון ישיר הקים ערן וולף את LoanWise, חברה חוץ־בנקאית למשכנתאות שגובה ריבית גבוהה מהבנקים ■ הוא מאמין שלמרות המשבר בישראל שוק הדיור נותר סולידי, ולא מסתיר תיאבון מוגבר לסיכון ושאיפה להנפקה תוך שנתיים ■ \"תיק האשראי שלנו חצה את המיליארד שקל, היעד — 6 מיליארד שקל תוך חמש שנים\""
     },
     {
      "ref": "themarker#11",
@@ -526,9 +526,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 4054.1201,
+   "last": 4062.8601,
    "prev_close": 4073.77,
-   "change_pct": -0.48,
+   "change_pct": -0.27,
    "as_of": "2026-11-13"
   },
   "SP500": {
@@ -540,21 +540,21 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.2021,
+   "last": 3.2009,
    "prev_close": 3.1739,
-   "change_pct": 0.89,
+   "change_pct": 0.85,
    "as_of": "2026-11-13"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 95.97,
+   "last": 95.92,
    "prev_close": 95.82,
-   "change_pct": 0.16,
+   "change_pct": 0.1,
    "as_of": "2026-11-13"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 69002.3906,
+   "last": 69006.3203,
    "prev_close": 71342.9688,
    "change_pct": -3.28,
    "as_of": "2026-11-13"

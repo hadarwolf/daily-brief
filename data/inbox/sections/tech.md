@@ -146,87 +146,87 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקלה הגדולה",
+     "published": "2026-11-13T09:52:43+00:00",
+     "summary": "תקלה עולמית נרחבת משתקת כבר יותר מ-12 שעות חלק גדול מהשירותים של מיקרוסופט ובראשם שירותי Microsoft 365, כולל אאוטלוק, Teams וכלי ה-AI של החברה, Copilot. לפי הנתונים של אתר Downdetector, בשיא התקלה נרשמו קרוב ל-140 אלף דיווחים של משתמשים מ-74 מדינות. אבל לא רק לקוחות פרטיים או ארגוניים של מיקרוסופט סובלים מהקריסה. גם ענקיות טכנולוגיה […] The post 12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקל"
+    },
+    {
+     "ref": "geektime#1",
      "title": "בדקנו את הלפטופ הראשון עם המעבד החדש של NVIDIA",
      "published": "2026-11-13T08:03:32+00:00",
      "summary": "ב-2020 חל שינוי פרדיגמה ענק בשוק המחשבים, כאשר Apple הודיעה שהיא מוותרת על שירותיה של אינטל לטובת מעבדים בפיתוח עצמי. ההימור הזה השתלם מאוד לאפל מבחינה טכנית וגם כלכלית. ארבע שנים לאחר מכן השינוי הזה הגיע גם ל-PC עם ההודעה של מיקרוסופט על שיתוף פעולה ראשון עם קוואלקום שהביא את מעבדי ARM למחשבי ווינדוס. ביוני […] The post בדקנו את הלפטופ הראשון עם המעבד החדש של NVIDIA appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#2",
      "title": "זה לקח זמן, אבל וואטסאפ מוסיפה סוף סוף הודעות נעלמות",
      "published": "2026-11-12T17:49:10+00:00",
      "summary": "אולי זו מהפכת ה-Vibe Coding. אולי זה בזכות Muse ואולי פשוט מישהו ב-Meta החליט שככה יהיה, אבל WhatsApp התחילה להעלות הילוך בכל הנוגע לשחרור פיצ'רים חדשים, וכעת נודע כי עוד פיצ'ר חדש ומבוקש נמצא בדרך אלינו: הודעות נעלמות. בואו להתווכח על האם זה היה בטלגרם קודם – בטלגרם של גיקטיים עכשיו אפשר לשלוח גם טקסט […] The post זה לקח זמן, אבל וואטסאפ מוסיפה סוף סוף הודעות נעלמות appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#3",
      "title": "ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר",
      "published": "2026-11-12T14:03:17+00:00",
      "summary": "זה קרה: ג'נסן הואנג, המייסד-השותף, המנכ\"ל, והאיש שמזוהה יותר מכל אחד אחר עם מעיל שחור ועם השם NVIDIA, התפטר לפני זמן קצר מתפקידו בחברה אותה הקים. את הואנג תחליף בתפקיד, ה-CFO של אנבידיה, קולט קרס, שתשמש כמנכ\"לית עד שיימצא המנכ\"ל הקבוע. כל עדכוני הטכנולוגיה ברגע שהם קורים וכך, אחרי יותר משלושה עשורים שבהם הוא מוביל […] The post ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר appeared first on גי"
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#4",
      "title": "ממשיכות לגייס: הנה כמה משרות פתוחות בחברות טק בישראל",
      "published": "2026-11-12T13:42:26+00:00",
      "summary": "בודקים מה הכיוון הבא שלכם ומחפשים עבודה בהייטק? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרות פיתוח ומשרות מומלצות בהייטק, בדיוק עבור הרגע הזה שאתם רוצים לרענן את הטייטל. החברות, שמופיעות גם בגיקטיים אינסיידר, מציעות משרות שפתוחות עכשיו ובעמודים שלהן תוכלו לקבל פרטים על החברה, הגישה שלה ללמידה ופיתוח מקצועי, הסטאק הטכנולוגי, […] The post ממשיכות לגייס: הנה כמה משרות פתוחות בחברות טק בי"
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#5",
      "title": "חברת השבבים Marvell מפטרת עשרות עובדים בישראל",
      "published": "2026-11-12T11:46:41+00:00",
      "summary": "ענקית השבבים האמריקאית מארוול מפטרת עשרות עובדים בישראל מתוך כ-500 המועסקים במרכזי הפיתוח שלה בפתח תקווה וביקנעם. השפעה על \"חלק מצומצם\" על פי דיווח בכלכליסט, בניגוד לקיצוצים דומים בחברות בינלאומיות אחרות, כאן לא מדובר בגל קיצוצים עולמי בחברה, אלא בהחלטה נקודתית הנוגעת לאחד מצוותי ההנדסה המקומיים. הפעילות של מארוול בישראל מתבססת על מספר חברות שנרכשו […] The post חברת השבבים Marvell מפטרת עשרות עובד"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#6",
      "title": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
      "published": "2026-11-12T08:58:03+00:00",
      "summary": "מאת אלי איינהורן אם אתם מפתחים שמשתמשים ב-Claude Code Desktop, אז אתם מכירים את הפיצ'ר הבא: מבקשים מ-Claude לבדוק קובץ HTML לדוגמה, והאפליקציה מרנדרת אותו אוטומטית בפאנל צדדי. נוח, מהיר, ושימושי. ובכן… לא בדיוק. החוקרים שלנו ב-Noma Labs גילו חולשה חמורה ב-Preview Pane של אפליקציית הדסקטופ, שאפשרה לקובץ HTML לעקוף שלוש שכבות הגנה ולשלוף סיסמאות, […] The post איך Claude Code Desktop כמעט הדליף את כל"
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#7",
      "title": "מה זאת אומרת מי יכול להחליף את ג'נסן? יש הרבה שמות",
      "published": "2026-11-12T08:08:27+00:00",
      "summary": "איך הגלגל מתהפך. לפני שנייה וחצי ג'נסן הואנג היה אחת מהדמויות המוערכות והאהובות ביותר בעולם הטכנולוגיה. סופרסטאר, שגדל בתנאים לא פשוטים, הצליח להקים חברה, לפוצץ אצטדיונים עם עשרות אלפי מעריצים בעזרת מעיל שחור, השפריץ כריזמה נדירה, הוכיח הבנה טכנולוגית נדירה עד לרמת השערים הלוגיים, והוביל תוכניות עסקיות מבריקות. אבל זה היה עד השבוע. השבוע האחרון […] The post מה זאת אומרת מי יכול להחליף את ג'נסן? יש"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#8",
      "title": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה",
      "published": "2026-11-12T04:47:17+00:00",
      "summary": "חשבתם שהשבוע האחרון היה סוער לאנבידיה? נראה שזו רק ההתחלה, עם צל כבד על אחד מהאנשים החזקים ביותר בעולם הטכנולוגיה. דירקטוריון NVIDIA נערך להדיח את המנכ\"ל והמייסד של החברה, ג'נסן הואנג, כך מדווח הלילה (ה') הוול סטריט ג'ורנל על סמך גורמים המקורבים לנושא. על פי הדיווח, הדירקטוריון צפוי להתכנס כנראה כבר היום כדי להכריע על […] The post דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומ"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#9",
      "title": "סטארטאפ ישראלי שנחשף עכשיו בונה Holodeck לסוכנים",
      "published": "2026-11-11T14:00:29+00:00",
      "summary": "כן. כולם במשרד כבר שמעו על הסוכן שלך שחסך לך 50 שקל או מוסיף אירועים ללוח השנה עם המשפחה. באמת, אנחנו לא יכולים לשמוע מה עוד הוא יודע לעשות. אבל בניגוד לאייג'נט המרתק שלך, כשארגונים בונים אייג'נטים ומשחררים אותם לעולם האמיתי, דברים משתבשים. אז סטארטאפ ישראלי חדש שנחשף היום (ד') רוצה ליצור סביבה שבה הסוכנים […] The post סטארטאפ ישראלי שנחשף עכשיו בונה Holodeck לסוכנים appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#9",
+     "ref": "geektime#10",
      "title": "הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 מיליון דולר כדי להתחרות בה",
      "published": "2026-11-11T14:00:04+00:00",
      "summary": "כשארבעה מהנדסים, שעומדים מאחורי אחת מתשתיות הדאטה המרכזיות של מיקרוסופט, עוזבים את החברה כדי להקים סטארטאפ, אתם יכולים לדעת די בבטחון שזה לא בשביל לבנות עוד אפליקציית To-Do… הסטארטאפ הישראלי Edelbyte, שנחשף היום (ד') לראשונה, מודיע על גיוסים בגובה 70 מיליון דולר בתוך שנה בלבד מאז הקמתו. המטרה? לפתור את כאב הראש שתשתיות ה-AI עושות […] The post הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 "
     },
     {
-     "ref": "geektime#10",
+     "ref": "geektime#11",
      "title": "אחרי צירופה של נועה ארגמני: קרן Vine מגייסת 236 מיליון דולר להשקעות בסטארטאפים",
      "published": "2026-11-11T13:09:59+00:00",
      "summary": "קרן ההון סיכון Vine Ventures הודיעה על השלמת גיוס של 236 מיליון דולר לקרן השלישית שלה, שתשקיע בחברות בארה\"ב ובישראל. לפי הקרן, כ-50% מכספי הקרן החדשה צפויים להיות מוקצים לחברות ישראליות. הגיוס מביא את היקף הנכסים המנוהלים של Vine ליותר מ-500 מיליון דולר, חמש שנים בלבד מאז שהוקמה. בגיוס השתתפו משקיעים חדשים וקיימים, ובהם מנכ\"לי […] The post אחרי צירופה של נועה ארגמני: קרן Vine מגייסת 236 מיליון דול"
     },
     {
-     "ref": "geektime#11",
+     "ref": "geektime#12",
      "title": "חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה",
      "published": "2026-11-11T12:34:46+00:00",
      "summary": "יצרנית ה-LiDAR הישראלית Innoviz מראש העין הכריזה היום (ד') על מהלך פיטורים חריג, שבמסגרתו היא צפויה להיפרד מרבע ממצבת כוח האדם שלה – כ-90 עובדים בסך הכל. זה סבב הפיטורים השלישי של החברה בשלוש השנים האחרונות, כאשר בתחילת 2024 פיטרה עשרות עובדים – שהם 13% מכוח האדם שלה. בתחילת השנה שעברה הכריזה אינוויז על סבב […] The post חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#12",
+     "ref": "geektime#13",
      "title": "הקרב על הצופים בישראל: דיסני מכריזה על מבצע ל-Disney+",
      "published": "2026-11-11T10:17:41+00:00",
      "summary": "רגע לפני סוף 2026, דיסני+ יוצאת במבצע חדש כדי לנסות לגייס מנויים חדשים בישראל, ועל הדרך גם לפתות אולי מנויים נוטשים לחזור לשירות הסטרימינג שלה. אל תשכחו לשים תזכורת החל מהיום (ד') ועד ה-24 בנובמבר, החברה מציעה למצטרפים חדשים וחוזרים את המינוי שלה במחיר של 34.90 שקלים לחודש למשך חודשיים. לאחר תום תקופת ההטבה, התשלום […] The post הקרב על הצופים בישראל: דיסני מכריזה על מבצע ל-Disney+ appeared first o"
-    },
-    {
-     "ref": "geektime#13",
-     "title": "חיפאים, Google Cloud מזמינה אתכם לאירוע AI ודאטה חדש",
-     "published": "2026-11-11T09:42:36+00:00",
-     "summary": "במקום ששוב תסעו לתל אביב כדי להיחשף לחידושים של Google Cloud – הפעם הם מגיעים לצפון: Google פותחת את משרדיה בחיפה ליום טכנולוגי שיוקדש לכלי ה-AI והדאטה שלה. תוכלו לצפות בהדגמות חיות וללמוד מדוגמאות אמיתיות, כך שתצאו מהאירוע עם רעיונות וכלים פרקטיים שניתן ליישם מיד. האירוע, AI in Action | Haifa, יתקיים ב-30 בנובמבר (9:00-14:00) […] The post חיפאים, Google Cloud מזמינה אתכם לאירוע AI ודאטה חדש appea"
     }
    ]
   },
@@ -238,121 +238,115 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Microsoft Outlook/365 still down after 12 hours",
      "published": "2026-11-13T05:08:23+00:00",
-     "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 198 # Comments: 107"
+     "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 229 # Comments: 129"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "IceWM",
      "published": "2026-11-13T04:54:53+00:00",
-     "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 154 # Comments: 81"
+     "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 160 # Comments: 83"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Nvidia employees petition to bring back Jensen Huang",
      "published": "2026-11-13T02:16:24+00:00",
-     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 563 # Comments: 400"
+     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 567 # Comments: 405"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "published": "2026-11-12T23:06:17+00:00",
-     "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 236 # Comments: 70"
+     "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 238 # Comments: 71"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-     "published": "2026-11-12T21:56:11+00:00",
-     "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 292 # Comments: 96"
+     "title": "Foundation Models framework",
+     "published": "2026-11-12T21:13:26+00:00",
+     "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 209 # Comments: 27"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Foundation Models framework",
-     "published": "2026-11-12T21:13:26+00:00",
-     "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 207 # Comments: 27"
+     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+     "published": "2026-11-12T19:51:33+00:00",
+     "summary": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 268 # Comments: 277"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-     "published": "2026-11-12T19:51:33+00:00",
-     "summary": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 264 # Comments: 272"
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "published": "2026-11-12T19:05:33+00:00",
+     "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 302 # Comments: 127"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-     "published": "2026-11-12T19:05:33+00:00",
-     "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 300 # Comments: 125"
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "published": "2026-11-12T18:52:01+00:00",
+     "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 414 # Comments: 112"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "published": "2026-11-12T18:52:01+00:00",
-     "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 412 # Comments: 111"
+     "title": "Rust 1.100",
+     "published": "2026-11-12T18:39:05+00:00",
+     "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 671 # Comments: 254"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Rust 1.100",
-     "published": "2026-11-12T18:39:05+00:00",
-     "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 664 # Comments: 253"
+     "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+     "published": "2026-11-12T18:22:22+00:00",
+     "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 193 # Comments: 37"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-     "published": "2026-11-12T18:22:22+00:00",
-     "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 192 # Comments: 35"
+     "title": "Service degradation on Microsoft 365",
+     "published": "2026-11-12T18:20:48+00:00",
+     "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 871 # Comments: 770"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Service degradation on Microsoft 365",
-     "published": "2026-11-12T18:20:48+00:00",
-     "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 866 # Comments: 762"
+     "title": "Gemini 4 Hydrogen",
+     "published": "2026-11-12T18:01:48+00:00",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 528 # Comments: 331"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "Gemini 4 Hydrogen",
-     "published": "2026-11-12T18:01:48+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 526 # Comments: 330"
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "published": "2026-11-12T17:02:42+00:00",
+     "summary": "https://x.com/simpsoka/status/2115254318161182876 Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 516 # Comments: 181"
     },
     {
      "ref": "hn_frontpage#13",
-     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-     "published": "2026-11-12T17:02:42+00:00",
-     "summary": "https://x.com/simpsoka/status/2115254318161182876 Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 514 # Comments: 180"
+     "title": "I'm making LLMs work on small and old devices",
+     "published": "2026-11-12T15:23:10+00:00",
+     "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 364 # Comments: 129"
     },
     {
      "ref": "hn_frontpage#14",
-     "title": "I'm making LLMs work on small and old devices",
-     "published": "2026-11-12T15:23:10+00:00",
-     "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 361 # Comments: 127"
+     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+     "published": "2026-11-12T14:18:49+00:00",
+     "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 271 # Comments: 99"
     },
     {
      "ref": "hn_frontpage#15",
-     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-     "published": "2026-11-12T14:18:49+00:00",
-     "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 270 # Comments: 99"
-    },
-    {
-     "ref": "hn_frontpage#16",
      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
      "published": "2026-11-12T14:12:37+00:00",
      "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 216 # Comments: 5"
     },
     {
-     "ref": "hn_frontpage#17",
+     "ref": "hn_frontpage#16",
      "title": "Jensen Huang resigns",
      "published": "2026-11-12T13:52:29+00:00",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens... Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 3513 # Comments: 3108"
+     "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens... Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 3526 # Comments: 3120"
+    },
+    {
+     "ref": "hn_frontpage#17",
+     "title": "Anthropic IPO",
+     "published": "2026-11-12T11:46:41+00:00",
+     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 925 # Comments: 863"
     },
     {
      "ref": "hn_frontpage#18",
-     "title": "Anthropic IPO",
-     "published": "2026-11-12T11:46:41+00:00",
-     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 921 # Comments: 862"
-    },
-    {
-     "ref": "hn_frontpage#19",
      "title": "Relax: JIT compiler for Rust to reduce build times",
      "published": "2026-11-11T21:20:01+00:00",
-     "summary": "Article URL: https://makepad.github.io/relax/ Comments URL: https://news.ycombinator.com/item?id=50458849 Points: 158 # Comments: 72"
+     "summary": "Article URL: https://makepad.github.io/relax/ Comments URL: https://news.ycombinator.com/item?id=50458849 Points: 158 # Comments: 73"
     }
    ]
   },
