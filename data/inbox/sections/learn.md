@@ -99,7 +99,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1927,
    "text": "The Holland Tunnel opened, connecting Manhattan with Jersey City under the Hudson River.",
    "context": [
-    "The Holland Tunnel is a vehicular tunnel under the Hudson River that connects Hudson Square and Lower Manhattan in New York City in the east to Jersey City, New Jersey, in the west. The tunnel is operated by the Port Authority of New York and New Jersey and carries Interstate 78. The New Jersey side of the tunnel is the eastern terminus of New Jersey Route 139. It consists of two tubes: the eastbound tube is a toll road, while the westbound tube is toll-free. The Holland Tunnel is one of three vehicular crossings between Manhattan and New Jersey; the two others are the Lincoln Tunnel and George Washington Bridge."
+    "The Holland Tunnel is a vehicular tunnel under the Hudson River that connects Hudson Square and Lower Manhattan in New York City in the east to Jersey City, New Jersey, in the west. The Port Authority of New York and New Jersey operates the tunnel, which carries Interstate 78. The New Jersey side of the tunnel is the eastern terminus of New Jersey Route 139. It consists of two tubes: the eastbound tube is a toll road, while the westbound tube is toll-free. The Holland Tunnel is one of three vehicular crossings between Manhattan and New Jersey; the two others are the Lincoln Tunnel and George Washington Bridge."
    ]
   },
   {

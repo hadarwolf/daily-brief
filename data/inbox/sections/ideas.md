@@ -150,93 +150,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The U.S. Federal AI Observatory",
+     "published": "2026-11-13T08:32:05+00:00",
+     "summary": "Federal AI at a glance 41 agencies · 3,611 reported use cases · OMB 2025 Inventory. Portfolio size reflects reporting, not performance. From Irakli Petriashvili of Tblisi, here is the site. The post The U.S. Federal AI Observatory appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Do not overrate zero-sum status-seeking",
+     "published": "2026-11-13T05:48:25+00:00",
+     "summary": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or upper-class status in poor countries would try to get to the West. Obviously, what we […] The post Do not overrate zero-sum status-seeking appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "My Barcelona talk on AI",
      "published": "2026-11-12T18:47:51+00:00",
      "summary": "The post My Barcelona talk on AI appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Thursday assorted links",
      "published": "2026-11-12T17:21:52+00:00",
      "summary": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French person believes there are 6.4 workers for every retiree. The real number is about 1.8.” 4. Sulfuric acid as a basic […] The post Thursday assorted links appeared first on Marginal R"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "The Everywhere Rent Seekers",
      "published": "2026-11-12T12:18:57+00:00",
      "summary": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention given to (some days) trillionaires and billionaires, the combined wealth of the Everywhere Millionaires, the dentists, the car dealers, the […] The post The Everywhere Rent Seekers a"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "USG assets are worth less than Arnold Kling had thought",
      "published": "2026-11-12T08:01:35+00:00",
      "summary": "Federal oil and gas rights are worth about $625 billion on the paper’s own method, down 75% in real terms since 1981. Federal land has gone the other way, to roughly $1.1 trillion to $1.6 trillion. Land, not minerals, is now the larger asset. Here is the full post. The post USG assets are worth less than Arnold Kling had thought appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "My excellent Conversation with Terence Tao",
      "published": "2026-11-12T05:44:38+00:00",
      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s incompleteness theorem, before moving into why mathematical history gets stripped out of classrooms, whether abstract math is a lottery ticket or […] The post My excellent Conversation"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Richard Posner, RIP…",
      "published": "2026-11-11T22:57:43+00:00",
      "summary": "One of the greats. The post Richard Posner, RIP… appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Experimentally validated digital twins",
      "published": "2026-11-11T19:12:56+00:00",
      "summary": "There is a new paper by Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter, and James Reisinger: Modern program evaluation prioritizes evidence from randomized controlled trials (RCTs) because prior research found that observational estimates of program impacts often diverge substantially from experimental benchmarks. We revisit this finding — which was based on […] The post Exp"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Wednesday assorted links",
      "published": "2026-11-11T17:28:55+00:00",
      "summary": "1. “We were discussing this today in office: future paper is 5 pages (what’s question, where is lit now very briefly, what do we do, what do we find), with all details left to a long appendix, hyperlinked, with rigorous AI review. We would read many more papers in that world! Agree?” Kevin Bryan. 2. […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "What should I ask Simon Sebag Montefiore?",
      "published": "2026-11-11T13:55:24+00:00",
      "summary": "I will be doing a Conversation with him, most of all about his new and very good book The Cauldron: The Making of the Modern Middle East. He has many other excellent books too, including on Russian history and some fiction. Here is his home page, here is his Wikipedia page. So what should I […] The post What should I ask Simon Sebag Montefiore? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "UK fact of the day",
      "published": "2026-11-11T07:51:15+00:00",
      "summary": "UK panel data, 1991-2019. Couples who support different parties separate more often. The effect is as strong as some other mismatches, like education. Disagreement over Brexit mattered even more than party preference. Here is a longer Nikolaus Haufler thread on European fertility, with a variety of interesting observations about other countries. The post UK fact of the day appeared first on Margin"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Spying makes a comeback",
      "published": "2026-11-11T05:55:45+00:00",
      "summary": "That is the theme of my latest Free Press article, here is one excerpt: It may look like merely the latest story of a wealthy, powerful man making an irresponsible decision. But below the surface, it is also a harbinger of the erosion of privacy today, as well as the acceleration of espionage and the […] The post Spying makes a comeback appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "Are RCTs underpowered?",
      "published": "2026-11-10T20:05:26+00:00",
      "summary": "Maybe so: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark of 2.8 expected under 80 percent power, though above values […] The post"
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#14",
      "title": "Tuesday assorted links",
      "published": "2026-11-10T16:50:08+00:00",
      "summary": "1. AI as a normal technology. 2. Hayek for our time, by Cass Sunstein, free download for two weeks. 3. Works in Progress is looking for business and finance writers. 4. Matthew Lilley on Harvard grad students. I believe they teach the permanent income hypothesis there? 5. Ethan Mollick on Fable 5.2. 6. John Cochrane […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Checking the AI audit of Saez and Zucman’s research.",
-     "published": "2026-11-10T11:32:14+00:00",
-     "summary": "From SaneCite: We checked the anonymous AI audit of Emmanuel Saez and Gabriel Zucman’s research that Marginal Revolution featured on 28 Oct: all 147 problems it calls serious enough to change a headline number, against the papers, their sources and the authors’ own data. The audit’s facts hold up: for 131 of the 147, every […] The post Checking the AI audit of Saez and Zucman’s research. appeared "
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "*Godzilla: Minus Zero* (no spoilers)",
-     "published": "2026-11-10T08:24:18+00:00",
-     "summary": "This is a morally serious movie (really). And Ghidorah stars! The whole thing is about twenty minutes too long, but mostly very good. And like many in the Godzilla series, it offers extended and instructive commentary on American-Japanese relations, and how the Japanese view them. Not for everyone, but I am glad I went. The post *Godzilla: Minus Zero* (no spoilers) appeared first on Marginal REVOL"
     }
    ]
   },
@@ -246,17 +246,16 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "Eye on the mark",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
      "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche",
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
-     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
-     "full_text_file": "essays/psyche_1.txt"
+     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
     },
     {
      "ref": "psyche#2",
@@ -290,15 +289,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#7",
-     "title": "How to take notes that actually help you learn",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
-    },
-    {
-     "ref": "psyche#8",
      "title": "Who am I if I don’t run?",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
+    },
+    {
+     "ref": "psyche#8",
+     "title": "How to take notes that actually help you learn",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     },
     {
      "ref": "psyche#9",

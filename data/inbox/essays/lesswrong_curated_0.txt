@@ -134,6 +134,16 @@ Thank you for sharing! It's very strange that AIs are as good as they are at pro
 
 The way I make sense of it is by keeping in mind how tiny our human working memory is. We struggle to keep more than a handful of things in mind at a time. As a result, we have to do all kinds of chunking and abstraction tricks to understand complicated things, so we're essentially forced to make things more elegant to understand them. Machines are far less limited in this way. They can hold far more detail and context in working memory, which allows them to follow the spaghetti we cannot without expending excessive mental effort. As an analogy, compare how easy it is for a human versus a machine to interpret a QR code.
 
+It seems very important to figure out the degree to which AIs can think, and the degree to which they help with human thought, and how exactly to leverage that if you're trying to do serious intellectual work.
+
+I have a somewhat different relationship to the final few questions than Dynomight does, where I don't particularly care about whether "mathematicians have a job/cultural-relevance", and instead just, like, ya know, get superalignment or various other intellectual problems solved, correctly.
+
+I think we are still in the stage where exposition is a meaningful bottleneck. There may come a time where AIs are perfectly good at that too. I think the step where "a human actually understands the final result and would be able to tell if it was either incorrect, or missing something important, or not actually useful" will continue being important for applied work.
+
+But, I appreciated this as a fairly in-depth report from someone who seems to both be trying to use AIs to do real work, with a fair amount of introspective and surrounding detail.
+
+Apologies, seems to have confused a lot of people, it's just a placeholder for some kind of generic mathematical transformation.
+
 do you ever tell the LLM explicitly to minimize total proof length (in English or Lean)? (including definitions to avoid game playing that way - although there is a case where a model exploited a Lean kernel bug to get the requested result because it was easier than solving the problem).
 
 I've tried (for proofs in English) without much success. It mostly seems to just sort of semi-randomly remove details rather than finding ways to simplify the argument itself, it that makes sense? That doesn't mean it can't be made to work! My intuition is that this might work better in Lean, though Goodharting would be a natural concern...
@@ -160,21 +170,11 @@ but safety first. please help characterize and formalize (AI) mindspace so we ca
 
 Could you clarify your intention here? You appear to me to be being poetically opaque. On a site dedicated to rational thought and expression, no less. Are you saying you expect some kind of transcendence? AI going off on its own is not a human adventure.
 
-It seems very important to figure out the degree to which AIs can think, and the degree to which they help with human thought, and how exactly to leverage that if you're trying to do serious intellectual work.
-
-I have a somewhat different relationship to the final few questions than Dynomight does, where I don't particularly care about whether "mathematicians have a job/cultural-relevance", and instead just, like, ya know, get superalignment or various other intellectual problems solved, correctly.
-
-I think we are still in the stage where exposition is a meaningful bottleneck. There may come a time where AIs are perfectly good at that too. I think the step where "a human actually understands the final result and would be able to tell if it was either incorrect, or missing something important, or not actually useful" will continue being important for applied work.
-
-But, I appreciated this as a fairly in-depth report from someone who seems to both be trying to use AIs to do real work, with a fair amount of introspective and surrounding detail.
-
 But maybe that's still just making the proof easier for humans to understand? No! For one, this usually makes the proof shorter, and sometimes dramatically shorter. More importantly, during this process, someone (maybe me, maybe the AI) will often realize that there's a different proof strategy that gives a stronger result. Instead of proving x < 9.7, now we can prove x < 7.1. Thus, artisanal human abstractions are "objectively" useful.
 
 It seems to me that making the AI do reinforcement learning on actually creating working proofs was the sensible first step for doing reinforcement learning.
 
 Making them do reinforcement learning to make the proofs shorter should also be easy to do if they just throw compute at the problem given that proof complexity and length are variables you can automatically measure.
-
-Apologies, seems to have confused a lot of people, it's just a placeholder for some kind of generic mathematical transformation.
 
 I liked your point that AI has improved more in a Spock-like direction than a Kirk-like direction. I suspect this will continue, since the only algorithm we have for achieving superhuman performance is RLVR, and only really possible on Spock-like tasks.
 
