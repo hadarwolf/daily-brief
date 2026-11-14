@@ -18,111 +18,111 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+     "published": "2026-11-14T09:00:19+00:00",
+     "summary": "The ultimate key man risk."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Odd Lots: Wall Street and the Post-Huang Nvidia Era (Podcast)",
      "published": "2026-11-14T09:00:00+00:00",
      "summary": "Nvidia's post-Jensen Huang era has just begun and there are so many open questions about the company's future. Who will the board choose to be Nvidia's next CEO? Will the government crack down on the chipmaker's business practices, particularly in Asia? And will Nvidia's uncertain position begin to spillover into the wider AI ecosystem, from the labs to data center providers? Stacy Rasgon, managin"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
      "published": "2026-11-14T08:30:00+00:00",
      "summary": "More than eight months into the Iran war, smoke continues to billow from oil tankers as Tehran presses ahead with repeated attacks near the Strait of Hormuz."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
      "published": "2026-11-14T05:20:13+00:00",
      "summary": "Global capital markets are undergoing a new round of asset repricing and rebalancing in the face of geopolitical tensions and policy uncertainty, according to Wu Qing, chairman of the China Securities Regulatory Commission."
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
      "published": "2026-11-14T04:05:34+00:00",
      "summary": "China is expected to meet all growth in power demand with new clean energy generation by 2030, China Central Television reported."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
      "published": "2026-11-14T03:44:05+00:00",
      "summary": "Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
      "published": "2026-11-14T02:04:53+00:00",
      "summary": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport."
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Cruise Ship Capsizes After Tanker Collision in New Orleans",
      "published": "2026-11-14T00:29:03+00:00",
      "summary": "All passengers and crew members aboard a river cruise ship that capsized after a tanker collision in New Orleans on Friday were accounted for, with 32 people hospitalized but none critically injured, according to Mayor Helena Moreno. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "US Flights Grounded Over Air Traffic Communication Issue",
      "published": "2026-11-14T00:08:57+00:00",
      "summary": "US authorities halted flights nationwide due to communication issues affecting air traffic control. Myles Miller reports from LaGuardia Airport. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
      "published": "2026-11-13T23:48:58+00:00",
      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Franklin Templeton Institute’s Head Market Strategist Chris Galipeau, Pershing Square’s Founder and CEO Bill Ackman, London Business School Leadership Institute’s Founding Director Randall Peterson, Committee For A Responsible"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens",
      "published": "2026-11-13T23:39:03+00:00",
      "summary": "Sherritt International Corp. missed an interest payment on secured notes, deepening a liquidity crisis for the troubled Canadian miner hobbled by US sanctions that forced it to halt production in Cuba."
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Carrie Underwood on Her New Wellness Brand, HiNote",
      "published": "2026-11-13T23:20:22+00:00",
      "summary": "Carrie Underwood and HiNote CEO and co-founder Kerrigan Behrens discuss the wellness brand’s origins and plans to grow production of its flagship drink mix following a new investment. They speak with Vonnie Quinn and Bailey Lipschultz on “The Close” (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
      "published": "2026-11-13T23:20:08+00:00",
      "summary": "Randall Peterson, founding director of the London Business School Leadership Institute, believes the board of Nvidia failed both the company and Huang. He speaks with Vonnie Quinn and Bailey Lipschultz on “The Close”. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Exemplar Luxury Group CEO on the Company’s Second Life",
      "published": "2026-11-13T22:59:58+00:00",
      "summary": "Geoffroy van Raemdonck said Exemplar Luxury Group is financially stronger after Saks emerged from bankruptcy. He emphasized reaching that goal through customer loyalty, full-price sales and profitable growth that supports reinvestment and strengthens relationships with brands. Geoffroy van Raemdonck speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
      "published": "2026-11-13T22:52:42+00:00",
      "summary": "COP31 aims to set new goals to bring down emissions as climate change outpaces scientists’ predictions and disasters drive billions of dollars of losses. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
      "published": "2026-11-13T22:51:59+00:00",
      "summary": "Jeff Currie, CEO and founder at Real Macro and senior adviser at Carlyle, says gold’s retreat reflects a shortage of dollar liquidity. He also discusses the global oil industry in an interview with Vonnie Quinn and Bailey Lipschultz on “The Close.” (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Rent the Runway CEO Paige Thomas on Her Company Vision",
      "published": "2026-11-13T22:41:52+00:00",
      "summary": "Rent the Runway CEO Paige Thomas sits down with Romaine Bostick to discuss her vision for the company since taking over the helm two months ago, how she plans to strategize the company’s business and more. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
      "published": "2026-11-13T22:33:48+00:00",
      "summary": "A tanker collided with a docked river cruise ship on the Mississippi River in New Orleans, leaving the smaller vessel partly submerged and setting off a rescue operation. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Flights Grounded Across US Over Air Traffic Control Problems",
-     "published": "2026-11-13T22:33:32+00:00",
-     "summary": "US authorities halted flights nationwide due to communication issues affecting air traffic control, an extraordinary action that threatens to disrupt travel across the globe. The Federal Aviation Administration said in an advisory notice on its website on Friday that the ground stop affects all US airports and departing flights should remain grounded until further notice. It cited “extraordinary c"
     },
     {
      "ref": "bloomberg_markets#18",
@@ -547,9 +547,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 66928.1016,
+   "last": 67021.2031,
    "prev_close": 68249.2734,
-   "change_pct": -1.94,
+   "change_pct": -1.8,
    "as_of": "2026-11-14"
   }
  },

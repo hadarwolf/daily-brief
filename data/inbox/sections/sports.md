@@ -521,27 +521,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Tuchel to remind England of anti-racism protocols before Spain game",
+     "published": "2026-11-14T09:13:30+00:00",
+     "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "Who would make your England-Spain combined XI?",
      "published": "2026-11-14T08:57:49+00:00",
      "summary": "How many England players do you think would make the Spain team?"
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "Clough's longevity: landmark achievement or indictment on football?",
      "published": "2026-11-14T08:35:00+00:00",
      "summary": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "Titz and Clarke on Aberdeen shortlist - gossip",
      "published": "2026-11-14T08:28:16+00:00",
      "summary": "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager."
-    },
-    {
-     "ref": "bbc_football#3",
-     "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-     "published": "2026-11-14T07:49:46+00:00",
-     "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
     },
     {
      "ref": "bbc_football#4",
@@ -551,9 +551,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#5",
-     "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
-     "published": "2026-11-14T06:37:49+00:00",
-     "summary": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship."
+     "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+     "published": "2026-11-14T07:49:46+00:00",
+     "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
     },
     {
      "ref": "bbc_football#6",
@@ -563,33 +563,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#7",
+     "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+     "published": "2026-11-14T06:37:49+00:00",
+     "summary": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship."
+    },
+    {
+     "ref": "bbc_football#8",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-14T06:27:36+00:00",
      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Ferguson 'made up' with first win as Glentoran boss",
      "published": "2026-11-13T22:54:49+00:00",
      "summary": "Glentoran manager Duncan Ferguson said he is \"made up\" with his first three points on his home debut, after a 2-1 win over Bangor."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
      "published": "2026-11-13T22:53:17+00:00",
      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
      "published": "2026-11-13T22:37:30+00:00",
      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel."
-    },
-    {
-     "ref": "bbc_football#11",
-     "title": "'If that penalty is given against you, you're furious'",
-     "published": "2026-11-13T22:34:20+00:00",
-     "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia."
     },
     {
      "ref": "bbc_football#12",
@@ -599,75 +599,75 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#13",
+     "title": "'If that penalty is given against you, you're furious'",
+     "published": "2026-11-13T22:34:20+00:00",
+     "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia."
+    },
+    {
+     "ref": "bbc_football#14",
      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
      "published": "2026-11-13T22:11:27+00:00",
      "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
      "published": "2026-11-13T22:05:14+00:00",
      "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
      "published": "2026-11-13T19:59:40+00:00",
      "summary": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "Ronaldinho, 46, to play first game since 2015",
      "published": "2026-11-13T19:12:37+00:00",
      "summary": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "EFL warns clubs over social media posts",
      "published": "2026-11-13T18:20:17+00:00",
      "summary": "The English Football League (EFL) warns its members about their usage of posts on social media."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
      "published": "2026-11-13T18:14:32+00:00",
      "summary": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "All done deals from September-November 2026",
      "published": "2026-11-13T17:21:23+00:00",
      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "'Memories flood back' - Rochdale & York meet again after title drama",
      "published": "2026-11-13T16:39:00+00:00",
      "summary": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "Football Daily",
      "published": "2026-11-13T16:05:00+00:00",
      "summary": "The Commentators' View team describe a special night for Harry Kane at Wembley."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
      "published": "2026-11-13T15:28:06+00:00",
      "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Odegaard backing Norway to avenge Wales defeat",
      "published": "2026-11-13T12:43:51+00:00",
      "summary": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Missing Israel games 'stressful' for captain Collins",
-     "published": "2026-11-13T12:26:18+00:00",
-     "summary": "Republic of Ireland captain Nathan Collins says he felt he left his team-mates \"on their own\" after missing the two controversial Nations League games against Israel."
     }
    ]
   },
@@ -881,9 +881,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#8",
-     "title": "Deni Avdija finishes through contact, 11/13/2026 - Yahoo Sports",
+     "title": "Deni Avdija finishes through contact - Yahoo Sports",
      "published": "2026-11-14T05:49:42+00:00",
-     "summary": "Deni Avdija finishes through contact, 11/13/2026 Yahoo Sports"
+     "summary": "Deni Avdija finishes through contact Yahoo Sports"
     },
     {
      "ref": "gnews_israeli_nba#9",
@@ -966,7 +966,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija drops 28 points Wednesday - FantasyPros",
-     "published": "2026-11-12T07:00:50+00:00",
+     "published": "2026-11-12T07:00:00+00:00",
      "summary": "Deni Avdija drops 28 points Wednesday FantasyPros"
     },
     {

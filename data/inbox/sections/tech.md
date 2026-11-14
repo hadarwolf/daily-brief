@@ -214,25 +214,25 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
      "published": "2026-11-14T02:52:59+00:00",
-     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 500 # Comments: 290"
+     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 531 # Comments: 319"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Ggml v1.0.0",
      "published": "2026-11-14T02:28:29+00:00",
-     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 232 # Comments: 38"
+     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 246 # Comments: 38"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
      "published": "2026-11-14T00:52:29+00:00",
-     "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 163 # Comments: 54"
+     "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 163 # Comments: 58"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Terminal borders that don't cost a cell",
      "published": "2026-11-13T23:06:40+00:00",
-     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 228 # Comments: 92"
+     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 232 # Comments: 102"
     },
     {
      "ref": "hn_frontpage#4",
@@ -244,55 +244,67 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#5",
      "title": "FAA issues national ground stop – lifted 4.5 hours later",
      "published": "2026-11-13T21:05:53+00:00",
-     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1524 # Comments: 1161"
+     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1530 # Comments: 1164"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "published": "2026-11-13T19:25:21+00:00",
-     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 188 # Comments: 26"
+     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 193 # Comments: 29"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "FM-1 Workbench",
      "published": "2026-11-13T19:14:02+00:00",
-     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 230 # Comments: 155"
+     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 234 # Comments: 155"
     },
     {
      "ref": "hn_frontpage#8",
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "published": "2026-11-13T18:40:44+00:00",
+     "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 352 # Comments: 191"
+    },
+    {
+     "ref": "hn_frontpage#9",
      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
      "published": "2026-11-13T17:58:37+00:00",
      "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana "
     },
     {
-     "ref": "hn_frontpage#9",
+     "ref": "hn_frontpage#10",
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
      "published": "2026-11-13T17:55:28+00:00",
-     "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 254 # Comments: 41"
-    },
-    {
-     "ref": "hn_frontpage#10",
-     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-     "published": "2026-11-13T15:08:44+00:00",
-     "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 274 # Comments: 312"
+     "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 257 # Comments: 41"
     },
     {
      "ref": "hn_frontpage#11",
+     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+     "published": "2026-11-13T17:30:10+00:00",
+     "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 389 # Comments: 97"
+    },
+    {
+     "ref": "hn_frontpage#12",
+     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+     "published": "2026-11-13T15:08:44+00:00",
+     "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 280 # Comments: 320"
+    },
+    {
+     "ref": "hn_frontpage#13",
      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
      "published": "2026-11-13T15:08:07+00:00",
      "summary": "https://palmfrets.com/ Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 170 # Comments: 95"
     },
     {
-     "ref": "hn_frontpage#12",
+     "ref": "hn_frontpage#14",
      "title": "A technical vision for the Haskell ecosystem",
      "published": "2026-11-13T14:43:12+00:00",
-     "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 202 # Comments: 113"
+     "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 204 # Comments: 113"
     },
     {
-     "ref": "hn_frontpage#13",
+     "ref": "hn_frontpage#15",
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "published": "2026-11-12T22:03:09+00:00",
-     "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 744 # Comments: 212"
+     "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 746 # Comments: 212"
     }
    ]
   },

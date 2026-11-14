@@ -18,27 +18,27 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-     "published": "2026-11-14T07:50:01+00:00",
-     "summary": "Associated Press News: Breaking News | Latest News Today AP News"
-    },
-    {
-     "ref": "ap_world#1",
      "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop - AP News",
      "published": "2026-11-14T07:11:00+00:00",
      "summary": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#1",
      "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - AP News",
      "published": "2026-11-14T07:00:00+00:00",
      "summary": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#2",
      "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record - AP News",
      "published": "2026-11-14T06:38:00+00:00",
      "summary": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia - AP News",
+     "published": "2026-11-14T06:37:00+00:00",
+     "summary": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia AP News"
     },
     {
      "ref": "ap_world#4",
@@ -120,51 +120,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#17",
+     "title": "JAMES ROBSON - AP News",
+     "published": "2026-11-14T02:42:32+00:00",
+     "summary": "JAMES ROBSON AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch - AP News",
      "published": "2026-11-14T01:59:00+00:00",
      "summary": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
+     "title": "After crashing out at the Olympics, Ilia Malinin starts the long road back to the next Winter Games - AP News",
+     "published": "2026-11-14T01:36:00+00:00",
+     "summary": "After crashing out at the Olympics, Ilia Malinin starts the long road back to the next Winter Games AP News"
+    },
+    {
+     "ref": "ap_world#20",
      "title": "Katerina Siniakova clinches a record sixth year-end WTA No. 1 doubles finish - AP News",
      "published": "2026-11-14T01:17:00+00:00",
      "summary": "Katerina Siniakova clinches a record sixth year-end WTA No. 1 doubles finish AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#21",
      "title": "Air passengers in Dallas face disruption to their plans as flights halted at airports across US - AP News",
      "published": "2026-11-14T01:12:00+00:00",
      "summary": "Air passengers in Dallas face disruption to their plans as flights halted at airports across US AP News"
     },
     {
-     "ref": "ap_world#20",
-     "title": "JAMES ROBSON - AP News",
-     "published": "2026-11-14T01:08:29+00:00",
-     "summary": "JAMES ROBSON AP News"
-    },
-    {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "Rubio acknowledges 'people are struggling' economically in speech after GOP midterm wipeout - AP News",
      "published": "2026-11-14T00:59:00+00:00",
      "summary": "Rubio acknowledges 'people are struggling' economically in speech after GOP midterm wipeout AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "Rubio says further US military action is not needed against economically weakened Iran - AP News",
      "published": "2026-11-14T00:45:00+00:00",
      "summary": "Rubio says further US military action is not needed against economically weakened Iran AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#24",
      "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says - AP News",
      "published": "2026-11-14T00:29:00+00:00",
      "summary": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Investigation says understaffing and unexpected fire behavior led to firefighter deaths - AP News",
-     "published": "2026-11-14T00:26:00+00:00",
-     "summary": "Investigation says understaffing and unexpected fire behavior led to firefighter deaths AP News"
     }
    ]
   },
