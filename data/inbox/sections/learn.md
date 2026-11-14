@@ -24,126 +24,129 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2015,
-   "text": "Coordinated terrorist attacks in Paris perpetrated by the Islamic State killed 130 people and injured 413 others.",
+   "year": 2010,
+   "text": "Red Bull Racing's Sebastian Vettel won the Drivers' Championship after winning the final race of the season, becoming the youngest Formula One champion.",
    "context": [
-    "A series of coordinated Islamic terrorist attacks took place on Friday, 13 November 2015 in Paris, France, and the city's northern suburb, Saint-Denis. Beginning at 21:16, three suicide bombers struck outside the Stade de France in Saint-Denis, during an international football match, after failing to gain entry to the stadium. Another group of attackers then fired on crowded cafés and restaurants in Paris with one of them also detonating an explosive, killing himself in the process. A third group carried out another mass shooting and took hostages at an Eagles of Death Metal concert attended by 1,500 people in the Bataclan theatre, leading to a stand-off with police. The attackers were either shot or detonated suicide vests when police raided the theatre."
+    "Red Bull Racing Limited, currently competing as Oracle Red Bull Racing and also known simply as Red Bull or RBR, is a Formula One racing team, competing under an Austrian racing licence and based in England. It is one of two Formula One teams owned by conglomerate Red Bull GmbH, the other being Racing Bulls. The Red Bull Racing team was managed by Christian Horner from its formation in 2005 until 2025, when he departed the team and was replaced by Laurent Mekies."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1992,
-   "text": "In Dietrich v The Queen, the High Court of Australia ruled that, although there is no absolute right to have publicly funded counsel, a judge should grant any request for an adjournment or stay in most circumstances in which an accused is unrepresented.",
+   "year": 2003,
+   "text": "Astronomers Michael E. Brown, Chad Trujillo, and David L. Rabinowitz discovered the trans-Neptunian object Sedna.",
    "context": [
-    "Dietrich v The Queen is a 1992 High Court of Australia constitutional case which established that a person accused of serious criminal charges must be granted an adjournment until appropriate legal representation is provided if they are unrepresented through no fault of their own and proceeding would result in the trial being unfair."
+    "Michael E. Brown is an American astronomer, who has been professor of planetary astronomy at the California Institute of Technology (Caltech) since 2003. His team has discovered many trans-Neptunian objects (TNOs), including the dwarf planet Eris, which was originally thought to be bigger than Pluto, triggering a debate on the definition of a planet."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1985,
-   "text": "The volcano Nevado del Ruiz (pictured) erupted, causing a volcanic mudslide that buried the town of Armero, Colombia, killing approximately 23,000 people.",
+   "year": 1995,
+   "text": "As a result of budget conflicts between President Bill Clinton and the United States Congress led by Newt Gingrich, the federal government was forced to shut down non-essential services.",
    "context": [
-    "Nevado del Ruiz, also known as La Mesa de Herveo is a volcano on the border of the departments of Caldas and Tolima in Colombia, being the highest point of both. It is located about 130 km (81 mi) west of the capital city Bogotá. It is a stratovolcano composed of many layers of lava alternating with hardened volcanic ash and other pyroclastic rocks. Volcanic activity at Nevado del Ruiz began about two million years ago, during the Early Pleistocene or Late Pliocene, with three major eruptive periods. The current volcanic cone formed during the present eruptive period, which began 150,000 years ago."
+    "William Jefferson Clinton is an American retired politician and lawyer who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979, the governor of Arkansas from 1979 to 1981, and governor again from 1983 to 1992. His centrist Third Way political philosophy became known as Clintonism, which defined his presidency and the succeeding decades of Democratic Party into the 21st century."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1982,
-   "text": "South Korean boxer Kim Duk-koo suffered fatal brain injuries during a match with American Ray Mancini in Las Vegas, leading to significant rule changes in the sport.",
+   "year": 1992,
+   "text": "In poor conditions caused by Cyclone Forrest, Vietnam Airlines Flight 474 crashed near Nha Trang, killing 30 people.",
    "context": [
-    "Kim Duk-koo was a South Korean professional boxer who competed in the Lightweight division. He died after a world lightweight championship boxing match against Ray Mancini in 1982. His death sparked reforms aimed at better protecting the health of boxers, including reducing the number of rounds in championship bouts from 15 to 12."
+    "Extremely Severe Cyclonic Storm Forrest, also referred to as Tropical Storm Forrest while in the western Pacific basin before its Thai crossover, was a powerful tropical cyclone that prompted the evacuation of 600,000 people in Bangladesh in late November 1992. Originating from an area of disturbed weather near the Caroline Islands on November 9, Forrest was classified as a tropical depression three days later over the South China Sea. Tracking generally west, the system steadily organized into a tropical storm, passing Vietnam to the south, before striking Thailand along the Malay Peninsula on November 15. Once over the Bay of Bengal, Forrest turned northward on November 17 and significantly intensified. It reached its peak intensity on November 20 as a Category 4-equivalent cyclone on the Saffir–Simpson hurricane scale with winds of 230 km/h (140 mph). Hostile environmental conditions soon affected the cyclone as it turned abruptly east-northeastward. Forrest made landfall in northwestern Myanmar as a weakening system on November 21 before dissipating early the next day."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1974,
-   "text": "Six members of the DeFeo family were murdered in their home (house pictured) in Amityville, New York, events that later inspired the book The Amityville Horror and a subsequent media franchise.",
+   "year": 1991,
+   "text": "Croatian War of Independence: Croatian naval commandos attacked the Yugoslav patrol boat Mukos, starting the Battle of the Dalmatian Channels.",
    "context": [
-    "On November 13, 1974, six members of the DeFeo family were murdered in their home in Amityville, New York, United States. The sole surviving family member, 23-year-old Ronald DeFeo Jr., first claimed that his parents and four siblings were targeted in a contract killing by the American Mafia before confessing that he had committed the murders. DeFeo was found guilty of six counts of second degree murder and was sentenced to 25 years to life. The case inspired the book and film versions of The Amityville Horror."
+    "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1966,
-   "text": "Arab–Israeli conflict: In response to a Fatah landmine incident, the Israeli military conducted a large cross-border assault on the Jordanian-controlled West Bank village of Samu.",
+   "year": 1990,
+   "text": "Music producer Frank Farian admitted that the German R&B duo Milli Vanilli did not sing the vocals on their album Girl You Know It's True.",
    "context": [
-    "Since the declaration of Israel's establishment in 1948, conflict has existed between Israel and the surrounding Arab countries, rooted in the Israeli–Palestinian conflict. Zionists viewed the region of Palestine as the Jewish ancestral homeland and sought to establish a Jewish state or homeland there through colonization, while Arabs generally opposed Zionism, envisioning Palestine as Arab Palestinian land and an essential part of the Arab world."
+    "Franz Reuther, known professionally as Frank Farian, was a German record producer and singer who founded the 1970s disco-pop group Boney M., and the pop bands No Mercy and Milli Vanilli. He frequently created vocal groups in which the publicised members merely lip-synced to songs sung by himself and/or session performers. Farian owned the record label MCI and several subsidiaries."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1963,
-   "text": "A man wielding a dagger was subdued as he was about to attack Sanzō Nosaka, the chairman of the Japanese Communist Party.",
+   "year": 1970,
+   "text": "Southern Airways Flight 932, chartered by the Marshall University football team, crashed into a hill near Ceredo, West Virginia, killing all 75 people on board.",
    "context": [
-    "Sanzō Nosaka  was a Japanese writer, editor, labor organizer, communist agent, politician, and university professor and a founder of the Japanese Communist Party (JCP). He was the son of a wealthy Japanese merchant, and attended Keio University. While in university, Nosaka became interested in social movements, and joined a moderate labor organization after graduation, working as a research staff member, and as a writer and editor of the organization's magazine. He traveled to Britain in 1919 to study political economy, where he deepened his studies of Marxism and became a confirmed communist. Nosaka was a founding member of the Communist Party of Great Britain, but his activity within British communist circles led to him being deported from Britain in 1921."
+    "Southern Airways Flight 932 was a chartered Southern Airways twin engine McDonnell Douglas DC-9-30 domestic United States commercial jet flight from Stallings Field (ISO) in Kinston, North Carolina, to Huntington Tri-State Airport/Milton J. Ferguson Field (HTS) near Kenova and Ceredo, West Virginia. At 7:36 pm on November 14, 1970, the aircraft crashed into a hill just short of the Tri-State Airport, killing all 75 people on board – 37 members of the Marshall University football team, 5 coaches, 7 staff members, 21 boosters, 2 pilots, 2 flight attendants, and a charter coordinator. The team was returning home after a 17–14 loss to the East Carolina Pirates at Ficklen Stadium in Greenville, North Carolina. The accident is the deadliest tragedy for any sports team in US history."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1945,
-   "text": "FC Dynamo Moscow opened their exhibition tour of the United Kingdom with a 3–3 draw against Chelsea, breaking the attendance record for a British club football match.",
+   "year": 1969,
+   "text": "Apollo 12 launched from the Kennedy Space Center, later becoming the second crewed flight to land on the Moon.",
    "context": [
-    "FC Dynamo Moscow is a Russian professional football club based in Moscow. Dynamo returned to the Russian Premier League for the 2017–18 season after one season in the second-tier Russian Football National League."
+    "Apollo 12 was the sixth crewed flight in the United States Apollo program and the second to land on the Moon. It was launched on November 14, 1969, by NASA from the Kennedy Space Center in Florida, landing on the part of the Moon called the Ocean of Storms on November 19, 1969. Commander Charles \"Pete\" Conrad and Lunar Module Pilot Alan L. Bean completed just over one day and seven hours of lunar surface activity while Command Module Pilot Richard F. Gordon remained in lunar orbit."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1940,
-   "text": "Walt Disney's Fantasia, the first commercial film shown with stereophonic sound, premiered at the Broadway Theatre in New York City.",
+   "year": 1967,
+   "text": "American physicist Theodore Maiman was given a patent for his ruby laser systems, the world's first laser.",
    "context": [
-    "Walter Elias Disney was an American animator, film producer, voice actor, and entrepreneur. A pioneer of the American animation industry, he introduced several developments in the production of cartoons. As a film producer, he holds the record for most Academy Awards won by (22) and nominated for (59) an individual. He was presented with two Golden Globe Special Achievement Awards and an Emmy Award, among other honors. Several of his films are included in the National Film Registry by the Library of Congress and have also been named as some of the greatest films ever by the American Film Institute."
+    "Theodore Harold Maiman was an American engineer and physicist who is widely credited with the invention of the laser. Maiman's laser led to the subsequent development of many other types of lasers. The laser was successfully fired on May 16, 1960. In a July 7, 1960, press conference in Manhattan, Maiman and his employer, Hughes Aircraft Company, announced the laser to the world. Maiman was granted a patent for his invention, and he received many awards and honors for his work. His experiences in developing the first laser and subsequent related events are recounted in his book, The Laser Odyssey, later being republished in 2018 under a new title, The Laser Inventor: Memoirs of Theodore H. Maiman."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1927,
-   "text": "The Holland Tunnel opened, connecting Manhattan with Jersey City under the Hudson River.",
+   "year": 1960,
+   "text": "Ruby Bridges and the McDonogh Three became the first black children to attend an all-white elementary school in Louisiana as part of the New Orleans school desegregation crisis.",
    "context": [
-    "The Holland Tunnel is a vehicular tunnel under the Hudson River that connects Hudson Square and Lower Manhattan in New York City in the east to Jersey City, New Jersey, in the west. The Port Authority of New York and New Jersey operates the tunnel, which carries Interstate 78. The New Jersey side of the tunnel is the eastern terminus of New Jersey Route 139. It consists of two tubes: the eastbound tube is a toll road, while the westbound tube is toll-free. The Holland Tunnel is one of three vehicular crossings between Manhattan and New Jersey; the two others are the Lincoln Tunnel and George Washington Bridge."
+    "Ruby Nell Bridges Hall is an American civil rights activist. She was the first African American child to attend formerly whites-only William Frantz Elementary School in Louisiana during the New Orleans school desegregation crisis on November 14, 1960. She is the subject of a 1964 painting, The Problem We All Live With, by Norman Rockwell."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1914,
-   "text": "Zaian War: Zaian Berber tribesmen routed French forces at the Battle of El Herri in Morocco.",
+   "year": 1941,
+   "text": "World War II: German troops, aided by local auxiliaries, murdered nine thousand residents of the Słonim Ghetto in a single day.",
    "context": [
-    "The Zaian War was fought between France and the Zaian Confederation of Berber tribes in Morocco between 1914 and 1921 during the French conquest of Morocco. Morocco had become a French protectorate in 1912, and Resident-General Louis-Hubert Lyautey sought to extend French influence eastwards through the Middle Atlas mountains towards French Algeria. This was opposed by the Zaians, led by Mouha ou Hammou Zayani. The war began well for the French, who quickly took the key towns of Taza and Khénifra. Despite the loss of their base at Khénifra, the Zaians inflicted heavy losses on the French, who responded by establishing groupes mobiles, combined arms formations that mixed regular and irregular infantry, cavalry and artillery into a single force."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1809,
-   "text": "As part of the Persian Gulf campaign, a British flotilla arrived at and launched an amphibious assault on Ras Al Khaimah.",
+   "year": 1941,
+   "text": "Second World War: After suffering torpedo damage the previous day, the British aircraft carrier HMS Ark Royal sank as she was being towed to Gibraltar for repairs.",
    "context": [
-    "The Persian Gulf campaign of 1809 was an operation by the British East India Company and Royal Navy to force the Al Qasimi to cease their attacks on British ships in the Persian Gulf, particularly on the Persian and Arab coasts of the Strait of Hormuz. The operation's success was limited as the British did not press their advantage when invading Ras Al Khaimah and embarked without consolidating their gains and failed to permanently suppress the strong fleets of the Qawasim of Ras Al Khaimah and Sharjah. The expedition did achieve its short-term goals by destroying three Al Qasimi bases and over 80 vessels, including the largest Al Qasimi ship in the region, the converted merchant ship Minerva. Although operations continued into 1810, the British were unable to destroy every Al Qasimi vessel. By 1811, attacks had resumed, although at a lower intensity than previously."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1775,
-   "text": "American Revolutionary War: American forces captured Montreal without significant opposition as part of the Invasion of Quebec.",
+   "year": 1910,
+   "text": "Aviator Eugene Burton Ely performed the first takeoff from a ship (pictured), flying from a makeshift deck on USS Birmingham in Hampton Roads, Virginia.",
    "context": [
-    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
+    "Eugene Burton Ely was an American aviation pioneer, credited with the first shipboard aircraft takeoff and landing."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1642,
-   "text": "First English Civil War: Royalist forces engaged the much larger Parliamentarian army at the Battle of Turnham Green near Turnham Green, Middlesex.",
+   "year": 1851,
+   "text": "Moby-Dick, a novel by American writer Herman Melville (pictured), was first published in the United States.",
    "context": [
-    "The First English Civil War took place in England and Wales from 1642 to 1646, and forms part of the 1639 to 1653 Wars of the Three Kingdoms. An estimated 15% to 20% of adult males in England and Wales served in the military at some point between 1639 and 1653, while around 4% of the total population died from war-related causes. These figures illustrate the widespread impact of the conflict on society, and the bitterness it engendered as a result."
+    "Moby-Dick; or, The Whale is an 1851 epic novel by American writer Herman Melville. The book centers on the sailor Ishmael's narrative of the maniacal quest of Ahab, captain of the whaling ship Pequod, for vengeance against Moby Dick, the giant white sperm whale that bit off his leg on the ship's previous voyage. A contribution to the literature of the American Renaissance, Moby-Dick was published to mixed reviews, was a commercial failure, and was out of print at the time of the author's death in 1891. Its reputation as a Great American Novel was established only in the 20th century, after the 1919 centennial of its author's birth. William Faulkner said he wished he had written the book himself, and D. H. Lawrence called it \"one of the strangest and most wonderful books in the world\" and \"the greatest book of the sea ever written\". Its opening sentence, \"Call me Ishmael\", is among world literature's most famous."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1002,
-   "text": "King Æthelred II (pictured) ordered the massacre of all Danes in England.",
+   "year": 1680,
+   "text": "German astronomer Gottfried Kirch discovered the Great Comet of 1680, the first comet to be discovered by telescope.",
    "context": [
-    "Æthelred II, known as Æthelred the Unready, was King of the English from March 978 to December 1013 and again from February 1014 until his death. The epithet \"Unready\" or \"Unræd\" is a pun on his name in Old English, Æðel (noble) and ræd (counsel). He was the son of King Edgar and Queen Ælfthryth."
+    "Gottfried Kirch was a German astronomer and the first \"Astronomer Royal\" in Berlin and, as such, director of the nascent Berlin Observatory."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Loss leader (מוצר מכירת הפסד)",
+  "Earnout (תשלום מותנה בתוצאות)",
+  "Move the goalposts (להזיז את קווי השער)",
   "Blended rate (שיעור ממוצע משוקלל)",
   "Growing into your valuation (לצמוח לתוך השווי)",
   "When the music stops (כשהמוזיקה נפסקת)",
@@ -230,10 +233,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Rob Peter to pay Paul (לקחת מפיטר כדי לשלם לפול)",
   "Moral hazard (סיכון מוסרי)",
   "Winner-take-all market (שוק שבו המנצח לוקח הכל)",
-  "Poison pill (גלולת רעל)",
-  "Covenant (אמנת אשראי / תנאי הלוואה)",
-  "Take a haircut (לספוג \"תספורת\" / הפחתה בערך)",
-  "Whistle past the graveyard (לשרוק ליד בית הקברות / להתעלם מסכנה גלויה)"
+  "Poison pill (גלולת רעל)"
  ]
 }
 </input>

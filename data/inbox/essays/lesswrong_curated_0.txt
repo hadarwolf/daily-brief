@@ -118,6 +118,14 @@ That said, humans don't have telepathy, yet human-to-human collaboration still w
 
 I suspect a lot of context lives in the collective minds of humans that is not easily or obviously inferred in a one-to-one sense from all the training data. It's not a one-to-one mapping or many-to-one from training to outcome, there's many ways to interpret the training data that the AI is seeing during training and also tacit knowledge/wisdom. The latter is how I imagine you can have superintelligence but it will still fail to build an EUV machine one-shot because so much context lives in the entire supply chain and it's nowhere written down and it has to go and each and every one of those people and observe very closely what they do, and then try it out iterate and fail.
 
+Reminds me of if you wish to make an apple pie from scratch, first you must invent the universe. That "context" in the human's mind is everything that human went through, not just the problem at hand. Even the meaning of the words themselves is influenced by our life stories. And even if one ignores the psychological side of every word, every definition, every problem we care about and focus only on imparting factual knowledge to an agent - even those are so intertwined with how we first learnt about the problem or had the first eureka moment - that of course not every bit of context can be translated into an input for the LLM, at least not without a neuralink kind of implant.
+
+So, what % of the context definition is the limit at which we can call it good-enough? When asking for the capital of a country, the fact that I happen to love it is irrelevant to the AI's ability to answer the question well. Good enough? Yes? Of course yes. But what if I am applying for a job in that country? Does the fact of me loving it belong in the context? I don't know. Will I keep tweaking AI's contributions without ever telling it or knowing myself there is missing context? Maybe. Even if I were to define it clearly in words, are those words enough? Or will I still keep tweaking because the model weight for the word "love" did not take the AI output in the same direction as the meaning of the word "love" does for me.
+
+If I keep at it, I will end up at the basic discussion of what is language/meaning itself. And that is my point.
+
+Context can never be completely defined, by its intrinsic nature itself. The continuous interacting is the only way to discover the limit at which both parties agree it's good enough for a resolution. Even when one party happens to be an AI.
+
 Human painters used to strongly value photo-realism, but after cameras were invented they convinced everyone that, oops, photo-realism isn't important, what matters is expression, which coincidentally cameras can't do.
 
 It's worth pointing out that photo-realism wasn't always the goal, and indeed we've seen cultures go back-and-forth (valuing realism more, then less, then more), even restricting ourselves to just western history. Classical sculpture is of course renowned for its realism and naturalistic focus, traits which are still evident in art dating to the Principate.
@@ -130,10 +138,6 @@ The Colossus of Constantine does the same thing, but using a very different appr
 
 This is all a long way of saying that realism isn't and has never been the only ideal in art. Obviously there's some element of cope in people saying "we don't care about that anyways!" with the advent of photography, but I think that that would be a poor explanation in isolation. I could say more about how this is relevant to AI art but perhaps another time.
 
-Thank you for sharing! It's very strange that AIs are as good as they are at proofs but as bad as they are at writing. Naively, you'd think that since their mathematical abilities originate in the work of human mathematicians in the pre-training corpus, that their abilities to develop proofs and their ability to layout their proofs in a human understandable way would scale together. One suggestive thing is that AIs are generally very good at understanding other AI's spaghetti writing which is super weird. It is almost like they are developing a sloppy but consistent style of writing that is very different and very repellent to humans. Naively, as an outsider, this seems to me to be the tail tail sign of using a lot of synthetic data in pre-training. Like, I wonder if to improve the mathematical abilities of models, the frontier companies are including a lot of AI slop mathematics in the training data. I can guess that perhaps that would increase the mathematical ability of models but decrease the model's ability to describe its proofs in a human friendly way. It might also explain why AIs are so good at understanding AI slop.
-
-The way I make sense of it is by keeping in mind how tiny our human working memory is. We struggle to keep more than a handful of things in mind at a time. As a result, we have to do all kinds of chunking and abstraction tricks to understand complicated things, so we're essentially forced to make things more elegant to understand them. Machines are far less limited in this way. They can hold far more detail and context in working memory, which allows them to follow the spaghetti we cannot without expending excessive mental effort. As an analogy, compare how easy it is for a human versus a machine to interpret a QR code.
-
 It seems very important to figure out the degree to which AIs can think, and the degree to which they help with human thought, and how exactly to leverage that if you're trying to do serious intellectual work.
 
 I have a somewhat different relationship to the final few questions than Dynomight does, where I don't particularly care about whether "mathematicians have a job/cultural-relevance", and instead just, like, ya know, get superalignment or various other intellectual problems solved, correctly.
@@ -141,6 +145,10 @@ I have a somewhat different relationship to the final few questions than Dynomig
 I think we are still in the stage where exposition is a meaningful bottleneck. There may come a time where AIs are perfectly good at that too. I think the step where "a human actually understands the final result and would be able to tell if it was either incorrect, or missing something important, or not actually useful" will continue being important for applied work.
 
 But, I appreciated this as a fairly in-depth report from someone who seems to both be trying to use AIs to do real work, with a fair amount of introspective and surrounding detail.
+
+Thank you for sharing! It's very strange that AIs are as good as they are at proofs but as bad as they are at writing. Naively, you'd think that since their mathematical abilities originate in the work of human mathematicians in the pre-training corpus, that their abilities to develop proofs and their ability to layout their proofs in a human understandable way would scale together. One suggestive thing is that AIs are generally very good at understanding other AI's spaghetti writing which is super weird. It is almost like they are developing a sloppy but consistent style of writing that is very different and very repellent to humans. Naively, as an outsider, this seems to me to be the tail tail sign of using a lot of synthetic data in pre-training. Like, I wonder if to improve the mathematical abilities of models, the frontier companies are including a lot of AI slop mathematics in the training data. I can guess that perhaps that would increase the mathematical ability of models but decrease the model's ability to describe its proofs in a human friendly way. It might also explain why AIs are so good at understanding AI slop.
+
+The way I make sense of it is by keeping in mind how tiny our human working memory is. We struggle to keep more than a handful of things in mind at a time. As a result, we have to do all kinds of chunking and abstraction tricks to understand complicated things, so we're essentially forced to make things more elegant to understand them. Machines are far less limited in this way. They can hold far more detail and context in working memory, which allows them to follow the spaghetti we cannot without expending excessive mental effort. As an analogy, compare how easy it is for a human versus a machine to interpret a QR code.
 
 Apologies, seems to have confused a lot of people, it's just a placeholder for some kind of generic mathematical transformation.
 
@@ -160,6 +168,16 @@ It looks extremely tangled to me, compared to these human-curated proofs. But Na
 
 I'd conjecture (just based on my own experience) that it's possible to make that Navier-Stokes formalization much nicer. But not confident at all.
 
+Comment from a fellow mathematician who has been using AI a lot in the past year for (math) coding and, more recently, math research. On your observation 19, I felt like you do a few months ago, but I've come back around. My friends (the mathematician ones at least) keep sending me cool facts and arguments, and my mind continues to be drawn to the process of exploring these.
+
+I still enjoy thinking about those arguments and communicating about then. What seems somewhat pointless to me is the productive component, i.e., the papers as we used to conceive of them. On the other hand, writing is something I enjoy and is also a crucial component to how I, personally, learn mathematics. So, I intend to continue to do it. But, I think the structure will move much more to more physics-style reviews, or perhaps to technical reports, less focused on one theorem than on an entire period of research around a particular question.
+
+But maybe that's still just making the proof easier for humans to understand? No! For one, this usually makes the proof shorter, and sometimes dramatically shorter. More importantly, during this process, someone (maybe me, maybe the AI) will often realize that there's a different proof strategy that gives a stronger result. Instead of proving x < 9.7, now we can prove x < 7.1. Thus, artisanal human abstractions are "objectively" useful.
+
+It seems to me that making the AI do reinforcement learning on actually creating working proofs was the sensible first step for doing reinforcement learning.
+
+Making them do reinforcement learning to make the proofs shorter should also be easy to do if they just throw compute at the problem given that proof complexity and length are variables you can automatically measure.
+
 Contrary to what you may have heard, humans are not obsolete for math. Not yet. The most obvious reason is that AI is still bad at writing.
 
 My question is - what about when they are. That is, if LLMs become better at writing mathematics articles than humans in all respects. To me this is the urgent point that requires consideration. I feel that we are reacting to partial stages on the way to that one and so are always reactive and behind the game.
@@ -170,11 +188,11 @@ but safety first. please help characterize and formalize (AI) mindspace so we ca
 
 Could you clarify your intention here? You appear to me to be being poetically opaque. On a site dedicated to rational thought and expression, no less. Are you saying you expect some kind of transcendence? AI going off on its own is not a human adventure.
 
-But maybe that's still just making the proof easier for humans to understand? No! For one, this usually makes the proof shorter, and sometimes dramatically shorter. More importantly, during this process, someone (maybe me, maybe the AI) will often realize that there's a different proof strategy that gives a stronger result. Instead of proving x < 9.7, now we can prove x < 7.1. Thus, artisanal human abstractions are "objectively" useful.
+Why do tech experts distinguish yourselves from "normal" people? What does this distinguish mean? We are all human. I am glad you wrote this essay all by yourself
 
-It seems to me that making the AI do reinforcement learning on actually creating working proofs was the sensible first step for doing reinforcement learning.
+Math people know that most people don’t care about math. And it can be like learning another language, especially for researchers. Mathematicians are self conscious about it because they’d like to explain what they’ve discovered, but the number of people who know math language is small.
 
-Making them do reinforcement learning to make the proofs shorter should also be easy to do if they just throw compute at the problem given that proof complexity and length are variables you can automatically measure.
+Strong agree on most of the descriptions of subjective experience of doing mathematics right now. A lot has been written by mathematicians on AI in the last month and somehow i find this essay to reflect my personal experience better than anything else i have read. Thanks.
 
 I liked your point that AI has improved more in a Spock-like direction than a Kirk-like direction. I suspect this will continue, since the only algorithm we have for achieving superhuman performance is RLVR, and only really possible on Spock-like tasks.
 

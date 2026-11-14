@@ -20,123 +20,123 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ars_technica#0",
+     "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+     "published": "2026-11-14T00:49:13+00:00",
+     "summary": "One way or another, the company will get some more data on Saturday."
+    },
+    {
+     "ref": "ars_technica#1",
+     "title": "FAA has lifted its third-ever nationwide ground stop",
+     "published": "2026-11-13T23:17:38+00:00",
+     "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage."
+    },
+    {
+     "ref": "ars_technica#2",
+     "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+     "published": "2026-11-13T21:59:01+00:00",
+     "summary": "Cost and access barriers are pushing people to modified use and unapproved versions."
+    },
+    {
+     "ref": "ars_technica#3",
+     "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+     "published": "2026-11-13T21:20:47+00:00",
+     "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
+    },
+    {
+     "ref": "ars_technica#4",
+     "title": "In elephants, the resilience of communities has its limits",
+     "published": "2026-11-13T20:03:13+00:00",
+     "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population."
+    },
+    {
+     "ref": "ars_technica#5",
+     "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+     "published": "2026-11-13T19:49:16+00:00",
+     "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits."
+    },
+    {
+     "ref": "ars_technica#6",
+     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+     "published": "2026-11-13T17:25:45+00:00",
+     "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
+    },
+    {
+     "ref": "ars_technica#7",
+     "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+     "published": "2026-11-13T16:26:32+00:00",
+     "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights."
+    },
+    {
+     "ref": "ars_technica#8",
+     "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+     "published": "2026-11-13T15:26:53+00:00",
+     "summary": "Governments, hospitals, courts scrambled by global Microsoft outage."
+    },
+    {
+     "ref": "ars_technica#9",
+     "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+     "published": "2026-11-13T15:09:39+00:00",
+     "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death."
+    },
+    {
+     "ref": "ars_technica#10",
+     "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+     "published": "2026-11-13T14:45:04+00:00",
+     "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?"
+    },
+    {
+     "ref": "ars_technica#11",
+     "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+     "published": "2026-11-13T14:29:15+00:00",
+     "summary": "Climate action has stalled for five years as fossil fuel development keeps growing."
+    },
+    {
+     "ref": "ars_technica#12",
+     "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+     "published": "2026-11-13T12:00:40+00:00",
+     "summary": "\"You can simplify it as a big tank feeding engines.\""
+    },
+    {
+     "ref": "ars_technica#13",
+     "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
+     "published": "2026-11-13T11:50:38+00:00",
+     "summary": "Specialized’s second-fastest bike may be the smart buy."
+    },
+    {
+     "ref": "ars_technica#14",
      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
      "published": "2026-11-12T22:59:51+00:00",
      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years."
     },
     {
-     "ref": "ars_technica#1",
-     "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-     "published": "2026-11-12T22:28:47+00:00",
-     "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
-    },
-    {
-     "ref": "ars_technica#2",
+     "ref": "ars_technica#15",
      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
      "published": "2026-11-12T19:59:59+00:00",
      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time."
     },
     {
-     "ref": "ars_technica#3",
+     "ref": "ars_technica#16",
      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
      "published": "2026-11-12T19:49:11+00:00",
      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features."
     },
     {
-     "ref": "ars_technica#4",
+     "ref": "ars_technica#17",
      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
      "published": "2026-11-12T19:23:03+00:00",
      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon."
     },
     {
-     "ref": "ars_technica#5",
+     "ref": "ars_technica#18",
      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
      "published": "2026-11-12T19:09:57+00:00",
      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks."
     },
     {
-     "ref": "ars_technica#6",
+     "ref": "ars_technica#19",
      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
      "published": "2026-11-12T18:57:45+00:00",
      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”"
-    },
-    {
-     "ref": "ars_technica#7",
-     "title": "Netflix releases new trailer for Ray Gunn",
-     "published": "2026-11-12T18:38:38+00:00",
-     "summary": "\"It's hard being the only honest players in a crooked game.\""
-    },
-    {
-     "ref": "ars_technica#8",
-     "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
-     "published": "2026-11-12T18:28:22+00:00",
-     "summary": "\"We're not doing this thing because we like rockets.\""
-    },
-    {
-     "ref": "ars_technica#9",
-     "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
-     "published": "2026-11-12T18:17:19+00:00",
-     "summary": "Doctors warn that such life-threatening cases are becoming more common."
-    },
-    {
-     "ref": "ars_technica#10",
-     "title": "The amazing disappearing exoplanet",
-     "published": "2026-11-12T17:18:10+00:00",
-     "summary": "An exoplanet seems to have stopped transiting in front of its host star."
-    },
-    {
-     "ref": "ars_technica#11",
-     "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-     "published": "2026-11-12T14:50:17+00:00",
-     "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker."
-    },
-    {
-     "ref": "ars_technica#12",
-     "title": "Nvidia CEO Jensen Huang has resigned",
-     "published": "2026-11-12T14:05:17+00:00",
-     "summary": "Nvidia CEO also had an affair with a senior executive at the firm."
-    },
-    {
-     "ref": "ars_technica#13",
-     "title": "Hundreds of streaming services and nothing to watch",
-     "published": "2026-11-12T14:00:19+00:00",
-     "summary": "Most viewers wish there was a TV Guide for streaming."
-    },
-    {
-     "ref": "ars_technica#14",
-     "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
-     "published": "2026-11-12T12:00:37+00:00",
-     "summary": "Apple's M6 keeps the iMac current without shaking things up much."
-    },
-    {
-     "ref": "ars_technica#15",
-     "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-     "published": "2026-11-11T20:32:21+00:00",
-     "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap."
-    },
-    {
-     "ref": "ars_technica#16",
-     "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-     "published": "2026-11-11T20:22:03+00:00",
-     "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\""
-    },
-    {
-     "ref": "ars_technica#17",
-     "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
-     "published": "2026-11-11T19:00:26+00:00",
-     "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\""
-    },
-    {
-     "ref": "ars_technica#18",
-     "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-     "published": "2026-11-11T18:16:40+00:00",
-     "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles."
-    },
-    {
-     "ref": "ars_technica#19",
-     "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
-     "published": "2026-11-11T18:05:26+00:00",
-     "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight."
     }
    ]
   },
@@ -146,81 +146,75 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "ביי ביי למפתחות: הארנק של גוגל ישמש לפתיחה של דלתות",
+     "published": "2026-11-13T15:26:23+00:00",
+     "summary": "אתם כבר רגילים לשלם איתו בסופר ולתקף איתו ברכבת, אבל הבית שלכם נשאר עד עכשיו מחוץ למשחק, וכשאנחנו כותבים משחק, אנחנו מתכוונים לארנק הדיגיטלי שלכם. עכשיו, גוגל עושה צעד נוסף לעבר העלמת צרור המפתחות המעיק שלנו, ומוסיפה סוף סוף ל-Wallet את היכולת לפתוח את דלת הבית, גם בלי להוציא את המכשיר מהכיס. פשוט מצמידים את […] The post ביי ביי למפתחות: הארנק של גוגל ישמש לפתיחה של דלתות appeared first on גיקטיים"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "הכלי הזה מאפשר לכם לשכפל כל תוכנה או משחק",
+     "published": "2026-11-13T14:30:51+00:00",
+     "summary": "האם אנחנו בדרך לסופם של התשלומים החודשיים המוגזמים לחברות הענק? אחרי ששיכפל בהצלחה את התוכנות של אדובי ומיקרוסופט, מפתח תוכנה זועם אחד שחרר את נשק יום הדין של עולם הקוד הפתוח: כלי חינמי שמנתח כל תוכנה, אתר או אפליקציה, מהנדס אותה לאחור, ובונה לכם גרסה זהה בעזרת AI. ככה בדיוק זה עובד. התחיל עם אדובי, […] The post הכלי הזה מאפשר לכם לשכפל כל תוכנה או משחק appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#2",
+     "title": "ואם היינו אומרים לכם שהסרט הכי מדובר השנה נוצר באמצעות AI?",
+     "published": "2026-11-13T13:12:04+00:00",
+     "summary": "רעיון התודעה המשותפת הופיע ביצירות מדע בדיוני הרבה לפני שנוצר מודל ה-AI הראשון. מ\"המשחק של אנדר\", דרך \"סטארטרק\" ועד \"פלוריבוס\" – \"מח כוורת\" הוא כר פורה לעלילות דיסטופיות ואוטופיות (תלוי את מי שואלים) שמעוררות שאלות על אובדן העצמי, ומנגד מציעות פתרון לבדידות האנושית ולמלחמות. במציאות, הרעיון הזה הופך את כולנו למומחים להכל שחולקים צבר אדיר […] The post ואם היינו אומרים לכם שהסרט הכי מדובר השנה נוצר "
+    },
+    {
+     "ref": "geektime#3",
      "title": "12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקלה הגדולה",
      "published": "2026-11-13T09:52:43+00:00",
      "summary": "תקלה עולמית נרחבת משתקת כבר יותר מ-12 שעות חלק גדול מהשירותים של מיקרוסופט ובראשם שירותי Microsoft 365, כולל אאוטלוק, Teams וכלי ה-AI של החברה, Copilot. לפי הנתונים של אתר Downdetector, בשיא התקלה נרשמו קרוב ל-140 אלף דיווחים של משתמשים מ-74 מדינות. אבל לא רק לקוחות פרטיים או ארגוניים של מיקרוסופט סובלים מהקריסה. גם ענקיות טכנולוגיה […] The post 12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקל"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#4",
      "title": "בדקנו את הלפטופ הראשון עם המעבד החדש של NVIDIA",
      "published": "2026-11-13T08:03:32+00:00",
      "summary": "ב-2020 חל שינוי פרדיגמה ענק בשוק המחשבים, כאשר Apple הודיעה שהיא מוותרת על שירותיה של אינטל לטובת מעבדים בפיתוח עצמי. ההימור הזה השתלם מאוד לאפל מבחינה טכנית וגם כלכלית. ארבע שנים לאחר מכן השינוי הזה הגיע גם ל-PC עם ההודעה של מיקרוסופט על שיתוף פעולה ראשון עם קוואלקום שהביא את מעבדי ARM למחשבי ווינדוס. ביוני […] The post בדקנו את הלפטופ הראשון עם המעבד החדש של NVIDIA appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#5",
      "title": "זה לקח זמן, אבל וואטסאפ מוסיפה סוף סוף הודעות נעלמות",
      "published": "2026-11-12T17:49:10+00:00",
      "summary": "אולי זו מהפכת ה-Vibe Coding. אולי זה בזכות Muse ואולי פשוט מישהו ב-Meta החליט שככה יהיה, אבל WhatsApp התחילה להעלות הילוך בכל הנוגע לשחרור פיצ'רים חדשים, וכעת נודע כי עוד פיצ'ר חדש ומבוקש נמצא בדרך אלינו: הודעות נעלמות. בואו להתווכח על האם זה היה בטלגרם קודם – בטלגרם של גיקטיים עכשיו אפשר לשלוח גם טקסט […] The post זה לקח זמן, אבל וואטסאפ מוסיפה סוף סוף הודעות נעלמות appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#6",
      "title": "ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר",
      "published": "2026-11-12T14:03:17+00:00",
      "summary": "זה קרה: ג'נסן הואנג, המייסד-השותף, המנכ\"ל, והאיש שמזוהה יותר מכל אחד אחר עם מעיל שחור ועם השם NVIDIA, התפטר לפני זמן קצר מתפקידו בחברה אותה הקים. את הואנג תחליף בתפקיד, ה-CFO של אנבידיה, קולט קרס, שתשמש כמנכ\"לית עד שיימצא המנכ\"ל הקבוע. כל עדכוני הטכנולוגיה ברגע שהם קורים וכך, אחרי יותר משלושה עשורים שבהם הוא מוביל […] The post ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר appeared first on גי"
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#7",
      "title": "ממשיכות לגייס: הנה כמה משרות פתוחות בחברות טק בישראל",
      "published": "2026-11-12T13:42:26+00:00",
      "summary": "בודקים מה הכיוון הבא שלכם ומחפשים עבודה בהייטק? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרות פיתוח ומשרות מומלצות בהייטק, בדיוק עבור הרגע הזה שאתם רוצים לרענן את הטייטל. החברות, שמופיעות גם בגיקטיים אינסיידר, מציעות משרות שפתוחות עכשיו ובעמודים שלהן תוכלו לקבל פרטים על החברה, הגישה שלה ללמידה ופיתוח מקצועי, הסטאק הטכנולוגי, […] The post ממשיכות לגייס: הנה כמה משרות פתוחות בחברות טק בי"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#8",
      "title": "חברת השבבים Marvell מפטרת עשרות עובדים בישראל",
      "published": "2026-11-12T11:46:41+00:00",
      "summary": "ענקית השבבים האמריקאית מארוול מפטרת עשרות עובדים בישראל מתוך כ-500 המועסקים במרכזי הפיתוח שלה בפתח תקווה וביקנעם. השפעה על \"חלק מצומצם\" על פי דיווח בכלכליסט, בניגוד לקיצוצים דומים בחברות בינלאומיות אחרות, כאן לא מדובר בגל קיצוצים עולמי בחברה, אלא בהחלטה נקודתית הנוגעת לאחד מצוותי ההנדסה המקומיים. הפעילות של מארוול בישראל מתבססת על מספר חברות שנרכשו […] The post חברת השבבים Marvell מפטרת עשרות עובד"
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#9",
      "title": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
      "published": "2026-11-12T08:58:03+00:00",
      "summary": "מאת אלי איינהורן אם אתם מפתחים שמשתמשים ב-Claude Code Desktop, אז אתם מכירים את הפיצ'ר הבא: מבקשים מ-Claude לבדוק קובץ HTML לדוגמה, והאפליקציה מרנדרת אותו אוטומטית בפאנל צדדי. נוח, מהיר, ושימושי. ובכן… לא בדיוק. החוקרים שלנו ב-Noma Labs גילו חולשה חמורה ב-Preview Pane של אפליקציית הדסקטופ, שאפשרה לקובץ HTML לעקוף שלוש שכבות הגנה ולשלוף סיסמאות, […] The post איך Claude Code Desktop כמעט הדליף את כל"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#10",
      "title": "מה זאת אומרת מי יכול להחליף את ג'נסן? יש הרבה שמות",
      "published": "2026-11-12T08:08:27+00:00",
      "summary": "איך הגלגל מתהפך. לפני שנייה וחצי ג'נסן הואנג היה אחת מהדמויות המוערכות והאהובות ביותר בעולם הטכנולוגיה. סופרסטאר, שגדל בתנאים לא פשוטים, הצליח להקים חברה, לפוצץ אצטדיונים עם עשרות אלפי מעריצים בעזרת מעיל שחור, השפריץ כריזמה נדירה, הוכיח הבנה טכנולוגית נדירה עד לרמת השערים הלוגיים, והוביל תוכניות עסקיות מבריקות. אבל זה היה עד השבוע. השבוע האחרון […] The post מה זאת אומרת מי יכול להחליף את ג'נסן? יש"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#11",
      "title": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה",
      "published": "2026-11-12T04:47:17+00:00",
      "summary": "חשבתם שהשבוע האחרון היה סוער לאנבידיה? נראה שזו רק ההתחלה, עם צל כבד על אחד מהאנשים החזקים ביותר בעולם הטכנולוגיה. דירקטוריון NVIDIA נערך להדיח את המנכ\"ל והמייסד של החברה, ג'נסן הואנג, כך מדווח הלילה (ה') הוול סטריט ג'ורנל על סמך גורמים המקורבים לנושא. על פי הדיווח, הדירקטוריון צפוי להתכנס כנראה כבר היום כדי להכריע על […] The post דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומ"
-    },
-    {
-     "ref": "geektime#9",
-     "title": "סטארטאפ ישראלי שנחשף עכשיו בונה Holodeck לסוכנים",
-     "published": "2026-11-11T14:00:29+00:00",
-     "summary": "כן. כולם במשרד כבר שמעו על הסוכן שלך שחסך לך 50 שקל או מוסיף אירועים ללוח השנה עם המשפחה. באמת, אנחנו לא יכולים לשמוע מה עוד הוא יודע לעשות. אבל בניגוד לאייג'נט המרתק שלך, כשארגונים בונים אייג'נטים ומשחררים אותם לעולם האמיתי, דברים משתבשים. אז סטארטאפ ישראלי חדש שנחשף היום (ד') רוצה ליצור סביבה שבה הסוכנים […] The post סטארטאפ ישראלי שנחשף עכשיו בונה Holodeck לסוכנים appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#10",
-     "title": "הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 מיליון דולר כדי להתחרות בה",
-     "published": "2026-11-11T14:00:04+00:00",
-     "summary": "כשארבעה מהנדסים, שעומדים מאחורי אחת מתשתיות הדאטה המרכזיות של מיקרוסופט, עוזבים את החברה כדי להקים סטארטאפ, אתם יכולים לדעת די בבטחון שזה לא בשביל לבנות עוד אפליקציית To-Do… הסטארטאפ הישראלי Edelbyte, שנחשף היום (ד') לראשונה, מודיע על גיוסים בגובה 70 מיליון דולר בתוך שנה בלבד מאז הקמתו. המטרה? לפתור את כאב הראש שתשתיות ה-AI עושות […] The post הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 "
-    },
-    {
-     "ref": "geektime#11",
-     "title": "אחרי צירופה של נועה ארגמני: קרן Vine מגייסת 236 מיליון דולר להשקעות בסטארטאפים",
-     "published": "2026-11-11T13:09:59+00:00",
-     "summary": "קרן ההון סיכון Vine Ventures הודיעה על השלמת גיוס של 236 מיליון דולר לקרן השלישית שלה, שתשקיע בחברות בארה\"ב ובישראל. לפי הקרן, כ-50% מכספי הקרן החדשה צפויים להיות מוקצים לחברות ישראליות. הגיוס מביא את היקף הנכסים המנוהלים של Vine ליותר מ-500 מיליון דולר, חמש שנים בלבד מאז שהוקמה. בגיוס השתתפו משקיעים חדשים וקיימים, ובהם מנכ\"לי […] The post אחרי צירופה של נועה ארגמני: קרן Vine מגייסת 236 מיליון דול"
-    },
-    {
-     "ref": "geektime#12",
-     "title": "חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה",
-     "published": "2026-11-11T12:34:46+00:00",
-     "summary": "יצרנית ה-LiDAR הישראלית Innoviz מראש העין הכריזה היום (ד') על מהלך פיטורים חריג, שבמסגרתו היא צפויה להיפרד מרבע ממצבת כוח האדם שלה – כ-90 עובדים בסך הכל. זה סבב הפיטורים השלישי של החברה בשלוש השנים האחרונות, כאשר בתחילת 2024 פיטרה עשרות עובדים – שהם 13% מכוח האדם שלה. בתחילת השנה שעברה הכריזה אינוויז על סבב […] The post חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה appeared first on גיקטיים ."
     }
    ]
   },
@@ -230,117 +224,75 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Microsoft Outlook/365 still down after 12 hours",
-     "published": "2026-11-13T05:08:23+00:00",
-     "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 305 # Comments: 202"
+     "title": "FAA lifted National Ground Stop at 0119Z",
+     "published": "2026-11-14T01:30:01+00:00",
+     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 186 # Comments: 174"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "IceWM",
-     "published": "2026-11-13T04:54:53+00:00",
-     "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 182 # Comments: 92"
+     "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+     "published": "2026-11-14T01:10:22+00:00",
+     "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 188 # Comments: 73"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Nvidia employees petition to bring back Jensen Huang",
-     "published": "2026-11-13T02:16:24+00:00",
-     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 599 # Comments: 446"
+     "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+     "published": "2026-11-13T22:04:24+00:00",
+     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 225 # Comments: 52"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-     "published": "2026-11-12T23:06:17+00:00",
-     "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 255 # Comments: 72"
+     "title": "All US airports are currently ground stopped",
+     "published": "2026-11-13T21:06:52+00:00",
+     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 175 # Comments: 33"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Foundation Models framework",
-     "published": "2026-11-12T21:13:26+00:00",
-     "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 215 # Comments: 31"
+     "title": "FAA issues national ground stop",
+     "published": "2026-11-13T21:05:53+00:00",
+     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1376 # Comments: 850"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-     "published": "2026-11-12T19:51:33+00:00",
-     "summary": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 287 # Comments: 297"
+     "title": "FM-1 Workbench",
+     "published": "2026-11-13T19:14:02+00:00",
+     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 191 # Comments: 132"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-     "published": "2026-11-12T19:05:33+00:00",
-     "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 317 # Comments: 129"
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "published": "2026-11-13T18:40:44+00:00",
+     "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 306 # Comments: 170"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "published": "2026-11-12T18:52:01+00:00",
-     "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 420 # Comments: 115"
+     "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+     "published": "2026-11-13T17:58:37+00:00",
+     "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana "
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Rust 1.100",
-     "published": "2026-11-12T18:39:05+00:00",
-     "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 692 # Comments: 260"
+     "title": "After 600 experiments, here's what I discovered about JEPA world models",
+     "published": "2026-11-13T17:55:28+00:00",
+     "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 220 # Comments: 36"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-     "published": "2026-11-12T18:22:22+00:00",
-     "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 195 # Comments: 38"
+     "title": "A technical vision for the Haskell ecosystem",
+     "published": "2026-11-13T14:43:12+00:00",
+     "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 182 # Comments: 96"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Service degradation on Microsoft 365",
-     "published": "2026-11-12T18:20:48+00:00",
-     "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 901 # Comments: 784"
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "published": "2026-11-13T12:10:24+00:00",
+     "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 464 # Comments: 315"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Gemini 4 Hydrogen",
-     "published": "2026-11-12T18:01:48+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 531 # Comments: 333"
-    },
-    {
-     "ref": "hn_frontpage#12",
-     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-     "published": "2026-11-12T17:02:42+00:00",
-     "summary": "https://x.com/simpsoka/status/2115254318161182876 Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 532 # Comments: 183"
-    },
-    {
-     "ref": "hn_frontpage#13",
-     "title": "I'm making LLMs work on small and old devices",
-     "published": "2026-11-12T15:23:10+00:00",
-     "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 377 # Comments: 134"
-    },
-    {
-     "ref": "hn_frontpage#14",
-     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-     "published": "2026-11-12T14:18:49+00:00",
-     "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 274 # Comments: 101"
-    },
-    {
-     "ref": "hn_frontpage#15",
-     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-     "published": "2026-11-12T14:12:37+00:00",
-     "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 219 # Comments: 5"
-    },
-    {
-     "ref": "hn_frontpage#16",
-     "title": "Jensen Huang resigns",
-     "published": "2026-11-12T13:52:29+00:00",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens... Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 3582 # Comments: 3148"
-    },
-    {
-     "ref": "hn_frontpage#17",
-     "title": "Anthropic IPO",
-     "published": "2026-11-12T11:46:41+00:00",
-     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 938 # Comments: 869"
-    },
-    {
-     "ref": "hn_frontpage#18",
-     "title": "Relax: JIT compiler for Rust to reduce build times",
-     "published": "2026-11-11T21:20:01+00:00",
-     "summary": "Article URL: https://makepad.github.io/relax/ Comments URL: https://news.ycombinator.com/item?id=50458849 Points: 163 # Comments: 74"
+     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+     "published": "2026-11-12T22:03:09+00:00",
+     "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 691 # Comments: 201"
     }
    ]
   },
@@ -350,33 +302,39 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ieee_spectrum#0",
+     "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+     "published": "2026-11-13T19:00:03+00:00",
+     "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challenges. “AI ethics” refers to the principles developers use to govern and operate workflows. “Governanc"
+    },
+    {
+     "ref": "ieee_spectrum#1",
+     "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
+     "published": "2026-11-13T11:00:02+00:00",
+     "summary": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their shape in the wind. Why a moderate wind on a heavily iced line can govern design, and how galloping an"
+    },
+    {
+     "ref": "ieee_spectrum#2",
      "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
      "published": "2026-11-11T11:00:02+00:00",
      "summary": "This article is brought to you by Innomotics . In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in 1866, this groundbreaking principle remains fundamental to modern electrical engineering more than a century and a half later – and continues to shape the technology portfolio of Inn"
     },
     {
-     "ref": "ieee_spectrum#1",
+     "ref": "ieee_spectrum#3",
      "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
      "published": "2026-11-10T19:00:02+00:00",
      "summary": "Bishnu Saroop Atal Acoustics and signal processing pioneer Life Fellow, 93; died 19 August Atal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T ’s Shannon Laboratory, in Florham Park, N.J. His pioneering work on voice-coding techniques became the foundation for efficient, high-quality voice transmission over cellular networks. He received the "
     },
     {
-     "ref": "ieee_spectrum#2",
+     "ref": "ieee_spectrum#4",
      "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
      "published": "2026-11-10T11:00:02+00:00",
      "summary": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics product development. What you will learn about: Why shock failures found during physical qualification are costly, and how coupled electrical, mechanical, thermal, and packaging effects m"
     },
     {
-     "ref": "ieee_spectrum#3",
+     "ref": "ieee_spectrum#5",
      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
      "published": "2026-11-09T16:25:06+00:00",
      "summary": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yield with a slight overview of decision making. One of the important components for these agents is to ensure that the logs"
-    },
-    {
-     "ref": "ieee_spectrum#4",
-     "title": "How Do You Land on a Moon With Almost No Gravity?",
-     "published": "2026-11-06T15:00:02+00:00",
-     "summary": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos , the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. Too small to darken the pale, dust-tinged sky, but orbiting close enough to eclipse a significant fraction of the Sun, Phobos pa"
     }
    ]
   },
@@ -386,51 +344,45 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "mit_tech_review#0",
+     "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+     "published": "2026-11-13T13:10:00+00:00",
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…"
+    },
+    {
+     "ref": "mit_tech_review#1",
      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
      "published": "2026-11-13T10:00:00+00:00",
      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…"
     },
     {
-     "ref": "mit_tech_review#1",
+     "ref": "mit_tech_review#2",
      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
      "published": "2026-11-13T10:00:00+00:00",
      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…"
     },
     {
-     "ref": "mit_tech_review#2",
+     "ref": "mit_tech_review#3",
      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
      "published": "2026-11-12T20:16:24+00:00",
      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…"
     },
     {
-     "ref": "mit_tech_review#3",
+     "ref": "mit_tech_review#4",
      "title": "The Download: COP31’s climate challenge and the quest for immortality",
      "published": "2026-11-12T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…"
     },
     {
-     "ref": "mit_tech_review#4",
+     "ref": "mit_tech_review#5",
      "title": "What to know about this year’s UN climate talks",
      "published": "2026-11-11T17:00:00+00:00",
      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this…"
     },
     {
-     "ref": "mit_tech_review#5",
+     "ref": "mit_tech_review#6",
      "title": "The Download: preserving minds and weighing open AI risks",
      "published": "2026-11-11T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…"
-    },
-    {
-     "ref": "mit_tech_review#6",
-     "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-     "published": "2026-11-10T13:10:00+00:00",
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…"
-    },
-    {
-     "ref": "mit_tech_review#7",
-     "title": "Evolving metal extraction processes",
-     "published": "2026-11-10T13:00:00+00:00",
-     "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems…"
     }
    ]
   },
@@ -440,45 +392,51 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "simon_willison#0",
+     "title": "datasette-cluster-map 0.19",
+     "published": "2026-11-13T23:02:45+00:00",
+     "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , op"
+    },
+    {
+     "ref": "simon_willison#1",
+     "title": "datasette-leaflet 0.3",
+     "published": "2026-11-13T22:30:54+00:00",
+     "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it."
+    },
+    {
+     "ref": "simon_willison#2",
      "title": "llm-gemini 0.37",
      "published": "2026-11-12T22:55:19+00:00",
      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 "
     },
     {
-     "ref": "simon_willison#1",
+     "ref": "simon_willison#3",
      "title": "Gemini Decisions API",
      "published": "2026-11-11T22:03:25+00:00",
      "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free"
     },
     {
-     "ref": "simon_willison#2",
+     "ref": "simon_willison#4",
      "title": "aws-emulator",
      "published": "2026-11-11T21:18:30+00:00",
      "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently req"
     },
     {
-     "ref": "simon_willison#3",
+     "ref": "simon_willison#5",
      "title": "Browse tools.simonwillison.net by tag",
      "published": "2026-11-11T18:42:50+00:00",
      "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool. The homepage now features tag clouds for browsing by each of thos"
     },
     {
-     "ref": "simon_willison#4",
+     "ref": "simon_willison#6",
      "title": "llm 0.37.2",
      "published": "2026-11-11T17:19:52+00:00",
      "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key to"
     },
     {
-     "ref": "simon_willison#5",
+     "ref": "simon_willison#7",
      "title": "Anthropic's IPO roadshow video",
      "published": "2026-11-11T15:11:59+00:00",
      "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I'm not sure why "
-    },
-    {
-     "ref": "simon_willison#6",
-     "title": "llm-gemini 0.36",
-     "published": "2026-11-10T20:09:44+00:00",
-     "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for th"
     }
    ]
   },
@@ -488,63 +446,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
-     "title": "Donald Trump really wants Tim Cook to run Nvidia",
-     "published": "2026-11-13T00:46:07+00:00",
-     "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]"
+     "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+     "published": "2026-11-14T01:53:04+00:00",
+     "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage […]"
     },
     {
      "ref": "the_verge#1",
-     "title": "Xbox announces Wolfenstein 3",
-     "published": "2026-11-13T00:11:44+00:00",
-     "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In […]"
+     "title": "Amazon has a plan to index the world’s online shopping data",
+     "published": "2026-11-13T23:49:11+00:00",
+     "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]"
     },
     {
      "ref": "the_verge#2",
-     "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-     "published": "2026-11-12T23:43:22+00:00",
-     "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" […]"
+     "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+     "published": "2026-11-13T20:45:10+00:00",
+     "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]"
     },
     {
      "ref": "the_verge#3",
-     "title": "Humble Bundle redesign removes two-factor verification from settings",
-     "published": "2026-11-12T23:30:52+00:00",
-     "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer […]"
+     "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+     "published": "2026-11-13T20:30:00+00:00",
+     "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, […]"
     },
     {
      "ref": "the_verge#4",
-     "title": "Microsoft Outlook is still down",
-     "published": "2026-11-12T23:24:13+00:00",
-     "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which […]"
+     "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+     "published": "2026-11-13T19:14:38+00:00",
+     "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Microsoft Xbox Series […]"
     },
     {
      "ref": "the_verge#5",
-     "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-     "published": "2026-11-12T23:00:00+00:00",
-     "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" […]"
+     "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+     "published": "2026-11-13T18:10:41+00:00",
+     "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned […]"
     },
     {
      "ref": "the_verge#6",
-     "title": "Google’s new Gemini model is better at understanding complicated questions",
-     "published": "2026-11-12T21:55:32+00:00",
-     "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]"
+     "title": "Jensen Huang was reckless with the environment, too",
+     "published": "2026-11-13T17:44:22+00:00",
+     "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's […]"
     },
     {
      "ref": "the_verge#7",
-     "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-     "published": "2026-11-12T21:45:00+00:00",
-     "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other […]"
+     "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+     "published": "2026-11-13T17:12:56+00:00",
+     "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the […]"
     },
     {
      "ref": "the_verge#8",
-     "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-     "published": "2026-11-12T21:28:53+00:00",
-     "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price […]"
+     "title": "The new Apple TV has a YouTube problem",
+     "published": "2026-11-13T16:55:57+00:00",
+     "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In […]"
     },
     {
      "ref": "the_verge#9",
-     "title": "Here are the 25 original Xbox games you can now play on PC",
-     "published": "2026-11-12T21:00:00+00:00",
-     "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just […]"
+     "title": "Microsoft’s massive Outlook outage might be over",
+     "published": "2026-11-13T16:17:11+00:00",
+     "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including Verge staffers) reported that access to their emails had been restored, though the flow of Outlook mail […]"
     }
    ]
   }

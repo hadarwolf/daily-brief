@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -28,79 +28,85 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
+     "title": "Fugitive imagination",
+     "published": "2026-11-13T11:00:00+00:00",
+     "summary": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on Aeon",
+     "full_text_file": "essays/aeon_0.txt"
+    },
+    {
+     "ref": "aeon#1",
      "title": "My grandfather been tell me a lot of story about Lasseter",
      "published": "2026-11-12T11:01:00+00:00",
      "summary": "A strange man on camelback – the artist Nora Abbott retells her grandfather’s story of a prospector’s last ride - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#1",
+     "ref": "aeon#2",
      "title": "Why anything exists",
      "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#3",
      "title": "Decoding Ediacaran fossils",
      "published": "2026-11-11T11:01:00+00:00",
      "summary": "Ancient specimens reveal how animals began to move half a billion years ago – and even the first known example of ‘handedness’ - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#4",
      "title": "The wholehearted life",
      "published": "2026-11-10T11:00:00+00:00",
      "summary": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#5",
      "title": "A trip to upside-down world",
      "published": "2026-11-09T11:01:00+00:00",
      "summary": "Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#6",
      "title": "Equality talk",
      "published": "2026-11-09T11:00:00+00:00",
      "summary": "In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#7",
      "title": "Celestial nuisance",
      "published": "2026-11-06T11:00:00+00:00",
      "summary": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#8",
      "title": "Their eyes",
      "published": "2026-11-05T11:01:00+00:00",
      "summary": "In Kenya, the Philippines and Venezuela, low-paid labour fuels the driverless future of the Global North - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#9",
      "title": "Methodical/mercurial",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "I need order and routine – just as much as I crave excitement and variety. What’s life like with both autism and ADHD? - by Sarah Hendrickx Read on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#10",
      "title": "Like aliens",
      "published": "2026-11-04T11:01:00+00:00",
      "summary": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#11",
      "title": "Believing and thinking",
      "published": "2026-11-03T11:00:00+00:00",
      "summary": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think - by Neil Van Leeuwen & Jacob Eisler Read on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#12",
      "title": "Jo Marchant: In search of now",
      "published": "2026-11-02T11:01:00+00:00",
      "summary": "What is ‘now’? Through physics via philosophy and psychology, discover the science and mystery of the present moment - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#12",
+     "ref": "aeon#13",
      "title": "The self-making world",
      "published": "2026-11-02T11:00:00+00:00",
      "summary": "Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback - by Jessica Riskin Read on Aeon"
@@ -144,93 +150,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Are we witnessing an intelligence explosion?",
+     "published": "2026-11-13T18:39:00+00:00",
+     "summary": "From Luis Garicano and Alex Imas: Hence AI capabilities improved 1.91 times faster after October 2025, but R&D spending grew 6.19 times and the technical workforce 3.10 times. So measured capability gains per dollar fell by approximately 69%, and measured gains per technical employee-year decreased by 38%. These figures are accounting; nothing causal can be […] The post Are we witnessing an intell"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Friday assorted links",
+     "published": "2026-11-13T16:28:33+00:00",
+     "summary": "1. Peru cancels the Moche sculptures for obscenity? 2. Claude translates from The Kalevela. 3. David Chalmers on AI speed-ups. 4. Cass Sunstein picks Bob Dylan’s best songs. 5. “Hobby dogging”? 6. Argentina worries and updates. 7. Jon Hartley podcast with James Heckman. 8. The world without Jensen? Good piece. The post Friday assorted links appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "The Economics of Rent Controls",
+     "published": "2026-11-13T12:18:11+00:00",
+     "summary": "I appear on Ryan Bourne’s excellent new podcast, The Economics of It. We discuss The Economics of Rent Controls drawing on my essay, Rent Control: The Ceiling Trap. It’s a very good discussion. Here’s one bit (edited slightly to remove some ums for reading and to fix a date I got wrong from memory): RB: […] The post The Economics of Rent Controls appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#3",
+     "title": "Outlook email is still down",
+     "published": "2026-11-13T11:46:39+00:00",
+     "summary": "And GMU is on the Outlook system. If you need to reach me, you can extrapolate my gmu address to my gmail address, or try Twitter, or use your imagination in other ways. Sorry for the inconvenience! (Although it seems my Outlook system just opened up, albeit with an incomplete email delivery so far!?) The post Outlook email is still down appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#4",
      "title": "The U.S. Federal AI Observatory",
      "published": "2026-11-13T08:32:05+00:00",
      "summary": "Federal AI at a glance 41 agencies · 3,611 reported use cases · OMB 2025 Inventory. Portfolio size reflects reporting, not performance. From Irakli Petriashvili of Tblisi, here is the site. The post The U.S. Federal AI Observatory appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#5",
      "title": "Do not overrate zero-sum status-seeking",
      "published": "2026-11-13T05:48:25+00:00",
      "summary": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or upper-class status in poor countries would try to get to the West. Obviously, what we […] The post Do not overrate zero-sum status-seeking appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#6",
      "title": "My Barcelona talk on AI",
      "published": "2026-11-12T18:47:51+00:00",
      "summary": "The post My Barcelona talk on AI appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#7",
      "title": "Thursday assorted links",
      "published": "2026-11-12T17:21:52+00:00",
      "summary": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French person believes there are 6.4 workers for every retiree. The real number is about 1.8.” 4. Sulfuric acid as a basic […] The post Thursday assorted links appeared first on Marginal R"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#8",
      "title": "The Everywhere Rent Seekers",
      "published": "2026-11-12T12:18:57+00:00",
      "summary": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention given to (some days) trillionaires and billionaires, the combined wealth of the Everywhere Millionaires, the dentists, the car dealers, the […] The post The Everywhere Rent Seekers a"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#9",
      "title": "USG assets are worth less than Arnold Kling had thought",
      "published": "2026-11-12T08:01:35+00:00",
      "summary": "Federal oil and gas rights are worth about $625 billion on the paper’s own method, down 75% in real terms since 1981. Federal land has gone the other way, to roughly $1.1 trillion to $1.6 trillion. Land, not minerals, is now the larger asset. Here is the full post. The post USG assets are worth less than Arnold Kling had thought appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#10",
      "title": "My excellent Conversation with Terence Tao",
      "published": "2026-11-12T05:44:38+00:00",
      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s incompleteness theorem, before moving into why mathematical history gets stripped out of classrooms, whether abstract math is a lottery ticket or […] The post My excellent Conversation"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#11",
      "title": "Richard Posner, RIP…",
      "published": "2026-11-11T22:57:43+00:00",
      "summary": "One of the greats. The post Richard Posner, RIP… appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#12",
      "title": "Experimentally validated digital twins",
      "published": "2026-11-11T19:12:56+00:00",
      "summary": "There is a new paper by Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter, and James Reisinger: Modern program evaluation prioritizes evidence from randomized controlled trials (RCTs) because prior research found that observational estimates of program impacts often diverge substantially from experimental benchmarks. We revisit this finding — which was based on […] The post Exp"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#13",
      "title": "Wednesday assorted links",
      "published": "2026-11-11T17:28:55+00:00",
      "summary": "1. “We were discussing this today in office: future paper is 5 pages (what’s question, where is lit now very briefly, what do we do, what do we find), with all details left to a long appendix, hyperlinked, with rigorous AI review. We would read many more papers in that world! Agree?” Kevin Bryan. 2. […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#14",
      "title": "What should I ask Simon Sebag Montefiore?",
      "published": "2026-11-11T13:55:24+00:00",
      "summary": "I will be doing a Conversation with him, most of all about his new and very good book The Cauldron: The Making of the Modern Middle East. He has many other excellent books too, including on Russian history and some fiction. Here is his home page, here is his Wikipedia page. So what should I […] The post What should I ask Simon Sebag Montefiore? appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "UK fact of the day",
-     "published": "2026-11-11T07:51:15+00:00",
-     "summary": "UK panel data, 1991-2019. Couples who support different parties separate more often. The effect is as strong as some other mismatches, like education. Disagreement over Brexit mattered even more than party preference. Here is a longer Nikolaus Haufler thread on European fertility, with a variety of interesting observations about other countries. The post UK fact of the day appeared first on Margin"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Spying makes a comeback",
-     "published": "2026-11-11T05:55:45+00:00",
-     "summary": "That is the theme of my latest Free Press article, here is one excerpt: It may look like merely the latest story of a wealthy, powerful man making an irresponsible decision. But below the surface, it is also a harbinger of the erosion of privacy today, as well as the acceleration of espionage and the […] The post Spying makes a comeback appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Are RCTs underpowered?",
-     "published": "2026-11-10T20:05:26+00:00",
-     "summary": "Maybe so: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark of 2.8 expected under 80 percent power, though above values […] The post"
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Tuesday assorted links",
-     "published": "2026-11-10T16:50:08+00:00",
-     "summary": "1. AI as a normal technology. 2. Hayek for our time, by Cass Sunstein, free download for two weeks. 3. Works in Progress is looking for business and finance writers. 4. Matthew Lilley on Harvard grad students. I believe they teach the permanent income hypothesis there? 5. Ethan Mollick on Fable 5.2. 6. John Cochrane […] The post Tuesday assorted links appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -240,79 +246,92 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "psyche#0",
-     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-     "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
+     "title": "The power of group thought",
+     "published": "2026-11-13T11:01:00+00:00",
+     "summary": "Are groups smarter than the sum of their parts? What homing pigeons’ flight paths can teach us about ‘weighted democracy’ - Video by The Well and the John Templeton Foundation Watch on Psyche",
      "full_text_file": "essays/psyche_0.txt"
     },
     {
      "ref": "psyche#1",
+     "title": "My friend, my witness",
+     "published": "2026-11-13T11:00:00+00:00",
+     "summary": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche",
+     "full_text_file": "essays/psyche_1.txt"
+    },
+    {
+     "ref": "psyche#2",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
+    },
+    {
+     "ref": "psyche#3",
      "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
     },
     {
-     "ref": "psyche#2",
+     "ref": "psyche#4",
      "title": "Why ‘patient influencers’ should come with a health warning",
      "published": "2026-11-11T11:00:00+00:00",
      "summary": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity - by Zoe Cunniffe Read on Psyche"
     },
     {
-     "ref": "psyche#3",
+     "ref": "psyche#5",
      "title": "Passersby",
      "published": "2026-11-10T11:01:00+00:00",
      "summary": "This expansive portrait of Los Angeles shows that the heart of a city is its people – with all their quirks and charms - Directed by Sue Ding and Sarah Garrahan Watch on Psyche"
     },
     {
-     "ref": "psyche#4",
+     "ref": "psyche#6",
      "title": "How to help someone whose thinking seems delusional",
      "published": "2026-11-10T11:00:00+00:00",
      "summary": "If their beliefs appear strange and fixed, you don’t need to prove them wrong. A clinical psychologist shows a gentler way - by Laura Yoviene Sykes Read on Psyche"
     },
     {
-     "ref": "psyche#5",
+     "ref": "psyche#7",
      "title": "The ethics of having a good time at Disney World, Florida",
      "published": "2026-11-09T11:00:00+00:00",
      "summary": "Is the value of the universalist experience undermined by the profit-hungry global corporation behind the theme parks? - by Adam Kadlac Read on Psyche"
     },
     {
-     "ref": "psyche#6",
+     "ref": "psyche#8",
      "title": "How to break a bad habit",
      "published": "2026-11-06T11:01:00+00:00",
      "summary": "Feel stuck with a habit you know is bad for you? Getting to know your brain better could help you change the narrative - Video by Dr Tracey Marks Watch on Psyche"
     },
     {
-     "ref": "psyche#7",
+     "ref": "psyche#9",
      "title": "Who am I if I don’t run?",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
     },
     {
-     "ref": "psyche#8",
+     "ref": "psyche#10",
      "title": "How to take notes that actually help you learn",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     },
     {
-     "ref": "psyche#9",
+     "ref": "psyche#11",
      "title": "Baby heaven",
      "published": "2026-11-04T11:00:00+00:00",
      "summary": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche"
     },
     {
-     "ref": "psyche#10",
+     "ref": "psyche#12",
      "title": "Orbites",
      "published": "2026-11-03T11:01:00+00:00",
      "summary": "‘Imagining is another kind of seeing’: immerse in the exquisite sensory world of a woman with impaired vision - Directed by Sarah Seené Watch on Psyche"
     },
     {
-     "ref": "psyche#11",
+     "ref": "psyche#13",
      "title": "That feeling of values crumbling has a name: civic grief",
      "published": "2026-11-03T11:00:00+00:00",
      "summary": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche"
     },
     {
-     "ref": "psyche#12",
+     "ref": "psyche#14",
      "title": "How psychology’s classic studies misled us about the self",
      "published": "2026-11-02T11:00:00+00:00",
      "summary": "Milgram, Zimbardo and recent priming studies suggested we’re highly malleable. They underestimated how stable we really are - by Jack W Klein & William B Swann Read on Psyche"
@@ -340,8 +359,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#2",
      "title": "The Evolving Story of How Chemistry Became Biology",
      "published": "2026-11-12T15:45:27+00:00",
-     "summary": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be. The post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_2.txt"
+     "summary": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be. The post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#3",
@@ -359,6 +377,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "Why Smart People Fall for Psychics: A Case for Empathy Over Contempt",
   "The Hidden Cost of 'Patient Influencers': How Watching Others' Symptoms Online Can Give You Them",
   "Before DNA, Life May Have Needed a Bubble",
   "Life May Have Begun as Self-Copying RNA — and It's Easier to Make Than We Thought",
@@ -387,8 +406,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "Roman Masculinity Was an Anxious Performance, Not a Golden Age of Domination",
   "AI Benchmarks Have Been Broken Since 1959 — and Progress Happened Anyway",
   "Why 'Just Try Harder' Misunderstands Motivation — It's a Hidden Cost-Benefit Calculation, Not a Fuel Tank",
-  "The Cat-Belling Problem: Why Ambitious Plans Fail at the One Step Nobody Can Do",
-  "We Were Never Machines: Why Offloading Navigation, Writing and Attention to Technology Is Eroding the Body's Own Intelligence"
+  "The Cat-Belling Problem: Why Ambitious Plans Fail at the One Step Nobody Can Do"
  ]
 }
 </input>
