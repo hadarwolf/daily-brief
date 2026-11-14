@@ -203,18 +203,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
      "published": "2026-11-12T08:58:03+00:00",
      "summary": "מאת אלי איינהורן אם אתם מפתחים שמשתמשים ב-Claude Code Desktop, אז אתם מכירים את הפיצ'ר הבא: מבקשים מ-Claude לבדוק קובץ HTML לדוגמה, והאפליקציה מרנדרת אותו אוטומטית בפאנל צדדי. נוח, מהיר, ושימושי. ובכן… לא בדיוק. החוקרים שלנו ב-Noma Labs גילו חולשה חמורה ב-Preview Pane של אפליקציית הדסקטופ, שאפשרה לקובץ HTML לעקוף שלוש שכבות הגנה ולשלוף סיסמאות, […] The post איך Claude Code Desktop כמעט הדליף את כל"
-    },
-    {
-     "ref": "geektime#10",
-     "title": "מה זאת אומרת מי יכול להחליף את ג'נסן? יש הרבה שמות",
-     "published": "2026-11-12T08:08:27+00:00",
-     "summary": "איך הגלגל מתהפך. לפני שנייה וחצי ג'נסן הואנג היה אחת מהדמויות המוערכות והאהובות ביותר בעולם הטכנולוגיה. סופרסטאר, שגדל בתנאים לא פשוטים, הצליח להקים חברה, לפוצץ אצטדיונים עם עשרות אלפי מעריצים בעזרת מעיל שחור, השפריץ כריזמה נדירה, הוכיח הבנה טכנולוגית נדירה עד לרמת השערים הלוגיים, והוביל תוכניות עסקיות מבריקות. אבל זה היה עד השבוע. השבוע האחרון […] The post מה זאת אומרת מי יכול להחליף את ג'נסן? יש"
-    },
-    {
-     "ref": "geektime#11",
-     "title": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה",
-     "published": "2026-11-12T04:47:17+00:00",
-     "summary": "חשבתם שהשבוע האחרון היה סוער לאנבידיה? נראה שזו רק ההתחלה, עם צל כבד על אחד מהאנשים החזקים ביותר בעולם הטכנולוגיה. דירקטוריון NVIDIA נערך להדיח את המנכ\"ל והמייסד של החברה, ג'נסן הואנג, כך מדווח הלילה (ה') הוול סטריט ג'ורנל על סמך גורמים המקורבים לנושא. על פי הדיווח, הדירקטוריון צפוי להתכנס כנראה כבר היום כדי להכריע על […] The post דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומ"
     }
    ]
   },
@@ -224,75 +212,93 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "FAA lifted National Ground Stop at 0119Z",
-     "published": "2026-11-14T01:30:01+00:00",
-     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 186 # Comments: 174"
+     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+     "published": "2026-11-14T02:52:59+00:00",
+     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 483 # Comments: 269"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-     "published": "2026-11-14T01:10:22+00:00",
-     "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 188 # Comments: 73"
+     "title": "Ggml v1.0.0",
+     "published": "2026-11-14T02:28:29+00:00",
+     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 224 # Comments: 38"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-     "published": "2026-11-13T22:04:24+00:00",
-     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 225 # Comments: 52"
+     "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+     "published": "2026-11-14T00:52:29+00:00",
+     "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 163 # Comments: 54"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "All US airports are currently ground stopped",
-     "published": "2026-11-13T21:06:52+00:00",
-     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 175 # Comments: 33"
+     "title": "Terminal borders that don't cost a cell",
+     "published": "2026-11-13T23:06:40+00:00",
+     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 221 # Comments: 89"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "FAA issues national ground stop",
-     "published": "2026-11-13T21:05:53+00:00",
-     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1376 # Comments: 850"
+     "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+     "published": "2026-11-13T22:04:24+00:00",
+     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 258 # Comments: 60"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "FM-1 Workbench",
-     "published": "2026-11-13T19:14:02+00:00",
-     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 191 # Comments: 132"
+     "title": "FAA issues national ground stop – lifted 4.5 hours later",
+     "published": "2026-11-13T21:05:53+00:00",
+     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1519 # Comments: 1160"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-     "published": "2026-11-13T18:40:44+00:00",
-     "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 306 # Comments: 170"
+     "title": "Found: A protein that drives ageing without unleashing inflammation",
+     "published": "2026-11-13T19:25:21+00:00",
+     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 187 # Comments: 26"
     },
     {
      "ref": "hn_frontpage#7",
+     "title": "FM-1 Workbench",
+     "published": "2026-11-13T19:14:02+00:00",
+     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 230 # Comments: 154"
+    },
+    {
+     "ref": "hn_frontpage#8",
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "published": "2026-11-13T18:40:44+00:00",
+     "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 343 # Comments: 189"
+    },
+    {
+     "ref": "hn_frontpage#9",
      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
      "published": "2026-11-13T17:58:37+00:00",
      "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana "
     },
     {
-     "ref": "hn_frontpage#8",
+     "ref": "hn_frontpage#10",
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
      "published": "2026-11-13T17:55:28+00:00",
-     "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 220 # Comments: 36"
-    },
-    {
-     "ref": "hn_frontpage#9",
-     "title": "A technical vision for the Haskell ecosystem",
-     "published": "2026-11-13T14:43:12+00:00",
-     "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 182 # Comments: 96"
-    },
-    {
-     "ref": "hn_frontpage#10",
-     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-     "published": "2026-11-13T12:10:24+00:00",
-     "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 464 # Comments: 315"
+     "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 252 # Comments: 41"
     },
     {
      "ref": "hn_frontpage#11",
+     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+     "published": "2026-11-13T15:08:44+00:00",
+     "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 269 # Comments: 303"
+    },
+    {
+     "ref": "hn_frontpage#12",
+     "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+     "published": "2026-11-13T15:08:07+00:00",
+     "summary": "https://palmfrets.com/ Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 168 # Comments: 95"
+    },
+    {
+     "ref": "hn_frontpage#13",
+     "title": "A technical vision for the Haskell ecosystem",
+     "published": "2026-11-13T14:43:12+00:00",
+     "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 202 # Comments: 112"
+    },
+    {
+     "ref": "hn_frontpage#14",
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "published": "2026-11-12T22:03:09+00:00",
-     "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 691 # Comments: 201"
+     "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 742 # Comments: 212"
     }
    ]
   },
@@ -448,7 +454,7 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "the_verge#0",
      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
      "published": "2026-11-14T01:53:04+00:00",
-     "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage […]"
+     "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how […]"
     },
     {
      "ref": "the_verge#1",

@@ -43,7 +43,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 1995,
    "text": "As a result of budget conflicts between President Bill Clinton and the United States Congress led by Newt Gingrich, the federal government was forced to shut down non-essential services.",
    "context": [
-    "William Jefferson Clinton is an American retired politician and lawyer who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979, the governor of Arkansas from 1979 to 1981, and governor again from 1983 to 1992. His centrist Third Way political philosophy became known as Clintonism, which defined his presidency and the succeeding decades of Democratic Party into the 21st century."
+    "William Jefferson Clinton is an American retired politician and lawyer who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979, the governor of Arkansas from 1979 to 1981, and governor again from 1983 to 1992. His centrist Third Way political philosophy became known as Clintonism, which defined his presidency and the succeeding decades of the Democratic Party into the 21st century."
    ]
   },
   {

@@ -138,6 +138,8 @@ The Colossus of Constantine does the same thing, but using a very different appr
 
 This is all a long way of saying that realism isn't and has never been the only ideal in art. Obviously there's some element of cope in people saying "we don't care about that anyways!" with the advent of photography, but I think that that would be a poor explanation in isolation. I could say more about how this is relevant to AI art but perhaps another time.
 
+I would read the post of this if you ever write it.
+
 It seems very important to figure out the degree to which AIs can think, and the degree to which they help with human thought, and how exactly to leverage that if you're trying to do serious intellectual work.
 
 I have a somewhat different relationship to the final few questions than Dynomight does, where I don't particularly care about whether "mathematicians have a job/cultural-relevance", and instead just, like, ya know, get superalignment or various other intellectual problems solved, correctly.
