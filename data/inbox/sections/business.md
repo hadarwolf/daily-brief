@@ -126,7 +126,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#18",
-     "title": "Centrica, Equinor Advance to Next Round of Germany’s Uniper Sale",
+     "title": "Centrica, Equinor in Next Round of Germany’s Uniper Sale",
      "published": "2026-11-13T19:53:07+00:00",
      "summary": "Centrica Plc and Equinor ASA are among companies advancing to the second round of the sale process for Germany’s Uniper SE, according to people familiar with the matter."
     }
@@ -547,9 +547,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 67021.2031,
+   "last": 67407.3281,
    "prev_close": 68249.2734,
-   "change_pct": -1.8,
+   "change_pct": -1.23,
    "as_of": "2026-11-14"
   }
  },

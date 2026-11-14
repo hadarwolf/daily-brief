@@ -672,6 +672,228 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    ]
   },
   {
+   "outlet": "ESPN NBA",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "espn_nba#0",
+     "title": "Murray wants trade from Pelicans; both sides working on resolution",
+     "published": "2026-11-14T07:37:05+00:00",
+     "summary": "Pelicans guard Dejounte Murray wants a trade from the franchise, and his agent, Klutch Sports CEO Rich Paul, and team officials have started working on a resolution."
+    },
+    {
+     "ref": "espn_nba#1",
+     "title": "Welcome to the Space Jam: How Michael Jordan and Bugs Bunny's magic resonates 30 years later",
+     "published": "2026-11-14T07:11:27+00:00",
+     "summary": "Three decades after its release, the basketball-meets-Looney Tunes adventure remains a pop culture staple."
+    },
+    {
+     "ref": "espn_nba#2",
+     "title": "Giannis, Bam combine for 74 as Heat flex potential as East contenders",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "Giannis Antetokounmpo and Bam Adebayo each scored 37 points to help the Heat top the Cavs for their sixth win in eight games."
+    },
+    {
+     "ref": "espn_nba#3",
+     "title": "Lendeborg 1-for-13 in Warriors' blowout loss: 'I was flustered the entire game'",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "In his first game as the primary offensive engine in place of the injured Stephen Curry, Warriors rookie Yaxel Lendeborg went 1-of-13 shooting in a 123-85 blowout loss to the Spurs. \"I was flustered the entire game,\" he said. \"Couldn't make a damn layup.\""
+    },
+    {
+     "ref": "espn_nba#4",
+     "title": "Wemby, Spurs land early KO with 18-0 run, rout Warriors for 11th straight win",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "Victor Wembanyama and the Spurs pounced on the Warriors with an 18-0 opening run and went on to win 123-85."
+    },
+    {
+     "ref": "espn_nba#5",
+     "title": "FAA ground stop throws sports world into travel chaos ahead of weekend games",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "Travel plans for multiple sports have been disrupted by the FAA's nationwide ground stop of all flights because of communications problems."
+    },
+    {
+     "ref": "espn_nba#6",
+     "title": "Redick says Lakers' Reaves day-to-day with left heel bruise",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "Lakers guard Austin Reaves is considered day-to-day as he deals with a left heel bruise, coach JJ Redick said Friday."
+    },
+    {
+     "ref": "espn_nba#7",
+     "title": "Former lottery pick McDermott retires after 12 NBA seasons",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "Three-point specialist Doug McDermott has retired from the NBA after 12 seasons spent with seven teams."
+    },
+    {
+     "ref": "espn_nba#8",
+     "title": "Prosecutors: Text shows plan to bet unders on Rozier's teammate",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "A co-defendant in an NBA betting case told a gambler that he and Terry Rozier were planning a wagering scheme centered on another Hornets player, federal prosecutors alleged in a court filing."
+    },
+    {
+     "ref": "espn_nba#9",
+     "title": "📈 Updated Power Rankings: The best newcomer on all 30 teams",
+     "published": "2026-11-14T06:59:25+00:00",
+     "summary": "Which teams rise and which fall in this week's Power Rankings? Plus, the top newcomer for each team in the league."
+    },
+    {
+     "ref": "espn_nba#10",
+     "title": "NBA buzz: Latest news, updates and intel for the 2026-27 season",
+     "published": "2026-11-14T02:36:36+00:00",
+     "summary": "The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders."
+    },
+    {
+     "ref": "espn_nba#11",
+     "title": "Inside the group chat where Black NBA coaches counsel -- and trash-talk -- each other",
+     "published": "2026-11-14T02:36:05+00:00",
+     "summary": "On the court, they're rivals. Off the court, they've found support among the only men who truly understand what they're going through: each other."
+    },
+    {
+     "ref": "espn_nba#12",
+     "title": "Despite slump, Knicks' Bridges is a fantasy basketball trade target",
+     "published": "2026-11-13T20:00:20+00:00",
+     "summary": "Andre explains why Mikal Bridges continues to hold fantasy value despite the poor start to his season."
+    },
+    {
+     "ref": "espn_nba#13",
+     "title": "Donovan Mitchell still believes in the Cavaliers, even if you don't",
+     "published": "2026-11-13T14:39:48+00:00",
+     "summary": "Mitchell made two commitments this summer: his marriage and his extension with the Cavs. Now it's up to him to keep pushing Cleveland forward."
+    },
+    {
+     "ref": "espn_nba#14",
+     "title": "Early trade deadline questions: Knicks, Thunder and other contenders' next steps",
+     "published": "2026-11-12T15:07:13+00:00",
+     "summary": "With the NBA trade deadline looming, which title contenders should -- and could -- make a deal to improve?"
+    },
+    {
+     "ref": "espn_nba#15",
+     "title": "19 teams with major roster decisions",
+     "published": "2026-11-12T15:07:13+00:00",
+     "summary": "With tax and apron penalties lurking, we examine 19 teams barreling toward core-altering decisions."
+    }
+   ]
+  },
+  {
+   "outlet": "ESPN FC",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "espn_soccer#0",
+     "title": "Transfer rumors, news: Como's Paz to be Pochettino's first Man United summer signing?",
+     "published": "2026-11-14T08:59:41+00:00",
+     "summary": "Manchester United are monitoring Como superstar Nico Paz ahead of a move next summer. Transfer Talk has the latest."
+    },
+    {
+     "ref": "espn_soccer#1",
+     "title": "From Ballon d'Or hopes to Real Madrid bench: Should Liverpool re-sign Alexander-Arnold?",
+     "published": "2026-11-14T08:55:03+00:00",
+     "summary": "Trent Alexander-Arnold's dream move to Real Madrid is turning into a nightmare, but would Liverpool take him back? And would he want to return?"
+    },
+    {
+     "ref": "espn_soccer#2",
+     "title": "In Pochettino, Man United finally have a proper manager",
+     "published": "2026-11-14T08:37:47+00:00",
+     "summary": "After years of near-misses, Man United have finally landed Mauricio Pochettino, a manager with the kind of pedigree, class and credibility the club have been looking for."
+    },
+    {
+     "ref": "espn_soccer#3",
+     "title": "Man United, Pochettino's to-do list based on what's gone wrong",
+     "published": "2026-11-14T08:37:40+00:00",
+     "summary": "Pochettino makes as much sense as anyone to take the Man United job, so now what? Let's look at the mess he's inheriting and what's at the top of his to-do list."
+    },
+    {
+     "ref": "espn_soccer#4",
+     "title": "Why not Utah? How the Royals became an unlikely NWSL contender",
+     "published": "2026-11-14T08:13:09+00:00",
+     "summary": "Without the star power or spending of their NWSL rivals, the Utah Royals have embraced a collective identity to become title underdogs this season."
+    },
+    {
+     "ref": "espn_soccer#5",
+     "title": "Sources: Earthquakes sold to Heath Freeman of Alden Global for $625 million",
+     "published": "2026-11-14T08:00:22+00:00",
+     "summary": "Alden Global Capital co-founder Heath Freeman is purchasing the San Jose Earthquakes from John Fisher, following MLS owners' approval of the sale Thursday."
+    },
+    {
+     "ref": "espn_soccer#6",
+     "title": "Tearful Pochettino on USMNT exit: Toughest decision of my career",
+     "published": "2026-11-14T08:00:21+00:00",
+     "summary": "Mauricio Pochettino has left his position as United States men's national team coach to manage Manchester United, the U.S. Soccer Federation said Friday."
+    },
+    {
+     "ref": "espn_soccer#7",
+     "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
+     "published": "2026-11-14T08:00:21+00:00",
+     "summary": "Andorra goalkeeper Jesús Owono has been suspended for 12 games for an on-field collision with Jesús de Miguel that resulted in the death of the Tenerife striker."
+    },
+    {
+     "ref": "espn_soccer#8",
+     "title": "Scaloni calls for 'rebuild' as Argentina fall in first game without Messi",
+     "published": "2026-11-14T08:00:21+00:00",
+     "summary": "Argentina lost 2-1 to Uruguay in a friendly on Friday in its first game since Lionel Messi's international retirement."
+    },
+    {
+     "ref": "espn_soccer#9",
+     "title": "NWSL players demand more respect for women's sports amid playoff venue issues",
+     "published": "2026-11-14T08:00:21+00:00",
+     "summary": "Players from Gotham and Kansas City have called for women's sports to be better prioritized by stadium operators amid issues surrounding NWSL semifinal venues."
+    },
+    {
+     "ref": "espn_soccer#10",
+     "title": "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+     "published": "2026-11-14T08:00:21+00:00",
+     "summary": "The Netherlands routed Greece 7-0 on Friday in a statement Nations League victory to stay unbeaten under new coach Xavi."
+    },
+    {
+     "ref": "espn_soccer#11",
+     "title": "Egyptian King: Salah becomes country's record goalscorer with Panenka penalty",
+     "published": "2026-11-14T08:00:21+00:00",
+     "summary": "Mohamed Salah broke Egypt's all-time scoring record with two goals in a 5-0 Africa Cup of Nations qualifying win over Malawi."
+    },
+    {
+     "ref": "espn_soccer#12",
+     "title": "Dortmund to end controversial sponsorship with arms manufacturer",
+     "published": "2026-11-14T08:00:21+00:00",
+     "summary": "Borussia Dortmund says it won't renew a sponsorship deal with Germany's largest arms manufacturer Rheinmetall, which drew criticism from fans."
+    },
+    {
+     "ref": "espn_soccer#13",
+     "title": "📈The top soccer players in the world right now, ranked again",
+     "published": "2026-11-14T08:00:21+00:00",
+     "summary": "Who is the best soccer player in the world at the November international break? ESPN's latest rankings are here."
+    },
+    {
+     "ref": "espn_soccer#14",
+     "title": "An early WSL title decider: How early Chelsea vs. Man City can define season ahead",
+     "published": "2026-11-14T07:58:30+00:00",
+     "summary": "Chelsea's meeting with Manchester City on Saturday might not ultimately determine who will win the Women's Super League, but it could have a huge impact."
+    },
+    {
+     "ref": "espn_soccer#15",
+     "title": "Pochettino's USMNT tenure had ups, downs and an ever-present mercenary feel",
+     "published": "2026-11-14T07:57:20+00:00",
+     "summary": "Mauricio Pochettino delivered some highs during his time in charge of the USMNT, but his focus never appeared to stray too far from a return to Europe."
+    },
+    {
+     "ref": "espn_soccer#16",
+     "title": "How Carrick won the Man United job, then lost it 10 months later",
+     "published": "2026-11-13T15:47:54+00:00",
+     "summary": "Michael Carrick performed excellently as a caretaker and impressed the club hierarchy, but doubts over Manchester United's performances and identity never fully disappeared."
+    },
+    {
+     "ref": "espn_soccer#17",
+     "title": "Surprise squad selections: Bellingham bros. for England, 2nd-tier player for France",
+     "published": "2026-11-12T10:19:58+00:00",
+     "summary": "From England's Bellingham brothers to France calling up a player from the second division, meet the surprise call-ups for the November internationals."
+    },
+    {
+     "ref": "espn_soccer#18",
+     "title": "How will Argentina replace Lionel Messi before 2030 World Cup?",
+     "published": "2026-11-12T10:19:42+00:00",
+     "summary": "Argentina need several players to shoulder the responsibilities that, for two decades, were concentrated in the greatest player in their history."
+    }
+   ]
+  },
+  {
    "outlet": "Google News — Inter Miami",
    "lang": "en",
    "items": [
@@ -845,15 +1067,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#2",
-     "title": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 - NBA.com",
-     "published": "2026-11-14T06:25:51+00:00",
-     "summary": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 NBA.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026 - NBA.com",
      "published": "2026-11-14T06:25:51+00:00",
      "summary": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026 NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
+     "title": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 - NBA.com",
+     "published": "2026-11-14T06:25:51+00:00",
+     "summary": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 NBA.com"
     },
     {
      "ref": "gnews_israeli_nba#4",

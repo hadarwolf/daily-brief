@@ -18,93 +18,93 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says - AP News",
+     "published": "2026-11-14T07:56:00+00:00",
+     "summary": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says AP News"
+    },
+    {
+     "ref": "ap_world#1",
      "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop - AP News",
      "published": "2026-11-14T07:11:00+00:00",
      "summary": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#2",
      "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - AP News",
      "published": "2026-11-14T07:00:00+00:00",
      "summary": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record - AP News",
      "published": "2026-11-14T06:38:00+00:00",
      "summary": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia - AP News",
      "published": "2026-11-14T06:37:00+00:00",
      "summary": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead - AP News",
-     "published": "2026-11-14T06:26:32+00:00",
-     "summary": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead AP News"
-    },
-    {
      "ref": "ap_world#5",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-11-14T06:13:30+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
+     "title": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe - AP News",
+     "published": "2026-11-14T06:18:00+00:00",
+     "summary": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe AP News"
     },
     {
      "ref": "ap_world#6",
+     "title": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift - AP News",
+     "published": "2026-11-14T06:08:00+00:00",
+     "summary": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system - AP News",
      "published": "2026-11-14T06:00:00+00:00",
      "summary": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
+     "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead - AP News",
+     "published": "2026-11-14T05:56:00+00:00",
+     "summary": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska - AP News",
      "published": "2026-11-14T05:54:00+00:00",
      "summary": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-14T05:27:54+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America - AP News",
      "published": "2026-11-14T05:26:00+00:00",
      "summary": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit - AP News",
      "published": "2026-11-14T05:17:00+00:00",
      "summary": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage - AP News",
      "published": "2026-11-14T05:15:00+00:00",
      "summary": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "3-time world champion Ilia Malinin leads Skate America after a 96.74-point short program - AP News",
-     "published": "2026-11-14T05:04:00+00:00",
-     "summary": "3-time world champion Ilia Malinin leads Skate America after a 96.74-point short program AP News"
-    },
-    {
      "ref": "ap_world#13",
-     "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume - AP News",
-     "published": "2026-11-14T04:57:00+00:00",
-     "summary": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume AP News"
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-14T05:00:05+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "Afghanistan News: Latest Afghanistan News Today - AP News",
-     "published": "2026-11-14T04:00:41+00:00",
-     "summary": "Afghanistan News: Latest Afghanistan News Today AP News"
+     "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume - AP News",
+     "published": "2026-11-14T04:57:00+00:00",
+     "summary": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume AP News"
     },
     {
      "ref": "ap_world#15",
@@ -114,57 +114,57 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#16",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-11-14T03:58:06+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal - AP News",
+     "published": "2026-11-14T02:19:00+00:00",
+     "summary": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "JAMES ROBSON - AP News",
-     "published": "2026-11-14T02:42:32+00:00",
-     "summary": "JAMES ROBSON AP News"
-    },
-    {
-     "ref": "ap_world#18",
      "title": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch - AP News",
      "published": "2026-11-14T01:59:00+00:00",
      "summary": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch AP News"
     },
     {
+     "ref": "ap_world#18",
+     "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River - AP News",
+     "published": "2026-11-14T01:52:00+00:00",
+     "summary": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River AP News"
+    },
+    {
      "ref": "ap_world#19",
-     "title": "After crashing out at the Olympics, Ilia Malinin starts the long road back to the next Winter Games - AP News",
-     "published": "2026-11-14T01:36:00+00:00",
-     "summary": "After crashing out at the Olympics, Ilia Malinin starts the long road back to the next Winter Games AP News"
+     "title": "Uruguay beats Argentina 2-1 in the first match since Lionel Messi’s retirement - AP News",
+     "published": "2026-11-14T01:43:00+00:00",
+     "summary": "Uruguay beats Argentina 2-1 in the first match since Lionel Messi’s retirement AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "Katerina Siniakova clinches a record sixth year-end WTA No. 1 doubles finish - AP News",
-     "published": "2026-11-14T01:17:00+00:00",
-     "summary": "Katerina Siniakova clinches a record sixth year-end WTA No. 1 doubles finish AP News"
-    },
-    {
-     "ref": "ap_world#21",
      "title": "Air passengers in Dallas face disruption to their plans as flights halted at airports across US - AP News",
      "published": "2026-11-14T01:12:00+00:00",
      "summary": "Air passengers in Dallas face disruption to their plans as flights halted at airports across US AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#21",
      "title": "Rubio acknowledges 'people are struggling' economically in speech after GOP midterm wipeout - AP News",
      "published": "2026-11-14T00:59:00+00:00",
      "summary": "Rubio acknowledges 'people are struggling' economically in speech after GOP midterm wipeout AP News"
     },
     {
+     "ref": "ap_world#22",
+     "title": "'TrumpCare' and commemorative plaques: How Democrats are pitching dealmaking with the president - AP News",
+     "published": "2026-11-14T00:58:00+00:00",
+     "summary": "'TrumpCare' and commemorative plaques: How Democrats are pitching dealmaking with the president AP News"
+    },
+    {
      "ref": "ap_world#23",
-     "title": "Rubio says further US military action is not needed against economically weakened Iran - AP News",
-     "published": "2026-11-14T00:45:00+00:00",
-     "summary": "Rubio says further US military action is not needed against economically weakened Iran AP News"
+     "title": "Trump administration cancels mandatory pay hike for Head Start teachers - AP News",
+     "published": "2026-11-14T00:57:00+00:00",
+     "summary": "Trump administration cancels mandatory pay hike for Head Start teachers AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says - AP News",
-     "published": "2026-11-14T00:29:00+00:00",
-     "summary": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says AP News"
+     "title": "Rubio says further US military action is not needed against economically weakened Iran - AP News",
+     "published": "2026-11-14T00:45:00+00:00",
+     "summary": "Rubio says further US military action is not needed against economically weakened Iran AP News"
     }
    ]
   },
@@ -426,15 +426,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "South Sudan delays election to February 11 2027 - Reuters",
-     "published": "2026-11-14T08:32:37+00:00",
-     "summary": "South Sudan delays election to February 11 2027 Reuters"
+     "title": "Modi's office summons telecom secretary over use of fake court orders, officials say - Reuters",
+     "published": "2026-11-14T09:10:23+00:00",
+     "summary": "Modi's office summons telecom secretary over use of fake court orders, officials say Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "Modi summons telecom secretary over website takedowns, sources say - Reuters",
-     "published": "2026-11-14T08:06:59+00:00",
-     "summary": "Modi summons telecom secretary over website takedowns, sources say Reuters"
+     "title": "South Sudan delays election to February 11 2027 - Reuters",
+     "published": "2026-11-14T08:32:37+00:00",
+     "summary": "South Sudan delays election to February 11 2027 Reuters"
     },
     {
      "ref": "reuters_world#2",
