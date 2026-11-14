@@ -1,0 +1,136 @@
+{
+  "section": "business",
+  "date": "2026-11-14",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-14T03:50:35+00:00",
+  "stories": [
+    {
+      "id": "nvidia-board-governance-failure",
+      "kind": "analysis",
+      "en": {
+        "headline": "Nvidia's Board Didn't Just Lose a CEO — It Exposed How It Failed to Manage One",
+        "scroll": "Jensen Huang's forced exit as Nvidia CEO, triggered by an affair and a chip-smuggling scandal involving his girlfriend's China-based firm, is becoming a case study in what happens when a board defers entirely to a founder instead of overseeing him.",
+        "coffee": "Jensen Huang capitulated \"unconditionally\" this week, according to people who spoke with him, after weeks of publicly denying an affair. The scandal escalated once documents surfaced showing that a Chinese company founded by the woman at the center of it, Alice Huang, had obtained smuggled Nvidia AI chips that were later installed in a data center in Shanghai — a direct breach of the US export controls restricting advanced chip sales to China, the same controls Huang had spent years publicly defending Nvidia's compliance with. Nvidia stock lost 13% of its value over the week.\n\nThe failure runs two levels deep. Randall Peterson, founding director of the London Business School Leadership Institute, argues Nvidia's board failed not just the company but Huang personally — it never built the kind of independent oversight that might have surfaced the conflict of interest before it metastasized into a scandal that cost him his job. Treasury Secretary Scott Bessent pointed to a second, government-level failure: he blamed Commerce Secretary Howard Lutnick's department for not blacklisting the Chinese buyer, a firm called Megaspeed, even though four federal agencies had supported adding it to the restricted list. The authority to act, Bessent noted, sat with Commerce alone — and Commerce didn't use it.\n\nColette Kress — whom Huang once dismissed as \"a deer in the headlights\" when she questioned some of his dealmaking — is now interim CEO, while the board has reportedly approached Arm's chief executive, Rene Haas, about the permanent job. Watch whether Washington treats this as a one-off scandal or a reason to tighten export enforcement: Trump is reportedly not planning to raise the Nvidia spying issue with Xi Jinping at next week's summit.",
+        "deep": "## Background: what boards are for\n\nA public company's board exists to do two things the chief executive can't do for himself: evaluate his performance from the outside, and act when his personal conduct starts creating risk for shareholders. In practice, when a founder built the entire enterprise and the market values the stock partly on the strength of his reputation — what economists call key-person risk — boards tend to defer rather than oversee. Nvidia, built from scratch by Jensen Huang since 1993 into the hardware backbone of the AI boom, is about as extreme a case of key-person dependence as exists in public markets today.\n\n## The story\n\nHuang spent weeks publicly denying he was having an affair, before capitulating \"unconditionally\" this week, according to people who spoke with him. The scandal escalated once documents surfaced showing that a Chinese company founded by the woman at the center of it, Alice Huang, had obtained smuggled Nvidia AI chips that were later installed in a data center in Shanghai — a direct breach of the US export controls restricting advanced chip sales to China, the same controls Huang had spent years publicly defending Nvidia's compliance with. Nvidia stock lost 13% of its value over the week, and kept falling through Thursday and Friday as the fallout widened.\n\n## Two failures of oversight, not one\n\nThe episode exposes failure at two separate levels. Randall Peterson, founding director of the London Business School Leadership Institute, argues Nvidia's board failed not just the company but Huang personally — it never built the kind of independent oversight that might have surfaced the conflict of interest before it metastasized into a scandal that cost him his job. Treasury Secretary Scott Bessent pointed to a second, government-level failure: he blamed Commerce Secretary Howard Lutnick's department for not blacklisting the Chinese buyer, Megaspeed, even though four federal agencies had supported adding it to the restricted list. The authority to act, Bessent noted, sat with Commerce alone — and Commerce didn't use it.\n\n## Second-order effects\n\nThe fallout is spreading well past Nvidia's own stock. The broader semiconductor sector sold off alongside it, and the turmoil is now tangled up with next week's two big tests of the \"AI trade\": Nvidia's earnings and Anthropic's roughly $1.5 trillion IPO, whose CEO has publicly brushed off the market jitters. Colette Kress — whom Huang once dismissed as \"a deer in the headlights\" when she questioned some of his dealmaking — is now interim CEO, while the board has reportedly approached Arm's chief executive, Rene Haas, about taking the job permanently.\n\nThere's an Israeli angle too: Nvidia's local operations bring in more than NIS 10 billion a year in tax revenue, and the finance ministry is reportedly anxious about whether a change in leadership freezes the company's expansion plans in Israel — a reminder of how concentrated a small economy's fiscal base can become around a handful of foreign multinationals.\n\n## What to watch\n\nThree things will reveal how seriously this gets treated as a governance failure rather than a passing scandal: who the board ultimately picks as permanent CEO — an outsider like Haas would be a tacit admission that internal oversight failed; whether Bessent's public break with Lutnick leads to any actual tightening of chip-export enforcement; and whether Washington treats the export-control breach as a priority at all — reports say Trump does not plan to raise the Nvidia spying issue with Xi Jinping at next week's trilateral summit, which says a lot about how far accountability here still has to travel."
+      },
+      "he": {
+        "headline": "הדירקטוריון של אנבידיה לא רק איבד מנכ\"ל — הוא חשף כיצד נכשל בניהול שלו",
+        "scroll": "פרישתו הכפויה של ג'נסן הואנג מניהול אנבידיה, בעקבות רומן ופרשת הברחת שבבים לסין שמעורבת בה חברה סינית של בת זוגו, הופכת למקרה מבחן על מה קורה כשדירקטוריון מוותר על פיקוח ומשאיר למייסד לנהל את עצמו.",
+        "coffee": "ג'נסן הואנג התפטר השבוע \"ללא תנאי\", לדברי אנשים שדיברו עמו, אחרי שבועות שבהם הכחיש בפומבי רומן מחוץ לנישואין. הפרשה הסלימה כשהתגלה שחברה סינית שהקימה אליס הואנג, האישה שבמרכז הסיפור, רכשה שבבי AI מתקדמים של אנבידיה שהוברחו לסין והותקנו במרכז נתונים בשנגחאי — הפרה ישירה של פיקוח הייצוא האמריקאי (export controls) שהואנג עצמו הגן עליו בפומבי שנים. מניית אנבידיה איבדה 13% מערכה במהלך השבוע.\n\nהכשל הוא כפול. רנדל פיטרסון, מנהל מכון המנהיגות של לונדון בזנס סקול, טוען שהדירקטוריון של אנבידיה נכשל גם בניהול החברה וגם בהואנג עצמו — הוא לא בנה פיקוח עצמאי שיכול היה לאתר את ניגוד העניינים לפני שהפך לשערורייה שעלתה לו בתפקיד. שר האוצר האמריקאי סקוט בסנט הפנה אצבע לכשל נוסף, ממשלתי: הוא האשים את משרד המסחר, בראשות הווארד לוטניק, בכך שלא הוסיף את החברה הסינית הקונה, מגה ספיד, ל\"רשימה השחורה\", אף שארבע רשויות פדרליות תמכו בכך — הסמכות, ציין בסנט, הייתה בידי משרד המסחר בלבד, ומשרד המסחר לא השתמש בה.\n\nההשפעות מתפשטות מעבר למניית אנבידיה: כל ענף השבבים נסחף בירידות, והטלטלה מתערבבת כעת עם שני המבחנים הגדולים של \"סחר ה-AI\" בשבוע הקרוב — דוחות אנבידיה והנפקת אנתרופיק בשווי של כ-1.5 טריליון דולר. קולט קרס, שהואנג פעם ביטל כ\"איילה שנתפסה באור פנסים\", מכהנת כעת כמנכ\"לית בפועל, ודווח שהדירקטוריון פנה למנכ\"ל Arm, רנה האס, על התפקיד הקבוע.",
+        "deep": "## רקע: למה יש דירקטוריון\n\nדירקטוריון של חברה ציבורית קיים כדי לעשות שני דברים שהמנכ\"ל לא יכול לעשות לעצמו: להעריך את תפקודו מבחוץ, ולפעול כשההתנהלות האישית שלו הופכת לסיכון לבעלי המניות. בפועל, כשמייסד בנה את כל החברה והשוק מתמחר את המניה חלקית על סמך המוניטין האישי שלו — מה שכלכלנים מכנים \"סיכון אדם מפתח\" (key-person risk) — דירקטוריונים נוטים לוותר על פיקוח ולא לתפעל אותו. אנבידיה, שג'נסן הואנג בנה מאפס מאז 1993 והפך לעמוד השדרה החומרתי (hardware) של בועת ה-AI, היא מקרה קיצוני כמעט כמו שיש בשווקים הציבוריים של תלות באדם מפתח.\n\n## הסיפור\n\nהואנג הכחיש בפומבי שבועות רומן מחוץ לנישואין, לפני שנכנע השבוע \"ללא תנאי\", לפי אנשים שדיברו עמו. הפרשה הסלימה כשהתגלו מסמכים המראים שחברה סינית שהקימה אליס הואנג, האישה שבמרכז הפרשה, רכשה שבבי AI מתקדמים של אנבידיה שהוברחו לסין והותקנו במרכז נתונים בשנגחאי — הפרה ישירה של פיקוח הייצוא האמריקאי שמגביל מכירת שבבים מתקדמים לסין, אותו פיקוח שהואנג עצמו הגן על עמידת אנבידיה בו שנים. מניית אנבידיה איבדה 13% מערכה במהלך השבוע, והמשיכה לרדת גם בחמישי ושישי כשההשפעות התרחבו.\n\n## שני כשלי פיקוח, לא אחד\n\nהפרשה חושפת כשל בשתי רמות נפרדות. רנדל פיטרסון, מנהל מכון המנהיגות של לונדון בזנס סקול, טוען שהדירקטוריון של אנבידיה נכשל לא רק בניהול החברה אלא גם בהואנג עצמו — הוא לא בנה פיקוח עצמאי שהיה יכול לחשוף את ניגוד העניינים לפני שהפך לשערורייה שעלתה לו בתפקיד. שר האוצר סקוט בסנט הצביע על כשל שני, ברמה הממשלתית: הוא האשים את משרד המסחר בראשות הווארד לוטניק בכך שלא הוסיף את הקונה הסינית, חברת מגה ספיד, ל\"רשימה השחורה\", אף שארבע רשויות פדרליות תמכו בכך. הסמכות לפעול, ציין בסנט, הייתה בידי משרד המסחר בלבד — ומשרד המסחר לא השתמש בה.\n\n## השפעות מסדר שני\n\nההשפעות מתפשטות הרבה מעבר למניית אנבידיה עצמה. כל ענף השבבים נסחף בירידות, והטלטלה מתערבבת כעת עם שני המבחנים הגדולים של \"סחר ה-AI\" בשבוע הקרוב: דוחות אנבידיה והנפקת אנתרופיק, שמכוונת לשווי של כ-1.33-1.5 טריליון דולר ושמנכ\"לה כבר הביע פומבית חוסר דאגה מהתנודתיות בשוק. קולט קרס — שהואנג פעם ביטל כ\"איילה שנתפסה באור פנסים\" כששאלה שאלות על חלק מהעסקאות שלו — מכהנת כעת כמנכ\"לית בפועל, ולפי הדיווחים הדירקטוריון פנה למנכ\"ל חברת Arm, רנה האס, על התפקיד הקבוע.\n\nיש גם זווית ישראלית: הפעילות של אנבידיה בישראל מכניסה לאוצר המדינה יותר מ-10 מיליארד שקל בשנה במסים, ובאוצר חוששים שהחילופים בהנהלה יקפיאו את תוכניות ההתרחבות של החברה בארץ — תזכורת לכמה שהבסיס הפיסקלי של כלכלה קטנה יכול להיות מרוכז בכמה תאגידי-על זרים בודדים.\n\n## מה לעקוב אחריו\n\nשלושה דברים יחשפו עד כמה מתייחסים לזה כאל כשל ממשל תאגידי (corporate governance) ולא כאל שערורייה חולפת: מי ייבחר בסוף למנכ\"ל הקבוע — מועמד חוץ כמו האס יהיה הודאה שקטה שהפיקוח הפנימי נכשל; האם הפומבי של בסנט מול לוטניק יתורגם לאכיפה ממשית הדוקה יותר על פיקוח הייצוא; והאם וושינגטון בכלל מתייחסת להפרת הייצוא כבעיה בעדיפות גבוהה — לפי הדיווחים, טראמפ לא מתכנן להעלות את נושא הריגול של אנבידיה בפני שי ג'ינפינג בפגישת הפסגה המשולשת בשבוע הקרוב, מה שאומר הרבה על המרחק שנותר עד לאחריותיות אמיתית כאן."
+      },
+      "tags": [
+        "nvidia",
+        "corporate-governance",
+        "export-controls",
+        "ceo-succession"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+          "url": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+          "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
+          "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Jensen Huang Called Her ‘a Deer in the Headlights.’ Now She Runs Nvidia.",
+          "url": "https://www.wsj.com/articles/jensen-huang-called-her-a-deer-in-the-headlights-now-she-runs-nvidia-d7f063dd?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
+          "url": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט ננעלה בירידות; אנבידיה איבדה השבוע 13% מערכה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article-live/.premium/000001a1-b4b2-d041-a5f9-f5b36bdf0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "שר האוצר של ארה\"ב מאשים את משרד המסחר במשבר השבבים באנבידיה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article/.premium/000001a1-d647-d59b-a1f3-ded75e3d0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "חשש כבד באוצר מטלטלה באנבידיה: מכניסה יותר מ–10 מיליארד שקל בשנה",
+          "url": "https://www.themarker.com/news/macroeconomics/2026-11-13/ty-article/.premium/000001a1-d4a6-d59b-a1f3-dcb632b50000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "\"אני חתיכת ח**\": שבור ומרוסק, השעות האחרונות של ג'נסן הואנג כמנכ\"ל אנבידיה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article/.premium/000001a1-d454-da30-a7fb-dcfd32010000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "נחשף: השבבים המתקדמים של אנבידיה הגיעו לחברה הסינית של המאהבת שלו",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article/.premium/000001a1-d3dc-d297-afe9-dfdef6870000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הואנג הולך הביתה — אבל מי ירסן את ברון הטכנולוגיה הבא?",
+          "url": "https://www.themarker.com/weekend/2026-11-13/ty-article-magazine/.highlight/000001a1-cfaa-d292-abf9-ffff0c0a0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4038.02,
+      "prev_close": 4073.77,
+      "change_pct": -0.88,
+      "as_of": "2026-11-13"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7561.6699,
+      "prev_close": 7592.3999,
+      "change_pct": -0.4,
+      "as_of": "2026-11-13"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1918,
+      "prev_close": 3.1739,
+      "change_pct": 0.56,
+      "as_of": "2026-11-13"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 96.08,
+      "prev_close": 95.82,
+      "change_pct": 0.27,
+      "as_of": "2026-11-13"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 66657.8281,
+      "prev_close": 71342.9688,
+      "change_pct": -6.57,
+      "as_of": "2026-11-14"
+    }
+  }
+}

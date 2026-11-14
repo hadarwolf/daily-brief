@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-14",
+  "questions": [
+    {
+      "id": "q1-arsenal-top",
+      "section": "sports",
+      "story_id": "arsenal-top-of-premier-league",
+      "answer_index": 3,
+      "en": {
+        "question": "Where do Arsenal stand in the Premier League after their recent three-game winning streak?",
+        "options": [
+          "Third place, level on points with Liverpool",
+          "Second place, one point behind Manchester City",
+          "First place, tied on points with Manchester City",
+          "First place, with a two-point lead over Brighton"
+        ],
+        "explanation": "Arsenal are top of the table on 27 points, two points clear of second-placed Brighton, after wins over Liverpool, Slavia Praha and Hull City."
+      },
+      "he": {
+        "question": "היכן נמצאת ארסנל בפרמייר ליג אחרי רצף שלושת הניצחונות האחרון שלה?",
+        "options": [
+          "במקום השלישי, שווה בנקודות עם ליברפול",
+          "במקום השני, נקודה אחת מאחורי מנצ'סטר סיטי",
+          "במקום הראשון, שווה בנקודות עם מנצ'סטר סיטי",
+          "במקום הראשון, עם יתרון של שתי נקודות על ברייטון"
+        ],
+        "explanation": "ארסנל בפסגת הטבלה עם 27 נקודות, שתי נקודות לפני ברייטון במקום השני, אחרי ניצחונות על ליברפול, סלאביה פראג והאל סיטי."
+      }
+    },
+    {
+      "id": "q2-nvidia-export-control-failure",
+      "section": "business",
+      "story_id": "nvidia-board-governance-failure",
+      "answer_index": 1,
+      "en": {
+        "question": "According to US Treasury Secretary Scott Bessent, what government failure let a Chinese firm obtain smuggled Nvidia chips?",
+        "options": [
+          "Nvidia itself lied to Commerce about the buyer's identity",
+          "The Commerce Department didn't blacklist the buyer despite four agencies supporting it",
+          "The Treasury Department approved the sale by mistake",
+          "Congress blocked funding for export-control enforcement"
+        ],
+        "explanation": "Bessent blamed Commerce Secretary Howard Lutnick's department for not adding the Chinese buyer, Megaspeed, to the restricted list, even though four federal agencies had supported doing so."
+      },
+      "he": {
+        "question": "לפי שר האוצר האמריקאי סקוט בסנט, איזה כשל ממשלתי אפשר לחברה סינית להשיג שבבי אנבידיה מוברחים?",
+        "options": [
+          "אנבידיה עצמה שיקרה למשרד המסחר בנוגע לזהות הקונה",
+          "משרד המסחר לא הוסיף את הקונה ל\"רשימה השחורה\" אף שארבע רשויות תמכו בכך",
+          "משרד האוצר אישר את המכירה בטעות",
+          "הקונגרס חסם תקציב לאכיפת פיקוח הייצוא"
+        ],
+        "explanation": "בסנט האשים את משרד המסחר, בראשות הווארד לוטניק, בכך שלא הוסיף את החברה הסינית הקונה, מגה ספיד, ל\"רשימה השחורה\", אף שארבע רשויות פדרליות תמכו בכך."
+      }
+    },
+    {
+      "id": "q3-police-operational-attachment",
+      "section": "israeli_politics",
+      "story_id": "police-chief-bypasses-ben-gvir",
+      "answer_index": 0,
+      "en": {
+        "question": "How did Israel's police commissioner install roughly 15 senior officers without the national security minister's approval?",
+        "options": [
+          "By classifying the appointments as temporary \"operational attachments\" that don't need the minister's signature",
+          "By waiting until the minister was on leave and signing the appointments himself",
+          "By getting a court order that overrode the minister",
+          "By convincing the Knesset to approve the appointments directly"
+        ],
+        "explanation": "Commissioner Danny Levy's office placed the officers under a legal category called \"operational attachment,\" which doesn't require ministerial sign-off, after Ben Gvir refused to approve the appointments."
+      },
+      "he": {
+        "question": "כיצד הציב המפכ\"ל כ-15 קצינים בכירים בתפקידים חדשים בלי אישור השר לביטחון לאומי?",
+        "options": [
+          "באמצעות הגדרת המינויים כ\"סיפוח מבצעי\" זמני שלא מצריך את חתימת השר",
+          "בכך שהמתין שהשר יצא לחופשה וחתם על המינויים בעצמו",
+          "באמצעות צו בית משפט שעקף את השר",
+          "בכך ששכנע את הכנסת לאשר את המינויים ישירות"
+        ],
+        "explanation": "לשכת המפכ\"ל דני לוי הציבה את הקצינים תחת הגדרה משפטית של \"סיפוח מבצעי\", שאינה מצריכה את חתימת השר, אחרי שבן גביר סירב לאשר את המינויים."
+      }
+    }
+  ]
+}

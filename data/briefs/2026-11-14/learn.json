@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-14",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-14T03:50:35+00:00",
+  "stories": [
+    {
+      "id": "word-economic-moat",
+      "kind": "word",
+      "en": {
+        "headline": "Economic moat (חפיר כלכלי)",
+        "scroll": "A durable competitive advantage that protects a company's profits from competitors, the way a moat protects a castle.",
+        "coffee": "Investors talk about a company's 'moat' — the structural edge that keeps rivals from taking its customers or margins, like network effects, brand loyalty, patents, or high switching costs. Example: 'Apple's ecosystem lock-in gives it a wide moat few phone makers can cross.'",
+        "deep": "'Moat' (or 'economic moat') describes whatever keeps a company's profits safe from competition over the long run — not just today's lead, but a structural reason rivals can't easily erode it. Analysts widely credit Warren Buffett for popularizing the term in investing. Common sources of a moat: network effects (more users make the product more valuable, as with a marketplace), high switching costs (enterprise software that's painful to replace), economies of scale, brand, or patents.\n\nA common confusion: a moat is not the same as being big or currently profitable — a company can have huge revenue and still have no moat if a competitor could copy it tomorrow. It's also not permanent; moats erode when technology shifts (ask any taxi company about Uber) or patents expire.\n\nMore examples: 'Coca-Cola's brand is often cited as one of the widest moats in consumer goods.' 'Analysts downgraded the stock, arguing its moat was narrowing as competitors caught up on price.'\n\nIn Hebrew: חפיר כלכלי."
+      },
+      "he": {
+        "headline": "Economic moat (חפיר כלכלי)",
+        "scroll": "יתרון תחרותי בר-קיימא שמגן על הרווחים של חברה מפני מתחרים, בדיוק כמו שחפיר מגן על טירה.",
+        "coffee": "משקיעים מדברים על ה'חפיר' של חברה — היתרון המבני שמונע ממתחרים לקחת ממנה לקוחות או שולי רווח, כמו אפקטי רשת, נאמנות למותג, פטנטים או עלויות מעבר גבוהות. לדוגמה: \"נעילת המשתמשים באקוסיסטם של אפל נותנת לה חפיר רחב שרוב יצרני הטלפונים לא יכולים לחצות.\"",
+        "deep": "המונח 'חפיר' (או 'חפיר כלכלי', economic moat) מתאר כל מה שמגן על הרווחים של חברה מתחרות לאורך זמן — לא רק את היתרון של היום, אלא סיבה מבנית שמתחרים לא יכולים לשחזר בקלות. וורן באפט מזוהה מעל לכול עם הפופולריזציה של המונח בעולם ההשקעות. מקורות נפוצים לחפיר: אפקטי רשת (network effects — ככל שיש יותר משתמשים, המוצר נהיה שימושי יותר, כמו בפלטפורמת מסחר), עלויות מעבר גבוהות (switching costs — תוכנה עסקית שכואב להחליף), יתרון לגודל (economies of scale), מותג, או פטנטים.\n\nבלבול נפוץ: חפיר אינו זהה לגודל או לרווחיות נוכחית — לחברה יכולה להיות הכנסה עצומה ועדיין אין לה חפיר, אם מתחרה יכול להעתיק אותה מחר. הוא גם לא קבוע לנצח; חפירים נשחקים כשטכנולוגיה משתנה (שאלו כל חברת מוניות על אובר) או כשפטנטים פגים.\n\nעוד דוגמאות: \"המותג של קוקה-קולה מצוטט לרוב כאחד החפירים הרחבים ביותר במוצרי צריכה.\" \"אנליסטים הורידו את המלצתם למניה, בטענה שהחפיר שלה הצטמק ככל שמתחרים השיגו אותה במחיר.\"\n\nבאנגלית: economic moat."
+      },
+      "tags": [
+        "business",
+        "vocabulary",
+        "investing"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-first-mover-advantage",
+      "kind": "word",
+      "en": {
+        "headline": "First-mover advantage (יתרון הנע הראשון)",
+        "scroll": "The edge a company gets from being first to enter a market — grabbing customers, data, or brand recognition before competitors show up.",
+        "coffee": "Being first lets a company lock in customers, set the standard others must follow, or gather data no latecomer has yet. Example: 'Amazon's first-mover advantage in cloud computing gave AWS a market share rivals are still chasing a decade later.'",
+        "deep": "'First-mover advantage' is the edge a company captures simply by entering a market before anyone else — it can grab the best customers, lock in distribution deals, set the industry standard, or build a brand that becomes synonymous with the category (think 'Google it').\n\nThe common confusion: being first doesn't guarantee winning. Plenty of first movers get overtaken by a 'fast follower' who watches the pioneer's mistakes and launches a better, cheaper version later — sometimes called a second-mover advantage. Friendster arrived before Facebook; MySpace arrived before both. Neither kept the lead.\n\nMore examples: 'The startup burned cash chasing first-mover advantage in a market that turned out to reward patience instead.' 'Tesla's first-mover advantage in EVs is now being tested by legacy automakers with deeper pockets.'\n\nIn Hebrew: יתרון הנע הראשון."
+      },
+      "he": {
+        "headline": "First-mover advantage (יתרון הנע הראשון)",
+        "scroll": "היתרון שחברה מקבלת מכך שהיא הראשונה להיכנס לשוק — לפני שהמתחרים מגיעים, היא תופסת לקוחות, מידע או הכרת מותג.",
+        "coffee": "כניסה ראשונה לשוק מאפשרת לחברה לנעול לקוחות, לקבוע את הסטנדרט שאחרים יצטרכו לעקוב אחריו, או לאסוף מידע שלמתחרה המאוחר עדיין אין. לדוגמה: \"יתרון הנע הראשון של אמזון בתחום מחשוב העננים נתן ל-AWS נתח שוק שמתחרים עדיין רודפים אחריו עשור אחר כך.\"",
+        "deep": "\"יתרון הנע הראשון\" (first-mover advantage) הוא היתרון שחברה קולטת רק מכך שהיא נכנסת לשוק לפני כולם — היא יכולה לתפוס את הלקוחות הטובים ביותר, לנעול הסכמי הפצה, לקבוע את תקן התעשייה, או לבנות מותג שהופך לשם נרדף לקטגוריה כולה (חשבו על \"לגגל\").\n\nהבלבול הנפוץ: להיות ראשון לא מבטיח ניצחון. חברות רבות שהיו ראשונות הוקדמו על ידי \"עוקב מהיר\" (fast follower) שלמד מהטעויות של החלוץ והשיק מאוחר יותר גרסה טובה וזולה יותר — לעיתים נקרא גם יתרון הנע השני. פרנדסטר הגיעה לפני פייסבוק; מייספייס הגיעה לפני שתיהן. אף אחת מהן לא שמרה על ההובלה.\n\nעוד דוגמאות: \"הסטארט-אפ שרף מזומן במרדף אחרי יתרון הנע הראשון בשוק שבסוף תגמל סבלנות ולא מהירות.\" \"יתרון הנע הראשון של טסלה ברכב חשמלי נבדק כעת על ידי יצרני רכב מבוססים עם כיסים עמוקים יותר.\"\n\nבאנגלית: first-mover advantage."
+      },
+      "tags": [
+        "business",
+        "vocabulary",
+        "strategy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-boil-the-frog",
+      "kind": "word",
+      "en": {
+        "headline": "Boil the frog (לבשל את הצפרדע)",
+        "scroll": "To introduce an unwelcome change so slowly that people don't notice or resist it until it's too late.",
+        "coffee": "Comes from the (scientifically false) claim that a frog won't jump out of water that heats up gradually. In business and policy, it describes creeping changes — price hikes, scope creep, eroding terms — introduced in small enough steps that nobody pushes back. Example: 'The vendor boiled the frog, raising fees 2% a quarter until customers realized they were paying double.'",
+        "deep": "'Boil the frog' (or 'boiling frog') describes making an unwelcome change so gradually that whoever it affects never notices a single moment worth objecting to — by the time the change is obvious, it's too late to reverse. It comes from an old (and factually wrong) claim that a frog placed in slowly heated water won't jump out, unlike one dropped into already-boiling water.\n\nIt's used both critically ('management boiled the frog on return-to-office, adding one day at a time') and as a warning to watch for ('don't let scope creep boil the frog on this project'). Common confusion: it's not the same as 'death by a thousand cuts', which describes many small separate harms rather than one change applied in slow increments.\n\nMore examples: 'Subscription prices crept up a dollar at a time — a textbook case of boiling the frog.' 'Regulators accused the company of boiling the frog on data collection, expanding what it tracked in small, barely-disclosed updates.'\n\nIn Hebrew: לבשל את הצפרדע."
+      },
+      "he": {
+        "headline": "Boil the frog (לבשל את הצפרדע)",
+        "scroll": "להכניס שינוי לא רצוי בצורה כך איטית שאף אחד לא שם לב או מתנגד, עד שמאוחר מכדי לחזור בו.",
+        "coffee": "המקור הוא טענה ישנה (ולא מדויקת מדעית) שצפרדע שמונחת במים שמתחממים לאט לא תזנק מהם, בניגוד לצפרדע שמוכנסת ישירות למים רותחים. בעסקים ובמדיניות, הביטוי מתאר שינויים זוחלים — העלאות מחיר, התרחבות דרישות (scope creep), שחיקת תנאים — שמוחלים בצעדים קטנים מספיק כדי שאף אחד לא יתנגד. לדוגמה: \"הספק 'בישל את הצפרדע' והעלה עמלות ב-2% כל רבעון, עד שהלקוחות הבינו שהם משלמים כפול.\"",
+        "deep": "\"לבשל את הצפרדע\" (boil the frog) מתאר יישום שינוי לא רצוי בצורה כך הדרגתית, שמי שמושפע ממנו לא מצליח לזהות רגע ברור שראוי להתנגד לו — וכשהשינוי כבר בולט, מאוחר מכדי לבטל אותו. הביטוי מגיע מטענה ישנה (ושגויה מבחינה עובדתית) שצפרדע שמונחת במים שמתחממים לאט לא תזנק מהם, בשונה מצפרדע שמוכנסת למים רותחים כבר.\n\nנהוג להשתמש בו גם בביקורת (\"ההנהלה בישלה את הצפרדע בחזרה למשרד, והוסיפה יום אחד בכל פעם\") וגם כאזהרה (\"אל תיתנו לדרישות המתרחבות של הפרויקט לבשל לנו את הצפרדע\"). בלבול נפוץ: זה לא זהה ל\"מוות באלף חתכים\" (death by a thousand cuts), שמתאר הרבה נזקים קטנים ונפרדים, ולא שינוי אחד שמוחל בהדרגה.\n\nעוד דוגמאות: \"מחירי המנוי טיפסו דולר בכל פעם — מקרה קלאסי של בישול הצפרדע.\" \"רגולטורים האשימו את החברה שבישלה את הצפרדע באיסוף מידע, והרחיבה מה שהיא עוקבת אחריו בעדכונים קטנים שכמעט לא גולו.\"\n\nבאנגלית: boil the frog."
+      },
+      "tags": [
+        "business",
+        "vocabulary",
+        "idiom"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-unit-economics",
+      "kind": "concept",
+      "en": {
+        "headline": "Unit Economics: What One Customer Is Actually Worth",
+        "scroll": "Unit economics means figuring out whether you make or lose money on a single customer or sale, stripped of fixed overhead — the clearest test of whether a business model actually works.",
+        "coffee": "Zoom out far enough and almost any company's revenue and costs are a blur of overlapping expenses — rent, salaries, marketing, servers. Unit economics zooms back in: take one unit (one customer, one order, one subscriber) and ask what it costs to acquire and serve, versus what it brings in over its lifetime. If that single unit loses money, growth doesn't fix the business — it just loses money faster, at scale. If it's profitable, scale makes the fixed costs cheaper per unit and the business compounds. Investors often judge early-stage startups less on total revenue than on whether the unit economics work, because revenue growth on broken unit economics is a trap that ends when funding runs out.",
+        "deep": "## The idea\n\nUnit economics asks a narrow but decisive question: on a single unit of the business — one customer, one order, one subscription — do you make money or lose it, once you strip away shared fixed costs like rent, headquarters salaries, or a product team's base budget? It's the test of whether the underlying business model is sound, independent of how big or small the company currently is.\n\nThe two core numbers are customer acquisition cost (CAC) — everything spent to land one paying customer, including marketing and sales — and customer lifetime value (LTV) — the profit that customer generates over the whole time they stay. A healthy business needs LTV meaningfully above CAC; a common rule of thumb in software is that LTV should be at least three times CAC, though the right ratio depends on the industry and how fast cash needs to come back.\n\n## A worked example\n\nSay a subscription app spends $40,000 on ads and sales in a month and signs up 1,000 new paying customers. CAC = $40,000 / 1,000 = $40 per customer. Each customer pays $10 a month, costs $2 a month to serve (support, hosting), and sticks around for 10 months on average. Gross profit per customer over its lifetime: ($10 - $2) × 10 = $80. LTV ($80) is twice CAC ($40) — profitable, but thin: if churn worsens and customers only stay 4 months, lifetime profit drops to $32, and the business loses money on every customer it signs up, no matter how many ads it buys.\n\n## Why it matters more than revenue\n\nA company can report fast-growing revenue while its unit economics are negative — it's simply losing a predictable amount of money on every new customer and calling the losses 'growth investment.' That pattern can work temporarily if investors are funding the gap and the plan is for costs to fall as the company scales (a real path for some software businesses), but it collapses the moment outside funding dries up. That's why unit economics, not top-line growth, is often the first thing serious investors or acquirers check."
+      },
+      "he": {
+        "headline": "כלכלת היחידה (Unit Economics): כמה שווה באמת לקוח אחד",
+        "scroll": "כלכלת יחידה (unit economics) בודקת אם מרוויחים או מפסידים על לקוח או מכירה בודדים, בלי עלויות תקורה משותפות — המבחן הברור ביותר לכך שהמודל העסקי בכלל עובד.",
+        "coffee": "אם מתבוננים מרחוק, ההכנסות וההוצאות של כל חברה הן בליל של הוצאות חופפות — שכר דירה, משכורות, שיווק, שרתים. כלכלת היחידה מתבוננת מקרוב: לוקחים יחידה בודדת (לקוח אחד, הזמנה אחת, מנוי אחד) ושואלים כמה עולה לרכוש ולשרת אותה, לעומת כמה היא מכניסה במהלך כל חייה כלקוחה. אם היחידה הבודדת הזו מפסידה כסף, צמיחה לא פותרת את העסק — היא רק מפסידה כסף מהר יותר, בקנה מידה גדול יותר. אם היא רווחית, קנה המידה מוזיל את העלויות הקבועות ליחידה והעסק צומח באופן מצטבר. משקיעים שופטים סטארט-אפים בשלב מוקדם לא לפי ההכנסה הכוללת אלא לפי השאלה אם כלכלת היחידה עובדת, כי צמיחת הכנסות על כלכלת יחידה שבורה היא מלכודת שנגמרת כשהמימון נגמר.",
+        "deep": "## הרעיון\n\nכלכלת היחידה (unit economics) שואלת שאלה ממוקדת אך מכרעת: ביחידה בודדת של העסק — לקוח אחד, הזמנה אחת, מנוי אחד — האם מרוויחים או מפסידים, לאחר שמסירים עלויות קבועות משותפות כמו שכר דירה, משכורות הנהלה או תקציב בסיס של צוות מוצר? זה המבחן לכך שהמודל העסקי הבסיסי תקין, בלי קשר לגודל הנוכחי של החברה.\n\nשני המספרים המרכזיים הם עלות גיוס לקוח (CAC, customer acquisition cost) — כל מה שהוצא כדי להשיג לקוח משלם אחד, כולל שיווק ומכירות — וערך חיי לקוח (LTV, customer lifetime value) — הרווח שהלקוח הזה מייצר במהלך כל הזמן שהוא נשאר. עסק בריא צריך LTV שגבוה משמעותית מ-CAC; כלל אצבע נפוץ בתוכנה הוא ש-LTV צריך להיות לפחות שלוש פעמים ה-CAC, אם כי היחס הנכון תלוי בתעשייה ובמהירות שבה צריך לקבל בחזרה את המזומן.\n\n## דוגמה מחושבת\n\nנניח שאפליקציית מנויים מוציאה 40,000 דולר על פרסום ומכירות בחודש ומגייסת 1,000 לקוחות משלמים חדשים. CAC = 40,000 / 1,000 = 40 דולר ללקוח. כל לקוח משלם 10 דולר בחודש, עולה 2 דולר בחודש לשרת (תמיכה, אירוח), ונשאר בממוצע 10 חודשים. רווח גולמי ללקוח במהלך חייו: (10 - 2) × 10 = 80 דולר. ה-LTV (80 דולר) הוא כפול מה-CAC (40 דולר) — רווחי, אבל דק: אם הנטישה (churn) מחמירה והלקוחות נשארים רק 4 חודשים, הרווח לאורך החיים יורד ל-32 דולר, והעסק מפסיד על כל לקוח שהוא מגייס, לא משנה כמה פרסום הוא קונה.\n\n## למה זה חשוב יותר מהכנסות\n\nחברה יכולה לדווח על הכנסות צומחות במהירות בזמן שכלכלת היחידה שלה שלילית — היא פשוט מפסידה סכום צפוי על כל לקוח חדש וקוראת להפסדים \"השקעה בצמיחה\". זה יכול לעבוד זמנית אם משקיעים מממנים את הפער והתוכנית היא שהעלויות יירדו עם קנה המידה (מסלול אמיתי לחלק מעסקי התוכנה), אבל זה קורס ברגע שהמימון החיצוני מתייבש. זו הסיבה שכלכלת היחידה, ולא צמיחת ההכנסות, היא לרוב הדבר הראשון שמשקיעים או רוכשים רציניים בודקים."
+      },
+      "tags": [
+        "business",
+        "economics",
+        "startups"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-maiman-laser-patent",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1967: Theodore Maiman Is Granted the Patent for the World's First Laser",
+        "scroll": "American physicist Theodore Maiman received the patent for his ruby laser, the invention that made possible everything from fiber-optic internet to barcode scanners and laser surgery.",
+        "coffee": "On this day in 1967, Theodore Maiman was granted the US patent for his ruby laser — the device he had actually built and fired seven years earlier, in May 1960, at Hughes Research Laboratories. 'Laser' stands for 'light amplification by stimulated emission of radiation': a way of forcing atoms to release light in a single, tightly focused, single-colored beam, rather than the scattered light of an ordinary bulb.\n\nAt the time, the laser was dismissed by some as 'a solution looking for a problem' — a neat physics trick without an obvious use. That turned out to be spectacularly wrong. Lasers now carry almost all long-distance internet traffic through fiber-optic cables, read barcodes and Blu-ray discs, guide precision eye and other surgery, cut and weld metal in factories, and sit inside the laser printers and laser pointers of everyday life.\n\nMaiman built on decades of theoretical work by other physicists but was the first to actually make a working device, beating several well-funded lab teams to it — a reminder that being first to build something is its own kind of achievement, separate from being first to theorize it.",
+        "deep": "## A quiet breakthrough, loudly doubted\n\nTheodore Maiman built the first working laser on May 16, 1960, at Hughes Research Laboratories in Malibu, California — a small ruby rod, a flash lamp, and mirrors at each end, arranged so that light bouncing back and forth would stimulate more atoms to release light in lockstep, producing a tight, coherent beam. He announced it at a press conference in Manhattan that July. The patent recognizing the invention wasn't granted until this day in 1967.\n\nThe underlying physics had been laid out theoretically years earlier — Albert Einstein described stimulated emission in 1917, and other researchers, including Charles Townes (who had already built the laser's microwave predecessor, the maser), were racing toward the same goal. Several better-funded teams expected to get there first. Maiman's achievement was experimental, not theoretical: making the thing actually work, with comparatively modest resources.\n\n## Dismissed, then everywhere\n\nFor years afterward, the laser had a reputation as a solution without a problem — a striking demonstration with no obvious killer application. That changed as researchers and engineers found uses nobody had anticipated at the 1960 press conference. Low-loss fiber optics, developed in the following decades, turned lasers into the backbone of global telecommunications: almost every undersea cable and most long-distance internet traffic now runs on pulses of laser light through glass fiber.\n\nBeyond telecom, laser technology spread into retail (barcode and QR scanners), medicine (LASIK eye surgery, tumor removal, dermatology), manufacturing (cutting, welding, 3D printing), storage (CDs, DVDs, Blu-ray), and everyday gadgets (laser pointers, laser printers, laser rangefinders).\n\n## What to remember\n\nThe laser's path — years of being a lab curiosity before quietly becoming infrastructure nobody notices — is a pattern repeated across modern physics and engineering: the gap between 'this works' and 'this is now everywhere' is often not technical but a matter of waiting for someone to find the application. Maiman reportedly resented for years that Townes was credited as 'father of the laser' in press coverage, despite having built the first working device himself — a dispute that outlasted the technology's novelty."
+      },
+      "he": {
+        "headline": "1967: תיאודור מיימן מקבל פטנט על הלייזר הראשון בעולם",
+        "scroll": "הפיזיקאי האמריקאי תיאודור מיימן קיבל פטנט על לייזר הרובי שלו — האמצאה שאפשרה בהמשך את האינטרנט בסיבים אופטיים, סורקי קודים וניתוחי לייזר.",
+        "coffee": "ביום הזה בשנת 1967 קיבל תיאודור מיימן פטנט אמריקאי על לייזר הרובי שלו — המכשיר שהוא בעצם בנה והפעיל שבע שנים קודם לכן, במאי 1960, במעבדות המחקר של חברת Hughes. \"לייזר\" (laser) הוא קיצור של \"הגברת אור על ידי פליטה מעוררת של קרינה\" (light amplification by stimulated emission of radiation): שיטה שמאלצת אטומים לפלוט אור בקרן אחת, ממוקדת וחד-צבעית, בניגוד לאור המפוזר של נורה רגילה.\n\nבאותה תקופה, חלק תיארו את הלייזר כ\"פתרון שמחפש בעיה\" — טריק פיזיקלי מרשים בלי שימוש ברור. זה התגלה כטעות מרהיבה. כיום לייזרים מעבירים כמעט את כל תעבורת האינטרנט ארוכת-הטווח בכבלי סיבים אופטיים, קוראים קודים וקוראים תקליטורי Blu-ray, מכוונים ניתוחי עיניים וניתוחים מדויקים אחרים, חותכים ומרתכים מתכת במפעלים, ונמצאים במדפסות לייזר ובמצביעי לייזר של חיי היומיום.\n\nמיימן בנה על עשרות שנות עבודה תיאורטית של פיזיקאים אחרים, אבל הוא היה הראשון שבפועל בנה מכשיר עובד, והקדים כמה צוותי מעבדה ממומנים היטב — תזכורת לכך שלהיות הראשון לבנות משהו הוא הישג בפני עצמו, נפרד מלהיות הראשון לנסח את התאוריה.",
+        "deep": "## פריצת דרך שקטה, שספגה ספקנות רועשת\n\nתיאודור מיימן בנה את הלייזר העובד הראשון ב-16 במאי 1960, במעבדות המחקר של Hughes במליבו, קליפורניה — מוט רובי קטן, מנורת פלאש, ומראות בכל קצה, מסודרים כך שאור שמקפץ הלוך ושוב מגרה אטומים נוספים לפלוט אור בתזמון משותף, ומייצר קרן צרה וקוהרנטית. הוא הכריז על כך בכנס עיתונאים במנהטן באותו יולי. הפטנט שהכיר באמצאה ניתן רק ביום הזה בשנת 1967.\n\nהפיזיקה שבבסיס התגלית נוסחה תיאורטית שנים קודם לכן — אלברט איינשטיין תיאר פליטה מעוררת (stimulated emission) ב-1917, וחוקרים נוספים, כולל צ'רלס טאונס (שכבר בנה את קודמו של הלייזר בתחום המיקרוגל, ה-maser), מירוצו לאותה מטרה. כמה צוותים ממומנים היטב יותר ציפו להגיע לשם ראשונים. ההישג של מיימן היה ניסויי, לא תיאורטי: לגרום לדבר בפועל לעבוד, במשאבים יחסית מצומצמים.\n\n## נדחה, ואז נמצא בכל מקום\n\nשנים רבות אחר כך, היה לו ללייזר שם של פתרון בלי בעיה — הדגמה מרשימה בלי יישום-רוצח ברור. זה השתנה כשחוקרים ומהנדסים מצאו שימושים שאיש לא צפה בכנס העיתונאים של 1960. סיבים אופטיים בעלי אובדן נמוך, שפותחו בעשורים הבאים, הפכו לייזרים לעמוד השדרה של התקשורת העולמית: כמעט כל כבל תת-ימי ורוב תעבורת האינטרנט ארוכת-הטווח עוברים כיום כפעימות של אור לייזר בתוך סיב זכוכית.\n\nמעבר לתקשורת, טכנולוגיית הלייזר התפשטה לקמעונאות (סורקי קודים ו-QR), רפואה (ניתוחי LASIK לעיניים, הסרת גידולים, דרמטולוגיה), תעשייה (חיתוך, ריתוך, הדפסת תלת-מימד), אגירה (תקליטורי CD, DVD, Blu-ray), ומכשירים יומיומיים (מצביעי לייזר, מדפסות לייזר, מדי מרחק בלייזר).\n\n## למה חשוב לזכור\n\nהמסלול של הלייזר — שנים כסקרנות מעבדתית לפני שהפך בשקט לתשתית שאף אחד לא שם לב אליה — הוא דפוס שחוזר על עצמו בפיזיקה ובהנדסה מודרניות: הפער בין \"זה עובד\" ל\"זה נמצא בכל מקום\" הוא לרוב לא טכני אלא עניין של המתנה שמישהו ימצא את היישום. מיימן, כך מדווח, התרעם שנים על כך שטאונס זוכה בתקשורת לכינוי \"אבי הלייזר\", אף שמיימן עצמו בנה את המכשיר העובד הראשון — מחלוקת שהאריכה ימים יותר מחדשנות הטכנולוגיה עצמה."
+      },
+      "tags": [
+        "physics",
+        "history",
+        "technology"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1967: American physicist Theodore Maiman was given a patent for his ruby laser systems, the world's first laser.",
+          "url": "https://en.wikipedia.org/wiki/Theodore_Maiman"
+        }
+      ]
+    }
+  ]
+}
