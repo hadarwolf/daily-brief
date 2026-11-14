@@ -146,63 +146,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "אפליקציה חינמית חדשה היא חובה לכל מי שקונה באיקאה",
+     "published": "2026-11-14T08:55:16+00:00",
+     "summary": "כל מי שאי פעם קנה רהיט או מוצר כלשהו באיקאה מכיר את הרגע הזה: הקרטון נפתח, ואלפי ברגים וחלקי עץ ומתכת מוזרים נשפכים על הרצפה, מלווים בחוברת הוראות מעצבנת. אז במקום להסתבך עם איורים לא ברורים, אפליקציה חינמית חדשה מציעה להעביר את כל חוויית ההרכבה למאה ה-21 והיא עושה את זה עם מודלים בתלת-ממד ופיצ'ר […] The post אפליקציה חינמית חדשה היא חובה לכל מי שקונה באיקאה appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#1",
      "title": "ביי ביי למפתחות: הארנק של גוגל ישמש לפתיחה של דלתות",
      "published": "2026-11-13T15:26:23+00:00",
      "summary": "אתם כבר רגילים לשלם איתו בסופר ולתקף איתו ברכבת, אבל הבית שלכם נשאר עד עכשיו מחוץ למשחק, וכשאנחנו כותבים משחק, אנחנו מתכוונים לארנק הדיגיטלי שלכם. עכשיו, גוגל עושה צעד נוסף לעבר העלמת צרור המפתחות המעיק שלנו, ומוסיפה סוף סוף ל-Wallet את היכולת לפתוח את דלת הבית, גם בלי להוציא את המכשיר מהכיס. פשוט מצמידים את […] The post ביי ביי למפתחות: הארנק של גוגל ישמש לפתיחה של דלתות appeared first on גיקטיים"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#2",
      "title": "הכלי הזה מאפשר לכם לשכפל כל תוכנה או משחק",
      "published": "2026-11-13T14:30:51+00:00",
      "summary": "האם אנחנו בדרך לסופם של התשלומים החודשיים המוגזמים לחברות הענק? אחרי ששיכפל בהצלחה את התוכנות של אדובי ומיקרוסופט, מפתח תוכנה זועם אחד שחרר את נשק יום הדין של עולם הקוד הפתוח: כלי חינמי שמנתח כל תוכנה, אתר או אפליקציה, מהנדס אותה לאחור, ובונה לכם גרסה זהה בעזרת AI. ככה בדיוק זה עובד. התחיל עם אדובי, […] The post הכלי הזה מאפשר לכם לשכפל כל תוכנה או משחק appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#3",
      "title": "ואם היינו אומרים לכם שהסרט הכי מדובר השנה נוצר באמצעות AI?",
      "published": "2026-11-13T13:12:04+00:00",
      "summary": "רעיון התודעה המשותפת הופיע ביצירות מדע בדיוני הרבה לפני שנוצר מודל ה-AI הראשון. מ\"המשחק של אנדר\", דרך \"סטארטרק\" ועד \"פלוריבוס\" – \"מח כוורת\" הוא כר פורה לעלילות דיסטופיות ואוטופיות (תלוי את מי שואלים) שמעוררות שאלות על אובדן העצמי, ומנגד מציעות פתרון לבדידות האנושית ולמלחמות. במציאות, הרעיון הזה הופך את כולנו למומחים להכל שחולקים צבר אדיר […] The post ואם היינו אומרים לכם שהסרט הכי מדובר השנה נוצר "
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#4",
      "title": "12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקלה הגדולה",
      "published": "2026-11-13T09:52:43+00:00",
      "summary": "תקלה עולמית נרחבת משתקת כבר יותר מ-12 שעות חלק גדול מהשירותים של מיקרוסופט ובראשם שירותי Microsoft 365, כולל אאוטלוק, Teams וכלי ה-AI של החברה, Copilot. לפי הנתונים של אתר Downdetector, בשיא התקלה נרשמו קרוב ל-140 אלף דיווחים של משתמשים מ-74 מדינות. אבל לא רק לקוחות פרטיים או ארגוניים של מיקרוסופט סובלים מהקריסה. גם ענקיות טכנולוגיה […] The post 12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקל"
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#5",
      "title": "בדקנו את הלפטופ הראשון עם המעבד החדש של NVIDIA",
      "published": "2026-11-13T08:03:32+00:00",
      "summary": "ב-2020 חל שינוי פרדיגמה ענק בשוק המחשבים, כאשר Apple הודיעה שהיא מוותרת על שירותיה של אינטל לטובת מעבדים בפיתוח עצמי. ההימור הזה השתלם מאוד לאפל מבחינה טכנית וגם כלכלית. ארבע שנים לאחר מכן השינוי הזה הגיע גם ל-PC עם ההודעה של מיקרוסופט על שיתוף פעולה ראשון עם קוואלקום שהביא את מעבדי ARM למחשבי ווינדוס. ביוני […] The post בדקנו את הלפטופ הראשון עם המעבד החדש של NVIDIA appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#6",
      "title": "זה לקח זמן, אבל וואטסאפ מוסיפה סוף סוף הודעות נעלמות",
      "published": "2026-11-12T17:49:10+00:00",
      "summary": "אולי זו מהפכת ה-Vibe Coding. אולי זה בזכות Muse ואולי פשוט מישהו ב-Meta החליט שככה יהיה, אבל WhatsApp התחילה להעלות הילוך בכל הנוגע לשחרור פיצ'רים חדשים, וכעת נודע כי עוד פיצ'ר חדש ומבוקש נמצא בדרך אלינו: הודעות נעלמות. בואו להתווכח על האם זה היה בטלגרם קודם – בטלגרם של גיקטיים עכשיו אפשר לשלוח גם טקסט […] The post זה לקח זמן, אבל וואטסאפ מוסיפה סוף סוף הודעות נעלמות appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#7",
      "title": "ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר",
      "published": "2026-11-12T14:03:17+00:00",
      "summary": "זה קרה: ג'נסן הואנג, המייסד-השותף, המנכ\"ל, והאיש שמזוהה יותר מכל אחד אחר עם מעיל שחור ועם השם NVIDIA, התפטר לפני זמן קצר מתפקידו בחברה אותה הקים. את הואנג תחליף בתפקיד, ה-CFO של אנבידיה, קולט קרס, שתשמש כמנכ\"לית עד שיימצא המנכ\"ל הקבוע. כל עדכוני הטכנולוגיה ברגע שהם קורים וכך, אחרי יותר משלושה עשורים שבהם הוא מוביל […] The post ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר appeared first on גי"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#8",
      "title": "ממשיכות לגייס: הנה כמה משרות פתוחות בחברות טק בישראל",
      "published": "2026-11-12T13:42:26+00:00",
      "summary": "בודקים מה הכיוון הבא שלכם ומחפשים עבודה בהייטק? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרות פיתוח ומשרות מומלצות בהייטק, בדיוק עבור הרגע הזה שאתם רוצים לרענן את הטייטל. החברות, שמופיעות גם בגיקטיים אינסיידר, מציעות משרות שפתוחות עכשיו ובעמודים שלהן תוכלו לקבל פרטים על החברה, הגישה שלה ללמידה ופיתוח מקצועי, הסטאק הטכנולוגי, […] The post ממשיכות לגייס: הנה כמה משרות פתוחות בחברות טק בי"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#9",
      "title": "חברת השבבים Marvell מפטרת עשרות עובדים בישראל",
      "published": "2026-11-12T11:46:41+00:00",
      "summary": "ענקית השבבים האמריקאית מארוול מפטרת עשרות עובדים בישראל מתוך כ-500 המועסקים במרכזי הפיתוח שלה בפתח תקווה וביקנעם. השפעה על \"חלק מצומצם\" על פי דיווח בכלכליסט, בניגוד לקיצוצים דומים בחברות בינלאומיות אחרות, כאן לא מדובר בגל קיצוצים עולמי בחברה, אלא בהחלטה נקודתית הנוגעת לאחד מצוותי ההנדסה המקומיים. הפעילות של מארוול בישראל מתבססת על מספר חברות שנרכשו […] The post חברת השבבים Marvell מפטרת עשרות עובד"
-    },
-    {
-     "ref": "geektime#9",
-     "title": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
-     "published": "2026-11-12T08:58:03+00:00",
-     "summary": "מאת אלי איינהורן אם אתם מפתחים שמשתמשים ב-Claude Code Desktop, אז אתם מכירים את הפיצ'ר הבא: מבקשים מ-Claude לבדוק קובץ HTML לדוגמה, והאפליקציה מרנדרת אותו אוטומטית בפאנל צדדי. נוח, מהיר, ושימושי. ובכן… לא בדיוק. החוקרים שלנו ב-Noma Labs גילו חולשה חמורה ב-Preview Pane של אפליקציית הדסקטופ, שאפשרה לקובץ HTML לעקוף שלוש שכבות הגנה ולשלוף סיסמאות, […] The post איך Claude Code Desktop כמעט הדליף את כל"
     }
    ]
   },
@@ -214,13 +214,13 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
      "published": "2026-11-14T02:52:59+00:00",
-     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 483 # Comments: 269"
+     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 500 # Comments: 290"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Ggml v1.0.0",
      "published": "2026-11-14T02:28:29+00:00",
-     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 224 # Comments: 38"
+     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 232 # Comments: 38"
     },
     {
      "ref": "hn_frontpage#2",
@@ -232,73 +232,67 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#3",
      "title": "Terminal borders that don't cost a cell",
      "published": "2026-11-13T23:06:40+00:00",
-     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 221 # Comments: 89"
+     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 228 # Comments: 92"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "published": "2026-11-13T22:04:24+00:00",
-     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 258 # Comments: 60"
+     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 260 # Comments: 60"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "FAA issues national ground stop – lifted 4.5 hours later",
      "published": "2026-11-13T21:05:53+00:00",
-     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1519 # Comments: 1160"
+     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1524 # Comments: 1161"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "published": "2026-11-13T19:25:21+00:00",
-     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 187 # Comments: 26"
+     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 188 # Comments: 26"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "FM-1 Workbench",
      "published": "2026-11-13T19:14:02+00:00",
-     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 230 # Comments: 154"
+     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 230 # Comments: 155"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-     "published": "2026-11-13T18:40:44+00:00",
-     "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 343 # Comments: 189"
-    },
-    {
-     "ref": "hn_frontpage#9",
      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
      "published": "2026-11-13T17:58:37+00:00",
      "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana "
     },
     {
-     "ref": "hn_frontpage#10",
+     "ref": "hn_frontpage#9",
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
      "published": "2026-11-13T17:55:28+00:00",
-     "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 252 # Comments: 41"
+     "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 254 # Comments: 41"
+    },
+    {
+     "ref": "hn_frontpage#10",
+     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+     "published": "2026-11-13T15:08:44+00:00",
+     "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 274 # Comments: 312"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-     "published": "2026-11-13T15:08:44+00:00",
-     "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 269 # Comments: 303"
+     "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+     "published": "2026-11-13T15:08:07+00:00",
+     "summary": "https://palmfrets.com/ Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 170 # Comments: 95"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-     "published": "2026-11-13T15:08:07+00:00",
-     "summary": "https://palmfrets.com/ Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 168 # Comments: 95"
+     "title": "A technical vision for the Haskell ecosystem",
+     "published": "2026-11-13T14:43:12+00:00",
+     "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 202 # Comments: 113"
     },
     {
      "ref": "hn_frontpage#13",
-     "title": "A technical vision for the Haskell ecosystem",
-     "published": "2026-11-13T14:43:12+00:00",
-     "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 202 # Comments: 112"
-    },
-    {
-     "ref": "hn_frontpage#14",
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "published": "2026-11-12T22:03:09+00:00",
-     "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 742 # Comments: 212"
+     "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 744 # Comments: 212"
     }
    ]
   },

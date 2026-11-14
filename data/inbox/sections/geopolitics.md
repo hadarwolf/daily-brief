@@ -19,7 +19,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "ap_world#0",
      "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-     "published": "2026-11-14T07:19:35+00:00",
+     "published": "2026-11-14T07:50:01+00:00",
      "summary": "Associated Press News: Breaking News | Latest News Today AP News"
     },
     {
@@ -42,51 +42,51 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#4",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-11-14T06:28:20+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
-    },
-    {
-     "ref": "ap_world#5",
      "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead - AP News",
      "published": "2026-11-14T06:26:32+00:00",
      "summary": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead AP News"
     },
     {
+     "ref": "ap_world#5",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-14T06:13:30+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
      "ref": "ap_world#6",
+     "title": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system - AP News",
+     "published": "2026-11-14T06:00:00+00:00",
+     "summary": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska - AP News",
      "published": "2026-11-14T05:54:00+00:00",
      "summary": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-14T05:27:54+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America - AP News",
      "published": "2026-11-14T05:26:00+00:00",
      "summary": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#10",
      "title": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit - AP News",
      "published": "2026-11-14T05:17:00+00:00",
      "summary": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit AP News"
     },
     {
-     "ref": "ap_world#9",
-     "title": "Afghanistan News: Latest Afghanistan News Today - AP News",
-     "published": "2026-11-14T05:15:42+00:00",
-     "summary": "Afghanistan News: Latest Afghanistan News Today AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage - AP News",
      "published": "2026-11-14T05:15:00+00:00",
      "summary": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system - AP News",
-     "published": "2026-11-14T05:14:00+00:00",
-     "summary": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system AP News"
     },
     {
      "ref": "ap_world#12",
@@ -96,15 +96,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#13",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-14T05:00:05+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
-     "ref": "ap_world#14",
      "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume - AP News",
      "published": "2026-11-14T04:57:00+00:00",
      "summary": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "Afghanistan News: Latest Afghanistan News Today - AP News",
+     "published": "2026-11-14T04:00:41+00:00",
+     "summary": "Afghanistan News: Latest Afghanistan News Today AP News"
     },
     {
      "ref": "ap_world#15",
@@ -120,21 +120,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#17",
-     "title": "SpaceX’s attempt for a Starship double catch is thwarted when the booster ends up in Gulf of Mexico - AP News",
-     "published": "2026-11-14T02:02:00+00:00",
-     "summary": "SpaceX’s attempt for a Starship double catch is thwarted when the booster ends up in Gulf of Mexico AP News"
-    },
-    {
-     "ref": "ap_world#18",
      "title": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch - AP News",
      "published": "2026-11-14T01:59:00+00:00",
      "summary": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#18",
      "title": "Katerina Siniakova clinches a record sixth year-end WTA No. 1 doubles finish - AP News",
      "published": "2026-11-14T01:17:00+00:00",
      "summary": "Katerina Siniakova clinches a record sixth year-end WTA No. 1 doubles finish AP News"
+    },
+    {
+     "ref": "ap_world#19",
+     "title": "Air passengers in Dallas face disruption to their plans as flights halted at airports across US - AP News",
+     "published": "2026-11-14T01:12:00+00:00",
+     "summary": "Air passengers in Dallas face disruption to their plans as flights halted at airports across US AP News"
     },
     {
      "ref": "ap_world#20",
@@ -174,7 +174,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "What we know about the longest ground stop since 9/11",
+     "title": "What we know about the ground stop and what to do if you're affected",
      "published": "2026-11-14T07:42:11+00:00",
      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
     },
@@ -252,45 +252,45 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#13",
+     "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+     "published": "2026-11-13T19:01:36+00:00",
+     "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory."
+    },
+    {
+     "ref": "bbc_world#14",
      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
      "published": "2026-11-13T18:34:45+00:00",
      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
+     "title": "Estonia bans Russian athletes as backlash intensifies",
+     "published": "2026-11-13T17:54:33+00:00",
+     "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
+    },
+    {
+     "ref": "bbc_world#16",
      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
      "published": "2026-11-13T16:40:31+00:00",
      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#17",
      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
      "published": "2026-11-13T15:42:52+00:00",
      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
     },
     {
-     "ref": "bbc_world#16",
-     "title": "At least 24 killed after bus collides with truck in north-east India",
-     "published": "2026-11-13T15:16:50+00:00",
-     "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
-    },
-    {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
      "published": "2026-11-13T15:09:40+00:00",
      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
      "published": "2026-11-13T13:11:23+00:00",
      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov."
-    },
-    {
-     "ref": "bbc_world#19",
-     "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-     "published": "2026-11-13T12:22:30+00:00",
-     "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
     },
     {
      "ref": "bbc_world#20",
@@ -444,9 +444,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#3",
-     "title": "China, US discuss tariffs, farm trade at first trade council meeting - Reuters",
+     "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
      "published": "2026-11-14T07:13:00+00:00",
-     "summary": "China, US discuss tariffs, farm trade at first trade council meeting Reuters"
+     "summary": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting Reuters"
     },
     {
      "ref": "reuters_world#4",

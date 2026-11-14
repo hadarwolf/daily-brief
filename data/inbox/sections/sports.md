@@ -521,21 +521,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Who would make your England-Spain combined XI?",
+     "published": "2026-11-14T08:57:49+00:00",
+     "summary": "How many England players do you think would make the Spain team?"
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "Clough's longevity: landmark achievement or indictment on football?",
      "published": "2026-11-14T08:35:00+00:00",
      "summary": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "Titz and Clarke on Aberdeen shortlist - gossip",
      "published": "2026-11-14T08:28:16+00:00",
      "summary": "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager."
-    },
-    {
-     "ref": "bbc_football#2",
-     "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-     "published": "2026-11-14T07:49:46+00:00",
-     "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
     },
     {
      "ref": "bbc_football#3",
@@ -545,9 +545,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#4",
-     "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
-     "published": "2026-11-14T06:37:49+00:00",
-     "summary": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship."
+     "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+     "published": "2026-11-14T07:49:46+00:00",
+     "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
     },
     {
      "ref": "bbc_football#5",
@@ -557,33 +557,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#6",
+     "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+     "published": "2026-11-14T06:37:49+00:00",
+     "summary": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship."
+    },
+    {
+     "ref": "bbc_football#7",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-14T06:27:36+00:00",
      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Ferguson 'made up' with first win as Glentoran boss",
      "published": "2026-11-13T22:54:49+00:00",
      "summary": "Glentoran manager Duncan Ferguson said he is \"made up\" with his first three points on his home debut, after a 2-1 win over Bangor."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
      "published": "2026-11-13T22:53:17+00:00",
      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
      "published": "2026-11-13T22:37:30+00:00",
      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel."
-    },
-    {
-     "ref": "bbc_football#10",
-     "title": "'If that penalty is given against you, you're furious'",
-     "published": "2026-11-13T22:34:20+00:00",
-     "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia."
     },
     {
      "ref": "bbc_football#11",
@@ -593,81 +593,81 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#12",
+     "title": "'If that penalty is given against you, you're furious'",
+     "published": "2026-11-13T22:34:20+00:00",
+     "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia."
+    },
+    {
+     "ref": "bbc_football#13",
      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
      "published": "2026-11-13T22:11:27+00:00",
      "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
      "published": "2026-11-13T22:05:14+00:00",
      "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
      "published": "2026-11-13T19:59:40+00:00",
      "summary": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "Ronaldinho, 46, to play first game since 2015",
      "published": "2026-11-13T19:12:37+00:00",
      "summary": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "EFL warns clubs over social media posts",
      "published": "2026-11-13T18:20:17+00:00",
      "summary": "The English Football League (EFL) warns its members about their usage of posts on social media."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
      "published": "2026-11-13T18:14:32+00:00",
      "summary": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "All done deals from September-November 2026",
      "published": "2026-11-13T17:21:23+00:00",
      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "'Memories flood back' - Rochdale & York meet again after title drama",
      "published": "2026-11-13T16:39:00+00:00",
      "summary": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "Football Daily",
      "published": "2026-11-13T16:05:00+00:00",
      "summary": "The Commentators' View team describe a special night for Harry Kane at Wembley."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
      "published": "2026-11-13T15:28:06+00:00",
      "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Odegaard backing Norway to avenge Wales defeat",
      "published": "2026-11-13T12:43:51+00:00",
      "summary": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Missing Israel games 'stressful' for captain Collins",
      "published": "2026-11-13T12:26:18+00:00",
      "summary": "Republic of Ireland captain Nathan Collins says he felt he left his team-mates \"on their own\" after missing the two controversial Nations League games against Israel."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-     "published": "2026-11-13T12:09:48+00:00",
-     "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't."
     }
    ]
   },
@@ -731,99 +731,99 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#9",
+     "title": "Lionel Messi to Make Historic Argentina Return as Inter Miami Confirm Friendly Against River Plate - Pasión Fútbol",
+     "published": "2026-11-13T19:11:14+00:00",
+     "summary": "Lionel Messi to Make Historic Argentina Return as Inter Miami Confirm Friendly Against River Plate Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
      "title": "Messi Set to Face River Plate at the Monumental: Inter Miami Announces 2027 Friendly - Soy Futbol",
      "published": "2026-11-13T18:25:23+00:00",
      "summary": "Messi Set to Face River Plate at the Monumental: Inter Miami Announces 2027 Friendly Soy Futbol"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Messi and Inter Miami to Face River Plate at the Monumental - beIN SPORTS",
      "published": "2026-11-13T18:02:21+00:00",
      "summary": "Messi and Inter Miami to Face River Plate at the Monumental beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly - ESPN",
      "published": "2026-11-13T17:53:00+00:00",
      "summary": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly ESPN"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Lionel Messi returns to Argentina: Inter Miami confirm preseason friendly vs River Plate - World Soccer Talk",
      "published": "2026-11-13T17:37:05+00:00",
      "summary": "Lionel Messi returns to Argentina: Inter Miami confirm preseason friendly vs River Plate World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Lionel Messi to make return to Estadio Monumental in Buenos Aires - USA Today",
      "published": "2026-11-13T16:42:00+00:00",
      "summary": "Lionel Messi to make return to Estadio Monumental in Buenos Aires USA Today"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi Wins Second Consecutive MLS Golden Boot - Yahoo Sports",
      "published": "2026-11-13T16:26:29+00:00",
      "summary": "Lionel Messi Wins Second Consecutive MLS Golden Boot Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Messi returns to the Monumental! Inter Miami confirms they will play a friendly against River Plate in Argentina - Tribuna.com",
      "published": "2026-11-13T15:51:46+00:00",
      "summary": "Messi returns to the Monumental! Inter Miami confirms they will play a friendly against River Plate in Argentina Tribuna.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Lionel Messi set for Argentina return in Inter Miami friendly at Estadio Monumental - The New York Times",
      "published": "2026-11-13T15:28:09+00:00",
      "summary": "Lionel Messi set for Argentina return in Inter Miami friendly at Estadio Monumental The New York Times"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "International Friendly: River Plate vs. Inter Miami CF at Estadio Monumental - Inter Miami CF",
      "published": "2026-11-13T14:01:31+00:00",
      "summary": "International Friendly: River Plate vs. Inter Miami CF at Estadio Monumental Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami land Tradeify as new official partner - Inside World Football",
      "published": "2026-11-13T13:00:16+00:00",
      "summary": "Inter Miami land Tradeify as new official partner Inside World Football"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "David Beckham to Be Inducted into National Soccer Hall of Fame - Террикон",
      "published": "2026-11-13T10:59:07+00:00",
      "summary": "David Beckham to Be Inducted into National Soccer Hall of Fame Террикон"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Tradeify targets global exposure through Inter Miami CF partnership - SportsMint Media",
      "published": "2026-11-13T08:30:00+00:00",
      "summary": "Tradeify targets global exposure through Inter Miami CF partnership SportsMint Media"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Messi finalist for third straight MLS MVP award - eNCA",
      "published": "2026-11-13T04:17:43+00:00",
      "summary": "Messi finalist for third straight MLS MVP award eNCA"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi Eyes History With Third Consecutive MLS MVP Award - beIN SPORTS",
      "published": "2026-11-13T03:11:00+00:00",
      "summary": "Lionel Messi Eyes History With Third Consecutive MLS MVP Award beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Messi named finalist for third straight MVP award in Major League Soccer - Malay Mail",
      "published": "2026-11-13T02:33:38+00:00",
      "summary": "Messi named finalist for third straight MVP award in Major League Soccer Malay Mail"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Inter Miami owner David Beckham voted into the National Soccer Hall of Fame - Sun Sentinel",
-     "published": "2026-11-13T01:50:53+00:00",
-     "summary": "Inter Miami owner David Beckham voted into the National Soccer Hall of Fame Sun Sentinel"
     }
    ]
   },
@@ -966,7 +966,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija drops 28 points Wednesday - FantasyPros",
-     "published": "2026-11-12T07:00:00+00:00",
+     "published": "2026-11-12T07:00:50+00:00",
      "summary": "Deni Avdija drops 28 points Wednesday FantasyPros"
     },
     {
