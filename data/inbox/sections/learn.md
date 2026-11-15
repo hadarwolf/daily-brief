@@ -35,7 +35,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
    "year": 2000,
    "text": "Edoardo Agnelli, son of the industrialist patriarch Gianni Agnelli, was found dead under a bridge on the outskirts of Turin, Italy.",
    "context": [
-    "Edoardo Agnelli, also known as Mahdi Agnelli, was the eldest child and only son of Gianni Agnelli, the industrialist patriarch of Fiat S.p.A., and of Marella Agnelli, who was born Donna Marella Caracciolo di Castagneto. He converted to Islam when he was living in New York City, and changed his name; he ultimately converted to Shia Islam in the 90s. In mid-November 2000, he was found dead under a bridge on the outskirts of Turin."
+    "Edoardo Agnelli, also known as Mahdi Agnelli, was an Italian businessman and the only son of Gianni Agnelli, the industrialist patriarch of Fiat S.p.A., and of Marella Agnelli, who was born Donna Marella Caracciolo di Castagneto. He converted to Islam when he was living in New York City, and changed his name to Mahdi Agnelli. In mid-November 2000, he was found dead under a bridge on the outskirts of Turin."
    ]
   },
   {

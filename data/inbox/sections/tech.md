@@ -123,80 +123,134 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    ]
   },
   {
+   "outlet": "Geektime (Israeli tech)",
+   "lang": "he",
+   "items": [
+    {
+     "ref": "geektime#0",
+     "title": "מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאזל קרה בסופ\"ש למיקרוסופט ולשדות התעופה בארה\"ב?",
+     "published": "2026-11-15T08:40:34+00:00",
+     "summary": "אם ניסיתם במהלך הסופ\"ש להיכנס למייל שלכם באאוטלוק, לשלוח הודעה ב-Teams או להשתמש ב-Copilot (סתם סתם, אנחנו יודעים שאף אחד לא מנסה מרצונו להשתמש בקופיילוט) וגיליתם שכלום לא עובד, אתם כבר יודעים שאתם לא לבד. תקלה נרחבת בשירותי הענן של ענקית הטכנולוגיה השביתה במשך יותר מיממה כמה מהשירותים החשובים ביותר שלה, והשפיעה על מיליוני משתמשים […] The post מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאז"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship",
+     "published": "2026-11-15T06:51:55+00:00",
+     "summary": "קהל רב התאסף הלילה (מוצאי שבת, זמן ישראל) לצפות בהיסטוריה, והיסטוריה הוא קיבל. לקול השיר \"Baby Come Back\" פילחה חללית Starship (השלב העליון שלה, Ship 42) את העננים שמעל טקסס, ואחרי יותר מ-20 שעות במסלול סביב כדור הארץ, ובמהירות מטורפת, היא עשתה את דרכה לעבר מתקן הלכידה בבסיס Starbase של SpaceX. אבל רגע לפני שנגיע […] The post היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship appear"
+    },
+    {
+     "ref": "geektime#2",
+     "title": "כנס ה-AI של Google Cloud מגיע לירושלים ועוד המלצות רותחות",
+     "published": "2026-11-14T16:24:28+00:00",
+     "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. AI Reimagined מתי? 26 בנובמבר (9:00-14:30) איפה? סינמה סיטי ירושלים […] The post כנס ה-AI של Google Cloud מגיע לירו"
+    },
+    {
+     "ref": "geektime#3",
+     "title": "מצטער. אני צריך את הסייברטראק-על-שלט שטסלה השיקה עכשיו",
+     "published": "2026-11-14T15:36:50+00:00",
+     "summary": "בשבוע שעבר חלה רעידת אדמה (קלה) בעולם הרכב והטכנולוגיה, כאשר אילון מאסק הודיע כי החברה תפסיק בהדרגה את ייצור רכבי ה-Cybertruck עד אמצע שנת 2027. במילים אחרות, אחד הפרויקטים הגדולים והשנויים במחלוקת של טסלה מת בטרם עת, אחרי שהגיע באיחור של 3 שנים וסיים את דרכו עם נתוני מכירות עגומים למדי. אבל איכשהו, דווקא עכשיו, […] The post מצטער. אני צריך את הסייברטראק-על-שלט שטסלה השיקה עכשיו appeared first on "
+    },
+    {
+     "ref": "geektime#4",
+     "title": "דייסון טוענת שהיא כמו סטארטאפ. אבל המתחרות מסין לא מחכות",
+     "published": "2026-11-14T12:03:27+00:00",
+     "summary": "דייסון נמצאת במקום מאוד מורכב בעולם הטכנולוגיה. מצד אחד, היא עדיין זוכה למעמד-על, שלא חברות רבות נהנות ממנו, והשם שלה הפך למילה נרדפת ל\"שואבי אבק\" (ברמה ששמעתי פעם מישהו מספר שהוא \"קנה דייסון של דרימי\"). אבל מצד שני, אחרי שנים שבהן הציגה מוצרים שקבעו את הסטנדרט של התעשייה, גם היא מגלה שהמתחרות מסין לא פראייריות, […] The post דייסון טוענת שהיא כמו סטארטאפ. אבל המתחרות מסין לא מחכות appeared first o"
+    },
+    {
+     "ref": "geektime#5",
+     "title": "אפליקציה חינמית חדשה היא חובה לכל מי שקונה באיקאה",
+     "published": "2026-11-14T08:55:16+00:00",
+     "summary": "כל מי שאי פעם קנה רהיט או מוצר כלשהו באיקאה מכיר את הרגע הזה: הקרטון נפתח, ואלפי ברגים וחלקי עץ ומתכת מוזרים נשפכים על הרצפה, מלווים בחוברת הוראות מעצבנת. אז במקום להסתבך עם איורים לא ברורים, אפליקציה חינמית חדשה מציעה להעביר את כל חוויית ההרכבה למאה ה-21 והיא עושה את זה עם מודלים בתלת-ממד ופיצ'ר […] The post אפליקציה חינמית חדשה היא חובה לכל מי שקונה באיקאה appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#6",
+     "title": "ביי ביי למפתחות: הארנק של גוגל ישמש לפתיחה של דלתות",
+     "published": "2026-11-13T15:26:23+00:00",
+     "summary": "אתם כבר רגילים לשלם איתו בסופר ולתקף איתו ברכבת, אבל הבית שלכם נשאר עד עכשיו מחוץ למשחק, וכשאנחנו כותבים משחק, אנחנו מתכוונים לארנק הדיגיטלי שלכם. עכשיו, גוגל עושה צעד נוסף לעבר העלמת צרור המפתחות המעיק שלנו, ומוסיפה סוף סוף ל-Wallet את היכולת לפתוח את דלת הבית, גם בלי להוציא את המכשיר מהכיס. פשוט מצמידים את […] The post ביי ביי למפתחות: הארנק של גוגל ישמש לפתיחה של דלתות appeared first on גיקטיים"
+    },
+    {
+     "ref": "geektime#7",
+     "title": "הכלי הזה מאפשר לכם לשכפל כל תוכנה או משחק",
+     "published": "2026-11-13T14:30:51+00:00",
+     "summary": "האם אנחנו בדרך לסופם של התשלומים החודשיים המוגזמים לחברות הענק? אחרי ששיכפל בהצלחה את התוכנות של אדובי ומיקרוסופט, מפתח תוכנה זועם אחד שחרר את נשק יום הדין של עולם הקוד הפתוח: כלי חינמי שמנתח כל תוכנה, אתר או אפליקציה, מהנדס אותה לאחור, ובונה לכם גרסה זהה בעזרת AI. ככה בדיוק זה עובד. התחיל עם אדובי, […] The post הכלי הזה מאפשר לכם לשכפל כל תוכנה או משחק appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#8",
+     "title": "ואם היינו אומרים לכם שהסרט הכי מדובר השנה נוצר באמצעות AI?",
+     "published": "2026-11-13T13:12:04+00:00",
+     "summary": "רעיון התודעה המשותפת הופיע ביצירות מדע בדיוני הרבה לפני שנוצר מודל ה-AI הראשון. מ\"המשחק של אנדר\", דרך \"סטארטרק\" ועד \"פלוריבוס\" – \"מח כוורת\" הוא כר פורה לעלילות דיסטופיות ואוטופיות (תלוי את מי שואלים) שמעוררות שאלות על אובדן העצמי, ומנגד מציעות פתרון לבדידות האנושית ולמלחמות. במציאות, הרעיון הזה הופך את כולנו למומחים להכל שחולקים צבר אדיר […] The post ואם היינו אומרים לכם שהסרט הכי מדובר השנה נוצר "
+    },
+    {
+     "ref": "geektime#9",
+     "title": "12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקלה הגדולה",
+     "published": "2026-11-13T09:52:43+00:00",
+     "summary": "תקלה עולמית נרחבת משתקת כבר יותר מ-12 שעות חלק גדול מהשירותים של מיקרוסופט ובראשם שירותי Microsoft 365, כולל אאוטלוק, Teams וכלי ה-AI של החברה, Copilot. לפי הנתונים של אתר Downdetector, בשיא התקלה נרשמו קרוב ל-140 אלף דיווחים של משתמשים מ-74 מדינות. אבל לא רק לקוחות פרטיים או ארגוניים של מיקרוסופט סובלים מהקריסה. גם ענקיות טכנולוגיה […] The post 12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקל"
+    }
+   ]
+  },
+  {
    "outlet": "Hacker News (150+ points)",
    "lang": "en",
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-     "published": "2026-11-14T22:26:30+00:00",
-     "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 263 # Comments: 144"
+     "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+     "published": "2026-11-15T02:00:54+00:00",
+     "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 219 # Comments: 56"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "SpaceX catches the Starship to end Flight 15",
-     "published": "2026-11-14T21:22:24+00:00",
-     "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 843 # Comments: 561"
+     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+     "published": "2026-11-14T22:22:49+00:00",
+     "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 204 # Comments: 98"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-     "published": "2026-11-14T18:56:47+00:00",
-     "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 212 # Comments: 121"
+     "title": "SpaceX catches the Starship to end Flight 15",
+     "published": "2026-11-14T21:22:24+00:00",
+     "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1165 # Comments: 761"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "A family tree of software job titles",
      "published": "2026-11-14T17:45:19+00:00",
-     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 228 # Comments: 112"
+     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 297 # Comments: 147"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "published": "2026-11-14T17:43:10+00:00",
-     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 686 # Comments: 283"
+     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 796 # Comments: 311"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "published": "2026-11-14T15:40:52+00:00",
-     "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 215 # Comments: 94"
+     "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 239 # Comments: 100"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
      "published": "2026-11-14T15:04:15+00:00",
-     "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 192 # Comments: 10"
+     "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 228 # Comments: 21"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Italy fines Meta $887M over Android users' data access",
-     "published": "2026-11-14T13:48:06+00:00",
-     "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 353 # Comments: 240"
+     "title": "KDE: The documentary [video]",
+     "published": "2026-11-14T13:43:28+00:00",
+     "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 457 # Comments: 100"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "KDE: The documentary [video]",
-     "published": "2026-11-14T13:43:28+00:00",
-     "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 401 # Comments: 87"
+     "title": "Advancing science and engineering with Antigravity's /teamwork",
+     "published": "2026-11-14T13:20:43+00:00",
+     "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 194 # Comments: 42"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Advancing science and engineering with Antigravity's /teamwork",
-     "published": "2026-11-14T13:20:43+00:00",
-     "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 173 # Comments: 39"
-    },
-    {
-     "ref": "hn_frontpage#10",
-     "title": "Tech companies are trying to shift the concept of privacy again",
-     "published": "2026-11-14T12:45:45+00:00",
-     "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 486 # Comments: 179"
-    },
-    {
-     "ref": "hn_frontpage#11",
      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
      "published": "2026-11-14T11:13:17+00:00",
-     "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 184 # Comments: 49"
+     "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 241 # Comments: 109"
     }
    ]
   },

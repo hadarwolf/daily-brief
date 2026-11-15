@@ -365,8 +365,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    {
     "home": "Miami Heat",
     "away": "Detroit Pistons",
-    "score": "121-104",
-    "status": "4th Qtr"
+    "score": "137-117",
+    "status": "Final"
    },
    {
     "home": "Memphis Grizzlies",
@@ -498,369 +498,465 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "How Spain's humble superstar Simon became world's best keeper",
+     "published": "2026-11-15T07:29:30+00:00",
+     "summary": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "How Aston Villa are reclaiming their identity",
+     "published": "2026-11-15T07:12:05+00:00",
+     "summary": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?"
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "How Aston Villa are reclaiming their identity",
+     "published": "2026-11-15T07:12:05+00:00",
+     "summary": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?"
+    },
+    {
+     "ref": "bbc_football#3",
+     "title": "Who am I? Guess WSL star No 12",
+     "published": "2026-11-15T07:01:31+00:00",
+     "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible."
+    },
+    {
+     "ref": "bbc_football#4",
+     "title": "Who am I? Guess WSL star No 12",
+     "published": "2026-11-15T07:01:31+00:00",
+     "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible."
+    },
+    {
+     "ref": "bbc_football#5",
+     "title": "Who am I? Plus today's other quizzes",
+     "published": "2026-11-15T06:47:10+00:00",
+     "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+     "ref": "bbc_football#6",
+     "title": "Respect? Exposure? Why England's star names are going abroad",
+     "published": "2026-11-15T06:25:41+00:00",
+     "summary": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad."
+    },
+    {
+     "ref": "bbc_football#7",
      "title": "The 'manager's dream' who has put NI one game from history",
      "published": "2026-11-14T23:21:45+00:00",
      "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#8",
      "title": "Liverpool put three past Brighton to end winless run",
      "published": "2026-11-14T23:00:29+00:00",
      "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#9",
      "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
      "published": "2026-11-14T22:40:02+00:00",
      "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\"."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#10",
      "title": "Devlin nets winner as NI top Nations League group",
      "published": "2026-11-14T22:38:02+00:00",
      "summary": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#11",
      "title": "White has 'exciting future' despite boos - Rice",
      "published": "2026-11-14T22:26:56+00:00",
      "summary": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#12",
      "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
      "published": "2026-11-14T21:48:45+00:00",
      "summary": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#13",
      "title": "Spurs held to a draw by Everton in the WSL",
      "published": "2026-11-14T20:56:46+00:00",
      "summary": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#14",
      "title": "What Wales need to stay in Nations League top tier",
      "published": "2026-11-14T20:52:48+00:00",
      "summary": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#15",
      "title": "'No racism in Spain' – De la Fuente message for Tuchel",
      "published": "2026-11-14T20:43:57+00:00",
      "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#16",
      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
      "published": "2026-11-14T20:22:00+00:00",
      "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#17",
      "title": "Haaland helps Norway to win over Wales in Nations League",
      "published": "2026-11-14T19:23:13+00:00",
      "summary": "Watch the best of the action as Norway beat Wales in the Nations League in Oslo."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#18",
      "title": "Bompastor's risks pay off as Chelsea go top of WSL",
      "published": "2026-11-14T18:55:34+00:00",
      "summary": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#19",
      "title": "Bompastor's risks pay off as Chelsea go top of WSL",
      "published": "2026-11-14T18:55:34+00:00",
      "summary": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#20",
      "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
      "published": "2026-11-14T18:27:23+00:00",
      "summary": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#21",
      "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
      "published": "2026-11-14T16:26:49+00:00",
      "summary": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#22",
      "title": "'I just play where the manager tells me to play!' - Walsh",
      "published": "2026-11-14T16:17:49+00:00",
      "summary": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City."
     },
     {
-     "ref": "bbc_football#16",
-     "title": "Chelsea go top with 1-0 win against Man City",
-     "published": "2026-11-14T15:50:34+00:00",
-     "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "Chelsea go top with 1-0 win against Man City",
-     "published": "2026-11-14T15:50:34+00:00",
-     "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "Former Stoke City manager Thordarson dies aged 71",
-     "published": "2026-11-14T15:04:59+00:00",
-     "summary": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "Tuchel to remind England of anti-racism protocols before Spain game",
-     "published": "2026-11-14T09:13:30+00:00",
-     "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid."
-    },
-    {
-     "ref": "bbc_football#20",
-     "title": "Who would make your England-Spain combined XI?",
-     "published": "2026-11-14T08:57:49+00:00",
-     "summary": "How many England players do you think would make the Spain team?"
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "Clough's longevity: landmark achievement or indictment on football?",
-     "published": "2026-11-14T08:35:00+00:00",
-     "summary": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Titz and Clarke on Aberdeen shortlist - gossip",
-     "published": "2026-11-14T08:28:16+00:00",
-     "summary": "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager."
-    },
-    {
      "ref": "bbc_football#23",
-     "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-     "published": "2026-11-14T07:49:46+00:00",
-     "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
+     "title": "Chelsea go top with 1-0 win against Man City",
+     "published": "2026-11-14T15:50:34+00:00",
+     "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half."
     },
     {
      "ref": "bbc_football#24",
-     "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-     "published": "2026-11-14T07:49:46+00:00",
-     "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
+     "title": "Chelsea go top with 1-0 win against Man City",
+     "published": "2026-11-14T15:50:34+00:00",
+     "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half."
     }
    ]
   },
   {
-   "outlet": "ESPN NBA",
+   "outlet": "Google News — Inter Miami",
    "lang": "en",
    "items": [
     {
-     "ref": "espn_nba#0",
-     "title": "FAA ground stop throws sports world into travel chaos ahead of weekend games",
-     "published": "2026-11-15T03:25:48+00:00",
-     "summary": "Travel plans for teams in multiple sports were disrupted by the FAA's nationwide ground stop of all flights because of communications problems."
+     "ref": "gnews_inter_miami#0",
+     "title": "Inter Miami vs Columbus Crew: Kalshi Promo Code & $25 Bonus - Squawka",
+     "published": "2026-11-15T07:15:56+00:00",
+     "summary": "Inter Miami vs Columbus Crew: Kalshi Promo Code & $25 Bonus Squawka"
     },
     {
-     "ref": "espn_nba#1",
-     "title": "Cavaliers without starting five vs. Mavs after flight delay",
-     "published": "2026-11-15T01:16:00+00:00",
-     "summary": "The Cavaliers were without their entire starting lineup Saturday against the Mavericks after four players were ruled out following travel difficulties."
+     "ref": "gnews_inter_miami#1",
+     "title": "Inter Miami CF v Columbus Odds - FanDuel Sportsbook",
+     "published": "2026-11-15T01:55:39+00:00",
+     "summary": "Inter Miami CF v Columbus Odds FanDuel Sportsbook"
     },
     {
-     "ref": "espn_nba#2",
-     "title": "Embiid to sit vs. Pacers due to plantar fascia management",
-     "published": "2026-11-15T01:16:00+00:00",
-     "summary": "The Philadelphia 76ers ruled out center Joel Embiid for Sunday's game against the Indiana Pacers with right foot plantar fascia management, the team announced Saturday."
+     "ref": "gnews_inter_miami#2",
+     "title": "Inter Miami vs Columbus Crew: Predictions, Picks, Odds & Lineups - Squawka",
+     "published": "2026-11-15T00:40:52+00:00",
+     "summary": "Inter Miami vs Columbus Crew: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "espn_nba#3",
-     "title": "Lakers' Reaves to sit out vs. Suns due to left heel bruise",
-     "published": "2026-11-15T01:16:00+00:00",
-     "summary": "Los Angeles Lakers guard Austin Reaves will not play against the Phoenix Suns on Sunday because of a left heel bruise, the team announced."
+     "ref": "gnews_inter_miami#3",
+     "title": "Why is Haiti 'hosting' USMNT game in Miami? Les Grenadiers feel right at home - USA Today",
+     "published": "2026-11-14T21:20:00+00:00",
+     "summary": "Why is Haiti 'hosting' USMNT game in Miami? Les Grenadiers feel right at home USA Today"
     },
     {
-     "ref": "espn_nba#4",
-     "title": "Knicks' Hart 'not in a good headspace' after scoreless night, benching",
-     "published": "2026-11-15T01:16:00+00:00",
-     "summary": "Knicks wing Josh Hart said he is \"not in a good headspace\" after he was held scoreless and benched for the fourth quarter of Friday's 106-104 NBA Cup loss to the Pacers."
+     "ref": "gnews_inter_miami#4",
+     "title": "Inside Inter Miami: Messi, The Fans & NU Stadium! 🇺🇸🐐 - Celtic news now - Celtic FC News",
+     "published": "2026-11-14T18:24:02+00:00",
+     "summary": "Inside Inter Miami: Messi, The Fans & NU Stadium! 🇺🇸🐐 Celtic news now - Celtic FC News"
     },
     {
-     "ref": "espn_nba#5",
-     "title": "Giannis, Bam combine for 74 as Heat flex potential as East contenders",
-     "published": "2026-11-15T01:16:00+00:00",
-     "summary": "Giannis Antetokounmpo and Bam Adebayo each scored 37 points to help the Heat top the Cavaliers for their sixth win in eight games."
+     "ref": "gnews_inter_miami#5",
+     "title": "Messi will play in Argentina in a friendly match between River Plate and Inter Miami - CiberCuba",
+     "published": "2026-11-14T17:42:25+00:00",
+     "summary": "Messi will play in Argentina in a friendly match between River Plate and Inter Miami CiberCuba"
     },
     {
-     "ref": "espn_nba#6",
-     "title": "Lendeborg 1-for-13 in Warriors' blowout loss: 'I was flustered the entire game'",
-     "published": "2026-11-15T01:16:00+00:00",
-     "summary": "In his first game as the primary offensive engine in place of the injured Stephen Curry, Warriors rookie Yaxel Lendeborg went 1-of-13 shooting in a 123-85 blowout loss to the Spurs. \"I was flustered the entire game,\" he said. \"Couldn't make a damn layup.\""
+     "ref": "gnews_inter_miami#6",
+     "title": "MLS Cup defense, Messi's MVP bid top Inter Miami's postseason storylines - LiveScore",
+     "published": "2026-11-14T17:27:08+00:00",
+     "summary": "MLS Cup defense, Messi's MVP bid top Inter Miami's postseason storylines LiveScore"
     },
     {
-     "ref": "espn_nba#7",
-     "title": "Wemby, Spurs land early KO with 18-0 run, rout Warriors for 11th straight win",
-     "published": "2026-11-15T01:16:00+00:00",
-     "summary": "Victor Wembanyama and the Spurs pounced on the Warriors with an 18-0 opening run and went on to win 123-85."
+     "ref": "gnews_inter_miami#7",
+     "title": "Felipe Melo Claims Neymar Could Join Inter Miami in 2027 | News | Football.com Nigeria - Football.com",
+     "published": "2026-11-14T17:00:00+00:00",
+     "summary": "Felipe Melo Claims Neymar Could Join Inter Miami in 2027 | News | Football.com Nigeria Football.com"
     },
     {
-     "ref": "espn_nba#8",
-     "title": "📈 Updated Power Rankings: The best newcomer on all 30 teams",
-     "published": "2026-11-15T01:16:00+00:00",
-     "summary": "Which teams rise and which fall in this week's Power Rankings? Plus, the top newcomer for each team in the league."
+     "ref": "gnews_inter_miami#8",
+     "title": "Inter Miami CF and Tradeify Sign Multi-Year Partnership Focused on Fan Engagement - Sportscape Magazine",
+     "published": "2026-11-14T16:32:56+00:00",
+     "summary": "Inter Miami CF and Tradeify Sign Multi-Year Partnership Focused on Fan Engagement Sportscape Magazine"
     },
     {
-     "ref": "espn_nba#9",
-     "title": "Despite slump, Knicks' Bridges is a fantasy basketball trade target",
-     "published": "2026-11-14T20:57:19+00:00",
-     "summary": "Andre explains why Mikal Bridges continues to hold fantasy value despite the poor start to his season."
+     "ref": "gnews_inter_miami#9",
+     "title": "Messi set for Monumental return as River Plate host Inter Miami to kick off 2027 - BeSoccer Livescore",
+     "published": "2026-11-14T11:18:12+00:00",
+     "summary": "Messi set for Monumental return as River Plate host Inter Miami to kick off 2027 BeSoccer Livescore"
     },
     {
-     "ref": "espn_nba#10",
-     "title": "Adds and NBA bets for Saturday: Fears, Bey among top plays",
-     "published": "2026-11-14T20:57:19+00:00",
-     "summary": "Jim McCormick breaks down Saturday's NBA slate, highlighting the fantasy streamers to add and bets to make."
+     "ref": "gnews_inter_miami#10",
+     "title": "GOAL: Robbie Robinson, Inter Miami CF - 71st minute - MLSsoccer.com",
+     "published": "2026-11-14T10:29:01+00:00",
+     "summary": "GOAL: Robbie Robinson, Inter Miami CF - 71st minute MLSsoccer.com"
     },
     {
-     "ref": "espn_nba#11",
-     "title": "What happens when you pay $200 to try out for a G League team?",
-     "published": "2026-11-14T17:13:13+00:00",
-     "summary": "Former college players, content creators and even some Sixers fans chased the same opportunity to get noticed by the Delaware Blue Coats."
+     "ref": "gnews_inter_miami#11",
+     "title": "Lionel Messi Shocks Buenos Aires With Monumental Return In Inter Miami vs River Plate - Sportscape Magazine",
+     "published": "2026-11-14T07:55:06+00:00",
+     "summary": "Lionel Messi Shocks Buenos Aires With Monumental Return In Inter Miami vs River Plate Sportscape Magazine"
     },
     {
-     "ref": "espn_nba#12",
-     "title": "Welcome to the Space Jam: How Michael Jordan and Bugs Bunny's magic resonates 30 years later",
-     "published": "2026-11-14T07:11:27+00:00",
-     "summary": "Three decades after its release, the basketball-meets-Looney Tunes adventure remains a pop culture staple."
+     "ref": "gnews_inter_miami#12",
+     "title": "Lionel Messi to return to Estadio Monumental on January 19 as Inter Miami face River Plate in historic Buenos Aires preseason friendly - Goal.com",
+     "published": "2026-11-14T06:30:06+00:00",
+     "summary": "Lionel Messi to return to Estadio Monumental on January 19 as Inter Miami face River Plate in historic Buenos Aires preseason friendly Goal.com"
     },
     {
-     "ref": "espn_nba#13",
-     "title": "NBA buzz: Latest news, updates and intel for the 2026-27 season",
-     "published": "2026-11-14T02:36:36+00:00",
-     "summary": "The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders."
+     "ref": "gnews_inter_miami#13",
+     "title": "2026 MLS Cup Odds: Nashville SC Leads Inter Miami and Vancouver - Time Magazine",
+     "published": "2026-11-13T23:50:42+00:00",
+     "summary": "2026 MLS Cup Odds: Nashville SC Leads Inter Miami and Vancouver Time Magazine"
     },
     {
-     "ref": "espn_nba#14",
-     "title": "Inside the group chat where Black NBA coaches counsel -- and trash-talk -- each other",
-     "published": "2026-11-14T02:36:05+00:00",
-     "summary": "On the court, they're rivals. Off the court, they've found support among the only men who truly understand what they're going through: each other."
+     "ref": "gnews_inter_miami#14",
+     "title": "Lionel Messi is coming back to Argentina: Inter Miami to face River Plate at the Monumental in 2027 - Diario AS",
+     "published": "2026-11-13T19:49:11+00:00",
+     "summary": "Lionel Messi is coming back to Argentina: Inter Miami to face River Plate at the Monumental in 2027 Diario AS"
     },
     {
-     "ref": "espn_nba#15",
-     "title": "Donovan Mitchell still believes in the Cavaliers, even if you don't",
-     "published": "2026-11-13T14:39:48+00:00",
-     "summary": "Mitchell made two commitments this summer: his marriage and his extension with the Cavs. Now it's up to him to keep pushing Cleveland forward."
+     "ref": "gnews_inter_miami#15",
+     "title": "After an emotional farewell: Messi prepares to return to the Monumental stadium - Goal.com",
+     "published": "2026-11-13T19:42:33+00:00",
+     "summary": "After an emotional farewell: Messi prepares to return to the Monumental stadium Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#16",
+     "title": "Lionel Messi to Make Historic Argentina Return as Inter Miami Confirm Friendly Against River Plate - Pasión Fútbol",
+     "published": "2026-11-13T19:11:14+00:00",
+     "summary": "Lionel Messi to Make Historic Argentina Return as Inter Miami Confirm Friendly Against River Plate Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
+     "title": "Messi Set to Face River Plate at the Monumental: Inter Miami Announces 2027 Friendly - Soy Futbol",
+     "published": "2026-11-13T18:25:23+00:00",
+     "summary": "Messi Set to Face River Plate at the Monumental: Inter Miami Announces 2027 Friendly Soy Futbol"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
+     "title": "Messi and Inter Miami to Face River Plate at the Monumental - beIN SPORTS",
+     "published": "2026-11-13T18:02:21+00:00",
+     "summary": "Messi and Inter Miami to Face River Plate at the Monumental beIN SPORTS"
+    },
+    {
+     "ref": "gnews_inter_miami#19",
+     "title": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly - ESPN",
+     "published": "2026-11-13T17:53:00+00:00",
+     "summary": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly ESPN"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
+     "title": "Lionel Messi returns to Argentina: Inter Miami confirm preseason friendly vs River Plate - World Soccer Talk",
+     "published": "2026-11-13T17:37:05+00:00",
+     "summary": "Lionel Messi returns to Argentina: Inter Miami confirm preseason friendly vs River Plate World Soccer Talk"
+    },
+    {
+     "ref": "gnews_inter_miami#21",
+     "title": "Messi, Inter Miami to Face River Plate in 2027 - Yahoo Sports",
+     "published": "2026-11-13T16:50:00+00:00",
+     "summary": "Messi, Inter Miami to Face River Plate in 2027 Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#22",
+     "title": "Lionel Messi to make return to Estadio Monumental in Buenos Aires - USA Today",
+     "published": "2026-11-13T16:42:00+00:00",
+     "summary": "Lionel Messi to make return to Estadio Monumental in Buenos Aires USA Today"
+    },
+    {
+     "ref": "gnews_inter_miami#23",
+     "title": "Messi returns to the Monumental! Inter Miami confirms they will play a friendly against River Plate in Argentina - Tribuna.com",
+     "published": "2026-11-13T15:51:46+00:00",
+     "summary": "Messi returns to the Monumental! Inter Miami confirms they will play a friendly against River Plate in Argentina Tribuna.com"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Lionel Messi set for Argentina return in Inter Miami friendly at Estadio Monumental - The New York Times",
+     "published": "2026-11-13T15:28:09+00:00",
+     "summary": "Lionel Messi set for Argentina return in Inter Miami friendly at Estadio Monumental The New York Times"
     }
    ]
   },
   {
-   "outlet": "ESPN FC",
+   "outlet": "Google News — Deni Avdija / Ben Saraf",
    "lang": "en",
    "items": [
     {
-     "ref": "espn_soccer#0",
-     "title": "Departing Pochettino predicts 'amazing future' for USMNT after rout of Haiti",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "Mauricio Pochettino said the USMNT has an \"amazing future\" after securing a 6-0 victory over Haiti in his penultimate game in charge of the team."
+     "ref": "gnews_israeli_nba#0",
+     "title": "Deni Avdija leads Portland to second straight Win Over OKC - The Jerusalem Post",
+     "published": "2026-11-15T07:03:25+00:00",
+     "summary": "Deni Avdija leads Portland to second straight Win Over OKC The Jerusalem Post"
     },
     {
-     "ref": "espn_soccer#1",
-     "title": "Portugal's post-Ronaldo era begins with heaviest-ever competitive home loss",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "Portugal began life without Cristiano Ronaldo by suffering their heaviest-ever home loss in a competitive game."
+     "ref": "gnews_israeli_nba#1",
+     "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
+     "published": "2026-11-15T04:26:47+00:00",
+     "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
     },
     {
-     "ref": "espn_soccer#2",
-     "title": "Happier, healthier Rodman leads Washington to 3rd straight NWSL Championship",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "The Washington Spirit will play in the NWSL Championship for a third straight season next week -- this time on home soil."
+     "ref": "gnews_israeli_nba#2",
+     "title": "Damian Lillard Makes Surprising Admission About Deni Avdija - Heavy.com",
+     "published": "2026-11-15T02:04:00+00:00",
+     "summary": "Damian Lillard Makes Surprising Admission About Deni Avdija Heavy.com"
     },
     {
-     "ref": "espn_soccer#3",
-     "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti."
+     "ref": "gnews_israeli_nba#3",
+     "title": "Damian Lillard calls Deni Avdija partnership ‘the most joyful’ of his career - Hoops Wire",
+     "published": "2026-11-14T23:48:56+00:00",
+     "summary": "Damian Lillard calls Deni Avdija partnership ‘the most joyful’ of his career Hoops Wire"
     },
     {
-     "ref": "espn_soccer#4",
-     "title": "'Nonsense' and 'annoying': Zidane dismisses reports over Mbappé relationship",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "France coach Zinedine Zidane dismissed reports of a strained relationship with star forward Kylian Mbappé."
+     "ref": "gnews_israeli_nba#4",
+     "title": "Damian Lillard Gets Real On His Partnership With Deni Avdija After 9-3 Start - Fadeaway World",
+     "published": "2026-11-14T23:14:02+00:00",
+     "summary": "Damian Lillard Gets Real On His Partnership With Deni Avdija After 9-3 Start Fadeaway World"
     },
     {
-     "ref": "espn_soccer#5",
-     "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "Andorra goalkeeper Jesús Owono has been suspended for 12 games for an on-field collision with Jesús de Miguel that resulted in the death of the Tenerife striker."
+     "ref": "gnews_israeli_nba#5",
+     "title": "Damian Lillard Gets Real On His Partnership With Deni Avdija After 9-3 Start - Yahoo Sports",
+     "published": "2026-11-14T23:09:33+00:00",
+     "summary": "Damian Lillard Gets Real On His Partnership With Deni Avdija After 9-3 Start Yahoo Sports"
     },
     {
-     "ref": "espn_soccer#6",
-     "title": "De la Fuente ahead of England clash: 'No racism in Spain'",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "Coach Luis de la Fuente has claimed that \"there's no racism in Spain\" after Thomas Tuchel said he'd be reminding his England players of anti-racism protocols ahead of Sunday's game between the two countries."
+     "ref": "gnews_israeli_nba#6",
+     "title": "Lillard Praises Avdija, Mutual Trust in Their Partnership - Blazer's Edge",
+     "published": "2026-11-14T22:18:08+00:00",
+     "summary": "Lillard Praises Avdija, Mutual Trust in Their Partnership Blazer's Edge"
     },
     {
-     "ref": "espn_soccer#7",
-     "title": "Japan exact revenge on Brazil with dramatic win",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday."
+     "ref": "gnews_israeli_nba#7",
+     "title": "Highlights From Deni Avdija 34-Point Game - NBA.com",
+     "published": "2026-11-14T15:20:38+00:00",
+     "summary": "Highlights From Deni Avdija 34-Point Game NBA.com"
     },
     {
-     "ref": "espn_soccer#8",
-     "title": "📈The top soccer players in the world right now, ranked again",
-     "published": "2026-11-15T02:28:32+00:00",
-     "summary": "Who is the best soccer player in the world at the November international break? ESPN's latest rankings are here."
+     "ref": "gnews_israeli_nba#8",
+     "title": "Damian Lillard And Deni Avdija Are Thriving as the Trail Blazers’ Stars - Yahoo Sports",
+     "published": "2026-11-14T12:25:31+00:00",
+     "summary": "Damian Lillard And Deni Avdija Are Thriving as the Trail Blazers’ Stars Yahoo Sports"
     },
     {
-     "ref": "espn_soccer#9",
-     "title": "From Ballon d'Or hopes to Real Madrid bench: Should Liverpool re-sign Alexander-Arnold?",
-     "published": "2026-11-15T02:16:24+00:00",
-     "summary": "Trent Alexander-Arnold's dream move to Real Madrid is turning into a nightmare, but would Liverpool take him back? And would he want to return?"
+     "ref": "gnews_israeli_nba#9",
+     "title": "Trail Blazers' Deni Avdija: Scores team-high 34 points - CBS Sports",
+     "published": "2026-11-14T11:29:36+00:00",
+     "summary": "Trail Blazers' Deni Avdija: Scores team-high 34 points CBS Sports"
     },
     {
-     "ref": "espn_soccer#10",
-     "title": "Transfer rumors, news: Como's Paz to be Pochettino's first Man United summer signing?",
-     "published": "2026-11-15T02:16:23+00:00",
-     "summary": "Manchester United are monitoring Como superstar Nico Paz ahead of a move next summer. Transfer Talk has the latest."
+     "ref": "gnews_israeli_nba#10",
+     "title": "Deni Avdija News: Scores team-high 34 points - RotoWire",
+     "published": "2026-11-14T11:29:36+00:00",
+     "summary": "Deni Avdija News: Scores team-high 34 points RotoWire"
     },
     {
-     "ref": "espn_soccer#11",
-     "title": "Man United, Pochettino's to-do list based on what's gone wrong",
-     "published": "2026-11-15T02:16:15+00:00",
-     "summary": "Pochettino makes as much sense as anyone to take the Man United job, so now what? Let's look at the mess he's inheriting and what's at the top of his to-do list."
+     "ref": "gnews_israeli_nba#11",
+     "title": "Deni Avdija scores 34 points as Trail Blazers beat Kings 120-107 - The Times of Israel",
+     "published": "2026-11-14T07:48:46+00:00",
+     "summary": "Deni Avdija scores 34 points as Trail Blazers beat Kings 120-107 The Times of Israel"
     },
     {
-     "ref": "espn_soccer#12",
-     "title": "In Pochettino, Man United finally have a proper manager",
-     "published": "2026-11-15T02:16:15+00:00",
-     "summary": "After years of near-misses, Man United have finally landed Mauricio Pochettino, a manager with the kind of pedigree, class and credibility the club have been looking for."
+     "ref": "gnews_israeli_nba#12",
+     "title": "Deni Avdija, Damian Lillard lead Blazers past Kings - TalkBasket.net",
+     "published": "2026-11-14T07:14:02+00:00",
+     "summary": "Deni Avdija, Damian Lillard lead Blazers past Kings TalkBasket.net"
     },
     {
-     "ref": "espn_soccer#13",
-     "title": "Ancelotti's red card shows he's feeling the pressure, as Brazil underwhelm again in Japan defeat",
-     "published": "2026-11-15T02:15:59+00:00",
-     "summary": "Carlo Ancelotti's time in charge of Brazil has been utterly underwhelming so far and he showed his frustration in a friendly defeat to Japan."
+     "ref": "gnews_israeli_nba#13",
+     "title": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings - Field Level Media",
+     "published": "2026-11-14T06:38:24+00:00",
+     "summary": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings Field Level Media"
     },
     {
-     "ref": "espn_soccer#14",
-     "title": "USMNT player ratings: Christian Pulisic earns 9/10 for brace in win over Haiti",
-     "published": "2026-11-15T00:41:07+00:00",
-     "summary": "Christian Pulisic scored twice in the Americans' dominant 6-0 win over Haiti on Saturday, the penultimate match of Mauricio Pochettino's tenure."
+     "ref": "gnews_israeli_nba#14",
+     "title": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 - NBA.com",
+     "published": "2026-11-14T06:25:51+00:00",
+     "summary": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 NBA.com"
     },
     {
-     "ref": "espn_soccer#15",
-     "title": "Recap: USMNT open Mauricio Pochettino farewell tour by rocking Haiti",
-     "published": "2026-11-15T00:41:07+00:00",
-     "summary": "The Pochettino farewell tour began with a bang as the Man United-bound boss led the U.S. to a 6-0 win over Haiti."
+     "ref": "gnews_israeli_nba#15",
+     "title": "Damian Lillard is already showing Blazers what Deni Avdija was missing last season - Rip City Project",
+     "published": "2026-11-14T06:25:45+00:00",
+     "summary": "Damian Lillard is already showing Blazers what Deni Avdija was missing last season Rip City Project"
     },
     {
-     "ref": "espn_soccer#16",
-     "title": "Washington Spirit on verge of realizing Michele Kang's dream of NWSL dominance",
-     "published": "2026-11-14T22:11:02+00:00",
-     "summary": "The Washington Spirit have been comeback queens all season, and they were again on Saturday, beating Utah 2-1 to reach the NWSL Championship."
+     "ref": "gnews_israeli_nba#16",
+     "title": "NBA Cup: Deni Avdija Scores 34 Points as Portland Trail Blazers Beat Sacramento Kings 120-107, Extend Winning Streak to Three Games - The Sunday Guardian",
+     "published": "2026-11-14T06:24:39+00:00",
+     "summary": "NBA Cup: Deni Avdija Scores 34 Points as Portland Trail Blazers Beat Sacramento Kings 120-107, Extend Winning Streak to Three Games The Sunday Guardian"
     },
     {
-     "ref": "espn_soccer#17",
-     "title": "Chelsea reassert WSL dominance over Man City in front of USWNT boss Hayes",
-     "published": "2026-11-14T21:23:52+00:00",
-     "summary": "Sonia Bompastor took off Kadeisha Buchanan after 12 minutes and it paid off as Chelsea went top of the WSL by beating defending champions Manchester City."
+     "ref": "gnews_israeli_nba#17",
+     "title": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026 - NBA.com",
+     "published": "2026-11-14T06:08:44+00:00",
+     "summary": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026 NBA.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#18",
+     "title": "Deni Avdija scores 34, 9-of-9 from the FT line - NBC Sports",
+     "published": "2026-11-14T06:01:31+00:00",
+     "summary": "Deni Avdija scores 34, 9-of-9 from the FT line NBC Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#19",
+     "title": "Deni Avdija with the and-1 bucket - ESPN",
+     "published": "2026-11-14T05:57:15+00:00",
+     "summary": "Deni Avdija with the and-1 bucket ESPN"
+    },
+    {
+     "ref": "gnews_israeli_nba#20",
+     "title": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings - The Daily News | Texas' Oldest Newspaper",
+     "published": "2026-11-14T05:55:02+00:00",
+     "summary": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings The Daily News | Texas' Oldest Newspaper"
+    },
+    {
+     "ref": "gnews_israeli_nba#21",
+     "title": "NBA Cup: Trail Blazers beat Kings for third straight win - Inquirer.net",
+     "published": "2026-11-14T05:55:00+00:00",
+     "summary": "NBA Cup: Trail Blazers beat Kings for third straight win Inquirer.net"
+    },
+    {
+     "ref": "gnews_israeli_nba#22",
+     "title": "Deni Avdija with 34 points vs. Sacramento Kings, 11/13/2026 - Yahoo Sports",
+     "published": "2026-11-14T05:49:58+00:00",
+     "summary": "Deni Avdija with 34 points vs. Sacramento Kings, 11/13/2026 Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#23",
+     "title": "Deni Avdija finishes through contact, 11/13/2026 - Yahoo Sports",
+     "published": "2026-11-14T05:49:42+00:00",
+     "summary": "Deni Avdija finishes through contact, 11/13/2026 Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Deni Avdija with the and-1 bucket - ESPN",
+     "published": "2026-11-14T05:15:52+00:00",
+     "summary": "Deni Avdija with the and-1 bucket ESPN"
     }
    ]
   }
