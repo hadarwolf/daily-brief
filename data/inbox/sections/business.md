@@ -117,12 +117,6 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "title": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
      "published": "2026-11-14T11:27:57+00:00",
      "summary": "Guinea, the world’s biggest exporter of bauxite, plans to establish an index for the raw material as part of wider efforts to bolster prices."
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027",
-     "published": "2026-11-14T10:16:50+00:00",
-     "summary": "Goldman Sachs expects earnings growth to drive a 19% return for the MSCI Asia ex-Japan Index in dollar terms next year, even as it warned that uncertainty over artificial intelligence could fuel volatility."
     }
    ]
   },
@@ -180,7 +174,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#8",
-     "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
+     "title": "One router overload brought US air travel to a standstill",
      "published": "2026-11-14T22:57:26+00:00",
      "summary": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts"
     }
@@ -192,152 +186,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "אבן שטיפש אחד זרק לים: פעילי גרינפיס השליכו סלעים ענקיים לים — ויצרו בעיה קשה",
+     "published": "2026-11-15T10:01:55+00:00",
+     "summary": "פעילי גרינפיס השליכו ללא אישור כ–15 טונה של סלעים בים הצפוני בבריטניה כדי למנוע דיג מכמורת ולהגן על פוקנות מצויות, אלא שלאחר המעשה התברר להם שקיימת עסקה בשווי 12 מיליארד ליש\"ט בין הממשלה ליזמי אנרגיה ירוקה לבניית חוות טורבינות ימית מהגדולות בתולדותיה באתר ■ הסלעים כנראה יסולקו תוך חודשים"
+    },
+    {
+     "ref": "themarker#1",
+     "title": "בנק אש מנסה לגייס 150 מיליון שקל להשקתו; צוק עשוי להזרים הכל",
+     "published": "2026-11-15T09:48:21+00:00",
+     "summary": "בבנק הדיגיטלי מכוונים לשווי דומה לזה ששיקפה עסקת הרכישה עם ישראכרט, שנפלה ביולי ■ הגיוס נועד בין השאר לעמוד בדרישות ההון של בנק ישראל לקראת השקת אש, והוא אינו כולל את חברת הטכנולוגיה"
+    },
+    {
+     "ref": "themarker#2",
      "title": "הונאה ברשת גרמה לאדם למסור זהב בשווי 9 מיליון דולר באמצע הרחוב, לאור יום",
      "published": "2026-11-15T09:05:51+00:00",
      "summary": "התראה במחשב גרמה לאדם בניו יורק להאמין שמסירת מטילי זהב בשווי 9 מיליון דולר תגן על נכסיו, ובפלורידה מתחזים שיכנעו אישה מבוגרת לעשות דבר דומה ■ מה גורם לסוחר זהב לחשוד שהלקוח שמולו נפל בפח?"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#3",
      "title": "\"המשבר באנבידיה אינו אירוע מבחינת משקיעי האג\"ח של ישראל. לא צריך להתרגש\"",
      "published": "2026-11-15T09:03:50+00:00",
      "summary": "הכנסות המדינה ממסים שקשורים לאנבידיה נאמדות ביותר מ-10 מיליארד שקל בשנה, ותורמות לריסון הגירעון ■ עם זאת, כלכלנים בשוק ההון סבורים כי בטווח הקצר אין סיבה לחשוש מהשלכות המשבר על האג\"ח הממשלתיות"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#4",
      "title": "\"בגלל המורכבות המשפטית\": מנהל שיבא יצחק קרייס לא ימונה למנכ\"ל משרד הבריאות",
      "published": "2026-11-15T08:43:02+00:00",
      "summary": "בתחילת החודש הודיעה מנכ\"ל משרד הבריאות, משה בר סימן טוב, כי יסיים את תפקידו בשבועות הקרובים"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#5",
      "title": "איטורו מפטרת כ–100 עובדים; אינקרדיבילד מפטרת 18% מכוח האדם",
      "published": "2026-11-15T08:33:00+00:00",
      "summary": "איטורו מפטרת כ–7% מכוח האדם, האניבוק מפטרת 35 איש, פייפאל מפטרת כחמישית מעובדיה, מאנדיי מפטרת מאות. רדיס לאבס מפטרת 75 ■ פלקסידיטי, לשעבר ארגוס, מפטרת 80 עובדים; אלמנטור מפטרת 100 ■ ארטליסט מפטרת 200 עובדים, 40% מהחברה"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#6",
      "title": "\"הבנק המרכזי של ה–AI\": אנבידיה השקיעה במאות סטארט־אפים, האם זה ייפסק?",
      "published": "2026-11-15T08:32:50+00:00",
      "summary": "ג'נסן הואנג, שהתפטר בשבוע שעבר מתפקיד מנכ\"ל אנבידיה, פעל לקידום סטארט־אפים: החברה החזיקה בנתחים בשווי 48 מיליארד דולר ב–229 חברות פרטיות ■ עכשיו חוששים בתעשייה שזה הסוף: \"זהו אובדן עצום לכולנו\""
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#7",
      "title": "איטורו מפטרת כ–7% מכוח האדם — כ–100 עובדים יסיימו את תפקידם",
      "published": "2026-11-15T08:20:48+00:00",
      "summary": "כחמישים עובדים בישראל צפויים להיות מפוטרים ■ ירידה של 53% בהכנסות הקריפטו גררו ירידה בהכנסות החברה ■ המנכ\"ל יוני אסיא: הטמעת AI בארגון מאפשרת לחברה לחסוך בעלויות תפעוליות ובהעסקת כוח אדם"
     },
     {
-     "ref": "themarker#6",
+     "ref": "themarker#8",
      "title": "הפסדתם מההשקעה באנבידיה? לפחות סוף השנה קרב ואפשר להתחשבן עם מס הכנסה",
      "published": "2026-11-15T06:40:37+00:00",
      "summary": "רבולוט קיבלה רישיון ורמת הדריכות של הבנקים בישראל עולה, האם איזנקוט ובנט יעבירו עשרות מיליוני שקלים לחסידים ולדרעי, מה מחפשים בארקיע שני נדל\"ניסטים, משקם חברות וכרישה לשעבר — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#9",
      "title": "500 מניות על הנייר, 41 בפועל: אשליית הפיזור — ומה מסתיר מדד S&P 500",
      "published": "2026-11-15T04:14:17+00:00",
      "summary": "ההנחה שלפיה חברות ענק מביאות יציבות לתיק קרסה בעשור הנוכחי, כשחברות הביגטק נהפכו למנוע התנודתיות המרכזי של השוק ■ רגע לפני שספייס־אקס מצטרפת ומעמיקה את הריכוזיות — האם אתם באמת מוגנים מפני נפילה?"
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#10",
      "title": "\"אני זוכר אותה, אני זוכר אותה מהמפולת\": הלקח מנפילה של 50% במניית קורנינג",
      "published": "2026-11-15T04:13:46+00:00",
      "summary": "מניית קורנינג זינקה פי שישה על גב ההתלהבות מתשתיות הבינה המלאכותית, בדיוק כפי שקרה לחברה בבועת הדוט־קום ב–2000 ■ סיפורה של יצרנית הזכוכית הוותיקה מזכיר שלשוק ההון אין זיכרון ארגוני — ושנרטיב מלהיב לא יכול להחליף לאורך זמן נתונים כלכליים"
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#11",
      "title": "היין בתפריט של אל על: מיקב פרטי של בעל השליטה קני רוזנברג",
      "published": "2026-11-15T04:12:28+00:00",
      "summary": "רוזנברג מחזיק ביקב טברנקל שבמושב צוריאל, שהבציר הראשון שלו שווק ב–2020 ■ באל על הסבירו כי הסכום מוגדר \"זניח\" ולכן לא צריך גילוי בדו\"חות, אף שמדובר בעסקת בעלי עניין ■ \"להשתחל לתפריט של אל על זה אחד מהמהלכים השיווקיים הטובים ביותר ליקב\""
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#12",
      "title": "מבחן ראשון לאיזנקוט ובנט: האם יעבירו 46 מיליון שקל לחסידים ו–37 מיליון לדרעי?",
      "published": "2026-11-15T04:11:26+00:00",
      "summary": "ראשת ועדת הכספים לא מבזבזת זמן וכבר קבעה דיונים לגבי הסיוע המתערער מארה\"ב ובכספים הקואליציוניים ■ כיצד יצביע מחנה השינוי על בקשות החרדים באמצע מו\"מ — ומתי זה בסדר להישען על הערבים? ■ הזיכרון הקצר של מילביצקי יעלה לו כסף ■ והאם התעסקנו בלוביסט הלא נכון?"
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#13",
      "title": "בינה מלאכותית ניהלה את ישיבת ההנהלה. ואז האנשים התחילו להתנהג כמוה",
      "published": "2026-11-15T04:06:34+00:00",
      "summary": "קל למדוד את החיסכון בזמן והשיפור בתפוקה, אבל קשה לדעת כיצד האינטראקציה עם המכונות משנה את היחסים בין אנשים ואת ההתנהגויות שנעשות מקובלות במקום העבודה"
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#14",
      "title": "\"בבנקים המסורתיים בישראל, רבולוט תמיד הייתה גורם הסיכון מספר אחת\"",
      "published": "2026-11-15T04:05:16+00:00",
      "summary": "מתן הרישיון לענקית הפיננסית הבריטית בשבוע שעבר העלה את רמת הדריכות בענף הבנקאות הישראלי ■ האם הבנקים יתחילו להציע לציבור הנחות משמעותיות, או שמא יהססו לוותר על בורות השומן כמו שקרה בינתיים במסחר בניירות ערך? ■ שלי תשובה, ראש המגזר הפיננסי בדלויט ישראל: \"ביום שבו רבולוט ייתנו אשראי צרכני, זה כבר יהיה אירוע\""
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#15",
      "title": "\"הגדלתם את הסיכון בלי להבין\": מנכ\"ל כלל ביטוח מזהיר מהנהירה ל־S&P 500",
      "published": "2026-11-15T04:04:35+00:00"
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#16",
      "title": "סוס טרויאני בוועדת המדרוג? ערוץ 14 עבר לטלטל מבפנים את הוועדה שאחראית על הרייטינג",
      "published": "2026-11-15T04:03:33+00:00",
      "summary": "התכתבות פנימית שהגיעה לידי TheMarker חושפת עימות בין נציגי ערוץ 14 לוועדת המדרוג ■ בערוץ 14 טוענים כי אלה מחלוקות מקצועיות, אולם גורמים בשוק הטלוויזיה סבורים שהערוץ מנסה למצוא מנגנון שיפרק את פעילות הוועדה ■ במקביל, הוועדה מגדילה את הפאנל ל–800 משקי בית ויוצאת למכרז חדש שנקבע מראש לסוקר אחרי שלוש שנים עם מנו גבע"
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#17",
      "title": "מה מחפשים בארקיע שני נדל\"ניסטים, משקם חברות וכרישה לשעבר?",
      "published": "2026-11-15T04:02:36+00:00",
      "summary": "קבוצת הרוכשים של ארקיע, שלחבריה אין ניסיון בענף התעופה, צפויה להזרים אליה 30 מיליון דולר ■ האתגרים בפני הרוכשים רבים: שיפור השירות, ביטול קווים, טיפול במבנה ההוצאות ואף הזרמת כספים נוספת ■ \"הם יצטרכו להתפלל שהדלק יפסיק להתייקר ושהדולר והיורו לא ימשיכו להתחזק מול השקל\""
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#18",
      "title": "ים אינטרסים: צים משכה את הבקשה לאישור עסקה — אבל רגב לוחצת שממשלת מעבר תדחה אותה",
      "published": "2026-11-15T04:01:25+00:00",
      "summary": "אין כיום הצעה לרכישת צים, מאז שבוטל המתווה המקורי של האפאג לויד וקרן פימי ■ את ההתנגדות לעסקה מוביל ועד עובדי צים, הנהנה מהשפעה במרכז הליכוד, שם רגב מקפידה לטפח את קשריה"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#19",
      "title": "לא רק הואנג: חמישה סיכונים שמאיימים על העליונות של אנבידיה",
      "published": "2026-11-15T04:00:40+00:00",
      "summary": "סימני שאלה מרחפים סביב עסקיה של ענקית השבבים בסין, בשעה שהתחרות מולה גוברת — והיא תחת זכוכית מגדלת של פוליטיקאים משתי המפלגות בארה\"ב ■ התפטרות המנכ\"ל ומייסד החברה הכניסה את אנבידיה לסערה — אבל בעידן שאחריו מחכים לה אתגרים מסוכנים לא פחות"
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#20",
      "title": "\"ריבית גבוהה היא נזק עצום לכלכלה ובעיקר מתנה לעשירים ולבנקים\"",
      "published": "2026-11-15T04:00:36+00:00",
      "summary": "וול סטריט לא סיימה לדון בשאלה אם ה-AI היא בועה, וכעת צריכה להתמודד עם הטלטלה באנבידיה ■ בישראל עדיין מחכים לממשלה שתעניק בהירות לעתיד הכלכלה ■ איתן עציוני, בעלי עציוני בית השקעות: \"אין תחליף להיכרות אישית עם חברות\""
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#21",
      "title": "הקול של החוסכים: אחריותם של המשקיעים המוסדיים לא נגמרת בהצבעה",
      "published": "2026-11-14T17:28:41+00:00",
      "summary": "המשקיעים המוסדיים, המנהלים טריליוני שקלים של הציבור, חייבים לעבור מהצבעה טכנית באסיפות הכלליות לאכיפה אקטיבית, וללא ניגודי עניינים ■ באיזון בין השיקולים — הכף נוטה לטובת מעורבות פעילה יותר של המוסדיים"
     },
     {
-     "ref": "themarker#20",
+     "ref": "themarker#22",
      "title": "מדד הפסוליה: מי יכול לשלם 20 דולר לקילו שעועית?",
      "published": "2026-11-14T17:20:36+00:00",
      "summary": "השעועית הצנועה כבר לא כל כך זולה, בגלל האקלים, בגלל שוק הנפט והדשנים ובגלל המתנזרים מבשר"
     },
     {
-     "ref": "themarker#21",
+     "ref": "themarker#23",
      "title": "ארקיע עלולה למצוא את עצמה בהפסדים של 80 מיליון דולר עד סוף 2026. הקיצוצים בדרך",
      "published": "2026-11-14T16:44:31+00:00",
      "summary": "קווי התעופה ארוכי־הטווח של ארקיע הפסידו כסף, והיא צפויה לצמצם אותם או לפחות להוריד את התדירות שלהם ■ בענף מעריכים כי החברה תצטרך למכור שני מטוסים צרי־גוף ■ בינתיים, ארקיע מציעה דילים והנחות על כרטיסי טיסה ב–2027 — כדי להכניס כסף מיידית"
     },
     {
-     "ref": "themarker#22",
+     "ref": "themarker#24",
      "title": "הטיית אנבידיה: השפעת החברה על המשק מטשטשת את הבעיות הבוערות",
      "published": "2026-11-14T16:32:49+00:00",
      "summary": "ההשפעה של אנבידיה על הצמיחה של ישראל ועל יחס החוב־תוצר היא כל כך משמעותית שהיא מאפשרת להסתיר את הבעיות המבניות במשק ולדחות את הטיפול בהן ■ הממשלה החדשה תצטרך לערוך רפורמות ולשנות סדרי עדיפויות"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "הצצה מתחת למכסה המנוע של אנתרופיק חושפת בעיות מדאיגות",
-     "published": "2026-11-14T15:08:20+00:00",
-     "summary": "אנליסטים בגולדמן סאקס, בנק ההשקעות שמוביל את ההנפקה של אנתרופיק, אמרו השבוע כי הם צופים שהחברה תשרוף יותר מ–65 מיליארד דולר בשנה הבאה, ועוד 41 מיליארד דולר ב-2028 — הוצאות עתק שמציגות תמונה פיננסית שונה מזו שהציגה אנתרופיק"
-    },
-    {
-     "ref": "themarker#24",
-     "title": "במסגרת החיפוש אחר מנכ\"ל חדש: אנבידיה פנתה למנכ\"ל Arm רנה האס",
-     "published": "2026-11-14T14:27:35+00:00",
-     "summary": "האס, שמונה למנכ\"ל Arm ב-2022, עבד באנבידיה במשך שבע שנים ■ דירקטוריון אנבידיה אמר בתגובה כי עוד לא מצא חברה שתסייע לו לאתר מועמדים לתפקיד המנכ\"ל"
     }
    ]
   },
@@ -347,153 +341,147 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+     "published": "2026-11-15T10:30:00+00:00",
+     "summary": "With luxury demand weak, executives are debating one of the sector’s big taboos."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI",
+     "published": "2026-11-15T10:30:00+00:00",
+     "summary": "Artificial intelligent’s future makes it hard for some to sit out the trillion-dollar offering, but it’s complicated. “Feels almost like the last chopper out of Saigon,” says one."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "New AI Millionaires Want Wealth Advisers Who Can Help Give Their Money Away",
      "published": "2026-11-15T01:00:00+00:00",
      "summary": "The urge to give is being fueled by mission-driven corporate cultures, as well as guilt about AI’s potential harms."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "How Executives Keep Their Private Lives Out of the Public Eye",
      "published": "2026-11-15T00:00:00+00:00",
      "summary": "As Jensen Huang illustrated this week, CEOs’ indiscretions are inextricable from the companies they lead. Some are assembling teams to help them navigate modern romance."
     },
     {
-     "ref": "wsj_markets#2",
+     "ref": "wsj_markets#4",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-11-14T20:08:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#3",
+     "ref": "wsj_markets#5",
      "title": "The Next Wave of Food Inflation Is Coming",
      "published": "2026-11-14T01:00:00+00:00",
      "summary": "Grocery prices could increase again as surging energy costs and supply-chain delays are lifting costs for producers."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#6",
      "title": "WSJ Dollar Index Rises 0.84% This Week to 98.34",
      "published": "2026-11-13T22:33:00+00:00",
      "summary": "The WSJ Dollar Index rose 0.2%, up for four consecutive trading days."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#7",
      "title": "Oil Futures End Week Lower",
      "published": "2026-11-13T22:20:00+00:00",
      "summary": "Oil futures settled mixed with Brent practically unchanged and WTI off 0.2%, but both benchmarks saw a second straight weekly decline."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#8",
      "title": "U.S. Stocks Mixed on Nvidia Fallout Fears",
      "published": "2026-11-13T22:14:00+00:00",
      "summary": "U.S. stocks finished mixed as rate fears resurfaced and tumult at Nvidia spilled into the wider semiconductor sector, dragging down technology indexes."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "Basic Materials Roundup: Market Talk",
      "published": "2026-11-13T22:01:00+00:00",
      "summary": "Find insight on gold futures, Press Metal Aluminium, Evolution Mining and more in the latest Market Talks covering basic materials."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "Auto & Transport Roundup: Market Talk",
      "published": "2026-11-13T21:57:00+00:00",
      "summary": "Find insight on Air France-KLM, HMM and more in the latest Market Talks covering the Auto and Transport sector."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade",
      "published": "2026-11-13T21:19:00+00:00",
      "summary": "Plus, Nvidia closes lower and Anthropic CEO hopes IPO will “overdeliver.”"
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "U.S. Natural Gas Futures Relinquish Some Gains",
      "published": "2026-11-13T20:38:00+00:00",
      "summary": "U.S. natural gas futures settled lower, giving back the previous day’s weather-driven gains as a spell of cold weather is set to lift near-term heating demand."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#13",
      "title": "U.S. Stocks Decline as Nvidia Shares Slide Again",
      "published": "2026-11-13T20:02:00+00:00",
      "summary": "U.S. stocks declined as the tumult surrounding Jensen Huang’s ouster from Nvidia continues to cloud the outlook for the AI trade."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#14",
      "title": "Gold, Silver Futures Post Weekly Losses",
      "published": "2026-11-13T19:29:00+00:00",
      "summary": "Gold futures held their ground in choppy trading as a below-estimate U.S. producer price reading and steadying oil prices ease inflation concerns that sank the metals the previous session."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#15",
      "title": "Opinion | Congressional Insider Trading Isn’t as Common as You Think",
      "published": "2026-11-13T19:18:00+00:00",
      "summary": "As with Mr. Pelosi’s Alphabet options, many insider-trading claims fall apart under scrutiny."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#16",
      "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
      "published": "2026-11-13T18:46:00+00:00",
      "summary": "The artificial-intelligence giant, which is expected to begin trading Thursday, is targeting a valuation of roughly $1.33 trillion or more."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#17",
      "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
      "published": "2026-11-13T15:18:00+00:00",
      "summary": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros."
     },
     {
-     "ref": "wsj_markets#16",
-     "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
-     "published": "2026-11-13T14:00:00+00:00",
-     "summary": "Value funds don’t always offer the exposure to cheap, boring stocks that investors might expect."
-    },
-    {
-     "ref": "wsj_markets#17",
-     "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
-     "published": "2026-11-13T14:00:00+00:00",
-     "summary": "Value funds don’t always offer the exposure to cheap, boring stocks that investors might expect."
-    },
-    {
      "ref": "wsj_markets#18",
+     "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
+     "published": "2026-11-13T14:00:00+00:00",
+     "summary": "Value funds don’t always offer the exposure to cheap, boring stocks that investors might expect."
+    },
+    {
+     "ref": "wsj_markets#19",
+     "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
+     "published": "2026-11-13T14:00:00+00:00",
+     "summary": "Value funds don’t always offer the exposure to cheap, boring stocks that investors might expect."
+    },
+    {
+     "ref": "wsj_markets#20",
      "title": "Bitcoin Holds Below $70,000 as Risk-Off Mood Pressures Crypto",
      "published": "2026-11-13T11:34:00+00:00",
      "summary": "Bitcoin fell below $70,000 for the first time since August and was on track for its sixth weekly loss as expectations of higher rates and the tech stock selloff sapped risk appetite."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#21",
      "title": "Kraft Heinz Plans to Bring New Life to Old Brands",
      "published": "2026-11-13T11:27:00+00:00",
      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#22",
      "title": "How the AI Trade Hijacked the Treasury Market for a Month",
      "published": "2026-11-13T11:17:00+00:00",
      "summary": "Plus, Nvidia enters its next phase, and Microsoft’s global outage"
     },
     {
-     "ref": "wsj_markets#21",
-     "title": "Jensen Huang Called Her ‘a Deer in the Headlights.’ Now She Runs Nvidia.",
-     "published": "2026-11-13T11:02:00+00:00",
-     "summary": "Plus, America’s richest retirement market, and Chris Van Hollen says he will challenge Chuck Schumer to lead Senate Democrats."
-    },
-    {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#23",
      "title": "European Stock Indexes Turn Positive as Oil Drops",
      "published": "2026-11-13T10:52:00+00:00",
      "summary": "European stock indexes turned positive, reversing earlier declines, as a fall in oil prices buoyed sentiment."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "CVS Breakup Won’t Satisfy Washington. It Could Still Work for Wall Street.",
-     "published": "2026-11-13T10:30:00+00:00",
-     "summary": "Spinning off its drugstores won’t quiet CVS’s critics, but it could leave shareholders with a more valuable company."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
-     "published": "2026-11-13T09:55:33+00:00",
-     "summary": "AI trade faces major tests next week with chip giant's earnings and Anthropic's IPO"
     }
    ]
   }
@@ -529,9 +517,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 65344.2812,
+   "last": 65459.2305,
    "prev_close": 64128.0508,
-   "change_pct": 1.9,
+   "change_pct": 2.08,
    "as_of": "2026-11-15"
   }
  },

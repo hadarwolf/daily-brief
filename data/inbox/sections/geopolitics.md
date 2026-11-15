@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "War and unrest - AP News",
+     "published": "2026-11-15T10:32:06+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Peru - AP News",
+     "published": "2026-11-15T10:32:04+00:00",
+     "summary": "Peru AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Golf - AP News",
+     "published": "2026-11-15T10:27:57+00:00",
+     "summary": "Golf AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-11-15T10:26:03+00:00",
+     "summary": "Artificial intelligence AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-11-15T10:23:56+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "South America - AP News",
+     "published": "2026-11-15T10:23:55+00:00",
+     "summary": "South America AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "New York City - AP News",
+     "published": "2026-11-15T10:07:55+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Women’s sports - AP News",
+     "published": "2026-11-15T10:04:05+00:00",
+     "summary": "Women’s sports AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Central America - AP News",
+     "published": "2026-11-15T10:04:03+00:00",
+     "summary": "Central America AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "Minnesota - AP News",
+     "published": "2026-11-15T10:00:09+00:00",
+     "summary": "Minnesota AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony - AP News",
+     "published": "2026-11-15T09:59:00+00:00",
+     "summary": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Asia Pacific - AP News",
+     "published": "2026-11-15T09:58:58+00:00",
+     "summary": "Asia Pacific AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "AP News Search - AP News",
+     "published": "2026-11-15T09:50:04+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-11-15T09:47:54+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#14",
      "title": "TIM REYNOLDS - AP News",
      "published": "2026-11-15T09:47:54+00:00",
      "summary": "TIM REYNOLDS AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#15",
      "title": "DAVE SKRETTA - AP News",
      "published": "2026-11-15T09:47:53+00:00",
      "summary": "DAVE SKRETTA AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Domestic News - AP News",
-     "published": "2026-11-15T09:47:53+00:00",
-     "summary": "Domestic News AP News"
+     "ref": "ap_world#16",
+     "title": "Africa News Reports | Latest News in Africa - AP News",
+     "published": "2026-11-15T09:47:51+00:00",
+     "summary": "Africa News Reports | Latest News in Africa AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "South America - AP News",
-     "published": "2026-11-15T09:41:12+00:00",
-     "summary": "South America AP News"
+     "ref": "ap_world#17",
+     "title": "Mexico - AP News",
+     "published": "2026-11-15T09:11:07+00:00",
+     "summary": "Mexico AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "War and unrest - AP News",
-     "published": "2026-11-15T09:33:18+00:00",
-     "summary": "War and unrest AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-15T09:27:14+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "Women’s college basketball - AP News",
-     "published": "2026-11-15T09:09:11+00:00",
-     "summary": "Women’s college basketball AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "College sports - AP News",
-     "published": "2026-11-15T09:05:10+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "Minnesota - AP News",
-     "published": "2026-11-15T09:01:09+00:00",
-     "summary": "Minnesota AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-15T08:59:07+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
-     "ref": "ap_world#11",
+     "ref": "ap_world#18",
      "title": "MLB | Latest News, Stats, and Scores - AP News",
      "published": "2026-11-15T08:59:06+00:00",
      "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "New York City - AP News",
-     "published": "2026-11-15T08:55:04+00:00",
-     "summary": "New York City AP News"
+     "ref": "ap_world#19",
+     "title": "International News - AP News",
+     "published": "2026-11-15T08:59:06+00:00",
+     "summary": "International News AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#20",
+     "title": "2024 Paris Olympic Games - AP News",
+     "published": "2026-11-15T08:34:09+00:00",
+     "summary": "2024 Paris Olympic Games AP News"
+    },
+    {
+     "ref": "ap_world#21",
+     "title": "Climate change - AP News",
+     "published": "2026-11-15T08:34:08+00:00",
+     "summary": "Climate change AP News"
+    },
+    {
+     "ref": "ap_world#22",
      "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda - AP News",
      "published": "2026-11-15T08:05:59+00:00",
      "summary": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#23",
      "title": "Israel says it killed a top Hamas commander, and other Mideast news - AP News",
      "published": "2026-11-15T08:04:00+00:00",
      "summary": "Israel says it killed a top Hamas commander, and other Mideast news AP News"
     },
     {
-     "ref": "ap_world#15",
-     "title": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony - AP News",
-     "published": "2026-11-15T07:55:00+00:00",
-     "summary": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards - AP News",
-     "published": "2026-11-15T07:53:03+00:00",
-     "summary": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored - AP News",
-     "published": "2026-11-15T07:43:00+00:00",
-     "summary": "A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Ebola outbreak remains out of control in Congo 6 months into response - AP News",
-     "published": "2026-11-15T07:23:38+00:00",
-     "summary": "Ebola outbreak remains out of control in Congo 6 months into response AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Back-to-back losses knock Lane Kiffin and Kentucky out of College Football Playoff contention - AP News",
-     "published": "2026-11-15T07:19:00+00:00",
-     "summary": "Back-to-back losses knock Lane Kiffin and Kentucky out of College Football Playoff contention AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Hun Manet tells summit he wants Cambodia to be a bridge between Asia and the Francophone world - AP News",
-     "published": "2026-11-15T07:06:00+00:00",
-     "summary": "Hun Manet tells summit he wants Cambodia to be a bridge between Asia and the Francophone world AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - AP News",
-     "published": "2026-11-15T05:51:26+00:00",
-     "summary": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "A bomb rips through a Damascus suburb killing 2 including a child - AP News",
-     "published": "2026-11-15T05:33:00+00:00",
-     "summary": "A bomb rips through a Damascus suburb killing 2 including a child AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Peru - AP News",
-     "published": "2026-11-15T05:31:37+00:00",
-     "summary": "Peru AP News"
-    },
-    {
      "ref": "ap_world#24",
-     "title": "Cape Verde could elect first woman president since gaining independence in 1975 - AP News",
-     "published": "2026-11-15T05:22:00+00:00",
-     "summary": "Cape Verde could elect first woman president since gaining independence in 1975 AP News"
+     "title": "International trade - AP News",
+     "published": "2026-11-15T08:01:42+00:00",
+     "summary": "International trade AP News"
     }
    ]
   },
@@ -174,33 +174,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+     "published": "2026-11-15T09:57:25+00:00",
+     "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
      "published": "2026-11-15T09:26:37+00:00",
      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
      "published": "2026-11-15T08:17:41+00:00",
      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
      "published": "2026-11-15T07:10:31+00:00",
      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
      "published": "2026-11-15T03:21:04+00:00",
      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links."
-    },
-    {
-     "ref": "bbc_world#4",
-     "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-     "published": "2026-11-15T02:49:45+00:00",
-     "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023."
     },
     {
      "ref": "bbc_world#5",
@@ -402,153 +402,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Pope Leo to cross Peru for visits to Inca city, Amazon gateway - Reuters",
+     "published": "2026-11-15T10:07:11+00:00",
+     "summary": "Pope Leo to cross Peru for visits to Inca city, Amazon gateway Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "Nearly 1,500 migrants arrive in Canary Islands in one day - Reuters",
+     "published": "2026-11-15T09:53:43+00:00",
+     "summary": "Nearly 1,500 migrants arrive in Canary Islands in one day Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control - Reuters",
      "published": "2026-11-15T08:40:22+00:00",
      "summary": "Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#3",
      "title": "Cape Verde votes for president with emigration in focus - Reuters",
      "published": "2026-11-15T07:03:00+00:00",
      "summary": "Cape Verde votes for president with emigration in focus Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "Hindalco's Novelis to sell two China units for $265 million - Reuters",
      "published": "2026-11-15T06:37:00+00:00",
      "summary": "Hindalco's Novelis to sell two China units for $265 million Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan - Reuters",
      "published": "2026-11-15T06:20:00+00:00",
      "summary": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "Rift deepens between the Philippines, China over South China Sea - Reuters",
      "published": "2026-11-15T05:21:00+00:00",
      "summary": "Rift deepens between the Philippines, China over South China Sea Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack - Reuters",
      "published": "2026-11-15T05:04:00+00:00",
      "summary": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "Philippines, Australia sign defence pact with eye on China - Reuters",
      "published": "2026-11-15T04:48:00+00:00",
      "summary": "Philippines, Australia sign defence pact with eye on China Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#9",
      "title": "Top scorer on South Korean tax exam confesses to cheating with AI - Reuters",
      "published": "2026-11-15T04:29:00+00:00",
      "summary": "Top scorer on South Korean tax exam confesses to cheating with AI Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - Reuters",
      "published": "2026-11-15T04:25:00+00:00",
      "summary": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters",
      "published": "2026-11-15T02:58:00+00:00",
      "summary": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says - Reuters",
      "published": "2026-11-14T23:43:43+00:00",
      "summary": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
      "published": "2026-11-14T22:54:19+00:00",
      "summary": "Iran's navy says three tankers on fire after hitting mines in Hormuz Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "UK to expand jobs guarantee scheme for young people - Reuters",
      "published": "2026-11-14T22:41:58+00:00",
      "summary": "UK to expand jobs guarantee scheme for young people Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "Senior Hamas commander killed in Israeli strike in Gaza - Reuters",
      "published": "2026-11-14T22:31:00+00:00",
      "summary": "Senior Hamas commander killed in Israeli strike in Gaza Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda - Reuters",
      "published": "2026-11-14T21:18:00+00:00",
      "summary": "After midterm sweep, Democrats split over Trump, cost-cutting agenda Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Law enforcement searches Illinois plant after 'credible threat' of explosive device - Reuters",
      "published": "2026-11-14T20:40:09+00:00",
      "summary": "Law enforcement searches Illinois plant after 'credible threat' of explosive device Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
      "published": "2026-11-14T20:23:56+00:00",
      "summary": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#19",
      "title": "Italy fines Meta $887 million over Android users' data access - Reuters",
      "published": "2026-11-14T18:12:20+00:00",
      "summary": "Italy fines Meta $887 million over Android users' data access Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Inspired Wales beat New Zealand for first time in 73 years - Reuters",
      "published": "2026-11-14T17:03:20+00:00",
      "summary": "Inspired Wales beat New Zealand for first time in 73 years Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "Pope Leo visits remote Andes town on special stop of Peru tour - Reuters",
      "published": "2026-11-14T16:50:00+00:00",
      "summary": "Pope Leo visits remote Andes town on special stop of Peru tour Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#22",
      "title": "Alaska elects first Democratic governor since 1998, US media project - Reuters",
      "published": "2026-11-14T14:28:09+00:00",
      "summary": "Alaska elects first Democratic governor since 1998, US media project Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#23",
      "title": "South Sudan delays election to February 11, 2027 - Reuters",
      "published": "2026-11-14T13:28:38+00:00",
      "summary": "South Sudan delays election to February 11, 2027 Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#24",
      "title": "'We're still standing' King Charles jokes with Elton John in birthday clip - Reuters",
      "published": "2026-11-14T12:51:48+00:00",
      "summary": "'We're still standing' King Charles jokes with Elton John in birthday clip Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says - Reuters",
-     "published": "2026-11-14T12:25:00+00:00",
-     "summary": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Pakistani minister to visit India for the first time in three years, as SCO meets - Reuters",
-     "published": "2026-11-14T12:18:36+00:00",
-     "summary": "Pakistani minister to visit India for the first time in three years, as SCO meets Reuters"
     }
    ]
   }

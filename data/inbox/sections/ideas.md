@@ -149,84 +149,90 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "AI and complements",
+     "published": "2026-11-15T10:03:58+00:00",
+     "summary": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of substitution across tasks of 0.2, automating tasks worth 1 […] The post AI and complements appeared first on "
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "Best films of 2026",
      "published": "2026-11-15T05:38:13+00:00",
      "summary": "I thought this was a splendid and highly innovative year. Here is my list, in the order I saw them, noting that a link typically brings you to my review: Resurrection Testament of Ann Lee 28 Years Later Wuthering Heights Sirat Project Hail Mary A Man on the Run The Drama The Blue Trail Silent […] The post Best films of 2026 appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "Saturday assorted links",
      "published": "2026-11-14T17:09:27+00:00",
      "summary": "1. Madrid vs. Catalonia. 2. Stephen Kovacevich, RIP (NYT). Brahms and the Diabellis stand among his towering pianistic achievements. He was one of my favorite pianists. 3. Queen at Sea is an excellent movie, though hard to watch due to the dementia theme. Impossible to review without spoilers. 4. Claude revises the notebooks of Gödel. […] The post Saturday assorted links appeared first on Marginal"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "Privatize Air Traffic Control, Redux",
      "published": "2026-11-14T12:16:03+00:00",
      "summary": "Yesterday the FAA grounded every domestic departure in the United States for more than four hours. Such groundings appear to be happening more often. The last nationwide grounding was in 2023, and regional ones have hit Newark, Dallas, and the entire Northeast in the past two years. My post from October of 2025 (below) was […] The post Privatize Air Traffic Control, Redux appeared first on Margina"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "People like their jobs, even British people",
      "published": "2026-11-14T06:54:06+00:00",
      "summary": "This paper investigates the role of work in providing meaning, purpose, community, and other non-monetary benefits. Using an original cross-national survey of 8,234 working-age adults across the UK, US, Denmark, and India, I study the factors that motivate people in their work, with an eye toward the future AI economic transformation. I find that 81% […] The post People like their jobs, even Briti"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "The Power and Roots of Aspirations",
      "published": "2026-11-14T06:01:15+00:00",
      "summary": "Aspirations have become a common theme in empirical economics studies but there is no unified understanding of the range of outcomes they influence, the factors that shape them, and how to measure them. We survey this growing literature. We argue that there is compelling evidence to consider aspirations as a useful lens to analyze human […] The post The Power and Roots of Aspirations appeared firs"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "Are we witnessing an intelligence explosion?",
      "published": "2026-11-13T18:39:00+00:00",
      "summary": "From Luis Garicano and Alex Imas: Hence AI capabilities improved 1.91 times faster after October 2025, but R&D spending grew 6.19 times and the technical workforce 3.10 times. So measured capability gains per dollar fell by approximately 69%, and measured gains per technical employee-year decreased by 38%. These figures are accounting; nothing causal can be […] The post Are we witnessing an intell"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Friday assorted links",
      "published": "2026-11-13T16:28:33+00:00",
      "summary": "1. Peru cancels the Moche sculptures for obscenity? 2. Claude translates from The Kalevela. 3. David Chalmers on AI speed-ups. 4. Cass Sunstein picks Bob Dylan’s best songs. 5. “Hobby dogging”? 6. Argentina worries and updates. 7. Jon Hartley podcast with James Heckman. 8. The world without Jensen? Good piece. The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "The Economics of Rent Controls",
      "published": "2026-11-13T12:18:11+00:00",
      "summary": "I appear on Ryan Bourne’s excellent new podcast, The Economics of It. We discuss The Economics of Rent Controls drawing on my essay, Rent Control: The Ceiling Trap. It’s a very good discussion. Here’s one bit (edited slightly to remove some ums for reading and to fix a date I got wrong from memory): RB: […] The post The Economics of Rent Controls appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "Outlook email is still down",
      "published": "2026-11-13T11:46:39+00:00",
      "summary": "And GMU is on the Outlook system. If you need to reach me, you can extrapolate my gmu address to my gmail address, or try Twitter, or use your imagination in other ways. Sorry for the inconvenience! (Although it seems my Outlook system just opened up, albeit with an incomplete email delivery so far!?) The post Outlook email is still down appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "The U.S. Federal AI Observatory",
      "published": "2026-11-13T08:32:05+00:00",
      "summary": "Federal AI at a glance 41 agencies · 3,611 reported use cases · OMB 2025 Inventory. Portfolio size reflects reporting, not performance. From Irakli Petriashvili of Tblisi, here is the site. The post The U.S. Federal AI Observatory appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Do not overrate zero-sum status-seeking",
      "published": "2026-11-13T05:48:25+00:00",
      "summary": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or upper-class status in poor countries would try to get to the West. Obviously, what we […] The post Do not overrate zero-sum status-seeking appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#12",
      "title": "My Barcelona talk on AI",
      "published": "2026-11-12T18:47:51+00:00",
      "summary": "The post My Barcelona talk on AI appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#13",
      "title": "Thursday assorted links",
      "published": "2026-11-12T17:21:52+00:00",
      "summary": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French person believes there are 6.4 workers for every retiree. The real number is about 1.8.” 4. Sulfuric acid as a basic […] The post Thursday assorted links appeared first on Marginal R"
     },
     {
-     "ref": "marginal_revolution#13",
+     "ref": "marginal_revolution#14",
      "title": "The Everywhere Rent Seekers",
      "published": "2026-11-12T12:18:57+00:00",
      "summary": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention given to (some days) trillionaires and billionaires, the combined wealth of the Everywhere Millionaires, the dentists, the car dealers, the […] The post The Everywhere Rent Seekers a"
@@ -248,8 +254,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#1",
      "title": "My friend, my witness",
      "published": "2026-11-13T11:00:00+00:00",
-     "summary": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche",
-     "full_text_file": "essays/psyche_1.txt"
+     "summary": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche"
     },
     {
      "ref": "psyche#2",
@@ -295,15 +300,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#9",
-     "title": "Who am I if I don’t run?",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
-    },
-    {
-     "ref": "psyche#10",
      "title": "How to take notes that actually help you learn",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
+    },
+    {
+     "ref": "psyche#10",
+     "title": "Who am I if I don’t run?",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
     },
     {
      "ref": "psyche#11",

@@ -660,93 +660,93 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#1",
+     "title": "United States men's soccer team routs Haiti 6-0 in Concacaf Nations League quarterfinal - NewsBreak: Local News & Alerts",
+     "published": "2026-11-15T02:16:49+00:00",
+     "summary": "United States men's soccer team routs Haiti 6-0 in Concacaf Nations League quarterfinal NewsBreak: Local News & Alerts"
+    },
+    {
+     "ref": "gnews_inter_miami#2",
      "title": "Inter Miami CF v Columbus Odds - FanDuel Sportsbook",
      "published": "2026-11-15T01:55:39+00:00",
      "summary": "Inter Miami CF v Columbus Odds FanDuel Sportsbook"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Inter Miami vs Columbus Crew: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-11-15T00:40:52+00:00",
      "summary": "Inter Miami vs Columbus Crew: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Why is Haiti 'hosting' USMNT game in Miami? Les Grenadiers feel right at home - USA Today",
      "published": "2026-11-14T21:20:00+00:00",
      "summary": "Why is Haiti 'hosting' USMNT game in Miami? Les Grenadiers feel right at home USA Today"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Inside Inter Miami: Messi, The Fans & NU Stadium! 🇺🇸🐐 - Celtic news now - Celtic FC News",
      "published": "2026-11-14T18:24:02+00:00",
      "summary": "Inside Inter Miami: Messi, The Fans & NU Stadium! 🇺🇸🐐 Celtic news now - Celtic FC News"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Messi will play in Argentina in a friendly match between River Plate and Inter Miami - CiberCuba",
      "published": "2026-11-14T17:42:25+00:00",
      "summary": "Messi will play in Argentina in a friendly match between River Plate and Inter Miami CiberCuba"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "MLS Cup defense, Messi's MVP bid top Inter Miami's postseason storylines - LiveScore",
      "published": "2026-11-14T17:27:08+00:00",
      "summary": "MLS Cup defense, Messi's MVP bid top Inter Miami's postseason storylines LiveScore"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Felipe Melo Claims Neymar Could Join Inter Miami in 2027 | News | Football.com Nigeria - Football.com",
      "published": "2026-11-14T17:00:00+00:00",
      "summary": "Felipe Melo Claims Neymar Could Join Inter Miami in 2027 | News | Football.com Nigeria Football.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Inter Miami CF and Tradeify Sign Multi-Year Partnership Focused on Fan Engagement - Sportscape Magazine",
      "published": "2026-11-14T16:32:56+00:00",
      "summary": "Inter Miami CF and Tradeify Sign Multi-Year Partnership Focused on Fan Engagement Sportscape Magazine"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Messi set for Monumental return as River Plate host Inter Miami to kick off 2027 - BeSoccer Livescore",
      "published": "2026-11-14T11:18:12+00:00",
      "summary": "Messi set for Monumental return as River Plate host Inter Miami to kick off 2027 BeSoccer Livescore"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "GOAL: Robbie Robinson, Inter Miami CF - 71st minute - MLSsoccer.com",
      "published": "2026-11-14T10:29:01+00:00",
      "summary": "GOAL: Robbie Robinson, Inter Miami CF - 71st minute MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Lionel Messi Shocks Buenos Aires With Monumental Return In Inter Miami vs River Plate - Sportscape Magazine",
      "published": "2026-11-14T07:55:06+00:00",
      "summary": "Lionel Messi Shocks Buenos Aires With Monumental Return In Inter Miami vs River Plate Sportscape Magazine"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "Lionel Messi to return to Estadio Monumental on January 19 as Inter Miami face River Plate in historic Buenos Aires preseason friendly - Goal.com",
      "published": "2026-11-14T06:30:06+00:00",
      "summary": "Lionel Messi to return to Estadio Monumental on January 19 as Inter Miami face River Plate in historic Buenos Aires preseason friendly Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Tomás Avilés Could Return to Inter Miami and Compete for a Spot if Micael Leaves - Pasión Fútbol",
      "published": "2026-11-14T00:00:00+00:00",
      "summary": "Tomás Avilés Could Return to Inter Miami and Compete for a Spot if Micael Leaves Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "2026 MLS Cup Odds: Nashville SC Leads Inter Miami and Vancouver - Time Magazine",
      "published": "2026-11-13T23:50:42+00:00",
      "summary": "2026 MLS Cup Odds: Nashville SC Leads Inter Miami and Vancouver Time Magazine"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
-     "title": "Lionel Messi Set to Play in Argentina Again as Inter Miami Schedule River Plate Friendly - Террикон",
-     "published": "2026-11-13T20:32:00+00:00",
-     "summary": "Lionel Messi Set to Play in Argentina Again as Inter Miami Schedule River Plate Friendly Террикон"
     },
     {
      "ref": "gnews_inter_miami#16",
