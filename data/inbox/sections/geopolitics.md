@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Vladimir Putin - AP News",
-     "published": "2026-11-15T09:29:11+00:00",
-     "summary": "Vladimir Putin AP News"
+     "title": "2026 World Cup venue map - AP News",
+     "published": "2026-11-15T09:47:54+00:00",
+     "summary": "2026 World Cup venue map AP News"
     },
     {
      "ref": "ap_world#1",
+     "title": "TIM REYNOLDS - AP News",
+     "published": "2026-11-15T09:47:54+00:00",
+     "summary": "TIM REYNOLDS AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "DAVE SKRETTA - AP News",
+     "published": "2026-11-15T09:47:53+00:00",
+     "summary": "DAVE SKRETTA AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Domestic News - AP News",
+     "published": "2026-11-15T09:47:53+00:00",
+     "summary": "Domestic News AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "South America - AP News",
+     "published": "2026-11-15T09:41:12+00:00",
+     "summary": "South America AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "War and unrest - AP News",
+     "published": "2026-11-15T09:33:18+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#6",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-11-15T09:27:14+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#2",
-     "title": "South America - AP News",
-     "published": "2026-11-15T09:15:08+00:00",
-     "summary": "South America AP News"
+     "ref": "ap_world#7",
+     "title": "Women’s college basketball - AP News",
+     "published": "2026-11-15T09:09:11+00:00",
+     "summary": "Women’s college basketball AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#8",
      "title": "College sports - AP News",
      "published": "2026-11-15T09:05:10+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#9",
      "title": "Minnesota - AP News",
      "published": "2026-11-15T09:01:09+00:00",
      "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#10",
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-15T08:59:07+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-11-15T08:59:06+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#12",
      "title": "New York City - AP News",
      "published": "2026-11-15T08:55:04+00:00",
      "summary": "New York City AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "2026 World Cup venue map - AP News",
-     "published": "2026-11-15T08:49:06+00:00",
-     "summary": "2026 World Cup venue map AP News"
+     "ref": "ap_world#13",
+     "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda - AP News",
+     "published": "2026-11-15T08:05:59+00:00",
+     "summary": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda AP News"
     },
     {
-     "ref": "ap_world#7",
-     "title": "TIM REYNOLDS - AP News",
-     "published": "2026-11-15T08:47:13+00:00",
-     "summary": "TIM REYNOLDS AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "DAVE SKRETTA - AP News",
-     "published": "2026-11-15T08:47:10+00:00",
-     "summary": "DAVE SKRETTA AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "War and unrest - AP News",
-     "published": "2026-11-15T08:34:10+00:00",
-     "summary": "War and unrest AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#14",
      "title": "Israel says it killed a top Hamas commander, and other Mideast news - AP News",
      "published": "2026-11-15T08:04:00+00:00",
      "summary": "Israel says it killed a top Hamas commander, and other Mideast news AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#15",
      "title": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony - AP News",
      "published": "2026-11-15T07:55:00+00:00",
      "summary": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#16",
+     "title": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards - AP News",
+     "published": "2026-11-15T07:53:03+00:00",
+     "summary": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards AP News"
+    },
+    {
+     "ref": "ap_world#17",
      "title": "A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored - AP News",
      "published": "2026-11-15T07:43:00+00:00",
      "summary": "A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored AP News"
     },
     {
-     "ref": "ap_world#13",
-     "title": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards - AP News",
-     "published": "2026-11-15T07:24:21+00:00",
-     "summary": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards AP News"
-    },
-    {
-     "ref": "ap_world#14",
+     "ref": "ap_world#18",
      "title": "Ebola outbreak remains out of control in Congo 6 months into response - AP News",
      "published": "2026-11-15T07:23:38+00:00",
      "summary": "Ebola outbreak remains out of control in Congo 6 months into response AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#19",
      "title": "Back-to-back losses knock Lane Kiffin and Kentucky out of College Football Playoff contention - AP News",
      "published": "2026-11-15T07:19:00+00:00",
      "summary": "Back-to-back losses knock Lane Kiffin and Kentucky out of College Football Playoff contention AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#20",
      "title": "Hun Manet tells summit he wants Cambodia to be a bridge between Asia and the Francophone world - AP News",
      "published": "2026-11-15T07:06:00+00:00",
      "summary": "Hun Manet tells summit he wants Cambodia to be a bridge between Asia and the Francophone world AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#21",
      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - AP News",
      "published": "2026-11-15T05:51:26+00:00",
      "summary": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#22",
      "title": "A bomb rips through a Damascus suburb killing 2 including a child - AP News",
      "published": "2026-11-15T05:33:00+00:00",
      "summary": "A bomb rips through a Damascus suburb killing 2 including a child AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "Cape Verde could elect first woman president since gaining independence in 1975 - AP News",
-     "published": "2026-11-15T05:22:00+00:00",
-     "summary": "Cape Verde could elect first woman president since gaining independence in 1975 AP News"
-    },
-    {
-     "ref": "ap_world#20",
+     "ref": "ap_world#23",
      "title": "Peru - AP News",
-     "published": "2026-11-15T05:15:09+00:00",
+     "published": "2026-11-15T05:31:37+00:00",
      "summary": "Peru AP News"
     },
     {
-     "ref": "ap_world#21",
-     "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda - AP News",
-     "published": "2026-11-15T05:13:00+00:00",
-     "summary": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Pope crowns an image of the Immaculate Virgin in Chiclayo, visits northern Peruvian city of Zaña - AP News",
-     "published": "2026-11-15T05:11:00+00:00",
-     "summary": "Pope crowns an image of the Immaculate Virgin in Chiclayo, visits northern Peruvian city of Zaña AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Hut! Hut! Hike! Giannis Antetokounmpo goes into football mode for a between-the-legs assist - AP News",
-     "published": "2026-11-15T05:10:00+00:00",
-     "summary": "Hut! Hut! Hike! Giannis Antetokounmpo goes into football mode for a between-the-legs assist AP News"
-    },
-    {
      "ref": "ap_world#24",
-     "title": "NATO to skip a leaders’ summit in Albania next year as high-level meetings are scaled back - AP News",
-     "published": "2026-11-15T05:04:00+00:00",
-     "summary": "NATO to skip a leaders’ summit in Albania next year as high-level meetings are scaled back AP News"
+     "title": "Cape Verde could elect first woman president since gaining independence in 1975 - AP News",
+     "published": "2026-11-15T05:22:00+00:00",
+     "summary": "Cape Verde could elect first woman president since gaining independence in 1975 AP News"
     }
    ]
   },

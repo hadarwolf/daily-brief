@@ -33,8 +33,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-14T23:30:00Z",
      "home": "Chapecoense",
      "away": "Vasco da Gama",
-     "status": "IN_PLAY",
-     "score": "0-1"
+     "status": "FINISHED",
+     "score": "0-2"
     }
    ],
    "tomorrow": []
@@ -732,75 +732,75 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#13",
+     "title": "Tomás Avilés Could Return to Inter Miami and Compete for a Spot if Micael Leaves - Pasión Fútbol",
+     "published": "2026-11-14T00:00:00+00:00",
+     "summary": "Tomás Avilés Could Return to Inter Miami and Compete for a Spot if Micael Leaves Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#14",
      "title": "2026 MLS Cup Odds: Nashville SC Leads Inter Miami and Vancouver - Time Magazine",
      "published": "2026-11-13T23:50:42+00:00",
      "summary": "2026 MLS Cup Odds: Nashville SC Leads Inter Miami and Vancouver Time Magazine"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi Set to Play in Argentina Again as Inter Miami Schedule River Plate Friendly - Террикон",
      "published": "2026-11-13T20:32:00+00:00",
      "summary": "Lionel Messi Set to Play in Argentina Again as Inter Miami Schedule River Plate Friendly Террикон"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Lionel Messi is coming back to Argentina: Inter Miami to face River Plate at the Monumental in 2027 - Diario AS",
      "published": "2026-11-13T19:49:11+00:00",
      "summary": "Lionel Messi is coming back to Argentina: Inter Miami to face River Plate at the Monumental in 2027 Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "After an emotional farewell: Messi prepares to return to the Monumental stadium - Goal.com",
      "published": "2026-11-13T19:42:33+00:00",
      "summary": "After an emotional farewell: Messi prepares to return to the Monumental stadium Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Lionel Messi to Make Historic Argentina Return as Inter Miami Confirm Friendly Against River Plate - Pasión Fútbol",
      "published": "2026-11-13T19:11:14+00:00",
      "summary": "Lionel Messi to Make Historic Argentina Return as Inter Miami Confirm Friendly Against River Plate Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Messi Set to Face River Plate at the Monumental: Inter Miami Announces 2027 Friendly - Soy Futbol",
      "published": "2026-11-13T18:25:23+00:00",
      "summary": "Messi Set to Face River Plate at the Monumental: Inter Miami Announces 2027 Friendly Soy Futbol"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Messi and Inter Miami to Face River Plate at the Monumental - beIN SPORTS",
      "published": "2026-11-13T18:02:21+00:00",
      "summary": "Messi and Inter Miami to Face River Plate at the Monumental beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly - ESPN",
      "published": "2026-11-13T17:53:00+00:00",
      "summary": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly ESPN"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi returns to Argentina: Inter Miami confirm preseason friendly vs River Plate - World Soccer Talk",
      "published": "2026-11-13T17:37:05+00:00",
      "summary": "Lionel Messi returns to Argentina: Inter Miami confirm preseason friendly vs River Plate World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Messi, Inter Miami to Face River Plate in 2027 - Yahoo Sports",
      "published": "2026-11-13T16:50:00+00:00",
      "summary": "Messi, Inter Miami to Face River Plate in 2027 Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Lionel Messi to make return to Estadio Monumental in Buenos Aires - USA Today",
      "published": "2026-11-13T16:42:00+00:00",
      "summary": "Lionel Messi to make return to Estadio Monumental in Buenos Aires USA Today"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Lionel Messi Wins Second Consecutive MLS Golden Boot - Yahoo Sports",
-     "published": "2026-11-13T16:26:29+00:00",
-     "summary": "Lionel Messi Wins Second Consecutive MLS Golden Boot Yahoo Sports"
     }
    ]
   },
