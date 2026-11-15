@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-15",
+  "questions": [
+    {
+      "id": "q1-nvidia-key-person",
+      "section": "business",
+      "story_id": "nvidia-key-person-crisis",
+      "answer_index": 2,
+      "en": {
+        "question": "Why did Nvidia's stock drop sharply this week, independent of the company's underlying chip business?",
+        "options": [
+          "The US government banned all Nvidia GPU exports to Asia",
+          "Nvidia missed its quarterly earnings forecast for the first time in three years",
+          "The board forced out CEO Jensen Huang after a chip-smuggling scandal tied to an alleged affair, exposing how much the company's value rested on him",
+          "A rival chipmaker overtook Nvidia's market share in AI training chips"
+        ],
+        "explanation": "Investors had treated Nvidia's valuation as almost inseparable from Jensen Huang, so his forced exit over a chip-smuggling scandal triggered a sharp sell-off — a textbook case of key-person risk."
+      },
+      "he": {
+        "question": "למה מניית אנבידיה צנחה בחדות השבוע, באופן בלתי תלוי בעסקי השבבים הבסיסיים של החברה?",
+        "options": [
+          "ממשל ארה\"ב אסר על יצוא שבבי אנבידיה לכל אסיה",
+          "אנבידיה לא עמדה בתחזית הרבעונית שלה לראשונה בשלוש שנים",
+          "הדירקטוריון הדיח את המנכ\"ל ג'נסן הואנג בעקבות פרשת הברחת שבבים שהייתה קשורה לרומן מחוץ לנישואין שלו, מה שחשף עד כמה החברה תלויה בו",
+          "יצרנית שבבים מתחרה עקפה את אנבידיה בנתח השוק של שבבי אימון AI"
+        ],
+        "explanation": "משקיעים רבים התייחסו לשווי של אנבידיה כבלתי נפרד מג'נסן הואנג, כך שהדחתו - בעקבות פרשת הברחת שבבים - עוררה מכירה חדה, מקרה קלאסי של סיכון איש מפתח."
+      }
+    },
+    {
+      "id": "q2-trump-putin-xi-summit",
+      "section": "geopolitics",
+      "story_id": "trump-putin-xi-summit",
+      "answer_index": 1,
+      "en": {
+        "question": "What is reportedly on the table at the planned Trump-Putin-Xi summit in China, tied to efforts to end the war in Ukraine?",
+        "options": [
+          "An agreement to jointly develop AI systems between the three countries",
+          "Discussions on reducing nuclear weapons, alongside ideas like Ukraine ceding Donbas in exchange for NATO membership",
+          "A new mutual defense pact between Russia and China aimed at Europe",
+          "A joint declaration ending all US tariffs on Chinese goods"
+        ],
+        "explanation": "Trump plans to discuss nuclear arms reduction at the summit, and separately the US has floated Ukraine ceding Donbas in return for NATO membership, according to Zelensky."
+      },
+      "he": {
+        "question": "מה, לפי הדיווחים, עומד על הפרק בפסגה המתוכננת של טראמפ, פוטין וסי בסין, בזיקה למאמצים לסיום המלחמה באוקראינה?",
+        "options": [
+          "הסכם לפיתוח משותף של מערכות AI בין שלוש המדינות",
+          "דיונים על הפחתת נשק גרעיני, לצד רעיונות כמו ויתור אוקראינה על הדונבאס בתמורה לחברות בנאט\"ו",
+          "הסכם הגנה הדדי חדש בין רוסיה לסין המכוון נגד אירופה",
+          "הכרזה משולבת על ביטול כל המכסים האמריקאיים על מוצרים סיניים"
+        ],
+        "explanation": "טראמפ מתכנן לדון בפסגה בהפחתת נשק גרעיני, ובמקביל ארה\"ב העלתה את הרעיון שאוקראינה תוותר על הדונבאס בתמורה לחברות בנאט\"ו, לפי זלנסקי."
+      }
+    },
+    {
+      "id": "q3-starship-catch",
+      "section": "tech",
+      "story_id": "starship-flight-15-catch",
+      "answer_index": 3,
+      "en": {
+        "question": "What did SpaceX achieve for the first time during Starship's 15th test flight?",
+        "options": [
+          "It reused the same Starship vehicle for a second flight within 24 hours",
+          "It launched Starship with a human crew for the first time",
+          "It landed Starship on the Moon",
+          "It caught the Starship upper stage itself back at the launch tower, not just the booster"
+        ],
+        "explanation": "SpaceX had previously only caught the Super Heavy booster; Flight 15 marked the first time the Starship upper stage itself was caught by the tower's mechanical arms."
+      },
+      "he": {
+        "question": "מה SpaceX השיגה לראשונה בטיסת הניסוי ה-15 של סטארשיפ?",
+        "options": [
+          "היא עשתה שימוש חוזר באותו רכב סטארשיפ לטיסה שנייה בתוך 24 שעות",
+          "היא שיגרה את סטארשיפ עם צוות אנושי בפעם הראשונה",
+          "היא הנחיתה את סטארשיפ על הירח",
+          "היא תפסה בחזרה במגדל השיגור את השלב העליון של סטארשיפ עצמו, לא רק את המאיץ"
+        ],
+        "explanation": "בעבר SpaceX תפסה רק את מאיץ ה-Super Heavy; בטיסה ה-15 נתפס לראשונה השלב העליון של סטארשיפ עצמו בעזרת הזרועות המכניות של המגדל."
+      }
+    }
+  ]
+}

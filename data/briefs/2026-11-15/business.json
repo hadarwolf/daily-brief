@@ -1,0 +1,176 @@
+{
+  "section": "business",
+  "date": "2026-11-15",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-15T03:48:50+00:00",
+  "stories": [
+    {
+      "id": "nvidia-key-person-crisis",
+      "kind": "analysis",
+      "en": {
+        "headline": "Nvidia's Scandal-Driven CEO Ouster Exposes the Cost of Key-Person Risk",
+        "scroll": "Nvidia forced out CEO Jensen Huang over a chip-smuggling scandal tied to his alleged mistress, erasing 13% of its stock in a week and exposing its dependence on one man.",
+        "coffee": "Nvidia's board pushed Jensen Huang out as CEO this week after weeks of denying an affair, following reports that advanced Nvidia AI chips were smuggled to China and installed in a Shanghai data center tied to a company founded by Alice Huang, the woman at the center of the scandal. The stock lost 13% of its value over the week, and the board, without yet naming a replacement, has reportedly approached Arm CEO Rene Haas, who spent seven years at Nvidia before leading Arm since 2022.\n\nThe fallout is a textbook case of key-person risk: many investors treated Nvidia's $4-trillion-plus valuation as almost inseparable from Huang himself, the engineer who built it from a graphics-chip maker into the backbone of the AI boom. Nvidia also faces possible lawsuits, since its insurance doesn't fully cover damages from executive misconduct, and the Financial Times has questioned the board's independence given how long it let the allegations simmer. Separately, Treasury Secretary Scott Bessent blamed the Commerce Department for letting the chips reach the Singaporean firm at the scandal's center, despite four agencies having backed a blacklist.\n\nWhat to watch: who the board picks as CEO, whether Washington tightens scrutiny of Nvidia's dealings in Asia, and whether the turmoil spreads to the rest of the AI trade — a test arriving fast, with Anthropic's IPO, targeting a $1.33 trillion valuation, due to start trading this week.",
+        "deep": "## Background\n\nNvidia designs the GPUs that effectively power the generative-AI boom — a company whose market value briefly topped $4 trillion, making it, by some measures, the most valuable corporation in history. Jensen Huang co-founded Nvidia in 1993 and ran it for more than three decades, becoming almost synonymous with the AI trade itself: when Nvidia's stock moved, broad swaths of the stock market moved with it, and wealth managers have spent the past two years treating \"the AI trade\" and \"Nvidia\" as close to interchangeable terms.\n\nThat dependence on a single founder-CEO is what business writers call key-person risk — a situation where a company's entire valuation leans, dangerously, on one person who cannot easily be replaced.\n\n## The story\n\nThe crisis traces to allegations, which Huang initially denied for weeks, involving an extramarital affair with a woman identified as Alice Huang. Documents reported this week showed that a Chinese company she founded acquired advanced Nvidia AI chips that had been smuggled into China and later installed in a data center in Shanghai — precisely the kind of diversion that US export controls on advanced semiconductors are meant to prevent. According to people who have spoken with him, Huang's resistance collapsed about a week ago; he surrendered the CEO role without further contest, and associates describe him as sounding like someone who no longer cares about chips or AI.\n\nNvidia shares lost 13% of their value over the week and kept sliding into the weekend as the board searched for a successor without yet naming a search firm. One contender reportedly approached is Rene Haas, CEO of chip designer Arm, who spent seven years at Nvidia before taking the Arm job in 2022 — a sign the board may be looking for a known quantity from inside its own alumni network.\n\nThe scandal has also pulled in Washington. Treasury Secretary Scott Bessent told CNBC that the Commerce Department bears responsibility for the chip leak, saying four federal agencies had supported adding the Singaporean firm involved, Megaspeed, to an export blacklist, but that Commerce alone holds the authority to act and did not. Separately, reports surfaced that President Trump bought Nvidia shares before his administration eased export restrictions on the company — a timeline that has drawn scrutiny over potential conflicts of interest, though no wrongdoing has been established.\n\n## Second-order effects\n\nThe most immediate effect is a textbook lesson in key-person risk: a company's valuation can be propped up less by its balance sheet than by confidence in one irreplaceable individual, and when that confidence breaks, the correction can be sharp and fast regardless of the underlying business's health. Nvidia's board is also facing its own credibility test — the Financial Times has openly questioned whether the board's independence was \"artificial,\" given how long the allegations were allowed to circulate before Huang's exit, and whether Nvidia's insurance will even cover the lawsuits now expected over executive misconduct.\n\nThe turmoil has already spilled beyond Nvidia itself. US tech indexes fell as the fallout spread through the broader semiconductor sector, with Wall Street now treating \"the post-Huang Nvidia era\" as a live risk factor heading into Nvidia's upcoming earnings and Anthropic's IPO. The effects reach Israel too: because Nvidia's local operations are a large contributor to Israeli GDP and roughly half of tech exports, prominent voices close to the government, including investor Michael Eisenberg, have warned that any freeze in Nvidia's Israel expansion plans would expose structural weaknesses in an economy that has leaned on Nvidia-driven tax revenue to paper over deeper problems.\n\n## What to watch\n\nThree things will determine how far this goes. First, who Nvidia's board picks as the next CEO, and whether it leans toward an insider like Rene Haas or opens an outside search. Second, whether the export-control failure triggers a genuine crackdown on Nvidia's dealings in Asia, which could reshape how the whole chip industry handles China exposure. Third, whether the uncertainty spreads into the rest of the AI ecosystem — a test that arrives almost immediately, with Anthropic's IPO, targeting a valuation near $1.33 trillion, set to begin trading this week as the first real gauge of investor appetite for AI risk since Huang's exit."
+      },
+      "he": {
+        "headline": "פרשת ג'נסן הואנג: איך אנבידיה הפכה למקרה מבחן של סיכון איש מפתח",
+        "scroll": "אנבידיה הדיחה את המנכ\"ל ג'נסן הואנג בעקבות פרשה שבמרכזה שבבים שהוברחו לסין, מחקה 13% משווי המניה בשבוע אחד וחשפה כמה החברה הייתה תלויה באדם אחד.",
+        "coffee": "דירקטוריון אנבידיה הדיח השבוע את המנכ\"ל ג'נסן הואנג, אחרי שבועות שבהם הכחיש פרשיית רומן מחוץ לנישואין, לאחר דיווחים שלפיהם שבבי AI מתקדמים של החברה הוברחו לסין והותקנו במרכז נתונים בשנגחאי השייך לחברה שהקימה אליס הואנג, האישה שבמרכז הפרשה. מניית אנבידיה איבדה 13% מערכה במהלך השבוע, והדירקטוריון, שעדיין לא מינה מחליף, פנה כבר לרנה האס, מנכ\"ל חברת השבבים Arm, ששימש באנבידיה שבע שנים לפני שעבר להנהיג את Arm ב-2022.\n\nהאירוע מדגים סיכון איש מפתח (key-person risk): משקיעים רבים התייחסו לשווי של יותר מ-4 טריליון דולר של אנבידיה כמעט כבלתי נפרד מהואנג עצמו, המהנדס שהפך אותה מיצרנית שבבי גרפיקה לעמוד השדרה של בועת ה-AI. אנבידיה חשופה גם לתביעות, מכיוון שהביטוח שלה אינו מכסה במלואו נזקים הנובעים מהתנהלות בכירים, ועיתון הפייננשל טיימס תקף את עצמאות הדירקטוריון, בטענה שזו הייתה מלאכותית בהתחשב בזמן שחלף לפני ההדחה. בנפרד, שר האוצר האמריקאי סקוט בסנט הטיל את האחריות על משרד המסחר, בטענה שארבע רשויות תמכו בהכנסת החברה הסינגפורית שבמרכז הפרשה לרשימה השחורה, אך הסמכות לפעול הייתה בידי משרד המסחר בלבד.\n\nמה לעקוב: את מי יבחר הדירקטוריון כמנכ\"ל החדש, האם וושינגטון תהדק את הפיקוח על עסקאות אנבידיה באסיה, והאם הטלטלה תתפשט לכל ענף ה-AI - מבחן שמגיע מהר, עם ההנפקה (IPO) של אנתרופיק, שמכוונת לשווי של כ-1.33 טריליון דולר ומתוכננת להיפתח למסחר השבוע.",
+        "deep": "## רקע\n\nאנבידיה היא החברה שמעצבת את מעבדי הגרפיקה (GPUs) שמניעים בפועל את בועת ה-AI הגנרטיבי - חברה שהגיע שוויה בשוק לרגעים ליותר מ-4 טריליון דולר, מה שהפך אותה, לפי כמה מדדים, לחברה הציבורית השווה בהיסטוריה. ג'נסן הואנג הקים את אנבידיה ב-1993 וניהל אותה יותר משלושה עשורים, עד שהפך לשם נרדף למסחר ה-AI עצמו: כשמניית אנבידיה זזה, חלקים גדולים משוק המניות זזו איתה, ומנהלי השקעות התייחסו בשנתיים האחרונות ל\"מסחר ה-AI\" ול\"אנבידיה\" כאילו היו כמעט מילים נרדפות.\n\nהתלות הזו במנכ\"ל-מייסד בודד היא מה שכלכלנים מכנים סיכון איש מפתח (key-person risk) - מצב שבו שווי חברה שלמה נשען, במידה מסוכנת, על אדם אחד בלתי ניתן להחלפה בקלות.\n\n## הסיפור\n\nהמשבר החל בטענות, שהואנג הכחיש במשך שבועות, על רומן מחוץ לנישואין עם אישה המזוהה כאליס הואנג. מסמכים שנחשפו השבוע הראו כי חברה סינית שהקימה רכשה שבבי AI מתקדמים של אנבידיה שהוברחו לסין, ולאחר מכן הותקנו במרכז נתונים בשנגחאי - בדיוק סוג ההפניה שהפיקוח על יצוא שבבים מתקדמים (export controls) נועד למנוע. לפי אנשים שדיברו עמו, התנגדותו של הואנג קרסה לפני כשבוע; הוא מסר את תפקיד המנכ\"ל בלי להילחם עוד, ומקורביו מתארים אותו כמי שכבר לא ממש אכפת לו משבבים ומ-AI.\n\nמניית אנבידיה איבדה 13% מערכה במהלך השבוע, והמשיכה להידרדר אל סוף השבוע, בזמן שהדירקטוריון מחפש מחליף מבלי שמינה עדיין חברת איתור. אחד המועמדים שאליהם פנה הדירקטוריון, כך דווח, הוא רנה האס, מנכ\"ל חברת עיצוב השבבים Arm, ששימש באנבידיה שבע שנים לפני שעבר להנהיג את Arm ב-2022 - סימן לכך שהדירקטוריון עשוי לחפש דווקא מישהו מוכר מתוך בוגרי החברה.\n\nהפרשה גרפה גם את וושינגטון. שר האוצר סקוט בסנט אמר לרשת CNBC כי משרד המסחר האמריקאי נושא באחריות לדליפת השבבים, וטען כי ארבע רשויות פדרליות תמכו בהוספת החברה הסינגפורית המעורבת, מגה ספיד, לרשימה השחורה של היצוא - אך שהסמכות לפעול נמצאת בידי משרד המסחר בלבד, וזה לא פעל. בנפרד, התפרסם כי נשיא ארה\"ב טראמפ רכש מניות אנבידיה לפני שממשלו הקל על מגבלות היצוא על החברה - תזמון שמעורר שאלות על ניגוד עניינים אפשרי, אף שלא נמצאה כל עדות לפסול.\n\n## אפקטים מסדר שני\n\nהאפקט המיידי ביותר הוא שיעור קלאסי בסיכון איש מפתח: שווי של חברה יכול להישען פחות על מאזניה ויותר על האמון באדם בודד שנחשב בלתי ניתן להחלפה, וכשהאמון הזה נשבר, התיקון יכול להיות חד ומהיר בלי קשר לאיתנות העסק עצמו. דירקטוריון אנבידיה עומד גם הוא במבחן אמינות - עיתון הפייננשל טיימס תקף בפומבי את השאלה אם עצמאות הדירקטוריון (ממשל תאגידי, corporate governance) הייתה \"מלאכותית\", בהתחשב בזמן שחלף עד הדחת הואנג, ואם ביטוח החברה יכסה בכלל את התביעות הצפויות בעקבות התנהלות הבכירים.\n\nהטלטלה כבר התפשטה מעבר לאנבידיה עצמה. מדדי הטכנולוגיה האמריקאיים נפלו כשההדים התפשטו לכל ענף המוליכים למחצה, ווול סטריט מתייחס כעת ל\"עידן אנבידיה שאחרי הואנג\" כגורם סיכון פעיל לקראת הדו\"חות הקרובים של החברה וההנפקה של אנתרופיק. ההשפעה מגיעה גם לישראל: מכיוון שהפעילות המקומית של אנבידיה תורמת חלק גדול מהתמ\"ג הישראלי וכמחצית מיצוא ההייטק, גורמים בכירים המקורבים לממשלה - בהם המשקיע מייקל אייזנברג - הזהירו כי כל הקפאה בתוכניות ההתרחבות של אנבידיה בישראל תחשוף חולשות מבניות במשק שנשען על הכנסות המס הנובעות מאנבידיה כדי לטייח בעיות עומק.\n\n## מה לעקוב\n\nשלושה דברים יקבעו עד כמה המשבר יתפתח. ראשית, את מי יבחר הדירקטוריון של אנבידיה כמנכ\"ל הבא, ואם ייטה למועמד פנימי כמו רנה האס או יפתח חיפוש חיצוני. שנית, האם כשל הפיקוח על היצוא יוביל להידוק אמיתי של הפיקוח על עסקאות אנבידיה באסיה, מה שעשוי לשנות את האופן שבו כל ענף השבבים מתמודד עם החשיפה לסין. שלישית, האם חוסר הוודאות יתפשט לשאר מערכת ה-AI - מבחן שמגיע כבר ממש בקרוב, עם ההנפקה (IPO) של אנתרופיק, המכוונת לשווי של כ-1.33 טריליון דולר, שמתוכננת להיפתח למסחר השבוע, ותהיה המדד האמיתי הראשון לתשוקת המשקיעים לסיכון בתחום ה-AI מאז הדחתו של הואנג."
+      },
+      "tags": [
+        "nvidia",
+        "key-person-risk",
+        "corporate-governance",
+        "ai-trade"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "הטיית אנבידיה: השפעת החברה על המשק מטשטשת את הבעיות הבוערות",
+          "url": "https://www.themarker.com/news/macroeconomics/2026-11-14/ty-article/.premium/000001a1-d958-d59b-a1f3-d9dc7c140000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "במסגרת החיפוש אחר מנכ\"ל חדש: אנבידיה פנתה למנכ\"ל Arm רנה האס",
+          "url": "https://www.themarker.com/wallstreet/2026-11-14/ty-article/.premium/000001a1-da4c-d59b-a1f3-dadca7740000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הואנג עשה הכל להיראות צנוע ונדיב. כשכתבתי את הביוגרפיה שלו גיליתי משהו אחר",
+          "url": "https://www.themarker.com/wallstreet/2026-11-14/ty-article/.premium/000001a1-d8d7-d360-a9f7-fcffc9260000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "טראמפ רכש מניות אנבידיה לפני שהעניק לחברה הקלות ביצוא",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article/.premium/000001a1-d6b7-d292-abf9-ffff2a870000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט ננעלה בירידות; אנבידיה איבדה השבוע 13% מערכה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article-live/.premium/000001a1-b4b2-d041-a5f9-f5b36bdf0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "שר האוצר של ארה\"ב מאשים את משרד המסחר במשבר השבבים באנבידיה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article/.premium/000001a1-d647-d59b-a1f3-ded75e3d0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מייקל אייזנברג, המקורב לנתניהו, שלח לו אזהרה: טלטלת אנבידיה מסכנת את ישראל",
+          "url": "https://www.themarker.com/news/macroeconomics/2026-11-13/ty-article/.premium/000001a1-d4a6-d59b-a1f3-dcb632b50000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "\"אני חתיכת ח**\": שבור ומרוסק, השעות האחרונות של ג'נסן הואנג כמנכ\"ל אנבידיה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article/.premium/000001a1-d454-da30-a7fb-dcfd32010000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "נחשף: השבבים המתקדמים של אנבידיה הגיעו לחברה הסינית של המאהבת שלו",
+          "url": "https://www.themarker.com/wallstreet/2026-11-13/ty-article/.premium/000001a1-d3dc-d297-afe9-dfdef6870000"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+          "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "The Nvidia board’s artificial independence",
+          "url": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Odd Lots: Wall Street and the Post-Huang Nvidia Era (Podcast)",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Mixed on Nvidia Fallout Fears",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-nvidia-fallout-fears-f9946e8d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade",
+          "url": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Decline as Nvidia Shares Slide Again",
+          "url": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
+          "url": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Jensen Huang Called Her ‘a Deer in the Headlights.’ Now She Runs Nvidia.",
+          "url": "https://www.wsj.com/articles/jensen-huang-called-her-a-deer-in-the-headlights-now-she-runs-nvidia-d7f063dd?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Asia’s Stock Rebound Fades as Nvidia Uncertainty Lingers",
+          "url": "https://www.wsj.com/finance/stocks/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4038.02,
+      "prev_close": 4073.77,
+      "change_pct": -0.88,
+      "as_of": "2026-11-13"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7561.6699,
+      "prev_close": 7592.3999,
+      "change_pct": -0.4,
+      "as_of": "2026-11-13"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.1918,
+      "prev_close": 3.1739,
+      "change_pct": 0.56,
+      "as_of": "2026-11-13"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 95.84,
+      "prev_close": 95.82,
+      "change_pct": 0.02,
+      "as_of": "2026-11-13"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 64755.0391,
+      "prev_close": 68249.2734,
+      "change_pct": -5.12,
+      "as_of": "2026-11-15"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "section": "geopolitics",
+  "date": "2026-11-15",
+  "title_en": "Geopolitics",
+  "title_he": "גיאופוליטיקה",
+  "default_lang": "en",
+  "generated_at": "2026-11-15T03:48:50+00:00",
+  "stories": [
+    {
+      "id": "trump-putin-xi-summit",
+      "kind": "analysis",
+      "en": {
+        "headline": "Trump, Putin and Xi plan unprecedented trilateral summit in China",
+        "scroll": "Trump, Putin and Xi plan an unprecedented trilateral summit in China next week, as the US floats Ukraine trading the Donbas for NATO membership to end the war.",
+        "coffee": "The White House says Trump, Putin and Xi are planning a \"historic\" joint meeting in China next week, on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen. A spokeswoman said Trump will raise the \"reduction of nuclear weapons.\" According to the Wall Street Journal, Putin floated the idea of a three-way \"trialogue\" last month specifically as a venue to discuss ending the war in Ukraine.\n\nThe summit lands alongside a separate, more concrete diplomatic move: Ukrainian President Volodymyr Zelensky says the US has floated Ukraine ceding the Donbas region to Russia in exchange for NATO membership. Washington hasn't confirmed the specifics; a US official told the BBC only that \"many ideas continue to be discussed.\"\n\nWhy it matters: no sitting US, Russian and Chinese leader has held a joint three-way summit like this before. Pairing a nuclear-arms conversation with a possible Ukraine territorial deal gives all three cover to move pieces that have been stuck for years. Watch whether Kyiv accepts, rejects, or stays silent on the Donbas-for-NATO trade, and whether the summit yields anything beyond a photo opportunity.",
+        "deep": "## Background\n\nThe war Russia launched against Ukraine in February 2022 has, over time, become entangled with a wider contest over who sets the rules of the post-war order. US-Russia nuclear arms control, once anchored by treaties both sides observed, has frayed for years, with little appetite in either Washington or Moscow to rebuild it from scratch. China, meanwhile, has cast itself as an indispensable but nominally neutral power: economically propping up Russia while periodically calling for peace talks it has rarely hosted itself. Trump has floated one-on-one dealmaking with both Putin and Xi at various points, but a joint three-way summit involving all three leaders has never happened.\n\n## The story\n\nThe White House says Trump, Putin and Xi are planning a \"historic\" joint meeting in China next week, with a spokeswoman saying Trump will raise the \"reduction of nuclear weapons\" during the talks (bbc_world#12). The venue points to the sidelines of next week's Asia-Pacific Economic Cooperation summit in Shenzhen. According to the Wall Street Journal, Putin floated the idea of a three-way \"trialogue\" last month specifically as an opportunity to discuss ending the war in Ukraine (foreign_affairs#2). No agenda has been finalized, and Foreign Affairs frames the stakes starkly, titling its analysis of the moment \"The World's Last Chance for Peace\" (foreign_affairs#1).\n\nThe summit comes as the diplomatic track on Ukraine itself has quietly moved. Zelensky said the US has floated the idea of Ukraine ceding the Donbas region to Russia in exchange for NATO membership — a trade that would reverse the alliance's long-standing reluctance to admit Ukraine while formalizing a Russian territorial gain. Washington has not confirmed the specifics; a US official told the BBC only that \"many ideas continue to be discussed\" (bbc_world#5).\n\n## Second-order effects\n\nTaken together, the summit's real significance may be less its venue than its sequencing. A nuclear-arms conversation between Trump and Putin, flanked by Xi, could provide diplomatic cover for a territorial concession that neither Kyiv nor Washington wants to be seen proposing alone. For NATO, admitting Ukraine while a significant share of its internationally recognized territory sits in Russian hands would be an unprecedented redefinition of what membership requires — with implications for how the alliance would handle other frozen or contested conflicts in the future.\n\nFor Beijing, simply sitting at the table as co-convenor of a nuclear and peace discussion is itself a status upgrade, placing China on equal diplomatic footing with the US and Russia on an issue it has mostly watched from the sidelines. It also reinforces an argument the Economist has been making: that Washington and Beijing increasingly find it more profitable to keep the rest of the world guessing about their intentions than to commit to clear rules (economist_intl#2). European and Asian allies, along with markets, will be parsing any readout for signs of where the US-China-Russia triangle is heading, given the direct bearing it has on the credibility of security guarantees elsewhere, including in the Middle East.\n\n## What to watch next\n\nThe most consequential signal will be whether Kyiv formally rejects, entertains or stays silent on the Donbas-for-NATO trade; Zelensky has so far only confirmed the idea was floated, not that Ukraine is willing to accept it. Watch also for whether the summit produces any concrete, verifiable step on nuclear arms, or stays at the level of a symbolic first-of-its-kind photo opportunity. And watch whether Putin or Xi use the joint platform to extract separate concessions — on sanctions relief, trade or technology — that have nothing to do with Ukraine at all, folding them into the same package under cover of the historic optics."
+      },
+      "he": {
+        "headline": "פסגה חריגה בסין: טראמפ, פוטין וסי ג'ינפינג ייפגשו יחד לראשונה",
+        "scroll": "טראמפ, פוטין וסי ג'ינפינג מתכננים פסגה משולשת חריגה בסין בשבוע הקרוב, בעוד וושינגטון מעלה אפשרות שאוקראינה תמסור את דונבאס בתמורה לחברות בנאט\"ו.",
+        "coffee": "לפי הבית הלבן, טראמפ, פוטין וסי ג'ינפינג מתכננים פגישה משותפת \"היסטורית\" בסין בשבוע הקרוב, בשולי פסגת ארגון שיתוף הפעולה הכלכלי אסיה-פסיפיק (APEC) שתתקיים בשנזן. דוברת הבית הלבן אמרה שטראמפ יעלה בפגישה את נושא \"צמצום הנשק הגרעיני\". לפי הוול סטריט ג'ורנל, פוטין הוא שהעלה את רעיון הפסגה המשולשת בחודש שעבר, במפורש כהזדמנות לדון בסיום המלחמה באוקראינה.\n\nהפסגה מגיעה במקביל למהלך דיפלומטי נפרד ומוחשי יותר: נשיא אוקראינה וולודימיר זלנסקי מספר שוושינגטון העלתה אפשרות שאוקראינה תמסור לרוסיה את אזור דונבאס בתמורה לחברות בנאט\"ו. הממשל האמריקאי לא אישר את הפרטים; גורם אמריקאי אמר ל-BBC רק כי \"עדיין נדונים רעיונות רבים\".\n\nלמה זה חשוב: מעולם לא נפגשו מנהיגים מכהנים של ארה\"ב, רוסיה וסין יחד בפסגה משולשת כזו. חיבור בין שיחה על נשק גרעיני לבין הסדר טריטוריאלי אפשרי באוקראינה מעניק לשלושתם כיסוי להזיז מהלכים שהיו תקועים שנים. יש לעקוב אם קייב תקבל, תדחה או תשתוק בנוגע לעיסקת דונבאס-תמורת-נאט\"ו, ואם מהפסגה יצא דבר מעבר לצילום היסטורי.",
+        "deep": "## רקע\n\nהמלחמה שרוסיה פתחה נגד אוקראינה בפברואר 2022 הפכה במרוצת הזמן למעורבת בתחרות רחבה יותר על מי קובע את כללי הסדר העולמי שאחרי. הפיקוח על נשק גרעיני בין ארה\"ב לרוסיה, שהיה מעוגן בעבר בהסכמים ששתי המדינות קיימו, נשחק במשך שנים, בלי תמרוץ משמעותי בוושינגטון או במוסקבה לבנות אותו מחדש מאפס. סין, בינתיים, מציבה את עצמה ככוח הכרחי אך לכאורה נייטרלי: היא תומכת כלכלית ברוסיה, ובמקביל קוראת מעת לעת למשא ומתן לשלום שהיא עצמה כמעט לא אירחה. טראמפ העלה בעבר רעיונות לעסקאות דו-צדדיות עם פוטין ועם סי ג'ינפינג בנפרד, אך פסגה משולשת שבה נוכחים שלושת המנהיגים יחד לא התקיימה מעולם.\n\n## הסיפור\n\nלפי הבית הלבן, טראמפ, פוטין וסי ג'ינפינג מתכננים פגישה משותפת \"היסטורית\" בסין בשבוע הקרוב, ודוברת הבית הלבן אמרה שטראמפ יעלה בשיחות את נושא \"צמצום הנשק הגרעיני\" (bbc_world#12). מקום הפסגה המשוער הוא בשולי פסגת ה-APEC שתתקיים בשבוע הקרוב בשנזן שבסין. לפי הוול סטריט ג'ורנל, פוטין הוא שהעלה את רעיון ה\"טרילוג\" המשולש בחודש שעבר, במפורש כהזדמנות לדון בסיום המלחמה באוקראינה (foreign_affairs#2). סדר היום הסופי עדיין לא נקבע, וכתב העת Foreign Affairs מתאר את חשיבות הרגע במילים חדות, בכותרת \"ההזדמנות האחרונה של העולם לשלום\" (foreign_affairs#1).\n\nהפסגה מגיעה בד בבד עם התקדמות שקטה במסלול הדיפלומטי הנוגע ישירות לאוקראינה. זלנסקי מספר שוושינגטון העלתה אפשרות שאוקראינה תמסור לרוסיה את אזור דונבאס בתמורה לחברות בנאט\"ו - עסקה שתהפוך את ההסתייגות רבת השנים של הברית מקבלת אוקראינה לחברה, ובמקביל תעגן רשמית רכישת שטח רוסית. הממשל האמריקאי לא אישר את הפרטים; גורם אמריקאי אמר ל-BBC רק כי \"עדיין נדונים רעיונות רבים\" (bbc_world#5).\n\n## אפקטי דרגה שנייה\n\nבשילוב, החשיבות האמיתית של הפסגה היא אולי לא המקום אלא התזמון והרצף. שיחה על נשק גרעיני בין טראמפ לפוטין, בנוכחות סי ג'ינפינג, יכולה לשמש כיסוי דיפלומטי לוויתור טריטוריאלי שלא קייב ולא וושינגטון מעוניינות להיראות כמי שהציעו אותו בעצמן. מבחינת נאט\"ו, קבלת אוקראינה לחברות בזמן שחלק משמעותי משטחה המוכר בינלאומית נמצא בידיים רוסיות תהיה הגדרה מחדש חריגה של מה שחברות בברית דורשת - עם השלכות על האופן שבו הברית תתמודד עם סכסוכים קפואים או שנויים במחלוקת אחרים בעתיד.\n\nמבחינת בייג'ינג, עצם הנוכחות כשותפה ליזום שיחה על נשק גרעיני ועל שלום היא שדרוג מעמד: היא מציבה את סין על מדרגה דיפלומטית שוות ערך לארה\"ב ולרוסיה בנושא שבעיקרה עד כה צפתה בו מהצד. זה גם מחזק טיעון שהאקונומיסט מעלה לאחרונה - שוושינגטון ובייג'ינג מוצאות רווח גדל והולך בלהשאיר את שאר העולם במצב של חוסר ביטחון, בלי להתחייב לכללים ברורים (economist_intl#2). בעלות ברית באירופה ובאסיה, וגם השווקים, יבדקו כל תמצית שתפורסם לאותות על הכיוון שאליו נוטה המשולש ארה\"ב-סין-רוסיה, בשל ההשפעה הישירה שיש לכך על אמינות הבטחות הביטחון במקומות נוספים, כולל במזרח התיכון.\n\n## מה לעקוב אחריו הלאה\n\nהאות המשמעותי ביותר יהיה אם קייב תדחה רשמית, תבחן או תישאר בשקט מול עסקת דונבאס-תמורת-נאט\"ו; זלנסקי אישר עד כה רק שהרעיון הועלה, לא שאוקראינה מוכנה לקבל אותו. יש לעקוב גם אחרי השאלה אם מהפסגה יצא צעד קונקרטי וניתן לאימות בנושא נשק גרעיני, או שהיא תישאר בגדר צילום סמלי וחד-פעמי. ולבסוף, יש לשים לב אם פוטין או סי ג'ינפינג ינסו לנצל את הבמה המשותפת כדי לסחוט ויתורים נפרדים - בהקלות סנקציות, במסחר או בטכנולוגיה - שאין להם שום קשר לאוקראינה, ולשלב אותם באותה חבילה תחת חיפוי הרגע ההיסטורי."
+      },
+      "tags": [
+        "ukraine-war",
+        "nuclear-arms-control",
+        "nato",
+        "great-power-diplomacy"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "The World’s Last Chance for Peace",
+          "url": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "The Case for a Trump-Xi-Putin Summit",
+          "url": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit"
+        },
+        {
+          "outlet": "The Economist — International",
+          "title": "Global bullies have turned uncertainty into a weapon",
+          "url": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon"
+        }
+      ]
+    }
+  ]
+}

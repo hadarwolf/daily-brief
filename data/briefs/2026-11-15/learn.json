@@ -1,0 +1,127 @@
+{
+  "section": "learn",
+  "date": "2026-11-15",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-15T03:48:50+00:00",
+  "stories": [
+    {
+      "id": "word-working-capital",
+      "kind": "word",
+      "en": {
+        "headline": "Working Capital (הון חוזר)",
+        "scroll": "The cash a business has on hand to run day-to-day operations — current assets minus current liabilities.",
+        "coffee": "Working capital is the cash a company has on hand to keep running day to day: paying suppliers, meeting payroll, buying inventory, without needing new financing. It is calculated as current assets (cash, receivables, inventory) minus current liabilities (what is owed within a year). A business can be profitable on paper and still collapse if it runs out of working capital, because profit and cash are not the same thing.\n\nExample: \"The company raised a bridge loan just to shore up working capital before the holiday rush.\"",
+        "deep": "\"Working capital\" is easy to confuse with \"capital\" in the investing sense — money raised from equity or debt. Working capital is about short-term liquidity, not long-term funding. A company can raise billions and still be working-capital constrained if too much cash is locked up in unsold inventory or unpaid invoices.\n\nRetailers watch this obsessively around seasonal peaks: a surge in orders means buying inventory and extending credit to customers before the cash from sales comes back in, which is why fast-growing companies sometimes need financing even while profitable.\n\nMore examples: \"Extending payment terms to 90 days freed up working capital for the expansion.\" \"Negative working capital isn't always bad — some retailers collect from customers before paying their own suppliers.\"\n\nIn Hebrew: הון חוזר."
+      },
+      "he": {
+        "headline": "הון חוזר (Working Capital)",
+        "scroll": "הכסף שעומד לרשות חברה לתפעול היומיומי שלה - נכסים שוטפים בניכוי התחייבויות שוטפות.",
+        "coffee": "הון חוזר הוא הכסף שיש לחברה ביד כדי להמשיך להפעיל את העסק יום-יום: לשלם לספקים, לשלם משכורות ולרכוש מלאי, בלי להזדקק למימון חדש. הוא מחושב כנכסים שוטפים (מזומן, חובות לקוחות, מלאי) בניכוי התחייבויות שוטפות (מה שצריך להחזיר בתוך שנה). חברה יכולה להיות רווחית על הנייר ועדיין לקרוס אם נגמר לה ההון החוזר, כי רווח ומזומן הם לא אותו דבר.\n\nלדוגמה באנגלית: \"The company raised a bridge loan just to shore up working capital before the holiday rush.\"",
+        "deep": "קל להתבלבל בין \"הון חוזר\" (working capital) לבין \"הון\" במובן של גיוס השקעה - מניות או חוב. הון חוזר נוגע לנזילות קצרת טווח, לא למימון ארוך טווח. חברה יכולה לגייס מיליארדים ועדיין להיות מוגבלת בהון חוזר אם יותר מדי מזומן נעול במלאי שלא נמכר או בחובות שלא נגבו.\n\nרשתות קמעונאות עוקבות אחרי זה בקנאות סביב שיאי עומס עונתיים: גידול בהזמנות מחייב לרכוש מלאי ולהעניק אשראי ללקוחות לפני שהכסף מהמכירות חוזר, וזו הסיבה שחברות שצומחות מהר נדרשות למימון גם כשהן רווחיות.\n\nדוגמאות נוספות: \"הארכת תנאי התשלום ל-90 יום שחררה הון חוזר להתרחבות.\" \"הון חוזר שלילי לא בהכרח דבר רע - חלק מהקמעונאים גובים מהלקוחות לפני שהם משלמים לספקים שלהם.\"\n\nבאנגלית: Working Capital."
+      },
+      "tags": [
+        "vocabulary",
+        "finance",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-pull-forward-demand",
+      "kind": "word",
+      "en": {
+        "headline": "Pull-Forward Demand (הקדמת ביקוש)",
+        "scroll": "When incentives or deadlines move future purchases into today — borrowing tomorrow's sales rather than creating new ones.",
+        "coffee": "Pull-forward demand happens when a stimulus, discount or deadline accelerates purchases that would have happened anyway, just later. The catch: once the pulled-forward demand runs out, a dip tends to follow, because those sales were borrowed from the future rather than newly created.\n\nExample: \"Car sales surged ahead of the tariff deadline, but analysts warned much of it was pull-forward demand.\"",
+        "deep": "Pull-forward demand is a favorite explanation analysts reach for after a surprisingly strong quarter, and it is worth asking every time: did underlying demand actually grow, or did a one-time trigger just move existing demand earlier on the calendar? Common triggers include tax-credit deadlines, announced price increases, limited-time discounts, and even bad weather (stocking up before a storm).\n\nThe confusion to avoid: pull-forward is not the same as a genuine demand shock. A blowout quarter driven by pull-forward demand can make the following quarter look weak by comparison even if nothing is actually wrong with the underlying business — this is sometimes behind a stock falling on seemingly \"good\" earnings.\n\nMore examples: \"The EV subsidy's expiration date triggered massive pull-forward demand in Q3.\" \"Retailers worry Black Friday promotions just pull forward December spending.\"\n\nIn Hebrew: הקדמת ביקוש."
+      },
+      "he": {
+        "headline": "הקדמת ביקוש (Pull-Forward Demand)",
+        "scroll": "כשתמריצים או מועדים אחרונים מזיזים קניות עתידיות להיום - שאילה ממכירות של מחר ולא יצירת ביקוש חדש.",
+        "coffee": "הקדמת ביקוש קורית כשתמריץ, הנחה או מועד אחרון מאיצים קניות שהיו קורות בכל מקרה, רק מאוחר יותר. הבעיה: כשהביקוש המוקדם מתכלה, נוטה לבוא אחריו גל ירידה, כי המכירות האלה היו בעצם 'הלוואה' מהעתיד ולא ביקוש חדש.\n\nלדוגמה באנגלית: \"Car sales surged ahead of the tariff deadline, but analysts warned much of it was pull-forward demand.\"",
+        "deep": "הקדמת ביקוש היא הסבר אהוב על אנליסטים אחרי רבעון חזק באופן מפתיע, וכדאי לשאול בכל פעם: האם הביקוש הבסיסי באמת צמח, או שטריגר חד-פעמי רק הזיז ביקוש קיים מוקדם יותר בלוח השנה? טריגרים נפוצים כוללים מועדי סיום לזיכויי מס, הודעות על העלאות מחיר, הנחות לזמן מוגבל, ואפילו מזג אוויר קשה (הצטיידות לפני סופה).\n\nהבלבול שכדאי להיזהר ממנו: הקדמת ביקוש היא לא כמו זינוק ביקוש אמיתי. רבעון מרשים שמבוסס על הקדמת ביקוש יכול לגרום לרבעון שאחריו להיראות חלש בהשוואה, גם אם אין שום דבר רע בעסק עצמו - זו לעיתים הסיבה שמניה יורדת אחרי דיווח שנראה \"טוב\".\n\nדוגמאות נוספות: \"מועד הסיום של הסובסידיה לרכב חשמלי יצר הקדמת ביקוש מסיבית ברבעון השלישי.\" \"קמעונאים חוששים שמבצעי בלאק פריידיי רק מקדימים את הוצאות דצמבר.\"\n\nבאנגלית: Pull-Forward Demand."
+      },
+      "tags": [
+        "vocabulary",
+        "economics",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-low-hanging-fruit",
+      "kind": "word",
+      "en": {
+        "headline": "Low-Hanging Fruit (פרי בשל בהישג יד)",
+        "scroll": "The easiest, quickest wins to grab first — opportunities needing little effort for a clear, immediate payoff.",
+        "coffee": "Low-hanging fruit means the easiest opportunities to act on — the ones needing the least effort for a clear, near-term payoff — so you tackle them first, before harder problems. It is used across business, product and personal productivity to mean \"start with what is easy and valuable.\"\n\nExample: \"Before building a new feature, the team fixed the low-hanging fruit: three bugs that were driving half of all support tickets.\"",
+        "deep": "\"Low-hanging fruit\" is useful shorthand in planning meetings, but it has a reputation problem: leaning on it too much can mean a team is avoiding the harder, higher-value work that actually needs doing. It works best paired with a plan for what comes after the easy wins, not used as a permanent strategy.\n\nA common confusion is treating low-hanging fruit as low-value — it is not. The phrase specifically means easy *and* valuable; something easy but worthless is not low-hanging fruit, it is just busywork.\n\nMore examples: \"The sales team picked off the low-hanging fruit — existing customers who had not yet upgraded — before chasing new accounts.\" \"There is not much low-hanging fruit left in this market; every further gain now requires real engineering.\"\n\nIn Hebrew: פרי בשל בהישג יד."
+      },
+      "he": {
+        "headline": "פרי בשל בהישג יד (Low-Hanging Fruit)",
+        "scroll": "ההזדמנויות הקלות והמהירות ביותר לתפוס ראשונות - מה שדורש מאמץ קטן לתמורה ברורה וקרובה.",
+        "coffee": "פרי בשל בהישג יד הוא ביטוי להזדמנויות הקלות ביותר לפעולה - אלה שדורשות את המאמץ הקטן ביותר לתמורה ברורה וקרובה - כך שתוקפים אותן ראשונות, לפני בעיות קשות יותר. משתמשים בביטוי בעסקים, במוצר ואפילו בפרודוקטיביות אישית כדי לומר \"תתחילו ממה שקל ושווה.\"\n\nלדוגמה באנגלית: \"Before building a new feature, the team fixed the low-hanging fruit: three bugs that were driving half of all support tickets.\"",
+        "deep": "הביטוי \"פרי בשל בהישג יד\" (low-hanging fruit) נוח לשימוש בפגישות תכנון, אבל יש לו בעיית תדמית: הישענות יתרה עליו יכולה לאותת שצוות נמנע מהעבודה הקשה ובעלת הערך הגבוה שבאמת דרושה. הוא עובד הכי טוב בשילוב עם תוכנית למה שקורה אחרי שהניצחונות הקלים נגמרים, ולא כאסטרטגיה קבועה.\n\nבלבול נפוץ הוא להתייחס לפרי בשל בהישג יד כאל דבר דל-ערך - וזה לא נכון. הביטוי מתכוון במדויק לקל *וגם* בעל ערך; משהו קל אבל חסר ערך הוא לא פרי בשל בהישג יד, הוא פשוט עבודת סרק.\n\nדוגמאות נוספות: \"צוות המכירות קטף את הפרי הבשל בהישג יד - לקוחות קיימים שעדיין לא שדרגו - לפני שרץ אחרי לקוחות חדשים.\" \"לא נותר הרבה פרי בשל בהישג יד בשוק הזה; כל התקדמות נוספת מחייבת הנדסה אמיתית.\"\n\nבאנגלית: Low-Hanging Fruit."
+      },
+      "tags": [
+        "vocabulary",
+        "idiom",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network Effects (אפקט הרשת)",
+        "scroll": "A product gets more valuable to each user as more people use it — why winners in networked markets tend to win by a lot.",
+        "coffee": "Network effects describe a product or platform that becomes more valuable as more people use it — not because the product itself improved, but because there is more of everyone else on it. A phone is useless if you are the only owner; it becomes essential once everyone else has one too. The same logic drives marketplaces (more buyers attract more sellers, which attracts more buyers), social networks (your friends are already there), and payment systems (merchants accept the card almost everyone carries).\n\nThis is why early leads in networked markets tend to compound rather than fade: a slightly better rival often cannot catch up, because joining the smaller network means joining the smaller network. It is also why many networked businesses lose money early on purpose — they are buying growth now to make the network valuable enough that it starts to defend itself later, without needing constant subsidy.",
+        "deep": "## The basic mechanism\nMost products get their value from their own features: a better engine, a sharper screen, a faster chip. A networked product gets part of its value from other users — the product stays the same, but it becomes more useful as the user base grows. Economists call this a positive externality: each new user makes the product slightly better for everyone already on it, without the company having to do anything.\n\n## A worked example: the ride-hailing app\nImagine two ride-hailing startups launch in the same city on the same day — Fastcar and Speedy. Fastcar's app is a little buggier and its prices a little worse, but a marketing push gets it 60% of the city's drivers in month one, against 40% for Speedy.\n\nRiders want whichever app has the shortest wait, and wait time depends on how many drivers are nearby. Fastcar's larger driver supply means faster pickups, which attracts more riders, which means more trips per driver and better driver pay — so some of Speedy's drivers switch over to Fastcar too. Within a year Fastcar has 85% of drivers and Speedy is struggling to raise its next round, even though neither app's underlying technology changed much. The market tipped because Fastcar's network crossed a threshold where it started reinforcing itself, not because its code was better.\n\n## Why it matters for strategy\nThis is why networked businesses are often willing to lose money for years: the goal is to reach the size where the network itself becomes the moat, after which growth gets cheaper and a challenger needs far more than a better product to dislodge the leader.\n\n## The limits\nNetwork effects are not unlimited or automatic. Congestion can make a network less valuable past a point (a crowded app, a packed social feed). \"Multi-homing\" — users easily running two apps at once, as many riders do with ride-hailing — weakens the lock-in, because the smaller network never fully dies. And a genuinely superior product can still displace an incumbent if switching costs are low enough, which is why most real markets land somewhere between pure winner-take-all and ordinary competition."
+      },
+      "he": {
+        "headline": "אפקט הרשת (Network Effects)",
+        "scroll": "מוצר נהיה יקר ערך יותר לכל משתמש ככל שיותר אנשים משתמשים בו - ולכן מנצחים בשווקים רשתיים מנצחים בגדול.",
+        "coffee": "אפקט הרשת מתאר מוצר או פלטפורמה שהופכים ליקרי ערך יותר ככל שיותר אנשים משתמשים בהם - לא בגלל שהמוצר עצמו השתפר, אלא בגלל שיש יותר אנשים אחרים שנמצאים בו. טלפון חסר תועלת אם אתה הבעלים היחיד שלו; הוא הופך הכרחי כשלכולם יש אחד. אותה לוגיקה מניעה זירות מסחר (יותר קונים מושכים יותר מוכרים, שמושכים יותר קונים), רשתות חברתיות (החברים שלך כבר שם), ומערכות תשלום (בתי עסק מקבלים את הכרטיס שכולם מחזיקים).\n\nזו הסיבה שיתרון מוקדם בשווקים רשתיים נוטה להצטבר ולא לדהות: מתחרה קצת יותר טוב לרוב לא מצליח להשיג את המוביל, כי להצטרף לרשת הקטנה יותר אומר להצטרף לרשת הקטנה יותר. זו גם הסיבה שהרבה עסקים רשתיים מפסידים כסף בכוונה בתחילת הדרך - הם 'קונים' צמיחה עכשיו כדי שהרשת תהפוך ליקרת ערך מספיק שתתחיל להגן על עצמה בעתיד, בלי צורך בסובסידיה מתמדת.",
+        "deep": "## המנגנון הבסיסי\nרוב המוצרים מקבלים את הערך שלהם מהתכונות שלהם: מנוע טוב יותר, מסך חדיש יותר, שבב מהיר יותר. מוצר רשתי מקבל חלק מהערך שלו ממשתמשים אחרים - המוצר עצמו נשאר אותו דבר, אבל הוא הופך לשימושי יותר ככל שבסיס המשתמשים גדל. כלכלנים מכנים את זה אקסטרנליה חיובית: כל משתמש חדש משפר במקצת את המוצר לכל מי שכבר נמצא בו, בלי שהחברה צריכה לעשות דבר.\n\n## דוגמה מעשית: אפליקציית הזמנת נסיעות\nנניח ששתי סטארט-אפים להזמנת נסיעות משיקות באותה עיר באותו יום - Fastcar ו-Speedy. האפליקציה של Fastcar קצת יותר באגית והמחירים שלה קצת יותר גרועים, אבל מאמץ שיווקי מביא לה 60% מהנהגים בעיר בחודש הראשון, לעומת 40% ל-Speedy.\n\nנוסעים רוצים את האפליקציה עם זמן ההמתנה הקצר ביותר, וזמן ההמתנה תלוי בכמה נהגים נמצאים בקרבת מקום. היצע הנהגים הגדול יותר של Fastcar מביא לאיסופים מהירים יותר, שמושכים יותר נוסעים, שמובילים ליותר נסיעות לכל נהג ולשכר טוב יותר לנהגים - כך שחלק מנהגי Speedy עוברים גם הם ל-Fastcar. בתוך שנה ל-Fastcar יש 85% מהנהגים ו-Speedy נאבקת לגייס את הסבב הבא, אף שהטכנולוגיה הבסיסית של שתי האפליקציות לא השתנתה הרבה. השוק 'נפל' לכיוון אחד כי הרשת של Fastcar חצתה סף שבו היא התחילה לחזק את עצמה, לא כי הקוד שלה היה טוב יותר.\n\n## למה זה חשוב לאסטרטגיה\nזו הסיבה שעסקים רשתיים לרוב מוכנים להפסיד כסף שנים: המטרה היא להגיע לגודל שבו הרשת עצמה הופכת לחפיר (moat), ואחריו הצמיחה נהיית זולה יותר ומתחרה צריך הרבה יותר ממוצר טוב יותר כדי להדיח את המוביל.\n\n## הגבולות\nאפקט הרשת אינו בלתי מוגבל או אוטומטי. גודש יכול להפוך רשת ליקרת ערך פחות מעבר לנקודה מסוימת (אפליקציה עמוסה, פיד חברתי דחוס). \"מולטי-הומינג\" (multi-homing) - משתמשים שמריצים בקלות שתי אפליקציות במקביל, כמו שרבים עושים בהזמנת נסיעות - מחליש את הנעילה, כי הרשת הקטנה יותר לעולם לא נכחדת לחלוטין. ומוצר שעולה באמת על המתחרים יכול עדיין להדיח שחקן מוביל אם עלויות המעבר נמוכות מספיק, וזו הסיבה שרוב השווקים האמיתיים נמצאים איפשהו בין 'המנצח לוקח הכול' לבין תחרות רגילה."
+      },
+      "tags": [
+        "concept",
+        "network-effects",
+        "economics",
+        "platforms"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-xi-jinping-2012",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2012: Xi Jinping Becomes China's Paramount Leader",
+        "scroll": "In 2012 Xi Jinping succeeded Hu Jintao as General Secretary of the Chinese Communist Party, becoming China's paramount leader — a position he still holds today.",
+        "coffee": "On this day in 2012, Xi Jinping replaced Hu Jintao as General Secretary of the Chinese Communist Party, the post that makes its holder China's paramount leader. He added the presidency the following year and has held both roles — along with the chairmanship of the Central Military Commission, giving him command of the armed forces — ever since.\n\nThe handover mattered because it ended a period of collective, consensus-driven leadership that had defined the party since Deng Xiaoping, and replaced it with a far more centralized style of rule. Xi used the years that followed to concentrate power through anti-corruption campaigns that also sidelined rivals, removed the term limits that would have forced him out after two terms, and pushed China toward a more assertive foreign policy.\n\nFourteen years on, his tenure is the throughline behind many of today's biggest geopolitical stories — from tensions over Taiwan to the dynamics now shaping any Trump-Xi-Putin summit.",
+        "deep": "## Background\nChina's post-Mao system was built, deliberately, to prevent another single all-powerful leader like Mao Zedong. Deng Xiaoping engineered a model of collective leadership, term limits, and orderly succession between generations of leaders — Deng, then Jiang Zemin, then Hu Jintao — each handing power to a successor chosen partly through internal party consensus.\n\n## The handover\nOn 15 November 2012, at the close of the 18th Communist Party Congress, Xi Jinping was named General Secretary, the party's top post, succeeding Hu Jintao. He became president of China the following March, completing the formal transition. Within that first term, Xi also took the chairmanship of the Central Military Commission immediately — faster than his predecessor — signaling he intended to consolidate control quickly rather than share it.\n\n## What Xi did with the role\nXi's anti-corruption campaign, launched almost immediately, disciplined hundreds of thousands of officials; it was broadly popular but also removed potential rivals from his path. In 2018, China's legislature abolished the two-term limit on the presidency that Deng's system had established, clearing the way for Xi to remain in power indefinitely — a reversal of one of the post-Mao system's core safeguards.\n\n## Why it still matters\nXi's consolidation of power reshaped how China is governed and how it behaves abroad: a more centralized state pursuing a more assertive foreign policy on trade, technology and territorial claims, including over Taiwan. Understanding that 2012 handover is a starting point for most of today's China-related headlines — from AI competition with the US, to the dollar's role in a more contested global economy, to the possibility of a Trump-Xi-Putin summit discussed this week. The paramount leader who took over that day is still, fourteen years later, the central figure in nearly every story about China's role in the world."
+      },
+      "he": {
+        "headline": "2012: שי ג'ינפינג הופך למנהיג הבכיר של סין",
+        "scroll": "ב-2012 שי ג'ינפינג החליף את הו ג'ינטאו כמזכיר הכללי של המפלגה הקומוניסטית הסינית, והפך למנהיג הבכיר של סין - תפקיד שהוא מחזיק בו עד היום.",
+        "coffee": "ביום הזה ב-2012 שי ג'ינפינג החליף את הו ג'ינטאו בתפקיד המזכיר הכללי של המפלגה הקומוניסטית הסינית, התפקיד שמעניק לבעליו את מעמד המנהיג הבכיר של סין. בשנה שאחרי הוא הוסיף לכך את נשיאות המדינה, ומאז הוא מחזיק בשני התפקידים - וגם בראשות הוועדה הצבאית המרכזית, שמעניקה לו פיקוד על הכוחות המזוינים.\n\nההחלפה הייתה משמעותית כי היא סתמה את תקופת המנהיגות הקולקטיבית וההחלטות בהסכמה שאפיינה את המפלגה מאז דנג שיאופינג, והחליפה אותה בסגנון שלטון הרבה יותר ריכוזי. בשנים שאחרי ניצל שי את מסעות המלחמה בשחיתות גם כדי לדחוק יריבים פוליטיים, ביטל את הגבלת הכהונה שהייתה מחייבת אותו לפרוש אחרי שתי קדנציות, והוביל את סין למדיניות חוץ תקיפה יותר.\n\nארבע עשרה שנים אחר כך, כהונתו היא קו העל שמחבר רבים מהסיפורים הגיאופוליטיים הגדולים של היום - ממתחי טאיוואן ועד הדינמיקה שמעצבת כל פסגת טראמפ-שי-פוטין אפשרית.",
+        "deep": "## רקע\nהמערכת הסינית שלאחר מאו נבנתה, במתכוון, כדי למנוע הופעה של מנהיג כל-יכול נוסף כמו מאו דזה-דונג. דנג שיאופינג בנה מודל של מנהיגות קולקטיבית, הגבלת כהונה, ומעבר שלטון מסודר בין דורות מנהיגים - דנג, ואז ג'יאנג דזה-מין, ואז הו ג'ינטאו - כל אחד מעביר את השלטון ליורש שנבחר בחלקו בהסכמה פנים-מפלגתית.\n\n## ההחלפה\nב-15 בנובמבר 2012, בסיום הקונגרס ה-18 של המפלגה הקומוניסטית, שי ג'ינפינג הוכרז כמזכיר הכללי, התפקיד הבכיר ביותר במפלגה, והחליף את הו ג'ינטאו. הוא הפך לנשיא סין במרץ שלאחר מכן, והשלים את המעבר הפורמלי. עוד בקדנציה הראשונה שלו, שי גם קיבל את ראשות הוועדה הצבאית המרכזית באופן מיידי - מהר יותר מקודמו - מה שסימן שהוא מתכוון לרכז שליטה במהירות ולא לחלוק אותה.\n\n## מה שי עשה עם התפקיד\nמסע המלחמה בשחיתות שלו, שהושק כמעט באופן מיידי, העמיד לדין מאות אלפי פקידים; הוא היה פופולרי באופן נרחב, אך גם הרחיק יריבים פוטנציאליים מדרכו. ב-2018 בטל בית המחוקקים הסיני את הגבלת שתי הקדנציות על הנשיאות שהמערכת של דנג קבעה, ופתח את הדרך לכך ששי יישאר בשלטון ללא הגבלת זמן - היפוך של אחד מעוגני הביטחון המרכזיים של המערכת שלאחר מאו.\n\n## למה זה עדיין חשוב\nריכוז הכוח של שי שינה את אופן השלטון בסין ואת התנהגותה בחוץ: מדינה ריכוזית יותר שמנהלת מדיניות חוץ תקיפה יותר בנושאי סחר, טכנולוגיה ותביעות טריטוריאליות, כולל על טאיוואן. ההחלפה הזו ב-2012 היא נקודת פתיחה טובה להבנת רוב הכותרות הקשורות לסין היום - מהתחרות על בינה מלאכותית עם ארה\"ב, ועד תפקידו של הדולר בכלכלה עולמית שסוערת יותר, ועד האפשרות לפסגת טראמפ-שי-פוטין שנדונה השבוע. המנהיג הבכיר שעלה לתפקיד באותו יום הוא עדיין, ארבע עשרה שנה אחר כך, הדמות המרכזית בכל סיפור על מקומה של סין בעולם."
+      },
+      "tags": [
+        "china",
+        "on-this-day",
+        "geopolitics"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2012: Xi Jinping replaced Hu Jintao as General Secretary of the Chinese Communist Party, succeeding as the paramount leader of China.",
+          "url": "https://en.wikipedia.org/wiki/Xi_Jinping"
+        }
+      ]
+    }
+  ]
+}
