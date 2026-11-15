@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -121,8 +121,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "lesswrong_curated#0",
      "title": "Scattered thoughts on how doing math feels these days",
      "published": "2026-11-13T01:10:37+00:00",
-     "summary": "This is a weird moment. I have a hunch that we'll look back later and tell ourselves stories in which it seemed obvious where things were going. So I wanted to lay down a little time capsule and register just how confusing everything felt at the time. This is a personal view from the trenches. 1. If you're a normal person, you may feel that AI has been good at math for a long time. [1] But for \"re",
-     "full_text_file": "essays/lesswrong_curated_0.txt"
+     "summary": "This is a weird moment. I have a hunch that we'll look back later and tell ourselves stories in which it seemed obvious where things were going. So I wanted to lay down a little time capsule and register just how confusing everything felt at the time. This is a personal view from the trenches. 1. If you're a normal person, you may feel that AI has been good at math for a long time. [1] But for \"re"
     },
     {
      "ref": "lesswrong_curated#1",
@@ -150,93 +149,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Saturday assorted links",
+     "published": "2026-11-14T17:09:27+00:00",
+     "summary": "1. Madrid vs. Catalonia. 2. Stephen Kovacevich, RIP (NYT). Brahms and the Diabellis stand among his towering pianistic achievements. He was one of my favorite pianists. 3. Queen at Sea is an excellent movie, though hard to watch due to the dementia theme. Impossible to review without spoilers. 4. Claude revises the notebooks of Gödel. […] The post Saturday assorted links appeared first on Marginal"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Privatize Air Traffic Control, Redux",
+     "published": "2026-11-14T12:16:03+00:00",
+     "summary": "Yesterday the FAA grounded every domestic departure in the United States for more than four hours. Such groundings appear to be happening more often. The last nationwide grounding was in 2023, and regional ones have hit Newark, Dallas, and the entire Northeast in the past two years. My post from October of 2025 (below) was […] The post Privatize Air Traffic Control, Redux appeared first on Margina"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "People like their jobs, even British people",
      "published": "2026-11-14T06:54:06+00:00",
      "summary": "This paper investigates the role of work in providing meaning, purpose, community, and other non-monetary benefits. Using an original cross-national survey of 8,234 working-age adults across the UK, US, Denmark, and India, I study the factors that motivate people in their work, with an eye toward the future AI economic transformation. I find that 81% […] The post People like their jobs, even Briti"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "The Power and Roots of Aspirations",
      "published": "2026-11-14T06:01:15+00:00",
      "summary": "Aspirations have become a common theme in empirical economics studies but there is no unified understanding of the range of outcomes they influence, the factors that shape them, and how to measure them. We survey this growing literature. We argue that there is compelling evidence to consider aspirations as a useful lens to analyze human […] The post The Power and Roots of Aspirations appeared firs"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Are we witnessing an intelligence explosion?",
      "published": "2026-11-13T18:39:00+00:00",
      "summary": "From Luis Garicano and Alex Imas: Hence AI capabilities improved 1.91 times faster after October 2025, but R&D spending grew 6.19 times and the technical workforce 3.10 times. So measured capability gains per dollar fell by approximately 69%, and measured gains per technical employee-year decreased by 38%. These figures are accounting; nothing causal can be […] The post Are we witnessing an intell"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Friday assorted links",
      "published": "2026-11-13T16:28:33+00:00",
      "summary": "1. Peru cancels the Moche sculptures for obscenity? 2. Claude translates from The Kalevela. 3. David Chalmers on AI speed-ups. 4. Cass Sunstein picks Bob Dylan’s best songs. 5. “Hobby dogging”? 6. Argentina worries and updates. 7. Jon Hartley podcast with James Heckman. 8. The world without Jensen? Good piece. The post Friday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "The Economics of Rent Controls",
      "published": "2026-11-13T12:18:11+00:00",
      "summary": "I appear on Ryan Bourne’s excellent new podcast, The Economics of It. We discuss The Economics of Rent Controls drawing on my essay, Rent Control: The Ceiling Trap. It’s a very good discussion. Here’s one bit (edited slightly to remove some ums for reading and to fix a date I got wrong from memory): RB: […] The post The Economics of Rent Controls appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Outlook email is still down",
      "published": "2026-11-13T11:46:39+00:00",
      "summary": "And GMU is on the Outlook system. If you need to reach me, you can extrapolate my gmu address to my gmail address, or try Twitter, or use your imagination in other ways. Sorry for the inconvenience! (Although it seems my Outlook system just opened up, albeit with an incomplete email delivery so far!?) The post Outlook email is still down appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "The U.S. Federal AI Observatory",
      "published": "2026-11-13T08:32:05+00:00",
      "summary": "Federal AI at a glance 41 agencies · 3,611 reported use cases · OMB 2025 Inventory. Portfolio size reflects reporting, not performance. From Irakli Petriashvili of Tblisi, here is the site. The post The U.S. Federal AI Observatory appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Do not overrate zero-sum status-seeking",
      "published": "2026-11-13T05:48:25+00:00",
      "summary": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or upper-class status in poor countries would try to get to the West. Obviously, what we […] The post Do not overrate zero-sum status-seeking appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "My Barcelona talk on AI",
      "published": "2026-11-12T18:47:51+00:00",
      "summary": "The post My Barcelona talk on AI appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Thursday assorted links",
      "published": "2026-11-12T17:21:52+00:00",
      "summary": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French person believes there are 6.4 workers for every retiree. The real number is about 1.8.” 4. Sulfuric acid as a basic […] The post Thursday assorted links appeared first on Marginal R"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "The Everywhere Rent Seekers",
      "published": "2026-11-12T12:18:57+00:00",
      "summary": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention given to (some days) trillionaires and billionaires, the combined wealth of the Everywhere Millionaires, the dentists, the car dealers, the […] The post The Everywhere Rent Seekers a"
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "USG assets are worth less than Arnold Kling had thought",
      "published": "2026-11-12T08:01:35+00:00",
      "summary": "Federal oil and gas rights are worth about $625 billion on the paper’s own method, down 75% in real terms since 1981. Federal land has gone the other way, to roughly $1.1 trillion to $1.6 trillion. Land, not minerals, is now the larger asset. Here is the full post. The post USG assets are worth less than Arnold Kling had thought appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#14",
      "title": "My excellent Conversation with Terence Tao",
      "published": "2026-11-12T05:44:38+00:00",
      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s incompleteness theorem, before moving into why mathematical history gets stripped out of classrooms, whether abstract math is a lottery ticket or […] The post My excellent Conversation"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Richard Posner, RIP…",
-     "published": "2026-11-11T22:57:43+00:00",
-     "summary": "One of the greats. The post Richard Posner, RIP… appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Experimentally validated digital twins",
-     "published": "2026-11-11T19:12:56+00:00",
-     "summary": "There is a new paper by Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter, and James Reisinger: Modern program evaluation prioritizes evidence from randomized controlled trials (RCTs) because prior research found that observational estimates of program impacts often diverge substantially from experimental benchmarks. We revisit this finding — which was based on […] The post Exp"
     }
    ]
   },
@@ -260,15 +259,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#2",
-     "title": "Eye on the mark",
-     "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
-    },
-    {
-     "ref": "psyche#3",
      "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
+    },
+    {
+     "ref": "psyche#3",
+     "title": "Eye on the mark",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
     },
     {
      "ref": "psyche#4",
@@ -302,15 +301,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#9",
-     "title": "How to take notes that actually help you learn",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
-    },
-    {
-     "ref": "psyche#10",
      "title": "Who am I if I don’t run?",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
+    },
+    {
+     "ref": "psyche#10",
+     "title": "How to take notes that actually help you learn",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     },
     {
      "ref": "psyche#11",
@@ -376,6 +375,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "A Mathematician's Log of What AI Actually Changes About Doing Math",
   "Why Smart People Fall for Psychics: A Case for Empathy Over Contempt",
   "The Hidden Cost of 'Patient Influencers': How Watching Others' Symptoms Online Can Give You Them",
   "Before DNA, Life May Have Needed a Bubble",
@@ -404,8 +404,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "AI Benchmarks Have Always Been Broken — That's Not Why They're in Crisis Now",
   "Roman Masculinity Was an Anxious Performance, Not a Golden Age of Domination",
   "AI Benchmarks Have Been Broken Since 1959 — and Progress Happened Anyway",
-  "Why 'Just Try Harder' Misunderstands Motivation — It's a Hidden Cost-Benefit Calculation, Not a Fuel Tank",
-  "The Cat-Belling Problem: Why Ambitious Plans Fail at the One Step Nobody Can Do"
+  "Why 'Just Try Harder' Misunderstands Motivation — It's a Hidden Cost-Benefit Calculation, Not a Fuel Tank"
  ]
 }
 </input>

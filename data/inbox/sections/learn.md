@@ -24,126 +24,113 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2010,
-   "text": "Red Bull Racing's Sebastian Vettel won the Drivers' Championship after winning the final race of the season, becoming the youngest Formula One champion.",
+   "year": 2012,
+   "text": "Xi Jinping replaced Hu Jintao as General Secretary of the Chinese Communist Party, succeeding as the paramount leader of China.",
    "context": [
-    "Red Bull Racing Limited, currently competing as Oracle Red Bull Racing and also known simply as Red Bull or RBR, is a Formula One racing team, competing under an Austrian racing licence and based in England. It is one of two Formula One teams owned by conglomerate Red Bull GmbH, the other being Racing Bulls. The Red Bull Racing team was managed by Christian Horner from its formation in 2005 until 2025, when he departed the team and was replaced by Laurent Mekies."
+    "Xi Jinping is a Chinese politician who is the paramount leader of China. He has served as the general secretary of the Chinese Communist Party (CCP) and chairman of the Party Central Military Commission (CMC) since 2012, and as the president of China and chairman of the State Central Military Commission since 2013."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2003,
-   "text": "Astronomers Michael E. Brown, Chad Trujillo, and David L. Rabinowitz discovered the trans-Neptunian object Sedna.",
+   "year": 2000,
+   "text": "Edoardo Agnelli, son of the industrialist patriarch Gianni Agnelli, was found dead under a bridge on the outskirts of Turin, Italy.",
    "context": [
-    "Michael E. Brown is an American astronomer, who has been professor of planetary astronomy at the California Institute of Technology (Caltech) since 2003. His team has discovered many trans-Neptunian objects (TNOs), including the dwarf planet Eris, which was originally thought to be bigger than Pluto, triggering a debate on the definition of a planet."
+    "Edoardo Agnelli, also known as Mahdi Agnelli, was the eldest child and only son of Gianni Agnelli, the industrialist patriarch of Fiat S.p.A., and of Marella Agnelli, who was born Donna Marella Caracciolo di Castagneto. He converted to Islam when he was living in New York City, and changed his name; he ultimately converted to Shia Islam in the 90s. In mid-November 2000, he was found dead under a bridge on the outskirts of Turin."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1995,
-   "text": "As a result of budget conflicts between President Bill Clinton and the United States Congress led by Newt Gingrich, the federal government was forced to shut down non-essential services.",
+   "year": 1988,
+   "text": "The Soviet spacecraft Buran (pictured), a reusable vehicle built in response to NASA's Space Shuttle program, was launched, uncrewed, on its only flight.",
    "context": [
-    "William Jefferson Clinton is an American retired politician and lawyer who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979, the governor of Arkansas from 1979 to 1981, and governor again from 1983 to 1992. His centrist Third Way political philosophy became known as Clintonism, which defined his presidency and the succeeding decades of the Democratic Party into the 21st century."
+    "Buran was the first flight orbiter to be produced as part of the Soviet/Russian Buran programme. The Buran orbiters were similar in design to the U.S. Space Shuttle. Buran completed one uncrewed spaceflight in 1988, and was destroyed in 2002 when the roof of its storage hangar collapsed at Baikonur Cosmodrome."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1992,
-   "text": "In poor conditions caused by Cyclone Forrest, Vietnam Airlines Flight 474 crashed near Nha Trang, killing 30 people.",
+   "year": 1959,
+   "text": "Two men murdered a family in Holcomb, Kansas; the events became the subject of Truman Capote's non-fiction novel In Cold Blood, a pioneering work of the true crime genre.",
    "context": [
-    "Extremely Severe Cyclonic Storm Forrest, also referred to as Tropical Storm Forrest while in the western Pacific basin before its Thai crossover, was a powerful tropical cyclone that prompted the evacuation of 600,000 people in Bangladesh in late November 1992. Originating from an area of disturbed weather near the Caroline Islands on November 9, Forrest was classified as a tropical depression three days later over the South China Sea. Tracking generally west, the system steadily organized into a tropical storm, passing Vietnam to the south, before striking Thailand along the Malay Peninsula on November 15. Once over the Bay of Bengal, Forrest turned northward on November 17 and significantly intensified. It reached its peak intensity on November 20 as a Category 4-equivalent cyclone on the Saffir–Simpson hurricane scale with winds of 230 km/h (140 mph). Hostile environmental conditions soon affected the cyclone as it turned abruptly east-northeastward. Forrest made landfall in northwestern Myanmar as a weakening system on November 21 before dissipating early the next day."
+    "In the early morning of November 15, 1959, four members of the Clutter family – Herb Clutter, his wife, Bonnie, and their teenage children Nancy and Kenyon – were murdered in their rural home just outside the small farming community of Holcomb, Kansas, United States. Two ex-convicts, Perry Smith and Richard Hickock, were found guilty of the murders and sentenced to death. They were both executed on April 14, 1965. The murders were detailed by Truman Capote in his 1966 non-fiction novel In Cold Blood."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1991,
-   "text": "Croatian War of Independence: Croatian naval commandos attacked the Yugoslav patrol boat Mukos, starting the Battle of the Dalmatian Channels.",
+   "year": 1943,
+   "text": "The Holocaust: In the Romani Holocaust, Nazi official Heinrich Himmler ordered that the Romani were to be put \"on the same level as Jews and placed in concentration camps\".",
    "context": [
-    "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992."
+    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1990,
-   "text": "Music producer Frank Farian admitted that the German R&B duo Milli Vanilli did not sing the vocals on their album Girl You Know It's True.",
+   "year": 1922,
+   "text": "Fountain of Time, in Chicago's Washington Park, was dedicated as a tribute to 100 years of peace between the United States and Great Britain following the Treaty of Ghent.",
    "context": [
-    "Franz Reuther, known professionally as Frank Farian, was a German record producer and singer who founded the 1970s disco-pop group Boney M., and the pop bands No Mercy and Milli Vanilli. He frequently created vocal groups in which the publicised members merely lip-synced to songs sung by himself and/or session performers. Farian owned the record label MCI and several subsidiaries."
+    "Fountain of Time, or simply Time, is a sculpture by Lorado Taft, measuring 126 feet 10 inches (38.66 m) in length, situated at the western edge of the Midway Plaisance within Washington Park in Chicago, Illinois, in the United States. The sculpture is inspired by Henry Austin Dobson's poem \"Paradox of Time\". Its 100 figures passing before Father Time were created as a monument to the 100 years of peace between the United States and the United Kingdom following the Treaty of Ghent in 1814. Father Time faces the 100 from across a water basin. The fountain's water was turned on in 1920, and the sculpture was dedicated in 1922. It is a contributing structure to the Washington Park United States Registered Historic District, which is a National Register of Historic Places listing."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1970,
-   "text": "Southern Airways Flight 932, chartered by the Marshall University football team, crashed into a hill near Ceredo, West Virginia, killing all 75 people on board.",
+   "year": 1922,
+   "text": "During a general strike in Guayaquil, Ecuador, police and military fired into a crowd, killing at least 300 people.",
    "context": [
-    "Southern Airways Flight 932 was a chartered Southern Airways twin engine McDonnell Douglas DC-9-30 domestic United States commercial jet flight from Stallings Field (ISO) in Kinston, North Carolina, to Huntington Tri-State Airport/Milton J. Ferguson Field (HTS) near Kenova and Ceredo, West Virginia. At 7:36 pm on November 14, 1970, the aircraft crashed into a hill just short of the Tri-State Airport, killing all 75 people on board – 37 members of the Marshall University football team, 5 coaches, 7 staff members, 21 boosters, 2 pilots, 2 flight attendants, and a charter coordinator. The team was returning home after a 17–14 loss to the East Carolina Pirates at Ficklen Stadium in Greenville, North Carolina. The accident is the deadliest tragedy for any sports team in US history."
+    "The 1922 Guayaquil general strike was a three-day general work stoppage in the city of Guayaquil, Ecuador, which lasted from 13 to 15 November of that year. The strike began with trolley, electric company and other public utility workers who were inspired by a successful strike by railroad workers in nearby Durán. Workers made demands such as pay increases, shorter hours, safer working conditions, and government control of foreign currency exchange rates."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1969,
-   "text": "Apollo 12 launched from the Kennedy Space Center, later becoming the second crewed flight to land on the Moon.",
+   "year": 1908,
+   "text": "After numerous atrocities in the territory, the Congo Free State was annexed to Belgium to form the Belgian Congo.",
    "context": [
-    "Apollo 12 was the sixth crewed flight in the United States Apollo program and the second to land on the Moon. It was launched on November 14, 1969, by NASA from the Kennedy Space Center in Florida, landing on the part of the Moon called the Ocean of Storms on November 19, 1969. Commander Charles \"Pete\" Conrad and Lunar Module Pilot Alan L. Bean completed just over one day and seven hours of lunar surface activity while Command Module Pilot Richard F. Gordon remained in lunar orbit."
+    "From 1885 to 1908, many atrocities were committed in the Congo Free State under the absolute rule of King Leopold II of Belgium. These atrocities were particularly associated with the labour policies, enforced by colonial administrators, used to collect natural rubber for export. Combined with epidemic disease, famine, mass population displacement, and falling birth rates caused by these disruptions, the atrocities contributed to a sharp decline in the Congolese population. These atrocities have sometimes been described as a genocide, though this characterization is disputed. Modern estimates of the magnitude of the population decline ranges from 1.2 million to 10 million people."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1967,
-   "text": "American physicist Theodore Maiman was given a patent for his ruby laser systems, the world's first laser.",
+   "year": 1889,
+   "text": "Brazilian emperor Pedro II was overthrown in a coup led by Deodoro da Fonseca (pictured), while the country was proclaimed a republic.",
    "context": [
-    "Theodore Harold Maiman was an American engineer and physicist who is widely credited with the invention of the laser. Maiman's laser led to the subsequent development of many other types of lasers. The laser was successfully fired on May 16, 1960. In a July 7, 1960, press conference in Manhattan, Maiman and his employer, Hughes Aircraft Company, announced the laser to the world. Maiman was granted a patent for his invention, and he received many awards and honors for his work. His experiences in developing the first laser and subsequent related events are recounted in his book, The Laser Odyssey, later being republished in 2018 under a new title, The Laser Inventor: Memoirs of Theodore H. Maiman."
+    "Dom Pedro II, known as \"the Magnanimous\", was the second and final emperor of the Empire of Brazil. He reigned from 1831 until his deposition in the military coup of 1889, presiding over the longest and most stable reign in Brazilian history."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1960,
-   "text": "Ruby Bridges and the McDonogh Three became the first black children to attend an all-white elementary school in Louisiana as part of the New Orleans school desegregation crisis.",
+   "year": 1864,
+   "text": "American Civil War: Union army general William Tecumseh Sherman (pictured) began his March to the Sea, inflicting significant damage to property and infrastructure using scorched-earth tactics on his way from Atlanta to Savannah, Georgia.",
    "context": [
-    "Ruby Nell Bridges Hall is an American civil rights activist. She was the first African American child to attend formerly whites-only William Frantz Elementary School in Louisiana during the New Orleans school desegregation crisis on November 14, 1960. She is the subject of a 1964 painting, The Problem We All Live With, by Norman Rockwell."
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1941,
-   "text": "World War II: German troops, aided by local auxiliaries, murdered nine thousand residents of the Słonim Ghetto in a single day.",
+   "year": 1859,
+   "text": "Sponsored by Greek businessman Evangelos Zappas, the first modern revival of the Olympic Games took place in Athens.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "Evangelos or Evangelis Zappas was a Greek philanthropist and businessman who is recognized today as one of the founders of the modern Olympic Games, which were held in 1859, 1870, 1875, and 1888 and preceded the Olympic Games that came under the auspices of the International Olympic Committee. These Games, known at the time simply as Olympics, came before the founding of the International Olympic Committee itself. The legacy of Zappas, as well as the legacy of his cousin Konstantinos, was also used to fund the Olympic Games of 1896."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1941,
-   "text": "Second World War: After suffering torpedo damage the previous day, the British aircraft carrier HMS Ark Royal sank as she was being towed to Gibraltar for repairs.",
+   "year": 1760,
+   "text": "The chapel of the newly constructed Castellania in Valletta, Malta, was consecrated.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Castellania, also known as the Castellania Palace, is a former courthouse and prison in Valletta, Malta that currently houses the country's health ministry. It was built by the Order of St. John between 1757 and 1760, on the site of an earlier courthouse which had been built in 1572."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1910,
-   "text": "Aviator Eugene Burton Ely performed the first takeoff from a ship (pictured), flying from a makeshift deck on USS Birmingham in Hampton Roads, Virginia.",
+   "year": 655,
+   "text": "Penda of Mercia and Æthelhere of East Anglia were defeated by Oswiu of Northumbria at the Battle of the Winwaed in Yorkshire, England.",
    "context": [
-    "Eugene Burton Ely was an American aviation pioneer, credited with the first shipboard aircraft takeoff and landing."
-   ]
-  },
-  {
-   "ref": "wikipedia#13",
-   "year": 1851,
-   "text": "Moby-Dick, a novel by American writer Herman Melville (pictured), was first published in the United States.",
-   "context": [
-    "Moby-Dick; or, The Whale is an 1851 epic novel by American writer Herman Melville. The book centers on the sailor Ishmael's narrative of the maniacal quest of Ahab, captain of the whaling ship Pequod, for vengeance against Moby Dick, the giant white sperm whale that bit off his leg on the ship's previous voyage. A contribution to the literature of the American Renaissance, Moby-Dick was published to mixed reviews, was a commercial failure, and was out of print at the time of the author's death in 1891. Its reputation as a Great American Novel was established only in the 20th century, after the 1919 centennial of its author's birth. William Faulkner said he wished he had written the book himself, and D. H. Lawrence called it \"one of the strangest and most wonderful books in the world\" and \"the greatest book of the sea ever written\". Its opening sentence, \"Call me Ishmael\", is among world literature's most famous."
-   ]
-  },
-  {
-   "ref": "wikipedia#14",
-   "year": 1680,
-   "text": "German astronomer Gottfried Kirch discovered the Great Comet of 1680, the first comet to be discovered by telescope.",
-   "context": [
-    "Gottfried Kirch was a German astronomer and the first \"Astronomer Royal\" in Berlin and, as such, director of the nascent Berlin Observatory."
+    "Penda was a 7th-century king of Mercia, the Anglo-Saxon kingdom in what is today the Midlands. A pagan at a time when Christianity was taking hold in many of the Anglo-Saxon kingdoms, Penda took over the Severn Valley in 628 following the Battle of Cirencester before participating in the defeat of the powerful Northumbrian king Edwin at the Battle of Hatfield Chase in 633."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Economic moat (חפיר כלכלי)",
+  "First-mover advantage (יתרון הנע הראשון)",
+  "Boil the frog (לבשל את הצפרדע)",
   "Loss leader (מוצר מכירת הפסד)",
   "Earnout (תשלום מותנה בתוצאות)",
   "Move the goalposts (להזיז את קווי השער)",
@@ -230,10 +217,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Too big to fail (גדול מכדי להיכשל)",
   "Junk bond (אג\"ח זבל)",
   "Debt maturity wall (קיר פירעונות)",
-  "Rob Peter to pay Paul (לקחת מפיטר כדי לשלם לפול)",
-  "Moral hazard (סיכון מוסרי)",
-  "Winner-take-all market (שוק שבו המנצח לוקח הכל)",
-  "Poison pill (גלולת רעל)"
+  "Rob Peter to pay Paul (לקחת מפיטר כדי לשלם לפול)"
  ]
 }
 </input>

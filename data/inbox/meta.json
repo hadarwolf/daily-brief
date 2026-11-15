@@ -1,6 +1,6 @@
 {
- "date": "2026-11-14",
- "prepared_at": "2026-11-14T09:57:37+00:00",
+ "date": "2026-11-15",
+ "prepared_at": "2026-11-15T03:34:08+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -12,32 +12,17 @@
  ],
  "skipped_sections": [],
  "order": [
-  "sports",
   "geopolitics",
   "israeli_politics",
   "business",
   "tech",
+  "sports",
   "ideas",
   "learn"
  ],
  "match_day": {
-  "is_match_day": true,
-  "events": [
-   {
-    "sport": "soccer",
-    "competition": "UEFA Nations League",
-    "home": "Kosovo",
-    "away": "Israel",
-    "kickoff_utc": "2026-11-14T14:00:00"
-   },
-   {
-    "sport": "nba",
-    "competition": "NBA",
-    "home": "Memphis Grizzlies",
-    "away": "Brooklyn Nets",
-    "kickoff_utc": "2026-11-15T01:00:00.000Z"
-   }
-  ]
+  "is_match_day": false,
+  "events": []
  },
  "markets": {
   "TA35": {
@@ -70,11 +55,11 @@
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 67407.3281,
+   "last": 64755.0391,
    "prev_close": 68249.2734,
-   "change_pct": -1.23,
-   "as_of": "2026-11-14"
+   "change_pct": -5.12,
+   "as_of": "2026-11-15"
   }
  },
- "essays_fetched": 4
+ "essays_fetched": 3
 }
