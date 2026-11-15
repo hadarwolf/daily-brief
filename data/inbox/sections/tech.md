@@ -196,61 +196,61 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
      "published": "2026-11-15T02:00:54+00:00",
-     "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 219 # Comments: 56"
+     "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 223 # Comments: 57"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
      "published": "2026-11-14T22:22:49+00:00",
-     "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 204 # Comments: 98"
+     "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 208 # Comments: 101"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "SpaceX catches the Starship to end Flight 15",
      "published": "2026-11-14T21:22:24+00:00",
-     "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1165 # Comments: 761"
+     "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1188 # Comments: 788"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "A family tree of software job titles",
      "published": "2026-11-14T17:45:19+00:00",
-     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 297 # Comments: 147"
+     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 302 # Comments: 151"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "published": "2026-11-14T17:43:10+00:00",
-     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 796 # Comments: 311"
+     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 801 # Comments: 314"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "published": "2026-11-14T15:40:52+00:00",
-     "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 239 # Comments: 100"
+     "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 240 # Comments: 101"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
      "published": "2026-11-14T15:04:15+00:00",
-     "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 228 # Comments: 21"
+     "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 231 # Comments: 21"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "KDE: The documentary [video]",
      "published": "2026-11-14T13:43:28+00:00",
-     "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 457 # Comments: 100"
+     "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 466 # Comments: 102"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "published": "2026-11-14T13:20:43+00:00",
-     "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 194 # Comments: 42"
+     "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 197 # Comments: 42"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
      "published": "2026-11-14T11:13:17+00:00",
-     "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 241 # Comments: 109"
+     "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 244 # Comments: 116"
     }
    ]
   },

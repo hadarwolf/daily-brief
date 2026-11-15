@@ -33,8 +33,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-14T23:30:00Z",
      "home": "Chapecoense",
      "away": "Vasco da Gama",
-     "status": "FINISHED",
-     "score": "0-2"
+     "status": "IN_PLAY",
+     "score": "0-1"
     }
    ],
    "tomorrow": []
@@ -738,69 +738,69 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#14",
+     "title": "Lionel Messi Set to Play in Argentina Again as Inter Miami Schedule River Plate Friendly - Террикон",
+     "published": "2026-11-13T20:32:00+00:00",
+     "summary": "Lionel Messi Set to Play in Argentina Again as Inter Miami Schedule River Plate Friendly Террикон"
+    },
+    {
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi is coming back to Argentina: Inter Miami to face River Plate at the Monumental in 2027 - Diario AS",
      "published": "2026-11-13T19:49:11+00:00",
      "summary": "Lionel Messi is coming back to Argentina: Inter Miami to face River Plate at the Monumental in 2027 Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "After an emotional farewell: Messi prepares to return to the Monumental stadium - Goal.com",
      "published": "2026-11-13T19:42:33+00:00",
      "summary": "After an emotional farewell: Messi prepares to return to the Monumental stadium Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Lionel Messi to Make Historic Argentina Return as Inter Miami Confirm Friendly Against River Plate - Pasión Fútbol",
      "published": "2026-11-13T19:11:14+00:00",
      "summary": "Lionel Messi to Make Historic Argentina Return as Inter Miami Confirm Friendly Against River Plate Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Messi Set to Face River Plate at the Monumental: Inter Miami Announces 2027 Friendly - Soy Futbol",
      "published": "2026-11-13T18:25:23+00:00",
      "summary": "Messi Set to Face River Plate at the Monumental: Inter Miami Announces 2027 Friendly Soy Futbol"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Messi and Inter Miami to Face River Plate at the Monumental - beIN SPORTS",
      "published": "2026-11-13T18:02:21+00:00",
      "summary": "Messi and Inter Miami to Face River Plate at the Monumental beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly - ESPN",
      "published": "2026-11-13T17:53:00+00:00",
      "summary": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly ESPN"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi returns to Argentina: Inter Miami confirm preseason friendly vs River Plate - World Soccer Talk",
      "published": "2026-11-13T17:37:05+00:00",
      "summary": "Lionel Messi returns to Argentina: Inter Miami confirm preseason friendly vs River Plate World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Messi, Inter Miami to Face River Plate in 2027 - Yahoo Sports",
      "published": "2026-11-13T16:50:00+00:00",
      "summary": "Messi, Inter Miami to Face River Plate in 2027 Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi to make return to Estadio Monumental in Buenos Aires - USA Today",
      "published": "2026-11-13T16:42:00+00:00",
      "summary": "Lionel Messi to make return to Estadio Monumental in Buenos Aires USA Today"
     },
     {
-     "ref": "gnews_inter_miami#23",
-     "title": "Messi returns to the Monumental! Inter Miami confirms they will play a friendly against River Plate in Argentina - Tribuna.com",
-     "published": "2026-11-13T15:51:46+00:00",
-     "summary": "Messi returns to the Monumental! Inter Miami confirms they will play a friendly against River Plate in Argentina Tribuna.com"
-    },
-    {
      "ref": "gnews_inter_miami#24",
-     "title": "Lionel Messi set for Argentina return in Inter Miami friendly at Estadio Monumental - The New York Times",
-     "published": "2026-11-13T15:28:09+00:00",
-     "summary": "Lionel Messi set for Argentina return in Inter Miami friendly at Estadio Monumental The New York Times"
+     "title": "Lionel Messi Wins Second Consecutive MLS Golden Boot - Yahoo Sports",
+     "published": "2026-11-13T16:26:29+00:00",
+     "summary": "Lionel Messi Wins Second Consecutive MLS Golden Boot Yahoo Sports"
     }
    ]
   },
@@ -810,153 +810,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "“It dips to $11.8 million” – Brian Windhorst explains why Deni Avdija’s contract is a steal for Portland - Basketball Network",
+     "published": "2026-11-15T09:14:17+00:00",
+     "summary": "“It dips to $11.8 million” – Brian Windhorst explains why Deni Avdija’s contract is a steal for Portland Basketball Network"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "Deni Avdija leads Portland to second straight Win Over OKC - The Jerusalem Post",
      "published": "2026-11-15T07:03:25+00:00",
      "summary": "Deni Avdija leads Portland to second straight Win Over OKC The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
      "published": "2026-11-15T04:26:47+00:00",
      "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "Damian Lillard Makes Surprising Admission About Deni Avdija - Heavy.com",
      "published": "2026-11-15T02:04:00+00:00",
      "summary": "Damian Lillard Makes Surprising Admission About Deni Avdija Heavy.com"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Damian Lillard calls Deni Avdija partnership ‘the most joyful’ of his career - Hoops Wire",
      "published": "2026-11-14T23:48:56+00:00",
      "summary": "Damian Lillard calls Deni Avdija partnership ‘the most joyful’ of his career Hoops Wire"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Damian Lillard Gets Real On His Partnership With Deni Avdija After 9-3 Start - Fadeaway World",
      "published": "2026-11-14T23:14:02+00:00",
      "summary": "Damian Lillard Gets Real On His Partnership With Deni Avdija After 9-3 Start Fadeaway World"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Damian Lillard Gets Real On His Partnership With Deni Avdija After 9-3 Start - Yahoo Sports",
      "published": "2026-11-14T23:09:33+00:00",
      "summary": "Damian Lillard Gets Real On His Partnership With Deni Avdija After 9-3 Start Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Lillard Praises Avdija, Mutual Trust in Their Partnership - Blazer's Edge",
      "published": "2026-11-14T22:18:08+00:00",
      "summary": "Lillard Praises Avdija, Mutual Trust in Their Partnership Blazer's Edge"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Highlights From Deni Avdija 34-Point Game - NBA.com",
      "published": "2026-11-14T15:20:38+00:00",
      "summary": "Highlights From Deni Avdija 34-Point Game NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Damian Lillard And Deni Avdija Are Thriving as the Trail Blazers’ Stars - Yahoo Sports",
      "published": "2026-11-14T12:25:31+00:00",
      "summary": "Damian Lillard And Deni Avdija Are Thriving as the Trail Blazers’ Stars Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Trail Blazers' Deni Avdija: Scores team-high 34 points - CBS Sports",
      "published": "2026-11-14T11:29:36+00:00",
      "summary": "Trail Blazers' Deni Avdija: Scores team-high 34 points CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija News: Scores team-high 34 points - RotoWire",
      "published": "2026-11-14T11:29:36+00:00",
      "summary": "Deni Avdija News: Scores team-high 34 points RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Deni Avdija scores 34 points as Trail Blazers beat Kings 120-107 - The Times of Israel",
      "published": "2026-11-14T07:48:46+00:00",
      "summary": "Deni Avdija scores 34 points as Trail Blazers beat Kings 120-107 The Times of Israel"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija, Damian Lillard lead Blazers past Kings - TalkBasket.net",
      "published": "2026-11-14T07:14:02+00:00",
      "summary": "Deni Avdija, Damian Lillard lead Blazers past Kings TalkBasket.net"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings - Field Level Media",
      "published": "2026-11-14T06:38:24+00:00",
      "summary": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings Field Level Media"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 - NBA.com",
      "published": "2026-11-14T06:25:51+00:00",
      "summary": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Damian Lillard is already showing Blazers what Deni Avdija was missing last season - Rip City Project",
      "published": "2026-11-14T06:25:45+00:00",
      "summary": "Damian Lillard is already showing Blazers what Deni Avdija was missing last season Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "NBA Cup: Deni Avdija Scores 34 Points as Portland Trail Blazers Beat Sacramento Kings 120-107, Extend Winning Streak to Three Games - The Sunday Guardian",
      "published": "2026-11-14T06:24:39+00:00",
      "summary": "NBA Cup: Deni Avdija Scores 34 Points as Portland Trail Blazers Beat Sacramento Kings 120-107, Extend Winning Streak to Three Games The Sunday Guardian"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026 - NBA.com",
      "published": "2026-11-14T06:08:44+00:00",
      "summary": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija scores 34, 9-of-9 from the FT line - NBC Sports",
      "published": "2026-11-14T06:01:31+00:00",
      "summary": "Deni Avdija scores 34, 9-of-9 from the FT line NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija with the and-1 bucket - ESPN",
      "published": "2026-11-14T05:57:15+00:00",
      "summary": "Deni Avdija with the and-1 bucket ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings - The Daily News | Texas' Oldest Newspaper",
      "published": "2026-11-14T05:55:02+00:00",
      "summary": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings The Daily News | Texas' Oldest Newspaper"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#22",
      "title": "NBA Cup: Trail Blazers beat Kings for third straight win - Inquirer.net",
      "published": "2026-11-14T05:55:00+00:00",
      "summary": "NBA Cup: Trail Blazers beat Kings for third straight win Inquirer.net"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija with 34 points vs. Sacramento Kings, 11/13/2026 - Yahoo Sports",
      "published": "2026-11-14T05:49:58+00:00",
      "summary": "Deni Avdija with 34 points vs. Sacramento Kings, 11/13/2026 Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#24",
      "title": "Deni Avdija finishes through contact, 11/13/2026 - Yahoo Sports",
      "published": "2026-11-14T05:49:42+00:00",
      "summary": "Deni Avdija finishes through contact, 11/13/2026 Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija with the and-1 bucket - ESPN",
-     "published": "2026-11-14T05:15:52+00:00",
-     "summary": "Deni Avdija with the and-1 bucket ESPN"
     }
    ]
   }

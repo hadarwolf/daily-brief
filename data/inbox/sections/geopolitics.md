@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Peru - AP News",
-     "published": "2026-11-15T08:53:20+00:00",
-     "summary": "Peru AP News"
+     "title": "Vladimir Putin - AP News",
+     "published": "2026-11-15T09:29:11+00:00",
+     "summary": "Vladimir Putin AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "Vladimir Putin - AP News",
-     "published": "2026-11-15T08:53:20+00:00",
-     "summary": "Vladimir Putin AP News"
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-15T09:27:14+00:00",
+     "summary": "College football | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#2",
      "title": "South America - AP News",
-     "published": "2026-11-15T08:51:11+00:00",
+     "published": "2026-11-15T09:15:08+00:00",
      "summary": "South America AP News"
     },
     {
      "ref": "ap_world#3",
+     "title": "College sports - AP News",
+     "published": "2026-11-15T09:05:10+00:00",
+     "summary": "College sports AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Minnesota - AP News",
+     "published": "2026-11-15T09:01:09+00:00",
+     "summary": "Minnesota AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "New York City - AP News",
+     "published": "2026-11-15T08:55:04+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "2026 World Cup venue map - AP News",
+     "published": "2026-11-15T08:49:06+00:00",
+     "summary": "2026 World Cup venue map AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "TIM REYNOLDS - AP News",
      "published": "2026-11-15T08:47:13+00:00",
      "summary": "TIM REYNOLDS AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Golf - AP News",
-     "published": "2026-11-15T08:47:12+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#5",
+     "ref": "ap_world#8",
      "title": "DAVE SKRETTA - AP News",
      "published": "2026-11-15T08:47:10+00:00",
      "summary": "DAVE SKRETTA AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-15T08:43:06+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
      "title": "War and unrest - AP News",
      "published": "2026-11-15T08:34:10+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "College sports - AP News",
-     "published": "2026-11-15T08:05:22+00:00",
-     "summary": "College sports AP News"
+     "ref": "ap_world#10",
+     "title": "Israel says it killed a top Hamas commander, and other Mideast news - AP News",
+     "published": "2026-11-15T08:04:00+00:00",
+     "summary": "Israel says it killed a top Hamas commander, and other Mideast news AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#11",
      "title": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony - AP News",
      "published": "2026-11-15T07:55:00+00:00",
      "summary": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#12",
      "title": "A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored - AP News",
      "published": "2026-11-15T07:43:00+00:00",
      "summary": "A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#13",
      "title": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards - AP News",
      "published": "2026-11-15T07:24:21+00:00",
      "summary": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#14",
+     "title": "Ebola outbreak remains out of control in Congo 6 months into response - AP News",
+     "published": "2026-11-15T07:23:38+00:00",
+     "summary": "Ebola outbreak remains out of control in Congo 6 months into response AP News"
+    },
+    {
+     "ref": "ap_world#15",
      "title": "Back-to-back losses knock Lane Kiffin and Kentucky out of College Football Playoff contention - AP News",
      "published": "2026-11-15T07:19:00+00:00",
      "summary": "Back-to-back losses knock Lane Kiffin and Kentucky out of College Football Playoff contention AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#16",
      "title": "Hun Manet tells summit he wants Cambodia to be a bridge between Asia and the Francophone world - AP News",
      "published": "2026-11-15T07:06:00+00:00",
      "summary": "Hun Manet tells summit he wants Cambodia to be a bridge between Asia and the Francophone world AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#17",
      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - AP News",
      "published": "2026-11-15T05:51:26+00:00",
      "summary": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#18",
      "title": "A bomb rips through a Damascus suburb killing 2 including a child - AP News",
      "published": "2026-11-15T05:33:00+00:00",
      "summary": "A bomb rips through a Damascus suburb killing 2 including a child AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#19",
+     "title": "Cape Verde could elect first woman president since gaining independence in 1975 - AP News",
+     "published": "2026-11-15T05:22:00+00:00",
+     "summary": "Cape Verde could elect first woman president since gaining independence in 1975 AP News"
+    },
+    {
+     "ref": "ap_world#20",
+     "title": "Peru - AP News",
+     "published": "2026-11-15T05:15:09+00:00",
+     "summary": "Peru AP News"
+    },
+    {
+     "ref": "ap_world#21",
+     "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda - AP News",
+     "published": "2026-11-15T05:13:00+00:00",
+     "summary": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "Pope crowns an image of the Immaculate Virgin in Chiclayo, visits northern Peruvian city of Zaña - AP News",
+     "published": "2026-11-15T05:11:00+00:00",
+     "summary": "Pope crowns an image of the Immaculate Virgin in Chiclayo, visits northern Peruvian city of Zaña AP News"
+    },
+    {
+     "ref": "ap_world#23",
      "title": "Hut! Hut! Hike! Giannis Antetokounmpo goes into football mode for a between-the-legs assist - AP News",
      "published": "2026-11-15T05:10:00+00:00",
      "summary": "Hut! Hut! Hike! Giannis Antetokounmpo goes into football mode for a between-the-legs assist AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#24",
      "title": "NATO to skip a leaders’ summit in Albania next year as high-level meetings are scaled back - AP News",
      "published": "2026-11-15T05:04:00+00:00",
      "summary": "NATO to skip a leaders’ summit in Albania next year as high-level meetings are scaled back AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them - AP News",
-     "published": "2026-11-15T05:00:00+00:00",
-     "summary": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Ole Miss defends handling of travel issues after Oklahoma AD blasts postponement - AP News",
-     "published": "2026-11-15T04:56:00+00:00",
-     "summary": "Ole Miss defends handling of travel issues after Oklahoma AD blasts postponement AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "Democrat Kreiss-Tomkins says his successful gubernatorial campaign 'covered every corner' of Alaska - AP News",
-     "published": "2026-11-15T04:08:00+00:00",
-     "summary": "Democrat Kreiss-Tomkins says his successful gubernatorial campaign 'covered every corner' of Alaska AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Bear Bachmeier runs for three TDs, throws for another to lead No. 12 BYU past Baylor, 28-7 - AP News",
-     "published": "2026-11-15T03:37:00+00:00",
-     "summary": "Bear Bachmeier runs for three TDs, throws for another to lead No. 12 BYU past Baylor, 28-7 AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Bulls overcome travel delay and injuries to beat the Timberwolves 117-106 - AP News",
-     "published": "2026-11-15T03:36:00+00:00",
-     "summary": "Bulls overcome travel delay and injuries to beat the Timberwolves 117-106 AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Sunday’s Time Schedule - AP News",
-     "published": "2026-11-15T03:29:00+00:00",
-     "summary": "Sunday’s Time Schedule AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "Australia wins the toss and chooses to bowl against England in 2nd ODI - AP News",
-     "published": "2026-11-15T03:24:00+00:00",
-     "summary": "Australia wins the toss and chooses to bowl against England in 2nd ODI AP News"
     }
    ]
   },
@@ -174,120 +174,126 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+     "published": "2026-11-15T09:26:37+00:00",
+     "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright."
+    },
+    {
+     "ref": "bbc_world#1",
      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
      "published": "2026-11-15T08:17:41+00:00",
      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#2",
      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
      "published": "2026-11-15T07:10:31+00:00",
      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
     },
     {
-     "ref": "bbc_world#2",
+     "ref": "bbc_world#3",
      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
      "published": "2026-11-15T03:21:04+00:00",
      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links."
     },
     {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#4",
      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
      "published": "2026-11-15T02:49:45+00:00",
      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
      "published": "2026-11-15T00:06:55+00:00",
      "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "Judo champion shakes up French presidential race with surprise candidacy",
      "published": "2026-11-15T00:06:51+00:00",
      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "How telecoms upgrade work sparked US flight chaos",
      "published": "2026-11-14T23:11:27+00:00",
      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "published": "2026-11-14T22:37:25+00:00",
      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#9",
      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
      "published": "2026-11-14T22:27:06+00:00",
      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#10",
      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
      "published": "2026-11-14T22:09:40+00:00",
      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
      "published": "2026-11-14T19:14:33+00:00",
      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "Italy fines Meta €805m over accessing users' photos",
      "published": "2026-11-14T18:28:06+00:00",
      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "Philippines wins first Eurovision Song Contest Asia",
      "published": "2026-11-14T18:17:58+00:00",
      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
      "published": "2026-11-14T18:00:10+00:00",
      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
      "published": "2026-11-14T15:53:55+00:00",
      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
      "published": "2026-11-14T15:42:54+00:00",
      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
      "published": "2026-11-14T10:42:20+00:00",
      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
      "published": "2026-11-14T00:03:56+00:00",
      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
      "published": "2026-11-13T23:11:51+00:00",
      "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
      "published": "2026-11-13T15:09:40+00:00",
      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
