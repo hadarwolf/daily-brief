@@ -505,153 +505,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "How promotion, relegation and knockouts work in Nations League",
+     "published": "2026-11-16T09:46:34+00:00",
+     "summary": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "More than F1 - Monza's captivating football story",
      "published": "2026-11-16T08:31:05+00:00",
      "summary": "How Serie A outfit Monza are trying to make an impact in the shadow Milan giants and fashionable Como."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "Every goal from the Women's Super League - matchweek 10",
      "published": "2026-11-16T08:30:12+00:00",
      "summary": "Watch every goal from across the Women's Super League in matchweek ten, from a brilliant free kick from West Ham's Viviane Asseyi to a stunning strike from Maya Le Tissier on her 150th Manchester United appearance."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "Burnham urges caution on scrapping 3pm TV blackout",
      "published": "2026-11-16T08:18:33+00:00",
      "summary": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "'Frick rejected Wolfsburg before joining Aberdeen' - gossip",
      "published": "2026-11-16T08:17:46+00:00",
      "summary": "Mario Frick reportedly rejected the Wolfsburg job before becoming Aberdeen's new head coach, while Celtic are said to have no plans to sell in-form Mika Baur."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
      "published": "2026-11-16T08:02:51+00:00",
      "summary": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer in League 2."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
      "published": "2026-11-16T08:00:00+00:00",
      "summary": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?"
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Vote for the best men's European striker this century",
      "published": "2026-11-16T07:59:20+00:00",
      "summary": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Homophobia on the rise in football - what is your club doing about it?",
      "published": "2026-11-16T07:26:27+00:00",
      "summary": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?"
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Is Scotland's system limiting Gannon-Doak's threat?",
      "published": "2026-11-16T07:09:40+00:00",
      "summary": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "What do Scotland do about 'scunnered' Gannon-Doak?",
      "published": "2026-11-16T07:09:40+00:00",
      "summary": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
+     "title": "Clyde ready for 'heavy metal football' as rock band sponsors club",
+     "published": "2026-11-16T06:48:40+00:00",
+     "summary": "Metalcore act Bleed From Within have also co-designed the new third kit for the Bully Wee, who now play in the band's home town of Hamilton."
+    },
+    {
+     "ref": "bbc_football#12",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-16T06:23:57+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "How did England cling on against Spain and what did Tuchel do differently?",
      "published": "2026-11-16T00:02:22+00:00",
      "summary": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?"
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
      "published": "2026-11-15T23:52:43+00:00",
      "summary": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Football Daily",
      "published": "2026-11-15T23:16:00+00:00",
      "summary": "Reaction to England’s 3-2 win over Spain in the Nations League."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Who swaggered around like he owned the place? Spain v England ratings",
      "published": "2026-11-15T22:12:55+00:00",
      "summary": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "London City earn point in thrilling draw against Arsenal",
      "published": "2026-11-15T22:06:41+00:00",
      "summary": "London City Lionesses prove their elite credentials in a thrilling draw with Arsenal at Emirates Stadium."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Man Utd target Fulham's Bassey - Monday's gossip",
      "published": "2026-11-15T20:47:44+00:00",
      "summary": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more."
     },
     {
-     "ref": "bbc_football#17",
-     "title": "London City's 'bravery' paying off in top three pursuit",
-     "published": "2026-11-15T20:03:08+00:00",
-     "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "London City's 'bravery' paying off in top three pursuit",
-     "published": "2026-11-15T20:03:08+00:00",
-     "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three."
-    },
-    {
      "ref": "bbc_football#19",
+     "title": "London City's 'bravery' paying off in top three pursuit",
+     "published": "2026-11-15T20:03:08+00:00",
+     "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three."
+    },
+    {
+     "ref": "bbc_football#20",
+     "title": "London City's 'bravery' paying off in top three pursuit",
+     "published": "2026-11-15T20:03:08+00:00",
+     "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three."
+    },
+    {
+     "ref": "bbc_football#21",
      "title": "Aston Villa beat Birmingham in WSL derby",
      "published": "2026-11-15T19:47:37+00:00",
      "summary": "Mathilde Harviken scores the only goal as Aston Villa beat Birmingham City in their first Women's Super League derby since May 2022."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Struggling Charlton make WSL history after defeat at West Ham",
      "published": "2026-11-15T19:43:57+00:00",
      "summary": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "Ronaldinho makes comeback in Ravenna win",
      "published": "2026-11-15T19:31:48+00:00",
      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
      "published": "2026-11-15T18:27:08+00:00",
      "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Aberdeen appoint Frick as head coach - who is he & what do the fans think?",
-     "published": "2026-11-15T18:27:08+00:00",
-     "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Children's tournament abandoned for parents' behaviour",
-     "published": "2026-11-15T18:24:54+00:00",
-     "summary": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee."
     }
    ]
   },
@@ -661,45 +661,45 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Inter Miami CF Names American Airlines Official Airline Partner - https://safariindia.com/",
+     "published": "2026-11-16T05:52:57+00:00",
+     "summary": "Inter Miami CF Names American Airlines Official Airline Partner https://safariindia.com/"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Alysa Liu, Lionel Messi Pull Off Major Wins Against Star-Studded Competition - Sports Illustrated",
      "published": "2026-11-16T02:30:00+00:00",
      "summary": "Alysa Liu, Lionel Messi Pull Off Major Wins Against Star-Studded Competition Sports Illustrated"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Inter Miami could listen to transfer offers for young talents as club prepares major 2027 roster changes - Pasión Fútbol",
      "published": "2026-11-15T22:00:00+00:00",
      "summary": "Inter Miami could listen to transfer offers for young talents as club prepares major 2027 roster changes Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Huddy Droubay, 5, Who Has Down Syndrome, Got a Comment From David Beckham on His Soccer Video, Then Walked Onto Inter Miami’s Field Holding Lionel Messi’s Hand - AOL.com",
      "published": "2026-11-15T19:15:00+00:00",
      "summary": "Huddy Droubay, 5, Who Has Down Syndrome, Got a Comment From David Beckham on His Soccer Video, Then Walked Onto Inter Miami’s Field Holding Lionel Messi’s Hand AOL.com"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) - Unisba Media",
      "published": "2026-11-15T19:10:42+00:00",
      "summary": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) Unisba Media"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami's international call-ups see limited action as FIFA break offers unexpected MLS Playoffs advant... - Pasión Fútbol",
      "published": "2026-11-15T18:37:00+00:00",
      "summary": "Inter Miami's international call-ups see limited action as FIFA break offers unexpected MLS Playoffs advant... Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Lionel Messi given seven-game deadline to claim another MLS record and leave Josef Martinez behind after re... - World Soccer Talk",
      "published": "2026-11-15T18:18:23+00:00",
      "summary": "Lionel Messi given seven-game deadline to claim another MLS record and leave Josef Martinez behind after re... World Soccer Talk"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
-     "title": "WATCH: Denis Bouanga, LAFC torch Lionel Messi & Inter Miami - MLSsoccer.com",
-     "published": "2026-11-15T16:30:13+00:00",
-     "summary": "WATCH: Denis Bouanga, LAFC torch Lionel Messi & Inter Miami MLSsoccer.com"
     },
     {
      "ref": "gnews_inter_miami#7",
@@ -865,105 +865,105 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#8",
-     "title": "Deni Avdija with the and-1 bucket - ESPN",
-     "published": "2026-11-14T22:56:17+00:00",
-     "summary": "Deni Avdija with the and-1 bucket ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#9",
      "title": "Lillard Praises Avdija, Mutual Trust in Their Partnership - Blazer's Edge",
      "published": "2026-11-14T22:18:08+00:00",
      "summary": "Lillard Praises Avdija, Mutual Trust in Their Partnership Blazer's Edge"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#9",
      "title": "Highlights From Deni Avdija 34-Point Game - NBA.com",
      "published": "2026-11-14T15:20:38+00:00",
      "summary": "Highlights From Deni Avdija 34-Point Game NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#10",
      "title": "Damian Lillard And Deni Avdija Are Thriving as the Trail Blazers’ Stars - Last Word On Sports",
      "published": "2026-11-14T12:25:31+00:00",
      "summary": "Damian Lillard And Deni Avdija Are Thriving as the Trail Blazers’ Stars Last Word On Sports"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija scores 34, 9-of-9 from the FT line - NBC Sports",
      "published": "2026-11-14T11:38:16+00:00",
      "summary": "Deni Avdija scores 34, 9-of-9 from the FT line NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#12",
      "title": "Trail Blazers' Deni Avdija: Scores team-high 34 points - CBS Sports",
      "published": "2026-11-14T11:29:36+00:00",
      "summary": "Trail Blazers' Deni Avdija: Scores team-high 34 points CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#13",
      "title": "Deni Avdija News: Scores team-high 34 points - RotoWire",
      "published": "2026-11-14T11:29:36+00:00",
      "summary": "Deni Avdija News: Scores team-high 34 points RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#14",
      "title": "Deni Avdija scores 34 points as Trail Blazers beat Kings 120-107 - The Times of Israel",
      "published": "2026-11-14T07:48:46+00:00",
      "summary": "Deni Avdija scores 34 points as Trail Blazers beat Kings 120-107 The Times of Israel"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija, Damian Lillard lead Blazers past Kings - TalkBasket.net",
      "published": "2026-11-14T07:14:02+00:00",
      "summary": "Deni Avdija, Damian Lillard lead Blazers past Kings TalkBasket.net"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 - NBA.com",
      "published": "2026-11-14T06:26:41+00:00",
      "summary": "Deni Avdija Highlights (34 Points, 11‑13 FG) | Trail Blazers 120, Kings 107 | Nov. 13, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "Damian Lillard is already showing Blazers what Deni Avdija was missing last season - Rip City Project",
      "published": "2026-11-14T06:25:45+00:00",
      "summary": "Damian Lillard is already showing Blazers what Deni Avdija was missing last season Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#18",
      "title": "NBA Cup: Deni Avdija Scores 34 Points as Portland Trail Blazers Beat Sacramento Kings 120-107, Extend Winning Streak to Three Games - The Sunday Guardian",
      "published": "2026-11-14T06:24:39+00:00",
      "summary": "NBA Cup: Deni Avdija Scores 34 Points as Portland Trail Blazers Beat Sacramento Kings 120-107, Extend Winning Streak to Three Games The Sunday Guardian"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings - Miami Herald",
      "published": "2026-11-14T06:17:21+00:00",
      "summary": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings Miami Herald"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026 - NBA.com",
      "published": "2026-11-14T06:08:44+00:00",
      "summary": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026 NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings - The Daily News | Texas' Oldest Newspaper",
      "published": "2026-11-14T05:55:02+00:00",
      "summary": "Deni Avdija, Damian Lillard carry Trail Blazers past Kings The Daily News | Texas' Oldest Newspaper"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#22",
      "title": "NBA Cup: Trail Blazers beat Kings for third straight win - Inquirer.net",
      "published": "2026-11-14T05:55:00+00:00",
      "summary": "NBA Cup: Trail Blazers beat Kings for third straight win Inquirer.net"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija with 34 points vs. Sacramento Kings, 11/13/2026 - Yahoo Sports",
      "published": "2026-11-14T05:49:58+00:00",
      "summary": "Deni Avdija with 34 points vs. Sacramento Kings, 11/13/2026 Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Deni Avdija finishes through contact, 11/13/2026 - Yahoo Sports",
+     "published": "2026-11-14T05:49:42+00:00",
+     "summary": "Deni Avdija finishes through contact, 11/13/2026 Yahoo Sports"
     }
    ]
   }

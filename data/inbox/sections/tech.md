@@ -142,73 +142,79 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "How to make almost anything",
      "published": "2026-11-16T05:50:37+00:00",
-     "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 225 # Comments: 36"
+     "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 252 # Comments: 43"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Qwen4-Max",
      "published": "2026-11-16T02:14:44+00:00",
-     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 470 # Comments: 185"
+     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 483 # Comments: 197"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "published": "2026-11-16T02:04:48+00:00",
-     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 331 # Comments: 90"
+     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 347 # Comments: 95"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "What's Next for Nvidia?",
      "published": "2026-11-15T23:55:55+00:00",
-     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 245 # Comments: 311"
+     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 254 # Comments: 323"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Old Bitly links are being hijacked",
      "published": "2026-11-15T22:11:43+00:00",
-     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 273 # Comments: 142"
+     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 279 # Comments: 144"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Handwriting, as a Font",
      "published": "2026-11-15T19:42:13+00:00",
-     "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 273 # Comments: 49"
+     "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 281 # Comments: 51"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
      "published": "2026-11-15T19:26:22+00:00",
-     "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 320 # Comments: 54"
+     "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 329 # Comments: 56"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
      "published": "2026-11-15T18:36:10+00:00",
-     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 524 # Comments: 228"
+     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 532 # Comments: 231"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "A short explainer on how El Niño works [video]",
      "published": "2026-11-15T18:23:21+00:00",
-     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 232 # Comments: 105"
+     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 235 # Comments: 105"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Crows make decisions faster than we can",
      "published": "2026-11-15T17:53:31+00:00",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 231 # Comments: 157"
+     "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 237 # Comments: 160"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-     "published": "2026-11-15T13:44:16+00:00",
-     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 236 # Comments: 130"
+     "title": "Clice v1.0 Released: Welcome to Modern C++",
+     "published": "2026-11-15T17:22:32+00:00",
+     "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 156 # Comments: 85"
     },
     {
      "ref": "hn_frontpage#11",
+     "title": "Emacs Is My Browser",
+     "published": "2026-11-15T15:21:21+00:00",
+     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 206 # Comments: 121"
+    },
+    {
+     "ref": "hn_frontpage#12",
      "title": "SpaceX catches the Starship to end Flight 15",
      "published": "2026-11-14T21:22:24+00:00",
-     "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1683 # Comments: 1264"
+     "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1691 # Comments: 1267"
     }
    ]
   },
