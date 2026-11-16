@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Debate en localidad sudafricana sobre cómo controlar a los babuinos que causan problemas - AP News",
-     "published": "2026-11-16T03:03:00+00:00",
-     "summary": "Debate en localidad sudafricana sobre cómo controlar a los babuinos que causan problemas AP News"
+     "title": "Peru - AP News",
+     "published": "2026-11-16T09:16:03+00:00",
+     "summary": "Peru AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-     "published": "2026-11-16T02:59:00+00:00",
-     "summary": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail AP News"
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-16T09:14:13+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media - AP News",
-     "published": "2026-11-16T02:30:00+00:00",
-     "summary": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media AP News"
+     "title": "Texas - AP News",
+     "published": "2026-11-16T09:13:48+00:00",
+     "summary": "Texas AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-11-16T02:20:09+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+     "title": "Trending News - AP News",
+     "published": "2026-11-16T09:13:11+00:00",
+     "summary": "Trending News AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "China - AP News",
-     "published": "2026-11-16T02:05:03+00:00",
-     "summary": "China AP News"
+     "title": "Golf - AP News",
+     "published": "2026-11-16T09:13:11+00:00",
+     "summary": "Golf AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "2026 Alaska Midterm Election Results - AP News",
-     "published": "2026-11-16T02:03:16+00:00",
-     "summary": "2026 Alaska Midterm Election Results AP News"
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-11-16T09:06:42+00:00",
+     "summary": "Artificial intelligence AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "Lions edge rusher Aidan Hutchinson has season-ending right knee injury, AP source says - AP News",
-     "published": "2026-11-16T01:54:00+00:00",
-     "summary": "Lions edge rusher Aidan Hutchinson has season-ending right knee injury, AP source says AP News"
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-16T09:03:57+00:00",
+     "summary": "College football | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "United States - AP News",
-     "published": "2026-11-16T01:36:01+00:00",
-     "summary": "United States AP News"
+     "title": "Central America - AP News",
+     "published": "2026-11-16T08:56:12+00:00",
+     "summary": "Central America AP News"
     },
     {
      "ref": "ap_world#8",
-     "title": "Moulin Rouge dancers and Republican Guard musicians kick off Christmas lights in Paris - AP News",
-     "published": "2026-11-16T01:27:00+00:00",
-     "summary": "Moulin Rouge dancers and Republican Guard musicians kick off Christmas lights in Paris AP News"
+     "title": "Women’s sports - AP News",
+     "published": "2026-11-16T08:56:11+00:00",
+     "summary": "Women’s sports AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "Huge waves pummel the California coast, forcing the closure of iconic piers - AP News",
-     "published": "2026-11-16T01:26:00+00:00",
-     "summary": "Huge waves pummel the California coast, forcing the closure of iconic piers AP News"
+     "title": "South America - AP News",
+     "published": "2026-11-16T08:53:54+00:00",
+     "summary": "South America AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
-     "published": "2026-11-16T01:25:15+00:00",
-     "summary": "Russia-Ukraine | Breaking News & Live Updates AP News"
+     "title": "Minnesota - AP News",
+     "published": "2026-11-16T08:52:17+00:00",
+     "summary": "Minnesota AP News"
     },
     {
      "ref": "ap_world#11",
-     "title": "Ole Miss Rebels - AP News",
-     "published": "2026-11-16T01:25:11+00:00",
-     "summary": "Ole Miss Rebels AP News"
+     "title": "Europe News | Breaking European News Today - AP News",
+     "published": "2026-11-16T08:52:13+00:00",
+     "summary": "Europe News | Breaking European News Today AP News"
     },
     {
      "ref": "ap_world#12",
-     "title": "Ukraine - AP News",
-     "published": "2026-11-16T01:24:57+00:00",
-     "summary": "Ukraine AP News"
+     "title": "Asia Pacific - AP News",
+     "published": "2026-11-16T08:52:13+00:00",
+     "summary": "Asia Pacific AP News"
     },
     {
      "ref": "ap_world#13",
-     "title": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions - AP News",
-     "published": "2026-11-16T01:18:00+00:00",
-     "summary": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions AP News"
+     "title": "2026 World Cup venue map - AP News",
+     "published": "2026-11-16T08:41:59+00:00",
+     "summary": "2026 World Cup venue map AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "Toronto Tempo win WNBA draft lottery, earn No. 1 pick and potentially chance to draft JuJu Watkins - AP News",
-     "published": "2026-11-16T01:11:00+00:00",
-     "summary": "Toronto Tempo win WNBA draft lottery, earn No. 1 pick and potentially chance to draft JuJu Watkins AP News"
+     "title": "Penélope Cruz moved by impact of ‘La Bola Negra’ on LGBTQ+ audiences - AP News",
+     "published": "2026-11-16T08:41:00+00:00",
+     "summary": "Penélope Cruz moved by impact of ‘La Bola Negra’ on LGBTQ+ audiences AP News"
     },
     {
      "ref": "ap_world#15",
-     "title": "Trump administration asks for billions to overhaul FAA. Democrats question how money was spent - AP News",
-     "published": "2026-11-16T00:41:00+00:00",
-     "summary": "Trump administration asks for billions to overhaul FAA. Democrats question how money was spent AP News"
+     "title": "2026 World Cup schedule and results - AP News",
+     "published": "2026-11-16T08:40:05+00:00",
+     "summary": "2026 World Cup schedule and results AP News"
     },
     {
      "ref": "ap_world#16",
-     "title": "DAVE SKRETTA - AP News",
-     "published": "2026-11-16T00:39:18+00:00",
-     "summary": "DAVE SKRETTA AP News"
+     "title": "Sports - Europe - AP News",
+     "published": "2026-11-16T08:28:46+00:00",
+     "summary": "Sports - Europe AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-16T00:27:29+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
+     "title": "War and unrest - AP News",
+     "published": "2026-11-16T08:26:55+00:00",
+     "summary": "War and unrest AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "Luka Doncic scores 43, Lakers stretch winning streak to 8 with 131-123 win over Suns - AP News",
-     "published": "2026-11-16T00:06:00+00:00",
-     "summary": "Luka Doncic scores 43, Lakers stretch winning streak to 8 with 131-123 win over Suns AP News"
+     "title": "Rugby - AP News",
+     "published": "2026-11-16T08:26:50+00:00",
+     "summary": "Rugby AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - AP News",
-     "published": "2026-11-15T23:57:00+00:00",
-     "summary": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon AP News"
+     "title": "Iran war - AP News",
+     "published": "2026-11-16T08:20:51+00:00",
+     "summary": "Iran war AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "St. Brown and Gibbs score 2 TDs each in Lions' 35-10 rout of Patriots after Maye injured in Munich - AP News",
-     "published": "2026-11-15T23:51:00+00:00",
-     "summary": "St. Brown and Gibbs score 2 TDs each in Lions' 35-10 rout of Patriots after Maye injured in Munich AP News"
+     "title": "Soccer - AP News",
+     "published": "2026-11-16T08:18:54+00:00",
+     "summary": "Soccer AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Patriots struggle in Munich after Drake Maye’s injury as Lions dominate - AP News",
-     "published": "2026-11-15T23:47:00+00:00",
-     "summary": "Patriots struggle in Munich after Drake Maye’s injury as Lions dominate AP News"
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-11-16T08:18:45+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner - AP News",
-     "published": "2026-11-15T23:45:00+00:00",
-     "summary": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner AP News"
+     "title": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says - AP News",
+     "published": "2026-11-16T07:55:00+00:00",
+     "summary": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Top photos from Week 10 of the NFL season as the 49ers face the Cowboys - AP News",
-     "published": "2026-11-15T23:40:00+00:00",
-     "summary": "Top photos from Week 10 of the NFL season as the 49ers face the Cowboys AP News"
+     "title": "Spain says nearly 2,200 migrants have reached Canary Islands in 2 days - AP News",
+     "published": "2026-11-16T07:48:00+00:00",
+     "summary": "Spain says nearly 2,200 migrants have reached Canary Islands in 2 days AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Minnesota - AP News",
-     "published": "2026-11-15T23:26:15+00:00",
-     "summary": "Minnesota AP News"
+     "title": "Red crabs begin their annual migration on Christmas Island - AP News",
+     "published": "2026-11-16T07:43:00+00:00",
+     "summary": "Red crabs begin their annual migration on Christmas Island AP News"
     }
    ]
   },
@@ -174,108 +174,138 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+     "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+     "published": "2026-11-16T07:24:45+00:00",
+     "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+     "published": "2026-11-16T07:23:23+00:00",
+     "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+     "published": "2026-11-16T05:06:59+00:00",
+     "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "Watch: New York teen reunites with cat missing after building collapse",
+     "published": "2026-11-16T04:36:45+00:00",
+     "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public."
+    },
+    {
+     "ref": "bbc_world#4",
+     "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
      "published": "2026-11-16T03:21:56+00:00",
      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#5",
      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
      "published": "2026-11-16T03:09:49+00:00",
      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago."
     },
     {
-     "ref": "bbc_world#2",
-     "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-     "published": "2026-11-16T03:08:31+00:00",
-     "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden."
-    },
-    {
-     "ref": "bbc_world#3",
+     "ref": "bbc_world#6",
      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
      "published": "2026-11-16T01:47:57+00:00",
      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#7",
+     "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+     "published": "2026-11-16T01:05:44+00:00",
+     "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month."
+    },
+    {
+     "ref": "bbc_world#8",
      "title": "Russia's mega-rich are already imagining a future after Putin",
      "published": "2026-11-16T00:13:14+00:00",
      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power"
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#9",
+     "title": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
+     "published": "2026-11-16T00:11:12+00:00",
+     "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons."
+    },
+    {
+     "ref": "bbc_world#10",
+     "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+     "published": "2026-11-16T00:03:29+00:00",
+     "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday."
+    },
+    {
+     "ref": "bbc_world#11",
      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
      "published": "2026-11-15T22:57:27+00:00",
      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday."
     },
     {
-     "ref": "bbc_world#6",
-     "title": "Police ban protests near 10 schools and five universities in Paris",
-     "published": "2026-11-15T22:28:54+00:00",
-     "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says."
-    },
-    {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#12",
      "title": "Canada bars Russia from Junior World Championships",
      "published": "2026-11-15T22:01:16+00:00",
      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine."
     },
     {
-     "ref": "bbc_world#8",
-     "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+     "ref": "bbc_world#13",
+     "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
      "published": "2026-11-15T22:00:13+00:00",
      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#14",
      "title": "Czechs rally against plan to switch funding of public media",
      "published": "2026-11-15T21:03:40+00:00",
      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#15",
      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
      "published": "2026-11-15T19:32:39+00:00",
      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#16",
      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
      "published": "2026-11-15T18:38:11+00:00",
      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#17",
      "title": "How telecoms upgrade work sparked US flight chaos",
      "published": "2026-11-15T14:57:15+00:00",
      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#18",
      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
      "published": "2026-11-15T13:37:45+00:00",
      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#19",
      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
      "published": "2026-11-15T00:06:55+00:00",
      "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#20",
      "title": "Judo champion shakes up French presidential race with surprise candidacy",
      "published": "2026-11-15T00:06:51+00:00",
      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#21",
      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
      "published": "2026-11-14T22:09:40+00:00",
      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#22",
      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
      "published": "2026-11-14T19:14:33+00:00",
      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
@@ -363,18 +393,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "The Luxury of Children",
      "published": "2026-11-10T09:00:00+00:00",
      "summary": "Why the baby bust is making the world more unequal."
-    },
-    {
-     "ref": "foreign_affairs#9",
-     "title": "The New Epicenter of Global Terror",
-     "published": "2026-11-09T09:00:00+00:00",
-     "summary": "How Africa’s weak states and rare earths drive transnational extremism."
-    },
-    {
-     "ref": "foreign_affairs#10",
-     "title": "A Recipe for Disaster in Taiwan",
-     "published": "2026-11-09T09:00:00+00:00",
-     "summary": "Why the risk of a crisis is growing."
     }
    ]
   },
@@ -384,153 +402,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Fire in Phuket shophouse kills 11 injures 16, police say - Reuters",
-     "published": "2026-11-16T03:02:00+00:00",
-     "summary": "Fire in Phuket shophouse kills 11 injures 16, police say Reuters"
+     "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters",
+     "published": "2026-11-16T09:04:16+00:00",
+     "summary": "US, allies team up to protect AI tech and infrastructure amid China rivalry Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "Indian shares expected to open higher on record foreign flows, crude price drop - Reuters",
-     "published": "2026-11-16T02:49:00+00:00",
-     "summary": "Indian shares expected to open higher on record foreign flows, crude price drop Reuters"
+     "title": "India's Hindustan Zinc to spend about $8.5 billion on capacity expansion - Reuters",
+     "published": "2026-11-16T08:51:11+00:00",
+     "summary": "India's Hindustan Zinc to spend about $8.5 billion on capacity expansion Reuters"
     },
     {
      "ref": "reuters_world#2",
-     "title": "Indian rupee caught between external pressures and foreign inflows - Reuters",
-     "published": "2026-11-16T02:18:00+00:00",
-     "summary": "Indian rupee caught between external pressures and foreign inflows Reuters"
+     "title": "Leader of Germany's SPD faces challenge by former minister - Reuters",
+     "published": "2026-11-16T08:45:59+00:00",
+     "summary": "Leader of Germany's SPD faces challenge by former minister Reuters"
     },
     {
      "ref": "reuters_world#3",
-     "title": "Deleted from India's voter rolls, some Muslims face detention, deportation - Reuters",
-     "published": "2026-11-16T02:17:00+00:00",
-     "summary": "Deleted from India's voter rolls, some Muslims face detention, deportation Reuters"
+     "title": "Nigeria expects six-country African digital trade accord this month, minister says - Reuters",
+     "published": "2026-11-16T08:41:43+00:00",
+     "summary": "Nigeria expects six-country African digital trade accord this month, minister says Reuters"
     },
     {
      "ref": "reuters_world#4",
-     "title": "US Justice Department warns Senator Warren over records preservation - Reuters",
-     "published": "2026-11-16T02:13:00+00:00",
-     "summary": "US Justice Department warns Senator Warren over records preservation Reuters"
+     "title": "France temporarily bans firework mortars amid school protests - Reuters",
+     "published": "2026-11-16T08:37:44+00:00",
+     "summary": "France temporarily bans firework mortars amid school protests Reuters"
     },
     {
      "ref": "reuters_world#5",
-     "title": "China's economy falters in October as factory output, retail sales miss forecasts - Reuters",
-     "published": "2026-11-16T02:06:00+00:00",
-     "summary": "China's economy falters in October as factory output, retail sales miss forecasts Reuters"
+     "title": "South Africa police probe two weekend shootings that left 17 dead - Reuters",
+     "published": "2026-11-16T08:26:41+00:00",
+     "summary": "South Africa police probe two weekend shootings that left 17 dead Reuters"
     },
     {
      "ref": "reuters_world#6",
-     "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally - Reuters",
-     "published": "2026-11-16T01:35:00+00:00",
-     "summary": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally Reuters"
+     "title": "Record foreign inflows fuel Indian stocks' November surge - Reuters",
+     "published": "2026-11-16T07:49:00+00:00",
+     "summary": "Record foreign inflows fuel Indian stocks' November surge Reuters"
     },
     {
      "ref": "reuters_world#7",
-     "title": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed - Reuters",
-     "published": "2026-11-16T01:32:00+00:00",
-     "summary": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed Reuters"
+     "title": "UN ready to support any denuclearisation effort from US, China, Russia talks - Reuters",
+     "published": "2026-11-16T07:46:00+00:00",
+     "summary": "UN ready to support any denuclearisation effort from US, China, Russia talks Reuters"
     },
     {
      "ref": "reuters_world#8",
-     "title": "Gold edges higher as investors await Warsh remarks for rate signals - Reuters",
-     "published": "2026-11-16T01:25:00+00:00",
-     "summary": "Gold edges higher as investors await Warsh remarks for rate signals Reuters"
+     "title": "China says Xi-Putin-Trump meeting has 'groundbreaking significance' - Reuters",
+     "published": "2026-11-16T07:45:00+00:00",
+     "summary": "China says Xi-Putin-Trump meeting has 'groundbreaking significance' Reuters"
     },
     {
      "ref": "reuters_world#9",
-     "title": "Widow of Haiti's slain leader Moise to contest presidential election - Reuters",
-     "published": "2026-11-16T01:25:00+00:00",
-     "summary": "Widow of Haiti's slain leader Moise to contest presidential election Reuters"
+     "title": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports - Reuters",
+     "published": "2026-11-16T07:42:00+00:00",
+     "summary": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports Reuters"
     },
     {
      "ref": "reuters_world#10",
-     "title": "Yen steady against euro and dollar after soft Japanese GDP data - Reuters",
-     "published": "2026-11-16T01:09:00+00:00",
-     "summary": "Yen steady against euro and dollar after soft Japanese GDP data Reuters"
+     "title": "Latvia's pro-Ukraine prime minister agrees to form government with nationalist National Alliance - Reuters",
+     "published": "2026-11-16T07:15:00+00:00",
+     "summary": "Latvia's pro-Ukraine prime minister agrees to form government with nationalist National Alliance Reuters"
     },
     {
      "ref": "reuters_world#11",
-     "title": "SK Hynix to spend $1 billion over five years to support chip suppliers - Reuters",
-     "published": "2026-11-16T00:10:00+00:00",
-     "summary": "SK Hynix to spend $1 billion over five years to support chip suppliers Reuters"
+     "title": "Ukraine hits key Crimean bridge, curbing traffic, Russian governor says - Reuters",
+     "published": "2026-11-16T07:07:00+00:00",
+     "summary": "Ukraine hits key Crimean bridge, curbing traffic, Russian governor says Reuters"
     },
     {
      "ref": "reuters_world#12",
-     "title": "UK property asking prices fall more than usual in November, Rightmove says - Reuters",
-     "published": "2026-11-16T00:09:00+00:00",
-     "summary": "UK property asking prices fall more than usual in November, Rightmove says Reuters"
+     "title": "As Britain seeks closer EU ties, Brexit trade-offs return - Reuters",
+     "published": "2026-11-16T07:03:00+00:00",
+     "summary": "As Britain seeks closer EU ties, Brexit trade-offs return Reuters"
     },
     {
      "ref": "reuters_world#13",
-     "title": "Inside China's drive to build an AI-native generation - Reuters",
-     "published": "2026-11-16T00:06:00+00:00",
-     "summary": "Inside China's drive to build an AI-native generation Reuters"
+     "title": "South African rand slips as stronger dollar weighs - Reuters",
+     "published": "2026-11-16T06:46:00+00:00",
+     "summary": "South African rand slips as stronger dollar weighs Reuters"
     },
     {
      "ref": "reuters_world#14",
-     "title": "US and Russia to oppose talks on limiting autonomous weapons - Reuters",
-     "published": "2026-11-16T00:03:00+00:00",
-     "summary": "US and Russia to oppose talks on limiting autonomous weapons Reuters"
+     "title": "India's wholesale inflation accelerates to 12.29% in October on fuel price surge - Reuters",
+     "published": "2026-11-16T06:37:00+00:00",
+     "summary": "India's wholesale inflation accelerates to 12.29% in October on fuel price surge Reuters"
     },
     {
      "ref": "reuters_world#15",
-     "title": "Australia's IDP rebuffs Blackstone's third buyout attempt at $564.5 million valuation - Reuters",
-     "published": "2026-11-15T23:16:00+00:00",
-     "summary": "Australia's IDP rebuffs Blackstone's third buyout attempt at $564.5 million valuation Reuters"
+     "title": "South Africa's MTN Group revives takeover talks for rival Telkom - Reuters",
+     "published": "2026-11-16T06:31:00+00:00",
+     "summary": "South Africa's MTN Group revives takeover talks for rival Telkom Reuters"
     },
     {
      "ref": "reuters_world#16",
-     "title": "Mexico's Guadalajara cartel founder dies in hospital aged 80 - Reuters",
-     "published": "2026-11-15T23:08:27+00:00",
-     "summary": "Mexico's Guadalajara cartel founder dies in hospital aged 80 Reuters"
+     "title": "Why has the drive to verify India's billion voters put the poll body under scrutiny? - Reuters",
+     "published": "2026-11-16T06:16:00+00:00",
+     "summary": "Why has the drive to verify India's billion voters put the poll body under scrutiny? Reuters"
     },
     {
      "ref": "reuters_world#17",
-     "title": "UK PM Burnham ready to confront 'obvious truth' of Brexit's costs - Reuters",
-     "published": "2026-11-15T22:32:00+00:00",
-     "summary": "UK PM Burnham ready to confront 'obvious truth' of Brexit's costs Reuters"
+     "title": "For investors, a truly safe haven is hard to find - Reuters",
+     "published": "2026-11-16T06:03:00+00:00",
+     "summary": "For investors, a truly safe haven is hard to find Reuters"
     },
     {
      "ref": "reuters_world#18",
-     "title": "Britain's Prince Harry visits war-wounded in Ukraine - Reuters",
-     "published": "2026-11-15T22:05:44+00:00",
-     "summary": "Britain's Prince Harry visits war-wounded in Ukraine Reuters"
+     "title": "Cape Verde President Neves wins second term, challenger Rosa concedes defeat - Reuters",
+     "published": "2026-11-16T05:58:00+00:00",
+     "summary": "Cape Verde President Neves wins second term, challenger Rosa concedes defeat Reuters"
     },
     {
      "ref": "reuters_world#19",
-     "title": "Steering problem on tanker caused collision in New Orleans, NTSB says - Reuters",
-     "published": "2026-11-15T21:23:00+00:00",
-     "summary": "Steering problem on tanker caused collision in New Orleans, NTSB says Reuters"
+     "title": "Chinese premier lauds 'extraordinary' ties with ASEAN ahead of Trump visit - Reuters",
+     "published": "2026-11-16T05:40:00+00:00",
+     "summary": "Chinese premier lauds 'extraordinary' ties with ASEAN ahead of Trump visit Reuters"
     },
     {
      "ref": "reuters_world#20",
-     "title": "Estonia to close Russian border crossings after attempted arson attack - Reuters",
-     "published": "2026-11-15T20:49:24+00:00",
-     "summary": "Estonia to close Russian border crossings after attempted arson attack Reuters"
+     "title": "Russia hopes to reduce its isolation by getting posts at UN telecoms agency - Reuters",
+     "published": "2026-11-16T05:06:00+00:00",
+     "summary": "Russia hopes to reduce its isolation by getting posts at UN telecoms agency Reuters"
     },
     {
      "ref": "reuters_world#21",
-     "title": "Swedish opposition leader Andersson wins crucial backing to form government - Reuters",
-     "published": "2026-11-15T19:35:28+00:00",
-     "summary": "Swedish opposition leader Andersson wins crucial backing to form government Reuters"
+     "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
+     "published": "2026-11-16T05:04:00+00:00",
+     "summary": "Spy scandal and midterm defeat heat up Trump's Asia visit Reuters"
     },
     {
      "ref": "reuters_world#22",
-     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports - Reuters",
-     "published": "2026-11-15T19:26:00+00:00",
-     "summary": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports Reuters"
+     "title": "Five EU countries to announce Rwanda deportation hub scheme - Reuters",
+     "published": "2026-11-16T05:03:00+00:00",
+     "summary": "Five EU countries to announce Rwanda deportation hub scheme Reuters"
     },
     {
      "ref": "reuters_world#23",
-     "title": "New Maori generation seeks to reshape New Zealand's political landscape - Reuters",
-     "published": "2026-11-15T19:03:44+00:00",
-     "summary": "New Maori generation seeks to reshape New Zealand's political landscape Reuters"
+     "title": "UK's Prince William, Princess Kate begin India visit with street cricket - Reuters",
+     "published": "2026-11-16T04:12:00+00:00",
+     "summary": "UK's Prince William, Princess Kate begin India visit with street cricket Reuters"
     },
     {
      "ref": "reuters_world#24",
-     "title": "Restive pro-Russian Moldovan region set for runoff election on November 29 - Reuters",
-     "published": "2026-11-15T19:01:00+00:00",
-     "summary": "Restive pro-Russian Moldovan region set for runoff election on November 29 Reuters"
+     "title": "India's Tata Motors PV falls on JLR outlook cut, weak Chinese demand - Reuters",
+     "published": "2026-11-16T03:52:00+00:00",
+     "summary": "India's Tata Motors PV falls on JLR outlook cut, weak Chinese demand Reuters"
     }
    ]
   }

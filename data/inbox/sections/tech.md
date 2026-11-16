@@ -51,68 +51,164 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    ]
   },
   {
+   "outlet": "Geektime (Israeli tech)",
+   "lang": "he",
+   "items": [
+    {
+     "ref": "geektime#0",
+     "title": "מכה לתחרות במאסק: תקלה מסתורית בשיגור חיסלה 10% מהלוויינים של אמזון",
+     "published": "2026-11-16T08:01:50+00:00",
+     "summary": "בשנים האחרונות מנסה אמזון לאתגר את המונופול של אילון מאסק ו-SpaceX בכל הקשור לשיגורים לחלל ולאינטרנט לווייני עם סטארלינק. Amazon Leo (לשעבר פרויקט קויפר), המיזם של אמזון, שנועד להתחרות בסטארלינק, ראה בשנה שעברה שיגורים ראשונים של לוויינים שלו לחלל – בחלק מהמקרים על גבי טילי SpaceX – ואמש (א') עשרות לוויינים נוספים שלו היו אמורים […] The post מכה לתחרות במאסק: תקלה מסתורית בשיגור חיסלה 10% מהלוויינ"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "דיווח: ג'נסן הואנג בוחן קאמבק לאנבידיה",
+     "published": "2026-11-16T06:30:19+00:00",
+     "summary": "לפני שבוע בלבד עולם הטכנולוגיה הזדעזע כשג'נסן הואנג, האיש והמעיל שמאחורי אימפריית השבבים של אנבידיה, נאלץ להתפטר מתפקידו בעקבות רומנים שניהל עם מנהלת באנבידיה שכפופה לו, ויותר חשוב, רומן עם מי שחשודה כמרגלת סינית. אבל למרות ההתפטרות, לא בטוח שהפרשה הזו תרד מסדר היום כל-כך מהר. על פי דיווח חדש של ה-Financial Times, הואנג שוקל […] The post דיווח: ג'נסן הואנג בוחן קאמבק לאנבידיה appeared first on גיק"
+    },
+    {
+     "ref": "geektime#2",
+     "title": "פיילוט חדש בישראל: מעבר חצייה חכם",
+     "published": "2026-11-15T17:02:59+00:00",
+     "summary": "אולי זה משהו באוויר, אבל בשבועות האחרונים אנחנו שומעים על יותר ויותר פיתוחים בתחום הכבישים: אם זה \"רמזור AI\" בהרצליה או דוחות לנהגים שצופרים לחינם בעזרת מערכת מצלמות ומיקרופונים חכמה בתל אביב. ועכשיו אנחנו שומעים על מעבר חצייה חכם? נהג והולך רגל בדרך לאותו מעבר חצייה? קבלו אזהרה עיריית הרצליה הודיעה כי היא יוצאת בפיילוט חדש […] The post פיילוט חדש בישראל: מעבר חצייה חכם appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#3",
+     "title": "למה אקזיט של 50 מיליון דולר שווה לפעמים יותר מאקזיט של 400 מיליון?",
+     "published": "2026-11-15T16:12:07+00:00",
+     "summary": "חברה נמכרת ב-400 מיליון דולר. חברה אחרת נמכרת ב-50 מיליון. באיזו מהן המייסדים קיבלו יותר כסף? לכאורה, התשובה ברורה, לא? ובכן, לא ממש ולא תמיד. כדי לדעת כמה נשאר למייסדים, צריך להבין כמה מהחברה נשאר להם ומה הזכויות של מי שהשקיעו בדרך; וכדי להבין אם המשקיעים מרוצים, צריך לדעת גם כמה כסף הם הכניסו, מתי, ומה […] The post למה אקזיט של 50 מיליון דולר שווה לפעמים יותר מאקזיט של 400 מיליון? appeared first"
+    },
+    {
+     "ref": "geektime#4",
+     "title": "\"אני מקווה שתמות ותגאל אותנו מהייסורים שלנו\": הצד הפחות יפה של ג'נסן הואנג",
+     "published": "2026-11-15T13:21:27+00:00",
+     "summary": "השבוע שעבר היה כנראה אחד הפחות טובים בחייו של ג'נסן הואנג. מי שהיה אחת הדמויות האהובות ביותר בעמק הסיליקון, הרוקסטאר של עולם הטכנולוגיה, התפטר מ-NVIDIA, החברה שהקים במו ידיו והנהיג במשך יותר מ-3 עשורים. זאת על רקע שורת תחקירים שחשפה כי הואנג ניהל מספר רומנים מחוץ לנישואין: האחד עם מי שחשודה כמרגלת סינית, ושניים אחרים, […] The post \"אני מקווה שתמות ותגאל אותנו מהייסורים שלנו\": הצד הפחות יפה של ג'נס"
+    },
+    {
+     "ref": "geektime#5",
+     "title": "עכשיו זה גם רשמי: יש יותר מחפשי עבודה בהייטק ממשרות פנויות",
+     "published": "2026-11-15T11:01:03+00:00",
+     "summary": "זה לא סוד שבשנים האחרונות, אחרי תור הזהב של 2021 ו-2022, הפך ההייטק הישראלי לשוק של מעסיקים, והעובדים הם אלו שצריכים לרדוף אחרי כל משרה בתקווה להשתדרג בשכר – או כדי למצוא משרה. אבל עכשיו חושף דוח חדש של שירות התעסוקה גם את הנתונים שמוכיחים את זה. מספר המשרות עלה, אך גם מספר מחפשי העבודה […] The post עכשיו זה גם רשמי: יש יותר מחפשי עבודה בהייטק ממשרות פנויות appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#6",
+     "title": "חושבים שסוכני ה-AI שלכם פועלים רק בהרשאות? אתם חייבים את הוובינר הזה",
+     "published": "2026-11-15T09:52:42+00:00",
+     "summary": "כלי AI עובדים בתחנות של עובדים ומפתחים כדבר שבשגרה – עוזרי קוד, סוכנים, תוספי דפדפן ו-IDE, סקילים וחיבורי MCP. הם חוסכים זמן ומאפשרים לצוות קטן לעשות הרבה יותר, אבל בניגוד לכלי SaaS רגילים, הם רצים מקומית ופועלים בהרשאות המשתמש. הם קוראים קבצים, ניגשים למידע רגיש ול-Secrets, מריצים פקודות ופועלים מול מערכות הארגון. הסיכונים לא טמונים […] The post חושבים שסוכני ה-AI שלכם פועלים רק בהרשאות? אתם חייב"
+    },
+    {
+     "ref": "geektime#7",
+     "title": "שוב קיצוצים ב-eToro: עשרות עובדים יפוטרו",
+     "published": "2026-11-15T09:35:29+00:00",
+     "summary": "פלטפורמת המסחר הישראלית eToro נערכת לסבב פיטורים נוסף. על פי דיווח בגלובס, במסגרת המהלך כמה עשרות עובדים צפויים לסיים את עבודתם בחברה. הפיטורים הללו מגיעים פחות משנה לאחר שב-eToro כבר קיצצו 7% מכוח האדם בינואר האחרון, סבב שבו פוטרו כ-105 עובדים, יותר ממחציתם בישראל. כיום מעסיקה החברה בישראל כ-700 עובדים מתוך כ-1,400 איש בעולם. דוחות מעורבים […] The post שוב קיצוצים ב-eToro: עשרות עובדים יפוטרו app"
+    },
+    {
+     "ref": "geektime#8",
+     "title": "מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאזל קרה בסופ\"ש למיקרוסופט ולשדות התעופה בארה\"ב?",
+     "published": "2026-11-15T08:40:34+00:00",
+     "summary": "אם ניסיתם במהלך הסופ\"ש להיכנס למייל שלכם באאוטלוק, לשלוח הודעה ב-Teams או להשתמש ב-Copilot (סתם סתם, אנחנו יודעים שאף אחד לא מנסה מרצונו להשתמש בקופיילוט) וגיליתם שכלום לא עובד, אתם כבר יודעים שאתם לא לבד. תקלה נרחבת בשירותי הענן של ענקית הטכנולוגיה השביתה במשך יותר מיממה כמה מהשירותים החשובים ביותר שלה, והשפיעה על מיליוני משתמשים […] The post מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאז"
+    },
+    {
+     "ref": "geektime#9",
+     "title": "היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship",
+     "published": "2026-11-15T06:51:55+00:00",
+     "summary": "קהל רב התאסף הלילה (מוצאי שבת, זמן ישראל) לצפות בהיסטוריה, והיסטוריה הוא קיבל. לקול השיר \"Baby Come Back\" פילחה חללית Starship (השלב העליון שלה, Ship 42) את העננים שמעל טקסס, ואחרי יותר מ-20 שעות במסלול סביב כדור הארץ, ובמהירות מטורפת, היא עשתה את דרכה לעבר מתקן הלכידה בבסיס Starbase של SpaceX. אבל רגע לפני שנגיע […] The post היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship appear"
+    },
+    {
+     "ref": "geektime#10",
+     "title": "כנס ה-AI של Google Cloud מגיע לירושלים ועוד המלצות רותחות",
+     "published": "2026-11-14T16:24:28+00:00",
+     "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. AI Reimagined מתי? 26 בנובמבר (9:00-14:30) איפה? סינמה סיטי ירושלים […] The post כנס ה-AI של Google Cloud מגיע לירו"
+    },
+    {
+     "ref": "geektime#11",
+     "title": "מצטער. אני צריך את הסייברטראק-על-שלט שטסלה השיקה עכשיו",
+     "published": "2026-11-14T15:36:50+00:00",
+     "summary": "בשבוע שעבר חלה רעידת אדמה (קלה) בעולם הרכב והטכנולוגיה, כאשר אילון מאסק הודיע כי החברה תפסיק בהדרגה את ייצור רכבי ה-Cybertruck עד אמצע שנת 2027. במילים אחרות, אחד הפרויקטים הגדולים והשנויים במחלוקת של טסלה מת בטרם עת, אחרי שהגיע באיחור של 3 שנים וסיים את דרכו עם נתוני מכירות עגומים למדי. אבל איכשהו, דווקא עכשיו, […] The post מצטער. אני צריך את הסייברטראק-על-שלט שטסלה השיקה עכשיו appeared first on "
+    },
+    {
+     "ref": "geektime#12",
+     "title": "דייסון טוענת שהיא כמו סטארטאפ. אבל המתחרות מסין לא מחכות",
+     "published": "2026-11-14T12:03:27+00:00",
+     "summary": "דייסון נמצאת במקום מאוד מורכב בעולם הטכנולוגיה. מצד אחד, היא עדיין זוכה למעמד-על, שלא חברות רבות נהנות ממנו, והשם שלה הפך למילה נרדפת ל\"שואבי אבק\" (ברמה ששמעתי פעם מישהו מספר שהוא \"קנה דייסון של דרימי\"). אבל מצד שני, אחרי שנים שבהן הציגה מוצרים שקבעו את הסטנדרט של התעשייה, גם היא מגלה שהמתחרות מסין לא פראייריות, […] The post דייסון טוענת שהיא כמו סטארטאפ. אבל המתחרות מסין לא מחכות appeared first o"
+    }
+   ]
+  },
+  {
    "outlet": "Hacker News (150+ points)",
    "lang": "en",
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Old Bitly links are being hijacked",
-     "published": "2026-11-15T22:11:43+00:00",
-     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 200 # Comments: 106"
+     "title": "How to make almost anything",
+     "published": "2026-11-16T05:50:37+00:00",
+     "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 225 # Comments: 36"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Handwriting, as a Font",
-     "published": "2026-11-15T19:42:13+00:00",
-     "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 152 # Comments: 39"
+     "title": "Qwen4-Max",
+     "published": "2026-11-16T02:14:44+00:00",
+     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 470 # Comments: 185"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-     "published": "2026-11-15T19:26:22+00:00",
-     "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 203 # Comments: 46"
+     "title": "Universal XSS in uBlock Origin from website-driven element picker",
+     "published": "2026-11-16T02:04:48+00:00",
+     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 331 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-     "published": "2026-11-15T18:36:10+00:00",
-     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 425 # Comments: 190"
+     "title": "What's Next for Nvidia?",
+     "published": "2026-11-15T23:55:55+00:00",
+     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 245 # Comments: 311"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "A short explainer on how El Niño works [video]",
-     "published": "2026-11-15T18:23:21+00:00",
-     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 189 # Comments: 84"
+     "title": "Old Bitly links are being hijacked",
+     "published": "2026-11-15T22:11:43+00:00",
+     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 273 # Comments: 142"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Crows make decisions faster than we can",
-     "published": "2026-11-15T17:53:31+00:00",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 184 # Comments: 137"
+     "title": "Handwriting, as a Font",
+     "published": "2026-11-15T19:42:13+00:00",
+     "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 273 # Comments: 49"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Emacs Is My Browser",
-     "published": "2026-11-15T15:21:21+00:00",
-     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 184 # Comments: 103"
+     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+     "published": "2026-11-15T19:26:22+00:00",
+     "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 320 # Comments: 54"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-     "published": "2026-11-15T13:44:16+00:00",
-     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 209 # Comments: 112"
+     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+     "published": "2026-11-15T18:36:10+00:00",
+     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 524 # Comments: 228"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "The MacBook Pro's OLED PWM problem",
-     "published": "2026-11-15T13:15:22+00:00",
-     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 430 # Comments: 241"
+     "title": "A short explainer on how El Niño works [video]",
+     "published": "2026-11-15T18:23:21+00:00",
+     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 232 # Comments: 105"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Understanding Positional Embeddings in Modern LLMs",
-     "published": "2026-11-15T12:14:06+00:00",
-     "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 215 # Comments: 27"
+     "title": "Crows make decisions faster than we can",
+     "published": "2026-11-15T17:53:31+00:00",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 231 # Comments: 157"
+    },
+    {
+     "ref": "hn_frontpage#10",
+     "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+     "published": "2026-11-15T13:44:16+00:00",
+     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 236 # Comments: 130"
+    },
+    {
+     "ref": "hn_frontpage#11",
+     "title": "SpaceX catches the Starship to end Flight 15",
+     "published": "2026-11-14T21:22:24+00:00",
+     "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1683 # Comments: 1264"
     }
    ]
   },
