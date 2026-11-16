@@ -656,6 +656,204 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    ]
   },
   {
+   "outlet": "ESPN NBA",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "espn_nba#0",
+     "title": "Celtics set franchise mark with 42-9 lead over Mavs after 1 quarter",
+     "published": "2026-11-16T06:05:33+00:00",
+     "summary": "The Celtics led the Mavericks 42-9 at the end of the first quarter Sunday, the largest scoring margin in a quarter since 1987."
+    },
+    {
+     "ref": "espn_nba#1",
+     "title": "LeBron on climbing to third all time in assists: 'Something I didn't foresee in my career'",
+     "published": "2026-11-16T06:05:33+00:00",
+     "summary": "LeBron James moved past Hall of Fame point guard Jason Kidd for third on the NBA's career assists list with 12,092."
+    },
+    {
+     "ref": "espn_nba#2",
+     "title": "Spurs stretch winning streak to 12, hand Jazz 12th straight defeat",
+     "published": "2026-11-16T06:05:33+00:00",
+     "summary": "Dylan Harper had a game-high 31 points to keep the Spurs rolling with their 12th straight win while sending the Jazz to their 12th straight loss."
+    },
+    {
+     "ref": "espn_nba#3",
+     "title": "Young held scoreless for 1st time in NBA career as Wizards routed by Rockets",
+     "published": "2026-11-16T06:05:33+00:00",
+     "summary": "The Rockets scored a season-high 147 points against the Wizards on Sunday in their win, during which they also held Trae Young scoreless for the first time in his NBA career."
+    },
+    {
+     "ref": "espn_nba#4",
+     "title": "Cavs overcome short turnaround, missing starters to beat Mavs",
+     "published": "2026-11-16T06:05:33+00:00",
+     "summary": "The Cavaliers were without their entire starting lineup Saturday against the Mavericks after four players were ruled out following travel difficulties."
+    },
+    {
+     "ref": "espn_nba#5",
+     "title": "Lendeborg 1-for-13 in Warriors' blowout loss: 'I was flustered the entire game'",
+     "published": "2026-11-16T06:05:33+00:00",
+     "summary": "In his first game as the primary offensive engine in place of the injured Stephen Curry, Warriors rookie Yaxel Lendeborg went 1-of-13 shooting in a 123-85 blowout loss to the Spurs. \"I was flustered the entire game,\" he said. \"Couldn't make a damn layup.\""
+    },
+    {
+     "ref": "espn_nba#6",
+     "title": "📈 Updated Power Rankings: The best newcomer on all 30 teams",
+     "published": "2026-11-16T06:05:33+00:00",
+     "summary": "Which teams rise and which fall in this week's Power Rankings? Plus, the top newcomer for each team in the league."
+    },
+    {
+     "ref": "espn_nba#7",
+     "title": "Despite slump, Knicks' Bridges is a fantasy basketball trade target",
+     "published": "2026-11-16T03:11:56+00:00",
+     "summary": "Andre explains why Mikal Bridges continues to hold fantasy value despite the poor start to his season."
+    },
+    {
+     "ref": "espn_nba#8",
+     "title": "What happens when you pay $200 to try out for a G League team?",
+     "published": "2026-11-16T02:43:30+00:00",
+     "summary": "Former college players, content creators and even some Sixers fans chased the same opportunity to get noticed by the Delaware Blue Coats."
+    },
+    {
+     "ref": "espn_nba#9",
+     "title": "Welcome to the Jordan Dome: Where 'Space Jam' ended and the real games began",
+     "published": "2026-11-15T21:07:23+00:00",
+     "summary": "Thirty years after \"Space Jam,\" those who shared the summer with Jordan remember the basketball that unfolded offscreen."
+    },
+    {
+     "ref": "espn_nba#10",
+     "title": "Welcome to the Space Jam: How Jordan and Bugs Bunny's magic resonates 30 years later",
+     "published": "2026-11-15T21:07:22+00:00",
+     "summary": "Three decades after its release, the basketball-meets-Looney Tunes adventure remains a pop culture staple."
+    }
+   ]
+  },
+  {
+   "outlet": "ESPN FC",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "espn_soccer#0",
+     "title": "Meet Como's Nico Paz, the heir to Lionel Messi's No. 10 shirt for Argentina",
+     "published": "2026-11-16T09:02:57+00:00",
+     "summary": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt."
+    },
+    {
+     "ref": "espn_soccer#1",
+     "title": "Transfer rumors, news: Man United eye USMNT's McKennie amid Pochettino arrival",
+     "published": "2026-11-16T08:55:02+00:00",
+     "summary": "Incoming Manchester United boss Mauricio Pochettino is eyeing a quick reunion with USMNT midfielder Weston McKennie. Transfer Talk has the latest."
+    },
+    {
+     "ref": "espn_soccer#2",
+     "title": "Kansas City Current are in the NWSL Championship, just a year later than expected",
+     "published": "2026-11-16T03:24:02+00:00",
+     "summary": "A year after playoff heartbreak, Kansas City have flipped the script. This time it's top-seeded Gotham who are out, and the Current are through to next Saturday's NWSL Championship."
+    },
+    {
+     "ref": "espn_soccer#3",
+     "title": "Purce slams venue switch after Gotham exit: 'Bad look for everyone'",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "Gotham FC forward Midge Purce called playing an NWSL semifinal at the 5,000-seat Icahn Stadium \"inexcusable\" after the defending champions lost 2-1 to the Kansas City Current on Sunday."
+    },
+    {
+     "ref": "espn_soccer#4",
+     "title": "England hold off Spain rally to end WC winner's 43-game unbeaten run",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "England held off a fierce comeback in Madrid on Sunday to end Spain's 43-game unbeaten streak and secure top spot in Nations League Group C with a 3-2 win."
+    },
+    {
+     "ref": "espn_soccer#5",
+     "title": "Current score late to beat Gotham, advance to face Spirit in NWSL finals",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "The Kansas City Current are headed to the NWSL final after a late Haley Hopkins goal saw them past defending champions Gotham FC with a 2-1 win on Sunday."
+    },
+    {
+     "ref": "espn_soccer#6",
+     "title": "Spain 'overwhelmed' by 'exceptional' England: We also know how to lose",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "Coach Luis de la Fuente said Spain were \"overwhelmed\" in the early stages of Sunday's 3-2 UEFA Nations League defeat to England, but backed his team to return stronger after seeing their three-year unbeaten run come to an end."
+    },
+    {
+     "ref": "espn_soccer#7",
+     "title": "Tenerife pay tribute to De Miguel in first match since his death",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "Spanish soccer club Tenerife on Sunday paid tribute to Jesús de Miguel in its first game since the striker's death, with midfielder Nacho Gil holding up De Miguel's jersey after scoring his team's opening goal shortly before halftime."
+    },
+    {
+     "ref": "espn_soccer#8",
+     "title": "Mexico on brink of missing Nations League semis after loss to Jamaica",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "Jamaica stunned Mexico 3-2 on Saturday to move within reach of the Concacaf Nations League semifinals and add to Mexico's struggles under new coach Rafael Márquez."
+    },
+    {
+     "ref": "espn_soccer#9",
+     "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti."
+    },
+    {
+     "ref": "espn_soccer#10",
+     "title": "Brazil great Ronaldinho, 46, subbed at half in return for Serie C's Ravenna",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "Ronaldinho failed to secure his elusive 300th career goal after returning to professional football aged 46."
+    },
+    {
+     "ref": "espn_soccer#11",
+     "title": "⌚ USMNT's Folarin Balogun does 'Dame Time' celebration after goal vs. Haiti",
+     "published": "2026-11-16T01:40:35+00:00",
+     "summary": "After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic \"Dame Time\" motion."
+    },
+    {
+     "ref": "espn_soccer#12",
+     "title": "Man United, Pochettino's to-do list based on what's gone wrong",
+     "published": "2026-11-15T23:35:17+00:00",
+     "summary": "Pochettino makes as much sense as anyone to take the Man United job, so now what? Let's look at the mess he's inheriting and what's at the top of his to-do list."
+    },
+    {
+     "ref": "espn_soccer#13",
+     "title": "In Pochettino, Man United finally have a proper manager",
+     "published": "2026-11-15T23:35:17+00:00",
+     "summary": "After years of near-misses, Man United have finally landed Mauricio Pochettino, a manager with the kind of pedigree, class and credibility the club have been looking for."
+    },
+    {
+     "ref": "espn_soccer#14",
+     "title": "England's win over Spain is the statement Tuchel's team have been waiting for",
+     "published": "2026-11-15T23:18:41+00:00",
+     "summary": "England ended Spain's 43-match unbeaten run with a statement win that gives Thomas Tuchel renewed belief his side can finally deliver on the biggest stage."
+    },
+    {
+     "ref": "espn_soccer#15",
+     "title": "USMNT players embody Pochettino's legacy in dominant win over Haiti",
+     "published": "2026-11-15T22:59:52+00:00",
+     "summary": "Mauricio Pochettino reset the culture within the USMNT. In Saturday's 6-0 win over Haiti, his players demonstrated that they intend to carry on his ideals."
+    },
+    {
+     "ref": "espn_soccer#16",
+     "title": "USMNT player ratings: Pulisic earns 9/10 for brace in win over Haiti",
+     "published": "2026-11-15T22:59:52+00:00",
+     "summary": "Christian Pulisic scored twice in the Americans' dominant 6-0 win over Haiti on Saturday."
+    },
+    {
+     "ref": "espn_soccer#17",
+     "title": "Where are they now? Every Man United player, manager, executive since Glazers' takeover in 2005",
+     "published": "2026-11-15T21:48:13+00:00",
+     "summary": "The Glazer family took over Manchester United in 2005, but what has happened to the players, managers and executive staff since?"
+    },
+    {
+     "ref": "espn_soccer#18",
+     "title": "Washington Spirit on verge of realizing Michele Kang's dream of NWSL dominance",
+     "published": "2026-11-15T21:26:17+00:00",
+     "summary": "The Washington Spirit have been comeback queens all season, and they were again on Saturday, beating Utah 2-1 to reach the NWSL Championship."
+    },
+    {
+     "ref": "espn_soccer#19",
+     "title": "Chelsea reassert WSL dominance over Man City in front of USWNT boss Hayes",
+     "published": "2026-11-15T08:50:21+00:00",
+     "summary": "Sonia Bompastor took off Kadeisha Buchanan after 12 minutes and it paid off as Chelsea went top of the WSL by beating defending champions Manchester City."
+    }
+   ]
+  },
+  {
    "outlet": "Google News — Inter Miami",
    "lang": "en",
    "items": [
@@ -685,129 +883,129 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#4",
+     "title": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) - Unisba Media",
+     "published": "2026-11-15T19:10:42+00:00",
+     "summary": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) Unisba Media"
+    },
+    {
+     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami's international call-ups see limited action as FIFA break offers unexpected MLS Playoffs advant... - Pasión Fútbol",
      "published": "2026-11-15T18:37:00+00:00",
      "summary": "Inter Miami's international call-ups see limited action as FIFA break offers unexpected MLS Playoffs advant... Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Lionel Messi given seven-game deadline to claim another MLS record and leave Josef Martinez behind after re... - World Soccer Talk",
      "published": "2026-11-15T18:18:23+00:00",
      "summary": "Lionel Messi given seven-game deadline to claim another MLS record and leave Josef Martinez behind after re... World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "WATCH: Denis Bouanga, LAFC torch Lionel Messi & Inter Miami - MLSsoccer.com",
      "published": "2026-11-15T16:30:13+00:00",
      "summary": "WATCH: Denis Bouanga, LAFC torch Lionel Messi & Inter Miami MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Inter Miami gets crucial FIFA international break boost ahead of MLS Cup Playoffs - Pasión Fútbol",
      "published": "2026-11-15T15:58:00+00:00",
      "summary": "Inter Miami gets crucial FIFA international break boost ahead of MLS Cup Playoffs Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Kily González prepares crucial tactical change to help Messi and Inter Miami beat Columbus Crew in MLS Play... - Pasión Fútbol",
      "published": "2026-11-15T15:46:00+00:00",
      "summary": "Kily González prepares crucial tactical change to help Messi and Inter Miami beat Columbus Crew in MLS Play... Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Haitian soccer fans turned Inter-Miami’s Nu Stadium into a sea of blue and red (Video) - Miami Herald",
      "published": "2026-11-15T15:10:38+00:00",
      "summary": "Haitian soccer fans turned Inter-Miami’s Nu Stadium into a sea of blue and red (Video) Miami Herald"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Lionel Messi could bid farewell to Inter Miami against River Plate in emotional Argentina friendly - Pasión Fútbol",
      "published": "2026-11-15T14:37:00+00:00",
      "summary": "Lionel Messi could bid farewell to Inter Miami against River Plate in emotional Argentina friendly Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami vs Columbus Crew: Kalshi Promo Code & $25 Bonus - Squawka",
      "published": "2026-11-15T07:15:56+00:00",
      "summary": "Inter Miami vs Columbus Crew: Kalshi Promo Code & $25 Bonus Squawka"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "INTER MIAMI DESTROYS DC UNITED 4-0! 🔥 Messi & Suárez Shine! | Game Day Vlog Trophée Calder (UmPdeIDQyd) - Unisba Media",
      "published": "2026-11-15T05:28:24+00:00",
      "summary": "INTER MIAMI DESTROYS DC UNITED 4-0! 🔥 Messi & Suárez Shine! | Game Day Vlog Trophée Calder (UmPdeIDQyd) Unisba Media"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Rodrigo De Paul Enters MLS Playoffs in Top Form: Inter Miami Star Could Be Decisive Against Columbus Crew - Pasión Fútbol",
      "published": "2026-11-15T02:00:25+00:00",
      "summary": "Rodrigo De Paul Enters MLS Playoffs in Top Form: Inter Miami Star Could Be Decisive Against Columbus Crew Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Casemiro Becomes Key Player for Inter Miami Against Columbus Crew: His Form Could Decide the 2026 MLS Playo... - Pasión Fútbol",
      "published": "2026-11-15T01:57:32+00:00",
      "summary": "Casemiro Becomes Key Player for Inter Miami Against Columbus Crew: His Form Could Decide the 2026 MLS Playo... Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "United States men’s soccer team routs Haiti 6-0 in Concacaf Nations League quarterfinal - Miami Herald",
      "published": "2026-11-15T01:21:00+00:00",
      "summary": "United States men’s soccer team routs Haiti 6-0 in Concacaf Nations League quarterfinal Miami Herald"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami vs Columbus Crew: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-11-15T01:03:45+00:00",
      "summary": "Inter Miami vs Columbus Crew: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami vs Columbus Crew: Predictions, Picks, Odds & Lineups - Squawka",
      "published": "2026-11-15T00:45:49+00:00",
      "summary": "Inter Miami vs Columbus Crew: Predictions, Picks, Odds & Lineups Squawka"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "USMNT rout Haiti in Concacaf Nations League opener - MLSsoccer.com",
      "published": "2026-11-14T23:54:23+00:00",
      "summary": "USMNT rout Haiti in Concacaf Nations League opener MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#19",
-     "title": "Why is Haiti 'hosting' USMNT game in Miami? Les Grenadiers feel right at home - USA Today",
-     "published": "2026-11-14T21:20:00+00:00",
-     "summary": "Why is Haiti 'hosting' USMNT game in Miami? Les Grenadiers feel right at home USA Today"
+     "ref": "gnews_inter_miami#20",
+     "title": "YELLOW CARD: Jay Chapman, Inter Miami CF - 30th minute - MLSsoccer.com",
+     "published": "2026-11-14T19:31:27+00:00",
+     "summary": "YELLOW CARD: Jay Chapman, Inter Miami CF - 30th minute MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Inside Inter Miami: Messi, The Fans & NU Stadium! 🇺🇸🐐 - Celtic news now - Celtic FC News",
      "published": "2026-11-14T18:24:02+00:00",
      "summary": "Inside Inter Miami: Messi, The Fans & NU Stadium! 🇺🇸🐐 Celtic news now - Celtic FC News"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Messi will play in Argentina in a friendly match between River Plate and Inter Miami - CiberCuba",
      "published": "2026-11-14T17:42:25+00:00",
      "summary": "Messi will play in Argentina in a friendly match between River Plate and Inter Miami CiberCuba"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami CF and Tradeify Sign Multi-Year Partnership Focused on Fan Engagement - Sportscape Magazine",
      "published": "2026-11-14T16:32:56+00:00",
      "summary": "Inter Miami CF and Tradeify Sign Multi-Year Partnership Focused on Fan Engagement Sportscape Magazine"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "MLS Cup defense, Messi's MVP bid top Inter Miami's postseason storylines - Inter Heron",
      "published": "2026-11-14T15:02:13+00:00",
      "summary": "MLS Cup defense, Messi's MVP bid top Inter Miami's postseason storylines Inter Heron"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Inter Miami vs Columbus Crew - Major League Soccer - OneFootball",
-     "published": "2026-11-14T15:02:13+00:00",
-     "summary": "Inter Miami vs Columbus Crew - Major League Soccer OneFootball"
     }
    ]
   },
@@ -817,39 +1015,39 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
+     "published": "2026-11-16T08:51:07+00:00",
+     "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "Deni Avdija's 34 Points Leads Trail Blazers Past Kings | Portland Arena Negotiations Are Stalled - Central Oregon Daily",
      "published": "2026-11-16T01:00:10+00:00",
      "summary": "Deni Avdija's 34 Points Leads Trail Blazers Past Kings | Portland Arena Negotiations Are Stalled Central Oregon Daily"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija's 34 Points Leads Trail Blazers Past Kings | Portland Arena Negotiations Are Stalled - 9News",
      "published": "2026-11-16T00:49:00+00:00",
      "summary": "Deni Avdija's 34 Points Leads Trail Blazers Past Kings | Portland Arena Negotiations Are Stalled 9News"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "“It dips to $11.8 million” – Brian Windhorst explains why Deni Avdija’s contract is a steal for Portland - Basketball Network",
      "published": "2026-11-15T09:14:17+00:00",
      "summary": "“It dips to $11.8 million” – Brian Windhorst explains why Deni Avdija’s contract is a steal for Portland Basketball Network"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija leads Portland to second straight Win Over OKC - The Jerusalem Post",
      "published": "2026-11-15T07:03:25+00:00",
      "summary": "Deni Avdija leads Portland to second straight Win Over OKC The Jerusalem Post"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Damian Lillard Makes Surprising Admission About Deni Avdija - Heavy.com",
      "published": "2026-11-15T02:04:00+00:00",
      "summary": "Damian Lillard Makes Surprising Admission About Deni Avdija Heavy.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#5",
-     "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
-     "published": "2026-11-15T00:26:27+00:00",
-     "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
     },
     {
      "ref": "gnews_israeli_nba#6",

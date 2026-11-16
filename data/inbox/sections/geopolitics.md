@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "Peru - AP News",
-     "published": "2026-11-16T10:07:02+00:00",
-     "summary": "Peru AP News"
+     "title": "Golf - AP News",
+     "published": "2026-11-16T10:47:04+00:00",
+     "summary": "Golf AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "South America - AP News",
-     "published": "2026-11-16T10:00:50+00:00",
-     "summary": "South America AP News"
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-11-16T10:41:11+00:00",
+     "summary": "Artificial intelligence AP News"
     },
     {
      "ref": "ap_world#2",
+     "title": "Africa News Reports | Latest News in Africa - AP News",
+     "published": "2026-11-16T10:39:08+00:00",
+     "summary": "Africa News Reports | Latest News in Africa AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Peru - AP News",
+     "published": "2026-11-16T10:37:11+00:00",
+     "summary": "Peru AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+     "published": "2026-11-16T10:29:07+00:00",
+     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Rugby - AP News",
+     "published": "2026-11-16T10:25:14+00:00",
+     "summary": "Rugby AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-16T10:17:10+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-11-16T10:17:10+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-16T10:11:04+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "Russia wants 'consequences' for Canada and hockey world junior tournament moved in appeal to IOC - AP News",
      "published": "2026-11-16T09:59:00+00:00",
      "summary": "Russia wants 'consequences' for Canada and hockey world junior tournament moved in appeal to IOC AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Artificial intelligence - AP News",
-     "published": "2026-11-16T09:56:31+00:00",
-     "summary": "Artificial intelligence AP News"
-    },
-    {
-     "ref": "ap_world#4",
-     "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-     "published": "2026-11-16T09:56:28+00:00",
-     "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News"
-    },
-    {
-     "ref": "ap_world#5",
+     "ref": "ap_world#10",
      "title": "Central America - AP News",
      "published": "2026-11-16T09:56:27+00:00",
      "summary": "Central America AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#11",
      "title": "College sports - AP News",
      "published": "2026-11-16T09:56:26+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#12",
      "title": "Minnesota - AP News",
      "published": "2026-11-16T09:52:48+00:00",
      "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-11-16T09:52:47+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
-    },
-    {
-     "ref": "ap_world#9",
+     "ref": "ap_world#13",
      "title": "Europe News | Breaking European News Today - AP News",
      "published": "2026-11-16T09:52:43+00:00",
      "summary": "Europe News | Breaking European News Today AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#14",
      "title": "Asia Pacific - AP News",
      "published": "2026-11-16T09:52:43+00:00",
      "summary": "Asia Pacific AP News"
     },
     {
-     "ref": "ap_world#11",
-     "title": "Africa News Reports | Latest News in Africa - AP News",
-     "published": "2026-11-16T09:40:26+00:00",
-     "summary": "Africa News Reports | Latest News in Africa AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "Sports - Europe - AP News",
-     "published": "2026-11-16T09:28:29+00:00",
-     "summary": "Sports - Europe AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Rugby - AP News",
-     "published": "2026-11-16T09:26:21+00:00",
-     "summary": "Rugby AP News"
-    },
-    {
-     "ref": "ap_world#14",
+     "ref": "ap_world#15",
      "title": "Iran war - AP News",
-     "published": "2026-11-16T09:20:02+00:00",
+     "published": "2026-11-16T09:46:27+00:00",
      "summary": "Iran war AP News"
     },
     {
-     "ref": "ap_world#15",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-16T09:18:11+00:00",
-     "summary": "College football | Latest News & Updates AP News"
+     "ref": "ap_world#16",
+     "title": "DAVE SKRETTA - AP News",
+     "published": "2026-11-16T09:40:34+00:00",
+     "summary": "DAVE SKRETTA AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#17",
+     "title": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack - AP News",
+     "published": "2026-11-16T09:29:00+00:00",
+     "summary": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack AP News"
+    },
+    {
+     "ref": "ap_world#18",
      "title": "Skyler Gisondo ‘over the moon’ for director Lance Oppenheim’s success - AP News",
      "published": "2026-11-16T09:15:00+00:00",
      "summary": "Skyler Gisondo ‘over the moon’ for director Lance Oppenheim’s success AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "Trending News - AP News",
-     "published": "2026-11-16T09:13:11+00:00",
-     "summary": "Trending News AP News"
-    },
-    {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "Glenn Close marvels at honorary Oscar as Ridley Scott and indie producers also get statuettes - AP News",
      "published": "2026-11-16T08:55:00+00:00",
      "summary": "Glenn Close marvels at honorary Oscar as Ridley Scott and indie producers also get statuettes AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "DAVE SKRETTA - AP News",
-     "published": "2026-11-16T08:42:02+00:00",
-     "summary": "DAVE SKRETTA AP News"
+     "ref": "ap_world#20",
+     "title": "Pakistan vows US-Iran diplomacy, urges Afghan action on terrorism at regional economic bloc meeting - AP News",
+     "published": "2026-11-16T08:43:00+00:00",
+     "summary": "Pakistan vows US-Iran diplomacy, urges Afghan action on terrorism at regional economic bloc meeting AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Penélope Cruz moved by impact of ‘La Bola Negra’ on LGBTQ+ audiences - AP News",
      "published": "2026-11-16T08:41:00+00:00",
      "summary": "Penélope Cruz moved by impact of ‘La Bola Negra’ on LGBTQ+ audiences AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "TIM REYNOLDS - AP News",
      "published": "2026-11-16T08:40:07+00:00",
      "summary": "TIM REYNOLDS AP News"
     },
     {
-     "ref": "ap_world#22",
-     "title": "2026 World Cup venue map - AP News",
-     "published": "2026-11-16T08:39:28+00:00",
-     "summary": "2026 World Cup venue map AP News"
-    },
-    {
      "ref": "ap_world#23",
-     "title": "2026 World Cup schedule and results - AP News",
-     "published": "2026-11-16T08:37:40+00:00",
-     "summary": "2026 World Cup schedule and results AP News"
+     "title": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says - AP News",
+     "published": "2026-11-16T07:55:00+00:00",
+     "summary": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Latest news - AP News",
-     "published": "2026-11-16T08:21:02+00:00",
-     "summary": "Latest news AP News"
+     "title": "Spain says nearly 2,200 migrants have reached Canary Islands in 2 days - AP News",
+     "published": "2026-11-16T07:48:00+00:00",
+     "summary": "Spain says nearly 2,200 migrants have reached Canary Islands in 2 days AP News"
     }
    ]
   },
@@ -246,21 +246,21 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#12",
+     "title": "Teenager Andreeva caps stunning week with WTA Finals title",
+     "published": "2026-11-15T23:18:38+00:00",
+     "summary": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals."
+    },
+    {
+     "ref": "bbc_world#13",
      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
      "published": "2026-11-15T22:57:27+00:00",
      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "Canada bars Russia from Junior World Championships",
      "published": "2026-11-15T22:01:16+00:00",
      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine."
-    },
-    {
-     "ref": "bbc_world#14",
-     "title": "Czechs rally against plan to switch funding of public media",
-     "published": "2026-11-15T21:03:40+00:00",
-     "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
     },
     {
      "ref": "bbc_world#15",
@@ -408,153 +408,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters",
+     "published": "2026-11-16T10:39:22+00:00",
+     "summary": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
+     "title": "India's October unemployment rate at 4.9% y/y - Reuters",
+     "published": "2026-11-16T10:37:43+00:00",
+     "summary": "India's October unemployment rate at 4.9% y/y Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
+     "title": "Russia denies orchestrating cyberattack on Romanian institution - Reuters",
+     "published": "2026-11-16T10:27:38+00:00",
+     "summary": "Russia denies orchestrating cyberattack on Romanian institution Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
+     "title": "Kremlin denies Estonian accusation Russia was behind attempted arson that prompted border closure - Reuters",
+     "published": "2026-11-16T10:23:43+00:00",
+     "summary": "Kremlin denies Estonian accusation Russia was behind attempted arson that prompted border closure Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
+     "title": "Cargo ship sinking in Black Sea off Bulgaria, says transport ministry - Reuters",
+     "published": "2026-11-16T10:13:29+00:00",
+     "summary": "Cargo ship sinking in Black Sea off Bulgaria, says transport ministry Reuters"
+    },
+    {
+     "ref": "reuters_world#5",
+     "title": "India scrutinises Red Bull’s sugar levels as ‘energy drink’ dispute escalates - Reuters",
+     "published": "2026-11-16T10:09:43+00:00",
+     "summary": "India scrutinises Red Bull’s sugar levels as ‘energy drink’ dispute escalates Reuters"
+    },
+    {
+     "ref": "reuters_world#6",
      "title": "Fed's Barr warns on AI risks to financial system - Reuters",
      "published": "2026-11-16T10:06:31+00:00",
      "summary": "Fed's Barr warns on AI risks to financial system Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#7",
      "title": "UN labour agency chief Houngbo wins second term - Reuters",
      "published": "2026-11-16T10:03:08+00:00",
      "summary": "UN labour agency chief Houngbo wins second term Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#8",
      "title": "France, UK to host December conference on Russian shadow fleet - Reuters",
      "published": "2026-11-16T10:01:43+00:00",
      "summary": "France, UK to host December conference on Russian shadow fleet Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#9",
+     "title": "Thai central bank pushes back against proposed legal changes - Reuters",
+     "published": "2026-11-16T09:53:43+00:00",
+     "summary": "Thai central bank pushes back against proposed legal changes Reuters"
+    },
+    {
+     "ref": "reuters_world#10",
      "title": "Poland detains three teenagers suspected of preparing terrorist attack - Reuters",
      "published": "2026-11-16T09:35:23+00:00",
      "summary": "Poland detains three teenagers suspected of preparing terrorist attack Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#11",
+     "title": "India's Hindustan Zinc to nearly double metal production capacity in $8.5 billion push - Reuters",
+     "published": "2026-11-16T09:33:38+00:00",
+     "summary": "India's Hindustan Zinc to nearly double metal production capacity in $8.5 billion push Reuters"
+    },
+    {
+     "ref": "reuters_world#12",
      "title": "Singapore, US agree to continue discussing Megaspeed case, Straits Times says - Reuters",
      "published": "2026-11-16T09:26:18+00:00",
      "summary": "Singapore, US agree to continue discussing Megaspeed case, Straits Times says Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#13",
      "title": "British audit watchdog fines Saffery, partner over Greensill UK audit failings - Reuters",
      "published": "2026-11-16T09:24:56+00:00",
      "summary": "British audit watchdog fines Saffery, partner over Greensill UK audit failings Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#14",
      "title": "French actor Gerard Depardieu withdraws his sexual assault appeal, apologises to victims - Reuters",
      "published": "2026-11-16T09:15:09+00:00",
      "summary": "French actor Gerard Depardieu withdraws his sexual assault appeal, apologises to victims Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#15",
      "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters",
      "published": "2026-11-16T09:04:16+00:00",
      "summary": "US, allies team up to protect AI tech and infrastructure amid China rivalry Reuters"
     },
     {
-     "ref": "reuters_world#8",
-     "title": "India's Hindustan Zinc to spend about $8.5 billion on capacity expansion - Reuters",
-     "published": "2026-11-16T08:51:11+00:00",
-     "summary": "India's Hindustan Zinc to spend about $8.5 billion on capacity expansion Reuters"
-    },
-    {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#16",
      "title": "Gulf stocks dip as Bahrain attacks, Hormuz security concerns weigh - Reuters",
      "published": "2026-11-16T08:49:43+00:00",
      "summary": "Gulf stocks dip as Bahrain attacks, Hormuz security concerns weigh Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#17",
      "title": "Leader of Germany's SPD faces challenge by former minister - Reuters",
      "published": "2026-11-16T08:45:59+00:00",
      "summary": "Leader of Germany's SPD faces challenge by former minister Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#18",
      "title": "Nigeria expects six-country African digital trade accord this month, minister says - Reuters",
      "published": "2026-11-16T08:41:43+00:00",
      "summary": "Nigeria expects six-country African digital trade accord this month, minister says Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#19",
      "title": "France temporarily bans firework mortars amid school protests - Reuters",
      "published": "2026-11-16T08:37:44+00:00",
      "summary": "France temporarily bans firework mortars amid school protests Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#20",
      "title": "South Africa police probe two weekend shootings that left 17 dead - Reuters",
      "published": "2026-11-16T08:26:41+00:00",
      "summary": "South Africa police probe two weekend shootings that left 17 dead Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#21",
      "title": "Record foreign inflows fuel Indian stocks' November surge - Reuters",
      "published": "2026-11-16T07:49:00+00:00",
      "summary": "Record foreign inflows fuel Indian stocks' November surge Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#22",
      "title": "UN ready to support any denuclearisation effort from US, China, Russia talks - Reuters",
      "published": "2026-11-16T07:46:00+00:00",
      "summary": "UN ready to support any denuclearisation effort from US, China, Russia talks Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#23",
      "title": "China says Xi-Putin-Trump meeting has 'groundbreaking significance' - Reuters",
      "published": "2026-11-16T07:45:00+00:00",
      "summary": "China says Xi-Putin-Trump meeting has 'groundbreaking significance' Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#24",
      "title": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports - Reuters",
      "published": "2026-11-16T07:42:00+00:00",
      "summary": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports Reuters"
-    },
-    {
-     "ref": "reuters_world#18",
-     "title": "Latvia's pro-Ukraine prime minister agrees to form government with nationalist National Alliance - Reuters",
-     "published": "2026-11-16T07:15:00+00:00",
-     "summary": "Latvia's pro-Ukraine prime minister agrees to form government with nationalist National Alliance Reuters"
-    },
-    {
-     "ref": "reuters_world#19",
-     "title": "Ukraine hits key Crimean bridge, curbing traffic, Russian governor says - Reuters",
-     "published": "2026-11-16T07:07:00+00:00",
-     "summary": "Ukraine hits key Crimean bridge, curbing traffic, Russian governor says Reuters"
-    },
-    {
-     "ref": "reuters_world#20",
-     "title": "As Britain seeks closer EU ties, Brexit trade-offs return - Reuters",
-     "published": "2026-11-16T07:03:00+00:00",
-     "summary": "As Britain seeks closer EU ties, Brexit trade-offs return Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
-     "title": "South African rand slips as stronger dollar weighs - Reuters",
-     "published": "2026-11-16T06:46:00+00:00",
-     "summary": "South African rand slips as stronger dollar weighs Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "India's wholesale inflation accelerates to 12.29% in October on fuel price surge - Reuters",
-     "published": "2026-11-16T06:37:00+00:00",
-     "summary": "India's wholesale inflation accelerates to 12.29% in October on fuel price surge Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "South Africa's MTN Group revives takeover talks for rival Telkom - Reuters",
-     "published": "2026-11-16T06:31:00+00:00",
-     "summary": "South Africa's MTN Group revives takeover talks for rival Telkom Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Why has the drive to verify India's billion voters put the poll body under scrutiny? - Reuters",
-     "published": "2026-11-16T06:16:00+00:00",
-     "summary": "Why has the drive to verify India's billion voters put the poll body under scrutiny? Reuters"
     }
    ]
   }
