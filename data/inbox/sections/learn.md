@@ -24,110 +24,153 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2012,
-   "text": "Xi Jinping replaced Hu Jintao as General Secretary of the Chinese Communist Party, succeeding as the paramount leader of China.",
+   "year": 2020,
+   "text": "The El Dorado Fire in California, United States, was extinguished after 71 days, having destroyed 20 structures and killed one firefighter.",
    "context": [
-    "Xi Jinping is a Chinese politician who is the paramount leader of China. He has served as the general secretary of the Chinese Communist Party (CCP) and chairman of the Party Central Military Commission (CMC) since 2012, and as the president of China and chairman of the State Central Military Commission since 2013."
+    "The El Dorado Fire was a wildfire that burned 22,744 acres in San Bernardino and Riverside counties of California, United States, from September to November 2020. It was ignited on September 5 by a pyrotechnic device at a gender reveal party in El Dorado Ranch Park and quickly spread to the San Gorgonio Wilderness Area of the San Bernardino National Forest. Burning over a 71-day period, the fire destroyed 20 structures and killed one firefighter, for which the couple hosting the party were charged with involuntary manslaughter."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2000,
-   "text": "Edoardo Agnelli, son of the industrialist patriarch Gianni Agnelli, was found dead under a bridge on the outskirts of Turin, Italy.",
+   "year": 2002,
+   "text": "The first case of SARS, a zoonotic respiratory coronavirus disease, was recorded in Guangdong, China.",
    "context": [
-    "Edoardo Agnelli, also known as Mahdi Agnelli, was an Italian businessman and the only son of Gianni Agnelli, the industrialist patriarch of Fiat S.p.A., and of Marella Agnelli, who was born Donna Marella Caracciolo di Castagneto. He converted to Islam when he was living in New York City, and changed his name to Mahdi Agnelli. In mid-November 2000, he was found dead under a bridge on the outskirts of Turin."
+    "The 2002–2004 outbreak of SARS, caused by severe acute respiratory syndrome coronavirus, infected over 8,000 people from 30 countries and territories, and resulted in at least 774 deaths worldwide."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1988,
-   "text": "The Soviet spacecraft Buran (pictured), a reusable vehicle built in response to NASA's Space Shuttle program, was launched, uncrewed, on its only flight.",
+   "year": 1997,
+   "text": "Chinese dissident Wei Jingsheng, released on ostensibly medical grounds after spending eighteen years in prison, was deported to the United States.",
    "context": [
-    "Buran was the first flight orbiter to be produced as part of the Soviet/Russian Buran programme. The Buran orbiters were similar in design to the U.S. Space Shuttle. Buran completed one uncrewed spaceflight in 1988, and was destroyed in 2002 when the roof of its storage hangar collapsed at Baikonur Cosmodrome."
+    "Wei Jingsheng is a Chinese human rights activist and dissident. He is best known for his involvement in the Chinese democracy movement. He is most prominent for having authored the essay \"The Fifth Modernization\", which was posted on the Democracy Wall in Beijing in 1978. As punishment from the government for writing his manifesto, Wei was arrested and convicted of \"counter-revolutionary\" activities, and was detained as a political prisoner from 1979 to 1993. Briefly released in 1993, Wei continued to engage in his dissident activities by speaking to visiting journalists, and as punishment, he was imprisoned again from 1994 to 1997, making it a total of 18 years he has spent in various prisons. He was deported to the United States of America on 16 November 1997, on medical parole. Still a Chinese citizen, in 1998 Wei established the Wei Jingsheng Foundation in New York City whose stated aim is to work to improve human rights and advocate democratisation in China."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1959,
-   "text": "Two men murdered a family in Holcomb, Kansas; the events became the subject of Truman Capote's non-fiction novel In Cold Blood, a pioneering work of the true crime genre.",
+   "year": 1992,
+   "text": "The largest hoard of Roman silver and gold in Britain was found in the village of Hoxne in Suffolk.",
    "context": [
-    "In the early morning of November 15, 1959, four members of the Clutter family – Herb Clutter, his wife, Bonnie, and their teenage children Nancy and Kenyon – were murdered in their rural home just outside the small farming community of Holcomb, Kansas, United States. Two ex-convicts, Perry Smith and Richard Hickock, were found guilty of the murders and sentenced to death. They were both executed on April 14, 1965. The murders were detailed by Truman Capote in his 1966 non-fiction novel In Cold Blood."
+    "The Hoxne Hoard is the largest hoard of late Roman silver and gold discovered in Britain, and the largest collection of gold and silver coins of the fourth and fifth centuries found anywhere within the former Roman Empire. It was found by Eric Lawes using a metal detector in the village of Hoxne in Suffolk, England, in 1992. The hoard consists of 14,865 Roman gold, silver, and bronze coins and approximately 200 items of silver tableware and gold jewellery. The objects are now in the British Museum in London, where the most important pieces and a selection of the rest are on permanent display. In 1993, the Treasure Valuation Committee valued the hoard at £1.75 million."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1943,
-   "text": "The Holocaust: In the Romani Holocaust, Nazi official Heinrich Himmler ordered that the Romani were to be put \"on the same level as Jews and placed in concentration camps\".",
+   "year": 1981,
+   "text": "About 30 million people watched the fictional couple Luke Spencer and Laura Webber wed on the television show General Hospital in the highest-rated hour in American soap opera history.",
    "context": [
-    "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in extermination camps, chiefly Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek death camps in occupied Poland. Concurrent Nazi persecutions killed millions of other non-Jewish civilians and prisoners of war (POWs); the term Holocaust is sometimes used to include the murder and persecution of non-Jewish groups, such as the Romani and Soviet POWs."
+    "Luke and Laura Spencer are fictional characters, and the signature supercouple from the American daytime drama General Hospital. Luke is portrayed by Anthony Geary, and Laura is portrayed by Genie Francis. Though other supercouples came before them, Luke and Laura are the best known outside of the soap opera medium and are credited with defining the term supercouple and leading other soap operas to try to duplicate their success."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1922,
-   "text": "Fountain of Time, in Chicago's Washington Park, was dedicated as a tribute to 100 years of peace between the United States and Great Britain following the Treaty of Ghent.",
+   "year": 1973,
+   "text": "U.S. president Richard Nixon signed an act authorizing the construction of the Trans-Alaska Pipeline to transport oil from the Beaufort Sea to the Gulf of Alaska.",
    "context": [
-    "Fountain of Time, or simply Time, is a sculpture by Lorado Taft, measuring 126 feet 10 inches (38.66 m) in length, situated at the western edge of the Midway Plaisance within Washington Park in Chicago, Illinois, in the United States. The sculpture is inspired by Henry Austin Dobson's poem \"Paradox of Time\". Its 100 figures passing before Father Time were created as a monument to the 100 years of peace between the United States and the United Kingdom following the Treaty of Ghent in 1814. Father Time faces the 100 from across a water basin. The fountain's water was turned on in 1920, and the sculpture was dedicated in 1922. It is a contributing structure to the Washington Park United States Registered Historic District, which is a National Register of Historic Places listing."
+    "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a part of the Watergate scandal."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1922,
-   "text": "During a general strike in Guayaquil, Ecuador, police and military fired into a crowd, killing at least 300 people.",
+   "year": 1967,
+   "text": "Aeroflot Flight 2230 crashed after takeoff from Koltsovo Airport, Russia, killing all 107 people aboard.",
    "context": [
-    "The 1922 Guayaquil general strike was a three-day general work stoppage in the city of Guayaquil, Ecuador, which lasted from 13 to 15 November of that year. The strike began with trolley, electric company and other public utility workers who were inspired by a successful strike by railroad workers in nearby Durán. Workers made demands such as pay increases, shorter hours, safer working conditions, and government control of foreign currency exchange rates."
+    "Aeroflot Flight 2230 was a Soviet domestic passenger flight from Yekaterinburg to Tashkent. On 16 November 1967, the Ilyushin Il-18 aircraft serving the flight crashed after takeoff, killing all 107 people aboard. At the time, it was the deadliest aviation accident in the Russian SFSR and the worst accident involving the Il-18."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1908,
-   "text": "After numerous atrocities in the territory, the Congo Free State was annexed to Belgium to form the Belgian Congo.",
+   "year": 1959,
+   "text": "The Sound of Music, a musical by Rodgers and Hammerstein based on The Story of the Trapp Family Singers, opened on Broadway at the Lunt-Fontanne Theatre.",
    "context": [
-    "From 1885 to 1908, many atrocities were committed in the Congo Free State under the absolute rule of King Leopold II of Belgium. These atrocities were particularly associated with the labour policies, enforced by colonial administrators, used to collect natural rubber for export. Combined with epidemic disease, famine, mass population displacement, and falling birth rates caused by these disruptions, the atrocities contributed to a sharp decline in the Congolese population. These atrocities have sometimes been described as a genocide, though this characterization is disputed. Modern estimates of the magnitude of the population decline ranges from 1.2 million to 10 million people."
+    "The Sound of Music is a musical with music by Richard Rodgers, lyrics by Oscar Hammerstein II, and a book by Howard Lindsay and Russel Crouse. It is based on the 1949 book The Story of the Trapp Family Singers by Maria von Trapp. Set in Austria on the eve of the Anschluss in 1938, the musical tells the story of Maria, who takes a job as governess to a large family while she decides whether to become a nun. She falls in love with the children, and eventually their widowed father, Captain von Trapp. He is ordered to accept a commission in the German Navy, but he opposes the Nazis. He and Maria decide on a plan to flee Austria with the children. Many songs from the musical have become standards, including \"Do-Re-Mi\", \"My Favorite Things\", \"Edelweiss\", \"Climb Ev'ry Mountain\", and the title song \"The Sound of Music\"."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1889,
-   "text": "Brazilian emperor Pedro II was overthrown in a coup led by Deodoro da Fonseca (pictured), while the country was proclaimed a republic.",
+   "year": 1944,
+   "text": "World War II: Operation Queen commenced with one of the heaviest Allied tactical bombings of the war, attacking German targets in the Rur valley.",
    "context": [
-    "Dom Pedro II, known as \"the Magnanimous\", was the second and final emperor of the Empire of Brazil. He reigned from 1831 until his deposition in the military coup of 1889, presiding over the longest and most stable reign in Brazilian history."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1864,
-   "text": "American Civil War: Union army general William Tecumseh Sherman (pictured) began his March to the Sea, inflicting significant damage to property and infrastructure using scorched-earth tactics on his way from Atlanta to Savannah, Georgia.",
+   "year": 1938,
+   "text": "Swiss chemist Albert Hofmann first synthesized the psychedelic drug LSD in Basel, Switzerland.",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "Albert Hofmann was a Swiss chemist known for being the first to synthesize, ingest, and learn of the psychedelic effects of lysergic acid diethylamide (LSD). Hofmann's team also isolated, named and synthesized the principal psychedelic mushroom compounds psilocybin and psilocin. Hofmann discovered the structure of chitin in 1929. He authored more than 100 scientific articles and numerous books, including LSD: Mein Sorgenkind."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1859,
-   "text": "Sponsored by Greek businessman Evangelos Zappas, the first modern revival of the Olympic Games took place in Athens.",
+   "year": 1914,
+   "text": "World War I: Austro-Hungarian forces launched an assault against Serbian defensive positions at the Kolubara river, beginning the Battle of Kolubara.",
    "context": [
-    "Evangelos or Evangelis Zappas was a Greek philanthropist and businessman who is recognized today as one of the founders of the modern Olympic Games, which were held in 1859, 1870, 1875, and 1888 and preceded the Olympic Games that came under the auspices of the International Olympic Committee. These Games, known at the time simply as Olympics, came before the founding of the International Olympic Committee itself. The legacy of Zappas, as well as the legacy of his cousin Konstantinos, was also used to fund the Olympic Games of 1896."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1760,
-   "text": "The chapel of the newly constructed Castellania in Valletta, Malta, was consecrated.",
+   "year": 1885,
+   "text": "After a five-day trial following the North-West Rebellion, Louis Riel, a Canadian Métis leader and \"Father of Manitoba\", was hanged for high treason.",
    "context": [
-    "The Castellania, also known as the Castellania Palace, is a former courthouse and prison in Valletta, Malta that currently houses the country's health ministry. It was built by the Order of St. John between 1757 and 1760, on the site of an earlier courthouse which had been built in 1572."
+    "The trial of Louis Riel took place in Regina, Canada, in 1885. Louis Riel had been a leader of a resistance movement by the Métis and First Nations people of western Canada against the Government of Canada in what is now the province of Saskatchewan. Known as the North-West Rebellion, this resistance was suppressed by the Canadian military, which led to Riel's surrender and trial for treason. The trial, which took place in July 1885 and lasted five days, resulted in a guilty verdict. He was also given a choice to plead guilty or insanity. Riel was subsequently executed by hanging, an outcome which has had a lasting negative impact on relations between Anglophone Canadians and the Riel supporters among French Canadians."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 655,
-   "text": "Penda of Mercia and Æthelhere of East Anglia were defeated by Oswiu of Northumbria at the Battle of the Winwaed in Yorkshire, England.",
+   "year": 1776,
+   "text": "American Revolutionary War: Fort Washington on Manhattan was captured from the Patriots by British and Hessian units.",
    "context": [
-    "Penda was a 7th-century king of Mercia, the Anglo-Saxon kingdom in what is today the Midlands. A pagan at a time when Christianity was taking hold in many of the Anglo-Saxon kingdoms, Penda took over the Severn Valley in 628 following the Battle of Cirencester before participating in the defeat of the powerful Northumbrian king Edwin at the Battle of Hatfield Chase in 633."
+    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
+   ]
+  },
+  {
+   "ref": "wikipedia#13",
+   "year": 1776,
+   "text": "American Revolutionary War: A Dutch fort on Sint Eustatius fired The First Salute to the brig Andrew Doria of the Continental Navy, marking the first international recognition of the American flag.",
+   "context": [
+    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
+   ]
+  },
+  {
+   "ref": "wikipedia#14",
+   "year": 1632,
+   "text": "Gustavus Adolphus, King of Sweden, was killed at the Battle of Lützen during the Thirty Years' War.",
+   "context": [
+    "Gustavus Adolphus, also known as Gustav II Adolf or Gustav II Adolph, was King of Sweden from 1611 to 1632. He is credited with the rise of Sweden as a great European power. During his reign, Sweden became one of the primary military forces in Europe during the Thirty Years' War, helping to determine the political and religious balance of power in Europe. He was formally and posthumously given the name Gustavus Adolphus the Great by the Riksdag of the Estates in 1634."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1532,
+   "text": "Spanish conquest of Peru: Conquistador Francisco Pizarro orchestrated a surprise attack in Cajamarca, capturing the Inca emperor, Atahualpa.",
+   "context": [
+    "The Spanish empires's conquest of the Inca Empire, also known as the Conquest of Peru, was one of the most important campaigns in the Spanish colonization of the Americas. After years of preliminary exploration and military skirmishes, 168 Spanish soldiers under conquistador Francisco Pizarro, along with his brothers in arms and their Indigenous auxiliaries, captured the last Sapa Inca, Atahualpa, at the Battle of Cajamarca in 1532. It was the first step in a long campaign that took decades of fighting but ended in Spanish victory in 1572 and colonization of the region as the Viceroyalty of Peru. The conquest of the Inca Empire, led to spin-off campaigns into present-day Chile and Colombia, as well as expeditions to the Amazon Basin and the surrounding rainforest."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1476,
+   "text": "With the help of Stephen III and Stephen Báthory, Vlad the Impaler (pictured) ousted Basarab the Old and became the ruler of Wallachia for the third time.",
+   "context": [
+    "Stephen III, better known as Stephen the Great, was Voivode of Moldavia from 1457 until his death. He was one of the most prominent rulers of late medieval Eastern Europe, noted for his long reign, military leadership and astute diplomacy. His efforts to preserve Moldavian autonomy from more powerful neighboring states such as the Ottoman Empire, Poland and Hungary, as well as his aptitude for nation-building and repute as a protector of the Christian faith, made him into a national hero in both Romania and Moldova. He is canonised by the Romanian Orthodox Church."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 534,
+   "text": "The second edition of the Code of Justinian, a codification of Roman law by Byzantine emperor Justinian I (pictured), was published.",
+   "context": [
+    "The Code of Justinian is one part of the Corpus Juris Civilis, the codification of Roman law ordered early in the 6th century AD by Justinian I, who was Eastern Roman emperor in Constantinople. Two other units, the Digest and the Institutes, were created during his reign. The fourth part, the Novellae Constitutiones, was compiled unofficially after his death but is now also thought of as part of the Corpus Juris Civilis."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Working Capital (הון חוזר)",
+  "Pull-Forward Demand (הקדמת ביקוש)",
+  "Low-Hanging Fruit (פרי בשל בהישג יד)",
   "Economic moat (חפיר כלכלי)",
   "First-mover advantage (יתרון הנע הראשון)",
   "Boil the frog (לבשל את הצפרדע)",
@@ -214,10 +257,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Death by a thousand cuts (מוות באלף חתכים)",
   "Hyperscaler (ספקית מיחשוב-על)",
   "Vendor financing (מימון מצד הספק)",
-  "Too big to fail (גדול מכדי להיכשל)",
-  "Junk bond (אג\"ח זבל)",
-  "Debt maturity wall (קיר פירעונות)",
-  "Rob Peter to pay Paul (לקחת מפיטר כדי לשלם לפול)"
+  "Too big to fail (גדול מכדי להיכשל)"
  ]
 }
 </input>
