@@ -1,0 +1,131 @@
+{
+  "section": "business",
+  "date": "2026-11-16",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-16T04:03:11+00:00",
+  "stories": [
+    {
+      "id": "nvidia-huang-crisis-ai-trade-unwind",
+      "kind": "analysis",
+      "en": {
+        "headline": "Nvidia's Leadership Crisis Is Rattling the Whole AI Trade, Not Just One Stock",
+        "scroll": "Jensen Huang's resignation and a possible comeback bid are colliding with export-control politics and a broader AI-stock selloff, showing how concentrated the entire AI trade has become around one company and one person.",
+        "coffee": "Jensen Huang resigned as Nvidia's CEO after a scandal involving an alleged relationship with a suspected Chinese spy, and within days reports surfaced that he's discussing a comeback with allies in Silicon Valley, including a push from investors urging the board to reinstate him given his track record. US Treasury Secretary Scott Bessent has taken the opposite view, saying Nvidia needs a \"shake-up\" with an external CEO, and Congress is moving to tighten AI chip export rules partly because of the scandal.\n\nThe market reaction has gone well beyond Nvidia's own stock. Data-center construction stocks — the \"picks and shovels\" of the AI buildout — have lost a combined $4.2 trillion in value as the trade unravels, and WSJ's own framing calls this \"the month that rocked the AI trade and rewired Wall Street,\" tying an election-night political shift and the spy scandal together as the two plotlines that ended what had been dubbed the AI sector's \"no-brainer\" investing era.\n\nThe underlying lesson is about concentration: when one company supplies the critical hardware for an entire technological wave, and one person's personal conduct can become a national-security story, the risk in the system is no longer just \"is this a good business\" — it's how much of the market's value depends on a small number of decisions nobody outside a boardroom actually controls.",
+        "deep": "## Background\n\nNvidia has spent the last several years as the indispensable supplier of the chips that power the artificial intelligence boom — its graphics processing units, or GPUs, are the hardware most large AI models are trained and run on. That position made Nvidia's market value, and by extension a huge share of the broader stock market's gains, dependent on the company's continued dominance and on Washington's export-control policy toward China, the market Nvidia has long been restricted from fully serving.\n\n## The story\n\nJensen Huang, Nvidia's co-founder and CEO since the company's founding, resigned after reports emerged of a personal relationship with a person suspected of being a Chinese intelligence asset — a scandal with obvious national-security overtones given Nvidia's central role in the AI-chip export-control debate. The fallout moved fast. Within days, reports said Huang was already discussing a path back to the CEO role with allies, and some investors wrote an open letter to Nvidia's board urging his reinstatement, citing his unusual track record running the company. US Treasury Secretary Scott Bessent took the opposite position publicly, arguing Nvidia needs a genuine \"shake-up\" with a CEO from outside the company and pointedly asking whether Nvidia has been fully complying with export restrictions to China. Separately, momentum in Congress to tighten AI chip export rules has picked up, with lawmakers citing the scandal directly and some demanding Huang and other Nvidia executives testify.\n\n## Second-order effects\n\nThe ripple effects go well beyond Nvidia's own share price. Stocks in companies building the physical infrastructure for AI — data centers, power supply, networking — have lost a combined $4.2 trillion in value as investors reassess how fast the AI buildout will actually continue. Interim CEO Colette Kress is reportedly expected to rein in the aggressive financing Nvidia had been extending to AI startups and computing deals, a practice that had effectively made Nvidia a lender as well as a supplier to much of the AI ecosystem — a retrenchment that itself removes a source of demand for AI infrastructure spending. Wall Street coverage has started describing the broader period as the end of AI investing's \"no-brainer\" era, when buying anything connected to the AI buildout was treated as close to a sure thing.\n\n## Why it matters\n\nThis episode is a vivid illustration of concentration risk at two levels simultaneously. At the industry level, a huge share of global technology investment has been funneled through essentially one company's hardware, meaning a crisis at that company doesn't stay contained to its own balance sheet — it reprices an entire sector built on the assumption that the AI buildout would keep accelerating on schedule. At the corporate level, a single executive's personal conduct became a market-moving, national-security-adjacent event because that executive was treated as practically inseparable from the company's value — which is exactly why investors are now split between wanting him back and wanting him gone.\n\n## What to watch next\n\nWatch whether Nvidia's board actually reinstates Huang or commits to an outside successor — the decision will signal whether governance concerns or continuity concerns win out. Also watch the pace of Congress's export-control legislation, Nvidia's own upcoming earnings report, which investors are treating as a test of whether the broader AI trade stabilizes or continues to unwind, and whether data-center and infrastructure stocks find a floor now that the most dramatic phase of the selloff may have already happened."
+      },
+      "he": {
+        "headline": "משבר ההנהגה באנבידיה מרעיד את כל סחר ה-AI, לא רק מניה אחת",
+        "scroll": "התפטרותו של ג'נסן הואנג ואפשרות לחזרתו מתנגשות עם פוליטיקת בקרת היצוא ומכירה רחבה יותר במניות ה-AI, וחושפות כמה ריכוזי הפך כל סחר ה-AI סביב חברה אחת ואדם אחד.",
+        "coffee": "ג'נסן הואנג התפטר מתפקיד מנכ\"ל אנבידיה בעקבות שערורייה שכרכה קשר נטען עם אדם החשוד כמרגל סיני, ובתוך ימים התפרסמו דיווחים שהוא דן עם מקורבים בעמק הסיליקון באפשרות לחזור לתפקיד, כולל לחץ ממשקיעים שקראו לדירקטוריון להחזיר אותו לתפקיד בהתבסס על הרקורד החריג שלו. שר האוצר האמריקאי סקוט בסנט נקט בעמדה הפוכה בפומבי, ואמר שאנבידיה זקוקה ל\"טלטלה\" עם מנכ\"ל חיצוני, ושאל במישרין אם אנבידיה עומדת במלואה בהגבלות היצוא לסין. במקביל, התנופה בקונגרס להחמיר כללי יצוא שבבי AI גברה, עם מחוקקים שמצטטים את השערויה במפורש וחלקם דורשים שהואנג ובכירים אחרים באנבידיה יעידו.\n\nהתגובה בשוק חרגה הרבה מעבר למחיר המניה של אנבידיה עצמה. מניות בנייה של מרכזי נתונים - ה\"כלים והמעדרים\" של בניית תשתית ה-AI - מחקו במשותף 4.2 טריליון דולר בשווי כשסחר ה-AI מתפרק, והכיסוי של וול סטריט ג'ורנל עצמו מגדיר את התקופה כ\"החודש שהרעיד את סחר ה-AI ושינה את וול סטריט\", וקושר בין תפנית פוליטית בליל הבחירות לבין שערוריית הריגול כשני קווי העלילה שסיימו את עידן ההשקעה ה\"בטוחה מאליה\" בסקטור ה-AI.\n\nהלקח שמתחתיו הוא ריכוזיות: כשחברה אחת מספקת את החומרה הקריטית לגל טכנולוגי שלם, וההתנהלות האישית של אדם אחד יכולה להפוך לסיפור ביטחון לאומי, הסיכון במערכת הוא לא רק \"האם זה עסק טוב\" - זו השאלה כמה משווי השוק תלוי במספר קטן של החלטות שאף אחד מחוץ לחדר הדירקטוריון לא באמת שולט בהן.",
+        "deep": "## רקע\n\nאנבידיה השקיעה את השנים האחרונות בתור הספקית ההכרחית של השבבים שמניעים את פריחת הבינה המלאכותית - יחידות העיבוד הגרפי (GPU) שלה הן החומרה שעליה רוב מודלי ה-AI הגדולים מאומנים ומופעלים. המעמד הזה הפך את שווי השוק של אנבידיה, ובהרחבה חלק עצום מהעליות בשוק המניות הרחב, תלוי בהמשך הדומיננטיות של החברה ובמדיניות בקרת היצוא של וושינגטון כלפי סין, השוק שאנבידיה מוגבלת זה זמן רב מלשרת באופן מלא.\n\n## הסיפור\n\nג'נסן הואנג, מייסד-שותף ומנכ\"ל אנבידיה מאז הקמתה, התפטר בעקבות דיווחים על קשר אישי עם אדם החשוד כנכס מודיעיני סיני - שערורייה עם מטען ביטחון לאומי ברור, בהתחשב בתפקידה המרכזי של אנבידיה בדיון על בקרת יצוא שבבי AI. ההשלכות התפתחו במהירות. בתוך ימים, דיווחים מסרו שהואנג כבר דן עם מקורבים בדרך חזרה לתפקיד המנכ\"ל, וכמה משקיעים כתבו מכתב פתוח לדירקטוריון אנבידיה שקרא להחזיר אותו לתפקיד, בציטוט הרקורד החריג שלו בניהול החברה. שר האוצר האמריקאי סקוט בסנט נקט בעמדה הפוכה בפומבי, בטענה שאנבידיה זקוקה ל\"טלטלה\" אמיתית עם מנכ\"ל שמגיע מחוץ לחברה, ושאל במישרין אם אנבידיה עומדת במלואה בהגבלות היצוא לסין. בנפרד, התנופה בקונגרס להחמיר כללי יצוא שבבי AI התגברה, עם מחוקקים שמצטטים את השערורייה במישרין וחלקם דורשים שהואנג ובכירים אחרים באנבידיה יעידו.\n\n## השפעות מסדר שני\n\nגלי ההדף חורגים הרבה מעבר למחיר המניה של אנבידיה עצמה. מניות של חברות שבונות את התשתית הפיזית ל-AI - מרכזי נתונים, אספקת חשמל, תקשורת - מחקו במשותף 4.2 טריליון דולר בשווי כשמשקיעים מעריכים מחדש באיזו מהירות בניית ה-AI תמשיך בפועל. מנכ\"לית הזמנית קולט קרס צפויה, כך מדווח, לרסן את המימון האגרסיבי שאנבידיה העניקה לעסקות מחשוב וסטארטאפי AI, נוהג שהפך את אנבידיה בפועל גם לגוף מלווה ולא רק לספקית לרוב מערכת ה-AI - התכנסות שבעצמה מסירה מקור ביקוש להשקעה בתשתיות AI. הכיסוי של וול סטריט התחיל לתאר את התקופה הרחבה יותר כסוף עידן ההשקעה ה\"בטוחה מאליה\" ב-AI, שבו קנייה של כל דבר המקושר לבניית ה-AI נחשבה כקרובה לבטוחה.\n\n## למה זה חשוב\n\nהפרשה הזו היא דוגמה חיה לסיכון ריכוזיות בשתי רמות בבת אחת. בשתי התעשייה, חלק עצום מההשקעה הטכנולוגית העולמית עבר למעשה דרך החומרה של חברה אחת, כך שמשבר באותה חברה לא נשאר מוגבל למאזן שלה עצמה - הוא מתמחר מחדש תעשייה שלמה שנבנתה על ההנחה שבניית ה-AI תמשיך להאיץ בלו\"ז. בשכבת החברה, ההתנהלות האישית של מנהל בודד הפכה לאירוע שמזיז שווקים וגובל בביטחון לאומי, כי המנהל הזה טופל כמעט כבלתי נפרד משווי החברה - וזו בדיוק הסיבה שמשקיעים כרגע חצויים בין רצון להחזיר אותו לרצון להיפטר ממנו.\n\n## למה לשים לב בהמשך\n\nיש לבדוק אם דירקטוריון אנבידיה בפועל יחזיר את הואנג לתפקיד או יתחייב למחליף חיצוני - ההחלטה תסמן אם חששות ממשל תאגידי או חששות המשכיות מנצחים. כדאי גם לבדוק את קצב חקיקת בקרת היצוא בקונגרס, את דוח הרבעון הקרוב של אנבידיה עצמה, שמשקיעים מתייחסים אליו כמבחן לשאלה אם סחר ה-AI הרחב יותר מתייצב או ממשיך להתפרק, ואם מניות מרכזי הנתונים והתשתית ימצאו קרש קרקע כעת שהשלב הדרמטי ביותר של המכירה אולי כבר קרה."
+      },
+      "tags": [
+        "nvidia",
+        "ai-trade",
+        "corporate-governance",
+        "chip-exports"
+      ],
+      "sources": [
+        {
+          "outlet": "Financial Times",
+          "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
+          "url": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "US and allies sign accord to protect AI supply chains from China",
+          "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+          "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+          "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Nvidia Shares Primed to Steady as Investors Eye Comeback Report",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-shares-primed-for-bounce-as-investors-eye-comeback-report"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered",
+          "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Month That Rocked the AI Trade and Rewired Wall Street",
+          "url": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The SpaceX IPO Had Musk’s Star Power. Anthropic’s Has FOMO.",
+          "url": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "דיווח: הואנג דן באפשרות לחזור לאנבידיה ימים לאחר ההתפטרות",
+          "url": "https://www.themarker.com/wallstreet/2026-11-15/ty-article/000001a1-e0bc-d1ce-a9a3-e0bf23bf0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "האם אלו החברות שהיה להן אינטרס לפתות את הואנג?",
+          "url": "https://www.themarker.com/news/internal-info/2026-11-15/ty-article/000001a1-e002-d1ce-a9a3-e01380110000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הלקח מפרשת אנבידיה לממשלה הנכנסת: כשהמדינה חושבת כמו התאגיד, יש סכנה",
+          "url": "https://www.themarker.com/blogs/2026-11-15/ty-article/000001a1-dfe8-d59b-a1f3-dffcc27d0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 4038.02,
+      "prev_close": 4073.77,
+      "change_pct": -0.88,
+      "as_of": "2026-11-13"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7561.6699,
+      "prev_close": 7592.3999,
+      "change_pct": -0.4,
+      "as_of": "2026-11-13"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2175,
+      "prev_close": 3.1918,
+      "change_pct": 0.8,
+      "as_of": "2026-11-16"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 94.86,
+      "prev_close": 95.84,
+      "change_pct": -1.02,
+      "as_of": "2026-11-15"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 64904.2617,
+      "prev_close": 64128.0508,
+      "change_pct": 1.21,
+      "as_of": "2026-11-16"
+    }
+  }
+}

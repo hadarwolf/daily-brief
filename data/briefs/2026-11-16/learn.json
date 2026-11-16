@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-16",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-16T04:03:11+00:00",
+  "stories": [
+    {
+      "id": "word-moral-hazard",
+      "kind": "word",
+      "en": {
+        "headline": "Moral hazard (סיכון מוסרי)",
+        "scroll": "The tendency to take on more risk when someone else bears the cost if things go wrong.",
+        "coffee": "Moral hazard shows up whenever a person or company is shielded from the consequences of their own risk-taking, so they take on more risk than they would if they had to absorb the downside themselves. It's the logic behind why a driver with full insurance coverage might park less carefully, or why a trader might take a bigger bet if they know a bailout is likely if it goes wrong. Example: \"Once the fund knew the central bank would step in during a crisis, moral hazard crept in and its managers started taking far riskier positions.\"",
+        "deep": "Use \"moral hazard\" when the problem is specifically that someone is insulated from the downside of their own decisions, not just that a decision is risky. It's a step in a chain: first a party gets protection or a safety net (insurance, a bailout guarantee, a bonus structure that rewards upside but not downside), and only then does riskier behavior follow. Don't confuse it with adverse selection, a related but different idea about parties with hidden information self-selecting into a deal (e.g., sicker people disproportionately buying health insurance) — moral hazard is about behavior changing after the deal, not about who signs up for it. More examples: \"Executive pay packages that reward short-term stock gains without clawback provisions create moral hazard.\" \"Deposit insurance reduces bank runs, but critics say it also creates moral hazard by letting banks take on riskier loans.\" In Hebrew: סיכון מוסרי."
+      },
+      "he": {
+        "headline": "Moral hazard (סיכון מוסרי)",
+        "scroll": "הנטייה לקחת יותר סיכון כשמישהו אחר סופג את העלות אם הדברים משתבשים.",
+        "coffee": "סיכון מוסרי מתעורר כשגוף או אדם מוגנים מההשלכות של הסיכונים שהם עצמם לוקחים, ולכן הם נוטים לקחת סיכונים גדולים יותר ממה שהיו לוקחים אילו נאלצו לספוג את התוצאה בעצמם. זו ההיגיון שמסביר למה נהג עם ביטוח מקיף עלול להיות פחות זהיר, או למה סוחר עלול לקחת פוזיציה מסוכנת יותר אם הוא יודע שחילוץ ממשלתי צפוי אם הדברים ישתבשו. דוגמה: \"כשבקרן ידעו שהבנק המרכזי יתערב בזמן משבר, התפתח סיכון מוסרי והמנהלים התחילו לקחת פוזיציות מסוכנות הרבה יותר.\"",
+        "deep": "המונח מתאים כשהבעיה היא ספציפית שמישהו מבודד מההשלכות השליליות של ההחלטות שלו עצמו, לא רק שהחלטה מסוימת מסוכנת. יש כאן שרשרת: ראשית הצד מקבל הגנה או רשת ביטחון (ביטוח, הבטחת חילוץ, מבנה בונוסים שמתגמל רק על עלייה ולא על ירידה), ורק אז מגיעה ההתנהגות המסוכנת יותר. אל תתבלבלו עם \"בחירה שלילית\" (adverse selection), מושג קרוב אך שונה שמתאר צדדים עם מידע נסתר שבוחרים להיכנס לעסקה (למשל, אנשים חולים יותר שנרשמים יותר לביטוח בריאות) - סיכון מוסרי נוגע להתנהגות שמשתנה אחרי העסקה, לא למי שנרשם אליה. עוד דוגמאות: \"חבילות שכר למנהלים שמתגמלות עלייה קצרת-טווח במניה בלי סעיפי החזר (clawback) יוצרות סיכון מוסרי.\" \"ביטוח הפיקדונות מפחית ריצות אל הבנקים, אך מבקרים טוענים שהוא גם יוצר סיכון מוסרי בכך שהוא מאפשר לבנקים לקחת הלוואות מסוכנות יותר.\""
+      },
+      "tags": [
+        "economics",
+        "vocabulary",
+        "risk"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-melt-up",
+      "kind": "word",
+      "en": {
+        "headline": "Melt-up (עלייה קדחתנית)",
+        "scroll": "A rapid, unsustainable rise in asset prices driven by investor fear of missing out rather than by fundamentals.",
+        "coffee": "A melt-up happens when prices climb fast not because earnings or fundamentals improved that much, but because investors who stayed on the sidelines start piling in, afraid of being left behind. It looks like a rally from the outside, but it's driven more by psychology and momentum-chasing than by a genuine reassessment of value, which is why melt-ups often end in a sharp reversal. Example: \"Some strategists warned that the AI stock rally had turned into a melt-up, with valuations detached from any near-term earnings case.\"",
+        "deep": "Reach for \"melt-up\" specifically when a rise is fast, broad, and increasingly driven by latecomers chasing performance rather than by new information that justifies higher prices — it's a description of market psychology, not just a synonym for \"rally\" or \"bull market.\" The term carries a built-in warning: a melt-up is usually considered fragile, because the same FOMO (fear of missing out) that pushed prices up can reverse into panic selling. It's also distinct from a bubble, which is a longer, more structural mispricing; a melt-up is the short, intense final phase that sometimes (not always) precedes one. More examples: \"The last few weeks of the melt-up saw retail investors pour money into stocks that had already tripled.\" \"After the melt-up came the hangover: the index gave back three months of gains in a week.\" In Hebrew: עלייה קדחתנית."
+      },
+      "he": {
+        "headline": "Melt-up (עלייה קדחתנית)",
+        "scroll": "עלייה מהירה ולא יציבה במחירי נכסים, המונעת מפחד המשקיעים להפסיד את הרכבת ולא מנתונים כלכליים.",
+        "coffee": "עלייה קדחתנית (melt-up) מתרחשת כשמחירים מטפסים במהירות לא בגלל שהרווחים או הנתונים הכלכליים השתפרו באותה מידה, אלא בגלל שמשקיעים שנשארו בצד מתחילים להיכנס בבת אחת, מפוחדים להישאר מאחור. מבחוץ זה נראה כמו ראלי, אבל הדלק האמיתי הוא פסיכולוגיה ורדיפה אחרי מומנטום יותר מהערכת שווי אמיתית - ולכן עליות קדחתניות נגמרות לרוב בתפנית חדה למטה. דוגמה: \"כמה אנליסטים הזהירו שהראלי במניות ה-AI הפך לעלייה קדחתנית, עם שווי שוק מנותק מכל תרחיש רווחים קרוב.\"",
+        "deep": "המונח מתאים במיוחד כשעלייה היא מהירה, רחבה, ומונעת יותר ויותר על ידי מאחרים שרודפים אחרי תשואה ולא על ידי מידע חדש שמצדיק מחירים גבוהים יותר - זה תיאור של פסיכולוגיית שוק, לא רק מילה נרדפת ל\"ראלי\" או \"שוק עולה\". למונח יש אזהרה מובנית: עלייה קדחתנית נחשבת בדרך כלל שבירה, כי אותו פחד להפסיד (FOMO) שדחף את המחירים מעלה יכול להתהפך למכירות פאניקה. זה גם שונה מ\"בועה\", שהיא תמחור שגוי מבני וממושך יותר; עלייה קדחתנית היא השלב הקצר והאינטנסיבי שלעיתים (לא תמיד) מקדים בועה. עוד דוגמאות: \"בשבועות האחרונים של העלייה הקדחתנית, משקיעים פרטיים שפכו כסף למניות שכבר שילשו את ערכן.\" \"אחרי העלייה הקדחתנית הגיע הפיכחון: המדד מחק שלושה חודשים של עליות בשבוע אחד.\""
+      },
+      "tags": [
+        "economics",
+        "vocabulary",
+        "markets"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-betting-the-farm",
+      "kind": "word",
+      "en": {
+        "headline": "Betting the farm (להמר על הכל)",
+        "scroll": "To risk everything — all your capital, resources or reputation — on a single decision or venture.",
+        "coffee": "\"Betting the farm\" means committing essentially all of what you have to one outcome, with no real fallback if it fails — the image being a farmer who wagers the land that is their entire livelihood. It's used for decisions so large and concentrated that there's little room left to absorb a loss. Example: \"The company bet the farm on a single product launch, taking on debt it couldn't repay if the device flopped.\"",
+        "deep": "Use this idiom when a decision isn't just risky but existential — a bad outcome wouldn't just hurt, it would wipe the person or company out, because there was no diversification or backup plan. It's stronger than \"taking a risk\" or \"making a big bet\": those can describe one position among many, while betting the farm implies there's nothing else left if it goes wrong. It pairs naturally with discussions of overleveraged companies, founders who pour all their savings into one startup, or executives who commit a firm's whole strategy to one unproven technology. More examples: \"Investors questioned whether the airline had bet the farm on a single aircraft model.\" \"She didn't bet the farm on the first offer — she kept other options open.\" In Hebrew: להמר על הכל."
+      },
+      "he": {
+        "headline": "Betting the farm (להמר על הכל)",
+        "scroll": "להמר על כל מה שיש לך - כל ההון, המשאבים או המוניטין - על החלטה אחת.",
+        "coffee": "הביטוי \"betting the farm\" פירושו להתחייב כמעט לכל מה שיש לך לתוצאה אחת, בלי תוכנית גיבוי אמיתית אם היא נכשלת - התמונה היא של חוואי שמהמר על האדמה שהיא כל מקור הפרנסה שלו. משתמשים בו להחלטות גדולות וממוקדות כך שלא נותר מרווח לקלוט הפסד. דוגמה: \"החברה המרה את הכל על השקת מוצר אחד, ולקחה חוב שלא היתה יכולה להחזיר אם המכשיר היה נכשל.\"",
+        "deep": "משתמשים בביטוי הזה כשהחלטה היא לא רק מסוכנת אלא קיומית - תוצאה רעה לא רק תזיק, היא תמחק את האדם או החברה, כי לא היה פיזור סיכונים או תוכנית גיבוי. זה חזק יותר מ\"לקחת סיכון\" או \"לעשות הימור גדול\": אלו יכולים לתאר פוזיציה אחת מבין רבות, בעוד \"להמר על הכל\" מרמז שלא נשאר דבר אם זה משתבש. הביטוי מתחבר באופן טבעי לדיונים על חברות ממונפות מדי, מייסדים שמשקיעים את כל החסכונות שלהם בסטארטאפ אחד, או מנהלים שמחייבים את כל האסטרטגיה של החברה לטכנולוגיה אחת לא מוכחת. עוד דוגמאות: \"משקיעים שאלו אם חברת התעופה המרה את הכל על דגם מטוס בודד.\" \"היא לא המרה את הכל על ההצעה הראשונה - היא השאירה אפשרויות אחרות פתוחות.\""
+      },
+      "tags": [
+        "idiom",
+        "vocabulary",
+        "risk"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-agency-problem",
+      "kind": "concept",
+      "en": {
+        "headline": "The agency problem: when the people running the company aren't the people who own it",
+        "scroll": "Managers (agents) often have different incentives than owners (principals), and owners can't fully control or monitor what agents do.",
+        "coffee": "The agency problem (also called the principal-agent problem) is one of the oldest ideas in economics: whenever one party (the principal) hires another party (the agent) to act on their behalf, the agent's own interests and information will never line up perfectly with the principal's. The gap between what's good for the agent and what's good for the principal is where costs and risks creep in — and because the principal can't watch every decision, the agent often has more room to act on their own interest than the principal would like.",
+        "deep": "Picture any public company. The shareholders (the principals) own the business and bear the financial consequences of how it's run, but they don't run it day to day — they hire executives (the agents) to do that for them. This separation of ownership and control is efficient (most shareholders have neither the time nor the expertise to manage a company), but it opens a gap: the CEO's career, pay, reputation and personal life are not the same thing as shareholder value, even though the CEO's decisions move shareholder value constantly.\n\n## A worked example\n\nImagine a founder-CEO who built a company from nothing into the most valuable player in its industry. The board and investors treat the CEO as practically irreplaceable — the stock price itself seems to depend on this one person's continued leadership. Then the CEO does something in their personal conduct that creates a scandal: regulators get involved, the press runs the story for weeks, and the company's reputation and share price take a hit that has nothing to do with the quality of its products.\n\nThe board now faces a classic agency problem. Removing the CEO might protect the company's long-term reputation and reduce regulatory risk — good for shareholders. But the board worries that a change in leadership right now could spook the market even more, hurting the share price in the short term — which is also, confusingly, a shareholder interest. Meanwhile the CEO, as the agent, has every incentive to downplay the scandal and argue for staying, because their own career and wealth (often tied up in company stock and options) depend on keeping the job. The principals (shareholders, through the board) have far less real-time information about what actually happened than the agent does, and by the time all the facts surface, much of the damage is already done.\n\n## Why it matters beyond this one example\n\nThis structure — an agent with more information and different incentives than the principal, who can't be perfectly monitored — explains a huge amount of corporate behavior: why boards build in clawback clauses and performance-linked pay, why activist investors demand board seats, why regulators require disclosure, and why \"good governance\" is really just a set of tools for narrowing the gap between what's good for the people running a company and what's good for the people who own it. The gap never closes completely — it's a structural feature of delegating control, not a bug that can be fully engineered away."
+      },
+      "he": {
+        "headline": "בעיית הנציג: כשמי שמנהל את החברה הוא לא מי שבעל השליטה בה",
+        "scroll": "למנהלים (הנציגים) יש לרוב תמריצים שונים מאלה של הבעלים (הנאמנים), והבעלים לא יכולים לפקח באופן מלא על מה שהנציגים עושים.",
+        "coffee": "בעיית הנציג (principal-agent problem) היא אחת הרעיונות העתיקים בכלכלה: כל פעם שצד אחד (הנאמן, principal) שוכר צד אחר (הנציג, agent) לפעול בשמו, האינטרסים והמידע של הנציג לעולם לא יתאימו באופן מושלם לאלה של הנאמן. הפער בין מה שטוב לנציג לבין מה שטוב לנאמן הוא המקום שבו מתגנבים עלויות וסיכונים - ומכיוון שהנאמן לא יכול לפקח על כל החלטה, לנציג יש לרוב יותר מרווח לפעול לפי האינטרס שלו ממה שהנאמן היה רוצה.",
+        "deep": "דמיינו חברה ציבורית כלשהי. בעלי המניות (הנאמנים) הם בעלי העסק ונושאים בתוצאות הכלכליות של אופן הניהול שלו, אבל הם לא מנהלים אותו יום-יום - הם שוכרים מנהלים (הנציגים) שיעשו זאת בשבילם. הפרדה זו בין בעלות לשליטה היא יעילה (לרוב בעלי המניות אין לא את הזמן ולא את המומחיות לניהול חברה), אבל היא פותחת פער: הקריירה, השכר, המוניטין והחיים הפרטיים של המנכ\"ל אינם זהים לערך עבור בעלי המניות, אף שההחלטות של המנכ\"ל מזיזות את הערך הזה כל הזמן.\n\n## דוגמה מפורטת\n\nדמיינו מנכ\"ל-מייסד שבנה חברה מאפס עד שהפכה לשחקנית המוערכת ביותר בתעשייתה. הדירקטוריון והמשקיעים מתייחסים למנכ\"ל כבלתי ניתן להחלפה בפועל - מחיר המניה עצמו נדמה כתלוי בהמשך ההנהגה שלו. אז המנכ\"ל עושה משהו בהתנהלות האישית שלו שיוצר שערורייה: רגולטורים נכנסים לתמונה, התקשורת מסקרת את הסיפור שבועות, והמוניטין ומחיר המניה של החברה נפגעים - בלי שום קשר לאיכות המוצרים שלה.\n\nהדירקטוריון עומד כעת בפני בעיית נציג קלאסית. הדחת המנכ\"ל עשויה להגן על המוניטין ארוך הטווח של החברה ולהפחית סיכון רגולטורי - טוב לבעלי המניות. אבל הדירקטוריון חושש ששינוי בהנהגה כרגע עלול להבהיל את השוק עוד יותר, ולפגוע במחיר המניה בטווח הקצר - שזה, באופן מבלבל, גם אינטרס של בעלי המניות. בינתיים, למנכ\"ל, כנציג, יש כל תמריץ להמעיט בחשיבות השערורייה ולטעון בעד המשך כהונתו, כי הקריירה וההון האישי שלו (שלרוב קשורים במניות ואופציות בחברה) תלויים בשמירה על התפקיד. לנאמנים (בעלי המניות, באמצעות הדירקטוריון) יש הרבה פחות מידע בזמן אמת על מה שבאמת קרה לעומת הנציג, ובזמן שכל העובדות מתבררות, חלק גדול מהנזק כבר נגרם.\n\n## למה זה חשוב מעבר לדוגמה הזו\n\nהמבנה הזה - נציג עם יותר מידע ותמריצים שונים מהנאמן, שלא ניתן לפקח עליו באופן מושלם - מסביר חלק גדול מההתנהלות התאגידית: למה דירקטוריונים בונים סעיפי החזר (clawback) ושכר מבוסס ביצועים, למה משקיעים אקטיביסטים דורשים מקומות בדירקטוריון, למה רגולטורים דורשים גילוי נאות, ולמה \"ממשל תאגידי תקין\" הוא בעצם רק מערכת כלים לצמצום הפער בין מה שטוב למי שמנהל חברה לבין מה שטוב למי שבעל השליטה בה. הפער הזה לעולם לא נסגר באופן מלא - הוא מאפיין מבני של האצלת שליטה, לא תקלה שניתן לתכנן אותה כליל."
+      },
+      "tags": [
+        "economics",
+        "concept",
+        "corporate-governance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-cajamarca-1532",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1532: Pizarro Captures the Inca Emperor Atahualpa at Cajamarca",
+        "scroll": "A force of 168 Spanish soldiers ambushed and captured the ruler of an empire of millions, opening the conquest of the Inca Empire.",
+        "coffee": "At Cajamarca in the Peruvian highlands, the Spanish conquistador Francisco Pizarro and a force of just 168 men staged a surprise attack on the court of Atahualpa, the Inca emperor, and captured him within hours. It was a staggering mismatch on paper: Atahualpa commanded an empire of millions of subjects and an army vastly larger than Pizarro's tiny band. What made it possible was a combination of factors — Spanish cavalry, steel weapons and firearms that Inca forces had never encountered, the element of surprise, and, critically, an empire already weakened by a recent civil war between Atahualpa and his brother over succession.\n\nThe capture mattered far beyond that single afternoon. With the emperor held hostage, Inca central authority effectively collapsed — in a system where the ruler held near-absolute religious and political power, there was no clear playbook for a captured god-king. Pizarro extracted an enormous ransom in gold and silver before having Atahualpa executed anyway, and the power vacuum that followed opened the way for decades of Spanish conquest across the former Inca Empire.",
+        "deep": "## Background\n\nBy 1532, the Inca Empire stretched along most of the Andes, one of the largest pre-industrial empires in the world, built on an extensive road network and a rigid administrative hierarchy centered on a semi-divine emperor. But the empire Pizarro encountered was not at full strength: Atahualpa had just won a brutal civil war against his half-brother Huascar over who would inherit the throne, and the fighting had killed tens of thousands and strained the empire's cohesion. European diseases, introduced earlier through contact elsewhere in the Americas, had also already begun spreading ahead of the Spanish themselves, including likely contributing to the death of the previous emperor and triggering the succession crisis in the first place.\n\n## The ambush\n\nPizarro, who had explored the Pacific coast of South America for several years gathering intelligence, arrived at Cajamarca with about 168 soldiers, a small number of cannon, and cavalry — horses being an animal the Inca had never seen. He invited Atahualpa, who had brought a large but lightly armed ceremonial retinue, to a meeting. When a Spanish priest's demand that Atahualpa accept Christianity and Spanish sovereignty was rejected, Pizarro's men opened fire and charged. Thousands of Atahualpa's attendants were killed in the chaos; Pizarro's own forces suffered almost no casualties. Atahualpa himself was taken prisoner.\n\n## Aftermath\n\nPizarro held Atahualpa for months, during which the emperor ordered an immense ransom collected — rooms reportedly filled with gold and silver objects melted down from across the empire. Despite receiving the ransom, Pizarro had Atahualpa tried on fabricated charges and executed in 1533. With the emperor dead and the succession already in chaos from the civil war, no single figure could rally unified Inca resistance. The Spanish, allied at various points with Indigenous groups who had their own grievances against Inca rule, spent the following decades extending control over the former empire, a campaign that also spilled into present-day Chile and Colombia. The episode remains one of history's starkest examples of how a small, technologically different force exploited an existing political crisis to topple a vast and sophisticated state."
+      },
+      "he": {
+        "headline": "1532: פיסארו לוכד את קיסר האינקה אטאוואלפה בקחמרקה",
+        "scroll": "כוח של 168 חיילים ספרדים הפתיע ולכד את שליט האימפריה בת מיליוני התושבים, ופתח את כיבוש האינקות.",
+        "coffee": "בקחמרקה שבהרי פרו, הכובש הספרדי פרנסיסקו פיסארו וכוח של רק 168 אנשים ביצעו התקפת פתע על חצר הקיסר אטאוואלפה ולכדו אותו בתוך שעות. על הנייר זה היה חוסר שיווי משקל מדהים: אטאוואלפה שלט באימפריה של מיליוני נתינים ובצבא גדול בהרבה מכוחו הזעיר של פיסארו. מה שהפך את זה לאפשרי היה שילוב של גורמים - פרשים, נשק פלדה וכלי נשק חמים שכוחות האינקה לא נתקלו בהם מעולם, אפקט ההפתעה, ובאופן מכריע - אימפריה שכבר נחלשה ממלחמת אזרחים טרייה בין אטאוואלפה לאחיו על הירושה.\n\nהלכידה הייתה משמעותית הרבה מעבר לאותו אחר-צהריים בודד. עם הקיסר כבן ערובה, השלטון המרכזי של האינקה קרס למעשה - במערכת שבה השליט החזיק בכוח דתי ופוליטי כמעט בלתי מוגבל, לא היה נוהל מוכן למקרה של מלך-אל שנלכד. פיסארו סחט כופר עצום בזהב וכסף לפני שהוציא את אטאוואלפה להורג בכל זאת, וחלל הכוח שנפער פתח את הדרך לעשרות שנים של כיבוש ספרדי ברחבי האימפריה הקודמת של האינקה.",
+        "deep": "## רקע\n\nבשנת 1532 השתרעה אימפריית האינקה על רוב שטח האנדים, אחת האימפריות הגדולות בעולם הקדם-תעשייתי, שנבנתה על רשת כבישים ענפה והיררכיה אדמיניסטרטיבית נוקשה שבמרכזה קיסר למחצה-אלוהי. אבל האימפריה שפיסארו פגש לא היתה בשיאה: אטאוואלפה סיים זה עתה מלחמת אזרחים אכזרית נגד אחיו למחצה הואסקר על זכות הירושה לכתר, ולחימה זו הרגה רבבות והחלישה את לכידות האימפריה. מחלות אירופיות, שהגיעו מוקדם יותר באמצעות מגע באזורים אחרים באמריקה, גם הן כבר התחילו להתפשט לפני הספרדים עצמם, וסביר שתרמו למותו של הקיסר הקודם ועוררו מלכתחילה את משבר הירושה.\n\n## המארב\n\nפיסארו, שחקר את חופי האוקיינוס השקט של דרום אמריקה במשך כמה שנים בעת שאסף מודיעין, הגיע לקחמרקה עם כ-168 חיילים, מספר קטן של תותחים ופרשים - סוסים היו בעל חיים שהאינקה לא ראו מעולם. הוא הזמין את אטאוואלפה, שהגיע עם פמליה טקסית גדולה אך חלשת נשק, לפגישה. כאשר נדחתה דרישת כומר ספרדי שאטאוואלפה יקבל את הנצרות ואת הריבונות הספרדית, אנשי פיסארו פתחו באש ותקפו. אלפים מאנשי הפמליה של אטאוואלפה נהרגו בתוך הכאוס; לכוחות פיסארו עצמם לא היו כמעט אבדות. אטאוואלפה עצמו נלכד.\n\n## התוצאות\n\nפיסארו החזיק את אטאוואלפה חודשים, ובמהלכם ציווה הקיסר לאסוף כופר עצום - חדרים שלפי הדיווחים התמלאו בחפצי זהב וכסף שהותכו מרחבי האימפריה. אף שקיבל את הכופר, פיסארו העמיד את אטאוואלפה לדין בהאשמות מפוברקות והוציאו להורג ב-1533. עם מות הקיסר וירושה שהייתה כבר בכאוס ממלחמת האזרחים, לא היתה דמות אחת שיכלה לגייס התנגדות אינקאית מאוחדת. הספרדים, שבנקודות שונות נעזרו בבריתות עם קבוצות ילידים שהיו להן טענות משלהן נגד שלטון האינקה, הקדישו את העשורים הבאים להרחבת השליטה על שטחי האימפריה הקודמת, מערכה שנגלשה גם לשטחי צ'ילה וקולומביה של היום. הפרשה נותרה אחת הדוגמאות הקיצוניות בהיסטוריה לאופן שבו כוח קטן וטכנולוגית שונה ניצל משבר פוליטי קיים כדי להפיל מדינה עצומה ומתוחכמת."
+      },
+      "tags": [
+        "history",
+        "on-this-day",
+        "colonialism"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1532: Spanish conquest of Peru: Conquistador Francisco Pizarro orchestrated a surprise attack in Cajamarca, capturing the Inca emperor, Atahualpa.",
+          "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-16",
+  "questions": [
+    {
+      "id": "q-houthis-bab-al-mandab",
+      "section": "geopolitics",
+      "story_id": "houthis-bab-al-mandab-red-sea",
+      "answer_index": 1,
+      "en": {
+        "question": "What changed after six weeks of a Yemeni government counter-offensive against the Houthis?",
+        "options": [
+          "International naval forces took direct control of the strait to guarantee shipping safety",
+          "Yemeni government forces announced a retreat from the Bab al-Mandab Strait, leaving the Houthis in control of the waterway",
+          "Houthi forces negotiated a ceasefire and withdrew from the Bab al-Mandab Strait",
+          "Saudi Arabia launched a new military intervention to retake the strait from the Houthis"
+        ],
+        "explanation": "Saudi-backed Yemeni government forces retreated from the strait after a six-week counter-offensive, handing the Houthis control of a critical Red Sea shipping chokepoint."
+      },
+      "he": {
+        "question": "מה השתנה אחרי שישה שבועות של מתקפת נגד של ממשלת תימן מול החות'ים?",
+        "options": [
+          "כוחות בין-לאומיים השתלטו ישירות על המצר כדי להבטיח את ביטחון השיט",
+          "כוחות ממשלת תימן הודיעו על נסיגה ממצר באב אל-מנדב, והשאירו את החות'ים בשליטה על נתיב השיט",
+          "החות'ים ניהלו משא ומתן על הפסקת אש ונסוגו ממצר באב אל-מנדב",
+          "סעודיה פתחה בהתערבות צבאית חדשה כדי להשיב את המצר מהחות'ים"
+        ],
+        "explanation": "כוחות ממשלת תימן הנתמכת בידי סעודיה נסוגו מהמצר אחרי מתקפת נגד שנמשכה שישה שבועות, והעבירו לחות'ים שליטה על נתיב שיט קריטי בים סוף."
+      }
+    },
+    {
+      "id": "q-nvidia-huang-crisis",
+      "section": "business",
+      "story_id": "nvidia-huang-crisis-ai-trade-unwind",
+      "answer_index": 2,
+      "en": {
+        "question": "What triggered the crisis engulfing Nvidia's leadership?",
+        "options": [
+          "Huang stepped down to focus on a new independent chip-design startup",
+          "Nvidia's board fired Huang over disappointing quarterly earnings",
+          "CEO Jensen Huang resigned after revelations of a relationship with a suspected Chinese intelligence operative",
+          "Nvidia was forced to replace Huang after a failed merger with a rival chipmaker"
+        ],
+        "explanation": "Huang resigned after a scandal involving a suspected Chinese spy, which also raised questions about whether export-controlled AI chips had reached China."
+      },
+      "he": {
+        "question": "מה הצית את המשבר שפוקד את ההנהגה של נווידיה?",
+        "options": [
+          "הואנג התפטר כדי להתמקד בסטארטאפ עצמאי לתכנון שבבים",
+          "דירקטוריון נווידיה פיטר את הואנג בשל רבעון כספי מאכזב",
+          "המנכ\"ל ג'נסן הואנג התפטר בעקבות חשדות לקשר עם סוכן מודיעין סיני",
+          "נווידיה נאלצה להחליף את הואנג בעקבות מיזוג כושל עם יצרנית שבבים מתחרה"
+        ],
+        "explanation": "הואנג התפטר בעקבות פרשה שכרכה אותו בחשד לקשר עם סוכן מודיעין סיני, פרשה שעוררה גם שאלות על השאלה אם שבבי AI שכפופים לפיקוח ייצוא הגיעו לסין."
+      }
+    },
+    {
+      "id": "q-arab-parties-kingmaker",
+      "section": "israeli_politics",
+      "story_id": "arab-parties-kingmaker-19-seats",
+      "answer_index": 0,
+      "en": {
+        "question": "Why are Arab-led parties in a position of unusual influence after the election?",
+        "options": [
+          "Their combined 19 seats are enough to block the Netanyahu-aligned bloc from forming a government",
+          "They won enough seats to form a government on their own",
+          "A court ruling awarded them additional Knesset seats",
+          "They signed a direct coalition agreement with Likud"
+        ],
+        "explanation": "With a combined 19 seats, Arab-led parties hold enough seats to prevent the Netanyahu-aligned bloc from reaching a governing majority."
+      },
+      "he": {
+        "question": "מדוע המפלגות הערביות נמצאות בעמדת השפעה חריגה אחרי הבחירות?",
+        "options": [
+          "19 המנדטים המשותפים שלהן מספיקים כדי לחסום מהגוש התומך בנתניהו להרכיב ממשלה",
+          "הן זכו במספיק מנדטים כדי להרכיב ממשלה בעצמן",
+          "פסיקת בית משפט הקנתה להן מנדטים נוספים בכנסת",
+          "הן חתמו על הסכם קואליציוני ישיר עם הליכוד"
+        ],
+        "explanation": "עם 19 מנדטים משותפים, המפלגות הערביות מחזיקות בכוח מספיק כדי למנוע מהגוש התומך בנתניהו להגיע לרוב קואליציוני."
+      }
+    }
+  ]
+}
