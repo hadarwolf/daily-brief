@@ -269,18 +269,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
      "published": "2026-11-13T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…"
-    },
-    {
-     "ref": "mit_tech_review#1",
-     "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-     "published": "2026-11-13T10:00:00+00:00",
-     "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…"
-    },
-    {
-     "ref": "mit_tech_review#2",
-     "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-     "published": "2026-11-13T10:00:00+00:00",
-     "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…"
     }
    ]
   },

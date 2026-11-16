@@ -685,21 +685,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#4",
-     "title": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) - Unisba Media",
-     "published": "2026-11-15T19:10:42+00:00",
-     "summary": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) Unisba Media"
-    },
-    {
-     "ref": "gnews_inter_miami#5",
      "title": "Inter Miami's international call-ups see limited action as FIFA break offers unexpected MLS Playoffs advant... - Pasión Fútbol",
      "published": "2026-11-15T18:37:00+00:00",
      "summary": "Inter Miami's international call-ups see limited action as FIFA break offers unexpected MLS Playoffs advant... Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#5",
      "title": "Lionel Messi given seven-game deadline to claim another MLS record and leave Josef Martinez behind after re... - World Soccer Talk",
      "published": "2026-11-15T18:18:23+00:00",
      "summary": "Lionel Messi given seven-game deadline to claim another MLS record and leave Josef Martinez behind after re... World Soccer Talk"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
+     "title": "WATCH: Denis Bouanga, LAFC torch Lionel Messi & Inter Miami - MLSsoccer.com",
+     "published": "2026-11-15T16:30:13+00:00",
+     "summary": "WATCH: Denis Bouanga, LAFC torch Lionel Messi & Inter Miami MLSsoccer.com"
     },
     {
      "ref": "gnews_inter_miami#7",
@@ -769,9 +769,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#18",
-     "title": "USMNT rout Haiti in Concacaf Nations League opener - Yahoo Sports",
-     "published": "2026-11-14T23:52:00+00:00",
-     "summary": "USMNT rout Haiti in Concacaf Nations League opener Yahoo Sports"
+     "title": "USMNT rout Haiti in Concacaf Nations League opener - MLSsoccer.com",
+     "published": "2026-11-14T23:54:23+00:00",
+     "summary": "USMNT rout Haiti in Concacaf Nations League opener MLSsoccer.com"
     },
     {
      "ref": "gnews_inter_miami#19",
