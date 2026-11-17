@@ -18,123 +18,123 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
-     "title": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
-     "published": "2026-11-17T02:55:42+00:00",
-     "summary": "Chinese business and technology leaders are gathering in Shenzhen ahead of the APEC CEO Summit. The talks unfold as the US Commerce Department adds licensing requirements for advanced chip sales to data centers in Southeast Asia and Brazil to close remote-access loopholes. (Source: Bloomberg)"
+     "title": "The Latest Longevity Hack Is Surprisingly Low-Tech",
+     "published": "2026-11-17T10:15:59+00:00",
+     "summary": "The latest longevity trend isn’t cryotherapy chambers or $250,000 clubs, but a competition that measures strength, balance and brain health. Jen Murphy takes us behind the scenes of the first Super Age Games. (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#1",
-     "title": "New Zealand Dollar Drops to Six-Year Low Against Greenback",
-     "published": "2026-11-17T02:46:47+00:00",
-     "summary": "The New Zealand dollar fell to a six-year low against the greenback, weighed down by a widening interest rate gap with the US and a dimmer outlook for the nation’s economy."
+     "title": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers",
+     "published": "2026-11-17T10:07:34+00:00",
+     "summary": "US gasoline pump prices fell to the lowest since March following a broader decline in oil markets this month."
     },
     {
      "ref": "bloomberg_markets#2",
-     "title": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
-     "published": "2026-11-17T02:39:15+00:00",
-     "summary": "Foreign long-only funds are gradually adding exposure after months of caution."
+     "title": "Unloved 30-Year Bond Is a Surprise Hit With UK Retail Investors",
+     "published": "2026-11-17T10:00:10+00:00",
+     "summary": "Retail investors are piling into long-dated UK bonds that bore the brunt of this year’s selloff, locking in rates above 5% and the chance of tax-free capital gains if prices rise."
     },
     {
      "ref": "bloomberg_markets#3",
-     "title": "New Zealand Inflation Expectations Remain Anchored Above 2%",
-     "published": "2026-11-17T02:24:44+00:00",
-     "summary": "New Zealand’s long-term inflation expectations eased in the fourth quarter, adding to signs that a fresh wave of higher fuel prices is not becoming embedded in the economy."
+     "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
+     "published": "2026-11-17T09:50:30+00:00",
+     "summary": "Deutsche Bank dropped after the Financial Times reported the firm had processed $582 million of suspicious payments linked to the late sex offender Jeffrey Epstein. Internal documents showed that the German bank filed so-called suspicious activity reports in the US in 2019 identifying that amount of money transfers related to Epstein, the FT said in the report on Tuesday, citing a leak of millions"
     },
     {
      "ref": "bloomberg_markets#4",
-     "title": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
-     "published": "2026-11-17T02:21:36+00:00",
-     "summary": "Global investors boosted their holdings of onshore Chinese government bonds at the fastest pace since May last month, underscoring growing foreign interest in yuan debt that has remained relatively insulated from global market turmoil."
+     "title": "Turkish Households Buckle Under Gold-Price Slide, Funds Crisis",
+     "published": "2026-11-17T09:25:23+00:00",
+     "summary": "Falling gold prices and an investment-industry crisis are amplifying a slowdown in Turkish domestic demand, reversing a wealth effect that helped sustain household spending in recent years."
     },
     {
      "ref": "bloomberg_markets#5",
-     "title": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
-     "published": "2026-11-17T01:46:26+00:00",
-     "summary": "Bank of Korea Chief Economist Kyoungsoo Yoon believes concerns over artificial intelligence have added to volatility in South Korea's equity markets. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)"
+     "title": "T. Rowe Sticks to Bearish Treasuries Bet That Fueled Banner 2026",
+     "published": "2026-11-17T09:22:38+00:00",
+     "summary": "Betting on UK gilts and against US Treasuries since early 2026 is paying off for T. Rowe Price’s Scott Solomon, who isn’t in any hurry to unwind those wagers."
     },
     {
      "ref": "bloomberg_markets#6",
-     "title": "New Zealand Sees Best Quarterly Population Gain in Two Years",
-     "published": "2026-11-17T01:09:46+00:00",
-     "summary": "New Zealand saw its best quarterly increase in population in more than two years as immigration inflows pick up, offering a potential boost to housing demand and the wider economy."
+     "title": "Pirelli Falls as Sinochem Sells €455 Million Stake in Tiremaker",
+     "published": "2026-11-17T09:12:32+00:00",
+     "summary": "Pirelli & C. SpA shares fell after Chinese state-owned Sinochem sold a €455 million ($500 million) stake in the Italian tiremaker at a discount, extending a series of disposals aimed at reducing its influence over the company."
     },
     {
      "ref": "bloomberg_markets#7",
-     "title": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
-     "published": "2026-11-17T00:44:27+00:00",
-     "summary": "PT Samuel Sekuritas Indonesia and its owner, Eunice Satyono, denied that the firm carried out any illegal stock market transactions to spark the sudden rally in an Asian delicacy maker named PT Abadi Lestari Indonesia."
+     "title": "Turkey Fund Assets Shrink by $54 Billion Amid Manipulation Probe",
+     "published": "2026-11-17T08:58:50+00:00",
+     "summary": "Turkey’s asset-management industry shrank by the equivalent of $54 billion in the two months through October as authorities investigated alleged market manipulation involving investment funds."
     },
     {
      "ref": "bloomberg_markets#8",
-     "title": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
-     "published": "2026-11-17T00:30:00+00:00",
-     "summary": "A majority of the Australian central bank’s nine-member board voted to raise interest rates two weeks ago on concerns that risks to the inflation outlook remained to the upside and consumer prices had stayed too high for too long."
+     "title": "Barclays’ Rajadhayaksha Says Nvidia Market Angst Overdone",
+     "published": "2026-11-17T08:48:59+00:00",
+     "summary": "Barlcays' Global Research Chairman Ajay Rajadhyaksha says markets are overplaying jitters over a Nvidia leadership change and will back risk assets. \"Things are not as bad as the markets suggest.\" He speaks to Bloomberg's Anna Edwards and Guy Johnson on Bloomberg's \"The Opening Trade.\" (Source: Bloomberg)"
     },
     {
      "ref": "bloomberg_markets#9",
-     "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+     "title": "Deutsche Bank Processed Large Sums Linked to Epstein: FT",
+     "published": "2026-11-17T08:44:45+00:00",
+     "summary": "Internal documents showed that Deutsche Bank processed $582 million of suspicious payments linked to the late sex offender Jeffrey Epstein, the Financial Times reported. Bloomberg's Guy Johnson explains. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#10",
+     "title": "Nvidia Fallout Hits Southeast Asia Hard",
+     "published": "2026-11-17T08:40:48+00:00",
+     "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#11",
+     "title": "Old Mutual Sells $1 Billion of South Africa Malls to Vukile",
+     "published": "2026-11-17T08:34:12+00:00",
+     "summary": "Old Mutual Ltd. is selling almost $1 billion of retail assets in South Africa in a landmark deal that will significantly expand Vukile Property Fund Ltd.’s exposure to the continent’s biggest economy."
+    },
+    {
+     "ref": "bloomberg_markets#12",
+     "title": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
+     "published": "2026-11-17T08:30:44+00:00",
+     "summary": "European stocks opened lower as concerns over the artificial-intelligence trade swept markets ahead of Nvidia Corp.’s results, after the US moved to impose sweeping new restrictions on China’s access to high-end AI chips."
+    },
+    {
+     "ref": "bloomberg_markets#13",
+     "title": "KKR Is Said to Emerge as Preferred Bidder for Japanese Curry Chain Ichibanya",
+     "published": "2026-11-17T06:29:32+00:00",
+     "summary": "US investment firm KKR & Co. has been selected as the preferred bidder for Japan’s largest curry rice chain Ichibanya Co., according to people familiar with the matter."
+    },
+    {
+     "ref": "bloomberg_markets#14",
+     "title": "Zurich’s Greco Boosts Revenue, Capital Gain From Beazley Deal",
+     "published": "2026-11-17T06:21:35+00:00",
+     "summary": "Zurich Insurance Group AG said it now expects increased revenue of around $1.5 billion per year in the medium term as a result of the integration of Beazley Plc, the specialty insurer it bought earlier this year."
+    },
+    {
+     "ref": "bloomberg_markets#15",
+     "title": "Shanghai Exchange Intervenes After Historic Copper Crunch",
+     "published": "2026-11-17T03:11:52+00:00",
+     "summary": "The Shanghai Futures Exchange has stepped in to try to ease an historic copper squeeze, as an acute shortage of available metal threatens to drain inventories."
+    },
+    {
+     "ref": "bloomberg_markets#16",
+     "title": "China AI Stocks Drop as US Chip Curbs Hit Labs and Hyperscalers",
      "published": "2026-11-17T00:22:19+00:00",
      "summary": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit."
     },
     {
-     "ref": "bloomberg_markets#10",
-     "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues",
-     "published": "2026-11-17T00:17:38+00:00",
-     "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Alger’s Executive Vice President, Portfolio Manager Ankur Crawford, Bilt’s CEO Ankur Jain, Jefferies’ Senior Equity Research Analyst Sheila Kahyaoglu, Betterment’s CEO Sarah Levy, Citi Wealth’s Head of Portfolio Strategy J.P. "
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "China’s Buyback Push Struggles to Put a Floor Under Stocks",
-     "published": "2026-11-17T00:00:50+00:00",
-     "summary": "Chinese companies are tapping only a fraction of loans provided by Beijing for stock buybacks, an indication that the latest effort to support markets is faltering."
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Shamrock’s Lasalle: Different Ways To Invest in Sports",
-     "published": "2026-11-16T23:50:28+00:00",
-     "summary": "Mike LaSalle, co-president and partner at Shamrock Capital, says the firm is assessing how upcoming sports contracts and shifting cash flows could create investment opportunities. Jason Sklar, partner at Shamrock Capital, talks about the financial shortages emerging in the sports industry and the role Shamrock Capital plays. They speak with Romaine Bostick on \"The Close\". (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Alzheimer's Will Be a \"Treatable Condition,\" Says David Cameron",
-     "published": "2026-11-16T23:48:29+00:00",
-     "summary": "David Cameron says that we have reached a \"tipping point\" where the combination of new Alzheimer's treatments and new biotech and pharmaceutical companies could result in someone alive today having their Alzheimer's condition 'reversed.' He speaks at a Bloomberg.com subscriber event in London. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
-     "published": "2026-11-16T23:26:48+00:00",
-     "summary": "Gold steadied after its lowest close since September 2025, under pressure from stubborn US inflation and losses on Wall Street."
-    },
-    {
-     "ref": "bloomberg_markets#15",
-     "title": "Latest Oil Market News and Analysis for Nov. 17",
-     "published": "2026-11-16T23:02:55+00:00",
-     "summary": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran."
-    },
-    {
-     "ref": "bloomberg_markets#16",
-     "title": "Asia Stock Selloff Enters Fourth Day, Oil Declines: Markets Wrap",
-     "published": "2026-11-16T22:06:51+00:00",
-     "summary": "Asian stocks dropped as US moves to restrict China’s access to advanced artificial intelligence chips and servers added to caution ahead of Nvidia Corp.’s high-stakes earnings."
-    },
-    {
      "ref": "bloomberg_markets#17",
-     "title": "RBNZ Flags Growing Private Credit Risks in Property Finance",
-     "published": "2026-11-16T21:17:24+00:00",
-     "summary": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance."
+     "title": "Oil Edges Up as Traders Weigh Mideast Threats and Ample Supply",
+     "published": "2026-11-16T23:02:55+00:00",
+     "summary": "Oil edged higher, erasing an earlier decline, as traders weighed threats in the Middle East against signs supplies are outpacing demand."
     },
     {
      "ref": "bloomberg_markets#18",
-     "title": "Traders Pour Cash Into BlackRock’s India ETF as AI Rout Deepens",
-     "published": "2026-11-16T11:00:29+00:00",
-     "summary": "Investors plowed cash into an exchange-traded fund that buys Indian stocks at the fastest pace in over a year last week, as the selloff around artificiall intelligence stocks pushed investors to diversify into other markets."
+     "title": "Tech Stocks Extend Selloff as Nvidia Results Near: Markets Wrap",
+     "published": "2026-11-16T22:06:51+00:00",
+     "summary": "Technology stocks fell further ahead of Nvidia Corp.’s earnings, with the stakes extending beyond the chipmaker to the broader artificial intelligence trade."
     },
     {
      "ref": "bloomberg_markets#19",
-     "title": "Mitsui & Co. Said to Back J-Oil Mills in Battle Over Kadoya",
-     "published": "2026-11-16T09:35:29+00:00",
-     "summary": "Kadoya Sesame Mills Inc. shareholder Mitsui & Co. has backed a proposal from J-Oil Mills Inc. to take over the Japanese sesame seed oil seller, according to people familiar with the matter, potentially strengthening the bidder’s hand in a three-way battle for control of the company."
+     "title": "Nvidia Earnings Are Sideshow as CEO Ouster Looms Over Stock",
+     "published": "2026-11-16T21:31:41+00:00",
+     "summary": "Nvidia Corp.’s earnings arrive at perhaps the strangest time possible for the world’s most important artificial intelligence chipmaker."
     }
    ]
   },
@@ -144,57 +144,81 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
-     "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
-     "published": "2026-11-17T02:29:11+00:00",
-     "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure"
+     "title": "Trump arrives in Asia ahead of Xi and Putin summit",
+     "published": "2026-11-17T09:56:49+00:00",
+     "summary": "US president arrives in Philippines to meet regional blocs before Apec forum in China"
     },
     {
      "ref": "ft_home#1",
-     "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-     "published": "2026-11-16T23:22:46+00:00",
-     "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention"
+     "title": "Stocks slide as Nvidia results loom",
+     "published": "2026-11-17T09:05:13+00:00",
+     "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out"
     },
     {
      "ref": "ft_home#2",
-     "title": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
-     "published": "2026-11-16T21:20:03+00:00",
-     "summary": "Oil major pulls ahead of rival bidders for Beacon Offshore Energy oilfield as it expands deepwater production"
+     "title": "Ukraine destroys part of bridge to Crimea in fierce exchange of strikes",
+     "published": "2026-11-17T09:01:17+00:00",
+     "summary": "Russia hits bridges to Kyiv as both sides step up attacks on key infrastructure ahead of talks between Washington and Moscow"
     },
     {
      "ref": "ft_home#3",
-     "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
-     "published": "2026-11-16T20:48:37+00:00",
-     "summary": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’"
+     "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+     "published": "2026-11-17T08:09:20+00:00",
+     "summary": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing"
     },
     {
      "ref": "ft_home#4",
-     "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
-     "published": "2026-11-16T18:14:16+00:00",
-     "summary": "Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer"
+     "title": "Xi and Canada’s Carney slash tariffs as China courts middle powers",
+     "published": "2026-11-17T06:20:15+00:00",
+     "summary": "Ottawa’s efforts to hedge against US pressure risk creating dependency on Beijing, analysts warn"
     },
     {
      "ref": "ft_home#5",
-     "title": "Russia’s richest woman hit by EU sanctions",
-     "published": "2026-11-16T17:11:52+00:00",
-     "summary": "Founder of country’s largest online retailer Wildberries targeted in latest round of EU sanctions over war in Ukraine"
+     "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
+     "published": "2026-11-17T06:00:07+00:00",
+     "summary": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender"
     },
     {
      "ref": "ft_home#6",
-     "title": "Why Putin, Trump and Xi cannot be the new ‘big three’",
-     "published": "2026-11-16T12:22:48+00:00",
-     "summary": "The leaders of the US, China and Russia cannot carve up the world between them, even if they wanted to"
+     "title": "German lender processed $582mn of suspicious payments linked to Epstein",
+     "published": "2026-11-17T06:00:06+00:00",
+     "summary": "Figure revealed by internal documents is substantially higher than previously known"
     },
     {
      "ref": "ft_home#7",
-     "title": "Ukraine strikes Crimean Bridge in record drone attack",
-     "published": "2026-11-16T10:29:11+00:00",
-     "summary": "Russia’s defence ministry said it intercepted or destroyed largest number of drones since beginning of war in past 24 hours"
+     "title": "An ‘awful mistake’ that leaked Trump’s tax statements",
+     "published": "2026-11-17T06:00:06+00:00",
+     "summary": "Data breach in 2017 was described internally as an ‘awful mistake’ by Christian Sewing, then head of lender’s private bank"
     },
     {
      "ref": "ft_home#8",
-     "title": "The whole world is long America",
-     "published": "2026-11-16T05:00:11+00:00",
-     "summary": "And may soon have to pay the price for its obsession"
+     "title": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
+     "published": "2026-11-17T05:00:25+00:00",
+     "summary": "President’s allies trade blame over losing grip on new media landscape after crushing midterm defeat"
+    },
+    {
+     "ref": "ft_home#9",
+     "title": "The AI sell-off makes sense. Staying bearish may not",
+     "published": "2026-11-17T05:00:25+00:00",
+     "summary": "Several factors have converged to strengthen the investment case for hyperscalers"
+    },
+    {
+     "ref": "ft_home#10",
+     "title": "Finland urges European leaders to talk to Putin directly",
+     "published": "2026-11-17T05:00:25+00:00",
+     "summary": "President Alexander Stubb says Europe outsourcing negotiations to US was ‘irresponsible’"
+    },
+    {
+     "ref": "ft_home#11",
+     "title": "Oligarch’s ex-wife to claim £600mn for ‘reasonable needs’ in London divorce case",
+     "published": "2026-11-17T05:00:15+00:00",
+     "summary": "Britain’s biggest-ever divorce trial, involving Russian metals tycoon Vladimir Potanin, begins this week"
+    },
+    {
+     "ref": "ft_home#12",
+     "title": "Nvidia’s interim CEO Colette Kress to make her debut at first earnings",
+     "published": "2026-11-17T05:00:14+00:00",
+     "summary": "Successor to founder Jensen Huang will have to ease investors’ anxiety about AI chipmaker’s future"
     }
    ]
   },
@@ -204,151 +228,152 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "אנבידיה איבדה יותר מ-4% והפילה את מניות השבבים; נאסד\"ק נחלש ב-2.5%",
-     "published": "2026-11-16T21:06:00+00:00",
-     "summary": "המסחר באירופה הסתיים בירידות; היורו והליש\"ט נחלשים מול הדולר — שנע סביב רמתו הגבוהה ביותר מאז אפריל 2025 ■ הביטקוין התאושש מעט מהנפילה בסוף השבוע — אך נסחר מתחת ל-65 אלף דולר ■ הנפט נסוג ב-3.5% בהמשך לנפילה שבועית של יותר מ–10% בציפייה לעודף היצע בשוק ■ אסיה נסגרה בירידות לאחר התכווצות מפתיעה בכלכלת יפן; ההאטה הכלכלית של סין מחריפה"
+     "title": "\"שימוש לא חוקי בקרקע\": צו לסגירת מתחם נוי השדה אאוטלט בפתח תקווה",
+     "published": "2026-11-17T10:12:59+00:00",
+     "summary": "הקרקע במתחם, שמשתרע על פני 1,000 מ\"ר, מוגדרת לשימוש חקלאי ולא לשימוש מסחרי ■ נוי הדס: \"קיבלנו החלטה עסקית שלא להמשיך במאבק ולפעול להעתקת הסניף למיקום חלופי\""
     },
     {
      "ref": "themarker#1",
-     "title": "מחקר: פליטת הפחמן של 400 מרכזי הנתונים הגדולים בארה\"ב זהה לזו של דנמרק כולה",
-     "published": "2026-11-16T19:56:33+00:00",
-     "summary": "חוקרים מהרווארד בחנו במשך שנה את צריכת החשמל של המתקנים החיוניים לענף ה–AI, ומצאו כי אלה פלטו יחד קרוב ל–26 מיליון טונות של פחמן דו־חמצני ■ בענף נערכים להחרפת הרגולציה, בעקבות ניצחון הדמוקרטים בבחירות האמצע"
+     "title": "תדיראן שוב מפתיעה לחיוב עם צבר הזמנות של 580 מיליון שקל; המניה קופצת ב-9%",
+     "published": "2026-11-17T09:41:04+00:00",
+     "summary": "צבר ההזמנות של תדיראן יותר מהוכפל בתוך שלושה חודשים והגיע ל-576 מיליון שקל, על רקע הביקושים למערכות עבור חוות שרתים ■ הכנסות החברה גדלו ב-9.4% והרווח הנקי זינק ב-83.5% ל-41 מיליון שקל"
     },
     {
      "ref": "themarker#2",
-     "title": "\"מליסרון הכריזה מלחמה\": הקניונים הבינו — המסחר בשבת שווה להם 40% יותר",
-     "published": "2026-11-16T18:36:56+00:00",
-     "summary": "מליסרון עתרה לביהמ\"ש במטרה לפתוח בשבתות את הקניון הגדול בפתח תקווה, כדי להיערך לתחרות מצד מתחם ביג פאשן שצפוי להיפתח בסמוך ב–2028 ■ המהלך עשוי להפוך לכדור שלג שיוביל קניונים נוספים לדרוש פתיחה בשבת ■ \"כולם מחכים לראות מה יקרה בפתח תקווה כדי לקחת את זה הלאה\""
+     "title": "צרחות והטלת אימה: נחשפים מעללי מדיסון הואנג, בתו של מנכ\"ל אנבידיה לשעבר",
+     "published": "2026-11-17T09:32:52+00:00",
+     "summary": "יותר מתריסר מנהלים בכירים עזבו את החברה כי התקשו לעבוד עם מדיסון הואנג, אחד מהם אף חטף התקף חרדה — עד שמחלקת משאבי אנוש אילצה אותה לעבור הדרכה שבועית בניהול נכון במשך חודשים ■ עובדי חברה בהווה ולשעבר מספרים על בתו של המייסד ג'נסן הואנג, ועל הצרה שמחכה למנכ\"לית הזמנית"
     },
     {
      "ref": "themarker#3",
-     "title": "תעלול שיווקי או מכה כלכלית? עובדים ברחבי העולם לוקחים ימי מחלה לקראת השקת GTA 6",
-     "published": "2026-11-16T18:25:39+00:00",
-     "summary": "כותרות עיתונים מארה\"ב ועד אוסטרליה עוסקות באפשרות של היעדרות מיליוני עובדים מהמשרד ביום צאתו של המשחק המיוחל לחנויות ■ \"מגפה\" דומה הכתה ב–2013 כשיצא הפרק הקודם בסדרה, אך ייתכן שמפיצי המשחק מפריזים בהיקפה כדי לעורר התלהבות מההשקה"
+     "title": "יאיר שניר: \"המדינה חייבת מודל AI עצמאי. זה לא פחות חשוב מנשק גרעיני\"",
+     "published": "2026-11-17T09:12:27+00:00",
+     "summary": "בראיון לפודקאסט \"האינטרסנטים\" הזהיר יאיר שניר, שותף מנהל בקרן ההשקעות של מייקל דל, Dell Technologies Capital, מהתלות בענקיות הבינה המלאכותית, כמו אנתרופיק, OpenAI וגוגל, וקרא לפתח מודל ישראלי עצמאי. לדבריו, הפרויקט יעלה עשרות עד מאות מיליארדי דולרים ויחייב שותפות בין המדינה לשוק הפרטי ■ \"אף אחד לא יכול לזוז בלי המודלים האלה\""
     },
     {
      "ref": "themarker#4",
-     "title": "שמנת מפוקחת אינה לבישול? תביעה ייצוגית אושרה נגד שטראוס ותנובה",
-     "published": "2026-11-16T18:03:51+00:00",
-     "summary": "השמנת שעל אריזתה פרי ומחירה מפוקח מתאימה לבישול, אך משווקת כשמנת \"להקצפה\" ■ במקביל משווק מוצר יקר יותר כ\"שמנת לבישול\" ■ בית המשפט אישר תביעה ייצוגית של צרכן נגד היצרניות: \"ענייננו עוסק בדרישה שלא יטעו צרכנים ויסלילו אותם למוצר יקר דרך הבחנה יזומה בין מוצרים דומים\""
+     "title": "הרווח הנקי של ניו־מד זינק ב-26% ל-162 מיליון דולר ברבעון השלישי",
+     "published": "2026-11-17T08:40:49+00:00",
+     "summary": "ההפקה ממאגר לווייתן עלתה ב-16% לעומת הרבעון המקביל בשנה שעברה ■ ההכנסות בניכוי תמלוגים עלו בכ-30% ■ החברה תחלק דיווידנד של 80 מיליון דולר"
     },
     {
      "ref": "themarker#5",
-     "title": "בקרב על הקניות בשבת החילונים מנצחים, זה הזמן למאבק על הרכבת ונתב\"ג",
-     "published": "2026-11-16T17:21:22+00:00",
-     "summary": "היזם רונן אלעד יהיה בעל השליטה והבעלים החדש בארקיע, מלכוד העלויות דוחף את חברות ההייטק להתנתק מענקיות ה–AI, מה קורה בבתי המטבחיים של תנובה ודבאח — ומיהו דריו אמודיי, האיש שהקים את אנתרופיק ■ כל מה שצריך לדעת על היום שהיה בכלכלה"
+     "title": "ירידות בבורסות אירופה; האבטלה בבריטניה ירדה במפתיע בספטמבר",
+     "published": "2026-11-17T08:21:00+00:00",
+     "summary": "מניית דויטשה בנק נופלת ב-5% אחרי דליפת מסמכים שהעידו על התנהלותו בשערוריות שונות ■ ירידות נרשמו הבוקר גם בבורסות אסיה ■ וול סטריט ננעלה אתמול בירידות ונאסד\"ק נפל ב-2.5% בהובלת מניות השבבים"
     },
     {
      "ref": "themarker#6",
-     "title": "רמי לוי קיבל רישיון למתן אשראי — ומכוון לתיק של מיליארדי שקלים בשנים הקרובות",
-     "published": "2026-11-16T16:12:07+00:00",
-     "summary": "החברה הבת של רמי לוי תתחיל לשווק כרטיסי אשראי, לאחר שקיבלה רישיון למתן אשראי מרשות שוק ההון ■ החברה תוכל להקים פעילות אשראי עצמאית ולהעמיד הלוואות"
+     "title": "חצי מיליארד שקל הכנסות ברבעון: מקס סטוק בדרך לעקוף את תחזית הרווח",
+     "published": "2026-11-17T08:18:16+00:00",
+     "summary": "הרווחיות הגולמית של מקס סטוק עלתה ל–48% ברבעון השלישי השנה מ–44% בתקופה המקבילה ■ באוגוסט החברה צפתה שתסתכם ב–46% במחצית השנייה ■ השיפור מיוחס להתחזקות השקל ולקטגוריות מוצרים רווחיות יותר שהרשת מרחיבה — ומצליחות למשוך קונים ■ המכירות בחנויות הזהות גדלו ב–11%, והרווח התפעולי זינק ב–43% ל–101 מיליון שקל"
     },
     {
      "ref": "themarker#7",
-     "title": "מנכ\"ל ישראכרט מדבר על \"מהפכה\" — אבל המניה צנחה ב–30% והרווח של תשובה נמחק",
-     "published": "2026-11-16T15:58:05+00:00",
-     "summary": "למרות זינוק של יותר מ–40% בשימוש בכרטיסים חוץ־בנקאיים הודות להסכם עם אל על, המשקיעים בבורסה עדיין לא משתכנעים ■ הרווח הרבעוני של ישראכרט, שאת רכישתה הוביל עידן וולס, נחתך ל–20 מיליון שקל, החברה נערכת לפיטורי כ–350 עובדים — ובעלי המניות מהציבור יידרשו בקרוב להזרים הון נוסף"
+     "title": "המסחר בת\"א עבר לירידות: מדד הבנקים מטפס, הדולר מתחזק ונסחר סביב 3.25 שקלים",
+     "published": "2026-11-17T08:12:21+00:00"
     },
     {
      "ref": "themarker#8",
-     "title": "טראמפ: פרשת אנבידיה לא סיכנה את ביטחון ארה\"ב; הואנג יכול לשוב לתפקיד",
-     "published": "2026-11-16T15:42:08+00:00",
-     "summary": "הנשיא טראמפ התייצב לצדו של המנכ\"ל המתפטר של ענקית השבבים אנבידיה, בשעה שמשרד המסחר הכריז על תקנות שיגבילו את גישתה של סין לרכיבי הזיכרון המתקדמים של החברה ■ שרי החוץ והאוצר בממשל טראמפ מאשימים את שר המסחר לוטניק כי לא עשה מספיק למנוע \"זליגה\" של שבבים לשוק הסיני"
+     "title": "בפעם השלישית: בנק הפועלים מחלק מניות ללקוחותיו",
+     "published": "2026-11-17T07:53:48+00:00",
+     "summary": "לקוחות יוכלו לבחור בין קבלת מניה של הבנק בשווי כ-70 שקל או מענק כספי ■ הפעם המהלך נועד גם לקדם את אפליקציית ג'וניור של הבנק ■ ההטבה היא חלק מהמתווה של בנק ישראל"
     },
     {
      "ref": "themarker#9",
-     "title": "חמישה חודשים בלבד אחרי שמונתה: סמנכ\"לית הכספים של רשת 13 התפטרה",
-     "published": "2026-11-16T14:37:13+00:00",
-     "summary": "נועה צבר, שמונתה ביולי על ידי ההנהלה החדשה של הערוץ, תישאר בתפקידה עוד שלושה חודשים ותשלים את תקציב 2027 ■ ברשת טוענים כי התפטרותה לא קשורה למצב הכלכלי או הניהולי של הערוץ"
+     "title": "פרשת השחיתות בעזרא ובצרון: יזם בנייה מוכר עוכב לחקירה בלהב 433",
+     "published": "2026-11-17T07:51:41+00:00",
+     "summary": "לצד היזם עוכבו שני חשודים נוספים ■ בחיפושים בחברה ובבתי המעוכבים נתפסו מסמכים ומדיה דיגיטלית"
     },
     {
      "ref": "themarker#10",
-     "title": "רבולוט איטליה תהיה תחת פיקוח בית משפט בשל פעילות הלבנת כספים דרכה",
-     "published": "2026-11-16T14:34:16+00:00",
-     "summary": "בית המשפט קבע שההתרשלות בדיווח על חשודים הייתה מתמשכת, והתביעה טענה שבכך השיגה רבולוט יתרון עסקי על פני מוסדות פיננסיים אחרים ■ הצעד נקבע למשך שנה והוא מניעתי"
+     "title": "המשקפיים החכמים של מטא הגיעו לישראל: איך נדע אם מקליטים אותנו בסתר",
+     "published": "2026-11-17T07:40:32+00:00",
+     "summary": "משקפי הבינה המלאכותית של מטא הגיעו רשמית לישראל בזמן שאירופה מסמנת קו אדום. התשובה של התעשייה לביקורת - משקפיים בלי מצלמה - עלולה דווקא להחמיר את הבעיה המשפטית"
     },
     {
      "ref": "themarker#11",
-     "title": "חברות שעובדות עם משרד התיירות מקבלות מאות מיליוני שקלים בשנה — ואין בקרה על עבודתן",
-     "published": "2026-11-16T14:00:44+00:00",
-     "summary": "דו\"ח מבקר המדינה התמקד בשלוש חברות ממשלתיות בתחום התיירות וקבע כי שלושתן בזבזו כספים ולא עמדו ביעדים להשלמת פרויקטים באחריותן עקב חוסר בקרה ■ בנוסף מציג הדו\"ח כשלים בכללי הממשל התאגידי בכל החברות שנבדקו"
+     "title": "המדינה תפצה את אלביט בעשרות מיליוני דולרים על הפיגור בתשלומים; המניה מזנקת",
+     "published": "2026-11-17T07:36:39+00:00",
+     "summary": "ברבעון השלישי של השנה עלו הכנסות אלביט מערכות ב–17% ל–2.2 מיליארד דולר, והרווח התפעולי זינק ב–35% ■ מנכ\"ל החברה בצלאל מכליס: \"נתחיל לספק מערכות לייזר למסוקים בחודשים הבאים\" ■ לדבריו, הקטנת הסכם הסיוע של ארה\"ב לישראל מייצרת לאלביט הזדמנויות"
     },
     {
      "ref": "themarker#12",
-     "title": "האוצר: \"הביקוש לעובדי הבנייה ירד — יש לבחון מחדש יבוא עובדים נוספים\"",
-     "published": "2026-11-16T13:28:56+00:00",
-     "summary": "למרות הביקורת על קצב יבוא עובדי הבניין, מספרם של כלל המועסקים בענף כיום גבוה ממספרם לפני אוקטובר 2023 ■ הנתונים לא מונעים מהקבלנים להמשיך ולטעון למחסור של 40 אלף עובדים זרים"
+     "title": "התקלה של מיקרוסופט הסתתרה במערכת חודשים לפני שהשביתה אותה",
+     "published": "2026-11-17T07:14:07+00:00",
+     "summary": "תקלת הענן בשירותי מיקרוסופט הותירה משתמשים בלי יכולת לגשת לשירותי הדואר האלקטרוני והצ'אט שלהם, ונדרשו לחברה שעות ארוכות לזהות אותה ולטפל בה"
     },
     {
      "ref": "themarker#13",
-     "title": "הירידות בשוק הדיור: הקונים ממתינים לירידת הריבית",
-     "published": "2026-11-16T13:07:10+00:00"
+     "title": "חוק מרפי, גרסת ישראל: התמ\"ג קופץ, ובקופה חסרים מיליארדים",
+     "published": "2026-11-17T06:31:52+00:00",
+     "summary": "השיטות של הבעלים החדש של ארקיע, למה פלאפון מוכנה לשלם יותר מ–1,000 שקל לכל מנוי סלולר, כך הקניונים הבינו שמסחר בשבת משתלם — ועוד כמה דברים שידברו עליהם הבוקר בשוק ההון"
     },
     {
      "ref": "themarker#14",
-     "title": "בעקבות השותפות עם הבנקים בנימה: ביטוח ישיר השקעות תשלם 16 מיליון שקל לאוצר המדינה",
-     "published": "2026-11-16T12:58:02+00:00",
-     "summary": "טיוטת הצו המוסכם עליו חתמה היום ביטוח ישיר נוגעת להקצאת מניות המיעוט בנימה לדיסקונט ולהפועלים ■ שני הבנקים כבר שילמו קנס של 40 מיליון שקל כל אחד בגין השותפות"
+     "title": "כל מה שיכול להשתבש — משתבש: סופטבנק סופגת הפסדים על השקעות ה–AI",
+     "published": "2026-11-17T06:22:11+00:00",
+     "summary": "מאז יוני איבדה סופטבנק יותר ממחצית משווי השוק שלה, וההשקעות שלה בשבבים, במודלים של AI, ברובוטיקה ובמרכזי נתונים נקלעו לקשיים ■ אחרי הפסד רבעוני של 7 מיליארד דולר, יחס החוב לנכסים של ענקית ההשקעות היפנית מתקרב לרף המרבי שהציבה לעצמה, ומעורר חששות בקרב נושיה"
     },
     {
      "ref": "themarker#15",
-     "title": "החלפת בעלים בארקיע: הצעת העובדים התקבלה, היזם רונן אלעד יהיה בעל השליטה",
-     "published": "2026-11-16T12:37:48+00:00",
-     "summary": "לפי הסיכום בין בעלי החברה לתאגיד העובדים, אלעד יחזיק ב-82% ממניות החברה, שיעור מניות העובדים יירד מ-22% ל-15%, ולאחים נקש ייוותרו 3% ■ לפי תחקיר שפורסם ב\"שומרים\", אלעד הודה במעילה של 8 מיליון שקל בחברת האחזקות EAK, והעבירם לשורת גורמים, ובהם רעייתו וחברות חיצוניות"
+     "title": "ירידה של 8%: מזרחי טפחות הרוויח 1.37 מיליארד שקל ברבעון",
+     "published": "2026-11-17T06:12:38+00:00",
+     "summary": "מזרחי טפחות מציג ירידה ברווחיות זה רבעון שלישי ■ בנטרול המס המיוחד ומתווה ההקלות הצרכני, הגיעה התשואה להון ברבעון השלישי השנה ל-17.2% ■ הבנק יחלק דיווידנד של 683 מיליון שקל - 50% מרווחי הרבעון"
     },
     {
      "ref": "themarker#16",
-     "title": "האוצר: לא ידענו מראש על הודעת טראמפ בנוגע להפסקת הסיוע האמריקאי",
-     "published": "2026-11-16T12:10:17+00:00",
-     "summary": "ועדת הכספים הזמנית החלה את דיוניה בכנסת בדיון על הפסקת הסיוע האמריקאי לישראל ■ ח\"כ שאול מרידור: \"המחדל העצום הוא בשאלה איך התקבלה ההחלטה\""
+     "title": "בנק לאומי רשם את הרווח הגדול אי־פעם של בנק בישראל: 3 מיליארד שקל ברבעון",
+     "published": "2026-11-17T05:38:30+00:00",
+     "summary": "ברבעון המקביל אשתקד רשם בנק לאומי, בניהולו של חנן פרידמן, רווח נקי של 2.7 מיליארד שקל ותשואה להון של 16.3%. מדובר בעלייה של 11% ■ הבנק יחלק דיווידנד של 1.5 מיליארד שקל"
     },
     {
      "ref": "themarker#17",
-     "title": "השווי זינק פי 4: הסטארט־אפ קורמה גייס לפי שווי של מיליארד דולר",
-     "published": "2026-11-16T12:00:01+00:00",
-     "summary": "קורמה, שמפתחת מודל בינה מלאכותית ייעודי להגנת סייבר, גייסה 125 מיליון דולר — שלושה חודשים בלבד אחרי סבב הגיוס הקודם שבו גייסה 60 מיליון דולר"
+     "title": "השקעה משתלמת ומחירי הנפט: כל הכוכבים הסתדרו לטובת חברות הגז הישראליות",
+     "published": "2026-11-17T04:10:43+00:00",
+     "summary": "בלווייתן ובתמר הושלמו פרויקטי הרחבה, וההפקה היומית גדלה ב–27% ■ האסדות פעלו ברציפות, ללא איום שהוביל להשבתתן, ומחירי הנפט הגבוהים ישמרו על מחירי יצוא גבוהים ■ גם אנרג'יאן, שמפיקה ומוכרת נפט, תיהנה מהם"
     },
     {
      "ref": "themarker#18",
-     "title": "שר האוצר האמריקאי מבהיר עד כמה נמוך הסיכוי שג'נסן הואנג יחזור להיות מנכ\"ל אנבידיה",
-     "published": "2026-11-16T11:18:52+00:00",
-     "summary": "קריאות נשמעות בכל רחבי עמק הסיליקון להחזרתו של המנכ\"ל לתפקיד שממנו התפטר רק בשבוע שעבר ■ בממשל האמריקאי מעדיפים מועמדים מבחוץ, ומפנים אצבע מאשימה גם כלפי משרד המסחר בחשד לאכיפה רופפת ■ מגה־ספיד בהתייחסות ראשונה לפרשה: העסקתה של אליס הואנג בחברה הסתיימה באוגוסט 2025"
+     "title": "מאור שלמה הצית את הדמיון להרבה אנשים. ההצלחה של בייס44 הוכיחה שהם טעו",
+     "published": "2026-11-17T04:09:52+00:00",
+     "summary": "מאור שלמה הצליח להתעשר בצורה פנומנלית, לאחר שהקים חברה לבד, מכר אותה, והצית את הדמיון של רבים ■ אבל הזינוק של בייס44 לקצב הכנסות של 250 מיליון דולר ושיפור משמעותי בצד ההוצאות מוכיח שדווקא העובדים של החברה נחוצים במיוחד"
     },
     {
      "ref": "themarker#19",
-     "title": "העסקה למכירת השליטה בארקיע: בעלי בלו בירד וטוס עמי כהן הגיש הצעת רכישה נגדית",
-     "published": "2026-11-16T11:03:24+00:00"
+     "title": "שתי עסקות, פערי שיא: למה פלאפון מוכנה לשלם יותר מ–1,000 שקל לכל מנוי סלולר",
+     "published": "2026-11-17T04:09:14+00:00",
+     "summary": "ההשוואה בין רכישת הוט מובייל לרכישת וויקום חושפת אנומליה בשוק הסלולר: פלאפון תשלם על חברה ללא אנטנות יותר מ–1,100 שקל למנוי — פרמיה של עשרות אחוזים לעומת המחיר ששילמה קרן קיסטון ■ ההסבר טמון בצורך של פלאפון להחזיר את ההשקעה ברשת דור 5, במכירת ציוד קצה — ובציפייה שהוצאת שחקן לואו־קוסט תאפשר להעלות מחירים"
     },
     {
      "ref": "themarker#20",
-     "title": "ג'פריס: אל על מהרווחיות בעולם, המניה תעלה בעוד 33%",
-     "published": "2026-11-16T11:02:09+00:00",
-     "summary": "אחרי זינוק של כמעט 700% בשלוש שנים, בנק ההשקעות ג'פריס נותן המלצת קנייה על אל על ומחיר יעד המשקף אפסייד של 33% ■ לפי ג'פריס, אל על היא אחת מחברות התעופה הרווחיות בעולם, אך נסחרת בתמחור חסר ביחס למתחרותיה ■ בתרחיש של הסלמה ביטחונית המניה עשויה לזנק ב–77%, בעוד רגיעה מוחלטת עלולה להוביל לצניחה של 31%"
+     "title": "כשהמדינה חצויה, מה החברות הבורסאיות לא מגלות בדו\"חות למשקיעים?",
+     "published": "2026-11-17T04:03:39+00:00",
+     "summary": "מחקר חדש משווה כיצד חברות ת\"א 35 דיווחו לבורסה בימי ההפיכה המשטרית ומלחמת חרבות ברזל ■ במלחמה הוצפו הדו\"חות בדברי תפילה ורגש, אבל חברות שתרמו למאבק נגד חוקי ההפיכה נמנעו מלתת לכך ביטוי בדו\"חות"
     },
     {
      "ref": "themarker#21",
-     "title": "התמ\"ג קפץ ב–8% ברבעון השלישי — אבל בלי אנבידיה הצמיחה נחתכה בחצי",
-     "published": "2026-11-16T11:00:00+00:00",
-     "summary": "בניכוי סעיף הייצור בחו\"ל, שכולל את הכנסות אנבידיה, התמ\"ג צמח ב–4% בחישוב שנתי ■ התוצר לנפש עלה ב–6.7% בחישוב שנתי ■ קצב העלייה בצריכה הפרטית האט מ–17% ברבעון הקודם ל–6.4%, והצריכה הביטחונית ירדה ב–8.4%"
+     "title": "93 אלף שקל נחתו בחשבון הבנק של הרופא. זו הייתה מלכודת",
+     "published": "2026-11-17T04:02:59+00:00",
+     "summary": "מתחזה לנציגת ישראכרט אמרה ללקוח כי חשבונו זוכה בטעות, וביקשה שיחזיר את הכסף ללקוחות שכביכול קיבל את כספם ■ בדיעבד התברר כי הכסף הגיע לחשבונו עקב הלוואה שנלקחה בשמו ללא ידיעתו ■ הלקוח העביר את הכסף, נותר עם חוב ההלוואה, ותביעתו נגד חברת האשראי נדחתה"
     },
     {
      "ref": "themarker#22",
-     "title": "\"פאניקת יוטיוב\" משתוללת בהוליווד: \"מפלצת במשקל חצי טונה האורבת מאחורי הגב\"",
-     "published": "2026-11-16T09:59:25+00:00",
-     "summary": "עם הכנסות של 60 מיליארד דולר ב–2025 ולהיטים כמו \"חדרים אחוריים\", הכוח המשבש של יוטיוב נהפך לבולט יותר בטלוויזיה ■ שיעור האמריקאים שצופים בפלטפורמה דרך מכשיר הטלוויזיה שלהם כמעט זהה לנטפליקס ושירותי הסטרימינג של דיסני, וורנר ברדרס ופרמאונט יחד"
+     "title": "\"כל התיק שלי מושקע ב-S&P 500. השקעה במניות ספציפיות מסוכנת מבחינתי\"",
+     "published": "2026-11-17T04:00:21+00:00",
+     "summary": "ליה דינרי שואפת להיות רופאה, ומקווה שתיק ההשקעות שלה ייתן לה ביטחון כלכלי בעתיד וגם יסייע לה, אם תרצה, לפתוח קליניקה פרטית ■ המדור מביא את קולם של המשקיעים החדשים, שהחלו להשקיע בשנים האחרונות בשוק ההון ■ וגם: מה אנחנו חשבנו על התיק?"
     },
     {
      "ref": "themarker#23",
-     "title": "משה מרי מונה למנכ\"ל חטיבת המזון של אסם־נסטלה",
-     "published": "2026-11-16T09:46:03+00:00",
-     "summary": "מרי, ממייסדי נספרסו ישראל, יחליף בתפקיד את ליאת קידר פייגין שעזבה את החברה אחרי 15 שנה"
+     "title": "לישראל יש פוטנציאל להיות החוליה החזקה בפרויקט IMEC. מה עלול לעצור בעדה?",
+     "published": "2026-11-17T03:59:58+00:00",
+     "summary": "דו\"ח חדש של OECD מצביע על היתרונות של ישראל במסדרון הסחר בין הודו לאירופה, אך המכשולים המדיניים והיעדר חיבור רכבות לשכנותיה מאיימים על מימוש הפוטנציאל ■ בינתיים, מדינות באזור מקדמות נתיבי סחר חלופיים שעוקפים את ישראל ■ סגנית שגריר ישראל בארגון: \"אם לא נהיה חלק משלב התכנון, הרשת תתעצב בלעדינו\""
     },
     {
      "ref": "themarker#24",
-     "title": "מליסרון נערכת לביג פתח תקווה — ומבקשת לפתוח את הקניון הגדול בעיר בשבת",
-     "published": "2026-11-16T09:34:28+00:00",
-     "summary": "מליסרון, המחזיקה בקניוני עופר, עתרה לבית המשפט בבקשה לפתוח את הקניון בשבתות, לקראת פתיחתו הצפויה ב–2028 של המתחרה ביג פאשן פתח תקווה, שייפתח סמוך אליו"
+     "title": "יצרנית הנשק IWI תובעת שני עובדים שעברו לארי ארמס: \"אלה הסודות הכמוסים של המוצרים שלנו\"",
+     "published": "2026-11-17T03:59:16+00:00",
+     "summary": "חברת IWI תובעת מיליוני שקלים משני עובדיה לשעבר שערקו לחברה מתחרה — בטענה שהוציאו תרשימים סודיים מהחברה ■ \"אני, בגיל שלי, עם מה שנשאר לי — אתעסק בלמכור סודות מסחריים?\" שאל אחד מהם"
     }
    ]
   },
@@ -358,153 +383,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
-     "title": "Singapore Dollar Weakens Slightly on Risk-Off Sentiment",
-     "published": "2026-11-17T03:03:00+00:00",
-     "summary": "The Singapore dollar weakened slightly against its U.S. counterpart in the Asian session."
+     "title": "Stock Market News: Global Stocks Downbeat Ahead of Nvidia Earnings",
+     "published": "2026-11-17T10:11:07+00:00",
+     "summary": "Tech shares around the world are in the red"
     },
     {
      "ref": "wsj_markets#1",
-     "title": "Japanese Equities Market’s Performance Likely to Broaden, Goldman Sachs Says",
-     "published": "2026-11-17T02:26:00+00:00",
-     "summary": "The Japanese equities market’s performance is likely to broaden from here, two analysts at Goldman Sachs Research said."
+     "title": "Nasdaq Futures Slip as Investors Look to Nvidia Earnings",
+     "published": "2026-11-17T09:34:00+00:00",
+     "summary": "Nasdaq futures slipped amid a global stock selloff, as investors brace for Nvidia’s first earnings report without Jensen Huang."
     },
     {
      "ref": "wsj_markets#2",
-     "title": "Gold Struggles to Recover as Dollar, Rates Weigh",
-     "published": "2026-11-17T00:47:00+00:00",
-     "summary": "Gold stayed at its weakest levels in over a year as a firm dollar and hawkish bets on Fed rates dimmed the precious metal’s appeal."
+     "title": "Deutsche Bank Shares Drop After Wide-Ranging Whistleblower Leaks",
+     "published": "2026-11-17T09:22:00+00:00",
+     "summary": "The stock fell after media outlets cited leaked documents alleging the bank courted Russian oligarchs and sought to expand operations there shortly before the full-scale invasion of Ukraine."
     },
     {
      "ref": "wsj_markets#3",
-     "title": "JGBs Rise, Tracking Gains in U.S. Treasurys",
-     "published": "2026-11-17T00:41:00+00:00",
-     "summary": "JGBs were higher in early Tokyo trading, tracking overnight price gains in U.S. Treasurys."
+     "title": "Gold Remains Pressured by Fed Rate-Hike Bets",
+     "published": "2026-11-17T09:10:00+00:00",
+     "summary": "Gold prices held below $3,900, pressured by expectations of a Fed rate hike next month."
     },
     {
      "ref": "wsj_markets#4",
+     "title": "European Stock Indexes Lower Amid Market-Wide Falls",
+     "published": "2026-11-17T08:39:00+00:00",
+     "summary": "European stock indexes fell across the continent as all sectors opened lower amid a broader downturn in global equities."
+    },
+    {
+     "ref": "wsj_markets#5",
+     "title": "Oil Prices Continue to Fall as Global Supply Surplus Weighs",
+     "published": "2026-11-17T08:09:00+00:00",
+     "summary": "Recovering Middle Eastern exports and expectations of a global supply surplus outweighed regional security concerns."
+    },
+    {
+     "ref": "wsj_markets#6",
+     "title": "Eurozone Bond Yields Edge Lower; EU Commission’s Autumn Forecast Awaited",
+     "published": "2026-11-17T07:56:00+00:00",
+     "summary": "Eurozone government bond yields edged lower in opening trade with the German ZEW economic sentiment indicator and EU Commission’s autumn forecasts being potential movers during the day."
+    },
+    {
+     "ref": "wsj_markets#7",
+     "title": "Dollar Rally Pauses Ahead of Data, Fed Speeches",
+     "published": "2026-11-17T07:47:00+00:00",
+     "summary": "The DXY dollar index traded flat, stabilizing after rising to a 19-month high against a basket of currencies overnight."
+    },
+    {
+     "ref": "wsj_markets#8",
+     "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
+     "published": "2026-11-17T06:49:00+00:00",
+     "summary": "The move exacerbated investor concerns over the artificial-intelligence boom and spurring risk-off sentiment."
+    },
+    {
+     "ref": "wsj_markets#9",
      "title": "Oil Falls as Improving Supply Prospects Offset Mideast Tensions",
      "published": "2026-11-17T00:23:00+00:00",
      "summary": "Oil weakened as improving supply prospects offset Middle East tensions."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#10",
      "title": "WSJ Dollar Index Rises 0.12% to 98.46",
      "published": "2026-11-16T22:54:00+00:00",
      "summary": "The WSJ Dollar Index rose 0.1%, up for five consecutive trading days."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#11",
      "title": "Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
      "published": "2026-11-16T22:51:00+00:00",
      "summary": "The conglomerate formerly run by Warren Buffett also trimmed stakes in Capital One and Nucor during the September quarter."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#12",
      "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
      "published": "2026-11-16T22:35:00+00:00",
      "summary": "Plus, Trump said he might meet with Kim Jong Un this week, and Kalshi bought a securities firm to expand into stock trading."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#13",
      "title": "U.S. Stocks Extend Slide on Nvidia, China Fears",
      "published": "2026-11-16T22:06:00+00:00",
      "summary": "Stocks slid sharply, with the S&P 500 recording a third straight decline and its biggest loss since Nvidia’s chief resigned last week."
     },
     {
-     "ref": "wsj_markets#9",
-     "title": "Financial Services Roundup: Market Talk",
-     "published": "2026-11-16T21:54:00+00:00",
-     "summary": "Find insight on Legal & General, bitcoin and more in the latest Market Talks covering financial services."
-    },
-    {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#14",
      "title": "U.S. Natural Gas Futures Settle Lower",
      "published": "2026-11-16T21:51:00+00:00",
      "summary": "U.S. natural gas futures added to Friday’s losses as production picked up and near-term weather turned warmer."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#15",
      "title": "Oil Futures Retreat on Expected Global Surplus",
      "published": "2026-11-16T21:50:00+00:00",
      "summary": "Oil prices extended losses as analysts and experts say the global market faces a growing surplus next year, despite persistent risks in the Middle East."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#16",
      "title": "AI Stocks Resume Their Slide",
      "published": "2026-11-16T21:38:00+00:00",
      "summary": "Plus, the Fed weighs AI jobs scenarios and Tyson improves its beef outlook"
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#17",
      "title": "Crypto Stuck Near Multimonth Lows After Sluggish Weekend",
      "published": "2026-11-16T21:05:00+00:00",
      "summary": "Crypto started the week on a downbeat note with both Bitcoin and Ethereum trading around key support levels as risk appetite remains constrained."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#18",
      "title": "Treasury Yields Slip to Start Busy Week",
      "published": "2026-11-16T20:47:00+00:00",
      "summary": "Treasury yields started the week declining, as Fed Chairman Warsh refrained from giving hints about the path of interest rates."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#19",
      "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations",
      "published": "2026-11-16T20:30:00+00:00",
      "summary": "Oil prices fell as traders weighed expectations of a global supply surplus against renewed threats to Middle Eastern oil shipments."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#20",
      "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
      "published": "2026-11-16T20:29:00+00:00",
      "summary": "The company’s prospects depends on whether its board is able to avoid a series of common pitfalls."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#21",
      "title": "Kalshi Buys Securities Firm to Expand Into Stock Trading",
      "published": "2026-11-16T19:33:00+00:00",
      "summary": "The prediction-markets platform, still fighting legal battles with U.S. states over its yes-or-no contracts, wants to expand into other assets."
     },
     {
-     "ref": "wsj_markets#18",
-     "title": "Gold Futures Settle at New 52-Week Low",
-     "published": "2026-11-16T19:30:00+00:00",
-     "summary": "Gold futures settled at their lowest level in more than a year as the U.S. dollar extended gains."
-    },
-    {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#22",
      "title": "Optimum Skips Bond Interest Payments Amid Restructuring Talks",
      "published": "2026-11-16T17:37:00+00:00",
      "summary": "The broadband company entered a 30-day grace period as it negotiated with creditors."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#23",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-11-16T13:55:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#21",
-     "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
-     "published": "2026-11-16T12:33:00+00:00",
-     "summary": "Plus, where does Nvidia go from here?"
-    },
-    {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#24",
      "title": "When Nvidia Stumbled, Equal-Weight Funds Delivered",
      "published": "2026-11-16T11:20:00+00:00",
      "summary": "Plus, tech stocks start the week under pressure."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "The Investors Set to Win Big in Anthropic’s IPO",
-     "published": "2026-11-16T10:30:00+00:00",
-     "summary": "Venture-capital firms, top tech companies and sovereign-wealth funds are poised for windfalls."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Big Tech Needs to Spread Its Bets on Data Centers",
-     "published": "2026-11-16T10:30:00+00:00",
-     "summary": "Artificial-intelligence players that bet too much on a handful of mega projects look vulnerable after the midterm elections."
     }
    ]
   }
@@ -512,10 +537,10 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3975.3999,
-   "prev_close": 4038.02,
-   "change_pct": -1.55,
-   "as_of": "2026-11-16"
+   "last": 3978.1101,
+   "prev_close": 3975.3999,
+   "change_pct": 0.07,
+   "as_of": "2026-11-17"
   },
   "SP500": {
    "symbol": "^GSPC",
@@ -526,23 +551,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.2459,
+   "last": 3.2572,
    "prev_close": 3.2159,
-   "change_pct": 0.93,
+   "change_pct": 1.28,
    "as_of": "2026-11-17"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 91.71,
-   "prev_close": 95.84,
-   "change_pct": -4.31,
-   "as_of": "2026-11-16"
+   "last": 92.62,
+   "prev_close": 92.44,
+   "change_pct": 0.19,
+   "as_of": "2026-11-17"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 64999.3711,
-   "prev_close": 65305.0625,
-   "change_pct": -0.47,
+   "last": 64135.5898,
+   "prev_close": 64855.8438,
+   "change_pct": -1.11,
    "as_of": "2026-11-17"
   }
  },

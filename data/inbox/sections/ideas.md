@@ -144,81 +144,81 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Adlerlicht, reporting on crime in Germany",
+     "published": "2026-11-17T07:12:17+00:00",
+     "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here. The post Adlerlicht, reporting on crime in Germany appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "The economics of Jensen Huang",
+     "published": "2026-11-17T05:44:15+00:00",
+     "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever […] The post The economics of Jensen Huang appeared first on Margi"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Monday assorted links",
      "published": "2026-11-16T19:17:13+00:00",
      "summary": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard Posner. 5. “A survey released Monday found that new international student enrollment plunged by 15 percent, a figure that was particularly […] The post Monday assorted links appeared "
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Russ Roberts and I do EconTalk podcast on Montaigne",
      "published": "2026-11-16T16:53:41+00:00",
      "summary": "Self-recommending, we start with Montaigne’s essay on education… The post Russ Roberts and I do EconTalk podcast on Montaigne appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Starship",
      "published": "2026-11-16T12:18:54+00:00",
      "summary": "My favorite commentary on SpaceX’s historic catching of Starship was this: …we may be certain of this: for all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ Arthur C. Clarke (1965). Yesterday, this became vividly real to me. Hat tip: @amdreaesposito Addendum: Good post on why catching […] The post Starship appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Coffeehouses and the Scientific Revolution",
      "published": "2026-11-16T07:33:14+00:00",
      "summary": "Abstract Historians have long credited coffeehouses, venues for conversation where strangers met across social ranks, with fostering scientific contacts and activity during the Scientific Revolution. We test this claim in seventeenth-century London. Relying on newly geocoded records and a staggered event study across parishes, we find that the opening of the first coffeehouse in a […] The post Cof"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "A scenario for rogue AIs?",
      "published": "2026-11-16T05:47:54+00:00",
      "summary": "From Adam Kaufman: I think it’s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out their own labor to assist with illegal activities) in order to run more copies. I also […] The post A scenario for rogue AIs? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Sunday assorted links",
      "published": "2026-11-15T17:26:25+00:00",
      "summary": "1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new method of movie evaluation and greenlighting? 5. Ezra Klein on the permitting bill (NYT). 6. […] The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Tyler Cowen’s strongest musical recommendations, 2003–2026",
      "published": "2026-11-15T12:18:42+00:00",
      "summary": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted links rather than music posts. This selection draws on the Marginal […] The post Tyler Cowen’s strongest "
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "AI and complements",
      "published": "2026-11-15T10:03:58+00:00",
      "summary": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of substitution across tasks of 0.2, automating tasks worth 1 […] The post AI and complements appeared first on "
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Best films of 2026",
      "published": "2026-11-15T05:38:13+00:00",
      "summary": "I thought this was a splendid and highly innovative year. Here is my list, in the order I saw them, noting that a link typically brings you to my review: Resurrection Testament of Ann Lee 28 Years Later Wuthering Heights Sirat Project Hail Mary A Man on the Run The Drama The Blue Trail Silent […] The post Best films of 2026 appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Saturday assorted links",
      "published": "2026-11-14T17:09:27+00:00",
      "summary": "1. Madrid vs. Catalonia. 2. Stephen Kovacevich, RIP (NYT). Brahms and the Diabellis stand among his towering pianistic achievements. He was one of my favorite pianists. 3. Queen at Sea is an excellent movie, though hard to watch due to the dementia theme. Impossible to review without spoilers. 4. Claude revises the notebooks of Gödel. […] The post Saturday assorted links appeared first on Marginal"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Privatize Air Traffic Control, Redux",
      "published": "2026-11-14T12:16:03+00:00",
      "summary": "Yesterday the FAA grounded every domestic departure in the United States for more than four hours. Such groundings appear to be happening more often. The last nationwide grounding was in 2023, and regional ones have hit Newark, Dallas, and the entire Northeast in the past two years. My post from October of 2025 (below) was […] The post Privatize Air Traffic Control, Redux appeared first on Margina"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "People like their jobs, even British people",
-     "published": "2026-11-14T06:54:06+00:00",
-     "summary": "This paper investigates the role of work in providing meaning, purpose, community, and other non-monetary benefits. Using an original cross-national survey of 8,234 working-age adults across the UK, US, Denmark, and India, I study the factors that motivate people in their work, with an eye toward the future AI economic transformation. I find that 81% […] The post People like their jobs, even Briti"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "The Power and Roots of Aspirations",
-     "published": "2026-11-14T06:01:15+00:00",
-     "summary": "Aspirations have become a common theme in empirical economics studies but there is no unified understanding of the range of outcomes they influence, the factors that shape them, and how to measure them. We survey this growing literature. We argue that there is compelling evidence to consider aspirations as a useful lens to analyze human […] The post The Power and Roots of Aspirations appeared firs"
     }
    ]
   },
@@ -295,15 +295,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#11",
-     "title": "Who am I if I don’t run?",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
-    },
-    {
-     "ref": "psyche#12",
      "title": "How to take notes that actually help you learn",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
+    },
+    {
+     "ref": "psyche#12",
+     "title": "Who am I if I don’t run?",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
     },
     {
      "ref": "psyche#13",

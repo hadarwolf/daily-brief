@@ -116,81 +116,75 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "לפני שורת הקוד הראשונה: מדריך מזורז לאפיון פרויקט AI",
+     "published": "2026-11-17T09:32:33+00:00",
+     "summary": "מאת ערן פוקס מודלי AI עובדים מהר, ומבזבזים אפילו מהר יותר. למרות הפוטנציאל העצום שלהם בפרויקטים מורכבים, חוסר דיוק בשלב האפיון מתורגם לעוד הרצות, תיקונים ושעות פיתוח. וכשהתמחור הוא לפי צריכה, הסבבים האלה מייקרים את כל העסק. במקרים רבים, הבעיות מתגלות בשלב מאוחר מדי: פתרון שעובד יפה בקנה מידה קטן, עלול להתגלות כיקר או לא […] The post לפני שורת הקוד הראשונה: מדריך מזורז לאפיון פרויקט AI appeared fir"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "חרם חרם, אבל כשהאירים רוצים להגן על בכירים, הם רוכשים טכנולוגיה ישראלית",
+     "published": "2026-11-17T08:42:31+00:00",
+     "summary": "אין ספק שבשנים האחרונות אירלנד היא אחת המדינות שמובילות את הקו התקיף ביותר נגד ישראל, עם שורת צעדים מדיניים וכלכליים, בהם גם החלטה להפסיק לרכוש ציוד ביטחוני מתוצרת ישראל. אבל מתברר שכשצריך להגן על מנהיגים ומדינאים, גם החרם הזה יכול להפוך ל… מעט יותר גמיש. למרות החרם, קונים כחול-לבן דיווח חדש חושף כי המשטרה האירית […] The post חרם חרם, אבל כשהאירים רוצים להגן על בכירים, הם רוכשים טכנולוגיה ישראלית "
+    },
+    {
+     "ref": "geektime#2",
+     "title": "הנתונים חושפים: כמה ישראלים לוקחים חופש השבוע בגלל GTA 6?",
+     "published": "2026-11-17T07:35:15+00:00",
+     "summary": "בלילה שבין יום רביעי לחמישי תיעשה היסטוריה: אחרי 13 שנים ארוכות ומלאות במימים זה סוף סוף יקרה, ו-GTA 6 ישוחרר (וישבור על הדרך את כל שיאי ההכנסות). אבל לתאריך השחרור של המשחק המצופה יש גם השפעות ישירות על הכלכלה העולמית, כאשר בעולם כבר נשמעות הערכות על היעלמויות המוניות ומסתוריות ממקומות העבודה. אז יצאנו לבדוק האם […] The post הנתונים חושפים: כמה ישראלים לוקחים חופש השבוע בגלל GTA 6? appeared first"
+    },
+    {
+     "ref": "geektime#3",
      "title": "פעם ראשונה בלי ג'נסן: NVIDIA חושפת את המעבדים המפלצתיים החדשים שלה",
      "published": "2026-11-16T16:00:54+00:00",
      "summary": "השבוע האחרון ייזכר כנראה כאחד השבועות השחורים והסוערים בתולדות NVIDIA. בין פרשיית הריגול המביכה, הבגידה והרומן מחוץ לנישואין, ורעידת האדמה עם התפטרותו של המנכ\"ל והמייסד האגדי ג'נסן הואנג, אפשר היה לחשוב שהחברה תוריד פרופיל. אבל בכנס SC26 שנערך היום (ב') בשיקגו, נראה שענקית השבבים מנסה לשדר שההצגה חייבת להימשך והיא מציגה צ'יפים חדשים. \"סימולציה מהירה […] The post פעם ראשונה בלי ג'נסן: NVIDIA חושפת "
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#4",
      "title": "הגארדיאן: ישראל העלתה מיליוני תמונות של פלסטינים למערכת זיהוי הפנים של AWS",
      "published": "2026-11-16T13:22:27+00:00",
      "summary": "לפני כשנה הודיעה מיקרוסופט כי היא חוסמת את הגישה של יחידת 8200 ל-Azure בטענה שצה\"ל עשה שימוש אסור בשירותי הענן של החברה. עכשיו מעלה תחקיר חדש טענות דומות נגד צה\"ל, במה שעלול לדחוק אותו מתשתית הענן הגדולה בעולם. 3.5 מיליון תמונות במערכת תחקיר של הגרדיאן הבריטי טוען כי צה\"ל העלה בתחילת 2024 כ-3.5 מיליון תמונות […] The post הגארדיאן: ישראל העלתה מיליוני תמונות של פלסטינים למערכת זיהוי הפנים של AWS ap"
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#5",
      "title": "3 חודשים אחרי הגיוס הראשון, הסטארטאפ הזה כבר הפך לחד קרן",
      "published": "2026-11-16T12:02:45+00:00",
      "summary": "רק לפני שלושה חודשים סיפרנו לכם כאן על סטארטאפ חדש ומעניין בשם Corma שמפתח מודל בסיס לתעשיית הסייבר, המיועד למגינים ולאו דווקא לתוקפים. היום (ב'), אחרי סבב סיד חריג, הוא חושף סבב גיוס ענק נוסף, שמביא אותו היישר למועדון חדי הקרן. כל עדכוני ההייטק, בלי שטויות: ערוץ העדכונים השקט של גיקטיים יוצאי גוגל, DeepMind ו-8200 […] The post 3 חודשים אחרי הגיוס הראשון, הסטארטאפ הזה כבר הפך לחד קרן appeared firs"
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#6",
      "title": "מכה לתחרות במאסק: תקלה מסתורית בשיגור חיסלה 10% מהלוויינים של אמזון",
      "published": "2026-11-16T08:01:50+00:00",
      "summary": "בשנים האחרונות מנסה אמזון לאתגר את המונופול של אילון מאסק ו-SpaceX בכל הקשור לשיגורים לחלל ולאינטרנט לווייני עם סטארלינק. Amazon Leo (לשעבר פרויקט קויפר), המיזם של אמזון, שנועד להתחרות בסטארלינק, ראה בשנה שעברה שיגורים ראשונים של לוויינים שלו לחלל – בחלק מהמקרים על גבי טילי SpaceX – ואמש (א') עשרות לוויינים נוספים שלו היו אמורים […] The post מכה לתחרות במאסק: תקלה מסתורית בשיגור חיסלה 10% מהלוויינ"
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#7",
      "title": "דיווח: ג'נסן הואנג בוחן קאמבק לאנבידיה",
      "published": "2026-11-16T06:30:19+00:00",
      "summary": "לפני שבוע בלבד עולם הטכנולוגיה הזדעזע כשג'נסן הואנג, האיש והמעיל שמאחורי אימפריית השבבים של אנבידיה, נאלץ להתפטר מתפקידו בעקבות רומנים שניהל עם מנהלת באנבידיה שכפופה לו, ויותר חשוב, רומן עם מי שחשודה כמרגלת סינית. אבל למרות ההתפטרות, לא בטוח שהפרשה הזו תרד מסדר היום כל-כך מהר. על פי דיווח חדש של ה-Financial Times, הואנג שוקל […] The post דיווח: ג'נסן הואנג בוחן קאמבק לאנבידיה appeared first on גיק"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#8",
      "title": "פיילוט חדש בישראל: מעבר חצייה חכם",
      "published": "2026-11-15T17:02:59+00:00",
      "summary": "אולי זה משהו באוויר, אבל בשבועות האחרונים אנחנו שומעים על יותר ויותר פיתוחים בתחום הכבישים: אם זה \"רמזור AI\" בהרצליה או דוחות לנהגים שצופרים לחינם בעזרת מערכת מצלמות ומיקרופונים חכמה בתל אביב. ועכשיו אנחנו שומעים על מעבר חצייה חכם? נהג והולך רגל בדרך לאותו מעבר חצייה? קבלו אזהרה עיריית הרצליה הודיעה כי היא יוצאת בפיילוט חדש […] The post פיילוט חדש בישראל: מעבר חצייה חכם appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#9",
      "title": "למה אקזיט של 50 מיליון דולר שווה לפעמים יותר מאקזיט של 400 מיליון?",
      "published": "2026-11-15T16:12:07+00:00",
      "summary": "חברה נמכרת ב-400 מיליון דולר. חברה אחרת נמכרת ב-50 מיליון. באיזו מהן המייסדים קיבלו יותר כסף? לכאורה, התשובה ברורה, לא? ובכן, לא ממש ולא תמיד. כדי לדעת כמה נשאר למייסדים, צריך להבין כמה מהחברה נשאר להם ומה הזכויות של מי שהשקיעו בדרך; וכדי להבין אם המשקיעים מרוצים, צריך לדעת גם כמה כסף הם הכניסו, מתי, ומה […] The post למה אקזיט של 50 מיליון דולר שווה לפעמים יותר מאקזיט של 400 מיליון? appeared first"
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#10",
      "title": "\"אני מקווה שתמות ותגאל אותנו מהייסורים שלנו\": הצד הפחות יפה של ג'נסן הואנג",
      "published": "2026-11-15T13:21:27+00:00",
      "summary": "השבוע שעבר היה כנראה אחד הפחות טובים בחייו של ג'נסן הואנג. מי שהיה אחת הדמויות האהובות ביותר בעמק הסיליקון, הרוקסטאר של עולם הטכנולוגיה, התפטר מ-NVIDIA, החברה שהקים במו ידיו והנהיג במשך יותר מ-3 עשורים. זאת על רקע שורת תחקירים שחשפה כי הואנג ניהל מספר רומנים מחוץ לנישואין: האחד עם מי שחשודה כמרגלת סינית, ושניים אחרים, […] The post \"אני מקווה שתמות ותגאל אותנו מהייסורים שלנו\": הצד הפחות יפה של ג'נס"
     },
     {
-     "ref": "geektime#8",
+     "ref": "geektime#11",
      "title": "עכשיו זה גם רשמי: יש יותר מחפשי עבודה בהייטק ממשרות פנויות",
      "published": "2026-11-15T11:01:03+00:00",
      "summary": "זה לא סוד שבשנים האחרונות, אחרי תור הזהב של 2021 ו-2022, הפך ההייטק הישראלי לשוק של מעסיקים, והעובדים הם אלו שצריכים לרדוף אחרי כל משרה בתקווה להשתדרג בשכר – או כדי למצוא משרה. אבל עכשיו חושף דוח חדש של שירות התעסוקה גם את הנתונים שמוכיחים את זה. מספר המשרות עלה, אך גם מספר מחפשי העבודה […] The post עכשיו זה גם רשמי: יש יותר מחפשי עבודה בהייטק ממשרות פנויות appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#9",
-     "title": "חושבים שסוכני ה-AI שלכם פועלים רק בהרשאות? אתם חייבים את הוובינר הזה",
-     "published": "2026-11-15T09:52:42+00:00",
-     "summary": "כלי AI עובדים בתחנות של עובדים ומפתחים כדבר שבשגרה – עוזרי קוד, סוכנים, תוספי דפדפן ו-IDE, סקילים וחיבורי MCP. הם חוסכים זמן ומאפשרים לצוות קטן לעשות הרבה יותר, אבל בניגוד לכלי SaaS רגילים, הם רצים מקומית ופועלים בהרשאות המשתמש. הם קוראים קבצים, ניגשים למידע רגיש ול-Secrets, מריצים פקודות ופועלים מול מערכות הארגון. הסיכונים לא טמונים […] The post חושבים שסוכני ה-AI שלכם פועלים רק בהרשאות? אתם חייב"
-    },
-    {
-     "ref": "geektime#10",
-     "title": "שוב קיצוצים ב-eToro: עשרות עובדים יפוטרו",
-     "published": "2026-11-15T09:35:29+00:00",
-     "summary": "פלטפורמת המסחר הישראלית eToro נערכת לסבב פיטורים נוסף. על פי דיווח בגלובס, במסגרת המהלך כמה עשרות עובדים צפויים לסיים את עבודתם בחברה. הפיטורים הללו מגיעים פחות משנה לאחר שב-eToro כבר קיצצו 7% מכוח האדם בינואר האחרון, סבב שבו פוטרו כ-105 עובדים, יותר ממחציתם בישראל. כיום מעסיקה החברה בישראל כ-700 עובדים מתוך כ-1,400 איש בעולם. דוחות מעורבים […] The post שוב קיצוצים ב-eToro: עשרות עובדים יפוטרו app"
-    },
-    {
-     "ref": "geektime#11",
-     "title": "מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאזל קרה בסופ\"ש למיקרוסופט ולשדות התעופה בארה\"ב?",
-     "published": "2026-11-15T08:40:34+00:00",
-     "summary": "אם ניסיתם במהלך הסופ\"ש להיכנס למייל שלכם באאוטלוק, לשלוח הודעה ב-Teams או להשתמש ב-Copilot (סתם סתם, אנחנו יודעים שאף אחד לא מנסה מרצונו להשתמש בקופיילוט) וגיליתם שכלום לא עובד, אתם כבר יודעים שאתם לא לבד. תקלה נרחבת בשירותי הענן של ענקית הטכנולוגיה השביתה במשך יותר מיממה כמה מהשירותים החשובים ביותר שלה, והשפיעה על מיליוני משתמשים […] The post מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאז"
-    },
-    {
-     "ref": "geektime#12",
-     "title": "היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship",
-     "published": "2026-11-15T06:51:55+00:00",
-     "summary": "קהל רב התאסף הלילה (מוצאי שבת, זמן ישראל) לצפות בהיסטוריה, והיסטוריה הוא קיבל. לקול השיר \"Baby Come Back\" פילחה חללית Starship (השלב העליון שלה, Ship 42) את העננים שמעל טקסס, ואחרי יותר מ-20 שעות במסלול סביב כדור הארץ, ובמהירות מטורפת, היא עשתה את דרכה לעבר מתקן הלכידה בבסיס Starbase של SpaceX. אבל רגע לפני שנגיע […] The post היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship appear"
     }
    ]
   },
@@ -200,69 +194,81 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-     "published": "2026-11-16T22:58:20+00:00",
-     "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 313 # Comments: 180"
+     "title": "Optimizely compromised, served malware on Zoom, GitLab",
+     "published": "2026-11-16T23:00:34+00:00",
+     "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 351 # Comments: 151"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "United Airlines experiencing a widespread system outage, airline says",
-     "published": "2026-11-16T22:14:38+00:00",
-     "summary": "https://news.ycombinator.com/item?id=50524260 Comments URL: https://news.ycombinator.com/item?id=50524165 Points: 194 # Comments: 102"
+     "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+     "published": "2026-11-16T22:58:20+00:00",
+     "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 610 # Comments: 456"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "BugMeNot has closed",
      "published": "2026-11-16T21:32:17+00:00",
-     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 366 # Comments: 181"
+     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 548 # Comments: 244"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-     "published": "2026-11-16T20:43:36+00:00",
-     "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 863 # Comments: 141"
+     "title": "OpenCode Browse",
+     "published": "2026-11-16T21:20:37+00:00",
+     "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 256 # Comments: 144"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Rust changed me as a developer",
-     "published": "2026-11-16T20:16:50+00:00",
-     "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 203 # Comments: 129"
+     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+     "published": "2026-11-16T20:43:36+00:00",
+     "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1534 # Comments: 209"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-     "published": "2026-11-16T18:31:30+00:00",
-     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 730 # Comments: 606"
+     "title": "Chemistry is Actually Geometry",
+     "published": "2026-11-16T20:22:18+00:00",
+     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 229 # Comments: 111"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Grazing sheep in fields with solar arrays",
-     "published": "2026-11-16T17:27:46+00:00",
-     "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 232 # Comments: 233"
+     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+     "published": "2026-11-16T18:31:30+00:00",
+     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 776 # Comments: 647"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Jiff 1.0: A datetime library for Rust",
-     "published": "2026-11-16T16:53:39+00:00",
-     "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 327 # Comments: 77"
+     "title": "Grazing sheep in fields with solar arrays",
+     "published": "2026-11-16T17:27:46+00:00",
+     "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 273 # Comments: 264"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Frame – 31.5\" color ePaper display",
-     "published": "2026-11-16T16:23:22+00:00",
-     "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 328 # Comments: 230"
+     "title": "Jiff 1.0: A datetime library for Rust",
+     "published": "2026-11-16T16:53:39+00:00",
+     "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 383 # Comments: 87"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-     "published": "2026-11-16T13:18:22+00:00",
-     "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 243 # Comments: 175"
+     "title": "Frame – 31.5\" color ePaper display",
+     "published": "2026-11-16T16:23:22+00:00",
+     "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 421 # Comments: 293"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-     "published": "2026-11-16T11:39:31+00:00",
-     "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/ Comments URL: https://news.ycombinator.com/item?id=50516473 Points: 301 # Comments: 117"
+     "title": "What is w2rt6byl5nf1opmc-a.com?",
+     "published": "2026-11-16T13:51:38+00:00",
+     "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 348 # Comments: 151"
+    },
+    {
+     "ref": "hn_frontpage#11",
+     "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+     "published": "2026-11-16T13:18:22+00:00",
+     "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 327 # Comments: 238"
+    },
+    {
+     "ref": "hn_frontpage#12",
+     "title": "Squircles",
+     "published": "2026-11-16T07:55:10+00:00",
+     "summary": "Article URL: https://linebender.org/wiki/curves/squircle/ Comments URL: https://news.ycombinator.com/item?id=50515151 Points: 192 # Comments: 49"
     }
    ]
   },
@@ -356,48 +362,54 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "simon_willison#0",
+     "title": "Quoting Go Proverbs",
+     "published": "2026-11-17T06:16:26+00:00",
+     "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming"
+    },
+    {
+     "ref": "simon_willison#1",
      "title": "llm 0.37.3",
      "published": "2026-11-16T23:57:26+00:00",
      "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this: {\"a\":"
     },
     {
-     "ref": "simon_willison#1",
+     "ref": "simon_willison#2",
      "title": "datasette-maplibre 0.1a0",
      "published": "2026-11-15T23:58:36+00:00",
      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/"
     },
     {
-     "ref": "simon_willison#2",
+     "ref": "simon_willison#3",
      "title": "datasette 1.0a43",
      "published": "2026-11-15T23:20:27+00:00",
      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response"
     },
     {
-     "ref": "simon_willison#3",
+     "ref": "simon_willison#4",
      "title": "datasette 0.65.6",
      "published": "2026-11-15T23:18:17+00:00",
      "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security , datasette"
     },
     {
-     "ref": "simon_willison#4",
+     "ref": "simon_willison#5",
      "title": "datasette-apps 0.4a0",
      "published": "2026-11-15T04:02:45+00:00",
      "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write"
     },
     {
-     "ref": "simon_willison#5",
+     "ref": "simon_willison#6",
      "title": "datasette-agent 0.6a0",
      "published": "2026-11-15T03:49:47+00:00",
      "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai"
     },
     {
-     "ref": "simon_willison#6",
+     "ref": "simon_willison#7",
      "title": "datasette-llm 0.1a11",
      "published": "2026-11-14T23:59:28+00:00",
      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or"
     },
     {
-     "ref": "simon_willison#7",
+     "ref": "simon_willison#8",
      "title": "datasette-vega 0.7",
      "published": "2026-11-14T17:09:09+00:00",
      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript "
