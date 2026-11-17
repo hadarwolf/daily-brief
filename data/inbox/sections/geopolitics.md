@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies - AP News",
+     "published": "2026-11-17T10:28:00+00:00",
+     "summary": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Mongolia’s president says he will step down after facing accusations of corruption - AP News",
+     "published": "2026-11-17T09:50:00+00:00",
+     "summary": "Mongolia’s president says he will step down after facing accusations of corruption AP News"
+    },
+    {
+     "ref": "ap_world#2",
      "title": "Rugby - AP News",
      "published": "2026-11-17T09:28:51+00:00",
      "summary": "Rugby AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#3",
      "title": "1.5-hour-long system outage forces United Airlines to delay departing flights - AP News",
      "published": "2026-11-17T09:19:00+00:00",
      "summary": "1.5-hour-long system outage forces United Airlines to delay departing flights AP News"
     },
     {
-     "ref": "ap_world#2",
-     "title": "Colorado travelers express frustration after United delays departing flights during system outage - AP News",
-     "published": "2026-11-17T09:15:00+00:00",
-     "summary": "Colorado travelers express frustration after United delays departing flights during system outage AP News"
-    },
-    {
-     "ref": "ap_world#3",
+     "ref": "ap_world#4",
      "title": "World markets mostly drop as AI stocks remain under pressure - AP News",
      "published": "2026-11-17T09:07:00+00:00",
      "summary": "World markets mostly drop as AI stocks remain under pressure AP News"
     },
     {
-     "ref": "ap_world#4",
-     "title": "Seattle - AP News",
-     "published": "2026-11-17T08:27:17+00:00",
-     "summary": "Seattle AP News"
+     "ref": "ap_world#5",
+     "title": "Pope forgives person who nailed him in the eye with a rosary in Peru - AP News",
+     "published": "2026-11-17T08:52:00+00:00",
+     "summary": "Pope forgives person who nailed him in the eye with a rosary in Peru AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "Trump administration moves to block China from indirect access to American AI technology - AP News",
      "published": "2026-11-17T07:49:00+00:00",
      "summary": "Trump administration moves to block China from indirect access to American AI technology AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner - AP News",
-     "published": "2026-11-17T07:17:00+00:00",
-     "summary": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner AP News"
+     "ref": "ap_world#7",
+     "title": "Turkish authorities raid another opposition television station and appoint trustees - AP News",
+     "published": "2026-11-17T07:46:00+00:00",
+     "summary": "Turkish authorities raid another opposition television station and appoint trustees AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#8",
      "title": "China and Canada expand tariff relief while Ottawa-Washington relations are strained - AP News",
      "published": "2026-11-17T07:00:00+00:00",
      "summary": "China and Canada expand tariff relief while Ottawa-Washington relations are strained AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#9",
+     "title": "STEVE REED - AP News",
+     "published": "2026-11-17T06:48:52+00:00",
+     "summary": "STEVE REED AP News"
+    },
+    {
+     "ref": "ap_world#10",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-11-17T06:45:48+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#9",
-     "title": "Trump is to arrive in the Philippines to talk trade and seek respite from troubles at home - AP News",
-     "published": "2026-11-17T06:28:00+00:00",
-     "summary": "Trump is to arrive in the Philippines to talk trade and seek respite from troubles at home AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace in southwestern Japan - AP News",
      "published": "2026-11-17T06:24:00+00:00",
      "summary": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace in southwestern Japan AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
      "title": "Prince William and Princess Catherine visit India, in photos - AP News",
      "published": "2026-11-17T06:09:00+00:00",
      "summary": "Prince William and Princess Catherine visit India, in photos AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#13",
      "title": "Chargers bully the Ravens at the line of scrimmage and earn their first win of the season, 23-20 - AP News",
      "published": "2026-11-17T06:04:00+00:00",
      "summary": "Chargers bully the Ravens at the line of scrimmage and earn their first win of the season, 23-20 AP News"
     },
     {
-     "ref": "ap_world#13",
-     "title": "Handwritten draft of MLK’s ‘I Have a Dream’ speech on display before it’s sold at auction - AP News",
-     "published": "2026-11-17T05:39:00+00:00",
-     "summary": "Handwritten draft of MLK’s ‘I Have a Dream’ speech on display before it’s sold at auction AP News"
-    },
-    {
      "ref": "ap_world#14",
-     "title": "First new D.C. delegate-elect since 1991 hopes democrats win helps statehood goal - AP News",
-     "published": "2026-11-17T05:28:00+00:00",
-     "summary": "First new D.C. delegate-elect since 1991 hopes democrats win helps statehood goal AP News"
-    },
-    {
-     "ref": "ap_world#15",
      "title": "Some Afghan women quietly defy Taliban bans, by opening secret schools and running small businesses - AP News",
      "published": "2026-11-17T05:04:00+00:00",
      "summary": "Some Afghan women quietly defy Taliban bans, by opening secret schools and running small businesses AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#15",
      "title": "Trump’s pick for Navy secretary likely to face Iran war questions during confirmation hearing - AP News",
      "published": "2026-11-17T05:02:00+00:00",
      "summary": "Trump’s pick for Navy secretary likely to face Iran war questions during confirmation hearing AP News"
     },
     {
+     "ref": "ap_world#16",
+     "title": "Willie Nelson on a near-death experience, Dolly Parton, James Talarico and his book, 'The Last Leaf' - AP News",
+     "published": "2026-11-17T05:02:00+00:00",
+     "summary": "Willie Nelson on a near-death experience, Dolly Parton, James Talarico and his book, 'The Last Leaf' AP News"
+    },
+    {
      "ref": "ap_world#17",
-     "title": "STEVE REED - AP News",
-     "published": "2026-11-17T04:56:32+00:00",
-     "summary": "STEVE REED AP News"
+     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+     "published": "2026-11-17T04:39:08+00:00",
+     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
      "ref": "ap_world#18",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-11-17T04:28:27+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit - AP News",
      "published": "2026-11-17T04:05:00+00:00",
      "summary": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-11-17T03:48:53+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
      "ref": "ap_world#20",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-17T03:45:46+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Ralph Fiennes jokes new Bond Robert Pattinson should play Voldemort in Harry Potter series - AP News",
-     "published": "2026-11-17T03:27:00+00:00",
-     "summary": "Ralph Fiennes jokes new Bond Robert Pattinson should play Voldemort in Harry Potter series AP News"
-    },
-    {
-     "ref": "ap_world#22",
      "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News",
      "published": "2026-11-17T02:44:00+00:00",
      "summary": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#21",
      "title": "At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised - AP News",
      "published": "2026-11-17T02:29:00+00:00",
      "summary": "At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#22",
      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge - AP News",
      "published": "2026-11-17T02:29:00+00:00",
      "summary": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "Lions edge rusher Aidan Hutchinson has a torn ACL in his right knee, AP source says - AP News",
+     "published": "2026-11-17T02:28:00+00:00",
+     "summary": "Lions edge rusher Aidan Hutchinson has a torn ACL in his right knee, AP source says AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Florida’s stormwater ponds become floating solar farms as costs fall and demand rises - AP News",
+     "published": "2026-11-17T02:10:00+00:00",
+     "summary": "Florida’s stormwater ponds become floating solar farms as costs fall and demand rises AP News"
     }
    ]
   },
@@ -414,147 +414,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#1",
+     "title": "NATO allies to discuss US troop levels with Pentagon strategy chief - Reuters",
+     "published": "2026-11-17T10:34:09+00:00",
+     "summary": "NATO allies to discuss US troop levels with Pentagon strategy chief Reuters"
+    },
+    {
+     "ref": "reuters_world#2",
      "title": "Mexico keen to strengthen cooperation with China, president says - Reuters",
      "published": "2026-11-17T10:24:35+00:00",
      "summary": "Mexico keen to strengthen cooperation with China, president says Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
+     "title": "Ukraine strikes Crimean bridge for second day as Russia pounds Kyiv bridges - Reuters",
+     "published": "2026-11-17T10:11:01+00:00",
+     "summary": "Ukraine strikes Crimean bridge for second day as Russia pounds Kyiv bridges Reuters"
+    },
+    {
+     "ref": "reuters_world#4",
      "title": "Crew of tanker unaccounted for after second attack north of Oman's Khasab, UKMTO says - Reuters",
      "published": "2026-11-17T09:47:48+00:00",
      "summary": "Crew of tanker unaccounted for after second attack north of Oman's Khasab, UKMTO says Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#5",
      "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
      "published": "2026-11-17T09:29:43+00:00",
      "summary": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "Pope Leo says no to proposals for married Catholic priests, for now - Reuters",
      "published": "2026-11-17T08:58:37+00:00",
      "summary": "Pope Leo says no to proposals for married Catholic priests, for now Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
+     "title": "South Korea tightens university exam checks to screen for hidden cameras - Reuters",
+     "published": "2026-11-17T08:46:43+00:00",
+     "summary": "South Korea tightens university exam checks to screen for hidden cameras Reuters"
+    },
+    {
+     "ref": "reuters_world#8",
      "title": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says - Reuters",
      "published": "2026-11-17T08:42:18+00:00",
      "summary": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#9",
      "title": "Britain's William and Kate ride e-rickshaw to meet climate prize finalists in Mumbai - Reuters",
      "published": "2026-11-17T08:27:43+00:00",
      "summary": "Britain's William and Kate ride e-rickshaw to meet climate prize finalists in Mumbai Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#10",
      "title": "Mongolian president announces resignation over alleged corruption - Reuters",
      "published": "2026-11-17T08:26:09+00:00",
      "summary": "Mongolian president announces resignation over alleged corruption Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#11",
      "title": "Bahrain says it intercepts Iranian air attacks, IRGC says it targets US radar - Reuters",
      "published": "2026-11-17T07:47:00+00:00",
      "summary": "Bahrain says it intercepts Iranian air attacks, IRGC says it targets US radar Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#12",
      "title": "Odds rise of Trump-Kim meeting on APEC sidelines, analysts say - Reuters",
      "published": "2026-11-17T07:13:00+00:00",
      "summary": "Odds rise of Trump-Kim meeting on APEC sidelines, analysts say Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#13",
      "title": "JSW Steel CEO flags Chinese exports, trade barriers as key challenges - Reuters",
      "published": "2026-11-17T07:09:00+00:00",
      "summary": "JSW Steel CEO flags Chinese exports, trade barriers as key challenges Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#14",
      "title": "UK pay growth slows as job vacancies hit lowest since 2021 - Reuters",
      "published": "2026-11-17T07:07:00+00:00",
      "summary": "UK pay growth slows as job vacancies hit lowest since 2021 Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#15",
      "title": "Russia says Ukraine struck its bridge to Crimea for second day in biggest drone attack of war - Reuters",
      "published": "2026-11-17T06:52:00+00:00",
      "summary": "Russia says Ukraine struck its bridge to Crimea for second day in biggest drone attack of war Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#16",
      "title": "France's Le Pen to set out pension plans amid increased investor scrutiny - Reuters",
      "published": "2026-11-17T06:01:00+00:00",
      "summary": "France's Le Pen to set out pension plans amid increased investor scrutiny Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#17",
      "title": "Iran attacks US military radar system in Bahrain with drones - Reuters",
      "published": "2026-11-17T05:45:00+00:00",
      "summary": "Iran attacks US military radar system in Bahrain with drones Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#18",
      "title": "Morning Bid: Markets shaken, not stirred, as US-China tech war heats up - Reuters",
      "published": "2026-11-17T05:33:00+00:00",
      "summary": "Morning Bid: Markets shaken, not stirred, as US-China tech war heats up Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#19",
      "title": "Reaction to US curbs on AI chips that threaten data centre boom - Reuters",
      "published": "2026-11-17T05:28:00+00:00",
      "summary": "Reaction to US curbs on AI chips that threaten data centre boom Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#20",
      "title": "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office - Reuters",
      "published": "2026-11-17T05:25:00+00:00",
      "summary": "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#21",
      "title": "Meta says it tuned Instagram to curb suggestive, violent content in India - Reuters",
      "published": "2026-11-17T05:23:00+00:00",
      "summary": "Meta says it tuned Instagram to curb suggestive, violent content in India Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#22",
      "title": "US releases details of Megaspeed probe, says investigation began in 2024 - Reuters",
      "published": "2026-11-17T05:18:00+00:00",
      "summary": "US releases details of Megaspeed probe, says investigation began in 2024 Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#23",
      "title": "US AI chip curbs threaten Southeast Asia data centre boom, shares slump - Reuters",
      "published": "2026-11-17T04:34:00+00:00",
      "summary": "US AI chip curbs threaten Southeast Asia data centre boom, shares slump Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#24",
      "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
      "published": "2026-11-17T04:08:00+00:00",
      "summary": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit Reuters"
-    },
-    {
-     "ref": "reuters_world#22",
-     "title": "Pope Leo dispels health concerns with marathon South America tour - Reuters",
-     "published": "2026-11-17T04:01:00+00:00",
-     "summary": "Pope Leo dispels health concerns with marathon South America tour Reuters"
-    },
-    {
-     "ref": "reuters_world#23",
-     "title": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite - Reuters",
-     "published": "2026-11-17T03:42:00+00:00",
-     "summary": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Indian equity benchmarks buck Asia weakness to close at highest since February - Reuters",
-     "published": "2026-11-17T02:42:00+00:00",
-     "summary": "Indian equity benchmarks buck Asia weakness to close at highest since February Reuters"
     }
    ]
   }
