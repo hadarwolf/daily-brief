@@ -196,79 +196,79 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Optimizely compromised, served malware on Zoom, GitLab",
      "published": "2026-11-16T23:00:34+00:00",
-     "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 351 # Comments: 151"
+     "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 358 # Comments: 151"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
      "published": "2026-11-16T22:58:20+00:00",
-     "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 610 # Comments: 456"
+     "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 615 # Comments: 468"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "BugMeNot has closed",
      "published": "2026-11-16T21:32:17+00:00",
-     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 548 # Comments: 244"
+     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 554 # Comments: 250"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "OpenCode Browse",
      "published": "2026-11-16T21:20:37+00:00",
-     "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 256 # Comments: 144"
+     "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 259 # Comments: 146"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "published": "2026-11-16T20:43:36+00:00",
-     "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1534 # Comments: 209"
+     "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1549 # Comments: 210"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Chemistry is Actually Geometry",
      "published": "2026-11-16T20:22:18+00:00",
-     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 229 # Comments: 111"
+     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 234 # Comments: 114"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
      "published": "2026-11-16T18:31:30+00:00",
-     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 776 # Comments: 647"
+     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 776 # Comments: 648"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Grazing sheep in fields with solar arrays",
      "published": "2026-11-16T17:27:46+00:00",
-     "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 273 # Comments: 264"
+     "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 274 # Comments: 265"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Jiff 1.0: A datetime library for Rust",
      "published": "2026-11-16T16:53:39+00:00",
-     "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 383 # Comments: 87"
+     "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 386 # Comments: 87"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Frame – 31.5\" color ePaper display",
      "published": "2026-11-16T16:23:22+00:00",
-     "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 421 # Comments: 293"
+     "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 424 # Comments: 297"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "What is w2rt6byl5nf1opmc-a.com?",
      "published": "2026-11-16T13:51:38+00:00",
-     "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 348 # Comments: 151"
+     "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 351 # Comments: 151"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
      "published": "2026-11-16T13:18:22+00:00",
-     "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 327 # Comments: 238"
+     "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 328 # Comments: 242"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Squircles",
      "published": "2026-11-16T07:55:10+00:00",
-     "summary": "Article URL: https://linebender.org/wiki/curves/squircle/ Comments URL: https://news.ycombinator.com/item?id=50515151 Points: 192 # Comments: 49"
+     "summary": "Article URL: https://linebender.org/wiki/curves/squircle/ Comments URL: https://news.ycombinator.com/item?id=50515151 Points: 194 # Comments: 50"
     }
    ]
   },

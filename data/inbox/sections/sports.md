@@ -481,153 +481,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+     "published": "2026-11-17T10:44:47+00:00",
+     "summary": "Vitor Matos is understood to have indicated he is interested in leaving Swansea who have had an official approach from the French top-flight club."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Blackburn boss Mowbray steps down over health issues",
+     "published": "2026-11-17T10:40:41+00:00",
+     "summary": "Blackburn Rovers head coach Tony Mowbray steps down from his role with the Championship club due to health issues."
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "Has Infantino already won Fifa election as challengers are revealed?",
+     "published": "2026-11-17T10:32:07+00:00",
+     "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?"
+    },
+    {
+     "ref": "bbc_football#3",
      "title": "Pochettino says he would tell Guardiola to take USA job",
      "published": "2026-11-17T09:48:24+00:00",
      "summary": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#4",
      "title": "'Switzerland didn't have better players but were better team'",
      "published": "2026-11-17T09:09:24+00:00",
      "summary": "Sportscene pundits Craig Levein and Leanne Crichton unpick Scotland's 4-0 Nations League defeat in Switzerland."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#5",
      "title": "'Switzerland didn't have better players but were better team'",
      "published": "2026-11-17T09:09:24+00:00",
      "summary": "Sportscene pundits Craig Levein and Leanne Crichton unpick Scotland's 4-0 Nations League defeat in Switzerland."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#6",
      "title": "Owono did not deserve 12-match ban - Pique",
      "published": "2026-11-17T08:28:10+00:00",
      "summary": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#7",
      "title": "How do NI replace 'perfect player' Donley?",
      "published": "2026-11-17T08:17:08+00:00",
      "summary": "With Jamie Donley suspended for Northern Ireland's Nations League visit to Hungary on Tuesday night, manager Michael O'Neill has a decision to make around a starting striker."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#8",
      "title": "Listen: Where do Scotland go after Swiss humiliation?",
      "published": "2026-11-17T08:00:00+00:00",
      "summary": "Pressure builds on Pocognoli after Scotland’s Swiss nightmare."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#9",
      "title": "Are Scotland still too reliant on 'old guard'?",
      "published": "2026-11-17T07:55:21+00:00",
      "summary": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#10",
      "title": "Are Scotland still too reliant on 'old guard'?",
      "published": "2026-11-17T07:55:21+00:00",
      "summary": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#11",
      "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
      "published": "2026-11-17T07:22:26+00:00",
      "summary": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#12",
      "title": "'Monaco unrest as they prepare to face Hearts' - gossip",
      "published": "2026-11-17T07:10:09+00:00",
      "summary": "Speculation surrounds the future of two top Monaco players as they prepare to face Heart of Midlothian, while the Scottish Premiership's top summer free agents are highlighted."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#13",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-17T06:26:22+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#14",
      "title": "Why always him? The rise and fall of Balotelli",
      "published": "2026-11-17T06:15:43+00:00",
      "summary": "Fifteen years since his 'Why always me?' Manchester derby T-shirt celebration, BBC Sport looks at the career of former Manchester City striker Mario Balotelli."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#15",
      "title": "Life after Ronaldo - Portugal face post-Bale Wales",
      "published": "2026-11-17T04:45:00+00:00",
      "summary": "As Portugal adapt to life without the great Cristiano Ronaldo, they face a Wales side further along in their post-Gareth Bale era."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#16",
      "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
      "published": "2026-11-17T00:19:58+00:00",
      "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?"
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#17",
      "title": "What's the story with Pocognoli, is it now time to go?",
      "published": "2026-11-17T00:19:58+00:00",
      "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?"
     },
     {
-     "ref": "bbc_football#15",
-     "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
-     "published": "2026-11-16T22:36:26+00:00",
-     "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group."
-    },
-    {
-     "ref": "bbc_football#16",
-     "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
-     "published": "2026-11-16T22:36:26+00:00",
-     "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group."
-    },
-    {
-     "ref": "bbc_football#17",
-     "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
-     "published": "2026-11-16T22:14:34+00:00",
-     "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen."
-    },
-    {
      "ref": "bbc_football#18",
-     "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
-     "published": "2026-11-16T22:14:34+00:00",
-     "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen."
+     "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
+     "published": "2026-11-16T22:36:26+00:00",
+     "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group."
     },
     {
      "ref": "bbc_football#19",
+     "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
+     "published": "2026-11-16T22:36:26+00:00",
+     "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group."
+    },
+    {
+     "ref": "bbc_football#20",
+     "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+     "published": "2026-11-16T22:14:34+00:00",
+     "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen."
+    },
+    {
+     "ref": "bbc_football#21",
+     "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+     "published": "2026-11-16T22:14:34+00:00",
+     "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen."
+    },
+    {
+     "ref": "bbc_football#22",
      "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
      "published": "2026-11-16T22:06:32+00:00",
      "summary": "Manchester United may struggle to prise defender Lewis Hall from Newcastle, Arsenal midfielder Martin Zubimendi is pondering his future, Chelsea eye a double swoop for Barcelona duo, plus more."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#23",
      "title": "Football Daily",
      "published": "2026-11-16T21:14:00+00:00",
      "summary": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?"
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#24",
      "title": "Portugal boss responds to criticism from Ronaldo's mum",
      "published": "2026-11-16T21:08:06+00:00",
      "summary": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Swansea in fight to keep Matos amid Strasbourg interest",
-     "published": "2026-11-16T21:01:50+00:00",
-     "summary": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "BBC Women's Football Weekly",
-     "published": "2026-11-16T19:58:00+00:00",
-     "summary": "Manchester City star Vivianne Miedema joins Ellen and Ben to discuss her WSL comeback."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "BBC Women's Football Weekly",
-     "published": "2026-11-16T19:58:00+00:00",
-     "summary": "Manchester City star Vivianne Miedema joins Ellen and Ben to discuss her WSL comeback."
     }
    ]
   },
@@ -655,9 +655,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#3",
-     "title": "Kily González Considers Defensive Changes at Inter Miami Ahead of MLS Cup Playoffs Opener Against Columbus ... - Pasión Fútbol",
-     "published": "2026-11-17T00:30:27+00:00",
-     "summary": "Kily González Considers Defensive Changes at Inter Miami Ahead of MLS Cup Playoffs Opener Against Columbus ... Pasión Fútbol"
+     "title": "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk - SportsGrid",
+     "published": "2026-11-17T00:38:01+00:00",
+     "summary": "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk SportsGrid"
     },
     {
      "ref": "gnews_inter_miami#4",
@@ -667,27 +667,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#5",
-     "title": "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk - SportsGrid",
-     "published": "2026-11-16T22:32:09+00:00",
-     "summary": "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk SportsGrid"
-    },
-    {
-     "ref": "gnews_inter_miami#6",
      "title": "Inter Miami CF vs. Nashville SC: Live game updates, stats, play-by-play - Yahoo Sports",
      "published": "2026-11-16T20:56:33+00:00",
      "summary": "Inter Miami CF vs. Nashville SC: Live game updates, stats, play-by-play Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#6",
      "title": "Nashville SC vs. New England Revolution: Live game updates, stats, play-by-play - Yahoo Sports",
      "published": "2026-11-16T20:56:33+00:00",
      "summary": "Nashville SC vs. New England Revolution: Live game updates, stats, play-by-play Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#7",
      "title": "Lionel Messi Reportedly Moves to Distance Himself From AFA as Inter Miami Prepares Monumental Return - Pasión Fútbol",
      "published": "2026-11-16T19:40:51+00:00",
      "summary": "Lionel Messi Reportedly Moves to Distance Himself From AFA as Inter Miami Prepares Monumental Return Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#8",
+     "title": "Messi, 23 years later... - Diario AS",
+     "published": "2026-11-16T17:35:36+00:00",
+     "summary": "Messi, 23 years later... Diario AS"
     },
     {
      "ref": "gnews_inter_miami#9",
@@ -697,21 +697,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#10",
-     "title": "Thiago Almada Reveals What Lionel Messi Thinks About River Plate’s Monumental Stadium Ahead of Inter Miami ... - Pasión Fútbol",
-     "published": "2026-11-16T16:29:41+00:00",
-     "summary": "Thiago Almada Reveals What Lionel Messi Thinks About River Plate’s Monumental Stadium Ahead of Inter Miami ... Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#11",
      "title": "Inter Miami CF vs. FC Cincinnati: Live game updates, stats, play-by-play - Yahoo",
      "published": "2026-11-16T16:20:55+00:00",
      "summary": "Inter Miami CF vs. FC Cincinnati: Live game updates, stats, play-by-play Yahoo"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#11",
      "title": "Inter Miami vs. Columbus Crew: How to watch, stream Round One Game 1 - MLSsoccer.com",
      "published": "2026-11-16T16:19:48+00:00",
      "summary": "Inter Miami vs. Columbus Crew: How to watch, stream Round One Game 1 MLSsoccer.com"
+    },
+    {
+     "ref": "gnews_inter_miami#12",
+     "title": "Luis Suárez Eligible to Start for Inter Miami in Kily González’s Next Playoff Match - Pasión Fútbol",
+     "published": "2026-11-16T16:12:06+00:00",
+     "summary": "Luis Suárez Eligible to Start for Inter Miami in Kily González’s Next Playoff Match Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#13",
@@ -739,15 +739,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#17",
-     "title": "Messi's wife labelled 'divine' as she wears stylish outfit to Machu Picchu - The Sun",
-     "published": "2026-11-16T10:42:13+00:00",
-     "summary": "Messi's wife labelled 'divine' as she wears stylish outfit to Machu Picchu The Sun"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
      "title": "Marriott Bonvoy Partners with Inter Miami CF - https://safariindia.com/",
      "published": "2026-11-16T10:38:10+00:00",
      "summary": "Marriott Bonvoy Partners with Inter Miami CF https://safariindia.com/"
+    },
+    {
+     "ref": "gnews_inter_miami#18",
+     "title": "Messi's wife labelled 'divine' as she wears stylish outfit to Machu Picchu - The Sun",
+     "published": "2026-11-16T08:24:00+00:00",
+     "summary": "Messi's wife labelled 'divine' as she wears stylish outfit to Machu Picchu The Sun"
     },
     {
      "ref": "gnews_inter_miami#19",
@@ -763,24 +763,12 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#21",
-     "title": "Huddy Droubay, 5, Who Has Down Syndrome, Got a Comment From David Beckham on His Soccer Video, Then Walked Onto Inter Miami’s Field Holding Lionel Messi’s Hand - AOL.com",
-     "published": "2026-11-15T19:15:00+00:00",
-     "summary": "Huddy Droubay, 5, Who Has Down Syndrome, Got a Comment From David Beckham on His Soccer Video, Then Walked Onto Inter Miami’s Field Holding Lionel Messi’s Hand AOL.com"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) - Unisba Media",
-     "published": "2026-11-15T19:10:42+00:00",
-     "summary": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) Unisba Media"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
      "title": "Lionel Messi given seven-game deadline to claim another MLS record and leave Josef Martinez behind after re... - World Soccer Talk",
      "published": "2026-11-15T18:18:23+00:00",
      "summary": "Lionel Messi given seven-game deadline to claim another MLS record and leave Josef Martinez behind after re... World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#22",
      "title": "Haitian soccer fans turned Inter-Miami’s Nu Stadium into a sea of blue and red (Video) - Miami Herald",
      "published": "2026-11-15T15:10:38+00:00",
      "summary": "Haitian soccer fans turned Inter-Miami’s Nu Stadium into a sea of blue and red (Video) Miami Herald"
