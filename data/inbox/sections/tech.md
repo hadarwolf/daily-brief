@@ -179,12 +179,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "\"אני מקווה שתמות ותגאל אותנו מהייסורים שלנו\": הצד הפחות יפה של ג'נסן הואנג",
      "published": "2026-11-15T13:21:27+00:00",
      "summary": "השבוע שעבר היה כנראה אחד הפחות טובים בחייו של ג'נסן הואנג. מי שהיה אחת הדמויות האהובות ביותר בעמק הסיליקון, הרוקסטאר של עולם הטכנולוגיה, התפטר מ-NVIDIA, החברה שהקים במו ידיו והנהיג במשך יותר מ-3 עשורים. זאת על רקע שורת תחקירים שחשפה כי הואנג ניהל מספר רומנים מחוץ לנישואין: האחד עם מי שחשודה כמרגלת סינית, ושניים אחרים, […] The post \"אני מקווה שתמות ותגאל אותנו מהייסורים שלנו\": הצד הפחות יפה של ג'נס"
-    },
-    {
-     "ref": "geektime#11",
-     "title": "עכשיו זה גם רשמי: יש יותר מחפשי עבודה בהייטק ממשרות פנויות",
-     "published": "2026-11-15T11:01:03+00:00",
-     "summary": "זה לא סוד שבשנים האחרונות, אחרי תור הזהב של 2021 ו-2022, הפך ההייטק הישראלי לשוק של מעסיקים, והעובדים הם אלו שצריכים לרדוף אחרי כל משרה בתקווה להשתדרג בשכר – או כדי למצוא משרה. אבל עכשיו חושף דוח חדש של שירות התעסוקה גם את הנתונים שמוכיחים את זה. מספר המשרות עלה, אך גם מספר מחפשי העבודה […] The post עכשיו זה גם רשמי: יש יותר מחפשי עבודה בהייטק ממשרות פנויות appeared first on גיקטיים ."
     }
    ]
   },
@@ -196,76 +190,82 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Optimizely compromised, served malware on Zoom, GitLab",
      "published": "2026-11-16T23:00:34+00:00",
-     "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 358 # Comments: 151"
+     "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 365 # Comments: 152"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
      "published": "2026-11-16T22:58:20+00:00",
-     "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 615 # Comments: 468"
+     "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 618 # Comments: 472"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "BugMeNot has closed",
      "published": "2026-11-16T21:32:17+00:00",
-     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 554 # Comments: 250"
+     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 559 # Comments: 254"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "OpenCode Browse",
      "published": "2026-11-16T21:20:37+00:00",
-     "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 259 # Comments: 146"
+     "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 262 # Comments: 150"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-     "published": "2026-11-16T20:43:36+00:00",
-     "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1549 # Comments: 210"
+     "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+     "published": "2026-11-16T20:48:08+00:00",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 150 # Comments: 120"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Chemistry is Actually Geometry",
-     "published": "2026-11-16T20:22:18+00:00",
-     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 234 # Comments: 114"
+     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+     "published": "2026-11-16T20:43:36+00:00",
+     "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1570 # Comments: 212"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-     "published": "2026-11-16T18:31:30+00:00",
-     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 776 # Comments: 648"
+     "title": "Chemistry is Actually Geometry",
+     "published": "2026-11-16T20:22:18+00:00",
+     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 235 # Comments: 114"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Grazing sheep in fields with solar arrays",
-     "published": "2026-11-16T17:27:46+00:00",
-     "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 274 # Comments: 265"
+     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+     "published": "2026-11-16T18:31:30+00:00",
+     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 779 # Comments: 649"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Jiff 1.0: A datetime library for Rust",
-     "published": "2026-11-16T16:53:39+00:00",
-     "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 386 # Comments: 87"
+     "title": "Grazing sheep in fields with solar arrays",
+     "published": "2026-11-16T17:27:46+00:00",
+     "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 275 # Comments: 268"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Frame – 31.5\" color ePaper display",
-     "published": "2026-11-16T16:23:22+00:00",
-     "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 424 # Comments: 297"
+     "title": "Jiff 1.0: A datetime library for Rust",
+     "published": "2026-11-16T16:53:39+00:00",
+     "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 387 # Comments: 87"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "What is w2rt6byl5nf1opmc-a.com?",
-     "published": "2026-11-16T13:51:38+00:00",
-     "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 351 # Comments: 151"
+     "title": "Frame – 31.5\" color ePaper display",
+     "published": "2026-11-16T16:23:22+00:00",
+     "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 428 # Comments: 299"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-     "published": "2026-11-16T13:18:22+00:00",
-     "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 328 # Comments: 242"
+     "title": "What is w2rt6byl5nf1opmc-a.com?",
+     "published": "2026-11-16T13:51:38+00:00",
+     "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 353 # Comments: 152"
     },
     {
      "ref": "hn_frontpage#12",
+     "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+     "published": "2026-11-16T13:18:22+00:00",
+     "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 328 # Comments: 247"
+    },
+    {
+     "ref": "hn_frontpage#13",
      "title": "Squircles",
      "published": "2026-11-16T07:55:10+00:00",
      "summary": "Article URL: https://linebender.org/wiki/curves/squircle/ Comments URL: https://news.ycombinator.com/item?id=50515151 Points: 194 # Comments: 50"
@@ -278,51 +278,51 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ieee_spectrum#0",
+     "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+     "published": "2026-11-17T11:00:04+00:00",
+     "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public safety, and offshore operations. How power efficiency, RF signaling, and antenna design shape satellite-connected device de"
+    },
+    {
+     "ref": "ieee_spectrum#1",
      "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
      "published": "2026-11-16T14:00:02+00:00",
      "summary": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, tracking my progress on the live X-ray feed. As I imagine finding a blood clot, David Bell , the surgeon se"
     },
     {
-     "ref": "ieee_spectrum#1",
+     "ref": "ieee_spectrum#2",
      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
      "published": "2026-11-16T11:00:03+00:00",
      "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This webinar shows how in-line inspection and offline characterization combine into one workflow, from tool "
     },
     {
-     "ref": "ieee_spectrum#2",
+     "ref": "ieee_spectrum#3",
      "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
      "published": "2026-11-16T10:00:01+00:00",
      "summary": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others. Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The coun"
     },
     {
-     "ref": "ieee_spectrum#3",
+     "ref": "ieee_spectrum#4",
      "title": "How Microcredentials Can Help Engineers Build Trustworthy AI",
      "published": "2026-11-13T19:00:03+00:00",
      "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challenges. “AI ethics” refers to the principles developers use to govern and operate workflows. “Governanc"
     },
     {
-     "ref": "ieee_spectrum#4",
+     "ref": "ieee_spectrum#5",
      "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
      "published": "2026-11-13T11:00:02+00:00",
      "summary": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their shape in the wind. Why a moderate wind on a heavily iced line can govern design, and how galloping an"
     },
     {
-     "ref": "ieee_spectrum#5",
+     "ref": "ieee_spectrum#6",
      "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
      "published": "2026-11-11T11:00:02+00:00",
      "summary": "This article is brought to you by Innomotics . In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in 1866, this groundbreaking principle remains fundamental to modern electrical engineering more than a century and a half later – and continues to shape the technology portfolio of Inn"
     },
     {
-     "ref": "ieee_spectrum#6",
+     "ref": "ieee_spectrum#7",
      "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
      "published": "2026-11-10T19:00:02+00:00",
      "summary": "Bishnu Saroop Atal Acoustics and signal processing pioneer Life Fellow, 93; died 19 August Atal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T ’s Shannon Laboratory, in Florham Park, N.J. His pioneering work on voice-coding techniques became the foundation for efficient, high-quality voice transmission over cellular networks. He received the "
-    },
-    {
-     "ref": "ieee_spectrum#7",
-     "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
-     "published": "2026-11-10T11:00:02+00:00",
-     "summary": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics product development. What you will learn about: Why shock failures found during physical qualification are costly, and how coupled electrical, mechanical, thermal, and packaging effects m"
     }
    ]
   },

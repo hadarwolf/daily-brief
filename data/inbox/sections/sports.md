@@ -637,27 +637,27 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "Surprise offer to Lionel Messi from the Argentine National Team: Lionel Scaloni announced it - Fanatik",
-     "published": "2026-11-17T09:49:32+00:00",
-     "summary": "Surprise offer to Lionel Messi from the Argentine National Team: Lionel Scaloni announced it Fanatik"
-    },
-    {
-     "ref": "gnews_inter_miami#1",
      "title": "Watch Columbus Crew vs Inter Miami CF - Fubo",
      "published": "2026-11-17T07:24:23+00:00",
      "summary": "Watch Columbus Crew vs Inter Miami CF Fubo"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#1",
      "title": "Messi named best player of 2026 by \"Vantix Magazine\" - Zamin.uz",
      "published": "2026-11-17T06:50:00+00:00",
      "summary": "Messi named best player of 2026 by \"Vantix Magazine\" Zamin.uz"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#2",
      "title": "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk - SportsGrid",
      "published": "2026-11-17T00:38:01+00:00",
      "summary": "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk SportsGrid"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
+     "title": "Kily González Considers Defensive Changes at Inter Miami Ahead of MLS Cup Playoffs Opener Against Columbus ... - Pasión Fútbol",
+     "published": "2026-11-17T00:30:27+00:00",
+     "summary": "Kily González Considers Defensive Changes at Inter Miami Ahead of MLS Cup Playoffs Opener Against Columbus ... Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#4",
@@ -685,81 +685,81 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#8",
-     "title": "Messi, 23 years later... - Diario AS",
-     "published": "2026-11-16T17:35:36+00:00",
-     "summary": "Messi, 23 years later... Diario AS"
-    },
-    {
-     "ref": "gnews_inter_miami#9",
      "title": "Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series - MLSsoccer.com",
      "published": "2026-11-16T16:51:43+00:00",
      "summary": "Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#9",
      "title": "Inter Miami CF vs. FC Cincinnati: Live game updates, stats, play-by-play - Yahoo",
      "published": "2026-11-16T16:20:55+00:00",
      "summary": "Inter Miami CF vs. FC Cincinnati: Live game updates, stats, play-by-play Yahoo"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#10",
      "title": "Inter Miami vs. Columbus Crew: How to watch, stream Round One Game 1 - MLSsoccer.com",
      "published": "2026-11-16T16:19:48+00:00",
      "summary": "Inter Miami vs. Columbus Crew: How to watch, stream Round One Game 1 MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#11",
      "title": "Luis Suárez Eligible to Start for Inter Miami in Kily González’s Next Playoff Match - Pasión Fútbol",
      "published": "2026-11-16T16:12:06+00:00",
      "summary": "Luis Suárez Eligible to Start for Inter Miami in Kily González’s Next Playoff Match Pasión Fútbol"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#12",
      "title": "Join The Huddle Vol. 4: Gearing Up for Our Fourth In-App Chat After Session With Gonzalo Luján - Inter Miami CF",
      "published": "2026-11-16T15:03:52+00:00",
      "summary": "Join The Huddle Vol. 4: Gearing Up for Our Fourth In-App Chat After Session With Gonzalo Luján Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "Atlanta United vs. Inter Miami CF: Live game updates, stats, play-by-play - Yahoo Sports",
      "published": "2026-11-16T14:08:11+00:00",
      "summary": "Atlanta United vs. Inter Miami CF: Live game updates, stats, play-by-play Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "New York City FC vs. Inter Miami CF: Live game updates, stats, play-by-play - Yahoo Sports",
      "published": "2026-11-16T14:08:04+00:00",
      "summary": "New York City FC vs. Inter Miami CF: Live game updates, stats, play-by-play Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "Inter Miami CF vs. FC Cincinnati: Live game updates, stats, play-by-play - Yahoo Sports",
      "published": "2026-11-16T13:59:31+00:00",
      "summary": "Inter Miami CF vs. FC Cincinnati: Live game updates, stats, play-by-play Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Marriott Bonvoy Partners with Inter Miami CF - https://safariindia.com/",
      "published": "2026-11-16T10:38:10+00:00",
      "summary": "Marriott Bonvoy Partners with Inter Miami CF https://safariindia.com/"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Messi's wife labelled 'divine' as she wears stylish outfit to Machu Picchu - The Sun",
      "published": "2026-11-16T08:24:00+00:00",
      "summary": "Messi's wife labelled 'divine' as she wears stylish outfit to Machu Picchu The Sun"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami CF Names American Airlines Official Airline Partner - https://safariindia.com/",
      "published": "2026-11-16T05:52:57+00:00",
      "summary": "Inter Miami CF Names American Airlines Official Airline Partner https://safariindia.com/"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Alysa Liu, Lionel Messi Pull Off Major Wins Against Star-Studded Competition - Sports Illustrated",
      "published": "2026-11-16T02:30:00+00:00",
      "summary": "Alysa Liu, Lionel Messi Pull Off Major Wins Against Star-Studded Competition Sports Illustrated"
+    },
+    {
+     "ref": "gnews_inter_miami#20",
+     "title": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) - Unisba Media",
+     "published": "2026-11-15T19:10:42+00:00",
+     "summary": "Lionel Messi Watches From The Suite As Inter Miami Draws Vs Cincinnati | MLS Drama Recap! Jim Parsons (t7Qt2KgbCo) Unisba Media"
     },
     {
      "ref": "gnews_inter_miami#21",
