@@ -1,0 +1,167 @@
+{
+  "section": "israeli_politics",
+  "date": "2026-11-17",
+  "title_en": "Israeli Politics",
+  "title_he": "פוליטיקה ישראלית",
+  "default_lang": "he",
+  "generated_at": "2026-11-17T03:51:01+00:00",
+  "stories": [
+    {
+      "id": "election-integrity-shin-bet-affair",
+      "kind": "news",
+      "en": {
+        "headline": "Israel's Election-Integrity Fight Pulls In the Shin Bet, Netanyahu's Office and the Police",
+        "scroll": "Shin Bet chief David Zini pushed unverified claims of foreign election funding and sought to wiretap Arab lawmakers, while Likud presses a \"stolen election\" appeal.",
+        "coffee": "On election night, Shin Bet chief David Zini publicly assured the country the vote was secure. Behind the scenes, he gave Attorney General Gali Baharav-Miara and the elections committee chair unverified claims that foreign money had been funneled in to sway the result, and asked for authorization to wiretap elected Arab lawmakers without presenting evidence. That same night, police arrested Ra'am party activists without a warrant, without first vetting the source behind the tip — a man later identified as Danny Greenberg, an intelligence source who had also held informal roles close to the prime minister's office.\n\nBaharav-Miara ordered the police commissioner to pause the force's internal probe into the episode pending coordination; the commissioner said the decision to publicize the affair on election day was about press freedom, not about defending the arrests themselves. Greenberg, in his first interview, said a Joint List lawmaker had told him about \"millions\" being transferred, denied any role in an operation planned inside the PM's office, and said his meeting with Netanyahu two weeks before the election was coincidental.\n\nLikud, meanwhile, is continuing its \"stolen election\" campaign and plans an \"unprecedented\" legal appeal of the results — though a Haaretz review found most of the irregularity complaints it filed the day after the vote had nothing to do with actually swaying ballots.",
+        "deep": "## Background: who's who\nThe Shin Bet is Israel's internal security service, legally mandated to handle terrorism, espionage and protection of \"the foundations and institutions of the state\" — not routine partisan monitoring, which is why a request to wiretap elected lawmakers without evidence has drawn scrutiny. The attorney general's office, headed by Gali Baharav-Miara, is formally independent of the sitting government and is meant to check both ministers and security agencies. The Central Elections Committee, chaired by a sitting Supreme Court justice, oversees how the vote is conducted but has no enforcement arm of its own — one reason any concern about foreign funding gets routed through police and the Shin Bet rather than handled internally.\n\n## What happened on election night\nHours after polls closed, Shin Bet director David Zini told the public the election had been secured against interference. Away from the cameras, according to Haaretz, he gave Baharav-Miara and the elections committee chair information alleging that foreign funds had been moved to influence the outcome, and sought approval to wiretap elected Arab officials — without presenting evidence to back the claims.\n\n## Arrests without a warrant\nThe same night, police arrested activists from the Arab-led Ra'am party without a court order, acting on a tip from a source whose reliability investigators had not yet checked. That source was later identified as Danny Greenberg, an intelligence informant who, it emerged only after the arrests, had also held informal roles around the prime minister's office. Zini reportedly told Shin Bet staff that the attorney general was \"tying his hands\" and had acted disgracefully — a characterization Baharav-Miara's office has not confirmed.\n\n## The institutional fallout\nBaharav-Miara ordered the police commissioner to freeze the force's internal review of the episode until the two sides coordinate, since part of the complaint touches her own office's conduct. The commissioner defended the decision to make the affair public on election day itself as a press-freedom matter, distinguishing it from a defense of the arrests. Commentary in Haaretz has framed the episode as a test of who holds the Shin Bet and police accountable when they are drawn into partisan disputes — a question raised by commentators, not yet settled by any investigation.\n\n## Greenberg's account\nGiving his first interview since his role became public, Greenberg told Ynet that a Joint List lawmaker, not any political operation, had told him about \"many millions\" being transferred to influence the vote. He denied being part of any scheme coordinated out of the prime minister's office, and said a meeting with Netanyahu two weeks before the election came about because he happened to hear the prime minister was in the area — not by design.\n\n## Likud's parallel challenge\nSeparately, Likud is pressing ahead with a \"stolen election\" messaging campaign and says it will file an \"unprecedented\" appeal against the results, having asked election authorities to extend the filing deadline. A Haaretz review of the irregularity complaints Likud filed the day after the vote found that most concerned issues unrelated to whether they actually affected how ballots were cast or counted.\n\n## What to watch\nWatch whether the attorney general and police leadership agree on how to reopen the internal review, whether Zini or other Shin Bet officials face any formal scrutiny over the wiretap request and the unverified claims behind it, and whether Likud's appeal — once filed — identifies concrete irregularities or remains centered on the \"stolen election\" framing it has used publicly."
+      },
+      "he": {
+        "headline": "פרשת הבחירות: ראש השב\"כ, לשכת נתניהו והמשטרה בלב סערה על \"גנבת בחירות\"",
+        "scroll": "ראש השב\"כ דוד זיני מסר ליועמ\"שית מידע על מימון זר לבחירות וביקש להאזין לחברי כנסת ערבים בלי ראיות, בעוד הליכוד מכריז על \"גנבת בחירות\" ומתכנן ערעור חריג.",
+        "coffee": "בליל הבחירות הודיע ראש השב\"כ דוד זיני לציבור שהבחירות מוגנות, אך מאחורי הקלעים העביר ליועמ\"שית גלי בהרב-מיארה וליו\"ר ועדת הבחירות מידע על כספים זרים שלטענתו הוזרמו כדי להשפיע על התוצאות, וביקש אישור להאזין לחברי כנסת ערבים נבחרים בלי שהציג ראיות לכך. באותו לילה עצרה המשטרה פעילי רע\"ם בלי צו שופט, מבלי לבדוק קודם את מהימנות המקור שמסר לה את המידע - איש שזוהה בהמשך כדני גרינברג, מקור מודיעיני שמילא גם תפקידים לא רשמיים בסביבת לשכת ראש הממשלה.\n\nבהרב-מיארה הורתה למפכ\"ל לעצור את הבדיקה הפנימית של המשטרה בנושא עד לבירור, בעוד המפכ\"ל הסביר שההחלטה לפרסם את הפרשה ביום הבחירות נבעה משיקולי חופש העיתונות ולא נגעה להגנה על המעצרים עצמם. גרינברג, בריאיון ראשון, טען שחבר כנסת מהרשימה המשותפת הוא שמסר לו את המידע על \"מיליונים\" שהוזרמו, הכחיש שהיה שותף למבצע שתוכנן בלשכה, וטען שפגישתו עם נתניהו, שבועיים לפני הבחירות, היתה מקרית.\n\nבמקביל, הליכוד ממשיך בקמפיין \"גנבת הבחירות\" ומתכנן להגיש ערעור \"חסר תקדים\" על התוצאות, אף שבדיקת \"הארץ\" מצאה שרוב תלונות האי-סדרים שהגישה המפלגה למחרת הבחירות אינן קשורות בפועל להשפעה על ההצבעה.",
+        "deep": "## מי מעורב: הרקע המוסדי\nהשב\"כ הוא שירות הביטחון הפנימי של ישראל, המוסמך בחוק לטפל בטרור, בריגול ובשמירה על יסודות המדינה ומשטרה הדמוקרטי - לא בניטור פוליטי רגיל, ומכאן המחלוקת על בקשה להאזין לנבחרי ציבור בלי ראיות. משרד היועמ\"שית, שבראשו עומדת גלי בהרב-מיארה, עצמאי פורמלית מהממשלה המכהנת ותפקידו לפקח גם על שרים וגם על גופי הביטחון. ועדת הבחירות המרכזית, בראשות שופט עליון מכהן, מפקחת על ניהול ההצבעה ואין לה זרוע אכיפה משל עצמה - מה שמסביר מדוע חשד להשפעת מימון זר מגיע בסופו של דבר למשטרה ולשב\"כ.\n\n## מה קרה בליל הבחירות\nשעות אחרי סגירת הקלפיות, הודיע ראש השב\"כ דוד זיני לציבור שהבחירות מוגנות מהתערבות. מאחורי הקלעים, לפי \"הארץ\", הוא העביר לבהרב-מיארה וליו\"ר ועדת הבחירות מידע לפיו הוזרמו כספים זרים כדי להשפיע על התוצאה, וביקש אישור להאזין לנבחרי ציבור ערבים - בלי להציג ראיות לכך.\n\n## מעצרים בלי צו שופט\nבאותו לילה עצרה המשטרה פעילי רע\"ם בלי צו שופט, על בסיס מידע ממקור שמהימנותו לא נבדקה מראש. המקור זוהה בהמשך כדני גרינברג, מודיע שמילא גם תפקידים לא רשמיים בסביבת לשכת ראש הממשלה - עובדה שנודעה לחוקרים רק אחרי המעצרים. לפי דיווחים, זיני אמר לאנשי השב\"כ שהיועמ\"שית \"קושרת את ידיו\" והאשים אותה ב\"מעשה נבלה\" - טענה שלשכתה לא אישרה.\n\n## ההשלכות המוסדיות\nבהרב-מיארה הורתה למפכ\"ל להקפיא את הבדיקה הפנימית של המשטרה בפרשה עד לתיאום, מכיוון שחלק מהטענות נוגעות גם להתנהלות לשכתה. המפכ\"ל הסביר שההחלטה לפרסם את הפרשה ביום הבחירות עצמו נבעה משיקולי חופש העיתונות, להבדיל מהגנה על המעצרים עצמם. בפרשנות שהתפרסמה ב\"הארץ\" נשאלה השאלה מי נשאר כדי לעצור את השב\"כ והמשטרה כשהם מופעלים פוליטית - שאלה שהועלתה בפרשנות ולא הוכרעה בשום חקירה.\n\n## הגרסה של גרינברג\nבריאיון ראשון מאז שהתפקידים שמילא נחשפו, אמר גרינברג ל-ynet שחבר כנסת מהרשימה המשותפת הוא שמסר לו מידע על \"מיליונים\" שהוזרמו, הכחיש שהיה שותף לכל מבצע שתוכנן בלשכת רה\"מ, וטען שפגישתו עם נתניהו, שבועיים לפני הבחירות, נבעה מכך ש\"שמע במקרה\" על ביקורו באזור.\n\n## המערכה המקבילה של הליכוד\nבמקביל, הליכוד ממשיך בקמפיין \"גנבת הבחירות\" ומתכוון להגיש ערעור \"חסר תקדים\" על התוצאות, ואף ביקש לדחות את המועד האחרון להגשתו. בדיקת \"הארץ\" של תלונות האי-סדרים שהגישה המפלגה למחרת הבחירות מצאה שרובן אינן נוגעות בפועל להשפעה על ההצבעה או הספירה.\n\n## מה לעקוב אחריו\nיש לעקוב אחרי השאלה אם היועמ\"שית והנהלת המשטרה יגיעו להסכמה על אופן חידוש הבדיקה הפנימית, אם זיני או גורמים נוספים בשב\"כ יעמדו בפני בדיקה פורמלית על בקשת ההאזנה והטענות שלא גובו בראיות, ואם הערעור של הליכוד - כשיוגש - יצביע על אי-סדרים קונקרטיים או יישאר מבוסס בעיקר על מסגרת \"גנבת הבחירות\"."
+      },
+      "tags": [
+        "shin-bet",
+        "elections",
+        "likud",
+        "attorney-general"
+      ],
+      "sources": [
+        {
+          "outlet": "הארץ",
+          "title": "בהרב־מיארה ואיסמן ידונו אם לחקור את הגורמים בלשכת נתניהו שהעבירו מידע סמוך לבחירות",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-16/ty-article/.premium/000001a1-e557-d9ff-a7b5-f5ff8ac80000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "שב\"כ תשאל עשרות אזרחים בפרשת ההשפעה הזרה, גם לאחר שהובהר כי אין ראיות",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-16/ty-article/.premium/000001a1-e4ad-d8ed-a3ad-fcbdd86d0000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "כשהשב\"כ והמשטרה מופעלים פוליטית, מי יישאר כדי לעצור אותם?",
+          "url": "https://www.haaretz.co.il/opinions/2026-11-16/ty-article-opinion/.premium/000001a1-e500-d3ad-a5e3-e7f92ee50000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "עקיבא נוביק כתב על זיני ש\"הוא יתגלה כענייני\". מה הוא חושב עכשיו?",
+          "url": "https://www.haaretz.co.il/digital/daily/2026-11-16/ty-article/.premium/000001a1-e4d0-d262-abfb-effeeb820000"
+        },
+        {
+          "outlet": "הארץ",
+          "title": "בליכוד ממשיכים בקמפיין \"גנבת הבחירות\" – ומתכננים לערער על התוצאות",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-16/ty-article/000001a1-e518-d381-ade5-eff987390000"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "הקרב על טוהר הבחירות והסערה סביב ראש השב\"כ | עם נטעאל בנדל",
+          "url": "https://www.ynet.co.il/news/theheadline/article/jn16kj2yl"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "המידע מלשכת נתניהו, המעצרים - וחשיפת \"המקור המודיעיני\": כך הסתעפה פרשת הבחירות",
+          "url": "https://www.ynet.co.il/news/article/bynfbdurzl"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "היועמ\"שית עוצרת את בדיקת המשטרה, המפכ\"ל: פרסמנו בגלל חופש העיתונות",
+          "url": "https://www.ynet.co.il/news/article/sk00m9huaml"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "\"המקור המודיעיני\" ל-ynet: הפגישה עם נתניהו? מקרית. השמות? מח\"כ מהמשותפת",
+          "url": "https://www.ynet.co.il/news/article/bykkntdcml"
+        },
+        {
+          "outlet": "כאן חדשות (via Google News)",
+          "title": "גורמים במשטרה שירתו את קמפיין נתניהו על ההצבעה בחברה הערבית - כאן 11",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wckR1WHZmRHNCV0liajJPR3J2NzMxUUlfVU91NG52eExlcEhCTTFsUHpPQWdHOVdSa0NlRnJRVmdLVFFWY2gza1ZXTWZjUE9LVTJralBEWThLdDRRQm1GMVlOY3dSalk?oc=5"
+        },
+        {
+          "outlet": "כאן חדשות (via Google News)",
+          "title": "כך התערבה הלשכה בבחירות: המקור, המעצרים בלי צו והבדיקה של המשטרה - כאן 11",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Db3E3N1E5Zk5rVDJ4X0hDTlhMUHdJR3Nqbmh0SmNLQ1Q4Mzd5VFdfNEVGaG1MY3RqRlR6eUtQSVl5OTBKX3BFRHhKS1Z4TVFIWjc3WW9IQnlsYjVYWVNyYVFMdm5qaWlxR25FV2Njb29ET0I5Y0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "knesset-speaker-change-bloc-control",
+      "kind": "news",
+      "en": {
+        "headline": "Change Bloc Set to Complete Control of the Knesset as Kahana Heads for Speakership",
+        "scroll": "Matan Kahana is set to be elected Knesset speaker today with Arab-party backing, completing the change bloc's hold on key posts, with repealing judicial-overhaul laws next on its list.",
+        "coffee": "Matan Kahana is expected to be elected Knesset speaker today with the backing of Arab parties, a step that completes the change bloc's hold on the chamber's key posts — before a government has even been formed. Likud tried to delay the appointment amid parallel talks over a national unity government, but failed. Once elected, the new speaker is expected to set the bloc's next target: a parliamentary committee to repeal the \"judicial overhaul\" laws passed by the previous coalition.\n\nThe move comes amid a public argument in opinion columns over what kind of change is actually underway. One Ynet column argued this is a chance for a Knesset that genuinely legislates and provides oversight, rather than acting as the government's \"cheerleading squad\" — a phrase the writer says once appeared in a court ruling. Others countered that no government can be formed without compromising on campaign promises, yet the bloc that won is behaving like the side that lost, and that a national unity government would in practice block the institutional repair and reset of priorities voters were promised. A separate column, citing in-depth polling, said support among the bloc's own voters for cooperating with Haredi parties is close to zero.",
+        "deep": "## What's happening in the Knesset today\nMatan Kahana is expected to be elected Knesset speaker today with the backing of Arab parties. The vote completes a process in which the change bloc has secured control of the Knesset's key leadership positions, even before a governing coalition has been finalized. According to Ynet, Likud tried to delay the appointment while parallel talks over forming a national unity government were underway, but the attempt failed.\n\n## The next target: repealing the judicial-overhaul laws\nWith the speakership secured, the new chair is expected to move immediately to the bloc's next goal: setting up a parliamentary committee to repeal the \"judicial overhaul\" legislation passed under the previous coalition. That signals the bloc intends to use its Knesset majority to act on this legislation in parallel with coalition talks, not only after a government is in place.\n\n## A public argument over what \"change\" means\nIsraeli commentators are publicly split on how to read the moment. One Ynet column argued this is an opportunity to turn the Knesset into a genuine legislature with real oversight powers, rather than what the writer described — citing a phrase the writer says once appeared in a court ruling — as the government's \"cheerleading squad.\" Other columns pushed back: one argued that since no coalition can be built while honoring every campaign promise, compromise is unavoidable, yet the bloc that won the election is behaving as if it lost; another argued that a national unity government would, in practice, prevent the institutional repair, restored public trust and reordered priorities that change-bloc voters were promised.\n\n## What the polling shows\nA separate Ynet column, citing in-depth polling, reported that support for cooperating with Haredi parties is close to zero among the bloc's own voters — presented as a significant obstacle to any broad coalition arrangement the bloc's leaders might consider.\n\n## What to watch\nWatch the makeup and powers of the committee tasked with repealing the judicial-overhaul laws, the pace of coalition talks versus unity-government talks, and whether grassroots opposition to a Haredi partnership hardens into an official position among the bloc's parties during negotiations."
+      },
+      "he": {
+        "headline": "גוש השינוי משלים שליטה בכנסת: כהנא צפוי להיבחר ליו\"ר, היעד הבא - בטלת חוקי המהפכה המשפטית",
+        "scroll": "מתן כהנא צפוי להיבחר היום ליו\"ר הכנסת בתמיכת המפלגות הערביות, ובכך גוש השינוי משלים שליטה במשכן - והיעד הבא שהוצב הוא ועדה לבטל את חוקי המהפכה המשפטית.",
+        "coffee": "מתן כהנא צפוי להיבחר היום ליו\"ר הכנסת בתמיכת המפלגות הערביות, צעד שמשלים את שליטת גוש השינוי בתפקידי המפתח במשכן - עוד לפני שהוקמה ממשלה. הליכוד ניסה לעכב את המינוי בעיצומם של מגעים לממשלת אחדות, אך לא הצליח. מידיום שיבחר, מסמן היו\"ר החדש את היעד הבא: הקמת ועדה שתבטל את חוקי \"המהפכה המשפטית\" שקידמה הקואליציה הקודמת.\n\nהצעד מתרחש על רקע עימות פומבי בטורי הפרשנות על אופי השינוי המיוחל: טור אחד ב-ynet טען שההזדמנות היא לכנסת \"אמיתית\" שמחוקקת ומפקחת ולא פועלת כ\"להקת מעודדות\" של הממשלה - ביטוי שלדברי הכותב שימש בעבר בפסק דין. טורים אחרים טענו מנגד שאין אפשרות להקים ממשלה בלי לפשר על חלק מההבטחות, אך הגוש המנצח מתנהג כמו הצד המובס, ושממשלת אחדות לאומית תסכל בפועל את שיקום מוסדות המדינה ושינוי סדר העדיפויות שהובטח למצביעים. טור נוסף, המסתמך על סקרי עומק, ציין שהתמיכה בשיתוף פעולה עם המפלגות החרדיות בקרב מצביעי הגוש עצמו קרובה לאפס.",
+        "deep": "## מה קורה היום בכנסת\nמתן כהנא צפוי להיבחר היום ליו\"ר הכנסת, בתמיכת המפלגות הערביות. הבחירה משלימה תהליך שבו גוש השינוי משיג שליטה בתפקידי המפתח בבית המחוקקים, עוד בטרם הושלמה הקמת ממשלה. לפי ynet, הליכוד ניסה לעכב את המינוי במהלך מגעים מקבילים להקמת ממשלת אחדות, אך הניסיון לא צלח.\n\n## היעד הבא: ועדה לבטל את חוקי המהפכה המשפטית\nעם בחירתו, מסמן היו\"ר החדש את הצעד הבא: הקמת ועדה פרלמנטרית שתפעל לבטל את חוקי \"המהפכה המשפטית\" שקידמה הקואליציה הקודמת. המשמעות היא שגוש השינוי מבקש לפעול על החקיקה הזו באמצעות הרוב שהשיג בכנסת, במקביל למגעים להקמת ממשלה ולא רק אחריהם.\n\n## מחלוקת פרשנית על אופי השינוי\nבטורי הדעות הציבו כותבים שונים זה לצד זה שתי תפיסות מנוגדות. מצד אחד, נטען כי יש כאן הזדמנות להפוך את הכנסת למחוקקת ומפקחת \"אמיתית\", בניגוד לתיאור שבו היא פעלה כ\"להקת מעודדות\" של הממשלה - ביטוי שלדברי הכותב שימש בעבר בפסק דין. מצד שני, טענו כותבים אחרים כי אין אפשרות להקים ממשלה בלי לפשר על חלק מההבטחות, אך הגוש המנצח מתנהג כמו הצד המובס; וכי הקמת ממשלת אחדות לאומית תסכל בפועל את שיקום מוסדות המדינה, חזרת אמון הציבור וסידור מחדש של סדר העדיפויות.\n\n## סקרים: תמיכה אפסית בשיתוף עם החרדים\nטור נוסף ב-ynet, שמסתמך על סקרי עומק, ציין שבין מצביעי גוש השינוי התמיכה בשיתוף פעולה עם המפלגות החרדיות קרובה לאפס - נתון שמוצג כמכשול פוליטי משמעותי לכל הסדר קואליציוני רחב.\n\n## מה לעקוב אחריו\nיש לעקוב אחרי ההרכב וסמכויות הוועדה שתוקם לבטל את חוקי המהפכה המשפטית, אחרי קצב המגעים להקמת ממשלה לעומת הקמת ממשלת אחדות, ואחרי השאלה אם ההתנגדות בקרב מצביעי הגוש לשותפות עם מפלגות חרדיות תתורגם לעמדה רשמית של מפלגות הגוש במגעים הקואליציוניים."
+      },
+      "tags": [
+        "knesset",
+        "coalition",
+        "change-bloc",
+        "judicial-overhaul"
+      ],
+      "sources": [
+        {
+          "outlet": "ynet — חדשות",
+          "title": "עוד לפני הקמת ממשלה: הכנסת עוברת לידי גוש השינוי | זה היעד הבא של איזנקוט",
+          "url": "https://www.ynet.co.il/news/article/yokra14960579"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "ישראל, הגיע הזמן להתעורר",
+          "url": "https://www.ynet.co.il/news/article/yokra14960527"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "כניעה היא לא פשרה",
+          "url": "https://www.ynet.co.il/news/article/yokra14961064"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "ממשלת אחדות זה לא שינוי",
+          "url": "https://www.ynet.co.il/news/article/yokra14960917"
+        },
+        {
+          "outlet": "ynet — חדשות",
+          "title": "הציבור המשרת נשכח, שוב",
+          "url": "https://www.ynet.co.il/news/article/yokra14960390"
+        }
+      ]
+    },
+    {
+      "id": "haredi-draft-arrangement-eizenkot",
+      "kind": "news",
+      "en": {
+        "headline": "Eizenkot's Draft Plan Would Pardon 90,000 Haredi Draft Evaders, Sources Say",
+        "scroll": "A draft-exemption plan presented by Gadi Eizenkot to coalition partners would retroactively pardon roughly 90,000 Haredi draft evaders and give them months to regularize their status, Ynet reports.",
+        "coffee": "Parts of a plan to resolve the status of Haredi draft evaders, presented by retired general Gadi Eizenkot to change-bloc coalition partners, were obtained by Ynet and Yedioth Ahronot. The plan would offer retroactive pardons to roughly 90,000 Haredim classified as having evaded military service, and open a window of several months for them to regularize their status with the army.\n\nRegularization would run through three separate tracks, split by age group. Anyone who doesn't act within the allotted window would be exposed to sanctions, though the report did not specify what those would be. Haredi conscription has been a recurring flashpoint for years, with Israel's Supreme Court having repeatedly required past governments to present a legally sound draft-or-exemption framework after striking down earlier arrangements. That this plan is surfacing before a government has even been formed underscores how central the issue remains to any coalition Eizenkot's bloc might build with, or around, Haredi parties.",
+        "deep": "## What the plan includes\nParts of a plan presented by retired general Gadi Eizenkot to his change-bloc coalition partners, obtained by Ynet and Yedioth Ahronot, would offer a retroactive pardon to roughly 90,000 Haredim classified as draft evaders, and give them a window of several months to regularize their status with the army.\n\n## Three tracks by age\nRegularization would be structured into three separate tracks, divided by the age groups of those affected. Anyone who fails to act within the window would face sanctions, though the specific penalties were not detailed in what was obtained by the two outlets.\n\n## Background: why this is contentious\nHaredi conscription has been a recurring political and legal flashpoint in Israel for years. Israel's Supreme Court has repeatedly struck down previous draft-exemption arrangements and ordered governments to produce a legally sound framework covering both conscription and exemptions. Any new plan is weighed both against what the court has required and against the political leverage Haredi parties hold in coalition talks.\n\n## Why it's surfacing now\nThe plan is emerging in the middle of talks to form a new government, before any coalition has been finalized — a sign that Haredi conscription remains one of the decisive issues on which any coalition agreement involving Haredi parties is likely to hinge.\n\n## What to watch\nWatch for the full plan and the specific sanctions it proposes for non-compliance, how Haredi parties and advocacy groups (including those behind past Supreme Court petitions) respond, and whether this framework becomes a formal condition in the ongoing coalition negotiations."
+      },
+      "he": {
+        "headline": "המתווה של איזנקוט: חנינה אפשרית ל-90 אלף משתמטים חרדים - ותוכנית הסדרה בשלושה מסלולים",
+        "scroll": "לפי מתווה שהציג איזנקוט לשותפי הגוש, יתאפשר חנינה רטרואקטיבית לכ-90 אלף משתמטים חרדים, עם מסלולי הסדרה לפי גיל ואיום בסנקציות על מי שלא יירשם.",
+        "coffee": "חלקים מהמתווה להסדרת מעמד המשתמטים החרדים, שהציג האלוף (מיל') גדי איזנקוט לשותפי גוש השינוי, הגיעו לידי ynet ו\"ידיעות אחרונות\". לפי המתווה, תינתן אפשרות לחנינה רטרואקטיבית לכ-90 אלף חרדים שהשתמטו משירות צבאי, ותיפתח להם תקופה של כמה חודשים להסדיר את מעמדם מול צה\"ל.\n\nההסדרה תתבצע בשלושה מסלולים, המחולקים לפי קבוצות גיל. מי שלא יסדיר את מעמדו במהלך התקופה שתוקצב - יהיה חשוף לסנקציות. סוגיית הגיוס החרדי עומדת שנים במוקד מחלוקת, בין היתר על רקע עתירות לבג\"ץ שחייבו ממשלות קודמות להציג מתווה גיוס מוסכם. המתווה מגיע בעיצומם של מגעים להקמת ממשלה חדשה, עוד לפני שהוקמה קואליציה, מה שמעיד שהסוגיה ממשיכה להיות אחת מנקודות המחלוקת המרכזיות בין שותפים פוטנציאליים.",
+        "deep": "## מה מכיל המתווה\nחלקים מהמתווה שהציג האלוף (מיל') גדי איזנקוט לשותפי גוש השינוי במגעים להקמת ממשלה, הגיעו לידי ynet ו\"ידיעות אחרונות\". לפי הדיווח, המתווה מציע חנינה רטרואקטיבית לכ-90 אלף חרדים שהוגדרו כמשתמטים משירות צבאי, ופותח בפניהם חלון זמן של כמה חודשים להסדיר את מעמדם מול צה\"ל.\n\n## שלושה מסלולים לפי גיל\nההסדרה תתבצע בשלושה מסלולים נפרדים, המחולקים לפי קבוצות גיל של המשתמטים. מי שלא יפעל להסדיר את מעמדו בתוך הפרק זמן שיוקצב לכך יהיה חשוף לסנקציות, אף שאופיין המדויק לא פורט בדיווח.\n\n## רקע: למה הנושא רגיש\nסוגיית הגיוס החרדי עומדת שנים במוקד מחלוקת פוליטית ומשפטית בישראל, במסגרתה בג\"ץ חייב ממשלות עבר להציג מסגרת חוקית מוסכמת לגיוס או לפטור משירות, לאחר שדחה הסדרים קודמים. כל מתווה חדש נבחן גם לאור הדרישות שהציב בית המשפט וגם לאור יחסי הכוחות הפוליטיים בין המפלגות החרדיות לשותפים פוטנציאליים אחרים.\n\n## מדוע זה מגיע כעת\nהמתווה מתגלגל בעיצומם של מגעים להקמת ממשלה חדשה - עוד לפני שהורכבה קואליציה - מה שמסמן שסוגיית הגיוס החרדי נותרת אחת מהנקודות המכריעות שעליהן תלויה כל הסכמה קואליציונית אפשרית עם המפלגות החרדיות.\n\n## מה לעקוב אחריו\nיש לעקוב אחרי פרסום המתווה המלא והגדרת הסנקציות הצפויות למי שלא יסדיר את מעמדו, אחרי תגובות המפלגות החרדיות והגופים שעמדו מאחורי עתירות קודמות לבג\"ץ, ואחרי השאלה אם המתווה יהפוך לתנאי מרכזי במגעים הקואליציוניים הנמשכים."
+      },
+      "tags": [
+        "haredi-draft",
+        "eizenkot",
+        "legislation",
+        "coalition"
+      ],
+      "sources": [
+        {
+          "outlet": "ynet — חדשות",
+          "title": "הסדרה מחדש למשתמטים מול צה\"ל: המתווה שאיזנקוט הציג לשותפים בגוש | בלעדי",
+          "url": "https://www.ynet.co.il/news/article/yokra14960957"
+        }
+      ]
+    }
+  ]
+}

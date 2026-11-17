@@ -1,0 +1,129 @@
+{
+  "section": "learn",
+  "date": "2026-11-17",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-17T03:51:01+00:00",
+  "stories": [
+    {
+      "id": "word-vintage",
+      "kind": "word",
+      "en": {
+        "headline": "Vintage (וינטג')",
+        "scroll": "A group of loans, customers, or accounts grouped by when they originated, used to compare how each batch performs over time.",
+        "coffee": "In lending and subscription businesses, a 'vintage' is a cohort defined by origination date — all the loans issued in March, say, or all the customers who signed up in Q2. Analysts track each vintage separately because loans or customers from different periods can behave very differently depending on underwriting standards or acquisition channels at the time. Example: 'The 2024 vintage is defaulting at twice the rate of the 2022 vintage, which tells us underwriting loosened.'",
+        "deep": "When to use it: whenever you need to isolate whether a change in a metric is a time-trend or a cohort-quality issue — common in consumer lending, insurance, SaaS retention analysis, and VC portfolio reviews ('our 2021 vintage of investments'). Common confusion: people sometimes conflate 'vintage' with simple time-series data; the point of vintage analysis is to hold the cohort fixed and watch it age, not to compare a snapshot across cohorts at one moment. More examples: 'We size loss reserves by vintage, not by calendar month.' 'The fund's 2019 vintage returned 3x; the 2022 vintage is still underwater.' Hebrew term: וינטג' (קבוצת לקוחות או הלוואות המקובצת לפי תאריך המקור, שנבחנת בנפרד כדי להשוות ביצועים)."
+      },
+      "he": {
+        "headline": "Vintage (וינטג')",
+        "scroll": "קבוצת הלוואות, לקוחות או חשבונות המקובצת לפי תאריך המקור, המשמשת להשוואת ביצועים של כל קבוצה (cohort) במהלך הזמן.",
+        "coffee": "בעסקי אשראי ומנויים, \"וינטג'\" (vintage) הוא קוהורט שמוגדר לפי תאריך המקור - כל ההלוואות שהונפקו בחודש מרץ, למשל, או כל הלקוחות שנרשמו ברבעון השני. אנליסטים עוקבים אחרי כל וינטג' בנפרד כי הלוואות או לקוחות מתקופות שונות יכולים להתנהג אחרת מאוד בהתאם לסטנדרטי החיתום (underwriting) או ערוצי הרכישה שהיו בתוקף באותו זמן. דוגמה: \"הוינטג' של 2024 חדל מתשלום בקצב כפול מזה של וינטג' 2022, מה שמעיד על הקלה בסטנדרטי החיתום.\"",
+        "deep": "מתי להשתמש במונח: בכל פעם שצריך להפריד בין שינוי מגמה בזמן לבין בעיית איכות של קוהורט - נפוץ באשראי צרכני, ביטוח, ניתוחי שימור לקוחות ב-SaaS, וסקירות תיק השקעות של קרנות הון סיכון (\"הוינטג' של 2021 בתיק שלנו\"). בלבול נפוץ: יש הנוטים לבלבל בין \"וינטג'\" לבין נתוני טור-זמן (time series) פשוטים; הרעיון בניתוח וינטג' הוא להקפיא את הקוהורט ולעקוב אחרי הזדקנותו, לא להשוות תמונת מצב של קוהורטים שונים בנקודת זמן אחת. עוד דוגמאות: \"אנחנו מגדירים רזרבות להפסדים לפי וינטג', לא לפי חודש קלנדרי.\" \"הוינטג' של הקרן מ-2019 החזיר פי 3; הוינטג' של 2022 עדיין מתחת למים.\" המונח העברי: וינטג'."
+      },
+      "tags": [
+        "vocabulary",
+        "finance",
+        "lending",
+        "cohorts"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-hockey-stick-growth",
+      "kind": "word",
+      "en": {
+        "headline": "Hockey-stick growth (צמיחת מקל הוקי)",
+        "scroll": "A growth curve that stays flat for a long time and then suddenly bends sharply upward, shaped like a hockey stick.",
+        "coffee": "Startups and VCs use 'hockey-stick growth' to describe — or project — a trajectory that is nearly flat for a while and then inflects into steep, compounding growth. It's often used admiringly about a company that has genuinely found product-market fit, but it's also one of the most common clichés in pitch decks, since almost every founder's revenue projection looks like a hockey stick whether or not the underlying assumptions justify it. Example: 'Investors are skeptical of the hockey-stick growth in year three — where's the evidence it actually bends?'",
+        "deep": "When to use it: describing a real inflection you can already see in the data (e.g., usage suddenly compounding after a product change), or, more skeptically, flagging a projection that simply assumes a future inflection without evidence. Common confusion: a hockey-stick shape in a backward-looking chart (data already observed) is a much stronger signal than the same shape drawn as a forecast — most hockey-stick forecasts never actually bend. More examples: 'Their user chart has a real hockey stick after the pricing change.' 'Every deck has a hockey stick; the question is whether this one has already started bending in the actuals.' Hebrew term: צמיחת מקל הוקי."
+      },
+      "he": {
+        "headline": "Hockey-stick growth (צמיחת מקל הוקי)",
+        "scroll": "עקומת צמיחה שנשארת שטוחה לאורך זמן ואז מתעקלת בפתאומיות בחדות כלפי מעלה, בצורת מקל הוקי.",
+        "coffee": "סטארטאפים וקרנות הון סיכון משתמשים במונח \"צמיחת מקל הוקי\" (hockey-stick growth) כדי לתאר - או לחזות - מגמה שנשארת שטוחה למשך זמן ואז מתעקלת לצמיחה חדה ומצטברת. המונח משמש לעיתים בהערכה אמיתית לחברה שמצאה התאמה אמיתית בין מוצר לשוק (product-market fit), אבל הוא גם אחת הקלישאות הנפוצות ביותר במצגות למשקיעים, כי כמעט כל שקופית תחזית הכנסות של מייסד נראית כמו מקל הוקי, בלי קשר לשאלה אם ההנחות שמאחוריה מוצדקות. דוגמה: \"המשקיעים סקפטיים לגבי צמיחת מקל ההוקי בשנה השלישית - איפה ההוכחה שזה באמת יתעקל?\"",
+        "deep": "מתי להשתמש: לתיאור התעקלות אמיתית שכבר נראית בנתונים (למשל שימוש שמתחיל להצטבר בחדות אחרי שינוי מוצרי), או, בגרסה סקפטית יותר, לסמן תחזית שפשוט מניחה התעקלות עתידית בלי הוכחה. בלבול נפוץ: צורת מקל הוקי בגרף שמסתכל אחורה (נתונים שכבר נצפו) היא סיגנל חזק הרבה יותר מאותה צורה כשהיא מצוירת כתחזית - רוב תחזיות מקל ההוקי לעולם לא מתעקלות בפועל. עוד דוגמאות: \"בגרף המשתמשים שלהם יש מקל הוקי אמיתי אחרי שינוי התמחור.\" \"לכל מצגת יש מקל הוקי; השאלה היא אם זה כבר התחיל להתעקל בנתונים בפועל.\" המונח העברי: צמיחת מקל הוקי."
+      },
+      "tags": [
+        "vocabulary",
+        "startups",
+        "venture-capital"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-dogfooding",
+      "kind": "word",
+      "en": {
+        "headline": "Dogfooding (אכילת מזון הכלבים של עצמך)",
+        "scroll": "Using your own product internally before or alongside selling it to customers, to find its flaws firsthand.",
+        "coffee": "'Dogfooding' — short for 'eating your own dog food' — means a company uses its own product in its daily operations. Microsoft popularized the term internally in the 1980s. The logic is simple: if a team won't use what it builds, why would a customer? It surfaces bugs and bad UX fast, and it's a credibility signal when a company can point to its own usage as proof. Example: 'We dogfood the new API internally for a month before any external customer gets access.'",
+        "deep": "When to use it: pitching internal adoption of a new tool, or as due diligence when evaluating a vendor ('do they dogfood their own product?'). Common confusion: dogfooding is about using the product the way a real user would, not just running it in a test environment — a tool only ever exercised by automated tests hasn't been dogfooded. It also doesn't replace real external customer feedback, since an internal team's needs can diverge from the market's. More examples: 'The engineering team dogfoods every release candidate before it ships.' 'Ask any SaaS vendor whether they run their own business on their own product — if they don't, that's a flag.' Hebrew term: אכילת מזון הכלבים של עצמך (dogfooding) — שימוש פנימי במוצר של החברה עצמה."
+      },
+      "he": {
+        "headline": "Dogfooding (אכילת מזון הכלבים של עצמך)",
+        "scroll": "שימוש פנימי במוצר של החברה עצמה, לפני או במקביל למכירתו לקוחות, כדי לאתר את הפגמים שלו מניסיון ישיר.",
+        "coffee": "\"Dogfooding\" - בקיצור של \"לאכול את מזון הכלבים של עצמך\" - פירושו שחברה משתמשת במוצר שלה בפעילות היומיומית שלה. מיקרוסופט הפכה את המונח לפופולרי פנימית בשנות ה-80. ההיגיון פשוט: אם צוות לא מוכן להשתמש במה שהוא בונה, למה שלקוח יעשה זאת? זה חושף באגים וחוויית משתמש גרועה מהר, וזהו סימן אמינות כשחברה יכולה להציג את השימוש הפנימי שלה כהוכחה. דוגמה: \"אנחנו משתמשים ב-API החדש באופן פנימי (dogfooding) חודש שלם לפני שלקוח חיצוני כלשהו מקבל גישה.\"",
+        "deep": "מתי להשתמש: כשמציגים אימוץ פנימי של כלי חדש, או כבדיקת נאותות (due diligence) בהערכת ספק (\"האם הם משתמשים במוצר שלהם בעצמם?\"). בלבול נפוץ: dogfooding משמעו שימוש במוצר כמו משתמש אמיתי, לא רק הרצתו בסביבת בדיקות - כלי שרק בדיקות אוטומטיות מריצות אותו לא עבר dogfooding אמיתי. זה גם לא מחליף משוב אמיתי מלקוחות חיצוניים, כי הצרכים של צוות פנימי יכולים להיות שונים מצרכי השוק. עוד דוגמאות: \"צוות ההנדסה מריץ dogfooding על כל מועמד לגרסה לפני ההשקה.\" \"שאלו כל ספק SaaS אם הוא מנהל את העסק שלו על המוצר שלו עצמו - אם לא, זה דגל אדום.\" המונח העברי: אכילת מזון הכלבים של עצמך."
+      },
+      "tags": [
+        "vocabulary",
+        "product",
+        "tech-culture"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network Effects: Why Some Products Get More Valuable As More People Use Them",
+        "scroll": "A network effect is when a product becomes more valuable to each user simply because more people are using it — the economic force behind many winner-take-most markets.",
+        "coffee": "Most goods don't get better because other people own them — a sandwich doesn't taste better if your neighbor has one too. A product has a network effect when the opposite is true: each additional user makes it more valuable to everyone else. A phone network, a messaging app, or a marketplace like eBay all work this way — the first user gets almost no value, the millionth user gets enormous value, because there's someone to call, chat with, or trade with on the other end.\n\nThis is why markets with strong network effects often tip toward one or two dominant players rather than staying fragmented: once a product pulls ahead on users, it becomes mechanically more attractive than its competitors, which pulls in still more users. It's also why new entrants into such a market usually can't win on product quality alone — they need a wedge that works despite having few users at first, such as a niche community, a feature valuable even solo, or subsidizing one side of a marketplace.",
+        "deep": "## The basic idea\n\nA network effect exists when a product's value to each user rises with the number of other users on it. Economists split this into direct network effects — my phone is worth more the more people who also have phones, because there are more people to call — and indirect network effects, which run through a second group entirely, such as a marketplace matching buyers and sellers.\n\n## A worked example: a ride-hailing app in a new city\n\nSuppose a ride-hailing app launches in a city with 100 riders and 20 drivers. A rider opens the app and often finds no driver nearby — average wait time is long, so many riders give up and never open the app again. The few drivers who do sign up see too few ride requests to make a shift worthwhile, so they drop off the platform too. This is the 'cold start problem' every two-sided marketplace faces: it isn't useful to anyone until density is high enough on both sides at once.\n\nNow suppose the same city reaches 10,000 riders and 2,000 drivers. A driver can find a passenger within two minutes almost anywhere in the city; a rider can summon a car almost immediately. Neither side changed what it's doing — only the number of participants changed — but the product as experienced by every single user got dramatically better. That's the network effect: the 2,020th driver to join doesn't just add their own trips, they make the app marginally more useful for every one of the 10,000 riders, which in turn keeps more riders opening the app, which keeps more drivers online.\n\n## Why this tips markets toward one winner\n\nBecause growth compounds this way, a company that gets ahead on users in a market with real network effects becomes harder and harder to catch — rivals offering an identical product with fewer users simply can't match the experience, no matter how good their engineering is. This is a large part of why ride-hailing, social networks, payment networks, and B2B marketplaces so often consolidate into one or two dominant platforms per region, even when the underlying technology is not hard to copy.\n\n## The limits\n\nNetwork effects aren't unconditional. They can be local (a ride-hailing app dominant in one city has no advantage in a city it hasn't launched in yet), they can be overwhelmed by switching costs or regulation, and some markets have an effect strong in one direction (say, drivers) but weak in the other, which changes the strategy for which side to subsidize first."
+      },
+      "he": {
+        "headline": "אפקט רשת: למה מוצרים מסוימים נהיים יותר בעלי ערך כשיותר אנשים משתמשים בהם",
+        "scroll": "אפקט רשת (network effect) הוא מצב שבו מוצר נהיה יותר בעל ערך לכל משתמש כשיותר אנשים משתמשים בו - הכוח הכלכלי שמאחורי שווקים רבים שבהם שחקן אחד גובר על כולם.",
+        "coffee": "רוב המוצרים לא נהיים טובים יותר בגלל שאנשים אחרים מחזיקים בהם - כריך לא נעשה טעים יותר אם לשכן שלך יש אחד כזה. למוצר יש אפקט רשת כשההפך הוא הנכון: כל משתמש נוסף הופך אותו ליותר בעל ערך לכל השאר. רשת טלפונים, אפליקציית הודעות, או שוק מקוון כמו eBay - כולם פועלים כך: המשתמש הראשון מקבל כמעט שום ערך, המשתמש המיליון מקבל ערך עצום, כי יש עם מי להתקשר, לשוחח או לסחור בצד השני.\n\nזו הסיבה שבשווקים עם אפקטי רשת חזקים יש נטייה להתכנס לשחקן דומיננטי אחד או שניים, במקום להישאר מפוזרים: ברגע שמוצר מתרחק קדימה במספר המשתמשים, הוא נהיה אטרקטיבי יותר באופן מכאני ממתחריו, מה שמביא עוד יותר משתמשים. זו גם הסיבה שמתחרים חדשים בשוק כזה כמעט אף פעם לא יכולים לנצח רק באיכות המוצר - הם צריכים טריק כניסה שעובד חרף מספר משתמשים קטן בהתחלה, כמו קהילת נישה, תכונה שבעלת ערך גם לבד, או סבסוד של צד אחד בשוק.",
+        "deep": "## הרעיון הבסיסי\n\nאפקט רשת קיים כשהערך של מוצר לכל משתמש עולה עם מספר המשתמשים האחרים בו. כלכלנים מחלקים את זה לאפקטי רשת ישירים - הטלפון שלי שווה יותר כשליותר אנשים יש טלפון, כי יש יותר אנשים להתקשר אליהם - ואפקטי רשת עקיפים, שעוברים דרך קבוצה שנייה כלשהי, כמו שוק מקוון שמתאים בין קונים למוכרים.\n\n## דוגמה מעשית: אפליקציית הזמנת נסיעות בעיר חדשה\n\nנניח שאפליקציית הזמנת נסיעות משיקה בעיר עם 100 נוסעים ו-20 נהגים. נוסע פותח את האפליקציה ולעיתים קרובות לא מוצא נהג בקרבת מקום - זמן ההמתנה הממוצע ארוך, כך שנוסעים רבים מתייאשים ולא פותחים את האפליקציה שוב. הנהגים המעטים שנרשמים רואים מעט מאוד בקשות נסיעה כדי להצדיק משמרת, כך שגם הם נושרים מהפלטפורמה. זו \"בעיית ההתחלה הקרה\" (cold start problem) שכל שוק דו-צדדי מתמודד איתה: הוא לא שימושי לאף אחד עד שהצפיפות גבוהה מספיק משני הצדדים בבת אחת.\n\nכעת נניח שאותה עיר מגיעה ל-10,000 נוסעים ו-2,000 נהגים. נהג יכול למצוא נוסע בתוך שתי דקות בכל כמעט כל מקום בעיר; נוסע יכול להזמין רכב כמעט באופן מיידי. שום צד לא שינה את מה שהוא עושה - רק מספר המשתתפים השתנה - אבל המוצר כפי שהוא נחווה על ידי כל משתמש בודד השתפר בצורה דרמטית. זה אפקט הרשת: הנהג ה-2,020 שמצטרף לא רק מוסיף את הנסיעות שלו, הוא גם הופך את האפליקציה לשימושית יותר במקצת לכל אחד מ-10,000 הנוסעים, מה שבתורו גורם ליותר נוסעים לפתוח את האפליקציה, מה שגורם ליותר נהגים להישאר מקוונים.\n\n## למה זה מכניס שווקים לדומיננטיות של שחקן אחד\n\nמכיוון שהצמיחה מצטברת כך, חברה שמתרחקת קדימה במספר משתמשים בשוק עם אפקטי רשת אמיתיים נהיית קשה יותר ויותר להשיג - מתחרים שמציעים מוצר זהה עם פחות משתמשים פשוט לא יכולים להתאים את החוויה, לא משנה כמה טובה ההנדסה שלהם. זה חלק גדול מהסיבה ששירותי הזמנת נסיעות, רשתות חברתיות, רשתות תשלומים ושווקי B2B מתכנסים לעיתים קרובות לפלטפורמה דומיננטית אחת או שתיים באזור, גם כשהטכנולוגיה שמתחתיהן לא קשה לשכפול.\n\n## המגבלות\n\nאפקטי רשת אינם בלתי מותנים. הם יכולים להיות מקומיים (אפליקציית הזמנת נסיעות דומיננטית בעיר אחת אין לה יתרון בעיר שבה היא עדיין לא השיקה), הם יכולים להיות מוכרעים על ידי עלויות מעבר (switching costs) או רגולציה, ובחלק מהשווקים האפקט חזק בכיוון אחד (למשל נהגים) אבל חלש בכיוון השני, מה שמשנה את האסטרטגיה לגבי איזה צד לסבסד קודם."
+      },
+      "tags": [
+        "economics",
+        "network-effects",
+        "marketplaces",
+        "strategy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-climategate",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2009: Hackers Leak Thousands of Climate Scientists' Emails in the 'Climategate' Hack",
+        "scroll": "In 2009, hackers broke into the University of East Anglia's Climatic Research Unit and stole thousands of emails, fueling a public controversy over climate science just before a major UN summit.",
+        "coffee": "Weeks before the 2009 UN Copenhagen climate summit, hackers breached the servers of the University of East Anglia's Climatic Research Unit (CRU), one of the world's leading sources of historical temperature data, and stole and published thousands of internal emails and documents exchanged among climate scientists.\n\nCritics of mainstream climate science seized on informal language in some of the emails — discussing how to present data or handle critics — to allege that researchers had manipulated data or suppressed dissenting findings, and the episode was branded 'Climategate.' It became a major talking point for climate skeptics and dominated coverage around the Copenhagen summit.\n\nMultiple independent inquiries in the UK and US later reviewed the emails and the underlying science and found no evidence of fraud or deliberate data manipulation, though they did criticize the scientists' openness in responding to outside data requests. The leak is remembered less for what the emails actually showed and more for how effectively a hack-and-leak operation, timed to a key political moment, shaped public opinion regardless of what later inquiries concluded.",
+        "deep": "## What happened\n\nIn November 2009, unknown hackers gained unauthorized access to servers at the University of East Anglia's Climatic Research Unit (CRU) in Norwich, England — one of the main institutions compiling the historical global temperature records used in climate science. They copied and then published online more than a thousand emails and documents spanning over a decade of correspondence among climate researchers.\n\n## Why the timing mattered\n\nThe leak surfaced just weeks before the 2009 United Nations Climate Change Conference in Copenhagen, one of the most closely watched climate summits of its era, where governments were negotiating a potential successor to the Kyoto Protocol. That timing meant the story landed in the middle of the highest-profile climate diplomacy moment in years, guaranteeing it maximum attention.\n\n## The controversy\n\nClimate skeptics and some media outlets highlighted informal phrases in the emails — scientists discussing how to present data, how to respond to Freedom of Information requests, and friction with researchers who disputed their findings — as evidence of a deliberate effort to manipulate data or silence critics. The affair was quickly dubbed 'Climategate,' and it became one of the most-cited pieces of ammunition for climate-science skepticism in the years that followed.\n\n## What the inquiries found\n\nSeveral independent investigations — including parliamentary and university-commissioned reviews in the UK and a US review — examined both the emails and the underlying science. They concluded there was no evidence that researchers had manipulated data or that the episode undermined the scientific case for human-caused climate change, though they faulted CRU scientists for a lack of openness in responding to data requests and criticized the broader culture around data-sharing in the field.\n\n## The legacy\n\nClimategate is often cited as a case study in how a leak's narrative can outrun its substance: the emails did not show what critics initially claimed, but the controversy still dented public trust in climate science for years and shaped media coverage of climate issues well beyond what the later, more careful inquiries established."
+      },
+      "he": {
+        "headline": "2009: האקרים גונבים אלפי אימיילים של מדעני אקלים בפרשת \"קלימייטגייט\"",
+        "scroll": "ב-2009 פרצו האקרים לשרתי יחידת המחקר האקלימי של אוניברסיטת מזרח אנגליה וגנבו אלפי אימיילים, מה שהצית שערורייה ציבורית סביב מדע האקלים ממש לפני פסגת אקלים גדולה של האו\"ם.",
+        "coffee": "שבועות ספורים לפני פסגת האקלים של האו\"ם בקופנהגן ב-2009, פרצו האקרים לשרתי יחידת המחקר האקלימי (Climatic Research Unit) באוניברסיטת מזרח אנגליה - אחד המקורות המובילים בעולם לנתוני טמפרטורה היסטוריים - וגנבו ופרסמו אלפי אימיילים ומסמכים פנימיים שהוחלפו בין מדעני אקלים.\n\nמבקרי מדע האקלים המקובל אחזו בניסוחים לא רשמיים בחלק מהאימיילים - משפטים שדנו באופן הצגת הנתונים או בהתמודדות עם מבקרים - כדי לטעון שחוקרים זייפו נתונים או השתיקו ממצאים חולקים, והפרשה כונתה \"קלימייטגייט\" (Climategate). היא הפכה לנקודת דיון מרכזית בין סקפטיקני אקלים ושלטה בסיקור התקשורתי סביב פסגת קופנהגן.\n\nכמה חקירות בלתי תלויות בבריטניה ובארה\"ב בדקו בהמשך את האימיילים ואת המדע שמאחוריהם, ולא מצאו עדות להונאה או לזיוף נתונים מכוון, אף שהן ביקרו את המדענים על חוסר שקיפות במענה לבקשות למידע חיצוניות. הדליפה זכורה פחות בגלל מה שהאימיילים הראו בפועל, ויותר בגלל עד כמה ביעילות פעולת פריצה-ודליפה, שתוזמנה לרגע פוליטי קריטי, עיצבה את דעת הקהל בלי קשר למה שהחקירות המאוחרות יותר קבעו.",
+        "deep": "## מה קרה\n\nבנובמבר 2009 השיגו האקרים לא מזוהים גישה לא מורשית לשרתים של יחידת המחקר האקלימי (CRU) באוניברסיטת מזרח אנגליה בנוריץ', אנגליה - אחת המוסדות המרכזיים שמרכיבים רשומות טמפרטורה גלובליות היסטוריות המשמשות במדע האקלים. הם העתיקו ואז פרסמו ברשת יותר מאלף אימיילים ומסמכים שמשתרעים על פני יותר מעשור של תכתובת בין חוקרי אקלים.\n\n## למה התזמון היה חשוב\n\nהדליפה עלתה ממש שבועות לפני כנס שינויי האקלים של האומות המאוחדות ב-2009 בקופנהגן, אחת מפסגות האקלים הנצפות ביותר של אותה תקופה, שבה ממשלות ניהלו משא ומתן על יורש אפשרי לפרוטוקול קיוטו. התזמון הזה הבטיח שהסיפור יגיע באמצע הרגע הדיפלומטי-אקלימי הבולט ביותר בשנים, ובכך הבטיח לו תשומת לב מקסימלית.\n\n## השערורייה\n\nסקפטיקני אקלים וכלי תקשורת מסוימים הדגישו ניסוחים לא רשמיים באימיילים - מדענים שדנים באופן הצגת נתונים, באופן המענה לבקשות חופש המידע, וחיכוך עם חוקרים שחלקו על ממצאיהם - כהוכחה למאמץ מכוון לזייף נתונים או להשתיק מבקרים. הפרשה זכתה במהירות לכינוי \"קלימייטגייט\", והיא הפכה לאחד מכלי הנשק המצוטטים ביותר של סקפטיות מדע האקלים בשנים שלאחר מכן.\n\n## מה החקירות מצאו\n\nכמה חקירות בלתי תלויות - כולל סקירות פרלמנטריות וסקירות שהוזמנו על ידי אוניברסיטאות בבריטניה, וסקירה אמריקאית - בחנו גם את האימיילים וגם את המדע שמאחוריהם. הן הגיעו למסקנה שאין עדות לכך שהחוקרים זייפו נתונים או שהפרשה פגעה בבסיס המדעי לשינויי אקלים הנגרמים על ידי האדם, אף שהן ביקרו את מדעני ה-CRU על היעדר שקיפות במענה לבקשות מידע וביקרו את התרבות הרחבה יותר של שיתוף נתונים בתחום.\n\n## המורשת\n\nקלימייטגייט מוזכרת לרוב כמקרה בוחן לאופן שבו הנרטיב של דליפה יכול לעקוף את התוכן שלה בפועל: האימיילים לא הראו את מה שהמבקרים טענו בתחילה, אבל השערורייה בכל זאת פגעה באמון הציבור במדע האקלים למשך שנים ועיצבה את הסיקור התקשורתי של נושאי אקלים הרבה מעבר למה שהחקירות המאוחרות והקפדניות יותר קבעו."
+      },
+      "tags": [
+        "climate-science",
+        "hacking",
+        "misinformation",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2009: Administrators at the University of East Anglia's Climatic Research Unit discovered that their servers had been hacked, and thousands of emails and files on climate change had been stolen.",
+          "url": "https://en.wikipedia.org/wiki/University_of_East_Anglia"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-17",
+  "questions": [
+    {
+      "id": "q-trilateral-summit",
+      "section": "geopolitics",
+      "story_id": "trump-xi-putin-trilateral-summit",
+      "answer_index": 0,
+      "en": {
+        "question": "Who reportedly proposed the trilateral summit format that could bring Trump, Xi and Putin together during Trump's Asia trip?",
+        "options": [
+          "Vladimir Putin",
+          "Volodymyr Zelenskiy",
+          "China's foreign ministry",
+          "The IMF"
+        ],
+        "explanation": "Reports cited by Foreign Affairs say Putin proposed the three-way format last month as a venue to discuss ending the war in Ukraine."
+      },
+      "he": {
+        "question": "מי, לפי הדיווחים, הציע את מתכונת הפסגה המשולשת שעלולה לכלול את טראמפ, שי ופוטין בנסיעת טראמפ לאסיה?",
+        "options": [
+          "ולדימיר פוטין",
+          "וולודימיר זלנסקי",
+          "משרד החוץ הסיני",
+          "קרן המטבע הבין-לאומית"
+        ],
+        "explanation": "לפי דיווחים שמצוטטים ב-Foreign Affairs, פוטין הציע את הפורמט המשולש בחודש שעבר כבמה לדון בסיום מלחמת אוקראינה."
+      }
+    },
+    {
+      "id": "q-chip-remote-access-loophole",
+      "section": "business",
+      "story_id": "chip-export-remote-access-loophole",
+      "answer_index": 2,
+      "en": {
+        "question": "What new category of activity did the US Commerce Department move to bring under export-control licensing rules for advanced AI chips?",
+        "options": [
+          "Chip design software exports",
+          "Resale of used chips within the US",
+          "Renting remote compute access to export-controlled chips sitting abroad",
+          "Direct chip shipments to China"
+        ],
+        "explanation": "New rules add licensing requirements for advanced chip sales to data centers in Southeast Asia and Brazil, closing the 'remote-access loophole' that let firms rent compute time on export-controlled chips without any chip physically crossing into China."
+      },
+      "he": {
+        "question": "איזו פעילות חדשה משרד המסחר האמריקאי פעל להכניס תחת כללי הרישוי של פיקוח הייצוא על שבבי AI מתקדמים?",
+        "options": [
+          "ייצוא תוכנת תכנון שבבים",
+          "מכירה חזרה של שבבים משומשים בתוך ארה\"ב",
+          "שכירת גישת מחשוב מרחוק לשבבים שכפופים לפיקוח ייצוא ושוכנים בחו\"ל",
+          "משלוחי שבבים ישירים לסין"
+        ],
+        "explanation": "כללים חדשים מוסיפים דרישות רישוי למכירת שבבים מתקדמים למרכזי נתונים בדרום מזרח אסיה ובברזיל, וכך סוגרים את 'פרצת הגישה מרחוק' שאפשרה לחברות לשכור זמן מחשוב על שבבים מפוקחים בלי ששום שבב חצה בפועל לסין."
+      }
+    },
+    {
+      "id": "q-network-effects",
+      "section": "learn",
+      "story_id": "concept-network-effects",
+      "answer_index": 3,
+      "en": {
+        "question": "What defines a product that has a network effect, like a phone network or a marketplace such as eBay?",
+        "options": [
+          "Its quality depends only on its own features, not on other users",
+          "It requires no marketing once it reaches a critical mass of users",
+          "It becomes cheaper to manufacture as more units are sold",
+          "Each additional user makes the product more valuable to everyone else using it"
+        ],
+        "explanation": "A network effect means value grows with the number of users, since each user gives everyone else someone to call, chat with, or trade with."
+      },
+      "he": {
+        "question": "מה מגדיר מוצר שיש לו אפקט רשת, כמו רשת טלפונים או שוק מקוון כמו eBay?",
+        "options": [
+          "האיכות שלו תלויה רק בתכונות שלו עצמו, לא במשתמשים אחרים",
+          "הוא לא דורש שיווק לאחר שהוא מגיע למסה קריטית של משתמשים",
+          "הוא נהיה זול יותר לייצור כשנמכרות יותר יחידות",
+          "כל משתמש נוסף הופך את המוצר לבעל ערך רב יותר עבור כל שאר המשתמשים בו"
+        ],
+        "explanation": "אפקט רשת פירושו שהערך גדל עם מספר המשתמשים, כי כל משתמש נותן לכל השאר מישהו להתקשר אליו, לשוחח איתו או לסחור איתו."
+      }
+    }
+  ]
+}

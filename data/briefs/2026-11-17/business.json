@@ -1,0 +1,101 @@
+{
+  "section": "business",
+  "date": "2026-11-17",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-17T03:51:01+00:00",
+  "stories": [
+    {
+      "id": "chip-export-remote-access-loophole",
+      "kind": "analysis",
+      "en": {
+        "headline": "The US Just Closed a Loophole That Let China Rent Banned AI Chips From Abroad",
+        "scroll": "The US expanded chip export licensing to cloud data centers in Southeast Asia and Brazil, closing a workaround that let Chinese firms rent banned AI chips remotely.",
+        "coffee": "US export controls on advanced AI chips have always targeted the hardware itself: block the physical shipment of chips like Nvidia's top accelerators to China, and you block Chinese access to the compute. But a company doesn't need to own a chip to use it — it can rent time on a server abroad over the internet. That gap, sometimes called the remote-access loophole, let Chinese firms tap export-controlled chips sitting legally in third countries without a single chip ever crossing into China.\n\nThe US Commerce Department has now moved to close it. New rules add licensing requirements for advanced chip sales to data centers in Southeast Asia and Brazil specifically — regions that have become waypoints for this kind of arrangement. The practical effect is that providing remote compute access, not just shipping hardware, now falls under the export-control regime.\n\nThe timing amplifies the market reaction: Chinese AI stocks tumbled, with hyperscalers and model developers hit hardest, as the news landed in the same week as Nvidia's earnings and Anthropic's IPO — both already under pressure after Nvidia's chief executive resigned. The S&P 500 fell 1.9% as the broader selloff in AI-linked stocks continued.",
+        "deep": "## The problem export controls were built to solve\n\nSince 2022, the US has restricted the sale of its most advanced AI accelerators — chips like Nvidia's H100 and its successors — to China, on the theory that frontier AI and military-relevant computing are bottlenecked by access to this hardware. The policy's logic has always rested on controlling a physical object: stop the chip at the border, and you stop the capability from reaching Chinese labs and companies.\n\n## The loophole: you don't need to own the chip, just rent it\n\nThat logic has a hole in it. Export controls traditionally govern the transfer of hardware, not the right to use it remotely. A data center in a third country can legally buy advanced chips, install them, and then sell cloud computing time on those chips to customers anywhere in the world — including, in effect, to Chinese firms running their AI workloads over the internet on hardware that never left the data center and never touched Chinese soil. No chip is exported to China in any customs sense; the compute is simply accessed from afar. This is the remote-access loophole, and it has made certain jurisdictions attractive middlemen for exactly this kind of arrangement.\n\n## What the new rule does\n\nThe Commerce Department's new rule adds licensing requirements specifically for advanced chip sales destined for data centers in Southeast Asia and Brazil — two regions that, by their appearance in this rule, have evidently become hubs for this remote-access model. The shift in approach is significant: rather than only policing where a chip physically ends up, the US is now trying to police who gets to use its compute, regardless of where the silicon sits. A data center operator in these regions now needs a license to sell chips (and, by extension, the compute access built on them) into arrangements that could ultimately serve restricted Chinese customers.\n\n## Why this is harder to enforce than it sounds\n\nPolicing physical shipments is already hard; policing remote usage is harder still. A cloud provider can verify who it bills, but verifying who is actually running a workload on a rented GPU cluster — and for what purpose — is a much deeper problem, especially when access can be resold, subleased, or routed through intermediary companies. The new licensing requirement shifts legal responsibility onto the data-center operators and chip sellers in these jurisdictions, making them the enforcement chokepoint, but it does not by itself solve the underlying verification problem.\n\n## Why markets reacted the way they did\n\nThe rule landed in a week already loaded with risk for AI-linked stocks. Chinese AI stocks fell sharply, with the country's largest hyperscalers and AI model developers — the companies most likely to have been using offshore compute arrangements — among the hardest hit. The announcement also arrived just as Nvidia heads into high-stakes earnings and Anthropic prepares its IPO, two events the market was already treating as a referendum on the AI trade. Nvidia's own board, separately, declined to reinstate Jensen Huang as chief executive after his resignation, adding a layer of company-specific uncertainty on top of the regulatory one. The S&P 500 fell 1.9% as the broader selloff continued, and the Nasdaq 100 — heavily weighted toward AI-exposed chip and tech names — fell further still.\n\n## Second-order effects\n\nFor data-center operators in Southeast Asia and Brazil, this raises the compliance cost and legal risk of hosting advanced AI chips at all, which could make these locations less attractive for exactly the business model that made them valuable in the first place — a classic case of a regulatory fix reshaping the economics of the activity it targets. For Chinese AI labs and hyperscalers, it narrows one of the paths around the original export restrictions, pushing them further back onto domestic chip alternatives, which are generally understood to lag the most advanced US accelerators. And for the AI industry broadly, it is a reminder that export-control enforcement is evolving from a hardware problem into a jurisdiction-and-access problem, which is a template regulators are likely to keep refining rather than a one-time fix.\n\n## What to watch next\n\nWatch Nvidia's earnings and the market's reaction for a read on whether investors treat this as a contained regulatory story or as confirmation of a broader slowdown in AI capital spending; watch how Anthropic's IPO prices into this volatility; and watch whether other jurisdictions that host significant AI compute capacity — beyond Southeast Asia and Brazil — get pulled into similar licensing requirements as the remote-access enforcement model matures."
+      },
+      "he": {
+        "headline": "ארה\"ב סגרה פרצה שאפשרה לסין לשכור מרחוק שבבי AI אסורים",
+        "scroll": "ארה\"ב הרחיבה את חובת הרישוי על שבבים למרכזי נתונים (data centers) בדרום מזרח אסיה ובברזיל, וסגרה פרצה שאפשרה לחברות סיניות לשכור מרחוק שבבי AI אסורים.",
+        "coffee": "פיקוח הייצוא (export controls) האמריקאי על שבבי AI מתקדמים התמקד עד כה בחומרה עצמה: לחסום את המשלוח הפיזי של שבבים כמו מאיצי ה-AI המתקדמים של נווידיה לסין, ובכך לחסום את הגישה הסינית לכוח המחשוב. אבל חברה לא צריכה להחזיק בבעלותה שבב כדי להשתמש בו - היא יכולה לשכור זמן מחשוב על שרת בחו\"ל באמצעות האינטרנט. הפער הזה, המכונה לעתים פרצת הגישה מרחוק (remote-access loophole), אפשר לחברות סיניות לנצל שבבים שכפופים לפיקוח ייצוא ששוכנים באופן חוקי במדינות שלישיות, בלי ששום שבב חצה בפועל את הגבול לסין.\n\nמשרד המסחר האמריקאי פעל כעת לסגור את הפרצה. כללים חדשים מוסיפים דרישות רישוי (licensing requirements) למכירת שבבים מתקדמים למרכזי נתונים בדרום מזרח אסיה ובברזיל באופן ספציפי - אזורים שהפכו לתחנות מעבר עבור הסדרים מהסוג הזה. המשמעות המעשית היא שמתן גישת מחשוב מרחוק, לא רק משלוח חומרה, נכנס כעת תחת משטר פיקוח הייצוא.\n\nהתזמון מגביר את תגובת השוק: מניות ה-AI הסיניות צנחו, עם הפגיעה החמורה ביותר בחברות העל-גדולות (hyperscalers) ובמפתחות מודלים, בשבוע שבו מתפרסמים דוחות נווידיה ומתקיים ה-IPO (הנפקה) של אנתרופיק - שניהם כבר תחת לחץ אחרי התפטרות המנכ\"ל של נווידיה. מדד S&P 500 ירד ב-1.9% בהמשך לירידות הנרחבות במניות הקשורות ל-AI.",
+        "deep": "## הבעיה שפיקוח הייצוא נועד לפתור\n\nמאז 2022, ארה\"ב מגבילה את מכירת מאיצי ה-AI המתקדמים ביותר שלה - שבבים כמו ה-H100 של נווידיה והדורות שבאו אחריו - לסין, מתוך הנחה ש-AI בחזית הטכנולוגית ומחשוב בעל רלוונטיות צבאית מוגבלים על ידי הגישה לחומרה הזו. ההיגיון של המדיניות התבסס תמיד על שליטה באובייקט פיזי: לעצור את השבב בגבול, ובכך לעצור את היכולת מלהגיע למעבדות ולחברות סיניות.\n\n## הפרצה: אין צורך להחזיק בשבב, רק לשכור אותו\n\nבהיגיון הזה יש חור. פיקוח ייצוא באופן מסורתי מסדיר את העברת החומרה, לא את הזכות להשתמש בה מרחוק. מרכז נתונים במדינה שלישית יכול לקנות באופן חוקי שבבים מתקדמים, להתקין אותם, ואז למכור זמן מחשוב בענן (cloud computing) על אותם שבבים ללקוחות בכל מקום בעולם - כולל, בפועל, לחברות סיניות שמריצות את עומסי העבודה שלהן ב-AI באמצעות האינטרנט על חומרה שלעולם לא עזבה את מרכז הנתונים ולעולם לא נגעה בקרקע סינית. שום שבב לא מיוצא לסין במובן המכסי; המחשוב פשוט ניגש מרחוק. זו פרצת הגישה מרחוק, והיא הפכה אזורים מסוימים לתווכים אטרקטיביים בדיוק עבור הסדר מהסוג הזה.\n\n## מה הכלל החדש עושה\n\nהכלל החדש של משרד המסחר מוסיף דרישות רישוי ספציפית למכירות שבבים מתקדמים המיועדים למרכזי נתונים בדרום מזרח אסיה ובברזיל - שני אזורים שלפי הופעתם בכלל הזה הפכו ככל הנראה למרכזים למודל הגישה מרחוק הזה. השינוי בגישה משמעותי: במקום לפקח רק על המקום שבו השבב מגיע בפועל, ארה\"ב מנסה כעת לפקח על מי שמקבל גישה לכוח המחשוב שלו, בלי קשר למקום שבו הסיליקון נמצא. מפעיל מרכז נתונים באזורים האלה זקוק כעת לרישיון כדי למכור שבבים (ובהרחבה, את גישת המחשוב שנבנית עליהם) להסדרים שבסופו של דבר עלולים לשרת לקוחות סיניים מוגבלים.\n\n## למה זה קשה יותר לאכוף ממה שזה נשמע\n\nפיקוח על משלוחים פיזיים כבר קשה; פיקוח על שימוש מרחוק קשה עוד יותר. ספקית עננים יכולה לאמת את מי שהיא מחייבת בתשלום, אבל לאמת מי בפועל מריץ עומס עבודה על אשכול מעבדים גרפיים מושכר - ולאיזו מטרה - היא בעיה עמוקה הרבה יותר, בייחוד כשאפשר למכור גישה מחדש, להשכיר אותה בשכירות משנה, או לנתב אותה דרך חברות מתווכות. דרישת הרישוי החדשה מעבירה את האחריות המשפטית למפעילי מרכזי הנתונים ולמוכרי השבבים באזורים האלה, והופכת אותם לנקודת החנק של האכיפה, אך היא לא פותרת בעצמה את בעיית האימות שבבסיס העניין.\n\n## למה השוק הגיב כפי שהגיב\n\nהכלל נחת בשבוע שהיה כבר עמוס בסיכון למניות הקשורות ל-AI. מניות ה-AI הסיניות נפלו בחדות, עם הפגיעה החמורה ביותר בחברות העל-גדולות ובמפתחות המודלים הגדולים במדינה - החברות שהסתברות גבוהה שהן אלה שהשתמשו בהסדרי מחשוב מעבר לים. ההודעה גם הגיעה בדיוק כשנווידיה נכנסת לדוחות כספיים גורליים ואנתרופיק מתכוננת ל-IPO שלה, שני אירועים שהשוק התייחס אליהם כבר כאל מבחן ל\"סחר ה-AI\" (AI trade) כולו. הדירקטוריון של נווידיה, בנפרד, סירב להחזיר את ג'נסן הואנג לתפקיד המנכ\"ל לאחר התפטרותו, מה שמוסיף שכבה של אי-ודאות ספציפית לחברה על גבי זו הרגולטורית. מדד S&P 500 ירד ב-1.9% בהמשך לירידות הנרחבות, ומדד הנאסד\"ק 100, שמשקלל בכבדות מניות שבבים וטכנולוגיה החשופות ל-AI, ירד עוד יותר.\n\n## אפקטים מסדר שני\n\nלמפעילי מרכזי נתונים בדרום מזרח אסיה ובברזיל, זה מעלה את עלות הציות (compliance) והסיכון המשפטי שבאחסון שבבי AI מתקדמים בכלל, מה שעלול להפוך את המקומות האלה לפחות אטרקטיביים בדיוק בשביל מודל העסקים שהפך אותם לבעלי ערך מלכתחילה - מקרה קלאסי שבו תיקון רגולטורי משנה את הכלכלה של הפעילות שהוא מכוון אליה. למעבדות ולחברות ה-AI העל-גדולות הסיניות, זה מצמצם אחת הדרכים להתגבר על הגבלות הייצוא המקוריות, ודוחף אותן חזרה לכיוון חלופות שבבים מקומיות, שבאופן כללי מובן כי הן מפגרות אחרי המאיצים האמריקאיים המתקדמים ביותר. ולתעשיית ה-AI בכלל, זו תזכורת לכך שאכיפת פיקוח הייצוא מתפתחת מבעיית חומרה לבעיית תחום-שיפוט וגישה - תבנית שרגולטורים צפויים להמשיך לחדד ולא תיקון חד-פעמי.\n\n## מה לעקוב אחריו בהמשך\n\nשווה לעקוב אחרי דוחות נווידיה ותגובת השוק להם, כדי להבין אם המשקיעים מתייחסים לזה כסיפור רגולטורי מוגבל או כאישור להאטה רחבה יותר בהוצאות ההון (capex) על AI; אחרי האופן שבו ה-IPO של אנתרופיק יתומחר לתוך התנודתיות הזו; ואחרי השאלה אם תחומי שיפוט נוספים שמארחים יכולת מחשוב AI משמעותית - מעבר לדרום מזרח אסיה וברזיל - ייכנסו לדרישות רישוי דומות כשמודל האכיפה על גישה מרחוק יתבגר."
+      },
+      "tags": [
+        "export-controls",
+        "ai-chips",
+        "china",
+        "markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
+          "url": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Extend Slide on Nvidia, China Fears",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
+          "url": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
+          "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3975.3999,
+      "prev_close": 4038.02,
+      "change_pct": -1.55,
+      "as_of": "2026-11-16"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7416.5898,
+      "prev_close": 7561.6699,
+      "change_pct": -1.92,
+      "as_of": "2026-11-16"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2459,
+      "prev_close": 3.2159,
+      "change_pct": 0.93,
+      "as_of": "2026-11-17"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 91.71,
+      "prev_close": 95.84,
+      "change_pct": -4.31,
+      "as_of": "2026-11-16"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 64999.3711,
+      "prev_close": 65305.0625,
+      "change_pct": -0.47,
+      "as_of": "2026-11-17"
+    }
+  }
+}
