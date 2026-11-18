@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is psychology. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is science. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -37,15 +37,13 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#1",
      "title": "The last klavern",
      "published": "2026-11-16T11:01:00+00:00",
-     "summary": "Inside one of America’s last Ku Klux Klan halls, architects, historians and residents reckon with preserving Fort Worth’s past - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_1.txt"
+     "summary": "Inside one of America’s last Ku Klux Klan halls, architects, historians and residents reckon with preserving Fort Worth’s past - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#2",
      "title": "The horse made the state",
      "published": "2026-11-16T11:00:00+00:00",
-     "summary": "Civilisation wasn’t made possible by grain, but by transportation – and the conquest it enabled, from the steppe to the sea - by Lhamsuren Munkh-Erdene Read on Aeon",
-     "full_text_file": "essays/aeon_2.txt"
+     "summary": "Civilisation wasn’t made possible by grain, but by transportation – and the conquest it enabled, from the steppe to the sea - by Lhamsuren Munkh-Erdene Read on Aeon"
     },
     {
      "ref": "aeon#3",
@@ -145,81 +143,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The Kalshi market on U.S. productivity growth",
+     "published": "2026-11-17T20:34:15+00:00",
+     "summary": "It is coming in at 2.2%, people. That is for over the next five years. tys…though even I think it will be a bit higher than that. Yes the liquidity is tiny, but that is endogenous to the reality that huge profits are not to be made there. You are free to trade yourself of […] The post The Kalshi market on U.S. productivity growth appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "What should I ask Alexander Mikaberidze?",
+     "published": "2026-11-17T19:17:25+00:00",
+     "summary": "He is the author and the new and excellent The Louisiana Purchase: The Grand Bargain and the Making of America. He also wrote The Napoleonic Wars: A Global History, one of my favorite history books. He has extensive other writings on the history of the Russian military during that same period. From Wikipedia: Alexander Mikaberidze […] The post What should I ask Alexander Mikaberidze? appeared firs"
+    },
+    {
+     "ref": "marginal_revolution#2",
+     "title": "Alex Imas and I podcast on the economics of AI",
+     "published": "2026-11-17T16:53:31+00:00",
+     "summary": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE The post Alex Imas and I podcast on the economics of AI appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#3",
+     "title": "Tuesday assorted links",
+     "published": "2026-11-17T13:46:49+00:00",
+     "summary": "1. Luka has become a very good player. Defense is much better too. 2. No comment. 3. Did England bribe Scotland into political union? 4. Survey article on the economics of mental health, one of the most important and understudied areas. 5. Science isn’t just a series of lucky accidents. 6. Kalshi five-year productivity growth […] The post Tuesday assorted links appeared first on Marginal REVOLUTIO"
+    },
+    {
+     "ref": "marginal_revolution#4",
      "title": "Adlerlicht, reporting on crime in Germany",
      "published": "2026-11-17T07:12:17+00:00",
      "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here. The post Adlerlicht, reporting on crime in Germany appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#5",
      "title": "The economics of Jensen Huang",
      "published": "2026-11-17T05:44:15+00:00",
      "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever […] The post The economics of Jensen Huang appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#6",
      "title": "Monday assorted links",
      "published": "2026-11-16T19:17:13+00:00",
      "summary": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard Posner. 5. “A survey released Monday found that new international student enrollment plunged by 15 percent, a figure that was particularly […] The post Monday assorted links appeared "
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#7",
      "title": "Russ Roberts and I do EconTalk podcast on Montaigne",
      "published": "2026-11-16T16:53:41+00:00",
      "summary": "Self-recommending, we start with Montaigne’s essay on education… The post Russ Roberts and I do EconTalk podcast on Montaigne appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#8",
      "title": "Starship",
      "published": "2026-11-16T12:18:54+00:00",
      "summary": "My favorite commentary on SpaceX’s historic catching of Starship was this: …we may be certain of this: for all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ Arthur C. Clarke (1965). Yesterday, this became vividly real to me. Hat tip: @amdreaesposito Addendum: Good post on why catching […] The post Starship appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#9",
      "title": "Coffeehouses and the Scientific Revolution",
      "published": "2026-11-16T07:33:14+00:00",
      "summary": "Abstract Historians have long credited coffeehouses, venues for conversation where strangers met across social ranks, with fostering scientific contacts and activity during the Scientific Revolution. We test this claim in seventeenth-century London. Relying on newly geocoded records and a staggered event study across parishes, we find that the opening of the first coffeehouse in a […] The post Cof"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#10",
      "title": "A scenario for rogue AIs?",
      "published": "2026-11-16T05:47:54+00:00",
      "summary": "From Adam Kaufman: I think it’s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out their own labor to assist with illegal activities) in order to run more copies. I also […] The post A scenario for rogue AIs? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#11",
      "title": "Sunday assorted links",
      "published": "2026-11-15T17:26:25+00:00",
      "summary": "1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new method of movie evaluation and greenlighting? 5. Ezra Klein on the permitting bill (NYT). 6. […] The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#12",
      "title": "Tyler Cowen’s strongest musical recommendations, 2003–2026",
      "published": "2026-11-15T12:18:42+00:00",
      "summary": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted links rather than music posts. This selection draws on the Marginal […] The post Tyler Cowen’s strongest "
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#13",
      "title": "AI and complements",
      "published": "2026-11-15T10:03:58+00:00",
      "summary": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of substitution across tasks of 0.2, automating tasks worth 1 […] The post AI and complements appeared first on "
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#14",
      "title": "Best films of 2026",
      "published": "2026-11-15T05:38:13+00:00",
      "summary": "I thought this was a splendid and highly innovative year. Here is my list, in the order I saw them, noting that a link typically brings you to my review: Resurrection Testament of Ann Lee 28 Years Later Wuthering Heights Sirat Project Hail Mary A Man on the Run The Drama The Blue Trail Silent […] The post Best films of 2026 appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Saturday assorted links",
-     "published": "2026-11-14T17:09:27+00:00",
-     "summary": "1. Madrid vs. Catalonia. 2. Stephen Kovacevich, RIP (NYT). Brahms and the Diabellis stand among his towering pianistic achievements. He was one of my favorite pianists. 3. Queen at Sea is an excellent movie, though hard to watch due to the dementia theme. Impossible to review without spoilers. 4. Claude revises the notebooks of Gödel. […] The post Saturday assorted links appeared first on Marginal"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Privatize Air Traffic Control, Redux",
-     "published": "2026-11-14T12:16:03+00:00",
-     "summary": "Yesterday the FAA grounded every domestic departure in the United States for more than four hours. Such groundings appear to be happening more often. The last nationwide grounding was in 2023, and regional ones have hit Newark, Dallas, and the entire Northeast in the past two years. My post from October of 2025 (below) was […] The post Privatize Air Traffic Control, Redux appeared first on Margina"
     }
    ]
   },
@@ -244,8 +254,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#2",
      "title": "After Ma and Pa",
      "published": "2026-11-16T11:00:00+00:00",
-     "summary": "My parents were gone, yet I held on to their apartment. Could I honour the past and learn to let go? - by Susan Hornik Read on Psyche",
-     "full_text_file": "essays/psyche_2.txt"
+     "summary": "My parents were gone, yet I held on to their apartment. Could I honour the past and learn to let go? - by Susan Hornik Read on Psyche"
     },
     {
      "ref": "psyche#3",
@@ -303,15 +312,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#12",
-     "title": "How to take notes that actually help you learn",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
-    },
-    {
-     "ref": "psyche#13",
      "title": "Who am I if I don’t run?",
      "published": "2026-11-05T11:00:00+00:00",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
+    },
+    {
+     "ref": "psyche#13",
+     "title": "How to take notes that actually help you learn",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     },
     {
      "ref": "psyche#14",
@@ -360,6 +369,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "Grain Didn't Build States — Horses, Boats and Conquest Did, a Historian Argues",
   "A New Answer to Why Anything Exists At All",
   "Why Regimes Fear People Who Can Imagine a Different Life",
   "A Mathematician's Log of What AI Actually Changes About Doing Math",
@@ -388,8 +398,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "An AI model was caught reasoning about how its own training will shape its future self — and nobody agrees whether that's reassuring or alarming",
   "How Intuition Justifies Belief — By Working Just Like Perception",
   "Denmark Treats Feeling Safe as Shared Infrastructure, Not a Private Feeling",
-  "AI Benchmarks Have Always Been Broken — That's Not Why They're in Crisis Now",
-  "Roman Masculinity Was an Anxious Performance, Not a Golden Age of Domination"
+  "AI Benchmarks Have Always Been Broken — That's Not Why They're in Crisis Now"
  ]
 }
 </input>

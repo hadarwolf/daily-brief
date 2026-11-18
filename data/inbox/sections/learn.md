@@ -24,118 +24,137 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2013,
-   "text": "Tatarstan Airlines Flight 363 crashed during an aborted landing at Kazan International Airport, Russia, killing all 50 people on board and leading to the revocation of the airline's operating certificate.",
+   "year": 2017,
+   "text": "Cyclone Numa, a rare \"medicane\", made landfall in Greece to become the worst weather event that the country had experienced since 1977.",
    "context": [
-    "Tatarstan Airlines Flight 363 was a scheduled domestic passenger flight, operated by Tatarstan Airlines on behalf of Ak Bars Aero, from Moscow to Kazan, Russia. On 17 November 2013, at 19:24 local time (UTC+4), the Boeing 737-500 crashed during an aborted landing at Kazan International Airport, killing all 44 passengers and 6 crew members on board."
+    "Cyclone Numa, also known as Medicane Numa, was a Mediterranean tropical-like cyclone with the properties of a subtropical cyclone. Numa formed on 11 November 2017 west of the British Isles, out of the extratropical remnants of Tropical Storm Rina, the seventeenth named storm of the 2017 Atlantic hurricane season. Subsequently, on 17 November, Numa acquired subtropical characteristics before reaching peak intensity on 18 November, becoming a rare \"medicane\". After making landfall in Greece on 18 November, Numa rapidly weakened, and was later absorbed into another extratropical storm on 20 November. The flooding triggered by Numa became the worst weather event Greece had experienced since 1977, and the storm caused an estimated $100 million in damages in Europe."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2013,
-   "text": "An outbreak of 77 confirmed tornadoes occurred in seven U.S. states; it became the largest November tornado outbreak in Illinois and Indiana.",
+   "year": 2014,
+   "text": "Two Palestinian men attacked the praying congregants of a synagogue in Jerusalem with axes, knives, and a gun, resulting in eight deaths, including the attackers themselves.",
    "context": [
-    "On November 17, 2013, the deadliest and costliest November tornado outbreak in Illinois history took shape, becoming the fourth-largest for the state overall. With more than 30 tornadoes in Indiana, it was that state's largest tornado outbreak for the month of November, and the second largest outbreak recorded in Indiana. Associated with a strong trough in the upper levels of the atmosphere, the event resulted in 77 tornadoes tracking across regions of the Midwest United States and Ohio River Valley, impacting seven states. Severe weather during the tornado outbreak caused over 100 injuries and eleven fatalities, of which eight were tornado related. Two tornadoes—both in Illinois and rated EF4 on the Enhanced Fujita scale—were the strongest documented during the outbreak and combined for five deaths. In addition to tornadoes, the system associated with the outbreak produced sizeable hail peaking at 4.00 in (10.2 cm) in diameter in Bloomington, Illinois, as well as damaging winds estimated as strong as 100 mph (160 km/h) in three locations."
+    "On the morning of 18 November 2014, two Palestinian men from Jerusalem entered Kehilat Bnei Torah synagogue, in the Har Nof neighborhood of Jerusalem, and attacked the praying congregants with axes, knives, and a gun. They killed four dual-nationality worshippers, and critically wounded a responding Druze Israeli police officer, who later died of his wounds. They also injured seven male worshippers, one of whom never woke up from a coma and died 11 months later. The two attackers were then shot dead by the police."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2009,
-   "text": "Administrators at the University of East Anglia's Climatic Research Unit discovered that their servers had been hacked, and thousands of emails and files on climate change had been stolen.",
+   "year": 2011,
+   "text": "The sandbox video game Minecraft exited beta with the official release of version 1.0.",
    "context": [
-    "The University of East Anglia (UEA) is a public research university in Norwich, England. Established in 1963 on a 360-acre (150-hectare) campus west of the city centre, the university has four faculties and twenty-six schools of study. It is one of five BBSRC funded research campuses, with forty businesses, four independent research institutes and a teaching hospital on site."
+    "Minecraft is a sandbox video game developed and published by the Swedish company Mojang Studios. Following its initial public alpha release as an early access title on 17 May 2009, it was formally released on 18 November 2011 for personal computers. The game has since been ported to numerous platforms, including mobile devices and various video game consoles."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1997,
-   "text": "Sixty-two people were killed by Islamist terrorists outside Deir el-Bahari (temple pictured) in Luxor, one of Egypt's top tourist attractions.",
+   "year": 2003,
+   "text": "With its ruling in Goodridge v. Department of Public Health, the Massachusetts Supreme Judicial Court made the state the first in the U.S. to legalize same-sex marriage.",
    "context": [
-    "The Luxor massacre was a terrorist attack that occurred on 17 November 1997 in Egypt. It was perpetrated by al-Jama'a al-Islamiyya and resulted in the deaths of 62 people, most of whom were tourists. It took place at Dayr al-Bahri, an archaeological site located across the Nile from the city of Luxor."
+    "Goodridge v. Dept. of Public Health, 798 N.E.2d 941, is a landmark Massachusetts Supreme Judicial Court case in which the Court held that the Massachusetts Constitution requires the state to legally recognize same-sex marriage. The November 18, 2003, decision was the first by a U.S. state's highest court to find that same-sex couples had the right to marry. Despite numerous attempts to delay the ruling, and to reverse it, the first marriage licenses were issued to same-sex couples on May 17, 2004, and the ruling has been in full effect since that date."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1989,
-   "text": "Walt Disney Pictures released The Little Mermaid to theatres, beginning the Disney Renaissance.",
+   "year": 1999,
+   "text": "Texas A&M University's Aggie Bonfire collapsed (aftermath pictured), killing 12 people and injuring 27 others, and causing the university to officially declare a hiatus on the 90-year-old annual event.",
    "context": [
-    "Walt Disney Pictures is an American film production company that is a division of the Walt Disney Studios, a division of Disney Entertainment, which is owned by the Walt Disney Company. Founded on October 16, 1923, the studio is the flagship producer of live-action feature films within the Walt Disney Studios unit and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under the studio banner. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures."
+    "Texas A&M University is a public land-grant research university in College Station, Texas, United States. It was founded in 1876 and became the flagship institution of the Texas A&M University System in 1948. Since 2021, Texas A&M has enrolled the largest student body in the United States. It is classified among \"R1: Doctoral Universities – Very high research activity\" and since 2001 has been a member of the Association of American Universities."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1968,
-   "text": "NBC controversially cut away from an American football game between the Oakland Raiders and New York Jets to broadcast Heidi, causing viewers in the Eastern United States to miss the game's dramatic ending.",
+   "year": 1991,
+   "text": "The current flag of Uzbekistan was adopted, making the country the first newly independent republic in Central Asia to choose a new flag.",
    "context": [
-    "The National Broadcasting Company (NBC) is an American commercial broadcast television network, serving as the flagship property of NBC Entertainment, a division of NBCUniversal, which is a subsidiary of Comcast. It is one of NBCUniversal's two flagship namesake properties, alongside Universal Studios. It is the first and oldest major broadcast network in the United States."
+    "The national flag of Uzbekistan, officially the state flag of the Republic of Uzbekistan, consists of a horizontal triband of dark azure blue, white and dark green, separated by two thin red fimbriations, with a white crescent moon and twelve white stars in the canton. Adopted in 1991 to replace the flag of the Uzbek Soviet Socialist Republic, it has been the flag of the Republic of Uzbekistan since the country gained independence in that same year. The design of the present flag was based on the former one."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1950,
-   "text": "The 14th Dalai Lama (pictured) assumed full temporal power as ruler of Tibet at the age of 15.",
+   "year": 1991,
+   "text": "Croatian War of Independence: The Yugoslav People's Army captured the Croatian city of Vukovar, ending an 87-day siege.",
    "context": [
-    "The 14th Dalai Lama is the current Dalai Lama, the highest spiritual leader and head of Tibetan Buddhism. He served as the resident spiritual and temporal leader of Tibet before 1959, and subsequently led the Tibetan government in exile represented by the Central Tibetan Administration in Dharamshala, India."
+    "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1943,
-   "text": "World War II: Australian forces launched an assault on Sattelberg, New Guinea, against Japanese forces, initiating the Battle of Sattelberg.",
+   "year": 1987,
+   "text": "An underground fire killed 31 people at King's Cross St Pancras tube station in London.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The King's Cross fire occurred on 18 November 1987 at King's Cross St Pancras tube station in London, England, causing 31 fatalities. It began under a wooden escalator before spreading into the ticket hall in a flashover."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1941,
-   "text": "World War II: Hjalmar Siilasvuo ordered Finnish forces to halt their assault against Soviet forces near Salla, concluding Operation Arctic Fox.",
+   "year": 1978,
+   "text": "Jim Jones led more than 900 members of the Peoples Temple to mass murder/suicide in Jonestown, Guyana, hours after some of its members assassinated U.S. Congressman Leo Ryan.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "James Warren Jones was an American cult leader, preacher, and mass murderer who founded and led the Peoples Temple, a new religious movement between 1955 and 1978. Jones and the members of his inner circle planned and orchestrated a mass murder–suicide that resulted in the deaths of over 900 people. He described the action as \"revolutionary suicide\", a term coined by Huey P. Newton. The people went to their deaths at the remote jungle commune which they had developed at Jonestown, Guyana, which was operated like a mini-totalitarian police state under official permission and a formal land lease from the Government of Guyana. U.S. Congressman Leo Ryan, who had been visiting to investigate reports of human rights abuses and people wanting to leave, was also assassinated before his plane departed. Jones blended Pentecostal religious authority with Marxist–Leninist rhetoric, with an emphasis on racial equality during the civil rights movement, which resulted in most of his followers being African American."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1921,
-   "text": "Rioting broke out in Bombay, India, during the visit of Edward, Prince of Wales, leading to at least 58 deaths.",
+   "year": 1977,
+   "text": "Solomon Islands ratified the adoption of a new flag (pictured).",
    "context": [
-    "The Prince of Wales riots occurred in Bombay, British India, between 17 and 20 November 1921 during the visit of Edward, Prince of Wales. The visit came during the non-cooperation movement protests for Indian self-rule, led by Mahatma Gandhi and the Indian National Congress. Gandhi had allied the mainly-Hindu Congress with the Muslim Khilafat Movement, who were concerned about the possibility that the British might depose the Ottoman Caliph. Gandhi called for his supporters to boycott the prince's visit and carry out a general strike (hartal)."
+    "The flag of Solomon Islands consists of a thin yellow diagonal stripe from the lower hoist-side corner, with a blue upper triangle and green lower triangle, and the canton charged with five white stars. Adopted in 1977 to replace the British Blue Ensign defaced with the arms of the protectorate, it has been the flag of Solomon Islands since 18 November of that year, eight months before the country gained independence. Although the number of provinces has since increased, the number of stars on the flag that originally represented them remained unchanged."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1796,
-   "text": "French Revolutionary Wars: French forces won the Battle of Arcole in a manoeuvre to cut the Austrians' line of retreat.",
+   "year": 1956,
+   "text": "At the Polish embassy in Moscow, a phrase in an address by Soviet leader Nikita Khrushchev (pictured) was translated into English as \"We will bury you\", prompting Western envoys to leave the room.",
    "context": [
-    "The French Revolutionary Wars were a series of sweeping military conflicts resulting from the French Revolution that lasted from 1792 until 1802. They pitted France against Great Britain, Austria, Prussia, Russia, and several other countries. The wars are divided into two periods: the War of the First Coalition (1792–1797) and the War of the Second Coalition (1798–1802). Initially confined to Europe, the fighting gradually assumed a global dimension. After a decade of constant warfare and aggressive diplomacy, France had conquered territories in the Italian peninsula, the Low Countries, and the Rhineland with its very large and powerful military which had been totally mobilized for war against most of Europe with mass conscription of the vast French population. French success in these conflicts ensured military occupation and the spread of revolutionary principles over much of Europe."
+    "Nikita Sergeyevich Khrushchev was the First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and the Chairman of the Council of Ministers from 1958 to 1964. As leader of the Soviet Union, he shocked the world by denouncing his predecessor Joseph Stalin, embarking on a campaign of de-Stalinization, and presiding over the Cuban Missile Crisis in 1962."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1592,
-   "text": "Sigismund III Vasa, who was already King of Poland, succeeded his father John III as King of Sweden.",
+   "year": 1872,
+   "text": "American suffragist Susan B. Anthony (pictured) was arrested and later fined $100 for having voted in the presidential election two weeks earlier.",
    "context": [
-    "Sigismund III Vasa was King of Poland and Grand Duke of Lithuania from 1587 to 1632 and, as Sigismund, King of Sweden from 1592 to 1599. He was the first Polish sovereign from the House of Vasa. Zealously religious, he imposed Catholicism across the vast realm, and his crusades against neighbouring states marked Poland's largest territorial expansion. A deeply polarising ruler, he presided over the end of the Golden Age of prosperity and achievement, further distinguished by the transfer of the country's capital from Kraków to Warsaw."
+    "Women's suffrage, or the right of women to vote, was established in the United States over the course of the late 19th and early 20th centuries, first in various states and localities, then nationally in 1920 with the ratification of the 19th Amendment to the United States Constitution."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1558,
-   "text": "Elizabeth I (pictured) became Queen of England and of Ireland, marking the beginning of the Elizabethan era.",
+   "year": 1865,
+   "text": "\"The Celebrated Jumping Frog of Calaveras County\" was published, becoming the first great success of American author Mark Twain.",
    "context": [
-    "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era."
+    "\"The Celebrated Jumping Frog of Calaveras County\" is an 1865 short story by Mark Twain. It was his first great success as a writer and brought him national attention. The story has also been published as \"Jim Smiley and His Jumping Frog\" and \"The Notorious Jumping Frog of Calaveras County\". In it, the narrator retells a story he heard from a bartender, Simon Wheeler, at the Angels Hotel in Angels Camp, California, about the gambler Jim Smiley. The narrator describes him: \"If he even seen a straddle bug start to go anywhere, he would bet you how long it would take him to get to wherever he going to, and if you took him up, he would foller that straddle bug to Mexico but what he would find out where he was bound for and how long he was on the road.\""
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1292,
-   "text": "John Balliol was chosen to be King of Scots over Robert de Brus.",
+   "year": 1809,
+   "text": "Napoleonic Wars: In the Bay of Bengal, a squadron of French frigates captured three ships carrying recruits for the armies of the East India Company.",
    "context": [
-    "John (de) Balliol, known derisively as Toom Tabard, was King of Scots from 1292 to 1296. Little is known of his early life. After the death of Margaret, Maid of Norway, Scotland entered an interregnum during which several competitors for the Crown of Scotland put forward claims. Balliol was chosen from among them as the new King of Scotland by a group of selected noblemen headed by King Edward I of England."
+    "The Napoleonic Wars (1803–1815) were a global series of conflicts fought by shared European coalitions against the French First Republic (1803–1804) under the First Consul followed by the First French Empire (1804–1815) under the Emperor of the French, Napoleon I. The wars originated in political forces arising from the French Revolution (1789–1799) and French Revolutionary Wars (1792–1802) and produced a period of French domination over continental Europe. The wars are categorised as seven conflicts, five named after the coalitions that fought Napoleon, plus two named for their respective theatres : the War of the Third Coalition, War of the Fourth Coalition, War of the Fifth Coalition, War of the Sixth Coalition, War of the Seventh Coalition, the Peninsular War, and the French invasion of Russia."
+   ]
+  },
+  {
+   "ref": "wikipedia#14",
+   "year": 1583,
+   "text": "The siege of Godesberg, the first major siege of the Cologne War, began.",
+   "context": [
+    "The siege of Godesberg, 18 November – 17 December 1583, was the first major siege of the Cologne War (1583–1589). Seeking to wrest control of an important fortification, Bavarian and mercenary soldiers surrounded the Godesberg, and the village then of the same name, now Bad Godesberg, located at its foot. On top of the mountain sat a formidable fortress, similarly named Godesburg, built in the early 13th century during a contest over the election of two competing archbishops."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1210,
+   "text": "Otto IV, Holy Roman Emperor, was ex­com­mu­ni­cated by Pope Innocent III after Otto commanded him to annul the Concordat of Worms.",
+   "context": [
+    "Otto IV was the Holy Roman Emperor from 1209 until his death in 1218."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Vintage (וינטג')",
+  "Hockey-stick growth (צמיחת מקל הוקי)",
+  "Dogfooding (אכילת מזון הכלבים של עצמך)",
   "Moral hazard (סיכון מוסרי)",
   "Melt-up (עלייה קדחתנית)",
   "Betting the farm (להמר על הכל)",
@@ -222,10 +241,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Pull the plug (לשלוף את התקע)",
   "Capex (הוצאות הוניות)",
   "Build vs. buy (לבנות או לקנות)",
-  "Smoke and mirrors (עשן ומראות)",
-  "Bellwether (ברומטר)",
-  "Cash cow (פרת מזומנים)",
-  "Death by a thousand cuts (מוות באלף חתכים)"
+  "Smoke and mirrors (עשן ומראות)"
  ]
 }
 </input>
