@@ -1,0 +1,76 @@
+{
+  "section": "business",
+  "date": "2026-11-18",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-18T04:06:23+00:00",
+  "stories": [
+    {
+      "id": "mongodb-acquires-firebolt",
+      "kind": "analysis",
+      "en": {
+        "headline": "MongoDB buys Israeli startup Firebolt in its first local acquisition, choosing to buy speed rather than build it",
+        "scroll": "MongoDB is acquiring Israeli startup Firebolt and its real-time analytics engine, a textbook \"tuck-in\" acquisition: buying a small amount of proven technology instead of spending years building it in-house.",
+        "coffee": "MongoDB, the roughly $25 billion US database company behind the widely used MongoDB platform, announced it is acquiring Firebolt, an Israeli startup that builds an engine for processing huge amounts of data in real time. The deal is MongoDB's first acquisition in Israel. The company hasn't disclosed the price, though earlier reporting by TheMarker put ongoing talks at roughly $250-300 million — a small sum relative to MongoDB's size, but a meaningful exit for Firebolt.\n\nMongoDB's VP of engineering, Fred Roma, said Firebolt's analytics engine has been \"proven in the field,\" which is the real logic of the deal: rather than spend years and hundreds of engineers building fast, large-scale analytics capability from scratch, MongoDB is paying to acquire technology and a team that already works and is already trusted by customers.\n\nThis is what's called a \"tuck-in\" or \"bolt-on\" acquisition: a company buys a smaller, complementary business not primarily for its existing revenue, but to fold a specific capability directly into its own product. For a platform company like MongoDB, which competes to be the single database developers reach for by default, adding real-time analytics closes a capability gap that might otherwise push customers to a rival tool.",
+        "deep": "## The deal\n\nMongoDB, the US-listed database company (ticker MDB, market capitalization in the neighborhood of $25 billion) whose core product is used widely by software developers to store and query application data, announced it is acquiring Firebolt, an Israeli startup. Firebolt builds what's generally called an analytics engine — infrastructure designed to process and query very large volumes of data quickly, the kind of workload companies run when they want to analyze huge datasets in close to real time rather than wait for an overnight batch job. MongoDB has not disclosed the purchase price, though TheMarker had previously reported talks in the range of $250-300 million. This is MongoDB's first acquisition of an Israeli company.\n\n## Why a database company buys an analytics startup\n\nMongoDB's own product was built primarily for a different job: storing and retrieving the data behind live applications (what's called \"operational\" or \"transactional\" workloads), not for the large-scale number-crunching that analytics and business-intelligence tools are optimized for. As companies increasingly want to analyze the same data that powers their apps — without exporting it to a separate system — database vendors are under pressure to offer fast analytics themselves, or risk a customer reaching for a competitor's tool for that specific job and, over time, migrating more of their business there too.\n\n## The build-vs-buy decision\n\nThis is a clean example of a recurring strategic choice in technology: build vs. buy. MongoDB could, in theory, have tasked its own engineers with building comparable real-time analytics technology internally. The alternative — buying Firebolt — trades a large amount of money for a large amount of time and risk: Firebolt's engine already works, is already validated by real customers (hence Fred Roma's comment that it's \"proven in the field\"), and comes with a team of engineers who have already solved the hard technical problems involved. Building the same capability from scratch inside MongoDB might have taken several years with an uncertain chance of matching what Firebolt already has, during which competitors could pull further ahead.\n\n## Why this is a \"tuck-in,\" not a transformative merger\n\nAcquisitions get described differently depending on their purpose and size relative to the acquirer. A \"tuck-in\" or \"bolt-on\" acquisition is a relatively small purchase — here, likely a few hundred million dollars against a company worth tens of billions — made to fold a specific technology or capability directly into an existing, larger product line, rather than to acquire a large standalone revenue stream or enter an entirely new market. The target typically gets absorbed into the acquirer's existing sales force and product roadmap rather than continuing to operate as a separate business. That's different from a \"transformative\" or \"platform\" acquisition, where a company buys something comparable to or larger than itself to fundamentally change what it does or how big it is.\n\n## Why it matters\n\nFor MongoDB, the logic is about closing a competitive gap cheaply and quickly rather than ceding that part of the product conversation to rivals. For Firebolt's investors and employees, it's a successful, if modest by Silicon Valley mega-deal standards, outcome — and for Israel's tech sector broadly, it's one more data point in a steady stream of local startups being acquired by larger US platform companies rather than scaling to an independent public listing themselves, a pattern that shapes how much of the value created by Israeli engineering ultimately stays domestic versus flowing to acquirers abroad.\n\n## What to watch\n\nWhether MongoDB integrates Firebolt's technology directly into its core platform (making real-time analytics a built-in feature) or keeps it as a more distinct product line will say a lot about how central this capability is to MongoDB's long-term strategy, versus a quick defensive patch."
+      },
+      "he": {
+        "headline": "MongoDB רוכשת את הסטארטאפ הישראלי Firebolt ברכישתה הראשונה בישראל, ובוחרת לקנות מהירות במקום לבנות אותה",
+        "scroll": "MongoDB רוכשת את הסטארטאפ הישראלי Firebolt ואת מנוע האנליטיקה שלו בזמן אמת — רכישת \"השלמה\" קלאסית: לקנות טכנולוגיה מוכחת במקום לבזבז שנים בבנייתה בבית.",
+        "coffee": "חברת MongoDB האמריקאית, ששווייה בשוק סביב 25 מיליארד דולר והיא עומדת מאחורי פלטפורמת מסדי הנתונים הנפוצה בשם זה, הודיעה כי תרכוש את Firebolt, סטארטאפ ישראלי שמפתח מנוע לעיבוד כמויות עצומות של דאטה בזמן אמת. העסקה היא הרכישה הראשונה של MongoDB בישראל. החברה לא פרסמה את המחיר, אך דיווח קודם של TheMarker הציב את המגעים בטווח של כ-250-300 מיליון דולר — סכום קטן יחסית לגודלה של MongoDB, אך אקזיט משמעותי לFirebolt.\n\nסמנכ\"ל ההנדסה של MongoDB, פרד רומא, אמר שמנוע האנליטיקה של Firebolt \"הוכח בשטח\" — וזו ההיגיון האמיתי של העסקה: במקום לבזבז שנים ומאות מהנדסים בבניית יכולת אנליטיקה מהירה ובקנה מידה גדול מאפס, MongoDB משלמת כדי לרכוש טכנולוגיה וצוות שכבר עובדים וכבר זכו לאמון לקוחות.\n\nזו מה שנקרא עסקת \"השלמה\" (tuck-in / bolt-on): חברה רוכשת עסק קטן ומשלים, לא בעיקר בשביל ההכנסות הקיימות שלו, אלא כדי לשלב יכולת ספציפית ישירות בתוך המוצר שלה עצמה. לחברת פלטפורמה כמו MongoDB, שמתחרה על מעמד מסד הנתונים שמפתחי תוכנה פונים אליו כברירת מחדל, הוספת אנליטיקה בזמן אמת סוגרת פער יכולות שאחרת היה עלול לדחוף לקוחות לכלי של מתחרה.",
+        "deep": "## העסקה\n\nחברת MongoDB האמריקאית (נסחרת בסימול MDB, שווי שוק של כ-25 מיליארד דולר), שמוצרה המרכזי משמש באופן נרחב מפתחי תוכנה לאחסון ושליפה של דאטה של אפליקציות, הודיעה כי תרכוש את Firebolt, סטארטאפ ישראלי. Firebolt מפתחת מה שמכונה בדרך כלל מנוע אנליטיקה — תשתית שנועדה לעבד ולשלוף כמויות גדולות מאוד של דאטה בצורה מהירה, מסוג העומס שחברות מריצות כשהן רוצות לנתח מערכי דאטה עצומים בזמן קרוב לאמת, במקום להמתין לעיבוד אצווה (batch) לילי. MongoDB לא פרסמה את מחיר הרכישה, אף ש-TheMarker דיווחה קודם לכן על מגעים בטווח של 250-300 מיליון דולר. זו הרכישה הראשונה של MongoDB בחברה ישראלית.\n\n## למה חברת מסדי נתונים קונה סטארטאפ אנליטיקה\n\nהמוצר של MongoDB עצמה נבנה בעיקר למשימה אחרת: אחסון ושליפה של הדאטה שמפעיל אפליקציות חיות (מה שמכונה עומסי עבודה \"תפעוליים\" או \"טרנזקציוניים\"), ולא לעיבוד המספרים בקנה מידה גדול שכלי אנליטיקה ובינה עסקית מותאמים לו. כשחברות רוצות יותר ויותר לנתח את אותה דאטה שמפעילה את האפליקציות שלהן — בלי לייצא אותה למערכת נפרדת — יצרני מסדי נתונים נמצאים בלחץ להציע אנליטיקה מהירה בעצמם, או להסתכן בכך שלקוח יפנה לכלי של מתחרה לאותה משימה ספציפית, ובמרוצת הזמן יעביר אליו חלק גדול יותר מהפעילות שלו.\n\n## החלטת \"לבנות או לקנות\"\n\nזו דוגמה נקייה להחלטה אסטרטגית חזרתית בעולם הטכנולוגיה: לבנות או לקנות (build vs. buy). MongoDB יכלה, תיאורטית, להטיל על המהנדסים שלה לבנות טכנולוגיית אנליטיקה בזמן אמת דומה באופן פנימי. האלטרנטיבה — רכישת Firebolt — מחליפה סכום כסף גדול בזמן וסיכון גדולים: המנוע של Firebolt כבר עובד, כבר אומת על ידי לקוחות אמיתיים (מכאן הערתו של פרד רומא שהוא \"הוכח בשטח\"), ומגיע עם צוות מהנדסים שכבר פתר את הבעיות הטכניות הקשות שבדרך. בניית אותה יכולת מאפס בתוך MongoDB הייתה עלולה לקחת שנים רבות, עם סיכוי לא ברור להשיג את מה שלFirebolt יש כבר, ובזמן הזה מתחרים היו יכולים להתרחק עוד יותר קדימה.\n\n## למה זו עסקת \"השלמה\" ולא מיזוג משנה-מציאות\n\nעסקאות רכישה מתוארות אחרת בהתאם למטרתן ולגודלן ביחס לחברה הרוכשת. עסקת \"השלמה\" (tuck-in / bolt-on) היא רכישה יחסית קטנה — כאן, כנראה כמה מאות מיליוני דולרים מול חברה ששווה עשרות מיליארדים — שנעשית כדי לשלב טכנולוגיה או יכולת ספציפית ישירות בתוך קו מוצרים קיים וגדול יותר, ולא כדי לרכוש זרם הכנסות עצמאי גדול או להיכנס לשוק חדש לחלוטין. החברה הנרכשת נקלטת בדרך כלל בתוך כוח המכירות וקו המוצרים הקיימים של הרוכשת, ולא ממשיכה לפעול כעסק נפרד. זה שונה מרכישה \"משנה-מציאות\" או \"פלטפורמתית\", שבה חברה קונה משהו בגודל דומה או גדול יותר ממנה כדי לשנות באופן מהותי את מה שהיא עושה או את גודלה.\n\n## למה זה חשוב\n\nל-MongoDB, ההיגיון נוגע לסגירת פער תחרותי בזול ובמהירות, במקום להפקיר את החלק הזה של השיח התחרותי למתחרים. למשקיעי ועובדי Firebolt, זה אקזיט מוצלח, אם כי צנוע לפי סטנדרטים של עסקאות-מגה בסיליקון ואלי — ולתעשיית ההייטק הישראלית בכללותה, זו עוד נקודת דאטה בזרם עקבי של סטארטאפים מקומיים שנרכשים על ידי חברות פלטפורמה אמריקאיות גדולות יותר במקום לצמוח לכיוון הנפקה ציבורית עצמאית, דפוס שמעצב כמה מהערך שנוצר על ידי הנדסה ישראלית נשאר בסוף בארץ וכמה זורם לרוכשים בחו\"ל.\n\n## מה לעקוב אחריו\n\nהשאלה אם MongoDB תשלב את הטכנולוגיה של Firebolt ישירות בתוך הפלטפורמה המרכזית שלה (ותהפוך אנליטיקה בזמן אמת לפיצ'ר מובנה) או תשאיר אותה כקו מוצר נפרד יותר, תגיד הרבה על כמה מרכזית היכולת הזו לאסטרטגיה ארוכת הטווח של MongoDB, לעומת תיקון הגנתי מהיר."
+      },
+      "tags": [
+        "mongodb",
+        "firebolt",
+        "m-and-a",
+        "israeli-tech"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "חברת MongoDB האמריקאית רוכשת את פיירבולט הישראלית",
+          "url": "https://www.themarker.com/news/2026-11-17/ty-article/000001a1-ea02-d9ff-a7b5-fbae54570000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3978.4199,
+      "prev_close": 3975.3999,
+      "change_pct": 0.08,
+      "as_of": "2026-11-17"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7340.5298,
+      "prev_close": 7416.5898,
+      "change_pct": -1.03,
+      "as_of": "2026-11-17"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2524,
+      "prev_close": 3.2426,
+      "change_pct": 0.3,
+      "as_of": "2026-11-18"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 92.75,
+      "prev_close": 92.44,
+      "change_pct": 0.34,
+      "as_of": "2026-11-17"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 64491.2305,
+      "prev_close": 64855.8438,
+      "change_pct": -0.56,
+      "as_of": "2026-11-18"
+    }
+  }
+}

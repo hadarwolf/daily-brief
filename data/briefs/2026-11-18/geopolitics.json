@@ -1,0 +1,117 @@
+{
+  "section": "geopolitics",
+  "date": "2026-11-18",
+  "title_en": "Geopolitics",
+  "title_he": "גיאופוליטיקה",
+  "default_lang": "en",
+  "generated_at": "2026-11-18T04:06:23+00:00",
+  "stories": [
+    {
+      "id": "trump-xi-putin-shenzhen-summit",
+      "kind": "analysis",
+      "en": {
+        "headline": "Trump heads to Shenzhen for Xi talks, with a possible Putin meeting and new chip curbs looming",
+        "scroll": "Trump arrives in China for APEC talks with Xi and possibly Putin, just as new US curbs on chip exports to China threaten to overshadow a fragile US-China detente.",
+        "coffee": "Donald Trump is in Asia ahead of the APEC summit in Shenzhen, where he'll hold his fourth meeting with Chinese leader Xi Jinping and says he's open to a one-on-one with Vladimir Putin \"if it's available.\" The backdrop is an unusual thaw: the US-China trade war that flared in 2025 is currently in abeyance, with both governments describing a relationship of \"constructive strategic stability.\"\n\nThat thaw is fragile. Days before the summit, Washington tightened restrictions on chip exports and even remote computing access for China, aimed at slowing Beijing's access to advanced AI hardware. The timing is awkward for both sides: Beijing worries the ongoing Nvidia espionage scandal — tied to the ouster of CEO Jensen Huang — will only build more American political pressure for further restrictions, right as Xi is publicly warning against \"rampant\" protectionism and pitching Shenzhen as a model for AI-driven growth.\n\nSeparately, Putin reportedly floated the idea of a three-way Trump-Xi-Putin sit-down as a chance to discuss ending the war in Ukraine — though nothing is confirmed, and Ukraine's own escalation this week (see the Crimean Bridge story) complicates any such overture.",
+        "deep": "## What's happening\n\nDonald Trump is traveling through Asia ahead of the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, stopping first to meet Philippine President Ferdinand Marcos in Manila. In Shenzhen he will hold his fourth meeting with Chinese leader Xi Jinping, and has said he would be open to a separate one-on-one meeting with Russian President Vladimir Putin \"if it's available.\" Reports over the past week suggested Putin himself floated the idea of a three-way Trump-Xi-Putin summit as an opening to discuss ending the war in Ukraine, though no such meeting has been confirmed.\n\n## The fragile detente\n\nThe backdrop is an unusual, and unexpectedly calm, stretch in US-China relations. The trade war that escalated through 2025 is currently in abeyance; both governments have described their relationship in terms of \"constructive strategic stability.\" Xi has used the run-up to the summit to tell Asia-Pacific business leaders that China wants deeper trade cooperation and warned against \"rampant\" protectionism — remarks clearly aimed at Washington, delivered just before he sits down with the person most responsible for the protectionist turn.\n\n## The chip problem\n\nThat calm is colliding with a harder reality: new US restrictions on semiconductor exports to China, and even on remote access to American computing power, were announced just before Trump's trip, specifically targeting the top end of AI chip technology. For China, this is the thing that could derail the broader detente — it reads as the US using trade peace in one hand while tightening the most strategically important lever, advanced chips, in the other. South East Asian governments such as Thailand have already said the new rules threaten their own ambitions to build out AI data-center infrastructure that depends on US chips passing through the region.\n\n## Nvidia's shadow over the summit\n\nComplicating things further is the unfolding Nvidia saga: CEO Jensen Huang resigned last week amid a scandal involving an alleged Chinese intelligence asset, and Singapore-based Nvidia partner Megaspeed is now under US government investigation over suspected illegal chip shipments to China. Beijing's concern, reported by the BBC, is that the scandal will give Washington political cover to tighten chip restrictions even further — exactly as the two governments are trying to project a stable, cooperative image at APEC.\n\n## Why it matters\n\nThis is a case study in how a single industry — advanced semiconductors — now sits at the center of great-power diplomacy. Trade, AI competition, alliance management with South East Asian chip-manufacturing hubs, and a corporate scandal are all compressed into the same week as a high-profile summit meant to showcase cooperation. What happens to the chip restrictions, and whether a Trump-Putin conversation materializes at all, will say more about the direction of US-China-Russia relations over the next year than anything said on stage in Shenzhen.\n\n## What to watch\n\nWatch for whether Trump and Xi address the new chip rules directly, whether any Trump-Putin contact actually happens, and how China's own AI and chip sector — currently rallying bank stocks as investors seek safety away from the volatile US AI trade — responds in the days after the summit."
+      },
+      "he": {
+        "headline": "טראמפ נוסע לשנז'ן לפגוש את שי, עם אפשרות לפגישה עם פוטין ומגבלות שבבים חדשות ברקע",
+        "scroll": "טראמפ מגיע לסין לפסגת APEC עם שי ואולי עם פוטין, בדיוק כשמגבלות יצוא שבבים אמריקניות חדשות מאיימות להעיב על הפשרת היחסים השבירה בין וושינגטון לבייג'ין.",
+        "coffee": "דונלד טראמפ נמצא באסיה לפני פסגת APEC בשנז'ן, שם יקיים את פגישתו הרביעית עם המנהיג הסיני שי ג'ינפינג ואמר שהוא פתוח לפגישה אישית עם ולדימיר פוטין \"אם היא תהיה אפשרית\". הרקע הוא הפשרה חריגה: מלחמת הסחר בין ארה\"ב לסין שהתלקחה ב-2025 מצויה כעת בהקפאה, ושתי הממשלות מתארות את היחסים ביניהן כ\"יציבות אסטרטגית בנאית\".\n\nההפשרה הזו שבירה. ימים לפני הפסגה, וושינגטון החמירה את המגבלות על יצוא שבבים לסין ואף על גישה מרחוק לכוח מחשוב אמריקני, בניסיון להאט את הגישה של בייג'ין לחומרת AI מתקדמת. התזמון מביך לשני הצדדים: בייג'ין חוששת שפרשת הריגול המתגלגלת של אנבידיה — הקשורה להדחתו של המנכ\"ל ג'נסן הואנג — תוסיף לחץ פוליטי אמריקני למגבלות נוספות, בדיוק כששי מזהיר בפומבי מפני פרוטקציוניזם \"פורץ גבולות\" ומציג את שנז'ן כמודל לצמיחה מבוססת AI.\n\nבנפרד, מדווח כי פוטין העלה את רעיון פגישת שלושה בין טראמפ, שי ופוטין כהזדמנות לדון בסיום המלחמה באוקראינה — אף שאין אישור רשמי לפגישה כזו, וההסלמה האוקראינית השבוע (ראו הסיפור על גשר קרים) מסבכת כל יזמה כזו.",
+        "deep": "## מה קורה\n\nדונלד טראמפ עובר באסיה לפני פסגת שיתוף הפעולה הכלכלי אסיה-פסיפיק (APEC) בשנז'ן, ועוצר בתחילה לפגוש את נשיא הפיליפינים פרדיננד מרקוס במנילה. בשנז'ן הוא יקיים את פגישתו הרביעית עם המנהיג הסיני שי ג'ינפינג, ואמר שהוא פתוח לפגישה נפרדת, אישית, עם הנשיא הרוסי ולדימיר פוטין \"אם היא תהיה אפשרית\". דיווחים מהשבוע האחרון העלו כי פוטין עצמו הציע את רעיון פסגת שלושה בין טראמפ, שי ופוטין כפתח לדון בסיום המלחמה באוקראינה, אך פגישה כזו לא אושרה.\n\n## ההפשרה השבירה\n\nהרקע הוא תקופה חריגה, ובאופן בלתי צפוי שלווה, ביחסי ארה\"ב-סין. מלחמת הסחר שהחמירה במהלך 2025 מצויה כעת בהקפאה; שתי הממשלות מתארות את היחסים ביניהן במונחים של \"יציבות אסטרטגית בנאית\". שי ניצל את התקופה שלפני הפסגה כדי לומר למנהיגי עסקים באסיה-פסיפיק שסין רוצה שיתוף פעולה סחר עמוק יותר, והזהיר מפני פרוטקציוניזם \"פורץ גבולות\" — הערות שמכוונות בבירור לוושינגטון, ונאמרות ממש לפני שהוא יושב עם האדם האחראי ביותר לפנייה הפרוטקציוניסטית.\n\n## בעיית השבבים\n\nהרוגע הזה מתנגש במציאות קשה יותר: מגבלות יצוא אמריקניות חדשות על שבבים לסין, ואף על גישה מרחוק לכוח מחשוב אמריקני, הוכרזו ממש לפני נסיעתו של טראמפ, בכוונה למקד בחלק העליון של טכנולוגיית שבבי ה-AI. לסין, זה הדבר שיכול לסכל את ההפשרה הרחבה יותר — זה נקרא כאילו ארה\"ב מציעה שלום מסחרי ביד אחת בזמן שהיא מחמירה ביד השנייה את המנוף האסטרטגי החשוב ביותר, שבבים מתקדמים. מדינות דרום מזרח אסיה כמו תאילנד כבר אמרו שהכללים החדשים מאיימים על שאיפותיהן לבנות תשתיות מרכזי נתונים ל-AI שתלויות בשבבים אמריקניים העוברים באזור.\n\n## צלה של אנבידיה על הפסגה\n\nמה שמסבך עוד יותר הוא פרשת אנבידיה המתגלגלת: המנכ\"ל ג'נסן הואנג התפטר בשבוע שעבר בעקבות שערורייה שכרוכה בה חשודה כמרגלת סינית, וחברת מגהספיד מסינגפור, שותפה של אנבידיה, נמצאת כעת בחקירה של ממשלת ארה\"ב בחשד למשלוחי שבבים בלתי חוקיים לסין. החשש בבייג'ין, כפי שדווח ב-BBC, הוא שהשערורייה תיתן לוושינגטון כיסוי פוליטי להחמיר עוד יותר את מגבלות השבבים — בדיוק כששתי הממשלות מנסות להציג תמונה יציבה ושיתופית בפסגת ה-APEC.\n\n## למה זה חשוב\n\nזהו מקרה בוחן לאופן שבו תעשייה בודדת — שבבים מתקדמים — יושבת כעת במרכז הדיפלומטיה בין המעצמות. סחר, תחרות AI, ניהול בריתות עם מרכזי ייצור שבבים בדרום מזרח אסיה, ושערורייה תאגידית — כולם מתכנסים לאותו שבוע של פסגה רבת פרופיל שנועדה להציג שיתוף פעולה. מה שיקרה למגבלות השבבים, ואם שיחת טראמפ-פוטין תתממש בכלל, יגיד יותר על כיוון היחסים בין ארה\"ב, סין ורוסיה בשנה הקרובה מכל מה שיֵאמר על הבמה בשנז'ן.\n\n## מה לעקוב אחריו\n\nיש לעקוב אם טראמפ ושי יתייחסו ישירות לכללי השבבים החדשים, אם קשר טראמפ-פוטין יתממש בכלל, ואיך מגזר ה-AI והשבבים הסיני עצמו — שמוביל כעת עלייה במניות הבנקים הסיניים כשמשקיעים מחפשים ביטחון מרחיק מסחר ה-AI האמריקני התנודתי — יגיב בימים שלאחר הפסגה."
+      },
+      "tags": [
+        "trump",
+        "xi-jinping",
+        "china",
+        "chips"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "How new US chip restrictions on South East Asia will hit China",
+          "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+          "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "Is China Misreading the Moment?",
+          "url": "https://www.foreignaffairs.com/united-states/china-misreading-moment"
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "The Case for a Trump-Xi-Putin Summit",
+          "url": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Trump to meet Marcos in Manila before China talks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXNLdUFYVWotSVJuaXBZR3Npc3MxWjR3MlVNLWRUOTRmamhKTXo2MElJdmR1NjdmMzdxOHlFbkdOREpPVF9UVTdmQ2VQS1FYeUVVY3lXZTA4SHhPQzZ1UWFGdy1pcEVPbHNmcWlfU1dXbVdRLWxWM1lfNVZkSG9keEFzWV94TlcwajFXbzNleDFCME96ZUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-cripples-crimean-bridge",
+      "kind": "analysis",
+      "en": {
+        "headline": "Ukraine's attack partly collapses the Crimean Bridge, timed to embarrass Putin before his summit",
+        "scroll": "A weeks-planned Ukrainian strike partly collapsed Russia's Crimean Bridge, a symbol of its 2014 annexation, just before Putin's meeting with Trump and Xi — while allies openly disagree over whether such deep strikes are wise.",
+        "coffee": "Ukraine carried out what it describes as a seven-stage missile and drone attack that partially collapsed the Kerch Strait Bridge — the Crimean Bridge — linking Russia to the annexed Crimean peninsula. Ukrainian President Volodymyr Zelensky called the strike, which Ukraine says took weeks to plan, \"unprecedented.\" The bridge isn't just infrastructure: it's the single most visible symbol of Russia's 2014 annexation of Crimea and a key military supply route to Russian forces there.\n\nThe timing looks deliberate. The attack lands just before Vladimir Putin is due in China for a summit alongside Donald Trump and Xi Jinping — a moment Russia likely hoped to use to project strength, not absorb a high-profile embarrassment at home. Reuters framed it plainly as \"a blow to Putin\" ahead of that meeting.\n\nThe strike also reopened a running disagreement among Ukraine's allies: Germany's government publicly rejected US criticism of Kyiv's deep strikes into Russian-held territory as \"stupid,\" while France insisted it is not a \"co-belligerent\" in the war — a sign that even sympathetic Western governments are not fully aligned on how aggressive Ukraine's strikes should get.",
+        "deep": "## What happened\n\nUkraine says it carried out a seven-stage missile and drone attack on the Kerch Strait Bridge — commonly called the Crimean Bridge — that partially collapsed the structure linking Russia to the Crimean peninsula. President Volodymyr Zelensky called it an \"unprecedented\" attack, and Ukrainian officials say it took weeks to plan, implying a deliberate, long-lead operation rather than an opportunistic strike.\n\n## Why the bridge matters\n\nThe Crimean Bridge, opened in 2018, is the physical embodiment of Russia's 2014 annexation of Crimea — a project personally associated with Vladimir Putin, who drove a truck across it at its opening. Beyond the symbolism, it has served as a critical logistics artery for supplying Russian forces in Crimea and southern Ukraine since the start of the full-scale invasion in 2022. Previous Ukrainian attacks on the bridge in 2022 and 2023 caused partial damage and temporary closures; this strike appears to be the most severe yet, inflicting damage described as a partial collapse.\n\n## The timing\n\nThe attack landed just days before Putin is expected in China for the APEC summit, where he may share a stage — or even a room — with Donald Trump and Xi Jinping. Reuters described the strike explicitly as \"a blow to Putin\" ahead of that meeting, and the framing fits: a high-profile symbol of Russian control over occupied territory being damaged just as Putin tries to project strength and diplomatic normalcy on the world stage is a reputational problem as much as a military one.\n\n## The allied rift over deep strikes\n\nThe episode also surfaced tension between Ukraine's Western backers over how far Kyiv should be allowed, or encouraged, to strike inside Russian-held territory. Germany's government publicly and bluntly rejected US criticism of Ukraine's deep strikes as \"stupid\" — unusually sharp language between allies. Separately, France's government felt it necessary to state it is not a \"co-belligerent\" in the war, a legal and political distinction that matters for how far NATO members can support Ukraine's operations without being treated as direct parties to the conflict with Russia. Together, these statements point to real disagreement inside the Western coalition about escalation risk, even as they continue to back Ukraine materially.\n\n## What to watch\n\nRussia's response — militarily and rhetorically — will be the next signal, especially given Moscow's recent pattern of striking Ukrainian bridges and infrastructure in Kyiv. Whether Putin addresses the attack at all while in China, and whether it affects the odds or tone of any Trump-Putin contact, will say something about how much this specific strike has actually changed the diplomatic calculus around ending the war."
+      },
+      "he": {
+        "headline": "התקפה אוקראינית מקריסה חלקית את גשר קרים, בתזמון שמבייש את פוטין לפני פסגתו",
+        "scroll": "תקיפה אוקראינית שתוכננה שבועות הביאה לקריסה חלקית של גשר קרים, סמל הסיפוח הרוסי מ-2014, ממש לפני פגישת פוטין עם טראמפ ושי — בעוד בעלות הברית חלוקות בפומבי על חוכמת תקיפות עומק כאלה.",
+        "coffee": "אוקראינה ביצעה מה שהיא מתארת כהתקפת טילים וכטב\"מים בשבעה שלבים שהביאה לקריסה חלקית של גשר מיצר קרץ' — גשר קרים — המקשר בין רוסיה לחצי האי קרים המסופח. נשיא אוקראינה וולודימיר זלנסקי קרא לתקיפה, שלפי אוקראינה תוכננה שבועות, \"חסרת תקדים\". הגשר הוא לא רק תשתית: הוא הסמל הבולט ביותר של סיפוח קרים הרוסי מ-2014 ונתיב אספקה צבאי מרכזי לכוחות רוסיים באזור.\n\nהתזמון נראה מכוון. ההתקפה מגיעה ממש לפני שפוטין צפוי להגיע לסין לפסגה לצד דונלד טראמפ ושי ג'ינפינג — רגע שרוסיה כנראה קיוותה לנצל כדי לשדר כוח, לא לספוג מבוכה רבת פרופיל בבית. רויטרס הגדירה זאת בפשטות כ\"מכה לפוטין\" לפני אותה פגישה.\n\nהתקיפה גם פתחה מחדש מחלוקת מתמשכת בין בעלות הברית של אוקראינה: ממשלת גרמניה דחתה בפומבי ביקורת אמריקנית על תקיפות העומק של קייב בשטח בשליטה רוסית וקראה לה \"טיפשית\", בעוד צרפת הדגישה שהיא אינה \"שותפה לוחמת\" במלחמה — סימן לכך שאפילו ממשלות מערביות אוהדות אינן מיושרות במלואן בשאלה כמה אגרסיביות צריכות להיות התקיפות האוקראיניות.",
+        "deep": "## מה קרה\n\nאוקראינה אומרת שביצעה התקפת טילים וכטב\"מים בשבעה שלבים על גשר מיצר קרץ' — המוכר כגשר קרים — שהביאה לקריסה חלקית של המבנה המקשר בין רוסיה לחצי האי קרים. הנשיא וולודימיר זלנסקי קרא לה תקיפה \"חסרת תקדים\", ופקידים אוקראינים אומרים שתכנונה נמשך שבועות, מה שמעיד על פעולה מכוונת וארוכת הכנה ולא על תקיפת הזדמנות.\n\n## למה הגשר חשוב\n\nגשר קרים, שנפתח ב-2018, הוא הגילום הפיזי של סיפוח קרים הרוסי מ-2014 — פרויקט המזוהה באופן אישי עם ולדימיר פוטין, שנהג במשאית על הגשר בטקס הפתיחה. מעבר לסמליות, הגשר שימש כעורק לוגיסטי קריטי לאספקת כוחות רוסיים בקרים ובדרום אוקראינה מאז פרוץ הפלישה בקנה מידה מלא ב-2022. תקיפות אוקראיניות קודמות על הגשר ב-2022 וב-2023 גרמו נזק חלקי וסגירות זמניות; תקיפה זו נראית החמורה ביותר עד כה, עם נזק המתואר כקריסה חלקית.\n\n## התזמון\n\nההתקפה מגיעה ממש ימים לפני שפוטין צפוי להגיע לסין לפסגת ה-APEC, שם הוא עשוי לחלוק במה — ואולי אפילו חדר — עם דונלד טראמפ ושי ג'ינפינג. רויטרס תיארה את התקיפה במפורש כ\"מכה לפוטין\" לפני אותה פגישה, וההגדרה מתאימה: סמל רב פרופיל של שליטה רוסית בשטח כבוש שנפגע ממש כשפוטין מנסה לשדר כוח ונורמליות דיפלומטית על הבמה העולמית הוא בעיית תדמית לא פחות מבעיה צבאית.\n\n## השבר בין בעלות הברית סביב תקיפות עומק\n\nהאירוע גם חשף מתח בין התומכים המערביים של אוקראינה סביב השאלה כמה רחוק מותר, או רצוי, שקייב תתקוף בתוך שטח בשליטה רוסית. ממשלת גרמניה דחתה בפומבי ובחדות ביקורת אמריקנית על תקיפות העומק האוקראיניות כ\"טיפשית\" — שפה חדה באופן חריג בין בעלות ברית. בנפרד, ממשלת צרפת ראתה לנכון להצהיר שהיא אינה \"שותפה לוחמת\" במלחמה, הבחנה משפטית ופוליטית שחשובה לשאלה כמה רחוק יכולות מדינות נאט\"ו לתמוך בפעולות אוקראינה מבלי להיחשב לצדדים ישירים לעימות עם רוסיה. יחד, ההצהרות הללו מצביעות על מחלוקת ממשית בתוך הקואליציה המערבית סביב סיכון ההסלמה, גם כשהן ממשיכות לתמוך באוקראינה חומרית.\n\n## מה לעקוב אחריו\n\nתגובת רוסיה — הצבאית והרטורית — תהיה האינדיקציה הבאה, בייחוד בהתחשב בדפוס האחרון של מוסקבה לתקוף גשרים ותשתיות אוקראיניות בקייב. אם פוטין יתייחס לתקיפה כלל בעת ביקורו בסין, ואם היא תשפיע על הסיכויים או הטון של כל קשר טראמפ-פוטין, יגיד משהו על כמה התקיפה הספציפית הזו שינתה בפועל את החשבון הדיפלומטי סביב סיום המלחמה."
+      },
+      "tags": [
+        "ukraine",
+        "russia",
+        "crimea"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "How the attack on Crimean Bridge unfolded",
+          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "German minister rejects US criticism of Kyiv's deep strikes as 'stupid' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmdnNC1aejdXR1ZzZFEzSGVBNEJ5T2VRZTdHTU1mVGlrcnJkZTlacmJ2V3UteWNQZkNKTUpQa1gtRGxNaGV6ejVaM1JQZkszX2FZeWs0RXlQM09aYnBvdllESnktVEZMclBBcnZDNVdremViZjZmSlZHcGRLeHpCLWc3VnQ3M0psWXBReEg2SEZzSmQ0dkVBbU1ZOTVaVGI1Yld6cWNiaXBGeFB5OFZCTA?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "France is not 'co-belligerent' in Ukraine, French minister says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWFlZkhscEw5dks5TlJXenZqOWNDa3d1SUlkWFMwd2dMSUVHakg3b082Z1piQXNUbmttN1pFTkdKT0JiOWowQ0VPLV9MTTN2UnloOVFYOTI3dTg4eGFmSjNSX0pubHk1R05rLS01R241NUd3Qjh4UkUwQUF4QTFwbWJIRDhPTWdmaTB1ZkdLanV3eDY4Rm1xMEMzTWlxbXJh?oc=5"
+        }
+      ]
+    }
+  ]
+}

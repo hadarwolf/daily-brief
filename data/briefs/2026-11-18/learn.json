@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-18",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-18T04:06:23+00:00",
+  "stories": [
+    {
+      "id": "word-bellwether",
+      "kind": "word",
+      "en": {
+        "headline": "Bellwether (מדד מקדים)",
+        "scroll": "A company, stock or data point whose performance is seen as an early signal for a whole sector or the broader economy.",
+        "coffee": "A bellwether is something small and specific that people watch because it seems to predict something much bigger. The word originally referred to the lead sheep in a flock, which wore a bell so shepherds could track the whole herd by following its sound. In business, a bellwether stock or company is one whose results are treated as an early read on an entire industry or the economy overall. Example: \"Investors watch FedEx's earnings closely because the company is seen as a bellwether for global shipping demand.\"",
+        "deep": "Use \"bellwether\" when you want to say that one specific, closely watched thing is treated as a leading indicator for something larger — a company, a swing state in an election, or even a single economic data release. It's slightly different from just being \"important\": a bellwether matters mainly because of what it's believed to reveal about a bigger trend, not necessarily because of its own size. A common confusion is treating any big or famous company as a bellwether — size alone doesn't make something a bellwether; what matters is whether its results are genuinely correlated with, and precede, the broader trend people are trying to predict. More examples: \"Retail sales in this swing county are often called an election bellwether.\" \"Copper prices are a classic bellwether for industrial demand, since the metal is used in so many sectors.\" In Hebrew, the term is מדד מקדים (literally \"a leading indicator\"), sometimes also rendered as נורת אזהרה מוקדמת (\"early warning light\") in a more casual register."
+      },
+      "he": {
+        "headline": "Bellwether (מדד מקדים)",
+        "scroll": "חברה, מניה או נתון שהביצועים שלהם נתפסים כסיגנל מוקדם למגזר שלם או לכלכלה הרחבה יותר.",
+        "coffee": "בלוות'ר (bellwether) הוא משהו קטן וספציפי שאנשים עוקבים אחריו כי הוא נראה מנבא משהו גדול בהרבה. המילה התייחסה במקור לכבשה המובילה בעדר, שנשאה פעמון כדי שרועים יוכלו לעקוב אחרי העדר כולו דרך הצליל שלה. בעסקים, מניה או חברה שהם \"bellwether\" הם כאלה שהתוצאות שלהם נחשבות קריאה מוקדמת לתעשייה שלמה או לכלכלה כולה. דוגמה: \"משקיעים עוקבים בקפידה אחרי הדוחות של פדקס כי החברה נחשבת bellwether לביקוש העולמי למשלוחים\".",
+        "deep": "יש להשתמש ב-\"bellwether\" כשרוצים לומר שדבר אחד ספציפי ונעקב מקרוב נחשב מדד מקדים למשהו גדול יותר — חברה, מחוז מתהפך בבחירות, או אפילו פרסום נתון כלכלי בודד. זה שונה קצת מלהיות סתם \"חשוב\": bellwether חשוב בעיקר בגלל מה שהוא נתפס כחושף על מגמה גדולה יותר, לא בהכרח בגלל גודלו שלו עצמו. בלבול נפוץ הוא להתייחס לכל חברה גדולה או מוכרת כ-bellwether — גודל בלבד לא מספיק; מה שחשוב הוא אם התוצאות שלה אכן מתואמות עם המגמה הרחבה שמנסים לחזות, ומקדימות אותה. עוד דוגמאות: \"מכירות קמעונאיות במחוז המתהפך הזה נקראות לרוב bellwether לבחירות\". \"מחירי נחושת הם bellwether קלאסי לביקוש תעשייתי, כי המתכת משמשת בכך הרבה מגזרים\". בעברית, המונח הוא מדד מקדים, ולעיתים גם נורת אזהרה מוקדמת ברישום יומיומי יותר."
+      },
+      "tags": [
+        "vocabulary",
+        "markets",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-sticker-shock",
+      "kind": "word",
+      "en": {
+        "headline": "Sticker shock (תדהמת מחיר)",
+        "scroll": "The jolt of surprise or dismay when a price turns out to be much higher than expected.",
+        "coffee": "Sticker shock describes the reaction people have when they see a price — often literally on a price tag or \"sticker\" — that's far higher than they anticipated. It's used both for consumers and in business contexts, whenever an actual cost lands well above expectations. Example: \"Customers who upgraded their cloud storage plan got sticker shock when the renewal invoice arrived three times higher than last year's.\"",
+        "deep": "Use \"sticker shock\" specifically for the moment of surprise at a price itself, not for general disappointment with a product or deal. It works well in both consumer contexts (a car, an apartment, a restaurant bill) and B2B contexts (a software renewal quote, a vendor contract). A common confusion is using it for a price that was known in advance but simply disliked — sticker shock specifically implies the number was unexpectedly high, not just unwelcome. More examples: \"The startup's hiring plans ran into sticker shock once they saw enterprise software licensing costs in Israel.\" \"Many first-time home buyers experience sticker shock when they see how much property taxes add to the monthly payment.\" In Hebrew, the phrase is תדהמת מחיר (\"price shock\"), and a close everyday equivalent is ״נפלו מהכיסא מהמחיר״ (\"fell off their chair from the price\")."
+      },
+      "he": {
+        "headline": "Sticker shock (תדהמת מחיר)",
+        "scroll": "ההלם או התדהמה שחשים כשמחיר מתברר כגבוה בהרבה מהצפוי.",
+        "coffee": "\"Sticker shock\" מתאר את התגובה שאנשים חווים כשהם רואים מחיר — לרוב באופן מילולי על תווית מחיר (\"sticker\") — שגבוה בהרבה ממה שציפו לו. המונח משמש גם עבור צרכנים וגם בהקשרים עסקיים, בכל פעם שהעלות בפועל נחתת הרבה מעל הציפיות. דוגמה: \"לקוחות ששדרגו את תוכנית האחסון בענן שלהם חוו תדהמת מחיר כשהחשבון לחידוש הגיע משולש מזה של השנה שעברה\".",
+        "deep": "יש להשתמש ב-\"sticker shock\" ספציפית לרגע ההפתעה מהמחיר עצמו, ולא לאכזבה כללית ממוצר או מעסקה. הביטוי עובד טוב גם בהקשרים צרכניים (רכב, דירה, חשבון במסעדה) וגם בהקשרים עסקיים (הצעת מחיר לחידוש תוכנה, חוזה עם ספק). בלבול נפוץ הוא להשתמש בו למחיר שהיה ידוע מראש אבל סתם לא אהבו אותו — \"sticker shock\" מרמז ספציפית שהמספר היה גבוה באופן בלתי צפוי, לא רק לא רצוי. עוד דוגמאות: \"תכניות הגיוס של הסטארטאפ נתקעו בתדהמת מחיר כשראו את עלויות רישוי התוכנה התאגידית בישראל\". \"הרבה קונים דירה בפעם הראשונה חווים תדהמת מחיר כשהם רואים כמה מיסי הנדל\"ן מוסיפים לתשלום החודשי\". בעברית, הביטוי הוא תדהמת מחיר, ומקביל יומיומי קרוב הוא ״נפלו מהכיסא מהמחיר״."
+      },
+      "tags": [
+        "vocabulary",
+        "pricing",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-cash-cow",
+      "kind": "word",
+      "en": {
+        "headline": "Cash cow (פרת מזומנים)",
+        "scroll": "A reliable, highly profitable product or business unit that keeps generating steady cash with little new investment required.",
+        "coffee": "A cash cow is a product, division or business that consistently \"produces\" strong profits the way a dairy cow reliably produces milk — without needing much further feeding in the form of investment. Companies often use the steady cash from a cash cow to fund riskier, higher-growth bets elsewhere. Example: \"Microsoft's Office software has long been a cash cow that helped fund the company's bigger bets on cloud computing and AI.\"",
+        "deep": "Use \"cash cow\" for a mature product or business line that generates consistent profit with minimal need for new investment — it's a term from the classic \"growth-share matrix\" used in business strategy, which also includes categories like \"stars\" (high growth, high investment) and \"dogs\" (low growth, low profit). A common confusion is calling any profitable business a cash cow; the defining feature isn't just profitability but low ongoing investment needs — a cash cow is a mature, low-growth business that throws off cash rather than reinvesting heavily in its own expansion. More examples: \"The bank's credit-card business is a cash cow that subsidizes its less profitable retail branches.\" \"Analysts worry the company's main cash cow is maturing just as its newer ventures still need years of investment.\" In Hebrew, the term is פרת מזומנים, used in exactly the same sense."
+      },
+      "he": {
+        "headline": "Cash cow (פרת מזומנים)",
+        "scroll": "מוצר או יחידת עסק רווחית ואמינה שממשיכה לייצר מזומן באופן קביע עם מעט מאוד צורך בהשקעה חדשה.",
+        "coffee": "פרת מזומנים (cash cow) היא מוצר, חלוקה או עסק ש\"מייצרים\" באופן עקבי רווחים חזקים, בדומה לפרת חלב שמניבה חלב בקביעות — בלי צורך בהזנה נוספת רבה בדמות השקעה. חברות משתמשות לרוב במזומן היציב מפרת המזומנים כדי לממן הימורים מסוכנים יותר, בעלי פוטנציאל צמיחה גבוה יותר, במקום אחר. דוגמה: \"תוכנת האופיס של מיקרוסופט היוותה זה שנים פרת מזומנים שעזרה לממן את ההימורים הגדולים יותר של החברה על מחשוב בענן ו-AI\".",
+        "deep": "יש להשתמש ב-\"cash cow\" למוצר או קו עסקי בוגר שמייצר רווח עקבי עם צורך מינימלי בהשקעה חדשה — זה מונח ממטריצת \"צמיחה-נתח שוק\" הקלאסית המשמשת באסטרטגיה עסקית, שכוללת גם קטגוריות כמו \"כוכבים\" (צמיחה גבוהה, השקעה גבוהה) ו\"כלבים\" (צמיחה נמוכה, רווח נמוך). בלבול נפוץ הוא לקרוא לכל עסק רווחי פרת מזומנים; המאפיין המגדיר אינו רק רווחיות אלא צורך השקעה שוטף נמוך — פרת מזומנים היא עסק בוגר וצמיחה נמוכה שמפיק מזומן במקום להשקיע באגרסיביות בהתפשטות שלו עצמו. עוד דוגמאות: \"עסק כרטיסי האשראי של הבנק הוא פרת מזומנים שמסבסדת את הסניפים הקמעונאיים הפחות רווחיים שלו\". \"אנליסטים חוששים שפרת המזומנים המרכזית של החברה מתיישנת בדיוק כשהיזמות החדשות שלה עדיין דורשות שנים של השקעה\". בעברית, המונח הוא פרת מזומנים, בשימוש באותה מובן בדיוק."
+      },
+      "tags": [
+        "vocabulary",
+        "strategy",
+        "business-english"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-tuck-in-acquisition",
+      "kind": "concept",
+      "en": {
+        "headline": "Tuck-in acquisitions: buying a small company to get a capability, not a revenue stream",
+        "scroll": "A tuck-in acquisition is a relatively small purchase a company makes to fold a specific technology or team directly into its existing product, rather than to acquire a large standalone business.",
+        "coffee": "When a big company buys a much smaller one, the deal usually isn't about the target's existing revenue — it's about getting technology, talent or a capability faster than building it in-house. These are called \"tuck-in\" or \"bolt-on\" acquisitions: small relative to the buyer, and meant to be absorbed directly into an existing product line rather than run as a separate business.\n\nToday's MongoDB-Firebolt deal is a clean example: MongoDB, a roughly $25 billion database company, is buying Firebolt, a much smaller Israeli startup, specifically for its real-time data-analytics engine — reportedly for somewhere around $250-300 million, a small fraction of MongoDB's own value. MongoDB isn't buying Firebolt's customer base or revenue; it's buying a working piece of technology its own product was missing, plus the engineers who built it.",
+        "deep": "A tuck-in acquisition (also called a \"bolt-on\") is a purchase where a larger company buys a smaller one mainly to acquire a specific technology, product capability or team — not to gain a large independent revenue stream or enter an entirely new market. The target is typically absorbed directly into the buyer's existing product and sales organization, rather than continuing to operate as a standalone business with its own brand and go-to-market strategy.\n\nThe core economic logic is a build-vs-buy tradeoff, but specifically at small scale: when the gap a company needs to close is narrow and well-defined, and a smaller company has already built and proven a solution to it, paying a relatively modest premium to acquire that solution is often cheaper and faster than building it from scratch — even though the acquirer could, technically, build something similar given enough time and engineers.\n\n**A worked example.** Take this week's deal: MongoDB, a roughly $25 billion company whose core database product is built for storing and retrieving live application data, wanted real-time analytics capability — fast processing of very large datasets — that its own platform wasn't originally designed for. Building that from scratch internally might take MongoDB several years and hundreds of engineers, with no guarantee of matching what a specialized competitor already has. Instead, MongoDB is reportedly paying around $250-300 million — against a company worth roughly $25 billion, that's roughly 1% of MongoDB's market value — to acquire Firebolt, an Israeli startup whose analytics engine is already built, already proven with real customers, and comes with the team that built it. MongoDB's own VP of engineering described Firebolt's technology as \"proven in the field,\" which is exactly the point: the acquisition buys certainty and speed, not just code.\n\nThis is different from a \"platform\" or \"transformative\" acquisition, where a company buys something close to its own size (or bigger) to fundamentally change its scale or business model — think of an airline buying another major airline, versus an airline buying a small software company that built a better check-in app.\n\n**Why it matters for how you read M&A news.** The size of a deal relative to the buyer, and whether the target gets absorbed or kept independent, tells you a lot about its strategic purpose. A $250 million purchase by a $25 billion company is not a bet-the-company move — it's a cheap insurance policy against a competitor reaching feature parity first, and a shortcut past years of uncertain internal R&D."
+      },
+      "he": {
+        "headline": "עסקות רכישת-השלמה: לקנות חברה קטנה כדי לקבל יכולת, לא זרם הכנסות",
+        "scroll": "עסקת רכישת-השלמה (tuck-in) היא רכישה קטנה יחסית שחברה עושה כדי לשלב טכנולוגיה או צוות ספציפי ישירות בתוך המוצר הקיים שלה, ולא כדי לרכוש עסק עצמאי גדול.",
+        "coffee": "כשחברה גדולה רוכשת חברה הרבה יותר קטנה, העסקה בדרך כלל אינה נוגעת להכנסות הקיימות של הנרכשת — היא נוגעת לקבלת טכנולוגיה, כישרון או יכולת, מהר יותר מבנייתם בבית. אלה נקראות עסקות \"השלמה\" (tuck-in / bolt-on): קטנות יחסית לרוכשת, ומיועדות להיקלט ישירות בתוך קו מוצר קיים ולא לפעול כעסק נפרד.\n\nעסקת MongoDB-Firebolt של היום היא דוגמה נקייה: MongoDB, חברת מסדי נתונים ששווה בערך 25 מיליארד דולר, רוכשת את Firebolt, סטארטאפ ישראלי הרבה יותר קטן, ספציפית בשביל מנוע האנליטיקה שלו בזמן אמת — כנראה בסביבות 250-300 מיליון דולר, שבר קטן משוויה של MongoDB עצמה. MongoDB לא קונה את בסיס הלקוחות או ההכנסות של Firebolt; היא קונה פיסת טכנולוגיה עובדת שהמוצר שלה עצמה חסר, בתוספת המהנדסים שבנו אותה.",
+        "deep": "עסקת רכישת-השלמה (tuck-in, הנקראת גם \"bolt-on\") היא רכישה שבה חברה גדולה יותר קונה חברה קטנה יותר בעיקר כדי לרכוש טכנולוגיה ספציפית, יכולת מוצר או צוות — לא כדי להשיג זרם הכנסות עצמאי גדול או להיכנס לשוק חדש לחלוטין. הנרכשת נקלטת בדרך כלל ישירות בתוך מערך המוצר והמכירות הקיים של הרוכשת, ולא ממשיכה לפעול כעסק עצמאי עם מותג ואסטרטגיית שוק משל עצמה.\n\nההיגיון הכלכלי הבסיסי הוא החלטת \"לבנות או לקנות\", אך ספציפית בקנה מידה קטן: כשהפער שחברה צריכה לסגור הוא צר ומוגדר היטב, וחברה קטנה יותר כבר בנתה והוכיחה פתרון לו, שלם פרמיה יחסית מתונה לרכישת הפתרון הזה הוא לרוב זול ומהיר יותר מבנייתו מאפס — אפילו אם הרוכשת יכולה, טכנית, לבנות משהו דומה בהינתן זמן ומהנדסים מספיקים.\n\n**דוגמה מחושבת.** קחו את עסקת השבוע הזה: MongoDB, חברה ששווה בערך 25 מיליארד דולר ושמוצר מסד הנתונים המרכזי שלה נבנה לאחסון ושליפה של דאטה של אפליקציות חיות, רצתה יכולת אנליטיקה בזמן אמת — עיבוד מהיר של מערכי דאטה גדולים מאוד — שהפלטפורמה שלה עצמה לא נועדה לכך במקור. בניית זה מאפס פנימית הייתה עלולה לקחת ל-MongoDB כמה שנים ומאות מהנדסים, בלי שום הבטחה להשיג את מה שמתחרה ייחודי כבר יש לו. במקום זאת, MongoDB משלמת כנראה כ-250-300 מיליון דולר — מול חברה ששווה כ-25 מיליארד דולר, זה בערך 1% משווי השוק של MongoDB — כדי לרכוש את Firebolt, סטארטאפ ישראלי שמנוע האנליטיקה שלו כבר בנוי, כבר הוכח עם לקוחות אמיתיים, ומגיע עם הצוות שבנה אותו. סמנכ\"ל ההנדסה של MongoDB עצמה תיאר את הטכנולוגיה של Firebolt כ\"מוכחת בשטח\", וזו בדיוק הנקודה: הרכישה קונה ביטחון ומהירות, לא רק קוד.\n\nזה שונה מרכישה \"פלטפורמתית\" או \"משנה-מציאות\", שבה חברה קונה משהו קרוב לגודלה שלה (או גדול יותר) כדי לשנות באופן מהותי את קנה המידה או מודל העסקים שלה — חשבו על חברת תעופה שרוכשת חברת תעופה גדולה אחרת, לעומת חברת תעופה שרוכשת חברת תוכנה קטנה שבנתה אפליקציית צ'ק-אין טובה יותר.\n\n**למה זה חשוב לאופן שבו קוראים חדשות מיזוגים ורכישות.** גודל העסקה ביחס לרוכשת, והאם הנרכשת נקלטת פנימה או נשארת עצמאית, אומרים הרבה על המטרה האסטרטגית שלה. רכישה של 250 מיליון דולר על ידי חברה ששווה 25 מיליארד דולר אינה הימור על גורל החברה — זו פוליסת ביטוח זולה מפני מתחרה שמגיע ראשון לשוויון יכולות, וקיצור דרך שחוסך שנים של מחקר ופיתוח פנימי לא בטוח."
+      },
+      "tags": [
+        "concept",
+        "mergers-and-acquisitions",
+        "strategy"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-goodridge-same-sex-marriage",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "2003: Massachusetts becomes the first US state to legalize same-sex marriage",
+        "scroll": "On this day in 2003, Massachusetts's highest court ruled that the state constitution required recognizing same-sex marriage, the first such ruling by a US state's top court.",
+        "coffee": "On November 18, 2003, the Massachusetts Supreme Judicial Court ruled in Goodridge v. Department of Public Health that the state's constitution required Massachusetts to legally recognize marriages between same-sex couples. It was the first time a US state's highest court had reached that conclusion, making Massachusetts the first state in the country to legalize same-sex marriage.\n\nThe ruling didn't take effect immediately — same-sex couples began receiving marriage licenses only in May 2004, after attempts to delay or reverse the decision failed. But its significance went well beyond one state: it opened a legal and political fight over same-sex marriage that played out across the US for the following decade, state by state and eventually at the US Supreme Court, which extended the right nationwide in 2015. Goodridge is widely treated as the case that started that chain of events.",
+        "deep": "## The ruling\n\nOn November 18, 2003, the Massachusetts Supreme Judicial Court — the state's highest court — issued its decision in Goodridge v. Department of Public Health, ruling that the Massachusetts Constitution required the state to legally recognize marriage between same-sex couples. It was a narrow legal question with an enormous practical consequence: whether a state's existing marriage laws, as written, could be read to exclude same-sex couples without violating the state's own constitutional guarantees.\n\n## Why it was unprecedented\n\nOther US courts and legislatures had wrestled with questions around same-sex relationships and partnership rights before, including civil-union frameworks in some states. But Goodridge was the first ruling by any US state's highest court to conclude that the state constitution itself required full marriage recognition, not just a separate, lesser legal status. That distinction mattered enormously to advocates on both sides of the debate: a \"separate but equal\" partnership status was treated by the court as constitutionally insufficient.\n\n## What happened next\n\nThe ruling triggered immediate political pushback, including multiple attempts in the Massachusetts legislature to delay or overturn it. Those efforts failed, and the first marriage licenses were issued to same-sex couples starting May 17, 2004 — about six months after the ruling.\n\n## The longer arc\n\nGoodridge is widely regarded as the opening move in a fight over same-sex marriage that unfolded across the United States for the next twelve years: other states followed with their own court rulings, ballot measures and legislation, some expanding recognition and others explicitly banning it, through the 2000s and 2010s. That state-by-state patchwork was eventually resolved nationally in 2015, when the US Supreme Court ruled in Obergefell v. Hodges that same-sex couples have a constitutional right to marry throughout the country. Legal historians commonly trace a direct line from the Massachusetts court's reasoning in 2003 to the framework the US Supreme Court ultimately adopted more than a decade later — making November 18, 2003 a plausible starting point for one of the more consequential civil-rights shifts in recent American legal history."
+      },
+      "he": {
+        "headline": "2003: מסצ'וסטס הופכת למדינה האמריקאית הראשונה שמחילה נישואים חד-מיניים",
+        "scroll": "ביום זה ב-2003, בית המשפט הגבוה ביותר של מסצ'וסטס קבע שחוקת המדינה מחייבת הכרה בנישואים חד-מיניים, פסיקה ראשונה כזו מצד בית משפט מדינתי עליון בארה\"ב.",
+        "coffee": "ב-18 בנובמבר 2003, בית המשפט השיפוטי העליון של מסצ'וסטס פסק בתיק גודרידג' נגד מחלקת הבריאות הציבורית כי חוקת המדינה מחייבת את מסצ'וסטס להכיר באופן חוקי בנישואים בין בני זוג מאותו מגדר. זו הייתה הפעם הראשונה שבית משפט עליון של מדינה אמריקאית הגיע למסקנה הזו, מה שהפך את מסצ'וסטס למדינה הראשונה בארה\"ב שהחילה נישואים חד-מיניים.\n\nהפסיקה לא נכנסה לתוקף באופן מיידי — בני זוג חד-מיניים התחילו לקבל רישיונות נישואים רק במאי 2004, אחרי שניסיונות לדחות או להפוך את ההחלטה נכשלו. אך המשמעות שלה עלתה בהרבה מעל מדינה אחת: היא פתחה מאבק משפטי ופוליטי סביב נישואים חד-מיניים שהתגלגל ברחבי ארה\"ב במשך העשור שלאחר מכן, מדינה אחר מדינה, ולבסוף גם בבית המשפט העליון של ארה\"ב, שהרחיב את הזכות לכל המדינה ב-2015. גודרידג' נחשב בעיני רבים לתיק שהתחיל את שרשרת האירועים הזו.",
+        "deep": "## הפסיקה\n\nב-18 בנובמבר 2003, בית המשפט השיפוטי העליון של מסצ'וסטס — בית המשפט הגבוה ביותר במדינה — פרסם את פסיקתו בתיק גודרידג' נגד מחלקת הבריאות הציבורית, בקביעה שחוקת מסצ'וסטס מחייבת את המדינה להכיר באופן חוקי בנישואים בין בני זוג מאותו מגדר. זו הייתה שאלה משפטית מצומצמת עם השלכה מעשית עצומה: האם חוקי הנישואים הקיימים של המדינה, כפי שנכתבו, יכולים להתפרש כשוללים בני זוג מאותו מגדר מבלי להפר את ערבויות החוקה של המדינה עצמה.\n\n## למה זה היה חסר תקדים\n\nבתי משפט ורשויות מחוקקות אמריקאיות אחרות נאבקו קודם לכן בשאלות סביב יחסים חד-מיניים וזכויות שותפות, כולל מסגרות של \"ברית זוגיות\" (civil union) במדינות מסוימות. אך גודרידג' הייתה הפסיקה הראשונה של בית משפט עליון במדינה אמריקאית כלשהי שהסיקה שחוקת המדינה עצמה מחייבת הכרה מלאה בנישואים, לא רק מעמד משפטי נפרד ונחות. ההבחנה הזו היתה משמעותית עד מאוד לתומכים בשני צדי הדיון: מעמד שותפות \"נפרד אך שווה\" נחשב בעיני בית המשפט כלא מספק חוקתית.\n\n## מה קרה בהמשך\n\nהפסיקה עוררה דחיפה פוליטית נגדית מיידית, כולל כמה ניסיונות בבית המחוקקים של מסצ'וסטס לדחות או להפוך אותה. ניסיונות אלה נכשלו, ורישיונות הנישואים הראשונים הונפקו לבני זוג מאותו מגדר החל מ-17 במאי 2004 — כחצי שנה אחרי הפסיקה.\n\n## הקשת הארוכה יותר\n\nגודרידג' נחשב בעיני רבים למהלך הפותח במאבק סביב נישואים חד-מיניים שהתגלגל ברחבי ארצות הברית במשך שתים-עשרה השנים שלאחר מכן: מדינות אחרות הגיבו עם פסיקות, הצבעות ציבוריות וחקיקה משל עצמן, חלקן הרחיבו הכרה ואחרות אסרו עליה במפורש, במהלך שנות ה-2000 וה-2010. הפסיפס המדינתי הזה נפתר בסופו של דבר ברמה הלאומית ב-2015, כשבית המשפט העליון של ארה\"ב פסק בתיק אוברגפל נגד הודג'ס שלבני זוג מאותו מגדר יש זכות חוקתית להינשא בכל המדינה. היסטוריונים משפטיים נוהגים לשרטט קו ישיר מההיגיון של בית המשפט במסצ'וסטס ב-2003 למסגרת שבית המשפט העליון של ארה\"ב אימץ בסוף יותר מעשור לאחר מכן — מה שהופך את ה-18 בנובמבר 2003 לנקודת פתיחה סבירה לאחד השינויים המשמעותיים יותר בזכויות האזרח בהיסטוריה המשפטית האמריקאית העדכנית."
+      },
+      "tags": [
+        "on-this-day",
+        "law",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "2003: With its ruling in Goodridge v. Department of Public Health, the Massachusetts Supreme Judicial Court made the state the first in the U.S. to legalize same-sex marriage.",
+          "url": "https://en.wikipedia.org/wiki/Goodridge_v._Department_of_Public_Health"
+        }
+      ]
+    }
+  ]
+}

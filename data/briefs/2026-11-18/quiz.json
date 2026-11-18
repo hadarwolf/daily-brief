@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-18",
+  "questions": [
+    {
+      "id": "q1-kahana-speaker",
+      "section": "israeli_politics",
+      "story_id": "kahana-elected-knesset-speaker",
+      "answer_index": 2,
+      "en": {
+        "question": "What did Matan Kahana's election as Knesset speaker actually change?",
+        "options": [
+          "It formally merged the Haredi parties into the Eisenkot-aligned bloc",
+          "It confirmed Benjamin Netanyahu as the next prime minister",
+          "It handed control of the Knesset's leadership to the bloc negotiating to form the next government",
+          "It immediately dissolved the Knesset and triggered new elections"
+        ],
+        "explanation": "Kahana's election handed the speaker's chair, a real procedural lever over the Knesset's agenda, to the Eisenkot-aligned bloc, while who ultimately forms the next government remained unresolved."
+      },
+      "he": {
+        "question": "מה בפועל שינתה בחירתו של מתן כהנא ליו\"ר הכנסת?",
+        "options": [
+          "היא מיזגה רשמית את המפלגות החרדיות לתוך הגוש המזוהה עם איזנקוט",
+          "היא אישרה את בנימין נתניהו כראש הממשלה הבא",
+          "היא העבירה את השליטה בניהול הכנסת לגוש שמנהל מגעים להקמת הממשלה הבאה",
+          "היא פירקה את הכנסת באופן מיידי והובילה לבחירות חדשות"
+        ],
+        "explanation": "בחירתו של כהנא העבירה את כס היו\"ר, מנוף פרוצדורלי ממשי על סדר היום של הכנסת, לגוש המזוהה עם איזנקוט, בעוד שהשאלה מי יקים בסוף את הממשלה הבאה נותרה פתוחה."
+      }
+    },
+    {
+      "id": "q2-mongodb-firebolt",
+      "section": "business",
+      "story_id": "mongodb-acquires-firebolt",
+      "answer_index": 0,
+      "en": {
+        "question": "Why did MongoDB acquire the Israeli startup Firebolt?",
+        "options": [
+          "To add a proven real-time data-analytics engine instead of spending years building one in-house",
+          "To enter the cloud storage market for the first time",
+          "To acquire Firebolt's large existing customer base and revenue",
+          "To merge with a competitor of similar size and scale"
+        ],
+        "explanation": "It was a 'tuck-in' acquisition: MongoDB paid for already-proven analytics technology and the team that built it, rather than for Firebolt's revenue or scale."
+      },
+      "he": {
+        "question": "למה MongoDB רכשה את הסטארטאפ הישראלי Firebolt?",
+        "options": [
+          "כדי להוסיף מנוע אנליטיקה מוכח בזמן אמת במקום לבזבז שנים בבנייתו בבית",
+          "כדי להיכנס לשוק אחסון הענן בפעם הראשונה",
+          "כדי לרכוש את בסיס הלקוחות הגדול וההכנסות הקיימות של Firebolt",
+          "כדי להתמזג עם מתחרה בגודל ובקנה מידה דומים"
+        ],
+        "explanation": "זו הייתה עסקת \"השלמה\" (tuck-in): MongoDB שילמה על טכנולוגיית אנליטיקה שכבר הוכחה ועל הצוות שבנה אותה, לא על ההכנסות או קנה המידה של Firebolt."
+      }
+    },
+    {
+      "id": "q3-crimean-bridge-timing",
+      "section": "geopolitics",
+      "story_id": "ukraine-cripples-crimean-bridge",
+      "answer_index": 2,
+      "en": {
+        "question": "Why was the timing of Ukraine's strike on the Crimean Bridge seen as significant?",
+        "options": [
+          "It was launched right after NATO announced new membership for Ukraine",
+          "It happened the same day Russia and Ukraine signed a ceasefire",
+          "It came just before Putin's planned trip to China for a summit alongside Trump and Xi",
+          "It coincided with the bridge's official opening ceremony"
+        ],
+        "explanation": "Reuters described the strike as 'a blow to Putin' precisely because it landed days before he was due to appear at a high-profile summit in China with Trump and Xi."
+      },
+      "he": {
+        "question": "למה התזמון של התקיפה האוקראינית על גשר קרים נחשב משמעותי?",
+        "options": [
+          "היא שוגרה ממש אחרי שנאט\"ו הכריזה על חברות חדשה לאוקראינה",
+          "היא קרתה באותו יום שבו רוסיה ואוקראינה חתמו על הפסקת אש",
+          "היא הגיעה ממש לפני הנסיעה המתוכננת של פוטין לסין לפסגה לצד טראמפ ושי",
+          "היא חפפה את טקס הפתיחה הרשמי של הגשר"
+        ],
+        "explanation": "רויטרס תיארה את התקיפה כ\"מכה לפוטין\" בדיוק בגלל שהיא נחתה ימים לפני שהיה צפוי להופיע בפסגה רבת פרופיל בסין לצד טראמפ ושי."
+      }
+    }
+  ]
+}
