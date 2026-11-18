@@ -141,6 +141,108 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    ]
   },
   {
+   "outlet": "Geektime (Israeli tech)",
+   "lang": "he",
+   "items": [
+    {
+     "ref": "geektime#0",
+     "title": "אירוע בהזמנה בלבד: כך תתגוננו מפני מתקפות AI עם הכלים של Google Cloud",
+     "published": "2026-11-18T09:33:03+00:00",
+     "summary": "כשמדברים על הגנת סייבר, סוכני AI הם גם הבעיה וגם הפתרון: תוקפים משתמשים בהם כדי לייצר מתקפות פישינג משכנעות בעברית מושלמת, לזייף קולות של מנהלים, לסרוק חולשות בקנה מידה עצום ולהריץ קמפיינים שפעם דרשו צוות שלם. באותו זמן, הארגונים עצמם מכניסים AI לכל פינה: עוזרים חכמים לעובדים, סוכנים אוטונומיים שמבצעים פעולות במערכות הליבה ומודלים שנוגעים […] The post אירוע בהזמנה בלבד: כך תתגוננו מפני מתקפות AI ע"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "גוגל הופכת את הסוכנים שלה לחינמיים",
+     "published": "2026-11-18T08:55:38+00:00",
+     "summary": "בא לכם עוזר אישי שמתקשר למוסך, בודק למה חשבון החשמל שלכם קפץ לשמיים וגם קונה לכם קורנפלקס על הדרך? גוגל לוקחת את סוכן ה-AI שלה צעד אחד קדימה, משנה לו את השם, והכי חשוב: פותחת אותו לכולם לגמרי בחינם. הנה כל מה שאתם צריכים לדעת על המהלך החדש שמאיים לבלוע את המתחרות כמו אינסטינקט, Muse של […] The post גוגל הופכת את הסוכנים שלה לחינמיים appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#2",
+     "title": "ה-AI של מטא חסם את ה-AI של מטא, אז הוא תבע אותה",
+     "published": "2026-11-18T08:21:40+00:00",
+     "summary": "אחרי שנים שמארק צוקרברג ומטא נותרו מאחור במירוץ ה-AI, נראה שכל המיליארדים עשו את שלהם, והחברה גילתה את עצמה מחדש עם Muse, סוכן ה-AI של החברה שכבר הגיע ללא מעט משתמשים תוך זמן קצר. אבל עכשיו נראה ש-Muse כל כך מוצלח במה שהוא עושה, שהוא עוזר למישהו לתבוע את… מטא. כשמטא חושדת בסוכן של עצמה […] The post ה-AI של מטא חסם את ה-AI של מטא, אז הוא תבע אותה appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#3",
+     "title": "בזמן שישנתם: חולשת אבטחה קריטית ב-Java. לכו לעדכן",
+     "published": "2026-11-18T06:46:22+00:00",
+     "summary": "זוכרים את Log4j? התגעגעתם? אה לא? ובכן, חבל. תגידו שלום ל-Java4Shell, חולשת אבטחה קריטית (CVE-2026-114938) במפענח ה-Base64 של OpenJDK. על פי חוקרי חברת Calif, שגילו את החולשה, היא מאפשרת הרצת קוד מרחוק ללא צורך באימות על שרתים עם מעבדי x86-64 שתומכים ב-AVX-512. המערכות הפגיעות כוללות כלים פופולריים בחברות טק כמו Jira ו-Jenkins שמריצים Java 17 […] The post בזמן שישנתם: חולשת אבטחה קריטית ב-Java. לכ"
+    },
+    {
+     "ref": "geektime#4",
+     "title": "תקלה רחבה בשירותי אפל: App Store ו-iCloud קרסו",
+     "published": "2026-11-17T20:33:10+00:00",
+     "summary": "זה לא רק אצלכם. משתמשי אפל בכל העולם דיווחו בשעות האחרונות על שיבושים נרחבים במספר שירותים מרכזיים של החברה. על פי עמוד הסטטוס של אפל, נרשמו השבתות מלאות ב-App Store לצד תקלות ביישומי הרשת ובעיות בהתחברות לשירותי iCloud ול-AppleCare. בנוסף, התלוננו משתמשים על שיבושים ברשת Find My וכן ב-iCloud‌ Mail, ‌iCloud‌ Calendar ו-iCloud‌ Contacts. התקלות […] The post תקלה רחבה בשירותי אפל: App Store ו-iCloud"
+    },
+    {
+     "ref": "geektime#5",
+     "title": "בלי טובות מגוגל או אפל: עכשיו וואטסאפ מאפשרת לכם לגבות שיחות אצלה",
+     "published": "2026-11-17T16:40:35+00:00",
+     "summary": "אם נשים רגע בצד את התמונות שאתם מצלמים בטלפון, סביר להניח שאת מירב נפח האחסון בגיבוי בענן שלכם תופס בכלל הגיבוי של וואטסאפ. בכל זאת, כל ההתכתבויות, וגם התמונות והסרטונים שלנו נמצאים שם. אבל עכשיו נראה שבמטא רוצים לשחרר אתכם מהתלות בשירותי האחסון של גוגל ואפל כדי לגבות את השיחות שלכם. אז איך זה יעבוד […] The post בלי טובות מגוגל או אפל: עכשיו וואטסאפ מאפשרת לכם לגבות שיחות אצלה appeared first on גי"
+    },
+    {
+     "ref": "geektime#6",
+     "title": "חברת MongoDB רוכשת את הסטארטאפ הישראלי Firebolt",
+     "published": "2026-11-17T15:10:40+00:00",
+     "summary": "ענקית הדאטה האמריקאית MongoDB הודיעה היום (ג') כי תרכוש את הסטארטאפ הישראלי Firebolt, שמפתח מנוע לעיבוד דאטה עצום בזמן אמת. החברה האמריקאית נסחרת היום סביב שווי של כ-25 מיליארד דולר וזו הרכישה הראשונה שלה בישראל. בתגובה לרכישה אמר פרד רומא, סמנכ\"ל ההנדסה ב-MongoDB ש\"מנוע האנליטיקה של Firebolt הוכח בשטח\". מושה פסומנסקי, סמנכ\"ל הטכנולוגיות של Firebolt, […] The post חברת MongoDB רוכשת את הסטארטאפ היש"
+    },
+    {
+     "ref": "geektime#7",
+     "title": "סטארטאפ ישראלי שנחשף היום טוען: \"משרדי היח\"צ ברובם ימותו\"",
+     "published": "2026-11-17T14:00:01+00:00",
+     "summary": "יזמים רבים שמצליחים לגייס הון או להשיק מוצר או פיצ'ר חדש, חושבים שזו היתה העבודה הקשה. אבל אז, כשהם רוצים גם שכולם ידעו על זה, הם מגלים שגם זו משימה לא פשוטה, ואז הם נדרשים לעבוד עם משרדי יח\"צ עם דרישות, פגישות וכמובן ריטיינר כבד. אבל מה אם אפשר היה להחליף את כל האופרציה הזו […] The post סטארטאפ ישראלי שנחשף היום טוען: \"משרדי היח\"צ ברובם ימותו\" appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#8",
+     "title": "124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל",
+     "published": "2026-11-17T13:00:43+00:00",
+     "summary": "בשנים האחרונות, עם הקשיים בהן נתקלות חברות ה-AI הגדולות, החל להתפתח הרעיון של הצבת דאטה סנטרים ולוויינים מיוחדים בחלל. אחד הסטארטאפים הישראלים הוותיקים בתחום הזה הוא Ramon.Space, שמפתח שבבים שיכולים לספק ביצועים של מערכות מחשוב על הקרקע – אבל בתנאים הבלתי אפשריים של החלל. היום (ג') הוא מכריז על מגה-גיוס מרשים. האם SpaceX כבר לקוחה? […] The post 124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנ"
+    },
+    {
+     "ref": "geektime#9",
+     "title": "ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונרים",
+     "published": "2026-11-17T12:24:02+00:00",
+     "summary": "אנת'רופיק, החברה שעומדת מאחורי Claude, צפויה לצאת להנפקה ביום חמישי הקרוב (תחת הסימול ANT) לפי שווי שיכול להגיע לעד 1.4 טריליון דולר. המשמעות עבור 5,300 עובדי החברה? חבילות המניות והאופציות שלהם צפויות לקבל שווי שוק, ויהפכו לכסף נזיל בהדרגה בשווי אסטרונומי של כ-216 מיליארד דולר. ממוצע של 41 מיליון דולר לעובד, אבל חלק גם יקבלו […] The post ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונ"
+    },
+    {
+     "ref": "geektime#10",
+     "title": "לפני שורת הקוד הראשונה: מדריך מזורז לאפיון פרויקט AI",
+     "published": "2026-11-17T09:32:33+00:00",
+     "summary": "מאת ערן פוקס מודלי AI עובדים מהר, ומבזבזים אפילו מהר יותר. למרות הפוטנציאל העצום שלהם בפרויקטים מורכבים, חוסר דיוק בשלב האפיון מתורגם לעוד הרצות, תיקונים ושעות פיתוח. וכשהתמחור הוא לפי צריכה, הסבבים האלה מייקרים את כל העסק. במקרים רבים, הבעיות מתגלות בשלב מאוחר מדי: פתרון שעובד יפה בקנה מידה קטן, עלול להתגלות כיקר או לא […] The post לפני שורת הקוד הראשונה: מדריך מזורז לאפיון פרויקט AI appeared fir"
+    },
+    {
+     "ref": "geektime#11",
+     "title": "חרם חרם, אבל כשהאירים רוצים להגן על בכירים, הם רוכשים טכנולוגיה ישראלית",
+     "published": "2026-11-17T08:42:31+00:00",
+     "summary": "אין ספק שבשנים האחרונות אירלנד היא אחת המדינות שמובילות את הקו התקיף ביותר נגד ישראל, עם שורת צעדים מדיניים וכלכליים, בהם גם החלטה להפסיק לרכוש ציוד ביטחוני מתוצרת ישראל. אבל מתברר שכשצריך להגן על מנהיגים ומדינאים, גם החרם הזה יכול להפוך ל… מעט יותר גמיש. למרות החרם, קונים כחול-לבן דיווח חדש חושף כי המשטרה האירית […] The post חרם חרם, אבל כשהאירים רוצים להגן על בכירים, הם רוכשים טכנולוגיה ישראלית "
+    },
+    {
+     "ref": "geektime#12",
+     "title": "הנתונים חושפים: כמה ישראלים לוקחים חופש השבוע בגלל GTA 6?",
+     "published": "2026-11-17T07:35:15+00:00",
+     "summary": "בלילה שבין יום רביעי לחמישי תיעשה היסטוריה: אחרי 13 שנים ארוכות ומלאות במימים זה סוף סוף יקרה, ו-GTA 6 ישוחרר (וישבור על הדרך את כל שיאי ההכנסות). אבל לתאריך השחרור של המשחק המצופה יש גם השפעות ישירות על הכלכלה העולמית, כאשר בעולם כבר נשמעות הערכות על היעלמויות המוניות ומסתוריות ממקומות העבודה. אז יצאנו לבדוק האם […] The post הנתונים חושפים: כמה ישראלים לוקחים חופש השבוע בגלל GTA 6? appeared first"
+    },
+    {
+     "ref": "geektime#13",
+     "title": "פעם ראשונה בלי ג'נסן: NVIDIA חושפת את המעבדים המפלצתיים החדשים שלה",
+     "published": "2026-11-16T16:00:54+00:00",
+     "summary": "השבוע האחרון ייזכר כנראה כאחד השבועות השחורים והסוערים בתולדות NVIDIA. בין פרשיית הריגול המביכה, הבגידה והרומן מחוץ לנישואין, ורעידת האדמה עם התפטרותו של המנכ\"ל והמייסד האגדי ג'נסן הואנג, אפשר היה לחשוב שהחברה תוריד פרופיל. אבל בכנס SC26 שנערך היום (ב') בשיקגו, נראה שענקית השבבים מנסה לשדר שההצגה חייבת להימשך והיא מציגה צ'יפים חדשים. \"סימולציה מהירה […] The post פעם ראשונה בלי ג'נסן: NVIDIA חושפת "
+    },
+    {
+     "ref": "geektime#14",
+     "title": "הגארדיאן: ישראל העלתה מיליוני תמונות של פלסטינים למערכת זיהוי הפנים של AWS",
+     "published": "2026-11-16T13:22:27+00:00",
+     "summary": "לפני כשנה הודיעה מיקרוסופט כי היא חוסמת את הגישה של יחידת 8200 ל-Azure בטענה שצה\"ל עשה שימוש אסור בשירותי הענן של החברה. עכשיו מעלה תחקיר חדש טענות דומות נגד צה\"ל, במה שעלול לדחוק אותו מתשתית הענן הגדולה בעולם. 3.5 מיליון תמונות במערכת תחקיר של הגרדיאן הבריטי טוען כי צה\"ל העלה בתחילת 2024 כ-3.5 מיליון תמונות […] The post הגארדיאן: ישראל העלתה מיליוני תמונות של פלסטינים למערכת זיהוי הפנים של AWS ap"
+    },
+    {
+     "ref": "geektime#15",
+     "title": "3 חודשים אחרי הגיוס הראשון, הסטארטאפ הזה כבר הפך לחד קרן",
+     "published": "2026-11-16T12:02:45+00:00",
+     "summary": "רק לפני שלושה חודשים סיפרנו לכם כאן על סטארטאפ חדש ומעניין בשם Corma שמפתח מודל בסיס לתעשיית הסייבר, המיועד למגינים ולאו דווקא לתוקפים. היום (ב'), אחרי סבב סיד חריג, הוא חושף סבב גיוס ענק נוסף, שמביא אותו היישר למועדון חדי הקרן. כל עדכוני ההייטק, בלי שטויות: ערוץ העדכונים השקט של גיקטיים יוצאי גוגל, DeepMind ו-8200 […] The post 3 חודשים אחרי הגיוס הראשון, הסטארטאפ הזה כבר הפך לחד קרן appeared firs"
+    }
+   ]
+  },
+  {
    "outlet": "Hacker News (150+ points)",
    "lang": "en",
    "items": [
@@ -148,109 +250,103 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "AI is killing All About Berlin",
      "published": "2026-11-18T06:47:26+00:00",
-     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 319 # Comments: 281"
+     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 336 # Comments: 296"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "ID.me terms required for IRS sign-in",
      "published": "2026-11-18T00:51:45+00:00",
-     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 355 # Comments: 161"
+     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 361 # Comments: 161"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Google's AI answers reducing search traffic by 40%",
      "published": "2026-11-18T00:17:58+00:00",
-     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 382 # Comments: 291"
+     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 389 # Comments: 294"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Archive Team is archiving the Apple Support Community",
      "published": "2026-11-17T23:32:58+00:00",
-     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 191 # Comments: 66"
+     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 197 # Comments: 70"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
      "published": "2026-11-17T23:18:49+00:00",
-     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 320 # Comments: 71"
+     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 325 # Comments: 71"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "published": "2026-11-17T22:13:34+00:00",
-     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 594 # Comments: 194"
+     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 603 # Comments: 199"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
      "published": "2026-11-17T21:16:12+00:00",
-     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 180 # Comments: 253"
+     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 184 # Comments: 256"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "published": "2026-11-17T21:11:28+00:00",
-     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 935 # Comments: 239"
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 943 # Comments: 240"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Web Browser Engineering (2021)",
-     "published": "2026-11-17T20:01:35+00:00",
-     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 174 # Comments: 25"
+     "title": "jQuery 4.1.0",
+     "published": "2026-11-17T19:50:40+00:00",
+     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 322 # Comments: 164"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "jQuery 4.1.0",
-     "published": "2026-11-17T19:50:40+00:00",
-     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 319 # Comments: 164"
+     "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+     "published": "2026-11-17T19:25:27+00:00",
+     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 335 # Comments: 105"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-     "published": "2026-11-17T19:25:27+00:00",
-     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 331 # Comments: 102"
+     "title": "Solid 2.0",
+     "published": "2026-11-17T18:56:17+00:00",
+     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 313 # Comments: 95"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Solid 2.0",
-     "published": "2026-11-17T18:56:17+00:00",
-     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 311 # Comments: 94"
+     "title": "Phrack 73",
+     "published": "2026-11-17T18:31:25+00:00",
+     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 384 # Comments: 53"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "Phrack 73",
-     "published": "2026-11-17T18:31:25+00:00",
-     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 379 # Comments: 53"
+     "title": "MAI Code 2 and Code 2 Flash",
+     "published": "2026-11-17T18:25:13+00:00",
+     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 359 # Comments: 155"
     },
     {
      "ref": "hn_frontpage#13",
-     "title": "MAI Code 2 and Code 2 Flash",
-     "published": "2026-11-17T18:25:13+00:00",
-     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 358 # Comments: 155"
+     "title": "GPT‑6.2 Astra and Sol",
+     "published": "2026-11-17T17:46:43+00:00",
+     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1274 # Comments: 794"
     },
     {
      "ref": "hn_frontpage#14",
-     "title": "GPT‑6.2 Astra and Sol",
-     "published": "2026-11-17T17:46:43+00:00",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1273 # Comments: 792"
+     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+     "published": "2026-11-17T17:12:06+00:00",
+     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 545 # Comments: 243"
     },
     {
      "ref": "hn_frontpage#15",
-     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-     "published": "2026-11-17T17:12:06+00:00",
-     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 542 # Comments: 243"
+     "title": "Highly classified US national security communications network goes down",
+     "published": "2026-11-17T15:38:28+00:00",
+     "summary": "https://www.reuters.com/technology/highly-classified-us-nati... Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 580 # Comments: 670"
     },
     {
      "ref": "hn_frontpage#16",
-     "title": "Highly classified US national security communications network goes down",
-     "published": "2026-11-17T15:38:28+00:00",
-     "summary": "https://www.reuters.com/technology/highly-classified-us-nati... Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 577 # Comments: 664"
-    },
-    {
-     "ref": "hn_frontpage#17",
      "title": "What is the best harness for each model?",
      "published": "2026-11-17T14:53:43+00:00",
-     "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 373 # Comments: 126"
+     "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 375 # Comments: 126"
     }
    ]
   },

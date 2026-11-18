@@ -515,393 +515,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Former Spain midfielder Mata retires aged 38",
+     "published": "2026-11-18T10:12:46+00:00",
+     "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "When is the Nations League quarter-final draw?",
      "published": "2026-11-18T09:33:42+00:00",
      "summary": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "BBC Women's Footballer of the Year 2026 to be named on 13 December",
      "published": "2026-11-18T09:00:06+00:00",
      "summary": "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "Manchester won't always be blue - Pochettino",
      "published": "2026-11-18T08:42:28+00:00",
      "summary": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "Rangers explore return for Cerny - gossip",
      "published": "2026-11-18T08:15:37+00:00",
      "summary": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis..."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Listen: What needs to change for Pocognoli and Scotland?",
      "published": "2026-11-18T08:00:00+00:00",
      "summary": "What needs to change to turn Scotland’s fortunes around?"
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "From one of Ajax's future stars to quitting football for music",
      "published": "2026-11-18T07:02:42+00:00",
      "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-18T06:56:12+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
      "published": "2026-11-18T06:27:11+00:00",
      "summary": "After 60 years, is time finally running out on the 3pm blackout in football?"
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Belief and bench steer Northern Ireland into Nations League top tier",
      "published": "2026-11-17T23:49:31+00:00",
      "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
      "published": "2026-11-17T23:37:45+00:00",
      "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
      "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
      "published": "2026-11-17T23:10:33+00:00",
      "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#12",
      "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
      "published": "2026-11-17T22:54:51+00:00",
      "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
      "published": "2026-11-17T22:25:16+00:00",
      "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Highlights: Ten-man Portugal beat Wales to top group",
      "published": "2026-11-17T21:56:04+00:00",
      "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Rangers great Brand dies aged 89",
      "published": "2026-11-17T21:02:57+00:00",
      "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "'A great of the club' - Rangers legend Brand dies aged 89",
      "published": "2026-11-17T21:02:57+00:00",
      "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "Millwall open disciplinary proceedings against Baker",
      "published": "2026-11-17T20:00:52+00:00",
      "summary": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
      "published": "2026-11-17T19:35:06+00:00",
      "summary": "TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Arsenal Double winner Storey dies aged 81",
      "published": "2026-11-17T17:33:41+00:00",
      "summary": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "Swansea boss Matos on brink of Strasbourg move",
      "published": "2026-11-17T16:52:59+00:00",
      "summary": "Vitor Matos says farewell to Swansea City's players and staff as he closes in on a move to Strasbourg."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "FA wants to host Nations League finals in England",
      "published": "2026-11-17T15:51:30+00:00",
      "summary": "England could host the Nations League finals this season after Football Association officials register their interest."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "Rooney says he considered taking his own life at Man Utd",
      "published": "2026-11-17T14:09:19+00:00",
      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\"."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Romario demands Ancelotti sacking as war of words continues",
      "published": "2026-11-17T13:10:58+00:00",
      "summary": "Romario - Brazil's fourth-highest scorer behind Neymar, Pele and Ronaldo - publicly demands legendary manager Carlo Ancelotti be relieved of his duties."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Hincapie in advanced talks over new Arsenal deal",
      "published": "2026-11-17T13:09:23+00:00",
      "summary": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
-     "published": "2026-11-17T12:56:27+00:00",
-     "summary": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025."
-    }
-   ]
-  },
-  {
-   "outlet": "ESPN NBA",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_nba#0",
-     "title": "Spurs guard Harper limps off in pain after slip on court",
-     "published": "2026-11-18T06:19:29+00:00",
-     "summary": "Spurs second-year guard Dylan Harper limped off in pain after appearing to slip on the court late in Tuesday's loss to the Pistons."
-    },
-    {
-     "ref": "espn_nba#1",
-     "title": "Rozier co-defendant signals intent to change plea in NBA betting case",
-     "published": "2026-11-18T06:19:29+00:00",
-     "summary": "Deniro Laster, a co-defendant in the federal sports betting case involving NBA player Terry Rozier, has signaled his intent to plead guilty."
-    },
-    {
-     "ref": "espn_nba#2",
-     "title": "76ers' Brown to miss Wednesday's game vs. Magic with hamstring strain",
-     "published": "2026-11-18T06:19:29+00:00",
-     "summary": "Philadelphia 76ers forward Jaylen Brown will miss Wednesday's game against the Orlando Magic with a left hamstring strain, the Sixers announced Tuesday afternoon."
-    },
-    {
-     "ref": "espn_nba#3",
-     "title": "LeBron sues makers of AI sports-betting app 'Bron,' cites 'willful, bad-faith tactic'",
-     "published": "2026-11-18T06:19:29+00:00",
-     "summary": "NBA superstar LeBron James sued the makers of an AI sports-betting app Tuesday, saying they have deliberately violated his publicity rights and trademarks by calling it \"Bron\" and using artificially generated images of him in their marketing."
-    },
-    {
-     "ref": "espn_nba#4",
-     "title": "KU's Stokes, top NBA prospect, to undergo MRI after being helped off",
-     "published": "2026-11-18T06:19:29+00:00",
-     "summary": "Kansas freshman Tyran Stokes, the projected No. 1 pick in the 2027 NBA draft, left Tuesday's win at UNLV early in the second half."
-    },
-    {
-     "ref": "espn_nba#5",
-     "title": "Hawks lose guard McCollum for at least 4 weeks with calf strain",
-     "published": "2026-11-18T06:19:29+00:00",
-     "summary": "Atlanta Hawks guard CJ McCollum will miss at least four weeks with a left calf strain, the team announced Tuesday."
-    },
-    {
-     "ref": "espn_nba#6",
-     "title": "Raptors say Leonard out at least another week",
-     "published": "2026-11-18T06:19:29+00:00",
-     "summary": "The Raptors said Tuesday that while Kawhi Leonard is progressing in his recovery from left knee swelling, he will remain out for at least another week."
-    },
-    {
-     "ref": "espn_nba#7",
-     "title": "🔥 Heat unveil 'A Night in Vice City' court ahead of GTA VI release",
-     "published": "2026-11-18T06:19:29+00:00",
-     "summary": "With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before."
-    },
-    {
-     "ref": "espn_nba#8",
-     "title": "Steph Curry confronts his 'basketball mortality'",
-     "published": "2026-11-18T00:07:43+00:00",
-     "summary": "At 38, Curry is still brilliant -- but managing his body has become the biggest battle of his career."
-    },
-    {
-     "ref": "espn_nba#9",
-     "title": "Bobby Marks' NBA glossary: Trade, free agency, CBA terms to know",
-     "published": "2026-11-17T22:48:52+00:00",
-     "summary": "The world of NBA transactions is often difficult to decipher. Our resident GM is here to help.﻿"
-    },
-    {
-     "ref": "espn_nba#10",
-     "title": "Eric Karabell's notebook: Trade Walker Kessler? Klay Thompson worth rostering?",
-     "published": "2026-11-17T18:57:24+00:00",
-     "summary": "Eric Karabell empties out the notebook with all that he's noticing around the NBA and what it means for fantasy."
-    },
-    {
-     "ref": "espn_nba#11",
-     "title": "NBA buzz: Latest news, updates and intel for the 2026-27 season",
-     "published": "2026-11-17T17:47:16+00:00",
-     "summary": "The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders."
-    },
-    {
-     "ref": "espn_nba#12",
-     "title": "What the NBA's first month has revealed about all 30 teams",
-     "published": "2026-11-17T13:54:13+00:00",
-     "summary": "With the season's first month nearly in the books, Ben Golliver examines the biggest storyline so far for all 30 teams."
-    },
-    {
-     "ref": "espn_nba#13",
-     "title": "Is the 76ers' fast start real or a mirage? We asked execs what they're seeing",
-     "published": "2026-11-17T12:29:32+00:00",
-     "summary": "We talked to several coaches, executives and scouts about the Sixers in an attempt to get a consensus opinion on their start."
-    }
-   ]
-  },
-  {
-   "outlet": "ESPN FC",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_soccer#0",
-     "title": "⚽ Meet the heir to Messi's Argentina No. 10 shirt",
-     "published": "2026-11-18T09:19:50+00:00",
-     "summary": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt."
-    },
-    {
-     "ref": "espn_soccer#1",
-     "title": "NWSL awards: Record-breaking Ashley Sanchez is our MVP, but who else wins?",
-     "published": "2026-11-18T08:59:44+00:00",
-     "summary": "Ashley Sanchez has been the league's best player, but who else deserves recognition? We break down our choices for the 2026 NWSL awards."
-    },
-    {
-     "ref": "espn_soccer#2",
-     "title": "Why the Champions League's iconic 'star' match ball could soon be replaced",
-     "published": "2026-11-18T08:59:35+00:00",
-     "summary": "Nike will replace Adidas as supplier of UEFA Champions League match balls from next season. Will the famous 'star ball' design soon be no more?"
-    },
-    {
-     "ref": "espn_soccer#3",
-     "title": "Why the USMNT doesn't need a Guardiola-tier manager after Pochettino",
-     "published": "2026-11-18T08:59:30+00:00",
-     "summary": "The U.S. men say goodbye to Mauricio Pochettino and hope to attract Pep Guardiola as his replacement. But is a superstar coach what this team really needs?"
-    },
-    {
-     "ref": "espn_soccer#4",
-     "title": "Who should be the USMNT's coaching candidates to succeed Pochettino?",
-     "published": "2026-11-18T08:59:29+00:00",
-     "summary": "With Pochettino's USMNT tenure at an end, who should U.S. Soccer be eyeing to replace him?"
-    },
-    {
-     "ref": "espn_soccer#5",
-     "title": "World Cup 2030 Early Power Rankings: Spain still No. 1? No USMNT in top 15",
-     "published": "2026-11-18T08:55:33+00:00",
-     "summary": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat."
-    },
-    {
-     "ref": "espn_soccer#6",
-     "title": "Mr. Worldwide: Meet the Brazilian soccer star who's played for clubs on six continents",
-     "published": "2026-11-18T08:28:19+00:00",
-     "summary": "Brazilian winger Sérgio Barboza has joined a very exclusive club by playing for teams in all six of world soccer's continental confederations."
-    },
-    {
-     "ref": "espn_soccer#7",
-     "title": "Nigeria at risk of missing AFCON 2027 as striker woes continue",
-     "published": "2026-11-18T08:28:19+00:00",
-     "summary": "Another frustrating away result on Tuesday, which saw Nigeria follow Friday's home win with a 0-0 against Tanzania in Zanzibar, has left the Super Eagles chances of qualification for the 2027 Africa Cup of Nations in serious jeopardy."
-    },
-    {
-     "ref": "espn_soccer#8",
-     "title": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Mohya",
-     "published": "2026-11-18T08:24:53+00:00",
-     "summary": "Liverpool and Bayern Munich are interested in Borussia Mönchengladbach attacking midfielder Wael Mohya. Transfer Talk has the latest."
-    },
-    {
-     "ref": "espn_soccer#9",
-     "title": "Has Vini Jr. finally put summer transfer saga behind him? Real Madrid need him at his best",
-     "published": "2026-11-18T08:24:53+00:00",
-     "summary": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil."
-    },
-    {
-     "ref": "espn_soccer#10",
-     "title": "Reranked: Who is the MVP for each of the top Premier League clubs?",
-     "published": "2026-11-18T08:24:35+00:00",
-     "summary": "Based on a simple combination of ability and tactical importance, we've reranked the best players in order at the top Premier League clubs."
-    },
-    {
-     "ref": "espn_soccer#11",
-     "title": "Pochettino gets a fitting, emotional send-off from USMNT",
-     "published": "2026-11-18T05:53:42+00:00",
-     "summary": "No United States men's national team coach has ever left quite like this. Loved by players, celebrated by fans, and gone on his own terms."
-    },
-    {
-     "ref": "espn_soccer#12",
-     "title": "USMNT player ratings: Pulisic's stunning goal gives Poch the perfect farewell",
-     "published": "2026-11-18T05:53:42+00:00",
-     "summary": "Christian Pulisic starred with a 9/10 rating as the USMNT gave Mauricio Pochettino a winning send-off."
-    },
-    {
-     "ref": "espn_soccer#13",
-     "title": "Poch signs off with 'dream' USMNT finish, predicts 'big things in the future'",
-     "published": "2026-11-18T05:53:03+00:00",
-     "summary": "After coaching his last game as United States coach, Mauricio Pochettino said he thinks the team will \"achieve big things\" in the wake of his departure to Manchester United."
-    },
-    {
-     "ref": "espn_soccer#14",
-     "title": "Pulisic's bicycle kick puts USMNT in semis as Pochettino bids farewell",
-     "published": "2026-11-18T05:53:03+00:00",
-     "summary": "A bicycle kick by Christian Pulisic helped the United States clinch its spot in the Concacaf Nations League semifinals in Mauricio Pochettino's final game."
-    },
-    {
-     "ref": "espn_soccer#15",
-     "title": "Mexico edge Jamaica for first win under Márquez, set up Nations League semi vs. U.S.",
-     "published": "2026-11-18T05:53:03+00:00",
-     "summary": "Veteran forward Jesús Corona scored a first-half goal on Tuesday as Mexico snapped a five-game winless streak with a 1-0 victory over Jamaica."
-    },
-    {
-     "ref": "espn_soccer#16",
-     "title": "CF7: Portugal move on from Ronaldo with 'special' goal from new No. 7 Forbs",
-     "published": "2026-11-18T05:53:03+00:00",
-     "summary": "Portugal secured a much-needed first win since Cristiano Ronaldo's international retirement, courtesy of new No. 7 Carlos Forbs."
-    },
-    {
-     "ref": "espn_soccer#17",
-     "title": "Emi Martínez on Argentina's 7-0 statement win: 'Want to make fans fall in love again'",
-     "published": "2026-11-18T05:53:03+00:00",
-     "summary": "Argentina finished the first FIFA window without Lionel Messi with a 7-0 rout of Costa Rica, powered by Nico Paz and their next generation of talented players."
-    },
-    {
-     "ref": "espn_soccer#18",
-     "title": "Haaland sends Norway to Nations League quarters on last-minute penalty",
-     "published": "2026-11-18T05:53:03+00:00",
-     "summary": "Erling Haaland delivered for Norway on one of the last plays of the game to give his team a 3-2 win over Denmark to advance to the Nations League quarterfinals."
-    },
-    {
-     "ref": "espn_soccer#19",
-     "title": "Piqué criticises 12-match ban for Owono after De Miguel death",
-     "published": "2026-11-18T05:53:03+00:00",
-     "summary": "Andorra owner Gerard Piqué believes the 12-match suspension given to goalkeeper Jesús Owono for the challenge that led to the death of Tenerife forward Jesús de Miguel is too severe."
-    },
-    {
-     "ref": "espn_soccer#20",
-     "title": "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing",
-     "published": "2026-11-18T05:53:03+00:00",
-     "summary": "The ownership groups of MLS side FC Cincinnati and the NWSL's Racing Louisville FC are nearing an agreement that would relocate the NWSL team to Cincinnati in 2028, multiple sources told ESPN."
-    },
-    {
-     "ref": "espn_soccer#21",
-     "title": "Pochettino can't fix Man United on his own, the owners have to do their jobs",
-     "published": "2026-11-17T23:46:41+00:00",
-     "summary": "Mauricio Pochettino's job at Manchester United isn't to fix the club, but to get results and make the players better. The real changes need to be made at the very top."
-    },
-    {
-     "ref": "espn_soccer#22",
-     "title": "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?",
-     "published": "2026-11-17T20:49:23+00:00",
-     "summary": "Nashville just won the Supporters' Shield with a league-record points haul, so naturally it tops ESPN's MLS Cup playoff Power Rankings."
-    },
-    {
-     "ref": "espn_soccer#23",
-     "title": "Wild Card predictions: Who emerges from Orlando-Cincinnati, Seattle-RSL?",
-     "published": "2026-11-17T20:49:23+00:00",
-     "summary": "The Wild Card kicks off the MLS Cup playoffs on Thursday, so who will advance to Round 1? ESPN's U.S. soccer analysts make their predictions."
     }
    ]
   },

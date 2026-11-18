@@ -224,12 +224,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Tyler Cowen’s strongest musical recommendations, 2003–2026",
      "published": "2026-11-15T12:18:42+00:00",
      "summary": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted links rather than music posts. This selection draws on the Marginal […] The post Tyler Cowen’s strongest "
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "AI and complements",
-     "published": "2026-11-15T10:03:58+00:00",
-     "summary": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of substitution across tasks of 0.2, automating tasks worth 1 […] The post AI and complements appeared first on "
     }
    ]
   },
