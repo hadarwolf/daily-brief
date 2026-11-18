@@ -143,93 +143,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Me on the cyberattacks",
+     "published": "2026-11-18T06:10:57+00:00",
+     "summary": "Tyler Cowen: Don’t Be Fooled By Randomness The problems are serious, but the sky is not falling in. When it comes to the recent service outages, keep a few points in mind. First, cyber risk is considerably higher than it used to be. Due to progress in AI systems, cyber offense has outraced cyber defense. […] The post Me on the cyberattacks appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "The Kalshi market on U.S. productivity growth",
      "published": "2026-11-17T20:34:15+00:00",
      "summary": "It is coming in at 2.2%, people. That is for over the next five years. tys…though even I think it will be a bit higher than that. Yes the liquidity is tiny, but that is endogenous to the reality that huge profits are not to be made there. You are free to trade yourself of […] The post The Kalshi market on U.S. productivity growth appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "What should I ask Alexander Mikaberidze?",
      "published": "2026-11-17T19:17:25+00:00",
      "summary": "He is the author and the new and excellent The Louisiana Purchase: The Grand Bargain and the Making of America. He also wrote The Napoleonic Wars: A Global History, one of my favorite history books. He has extensive other writings on the history of the Russian military during that same period. From Wikipedia: Alexander Mikaberidze […] The post What should I ask Alexander Mikaberidze? appeared firs"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "Alex Imas and I podcast on the economics of AI",
      "published": "2026-11-17T16:53:31+00:00",
      "summary": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE The post Alex Imas and I podcast on the economics of AI appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "Tuesday assorted links",
      "published": "2026-11-17T13:46:49+00:00",
      "summary": "1. Luka has become a very good player. Defense is much better too. 2. No comment. 3. Did England bribe Scotland into political union? 4. Survey article on the economics of mental health, one of the most important and understudied areas. 5. Science isn’t just a series of lucky accidents. 6. Kalshi five-year productivity growth […] The post Tuesday assorted links appeared first on Marginal REVOLUTIO"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "Adlerlicht, reporting on crime in Germany",
      "published": "2026-11-17T07:12:17+00:00",
      "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here. The post Adlerlicht, reporting on crime in Germany appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "The economics of Jensen Huang",
      "published": "2026-11-17T05:44:15+00:00",
      "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever […] The post The economics of Jensen Huang appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Monday assorted links",
      "published": "2026-11-16T19:17:13+00:00",
      "summary": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard Posner. 5. “A survey released Monday found that new international student enrollment plunged by 15 percent, a figure that was particularly […] The post Monday assorted links appeared "
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "Russ Roberts and I do EconTalk podcast on Montaigne",
      "published": "2026-11-16T16:53:41+00:00",
      "summary": "Self-recommending, we start with Montaigne’s essay on education… The post Russ Roberts and I do EconTalk podcast on Montaigne appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "Starship",
      "published": "2026-11-16T12:18:54+00:00",
      "summary": "My favorite commentary on SpaceX’s historic catching of Starship was this: …we may be certain of this: for all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ Arthur C. Clarke (1965). Yesterday, this became vividly real to me. Hat tip: @amdreaesposito Addendum: Good post on why catching […] The post Starship appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "Coffeehouses and the Scientific Revolution",
      "published": "2026-11-16T07:33:14+00:00",
      "summary": "Abstract Historians have long credited coffeehouses, venues for conversation where strangers met across social ranks, with fostering scientific contacts and activity during the Scientific Revolution. We test this claim in seventeenth-century London. Relying on newly geocoded records and a staggered event study across parishes, we find that the opening of the first coffeehouse in a […] The post Cof"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "A scenario for rogue AIs?",
      "published": "2026-11-16T05:47:54+00:00",
      "summary": "From Adam Kaufman: I think it’s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out their own labor to assist with illegal activities) in order to run more copies. I also […] The post A scenario for rogue AIs? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#12",
      "title": "Sunday assorted links",
      "published": "2026-11-15T17:26:25+00:00",
      "summary": "1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new method of movie evaluation and greenlighting? 5. Ezra Klein on the permitting bill (NYT). 6. […] The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#13",
      "title": "Tyler Cowen’s strongest musical recommendations, 2003–2026",
      "published": "2026-11-15T12:18:42+00:00",
      "summary": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted links rather than music posts. This selection draws on the Marginal […] The post Tyler Cowen’s strongest "
     },
     {
-     "ref": "marginal_revolution#13",
+     "ref": "marginal_revolution#14",
      "title": "AI and complements",
      "published": "2026-11-15T10:03:58+00:00",
      "summary": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of substitution across tasks of 0.2, automating tasks worth 1 […] The post AI and complements appeared first on "
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Best films of 2026",
-     "published": "2026-11-15T05:38:13+00:00",
-     "summary": "I thought this was a splendid and highly innovative year. Here is my list, in the order I saw them, noting that a link typically brings you to my review: Resurrection Testament of Ann Lee 28 Years Later Wuthering Heights Sirat Project Hail Mary A Man on the Run The Drama The Blue Trail Silent […] The post Best films of 2026 appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -270,15 +270,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#5",
-     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-     "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
-    },
-    {
-     "ref": "psyche#6",
      "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
+    },
+    {
+     "ref": "psyche#6",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
     },
     {
      "ref": "psyche#7",
