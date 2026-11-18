@@ -20,123 +20,123 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ars_technica#0",
+     "title": "Grand Theft Auto VI: The Ars Technica review",
+     "published": "2026-11-18T11:00:27+00:00",
+     "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation."
+    },
+    {
+     "ref": "ars_technica#1",
      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
      "published": "2026-11-18T00:27:29+00:00",
      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next."
     },
     {
-     "ref": "ars_technica#1",
+     "ref": "ars_technica#2",
      "title": "San Diego dumps both Flock cameras and smart streetlights",
      "published": "2026-11-17T23:09:09+00:00",
      "summary": "500+ cameras will go dark just 3 years after mayor urged approval."
     },
     {
-     "ref": "ars_technica#2",
+     "ref": "ars_technica#3",
      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
      "published": "2026-11-17T22:44:46+00:00",
      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\""
     },
     {
-     "ref": "ars_technica#3",
+     "ref": "ars_technica#4",
      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
      "published": "2026-11-17T22:32:16+00:00",
      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things."
     },
     {
-     "ref": "ars_technica#4",
+     "ref": "ars_technica#5",
      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
      "published": "2026-11-17T20:32:55+00:00",
      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes."
     },
     {
-     "ref": "ars_technica#5",
+     "ref": "ars_technica#6",
      "title": "Civilization studio Firaxis Games lays off a third of staff",
      "published": "2026-11-17T19:45:25+00:00",
      "summary": "Studio head Heather Hazen is among those departing."
     },
     {
-     "ref": "ars_technica#6",
+     "ref": "ars_technica#7",
      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
      "published": "2026-11-17T18:26:26+00:00",
      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”"
     },
     {
-     "ref": "ars_technica#7",
+     "ref": "ars_technica#8",
      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
      "published": "2026-11-17T18:13:34+00:00",
      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it."
     },
     {
-     "ref": "ars_technica#8",
+     "ref": "ars_technica#9",
      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
      "published": "2026-11-17T18:00:51+00:00",
      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin."
     },
     {
-     "ref": "ars_technica#9",
+     "ref": "ars_technica#10",
      "title": "Google makes it easier to use Gemini without training AI on your data",
      "published": "2026-11-17T16:50:10+00:00",
      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings."
     },
     {
-     "ref": "ars_technica#10",
+     "ref": "ars_technica#11",
      "title": "House Democrats promise a US return to global climate talks",
      "published": "2026-11-17T15:32:43+00:00",
      "summary": "A new House majority can push climate policy, but a full US return remains uncertain."
     },
     {
-     "ref": "ars_technica#11",
+     "ref": "ars_technica#12",
      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
      "published": "2026-11-17T15:28:59+00:00",
      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time."
     },
     {
-     "ref": "ars_technica#12",
+     "ref": "ars_technica#13",
      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
      "published": "2026-11-17T14:00:29+00:00",
      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
     },
     {
-     "ref": "ars_technica#13",
+     "ref": "ars_technica#14",
      "title": "Artist brings old Space Shuttle tank back to life",
      "published": "2026-11-17T12:15:54+00:00",
      "summary": "\"It's definitely the largest art project I've ever worked on.\""
     },
     {
-     "ref": "ars_technica#14",
+     "ref": "ars_technica#15",
      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
      "published": "2026-11-16T22:58:27+00:00",
      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home."
     },
     {
-     "ref": "ars_technica#15",
+     "ref": "ars_technica#16",
      "title": "Three small failures combined to take down Microsoft 365",
      "published": "2026-11-16T21:56:39+00:00",
      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures."
     },
     {
-     "ref": "ars_technica#16",
+     "ref": "ars_technica#17",
      "title": "Hyperscale data centers use 2% of US electricity",
      "published": "2026-11-16T20:52:10+00:00",
      "summary": "Study attempts to tally hyperscalers’ energy use and emissions."
     },
     {
-     "ref": "ars_technica#17",
+     "ref": "ars_technica#18",
      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
      "published": "2026-11-16T20:37:47+00:00",
      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say."
     },
     {
-     "ref": "ars_technica#18",
+     "ref": "ars_technica#19",
      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
      "published": "2026-11-16T20:27:58+00:00",
      "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber."
-    },
-    {
-     "ref": "ars_technica#19",
-     "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-     "published": "2026-11-16T19:54:21+00:00",
-     "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds."
     }
    ]
   },
@@ -250,103 +250,103 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "AI is killing All About Berlin",
      "published": "2026-11-18T06:47:26+00:00",
-     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 365 # Comments: 332"
+     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 375 # Comments: 346"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "ID.me terms required for IRS sign-in",
      "published": "2026-11-18T00:51:45+00:00",
-     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 369 # Comments: 166"
+     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 371 # Comments: 166"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Google's AI answers reducing search traffic by 40%",
      "published": "2026-11-18T00:17:58+00:00",
-     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 415 # Comments: 303"
+     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 425 # Comments: 311"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Archive Team is archiving the Apple Support Community",
      "published": "2026-11-17T23:32:58+00:00",
-     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 199 # Comments: 71"
+     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 201 # Comments: 72"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
      "published": "2026-11-17T23:18:49+00:00",
-     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 335 # Comments: 72"
+     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 340 # Comments: 73"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "published": "2026-11-17T22:13:34+00:00",
-     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 625 # Comments: 212"
+     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 634 # Comments: 221"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
      "published": "2026-11-17T21:16:12+00:00",
-     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 189 # Comments: 267"
+     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 193 # Comments: 270"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "published": "2026-11-17T21:11:28+00:00",
-     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 961 # Comments: 243"
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 964 # Comments: 246"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "jQuery 4.1.0",
      "published": "2026-11-17T19:50:40+00:00",
-     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 326 # Comments: 166"
+     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 329 # Comments: 167"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
      "published": "2026-11-17T19:25:27+00:00",
-     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 337 # Comments: 108"
+     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 339 # Comments: 108"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Solid 2.0",
      "published": "2026-11-17T18:56:17+00:00",
-     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 317 # Comments: 96"
+     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 319 # Comments: 98"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Phrack 73",
      "published": "2026-11-17T18:31:25+00:00",
-     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 388 # Comments: 53"
+     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 390 # Comments: 53"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "MAI Code 2 and Code 2 Flash",
      "published": "2026-11-17T18:25:13+00:00",
-     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 365 # Comments: 155"
+     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 367 # Comments: 155"
     },
     {
      "ref": "hn_frontpage#13",
      "title": "GPT‑6.2 Astra and Sol",
      "published": "2026-11-17T17:46:43+00:00",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1279 # Comments: 796"
+     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1283 # Comments: 798"
     },
     {
      "ref": "hn_frontpage#14",
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "published": "2026-11-17T17:12:06+00:00",
-     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 554 # Comments: 247"
+     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 558 # Comments: 249"
     },
     {
      "ref": "hn_frontpage#15",
      "title": "Highly classified US national security communications network goes down",
      "published": "2026-11-17T15:38:28+00:00",
-     "summary": "https://www.reuters.com/technology/highly-classified-us-nati... Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 589 # Comments: 673"
+     "summary": "https://www.reuters.com/technology/highly-classified-us-nati... Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 593 # Comments: 679"
     },
     {
      "ref": "hn_frontpage#16",
      "title": "What is the best harness for each model?",
      "published": "2026-11-17T14:53:43+00:00",
-     "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 377 # Comments: 127"
+     "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 379 # Comments: 128"
     }
    ]
   },
@@ -401,12 +401,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
      "published": "2026-11-13T11:00:02+00:00",
      "summary": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their shape in the wind. Why a moderate wind on a heavily iced line can govern design, and how galloping an"
-    },
-    {
-     "ref": "ieee_spectrum#8",
-     "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
-     "published": "2026-11-11T11:00:02+00:00",
-     "summary": "This article is brought to you by Innomotics . In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in 1866, this groundbreaking principle remains fundamental to modern electrical engineering more than a century and a half later – and continues to shape the technology portfolio of Inn"
     }
    ]
   },
@@ -416,48 +410,54 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "mit_tech_review#0",
+     "title": "This smell startup says its AI nose is as good as a human’s",
+     "published": "2026-11-18T10:20:30+00:00",
+     "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…"
+    },
+    {
+     "ref": "mit_tech_review#1",
      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
      "published": "2026-11-17T18:46:47+00:00",
      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain…"
     },
     {
-     "ref": "mit_tech_review#1",
+     "ref": "mit_tech_review#2",
      "title": "Hydropower hit record lows in the US Southwest this summer",
      "published": "2026-11-17T17:52:10+00:00",
      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an…"
     },
     {
-     "ref": "mit_tech_review#2",
+     "ref": "mit_tech_review#3",
      "title": "Research Reports",
      "published": "2026-11-17T14:39:46+00:00",
      "summary": "To access a report, click on the corresponding image below."
     },
     {
-     "ref": "mit_tech_review#3",
+     "ref": "mit_tech_review#4",
      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
      "published": "2026-11-17T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and…"
     },
     {
-     "ref": "mit_tech_review#4",
+     "ref": "mit_tech_review#5",
      "title": "The open-source movement wants Jensen Huang back",
      "published": "2026-11-16T18:38:47+00:00",
      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…"
     },
     {
-     "ref": "mit_tech_review#5",
+     "ref": "mit_tech_review#6",
      "title": "Building trustworthy AI by fencing it in, not predicting it",
      "published": "2026-11-16T16:04:28+00:00",
      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…"
     },
     {
-     "ref": "mit_tech_review#6",
+     "ref": "mit_tech_review#7",
      "title": "The Download: testing tech promises and searching for cognitive immortality",
      "published": "2026-11-16T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are…"
     },
     {
-     "ref": "mit_tech_review#7",
+     "ref": "mit_tech_review#8",
      "title": "Building AI that can work across the enterprise",
      "published": "2026-11-16T13:00:00+00:00",
      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…"
@@ -524,63 +524,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
+     "title": "Suno now lets you make AI videos for your AI music",
+     "published": "2026-11-18T11:16:53+00:00",
+     "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals […]"
+    },
+    {
+     "ref": "the_verge#1",
+     "title": "Grand Theft Auto VI has arrived",
+     "published": "2026-11-18T11:06:16+00:00",
+     "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time. Part of this has to do with […]"
+    },
+    {
+     "ref": "the_verge#2",
+     "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+     "published": "2026-11-18T11:00:00+00:00",
+     "summary": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of […]"
+    },
+    {
+     "ref": "the_verge#3",
+     "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+     "published": "2026-11-18T11:00:00+00:00",
+     "summary": "Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thieves who also happen to fall in love after meeting while stealing a car. It's […]"
+    },
+    {
+     "ref": "the_verge#4",
      "title": "Satya Nadella says he’s AGI-pilled now",
      "published": "2026-11-17T23:41:18+00:00",
      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]"
     },
     {
-     "ref": "the_verge#1",
+     "ref": "the_verge#5",
      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
      "published": "2026-11-17T22:38:41+00:00",
      "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silicon Valley and the World conference today, Bezos […]"
     },
     {
-     "ref": "the_verge#2",
+     "ref": "the_verge#6",
      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
      "published": "2026-11-17T22:32:50+00:00",
      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice […]"
     },
     {
-     "ref": "the_verge#3",
+     "ref": "the_verge#7",
      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
      "published": "2026-11-17T22:25:41+00:00",
      "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the […]"
     },
     {
-     "ref": "the_verge#4",
+     "ref": "the_verge#8",
      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
      "published": "2026-11-17T22:05:05+00:00",
      "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation […]"
     },
     {
-     "ref": "the_verge#5",
+     "ref": "the_verge#9",
      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
      "published": "2026-11-17T21:46:20+00:00",
      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is […]"
-    },
-    {
-     "ref": "the_verge#6",
-     "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-     "published": "2026-11-17T21:40:59+00:00",
-     "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang […]"
-    },
-    {
-     "ref": "the_verge#7",
-     "title": "Nike’s new air sole technology can mix soft and firm cushioning",
-     "published": "2026-11-17T21:38:08+00:00",
-     "summary": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air technology. While previously the level of […]"
-    },
-    {
-     "ref": "the_verge#8",
-     "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-     "published": "2026-11-17T21:00:55+00:00",
-     "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]"
-    },
-    {
-     "ref": "the_verge#9",
-     "title": "Instagram is helping creators crack down on copycat videos",
-     "published": "2026-11-17T20:46:31+00:00",
-     "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and […]"
     }
    ]
   }

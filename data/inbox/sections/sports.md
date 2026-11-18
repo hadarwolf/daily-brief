@@ -47,16 +47,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-18T23:30:00Z",
-     "home": "Cruzeiro",
-     "away": "Palmeiras",
+     "home": "Flamengo",
+     "away": "Paranaense",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-18T23:30:00Z",
-     "home": "Flamengo",
-     "away": "Paranaense",
+     "home": "Cruzeiro",
+     "away": "Palmeiras",
      "status": "TIMED",
      "score": null
     }
@@ -515,153 +515,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
+     "published": "2026-11-18T10:51:37+00:00",
+     "summary": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier."
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Williams to join temporary Swansea coaching team",
+     "published": "2026-11-18T10:48:39+00:00",
+     "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "Former Spain midfielder Mata retires aged 38",
      "published": "2026-11-18T10:12:46+00:00",
      "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#3",
      "title": "NI will carry momentum into Euro 2028 qualifiers",
      "published": "2026-11-18T10:04:44+00:00",
      "summary": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#4",
      "title": "When is the Nations League quarter-final draw?",
      "published": "2026-11-18T09:33:42+00:00",
      "summary": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#5",
      "title": "BBC Women's Footballer of the Year 2026 to be named on 13 December",
      "published": "2026-11-18T09:00:06+00:00",
      "summary": "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#6",
      "title": "Manchester won't always be blue - Pochettino",
      "published": "2026-11-18T08:42:28+00:00",
      "summary": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#7",
      "title": "Rangers explore return for Cerny - gossip",
      "published": "2026-11-18T08:15:37+00:00",
      "summary": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis..."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#8",
      "title": "Listen: What needs to change for Pocognoli and Scotland?",
      "published": "2026-11-18T08:00:00+00:00",
      "summary": "What needs to change to turn Scotland’s fortunes around?"
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#9",
      "title": "From one of Ajax's future stars to quitting football for music",
      "published": "2026-11-18T07:02:42+00:00",
      "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#10",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-18T06:56:12+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#11",
      "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
      "published": "2026-11-18T06:27:11+00:00",
      "summary": "After 60 years, is time finally running out on the 3pm blackout in football?"
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#12",
      "title": "Belief and bench steer Northern Ireland into Nations League top tier",
      "published": "2026-11-17T23:49:31+00:00",
      "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#13",
      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
      "published": "2026-11-17T23:37:45+00:00",
      "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#14",
      "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
      "published": "2026-11-17T23:10:33+00:00",
      "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#15",
      "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
      "published": "2026-11-17T22:54:51+00:00",
      "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#16",
      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
      "published": "2026-11-17T22:25:16+00:00",
      "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#17",
      "title": "Highlights: Ten-man Portugal beat Wales to top group",
      "published": "2026-11-17T21:56:04+00:00",
      "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#18",
      "title": "Rangers great Brand dies aged 89",
      "published": "2026-11-17T21:02:57+00:00",
      "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#19",
      "title": "'A great of the club' - Rangers legend Brand dies aged 89",
      "published": "2026-11-17T21:02:57+00:00",
      "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#20",
      "title": "Millwall open disciplinary proceedings against Baker",
      "published": "2026-11-17T20:00:52+00:00",
      "summary": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#21",
      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
      "published": "2026-11-17T19:35:06+00:00",
      "summary": "TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#22",
      "title": "Arsenal Double winner Storey dies aged 81",
      "published": "2026-11-17T17:33:41+00:00",
      "summary": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#23",
      "title": "Swansea boss Matos on brink of Strasbourg move",
      "published": "2026-11-17T16:52:59+00:00",
      "summary": "Vitor Matos says farewell to Swansea City's players and staff as he closes in on a move to Strasbourg."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#24",
      "title": "FA wants to host Nations League finals in England",
      "published": "2026-11-17T15:51:30+00:00",
      "summary": "England could host the Nations League finals this season after Football Association officials register their interest."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Rooney says he considered taking his own life at Man Utd",
-     "published": "2026-11-17T14:09:19+00:00",
-     "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\"."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Romario demands Ancelotti sacking as war of words continues",
-     "published": "2026-11-17T13:10:58+00:00",
-     "summary": "Romario - Brazil's fourth-highest scorer behind Neymar, Pele and Ronaldo - publicly demands legendary manager Carlo Ancelotti be relieved of his duties."
     }
    ]
   },
@@ -827,153 +827,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Wizards continue to be proven wrong for trading away Deni Avdija - Wiz of Awes",
+     "published": "2026-11-18T11:00:00+00:00",
+     "summary": "Wizards continue to be proven wrong for trading away Deni Avdija Wiz of Awes"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
      "title": "Deni Avdija (foot) downgraded to out Tuesday - NBC Sports",
      "published": "2026-11-18T05:39:59+00:00",
      "summary": "Deni Avdija (foot) downgraded to out Tuesday NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#2",
      "title": "Deni Avdija (foot) questionable Tuesday vs. MIN - NBC Sports",
      "published": "2026-11-18T03:50:57+00:00",
      "summary": "Deni Avdija (foot) questionable Tuesday vs. MIN NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#3",
      "title": "Deni Avdija out against Wolves - HoopsHype",
      "published": "2026-11-18T02:04:00+00:00",
      "summary": "Deni Avdija out against Wolves HoopsHype"
     },
     {
-     "ref": "gnews_israeli_nba#3",
+     "ref": "gnews_israeli_nba#4",
      "title": "Deni Avdija out vs. Timberwolves with left foot soreness as Jayson Kent watches Portland chase a split - شبكة تواصل الإخبارية",
      "published": "2026-11-18T01:34:23+00:00",
      "summary": "Deni Avdija out vs. Timberwolves with left foot soreness as Jayson Kent watches Portland chase a split شبكة تواصل الإخبارية"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#5",
      "title": "Trail Blazers rule star Deni Avdija out vs. Timberwolves with sore foot - ESPN",
      "published": "2026-11-18T00:55:00+00:00",
      "summary": "Trail Blazers rule star Deni Avdija out vs. Timberwolves with sore foot ESPN"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#6",
      "title": "Deni Avdija Playing Tonight? Questionable Status Adds Another Layer to Blazers-Timberwolves Rematch - شبكة تواصل الإخبارية",
      "published": "2026-11-18T00:40:47+00:00",
      "summary": "Deni Avdija Playing Tonight? Questionable Status Adds Another Layer to Blazers-Timberwolves Rematch شبكة تواصل الإخبارية"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#7",
      "title": "Deni Avdija (foot) ruled out Tuesday - FantasyPros",
      "published": "2026-11-18T00:40:00+00:00",
      "summary": "Deni Avdija (foot) ruled out Tuesday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#7",
+     "ref": "gnews_israeli_nba#8",
      "title": "Blazers announce brutal Deni Avdija final injury status vs. Timberwolves - BasketNews.com",
      "published": "2026-11-18T00:32:00+00:00",
      "summary": "Blazers announce brutal Deni Avdija final injury status vs. Timberwolves BasketNews.com"
     },
     {
-     "ref": "gnews_israeli_nba#8",
+     "ref": "gnews_israeli_nba#9",
      "title": "Portland Trail Blazers Announce Deni Avdija Injury News Before Timberwolves Game - Heavy.com",
      "published": "2026-11-18T00:31:00+00:00",
      "summary": "Portland Trail Blazers Announce Deni Avdija Injury News Before Timberwolves Game Heavy.com"
     },
     {
-     "ref": "gnews_israeli_nba#9",
+     "ref": "gnews_israeli_nba#10",
      "title": "Trail Blazers' Deni Avdija: Ruled out Tuesday - CBS Sports",
      "published": "2026-11-18T00:28:32+00:00",
      "summary": "Trail Blazers' Deni Avdija: Ruled out Tuesday CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#10",
+     "ref": "gnews_israeli_nba#11",
      "title": "Deni Avdija Injury: Ruled out Tuesday - RotoWire",
      "published": "2026-11-18T00:28:32+00:00",
      "summary": "Deni Avdija Injury: Ruled out Tuesday RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#11",
+     "ref": "gnews_israeli_nba#12",
      "title": "Blazers’ Ja Morant all smiles comforting Deni Avdija with injury return tease at end of Timberwolves’ beatdown - ClutchPoints",
      "published": "2026-11-17T23:31:51+00:00",
      "summary": "Blazers’ Ja Morant all smiles comforting Deni Avdija with injury return tease at end of Timberwolves’ beatdown ClutchPoints"
     },
     {
-     "ref": "gnews_israeli_nba#12",
+     "ref": "gnews_israeli_nba#13",
      "title": "Final Injury Report for Trail Blazers-Timberwolves: Will Deni Avdija, Jonathan Kuminga Play? - Yahoo Sports",
      "published": "2026-11-17T21:00:00+00:00",
      "summary": "Final Injury Report for Trail Blazers-Timberwolves: Will Deni Avdija, Jonathan Kuminga Play? Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#13",
+     "ref": "gnews_israeli_nba#14",
      "title": "Damian Lillard’s search for the right co-star has finally ended with Deni Avdija - Rip City Project",
      "published": "2026-11-17T19:27:35+00:00",
      "summary": "Damian Lillard’s search for the right co-star has finally ended with Deni Avdija Rip City Project"
     },
     {
-     "ref": "gnews_israeli_nba#14",
+     "ref": "gnews_israeli_nba#15",
      "title": "Deni Avdija (foot) listed questionable Tuesday - FantasyPros",
      "published": "2026-11-17T19:24:00+00:00",
      "summary": "Deni Avdija (foot) listed questionable Tuesday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#15",
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija may miss Tuesday's game against Timberwolves - Yahoo Sports",
      "published": "2026-11-17T19:20:59+00:00",
      "summary": "Deni Avdija may miss Tuesday's game against Timberwolves Yahoo Sports"
     },
     {
-     "ref": "gnews_israeli_nba#16",
+     "ref": "gnews_israeli_nba#17",
      "title": "Trail Blazers' Deni Avdija: Listed as questionable - CBS Sports",
      "published": "2026-11-17T19:20:07+00:00",
      "summary": "Trail Blazers' Deni Avdija: Listed as questionable CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija Injury: Listed as questionable - RotoWire",
      "published": "2026-11-17T19:20:07+00:00",
      "summary": "Deni Avdija Injury: Listed as questionable RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#19",
      "title": "Ben Saraf News: Diverse effort against Delaware - RotoWire",
      "published": "2026-11-17T18:22:35+00:00",
      "summary": "Ben Saraf News: Diverse effort against Delaware RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#20",
      "title": "Deni Avdija drops 27 points Monday - FantasyPros",
-     "published": "2026-11-17T15:41:17+00:00",
+     "published": "2026-11-17T15:41:00+00:00",
      "summary": "Deni Avdija drops 27 points Monday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#20",
+     "ref": "gnews_israeli_nba#21",
      "title": "Despite strong efforts from Ben Saraf, Drake Powell, Long Island fall to Delaware, 108-107 - NetsDaily",
      "published": "2026-11-17T14:19:44+00:00",
      "summary": "Despite strong efforts from Ben Saraf, Drake Powell, Long Island fall to Delaware, 108-107 NetsDaily"
     },
     {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#22",
      "title": "Highlights From Deni Avdija 27-Point Game - NBA.com",
      "published": "2026-11-17T09:37:18+00:00",
      "summary": "Highlights From Deni Avdija 27-Point Game NBA.com"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#23",
      "title": "Deni Avdija scores team-high 27 points in loss - NBC Sports",
      "published": "2026-11-17T04:17:35+00:00",
      "summary": "Deni Avdija scores team-high 27 points in loss NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#24",
      "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
      "published": "2026-11-17T04:00:48+00:00",
      "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
-    },
-    {
-     "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija Highlights (27 Points, 8 Rebounds) | Trail Blazers 98, Timberwolves 106 | Nov. 16, 2026 - NBA.com",
-     "published": "2026-11-17T03:59:19+00:00",
-     "summary": "Deni Avdija Highlights (27 Points, 8 Rebounds) | Trail Blazers 98, Timberwolves 106 | Nov. 16, 2026 NBA.com"
     }
    ]
   }
