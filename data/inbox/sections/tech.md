@@ -250,103 +250,103 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "AI is killing All About Berlin",
      "published": "2026-11-18T06:47:26+00:00",
-     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 336 # Comments: 296"
+     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 365 # Comments: 332"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "ID.me terms required for IRS sign-in",
      "published": "2026-11-18T00:51:45+00:00",
-     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 361 # Comments: 161"
+     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 369 # Comments: 166"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Google's AI answers reducing search traffic by 40%",
      "published": "2026-11-18T00:17:58+00:00",
-     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 389 # Comments: 294"
+     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 415 # Comments: 303"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Archive Team is archiving the Apple Support Community",
      "published": "2026-11-17T23:32:58+00:00",
-     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 197 # Comments: 70"
+     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 199 # Comments: 71"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
      "published": "2026-11-17T23:18:49+00:00",
-     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 325 # Comments: 71"
+     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 335 # Comments: 72"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "published": "2026-11-17T22:13:34+00:00",
-     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 603 # Comments: 199"
+     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 625 # Comments: 212"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
      "published": "2026-11-17T21:16:12+00:00",
-     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 184 # Comments: 256"
+     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 189 # Comments: 267"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "published": "2026-11-17T21:11:28+00:00",
-     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 943 # Comments: 240"
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 961 # Comments: 243"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "jQuery 4.1.0",
      "published": "2026-11-17T19:50:40+00:00",
-     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 322 # Comments: 164"
+     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 326 # Comments: 166"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
      "published": "2026-11-17T19:25:27+00:00",
-     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 335 # Comments: 105"
+     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 337 # Comments: 108"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Solid 2.0",
      "published": "2026-11-17T18:56:17+00:00",
-     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 313 # Comments: 95"
+     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 317 # Comments: 96"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Phrack 73",
      "published": "2026-11-17T18:31:25+00:00",
-     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 384 # Comments: 53"
+     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 388 # Comments: 53"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "MAI Code 2 and Code 2 Flash",
      "published": "2026-11-17T18:25:13+00:00",
-     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 359 # Comments: 155"
+     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 365 # Comments: 155"
     },
     {
      "ref": "hn_frontpage#13",
      "title": "GPT‑6.2 Astra and Sol",
      "published": "2026-11-17T17:46:43+00:00",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1274 # Comments: 794"
+     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1279 # Comments: 796"
     },
     {
      "ref": "hn_frontpage#14",
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "published": "2026-11-17T17:12:06+00:00",
-     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 545 # Comments: 243"
+     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 554 # Comments: 247"
     },
     {
      "ref": "hn_frontpage#15",
      "title": "Highly classified US national security communications network goes down",
      "published": "2026-11-17T15:38:28+00:00",
-     "summary": "https://www.reuters.com/technology/highly-classified-us-nati... Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 580 # Comments: 670"
+     "summary": "https://www.reuters.com/technology/highly-classified-us-nati... Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 589 # Comments: 673"
     },
     {
      "ref": "hn_frontpage#16",
      "title": "What is the best harness for each model?",
      "published": "2026-11-17T14:53:43+00:00",
-     "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 375 # Comments: 126"
+     "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 377 # Comments: 127"
     }
    ]
   },

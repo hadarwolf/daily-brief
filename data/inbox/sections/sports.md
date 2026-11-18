@@ -47,16 +47,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-18T23:30:00Z",
-     "home": "Flamengo",
-     "away": "Paranaense",
+     "home": "Cruzeiro",
+     "away": "Palmeiras",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-18T23:30:00Z",
-     "home": "Cruzeiro",
-     "away": "Palmeiras",
+     "home": "Flamengo",
+     "away": "Paranaense",
      "status": "TIMED",
      "score": null
     }
@@ -521,147 +521,147 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#1",
+     "title": "NI will carry momentum into Euro 2028 qualifiers",
+     "published": "2026-11-18T10:04:44+00:00",
+     "summary": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December."
+    },
+    {
+     "ref": "bbc_football#2",
      "title": "When is the Nations League quarter-final draw?",
      "published": "2026-11-18T09:33:42+00:00",
      "summary": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "BBC Women's Footballer of the Year 2026 to be named on 13 December",
      "published": "2026-11-18T09:00:06+00:00",
      "summary": "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "Manchester won't always be blue - Pochettino",
      "published": "2026-11-18T08:42:28+00:00",
      "summary": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "Rangers explore return for Cerny - gossip",
      "published": "2026-11-18T08:15:37+00:00",
      "summary": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis..."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "Listen: What needs to change for Pocognoli and Scotland?",
      "published": "2026-11-18T08:00:00+00:00",
      "summary": "What needs to change to turn Scotland’s fortunes around?"
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "From one of Ajax's future stars to quitting football for music",
      "published": "2026-11-18T07:02:42+00:00",
      "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-18T06:56:12+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
      "published": "2026-11-18T06:27:11+00:00",
      "summary": "After 60 years, is time finally running out on the 3pm blackout in football?"
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "Belief and bench steer Northern Ireland into Nations League top tier",
      "published": "2026-11-17T23:49:31+00:00",
      "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
      "published": "2026-11-17T23:37:45+00:00",
      "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#12",
      "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
      "published": "2026-11-17T23:10:33+00:00",
      "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
      "published": "2026-11-17T22:54:51+00:00",
      "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
      "published": "2026-11-17T22:25:16+00:00",
      "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Highlights: Ten-man Portugal beat Wales to top group",
      "published": "2026-11-17T21:56:04+00:00",
      "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "Rangers great Brand dies aged 89",
      "published": "2026-11-17T21:02:57+00:00",
      "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "'A great of the club' - Rangers legend Brand dies aged 89",
      "published": "2026-11-17T21:02:57+00:00",
      "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Millwall open disciplinary proceedings against Baker",
      "published": "2026-11-17T20:00:52+00:00",
      "summary": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
      "published": "2026-11-17T19:35:06+00:00",
      "summary": "TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid."
     },
     {
-     "ref": "bbc_football#19",
+     "ref": "bbc_football#20",
      "title": "Arsenal Double winner Storey dies aged 81",
      "published": "2026-11-17T17:33:41+00:00",
      "summary": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81."
     },
     {
-     "ref": "bbc_football#20",
+     "ref": "bbc_football#21",
      "title": "Swansea boss Matos on brink of Strasbourg move",
      "published": "2026-11-17T16:52:59+00:00",
      "summary": "Vitor Matos says farewell to Swansea City's players and staff as he closes in on a move to Strasbourg."
     },
     {
-     "ref": "bbc_football#21",
+     "ref": "bbc_football#22",
      "title": "FA wants to host Nations League finals in England",
      "published": "2026-11-17T15:51:30+00:00",
      "summary": "England could host the Nations League finals this season after Football Association officials register their interest."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Rooney says he considered taking his own life at Man Utd",
      "published": "2026-11-17T14:09:19+00:00",
      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\"."
     },
     {
-     "ref": "bbc_football#23",
+     "ref": "bbc_football#24",
      "title": "Romario demands Ancelotti sacking as war of words continues",
      "published": "2026-11-17T13:10:58+00:00",
      "summary": "Romario - Brazil's fourth-highest scorer behind Neymar, Pele and Ronaldo - publicly demands legendary manager Carlo Ancelotti be relieved of his duties."
-    },
-    {
-     "ref": "bbc_football#24",
-     "title": "Hincapie in advanced talks over new Arsenal deal",
-     "published": "2026-11-17T13:09:23+00:00",
-     "summary": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract."
     }
    ]
   },
@@ -683,117 +683,117 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#2",
+     "title": "Orlando vs. Inter Miami CF - Live Score - April 17, 2027 - FOX Sports",
+     "published": "2026-11-18T00:30:46+00:00",
+     "summary": "Orlando vs. Inter Miami CF - Live Score - April 17, 2027 FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
+     "title": "Columbus vs. Inter Miami CF - Live Score - April 21, 2027 - FOX Sports",
+     "published": "2026-11-18T00:17:59+00:00",
+     "summary": "Columbus vs. Inter Miami CF - Live Score - April 21, 2027 FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami CF vs. New York Red Bulls: Live game updates, stats, play-by-play - Yahoo",
      "published": "2026-11-17T23:47:03+00:00",
      "summary": "Inter Miami CF vs. New York Red Bulls: Live game updates, stats, play-by-play Yahoo"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
      "title": "Luis Suarez reveals how he sees his retirement alongside Lionel Messi, although it may not happen together - World Soccer Talk",
      "published": "2026-11-17T23:24:54+00:00",
      "summary": "Luis Suarez reveals how he sees his retirement alongside Lionel Messi, although it may not happen together World Soccer Talk"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#6",
      "title": "MLS Predictions: Fierce Battles Ignite Opening Round of the 2026 MLS Cup Playoffs - Sports Illustrated",
      "published": "2026-11-17T23:00:01+00:00",
      "summary": "MLS Predictions: Fierce Battles Ignite Opening Round of the 2026 MLS Cup Playoffs Sports Illustrated"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#7",
      "title": "MESSI’S REMARKABLE 2026: From MetLife heartbreak to a record Golden Boot - Front Row Soccer",
      "published": "2026-11-17T22:46:10+00:00",
      "summary": "MESSI’S REMARKABLE 2026: From MetLife heartbreak to a record Golden Boot Front Row Soccer"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#8",
      "title": "Will they stop together? Suárez reveals the secret delaying Messi's retirement - Goal.com",
      "published": "2026-11-17T20:37:36+00:00",
      "summary": "Will they stop together? Suárez reveals the secret delaying Messi's retirement Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#9",
      "title": "Lionel Messi & Inter Miami enter MLS Cup Playoffs with historic ambitions - MLSsoccer.com",
      "published": "2026-11-17T20:14:30+00:00",
      "summary": "Lionel Messi & Inter Miami enter MLS Cup Playoffs with historic ambitions MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#8",
-     "title": "Luis Suárez Set to Extend Inter Miami Contract Through 2027 as He Eyes Another Season Alongside Messi - Pasión Fútbol",
-     "published": "2026-11-17T19:42:32+00:00",
-     "summary": "Luis Suárez Set to Extend Inter Miami Contract Through 2027 as He Eyes Another Season Alongside Messi Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Inter Miami vs Columbus Crew playoff preview: coin toss or foregone conclusion? - Prost International [PINT]",
      "published": "2026-11-17T19:28:03+00:00",
      "summary": "Inter Miami vs Columbus Crew playoff preview: coin toss or foregone conclusion? Prost International [PINT]"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "Rodrigo De Paul sends in a goal from distance for Inter Miami - ESPN",
      "published": "2026-11-17T17:38:11+00:00",
      "summary": "Rodrigo De Paul sends in a goal from distance for Inter Miami ESPN"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Feed your Inter Miami obsession with the new FanSided app - Inter Heron",
      "published": "2026-11-17T16:31:29+00:00",
      "summary": "Feed your Inter Miami obsession with the new FanSided app Inter Heron"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "David Beckham sues after fragrance sold in gas stations, discount stores - Sportsnet.ca",
      "published": "2026-11-17T16:25:00+00:00",
      "summary": "David Beckham sues after fragrance sold in gas stations, discount stores Sportsnet.ca"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "New York City FC vs. Inter Miami CF: Live game updates, stats, play-by-play - Yahoo",
      "published": "2026-11-17T15:59:27+00:00",
      "summary": "New York City FC vs. Inter Miami CF: Live game updates, stats, play-by-play Yahoo"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk - SportsGrid",
      "published": "2026-11-17T13:27:11+00:00",
      "summary": "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk SportsGrid"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Messi Shuts Down Exit Rumors with 2028 Inter Miami Commitment Despite Argentina Coaching Invite - Yahoo Sports",
      "published": "2026-11-17T12:14:17+00:00",
      "summary": "Messi Shuts Down Exit Rumors with 2028 Inter Miami Commitment Despite Argentina Coaching Invite Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami CF Names American Airlines Official Airline Partner - https://safariindia.com/",
      "published": "2026-11-17T09:03:50+00:00",
      "summary": "Inter Miami CF Names American Airlines Official Airline Partner https://safariindia.com/"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "Marriott Bonvoy Partners with Inter Miami CF - https://safariindia.com/",
      "published": "2026-11-17T08:27:47+00:00",
      "summary": "Marriott Bonvoy Partners with Inter Miami CF https://safariindia.com/"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Watch Columbus Crew vs Inter Miami CF - Fubo",
      "published": "2026-11-17T07:24:23+00:00",
      "summary": "Watch Columbus Crew vs Inter Miami CF Fubo"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami - Barcelona 0-6 - Flashscore.com",
      "published": "2026-11-17T00:09:38+00:00",
      "summary": "Inter Miami - Barcelona 0-6 Flashscore.com"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Lionel Messi Returns to MLS Playoffs With a Chance to Lead Inter Miami to Back-to-Back MLS Cup Titles - Pasión Fútbol",
-     "published": "2026-11-17T00:09:28+00:00",
-     "summary": "Lionel Messi Returns to MLS Playoffs With a Chance to Lead Inter Miami to Back-to-Back MLS Cup Titles Pasión Fútbol"
     },
     {
      "ref": "gnews_inter_miami#21",
@@ -803,21 +803,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#22",
-     "title": "Lionel Messi Reportedly Moves to Distance Himself From AFA as Inter Miami Prepares Monumental Return - Pasión Fútbol",
-     "published": "2026-11-16T19:40:51+00:00",
-     "summary": "Lionel Messi Reportedly Moves to Distance Himself From AFA as Inter Miami Prepares Monumental Return Pasión Fútbol"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series - MLSsoccer.com",
      "published": "2026-11-16T16:51:43+00:00",
      "summary": "Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami CF vs. FC Cincinnati: Live game updates, stats, play-by-play - Yahoo",
      "published": "2026-11-16T16:20:55+00:00",
      "summary": "Inter Miami CF vs. FC Cincinnati: Live game updates, stats, play-by-play Yahoo"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Inter Miami vs. Columbus Crew: How to watch, stream Round One Game 1 - MLSsoccer.com",
+     "published": "2026-11-16T16:04:27+00:00",
+     "summary": "Inter Miami vs. Columbus Crew: How to watch, stream Round One Game 1 MLSsoccer.com"
     }
    ]
   },
@@ -942,7 +942,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija drops 27 points Monday - FantasyPros",
-     "published": "2026-11-17T15:41:00+00:00",
+     "published": "2026-11-17T15:41:17+00:00",
      "summary": "Deni Avdija drops 27 points Monday FantasyPros"
     },
     {
