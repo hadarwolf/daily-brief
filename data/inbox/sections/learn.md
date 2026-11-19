@@ -24,134 +24,121 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2017,
-   "text": "Cyclone Numa, a rare \"medicane\", made landfall in Greece to become the worst weather event that the country had experienced since 1977.",
+   "year": 2013,
+   "text": "A double suicide bombing at the Iranian embassy in Beirut, Lebanon, killed 23 people and injured at least 160 others.",
    "context": [
-    "Cyclone Numa, also known as Medicane Numa, was a Mediterranean tropical-like cyclone with the properties of a subtropical cyclone. Numa formed on 11 November 2017 west of the British Isles, out of the extratropical remnants of Tropical Storm Rina, the seventeenth named storm of the 2017 Atlantic hurricane season. Subsequently, on 17 November, Numa acquired subtropical characteristics before reaching peak intensity on 18 November, becoming a rare \"medicane\". After making landfall in Greece on 18 November, Numa rapidly weakened, and was later absorbed into another extratropical storm on 20 November. The flooding triggered by Numa became the worst weather event Greece had experienced since 1977, and the storm caused an estimated $100 million in damages in Europe."
+    "The 2013 Iranian embassy bombing in Beirut was a double suicide bombing in front of the Iranian embassy in Beirut, Lebanon on 19 November 2013. The two bombings resulted in 23 deaths and injured at least 160 others."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2014,
-   "text": "Two Palestinian men attacked the praying congregants of a synagogue in Jerusalem with axes, knives, and a gun, resulting in eight deaths, including the attackers themselves.",
+   "year": 2010,
+   "text": "The first of four explosions occurred at the Pike River Mine in the West Coast in New Zealand's worst mining disaster in nearly a century.",
    "context": [
-    "On the morning of 18 November 2014, two Palestinian men from Jerusalem entered Kehilat Bnei Torah synagogue, in the Har Nof neighborhood of Jerusalem, and attacked the praying congregants with axes, knives, and a gun. They killed four dual-nationality worshippers, and critically wounded a responding Druze Israeli police officer, who later died of his wounds. They also injured seven male worshippers, one of whom never woke up from a coma and died 11 months later. The two attackers were then shot dead by the police."
+    "The Pike River Mine disaster was a coal mining accident that occurred on 19 November 2010 in the Pike River Mine, 46 km (29 mi) northeast of Greymouth, in the West Coast region of New Zealand's South Island. It began with a methane explosion at approximately 3:44 pm. The accident resulted in the deaths of 29 miners."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2011,
-   "text": "The sandbox video game Minecraft exited beta with the official release of version 1.0.",
+   "year": 2005,
+   "text": "Iraq War: A group of United States Marines massacred 25 people in the town of Haditha.",
    "context": [
-    "Minecraft is a sandbox video game developed and published by the Swedish company Mojang Studios. Following its initial public alpha release as an early access title on 17 May 2009, it was formally released on 18 November 2011 for personal computers. The game has since been ported to numerous platforms, including mobile devices and various video game consoles."
+    "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. It began in March 2003 with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose against coalition forces and the newly established Iraqi government. US forces were officially withdrawn in 2011. In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2003,
-   "text": "With its ruling in Goodridge v. Department of Public Health, the Massachusetts Supreme Judicial Court made the state the first in the U.S. to legalize same-sex marriage.",
+   "year": 2002,
+   "text": "The Greek oil tanker Prestige split in two and sank off the coast of Galicia after spilling 420 thousand barrels (17.8 million US gallons) of oil, in the worst environmental disaster in Spanish and Portuguese history.",
    "context": [
-    "Goodridge v. Dept. of Public Health, 798 N.E.2d 941, is a landmark Massachusetts Supreme Judicial Court case in which the Court held that the Massachusetts Constitution requires the state to legally recognize same-sex marriage. The November 18, 2003, decision was the first by a U.S. state's highest court to find that same-sex couples had the right to marry. Despite numerous attempts to delay the ruling, and to reverse it, the first marriage licenses were issued to same-sex couples on May 17, 2004, and the ruling has been in full effect since that date."
+    "MV Prestige was an oil tanker owned by a Greek company based in Athens and operating under a Bahamian flag of convenience, that on 19 November 2002 sank off the coast of Galicia, Spain. The sinking caused a major environmental disaster, polluting thousands of miles of coastline with 50,000 metric tons of oil."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1999,
-   "text": "Texas A&M University's Aggie Bonfire collapsed (aftermath pictured), killing 12 people and injuring 27 others, and causing the university to officially declare a hiatus on the 90-year-old annual event.",
+   "year": 1991,
+   "text": "Mexican singer Luis Miguel released the album Romance, which led to a revival of interest in bolero music.",
    "context": [
-    "Texas A&M University is a public land-grant research university in College Station, Texas, United States. It was founded in 1876 and became the flagship institution of the Texas A&M University System in 1948. Since 2021, Texas A&M has enrolled the largest student body in the United States. It is classified among \"R1: Doctoral Universities – Very high research activity\" and since 2001 has been a member of the Association of American Universities."
+    "Luis Miguel Gallego Basteri is a Mexican singer and record producer. Born in Puerto Rico to an Italian mother and a Spanish father, he is often referred to as \"El Sol de México\". Luis Miguel has sung in multiple genres and styles, including pop songs, ballads, boleros, tangos, jazz, big band, and mariachi. He is also recognized as the only major Latin singer of his generation not to cross over to the Anglo market during the \"Latin Explosion\" in the 1990s."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1991,
-   "text": "The current flag of Uzbekistan was adopted, making the country the first newly independent republic in Central Asia to choose a new flag.",
+   "year": 1985,
+   "text": "The first of five summits (pictured) between Soviet general secretary Mikhail Gorbachev and U.S. president Ronald Reagan began in Geneva.",
    "context": [
-    "The national flag of Uzbekistan, officially the state flag of the Republic of Uzbekistan, consists of a horizontal triband of dark azure blue, white and dark green, separated by two thin red fimbriations, with a white crescent moon and twelve white stars in the canton. Adopted in 1991 to replace the flag of the Uzbek Soviet Socialist Republic, it has been the flag of the Republic of Uzbekistan since the country gained independence in that same year. The design of the present flag was based on the former one."
+    "The Geneva Summit of 1985 was a Cold War-era meeting in Geneva, Switzerland. It was held on November 19–21, 1985, between U.S. president Ronald Reagan and Soviet general secretary Mikhail Gorbachev. The two leaders met for the first time to hold talks on international diplomatic relations and the arms race."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1991,
-   "text": "Croatian War of Independence: The Yugoslav People's Army captured the Croatian city of Vukovar, ending an 87-day siege.",
+   "year": 1969,
+   "text": "Playing for Santos against Vasco da Gama in the Maracanã Stadium in Rio de Janeiro, Brazilian footballer Pelé scored his thousandth goal (commemorative stamp pictured).",
    "context": [
-    "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992."
+    "Santos Futebol Clube is a Brazilian sports club based in Vila Belmiro, a bairro in the city of Santos. It plays in the Campeonato Paulista, the state of São Paulo's premier state league, as well as the Campeonato Brasileiro Série A, the top flight of the Brazilian football league system, after winning the 2024 Série B title."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1987,
-   "text": "An underground fire killed 31 people at King's Cross St Pancras tube station in London.",
+   "year": 1942,
+   "text": "World War II: Soviet troops launched Operation Uranus at the Battle of Stalingrad with the goal of encircling Axis forces, turning the tide of the battle in their favour.",
    "context": [
-    "The King's Cross fire occurred on 18 November 1987 at King's Cross St Pancras tube station in London, England, causing 31 fatalities. It began under a wooden escalator before spreading into the ticket hall in a flashover."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1978,
-   "text": "Jim Jones led more than 900 members of the Peoples Temple to mass murder/suicide in Jonestown, Guyana, hours after some of its members assassinated U.S. Congressman Leo Ryan.",
+   "year": 1941,
+   "text": "World War II: The Australian light cruiser HMAS Sydney and the German auxiliary cruiser Kormoran destroyed each other in the Indian Ocean.",
    "context": [
-    "James Warren Jones was an American cult leader, preacher, and mass murderer who founded and led the Peoples Temple, a new religious movement between 1955 and 1978. Jones and the members of his inner circle planned and orchestrated a mass murder–suicide that resulted in the deaths of over 900 people. He described the action as \"revolutionary suicide\", a term coined by Huey P. Newton. The people went to their deaths at the remote jungle commune which they had developed at Jonestown, Guyana, which was operated like a mini-totalitarian police state under official permission and a formal land lease from the Government of Guyana. U.S. Congressman Leo Ryan, who had been visiting to investigate reports of human rights abuses and people wanting to leave, was also assassinated before his plane departed. Jones blended Pentecostal religious authority with Marxist–Leninist rhetoric, with an emphasis on racial equality during the civil rights movement, which resulted in most of his followers being African American."
+    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1977,
-   "text": "Solomon Islands ratified the adoption of a new flag (pictured).",
+   "year": 1933,
+   "text": "A coalition of right-wing parties won the majority of seats in the Congress of Deputies in the first general election in Spain with suffrage extended to women.",
    "context": [
-    "The flag of Solomon Islands consists of a thin yellow diagonal stripe from the lower hoist-side corner, with a blue upper triangle and green lower triangle, and the canton charged with five white stars. Adopted in 1977 to replace the British Blue Ensign defaced with the arms of the protectorate, it has been the flag of Solomon Islands since 18 November of that year, eight months before the country gained independence. Although the number of provinces has since increased, the number of stars on the flag that originally represented them remained unchanged."
+    "The Congress of Deputies is the lower house of the Cortes Generales, Spain's legislative branch, the upper house being the Senate. The Congress meets in the Palace of the Parliament in Madrid."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1956,
-   "text": "At the Polish embassy in Moscow, a phrase in an address by Soviet leader Nikita Khrushchev (pictured) was translated into English as \"We will bury you\", prompting Western envoys to leave the room.",
+   "year": 1863,
+   "text": "American Civil War: U.S. president Abraham Lincoln delivered the Gettysburg Address at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania.",
    "context": [
-    "Nikita Sergeyevich Khrushchev was the First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and the Chairman of the Council of Ministers from 1958 to 1964. As leader of the Soviet Union, he shocked the world by denouncing his predecessor Joseph Stalin, embarking on a campaign of de-Stalinization, and presiding over the Cuban Missile Crisis in 1962."
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1872,
-   "text": "American suffragist Susan B. Anthony (pictured) was arrested and later fined $100 for having voted in the presidential election two weeks earlier.",
+   "year": 1863,
+   "text": "American Civil War: Confederate forces began the Siege of Knoxville against Union fortifications.",
    "context": [
-    "Women's suffrage, or the right of women to vote, was established in the United States over the course of the late 19th and early 20th centuries, first in various states and localities, then nationally in 1920 with the ratification of the 19th Amendment to the United States Constitution."
+    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1865,
-   "text": "\"The Celebrated Jumping Frog of Calaveras County\" was published, becoming the first great success of American author Mark Twain.",
+   "year": 1824,
+   "text": "Temenggong Abdul Rahman of Johor and Sultan Hussein Shah of Johor ceded the governance of Singapore to the British East India Company.",
    "context": [
-    "\"The Celebrated Jumping Frog of Calaveras County\" is an 1865 short story by Mark Twain. It was his first great success as a writer and brought him national attention. The story has also been published as \"Jim Smiley and His Jumping Frog\" and \"The Notorious Jumping Frog of Calaveras County\". In it, the narrator retells a story he heard from a bartender, Simon Wheeler, at the Angels Hotel in Angels Camp, California, about the gambler Jim Smiley. The narrator describes him: \"If he even seen a straddle bug start to go anywhere, he would bet you how long it would take him to get to wherever he going to, and if you took him up, he would foller that straddle bug to Mexico but what he would find out where he was bound for and how long he was on the road.\""
+    "Abdul Rahman I bin Abdul Hamid I of Johor was the Temenggong of Johor during the Bendahara dynasty of the Johor Sultanate. He was best known of being instrumental in the Treaty of Singapore with the British East India Company in 1819."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1809,
-   "text": "Napoleonic Wars: In the Bay of Bengal, a squadron of French frigates captured three ships carrying recruits for the armies of the East India Company.",
+   "year": 1794,
+   "text": "The United States and Great Britain signed the Jay Treaty, the basis for ten years of peaceful trade between the two nations.",
    "context": [
-    "The Napoleonic Wars (1803–1815) were a global series of conflicts fought by shared European coalitions against the French First Republic (1803–1804) under the First Consul followed by the First French Empire (1804–1815) under the Emperor of the French, Napoleon I. The wars originated in political forces arising from the French Revolution (1789–1799) and French Revolutionary Wars (1792–1802) and produced a period of French domination over continental Europe. The wars are categorised as seven conflicts, five named after the coalitions that fought Napoleon, plus two named for their respective theatres : the War of the Third Coalition, War of the Fourth Coalition, War of the Fifth Coalition, War of the Sixth Coalition, War of the Seventh Coalition, the Peninsular War, and the French invasion of Russia."
-   ]
-  },
-  {
-   "ref": "wikipedia#14",
-   "year": 1583,
-   "text": "The siege of Godesberg, the first major siege of the Cologne War, began.",
-   "context": [
-    "The siege of Godesberg, 18 November – 17 December 1583, was the first major siege of the Cologne War (1583–1589). Seeking to wrest control of an important fortification, Bavarian and mercenary soldiers surrounded the Godesberg, and the village then of the same name, now Bad Godesberg, located at its foot. On top of the mountain sat a formidable fortress, similarly named Godesburg, built in the early 13th century during a contest over the election of two competing archbishops."
-   ]
-  },
-  {
-   "ref": "wikipedia#15",
-   "year": 1210,
-   "text": "Otto IV, Holy Roman Emperor, was ex­com­mu­ni­cated by Pope Innocent III after Otto commanded him to annul the Concordat of Worms.",
-   "context": [
-    "Otto IV was the Holy Roman Emperor from 1209 until his death in 1218."
+    "The Treaty of Amity, Commerce, and Navigation, Between His Britannic Majesty and the United States of America, commonly known as the Jay Treaty, and also as Jay's Treaty, was a 1794 treaty between the United States and Great Britain that averted war, resolved issues remaining since the 1783 Treaty of Paris, and facilitated ten years of peaceful trade between Americans and the British in the midst of the French Revolutionary Wars, which had begun in 1792. For the Americans, the treaty's policy was designed by Treasury secretary Alexander Hamilton, supported by President George Washington. It angered France and bitterly divided American public opinion, encouraging the growth of two opposing American political parties, the pro-Treaty Federalists and the anti-Treaty Democratic-Republicans."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Bellwether (מדד מקדים)",
+  "Sticker shock (תדהמת מחיר)",
+  "Cash cow (פרת מזומנים)",
   "Vintage (וינטג')",
   "Hockey-stick growth (צמיחת מקל הוקי)",
   "Dogfooding (אכילת מזון הכלבים של עצמך)",
@@ -238,10 +225,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Lipstick on a pig (שפתון על חזיר)",
   "EBITDA (רווח תפעולי לפני ריבית, מיסים, פחת והפחתות)",
   "Golden parachute (מצנח זהב)",
-  "Pull the plug (לשלוף את התקע)",
-  "Capex (הוצאות הוניות)",
-  "Build vs. buy (לבנות או לקנות)",
-  "Smoke and mirrors (עשן ומראות)"
+  "Pull the plug (לשלוף את התקע)"
  ]
 }
 </input>

@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations - AP News",
-     "published": "2026-11-18T10:19:00+00:00",
-     "summary": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations AP News"
+     "title": "Republican Nick Begich wins reelection to Alaska's US House seat, a rare bright spot for the GOP - AP News",
+     "published": "2026-11-19T02:32:00+00:00",
+     "summary": "Republican Nick Begich wins reelection to Alaska's US House seat, a rare bright spot for the GOP AP News"
     },
     {
      "ref": "ap_world#1",
-     "title": "Violence - AP News",
-     "published": "2026-11-18T10:08:51+00:00",
-     "summary": "Violence AP News"
+     "title": "Taylor Swift returns to the CMA Awards stage for the first time in 13 years, Ella Langley wins big - AP News",
+     "published": "2026-11-19T02:28:00+00:00",
+     "summary": "Taylor Swift returns to the CMA Awards stage for the first time in 13 years, Ella Langley wins big AP News"
     },
     {
      "ref": "ap_world#2",
-     "title": "Senator vows AI hearings after watchdog gets platforms to plan terrorist attacks - AP News",
-     "published": "2026-11-18T10:00:00+00:00",
-     "summary": "Senator vows AI hearings after watchdog gets platforms to plan terrorist attacks AP News"
+     "title": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table - AP News",
+     "published": "2026-11-19T01:58:00+00:00",
+     "summary": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table AP News"
     },
     {
      "ref": "ap_world#3",
-     "title": "Latest news - AP News",
-     "published": "2026-11-18T09:34:01+00:00",
-     "summary": "Latest news AP News"
+     "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion - AP News",
+     "published": "2026-11-19T01:56:00+00:00",
+     "summary": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "Iran widens Gulf attacks, firing on a US air base in Kuwait and at targets in Bahrain - AP News",
-     "published": "2026-11-18T09:34:00+00:00",
-     "summary": "Iran widens Gulf attacks, firing on a US air base in Kuwait and at targets in Bahrain AP News"
+     "title": "Ole Miss defends handling of travel issues after Oklahoma AD blasts postponement - AP News",
+     "published": "2026-11-19T01:45:18+00:00",
+     "summary": "Ole Miss defends handling of travel issues after Oklahoma AD blasts postponement AP News"
     },
     {
      "ref": "ap_world#5",
-     "title": "Over a freeway near Los Angeles, animals can roam safely thanks to world's largest wildlife crossing - AP News",
-     "published": "2026-11-18T09:09:00+00:00",
-     "summary": "Over a freeway near Los Angeles, animals can roam safely thanks to world's largest wildlife crossing AP News"
+     "title": "Rainfall supercharged by El Niño causes road flooding, collapsed synagogue roof in south Florida - AP News",
+     "published": "2026-11-19T01:11:00+00:00",
+     "summary": "Rainfall supercharged by El Niño causes road flooding, collapsed synagogue roof in south Florida AP News"
     },
     {
      "ref": "ap_world#6",
-     "title": "World’s largest urban wildlife crossing set to open over busy Los Angeles area freeway - AP News",
-     "published": "2026-11-18T09:03:00+00:00",
-     "summary": "World’s largest urban wildlife crossing set to open over busy Los Angeles area freeway AP News"
+     "title": "World Cup winner Juan Mata retires from soccer after previous stints with Man U and Chelsea - AP News",
+     "published": "2026-11-19T00:57:00+00:00",
+     "summary": "World Cup winner Juan Mata retires from soccer after previous stints with Man U and Chelsea AP News"
     },
     {
      "ref": "ap_world#7",
-     "title": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China - AP News",
-     "published": "2026-11-18T08:58:00+00:00",
-     "summary": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China AP News"
+     "title": "From pop stars to poets to politicians, hundreds gather for joyful tribute to Gloria Steinem - AP News",
+     "published": "2026-11-19T00:35:00+00:00",
+     "summary": "From pop stars to poets to politicians, hundreds gather for joyful tribute to Gloria Steinem AP News"
     },
     {
      "ref": "ap_world#8",
-     "title": "World markets are mixed as AI stocks recover after Wall Street losses - AP News",
-     "published": "2026-11-18T08:54:00+00:00",
-     "summary": "World markets are mixed as AI stocks recover after Wall Street losses AP News"
+     "title": "Judge issues 14-day extension of order blocking Trump’s memorial arch in DC - AP News",
+     "published": "2026-11-19T00:10:00+00:00",
+     "summary": "Judge issues 14-day extension of order blocking Trump’s memorial arch in DC AP News"
     },
     {
      "ref": "ap_world#9",
-     "title": "World News: Top & Breaking World News Today - AP News",
-     "published": "2026-11-18T08:42:16+00:00",
-     "summary": "World News: Top & Breaking World News Today AP News"
+     "title": "US Catholic bishops’ new AI task force urges regulation and worker protections - AP News",
+     "published": "2026-11-19T00:06:00+00:00",
+     "summary": "US Catholic bishops’ new AI task force urges regulation and worker protections AP News"
     },
     {
      "ref": "ap_world#10",
-     "title": "North Korean leader Kim Jong Un's daughter goes skiing at resort being redeveloped near China border - AP News",
-     "published": "2026-11-18T06:37:00+00:00",
-     "summary": "North Korean leader Kim Jong Un's daughter goes skiing at resort being redeveloped near China border AP News"
+     "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations - AP News",
+     "published": "2026-11-19T00:02:00+00:00",
+     "summary": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations AP News"
     },
     {
      "ref": "ap_world#11",
-     "title": "Iran war dents Middle East sports model as events are canceled or postponed. F1 bucks the trend - AP News",
-     "published": "2026-11-18T05:07:00+00:00",
-     "summary": "Iran war dents Middle East sports model as events are canceled or postponed. F1 bucks the trend AP News"
+     "title": "Federal government lawyers again being assigned in Seattle-area immigration detention cases - AP News",
+     "published": "2026-11-18T23:58:00+00:00",
+     "summary": "Federal government lawyers again being assigned in Seattle-area immigration detention cases AP News"
     },
     {
      "ref": "ap_world#12",
-     "title": "Democrat Hakeem Jeffries faces a first test to becoming House speaker during leadership elections - AP News",
-     "published": "2026-11-18T05:01:00+00:00",
-     "summary": "Democrat Hakeem Jeffries faces a first test to becoming House speaker during leadership elections AP News"
+     "title": "US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas - AP News",
+     "published": "2026-11-18T23:39:00+00:00",
+     "summary": "US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas AP News"
     },
     {
      "ref": "ap_world#13",
-     "title": "Embattled Cowboys defensive coordinator Christian Parker's role could change, Jerry Jones says - AP News",
-     "published": "2026-11-18T04:56:00+00:00",
-     "summary": "Embattled Cowboys defensive coordinator Christian Parker's role could change, Jerry Jones says AP News"
+     "title": "Rob Manfred says MLB owners won't compromise on a salary cap, leaving sport headed to a lockout - AP News",
+     "published": "2026-11-18T23:37:00+00:00",
+     "summary": "Rob Manfred says MLB owners won't compromise on a salary cap, leaving sport headed to a lockout AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "Christian Pulisic stuns with a bicycle kick as the US sends off Mauricio Pochettino with a 2-0 win - AP News",
-     "published": "2026-11-18T04:25:00+00:00",
-     "summary": "Christian Pulisic stuns with a bicycle kick as the US sends off Mauricio Pochettino with a 2-0 win AP News"
+     "title": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse - AP News",
+     "published": "2026-11-18T23:35:00+00:00",
+     "summary": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse AP News"
     },
     {
      "ref": "ap_world#15",
-     "title": "Georgia remains atop College Football Playoff rankings and Wake Forest moves into bracket spot - AP News",
-     "published": "2026-11-18T04:05:00+00:00",
-     "summary": "Georgia remains atop College Football Playoff rankings and Wake Forest moves into bracket spot AP News"
+     "title": "Terrorism - AP News",
+     "published": "2026-11-18T23:34:32+00:00",
+     "summary": "Terrorism AP News"
     },
     {
      "ref": "ap_world#16",
-     "title": "Why AP called the Alaska Senate race for Democrat Mary Peltola - AP News",
-     "published": "2026-11-18T03:51:00+00:00",
-     "summary": "Why AP called the Alaska Senate race for Democrat Mary Peltola AP News"
+     "title": "Fishermen from Ecuador sue Trump administration over boat strike - AP News",
+     "published": "2026-11-18T23:32:00+00:00",
+     "summary": "Fishermen from Ecuador sue Trump administration over boat strike AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "Despite specter of ICE looming, fans welcome Haiti-US match in Cincinnati - AP News",
-     "published": "2026-11-18T03:19:00+00:00",
-     "summary": "Despite specter of ICE looming, fans welcome Haiti-US match in Cincinnati AP News"
+     "title": "DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner - AP News",
+     "published": "2026-11-18T23:14:00+00:00",
+     "summary": "DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "A Somali American Uber driver was strangled and run over by a passenger, authorities say - AP News",
-     "published": "2026-11-18T03:15:00+00:00",
-     "summary": "A Somali American Uber driver was strangled and run over by a passenger, authorities say AP News"
+     "title": "White Sox announce deal with Dustin May and designate Jordan Leasure for assignment - AP News",
+     "published": "2026-11-18T23:13:00+00:00",
+     "summary": "White Sox announce deal with Dustin May and designate Jordan Leasure for assignment AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "Congress skeptical as Trump officials seek $50B for air travel system - AP News",
-     "published": "2026-11-18T03:06:00+00:00",
-     "summary": "Congress skeptical as Trump officials seek $50B for air travel system AP News"
+     "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News",
+     "published": "2026-11-18T23:06:00+00:00",
+     "summary": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "Waymo suspends all driverless taxi rides on freeways after ban in California - AP News",
-     "published": "2026-11-18T03:00:00+00:00",
-     "summary": "Waymo suspends all driverless taxi rides on freeways after ban in California AP News"
+     "title": "Cincinnati Zoo says Fiona the hippo can’t undergo surgery after swallowing a hat - AP News",
+     "published": "2026-11-18T23:04:00+00:00",
+     "summary": "Cincinnati Zoo says Fiona the hippo can’t undergo surgery after swallowing a hat AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Ex-Brewer Jake Bauers says the city of Boston figured into his decision to sign with the Red Sox - AP News",
-     "published": "2026-11-18T02:37:00+00:00",
-     "summary": "Ex-Brewer Jake Bauers says the city of Boston figured into his decision to sign with the Red Sox AP News"
+     "title": "Fleming, Lacasse among players named to Canada's roster for Women's World Cup qualifying - AP News",
+     "published": "2026-11-18T23:04:00+00:00",
+     "summary": "Fleming, Lacasse among players named to Canada's roster for Women's World Cup qualifying AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Pope forgives person who nailed him in the eye with a rosary in Peru - AP News",
-     "published": "2026-11-18T02:35:00+00:00",
-     "summary": "Pope forgives person who nailed him in the eye with a rosary in Peru AP News"
+     "title": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants - AP News",
+     "published": "2026-11-18T23:03:00+00:00",
+     "summary": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Gianni Infantino - AP News",
-     "published": "2026-11-18T02:17:36+00:00",
-     "summary": "Gianni Infantino AP News"
+     "title": "Russian national accused of spying on employees of Silicon Valley defense and technology company - AP News",
+     "published": "2026-11-18T23:02:00+00:00",
+     "summary": "Russian national accused of spying on employees of Silicon Valley defense and technology company AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "Trump faces GOP pushback to his order to use steam to launch jets from aircraft carriers - AP News",
-     "published": "2026-11-18T02:06:00+00:00",
-     "summary": "Trump faces GOP pushback to his order to use steam to launch jets from aircraft carriers AP News"
+     "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage - AP News",
+     "published": "2026-11-18T23:00:00+00:00",
+     "summary": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage AP News"
     }
    ]
   },
@@ -174,153 +174,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+     "published": "2026-11-19T02:59:06+00:00",
+     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+     "published": "2026-11-19T02:20:15+00:00",
+     "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "Crimean Bridge attacked again, Russian official says",
+     "published": "2026-11-19T01:05:03+00:00",
+     "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+     "published": "2026-11-19T00:49:19+00:00",
+     "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
+    },
+    {
+     "ref": "bbc_world#4",
+     "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+     "published": "2026-11-19T00:38:52+00:00",
+     "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey."
+    },
+    {
+     "ref": "bbc_world#5",
+     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+     "published": "2026-11-18T23:47:46+00:00",
+     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles."
+    },
+    {
+     "ref": "bbc_world#6",
+     "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+     "published": "2026-11-18T23:28:03+00:00",
+     "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
+    },
+    {
+     "ref": "bbc_world#7",
+     "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+     "published": "2026-11-18T23:04:06+00:00",
+     "summary": "No state has ever been found guilty by an international court of committing genocide."
+    },
+    {
+     "ref": "bbc_world#8",
+     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+     "published": "2026-11-18T22:34:56+00:00",
+     "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
+    },
+    {
+     "ref": "bbc_world#9",
+     "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+     "published": "2026-11-18T22:32:47+00:00",
+     "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022."
+    },
+    {
+     "ref": "bbc_world#10",
+     "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+     "published": "2026-11-18T21:28:08+00:00",
+     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
+    },
+    {
+     "ref": "bbc_world#11",
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "published": "2026-11-18T21:13:06+00:00",
+     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January."
+    },
+    {
+     "ref": "bbc_world#12",
+     "title": "William and Kate meet PM Modi as they wrap up India tour",
+     "published": "2026-11-18T20:07:08+00:00",
+     "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize"
+    },
+    {
+     "ref": "bbc_world#13",
+     "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+     "published": "2026-11-18T17:09:43+00:00",
+     "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction."
+    },
+    {
+     "ref": "bbc_world#14",
+     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+     "published": "2026-11-18T17:00:40+00:00",
+     "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
+    },
+    {
+     "ref": "bbc_world#15",
+     "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+     "published": "2026-11-18T17:00:04+00:00",
+     "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
+    },
+    {
+     "ref": "bbc_world#16",
+     "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+     "published": "2026-11-18T16:33:16+00:00",
+     "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021."
+    },
+    {
+     "ref": "bbc_world#17",
+     "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+     "published": "2026-11-18T16:05:26+00:00",
+     "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat."
+    },
+    {
+     "ref": "bbc_world#18",
+     "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+     "published": "2026-11-18T15:39:57+00:00",
+     "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018."
+    },
+    {
+     "ref": "bbc_world#19",
+     "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+     "published": "2026-11-18T13:04:48+00:00",
+     "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday."
+    },
+    {
+     "ref": "bbc_world#20",
+     "title": "Bancroft sandpaper claims heap pressure on Cummins",
+     "published": "2026-11-18T11:12:46+00:00",
+     "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins."
+    },
+    {
+     "ref": "bbc_world#21",
+     "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+     "published": "2026-11-18T10:53:21+00:00",
+     "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine."
+    },
+    {
+     "ref": "bbc_world#22",
      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
      "published": "2026-11-18T10:23:57+00:00",
      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
     },
     {
-     "ref": "bbc_world#1",
-     "title": "Ghana's new $60m presidential jet sparks public outrage",
-     "published": "2026-11-18T09:27:51+00:00",
-     "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living."
-    },
-    {
-     "ref": "bbc_world#2",
-     "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-     "published": "2026-11-18T07:48:18+00:00",
-     "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
-    },
-    {
-     "ref": "bbc_world#3",
-     "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-     "published": "2026-11-18T05:11:42+00:00",
-     "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals."
-    },
-    {
-     "ref": "bbc_world#4",
-     "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-     "published": "2026-11-18T04:57:06+00:00",
-     "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected."
-    },
-    {
-     "ref": "bbc_world#5",
-     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-     "published": "2026-11-18T01:18:18+00:00",
-     "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
-    },
-    {
-     "ref": "bbc_world#6",
-     "title": "Millions of red crabs start annual migration on Christmas Island",
-     "published": "2026-11-17T23:05:39+00:00",
-     "summary": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory."
-    },
-    {
-     "ref": "bbc_world#7",
-     "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-     "published": "2026-11-17T23:02:12+00:00",
-     "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
-    },
-    {
-     "ref": "bbc_world#8",
-     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-     "published": "2026-11-17T22:46:30+00:00",
-     "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations."
-    },
-    {
-     "ref": "bbc_world#9",
-     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-     "published": "2026-11-17T21:24:35+00:00",
-     "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
-    },
-    {
-     "ref": "bbc_world#10",
-     "title": "Russian military plane crashes, killing all 19 on board",
-     "published": "2026-11-17T21:06:11+00:00",
-     "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
-    },
-    {
-     "ref": "bbc_world#11",
-     "title": "US loses measles elimination status after 26 years amid record case numbers",
-     "published": "2026-11-17T21:04:00+00:00",
-     "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
-    },
-    {
-     "ref": "bbc_world#12",
-     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-     "published": "2026-11-17T20:30:20+00:00",
-     "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
-    },
-    {
-     "ref": "bbc_world#13",
-     "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-     "published": "2026-11-17T18:20:36+00:00",
-     "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
-    },
-    {
-     "ref": "bbc_world#14",
-     "title": "Who to watch in Spain's election race",
-     "published": "2026-11-17T18:13:45+00:00",
-     "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule."
-    },
-    {
-     "ref": "bbc_world#15",
-     "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-     "published": "2026-11-17T17:37:04+00:00",
-     "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\"."
-    },
-    {
-     "ref": "bbc_world#16",
-     "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-     "published": "2026-11-17T17:19:57+00:00",
-     "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
-    },
-    {
-     "ref": "bbc_world#17",
-     "title": "BBC reports from Kyiv bridge hit by Russian attack",
-     "published": "2026-11-17T15:54:15+00:00",
-     "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike."
-    },
-    {
-     "ref": "bbc_world#18",
-     "title": "How the attack on Crimean Bridge unfolded",
-     "published": "2026-11-17T15:38:10+00:00",
-     "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
-    },
-    {
-     "ref": "bbc_world#19",
-     "title": "How new US chip restrictions on South East Asia will hit China",
-     "published": "2026-11-17T14:25:45+00:00",
-     "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily."
-    },
-    {
-     "ref": "bbc_world#20",
-     "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-     "published": "2026-11-17T11:49:01+00:00",
-     "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox"
-    },
-    {
-     "ref": "bbc_world#21",
-     "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-     "published": "2026-11-17T11:17:32+00:00",
-     "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
-    },
-    {
-     "ref": "bbc_world#22",
-     "title": "Will President Trump meet Kim Jong Un?",
-     "published": "2026-11-17T10:13:27+00:00",
-     "summary": "President Trump says he would be keen to meet the North Korea leader in China."
-    },
-    {
      "ref": "bbc_world#23",
-     "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-     "published": "2026-11-17T09:27:44+00:00",
-     "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back."
+     "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+     "published": "2026-11-18T09:28:35+00:00",
+     "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager."
     },
     {
      "ref": "bbc_world#24",
-     "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-     "published": "2026-11-17T06:23:51+00:00",
-     "summary": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen."
+     "title": "Ghana's new $60m presidential jet sparks public outrage",
+     "published": "2026-11-18T09:27:51+00:00",
+     "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living."
     }
    ]
   },
@@ -330,7 +330,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "economist_intl#0",
-     "title": "The incredible shrinking legacy of Donald J Trump",
+     "title": "The incredible shrinking legacy of Donald J. Trump",
      "published": "2026-11-17T16:53:04+00:00",
      "summary": "A three-way summit with Vladimir Putin and Xi Jinping in China will diminish America"
     },
@@ -345,12 +345,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "Teaching kids to think for themselves in the age of AI",
      "published": "2026-11-13T11:37:50+00:00",
      "summary": "The Economist Educational Foundation helps schoolchildren around the world make sense of the news"
-    },
-    {
-     "ref": "economist_intl#3",
-     "title": "Despite recent misses, political polling is more accurate than ever",
-     "published": "2026-11-12T00:44:06+00:00",
-     "summary": "But elections in America and Brazil illustrate how hard the task is becoming"
     }
    ]
   },
@@ -360,39 +354,39 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
-     "title": "America’s Hidden AI Advantage",
-     "published": "2026-11-18T09:00:00+00:00",
-     "summary": "The United States—not China—dominates diffusion."
-    },
-    {
-     "ref": "foreign_affairs#1",
      "title": "The Model Middle Power",
      "published": "2026-11-18T09:00:00+00:00",
      "summary": "What South Korea gets right about geopolitics."
     },
     {
-     "ref": "foreign_affairs#2",
-     "title": "Is China Misreading the Moment?",
-     "published": "2026-11-17T09:00:00+00:00",
-     "summary": "When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he will sit down with Chinese leader Xi Jinping for the fourth time amid an unexpected détente between Washington and Beijing. The trade war of 2025 is in abeyance, the two governments have announced a relationship of “constructive strategic stability,” and, to the alarm of American"
+     "ref": "foreign_affairs#1",
+     "title": "America’s Hidden AI Advantage",
+     "published": "2026-11-18T09:00:00+00:00",
+     "summary": "The United States—not China—dominates diffusion."
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#2",
      "title": "The Fantasy of a Turkish Middle East",
      "published": "2026-11-17T09:00:00+00:00",
      "summary": "Ankara’s risky bid to impose regional order."
     },
     {
-     "ref": "foreign_affairs#4",
-     "title": "Why Israel Is Losing America",
-     "published": "2026-11-16T09:00:00+00:00",
-     "summary": "The country must change course—or lose America."
+     "ref": "foreign_affairs#3",
+     "title": "Is China Misreading the Moment?",
+     "published": "2026-11-17T09:00:00+00:00",
+     "summary": "When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he will sit down with Chinese leader Xi Jinping for the fourth time amid an unexpected détente between Washington and Beijing. The trade war of 2025 is in abeyance, the two governments have announced a relationship of “constructive strategic stability,” and, to the alarm of American"
     },
     {
-     "ref": "foreign_affairs#5",
+     "ref": "foreign_affairs#4",
      "title": "China Doesn’t Want a Nuclear Arms Race",
      "published": "2026-11-16T09:00:00+00:00",
      "summary": "America can avert an unnecessary rivalry."
+    },
+    {
+     "ref": "foreign_affairs#5",
+     "title": "Why Israel Is Losing America",
+     "published": "2026-11-16T09:00:00+00:00",
+     "summary": "The country must change course—or lose America."
     },
     {
      "ref": "foreign_affairs#6",
@@ -432,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Spate of fatal crashes grounds Rio's hang-gliding fliers - Reuters",
-     "published": "2026-11-18T11:16:57+00:00",
-     "summary": "Spate of fatal crashes grounds Rio's hang-gliding fliers Reuters"
+     "title": "Japan says PM Takaichi, Putin held talks at APEC summit in China - Reuters",
+     "published": "2026-11-19T03:25:00+00:00",
+     "summary": "Japan says PM Takaichi, Putin held talks at APEC summit in China Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff - Reuters",
-     "published": "2026-11-18T11:07:43+00:00",
-     "summary": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff Reuters"
+     "title": "Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says - Reuters",
+     "published": "2026-11-19T03:19:00+00:00",
+     "summary": "Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says Reuters"
     },
     {
      "ref": "reuters_world#2",
-     "title": "Bangladesh deploys paramilitary as unrest grows over Hasina's return - Reuters",
-     "published": "2026-11-18T10:53:43+00:00",
-     "summary": "Bangladesh deploys paramilitary as unrest grows over Hasina's return Reuters"
+     "title": "US dollar hovers near 19-month high, Aussie falls after soft jobs data - Reuters",
+     "published": "2026-11-19T02:01:00+00:00",
+     "summary": "US dollar hovers near 19-month high, Aussie falls after soft jobs data Reuters"
     },
     {
      "ref": "reuters_world#3",
-     "title": "Russia says US, despite current sanctions, will likely need more of its uranium in future - Reuters",
-     "published": "2026-11-18T09:57:43+00:00",
-     "summary": "Russia says US, despite current sanctions, will likely need more of its uranium in future Reuters"
+     "title": "Stocks rise after Anthropic IPO pricing sets stage for blockbuster debut - Reuters",
+     "published": "2026-11-19T01:53:00+00:00",
+     "summary": "Stocks rise after Anthropic IPO pricing sets stage for blockbuster debut Reuters"
     },
     {
      "ref": "reuters_world#4",
-     "title": "What is APEC and who will be there? - Reuters",
-     "published": "2026-11-18T09:56:39+00:00",
-     "summary": "What is APEC and who will be there? Reuters"
+     "title": "North Korea's Kim inspects work sites, university amid overseas travel speculation - Reuters",
+     "published": "2026-11-19T01:51:00+00:00",
+     "summary": "North Korea's Kim inspects work sites, university amid overseas travel speculation Reuters"
     },
     {
      "ref": "reuters_world#5",
-     "title": "Five military officers injured in Jordan's helicopter crash, army says - Reuters",
-     "published": "2026-11-18T09:40:16+00:00",
-     "summary": "Five military officers injured in Jordan's helicopter crash, army says Reuters"
+     "title": "Islam forecast to soon exceed Christianity as world's biggest faith - Reuters",
+     "published": "2026-11-19T01:34:00+00:00",
+     "summary": "Islam forecast to soon exceed Christianity as world's biggest faith Reuters"
     },
     {
      "ref": "reuters_world#6",
-     "title": "Harry Styles, Billie Eilish and Cher to headline UK's Glastonbury in 2027 - Reuters",
-     "published": "2026-11-18T09:36:12+00:00",
-     "summary": "Harry Styles, Billie Eilish and Cher to headline UK's Glastonbury in 2027 Reuters"
+     "title": "Kazakhstan expects FAA blessing for direct US flights ahead of Trump-hosted G20 meeting - Reuters",
+     "published": "2026-11-18T23:38:36+00:00",
+     "summary": "Kazakhstan expects FAA blessing for direct US flights ahead of Trump-hosted G20 meeting Reuters"
     },
     {
      "ref": "reuters_world#7",
-     "title": "Samsung Electronics downplays concerns about neocloud firms and AI bubble - Reuters",
-     "published": "2026-11-18T09:33:02+00:00",
-     "summary": "Samsung Electronics downplays concerns about neocloud firms and AI bubble Reuters"
+     "title": "South Korea sees no particular sign of imminent US-North Korea talks, Yonhap says - Reuters",
+     "published": "2026-11-18T23:34:09+00:00",
+     "summary": "South Korea sees no particular sign of imminent US-North Korea talks, Yonhap says Reuters"
     },
     {
      "ref": "reuters_world#8",
-     "title": "Nvidia stops shipping US-approved AI chips to China - Reuters",
-     "published": "2026-11-18T09:17:54+00:00",
-     "summary": "Nvidia stops shipping US-approved AI chips to China Reuters"
+     "title": "At least 12 dead in organized crime attacks in Honduras, police spokesman says - Reuters",
+     "published": "2026-11-18T23:31:44+00:00",
+     "summary": "At least 12 dead in organized crime attacks in Honduras, police spokesman says Reuters"
     },
     {
      "ref": "reuters_world#9",
-     "title": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz - Reuters",
-     "published": "2026-11-18T07:41:00+00:00",
-     "summary": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz Reuters"
+     "title": "Top UN court to rule on alleged genocide of Myanmar's Rohingya - Reuters",
+     "published": "2026-11-18T23:27:04+00:00",
+     "summary": "Top UN court to rule on alleged genocide of Myanmar's Rohingya Reuters"
     },
     {
      "ref": "reuters_world#10",
-     "title": "Taiwan in 'close contact' with US ahead of US-China-Russia talks at APEC - Reuters",
-     "published": "2026-11-18T07:26:11+00:00",
-     "summary": "Taiwan in 'close contact' with US ahead of US-China-Russia talks at APEC Reuters"
+     "title": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses - Reuters",
+     "published": "2026-11-18T23:23:41+00:00",
+     "summary": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses Reuters"
     },
     {
      "ref": "reuters_world#11",
-     "title": "Indonesia resumes rate hikes to defend rupiah, more tightening seen - Reuters",
-     "published": "2026-11-18T07:23:00+00:00",
-     "summary": "Indonesia resumes rate hikes to defend rupiah, more tightening seen Reuters"
+     "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance - Reuters",
+     "published": "2026-11-18T23:13:48+00:00",
+     "summary": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance Reuters"
     },
     {
      "ref": "reuters_world#12",
-     "title": "Italy approves antisemitism law amid leftist opposition protests - Reuters",
-     "published": "2026-11-18T07:14:00+00:00",
-     "summary": "Italy approves antisemitism law amid leftist opposition protests Reuters"
+     "title": "Trump says historic summit with Xi, Putin already a 'win' before event - Reuters",
+     "published": "2026-11-18T23:05:00+00:00",
+     "summary": "Trump says historic summit with Xi, Putin already a 'win' before event Reuters"
     },
     {
      "ref": "reuters_world#13",
-     "title": "UK inflation rises to one-year high but markets trim rate hike bets - Reuters",
-     "published": "2026-11-18T07:08:00+00:00",
-     "summary": "UK inflation rises to one-year high but markets trim rate hike bets Reuters"
+     "title": "Brazil Senate approves fiscal package as government seeks to calm markets - Reuters",
+     "published": "2026-11-18T22:37:47+00:00",
+     "summary": "Brazil Senate approves fiscal package as government seeks to calm markets Reuters"
     },
     {
      "ref": "reuters_world#14",
-     "title": "Canada adjusts China ties, Carney says, aiming to clinch right deal with US - Reuters",
-     "published": "2026-11-18T06:41:00+00:00",
-     "summary": "Canada adjusts China ties, Carney says, aiming to clinch right deal with US Reuters"
+     "title": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use - Reuters",
+     "published": "2026-11-18T21:53:07+00:00",
+     "summary": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use Reuters"
     },
     {
      "ref": "reuters_world#15",
-     "title": "Trump says US wraps up 'very big trade deal' with Philippines - Reuters",
-     "published": "2026-11-18T05:58:00+00:00",
-     "summary": "Trump says US wraps up 'very big trade deal' with Philippines Reuters"
+     "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City - Reuters",
+     "published": "2026-11-18T21:39:54+00:00",
+     "summary": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City Reuters"
     },
     {
      "ref": "reuters_world#16",
-     "title": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says - Reuters",
-     "published": "2026-11-18T05:53:00+00:00",
-     "summary": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says Reuters"
+     "title": "Saudi Arabia says danger has passed in three southern cities after alerts - Reuters",
+     "published": "2026-11-18T21:21:23+00:00",
+     "summary": "Saudi Arabia says danger has passed in three southern cities after alerts Reuters"
     },
     {
      "ref": "reuters_world#17",
-     "title": "How India became a rice powerhouse - and why it's becoming a problem - Reuters",
-     "published": "2026-11-18T05:52:00+00:00",
-     "summary": "How India became a rice powerhouse - and why it's becoming a problem Reuters"
+     "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff - Reuters",
+     "published": "2026-11-18T20:58:10+00:00",
+     "summary": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff Reuters"
     },
     {
      "ref": "reuters_world#18",
-     "title": "After years on ice, Canada seeks trade-based reset with China, minister says - Reuters",
-     "published": "2026-11-18T05:21:00+00:00",
-     "summary": "After years on ice, Canada seeks trade-based reset with China, minister says Reuters"
+     "title": "Israel launches ground operation in central Gaza, dozens flee - Reuters",
+     "published": "2026-11-18T20:43:20+00:00",
+     "summary": "Israel launches ground operation in central Gaza, dozens flee Reuters"
     },
     {
      "ref": "reuters_world#19",
-     "title": "China's Xi backs efforts to ease tensions with North Korea, South Korea says - Reuters",
-     "published": "2026-11-18T04:30:00+00:00",
-     "summary": "China's Xi backs efforts to ease tensions with North Korea, South Korea says Reuters"
+     "title": "New Zealand central bank chief says inflation still elevated, recovery uneven - Reuters",
+     "published": "2026-11-18T20:36:15+00:00",
+     "summary": "New Zealand central bank chief says inflation still elevated, recovery uneven Reuters"
     },
     {
      "ref": "reuters_world#20",
-     "title": "Thailand to seek US tariff cut after reaching key terms of trade deal, minister says - Reuters",
-     "published": "2026-11-18T04:27:00+00:00",
-     "summary": "Thailand to seek US tariff cut after reaching key terms of trade deal, minister says Reuters"
+     "title": "Democrats nominate Hakeem Jeffries for next US House speaker - Reuters",
+     "published": "2026-11-18T20:31:31+00:00",
+     "summary": "Democrats nominate Hakeem Jeffries for next US House speaker Reuters"
     },
     {
      "ref": "reuters_world#21",
-     "title": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi - Reuters",
-     "published": "2026-11-18T04:21:00+00:00",
-     "summary": "Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi Reuters"
+     "title": "NEWSLETTER: Gulf conflict end date? Depends on who you ask - Reuters",
+     "published": "2026-11-18T20:29:37+00:00",
+     "summary": "NEWSLETTER: Gulf conflict end date? Depends on who you ask Reuters"
     },
     {
      "ref": "reuters_world#22",
-     "title": "ASEAN expects South China Sea code of conduct negotiations to conclude next year - Reuters",
-     "published": "2026-11-18T04:07:00+00:00",
-     "summary": "ASEAN expects South China Sea code of conduct negotiations to conclude next year Reuters"
+     "title": "Barbados readies landmark 'debt-for-health' swap - Reuters",
+     "published": "2026-11-18T20:19:00+00:00",
+     "summary": "Barbados readies landmark 'debt-for-health' swap Reuters"
     },
     {
      "ref": "reuters_world#23",
-     "title": "Trump says US is expanding defence cooperation with Philippines - Reuters",
-     "published": "2026-11-18T03:45:00+00:00",
-     "summary": "Trump says US is expanding defence cooperation with Philippines Reuters"
+     "title": "Britain, EU drop 'trusted partnership' term from summit draft - Reuters",
+     "published": "2026-11-18T20:02:37+00:00",
+     "summary": "Britain, EU drop 'trusted partnership' term from summit draft Reuters"
     },
     {
      "ref": "reuters_world#24",
-     "title": "Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority - Reuters",
-     "published": "2026-11-18T03:27:00+00:00",
-     "summary": "Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority Reuters"
+     "title": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says - Reuters",
+     "published": "2026-11-18T19:48:32+00:00",
+     "summary": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says Reuters"
     }
    ]
   }
