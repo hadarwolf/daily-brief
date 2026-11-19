@@ -28,88 +28,90 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "aeon#0",
-     "title": "Dreams of birds",
-     "published": "2026-11-18T11:01:00+00:00",
-     "summary": "When bird populations decline, certain songs may be lost forever. One physicist’s mission is to revive lost melodies - by Aeon Video Watch on Aeon",
+     "title": "Wunderkammer",
+     "published": "2026-11-19T11:01:00+00:00",
+     "summary": "Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world - by Aeon Video Watch on Aeon",
      "full_text_file": "essays/aeon_0.txt"
     },
     {
      "ref": "aeon#1",
+     "title": "At least it remembers",
+     "published": "2026-11-19T11:00:00+00:00",
+     "summary": "Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry - by Tom Wooldridge Read on Aeon",
+     "full_text_file": "essays/aeon_1.txt"
+    },
+    {
+     "ref": "aeon#2",
+     "title": "Dreams of birds",
+     "published": "2026-11-18T11:01:00+00:00",
+     "summary": "When bird populations decline, certain songs may be lost forever. One physicist’s mission is to revive lost melodies - by Aeon Video Watch on Aeon",
+     "full_text_file": "essays/aeon_2.txt"
+    },
+    {
+     "ref": "aeon#3",
      "title": "Catwalks and crackdowns",
      "published": "2026-11-17T11:00:00+00:00",
      "summary": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop. This is the ‘art of presence’ - by Parisa Khoshnami Read on Aeon"
     },
     {
-     "ref": "aeon#2",
+     "ref": "aeon#4",
      "title": "The last klavern",
      "published": "2026-11-16T11:01:00+00:00",
      "summary": "Inside one of America’s last Ku Klux Klan halls, architects, historians and residents reckon with preserving Fort Worth’s past - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#3",
+     "ref": "aeon#5",
      "title": "The horse made the state",
      "published": "2026-11-16T11:00:00+00:00",
      "summary": "Civilisation wasn’t made possible by grain, but by transportation – and the conquest it enabled, from the steppe to the sea - by Lhamsuren Munkh-Erdene Read on Aeon"
     },
     {
-     "ref": "aeon#4",
+     "ref": "aeon#6",
      "title": "Fugitive imagination",
      "published": "2026-11-13T11:00:00+00:00",
      "summary": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on Aeon"
     },
     {
-     "ref": "aeon#5",
+     "ref": "aeon#7",
      "title": "My grandfather been tell me a lot of story about Lasseter",
      "published": "2026-11-12T11:01:00+00:00",
      "summary": "A strange man on camelback – the artist Nora Abbott retells her grandfather’s story of a prospector’s last ride - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#6",
+     "ref": "aeon#8",
      "title": "Why anything exists",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on Aeon"
     },
     {
-     "ref": "aeon#7",
+     "ref": "aeon#9",
      "title": "Decoding Ediacaran fossils",
      "published": "2026-11-11T11:01:00+00:00",
      "summary": "Ancient specimens reveal how animals began to move half a billion years ago – and even the first known example of ‘handedness’ - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#8",
+     "ref": "aeon#10",
      "title": "The wholehearted life",
      "published": "2026-11-10T11:00:00+00:00",
      "summary": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon"
     },
     {
-     "ref": "aeon#9",
+     "ref": "aeon#11",
      "title": "A trip to upside-down world",
      "published": "2026-11-09T11:01:00+00:00",
      "summary": "Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece - by Aeon Video Watch on Aeon"
     },
     {
-     "ref": "aeon#10",
+     "ref": "aeon#12",
      "title": "Equality talk",
      "published": "2026-11-09T11:00:00+00:00",
      "summary": "In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon"
     },
     {
-     "ref": "aeon#11",
+     "ref": "aeon#13",
      "title": "Celestial nuisance",
      "published": "2026-11-06T11:00:00+00:00",
      "summary": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on Aeon"
-    },
-    {
-     "ref": "aeon#12",
-     "title": "Their eyes",
-     "published": "2026-11-05T11:01:00+00:00",
-     "summary": "In Kenya, the Philippines and Venezuela, low-paid labour fuels the driverless future of the Global North - by Aeon Video Watch on Aeon"
-    },
-    {
-     "ref": "aeon#13",
-     "title": "Methodical/mercurial",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "I need order and routine – just as much as I crave excitement and variety. What’s life like with both autism and ADHD? - by Sarah Hendrickx Read on Aeon"
     }
    ]
   },
@@ -322,18 +324,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "How to break a bad habit",
      "published": "2026-11-06T11:01:00+00:00",
      "summary": "Feel stuck with a habit you know is bad for you? Getting to know your brain better could help you change the narrative - Video by Dr Tracey Marks Watch on Psyche"
-    },
-    {
-     "ref": "psyche#13",
-     "title": "Who am I if I don’t run?",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
-    },
-    {
-     "ref": "psyche#14",
-     "title": "How to take notes that actually help you learn",
-     "published": "2026-11-05T11:00:00+00:00",
-     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
     }
    ]
   },

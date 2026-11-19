@@ -73,7 +73,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   {
    "ref": "wikipedia#6",
    "year": 1969,
-   "text": "Playing for Santos against Vasco da Gama in the Maracanã Stadium in Rio de Janeiro, Brazilian footballer Pelé scored his thousandth goal (commemorative stamp pictured).",
+   "text": "Playing for Santos against Vasco da Gama in the Maracanã Stadium in Rio de Janeiro, Brazilian footballer Pelé scored his 1,000th goal (commemorative stamp pictured).",
    "context": [
     "Santos Futebol Clube is a Brazilian sports club based in Vila Belmiro, a bairro in the city of Santos. It plays in the Campeonato Paulista, the state of São Paulo's premier state league, as well as the Campeonato Brasileiro Série A, the top flight of the Brazilian football league system, after winning the 2024 Série B title."
    ]
