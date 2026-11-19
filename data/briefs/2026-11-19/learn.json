@@ -1,0 +1,131 @@
+{
+  "section": "learn",
+  "date": "2026-11-19",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-19T03:56:00+00:00",
+  "stories": [
+    {
+      "id": "word-hurdle-rate",
+      "kind": "word",
+      "en": {
+        "headline": "Hurdle rate (שיעור תשואה נדרש)",
+        "scroll": "A hurdle rate is the minimum return a project or investment must clear before a company will bother doing it.",
+        "coffee": "A hurdle rate is the bar an investment has to clear before it's worth your capital. If a company's cost of capital is 8%, it won't greenlight a project expected to return 6% — that's below the hurdle, so the money is better spent elsewhere, including just paying down debt or returning it to shareholders.\n\nVenture funds, corporate finance teams and private equity shops all set hurdle rates, usually anchored to their cost of capital plus a risk premium. A risky early-stage bet needs a much higher expected return than a safe one to clear the same bar.\n\nExample: 'Our hurdle rate for new factory investments is 12%, so this expansion, projected at 9%, doesn't make the cut.'",
+        "deep": "## When to use it\nReach for hurdle rate whenever you're deciding whether a specific use of money is worth it relative to doing something else with it — the opportunity cost made explicit as a number.\n\n## Common confusions\nPeople often conflate hurdle rate with 'cost of capital.' They're related but not identical: cost of capital is what financing actually costs you; the hurdle rate is usually cost of capital plus a cushion for risk and uncertainty, so it's intentionally set higher.\n\nIt's also sometimes confused with IRR (internal rate of return): the IRR is what a project is expected to deliver, while the hurdle rate is the bar that IRR has to beat.\n\n## More examples\n- 'The board raised the hurdle rate to 15% after last year's project missed its numbers.'\n- 'VCs often use a hurdle rate north of 25% because most of their bets fail outright.'\n- 'If the merger doesn't clear our hurdle rate, we walk away.'\n\nIn Hebrew: שיעור תשואה נדרש (or שיעור סף)."
+      },
+      "he": {
+        "headline": "Hurdle rate (שיעור תשואה נדרש)",
+        "scroll": "שיעור תשואה נדרש הוא התשואה המינימלית שהשקעה צריכה להניב כדי שבכלל יהיה שווה לבצע אותה.",
+        "coffee": "שיעור תשואה נדרש (hurdle rate) הוא הרף שהשקעה צריכה לעבור כדי שבאמת יהיה שווה להשקיע בה את הכסף. אם עלות ההון של חברה היא 8%, היא לא תאשר פרויקט שצפוי להניב 6% — זה מתחת לרף, ואז עדיף להפנות את הכסף למקום אחר, כולל פשוט החזר חוב או חילוק לבעלי המניות.\n\nקרנות הון סיכון, מחלקות פיננסים בחברות ומשקיעים פרטיים קובעים שיעורי תשואה נדרשים, שבדרך כלל מבוססים על עלות ההון בתוספת פרמיית סיכון. השקעה מסוכנת בשלב מוקדם צריכה תשואה צפויה גבוהה בהרבה מהשקעה בטוחה כדי לעבור את אותו רף.\n\nלדוגמה: 'שיעור התשואה הנדרש שלנו להשקעות במפעל חדש הוא 12%, אז ההרחבה הזו, שצפויה להניב 9%, לא עוברת את הרף.'",
+        "deep": "## מתי להשתמש במונח\nמשתמשים ב-hurdle rate כשרוצים להחליט אם שימוש מסוים בכסף משתלם יותר מכל אפשרות אחרת לשימוש בו — כלומר, להפוך את עלות ההזדמנות (opportunity cost) למספר מוחשי.\n\n## בלבולים נפוצים\nאנשים נוטים לבלבל בין hurdle rate לבין 'עלות ההון'. הם קשורים אך לא זהים: עלות ההון היא מה שהמימון עצמו עולה; שיעור התשואה הנדרש הוא בדרך כלל עלות ההון בתוספת מרווח ביטחון לסיכון, ולכן הוא נקבע גבוה יותר בכוונה.\n\nיש גם בלבול עם IRR (שיעור תשואה פנימי): ה-IRR הוא מה שהפרויקט צפוי להניב בפועל, בעוד ששיעור התשואה הנדרש הוא הרף שה-IRR צריך לעבור.\n\n## עוד דוגמאות\n- 'הדירקטוריון העלה את שיעור התשואה הנדרש ל-15% אחרי שהפרויקט הקודם לא עמד ביעדים.'\n- 'קרנות הון סיכון משתמשות לרוב בשיעור תשואה נדרש של מעל 25%, כי רוב ההשקעות שלהן נכשלות לחלוטין.'\n- 'אם המיזוג לא עובר את הרף שלנו, אנחנו מושכים את ההצעה.'\n\nבמונחי הכלכלה בעברית: שיעור תשואה נדרש (או שיעור סף)."
+      },
+      "tags": [
+        "finance",
+        "investing",
+        "corporate-finance",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-land-and-expand",
+      "kind": "word",
+      "en": {
+        "headline": "Land and expand (לנחות ולהתרחב)",
+        "scroll": "A sales strategy of winning a small foothold deal with a customer, then growing revenue from them over time.",
+        "coffee": "Land and expand is a go-to-market playbook, especially in B2B software: instead of trying to sell a company your full, expensive product on day one, you land a small deal — one team, one department, a free tier — and then expand usage and revenue once you're inside and trusted.\n\nIt works because enterprise buyers are risk-averse and budgets are easier to get for a small pilot than a company-wide rollout. Once a product proves itself with one team, it spreads organically, and renewal conversations become upsell conversations.\n\nExample: 'We landed with the marketing team on a $10k contract and expanded it to a $200k company-wide deal within eighteen months.'",
+        "deep": "## When to use it\nLand and expand describes the whole motion, not just one deal — it's a strategy term for how a company plans to grow accounts, often discussed in sales, SaaS and startup fundraising contexts, where it's tied to a key metric: net revenue retention.\n\n## Common confusions\nIt's sometimes confused with 'freemium,' which is a pricing model (free tier to paid tier). Land and expand is broader — it can use freemium, free trials, pilots or a deliberately underpriced first contract as the 'landing' mechanism, but the point is always the expansion that follows.\n\nIt's also distinct from 'upselling,' which is one tactic inside the broader land-and-expand motion.\n\n## More examples\n- 'Slack's whole growth story is land and expand — one team starts using it, and it spreads across the company.'\n- 'Our land-and-expand motion depends on the product being good enough that users pull in their own colleagues.'\n- 'Investors like land-and-expand businesses because net revenue retention above 120% means growth even without new customers.'\n\nIn Hebrew: לנחות ולהתרחב."
+      },
+      "he": {
+        "headline": "Land and expand (לנחות ולהתרחב)",
+        "scroll": "אסטרטגיית מכירות שמתחילה בעסקה קטנה ומבוססת-אחיזה עם לקוח, ולאורך זמן מגדילה ממנו הכנסות.",
+        "coffee": "'לנחות ולהתרחב' (land and expand) היא אסטרטגיית כניסה לשוק (go-to-market), בעיקר בתוכנות B2B: במקום לנסות למכור לחברה את המוצר המלא והיקר ביום הראשון, 'נוחתים' עם עסקה קטנה — צוות אחד, מחלקה אחת, גרסת ניסיון חינמית — ואז מרחיבים את השימוש ואת ההכנסה לאחר שכבר נמצאים בפנים ונבנה אמון.\n\nזה עובד כי קונים בחברות גדולות נרתעים מסיכון, וקל יותר לקבל תקציב לפיילוט קטן מאשר להטמעה כלל-חברתית. כשמוצר מוכיח את עצמו בצוות אחד, הוא מתפשט באופן אורגני, ושיחות ההתחדשות הופכות לשיחות שדרוג.\n\nלדוגמה: 'נחתנו עם צוות השיווק בחוזה של 10 אלף דולר, והרחבנו אותו לעסקה כלל-חברתית של 200 אלף דולר בתוך שמונה עשר חודשים.'",
+        "deep": "## מתי להשתמש במונח\n'לנחות ולהתרחב' מתאר את כל התנועה האסטרטגית, לא עסקה בודדת — זה מונח שמשמש בהקשרי מכירות, SaaS וגיוס הון לסטארטאפים, ושם הוא גם קשור למדד מפתח: שיעור שמירת ההכנסה הנקי (net revenue retention).\n\n## בלבולים נפוצים\nיש בלבול בין המונח לבין 'פרימיום' (freemium), שהוא מודל תמחור (גרסה חינמית לעומת גרסה בתשלום). 'לנחות ולהתרחב' רחב יותר — הוא יכול להשתמש בפרימיום, בניסיונות חינם או בחוזה ראשוני שתומחר בכוונה בזול כמנגנון ה'נחיתה', אבל המטרה היא תמיד ההתרחבות שבאה אחריה.\n\nהוא גם נבדל מ'שדרוג מכירה' (upselling), שהוא טקטיקה אחת בתוך התנועה הרחבה של נחיתה והתרחבות.\n\n## עוד דוגמאות\n- 'כל סיפור הצמיחה של Slack הוא נחיתה והתרחבות — צוות אחד מתחיל להשתמש בזה, וזה מתפשט בכל החברה.'\n- 'התנועה שלנו של נחיתה והתרחבות תלויה בכך שהמוצר טוב מספיק כדי שמשתמשים ימשכו אליו את הקולגות שלהם.'\n- 'משקיעים אוהבים חברות שפועלות במודל הזה, כי שיעור שמירת הכנסה נקי מעל 120% אומר צמיחה גם בלי לקוחות חדשים.'\n\nבמונחי הכלכלה בעברית: לנחות ולהתרחב."
+      },
+      "tags": [
+        "sales",
+        "saas",
+        "startups",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-throwing-good-money-after-bad",
+      "kind": "word",
+      "en": {
+        "headline": "Throwing good money after bad (להשקיע כסף טוב אחרי כסף רע)",
+        "scroll": "Continuing to pour resources into a failing effort just because you've already invested heavily in it.",
+        "coffee": "Throwing good money after bad means pouring more resources into something that's already failing, purely because you've already sunk so much into it. It's the sunk cost fallacy (עלות שקועה) in action: the money already spent is gone either way, but people keep funding the losing bet to avoid admitting the first round was wasted.\n\nIt shows up everywhere — a startup raising another round for a product nobody wants, a trader averaging down into a falling stock, a government bailing out a failing project to avoid writing off what's already spent. The rational move is to judge the next dollar on its own merits, not on what's already gone.\n\nExample: 'We've spent two million on this feature and it still has no users — funding another round of development would just be throwing good money after bad.'",
+        "deep": "## When to use it\nUse this idiom when someone is about to commit more resources to a failing effort, and the argument for doing so leans on what's already been spent rather than on the merits of the next investment.\n\n## Common confusions\nIt's closely related to, but not identical to, the sunk cost fallacy. The sunk cost fallacy is the cognitive bias itself (treating past, unrecoverable costs as relevant to a forward decision); 'throwing good money after bad' is the idiom people use to call that bias out in conversation, usually as a warning.\n\nIt's also distinct from 'doubling down,' which can be a smart, deliberate bet — adding to a position you still believe in for good reasons. The idiom specifically implies the extra spending is irrational.\n\n## More examples\n- 'The board finally pulled the plug rather than throw good money after bad on the acquisition.'\n- 'Keeping the loss-making store open for \"just one more quarter\" is throwing good money after bad.'\n- 'A good CFO knows when continued investment is throwing good money after bad versus a genuine turnaround.'\n\nIn Hebrew: להשקיע כסף טוב אחרי כסף רע (or more simply: לרדוף אחרי הפסדים)."
+      },
+      "he": {
+        "headline": "Throwing good money after bad (להשקיע כסף טוב אחרי כסף רע)",
+        "scroll": "להמשיך להשקיע משאבים במאמץ כושל רק כי כבר הושקע בו הרבה — ולא כי יש לו סיכוי אמיתי.",
+        "coffee": "'להשקיע כסף טוב אחרי כסף רע' (throwing good money after bad) פירושו להזרים עוד משאבים למשהו שכבר נכשל, רק בגלל שכבר השקיעו בו המון. זו למעשה כשל העלות השקועה (sunk cost fallacy) בפעולה: הכסף שכבר הוצא אבד בכל מקרה, אבל אנשים ממשיכים לממן את ההשקעה המפסידה כדי לא להודות שהסכום הראשון היה לשווא.\n\nזה קורה כל הזמן — סטארטאפ שמגייס סבב נוסף למוצר שאף אחד לא רוצה, סוחר שממשיך לקנות מניה צונחת כדי 'להוריד את המחיר הממוצע', ממשלה שמחלצת פרויקט כושל כדי להימנע ממחיקת מה שכבר הושקע. ההחלטה הרציונלית היא לשקול את הדולר הבא לפי הערך שלו בעתיד, לא לפי מה שכבר אבד.\n\nלדוגמה: 'הוצאנו שני מיליון דולר על הפיצ'ר הזה ועדיין אין לו משתמשים — מימון עוד סבב פיתוח יהיה רק זריקת כסף טוב אחרי כסף רע.'",
+        "deep": "## מתי להשתמש בביטוי\nמשתמשים בביטוי הזה כשמישהו עומד להשקיע עוד משאבים במאמץ כושל, והנימוק להמשיך נשען על מה שכבר הושקע ולא על הכדאיות של ההשקעה הבאה כשלעצמה.\n\n## בלבולים נפוצים\nהביטוי קרוב, אך לא זהה, לכשל העלות השקועה. כשל העלות השקועה הוא ההטיה הקוגניטיבית עצמה (הטיפול בעלויות עבר שאי אפשר להשיב כאילו הן רלוונטיות להחלטה קדימה); 'כסף טוב אחרי כסף רע' הוא הביטוי שבו משתמשים כדי להצביע על ההטיה הזו בשיחה, בדרך כלל כאזהרה.\n\nהוא גם נבדל מ'הכפלת ההתערבות' (doubling down), שיכולה להיות החלטה חכמה ומכוונת — להגדיל השקעה שעדיין מאמינים בה מטעמים טובים. הביטוי הזה דווקא מרמז שההוצאה הנוספת אינה רציונלית.\n\n## עוד דוגמאות\n- 'הדירקטוריון בסוף שלף את התקע במקום להשקיע עוד כסף טוב אחרי כסף רע ברכישה.'\n- 'להשאיר חנות מפסידה פתוחה \"עוד רבעון אחד\" זו בדיוק זריקת כסף טוב אחרי כסף רע.'\n- 'סמנכ\"ל כספים טוב יודע להבחין בין השקעה שהיא כסף טוב אחרי כסף רע לבין תפנית אמיתית.'\n\nבמונחי הכלכלה בעברית: להשקיע כסף טוב אחרי כסף רע (או בפשטות: לרדוף אחרי הפסדים)."
+      },
+      "tags": [
+        "idiom",
+        "behavioral-economics",
+        "sunk-cost",
+        "vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-network-effects",
+      "kind": "concept",
+      "en": {
+        "headline": "Network effects: why some products get unstoppable once they're big enough",
+        "scroll": "A product has network effects when it gets more valuable to every user as more people use it, which is why one platform tends to win most of a market.",
+        "coffee": "A network effect exists when a product gets more valuable to each user simply because more people use it — not because the product itself improved. The classic case is the telephone: one phone is useless, two let you call each other, and a billion make the network indispensable, even though no individual phone changed.\n\nNetwork effects come in two flavors. Direct ones involve the same type of user (more WhatsApp users make WhatsApp better for other WhatsApp users). Indirect, or two-sided, ones involve different groups benefiting from each other's presence (more drivers make Uber better for riders, and vice versa). Either way, the effect tends to produce winner-take-most markets: once a network crosses a critical mass, joining the biggest one becomes the obvious choice, which makes it bigger still.\n\nThis is why tech companies spend so heavily to grow fast even at a loss — they're racing to lock in the self-reinforcing loop before a rival does. It's also why these moats can collapse quickly once users start leaving: the same loop runs in reverse.",
+        "deep": "## The basic idea\nA network effect means a product's value to each user rises with the number of other users — its usefulness is a function of the network's size, not just its own features. Economists sometimes call this a demand-side economy of scale: most economies of scale come from the supply side (producing more units more cheaply), but a network effect creates value on the demand side, just by having more people on the network.\n\n## Direct vs. indirect effects\nDirect network effects connect users of the same kind to each other. A messaging app like WhatsApp is the textbook case: every additional user makes the app marginally more useful to everyone already on it, because there's one more person you might want to reach.\n\nIndirect (or two-sided) network effects connect two different groups who need each other. A ride-hailing app like Uber is a two-sided market: more drivers mean shorter wait times for riders, and more riders mean better earnings and utilization for drivers. Grow one side, and the product becomes more attractive to the other side, which then grows too.\n\n## A worked example\nPicture a food-delivery app launching in a new city with only 20 restaurants and 200 users. Each user has a thin menu to choose from, so few bother opening the app regularly — low value. As the app signs up 500 restaurants, the choice improves, so more users join; as more users join, more restaurants want to be listed, because now there's real demand to capture. At some point — maybe 2,000 restaurants and 50,000 active users — the app becomes the default choice in that city, because trying a smaller competitor means a worse selection and worse delivery times on both sides. That is the moment the network effect has produced a durable moat: a rival now has to beat not just the app's features, but its entire ecosystem size.\n\n## Why it matters, and the catch\nNetwork effects explain why tech markets concentrate into one or two giants (search, social networking, major app stores) rather than splitting evenly among many competitors, and why investors pay huge valuations for market leadership even before a company is profitable — the land grab is the strategy.\n\nThe catch: the same loop runs in reverse. If users start leaving a platform, it gets less useful for those who remain, which pushes more of them to leave — a network effect in collapse, which is part of why once-dominant networks can lose their position faster than their slow rise would suggest."
+      },
+      "he": {
+        "headline": "אפקט רשת: למה מוצרים מסוימים הופכים לבלתי ניתנים לעצירה כשהם גדולים מספיק",
+        "scroll": "למוצר יש אפקט רשת (network effect) כשהוא נהיה יותר שימושי לכל משתמש ככל שיותר אנשים משתמשים בו, ולכן בשווקים של פלטפורמות יש בדרך כלל מנצח אחד גדול ולא הרבה מתחרים שווים.",
+        "coffee": "אפקט רשת (network effect) קיים כשמוצר הופך ליותר שימושי עבור כל משתמש רק בגלל שיותר אנשים משתמשים בו — לא בגלל שהמוצר עצמו השתפר. המקרה הקלאסי הוא רשת הטלפון: טלפון אחד חסר תועלת, שני טלפונים מאפשרים לך להתקשר לחבר, ומיליארד טלפונים הופכים את הרשת לחיונית, אף שאף טלפון בודד לא השתנה.\n\nלאפקטי רשת יש שני סוגים. אפקט ישיר נוגע למשתמשים מאותו סוג (יותר משתמשי WhatsApp הופכים את WhatsApp לשימושי יותר למשתמשים אחרים שלו). אפקט עקיף, או דו-צדי, נוגע לשתי קבוצות שונות שנהנות מהנוכחות זו של זו (יותר נהגים הופכים את Uber לטובה יותר לנוסעים, ולהפך). בשני המקרים, האפקט נוטה להוליד שווקים שבהם מנצח אחד תופס את רוב השוק: כשרשת חוצה מסה קריטית, ההצטרפות אליה הופכת לבחירה הברורה, וזה מגדיל אותה עוד יותר.\n\nזו הסיבה שחברות טכנולוגיה משקיעות כך הרבה בצמיחה מהירה, אפילו בהפסד — הן במרוץ לנעילת המעגל המחזק-את-עצמו הזה לפני מתחרה. וזו גם הסיבה שהחפירים האלה (economic moats) יכולים לקרוס מהר כשמשתמשים מתחילים לעזוב: אותו מעגל רץ לאחור.",
+        "deep": "## הרעיון הבסיסי\nאפקט רשת פירושו שהערך של מוצר לכל משתמש עולה עם מספר המשתמשים האחרים — השימושיות של המוצר היא פועל יוצא של גודל הרשת, לא רק של התכונות שלו. כלכלנים קוראים לזה לעיתים 'חיסכון מצד הביקוש' (demand-side economy of scale): רוב חיסכונות קנה המידה מגיעים מצד ההיצע (ייצור יותר יחידות בעלות נמוכה יותר), אבל אפקט רשת יוצר ערך בצד הביקוש, רק מעצם זה שיש יותר אנשים ברשת.\n\n## אפקטים ישירים מול עקיפים\nאפקטים ישירים מחברים משתמשים מאותו סוג זה לזה. אפליקציית הודעות כמו WhatsApp היא המקרה הקלאסי: כל משתמש נוסף הופך את האפליקציה לשימושית קצת יותר לכל מי שכבר נמצא בה, כי יש עוד אדם אחד שאולי תרצה להגיע אליו.\n\nאפקטים עקיפים (או דו-צדיים) מחברים שתי קבוצות שונות שצריכות זו את זו. אפליקציית הזמנת נסיעות כמו Uber היא שוק דו-צדי: יותר נהגים משמעם זמני המתנה קצרים יותר לנוסעים, ויותר נוסעים משמעם הכנסות וניצולת גבוהות יותר לנהגים. הגדלת צד אחד הופכת את המוצר לאטרקטיבי יותר לצד השני, שגם הוא אז גדל.\n\n## דוגמה מספרית\nתארו לעצמכם אפליקציית משלוחי אוכל שמשיקה בעיר חדשה עם רק 20 מסעדות ו-200 משתמשים. לכל משתמש יש תפריט דליל לבחור ממנו, ולכן מעטים פותחים את האפליקציה בקביעות — ערך נמוך. כשהאפליקציה מגייסת 500 מסעדות, הבחירה משתפרת, ולכן יותר משתמשים מצטרפים; כשיותר משתמשים מצטרפים, יותר מסעדות רוצות להיות רשומות, כי יש כבר ביקוש אמיתי לתפוס. בשלב מסוים — אולי 2,000 מסעדות ו-50,000 משתמשים פעילים — האפליקציה הופכת לבחירת המחדל בעיר, כי לנסות מתחרה קטנה יותר אומר בחירה גרועה יותר וזמני משלוח גרועים יותר לשני הצדדים. זה הרגע שבו אפקט הרשת הפך לחפיר כלכלי (economic moat) יציב: מתחרה חדש צריך לנצח לא רק את התכונות של האפליקציה, אלא את כל גודל המערכת האקולוגית שלה.\n\n## למה זה חשוב, והקאץ'\nאפקטי רשת מסבירים למה שווקי טכנולוגיה מתרכזים לענק אחד או שניים (חיפוש, רשתות חברתיות, חנויות אפליקציות מרכזיות) במקום להתחלק שווה בשווה בין הרבה מתחרים, ולמה משקיעים משלמים שווי עתק על הובלת שוק עוד לפני שהחברה רווחית — תפיסת השטח היא האסטרטגיה.\n\nהקאץ': אותו מעגל רץ גם לאחור. אם משתמשים מתחילים לעזוב פלטפורמה, היא נהיית פחות שימושית למי שנשאר, מה שדוחף עוד מהם לעזוב — אפקט רשת בקריסה, וזה חלק מהסיבה שפלטפורמות ששלטו בעבר יכולות לאבד את מקומן מהר יותר ממה שהעלייה האיטית שלהן היתה מרמזת."
+      },
+      "tags": [
+        "network-effects",
+        "economics",
+        "tech",
+        "platforms"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-gettysburg-address",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1863: Lincoln delivers the Gettysburg Address",
+        "scroll": "On this day in 1863, Abraham Lincoln redefined the purpose of the Civil War in a two-minute speech that became the most quoted text in American political history.",
+        "coffee": "On 19 November 1863, U.S. President Abraham Lincoln spoke for roughly two minutes at the dedication of a cemetery for Union soldiers killed four months earlier at the Battle of Gettysburg, the war's bloodiest battle. He was not even the day's main speaker — a renowned orator had spoken for two hours before him — yet Lincoln's remarks are what survived.\n\nIn roughly 270 words, Lincoln reframed the Civil War: not merely a fight to preserve the Union, but a test of whether a nation 'conceived in liberty' and dedicated to the proposition that all men are created equal could endure. He closed by calling on the living to ensure 'government of the people, by the people, for the people' would not perish from the earth.\n\nThe speech mattered because it gave the war — and by extension, American democracy itself — a moral purpose beyond territory or politics, in language simple enough to be memorized by schoolchildren ever since.",
+        "deep": "## The context\nBy November 1863, the American Civil War had already killed tens of thousands and shown no sign of ending. The Battle of Gettysburg, fought that July in Pennsylvania, was its bloodiest single engagement — roughly 50,000 soldiers were killed, wounded, captured or went missing over three days. The battle is often described as the war's turning point, after which the Confederacy never again mounted a major offensive into Union territory.\n\nFour months later, the town dedicated a portion of the battlefield as a national cemetery for the Union dead. The featured speaker was Edward Everett, a celebrated orator who spoke for roughly two hours. President Lincoln was invited almost as an afterthought, to offer a few 'dedicatory remarks.'\n\n## The speech\nLincoln spoke for about two minutes, delivering a speech of around 270 words — so short that some accounts claim the photographer did not have time to capture him speaking. He opened by invoking the nation's founding ('Four score and seven years ago...') and closed with a line that endures as one of the clearest definitions of democracy ever written in English: government 'of the people, by the people, for the people.'\n\n## Why it mattered\nThe speech reframed the war's stakes. Rather than describing the conflict as a struggle to preserve a political union, Lincoln cast it as a test of whether a nation founded on the principle of human equality could survive — raising the Union's cause to a question about democracy itself, at a moment the outcome was still far from certain.\n\n## Legacy\nThe address is now carved into the Lincoln Memorial and remains one of the most quoted texts in American political history, studied as much for its rhetoric — repetition, parallel structure, deliberate brevity — as for its content. Everett, the day's main speaker, reportedly told Lincoln afterward that he wished he could have come as close to the central idea in two hours as Lincoln had in two minutes."
+      },
+      "he": {
+        "headline": "1863: לינקולן נושא את נאום גטיסברג",
+        "scroll": "ב-19 בנובמבר 1863 אברהם לינקולן הגדיר מחדש את מטרת מלחמת האזרחים האמריקאית בנאום של כשתי דקות, שהפך לטקסט המצוטט ביותר בהיסטוריה הפוליטית האמריקאית.",
+        "coffee": "ב-19 בנובמבר 1863 נשא נשיא ארצות הברית אברהם לינקולן נאום של כשתי דקות בטקס הקמת בית הקברות לחיילי האיחוד שנהרגו ארבעה חודשים קודם לכן בקרב גטיסברג, הקרב העקוב מדם ביותר במלחמה. הוא לא היה בכלל הנואם המרכזי של היום — נואם מוכר נשא נאום של כשעתיים לפניו — ובכל זאת, דווקא מילותיו של לינקולן הן ששרדו.\n\nבכ-270 מילים, לינקולן הגדיר מחדש את מלחמת האזרחים: לא רק מאבק לשמר את האיחוד, אלא מבחן לשאלה אם אומה ש'נוצרה בחופש' ומחויבת לעקרון שכל בני האדם נבראו שווים יכולה לשרוד. הוא סיכם בקריאה לחיים להבטיח ש'שלטון העם, בידי העם, למען העם' לא יחדל מן הארץ.\n\nהנאום היה חשוב כי הוא נתן למלחמה — ובהרחבה, לדמוקרטיה האמריקאית עצמה — מטרה מוסרית שחרגה משאלות של טריטוריה או פוליטיקה, בשפה פשוטה מספיק שתלמידים משננים אותה עד היום.",
+        "deep": "## הרקע\nבנובמבר 1863, מלחמת האזרחים האמריקאית כבר גבתה עשרות אלפי הרוגים ולא הראתה סימן לסיום. קרב גטיסברג, שהתנהל ביולי של אותה שנה בפנסילבניה, היה העימות העקוב מדם ביותר במלחמה — במהלך שלושה ימים נהרגו, נפצעו, נשבו או נעלמו כ-50,000 חיילים. הקרב מתואר לעיתים קרובות כנקודת המפנה של המלחמה, שאחריה הקונפדרציה לא יזמה עוד מתקפה גדולה לתוך שטח האיחוד.\n\nארבעה חודשים לאחר מכן, העיר הקדישה חלק משדה הקרב לבית קברות לאומי לחללי האיחוד. הנואם המרכזי היה אדוארד אוורט, נואם מהולל שנשא נאום של כשעתיים. הנשיא לינקולן הוזמן כעניין שבשגרה בלבד, כדי לומר כמה 'דברי הקדשה' קצרים.\n\n## הנאום\nלינקולן דיבר כשתי דקות, ונשא נאום של כ-270 מילים — קצר עד כדי כך שלפי חלק מהעדויות, הצלם לא הספיק לתפוס אותו בתמונה בזמן שדיבר. הוא פתח באזכור הקמת האומה ('לפני ארבע עשרות ושבע שנים...') וסגר במשפט שנותר אחת ההגדרות הבהירות ביותר שנכתבו אי פעם לדמוקרטיה: שלטון 'של העם, בידי העם, למען העם'.\n\n## למה זה היה חשוב\nהנאום הגדיר מחדש את המשמעות של המלחמה. במקום לתאר את העימות כמאבק לשמר איחוד פוליטי, לינקולן הציג אותו כמבחן לשאלה אם אומה שנוסדה על עקרון השוויון האנושי יכולה לשרוד — והעלה את מטרת האיחוד לשאלה על עצם מהות הדמוקרטיה, בשלב שבו תוצאת המלחמה עדיין לא הייתה ברורה כלל.\n\n## המורשת\nהנאום חרוט כיום באנדרטת לינקולן בוושינגטון ונותר אחד הטקסטים המצוטטים ביותר בהיסטוריה הפוליטית האמריקאית, ונלמד בזכות הרטוריקה שלו — חזרתיות, מבנה מקביל, קוצר מכוון — לא פחות מאשר בזכות תוכנו. אוורט, הנואם המרכזי של אותו יום, אמר לכאורה ללינקולן לאחר מכן שהוא מקווה שהתקרב לרעיון המרכזי בשעתיים כמו שלינקולן עשה בשתי דקות."
+      },
+      "tags": [
+        "history",
+        "us-history",
+        "rhetoric",
+        "philosophy"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1863: American Civil War: U.S. president Abraham Lincoln delivered the Gettysburg Address at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania.",
+          "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+        }
+      ]
+    }
+  ]
+}

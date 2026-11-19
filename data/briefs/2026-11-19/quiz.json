@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-19",
+  "questions": [
+    {
+      "id": "q1-anthropic-ipo",
+      "section": "business",
+      "story_id": "anthropic-record-ipo",
+      "answer_index": 3,
+      "en": {
+        "question": "What made Anthropic's IPO this week the largest public offering on record?",
+        "options": [
+          "It was the first AI company to post a profit before going public",
+          "The company raised money only through a private placement, with no public share sale",
+          "Anthropic became the most valuable company in the world, overtaking Apple",
+          "The combined IPO and private placement raised $107.3 billion, topping SpaceX's deal"
+        ],
+        "explanation": "Anthropic's IPO, combined with a simultaneous private placement, raised $107.3 billion — the largest public offering on record, surpassing SpaceX's $75 billion deal."
+      },
+      "he": {
+        "question": "מה גרם להנפקה של אנתרופיק להיות ההנפקה הציבורית הגדולה בהיסטוריה?",
+        "options": [
+          "אנתרופיק הייתה חברת ה-AI הראשונה שהציגה רווח לפני ההנפקה",
+          "החברה גייסה כסף רק באמצעות הקצאה פרטית, בלי מכירת מניות לציבור",
+          "אנתרופיק הפכה לחברה השווה ביותר בעולם, ועקפה את אפל",
+          "ההנפקה, בשילוב עם הקצאה פרטית, גייסה 107.3 מיליארד דולר ועקפה את עסקת ספייסאקס"
+        ],
+        "explanation": "ההנפקה של אנתרופיק, בשילוב עם הקצאה פרטית שהתקיימה באותו זמן, גייסה 107.3 מיליארד דולר - ההנפקה הציבורית הגדולה בהיסטוריה, שעוקפת את עסקת ספייסאקס בסך 75 מיליארד דולר."
+      }
+    },
+    {
+      "id": "q2-trump-xi-putin-summit",
+      "section": "geopolitics",
+      "story_id": "trump-xi-putin-shenzhen-summit",
+      "answer_index": 3,
+      "en": {
+        "question": "Trump, Xi and Putin held a rare three-way summit in Shenzhen. Whose idea was the three-way format, according to the reporting?",
+        "options": [
+          "A joint United Nations peace initiative",
+          "Xi's idea, as the summit's host nation",
+          "Trump's idea, to showcase his negotiating skills",
+          "Putin's own idea, floated as a chance to discuss ending the war in Ukraine"
+        ],
+        "explanation": "Putin reportedly proposed the three-way summit format himself, as a chance to discuss ending the war in Ukraine."
+      },
+      "he": {
+        "question": "טראמפ, שי ופוטין קיימו פסגה נדירה בת שלושה בשנז'ן. לפי הדיווחים, של מי הייתה היוזמה לפורמט של פגישת שלושה?",
+        "options": [
+          "של האו\"ם, כחלק מיוזמת שלום משולבת",
+          "של שי, כמדינה המארחת את ועידת APEC",
+          "של טראמפ, שרצה להציג את כושר המיקוח שלו",
+          "של פוטין עצמו, שהציע זאת כהזדמנות לדון בסיום המלחמה באוקראינה"
+        ],
+        "explanation": "לפי הדיווחים, פוטין עצמו הציע את מתכונת פגישת השלושה כהזדמנות לדון בסיום המלחמה באוקראינה."
+      }
+    },
+    {
+      "id": "q3-nvidia-huang",
+      "section": "tech",
+      "story_id": "nvidia-huang-chip-power",
+      "answer_index": 1,
+      "en": {
+        "question": "What leadership news shook Nvidia this week?",
+        "options": [
+          "Nvidia merged with OpenAI to combine chip design and AI research",
+          "Nvidia lost founder and longtime CEO Jensen Huang, prompting a 115,000-signature petition to reinstate him",
+          "Jensen Huang left Nvidia to become OpenAI's new CEO",
+          "Nvidia announced Jensen Huang would retire on his own terms at year's end"
+        ],
+        "explanation": "Nvidia's co-founder and longtime CEO Jensen Huang reportedly left the company, sparking a reinstatement petition signed by more than 115,000 people, including Elon Musk."
+      },
+      "he": {
+        "question": "איזה חידוש בהנהלה זעזע את Nvidia השבוע?",
+        "options": [
+          "Nvidia התמזגה עם OpenAI כדי לשלב תכנון שבבים ומחקר AI",
+          "Nvidia איבדה את מייסדה והמנכ\"ל ארוך השנים שלה ג'נסן הואנג, ועצומה בת 115,000 חתימות דרשה להחזירו",
+          "ג'נסן הואנג עזב את Nvidia כדי להיות המנכ\"ל החדש של OpenAI",
+          "Nvidia הודיעה שהואנג יפרוש בתנאים שלו בסוף השנה"
+        ],
+        "explanation": "ג'נסן הואנג, מייסד Nvidia והמנכ\"ל ארוך השנים שלה, עזב לכאורה את החברה - צעד שעורר עצומה להחזרתו שעליה חתמו למעלה מ-115,000 איש, כולל אילון מאסק."
+      }
+    }
+  ]
+}

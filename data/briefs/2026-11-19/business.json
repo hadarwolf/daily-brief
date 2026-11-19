@@ -1,0 +1,126 @@
+{
+  "section": "business",
+  "date": "2026-11-19",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-19T03:56:00+00:00",
+  "stories": [
+    {
+      "id": "anthropic-record-ipo",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic's $107 Billion IPO Becomes the Biggest Listing in History",
+        "scroll": "Anthropic priced its IPO at $83 a share, above the marketed range, raising $107.3 billion and becoming the largest public listing ever.",
+        "coffee": "Anthropic, the AI company behind the Claude chatbot, priced its initial public offering (IPO) at $83 a share on Wednesday, above its marketed range, according to a company statement. Combined with a simultaneous private placement in which Google, Microsoft and AMD took part, the company and its co-founders raised $107.3 billion — the largest public offering on record, topping SpaceX's $75 billion base deal. The resulting valuation is reported at roughly $1.5 trillion, and shares began trading under the ticker ANT.\n\nPricing above the range means investor demand outstripped the shares on offer — a strong outcome from book-building, the process of canvassing institutional investors to set a price before an IPO. Early backers are reaping windfalls: SK Telecom, part of Korean tycoon Chey Tae-won's business empire, stands to gain roughly $3 billion on its early stake, while a group of lower-profile venture capital (VC) firms is positioned for returns reported near $100 billion. SoftBank's Masayoshi Son said he regrets the \"mistake\" of not backing Anthropic, having already bet on rival OpenAI instead.\n\nYet US stocks struggled to hold on to gains even as the IPO priced strongly, weighed down by lingering doubts about the broader \"AI trade.\" How Anthropic's stock behaves once lock-up periods — the windows that bar insiders from selling — start expiring will be the first real test of investor conviction beyond the IPO's headline numbers.",
+        "deep": "## Background\n\nAn initial public offering, or IPO, is the process by which a private company sells shares to public investors for the first time, converting privately-held equity into stock that trades on an exchange. Before the sale, the company and its underwriters — investment banks that manage the offering — canvass large institutional investors to gauge demand, a process called book-building. That feedback sets a marketed price range. When demand outstrips the shares on offer, bankers can price \"above the range,\" as Anthropic did at $83 a share, instead of sticking to the originally advertised band.\n\nAn IPO usually mixes two kinds of shares: primary shares, newly issued by the company itself (the proceeds go onto its balance sheet), and secondary shares, sold by existing shareholders such as founders or early investors (the proceeds go to them personally, not the company). A private placement, which ran alongside Anthropic's public offering, is a separate sale of shares directly to a small number of large investors — in this case Google, Microsoft and AMD — rather than to the broad public market.\n\nA company's valuation in an IPO is simply its share price multiplied by all outstanding shares; it is a market judgment made on a single day, not a cash balance the company holds. Early investors profit when that valuation rises far above what they originally paid for their stake — a \"windfall\" sized to how much of the company they own.\n\n## The Story\n\nAnthropic priced its IPO at $83 a share on Wednesday, above its marketed range, according to a company statement. Combined with a simultaneous private placement, the company and its co-founders raised $107.3 billion — the largest public offering on record, eclipsing SpaceX's $75 billion base deal. The company sold 956.4 million new (primary) shares, while its co-founders sold a further 23.6 million shares of their own holdings. Google, Microsoft and AMD participated as investors in the private placement tranche. Shares began trading on US markets under the ticker ANT, with the resulting valuation reported at roughly $1.5 trillion.\n\n## Second-Order Effects\n\nThe pricing created outsized winners among Anthropic's early backers. SK Telecom, South Korea's largest mobile carrier and part of billionaire Chey Tae-won's business empire, saw its early stake balloon into a windfall reported at roughly $3 billion. A group of lower-profile venture capital firms is collectively positioned for gains reported near $100 billion. Not everyone got in early enough: SoftBank's Masayoshi Son said he regretted the \"mistake\" of not backing Anthropic, having instead already put money into rival OpenAI.\n\nThe listing's reception was more muted than the headline numbers suggest. US stocks struggled to hold on to gains even as Anthropic priced strongly, as lingering doubts about the broader \"AI trade\" — the market's collective bet on AI-related stocks — tempered enthusiasm. That mixed reaction matters beyond Anthropic itself: when a marquee IPO prices above range but the market still wobbles, it suggests investors are starting to separate a single company's fundamentals from the sustainability of AI-sector valuations as a group.\n\n## What to Watch Next\n\nThe next real test for Anthropic's stock comes when lock-up periods expire — the windows, typically 90 to 180 days after an IPO, during which insiders and early investors are contractually barred from selling. Heavy selling once those restrictions lift can pressure a stock regardless of the business's underlying performance, and will be a clearer signal of durable investor conviction than the IPO pop itself. Watch, too, for whether rival AI labs treat this pricing as a green light to pursue their own listings at similarly lofty valuations, and whether the broader AI trade's wobble documented alongside this IPO turns out to be noise or the start of a real repricing."
+      },
+      "he": {
+        "headline": "ההנפקה הגדולה בהיסטוריה: אנתרופיק גייסה 107.3 מיליארד דולר",
+        "scroll": "אנתרופיק תמחרה את ההנפקה שלה ב-83 דולר למניה, מעל הטווח המתוכנן, וגייסה 107.3 מיליארד דולר - ההנפקה הציבורית הגדולה בהיסטוריה.",
+        "coffee": "אנתרופיק, חברת הבינה המלאכותית (AI) שמפתחת את הצ'אטבוט Claude, תמחרה את ההנפקה הציבורית הראשונית (IPO) שלה ב-83 דולר למניה - מעל הטווח שהוכרז מראש - וגייסה, בשילוב עם הקצאה פרטית (private placement) שבה השתתפו גוגל, מיקרוסופט ו-AMD, סכום כולל של 107.3 מיליארד דולר. זו ההנפקה הציבורית הגדולה בהיסטוריה, שעוקפת את עסקת הבסיס של ספייסאקס בסך 75 מיליארד דולר. השווי הנגזר מההנפקה מוערך בכ-1.5 טריליון דולר, והמניה התחילה להיסחר תחת הסימול ANT.\n\nתמחור מעל הטווח מצביע על ביקוש שעלה על כמות המניות המוצעת - סימן לתהליך בניית ספר הזמנות (book-building) חזק מול משקיעים מוסדיים. המשקיעים המוקדמים נהנים מרווחים פתאומיים (windfalls): SK Telecom, חלק מאימפריית העסקים של האיל הקוריאני צ'ה טה-וון (Chey Tae-won), צפויה לרווח של כ-3 מיליארד דולר, וקבוצת קרנות הון סיכון (VC) פחות מוכרות עומדת לחלוק רווחים המדווחים בכ-100 מיליארד דולר. מסייושי סון מסופטבנק הודה שהוא מתחרט על ה\"טעות\" שלא השקיע באנתרופיק, אחרי שכבר הימר על המתחרה OpenAI.\n\nעם זאת, מניות ארה\"ב נאבקו להחזיק ברווחים גם ביום ההנפקה, על רקע חששות מתמשכים לגבי \"מסחר ה-AI\" הרחב יותר ושאלות אם שוויי חברות ה-AI בכלל מנופחים. איך תיסחר מניית ANT כשתקופות הנעילה (lock-up periods) יפוגו תהיה המבחן האמיתי הראשון לאמון המשקיעים, מעבר להתלהבות הרגעית מההנפקה.",
+        "deep": "## רקע\n\nהנפקה לציבור לראשונה (IPO - Initial Public Offering) היא התהליך שבו חברה פרטית מוכרת מניות למשקיעים מהציבור בפעם הראשונה, וממירה בכך בעלות פרטית למניות הנסחרות בבורסה. לפני המכירה, החברה והחתמים שמנהלים את ההנפקה - בנקי השקעות שאחראים על התהליך - בוחנים את הביקוש בקרב משקיעים מוסדיים גדולים, בתהליך שנקרא בניית ספר הזמנות (book-building). המשוב הזה קובע טווח מחיר משוער (price range) שמפרסמים מראש. כשהביקוש גבוה מהכמות המוצעת, החתמים יכולים לתמחר \"מעל הטווח\" - כמו שעשתה אנתרופיק, שתומחרה ב-83 דולר למניה, במקום להישאר בתוך הטווח שהוכרז בתחילה.\n\nהנפקה כוללת בדרך כלל שני סוגי מניות: מניות ראשוניות (primary shares), שהחברה עצמה מנפיקה ומוכרת (והכסף מהן נכנס לקופת החברה), ומניות משניות (secondary shares), שבעלי מניות קיימים - כמו מקימי החברה או משקיעים מוקדמים - מוכרים מהחזקותיהם שלהם (והכסף הולך אליהם באופן אישי, לא לחברה). הקצאה פרטית (private placement), שהתקיימה במקביל להנפקה הציבורית של אנתרופיק, היא מכירת מניות ישירות לקבוצה קטנה של משקיעים גדולים - במקרה הזה גוגל, מיקרוסופט ו-AMD - ולא לשוק הציבורי הרחב.\n\nשווי החברה (valuation) בהנפקה הוא בפשטות מחיר המניה כפול כל המניות שבמחזור; זה שיקוף של שיקול דעת השוק ביום מסוים, לא סכום כסף שמוחזק בקופת החברה. משקיעים מוקדמים מרוויחים כשהשווי הזה עולה הרבה מעל מה שהם שילמו במקור על ההחזקה שלהם - \"רווח פתאומי\" (windfall) ביחס לחלק שהם מחזיקים בחברה. החתמים (underwriters) עצמם מרוויחים מעמלה שנגזרת מסכום הגיוס, ולכן יש להם תמריץ ברור לתמחר כך שההנפקה תיתפס כהצלחה - לא יותר ממה שהשוק מוכן לשלם, אבל גם לא כל כך נמוך שהחברה תשאיר כסף על הרצפה.\n\n## הסיפור\n\nאנתרופיק תמחרה את ההנפקה שלה ב-83 דולר למניה ביום רביעי, מעל הטווח שהוכרז, כך לפי הודעת החברה. בשילוב עם הקצאה פרטית שהתקיימה במקביל, החברה ומקימיה גייסו 107.3 מיליארד דולר - ההנפקה הציבורית הגדולה בהיסטוריה, שמשאירה מאחור את עסקת הבסיס של ספייסאקס בסך 75 מיליארד דולר. החברה מכרה 956.4 מיליון מניות חדשות (ראשוניות), ומקימיה מכרו עוד 23.6 מיליון מניות מהחזקותיהם. גוגל, מיקרוסופט ו-AMD השתתפו כמשקיעות בפלח ההקצאה הפרטית. המניה התחילה להיסחר בשוק האמריקאי תחת הסימול ANT, ולפי הדיווחים השווי הנגזר מההנפקה הוא כ-1.5 טריליון דולר.\n\n## השפעות מהסדר השני\n\nהתמחור הזה הפך כמה מהמשקיעים המוקדמים באנתרופיק לזוכים גדולים. SK Telecom, חברת הסלולר הגדולה בקוריאה הדרומית וחלק מאימפריית העסקים של האיל הקוריאני צ'ה טה-וון (Chey Tae-won), ראתה את ההחזקה המוקדמת שלה מזנקת לרווח פתאומי המדווח בכ-3 מיליארד דולר. קבוצה של קרנות הון סיכון (venture capital) פחות מוכרות ממוקמת לרווחים משותפים המדווחים בכ-100 מיליארד דולר. לא כולם הספיקו להיכנס בזמן: מסייושי סון מסופטבנק אמר שהוא מתחרט על ה\"טעות\" שלא גייס תמיכה לאנתרופיק, אחרי שכבר השקיע בחברה המתחרה OpenAI.\n\nהקבלה של ההנפקה בשוק הייתה מאופקת יותר ממה שהמספרים הגדולים מרמזים. מניות בארה\"ב נאבקו להחזיק ברווחים גם כשאנתרופיק תמחרה בחוזקה, בזמן שחששות מתמשכים לגבי \"מסחר ה-AI\" הרחב יותר - ההתערבות הקולקטיבית של השוק על מניות הקשורות ל-AI - מיתנו את ההתלהבות. התגובה המעורבת הזו חשובה מעבר לאנתרופיק עצמה: כשהנפקת דגל מתומחרת מעל הטווח אבל השוק עדיין מתנדנד, זה מרמז שמשקיעים מתחילים להבחין בין היסודות הפיננסיים (fundamentals) של חברה בודדת לבין יכולת ההחזקה של שווי ענף ה-AI כקבוצה.\n\n## למה לשים לב בהמשך\n\nהמבחן האמיתי הבא למניית אנתרופיק יגיע כשתקופות הנעילה (lock-up periods) יפוגו - החלונות, בדרך כלל 90 עד 180 יום אחרי הנפקה, שבהם בעלי עניין ומשקיעים מוקדמים מנועים חוזית ממכירת מניותיהם. מכירות כבדות כשההגבלות האלה מתבטלות יכולות להכביד על המניה בלי קשר לביצועי העסק עצמו, והן יהיו סימן ברור יותר לאמון משקיעים מתמשך מאשר הזינוק הראשוני בהנפקה. שימו לב גם אם מעבדות AI מתחרות יראו בתמחור הזה אור ירוק לרדוף אחרי הנפקות משלהן בשוויים גבוהים דומים, ואם התנודתיות ב\"מסחר ה-AI\" הרחב שתועדה לצד ההנפקה הזו תתגלה כרעש חולף או כתחילתה של תמחור מחדש אמיתי. התבנית המוכרת בהנפקות טכנולוגיה גדולות היא קפיצה ראשונית נלהבת ואחריה ירידה הדרגתית ככל שמשקיעים מוסדיים לומדים להתמחר את החברה על בסיס תוצאות עסקיות שוטפות ולא רק על בסיס הסיפור התקשורתי של ההנפקה - ואנתרופיק תצטרך להוכיח את עצמה לפי אותם כללים."
+      },
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai",
+        "venture-capital"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Anthropic IPO Hands Korean Tycoon’s Firm $3 Billion Windfall",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Anthropic Prices at $83 a Share in Record-Sized Offering",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Stocks Lose Momentum After Anthropic, Aussie Drops: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic raises $81bn in record IPO",
+          "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
+          "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
+          "url": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "אנתרופיק גייסה 107.3 מיליארד דולר - ההנפקה הגדולה בהיסטוריה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-18/ty-article/.premium/000001a1-f02e-d175-abf5-fe3e6dba0000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "אנתרופיק מאותתת: תמחור ההנפקה יהיה ברף העליון או מעליו",
+          "url": "https://www.themarker.com/wallstreet/2026-11-18/ty-article/.premium/000001a1-edfe-dc79-a9fd-fdfe7efb0000"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic Prices IPO at $83 a Share on Strong Demand",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Opinion | Congrats on Your Anthropic Shares",
+          "url": "https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic Sells More Shares Than Planned at a Higher Price Than Expected",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-sells-more-shares-than-planned-at-a-higher-price-than-expected-4b511002?mod=rss_markets_main"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3964.9199,
+      "prev_close": 3978.4199,
+      "change_pct": -0.34,
+      "as_of": "2026-11-18"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7323.6299,
+      "prev_close": 7340.5298,
+      "change_pct": -0.23,
+      "as_of": "2026-11-18"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2782,
+      "prev_close": 3.2535,
+      "change_pct": 0.76,
+      "as_of": "2026-11-19"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 88.96,
+      "prev_close": 93.14,
+      "change_pct": -4.49,
+      "as_of": "2026-11-18"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 62907.4219,
+      "prev_close": 64893.9453,
+      "change_pct": -3.06,
+      "as_of": "2026-11-19"
+    }
+  }
+}
