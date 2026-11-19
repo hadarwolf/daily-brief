@@ -48,15 +48,15 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-18T23:30:00Z",
      "home": "Cruzeiro",
      "away": "Palmeiras",
-     "status": "FINISHED",
-     "score": "2-1"
+     "status": "IN_PLAY",
+     "score": "1-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-18T23:30:00Z",
      "home": "Flamengo",
      "away": "Paranaense",
-     "status": "FINISHED",
+     "status": "IN_PLAY",
      "score": "2-1"
     },
     {
@@ -64,7 +64,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-19T00:30:00Z",
      "home": "Grêmio",
      "away": "Bahia",
-     "status": "FINISHED",
+     "status": "IN_PLAY",
      "score": "0-0"
     },
     {
@@ -72,8 +72,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-19T00:30:00Z",
      "home": "Corinthians",
      "away": "Botafogo",
-     "status": "FINISHED",
-     "score": "4-0"
+     "status": "IN_PLAY",
+     "score": "2-0"
     }
    ],
    "tomorrow": [
@@ -534,21 +534,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
+     "published": "2026-11-19T10:32:30+00:00",
+     "summary": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday."
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
      "published": "2026-11-19T10:21:10+00:00",
      "summary": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?"
     },
     {
-     "ref": "bbc_football#1",
-     "title": "Player handed eight-year ban for throwing rock at ref",
+     "ref": "bbc_football#2",
+     "title": "Eight-year ban for player who threw rock at assistant referee",
      "published": "2026-11-19T10:20:58+00:00",
      "summary": "Ecuadorian footballer Jhon Perlaza is banned for eight years after throwing a stone at an assistant referee during a third-tier match."
-    },
-    {
-     "ref": "bbc_football#2",
-     "title": "Five return for Wales' World Cup play-off final",
-     "published": "2026-11-19T10:00:07+00:00",
-     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
     },
     {
      "ref": "bbc_football#3",
@@ -558,93 +558,93 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#4",
+     "title": "Five return for Wales' World Cup play-off final",
+     "published": "2026-11-19T10:00:07+00:00",
+     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
+    },
+    {
+     "ref": "bbc_football#5",
      "title": "Allen to join Williams in interim Swans coaching team",
      "published": "2026-11-19T09:43:08+00:00",
      "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "The best European strikers this century - ranked by you",
      "published": "2026-11-19T08:50:01+00:00",
      "summary": "BBC Sport reveals the top 10 European strikers this century, as voted for by you."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Leicester split with sponsor after porn actress row",
      "published": "2026-11-19T08:26:16+00:00",
      "summary": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Armstrong would relish Rangers switch - gossip",
      "published": "2026-11-19T08:01:39+00:00",
      "summary": "Romania-based winger eyes reunion with manager at Ibrox as Celtic hero reveals approach from Rangers..."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#9",
      "title": "Podcast: Who should be worried in Premiership bottom four?",
      "published": "2026-11-19T08:00:00+00:00",
      "summary": "Aberdeen, Hibs, Motherwell & Killie... FIGHT!"
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#10",
      "title": "How Premier League's big six keep getting richer",
      "published": "2026-11-19T07:38:22+00:00",
      "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#11",
      "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
      "published": "2026-11-19T07:14:11+00:00",
      "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?"
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#12",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-19T07:06:18+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Vote for the first BBC Men's Footballer of the Year",
      "published": "2026-11-19T06:30:04+00:00",
      "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "'Best I've seen live': Watch as player scores ‘special’ goal",
      "published": "2026-11-19T05:30:23+00:00",
      "summary": "The midfielder speaks of the \"special moment\" he scored from within his own half."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
      "published": "2026-11-18T22:34:05+00:00",
      "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "Buurman rescues late Chelsea win against PSG",
      "published": "2026-11-18T22:13:49+00:00",
      "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "Euro Leagues",
      "published": "2026-11-18T22:06:00+00:00",
      "summary": "Who makes the list of the Top 10 European Strikers of the Century so far?"
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
      "published": "2026-11-18T21:22:18+00:00",
      "summary": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban."
-    },
-    {
-     "ref": "bbc_football#18",
-     "title": "England defender Carter joins Bay FC after Gotham exit",
-     "published": "2026-11-18T21:07:26+00:00",
-     "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent."
     },
     {
      "ref": "bbc_football#19",
@@ -681,6 +681,258 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
      "published": "2026-11-18T19:09:00+00:00",
      "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28."
+    }
+   ]
+  },
+  {
+   "outlet": "ESPN NBA",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "espn_nba#0",
+     "title": "Giannis, Bam put Bucks drama aside, 'on to the next thing' after Heat win",
+     "published": "2026-11-19T07:52:31+00:00",
+     "summary": "Heat star Giannis Antetokounmpo said Wednesday night's win over the Bucks was like any other night, while Bam Adebayo said he has moved past his issues with Tyler Herro."
+    },
+    {
+     "ref": "espn_nba#1",
+     "title": "Redick cites fatigue as Luka's shot goes cold, Lakers' win streak ends at 9",
+     "published": "2026-11-19T07:52:31+00:00",
+     "summary": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine."
+    },
+    {
+     "ref": "espn_nba#2",
+     "title": "Reflective Lillard advised Giannis 'grass isn't always greener' before Heat trade",
+     "published": "2026-11-19T07:52:31+00:00",
+     "summary": "Damian Lillard, ahead of his return to Milwaukee, said his two years with the Bucks were something he needed to experience but he's happy to be back in Portland."
+    },
+    {
+     "ref": "espn_nba#3",
+     "title": "'I love the clutch': 76ers rally, improve to 11-0 in tight games",
+     "published": "2026-11-19T07:52:31+00:00",
+     "summary": "The 76ers improved to 11-0 in clutch games after overcoming a 17-point deficit to beat the Magic on Wednesday night."
+    },
+    {
+     "ref": "espn_nba#4",
+     "title": "Randle sounds off after Bulls rout Nets: 'That was embarrassing'",
+     "published": "2026-11-19T07:52:31+00:00",
+     "summary": "After a 30-point drubbing at the hands of the Bulls, veteran Julius Randle called the Nets' effort \"embarrassing\" and called out the team's pride and effort."
+    },
+    {
+     "ref": "espn_nba#5",
+     "title": "Spurs rule Harper out with hip soreness after slip on court",
+     "published": "2026-11-19T07:52:31+00:00",
+     "summary": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday."
+    },
+    {
+     "ref": "espn_nba#6",
+     "title": "Nets relive ABA glory, honoring Dr. J and the 1974 and 1976 title teams",
+     "published": "2026-11-19T07:52:31+00:00",
+     "summary": "The now-Brooklyn Nets honored their ABA history during Wednesday's game, welcoming back Julius Erving and other members of their 1974 and 1976 title teams."
+    },
+    {
+     "ref": "espn_nba#7",
+     "title": "👀 What the first month has revealed about all 30 teams",
+     "published": "2026-11-19T07:52:31+00:00",
+     "summary": "With the season's first month nearly in the books, Ben Golliver examines the biggest storyline so far for all 30 teams."
+    },
+    {
+     "ref": "espn_nba#8",
+     "title": "NBA Power Rankings: One wild stat for all 30 teams",
+     "published": "2026-11-18T22:38:20+00:00",
+     "summary": "Here's where every team ranks this week -- along with one remarkable stat that has fueled each franchise through one month of the season."
+    },
+    {
+     "ref": "espn_nba#9",
+     "title": "Updated NBA championship and MVP odds: Heat on the rise, Wemby moves ahead of Luka",
+     "published": "2026-11-18T19:52:58+00:00",
+     "summary": "The Heat have bounced back from a rough start to the season, while Victor Wembanyama is now the leader for MVP just ahead of Luka Doncic."
+    },
+    {
+     "ref": "espn_nba#10",
+     "title": "16 roto and category league stars who can help",
+     "published": "2026-11-18T19:52:37+00:00",
+     "summary": "Use the Player Rater to your advantage and fill out your fantasy basketball lineup with these roto and category stars."
+    },
+    {
+     "ref": "espn_nba#11",
+     "title": "Eric Karabell's notebook: Trade Walker Kessler? Klay Thompson worth rostering?",
+     "published": "2026-11-18T19:52:37+00:00",
+     "summary": "Eric Karabell empties out the notebook with all that he's noticing around the NBA and what it means for fantasy."
+    },
+    {
+     "ref": "espn_nba#12",
+     "title": "Steph Curry confronts his 'basketball mortality'",
+     "published": "2026-11-18T00:07:43+00:00",
+     "summary": "At 38, Curry is still brilliant -- but managing his body has become the biggest battle of his career."
+    },
+    {
+     "ref": "espn_nba#13",
+     "title": "Bobby Marks' NBA glossary: Trade, free agency, CBA terms to know",
+     "published": "2026-11-17T22:48:52+00:00",
+     "summary": "The world of NBA transactions is often difficult to decipher. Our resident GM is here to help.﻿"
+    },
+    {
+     "ref": "espn_nba#14",
+     "title": "NBA buzz: Latest news, updates and intel for the 2026-27 season",
+     "published": "2026-11-17T17:47:16+00:00",
+     "summary": "The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders."
+    },
+    {
+     "ref": "espn_nba#15",
+     "title": "Is the 76ers' fast start real or a mirage? We asked execs what they're seeing",
+     "published": "2026-11-17T12:29:32+00:00",
+     "summary": "We talked to several coaches, executives and scouts about the Sixers in an attempt to get a consensus opinion on their start."
+    }
+   ]
+  },
+  {
+   "outlet": "ESPN FC",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "espn_soccer#0",
+     "title": "After a decade of near misses, Man United finally get their man in Pochettino",
+     "published": "2026-11-19T09:52:33+00:00",
+     "summary": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit."
+    },
+    {
+     "ref": "espn_soccer#1",
+     "title": "FIFA confirms Infantino rivals for 2027 presidential election",
+     "published": "2026-11-19T09:27:21+00:00",
+     "summary": "FIFA have named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election."
+    },
+    {
+     "ref": "espn_soccer#2",
+     "title": "Sources: Man Utd to take legal action if JJ Gabriel was illegally approached",
+     "published": "2026-11-19T09:27:08+00:00",
+     "summary": "Manchester United are prepared to mount legal action if they find evidence that JJ Gabriel has been illegally approached by other clubs while under contract, sources have told ESPN."
+    },
+    {
+     "ref": "espn_soccer#3",
+     "title": "Ex-U.S. coach Arena: Federation doesn't 'have a clue' how to replace Poch",
+     "published": "2026-11-19T09:27:07+00:00",
+     "summary": "Former U.S. men's coach and current San Jose Earthquakes manager Bruce Arena called out U.S. Soccer as the federation looks for Mauricio Pochettino's replacement."
+    },
+    {
+     "ref": "espn_soccer#4",
+     "title": "Courage striker Sanchez beats out Rodman, Wilson for NWSL MVP award",
+     "published": "2026-11-19T09:27:07+00:00",
+     "summary": "North Carolina Courage forward Ashley Sanchez was named the 2026 NWSL Most Valuable Player on Wednesday after scoring a record-tying 20 goals this season."
+    },
+    {
+     "ref": "espn_soccer#5",
+     "title": "Pochettino arrives at Man United, he vows: 'You will see, give me time'",
+     "published": "2026-11-19T09:27:07+00:00",
+     "summary": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around."
+    },
+    {
+     "ref": "espn_soccer#6",
+     "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
+     "published": "2026-11-19T09:27:07+00:00",
+     "summary": "USWNT coach Emma Hayes said that she's committed to helping with a thorough search for the next USMNT coach after the recent exit of Mauricio Pochettino."
+    },
+    {
+     "ref": "espn_soccer#7",
+     "title": "Sam Coffey returns to USWNT roster for World Cup qualifying",
+     "published": "2026-11-19T09:27:07+00:00",
+     "summary": "Midfielder Sam Coffey has been named to the USWNT's World Cup qualifying roster that will assemble for training camp later this month."
+    },
+    {
+     "ref": "espn_soccer#8",
+     "title": "Mata retires aged 38 after winning World Cup, Champions League, Euros, FA Cup",
+     "published": "2026-11-19T09:27:07+00:00",
+     "summary": "Former Manchester United midfielder Juan Mata has announced his retirement from football."
+    },
+    {
+     "ref": "espn_soccer#9",
+     "title": "🌎Mr. Worldwide: Meet the Brazilian soccer star who has played for clubs on six continents",
+     "published": "2026-11-19T09:27:07+00:00",
+     "summary": "Brazilian winger Sérgio Barboza has joined a very exclusive club by playing for teams in all six of world soccer's continental confederations."
+    },
+    {
+     "ref": "espn_soccer#10",
+     "title": "Transfer rumors, news: Premier League clubs eye Ronaldo successor Forbs",
+     "published": "2026-11-19T09:12:28+00:00",
+     "summary": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest."
+    },
+    {
+     "ref": "espn_soccer#11",
+     "title": "The NWSL has more money than ever, yet its biggest problems remain",
+     "published": "2026-11-19T08:57:14+00:00",
+     "summary": "As the NWSL approaches its season climax with Saturday's Championship, the league still has to deal with the same problems despite hitting major milestones."
+    },
+    {
+     "ref": "espn_soccer#12",
+     "title": "Predicting the rest of the Premier League season: How all 20 teams will finish",
+     "published": "2026-11-19T08:42:59+00:00",
+     "summary": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season."
+    },
+    {
+     "ref": "espn_soccer#13",
+     "title": "Reranked: Who is the MVP for each of the top Premier League clubs?",
+     "published": "2026-11-19T08:42:59+00:00",
+     "summary": "Based on ability and tactical importance, we've reranked the best players at the top Premier League clubs."
+    },
+    {
+     "ref": "espn_soccer#14",
+     "title": "Chelsea's defense shines, but will scoring woes be their undoing in UWCL?",
+     "published": "2026-11-18T23:07:13+00:00",
+     "summary": "Chelsea have scored just four goals in five Women's Champions League matches, though they remain in strong position for the knockout rounds because of their lockdown defense."
+    },
+    {
+     "ref": "espn_soccer#15",
+     "title": "Real Madrid need more sharpness in order to compete with UWCL's best",
+     "published": "2026-11-18T23:07:13+00:00",
+     "summary": "Real Madrid were able to win it late against Inter, but their missed chances could haunt them."
+    },
+    {
+     "ref": "espn_soccer#16",
+     "title": "Pochettino gets a fitting, emotional send-off from USMNT",
+     "published": "2026-11-18T19:24:08+00:00",
+     "summary": "No United States men's national team coach has ever left quite like this. Loved by players, celebrated by fans, and gone on his own terms."
+    },
+    {
+     "ref": "espn_soccer#17",
+     "title": "USMNT player ratings: Pulisic's stunning goal gives Poch the perfect farewell",
+     "published": "2026-11-18T19:24:08+00:00",
+     "summary": "Christian Pulisic starred with a 9/10 rating as the USMNT gave Mauricio Pochettino a winning send-off."
+    },
+    {
+     "ref": "espn_soccer#18",
+     "title": "How fallen giants and their fans bounce back from scandal -- and relegation",
+     "published": "2026-11-18T17:00:50+00:00",
+     "summary": "Some of Europe's greatest teams have suffered relegation as punishment. So what might lie ahead for Man City?"
+    },
+    {
+     "ref": "espn_soccer#19",
+     "title": "World Cup 2030 Early Power Rankings: Spain still No. 1? No USMNT in top 15",
+     "published": "2026-11-18T14:02:00+00:00",
+     "summary": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat."
+    },
+    {
+     "ref": "espn_soccer#20",
+     "title": "Why the USMNT doesn't need a Guardiola-tier manager after Pochettino",
+     "published": "2026-11-18T08:59:30+00:00",
+     "summary": "The U.S. men say goodbye to Mauricio Pochettino and hope to attract Pep Guardiola as his replacement. But is a superstar coach what this team really needs?"
+    },
+    {
+     "ref": "espn_soccer#21",
+     "title": "Who should be the USMNT's coaching candidates to succeed Pochettino?",
+     "published": "2026-11-18T08:59:29+00:00",
+     "summary": "With Pochettino's USMNT tenure at an end, who should U.S. Soccer be eyeing to replace him?"
+    },
+    {
+     "ref": "espn_soccer#22",
+     "title": "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?",
+     "published": "2026-11-17T20:49:23+00:00",
+     "summary": "Nashville just won the Supporters' Shield with a league-record points haul, so naturally it tops ESPN's MLS Cup playoff Power Rankings."
+    },
+    {
+     "ref": "espn_soccer#23",
+     "title": "Wild Card predictions: Who emerges from Orlando-Cincinnati, Seattle-RSL?",
+     "published": "2026-11-17T20:49:23+00:00",
+     "summary": "The Wild Card kicks off the MLS Cup playoffs on Thursday, so who will advance to Round 1? ESPN's U.S. soccer analysts make their predictions."
     }
    ]
   },
@@ -732,111 +984,111 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#7",
-     "title": "Inter Miami and Messi eye retaining the MLS Cup as the playoffs get underway - Flashscore.co.za",
-     "published": "2026-11-18T21:22:04+00:00",
-     "summary": "Inter Miami and Messi eye retaining the MLS Cup as the playoffs get underway Flashscore.co.za"
-    },
-    {
-     "ref": "gnews_inter_miami#8",
      "title": "'She held his hand and said it publicly': Messi's mother picks her son's successor - Goal.com",
      "published": "2026-11-18T20:00:36+00:00",
      "summary": "'She held his hand and said it publicly': Messi's mother picks her son's successor Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#8",
      "title": "Inter Miami: Luis Suarez wants to retire alongside Lionel Messi - Foot-Africa.com",
      "published": "2026-11-18T20:00:00+00:00",
      "summary": "Inter Miami: Luis Suarez wants to retire alongside Lionel Messi Foot-Africa.com"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#9",
      "title": "Inter Miami CF Teams Up with Publix for Second Annual Shop with a Star Initiative to Support Families During the Holiday Season - Inter Miami CF",
      "published": "2026-11-18T19:53:15+00:00",
      "summary": "Inter Miami CF Teams Up with Publix for Second Annual Shop with a Star Initiative to Support Families During the Holiday Season Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#10",
      "title": "LaLiga: Suarez names Barcelona player that surprises him - Daily Post Nigeria",
      "published": "2026-11-18T19:08:30+00:00",
      "summary": "LaLiga: Suarez names Barcelona player that surprises him Daily Post Nigeria"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#11",
      "title": "‘On a Personal Level’—Luis Suarez Provides Insight Into Lionel Messi’s Retirement - Sports Illustrated",
      "published": "2026-11-18T19:00:01+00:00",
      "summary": "‘On a Personal Level’—Luis Suarez Provides Insight Into Lionel Messi’s Retirement Sports Illustrated"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#12",
      "title": "Inter Miami CF Announces Second Edition of Winter Camps - Inter Miami CF",
      "published": "2026-11-18T18:06:52+00:00",
      "summary": "Inter Miami CF Announces Second Edition of Winter Camps Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#13",
      "title": "Columbus Crew: Can they upset Inter Miami & Lionel Messi? - MLSsoccer.com",
      "published": "2026-11-18T18:05:06+00:00",
      "summary": "Columbus Crew: Can they upset Inter Miami & Lionel Messi? MLSsoccer.com"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "MLS playoff tiers: Title or bust for Lionel Messi’s Inter Miami as Nashville SC chase the double - Goal.com",
      "published": "2026-11-18T17:59:15+00:00",
      "summary": "MLS playoff tiers: Title or bust for Lionel Messi’s Inter Miami as Nashville SC chase the double Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "International Duty Roundup: Recapping the November International Window - Inter Miami CF",
      "published": "2026-11-18T17:06:52+00:00",
      "summary": "International Duty Roundup: Recapping the November International Window Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Messi and Inter Miami to begin title defence against Columbus — Channel NewsAsia - UA.NEWS",
      "published": "2026-11-18T16:22:23+00:00",
      "summary": "Messi and Inter Miami to begin title defence against Columbus — Channel NewsAsia UA.NEWS"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Soccer-All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups - The Lufkin Daily News",
      "published": "2026-11-18T16:00:56+00:00",
      "summary": "Soccer-All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups The Lufkin Daily News"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Soccer-All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups - The Daily News | Texas' Oldest Newspaper",
      "published": "2026-11-18T16:00:56+00:00",
      "summary": "Soccer-All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups The Daily News | Texas' Oldest Newspaper"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "GTA VI Is Here: Miami Teams Become Vice City - Sofascore",
      "published": "2026-11-18T14:04:02+00:00",
      "summary": "GTA VI Is Here: Miami Teams Become Vice City Sofascore"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Orlando vs. Inter Miami CF - Live Score - April 17, 2027 - FOX Sports",
      "published": "2026-11-18T00:30:46+00:00",
      "summary": "Orlando vs. Inter Miami CF - Live Score - April 17, 2027 FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Columbus vs. Inter Miami CF - Live Score - April 21, 2027 - FOX Sports",
      "published": "2026-11-18T00:17:59+00:00",
      "summary": "Columbus vs. Inter Miami CF - Live Score - April 21, 2027 FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Inter Miami CF vs. Philadelphia - Live Score - April 24, 2027 - FOX Sports",
      "published": "2026-11-18T00:17:50+00:00",
      "summary": "Inter Miami CF vs. Philadelphia - Live Score - April 24, 2027 FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "Inter Miami CF vs. Charlotte FC - Live Score - April 10, 2027 - FOX Sports",
      "published": "2026-11-18T00:16:31+00:00",
      "summary": "Inter Miami CF vs. Charlotte FC - Live Score - April 10, 2027 FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Will they stop together? Suárez reveals the secret delaying Messi's retirement - Goal.com",
+     "published": "2026-11-17T20:37:36+00:00",
+     "summary": "Will they stop together? Suárez reveals the secret delaying Messi's retirement Goal.com"
     }
    ]
   },

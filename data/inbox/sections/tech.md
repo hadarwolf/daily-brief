@@ -141,164 +141,56 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    ]
   },
   {
-   "outlet": "Geektime (Israeli tech)",
-   "lang": "he",
-   "items": [
-    {
-     "ref": "geektime#0",
-     "title": "מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר",
-     "published": "2026-11-19T09:35:10+00:00",
-     "summary": "בחודש אוקטובר האחרון, מיקרוסופט הטילה פצצה בעולם הטכנולוגיה כשהציעה ל-60 אלף עובדים – כמעט 30% מסך העובדים בחברה – להתפטר במסגרת של חבילות פרישה מרצון. על פניו זה הריח כמו גל פיטורים שקט, כמעט מנומס של החברה, אבל עכשיו המנכ\"ל סאטיה נאדלה מסביר את המהלך. אמ;לק: זה ה-AI, אבל לא בקטע של \"הרובוטים מחליפים אותנו\", […] The post מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר appeared first on גיקט"
-    },
-    {
-     "ref": "geektime#1",
-     "title": "בפעם השנייה השנה: Tipalti מפטרת עשרות עובדים בישראל",
-     "published": "2026-11-19T08:43:54+00:00",
-     "summary": "סבב קיצוצים נוסף בחברת הפינטק הישראלית Tipalti: במסגרת המהלך צפויה החברה לקצץ קרוב ל-25% מכוח האדם שלה בעולם, כשעשרות עובדים בישראל צפויים לסיים את תפקידם. כיום מעסיקה החברה כ-900 עובדים בעולם וכ-300 מתוכם בישראל. סבב הפיטורים הזה הוא הרביעי של החברה בשנים האחרונות והשני ב-2026. מגמת הקיצוצים החלה ב-2023, אז נפרדה החברה מ-123 עובדים – […] The post בפעם השנייה השנה: Tipalti מפטרת עשרות עובדים בישרא"
-    },
-    {
-     "ref": "geektime#2",
-     "title": "גוגל מביאה את מצב האינקוגניטו לחיפוש ה-AI שלה",
-     "published": "2026-11-19T07:54:31+00:00",
-     "summary": "רוצים לשאול את גוגל משהו אישי או סתם לחפש מידע בלי שהוא ירדוף אחריכם לכל מקום ברשת? עד עכשיו ה-AI של גוגל לא ממש אפשר לכם לעשות את זה, אבל פיצ'ר חדש מנסה להביא את מצב ה-Incognito המוכר (גם אם שנוי במחלוקת) גם לחיפוש ה-AI שלה. האם עכשיו באמת תוכלו לחפש בלי להשאיר עקבות? […] The post גוגל מביאה את מצב האינקוגניטו לחיפוש ה-AI שלה appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#3",
-     "title": "הממשלה מקדמת \"ארגז חול\" לסטארטאפים, אבל שכחה 4 דברים בדרך",
-     "published": "2026-11-18T14:08:52+00:00",
-     "summary": "תחשבו על יזמת שפיתחה מערכת AI שמנתחת אולטרסאונד שאישה בהיריון עושה בבית. או על שלושה מהנדסים שבנו רמזור שמחליט לבד מתי להתחלף לפי מצב התנועה. או על סטארטאפ שרוצה לנסות הסעות משותפות בתשלום ברכב פרטי. לכולם יש אותה בעיה: המוצר עובד, אבל החוק לא מאפשר לנסות אותו. לא כי מישהו קבע שזה מסוכן, אלא כי […] The post הממשלה מקדמת \"ארגז חול\" לסטארטאפים, אבל שכחה 4 דברים בדרך appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#4",
-     "title": "\"זה מקצוע חדש בפני עצמו\": יוצאי 8200 גייסו 11 מיליון דולר",
-     "published": "2026-11-18T13:00:54+00:00",
-     "summary": "\"AI Security היא לא בעיית אבטחה ישנה שעברה לדומיין חדש. זה מקצוע חדש בפני עצמו\", אומר בשיחה עם גיקטיים אלעד טסלר – מנכ\"ל ומייסד של הסטארטאפ Vero Security. לדבריו, ה-AI משנה את הדרך שבה תוכנה נבנית, פועלת ומתקשרת עם מערכות אחרות, וכל תעשיית התוכנה ממציאה את עצמה מחדש סביבו. ובגלל כל השינויים הללו, צוותי אבטחה […] The post \"זה מקצוע חדש בפני עצמו\": יוצאי 8200 גייסו 11 מיליון דולר appeared first on ג"
-    },
-    {
-     "ref": "geektime#5",
-     "title": "הביקורות הראשונות של GTA 6 התפרסמו: הנה מה שחושבים המבקרים",
-     "published": "2026-11-18T12:33:10+00:00",
-     "summary": "לפני זמן קצר זה קרה. השעון הראה חצות בניו זילנד, והמדינה הראשונה בעולם החלה לשחק במשחק המצופה ביותר של העשור האחרון, Grand Theft Auto VI. בעוד שעות ספורות גם הישראלים יצטרפו לחגיגה (בלילה שבין רביעי לחמישי), אבל אם אתם לא יכולים להתאפק, הביקורות הראשונות למשחק כבר שוחררו. אמ;לק: נראה שההמתנה השתלמה. הוושינגטון פוסט: \"המגנום אופוס […] The post הביקורות הראשונות של GTA 6 התפרסמו: הנה מה שחושבים המבק"
-    },
-    {
-     "ref": "geektime#6",
-     "title": "הנה שיטה קלה לבדוק אם אתם משלמים יותר מדי על ג'ירה, קונפלואנס ושות'",
-     "published": "2026-11-18T11:39:41+00:00",
-     "summary": "מאת נעמה ויסבורט בטח גם אצלכם זה קרה: הארגון רכש עוד מערכת יקרה שאמורה לייעל את עבודת הצוות, אבל היא הפכה למפלצת של Workflows מורכבים ושדות חובה אינסופיים – והיום לאף אחד אין מושג מה השתפר בפועל וכמה זה שווה. ארגונים משקיעים המון כסף בכלי AI כדי לעבוד מהר וחכם יותר. בעולם שבו מערכות כגון […] The post הנה שיטה קלה לבדוק אם אתם משלמים יותר מדי על ג'ירה, קונפלואנס ושות' appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#7",
-     "title": "אירוע בהזמנה בלבד: כך תתגוננו מפני מתקפות AI עם הכלים של Google Cloud",
-     "published": "2026-11-18T09:33:03+00:00",
-     "summary": "כשמדברים על הגנת סייבר, סוכני AI הם גם הבעיה וגם הפתרון: תוקפים משתמשים בהם כדי לייצר מתקפות פישינג משכנעות בעברית מושלמת, לזייף קולות של מנהלים, לסרוק חולשות בקנה מידה עצום ולהריץ קמפיינים שפעם דרשו צוות שלם. באותו זמן, הארגונים עצמם מכניסים AI לכל פינה: עוזרים חכמים לעובדים, סוכנים אוטונומיים שמבצעים פעולות במערכות הליבה ומודלים שנוגעים […] The post אירוע בהזמנה בלבד: כך תתגוננו מפני מתקפות AI ע"
-    },
-    {
-     "ref": "geektime#8",
-     "title": "גוגל הופכת את הסוכנים שלה לחינמיים",
-     "published": "2026-11-18T08:55:38+00:00",
-     "summary": "בא לכם עוזר אישי שמתקשר למוסך, בודק למה חשבון החשמל שלכם קפץ לשמיים וגם קונה לכם קורנפלקס על הדרך? גוגל לוקחת את סוכן ה-AI שלה צעד אחד קדימה, משנה לו את השם, והכי חשוב: פותחת אותו לכולם לגמרי בחינם. הנה כל מה שאתם צריכים לדעת על המהלך החדש שמאיים לבלוע את המתחרות כמו אינסטינקט, Muse של […] The post גוגל הופכת את הסוכנים שלה לחינמיים appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#9",
-     "title": "ה-AI של מטא חסם את ה-AI של מטא, אז הוא תבע אותה",
-     "published": "2026-11-18T08:21:40+00:00",
-     "summary": "אחרי שנים שמארק צוקרברג ומטא נותרו מאחור במירוץ ה-AI, נראה שכל המיליארדים עשו את שלהם, והחברה גילתה את עצמה מחדש עם Muse, סוכן ה-AI של החברה שכבר הגיע ללא מעט משתמשים תוך זמן קצר. אבל עכשיו נראה ש-Muse כל כך מוצלח במה שהוא עושה, שהוא עוזר למישהו לתבוע את… מטא. כשמטא חושדת בסוכן של עצמה […] The post ה-AI של מטא חסם את ה-AI של מטא, אז הוא תבע אותה appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#10",
-     "title": "בזמן שישנתם: חולשת אבטחה קריטית ב-Java. לכו לעדכן",
-     "published": "2026-11-18T06:46:22+00:00",
-     "summary": "זוכרים את Log4j? התגעגעתם? אה לא? ובכן, חבל. תגידו שלום ל-Java4Shell, חולשת אבטחה קריטית (CVE-2026-114938) במפענח ה-Base64 של OpenJDK. על פי חוקרי חברת Calif, שגילו את החולשה, היא מאפשרת הרצת קוד מרחוק ללא צורך באימות על שרתים עם מעבדי x86-64 שתומכים ב-AVX-512. המערכות הפגיעות כוללות כלים פופולריים בחברות טק כמו Jira ו-Jenkins שמריצים Java 17 […] The post בזמן שישנתם: חולשת אבטחה קריטית ב-Java. לכ"
-    },
-    {
-     "ref": "geektime#11",
-     "title": "תקלה רחבה בשירותי אפל: App Store ו-iCloud קרסו",
-     "published": "2026-11-17T20:33:10+00:00",
-     "summary": "זה לא רק אצלכם. משתמשי אפל בכל העולם דיווחו בשעות האחרונות על שיבושים נרחבים במספר שירותים מרכזיים של החברה. על פי עמוד הסטטוס של אפל, נרשמו השבתות מלאות ב-App Store לצד תקלות ביישומי הרשת ובעיות בהתחברות לשירותי iCloud ול-AppleCare. בנוסף, התלוננו משתמשים על שיבושים ברשת Find My וכן ב-iCloud‌ Mail, ‌iCloud‌ Calendar ו-iCloud‌ Contacts. התקלות […] The post תקלה רחבה בשירותי אפל: App Store ו-iCloud"
-    },
-    {
-     "ref": "geektime#12",
-     "title": "בלי טובות מגוגל או אפל: עכשיו וואטסאפ מאפשרת לכם לגבות שיחות אצלה",
-     "published": "2026-11-17T16:40:35+00:00",
-     "summary": "אם נשים רגע בצד את התמונות שאתם מצלמים בטלפון, סביר להניח שאת מירב נפח האחסון בגיבוי בענן שלכם תופס בכלל הגיבוי של וואטסאפ. בכל זאת, כל ההתכתבויות, וגם התמונות והסרטונים שלנו נמצאים שם. אבל עכשיו נראה שבמטא רוצים לשחרר אתכם מהתלות בשירותי האחסון של גוגל ואפל כדי לגבות את השיחות שלכם. אז איך זה יעבוד […] The post בלי טובות מגוגל או אפל: עכשיו וואטסאפ מאפשרת לכם לגבות שיחות אצלה appeared first on גי"
-    },
-    {
-     "ref": "geektime#13",
-     "title": "חברת MongoDB רוכשת את הסטארטאפ הישראלי Firebolt",
-     "published": "2026-11-17T15:10:40+00:00",
-     "summary": "ענקית הדאטה האמריקאית MongoDB הודיעה היום (ג') כי תרכוש את הסטארטאפ הישראלי Firebolt, שמפתח מנוע לעיבוד דאטה עצום בזמן אמת. החברה האמריקאית נסחרת היום סביב שווי של כ-25 מיליארד דולר וזו הרכישה הראשונה שלה בישראל. בתגובה לרכישה אמר פרד רומא, סמנכ\"ל ההנדסה ב-MongoDB ש\"מנוע האנליטיקה של Firebolt הוכח בשטח\". מושה פסומנסקי, סמנכ\"ל הטכנולוגיות של Firebolt, […] The post חברת MongoDB רוכשת את הסטארטאפ היש"
-    },
-    {
-     "ref": "geektime#14",
-     "title": "סטארטאפ ישראלי שנחשף היום טוען: \"משרדי היח\"צ ברובם ימותו\"",
-     "published": "2026-11-17T14:00:01+00:00",
-     "summary": "יזמים רבים שמצליחים לגייס הון או להשיק מוצר או פיצ'ר חדש, חושבים שזו היתה העבודה הקשה. אבל אז, כשהם רוצים גם שכולם ידעו על זה, הם מגלים שגם זו משימה לא פשוטה, ואז הם נדרשים לעבוד עם משרדי יח\"צ עם דרישות, פגישות וכמובן ריטיינר כבד. אבל מה אם אפשר היה להחליף את כל האופרציה הזו […] The post סטארטאפ ישראלי שנחשף היום טוען: \"משרדי היח\"צ ברובם ימותו\" appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#15",
-     "title": "124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל",
-     "published": "2026-11-17T13:00:43+00:00",
-     "summary": "בשנים האחרונות, עם הקשיים בהן נתקלות חברות ה-AI הגדולות, החל להתפתח הרעיון של הצבת דאטה סנטרים ולוויינים מיוחדים בחלל. אחד הסטארטאפים הישראלים הוותיקים בתחום הזה הוא Ramon.Space, שמפתח שבבים שיכולים לספק ביצועים של מערכות מחשוב על הקרקע – אבל בתנאים הבלתי אפשריים של החלל. היום (ג') הוא מכריז על מגה-גיוס מרשים. האם SpaceX כבר לקוחה? […] The post 124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנ"
-    },
-    {
-     "ref": "geektime#16",
-     "title": "ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונרים",
-     "published": "2026-11-17T12:24:02+00:00",
-     "summary": "אנת'רופיק, החברה שעומדת מאחורי Claude, צפויה לצאת להנפקה ביום חמישי הקרוב (תחת הסימול ANT) לפי שווי שיכול להגיע לעד 1.4 טריליון דולר. המשמעות עבור 5,300 עובדי החברה? חבילות המניות והאופציות שלהם צפויות לקבל שווי שוק, ויהפכו לכסף נזיל בהדרגה בשווי אסטרונומי של כ-216 מיליארד דולר. ממוצע של 41 מיליון דולר לעובד, אבל חלק גם יקבלו […] The post ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונ"
-    }
-   ]
-  },
-  {
    "outlet": "Hacker News (150+ points)",
    "lang": "en",
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Unreal Tournament 2004 in the Browser",
-     "published": "2026-11-19T01:29:29+00:00",
-     "summary": "Article URL: https://ut2004.dev/ Comments URL: https://news.ycombinator.com/item?id=50554935 Points: 164 # Comments: 77"
+     "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+     "published": "2026-11-19T05:56:36+00:00",
+     "summary": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 159 # Comments: 20"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "We need smart people who give a shit",
      "published": "2026-11-18T23:53:49+00:00",
-     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 600 # Comments: 297"
+     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 615 # Comments: 307"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Multiple vulnerabilities in Regexp and String case conversion",
      "published": "2026-11-18T23:52:50+00:00",
-     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 267 # Comments: 90"
+     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 272 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Anthropic prices initial public offering",
      "published": "2026-11-18T23:30:09+00:00",
-     "summary": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 232 # Comments: 367"
+     "summary": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 237 # Comments: 382"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "LLM assisted reverse engineering",
      "published": "2026-11-18T22:29:13+00:00",
-     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 213 # Comments: 52"
+     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 218 # Comments: 52"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Gemini 4 Neon",
      "published": "2026-11-18T21:34:07+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 834 # Comments: 670"
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 840 # Comments: 670"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "DaisyRose-27B",
      "published": "2026-11-18T19:39:16+00:00",
-     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 215 # Comments: 76"
+     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 218 # Comments: 77"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Genie 4 is now available",
      "published": "2026-11-18T18:49:51+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 258 # Comments: 167"
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 259 # Comments: 167"
     },
     {
      "ref": "hn_frontpage#8",
@@ -310,31 +202,31 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#9",
      "title": "Seven new models at scalable price-performance",
      "published": "2026-11-18T16:08:24+00:00",
-     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 541 # Comments: 354"
+     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 542 # Comments: 354"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
      "published": "2026-11-18T16:04:43+00:00",
-     "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 217 # Comments: 72"
+     "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 218 # Comments: 73"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Inside Deutsche Bank",
      "published": "2026-11-18T15:38:33+00:00",
-     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 696 # Comments: 240"
+     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 698 # Comments: 240"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
      "published": "2026-11-18T15:35:44+00:00",
-     "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 181 # Comments: 116"
+     "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 182 # Comments: 116"
     },
     {
      "ref": "hn_frontpage#13",
      "title": "Unauthenticated remote code execution in Nginx",
      "published": "2026-11-18T15:19:55+00:00",
-     "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 1383 # Comments: 594"
+     "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 1389 # Comments: 597"
     },
     {
      "ref": "hn_frontpage#14",
