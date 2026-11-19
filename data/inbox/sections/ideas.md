@@ -119,18 +119,25 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "lesswrong_curated#0",
+     "title": "How To Get A Friend To Leave An Abusive Relationship",
+     "published": "2026-11-19T04:17:15+00:00",
+     "summary": "How do you get a friend to leave an abusive relationship? If you talk to people who work at women's shelters, they will tell you, but there is something resigned about the way they do it: they know that it's too difficult an ask. Those who can do it reliably are often people who are unlucky enough to have had first-hand experience as victims. The instructions have anti-memetic properties: no one i",
+     "full_text_file": "essays/lesswrong_curated_0.txt"
+    },
+    {
+     "ref": "lesswrong_curated#1",
      "title": "Scattered thoughts on how doing math feels these days",
      "published": "2026-11-13T01:10:37+00:00",
      "summary": "This is a weird moment. I have a hunch that we'll look back later and tell ourselves stories in which it seemed obvious where things were going. So I wanted to lay down a little time capsule and register just how confusing everything felt at the time. This is a personal view from the trenches. 1. If you're a normal person, you may feel that AI has been good at math for a long time. [1] But for \"re"
     },
     {
-     "ref": "lesswrong_curated#1",
+     "ref": "lesswrong_curated#2",
      "title": "Some Memories of Early Anthropic",
      "published": "2026-11-08T21:51:27+00:00",
      "summary": "The following events took place between October 2022 and May 2023. I wrote very little of this down at the time so am recalling from memory, and am rendering the gist of the dialogue rather than the exact words used. I’ve also swapped some pronouns and other personal identifiable details. Please remember that this is not a description of “what Anthropic is like”, but merely the experience of one g"
     },
     {
-     "ref": "lesswrong_curated#2",
+     "ref": "lesswrong_curated#3",
      "title": "Towards understanding score-seeking in LLMs",
      "published": "2026-11-06T03:19:36+00:00",
      "summary": "The field of AI alignment understands surprisingly little about the details of AIs’ current misaligned motivations. Production LLMs sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended [1] , and we've recently seen AIs reward-hack in some particularly egregious ways. But we don't really understand what motivates them. When AIs reward-hack, wh"
@@ -143,93 +150,93 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "The Anthropic IPO",
+     "published": "2026-11-19T06:40:05+00:00",
+     "summary": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might […] The post The Anthropic IPO appeared first on Marginal REVOLUTION ."
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Will Baird, book maven (from my email)",
+     "published": "2026-11-19T06:02:15+00:00",
+     "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, […] The post Will Baird, book maven (from my em"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "UK productivity update",
      "published": "2026-11-18T18:53:56+00:00",
      "summary": "Output per hour worked increased by 2.5% in Quarter 3 (July to Sept) 2026 compared with the same quarter a year ago, reflecting a 2.0% increase in GVA and a 0.5% decrease in hours worked. Output per worker increased by 2.0% in Quarter 3 2026 compared with the same quarter a year ago. This was […] The post UK productivity update appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "The economics of investment expensing",
      "published": "2026-11-18T18:17:04+00:00",
      "summary": "In July 2025, the One Big Beautiful Bill Act made 100% equipment expensing permanent after two decades of temporary bonus depreciation. I evaluate this reform in a general-equilibrium heterogeneous-firm model with collateral constraints and nonrefundable tax deductions. When matched to U.S. tax-return and Compustat moments, the model yields three findings. First, permanent expensing raises long-ru"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Wednesday assorted links",
      "published": "2026-11-18T16:41:46+00:00",
      "summary": "1. Chinese AI companies way down in value. 2. Allison Schrager is starting a podcast with Ken Rogoff. 3. Extensive survey of students on AI. 4. Robert Lynch on lookism. 5. New version of Claude Blattman. 6. Seb Krier on the Christiano interview. The whole dialogue over this interview is a good example of why […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "Was Achilles Conscious?",
      "published": "2026-11-18T12:18:00+00:00",
      "summary": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued that intelligent behavior preceded introspective consciousness. People could speak, learn, farm, build cities, and solve problems without mentally representing […] The post Was Achille"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Me on the cyberattacks",
      "published": "2026-11-18T06:10:57+00:00",
      "summary": "Tyler Cowen: Don’t Be Fooled By Randomness The problems are serious, but the sky is not falling in. When it comes to the recent service outages, keep a few points in mind. First, cyber risk is considerably higher than it used to be. Due to progress in AI systems, cyber offense has outraced cyber defense. […] The post Me on the cyberattacks appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "The Kalshi market on U.S. productivity growth",
      "published": "2026-11-17T20:34:15+00:00",
      "summary": "It is coming in at 2.2%, people. That is for over the next five years. tys…though even I think it will be a bit higher than that. Yes the liquidity is tiny, but that is endogenous to the reality that huge profits are not to be made there. You are free to trade yourself of […] The post The Kalshi market on U.S. productivity growth appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "What should I ask Alexander Mikaberidze?",
      "published": "2026-11-17T19:17:25+00:00",
      "summary": "He is the author and the new and excellent The Louisiana Purchase: The Grand Bargain and the Making of America. He also wrote The Napoleonic Wars: A Global History, one of my favorite history books. He has extensive other writings on the history of the Russian military during that same period. From Wikipedia: Alexander Mikaberidze […] The post What should I ask Alexander Mikaberidze? appeared firs"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Alex Imas and I podcast on the economics of AI",
      "published": "2026-11-17T16:53:31+00:00",
      "summary": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE The post Alex Imas and I podcast on the economics of AI appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "Tuesday assorted links",
      "published": "2026-11-17T13:46:49+00:00",
      "summary": "1. Luka has become a very good player. Defense is much better too. 2. No comment. 3. Did England bribe Scotland into political union? 4. Survey article on the economics of mental health, one of the most important and understudied areas. 5. Science isn’t just a series of lucky accidents. 6. Kalshi five-year productivity growth […] The post Tuesday assorted links appeared first on Marginal REVOLUTIO"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Adlerlicht, reporting on crime in Germany",
      "published": "2026-11-17T07:12:17+00:00",
      "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here. The post Adlerlicht, reporting on crime in Germany appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "The economics of Jensen Huang",
      "published": "2026-11-17T05:44:15+00:00",
      "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever […] The post The economics of Jensen Huang appeared first on Margi"
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "Monday assorted links",
      "published": "2026-11-16T19:17:13+00:00",
      "summary": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard Posner. 5. “A survey released Monday found that new international student enrollment plunged by 15 percent, a figure that was particularly […] The post Monday assorted links appeared "
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#14",
      "title": "Russ Roberts and I do EconTalk podcast on Montaigne",
      "published": "2026-11-16T16:53:41+00:00",
      "summary": "Self-recommending, we start with Montaigne’s essay on education… The post Russ Roberts and I do EconTalk podcast on Montaigne appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Starship",
-     "published": "2026-11-16T12:18:54+00:00",
-     "summary": "My favorite commentary on SpaceX’s historic catching of Starship was this: …we may be certain of this: for all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ Arthur C. Clarke (1965). Yesterday, this became vividly real to me. Hat tip: @amdreaesposito Addendum: Good post on why catching […] The post Starship appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Coffeehouses and the Scientific Revolution",
-     "published": "2026-11-16T07:33:14+00:00",
-     "summary": "Abstract Historians have long credited coffeehouses, venues for conversation where strangers met across social ranks, with fostering scientific contacts and activity during the Scientific Revolution. We test this claim in seventeenth-century London. Relying on newly geocoded records and a staggered event study across parishes, we find that the opening of the first coffeehouse in a […] The post Cof"
     }
    ]
   },
@@ -276,15 +283,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#6",
-     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-     "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
-    },
-    {
-     "ref": "psyche#7",
      "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
+    },
+    {
+     "ref": "psyche#7",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
     },
     {
      "ref": "psyche#8",
