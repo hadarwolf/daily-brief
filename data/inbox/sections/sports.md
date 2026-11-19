@@ -46,16 +46,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-18T23:30:00Z",
-     "home": "Flamengo",
-     "away": "Paranaense",
+     "home": "Cruzeiro",
+     "away": "Palmeiras",
      "status": "FINISHED",
      "score": "2-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-18T23:30:00Z",
-     "home": "Cruzeiro",
-     "away": "Palmeiras",
+     "home": "Flamengo",
+     "away": "Paranaense",
      "status": "FINISHED",
      "score": "2-1"
     },
@@ -80,16 +80,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T22:30:00Z",
-     "home": "Vitória",
-     "away": "Bragantino",
+     "home": "Vasco da Gama",
+     "away": "Internacional",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T22:30:00Z",
-     "home": "Vasco da Gama",
-     "away": "Internacional",
+     "home": "Vitória",
+     "away": "Bragantino",
      "status": "TIMED",
      "score": null
     }
@@ -534,153 +534,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+     "published": "2026-11-19T10:21:10+00:00",
+     "summary": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?"
+    },
+    {
+     "ref": "bbc_football#1",
+     "title": "Player handed eight-year ban for throwing rock at ref",
+     "published": "2026-11-19T10:20:58+00:00",
+     "summary": "Ecuadorian footballer Jhon Perlaza is banned for eight years after throwing a stone at an assistant referee during a third-tier match."
+    },
+    {
+     "ref": "bbc_football#2",
+     "title": "Five return for Wales' World Cup play-off final",
+     "published": "2026-11-19T10:00:07+00:00",
+     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
+    },
+    {
+     "ref": "bbc_football#3",
+     "title": "Five return for Wales' World Cup play-off final",
+     "published": "2026-11-19T10:00:07+00:00",
+     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
+    },
+    {
+     "ref": "bbc_football#4",
      "title": "Allen to join Williams in interim Swans coaching team",
      "published": "2026-11-19T09:43:08+00:00",
      "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#5",
      "title": "The best European strikers this century - ranked by you",
      "published": "2026-11-19T08:50:01+00:00",
      "summary": "BBC Sport reveals the top 10 European strikers this century, as voted for by you."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#6",
      "title": "Leicester split with sponsor after porn actress row",
      "published": "2026-11-19T08:26:16+00:00",
      "summary": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#7",
      "title": "Armstrong would relish Rangers switch - gossip",
      "published": "2026-11-19T08:01:39+00:00",
      "summary": "Romania-based winger eyes reunion with manager at Ibrox as Celtic hero reveals approach from Rangers..."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#8",
      "title": "Podcast: Who should be worried in Premiership bottom four?",
      "published": "2026-11-19T08:00:00+00:00",
      "summary": "Aberdeen, Hibs, Motherwell & Killie... FIGHT!"
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#9",
      "title": "How Premier League's big six keep getting richer",
      "published": "2026-11-19T07:38:22+00:00",
      "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#10",
      "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
      "published": "2026-11-19T07:14:11+00:00",
      "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?"
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#11",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-19T07:06:18+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#8",
+     "ref": "bbc_football#12",
      "title": "Vote for the first BBC Men's Footballer of the Year",
      "published": "2026-11-19T06:30:04+00:00",
      "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award."
     },
     {
-     "ref": "bbc_football#9",
+     "ref": "bbc_football#13",
      "title": "'Best I've seen live': Watch as player scores ‘special’ goal",
      "published": "2026-11-19T05:30:23+00:00",
      "summary": "The midfielder speaks of the \"special moment\" he scored from within his own half."
     },
     {
-     "ref": "bbc_football#10",
+     "ref": "bbc_football#14",
      "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
      "published": "2026-11-18T22:34:05+00:00",
      "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#15",
      "title": "Buurman rescues late Chelsea win against PSG",
      "published": "2026-11-18T22:13:49+00:00",
      "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#16",
      "title": "Euro Leagues",
      "published": "2026-11-18T22:06:00+00:00",
      "summary": "Who makes the list of the Top 10 European Strikers of the Century so far?"
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#17",
      "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
      "published": "2026-11-18T21:22:18+00:00",
      "summary": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#18",
      "title": "England defender Carter joins Bay FC after Gotham exit",
      "published": "2026-11-18T21:07:26+00:00",
      "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#19",
      "title": "England defender Carter joins Bay FC after Gotham exit",
      "published": "2026-11-18T21:07:26+00:00",
      "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#20",
      "title": "Strasbourg appoint Swansea boss Matos",
      "published": "2026-11-18T20:57:54+00:00",
      "summary": "Strasbourg announce the appointment of Vitor Matos as the club's head coach - though Swansea City are yet to confirm the move."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#21",
      "title": "FA explored legal challenge to Infantino staying on",
      "published": "2026-11-18T20:55:01+00:00",
      "summary": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail."
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#22",
      "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
      "published": "2026-11-18T20:25:40+00:00",
      "summary": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League."
     },
     {
-     "ref": "bbc_football#19",
-     "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
-     "published": "2026-11-18T19:09:00+00:00",
-     "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28."
-    },
-    {
-     "ref": "bbc_football#20",
-     "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
-     "published": "2026-11-18T19:09:00+00:00",
-     "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28."
-    },
-    {
-     "ref": "bbc_football#21",
-     "title": "Ward close to new Republic of Ireland deal as World Cup chance beckons",
-     "published": "2026-11-18T18:06:04+00:00",
-     "summary": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final."
-    },
-    {
-     "ref": "bbc_football#22",
-     "title": "Ward close to new deal as Noonan returns to squad",
-     "published": "2026-11-18T18:06:04+00:00",
-     "summary": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final."
-    },
-    {
      "ref": "bbc_football#23",
-     "title": "Rooney revelations important - Bradford boss Duff",
-     "published": "2026-11-18T17:52:23+00:00",
-     "summary": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing."
+     "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+     "published": "2026-11-18T19:09:00+00:00",
+     "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28."
     },
     {
      "ref": "bbc_football#24",
-     "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
-     "published": "2026-11-18T17:06:29+00:00",
-     "summary": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai."
+     "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+     "published": "2026-11-18T19:09:00+00:00",
+     "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28."
     }
    ]
   },

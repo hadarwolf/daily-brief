@@ -256,49 +256,49 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Unreal Tournament 2004 in the Browser",
      "published": "2026-11-19T01:29:29+00:00",
-     "summary": "Article URL: https://ut2004.dev/ Comments URL: https://news.ycombinator.com/item?id=50554935 Points: 157 # Comments: 74"
+     "summary": "Article URL: https://ut2004.dev/ Comments URL: https://news.ycombinator.com/item?id=50554935 Points: 164 # Comments: 77"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "We need smart people who give a shit",
      "published": "2026-11-18T23:53:49+00:00",
-     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 579 # Comments: 293"
+     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 600 # Comments: 297"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Multiple vulnerabilities in Regexp and String case conversion",
      "published": "2026-11-18T23:52:50+00:00",
-     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 257 # Comments: 89"
+     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 267 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Anthropic prices initial public offering",
      "published": "2026-11-18T23:30:09+00:00",
-     "summary": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 223 # Comments: 341"
+     "summary": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 232 # Comments: 367"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "LLM assisted reverse engineering",
      "published": "2026-11-18T22:29:13+00:00",
-     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 208 # Comments: 50"
+     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 213 # Comments: 52"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Gemini 4 Neon",
      "published": "2026-11-18T21:34:07+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 822 # Comments: 663"
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 834 # Comments: 670"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "DaisyRose-27B",
      "published": "2026-11-18T19:39:16+00:00",
-     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 212 # Comments: 73"
+     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 215 # Comments: 76"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Genie 4 is now available",
      "published": "2026-11-18T18:49:51+00:00",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 253 # Comments: 166"
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 258 # Comments: 167"
     },
     {
      "ref": "hn_frontpage#8",
@@ -310,43 +310,37 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#9",
      "title": "Seven new models at scalable price-performance",
      "published": "2026-11-18T16:08:24+00:00",
-     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 540 # Comments: 353"
+     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 541 # Comments: 354"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
      "published": "2026-11-18T16:04:43+00:00",
-     "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 213 # Comments: 70"
+     "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 217 # Comments: 72"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "AI agents ask better questions than KPMG accountants in audit trial",
-     "published": "2026-11-18T15:49:34+00:00",
-     "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 457 # Comments: 211"
+     "title": "Inside Deutsche Bank",
+     "published": "2026-11-18T15:38:33+00:00",
+     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 696 # Comments: 240"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "Inside Deutsche Bank",
-     "published": "2026-11-18T15:38:33+00:00",
-     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 688 # Comments: 234"
+     "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+     "published": "2026-11-18T15:35:44+00:00",
+     "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 181 # Comments: 116"
     },
     {
      "ref": "hn_frontpage#13",
-     "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
-     "published": "2026-11-18T15:35:44+00:00",
-     "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 180 # Comments: 115"
+     "title": "Unauthenticated remote code execution in Nginx",
+     "published": "2026-11-18T15:19:55+00:00",
+     "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 1383 # Comments: 594"
     },
     {
      "ref": "hn_frontpage#14",
-     "title": "Unauthenticated remote code execution in Nginx",
-     "published": "2026-11-18T15:19:55+00:00",
-     "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 1373 # Comments: 594"
-    },
-    {
-     "ref": "hn_frontpage#15",
      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
      "published": "2026-11-18T14:43:52+00:00",
-     "summary": "Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 280 # Comments: 209"
+     "summary": "Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 280 # Comments: 211"
     }
    ]
   },

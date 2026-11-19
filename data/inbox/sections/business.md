@@ -18,93 +18,92 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Former Brexit Negotiator Welcomes UK-EU Cooperation (Video)",
+     "published": "2026-11-19T10:21:26+00:00"
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "Brasília em Off",
      "published": "2026-11-19T09:38:06+00:00",
      "summary": "Martha Beck fala sobre o impacto do plano fiscal na escolha do comando da Fazenda. Edição de Patricia Xavier. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
+     "title": "Sify Infinit Said to Revive $396 Million India IPO Plan",
+     "published": "2026-11-19T09:22:34+00:00",
+     "summary": "Sify Infinit Spaces Ltd. is once again gauging investor appetite for its planned 37 billion-rupee ($396 million) initial public offering in India, according to people familiar with the matter, joining a growing list of companies returning to the market as sentiment improves."
+    },
+    {
+     "ref": "bloomberg_markets#3",
      "title": "Amundi Not Seeing ‘Panic Selling’ in French Debt, Mortier Says",
      "published": "2026-11-19T09:05:34+00:00",
      "summary": "Amundi SA, Europe’s largest asset manager, isn’t seeing any panic selling of French debt, despite a recent jump in yields of the country’s bonds."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#4",
      "title": "Nick Khan on Making WWE a Global Media Power",
      "published": "2026-11-19T09:01:02+00:00",
      "summary": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with WWE president Nick Khan at Bloomberg’s Screentime conference about his deals with Netflix and ESPN. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#5",
      "title": "This Is The Problem With AI's Most Bullish Chart",
      "published": "2026-11-19T09:00:04+00:00",
      "summary": "Credit strains are emerging during a historic week for the industry."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#6",
      "title": "Odd Lots: AI’s Credit Crunch Moment (Podcast)",
      "published": "2026-11-19T09:00:00+00:00",
      "summary": "It has been a historic week for AI: the Anthropic IPO and the ongoing situation at Nvidia headline a pretty head-spinning time for the industry. Despite Nvidia’s earnings outlook looking good, and despite the scale of the Anthropic IPO — it’s oversubscribed, as you might know — there are so many open questions about the state of the industry right now. Financing the buildout has become increasingl"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#7",
      "title": "Dollar and Commodities Hint at Cooler Growth Ahead: Market Analysis",
      "published": "2026-11-19T08:49:27+00:00",
      "summary": "Anna Edwards, Guy Johnson and David Savage break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#8",
      "title": "Trump, Xi and Putin Hold Talks at APEC Summit",
      "published": "2026-11-19T08:41:06+00:00",
      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#9",
      "title": "Modi Calls on Indian Companies to Expand Global Ambitions",
      "published": "2026-11-19T08:27:46+00:00",
      "summary": "Prime Minister Narendra Modi urged Indian companies to look beyond the domestic market and focus on global demand, telling business leaders Thursday that they should prepare to compete globally."
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#10",
      "title": "ITU: Focus On Ensuring Syria Becomes a Digital Hub",
      "published": "2026-11-19T08:19:17+00:00",
      "summary": "The UN’s digital technology agency is meeting in Doha, with AI, connectivity and space-based technologies high on the agenda. According to the International Telecommunication Union, more than two billion people remain offline as governments grapple with the rapid development of AI and other digital technologies. Doreen Bogdan-Martin, Secretary-General of the ITU spoke to Bloomberg’s Abeer Abu Omar"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#11",
      "title": "Hong Kong Family Office Unwinds $3.9 Billion of Bets Around AI",
      "published": "2026-11-19T07:58:37+00:00",
      "summary": "The Hong Kong family office launched by hedge fund veteran Larry Chen slashed its equity holdings last quarter as investors more broadly retreated from AI assets."
     },
     {
-     "ref": "bloomberg_markets#10",
-     "title": "Oil Traders in Talks With QatarEnergy for Long-Term Supplies",
-     "published": "2026-11-19T07:32:54+00:00",
-     "summary": "Some of the world’s top commodity-trading houses are in talks to secure more long-term supplies of Qatari crude, seeking to build on their success at shuttling oil out of the Persian Gulf during the Iran-US war."
-    },
-    {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Path to a Year-End Stock Rally Looks Clearer After Anthropic",
      "published": "2026-11-19T07:21:24+00:00",
      "summary": "Optimism is growing for a year-end rally once a series of major risk events that prompted equity investors to slash exposure is done."
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade",
      "published": "2026-11-19T07:09:16+00:00",
      "summary": "US technology stocks were set to bounce after a blockbuster reception to Anthropic PBC’s initial public offering revived confidence in the artificial intelligence trade."
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Taiwan Tightens Short Selling Curbs to Support Stock Market",
      "published": "2026-11-19T06:46:54+00:00",
      "summary": "Taiwan’s Financial Supervisory Commission tightened its curbs on short selling to help stabilize the local equity market, which is set for its biggest monthly decline since the global financial crisis in 2008."
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "Philippines Returns to Retail Dollar Bonds as Peso Rebounds",
-     "published": "2026-11-19T06:20:26+00:00",
-     "summary": "The Philippines raised more than $450 million from retail dollar bonds on Thursday, marking its return to selling such debt after three years as yields eased and the peso bounced back from a record low."
     },
     {
      "ref": "bloomberg_markets#15",
@@ -150,9 +149,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#1",
-     "title": "Trump, Putin and Xi begin historic trilateral meeting",
+     "title": "Trump, Putin and Xi in historic trilateral meeting",
      "published": "2026-11-19T07:43:13+00:00",
-     "summary": "Summit with three leaders begins in southern Chinese city of Shenzhen during week of high-stakes diplomacy"
+     "summary": "Summit with three leaders in southern Chinese city of Shenzhen during week of high-stakes diplomacy"
     },
     {
      "ref": "ft_home#2",
@@ -525,9 +524,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3965.1101,
+   "last": 3965.8,
    "prev_close": 3964.9199,
-   "change_pct": 0.0,
+   "change_pct": 0.02,
    "as_of": "2026-11-19"
   },
   "SP500": {
@@ -539,23 +538,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.2732,
+   "last": 3.2725,
    "prev_close": 3.2535,
-   "change_pct": 0.61,
+   "change_pct": 0.58,
    "as_of": "2026-11-19"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 89.46,
+   "last": 89.85,
    "prev_close": 91.95,
-   "change_pct": -2.71,
+   "change_pct": -2.28,
    "as_of": "2026-11-19"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 63787.1406,
+   "last": 63780.6406,
    "prev_close": 62987.2656,
-   "change_pct": 1.27,
+   "change_pct": 1.26,
    "as_of": "2026-11-19"
   }
  },
