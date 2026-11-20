@@ -214,73 +214,61 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "\"I can tell you wrote this yourself\"",
      "published": "2026-11-20T07:13:21+00:00",
-     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 157 # Comments: 154"
+     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 191 # Comments: 191"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "PostgreSQL 19",
-     "published": "2026-11-20T03:45:45+00:00",
-     "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 192 # Comments: 9"
+     "title": "FFmpeg 9.1 'Gauss'",
+     "published": "2026-11-20T04:02:39+00:00",
+     "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 152 # Comments: 24"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-     "published": "2026-11-20T02:01:09+00:00",
-     "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 249 # Comments: 197"
+     "title": "PostgreSQL 19",
+     "published": "2026-11-20T03:45:45+00:00",
+     "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 218 # Comments: 10"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Synology Security Advisory",
-     "published": "2026-11-19T22:13:40+00:00",
-     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 150 # Comments: 115"
+     "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+     "published": "2026-11-20T02:01:09+00:00",
+     "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 271 # Comments: 211"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-     "published": "2026-11-19T18:35:17+00:00",
-     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 292 # Comments: 148"
+     "title": "Synology Security Advisory",
+     "published": "2026-11-19T22:13:40+00:00",
+     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 154 # Comments: 117"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Claude solves two open problems in the physics of black holes",
-     "published": "2026-11-19T17:30:44+00:00",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 501 # Comments: 231"
+     "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+     "published": "2026-11-19T18:35:17+00:00",
+     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 298 # Comments: 151"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Pancreatic cancer halted by virus injection in three patients",
-     "published": "2026-11-19T17:25:33+00:00",
-     "summary": "https://archive.ph/2Et0x https://clinicaltrials.gov/study/NCT06693986 Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 781 # Comments: 134"
+     "title": "Claude solves two open problems in the physics of black holes",
+     "published": "2026-11-19T17:30:44+00:00",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 507 # Comments: 236"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Anthropic’s Nasdaq debut",
      "published": "2026-11-19T17:02:40+00:00",
-     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 1083 # Comments: 2147"
+     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 1087 # Comments: 2153"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-     "published": "2026-11-19T15:38:32+00:00",
-     "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 224 # Comments: 104"
+     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+     "published": "2026-11-19T15:38:12+00:00",
+     "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 250 # Comments: 222"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-     "published": "2026-11-19T15:38:12+00:00",
-     "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 245 # Comments: 219"
-    },
-    {
-     "ref": "hn_frontpage#10",
-     "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-     "published": "2026-11-19T13:18:11+00:00",
-     "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 306 # Comments: 61"
-    },
-    {
-     "ref": "hn_frontpage#11",
      "title": "Someone reported java4shell bug in September 2026",
      "published": "2026-11-19T11:47:03+00:00",
-     "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 428 # Comments: 119"
+     "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 430 # Comments: 120"
     }
    ]
   },
@@ -347,12 +335,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "How Microcredentials Can Help Engineers Build Trustworthy AI",
      "published": "2026-11-13T19:00:03+00:00",
      "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challenges. “AI ethics” refers to the principles developers use to govern and operate workflows. “Governanc"
-    },
-    {
-     "ref": "ieee_spectrum#10",
-     "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
-     "published": "2026-11-13T11:00:02+00:00",
-     "summary": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their shape in the wind. Why a moderate wind on a heavily iced line can govern design, and how galloping an"
     }
    ]
   },

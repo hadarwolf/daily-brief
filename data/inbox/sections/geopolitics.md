@@ -18,147 +18,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "War and unrest - AP News",
+     "published": "2026-11-20T11:06:45+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Golf - AP News",
+     "published": "2026-11-20T11:04:35+00:00",
+     "summary": "Golf AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Rugby - AP News",
+     "published": "2026-11-20T11:01:30+00:00",
+     "summary": "Rugby AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "2026 World Cup venue map - AP News",
+     "published": "2026-11-20T10:59:48+00:00",
+     "summary": "2026 World Cup venue map AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "MLB | Latest News, Stats, and Scores - AP News",
+     "published": "2026-11-20T10:59:47+00:00",
+     "summary": "MLB | Latest News, Stats, and Scores AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Soccer - AP News",
+     "published": "2026-11-20T10:45:33+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "My Fan Picks - AP News",
+     "published": "2026-11-20T10:41:35+00:00",
+     "summary": "My Fan Picks AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate - AP News",
+     "published": "2026-11-20T10:36:00+00:00",
+     "summary": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-11-20T10:24:49+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-11-20T10:14:36+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#1",
-     "title": "NATO - AP News",
-     "published": "2026-11-20T10:12:25+00:00",
-     "summary": "NATO AP News"
-    },
-    {
-     "ref": "ap_world#2",
-     "title": "War and unrest - AP News",
-     "published": "2026-11-20T10:03:24+00:00",
-     "summary": "War and unrest AP News"
-    },
-    {
-     "ref": "ap_world#3",
-     "title": "Rugby - AP News",
-     "published": "2026-11-20T10:01:26+00:00",
-     "summary": "Rugby AP News"
-    },
-    {
-     "ref": "ap_world#4",
-     "title": "Trending News - AP News",
-     "published": "2026-11-20T10:01:24+00:00",
-     "summary": "Trending News AP News"
-    },
-    {
-     "ref": "ap_world#5",
-     "title": "2026 World Cup venue map - AP News",
-     "published": "2026-11-20T10:00:18+00:00",
-     "summary": "2026 World Cup venue map AP News"
-    },
-    {
-     "ref": "ap_world#6",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-11-20T10:00:14+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
-    },
-    {
-     "ref": "ap_world#7",
-     "title": "Golf - AP News",
-     "published": "2026-11-20T09:54:02+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "Soccer - AP News",
-     "published": "2026-11-20T09:46:48+00:00",
-     "summary": "Soccer AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "My Fan Picks - AP News",
-     "published": "2026-11-20T09:42:52+00:00",
-     "summary": "My Fan Picks AP News"
-    },
-    {
      "ref": "ap_world#10",
-     "title": "Latin American News | Latest Latin American News - AP News",
-     "published": "2026-11-20T09:24:33+00:00",
-     "summary": "Latin American News | Latest Latin American News AP News"
-    },
-    {
-     "ref": "ap_world#11",
      "title": "Global shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut - AP News",
      "published": "2026-11-20T08:53:00+00:00",
      "summary": "Global shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut AP News"
     },
     {
+     "ref": "ap_world#11",
+     "title": "Myanmar dismisses UN court ruling finding country responsible of Rohingya genocide as 'unfair' - AP News",
+     "published": "2026-11-20T08:49:00+00:00",
+     "summary": "Myanmar dismisses UN court ruling finding country responsible of Rohingya genocide as 'unfair' AP News"
+    },
+    {
      "ref": "ap_world#12",
+     "title": "Russian attacks on Kyiv kill 3, cripple bridges and cut power - AP News",
+     "published": "2026-11-20T08:31:00+00:00",
+     "summary": "Russian attacks on Kyiv kill 3, cripple bridges and cut power AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "Nations seek deeper fossil fuel cuts, as annual UN climate summit enters final day - AP News",
      "published": "2026-11-20T07:43:00+00:00",
      "summary": "Nations seek deeper fossil fuel cuts, as annual UN climate summit enters final day AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
      "title": "Xi projects China’s global influence after hosting Trump and Putin at APEC - AP News",
      "published": "2026-11-20T07:31:00+00:00",
      "summary": "Xi projects China’s global influence after hosting Trump and Putin at APEC AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#15",
+     "title": "Romanian prison inmates take the stage at a drama festival, in photos - AP News",
+     "published": "2026-11-20T06:48:00+00:00",
+     "summary": "Romanian prison inmates take the stage at a drama festival, in photos AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Haiti | Latest News & Updates - AP News",
+     "published": "2026-11-20T06:37:14+00:00",
+     "summary": "Haiti | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#17",
      "title": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar - AP News",
      "published": "2026-11-20T06:08:00+00:00",
      "summary": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#18",
      "title": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission - AP News",
      "published": "2026-11-20T06:00:00+00:00",
      "summary": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#19",
      "title": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat - AP News",
      "published": "2026-11-20T05:47:00+00:00",
      "summary": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "Romanian prison inmates take the stage at a drama festival, in photos - AP News",
-     "published": "2026-11-20T05:42:00+00:00",
-     "summary": "Romanian prison inmates take the stage at a drama festival, in photos AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate - AP News",
-     "published": "2026-11-20T05:18:00+00:00",
-     "summary": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate AP News"
-    },
-    {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "(Not) up in the air: Travelers' trepidations spike as Thanksgiving nears and tech hiccups abound - AP News",
      "published": "2026-11-20T05:07:00+00:00",
      "summary": "(Not) up in the air: Travelers' trepidations spike as Thanksgiving nears and tech hiccups abound AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#21",
      "title": "Anthropic’s IPO caps an explosive growth period for the AI startup, filled with contradictions - AP News",
      "published": "2026-11-20T05:01:00+00:00",
      "summary": "Anthropic’s IPO caps an explosive growth period for the AI startup, filled with contradictions AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#22",
      "title": "RJ Luis Jr. will ‘stand down’ and stop playing at LSU, his lawyer says - AP News",
      "published": "2026-11-20T05:00:00+00:00",
      "summary": "RJ Luis Jr. will ‘stand down’ and stop playing at LSU, his lawyer says AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "Judge says agriculture secretary’s religious emails were unconstitutional - AP News",
      "published": "2026-11-20T04:48:00+00:00",
      "summary": "Judge says agriculture secretary’s religious emails were unconstitutional AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Haiti | Latest News & Updates - AP News",
-     "published": "2026-11-20T04:18:12+00:00",
-     "summary": "Haiti | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#24",
@@ -360,15 +360,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
-     "title": "Congress and the Coming Crises",
-     "published": "2026-11-20T09:00:00+00:00",
-     "summary": "How to defuse looming threats to U.S. national security."
-    },
-    {
-     "ref": "foreign_affairs#1",
      "title": "America’s Bad Bargain in Venezuela",
      "published": "2026-11-20T09:00:00+00:00",
      "summary": "Washington’s deal-making is strengthening the Chavista regime."
+    },
+    {
+     "ref": "foreign_affairs#1",
+     "title": "Congress and the Coming Crises",
+     "published": "2026-11-20T09:00:00+00:00",
+     "summary": "How to defuse looming threats to U.S. national security."
     },
     {
      "ref": "foreign_affairs#2",
@@ -432,153 +432,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "UK-EU reset deal agreed, Downing Street says - Reuters",
+     "published": "2026-11-20T10:30:27+00:00",
+     "summary": "UK-EU reset deal agreed, Downing Street says Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion - Reuters",
      "published": "2026-11-20T10:19:43+00:00",
      "summary": "SK Hynix to become top shareholder in rival Kioxia after bond conversion Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
+     "title": "Myanmar's Rohingya win landmark genocide ruling, but return home remains distant - Reuters",
+     "published": "2026-11-20T09:48:33+00:00",
+     "summary": "Myanmar's Rohingya win landmark genocide ruling, but return home remains distant Reuters"
+    },
+    {
+     "ref": "reuters_world#3",
      "title": "Russia pushes back against US idea of NATO-style security guarantees for Ukraine - Reuters",
      "published": "2026-11-20T09:36:36+00:00",
      "summary": "Russia pushes back against US idea of NATO-style security guarantees for Ukraine Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#4",
      "title": "Ukraine strains Russian logistics with Crimean bridge strikes - Reuters",
      "published": "2026-11-20T09:29:58+00:00",
      "summary": "Ukraine strains Russian logistics with Crimean bridge strikes Reuters"
     },
     {
-     "ref": "reuters_world#3",
-     "title": "Myanmar's Rohingya win landmark genocide ruling, but return home remains distant - Reuters",
-     "published": "2026-11-20T09:29:52+00:00",
-     "summary": "Myanmar's Rohingya win landmark genocide ruling, but return home remains distant Reuters"
+     "ref": "reuters_world#5",
+     "title": "Nepal PM Balendra Shah to visit India, meet Modi - Reuters",
+     "published": "2026-11-20T08:55:43+00:00",
+     "summary": "Nepal PM Balendra Shah to visit India, meet Modi Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#6",
      "title": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say - Reuters",
      "published": "2026-11-20T08:45:43+00:00",
      "summary": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#7",
      "title": "Malaysia says it will resettle 10,000 Rohingya refugees in Turkey - Reuters",
      "published": "2026-11-20T07:45:00+00:00",
      "summary": "Malaysia says it will resettle 10,000 Rohingya refugees in Turkey Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#8",
      "title": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts - Reuters",
      "published": "2026-11-20T07:42:00+00:00",
      "summary": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts Reuters"
     },
     {
-     "ref": "reuters_world#7",
-     "title": "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say - Reuters",
+     "ref": "reuters_world#9",
+     "title": "Iraqi security forces deploy in Iran-backed militia stronghold - Reuters",
      "published": "2026-11-20T07:31:00+00:00",
-     "summary": "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say Reuters"
+     "summary": "Iraqi security forces deploy in Iran-backed militia stronghold Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#10",
      "title": "UK retail sales beat forecasts after government tells households to stock up - Reuters",
      "published": "2026-11-20T07:05:00+00:00",
      "summary": "UK retail sales beat forecasts after government tells households to stock up Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#11",
      "title": "Retailer Mr Price's NKD deal boosts sales, but higher finance costs weigh on profit - Reuters",
      "published": "2026-11-20T06:37:00+00:00",
      "summary": "Retailer Mr Price's NKD deal boosts sales, but higher finance costs weigh on profit Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#12",
      "title": "South African rand near one-year low with coalition talks in focus - Reuters",
      "published": "2026-11-20T06:29:00+00:00",
      "summary": "South African rand near one-year low with coalition talks in focus Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#13",
      "title": "Trump's personalized diplomacy hits its limits with 3-way summit - Reuters",
      "published": "2026-11-20T06:03:00+00:00",
      "summary": "Trump's personalized diplomacy hits its limits with 3-way summit Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#14",
      "title": "EXCLUSIVE: Taiwan tells Meta thousands of China-linked accounts seek to influence elections - Reuters",
      "published": "2026-11-20T05:30:00+00:00",
      "summary": "EXCLUSIVE: Taiwan tells Meta thousands of China-linked accounts seek to influence elections Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#15",
      "title": "Indonesia's Prabowo, China's Xi discuss future South China Sea cooperation - Reuters",
      "published": "2026-11-20T05:14:00+00:00",
      "summary": "Indonesia's Prabowo, China's Xi discuss future South China Sea cooperation Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#16",
      "title": "Rupee rises past 93/USD as AI rout draws billions into India, speculators bail - Reuters",
      "published": "2026-11-20T05:02:00+00:00",
      "summary": "Rupee rises past 93/USD as AI rout draws billions into India, speculators bail Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#17",
      "title": "Indonesia asks Google to clarify removal of 19,000 YouTube channels, ministry says - Reuters",
      "published": "2026-11-20T04:58:00+00:00",
      "summary": "Indonesia asks Google to clarify removal of 19,000 YouTube channels, ministry says Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#18",
      "title": "Xi hails 'comprehensive turnaround' in China-Australia ties - Reuters",
      "published": "2026-11-20T04:49:00+00:00",
      "summary": "Xi hails 'comprehensive turnaround' in China-Australia ties Reuters"
     },
     {
-     "ref": "reuters_world#17",
-     "title": "Britain, EU set to agree to reset but divisions persist - Reuters",
+     "ref": "reuters_world#19",
+     "title": "Britain and EU to launch reset with food and youth mobility deals - Reuters",
      "published": "2026-11-20T04:02:00+00:00",
-     "summary": "Britain, EU set to agree to reset but divisions persist Reuters"
+     "summary": "Britain and EU to launch reset with food and youth mobility deals Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#20",
      "title": "Saudi-led coalition says it intercepted Houthi missile targeting southern region - Reuters",
      "published": "2026-11-20T03:33:00+00:00",
      "summary": "Saudi-led coalition says it intercepted Houthi missile targeting southern region Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#21",
      "title": "Gold slides toward worst week in eight months on hawkish Fed outlook - Reuters",
      "published": "2026-11-20T03:24:00+00:00",
      "summary": "Gold slides toward worst week in eight months on hawkish Fed outlook Reuters"
     },
     {
-     "ref": "reuters_world#20",
-     "title": "Global risk jitters bolster rupee as investors turn to Indian assets - Reuters",
-     "published": "2026-11-20T02:55:00+00:00",
-     "summary": "Global risk jitters bolster rupee as investors turn to Indian assets Reuters"
-    },
-    {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "Anthropic's Australian data centre overwhelmingly opposed by residents - Reuters",
      "published": "2026-11-20T02:39:00+00:00",
      "summary": "Anthropic's Australian data centre overwhelmingly opposed by residents Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Indian stocks pause near nine-month highs; Asia market rout deepens - Reuters",
      "published": "2026-11-20T02:34:00+00:00",
      "summary": "Indian stocks pause near nine-month highs; Asia market rout deepens Reuters"
     },
     {
-     "ref": "reuters_world#23",
-     "title": "Asian shares head for worst week since 2020 as AI rout deepens - Reuters",
-     "published": "2026-11-20T01:46:00+00:00",
-     "summary": "Asian shares head for worst week since 2020 as AI rout deepens Reuters"
-    },
-    {
      "ref": "reuters_world#24",
-     "title": "US DOJ antitrust division closes probe of NextEra Energy's acquisition of Dominion Energy - Reuters",
-     "published": "2026-11-20T01:20:00+00:00",
-     "summary": "US DOJ antitrust division closes probe of NextEra Energy's acquisition of Dominion Energy Reuters"
+     "title": "Stocks slide as AI selloff deepens, Asia set for worst week since 2020 - Reuters",
+     "published": "2026-11-20T01:46:00+00:00",
+     "summary": "Stocks slide as AI selloff deepens, Asia set for worst week since 2020 Reuters"
     }
    ]
   }

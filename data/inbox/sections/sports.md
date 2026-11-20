@@ -29,34 +29,34 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T00:30:00Z",
-     "home": "Corinthians",
-     "away": "Botafogo",
-     "status": "FINISHED",
-     "score": "4-0"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-19T00:30:00Z",
      "home": "Grêmio",
      "away": "Bahia",
      "status": "FINISHED",
      "score": "0-0"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-11-19T00:30:00Z",
+     "home": "Corinthians",
+     "away": "Botafogo",
+     "status": "FINISHED",
+     "score": "4-0"
     }
    ],
    "today": [
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T22:30:00Z",
-     "home": "Vitória",
-     "away": "Bragantino",
+     "home": "Vasco da Gama",
+     "away": "Internacional",
      "status": "FINISHED",
      "score": "2-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T22:30:00Z",
-     "home": "Vasco da Gama",
-     "away": "Internacional",
+     "home": "Vitória",
+     "away": "Bragantino",
      "status": "FINISHED",
      "score": "2-1"
     },
@@ -672,33 +672,33 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 - Sportskeeda",
+     "published": "2026-11-20T10:26:40+00:00",
+     "summary": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 Sportskeeda"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Argentine star Lionel Messi earns $28.3 million, more than most MLS teams - Billionaires.Africa",
      "published": "2026-11-20T10:24:53+00:00",
      "summary": "Argentine star Lionel Messi earns $28.3 million, more than most MLS teams Billionaires.Africa"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Nashville SC-Cincinnati - beIN SPORTS",
      "published": "2026-11-20T09:38:43+00:00",
      "summary": "Nashville SC-Cincinnati beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#3",
      "title": "Messi tops MLS salaries with Lewandowski next - eNCA",
      "published": "2026-11-20T09:35:57+00:00",
      "summary": "Messi tops MLS salaries with Lewandowski next eNCA"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Suarez planning longer stay with Miami alongside Messi - beIN SPORTS",
      "published": "2026-11-20T09:33:02+00:00",
      "summary": "Suarez planning longer stay with Miami alongside Messi beIN SPORTS"
-    },
-    {
-     "ref": "gnews_inter_miami#4",
-     "title": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 - Sportskeeda",
-     "published": "2026-11-20T08:45:56+00:00",
-     "summary": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 Sportskeeda"
     },
     {
      "ref": "gnews_inter_miami#5",
@@ -714,9 +714,9 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#7",
-     "title": "Columbus Crew visit Inter Miami in first round of MLS Cup Playoffs - Herald Bulletin",
+     "title": "Columbus Crew visit Inter Miami in first round of MLS Cup Playoffs - Eagle-Tribune",
      "published": "2026-11-20T07:16:03+00:00",
-     "summary": "Columbus Crew visit Inter Miami in first round of MLS Cup Playoffs Herald Bulletin"
+     "summary": "Columbus Crew visit Inter Miami in first round of MLS Cup Playoffs Eagle-Tribune"
     },
     {
      "ref": "gnews_inter_miami#8",
