@@ -150,7 +150,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#1",
-     "title": "Andy Burnham to agree Brexit ‘reset’ deal in push for closer EU ties",
+     "title": "Burnham to agree Brexit ‘reset’ deal in push for closer EU ties",
      "published": "2026-11-20T07:49:41+00:00",
      "summary": "Agreement would lead to closer ties but Brussels insists implementation rests on UK agreeing to cut tuition fees for EU students"
     },
@@ -210,15 +210,15 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
-     "title": "מכשול בדרך לעסקה של 200 מיליון דולר: המצרים בולמים את רכישת Pharos על ידי רציו פטרוליום",
-     "published": "2026-11-20T08:21:54+00:00",
-     "summary": "רציו הציעה לרכוש את החברה, שלה פעילות בוויאטנם ובמצרים ב-200 מיליון דולר, לאחר התמחרות מול הצעה מתחרה ■ למרות ההודעה של ממשלת מצרים הצדדים טוענים כי ימשיכו לקדם את העסקה כך שתממש ברבעון הראשון של 2027"
+     "title": "מניות השבבים הפילו את סיאול וטוקיו ביותר מ-5%; ירידות גם באירופה",
+     "published": "2026-11-20T10:04:00+00:00",
+     "summary": "הבורסה בטאייפיי השלימה את השבוע הגרוע ביותר שלה מאז 1991: TSMC נסוגה בכמעט 5% ■ הנפט עולה מעט ונסחר מתחת ל-93 דולר לחבית; הזהב בדרך לשבוע הגרוע ביותר מאז מרץ ■ אנתרופיק זינקה ב-17% בבכורתה בוול סטריט אמש; נאסד\"ק איבד 2%"
     },
     {
      "ref": "themarker#1",
-     "title": "מניות השבבים הפילו את סיאול וטוקיו ביותר מ-5%; ירידות גם באירופה",
-     "published": "2026-11-20T08:20:00+00:00",
-     "summary": "הבורסה בטאייפיי השלימה את השבוע הגרוע ביותר שלה מאז 1991: TSMC נסוגה בכמעט 5% ■ הנפט עולה מעט ונסחר מתחת ל-93 דולר לחבית; הזהב בדרך לשבוע הגרוע ביותר מאז מרץ ■ אנתרופיק זינקה ב-17% בבכורתה בוול סטריט אמש; נאסד\"ק איבד 2%"
+     "title": "מכשול בדרך לעסקה של 200 מיליון דולר: המצרים בולמים את רכישת Pharos על ידי רציו פטרוליום",
+     "published": "2026-11-20T08:21:54+00:00",
+     "summary": "רציו הציעה לרכוש את החברה, שלה פעילות בוויאטנם ובמצרים ב-200 מיליון דולר, לאחר התמחרות מול הצעה מתחרה ■ למרות ההודעה של ממשלת מצרים הצדדים טוענים כי ימשיכו לקדם את העסקה כך שתממש ברבעון הראשון של 2027"
     },
     {
      "ref": "themarker#2",
@@ -519,9 +519,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
  "markets_snapshot": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3862.23,
+   "last": 3860.79,
    "prev_close": 3919.0701,
-   "change_pct": -1.45,
+   "change_pct": -1.49,
    "as_of": "2026-11-20"
   },
   "SP500": {
@@ -533,23 +533,23 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.3348,
+   "last": 3.3317,
    "prev_close": 3.2771,
-   "change_pct": 1.76,
+   "change_pct": 1.66,
    "as_of": "2026-11-20"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 88.12,
+   "last": 87.79,
    "prev_close": 91.98,
-   "change_pct": -4.2,
+   "change_pct": -4.56,
    "as_of": "2026-11-20"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 61682.1406,
+   "last": 61740.1406,
    "prev_close": 61901.8203,
-   "change_pct": -0.35,
+   "change_pct": -0.26,
    "as_of": "2026-11-20"
   }
  },

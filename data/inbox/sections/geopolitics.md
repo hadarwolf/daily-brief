@@ -24,9 +24,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#1",
-     "title": "Golf - AP News",
-     "published": "2026-11-20T07:51:21+00:00",
-     "summary": "Golf AP News"
+     "title": "Latest news - AP News",
+     "published": "2026-11-20T08:17:27+00:00",
+     "summary": "Latest news AP News"
     },
     {
      "ref": "ap_world#2",
@@ -36,15 +36,15 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#3",
-     "title": "AP reporter says Texas execution was like no other he’s witnessed before - AP News",
-     "published": "2026-11-20T07:12:00+00:00",
-     "summary": "AP reporter says Texas execution was like no other he’s witnessed before AP News"
+     "title": "Haiti | Latest News & Updates - AP News",
+     "published": "2026-11-20T06:00:52+00:00",
+     "summary": "Haiti | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#4",
-     "title": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar - AP News",
-     "published": "2026-11-20T06:08:00+00:00",
-     "summary": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar AP News"
+     "title": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission - AP News",
+     "published": "2026-11-20T06:00:00+00:00",
+     "summary": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission AP News"
     },
     {
      "ref": "ap_world#5",
@@ -54,117 +54,117 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#6",
-     "title": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission - AP News",
-     "published": "2026-11-20T06:00:00+00:00",
-     "summary": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission AP News"
-    },
-    {
-     "ref": "ap_world#7",
      "title": "Prosecutor declines to charge a Madison, Wisconsin, police officer who fatally shot a Black man - AP News",
      "published": "2026-11-20T05:50:00+00:00",
      "summary": "Prosecutor declines to charge a Madison, Wisconsin, police officer who fatally shot a Black man AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat - AP News",
-     "published": "2026-11-20T05:47:00+00:00",
-     "summary": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat AP News"
-    },
-    {
-     "ref": "ap_world#9",
+     "ref": "ap_world#7",
      "title": "Romanian prison inmates take the stage at a drama festival, in photos - AP News",
      "published": "2026-11-20T05:42:00+00:00",
      "summary": "Romanian prison inmates take the stage at a drama festival, in photos AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#8",
      "title": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate - AP News",
      "published": "2026-11-20T05:18:00+00:00",
      "summary": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#9",
      "title": "(Not) up in the air: Travelers' trepidations spike as Thanksgiving nears and tech hiccups abound - AP News",
      "published": "2026-11-20T05:07:00+00:00",
      "summary": "(Not) up in the air: Travelers' trepidations spike as Thanksgiving nears and tech hiccups abound AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#10",
      "title": "Anthropic’s IPO caps an explosive growth period for the AI startup, filled with contradictions - AP News",
      "published": "2026-11-20T05:01:00+00:00",
      "summary": "Anthropic’s IPO caps an explosive growth period for the AI startup, filled with contradictions AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#11",
      "title": "Asian American women feel the impact of Nvidia CEO affair scandal and ‘spy’ accusations - AP News",
      "published": "2026-11-20T05:01:00+00:00",
      "summary": "Asian American women feel the impact of Nvidia CEO affair scandal and ‘spy’ accusations AP News"
     },
     {
-     "ref": "ap_world#14",
-     "title": "RJ Luis Jr. will ‘stand down’ and stop playing at LSU, his lawyer says - AP News",
-     "published": "2026-11-20T05:00:00+00:00",
-     "summary": "RJ Luis Jr. will ‘stand down’ and stop playing at LSU, his lawyer says AP News"
-    },
-    {
-     "ref": "ap_world#15",
+     "ref": "ap_world#12",
      "title": "Judge says agriculture secretary’s religious emails were unconstitutional - AP News",
      "published": "2026-11-20T04:48:00+00:00",
      "summary": "Judge says agriculture secretary’s religious emails were unconstitutional AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "Haiti | Latest News & Updates - AP News",
-     "published": "2026-11-20T04:11:05+00:00",
-     "summary": "Haiti | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#17",
+     "ref": "ap_world#13",
      "title": "El Salvador President Nayib Bukele seeks third term at home while fighting gangs in Haiti - AP News",
      "published": "2026-11-20T04:06:00+00:00",
      "summary": "El Salvador President Nayib Bukele seeks third term at home while fighting gangs in Haiti AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#14",
      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain - AP News",
      "published": "2026-11-20T03:59:00+00:00",
      "summary": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#15",
      "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans - AP News",
      "published": "2026-11-20T02:51:00+00:00",
      "summary": "White House taps Kirsten Davies as cyber chief after outages rattle Americans AP News"
     },
     {
-     "ref": "ap_world#20",
+     "ref": "ap_world#16",
      "title": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine - AP News",
      "published": "2026-11-20T02:49:00+00:00",
      "summary": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine AP News"
     },
     {
-     "ref": "ap_world#21",
+     "ref": "ap_world#17",
      "title": "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised - AP News",
      "published": "2026-11-20T02:41:00+00:00",
      "summary": "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#18",
+     "title": "Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs - AP News",
+     "published": "2026-11-20T02:23:57+00:00",
+     "summary": "Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's US Senate race - AP News",
      "published": "2026-11-20T01:43:00+00:00",
      "summary": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's US Senate race AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#20",
      "title": "California attorney general subpoenas Nvidia over chips, former CEO’s affair - AP News",
      "published": "2026-11-20T01:33:00+00:00",
      "summary": "California attorney general subpoenas Nvidia over chips, former CEO’s affair AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#21",
      "title": "A long-buried ancient library in Rome opens to the public after restoration - AP News",
      "published": "2026-11-20T00:55:00+00:00",
      "summary": "A long-buried ancient library in Rome opens to the public after restoration AP News"
+    },
+    {
+     "ref": "ap_world#22",
+     "title": "Soaking storms shift north to Florida's Space Coast and prompt water rescues of humans and horses - AP News",
+     "published": "2026-11-20T00:53:00+00:00",
+     "summary": "Soaking storms shift north to Florida's Space Coast and prompt water rescues of humans and horses AP News"
+    },
+    {
+     "ref": "ap_world#23",
+     "title": "From MAGA stardom to a U-Haul: Lauren Boebert considers her own and GOP’s losses - AP News",
+     "published": "2026-11-20T00:45:00+00:00",
+     "summary": "From MAGA stardom to a U-Haul: Lauren Boebert considers her own and GOP’s losses AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Fiona’s death gives parents a chance to teach kids about grief — and life - AP News",
+     "published": "2026-11-20T00:44:00+00:00",
+     "summary": "Fiona’s death gives parents a chance to teach kids about grief — and life AP News"
     }
    ]
   },
@@ -534,9 +534,9 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "reuters_world#17",
-     "title": "Gold set for worst week in eight months as firm dollar, Fed hike bets weigh - Reuters",
+     "title": "Gold slides toward worst week in eight months on hawkish Fed outlook - Reuters",
      "published": "2026-11-20T03:24:00+00:00",
-     "summary": "Gold set for worst week in eight months as firm dollar, Fed hike bets weigh Reuters"
+     "summary": "Gold slides toward worst week in eight months on hawkish Fed outlook Reuters"
     },
     {
      "ref": "reuters_world#18",
