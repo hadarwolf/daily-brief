@@ -29,34 +29,34 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T00:30:00Z",
-     "home": "Grêmio",
-     "away": "Bahia",
-     "status": "FINISHED",
-     "score": "0-0"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-19T00:30:00Z",
      "home": "Corinthians",
      "away": "Botafogo",
      "status": "FINISHED",
      "score": "4-0"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-11-19T00:30:00Z",
+     "home": "Grêmio",
+     "away": "Bahia",
+     "status": "FINISHED",
+     "score": "0-0"
     }
    ],
    "today": [
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T22:30:00Z",
-     "home": "Vasco da Gama",
-     "away": "Internacional",
+     "home": "Vitória",
+     "away": "Bragantino",
      "status": "FINISHED",
      "score": "2-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T22:30:00Z",
-     "home": "Vitória",
-     "away": "Bragantino",
+     "home": "Vasco da Gama",
+     "away": "Internacional",
      "status": "FINISHED",
      "score": "2-1"
     },
@@ -667,422 +667,158 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    ]
   },
   {
-   "outlet": "ESPN NBA",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_nba#0",
-     "title": "Wemby debuts 'shunk,' part jump shot, part dunk done with reason",
-     "published": "2026-11-20T06:00:56+00:00",
-     "summary": "Victor Wembanyama said his new-look \"shunk\" was done because of a blister former from actually dunking."
-    },
-    {
-     "ref": "espn_nba#1",
-     "title": "Lillard scores 33 points in Milwaukee return as Blazers beat Bucks",
-     "published": "2026-11-20T06:00:56+00:00",
-     "summary": "Portland's Damian Lillard played at Milwaukee for the first time since the Bucks waived him in 2025 and gave Bucks fans a taste of what they're missing by scoring a season-high 33 points in the Trail Blazers' 124-114 victory on Thursday night."
-    },
-    {
-     "ref": "espn_nba#2",
-     "title": "Timberwolves' Edwards has 'no clue' on timetable for return",
-     "published": "2026-11-20T06:00:56+00:00",
-     "summary": "Timberwolves guard Anthony Edwards said he has \"no clue\" when he will return to play from right knee surgery weeks ago, but was optimistic about his long-term prognosis."
-    },
-    {
-     "ref": "espn_nba#3",
-     "title": "Sources: Spurs' Harper avoids major injury, out 1-3 weeks with hip strain",
-     "published": "2026-11-20T06:00:56+00:00",
-     "summary": "Spurs guard Dylan Harper has been diagnosed with a left hip rotator strain, avoiding any major injury, sources told ESPN's Shams Charania on Thursday."
-    },
-    {
-     "ref": "espn_nba#4",
-     "title": "Giannis, Bam put Bucks drama aside, 'on to the next thing' after Heat win",
-     "published": "2026-11-20T06:00:56+00:00",
-     "summary": "Heat star Giannis Antetokounmpo said Wednesday night's win over the Bucks was like any other night, while Bam Adebayo said he has moved past his issues with Tyler Herro."
-    },
-    {
-     "ref": "espn_nba#5",
-     "title": "Redick cites fatigue as Luka's shot goes cold, Lakers' win streak ends at 9",
-     "published": "2026-11-20T06:00:56+00:00",
-     "summary": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine."
-    },
-    {
-     "ref": "espn_nba#6",
-     "title": "'I love the clutch': 76ers rally, improve to 11-0 in tight games",
-     "published": "2026-11-20T06:00:56+00:00",
-     "summary": "The 76ers improved to 11-0 in clutch games after overcoming a 17-point deficit to beat the Magic on Wednesday night."
-    },
-    {
-     "ref": "espn_nba#7",
-     "title": "👀 What the first month has revealed about all 30 teams",
-     "published": "2026-11-20T06:00:56+00:00",
-     "summary": "With the season's first month nearly in the books, Ben Golliver examines the biggest storyline so far for all 30 teams."
-    },
-    {
-     "ref": "espn_nba#8",
-     "title": "Reflective Lillard advised Giannis 'grass isn't always greener' before Heat trade",
-     "published": "2026-11-20T02:10:57+00:00",
-     "summary": "Damian Lillard, ahead of his return to Milwaukee, said his two years with the Bucks were something he needed to experience but he's happy to be back in Portland."
-    },
-    {
-     "ref": "espn_nba#9",
-     "title": "Goes together like Cooper Flagg and PB&J: Mavs announce pop-up for sandwiches",
-     "published": "2026-11-19T23:25:59+00:00",
-     "summary": "The Dallas Mavericks' pop-up includes creamy peanut butter and grape jelly on white sourdough bread."
-    },
-    {
-     "ref": "espn_nba#10",
-     "title": "Athletes, coaches are just as hyped for 'Grand Theft Auto VI' as everyone else",
-     "published": "2026-11-19T23:25:59+00:00",
-     "summary": "The latest entry in the Grand Theft Auto series is tied with \"The Legend of Zelda: Ocarina of Time\" with a 99 rating on Metacritic."
-    },
-    {
-     "ref": "espn_nba#11",
-     "title": "NBA Power Rankings: One wild stat for all 30 teams",
-     "published": "2026-11-19T22:56:25+00:00",
-     "summary": "Here's where every team ranks this week -- along with one remarkable stat that has fueled each franchise through one month of the season."
-    },
-    {
-     "ref": "espn_nba#12",
-     "title": "Updated NBA championship and MVP odds: Heat on the rise, Wemby moves ahead of Luka",
-     "published": "2026-11-19T17:27:27+00:00",
-     "summary": "The Heat have bounced back from a rough start to the season, while Victor Wembanyama is now the leader for MVP just ahead of Luka Doncic."
-    },
-    {
-     "ref": "espn_nba#13",
-     "title": "Fantasy adds, bets to make for Thursday in the NBA: Spencer, Champagnie worth playing",
-     "published": "2026-11-19T17:27:27+00:00",
-     "summary": "Eric Moody breaks down Thursday's NBA slate, highlighting the fantasy streamers to add and his favorite bets."
-    },
-    {
-     "ref": "espn_nba#14",
-     "title": "Steph Curry confronts his 'basketball mortality'",
-     "published": "2026-11-19T14:52:30+00:00",
-     "summary": "At 38, Curry is still brilliant -- but managing his body has become the biggest battle of his career."
-    },
-    {
-     "ref": "espn_nba#15",
-     "title": "The hidden danger behind Luka Doncic's historic start﻿",
-     "published": "2026-11-19T13:46:53+00:00",
-     "summary": "Doncic is pushing the boundaries of basketball production. But could that actually hurt the Lakers' title hopes?"
-    },
-    {
-     "ref": "espn_nba#16",
-     "title": "16 roto and category league stars who can help",
-     "published": "2026-11-18T19:52:37+00:00",
-     "summary": "Use the Player Rater to your advantage and fill out your fantasy basketball lineup with these roto and category stars."
-    },
-    {
-     "ref": "espn_nba#17",
-     "title": "Eric Karabell's notebook: Trade Walker Kessler? Klay Thompson worth rostering?",
-     "published": "2026-11-18T19:52:37+00:00",
-     "summary": "Eric Karabell empties out the notebook with all that he's noticing around the NBA and what it means for fantasy."
-    }
-   ]
-  },
-  {
-   "outlet": "ESPN FC",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_soccer#0",
-     "title": "Transfer rumors, news: Arsenal want World Cup winner Williams",
-     "published": "2026-11-20T09:03:57+00:00",
-     "summary": "Arsenal have reignited their interest in Athletic Club winger Nico Williams. Transfer Talk has the latest."
-    },
-    {
-     "ref": "espn_soccer#1",
-     "title": "Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him?",
-     "published": "2026-11-20T09:03:57+00:00",
-     "summary": "Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea this season. What's behind his lack of minutes?"
-    },
-    {
-     "ref": "espn_soccer#2",
-     "title": "Pochettino's 1st Man United training session filmed by drone, posted online",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "The operator of the drone that filmed Mauricio Pochettino's first training session at Manchester United accepts it was \"unethical.\""
-    },
-    {
-     "ref": "espn_soccer#3",
-     "title": "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "Inter Miami CF star Lionel Messi remains the highest-paid player in MLS, though the number of players making at least $10 million grew to five."
-    },
-    {
-     "ref": "espn_soccer#4",
-     "title": "FIFA presidential challenger Tashima open to joining forces against Infantino",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "Kohzo Tashima announced in Tokyo on Friday that he is staying in the FIFA presidential race, adding that he may join forces with fellow challenger Philippe Diallo to unseat Gianni Infantino."
-    },
-    {
-     "ref": "espn_soccer#5",
-     "title": "Frank eager to avoid repeat of Arsenal coffee cup controversy at Palace",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "Thomas Frank said he hopes never to get caught drinking from a Brighton coffee cup after he was reminded of his famous gaffe from his time at Tottenham."
-    },
-    {
-     "ref": "espn_soccer#6",
-     "title": "Rodman eyes 'full-circle moment' with NWSL title: 'Would mean everything'",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "Washington Spirit forward Trinity Rodman said it would mean \"everything\" to win another NWSL Championship on home soil at Audi Field on Saturday."
-    },
-    {
-     "ref": "espn_soccer#7",
-     "title": "Cincinnati knocks out Orlando as Dike suffers injury minutes after subbing in",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "FC Cincinnati rallied to eliminate Orlando City 3-1 in MLS Cup Eastern Conference wild card match on Thursday."
-    },
-    {
-     "ref": "espn_soccer#8",
-     "title": "Barça's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "Barcelona sporting director Deco has said the Spanish champions would welcome the money if Liverpool decide to sign Ronald Araújo beyond his loan spell."
-    },
-    {
-     "ref": "espn_soccer#9",
-     "title": "Leader in his own way Haaland making 'natural' progression as City veteran",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "Erling Haaland said it is \"natural\" for him to take on more responsibility as one of Manchester City's captains this season, but wants to do it in his own way."
-    },
-    {
-     "ref": "espn_soccer#10",
-     "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-     "published": "2026-11-20T08:58:50+00:00",
-     "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago"
-    },
-    {
-     "ref": "espn_soccer#11",
-     "title": "Pochettino's Man United squad audit: Big calls to make on stars like Fernandes, Rashford",
-     "published": "2026-11-20T08:54:56+00:00",
-     "summary": "New Manchester United manager Mauricio Pochettino inherits a squad built by his six predecessors. Which players have a future at the club, and which should go?"
-    },
-    {
-     "ref": "espn_soccer#12",
-     "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
-     "published": "2026-11-20T08:54:56+00:00",
-     "summary": "Anfield has a power to propel Liverpool to greatness, but the team are struggling for form there this season."
-    },
-    {
-     "ref": "espn_soccer#13",
-     "title": "Which USMNT fringe players stand to benefit from Pochettino's exit?",
-     "published": "2026-11-20T08:53:26+00:00",
-     "summary": "With Mauricio Pochettino now at Manchester United, there are a host of midfielders primed for a revival in fortunes with the U.S. men's national team."
-    },
-    {
-     "ref": "espn_soccer#14",
-     "title": "Pochettino gets a fitting, emotional send-off from USMNT",
-     "published": "2026-11-20T08:53:26+00:00",
-     "summary": "No USMNT coach has ever left quite like this. Loved by players, celebrated by fans and gone on his own terms."
-    },
-    {
-     "ref": "espn_soccer#15",
-     "title": "The NWSL has more money than ever, yet its biggest problems remain",
-     "published": "2026-11-20T08:44:17+00:00",
-     "summary": "As the NWSL approaches its season climax, the league still has to deal with the same problems."
-    },
-    {
-     "ref": "espn_soccer#16",
-     "title": "Has Vini Jr. finally put summer transfer saga behind him? Real Madrid need him at his best",
-     "published": "2026-11-20T08:42:11+00:00",
-     "summary": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil."
-    },
-    {
-     "ref": "espn_soccer#17",
-     "title": "Who will win the NWSL Championship? Predicting Washington Spirit vs. Kansas City Current",
-     "published": "2026-11-20T08:39:56+00:00",
-     "summary": "The NWSL Championship on Saturday pits the Washington Spirit vs. the Kansas City Current. Is Trinity Rodman the player to watch? Who will win? And more!"
-    },
-    {
-     "ref": "espn_soccer#18",
-     "title": "Predicting the rest of the Premier League season: How all 20 teams will finish",
-     "published": "2026-11-20T02:05:27+00:00",
-     "summary": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season."
-    },
-    {
-     "ref": "espn_soccer#19",
-     "title": "Reranked: Who is the MVP for each of the top Premier League clubs?",
-     "published": "2026-11-20T02:05:27+00:00",
-     "summary": "Based on ability and tactical importance, we've reranked the best players at the top Premier League clubs."
-    },
-    {
-     "ref": "espn_soccer#20",
-     "title": "Arsenal's Champions League defense given a reality check",
-     "published": "2026-11-19T23:16:34+00:00",
-     "summary": "Arsenal's 2-0 defeat to Lyonnes exposed familiar problems in the UEFA Women's Champions League, as their season continues to disappoint."
-    },
-    {
-     "ref": "espn_soccer#21",
-     "title": "Chelsea's defense shines, but will scoring woes be their undoing in UWCL?",
-     "published": "2026-11-19T23:16:34+00:00",
-     "summary": "Chelsea have scored just four goals in five Champions League matches, though they remain in strong position."
-    },
-    {
-     "ref": "espn_soccer#22",
-     "title": "After a decade of near misses, Man United finally get their man in Pochettino",
-     "published": "2026-11-19T23:02:52+00:00",
-     "summary": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit."
-    },
-    {
-     "ref": "espn_soccer#23",
-     "title": "World Cup 2030 Early Power Rankings: Spain still No. 1? No USMNT in top 15",
-     "published": "2026-11-18T14:02:00+00:00",
-     "summary": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat."
-    }
-   ]
-  },
-  {
    "outlet": "Google News — Inter Miami",
    "lang": "en",
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Argentine star Lionel Messi earns $28.3 million, more than most MLS teams - Billionaires.Africa",
+     "published": "2026-11-20T10:24:53+00:00",
+     "summary": "Argentine star Lionel Messi earns $28.3 million, more than most MLS teams Billionaires.Africa"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Nashville SC-Cincinnati - beIN SPORTS",
      "published": "2026-11-20T09:38:43+00:00",
      "summary": "Nashville SC-Cincinnati beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "Messi tops MLS salaries with Lewandowski next - eNCA",
      "published": "2026-11-20T09:35:57+00:00",
      "summary": "Messi tops MLS salaries with Lewandowski next eNCA"
     },
     {
-     "ref": "gnews_inter_miami#2",
-     "title": "Suarez planning longer stay with Miami alongside Messi - www.soccernews.com",
-     "published": "2026-11-20T09:35:40+00:00",
-     "summary": "Suarez planning longer stay with Miami alongside Messi www.soccernews.com"
+     "ref": "gnews_inter_miami#3",
+     "title": "Suarez planning longer stay with Miami alongside Messi - beIN SPORTS",
+     "published": "2026-11-20T09:33:02+00:00",
+     "summary": "Suarez planning longer stay with Miami alongside Messi beIN SPORTS"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#4",
      "title": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 - Sportskeeda",
      "published": "2026-11-20T08:45:56+00:00",
      "summary": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 Sportskeeda"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#5",
      "title": "Son Heung-min Ranks Fourth in MLS Salary with $11.15 Million - 조선일보",
      "published": "2026-11-20T08:44:15+00:00",
      "summary": "Son Heung-min Ranks Fourth in MLS Salary with $11.15 Million 조선일보"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#6",
      "title": "Lionel Messi of Inter Miami tops Major League Soccer salaries - Al Jazeera",
      "published": "2026-11-20T07:47:46+00:00",
      "summary": "Lionel Messi of Inter Miami tops Major League Soccer salaries Al Jazeera"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#7",
      "title": "Columbus Crew visit Inter Miami in first round of MLS Cup Playoffs - Herald Bulletin",
      "published": "2026-11-20T07:16:03+00:00",
      "summary": "Columbus Crew visit Inter Miami in first round of MLS Cup Playoffs Herald Bulletin"
     },
     {
-     "ref": "gnews_inter_miami#7",
+     "ref": "gnews_inter_miami#8",
      "title": "Columbus Crew visit Inter Miami in first round of MLS Cup Playoffs - FOX Sports",
      "published": "2026-11-20T07:03:53+00:00",
      "summary": "Columbus Crew visit Inter Miami in first round of MLS Cup Playoffs FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#9",
      "title": "Inter Miami vs Columbus Crew Prediction, Betting Tips, Lineups & Odds | 21 Nov 2026 - Sportsgambler",
      "published": "2026-11-20T06:35:58+00:00",
      "summary": "Inter Miami vs Columbus Crew Prediction, Betting Tips, Lineups & Odds | 21 Nov 2026 Sportsgambler"
     },
     {
-     "ref": "gnews_inter_miami#9",
+     "ref": "gnews_inter_miami#10",
      "title": "Messi is the highest-paid player in MLS: How much do Lewandowski and Griezmann earn? - Zamin.uz",
      "published": "2026-11-20T05:12:00+00:00",
      "summary": "Messi is the highest-paid player in MLS: How much do Lewandowski and Griezmann earn? Zamin.uz"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#11",
      "title": "MLS 2026 salaries announced: How much is Messi getting paid in Major League Soccer? Who is highest paid? - Sportstar",
      "published": "2026-11-20T03:23:46+00:00",
      "summary": "MLS 2026 salaries announced: How much is Messi getting paid in Major League Soccer? Who is highest paid? Sportstar"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu - Inter Miami CF",
      "published": "2026-11-20T01:19:18+00:00",
      "summary": "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "What to know about the 2026 MLS playoffs: Bracket, schedule and more - NBC 6 South Florida",
      "published": "2026-11-20T00:36:39+00:00",
      "summary": "What to know about the 2026 MLS playoffs: Bracket, schedule and more NBC 6 South Florida"
     },
     {
-     "ref": "gnews_inter_miami#13",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami CF, Levi's partner on collection - The Business Journals",
      "published": "2026-11-20T00:33:00+00:00",
      "summary": "Inter Miami CF, Levi's partner on collection The Business Journals"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#15",
      "title": "Toronto vs. Inter Miami CF - Live Score - May 08, 2027 - FOX Sports",
      "published": "2026-11-20T00:09:45+00:00",
      "summary": "Toronto vs. Inter Miami CF - Live Score - May 08, 2027 FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#16",
      "title": "Inter Miami CF vs. Montreal - Live Score - May 01, 2027 - FOX Sports",
      "published": "2026-11-20T00:08:39+00:00",
      "summary": "Inter Miami CF vs. Montreal - Live Score - May 01, 2027 FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#17",
      "title": "MLS Cup bracket predictions: Lionel Messi's Inter Miami set for repeat? - thepress.net",
      "published": "2026-11-19T23:13:18+00:00",
      "summary": "MLS Cup bracket predictions: Lionel Messi's Inter Miami set for repeat? thepress.net"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#18",
      "title": "MLS Cup bracket predictions: Lionel Messi's Inter Miami set for repeat? - CBS Sports",
      "published": "2026-11-19T23:12:00+00:00",
      "summary": "MLS Cup bracket predictions: Lionel Messi's Inter Miami set for repeat? CBS Sports"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#19",
      "title": "Inter Miami vs Columbus Crew Prediction & Picks - Major League Soccer - SportyTrader",
      "published": "2026-11-19T23:00:00+00:00",
      "summary": "Inter Miami vs Columbus Crew Prediction & Picks - Major League Soccer SportyTrader"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#20",
      "title": "Lionel Messi's MLS salary is more than double Philadelphia Union's total payroll - PhillyVoice",
      "published": "2026-11-19T22:56:21+00:00",
      "summary": "Lionel Messi's MLS salary is more than double Philadelphia Union's total payroll PhillyVoice"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#21",
      "title": "Lionel Messi makes more than all but 3 other MLS teams, records show - The Palm Beach Post",
      "published": "2026-11-19T22:02:00+00:00",
      "summary": "Lionel Messi makes more than all but 3 other MLS teams, records show The Palm Beach Post"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#22",
      "title": "Lionel Messi still rules the money league! Inter Miami superstar leads MLS salaries as five players break the $10m barrier - Goal.com",
      "published": "2026-11-19T21:54:29+00:00",
      "summary": "Lionel Messi still rules the money league! Inter Miami superstar leads MLS salaries as five players break the $10m barrier Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#23",
      "title": "Prediction Inter Miami vs Columbus Crew: analysis, odds and betting tips - BetMines",
      "published": "2026-11-19T21:36:27+00:00",
      "summary": "Prediction Inter Miami vs Columbus Crew: analysis, odds and betting tips BetMines"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#24",
      "title": "Crew Embraces Playoff Challenge against Messi - WSYX",
      "published": "2026-11-19T21:02:58+00:00",
      "summary": "Crew Embraces Playoff Challenge against Messi WSYX"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "How Lionel Messi's 2026 Inter Miami Contract Compared to Payrolls of Entire MLS Teams - Bleacher Report",
-     "published": "2026-11-19T20:17:33+00:00",
-     "summary": "How Lionel Messi's 2026 Inter Miami Contract Compared to Payrolls of Entire MLS Teams Bleacher Report"
     }
    ]
   },
@@ -1182,63 +918,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_israeli_nba#15",
-     "title": "Ben Saraf News: Recalled by Brooklyn - RotoWire",
-     "published": "2026-11-19T15:55:38+00:00",
-     "summary": "Ben Saraf News: Recalled by Brooklyn RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#16",
      "title": "Best NBA Prop Bets Today (Predictions for Karl-Anthony Towns, Stephon Castle, Deni Avdija, Warriors Guard) - Sports Illustrated",
      "published": "2026-11-19T13:53:58+00:00",
      "summary": "Best NBA Prop Bets Today (Predictions for Karl-Anthony Towns, Stephon Castle, Deni Avdija, Warriors Guard) Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#17",
+     "ref": "gnews_israeli_nba#16",
      "title": "Is Deni Avdija Playing Tonight? (Injury Update, Betting Impact for Blazers vs. Bucks) - Sports Illustrated",
      "published": "2026-11-19T13:27:01+00:00",
      "summary": "Is Deni Avdija Playing Tonight? (Injury Update, Betting Impact for Blazers vs. Bucks) Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#18",
+     "ref": "gnews_israeli_nba#17",
      "title": "Ben Saraf leads Long Island Nets to 123-112 revenge win over Delaware - NetsDaily",
      "published": "2026-11-19T12:40:58+00:00",
      "summary": "Ben Saraf leads Long Island Nets to 123-112 revenge win over Delaware NetsDaily"
     },
     {
-     "ref": "gnews_israeli_nba#19",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija Headlines Today’s NBA Injury Report: Thursday, 11/19/26 - DraftKings Network",
      "published": "2026-11-19T04:15:00+00:00",
      "summary": "Deni Avdija Headlines Today’s NBA Injury Report: Thursday, 11/19/26 DraftKings Network"
     },
     {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Nets 123-112 Blue Coats (Nov 18, 2026) Play-by-Play - ESPN",
-     "published": "2026-11-19T02:57:33+00:00",
-     "summary": "Nets 123-112 Blue Coats (Nov 18, 2026) Play-by-Play ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
+     "ref": "gnews_israeli_nba#19",
      "title": "Deni Avdija (foot) listed questionable Thursday - FantasyPros",
      "published": "2026-11-18T23:02:09+00:00",
      "summary": "Deni Avdija (foot) listed questionable Thursday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#22",
+     "ref": "gnews_israeli_nba#20",
      "title": "Why Deni Avdija, Toumani Camara Might Not Play in Blazers vs. Bucks - Sports Illustrated",
      "published": "2026-11-18T22:56:26+00:00",
      "summary": "Why Deni Avdija, Toumani Camara Might Not Play in Blazers vs. Bucks Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#23",
+     "ref": "gnews_israeli_nba#21",
      "title": "Trail Blazers' Deni Avdija: Questionable versus Bucks - CBS Sports",
      "published": "2026-11-18T22:54:45+00:00",
      "summary": "Trail Blazers' Deni Avdija: Questionable versus Bucks CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#24",
+     "ref": "gnews_israeli_nba#22",
      "title": "Deni Avdija Injury: Questionable versus Bucks - RotoWire",
      "published": "2026-11-18T22:54:45+00:00",
      "summary": "Deni Avdija Injury: Questionable versus Bucks RotoWire"
+    },
+    {
+     "ref": "gnews_israeli_nba#23",
+     "title": "Deni Avdija (foot) questionable Thursday vs. MIL - NBC Sports",
+     "published": "2026-11-18T22:52:00+00:00",
+     "summary": "Deni Avdija (foot) questionable Thursday vs. MIL NBC Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#24",
+     "title": "Wizards continue to be proven wrong for trading away Deni Avdija - Wiz of Awes",
+     "published": "2026-11-18T11:00:00+00:00",
+     "summary": "Wizards continue to be proven wrong for trading away Deni Avdija Wiz of Awes"
     }
    ]
   }
