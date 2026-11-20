@@ -38,15 +38,21 @@ Whether you agree with the particular models here or think they apply to your pa
 
 Modern environments give people a lot of autonomy. If someone is stuck in a relationship that you think is abusive, solutions like "get your pals and beat up the abuser" or "threaten to kick the abuser out of the tribe" don't work very well. But if those kinds of things were an option, that's what the urge to argue might naturally escalate to.
 
-Also in an environment where most interactions were communal and there was a lot less privacy, many of the abusive behaviors might be witnessed by the rest of the group, with there being a chance to intervene before things ever got really bad. (Or those behaviors might be witnessed and quietly ignored if the abuser was socially influential enough, in which case the urge to argue with the victim probably wouldn't arise either, since they wouldn't have the autonomy to change things even if they wanted to.)
+Also in an environment where most interactions were communal and privacy was scarce, many of the abusive behaviors might be witnessed by the rest of the group, with there being a chance to intervene before things ever got really bad. (Or those behaviors might be witnessed and quietly ignored if the abuser was socially influential enough, in which case the urge to argue with the victim probably wouldn't arise either, since they wouldn't have the autonomy to change things even if they wanted to.)
+
+Hm, one thing I would consider while trying to figure out where our misguided social intuition might come from is realizing that spending years trying to get someone out of a abusive relationship is costly to yourself, and so might be selected against. (The blind idiot god of evolution is not nice.)
+
+My primary confusion is not about this specific problem, but about the more general problem of "arguing with people", where the impulse is very frequently to press your point and not give the other person space.
+
+I think this is somehow related to politics/tribalism, but, it's somewhat surprising that'd weigh so strongly?
 
 I believe you, and I don't have much to say beyond I wish things were not like this.
+
+Doing all of the above, but with the secret belief that if they do it and their friend leaves, they will 'get their friend back'. They'll get a person who has been through an abusive relationship back. Sometimes this means a person who has left, but never identifies the relationship as abusive. Sometimes this means someone who has left the relationship but is irritable and grouchy and isolating.
 
 They will instinctively take pains to hide the worst of it from people; they know that there are some things that happen inside the relationship that they can't disclose to anyone else.
 
 Having been on both sides of this (helping a friend leave and being the person in the abusive relationship), this resonated especially hard
-
-Doing all of the above, but with the secret belief that if they do it and their friend leaves, they will 'get their friend back'. They'll get a person who has been through an abusive relationship back. Sometimes this means a person who has left, but never identifies the relationship as abusive. Sometimes this means someone who has left the relationship but is irritable and grouchy and isolating.
 
 I have a friend that was in an abusive relationship. Hell, she even underwent an abortion because of him, despite being an ardent catholic; not that I care much about abortion itself as of now.
 
@@ -65,5 +71,19 @@ From the outside, it's often easier to see the bad than the good, and it helps a
 Yeah as someone who supports a number of friends through hard stuff it's often just exhausting.
 
 I would like to add: you also need to plan the resources you are prepared to spend on -- or lend to -- someone in abusive relationship. A large portion of them will be likely lost, so you must ensure you don’t exhaust everything at once and end up burning out, which won’t help any of you.
+
+This sounds similar to advice I've heard for helping someone leave a high control group.
+
+Thank you so much for writing on this important topic! And thanks to the moderator team for curating it ❤️
+
+I love the non-judgemental approach and making it clear that you care about them no matter what. I've learned that you can only help people who want your help (both from trying to help people who didn't want my help and from refusing help when I wasn't interested). This ties directly back to rationality: if someone isn't interested in finding the truth, they will rationalize what they already believe. Only if they are open to hearing arguments might they apply rationality.
+
+I would point out though that your premise of "How To Get A Friend To Leave An Abusive Relationship" already suggests judgment in the sense of knowing what's best for them better than they do (and possibly also that there is an element of getting your friendship back for your benefit). It's not that I doubt your ability to judge a relationship as abusive, or the fact that being in an abusive relationship leads to suffering. It's more that sometimes we need to learn the hard way, and that only by enduring the suffering can we learn and grow. Even if you got them to leave the relationship right away, they might just end up in another abusive relationship six months later if they haven't learned to identify the red flags. It might even be better for them in the long-term if things first get worse to the point where they finally realise they need to take action, such as leaving the relationship or looking at their attachment wounds in therapy or such. (Of course, this doesn't in any way justify or endorse the actions of the abuser)
+
+I've found that the best way to relate to people is to stick to statements about yourself, just communicating your feelings, thoughts and boundaries, rather than imposing things on others. There's nothing wrong with saying that you feel the relationship is abusive early on. And of course, if it gets to the point where law enforcement might intervene, that also becomes a consideration.
+
+Crucially, you also deserve compassion for yourself. Love by itself is neither sufficient for a relationship, nor for a friendship. I see nothing wrong with saying "I will no longer go out with brunch for you, as seeing your suffering is bad for my own mental health. But I love you and will be there for you if you ever need help getting out of that relationship" (in fact that might also be a wake up call and may or may not be better for them)
+
+The non-judgemental approach I have found as well is a neccessary component.However, in many cases, giving people the words or mental model needed to classify any abuses can be also helpful.Sometimes I ask them to list the advantages and disadvantages of the other person, and ask how they would classify them. Sometimes I simple ask what kind of borders they have or want to establish and either simply support them or even pre-excuse them if they put their borders in a way I know they will likely not be able to keep, so that if they don't manage to keep that border intact, they won't immediately blame it on self-weaknesses but instead can frame it as a perhaps-too-high-of-an-ask.In fact, when it comes to these matters where there is love and-or a intense emotional need, I will treat them as psychotic with regards to the object of their affection, as I see the exact same irrational patterns as I see with people who actually suffer from a psychosis.This is an exercise in giving people the tools they need to end it hope they will at some point arrive in a place in their life that they are not dependent on what their abuser provides them. This might sometimes mean developing alternatives for this dependency.
 
 This feels very defeatist and even partly enabling.

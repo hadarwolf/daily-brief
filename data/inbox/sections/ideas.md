@@ -4,7 +4,7 @@ Step 1: pick the essay.
 - Choose the ONE candidate that best rewards this reader's time: substantive, idea-dense, and not news.
 - It must be a written piece. Skip link roundups, videos, podcasts and short blog notes.
 - Only candidates with a full_text_file can be summarized properly. Prefer those.
-- Today's rotation theme is a thought-provoking op-ed or essay. Prefer it if there is a strong candidate, but quality wins.
+- Today's rotation theme is philosophy. Prefer it if there is a strong candidate, but quality wins.
 - Avoid anything in recently_featured.
 
 Step 2: read the essay's full_text_file (under essays/) and summarize the author's argument faithfully. It is their argument, not yours.
@@ -137,12 +137,6 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "title": "Some Memories of Early Anthropic",
      "published": "2026-11-08T21:51:27+00:00",
      "summary": "The following events took place between October 2022 and May 2023. I wrote very little of this down at the time so am recalling from memory, and am rendering the gist of the dialogue rather than the exact words used. I’ve also swapped some pronouns and other personal identifiable details. Please remember that this is not a description of “what Anthropic is like”, but merely the experience of one g"
-    },
-    {
-     "ref": "lesswrong_curated#3",
-     "title": "Towards understanding score-seeking in LLMs",
-     "published": "2026-11-06T03:19:36+00:00",
-     "summary": "The field of AI alignment understands surprisingly little about the details of AIs’ current misaligned motivations. Production LLMs sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended [1] , and we've recently seen AIs reward-hack in some particularly egregious ways. But we don't really understand what motivates them. When AIs reward-hack, wh"
     }
    ]
   },
@@ -152,93 +146,90 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
-     "title": "The Anthropic IPO",
-     "published": "2026-11-19T06:40:05+00:00",
-     "summary": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might […] The post The Anthropic IPO appeared first on Marginal REVOLUTION ."
+     "title": "Thursday assorted links",
+     "published": "2026-11-19T17:16:30+00:00",
+     "summary": "1. How to turn AI-written maths into a video. 2. Honeypot markets in everything? 3. Traveling a lot without going on planes (WSJ). 4. American audiovisual exports have plunged in terms of global share (I think that is fine and arguably good, by the way). 5. “There’s been a 30 year debate between cyber revolutionaries and […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
      "ref": "marginal_revolution#1",
-     "title": "Will Baird, book maven (from my email)",
-     "published": "2026-11-19T06:02:15+00:00",
-     "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, […] The post Will Baird, book maven (from my em"
+     "title": "The Anthropic IPO",
+     "published": "2026-11-19T06:40:05+00:00",
+     "summary": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might […] The post The Anthropic IPO appeared first on Marginal REVOLUTION .",
+     "full_text_file": "essays/marginal_revolution_1.txt"
     },
     {
      "ref": "marginal_revolution#2",
+     "title": "Will Baird, book maven (from my email)",
+     "published": "2026-11-19T06:02:15+00:00",
+     "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, […] The post Will Baird, book maven (from my em",
+     "full_text_file": "essays/marginal_revolution_2.txt"
+    },
+    {
+     "ref": "marginal_revolution#3",
      "title": "UK productivity update",
      "published": "2026-11-18T18:53:56+00:00",
      "summary": "Output per hour worked increased by 2.5% in Quarter 3 (July to Sept) 2026 compared with the same quarter a year ago, reflecting a 2.0% increase in GVA and a 0.5% decrease in hours worked. Output per worker increased by 2.0% in Quarter 3 2026 compared with the same quarter a year ago. This was […] The post UK productivity update appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "The economics of investment expensing",
      "published": "2026-11-18T18:17:04+00:00",
      "summary": "In July 2025, the One Big Beautiful Bill Act made 100% equipment expensing permanent after two decades of temporary bonus depreciation. I evaluate this reform in a general-equilibrium heterogeneous-firm model with collateral constraints and nonrefundable tax deductions. When matched to U.S. tax-return and Compustat moments, the model yields three findings. First, permanent expensing raises long-ru"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "Wednesday assorted links",
      "published": "2026-11-18T16:41:46+00:00",
      "summary": "1. Chinese AI companies way down in value. 2. Allison Schrager is starting a podcast with Ken Rogoff. 3. Extensive survey of students on AI. 4. Robert Lynch on lookism. 5. New version of Claude Blattman. 6. Seb Krier on the Christiano interview. The whole dialogue over this interview is a good example of why […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "Was Achilles Conscious?",
      "published": "2026-11-18T12:18:00+00:00",
-     "summary": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued that intelligent behavior preceded introspective consciousness. People could speak, learn, farm, build cities, and solve problems without mentally representing […] The post Was Achille"
+     "summary": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued that intelligent behavior preceded introspective consciousness. People could speak, learn, farm, build cities, and solve problems without mentally representing […] The post Was Achille",
+     "full_text_file": "essays/marginal_revolution_6.txt"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Me on the cyberattacks",
      "published": "2026-11-18T06:10:57+00:00",
      "summary": "Tyler Cowen: Don’t Be Fooled By Randomness The problems are serious, but the sky is not falling in. When it comes to the recent service outages, keep a few points in mind. First, cyber risk is considerably higher than it used to be. Due to progress in AI systems, cyber offense has outraced cyber defense. […] The post Me on the cyberattacks appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "The Kalshi market on U.S. productivity growth",
      "published": "2026-11-17T20:34:15+00:00",
      "summary": "It is coming in at 2.2%, people. That is for over the next five years. tys…though even I think it will be a bit higher than that. Yes the liquidity is tiny, but that is endogenous to the reality that huge profits are not to be made there. You are free to trade yourself of […] The post The Kalshi market on U.S. productivity growth appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "What should I ask Alexander Mikaberidze?",
      "published": "2026-11-17T19:17:25+00:00",
      "summary": "He is the author and the new and excellent The Louisiana Purchase: The Grand Bargain and the Making of America. He also wrote The Napoleonic Wars: A Global History, one of my favorite history books. He has extensive other writings on the history of the Russian military during that same period. From Wikipedia: Alexander Mikaberidze […] The post What should I ask Alexander Mikaberidze? appeared firs"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "Alex Imas and I podcast on the economics of AI",
      "published": "2026-11-17T16:53:31+00:00",
      "summary": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE The post Alex Imas and I podcast on the economics of AI appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Tuesday assorted links",
      "published": "2026-11-17T13:46:49+00:00",
      "summary": "1. Luka has become a very good player. Defense is much better too. 2. No comment. 3. Did England bribe Scotland into political union? 4. Survey article on the economics of mental health, one of the most important and understudied areas. 5. Science isn’t just a series of lucky accidents. 6. Kalshi five-year productivity growth […] The post Tuesday assorted links appeared first on Marginal REVOLUTIO"
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#12",
      "title": "Adlerlicht, reporting on crime in Germany",
      "published": "2026-11-17T07:12:17+00:00",
      "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here. The post Adlerlicht, reporting on crime in Germany appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#12",
+     "ref": "marginal_revolution#13",
      "title": "The economics of Jensen Huang",
      "published": "2026-11-17T05:44:15+00:00",
      "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever […] The post The economics of Jensen Huang appeared first on Margi"
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "Monday assorted links",
-     "published": "2026-11-16T19:17:13+00:00",
-     "summary": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard Posner. 5. “A survey released Monday found that new international student enrollment plunged by 15 percent, a figure that was particularly […] The post Monday assorted links appeared "
-    },
-    {
-     "ref": "marginal_revolution#14",
-     "title": "Russ Roberts and I do EconTalk podcast on Montaigne",
-     "published": "2026-11-16T16:53:41+00:00",
-     "summary": "Self-recommending, we start with Montaigne’s essay on education… The post Russ Roberts and I do EconTalk podcast on Montaigne appeared first on Marginal REVOLUTION ."
     }
    ]
   },
@@ -250,8 +241,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "psyche#0",
      "title": "Traces of home",
      "published": "2026-11-18T11:00:00+00:00",
-     "summary": "When war cut the link to my family in Iran, the smallest glimmer of their life became dear to me - by Elaheh Shabani Afarani Read on Psyche",
-     "full_text_file": "essays/psyche_0.txt"
+     "summary": "When war cut the link to my family in Iran, the smallest glimmer of their life became dear to me - by Elaheh Shabani Afarani Read on Psyche"
     },
     {
      "ref": "psyche#1",
@@ -366,6 +356,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   }
  ],
  "recently_featured": [
+  "M.C. Escher Never Passed a Math Class. He Still Found Its Deepest Symmetries by Eye.",
   "Twenty years of precision cosmology hint that dark energy isn't constant after all",
   "Grain Didn't Build States — Horses, Boats and Conquest Did, a Historian Argues",
   "A New Answer to Why Anything Exists At All",
@@ -394,8 +385,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
   "Why Understanding Someone Doesn't Mean Sharing Their Thought",
   "Disconnection Is Breaking Us — So She Moved Her Family Into a Shared House With Strangers",
   "An AI model was caught reasoning about how its own training will shape its future self — and nobody agrees whether that's reassuring or alarming",
-  "How Intuition Justifies Belief — By Working Just Like Perception",
-  "Denmark Treats Feeling Safe as Shared Infrastructure, Not a Private Feeling"
+  "How Intuition Justifies Belief — By Working Just Like Perception"
  ]
 }
 </input>

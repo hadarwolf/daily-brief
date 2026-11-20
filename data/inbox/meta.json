@@ -1,6 +1,6 @@
 {
- "date": "2026-11-19",
- "prepared_at": "2026-11-19T11:20:30+00:00",
+ "date": "2026-11-20",
+ "prepared_at": "2026-11-20T03:38:51+00:00",
  "sections": [
   "sports",
   "geopolitics",
@@ -26,48 +26,48 @@
    {
     "sport": "nba",
     "competition": "NBA",
-    "home": "Milwaukee Bucks",
-    "away": "Portland Trail Blazers",
-    "kickoff_utc": "2026-11-20T01:00:00.000Z"
+    "home": "Brooklyn Nets",
+    "away": "Orlando Magic",
+    "kickoff_utc": "2026-11-21T00:30:00.000Z"
    }
   ]
  },
  "markets": {
   "TA35": {
    "symbol": "TA35.TA",
-   "last": 3960.77,
-   "prev_close": 3964.9199,
-   "change_pct": -0.1,
-   "as_of": "2026-11-19"
+   "last": 3964.9199,
+   "prev_close": 3978.4199,
+   "change_pct": -0.34,
+   "as_of": "2026-11-18"
   },
   "SP500": {
    "symbol": "^GSPC",
-   "last": 7323.6299,
-   "prev_close": 7340.5298,
-   "change_pct": -0.23,
-   "as_of": "2026-11-18"
+   "last": 7175.8301,
+   "prev_close": 7323.6299,
+   "change_pct": -2.02,
+   "as_of": "2026-11-19"
   },
   "USDILS": {
    "symbol": "ILS=X",
-   "last": 3.2758,
-   "prev_close": 3.2535,
-   "change_pct": 0.68,
-   "as_of": "2026-11-19"
+   "last": 3.3172,
+   "prev_close": 3.2771,
+   "change_pct": 1.22,
+   "as_of": "2026-11-20"
   },
   "BRENT": {
    "symbol": "BZ=F",
-   "last": 89.55,
+   "last": 89.78,
    "prev_close": 91.95,
-   "change_pct": -2.61,
+   "change_pct": -2.36,
    "as_of": "2026-11-19"
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 63686.9883,
+   "last": 61901.6602,
    "prev_close": 62987.2656,
-   "change_pct": 1.11,
-   "as_of": "2026-11-19"
+   "change_pct": -1.72,
+   "as_of": "2026-11-20"
   }
  },
- "essays_fetched": 6
+ "essays_fetched": 8
 }

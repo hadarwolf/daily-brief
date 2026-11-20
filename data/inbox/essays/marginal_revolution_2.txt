@@ -1,0 +1,9 @@
+I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog.
+
+The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, not just posts in the Books category. The site does not directly quote anything from Marginal Revolution other than post titles, which link to the relevant post where a book was mentioned.
+
+In addition to compiling mentioned books, I had Claude determine whether books were evaluated (positively, negatively, or mixed), recommended, or described as “self-recommending.” This let me identify books you’ve both evaluated: while there are 98 books you have evaluated similarly, there are 10 where you’ve differed.
+
+This project was created almost entirely with Claude Code and the Claude API, though I used GPT-6 Luna to do the first pass over the entire archive. I checked about 2,000 links and 650 labels by hand. I’m sure there are still some mistakes, and each record has a contact address for users to reach out with a correction.
+
+I’ve been a reader of Marginal Revolution for a long time and have discovered some of my favorite books by reading about them on MR. This project was a way for me to improve my discovery of new books and learn more about how to use AI (I’m already reading Robert Hughes’ The Fatal Shore after finding it in this process). This is a labor of love: Marginalia Library does not and will not have ads, tracking, or affiliate links, and I plan to keep it current from the weekly Marginal Revolution AI Archive updates.

@@ -24,118 +24,113 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2013,
-   "text": "A double suicide bombing at the Iranian embassy in Beirut, Lebanon, killed 23 people and injured at least 160 others.",
+   "year": 2003,
+   "text": "Suicide bombers blew up the British consulate and the headquarters of HSBC Bank in Istanbul, killing 31 people, including consul general Roger Short and actor Kerem Yılmazer.",
    "context": [
-    "The 2013 Iranian embassy bombing in Beirut was a double suicide bombing in front of the Iranian embassy in Beirut, Lebanon on 19 November 2013. The two bombings resulted in 23 deaths and injured at least 160 others."
+    "The 2003 Istanbul bombings were a series of suicide attacks carried out with trucks fitted with bombs detonated at four locations in Istanbul, Turkey, on 15 and 20 November 2003."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2010,
-   "text": "The first of four explosions occurred at the Pike River Mine in the West Coast in New Zealand's worst mining disaster in nearly a century.",
+   "year": 1994,
+   "text": "In accordance with the Lusaka Protocol, the Angolan government signed a ceasefire with UNITA rebels in a failed attempt to end the Angolan Civil War.",
    "context": [
-    "The Pike River Mine disaster was a coal mining accident that occurred on 19 November 2010 in the Pike River Mine, 46 km (29 mi) northeast of Greymouth, in the West Coast region of New Zealand's South Island. It began with a methane explosion at approximately 3:44 pm. The accident resulted in the deaths of 29 miners."
+    "The Lusaka Protocol, initialed in Lusaka, Zambia on 31 October 1994, attempted to end the Angolan Civil War by integrating and disarming UNITA and starting national reconciliation. Both sides signed a truce as part of the protocol on 15 November 1994, and the treaty was signed on 20 November 1994."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2005,
-   "text": "Iraq War: A group of United States Marines massacred 25 people in the town of Haditha.",
+   "year": 1991,
+   "text": "First Nagorno-Karabakh War: An Azerbaijani military helicopter carrying a peacekeeping mission team was shot down in Nagorno-Karabakh, disrupting ongoing peace talks.",
    "context": [
-    "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. It began in March 2003 with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose against coalition forces and the newly established Iraqi government. US forces were officially withdrawn in 2011. In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency."
+    "The First Nagorno-Karabakh War was an ethnic and territorial conflict that took place from February 1988 to May 1994 in the enclave of Nagorno-Karabakh in southwestern Azerbaijan between the majority ethnic Armenians of Nagorno-Karabakh backed by Armenia, and the Republic of Azerbaijan with support from Turkey. As the war progressed, Armenia and Azerbaijan, both former Soviet republics, entangled themselves in protracted, undeclared mountain warfare in the mountainous heights of Karabakh as Azerbaijan attempted to curb the Karabakh Movement."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 2002,
-   "text": "The Greek oil tanker Prestige split in two and sank off the coast of Galicia after spilling 420 thousand barrels (17.8 million US gallons) of oil, in the worst environmental disaster in Spanish and Portuguese history.",
+   "year": 1990,
+   "text": "Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, was arrested in Novocherkassk.",
    "context": [
-    "MV Prestige was an oil tanker owned by a Greek company based in Athens and operating under a Bahamian flag of convenience, that on 19 November 2002 sank off the coast of Galicia, Spain. The sinking caused a major environmental disaster, polluting thousands of miles of coastline with 50,000 metric tons of oil."
+    "Andrei Romanovich Chikatilo was a Ukrainian-born Soviet serial killer nicknamed \"the Butcher of Rostov\", \"the Rostov Ripper\", and \"the Red Ripper\" who sexually assaulted, murdered, and mutilated at least fifty-two women and children between 1978 and 1990 in the Russian SFSR, the Ukrainian SSR, and the Uzbek SSR."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1991,
-   "text": "Mexican singer Luis Miguel released the album Romance, which led to a revival of interest in bolero music.",
+   "year": 1985,
+   "text": "Windows 1.0, the first version of Microsoft Windows available to the public, was released.",
    "context": [
-    "Luis Miguel Gallego Basteri is a Mexican singer and record producer. Born in Puerto Rico to an Italian mother and a Spanish father, he is often referred to as \"El Sol de México\". Luis Miguel has sung in multiple genres and styles, including pop songs, ballads, boleros, tangos, jazz, big band, and mariachi. He is also recognized as the only major Latin singer of his generation not to cross over to the Anglo market during the \"Latin Explosion\" in the 1990s."
+    "Windows 1.0 is the first major release of Microsoft Windows, a family of graphical user shells and operating systems for personal computers developed by Microsoft. It was first released to manufacturing in the United States and the general public on November 20, 1985, while the European version was released as Windows 1.02 in May 1986."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1985,
-   "text": "The first of five summits (pictured) between Soviet general secretary Mikhail Gorbachev and U.S. president Ronald Reagan began in Geneva.",
+   "year": 1979,
+   "text": "Armed insurgents attacked and took over the Masjid al-Haram in Mecca, declaring that one of their leaders was the Mahdi, the prophesied redeemer of Islam.",
    "context": [
-    "The Geneva Summit of 1985 was a Cold War-era meeting in Geneva, Switzerland. It was held on November 19–21, 1985, between U.S. president Ronald Reagan and Soviet general secretary Mikhail Gorbachev. The two leaders met for the first time to hold talks on international diplomatic relations and the arms race."
+    "The Grand Mosque seizure took place between 20 November and 4 December 1979 at the Grand Mosque of Mecca in Mecca, Saudi Arabia, the holiest site in Islam. The attack was carried out by up to 600 militants led by Juhayman al-Otaybi, a Saudi Islamist opposed to the monarchy, belonging to the Otaibah tribe. The insurgents identified themselves as \"al-Ikhwan\", referencing the Arabian militia that had played a role in the early formation of the Saudi state in the early 20th century. Scholars refer to them as Juhayman's Ikhwan."
    ]
   },
   {
    "ref": "wikipedia#6",
    "year": 1969,
-   "text": "Playing for Santos against Vasco da Gama in the Maracanã Stadium in Rio de Janeiro, Brazilian footballer Pelé scored his 1,000th goal (commemorative stamp pictured).",
+   "text": "A group of Native American activists began a 19-month occupation (graffiti pictured) of Alcatraz Island in San Francisco Bay.",
    "context": [
-    "Santos Futebol Clube is a Brazilian sports club based in Vila Belmiro, a bairro in the city of Santos. It plays in the Campeonato Paulista, the state of São Paulo's premier state league, as well as the Campeonato Brasileiro Série A, the top flight of the Brazilian football league system, after winning the 2024 Série B title."
+    "Native Americans are the Indigenous peoples of the United States, particularly of the lower 48 states and Alaska. They may also include any Americans whose origins lie in any of the Indigenous peoples of North or South America. The United States Census Bureau publishes data about \"American Indians and Alaska Natives\", whom it defines as anyone \"having origins in any of the original peoples of North and South America ... and who maintains tribal affiliation or community attachment\". The census does not, however, enumerate \"Native Americans\" as such, noting that the latter term can encompass a broader set of groups, e.g. Native Hawaiians, which it tabulates separately."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1942,
-   "text": "World War II: Soviet troops launched Operation Uranus at the Battle of Stalingrad with the goal of encircling Axis forces, turning the tide of the battle in their favour.",
+   "year": 1947,
+   "text": "Princess Elizabeth, daughter of King George VI, married Lieutenant Philip Mountbatten, who was given the title Duke of Edinburgh.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1941,
-   "text": "World War II: The Australian light cruiser HMAS Sydney and the German auxiliary cruiser Kormoran destroyed each other in the Indian Ocean.",
+   "year": 1945,
+   "text": "The Nuremberg trials (defendants pictured) of 24 leading Nazis involved in the Holocaust and various war crimes during World War II began in Nuremberg, Germany.",
    "context": [
-    "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries were involved, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease and genocides. After the Allied victory, Germany, Austria, Japan and Korea were occupied, and German and Japanese leaders were tried for war crimes."
+    "The Nuremberg trials were international criminal trials held by France, the Soviet Union, the United Kingdom, and the United States against leaders of defeated Nazi Germany for plotting and carrying out invasions of several countries across Europe and committing atrocities against their citizens in the Second World War."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1933,
-   "text": "A coalition of right-wing parties won the majority of seats in the Congress of Deputies in the first general election in Spain with suffrage extended to women.",
+   "year": 1917,
+   "text": "First World War: The Battle of Cambrai began with British forces having initial success over Germany's Hindenburg Line.",
    "context": [
-    "The Congress of Deputies is the lower house of the Cortes Generales, Spain's legislative branch, the upper house being the Senate. The Congress meets in the Palace of the Parliament in Madrid."
+    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1863,
-   "text": "American Civil War: U.S. president Abraham Lincoln delivered the Gettysburg Address at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania.",
+   "year": 1820,
+   "text": "The American whaleship Essex sank 2,000 nautical miles (3,700 km) west of the western coast of South America after it was attacked by a sperm whale, an event which inspired the novel Moby-Dick.",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "Essex was an American whaling ship from Nantucket, Massachusetts, which was launched in 1799. On November 20, 1820, while at sea in the southern Pacific Ocean under the command of Captain George Pollard Jr., the ship was attacked and sunk by a sperm whale. About 2,000 nautical miles (3,700 km) from the coast of South America, the 20-man crew was forced to make for land in three whaleboats with what food and water they could salvage from the wreck."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1863,
-   "text": "American Civil War: Confederate forces began the Siege of Knoxville against Union fortifications.",
+   "year": 1776,
+   "text": "American Revolutionary War: The Battle of Fort Lee saw the invasion of New Jersey by British and Hessian forces and the subsequent general retreat of the Continental Army.",
    "context": [
-    "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The South saw slavery as threatened because of the election of Abraham Lincoln as president in 1860, the abolitionist movement, and the growing electoral power of the North. The war ended with a Union victory, dissolution of the Confederacy and the national abolition of slavery, freeing four million African Americans."
+    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1824,
-   "text": "Temenggong Abdul Rahman of Johor and Sultan Hussein Shah of Johor ceded the governance of Singapore to the British East India Company.",
+   "year": 1739,
+   "text": "War of Jenkins' Ear: A British naval force arrived at the settlement of Portobello in the Spanish Main, capturing it the next day.",
    "context": [
-    "Abdul Rahman I bin Abdul Hamid I of Johor was the Temenggong of Johor during the Bendahara dynasty of the Johor Sultanate. He was best known of being instrumental in the Treaty of Singapore with the British East India Company in 1819."
-   ]
-  },
-  {
-   "ref": "wikipedia#13",
-   "year": 1794,
-   "text": "The United States and Great Britain signed the Jay Treaty, the basis for ten years of peaceful trade between the two nations.",
-   "context": [
-    "The Treaty of Amity, Commerce, and Navigation, Between His Britannic Majesty and the United States of America, commonly known as the Jay Treaty, and also as Jay's Treaty, was a 1794 treaty between the United States and Great Britain that averted war, resolved issues remaining since the 1783 Treaty of Paris, and facilitated ten years of peaceful trade between Americans and the British in the midst of the French Revolutionary Wars, which had begun in 1792. For the Americans, the treaty's policy was designed by Treasury secretary Alexander Hamilton, supported by President George Washington. It angered France and bitterly divided American public opinion, encouraging the growth of two opposing American political parties, the pro-Treaty Federalists and the anti-Treaty Democratic-Republicans."
+    "The War of Jenkins' Ear was fought between Great Britain and Spain from 1739 to 1748. Most of the fighting took place in New Granada and the Caribbean Sea, with major operations over by 1742. It is considered a related conflict of the 1740 to 1748 War of the Austrian Succession."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Hurdle rate (שיעור תשואה נדרש)",
+  "Land and expand (לנחות ולהתרחב)",
+  "Throwing good money after bad (להשקיע כסף טוב אחרי כסף רע)",
   "Bellwether (מדד מקדים)",
   "Sticker shock (תדהמת מחיר)",
   "Cash cow (פרת מזומנים)",
@@ -222,10 +217,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "A rising tide lifts all boats (גאות מרימה את כל הסירות)",
   "Sunk cost (עלות שקועה)",
   "Down round (סבב גיוס במחיר מופחת)",
-  "Lipstick on a pig (שפתון על חזיר)",
-  "EBITDA (רווח תפעולי לפני ריבית, מיסים, פחת והפחתות)",
-  "Golden parachute (מצנח זהב)",
-  "Pull the plug (לשלוף את התקע)"
+  "Lipstick on a pig (שפתון על חזיר)"
  ]
 }
 </input>

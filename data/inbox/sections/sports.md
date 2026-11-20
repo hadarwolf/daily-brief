@@ -9,9 +9,9 @@ Write the Sports section: 3-5 stories.
  {
   "sport": "nba",
   "competition": "NBA",
-  "home": "Milwaukee Bucks",
-  "away": "Portland Trail Blazers",
-  "kickoff_utc": "2026-11-20T01:00:00.000Z"
+  "home": "Brooklyn Nets",
+  "away": "Orlando Magic",
+  "kickoff_utc": "2026-11-21T00:30:00.000Z"
  }
 ]. Lead with a preview of that game (what's at stake, form, table position).
 - Fill israeli_players with one entry per player listed in nba_data.israeli_players, giving their latest game or news. If the input has nothing new on a player, say so plainly. Never invent stats. Box scores are often unavailable.
@@ -25,46 +25,13 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
 {
  "european_soccer_data": {
   "matches": {
-   "yesterday": [],
-   "today": [
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-18T22:30:00Z",
-     "home": "Coritiba",
-     "away": "Santos",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-18T23:00:00Z",
-     "home": "Clube do Remo",
-     "away": "Chapecoense",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-18T23:30:00Z",
-     "home": "Cruzeiro",
-     "away": "Palmeiras",
-     "status": "IN_PLAY",
-     "score": "1-1"
-    },
-    {
-     "competition": "Campeonato Brasileiro Série A",
-     "kickoff_utc": "2026-11-18T23:30:00Z",
-     "home": "Flamengo",
-     "away": "Paranaense",
-     "status": "IN_PLAY",
-     "score": "2-1"
-    },
+   "yesterday": [
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T00:30:00Z",
      "home": "Grêmio",
      "away": "Bahia",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "score": "0-0"
     },
     {
@@ -72,28 +39,61 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-19T00:30:00Z",
      "home": "Corinthians",
      "away": "Botafogo",
-     "status": "IN_PLAY",
-     "score": "2-0"
+     "status": "FINISHED",
+     "score": "4-0"
     }
    ],
-   "tomorrow": [
+   "today": [
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T22:30:00Z",
      "home": "Vasco da Gama",
      "away": "Internacional",
-     "status": "TIMED",
-     "score": null
+     "status": "FINISHED",
+     "score": "2-1"
     },
     {
      "competition": "Campeonato Brasileiro Série A",
      "kickoff_utc": "2026-11-19T22:30:00Z",
      "home": "Vitória",
      "away": "Bragantino",
+     "status": "FINISHED",
+     "score": "2-1"
+    },
+    {
+     "competition": "Campeonato Brasileiro Série A",
+     "kickoff_utc": "2026-11-20T00:30:00Z",
+     "home": "São Paulo",
+     "away": "Fluminense",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-20T19:30:00Z",
+     "home": "Bayern",
+     "away": "1. FC Köln",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-20T19:45:00Z",
+     "home": "Troyes",
+     "away": "Le Havre",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-11-20T20:00:00Z",
+     "home": "Athletic",
+     "away": "Espanyol",
      "status": "TIMED",
      "score": null
     }
-   ]
+   ],
+   "tomorrow": []
   },
   "standings_top6_plus_favorites": {
    "Premier League": [
@@ -383,102 +383,84 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
  "nba_data": {
   "games_last_night": [
    {
-    "home": "Cleveland Cavaliers",
-    "away": "Memphis Grizzlies",
-    "score": "121-124",
-    "status": "Final"
-   },
-   {
-    "home": "Indiana Pacers",
-    "away": "Houston Rockets",
-    "score": "104-119",
-    "status": "Final"
-   },
-   {
-    "home": "Miami Heat",
-    "away": "Milwaukee Bucks",
-    "score": "137-130",
-    "status": "Final"
-   },
-   {
-    "home": "Orlando Magic",
-    "away": "Philadelphia 76ers",
-    "score": "116-121",
-    "status": "Final"
-   },
-   {
-    "home": "Brooklyn Nets",
-    "away": "Chicago Bulls",
-    "score": "107-137",
-    "status": "Final"
-   },
-   {
-    "home": "Toronto Raptors",
-    "away": "Washington Wizards",
-    "score": "99-103",
-    "status": "Final"
-   },
-   {
-    "home": "New Orleans Pelicans",
-    "away": "Detroit Pistons",
-    "score": "109-122",
-    "status": "Final"
-   },
-   {
-    "home": "Oklahoma City Thunder",
-    "away": "Atlanta Hawks",
-    "score": "112-117",
-    "status": "Final"
-   },
-   {
-    "home": "Denver Nuggets",
-    "away": "Boston Celtics",
-    "score": "105-101",
-    "status": "Final"
-   },
-   {
-    "home": "Dallas Mavericks",
+    "home": "Memphis Grizzlies",
     "away": "Golden State Warriors",
-    "score": "116-94",
+    "score": "126-98",
     "status": "Final"
    },
    {
-    "home": "Los Angeles Lakers",
-    "away": "Utah Jazz",
-    "score": "97-109",
+    "home": "Milwaukee Bucks",
+    "away": "Portland Trail Blazers",
+    "score": "114-124",
     "status": "Final"
    },
    {
-    "home": "Sacramento Kings",
-    "away": "Phoenix Suns",
-    "score": "107-128",
+    "home": "Minnesota Timberwolves",
+    "away": "New York Knicks",
+    "score": "99-102",
+    "status": "Final"
+   },
+   {
+    "home": "San Antonio Spurs",
+    "away": "LA Clippers",
+    "score": "124-112",
     "status": "Final"
    }
   ],
   "games_today": [
    {
-    "home": "Memphis Grizzlies",
-    "away": "Golden State Warriors",
+    "home": "Atlanta Hawks",
+    "away": "Charlotte Hornets",
     "score": null,
-    "status": "2026-11-20T01:00:00Z"
+    "status": "2026-11-21T00:00:00Z"
    },
    {
-    "home": "Milwaukee Bucks",
-    "away": "Portland Trail Blazers",
+    "home": "Brooklyn Nets",
+    "away": "Orlando Magic",
     "score": null,
-    "status": "2026-11-20T01:00:00Z"
+    "status": "2026-11-21T00:30:00Z"
    },
    {
-    "home": "Minnesota Timberwolves",
-    "away": "New York Knicks",
+    "home": "Cleveland Cavaliers",
+    "away": "Indiana Pacers",
     "score": null,
-    "status": "2026-11-20T01:00:00Z"
+    "status": "2026-11-21T00:30:00Z"
    },
    {
-    "home": "San Antonio Spurs",
-    "away": "LA Clippers",
+    "home": "Detroit Pistons",
+    "away": "Toronto Raptors",
     "score": null,
-    "status": "2026-11-20T01:00:00Z"
+    "status": "2026-11-21T00:30:00Z"
+   },
+   {
+    "home": "Chicago Bulls",
+    "away": "Washington Wizards",
+    "score": null,
+    "status": "2026-11-21T01:00:00Z"
+   },
+   {
+    "home": "Oklahoma City Thunder",
+    "away": "New Orleans Pelicans",
+    "score": null,
+    "status": "2026-11-21T01:00:00Z"
+   },
+   {
+    "home": "Utah Jazz",
+    "away": "Phoenix Suns",
+    "score": null,
+    "status": "2026-11-21T02:30:00Z"
+   },
+   {
+    "home": "Denver Nuggets",
+    "away": "Houston Rockets",
+    "score": null,
+    "status": "2026-11-21T03:00:00Z"
+   },
+   {
+    "home": "Los Angeles Lakers",
+    "away": "Sacramento Kings",
+    "score": null,
+    "status": "2026-11-21T03:00:00Z"
    }
   ],
   "israeli_players": {
@@ -534,153 +516,387 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
-     "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
-     "published": "2026-11-19T10:32:30+00:00",
-     "summary": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday."
+     "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+     "published": "2026-11-19T23:57:54+00:00",
+     "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League."
     },
     {
      "ref": "bbc_football#1",
-     "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
-     "published": "2026-11-19T10:21:10+00:00",
-     "summary": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?"
+     "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+     "published": "2026-11-19T23:57:54+00:00",
+     "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League."
     },
     {
      "ref": "bbc_football#2",
-     "title": "Eight-year ban for player who threw rock that hit assistant referee",
-     "published": "2026-11-19T10:20:58+00:00",
-     "summary": "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match."
+     "title": "Lyon outclass Arsenal for Champions League win",
+     "published": "2026-11-19T22:56:07+00:00",
+     "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification."
     },
     {
      "ref": "bbc_football#3",
-     "title": "Five return for Wales' World Cup play-off final",
-     "published": "2026-11-19T10:00:07+00:00",
-     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
+     "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+     "published": "2026-11-19T21:57:22+00:00",
+     "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more."
     },
     {
      "ref": "bbc_football#4",
-     "title": "Five return for Wales' World Cup play-off final",
-     "published": "2026-11-19T10:00:07+00:00",
-     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
+     "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+     "published": "2026-11-19T20:44:11+00:00",
+     "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association."
     },
     {
      "ref": "bbc_football#5",
-     "title": "Allen to join Williams in interim Swans coaching team",
-     "published": "2026-11-19T09:43:08+00:00",
-     "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos."
+     "title": "Frank happy to be 'back in the circus' at Palace",
+     "published": "2026-11-19T20:16:10+00:00",
+     "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager."
     },
     {
      "ref": "bbc_football#6",
-     "title": "The best European strikers this century - ranked by you",
-     "published": "2026-11-19T08:50:01+00:00",
-     "summary": "BBC Sport reveals the top 10 European strikers this century, as voted for by you."
+     "title": "New manager Frick to take Aberdeen back to basics",
+     "published": "2026-11-19T19:11:26+00:00",
+     "summary": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen."
     },
     {
      "ref": "bbc_football#7",
-     "title": "Leicester split with sponsor after porn actress row",
-     "published": "2026-11-19T08:26:16+00:00",
-     "summary": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador."
+     "title": "New manager Frick to take Aberdeen back to basics",
+     "published": "2026-11-19T19:11:26+00:00",
+     "summary": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen."
     },
     {
      "ref": "bbc_football#8",
-     "title": "Armstrong would relish Rangers switch - gossip",
-     "published": "2026-11-19T08:01:39+00:00",
-     "summary": "Romania-based winger eyes reunion with manager at Ibrox as Celtic hero reveals approach from Rangers..."
+     "title": "England fined for fans' anti-Catholic chants in Spain",
+     "published": "2026-11-19T19:11:03+00:00",
+     "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain."
     },
     {
      "ref": "bbc_football#9",
-     "title": "Podcast: Who should be worried in Premiership bottom four?",
-     "published": "2026-11-19T08:00:00+00:00",
-     "summary": "Aberdeen, Hibs, Motherwell & Killie... FIGHT!"
+     "title": "Sutton's predictions v world champion boxer Lauren Price",
+     "published": "2026-11-19T18:52:00+00:00",
+     "summary": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures."
     },
     {
      "ref": "bbc_football#10",
-     "title": "How Premier League's big six keep getting richer",
-     "published": "2026-11-19T07:38:22+00:00",
-     "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds."
+     "title": "Pochettino's first Man Utd training session filmed by drone operator",
+     "published": "2026-11-19T18:45:56+00:00",
+     "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground."
     },
     {
      "ref": "bbc_football#11",
-     "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
-     "published": "2026-11-19T07:14:11+00:00",
-     "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?"
+     "title": "All done deals from September-November 2026",
+     "published": "2026-11-19T17:54:30+00:00",
+     "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League."
     },
     {
      "ref": "bbc_football#12",
-     "title": "Who am I? Plus today's other quizzes",
-     "published": "2026-11-19T07:06:18+00:00",
-     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+     "title": "We'll only sell if offer makes club blink - McInnes",
+     "published": "2026-11-19T17:11:51+00:00",
+     "summary": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\"."
     },
     {
      "ref": "bbc_football#13",
-     "title": "Vote for the first BBC Men's Footballer of the Year",
-     "published": "2026-11-19T06:30:04+00:00",
-     "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award."
+     "title": "We'll only sell if offer makes club blink - McInnes",
+     "published": "2026-11-19T17:11:51+00:00",
+     "summary": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\"."
     },
     {
      "ref": "bbc_football#14",
-     "title": "'Best I've seen live': Watch as player scores ‘special’ goal",
-     "published": "2026-11-19T05:30:23+00:00",
-     "summary": "The midfielder speaks of the \"special moment\" he scored from within his own half."
+     "title": "Manager ins and outs - 2026-27",
+     "published": "2026-11-19T16:45:46+00:00",
+     "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League."
     },
     {
      "ref": "bbc_football#15",
-     "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
-     "published": "2026-11-18T22:34:05+00:00",
-     "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more."
+     "title": "Football Daily",
+     "published": "2026-11-19T16:42:00+00:00",
+     "summary": "Ellen White joins Rick & Lloyd to discuss the BBC Men’s Footballer of the Year shortlist."
     },
     {
      "ref": "bbc_football#16",
-     "title": "Buurman rescues late Chelsea win against PSG",
-     "published": "2026-11-18T22:13:49+00:00",
-     "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table."
+     "title": "Crawley keep Blackwell as boss until end of season",
+     "published": "2026-11-19T16:40:30+00:00",
+     "summary": "Crawley Town appoint Kevin Blackwell as manager until the end of the season after the 67-year-old's spell in temporary charge."
     },
     {
      "ref": "bbc_football#17",
-     "title": "Euro Leagues",
-     "published": "2026-11-18T22:06:00+00:00",
-     "summary": "Who makes the list of the Top 10 European Strikers of the Century so far?"
+     "title": "Struggling Blackpool sack Evatt on his birthday",
+     "published": "2026-11-19T16:12:14+00:00",
+     "summary": "Blackpool sack head coach Ian Evatt after a year in charge following a run of one win and six defeats in their past 10 league games."
     },
     {
      "ref": "bbc_football#18",
-     "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
-     "published": "2026-11-18T21:22:18+00:00",
-     "summary": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban."
+     "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
+     "published": "2026-11-19T15:05:21+00:00",
+     "summary": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss."
     },
     {
      "ref": "bbc_football#19",
-     "title": "England defender Carter joins Bay FC after Gotham exit",
-     "published": "2026-11-18T21:07:26+00:00",
-     "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent."
+     "title": "Five return for Wales' World Cup play-off final",
+     "published": "2026-11-19T13:40:43+00:00",
+     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
     },
     {
      "ref": "bbc_football#20",
-     "title": "Strasbourg appoint Swansea boss Matos",
-     "published": "2026-11-18T20:57:54+00:00",
-     "summary": "Strasbourg announce the appointment of Vitor Matos as the club's head coach - though Swansea City are yet to confirm the move."
+     "title": "Five return for Wales' World Cup play-off final",
+     "published": "2026-11-19T13:40:43+00:00",
+     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
     },
     {
      "ref": "bbc_football#21",
-     "title": "FA explored legal challenge to Infantino staying on",
-     "published": "2026-11-18T20:55:01+00:00",
-     "summary": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail."
+     "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
+     "published": "2026-11-19T13:29:42+00:00",
+     "summary": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them."
     },
     {
      "ref": "bbc_football#22",
-     "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
-     "published": "2026-11-18T20:25:40+00:00",
-     "summary": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League."
+     "title": "Will this be the tightest Championship promotion race ever?",
+     "published": "2026-11-19T12:36:31+00:00",
+     "summary": "With five teams separated by just one point at the top of the Championship, could this be the best season yet?"
     },
     {
      "ref": "bbc_football#23",
-     "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
-     "published": "2026-11-18T19:09:00+00:00",
-     "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28."
+     "title": "Posh chairman MacAnthony 'fighting for his legacy'",
+     "published": "2026-11-19T12:33:21+00:00",
+     "summary": "Darragh MacAnthony says he is \"working around the clock\" to protect his \"legacy\" as Peterborough United chairman."
     },
     {
      "ref": "bbc_football#24",
-     "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
-     "published": "2026-11-18T19:09:00+00:00",
-     "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28."
+     "title": "Leicester split with sponsor after porn actress row",
+     "published": "2026-11-19T11:44:35+00:00",
+     "summary": "A fan group had complained after BC Game appointed a porn actress as a brand ambassador."
+    }
+   ]
+  },
+  {
+   "outlet": "ESPN NBA",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "espn_nba#0",
+     "title": "Timberwolves' Edwards has 'no clue' on timetable for return",
+     "published": "2026-11-20T03:30:49+00:00",
+     "summary": "Timberwolves guard Anthony Edwards said he has \"no clue\" when he will return to play from right knee surgery weeks ago, but was optimistic about his long-term prognosis."
+    },
+    {
+     "ref": "espn_nba#1",
+     "title": "Sources: Spurs' Harper avoids major injury, out 1-3 weeks with hip strain",
+     "published": "2026-11-20T03:30:49+00:00",
+     "summary": "Spurs guard Dylan Harper has been diagnosed with a left hip rotator strain, avoiding any major injury, sources told ESPN's Shams Charania on Thursday."
+    },
+    {
+     "ref": "espn_nba#2",
+     "title": "Giannis, Bam put Bucks drama aside, 'on to the next thing' after Heat win",
+     "published": "2026-11-20T03:30:49+00:00",
+     "summary": "Heat star Giannis Antetokounmpo said Wednesday night's win over the Bucks was like any other night, while Bam Adebayo said he has moved past his issues with Tyler Herro."
+    },
+    {
+     "ref": "espn_nba#3",
+     "title": "Redick cites fatigue as Luka's shot goes cold, Lakers' win streak ends at 9",
+     "published": "2026-11-20T03:30:49+00:00",
+     "summary": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine."
+    },
+    {
+     "ref": "espn_nba#4",
+     "title": "Reflective Lillard advised Giannis 'grass isn't always greener' before Heat trade",
+     "published": "2026-11-20T03:30:49+00:00",
+     "summary": "Damian Lillard, ahead of his return to Milwaukee, said his two years with the Bucks were something he needed to experience but he's happy to be back in Portland."
+    },
+    {
+     "ref": "espn_nba#5",
+     "title": "'I love the clutch': 76ers rally, improve to 11-0 in tight games",
+     "published": "2026-11-20T03:30:49+00:00",
+     "summary": "The 76ers improved to 11-0 in clutch games after overcoming a 17-point deficit to beat the Magic on Wednesday night."
+    },
+    {
+     "ref": "espn_nba#6",
+     "title": "Randle sounds off after Bulls rout Nets: 'That was embarrassing'",
+     "published": "2026-11-20T03:30:49+00:00",
+     "summary": "After a 30-point drubbing at the hands of the Bulls, veteran Julius Randle called the Nets' effort \"embarrassing\" and called out the team's pride and effort."
+    },
+    {
+     "ref": "espn_nba#7",
+     "title": "👀 What the first month has revealed about all 30 teams",
+     "published": "2026-11-20T03:30:49+00:00",
+     "summary": "With the season's first month nearly in the books, Ben Golliver examines the biggest storyline so far for all 30 teams."
+    },
+    {
+     "ref": "espn_nba#8",
+     "title": "Goes together like Cooper Flagg and PB&J: Mavs announce pop-up for sandwiches",
+     "published": "2026-11-19T23:25:59+00:00",
+     "summary": "The Dallas Mavericks' pop-up includes creamy peanut butter and grape jelly on white sourdough bread."
+    },
+    {
+     "ref": "espn_nba#9",
+     "title": "Athletes, coaches are just as hyped for 'Grand Theft Auto VI' as everyone else",
+     "published": "2026-11-19T23:25:59+00:00",
+     "summary": "The latest entry in the Grand Theft Auto series is tied with \"The Legend of Zelda: Ocarina of Time\" with a 99 rating on Metacritic."
+    },
+    {
+     "ref": "espn_nba#10",
+     "title": "NBA Power Rankings: One wild stat for all 30 teams",
+     "published": "2026-11-19T22:56:25+00:00",
+     "summary": "Here's where every team ranks this week -- along with one remarkable stat that has fueled each franchise through one month of the season."
+    },
+    {
+     "ref": "espn_nba#11",
+     "title": "Updated NBA championship and MVP odds: Heat on the rise, Wemby moves ahead of Luka",
+     "published": "2026-11-19T17:27:27+00:00",
+     "summary": "The Heat have bounced back from a rough start to the season, while Victor Wembanyama is now the leader for MVP just ahead of Luka Doncic."
+    },
+    {
+     "ref": "espn_nba#12",
+     "title": "Fantasy adds, bets to make for Thursday in the NBA: Spencer, Champagnie worth playing",
+     "published": "2026-11-19T17:27:27+00:00",
+     "summary": "Eric Moody breaks down Thursday's NBA slate, highlighting the fantasy streamers to add and his favorite bets."
+    },
+    {
+     "ref": "espn_nba#13",
+     "title": "Steph Curry confronts his 'basketball mortality'",
+     "published": "2026-11-19T14:52:30+00:00",
+     "summary": "At 38, Curry is still brilliant -- but managing his body has become the biggest battle of his career."
+    },
+    {
+     "ref": "espn_nba#14",
+     "title": "The hidden danger behind Luka Doncic's historic start﻿",
+     "published": "2026-11-19T13:46:53+00:00",
+     "summary": "Doncic is pushing the boundaries of basketball production. But could that actually hurt the Lakers' title hopes?"
+    },
+    {
+     "ref": "espn_nba#15",
+     "title": "16 roto and category league stars who can help",
+     "published": "2026-11-18T19:52:37+00:00",
+     "summary": "Use the Player Rater to your advantage and fill out your fantasy basketball lineup with these roto and category stars."
+    },
+    {
+     "ref": "espn_nba#16",
+     "title": "Eric Karabell's notebook: Trade Walker Kessler? Klay Thompson worth rostering?",
+     "published": "2026-11-18T19:52:37+00:00",
+     "summary": "Eric Karabell empties out the notebook with all that he's noticing around the NBA and what it means for fantasy."
+    }
+   ]
+  },
+  {
+   "outlet": "ESPN FC",
+   "lang": "en",
+   "items": [
+    {
+     "ref": "espn_soccer#0",
+     "title": "Predicting the rest of the Premier League season: How all 20 teams will finish",
+     "published": "2026-11-20T02:05:27+00:00",
+     "summary": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season."
+    },
+    {
+     "ref": "espn_soccer#1",
+     "title": "Reranked: Who is the MVP for each of the top Premier League clubs?",
+     "published": "2026-11-20T02:05:27+00:00",
+     "summary": "Based on ability and tactical importance, we've reranked the best players at the top Premier League clubs."
+    },
+    {
+     "ref": "espn_soccer#2",
+     "title": "Which USMNT fringe players stand to benefit from Mauricio Pochettino's exit?",
+     "published": "2026-11-20T02:05:20+00:00",
+     "summary": "With Mauricio Pochettino now at Manchesterr United, there are a host of midfielders primed for a revival in fortunes with the U.S. men's national team."
+    },
+    {
+     "ref": "espn_soccer#3",
+     "title": "Pochettino gets a fitting, emotional send-off from USMNT",
+     "published": "2026-11-20T02:05:20+00:00",
+     "summary": "No United States men's national team coach has ever left quite like this. Loved by players, celebrated by fans, and gone on his own terms."
+    },
+    {
+     "ref": "espn_soccer#4",
+     "title": "Rodman eyes 'full-circle moment' with NWSL title: 'Would mean everything'",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "Washington Spirit forward Trinity Rodman said it would mean \"everything\" to win another NWSL Championship on home soil at Audi Field on Saturday."
+    },
+    {
+     "ref": "espn_soccer#5",
+     "title": "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "Inter Miami CF star Lionel Messi remains the highest-paid player in MLS, though the number of players making at least $10 million grew to five."
+    },
+    {
+     "ref": "espn_soccer#6",
+     "title": "Pochettino's 1st Man United training session filmed by drone, posted online",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "Video footage of Mauricio Pochettino's first training session as Manchester United head coach has appeared on YouTube after it was filmed by a drone operator."
+    },
+    {
+     "ref": "espn_soccer#7",
+     "title": "Barça's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "Barcelona sporting director Deco has said the Spanish champions would welcome the money if Liverpool decide to sign Ronald Araújo beyond his loan spell."
+    },
+    {
+     "ref": "espn_soccer#8",
+     "title": "Frank eager to avoid repeat of Arsenal coffee cup controversy at Palace",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "Thomas Frank said he hopes never to get caught drinking from a Brighton coffee cup after he was reminded of his famous gaffe from his time at Tottenham."
+    },
+    {
+     "ref": "espn_soccer#9",
+     "title": "Leader in his own way Haaland making 'natural' progression as City veteran",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "Erling Haaland said it is \"natural\" for him to take on more responsibility as one of Manchester City's captains this season, but wants to do it in his own way."
+    },
+    {
+     "ref": "espn_soccer#10",
+     "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency."
+    },
+    {
+     "ref": "espn_soccer#11",
+     "title": "Ex-U.S. coach Arena: Federation doesn't 'have a clue' how to replace Poch",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "Former U.S. men's coach and current San Jose Earthquakes manager Bruce Arena called out U.S. Soccer as the federation looks for Mauricio Pochettino's replacement."
+    },
+    {
+     "ref": "espn_soccer#12",
+     "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
+     "published": "2026-11-19T23:33:13+00:00",
+     "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago"
+    },
+    {
+     "ref": "espn_soccer#13",
+     "title": "How fallen giants and their fans bounce back from scandal -- and relegation",
+     "published": "2026-11-19T23:17:47+00:00",
+     "summary": "Some of Europe's greatest teams have suffered relegation as punishment. So what might lie ahead for Man City?"
+    },
+    {
+     "ref": "espn_soccer#14",
+     "title": "Arsenal's Champions League defense given a reality check",
+     "published": "2026-11-19T23:16:34+00:00",
+     "summary": "Arsenal's 2-0 defeat to Lyonnes exposed familiar problems for the reigning Women's Champions League winners, as their season continues to disappoint."
+    },
+    {
+     "ref": "espn_soccer#15",
+     "title": "Chelsea's defense shines, but will scoring woes be their undoing in UWCL?",
+     "published": "2026-11-19T23:16:34+00:00",
+     "summary": "Chelsea have scored just four goals in five Champions League matches, though they remain in strong position."
+    },
+    {
+     "ref": "espn_soccer#16",
+     "title": "The NWSL has more money than ever, yet its biggest problems remain",
+     "published": "2026-11-19T23:04:34+00:00",
+     "summary": "As the NWSL approaches its season climax with Saturday's Championship, the league still has to deal with the same problems despite hitting major milestones."
+    },
+    {
+     "ref": "espn_soccer#17",
+     "title": "After a decade of near misses, Man United finally get their man in Pochettino",
+     "published": "2026-11-19T23:02:52+00:00",
+     "summary": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit."
+    },
+    {
+     "ref": "espn_soccer#18",
+     "title": "Transfer rumors, news: Premier League clubs eye Ronaldo successor Forbs",
+     "published": "2026-11-19T09:12:28+00:00",
+     "summary": "Manchester United are reportedly looking to strengthen their defense under new manager Mauricio Pochettino. Transfer Talk has the latest."
+    },
+    {
+     "ref": "espn_soccer#19",
+     "title": "World Cup 2030 Early Power Rankings: Spain still No. 1? No USMNT in top 15",
+     "published": "2026-11-18T14:02:00+00:00",
+     "summary": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat."
     }
    ]
   },
@@ -690,153 +906,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
-     "title": "MLS 2026 Playoff Power Rankings: Is Messi’s Miami ripe to be upset? Can anyone beat Nashville? - The New York Times",
-     "published": "2026-11-19T11:00:54+00:00",
-     "summary": "MLS 2026 Playoff Power Rankings: Is Messi’s Miami ripe to be upset? Can anyone beat Nashville? The New York Times"
+     "title": "MLS 2026 salaries announced: How much is Messi getting paid in Major League Soccer? Who is highest paid? - Sportstar",
+     "published": "2026-11-20T03:23:46+00:00",
+     "summary": "MLS 2026 salaries announced: How much is Messi getting paid in Major League Soccer? Who is highest paid? Sportstar"
     },
     {
      "ref": "gnews_inter_miami#1",
-     "title": "Inter Miami and GTA 6: The Exciting Miami Connection - 365Scores",
-     "published": "2026-11-19T11:00:22+00:00",
-     "summary": "Inter Miami and GTA 6: The Exciting Miami Connection 365Scores"
+     "title": "Lionel Messi Tops MLS Salaries With $28.3 Million in Guaranteed Compensation - Olorisupergal",
+     "published": "2026-11-20T02:36:26+00:00",
+     "summary": "Lionel Messi Tops MLS Salaries With $28.3 Million in Guaranteed Compensation Olorisupergal"
     },
     {
      "ref": "gnews_inter_miami#2",
-     "title": "Inter Miami vs Columbus Crew - Watch Online for Free - APWin",
-     "published": "2026-11-19T09:20:24+00:00",
-     "summary": "Inter Miami vs Columbus Crew - Watch Online for Free APWin"
+     "title": "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu - Inter Miami CF",
+     "published": "2026-11-20T01:19:18+00:00",
+     "summary": "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu Inter Miami CF"
     },
     {
      "ref": "gnews_inter_miami#3",
-     "title": "Lionel Messi enters the MLS playoffs with history in his sights, as Inter Miami chase a feat no team has manag - Diario AS",
-     "published": "2026-11-19T07:29:49+00:00",
-     "summary": "Lionel Messi enters the MLS playoffs with history in his sights, as Inter Miami chase a feat no team has manag Diario AS"
+     "title": "What to know about the 2026 MLS playoffs: Bracket, schedule and more - NBC4 Washington",
+     "published": "2026-11-20T00:36:39+00:00",
+     "summary": "What to know about the 2026 MLS playoffs: Bracket, schedule and more NBC4 Washington"
     },
     {
      "ref": "gnews_inter_miami#4",
-     "title": "Suarez reveals Messi is far from retiring and is eager to win the MLS Cup. - Vietnam.vn",
-     "published": "2026-11-19T03:28:27+00:00",
-     "summary": "Suarez reveals Messi is far from retiring and is eager to win the MLS Cup. Vietnam.vn"
+     "title": "Inter Miami CF, Levi's partner on collection - The Business Journals",
+     "published": "2026-11-20T00:33:00+00:00",
+     "summary": "Inter Miami CF, Levi's partner on collection The Business Journals"
     },
     {
      "ref": "gnews_inter_miami#5",
-     "title": "Preview: Inter Miami vs Columbus Crew - prediction, team news, lineups - Sports Mole",
-     "published": "2026-11-19T01:53:43+00:00",
-     "summary": "Preview: Inter Miami vs Columbus Crew - prediction, team news, lineups Sports Mole"
+     "title": "Five Players Now Earn Eight Figures As Lionel Messi Leads MLS Salary Explosion - Gooner Daily",
+     "published": "2026-11-20T00:27:31+00:00",
+     "summary": "Five Players Now Earn Eight Figures As Lionel Messi Leads MLS Salary Explosion Gooner Daily"
     },
     {
      "ref": "gnews_inter_miami#6",
-     "title": "Watch Inter Miami CF: 2026 TV Schedule & Streaming Details - CableTV.com",
-     "published": "2026-11-18T22:45:00+00:00",
-     "summary": "Watch Inter Miami CF: 2026 TV Schedule & Streaming Details CableTV.com"
+     "title": "Toronto vs. Inter Miami CF - Live Score - May 08, 2027 - FOX Sports",
+     "published": "2026-11-20T00:09:45+00:00",
+     "summary": "Toronto vs. Inter Miami CF - Live Score - May 08, 2027 FOX Sports"
     },
     {
      "ref": "gnews_inter_miami#7",
-     "title": "Inter Miami FC begins playoffs run with historic goals - Axios",
-     "published": "2026-11-18T22:00:37+00:00",
-     "summary": "Inter Miami FC begins playoffs run with historic goals Axios"
+     "title": "Inter Miami CF vs. Montreal - Live Score - May 01, 2027 - FOX Sports",
+     "published": "2026-11-20T00:08:39+00:00",
+     "summary": "Inter Miami CF vs. Montreal - Live Score - May 01, 2027 FOX Sports"
     },
     {
      "ref": "gnews_inter_miami#8",
-     "title": "Messi Leads Inter Miami’s Bid for Historic MLS Cup Defence - Olorisupergal",
-     "published": "2026-11-18T21:30:58+00:00",
-     "summary": "Messi Leads Inter Miami’s Bid for Historic MLS Cup Defence Olorisupergal"
+     "title": "MLS Cup bracket predictions: Lionel Messi's Inter Miami set for repeat? - thepress.net",
+     "published": "2026-11-19T23:13:18+00:00",
+     "summary": "MLS Cup bracket predictions: Lionel Messi's Inter Miami set for repeat? thepress.net"
     },
     {
      "ref": "gnews_inter_miami#9",
-     "title": "'She held his hand and said it publicly': Messi's mother picks her son's successor - Goal.com",
-     "published": "2026-11-18T20:00:36+00:00",
-     "summary": "'She held his hand and said it publicly': Messi's mother picks her son's successor Goal.com"
+     "title": "MLS Cup bracket predictions: Lionel Messi's Inter Miami set for repeat? - CBS Sports",
+     "published": "2026-11-19T23:12:00+00:00",
+     "summary": "MLS Cup bracket predictions: Lionel Messi's Inter Miami set for repeat? CBS Sports"
     },
     {
      "ref": "gnews_inter_miami#10",
-     "title": "Inter Miami: Luis Suarez wants to retire alongside Lionel Messi - Foot-Africa.com",
-     "published": "2026-11-18T20:00:00+00:00",
-     "summary": "Inter Miami: Luis Suarez wants to retire alongside Lionel Messi Foot-Africa.com"
+     "title": "Inter Miami vs Columbus Crew Prediction & Picks - Major League Soccer - SportyTrader",
+     "published": "2026-11-19T23:00:00+00:00",
+     "summary": "Inter Miami vs Columbus Crew Prediction & Picks - Major League Soccer SportyTrader"
     },
     {
      "ref": "gnews_inter_miami#11",
-     "title": "Inter Miami CF Teams Up with Publix for Second Annual Shop with a Star Initiative to Support Families During the Holiday Season - Inter Miami CF",
-     "published": "2026-11-18T19:53:15+00:00",
-     "summary": "Inter Miami CF Teams Up with Publix for Second Annual Shop with a Star Initiative to Support Families During the Holiday Season Inter Miami CF"
+     "title": "Lionel Messi's MLS salary is more than double Philadelphia Union's total payroll - PhillyVoice",
+     "published": "2026-11-19T22:56:21+00:00",
+     "summary": "Lionel Messi's MLS salary is more than double Philadelphia Union's total payroll PhillyVoice"
     },
     {
      "ref": "gnews_inter_miami#12",
-     "title": "LaLiga: Suarez names Barcelona player that surprises him - Daily Post Nigeria",
-     "published": "2026-11-18T19:08:30+00:00",
-     "summary": "LaLiga: Suarez names Barcelona player that surprises him Daily Post Nigeria"
+     "title": "Lionel Messi makes more than all but 3 other MLS teams, records show - The Palm Beach Post",
+     "published": "2026-11-19T22:02:00+00:00",
+     "summary": "Lionel Messi makes more than all but 3 other MLS teams, records show The Palm Beach Post"
     },
     {
      "ref": "gnews_inter_miami#13",
-     "title": "‘On a Personal Level’—Luis Suarez Provides Insight Into Lionel Messi’s Retirement - Sports Illustrated",
-     "published": "2026-11-18T19:00:01+00:00",
-     "summary": "‘On a Personal Level’—Luis Suarez Provides Insight Into Lionel Messi’s Retirement Sports Illustrated"
+     "title": "Lionel Messi still rules the money league! Inter Miami superstar leads MLS salaries as five players break the $10m barrier - Goal.com",
+     "published": "2026-11-19T21:46:01+00:00",
+     "summary": "Lionel Messi still rules the money league! Inter Miami superstar leads MLS salaries as five players break the $10m barrier Goal.com"
     },
     {
      "ref": "gnews_inter_miami#14",
-     "title": "Inter Miami CF Announces Second Edition of Winter Camps - Inter Miami CF",
-     "published": "2026-11-18T18:06:52+00:00",
-     "summary": "Inter Miami CF Announces Second Edition of Winter Camps Inter Miami CF"
+     "title": "Messi Tops MLS Salaries as Five Players Earn Over $10 Million - cwibc.co.id",
+     "published": "2026-11-19T21:42:00+00:00",
+     "summary": "Messi Tops MLS Salaries as Five Players Earn Over $10 Million cwibc.co.id"
     },
     {
      "ref": "gnews_inter_miami#15",
-     "title": "Columbus Crew: Can they upset Inter Miami & Lionel Messi? - MLSsoccer.com",
-     "published": "2026-11-18T18:05:06+00:00",
-     "summary": "Columbus Crew: Can they upset Inter Miami & Lionel Messi? MLSsoccer.com"
+     "title": "Prediction Inter Miami vs Columbus Crew: analysis, odds and betting tips - BetMines",
+     "published": "2026-11-19T21:36:27+00:00",
+     "summary": "Prediction Inter Miami vs Columbus Crew: analysis, odds and betting tips BetMines"
     },
     {
      "ref": "gnews_inter_miami#16",
-     "title": "MLS playoff tiers: Title or bust for Lionel Messi’s Inter Miami as Nashville SC chase the double - Goal.com",
-     "published": "2026-11-18T17:59:15+00:00",
-     "summary": "MLS playoff tiers: Title or bust for Lionel Messi’s Inter Miami as Nashville SC chase the double Goal.com"
+     "title": "Crew Embraces Playoff Challenge against Messi - WSYX",
+     "published": "2026-11-19T21:02:58+00:00",
+     "summary": "Crew Embraces Playoff Challenge against Messi WSYX"
     },
     {
      "ref": "gnews_inter_miami#17",
-     "title": "International Duty Roundup: Recapping the November International Window - Inter Miami CF",
-     "published": "2026-11-18T17:06:52+00:00",
-     "summary": "International Duty Roundup: Recapping the November International Window Inter Miami CF"
+     "title": "How Lionel Messi's 2026 Inter Miami Contract Compared to Payrolls of Entire MLS Teams - Bleacher Report",
+     "published": "2026-11-19T20:17:33+00:00",
+     "summary": "How Lionel Messi's 2026 Inter Miami Contract Compared to Payrolls of Entire MLS Teams Bleacher Report"
     },
     {
      "ref": "gnews_inter_miami#18",
-     "title": "Messi and Inter Miami to begin title defence against Columbus — Channel NewsAsia - UA.NEWS",
-     "published": "2026-11-18T16:22:23+00:00",
-     "summary": "Messi and Inter Miami to begin title defence against Columbus — Channel NewsAsia UA.NEWS"
+     "title": "Messi tops MLS salaries with Lewandowski next - France 24",
+     "published": "2026-11-19T20:06:15+00:00",
+     "summary": "Messi tops MLS salaries with Lewandowski next France 24"
     },
     {
      "ref": "gnews_inter_miami#19",
-     "title": "Soccer-All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups - The Lufkin Daily News",
-     "published": "2026-11-18T16:00:56+00:00",
-     "summary": "Soccer-All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups The Lufkin Daily News"
+     "title": "Miami not the only place MLS stars are following Messi - Sports Talk Florida",
+     "published": "2026-11-19T19:31:52+00:00",
+     "summary": "Miami not the only place MLS stars are following Messi Sports Talk Florida"
     },
     {
      "ref": "gnews_inter_miami#20",
-     "title": "Soccer-All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups - The Daily News | Texas' Oldest Newspaper",
-     "published": "2026-11-18T16:00:56+00:00",
-     "summary": "Soccer-All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups The Daily News | Texas' Oldest Newspaper"
+     "title": "Inter Miami vs Columbus Crew Preview, prediction, injury news & lineups | MLS 2026 Playoffs - Khel Now",
+     "published": "2026-11-19T19:00:00+00:00",
+     "summary": "Inter Miami vs Columbus Crew Preview, prediction, injury news & lineups | MLS 2026 Playoffs Khel Now"
     },
     {
      "ref": "gnews_inter_miami#21",
-     "title": "GTA VI Is Here: Miami Teams Become Vice City - Sofascore",
-     "published": "2026-11-18T14:04:02+00:00",
-     "summary": "GTA VI Is Here: Miami Teams Become Vice City Sofascore"
+     "title": "Lionel Messi’s MLS cup dream faces major test as Inter Miami prepare for playoff showdown - Lente Desportiva",
+     "published": "2026-11-19T19:00:00+00:00",
+     "summary": "Lionel Messi’s MLS cup dream faces major test as Inter Miami prepare for playoff showdown Lente Desportiva"
     },
     {
      "ref": "gnews_inter_miami#22",
-     "title": "Orlando vs. Inter Miami CF - Live Score - April 17, 2027 - FOX Sports",
-     "published": "2026-11-18T00:30:46+00:00",
-     "summary": "Orlando vs. Inter Miami CF - Live Score - April 17, 2027 FOX Sports"
+     "title": "Inter Miami vs. Columbus Crew MLS Betting Odds, Picks: Can Messi and co. solve home struggles? - Sports Interaction",
+     "published": "2026-11-19T18:35:56+00:00",
+     "summary": "Inter Miami vs. Columbus Crew MLS Betting Odds, Picks: Can Messi and co. solve home struggles? Sports Interaction"
     },
     {
      "ref": "gnews_inter_miami#23",
-     "title": "Columbus vs. Inter Miami CF - Live Score - April 21, 2027 - FOX Sports",
-     "published": "2026-11-18T00:17:59+00:00",
-     "summary": "Columbus vs. Inter Miami CF - Live Score - April 21, 2027 FOX Sports"
+     "title": "MLS newcomers Lewandowski, Griezmann, Embolo join Messi, Son among top-paid players - Manistee News Advocate",
+     "published": "2026-11-19T18:24:42+00:00",
+     "summary": "MLS newcomers Lewandowski, Griezmann, Embolo join Messi, Son among top-paid players Manistee News Advocate"
     },
     {
      "ref": "gnews_inter_miami#24",
-     "title": "Inter Miami CF vs. Philadelphia - Live Score - April 24, 2027 - FOX Sports",
-     "published": "2026-11-18T00:17:50+00:00",
-     "summary": "Inter Miami CF vs. Philadelphia - Live Score - April 24, 2027 FOX Sports"
+     "title": "2026 MLS Payroll Rankings: Inter Miami Leads Philadelphia by $46.73 Million - Spotrac",
+     "published": "2026-11-19T18:21:26+00:00",
+     "summary": "2026 MLS Payroll Rankings: Inter Miami Leads Philadelphia by $46.73 Million Spotrac"
     }
    ]
   },
@@ -846,153 +1062,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_israeli_nba#0",
+     "title": "Deni Avdija (foot) out Thursday vs. Bucks - NBC Sports",
+     "published": "2026-11-20T02:21:41+00:00",
+     "summary": "Deni Avdija (foot) out Thursday vs. Bucks NBC Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#1",
+     "title": "Trail Blazers Rule Deni Avdija Out Against Bucks - Peradaban.id",
+     "published": "2026-11-20T01:24:47+00:00",
+     "summary": "Trail Blazers Rule Deni Avdija Out Against Bucks Peradaban.id"
+    },
+    {
+     "ref": "gnews_israeli_nba#2",
+     "title": "Deni Avdija (foot) ruled out Thursday - FantasyPros",
+     "published": "2026-11-20T00:54:00+00:00",
+     "summary": "Deni Avdija (foot) ruled out Thursday FantasyPros"
+    },
+    {
+     "ref": "gnews_israeli_nba#3",
+     "title": "Blazers news: Deni Avdija will miss Bucks game with foot injury - ClutchPoints",
+     "published": "2026-11-20T00:52:00+00:00",
+     "summary": "Blazers news: Deni Avdija will miss Bucks game with foot injury ClutchPoints"
+    },
+    {
+     "ref": "gnews_israeli_nba#4",
+     "title": "Blazers say Deni Avdija is out for tonight’s game @ … - HoopsHype",
+     "published": "2026-11-20T00:35:00+00:00",
+     "summary": "Blazers say Deni Avdija is out for tonight’s game @ … HoopsHype"
+    },
+    {
+     "ref": "gnews_israeli_nba#5",
+     "title": "Portland Trail Blazers Injury Update: Is Deni Avdija Playing Tonight vs. Bucks? - Heavy.com",
+     "published": "2026-11-20T00:26:00+00:00",
+     "summary": "Portland Trail Blazers Injury Update: Is Deni Avdija Playing Tonight vs. Bucks? Heavy.com"
+    },
+    {
+     "ref": "gnews_israeli_nba#6",
+     "title": "Trail Blazers' Deni Avdija: Remains sidelined Thursday - CBS Sports",
+     "published": "2026-11-20T00:21:37+00:00",
+     "summary": "Trail Blazers' Deni Avdija: Remains sidelined Thursday CBS Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#7",
+     "title": "Deni Avdija Injury: Remains sidelined Thursday - RotoWire",
+     "published": "2026-11-20T00:21:37+00:00",
+     "summary": "Deni Avdija Injury: Remains sidelined Thursday RotoWire"
+    },
+    {
+     "ref": "gnews_israeli_nba#8",
+     "title": "Final Injury Report for Trail Blazers-Bucks: Will Deni Avdija, Toumani Camara Play? - Yahoo Sports",
+     "published": "2026-11-19T21:00:00+00:00",
+     "summary": "Final Injury Report for Trail Blazers-Bucks: Will Deni Avdija, Toumani Camara Play? Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#9",
+     "title": "Deni Avdija Injury Update: Is Avdija Playing Tonight vs. Bucks? - PrizePicks",
+     "published": "2026-11-19T18:48:56+00:00",
+     "summary": "Deni Avdija Injury Update: Is Avdija Playing Tonight vs. Bucks? PrizePicks"
+    },
+    {
+     "ref": "gnews_israeli_nba#10",
+     "title": "Is Deni Avdija playing tonight? Blazers vs. Bucks injury report - Yahoo Sports",
+     "published": "2026-11-19T16:04:28+00:00",
+     "summary": "Is Deni Avdija playing tonight? Blazers vs. Bucks injury report Yahoo Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#11",
+     "title": "Nets' Ben Saraf: Recalled by Brooklyn - CBS Sports",
+     "published": "2026-11-19T15:55:38+00:00",
+     "summary": "Nets' Ben Saraf: Recalled by Brooklyn CBS Sports"
+    },
+    {
+     "ref": "gnews_israeli_nba#12",
+     "title": "Ben Saraf News: Recalled by Brooklyn - RotoWire",
+     "published": "2026-11-19T15:55:38+00:00",
+     "summary": "Ben Saraf News: Recalled by Brooklyn RotoWire"
+    },
+    {
+     "ref": "gnews_israeli_nba#13",
+     "title": "Best NBA Prop Bets Today (Predictions for Karl-Anthony Towns, Stephon Castle, Deni Avdija, Warriors Guard) - Sports Illustrated",
+     "published": "2026-11-19T13:53:58+00:00",
+     "summary": "Best NBA Prop Bets Today (Predictions for Karl-Anthony Towns, Stephon Castle, Deni Avdija, Warriors Guard) Sports Illustrated"
+    },
+    {
+     "ref": "gnews_israeli_nba#14",
+     "title": "Is Deni Avdija Playing Tonight? (Injury Update, Betting Impact for Blazers vs. Bucks) - Sports Illustrated",
+     "published": "2026-11-19T13:27:01+00:00",
+     "summary": "Is Deni Avdija Playing Tonight? (Injury Update, Betting Impact for Blazers vs. Bucks) Sports Illustrated"
+    },
+    {
+     "ref": "gnews_israeli_nba#15",
+     "title": "Ben Saraf leads Long Island Nets to 123-112 revenge win over Delaware - NetsDaily",
+     "published": "2026-11-19T12:40:58+00:00",
+     "summary": "Ben Saraf leads Long Island Nets to 123-112 revenge win over Delaware NetsDaily"
+    },
+    {
+     "ref": "gnews_israeli_nba#16",
      "title": "Deni Avdija Headlines Today’s NBA Injury Report: Thursday, 11/19/26 - DraftKings Network",
      "published": "2026-11-19T04:15:00+00:00",
      "summary": "Deni Avdija Headlines Today’s NBA Injury Report: Thursday, 11/19/26 DraftKings Network"
     },
     {
-     "ref": "gnews_israeli_nba#1",
+     "ref": "gnews_israeli_nba#17",
      "title": "Deni Avdija (foot) questionable Thursday vs. MIL - NBC Sports",
      "published": "2026-11-19T03:47:04+00:00",
      "summary": "Deni Avdija (foot) questionable Thursday vs. MIL NBC Sports"
     },
     {
-     "ref": "gnews_israeli_nba#2",
+     "ref": "gnews_israeli_nba#18",
      "title": "Deni Avdija (foot) listed questionable Thursday - FantasyPros",
      "published": "2026-11-18T23:02:09+00:00",
      "summary": "Deni Avdija (foot) listed questionable Thursday FantasyPros"
     },
     {
-     "ref": "gnews_israeli_nba#3",
-     "title": "Why Deni Avdija, Toumani Camara Might Not Play in Blazers vs. Bucks - Yahoo Sports",
+     "ref": "gnews_israeli_nba#19",
+     "title": "Why Deni Avdija, Toumani Camara Might Not Play in Blazers vs. Bucks - Sports Illustrated",
      "published": "2026-11-18T22:56:26+00:00",
-     "summary": "Why Deni Avdija, Toumani Camara Might Not Play in Blazers vs. Bucks Yahoo Sports"
+     "summary": "Why Deni Avdija, Toumani Camara Might Not Play in Blazers vs. Bucks Sports Illustrated"
     },
     {
-     "ref": "gnews_israeli_nba#4",
+     "ref": "gnews_israeli_nba#20",
      "title": "Trail Blazers' Deni Avdija: Questionable versus Bucks - CBS Sports",
      "published": "2026-11-18T22:54:45+00:00",
      "summary": "Trail Blazers' Deni Avdija: Questionable versus Bucks CBS Sports"
     },
     {
-     "ref": "gnews_israeli_nba#5",
+     "ref": "gnews_israeli_nba#21",
      "title": "Deni Avdija Injury: Questionable versus Bucks - RotoWire",
      "published": "2026-11-18T22:54:45+00:00",
      "summary": "Deni Avdija Injury: Questionable versus Bucks RotoWire"
     },
     {
-     "ref": "gnews_israeli_nba#6",
+     "ref": "gnews_israeli_nba#22",
      "title": "Wizards continue to be proven wrong for trading away Deni Avdija - Wiz of Awes",
      "published": "2026-11-18T11:00:00+00:00",
      "summary": "Wizards continue to be proven wrong for trading away Deni Avdija Wiz of Awes"
     },
     {
-     "ref": "gnews_israeli_nba#7",
-     "title": "Deni Avdija (foot) downgraded to out Tuesday - NBC Sports",
-     "published": "2026-11-18T05:39:59+00:00",
-     "summary": "Deni Avdija (foot) downgraded to out Tuesday NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#8",
-     "title": "Deni Avdija scores team-high 27 points in loss - NBC Sports",
-     "published": "2026-11-18T03:50:57+00:00",
-     "summary": "Deni Avdija scores team-high 27 points in loss NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#9",
-     "title": "Deni Avdija (foot) questionable Tuesday vs. MIN - NBC Sports",
-     "published": "2026-11-18T03:50:57+00:00",
-     "summary": "Deni Avdija (foot) questionable Tuesday vs. MIN NBC Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#10",
-     "title": "Deni Avdija out against Wolves - HoopsHype",
-     "published": "2026-11-18T02:04:00+00:00",
-     "summary": "Deni Avdija out against Wolves HoopsHype"
-    },
-    {
-     "ref": "gnews_israeli_nba#11",
-     "title": "Trail Blazers rule star Deni Avdija out vs. Timberwolves with sore foot - ESPN",
-     "published": "2026-11-18T00:55:00+00:00",
-     "summary": "Trail Blazers rule star Deni Avdija out vs. Timberwolves with sore foot ESPN"
-    },
-    {
-     "ref": "gnews_israeli_nba#12",
-     "title": "Blazers announce brutal Deni Avdija final injury status vs. Timberwolves - BasketNews.com",
-     "published": "2026-11-18T00:32:00+00:00",
-     "summary": "Blazers announce brutal Deni Avdija final injury status vs. Timberwolves BasketNews.com"
-    },
-    {
-     "ref": "gnews_israeli_nba#13",
-     "title": "Portland Trail Blazers Announce Deni Avdija Injury News Before Timberwolves Game - Yahoo Sports",
-     "published": "2026-11-18T00:29:29+00:00",
-     "summary": "Portland Trail Blazers Announce Deni Avdija Injury News Before Timberwolves Game Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#14",
-     "title": "Trail Blazers' Deni Avdija: Ruled out Tuesday - CBS Sports",
-     "published": "2026-11-18T00:28:32+00:00",
-     "summary": "Trail Blazers' Deni Avdija: Ruled out Tuesday CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#15",
-     "title": "Deni Avdija Injury: Ruled out Tuesday - RotoWire",
-     "published": "2026-11-18T00:28:32+00:00",
-     "summary": "Deni Avdija Injury: Ruled out Tuesday RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#16",
-     "title": "Final Injury Report for Trail Blazers-Timberwolves: Will Deni Avdija, Jonathan Kuminga Play? - Yahoo Sports",
-     "published": "2026-11-17T21:00:00+00:00",
-     "summary": "Final Injury Report for Trail Blazers-Timberwolves: Will Deni Avdija, Jonathan Kuminga Play? Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#17",
-     "title": "Damian Lillard’s search for the right co-star has finally ended with Deni Avdija - Rip City Project",
-     "published": "2026-11-17T19:27:35+00:00",
-     "summary": "Damian Lillard’s search for the right co-star has finally ended with Deni Avdija Rip City Project"
-    },
-    {
-     "ref": "gnews_israeli_nba#18",
-     "title": "Deni Avdija (foot) listed questionable Tuesday - FantasyPros",
-     "published": "2026-11-17T19:24:00+00:00",
-     "summary": "Deni Avdija (foot) listed questionable Tuesday FantasyPros"
-    },
-    {
-     "ref": "gnews_israeli_nba#19",
-     "title": "Deni Avdija may miss Tuesday's game against Timberwolves - Yahoo Sports",
-     "published": "2026-11-17T19:20:59+00:00",
-     "summary": "Deni Avdija may miss Tuesday's game against Timberwolves Yahoo Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#20",
-     "title": "Trail Blazers' Deni Avdija: Listed as questionable - CBS Sports",
-     "published": "2026-11-17T19:20:07+00:00",
-     "summary": "Trail Blazers' Deni Avdija: Listed as questionable CBS Sports"
-    },
-    {
-     "ref": "gnews_israeli_nba#21",
-     "title": "Deni Avdija Injury: Listed as questionable - RotoWire",
-     "published": "2026-11-17T19:20:07+00:00",
-     "summary": "Deni Avdija Injury: Listed as questionable RotoWire"
-    },
-    {
-     "ref": "gnews_israeli_nba#22",
-     "title": "Ben Saraf News: Diverse effort against Delaware - RotoWire",
-     "published": "2026-11-17T18:22:35+00:00",
-     "summary": "Ben Saraf News: Diverse effort against Delaware RotoWire"
-    },
-    {
      "ref": "gnews_israeli_nba#23",
-     "title": "Deni Avdija Fantasy Outlook & Stats - FantasySP",
-     "published": "2026-11-17T16:30:57+00:00",
-     "summary": "Deni Avdija Fantasy Outlook & Stats FantasySP"
+     "title": "Trail Blazers rule out Deni Avdija for Tuesday's game against Timberwolves - qz.com",
+     "published": "2026-11-18T08:00:00+00:00",
+     "summary": "Trail Blazers rule out Deni Avdija for Tuesday's game against Timberwolves qz.com"
     },
     {
      "ref": "gnews_israeli_nba#24",
-     "title": "Deni Avdija drops 27 points Monday - FantasyPros",
-     "published": "2026-11-17T15:41:17+00:00",
-     "summary": "Deni Avdija drops 27 points Monday FantasyPros"
+     "title": "Deni Avdija (foot) downgraded to out Tuesday - NBC Sports",
+     "published": "2026-11-18T05:39:59+00:00",
+     "summary": "Deni Avdija (foot) downgraded to out Tuesday NBC Sports"
     }
    ]
   }
