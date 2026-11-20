@@ -44,8 +44,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "aeon#2",
      "title": "Dreams of birds",
      "published": "2026-11-18T11:01:00+00:00",
-     "summary": "When bird populations decline, certain songs may be lost forever. One physicist’s mission is to revive lost melodies - by Aeon Video Watch on Aeon",
-     "full_text_file": "essays/aeon_2.txt"
+     "summary": "When bird populations decline, certain songs may be lost forever. One physicist’s mission is to revive lost melodies - by Aeon Video Watch on Aeon"
     },
     {
      "ref": "aeon#3",
@@ -146,90 +145,91 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Phonics-based Instruction and Student Achievement",
+     "published": "2026-11-20T08:00:04+00:00",
+     "summary": "That is a new NBER working paper by Alex Hollingsworth, Alberto Ortega & Nikolaos Zirogiannis. Abstract: Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How best to teach reading and improve educational attainment has been an active policy debate for decades. Recently, phonics-based approaches […] The post Phonics-based Instruction and Stu",
+     "full_text_file": "essays/marginal_revolution_0.txt"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "AIs vs. humans in economics papers",
+     "published": "2026-11-20T05:53:10+00:00",
+     "summary": "Is agentic research any good? Dr Yanagizawa-Drott and his colleague, Olaf Willner, used an AI verifier to check 1,000 APE papers. None was error-free; 842 contained at least one severe error, including ones invalidating headline results. To see roughly how Ape stacks up against human primates, The Economist teamed up with Refine, the research-verification firm […] The post AIs vs. humans in econom",
+     "full_text_file": "essays/marginal_revolution_1.txt"
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "Thursday assorted links",
      "published": "2026-11-19T17:16:30+00:00",
      "summary": "1. How to turn AI-written maths into a video. 2. Honeypot markets in everything? 3. Traveling a lot without going on planes (WSJ). 4. American audiovisual exports have plunged in terms of global share (I think that is fine and arguably good, by the way). 5. “There’s been a 30 year debate between cyber revolutionaries and […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "The Anthropic IPO",
      "published": "2026-11-19T06:40:05+00:00",
      "summary": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might […] The post The Anthropic IPO appeared first on Marginal REVOLUTION .",
-     "full_text_file": "essays/marginal_revolution_1.txt"
+     "full_text_file": "essays/marginal_revolution_3.txt"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Will Baird, book maven (from my email)",
      "published": "2026-11-19T06:02:15+00:00",
      "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, […] The post Will Baird, book maven (from my em",
-     "full_text_file": "essays/marginal_revolution_2.txt"
+     "full_text_file": "essays/marginal_revolution_4.txt"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "UK productivity update",
      "published": "2026-11-18T18:53:56+00:00",
      "summary": "Output per hour worked increased by 2.5% in Quarter 3 (July to Sept) 2026 compared with the same quarter a year ago, reflecting a 2.0% increase in GVA and a 0.5% decrease in hours worked. Output per worker increased by 2.0% in Quarter 3 2026 compared with the same quarter a year ago. This was […] The post UK productivity update appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "The economics of investment expensing",
      "published": "2026-11-18T18:17:04+00:00",
      "summary": "In July 2025, the One Big Beautiful Bill Act made 100% equipment expensing permanent after two decades of temporary bonus depreciation. I evaluate this reform in a general-equilibrium heterogeneous-firm model with collateral constraints and nonrefundable tax deductions. When matched to U.S. tax-return and Compustat moments, the model yields three findings. First, permanent expensing raises long-ru"
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "Wednesday assorted links",
      "published": "2026-11-18T16:41:46+00:00",
      "summary": "1. Chinese AI companies way down in value. 2. Allison Schrager is starting a podcast with Ken Rogoff. 3. Extensive survey of students on AI. 4. Robert Lynch on lookism. 5. New version of Claude Blattman. 6. Seb Krier on the Christiano interview. The whole dialogue over this interview is a good example of why […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Was Achilles Conscious?",
      "published": "2026-11-18T12:18:00+00:00",
-     "summary": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued that intelligent behavior preceded introspective consciousness. People could speak, learn, farm, build cities, and solve problems without mentally representing […] The post Was Achille",
-     "full_text_file": "essays/marginal_revolution_6.txt"
+     "summary": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued that intelligent behavior preceded introspective consciousness. People could speak, learn, farm, build cities, and solve problems without mentally representing […] The post Was Achille"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "Me on the cyberattacks",
      "published": "2026-11-18T06:10:57+00:00",
      "summary": "Tyler Cowen: Don’t Be Fooled By Randomness The problems are serious, but the sky is not falling in. When it comes to the recent service outages, keep a few points in mind. First, cyber risk is considerably higher than it used to be. Due to progress in AI systems, cyber offense has outraced cyber defense. […] The post Me on the cyberattacks appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "The Kalshi market on U.S. productivity growth",
      "published": "2026-11-17T20:34:15+00:00",
      "summary": "It is coming in at 2.2%, people. That is for over the next five years. tys…though even I think it will be a bit higher than that. Yes the liquidity is tiny, but that is endogenous to the reality that huge profits are not to be made there. You are free to trade yourself of […] The post The Kalshi market on U.S. productivity growth appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "What should I ask Alexander Mikaberidze?",
      "published": "2026-11-17T19:17:25+00:00",
      "summary": "He is the author and the new and excellent The Louisiana Purchase: The Grand Bargain and the Making of America. He also wrote The Napoleonic Wars: A Global History, one of my favorite history books. He has extensive other writings on the history of the Russian military during that same period. From Wikipedia: Alexander Mikaberidze […] The post What should I ask Alexander Mikaberidze? appeared firs"
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Alex Imas and I podcast on the economics of AI",
      "published": "2026-11-17T16:53:31+00:00",
      "summary": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE The post Alex Imas and I podcast on the economics of AI appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#11",
+     "ref": "marginal_revolution#13",
      "title": "Tuesday assorted links",
      "published": "2026-11-17T13:46:49+00:00",
      "summary": "1. Luka has become a very good player. Defense is much better too. 2. No comment. 3. Did England bribe Scotland into political union? 4. Survey article on the economics of mental health, one of the most important and understudied areas. 5. Science isn’t just a series of lucky accidents. 6. Kalshi five-year productivity growth […] The post Tuesday assorted links appeared first on Marginal REVOLUTIO"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "Adlerlicht, reporting on crime in Germany",
-     "published": "2026-11-17T07:12:17+00:00",
-     "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here. The post Adlerlicht, reporting on crime in Germany appeared first on Marginal REVOLUTION ."
-    },
-    {
-     "ref": "marginal_revolution#13",
-     "title": "The economics of Jensen Huang",
-     "published": "2026-11-17T05:44:15+00:00",
-     "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever […] The post The economics of Jensen Huang appeared first on Margi"
     }
    ]
   },
@@ -275,15 +275,15 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
     },
     {
      "ref": "psyche#6",
-     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-     "published": "2026-11-12T11:00:00+00:00",
-     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
-    },
-    {
-     "ref": "psyche#7",
      "title": "Eye on the mark",
      "published": "2026-11-12T11:00:00+00:00",
      "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
+    },
+    {
+     "ref": "psyche#7",
+     "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+     "published": "2026-11-12T11:00:00+00:00",
+     "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
     },
     {
      "ref": "psyche#8",

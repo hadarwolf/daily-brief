@@ -141,80 +141,140 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    ]
   },
   {
+   "outlet": "Geektime (Israeli tech)",
+   "lang": "he",
+   "items": [
+    {
+     "ref": "geektime#0",
+     "title": "כמה אתם מוכנים לשלם כדי להפסיק לאסוף קקי של חתולים?",
+     "published": "2026-11-20T08:45:30+00:00",
+     "summary": "יש לי שלושה חתולים. היו גם ארבעה, אבל אחת הוכיחה שתשע נשמות זו אגדה אורבנית ועברה לצרוך אוכל היפואלרגני בשמיים. אבל אם אני שם רגע בצד את ענייני הלוגיסטיקה והעלות של אוכל ל-3 חתולים, הבעיה האמיתית שלי היא העובדה שיש הרבה מאוד קקי ופיפי שלהם לנקות. כדי לצמצם את המפגע הריחני, אפילו הפקעתי את מרפסת […] The post כמה אתם מוכנים לשלם כדי להפסיק לאסוף קקי של חתולים? appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#1",
+     "title": "ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר",
+     "published": "2026-11-19T19:08:24+00:00",
+     "summary": "לפני קצת פחות מ-6 שנים הוקמה Anthropic על ידי שבעה מייסדים, בהם האחים דניאלה ודריו אמודיי, שעזבו בטריקת דלת את OpenAI, והיום (ה') היא הופכת לחברה ציבורית בהנפקה הכי גדולה בהיסטוריה, וחוצה אף את שווי השוק של 2 טריליון דולר. לא הפסיקו לגייס המפתחת של מודלי קלוד וקלוד קוד החלה להיסחר היום בנאסד\"ק תחת הסימול […] The post ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר appeared first on "
+    },
+    {
+     "ref": "geektime#2",
+     "title": "הפשע המושלם: שילמו לי כדי לשחק GTA 6 וזה מה שחשבתי עליו",
+     "published": "2026-11-19T15:25:01+00:00",
+     "summary": "אני חושב שעשיתי היום את הפשע המושלם. לא, אני לא מדבר על משימה ב-GTA 6. אני מדבר על הפשע המושלם שבמסגרתו קמתי היום בבוקר, הפעלתי את ה-PlayStation 5 והתחלתי לשחק ב-GTA 6 – וקיבלתי על זה משכורת. כן, זה אחד הימים האלה שבהם אני לא מאמין שזו העבודה שלי, אבל מישהו צריך לעשות את העבודה […] The post הפשע המושלם: שילמו לי כדי לשחק GTA 6 וזה מה שחשבתי עליו appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#3",
+     "title": "מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר",
+     "published": "2026-11-19T09:35:10+00:00",
+     "summary": "בחודש אוקטובר האחרון, מיקרוסופט הטילה פצצה בעולם הטכנולוגיה כשהציעה ל-60 אלף עובדים – כמעט 30% מסך העובדים בחברה – להתפטר במסגרת של חבילות פרישה מרצון. על פניו זה הריח כמו גל פיטורים שקט, כמעט מנומס של החברה, אבל עכשיו המנכ\"ל סאטיה נאדלה מסביר את המהלך. אמ;לק: זה ה-AI, אבל לא בקטע של \"הרובוטים מחליפים אותנו\", […] The post מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר appeared first on גיקט"
+    },
+    {
+     "ref": "geektime#4",
+     "title": "בפעם השנייה השנה: Tipalti מפטרת עשרות עובדים בישראל",
+     "published": "2026-11-19T08:43:54+00:00",
+     "summary": "סבב קיצוצים נוסף בחברת הפינטק הישראלית Tipalti: במסגרת המהלך צפויה החברה לקצץ קרוב ל-25% מכוח האדם שלה בעולם, כשעשרות עובדים בישראל צפויים לסיים את תפקידם. כיום מעסיקה החברה כ-900 עובדים בעולם וכ-300 מתוכם בישראל. סבב הפיטורים הזה הוא הרביעי של החברה בשנים האחרונות והשני ב-2026. מגמת הקיצוצים החלה ב-2023, אז נפרדה החברה מ-123 עובדים – […] The post בפעם השנייה השנה: Tipalti מפטרת עשרות עובדים בישרא"
+    },
+    {
+     "ref": "geektime#5",
+     "title": "גוגל מביאה את מצב האינקוגניטו לחיפוש ה-AI שלה",
+     "published": "2026-11-19T07:54:31+00:00",
+     "summary": "רוצים לשאול את גוגל משהו אישי או סתם לחפש מידע בלי שהוא ירדוף אחריכם לכל מקום ברשת? עד עכשיו ה-AI של גוגל לא ממש אפשר לכם לעשות את זה, אבל פיצ'ר חדש מנסה להביא את מצב ה-Incognito המוכר (גם אם שנוי במחלוקת) גם לחיפוש ה-AI שלה. האם עכשיו באמת תוכלו לחפש בלי להשאיר עקבות? […] The post גוגל מביאה את מצב האינקוגניטו לחיפוש ה-AI שלה appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#6",
+     "title": "הממשלה מקדמת \"ארגז חול\" לסטארטאפים, אבל שכחה 4 דברים בדרך",
+     "published": "2026-11-18T14:08:52+00:00",
+     "summary": "תחשבו על יזמת שפיתחה מערכת AI שמנתחת אולטרסאונד שאישה בהיריון עושה בבית. או על שלושה מהנדסים שבנו רמזור שמחליט לבד מתי להתחלף לפי מצב התנועה. או על סטארטאפ שרוצה לנסות הסעות משותפות בתשלום ברכב פרטי. לכולם יש אותה בעיה: המוצר עובד, אבל החוק לא מאפשר לנסות אותו. לא כי מישהו קבע שזה מסוכן, אלא כי […] The post הממשלה מקדמת \"ארגז חול\" לסטארטאפים, אבל שכחה 4 דברים בדרך appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#7",
+     "title": "\"זה מקצוע חדש בפני עצמו\": יוצאי 8200 גייסו 11 מיליון דולר",
+     "published": "2026-11-18T13:00:54+00:00",
+     "summary": "\"AI Security היא לא בעיית אבטחה ישנה שעברה לדומיין חדש. זה מקצוע חדש בפני עצמו\", אומר בשיחה עם גיקטיים אלעד טסלר – מנכ\"ל ומייסד של הסטארטאפ Vero Security. לדבריו, ה-AI משנה את הדרך שבה תוכנה נבנית, פועלת ומתקשרת עם מערכות אחרות, וכל תעשיית התוכנה ממציאה את עצמה מחדש סביבו. ובגלל כל השינויים הללו, צוותי אבטחה […] The post \"זה מקצוע חדש בפני עצמו\": יוצאי 8200 גייסו 11 מיליון דולר appeared first on ג"
+    },
+    {
+     "ref": "geektime#8",
+     "title": "הביקורות הראשונות של GTA 6 התפרסמו: הנה מה שחושבים המבקרים",
+     "published": "2026-11-18T12:33:10+00:00",
+     "summary": "לפני זמן קצר זה קרה. השעון הראה חצות בניו זילנד, והמדינה הראשונה בעולם החלה לשחק במשחק המצופה ביותר של העשור האחרון, Grand Theft Auto VI. בעוד שעות ספורות גם הישראלים יצטרפו לחגיגה (בלילה שבין רביעי לחמישי), אבל אם אתם לא יכולים להתאפק, הביקורות הראשונות למשחק כבר שוחררו. אמ;לק: נראה שההמתנה השתלמה. הוושינגטון פוסט: \"המגנום אופוס […] The post הביקורות הראשונות של GTA 6 התפרסמו: הנה מה שחושבים המבק"
+    },
+    {
+     "ref": "geektime#9",
+     "title": "הנה שיטה קלה לבדוק אם אתם משלמים יותר מדי על ג'ירה, קונפלואנס ושות'",
+     "published": "2026-11-18T11:39:41+00:00",
+     "summary": "מאת נעמה ויסבורט בטח גם אצלכם זה קרה: הארגון רכש עוד מערכת יקרה שאמורה לייעל את עבודת הצוות, אבל היא הפכה למפלצת של Workflows מורכבים ושדות חובה אינסופיים – והיום לאף אחד אין מושג מה השתפר בפועל וכמה זה שווה. ארגונים משקיעים המון כסף בכלי AI כדי לעבוד מהר וחכם יותר. בעולם שבו מערכות כגון […] The post הנה שיטה קלה לבדוק אם אתם משלמים יותר מדי על ג'ירה, קונפלואנס ושות' appeared first on גיקטיים ."
+    }
+   ]
+  },
+  {
    "outlet": "Hacker News (150+ points)",
    "lang": "en",
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-     "published": "2026-11-19T23:35:35+00:00",
-     "summary": "Article URL: https://git-aarvin.github.io/mei/ Comments URL: https://news.ycombinator.com/item?id=50568130 Points: 212 # Comments: 126"
+     "title": "PostgreSQL 19",
+     "published": "2026-11-20T03:45:45+00:00",
+     "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 175 # Comments: 7"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-     "published": "2026-11-19T18:35:17+00:00",
-     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 223 # Comments: 120"
+     "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+     "published": "2026-11-20T02:01:09+00:00",
+     "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 233 # Comments: 174"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Claude solves two open problems in the physics of black holes",
-     "published": "2026-11-19T17:30:44+00:00",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 419 # Comments: 188"
+     "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+     "published": "2026-11-19T18:35:17+00:00",
+     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 284 # Comments: 146"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Pancreatic cancer halted by virus injection in three patients",
-     "published": "2026-11-19T17:25:33+00:00",
-     "summary": "https://archive.ph/2Et0x Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 643 # Comments: 101"
+     "title": "Claude solves two open problems in the physics of black holes",
+     "published": "2026-11-19T17:30:44+00:00",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 495 # Comments: 230"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "Anthropic’s Nasdaq debut",
-     "published": "2026-11-19T17:02:40+00:00",
-     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 980 # Comments: 1907"
+     "title": "Pancreatic cancer halted by virus injection in three patients",
+     "published": "2026-11-19T17:25:33+00:00",
+     "summary": "https://archive.ph/2Et0x https://clinicaltrials.gov/study/NCT06693986 Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 773 # Comments: 132"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "UK government forced to admit it issued Apple a secret encryption order",
-     "published": "2026-11-19T16:21:03+00:00",
-     "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 548 # Comments: 247"
+     "title": "Anthropic’s Nasdaq debut",
+     "published": "2026-11-19T17:02:40+00:00",
+     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 1078 # Comments: 2130"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-     "published": "2026-11-19T15:38:32+00:00",
-     "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 197 # Comments: 94"
+     "title": "UK government forced to admit it issued Apple a secret encryption order",
+     "published": "2026-11-19T16:21:03+00:00",
+     "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 647 # Comments: 292"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-     "published": "2026-11-19T13:18:11+00:00",
-     "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 259 # Comments: 57"
+     "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+     "published": "2026-11-19T15:38:32+00:00",
+     "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 224 # Comments: 102"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Someone reported java4shell bug in September 2026",
-     "published": "2026-11-19T11:47:03+00:00",
-     "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 387 # Comments: 103"
+     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+     "published": "2026-11-19T15:38:12+00:00",
+     "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 243 # Comments: 218"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "How the European Commission rolled out Matrix to more than 40k staff",
-     "published": "2026-11-19T10:58:29+00:00",
-     "summary": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 672 # Comments: 327"
+     "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+     "published": "2026-11-19T13:18:11+00:00",
+     "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 302 # Comments: 61"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Do not buy RAM, compress",
-     "published": "2026-11-19T08:56:47+00:00",
-     "summary": "Article URL: https://curiousbits.nl/blog/do-not-buy-ram-compress/ Comments URL: https://news.ycombinator.com/item?id=50557661 Points: 267 # Comments: 215"
-    },
-    {
-     "ref": "hn_frontpage#11",
-     "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-     "published": "2026-11-18T14:56:04+00:00",
-     "summary": "Article URL: https://www.youtube.com/watch?v=-TLCGUpoD6c Comments URL: https://news.ycombinator.com/item?id=50547048 Points: 264 # Comments: 105"
+     "title": "Someone reported java4shell bug in September 2026",
+     "published": "2026-11-19T11:47:03+00:00",
+     "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 426 # Comments: 116"
     }
    ]
   },
@@ -413,12 +473,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
      "published": "2026-11-17T16:48:33+00:00",
      "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to brow"
-    },
-    {
-     "ref": "simon_willison#9",
-     "title": "Quoting Go Proverbs",
-     "published": "2026-11-17T06:16:26+00:00",
-     "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming"
     }
    ]
   },
