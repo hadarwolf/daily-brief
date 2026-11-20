@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-20",
+  "questions": [
+    {
+      "id": "quiz-sports-arsenal-women-lyon",
+      "section": "sports",
+      "story_id": "arsenal-top-table-women-fall-to-lyon",
+      "answer_index": 1,
+      "en": {
+        "question": "Arsenal's men stayed top of the Premier League this week. What happened to Arsenal's women's team in the Champions League?",
+        "options": [
+          "They were eliminated from the Champions League entirely",
+          "They lost 2-0 to Lyon, a result described as exposing the gap with Europe's elite",
+          "They beat Lyon comfortably, extending an unbeaten run in Europe",
+          "They drew with Lyon and secured qualification to the next round"
+        ],
+        "explanation": "Arsenal's women, the reigning Women's Champions League holders, lost 2-0 to Lyon, a result BBC Sport and ESPN described as a reality check exposing the gap with Europe's elite."
+      },
+      "he": {
+        "question": "קבוצת הגברים של ארסנל נשארה בפסגת הפרמייר ליג השבוע. מה קרה לקבוצת הנשים של ארסנל בליגת האלופות?",
+        "options": [
+          "הן הודחו מליגת האלופות באופן מוחלט",
+          "הן הפסידו 2-0 לליון, תוצאה שתוארה כחושפת את הפער מול עילית אירופה",
+          "הן ניצחו את ליון בנוחות והאריכו רצף ללא הפסד באירופה",
+          "הן סיימו בשוויון עם ליון והבטיחו מעבר לשלב הבא"
+        ],
+        "explanation": "הנבחרת הנשית של ארסנל, המחזיקה בתואר האלופה האירופית, הפסידה 2-0 לליון, תוצאה שתוארה כ'קריאת השכמה' וכחושפת את הפער מול עילית הכדורגל הנשי באירופה."
+      }
+    },
+    {
+      "id": "quiz-tech-uk-apple-encryption",
+      "section": "tech",
+      "story_id": "uk-apple-encryption-order",
+      "answer_index": 0,
+      "en": {
+        "question": "According to this week's story about a secret UK order, what did Apple do in 2025 when UK authorities demanded backdoor access to iCloud backups?",
+        "options": [
+          "Apple withdrew its strongest encryption option, Advanced Data Protection, for UK users rather than build a backdoor",
+          "Apple challenged the order in court and won the right to refuse",
+          "Apple built the backdoor the UK requested but kept it confidential",
+          "Apple shut down iCloud services in the UK entirely"
+        ],
+        "explanation": "Rather than build a backdoor into its encryption, Apple withdrew Advanced Data Protection, its strongest end-to-end encryption tier, from the UK market entirely."
+      },
+      "he": {
+        "question": "לפי הסיפור השבוע על הוראה בריטית חסויה, מה עשתה אפל ב-2025 כשרשויות בריטניה דרשו גישת דלת אחורית לגיבויי iCloud?",
+        "options": [
+          "אפל הסירה את אפשרות ההצפנה החזקה ביותר שלה, Advanced Data Protection, ממשתמשים בבריטניה במקום לבנות דלת אחורית",
+          "אפל עתרה לבית משפט וזכתה בזכות לסרב להוראה",
+          "אפל בנתה את הדלת האחורית שבריטניה דרשה אך שמרה על כך בחיסוי",
+          "אפל סגרה את שירותי iCloud בבריטניה לחלוטין"
+        ],
+        "explanation": "במקום לבנות דלת אחורית להצפנה, אפל הסירה לחלוטין את שכבת ההצפנה המקצה-לקצה החזקה ביותר שלה, Advanced Data Protection, מהשוק הבריטי."
+      }
+    },
+    {
+      "id": "quiz-business-anthropic-ipo",
+      "section": "business",
+      "story_id": "anthropic-ipo-mechanics",
+      "answer_index": 0,
+      "en": {
+        "question": "Anthropic's stock jumped 17% on its Nasdaq debut while the Nasdaq Composite fell and Nvidia and AMD slid further. What explains this pattern?",
+        "options": [
+          "Investors sold other AI stocks to fund purchases of Anthropic shares, a form of capital rotation",
+          "Anthropic reported quarterly earnings that beat expectations while competitors missed theirs",
+          "A technical glitch in Nasdaq's trading system caused unrelated price swings",
+          "Fresh money flooded into the stock market overall, lifting Anthropic more than other stocks"
+        ],
+        "explanation": "The Wall Street Journal described investors as 'dumping AI stocks to buy into Anthropic' -- capital rotation, where money moves between assets in the same sector rather than new cash entering the market."
+      },
+      "he": {
+        "question": "מניית אנתרופיק זינקה ב-17% ביום ההנפקה שלה, בזמן שמדד נאסד\"ק המורכב ירד ומניות אנבידיה ו-AMD נחלשו עוד יותר. מה מסביר את הדפוס הזה?",
+        "options": [
+          "משקיעים מכרו מניות AI אחרות כדי לממן רכישת מניות אנתרופיק - סוג של רוטציית הון",
+          "אנתרופיק פרסמה דוח רבעוני שהכה את התחזיות בזמן שמתחרותיה החמיצו את שלהן",
+          "תקלה טכנית במערכת המסחר של נאסד\"ק גרמה לתנודות מחיר לא קשורות",
+          "כסף טרי זרם לשוק המניות בכללותו והרים את אנתרופיק יותר ממניות אחרות"
+        ],
+        "explanation": "ה-Wall Street Journal תיאר זאת כמשקיעים ש\"זרקו מניות AI כדי לקנות את אנתרופיק\" - רוטציית הון, שבה כסף זז בין נכסים באותו הסקטור ולא כסף חדש שנכנס לשוק."
+      }
+    }
+  ]
+}

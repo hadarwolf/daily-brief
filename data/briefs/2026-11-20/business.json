@@ -1,0 +1,151 @@
+{
+  "section": "business",
+  "date": "2026-11-20",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-20T03:59:27+00:00",
+  "stories": [
+    {
+      "id": "anthropic-ipo-mechanics",
+      "kind": "analysis",
+      "en": {
+        "headline": "Anthropic's IPO Pop Shows How a Wall Street Debut Really Works",
+        "scroll": "Anthropic's shares popped 17% on its $81 billion IPO debut, a deliberately underpriced rally that rewarded big investors while pulling money out of other AI stocks.",
+        "coffee": "Anthropic listed on Nasdaq on November 19 in what outlets called the largest IPO in history. Shares jumped 17% to about $97, valuing the AI lab at roughly $1.75 trillion, after an $81 billion raise that drew \"unprecedented\" demand -- the Australian tranche alone was about 10 times oversubscribed. Thousands of employees became millionaires overnight, and several co-founders ended up holding stakes worth roughly $20 billion each.\n\nThe twist: on the same day, the Nasdaq Composite fell 2.3% and chip giants Nvidia and AMD slid further, as the Wall Street Journal put it, because investors were \"dumping AI stocks to buy into Anthropic.\" That is not a coincidence -- it is how underpriced, oversubscribed IPOs work. Banks set the price low on purpose to guarantee a pop and keep institutional investors happy for future deals, and the money funding that pop often comes from selling other holdings in the same sector rather than from new cash entering the market.\n\nWorth watching: the dollar notched a fourth straight weekly gain on IPO-linked demand, and today's paper wealth is still locked up -- it isn't tradable until standard post-IPO lock-up restrictions lift.",
+        "deep": "## What happened\n\nAnthropic PBC listed on Nasdaq under the ticker ANT on November 19, in what multiple outlets called the largest IPO in history. The stock jumped 17% on its first day of trading, closing around $97 a share -- a price that valued the AI lab, led by CEO Dario Amodei, at roughly $1.75 trillion. The offering itself raised $81 billion for the company, and demand was described as unprecedented from both retail and institutional buyers. In Australia alone, the order book was about 10 times oversubscribed. The listing instantly created a wave of new wealth: thousands of Anthropic employees became millionaires, and several co-founders ended up holding stakes worth roughly $20 billion each.\n\nHere is the part that is easy to miss. On the same day Anthropic stock roared higher, the Nasdaq Composite fell 2.3%, and chip giants Nvidia and AMD slid further into a selloff that was already dragging AI-linked stocks down worldwide. The Wall Street Journal's read was blunt: investors were \"dumping AI stocks to buy into Anthropic.\" A single company's triumphant debut coincided with -- and arguably helped cause -- a rough day for the rest of its own sector.\n\n## Why IPOs \"pop\": underpricing is a feature, not a bug\n\nWhen bankers set an IPO price, they are not trying to maximize the cash the company raises on day one. They are trying to guarantee a successful, oversubscribed deal, because a stock that trades up on its debut builds goodwill with the big institutional investors the bank will need for the next IPO, and for any follow-on share sales the company does later. That means the price is set deliberately a little below what the market will likely pay once trading opens. Economists call this underpricing, and the gap between the IPO price and the first closing price is sometimes called \"money left on the table\" -- value the company could have captured but chose to hand to day-one buyers instead. Anthropic's 17% pop, landing on a roughly $1.75 trillion valuation, is a textbook example of a deal priced below where the market was clearly willing to take it.\n\n## The oversubscription signal\n\nAn order book that is \"10 times oversubscribed\" means investors asked to buy about ten times more shares than Anthropic and its underwriters were willing to sell at that price. Oversubscription is itself a pricing tool: banks gauge demand during the roadshow to decide how high they can push the offer price before the deal prices, and heavy oversubscription is also the mechanism that makes a first-day pop almost automatic -- far more buyers show up once the stock opens for trading than there is stock available to satisfy them, so the price gets bid up.\n\n## Rotation, not new money\n\nThe more interesting economics are in why the rest of the AI trade fell on the same day. Capital markets have a finite amount of money actively chasing any one sector at a given moment, especially in a week when confidence in AI valuations was already fragile. When a very large, very hot new share allocation like Anthropic's becomes available, investors who want exposure to AI often fund the purchase by selling existing AI holdings -- Nvidia, AMD, other chip-linked names -- rather than committing fresh cash. That is capital rotation: money moving between assets inside the same trade rather than new money flowing into it from outside. It is how one stock can surge while the sector it belongs to sinks on the very same trading day.\n\n## Second-order effects\n\nThe dollar benefited too, notching a fourth straight weekly gain, as global demand tied to the IPO pulled capital into dollar-denominated assets. And the wealth the listing created is concentrated and sudden: co-founders and early employees held equity on paper for years, but it only became liquid -- actually spendable -- the moment the stock started trading. That conversion from paper wealth to liquid wealth is what every pre-IPO employee stock package is ultimately a bet on.\n\n## What to watch next\n\nTwo mechanisms are worth tracking from here. First, IPOs typically come with lock-up periods: months during which insiders and employees are contractually barred from selling. Today's paper wealth is not yet tradable, and share prices often move again once a lock-up expires and large blocks of stock can reach the market. Second, as the Financial Times has pointed out, Anthropic's valuation going forward depends less on today's pop and more on whether it becomes a full enterprise technology platform rather than just a hot AI lab -- a judgment the market will render over quarters, not days."
+      },
+      "he": {
+        "headline": "מה מלמדת הקפיצה בהנפקת אנתרופיק על איך דביוט בוול סטריט עובד בפועל",
+        "scroll": "מניית אנתרופיק זינקה ב-17% ביום הבכורה שלה בהנפקה של 81 מיליארד דולר - קפיצה שתוכננה מראש ותגמלה משקיעים גדולים, בזמן שמניות AI אחרות צנחו כשהכסף עבר אליה.",
+        "coffee": "אנתרופיק נסחרה אתמול לראשונה בנאסד\"ק, במה שכלי תקשורת תיארו כההנפקה הראשונית לציבור (IPO) הגדולה בהיסטוריה. המניה זינקה ב-17% לכ-97 דולר, תמחור שהעניק לחברה שווי של כ-1.75 טריליון דולר, אחרי גיוס של 81 מיליארד דולר שנהנה מביקוש \"חסר תקדים\" - בפלח האוסטרלי בלבד הביקוש היה גדול בכ-10 מונים ממספר המניות שהוצעו. אלפי עובדים הפכו בן-לילה למיליונרים, וכמה ממייסדי החברה מחזיקים כיום באחזקות בשווי של כ-20 מיליארד דולר כל אחד.\n\nהתפנית: באותו היום, נאסד\"ק המורכב ירד ב-2.3%, ומניות השבבים אנבידיה ו-AMD נחלשו עוד יותר, מכיוון שכפי שה-Wall Street Journal ניסח זאת, משקיעים \"זרקו מניות AI כדי לקנות את אנתרופיק\". זה לא מקרה - כך עובדות הנפקות עם תמחור חסר (underpricing) וביקוש עודף (oversubscription). הבנקים קובעים מחיר נמוך בכוונה כדי להבטיח קפיצה ולשמור על שביעות רצון המשקיעים המוסדיים להנפקות הבאות, והכסף שמממן את הקפיצה הזו מגיע לא פעם ממכירת אחזקות אחרות באותו הסקטור ולא מכסף טרי שנכנס לשוק.\n\nשימו לב: הדולר רשם עלייה רביעית ברצף על בסיס שבועי בזכות ביקוש שנקשר להנפקה, והעושר של היום הוא עדיין נעול - הוא לא נזיל עד שמגבלות הנעילה (lock-up) שאחרי הנפקה מתבטלות.",
+        "deep": "## מה קרה\n\nאנתרופיק (Anthropic PBC) נסחרה אתמול לראשונה בנאסד\"ק תחת הסימול ANT, במה שכמה כלי תקשורת תיארו כההנפקה הראשונית לציבור (IPO) הגדולה בהיסטוריה. המניה זינקה ב-17% ביום המסחר הראשון ונעלה בסביבות 97 דולר - תמחור שהעניק לחברה, שבראשה המנכ\"ל דריו אמודיי, שווי של כ-1.75 טריליון דולר. ההנפקה עצמה גייסה לחברה 81 מיליארד דולר, והביקוש תואר כחסר תקדים מצד משקיעים פרטיים ומוסדיים כאחד. בפלח האוסטרלי של ההנפקה בלבד, הביקוש היה גדול בכ-10 מונים ממספר המניות שהוצעו - מה שמכונה ביקוש עודף (oversubscription). ההנפקה הפכה בן-לילה אלפי עובדי אנתרופיק למיליונרים, וכמה ממייסדי החברה מחזיקים כיום באחזקות בשווי של כ-20 מיליארד דולר כל אחד.\n\nוהנה החלק שקל לפספס: באותו היום שבו מניית אנתרופיק חגגה, נאסד\"ק המורכב ירד ב-2.3%, ומניות השבבים אנבידיה ו-AMD נחלשו עוד יותר תוך המשך מכירה שגררה מטה מניות הקשורות ל-AI בעולם. ה-Wall Street Journal תיאר זאת ללא כחל וסרק: משקיעים \"זרקו מניות AI כדי לקנות את אנתרופיק\". הדביוט המנצח של חברה אחת חפף - ואפשר לטעון שגם סייע לגרום - ליום קשה לשאר הסקטור שלה.\n\n## מדוע הנפקות \"קופצות\": תמחור חסר הוא פיצ'ר, לא באג\n\nכשהבנקים המארגנים קובעים את מחיר ההנפקה, הם לא מנסים למקסם את הסכום שהחברה מגייסת ביום הראשון. הם מנסים להבטיח עסקה מוצלחת עם ביקוש עודף, מכיוון שמניה שעולה בדביוט שלה בונה יחסי אמון עם המשקיעים המוסדיים הגדולים שהבנק יצטרך עבור ההנפקה הבאה, ועבור מכירות מניות נוספות שהחברה עשויה לבצע בהמשך. המשמעות היא שהמחיר נקבע באופן מכוון מעט מתחת למה שהשוק צפוי להיות מוכן לשלם כשהמסחר נפתח. כלכלנים מכנים זאת תמחור חסר (underpricing), והפער בין מחיר ההנפקה למחיר הסגירה הראשון מכונה לעיתים \"כסף שנשאר על השולחן\" - ערך שהחברה יכלה לתפוס אך בחרה להעביר לקונים של היום הראשון. הקפיצה של 17% באנתרופיק, שנחתה על שווי של כ-1.75 טריליון דולר, היא מקרה קלאסי של עסקה שתומחרה מתחת לנקודה שבה השוק היה מוכן בבירור לקחת אותה.\n\n## האיתות של ביקוש עודף\n\nביקוש עודף של \"פי 10\" פירושו שמשקיעים בקשו לקנות כעשרה מונים ממספר המניות שאנתרופיק והחתמים שלה היו מוכנים למכור במחיר הזה. ביקוש עודף הוא בעצמו כלי תמחור: הבנקים מודדים את עוצמת הביקוש בסיבוב ההיכרות עם משקיעים (roadshow) כדי להחליט כמה גבוה אפשר לדחוף את מחיר ההנפקה לפני התמחור הסופי, וביקוש עודף גבוה הוא גם המכניזם שהופך את הקפיצה ביום הראשון לכמעט אוטומטית - הרבה יותר קונים מגיעים כשהמניה נפתחת למסחר מאשר יש מניות שיכולות לספק אותם, כך שהמחיר נדחף מעלה.\n\n## רוטציית הון, לא כסף חדש\n\nהכלכלה המעניינת יותר נמצאת בשאלה מדוע שאר סקטור ה-AI נפל באותו יום. לשווקי ההון יש כמות מוגבלת של כסף שרודף פעיל אחרי סקטור מסוים בכל נקודת זמן, במיוחד בשבוע שבו האמון בתמחורי AI היה שברירי מלכתחילה. כשהקצאת מניות גדולה וחמה כמו זו של אנתרופיק נעשית זמינה, משקיעים שרוצים חשיפה ל-AI מממנים לא פעם את הרכישה במכירת אחזקות AI קיימות - אנבידיה, AMD, ושמות נוספים הקשורים לשבבים - במקום להזרים כסף טרי. זו רוטציית הון (capital rotation): כסף שעובר בין נכסים בתוך אותה טרנדת השקעה, ולא כסף חדש שזורם אליה מבחוץ. זה ההסבר לאיך מניה אחת יכולה להמריא בזמן שהסקטור שהיא שייכת לו צונח באותו יום מסחר עצמו.\n\n## אפקטים מסדר שני\n\nגם הדולר נהנה - ורשם עלייה רביעית ברצף על בסיס שבועי - כאשר ביקוש גלובלי שנקשר להנפקה שאב הון לנכסים הנקובים בדולר. העושר שההנפקה חיללה הוא מרוכז ומיידי: מייסדים ועובדים מוקדמים החזיקו הון על הנייר שנים, אך הוא הפך לנזיל - כלומר, לכסף שאפשר להוציא בפועל - רק ברגע שהמניה התחילה להיסחר. ההמרה הזו מהון על הנייר לעושר נזיל היא בדיוק ההימור שעליו מבוססת כל חבילת אופציות לעובדים לפני הנפקה.\n\n## מה לעקוב אחריו בהמשך\n\nשני מכניזמים שווים מעקב מכאן. ראשית, הנפקות כוללות בדרך כלל תקופת נעילה (lock-up period) - חודשים שבהם אסור לבעלי עניין ולעובדים, על פי חוזה, למכור את מניותיהם. העושר של היום על הנייר הוא עדיין לא נזיל, ומחירי המניה נוטים לזוז מחדש כשתקופת הנעילה מסתיימת וכמויות גדולות של מניות יכולות להגיע לשוק. שנית, כפי שציין ה-Financial Times, שווי אנתרופיק בהמשך הדרך תלוי פחות בקפיצה של היום ויותר בשאלה האם היא תהפוך לפלטפורמת טכנולוגיה עסקית מלאה (enterprise technology platform) ולא רק למעבדת AI חמה - שיקול שהשוק ישקול על פני רבעונים, לא ימים."
+      },
+      "tags": [
+        "anthropic",
+        "ipo",
+        "capital-markets",
+        "ai"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
+          "url": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Dollar Heads for Fourth Week of Gains Following Anthropic IPO",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Anthropic IPO’s Australia Tranche Said About 10 Times Subscribed",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Stocks Set for Worst Run Since 2023, Havens Gain: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic shares jump 17% after record Wall Street listing",
+          "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "The key to Anthropic’s value",
+          "url": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Anthropic is a ‘must own’",
+          "url": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Opinion | The Astonishing Wealth of Anthropic",
+          "url": "https://www.wsj.com/opinion/the-astonishing-wealth-of-anthropic-a6bb9746?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic’s IPO Mints New Millionaires",
+          "url": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Slide as AI Bust Continues Despite Anthropic IPO",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-bust-continues-despite-anthropic-ipo-5a14e137?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Investors Dumping AI Stocks to Buy Into Anthropic Send Tech Shares Lower",
+          "url": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "אנתרופיק זינקה ב-17% ביום הבכורה בוול סטריט; נאסד\"ק איבד 2%",
+          "url": "https://www.themarker.com/wallstreet/2026-11-19/ty-article-live/000001a1-e2bb-da30-a7fb-fabf3a770000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "הנפקת אנתרופיק הפכה אלפי עובדים למיליונרים — ואת אשטון קוצ'ר למיליארדר",
+          "url": "https://www.themarker.com/wallstreet/2026-11-19/ty-article/.premium/000001a1-f2aa-d287-adbb-f6ba36880000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מהדחה מדהימה ועד הנפקה היסטורית — שבעה ימים של שכרון חושים בהייטק",
+          "url": "https://www.themarker.com/technation/2026-11-19/ty-article/.highlight/000001a1-f30f-d381-ade5-fbefa7f60000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "חגיגת ההנפקה של אנתרופיק משכיחה דבר אחד",
+          "url": "https://www.themarker.com/news/internal-info/2026-11-19/ty-article/000001a1-f49c-d9ff-a7b5-f5bec21f0000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3964.9199,
+      "prev_close": 3978.4199,
+      "change_pct": -0.34,
+      "as_of": "2026-11-18"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 7175.8301,
+      "prev_close": 7323.6299,
+      "change_pct": -2.02,
+      "as_of": "2026-11-19"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.3172,
+      "prev_close": 3.2771,
+      "change_pct": 1.22,
+      "as_of": "2026-11-20"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 89.78,
+      "prev_close": 91.95,
+      "change_pct": -2.36,
+      "as_of": "2026-11-19"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 61901.6602,
+      "prev_close": 62987.2656,
+      "change_pct": -1.72,
+      "as_of": "2026-11-20"
+    }
+  }
+}
