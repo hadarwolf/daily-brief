@@ -24,110 +24,145 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2003,
-   "text": "Suicide bombers blew up the British consulate and the headquarters of HSBC Bank in Istanbul, killing 31 people, including consul general Roger Short and actor Kerem Yılmazer.",
+   "year": 2015,
+   "text": "The Belgian government imposed a four-day security lockdown in Brussels based on information about potential terrorist attacks.",
    "context": [
-    "The 2003 Istanbul bombings were a series of suicide attacks carried out with trucks fitted with bombs detonated at four locations in Istanbul, Turkey, on 15 and 20 November 2003."
+    "From 21 to 25 November 2015, the government of Belgium imposed a security lockdown on Brussels, including the closure of shops, schools, public transportation, due to information about potential terrorist attacks in the wake of the series of coordinated terrorist attacks in Paris by Islamic State of Iraq and the Levant on 13 November. One of the perpetrators of the attack, Belgian-born French national Salah Abdeslam, was thought to be hiding in the city. As a result of warnings of a serious and imminent threat, the terror alert level was raised to the highest level (four) across the Brussels metropolitan area, and people were advised not to congregate publicly, effectively putting the city under lockdown."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 1994,
-   "text": "In accordance with the Lusaka Protocol, the Angolan government signed a ceasefire with UNITA rebels in a failed attempt to end the Angolan Civil War.",
+   "year": 2012,
+   "text": "A remote-controlled bomb exploded on a bus in Tel Aviv, Israel, injuring at least 28 people on board.",
    "context": [
-    "The Lusaka Protocol, initialed in Lusaka, Zambia on 31 October 1994, attempted to end the Angolan Civil War by integrating and disarming UNITA and starting national reconciliation. Both sides signed a truce as part of the protocol on 15 November 1994, and the treaty was signed on 20 November 1994."
+    "The 2012 Tel Aviv bus bombing was a mass-injury terror attack carried out on November 21, 2012, on a crowded passenger bus driving in the center of Tel Aviv's business district. The attack was carried out by an Israeli citizen of Arab descent, who remotely detonated an explosive device, which he had hid on the bus in advance. Twenty-eight civilians were injured in the attack, among them three who were injured seriously. The attack was carried out on the 8th and last day of Operation Pillar of Defense, only a few hours before the ceasefire was reached."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 1991,
-   "text": "First Nagorno-Karabakh War: An Azerbaijani military helicopter carrying a peacekeeping mission team was shot down in Nagorno-Karabakh, disrupting ongoing peace talks.",
+   "year": 2009,
+   "text": "An explosion in a coal mine in Heilongjiang, China, killed 108 miners.",
    "context": [
-    "The First Nagorno-Karabakh War was an ethnic and territorial conflict that took place from February 1988 to May 1994 in the enclave of Nagorno-Karabakh in southwestern Azerbaijan between the majority ethnic Armenians of Nagorno-Karabakh backed by Armenia, and the Republic of Azerbaijan with support from Turkey. As the war progressed, Armenia and Azerbaijan, both former Soviet republics, entangled themselves in protracted, undeclared mountain warfare in the mountainous heights of Karabakh as Azerbaijan attempted to curb the Karabakh Movement."
+    "The 2009 Heilongjiang mine explosion was a mining accident that occurred on November 21, 2009, near Hegang in the Heilongjiang, northeastern China, which killed 108 people. A further 29 people were hospitalised. The explosion occurred in the Xinxing coal mine shortly before dawn, at 02:30 CST, when 528 people were believed to be in the pit. Of these, 420 are believed to have been rescued."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1990,
-   "text": "Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, was arrested in Novocherkassk.",
+   "year": 1980,
+   "text": "A fire broke out at the MGM Grand Hotel on the Las Vegas Strip in Paradise, Nevada, killing 85 people and injuring 650 others.",
    "context": [
-    "Andrei Romanovich Chikatilo was a Ukrainian-born Soviet serial killer nicknamed \"the Butcher of Rostov\", \"the Rostov Ripper\", and \"the Red Ripper\" who sexually assaulted, murdered, and mutilated at least fifty-two women and children between 1978 and 1990 in the Russian SFSR, the Ukrainian SSR, and the Uzbek SSR."
+    "The MGM Grand fire occurred on Friday, November 21, 1980, at the MGM Grand Hotel and Casino, located on the Las Vegas Strip in Paradise, Nevada. The fire killed 85 people, most through smoke inhalation. The fire began from a refrigerated pastry display case in a restaurant located on the first floor. A fire engulfed the resort's casino, and smoke spread into the hotel tower."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1985,
-   "text": "Windows 1.0, the first version of Microsoft Windows available to the public, was released.",
+   "year": 1977,
+   "text": "\"God Defend New Zealand\" became New Zealand's second national anthem, on equal standing with \"God Save the King\", which had been the traditional anthem since 1840.",
    "context": [
-    "Windows 1.0 is the first major release of Microsoft Windows, a family of graphical user shells and operating systems for personal computers developed by Microsoft. It was first released to manufacturing in the United States and the general public on November 20, 1985, while the European version was released as Windows 1.02 in May 1986."
+    "\"God Defend New Zealand\" is one of two national anthems of New Zealand, the other being \"God Save the King\". Legally the two have equal status, but \"God Defend New Zealand\" is more commonly used. Originally written as a poem, it was set to music as part of a competition in 1876. Over the years its popularity increased, and it was eventually named the second national anthem in 1977. It has English and Māori lyrics, with slightly different meanings. Since the late 1990s, the usual practice when performed in public is to perform the first verse of the national anthem twice, first in Māori and then in English."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1979,
-   "text": "Armed insurgents attacked and took over the Masjid al-Haram in Mecca, declaring that one of their leaders was the Mahdi, the prophesied redeemer of Islam.",
+   "year": 1974,
+   "text": "Bombs exploded in two pubs in central Birmingham, England, killing 21 people and leading to the imprisonment of six people who were later exonerated.",
    "context": [
-    "The Grand Mosque seizure took place between 20 November and 4 December 1979 at the Grand Mosque of Mecca in Mecca, Saudi Arabia, the holiest site in Islam. The attack was carried out by up to 600 militants led by Juhayman al-Otaybi, a Saudi Islamist opposed to the monarchy, belonging to the Otaibah tribe. The insurgents identified themselves as \"al-Ikhwan\", referencing the Arabian militia that had played a role in the early formation of the Saudi state in the early 20th century. Scholars refer to them as Juhayman's Ikhwan."
+    "On 21 November 1974, bombs exploded in two pubs in Birmingham, England, killing 21 people and injuring 182 others."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1969,
-   "text": "A group of Native American activists began a 19-month occupation (graffiti pictured) of Alcatraz Island in San Francisco Bay.",
+   "year": 1970,
+   "text": "Vietnam War: American forces raided the North Vietnamese Sơn Tây prison camp in an attempt to rescue 61 American POWs who were thought to be held there.",
    "context": [
-    "Native Americans are the Indigenous peoples of the United States, particularly of the lower 48 states and Alaska. They may also include any Americans whose origins lie in any of the Indigenous peoples of North or South America. The United States Census Bureau publishes data about \"American Indians and Alaska Natives\", whom it defines as anyone \"having origins in any of the original peoples of North and South America ... and who maintains tribal affiliation or community attachment\". The census does not, however, enumerate \"Native Americans\" as such, noting that the latter term can encompass a broader set of groups, e.g. Native Hawaiians, which it tabulates separately."
+    "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by China and the Soviet Union, while South Vietnam was supported by the United States and other anti-communist nations. The second of the Indochina wars, the Vietnam War was a postcolonial war of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965, peaked in 1969, and subsequently declined until the complete withdrawal of US forces in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1947,
-   "text": "Princess Elizabeth, daughter of King George VI, married Lieutenant Philip Mountbatten, who was given the title Duke of Edinburgh.",
+   "year": 1964,
+   "text": "The Verrazzano–Narrows Bridge (pictured), connecting Staten Island and Brooklyn in New York City, opened to traffic as the longest suspension bridge in the world at the time.",
    "context": [
-    "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history."
+    "The Verrazzano–Narrows Bridge is a suspension bridge connecting the boroughs of Staten Island and Brooklyn in New York City, New York, U.S. It spans the Narrows, a body of water linking the relatively enclosed New York Harbor with Lower New York Bay and the Atlantic Ocean. It is the only fixed crossing of the Narrows. The double-deck bridge carries 13 lanes of Interstate 278: seven on the upper level and six on the lower level. The span is named for Giovanni da Verrazzano, who in 1524 was the first European explorer to enter New York Harbor and the Hudson River."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1945,
-   "text": "The Nuremberg trials (defendants pictured) of 24 leading Nazis involved in the Holocaust and various war crimes during World War II began in Nuremberg, Germany.",
+   "year": 1961,
+   "text": "La Ronde, the first revolving restaurant in the United States, was inaugurated.",
    "context": [
-    "The Nuremberg trials were international criminal trials held by France, the Soviet Union, the United Kingdom, and the United States against leaders of defeated Nazi Germany for plotting and carrying out invasions of several countries across Europe and committing atrocities against their citizens in the Second World War."
+    "La Ronde was a restaurant in Honolulu, Hawaii. Built in 1961 and designed by John Graham, it was the first revolving restaurant in the United States and the third of its kind in the world. The restaurant is now closed."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1917,
-   "text": "First World War: The Battle of Cambrai began with British forces having initial success over Germany's Hindenburg Line.",
+   "year": 1959,
+   "text": "American disc jockey Alan Freed (pictured), who popularized the term rock and roll, was fired from WABC-AM for his role in the payola scandal.",
    "context": [
-    "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I caused 15 to 22 million deaths, including those resulting from war crimes and genocides. The war also contributed to the spread of the Spanish flu pandemic. The conflict saw important developments in weaponry, including machine guns, artillery, aircraft, chemical weapons, and tanks."
+    "A disc jockey, more commonly abbreviated as DJ, is a person who plays recorded music for an audience. Types of DJs include radio DJs, club DJs, mobile DJs, and turntablists. Originally, the \"disc\" in \"disc jockey\" referred to shellac and later vinyl records, but nowadays DJ is used as an all-encompassing term to also describe persons who mix music from other recording media such as cassettes, CDs or digital audio files on a CDJ, controller, or even a laptop. DJs may adopt the title \"DJ\" in front of their real names, adopted pseudonyms, or stage names."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1820,
-   "text": "The American whaleship Essex sank 2,000 nautical miles (3,700 km) west of the western coast of South America after it was attacked by a sperm whale, an event which inspired the novel Moby-Dick.",
+   "year": 1950,
+   "text": "Two trains collided near Valemount, Canada, killing 21 people.",
    "context": [
-    "Essex was an American whaling ship from Nantucket, Massachusetts, which was launched in 1799. On November 20, 1820, while at sea in the southern Pacific Ocean under the command of Captain George Pollard Jr., the ship was attacked and sunk by a sperm whale. About 2,000 nautical miles (3,700 km) from the coast of South America, the 20-man crew was forced to make for land in three whaleboats with what food and water they could salvage from the wreck."
+    "The Canoe River train crash occurred on November 21, 1950, near Valemount in eastern British Columbia, Canada, when a westbound troop train and the eastbound Canadian National Railway (CNR) Continental Limited collided head-on. The collision killed 21 people: 17 Canadian soldiers en route to the Korean War and the two-man locomotive crew of each train."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1776,
-   "text": "American Revolutionary War: The Battle of Fort Lee saw the invasion of New Jersey by British and Hessian forces and the subsequent general retreat of the Continental Army.",
+   "year": 1945,
+   "text": "Manzanar (pictured), a camp in California for the internment of Japanese Americans during World War II, was closed.",
    "context": [
-    "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war's outcome seemed uncertain for most of the war, but Washington and the Continental Army's decisive victory in the Siege of Yorktown in 1781 led King George III and the Kingdom of Great Britain to negotiate an end to the war. In 1783, in the Treaty of Paris, the British Crown acknowledged the independence of the Thirteen Colonies, leading to the establishment of the United States as an independent and sovereign nation."
+    "Manzanar is the site of one of ten American concentration camps, where more than 120,000 Japanese Americans were incarcerated during World War II, from March 1942 to November 1945. Although it had over 10,000 inmates at its peak, Manzanar was one of the smaller internment camps. It is located in California's Owens Valley, on the eastern side of the Sierra Nevada mountains, between the towns of Lone Pine to the south and Independence to the north, approximately 230 miles (370 km) north of Los Angeles. Manzanar means \"apple orchard\" in Spanish. The Manzanar National Historic Site, which preserves and interprets the legacy of Japanese American incarceration in the United States, was identified by the United States National Park Service as the best-preserved of the ten former camp sites."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1739,
-   "text": "War of Jenkins' Ear: A British naval force arrived at the settlement of Portobello in the Spanish Main, capturing it the next day.",
+   "year": 1922,
+   "text": "Rebecca Latimer Felton (pictured) became the first woman to serve in the United States Senate, albeit for only one day.",
    "context": [
-    "The War of Jenkins' Ear was fought between Great Britain and Spain from 1739 to 1748. Most of the fighting took place in New Granada and the Caribbean Sea, with major operations over by 1742. It is considered a related conflict of the 1740 to 1748 War of the Austrian Succession."
+    "Rebecca Ann Felton was an American writer, politician, feminist, white supremacist, and slave owner who was the first woman to serve in the United States Senate, serving for only one day."
+   ]
+  },
+  {
+   "ref": "wikipedia#13",
+   "year": 1920,
+   "text": "Irish War of Independence: On Bloody Sunday in Dublin, the IRA assassinated a group of British intelligence agents, and British forces killed 14 civilians at a Gaelic football match at Croke Park.",
+   "context": [
+    "The Irish War of Independence, also known as the Anglo-Irish War or the Tan War, was a guerrilla war fought in Ireland from 1919 to 1921 between the Irish Republican Army and British forces: the British Army, along with the quasi-military Royal Irish Constabulary (RIC) and its paramilitary forces the Auxiliaries and Ulster Special Constabulary (USC). It was part of the Irish revolutionary period."
+   ]
+  },
+  {
+   "ref": "wikipedia#14",
+   "year": 1894,
+   "text": "First Sino-Japanese War: After capturing the Chinese city of Port Arthur, the Japanese army began a massacre of the city's soldiers and civilians.",
+   "context": [
+    "The First Sino-Japanese War was a conflict between the Qing dynasty of China and the Empire of Japan primarily for influence over Korea. In China it is commonly known as the Jiawu War. After roughly 7 months of sustained military gains by Japanese land and naval forces and the loss of the ports of Lüshunkou and Weihaiwei, the Qing government sued for peace in February 1895 and signed the Treaty of Shimonoseki two months later, ending the war."
+   ]
+  },
+  {
+   "ref": "wikipedia#15",
+   "year": 1877,
+   "text": "Thomas Edison announced his invention of the phonograph, a device able to record and play sound.",
+   "context": [
+    "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. The merger of the Edison General Electric Company and the competitor Thomson-Houston Electric Company resulted in the formation of General Electric. Edison registered 1,093 patents in the United States."
+   ]
+  },
+  {
+   "ref": "wikipedia#16",
+   "year": 1620,
+   "text": "The Mayflower Compact, the first governing document of the Plymouth Colony, was signed by 41 of the Mayflower's passengers while the ship was anchored in what is now Provincetown Harbor.",
+   "context": [
+    "The Mayflower Compact, originally titled Agreement Between the Settlers of New Plymouth, was the first governing document of Plymouth Colony. It was written by the men aboard the Mayflower, consisting of Separatist Puritans, adventurers, and tradesmen. Although the agreement contained a pledge of loyalty to the King, the Puritans and other Protestant Separatists were dissatisfied with the state of the Church of England, the limited extent of the English Reformation and reluctance of King James I of England to enforce further reform."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Churn rate (שיעור נטישה)",
+  "Bleeding edge (חוד החרב הטכנולוגי)",
+  "Jump the shark (לקפוץ מעל הכריש)",
   "Hurdle rate (שיעור תשואה נדרש)",
   "Land and expand (לנחות ולהתרחב)",
   "Throwing good money after bad (להשקיע כסף טוב אחרי כסף רע)",
@@ -214,10 +249,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Herding cats (לרעות חתולים)",
   "Headwinds / tailwinds (רוחות נגד / רוחות גב)",
   "Bootstrapped (ממומן מהכיס / מיזם שהתנהל ללא גיוס הון)",
-  "A rising tide lifts all boats (גאות מרימה את כל הסירות)",
-  "Sunk cost (עלות שקועה)",
-  "Down round (סבב גיוס במחיר מופחת)",
-  "Lipstick on a pig (שפתון על חזיר)"
+  "A rising tide lifts all boats (גאות מרימה את כל הסירות)"
  ]
 }
 </input>
