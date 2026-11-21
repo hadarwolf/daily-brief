@@ -18,111 +18,111 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "My Fan Picks - AP News",
+     "published": "2026-11-21T09:50:46+00:00",
+     "summary": "My Fan Picks AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Crime - AP News",
+     "published": "2026-11-21T09:50:44+00:00",
+     "summary": "Crime AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "New York City - AP News",
+     "published": "2026-11-21T09:50:37+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-11-21T09:46:59+00:00",
+     "summary": "Artificial intelligence AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Animals - AP News",
+     "published": "2026-11-21T09:32:08+00:00",
+     "summary": "Animals AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-21T09:32:04+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Minnesota - AP News",
+     "published": "2026-11-21T09:29:10+00:00",
+     "summary": "Minnesota AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-11-21T09:23:55+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#1",
-     "title": "Vladimir Putin - AP News",
-     "published": "2026-11-21T09:19:43+00:00",
-     "summary": "Vladimir Putin AP News"
-    },
-    {
-     "ref": "ap_world#2",
-     "title": "Artificial intelligence - AP News",
-     "published": "2026-11-21T09:19:42+00:00",
-     "summary": "Artificial intelligence AP News"
-    },
-    {
-     "ref": "ap_world#3",
-     "title": "New York City - AP News",
-     "published": "2026-11-21T09:17:28+00:00",
-     "summary": "New York City AP News"
-    },
-    {
-     "ref": "ap_world#4",
+     "ref": "ap_world#8",
      "title": "College sports - AP News",
      "published": "2026-11-21T09:14:11+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#9",
      "title": "Russia - AP News",
      "published": "2026-11-21T09:13:38+00:00",
      "summary": "Russia AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#10",
      "title": "Latest news - AP News",
      "published": "2026-11-21T09:13:28+00:00",
      "summary": "Latest news AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#11",
      "title": "International News - AP News",
      "published": "2026-11-21T09:12:33+00:00",
      "summary": "International News AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#12",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-11-21T09:12:20+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#13",
      "title": "Trending News - AP News",
      "published": "2026-11-21T08:59:32+00:00",
      "summary": "Trending News AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#14",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-11-21T08:55:33+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#11",
-     "title": "Ukraine - AP News",
-     "published": "2026-11-21T08:55:32+00:00",
-     "summary": "Ukraine AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "Formula One - AP News",
-     "published": "2026-11-21T08:55:30+00:00",
-     "summary": "Formula One AP News"
-    },
-    {
-     "ref": "ap_world#13",
+     "ref": "ap_world#15",
      "title": "MLB | Latest News, Stats, and Scores - AP News",
      "published": "2026-11-21T08:55:27+00:00",
      "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#16",
      "title": "Georgia Governor Election Live Results 2026 - AP News",
      "published": "2026-11-21T08:55:24+00:00",
      "summary": "Georgia Governor Election Live Results 2026 AP News"
     },
     {
-     "ref": "ap_world#15",
-     "title": "My Fan Picks - AP News",
-     "published": "2026-11-21T08:47:15+00:00",
-     "summary": "My Fan Picks AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "Crime - AP News",
-     "published": "2026-11-21T08:47:13+00:00",
-     "summary": "Crime AP News"
-    },
-    {
      "ref": "ap_world#17",
-     "title": "Minnesota - AP News",
-     "published": "2026-11-21T08:25:02+00:00",
-     "summary": "Minnesota AP News"
+     "title": "Cricket - AP News",
+     "published": "2026-11-21T08:21:35+00:00",
+     "summary": "Cricket AP News"
     },
     {
      "ref": "ap_world#18",
@@ -138,33 +138,33 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "ap_world#20",
-     "title": "Federal judge denies a request to release man shot by immigration agents in New York - AP News",
-     "published": "2026-11-21T07:50:04+00:00",
-     "summary": "Federal judge denies a request to release man shot by immigration agents in New York AP News"
-    },
-    {
-     "ref": "ap_world#21",
      "title": "NATO - AP News",
      "published": "2026-11-21T05:47:28+00:00",
      "summary": "NATO AP News"
     },
     {
-     "ref": "ap_world#22",
+     "ref": "ap_world#21",
      "title": "Golf - AP News",
      "published": "2026-11-21T05:45:24+00:00",
      "summary": "Golf AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#22",
      "title": "Haiti | Latest News & Updates - AP News",
      "published": "2026-11-21T05:45:21+00:00",
      "summary": "Haiti | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#24",
+     "ref": "ap_world#23",
      "title": "James Harden’s new role, same old burst: A 51-point night that moved him past Kobe Bryant - AP News",
      "published": "2026-11-21T05:18:00+00:00",
      "summary": "James Harden’s new role, same old burst: A 51-point night that moved him past Kobe Bryant AP News"
+    },
+    {
+     "ref": "ap_world#24",
+     "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
+     "published": "2026-11-21T04:55:00+00:00",
+     "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI AP News"
     }
    ]
   },
@@ -174,147 +174,147 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "published": "2026-11-21T09:52:11+00:00",
+     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+    },
+    {
+     "ref": "bbc_world#1",
+     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+     "published": "2026-11-21T09:40:55+00:00",
+     "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
+    },
+    {
+     "ref": "bbc_world#2",
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "published": "2026-11-21T09:34:20+00:00",
+     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+    },
+    {
+     "ref": "bbc_world#3",
      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
      "published": "2026-11-21T08:10:25+00:00",
      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
     },
     {
-     "ref": "bbc_world#1",
+     "ref": "bbc_world#4",
      "title": "Trafalgar Square Christmas tree felled in Norway",
      "published": "2026-11-21T08:10:03+00:00",
      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two."
     },
     {
-     "ref": "bbc_world#2",
-     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "published": "2026-11-21T07:31:05+00:00",
-     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-    },
-    {
-     "ref": "bbc_world#3",
-     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-     "published": "2026-11-21T06:00:09+00:00",
-     "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
-    },
-    {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#5",
      "title": "Man convicted of starting Palisades fire in Los Angeles",
      "published": "2026-11-21T04:34:00+00:00",
      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#6",
      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
      "published": "2026-11-21T01:02:39+00:00",
      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#7",
      "title": "ANC fights to keep control of South Africa's key cities after election setback",
      "published": "2026-11-21T00:34:51+00:00",
      "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level."
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#8",
      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
      "published": "2026-11-21T00:01:39+00:00",
      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#9",
      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
      "published": "2026-11-20T23:28:17+00:00",
      "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#10",
      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
      "published": "2026-11-20T23:20:33+00:00",
      "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#11",
      "title": "US declassifies more UFO footage filmed in the Middle East",
      "published": "2026-11-20T23:15:20+00:00",
      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#12",
      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
      "published": "2026-11-20T23:08:57+00:00",
      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#13",
      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
      "published": "2026-11-20T22:42:47+00:00",
      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#14",
      "title": "French police officers sentenced for beating of music producer Michel Zecler",
      "published": "2026-11-20T22:37:09+00:00",
      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#15",
      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
      "published": "2026-11-20T22:14:17+00:00",
      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#16",
      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
      "published": "2026-11-20T21:57:07+00:00",
      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#17",
      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
      "published": "2026-11-20T21:43:22+00:00",
      "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#18",
      "title": "Trump threatens ban on US firms building AI data centres overseas",
      "published": "2026-11-20T20:54:12+00:00",
      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#19",
      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
      "published": "2026-11-20T19:27:49+00:00",
      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#20",
      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
      "published": "2026-11-20T18:48:48+00:00",
      "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#21",
      "title": "Cost of living protests sweep across Europe",
      "published": "2026-11-20T16:45:34+00:00",
      "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#22",
      "title": "Nearly 600 women killed in South Africa within three months",
      "published": "2026-11-20T15:55:16+00:00",
      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#23",
      "title": "What we know about the latest Russian missile strikes on Ukraine",
      "published": "2026-11-20T15:14:01+00:00",
      "summary": "Russia struck bridges and railway stations in the capital Kyiv in a major attack."
-    },
-    {
-     "ref": "bbc_world#23",
-     "title": "Texas death-row inmate screams as execution takes more than one hour",
-     "published": "2026-11-20T12:42:37+00:00",
-     "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug."
     }
    ]
   },
@@ -433,13 +433,13 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     {
      "ref": "reuters_world#2",
      "title": "Meta's India offices hit by opposition protests over account removals - Reuters",
-     "published": "2026-11-21T05:55:00+00:00",
+     "published": "2026-11-21T05:55:43+00:00",
      "summary": "Meta's India offices hit by opposition protests over account removals Reuters"
     },
     {
      "ref": "reuters_world#3",
      "title": "South Africa's first female deputy president and UN official dies - Reuters",
-     "published": "2026-11-21T05:44:10+00:00",
+     "published": "2026-11-21T05:44:00+00:00",
      "summary": "South Africa's first female deputy president and UN official dies Reuters"
     },
     {

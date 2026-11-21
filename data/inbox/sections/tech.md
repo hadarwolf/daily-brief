@@ -173,12 +173,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "הפשע המושלם: שילמו לי כדי לשחק GTA 6 וזה מה שחשבתי עליו",
      "published": "2026-11-19T15:25:01+00:00",
      "summary": "אני חושב שעשיתי היום את הפשע המושלם. לא, אני לא מדבר על משימה ב-GTA 6. אני מדבר על הפשע המושלם שבמסגרתו קמתי היום בבוקר, הפעלתי את ה-PlayStation 5 והתחלתי לשחק ב-GTA 6 – וקיבלתי על זה משכורת. כן, זה אחד הימים האלה שבהם אני לא מאמין שזו העבודה שלי, אבל מישהו צריך לעשות את העבודה […] The post הפשע המושלם: שילמו לי כדי לשחק GTA 6 וזה מה שחשבתי עליו appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#5",
-     "title": "מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר",
-     "published": "2026-11-19T09:35:10+00:00",
-     "summary": "בחודש אוקטובר האחרון, מיקרוסופט הטילה פצצה בעולם הטכנולוגיה כשהציעה ל-60 אלף עובדים – כמעט 30% מסך העובדים בחברה – להתפטר במסגרת של חבילות פרישה מרצון. על פניו זה הריח כמו גל פיטורים שקט, כמעט מנומס של החברה, אבל עכשיו המנכ\"ל סאטיה נאדלה מסביר את המהלך. אמ;לק: זה ה-AI, אבל לא בקטע של \"הרובוטים מחליפים אותנו\", […] The post מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר appeared first on גיקט"
     }
    ]
   },
@@ -190,79 +184,85 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Backblaze Notice at Collection and Privacy Policy",
      "published": "2026-11-21T03:23:16+00:00",
-     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 184 # Comments: 56"
+     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 189 # Comments: 57"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "NINLIVE: The Nine Inch Nails live archive",
-     "published": "2026-11-20T22:30:47+00:00",
-     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 247 # Comments: 64"
+     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+     "published": "2026-11-20T23:18:32+00:00",
+     "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzar"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "Inkling 2 Mini",
-     "published": "2026-11-20T20:12:19+00:00",
-     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 954 # Comments: 177"
+     "title": "NINLIVE: The Nine Inch Nails live archive",
+     "published": "2026-11-20T22:30:47+00:00",
+     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 256 # Comments: 64"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-     "published": "2026-11-20T20:03:59+00:00",
-     "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 204 # Comments: 56"
+     "title": "Inkling 2 Mini",
+     "published": "2026-11-20T20:12:19+00:00",
+     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 977 # Comments: 183"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-     "published": "2026-11-20T20:03:07+00:00",
-     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 280 # Comments: 248"
+     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+     "published": "2026-11-20T20:03:59+00:00",
+     "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 211 # Comments: 59"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "Hurried Announcement: Alessandro Masullo GRH",
-     "published": "2026-11-20T18:33:14+00:00",
-     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1994 # Comments: 922"
+     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+     "published": "2026-11-20T20:03:07+00:00",
+     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 288 # Comments: 251"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "We promoted developers into architects without informing them",
-     "published": "2026-11-20T18:17:51+00:00",
-     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 417 # Comments: 233"
+     "title": "Hurried Announcement: Alessandro Masullo GRH",
+     "published": "2026-11-20T18:33:14+00:00",
+     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2043 # Comments: 943"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-     "published": "2026-11-20T17:21:36+00:00",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 436 # Comments: 176"
+     "title": "We promoted developers into architects without informing them",
+     "published": "2026-11-20T18:17:51+00:00",
+     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 425 # Comments: 235"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Language Models Can Rewrite Their Own Weights",
-     "published": "2026-11-20T16:29:06+00:00",
-     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 401 # Comments: 118"
+     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+     "published": "2026-11-20T17:21:36+00:00",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 442 # Comments: 181"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Finite-time blow-up for the Navier–Stokes equations",
-     "published": "2026-11-20T15:34:31+00:00",
-     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 282 # Comments: 88"
+     "title": "Language Models Can Rewrite Their Own Weights",
+     "published": "2026-11-20T16:29:06+00:00",
+     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 408 # Comments: 118"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Slopstrap – Make your site look hastily vibecoded",
-     "published": "2026-11-20T15:24:11+00:00",
-     "summary": "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 235 # Comments: 42"
+     "title": "Finite-time blow-up for the Navier–Stokes equations",
+     "published": "2026-11-20T15:34:31+00:00",
+     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 286 # Comments: 88"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-     "published": "2026-11-20T14:16:21+00:00",
-     "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2598 # Comments: 1788"
+     "title": "Slopstrap – Make your site look hastily vibecoded",
+     "published": "2026-11-20T15:24:11+00:00",
+     "summary": "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 250 # Comments: 42"
     },
     {
      "ref": "hn_frontpage#12",
+     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+     "published": "2026-11-20T14:16:21+00:00",
+     "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2625 # Comments: 1801"
+    },
+    {
+     "ref": "hn_frontpage#13",
      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
      "published": "2026-11-20T13:29:59+00:00",
-     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 292 # Comments: 563"
+     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 307 # Comments: 576"
     }
    ]
   },

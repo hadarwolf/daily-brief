@@ -76,6 +76,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-21T12:30:00Z",
+     "home": "Man City",
+     "away": "Fulham",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Championship",
      "kickoff_utc": "2026-11-21T12:30:00Z",
      "home": "Norwich",
@@ -89,14 +97,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "home": "Millwall",
      "away": "QPR",
      "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-21T12:30:00Z",
-     "home": "Man City",
-     "away": "Fulham",
-     "status": "TIMED",
      "score": null
     },
     {
@@ -126,6 +126,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-21T14:30:00Z",
+     "home": "Frankfurt",
+     "away": "Hoffenheim",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-21T14:30:00Z",
      "home": "Leverkusen",
      "away": "SC Paderborn",
      "status": "TIMED",
@@ -134,8 +142,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-21T14:30:00Z",
-     "home": "Frankfurt",
-     "away": "Hoffenheim",
+     "home": "Union Berlin",
+     "away": "RB Leipzig",
      "status": "TIMED",
      "score": null
     },
@@ -156,11 +164,19 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-21T14:30:00Z",
-     "home": "Union Berlin",
-     "away": "RB Leipzig",
-     "status": "TIMED",
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "West Ham",
+     "away": "Preston NE",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Stoke",
+     "away": "Birmingham",
+     "status": "SCHEDULED",
      "score": null
     },
     {
@@ -206,16 +222,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "West Ham",
-     "away": "Preston NE",
+     "home": "Bolton",
+     "away": "Portsmouth",
      "status": "SCHEDULED",
      "score": null
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Stoke",
-     "away": "Birmingham",
+     "home": "Sheffield Utd",
+     "away": "Watford",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Wolverhampton",
+     "away": "Charlton",
      "status": "SCHEDULED",
      "score": null
     },
@@ -241,30 +265,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "home": "Coventry City",
      "away": "Crystal Palace",
      "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Bolton",
-     "away": "Portsmouth",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Sheffield Utd",
-     "away": "Watford",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Wolverhampton",
-     "away": "Charlton",
-     "status": "SCHEDULED",
      "score": null
     },
     {
@@ -300,6 +300,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-21T17:30:00Z",
+     "home": "Newcastle",
+     "away": "Arsenal",
+     "status": "TIMED",
+     "score": null
+    },
+    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-21T17:30:00Z",
      "home": "Schalke",
@@ -316,10 +324,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-21T17:30:00Z",
-     "home": "Newcastle",
-     "away": "Arsenal",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-21T17:45:00Z",
+     "home": "Utrecht",
+     "away": "Cambuur",
      "status": "TIMED",
      "score": null
     },
@@ -328,14 +336,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-21T17:45:00Z",
      "home": "Feyenoord",
      "away": "Excelsior",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-21T17:45:00Z",
-     "home": "Utrecht",
-     "away": "Cambuur",
      "status": "TIMED",
      "score": null
     },
@@ -1098,75 +1098,75 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#13",
-     "title": "Messi tops MLS salary rankings as Son Heung-min places fourth - Chosunbiz",
-     "published": "2026-11-20T21:30:00+00:00",
-     "summary": "Messi tops MLS salary rankings as Son Heung-min places fourth Chosunbiz"
-    },
-    {
-     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami coach: When Messi in form, the team performs better‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌ - AllFootball",
      "published": "2026-11-20T21:18:56+00:00",
      "summary": "Inter Miami coach: When Messi in form, the team performs better‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌ AllFootball"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#14",
      "title": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 - Sportskeeda",
      "published": "2026-11-20T20:42:57+00:00",
      "summary": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 Sportskeeda"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "Philadelphia Union vs Inter Miami: Form Meets the Table | News | Football.com Ghana - Football.com",
      "published": "2026-11-20T20:00:00+00:00",
      "summary": "Philadelphia Union vs Inter Miami: Form Meets the Table | News | Football.com Ghana Football.com"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Philadelphia Union Host Inter Miami as Messi Status Looms | News | Football.com Ghana - Football.com",
      "published": "2026-11-20T20:00:00+00:00",
      "summary": "Philadelphia Union Host Inter Miami as Messi Status Looms | News | Football.com Ghana Football.com"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami vs. Columbus Crew: Lineups, Stats, Kickoff Time, and Where to Watch - news.bet365.com",
      "published": "2026-11-20T19:55:20+00:00",
      "summary": "Inter Miami vs. Columbus Crew: Lineups, Stats, Kickoff Time, and Where to Watch news.bet365.com"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Inter Miami coach Kily González reveals game plan for Messi and Suárez ahead of crucial MLS playoff - Diario AS",
      "published": "2026-11-20T19:29:28+00:00",
      "summary": "Inter Miami coach Kily González reveals game plan for Messi and Suárez ahead of crucial MLS playoff Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Who will Inter Miami play next in MLS playoffs? - The Sun",
      "published": "2026-11-20T19:10:52+00:00",
      "summary": "Who will Inter Miami play next in MLS playoffs? The Sun"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Columbus Crew look to thwart Messi, Miami bid for 2nd straight MLS Cup - The Columbus Dispatch",
      "published": "2026-11-20T18:23:00+00:00",
      "summary": "Columbus Crew look to thwart Messi, Miami bid for 2nd straight MLS Cup The Columbus Dispatch"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Inter Miami CF Academy U-13s in International Action at Newell’s Cup in Rosario, Argentina - Inter Miami CF",
      "published": "2026-11-20T18:10:49+00:00",
      "summary": "Inter Miami CF Academy U-13s in International Action at Newell’s Cup in Rosario, Argentina Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#23",
-     "title": "Lionel Messi's wife Antonella shows off curves in figure hugging gym gear - The Irish Sun",
-     "published": "2026-11-20T17:35:36+00:00",
-     "summary": "Lionel Messi's wife Antonella shows off curves in figure hugging gym gear The Irish Sun"
+     "ref": "gnews_inter_miami#22",
+     "title": "Lionel Messi's wife Antonella shows off curves in figure hugging gym gear - The Sun",
+     "published": "2026-11-20T17:35:43+00:00",
+     "summary": "Lionel Messi's wife Antonella shows off curves in figure hugging gym gear The Sun"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "2026 MLS Cup Playoffs First Round Predictions: Will Messi, Inter Miami Advance? - FOX Sports",
      "published": "2026-11-20T16:27:51+00:00",
      "summary": "2026 MLS Cup Playoffs First Round Predictions: Will Messi, Inter Miami Advance? FOX Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Casemiro eyes another title with Lionel Messi: “It’s an honor” - MLSsoccer.com",
+     "published": "2026-11-20T16:03:29+00:00",
+     "summary": "Casemiro eyes another title with Lionel Messi: “It’s an honor” MLSsoccer.com"
     }
    ]
   },
@@ -1207,7 +1207,7 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "ref": "gnews_israeli_nba#5",
      "title": "Avdija Questionable to Play vs Knicks - Blazer's Edge",
-     "published": "2026-11-21T00:10:00+00:00",
+     "published": "2026-11-21T00:10:18+00:00",
      "summary": "Avdija Questionable to Play vs Knicks Blazer's Edge"
     },
     {
