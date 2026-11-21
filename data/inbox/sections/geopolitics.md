@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Vladimir Putin - AP News",
+     "published": "2026-11-21T10:08:50+00:00",
+     "summary": "Vladimir Putin AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Poland | Latest News & Updates - AP News",
+     "published": "2026-11-21T10:08:48+00:00",
+     "summary": "Poland | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Sports - Europe - AP News",
+     "published": "2026-11-21T10:05:52+00:00",
+     "summary": "Sports - Europe AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Artificial intelligence - AP News",
+     "published": "2026-11-21T10:05:01+00:00",
+     "summary": "Artificial intelligence AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "War and unrest - AP News",
+     "published": "2026-11-21T09:59:40+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Formula One - AP News",
+     "published": "2026-11-21T09:55:31+00:00",
+     "summary": "Formula One AP News"
+    },
+    {
+     "ref": "ap_world#6",
      "title": "My Fan Picks - AP News",
      "published": "2026-11-21T09:50:46+00:00",
      "summary": "My Fan Picks AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#7",
      "title": "Crime - AP News",
      "published": "2026-11-21T09:50:44+00:00",
      "summary": "Crime AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#8",
      "title": "New York City - AP News",
      "published": "2026-11-21T09:50:37+00:00",
      "summary": "New York City AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Artificial intelligence - AP News",
-     "published": "2026-11-21T09:46:59+00:00",
-     "summary": "Artificial intelligence AP News"
+     "ref": "ap_world#9",
+     "title": "Climate talks in overtime as nations wrestle with response to worsening global warming - AP News",
+     "published": "2026-11-21T09:33:00+00:00",
+     "summary": "Climate talks in overtime as nations wrestle with response to worsening global warming AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#10",
      "title": "Animals - AP News",
      "published": "2026-11-21T09:32:08+00:00",
      "summary": "Animals AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#11",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-11-21T09:32:04+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#12",
      "title": "Minnesota - AP News",
      "published": "2026-11-21T09:29:10+00:00",
      "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#13",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-11-21T09:23:55+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#8",
+     "ref": "ap_world#14",
      "title": "College sports - AP News",
      "published": "2026-11-21T09:14:11+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#9",
+     "ref": "ap_world#15",
      "title": "Russia - AP News",
      "published": "2026-11-21T09:13:38+00:00",
      "summary": "Russia AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#16",
      "title": "Latest news - AP News",
      "published": "2026-11-21T09:13:28+00:00",
      "summary": "Latest news AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#17",
      "title": "International News - AP News",
      "published": "2026-11-21T09:12:33+00:00",
      "summary": "International News AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#18",
      "title": "2026 World Cup schedule and results - AP News",
      "published": "2026-11-21T09:12:20+00:00",
      "summary": "2026 World Cup schedule and results AP News"
     },
     {
-     "ref": "ap_world#13",
+     "ref": "ap_world#19",
      "title": "Trending News - AP News",
      "published": "2026-11-21T08:59:32+00:00",
      "summary": "Trending News AP News"
     },
     {
-     "ref": "ap_world#14",
-     "title": "2026 World Cup venue map - AP News",
-     "published": "2026-11-21T08:55:33+00:00",
-     "summary": "2026 World Cup venue map AP News"
-    },
-    {
-     "ref": "ap_world#15",
+     "ref": "ap_world#20",
      "title": "MLB | Latest News, Stats, and Scores - AP News",
      "published": "2026-11-21T08:55:27+00:00",
      "summary": "MLB | Latest News, Stats, and Scores AP News"
     },
     {
-     "ref": "ap_world#16",
-     "title": "Georgia Governor Election Live Results 2026 - AP News",
-     "published": "2026-11-21T08:55:24+00:00",
-     "summary": "Georgia Governor Election Live Results 2026 AP News"
-    },
-    {
-     "ref": "ap_world#17",
+     "ref": "ap_world#21",
      "title": "Cricket - AP News",
      "published": "2026-11-21T08:21:35+00:00",
      "summary": "Cricket AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#22",
      "title": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines - AP News",
      "published": "2026-11-21T08:14:00+00:00",
      "summary": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines AP News"
     },
     {
-     "ref": "ap_world#19",
-     "title": "Poland | Latest News & Updates - AP News",
-     "published": "2026-11-21T08:09:17+00:00",
-     "summary": "Poland | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "NATO - AP News",
-     "published": "2026-11-21T05:47:28+00:00",
-     "summary": "NATO AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Golf - AP News",
-     "published": "2026-11-21T05:45:24+00:00",
-     "summary": "Golf AP News"
-    },
-    {
-     "ref": "ap_world#22",
+     "ref": "ap_world#23",
      "title": "Haiti | Latest News & Updates - AP News",
-     "published": "2026-11-21T05:45:21+00:00",
+     "published": "2026-11-21T07:29:57+00:00",
      "summary": "Haiti | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#23",
-     "title": "James Harden’s new role, same old burst: A 51-point night that moved him past Kobe Bryant - AP News",
-     "published": "2026-11-21T05:18:00+00:00",
-     "summary": "James Harden’s new role, same old burst: A 51-point night that moved him past Kobe Bryant AP News"
-    },
-    {
      "ref": "ap_world#24",
-     "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
-     "published": "2026-11-21T04:55:00+00:00",
-     "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI AP News"
+     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in - AP News",
+     "published": "2026-11-21T07:26:00+00:00",
+     "summary": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in AP News"
     }
    ]
   },

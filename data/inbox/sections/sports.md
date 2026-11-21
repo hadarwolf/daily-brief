@@ -70,8 +70,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-21T12:30:00Z",
-     "home": "Southampton",
-     "away": "Derby County",
+     "home": "Millwall",
+     "away": "QPR",
      "status": "SCHEDULED",
      "score": null
     },
@@ -94,8 +94,8 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-21T12:30:00Z",
-     "home": "Millwall",
-     "away": "QPR",
+     "home": "Southampton",
+     "away": "Derby County",
      "status": "SCHEDULED",
      "score": null
     },
@@ -110,32 +110,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-21T14:00:00Z",
-     "home": "Como 1907",
-     "away": "Cagliari",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-21T14:00:00Z",
      "home": "Lazio",
      "away": "Lecce",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-21T14:30:00Z",
-     "home": "Frankfurt",
-     "away": "Hoffenheim",
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-21T14:00:00Z",
+     "home": "Como 1907",
+     "away": "Cagliari",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-21T14:30:00Z",
-     "home": "Leverkusen",
-     "away": "SC Paderborn",
+     "home": "M'gladbach",
+     "away": "Dortmund",
      "status": "TIMED",
      "score": null
     },
@@ -158,64 +150,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-21T14:30:00Z",
-     "home": "M'gladbach",
-     "away": "Dortmund",
+     "home": "Leverkusen",
+     "away": "SC Paderborn",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "West Ham",
-     "away": "Preston NE",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Stoke",
-     "away": "Birmingham",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Aston Villa",
-     "away": "Sunderland",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Swansea",
-     "away": "West Brom",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Lincoln City",
-     "away": "Wrexham",
-     "status": "SCHEDULED",
-     "score": null
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Tottenham",
-     "away": "Ipswich Town",
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-21T14:30:00Z",
+     "home": "Frankfurt",
+     "away": "Hoffenheim",
      "status": "TIMED",
      "score": null
     },
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Chelsea",
-     "away": "Leeds United",
+     "home": "Coventry City",
+     "away": "Crystal Palace",
      "status": "TIMED",
      "score": null
     },
@@ -262,9 +214,57 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Coventry City",
-     "away": "Crystal Palace",
+     "home": "Tottenham",
+     "away": "Ipswich Town",
      "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Chelsea",
+     "away": "Leeds United",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "West Ham",
+     "away": "Preston NE",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Stoke",
+     "away": "Birmingham",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Aston Villa",
+     "away": "Sunderland",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Swansea",
+     "away": "West Brom",
+     "status": "SCHEDULED",
+     "score": null
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Lincoln City",
+     "away": "Wrexham",
+     "status": "SCHEDULED",
      "score": null
     },
     {
@@ -300,14 +300,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-21T17:30:00Z",
-     "home": "Newcastle",
-     "away": "Arsenal",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-21T17:30:00Z",
      "home": "Schalke",
@@ -320,6 +312,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-21T17:30:00Z",
      "home": "Sevilla FC",
      "away": "Real Betis",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-21T17:30:00Z",
+     "home": "Newcastle",
+     "away": "Arsenal",
      "status": "TIMED",
      "score": null
     },
@@ -350,8 +350,24 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-21T19:45:00Z",
-     "home": "Lille",
-     "away": "Olympique Lyon",
+     "home": "Strasbourg",
+     "away": "Brest",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-21T19:45:00Z",
+     "home": "Monaco",
+     "away": "Auxerre",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-21T19:45:00Z",
+     "home": "RC Lens",
+     "away": "Toulouse",
      "status": "TIMED",
      "score": null
     },
@@ -366,24 +382,16 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Ligue 1",
      "kickoff_utc": "2026-11-21T19:45:00Z",
-     "home": "RC Lens",
-     "away": "Toulouse",
+     "home": "Lille",
+     "away": "Olympique Lyon",
      "status": "TIMED",
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-21T19:45:00Z",
-     "home": "Strasbourg",
-     "away": "Brest",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-21T19:45:00Z",
-     "home": "Monaco",
-     "away": "Auxerre",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-21T20:00:00Z",
+     "home": "Groningen",
+     "away": "Heerenveen",
      "status": "TIMED",
      "score": null
     },
@@ -400,14 +408,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-21T20:00:00Z",
      "home": "Telstar",
      "away": "Zwolle",
-     "status": "TIMED",
-     "score": null
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-21T20:00:00Z",
-     "home": "Groningen",
-     "away": "Heerenveen",
      "status": "TIMED",
      "score": null
     },
@@ -864,57 +864,57 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "bbc_football#0",
+     "title": "Football Daily",
+     "published": "2026-11-21T10:00:00+00:00",
+     "summary": "Why did Leon choose Aston Villa, & how does the Premier League compare to the Bundesliga?"
+    },
+    {
+     "ref": "bbc_football#1",
      "title": "The Chelsea loanee turning heads and Championship defenders at 17",
      "published": "2026-11-21T08:05:46+00:00",
      "summary": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho."
     },
     {
-     "ref": "bbc_football#1",
+     "ref": "bbc_football#2",
      "title": "Who am I? Plus today's other quizzes",
      "published": "2026-11-21T06:50:31+00:00",
      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
     },
     {
-     "ref": "bbc_football#2",
+     "ref": "bbc_football#3",
      "title": "Jeers, injuries and doubters - White's journey back to the top",
      "published": "2026-11-21T06:17:32+00:00",
      "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win."
     },
     {
-     "ref": "bbc_football#3",
+     "ref": "bbc_football#4",
      "title": "Cost of Man Utd hiring and firing managers nears £100m",
      "published": "2026-11-20T23:18:16+00:00",
      "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer."
     },
     {
-     "ref": "bbc_football#4",
+     "ref": "bbc_football#5",
      "title": "First defeat and first red for Ferguson as Glentoran falter",
      "published": "2026-11-20T22:54:43+00:00",
      "summary": "BBC Sport Northern Ireland looks at Duncan Ferguson's first red card and defeat as Glentoran manager as they are edged out 3-2 by Cliftonville on Friday."
     },
     {
-     "ref": "bbc_football#5",
+     "ref": "bbc_football#6",
      "title": "NFL great Brady could buy Chelsea stake",
      "published": "2026-11-20T22:36:35+00:00",
      "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital."
     },
     {
-     "ref": "bbc_football#6",
+     "ref": "bbc_football#7",
      "title": "Lampard calls for fairness after Coventry penalty row",
      "published": "2026-11-20T22:04:19+00:00",
      "summary": "Coventry boss Frank Lampard wants officials to spend time ensuring they get decisions correct in the wake of his side being denied a penalty at Everton."
     },
     {
-     "ref": "bbc_football#7",
+     "ref": "bbc_football#8",
      "title": "Shevchenko lying about drugs test claims - Mudryk",
      "published": "2026-11-20T21:54:17+00:00",
      "summary": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues."
-    },
-    {
-     "ref": "bbc_football#8",
-     "title": "Watch: Inverness and Ayr play out goalless draw",
-     "published": "2026-11-20T21:47:58+00:00",
-     "summary": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands."
     },
     {
      "ref": "bbc_football#9",
@@ -924,63 +924,63 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#10",
+     "title": "Watch: Inverness and Ayr play out goalless draw",
+     "published": "2026-11-20T21:47:58+00:00",
+     "summary": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands."
+    },
+    {
+     "ref": "bbc_football#11",
      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
      "published": "2026-11-20T20:06:51+00:00",
      "summary": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more."
     },
     {
-     "ref": "bbc_football#11",
+     "ref": "bbc_football#12",
      "title": "Sarr focused on Palace return after Liverpool interest",
      "published": "2026-11-20T18:41:33+00:00",
      "summary": "Crystal Palace forward Ismaila Sarr says he has moved on from Liverpool's interest in signing him and is keen for a \"fresh start\" under Thomas Frank."
     },
     {
-     "ref": "bbc_football#12",
+     "ref": "bbc_football#13",
      "title": "Chelsea fined £150,000 for discriminatory chanting",
      "published": "2026-11-20T17:52:50+00:00",
      "summary": "Chelsea are fined £150,000 by the FA for anti-Catholic and anti-Irish chants during their FA Cup third-round win at Charlton in January."
     },
     {
-     "ref": "bbc_football#13",
+     "ref": "bbc_football#14",
      "title": "Johnstone no longer need to play twice in one day",
      "published": "2026-11-20T17:16:28+00:00",
      "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart."
     },
     {
-     "ref": "bbc_football#14",
+     "ref": "bbc_football#15",
      "title": "Johnstone Burgh no longer required to play twice on Saturday",
      "published": "2026-11-20T17:16:28+00:00",
      "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart."
     },
     {
-     "ref": "bbc_football#15",
+     "ref": "bbc_football#16",
      "title": "Matos accepts Swansea fans' anger over shock exit",
      "published": "2026-11-20T16:57:06+00:00",
      "summary": "Vitor Matos addresses his unexpected departure from Swansea City at his first press conference as RC Strasbourg boss."
     },
     {
-     "ref": "bbc_football#16",
+     "ref": "bbc_football#17",
      "title": "Man Utd fan criticism has gone too far at times - Berrada",
      "published": "2026-11-20T16:55:11+00:00",
      "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\"."
     },
     {
-     "ref": "bbc_football#17",
+     "ref": "bbc_football#18",
      "title": "Football Daily",
      "published": "2026-11-20T16:53:00+00:00",
      "summary": "The team look at Mauricio Pochettino's opening match as Manchester United head coach"
     },
     {
-     "ref": "bbc_football#18",
+     "ref": "bbc_football#19",
      "title": "Mowbray support no surprise, says interim boss Johnson",
      "published": "2026-11-20T16:27:19+00:00",
      "summary": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in."
-    },
-    {
-     "ref": "bbc_football#19",
-     "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
-     "published": "2026-11-20T16:00:04+00:00",
-     "summary": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history."
     },
     {
      "ref": "bbc_football#20",
@@ -990,21 +990,21 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "bbc_football#21",
+     "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
+     "published": "2026-11-20T16:00:04+00:00",
+     "summary": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history."
+    },
+    {
+     "ref": "bbc_football#22",
      "title": "Why injured Joao Pedro may be Chelsea's most important player",
      "published": "2026-11-20T15:18:42+00:00",
      "summary": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues."
     },
     {
-     "ref": "bbc_football#22",
+     "ref": "bbc_football#23",
      "title": "Filming training by drones should be illegal - Iraola",
      "published": "2026-11-20T15:08:51+00:00",
      "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal."
-    },
-    {
-     "ref": "bbc_football#23",
-     "title": "Celtic's Baur out for 10 weeks, says O'Neill",
-     "published": "2026-11-20T14:47:54+00:00",
-     "summary": "Germany midfielder Mika Baur will be out for around 10 weeks with ankle ligament damage, Celtic manager Martin O'Neill says."
     },
     {
      "ref": "bbc_football#24",
@@ -1020,153 +1020,153 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Opinion: It’s OK to Hate-watch Inter Miami - Hooligan Soccer",
+     "published": "2026-11-21T10:00:00+00:00",
+     "summary": "Opinion: It’s OK to Hate-watch Inter Miami Hooligan Soccer"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Inter Miami vs. Columbus Crew, Whitecaps vs. Real Salt Lake Livestream: How to Watch the MLS Cup Playoffs - PCMag",
      "published": "2026-11-21T08:41:27+00:00",
      "summary": "Inter Miami vs. Columbus Crew, Whitecaps vs. Real Salt Lake Livestream: How to Watch the MLS Cup Playoffs PCMag"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
+     "title": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times - Goal.com",
+     "published": "2026-11-21T07:37:54+00:00",
+     "summary": "Major League Soccer (MLS) TV Schedule: Upcoming games, dates and kick-off times Goal.com"
+    },
+    {
+     "ref": "gnews_inter_miami#3",
      "title": "Inter Miami CF vs. Columbus - Live Score - November 21, 2026 - FOX Sports",
      "published": "2026-11-21T07:19:55+00:00",
      "summary": "Inter Miami CF vs. Columbus - Live Score - November 21, 2026 FOX Sports"
     },
     {
-     "ref": "gnews_inter_miami#2",
+     "ref": "gnews_inter_miami#4",
      "title": "Inside Diego Gomez's remarkable rise to the top - Daily Mail",
      "published": "2026-11-21T07:00:53+00:00",
      "summary": "Inside Diego Gomez's remarkable rise to the top Daily Mail"
     },
     {
-     "ref": "gnews_inter_miami#3",
+     "ref": "gnews_inter_miami#5",
+     "title": "MIAvsCLB 11-21-2026 | MLS Match Recap - MLSsoccer.com",
+     "published": "2026-11-21T05:48:25+00:00",
+     "summary": "MIAvsCLB 11-21-2026 | MLS Match Recap MLSsoccer.com"
+    },
+    {
+     "ref": "gnews_inter_miami#6",
      "title": "Pre-match Columbus Crew vs Inter Miami, MLS Last 16 - BeSoccer Livescore",
      "published": "2026-11-21T05:19:44+00:00",
      "summary": "Pre-match Columbus Crew vs Inter Miami, MLS Last 16 BeSoccer Livescore"
     },
     {
-     "ref": "gnews_inter_miami#4",
+     "ref": "gnews_inter_miami#7",
      "title": "Lionel Messi back on MLS Cup trail as Inter Miami face Columbus Crew in opening play-off clash - The National",
      "published": "2026-11-21T05:03:45+00:00",
      "summary": "Lionel Messi back on MLS Cup trail as Inter Miami face Columbus Crew in opening play-off clash The National"
     },
     {
-     "ref": "gnews_inter_miami#5",
+     "ref": "gnews_inter_miami#8",
      "title": "Red-hot Crew face playoff test from Inter Miami, Lionel Messi - Miami Herald",
      "published": "2026-11-21T03:32:40+00:00",
      "summary": "Red-hot Crew face playoff test from Inter Miami, Lionel Messi Miami Herald"
     },
     {
-     "ref": "gnews_inter_miami#6",
+     "ref": "gnews_inter_miami#9",
+     "title": "MLS Cup Playoffs Round One: Inter Miami Face Columbus Crew, Nashville SC Meet FC Cincinnati - 懂球帝",
+     "published": "2026-11-21T03:03:00+00:00",
+     "summary": "MLS Cup Playoffs Round One: Inter Miami Face Columbus Crew, Nashville SC Meet FC Cincinnati 懂球帝"
+    },
+    {
+     "ref": "gnews_inter_miami#10",
+     "title": "Columbus vs. Miami (Nov 27, 2026) Live Score - ESPN",
+     "published": "2026-11-21T02:16:27+00:00",
+     "summary": "Columbus vs. Miami (Nov 27, 2026) Live Score ESPN"
+    },
+    {
+     "ref": "gnews_inter_miami#11",
      "title": "How GTA’s Vice City became the heartbeat of Lionel Messi’s Inter Miami stands - Diario AS",
      "published": "2026-11-21T01:28:03+00:00",
      "summary": "How GTA’s Vice City became the heartbeat of Lionel Messi’s Inter Miami stands Diario AS"
     },
     {
-     "ref": "gnews_inter_miami#7",
-     "title": "Inter Miami vs Columbus Crew - Odds, Live Scores and Detailed Stats - BettingOdds.com",
-     "published": "2026-11-21T00:03:22+00:00",
-     "summary": "Inter Miami vs Columbus Crew - Odds, Live Scores and Detailed Stats BettingOdds.com"
+     "ref": "gnews_inter_miami#12",
+     "title": "Inter Miami vs Columbus Crew: Kalshi Promo Code & $55 Bonus - Squawka",
+     "published": "2026-11-21T00:25:29+00:00",
+     "summary": "Inter Miami vs Columbus Crew: Kalshi Promo Code & $55 Bonus Squawka"
     },
     {
-     "ref": "gnews_inter_miami#8",
+     "ref": "gnews_inter_miami#13",
      "title": "Columbus Crew vs. Inter Miami CF - November 21, 2026 - Bleacher Report",
      "published": "2026-11-21T00:00:40+00:00",
      "summary": "Columbus Crew vs. Inter Miami CF - November 21, 2026 Bleacher Report"
     },
     {
-     "ref": "gnews_inter_miami#9",
-     "title": "Inter Miami vs Columbus Crew: Where to watch, live stream, TV channel and kick-off time - Goal.com",
-     "published": "2026-11-20T23:37:08+00:00",
-     "summary": "Inter Miami vs Columbus Crew: Where to watch, live stream, TV channel and kick-off time Goal.com"
+     "ref": "gnews_inter_miami#14",
+     "title": "Watch Inter Miami CF vs Columbus Crew live today: Who is broadcasting the match on TV and via live stream? - Goal.com",
+     "published": "2026-11-20T23:39:07+00:00",
+     "summary": "Watch Inter Miami CF vs Columbus Crew live today: Who is broadcasting the match on TV and via live stream? Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#10",
+     "ref": "gnews_inter_miami#15",
      "title": "MATCH PREVIEW: Inter Miami CF Hosts Columbus Crew in Game 1 of Best-of-3-Series - Inter Miami CF",
      "published": "2026-11-20T23:36:02+00:00",
      "summary": "MATCH PREVIEW: Inter Miami CF Hosts Columbus Crew in Game 1 of Best-of-3-Series Inter Miami CF"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#16",
+     "title": "Kily González Explains How Inter Miami Will Adapt to Messi Ahead of MLS Cup Playoff Clash With Columbus - Pasión Fútbol",
+     "published": "2026-11-20T22:49:03+00:00",
+     "summary": "Kily González Explains How Inter Miami Will Adapt to Messi Ahead of MLS Cup Playoff Clash With Columbus Pasión Fútbol"
+    },
+    {
+     "ref": "gnews_inter_miami#17",
      "title": "2026 MLS Cup Playoffs: Full Bracket, Schedule, Key Matches for Round One - LiveScore",
      "published": "2026-11-20T22:13:22+00:00",
      "summary": "2026 MLS Cup Playoffs: Full Bracket, Schedule, Key Matches for Round One LiveScore"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#18",
+     "title": "Inter Miami coach: When Messi in form, the team performs better‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌​⁠⁠ - AllFootball",
+     "published": "2026-11-20T21:57:16+00:00",
+     "summary": "Inter Miami coach: When Messi in form, the team performs better‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌​⁠⁠ AllFootball"
+    },
+    {
+     "ref": "gnews_inter_miami#19",
      "title": "A USMNT Fan's Guide to the 2026 MLS Cup Playoffs (Eastern Conference First Round Edition) - LiveScore",
      "published": "2026-11-20T21:40:27+00:00",
      "summary": "A USMNT Fan's Guide to the 2026 MLS Cup Playoffs (Eastern Conference First Round Edition) LiveScore"
     },
     {
-     "ref": "gnews_inter_miami#13",
-     "title": "Inter Miami coach: When Messi in form, the team performs better‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌ - AllFootball",
-     "published": "2026-11-20T21:18:56+00:00",
-     "summary": "Inter Miami coach: When Messi in form, the team performs better‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌ AllFootball"
+     "ref": "gnews_inter_miami#20",
+     "title": "Messi tops MLS salary rankings as Son Heung-min places fourth - Chosunbiz",
+     "published": "2026-11-20T21:30:00+00:00",
+     "summary": "Messi tops MLS salary rankings as Son Heung-min places fourth Chosunbiz"
     },
     {
-     "ref": "gnews_inter_miami#14",
+     "ref": "gnews_inter_miami#21",
      "title": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 - Sportskeeda",
      "published": "2026-11-20T20:42:57+00:00",
      "summary": "Inter Miami CF vs Columbus Crew Prediction and Betting Tips | November 21st 2026 Sportskeeda"
     },
     {
-     "ref": "gnews_inter_miami#15",
+     "ref": "gnews_inter_miami#22",
      "title": "Philadelphia Union vs Inter Miami: Form Meets the Table | News | Football.com Ghana - Football.com",
      "published": "2026-11-20T20:00:00+00:00",
      "summary": "Philadelphia Union vs Inter Miami: Form Meets the Table | News | Football.com Ghana Football.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#23",
      "title": "Philadelphia Union Host Inter Miami as Messi Status Looms | News | Football.com Ghana - Football.com",
      "published": "2026-11-20T20:00:00+00:00",
      "summary": "Philadelphia Union Host Inter Miami as Messi Status Looms | News | Football.com Ghana Football.com"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#24",
      "title": "Inter Miami vs. Columbus Crew: Lineups, Stats, Kickoff Time, and Where to Watch - news.bet365.com",
      "published": "2026-11-20T19:55:20+00:00",
      "summary": "Inter Miami vs. Columbus Crew: Lineups, Stats, Kickoff Time, and Where to Watch news.bet365.com"
-    },
-    {
-     "ref": "gnews_inter_miami#18",
-     "title": "Inter Miami coach Kily González reveals game plan for Messi and Suárez ahead of crucial MLS playoff - Diario AS",
-     "published": "2026-11-20T19:29:28+00:00",
-     "summary": "Inter Miami coach Kily González reveals game plan for Messi and Suárez ahead of crucial MLS playoff Diario AS"
-    },
-    {
-     "ref": "gnews_inter_miami#19",
-     "title": "Who will Inter Miami play next in MLS playoffs? - The Sun",
-     "published": "2026-11-20T19:10:52+00:00",
-     "summary": "Who will Inter Miami play next in MLS playoffs? The Sun"
-    },
-    {
-     "ref": "gnews_inter_miami#20",
-     "title": "Columbus Crew look to thwart Messi, Miami bid for 2nd straight MLS Cup - The Columbus Dispatch",
-     "published": "2026-11-20T18:23:00+00:00",
-     "summary": "Columbus Crew look to thwart Messi, Miami bid for 2nd straight MLS Cup The Columbus Dispatch"
-    },
-    {
-     "ref": "gnews_inter_miami#21",
-     "title": "Inter Miami CF Academy U-13s in International Action at Newell’s Cup in Rosario, Argentina - Inter Miami CF",
-     "published": "2026-11-20T18:10:49+00:00",
-     "summary": "Inter Miami CF Academy U-13s in International Action at Newell’s Cup in Rosario, Argentina Inter Miami CF"
-    },
-    {
-     "ref": "gnews_inter_miami#22",
-     "title": "Lionel Messi's wife Antonella shows off curves in figure hugging gym gear - The Sun",
-     "published": "2026-11-20T17:35:43+00:00",
-     "summary": "Lionel Messi's wife Antonella shows off curves in figure hugging gym gear The Sun"
-    },
-    {
-     "ref": "gnews_inter_miami#23",
-     "title": "2026 MLS Cup Playoffs First Round Predictions: Will Messi, Inter Miami Advance? - FOX Sports",
-     "published": "2026-11-20T16:27:51+00:00",
-     "summary": "2026 MLS Cup Playoffs First Round Predictions: Will Messi, Inter Miami Advance? FOX Sports"
-    },
-    {
-     "ref": "gnews_inter_miami#24",
-     "title": "Casemiro eyes another title with Lionel Messi: “It’s an honor” - MLSsoccer.com",
-     "published": "2026-11-20T16:03:29+00:00",
-     "summary": "Casemiro eyes another title with Lionel Messi: “It’s an honor” MLSsoccer.com"
     }
    ]
   },

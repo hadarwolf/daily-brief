@@ -184,7 +184,7 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Backblaze Notice at Collection and Privacy Policy",
      "published": "2026-11-21T03:23:16+00:00",
-     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 189 # Comments: 57"
+     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 189 # Comments: 58"
     },
     {
      "ref": "hn_frontpage#1",
@@ -196,73 +196,73 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#2",
      "title": "NINLIVE: The Nine Inch Nails live archive",
      "published": "2026-11-20T22:30:47+00:00",
-     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 256 # Comments: 64"
+     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 257 # Comments: 64"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Inkling 2 Mini",
      "published": "2026-11-20T20:12:19+00:00",
-     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 977 # Comments: 183"
+     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 993 # Comments: 185"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
      "published": "2026-11-20T20:03:59+00:00",
-     "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 211 # Comments: 59"
+     "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 213 # Comments: 64"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
      "published": "2026-11-20T20:03:07+00:00",
-     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 288 # Comments: 251"
+     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 292 # Comments: 254"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "published": "2026-11-20T18:33:14+00:00",
-     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2043 # Comments: 943"
+     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2055 # Comments: 958"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "We promoted developers into architects without informing them",
      "published": "2026-11-20T18:17:51+00:00",
-     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 425 # Comments: 235"
+     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 429 # Comments: 237"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "published": "2026-11-20T17:21:36+00:00",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 442 # Comments: 181"
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 445 # Comments: 181"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Language Models Can Rewrite Their Own Weights",
      "published": "2026-11-20T16:29:06+00:00",
-     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 408 # Comments: 118"
+     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 408 # Comments: 119"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Finite-time blow-up for the Navier–Stokes equations",
      "published": "2026-11-20T15:34:31+00:00",
-     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 286 # Comments: 88"
+     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 287 # Comments: 88"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Slopstrap – Make your site look hastily vibecoded",
      "published": "2026-11-20T15:24:11+00:00",
-     "summary": "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 250 # Comments: 42"
+     "summary": "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 259 # Comments: 42"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "published": "2026-11-20T14:16:21+00:00",
-     "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2625 # Comments: 1801"
+     "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2637 # Comments: 1817"
     },
     {
      "ref": "hn_frontpage#13",
      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
      "published": "2026-11-20T13:29:59+00:00",
-     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 307 # Comments: 576"
+     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 311 # Comments: 584"
     }
    ]
   },
