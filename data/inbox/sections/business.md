@@ -48,9 +48,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "bloomberg_markets#5",
-     "title": "China Military Bans SF Express From Procurement Over Misconduct",
+     "title": "China Military Bars SF Express Over Procurement Misconduct",
      "published": "2026-11-21T05:00:48+00:00",
-     "summary": "SF Express Co., a leading Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations."
+     "summary": "SF Express Co., a Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations."
     },
     {
      "ref": "bloomberg_markets#6",
@@ -553,9 +553,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 57960.4805,
+   "last": 57831.5391,
    "prev_close": 58798.9805,
-   "change_pct": -1.43,
+   "change_pct": -1.65,
    "as_of": "2026-11-21"
   }
  },

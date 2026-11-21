@@ -182,87 +182,87 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Backblaze Notice at Collection and Privacy Policy",
-     "published": "2026-11-21T03:23:16+00:00",
-     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 189 # Comments: 58"
-    },
-    {
-     "ref": "hn_frontpage#1",
      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
      "published": "2026-11-20T23:18:32+00:00",
      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzar"
     },
     {
-     "ref": "hn_frontpage#2",
+     "ref": "hn_frontpage#1",
      "title": "NINLIVE: The Nine Inch Nails live archive",
      "published": "2026-11-20T22:30:47+00:00",
-     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 257 # Comments: 64"
+     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 266 # Comments: 68"
+    },
+    {
+     "ref": "hn_frontpage#2",
+     "title": "Inkling 2 Mini",
+     "published": "2026-11-20T20:12:19+00:00",
+     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1018 # Comments: 193"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Inkling 2 Mini",
-     "published": "2026-11-20T20:12:19+00:00",
-     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 993 # Comments: 185"
+     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+     "published": "2026-11-20T20:03:59+00:00",
+     "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 220 # Comments: 70"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-     "published": "2026-11-20T20:03:59+00:00",
-     "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 213 # Comments: 64"
+     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+     "published": "2026-11-20T20:03:07+00:00",
+     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 300 # Comments: 263"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-     "published": "2026-11-20T20:03:07+00:00",
-     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 292 # Comments: 254"
+     "title": "Winedroid – run Android apps without Android (WASM demo)",
+     "published": "2026-11-20T19:30:16+00:00",
+     "summary": "Article URL: https://winedroid.soham.sh/demo/ Comments URL: https://news.ycombinator.com/item?id=50580536 Points: 150 # Comments: 42"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "published": "2026-11-20T18:33:14+00:00",
-     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2055 # Comments: 958"
+     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2094 # Comments: 973"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "We promoted developers into architects without informing them",
      "published": "2026-11-20T18:17:51+00:00",
-     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 429 # Comments: 237"
+     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 440 # Comments: 240"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "published": "2026-11-20T17:21:36+00:00",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 445 # Comments: 181"
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 450 # Comments: 182"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Language Models Can Rewrite Their Own Weights",
      "published": "2026-11-20T16:29:06+00:00",
-     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 408 # Comments: 119"
+     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 414 # Comments: 122"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Finite-time blow-up for the Navier–Stokes equations",
      "published": "2026-11-20T15:34:31+00:00",
-     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 287 # Comments: 88"
+     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 292 # Comments: 92"
     },
     {
      "ref": "hn_frontpage#11",
      "title": "Slopstrap – Make your site look hastily vibecoded",
      "published": "2026-11-20T15:24:11+00:00",
-     "summary": "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 259 # Comments: 42"
+     "summary": "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 286 # Comments: 47"
     },
     {
      "ref": "hn_frontpage#12",
      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "published": "2026-11-20T14:16:21+00:00",
-     "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2637 # Comments: 1817"
+     "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2654 # Comments: 1836"
     },
     {
      "ref": "hn_frontpage#13",
      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
      "published": "2026-11-20T13:29:59+00:00",
-     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 311 # Comments: 584"
+     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 323 # Comments: 595"
     }
    ]
   },
@@ -377,12 +377,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "The Download: AI learns to smell and hydropower struggles",
      "published": "2026-11-18T13:10:00+00:00",
      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…"
-    },
-    {
-     "ref": "mit_tech_review#7",
-     "title": "This smell startup says its AI nose is as good as a human’s",
-     "published": "2026-11-18T10:20:30+00:00",
-     "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…"
     }
    ]
   },
