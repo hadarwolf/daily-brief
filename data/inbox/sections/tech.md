@@ -146,45 +146,39 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים",
+     "published": "2026-11-21T08:21:29+00:00",
+     "summary": "בזמן שרבים בהייטק חוששים שה-AI יחליף אותם (והנתונים בהחלט מעידים על מקום לדאגה), משחק ישראלי חדש מציע לכם לעבור דווקא לצד השני של המתרס. במקום לעדכן קורות חיים ולעבוד על יכולות הריאיון שלכם, אתם תיכנסו לנעליים של מעבדת AI ותנסו להשתלט על שוק העבודה העולמי, מקצוע אחר מקצוע, לפני שהרגולציה תשתלט עליכם. כשסין ניסתה לגנוב […] The post במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים appeared first on גיק"
+    },
+    {
+     "ref": "geektime#1",
      "title": "סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת",
      "published": "2026-11-20T11:51:07+00:00",
      "summary": "אם יש כלל ברזל שלמדנו בעשורים האחרונים הוא שהאינטרנט זוכר הכל – גם פליטות פה רנדומליות. סם אלטמן, מנכ\"ל OpenAI, גילה את זה בדרך הקשה אחרי שהתלונן על הדרך שבה אנחנו, המוגלגים, \"מבזבזים\" RAM במחשבים שלנו, במקום שחוות השרתים של ChatGPT יוכלו לנצל את המשאב הנדיר. אז מפתח אחד החליט לקחת את האמירה הזו לקצה, […] The post סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#2",
      "title": "כמה אתם מוכנים לשלם כדי להפסיק לאסוף קקי של חתולים?",
      "published": "2026-11-20T08:45:30+00:00",
      "summary": "יש לי שלושה חתולים. היו גם ארבעה, אבל אחת הוכיחה שתשע נשמות זו אגדה אורבנית ועברה לצרוך אוכל היפואלרגני בשמיים. אבל אם אני שם רגע בצד את ענייני הלוגיסטיקה והעלות של אוכל ל-3 חתולים, הבעיה האמיתית שלי היא העובדה שיש הרבה מאוד קקי ופיפי שלהם לנקות. כדי לצמצם את המפגע הריחני, אפילו הפקעתי את מרפסת […] The post כמה אתם מוכנים לשלם כדי להפסיק לאסוף קקי של חתולים? appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#3",
      "title": "ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר",
      "published": "2026-11-19T19:08:24+00:00",
      "summary": "לפני קצת פחות מ-6 שנים הוקמה Anthropic על ידי שבעה מייסדים, בהם האחים דניאלה ודריו אמודיי, שעזבו בטריקת דלת את OpenAI, והיום (ה') היא הופכת לחברה ציבורית בהנפקה הכי גדולה בהיסטוריה, וחוצה אף את שווי השוק של 2 טריליון דולר. לא הפסיקו לגייס המפתחת של מודלי קלוד וקלוד קוד החלה להיסחר היום בנאסד\"ק תחת הסימול […] The post ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר appeared first on "
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#4",
      "title": "הפשע המושלם: שילמו לי כדי לשחק GTA 6 וזה מה שחשבתי עליו",
      "published": "2026-11-19T15:25:01+00:00",
      "summary": "אני חושב שעשיתי היום את הפשע המושלם. לא, אני לא מדבר על משימה ב-GTA 6. אני מדבר על הפשע המושלם שבמסגרתו קמתי היום בבוקר, הפעלתי את ה-PlayStation 5 והתחלתי לשחק ב-GTA 6 – וקיבלתי על זה משכורת. כן, זה אחד הימים האלה שבהם אני לא מאמין שזו העבודה שלי, אבל מישהו צריך לעשות את העבודה […] The post הפשע המושלם: שילמו לי כדי לשחק GTA 6 וזה מה שחשבתי עליו appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#5",
      "title": "מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר",
      "published": "2026-11-19T09:35:10+00:00",
      "summary": "בחודש אוקטובר האחרון, מיקרוסופט הטילה פצצה בעולם הטכנולוגיה כשהציעה ל-60 אלף עובדים – כמעט 30% מסך העובדים בחברה – להתפטר במסגרת של חבילות פרישה מרצון. על פניו זה הריח כמו גל פיטורים שקט, כמעט מנומס של החברה, אבל עכשיו המנכ\"ל סאטיה נאדלה מסביר את המהלך. אמ;לק: זה ה-AI, אבל לא בקטע של \"הרובוטים מחליפים אותנו\", […] The post מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר appeared first on גיקט"
-    },
-    {
-     "ref": "geektime#5",
-     "title": "בפעם השנייה השנה: Tipalti מפטרת עשרות עובדים בישראל",
-     "published": "2026-11-19T08:43:54+00:00",
-     "summary": "סבב קיצוצים נוסף בחברת הפינטק הישראלית Tipalti: במסגרת המהלך צפויה החברה לקצץ קרוב ל-25% מכוח האדם שלה בעולם, כשעשרות עובדים בישראל צפויים לסיים את תפקידם. כיום מעסיקה החברה כ-900 עובדים בעולם וכ-300 מתוכם בישראל. סבב הפיטורים הזה הוא הרביעי של החברה בשנים האחרונות והשני ב-2026. מגמת הקיצוצים החלה ב-2023, אז נפרדה החברה מ-123 עובדים – […] The post בפעם השנייה השנה: Tipalti מפטרת עשרות עובדים בישרא"
-    },
-    {
-     "ref": "geektime#6",
-     "title": "גוגל מביאה את מצב האינקוגניטו לחיפוש ה-AI שלה",
-     "published": "2026-11-19T07:54:31+00:00",
-     "summary": "רוצים לשאול את גוגל משהו אישי או סתם לחפש מידע בלי שהוא ירדוף אחריכם לכל מקום ברשת? עד עכשיו ה-AI של גוגל לא ממש אפשר לכם לעשות את זה, אבל פיצ'ר חדש מנסה להביא את מצב ה-Incognito המוכר (גם אם שנוי במחלוקת) גם לחיפוש ה-AI שלה. האם עכשיו באמת תוכלו לחפש בלי להשאיר עקבות? […] The post גוגל מביאה את מצב האינקוגניטו לחיפוש ה-AI שלה appeared first on גיקטיים ."
     }
    ]
   },
@@ -194,81 +188,81 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Re: Riemann",
-     "published": "2026-11-20T23:42:44+00:00",
-     "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 157 # Comments: 146"
+     "title": "Backblaze Notice at Collection and Privacy Policy",
+     "published": "2026-11-21T03:23:16+00:00",
+     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 184 # Comments: 56"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "NINLIVE: The Nine Inch Nails live archive",
      "published": "2026-11-20T22:30:47+00:00",
-     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 152 # Comments: 37"
+     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 247 # Comments: 64"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
-     "published": "2026-11-20T20:22:41+00:00",
-     "summary": "Article URL: https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627 Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 248 # Comments: 130"
+     "title": "Inkling 2 Mini",
+     "published": "2026-11-20T20:12:19+00:00",
+     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 954 # Comments: 177"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "Inkling 2 Mini",
-     "published": "2026-11-20T20:12:19+00:00",
-     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 761 # Comments: 129"
+     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+     "published": "2026-11-20T20:03:59+00:00",
+     "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 204 # Comments: 56"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
      "published": "2026-11-20T20:03:07+00:00",
-     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 227 # Comments: 205"
+     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 280 # Comments: 248"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "published": "2026-11-20T18:33:14+00:00",
-     "summary": "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1685 # Comments: 750"
+     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1994 # Comments: 922"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "We promoted developers into architects without informing them",
      "published": "2026-11-20T18:17:51+00:00",
-     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 331 # Comments: 192"
+     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 417 # Comments: 233"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "published": "2026-11-20T17:21:36+00:00",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 368 # Comments: 147"
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 436 # Comments: 176"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Language Models Can Rewrite Their Own Weights",
      "published": "2026-11-20T16:29:06+00:00",
-     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 355 # Comments: 113"
+     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 401 # Comments: 118"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Finite-time blow-up for the Navier–Stokes equations",
      "published": "2026-11-20T15:34:31+00:00",
-     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 265 # Comments: 84"
+     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 282 # Comments: 88"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-     "published": "2026-11-20T14:16:21+00:00",
-     "summary": "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2420 # Comments: 1631"
+     "title": "Slopstrap – Make your site look hastily vibecoded",
+     "published": "2026-11-20T15:24:11+00:00",
+     "summary": "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 235 # Comments: 42"
     },
     {
      "ref": "hn_frontpage#11",
-     "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-     "published": "2026-11-20T09:43:19+00:00",
-     "summary": "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 637 # Comments: 299"
+     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+     "published": "2026-11-20T14:16:21+00:00",
+     "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2598 # Comments: 1788"
     },
     {
      "ref": "hn_frontpage#12",
-     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-     "published": "2026-11-20T09:42:16+00:00",
-     "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 525 # Comments: 310"
+     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+     "published": "2026-11-20T13:29:59+00:00",
+     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 292 # Comments: 563"
     }
    ]
   },

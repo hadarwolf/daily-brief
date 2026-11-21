@@ -145,79 +145,84 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "*The Great Enrichment*",
+     "published": "2026-11-21T07:25:41+00:00",
+     "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: …regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much improvement there truly was. From 1870 to […] The post *The Great Enrichment* appeared first on Margin",
+     "full_text_file": "essays/marginal_revolution_0.txt"
+    },
+    {
+     "ref": "marginal_revolution#1",
+     "title": "Emergent Ventures, 60th cohort",
+     "published": "2026-11-21T06:13:27+00:00",
+     "summary": "Faris Allafi, Abu Dhabi, 13, train AI models. Eliel Selin, Helsinki, 18, AI agents. Robert Boswall, London area, energy information for the UK. Alex Yang, Harvard, genetics for better organ transplants. Stanislaw Tomaszewski, Warsaw area, AI agents and the organization of trucking. Jonas Dolezal, London, nuclear fusion. Shawnak Shivakumar, Stanford, longevity research. Ruzgar Albayrak, Izmir, […] "
+    },
+    {
+     "ref": "marginal_revolution#2",
      "title": "What should I ask Walter Isaacson?",
      "published": "2026-11-20T18:44:40+00:00",
      "summary": "Yes I will be doing a Conversation with him, in part to celebrate the reissue of his earlier book The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution. And also to celebrate his new podcast, The Builders. He has other books too! So what should I ask him? The post What should I ask Walter Isaacson? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#3",
      "title": "Friday assorted links",
      "published": "2026-11-20T15:26:56+00:00",
      "summary": "1. Markets drive moods, and not vice versa? 2. AI literary scandals and the future of the Latin American novel. 3. New Stripe Press website. 4. Does Claude’s constitution mean anything? 5. Did the Baby Boom help cause the later divorce boom? 6. “Social adversity in early life has minimal, predominantly positive long-term consequences for […] The post Friday assorted links appeared first on Margina"
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#4",
      "title": "Phonics-based Instruction and Student Achievement",
      "published": "2026-11-20T08:00:04+00:00",
      "summary": "That is a new NBER working paper by Alex Hollingsworth, Alberto Ortega & Nikolaos Zirogiannis. Abstract: Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How best to teach reading and improve educational attainment has been an active policy debate for decades. Recently, phonics-based approaches […] The post Phonics-based Instruction and Stu",
-     "full_text_file": "essays/marginal_revolution_2.txt"
+     "full_text_file": "essays/marginal_revolution_4.txt"
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#5",
      "title": "AIs vs. humans in economics papers",
      "published": "2026-11-20T05:53:10+00:00",
      "summary": "Is agentic research any good? Dr Yanagizawa-Drott and his colleague, Olaf Willner, used an AI verifier to check 1,000 APE papers. None was error-free; 842 contained at least one severe error, including ones invalidating headline results. To see roughly how Ape stacks up against human primates, The Economist teamed up with Refine, the research-verification firm […] The post AIs vs. humans in econom",
-     "full_text_file": "essays/marginal_revolution_3.txt"
+     "full_text_file": "essays/marginal_revolution_5.txt"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#6",
      "title": "Thursday assorted links",
      "published": "2026-11-19T17:16:30+00:00",
      "summary": "1. How to turn AI-written maths into a video. 2. Honeypot markets in everything? 3. Traveling a lot without going on planes (WSJ). 4. American audiovisual exports have plunged in terms of global share (I think that is fine and arguably good, by the way). 5. “There’s been a 30 year debate between cyber revolutionaries and […] The post Thursday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#7",
      "title": "The Anthropic IPO",
      "published": "2026-11-19T06:40:05+00:00",
-     "summary": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might […] The post The Anthropic IPO appeared first on Marginal REVOLUTION .",
-     "full_text_file": "essays/marginal_revolution_5.txt"
+     "summary": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might […] The post The Anthropic IPO appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#8",
      "title": "Will Baird, book maven (from my email)",
      "published": "2026-11-19T06:02:15+00:00",
-     "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, […] The post Will Baird, book maven (from my em",
-     "full_text_file": "essays/marginal_revolution_6.txt"
+     "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, […] The post Will Baird, book maven (from my em"
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#9",
      "title": "UK productivity update",
      "published": "2026-11-18T18:53:56+00:00",
      "summary": "Output per hour worked increased by 2.5% in Quarter 3 (July to Sept) 2026 compared with the same quarter a year ago, reflecting a 2.0% increase in GVA and a 0.5% decrease in hours worked. Output per worker increased by 2.0% in Quarter 3 2026 compared with the same quarter a year ago. This was […] The post UK productivity update appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#10",
      "title": "The economics of investment expensing",
      "published": "2026-11-18T18:17:04+00:00",
      "summary": "In July 2025, the One Big Beautiful Bill Act made 100% equipment expensing permanent after two decades of temporary bonus depreciation. I evaluate this reform in a general-equilibrium heterogeneous-firm model with collateral constraints and nonrefundable tax deductions. When matched to U.S. tax-return and Compustat moments, the model yields three findings. First, permanent expensing raises long-ru"
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#11",
      "title": "Wednesday assorted links",
      "published": "2026-11-18T16:41:46+00:00",
      "summary": "1. Chinese AI companies way down in value. 2. Allison Schrager is starting a podcast with Ken Rogoff. 3. Extensive survey of students on AI. 4. Robert Lynch on lookism. 5. New version of Claude Blattman. 6. Seb Krier on the Christiano interview. The whole dialogue over this interview is a good example of why […] The post Wednesday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#12",
      "title": "Was Achilles Conscious?",
      "published": "2026-11-18T12:18:00+00:00",
      "summary": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued that intelligent behavior preceded introspective consciousness. People could speak, learn, farm, build cities, and solve problems without mentally representing […] The post Was Achille"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Me on the cyberattacks",
-     "published": "2026-11-18T06:10:57+00:00",
-     "summary": "Tyler Cowen: Don’t Be Fooled By Randomness The problems are serious, but the sky is not falling in. When it comes to the recent service outages, keep a few points in mind. First, cyber risk is considerably higher than it used to be. Due to progress in AI systems, cyber offense has outraced cyber defense. […] The post Me on the cyberattacks appeared first on Marginal REVOLUTION ."
     }
    ]
   },
