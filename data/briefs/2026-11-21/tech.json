@@ -1,0 +1,132 @@
+{
+  "section": "tech",
+  "date": "2026-11-21",
+  "title_en": "Tech & AI",
+  "title_he": "טכנולוגיה ובינה מלאכותית",
+  "default_lang": "en",
+  "generated_at": "2026-11-21T04:01:09+00:00",
+  "stories": [
+    {
+      "id": "riemann-hypothesis-claims",
+      "kind": "analysis",
+      "en": {
+        "headline": "Two rival claims to have proved the Riemann Hypothesis surface in the same week",
+        "scroll": "Within days, an Anthropic mathematician working with Claude and an independent researcher both claimed proofs of the 160-year-old Riemann Hypothesis, and mathematicians are still checking the work.",
+        "coffee": "The Riemann Hypothesis is one of the seven Millennium Prize Problems set by the Clay Mathematics Institute, each carrying a $1 million prize, and it concerns where the zeros of the Riemann zeta function sit - a question deeply tied to how prime numbers are distributed.\n\nTwo claims surfaced this week. Levent Alpoge, a mathematician at Anthropic, wrote that he believes he and Claude have discovered a proof of the Riemann Hypothesis, that the method extends to the stronger Generalized Riemann Hypothesis (GRH) and possibly further to the Extended Riemann Hypothesis, and that the arguments have also been formalized. Separately, mathematician Alessandro Masullo has an independent, human-only proof of GRH that Stanford's Brian Conrad has been reviewing closely for months; according to a note from mathematician Ravi Vakil, it is \"so far looking good.\"\n\nNot everyone is convinced. Computer scientist Scott Aaronson responded to the AI-assisted claim with open skepticism, titling his post \"the stochastic parrots have apparently proved the Riemann Hypothesis.\" Neither claim has been formally peer-reviewed, and the math community is still checking the work.",
+        "deep": "## Background\n\nThe Riemann Hypothesis, proposed by Bernhard Riemann in 1859, concerns where the non-trivial zeros of the Riemann zeta function lie. It is one of the seven Millennium Prize Problems designated by the Clay Mathematics Institute, each carrying a $1 million prize, and the only problem from David Hilbert's original 1900 list that remains unsolved. A proof would instantly rank among the most significant results in the history of mathematics.\n\n## The claims\n\nTwo separate claims emerged within the same short window. Levent Alpoge, a mathematician at Anthropic, posted that he believes he has, working with Claude, discovered a proof of the Riemann Hypothesis - and that the method extends to the Generalized Riemann Hypothesis, and he expects, with more time, to the Extended Riemann Hypothesis too. He said he and Claude have also formalized the arguments without additional assumptions.\n\nSeparately, mathematician Alessandro Masullo has a proof of GRH described as entirely human-derived, with no AI involvement. Stanford's Brian Conrad has reportedly been reviewing it closely for months, giving extensive feedback that is being incorporated, and - according to a note shared by mathematician Ravi Vakil - it is \"so far looking good.\" The original plan was to bring Masullo to Stanford for a year to polish the writeup before announcing, but that timeline appears to have moved up once word started spreading. Adjacent discussion on Hacker News also pointed to related claims the same week, including posts referencing purported progress on a Navier-Stokes blow-up problem connected to GRH - suggesting a cluster of claims rather than one isolated event.\n\n## Why it matters, if true\n\nThe Riemann Hypothesis has resisted proof for more than 160 years and underlies results across number theory. A verified AI-assisted proof would be a landmark moment for treating large language models as genuine mathematical collaborators rather than just code or algebra assistants - a meaningfully different claim than a model helping draft or check routine proofs.\n\n## Second-order effects\n\n- Verification burden: proofs at this scale typically take the mathematical community months or years of line-by-line checking before they're accepted; both claims are only at the start of that process.\n- AI's role under scrutiny: the skepticism aimed at the Claude-assisted claim reflects an unresolved question in the field - whether a language model can meaningfully contribute to original mathematical reasoning, or mainly produces plausible-sounding text that still needs a human expert to rescue or verify.\n- Reputational stakes: a premature or incorrect announcement could set back public trust in both human and AI-assisted mathematics; a confirmed proof, by contrast, would be one of the most significant mathematical results of the decade.\n\n## What to watch next\n\nFormal write-ups and peer review from both camps, any statement from the Clay Mathematics Institute (which administers the Millennium Prize), and whether mathematicians beyond Conrad and Vakil go on record. Until independent verification lands, both remain claims, not proofs."
+      },
+      "he": {
+        "headline": "שתי טענות מתחרות להוכחת השערת רימן צפות בתוך שבוע אחד",
+        "scroll": "בתוך ימים ספורים, מתמטיקאי מאנתרופיק שעבד עם קלוד (Claude) וחוקר עצמאי טענו שניהם להוכחת השערת רימן (Riemann Hypothesis) בת 160 השנה, והקהילה המתמטית עדיין בודקת את העבודה.",
+        "coffee": "השערת רימן היא אחת משבע \"בעיות פרס המילניום\" (Millennium Prize Problems) של מכון קליי למתמטיקה, כל אחת עם פרס של מיליון דולר, והיא עוסקת במיקומם של האפסים של פונקציית זטא של רימן - שאלה הקשורה עמוקות להתפלגות המספרים הראשוניים.\n\nהשבוע צפו שתי טענות הוכחה. לבנט אלפוגה (Levent Alpoge), מתמטיקאי באנתרופיק, כתב שהוא מאמין שהוא וקלוד גילו הוכחה להשערת רימן, שהשיטה מתרחבת גם להשערת רימן המוכללת (Generalized Riemann Hypothesis, GRH), ואולי אף להשערה המורחבת, ושהטיעונים גם עברו פורמליזציה (formalization). במקביל, למתמטיקאי אלסנדרו מסולו יש הוכחה עצמאית ואנושית בלבד ל-GRH, שבריאן קונרד מסטנפורד בוחן בעיון כבר חודשים; לפי ציטוט של המתמטיקאי רוי וקיל, היא \"נראית טוב כה לעת עתה\".\n\nלא כולם משוכנעים: מדען המחשב סקוט אהרונסון הגיב לטענה המבוססת על AI בציניות גלויה, בכותרת \"התוכים הסטוכסטיים כאילו הוכיחו את השערת רימן\". שתי הטענות עדיין לא עברו בדיקת עמיתים (peer review) רשמית, והקהילה המתמטית עדיין בודקת את העבודה.",
+        "deep": "## רקע\n\nהשערת רימן, שהוצעה על ידי ברנהרד רימן ב-1859, קובעת היכן נמצאים האפסים הלא-טריוויאליים של פונקציית זטא של רימן - שאלה הקשורה קשר הדוק להתפלגות המספרים הראשוניים. זו אחת משבע \"בעיות פרס המילניום\" של מכון קליי למתמטיקה (כל אחת עם פרס של מיליון דולר), והיחידה מרשימת הבעיות המקורית של דייוויד הילברט מ-1900 שעדיין לא נפתרה. הוכחה שלה תיכנס מיידית לרשימת התוצאות המשמעותיות ביותר בהיסטוריה של המתמטיקה.\n\n## הטענות\n\nבתוך חלון זמן קצר צפו שתי טענות נפרדות. לבנט אלפוגה, מתמטיקאי באנתרופיק, כתב שהוא מאמין שהוא, בעבודה משותפת עם קלוד, גילה הוכחה להשערת רימן - ושהשיטה מתרחבת גם ל-GRH, ולדבריו, עם עוד זמן, גם להשערה המורחבת. לדבריו, הוא וקלוד גם פרמלו את הטיעונים בלי הנחות נוספות.\n\nבמקביל, אלסנדרו מסולו מציג הוכחה ל-GRH המתוארת כאנושית לחלוטין, בלי מעורבות AI. בריאן קונרד מסטנפורד עובר עליה בעיון כבר חודשים, ונתן משוב מקיף שמוטמע בתוך העבודה, ולפי עדכון של רוי וקיל היא \"נראית טוב כה לעת עתה\". התוכנית המקורית הייתה להביא את מסולו לסטנפורד לשנה כדי לשפר את הכתיבה ולהכריז רק אחר כך - אך נראה שהלוח הזמנים הואץ ברגע שהמידע התחיל להתפשט. דיונים נלווים ב-Hacker News הצביעו גם על טענות קשורות מאותו שבוע, כולל התייחסויות להתקדמות נטענת בבעיית \"קריסה סופית\" (blow-up) במשוואות נאווייה-סטוקס המקושרת ל-GRH - מה שמרמז על אשכול טענות ולא על מקרה בודד.\n\n## למה זה חשוב, אם זה נכון\n\nהשערת רימן התגוננה מהוכחה למשך יותר מ-160 שנה והיא מונח יסוד בתורת המספרים. הוכחה מאומתת בעזרת AI תהיה רגע מכונן בהתייחסות למודלי שפה גדולים (LLM) כשותפים מתמטיים של ממש, ולא רק כעוזרי קוד או אלגברה - טענה שונה במובהק מכך שמודל עוזר לנסח או לבדוק הוכחות שגרתיות.\n\n## אפקטים מסדר שני\n\n- נטל האימות: הוכחות בסדר גודל כזה דורשות בדרך כלל חודשים עד שנים של בדיקה שורה-אחר-שורה מצד הקהילה המתמטית לפני שהן מתקבלות; שתי הטענות רק בתחילת התהליך הזה.\n- מקומו של ה-AI בבחינה ציבורית: הציניות שכוונה לטענה המבוססת על קלוד משקפת שאלה רחבה יותר שלא הוכרעה בתחום - האם מודל שפה יכול לתרום תרומה ממשית לחשיבה מתמטית מקורית, או שהוא בעיקר מייצר טקסט שנשמע משכנע וטעון חוקר אנושי שיחלץ או יאמת אותו.\n- סיכון תדמיתי: הכרזה מוקדמת או שגויה עלולה לפגוע באמון הציבורי במתמטיקה - גם האנושית וגם הנתמכת ב-AI; הוכחה שתאומת, מצד שני, תהיה אחת התוצאות המתמטיות החשובות בעשור.\n\n## מה לעקוב אחריו\n\nכתיבות פורמליות ובדיקת עמיתים משני המחנות, כל הודעה ממכון קליי למתמטיקה (המנהל את פרס המילניום), ואם מתמטיקאים נוספים - מעבר לקונרד וווקיל - יצהירו בפומבי על עמדתם. עד לאימות עצמאי, שתי הטענות נותרות טענות, לא הוכחות."
+      },
+      "tags": [
+        "ai",
+        "mathematics",
+        "anthropic",
+        "riemann-hypothesis"
+      ],
+      "sources": [
+        {
+          "outlet": "Hacker News (150+ points)",
+          "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+          "url": "https://scottaaronson.blog/?p=10344"
+        },
+        {
+          "outlet": "Hacker News (150+ points)",
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+        },
+        {
+          "outlet": "Hacker News (150+ points)",
+          "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+        },
+        {
+          "outlet": "Hacker News (150+ points)",
+          "title": "Finite-time blow-up for the Navier–Stokes equations",
+          "url": "https://github.com/tristanbuckmaster/navier-stokes/"
+        },
+        {
+          "outlet": "Hacker News (150+ points)",
+          "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+          "url": "https://alpo.ge/remark.pdf"
+        },
+        {
+          "outlet": "Simon Willison",
+          "title": "Quoting Ravi Vakil",
+          "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/"
+        },
+        {
+          "outlet": "Simon Willison",
+          "title": "Quoting Levent Alpöge",
+          "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+        },
+        {
+          "outlet": "The Verge",
+          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-nasdaq-debut",
+      "kind": "news",
+      "en": {
+        "headline": "Anthropic goes public in the largest IPO ever, crossing a $2 trillion valuation",
+        "scroll": "Anthropic, the maker of Claude, began trading on Nasdaq this week in what's described as history's largest IPO, pushing its market value past $2 trillion.",
+        "coffee": "Anthropic, founded about six years ago by seven people including siblings Daniela and Dario Amodei after they left OpenAI, went public this week in what is being described as the largest initial public offering (IPO) in history. The company's market capitalization crossed $2 trillion on its Nasdaq debut.\n\nThe maker of the Claude family of models and the Claude Code tool has kept raising funding at a fast pace even on the way to this listing, a sign of how much capital the AI race is absorbing. Exact trading details, including the company's ticker symbol, weren't fully available in today's coverage.\n\nFor a company that didn't exist seven years ago, a $2 trillion public valuation puts it in the same league as the world's most valuable firms - and sets a new benchmark for how markets are willing to price frontier AI labs.",
+        "deep": "## Background\n\nAnthropic was founded in 2021 by a group of researchers, including siblings Daniela and Dario Amodei, who left OpenAI citing disagreements over the pace and safety of AI development. The company built its business around the Claude family of large language models and positioned itself as a safety-focused player in the AI race, developing techniques such as \"Constitutional AI\" to steer model behavior. It drew major investment from both Google and Amazon over the years, and more recently built out Claude Code, a product aimed at software developers.\n\n## The story\n\nThis week, per the report, Anthropic completed what is being described as the largest initial public offering in history, debuting on the Nasdaq stock exchange. Its market capitalization crossed $2 trillion on the first day of trading alone - a level previously reserved for a handful of the world's largest technology companies, reached by a firm that didn't exist six years ago. The report notes the company \"hasn't stopped raising funds\" even while heading toward this listing, suggesting continued heavy private investment alongside the public offering. Exact trading details, including the ticker symbol under which shares are trading, weren't available in today's coverage.\n\n## Second-order effects\n\n- Capital markets now put a direct, daily price on a frontier AI lab's future prospects, rather than that valuation living only inside private funding rounds among a handful of investors.\n- A debut at this scale raises the bar for OpenAI and other labs weighing their own path to public markets, and hands Anthropic a large new pool of public capital - plus the scrutiny that comes with it - to keep competing for compute and talent.\n- Public-company status brings disclosure obligations private firms don't have: regular financial statements, more visibility into revenue and compute spending, and more direct shareholder pressure on how the company balances growth against the safety commitments its founders have emphasized since leaving OpenAI.\n\n## What to watch next\n\nHow the stock performs in its first weeks of trading, what Anthropic discloses in its first public filings about revenue and compute costs, whether rival labs accelerate their own IPO plans in response, and whether the safety-first positioning that defined Anthropic's early years survives the pressures of being a public company."
+      },
+      "he": {
+        "headline": "אנתרופיק הופכת לחברה ציבורית בהנפקה הגדולה בהיסטוריה, עם שווי שחוצה 2 טריליון דולר",
+        "scroll": "אנתרופיק, המפתחת של קלוד (Claude), התחילה להיסחר בנאסד\"ק השבוע במה שמתואר כהנפקה (IPO) הגדולה בהיסטוריה, עם שווי שוק שחצה 2 טריליון דולר.",
+        "coffee": "אנתרופיק, שהוקמה לפני כשש שנים על ידי שבעה מייסדים - בהם האחים דניאלה ודריו אמודיי שעזבו את OpenAI - הפכה השבוע לחברה ציבורית במה שמתואר כהנפקה (IPO) הגדולה בהיסטוריה. שווי השוק של החברה חצה 2 טריליון דולר ביום המסחר הראשון שלה בנאסד\"ק.\n\nהחברה, המפתחת את משפחת מודלי קלוד ואת הכלי Claude Code למתכנתים, המשיכה לגייס הון בקצב מהיר גם בדרך להנפקה - עדות לכמות ההון שמירוץ ה-AI סופג. פרטי המסחר המדויקים, כולל סימול המניה (ticker), לא היו זמינים במלואם בדיווח של היום.\n\nחברה שלפני שבע שנים לא הייתה קיימת, ששווה כיום כ-2 טריליון דולר בשוק הציבורי, נכנסת לליגה של החברות השוות ביותר בעולם - וקובעת רף חדש לאופן שבו השווקים מתמחרים מעבדות AI מובילות.",
+        "deep": "## רקע\n\nאנתרופיק הוקמה ב-2021 על ידי קבוצת חוקרים, בהם האחים דניאלה ודריו אמודיי, שעזבו את OpenAI על רקע חילוקי דעות בנוגע לקצב ולבטיחות של פיתוח ה-AI. החברה בנתה את עסקיה סביב משפחת מודלי השפה הגדולים (LLM) קלוד, והציבה את עצמה כשחקנית המתמקדת בבטיחות במירוץ ה-AI, בין היתר באמצעות שיטות כמו \"AI חוקתי\" (Constitutional AI) לכיוון התנהגות המודלים. היא גייסה השקעות גדולות מגוגל ומאמזון במהלך השנים, ובתקופה האחרונה גם פיתחה את Claude Code, מוצר המיועד למפתחי תוכנה.\n\n## הסיפור\n\nהשבוע, לפי הדיווח, השלימה אנתרופיק את מה שמתואר כהנפקה הגדולה בהיסטוריה, והתחילה להיסחר בבורסת נאסד\"ק. שווי השוק שלה חצה 2 טריליון דולר כבר ביום המסחר הראשון - רמה שהייתה שמורה בעבר למעט חברות הטכנולוגיה הגדולות בעולם, והושגה על ידי חברה שלא הייתה קיימת לפני שש שנים. הדיווח מציין שהחברה \"לא הפסיקה לגייס הון\" גם בדרך להנפקה, מה שמעיד על המשך גיוסים פרטיים מסיביים במקביל להנפקה הציבורית. פרטי מסחר מדויקים, כולל סימול המניה, לא היו זמינים בדיווח של היום.\n\n## אפקטים מסדר שני\n\n- השווקים הציבוריים מתמחרים כעת באופן ישיר ויומיומי את הפוטנציאל העתידי של מעבדת AI מובילה, במקום ששווי כזה יתקיים רק בסבבי גיוס פרטיים בין מספר מצומצם של משקיעים.\n- הנפקה בסדר גודל כזה מעלה את הרף ל-OpenAI ולמעבדות אחרות השוקלות הנפקה משלהן, ומעניקה לאנתרופיק מאגר הון ציבורי גדול - וגם את הביקורת הציבורית שמגיעה איתו - כדי להמשיך להתחרות על כוח מחשוב וכישרון.\n- מעמד של חברה ציבורית מביא עמו חובות דיווח שלחברות פרטיות אין: דוחות כספיים תקופתיים, שקיפות רבה יותר על הכנסות והוצאות מחשוב, ולחץ ישיר יותר מבעלי מניות על האופן שבו החברה מאזנת בין צמיחה לבין מחויבות הבטיחות שהמייסדים שלה הדגישו מאז עזבו את OpenAI.\n\n## מה לעקוב אחריו\n\nאיך המניה מתנהלת בשבועות המסחר הראשונים, מה אנתרופיק תחשוף בדיווחים הציבוריים הראשונים שלה על הכנסות ועלויות מחשוב, האם מעבדות מתחרות יאיצו תוכניות הנפקה משלהן בתגובה, והאם המיצוב של \"בטיחות לפני הכול\" ששיקף אנתרופיק בשנותיה הראשונות ישרוד את הלחצים של היות חברה ציבורית."
+      },
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai",
+        "markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Geektime (Israeli tech)",
+          "title": "ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר",
+          "url": "https://www.geektime.co.il/anthropic-ipo-is-the-biggest-we-have-ever-seen/"
+        }
+      ]
+    },
+    {
+      "id": "ai-canary-privacy-leak",
+      "kind": "news",
+      "en": {
+        "headline": "A researcher planted 2 million tracking secrets to test whether AI systems leak private data - and they did",
+        "scroll": "A researcher seeded 2 million unique, trackable secrets into the AI data supply chain and found that information meant to stay private didn't.",
+        "coffee": "A common way to test whether data leaks through a system is to plant \"canaries\": unique, trackable strings or secrets with no other reason to exist, inserted into prompts or datasets. If a canary later shows up somewhere it shouldn't - in a model's output, in a cache, in another user's session - that proves information leaked, and the specific canary shows exactly which path it took.\n\nAccording to a report circulating today, a researcher ran this test at scale, planting around 2 million such canaries into what's described as the AI supply chain - the pipeline of prompts, data and infrastructure that feeds AI products. The result, per the report, was what's being called a \"privacy disaster\": the test showed that data assumed to stay private did not.\n\nThe report doesn't specify which companies or products were affected, or the exact mechanism of the leak, so those details remain to be seen as the research gets more scrutiny.",
+        "deep": "## Background\n\nTesting for data leakage with \"canary\" tokens is a well-established security technique, borrowed from software testing more broadly: plant something unique and otherwise meaningless, then watch whether it turns up somewhere it has no business being. In AI systems, canaries are typically used to check things like whether a model memorizes and later regurgitates specific training examples, or whether a product that promises not to retain or share user data actually keeps that promise end-to-end.\n\n## The story\n\nPer today's report, a researcher scaled this technique up dramatically, planting roughly 2 million unique, trackable secrets into what's described as the AI supply chain - the full pipeline of prompts, data handling and infrastructure that AI products run on. The researcher's test reportedly proved that data which was supposed to stay private did not: at least some of the planted secrets surfaced somewhere they shouldn't have. The report doesn't detail which companies, products, or exact leak pathways were involved, so the scope of the \"AI supply chain\" being tested, and the mechanism behind the leak, remain open questions.\n\n## Second-order effects\n\n- If a methodology like this can reliably surface leaks at scale, it becomes a powerful auditing tool - for regulators, security researchers, or companies themselves - to verify privacy claims about AI products rather than taking them on trust.\n- It adds to a string of recent findings pressuring AI vendors to be more transparent about data handling, at a moment when products increasingly promise strict privacy guarantees (incognito modes, no-training-on-your-data pledges, and similar features) as a competitive differentiator.\n- For engineers building on top of AI APIs, it's a reminder that \"the platform says it's private\" isn't the same as \"it's been independently verified\" - and that canary-style testing is something they can replicate themselves on a smaller scale.\n\n## What to watch next\n\nWhich companies or products, if any, get named as the leak sources once more detail emerges; whether the researcher publishes the methodology and findings in a way others can reproduce; and whether this pushes any AI vendors toward public commitments to independent, canary-based privacy audits."
+      },
+      "he": {
+        "headline": "חוקר שתל 2 מיליון \"סודות מעקב\" כדי לבדוק אם מערכות AI מדליפות מידע פרטי - וזה קרה",
+        "scroll": "חוקר שתל כ-2 מיליון סודות ייחודיים וניתנים למעקב בשרשרת האספקה של ה-AI, ומצא שמידע שהיה צריך להישאר פרטי - לא נשאר.",
+        "coffee": "שיטה נפוצה לבדוק אם מידע דולף ממערכת היא לשתול \"קנרים\" (canaries) - מחרוזות או סודות ייחודיים שאין להם שום סיבה אחרת להתקיים, ומוכנסים לתוך פרומפטים (prompts) או מערכי נתונים. אם קנרי כזה מופיע מאוחר יותר במקום שאסור לו להיות בו - בפלט של מודל, במטמון (cache), או בסשן של משתמש אחר - זו הוכחה שהמידע דלף, והקנרי הספציפי מראה בדיוק באיזה נתיב.\n\nלפי דיווח שמסתובב היום, חוקר הריץ בדיקה כזו בקנה מידה גדול, ושתל כ-2 מיליון קנרים כאלה במה שמתואר כשרשרת האספקה (supply chain) של ה-AI - צינור הפרומפטים, הנתונים והתשתית שמזין מוצרי AI. התוצאה, לפי הדיווח, כונתה \"אסון פרטיות\": הבדיקה הראתה שמידע שהיה אמור להישאר פרטי - לא נשאר כזה.\n\nהדיווח לא מפרט אילו חברות או מוצרים הושפעו, או מה המכניזם המדויק של הדליפה, כך שהפרטים האלה עדיין פתוחים לבדיקה נוספת.",
+        "deep": "## רקע\n\nבדיקת דליפת מידע באמצעות \"קנרים\" (canaries) היא שיטת אבטחה מבוססת, שמקורה בבדיקות תוכנה באופן כללי: שותלים דבר ייחודי וחסר משמעות בפני עצמו, ואז עוקבים אם הוא מופיע במקום שאין לו שום עסק בו. במערכות AI, קנרים משמשים בדרך כלל לבדוק דברים כמו האם מודל \"זוכר\" ומייצר מחדש דוגמאות אימון ספציפיות, או האם מוצר שמבטיח לא לשמור או לשתף מידע משתמשים עומד בהבטחה הזו בפועל, מקצה לקצה.\n\n## הסיפור\n\nלפי הדיווח של היום, חוקר הגדיל את השיטה הזו בקנה מידה דרמטי, ושתל כ-2 מיליון סודות ייחודיים וניתנים למעקב במה שמתואר כשרשרת האספקה של ה-AI - כלל הצינור של פרומפטים, טיפול בנתונים והתשתית שעליה רצים מוצרי AI. הבדיקה של החוקר, כך נטען, הוכיחה שמידע שהיה אמור להישאר פרטי - לא נשאר כזה: לפחות חלק מהסודות שנשתלו הופיעו במקום שלא היו צריכים להופיע בו. הדיווח לא מפרט אילו חברות, מוצרים, או נתיבי דליפה מדויקים היו מעורבים, כך שהיקף \"שרשרת האספקה\" שנבדקה, והמכניזם שמאחורי הדליפה, נותרים שאלות פתוחות.\n\n## אפקטים מסדר שני\n\n- אם שיטה כזו יכולה לחשוף דליפות בקנה מידה גדול בצורה אמינה, היא הופכת לכלי ביקורת (auditing) חזק - לרגולטורים, לחוקרי אבטחה, או לחברות עצמן - כדי לאמת טענות פרטיות של מוצרי AI במקום לקבל אותן באמון.\n- זה מצטרף לשורת ממצאים אחרונים שמלחיצים ספקי AI להיות שקופים יותר לגבי הטיפול בנתונים, בדיוק בזמן שמוצרים מבטיחים יותר ויותר הבטחות פרטיות מחמירות (מצבי אינקוגניטו, התחייבויות ל\"לא מאמנים על הנתונים שלך\" ותכונות דומות) כיתרון תחרותי.\n- למפתחים שבונים מעל ממשקי API של AI, זו תזכורת שה\"פלטפורמה אומרת שזה פרטי\" אינו זהה ל\"זה אומת באופן עצמאי\" - ושבדיקות מבוססות-קנרי הן דבר שהם יכולים לשחזר בעצמם בקנה מידה קטן יותר.\n\n## מה לעקוב אחריו\n\nאילו חברות או מוצרים, אם בכלל, יזוהו כמקורות הדליפה כשיתגלו פרטים נוספים; האם החוקר יפרסם את המתודולוגיה והממצאים בצורה שאחרים יכולים לשחזר; והאם זה יניע ספקי AI להתחייבויות פומביות לביקורות פרטיות עצמאיות מבוססות-קנרי."
+      },
+      "tags": [
+        "ai",
+        "privacy",
+        "security",
+        "data-leakage"
+      ],
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+        }
+      ]
+    }
+  ]
+}

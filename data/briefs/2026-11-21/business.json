@@ -1,0 +1,116 @@
+{
+  "section": "business",
+  "date": "2026-11-21",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-21T04:01:09+00:00",
+  "stories": [
+    {
+      "id": "ai-selloff-correction-bear-market",
+      "kind": "analysis",
+      "en": {
+        "headline": "Wall Street's AI trade unwinds: the S&P enters a correction, tech slides into a bear market",
+        "scroll": "A brutal week of selling wiped out roughly $4 trillion in AI-linked market value, pushing the S&P 500 into a correction and tech stocks into a bear market, with Nvidia hit hardest by an SEC accounting probe on top of the broader rout.",
+        "coffee": "This week gave Wall Street two textbook terms to relearn the hard way. A correction is a drop of 10% or more from a recent high; a bear market is a drop of 20% or more. The S&P 500 and Dow both slid into correction territory, while an index of mega-cap tech stocks came close to, or entered, a bear market — the worst stretch for the Nasdaq 100 since 2020, by one count. The proximate cause: a pullback in the AI trade that Wall Street had ridden all year, estimated at roughly $4 trillion in lost value across AI-linked stocks.\n\nNvidia was at the center of it. Beyond the general tech sell-off, the chipmaker faces an SEC investigation into its accounting, adding a company-specific problem on top of a sector-wide one — and Jensen Huang's exit as CEO became part of the story when Trump publicly suggested Huang could return if he issued a \"big apology,\" an unusual case of a sitting president weighing in on a company's leadership. Anthropic's long-awaited IPO, the largest in history, briefly symbolized the opposite story — a successful debut — before its shares slid back toward the IPO price within days, undercutting the idea that demand for AI names was unshakeable.\n\nThe mechanism linking all of this: much of this year's AI boom was funded not just by profits but by heavy stock issuance and near-daily corporate bond sales to pay for chips and data centers. When investor sentiment on AI's near-term payoff turns, that debt and equity-funded capital spending looks a lot riskier than it did when the trade was going up.",
+        "deep": "## Background\n\nTwo financial-market terms are worth knowing precisely, because this week's headlines use them loosely but they have exact meanings: a correction is a decline of at least 10% from a recent peak, and a bear market is a decline of at least 20%. Both are about direction and magnitude, not duration — an index can enter a correction in a matter of days, as the S&P 500 and Dow Jones Industrial Average did this week, driven largely by a handful of AI-linked mega-cap stocks that carry outsized weight in both indexes.\n\n## The story\n\nFor most of the year, a small group of companies tied to artificial intelligence — chipmakers, cloud providers, and now newly public AI labs — drove a disproportionate share of index gains. That concentration cuts both ways: when sentiment reverses, the same stocks that lifted the index drag it down just as fast. This week, that reversal arrived in full: tech stocks fell into bear-market territory, erasing roughly $4 trillion in AI-related market value by some estimates, and the Nasdaq composite turned negative for the year.\n\nNvidia sits at the center of the story for reasons beyond simple sentiment. The company is facing a Securities and Exchange Commission investigation into its accounting — a company-specific legal and governance risk, distinct from the broader question of whether AI infrastructure spending will pay off. Compounding that, CEO Jensen Huang's departure became unusually public political theater: President Trump suggested Huang should return to the role if he delivers a \"big apology,\" an extraordinary instance of a head of state publicly weighing in on a single company's management, even though Trump himself acknowledged the scenario is unlikely.\n\nAnthropic's initial public offering — the largest in history — was meant to be this year's crowning proof that investors still believed in AI's commercial future. Instead, its stock fell back toward the IPO price within its first days of trading, a pattern sometimes called a \"round-trip\": a stock that pops on debut and then gives back the gain once the initial allocation-driven demand (investors who got shares in the IPO itself) is overwhelmed by broader market selling. That round-trip became, in effect, a referendum on whether the AI trade's enthusiasm was durable or just momentum.\n\n## Second-order effects\n\nThe structural issue investors are grappling with is how this year's AI buildout was financed. Much of the infrastructure spending — data centers, chips, power — was paid for not purely out of free cash flow but through heavy stock issuance and near-daily corporate bond offerings. That's a normal way to finance a capital-intensive buildout, but it means the AI sector's balance sheets are more leveraged to continued investor enthusiasm than a cash-funded buildout would be: if equity and credit markets get pickier about funding further expansion, the pace of AI infrastructure spending itself could slow, which would in turn pressure the chipmakers and cloud providers whose revenue depends on that spending continuing. That's a feedback loop, not a one-time shock — money moving away from the trade can make the underlying business case weaker, which then justifies more money moving away.\n\nThe flight away from AI-linked risk also showed up elsewhere: havens like the yen and the Swiss franc strengthened, and gold — which would normally also benefit from safe-haven demand — instead fell to multi-month lows, because a hawkish Federal Reserve signaling further rate hikes outweighed the usual haven bid. That combination (risk-off in stocks, but no rush into gold) is itself a signal that investors see this as a sector-specific repricing tied to interest-rate expectations, rather than a broader panic about the financial system.\n\n## What to watch next\n\nWatch whether Nvidia's SEC probe produces any findings beyond an accounting technicality — that would be the difference between a contained company-specific issue and something that further undermines confidence in AI-sector reporting generally. And watch whether the pace of debt and equity issuance for AI infrastructure actually slows: that's the concrete sign that this week's sentiment shift is starting to feed back into the real economy of data-center construction, rather than staying confined to stock prices."
+      },
+      "he": {
+        "headline": "עסקת ה-AI בוול סטריט מתפרקת: ה-S&P 500 נכנס לקורקשן, הטכנולוגיה צונחת לשוק דובי",
+        "scroll": "שבוע מכירות אכזרי מחק כ-4 טריליון דולר משווי שוק הקשור ל-AI, הכניס את מדד ה-S&P 500 לתיקון (correction) ואת מניות הטכנולוגיה לשוק דובי (bear market), עם אנבידיה שנפגעה הכי קשה מחקירת רשות ניירות ערך לצד המפולת הכללית.",
+        "coffee": "השבוע הזה העביר לוול סטריט שיעור חוזר בשני מושגים קלאסיים. תיקון (correction) הוא ירידה של 10% או יותר משיא אחרון; שוק דובי (bear market) הוא ירידה של 20% או יותר. מדדי ה-S&P 500 ודאו ג'ונס שניהם נכנסו לטריטוריית תיקון, בעוד מדד של מניות טכנולוגיה גדולות התקרב אל שוק דובי או נכנס אליו - התקופה הגרועה ביותר למדד הנאסד\"ק 100 מאז 2020, לפי הערכה אחת. הגורם המיידי: נסיגה בעסקת ה-AI שוול סטריט רכבה עליה כל השנה, שהוערכה בכ-4 טריליון דולר של שווי שאבד במניות הקשורות ל-AI.\n\nאנבידיה הייתה במרכז הסיפור. מעבר למפולת הטכנולוגית הכללית, חברת השבבים מתמודדת עם חקירה של רשות ניירות הערך האמריקאית (SEC) על הנהלת החשבונות שלה, מה שמוסיף בעיה ספציפית לחברה על גבי בעיה ענפית - והעזיבה של ג'נסן הואנג מתפקיד המנכ\"ל הפכה לחלק מהסיפור כשטראמפ הציע בפומבי שהואנג יכול לחזור אם יגיש \"התנצלות גדולה\", מקרה חריג של נשיא מכהן שמתערב בפומבי בהנהלה של חברה בודדת. ההנפקה המיוחלת של אנתרופיק, הגדולה בהיסטוריה, סימלה לרגע את הסיפור ההפוך - הנפקה מוצלחת - לפני שמניותיה צנחו בחזרה לכיוון מחיר ההנפקה בתוך ימים, מה שערער את הרעיון שהביקוש למניות AI היה בלתי ניתן לזעזוע.\n\nהמכניזם שמקשר את כל זה: חלק גדול מהגאות ב-AI השנה מומן לא רק מרווחים אלא גם מהנפקות מניות כבדות ומכירות אג\"ח תאגידיות כמעט יומיומיות לתשלום עבור שבבים ומרכזי נתונים. כשהסנטימנט של המשקיעים לגבי התשואה הקצרה-טווח של AI מתהפך, ההוצאה ההונית הממומנת בחוב ובהון עצמי הזו נראית הרבה יותר מסוכנת ממה שנראתה כשהעסקה הייתה בעלייה.",
+        "deep": "## רקע\n\nשני מושגים בשוק ההון שווה להכיר במדויק, מכיוון שהכותרות השבוע משתמשות בהם בצורה רפויה אך יש להם משמעות מדויקת: תיקון (correction) הוא ירידה של לפחות 10% משיא אחרון, ושוק דובי (bear market) הוא ירידה של לפחות 20%. שניהם עוסקים בכיוון ובהיקף, לא במשך הזמן - מדד יכול להיכנס לתיקון בתוך ימים ספורים, כמו שקרה ל-S&P 500 ולדאו ג'ונס השבוע, מונע בעיקר על ידי קבוצה קטנה של מניות טכנולוגיה גדולות הקשורות ל-AI שנושאות משקל גבוה יחסית בשני המדדים.\n\n## הסיפור\n\nבמהלך רוב השנה, קבוצה קטנה של חברות הקשורות לבינה מלאכותית - יצרני שבבים, ספקי שירותי מחשוב ענני, וכעת גם מעבדות AI שהונפקו לאחרונה - הובילו חלק לא פרופורציונלי מהעליות במדדים. הריכוזיות הזו פועלת לשני הכיוונים: כשהסנטימנט מתהפך, אותן מניות שהרימו את המדד מורידות אותו באותה מהירות. השבוע, ההיפוך הזה הגיע במלואו: מניות הטכנולוגיה צנחו לטריטוריית שוק דובי, ומחקו כ-4 טריליון דולר משווי שוק הקשור ל-AI לפי הערכות מסוימות, ומדד הנאסד\"ק המורכב הפך לשלילי מתחילת השנה.\n\nאנבידיה נמצאת במרכז הסיפור מסיבות שמעבר לסנטימנט פשוט. החברה מתמודדת עם חקירה של רשות ניירות הערך האמריקאית על הנהלת החשבונות שלה - סיכון משפטי וממשל תאגידי ספציפי לחברה, נפרד מהשאלה הרחבה יותר אם ההשקעה בתשתיות AI תשתלם. בנוסף לכך, עזיבתו של המנכ\"ל ג'נסן הואנג הפכה להצגה פוליטית פומבית בלתי שגרתית: הנשיא טראמפ הציע שהואנג צריך לחזור לתפקיד אם יגיש \"התנצלות גדולה\", מקרה יוצא דופן של ראש מדינה שמתערב בפומבי בניהול של חברה בודדת, אף שטראמפ עצמו הכיר בכך שהתרחיש הזה לא סביר.\n\nההנפקה הראשונית לציבור (IPO) של אנתרופיק - הגדולה בהיסטוריה - נועדה להיות ההוכחה המכתירה של השנה לכך שמשקיעים עדיין מאמינים בעתיד המסחרי של AI. במקום זאת, המניה שלה צנחה בחזרה לכיוון מחיר ההנפקה בתוך הימים הראשונים למסחר, דפוס שנקרא לעיתים \"round-trip\" (מסע הלוך-חזור): מניה שמזנקת בהנפקה ואז מוחקת את העלייה כשהביקוש המוקדם המבוסס על הקצאה (משקיעים שקיבלו מניות בהנפקה עצמה) נבלע במכירה רחבה יותר בשוק. ה-round-trip הזה הפך, בפועל, למשאל עם על השאלה אם ההתלהבות מעסקת ה-AI הייתה יציבה או רק מומנטום.\n\n## השפעות מדרגה שנייה\n\nהסוגייה המבנית שמשקיעים מתמודדים איתה היא איך הבנייה של תשתיות ה-AI השנה מומנה. חלק גדול מההוצאה על תשתיות - מרכזי נתונים, שבבים, חשמל - שולם לא רק מתזרים מזומנים חופשי אלא גם מהנפקות מניות כבדות ומכירות אג\"ח תאגידיות כמעט יומיומיות. זו דרך נורמלית לממן בנייה הונית-אינטנסיבית, אבל היא אומרת שמאזני ענף ה-AI ממונפים יותר על המשך ההתלהבות של המשקיעים מאשר בנייה שממומנת ממזומן: אם שוקי ההון והאשראי ייעשו בררנים יותר בנוגע למימון התרחבות נוספת, קצב ההשקעה בתשתיות AI עצמו יכול להתמתן, מה שבתורו ילחץ על יצרני השבבים וספקי המחשוב הענני שההכנסות שלהם תלויות בהמשך ההוצאה הזו. זו לופ משוב, לא זעזוע חד-פעמי - כסף שעוזב את העסקה יכול להחליש את התזה העסקית שמתחתיה, מה שבתורו מצדיק עוד כסף שעוזב.\n\nהבריחה מסיכון הקשור ל-AI הופיעה גם במקומות אחרים: מטבעות מבטחה כמו היין היפני והפרנק השוויצרי התחזקו, והזהב - שבאופן רגיל גם הוא היה צריך להתחזק מביקוש למבטחה - צנח במקום זאת לשפל של כמה חודשים, מכיוון שציפיות לבנק פדרלי נצי יותר (hawkish) שמסמן המשך עליות ריבית גברו על הביקוש הרגיל למבטחה. השילוב הזה (בריחה מסיכון במניות, אבל בלי ריצה לזהב) הוא עצמו איתות לכך שמשקיעים רואים בזה תמחור מחדש ספציפי לענף, הקשור לציפיות ריבית, ולא פאניקה רחבה יותר על המערכת הפיננסית.\n\n## מה לעקוב אחריו\n\nשימו לב אם החקירה של ה-SEC על אנבידיה תוציא ממצאים שמעבר לטכניקלית חשבונאית - זה יהיה ההבדל בין סוגיה מוכלת וספציפית לחברה לבין משהו שמחליש עוד יותר את האמון בדיווח של ענף ה-AI בכלל. ושימו לב אם קצב הנפקות החוב וההון למימון תשתיות AI אכן יואט - זה הסימן הקונקרטי לכך שהשינוי בסנטימנט השבוע מתחיל לחזור ולהשפיע על הכלכלה הריאלית של בניית מרכזי נתונים, ולא נשאר מוגבל למחירי המניות."
+      },
+      "tags": [
+        "ai",
+        "stock-market",
+        "nvidia",
+        "anthropic"
+      ],
+      "sources": [
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Nvidia faces US regulator’s probe into its accounting",
+          "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+          "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "AI Euphoria Gives Way to Fear And ‘Face-Ripping Volatility’",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט התרסקה: נאסד\"ק צנח ב-5.5%, מניות השבבים נפלו ב-14%, אנתרופיק ב-9%",
+          "url": "https://www.themarker.com/wallstreet/2026-11-20/ty-article-live/000001a1-e2bb-da30-a7fb-fabf3a770000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3861.51,
+      "prev_close": 3919.0701,
+      "change_pct": -1.47,
+      "as_of": "2026-11-20"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 6910.3901,
+      "prev_close": 7175.8301,
+      "change_pct": -3.7,
+      "as_of": "2026-11-20"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2982,
+      "prev_close": 3.2771,
+      "change_pct": 0.64,
+      "as_of": "2026-11-20"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 89.87,
+      "prev_close": 91.98,
+      "change_pct": -2.29,
+      "as_of": "2026-11-20"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 56925.6719,
+      "prev_close": 61901.8203,
+      "change_pct": -8.04,
+      "as_of": "2026-11-21"
+    }
+  }
+}

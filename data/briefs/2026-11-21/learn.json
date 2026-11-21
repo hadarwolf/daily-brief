@@ -1,0 +1,126 @@
+{
+  "section": "learn",
+  "date": "2026-11-21",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-21T04:01:09+00:00",
+  "stories": [
+    {
+      "id": "word-golden-parachute",
+      "kind": "word",
+      "en": {
+        "headline": "Golden parachute (מצנח זהב)",
+        "scroll": "A golden parachute is a contractual guarantee of a large severance payout to a top executive if they lose their job in a merger, acquisition, or takeover.",
+        "coffee": "A golden parachute is written into an executive's contract in advance, promising cash, stock, or both if they're let go after a change of control — even if the ousted executive had nothing to do with causing it. Boards offer them partly to reassure management that a takeover won't leave them destitute, which in theory makes executives less likely to block deals that are good for shareholders out of self-interest.\n\nExample: \"The outgoing CEO's golden parachute was worth $40 million, which drew criticism from shareholders who felt the merger itself had destroyed value.\"",
+        "deep": "Golden parachutes became common in the US in the 1980s, during the wave of hostile takeovers and leveraged buyouts. The logic was simple: if executives stood to lose everything in an acquisition, they had a strong incentive to fight it off even when it was good for shareholders. A golden parachute removes that conflict of interest by guaranteeing the executive a soft landing regardless of the outcome.\n\nA common confusion is mixing up golden parachutes with ordinary severance pay. Severance is modest and tied to standard termination; a golden parachute is specifically triggered by a change of control (a merger, acquisition, or takeover) and is usually far larger — multiples of salary, accelerated stock vesting, or both.\n\nMore examples:\n- \"Regulators have pushed companies to put golden parachutes to a shareholder vote before a deal closes.\"\n- \"Critics call them 'pay for failure' when an executive is pushed out after a bad run and still collects millions.\"\n\nIn Hebrew, the term is מצנח זהב — a literal translation that captures the image well: no matter how the company crashes, the executive floats safely to the ground."
+      },
+      "he": {
+        "headline": "מצנח זהב (Golden Parachute)",
+        "scroll": "מצנח זהב הוא התחייבות חוזית מראש לתשלום פרישה נכבד למנהל בכיר אם הוא מפוטר בעקבות מיזוג, רכישה או השתלטות על החברה.",
+        "coffee": "מצנח זהב נקבע בחוזה של המנהל מראש, ומבטיח לו מזומן, מניות או שניהם אם הוא מפוטר בעקבות שינוי שליטה בחברה - גם אם לא הוא היה האחראי למצב. דירקטוריונים מציעים הסדרים כאלה בין היתר כדי להרגיע מנהלים שרכישה לא תשאיר אותם בלי כלום, וכך פחות סביר שיתנגדו מטעמי אינטרס אישי לעסקה שטובה לבעלי המניות.\n\nלדוגמה: \"מצנח הזהב של המנכ\\\"ל שעזב היה שווה 40 מיליון דולר, מה שעורר ביקורת מבעלי מניות שחשבו שהמיזוג עצמו פגע בשווי החברה.\"",
+        "deep": "מצנחי זהב הפכו שכיחים בארצות הברית בשנות ה-80, בגל ההשתלטויות העוינות ורכישות הממונפות (leveraged buyouts). ההיגיון היה פשוט: אם מנהלים עומדים לאבד הכול ברכישה, יש להם תמריץ חזק להתנגד לה גם כשהיא טובה לבעלי המניות. מצנח זהב מסיר את ניגוד העניינים הזה, כי הוא מבטיח למנהל נחיתה רכה בכל מקרה.\n\nבלבול נפוץ הוא לערבב בין מצנח זהב לפיצויי פיטורים רגילים. פיצויים רגילים צנועים ונקשרים לסיום עבודה סטנדרטי; מצנח זהב מופעל במיוחד בעקבות שינוי שליטה (מיזוג, רכישה או השתלטות), והוא בדרך כלל גדול בהרבה - כפולות של משכורת, הבשלה מואצת של מניות, או שניהם.\n\nעוד דוגמאות:\n- \"רגולטורים דרשו להעביר מצנחי זהב להצבעת בעלי מניות לפני סגירת העסקה.\"\n- \"מבקרים קוראים לזה 'תשלום על כישלון' כשמנהל מפוטר אחרי תקופה גרועה ובכל זאת מקבל מיליונים.\"\n\nבאנגלית המונח הוא Golden Parachute - תרגום מילולי שמתאר את התמונה היטב: לא משנה כמה החברה מתרסקת, המנהל צונח בבטחה לקרקע."
+      },
+      "tags": [
+        "vocabulary",
+        "executive-pay",
+        "mergers"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-sandbagging",
+      "kind": "word",
+      "en": {
+        "headline": "Sandbagging (הערכה שמרנית מכוונת)",
+        "scroll": "Sandbagging means deliberately setting expectations, forecasts, or guidance lower than you actually expect, so it's easy to beat them later.",
+        "coffee": "Executives and salespeople sandbag when they lowball a forecast on purpose — not because they believe it, but because beating a low number later makes them look good and gives them a cushion if things slip. It's a recurring complaint from investors and analysts who suspect official guidance is more about managing perception than reflecting reality.\n\nExample: \"Analysts suspect the company is sandbagging its full-year guidance again, given how conservative the numbers look next to its own pipeline.\"",
+        "deep": "Sandbagging shows up anywhere forecasts shape incentives: corporate guidance, sales quotas, even poker and golf handicaps (the term's older sporting origin — hiding your true skill level to get a better handicap or bet). In business, a management team that sandbags consistently can train the market to discount its own numbers, which erodes the credibility of guidance altogether.\n\nIt's easy to confuse sandbagging with ordinary conservatism. The difference is intent: conservative forecasting reflects genuine uncertainty, while sandbagging means the forecaster privately expects to beat their own number and says so only to themselves.\n\nMore examples:\n- \"The sales team was accused of sandbagging the quarter, pushing deals into next quarter's pipeline instead of closing them early.\"\n- \"If every region sandbags its target by ten percent, headquarters ends up planning around numbers nobody believes.\"\n\nIn Hebrew this is closest to הערכה שמרנית מכוונת — a forecast made deliberately modest, not out of genuine caution but as a tactic."
+      },
+      "he": {
+        "headline": "הערכה שמרנית מכוונת (Sandbagging)",
+        "scroll": "Sandbagging הוא קביעת תחזיות או הנחיות נמוכות מהצפי האמיתי בכוונה, כדי שיהיה קל לעקוף אותן בהמשך.",
+        "coffee": "מנהלים ואנשי מכירות עושים Sandbagging כשהם מציגים תחזית נמוכה בכוונה - לא מתוך אמונה בה, אלא כי עקיפת מספר נמוך בהמשך משדרת הצלחה ונותנת כרית ביטחון אם דברים מתעכבים. זו תלונה חזרה ונשנית של משקיעים ואנליסטים שחושדים שההנחיה הרשמית של החברה נועדה לניהול התחושה בשוק יותר מאשר לשקף את המציאות.\n\nלדוגמה: \"אנליסטים חושדים שהחברה שוב עושה Sandbagging לתחזית השנתית, בהתחשב בכמה שמרניים המספרים לעומת צבר ההזמנות שלה עצמה.\"",
+        "deep": "התופעה מופיעה בכל מקום שבו תחזיות משפיעות על תמריצים: הנחיות תאגידיות, יעדי מכירות, ואפילו פוקר וגולף (המקור הספורטיבי המקורי של המונח - הסתרת רמת המשחק האמיתית כדי לקבל הנדיקפ נוח יותר). בעולם העסקי, הנהלה שעושה Sandbagging באופן עקבי עלולה ללמד את השוק להתעלם מהמספרים שהיא עצמה מפרסמת, מה שפוגע באמינות ההנחיה כולה.\n\nקל לבלבל בין Sandbagging לשמרנות רגילה בחיזוי. ההבדל הוא הכוונה: חיזוי שמרני משקף חוסר ביטחון אמיתי, בעוד ש-Sandbagging פירושו שהמנהל מצפה בפרטיות לעקוף את המספר שהוא עצמו נותן, ואומר זאת רק לעצמו.\n\nעוד דוגמאות:\n- \"צוות המכירות הואשם ב-Sandbagging לרבעון, כשדחף עסקאות לרבעון הבא במקום לסגור אותן מוקדם.\"\n- \"אם כל אזור עושה Sandbagging ליעד שלו בעשרה אחוזים, המטה מתכנן בסוף לפי מספרים שאף אחד לא מאמין בהם.\"\n\nבעברית המונח הקרוב ביותר הוא הערכה שמרנית מכוונת - תחזית שמוצגת כמתונה בכוונה, לא מתוך זהירות אמיתית אלא כטקטיקה."
+      },
+      "tags": [
+        "vocabulary",
+        "forecasting",
+        "corporate-guidance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-bake-off",
+      "kind": "word",
+      "en": {
+        "headline": "Bake-off (תחרות ספקים)",
+        "scroll": "A bake-off is a competitive pitch where several vendors, banks, or agencies present to a client on the same day so they can be compared head-to-head.",
+        "coffee": "Companies run a bake-off when they want to pick an investment bank, law firm, ad agency, or software vendor and want an apples-to-apples comparison rather than negotiating with one candidate at a time. Everyone pitches the same brief, usually within a short window, which makes it easier to judge quality, price, and chemistry side by side.\n\nExample: \"The company ran a bake-off between three banks before picking an advisor for the IPO.\"",
+        "deep": "The term comes from literal cooking competitions, where contestants bake the same dish side by side for judges — the business sense keeps that structure: same brief, same timeframe, direct comparison. It's most common in investment banking (choosing underwriters for an IPO or M&A deal), law, advertising, and enterprise software procurement.\n\nA common confusion is treating any multi-vendor search as a bake-off. The defining feature is the head-to-head format — pitches clustered close together so decision-makers compare while impressions are still fresh, rather than a drawn-out RFP process spread over months.\n\nMore examples:\n- \"Four agencies took part in the bake-off for the rebrand, and the winner was picked within a week.\"\n- \"Losing a bake-off doesn't always mean losing the relationship — some firms get invited back next time.\"\n\nIn Hebrew, this is usually described as תחרות ספקים (a vendor competition) or, informally, as a 'בייק-אוף' when people borrow the English term directly."
+      },
+      "he": {
+        "headline": "תחרות ספקים (Bake-off)",
+        "scroll": "Bake-off הוא תהליך תחרותי שבו כמה ספקים, בנקים או משרדים מציגים הצעה לאותו לקוח באותו חלון זמן, כדי שאפשר להשוות ביניהם ישירות.",
+        "coffee": "חברות מקיימות Bake-off כשהן רוצות לבחור בנק השקעות, משרד עורכי דין, סוכנות פרסום או ספק תוכנה, ומעדיפות השוואה הוגנת על פני משא ומתן נפרד עם כל מועמד בנפרד. כולם מציגים את אותו הבריף, בדרך כלל בחלון זמן קצר, מה שמקל לשפוט איכות, מחיר וכימיה זה לצד זה.\n\nלדוגמה: \"החברה ערכה Bake-off בין שלושה בנקים לפני שבחרה יועץ להנפקה.\"",
+        "deep": "המונח מגיע מתחרויות אפייה של ממש, שבהן מתמודדים אופים את אותה מנה זה לצד זה בפני שופטים - המשמעות העסקית שומרת על אותו מבנה: אותו בריף, אותו פרק זמן, השוואה ישירה. זה הכי נפוץ בבנקאות השקעות (בחירת חתמים להנפקה או עסקת מיזוג ורכישה), בעולם המשפטי, בפרסום וברכש תוכנה ארגונית.\n\nבלבול נפוץ הוא להתייחס לכל תהליך עם כמה ספקים כ-Bake-off. המאפיין המגדיר הוא הפורמט הראש-בראש - הצגות שמתקבצות בזמן קצוב כדי שמקבלי ההחלטות ישוו בזמן שהרושם עדיין טרי, ולא תהליך RFP מתמשך שנמשך חודשים.\n\nעוד דוגמאות:\n- \"ארבע סוכנויות השתתפו ב-Bake-off למיתוג מחדש, והזוכה נבחר תוך שבוע.\"\n- \"הפסד ב-Bake-off לא בהכרח אומר סוף הקשר - חלק מהמשרדים מוזמנים לנסות שוב בפעם הבאה.\"\n\nבעברית מתארים את זה בדרך כלל כתחרות ספקים, ולפעמים משתמשים במונח האנגלי Bake-off ישירות."
+      },
+      "tags": [
+        "vocabulary",
+        "procurement",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-price-elasticity",
+      "kind": "concept",
+      "en": {
+        "headline": "Price elasticity of demand",
+        "scroll": "Price elasticity of demand measures how much the quantity people buy changes when the price changes — the key number behind every pricing decision.",
+        "coffee": "Price elasticity of demand tells you how sensitive buyers are to a price change. If demand is \"elastic,\" a small price increase causes a big drop in sales — buyers have easy alternatives or can simply do without. If demand is \"inelastic,\" people keep buying roughly the same amount even as the price rises, usually because there's no good substitute or the purchase is unavoidable.\n\nThis single idea explains why airlines can hike last-minute fares (business travelers have little choice) while a supermarket can't do the same with milk (shoppers will just go next door).",
+        "deep": "## The idea\n\nPrice elasticity of demand (PED) is calculated as the percentage change in quantity demanded divided by the percentage change in price. If a 10% price increase causes a 20% drop in units sold, elasticity is 2 (economists typically drop the negative sign) — demand is elastic, meaning buyers are highly responsive. If that same 10% increase only causes a 2% drop, elasticity is 0.2 — demand is inelastic.\n\n## A worked example\n\nSuppose a coffee shop sells 1,000 cups a day at ₪12 and raises the price to ₪13.20 (a 10% increase). If sales fall to 900 cups a day (a 10% drop), elasticity is exactly 1 — proportional, and total revenue stays about the same (900 x 13.2 ≈ 11,880 vs. the original 1,000 x 12 = 12,000). If sales fall to 700 cups (a 30% drop), elasticity is 3: demand is very elastic, and the price hike actually reduces total revenue (700 x 13.2 = 9,240, well below the original 12,000). If sales barely move to 980 cups, elasticity is 0.2 — inelastic — and the price increase raises total revenue (980 x 13.2 ≈ 12,936), because the lost volume is small relative to the higher price per unit.\n\n## Why it matters\n\nElasticity explains pricing power directly: a business facing inelastic demand (a drug with no generic, a monopoly utility, cigarettes for addicted smokers) can raise prices and increase revenue even as it sells a bit less. A business facing elastic demand (a commodity grocery item, a budget airline seat) will lose more in volume than it gains in price, so raising prices backfires.\n\nElasticity isn't fixed — it depends on the availability of substitutes, how large a share of a buyer's budget the item is, and the time horizon (demand is often more elastic in the long run, because people have time to find alternatives or change habits).\n\n## What to watch\n\nWhenever a company announces a price increase, the real question is which side of elasticity it's betting on. Analysts often flag it explicitly: saying a company \"has pricing power\" is shorthand for \"faces inelastic demand for its product.\""
+      },
+      "he": {
+        "headline": "אלסטיות מחיר של ביקוש (Price Elasticity of Demand)",
+        "scroll": "אלסטיות מחיר של ביקוש מודדת כמה הכמות שאנשים קונים משתנה כשהמחיר משתנה - המספר המרכזי מאחורי כל החלטת תמחור.",
+        "coffee": "אלסטיות מחיר של ביקוש אומרת לך כמה רגישים הקונים לשינוי במחיר. אם הביקוש \"אלסטי\", עלייה קטנה במחיר גורמת לנפילה גדולה במכירות - לקונים יש חלופות נגישות או שהם יכולים פשוט להסתדר בלי המוצר. אם הביקוש \"לא אלסטי\", אנשים ממשיכים לקנות בערך את אותה כמות גם כשהמחיר עולה, בדרך כלל כי אין תחליף טוב או שהרכישה בלתי נמנעת.\n\nהרעיון הזה מסביר למה חברות תעופה יכולות להעלות מחירים ברגע האחרון (לנוסעי עסקים אין הרבה בחירה), בעוד שסופרמרקט לא יכול לעשות את זה עם חלב (הקונים פשוט יעברו לחנות הבאה).",
+        "deep": "## הרעיון\n\nאלסטיות מחיר של ביקוש (PED) מחושבת כאחוז השינוי בכמות המבוקשת חלקי אחוז השינוי במחיר. אם עלייה של 10% במחיר גורמת לנפילה של 20% בכמות הנמכרת, האלסטיות היא 2 (בהתעלם מהסימן) - הביקוש אלסטי, כלומר הקונים מגיבים חזק. אם אותה עלייה של 10% גורמת לנפילה של רק 2%, האלסטיות היא 0.2 - הביקוש לא אלסטי.\n\n## דוגמה מספרית\n\nנניח שבית קפה מוכר 1,000 כוסות ביום במחיר 12 ש\\\"ח, ומעלה את המחיר ל-13.20 ש\\\"ח (עלייה של 10%). אם המכירות יורדות ל-900 כוסות ביום (נפילה של 10%), האלסטיות היא בדיוק 1 - פרופורציונלית, וההכנסה הכוללת נשארת בערך אותו הדבר (900 כפול 13.2 ≈ 11,880 ש\\\"ח לעומת 1,000 כפול 12 = 12,000 ש\\\"ח המקוריים). אם המכירות יורדות ל-700 כוסות (נפילה של 30%), האלסטיות היא 3: הביקוש מאוד אלסטי, וההעלאה בפועל מקטינה את ההכנסה הכוללת (700 כפול 13.2 = 9,240 ש\\\"ח, הרבה מתחת ל-12,000 ש\\\"ח המקוריים). אם המכירות יורדות בקושי ל-980 כוסות, האלסטיות היא 0.2 - לא אלסטית - וההעלאה מגדילה את ההכנסה הכוללת (980 כפול 13.2 ≈ 12,936 ש\\\"ח), כי הנפח שאבד קטן יחסית למחיר הגבוה יותר ליחידה.\n\n## למה זה חשוב\n\nהאלסטיות מסבירה ישירות כוח תמחור: עסק שמתמודד עם ביקוש לא אלסטי (תרופה בלי גנרי, חברת שירותים מונופוליסטית, סיגריות למכורים) יכול להעלות מחירים ולהגדיל הכנסות גם אם הוא מוכר קצת פחות. עסק שמתמודד עם ביקוש אלסטי (מוצר מדף בסיסי, מקום בטיסת תקציב) יאבד יותר בנפח ממה שיקבל במחיר, כך שהעלאת מחיר תפגע בו.\n\nהאלסטיות אינה קבועה - היא תלויה בזמינות תחליפים, בחלק שהמוצר תופס מתקציב הקונה, ובטווח הזמן (הביקוש נוטה להיות אלסטי יותר בטווח הארוך, כי לאנשים יש זמן למצוא חלופות או לשנות הרגלים).\n\n## למה לשים לב\n\nכשחברה מודיעה על העלאת מחירים, השאלה האמיתית היא על איזה צד של האלסטיות היא מתערבת. אנליסטים מציינים את זה במפורש: לומר שלחברה \"יש כוח תמחור\" זו דרך קצרה לומר שהביקוש למוצר שלה לא אלסטי."
+      },
+      "tags": [
+        "concept",
+        "economics",
+        "pricing"
+      ],
+      "sources": []
+    },
+    {
+      "id": "otd-1877-edison-phonograph",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1877: Thomas Edison announced his invention of the phonograph",
+        "scroll": "On this day in 1877, Thomas Edison announced the phonograph, the first device able to record and play back sound.",
+        "coffee": "On November 21, 1877, Thomas Edison announced that he had built a working phonograph — a machine that could record sound onto a tinfoil-wrapped cylinder and play it back. It was the first time in history that a human voice could be captured and heard again later, something that had never been possible before, no matter how skilled the listener or recorder.\n\nEdison reportedly surprised even himself with how well it worked on the first real test, reciting \"Mary Had a Little Lamb\" into the device and hearing it played back. The invention made him instantly famous — newspapers dubbed him \"The Wizard of Menlo Park\" — and it opened the entire recorded-sound industry: music records, radio broadcasting archives, voicemail, and eventually digital audio all trace back to this one breakthrough.",
+        "deep": "## Background\n\nBy 1877, Thomas Edison was already known for improvements to the telegraph and telephone, working out of his lab in Menlo Park, New Jersey. Sound recording wasn't really on anyone's roadmap as an achievable goal — capturing a voice and playing it back seemed closer to magic than engineering.\n\n## The announcement\n\nEdison's phonograph used a stylus to etch vibrations from sound waves onto a sheet of tinfoil wrapped around a rotating cylinder. Running the stylus back over the grooves reproduced the vibrations, and therefore the sound. The famous story is that Edison tested it by reciting the nursery rhyme \"Mary Had a Little Lamb,\" then played it back and heard his own voice — reportedly stunning both him and his assistants.\n\nHe announced the invention publicly and filed for a patent shortly after, and it was covered widely in the press within weeks. Unlike many of Edison's later inventions, which took years of iteration, the phonograph worked essentially on the first real attempt, catapulting him to international fame as \"The Wizard of Menlo Park.\"\n\n## Second-order effects\n\nThe tinfoil phonograph itself was a crude, short-lived device — the foil tore easily and could only be played back a few times before degrading. Edison set it aside for nearly a decade to focus on the electric light bulb, and it was improved versions (wax cylinders, then flat discs) developed by Edison and competitors like Alexander Graham Bell's lab and Emile Berliner that turned the idea into a commercially viable industry.\n\nBut the conceptual leap — that sound itself, not just a description of sound, could be stored and replayed — had already happened on this day. It created the entire category of recorded media: music records, audio archives, answering machines, and eventually digital audio formats like MP3s and streaming all descend from the same basic principle Edison demonstrated in 1877.\n\n## What to watch\n\nThe phonograph is a useful case study in how a single working prototype, even a flawed one, can define an entirely new category before anyone has figured out how to make it practical or profitable — a pattern that recurs throughout the history of technology."
+      },
+      "he": {
+        "headline": "1877: תומאס אדיסון הכריז על הפטפון שהמציא",
+        "scroll": "ב-21 בנובמבר 1877 הכריז תומאס אדיסון על הפטפון - המכשיר הראשון שהצליח להקליט ולהשמיע קול.",
+        "coffee": "ב-21 בנובמבר 1877 הודיע תומאס אדיסון שבנה פטפון פועל - מכשיר שהצליח להקליט קול על גליל עטוף נייר כסף (tinfoil) ולהשמיע אותו בחזרה. זו הייתה הפעם הראשונה בהיסטוריה שקול אנושי יכול היה להיות מתועד ולהישמע שוב מאוחר יותר, דבר שלא היה אפשרי קודם, לא משנה כמה מוכשר היה המאזין או מתעד הקול.\n\nעל פי הסיפור המפורסם, אדיסון עצמו הופתע מכמה טוב המכשיר עבד בניסוי הראשון, כשקרא לתוכו את שיר הילדים \"Mary Had a Little Lamb\" ושמע אותו מושמע בחזרה. ההמצאה הפכה אותו למפורסם כמעט בן לילה - העיתונים כינו אותו \"הקוסם ממנלו פארק\" - והיא פתחה את כל תעשיית הקלטת הקול: תקליטי מוזיקה, שידורי רדיו, תא קולי, ולבסוף גם שמע דיגיטלי - כולם מתחילים מהפריצה הזו.",
+        "deep": "## רקע\n\nעד 1877, תומאס אדיסון היה כבר מוכר בזכות שיפורים בטלגרף ובטלפון, ועבד במעבדתו במנלו פארק, ניו ג'רזי. הקלטת קול לא היה בכלל יעד ריאלי שאנשים חשבו שאפשר להשיג - לתעד קול ולהשמיע אותו בחזרה נראה קרוב יותר לקסם מאשר למהנדסות.\n\n## ההכרזה\n\nהפטפון של אדיסון השתמש במחט (stylus) שחרטה את תנודות גלי הקול על גיליון נייר כסף עטוף על גליל מסתובב. הרצת המחט בחזרה על החריצים שחזרה את התנודות, ולכן את הקול. הסיפור המפורסם הוא שאדיסון בדק את המכשיר בכך שקרא את שיר הילדים \"Mary Had a Little Lamb\", ואז השמיע אותו בחזרה ושמע את קולו שלו - מה שככל הנראה הפתיע גם אותו וגם את עוזריו.\n\nהוא הכריז על ההמצאה בפומבי והגיש פטנט זמן קצר אחר כך, והיא קיבלה סיקור נרחב בעיתונות תוך שבועות. בשונה מהמצאות מאוחרות יותר של אדיסון, שדרשו שנים של שיפורים, הפטפון עבד למעשה בניסיון הראשון, מה שהפך אותו לדמות בעלת תהודה עולמית בכינוי \"הקוסם ממנלו פארק\".\n\n## השפעות מסדר שני\n\nהפטפון המקורי עם נייר הכסף היה מכשיר גס וחי קצרה - הנייר נקרע בקלות והיה אפשר להשמיע אותו רק כמה פעמים לפני שהתכלה. אדיסון הניח אותו בצד לכמעט עשור כדי להתמקד בנורת החשמל, וגרסאות משופרות (גלילי שעווה, ואז דיסקים שטוחים) שפותחו על ידו ועל ידי מתחרים כמו מעבדתו של אלכסנדר גרהם בל ואמיל ברלינר הן שהפכו את הרעיון לתעשייה מסחרית בת-קיימא.\n\nאבל הקפיצה המושגית - שהקול עצמו, לא רק תיאור שלו, יכול להישמר ולהישמע שוב - כבר קרתה ביום הזה. היא יצרה את כל קטגוריית המדיה המוקלטת: תקליטי מוזיקה, ארכיוני שמע, משיבונים, ולבסוף גם פורמטים דיגיטליים כמו MP3 ושירותי הזרמה - כולם נובעים מאותו עיקרון בסיסי שאדיסון הדגים ב-1877.\n\n## למה לשים לב\n\nהפטפון הוא מקרה מבחן שימושי לאיך אבטיפוס עובד יחיד, אפילו פגום, יכול להגדיר קטגוריה שלמה חדשה לפני שמישהו הבין איך להפוך אותו לפרקטי או רווחי - תבנית שחוזרת על עצמה לאורך כל ההיסטוריה הטכנולוגית."
+      },
+      "tags": [
+        "history",
+        "invention",
+        "edison"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1877: Thomas Edison announced his invention of the phonograph, a device able to record and play sound.",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+        }
+      ]
+    }
+  ]
+}

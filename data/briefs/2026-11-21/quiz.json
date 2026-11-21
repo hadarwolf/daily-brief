@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-21",
+  "questions": [
+    {
+      "id": "quiz-trump-ukraine-guarantees",
+      "section": "geopolitics",
+      "story_id": "ukraine-war-poland-missile-trump-pulls-back",
+      "answer_index": 3,
+      "en": {
+        "question": "What did Donald Trump do this week regarding US security guarantees for Ukraine, even as a Russian missile struck NATO member Poland?",
+        "options": [
+          "He signed a formal security guarantee committing US troops to defend Ukraine",
+          "He announced new NATO airstrikes against Russian positions",
+          "He agreed to lift all US sanctions on Russia immediately",
+          "He held back from committing to security guarantees for Ukraine despite describing his talks with Putin as \"good\""
+        ],
+        "explanation": "Trump described his conversation with Putin as positive but explicitly avoided committing to security guarantees for Kyiv."
+      },
+      "he": {
+        "question": "מה עשה דונלד טראמפ השבוע בנוגע לערבויות ביטחון לאוקראינה, דווקא כשטיל רוסי פגע בפולין, מדינה חברת נאט\"ו?",
+        "options": [
+          "הוא חתם על ערבות ביטחון רשמית שמחייבת כוחות אמריקאים להגן על אוקראינה",
+          "הוא הכריז על תקיפות אוויריות חדשות של נאט\"ו על עמדות רוסיות",
+          "הוא הסכים להסיר לאלתר את כל הסנקציות האמריקאיות על רוסיה",
+          "הוא נמנע מהתחייבות לערבויות ביטחון לאוקראינה, אף שהגדיר את שיחותיו עם פוטין כ\"טובות\""
+        ],
+        "explanation": "טראמפ תיאר את שיחתו עם פוטין כחיובית אך נמנע באופן מפורש מהתחייבות לערבויות ביטחון לקייב."
+      }
+    },
+    {
+      "id": "quiz-ai-selloff-correction",
+      "section": "business",
+      "story_id": "ai-selloff-correction-bear-market",
+      "answer_index": 1,
+      "en": {
+        "question": "What happened to major US stock indices this week amid the pullback in AI-related stocks?",
+        "options": [
+          "The S&P 500 hit a new all-time high driven by AI stocks",
+          "The S&P 500 and Dow fell into a correction while tech stocks slid into a bear market",
+          "The Federal Reserve cut interest rates to prevent a tech selloff",
+          "Nvidia's stock price doubled after settling its SEC investigation"
+        ],
+        "explanation": "A correction is a drop of 10% or more and a bear market is a drop of 20% or more; both happened this week as roughly $4 trillion in AI-linked value was erased."
+      },
+      "he": {
+        "question": "מה קרה למדדי המניות המרכזיים בארה\"ב השבוע על רקע הנסיגה במניות הקשורות ל-AI?",
+        "options": [
+          "מדד ה-S&P 500 הגיע לשיא כל הזמנים בהובלת מניות ה-AI",
+          "מדדי ה-S&P 500 ודאו ג'ונס נכנסו לתיקון (correction), ומניות הטכנולוגיה צנחו לשוק דובי (bear market)",
+          "הבנק הפדרלי הוריד את הריבית כדי למנוע מפולת במניות הטכנולוגיה",
+          "מניית אנבידיה הכפילה את עצמה לאחר שסיימה את חקירת רשות ניירות הערך"
+        ],
+        "explanation": "תיקון הוא ירידה של 10% או יותר ושוק דובי הוא ירידה של 20% או יותר; שניהם קרו השבוע כשכ-4 טריליון דולר משווי מניות הקשורות ל-AI נמחקו."
+      }
+    },
+    {
+      "id": "quiz-ai-companions-mutuality",
+      "section": "ideas",
+      "story_id": "ai-companions-attachment",
+      "answer_index": 3,
+      "en": {
+        "question": "According to psychotherapist Tom Wooldridge's essay, what is the key thing an AI companion can never provide that a human caregiver can?",
+        "options": [
+          "Constant availability, since AI companions can't respond at all hours",
+          "Memory of past conversations, since AI tends to forget what a child said before",
+          "Emotional warmth, since AI responses are inherently cold and robotic",
+          "Mutuality - being genuinely changed or affected by the child, not just absorbing and reflecting back whatever they bring"
+        ],
+        "explanation": "Wooldridge argues, drawing on Winnicott, that a real caregiver proves she's separate and real by being affected and changed by the child - something an AI, however warm, cannot do."
+      },
+      "he": {
+        "question": "לפי המאמר של הפסיכותרפיסט טום וולדריג', מה הדבר המרכזי שחבר AI לעולם לא יכול לספק, בשונה ממטפל אנושי?",
+        "options": [
+          "נגישות מתמדת, כי חברי AI לא יכולים להגיב בכל שעה",
+          "זיכרון של שיחות עבר, כי AI נוטה לשכוח מה שהילד אמר קודם",
+          "חמימות רגשית, כי תגובות AI הן קרות ורובוטיות באופן מובנה",
+          "הדדיות (mutuality) - להשתנות או להיות מושפע באמת מהילד, ולא רק לספוג ולשקף בחזרה כל מה שהוא מביא"
+        ],
+        "explanation": "וולדריג' טוען, בהתבסס על ויניקוט, שמטפל אמיתי מוכיח שהוא נפרד ואמיתי בכך שהוא מושפע ומשתנה מהילד - דבר ש-AI, כמה שיהיה חם, לא יכול לעשות."
+      }
+    }
+  ]
+}

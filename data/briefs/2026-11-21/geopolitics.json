@@ -1,0 +1,112 @@
+{
+  "section": "geopolitics",
+  "date": "2026-11-21",
+  "title_en": "Geopolitics",
+  "title_he": "גיאופוליטיקה",
+  "default_lang": "en",
+  "generated_at": "2026-11-21T04:01:09+00:00",
+  "stories": [
+    {
+      "id": "ukraine-war-poland-missile-trump-pulls-back",
+      "kind": "analysis",
+      "en": {
+        "headline": "A Russian missile hit Poland as Trump holds back on Ukraine security guarantees",
+        "scroll": "A Russian missile struck Poland during a NATO exercise and Russia hit Kyiv with one of its biggest attacks yet, just as Trump pulled back from committing to security guarantees for Ukraine.",
+        "coffee": "A Russian missile hit Poland overnight while Ukraine's allies were holding a military exercise there — Poland's PM Donald Tusk called it a \"provocation\" from Moscow, though no one was hurt and no damage was reported. It came days after Russia launched one of its biggest air attacks of the war, striking bridges and railway stations in Kyiv, itself a response to Ukraine hitting the Crimean Bridge shortly before.\n\nThe timing matters: Donald Trump says he had \"good talks\" with Vladimir Putin about Ukraine, but held back from committing to security guarantees for Kyiv. That follows a summit in China where Trump sat down with Putin and Xi Jinping together — a meeting The Economist argues diminished America's standing rather than strengthened it.\n\nThe combination is feeding a broader worry among US allies. The head of a Canadian security forum put it bluntly this week: the world can no longer count on US leadership. A missile landing in NATO territory, even one that caused no casualties, is exactly the kind of incident that tests whether that leadership is still there when it's needed.",
+        "deep": "## Background\n\nRussia's war in Ukraine has ground on for years, but the last week has compressed several of its sharpest edges into a short span: a strike deep inside Crimea, a major Russian retaliation against Kyiv's infrastructure, and now a missile landing on NATO soil in Poland. Each of these events is individually explainable; together, they read as a war that keeps finding new ways to spill past Ukraine's borders.\n\n## The story\n\nUkraine struck the Crimean Bridge — a prized piece of infrastructure physically connecting Russia to annexed Crimea — days before Russia answered with one of its largest air attacks of the war, hitting bridges and railway stations in Kyiv. Then, while Ukraine's Western allies were conducting a military exercise inside Poland, a Russian missile struck Polish territory. Nobody was hurt and no damage has been reported, but Polish Prime Minister Donald Tusk called it a provocation. Whether the missile was a stray or a deliberate signal, it landed inside a NATO member state — the alliance whose Article 5 mutual-defense clause exists for exactly this kind of moment.\n\nAgainst that backdrop, Donald Trump described his latest conversation with Vladimir Putin about Ukraine as positive, while explicitly holding back from committing to security guarantees for Kyiv. That caution follows a trilateral summit in China where Trump met both Putin and Xi Jinping — a meeting The Economist frames not as a sign of American strength brokering peace between rivals, but as a moment that shrank America's own stature, with Washington looking more like one point in a triangle than the power setting the terms.\n\n## Second-order effects\n\nFor Ukraine, the absence of firm US security guarantees changes the calculus of any future ceasefire: without a backstop, Kyiv has less incentive to accept terms that leave it exposed to a Russia that has just demonstrated it will still strike as hard as it can. For NATO's eastern members, a missile landing on their territory — intentional or not — is a reminder that the war's front line isn't as contained as maps suggest, and that the alliance's credibility rests on how it responds to exactly this kind of ambiguous incident.\n\nThe broader unease was voiced plainly this week by the head of a Canadian security forum, who warned that the world can no longer assume US leadership will be there when needed. That's not a fringe view anymore: when a sitting US president is seen courting both Moscow and Beijing at once while stepping back from guarantees to an ally under attack, allies start hedging — looking to their own capabilities, to each other, and to regional pacts that don't depend on Washington.\n\n## What to watch next\n\nWatch whether NATO issues any formal response to the Polish missile strike, and whether Trump's conversations with Putin produce anything concrete on paper rather than a verbal account of \"good talks.\" The gap between those two — an incident that tests alliance resolve, and a diplomatic track that keeps avoiding firm commitments — is where this story's next turn is most likely to come from."
+      },
+      "he": {
+        "headline": "טיל רוסי פגע בפולין, וטראמפ נמנע ממתן ערבויות ביטחון לאוקראינה",
+        "scroll": "טיל רוסי פגע בפולין בזמן תרגיל נאט\"ו, ורוסיה תקפה את קייב באחד התקפיה הגדולים ביותר - בדיוק כשטראמפ נמנע מהתחייבות לערבויות ביטחון לאוקראינה.",
+        "coffee": "טיל רוסי פגע בפולין בלילה, בזמן שבעלות הברית של אוקראינה קיימו תרגיל צבאי בשטחה - ראש ממשלת פולין דונלד טוסק הגדיר זאת \"פרובוקציה\" ממוסקבה, אף שלא נפגע אף אדם ולא דווח על נזק. זה קרה ימים אחרי שרוסיה שיגרה את אחת המתקפות האוויריות הגדולות ביותר שלה במלחמה, בפגיעה בגשרים ובתחנות רכבת בקייב - תגובה, בעצמה, לתקיפה אוקראינית על גשר קרים זמן קצר קודם לכן.\n\nהתזמון משמעותי: דונלד טראמפ אומר שהיו לו \"שיחות טובות\" עם ולדימיר פוטין על אוקראינה, אך נמנע מלהתחייב לערבויות ביטחון לקייב. זה בא בהמשך לפגישת פסגה בסין שבה טראמפ נפגש עם פוטין וסי ג'ינפינג יחד - פגישה שה-Economist טוען שהקטינה את מעמדה של אמריקה ולא חיזקה אותו.\n\nהשילוב הזה מזין חשש רחב יותר בין בעלות הברית של ארה\"ב. ראש פורום ביטחוני קנדי אמר זאת בפשטות השבוע: העולם לא יכול יותר לסמוך על הנהגה אמריקאית. טיל שנוחת בשטח נאט\"ו, אפילו כזה שלא גרם לנפגעים, הוא בדיוק הסוג של תקרית שבוחנת אם ההנהגה הזו עדיין קיימת כשצריך אותה.",
+        "deep": "## רקע\n\nהמלחמה של רוסיה באוקראינה נמשכת כבר שנים, אבל השבוע האחרון דחס כמה מהקצוות החדים ביותר שלה לפרק זמן קצר: תקיפה עמוק בתוך קרים, תגמול רוסי משמעותי על התשתיות של קייב, ועכשיו טיל שנוחת על קרקע נאט\"ו בפולין. כל אירוע בנפרד ניתן להסבר; יחד, הם נקראים כמלחמה שממשיכה למצוא דרכים חדשות לגלוש מעבר לגבולות אוקראינה.\n\n## הסיפור\n\nאוקראינה תקפה את גשר קרים - תשתית יוקרתית שמחברת פיזית בין רוסיה לקרים המסופחת - ימים לפני שרוסיה השיבה באחת המתקפות האוויריות הגדולות ביותר שלה במלחמה, בפגיעה בגשרים ובתחנות רכבת בקייב. אחר כך, בזמן שבעלות הברית המערביות של אוקראינה קיימו תרגיל צבאי בפולין, טיל רוסי פגע בשטח פולני. אף אדם לא נפגע ולא דווח על נזק, אבל ראש ממשלת פולין דונלד טוסק הגדיר זאת פרובוקציה. בין אם הטיל היה תועה ובין אם היה איתות מכוון, הוא נחת בתוך מדינת חבר נאט\"ו - הברית שסעיף ההגנה ההדדית שלה (Article 5) קיים בדיוק לרגע כזה.\n\nעל רקע זה, דונלד טראמפ תיאר את שיחתו האחרונה עם ולדימיר פוטין על אוקראינה כחיובית, בזמן שנמנע באופן מפורש מהתחייבות לערבויות ביטחון לקייב. הזהירות הזו מגיעה בהמשך לפגישת פסגה משולשת בסין שבה טראמפ נפגש עם פוטין וסי ג'ינפינג - פגישה שה-Economist מסגר לא כסימן לכוח אמריקאי שמתווך בין יריבים, אלא כרגע שהקטין את מעמדה של אמריקה עצמה, כשוושינגטון נראית יותר כנקודה אחת במשולש ולא כגורם שקובע את התנאים.\n\n## השפעות מדרגה שנייה\n\nלאוקראינה, היעדר ערבויות ביטחון אמריקאיות מוצקות משנה את החשבון של כל הפסקת אש עתידית: בלי גב, לקייב יש פחות תמריץ להסכים לתנאים שישאירו אותה חשופה לרוסיה שהרגע הראתה שהיא עדיין תתקוף בכל הכוח שלה. לחברות הנאט\"ו המזרחיות, טיל שנוחת בשטחן - בכוונה או לא - הוא תזכורת לכך שקו החזית של המלחמה לא מוכל כמו שהמפות מרמזות, ושהאמינות של הברית נשענת על האופן שבו היא מגיבה בדיוק לסוג כזה של תקרית מעורפלת.\n\nהחשש הרחב יותר הובע בפשטות השבוע על ידי ראש פורום ביטחוני קנדי, שהזהיר שהעולם לא יכול יותר להניח שהנהגה אמריקאית תהיה שם כשצריך. זו לא עמדה שולית יותר: כשנשיא אמריקאי מכהן נראה מחזר אחרי מוסקבה ובייג'ין בו-זמנית בזמן שהוא מתרחק מערבויות לבעל ברית שנתון להתקפה, בעלות ברית מתחילות להתגונן - פונות ליכולות שלהן עצמן, אחת לשנייה, ולהסכמים אזוריים שלא תלויים בוושינגטון.\n\n## מה לעקוב אחריו\n\nשימו לב אם נאט\"ו תוציא תגובה רשמית לתקיפת הטיל בפולין, ואם השיחות של טראמפ עם פוטין יניבו משהו קונקרטי על הנייר ולא רק תיאור מילולי של \"שיחות טובות\". הפער בין השניים - תקרית שבוחנת את החוסן של הברית, ומסלול דיפלומטי שממשיך להימנע מהתחייבויות מוצקות - הוא המקום שממנו הכי צפוי להגיע התפתחות הסיפור הבאה."
+      },
+      "tags": [
+        "ukraine",
+        "russia",
+        "nato",
+        "trump"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News — World",
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "What we know about the latest Russian missile strikes on Ukraine",
+          "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "BBC News — World",
+          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3JPLTZVMmozZDY5c0piSTJBajFkeXRoMVc0UWVRRVVtZTdHb3BNcU8temVfeW1TNWRzZzBGVVVTUEs4TGl3eFpuSGNCNFpsLUpPRE1PSjdQYzZDbl9LM2NkMlo3TmpFVEV5QkNhODJyZy1qTUc3U0VNSFhUZHhqWWowLUxSamJlUlIxYjgyVV81ZjFOYmM0ZjdDUQ?oc=5"
+        },
+        {
+          "outlet": "AP — World (via Google News)",
+          "title": "Head of a Canadian security forum warns the world can no longer count on US leadership - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGUtWHoyZV9vczFLX2RpQ0UtYnE2OEwzamQ2cHR3OWZ3TzlrU3Z2RkYzUG1LYWFHVzBNVElPMFBKSWZ6aWV3QWwxUDZXWWFSSUV6Qmw5YV9IS0QwbXBIT0d3R3hRaUVIdFRXZ0N1ODVoNVJyelZVOWh0bi1tN1pMMjhOTFMtRURsYVg1dlBoOGVGLVhiRVRoMkF1UmJacERlYVlxbFQ3RGhtUQ?oc=5"
+        },
+        {
+          "outlet": "The Economist — International",
+          "title": "The incredible shrinking legacy of Donald J. Trump",
+          "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump"
+        }
+      ]
+    },
+    {
+      "id": "us-iran-diplomacy-sanctions-standoff",
+      "kind": "analysis",
+      "en": {
+        "headline": "Iran says it wants diplomacy to end the war; Trump calls its terms unacceptable",
+        "scroll": "Iran's foreign minister says Tehran wants a diplomatic end to its war with the US, but Trump rejected Iran's terms as unacceptable, while Washington kept tightening sanctions.",
+        "coffee": "Iranian Foreign Minister Abbas Araqchi said this week that Iran wants diplomacy to end its war with the United States — but Donald Trump responded that Iran's terms are unacceptable. The exchange captures a standoff The Economist's War Room newsletter has framed as a question of who blinks first.\n\nWashington isn't easing pressure while that diplomatic track plays out: the US Treasury sanctioned Iranian \"trustees\" accused of collecting oil revenue on the regime's behalf, part of the broader economic squeeze that has run alongside the military confrontation. Meanwhile, Vice President JD Vance declined to say whether he personally would have ordered the US strikes on Iran, a notable hedge from the country's second-highest official.\n\nThe conflict's reach extends to Iran's regional allies: Saudi Arabia said it intercepted three Houthi missiles aimed at Riyadh, a reminder that Iran-aligned forces in Yemen remain active even as Tehran talks diplomacy with Washington.",
+        "deep": "## Background\n\nThe confrontation between the United States and Iran has moved between military confrontation, economic sanctions and diplomatic signaling, with each track running in parallel rather than one replacing another. That pattern continued this week.\n\n## The story\n\nIranian Foreign Minister Abbas Araqchi said Tehran wants to end its war with the United States through diplomacy. Donald Trump's response was blunt: Iran's terms, as presented, are unacceptable to Washington. Neither side's precise terms were detailed in available reporting, but the exchange itself — an explicit Iranian openness to talks met with an explicit American rejection of the terms on offer — suggests both sides are negotiating through public statements as much as through back channels. The Economist's defense newsletter frames the broader dynamic as a test of nerve: neither Washington nor Tehran appears able, or willing, to simply end the stalemate on the other's terms.\n\nVice President JD Vance added a notable data point to that picture, declining to say whether he personally would have ordered the US military strikes on Iran that are part of the backdrop to this conflict. For a sitting vice president to hedge on a decision taken by the administration he serves in is unusual, and suggests some internal distance — even if only rhetorical — from how the strikes were handled.\n\n## Second-order effects\n\nThe US Treasury's sanctions on Iranian \"trustees\" collecting oil revenue show that economic pressure keeps escalating even while diplomacy is nominally on the table — a sign Washington wants Tehran negotiating from a weaker financial position, not a stronger one. That combination of sanctions plus military confrontation plus an open diplomatic door is a classic high-pressure negotiating posture, but it also raises the risk of miscalculation: if Iran reads the sanctions as bad-faith pressure rather than a negotiating tactic, diplomacy becomes harder to sustain.\n\nThe conflict's regional spillover is visible in Saudi Arabia's interception of three Houthi missiles aimed at Riyadh. The Houthis, backed by Iran, have kept up attacks on Gulf targets regardless of the state of US-Iran talks, which means any diplomatic progress between Washington and Tehran won't necessarily translate into calm across the wider region unless it specifically addresses Iran's network of allied forces.\n\n## What to watch next\n\nWatch for any public detail on what Iran's rejected terms actually contained, and whether the sanctions on oil-revenue \"trustees\" are paired with any corresponding US gesture — a sign of genuine movement toward negotiation rather than pressure for its own sake. Continued Houthi attacks on Saudi Arabia, regardless of the US-Iran track, would signal that this is a multi-front situation that diplomacy alone can't resolve."
+      },
+      "he": {
+        "headline": "איראן אומרת שהיא רוצה דיפלומטיה לסיום המלחמה; טראמפ מגדיר את תנאיה לא מתקבלים",
+        "scroll": "שר החוץ האיראני אומר שטהרן רוצה סיום דיפלומטי למלחמה שלה עם ארה\"ב, אך טראמפ דחה את תנאי איראן כלא מתקבלים, בזמן שוושינגטון המשיכה להחמיר סנקציות.",
+        "coffee": "שר החוץ האיראני עבאס עראקצ'י אמר השבוע שאיראן רוצה דיפלומטיה לסיום המלחמה שלה עם ארצות הברית - אך דונלד טראמפ השיב שתנאי איראן לא מתקבלים. החילופין האלה משקפים עימות שניוזלטר War Room של ה-Economist הגדיר כשאלה של מי יוותר ראשון.\n\nוושינגטון לא מרפה מהלחץ בזמן שהמסלול הדיפלומטי מתקיים: משרד האוצר האמריקאי הטיל סנקציות על \"נאמנים\" (trustees) איראנים שהואשמו באיסוף הכנסות נפט בשם המשטר, חלק מהלחץ הכלכלי הרחב יותר שפעל במקביל לעימות הצבאי. בינתיים, סגן הנשיא ג'יי די ואנס נמנע מלהגיד אם הוא עצמו היה מורה על התקיפות האמריקאיות על איראן, הססנות בולטת מצד הפקיד השני בחשיבותו במדינה.\n\nההשפעה של העימות מתפרשת גם לבעלות הברית האזוריות של איראן: ערב הסעודית אמרה שיירטה שלושה טילי חות'ים שכוונו לריאד, תזכורת לכך שכוחות מכוונים לאיראן בתימן נותרים פעילים גם כשטהרן מדברת דיפלומטיה עם וושינגטון.",
+        "deep": "## רקע\n\nהעימות בין ארצות הברית לאיראן נע בין עימות צבאי, סנקציות כלכליות ואיתות דיפלומטי, כשכל מסלול פועל במקביל ולא מחליף את האחר. הדפוס הזה נמשך השבוע.\n\n## הסיפור\n\nשר החוץ האיראני עבאס עראקצ'י אמר שטהרן רוצה לסיים את המלחמה שלה עם ארצות הברית בדרך דיפלומטית. התגובה של דונלד טראמפ הייתה חדה: תנאי איראן, כפי שהוצגו, לא מתקבלים על וושינגטון. התנאים המדויקים של שני הצדדים לא פורטו בדיווחים הזמינים, אבל החילופין עצמם - פתיחות איראנית מפורשת לשיחות שנענתה בדחייה אמריקאית מפורשת של התנאים שהוצעו - מרמזים ששני הצדדים מנהלים משא ומתן דרך הצהרות פומביות לא פחות מאשר דרך תקשורת סמויה. ניוזלטר הביטחון של ה-Economist מסגר את הדינמיקה הרחבה יותר כמבחן עצבים: לא וושינגטון ולא טהרן נראות מסוגלות, או מוכנות, לסיים את הקיפאון בתנאי הצד השני.\n\nסגן הנשיא ג'יי די ואנס הוסיף נקודת מידע בולטת לתמונה הזו, כשנמנע מלהגיד אם הוא עצמו היה מורה על התקיפות הצבאיות האמריקאיות על איראן שמהוות חלק מהרקע לעימות הזה. מצב שבו סגן נשיא מכהן מתחמק מהחלטה שהתקבלה על ידי הממשל שהוא חבר בו הוא בלתי שגרתי, ומרמז על מרחק פנימי מסוים - גם אם רק רטורי - מהאופן שבו הטיפול בתקיפות התבצע.\n\n## השפעות מדרגה שנייה\n\nהסנקציות של משרד האוצר האמריקאי על \"נאמנים\" איראנים שאוספים הכנסות נפט מראות שהלחץ הכלכלי ממשיך להסלים גם כשהדיפלומטיה נמצאת רשמית על השולחן - סימן לכך שוושינגטון רוצה שטהרן תנהל משא ומתן ממצב כלכלי חלש יותר, לא חזק יותר. השילוב הזה של סנקציות, עימות צבאי ודלת דיפלומטית פתוחה הוא עמדת מיקוח בלחץ גבוה קלאסית, אבל הוא גם מגדיל את הסיכון לטעות חישוב: אם איראן תקרא את הסנקציות כלחץ בחוסר תום לב ולא כטקטיקת מיקוח, הדיפלומטיה תהיה קשה יותר לקיום.\n\nההשפעה האזורית של העימות נראית בירוט של ערב הסעודית של שלושה טילי חות'ים שכוונו לריאד. החות'ים, הנתמכים על ידי איראן, המשיכו בתקיפות על מטרות בחצי האי הערבי ללא קשר למצב השיחות בין ארה\"ב לאיראן, מה שאומר שכל התקדמות דיפלומטית בין וושינגטון לטהרן לא בהכרח תתורגם לשלווה ברחבי האזור הרחב יותר, אלא אם היא תתמודד באופן ספציפי עם רשת הכוחות המסונפים לאיראן.\n\n## מה לעקוב אחריו\n\nשימו לב לכל פרט פומבי על מה שתנאי איראן שנדחו כללו בפועל, ואם הסנקציות על \"נאמני\" הכנסות הנפט מלוות בכל מחווה אמריקאית מקבילה - סימן לתנועה אמיתית לעבר משא ומתן ולא ללחץ לשם הלחץ עצמו. המשך תקיפות חות'ים על ערב הסעודית, ללא קשר למסלול ארה\"ב-איראן, יעיד שזה מצב רב-חזיתי שדיפלומטיה בלבד לא יכולה לפתור."
+      },
+      "tags": [
+        "iran",
+        "united-states",
+        "sanctions"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmJ1MkI1NFRhVGFBd09OcklwWXpmN2taa1EtT1pfNWxDSzZhamdaUkJubjMxb01yQV9zQ0hqQ0JFVGFGUE92RFRvRjh1Q21UeElHcWFxWnRhdnFlZFNuT1BBY081U2tyTVpaZmU5RmR6cmRfcklWUG1LeXRfdUZJTlNGQ213X0JDNGdzMTZOdVlPTVZYZVZaUmdGVVFpYmJFdG5xSUlBclI0QWlPYzdsTFdncWJjeF80XzI5N3NXMDM4b1E?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "US Vice President Vance declines to say he would have ordered Iran strikes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5"
+        },
+        {
+          "outlet": "Reuters — World (via Google News)",
+          "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5"
+        },
+        {
+          "outlet": "The Economist — International",
+          "title": "The War Room newsletter: Will America or Iran blink first?",
+          "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first"
+        }
+      ]
+    }
+  ]
+}
