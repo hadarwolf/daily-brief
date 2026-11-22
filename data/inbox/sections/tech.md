@@ -20,123 +20,111 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "ars_technica#0",
+     "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+     "published": "2026-11-21T22:12:41+00:00",
+     "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
+    },
+    {
+     "ref": "ars_technica#1",
+     "title": "“Race realism” isn’t realistic—and it isn’t good science",
+     "published": "2026-11-21T12:01:13+00:00",
+     "summary": "Modern genetics does not support claims of innate racial differences in intelligence."
+    },
+    {
+     "ref": "ars_technica#2",
      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
      "published": "2026-11-20T22:28:24+00:00",
      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service."
     },
     {
-     "ref": "ars_technica#1",
+     "ref": "ars_technica#3",
      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
      "published": "2026-11-20T22:16:51+00:00",
      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\""
     },
     {
-     "ref": "ars_technica#2",
+     "ref": "ars_technica#4",
      "title": "Google rolls out new search homepage with AI chat history and no search button",
      "published": "2026-11-20T21:58:29+00:00",
      "summary": "Google search is making it even easier to access AI tools on the search page."
     },
     {
-     "ref": "ars_technica#3",
+     "ref": "ars_technica#5",
      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
      "published": "2026-11-20T21:47:10+00:00",
      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
     },
     {
-     "ref": "ars_technica#4",
+     "ref": "ars_technica#6",
      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
      "published": "2026-11-20T20:59:08+00:00",
      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
     },
     {
-     "ref": "ars_technica#5",
+     "ref": "ars_technica#7",
      "title": "Watching as a giant star swallowed its neighbor and exploded",
      "published": "2026-11-20T20:41:17+00:00",
      "summary": "A recent brightening turned out to be from a star orbiting inside another."
     },
     {
-     "ref": "ars_technica#6",
+     "ref": "ars_technica#8",
      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
      "published": "2026-11-20T20:26:33+00:00",
      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\""
     },
     {
-     "ref": "ars_technica#7",
+     "ref": "ars_technica#9",
      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
      "published": "2026-11-20T19:52:59+00:00",
      "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\""
     },
     {
-     "ref": "ars_technica#8",
+     "ref": "ars_technica#10",
      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
      "published": "2026-11-20T19:21:50+00:00",
      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away."
     },
     {
-     "ref": "ars_technica#9",
+     "ref": "ars_technica#11",
      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
      "published": "2026-11-20T16:11:21+00:00",
      "summary": "\"We don't yet know the number we are able to make, and at what price...\""
     },
     {
-     "ref": "ars_technica#10",
+     "ref": "ars_technica#12",
      "title": "US will soon announce root cause behind FAA nationwide ground stop",
      "published": "2026-11-20T14:52:51+00:00",
      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network."
     },
     {
-     "ref": "ars_technica#11",
+     "ref": "ars_technica#13",
      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
      "published": "2026-11-20T14:15:21+00:00",
      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach."
     },
     {
-     "ref": "ars_technica#12",
+     "ref": "ars_technica#14",
      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
      "published": "2026-11-20T13:35:45+00:00",
      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine."
     },
     {
-     "ref": "ars_technica#13",
+     "ref": "ars_technica#15",
      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
      "published": "2026-11-20T12:30:29+00:00",
      "summary": "Gambling? We're just swapping contracts!"
     },
     {
-     "ref": "ars_technica#14",
+     "ref": "ars_technica#16",
      "title": "Science has a home here at Ars—please help keep it that way",
      "published": "2026-11-20T12:15:36+00:00",
      "summary": "Your support for Ars matters more now than ever."
     },
     {
-     "ref": "ars_technica#15",
+     "ref": "ars_technica#17",
      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
      "published": "2026-11-20T12:00:43+00:00",
      "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers."
-    },
-    {
-     "ref": "ars_technica#16",
-     "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-     "published": "2026-11-19T22:16:37+00:00",
-     "summary": "Amazon now uses its shopping platform for political purposes."
-    },
-    {
-     "ref": "ars_technica#17",
-     "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-     "published": "2026-11-19T21:19:12+00:00",
-     "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC."
-    },
-    {
-     "ref": "ars_technica#18",
-     "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-     "published": "2026-11-19T20:29:46+00:00",
-     "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit."
-    },
-    {
-     "ref": "ars_technica#19",
-     "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-     "published": "2026-11-19T20:19:28+00:00",
-     "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives."
     }
    ]
   },
@@ -146,33 +134,39 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו בהם משהו חדש",
+     "published": "2026-11-21T16:29:29+00:00",
+     "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. CxO Security Breakfast | Google Cloud and Sela מתי? 6 […] The post סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו ב"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה",
+     "published": "2026-11-21T13:33:44+00:00",
+     "summary": "כמה התרגשנו כשהבינה המלאכותית הגיעה לחיינו. כל מי שחלם על מיזם יכול היה פתאום לבנות אותו במו ידיו. וכולם אכן בונים. כל אחד מרים לעצמו את הכלי שהוא צריך בלי לחכות שמישהו אחר יעשה את זה בשבילו. אבל לחלום הזה יש צד שני: הביקוש נגמר. אף אחד לא מעוניין יותר בכלים של אחרים. זה כמו […] The post ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#2",
+     "title": "מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות",
+     "published": "2026-11-21T11:12:26+00:00",
+     "summary": "הרבה מכם מכירים את הנוהל: ממלאים את עגלת הקניות באמזון במהלך השבועות האחרונים, ויושבים עליה בסבלנות עד סוף נובמבר כדי לתפוס את ההנחות של הבלאק פריידיי. זה אולי מרגיש כמו צרכנות חכמה ותחושת ה\"דפקתי את המערכת\" האהובה עלינו כישראלים, אבל מחקר חדש שבדק את היסטוריית המחירים של מאות מוצרים באמזון מראה שלפעמים, ההמתנה הזו פשוט […] The post מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות appeare"
+    },
+    {
+     "ref": "geektime#3",
      "title": "במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים",
      "published": "2026-11-21T08:21:29+00:00",
      "summary": "בזמן שרבים בהייטק חוששים שה-AI יחליף אותם (והנתונים בהחלט מעידים על מקום לדאגה), משחק ישראלי חדש מציע לכם לעבור דווקא לצד השני של המתרס. במקום לעדכן קורות חיים ולעבוד על יכולות הריאיון שלכם, אתם תיכנסו לנעליים של מעבדת AI ותנסו להשתלט על שוק העבודה העולמי, מקצוע אחר מקצוע, לפני שהרגולציה תשתלט עליכם. כשסין ניסתה לגנוב […] The post במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים appeared first on גיק"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#4",
      "title": "סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת",
      "published": "2026-11-20T11:51:07+00:00",
      "summary": "אם יש כלל ברזל שלמדנו בעשורים האחרונים הוא שהאינטרנט זוכר הכל – גם פליטות פה רנדומליות. סם אלטמן, מנכ\"ל OpenAI, גילה את זה בדרך הקשה אחרי שהתלונן על הדרך שבה אנחנו, המוגלגים, \"מבזבזים\" RAM במחשבים שלנו, במקום שחוות השרתים של ChatGPT יוכלו לנצל את המשאב הנדיר. אז מפתח אחד החליט לקחת את האמירה הזו לקצה, […] The post סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#5",
      "title": "כמה אתם מוכנים לשלם כדי להפסיק לאסוף קקי של חתולים?",
      "published": "2026-11-20T08:45:30+00:00",
      "summary": "יש לי שלושה חתולים. היו גם ארבעה, אבל אחת הוכיחה שתשע נשמות זו אגדה אורבנית ועברה לצרוך אוכל היפואלרגני בשמיים. אבל אם אני שם רגע בצד את ענייני הלוגיסטיקה והעלות של אוכל ל-3 חתולים, הבעיה האמיתית שלי היא העובדה שיש הרבה מאוד קקי ופיפי שלהם לנקות. כדי לצמצם את המפגע הריחני, אפילו הפקעתי את מרפסת […] The post כמה אתם מוכנים לשלם כדי להפסיק לאסוף קקי של חתולים? appeared first on גיקטיים ."
-    },
-    {
-     "ref": "geektime#3",
-     "title": "ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר",
-     "published": "2026-11-19T19:08:24+00:00",
-     "summary": "לפני קצת פחות מ-6 שנים הוקמה Anthropic על ידי שבעה מייסדים, בהם האחים דניאלה ודריו אמודיי, שעזבו בטריקת דלת את OpenAI, והיום (ה') היא הופכת לחברה ציבורית בהנפקה הכי גדולה בהיסטוריה, וחוצה אף את שווי השוק של 2 טריליון דולר. לא הפסיקו לגייס המפתחת של מודלי קלוד וקלוד קוד החלה להיסחר היום בנאסד\"ק תחת הסימול […] The post ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר appeared first on "
-    },
-    {
-     "ref": "geektime#4",
-     "title": "הפשע המושלם: שילמו לי כדי לשחק GTA 6 וזה מה שחשבתי עליו",
-     "published": "2026-11-19T15:25:01+00:00",
-     "summary": "אני חושב שעשיתי היום את הפשע המושלם. לא, אני לא מדבר על משימה ב-GTA 6. אני מדבר על הפשע המושלם שבמסגרתו קמתי היום בבוקר, הפעלתי את ה-PlayStation 5 והתחלתי לשחק ב-GTA 6 – וקיבלתי על זה משכורת. כן, זה אחד הימים האלה שבהם אני לא מאמין שזו העבודה שלי, אבל מישהו צריך לעשות את העבודה […] The post הפשע המושלם: שילמו לי כדי לשחק GTA 6 וזה מה שחשבתי עליו appeared first on גיקטיים ."
     }
    ]
   },
@@ -182,87 +176,69 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
+     "title": "Inkling-2-Mini in 5.4 GB Memory",
+     "published": "2026-11-21T18:02:19+00:00",
+     "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 382 # Comments: 97"
+    },
+    {
+     "ref": "hn_frontpage#1",
+     "title": "Lean verification of the Riemann Hypothesis",
+     "published": "2026-11-21T14:36:45+00:00",
+     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 890 # Comments: 734"
+    },
+    {
+     "ref": "hn_frontpage#2",
+     "title": "Detonating a pile of lead azide",
+     "published": "2026-11-21T13:23:14+00:00",
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 552 # Comments: 361"
+    },
+    {
+     "ref": "hn_frontpage#3",
+     "title": "My monitor was cutting my download speed by 75%",
+     "published": "2026-11-21T10:36:32+00:00",
+     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 518 # Comments: 246"
+    },
+    {
+     "ref": "hn_frontpage#4",
+     "title": "RCE in Gnupg",
+     "published": "2026-11-21T08:32:58+00:00",
+     "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 241 # Comments: 97"
+    },
+    {
+     "ref": "hn_frontpage#5",
      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
      "published": "2026-11-20T23:18:32+00:00",
      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzar"
     },
     {
-     "ref": "hn_frontpage#1",
-     "title": "NINLIVE: The Nine Inch Nails live archive",
-     "published": "2026-11-20T22:30:47+00:00",
-     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 266 # Comments: 68"
-    },
-    {
-     "ref": "hn_frontpage#2",
-     "title": "Inkling 2 Mini",
-     "published": "2026-11-20T20:12:19+00:00",
-     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1018 # Comments: 193"
-    },
-    {
-     "ref": "hn_frontpage#3",
-     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-     "published": "2026-11-20T20:03:59+00:00",
-     "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 220 # Comments: 70"
-    },
-    {
-     "ref": "hn_frontpage#4",
-     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-     "published": "2026-11-20T20:03:07+00:00",
-     "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 300 # Comments: 263"
-    },
-    {
-     "ref": "hn_frontpage#5",
-     "title": "Winedroid – run Android apps without Android (WASM demo)",
-     "published": "2026-11-20T19:30:16+00:00",
-     "summary": "Article URL: https://winedroid.soham.sh/demo/ Comments URL: https://news.ycombinator.com/item?id=50580536 Points: 150 # Comments: 42"
-    },
-    {
      "ref": "hn_frontpage#6",
-     "title": "Hurried Announcement: Alessandro Masullo GRH",
-     "published": "2026-11-20T18:33:14+00:00",
-     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2094 # Comments: 973"
+     "title": "Getting the mind to steer the body to steer you",
+     "published": "2026-11-20T22:11:05+00:00",
+     "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 180 # Comments: 61"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "We promoted developers into architects without informing them",
-     "published": "2026-11-20T18:17:51+00:00",
-     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 440 # Comments: 240"
+     "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+     "published": "2026-11-20T21:03:12+00:00",
+     "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 735 # Comments: 173"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-     "published": "2026-11-20T17:21:36+00:00",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 450 # Comments: 182"
+     "title": "Hurried Announcement: Alessandro Masullo GRH",
+     "published": "2026-11-20T18:33:14+00:00",
+     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2399 # Comments: 1165"
     },
     {
      "ref": "hn_frontpage#9",
-     "title": "Language Models Can Rewrite Their Own Weights",
-     "published": "2026-11-20T16:29:06+00:00",
-     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 414 # Comments: 122"
+     "title": "We promoted developers into architects without informing them",
+     "published": "2026-11-20T18:17:51+00:00",
+     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 588 # Comments: 317"
     },
     {
      "ref": "hn_frontpage#10",
-     "title": "Finite-time blow-up for the Navier–Stokes equations",
-     "published": "2026-11-20T15:34:31+00:00",
-     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 292 # Comments: 92"
-    },
-    {
-     "ref": "hn_frontpage#11",
-     "title": "Slopstrap – Make your site look hastily vibecoded",
-     "published": "2026-11-20T15:24:11+00:00",
-     "summary": "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 286 # Comments: 47"
-    },
-    {
-     "ref": "hn_frontpage#12",
-     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-     "published": "2026-11-20T14:16:21+00:00",
-     "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2654 # Comments: 1836"
-    },
-    {
-     "ref": "hn_frontpage#13",
-     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-     "published": "2026-11-20T13:29:59+00:00",
-     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 323 # Comments: 595"
+     "title": "Why there are still no non-WebKit browsers on iOS",
+     "published": "2026-11-20T15:03:31+00:00",
+     "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 507 # Comments: 278"
     }
    ]
   },
@@ -365,18 +341,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "What a billion-dollar deal says about the US battery market",
      "published": "2026-11-19T11:00:00+00:00",
      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…"
-    },
-    {
-     "ref": "mit_tech_review#5",
-     "title": "The AI Hype Index: AI is everywhere",
-     "published": "2026-11-18T14:42:44+00:00",
-     "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…"
-    },
-    {
-     "ref": "mit_tech_review#6",
-     "title": "The Download: AI learns to smell and hydropower struggles",
-     "published": "2026-11-18T13:10:00+00:00",
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…"
     }
    ]
   },
@@ -386,51 +350,39 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "simon_willison#0",
+     "title": "Muru",
+     "published": "2026-11-21T23:56:28+00:00",
+     "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of "
+    },
+    {
+     "ref": "simon_willison#1",
      "title": "Quoting Ravi Vakil",
      "published": "2026-11-20T19:21:49+00:00",
      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems "
     },
     {
-     "ref": "simon_willison#1",
+     "ref": "simon_willison#2",
      "title": "Quoting Levent Alpöge",
      "published": "2026-11-20T16:30:48+00:00",
      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principa"
     },
     {
-     "ref": "simon_willison#2",
+     "ref": "simon_willison#3",
+     "title": "llm-gemini 0.38.1",
+     "published": "2026-11-20T03:01:57+00:00",
+     "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at "
+    },
+    {
+     "ref": "simon_willison#4",
      "title": "Token fraud is here and it’s BAD (YouTube)",
      "published": "2026-11-20T02:49:57+00:00",
      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the produc"
     },
     {
-     "ref": "simon_willison#3",
+     "ref": "simon_willison#5",
      "title": "PostgreSQL 19 Released",
      "published": "2026-11-19T20:43:57+00:00",
      "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, Postgr"
-    },
-    {
-     "ref": "simon_willison#4",
-     "title": "llm-gemini 0.38",
-     "published": "2026-11-18T23:59:20+00:00",
-     "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st Decem"
-    },
-    {
-     "ref": "simon_willison#5",
-     "title": "datasette-arrows 0.1a0",
-     "published": "2026-11-18T17:09:59+00:00",
-     "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. The register_output_renderer() plugin hook can now be used to implement"
-    },
-    {
-     "ref": "simon_willison#6",
-     "title": "Quoting Daniel Stenberg",
-     "published": "2026-11-18T15:58:27+00:00",
-     "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we have done another 20"
-    },
-    {
-     "ref": "simon_willison#7",
-     "title": "The PSF end-of-year fundraiser",
-     "published": "2026-11-18T14:44:48+00:00",
-     "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports commu"
     }
    ]
   },
@@ -440,63 +392,63 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "the_verge#0",
-     "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-     "published": "2026-11-20T20:43:52+00:00",
-     "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]"
+     "title": "Amazon is complaining about NYC Council on shipping labels, too",
+     "published": "2026-11-21T21:59:31+00:00",
+     "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]"
     },
     {
      "ref": "the_verge#1",
-     "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-     "published": "2026-11-20T19:35:06+00:00",
-     "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand […]"
+     "title": "The UN fails to agree on rules regulating ‘killer robots’",
+     "published": "2026-11-21T20:03:37+00:00",
+     "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]"
     },
     {
      "ref": "the_verge#2",
-     "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-     "published": "2026-11-20T19:15:00+00:00",
-     "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy […]"
+     "title": "The FBI and USDA were reportedly hacked",
+     "published": "2026-11-21T17:42:27+00:00",
+     "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]"
     },
     {
      "ref": "the_verge#3",
-     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-     "published": "2026-11-20T18:50:19+00:00",
-     "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]"
+     "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+     "published": "2026-11-21T16:00:00+00:00",
+     "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In […]"
     },
     {
      "ref": "the_verge#4",
-     "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-     "published": "2026-11-20T18:15:00+00:00",
-     "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of […]"
+     "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+     "published": "2026-11-21T16:00:00+00:00",
+     "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying family photos. If […]"
     },
     {
      "ref": "the_verge#5",
-     "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-     "published": "2026-11-20T18:00:00+00:00",
-     "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest […]"
+     "title": "Can Anthropic afford to put safety first?",
+     "published": "2026-11-21T15:00:00+00:00",
+     "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]"
     },
     {
      "ref": "the_verge#6",
-     "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-     "published": "2026-11-20T17:33:59+00:00",
-     "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a chance to […]"
+     "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+     "published": "2026-11-21T14:55:28+00:00",
+     "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of […]"
     },
     {
      "ref": "the_verge#7",
-     "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-     "published": "2026-11-20T17:05:52+00:00",
-     "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first entry in its new broadcast series […]"
+     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+     "published": "2026-11-21T14:00:00+00:00",
+     "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]"
     },
     {
      "ref": "the_verge#8",
-     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-     "published": "2026-11-20T16:34:13+00:00",
-     "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]"
+     "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+     "published": "2026-11-21T13:00:00+00:00",
+     "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]"
     },
     {
      "ref": "the_verge#9",
-     "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-     "published": "2026-11-20T16:22:15+00:00",
-     "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7LLVSION had been knocking around […]"
+     "title": "The game of the year is finally here",
+     "published": "2026-11-21T13:00:00+00:00",
+     "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation […]"
     }
    ]
   }

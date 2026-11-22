@@ -18,123 +18,123 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "Australian Opposition Calls for Changes to Gas Reservation Plan",
+     "published": "2026-11-22T02:08:07+00:00",
+     "summary": "Australia’s opposition coalition party has raised more concerns about the government’s plan for liquefied natural gas exporters to increase supply to the domestic market, ahead of the legislation being voted on this week."
+    },
+    {
+     "ref": "bloomberg_markets#1",
+     "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+     "published": "2026-11-22T00:00:00+00:00",
+     "summary": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy."
+    },
+    {
+     "ref": "bloomberg_markets#2",
+     "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+     "published": "2026-11-21T17:01:32+00:00",
+     "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Director & Chief Equity Strategist Jonathan Golub, The New Yorker Staff Writer Jon Lee Anderson and The At"
+    },
+    {
+     "ref": "bloomberg_markets#3",
+     "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+     "published": "2026-11-21T15:43:12+00:00",
+     "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#4",
+     "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
+     "published": "2026-11-21T15:31:22+00:00",
+     "summary": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets."
+    },
+    {
+     "ref": "bloomberg_markets#5",
+     "title": "Thanksgiving Dinner Is Moving to Restaurants",
+     "published": "2026-11-21T15:28:00+00:00",
+     "summary": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with hosts David Gura and Christina Ruffini, Krader explains how restaurants are responding with traditional feasts and unconventional menus as Thanksgiving reserva"
+    },
+    {
+     "ref": "bloomberg_markets#6",
+     "title": "The 1982 War Still Haunts the Middle East",
+     "published": "2026-11-21T15:19:32+00:00",
+     "summary": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. Speaking with hosts David Gura and Christina Ruffini about her new book, The Best Kind of American, Ghattas examines Hezbollah’s enduring influence, Lebanon’s st"
+    },
+    {
+     "ref": "bloomberg_markets#7",
+     "title": "Is AI a Bubble? History Offers Some Clues",
+     "published": "2026-11-21T15:09:32+00:00",
+     "summary": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making debt and investor sentiment important risks to watch amid the AI boom. Speaking with hosts David Gura and Christina Ruffini, Fox explains why AI can be a transformative technology while its companies and"
+    },
+    {
+     "ref": "bloomberg_markets#8",
+     "title": "Shenzhen Wants to Become a Cultural Capital",
+     "published": "2026-11-21T14:24:08+00:00",
+     "summary": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract talent and tourism. Speaking with hosts David Gura and Christina Ruffini, Ap discusses whether a city known for Huawei, Tencent and BYD can build a lasting cultural identity while rapid wealth creati"
+    },
+    {
+     "ref": "bloomberg_markets#9",
+     "title": "Trump’s Putin Outreach Tests Ukraine Talks",
+     "published": "2026-11-21T13:56:40+00:00",
+     "summary": "Bloomberg White House and National Security Editor Michelle Jamrisko tells Bloomberg This Weekend that President Donald Trump’s summit with Vladimir Putin and Xi Jinping reinforced his approach to diplomacy but left major questions unresolved over Ukraine and potential US security guarantees. Speaking with hosts David Gura and Christina Ruffini, Jamrisko discusses European skepticism toward Putin,"
+    },
+    {
+     "ref": "bloomberg_markets#10",
+     "title": "Anthropic IPO Fails to Calm AI Jitters",
+     "published": "2026-11-21T13:43:18+00:00",
+     "summary": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations continue to rise. Speaking with hosts David Gura and Christina Ruffini, Golub says a bigger challenge is whether markets can keep financing the enormous capital"
+    },
+    {
+     "ref": "bloomberg_markets#11",
+     "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
+     "published": "2026-11-21T13:19:50+00:00",
+     "summary": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a cold-brew tea with 120 milligrams of caffeine. Speaking with host Lisa Mateo, they discuss changing consumer tastes, their approach to organic and fair-trade sourcing and why they see room for a mission-"
+    },
+    {
+     "ref": "bloomberg_markets#12",
+     "title": "Putin Gains From Trump, Xi Summit Spotlight",
+     "published": "2026-11-21T13:12:23+00:00",
+     "summary": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside the US and Chinese leaders despite Russia’s continuing war in Ukraine. Speaking with hosts David Gura and Christina Ruffini, Mason says the summit reflected Trump"
+    },
+    {
+     "ref": "bloomberg_markets#13",
+     "title": "Trump’s Putin Ties Draw Focus After Summit",
+     "published": "2026-11-21T13:05:13+00:00",
+     "summary": "Bloomberg Economics Analyst Alex Kokcharov tells Bloomberg This Weekend that President Donald Trump’s historic meeting with Vladimir Putin and Xi Jinping produced limited concrete results despite a joint declaration on energy, nuclear risks and other global issues. Speaking with hosts David Gura and Christina Ruffini, Kokcharov explains what Trump’s relationship with Putin means for Ukraine as Eur"
+    },
+    {
+     "ref": "bloomberg_markets#14",
+     "title": "'Raise Taxes, Cut Spending': Bill Dudley on the Debt",
+     "published": "2026-11-21T13:04:30+00:00",
+     "summary": "As US debt costs continue to soar, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss how to address America’s fiscal crisis, and whether Treasury Secretary Scott Bessent’s efforts to bring yields under control will pay off. (Source: Bloomberg)"
+    },
+    {
+     "ref": "bloomberg_markets#15",
+     "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+     "published": "2026-11-21T13:00:00+00:00",
+     "summary": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections."
+    },
+    {
+     "ref": "bloomberg_markets#16",
+     "title": "Anthropic Makes Its Public Market Debut",
+     "published": "2026-11-21T12:59:40+00:00",
+     "summary": "Bloomberg’s Ed Ludlow tells Bloomberg This Weekend that Anthropic’s landmark IPO tested investor appetite for frontier AI, giving the company fresh capital for its enormous computing needs as OpenAI considers its own path to the public markets. Speaking with hosts David Gura and Christina Ruffini, Ludlow also examines the turmoil at Nvidia following Jensen Huang’s departure and the uncertainty sur"
+    },
+    {
+     "ref": "bloomberg_markets#17",
+     "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
+     "published": "2026-11-21T11:44:46+00:00",
+     "summary": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes."
+    },
+    {
+     "ref": "bloomberg_markets#18",
      "title": "How AI Is Forcing China to Reshape Industrial Policy",
      "published": "2026-11-21T09:00:13+00:00",
      "summary": "Kyle Chan on Beijing's plan to become technologically self-reliant."
     },
     {
-     "ref": "bloomberg_markets#1",
-     "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
-     "published": "2026-11-21T09:00:00+00:00",
-     "summary": "At a factory in Germany, there are increasingly hours when it is simply too expensive to produce steel."
-    },
-    {
-     "ref": "bloomberg_markets#2",
-     "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
-     "published": "2026-11-21T09:00:00+00:00",
-     "summary": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the govern"
-    },
-    {
-     "ref": "bloomberg_markets#3",
-     "title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
-     "published": "2026-11-21T08:42:34+00:00",
-     "summary": "Webuild SpA, Italy’s biggest construction company, completed its tender offer for smaller competitor Trevi, adding to a string of acquisitions."
-    },
-    {
-     "ref": "bloomberg_markets#4",
-     "title": "China’s Top Planner Seeks Faster Construction of State Projects",
-     "published": "2026-11-21T05:24:06+00:00",
-     "summary": "China’s top planning agency urged local authorities to speed up the construction of government investment projects and disbursement of funds in a bid to spur growth in the world’s second-largest economy."
-    },
-    {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#19",
      "title": "China Military Bars SF Express Over Procurement Misconduct",
      "published": "2026-11-21T05:00:48+00:00",
      "summary": "SF Express Co., a Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations."
-    },
-    {
-     "ref": "bloomberg_markets#6",
-     "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
-     "published": "2026-11-20T23:22:36+00:00",
-     "summary": "J&J Snack Foods CEO Dan Fachner said the company’s turnaround is on track after a strong year, citing Project Apollo’s more than $25 million in durable savings. A second phase, Apollo 2, is expected to generate another $5 million by 2027 through distribution and manufacturing improvements. Fachner speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#7",
-     "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
-     "published": "2026-11-20T22:31:45+00:00",
-     "summary": "President Trump called for Jensen Huang to make a big apology and return as CEO of Nvidia even as the prospect remains highly unlikely. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#8",
-     "title": "‘Always Remain Liquid’: Richards",
-     "published": "2026-11-20T22:30:37+00:00",
-     "summary": "Bruce Richards, managing partner and head of CVC Marathon, joins Scarlet Fu and Tom Keene on “Bloomberg Money.” They discuss Richards’ favorite investing advice he has received throughout his career. Richards warns about irrational markets and also says he’s not a fan of leveraged ETF structures. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#9",
-     "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
-     "published": "2026-11-20T22:25:52+00:00",
-     "summary": "Chipmakers led a plunge in US stocks on Friday, with the S&P 500 and the Dow Jones Industrial Index closing in correction territory. Carmen Reinicke reports. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#10",
-     "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
-     "published": "2026-11-20T22:14:53+00:00",
-     "summary": "Barry speaks with David Eichhorn, CEO and Head of Investment Strategies at NISA Investment Advisors. They discuss his early days as a quant at JPMorgan before returning home to St. Louis to work at NISA. They also discuss the risks and benefits of the private credit market, along with the dangers of private credit going into pension funds and 401Ks. They also discuss liability investment strategie"
-    },
-    {
-     "ref": "bloomberg_markets#11",
-     "title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
-     "published": "2026-11-20T22:08:59+00:00",
-     "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#12",
-     "title": "Fear and ‘Hot Sauce’: Young Investors Want To Catch Up",
-     "published": "2026-11-20T22:06:43+00:00",
-     "summary": "Buzzy stocks, leveraged ETFs, and a generation feeling left behind. BlackRock’s Gargi Chaudhuri discusses ways investors can dabble in risky products while also leaning into time-proven strategies. On this week’s “Bloomberg Money”, she joins Tom Keene and Scarlet Fu, who gives a shoutout to @Eric Balchunas and his coverage of ‘hot sauce’ investment products. (Source: Bloomberg)"
-    },
-    {
-     "ref": "bloomberg_markets#13",
-     "title": "Fiber Network Operator Zayo Delays Public ABS Sale Until 2027",
-     "published": "2026-11-20T21:55:50+00:00",
-     "summary": "Fiber-optic network operator Zayo Group Holdings Inc. is delaying the public-market leg of a planned asset-backed securities offering, while moving ahead with the privately placed portion, according to people with knowledge of the matter."
-    },
-    {
-     "ref": "bloomberg_markets#14",
-     "title": "CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler",
-     "published": "2026-11-20T21:53:30+00:00",
-     "summary": "CrowdStrike Holdings Inc. is in talks to acquire Zscaler Inc., according to people familiar with the matter, in a deal that would be among the largest-ever in the cybersecurity sector. Zscaler, which had a market value of $32 billion at the end of regular trading Friday, rose about 16% after the close. The two companies are discussing a potential combination that could come together soon, the peop"
-    },
-    {
-     "ref": "bloomberg_markets#15",
-     "title": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels",
-     "published": "2026-11-20T14:36:49+00:00",
-     "summary": "Anthropic PBC shares erased a portion of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history."
-    },
-    {
-     "ref": "bloomberg_markets#16",
-     "title": "China Offshore Tax Clampdown Pushes Budget Into Rare Surplus",
-     "published": "2026-11-20T11:33:21+00:00",
-     "summary": "China’s budget swung into a rare surplus in October, as tighter scrutiny of offshore wealth produced a one-off bonanza of individual income tax receipts and offset a long-awaited increase in fiscal spending."
-    },
-    {
-     "ref": "bloomberg_markets#17",
-     "title": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
-     "published": "2026-11-20T08:57:50+00:00",
-     "summary": "Indian billionaire P.V. Krishna Reddy has secured about 67 billion rupees ($720 million) from global private credit investors to buy out his uncle’s stake in Megha Engineering & Infrastructures Ltd., according to people familiar with the matter, in a layered transaction that is one of the country’s biggest deals this year."
-    },
-    {
-     "ref": "bloomberg_markets#18",
-     "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
-     "published": "2026-11-19T23:56:03+00:00",
-     "summary": "Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets."
-    },
-    {
-     "ref": "bloomberg_markets#19",
-     "title": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama: Markets Wrap",
-     "published": "2026-11-19T22:03:40+00:00",
-     "summary": "Weeks of anxiety around the viability of the artificial-intelligence trade erupted into a full-blown selloff, pushing the S&P 500 to a technical correction while lifting bonds and haven currencies."
     }
    ]
   },
@@ -144,69 +144,63 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "ft_home#0",
+     "title": "India’s $126bn insurance sector slams proposed commission cap",
+     "published": "2026-11-22T01:30:02+00:00",
+     "summary": "Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment"
+    },
+    {
+     "ref": "ft_home#1",
+     "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+     "published": "2026-11-21T21:28:05+00:00",
+     "summary": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US"
+    },
+    {
+     "ref": "ft_home#2",
+     "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+     "published": "2026-11-21T17:21:36+00:00",
+     "summary": "Acquisition would help AWS compete with Nvidia in race for computing power"
+    },
+    {
+     "ref": "ft_home#3",
+     "title": "Alice Huang’s links to the chip underworld",
+     "published": "2026-11-21T17:00:10+00:00",
+     "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China"
+    },
+    {
+     "ref": "ft_home#4",
+     "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+     "published": "2026-11-21T16:19:19+00:00",
+     "summary": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress"
+    },
+    {
+     "ref": "ft_home#5",
      "title": "The dead hand of history weighs on Deutsche Bank",
      "published": "2026-11-21T06:32:26+00:00",
      "summary": "Bankers might do well to remember from time to time that they are making decisions that will stick around"
     },
     {
-     "ref": "ft_home#1",
+     "ref": "ft_home#6",
+     "title": "Miguel Ángel Félix Gallardo, drug lord, 1946-2026",
+     "published": "2026-11-21T05:00:45+00:00",
+     "summary": "Nicknamed ‘the godfather’, he built a criminal network in Mexico that transformed the global narcotics industry"
+    },
+    {
+     "ref": "ft_home#7",
      "title": "The manufacturing of novelty",
      "published": "2026-11-21T05:00:36+00:00",
      "summary": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things"
     },
     {
-     "ref": "ft_home#2",
-     "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
-     "published": "2026-11-21T05:00:35+00:00",
-     "summary": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says"
-    },
-    {
-     "ref": "ft_home#3",
-     "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
-     "published": "2026-11-21T05:00:26+00:00",
-     "summary": "US firm denies allegations that Irca’s financial performance was overstated before it agreed to sell Italian business"
-    },
-    {
-     "ref": "ft_home#4",
+     "ref": "ft_home#8",
      "title": "The AI cyber threat is already here",
      "published": "2026-11-21T05:00:16+00:00",
      "summary": "The freezer war is just a start"
     },
     {
-     "ref": "ft_home#5",
-     "title": "Builders bet on €620bn defence infrastructure boom in Europe",
-     "published": "2026-11-21T05:00:07+00:00",
-     "summary": "Construction companies target military projects to develop bases, airports and bridges in bid to offset weak residential market"
-    },
-    {
-     "ref": "ft_home#6",
-     "title": "Nvidia faces US regulator’s probe into its accounting",
-     "published": "2026-11-20T21:58:08+00:00",
-     "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation"
-    },
-    {
-     "ref": "ft_home#7",
-     "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-     "published": "2026-11-20T21:52:25+00:00",
-     "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street"
-    },
-    {
-     "ref": "ft_home#8",
-     "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-     "published": "2026-11-20T20:19:49+00:00",
-     "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year"
-    },
-    {
      "ref": "ft_home#9",
-     "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-     "published": "2026-11-20T20:17:29+00:00",
-     "summary": "President says fight is about preventing Beijing from taking the lead in developing AI technology"
-    },
-    {
-     "ref": "ft_home#10",
-     "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
-     "published": "2026-11-20T17:08:46+00:00",
-     "summary": "Boss of US lender says he will find ways to offset the increase announced by the government last month"
+     "title": "Nvidia affair puts Chinese spies in spotlight",
+     "published": "2026-11-21T03:58:46+00:00",
+     "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability"
     }
    ]
   },
@@ -216,152 +210,151 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "themarker#0",
+     "title": "הישראליות לא חומקות מהמפולת: מניות השבבים מחקו את העליות מתחילת השנה",
+     "published": "2026-11-21T17:23:46+00:00",
+     "summary": "המניות הישראליות בוול סטריט רשמו ירידות חדות ביום שישי האחרון וצפויות גם להשפיע לשלילה על פתיחת המסחר ביום שני בתל אביב ■ בין הבולטות בירידות היו מובילאיי, סולאראדג', מניות השבבים בהן טאואר — וחברת האחזקות האמריקאית אונדס שבבעלות ישראלים"
+    },
+    {
+     "ref": "themarker#1",
+     "title": "המדינה חייבת לחברות הביטחוניות 18 מיליארד שקל — ויש מי ששוקל למסות את רווחיהן",
+     "published": "2026-11-21T17:16:56+00:00",
+     "summary": "אחרי הבנקים, גורמי מקצוע בוחנים אפשרות להטיל גם על התעשייה הביטחונית מס רווחי יתר — כדי לממן את תקציב הביטחון ולצמצם את העלייה בגירעון, בהוצאות האזרחיות ובמסים ■ לחובות הקיימים של המדינה התווספו כספי פיצויים שישולמו לאלביט בגין עלויות מימון"
+    },
+    {
+     "ref": "themarker#2",
+     "title": "הכנסות המשחק ב-24 השעות הראשונות: 3.8 מיליארד דולר",
+     "published": "2026-11-21T16:42:00+00:00",
+     "summary": "אנליסטים: GTA 6 יאט את הירידה במכירות פלייסטיישן 5; מניית סוני עולה ■ בין 9.8 ל-10: GTA 6 זוכה לביקורות הטובות ביותר למשחק אי פעם; ניו יורק טיימס: \"יכבוש את לבכם\""
+    },
+    {
+     "ref": "themarker#3",
+     "title": "אילה חסון מצטרפת לערוץ 14: \"איש לא ישתיק אותי\"",
+     "published": "2026-11-21T16:25:06+00:00"
+    },
+    {
+     "ref": "themarker#4",
+     "title": "וול סטריט חיכתה לטריגר יום הדין, אנבידיה סיפקה את הפאניקה",
+     "published": "2026-11-21T14:11:08+00:00",
+     "summary": "דווקא בשבוע שבו חברת AI יצאה לגיוס הגדול בהיסטוריה בהנפקה ראשונה, מניות הטכנולוגיה צנחו והביאו את מדד נאסד\"ק 100 סמוך לשוק דובי ■ אלה מכלול הגורמים שהצטרפו להפיל את השוק — ומה אומרים האנליסטים על ההמשך?"
+    },
+    {
+     "ref": "themarker#5",
      "title": "ברוכים הבאים לבסיס הצוללות האמריקאי הראשון מחוץ לארה\"ב זה יותר מחצי מאה",
      "published": "2026-11-21T07:31:20+00:00",
      "summary": "שותפות הצוללות הגרעיניות AUKUS מתחילה להכות גלים בחוף המערבי של אוסטרליה ■ אבל אם המספנות של ארה\"ב ובריטניה לא יעמדו ביעדים, אוסטרליה עלולה להישאר עם בסיס לצוללות גרעיניות — ללא צוללות משל עצמה"
     },
     {
-     "ref": "themarker#1",
+     "ref": "themarker#6",
      "title": "חוקר באנתרופיק טוען שפתר את אחת הבעיות המפורסמות ביותר במתמטיקה בעזרת קלוד",
      "published": "2026-11-21T07:10:08+00:00",
      "summary": "לבנט אלפוגה פירסם קוד שבו הוא מוכיח את השערת רימן העוסקת במספרים ראשוניים ■ ייתכן שיידרשו שנים לבדוק אם ההוכחה נכונה וכיצד ליישם אותה"
     },
     {
-     "ref": "themarker#2",
+     "ref": "themarker#7",
      "title": "קראודסטרייק וזיסקיילר במגעים לקראת מיזוג סייבר מהגדולים בהיסטוריה",
      "published": "2026-11-21T06:19:26+00:00",
      "summary": "זיסקיילר מספקת תוכנות לאבטחת סייבר לעסקים וקראודסטרייק מספקת אבטחת נקודות קצה, בשוק הסייבר הרותח בעקבות האיומים הגוברים גם מצד AI"
     },
     {
-     "ref": "themarker#3",
+     "ref": "themarker#8",
      "title": "יוטיוב בדרך לפשרה של 3 מיליארד דולר עם בתי ספר שתבעו אותה על התמכרות תלמידים",
      "published": "2026-11-21T05:55:40+00:00",
      "summary": "בתי ספר בארה\"ב האשימו את גוגל כי עיצבה פלטפורמה ממכרת, שפוגעת ביודעין בבריאות הנפשית של התלמידים ■ הם דורשים החזר על הוצאות גדלות והולכות על שירותי בריאות נפש בבתי הספר"
     },
     {
-     "ref": "themarker#4",
+     "ref": "themarker#9",
      "title": "עו\"שים ילדים: כולם מאשימים את יוקר המחיה, אבל הירידה בילודה מספרת סיפור אחר",
      "published": "2026-11-21T05:00:06+00:00",
      "summary": "האם אנשים לא רוצים ילדים, או שהם רוצים ואינם יכולים לעמוד בזה כספית? שלושה גרפים מנסים להשיב על השאלה"
     },
     {
-     "ref": "themarker#5",
+     "ref": "themarker#10",
      "title": "וול סטריט התרסקה: נאסד\"ק צנח ב-5.5%, מניות השבבים נפלו ב-14%, אנתרופיק ב-9%",
      "published": "2026-11-20T21:00:00+00:00",
      "summary": "נאסד\"ק מחק את העליות מתחילת השנה ■ אנבידיה צנחה ב-14% ■ דאו ג'ונס איבד 10% מהשיא ■ בורסות אירופה נסגרו בירידות חדות ■ מניות השבבים הפילו את סיאול וטוקיו ביותר מ-5% ■ הנפט נסחר ברמה של 92 דולר לחבית"
     },
     {
-     "ref": "themarker#6",
-     "title": "חובות של 225 מיליון שקל ומעילה: הבנקים מבקשים להכניס את שינטרקו לחדלות פירעון",
+     "ref": "themarker#11",
+     "title": "חובות של 225 מיליון שקל וטענה למעילה: הבנקים מבקשים להכניס את שינטרקו לחדלות פירעון",
      "published": "2026-11-20T18:56:30+00:00",
-     "summary": "לפי הפועלים, לאומי ומזרחי טפחות, שינטרקו חייבת כ-225 מיליון שקל ■ לטענת הבנקים, החברה דיווחה כי בכיר לשעבר בה מעל בכספיה מאז 2022, וכי ביצעה השקעות כושלות בסך כ-62 מיליון שקל"
+     "summary": "לפי הפועלים, לאומי ומזרחי טפחות, שינטרקו חייבת כ-225 מיליון שקל ■ לטענת הבנקים, החברה דיווחה כי בכיר לשעבר בה מעל בכספיה מאז 2022, וכי ביצעה השקעות כושלות בסך כ-62 מיליון שקל ■ שינטרקו: עדיין ניתן לשקם את החברה"
     },
     {
-     "ref": "themarker#7",
+     "ref": "themarker#12",
      "title": "\"גרעין החברים נהפך לקהילה, אחת מכמה שפועלות ומשתפות פעולה בשכונה ג' בבאר שבע\"",
      "published": "2026-11-20T16:50:54+00:00",
      "summary": "שכונה ג' בבאר שבע שהוקמה בשנות ה–50, עוברת בשנים האחרונות תהליכי פינוי־בינוי. \"נוצרה כאן קהילה, אבל למרות השינוי ההדרגתי בנראות השכונה ובהרכב האוכלוסייה, ככל שנכנסים לעומקה, התחושה הנעימה והבטוחה פוחתת\""
     },
     {
-     "ref": "themarker#8",
+     "ref": "themarker#13",
      "title": "מניית אנתרופיק צנחה - ומחקה כמעט את כל הזינוק שרשמה בהנפקה",
      "published": "2026-11-20T15:49:03+00:00",
      "summary": "\"הקונים מדירים את רגליהם מאנתרופיק, כמו גם ממניות AI וטכנולוגיה בכלל\", אומרים בשוק ■ כמו כן, \"נראה שלקוחות רבים לא קיבלו את הקצאת המניות שביקשו בהנפקה וכעת, אחרי שהחמיצו את החגיגה, הם לא מוכנים לשלם את מחיר ההנגאובר\""
     },
     {
-     "ref": "themarker#9",
+     "ref": "themarker#14",
      "title": "איומים ועלבונות: ג'נסן הואנג הפך את השפלת העובדים לשגרה",
      "published": "2026-11-20T15:34:10+00:00",
      "summary": "תחקיר של \"ניו יורק טיימס\" חושף כי מי שהיה עד לאחרונה מנכ\"ל אנבידיה נהג לתקוף עובדים לעיני עמיתיהם באמצעות עלבונות, מתקפות אישיות ואמירות אלימות ■ \"אני מעדיף לענות אתכם עד שתגיעו לגדולה, כי אני מאמין בכם\", אמר"
     },
     {
-     "ref": "themarker#10",
+     "ref": "themarker#15",
      "title": "מנורה למבוטח: אתה שייך לחמולה הנמצאת בסכסוך אלים. לכן אין תוקף לביטוח שלך",
      "published": "2026-11-20T15:26:51+00:00",
      "summary": "רכבו של מרואן ספג כארבעים כדורים בניסיון התנקשות, אך מנורה סירבה לפצות אותו בטענה שהסתיר ממנה סכסוך חמולות שבו מעורבת משפחתו ■ בית המשפט דחה את הטענה והבהיר: מבוטח אינו חייב לנחש איזה מידע עשוי לעניין את חברת הביטוח"
     },
     {
-     "ref": "themarker#11",
+     "ref": "themarker#16",
      "title": "היממה הראשונה של GTA 6: יותר מ–19 מיליון עותקים נמכרו, וזו רק ההתחלה",
      "published": "2026-11-20T11:07:09+00:00",
      "summary": "טייק טו אינטראקטיב, החברה שמאחורי GTA 6 — שהשקתו אמש כמעט האפילה על סיקור ההנפקה של אנתרופיק — טרם פירסמה נתוני מכירות רשמיים ■ סוכנויות תוכן מנסות להרוויח מהפצת סרטונים מתוך שידורי סטרימינג של המשחק, שהצטברו ל-125 מיליון שעות צפייה ביומו הראשון"
     },
     {
-     "ref": "themarker#12",
+     "ref": "themarker#17",
      "title": "מיירטים זולים יותר: מערכת קלע דוד שודרגה לאור החשש מחידוש המלחמה עם איראן",
      "published": "2026-11-20T10:09:38+00:00",
      "summary": "מערך ההגנה האווירית השלים לאחרונה שדרוג של מערכת קלע דוד המגדיל את טווח הכיסוי שלה ומאפשר ייצור טילים בקצב רב יותר ובעלות נמוכה מבעבר ■ סוגיית מלאי המיירטים היא חלק ממערך השיקולים של טראמפ לגבי חזרה למלחמה פעילה עם איראן"
     },
     {
-     "ref": "themarker#13",
+     "ref": "themarker#18",
      "title": "מכשול בדרך לעסקה של 200 מיליון דולר: המצרים בולמים את רכישת Pharos על ידי רציו פטרוליום",
      "published": "2026-11-20T08:21:54+00:00",
      "summary": "רציו הציעה לרכוש את החברה, שלה פעילות בוויאטנם ובמצרים ב-200 מיליון דולר, לאחר התמחרות מול הצעה מתחרה ■ למרות ההודעה של ממשלת מצרים הצדדים טוענים כי ימשיכו לקדם את העסקה כך שתממש ברבעון הראשון של 2027"
     },
     {
-     "ref": "themarker#14",
+     "ref": "themarker#19",
      "title": "מייסדי אנתרופיק הצהירו שיתרמו 80% מהונם — שזינק ל-166 מיליארד דולר בהנפקה",
      "published": "2026-11-20T07:45:32+00:00",
      "summary": "דריו אמודיי, אחותו דניאלה וחמשת עמיתיהם להקמת החברה שרשמה שיא חדש בוול סטריט אמרו בעבר כי יתרמו את הכסף שירוויחו מהחזקותיהם למטרות פילנתרופיות ■ אולם בתצהיר שהגישו לקראת ההנפקה צוין כי לא ההצהרה אינה מחייבת מבחינה משפטית"
     },
     {
-     "ref": "themarker#15",
+     "ref": "themarker#20",
      "title": "שיתוף פעולה עם אמריקן איירליינס: ישראייר צופה גידול של עד 40 מיליון דולר בהכנסות",
      "published": "2026-11-20T07:33:22+00:00",
      "summary": "ההסכם בין החברות יאפשר לישראייר למכור ולשווק טיסות שמפעילה אמריקן איירליינס, ובהמשך ישראייר תוכל להציע ללקוחותיה טיסות המשך למגוון יעדים בארצות הברית ובקנדה, תוך הסתייעות ברשת הנתיבים של אמריקן"
     },
     {
-     "ref": "themarker#16",
+     "ref": "themarker#21",
      "title": "אין מס ירושה בישראל, אבל התיק שירשתם עלול לעלות מאות אלפים במס",
      "published": "2026-11-20T07:28:04+00:00",
      "summary": "תיק השקעות שעובר בירושה עלול לשאת עמו חבות מס של מאות אלפי שקלים, אף שאין בישראל מס ירושה ■ מדוע היורשים חייבים במס על רווחים שצבר המוריש, אך אינם יכולים לקזז הפסדים שמימש — ואיך חלוקה שווה של הנכסים בין היורשים עלולה להותיר אותם עם סכומים שונים?"
     },
     {
-     "ref": "themarker#17",
+     "ref": "themarker#22",
      "title": "המסחר ננעל בירידות; מדד ת\"א בנקים איבד 6% מערכו השבוע; ת\"א בנייה נפל ב-9.6%",
      "published": "2026-11-20T06:33:47+00:00"
     },
     {
-     "ref": "themarker#18",
+     "ref": "themarker#23",
      "title": "אני בונה סטארטאפ AI. בתי בת ה–14 שונאת AI",
      "published": "2026-11-20T04:29:20+00:00",
      "summary": "סבא שלי, שהיה דפס ואנרכיסט, חי במהפכה תקשורתית אחת. בתי המתבגרת גדלה בתוך אחרת. ואני ביניהם, מנסה לקצר את הדרך מרעיון לתוצאה"
     },
     {
-     "ref": "themarker#19",
+     "ref": "themarker#24",
      "title": "עם הבדל של 12 מ\"ר: שתי דירות באותו רחוב נמכרו בפער של 10,000 שקל",
      "published": "2026-11-20T04:28:47+00:00",
      "summary": "וגם: בטבריה נמכרה דירת 3 חדרים, 77 מ''ר ומרפסת של 25 מ''ר, תמורת 845 אלף שקל ■ ובכמה נמכר קוטג' בן 6.5 חדרים בשוהם, עם גינה של 106 מ''ר?"
-    },
-    {
-     "ref": "themarker#20",
-     "title": "אורן פסקל, מנכ\"ל חברת בנייני העיר הלבנה: \"באיטליה אין מלחמות ואי־ודאות. מרגע שפתחת — העסק רץ\"",
-     "published": "2026-11-20T04:20:17+00:00",
-     "summary": "חברת בנייני העיר הלבנה, שהתחילה במיזמי שימור והתחדשות עירונית בתל אביב, העבירה את המיקוד לבתי מלון ברומא ממש כשהריבית בישראל התחילה לטפס והפרויקטים איבדו כדאיות ■ המנכ\"ל אורן פסקל מספר על הבחירה בבירה האיטלקית (\"שליש מהמחיר בלונדון\"), הביורוקרטיה המקלה ובנייינים בני 500 כעניין שבשגרה"
-    },
-    {
-     "ref": "themarker#21",
-     "title": "המנגנון הבלתי־מנוצח של מייסדי אנתרופיק",
-     "published": "2026-11-20T04:19:21+00:00",
-     "summary": "דריו אמודיי, המנכ\"ל של חברת הבינה המלאכותית שהונפקה השבוע בסכום שיא, כתב בינואר דברים חריפים על ריכוז כוח וקבע שמי שנמצאים בחזית הגאות הכלכלית של ה-AI צריכים להיות מוכנים \"לוותר גם על הונם וגם על כוחם\". אבל בתשקיף של אנתרופיק הם לא ממש באו לידי ביטוי"
-    },
-    {
-     "ref": "themarker#22",
-     "title": "כך הפך הרעיון היפה של חלוקת הון לטובת האנושות לטרלול של המולטי עשירים בעמק הסיליקון",
-     "published": "2026-11-20T04:17:30+00:00",
-     "summary": "תנועת האלטרואיזם האפקטיבי שואפת למדוד, לשקלל ולדרג סוגים שונים של תרומות לזולת בהתאם למספר החיים שהם מצילים. אבל כשמתחילים לחשוב על טובתם של המיליארדים שטרם נולדו - החישובים מסתבכים ולפעמים אף קורסים"
-    },
-    {
-     "ref": "themarker#23",
-     "title": "אסף זמיר: \"תל אביב ב-7 השנים הכי קשות, ותכף יתחילו עוד 10. אבל היא תהיה בירה עולמית\"",
-     "published": "2026-11-20T04:16:37+00:00",
-     "summary": "אסף זמיר, סגן ראש עיריית תל אביב, מדבר על האלימות, בעיית הקורקינטים, המחסור בנהגי אוטובוס והנרקומנים ברוטשילד ■ \"חיים ליד עבודות זה חרא. פעם בחיים עושים את זה. למרות שלתל אביב יש שדרה ניהולית מדהימה, יש גם בעיות שחלקן נובעות מהבנייה עצמה\""
-    },
-    {
-     "ref": "themarker#24",
-     "title": "הכי גדול, גבוה ויקר :מדוע חבל מודיעין משקיעה 1.3 מיליון שקל בדגל?",
-     "published": "2026-11-20T04:10:19+00:00",
-     "summary": "עם פרוץ המחאה והמלחמה, דגל ישראל נהפך למצרך מבוקש. מכרמיאל, דרך חיפה, לב השרון וחבל מודיעין, התופעה החדשה שאי־אפשר לפספס"
     }
    ]
   },
@@ -371,153 +364,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
+     "published": "2026-11-21T20:45:00+00:00",
+     "summary": "We analyzed everything from estate planning to retirement income options at some of the larger registered investment advisor firms to help retirees select a firm that could best connect them with a fiduciary financial advisor."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "What It’s Like to Retire in Thailand",
+     "published": "2026-11-21T17:00:00+00:00",
+     "summary": "It’s hot, humid and costs a bit more than we anticipated. But we love the life we’ve built here."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
      "published": "2026-11-21T02:16:00+00:00",
      "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price."
     },
     {
-     "ref": "wsj_markets#1",
-     "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-     "published": "2026-11-20T23:36:00+00:00",
-     "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down."
-    },
-    {
-     "ref": "wsj_markets#2",
-     "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-     "published": "2026-11-20T23:36:00+00:00",
-     "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down."
-    },
-    {
      "ref": "wsj_markets#3",
+     "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+     "published": "2026-11-21T02:16:00+00:00",
+     "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price."
+    },
+    {
+     "ref": "wsj_markets#4",
+     "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+     "published": "2026-11-20T23:36:00+00:00",
+     "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down."
+    },
+    {
+     "ref": "wsj_markets#5",
+     "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+     "published": "2026-11-20T23:36:00+00:00",
+     "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down."
+    },
+    {
+     "ref": "wsj_markets#6",
      "title": "Opinion | Why China Wants to Control a Yacht Maker",
      "published": "2026-11-20T23:11:00+00:00",
      "summary": "The story of Italy’s Ferretti Group points to a vulnerability in the West’s system to control investment by foreign adversaries."
     },
     {
-     "ref": "wsj_markets#4",
+     "ref": "wsj_markets#7",
      "title": "WSJ Dollar Index Rises 0.42% This Week to 98.75",
      "published": "2026-11-20T22:48:00+00:00",
      "summary": "The WSJ Dollar Index declined 0.1%, snapping a two-trading-day winning streak."
     },
     {
-     "ref": "wsj_markets#5",
+     "ref": "wsj_markets#8",
      "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
      "published": "2026-11-20T22:24:00+00:00",
      "summary": "U.S. stocks plunged and an index of mega-cap technology stocks skirted bear-market territory as predictions of a speculative bust in artificial-intelligence stocks appeared to come to fruition."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#9",
      "title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
      "published": "2026-11-20T22:09:00+00:00",
      "summary": "Crude futures fell for a third straight week as increasing supply out of the Middle East outweighed concerns about continuing strikes across the region."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#10",
      "title": "U.S. Natural Gas Futures Rise With Support From LNG Exports",
      "published": "2026-11-20T22:04:00+00:00",
      "summary": "U.S. natural gas futures recovered from the previous day’s losses and settled at the highest level since early February."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#11",
      "title": "Health Care Roundup: Market Talk",
      "published": "2026-11-20T22:01:00+00:00",
      "summary": "Find insight on Sanofi, Insmed, Novartis and more in the latest Market Talks covering he health care sector."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#12",
      "title": "Nasdaq Turns Red For The Year",
      "published": "2026-11-20T21:50:00+00:00",
      "summary": "Plus, Anthropic falls back and Treasury yields plunge"
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#13",
      "title": "Oil Futures Fall for Third Straight Week on Supply Outlook",
      "published": "2026-11-20T21:16:00+00:00",
      "summary": "Oil futures settled higher Friday, but ended the week with losses as the market assessed improving global supply conditions amid continued threats to Middle Eastern oil shipments."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#14",
      "title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
      "published": "2026-11-20T20:18:00+00:00",
      "summary": "Gold futures fell to their lowest level since late August of 2025 as the rout continued amid concerns that the Fed will continue raising interest rates."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#15",
      "title": "Tech Rout Deepens as Anthropic Stock Slides",
      "published": "2026-11-20T19:31:00+00:00",
      "summary": "The selloff in technology stocks intensified, dragging the S&P 500 and Dow industrials into correction territory."
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#16",
      "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
      "published": "2026-11-20T16:59:00+00:00",
      "summary": "The record-keeping blunder, which was related to risk-weighted assets, is a setback for CEO Jane Fraser’s efforts to strengthen internal controls."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#17",
      "title": "Gold, Silver Drop to Lowest Levels in Over a Year",
      "published": "2026-11-20T14:14:00+00:00",
      "summary": "Expectations for tighter monetary policy appear to have overshadowed the typical demand for gold as a safe haven for risk-averse investors."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#18",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-11-20T14:04:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#19",
      "title": "Data Centers Are the Growth Engine of America’s Power Grid",
      "published": "2026-11-20T11:25:00+00:00",
      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#20",
      "title": "Grabbing Inflation Protection Now Is a No-Brainer",
      "published": "2026-11-20T11:16:00+00:00",
      "summary": "Plus, the AI trade keeps deflating despite Anthropic’s strong debut."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#21",
      "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
      "published": "2026-11-20T10:59:00+00:00",
      "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#22",
      "title": "The Seven Charts That Explain the New Normal for Oil Prices",
      "published": "2026-11-20T10:56:00+00:00",
      "summary": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#23",
      "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
      "published": "2026-11-20T10:30:00+00:00",
      "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#24",
      "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
      "published": "2026-11-20T10:08:25+00:00",
      "summary": "Nasdaq tumbles 5.3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters"
-    },
-    {
-     "ref": "wsj_markets#22",
-     "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
-     "published": "2026-11-20T09:18:00+00:00",
-     "summary": "OakNorth looks across the Atlantic to lend more to growing companies."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "European Tech Stocks Tumble as AI Selloff Intensifies",
-     "published": "2026-11-20T09:02:00+00:00",
-     "summary": "European AI stocks dropped sharply as a global selloff intensified."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
-     "published": "2026-11-20T05:40:00+00:00",
-     "summary": "Asian equities fell Friday morning as Anthropic’s blockbuster initial public offering failed to staunch the selloff in artificial intelligence stocks."
     }
    ]
   }
@@ -553,13 +546,14 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 57831.5391,
+   "last": 59105.3281,
    "prev_close": 58798.9805,
-   "change_pct": -1.65,
-   "as_of": "2026-11-21"
+   "change_pct": 0.52,
+   "as_of": "2026-11-22"
   }
  },
  "recent_weekly_concepts": [
+  "Price elasticity of demand",
   "Network effects: why the biggest platform keeps winning",
   "Network effects: why some products get unstoppable once they're big enough",
   "Tuck-in acquisitions: buying a small company to get a capability, not a revenue stream",
@@ -588,8 +582,7 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   "The capital cycle: why today's hottest, most profitable industry is often tomorrow's worst investment",
   "Network effects: why some products get more valuable as more people use them",
   "Economic moats: why some companies keep winning",
-  "Network effects: why some products get more valuable as more people use them",
-  "Related-party transaction: why a deal needs extra scrutiny when the same person sits on both sides of it"
+  "Network effects: why some products get more valuable as more people use them"
  ]
 }
 </input>

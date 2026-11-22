@@ -24,142 +24,153 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
  "on_this_day_candidates": [
   {
    "ref": "wikipedia#0",
-   "year": 2015,
-   "text": "The Belgian government imposed a four-day security lockdown in Brussels based on information about potential terrorist attacks.",
+   "year": 2013,
+   "text": "Norwegian chess grandmaster Magnus Carlsen (pictured) defeated India's Viswanathan Anand to become world chess champion.",
    "context": [
-    "From 21 to 25 November 2015, the government of Belgium imposed a security lockdown on Brussels, including the closure of shops, schools, public transportation, due to information about potential terrorist attacks in the wake of the series of coordinated terrorist attacks in Paris by Islamic State of Iraq and the Levant on 13 November. One of the perpetrators of the attack, Belgian-born French national Salah Abdeslam, was thought to be hiding in the city. As a result of warnings of a serious and imminent threat, the terror alert level was raised to the highest level (four) across the Brussels metropolitan area, and people were advised not to congregate publicly, effectively putting the city under lockdown."
+    "Sven Magnus Øen Carlsen is a Norwegian chess grandmaster. Carlsen is a five-time World Chess Champion, reigning six-time World Rapid Chess Champion, reigning nine-time World Blitz Chess Champion and the reigning FIDE Freestyle Chess World Champion. Carlsen has held the No. 1 position in the FIDE rankings since 1 July 2011, the longest consecutive period, and trails only Garry Kasparov in time spent as the highest-rated player in the world. His peak Elo rating of 2882 is the highest rating achieved since FIDE adopted the system in 1970. He also holds the record for the longest unbeaten streak at the elite level in classical chess at 125 games."
    ]
   },
   {
    "ref": "wikipedia#1",
-   "year": 2012,
-   "text": "A remote-controlled bomb exploded on a bus in Tel Aviv, Israel, injuring at least 28 people on board.",
+   "year": 2005,
+   "text": "Elected by delegates in the newly assembled Bundestag four days after a federal election, Angela Merkel became the first female chancellor of Germany.",
    "context": [
-    "The 2012 Tel Aviv bus bombing was a mass-injury terror attack carried out on November 21, 2012, on a crowded passenger bus driving in the center of Tel Aviv's business district. The attack was carried out by an Israeli citizen of Arab descent, who remotely detonated an explosive device, which he had hid on the bus in advance. Twenty-eight civilians were injured in the attack, among them three who were injured seriously. The attack was carried out on the 8th and last day of Operation Pillar of Defense, only a few hours before the ceasefire was reached."
+    "The Bundestag is the federal parliament of Germany. It is the only constitutional body in the country directly elected by the German people. The Bundestag was established by Title III of the Basic Law for the Federal Republic of Germany in 1949 as one of the legislative bodies of Germany, the other being the Bundesrat."
    ]
   },
   {
    "ref": "wikipedia#2",
-   "year": 2009,
-   "text": "An explosion in a coal mine in Heilongjiang, China, killed 108 miners.",
+   "year": 1995,
+   "text": "Toy Story, the first feature film created using only computer-generated imagery, was released in theaters in the United States.",
    "context": [
-    "The 2009 Heilongjiang mine explosion was a mining accident that occurred on November 21, 2009, near Hegang in the Heilongjiang, northeastern China, which killed 108 people. A further 29 people were hospitalised. The explosion occurred in the Xinxing coal mine shortly before dawn, at 02:30 CST, when 528 people were believed to be in the pit. Of these, 420 are believed to have been rescued."
+    "Toy Story is a 1995 American animated adventure comedy film directed by John Lasseter, and written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow. The first entirely computer-animated feature film, as well as the first feature film produced by Pixar Animation Studios for Walt Disney Pictures, it stars the voices of Tom Hanks, Tim Allen, Annie Potts, John Ratzenberger, Don Rickles, Wallace Shawn, and Jim Varney. Set in a world in which toys come to life, Toy Story follows an old-fashioned cowboy doll named Woody (Hanks), who becomes jealous that a space cadet action figure, Buzz Lightyear (Allen), is replacing him as the favorite toy of their owner Andy."
    ]
   },
   {
    "ref": "wikipedia#3",
-   "year": 1980,
-   "text": "A fire broke out at the MGM Grand Hotel on the Las Vegas Strip in Paradise, Nevada, killing 85 people and injuring 650 others.",
+   "year": 1988,
+   "text": "The B-2 Spirit stealth bomber of the United States Air Force was first displayed in public at Air Force Plant 42 in Palmdale, California.",
    "context": [
-    "The MGM Grand fire occurred on Friday, November 21, 1980, at the MGM Grand Hotel and Casino, located on the Las Vegas Strip in Paradise, Nevada. The fire killed 85 people, most through smoke inhalation. The fire began from a refrigerated pastry display case in a restaurant located on the first floor. A fire engulfed the resort's casino, and smoke spread into the hotel tower."
+    "The Northrop B-2 Spirit is an American nuclear-capable subsonic stealth strategic bomber, often referred to as a \"stealth bomber\", solely operated by the United States Air Force. A four-engined flying wing and lambda wing with a crew of two to three, it is designed with stealth technology to penetrate sophisticated air defenses."
    ]
   },
   {
    "ref": "wikipedia#4",
-   "year": 1977,
-   "text": "\"God Defend New Zealand\" became New Zealand's second national anthem, on equal standing with \"God Save the King\", which had been the traditional anthem since 1840.",
+   "year": 1987,
+   "text": "Two television stations in Chicago had their broadcast signals hijacked with footage of an unknown person wearing a Max Headroom mask and costume.",
    "context": [
-    "\"God Defend New Zealand\" is one of two national anthems of New Zealand, the other being \"God Save the King\". Legally the two have equal status, but \"God Defend New Zealand\" is more commonly used. Originally written as a poem, it was set to music as part of a competition in 1876. Over the years its popularity increased, and it was eventually named the second national anthem in 1977. It has English and Māori lyrics, with slightly different meanings. Since the late 1990s, the usual practice when performed in public is to perform the first verse of the national anthem twice, first in Māori and then in English."
+    "On November 22, 1987, two television stations based in Chicago, Illinois, were hijacked two hours apart from one another by unidentified perpetrators. Both hijackings briefly sent pirate broadcasts of an unidentified person wearing a Max Headroom mask and costume to thousands of homes in the Chicago metropolitan area."
    ]
   },
   {
    "ref": "wikipedia#5",
-   "year": 1974,
-   "text": "Bombs exploded in two pubs in central Birmingham, England, killing 21 people and leading to the imprisonment of six people who were later exonerated.",
+   "year": 1978,
+   "text": "The serpent labret with articulated tongue (pictured articulating between positions), considered among the finest Aztec gold objects known to survive, was sold at Sotheby's.",
    "context": [
-    "On 21 November 1974, bombs exploded in two pubs in Birmingham, England, killing 21 people and injuring 182 others."
+    "The serpent labret with articulated tongue is a gold-alloy body ornament from the Aztec culture of the mid-second millennium AD. Designed to be inserted into a piercing below the lower lip, it depicts a fanged serpent poised to strike, with a bifurcated tongue hanging from its mouth. The tongue, which is moveable and retractable, would have swung from side to side with its wearer's movements. Art historians have described it as an ingenious example of Aztec metalworking, and among the finest Aztec gold objects known to survive."
    ]
   },
   {
    "ref": "wikipedia#6",
-   "year": 1970,
-   "text": "Vietnam War: American forces raided the North Vietnamese Sơn Tây prison camp in an attempt to rescue 61 American POWs who were thought to be held there.",
+   "year": 1975,
+   "text": "Two days after the death of Francisco Franco, Juan Carlos I (pictured) was declared King of Spain according to the law of succession promulgated by Franco.",
    "context": [
-    "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by China and the Soviet Union, while South Vietnam was supported by the United States and other anti-communist nations. The second of the Indochina wars, the Vietnam War was a postcolonial war of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965, peaked in 1969, and subsequently declined until the complete withdrawal of US forces in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975."
+    "Francisco Franco Bahamonde was a Spanish military general and the dictator of Spain from 1939 until his death in 1975. He had led the Nationalist forces in overthrowing the Second Spanish Republic during the Spanish Civil War from 1936 to 1939. This period in Spanish history, from the Nationalist victory to Franco's death, is commonly known as Francoist Spain."
    ]
   },
   {
    "ref": "wikipedia#7",
-   "year": 1964,
-   "text": "The Verrazzano–Narrows Bridge (pictured), connecting Staten Island and Brooklyn in New York City, opened to traffic as the longest suspension bridge in the world at the time.",
+   "year": 1971,
+   "text": "In Britain's worst mountaineering disaster, five teenage students and one of their leaders were found dead from exposure on the Cairngorm Plateau in the Scottish Highlands.",
    "context": [
-    "The Verrazzano–Narrows Bridge is a suspension bridge connecting the boroughs of Staten Island and Brooklyn in New York City, New York, U.S. It spans the Narrows, a body of water linking the relatively enclosed New York Harbor with Lower New York Bay and the Atlantic Ocean. It is the only fixed crossing of the Narrows. The double-deck bridge carries 13 lanes of Interstate 278: seven on the upper level and six on the lower level. The span is named for Giovanni da Verrazzano, who in 1524 was the first European explorer to enter New York Harbor and the Hudson River."
+    "The Cairngorm Plateau disaster, also known as the Feith Buidhe disaster, occurred in November 1971 when six fifteen-year-old students from Edinburgh's Ainslie Park High School and their two leaders embarked on a two-day navigational expedition in a remote area of the Cairngorms in the Scottish Highlands."
    ]
   },
   {
    "ref": "wikipedia#8",
-   "year": 1961,
-   "text": "La Ronde, the first revolving restaurant in the United States, was inaugurated.",
+   "year": 1968,
+   "text": "The Beatles released their eponymous double album, popularly known as the White Album.",
    "context": [
-    "La Ronde was a restaurant in Honolulu, Hawaii. Built in 1961 and designed by John Graham, it was the first revolving restaurant in the United States and the third of its kind in the world. The restaurant is now closed."
+    "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often portrayed as leaders of the era's youth and sociocultural movements."
    ]
   },
   {
    "ref": "wikipedia#9",
-   "year": 1959,
-   "text": "American disc jockey Alan Freed (pictured), who popularized the term rock and roll, was fired from WABC-AM for his role in the payola scandal.",
+   "year": 1967,
+   "text": "The United Nations Security Council unanimously adopted Resolution 242 in the aftermath of the Six-Day War between Israel and Egypt, Jordan, and Syria.",
    "context": [
-    "A disc jockey, more commonly abbreviated as DJ, is a person who plays recorded music for an audience. Types of DJs include radio DJs, club DJs, mobile DJs, and turntablists. Originally, the \"disc\" in \"disc jockey\" referred to shellac and later vinyl records, but nowadays DJ is used as an all-encompassing term to also describe persons who mix music from other recording media such as cassettes, CDs or digital audio files on a CDJ, controller, or even a laptop. DJs may adopt the title \"DJ\" in front of their real names, adopted pseudonyms, or stage names."
+    "The United Nations Security Council is one of the six principal organs of the United Nations, and is the United Nations' executive branch, having primary responsibility for the maintenance of international peace and security. Its powers, outlined in the UN Charter, include establishing peacekeeping operations, authorizing military action, and imposing international sanctions. Under Chapter VII of the UN Charter, the council may identify threats to international peace, determine breaches of that peace, and authorize responses up to and including the use of force. It is the only UN body with the authority to adopt binding international law by issuing resolutions binding on all member states. The council also recommends the admission of new member states to the UN General Assembly, and approves changes to the Charter. It is led by the president of the Security Council, who chairs its meetings and rotates between the current members on a monthly basis and the United Nations secretary-general who acts as its executive officer overseeing the implementation of its decisions and mandates. The United Nations secretary-general is empowered by the UN Charter to \"bring to the attention of the Security Council any matter which in his opinion may threaten the maintenance of international peace and security\"."
    ]
   },
   {
    "ref": "wikipedia#10",
-   "year": 1950,
-   "text": "Two trains collided near Valemount, Canada, killing 21 people.",
+   "year": 1963,
+   "text": "John F. Kennedy was assassinated in Dallas; hours later, Vice President Lyndon B. Johnson was sworn in as the 36th president of the United States aboard Air Force One.",
    "context": [
-    "The Canoe River train crash occurred on November 21, 1950, near Valemount in eastern British Columbia, Canada, when a westbound troop train and the eastbound Canadian National Railway (CNR) Continental Limited collided head-on. The collision killed 21 people: 17 Canadian soldiers en route to the Korean War and the two-man locomotive crew of each train."
+    "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. A member of the Democratic Party, he represented Massachusetts in both houses of the U.S. Congress before his presidency. Kennedy was the youngest elected president at 43 years, and the first Roman Catholic president."
    ]
   },
   {
    "ref": "wikipedia#11",
-   "year": 1945,
-   "text": "Manzanar (pictured), a camp in California for the internment of Japanese Americans during World War II, was closed.",
+   "year": 1910,
+   "text": "The crews of three Brazilian warships – all commissioned only months before – and several smaller vessels mutinied against perceived \"slavery\" being practised in the Brazilian Navy.",
    "context": [
-    "Manzanar is the site of one of ten American concentration camps, where more than 120,000 Japanese Americans were incarcerated during World War II, from March 1942 to November 1945. Although it had over 10,000 inmates at its peak, Manzanar was one of the smaller internment camps. It is located in California's Owens Valley, on the eastern side of the Sierra Nevada mountains, between the towns of Lone Pine to the south and Independence to the north, approximately 230 miles (370 km) north of Los Angeles. Manzanar means \"apple orchard\" in Spanish. The Manzanar National Historic Site, which preserves and interprets the legacy of Japanese American incarceration in the United States, was identified by the United States National Park Service as the best-preserved of the ten former camp sites."
+    "A naval arms race between Argentina, Brazil, and Chile—the wealthiest and most powerful countries in South America—began in the early twentieth century when the Brazilian government ordered three dreadnoughts, formidable battleships whose capabilities far outstripped older vessels in the world's navies."
    ]
   },
   {
    "ref": "wikipedia#12",
-   "year": 1922,
-   "text": "Rebecca Latimer Felton (pictured) became the first woman to serve in the United States Senate, albeit for only one day.",
+   "year": 1873,
+   "text": "The French steamship Ville du Havre collided with a Scottish iron clipper in the North Atlantic and sank with the loss of 226 lives.",
    "context": [
-    "Rebecca Ann Felton was an American writer, politician, feminist, white supremacist, and slave owner who was the first woman to serve in the United States Senate, serving for only one day."
+    "Ville du Havre was a French iron steamship that operated round trips between the northern coast of France and New York City. Launched in November 1865 under her original name of Napoléon III, she was converted from a paddle steamer to single propeller propulsion in 1871 and, in recognition of the recent defeat and removal from power of her imperial namesake, the Emperor Napoleon III, was renamed Ville du Havre. It was named after Le Havre, a major port city in the Normandy region of northern France."
    ]
   },
   {
    "ref": "wikipedia#13",
-   "year": 1920,
-   "text": "Irish War of Independence: On Bloody Sunday in Dublin, the IRA assassinated a group of British intelligence agents, and British forces killed 14 civilians at a Gaelic football match at Croke Park.",
+   "year": 1797,
+   "text": "The Geisel School of Medicine, the fourth oldest medical school in the United States, was founded by the physician Nathan Smith.",
    "context": [
-    "The Irish War of Independence, also known as the Anglo-Irish War or the Tan War, was a guerrilla war fought in Ireland from 1919 to 1921 between the Irish Republican Army and British forces: the British Army, along with the quasi-military Royal Irish Constabulary (RIC) and its paramilitary forces the Auxiliaries and Ulster Special Constabulary (USC). It was part of the Irish revolutionary period."
+    "The Geisel School of Medicine is the medical school of Dartmouth College located in Hanover, New Hampshire. The fourth oldest medical school in the United States, it was founded in 1797 by New England physician Nathan Smith as the Dartmouth Medical School. It is one of the seven Ivy League medical schools."
    ]
   },
   {
    "ref": "wikipedia#14",
-   "year": 1894,
-   "text": "First Sino-Japanese War: After capturing the Chinese city of Port Arthur, the Japanese army began a massacre of the city's soldiers and civilians.",
+   "year": 1718,
+   "text": "The pirate Blackbeard was killed in battle by a boarding party of British sailors off the coast of the Province of North Carolina.",
    "context": [
-    "The First Sino-Japanese War was a conflict between the Qing dynasty of China and the Empire of Japan primarily for influence over Korea. In China it is commonly known as the Jiawu War. After roughly 7 months of sustained military gains by Japanese land and naval forces and the loss of the ports of Lüshunkou and Weihaiwei, the Qing government sued for peace in February 1895 and signed the Treaty of Shimonoseki two months later, ending the war."
+    "Edward Teach, better known as Blackbeard, was an English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. He remains one of history's most well-known pirates."
    ]
   },
   {
    "ref": "wikipedia#15",
-   "year": 1877,
-   "text": "Thomas Edison announced his invention of the phonograph, a device able to record and play sound.",
+   "year": 1635,
+   "text": "Dutch colonial forces on Formosa launched a three-month pacification campaign against Taiwanese indigenous peoples.",
    "context": [
-    "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. The merger of the Edison General Electric Company and the competitor Thomson-Houston Electric Company resulted in the formation of General Electric. Edison registered 1,093 patents in the United States."
+    "The island of Taiwan, also commonly known as Formosa, was partly under colonial rule by the Dutch Republic from 1624 to 1662. In the context of the Age of Discovery, the Dutch East India Company established its presence on Formosa to trade with neighboring Ming China and Tokugawa Japan, and to interdict Portuguese and Spanish trade and colonial activities in East Asia."
    ]
   },
   {
    "ref": "wikipedia#16",
-   "year": 1620,
-   "text": "The Mayflower Compact, the first governing document of the Plymouth Colony, was signed by 41 of the Mayflower's passengers while the ship was anchored in what is now Provincetown Harbor.",
+   "year": 1574,
+   "text": "Juan Fernández, a Spanish explorer, discovered an archipelago that now bears his name off the coast of Chile.",
    "context": [
-    "The Mayflower Compact, originally titled Agreement Between the Settlers of New Plymouth, was the first governing document of Plymouth Colony. It was written by the men aboard the Mayflower, consisting of Separatist Puritans, adventurers, and tradesmen. Although the agreement contained a pledge of loyalty to the King, the Puritans and other Protestant Separatists were dissatisfied with the state of the Church of England, the limited extent of the English Reformation and reluctance of King James I of England to enforce further reform."
+    "Juan Fernández was a Spanish explorer and navigator in the Pacific regions of the Viceroyalty of Peru and Captaincy General of Chile west of colonial South America. He is best known for the discovery of a fast maritime route from Callao (Peru) to Valparaíso (Chile) as well as for the discovery of the Juan Fernández Islands off the coast of Chile."
+   ]
+  },
+  {
+   "ref": "wikipedia#17",
+   "year": 1386,
+   "text": "Turco-Mongol conqueror Timur captured and sacked the Georgian capital Tbilisi and forced King Bagrat V to convert to Islam.",
+   "context": [
+    "The Turco-Mongol or Turko-Mongol tradition was an ethnocultural synthesis that arose in Asia during the 13-14th century among the ruling elites of the Golden Horde and the Chagatai Khanate. The ruling Mongol elites of these khanates eventually assimilated into the Turkic populations that they conquered and ruled over, thus becoming known as Turco-Mongols. These elites gradually adopted Islam, as well as Turkic languages, while retaining Mongol political and legal institutions."
    ]
   }
  ],
  "recent_words_and_concepts": [
+  "Golden parachute (מצנח זהב)",
+  "Sandbagging (הערכה שמרנית מכוונת)",
+  "Bake-off (תחרות ספקים)",
   "Churn rate (שיעור נטישה)",
   "Bleeding edge (חוד החרב הטכנולוגי)",
   "Jump the shark (לקפוץ מעל הכריש)",
@@ -246,10 +257,7 @@ Output: write `drafts/learn.json` matching `schemas/learn.schema.json`.
   "Dead cat bounce (קפיצת החתול המת)",
   "Vendor lock-in (נעילת ספק)",
   "Pivot to profitability (מעבר לרווחיות)",
-  "Herding cats (לרעות חתולים)",
-  "Headwinds / tailwinds (רוחות נגד / רוחות גב)",
-  "Bootstrapped (ממומן מהכיס / מיזם שהתנהל ללא גיוס הון)",
-  "A rising tide lifts all boats (גאות מרימה את כל הסירות)"
+  "Herding cats (לרעות חתולים)"
  ]
 }
 </input>
