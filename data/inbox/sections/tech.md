@@ -190,67 +190,67 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "published": "2026-11-22T04:04:56+00:00",
-     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 453 # Comments: 264"
+     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 482 # Comments: 282"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Sandwich Simulator",
      "published": "2026-11-22T00:07:59+00:00",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 222 # Comments: 71"
+     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 239 # Comments: 81"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Advice for the next 100 Rust GUIs",
      "published": "2026-11-21T21:17:53+00:00",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 160 # Comments: 59"
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 164 # Comments: 65"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "published": "2026-11-21T18:02:19+00:00",
-     "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 457 # Comments: 114"
+     "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 462 # Comments: 117"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Lean verification of the Riemann Hypothesis",
      "published": "2026-11-21T14:36:45+00:00",
-     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1025 # Comments: 841"
+     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1033 # Comments: 854"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Detonating a pile of lead azide",
      "published": "2026-11-21T13:23:14+00:00",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 605 # Comments: 386"
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 611 # Comments: 387"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "My monitor was cutting my download speed by 75%",
      "published": "2026-11-21T10:36:32+00:00",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 579 # Comments: 270"
+     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 586 # Comments: 273"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "GnuPG Security Advisory for GPGME",
      "published": "2026-11-21T08:32:58+00:00",
-     "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 251 # Comments: 101"
+     "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 252 # Comments: 101"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Getting the mind to steer the body to steer you",
      "published": "2026-11-20T22:11:05+00:00",
-     "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 265 # Comments: 89"
+     "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 273 # Comments: 90"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "published": "2026-11-20T21:03:12+00:00",
-     "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 977 # Comments: 214"
+     "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 998 # Comments: 216"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "published": "2026-11-20T18:33:14+00:00",
-     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2414 # Comments: 1174"
+     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2417 # Comments: 1175"
     }
    ]
   },

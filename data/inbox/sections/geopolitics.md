@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "DAN GELSTON - AP News",
+     "published": "2026-11-22T10:06:22+00:00",
+     "summary": "DAN GELSTON AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "South America - AP News",
+     "published": "2026-11-22T10:04:32+00:00",
+     "summary": "South America AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "2026 World Cup venue map - AP News",
+     "published": "2026-11-22T10:04:30+00:00",
+     "summary": "2026 World Cup venue map AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Central America - AP News",
+     "published": "2026-11-22T09:58:49+00:00",
+     "summary": "Central America AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+     "published": "2026-11-22T09:58:39+00:00",
+     "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "War and unrest - AP News",
+     "published": "2026-11-22T09:58:29+00:00",
+     "summary": "War and unrest AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "Trending News - AP News",
+     "published": "2026-11-22T09:57:24+00:00",
+     "summary": "Trending News AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Rugby - AP News",
+     "published": "2026-11-22T09:52:02+00:00",
+     "summary": "Rugby AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "Crime - AP News",
+     "published": "2026-11-22T09:51:55+00:00",
+     "summary": "Crime AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "AP News Search - AP News",
+     "published": "2026-11-22T09:51:49+00:00",
+     "summary": "AP News Search AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "New York City - AP News",
+     "published": "2026-11-22T09:51:44+00:00",
+     "summary": "New York City AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "Texas - AP News",
+     "published": "2026-11-22T09:51:42+00:00",
+     "summary": "Texas AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "Deportes - AP News",
+     "published": "2026-11-22T09:51:41+00:00",
+     "summary": "Deportes AP News"
+    },
+    {
+     "ref": "ap_world#13",
+     "title": "My Fan Picks - AP News",
+     "published": "2026-11-22T09:51:34+00:00",
+     "summary": "My Fan Picks AP News"
+    },
+    {
+     "ref": "ap_world#14",
+     "title": "Soccer - AP News",
+     "published": "2026-11-22T09:50:50+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#15",
+     "title": "Women’s college basketball - AP News",
+     "published": "2026-11-22T09:50:41+00:00",
+     "summary": "Women’s college basketball AP News"
+    },
+    {
+     "ref": "ap_world#16",
+     "title": "Rayo Vallecano: Madrid club with the 'sacred' red stripe faces a stadium fight and a fan revolt - AP News",
+     "published": "2026-11-22T09:50:00+00:00",
+     "summary": "Rayo Vallecano: Madrid club with the 'sacred' red stripe faces a stadium fight and a fan revolt AP News"
+    },
+    {
+     "ref": "ap_world#17",
      "title": "College football | Latest News & Updates - AP News",
      "published": "2026-11-22T09:37:09+00:00",
      "summary": "College football | Latest News & Updates AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#18",
+     "title": "Latest news - AP News",
+     "published": "2026-11-22T09:30:55+00:00",
+     "summary": "Latest news AP News"
+    },
+    {
+     "ref": "ap_world#19",
      "title": "College Football Full FBS Schedule - AP News",
      "published": "2026-11-22T09:28:37+00:00",
      "summary": "College Football Full FBS Schedule AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#20",
      "title": "College sports - AP News",
      "published": "2026-11-22T09:21:37+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "South America - AP News",
-     "published": "2026-11-22T09:05:41+00:00",
-     "summary": "South America AP News"
-    },
-    {
-     "ref": "ap_world#4",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-11-22T08:39:56+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
-    },
-    {
-     "ref": "ap_world#5",
+     "ref": "ap_world#21",
      "title": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming - AP News",
-     "published": "2026-11-22T07:56:00+00:00",
+     "published": "2026-11-22T08:30:00+00:00",
      "summary": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#22",
+     "title": "Max Verstappen wins the Las Vegas Grand Prix for the third time in 4 years - AP News",
+     "published": "2026-11-22T07:48:00+00:00",
+     "summary": "Max Verstappen wins the Las Vegas Grand Prix for the third time in 4 years AP News"
+    },
+    {
+     "ref": "ap_world#23",
      "title": "In Ukraine, the fight to keep winter outside begins with a broken window - AP News",
      "published": "2026-11-22T07:02:00+00:00",
      "summary": "In Ukraine, the fight to keep winter outside begins with a broken window AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#24",
      "title": "ANDREW DAMPF - AP News",
      "published": "2026-11-22T06:48:47+00:00",
      "summary": "ANDREW DAMPF AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "No. 5 Duke holds off late Washington State rally to win 78-74 in California desert - AP News",
-     "published": "2026-11-22T06:46:00+00:00",
-     "summary": "No. 5 Duke holds off late Washington State rally to win 78-74 in California desert AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble - AP News",
-     "published": "2026-11-22T06:45:00+00:00",
-     "summary": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-22T06:33:03+00:00",
-     "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
-    },
-    {
-     "ref": "ap_world#11",
-     "title": "Brad Jackson has hand in 4 TDs to lead Texas State to 42-14 romp over Washington State - AP News",
-     "published": "2026-11-22T06:30:00+00:00",
-     "summary": "Brad Jackson has hand in 4 TDs to lead Texas State to 42-14 romp over Washington State AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "Bend it like (Di)Bernardo: 'Olympic goal' lifts Kansas City to first NWSL title, 2-1 over Washington - AP News",
-     "published": "2026-11-22T06:11:00+00:00",
-     "summary": "Bend it like (Di)Bernardo: 'Olympic goal' lifts Kansas City to first NWSL title, 2-1 over Washington AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for - AP News",
-     "published": "2026-11-22T06:05:00+00:00",
-     "summary": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Cossa’s 29 saves help Mammoth to a 3-2 victory over the Ducks - AP News",
-     "published": "2026-11-22T04:48:00+00:00",
-     "summary": "Cossa’s 29 saves help Mammoth to a 3-2 victory over the Ducks AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Fire at Indonesian candy factory leaves at least 3 dead and dozens of workers unaccounted for - AP News",
-     "published": "2026-11-22T04:33:00+00:00",
-     "summary": "Fire at Indonesian candy factory leaves at least 3 dead and dozens of workers unaccounted for AP News"
-    },
-    {
-     "ref": "ap_world#16",
-     "title": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5 - AP News",
-     "published": "2026-11-22T04:18:00+00:00",
-     "summary": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5 AP News"
-    },
-    {
-     "ref": "ap_world#17",
-     "title": "Trump vows to work with Democrats to cap credit card interest rates at 10% - AP News",
-     "published": "2026-11-22T04:13:00+00:00",
-     "summary": "Trump vows to work with Democrats to cap credit card interest rates at 10% AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Elias Lindholm's 1st NHL 4-goal game and 1st trick with Boston carries Bruins to 7-5 win over Caps - AP News",
-     "published": "2026-11-22T04:06:00+00:00",
-     "summary": "Elias Lindholm's 1st NHL 4-goal game and 1st trick with Boston carries Bruins to 7-5 win over Caps AP News"
-    },
-    {
-     "ref": "ap_world#19",
-     "title": "Gio Lopez rushes for two scores and throws two more as Wake Forest beats Georgia Tech 50-29 - AP News",
-     "published": "2026-11-22T03:48:00+00:00",
-     "summary": "Gio Lopez rushes for two scores and throws two more as Wake Forest beats Georgia Tech 50-29 AP News"
-    },
-    {
-     "ref": "ap_world#20",
-     "title": "LARRY LAGE - AP News",
-     "published": "2026-11-22T03:46:55+00:00",
-     "summary": "LARRY LAGE AP News"
-    },
-    {
-     "ref": "ap_world#21",
-     "title": "Victor Wembanyama has 50 points, 19 rebounds on dominant night as Spurs roll past Pelicans, 114-91 - AP News",
-     "published": "2026-11-22T03:37:00+00:00",
-     "summary": "Victor Wembanyama has 50 points, 19 rebounds on dominant night as Spurs roll past Pelicans, 114-91 AP News"
-    },
-    {
-     "ref": "ap_world#22",
-     "title": "Neighbours has 5 assists and Blues chase Hellebuyck early in 9-6 victory over Devils - AP News",
-     "published": "2026-11-22T03:37:00+00:00",
-     "summary": "Neighbours has 5 assists and Blues chase Hellebuyck early in 9-6 victory over Devils AP News"
-    },
-    {
-     "ref": "ap_world#23",
-     "title": "Brunson scores 30, Bridges hits 3 at buzzer, lifting Knicks to 97-96 win over Trail Blazers - AP News",
-     "published": "2026-11-22T03:26:00+00:00",
-     "summary": "Brunson scores 30, Bridges hits 3 at buzzer, lifting Knicks to 97-96 win over Trail Blazers AP News"
-    },
-    {
-     "ref": "ap_world#24",
-     "title": "United Kingdom - AP News",
-     "published": "2026-11-22T03:16:06+00:00",
-     "summary": "United Kingdom AP News"
     }
    ]
   },

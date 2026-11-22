@@ -18,108 +18,114 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
+     "published": "2026-11-22T10:00:00+00:00",
+     "summary": "The argument over UBS Group AG’s future capital requirements is headed for a showdown, with the odds tilted toward defeat for the global wealth manager."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
      "published": "2026-11-22T00:00:00+00:00",
      "summary": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
      "published": "2026-11-21T17:01:32+00:00",
      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Director & Chief Equity Strategist Jonathan Golub, The New Yorker Staff Writer Jon Lee Anderson and The At"
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
      "published": "2026-11-21T15:43:12+00:00",
      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
      "published": "2026-11-21T15:31:22+00:00",
      "summary": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets."
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Thanksgiving Dinner Is Moving to Restaurants",
      "published": "2026-11-21T15:28:00+00:00",
      "summary": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with hosts David Gura and Christina Ruffini, Krader explains how restaurants are responding with traditional feasts and unconventional menus as Thanksgiving reserva"
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "The 1982 War Still Haunts the Middle East",
      "published": "2026-11-21T15:19:32+00:00",
      "summary": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. Speaking with hosts David Gura and Christina Ruffini about her new book, The Best Kind of American, Ghattas examines Hezbollah’s enduring influence, Lebanon’s st"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "Is AI a Bubble? History Offers Some Clues",
      "published": "2026-11-21T15:09:32+00:00",
      "summary": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making debt and investor sentiment important risks to watch amid the AI boom. Speaking with hosts David Gura and Christina Ruffini, Fox explains why AI can be a transformative technology while its companies and"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Shenzhen Wants to Become a Cultural Capital",
      "published": "2026-11-21T14:24:08+00:00",
      "summary": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract talent and tourism. Speaking with hosts David Gura and Christina Ruffini, Ap discusses whether a city known for Huawei, Tencent and BYD can build a lasting cultural identity while rapid wealth creati"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Trump’s Putin Outreach Tests Ukraine Talks",
      "published": "2026-11-21T13:56:40+00:00",
      "summary": "Bloomberg White House and National Security Editor Michelle Jamrisko tells Bloomberg This Weekend that President Donald Trump’s summit with Vladimir Putin and Xi Jinping reinforced his approach to diplomacy but left major questions unresolved over Ukraine and potential US security guarantees. Speaking with hosts David Gura and Christina Ruffini, Jamrisko discusses European skepticism toward Putin,"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Anthropic IPO Fails to Calm AI Jitters",
      "published": "2026-11-21T13:43:18+00:00",
      "summary": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations continue to rise. Speaking with hosts David Gura and Christina Ruffini, Golub says a bigger challenge is whether markets can keep financing the enormous capital"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
      "published": "2026-11-21T13:19:50+00:00",
      "summary": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a cold-brew tea with 120 milligrams of caffeine. Speaking with host Lisa Mateo, they discuss changing consumer tastes, their approach to organic and fair-trade sourcing and why they see room for a mission-"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Putin Gains From Trump, Xi Summit Spotlight",
      "published": "2026-11-21T13:12:23+00:00",
      "summary": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside the US and Chinese leaders despite Russia’s continuing war in Ukraine. Speaking with hosts David Gura and Christina Ruffini, Mason says the summit reflected Trump"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Trump’s Putin Ties Draw Focus After Summit",
      "published": "2026-11-21T13:05:13+00:00",
      "summary": "Bloomberg Economics Analyst Alex Kokcharov tells Bloomberg This Weekend that President Donald Trump’s historic meeting with Vladimir Putin and Xi Jinping produced limited concrete results despite a joint declaration on energy, nuclear risks and other global issues. Speaking with hosts David Gura and Christina Ruffini, Kokcharov explains what Trump’s relationship with Putin means for Ukraine as Eur"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "'Raise Taxes, Cut Spending': Bill Dudley on the Debt",
      "published": "2026-11-21T13:04:30+00:00",
      "summary": "As US debt costs continue to soar, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss how to address America’s fiscal crisis, and whether Treasury Secretary Scott Bessent’s efforts to bring yields under control will pay off. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
      "published": "2026-11-21T13:00:00+00:00",
      "summary": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections."
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Anthropic Makes Its Public Market Debut",
      "published": "2026-11-21T12:59:40+00:00",
      "summary": "Bloomberg’s Ed Ludlow tells Bloomberg This Weekend that Anthropic’s landmark IPO tested investor appetite for frontier AI, giving the company fresh capital for its enormous computing needs as OpenAI considers its own path to the public markets. Speaking with hosts David Gura and Christina Ruffini, Ludlow also examines the turmoil at Nvidia following Jensen Huang’s departure and the uncertainty sur"
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
      "published": "2026-11-21T11:44:46+00:00",
      "summary": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes."
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#18",
      "title": "China Military Bars SF Express Over Procurement Misconduct",
      "published": "2026-11-21T05:00:48+00:00",
      "summary": "SF Express Co., a Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations."
@@ -192,9 +198,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "themarker#1",
-     "title": "יו\"ר ועדת ביקורת בנתיבי איילון לא חתמה על הסדר ניגוד עניינים - והתפטרה",
+     "title": "יו\"ר ועדת ביקורת בנתיבי איילון לא חתמה על הסדר ניגוד עניינים — והתפטרה",
      "published": "2026-11-22T08:48:49+00:00",
-     "summary": "לאחר שרשות החברות הודיעה ליו\"ר ועדת הביקורת של חברת איילון, מיכל סער, כי עקב חשש לניגוד עניינים השתתפותה בישיבות דירקטוריון מנוגדת להנחיות, סער התפטרה ומאשימה את רשות החברות שאינה מכריעה בדו\"ח ביקורת על מנכ\"לית החברה, ועולה \"חשש כי הצעדים כלפי נועדו לסכל את פעולתי\""
+     "summary": "רשות החברות הודיעה ליו\"ר ועדת הביקורת של נתיבי איילון, מיכל סער, כי עקב חשש לניגוד עניינים השתתפותה בישיבות דירקטוריון מנוגדת להנחיות ■ סער התפטרה, טוענת כי רשות החברות אינה מטפלת בדו\"ח ביקורת על מנכ\"לית החברה, ומעלה \"חשש כי הצעדים כלפיי נועדו לסכל את פעולתי\""
     },
     {
      "ref": "themarker#2",
@@ -481,12 +487,6 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
      "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
      "published": "2026-11-20T10:30:00+00:00",
      "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift."
-    },
-    {
-     "ref": "wsj_markets#24",
-     "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
-     "published": "2026-11-20T10:08:25+00:00",
-     "summary": "Nasdaq tumbles 5.3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters"
     }
    ]
   }
@@ -522,9 +522,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 60515.7617,
+   "last": 60909.6016,
    "prev_close": 60094.0898,
-   "change_pct": 0.7,
+   "change_pct": 1.36,
    "as_of": "2026-11-22"
   }
  },
