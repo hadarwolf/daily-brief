@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "Crime - AP News",
+     "published": "2026-11-22T10:52:26+00:00",
+     "summary": "Crime AP News"
+    },
+    {
+     "ref": "ap_world#1",
+     "title": "Texas - AP News",
+     "published": "2026-11-22T10:50:54+00:00",
+     "summary": "Texas AP News"
+    },
+    {
+     "ref": "ap_world#2",
+     "title": "Deportes - AP News",
+     "published": "2026-11-22T10:50:53+00:00",
+     "summary": "Deportes AP News"
+    },
+    {
+     "ref": "ap_world#3",
+     "title": "Soccer - AP News",
+     "published": "2026-11-22T10:50:48+00:00",
+     "summary": "Soccer AP News"
+    },
+    {
+     "ref": "ap_world#4",
+     "title": "Women’s college basketball - AP News",
+     "published": "2026-11-22T10:50:40+00:00",
+     "summary": "Women’s college basketball AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "Italy - AP News",
+     "published": "2026-11-22T10:50:40+00:00",
+     "summary": "Italy AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "NOAH TRISTER - AP News",
+     "published": "2026-11-22T10:36:27+00:00",
+     "summary": "NOAH TRISTER AP News"
+    },
+    {
+     "ref": "ap_world#7",
+     "title": "Latin American News | Latest Latin American News - AP News",
+     "published": "2026-11-22T10:30:24+00:00",
+     "summary": "Latin American News | Latest Latin American News AP News"
+    },
+    {
+     "ref": "ap_world#8",
+     "title": "TIM REYNOLDS - AP News",
+     "published": "2026-11-22T10:20:14+00:00",
+     "summary": "TIM REYNOLDS AP News"
+    },
+    {
+     "ref": "ap_world#9",
      "title": "DAN GELSTON - AP News",
      "published": "2026-11-22T10:06:22+00:00",
      "summary": "DAN GELSTON AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#10",
      "title": "South America - AP News",
      "published": "2026-11-22T10:04:32+00:00",
      "summary": "South America AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#11",
      "title": "2026 World Cup venue map - AP News",
      "published": "2026-11-22T10:04:30+00:00",
      "summary": "2026 World Cup venue map AP News"
     },
     {
-     "ref": "ap_world#3",
+     "ref": "ap_world#12",
      "title": "Central America - AP News",
      "published": "2026-11-22T09:58:49+00:00",
      "summary": "Central America AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#13",
      "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
      "published": "2026-11-22T09:58:39+00:00",
      "summary": "NHL Scores, News & Stats | Latest NHL News AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#14",
      "title": "War and unrest - AP News",
      "published": "2026-11-22T09:58:29+00:00",
      "summary": "War and unrest AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#15",
      "title": "Trending News - AP News",
      "published": "2026-11-22T09:57:24+00:00",
      "summary": "Trending News AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#16",
      "title": "Rugby - AP News",
      "published": "2026-11-22T09:52:02+00:00",
      "summary": "Rugby AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "Crime - AP News",
-     "published": "2026-11-22T09:51:55+00:00",
-     "summary": "Crime AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "AP News Search - AP News",
-     "published": "2026-11-22T09:51:49+00:00",
-     "summary": "AP News Search AP News"
-    },
-    {
-     "ref": "ap_world#10",
+     "ref": "ap_world#17",
      "title": "New York City - AP News",
      "published": "2026-11-22T09:51:44+00:00",
      "summary": "New York City AP News"
     },
     {
-     "ref": "ap_world#11",
-     "title": "Texas - AP News",
-     "published": "2026-11-22T09:51:42+00:00",
-     "summary": "Texas AP News"
-    },
-    {
-     "ref": "ap_world#12",
-     "title": "Deportes - AP News",
-     "published": "2026-11-22T09:51:41+00:00",
-     "summary": "Deportes AP News"
-    },
-    {
-     "ref": "ap_world#13",
-     "title": "My Fan Picks - AP News",
-     "published": "2026-11-22T09:51:34+00:00",
-     "summary": "My Fan Picks AP News"
-    },
-    {
-     "ref": "ap_world#14",
-     "title": "Soccer - AP News",
-     "published": "2026-11-22T09:50:50+00:00",
-     "summary": "Soccer AP News"
-    },
-    {
-     "ref": "ap_world#15",
-     "title": "Women’s college basketball - AP News",
-     "published": "2026-11-22T09:50:41+00:00",
-     "summary": "Women’s college basketball AP News"
-    },
-    {
-     "ref": "ap_world#16",
+     "ref": "ap_world#18",
      "title": "Rayo Vallecano: Madrid club with the 'sacred' red stripe faces a stadium fight and a fan revolt - AP News",
      "published": "2026-11-22T09:50:00+00:00",
      "summary": "Rayo Vallecano: Madrid club with the 'sacred' red stripe faces a stadium fight and a fan revolt AP News"
     },
     {
-     "ref": "ap_world#17",
-     "title": "College football | Latest News & Updates - AP News",
-     "published": "2026-11-22T09:37:09+00:00",
-     "summary": "College football | Latest News & Updates AP News"
-    },
-    {
-     "ref": "ap_world#18",
-     "title": "Latest news - AP News",
-     "published": "2026-11-22T09:30:55+00:00",
-     "summary": "Latest news AP News"
-    },
-    {
      "ref": "ap_world#19",
-     "title": "College Football Full FBS Schedule - AP News",
-     "published": "2026-11-22T09:28:37+00:00",
-     "summary": "College Football Full FBS Schedule AP News"
+     "title": "United Nations - AP News",
+     "published": "2026-11-22T09:18:09+00:00",
+     "summary": "United Nations AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "College sports - AP News",
-     "published": "2026-11-22T09:21:37+00:00",
-     "summary": "College sports AP News"
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-22T09:07:45+00:00",
+     "summary": "College football | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming - AP News",
-     "published": "2026-11-22T08:30:00+00:00",
-     "summary": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming AP News"
+     "title": "AP News Search - AP News",
+     "published": "2026-11-22T09:07:34+00:00",
+     "summary": "AP News Search AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Max Verstappen wins the Las Vegas Grand Prix for the third time in 4 years - AP News",
-     "published": "2026-11-22T07:48:00+00:00",
-     "summary": "Max Verstappen wins the Las Vegas Grand Prix for the third time in 4 years AP News"
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-22T09:07:26+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "In Ukraine, the fight to keep winter outside begins with a broken window - AP News",
-     "published": "2026-11-22T07:02:00+00:00",
-     "summary": "In Ukraine, the fight to keep winter outside begins with a broken window AP News"
+     "title": "Sports - Europe - AP News",
+     "published": "2026-11-22T08:59:49+00:00",
+     "summary": "Sports - Europe AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "ANDREW DAMPF - AP News",
-     "published": "2026-11-22T06:48:47+00:00",
-     "summary": "ANDREW DAMPF AP News"
+     "title": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for - AP News",
+     "published": "2026-11-22T08:54:00+00:00",
+     "summary": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for AP News"
     }
    ]
   },
@@ -426,153 +426,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
+     "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount - Reuters",
+     "published": "2026-11-22T10:07:45+00:00",
+     "summary": "Kyiv's restaurant owners brace for tough winter as war pressures mount Reuters"
+    },
+    {
+     "ref": "reuters_world#1",
      "title": "Russian cargo ship still on fire off Finland after attack - Reuters",
      "published": "2026-11-22T09:14:17+00:00",
      "summary": "Russian cargo ship still on fire off Finland after attack Reuters"
     },
     {
-     "ref": "reuters_world#1",
+     "ref": "reuters_world#2",
      "title": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says - Reuters",
      "published": "2026-11-22T09:01:43+00:00",
      "summary": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says Reuters"
     },
     {
-     "ref": "reuters_world#2",
+     "ref": "reuters_world#3",
      "title": "Most Gulf bourses retreat as sporadic attacks continue - Reuters",
      "published": "2026-11-22T08:27:46+00:00",
      "summary": "Most Gulf bourses retreat as sporadic attacks continue Reuters"
     },
     {
-     "ref": "reuters_world#3",
+     "ref": "reuters_world#4",
      "title": "Death toll from Nigeria boat accident rises to 24 - Reuters",
      "published": "2026-11-22T07:34:00+00:00",
      "summary": "Death toll from Nigeria boat accident rises to 24 Reuters"
     },
     {
-     "ref": "reuters_world#4",
+     "ref": "reuters_world#5",
      "title": "Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced' - Reuters",
      "published": "2026-11-22T04:01:00+00:00",
      "summary": "Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced' Reuters"
     },
     {
-     "ref": "reuters_world#5",
+     "ref": "reuters_world#6",
      "title": "Seven body bags recovered, 50 missing after Indonesian factory fire - Reuters",
      "published": "2026-11-22T03:56:00+00:00",
      "summary": "Seven body bags recovered, 50 missing after Indonesian factory fire Reuters"
     },
     {
-     "ref": "reuters_world#6",
+     "ref": "reuters_world#7",
      "title": "North Korea postpones next year's Pyongyang marathon, tour agency says - Reuters",
      "published": "2026-11-22T02:39:00+00:00",
      "summary": "North Korea postpones next year's Pyongyang marathon, tour agency says Reuters"
     },
     {
-     "ref": "reuters_world#7",
+     "ref": "reuters_world#8",
      "title": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers - Reuters",
      "published": "2026-11-22T01:57:00+00:00",
      "summary": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers Reuters"
     },
     {
-     "ref": "reuters_world#8",
+     "ref": "reuters_world#9",
      "title": "Australia criticises US Congressional Budget Office over AUKUS comments - Reuters",
      "published": "2026-11-22T00:33:00+00:00",
      "summary": "Australia criticises US Congressional Budget Office over AUKUS comments Reuters"
     },
     {
-     "ref": "reuters_world#9",
+     "ref": "reuters_world#10",
      "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests - Reuters",
      "published": "2026-11-21T21:58:48+00:00",
      "summary": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests Reuters"
     },
     {
-     "ref": "reuters_world#10",
+     "ref": "reuters_world#11",
      "title": "Lower turnout at largely peaceful marches across France - Reuters",
      "published": "2026-11-21T21:32:51+00:00",
      "summary": "Lower turnout at largely peaceful marches across France Reuters"
     },
     {
-     "ref": "reuters_world#11",
+     "ref": "reuters_world#12",
      "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates - Reuters",
      "published": "2026-11-21T21:01:49+00:00",
      "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates Reuters"
     },
     {
-     "ref": "reuters_world#12",
+     "ref": "reuters_world#13",
      "title": "Thousands march in Lisbon as living costs fuel anger - Reuters",
      "published": "2026-11-21T19:55:34+00:00",
      "summary": "Thousands march in Lisbon as living costs fuel anger Reuters"
     },
     {
-     "ref": "reuters_world#13",
+     "ref": "reuters_world#14",
      "title": "Croatians rally in Zagreb demanding justice over psychiatric hospital death - Reuters",
      "published": "2026-11-21T19:52:09+00:00",
      "summary": "Croatians rally in Zagreb demanding justice over psychiatric hospital death Reuters"
     },
     {
-     "ref": "reuters_world#14",
+     "ref": "reuters_world#15",
      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks - Reuters",
      "published": "2026-11-21T19:15:00+00:00",
      "summary": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks Reuters"
     },
     {
-     "ref": "reuters_world#15",
+     "ref": "reuters_world#16",
      "title": "NATO will defend every inch of Polish territory, Rutte says - Reuters",
      "published": "2026-11-21T19:08:10+00:00",
      "summary": "NATO will defend every inch of Polish territory, Rutte says Reuters"
     },
     {
-     "ref": "reuters_world#16",
+     "ref": "reuters_world#17",
      "title": "Brazil ex-President Jair Bolsonaro taken to ICU - Reuters",
      "published": "2026-11-21T19:03:10+00:00",
      "summary": "Brazil ex-President Jair Bolsonaro taken to ICU Reuters"
     },
     {
-     "ref": "reuters_world#17",
+     "ref": "reuters_world#18",
      "title": "At least 11 die after drinking adulterated alcohol in India's Manipur state - Reuters",
      "published": "2026-11-21T18:55:22+00:00",
      "summary": "At least 11 die after drinking adulterated alcohol in India's Manipur state Reuters"
     },
     {
-     "ref": "reuters_world#18",
+     "ref": "reuters_world#19",
      "title": "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says - Reuters",
      "published": "2026-11-21T18:21:58+00:00",
      "summary": "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says Reuters"
     },
     {
-     "ref": "reuters_world#19",
+     "ref": "reuters_world#20",
      "title": "Former Italian police chief De Gennaro takes own life amid mafia probe - Reuters",
      "published": "2026-11-21T18:00:26+00:00",
      "summary": "Former Italian police chief De Gennaro takes own life amid mafia probe Reuters"
     },
     {
-     "ref": "reuters_world#20",
+     "ref": "reuters_world#21",
      "title": "England's record win over All Blacks should not be our ceiling, says Itoje - Reuters",
      "published": "2026-11-21T17:53:43+00:00",
      "summary": "England's record win over All Blacks should not be our ceiling, says Itoje Reuters"
     },
     {
-     "ref": "reuters_world#21",
+     "ref": "reuters_world#22",
      "title": "How Grand Theft Auto VI's launch surpassed expectations - Reuters",
      "published": "2026-11-21T15:09:50+00:00",
      "summary": "How Grand Theft Auto VI's launch surpassed expectations Reuters"
     },
     {
-     "ref": "reuters_world#22",
+     "ref": "reuters_world#23",
      "title": "Qatari delegation visits Tehran for talks, Iranian official says - Reuters",
      "published": "2026-11-21T15:01:27+00:00",
      "summary": "Qatari delegation visits Tehran for talks, Iranian official says Reuters"
     },
     {
-     "ref": "reuters_world#23",
+     "ref": "reuters_world#24",
      "title": "Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says - Reuters",
      "published": "2026-11-21T14:51:43+00:00",
      "summary": "Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says Reuters"
-    },
-    {
-     "ref": "reuters_world#24",
-     "title": "Most new Black Democrats in decades to join US Congress, set to sway policy, party - Reuters",
-     "published": "2026-11-21T14:13:06+00:00",
-     "summary": "Most new Black Democrats in decades to join US Congress, set to sway policy, party Reuters"
     }
    ]
   }

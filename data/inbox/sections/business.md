@@ -18,117 +18,117 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "bloomberg_markets#0",
+     "title": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
+     "published": "2026-11-22T10:16:45+00:00",
+     "summary": "South Korea announced phased measures to calm markets amid rising volatility, including ensuring a stock stabilization fund is in place to respond when needed, top financial officials said after an emergency meeting on Sunday."
+    },
+    {
+     "ref": "bloomberg_markets#1",
      "title": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
      "published": "2026-11-22T10:00:00+00:00",
      "summary": "The argument over UBS Group AG’s future capital requirements is headed for a showdown, with the odds tilted toward defeat for the global wealth manager."
     },
     {
-     "ref": "bloomberg_markets#1",
+     "ref": "bloomberg_markets#2",
      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
      "published": "2026-11-22T00:00:00+00:00",
      "summary": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy."
     },
     {
-     "ref": "bloomberg_markets#2",
+     "ref": "bloomberg_markets#3",
      "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
      "published": "2026-11-21T17:01:32+00:00",
      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Director & Chief Equity Strategist Jonathan Golub, The New Yorker Staff Writer Jon Lee Anderson and The At"
     },
     {
-     "ref": "bloomberg_markets#3",
+     "ref": "bloomberg_markets#4",
      "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
      "published": "2026-11-21T15:43:12+00:00",
      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#4",
+     "ref": "bloomberg_markets#5",
      "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
      "published": "2026-11-21T15:31:22+00:00",
      "summary": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets."
     },
     {
-     "ref": "bloomberg_markets#5",
+     "ref": "bloomberg_markets#6",
      "title": "Thanksgiving Dinner Is Moving to Restaurants",
      "published": "2026-11-21T15:28:00+00:00",
      "summary": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with hosts David Gura and Christina Ruffini, Krader explains how restaurants are responding with traditional feasts and unconventional menus as Thanksgiving reserva"
     },
     {
-     "ref": "bloomberg_markets#6",
+     "ref": "bloomberg_markets#7",
      "title": "The 1982 War Still Haunts the Middle East",
      "published": "2026-11-21T15:19:32+00:00",
      "summary": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. Speaking with hosts David Gura and Christina Ruffini about her new book, The Best Kind of American, Ghattas examines Hezbollah’s enduring influence, Lebanon’s st"
     },
     {
-     "ref": "bloomberg_markets#7",
+     "ref": "bloomberg_markets#8",
      "title": "Is AI a Bubble? History Offers Some Clues",
      "published": "2026-11-21T15:09:32+00:00",
      "summary": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making debt and investor sentiment important risks to watch amid the AI boom. Speaking with hosts David Gura and Christina Ruffini, Fox explains why AI can be a transformative technology while its companies and"
     },
     {
-     "ref": "bloomberg_markets#8",
+     "ref": "bloomberg_markets#9",
      "title": "Shenzhen Wants to Become a Cultural Capital",
      "published": "2026-11-21T14:24:08+00:00",
      "summary": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract talent and tourism. Speaking with hosts David Gura and Christina Ruffini, Ap discusses whether a city known for Huawei, Tencent and BYD can build a lasting cultural identity while rapid wealth creati"
     },
     {
-     "ref": "bloomberg_markets#9",
+     "ref": "bloomberg_markets#10",
      "title": "Trump’s Putin Outreach Tests Ukraine Talks",
      "published": "2026-11-21T13:56:40+00:00",
      "summary": "Bloomberg White House and National Security Editor Michelle Jamrisko tells Bloomberg This Weekend that President Donald Trump’s summit with Vladimir Putin and Xi Jinping reinforced his approach to diplomacy but left major questions unresolved over Ukraine and potential US security guarantees. Speaking with hosts David Gura and Christina Ruffini, Jamrisko discusses European skepticism toward Putin,"
     },
     {
-     "ref": "bloomberg_markets#10",
+     "ref": "bloomberg_markets#11",
      "title": "Anthropic IPO Fails to Calm AI Jitters",
      "published": "2026-11-21T13:43:18+00:00",
      "summary": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations continue to rise. Speaking with hosts David Gura and Christina Ruffini, Golub says a bigger challenge is whether markets can keep financing the enormous capital"
     },
     {
-     "ref": "bloomberg_markets#11",
+     "ref": "bloomberg_markets#12",
      "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
      "published": "2026-11-21T13:19:50+00:00",
      "summary": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a cold-brew tea with 120 milligrams of caffeine. Speaking with host Lisa Mateo, they discuss changing consumer tastes, their approach to organic and fair-trade sourcing and why they see room for a mission-"
     },
     {
-     "ref": "bloomberg_markets#12",
+     "ref": "bloomberg_markets#13",
      "title": "Putin Gains From Trump, Xi Summit Spotlight",
      "published": "2026-11-21T13:12:23+00:00",
      "summary": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside the US and Chinese leaders despite Russia’s continuing war in Ukraine. Speaking with hosts David Gura and Christina Ruffini, Mason says the summit reflected Trump"
     },
     {
-     "ref": "bloomberg_markets#13",
+     "ref": "bloomberg_markets#14",
      "title": "Trump’s Putin Ties Draw Focus After Summit",
      "published": "2026-11-21T13:05:13+00:00",
      "summary": "Bloomberg Economics Analyst Alex Kokcharov tells Bloomberg This Weekend that President Donald Trump’s historic meeting with Vladimir Putin and Xi Jinping produced limited concrete results despite a joint declaration on energy, nuclear risks and other global issues. Speaking with hosts David Gura and Christina Ruffini, Kokcharov explains what Trump’s relationship with Putin means for Ukraine as Eur"
     },
     {
-     "ref": "bloomberg_markets#14",
+     "ref": "bloomberg_markets#15",
      "title": "'Raise Taxes, Cut Spending': Bill Dudley on the Debt",
      "published": "2026-11-21T13:04:30+00:00",
      "summary": "As US debt costs continue to soar, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss how to address America’s fiscal crisis, and whether Treasury Secretary Scott Bessent’s efforts to bring yields under control will pay off. (Source: Bloomberg)"
     },
     {
-     "ref": "bloomberg_markets#15",
+     "ref": "bloomberg_markets#16",
      "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
      "published": "2026-11-21T13:00:00+00:00",
      "summary": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections."
     },
     {
-     "ref": "bloomberg_markets#16",
+     "ref": "bloomberg_markets#17",
      "title": "Anthropic Makes Its Public Market Debut",
      "published": "2026-11-21T12:59:40+00:00",
      "summary": "Bloomberg’s Ed Ludlow tells Bloomberg This Weekend that Anthropic’s landmark IPO tested investor appetite for frontier AI, giving the company fresh capital for its enormous computing needs as OpenAI considers its own path to the public markets. Speaking with hosts David Gura and Christina Ruffini, Ludlow also examines the turmoil at Nvidia following Jensen Huang’s departure and the uncertainty sur"
     },
     {
-     "ref": "bloomberg_markets#17",
+     "ref": "bloomberg_markets#18",
      "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
      "published": "2026-11-21T11:44:46+00:00",
      "summary": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes."
-    },
-    {
-     "ref": "bloomberg_markets#18",
-     "title": "China Military Bars SF Express Over Procurement Misconduct",
-     "published": "2026-11-21T05:00:48+00:00",
-     "summary": "SF Express Co., a Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations."
     }
    ]
   },
@@ -346,147 +346,153 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
    "items": [
     {
      "ref": "wsj_markets#0",
+     "title": "Has the AI Bubble Already Burst?",
+     "published": "2026-11-22T10:30:00+00:00",
+     "summary": "The AI selloff ravaging the stock market in recent weeks is remarkably like the bursting of the dot-com bubble."
+    },
+    {
+     "ref": "wsj_markets#1",
+     "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+     "published": "2026-11-22T10:30:00+00:00",
+     "summary": "007 has worn an Omega watch for three decades, but the brand was missing from this week’s big reveal."
+    },
+    {
+     "ref": "wsj_markets#2",
      "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
      "published": "2026-11-21T20:45:00+00:00",
      "summary": "We analyzed everything from estate planning to retirement income options at some of the larger registered investment advisor firms to help retirees select a firm that could best connect them with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#1",
+     "ref": "wsj_markets#3",
      "title": "What It’s Like to Retire in Thailand",
      "published": "2026-11-21T17:00:00+00:00",
      "summary": "It’s hot, humid and costs a bit more than we anticipated. But we love the life we’ve built here."
     },
     {
-     "ref": "wsj_markets#2",
-     "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
-     "published": "2026-11-21T02:16:00+00:00",
-     "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price."
-    },
-    {
-     "ref": "wsj_markets#3",
-     "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
-     "published": "2026-11-21T02:16:00+00:00",
-     "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price."
-    },
-    {
      "ref": "wsj_markets#4",
-     "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-     "published": "2026-11-20T23:36:00+00:00",
-     "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down."
+     "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+     "published": "2026-11-21T02:16:00+00:00",
+     "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price."
     },
     {
      "ref": "wsj_markets#5",
+     "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+     "published": "2026-11-21T02:16:00+00:00",
+     "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price."
+    },
+    {
+     "ref": "wsj_markets#6",
      "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
      "published": "2026-11-20T23:36:00+00:00",
      "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down."
     },
     {
-     "ref": "wsj_markets#6",
+     "ref": "wsj_markets#7",
+     "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+     "published": "2026-11-20T23:36:00+00:00",
+     "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down."
+    },
+    {
+     "ref": "wsj_markets#8",
      "title": "Opinion | Why China Wants to Control a Yacht Maker",
      "published": "2026-11-20T23:11:00+00:00",
      "summary": "The story of Italy’s Ferretti Group points to a vulnerability in the West’s system to control investment by foreign adversaries."
     },
     {
-     "ref": "wsj_markets#7",
+     "ref": "wsj_markets#9",
      "title": "WSJ Dollar Index Rises 0.42% This Week to 98.75",
      "published": "2026-11-20T22:48:00+00:00",
      "summary": "The WSJ Dollar Index declined 0.1%, snapping a two-trading-day winning streak."
     },
     {
-     "ref": "wsj_markets#8",
+     "ref": "wsj_markets#10",
      "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
      "published": "2026-11-20T22:24:00+00:00",
      "summary": "U.S. stocks plunged and an index of mega-cap technology stocks skirted bear-market territory as predictions of a speculative bust in artificial-intelligence stocks appeared to come to fruition."
     },
     {
-     "ref": "wsj_markets#9",
+     "ref": "wsj_markets#11",
      "title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
      "published": "2026-11-20T22:09:00+00:00",
      "summary": "Crude futures fell for a third straight week as increasing supply out of the Middle East outweighed concerns about continuing strikes across the region."
     },
     {
-     "ref": "wsj_markets#10",
+     "ref": "wsj_markets#12",
      "title": "U.S. Natural Gas Futures Rise With Support From LNG Exports",
      "published": "2026-11-20T22:04:00+00:00",
      "summary": "U.S. natural gas futures recovered from the previous day’s losses and settled at the highest level since early February."
     },
     {
-     "ref": "wsj_markets#11",
+     "ref": "wsj_markets#13",
      "title": "Health Care Roundup: Market Talk",
      "published": "2026-11-20T22:01:00+00:00",
      "summary": "Find insight on Sanofi, Insmed, Novartis and more in the latest Market Talks covering he health care sector."
     },
     {
-     "ref": "wsj_markets#12",
+     "ref": "wsj_markets#14",
      "title": "Nasdaq Turns Red For The Year",
      "published": "2026-11-20T21:50:00+00:00",
      "summary": "Plus, Anthropic falls back and Treasury yields plunge"
     },
     {
-     "ref": "wsj_markets#13",
+     "ref": "wsj_markets#15",
      "title": "Oil Futures Fall for Third Straight Week on Supply Outlook",
      "published": "2026-11-20T21:16:00+00:00",
      "summary": "Oil futures settled higher Friday, but ended the week with losses as the market assessed improving global supply conditions amid continued threats to Middle Eastern oil shipments."
     },
     {
-     "ref": "wsj_markets#14",
+     "ref": "wsj_markets#16",
      "title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
      "published": "2026-11-20T20:18:00+00:00",
      "summary": "Gold futures fell to their lowest level since late August of 2025 as the rout continued amid concerns that the Fed will continue raising interest rates."
     },
     {
-     "ref": "wsj_markets#15",
+     "ref": "wsj_markets#17",
      "title": "Tech Rout Deepens as Anthropic Stock Slides",
      "published": "2026-11-20T19:31:00+00:00",
      "summary": "The selloff in technology stocks intensified, dragging the S&P 500 and Dow industrials into correction territory."
     },
     {
-     "ref": "wsj_markets#16",
+     "ref": "wsj_markets#18",
      "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
      "published": "2026-11-20T16:59:00+00:00",
      "summary": "The record-keeping blunder, which was related to risk-weighted assets, is a setback for CEO Jane Fraser’s efforts to strengthen internal controls."
     },
     {
-     "ref": "wsj_markets#17",
+     "ref": "wsj_markets#19",
      "title": "Gold, Silver Drop to Lowest Levels in Over a Year",
      "published": "2026-11-20T14:14:00+00:00",
      "summary": "Expectations for tighter monetary policy appear to have overshadowed the typical demand for gold as a safe haven for risk-averse investors."
     },
     {
-     "ref": "wsj_markets#18",
+     "ref": "wsj_markets#20",
      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
      "published": "2026-11-20T14:04:00+00:00",
      "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor."
     },
     {
-     "ref": "wsj_markets#19",
+     "ref": "wsj_markets#21",
      "title": "Data Centers Are the Growth Engine of America’s Power Grid",
      "published": "2026-11-20T11:25:00+00:00",
      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more."
     },
     {
-     "ref": "wsj_markets#20",
+     "ref": "wsj_markets#22",
      "title": "Grabbing Inflation Protection Now Is a No-Brainer",
      "published": "2026-11-20T11:16:00+00:00",
      "summary": "Plus, the AI trade keeps deflating despite Anthropic’s strong debut."
     },
     {
-     "ref": "wsj_markets#21",
+     "ref": "wsj_markets#23",
      "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
      "published": "2026-11-20T10:59:00+00:00",
      "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of."
     },
     {
-     "ref": "wsj_markets#22",
+     "ref": "wsj_markets#24",
      "title": "The Seven Charts That Explain the New Normal for Oil Prices",
      "published": "2026-11-20T10:56:00+00:00",
      "summary": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future."
-    },
-    {
-     "ref": "wsj_markets#23",
-     "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
-     "published": "2026-11-20T10:30:00+00:00",
-     "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift."
     }
    ]
   }
@@ -522,9 +528,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 60909.6016,
+   "last": 60965.1094,
    "prev_close": 60094.0898,
-   "change_pct": 1.36,
+   "change_pct": 1.45,
    "as_of": "2026-11-22"
   }
  },
