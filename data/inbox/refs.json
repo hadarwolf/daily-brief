@@ -140,160 +140,20 @@
    "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
    "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss"
   },
-  "espn_nba#0": {
-   "outlet": "ESPN NBA",
-   "title": "Wemby makes history in 18 minutes, finishes game with 50 points",
-   "url": "https://www.espn.com/nba/story/_/id/50559763/victor-wembanyama-shows-50-point-5-block-performance"
-  },
-  "espn_nba#1": {
-   "outlet": "ESPN NBA",
-   "title": "Bridges shakes off slump, hits buzzer-beating 3 to save Knicks from collapse",
-   "url": "https://www.espn.com/nba/story/_/id/50559927/knicks-mikal-bridges-shakes-slump-3-buzzer-tops-blazers"
-  },
-  "espn_nba#2": {
-   "outlet": "ESPN NBA",
-   "title": "76ers survive in clutch again despite Herro's 50",
-   "url": "https://www.espn.com/nba/story/_/id/50555316/76ers-survive-clutch-again-tyler-herro-50"
-  },
-  "espn_nba#3": {
-   "outlet": "ESPN NBA",
-   "title": "Harden has 51 in 'vintage' performance, leaps Kobe for 3rd-most 50-point games",
-   "url": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers"
-  },
-  "espn_nba#4": {
-   "outlet": "ESPN NBA",
-   "title": "Udoka says Rockets 'mentally fragile,' blasts defense after loss to Nuggets",
-   "url": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets"
-  },
-  "espn_nba#5": {
-   "outlet": "ESPN NBA",
-   "title": "Lakers eke out win after Redick rips team's lack of fight vs. last-place Kings",
-   "url": "https://www.espn.com/nba/story/_/id/50547994/jj-redick-half-rant-fuels-lakers-last-place-kings"
-  },
-  "espn_nba#6": {
-   "outlet": "ESPN NBA",
-   "title": "👀 What the first month has revealed about all 30 teams",
-   "url": "https://www.espn.com/nba/story/_/id/50502518/first-month-lakers-knicks-spurs-celtics"
-  },
-  "espn_nba#7": {
-   "outlet": "ESPN NBA",
-   "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
-   "url": "https://www.espn.com/nba/story/_/id/50534111/rookies-dybantsa-peterson-boozer-acuff-yaxel"
-  },
-  "espn_nba#8": {
-   "outlet": "ESPN NBA",
-   "title": "How a season without their 'admiral' showed the Rockets what they were missing",
-   "url": "https://www.espn.com/nba/story/_/id/50524821/nba-houston-rockets-fred-vanvleet-injury-comeback"
-  },
-  "espn_nba#9": {
-   "outlet": "ESPN NBA",
-   "title": "Has Nikola Jokic been overtaken as the top player in fantasy basketball?",
-   "url": "https://www.espn.com/fantasy/basketball/story/_/id/50541753/fantasy-basketball-nba-analytics-top-players"
-  },
-  "espn_soccer#0": {
-   "outlet": "ESPN FC",
-   "title": "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "url": "https://www.espn.com/soccer/story/_/id/46407078/celebrating-olimpico-one-soccers-most-audacious-goals"
-  },
-  "espn_soccer#1": {
-   "outlet": "ESPN FC",
-   "title": "Kansas City finally, and deservedly, breaks NWSL Championship drought",
-   "url": "https://www.espn.com/soccer/story/_/id/50558351/kansas-city-current-breaks-nwsl-championship-drought"
-  },
-  "espn_soccer#2": {
-   "outlet": "ESPN FC",
-   "title": "DiBernardo's Olimpico goal leads Kansas City to 1st NWSL Championship",
-   "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit"
-  },
-  "espn_soccer#3": {
-   "outlet": "ESPN FC",
-   "title": "Columbus coach says Messi should've got red card: 'Everyone knows'",
-   "url": "https://www.espn.com/soccer/story/_/id/50558763/lionel-messi-throw-red-card-inter-miami-columbus-crew"
-  },
-  "espn_soccer#4": {
-   "outlet": "ESPN FC",
-   "title": "Rodman on 3rd straight NWSL Championship loss: 'This one hurts way worse'",
-   "url": "https://www.espn.com/soccer/story/_/id/50559416/trinity-rodman-nwsl-championship-washington-spirit"
-  },
-  "espn_soccer#5": {
-   "outlet": "ESPN FC",
-   "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
-   "url": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs"
-  },
-  "espn_soccer#6": {
-   "outlet": "ESPN FC",
-   "title": "Milan boss Amorim heaps praise on Pulisic: 'The player we cannot replace'",
-   "url": "https://www.espn.com/soccer/story/_/id/50553931/ruben-amorim-christian-pulisic-milan"
-  },
-  "espn_soccer#7": {
-   "outlet": "ESPN FC",
-   "title": "PSG star Doué 'sad' and 'worried' after suffering 'serious' knee injury",
-   "url": "https://www.espn.com/soccer/story/_/id/50554155/psg-desire-doue-injury-nice-knee"
-  },
-  "espn_soccer#8": {
-   "outlet": "ESPN FC",
-   "title": "Supersub Espí's 'most special' goal earns win for Madrid and praise from Nadal",
-   "url": "https://www.espn.com/soccer/story/_/id/50555627/real-madrid-carlos-espi-celta-vigo-rafael-nadal"
-  },
-  "espn_soccer#9": {
-   "outlet": "ESPN FC",
-   "title": "Raya exits with injury as Arsenal held by Newcastle: 'Never good news'",
-   "url": "https://www.espn.com/soccer/story/_/id/50552162/david-raya-injured-arsenal-newcastle-premier-league"
-  },
-  "espn_soccer#10": {
-   "outlet": "ESPN FC",
-   "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-   "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united"
-  },
-  "espn_soccer#11": {
-   "outlet": "ESPN FC",
-   "title": "Arsenal's near-collapse at Newcastle a wake-up call -- and a missed opportunity",
-   "url": "https://www.espn.com/soccer/story/_/id/50553100/arsenal-collapse-newcastle-premier-league"
-  },
-  "espn_soccer#12": {
-   "outlet": "ESPN FC",
-   "title": "Man City at a crossroads as a shell of themselves",
-   "url": "https://www.espn.com/soccer/story/_/id/50550244/man-city-fulham-premier-league-erling-haaland-maresca"
-  },
-  "espn_soccer#13": {
-   "outlet": "ESPN FC",
-   "title": "Pochettino's Man United moment has finally arrived. Is he up to the task?",
-   "url": "https://www.espn.com/soccer/story/_/id/50543478/pochettino-manchester-united-debut-liverpool"
-  },
-  "espn_soccer#14": {
-   "outlet": "ESPN FC",
-   "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
-   "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league"
-  },
-  "espn_soccer#15": {
-   "outlet": "ESPN FC",
-   "title": "Transfer rumors, news: Could McTominay make sensational Man United return?",
-   "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return"
-  },
-  "espn_soccer#16": {
-   "outlet": "ESPN FC",
-   "title": "Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him?",
-   "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea"
-  },
-  "espn_soccer#17": {
-   "outlet": "ESPN FC",
-   "title": "Cristiano Ronaldo goal tracker: 986 and counting on road to 1,000 career goals",
-   "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals"
-  },
   "gnews_inter_miami#0": {
    "outlet": "Google News — Inter Miami",
-   "title": "Lionel Messi and Inter Miami humiliated as Columbus Crew cruise to dominant Game 1 playoff victory - Goal.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbFJnalNZei1JWm9pem5ZMFlxM2JON0dNRTFJSlhvMkoxYUFYNzJzMXVqUEFsMUo5YW02eThnUUxYdDRKWFUyaHFsbVJzbTZxQ1F1WW90U0xfUW9HdkRvaDBQOGxlVS1tSXVQLXItbWRlQWRaN2c0LTFDWVA2TE5aMW9HbTBZSEpxZXd4TFlNMkNLMFA1SE5OY1U1a0p0QmZHTXJocThnZ1dPb1BKd0E?oc=5"
+   "title": "Messi, what are you doing? Inter Miami lose in the playoffs as he hits an opponent with the ball, is booked and now faces elimination by Columbus Crew - LiveScore",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQU2x6VllzU2huZ296ZkcwaUVzRVhSUmh6cEdSTjRORFE2RC0xS0psZzNhTkFzYWRtQlZkSk1BS2NfdGRoNkVrWjN5Tm55M1RhMlRRWUhQaTktYkNiMlZfVVlaVkQ0ak8wQVZJdzRraFBBTTEzNmZ2MDJobFNhZ3haTUdSZ3hCNDlWRHVNRWNidmpaU29mc0lJSlNQVkZYV2hkWGRUY1liSzRLM09iaDdnd3hJSmhKODNhNDVXZ3JSYlQ5TGc3VjhmTGxaOUhrdEplaHJTeDdJMWpKQWFOcVRzekxMVS16cXBQdE9HMWtwR0hWa3FELUxkSC1IZ3l0dWNmaTNnWVJ0MFZiQUFlcWJZam9YM25hcXZrX0RrcDNVMmFFN1NDZFhj?oc=5"
   },
   "gnews_inter_miami#1": {
    "outlet": "Google News — Inter Miami",
-   "title": "A dark night for Messi.. Inter Miami loses 3-0 to Columbus Crew (video) - صوت الإمارات",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWowWEYwTGJDSlB2SkhrTTFNZnRhUWdKTVF1U3dJNkNSenl3VEJlOHAyMDZjVXR3bWc2aEotOVB3YWFyUnJxTURTakRxdDM1Q1JxUHpCYzB3MjV4LWVpRzY0VExPbzVGYWtIemFVdjVpSkM2UGo3SVg3OWtQT0dUd0YwNzl2ZjYxSER1YXFPOHR6T1I2ZWl6NDZZVWRrRHR2aGNXREotYS1Ja2dqQ0hnX0VUVkw0VXR5TU8wUw?oc=5"
+   "title": "Lionel Messi and Inter Miami humiliated as Columbus Crew cruise to dominant Game 1 playoff victory - Goal.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEU3ZlNtZmNDOU5zZmVmMWFKNy1GSWo1Q19xVjJEaGkxa3BWR0dsNVJhdVNqNy1OV21iYnZBZ2hRa1lrN1V3MGZJNjlPYWFpZDVzRFdGZmJMcUg0OWVvcnVIR1hzZEt2YWNOeXRIcWs4TDhDQ3g4a3BpeFhOTWZyanR2VGFMbFhlcThRSmZWY24ySU5ObnpGdDhPemVvc2xWaFl6dFc3YXBIZw?oc=5"
   },
   "gnews_inter_miami#2": {
    "outlet": "Google News — Inter Miami",
-   "title": "Inter Miami CF 0 - 3 Columbus Crew: Final score, results, recap, box score, stats - Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yN29LME1nVV9HeEVHOUNsLVNyTEV4WDJnM2liWVpoRXNhOXJ2ejczX3o2dDdtNXdZX0dYX2lUN0xXWVVTV2NoM3VXaVdIV195UkZZNFRPX2FIMF96NXdobktvTDZ6cm1YeG96b0xPTlJ0ZWEySlNZdFE4WTVwTmc?oc=5"
+   "title": "A dark night for Messi.. Inter Miami loses 3-0 to Columbus Crew (video) - صوت الإمارات",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWowWEYwTGJDSlB2SkhrTTFNZnRhUWdKTVF1U3dJNkNSenl3VEJlOHAyMDZjVXR3bWc2aEotOVB3YWFyUnJxTURTakRxdDM1Q1JxUHpCYzB3MjV4LWVpRzY0VExPbzVGYWtIemFVdjVpSkM2UGo3SVg3OWtQT0dUd0YwNzl2ZjYxSER1YXFPOHR6T1I2ZWl6NDZZVWRrRHR2aGNXREotYS1Ja2dqQ0hnX0VUVkw0VXR5TU8wUw?oc=5"
   },
   "gnews_inter_miami#3": {
    "outlet": "Google News — Inter Miami",
@@ -332,78 +192,78 @@
   },
   "gnews_inter_miami#10": {
    "outlet": "Google News — Inter Miami",
+   "title": "Inter Miami CF 0 - 3 Columbus Crew: Final score, results, recap, box score, stats - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yN29LME1nVV9HeEVHOUNsLVNyTEV4WDJnM2liWVpoRXNhOXJ2ejczX3o2dDdtNXdZX0dYX2lUN0xXWVVTV2NoM3VXaVdIV195UkZZNFRPX2FIMF96NXdobktvTDZ6cm1YeG96b0xPTlJ0ZWEySlNZdFE4WTVwTmc?oc=5"
+  },
+  "gnews_inter_miami#11": {
+   "outlet": "Google News — Inter Miami",
    "title": "Black night for Inter Miami! Messi’s team is thrashed 3-0 at home by Columbus Crew and is now on the ropes in the Playoffs - Tribuna.com",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclBTaHZ1d0szTFEzTkoyRWlDZ3ZPVzc2cndNc21WVHlST2pGbG5zb1hBamZjajcyOHRpVms0VlV0LWtnWkV6QWRKcHAxSTJNb09kLWxpMXM3WkFfZmxSbk1nZXl6dk1EMjVydEN3UE1PRUd5Zm9ici1VVFdmSVh0dWw3NlRwTEg5Z2FGdDRqZjFpaWp6MGtJdDJ0REM3bGJ2R0ROX0VtSWFUOU16VkZuUk1rTGdnUmhnUVBHckx5UWd6Wm85MVE1MNIBzgFBVV95cUxOLTAyRWlxVWI4MGRfNTR2UTl4TFpjbThrc292NmJYamhkRDhvWmpodG91YnlwSFFjaE1sYlRuYXNOSko3WnBGMWxoSzZVeXhCdDZPdGpxblJCbzB4ZlpEUmh4d2lxeTlFakRBRl9XR04wdlZrY1hOejBBdmI4YU1oWFQtQVNzQXp0NmZhWWdLa2ZBVl9UWmxCWEVRSDBqM2dZcmQzem5WcnVrdXhKM3E2QXo3bmJ3OW1adktqN2xORVJ6c2Rhd1M5WGtWTEs3QQ?oc=5"
   },
-  "gnews_inter_miami#11": {
+  "gnews_inter_miami#12": {
    "outlet": "Google News — Inter Miami",
    "title": "Columbus stun Messi’s Inter 3-0 in playoff opener - Jamaica Gleaner",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPem4talFMTmduYkthbEVsd1ZrR1RLUHdoMjJUOUZDMFdRa3RjU0NUVFl5aXhwT1haR3Nfajdwa3BvUldnNmdJWElWaF9qZkl5NmhXbnVRS19FZXhpcEM1SS1RWG52QzZMNzAwZTZrUkFEb1N3VExrS08yQWRkZ3R1Q3pMRDRudzJlc1FzSzk3cHRMbnRwTURUT0FIQ1NlUQ?oc=5"
   },
-  "gnews_inter_miami#12": {
+  "gnews_inter_miami#13": {
    "outlet": "Google News — Inter Miami",
    "title": "WATCH: Lionel Messi throws ball at opponent’s face during Inter Miami vs Columbus Crew clash, escapes red card - Sports Tiger",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEVWSGJJbDV0eDdlYlpEZXNzR0tLb2pwN1N3VTJSLUJpVmRQalp6d1ltVDJvemY4MUZCUG9lWjZoTUhpTFEwWGVzaUdQbklIM1l3MUdSVGhzVnU2M0VsVHVsZEFmdk1YdjZaRDktNXJma2tSUDFHU2k3U1BZS0VpS21kZnZkZVJ4WmRwRTI2UWw5N0VIOGFyT29zdk9IQjNDTVoya1lTRTZ2bTlIemhNdEhvQnpZTFBUd2VsZE1BeXZKZ1lUcTJCN2xUZFM4WEZXaXRJNW9jRHZUcUtXdmc?oc=5"
   },
-  "gnews_inter_miami#13": {
-   "outlet": "Google News — Inter Miami",
-   "title": "WATCH: Lionel Messi avoids red card as Inter Miami lose 3-0 to Columbus Crew - Sportskeeda",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjRSVUJBVkQwMHN1TTFpRnJUWml1dXg0NFhCb05tbGd2a0ZSRjNGaHRRaG1COThPNW9URnNIRUZrMVBua1ZtRmxCMTJ1bVRqYzRoZnNkLUU4VnFTbVJrdmFaOTA2bzl6UWFuemNPaWlvU3BBQmVucThETmtLZUR0YTN1eVM1MUxyRUxYQzROOGJYek1DdmJqRmFlV1VSTG42V051MnIwdFRHdjdrc2dpZQ?oc=5"
-  },
   "gnews_inter_miami#14": {
-   "outlet": "Google News — Inter Miami",
-   "title": "Columbus Crew Stuns Inter Miami With 3-0 Win in MLS Playoff Opener - Asianet Newsable",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnQ3Q3ZfeFNsajl2N1JBX0FTWU9iSmZwWVBuMDR2cm5VWTJ0WTZoVWFpU0w0bHBFZHRtdndKOUswdmlkVGstTGk4UWw3VllqUGdBdl8xNnN2S2tVTzVNX3pKdnJ4LWNhc0FEVWZwLW52dU1Ua1dwaU1oRWJ6WkZ0NVBLX3Q1alA0SVhMZlItQ0VhbVJvVHFNNkF2cFExQ3NkVElobjVyVzNaSVJ2cWNSVzd1TS02SmhqZ0JsY2s5NDlKX3FM0gHKAUFVX3lxTFB4VlJfai11Yi1YU3hqcW1sM1FPQ2JjM1V6Sk1mODk5VGtHNWVwWW5GYWxCYlBGOW11N3dGRV94Zk9CR0x5OWE5bnVRWGhuY2VsX3AybFd4WTFyWXlVb25NV0FnclBxWkxLbWIyRFlyYmVvbTNNSnRGTkE2NDd5bjkyMjk1c2QwNGtGaFpIUGVRU1BSU3dPU3dKOUVUMzM1Z0huTlFKaDhFN0YtVHlRalI2TE42eUl3Y0w4dlhpNjRCd2RxaTFTUV80YWc?oc=5"
-  },
-  "gnews_inter_miami#15": {
    "outlet": "Google News — Inter Miami",
    "title": "Messi's Inter Miami suffer 3-0 humbling against Columbus in MLS playoff opener - Big News Network.com",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2l4V3ZhSTRRUXRjX0U3WFFDYVBBdEtSWEdqVTRza0cwU1VUdUFybllfX0JJdHNMOUhhNHVOTlctdWxBcXlvRFdzWmJYRjh6YXBKbmROYmp3MVZKTW1mV1VqNFU2Tk5MU3l4R2ZVaXRhTG5lSlY2ci1YZnUtWEwwWG94SnBDa1RBWjRDODlsdGRRdkY4aHd0NnZnZTNKa1lGZ0NCRXdKSm1UY1NtZ1RnREZiVG40aXJCcU9ZZDluUQ?oc=5"
   },
-  "gnews_inter_miami#16": {
+  "gnews_inter_miami#15": {
    "outlet": "Google News — Inter Miami",
    "title": "Inter Miami suffer 3-0 playoff defeat to Columbus Crew - Daily Observer",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YbFlWWlE2STl3WU15U2ZDa2ZJQ3ZuZ3kxcEdJZnZfSmE2VUZQQ3lZUXA3QzdxVnFidmVlZklodjBmcnV2NTh1V2Fn?oc=5"
   },
-  "gnews_inter_miami#17": {
+  "gnews_inter_miami#16": {
    "outlet": "Google News — Inter Miami",
    "title": "Lionel Messi Faces Backlash After Controversial Incident in Inter Miami Loss - Yahoo Sports",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjE5ZVFQZUdoT0w3YjdrQi1kdDJNM2tvWWUtdEJCcUZNRG9ib0o4Tkh0dlhuZ24yaWhmMHBsY2VGSERLOG5XbEVibVhfQWJodUlHREw0by1KVlZxUlE1R2lZVWlGdGFYVG9jaUZndTVpbjRSaWxnd2VMWjNxdDQyRjJpNEFReWhTblZSdktYX003bXJF?oc=5"
   },
-  "gnews_inter_miami#18": {
+  "gnews_inter_miami#17": {
    "outlet": "Google News — Inter Miami",
    "title": "Inter Miami CF vs. Columbus Crew SC - Game Highlights - ESPN",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9feUE0T01ZT2t4LXpvckFHVzVodWl0Z0lCNjNVVlA2a1ZwdWYybDVpenJYNzRNXy1XQVBiV083dHhCbG5yRTNEeWFMaVRoLXI4M2VsTmF4VWhEelE?oc=5"
   },
-  "gnews_inter_miami#19": {
+  "gnews_inter_miami#18": {
    "outlet": "Google News — Inter Miami",
    "title": "Columbus Crew defeat Inter Miami 3-0 in MLS playoff opener - The News Mill",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXVRR2VLbGlhV3lLYmZ0U1RSZURkcXFoOFBMcDFWdk9FQzBwUWQxMjFMSnZEeXh4MjFhdnRoMTVoakdwdXA1ak5ENW5EZU45bW5yREdwUTBVQldRRmtBOGw4WDlwVjNta054WXNoWHFfOXJQYU5YTm9MT25CUE5uSEhFT2pYM2txenI1ZjQxaXNGMTdWSkE?oc=5"
   },
-  "gnews_inter_miami#20": {
+  "gnews_inter_miami#19": {
    "outlet": "Google News — Inter Miami",
    "title": "Columbus coach says Messi should've got red card in Miami loss: 'Everyone knows' - ESPN",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQkxFcGVqRzlqZGplX2tDdndaZ0x4MTU5RW84bkZ1MUIweGRaNlYzdjJsSXM0aUhoTlNDbmJpd19ULXV6SWxTRWl2RzJYLXVTR0NSY1ZYSzFZSW4zUXN3VG1JSVhEMWpaX3VjMmtabmk0Unp1dDRyc0Rob2U1UGNkWFo1R1VsTlJXUHUzQm1hRlByNmU3QnotZHhVaWxLUUFma2xr?oc=5"
   },
-  "gnews_inter_miami#21": {
+  "gnews_inter_miami#20": {
    "outlet": "Google News — Inter Miami",
    "title": "Inter Miami suffers a heavy defeat and finds itself on the ropes in the MLS playoffs - CiberCuba",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2hWNjU4YUtQbDR4WC1hd01lSU1oekdMWVFvQWFoWEVybnVpYkwwMVpzYTNPYW1aalBvR084UEk0OThqR3NCeG5zY05GbWV6V2hDeDBvRFlzZHNrWlZpaGxIVkwtUjQyTmVkdmt4OGxWeFg2XzJMdTI4X3JNcUstRlpBcVhXaURFVU41ZlFqb1lLNks5T3R1Q242cngtVkEzQTRJQzNEUElLQUJFRlpyRzU1QTBzSFJn?oc=5"
   },
-  "gnews_inter_miami#22": {
+  "gnews_inter_miami#21": {
    "outlet": "Google News — Inter Miami",
    "title": "Highlights: Inter Miami CF 0-3 Columbus Crew (MLS) - Yahoo Sports",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVFselNpRTgwVFNEMXRPdFIxS1F3VkF3T3JXVVh5Y2tJaG5FSXBSUWJ6SmJMTDJnbVhtYXUyckNoSGg0eVJpcGJpUER0RkxSenhsMkRiRFQyeUR5RXQ2czFPVEVkN19rbDhaenRCSXAzT1BtOHplbC04VEVrdTZrRmZ3UDFBUjM1ODZUMjJCVm8?oc=5"
   },
-  "gnews_inter_miami#23": {
+  "gnews_inter_miami#22": {
    "outlet": "Google News — Inter Miami",
    "title": "Furore over Lionel Messi after Columbus thrash Inter Miami in MLS Cup: He deserved more than a yellow card | Football News - Hindustan Times",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOV01OY05qZWtmOE5jc25wQkdERTI4TXpEZXFiVy02eU5DSnNIbVU3d2lDVUVfX25oaVhZX1pSMXN1UjlNVVlpMlFiU0kyeGhRLTVIb0tjNWctNEpfZzJqaGwyT1czUE5hQ0RyVXFJbUNMRnByRWVYcDhRZW9JTnlyR1BVZWItYTBrTmJTQ3lWcDRZNnE0c2pRRHNGeXdvR2lCTHdDdTRVZmtvTmtGUUctVnB3YlNPOU4yd0wzX2d3NlhuMV9yU2doTVFtNlRRbUplQzFMbEpnOWt6NC1TbHB6QThrZkxsNlFGbFVIdXpFb3BuV3hLeHJmY1otVzBlMFdpOXY40gGIAkFVX3lxTE9kZjg4LWFtOFBMRHA2QUgyRERVMGpOX0dDZl9IZEtyUEZkMm9pZG42SzhXZGZDVTl5SHhMWm1fRktncnNFRkw4V1MzRW1sZE5SZjZ2SEcwaTVBd3E5YmJlWjhJYzdaR08wVF9yZWs0N3JJSlRPVXJ4MHM4aWVwN0NjT2RHWVZkVnM1T0dPcl9kYkRVWDRpeklEYnFJXzNTLUJsVmI0VGs4LVlxSE52RS1VSTBYbHc1dk02ZEkxbzloa0JwUXcwdXRGeUktTG4xRUJ4Z1ZOZFltSnluLUhsdUZoWjhnbk90N3M3YzlWb21aUVlkekR2SkhweHhPd0FseTVESXppeXJtcw?oc=5"
   },
-  "gnews_inter_miami#24": {
+  "gnews_inter_miami#23": {
    "outlet": "Google News — Inter Miami",
    "title": "MLS: Inter Miami 0, Crew 3 - TSN",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45ZF9MR2tVVUpZMnZfakwyek4tQm4yTVdaMVZoTWpmRlZEb3EwMV9hOTB4U0xqSVNyZkZMM1hjTE11cms1NWVLUlo4YkxySkxWSlFPdllaVW5keWlKSlJLU1hLaHc1Z0ZoRjVxclhSbVI0ZUZESGlj?oc=5"
+  },
+  "gnews_inter_miami#24": {
+   "outlet": "Google News — Inter Miami",
+   "title": "Are Inter Miami Eliminated After Their MLS Playoff Loss to Columbus Crew? Everything You Need to Know - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTUtwRXdhM3pULXBMd0xsY1J3X1paYUhucnJBeWtVR21SNmVGSWJYUEM2TGgyQ1RURHplc2l1aXFlOTVLQ2hlT3VpVTBTSkI4UGlmMTJLdW8xdEQyQ3EwY3JrUzhXeUlrNUlzdlJIdmZoazRXQS10eUhaVnZKcEdGRHZfZTJSbXBoZEFj?oc=5"
   },
   "gnews_israeli_nba#0": {
    "outlet": "Google News — Deni Avdija / Ben Saraf",
@@ -534,128 +394,128 @@
  "geopolitics": {
   "ap_world#0": {
    "outlet": "AP — World (via Google News)",
+   "title": "College football | Latest News & Updates - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5"
+  },
+  "ap_world#1": {
+   "outlet": "AP — World (via Google News)",
    "title": "College Football Full FBS Schedule - AP News",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16eW1Td0daU1ZoSWxZbzZwUHFJZ1JQRmRnbmRLRXJPZkt4dmtLWDdfenJtZDA3WENFYnZ2eDQ4TlYxOVVGNWpCTndyLUZSSXRyVEVrSDY2QWtYOFBlQzRvcGxfd1U3WE9a?oc=5"
   },
-  "ap_world#1": {
+  "ap_world#2": {
    "outlet": "AP — World (via Google News)",
    "title": "College sports - AP News",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fSTVmVF9lbm9YLWNlRWlMU3hCTEYtNGg5X2xxZm5JLTlMSkkwS2JweXFTdDRzRnRLaVhtaG12OHhjR3hwdGVpTno2RzIwQQ?oc=5"
   },
-  "ap_world#2": {
+  "ap_world#3": {
    "outlet": "AP — World (via Google News)",
    "title": "South America - AP News",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qalY2R19ZRHJzUUQwNGczTmNoRHBuZ0hzbVBPWUNFaWFXQ2s1X0kyQjEyVUVQQXE1c2NiQjVXVkk2WGlxQkhEWXZ3R1o?oc=5"
   },
-  "ap_world#3": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Sports - Europe - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmeF9SX3lXWEItN0JCTFdxRnlzV3NWZkFZdmxsZkJsanNPNENWbXRvd3V2MXV4Q3dKdU9PY2lwR0lTX2Mwb0U5X3JlMW0?oc=5"
-  },
   "ap_world#4": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlZ4dzdCVnBlV0g5cDVCV19scWJkTG9RQWtiMng5NFlVb2VqSng0SmhxRGxLaUJ5aEgyTXRVMlpGVV9abXMwX19naG9EMlhjdEhaemxUTHM2bVhTdWc5Q09NMTR5Wk4yVmtlY2NFSHVncDdMWkhtU05keGJ6NXlGSTVKaFNlOVpsVl80QWE0T3ZQY0t5ZDB4YlNVUWdJZXJaZnJPZmFhb3I?oc=5"
-  },
-  "ap_world#5": {
-   "outlet": "AP — World (via Google News)",
-   "title": "In Ukraine, the fight to keep winter outside begins with a broken window - AP News",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjRWNURuNy1QRzlYWm0yaHlkaVh0N1RXQV9SdXNsXzc2RTJHTHlTLWszWW13OEZROEY4a0NWc0lqa2psbHZOdTQ0dkR5OFB0QkdwY3BVU0ZwRWo4UDh6NlZXX0VVTTQtalp4Z3l6azBsR1U3b21qNDZwX3NmRkFYSFBnQXIyQWU2M29VT2lCeUZLNEtybnZ3Ulh0aHF4dC1IU3QzVmJTbnJhaGxXT1hXdFpQVjhyYjA?oc=5"
-  },
-  "ap_world#6": {
-   "outlet": "AP — World (via Google News)",
-   "title": "No. 5 Duke holds off late Washington State rally to win 78-74 in California desert - AP News",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTJ2WEtyUVVZM1hoRW5yNFpHZXJRdGRmbmNibmM1NUE3MXJRQUdkU2lRRU56LUw1aGc2M3V1dnVjN3ZhT29Sa1hxR19Gc2RmNHZjbjBsSExfZXhrTEhQbFozTTN0czc0a2I3eXMwbTh4REx1LWYyU2xwNkZ5eUtKdUtZcEZvWnM0Nm5vUg?oc=5"
-  },
-  "ap_world#7": {
-   "outlet": "AP — World (via Google News)",
-   "title": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble - AP News",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWY3VjlhdTJjdlNRVE1IVC13SkQybjZZbE1RRWJXQ01VdVN1aFFQdW05emJVUFRzOXJOdVBvNGhsR1FiVjZ1UDZMNC1ndC0wTUl2SjcxWDNpNnJNNG90LUt5QzgwbGFjWmk3SjVqekRicURDMU5Vc3JCSF9BODBHZzMtSE1jYkE?oc=5"
-  },
-  "ap_world#8": {
    "outlet": "AP — World (via Google News)",
    "title": "Tennis Scores, News & Stats - AP News",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5"
   },
-  "ap_world#9": {
+  "ap_world#5": {
    "outlet": "AP — World (via Google News)",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5"
+   "title": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlZ4dzdCVnBlV0g5cDVCV19scWJkTG9RQWtiMng5NFlVb2VqSng0SmhxRGxLaUJ5aEgyTXRVMlpGVV9abXMwX19naG9EMlhjdEhaemxUTHM2bVhTdWc5Q09NMTR5Wk4yVmtlY2NFSHVncDdMWkhtU05keGJ6NXlGSTVKaFNlOVpsVl80QWE0T3ZQY0t5ZDB4YlNVUWdJZXJaZnJPZmFhb3I?oc=5"
   },
-  "ap_world#10": {
+  "ap_world#6": {
    "outlet": "AP — World (via Google News)",
-   "title": "Brad Jackson has hand in 4 TDs to lead Texas State to 42-14 romp over Washington State - AP News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamlralpBZ18teFBLRVlpYVByMk1QcHA3cWJUQmNSbHJNSGtsT3hPZTFoYU4zdm9nSE1KWC13R255WE0yV0RDT0hyWEhFeFJ0VWVpMl9jTGsyTXJHUFotU21LX3lUazlSeDNBQ1N4TF96M3JHNHdsNjIwQjREUnV2bUt4Z1RPY1hsdGFDMGwyeXdTYWg5VW1udU1zM2NUdWJGNzRuSnZB?oc=5"
+   "title": "In Ukraine, the fight to keep winter outside begins with a broken window - AP News",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjRWNURuNy1QRzlYWm0yaHlkaVh0N1RXQV9SdXNsXzc2RTJHTHlTLWszWW13OEZROEY4a0NWc0lqa2psbHZOdTQ0dkR5OFB0QkdwY3BVU0ZwRWo4UDh6NlZXX0VVTTQtalp4Z3l6azBsR1U3b21qNDZwX3NmRkFYSFBnQXIyQWU2M29VT2lCeUZLNEtybnZ3Ulh0aHF4dC1IU3QzVmJTbnJhaGxXT1hXdFpQVjhyYjA?oc=5"
   },
-  "ap_world#11": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for - AP News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0J5Zy1JLXlBTWc5d0o3OEg0dVBLMXQ0TktFb0ZHT196VEgzYVNfOFhlamNLVjdEMUlOWVFldmsxeUN1MUk0VGFDMlkxWmpCSTFIQzVaZndyeFZjanNQajh2Y2I0c3duUllpOWRTRWdPYzFXeFZRdmJJUndoSDlYUFlQZHV2bU02YWZzdm1vclMwenNYbmZpZkk1UGg?oc=5"
-  },
-  "ap_world#12": {
+  "ap_world#7": {
    "outlet": "AP — World (via Google News)",
    "title": "ANDREW DAMPF - AP News",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzWnhqQ0xMY0U0ODhZVGFnc09sdE51QThFM19FVHVSdDNFdUVISHBxSGFiRHhpLUlfSlV4NXc1cjNhbW9LLS1oVWc1aUtYMTg?oc=5"
   },
+  "ap_world#8": {
+   "outlet": "AP — World (via Google News)",
+   "title": "No. 5 Duke holds off late Washington State rally to win 78-74 in California desert - AP News",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTJ2WEtyUVVZM1hoRW5yNFpHZXJRdGRmbmNibmM1NUE3MXJRQUdkU2lRRU56LUw1aGc2M3V1dnVjN3ZhT29Sa1hxR19Gc2RmNHZjbjBsSExfZXhrTEhQbFozTTN0czc0a2I3eXMwbTh4REx1LWYyU2xwNkZ5eUtKdUtZcEZvWnM0Nm5vUg?oc=5"
+  },
+  "ap_world#9": {
+   "outlet": "AP — World (via Google News)",
+   "title": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble - AP News",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWY3VjlhdTJjdlNRVE1IVC13SkQybjZZbE1RRWJXQ01VdVN1aFFQdW05emJVUFRzOXJOdVBvNGhsR1FiVjZ1UDZMNC1ndC0wTUl2SjcxWDNpNnJNNG90LUt5QzgwbGFjWmk3SjVqekRicURDMU5Vc3JCSF9BODBHZzMtSE1jYkE?oc=5"
+  },
+  "ap_world#10": {
+   "outlet": "AP — World (via Google News)",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5"
+  },
+  "ap_world#11": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Brad Jackson has hand in 4 TDs to lead Texas State to 42-14 romp over Washington State - AP News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamlralpBZ18teFBLRVlpYVByMk1QcHA3cWJUQmNSbHJNSGtsT3hPZTFoYU4zdm9nSE1KWC13R255WE0yV0RDT0hyWEhFeFJ0VWVpMl9jTGsyTXJHUFotU21LX3lUazlSeDNBQ1N4TF96M3JHNHdsNjIwQjREUnV2bUt4Z1RPY1hsdGFDMGwyeXdTYWg5VW1udU1zM2NUdWJGNzRuSnZB?oc=5"
+  },
+  "ap_world#12": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Bend it like (Di)Bernardo: 'Olympic goal' lifts Kansas City to first NWSL title, 2-1 over Washington - AP News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUxmel9XQzE5eEpFbjd1OVY5cC13TDRMdnljT01DMzlyU3hCTnRYYVVVVlNxT2x4YXhwT3Vkbl9HY0RyeWZOVUdxelNzOWF2MVp5U3JCVS11OXNWSlhQc1BMOWJJdkVULVhUNTlkVENfTWF3WlpRZEhpX3N6Nlc4YVp4TkRLS2gtS2lET0h3bHc1OUpfSHdr?oc=5"
+  },
   "ap_world#13": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for - AP News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0J5Zy1JLXlBTWc5d0o3OEg0dVBLMXQ0TktFb0ZHT196VEgzYVNfOFhlamNLVjdEMUlOWVFldmsxeUN1MUk0VGFDMlkxWmpCSTFIQzVaZndyeFZjanNQajh2Y2I0c3duUllpOWRTRWdPYzFXeFZRdmJJUndoSDlYUFlQZHV2bU02YWZzdm1vclMwenNYbmZpZkk1UGg?oc=5"
+  },
+  "ap_world#14": {
    "outlet": "AP — World (via Google News)",
    "title": "Cossa’s 29 saves help Mammoth to a 3-2 victory over the Ducks - AP News",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc3FydGtIakd3TDVnZ1NENTZZRm5pVkkwZ3NTRkpNM2Z5WFhpOFhmSVVLVTlEa0lkS0lxdmUzNm1SRTZOMEVxXzdDUFV0ZGlqRmF3akV5Y1hvNWZ2VmQ1ai1uOUR5Y1BtcVBoaFBxT3FzYk5Tc2NraDQwWmo1TU9UZm1vUEdiUQ?oc=5"
   },
-  "ap_world#14": {
+  "ap_world#15": {
    "outlet": "AP — World (via Google News)",
    "title": "Fire at Indonesian candy factory leaves at least 3 dead and dozens of workers unaccounted for - AP News",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOai1SRjBna3BZbG5meDgxUFhOTE95V3UyTXhCZzFEdjZUNVF4cmJ5bVVPbjc2TEJ3Q1FINGc1WTQxcDNZSDAxMHE0eDNOUENDNTAyeVRUc1Q3WmtpanBPZnhsclVNTkdfRjlqaUJlOTdqV3NmVmtqYzhueWxIUUVZaENCSHNtTkIxVXM2Z2hxb05XWXFjamxDWXNUT3hCeE5Lb2lpS2lDNEdISkZnTjBlUllnZV9PUk1VOWdFcERsTHdUa3BlWU1haHk4ZnBldGZzYU04ajByRjljcFJiRTVYaHdyVkQzUQ?oc=5"
   },
-  "ap_world#15": {
+  "ap_world#16": {
    "outlet": "AP — World (via Google News)",
    "title": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5 - AP News",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2dFdXdNZjhaVHRBTXotanprQjJ0UGx0N292OE9ZOUR5RHpzdkpFS1hrVzBaUGVOVGRyMlJ1OU41cjJTTndRcDNNRFVMSUxaQUpOcTBlaldlekhfekF0cC1fVDdZX2FqLS1xVTk2azVmNkVJcE5PQWh0cmU1WEI1ekhNanh5RWxETFQ1MTdGcFJYc0NuVVg3M1V5NDhGZXJC?oc=5"
   },
-  "ap_world#16": {
+  "ap_world#17": {
    "outlet": "AP — World (via Google News)",
    "title": "Trump vows to work with Democrats to cap credit card interest rates at 10% - AP News",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHFuVnp6cHlDTXlRMnZXTHlyWGo3UWdKVHZOb0x0NWFPZmxBWFl1RWNOTVBoX0NNWlozRUxVV0tZZHlJM20td2llbkRlS1MtX29DMzZTUF9qemlJcFoxTXc4cWNsbTdCc29iRGx2ajdwdkp6OUFQU3NsMzJDdzdxVEU2VlF4QmRxVzlNYVdIUU1QU1ZRUTdXSWpiR21Nbl8zSURwbWpUQ09BUQ?oc=5"
   },
-  "ap_world#17": {
+  "ap_world#18": {
    "outlet": "AP — World (via Google News)",
    "title": "Elias Lindholm's 1st NHL 4-goal game and 1st trick with Boston carries Bruins to 7-5 win over Caps - AP News",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUtSRjZOQ1R5SndNZnEtaFdYUGxIVWhjQVU3ckVxV2hOeGJiZXQ0ZkV2c2JJbW51V1dramZVeDV5Qnk5SG1CTGVGS0ZNX29oTGNWOHdIc2V4Nk9ESnN3OWtjaUtLWGpRR1NyUjJJeUVqS04tOUprM1g5NGlRek8wUURaQklFbkdL?oc=5"
   },
-  "ap_world#18": {
+  "ap_world#19": {
    "outlet": "AP — World (via Google News)",
    "title": "Gio Lopez rushes for two scores and throws two more as Wake Forest beats Georgia Tech 50-29 - AP News",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnBqN2U0MFZHaVJMTXVuemtfYW9JaGJRaUJzQy16V2xfWnhWOWZtRk9aXzROSWo0SDkwTWZYRHVUVGdJSDlreFQzWGxCZmJrby1rSWp3Zkp5cDRkTDdTN05RUUhnaEpad2p6SHVMQW96R21CRVhrV0k0RGdvT0M3c3IwMGZLNUVUb3Z1c3JCTURUaEQzdDBOcFM4VC1ZMFBw?oc=5"
   },
-  "ap_world#19": {
+  "ap_world#20": {
    "outlet": "AP — World (via Google News)",
    "title": "LARRY LAGE - AP News",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sbzBLaV9kTmZwVFBJazJMM3pmT21sZEM5TXdmSElHcTRuR2dUQTF0cW90UGNmd1g2eVNBVVY0VDh5Q2dZZUFDZ3ZULWo?oc=5"
   },
-  "ap_world#20": {
-   "outlet": "AP — World (via Google News)",
-   "title": "United Kingdom - AP News",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1S1E0YzFJODBqN1ZPb0tyeFlzUW5JVTBXSHZDMjlBUk1CWlFMYzktUk53YTVVREc5MkxNSVFLcC0yc3JHY19QXzVlTFVNdw?oc=5"
-  },
   "ap_world#21": {
-   "outlet": "AP — World (via Google News)",
-   "title": "Fletcher's 3 TD runs lift No. 5 Miami past Virginia Tech 28-20, 'Canes clinch spot in ACC title game - AP News",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFFfTWhHdjRSMy1Ic1d6UXFNS21aZkZHb0ZpY09ZM0xOcU10dXkySXpRNHp5azhmcFZBS0oxMVhNdTJFTE5MWkpqa0Nob1NXbW9mOC1ULTFDYUFGT28zT2xzclhHazZuSFJJQk94UF9JLTRKWV90MWw3amZOV1laWTNsb0pWeWJjR1NZcmpn?oc=5"
-  },
-  "ap_world#22": {
    "outlet": "AP — World (via Google News)",
    "title": "Victor Wembanyama has 50 points, 19 rebounds on dominant night as Spurs roll past Pelicans, 114-91 - AP News",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0RPNXlITi1ibGFzei1QT1c0YURoTDl1X0hMMW9paDR3bHhoTU1tdU8yMHR5WVNiZWlFbXI1cWpMZXpjUThJdDdHeUlUcWxEUXc3Y0g4NzdwelEtdEptc1B2RkhLb29aVnprVlVqR2Z4RzNGb05tTTJnQzFtd3RieDhzcUVCQ1RlZnVJVFJ1MjJvMTRVemRvLV9icw?oc=5"
   },
-  "ap_world#23": {
+  "ap_world#22": {
    "outlet": "AP — World (via Google News)",
    "title": "Neighbours has 5 assists and Blues chase Hellebuyck early in 9-6 victory over Devils - AP News",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTE9rdjZzbE5yeG9vc3dNeEZmdlZVZGRPQjVCR1VvVjJrdEN1UEFUeGZNdDdqNHFneUFGWUFfUWgwM0V4UEs2X25HcFhsOWxoMmQ0d2RSd2VvbzllQnFYUjZKdUdjYTBySHgzTUswTVAxVzhBLVptSEwxUHpybjA2UkJQNWZldmd3V3UwRHpET0VoNDRQODE5LUJDTWR1dEpJOGc?oc=5"
   },
+  "ap_world#23": {
+   "outlet": "AP — World (via Google News)",
+   "title": "Brunson scores 30, Bridges hits 3 at buzzer, lifting Knicks to 97-96 win over Trail Blazers - AP News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkpDdWdyV2xtTzd4aDJ4X1d0VktYbmdTVGVzTXUyWDAzUHRVUWUwQ3hSN2c2ZUZGNFBoZm9GM2kzdHRiM2w1N2JpZDA1SVhLazN4a2NiaXcyMUhQMXFCVkszdEg3YmVLZ2psajZ1bmJNSEZWQmNXSWktbzRzWWI2YTZCWC1yc3BnZUZybUVqcw?oc=5"
+  },
   "ap_world#24": {
    "outlet": "AP — World (via Google News)",
-   "title": "DiBernardo’s ‘Olympic goal’ lifts Kansas City to its first NWSL title, 2-1 over Washington - AP News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUxmel9XQzE5eEpFbjd1OVY5cC13TDRMdnljT01DMzlyU3hCTnRYYVVVVlNxT2x4YXhwT3Vkbl9HY0RyeWZOVUdxelNzOWF2MVp5U3JCVS11OXNWSlhQc1BMOWJJdkVULVhUNTlkVENfTWF3WlpRZEhpX3N6Nlc4YVp4TkRLS2gtS2lET0h3bHc1OUpfSHdr?oc=5"
+   "title": "United Kingdom - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1S1E0YzFJODBqN1ZPb0tyeFlzUW5JVTBXSHZDMjlBUk1CWlFMYzktUk53YTVVREc5MkxNSVFLcC0yc3JHY19QXzVlTFVNdw?oc=5"
   },
   "bbc_world#0": {
    "outlet": "BBC News — World",
@@ -669,118 +529,118 @@
   },
   "bbc_world#2": {
    "outlet": "BBC News — World",
-   "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
-  },
-  "bbc_world#3": {
-   "outlet": "BBC News — World",
    "title": "Three killed and dozens missing after fire at Indonesian factory",
    "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#4": {
+  "bbc_world#3": {
    "outlet": "BBC News — World",
    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
    "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#5": {
+  "bbc_world#4": {
    "outlet": "BBC News — World",
    "title": "FBI reportedly investigating apparent hack of its criminal database",
    "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#6": {
+  "bbc_world#5": {
    "outlet": "BBC News — World",
    "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
    "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#7": {
+  "bbc_world#6": {
    "outlet": "BBC News — World",
    "title": "How a teen gamer and his mother helped rescue a missing girl",
    "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#8": {
+  "bbc_world#7": {
    "outlet": "BBC News — World",
    "title": "Lock of former US President George Washington's hair sells for $4,000",
    "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#9": {
+  "bbc_world#8": {
    "outlet": "BBC News — World",
    "title": "Russia-bound ship attacked in Gulf of Finland",
    "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#10": {
+  "bbc_world#9": {
    "outlet": "BBC News — World",
    "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
    "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#11": {
+  "bbc_world#10": {
    "outlet": "BBC News — World",
    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
    "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#12": {
+  "bbc_world#11": {
    "outlet": "BBC News — World",
    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
    "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#13": {
+  "bbc_world#12": {
    "outlet": "BBC News — World",
    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
    "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#14": {
+  "bbc_world#13": {
    "outlet": "BBC News — World",
    "title": "Trafalgar Square Christmas tree felled in Norway",
    "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#15": {
+  "bbc_world#14": {
    "outlet": "BBC News — World",
    "title": "Man convicted of starting Palisades fire in Los Angeles",
    "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#16": {
+  "bbc_world#15": {
    "outlet": "BBC News — World",
    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
    "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#17": {
+  "bbc_world#16": {
    "outlet": "BBC News — World",
    "title": "ANC fights to keep control of South Africa's key cities after election setback",
    "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#18": {
+  "bbc_world#17": {
    "outlet": "BBC News — World",
    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
    "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#19": {
+  "bbc_world#18": {
    "outlet": "BBC News — World",
    "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
    "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#20": {
+  "bbc_world#19": {
    "outlet": "BBC News — World",
    "title": "US declassifies more UFO footage filmed in the Middle East",
    "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#21": {
+  "bbc_world#20": {
    "outlet": "BBC News — World",
    "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#22": {
+  "bbc_world#21": {
    "outlet": "BBC News — World",
    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#23": {
+  "bbc_world#22": {
    "outlet": "BBC News — World",
    "title": "French police officers sentenced for beating of music producer Michel Zecler",
    "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
   },
-  "bbc_world#24": {
+  "bbc_world#23": {
    "outlet": "BBC News — World",
    "title": "What the new UK-EU deal could mean for future post-Brexit relations",
    "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss"
+  },
+  "bbc_world#24": {
+   "outlet": "BBC News — World",
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
   },
   "economist_intl#0": {
    "outlet": "The Economist — International",
@@ -981,257 +841,257 @@
  "israeli_politics": {
   "haaretz_he#0": {
    "outlet": "הארץ",
-   "title": "חואקין קסטרו: \"לא נתמוך בשום מדינה שברשותה תוכנית חשאית לנשק גרעיני\"",
-   "url": "https://www.haaretz.co.il/opinions/2026-11-22/ty-article-opinion/.premium/000001a2-01f6-d175-abf6-1ff64afc0000"
+   "title": "מרק תירס קרמי עם פלפל קלוי",
+   "url": "https://www.haaretz.co.il/food/soups/2026-11-22/ty-article-recipe/000001a2-02a3-d175-abf6-1eb7272a0000"
   },
   "haaretz_he#1": {
    "outlet": "הארץ",
-   "title": "צבוע נכנס לבית במודיעין והרג כלב; העירייה: רשות הטבע והגנים לא מטפלת בעניין",
-   "url": "https://www.haaretz.co.il/nature/2026-11-22/ty-article/.premium/000001a2-0261-d9ff-a7b6-93ef18e50000"
+   "title": "מרק תירס בתיבול הודי עם יוגורט",
+   "url": "https://www.haaretz.co.il/food/soups/2026-11-22/ty-article-recipe/000001a2-0287-d9ff-a7b6-93af134a0000"
   },
   "haaretz_he#2": {
+   "outlet": "הארץ",
+   "title": "חואקין קסטרו: \"לא נתמוך בשום מדינה שברשותה תוכנית חשאית לנשק גרעיני\"",
+   "url": "https://www.haaretz.co.il/opinions/2026-11-22/ty-article-opinion/.premium/000001a2-01f6-d175-abf6-1ff64afc0000"
+  },
+  "haaretz_he#3": {
+   "outlet": "הארץ",
+   "title": "צבוע נכנס לחצר בית במודיעין והרג כלב; העירייה: רשות הטבע והגנים לא מטפלת בעניין",
+   "url": "https://www.haaretz.co.il/nature/2026-11-22/ty-article/.premium/000001a2-0261-d9ff-a7b6-93ef18e50000"
+  },
+  "haaretz_he#4": {
    "outlet": "הארץ",
    "title": "איזנקוט על הפוסט ששיקלי שלח לשירה שפירא: \"שימוש ציני בזכר הנופלים\"",
    "url": "https://www.haaretz.co.il/news/elections/2026-11-22/ty-article/.premium/000001a2-0256-d02c-a7ea-9f5635cc0000"
   },
-  "haaretz_he#3": {
+  "haaretz_he#5": {
    "outlet": "הארץ",
    "title": "הפסקתי להאמין באלוהים, ומאז קשה לי למצוא משמעות",
    "url": "https://www.haaretz.co.il/blogs/hakirot/2026-11-22/ty-article-magazine/000001a1-e9ff-d9ff-a7b5-f9ff62b50000"
   },
-  "haaretz_he#4": {
+  "haaretz_he#6": {
    "outlet": "הארץ",
    "title": "מנצ'סטר סיטי נתקעה, ארסנל מעדה - וברייטון יכולה לחלום בגדול",
    "url": "https://www.haaretz.co.il/sport/world-soccer/2026-11-22/ty-article-magazine/.premium/000001a2-0013-d175-abf6-1e378bb20000"
   },
-  "haaretz_he#5": {
+  "haaretz_he#7": {
    "outlet": "הארץ",
    "title": "אחמד טיבי הגיע לרוני קובן, ולשם שינוי לא נדרש רק לגנות ולהצטדק",
    "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-11-22/ty-article/.highlight/000001a2-01dd-d15f-a5eb-4fdf76000000"
   },
-  "haaretz_he#6": {
+  "haaretz_he#8": {
    "outlet": "הארץ",
    "title": "פאולו בולגארי, שניהל במשך עשורים את בית האופנה שנשא את שמו, מת בגיל 89",
    "url": "https://www.haaretz.co.il/gallery/fashion/2026-11-22/ty-article/000001a2-0222-d6a0-a3af-ebaa1a610000"
   },
-  "haaretz_he#7": {
+  "haaretz_he#9": {
    "outlet": "הארץ",
    "title": "יו\"ר בית הנבחרים הנכנס: המהלך הכי דחוף הוא לשים סוף למלחמה באיראן",
    "url": "https://www.haaretz.co.il/news/world/america/2026-11-22/ty-article/.premium/000001a2-01dd-d175-abf6-1ffd09d60000"
   },
-  "haaretz_he#8": {
+  "haaretz_he#10": {
    "outlet": "הארץ",
    "title": "עמוס רגב, עורכו הראשון של \"ישראל היום\", מת בגיל 75",
    "url": "https://www.haaretz.co.il/gallery/media/2026-11-22/ty-article/000001a2-0219-d33a-a3e6-13df0f9f0000"
   },
-  "haaretz_he#9": {
+  "haaretz_he#11": {
    "outlet": "הארץ",
    "title": "דני אבדיה קלע 20 נקודות בהפסד פורטלנד לניו יורק; ויקטור וומבניאמה קלע 50 נקודות בניצחון סן אנטוניו",
    "url": "https://www.haaretz.co.il/sport/nba/2026-11-22/ty-article/000001a2-01ee-d381-ade7-6bef92410000"
   },
-  "haaretz_he#10": {
+  "haaretz_he#12": {
    "outlet": "הארץ",
    "title": "במדינה ששקעה בפולחן מוות עיתון אחד ניסה לקדש את החיים. בשל כך הוא חוסל",
    "url": "https://www.haaretz.co.il/news/world/europe/2026-11-22/ty-article/.premium/000001a1-ffbd-dd09-a5bf-ffff4bc30000"
   },
-  "haaretz_he#11": {
+  "haaretz_he#13": {
    "outlet": "הארץ",
    "title": "\"האלטרואיסטים\" אינה עמוסה בהברקות, אבל רלוונטית לימינו",
    "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-11-22/ty-article-review/.highlight/000001a2-00c4-df71-ade3-48e67cb50000"
   },
-  "haaretz_he#12": {
+  "haaretz_he#14": {
    "outlet": "הארץ",
    "title": "מוזיקה לעיניים",
    "url": "https://www.haaretz.co.il/blogs/photoblog/2026-11-22/ty-article-magazine/000001a1-f4bd-d287-adbb-f6bfa20a0000"
   },
-  "haaretz_he#13": {
+  "haaretz_he#15": {
    "outlet": "הארץ",
    "title": "מתנחלים הציתו והשחיתו רכוש בכמה מוקדים בגדה",
    "url": "https://www.haaretz.co.il/news/politics/2026-11-22/ty-article/.premium/000001a2-0180-d381-ade7-6be13a4b0000"
   },
-  "haaretz_he#14": {
+  "haaretz_he#16": {
    "outlet": "הארץ",
    "title": "איראן נאלצה להתפשר עם עיראק כדי לשמור על המיליציות הסרות למרותה",
    "url": "https://www.haaretz.co.il/news/world/middle-east/2026-11-22/ty-article/.premium/000001a1-ffbf-d9ff-a7b5-ffbfd7500000"
   },
-  "haaretz_he#15": {
+  "haaretz_he#17": {
    "outlet": "הארץ",
    "title": "הפוליטיקאי שבנה לעצמו תדמית של איש ברזל שאינו חושש מאיש – רועד מפחד",
    "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-11-22/ty-article/.highlight/000001a1-ff91-d02c-a7eb-ffd342850000"
   },
-  "haaretz_he#16": {
+  "haaretz_he#18": {
    "outlet": "הארץ",
    "title": "לאחר שנכחד בישראל, הראם הלבן שב למדבריות הנגב. אך הדרך להישרדותו עוד ארוכה",
    "url": "https://www.haaretz.co.il/news/numofweek/2026-11-22/ty-article/.premium/000001a1-ded5-d1ce-a9a3-fed7875b0000"
   },
-  "haaretz_he#17": {
+  "haaretz_he#19": {
    "outlet": "הארץ",
    "title": "הגינקולוג יישפט מחדש, אך הטעות בהליך לא משנה את העובדה שאנס מטופלות",
    "url": "https://www.haaretz.co.il/news/law/2026-11-22/ty-article/.premium/000001a1-fe55-d02c-a7eb-ff57cd180000"
   },
-  "haaretz_he#18": {
+  "haaretz_he#20": {
    "outlet": "הארץ",
    "title": "ניצבים במשטרה למפכ\"ל: המשטרה מתפרקת, אין קצינים בתפקידי מפתח",
    "url": "https://www.haaretz.co.il/news/law/2026-11-22/ty-article/.premium/000001a1-fe56-dad7-a9fd-fe5f31eb0000"
   },
-  "haaretz_he#19": {
+  "haaretz_he#21": {
    "outlet": "הארץ",
    "title": "הכנסת תחל השבוע בדיונים בוועדות לביטול חוקי ההפיכה המשטרית",
    "url": "https://www.haaretz.co.il/news/elections/2026-11-22/ty-article/.premium/000001a1-fda5-d175-abf5-ffb56dc30000"
   },
-  "haaretz_he#20": {
+  "haaretz_he#22": {
    "outlet": "הארץ",
    "title": "\"פשעים ומעשיות\" היא דרמת פשע אירית מהנה, מקורית ומלאת חמלה",
    "url": "https://www.haaretz.co.il/gallery/television/guide/2026-11-22/ty-article/.premium/000001a1-f459-d470-a3bd-f659f1fd0000"
   },
-  "haaretz_he#21": {
+  "haaretz_he#23": {
    "outlet": "הארץ",
    "title": "זה היה אחד הדברים הכי מוזרים שקרו לי בסקס",
    "url": "https://www.haaretz.co.il/family/askingforafriend/2026-11-22/ty-article/.premium/000001a1-e3d0-defb-a9b9-fff16b180000"
   },
-  "haaretz_he#22": {
+  "haaretz_he#24": {
    "outlet": "הארץ",
    "title": "למה אנחנו כל כך אוהבים את השיכור הבטלן שפתאום הופך לאבא?",
    "url": "https://www.haaretz.co.il/family/2026-11-22/ty-article-magazine/.premium/000001a1-bfd9-d1cd-aded-bfdbcbe30000"
   },
-  "haaretz_he#23": {
-   "outlet": "הארץ",
-   "title": "חוקרים מצאו את \"הרעש הוורוד\" של שיחה טובה, דפוס שמופיע גם בפעילות המוח",
-   "url": "https://www.haaretz.co.il/health/brain/2026-11-22/ty-article-magazine/.premium/000001a1-e971-d848-abeb-fbf94b600000"
-  },
-  "haaretz_he#24": {
-   "outlet": "הארץ",
-   "title": "קשה להאמין ש\"מסעות גוליבר\" פורסם לפני 300 שנה, ולא כיום בישראל",
-   "url": "https://www.haaretz.co.il/gallery/literature/2026-11-22/ty-article-magazine/.premium/000001a1-dea5-d508-a3bf-dfef6f7e0000"
-  },
   "kan_news#0": {
+   "outlet": "כאן חדשות (via Google News)",
+   "title": "סגן מפקד הבסיג' באיראן טוען: דיוק הטילים השתפר עד לפגיעה מילימטרית - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2pxQVhUY1RacVdTUUN3Qm52WGU1bW4xNEYwQ1oyd1JWRHhjdnhvamRWY240NHVEM1prdUNxMXBKTlM4amIyRDY3MDVlT3c2MjYyMlRKcEQ0UTJiekF3em0yN3F2QlUtWFJadXl2QzNmM2t1N2hvMHNBXzI5Tm9TclZB?oc=5"
+  },
+  "kan_news#1": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "יועמ\"שית הכנסת: לח\"כ קריב ניגוד עניינים בעניין חוק היועמ\"שית - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SMEVveGtJRU1DSTB5WW1DekFWaUlnVnR0YkQzcTY0X2ZtV2xPSG80QjFRWWZIN29iaU5zb1VaNVBjeWRqdFJkU1VIWG56Vk5DeHZnQ2RpcWlTXzJUZVBITWJ5clM4ODVUUDZIUWVB?oc=5"
   },
-  "kan_news#1": {
+  "kan_news#2": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "יועמ\"שית הכנסת: בשל ניגוד העניינים שלו, ח\"כ קריב לא יוכל להוביל את הוועדה שתדון בפיצול תפקיד היועץ המשפטי לממשלה - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnlPcUtIZ19SNjhSU2c3bUI3djI3TEFvSTQ1WHdKWFp1aUtPZ3RGczk1LXdnWURvXzg5VWdoZ2JKSEhlblVnOGdRZnRBMkw2Ylg5bzVQWC1nVXFveHNSWl9LY3hKZ0lOOVZ0X0t1Ui1zSlZuQzZpZlhSRDhKRGJtNkJB?oc=5"
   },
-  "kan_news#2": {
+  "kan_news#3": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "שעון כיס שנמצא על גופת נוסעת הטיטניק נמכר ברבע מיליון ליש\"ט - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LN3gyb0hlOElqOWhILU9fZnAtaVZkSXhGRTdMNEZieGFBM0RGaVotdE9rWkhBUm1RRElzR0pVU3EtbUo4dHFYeFcyVVlKUDUxZzZMTDA0YjVDb1NnOUNIbGRnR19Jdw?oc=5"
   },
-  "kan_news#3": {
+  "kan_news#4": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "בארגון לרפואה וטרינרית מתריעים: \"הכלבה לא חלתה בכלבת - מקור ההדבקה אחר\" - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wSlVESkZfVWt1WnJCUDItWUtwUnpDRjFub3NvV0FmV3ZpZnh5bUVyYW94WTFXcm1CLW84RkNlRThXdWZsSUxIcjJOemNWVnlTZTFlSmV3RlpaNnFEVWpkT2JFVi0?oc=5"
   },
-  "kan_news#4": {
+  "kan_news#5": {
+   "outlet": "כאן חדשות (via Google News)",
+   "title": "לחברה שלי יש סולם - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzY0NZS1hSZ1FqVGNIN3FPOGdMNGV0U3h2dEphM1VocXJMWFFFamlsZGNObmxzWGlXOEhkNkVrZHRhU0syc05pb3BXOUtOR0Y3YTN1OUtpcmFNcWZKd1M3Y1dPY1FUekNDdkNn?oc=5"
+  },
+  "kan_news#6": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "תיירת מטורקיה נעצרה בהר הבית בחשד לתמיכה בטרור - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EbEgwSVBXWEhieUJFS0k1Vmp1bEhETjBwU01MLTRkUzY0ZTREMVZiNmpIME5VSXpXSkU3cGt6cWIwd09CLVktaVRJSnRFOUxCVFV6aTg5Z3dhM1ViN3lMSFV4T2hHQk0?oc=5"
   },
-  "kan_news#5": {
+  "kan_news#7": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "צעיר זה לא לנצח - פרק 1 - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ3cyNlFqMlZiaUlYQldKZS1ISHkxMUpVWkxyZmlRcENJN1MyaVhxODNrX21CSDZncTd3QS1HYTFCd2YtWDc3QVJfaDRfVFRkZTBiak9PTFFRZ0xRdGhIRENwLWlRampNdlZHaUpfdWVjZTBOOVpmdEM0RE92aDBRamdSWTJKalRJNzJCRmtlazh2LUE5dW5ETXFleTgtYm5XNjlQaG01Skkyc3ozbU93VzhfM0tFOWx1QWZ4UlJjQUVqeTM0TG9LUGpvR1Q3YV9H?oc=5"
   },
-  "kan_news#6": {
+  "kan_news#8": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "צה\"ל חשף את זהות מחבלי הג'יהאד האסלאמי שחוסלו אתמול בעזה - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0hDYUNZbDRXNk45TURYWFI3MVY3QkR2eUZad2dnS1Fha2psd0k2TUlXSFBuX1FoQXhIMXZ5NXNpd01GdHhySW16MWxubks0cGY0N21rYU9XSlZtZlhCcG5HakFzbUl1NGhRajVWQ1R4YUUycmRYTGRWWXJCRzNKUUp3?oc=5"
   },
-  "kan_news#7": {
+  "kan_news#9": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "צעיר זה לא לנצח - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0pGbnlLZHlyNzNTQmQwTkRKZm5OM2FNU1RDN1NkWXhpTzVVb2xtcVp6OG0tNjd6bWE1UmhrOVpUXzRNcHFkMnZSTHpHNzdPLTYzYm1WU2FhM0ZfS295aDJZay1LUnRzc0tpX3RadmtqVEFtZzRocTJ3NXk1MEN2ek50WDVIWXlScEhpM0k2T0tQSE1QOC14UjNqamh0XzhrODJYUFh0V3VDV2FZNWVsRldON2QxVGJaMENjbHpjTDFfYm5sbkE?oc=5"
   },
-  "kan_news#8": {
+  "kan_news#10": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "יו\"ר סיעת הציונות הדתית: \"אני נגד חרמות על נתניהו, אני גם נגד חרמות על איזנקוט\" - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRkZ3M2JVbHRPWFNaLXhBcGpVOHdsaWtKR0RMc0lGMWFTeWdsTlprU0EyZkhCd3JpaDlrWnJVQzZCQlJjbXVhRUNHWTdITFZLMVgwdFlZZF9vZERvaHdLTFVOTC1hS3F2bUMtYUU2cF9QZHl6N1lfUTVRWHFXaS1xR0xR?oc=5"
   },
-  "kan_news#9": {
+  "kan_news#11": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "האם ישראל בדרך לבידוד כלכלי? - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVklKdEF3OUstSGFEZm1TTnZZLUVybmZ0WGh1VjRhLXBvaFBZckh4VVNFQ0dSY2cyVjNpYm9rOGsya1JVdnNoejVNck9qeHJaZTEtTXowMkIxbVlXTFFYYVkzNVQ?oc=5"
   },
-  "kan_news#10": {
+  "kan_news#12": {
+   "outlet": "כאן חדשות (via Google News)",
+   "title": "דן מרידור: לפסול מראש אדם בגלל הלאום או הגזע שלו - כיהודי זה מבייש אותי - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0lCYjNsSFotTlc4Rll5MzBxdTltLWRFcEFmSTFhdWNLaGI4YXVnUktCdUUyUEUxaVd6cG5yYnNUZ0FWdnFnaldSdDBpZzN2Y25vTXd6eDhBNzZzalhpWkNTdENZdU5rcG5Pb1BwT1pnYkpUM3NlMWY1SzJBbEJSRUNn?oc=5"
+  },
+  "kan_news#13": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "חשד לחמישה פשעי שנאה הלילה נגד פלסטינים באזור יהודה ושומרון - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14OHRJakV1TXBhYjNqWDVlZkFmaTA3clNQY1BNYm5td3RKTERmZ0NQc2hVTGFwN3JfVnNKTTZiblVrbXpnVmkwV0dvN1pxazNLVWJpMkNEcjFyekEzU2FzZXNLSkxSMGc?oc=5"
   },
-  "kan_news#11": {
+  "kan_news#14": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "צה\"ל: 70% מפצועי הלחימה בשלוש השנים האחרונות חזרו לשירות - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNkFvWWtwc0JRNWM4S3kzUXA5VjVwb1pUN00zbW4xakU1cXlqSG9KOWlPRU5Nbmsxd3NVelBtaXFiYzJHTS1EeEUySTRhMWNYeUQzTzhERHRUcUpqZkhqdnJpN0ZkSXFqamFXM1FPeWlVTWRjVmlVSHYyZE8tTXR4RnFB?oc=5"
   },
-  "kan_news#12": {
+  "kan_news#15": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "צה\"ל חשף את זהות מחבלי הג'יהאד האסלאמי שחוסלו בעזה - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWOGctZXhLdG01Vk5RaVg3aVo0bFlFVlAxQ0JrQ2VFMUQ2MTQxSmphbmNmQTluajJxZDNIVi1PNkhya0duaXlSM2RaM1VjTDFabW1ZTllSQWl3SnVLZVBGVTZHT2JlaF9RRmpCekZn?oc=5"
   },
-  "kan_news#13": {
+  "kan_news#16": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "21.11.2026-הנוסע המתמיד - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwODlGNW9pZTR0LWdKSVNPaEJIREZWQnZ2cDdhQ1pMTGRfdnBSYWpOcnJEcFBOUE8yTksyVTJUQ3hpcm5MOXFUbGs0djU1WFBXd3h2V3VXMldlSWQ1ck5Zb1VOeWpDT3dMcWdkVzBmTVFnbmJrcDEtLQ?oc=5"
   },
-  "kan_news#14": {
+  "kan_news#17": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "מה יקרה אם יוטלו עלינו סנקציות? - כאן 11",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tY3ZRRFdTU3FHdlB6bVZ0STZsbGEzQU9qVFVKeXVQLVVNZEs4dkFoVUQ0SkFKRGR3aG1EbTVISWxUMHZDVXJpNDlQM1FneHZkYlVVWXdCVTZ4Q2lCMDJpUHVUNFpFUmV1QzF0X1ZKdw?oc=5"
   },
-  "kan_news#15": {
-   "outlet": "כאן חדשות (via Google News)",
-   "title": "21.11.2026-צרפתית | Kan en français - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DZHBpbFJNVTJaZDJEbGhZYUxwZ1lkUEgwVkgyUVI0aTVZcEVJZlNsLVJWUzFEWnFzaVJqMzlLb1diWjdobk9vYVRGNGdkTFFwQnNMX2xxTjFOMjdVZXVCRWhiM0dCZ1VlU0p4TnFXUnJ5Mnp5ZTlCcQ?oc=5"
-  },
-  "kan_news#16": {
-   "outlet": "כאן חדשות (via Google News)",
-   "title": "21.11.2026-מוזיקה לשבת - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XaXZYYUkzeUVMRUYyRVM2eGxHalFMemNEckpNdXpWLXN5bDY5V0VFbng5ZzF2SE9rVC1ZOWlnaER6R3NQM2hJXzl4a2hkaTVfVzFxNjRWcjlqNXlONVZ6bTRvVHd1RWR5R1RXeTczcGpZWm5tR1BvRFhR?oc=5"
-  },
-  "kan_news#17": {
-   "outlet": "כאן חדשות (via Google News)",
-   "title": "21.11.2026-Kan English News - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycDJxV1hVWmlqSzNfWkdSd29lbElBTUJ4UUFLbXdoMDcySExZSzJaUGRKZ05laW5VUnNKeW1yVVhWclBxQk5BOVZIUTVURzRPWlVYU0hMMkdOZUk2UDZCbGMzMGJFVGF4Y3hLVUVVanVvaTUyd0stMA?oc=5"
-  },
   "kan_news#18": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "21.11.2026-שיעורו השבועי של הרב יצחק יוסף - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpbmpmbmRyenYtUnViZ3Ryb2g0ZVczZ3JKdk5HWjZudjktRFFhZDNQenNHY3Fwbkp5TWJaUTdmMHM1U3otcTJYV2ZIT1BKbDdNd1NRSXFRVVl0bTZnaTBZMEVjTGhVdjBwSTZYVkVfTV9qQ1RqUTF6dXNzVTg?oc=5"
+   "title": "21.11.2026-כאן יידיש - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoZ3NRbUUyTm5ienhSRi10Z09zQjNzOWZtMG1BMFdjYXcxWXNIS3lmc1N0MDl0N2VxVFdTOENNQjQyeWFURWc4TnpQMGRPUkh6THRhVHd5QTNtNzJWNWJfMWIySWZtYi1HcU0taFREVzhyZUJGM2lB?oc=5"
   },
   "kan_news#19": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "21.11.2026-מתוק מאז - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWZTZ4RGk2OEJTaEh6dExVcDI4WnUtSElKdHc5a0p5SGlXaVFudUViQlRPajJCanBlVDBLWVdoMEdFLXNuOFRvbTZwSy1MbEVmMXB1Vi14aVlKZm1jS0w4b1Y0czRVZ2tDMFZKTGtfZVV5bGRJ?oc=5"
+   "title": "21.11.2026-יומן השבוע - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KUGlXX3k0SjZoN2JJY3RZRzZBWFJKeHBwajVaM0N4dWhmRkttbXVKNlppRS1qdzV2dzdzSzB1ZC03T3BuXzBZR0V2b1dMNjQyUzc0SXlaeVEzcko2QzVSVm9vMDdMQ0JSd1RKeE5YN0lfTFE?oc=5"
   },
   "kan_news#20": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "21.11.2026-שעת יצירה אלדד שרים ש.ח. - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tNzlSeFJ1NUtLa3FWeXNNSHR5ZUV2ei1BZ1B0aG8zN2djWHE0U0ZtUThsV0xFdlRKMHFuU0pMMnBnbWdOU0ZJRXpTRjM3SktVbUtpOE13LVhvdTRRc2VrbXd3QnlnSEM4U01UdzAzY253MmxTTlRlTi1VcmE?oc=5"
+   "title": "21.11.2026-לופ 88 - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvWGs2ancxNG9WRV82alFPMm84Ykh5MUs0SjFiNC1wU1AtSW5zN2ZDc24weC1mUEd3UFBYQzhBcWdRbWwxbUdaRGZ5YTdRczZJWnY5OHhScTRfbW01RHVvX1BZSVBqVXR3OWpPYVA2Zw?oc=5"
   },
   "kan_news#21": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "21.11.2026-לופ 88 - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42b0IxendkZFNYVUY5RDFyUVB4WDNpRUE0RDkxc1JkTjBHQVd5NF83bHAyb2MyMEE0T2lQd0hjS2tDT0IwRFFsa3JvMzNzWTBkd0VOSmFGM01QeGhJaVlDZUQ3d0Y5dlFNX1l2RS1WWVUyNm5p?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzT3B5WmgyS29ZTlNQRGdIWF9Od2VWdkpKT0dSVklOemJsaVBNM1JpNE1yVFU0bzJqVVZIRlRLTTVBVWhRRmg4cmo3ZnppeEl0QmJST1pmTWVNVWVkeHZiY2FNNDFTOUJqS0d2WHJxMA?oc=5"
   },
   "kan_news#22": {
    "outlet": "כאן חדשות (via Google News)",
    "title": "21.11.2026-לופ 88 - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DRTN3MEJpYW55VS1UWmlleUlvOTB5NUJBaldlNjRheVpuNVM4SVhyZFZVaWtCWHJNeXpEZlRyTzNCVHk2VEVFOFhkcGtfeUFITEhCdDh2Z0R4MGFiRFVBeVVEeldhc09KOU1mTEZON0xaTFlZ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mdFFzcFJkdlRQTC1OVWtLdk5iNHp0c0ljYmREUWtaeWpnSjgwMWpfdFcxUjhDdVhsQmVzWVQzRmxzQlM0b004LWxxQ0doVlJCUjdleEVtX0lDbHAwV1NtZmxkd1pubVNzY3owb3BFR1FsbnZnSEE?oc=5"
   },
   "kan_news#23": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "הידברות - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11cU12RlhXNVpCeUNqMDRpZTZiX2plR1pOWnB4bW9TMm42Z1BndFctS3NRc20tdVVpZXRReDdjQmFUb3FkSTc2UFJ5TmdTOHpJNXV6V3RwTUZvb3pvLVBZREE5Ym5zMHRvamtlZm1WbTAyU0E?oc=5"
+   "title": "21.11.2026-לופ 88 - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DVlpqMUNiYmJIN2gycjF4dzBIS3dlTWRCZVpWQnVHWG1yUXg2aWVMdWw2LU5VcVRjcmE2ZEZKWUFPNGN5dkJIZDNuSng3bXlyc3JyNGhMQzFSM05IMXF2bkFVRzFpX0RuYXJPN05tNzQxcjdTaHc?oc=5"
   },
   "kan_news#24": {
    "outlet": "כאן חדשות (via Google News)",
-   "title": "21.11.2026-דיבור חדיש עם קובי מנורה - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QeFFXMTRLN1BsdTV3cHJzeldMTm5EVm9jVHIzdXBCZDJUS29vc2dkX1lEdDVrSUt0QWhkVzZ3NDR1TWNwclp6YXFLLVlnbHRKRXFERkpYVzVHbjJuNWdjam41VC1nZGxZQ1l6X2h1SDV6alE?oc=5"
+   "title": "21.11.2026-צרפתית | Kan en français - כאן 11",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DZHBpbFJNVTJaZDJEbGhZYUxwZ1lkUEgwVkgyUVI0aTVZcEVJZlNsLVJWUzFEWnFzaVJqMzlLb1diWjdobk9vYVRGNGdkTFFwQnNMX2xxTjFOMjdVZXVCRWhiM0dCZ1VlU0p4TnFXUnJ5Mnp5ZTlCcQ?oc=5"
   },
   "ynet_news#0": {
    "outlet": "ynet — חדשות",
-   "title": "התנפל ודקר 37 פעמים: מאסר עולם לרוצח עו\"ד אפרים ארנון בנשר",
+   "title": "דקר 37 פעמים לעיני האישה: מאסר עולם לרוצח עורך הדין בצפון",
    "url": "https://www.ynet.co.il/news/article/h1h5nqljml"
   },
   "ynet_news#1": {
@@ -1468,25 +1328,20 @@
   },
   "ft_home#4": {
    "outlet": "Financial Times",
-   "title": "The ‘austere’ conservative poised to lead Spain with the far right",
-   "url": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1"
-  },
-  "ft_home#5": {
-   "outlet": "Financial Times",
    "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
    "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1"
   },
-  "ft_home#6": {
+  "ft_home#5": {
    "outlet": "Financial Times",
    "title": "Amazon’s AI resistance: workers ready for battle over data centres",
    "url": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1"
   },
-  "ft_home#7": {
+  "ft_home#6": {
    "outlet": "Financial Times",
    "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
    "url": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1"
   },
-  "ft_home#8": {
+  "ft_home#7": {
    "outlet": "Financial Times",
    "title": "Alice Huang’s links to the chip underworld",
    "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1"
@@ -1832,6 +1687,46 @@
    "outlet": "Ars Technica",
    "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/"
+  },
+  "geektime#0": {
+   "outlet": "Geektime (Israeli tech)",
+   "title": "בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים)",
+   "url": "https://www.geektime.co.il/agents-at-work-meetup-7122026/"
+  },
+  "geektime#1": {
+   "outlet": "Geektime (Israeli tech)",
+   "title": "אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI",
+   "url": "https://www.geektime.co.il/google-changes-search-again/"
+  },
+  "geektime#2": {
+   "outlet": "Geektime (Israeli tech)",
+   "title": "טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה התרסקו",
+   "url": "https://www.geektime.co.il/wall-street-tech-stocks-ai-nvidia-crash-november-2026/"
+  },
+  "geektime#3": {
+   "outlet": "Geektime (Israeli tech)",
+   "title": "סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו בהם משהו חדש",
+   "url": "https://www.geektime.co.il/geek-events-22112026/"
+  },
+  "geektime#4": {
+   "outlet": "Geektime (Israeli tech)",
+   "title": "ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה",
+   "url": "https://www.geektime.co.il/ai-coding-agents-market-saturation/"
+  },
+  "geektime#5": {
+   "outlet": "Geektime (Israeli tech)",
+   "title": "מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות",
+   "url": "https://www.geektime.co.il/amazon-black-friday-deals-not-worth-it/"
+  },
+  "geektime#6": {
+   "outlet": "Geektime (Israeli tech)",
+   "title": "במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים",
+   "url": "https://www.geektime.co.il/agentrix-will-let-you-take-over-the-world/"
+  },
+  "geektime#7": {
+   "outlet": "Geektime (Israeli tech)",
+   "title": "סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת",
+   "url": "https://www.geektime.co.il/ram-altman-unused-memory-trolling-tool/"
   },
   "hn_frontpage#0": {
    "outlet": "Hacker News (150+ points)",

@@ -156,30 +156,24 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
     },
     {
      "ref": "ft_home#4",
-     "title": "The ‘austere’ conservative poised to lead Spain with the far right",
-     "published": "2026-11-22T05:00:06+00:00",
-     "summary": "Alberto Núñez Feijóo is on course to become the country’s next prime minister — but only with the backing of the Vox party"
-    },
-    {
-     "ref": "ft_home#5",
      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
      "published": "2026-11-22T05:00:06+00:00",
      "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms"
     },
     {
-     "ref": "ft_home#6",
+     "ref": "ft_home#5",
      "title": "Amazon’s AI resistance: workers ready for battle over data centres",
      "published": "2026-11-22T05:00:06+00:00",
      "summary": "Tech company’s plans for rapid expansion face opposition from the public and its own employees"
     },
     {
-     "ref": "ft_home#7",
+     "ref": "ft_home#6",
      "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
      "published": "2026-11-22T05:00:06+00:00",
      "summary": "Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles"
     },
     {
-     "ref": "ft_home#8",
+     "ref": "ft_home#7",
      "title": "Alice Huang’s links to the chip underworld",
      "published": "2026-11-21T17:00:10+00:00",
      "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China"
@@ -528,9 +522,9 @@ Output: write `drafts/business.json` matching `schemas/business.schema.json`.
   },
   "BTC": {
    "symbol": "BTC-USD",
-   "last": 59879.5508,
+   "last": 60515.7617,
    "prev_close": 60094.0898,
-   "change_pct": -0.36,
+   "change_pct": 0.7,
    "as_of": "2026-11-22"
   }
  },

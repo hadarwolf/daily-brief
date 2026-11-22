@@ -129,6 +129,60 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    ]
   },
   {
+   "outlet": "Geektime (Israeli tech)",
+   "lang": "he",
+   "items": [
+    {
+     "ref": "geektime#0",
+     "title": "בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים)",
+     "published": "2026-11-22T09:32:36+00:00",
+     "summary": "מנהלי IT ואבטחת מידע עומדים היום מול דילמה דחופה: מצד אחד, קיים לחץ עסקי לאמץ סוכני AI ולהפיק מהם ערך במהירות. מצד שני, האימוץ הזה מגיע עם סכנות אבטחה משמעותיות – סוכנים שפועלים בלי פיקוח, חשיפת מידע רגיש וקושי לנטר את הפעילות. בארגונים רבים חסרה מסגרת Governance ברורה, ולכן הם תקועים באמצע הדרך שבין פיילוט […] The post בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים) appeared fir"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI",
+     "published": "2026-11-22T08:49:11+00:00",
+     "summary": "גם העמוד המוכר ביותר באינטרנט לא חסין בפני השפעות ה-AI והוא בדרך למתיחת פנים נדירה למדי. אחרי שגוגל נתפסה לא מוכנה במירוץ ה-AI, ואחרי הקאמבק, ואחרי שהיא שוב נתפסת כמפגרת אחרי המתחרות – היא מתחילה להטמיע את Gemini עמוק גם לתוך מוצר הדגל שלה, עמוד החיפוש. היכונו לעוד שינוי השינוי המשמעותי הראשון לעמוד הבית של […] The post אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#2",
+     "title": "טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה התרסקו",
+     "published": "2026-11-22T08:16:54+00:00",
+     "summary": "אחרי חודשים ארוכים שבהם מניות ה-AI סחבו את וול סטריט על הגב, נראה שלשוק ההון מתחילה להיגמר הסבלנות. ביום שישי האחרון ננעל שבוע מסחר מדמם במיוחד עבור ענקיות הטכנולוגיה, עם ירידות חדות במדדים המובילים בארה\"ב, מחיקה של טריליוני דולרים משווי החברות, והצלילה הגדולה ביותר של מניית אנבידיה (NVIDIA) מאז התפטרות ג'נסן הואנג. מה בעצם קרה […] The post טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה"
+    },
+    {
+     "ref": "geektime#3",
+     "title": "סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו בהם משהו חדש",
+     "published": "2026-11-21T16:29:29+00:00",
+     "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. CxO Security Breakfast | Google Cloud and Sela מתי? 6 […] The post סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו ב"
+    },
+    {
+     "ref": "geektime#4",
+     "title": "ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה",
+     "published": "2026-11-21T13:33:44+00:00",
+     "summary": "כמה התרגשנו כשהבינה המלאכותית הגיעה לחיינו. כל מי שחלם על מיזם יכול היה פתאום לבנות אותו במו ידיו. וכולם אכן בונים. כל אחד מרים לעצמו את הכלי שהוא צריך בלי לחכות שמישהו אחר יעשה את זה בשבילו. אבל לחלום הזה יש צד שני: הביקוש נגמר. אף אחד לא מעוניין יותר בכלים של אחרים. זה כמו […] The post ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה appeared first on גיקטיים ."
+    },
+    {
+     "ref": "geektime#5",
+     "title": "מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות",
+     "published": "2026-11-21T11:12:26+00:00",
+     "summary": "הרבה מכם מכירים את הנוהל: ממלאים את עגלת הקניות באמזון במהלך השבועות האחרונים, ויושבים עליה בסבלנות עד סוף נובמבר כדי לתפוס את ההנחות של הבלאק פריידיי. זה אולי מרגיש כמו צרכנות חכמה ותחושת ה\"דפקתי את המערכת\" האהובה עלינו כישראלים, אבל מחקר חדש שבדק את היסטוריית המחירים של מאות מוצרים באמזון מראה שלפעמים, ההמתנה הזו פשוט […] The post מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות appeare"
+    },
+    {
+     "ref": "geektime#6",
+     "title": "במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים",
+     "published": "2026-11-21T08:21:29+00:00",
+     "summary": "בזמן שרבים בהייטק חוששים שה-AI יחליף אותם (והנתונים בהחלט מעידים על מקום לדאגה), משחק ישראלי חדש מציע לכם לעבור דווקא לצד השני של המתרס. במקום לעדכן קורות חיים ולעבוד על יכולות הריאיון שלכם, אתם תיכנסו לנעליים של מעבדת AI ותנסו להשתלט על שוק העבודה העולמי, מקצוע אחר מקצוע, לפני שהרגולציה תשתלט עליכם. כשסין ניסתה לגנוב […] The post במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים appeared first on גיק"
+    },
+    {
+     "ref": "geektime#7",
+     "title": "סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת",
+     "published": "2026-11-20T11:51:07+00:00",
+     "summary": "אם יש כלל ברזל שלמדנו בעשורים האחרונים הוא שהאינטרנט זוכר הכל – גם פליטות פה רנדומליות. סם אלטמן, מנכ\"ל OpenAI, גילה את זה בדרך הקשה אחרי שהתלונן על הדרך שבה אנחנו, המוגלגים, \"מבזבזים\" RAM במחשבים שלנו, במקום שחוות השרתים של ChatGPT יוכלו לנצל את המשאב הנדיר. אז מפתח אחד החליט לקחת את האמירה הזו לקצה, […] The post סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת appeared first on גיקטיים ."
+    }
+   ]
+  },
+  {
    "outlet": "Hacker News (150+ points)",
    "lang": "en",
    "items": [
@@ -136,67 +190,67 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "ref": "hn_frontpage#0",
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "published": "2026-11-22T04:04:56+00:00",
-     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 440 # Comments: 251"
+     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 453 # Comments: 264"
     },
     {
      "ref": "hn_frontpage#1",
      "title": "Sandwich Simulator",
      "published": "2026-11-22T00:07:59+00:00",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 213 # Comments: 69"
+     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 222 # Comments: 71"
     },
     {
      "ref": "hn_frontpage#2",
      "title": "Advice for the next 100 Rust GUIs",
      "published": "2026-11-21T21:17:53+00:00",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 159 # Comments: 58"
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 160 # Comments: 59"
     },
     {
      "ref": "hn_frontpage#3",
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "published": "2026-11-21T18:02:19+00:00",
-     "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 453 # Comments: 113"
+     "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 457 # Comments: 114"
     },
     {
      "ref": "hn_frontpage#4",
      "title": "Lean verification of the Riemann Hypothesis",
      "published": "2026-11-21T14:36:45+00:00",
-     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1019 # Comments: 834"
+     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1025 # Comments: 841"
     },
     {
      "ref": "hn_frontpage#5",
      "title": "Detonating a pile of lead azide",
      "published": "2026-11-21T13:23:14+00:00",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 602 # Comments: 386"
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 605 # Comments: 386"
     },
     {
      "ref": "hn_frontpage#6",
      "title": "My monitor was cutting my download speed by 75%",
      "published": "2026-11-21T10:36:32+00:00",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 574 # Comments: 268"
+     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 579 # Comments: 270"
     },
     {
      "ref": "hn_frontpage#7",
      "title": "GnuPG Security Advisory for GPGME",
      "published": "2026-11-21T08:32:58+00:00",
-     "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 251 # Comments: 100"
+     "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 251 # Comments: 101"
     },
     {
      "ref": "hn_frontpage#8",
      "title": "Getting the mind to steer the body to steer you",
      "published": "2026-11-20T22:11:05+00:00",
-     "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 263 # Comments: 89"
+     "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 265 # Comments: 89"
     },
     {
      "ref": "hn_frontpage#9",
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "published": "2026-11-20T21:03:12+00:00",
-     "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 964 # Comments: 213"
+     "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 977 # Comments: 214"
     },
     {
      "ref": "hn_frontpage#10",
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "published": "2026-11-20T18:33:14+00:00",
-     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2413 # Comments: 1173"
+     "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2414 # Comments: 1174"
     }
    ]
   },

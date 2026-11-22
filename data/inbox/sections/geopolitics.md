@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-22T09:37:09+00:00",
+     "summary": "College football | Latest News & Updates AP News"
+    },
+    {
+     "ref": "ap_world#1",
      "title": "College Football Full FBS Schedule - AP News",
      "published": "2026-11-22T09:28:37+00:00",
      "summary": "College Football Full FBS Schedule AP News"
     },
     {
-     "ref": "ap_world#1",
+     "ref": "ap_world#2",
      "title": "College sports - AP News",
      "published": "2026-11-22T09:21:37+00:00",
      "summary": "College sports AP News"
     },
     {
-     "ref": "ap_world#2",
+     "ref": "ap_world#3",
      "title": "South America - AP News",
      "published": "2026-11-22T09:05:41+00:00",
      "summary": "South America AP News"
     },
     {
-     "ref": "ap_world#3",
-     "title": "Sports - Europe - AP News",
-     "published": "2026-11-22T08:00:54+00:00",
-     "summary": "Sports - Europe AP News"
+     "ref": "ap_world#4",
+     "title": "Tennis Scores, News & Stats - AP News",
+     "published": "2026-11-22T08:39:56+00:00",
+     "summary": "Tennis Scores, News & Stats AP News"
     },
     {
-     "ref": "ap_world#4",
+     "ref": "ap_world#5",
      "title": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming - AP News",
      "published": "2026-11-22T07:56:00+00:00",
      "summary": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming AP News"
     },
     {
-     "ref": "ap_world#5",
+     "ref": "ap_world#6",
      "title": "In Ukraine, the fight to keep winter outside begins with a broken window - AP News",
      "published": "2026-11-22T07:02:00+00:00",
      "summary": "In Ukraine, the fight to keep winter outside begins with a broken window AP News"
     },
     {
-     "ref": "ap_world#6",
+     "ref": "ap_world#7",
+     "title": "ANDREW DAMPF - AP News",
+     "published": "2026-11-22T06:48:47+00:00",
+     "summary": "ANDREW DAMPF AP News"
+    },
+    {
+     "ref": "ap_world#8",
      "title": "No. 5 Duke holds off late Washington State rally to win 78-74 in California desert - AP News",
      "published": "2026-11-22T06:46:00+00:00",
      "summary": "No. 5 Duke holds off late Washington State rally to win 78-74 in California desert AP News"
     },
     {
-     "ref": "ap_world#7",
+     "ref": "ap_world#9",
      "title": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble - AP News",
      "published": "2026-11-22T06:45:00+00:00",
      "summary": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble AP News"
     },
     {
-     "ref": "ap_world#8",
-     "title": "Tennis Scores, News & Stats - AP News",
-     "published": "2026-11-22T06:33:41+00:00",
-     "summary": "Tennis Scores, News & Stats AP News"
-    },
-    {
-     "ref": "ap_world#9",
+     "ref": "ap_world#10",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
      "published": "2026-11-22T06:33:03+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
-     "ref": "ap_world#10",
+     "ref": "ap_world#11",
      "title": "Brad Jackson has hand in 4 TDs to lead Texas State to 42-14 romp over Washington State - AP News",
      "published": "2026-11-22T06:30:00+00:00",
      "summary": "Brad Jackson has hand in 4 TDs to lead Texas State to 42-14 romp over Washington State AP News"
     },
     {
-     "ref": "ap_world#11",
+     "ref": "ap_world#12",
+     "title": "Bend it like (Di)Bernardo: 'Olympic goal' lifts Kansas City to first NWSL title, 2-1 over Washington - AP News",
+     "published": "2026-11-22T06:11:00+00:00",
+     "summary": "Bend it like (Di)Bernardo: 'Olympic goal' lifts Kansas City to first NWSL title, 2-1 over Washington AP News"
+    },
+    {
+     "ref": "ap_world#13",
      "title": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for - AP News",
      "published": "2026-11-22T06:05:00+00:00",
      "summary": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for AP News"
     },
     {
-     "ref": "ap_world#12",
-     "title": "ANDREW DAMPF - AP News",
-     "published": "2026-11-22T04:49:23+00:00",
-     "summary": "ANDREW DAMPF AP News"
-    },
-    {
-     "ref": "ap_world#13",
+     "ref": "ap_world#14",
      "title": "Cossa’s 29 saves help Mammoth to a 3-2 victory over the Ducks - AP News",
      "published": "2026-11-22T04:48:00+00:00",
      "summary": "Cossa’s 29 saves help Mammoth to a 3-2 victory over the Ducks AP News"
     },
     {
-     "ref": "ap_world#14",
+     "ref": "ap_world#15",
      "title": "Fire at Indonesian candy factory leaves at least 3 dead and dozens of workers unaccounted for - AP News",
      "published": "2026-11-22T04:33:00+00:00",
      "summary": "Fire at Indonesian candy factory leaves at least 3 dead and dozens of workers unaccounted for AP News"
     },
     {
-     "ref": "ap_world#15",
+     "ref": "ap_world#16",
      "title": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5 - AP News",
      "published": "2026-11-22T04:18:00+00:00",
      "summary": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5 AP News"
     },
     {
-     "ref": "ap_world#16",
+     "ref": "ap_world#17",
      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10% - AP News",
      "published": "2026-11-22T04:13:00+00:00",
      "summary": "Trump vows to work with Democrats to cap credit card interest rates at 10% AP News"
     },
     {
-     "ref": "ap_world#17",
+     "ref": "ap_world#18",
      "title": "Elias Lindholm's 1st NHL 4-goal game and 1st trick with Boston carries Bruins to 7-5 win over Caps - AP News",
      "published": "2026-11-22T04:06:00+00:00",
      "summary": "Elias Lindholm's 1st NHL 4-goal game and 1st trick with Boston carries Bruins to 7-5 win over Caps AP News"
     },
     {
-     "ref": "ap_world#18",
+     "ref": "ap_world#19",
      "title": "Gio Lopez rushes for two scores and throws two more as Wake Forest beats Georgia Tech 50-29 - AP News",
      "published": "2026-11-22T03:48:00+00:00",
      "summary": "Gio Lopez rushes for two scores and throws two more as Wake Forest beats Georgia Tech 50-29 AP News"
     },
     {
-     "ref": "ap_world#19",
+     "ref": "ap_world#20",
      "title": "LARRY LAGE - AP News",
      "published": "2026-11-22T03:46:55+00:00",
      "summary": "LARRY LAGE AP News"
     },
     {
-     "ref": "ap_world#20",
-     "title": "United Kingdom - AP News",
-     "published": "2026-11-22T03:39:03+00:00",
-     "summary": "United Kingdom AP News"
-    },
-    {
      "ref": "ap_world#21",
-     "title": "Fletcher's 3 TD runs lift No. 5 Miami past Virginia Tech 28-20, 'Canes clinch spot in ACC title game - AP News",
-     "published": "2026-11-22T03:39:00+00:00",
-     "summary": "Fletcher's 3 TD runs lift No. 5 Miami past Virginia Tech 28-20, 'Canes clinch spot in ACC title game AP News"
-    },
-    {
-     "ref": "ap_world#22",
      "title": "Victor Wembanyama has 50 points, 19 rebounds on dominant night as Spurs roll past Pelicans, 114-91 - AP News",
      "published": "2026-11-22T03:37:00+00:00",
      "summary": "Victor Wembanyama has 50 points, 19 rebounds on dominant night as Spurs roll past Pelicans, 114-91 AP News"
     },
     {
-     "ref": "ap_world#23",
+     "ref": "ap_world#22",
      "title": "Neighbours has 5 assists and Blues chase Hellebuyck early in 9-6 victory over Devils - AP News",
      "published": "2026-11-22T03:37:00+00:00",
      "summary": "Neighbours has 5 assists and Blues chase Hellebuyck early in 9-6 victory over Devils AP News"
     },
     {
+     "ref": "ap_world#23",
+     "title": "Brunson scores 30, Bridges hits 3 at buzzer, lifting Knicks to 97-96 win over Trail Blazers - AP News",
+     "published": "2026-11-22T03:26:00+00:00",
+     "summary": "Brunson scores 30, Bridges hits 3 at buzzer, lifting Knicks to 97-96 win over Trail Blazers AP News"
+    },
+    {
      "ref": "ap_world#24",
-     "title": "DiBernardo’s ‘Olympic goal’ lifts Kansas City to its first NWSL title, 2-1 over Washington - AP News",
-     "published": "2026-11-22T03:35:00+00:00",
-     "summary": "DiBernardo’s ‘Olympic goal’ lifts Kansas City to its first NWSL title, 2-1 over Washington AP News"
+     "title": "United Kingdom - AP News",
+     "published": "2026-11-22T03:16:06+00:00",
+     "summary": "United Kingdom AP News"
     }
    ]
   },
@@ -186,141 +186,141 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
     },
     {
      "ref": "bbc_world#2",
-     "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-     "published": "2026-11-22T06:54:06+00:00",
-     "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
-    },
-    {
-     "ref": "bbc_world#3",
      "title": "Three killed and dozens missing after fire at Indonesian factory",
      "published": "2026-11-22T06:05:00+00:00",
      "summary": "At least three people were killed and 36 are still missing after a fire at a confectionary factory."
     },
     {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#3",
      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
      "published": "2026-11-22T01:25:03+00:00",
      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#4",
      "title": "FBI reportedly investigating apparent hack of its criminal database",
      "published": "2026-11-22T00:10:44+00:00",
      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information."
     },
     {
-     "ref": "bbc_world#6",
+     "ref": "bbc_world#5",
      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
      "published": "2026-11-22T00:10:37+00:00",
      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?"
     },
     {
-     "ref": "bbc_world#7",
+     "ref": "bbc_world#6",
      "title": "How a teen gamer and his mother helped rescue a missing girl",
      "published": "2026-11-22T00:09:58+00:00",
      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping."
     },
     {
-     "ref": "bbc_world#8",
+     "ref": "bbc_world#7",
      "title": "Lock of former US President George Washington's hair sells for $4,000",
      "published": "2026-11-21T22:01:19+00:00",
      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
     },
     {
-     "ref": "bbc_world#9",
+     "ref": "bbc_world#8",
      "title": "Russia-bound ship attacked in Gulf of Finland",
      "published": "2026-11-21T19:20:22+00:00",
      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
     },
     {
-     "ref": "bbc_world#10",
+     "ref": "bbc_world#9",
      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
      "published": "2026-11-21T13:17:38+00:00",
      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
     },
     {
-     "ref": "bbc_world#11",
+     "ref": "bbc_world#10",
      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
      "published": "2026-11-21T10:26:36+00:00",
      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
     },
     {
-     "ref": "bbc_world#12",
+     "ref": "bbc_world#11",
      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
      "published": "2026-11-21T09:40:55+00:00",
      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
     },
     {
-     "ref": "bbc_world#13",
+     "ref": "bbc_world#12",
      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
      "published": "2026-11-21T08:10:25+00:00",
      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
     },
     {
-     "ref": "bbc_world#14",
+     "ref": "bbc_world#13",
      "title": "Trafalgar Square Christmas tree felled in Norway",
      "published": "2026-11-21T08:10:03+00:00",
      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two."
     },
     {
-     "ref": "bbc_world#15",
+     "ref": "bbc_world#14",
      "title": "Man convicted of starting Palisades fire in Los Angeles",
      "published": "2026-11-21T04:34:00+00:00",
      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
     },
     {
-     "ref": "bbc_world#16",
+     "ref": "bbc_world#15",
      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
      "published": "2026-11-21T01:02:39+00:00",
      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars."
     },
     {
-     "ref": "bbc_world#17",
+     "ref": "bbc_world#16",
      "title": "ANC fights to keep control of South Africa's key cities after election setback",
      "published": "2026-11-21T00:34:51+00:00",
      "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level."
     },
     {
-     "ref": "bbc_world#18",
+     "ref": "bbc_world#17",
      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
      "published": "2026-11-21T00:01:39+00:00",
      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
     },
     {
-     "ref": "bbc_world#19",
+     "ref": "bbc_world#18",
      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
      "published": "2026-11-20T23:20:33+00:00",
      "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for."
     },
     {
-     "ref": "bbc_world#20",
+     "ref": "bbc_world#19",
      "title": "US declassifies more UFO footage filmed in the Middle East",
      "published": "2026-11-20T23:15:20+00:00",
      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
     },
     {
-     "ref": "bbc_world#21",
+     "ref": "bbc_world#20",
      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
      "published": "2026-11-20T23:08:57+00:00",
      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
     },
     {
-     "ref": "bbc_world#22",
+     "ref": "bbc_world#21",
      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
      "published": "2026-11-20T22:42:47+00:00",
      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
     },
     {
-     "ref": "bbc_world#23",
+     "ref": "bbc_world#22",
      "title": "French police officers sentenced for beating of music producer Michel Zecler",
      "published": "2026-11-20T22:37:09+00:00",
      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
     },
     {
-     "ref": "bbc_world#24",
+     "ref": "bbc_world#23",
      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
      "published": "2026-11-20T21:43:22+00:00",
      "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU."
+    },
+    {
+     "ref": "bbc_world#24",
+     "title": "Trump threatens ban on US firms building AI data centres overseas",
+     "published": "2026-11-20T20:54:12+00:00",
+     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
     }
    ]
   },

@@ -29,6 +29,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-21T12:30:00Z",
+     "home": "Norwich",
+     "away": "Cardiff",
+     "status": "FINISHED",
+     "score": "2-1"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T12:30:00Z",
      "home": "Southampton",
      "away": "Derby County",
      "status": "FINISHED",
@@ -51,14 +59,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-1"
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T12:30:00Z",
-     "home": "Norwich",
-     "away": "Cardiff",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
      "competition": "Primera Division",
      "kickoff_utc": "2026-11-21T13:00:00Z",
      "home": "Alavés",
@@ -69,42 +69,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-21T14:00:00Z",
-     "home": "Como 1907",
-     "away": "Cagliari",
-     "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Serie A",
-     "kickoff_utc": "2026-11-21T14:00:00Z",
      "home": "Lazio",
      "away": "Lecce",
      "status": "FINISHED",
      "score": "3-0"
     },
     {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-21T14:30:00Z",
-     "home": "Leverkusen",
-     "away": "SC Paderborn",
+     "competition": "Serie A",
+     "kickoff_utc": "2026-11-21T14:00:00Z",
+     "home": "Como 1907",
+     "away": "Cagliari",
      "status": "FINISHED",
-     "score": "4-0"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-21T14:30:00Z",
-     "home": "Elversberg",
-     "away": "Freiburg",
-     "status": "FINISHED",
-     "score": "0-1"
-    },
-    {
-     "competition": "Bundesliga",
-     "kickoff_utc": "2026-11-21T14:30:00Z",
-     "home": "M'gladbach",
-     "away": "Dortmund",
-     "status": "FINISHED",
-     "score": "0-1"
+     "score": "2-0"
     },
     {
      "competition": "Bundesliga",
@@ -123,44 +99,52 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-0"
     },
     {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-21T14:30:00Z",
+     "home": "M'gladbach",
+     "away": "Dortmund",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-21T14:30:00Z",
+     "home": "Leverkusen",
+     "away": "SC Paderborn",
+     "status": "FINISHED",
+     "score": "4-0"
+    },
+    {
+     "competition": "Bundesliga",
+     "kickoff_utc": "2026-11-21T14:30:00Z",
+     "home": "Elversberg",
+     "away": "Freiburg",
+     "status": "FINISHED",
+     "score": "0-1"
+    },
+    {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Bournemouth",
-     "away": "Nottingham",
+     "home": "Tottenham",
+     "away": "Ipswich Town",
      "status": "FINISHED",
      "score": "2-0"
     },
     {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Stoke",
-     "away": "Birmingham",
-     "status": "FINISHED",
-     "score": "1-0"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Swansea",
-     "away": "West Brom",
-     "status": "FINISHED",
-     "score": "2-2"
-    },
-    {
-     "competition": "Championship",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Wolverhampton",
-     "away": "Charlton",
-     "status": "FINISHED",
-     "score": "2-1"
-    },
-    {
      "competition": "Premier League",
      "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Coventry City",
-     "away": "Crystal Palace",
+     "home": "Aston Villa",
+     "away": "Sunderland",
      "status": "FINISHED",
-     "score": "3-2"
+     "score": "0-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Middlesbrough",
+     "away": "Bristol City",
+     "status": "FINISHED",
+     "score": "2-0"
     },
     {
      "competition": "Championship",
@@ -203,28 +187,44 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-1"
     },
     {
-     "competition": "Premier League",
+     "competition": "Championship",
      "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Tottenham",
-     "away": "Ipswich Town",
+     "home": "Swansea",
+     "away": "West Brom",
      "status": "FINISHED",
-     "score": "2-0"
-    },
-    {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Aston Villa",
-     "away": "Sunderland",
-     "status": "FINISHED",
-     "score": "0-0"
+     "score": "2-2"
     },
     {
      "competition": "Championship",
      "kickoff_utc": "2026-11-21T15:00:00Z",
-     "home": "Middlesbrough",
-     "away": "Bristol City",
+     "home": "Wolverhampton",
+     "away": "Charlton",
+     "status": "FINISHED",
+     "score": "2-1"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Coventry City",
+     "away": "Crystal Palace",
+     "status": "FINISHED",
+     "score": "3-2"
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Bournemouth",
+     "away": "Nottingham",
      "status": "FINISHED",
      "score": "2-0"
+    },
+    {
+     "competition": "Championship",
+     "kickoff_utc": "2026-11-21T15:00:00Z",
+     "home": "Stoke",
+     "away": "Birmingham",
+     "status": "FINISHED",
+     "score": "1-0"
     },
     {
      "competition": "Primera Division",
@@ -259,14 +259,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-5"
     },
     {
-     "competition": "Primera Division",
-     "kickoff_utc": "2026-11-21T17:30:00Z",
-     "home": "Sevilla FC",
-     "away": "Real Betis",
-     "status": "FINISHED",
-     "score": "1-1"
-    },
-    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-21T17:30:00Z",
      "home": "Schalke",
@@ -281,6 +273,14 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "away": "Arsenal",
      "status": "FINISHED",
      "score": "2-2"
+    },
+    {
+     "competition": "Primera Division",
+     "kickoff_utc": "2026-11-21T17:30:00Z",
+     "home": "Sevilla FC",
+     "away": "Real Betis",
+     "status": "FINISHED",
+     "score": "1-1"
     },
     {
      "competition": "Eredivisie",
@@ -307,12 +307,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-1"
     },
     {
-     "competition": "Serie A",
+     "competition": "Ligue 1",
      "kickoff_utc": "2026-11-21T19:45:00Z",
-     "home": "Napoli",
-     "away": "Torino",
+     "home": "Monaco",
+     "away": "Auxerre",
      "status": "FINISHED",
-     "score": "1-0"
+     "score": "1-1"
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-21T19:45:00Z",
+     "home": "Lille",
+     "away": "Olympique Lyon",
+     "status": "FINISHED",
+     "score": "0-1"
     },
     {
      "competition": "Ligue 1",
@@ -331,20 +339,20 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": "1-1"
     },
     {
-     "competition": "Ligue 1",
+     "competition": "Serie A",
      "kickoff_utc": "2026-11-21T19:45:00Z",
-     "home": "Lille",
-     "away": "Olympique Lyon",
+     "home": "Napoli",
+     "away": "Torino",
      "status": "FINISHED",
-     "score": "0-1"
+     "score": "1-0"
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-21T19:45:00Z",
-     "home": "Monaco",
-     "away": "Auxerre",
+     "competition": "Eredivisie",
+     "kickoff_utc": "2026-11-21T20:00:00Z",
+     "home": "Groningen",
+     "away": "Heerenveen",
      "status": "FINISHED",
-     "score": "1-1"
+     "score": "1-3"
     },
     {
      "competition": "Primera Division",
@@ -359,14 +367,6 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "kickoff_utc": "2026-11-21T20:00:00Z",
      "home": "Telstar",
      "away": "Zwolle",
-     "status": "FINISHED",
-     "score": "1-3"
-    },
-    {
-     "competition": "Eredivisie",
-     "kickoff_utc": "2026-11-21T20:00:00Z",
-     "home": "Groningen",
-     "away": "Heerenveen",
      "status": "FINISHED",
      "score": "1-3"
     },
@@ -437,10 +437,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
+     "competition": "Serie A",
      "kickoff_utc": "2026-11-22T14:00:00Z",
-     "home": "Paris FC",
-     "away": "Angers SCO",
+     "home": "Sassuolo",
+     "away": "Genoa",
      "status": "TIMED",
      "score": null
     },
@@ -461,10 +461,10 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Serie A",
+     "competition": "Ligue 1",
      "kickoff_utc": "2026-11-22T14:00:00Z",
-     "home": "Sassuolo",
-     "away": "Genoa",
+     "home": "Paris FC",
+     "away": "Angers SCO",
      "status": "TIMED",
      "score": null
     },
@@ -501,18 +501,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Premier League",
-     "kickoff_utc": "2026-11-22T16:30:00Z",
-     "home": "Liverpool",
-     "away": "Man United",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Bundesliga",
      "kickoff_utc": "2026-11-22T16:30:00Z",
      "home": "Bremen",
      "away": "HSV",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Premier League",
+     "kickoff_utc": "2026-11-22T16:30:00Z",
+     "home": "Liverpool",
+     "away": "Man United",
      "status": "TIMED",
      "score": null
     },
@@ -541,18 +541,18 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "score": null
     },
     {
-     "competition": "Ligue 1",
-     "kickoff_utc": "2026-11-22T19:45:00Z",
-     "home": "Marseille",
-     "away": "Le Mans",
-     "status": "TIMED",
-     "score": null
-    },
-    {
      "competition": "Serie A",
      "kickoff_utc": "2026-11-22T19:45:00Z",
      "home": "Atalanta",
      "away": "Inter",
+     "status": "TIMED",
+     "score": null
+    },
+    {
+     "competition": "Ligue 1",
+     "kickoff_utc": "2026-11-22T19:45:00Z",
+     "home": "Marseille",
+     "away": "Le Mans",
      "status": "TIMED",
      "score": null
     },
@@ -715,6 +715,50 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
      "played": 9,
      "pts": 15,
      "gd": 2
+    }
+   ],
+   "Serie A": [
+    {
+     "pos": 1,
+     "team": "Lazio",
+     "played": 12,
+     "pts": 32,
+     "gd": 19
+    },
+    {
+     "pos": 2,
+     "team": "Roma",
+     "played": 12,
+     "pts": 30,
+     "gd": 25
+    },
+    {
+     "pos": 3,
+     "team": "Inter",
+     "played": 11,
+     "pts": 28,
+     "gd": 15
+    },
+    {
+     "pos": 4,
+     "team": "Como 1907",
+     "played": 12,
+     "pts": 26,
+     "gd": 10
+    },
+    {
+     "pos": 5,
+     "team": "Milan",
+     "played": 11,
+     "pts": 24,
+     "gd": 10
+    },
+    {
+     "pos": 6,
+     "team": "Frosinone",
+     "played": 11,
+     "pts": 20,
+     "gd": 9
     }
    ],
    "Ligue 1": [
@@ -1112,206 +1156,26 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
    ]
   },
   {
-   "outlet": "ESPN NBA",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_nba#0",
-     "title": "Wemby makes history in 18 minutes, finishes game with 50 points",
-     "published": "2026-11-22T06:33:51+00:00",
-     "summary": "Victor Wembanyama had his third career 50-point outing in Sunday's win vs. the Pelicans, to go along with 19 rebounds, five blocks and four steals."
-    },
-    {
-     "ref": "espn_nba#1",
-     "title": "Bridges shakes off slump, hits buzzer-beating 3 to save Knicks from collapse",
-     "published": "2026-11-22T06:33:51+00:00",
-     "summary": "Mired in a shooting slump, Mikal Bridges delivered a buzzer-beating 3-pointer to lift the Knicks past Portland after they squandered a 26-point lead."
-    },
-    {
-     "ref": "espn_nba#2",
-     "title": "76ers survive in clutch again despite Herro's 50",
-     "published": "2026-11-22T06:33:51+00:00",
-     "summary": "The 76ers survived 50 points from Tyler Herro, nearly blowing a 10-point lead late, before once again coming out on top in the clutch."
-    },
-    {
-     "ref": "espn_nba#3",
-     "title": "Harden has 51 in 'vintage' performance, leaps Kobe for 3rd-most 50-point games",
-     "published": "2026-11-22T06:33:51+00:00",
-     "summary": "James Harden posted the 26th 50-point game of his career, passing Kobe Bryant for third-most 50-point games in NBA history."
-    },
-    {
-     "ref": "espn_nba#4",
-     "title": "Udoka says Rockets 'mentally fragile,' blasts defense after loss to Nuggets",
-     "published": "2026-11-22T06:33:51+00:00",
-     "summary": "Coach Ime Udoka was upset by the Rockets' lack of physicality and effort as they gave up a season high in points during a loss to the Nuggets, calling the defense \"as bad as I've seen it.\""
-    },
-    {
-     "ref": "espn_nba#5",
-     "title": "Lakers eke out win after Redick rips team's lack of fight vs. last-place Kings",
-     "published": "2026-11-22T06:33:51+00:00",
-     "summary": "Lakers coach JJ Redick ripped into the team's lack of fight after trailing the last-place Kings at halftime, and Los Angeles went on to eke out a 106-104 win."
-    },
-    {
-     "ref": "espn_nba#6",
-     "title": "👀 What the first month has revealed about all 30 teams",
-     "published": "2026-11-22T06:33:51+00:00",
-     "summary": "With the season's first month nearly in the books, Ben Golliver examines the biggest storyline so far for all 30 teams."
-    },
-    {
-     "ref": "espn_nba#7",
-     "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
-     "published": "2026-11-21T18:40:45+00:00",
-     "summary": "How has the first month unfolded for nine first-year stars? Brian Windhorst and Tim MacMahon canvass the league."
-    },
-    {
-     "ref": "espn_nba#8",
-     "title": "How a season without their 'admiral' showed the Rockets what they were missing",
-     "published": "2026-11-21T03:34:53+00:00",
-     "summary": "A healthy Fred VanVleet is commanding the surging Rockets after an ACL injury derailed his 2025-26 season. Here's why he's so important."
-    },
-    {
-     "ref": "espn_nba#9",
-     "title": "Has Nikola Jokic been overtaken as the top player in fantasy basketball?",
-     "published": "2026-11-20T19:54:29+00:00",
-     "summary": "Nikola Jokic's numbers are down from his typical norm, but has he been passed by Wemby or Luka as the top player in fantasy?"
-    }
-   ]
-  },
-  {
-   "outlet": "ESPN FC",
-   "lang": "en",
-   "items": [
-    {
-     "ref": "espn_soccer#0",
-     "title": "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-     "published": "2026-11-22T06:40:20+00:00",
-     "summary": "Vanessa DiBernardo joined an elite list on Saturday, scoring for Kansas City direct from a corner. Known in soccer circles as an Olimpico, here are some of the very best."
-    },
-    {
-     "ref": "espn_soccer#1",
-     "title": "Kansas City finally, and deservedly, breaks NWSL Championship drought",
-     "published": "2026-11-22T06:40:19+00:00",
-     "summary": "Kansas City Current's first NWSL Championship was a story of conviction and resilience, crowned by a wonder-strike from Vanessa DiBernardo."
-    },
-    {
-     "ref": "espn_soccer#2",
-     "title": "DiBernardo's Olimpico goal leads Kansas City to 1st NWSL Championship",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "The Kansas City Current won their first NWSL Championship, defeating the Washington Spirit 2-1 to hand the Spirit a third consecutive loss in the league final."
-    },
-    {
-     "ref": "espn_soccer#3",
-     "title": "Columbus coach says Messi should've got red card: 'Everyone knows'",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "Columbus Crew head coach Laurent Courtois said Lionel Messi should have received a red card for taking a throw-in straight into the face of Gonzalo Tapia."
-    },
-    {
-     "ref": "espn_soccer#4",
-     "title": "Rodman on 3rd straight NWSL Championship loss: 'This one hurts way worse'",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "Trinity Rodman said she was proud of the Washington Spirit's season after a third straight NWSL Championship loss but acknowledged that this one hurt the most."
-    },
-    {
-     "ref": "espn_soccer#5",
-     "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "Inter Miami and star Lionel Messi are facing the prospect of an early exit from the MLS playoffs after a 3-0 home loss to the Columbus Crew in Game 1."
-    },
-    {
-     "ref": "espn_soccer#6",
-     "title": "Milan boss Amorim heaps praise on Pulisic: 'The player we cannot replace'",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "AC Milan head coach Ruben Amorim has heaped praise on Christian Pulisic, calling him \"the player we cannot replace.\""
-    },
-    {
-     "ref": "espn_soccer#7",
-     "title": "PSG star Doué 'sad' and 'worried' after suffering 'serious' knee injury",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "PSG forward Désiré Doué was carried off on a stretcher with a serious knee injury late in the first half of the team's 3-2 win at Nice in Ligue 1 on Saturday."
-    },
-    {
-     "ref": "espn_soccer#8",
-     "title": "Supersub Espí's 'most special' goal earns win for Madrid and praise from Nadal",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "Real Madrid supersub Carlos Espí said his late goal against Celta Vigo was his \"most special\" yet after earning his team the win and praise from Rafael Nadal."
-    },
-    {
-     "ref": "espn_soccer#9",
-     "title": "Raya exits with injury as Arsenal held by Newcastle: 'Never good news'",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "David Raya was forced off with an injury during Arsenal's 2-2 draw at Newcastle United on Saturday."
-    },
-    {
-     "ref": "espn_soccer#10",
-     "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-     "published": "2026-11-22T06:32:44+00:00",
-     "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago"
-    },
-    {
-     "ref": "espn_soccer#11",
-     "title": "Arsenal's near-collapse at Newcastle a wake-up call -- and a missed opportunity",
-     "published": "2026-11-22T01:49:45+00:00",
-     "summary": "Arsenal could have moved eight points clear at the top of the Premier League. Instead, they completely lost their way in the second half vs. Newcastle."
-    },
-    {
-     "ref": "espn_soccer#12",
-     "title": "Man City at a crossroads as a shell of themselves",
-     "published": "2026-11-22T01:49:45+00:00",
-     "summary": "When Man City can't beat Fulham -- a team they had beaten 20 times in a row entering Saturday -- you know they're struggling."
-    },
-    {
-     "ref": "espn_soccer#13",
-     "title": "Pochettino's Man United moment has finally arrived. Is he up to the task?",
-     "published": "2026-11-22T01:44:33+00:00",
-     "summary": "Mauricio Pochettino faces the sizable challenge of restoring Man United to their former glory. Can he succeed where Michael Carrick, Ruben Amorim and others failed?"
-    },
-    {
-     "ref": "espn_soccer#14",
-     "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
-     "published": "2026-11-22T01:44:33+00:00",
-     "summary": "Anfield has a power to propel Liverpool to greatness, but the team are struggling for form there this season."
-    },
-    {
-     "ref": "espn_soccer#15",
-     "title": "Transfer rumors, news: Could McTominay make sensational Man United return?",
-     "published": "2026-11-21T17:30:49+00:00",
-     "summary": "A trio of Premier League giants are eyeing Atalanta defender Giorgio Scalvini. Transfer Talk has the latest."
-    },
-    {
-     "ref": "espn_soccer#16",
-     "title": "Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him?",
-     "published": "2026-11-21T12:08:06+00:00",
-     "summary": "Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea."
-    },
-    {
-     "ref": "espn_soccer#17",
-     "title": "Cristiano Ronaldo goal tracker: 986 and counting on road to 1,000 career goals",
-     "published": "2026-11-20T22:38:44+00:00",
-     "summary": "With Cristiano Ronaldo on the quest to score 1,000 goals, ESPN provides goal-by-goal analysis of the Portuguese superstar's quest."
-    }
-   ]
-  },
-  {
    "outlet": "Google News — Inter Miami",
    "lang": "en",
    "items": [
     {
      "ref": "gnews_inter_miami#0",
+     "title": "Messi, what are you doing? Inter Miami lose in the playoffs as he hits an opponent with the ball, is booked and now faces elimination by Columbus Crew - LiveScore",
+     "published": "2026-11-22T09:48:38+00:00",
+     "summary": "Messi, what are you doing? Inter Miami lose in the playoffs as he hits an opponent with the ball, is booked and now faces elimination by Columbus Crew LiveScore"
+    },
+    {
+     "ref": "gnews_inter_miami#1",
      "title": "Lionel Messi and Inter Miami humiliated as Columbus Crew cruise to dominant Game 1 playoff victory - Goal.com",
      "published": "2026-11-22T09:12:10+00:00",
      "summary": "Lionel Messi and Inter Miami humiliated as Columbus Crew cruise to dominant Game 1 playoff victory Goal.com"
     },
     {
-     "ref": "gnews_inter_miami#1",
+     "ref": "gnews_inter_miami#2",
      "title": "A dark night for Messi.. Inter Miami loses 3-0 to Columbus Crew (video) - صوت الإمارات",
      "published": "2026-11-22T09:01:43+00:00",
      "summary": "A dark night for Messi.. Inter Miami loses 3-0 to Columbus Crew (video) صوت الإمارات"
-    },
-    {
-     "ref": "gnews_inter_miami#2",
-     "title": "Inter Miami CF 0 - 3 Columbus Crew: Final score, results, recap, box score, stats - Yahoo Sports",
-     "published": "2026-11-22T08:24:50+00:00",
-     "summary": "Inter Miami CF 0 - 3 Columbus Crew: Final score, results, recap, box score, stats Yahoo Sports"
     },
     {
      "ref": "gnews_inter_miami#3",
@@ -1357,93 +1221,93 @@ Output: write `drafts/sports.json` matching `schemas/sports.schema.json`.
     },
     {
      "ref": "gnews_inter_miami#10",
+     "title": "Inter Miami CF 0 - 3 Columbus Crew: Final score, results, recap, box score, stats - Yahoo Sports",
+     "published": "2026-11-22T06:54:50+00:00",
+     "summary": "Inter Miami CF 0 - 3 Columbus Crew: Final score, results, recap, box score, stats Yahoo Sports"
+    },
+    {
+     "ref": "gnews_inter_miami#11",
      "title": "Black night for Inter Miami! Messi’s team is thrashed 3-0 at home by Columbus Crew and is now on the ropes in the Playoffs - Tribuna.com",
      "published": "2026-11-22T06:11:25+00:00",
      "summary": "Black night for Inter Miami! Messi’s team is thrashed 3-0 at home by Columbus Crew and is now on the ropes in the Playoffs Tribuna.com"
     },
     {
-     "ref": "gnews_inter_miami#11",
+     "ref": "gnews_inter_miami#12",
      "title": "Columbus stun Messi’s Inter 3-0 in playoff opener - Jamaica Gleaner",
      "published": "2026-11-22T06:11:24+00:00",
      "summary": "Columbus stun Messi’s Inter 3-0 in playoff opener Jamaica Gleaner"
     },
     {
-     "ref": "gnews_inter_miami#12",
+     "ref": "gnews_inter_miami#13",
      "title": "WATCH: Lionel Messi throws ball at opponent’s face during Inter Miami vs Columbus Crew clash, escapes red card - Sports Tiger",
      "published": "2026-11-22T06:09:42+00:00",
      "summary": "WATCH: Lionel Messi throws ball at opponent’s face during Inter Miami vs Columbus Crew clash, escapes red card Sports Tiger"
     },
     {
-     "ref": "gnews_inter_miami#13",
-     "title": "WATCH: Lionel Messi avoids red card as Inter Miami lose 3-0 to Columbus Crew - Sportskeeda",
-     "published": "2026-11-22T05:31:00+00:00",
-     "summary": "WATCH: Lionel Messi avoids red card as Inter Miami lose 3-0 to Columbus Crew Sportskeeda"
-    },
-    {
      "ref": "gnews_inter_miami#14",
-     "title": "Columbus Crew Stuns Inter Miami With 3-0 Win in MLS Playoff Opener - Asianet Newsable",
-     "published": "2026-11-22T05:00:03+00:00",
-     "summary": "Columbus Crew Stuns Inter Miami With 3-0 Win in MLS Playoff Opener Asianet Newsable"
-    },
-    {
-     "ref": "gnews_inter_miami#15",
      "title": "Messi's Inter Miami suffer 3-0 humbling against Columbus in MLS playoff opener - Big News Network.com",
      "published": "2026-11-22T05:00:00+00:00",
      "summary": "Messi's Inter Miami suffer 3-0 humbling against Columbus in MLS playoff opener Big News Network.com"
     },
     {
-     "ref": "gnews_inter_miami#16",
+     "ref": "gnews_inter_miami#15",
      "title": "Inter Miami suffer 3-0 playoff defeat to Columbus Crew - Daily Observer",
      "published": "2026-11-22T04:51:00+00:00",
      "summary": "Inter Miami suffer 3-0 playoff defeat to Columbus Crew Daily Observer"
     },
     {
-     "ref": "gnews_inter_miami#17",
+     "ref": "gnews_inter_miami#16",
      "title": "Lionel Messi Faces Backlash After Controversial Incident in Inter Miami Loss - Yahoo Sports",
      "published": "2026-11-22T04:46:00+00:00",
      "summary": "Lionel Messi Faces Backlash After Controversial Incident in Inter Miami Loss Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#18",
+     "ref": "gnews_inter_miami#17",
      "title": "Inter Miami CF vs. Columbus Crew SC - Game Highlights - ESPN",
      "published": "2026-11-22T04:41:33+00:00",
      "summary": "Inter Miami CF vs. Columbus Crew SC - Game Highlights ESPN"
     },
     {
-     "ref": "gnews_inter_miami#19",
+     "ref": "gnews_inter_miami#18",
      "title": "Columbus Crew defeat Inter Miami 3-0 in MLS playoff opener - The News Mill",
      "published": "2026-11-22T04:40:47+00:00",
      "summary": "Columbus Crew defeat Inter Miami 3-0 in MLS playoff opener The News Mill"
     },
     {
-     "ref": "gnews_inter_miami#20",
+     "ref": "gnews_inter_miami#19",
      "title": "Columbus coach says Messi should've got red card in Miami loss: 'Everyone knows' - ESPN",
      "published": "2026-11-22T04:39:00+00:00",
      "summary": "Columbus coach says Messi should've got red card in Miami loss: 'Everyone knows' ESPN"
     },
     {
-     "ref": "gnews_inter_miami#21",
+     "ref": "gnews_inter_miami#20",
      "title": "Inter Miami suffers a heavy defeat and finds itself on the ropes in the MLS playoffs - CiberCuba",
      "published": "2026-11-22T04:34:18+00:00",
      "summary": "Inter Miami suffers a heavy defeat and finds itself on the ropes in the MLS playoffs CiberCuba"
     },
     {
-     "ref": "gnews_inter_miami#22",
+     "ref": "gnews_inter_miami#21",
      "title": "Highlights: Inter Miami CF 0-3 Columbus Crew (MLS) - Yahoo Sports",
      "published": "2026-11-22T04:33:49+00:00",
      "summary": "Highlights: Inter Miami CF 0-3 Columbus Crew (MLS) Yahoo Sports"
     },
     {
-     "ref": "gnews_inter_miami#23",
+     "ref": "gnews_inter_miami#22",
      "title": "Furore over Lionel Messi after Columbus thrash Inter Miami in MLS Cup: He deserved more than a yellow card | Football News - Hindustan Times",
      "published": "2026-11-22T04:32:55+00:00",
      "summary": "Furore over Lionel Messi after Columbus thrash Inter Miami in MLS Cup: He deserved more than a yellow card | Football News Hindustan Times"
     },
     {
-     "ref": "gnews_inter_miami#24",
+     "ref": "gnews_inter_miami#23",
      "title": "MLS: Inter Miami 0, Crew 3 - TSN",
      "published": "2026-11-22T04:32:00+00:00",
      "summary": "MLS: Inter Miami 0, Crew 3 TSN"
+    },
+    {
+     "ref": "gnews_inter_miami#24",
+     "title": "Are Inter Miami Eliminated After Their MLS Playoff Loss to Columbus Crew? Everything You Need to Know - Yahoo Sports",
+     "published": "2026-11-22T04:26:37+00:00",
+     "summary": "Are Inter Miami Eliminated After Their MLS Playoff Loss to Columbus Crew? Everything You Need to Know Yahoo Sports"
     }
    ]
   },
