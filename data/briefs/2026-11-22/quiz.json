@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-22",
+  "questions": [
+    {
+      "id": "quiz-business-ai-selloff",
+      "section": "business",
+      "story_id": "ai-selloff-vs-debt-markets",
+      "answer_index": 0,
+      "en": {
+        "question": "What did this week's $32 billion bond deal to finance SpaceX's AI chip purchases reveal, even as AI stocks were selling off sharply?",
+        "options": [
+          "Debt investors still trust the value of AI's physical infrastructure, even though equity investors are panicking about AI stocks",
+          "The Federal Reserve announced it would start buying AI company bonds directly",
+          "SpaceX had abandoned its plans to buy AI chips",
+          "Anthropic's IPO proceeds were used to fully repay SpaceX's existing debt"
+        ],
+        "explanation": "Bondholders are repaid first and hold the chips as collateral, so they're effectively betting the hardware's value holds up even if AI stocks have a rough quarter."
+      },
+      "he": {
+        "question": "מה גילתה עסקת האג\"ח בסך 32 מיליארד דולר למימון רכישות שבבי ה-AI של ספייסX השבוע, בזמן שמניות ה-AI נמכרו בחדות?",
+        "options": [
+          "משקיעי החוב עדיין בוטחים בערך התשתית הפיזית של ה-AI, גם כשמשקיעי המניות נמצאים בפאניקה סביב מניות AI",
+          "הפד הודיע שיתחיל לקנות ישירות אג\"ח של חברות AI",
+          "ספייסX זנחה את תוכניותיה לרכוש שבבי AI",
+          "כספי ההנפקה של אנתרופיק שימשו לסילוק מלא של חוב קיים של ספייסX"
+        ],
+        "explanation": "מחזיקי האג\"ח מקבלים תשלום ראשונים ומחזיקים בשבבים כבטוחה, כך שהם למעשה מהמרים שערך החומרה ישמר גם אם למניות ה-AI יש רבעון גרוע."
+      }
+    },
+    {
+      "id": "quiz-geopolitics-ukraine-trump-putin",
+      "section": "geopolitics",
+      "story_id": "ukraine-shadow-war-trump-putin",
+      "answer_index": 2,
+      "en": {
+        "question": "What tension did this week's news about Ukraine and its allies highlight?",
+        "options": [
+          "Zelensky and Putin held a direct summit in Washington",
+          "NATO announced it was withdrawing troops from Poland",
+          "Ukraine widened its drone campaign against Russian-linked shipping even as Trump adopted a noticeably warmer public tone toward Putin",
+          "Ukraine agreed to a full ceasefire brokered by China"
+        ],
+        "explanation": "Ukraine struck the Crimean Bridge and Russia-linked ships in the Baltic and Gulf of Finland days after Trump called Putin a \"friend,\" prompting Zelensky to call Putin \"a killer.\""
+      },
+      "he": {
+        "question": "איזה מתח בלט בחדשות השבוע על אוקראינה ובעלות בריתה?",
+        "options": [
+          "זלנסקי ופוטין קיימו פגישת פסגה ישירה בוושינגטון",
+          "נאט\"ו הודיעה שהיא נסוגה מכוחותיה בפולין",
+          "אוקראינה הרחיבה את מערכת הרחפנים שלה נגד ספנות הקשורה לרוסיה, בעת שטראמפ אימץ בפומבי טון חם יותר באופן בולט כלפי פוטין",
+          "אוקראינה הסכימה להפסקת אש מלאה בתיווך סין"
+        ],
+        "explanation": "אוקראינה תקפה את גשר קרים ואוניות הקשורות לרוסיה בים הבלטי ובמפרץ פינלנד ימים אחרי שטראמפ קרא לפוטין \"חבר\", מה שהוביל את זלנסקי לקרוא לפוטין \"רוצח\"."
+      }
+    },
+    {
+      "id": "quiz-ideas-network-resilience",
+      "section": "ideas",
+      "story_id": "perfect-network-resilience",
+      "answer_index": 1,
+      "en": {
+        "question": "What did researchers Stefan Schmid and Matthias Bentert discover about networks that can route data around any failed link, no matter the failure pattern?",
+        "options": [
+          "Every network can achieve perfect resilience if it has enough total connections",
+          "Exactly four simple network structures are the only reason a network can fail to achieve this \"perfect resilience\"",
+          "No network can ever achieve perfect resilience, regardless of its structure",
+          "Perfect resilience is only possible if routers share a complete global map before every decision"
+        ],
+        "explanation": "They proved there are exactly four \"forbidden\" network structures that block perfect resilience, and found a simple routing rule that works for any network avoiding all four."
+      },
+      "he": {
+        "question": "מה גילו החוקרים שטפן שמיד ומתיאס בנטרט על רשתות שמצליחות לנתב מידע מסביב לכל קישור שנכשל, לא משנה דפוס הכשל?",
+        "options": [
+          "כל רשת יכולה להשיג חוסן מושלם אם יש לה מספיק קישורים בסך הכול",
+          "רק ארבעה מבני-רשת פשוטים הם הסיבה היחידה לכך שרשת לא יכולה להשיג \"חוסן מושלם\" כזה",
+          "אין אף רשת שיכולה להשיג חוסן מושלם, לא משנה המבנה שלה",
+          "חוסן מושלם אפשרי רק אם לנתבים יש מפה גלובלית מלאה לפני כל החלטה"
+        ],
+        "explanation": "הם הוכיחו שיש בדיוק ארבעה מבנים \"אסורים\" שחוסמים חוסן מושלם, ומצאו כלל ניתוב פשוט שעובד בכל רשת שנמנעת מכל ארבעתם."
+      }
+    }
+  ]
+}

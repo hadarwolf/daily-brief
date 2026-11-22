@@ -1,0 +1,131 @@
+{
+  "section": "business",
+  "date": "2026-11-22",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-22T03:54:04+00:00",
+  "stories": [
+    {
+      "id": "ai-selloff-vs-debt-markets",
+      "kind": "analysis",
+      "en": {
+        "headline": "Wall Street Is Funding the AI Boom and Fleeing From It at the Same Time",
+        "scroll": "Investors erased the Nasdaq's 2026 gains in a single brutal week, yet banks just priced a record $32 billion bond sale to keep funding AI chip purchases.",
+        "coffee": "A brutal week for AI stocks erased the Nasdaq's gains for 2026: chip stocks fell as much as 14% in a single session, Anthropic's shares slid to within cents of their IPO price just days after the biggest public offering in history, and the S&P 500 and Dow both fell into correction territory — a drop of 10% or more from a recent high, the standard Wall Street uses before reaching for the heavier label \"bear market\" (a 20% decline).\n\nYet while equity investors fled, debt markets kept writing checks. Goldman Sachs and Apollo priced $32 billion in bonds to help fund SpaceX's AI chip purchases — asset-backed debt secured by the hardware itself rather than by a claim on future profits. That split matters: shareholders absorb a company's upside and downside, while bondholders are repaid first and hold collateral if things go wrong. Lenders betting on AI's physical infrastructure are, for now, far more confident than the public shareholders currently panicking about the companies built on top of it.\n\nWatch three things this week: whether Anthropic's stock stabilizes as lock-up restrictions loosen and more shares reach the market, whether chipmakers' upcoming earnings calm nerves about collapsing demand, and whether bond investors start demanding higher yields too — the real signal that credit markets, not just stock pickers, have lost confidence in AI's near-term economics.",
+        "deep": "## Background\n\nBuilding the infrastructure for artificial intelligence — chips, data centers, power — costs an extraordinary amount of money, and companies have been raising that money in two very different ways. One is equity: selling shares in an AI company or chipmaker, where investors bet on the business's future profits and accept that their investment can rise or fall with the company's fortunes. The other is debt: borrowing money, often through bonds backed by specific assets (asset-backed bonds) such as chips or data-center equipment, rather than by a claim on the business as a whole.\n\nA \"correction\" is Wall Street's term for an index falling 10% or more from its recent peak. The heavier label \"bear market\" is reserved for a 20% drop. This week delivered the former, and flirted with the latter in parts of the market, while debt markets kept functioning almost as if nothing had happened.\n\n## The story\n\nChip stocks fell as much as 14% in a single session this week, the Nasdaq erased all its gains for 2026, and the Dow lost roughly 10% from its recent high. The triggers were already in motion before this week: Nvidia's abrupt ouster of CEO Jensen Huang had unsettled the chip sector, and Anthropic's stock, after the largest IPO in history, slid within days to just a few cents above its offering price — a stinging reversal for a debut that had been billed as validation of the AI boom.\n\nAgainst that backdrop, Goldman Sachs and Apollo priced $32 billion of bonds to help fund SpaceX's purchases of AI chips. The deal is a bet that the physical hardware behind AI holds its value even if the companies using it have a rough quarter on the stock market. It is the same underlying technology that spooked equity investors, financed through a completely different layer of the capital structure (the ranked claims — debt, then equity — that different investors hold on a company's assets and cash flow).\n\n## Second-order effects\n\nThe split between a panicking equity market and a calm debt market isn't necessarily a contradiction — it reflects how differently the two groups of investors are exposed. Equity holders absorb both the upside and downside of a company's fortunes; bondholders are repaid before shareholders and typically hold collateral, so a short-term stock slide affects them only if it signals the borrower's whole business, or the resale value of the chips themselves, is actually in danger.\n\nA smaller, counterintuitive detail from this week shows how messy \"risk-off\" selloffs can get: gold, the traditional safe-haven asset investors flock to during a panic, fell to a roughly 15-month low over the same days stocks were tanking. The reason was less about fear and more about expectations for the Federal Reserve's interest-rate path — higher expected rates raise the opportunity cost of holding an asset like gold that pays no yield, and that effect outweighed the usual safe-haven bid. Not every asset moves the way a textbook panic would predict.\n\nThe real risk to watch is whether the chip-collateral logic behind deals like the SpaceX bonds holds up. The chips backing that debt are only as valuable as the AI demand assumptions still being made — the same assumptions equity investors are suddenly questioning. If that doubt spreads from stocks into credit markets, borrowing costs for AI infrastructure would rise sharply, a far more consequential shift than a few rough weeks for AI stocks.\n\n## What to watch next\n\nThree signals will show whether this settles into a normal correction or something worse: whether Anthropic's stock stabilizes as lock-up restrictions (the period after an IPO when insiders are barred from selling) loosen and more shares reach the market; whether upcoming chipmaker earnings reassure investors that demand for AI hardware remains intact; and, most importantly, whether bond investors start demanding higher yields on AI-linked debt. That last one would mean the credit markets that financed this week's $32 billion deal have started to doubt the trade too."
+      },
+      "he": {
+        "headline": "וול סטריט מממנת את בועת ה-AI ובורחת ממנה במקביל",
+        "scroll": "משקיעים מחקו בשבוע אחד את עליות נאסד\"ק לכל 2026, אך הבנקים תמחרו הנפקת אג\"ח שיא של 32 מיליארד דולר למימון AI — ההון והחוב מתמחרים את זה אחרת בתכלית.",
+        "coffee": "שבוע אכזרי למניות ה-AI מחק את כל עליות נאסד\"ק לשנת 2026: מניות השבבים צנחו בחלק מהמקרים ב-14% ביום מסחר בודד, מניית אנתרופיק נסחרה כמה סנטים מעל מחיר ההנפקה שלה רק ימים לאחר ההנפקה הגדולה בהיסטוריה, ומדדי S&P 500 ודאו ג'ונס נכנסו ל\"תיקון\" (correction) — ירידה של 10% או יותר מהשיא האחרון, ההגדרה הסטנדרטית בוול סטריט לפני שמדברים על \"שוק דובי\" (bear market), ירידה של 20%.\n\nאבל בזמן שמשקיעי המניות ברחו, שוק החוב המשיך לממן. גולדמן זאקס ואפולו תמחרו הנפקת אג\"ח (bonds) בסך 32 מיליארד דולר למימון רכישות שבבי AI עבור ספייסX — חוב מגובה-נכסים (asset-backed debt) המובטח בחומרה עצמה ולא בתביעה לרווחים עתידיים. ההבדל הזה חשוב: בעלי המניות סופגים את העלייה והירידה בשווי החברה, ואילו מחזיקי האג\"ח מקבלים תשלום ראשונים ומחזיקים בבטוחה אם משהו משתבש. במילים אחרות, הגורמים שמלווים כסף לתשתית הפיזית של ה-AI בטוחים בהרבה כרגע מבעלי המניות הציבוריים שנמצאים בפאניקה.\n\nשלושה דברים לעקוב אחריהם השבוע: האם מניית אנתרופיק מתייצבת כשמשקיעים מוקדמים ועובדים יוכלו למכור בחופשיות רבה יותר עם הסתיימות תקופת הנעילה, האם דוחות הרבעון של יצרניות השבבים ירגיעו את החששות מקריסת הביקוש, והאם גם משקיעי האג\"ח יתחילו לדרוש תשואות גבוהות יותר — הסימן האמיתי לכך ששוק האשראי, ולא רק בוחרי מניות, מאבד אמון בכלכלת ה-AI הקרובה.",
+        "deep": "## רקע\n\nבניית התשתית הדרושה לבינה מלאכותית (AI) — שבבים, מרכזי נתונים, חשמל — עולה הון עתק, וחברות מגייסות את הכסף הזה בשתי דרכים שונות מהותית. הדרך הראשונה היא הון עצמי (equity): מכירת מניות בחברת AI או ביצרנית שבבים, כשהמשקיעים מהמרים על הרווחים העתידיים של העסק ומקבלים על עצמם שההשקעה יכולה לעלות או לרדת עם מזל החברה. הדרך השנייה היא חוב: הלוואה, לרוב בצורת איגרות חוב מגובות-נכסים (asset-backed bonds) — מובטחות בנכסים ספציפיים כמו שבבים או ציוד למרכזי נתונים, ולא בתביעה כלפי העסק כולו.\n\n\"תיקון\" (correction) הוא המונח שוול סטריט משתמש בו למדד שצונח 10% או יותר מהשיא האחרון שלו. את התיאור החריף יותר, \"שוק דובי\" (bear market), שומרים לירידה של 20%. השבוע הזה הביא את הראשון, ונגע בשני בחלקים מסוימים של השוק — ובמקביל, שוק החוב המשיך לתפקד כאילו כלום לא קרה.\n\n## הסיפור\n\nמניות השבבים צנחו בחלק מהמקרים ב-14% ביום מסחר בודד השבוע, נאסד\"ק מחק את כל עליות 2026, ודאו ג'ונס איבד כ-10% מהשיא האחרון שלו. הטריגרים המוקדמים כבר היו בתנועה לפני השבוע הזה: הדחתו הפתאומית של ג'נסן הואנג ממנכ\"ל אנבידיה זרעה חששות בענף השבבים, ומניית אנתרופיק, ימים ספורים לאחר ההנפקה הגדולה בהיסטוריה, צנחה לכמה סנטים מעל מחיר ההנפקה — מהפך כואב לחברה שההנפקה שלה נחשבה לאישור של פריחת ה-AI.\n\nעל רקע זה, גולדמן זאקס ואפולו תמחרו אג\"ח בסך 32 מיליארד דולר למימון רכישות שבבי AI עבור ספייסX. העסקה הזו היא למעשה הימור שהחומרה הפיזית שמאחורי ה-AI — השבבים עצמם — שומרת על ערכה גם אם לחברות שמשתמשות בה יש רבעון גרוע בבורסה. זו אותה טכנולוגיה שהבהילה את משקיעי המניות, רק ממומנת בשכבה אחרת לגמרי של מבנה ההון (capital structure) — השכבות המדורגות של תביעות שיש למשקיעים שונים (חוב, ואז הון) על נכסי החברה ותזרים המזומנים שלה.\n\n## השפעות מסדר שני\n\nהפיצול בין שוק מניות שנמצא בפאניקה לשוק חוב רגוע אינו בהכרח סתירה — הוא משקף עד כמה שתי קבוצות המשקיעים חשופות באופן שונה. בעלי המניות סופגים גם את העלייה וגם את הירידה במזל החברה; מחזיקי האג\"ח מקבלים תשלום לפני בעלי המניות ולרוב מחזיקים בבטוחה, כך שירידה קצרת-טווח במניה משפיעה עליהם רק אם היא מסמנת שהעסק כולו, או ערך המכירה החזור של השבבים עצמם, נמצא בסכנה ממשית.\n\nפרט קטן ומפתיע מהשבוע הזה מדגים כמה מבולבלות יכולות להיות מכירות פאניקה: הזהב, נכס המבטחים (safe haven) המסורתי שמשקיעים נוהרים אליו בעת פאניקה, צנח לשפל של כ-15 חודשים באותם ימים שבהם המניות קרסו. הסיבה לא הייתה פחד, אלא ציפיות למסלול הריבית של הפד — ציפייה לריבית גבוהה יותר מעלה את עלות ההחמצה (opportunity cost) של החזקת נכס כמו זהב שלא משלם תשואה, וההשפעה הזו גברה על הביקוש הרגיל לנכס מבטחים. לא כל נכס מתנהג כמו שספר לימוד על פאניקות היה מנחש.\n\nהסיכון האמיתי שיש לעקוב אחריו הוא אם ההיגיון של בטוחה בצורת שבבים מאחורי עסקאות כמו אג\"ח ספייסX ימשיך לעמוד. השבבים שמבטיחים את החוב הזה שווים רק כמו הנחות הביקוש ל-AI שעליהן הם מבוססים — אותן הנחות שמשקיעי המניות מתחילים פתאום להטיל בהן ספק. אם הספק הזה יתפשט ממניות לשוקי האשראי, עלויות האשראי למימון תשתיות ה-AI יעלו בחדות — שינוי בעל משמעות גדולה בהרבה מכמה שבועות גרועים למניות AI.\n\n## מה לעקוב אחריו הלאה\n\nשלושה סימנים יראו אם זה יישאר תיקון רגיל או יהפוך למשהו גרוע יותר: אם מניית אנתרופיק מתייצבת כשתקופת הנעילה (lock-up period) — התקופה שאחרי הנפקה שבה בעלי עניין אסורים במכירת מניות — מסתיימת ועוד מניות מגיעות לשוק; אם דוחות הרבעון הקרובים של יצרניות השבבים ירגיעו חששות שהביקוש לחומרת AI נחלש; והחשוב מכול — אם משקיעי האג\"ח יתחילו לדרוש תשואות גבוהות יותר על חוב מקושר ל-AI. הסימן האחרון הזה יעיד ששוקי האשראי שמימנו את עסקת 32 מיליארד הדולר השבוע התחילו לפקפק גם הם בעסקה."
+      },
+      "tags": [
+        "ai-bubble",
+        "stock-market",
+        "asset-backed-financing",
+        "capital-structure"
+      ],
+      "sources": [
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Anthropic Makes Its Public Market Debut",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+          "url": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Nasdaq Turns Red For The Year",
+          "url": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
+          "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Tech Rout Deepens as Anthropic Stock Slides",
+          "url": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "וול סטריט התרסקה: נאסד\"ק צנח ב-5.5%, מניות השבבים נפלו ב-14%, אנתרופיק ב-9%",
+          "url": "https://www.themarker.com/wallstreet/2026-11-20/ty-article-live/000001a1-e2bb-da30-a7fb-fabf3a770000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מניית אנתרופיק צנחה - ומחקה כמעט את כל הזינוק שרשמה בהנפקה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-20/ty-article/000001a1-f996-d381-ade5-fbf7d4490000"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3861.51,
+      "prev_close": 3919.0701,
+      "change_pct": -1.47,
+      "as_of": "2026-11-20"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 6910.3901,
+      "prev_close": 7175.8301,
+      "change_pct": -3.7,
+      "as_of": "2026-11-20"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.2982,
+      "prev_close": 3.2771,
+      "change_pct": 0.64,
+      "as_of": "2026-11-20"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 92.57,
+      "prev_close": 91.98,
+      "change_pct": 0.64,
+      "as_of": "2026-11-20"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 59105.3281,
+      "prev_close": 58798.9805,
+      "change_pct": 0.52,
+      "as_of": "2026-11-22"
+    }
+  }
+}
