@@ -44,57 +44,69 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "geektime#0",
+     "title": "עברתם חברה כדי לשדרג את השכר? תבדקו שלא הפסדתם אלף שקל בחודש",
+     "published": "2026-11-23T10:03:41+00:00",
+     "summary": "מאת מיטל כהן עצרתם פעם לשאול איך Job Hopping משפיע על הכסף שיחכה לכם אחרי שתפרשו? מעבר תכוף בין מקומות עבודה הוא פרקטיקה מקובלת בהייטק, ולעתים קרובות היא ממש הכרחית אם רוצים להתקדם, להתפתח מקצועית ולהרוויח יותר. אבל יש כמה החלטות שקשורות במעברים האלה, שעשויות להשפיע על שנים של חיסכון. הבעיה היא לא עצם המעבר, […] The post עברתם חברה כדי לשדרג את השכר? תבדקו שלא הפסדתם אלף שקל בחודש appeared first o"
+    },
+    {
+     "ref": "geektime#1",
+     "title": "נגמרה החגיגה: גוגל מתחילה להקשות על התקנת אפליקציות מחוץ לחנות",
+     "published": "2026-11-23T09:34:31+00:00",
+     "summary": "אחד היתרונות הגדולים של משתמשי אנדרואיד על חבריהם, בעלי המכשיר עם התפוח הנגוס על גב המכשיר, הוא החופש להתקין אפליקציות מאיפה שהם רק רוצים. מצאתם אפליקציה מעניינת בגיטהאב? רוצים להוריד אפליקציה שלא נמצאת ב-Google Play או להשתמש בחנות אפליקציות חלופית? פשוט מורידים את קובץ ה-APK, מתקינים ונהנים. אלא שבקרוב התהליך הזה עשוי להפוך למורכב הרבה […] The post נגמרה החגיגה: גוגל מתחילה להקשות על התקנת אפליק"
+    },
+    {
+     "ref": "geektime#2",
+     "title": "לאפל יש בעיה רצינית, והיא רק עכשיו מתחילה לעבוד עליה",
+     "published": "2026-11-23T07:46:03+00:00",
+     "summary": "אפל נמצאת בנקודה מאוד מעניינת. בעוד המניות של ענקיות הטכנולוגיה קורסות באופן מרהיב, מניית אפל מסכמת עלייה של יותר מ-26% מתחילת השנה. איכשהו, נראה שההימור של אפל, שהיה לא להמר על תחום ה-AI, השתלם לה בדיעבד. אולם כעת, אחרי כמה שינויים משמעותיים מאוד בשוק, יכול להיות שהיא נמצאת בדרך לצרה הרבה יותר גדולה. הסוכנים באים […] The post לאפל יש בעיה רצינית, והיא רק עכשיו מתחילה לעבוד עליה appeared first on "
+    },
+    {
+     "ref": "geektime#3",
      "title": "9 שנות קוד ב-7 ימי עבודה: כך העברנו בעזרת AI מערכת בפרודקשן מ-Python ל-Go",
      "published": "2026-11-22T16:07:00+00:00",
      "summary": "שבעה ימי עבודה – זה הזמן שלקח לנו להעביר את הקוד הפעיל שלנו בפרודקשן מ-Python ל-Go, באמצעות AI. התוצאה? ירידה של 80 אחוז בעלויות הענן ושיפור ביצועים של עד פי 11 בפונקציות מסוימות. עלות הטוקנים הסתכמה בכ-5% בלבד מהחיסכון שהשגנו. עד לאחרונה, פרויקט כזה היה דורש השקעה משמעותית של זמן ומשאבי פיתוח, אבל השימוש ב-AI […] The post 9 שנות קוד ב-7 ימי עבודה: כך העברנו בעזרת AI מערכת בפרודקשן מ-Python ל-Go a"
     },
     {
-     "ref": "geektime#1",
+     "ref": "geektime#4",
      "title": "חדש: עשיתם עבירת תנועה? הדוח מהמשטרה יגיע אליכם מייד לנייד",
      "published": "2026-11-22T13:32:21+00:00",
      "summary": "לקבל בדואר דוח תנועה מהמשטרה חודש אחרי העבירה זה דבר מתסכל למדי, בעיקר כי בשלב הזה קשה לזכור מי בכלל נהג ברכב ומה היו הנסיבות לעבירה. עכשיו, מתברר שמשטרת ישראל מבצעת שדרוג דיגיטלי קטן, שאמור לסייע לכם או קרובים אליכם, אם ביצעתם עבירת תנועה כלשהי (בואו, אנחנו יוצאים מנקודת הנחה שקוראי גיקטיים לא עושים עבירות […] The post חדש: עשיתם עבירת תנועה? הדוח מהמשטרה יגיע אליכם מייד לנייד appeared first on ג"
     },
     {
-     "ref": "geektime#2",
+     "ref": "geektime#5",
      "title": "בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים)",
      "published": "2026-11-22T09:32:36+00:00",
      "summary": "מנהלי IT ואבטחת מידע עומדים היום מול דילמה דחופה: מצד אחד, קיים לחץ עסקי לאמץ סוכני AI ולהפיק מהם ערך במהירות. מצד שני, האימוץ הזה מגיע עם סכנות אבטחה משמעותיות – סוכנים שפועלים בלי פיקוח, חשיפת מידע רגיש וקושי לנטר את הפעילות. בארגונים רבים חסרה מסגרת Governance ברורה, ולכן הם תקועים באמצע הדרך שבין פיילוט […] The post בואו ללמוד בלייב איך מביאים סוכנים לפרודקשן (בלי לאבד שנה מהחיים) appeared fir"
     },
     {
-     "ref": "geektime#3",
+     "ref": "geektime#6",
      "title": "אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI",
      "published": "2026-11-22T08:49:11+00:00",
      "summary": "גם העמוד המוכר ביותר באינטרנט לא חסין בפני השפעות ה-AI והוא בדרך למתיחת פנים נדירה למדי. אחרי שגוגל נתפסה לא מוכנה במירוץ ה-AI, ואחרי הקאמבק, ואחרי שהיא שוב נתפסת כמפגרת אחרי המתחרות – היא מתחילה להטמיע את Gemini עמוק גם לתוך מוצר הדגל שלה, עמוד החיפוש. היכונו לעוד שינוי השינוי המשמעותי הראשון לעמוד הבית של […] The post אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#4",
+     "ref": "geektime#7",
      "title": "טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה התרסקו",
      "published": "2026-11-22T08:16:54+00:00",
      "summary": "אחרי חודשים ארוכים שבהם מניות ה-AI סחבו את וול סטריט על הגב, נראה שלשוק ההון מתחילה להיגמר הסבלנות. ביום שישי האחרון ננעל שבוע מסחר מדמם במיוחד עבור ענקיות הטכנולוגיה, עם ירידות חדות במדדים המובילים בארה\"ב, מחיקה של טריליוני דולרים משווי החברות, והצלילה הגדולה ביותר של מניית אנבידיה (NVIDIA) מאז התפטרות ג'נסן הואנג. מה בעצם קרה […] The post טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה"
     },
     {
-     "ref": "geektime#5",
+     "ref": "geektime#8",
      "title": "סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו בהם משהו חדש",
      "published": "2026-11-21T16:29:29+00:00",
      "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. CxO Security Breakfast | Google Cloud and Sela מתי? 6 […] The post סוכנים וסיכונים: 3 אירועים מומלצים שבאמת תלמדו ב"
     },
     {
-     "ref": "geektime#6",
+     "ref": "geektime#9",
      "title": "ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה",
      "published": "2026-11-21T13:33:44+00:00",
      "summary": "כמה התרגשנו כשהבינה המלאכותית הגיעה לחיינו. כל מי שחלם על מיזם יכול היה פתאום לבנות אותו במו ידיו. וכולם אכן בונים. כל אחד מרים לעצמו את הכלי שהוא צריך בלי לחכות שמישהו אחר יעשה את זה בשבילו. אבל לחלום הזה יש צד שני: הביקוש נגמר. אף אחד לא מעוניין יותר בכלים של אחרים. זה כמו […] The post ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה appeared first on גיקטיים ."
     },
     {
-     "ref": "geektime#7",
+     "ref": "geektime#10",
      "title": "מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות",
      "published": "2026-11-21T11:12:26+00:00",
      "summary": "הרבה מכם מכירים את הנוהל: ממלאים את עגלת הקניות באמזון במהלך השבועות האחרונים, ויושבים עליה בסבלנות עד סוף נובמבר כדי לתפוס את ההנחות של הבלאק פריידיי. זה אולי מרגיש כמו צרכנות חכמה ותחושת ה\"דפקתי את המערכת\" האהובה עלינו כישראלים, אבל מחקר חדש שבדק את היסטוריית המחירים של מאות מוצרים באמזון מראה שלפעמים, ההמתנה הזו פשוט […] The post מחכים עם הקניות לבלאק פריידי? הנתונים מראים שזו אולי טעות appeare"
-    },
-    {
-     "ref": "geektime#8",
-     "title": "במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים",
-     "published": "2026-11-21T08:21:29+00:00",
-     "summary": "בזמן שרבים בהייטק חוששים שה-AI יחליף אותם (והנתונים בהחלט מעידים על מקום לדאגה), משחק ישראלי חדש מציע לכם לעבור דווקא לצד השני של המתרס. במקום לעדכן קורות חיים ולעבוד על יכולות הריאיון שלכם, אתם תיכנסו לנעליים של מעבדת AI ותנסו להשתלט על שוק העבודה העולמי, מקצוע אחר מקצוע, לפני שהרגולציה תשתלט עליכם. כשסין ניסתה לגנוב […] The post במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים appeared first on גיק"
     }
    ]
   },
@@ -104,63 +116,81 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
    "items": [
     {
      "ref": "hn_frontpage#0",
-     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-     "published": "2026-11-23T01:13:51+00:00",
-     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 154 # Comments: 21"
+     "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+     "published": "2026-11-23T03:49:24+00:00",
+     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 328 # Comments: 153"
     },
     {
      "ref": "hn_frontpage#1",
-     "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-     "published": "2026-11-22T23:12:10+00:00",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 168 # Comments: 146"
+     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+     "published": "2026-11-23T01:13:51+00:00",
+     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 530 # Comments: 84"
     },
     {
      "ref": "hn_frontpage#2",
-     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-     "published": "2026-11-22T21:01:16+00:00",
-     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 290 # Comments: 124"
+     "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+     "published": "2026-11-22T23:12:10+00:00",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 234 # Comments: 173"
     },
     {
      "ref": "hn_frontpage#3",
-     "title": "A miniature San Francisco with live buses, planes and boats",
-     "published": "2026-11-22T20:33:23+00:00",
-     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 168 # Comments: 76"
+     "title": "GL.iNet Security Notice 2026-11-20",
+     "published": "2026-11-22T23:06:37+00:00",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 206 # Comments: 97"
     },
     {
      "ref": "hn_frontpage#4",
-     "title": "What Happened to Silicon Valley?",
-     "published": "2026-11-22T19:20:15+00:00",
-     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 476 # Comments: 276"
+     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+     "published": "2026-11-22T21:01:16+00:00",
+     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 515 # Comments: 217"
     },
     {
      "ref": "hn_frontpage#5",
-     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-     "published": "2026-11-22T19:10:34+00:00",
-     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 388 # Comments: 189"
+     "title": "A miniature San Francisco with live buses, planes and boats",
+     "published": "2026-11-22T20:33:23+00:00",
+     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 277 # Comments: 93"
     },
     {
      "ref": "hn_frontpage#6",
-     "title": "Perplexity and Intelligence",
-     "published": "2026-11-22T17:06:27+00:00",
-     "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 512 # Comments: 352"
+     "title": "Assume People Are Not Interested in Your Blog Post",
+     "published": "2026-11-22T19:41:30+00:00",
+     "summary": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 204 # Comments: 103"
     },
     {
      "ref": "hn_frontpage#7",
-     "title": "Open Social Web Alliance",
-     "published": "2026-11-22T15:24:32+00:00",
-     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 228 # Comments: 216"
+     "title": "What Happened to Silicon Valley?",
+     "published": "2026-11-22T19:20:15+00:00",
+     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 660 # Comments: 349"
     },
     {
      "ref": "hn_frontpage#8",
-     "title": "Show HN: I built a game where you are an LLM's subagent",
-     "published": "2026-11-22T13:56:58+00:00",
-     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 280 # Comments: 66"
+     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+     "published": "2026-11-22T19:10:34+00:00",
+     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 505 # Comments: 255"
     },
     {
      "ref": "hn_frontpage#9",
+     "title": "Perplexity and Intelligence",
+     "published": "2026-11-22T17:06:27+00:00",
+     "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 590 # Comments: 400"
+    },
+    {
+     "ref": "hn_frontpage#10",
+     "title": "Show HN: I built a game where you are an LLM's subagent",
+     "published": "2026-11-22T13:56:58+00:00",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 318 # Comments: 78"
+    },
+    {
+     "ref": "hn_frontpage#11",
+     "title": "Masullo on the Riemann Hypothesis",
+     "published": "2026-11-22T10:59:56+00:00",
+     "summary": "Article URL: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50598441 Points: 224 # Comments: 194"
+    },
+    {
+     "ref": "hn_frontpage#12",
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "published": "2026-11-22T04:04:56+00:00",
-     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1206 # Comments: 684"
+     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1303 # Comments: 705"
     }
    ]
   },
@@ -221,12 +251,6 @@ Output: write `drafts/tech.json` matching `schemas/tech.schema.json`.
      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
      "published": "2026-11-16T11:00:03+00:00",
      "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This webinar shows how in-line inspection and offline characterization combine into one workflow, from tool "
-    },
-    {
-     "ref": "ieee_spectrum#9",
-     "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
-     "published": "2026-11-16T10:00:01+00:00",
-     "summary": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others. Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The coun"
     }
    ]
   },

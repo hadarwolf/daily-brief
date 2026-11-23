@@ -136,83 +136,78 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
    "items": [
     {
      "ref": "marginal_revolution#0",
+     "title": "Best non-fiction books of 2026",
+     "published": "2026-11-23T06:10:57+00:00",
+     "summary": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan: A Life. Brendan Greeley, The Almighty Dollar: 500 Years of the World’s Most Powerful […] The post Best non-fiction books of 2026 appeared first on Marginal REVOLUTION .",
+     "full_text_file": "essays/marginal_revolution_0.txt"
+    },
+    {
+     "ref": "marginal_revolution#1",
      "title": "Increasing pay for lower wage workers",
      "published": "2026-11-22T19:24:24+00:00",
      "summary": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers have supplanted low-paying ones—from organizational changes among incumbent employers. Organizational changes can be imposed on employers by external […] The post Increasing pay fo"
     },
     {
-     "ref": "marginal_revolution#1",
+     "ref": "marginal_revolution#2",
      "title": "Sunday assorted links",
      "published": "2026-11-22T17:31:05+00:00",
      "summary": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes on user data vs. curated data. The post Sunday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#2",
+     "ref": "marginal_revolution#3",
      "title": "Danish daughters",
      "published": "2026-11-22T07:40:20+00:00",
      "summary": "Using Danish administrative data, we compare parents of only children who experience a stroke at the same age and differ only in the gender of their child. Before the stroke, parents of daughters and parents of sons follow similar health trajectories, with comparable levels of pre-existing conditions and healthcare utilization. After the stroke, a survival gap opens and grows, […] The post Danish "
     },
     {
-     "ref": "marginal_revolution#3",
+     "ref": "marginal_revolution#4",
      "title": "Will AI Growth Reach the Developing World?",
      "published": "2026-11-22T06:14:28+00:00",
      "summary": "Here is the abstract from a new NBER paper by Daniel Björkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on the world market, and […] The post Will AI Growth Reach the Developing World? appeared first on Margina",
-     "full_text_file": "essays/marginal_revolution_3.txt"
+     "full_text_file": "essays/marginal_revolution_4.txt"
     },
     {
-     "ref": "marginal_revolution#4",
+     "ref": "marginal_revolution#5",
      "title": "Saturday assorted links",
      "published": "2026-11-21T16:41:52+00:00",
      "summary": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5. Good AI policy ideas from Joshua Saxe. 6. Podcast with SBF from prison, have not had a chance to listen, […] The post Saturday assorted links appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#5",
+     "ref": "marginal_revolution#6",
      "title": "A simple observation",
      "published": "2026-11-21T15:12:31+00:00",
      "summary": "The Riemann proof seems like a true surprise. Yet on the same day Anthropic shares fell about ten percent. In other words, the market feels that “capabilities” do not necessarily translate into significant social and economic outcomes. Yet cybersecurity stocks are up considerably over the last few months, due to heightened cyber risk. So the […] The post A simple observation appeared first on Marg"
     },
     {
-     "ref": "marginal_revolution#6",
+     "ref": "marginal_revolution#7",
      "title": "Paul Litvak’s Evidence Guide",
      "published": "2026-11-21T11:58:56+00:00",
      "summary": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is the site. This is happening quickly, people. Via Andrea. The post Paul Litvak’s Evidence Guide appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#7",
+     "ref": "marginal_revolution#8",
      "title": "*The Great Enrichment*",
      "published": "2026-11-21T07:25:41+00:00",
      "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: …regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much improvement there truly was. From 1870 to […] The post *The Great Enrichment* appeared first on Margin",
-     "full_text_file": "essays/marginal_revolution_7.txt"
+     "full_text_file": "essays/marginal_revolution_8.txt"
     },
     {
-     "ref": "marginal_revolution#8",
+     "ref": "marginal_revolution#9",
      "title": "Emergent Ventures, 60th cohort",
      "published": "2026-11-21T06:13:27+00:00",
      "summary": "Faris Allafi, Abu Dhabi, 13, train AI models. Eliel Selin, Helsinki, 18, AI agents. Robert Boswall, London area, energy information for the UK. Alex Yang, Harvard, genetics for better organ transplants. Stanislaw Tomaszewski, Warsaw area, AI agents and the organization of trucking. Jonas Dolezal, London, nuclear fusion. Shawnak Shivakumar, Stanford, longevity research. Ruzgar Albayrak, Izmir, […] "
     },
     {
-     "ref": "marginal_revolution#9",
+     "ref": "marginal_revolution#10",
      "title": "What should I ask Walter Isaacson?",
      "published": "2026-11-20T18:44:40+00:00",
      "summary": "Yes I will be doing a Conversation with him, in part to celebrate the reissue of his earlier book The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution. And also to celebrate his new podcast, The Builders. He has other books too! So what should I ask him? The post What should I ask Walter Isaacson? appeared first on Marginal REVOLUTION ."
     },
     {
-     "ref": "marginal_revolution#10",
+     "ref": "marginal_revolution#11",
      "title": "Friday assorted links",
      "published": "2026-11-20T15:26:56+00:00",
      "summary": "1. Markets drive moods, and not vice versa? 2. AI literary scandals and the future of the Latin American novel. 3. New Stripe Press website. 4. Does Claude’s constitution mean anything? 5. Did the Baby Boom help cause the later divorce boom? 6. “Social adversity in early life has minimal, predominantly positive long-term consequences for […] The post Friday assorted links appeared first on Margina"
-    },
-    {
-     "ref": "marginal_revolution#11",
-     "title": "Phonics-based Instruction and Student Achievement",
-     "published": "2026-11-20T08:00:04+00:00",
-     "summary": "That is a new NBER working paper by Alex Hollingsworth, Alberto Ortega & Nikolaos Zirogiannis. Abstract: Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How best to teach reading and improve educational attainment has been an active policy debate for decades. Recently, phonics-based approaches […] The post Phonics-based Instruction and Stu"
-    },
-    {
-     "ref": "marginal_revolution#12",
-     "title": "AIs vs. humans in economics papers",
-     "published": "2026-11-20T05:53:10+00:00",
-     "summary": "Is agentic research any good? Dr Yanagizawa-Drott and his colleague, Olaf Willner, used an AI verifier to check 1,000 APE papers. None was error-free; 842 contained at least one severe error, including ones invalidating headline results. To see roughly how Ape stacks up against human primates, The Economist teamed up with Refine, the research-verification firm […] The post AIs vs. humans in econom"
     }
    ]
   },
@@ -308,8 +303,7 @@ Output: write `drafts/ideas.json` matching `schemas/ideas.schema.json`.
      "ref": "quanta#0",
      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
      "published": "2026-11-20T14:50:41+00:00",
-     "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
-     "full_text_file": "essays/quanta_0.txt"
+     "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine"
     },
     {
      "ref": "quanta#1",

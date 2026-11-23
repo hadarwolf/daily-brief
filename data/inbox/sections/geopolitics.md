@@ -18,153 +18,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "ap_world#0",
-     "title": "College Basketball News: Rankings, Scores, Stats & More - AP News",
-     "published": "2026-11-23T02:23:28+00:00",
-     "summary": "College Basketball News: Rankings, Scores, Stats & More AP News"
-    },
-    {
-     "ref": "ap_world#1",
-     "title": "College sports - AP News",
-     "published": "2026-11-23T02:04:55+00:00",
-     "summary": "College sports AP News"
-    },
-    {
-     "ref": "ap_world#2",
-     "title": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding - AP News",
-     "published": "2026-11-23T01:53:00+00:00",
-     "summary": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding AP News"
-    },
-    {
-     "ref": "ap_world#3",
-     "title": "Mexican fans boo 49ers’ Nick Bosa after his remarks about their cheering at NFL games - AP News",
-     "published": "2026-11-23T01:36:00+00:00",
-     "summary": "Mexican fans boo 49ers’ Nick Bosa after his remarks about their cheering at NFL games AP News"
-    },
-    {
-     "ref": "ap_world#4",
      "title": "Climate change - AP News",
-     "published": "2026-11-23T01:33:56+00:00",
+     "published": "2026-11-23T10:28:03+00:00",
      "summary": "Climate change AP News"
     },
     {
-     "ref": "ap_world#5",
-     "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire - AP News",
-     "published": "2026-11-23T01:23:00+00:00",
-     "summary": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire AP News"
+     "ref": "ap_world#1",
+     "title": "Chicago Blackhawks - AP News",
+     "published": "2026-11-23T10:27:05+00:00",
+     "summary": "Chicago Blackhawks AP News"
     },
     {
-     "ref": "ap_world#6",
-     "title": "Domestic News - AP News",
-     "published": "2026-11-23T01:11:18+00:00",
-     "summary": "Domestic News AP News"
+     "ref": "ap_world#2",
+     "title": "AP Top Stories November 23 - AP News",
+     "published": "2026-11-23T10:26:00+00:00",
+     "summary": "AP Top Stories November 23 AP News"
     },
     {
-     "ref": "ap_world#7",
-     "title": "Jonah Coleman powers Broncos past Raiders 38-24 as Denver honors the late Tom Jackson - AP News",
-     "published": "2026-11-23T00:58:00+00:00",
-     "summary": "Jonah Coleman powers Broncos past Raiders 38-24 as Denver honors the late Tom Jackson AP News"
-    },
-    {
-     "ref": "ap_world#8",
-     "title": "Turkey News: Current Events & Breaking News Today - AP News",
-     "published": "2026-11-23T00:57:14+00:00",
-     "summary": "Turkey News: Current Events & Breaking News Today AP News"
-    },
-    {
-     "ref": "ap_world#9",
-     "title": "TIM REYNOLDS - AP News",
-     "published": "2026-11-23T00:57:11+00:00",
-     "summary": "TIM REYNOLDS AP News"
-    },
-    {
-     "ref": "ap_world#10",
-     "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal - AP News",
-     "published": "2026-11-23T00:52:00+00:00",
-     "summary": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal AP News"
-    },
-    {
-     "ref": "ap_world#11",
+     "ref": "ap_world#3",
      "title": "Minnesota - AP News",
-     "published": "2026-11-23T00:50:40+00:00",
+     "published": "2026-11-23T10:21:10+00:00",
      "summary": "Minnesota AP News"
     },
     {
-     "ref": "ap_world#12",
+     "ref": "ap_world#4",
+     "title": "College Football Full FBS Schedule - AP News",
+     "published": "2026-11-23T10:21:10+00:00",
+     "summary": "College Football Full FBS Schedule AP News"
+    },
+    {
+     "ref": "ap_world#5",
+     "title": "TIM REYNOLDS - AP News",
+     "published": "2026-11-23T10:21:08+00:00",
+     "summary": "TIM REYNOLDS AP News"
+    },
+    {
+     "ref": "ap_world#6",
+     "title": "2026 World Cup venue map - AP News",
+     "published": "2026-11-23T10:21:07+00:00",
+     "summary": "2026 World Cup venue map AP News"
+    },
+    {
+     "ref": "ap_world#7",
      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-     "published": "2026-11-23T00:50:06+00:00",
+     "published": "2026-11-23T10:20:06+00:00",
      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News"
     },
     {
+     "ref": "ap_world#8",
+     "title": "STEPHEN WHYNO - AP News",
+     "published": "2026-11-23T10:20:05+00:00",
+     "summary": "STEPHEN WHYNO AP News"
+    },
+    {
+     "ref": "ap_world#9",
+     "title": "2026 World Cup schedule and results - AP News",
+     "published": "2026-11-23T10:20:04+00:00",
+     "summary": "2026 World Cup schedule and results AP News"
+    },
+    {
+     "ref": "ap_world#10",
+     "title": "Accidents - AP News",
+     "published": "2026-11-23T10:20:03+00:00",
+     "summary": "Accidents AP News"
+    },
+    {
+     "ref": "ap_world#11",
+     "title": "United Nations - AP News",
+     "published": "2026-11-23T10:20:03+00:00",
+     "summary": "United Nations AP News"
+    },
+    {
+     "ref": "ap_world#12",
+     "title": "Mexico - AP News",
+     "published": "2026-11-23T10:13:08+00:00",
+     "summary": "Mexico AP News"
+    },
+    {
      "ref": "ap_world#13",
-     "title": "AP News Search - AP News",
-     "published": "2026-11-23T00:49:53+00:00",
-     "summary": "AP News Search AP News"
+     "title": "US futures climb and world shares are mixed as big tech stocks fall in Asia - AP News",
+     "published": "2026-11-23T10:02:00+00:00",
+     "summary": "US futures climb and world shares are mixed as big tech stocks fall in Asia AP News"
     },
     {
      "ref": "ap_world#14",
-     "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News",
-     "published": "2026-11-23T00:47:00+00:00",
-     "summary": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving AP News"
+     "title": "Trending News - AP News",
+     "published": "2026-11-23T10:01:23+00:00",
+     "summary": "Trending News AP News"
     },
     {
      "ref": "ap_world#15",
-     "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making - AP News",
-     "published": "2026-11-23T00:45:00+00:00",
-     "summary": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making AP News"
+     "title": "College Basketball News: Rankings, Scores, Stats & More - AP News",
+     "published": "2026-11-23T10:01:21+00:00",
+     "summary": "College Basketball News: Rankings, Scores, Stats & More AP News"
     },
     {
      "ref": "ap_world#16",
-     "title": "Golf - AP News",
-     "published": "2026-11-23T00:43:45+00:00",
-     "summary": "Golf AP News"
+     "title": "Turkey News: Current Events & Breaking News Today - AP News",
+     "published": "2026-11-23T09:57:17+00:00",
+     "summary": "Turkey News: Current Events & Breaking News Today AP News"
     },
     {
      "ref": "ap_world#17",
-     "title": "Immigration - AP News",
-     "published": "2026-11-23T00:27:55+00:00",
-     "summary": "Immigration AP News"
+     "title": "Europe News | Breaking European News Today - AP News",
+     "published": "2026-11-23T09:57:14+00:00",
+     "summary": "Europe News | Breaking European News Today AP News"
     },
     {
      "ref": "ap_world#18",
-     "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism - AP News",
-     "published": "2026-11-23T00:22:00+00:00",
-     "summary": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism AP News"
+     "title": "New York City - AP News",
+     "published": "2026-11-23T09:46:56+00:00",
+     "summary": "New York City AP News"
     },
     {
      "ref": "ap_world#19",
-     "title": "Derrick Henry’s absence down the stretch, 4 turnovers lead to Ravens’ sixth straight loss - AP News",
-     "published": "2026-11-23T00:22:00+00:00",
-     "summary": "Derrick Henry’s absence down the stretch, 4 turnovers lead to Ravens’ sixth straight loss AP News"
+     "title": "Malcolm Marx looks to repeat as World Rugby's best men's player after making shortlist of 4 names - AP News",
+     "published": "2026-11-23T09:43:00+00:00",
+     "summary": "Malcolm Marx looks to repeat as World Rugby's best men's player after making shortlist of 4 names AP News"
     },
     {
      "ref": "ap_world#20",
-     "title": "Jets score on first 5 drives and edge Chargers 27-24 to snap 5-game skid - AP News",
-     "published": "2026-11-23T00:02:00+00:00",
-     "summary": "Jets score on first 5 drives and edge Chargers 27-24 to snap 5-game skid AP News"
+     "title": "Soccer - AP News",
+     "published": "2026-11-23T09:42:52+00:00",
+     "summary": "Soccer AP News"
     },
     {
      "ref": "ap_world#21",
-     "title": "Smith scores 18 in IU Indianapolis’ 81-61 victory over Maryland-Eastern Shore - AP News",
-     "published": "2026-11-22T23:55:00+00:00",
-     "summary": "Smith scores 18 in IU Indianapolis’ 81-61 victory over Maryland-Eastern Shore AP News"
+     "title": "Texas - AP News",
+     "published": "2026-11-23T09:42:52+00:00",
+     "summary": "Texas AP News"
     },
     {
      "ref": "ap_world#22",
-     "title": "Miami’s Klay Thompson appears to blow out part of his shoe in Heat-Thunder game - AP News",
-     "published": "2026-11-22T23:55:00+00:00",
-     "summary": "Miami’s Klay Thompson appears to blow out part of his shoe in Heat-Thunder game AP News"
+     "title": "College football | Latest News & Updates - AP News",
+     "published": "2026-11-23T09:30:48+00:00",
+     "summary": "College football | Latest News & Updates AP News"
     },
     {
      "ref": "ap_world#23",
-     "title": "Cricket - AP News",
-     "published": "2026-11-22T23:50:04+00:00",
-     "summary": "Cricket AP News"
+     "title": "New York - AP News",
+     "published": "2026-11-23T09:30:47+00:00",
+     "summary": "New York AP News"
     },
     {
      "ref": "ap_world#24",
-     "title": "MLB | Latest News, Stats, and Scores - AP News",
-     "published": "2026-11-22T23:49:54+00:00",
-     "summary": "MLB | Latest News, Stats, and Scores AP News"
+     "title": "AP News Search - AP News",
+     "published": "2026-11-23T09:26:15+00:00",
+     "summary": "AP News Search AP News"
     }
    ]
   },
@@ -174,75 +174,75 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "bbc_world#0",
-     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-     "published": "2026-11-23T02:59:35+00:00",
-     "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+     "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+     "published": "2026-11-23T08:53:01+00:00",
+     "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\"."
     },
     {
      "ref": "bbc_world#1",
-     "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-     "published": "2026-11-23T02:37:02+00:00",
-     "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building."
+     "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+     "published": "2026-11-23T08:41:08+00:00",
+     "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\"."
     },
     {
      "ref": "bbc_world#2",
+     "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+     "published": "2026-11-23T08:36:57+00:00",
+     "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia."
+    },
+    {
+     "ref": "bbc_world#3",
+     "title": "Five takeaways from the failed climate talks COP31",
+     "published": "2026-11-23T06:33:50+00:00",
+     "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history."
+    },
+    {
+     "ref": "bbc_world#4",
+     "title": "What's next after no deal at COP31 climate talks?",
+     "published": "2026-11-23T05:34:39+00:00",
+     "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+    },
+    {
+     "ref": "bbc_world#5",
+     "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+     "published": "2026-11-23T05:33:17+00:00",
+     "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building."
+    },
+    {
+     "ref": "bbc_world#6",
+     "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+     "published": "2026-11-23T05:15:06+00:00",
+     "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
+    },
+    {
+     "ref": "bbc_world#7",
      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
      "published": "2026-11-23T01:23:43+00:00",
      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
     },
     {
-     "ref": "bbc_world#3",
-     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-     "published": "2026-11-23T00:50:35+00:00",
-     "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
-    },
-    {
-     "ref": "bbc_world#4",
+     "ref": "bbc_world#8",
      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
      "published": "2026-11-23T00:33:36+00:00",
      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
     },
     {
-     "ref": "bbc_world#5",
+     "ref": "bbc_world#9",
      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
      "published": "2026-11-23T00:08:00+00:00",
      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
     },
     {
-     "ref": "bbc_world#6",
-     "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-     "published": "2026-11-22T22:49:10+00:00",
-     "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\"."
-    },
-    {
-     "ref": "bbc_world#7",
-     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-     "published": "2026-11-22T22:37:43+00:00",
-     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
-    },
-    {
-     "ref": "bbc_world#8",
-     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-     "published": "2026-11-22T22:37:43+00:00",
-     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
-    },
-    {
-     "ref": "bbc_world#9",
-     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-     "published": "2026-11-22T21:22:40+00:00",
-     "summary": "The couple have been together for four years and were engaged in 2025."
-    },
-    {
      "ref": "bbc_world#10",
-     "title": "What's next after no deal at COP31 climate talks?",
-     "published": "2026-11-22T18:57:24+00:00",
-     "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "published": "2026-11-22T22:37:43+00:00",
+     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
     },
     {
      "ref": "bbc_world#11",
-     "title": "What's next after no deal at COP31 climate talks?",
-     "published": "2026-11-22T18:57:24+00:00",
-     "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+     "published": "2026-11-22T21:22:40+00:00",
+     "summary": "The couple have been together for four years and were engaged in 2025."
     },
     {
      "ref": "bbc_world#12",
@@ -303,24 +303,6 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
      "published": "2026-11-21T13:17:38+00:00",
      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
-    },
-    {
-     "ref": "bbc_world#22",
-     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-     "published": "2026-11-21T10:26:36+00:00",
-     "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
-    },
-    {
-     "ref": "bbc_world#23",
-     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-     "published": "2026-11-21T09:40:55+00:00",
-     "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
-    },
-    {
-     "ref": "bbc_world#24",
-     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-     "published": "2026-11-21T08:10:25+00:00",
-     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
     }
    ]
   },
@@ -330,7 +312,7 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "economist_intl#0",
-     "title": "The messy breakdown of the UN’s latest climate conference",
+     "title": "The messy breakdown of the UN’s climate conference",
      "published": "2026-11-22T22:26:59+00:00",
      "summary": "The parties could not even agree on whether to mention fossil fuels in the summary text"
     },
@@ -360,69 +342,63 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "foreign_affairs#0",
+     "title": "It’s Time to Settle With Russia",
+     "published": "2026-11-23T09:00:00+00:00",
+     "summary": "In October, U.S. President Donald Trump sold his eleventh-hour deal to secure diesel from Russian President Vladimir Putin—pausing sanctions that his own administration had imposed—as a boon for the negotiations to end the war in Ukraine. The arrangement, he wrote on Truth Social, was intended to keep Russia at “the bargaining table.” Of course, it was always obvious to observers that the gambit h"
+    },
+    {
+     "ref": "foreign_affairs#1",
      "title": "Congress and the Coming Crises",
      "published": "2026-11-20T09:00:00+00:00",
      "summary": "How to defuse looming threats to U.S. national security."
     },
     {
-     "ref": "foreign_affairs#1",
+     "ref": "foreign_affairs#2",
      "title": "America’s Bad Bargain in Venezuela",
      "published": "2026-11-20T09:00:00+00:00",
      "summary": "Washington’s dealmaking is strengthening the Chavista regime."
     },
     {
-     "ref": "foreign_affairs#2",
+     "ref": "foreign_affairs#3",
      "title": "Avoiding Colombia’s Escalation Trap",
      "published": "2026-11-19T09:00:00+00:00",
      "summary": "Why a U.S.-backed offensive against armed groups could backfire."
     },
     {
-     "ref": "foreign_affairs#3",
+     "ref": "foreign_affairs#4",
      "title": "The Only Way to End the Netanyahu Era",
      "published": "2026-11-19T09:00:00+00:00",
      "summary": "Arab citizens of Israel can bring change, but they can’t do it alone."
     },
     {
-     "ref": "foreign_affairs#4",
+     "ref": "foreign_affairs#5",
      "title": "The Paradox of American Credibility",
      "published": "2026-11-19T09:00:00+00:00",
      "summary": "How fighting weakens Washington’s reputation—and backing down may strengthen it."
     },
     {
-     "ref": "foreign_affairs#5",
+     "ref": "foreign_affairs#6",
      "title": "The Model Middle Power",
      "published": "2026-11-18T09:00:00+00:00",
      "summary": "What South Korea gets right about geopolitics."
     },
     {
-     "ref": "foreign_affairs#6",
+     "ref": "foreign_affairs#7",
      "title": "America’s Hidden AI Advantage",
      "published": "2026-11-18T09:00:00+00:00",
      "summary": "The United States—not China—dominates diffusion."
     },
     {
-     "ref": "foreign_affairs#7",
+     "ref": "foreign_affairs#8",
      "title": "Is China Misreading the Moment?",
      "published": "2026-11-17T09:00:00+00:00",
      "summary": "When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he will sit down with Chinese leader Xi Jinping for the fourth time amid an unexpected détente between Washington and Beijing. The trade war of 2025 is in abeyance, the two governments have announced a relationship of “constructive strategic stability,” and, to the alarm of American"
     },
     {
-     "ref": "foreign_affairs#8",
+     "ref": "foreign_affairs#9",
      "title": "The Fantasy of a Turkish Middle East",
      "published": "2026-11-17T09:00:00+00:00",
      "summary": "Ankara’s risky bid to impose regional order."
-    },
-    {
-     "ref": "foreign_affairs#9",
-     "title": "Why Israel Is Losing America",
-     "published": "2026-11-16T09:00:00+00:00",
-     "summary": "The country must change course—or lose America."
-    },
-    {
-     "ref": "foreign_affairs#10",
-     "title": "China Doesn’t Want a Nuclear Arms Race",
-     "published": "2026-11-16T09:00:00+00:00",
-     "summary": "America can avert an unnecessary rivalry."
     }
    ]
   },
@@ -432,153 +408,153 @@ Output: write `drafts/geopolitics.json` matching `schemas/geopolitics.schema.jso
    "items": [
     {
      "ref": "reuters_world#0",
-     "title": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says - Reuters",
-     "published": "2026-11-23T03:12:00+00:00",
-     "summary": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says Reuters"
+     "title": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike - Reuters",
+     "published": "2026-11-23T10:15:44+00:00",
+     "summary": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike Reuters"
     },
     {
      "ref": "reuters_world#1",
-     "title": "South Korea's finance minister sees solid growth next year, flags chip volatility risks - Reuters",
-     "published": "2026-11-23T02:43:00+00:00",
-     "summary": "South Korea's finance minister sees solid growth next year, flags chip volatility risks Reuters"
+     "title": "US Democrats require 2028 candidates to reject dark money to make debate stage - Reuters",
+     "published": "2026-11-23T10:15:01+00:00",
+     "summary": "US Democrats require 2028 candidates to reject dark money to make debate stage Reuters"
     },
     {
      "ref": "reuters_world#2",
-     "title": "Indian shares set to open higher on foreign inflows as AI selloff persists - Reuters",
-     "published": "2026-11-23T02:37:00+00:00",
-     "summary": "Indian shares set to open higher on foreign inflows as AI selloff persists Reuters"
+     "title": "Danish police investigate school bomb threats - Reuters",
+     "published": "2026-11-23T10:13:09+00:00",
+     "summary": "Danish police investigate school bomb threats Reuters"
     },
     {
      "ref": "reuters_world#3",
-     "title": "AI rout deepens, keeping rupee rally alive on foreign equity buying - Reuters",
-     "published": "2026-11-23T02:29:00+00:00",
-     "summary": "AI rout deepens, keeping rupee rally alive on foreign equity buying Reuters"
+     "title": "Financials drag Indian shares down on profit-taking after four-week rally - Reuters",
+     "published": "2026-11-23T10:10:25+00:00",
+     "summary": "Financials drag Indian shares down on profit-taking after four-week rally Reuters"
     },
     {
      "ref": "reuters_world#4",
-     "title": "India's Tata Steel to buy 26.4% of APL Apollo for $1.67 billion - Reuters",
-     "published": "2026-11-23T02:23:00+00:00",
-     "summary": "India's Tata Steel to buy 26.4% of APL Apollo for $1.67 billion Reuters"
+     "title": "China calls on Switzerland to help resolve EU trade rift, oppose 'Taiwan independence' - Reuters",
+     "published": "2026-11-23T09:53:43+00:00",
+     "summary": "China calls on Switzerland to help resolve EU trade rift, oppose 'Taiwan independence' Reuters"
     },
     {
      "ref": "reuters_world#5",
-     "title": "Foreign inflows lend support to rupee, bonds; oil in focus - Reuters",
-     "published": "2026-11-23T01:33:00+00:00",
-     "summary": "Foreign inflows lend support to rupee, bonds; oil in focus Reuters"
+     "title": "Denmark to propose mobile phone ban in schools in 2027 - Reuters",
+     "published": "2026-11-23T09:47:43+00:00",
+     "summary": "Denmark to propose mobile phone ban in schools in 2027 Reuters"
     },
     {
      "ref": "reuters_world#6",
-     "title": "South Korea's education minister quits over exam cheating chaos - Reuters",
-     "published": "2026-11-23T00:20:00+00:00",
-     "summary": "South Korea's education minister quits over exam cheating chaos Reuters"
+     "title": "Iran says it will use all its tools to confront US naval blockade - Reuters",
+     "published": "2026-11-23T09:38:45+00:00",
+     "summary": "Iran says it will use all its tools to confront US naval blockade Reuters"
     },
     {
      "ref": "reuters_world#7",
-     "title": "UK government to make case for greater public control of utilities - Reuters",
-     "published": "2026-11-23T00:11:00+00:00",
-     "summary": "UK government to make case for greater public control of utilities Reuters"
+     "title": "UK PMI shows slight November slowdown, Q4 looks robust - Reuters",
+     "published": "2026-11-23T09:35:43+00:00",
+     "summary": "UK PMI shows slight November slowdown, Q4 looks robust Reuters"
     },
     {
      "ref": "reuters_world#8",
-     "title": "US futures bounce as AI rout rattles Asian stocks - Reuters",
-     "published": "2026-11-22T23:44:00+00:00",
-     "summary": "US futures bounce as AI rout rattles Asian stocks Reuters"
+     "title": "Turkish authorities search for animal resembling a lion in Istanbul woodland - Reuters",
+     "published": "2026-11-23T09:35:23+00:00",
+     "summary": "Turkish authorities search for animal resembling a lion in Istanbul woodland Reuters"
     },
     {
      "ref": "reuters_world#9",
-     "title": "Dollar edges off 19-month high after market rout; yen softens - Reuters",
-     "published": "2026-11-22T23:43:57+00:00",
-     "summary": "Dollar edges off 19-month high after market rout; yen softens Reuters"
+     "title": "Coal India unit Mahanadi's IPO fully subscribed on final day of bidding - Reuters",
+     "published": "2026-11-23T09:33:44+00:00",
+     "summary": "Coal India unit Mahanadi's IPO fully subscribed on final day of bidding Reuters"
     },
     {
      "ref": "reuters_world#10",
-     "title": "North Carolina win gives Democrats biggest US House majority since early 1990s - Reuters",
-     "published": "2026-11-22T22:04:25+00:00",
-     "summary": "North Carolina win gives Democrats biggest US House majority since early 1990s Reuters"
+     "title": "Gulf bourses open higher, buoyed by diplomatic momentum - Reuters",
+     "published": "2026-11-23T09:24:09+00:00",
+     "summary": "Gulf bourses open higher, buoyed by diplomatic momentum Reuters"
     },
     {
      "ref": "reuters_world#11",
-     "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
-     "published": "2026-11-22T21:54:56+00:00",
-     "summary": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank Reuters"
+     "title": "Euro zone growth holds steady but France's deepening downturn clouds outlook, PMI shows - Reuters",
+     "published": "2026-11-23T09:10:21+00:00",
+     "summary": "Euro zone growth holds steady but France's deepening downturn clouds outlook, PMI shows Reuters"
     },
     {
      "ref": "reuters_world#12",
-     "title": "Bank of Israel to keep rates on hold amid uncertainty about new government - Reuters",
-     "published": "2026-11-22T20:57:49+00:00",
-     "summary": "Bank of Israel to keep rates on hold amid uncertainty about new government Reuters"
+     "title": "Bangladesh vows to arrest Hasina if she returns from India - Reuters",
+     "published": "2026-11-23T09:08:24+00:00",
+     "summary": "Bangladesh vows to arrest Hasina if she returns from India Reuters"
     },
     {
      "ref": "reuters_world#13",
-     "title": "Chinese player Liu suspended amid match-fixing probe - Reuters",
-     "published": "2026-11-22T19:45:32+00:00",
-     "summary": "Chinese player Liu suspended amid match-fixing probe Reuters"
+     "title": "December rate hike may not be enough but not in a rush to move again: ECB's Simkus - Reuters",
+     "published": "2026-11-23T09:01:41+00:00",
+     "summary": "December rate hike may not be enough but not in a rush to move again: ECB's Simkus Reuters"
     },
     {
      "ref": "reuters_world#14",
-     "title": "Compass Group plans to shift primary listing from London to New York, FT reports - Reuters",
-     "published": "2026-11-22T19:19:43+00:00",
-     "summary": "Compass Group plans to shift primary listing from London to New York, FT reports Reuters"
+     "title": "India to give $1.62 billion economic package to flood-hit Nepal - Reuters",
+     "published": "2026-11-23T08:47:56+00:00",
+     "summary": "India to give $1.62 billion economic package to flood-hit Nepal Reuters"
     },
     {
      "ref": "reuters_world#15",
-     "title": "Tata Steel to sell tubes business, Tata Steel Colors stake to APL Apollo for up to $3 billion - Reuters",
-     "published": "2026-11-22T18:35:50+00:00",
-     "summary": "Tata Steel to sell tubes business, Tata Steel Colors stake to APL Apollo for up to $3 billion Reuters"
+     "title": "German business activity growth accelerates in November, PMI shows - Reuters",
+     "published": "2026-11-23T08:39:44+00:00",
+     "summary": "German business activity growth accelerates in November, PMI shows Reuters"
     },
     {
      "ref": "reuters_world#16",
-     "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters",
-     "published": "2026-11-22T17:53:07+00:00",
-     "summary": "US seeks answers on Nvidia's sale of chips to China, Bessent says Reuters"
+     "title": "Hedge funds post worst week since April 2025, sparks defensive shift - Reuters",
+     "published": "2026-11-23T08:25:43+00:00",
+     "summary": "Hedge funds post worst week since April 2025, sparks defensive shift Reuters"
     },
     {
      "ref": "reuters_world#17",
-     "title": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery - Reuters",
-     "published": "2026-11-22T17:52:15+00:00",
-     "summary": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery Reuters"
+     "title": "Shoprite buys DN Invest stake, brings in Investec to finance unit - Reuters",
+     "published": "2026-11-23T08:23:03+00:00",
+     "summary": "Shoprite buys DN Invest stake, brings in Investec to finance unit Reuters"
     },
     {
      "ref": "reuters_world#18",
-     "title": "Three Russian missiles flew into Poland Friday, prosecutors say - Reuters",
-     "published": "2026-11-22T17:19:43+00:00",
-     "summary": "Three Russian missiles flew into Poland Friday, prosecutors say Reuters"
+     "title": "French private sector downturn deepens to six-month low, PMI shows - Reuters",
+     "published": "2026-11-23T08:19:05+00:00",
+     "summary": "French private sector downturn deepens to six-month low, PMI shows Reuters"
     },
     {
      "ref": "reuters_world#19",
-     "title": "US intelligence chief says Putin is 'not America's friend in Ukraine' - Reuters",
-     "published": "2026-11-22T17:16:03+00:00",
-     "summary": "US intelligence chief says Putin is 'not America's friend in Ukraine' Reuters"
+     "title": "Zelenskiy says Ukraine sank Russian warship in Libya - Reuters",
+     "published": "2026-11-23T07:53:00+00:00",
+     "summary": "Zelenskiy says Ukraine sank Russian warship in Libya Reuters"
     },
     {
      "ref": "reuters_world#20",
-     "title": "Russia starts towing ship hit by drones in Baltic, Finland says - Reuters",
-     "published": "2026-11-22T16:01:29+00:00",
-     "summary": "Russia starts towing ship hit by drones in Baltic, Finland says Reuters"
+     "title": "Armenia proposes new constitution in step towards peace with Azerbaijan - Reuters",
+     "published": "2026-11-23T07:48:00+00:00",
+     "summary": "Armenia proposes new constitution in step towards peace with Azerbaijan Reuters"
     },
     {
      "ref": "reuters_world#21",
-     "title": "Trump sees difficulties ahead if Schumer leads Senate - Reuters",
-     "published": "2026-11-22T16:00:50+00:00",
-     "summary": "Trump sees difficulties ahead if Schumer leads Senate Reuters"
+     "title": "UK's Capita replaces CEO, plans $249 million equity raise on pension scheme contract woes - Reuters",
+     "published": "2026-11-23T07:42:00+00:00",
+     "summary": "UK's Capita replaces CEO, plans $249 million equity raise on pension scheme contract woes Reuters"
     },
     {
      "ref": "reuters_world#22",
-     "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say - Reuters",
-     "published": "2026-11-22T15:56:55+00:00",
-     "summary": "At least 4 killed in Russian drone attacks on Kyiv region, officials say Reuters"
+     "title": "France's 2027 economic growth forecast of 1% at risk of being downgraded, minister says - Reuters",
+     "published": "2026-11-23T07:27:00+00:00",
+     "summary": "France's 2027 economic growth forecast of 1% at risk of being downgraded, minister says Reuters"
     },
     {
      "ref": "reuters_world#23",
-     "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount - Reuters",
-     "published": "2026-11-22T15:14:44+00:00",
-     "summary": "Kyiv's restaurant owners brace for tough winter as war pressures mount Reuters"
+     "title": "South African rand gains as commodity prices rise and dollar weakens - Reuters",
+     "published": "2026-11-23T06:50:00+00:00",
+     "summary": "South African rand gains as commodity prices rise and dollar weakens Reuters"
     },
     {
      "ref": "reuters_world#24",
-     "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
-     "published": "2026-11-22T14:25:00+00:00",
-     "summary": "Libya's eastern government suspects drone attack caused explosion on Russian ship Reuters"
+     "title": "Thai appeal court halves jail term of lawmaker convicted of royal insult - Reuters",
+     "published": "2026-11-23T06:43:00+00:00",
+     "summary": "Thai appeal court halves jail term of lawmaker convicted of royal insult Reuters"
     }
    ]
   }
