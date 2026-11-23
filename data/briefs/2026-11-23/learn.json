@@ -1,0 +1,128 @@
+{
+  "section": "learn",
+  "date": "2026-11-23",
+  "title_en": "Learn Something Small",
+  "title_he": "ללמוד משהו קטן",
+  "default_lang": "en",
+  "generated_at": "2026-11-23T03:57:50+00:00",
+  "stories": [
+    {
+      "id": "word-zombie-company",
+      "kind": "word",
+      "en": {
+        "headline": "Zombie company (חברת זומבי)",
+        "scroll": "A zombie company earns just enough to cover interest on its debt but not enough to invest, grow, or ever pay off the principal.",
+        "coffee": "A zombie company is a business that generates just enough cash to service the interest on its debt, but not enough to invest in growth, pay down principal, or survive without constantly refinancing. It isn't bankrupt, but it isn't healthy either — it limps along, often propped up by low interest rates or lenient banks who would rather keep extending credit than write off the loss.\n\nExample: \"Analysts warned that thousands of small firms became zombie companies during the era of near-zero interest rates, and higher rates could finally push many of them under.\"",
+        "deep": "Use \"zombie company\" when describing a firm kept alive by debt rather than by a healthy underlying business — the term became common after Japan's 1990s \"lost decade,\" when banks kept lending to insolvent firms rather than booking losses, and resurfaced during the 2008 financial crisis and the low-rate 2010s. It is often paired with \"zombie bank\" (a bank too weak to lend normally but too important to let fail) and \"zombification\" of an economy, where capital gets trapped in unproductive firms instead of flowing to growing ones.\n\nA common confusion: a zombie company is not the same as a company that is simply unprofitable, or a startup deliberately burning venture capital — the key is that it depends on debt just to stay static, with no real path to health.\n\nMore examples: \"Rising rates are separating healthy businesses from zombie companies that can no longer refinance cheaply.\" \"Regulators worried that keeping zombie companies alive was slowing the economy's recovery.\"\n\nHebrew: חברת זומבי."
+      },
+      "he": {
+        "headline": "Zombie company (חברת זומבי)",
+        "scroll": "חברת זומבי מרוויחה רק כדי לכסות את תשלומי הריבית על החוב שלה, אבל לא מספיק כדי להשקיע, לצמוח או אי פעם לפרוע את קרן החוב.",
+        "coffee": "חברת זומבי (zombie company) היא חברה שמייצרת בדיוק מזומן מספיק כדי לשרת את הריבית על החוב שלה, אבל לא מספיק כדי להשקיע בצמיחה, להחזיר את קרן החוב, או לשרוד בלי למחזר אותו שוב ושוב. היא לא פושטת רגל, אבל גם לא בריאה - היא נגררת בקושי, לרוב בחסות ריבית נמוכה או בנקים סבלניים שמעדיפים להמשיך ולהעמיד אשראי מאשר להכיר בהפסד.\n\nלדוגמה: \"אנליסטים הזהירו שאלפי חברות קטנות הפכו לחברות זומבי בעידן הריבית הקרובה לאפס, ועלייה בריבית עלולה בסוף להפיל רבות מהן.\"",
+        "deep": "כדאי להשתמש במונח \"חברת זומבי\" כשמתארים חברה שנשארת בחיים בגלל חוב ולא בגלל עסק בריא מתחתיו - המונח נפוץ אחרי \"העשור האבוד\" של יפן בשנות ה-90, כשבנקים המשיכו להלוות לחברות חדלות פירעון במקום להכיר בהפסדים, וחזר לשימוש במשבר 2008 ובעידן הריבית האפסית של שנות ה-2010. הוא מופיע לרוב לצד \"בנק זומבי\" (בנק חלש מכדי להלוות כרגיל, אבל חשוב מכדי לקרוס) ו\"זומביפיקציה\" של כלכלה, שבה הון נתפס בחברות לא פרודוקטיביות במקום לזרום לחברות צומחות.\n\nבלבול נפוץ: חברת זומבי אינה בהכרח חברה שסתם לא רווחית, או סטארטאפ שבכוונה שורף הון סיכון (venture capital) - המפתח הוא תלות בחוב רק כדי לשרוד במקום, בלי מסלול אמיתי להחלמה.\n\nדוגמאות נוספות: \"עליית הריבית מפרידה בין עסקים בריאים לחברות זומבי שלא מצליחות יותר למחזר חוב בזול.\" \"רגולטורים חששו שהשארת חברות זומבי בחיים מאטה את ההתאוששות של הכלכלה.\"\n\nבאנגלית: Zombie company."
+      },
+      "tags": [
+        "economics",
+        "debt",
+        "business-vocabulary",
+        "finance"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-sweat-equity",
+      "kind": "word",
+      "en": {
+        "headline": "Sweat equity (הון יזע)",
+        "scroll": "Sweat equity is an ownership stake earned through unpaid work and time rather than a cash investment.",
+        "coffee": "Sweat equity describes the value someone contributes to a venture through their labor, time, and skill instead of money — and the ownership stake they receive in return. It's common in early-stage startups, where a cofounder who can't put in cash instead works for free (or cheap) in exchange for equity, and in renovation projects, where an owner who does the work themselves builds value without paying a contractor.\n\nExample: \"She didn't invest any cash in the company, but her sweat equity as the unpaid first engineer earned her 15% of the founders' stock.\"",
+        "deep": "Use \"sweat equity\" whenever ownership or value is being earned through work rather than capital — it applies to startup cofounders, to employees who join early at below-market salary for more stock, and even outside business, like someone renovating a house with their own labor to raise its value instead of paying a contractor.\n\nA common confusion: sweat equity is not the same as a salary or consulting fee, even though both come from work — the distinguishing feature is that the compensation is ownership (equity) itself, not cash, and it's usually unpaid or underpaid work done specifically to earn that stake.\n\nMore examples: \"The two founders split the company 50/50 based purely on sweat equity, since neither put in money at the start.\" \"Investors sometimes discount sweat equity because it's harder to value than a cash check.\"\n\nHebrew: הון יזע."
+      },
+      "he": {
+        "headline": "Sweat equity (הון יזע)",
+        "scroll": "הון יזע הוא אחזקה (equity) שמתקבלת בתמורה לעבודה ולזמן ללא תשלום, במקום בתמורה להשקעת מזומן.",
+        "coffee": "הון יזע (sweat equity) מתאר את הערך שמישהו מכניס ליזמות (venture) באמצעות עבודה, זמן וכישרון במקום כסף - ואת האחזקה (equity) שהוא מקבל בתמורה. זה נפוץ בסטארטאפים בשלב מוקדם, שבהם שותף-מקים שאין לו מזומן עובד בחינם או בשכר נמוך בתמורה למניות, וגם בשיפוצי נדל\"ן, שבהם בעל דירה שמבצע את העבודה בעצמו מעלה את שווי הנכס בלי לשלם לקבלן.\n\nלדוגמה: \"היא לא השקיעה שקל בחברה, אבל הון היזע שלה כמהנדסת הראשונה שעבדה בלי שכר הניב לה 15% ממניות המקימים.\"",
+        "deep": "המונח \"הון יזע\" מתאים כשאחזקה או ערך נרכשים בעבודה ולא בהון - הוא חל על שותפים-מקימים, על עובדים שמצטרפים מוקדם בשכר מתחת לשוק בתמורה ליותר מניות, ואפילו מחוץ לעולם העסקים, כמו מישהו שמשפץ בית בעבודת ידיים כדי להעלות את שוויו במקום לשלם לקבלן.\n\nבלבול נפוץ: הון יזע אינו משכורת או שכר ייעוץ, אף ששניהם נובעים מעבודה - ההבדל הוא שהתגמול הוא האחזקה עצמה ולא מזומן, ובדרך כלל זו עבודה שלא שולם עליה כראוי, שנעשית במיוחד כדי להרוויח את האחזקה הזו.\n\nדוגמאות נוספות: \"שני המקימים חילקו את החברה 50-50 רק על בסיס הון יזע, כי אף אחד מהם לא הכניס כסף בהתחלה.\" \"משקיעים לפעמים מעריכים הון יזע בחסר, כי קשה יותר לתמחר אותו מצ'ק מזומן.\"\n\nבאנגלית: Sweat equity."
+      },
+      "tags": [
+        "startups",
+        "equity",
+        "business-vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "word-burn-the-boats",
+      "kind": "word",
+      "en": {
+        "headline": "Burn the boats (לשרוף את הסירות)",
+        "scroll": "To \"burn the boats\" is to commit so completely to a plan that retreat becomes impossible — on purpose.",
+        "coffee": "The idiom comes from (possibly apocryphal) stories of invading armies burning their own ships after landing, so retreat was no longer an option and soldiers had to fight to win rather than fall back. In business, it describes deliberately removing your own fallback options to force total commitment to a strategy.\n\nExample: \"The CEO shut down the old product line entirely instead of running it alongside the new one — he wanted the team to burn the boats and focus only on what came next.\"",
+        "deep": "Use \"burn the boats\" to describe a deliberate, often irreversible commitment meant to eliminate the temptation (or ability) to retreat to an old, safer option. It's invoked approvingly when a company kills a legacy product, cancels a backup plan, or stops hedging, to force full focus on a new direction — and invoked critically when that commitment turns out to be reckless.\n\nA common confusion: it's not the same as \"all in\" or \"betting the farm,\" which describe risking everything on an outcome. Burning the boats is specifically about removing the escape route, not necessarily increasing the size of the bet — you can burn the boats on a small bet too, by simply making sure you can't walk it back.\n\nMore examples: \"By publicly announcing the deadline to the whole company, she burned the boats on quietly backing out later.\" \"Some founders burn the boats by quitting a stable job before their startup has any revenue.\"\n\nHebrew: לשרוף את הסירות."
+      },
+      "he": {
+        "headline": "Burn the boats (לשרוף את הסירות)",
+        "scroll": "\"לשרוף את הסירות\" פירושו להתמסר לתוכנית כך שנסיגה הופכת לבלתי אפשרית - בכוונה.",
+        "coffee": "הביטוי מגיע מסיפורים (שלא ברור עד כמה מדויקים היסטורית) על צבאות פולשים ששרפו את האוניות שלהם עצמם אחרי הנחיתה, כך שנסיגה לא היתה אופציה יותר והחיילים נאלצו להילחם כדי לנצח במקום לסגת. בעולם העסקים, הביטוי מתאר הסרה מכוונת של אפשרויות גיבוי כדי להכריח מחויבות מלאה לאסטרטגיה.\n\nלדוגמה: \"המנכ\"ל סגר לחלוטין את קו המוצרים הישן במקום להריץ אותו במקביל לחדש - הוא רצה שהצוות ישרוף את הסירות ויתמקד רק בהמשך הדרך.\"",
+        "deep": "משתמשים בביטוי \"לשרוף את הסירות\" כשמתארים מחויבות מכוונת, ולעיתים בלתי הפיכה, שנועדה לבטל את הפיתוי (או את היכולת) לסגת לאופציה ישנה ובטוחה יותר. הוא מוזכר באופן חיובי כשחברה מבטלת מוצר ישן, מבטלת תוכנית גיבוי, או מפסיקה לגדר (hedge) את הסיכון, כדי להכריח התמקדות מלאה בכיוון החדש - ומוזכר באופן ביקורתי כשהמחויבות הזו מתגלה כפזיזה.\n\nבלבול נפוץ: זה לא זהה ל\"הכל על הכל\" (all in) או \"להמר על הכל\" (betting the farm), שמתארים סיכון של הכל על תוצאה אחת. שריפת הסירות מתייחסת ספציפית להסרת דרך המילוט, לא בהכרח להגדלת גודל ההתערבות - אפשר לשרוף את הסירות גם עם התערבות קטנה, פשוט על ידי כך שמבטיחים שאי אפשר לסגת ממנה.\n\nדוגמאות נוספות: \"בכך שהודיעה בפומבי לכל החברה על המועד האחרון, היא שרפה את הסירות על נסיגה שקטה בהמשך.\" \"חלק מהיזמים שורפים את הסירות בכך שהם מתפטרים ממשרה יציבה לפני שלסטארטאפ שלהם יש הכנסות.\"\n\nבאנגלית: Burn the boats."
+      },
+      "tags": [
+        "idiom",
+        "strategy",
+        "business-vocabulary"
+      ],
+      "sources": []
+    },
+    {
+      "id": "concept-price-elasticity",
+      "kind": "concept",
+      "en": {
+        "headline": "Price elasticity of demand",
+        "scroll": "Price elasticity of demand measures how much the quantity people buy changes when price changes — and it explains why some price hikes barely dent sales while others crush them.",
+        "coffee": "Price elasticity of demand measures how sensitive the quantity demanded of a good is to a change in its price. If a small price increase causes demand to fall a lot, demand is \"elastic.\" If demand barely moves even with a big price increase, demand is \"inelastic.\"\n\nThe main driver is substitutes: insulin has few substitutes, so patients keep buying it even as prices rise — inelastic demand. A specific brand of soda has many substitutes, so a price increase sends customers to a competitor — elastic demand. Other drivers include how necessary the good is, what share of a budget it takes, and how much time buyers have to adjust.\n\nThis matters constantly in business and policy: a company raising prices needs to know whether it will gain or lose total revenue, and a government taxing a good (like cigarettes) relies on inelastic demand for the tax to raise money rather than just kill sales.",
+        "deep": "## The idea\n\nPrice elasticity of demand (PED) measures how much the quantity of a good that people buy changes when its price changes, expressed as a ratio:\n\nPED = (% change in quantity demanded) / (% change in price)\n\nBecause quantity usually falls when price rises, PED is normally negative, but people often just quote its size. If that number is greater than 1, demand is called elastic — quantity changes proportionally more than price did. If it's less than 1, demand is inelastic — quantity barely moves.\n\n## A worked example\n\nSuppose a coffee shop raises the price of its coffee from ₪12 to ₪15, a 25% increase. If daily sales fall from 200 cups to 150 cups, that's also a 25% drop in quantity. PED = -25%/25% = -1, right at the boundary: revenue stays roughly flat (200×12 = ₪2,400 versus 150×15 = ₪2,250 — actually down slightly, showing demand here is mildly elastic).\n\nNow compare: if sales had only fallen to 190 cups (a 5% drop) after the same 25% price hike, PED = -5%/25% = -0.2 — strongly inelastic. Revenue would jump from ₪2,400 to ₪2,850, because the lost customers are far outweighed by the extra money from everyone who kept buying.\n\n## What determines it\n\n- Substitutes: the easier it is to switch to another product, the more elastic demand is. A specific coffee shop faces elastic demand (customers can walk next door); a city's only water utility faces inelastic demand (there's no substitute for water).\n- Necessity: necessities (insulin, electricity) tend to be inelastic; luxuries (a specific vacation destination) tend to be elastic.\n- Budget share: a cheap item people barely notice (salt) is inelastic; a major purchase (a car) is more elastic, because the price change has a bigger impact on the buyer's budget.\n- Time horizon: demand is often more elastic in the long run, because people eventually find substitutes or change habits — gasoline demand is fairly inelastic in the short run (you still need to drive to work tomorrow) but more elastic over years (people buy more efficient cars or move closer to work).\n\n## Why it matters\n\nA business deciding whether to raise prices is really asking a PED question: will the extra revenue per unit outweigh the units it loses? Governments taxing cigarettes or sugary drinks are relying on inelastic demand so the tax raises revenue rather than just eliminating the product's sales."
+      },
+      "he": {
+        "headline": "אלסטיות מחיר של הביקוש (Price elasticity of demand)",
+        "scroll": "אלסטיות מחיר של הביקוש מודדת כמה הכמות שאנשים קונים משתנה כשהמחיר משתנה - וזה מסביר למה העלאות מחיר מסוימות בקושי פוגעות במכירות, ואחרות מרסקות אותן.",
+        "coffee": "אלסטיות מחיר של הביקוש (price elasticity of demand) מודדת כמה רגישה הכמות המבוקשת של מוצר לשינוי במחיר שלו. אם עלייה קטנה במחיר גורמת לביקוש לרדת הרבה, הביקוש \"אלסטי\" (elastic). אם הביקוש בקושי זז אפילו עם עלייה גדולה במחיר, הביקוש \"לא אלסטי\" (inelastic).\n\nהגורם המרכזי הוא תחליפים (substitutes): לאינסולין אין תחליפים רבים, אז חולים ממשיכים לקנות אותו גם כשהמחיר עולה - ביקוש לא אלסטי. למותג ספציפי של משקה קל יש הרבה תחליפים, אז עלייה במחיר שולחת לקוחות למתחרה - ביקוש אלסטי. גורמים נוספים הם כמה הכרחי המוצר, איזה חלק מהתקציב הוא תופס, וכמה זמן יש לקונים להסתגל.\n\nזה משפיע כל הזמן על עסקים ועל מדיניות: חברה שמעלה מחירים צריכה לדעת אם היא תרוויח או תפסיד הכנסה כוללת, וממשלה שמטילה מס על מוצר (כמו סיגריות) נשענת על ביקוש לא אלסטי כדי שהמס יגדיל הכנסות ולא רק יחסל את המכירות.",
+        "deep": "## הרעיון\n\nאלסטיות מחיר של הביקוש (Price Elasticity of Demand, PED) מודדת כמה משתנה הכמות שאנשים קונים ממוצר כשהמחיר שלו משתנה, כיחס:\n\nPED = (אחוז השינוי בכמות המבוקשת) / (אחוז השינוי במחיר)\n\nמכיוון שהכמות בדרך כלל יורדת כשהמחיר עולה, PED הוא בדרך כלל שלילי, אבל בשיח היומיומי מתייחסים רק לגודל שלו. אם המספר (בערך מוחלט) גדול מ-1, הביקוש נקרא אלסטי - הכמות משתנה ביחס גבוה יותר מהמחיר. אם הוא קטן מ-1, הביקוש נקרא לא אלסטי - הכמות בקושי זזה.\n\n## דוגמה מספרית\n\nנניח שבית קפה מעלה את מחיר הקפה שלו מ-12 ש\"ח ל-15 ש\"ח, עלייה של 25%. אם המכירות היומיות יורדות מ-200 כוסות ל-150 כוסות, זו גם ירידה של 25% בכמות. PED = -25%/25% = -1, בדיוק על קו הגבול: ההכנסה נשארת בערך דומה (200×12 = 2,400 ש\"ח לעומת 150×15 = 2,250 ש\"ח - למעשה ירידה קלה, שמראה שהביקוש כאן מעט אלסטי).\n\nכעת להשוואה: אם המכירות היו יורדות רק ל-190 כוסות (ירידה של 5%) אחרי אותה עליית מחיר של 25%, PED = -5%/25% = -0.2 - ביקוש לא אלסטי בבירור. ההכנסה הייתה עולה מ-2,400 ל-2,850 ש\"ח, כי הלקוחות שהלכו הם הרבה פחות מהכסף הנוסף שמתקבל מכל מי שנשאר.\n\n## מה קובע את האלסטיות\n\n- תחליפים (substitutes): ככל שקל יותר לעבור למוצר אחר, הביקוש אלסטי יותר. בית קפה ספציפי מתמודד עם ביקוש אלסטי (לקוחות יכולים לעבור לבית הקפה ממול); חברת המים היחידה בעיר מתמודדת עם ביקוש לא אלסטי (אין תחליף למים).\n- הכרחיות: מוצרי הכרח (אינסולין, חשמל) נוטים להיות לא אלסטיים; מוצרי יוקרה (יעד נופש ספציפי) נוטים להיות אלסטיים.\n- חלק מהתקציב: מוצר זול שאנשים בקושי שמים לב אליו (מלח) הוא לא אלסטי; קנייה גדולה (רכב) אלסטית יותר, כי השינוי במחיר משפיע הרבה יותר על התקציב של הקונה.\n- אופק זמן: הביקוש נוטה להיות אלסטי יותר בטווח הארוך, כי בסוף אנשים מוצאים תחליפים או משנים הרגלים - הביקוש לדלק די לא אלסטי בטווח הקצר (עדיין צריך לנסוע לעבודה מחר) אבל אלסטי יותר על פני שנים (אנשים קונים רכבים חסכוניים יותר או עוברים לגור קרוב יותר לעבודה).\n\n## למה זה חשוב\n\nעסק ששוקל להעלות מחירים שואל בפועל שאלה של PED: האם ההכנסה הנוספת ליחידה תעלה על היחידות שהוא יאבד? ממשלות שמטילות מס על סיגריות או משקאות ממותקים נשענות על ביקוש לא אלסטי כדי שהמס יגדיל הכנסות במקום רק לחסל את המכירות."
+      },
+      "tags": [
+        "economics",
+        "concept",
+        "pricing"
+      ],
+      "sources": []
+    },
+    {
+      "id": "on-this-day-hubble-andromeda",
+      "kind": "on_this_day",
+      "en": {
+        "headline": "1924: Edwin Hubble shows Andromeda is a separate galaxy, not part of the Milky Way",
+        "scroll": "On this day in 1924, the New York Times reported Edwin Hubble's evidence that the Andromeda Nebula is a separate galaxy far outside the Milky Way, instantly making the known universe vastly bigger.",
+        "coffee": "Until the 1920s, most astronomers believed the Milky Way was the entire universe, and fuzzy patches like the Andromeda Nebula were just clouds of gas within it. Edwin Hubble, using the powerful new 100-inch telescope at Mount Wilson Observatory, found a special type of star called a Cepheid variable inside Andromeda. Cepheids pulse in brightness at a rate that reveals their true luminosity, which let Hubble calculate their distance — and that distance put Andromeda far beyond the edge of the Milky Way.\n\nOn 23 November 1924, the New York Times reported this evidence, which Hubble had shared with fellow astronomers that January. The nebulae were not part of our galaxy at all; they were entire separate galaxies, and the universe was suddenly understood to be unimaginably larger than anyone had thought.\n\nThe discovery reframed humanity's place in the cosmos and set up Hubble's next, even bigger result a few years later: that these distant galaxies are generally moving away from us, and the farther away one is, the faster it recedes — the first evidence that the universe itself is expanding.",
+        "deep": "## The 'Great Debate'\n\nIn the early 1920s, astronomers were split over what became known as the \"Great Debate\": was the Milky Way the entire universe, with spiral nebulae like Andromeda just glowing clouds of gas within it, or were these nebulae separate \"island universes\" — entire galaxies in their own right, far outside our own? The question couldn't be settled without a way to measure the true distance to these objects.\n\n## Cepheid variables, the key\n\nThe breakthrough tool was the Cepheid variable star, a type of star whose brightness pulses in a regular cycle. A decade earlier, astronomer Henrietta Leavitt had discovered that a Cepheid's pulse period is tightly linked to its true (intrinsic) brightness. That meant if you could find a Cepheid and measure how long its pulse cycle takes, you knew how bright it really was — and comparing that to how bright it appeared from Earth told you how far away it was.\n\n## Hubble's observation\n\nWorking at the Mount Wilson Observatory in California with the 100-inch Hooker Telescope, then the most powerful in the world, Edwin Hubble spotted a Cepheid variable inside the Andromeda Nebula in October 1923. Measuring its pulse period let him calculate that Andromeda was roughly a million light-years away — many times farther than the known edge of the Milky Way (astronomers at the time had no idea Andromeda is actually about 2.5 million light-years away; later measurements corrected the distance, but the key conclusion held).\n\nHubble shared the finding with colleagues in a January 1924 letter, and on 23 November 1924 the New York Times reported it publicly. The nebulae were not part of the Milky Way at all — they were entire galaxies of their own, scattered across a universe far larger than anyone had imagined.\n\n## What it led to\n\nThe discovery ended the Great Debate and is considered one of the most important moments in 20th-century astronomy. Hubble didn't stop there: using the same technique on more distant galaxies, he found a few years later that they are almost all moving away from us, and the farther away one is, the faster — the first evidence for an expanding universe, a finding now called Hubble's Law."
+      },
+      "he": {
+        "headline": "1924: אדווין האבל מוכיח שאנדרומדה היא גלקסיה נפרדת, לא חלק משביל החלב",
+        "scroll": "ב-23 בנובמבר 1924 דיווח הניו יורק טיימס על הראיות של אדווין האבל לכך שערפילית אנדרומדה היא גלקסיה נפרדת, הרחק משביל החלב - וברגע אחד היקום הידוע התגלה כגדול בהרבה ממה שחשבו.",
+        "coffee": "עד שנות ה-20 של המאה ה-20, רוב האסטרונומים האמינו ששביל החלב הוא היקום כולו, וכתמים מעורפלים כמו ערפילית אנדרומדה הם רק עננים של גז בתוכו. אדווין האבל, בעזרת הטלסקופ החדיש והחזק בן 100 האינץ' במצפה הכוכבים מאונט וילסון, מצא כוכב מסוג מיוחד הנקרא משתנה קפאיד (Cepheid variable) בתוך אנדרומדה. כוכבי קפאיד פועמים בבהירות בקצב שחושף את הבהירות האמיתית שלהם, מה שאפשר להאבל לחשב את המרחק שלהם - ומרחק זה הציב את אנדרומדה הרחק מעבר לקצה של שביל החלב.\n\nב-23 בנובמבר 1924 דיווח הניו יורק טיימס על הראיות הללו, שהאבל שיתף עם עמיתיו האסטרונומים בינואר של אותה שנה. הערפיליות לא היו חלק מהגלקסיה שלנו בכלל; הן היו גלקסיות שלמות ונפרדות, והיקום לפתע הובן כגדול בצורה בלתי נתפסת ממה שחשבו קודם.\n\nהתגלית שינתה מחדש את מקומה של האנושות בקוסמוס, והכינה את הקרקע לתגלית הגדולה הבאה של האבל כמה שנים לאחר מכן: שהגלקסיות המרוחקות הללו נעות בדרך כלל הרחק מאיתנו, וככל שהן מרוחקות יותר כך הן נעות מהר יותר - הראיה הראשונה לכך שהיקום עצמו מתפשט.",
+        "deep": "## 'הדיון הגדול'\n\nבתחילת שנות ה-20, האסטרונומים היו חלוקים בשאלה שנודעה בשם \"הדיון הגדול\" (Great Debate): האם שביל החלב הוא היקום כולו, וערפיליות ספירליות כמו אנדרומדה הן רק עננים זוהרים של גז בתוכו, או שהערפיליות הללו הן \"יקומי אי\" נפרדים - גלקסיות שלמות בפני עצמן, הרחק מחוץ לגלקסיה שלנו? השאלה לא יכלה להיפתר בלי דרך למדוד את המרחק האמיתי לעצמים הללו.\n\n## משתני קפאיד, המפתח\n\nהכלי הפורץ דרך היה כוכב משתנה קפאיד (Cepheid variable), סוג של כוכב שהבהירות שלו פועמת במחזוריות קבועה. עשור קודם לכן, האסטרונומית הנרייטה לביט (Henrietta Leavitt) גילתה שמחזור הפעימה של כוכב קפאיד קשור בצורה הדוקה לבהירות האמיתית (האינטרינזית) שלו. זה אומר שאם מוצאים כוכב קפאיד ומודדים כמה זמן אורך מחזור הפעימה שלו, אפשר לדעת כמה הוא בהיר באמת - והשוואה לכמה בהיר הוא נראה מכדור הארץ מגלה כמה הוא מרוחק.\n\n## התצפית של האבל\n\nבעבודתו במצפה הכוכבים מאונט וילסון בקליפורניה, עם טלסקופ הוקר (Hooker Telescope) בן 100 האינץ', החזק בעולם באותה תקופה, איתר אדווין האבל כוכב קפאיד בתוך ערפילית אנדרומדה באוקטובר 1923. מדידת מחזור הפעימה שלו אפשרה לו לחשב שאנדרומדה נמצאת במרחק של בערך מיליון שנות אור - הרחק בהרבה מקצה שביל החלב הידוע (לאסטרונומים בזמנו לא היה מושג שאנדרומדה נמצאת למעשה במרחק של כ-2.5 מיליון שנות אור; מדידות מאוחרות יותר תיקנו את המרחק, אך המסקנה המרכזית נשארה נכונה).\n\nהאבל שיתף את הממצא עם עמיתים במכתב מינואר 1924, וב-23 בנובמבר 1924 דיווח עליו הניו יורק טיימס לציבור הרחב. הערפיליות לא היו חלק משביל החלב בכלל - הן היו גלקסיות שלמות בפני עצמן, מפוזרות על פני יקום גדול בהרבה ממה שמישהו תיאר לעצמו.\n\n## מה זה הוביל אליו\n\nהתגלית סיימה את \"הדיון הגדול\" ונחשבת לאחד הרגעים החשובים ביותר באסטרונומיה של המאה ה-20. האבל לא הפסיק כאן: באמצעות אותה שיטה על גלקסיות מרוחקות יותר, הוא מצא כמה שנים לאחר מכן שכולן נעות הרחק מאיתנו, וככל שהן מרוחקות יותר כך הן נעות מהר יותר - הראיה הראשונה ליקום מתפשט, ממצא שנקרא כיום חוק האבל (Hubble's Law)."
+      },
+      "tags": [
+        "science",
+        "astronomy",
+        "on-this-day",
+        "history"
+      ],
+      "sources": [
+        {
+          "outlet": "Wikipedia",
+          "title": "1924: The New York Times published evidence from Edwin Hubble (pictured) stating that the Andromeda Nebula, previously believed to be part of the Milky Way, is in fact another galaxy.",
+          "url": "https://en.wikipedia.org/wiki/The_New_York_Times"
+        }
+      ]
+    }
+  ]
+}

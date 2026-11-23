@@ -1,0 +1,106 @@
+{
+  "section": "business",
+  "date": "2026-11-23",
+  "title_en": "Business & Economics",
+  "title_he": "עסקים וכלכלה",
+  "default_lang": "en",
+  "generated_at": "2026-11-23T03:57:50+00:00",
+  "stories": [
+    {
+      "id": "walmart-nvidia-pe-gap",
+      "kind": "analysis",
+      "en": {
+        "headline": "Why Walmart's Stock Looks Pricier Than Nvidia's",
+        "scroll": "A tech-stock selloff has pushed Walmart's price-to-earnings multiple to about 45, versus roughly 13 for Nvidia, as investors rotate out of AI growth bets into defensive consumer staples.",
+        "coffee": "Investors are paying more for a dollar of Walmart's earnings than for a dollar of Nvidia's earnings right now, a reversal that captures the week's market mood. Walmart's price-to-earnings (P/E) ratio, the stock price divided by profit per share, has climbed to roughly 45, while Nvidia's has fallen to about 13, even though Nvidia is still growing far faster. The gap shows investors fleeing the artificial-intelligence trade for defensive consumer-staples names they see as safer bets right now.\n\nThe trigger is a broader tech selloff: the Nasdaq just posted its worst week since March 2020, down about 10%, and Tel Aviv's TA-125 fell 4.3%. In a letter to investors, Phoenix Investments CEO Avner Hadad argued the declines have created opportunities in tech stocks, pointing to exactly this kind of multiple gap with consumer companies. The debate echoes a wider one playing out in markets this week: commentators are openly asking whether the AI boom is following the same arc as the dot-com bubble.\n\nWhat to watch: whether this is a genuine repricing of AI-related risk or a short-term panic that reverses once earnings come in. Other markets are flashing a similar signal — copper slid below $12,000 a ton on doubts about AI-driven demand, and the S&P 500 and gold both fell more than 5% in the same week, an unusually broad, joint selloff. If Walmart's premium and Nvidia's discount persist once the dust settles, it would mark a real shift in how markets price growth against safety.",
+        "deep": "## Background: What a P/E Multiple Actually Tells You\n\nA price-to-earnings (P/E) ratio is one of the simplest yardsticks in investing: take a company's share price and divide it by its earnings per share. The result tells you how many years of today's profit you're effectively paying for if you buy the stock — investors call it a \"multiple\" because it measures how many times earnings the market is willing to multiply into a valuation.\n\nA high multiple usually means the market expects profits to keep growing quickly, or that it trusts those profits to keep arriving no matter what the economy does. A low multiple can mean the opposite: the market doubts the growth will continue, worries about competition, or isn't confident the earnings are durable. Multiples move constantly, but when two companies from very different businesses suddenly swap places — the \"boring\" one getting the richer multiple — it's a signal worth reading literally. That is exactly what happened this week.\n\n## The Story: A 3x Gap Opens Between Walmart and Nvidia\n\nAccording to a report in TheMarker, Walmart's P/E has climbed to around 45, while Nvidia's has fallen to about 13 — a gap of more than three times, between a decades-old retailer and the chipmaker that has been the face of the artificial-intelligence boom. The explanation is a sector rotation: fear that AI-related capital spending is slowing has pushed investors out of technology stocks and into consumer-staples names like Walmart, which sell things people buy regardless of the economic cycle — groceries, household goods, everyday essentials.\n\nThat rotation is the direct result of a tech-stock selloff that has been building for more than a week. The Nasdaq just logged its worst weekly performance since March 2020, down roughly 10%, and in Israel the TA-125 index fell 4.3% over the same stretch. Phoenix Investments CEO Avner Hadad wrote to his fund's investors that the selloff had created buying opportunities in technology stocks, pointing specifically to gaps like the Walmart-Nvidia one: paying 13 times earnings for a company still growing quickly, he argued, looks cheap next to paying 45 times earnings for one that mostly isn't.\n\nThat view sits inside a bigger argument playing out across financial media this week: is the AI investment boom repeating the dot-com bubble of the late 1990s? The comparison isn't perfect — today's AI leaders, Nvidia chief among them, generate enormous real profits, unlike many dot-com-era companies that never turned a profit at all. But it explains why a single disappointing data point or capex warning can now trigger an outsized reaction in AI-exposed stocks: the market has priced in years of uninterrupted growth, leaving little room for even a pause.\n\n## Second-Order Effects: The Rotation Shows Up Everywhere\n\nA valuation shift this size rarely stays contained to two stocks. It shows up across asset classes once investors start reassessing how much risk they're carrying. Copper, heavily used in AI data centers and power infrastructure, briefly fell below $12,000 a ton on the London Metal Exchange as traders questioned whether AI-driven demand projections were overstated — the same doubt, expressed in a different market. Meanwhile the S&P 500 and gold both fell more than 5% in the same week, a rare joint selloff that normally wouldn't happen together, since gold typically rises when stocks fall as investors seek a haven asset. That both fell together suggests this was less a rotation into safety and more a broad, indiscriminate flight from risk — including risk investors thought was uncorrelated.\n\nSouth Korea's Kospi, heavy with chipmakers, extended the losses into Monday, dropping more than 5% even after the government rolled out market-stabilization measures — a sign that state intervention alone isn't resolving the underlying doubt about AI demand. And the financing side of the AI buildout is facing its own scrutiny: Wall Street credit analysts reportedly expect Anthropic's debt to be rated junk despite the company's $900 billion in committed spending, underlining that it isn't only public-equity investors re-examining the economics of the AI boom, but credit markets too.\n\n## What to Watch Next\n\nThe real test is whether this gap closes — through Nvidia's multiple recovering, Walmart's multiple cooling back down, or both reverting toward each other — or whether it persists, in which case it marks a genuine repricing of AI-related risk rather than a passing scare. Watch upcoming earnings from AI-exposed chip and hyperscaler companies for guidance cuts, watch whether Hadad and like-minded value-focused investors actually buy the dip they're describing, and watch whether staples like Walmart keep their premium once the broader selloff calms. If the multiple gap narrows quickly as sentiment stabilizes, that tells you this was fear, not a change in the underlying profit picture."
+      },
+      "he": {
+        "headline": "למה מניית וולמארט נסחרת ביוקר יותר מאנבידיה",
+        "scroll": "גל מכירות בטכנולוגיה הקפיץ את מכפיל הרווח (P/E ratio) של וולמארט לכ-45, לעומת כ-13 בלבד לאנבידיה, כשמשקיעים נמלטים מהימורי ה-AI אל מניות צריכה הגנתיות.",
+        "coffee": "משקיעים משלמים כעת יותר על כל דולר רווח של וולמארט מאשר על דולר רווח של אנבידיה — תמונת מצב שמסכמת את מצב הרוח בשווקים בשבוע האחרון. מכפיל הרווח (P/E ratio) של וולמארט, מחיר המניה חלקי הרווח למניה, טיפס לכ-45, בעוד שזה של אנבידיה צנח לכ-13, אף שאנבידיה עדיין צומחת בקצב הרבה יותר מהיר. הפער משקף בריחה של משקיעים ממסחר ה-AI אל מניות צריכה בסיסית (consumer staples) שנחשבות כעת להימור בטוח יותר.\n\nהטריגר הוא גל מכירות רחב בטכנולוגיה: נאסד\"ק רשם את השבוע הגרוע ביותר שלו מאז מרץ 2020, בנפילה של כ-10%, ומדד ת\"א 125 ירד ב-4.3%. מנכ\"ל הפניקס השקעות, אבנר חדד, כתב במכתב למשקיעים שהירידות יצרו הזדמנויות קנייה במניות טכנולוגיה, והצביע בדיוק על פער מכפילים כזה בין חברות טכנולוגיה לחברות צריכה. הדיון הזה מתכתב עם שאלה רחבה יותר שעולה בשבועות האחרונים: האם בועת ה-AI חוזרת על תסריט בועת הדוט-קום מסוף שנות ה-90?\n\nמה לעקוב: האם זה תמחור מחדש אמיתי של הסיכון בסקטור ה-AI, או פאניקה קצרת מועד שתתהפך כשדוחות הרבעון יתפרסמו. גם שווקים אחרים משדרים אות דומה — הנחושת צנחה מתחת ל-12,000 דולר לטון בלונדון על רקע חששות מהיקף הביקוש שה-AI באמת מייצר, ומדד S&P 500 והזהב ירדו שניהם ביותר מ-5% באותו שבוע, שילוב נדיר שמרמז על בריחה גורפת מסיכון ולא רק רוטציה לכיוון בטוח. אם הפרמיה של וולמארט וההנחה על אנבידיה יישארו על כנן גם כשהאבק ישקע, זה יסמן שינוי אמיתי באופן שבו השוק מתמחר צמיחה מול ביטחון.",
+        "deep": "## רקע: מה מכפיל רווח בעצם אומר לך\n\nמכפיל הרווח (P/E ratio, מ-Price to Earnings) הוא אחד הכלים הבסיסיים ביותר בהשקעות: לוקחים את מחיר המניה ומחלקים ברווח למניה. התוצאה מספרת לך כמה שנות רווח נוכחי אתה בעצם משלם עליהן אם אתה קונה את המניה, ומכאן השם \"מכפיל\" — הוא מודד בכמה פעמים השוק מוכן להכפיל את הרווח כדי לקבל שווי.\n\nמכפיל גבוה בדרך כלל אומר שהשוק מצפה לצמיחה מהירה ברווחים, או שהשוק בוטח שהרווחים האלה יישארו יציבים לא משנה מה יקרה במשק. מכפיל נמוך יכול לרמז על ההפך: השוק מפקפק בהמשך הצמיחה, חושש מתחרות, או פשוט לא בטוח שהרווחים יחזיקו. מכפילים משתנים כל הזמן, אבל כשחברות משני עולמות שונים לגמרי מחליפות ביניהן מקום — כשה\"משעממת\" מקבלת את המכפיל השמן — זה סימן ששווה לקרוא אותו ברצינות. וזה מה שקרה השבוע.\n\n## הסיפור: פער של פי שלושה בין וולמארט לאנבידיה\n\nלפי דיווח ב-TheMarker, מכפיל הרווח של וולמארט טיפס לכ-45, בעוד שזה של אנבידיה צנח לכ-13 — פער של יותר מפי שלושה, בין רשת קמעונאות בת כמה עשרות שנים לבין יצרנית השבבים שהייתה הפנים של גל ה-AI. ההסבר הוא רוטציה סקטוריאלית (sector rotation): החשש שההשקעות הגדולות ב-AI מתחילות להאט הבריח משקיעים ממניות טכנולוגיה לכיוון מניות צריכה בסיסית כמו וולמארט, שמוכרת דברים שאנשים קונים בכל מצב של המחזור הכלכלי — מצרכי מזון, מוצרי בית, דברים יומיומיים.\n\nהרוטציה הזו היא תוצאה ישירה של גל מכירות בטכנולוגיה שנבנה כבר יותר משבוע. נאסד\"ק רשם את השבוע הגרוע ביותר שלו מאז מרץ 2020, נפילה של כ-10%, ובישראל מדד ת\"א 125 ירד ב-4.3% באותה תקופה. מנכ\"ל הפניקס השקעות, אבנר חדד, כתב למשקיעי הקרן שהירידות יצרו הזדמנויות קנייה במניות טכנולוגיה, בדיוק בגלל פערים כמו זה שבין וולמארט לאנבידיה: לשלם מכפיל 13 על חברה שעדיין צומחת בקצב מהיר, לדבריו, נראה זול לעומת מכפיל 45 על חברה שבעיקר לא צומחת.\n\nההשקפה הזו היא חלק מדיון רחב יותר שמתנהל בשבועות האחרונים: האם גל ההשקעות ב-AI חוזר על תסריט בועת הדוט-קום מסוף שנות ה-90? ההשוואה לא מדויקת — חברות ה-AI המובילות של היום, ואנבידיה בראשן, מייצרות רווחים אמיתיים ועצומים, בשונה מרבות מחברות הדוט-קום שלא הרוויחו כסף אף פעם. אבל ההשוואה הזו מסבירה למה נתון מאכזב אחד או אזהרה על קיצוץ בהשקעות הון (capex) יכולים כבר לגרום לתגובה חריגה במניות החשופות ל-AI: השוק תמחר שנים של צמיחה רצופה, ונשאר מעט מרווח גם להפסקה קצרה.\n\n## אפקטים מסדר שני: הרוטציה מופיעה בכל מקום\n\nשינוי תמחור בסדר גודל כזה כמעט ולא נשאר מוגבל לשתי מניות. הוא מתפשט על פני סוגי נכסים שונים כשמשקיעים מתחילים לבדוק מחדש כמה סיכון הם נושאים. הנחושת, שמשמשת רבות בתשתיות מרכזי נתונים (data centers) ואנרגיה של AI, צנחה לרגע מתחת ל-12,000 דולר לטון בבורסת המתכות של לונדון, כשסוחרים מתחילים לפקפק אם תחזיות הביקוש המבוססות על AI לא מוגזמות — אותו חשש בדיוק, רק בשוק אחר. במקביל, מדד S&P 500 והזהב ירדו שניהם ביותר מ-5% באותו שבוע — שילוב נדיר, כי בדרך כלל הזהב עולה כשמניות יורדות, מכיוון שמשקיעים מחפשים בו נכס מבטחה (safe haven). העובדה ששניהם ירדו יחד מרמזת שזו הייתה בריחה רחבה וגורפת מסיכון, ולא רק רוטציה לכיוון ביטחון.\n\nמדד הקוספי (Kospi) הקוריאני, העמוס במניות שבבים, האריך את הירידות גם ביום שני ונפל ביותר מ-5% נוספים, חרף צעדי התערבות ממשלתיים לייצוב השוק — סימן שההתערבות הממשלתית בלבד לא פותרת את החששות ביחס לביקוש האמיתי ל-AI. וגם צד המימון של גל ההשקעות ב-AI נמצא בבדיקה: אנליסטי אשראי בוול סטריט מעריכים, לפי דיווחים, שהחוב של אנתרופיק (Anthropic) יסווג כאג\"ח זבל (junk bonds) חרף התחייבות החברה להשקיע 900 מיליארד דולר — עדות לכך שלא רק משקיעי המניות בוחנים מחדש את הכלכלה של גל ה-AI, אלא גם שוקי האשראי.\n\n## מה לעקוב בהמשך\n\nהמבחן האמיתי הוא אם הפער הזה יצטמצם — דרך התאוששות המכפיל של אנבידיה, התקרבות המכפיל של וולמארט לאחור, או שניהם יחד — או שהוא יישאר כפי שהוא, ואז הוא יסמן תמחור מחדש אמיתי של הסיכון ב-AI ולא רק פחד חולף. שווה לעקוב אחרי דוחות הרבעון הקרובים של חברות שבבים וחברות תשתיות AI לאיתור קיצוצים בתחזיות, לבדוק אם חדד ומשקיעי ערך בעלי השקפה דומה אכן קונים את הירידה כמו שהם מתארים, ולבחון אם מניות צריכה הגנתיות כמו וולמארט ישמרו על הפרמיה שלהן גם כשגל המכירות ייחלש — אם הפער במכפילים יצטמצם מהר כשהרגיעה תחזור, זה סימן שזה היה פחד ולא שינוי בפרופיל הרווחים עצמו."
+      },
+      "tags": [
+        "valuation",
+        "sector-rotation",
+        "ai-selloff",
+        "nvidia"
+      ],
+      "sources": [
+        {
+          "outlet": "TheMarker",
+          "title": "\"זה אבסורד, יש כאן עיוות בתמחור\": מדוע וולמארט נחשבת יקרה יותר מאנבידיה",
+          "url": "https://www.themarker.com/markets/2026-11-22/ty-article/.highlight/000001a2-03c2-d175-abf6-1ff62f520000"
+        },
+        {
+          "outlet": "TheMarker",
+          "title": "מנכ\"ל הפניקס השקעות אחרי הקריסה: \"הרבה מתעשרים נולדים בשבועות אלה\"",
+          "url": "https://www.themarker.com/markets/2026-11-22/ty-article/.premium/000001a2-0201-d175-abf6-1e35d00a0000"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Has the AI Bubble Already Burst?",
+          "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main"
+        },
+        {
+          "outlet": "WSJ — Markets",
+          "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+          "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom"
+        },
+        {
+          "outlet": "Bloomberg — Markets",
+          "title": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Tech stock sell-off deepens in Asia",
+          "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "TA35": {
+      "symbol": "TA35.TA",
+      "last": 3861.51,
+      "prev_close": 3919.0701,
+      "change_pct": -1.47,
+      "as_of": "2026-11-20"
+    },
+    "SP500": {
+      "symbol": "^GSPC",
+      "last": 6910.3901,
+      "prev_close": 7175.8301,
+      "change_pct": -3.7,
+      "as_of": "2026-11-20"
+    },
+    "USDILS": {
+      "symbol": "ILS=X",
+      "last": 3.3404,
+      "prev_close": 3.2982,
+      "change_pct": 1.28,
+      "as_of": "2026-11-23"
+    },
+    "BRENT": {
+      "symbol": "BZ=F",
+      "last": 89.69,
+      "prev_close": 92.57,
+      "change_pct": -3.11,
+      "as_of": "2026-11-22"
+    },
+    "BTC": {
+      "symbol": "BTC-USD",
+      "last": 61462.1211,
+      "prev_close": 60094.0898,
+      "change_pct": 2.28,
+      "as_of": "2026-11-23"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-23",
+  "questions": [
+    {
+      "id": "q1",
+      "section": "business",
+      "story_id": "walmart-nvidia-pe-gap",
+      "answer_index": 3,
+      "en": {
+        "question": "Walmart's price-to-earnings (P/E) ratio has climbed to about 45 while Nvidia's has fallen to about 13, even though Nvidia is still growing far faster. What does this gap mainly reflect?",
+        "options": [
+          "Walmart is now reporting higher profit growth than Nvidia",
+          "Stock splits at both companies mechanically changed their share prices",
+          "Nvidia's accounting profits are being understated due to new tax rules",
+          "Investors are rotating out of AI growth bets into defensive consumer-staples stocks seen as safer right now"
+        ],
+        "explanation": "The widening P/E gap captures investors fleeing the AI trade for defensive names like Walmart that they see as safer bets during the tech selloff."
+      },
+      "he": {
+        "question": "מכפיל הרווח (P/E ratio) של וולמארט טיפס לכ-45, בעוד שזה של אנבידיה צנח לכ-13, אף שאנבידיה עדיין צומחת בקצב הרבה יותר מהיר. מה הפער הזה משקף בעיקר?",
+        "options": [
+          "וולמארט מדווחת כעת על צמיחת רווחים גבוהה יותר מאנבידיה",
+          "פיצולי מניות בשתי החברות שינו באופן מכני את מחירי המניות",
+          "הרווח החשבונאי של אנבידיה מוצג בחסר בשל כללי מיסוי חדשים",
+          "משקיעים בורחים מהימור ה-AI אל מניות צריכה בסיסית (consumer staples) שנחשבות כעת הימור בטוח יותר"
+        ],
+        "explanation": "פער המכפילים המתרחב משקף בריחה של משקיעים ממסחר ה-AI אל מניות כמו וולמארט, שנחשבות הימור בטוח יותר בזמן גל המכירות בטכנולוגיה."
+      }
+    },
+    {
+      "id": "q2",
+      "section": "sports",
+      "story_id": "inter-miami-messi-controversy-playoff-loss",
+      "answer_index": 1,
+      "en": {
+        "question": "What happened when Inter Miami opened their MLS Cup playoff run at home against Columbus Crew?",
+        "options": [
+          "The match ended in a draw and went to penalties",
+          "Inter Miami were stunned 3-0, and Messi avoided a red card despite throwing the ball at an opponent's face",
+          "Inter Miami won comfortably to book their place in the next round",
+          "Messi scored a hat-trick to carry Inter Miami to a win"
+        ],
+        "explanation": "Inter Miami lost 3-0 at home to Columbus Crew, and the game was overshadowed by Messi throwing the ball at an opponent and escaping with no card, leaving Miami facing elimination."
+      },
+      "he": {
+        "question": "מה קרה כשאינטר מיאמי נפתחה בבית במשחק הפתיחה של הפלייאוף של ה-MLS מול קולומבוס קרו?",
+        "options": [
+          "המשחק הסתיים בשוויון ועבר לפנדלים",
+          "אינטר מיאמי הופתעה והפסידה 3:0, ומסי נמנע מכרטיס אדום אף שהטיח את הכדור בפניו של יריב",
+          "אינטר מיאמי ניצחה בנוחות והבטיחה את מקומה בשלב הבא",
+          "מסי כבש הטריק והוביל את אינטר מיאמי לניצחון"
+        ],
+        "explanation": "אינטר מיאמי הפסידה 0:3 בבית לקולומבוס קרו, והמשחק הוצל על ידי מסי שהטיח את הכדור בפניו של יריב ונמנע מכרטיס אדום, כך שמיאמי נותרה בסכנת נפילה מהפלייאוף."
+      }
+    },
+    {
+      "id": "q3",
+      "section": "israeli_politics",
+      "story_id": "ben-gvir-police-helicopter-budget",
+      "answer_index": 0,
+      "en": {
+        "question": "Amid his conflict with the police commissioner, what did National Security Minister Itamar Ben Gvir redirect tens of millions of shekels of police budget toward, and how did Treasury officials describe the move?",
+        "options": [
+          "A firefighting helicopter, which Treasury officials warned was an unlawful use of funds",
+          "A new police headquarters, which the State Comptroller approved",
+          "Riot-control gear, which the move drew no objections",
+          "Bonus payments for officers, which the Knesset Finance Committee blocked"
+        ],
+        "explanation": "Money earmarked for new patrol cars and stations was redirected toward a firefighting helicopter, and Treasury sources said the diversion was not legal."
+      },
+      "he": {
+        "question": "על רקע הסכסוך שלו עם המפכ\"ל, לאן הסיט השר לביטחון לאומי איתמר בן גביר עשרות מיליוני שקלים מתקציב המשטרה, ואיך הגדירו זאת גורמים באוצר?",
+        "options": [
+          "למסוק כיבוי, מהלך שבאוצר התריעו כי הוא אינו חוקי",
+          "למבנה מפקדה חדש למשטרה, שקיבל את אישור מבקר המדינה",
+          "לציוד לפיזור הפגנות, מהלך שלא עורר כל התנגדות",
+          "למענקים לשוטרים, מהלך שוועדת הכספים של הכנסת חסמה"
+        ],
+        "explanation": "כסף שיועד לניידות חדשות ולבניית תחנות הוסט לכיוון רכישת מסוק כיבוי, וגורמים באוצר אמרו כי ההסטה אינה חוקית."
+      }
+    }
+  ]
+}
